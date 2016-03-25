@@ -78,7 +78,7 @@
 
 - [13C Exemption of income of trustee of trust fund arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-trustee-of-trust-fund-arising-from-funds-managed-by-fund-manager-in-Singapore)
 
-- [13CA Exemption of income of non-resident arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-non-resident-arising-from-funds-managed-by-fund-manager-in-Singapore)
+- [13CA Exemption of income of prescribed persons arising from funds managed by fund manager in Singapore](#Exemption-of-income-of-prescribed-persons-arising-from-funds-managed-by-fund-manager-in-Singapore)
 
 - [13D (Repealed)](#Repealed)
 
@@ -183,6 +183,10 @@
 - [14W Deduction for expenditure on licensing intellectual property rights](#Deduction-for-expenditure-on-licensing-intellectual-property-rights)
 
 - [14X Deduction for expenditure incurred to comply with statutory and regulatory requirements](#Deduction-for-expenditure-incurred-to-comply-with-statutory-and-regulatory-requirements)
+
+- [14Y Deduction for expenditure incurred by individual in deriving passive rental income in Singapore](#Deduction-for-expenditure-incurred-by-individual-in-deriving-passive-rental-income-in-Singapore)
+
+- [14Z Attribution of deductible expenses incurred before commencement of trade, etc.](#Attribution-of-deductible-expenses-incurred-before-commencement-of-trade-etc)
 
 - [15 Deductions not allowed](#Deductions-not-allowed)
 
@@ -578,6 +582,8 @@
 
 - [92D Remission of tax of companies for years of assessment 2013, 2014 and 2015](#Remission-of-tax-of-companies-for-years-of-assessment-2013-2014-and-2015)
 
+- [92E Remission of tax of companies for years of assessment 2016 and 2017](#Remission-of-tax-of-companies-for-years-of-assessment-2016-and-2017)
+
 - [93 Repayment of tax](#Repayment-of-tax)
 
 - [93A Relief in respect of error or mistake](#Relief-in-respect-of-error-or-mistake)
@@ -736,7 +742,9 @@ PRELIMINARY
 
 “company” means any company incorporated or registered under any law in force in Singapore or elsewhere;
 
-“Comptroller” means the Comptroller of Income Tax appointed under section 3(1) and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 37J(5), 67(1)(a), 95, 96, 96A and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
+“Comptroller” means the Comptroller of Income Tax appointed under section 3(1) and includes, for all purposes of this Act except the exercise of the powers conferred upon the Comptroller by sections 37IE(7), 37J(5), 67(1)(a), 95, 96, 96A and 101, a Deputy Comptroller or an Assistant Comptroller so appointed;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 “country” includes a territory;
 
@@ -797,6 +805,28 @@ when such communications are in the possession of a person who is entitled to po
 “limited partnership” means a limited partnership registered or formed under any law in force in Singapore or elsewhere;
 
 “local forces” means the Singapore Armed Forces and any volunteer or reserve forces attached thereto;
+
+“offshore mineral” means mineral from the seabed or that is dissolved in sea water;
+
+[Act 34 of 2016 wef 25/03/2016]
+
+“offshore renewable energy” means —
+
+(a) ocean thermal power;
+
+(b) offshore geothermal power;
+
+(c) offshore solar power;
+
+(d) offshore wind power;
+
+(e) osmotic power;
+
+(f) tidal power; or
+
+(g) wave power;
+
+[Act 34 of 2016 wef 25/03/2016]
 
 “permanent establishment” means a fixed place where a business is wholly or partly carried on including —
 
@@ -900,7 +930,13 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 [13/84]
 
-(3) [Deleted by Act 29 of 2012]
+(3) In this Act, a ship (as defined in section 2(1) of the Merchant Shipping Act (Cap. 179)) is used for offshore oil or gas activity if it is used for the exploration or exploitation of offshore oil or gas, or to support any activity that is ancillary to such exploration or exploitation.
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(3A) In this Act, a ship (as defined in section 2(1) of the Merchant Shipping Act (Cap. 179)) is used for offshore renewable energy activity or offshore mineral activity if it is used for the exploration or exploitation of offshore renewable energy or offshore mineral, or to support any activity that is ancillary to such exploration or exploitation.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (4) In this Act, for the avoidance of doubt, a reference to the spouse of a person means a spouse who is of the opposite sex to that person.
 
@@ -1080,7 +1116,9 @@ any information required for the performance of the official duties of the chief
 
 8A\.—(1) The Comptroller may provide an electronic service for —
 
-(a) the filing or submission of any return, estimate, statement or document; or
+(a) the filing or submission of any return, estimate, statement or document, and the provision of any information to the Comptroller under section 65B(3); or
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (b) the service of any notice by the Comptroller.
 
@@ -1098,25 +1136,37 @@ any information required for the performance of the official duties of the chief
 
 [49/2004]
 
-(4) Any agent who is authorised by his principal in the prescribed manner may file or submit any return, estimate, statement or document on behalf of his principal through the electronic service.
+(4) Any agent who is authorised by his principal in the prescribed manner may file or submit any return, estimate, statement or document, or provide any information to the Comptroller, on behalf of his principal through the electronic service.
 
 [49/2004]
 
-(5) Where any return, estimate, statement or document is filed or submitted on behalf of any person under subsection (4) —
+[Act 2 of 2016 wef 11/04/2016]
 
-(a) it shall be deemed to have been filed or submitted with the authority of that person; and
+(5) Where any return, estimate, statement or document is filed or submitted, or any information is provided, on behalf of any person under subsection (4) —
+
+(a) it shall be deemed to have been filed, submitted or provided with the authority of that person; and
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (b) that person shall be deemed to be cognizant of all matters therein.
 
 [49/2004]
 
-(6) Where any return, estimate, statement or document is filed or submitted through the electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code —
+[Act 2 of 2016 wef 11/04/2016]
 
-(a) the return, estimate, statement or document shall, for the purposes of this Act, be presumed to have been filed or submitted by that person unless he adduces evidence to the contrary; and
+(6) Where any return, estimate, statement or document is filed or submitted, or any information is provided, through the electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code —
 
-(b) where that person alleges that he did not file or submit the return, estimate, statement or document, the burden shall be on him to adduce evidence of that fact.
+(a) the return, estimate, statement, document or information shall, for the purposes of this Act, be presumed to have been filed, submitted or provided by that person unless he adduces evidence to the contrary; and
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(b) where that person alleges that he did not file or submit the return, estimate, statement or document, or provide the information, the burden shall be on him to adduce evidence of that fact.
 
 [49/2004]
+
+[Act 2 of 2016 wef 11/04/2016]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (7) Where any person has given his consent for any notice to be served on him through the electronic service, the Comptroller may serve the notice on that person by transmitting an electronic record of the notice to that person’s account with the electronic service.
 
@@ -1124,13 +1174,17 @@ any information required for the performance of the official duties of the chief
 
 (8) Notwithstanding any other written law, in any proceedings under this Act —
 
-(a) an electronic record of any return, estimate, statement or document that was filed or submitted, or any notice that was served, through the electronic service; or
+(a) an electronic record of any return, estimate, statement, document or information that was filed, submitted or provided, or any notice that was served, through the electronic service; or
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (b) any copy or print-out of that electronic record,
 
 shall be admissible as evidence of the facts stated or contained therein if that electronic record, copy or print-out —
 
-(i) is certified by the Comptroller to contain all or any information filed, submitted or served through the electronic service in accordance with this section; and
+(i) is certified by the Comptroller to contain all or any information filed, submitted, provided or served through the electronic service in accordance with this section; and
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (ii) is duly authenticated in the manner specified in subsection (10) or is otherwise authenticated in the manner provided in the Evidence Act (Cap. 97) for the authentication of computer output.
 
@@ -1138,21 +1192,29 @@ shall be admissible as evidence of the facts stated or contained therein if that
 
 (9) For the avoidance of doubt —
 
-(a) an electronic record of any return, estimate, statement or document that was filed or submitted, or any notice that was served, through the electronic service; or
+(a) an electronic record of any return, estimate, statement, document or information that was filed, submitted or provided, or any notice that was served, through the electronic service; or
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (b) any copy or print-out of that electronic record,
 
-shall not be inadmissible in evidence merely because the return, estimate, statement or document was filed or submitted, or the notice was served, without the delivery of any equivalent document or counterpart in paper form.
+shall not be inadmissible in evidence merely because the return, estimate, statement, document or information was filed, submitted or provided, or the notice was served, without the delivery of any equivalent document or counterpart in paper form.
 
 [49/2004]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (10) For the purposes of this section, a certificate —
 
 (a) giving the particulars of —
 
-(i) any person whose authentication code was used to file, submit or serve the return, estimate, statement, document or notice; and
+(i) any person whose authentication code was used to file, submit, provide or serve the return, estimate, statement, document, information or notice; and
 
-(ii) any person or device involved in the production or transmission of the electronic record of the return, estimate, statement, document or notice, or the copy or print-out thereof;
+[Act 2 of 2016 wef 11/04/2016]
+
+(ii) any person or device involved in the production or transmission of the electronic record of the return, estimate, statement, document, information or notice, or the copy or print-out thereof;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (b) identifying the nature of the electronic record or copy thereof; and
 
@@ -1162,9 +1224,11 @@ shall be sufficient evidence that the electronic record, copy or print‑out has
 
 [49/2004]
 
-(11) Where the electronic record of any return, estimate, statement, document or notice, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that document.
+(11) Where the electronic record of any return, estimate, statement, document, information or notice, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that return, estimate, statement, document, information or notice.
 
 [49/2004]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (12) The Comptroller may, for the purposes of the electronic service, approve the use of any symbol, code, abbreviation or notation to represent any particulars or information required under this Act.
 
@@ -1174,7 +1238,9 @@ shall be sufficient evidence that the electronic record, copy or print‑out has
 
 (a) the procedure for the use of the electronic service, including the procedure in circumstances where there is a breakdown or interruption of the electronic service;
 
-(b) the procedure for the correction of errors in, or the amendment of, any return, estimate, statement or document that is filed or submitted through the electronic service;
+(b) the procedure for the correction of errors in, or the amendment of, any return, estimate, statement, document or information that is filed, submitted or provided through the electronic service;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (c) the manner in which a person who has given his consent for a notice to be served on him through the electronic service shall be notified of the transmission of an electronic record of the notice to his account with the electronic service;
 
@@ -1272,13 +1338,19 @@ is the amount of balancing charge.
 
 [2/92; 32/95; 31/98; 7/2007]
 
-(5) Subsection (4)(b) shall apply, with the necessary modifications, to any dredger, seismic ship, or any vessel used for offshore oil or gas activity the income derived from the operation of which is exempt from tax under section 13F or the income derived from the chartering or finance leasing of which is exempt from tax under section 13S.
+(5) In subsection (4) —
 
-[49/2004; 7/2007]
+“foreign ship” has the meaning given to it in section 13F(6);
 
-(5A) In subsections (4) and (5), “finance leasing” has the same meaning as in section 13S(20).
+“Singapore ship” has the meaning given to it in section 13A(16).
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(5A) In subsection (4), “finance leasing” has the same meaning as in section 13S(20).
 
 [7/2007]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (6) Any gains or profits, directly or indirectly, derived by any person from a right or benefit granted on or after 1st January 2003, whether granted in his name or in the name of his nominee or agent, to acquire shares in any company shall, where the right or benefit is obtained by that person by reason of any office or employment held by him, be deemed to be income chargeable to tax under subsection (1)(b), accruing at such time and of such amount as determined under the following provisions:
 
@@ -1435,6 +1507,10 @@ whichever is less.
 whichever is less.
 
 [7/2007]
+
+(16A) Subsection (16) does not apply to any income referred to in that subsection that is derived in the basis period for the year of assessment 2017 or any subsequent year of assessment.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (17) Notwithstanding subsection (16), where it appears to the Comptroller that any amount of income which has been determined under that subsection for the purposes of subsection (1)(a) or (f) ought not to have been so determined for any year of assessment, the Comptroller may, within 6 years (if that year of assessment is 2007 or a preceding year of assessment) or 4 years (if that year of assessment is 2008 or a subsequent year of assessment) after the end of that year of assessment, make such assessment or additional assessment upon the individual as may be necessary in order to make good any loss of tax.
 
@@ -1880,9 +1956,13 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 “relevant amount” means the amount of contributions which would have been required to be made by the relevant employer had such contributions been obligatory under the Central Provident Fund Act in respect of —
 
-(a) the overseas total wages paid to an employee in any year less the aggregate in that year of such part of the overseas ordinary wages paid to the employee in every month in that year as exceeds $4,500 (being a month before September 2011) or $5,000 (being the month of September 2011 or any subsequent month); or
+(a) the overseas total wages paid to an employee in any year less the aggregate in that year of such part of the overseas ordinary wages paid to the employee in every month in that year as exceeds $4,500 (being a month before September 2011), $5,000 (being the month of September 2011 or any subsequent month before January 2016) or $6,000 (being the month of January 2016 or any subsequent month); or
 
-(b) $79,333 (in relation to the year 2011) or $85,000 (in relation to the year 2012 and every subsequent year),
+[Act 2 of 2016 wef 11/04/2016]
+
+(b) $79,333 (in relation to the year 2011), $85,000 (in relation to the years 2012, 2013, 2014 and 2015) or $102,000 (in relation to the year 2016 and every subsequent year),
+
+[Act 2 of 2016 wef 11/04/2016]
 
 whichever is less;
 
@@ -1892,13 +1972,21 @@ whichever is less;
 
 “specified amount” means —
 
-(a) in relation to the year 2005, the difference between $85,000 and the total ordinary wages paid to the employee in that year; and for this purpose, any amount of ordinary wages paid to the employee for any month in the year in excess of $5,000 shall be disregarded;
+(a) [Deleted by Act 2 of 2016 wef 11/04/2016]
 
 (b) in relation to the year 2006, 2007, 2008, 2009 or 2010, the difference between $76,500 and the total ordinary wages paid to the employee in that year; and for this purpose, any amount of ordinary wages paid to the employee for any month in the year in excess of $4,500 shall be disregarded;
 
-(c) in relation to the year 2011, the difference between $79,333 and the total ordinary wages paid to the employee in that year; and for this purpose, any amount of ordinary wages paid to the employee for any month in the year in excess of $4,500 (being a month before September 2011) or $5,000 (being the month of September 2011 or any subsequent month) shall be disregarded; and
+(c) in relation to the year 2011, the difference between $79,333 and the total ordinary wages paid to the employee in that year; and for this purpose, any amount of ordinary wages paid to the employee for any month in the year in excess of $4,500 (being a month before September 2011) or $5,000 (being the month of September 2011 or any subsequent month) shall be disregarded;
 
-(d) in relation to the year 2012 and every subsequent year, the difference between $85,000 and the total ordinary wages paid to the employee in that year; and for this purpose, any amount of ordinary wages paid to the employee for any month in the year in excess of $5,000 shall be disregarded;
+[Act 2 of 2016 wef 11/04/2016]
+
+(d) in relation to the year 2012, 2013, 2014 or 2015, the difference between $85,000 and the total ordinary wages paid to the employee in that year; and for this purpose, any amount of ordinary wages paid to the employee for any month in the year in excess of $5,000 shall be disregarded; and
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(e) in relation to the year 2016 and every subsequent year, the difference between $102,000 and the total ordinary wages paid to the employee in that year; and for this purpose, any amount of ordinary wages paid to the employee for any month in the year in excess of $6,000 is to be disregarded;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 “total wages”, in relation to any year, means the total of the ordinary and additional wages in that year received by an employee;
 
@@ -2068,19 +2156,23 @@ then that amount shall be deemed as income derived by that person from those ser
 
 ### Withdrawals from Supplementary Retirement Scheme
 
-10L\.—(1) Where the amount of withdrawals made by an SRS member from his SRS account in any year exceeds the amount he contributed to his SRS account in that year, the excess amount withdrawn from his SRS account shall, subject to subsections (3), (6), (7), (8) and (9), be deemed to be income of the SRS member chargeable to tax under section 10(1)(g).
+10L\.—(1) Where the amount of withdrawals made by an SRS member from his SRS account in any year exceeds the amount he contributed to his SRS account in that year, the excess amount withdrawn from his SRS account shall, subject to subsections (3), (3G), (6), (7), (8) and (9), be deemed to be income of the SRS member chargeable to tax under section 10(1)(g).
 
 [24/2001]
 
-(2) Except where a withdrawal is made by the Official Assignee or the trustee in bankruptcy of an SRS member who is a bankrupt or where a withdrawal is made under subsection (3), (4) or (8) or deemed to be withdrawn under subsection (6), (7) or (9), a penalty of 5% of the amount withdrawn which is deemed to be income of an SRS member under subsection (1) shall be payable by the SRS member and shall be deducted by the SRS operator from the amount so withdrawn.
+[Act 2 of 2016 wef 11/04/2016]
+
+(2) Except where a withdrawal is made by the Official Assignee or the trustee in bankruptcy of an SRS member who is a bankrupt or where a withdrawal is made under subsection (3), (3G), (4) or (8) or deemed to be withdrawn under subsection (6), (7) or (9), a penalty of 5% of the amount withdrawn which is deemed to be income of an SRS member under subsection (1) shall be payable by the SRS member and shall be deducted by the SRS operator from the amount so withdrawn.
 
 [24/2001]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (2A) The Minister may, for any good cause, remit, wholly or in part, any penalty payable by any SRS member under subsection (2).
 
 [37/2002]
 
-(3) Only 50% of the following withdrawals made by an SRS member from his SRS account shall be deemed to be income of the SRS member chargeable to tax under section 10(1)(g):
+(3) Subject to subsection (3G), only 50% of the following withdrawals made by an SRS member from his SRS account shall be deemed to be income of the SRS member chargeable to tax under section 10(1)(g):
 
 (a) withdrawal of all the funds standing in his SRS account at the same time if the SRS member is neither a citizen of Singapore nor a Singapore permanent resident on the date of the withdrawal and for a continuous period of at least 10 years before that date, and has maintained his SRS account for a period of not less than 10 years from the date of his first contribution to his SRS account;
 
@@ -2089,6 +2181,8 @@ then that amount shall be deemed as income derived by that person from those ser
 (c) any withdrawal made on the ground that the SRS member is physically or mentally incapacitated from ever continuing in any employment, is mentally disordered and incapable of managing himself or his affairs or is suffering from a terminal illness or disease.
 
 [24/2001; 37/2002; 21/2008; 4/2011]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (3A) Subject to subsection (3C), where an SRS member has used funds in his SRS account for any investment, any payment to the SRS member thereafter, being —
 
@@ -2110,7 +2204,7 @@ shall be considered a withdrawal by the SRS member from his SRS account for the 
 
 [22/2011]
 
-(3D) Where any funds in an SRS account have been used for investment, then all the funds standing in the SRS account shall be considered as having been withdrawn at the same time for the purposes of subsection (3)(a) if, and only if, every investment has either been sold or liquidated, or is one which has been deducted from the balance in the SRS account, and —
+(3D) Where any funds in an SRS account have been used for investment, then all the funds standing in the SRS account shall be considered as having been withdrawn at the same time for the purposes of subsections (3)(a) and (3G) if, and only if, every investment has either been sold or liquidated, or is one which has been deducted from the balance in the SRS account, and —
 
 (a) in the case of every investment that has been sold or liquidated, amounts which the financial product provider declared to the SRS member to be all the gains or profits from the investment, all funds used for the investment, and all the proceeds from the sale or liquidation have been returned to the account and these, together with all funds standing in the SRS account, are withdrawn at the same time; and
 
@@ -2118,15 +2212,19 @@ shall be considered a withdrawal by the SRS member from his SRS account for the 
 
 [Act 37 of 2014 wef 01/07/2015]
 
+[Act 2 of 2016 wef 11/04/2016]
+
 (3E) Where —
 
 (a) an SRS member has used funds in his SRS account for any investment; and
 
 (b) the investment is one which has been deducted from the balance in the SRS account,
 
-then an amount equal to the value of the investment as determined in the manner prescribed by regulations made under subsection (11), shall be considered as having been withdrawn by the SRS member from his SRS account on the date of the deduction for the purposes of subsections (1), (2) and (3).
+then an amount equal to the value of the investment as determined in the manner prescribed by regulations made under subsection (11), shall be considered as having been withdrawn by the SRS member from his SRS account on the date of the deduction for the purposes of subsections (1), (2), (3) and (3G).
 
 [Act 37 of 2014 wef 01/07/2015]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (3F) In subsections (3D) and (3E) —
 
@@ -2135,6 +2233,18 @@ then an amount equal to the value of the investment as determined in the manner 
 (b) the date of the deduction is the date of the approval referred to in paragraph (a).
 
 [Act 37 of 2014 wef 01/07/2015]
+
+(3G) Where an SRS member makes a withdrawal of all of the funds standing in the SRS account of the SRS member on the ground that the SRS member is suffering from a terminal illness or disease, then an amount determined in the following manner (if more than zero) is treated as the SRS member’s income chargeable to tax under section 10(1)(g):
+
+where A
+
+is the amount of the withdrawal; and
+
+B
+
+is the amount determined under subsection (9A).
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (4) Where any contribution made by an SRS member in any year to his SRS account exceeds his SRS contribution cap for that year (referred to in this section as excess contribution) —
 
@@ -2192,13 +2302,81 @@ then —
 
 (b) the expiry of the period referred to in subsection (7); or
 
-(c) the closure of his SRS account on or after he has attained the prescribed minimum retirement age prevailing at the time when he made his first contribution to his SRS account.
+(c) the closure of the SRS account of the SRS member —
 
-[24/2001; 34/2008; 4/2011]
+(i) on or after the date the SRS member attains the prescribed minimum retirement age prevailing at the time the SRS member makes the first contribution to the SRS account; or
 
-(9) Where an SRS member dies, any sum standing in his SRS account shall be deemed to be withdrawn on the date of his death and 50% of the sum shall be deemed to be his income chargeable to tax under section 10(1)(g).
+(ii) on or after the date the SRS member becomes physically or mentally incapacitated from ever continuing in any employment, becomes mentally disordered and incapable of managing himself or his affairs, or begins to suffer from a terminal illness or disease.
 
-[24/2001]
+[Act 2 of 2016 wef 11/04/2016]
+
+(9) When an SRS member dies, any sum standing in the SRS account of the SRS member is treated as withdrawn on the date of death, and an amount determined in the following manner (if more than zero) is treated as the SRS member’s income chargeable to tax under section 10(1)(g):
+
+where A
+
+is the amount treated as withdrawn; and
+
+B
+
+is the amount determined under subsection (9A).
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(9A) For the purposes of subsections (3G) and (9), the amount B referred to in those subsections is —
+
+where C
+
+is —
+
+(a)
+
+if the SRS member made a withdrawal under subsection (3)(b) or (c) (not being a withdrawal under subsection (3G)) in any year before the relevant year, the total number of years (a part of a year being treated as a full year) in the period —
+
+(i)
+
+beginning with the year in which the SRS member made the first such withdrawal; and
+
+(ii)
+
+ending with the year immediately before the relevant year,
+
+or, if the first year and the last year in the period are (or are part of) the same year, one; or
+
+(b)
+
+if the SRS member made his first withdrawal under subsection (3)(b) or (c) (not being a withdrawal under subsection (3G)) in the relevant year, or did not make any such withdrawal, zero; and
+
+D
+
+is the lower of —
+
+(a)
+
+$40,000; and
+
+(b)
+
+the sum of the following withdrawals made in the relevant year (which is not a withdrawal under subsection (3G)):
+
+(i)
+
+every withdrawal made under subsection (3)(b);
+
+(ii)
+
+every withdrawal made under subsection (3)(c).
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(9B) In subsection (9A), “relevant year” means —
+
+(a) the year in which the SRS member makes the withdrawal under subsection (3G); or
+
+(b) the year of death of the SRS member,
+
+as the case may be.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (10) For the purposes of this section, the use of funds in his SRS account by an SRS member for investment in savings or investment products offered under the SRS and for disbursement of any charges in relation to the operation of his SRS account shall be deemed not to be a withdrawal from his SRS account.
 
@@ -2489,6 +2667,10 @@ made under a securities lending or repurchase arrangement by a Singapore-based t
 and any ship or aircraft owned or chartered by him calls at a port, an aerodrome or an airport in Singapore, his full profits arising from the carriage of passengers, mail, livestock or goods shipped, or loaded into an aircraft, in Singapore shall be deemed to accrue in Singapore.
 
 (2A) Subsection (2) shall not apply to passengers, mail, livestock or goods which are brought to Singapore solely for transhipment, or for transfer from one aircraft to another or from an aircraft to a ship or from a ship to an aircraft.
+
+(2B) In subsections (2) and (2A), “ship” has the same meaning as in section 2(1) of the Merchant Shipping Act (Cap. 179).
+
+[Act 2 of 2016 wef 11/04/2016]
 
 ### Cable or wireless undertakings
 
@@ -2802,13 +2984,17 @@ Provided that the amount of the voluntary contribution does not exceed the amoun
 
 except for any payment attributable to the carriage of passengers, mail, livestock or goods from Singapore;
 
-(oa) payments liable to be made on or after 17th February 2012 to a person not resident in Singapore (excluding any permanent establishment in Singapore) for the charter of any ship under any agreement or arrangement;
+(oa) payments liable to be made on or after 17th February 2012 to a person not resident in Singapore (excluding any permanent establishment in Singapore) for the charter of any ship (as defined in section 2(1) of the Merchant Shipping Act (Cap. 179)) under any agreement or arrangement;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (p) for a period of 5 years from 1st January 2003, such income of the Singapore Commodity Exchange Limited as may be prescribed;
 
 (q) the investment income of any approved pension or provident fund or society;
 
-(r) the income derived on or after 3rd May 2002 by an individual not resident in Singapore from acting as an arbitrator, and for this purpose, “arbitrator” means an individual appointed for any arbitration which is governed by the Arbitration Act (Cap. 10) or the International Arbitration Act (Cap. 143A) or would have been governed by either of those Acts had the place of arbitration been Singapore;
+(r) the income derived during the period from 3 May 2002 to 31 March 2020 (both dates inclusive) by an individual not resident in Singapore from acting as an arbitrator, and for this purpose, “arbitrator” means an individual appointed for any arbitration which is governed by the Arbitration Act (Cap. 10) or the International Arbitration Act (Cap. 143A) or would have been governed by either of those Acts had the place of arbitration been Singapore;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (ra) the income derived during the period from 1 April 2015 to 31 March 2020 (both dates inclusive) by a qualifying mediator who is not resident in Singapore, for providing the services of a mediator for a mediation —
 
@@ -2932,9 +3118,7 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zq) any contribution to the Central Provident Fund in respect of an individual, and any cash payment to an individual, made by the Government under the Workfare Income Supplement Scheme established under Part VIA of the Central Provident Fund Act; and
 
-(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards.
-
-[Act 39 of 2017 wef 01/04/2014]
+(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Recognition Award.
 
 [26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
 
@@ -3320,7 +3504,7 @@ applies on or after that date (and despite anything in the order) only to income
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive)in any other case;
+(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive) in any other case;
 
 [Act 37 of 2014 wef 27/11/2014]
 
@@ -3450,9 +3634,11 @@ but does not include any sum paid in respect of any debt securities, units of a 
 
 (ii) is the buyer under a contract for the construction of a ship that, at that time, is intended to be registered or is provisionally registered under the Merchant Shipping Act,
 
-and the special purpose company does not at that time own any foreign ship, foreign dredger, foreign seismic ship or any foreign vessel used for offshore oil or gas activity.
+and the special purpose company does not at that time own any foreign ship.
 
 [29/2012]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (1CB) The income referred to in subsection (1CA) does not include —
 
@@ -3492,6 +3678,28 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 [Act 2 of 2016 wef 24/02/2015]
 
+(1CH) The income of a shipping enterprise mentioned in this section includes income derived on or after 25 March 2016 by the shipping enterprise from —
+
+(a) any mobilisation or holding of any ship used or to be used for offshore renewable energy activity, or offshore mineral activity, outside the limits of the port of Singapore; or
+
+(b) the demobilisation of any ship after it has been so used,
+
+where the mobilisation, holding or demobilisation is undertaken by the shipping enterprise itself using a Singapore ship.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(1CI) The income of a shipping enterprise mentioned in this section includes income derived on or after 25 March 2016 by the shipping enterprise from —
+
+(a) any mobilisation or holding of a Singapore ship owned or operated by the shipping enterprise and used or to be used for offshore renewable energy activity, or offshore mineral activity, outside the limits of the port of Singapore; or
+
+(b) the demobilisation of a Singapore ship owned or operated by the shipping enterprise after it has been so used.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(1CJ) The income of a shipping enterprise mentioned in this section includes income derived on or after 25 March 2016 from foreign exchange and risk management activities that are carried out in connection with and incidental to any activity mentioned in subsection (1CH) or (1CI).
+
+[Act 34 of 2016 wef 25/03/2016]
+
 (1D) This section does not apply to income of a shipping enterprise, being an international shipping enterprise approved under section 13F, derived in the basis period for the year of assessment 2012 or any subsequent year of assessment from the operation of foreign ships.
 
 [22/2011]
@@ -3508,11 +3716,13 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 (a) the capital allowances provided under sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21 and 22 shall only be made against the income exempt under this section, and the balance of such allowances shall not be available as a deduction against any other income; and
 
-(b) a loss incurred by a shipping enterprise in respect of any activity referred to in subsection (1), (1B), (1C), (1CD), (1CE), (1CF) or (1CG) for any basis period shall only be deducted against the income from any activity referred to in any of those subsections, and the balance of such loss shall not be available as a deduction against any other income.
+(b) a loss incurred by a shipping enterprise in respect of any activity referred to in subsection (1), (1B), (1C), (1CD), (1CE), (1CF), (1CG), (1CH), (1CI) or (1CJ) for any basis period shall only be deducted against the income from any activity referred to in any of those subsections, and the balance of such loss shall not be available as a deduction against any other income.
 
 [4/75; 31/98; 7/2007; 29/2010; 29/2012]
 
 [Act 2 of 2016 wef 24/02/2015]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (3A) Where a shipping enterprise incurs a loss on any sale or assignment referred to in subsection (1CA) in any basis period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in subsection (1CA) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
 
@@ -3586,13 +3796,17 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 “foreign ship” has the same meaning as in section 13F;
 
-“holding”, in relation to a ship, means keeping the ship on a standby mode for use in offshore oil or gas activity;
+“holding”, in relation to a ship, means keeping the ship on a standby mode for use in offshore oil or gas activity, offshore renewable energy activity or offshore mineral activity;
 
 [Act 2 of 2016 wef 24/02/2015]
 
-“mobilisation”, in relation to a ship, means bringing the ship to a state of readiness for use in offshore oil or gas activity, and includes moving the ship to the deployment site, and outfitting and re‑engineering the ship to bring it to a state of readiness for use in such activity;
+[Act 34 of 2016 wef 25/03/2016]
+
+“mobilisation”, in relation to a ship, means bringing the ship to a state of readiness for use in offshore oil or gas activity, offshore renewable energy activity or offshore mineral activity, and includes moving the ship to the deployment site, and outfitting and re‑engineering the ship to bring it to a state of readiness for use in such activity;
 
 [Act 2 of 2016 wef 24/02/2015]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 “operation” means —
 
@@ -3602,9 +3816,19 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 (ii) towing or salvage operations outside the limits of the port of Singapore;
 
-(iii) the charter of the ship for use outside the limits of the port of Singapore; or
+(iii) the charter of the ship for use outside the limits of the port of Singapore;
 
-(iv) for the year of assessment 2007 and subsequent years of assessment, the use outside the limits of the port of Singapore of the ship as a dredger, seismic ship or vessel used for offshore oil or gas activity; and
+[Act 34 of 2016 wef 25/03/2016]
+
+(iv) for the year of assessment 2007 and subsequent years of assessment, the use outside the limits of the port of Singapore of the ship as a dredger, seismic ship or ship used for offshore oil or gas activity; or
+
+[Act 2 of 2016 wef 11/04/2016]
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(v) the use, on or after 25 March 2016, outside the limits of the port of Singapore of the ship for offshore renewable energy activity or offshore mineral activity; and
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (b) in relation to a foreign ship, the carriage of passengers, mail, livestock or goods shipped in Singapore, except where such carriage arises solely from transhipment from Singapore, or is only within the limits of the port of Singapore;
 
@@ -3614,6 +3838,10 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 “qualifying company”, in relation to a shipping enterprise, means a company at least 50% of the total number of the issued ordinary shares of which are beneficially and directly owned by the enterprise;
 
+“ship” has the same meaning as in section 2(1) of the Merchant Shipping Act;
+
+[Act 2 of 2016 wef 11/04/2016]
+
 “ship management services” means any of the following activities in respect of a ship:
 
 (a) making a purchase or sale of it, or a decision regarding its ownership;
@@ -3622,47 +3850,33 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 (c) sourcing for and deciding on financing for its acquisition;
 
-(d) awarding contracts, entering into alliances, or deciding on pooling, in respect of it;
-
-[Act 39 of 2017 wef 22/02/2010]
+(d) awarding contracts, entering into alliances or deciding on pooling in respect of it;
 
 (e) securing its employment or its cargo;
 
-(f) planning its route and tonnage, including the issuance of voyage instructions;
+(f) planning its route and tonnage;
 
-[Act 39 of 2017 wef 22/02/2010]
+(g) appointing a ship manager or ship agent for it;
 
-(g) appointing a ship manager, ship agent or stevedore for it;
-
-[Act 39 of 2017 wef 22/02/2010]
-
-(h) collecting or arranging for the collection of freight, charter hire, or other payment in exchange for its use;
-
-[Act 39 of 2017 wef 22/02/2010]
+(h) collecting freight in exchange for its use;
 
 (i) arranging insurance for it;
 
-(j) undertaking crew-related matters for it, including the provision of qualified crew, the appointment of a crew manager, the provision of crew training or the arrangement of crew insurance;
+(j) undertaking crew related matters such as the appointment of a crew manager;
 
-[Act 39 of 2017 wef 22/02/2010]
+(k) arranging dry-docking or ship repairs or overhaul;
 
-(k) arranging or supervising dry-docking, repair, overhaul, alteration, maintenance or lay-up of it;
-
-[Act 39 of 2017 wef 22/02/2010]
-
-(l) ensuring that it is adequately equipped with supplies, provisions, spares, stores and lubricating oil;
-
-[Act 39 of 2017 wef 22/02/2010]
+(l) ensuring that it is adequately equipped with supplies, provisions, spares and stores;
 
 (m) supervising its construction, conversion or registration;
 
-(n) liaising with the relevant competent authorities or bodies on safety and manning requirements for it and any other similar matters;
-
-[Act 39 of 2017 wef 22/02/2010]
+(n) liaising with the relevant competent authorities or bodies on ship safety and manning requirements and other similar matters;
 
 “shipping enterprise” means any company owning or operating Singapore ships or foreign ships;
 
-“Singapore ship” means a ship in respect of which a certificate of registry, other than provisionally, has been issued under the Merchant Shipping Act and its registry is not closed or deemed to be closed or suspended;
+“Singapore ship” means a ship in respect of which a certificate of registry (other than a provisional certificate of registry) has been issued under the Merchant Shipping Act and its registry is not closed or deemed to be closed or suspended;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 “special purpose company”, in relation to a shipping enterprise, means a company that is wholly owned by the shipping enterprise and whose only business or intended business is the operation of Singapore ships.
 
@@ -3718,7 +3932,7 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 [Act 37 of 2014 wef 01/04/2014]
 
-### Exemption of income of non-resident arising from funds managed by fund manager in Singapore
+### Exemption of income of prescribed persons arising from funds managed by fund manager in Singapore
 
 13CA\.—(1) There shall be exempt from tax such income as the Minister may by regulations prescribe of any prescribed person arising from funds managed in Singapore by any fund manager.
 
@@ -3962,6 +4176,8 @@ the day immediately before the first‑mentioned day;
 
 [27/2009]
 
+[Act 2 of 2016 wef 11/04/2016]
+
 13D\. [Repealed by Act 19 of 2013]
 
 13E\. [Repealed by Act 19 of 2013]
@@ -3980,9 +4196,13 @@ the day immediately before the first‑mentioned day;
 
 (b) for the year of assessment 2005 and subsequent years of assessment from —
 
-(i) the operation outside the limits of the port of Singapore of any dredger, seismic ship or any vessel used for offshore oil or gas activity; and
+(i) the operation outside the limits of the port of Singapore of any dredger, seismic ship or any ship used for offshore oil or gas activity; and
 
-(ii) the charter of any foreign dredger, foreign seismic ship, or any foreign vessel used for offshore oil or gas activity to any person where such dredger, seismic ship or vessel is used by the person for his operation outside the limits of the port of Singapore;
+[Act 2 of 2016 wef 11/04/2016]
+
+(ii) the charter of any foreign dredger, foreign seismic ship, or any foreign ship used for offshore oil or gas activity to any person where such dredger, seismic ship or ship is used by the person for his operation outside the limits of the port of Singapore;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (c) for the year of assessment 2003 and subsequent years of assessment from —
 
@@ -4000,15 +4220,25 @@ the day immediately before the first‑mentioned day;
 
 (g) on or after 1st June 2011 from —
 
-(i) the sale of a foreign ship, a foreign dredger, a foreign seismic ship or any foreign vessel used for offshore oil or gas activity;
+(i) the sale of a foreign ship used for a prescribed purpose;
 
-(ii) the assignment to another of all its rights as the buyer under a contract for the construction of a ship, dredger, seismic ship or vessel that, at the time of the assignment, is intended to be a foreign ship, a foreign dredger, a foreign seismic ship or any foreign vessel used for offshore oil or gas activity; or
+[Act 2 of 2016 wef 11/04/2016]
 
-(iii) the sale of all of the issued ordinary shares in a special purpose company of the approved international shipping enterprise where, at the time of the sale of the shares, the special purpose company owns any ship, dredger, seismic ship or vessel used for offshore oil or gas activity, or is the buyer under a contract for the construction of any ship, dredger, seismic ship or vessel used for offshore oil or gas activity;
+(ii) the assignment to another of all its rights as the buyer under a contract for the construction of a ship for a prescribed purpose that, at the time of assignment, is intended to be a foreign ship to be used for that or any other prescribed purpose; or
 
-[37/2002; 49/2004; 34/2008; 29/2010; 22/2011; 29/2012]
+[Act 2 of 2016 wef 11/04/2016]
 
-[Act 2 of 2016 wef 24/02/2015]
+(iii) the sale of all of the issued ordinary shares in a special purpose company of the approved international shipping enterprise where, at the time of the sale of the shares, the special purpose company —
+
+(A) owns any foreign ship that is used for a prescribed purpose;
+
+(B) is the buyer under a contract for the construction of a foreign ship for a prescribed purpose that is intended to be used for that or any other prescribed purpose;
+
+(C) owns a Singapore ship within the meaning of section 13A(16) or a ship that is provisionally registered under the Merchant Shipping Act (Cap. 179); or
+
+(D) is the buyer under a contract for the construction of a ship that, at the time of the sale, is intended to be registered or is provisionally registered under the Merchant Shipping Act;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (h) on or after 24 February 2015 from providing prescribed ship management services to any qualifying special purpose vehicle in respect of ships owned or operated by the qualifying special purpose vehicle, unless the conditions of its approval otherwise provides;
 
@@ -4028,13 +4258,61 @@ where the mobilisation, holding or demobilisation is undertaken by the approved 
 
 (i) any mobilisation or holding of a foreign ship owned or operated by the approved international shipping enterprise and used or to be used for offshore oil or gas activity outside the limits of the port of Singapore; or
 
+(ii) the demobilisation of a foreign ship owned or operated by the approved international shipping enterprise after it has been so used;
+
+[Act 2 of 2016 wef 24/02/2015]
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(k) on or after 24 February 2015 from the leasing of any container (other than finance leasing) carried out in connection with its operation of foreign ships and that is incidental to such operation;
+
+[Act 2 of 2016 wef 24/02/2015]
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(l) on or after 25 March 2016 from —
+
+(i) the operation outside the limits of the port of Singapore of any foreign ship for offshore renewable energy activity or offshore mineral activity; and
+
+(ii) the charter of any foreign ship for offshore renewable energy activity or offshore mineral activity to any person, where such ship is used by the person for the person’s operation outside the limits of the port of Singapore;
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(m) on or after 25 March 2016 from —
+
+(i) the sale of a foreign ship used for offshore renewable energy activity or offshore mineral activity;
+
+(ii) the assignment to another of all its rights as the buyer under a contract for the construction of a ship for offshore renewable energy activity or offshore mineral activity that, at the time of assignment, is intended to be a foreign ship to be used for that activity or any prescribed purpose; or
+
+(iii) the sale of all of the issued ordinary shares in a special purpose company of the approved international shipping enterprise where, at the time of the sale of the shares, the special purpose company —
+
+(A) owns any foreign ship that is used for offshore renewable energy activity or offshore mineral activity; or
+
+(B) is the buyer under a contract for the construction of a foreign ship for that activity and that is intended to be used for that activity or any prescribed purpose;
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(n) on or after 25 March 2016 from —
+
+(i) any mobilisation or holding of any ship used or to be used for offshore renewable energy activity, or offshore mineral activity, outside the limits of the port of Singapore; or
+
+(ii) the demobilisation of any ship after it has been so used,
+
+where the mobilisation, holding or demobilisation is undertaken by the approved international shipping enterprise itself using a foreign ship;
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(o) on or after 25 March 2016 from —
+
+(i) any mobilisation or holding of a foreign ship owned or operated by the approved international shipping enterprise and used or to be used for offshore renewable energy activity, or offshore mineral activity, outside the limits of the port of Singapore; or
+
 (ii) the demobilisation of a foreign ship owned or operated by the approved international shipping enterprise after it has been so used; and
 
-[Act 2 of 2016 wef 24/02/2015]
+[Act 34 of 2016 wef 25/03/2016]
 
-(k) on or after 24 February 2015 from the leasing of any container (other than finance leasing) carried out in connection with its operation of foreign ships and that is incidental to such operation.
+(p) on or after 25 March 2016 from foreign exchange and risk management activities which are carried out in connection with and incidental to an activity described in paragraph (l), (n) or (o).
 
-[Act 2 of 2016 wef 24/02/2015]
+[Act 34 of 2016 wef 25/03/2016]
 
 (1A) Unless the Minister or such person as he may appoint permits in a particular case, subsection (1)(e) does not apply to the provision by an approved international shipping enterprise of ship management services to a qualifying special purpose vehicle if at least 50% of the total number of the issued ordinary shares of the enterprise are beneficially owned, whether directly or indirectly, by another approved international shipping enterprise.
 
@@ -4042,15 +4320,25 @@ where the mobilisation, holding or demobilisation is undertaken by the approved 
 
 (1AA) Subsection (1)(g) shall not apply to —
 
-(a) any income of an approved international shipping enterprise as a lessor of a ship, dredger, seismic ship or any vessel used for offshore oil or gas activity, under a finance lease that is treated as a sale under section 10D; or
+(a) any income of an approved international shipping enterprise as a lessor of a foreign ship used for a prescribed purpose, under a finance lease that is treated as a sale under section 10D; or
 
-(b) any income of an approved international shipping enterprise from carrying on a business of trading in ships, dredgers, seismic ships, or vessels used for offshore oil or gas activity, or of constructing ships, dredgers, seismic ships, or vessels used for offshore oil or gas activity for sale.
+[Act 2 of 2016 wef 11/04/2016]
 
-[29/2012]
+(b) any income of an approved international shipping enterprise from carrying on a business of trading in foreign ships used for a prescribed purpose, or of constructing for sale foreign ships for a prescribed purpose.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (1AB) Unless the Minister or such person as he may appoint permits in a particular case, subsection (1)(h) does not apply to the provision by an approved international shipping enterprise of prescribed ship management services to a qualifying special purpose vehicle, if at least 50% of the total number of the issued ordinary shares of the enterprise are beneficially owned, whether directly or indirectly, by another approved international shipping enterprise.
 
 [Act 2 of 2016 wef 24/02/2015]
+
+(1AC) Subsection (1)(m) does not apply to —
+
+(a) any income of an approved international shipping enterprise as a lessor of a foreign ship used for offshore renewable energy activity or offshore mineral activity, under a finance lease that is treated as a sale under section 10D; or
+
+(b) any income of an approved international shipping enterprise from carrying on a business of trading in foreign ships used for either of those activities, or of constructing for sale foreign ships for either of those activities.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (1B) An application may be made to the Minister or such person as he may appoint for a company —
 
@@ -4070,9 +4358,11 @@ to be approved as an approved international shipping enterprise, and the company
 
 [22/2011]
 
-(2A) The approval of an approved international shipping enterprise for a period of exemption referred to in subsection (2)(b) may only be granted at any time between 1st June 2011 and 31st May 2016 (both dates inclusive).
+(2A) The approval of an approved international shipping enterprise for a period of exemption referred to in subsection (2)(b) may only be granted at any time between 1st June 2011 and 31st May 2021 (both dates inclusive).
 
 [22/2011]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (3) In determining the amount of the income of an approved international shipping enterprise which is exempted under this section, the allowances provided for in sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 and 23 —
 
@@ -4082,7 +4372,7 @@ to be approved as an approved international shipping enterprise, and the company
 
 [29/2010]
 
-(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in paragraphs (a) to (f) and (h) to (k) of subsection (1), that loss —
+(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in paragraphs (a) to (f), (h) to (l), (n), (o) and (p) of subsection (1), that loss —
 
 (a) shall be deducted in accordance with section 37; and
 
@@ -4092,9 +4382,13 @@ to be approved as an approved international shipping enterprise, and the company
 
 [Act 2 of 2016 wef 24/02/2015]
 
-(4A) Where an approved international shipping enterprise incurs a loss on any sale or assignment referred to in subsection (1)(g) in any basis period falling, in whole or in part, within the tax exempt period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in subsection (1)(g) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
+[Act 34 of 2016 wef 25/03/2016]
+
+(4A) Where an approved international shipping enterprise incurs a loss on any sale or assignment referred to in subsection (1)(g) or (m) in any basis period falling, in whole or in part, within the tax exempt period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in either subsection (1)(g) or (m) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
 
 [29/2012]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (5) Section 13A(2), (2A), (4), (5), (7), (8) and (9) shall apply to an approved international shipping enterprise, except that any reference to a shipping enterprise shall be read as a reference to an approved international shipping enterprise.
 
@@ -4122,15 +4416,79 @@ to be approved as an approved international shipping enterprise, and the company
 
 [Act 2 of 2016 wef 23/02/2010]
 
+“prescribed purpose”, in relation to a ship, means use for —
+
+(a) the carriage of passengers, mail, livestock or goods;
+
+(b) dredging, seismic, or offshore oil or gas activity;
+
+(c) a towing or salvage operation; or
+
+(d) the mobilisation, holding or demobilisation of another ship;
+
+[Act 2 of 2016 wef 11/04/2016]
+
 [Deleted by Act 2 of 2016 wef 23/02/2010]
+
+“ship” has the same meaning as in section 2(1) of the Merchant Shipping Act;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 “ship management services” has the same meaning as in section 13A(16);
 
-“special purpose company”, in relation to an approved international shipping enterprise, means a company that is wholly owned by the enterprise and whose only business or intended business is undertaking any operation referred to in subsection (1)(a), (b), (c), (f), (i) and (j), or any operation of a Singapore ship as defined in section 13A(16).
+“special purpose company”, in relation to an approved international shipping enterprise, means a company that is wholly owned by the shipping enterprise and whose only business or intended business is —
 
-[32/99; 24/2001; 37/2002; 29/2010; 22/2011; 29/2012]
+(a) any operation mentioned in subsection (1)(a), (b), (c), (f), (i) and (j);
 
-[Act 2 of 2016 wef 24/02/2015]
+(b) any operation of a Singapore ship as defined in section 13A(16); or
+
+(c) any operation or activity mentioned in subsection (1)(l), (n) or (o) that takes place on or after 25 March 2016.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(7) In this section, “qualifying special purpose vehicle”, in relation to a company referred to in paragraph (b) of the definition of “international shipping enterprise” in subsection (6) or an approved international shipping enterprise (called in this subsection the entity), means —
+
+(a) an approved company —
+
+(i) which is incorporated and resident in Singapore; and
+
+(ii) at least 50% of the total number of the issued ordinary shares of which are beneficially owned, whether directly or indirectly, by —
+
+(A) the entity; or
+
+(B) a company which beneficially owns (whether directly or indirectly) at least 50% of the total number of the issued ordinary shares of the entity;
+
+(b) an approved company —
+
+(i) which is incorporated outside Singapore; and
+
+(ii) at least 25% of the total number of the issued ordinary shares of which are beneficially owned, whether directly or indirectly, by the entity;
+
+(c) an approved partnership —
+
+(i) which is registered or formed outside Singapore; and
+
+(ii) of which the entity is entitled, whether directly or indirectly, to at least 25% of its income;
+
+(d) an approved company —
+
+(i) which is incorporated and resident in Singapore, and at least 50% of the total number of the issued ordinary shares of which are beneficially owned directly by another company which is a qualifying special purpose vehicle by virtue of paragraph (a)(ii)(B); or
+
+(ii) which is incorporated outside Singapore, and at least 25% of the total number of the issued ordinary shares of which are beneficially owned directly by another company which is a qualifying special purpose vehicle by virtue of paragraph (a)(ii)(B);
+
+(e) an approved partnership which is registered or formed outside Singapore and one of the partners of which is a company which is a qualifying special purpose vehicle by virtue of paragraph (a)(ii)(B), and is entitled to at least 25% of its income; or
+
+[Act 2 of 2016 wef 23/02/2010]
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(f) any other partnership or company that is approved under subsection (8) as a qualifying special purpose vehicle of the entity, so long as it satisfies the conditions imposed under that subsection.
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(8) The Minister or such person as the Minister may appoint may, in a particular case, and subject to such conditions as the Minister or person considers fit to impose, approve any partnership or company not specified in paragraphs (a) to (e) of subsection (7), as a qualifying special purpose vehicle of the entity mentioned in that subsection.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 ### Exemption of income of foreign trust
 
@@ -4241,6 +4599,10 @@ then this section shall not apply to the trust or company in paragraph (a), or t
 (2B) The total period under subsection (2A)(a) and the further period or periods under subsection (2A)(b) shall not in the aggregate exceed 15 years.
 
 [31/98]
+
+(2C) No approval is to be granted under this section to a venture company on or after 1 April 2020.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (3) The Comptroller shall determine the manner and extent to which allowances under section 19, 19A, 20, 21 or 22 and any expenses, losses and donations allowable under this Act which are attributable to the income referred to in subsection (1) are to be deducted.
 
@@ -5172,7 +5534,7 @@ is the percentage which the value of equity interests of the second level entity
 
 13S\.—(1) Subject to subsections (1B) and (4), there shall be exempt from tax the income derived by an approved shipping investment enterprise —
 
-(a) from the chartering or finance leasing of any sea-going ship, acquired by the approved shipping investment enterprise before or during the period of its approval referred to in subsection (3), to —
+(a) before 25 March 2016 from the chartering or finance leasing of any sea-going ship, acquired by the approved shipping investment enterprise before or during the period of its approval referred to in subsection (3), to —
 
 (i) a person who is neither resident in Singapore nor a permanent establishment in Singapore; or
 
@@ -5180,9 +5542,23 @@ is the percentage which the value of equity interests of the second level entity
 
 for use outside the limits of the port of Singapore;
 
-(b) from the chartering or finance leasing of any sea-going Singapore ship, acquired by the approved shipping investment enterprise before or during the period of its approval referred to in subsection (3), to a shipping enterprise within the meaning of section 13A for use outside the limits of the port of Singapore;
+[Act 34 of 2016 wef 25/03/2016]
 
-(c) for the year of assessment 2009 and subsequent years of assessment, from foreign exchange and risk management activities which are carried out in connection with and incidental to the activities referred to in paragraphs (a) and (b); and
+(b) before 25 March 2016 from the chartering or finance leasing of any sea-going Singapore ship, acquired by the approved shipping investment enterprise before or during the period of its approval referred to in subsection (3), to a shipping enterprise within the meaning of section 13A for use outside the limits of the port of Singapore;
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(c) before 25 March 2016, for the year of assessment 2009 and subsequent years of assessment, from foreign exchange and risk management activities which are carried out in connection with and incidental to the activities referred to in paragraphs (a) and (b);
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(ca) on or after 25 March 2016 from the chartering or finance leasing of any sea‑going ship acquired by the approved shipping investment enterprise before or during the period of its approval mentioned in subsection (3), for use outside the limits of the port of Singapore;
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(cb) on or after 25 March 2016 from foreign exchange and risk management activities which are carried out in connection with and incidental to any activity mentioned in paragraph (ca); and
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (d) on or after 1st June 2011 from —
 
@@ -5194,9 +5570,11 @@ for use outside the limits of the port of Singapore;
 
 [34/2008; 29/2012]
 
-(1A) Subsection (1), in relation to income referred to in paragraph (a), (b) or (c) of that subsection, shall continue to apply to a shipping investment enterprise the approval of which has expired or been withdrawn, but which continues to derive such income in relation to a sea-going ship acquired before or during the period of the approval, provided that the enterprise has by the date of the expiry or before the withdrawal, fulfilled all the conditions referred to in subsection (3); and any reference in this section to an approved shipping investment enterprise shall be construed accordingly.
+(1A) Subsection (1), in relation to income referred to in paragraph (a), (b), (c), (ca) or (cb) of that subsection, shall continue to apply to a shipping investment enterprise the approval of which has expired or been withdrawn, but which continues to derive such income in relation to a sea-going ship acquired before or during the period of the approval, provided that the enterprise has by the date of the expiry or before the withdrawal, fulfilled all the conditions referred to in subsection (3); and any reference in this section to an approved shipping investment enterprise shall be construed accordingly.
 
 [34/2008; 29/2012]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (1AA) Subsection (1)(d) does not apply to —
 
@@ -5210,11 +5588,13 @@ for use outside the limits of the port of Singapore;
 
 [34/2008]
 
-(2) The Minister or such person as he may appoint may, at any time between 1st March 2006 and 31st May 2016 (both dates inclusive), approve a shipping investment enterprise for the purposes of subsection (1).
+(2) The Minister or such person as he may appoint may, at any time between 1st March 2006 and 31st May 2021 (both dates inclusive), approve a shipping investment enterprise for the purposes of subsection (1).
 
 [7/2007; 29/2010; 22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (3) The approval under subsection (2) shall be subject to such conditions as the Minister may specify, and shall —
 
@@ -5222,9 +5602,11 @@ for use outside the limits of the port of Singapore;
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(b) where the approval is granted during the period between 1st March 2011 and 31st May 2016 (both dates inclusive), be for such period not exceeding 5 years, as the Minister may specify,
+(b) where the approval is granted during the period between 1st March 2011 and 31st May 2021 (both dates inclusive), be for such period not exceeding 5 years, as the Minister may specify,
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 except that the Minister may extend the period so specified for such further periods as he thinks fit.
 
@@ -5234,9 +5616,11 @@ except that the Minister may extend the period so specified for such further per
 
 (a) in the case of any ship used for the carriage of goods or passengers, towage or salvage, a period of 30 years; or
 
-(b) in the case of any dredger, seismic ship or any ship used for offshore oil or gas activity, a period of 40 years.
+(b) in the case of any dredger, seismic ship or any ship used for offshore oil or gas activity, offshore renewable energy activity or offshore mineral activity, a period of 40 years.
 
 [7/2007]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (5) In determining the amount of the income of an approved shipping investment enterprise which is exempted under subsection (1), the allowances provided for in sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 and 23, other than allowances made to a lessee of a sea-going ship under regulations made under section 10D —
 
@@ -5246,13 +5630,15 @@ except that the Minister may extend the period so specified for such further per
 
 [7/2007; 34/2008; 29/2010]
 
-(6) Where an approved shipping investment enterprise incurs a loss during the tax exempt period in respect of any activity referred to in paragraphs (a), (b) and (c) of subsection (1), that loss —
+(6) Where an approved shipping investment enterprise incurs a loss during the tax exempt period in respect of any activity referred to in paragraphs (a), (b), (c), (ca) and (cb) of subsection (1), that loss —
 
 (a) shall be deducted in accordance with section 37; and
 
 (b) shall only be deducted against the income referred to in any of those paragraphs, and the balance of such loss shall not be available as a deduction against any other income, except that any balance remaining unabsorbed at the end of the tax exempt period shall be available as a deduction against any other income for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 37.
 
 [29/2012]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (6A) Where an approved shipping investment enterprise incurs a loss on any sale or assignment referred to in subsection (1)(d) in any basis period falling, in whole or in part, within the tax exempt period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in subsection (1)(d) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
 
@@ -5306,7 +5692,11 @@ except that the Minister may extend the period so specified for such further per
 
 “registered business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
 
-“sea-going ship” includes any dredger, seismic ship or any vessel used for offshore oil or gas activity;
+[Deleted by Act 2 of 2016 wef 11/04/2016]
+
+“ship” has the same meaning as in section 2(1) of the Merchant Shipping Act;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 “shipping investment enterprise” means —
 
@@ -5585,6 +5975,8 @@ arising from funds of the master fund or any feeder fund of the structure that a
 (iii) an approved 2nd tier SPV of the structure,
 
 arising from funds of the master fund of the structure that are managed in Singapore by a fund manager.
+
+[Act 2 of 2016 wef 01/04/2015]
 
 [Act 2 of 2016 wef 01/04/2015]
 
@@ -6236,9 +6628,11 @@ where A is —
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(3) For the purposes of this section, any patenting costs or qualifying intellectual property registration costs, as the case may be, incurred by a person prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day he carries on that trade or business.
+(3) For the purposes of this section, any patenting costs or qualifying intellectual property registration costs, as the case may be, incurred by a person prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day he carries on that trade or business but a deduction for these is subject to section 14Z.
 
 [21/2003; 29/2010]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (4) Where a person to whom a deduction for patenting costs or qualifying intellectual property registration costs, as the case may be, has been allowed under subsection (1) sells, transfers or assigns in the basis period for any year of assessment all or any part of the rights for which such patenting costs or qualifying intellectual property registration costs, as the case may be, were incurred, the person shall be deemed to have derived an amount of income for that year of assessment equal to the price at which the rights were sold, transferred or assigned or the deduction which has been allowed under subsection (1), whichever is less.
 
@@ -6578,7 +6972,9 @@ but excludes such expenses on international freight;
 
 [29/2010; 29/2012]
 
-(2) For the purposes of this section, any expenditure incurred by a person prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day on which he carries on that trade or business.
+(2) For the purposes of this section, any expenditure incurred by a person prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day on which he carries on that trade or business but a deduction for this is subject to section 14Z.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (3) For the purposes of subsection (1)(ba) or (d), a claim for deduction shall be allowed to a person only if —
 
@@ -7178,9 +7574,17 @@ must not exceed $1 million for each year of assessment.
 
 [29/2012]
 
-(4) [Deleted by Act 19 of 2013]
+(4) Despite subsection (3), the Minister or such person as the Minister may appoint may, in any particular case, and subject to such conditions precedent and conditions subsequent as the Minister or appointed person may impose, allow a deduction of any expenditure referred to in subsection (3)(b).
 
-(5) [Deleted by Act 19 of 2013]
+[Act 2 of 2016 wef 01/07/2015]
+
+(5) If the firm or company fails to comply with a condition subsequent imposed under subsection (4), the deduction allowed to the firm or company under that subsection is treated as the firm’s or company’s income for the year of assessment in which the Comptroller discovers the non‑compliance.
+
+[Act 2 of 2016 wef 01/07/2015]
+
+(5A) In relation to a deduction under this section, a condition is a condition subsequent if or to the extent that it can only be satisfied after the deduction is allowed, and a condition is a condition precedent if or to the extent that it is not a condition subsequent; and accordingly a condition may, depending on the circumstances, be either a condition precedent or a condition subsequent.
+
+[Act 2 of 2016 wef 01/07/2015]
 
 (6) Section 14B(10) shall apply, with the necessary modifications, to any firm or company to which a deduction is allowed under subsection (1).
 
@@ -7884,9 +8288,11 @@ then the subsidiary company shall be allowed a deduction for the relevant year o
 
 [27/2009]
 
-(4) For the purposes of this section, any renovation or refurbishment expenditure incurred by any person prior to the commencement of his trade, profession or business shall be deemed to have been incurred by that person on the first day he carries on that trade, profession or business.
+(4) For the purposes of this section, any renovation or refurbishment expenditure incurred by any person prior to the commencement of his trade, profession or business shall be deemed to have been incurred by that person on the first day he carries on that trade, profession or business but the deduction for this is subject to section 14Z.
 
 [34/2008]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (5) Where it appears to the Comptroller that a deduction under this section which has been allowed to any person in any year of assessment ought not to have been allowed by virtue of subsection (9)(a), there shall be deemed to be income of the person chargeable to tax, for the year of assessment in which the Comptroller discovers the incorrect claim, an amount equal to such deduction.
 
@@ -8306,9 +8712,11 @@ where A is —
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(5) For the purpose of this section, any expenditure incurred by a person prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day on which he carries on that trade or business.
+(5) For the purpose of this section, any expenditure incurred by a person prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day on which he carries on that trade or business but a deduction for this is subject to section 14Z.
 
 [29/2010]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (6) In this section —
 
@@ -8570,7 +8978,7 @@ where A is —
 
 ### Deduction for expenses incurred before first dollar of income from trade, business, profession or vocation
 
-14U\.—(1) A person who —
+14U\.—(1) Subject to section 14Z, a person who —
 
 (a) derives the first dollar of income from a trade, business, profession or vocation in an applicable basis period; and
 
@@ -8579,6 +8987,8 @@ where A is —
 shall be allowed the deduction or further deduction for the previous expense under and in accordance with that provision.
 
 [22/2011]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (2) For the purposes of subsection (1) —
 
@@ -8839,6 +9249,128 @@ where A is —
 (b) any fine or penalty imposed or security deposit forfeited for a breach of a requirement of any law referred to in subsection (1)(a) or document referred to in subsection (1)(b), including any sum paid to compound any offence.
 
 [Act 37 of 2014 wef 27/11/2014]
+
+### Deduction for expenditure incurred by individual in deriving passive rental income in Singapore
+
+14Y\.—(1) This section applies for the purpose of ascertaining an individual’s income for the basis period for the year of assessment 2016 or a subsequent year of assessment from the letting of a residential property or a part of a residential property in Singapore (not being an excluded property for that basis period), that is chargeable to tax under section 10(1)(f) (called in this section rental income).
+
+(2) Despite any other provisions in this Part, if there are any outgoings or expenses deductible against the rental income under any provision of this Part apart from section 14(1)(a), then there is to be deducted, in lieu of those outgoings or expenses, an amount of expenses computed in accordance with the following formula:
+
+where A
+
+is 15% or such other percentage as may be prescribed under section 7; and
+
+B
+
+is the gross amount of the rental income from the residential property derived in the basis period for that year of assessment.
+
+(3) This section does not apply to —
+
+(a) an individual who has made an election under subsection (4) for this section not to apply to the individual’s rental income derived in the basis period for the year of assessment in question;
+
+(b) any rental income derived by an individual through a partnership; and
+
+(c) any rental income derived by an individual acting in the capacity of a trustee of a trust.
+
+(4) An individual may, in such form and manner and within such time as the Comptroller may determine, make an election to the Comptroller for this section not to apply to all of the individual’s rental income derived in the basis period for a particular year of assessment.
+
+(5) If an individual derives rental income, other than income referred to in subsection (3)(b) or (c), from more than one residential property (not being excluded properties for the basis period) in a basis period, the individual may not make an election under subsection (4) in respect of only one or some of those properties.
+
+(6) In this section —
+
+“excluded property”, in relation to a basis period, means a residential property which, at any time during the period rental income is derived from the property by the individual in question, is permitted under the Planning Act (Cap. 232) to be used whether wholly or in part for any purpose that is not a residential purpose;
+
+“residential property” means —
+
+(a) any detached house, semi‑detached house or terrace house; or
+
+(b) any part of a building (such as a flat or a condominium unit) constructed or adapted for human habitation,
+
+that has a single annual value ascribed to it in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254), and is permitted under the Planning Act to be used for a residential purpose, and includes such other premises as may be prescribed as residential property, but (to avoid doubt) excludes premises that are so permitted for use as a dormitory.
+
+(7) In this section, a property or part of a property is permitted under the Planning Act to be used for a particular purpose if —
+
+(a) it is permitted by a written permission granted under section 14 of that Act to be used for that purpose;
+
+(b) it is authorised by a notification under section 21(6) of that Act to be used for that purpose; or
+
+(c) such use (being an existing use of the property or part and not being the subject of a written permission granted under section 14 of that Act or a notification under section 21(6) of that Act) was a use to which the building or part was put on 1 February 1960, and the building or part has not been put to any other use since that date.
+
+[Act 2 of 2016 wef 11/04/2016]
+
+### Attribution of deductible expenses incurred before commencement of trade, etc.
+
+14Z\.—(1) This section applies where —
+
+(a) a person derives the first dollar of income from a trade, business, profession or vocation in a basis period;
+
+(b) the person incurs an expense —
+
+(i) before the date the person derives the first dollar of income mentioned in paragraph (a); but
+
+(ii) on or after 25 March 2016; and
+
+(c) for the purpose of ascertaining the person’s income from that trade, business, profession or vocation in that basis period, a deduction may be allowed under a provision of this Part for that expense by reason of section 14U.
+
+(2) This section also applies where —
+
+(a) a person commences a trade, business or profession in a basis period;
+
+(b) the person incurs an expense —
+
+(i) before the date the person commences the trade, business or profession; but
+
+(ii) on or after 25 March 2016; and
+
+(c) for the purpose of ascertaining the person’s income from that trade, business or profession in that basis period, a deduction may be allowed under section 14A, 14D, 14Q or 14S by reason of section 14A(3), 14D(2), 14Q(4) or 14S(5), as the case may be.
+
+(3) Where the person’s income from that trade, business, profession or vocation (as the case may be) in that basis period comprises any 2 or all of the following:
+
+(a) normal income;
+
+(b) concessionary income;
+
+(c) exempt income,
+
+the deduction for the expense is to be allowed in the following manner:
+
+(i) where the Comptroller is of the opinion that —
+
+(A) where the expense is one mentioned in subsection (1) — it is incurred in the production of the normal income only; or
+
+(B) where the expense is one mentioned in subsection (1) or (2) and is incurred before the commencement of the trade, business, profession or vocation — it would have been incurred in the production of the normal income had it been incurred after such commencement,
+
+the expense is to be deducted against the normal income;
+
+(ii) where the Comptroller is of the opinion that —
+
+(A) where the expense is one mentioned in subsection (1) — it is incurred in the production of the concessionary income only; or
+
+(B) where the expense is one mentioned in subsection (1) or (2) and is incurred before the commencement of the trade, business, profession or vocation — it would have been incurred in the production of the concessionary income had it been incurred after such commencement,
+
+the expense is to be deducted against the concessionary income;
+
+(iii) where the Comptroller is of the opinion that —
+
+(A) where the expense is one mentioned in subsection (1) — it is incurred in the production of the exempt income only; or
+
+(B) where the expense is one mentioned in subsection (1) or (2) and is incurred before the commencement of the trade, business, profession or vocation — it would have been incurred in the production of the exempt income had it been incurred after such commencement,
+
+the expense is to be deducted against the exempt income;
+
+(iv) in any other case, the expense is to be deducted against the normal income, concessionary income and exempt income (whichever is applicable), in the respective proportions that such part of the normal income, concessionary income and exempt income bear to such part of the total income from that trade, business, profession or vocation in the same basis period, as the Comptroller considers reasonable.
+
+(4) Where the person’s income from that trade, business, profession or vocation in that basis period comprises only concessionary income or only exempt income, the expense is to be deducted against that income.
+
+(5) In this section —
+
+“concessionary income” means income that is subject to a concessionary rate of tax as defined in section 14D(5);
+
+“exempt income” means income that is exempt from tax under this Act or the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+
+“normal income” means income that is subject to tax at the rate of tax in section 42(1) or 43(1), as the case may be.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 ### Deductions not allowed
 
@@ -9376,39 +9908,135 @@ there shall be made to that person, computed in accordance with section 16 —
 
 [Act 37 of 2014 wef 22/02/2014]
 
-(2) Where the Minister or such person as he may appoint, on an application made to him under subsection (1) or (1A), is satisfied that the construction or renovation of the building or structure on industrial land, port land or airport land (as the case may be) promotes such intensified use of the land for the purposes of such trade or business as may be prescribed by regulations, he may, by notice in writing, approve the construction or renovation for the purposes of this section, which approval shall be subject to such conditions as he may impose, including the particular trade or business for which the building or structure is to be used upon completion of construction or renovation.
+(2) Where the Minister or such person as he may appoint, on an application made to him under subsection (1) or (1A) that is a pre‑25 March 2016 application, is satisfied that the construction or renovation of the building or structure on industrial land, port land or airport land (as the case may be) promotes the prescribed intensified use of the land for the purposes of a prescribed trade or business, he may, by notice in writing, approve the construction or renovation for the purposes of this section, which approval shall be subject to such conditions as he may impose, including the particular trade or business for which the building or structure is to be used upon completion of construction or renovation.
 
 [29/2010; 22/2011]
 
 [Act 37 of 2014 wef 22/02/2014]
 
-(2A) Where a trade or business is prescribed under subsection (2), then, unless otherwise provided in regulations —
+[Act 34 of 2016 wef 25/03/2016]
 
-(a) the Minister or appointed person may only approve an application under subsection (2) for a renovation or construction on the ground that it promotes the prescribed intensified use of the land for such trade or business, if —
+(2A) The Minister or such person as he may appoint may, on application by a person who made an application under subsection (1) or (1A) pursuant to which a construction or renovation of a building or structure is approved under subsection (2), vary a condition of the approval as to the particular trade or business for which the building or structure may be used upon completion of the construction or renovation, if the Minister or the appointed person is satisfied that the ground mentioned in subsection (2) for approving an application under subsection (1) or (1A) continues to be met.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(2B) The Minister or such person as he may appoint may, by notice in writing, approve an application made under subsection (1) or (1A) that is a post‑25 March 2016 application if, based on the information provided by the applicant, the Minister or the appointed person is satisfied that —
+
+(a) on completion of the construction or renovation, at least 80% of the total floor area of the building or structure will be used —
+
+(i) by —
+
+(A) a single person who is either the applicant or a person related to the applicant; or
+
+(B) 2 or more persons who satisfy the requirements of relatedness; and
+
+(ii) for one or more prescribed trades or businesses; and
+
+(b) the construction or renovation of the building or structure on the land promotes the prescribed intensified use of the land for the purposes of that trade or business or, if there is more than one trade or business, such of those trades or businesses as may be designated in the regulations.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(2C) An approval under subsection (2B) is subject to the condition that, upon completion of the construction or renovation, at least 80% of the total floor area of the building or structure will be used —
+
+(a) by one or more persons specified in the notice mentioned in subsection (2B) who —
+
+(i) if it will be used by a single person, is either the applicant of the application concerned under subsection (1) or (1A), or a person related to the applicant; or
+
+(ii) if it will be used by 2 or more persons, satisfy the requirements of relatedness; and
+
+(b) for one or more trades or businesses specified in the application.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(2D) An approval under subsection (2B) may be subject to such other conditions as the Minister or the person appointed under that subsection may impose.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(2E) The Minister or such person as he may appoint may, on application by a person who made an application under subsection (1) or (1A) pursuant to which a construction or renovation of a building or structure is approved under subsection (2B) —
+
+(a) substitute any person or trade or business mentioned in subsection (2C) with any other person or trade or business; or
+
+(b) add a person or trade or business to the person or trade or business mentioned in subsection (2C),
+
+if the Minister or the person appointed is satisfied that the requirements in subsection (2B)(a) and (b) continue to be met.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(2F) Where a trade or business is prescribed by regulations under subsection (11A), then, unless otherwise provided in the regulations, the Minister or person appointed under subsection (2) or (2B), as the case may be, may only —
+
+(a) approve an application under subsection (2) for a renovation or construction because it promotes the prescribed intensified use of the land for that trade or business; or
+
+(b) approve an application under subsection (2B) because at least 80% of the total floor area of the building or structure will be used, on completion of the construction or renovation, by a person or persons mentioned in subsection (2B)(a)(i) for that trade or business or for trades or businesses which include that trade or business,
+
+if —
 
 (i) the application is made on or after a prescribed date; and
 
-(ii) the application for planning permission or conservation permission for the construction or renovation is made on or after a prescribed date; and
+(ii) the application for planning permission or conservation permission for the construction or renovation is made on or after a prescribed date.
 
-(b) in relation to any construction or renovation that is approved on the ground mentioned in paragraph (a), the qualifying capital expenditure for which an allowance may be made under subsections (3) and (4) excludes any expenditure incurred before a prescribed date.
+[Act 34 of 2016 wef 25/03/2016]
 
-[Act 2 of 2016 wef 22/02/2014]
+(2G) In relation to any construction or renovation that is approved pursuant to an application to which subsection (2F) applies, the qualifying capital expenditure for which an allowance may be made under subsections (3) and (4) excludes any expenditure incurred before a prescribed date, unless the regulations under subsection (11A) provide otherwise.
 
-(2B) Each prescribed date mentioned in subsection (2A)(a)(i) and (ii) and (b) is, unless otherwise specified in the regulations, the date the trade or business is prescribed under subsection (2).
+[Act 34 of 2016 wef 25/03/2016]
 
-[Act 2 of 2016 wef 22/02/2014]
+(2H) The prescribed date mentioned in subsection (2F)(i) or (ii) or (2G) is, unless otherwise specified in the regulations, the date the trade or business is prescribed by regulations under subsection (11A).
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(2I) To avoid doubt, a reference in subsections (2F) and (2H) to the prescribing of a trade or business under subsection (11A) is, in the case of an application made under subsection (1) or (1A) before 25 March 2016, a reference to the prescribing of a trade or business under subsection (2) in force immediately before that date.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(2J) In relation to any construction or renovation that is approved pursuant to a post‑25 March 2016 application (other than one with only a single specified user and a single specified trade or business), the qualifying capital expenditure for which an allowance may be made under subsections (3) and (4) excludes any expenditure incurred before 25 March 2016.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (3) Where in the basis period for any year of assessment the person has incurred any qualifying capital expenditure on the approved construction or approved renovation, as the case may be, there shall be made to the person for the year of assessment in the basis period for which the expenditure was incurred an allowance to be known as an “initial allowance” equal to 25% of the expenditure.
 
 [29/2010]
 
-(4) Subject to subsections (5) and (6), where the person is, at the end of the basis period for any year of assessment, entitled to a relevant interest in the building or structure which is being used for the purposes of the specified trade or business and in respect of which qualifying capital expenditure is incurred, there shall be made to the person for that year of assessment an allowance to be known as an “annual allowance” equal to 5% of the qualifying capital expenditure incurred by him.
+(4) Subject to subsections (5), (5AA) and (6), where the person is, at the end of the basis period for any year of assessment, entitled to a relevant interest in the building or structure which is being used for the purposes of the specified trade or business or (as the case may be) trades or businesses, and in respect of which qualifying capital expenditure is incurred, there shall be made to the person for that year of assessment an allowance to be known as an “annual allowance” equal to 5% of the qualifying capital expenditure incurred by him.
 
 [29/2010]
 
-(5) No allowance shall be made under subsection (4) for any year of assessment unless at least 80% of the total floor area of the building or structure is used, at the end of the basis period for that year of assessment, by any one person or partnership for the purposes of the specified trade or business.
+[Act 34 of 2016 wef 25/03/2016]
 
-[29/2010; 22/2011]
+(5) Where the construction or renovation is approved pursuant to a pre‑25 March 2016 application, no allowance is to be made under subsection (4) for any year of assessment unless —
+
+(a) in a case where 2 or more temporary occupation permits are to be issued for the subject of the approved construction or renovation, and one or more of those temporary occupation permits have been issued but not all of them, at least 80% of the total floor area of the subject of each temporary occupation permit that has been issued; or
+
+(b) in any other case, at least 80% of the total floor area of the subject of the approved construction or renovation,
+
+is used, at the end of the basis period for that year of assessment, by any one person for the purposes of the specified trade or business, and, for the case in paragraph (a), that person is the same person for all the subjects of the temporary occupation permits that have been issued.
+
+[Act 2 of 2016 wef 11/04/2016]
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(5AA) Where the construction or renovation is approved pursuant to a post‑25 March 2016 application, no allowance is to be made under subsection (4) for any year of assessment unless —
+
+(a) in a case where 2 or more temporary occupation permits are to be issued for the subject of the approved construction or renovation, but not all of those temporary occupation permits have been issued, at least 80% of the total floor area of the subject of each temporary occupation permit that has been issued; or
+
+(b) in any other case, at least 80% of the total floor area of the subject of the approved construction or renovation,
+
+is used, at the end of the basis period for that year of assessment —
+
+(i) for the purposes of the specified trade or business or one or more of the specified trades or businesses; and
+
+(ii) by —
+
+(A) one person who is a specified user and is either the applicant of the post‑25 March 2016 application or related to the applicant; or
+
+(B) 2 or more persons who are specified users and satisfy the requirements of relatedness.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(5A) In subsections (5) and (5AA), the subject of an approved construction or renovation, or of a temporary occupation permit, is the building or structure, all the buildings or structures, or the part or all the parts of a building or structure, as the case may be, that forms or form the subject matter of the approved construction or renovation, or the temporary occupation permit.
+
+[Act 2 of 2016 wef 11/04/2016]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (6) Any annual allowance made to any person under subsection (4) in respect of an approved construction or approved renovation for any year of assessment shall not exceed the amount of qualifying capital expenditure remaining unallowed as at the beginning of the basis period for that year of assessment.
 
@@ -9418,9 +10046,11 @@ there shall be made to that person, computed in accordance with section 16 —
 
 [29/2010]
 
-(8) Where the person fails to comply with any condition imposed under subsection (2) in respect of the approved construction or approved renovation, the Minister or such person as he may appoint, may, by notice in writing, revoke the approval granted under that subsection.
+(8) Where the person fails to comply with the condition in subsection (2C), or any condition imposed under subsection (2) or (2D) in respect of the approved construction or approved renovation, the Minister or such person as he may appoint, may, by notice in writing, revoke the approval granted under that subsection.
 
 [29/2010]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (9) Notwithstanding section 74(1) and (4), where an approval has been revoked under subsection (8), the Comptroller may, at any time, for the purpose of making good any loss of tax attributable to such revocation of approval, assess the person who has utilised the allowance made under this section at such amount or additional amount as according to his judgment ought to have been charged; and this subsection shall also apply, with the necessary modifications, to any assessment which results in any unabsorbed allowances or losses.
 
@@ -9434,15 +10064,21 @@ there shall be made to that person, computed in accordance with section 16 —
 
 [29/2010]
 
+(11A) The Minister may make regulations prescribing matters required or permitted by this section to be prescribed, or necessary or convenient to be prescribed for carrying out or giving effect to this section.
+
+[Act 34 of 2016 wef 25/03/2016]
+
 (12) In this section —
 
 “airport land” means any land zoned for use as an airport under the Master Plan;
 
 [Act 37 of 2014 wef 22/02/2014]
 
-“approved construction or approved renovation” means the construction or renovation, as the case may be, of a building or structure on industrial land, port land or airport land (as the case may be) approved under subsection (2);
+“approved construction or approved renovation” means the construction or renovation, as the case may be, of a building or structure on industrial land, port land or airport land (as the case may be) approved under subsection (2) or (2B);
 
 [Act 37 of 2014 wef 22/02/2014]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 “industrial land” means any land zoned for the purpose of “Business 1” or “Business 2” (other than “Business 1 White” and “Business 2 White”) under the Master Plan, and includes such other land as may be approved by the Minister;
 
@@ -9454,7 +10090,19 @@ there shall be made to that person, computed in accordance with section 16 —
 
 [Act 37 of 2014 wef 22/02/2014]
 
-“qualifying capital expenditure” means the following types of capital expenditure which are incurred in respect of any construction or renovation, between 23rd February 2010 (in the case of subsection (1)) or 22nd February 2014 (in the case of subsection (1A)), and the date of completion of that construction or renovation (both dates inclusive):
+“post-25 March 2016 application” means an application under subsection (1) or (1A) —
+
+(a) that is made on or after 25 March 2016; and
+
+(b) that relates to the construction or renovation of a building or structure for which an application for planning permission or conservation permission is made on or after 25 March 2016;
+
+[Act 34 of 2016 wef 25/03/2016]
+
+“pre-25 March 2016 application” means an application under subsection (1) or (1A) that is not a post‑25 March 2016 application;
+
+[Act 34 of 2016 wef 25/03/2016]
+
+“qualifying capital expenditure” means the following types of capital expenditure:
 
 (a) costs of feasibility study on the layout of the building or structure;
 
@@ -9472,11 +10120,75 @@ there shall be made to that person, computed in accordance with section 16 —
 
 [Act 37 of 2014 wef 22/02/2014]
 
+[Act 2 of 2016 wef 11/04/2016]
+
+[Act 34 of 2016 wef 25/03/2016]
+
 “relevant interest”, in relation to any qualifying capital expenditure incurred on an approved construction or approved renovation of a building or structure, means the interest in that building or structure to which the person who incurred the expenditure was entitled when he incurred it;
 
-“specified trade or business” means the trade or business specified in a condition of approval under subsection (2) as one for which a building or structure shall be used upon completion of the approved construction or approved renovation, as the case may be.
+“specified trade or business” means —
 
-[29/2010; 22/2011]
+(a) the trade or business specified in a condition of approval under subsection (2) as one for which the building or structure may be used upon completion of the approved construction or renovation, including one substituted for that trade or business pursuant to a variation under subsection (2A); or
+
+(b) the trade or business or any of the trades or businesses mentioned in subsection (2C)(b), including one substituted for that trade or business or added under subsection (2E),
+
+as the case may be;
+
+[Act 34 of 2016 wef 25/03/2016]
+
+“specified user” means the person or any of the persons mentioned in subsection (2C), including one substituted for that person or added under subsection (2E);
+
+[Act 34 of 2016 wef 25/03/2016]
+
+“temporary occupation permit” means a temporary occupation permit granted under section 12(3) of the Building Control Act (Cap. 29).
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(13) In this section, capital expenditure for the renovation or construction of a building or structure or of a part of a building or structure, that is incurred after the date a temporary occupation permit is issued for the building, structure or part of the building or structure (as the case may be) is not qualifying capital expenditure.
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(14) In this section —
+
+(a) a reference to a temporary occupation permit issued or to be issued for one or more buildings or structures or one or more parts of a building or structure (called in this paragraph the subject) is, if no temporary occupation permit is issued or to be issued for the subject, a reference to the certificate of statutory completion issued or to be issued under section 12(1) of the Building Control Act for —
+
+(i) the subject; or
+
+(ii) a building or structure that includes the subject; and
+
+(b) a reference to the date of issue of a temporary occupation permit is to be construed accordingly.
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(15) In this section —
+
+(a) 2 or more persons satisfy the requirements of relatedness if —
+
+(i) each of them is related to one or more of the others; and
+
+(ii) either —
+
+(A) one of them is the applicant of the application under subsection (1) or (1A) and the other or others is or are related to the applicant; or
+
+(B) all of them are related to the applicant; and
+
+(b) a person is related to another person if —
+
+(i) one of those persons beneficially holds, directly or indirectly, at least 75% of the total number of issued ordinary shares of the other person (being a company);
+
+(ii) one of those persons is entitled, directly or indirectly, to at least 75% of the income of the other person (being a partnership);
+
+(iii) a third person beneficially holds, directly or indirectly, at least 75% of the total number of issued ordinary shares of each of those persons (being companies);
+
+(iv) a third person is entitled, directly or indirectly, to at least 75% of the income of each of those persons (being partnerships); or
+
+(v) a third person beneficially holds, directly or indirectly, at least 75% of the total number of issued ordinary shares of one of those persons (being a company), and is entitled, directly or indirectly, to at least 75% of the income of the other person (being a partnership).
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(16) A reference to a person in subsections (2B)(a)(i), (2C)(a), (2E)(a) and (b), (5AA)(ii) and (15), and in the definition of “specified user” in subsection (12), includes a partnership.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 ### Initial and annual allowances for machinery or plant
 
@@ -10234,9 +10946,11 @@ which has been certified by any person approved by either the Minister or such p
 
 ### Writing-down allowances for intellectual property rights
 
-19B\.—(1) Subject to this section, where a company carrying on a trade or business has incurred on or after 1st November 2003 capital expenditure in acquiring any intellectual property rights for use in that trade or business, writing-down allowances in respect of that expenditure shall be made to it during a writing-down period of 5 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred.
+19B\.—(1) Subject to this section, where a company carrying on a trade or business has incurred on or after 1st November 2003 capital expenditure in acquiring any intellectual property rights for use in that trade or business and the acquisition date of those rights is on or before the last day of the basis period relating to the year of assessment 2016, writing-down allowances in respect of that expenditure shall be made to it during a writing-down period of 5 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred.
 
 [24/2001; 21/2003]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (1A) Where a company carrying on a trade or business incurs during the basis period for the year of assessment 2011 or the year of assessment 2012 capital expenditure in acquiring one or more intellectual property rights for use in its trade or business, there shall, in addition to the writing-down allowance under subsection (1), be made in respect of all its trades and businesses a writing-down allowance computed in accordance with the following formula:
 
@@ -10255,6 +10969,28 @@ where A is —
 (ii) the balance after deducting from $800,000 the lower of the amounts specified in paragraph (a)(i) and (ii).
 
 [22/2011]
+
+(1AA) Where —
+
+(a) a company carrying on a trade or business has incurred capital expenditure in acquiring any intellectual property rights for use in that trade or business; and
+
+(b) the acquisition date of those rights is on or after the first day of the basis period relating to the year of assessment 2017,
+
+writing-down allowances in respect of that expenditure must be made to it during a writing‑down period of 5 years, 10 years or 15 years (as elected by the company) beginning with the year of assessment relating to the basis period in which that expenditure is incurred.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(1AB) The company mentioned in subsection (1AA) must make an irrevocable election to the Comptroller for the writing‑down allowances to be made to it over a writing-down period of 5 years, 10 years or 15 years.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(1AC) The election under subsection (1AB) must be made at the time of lodgment of the company’s return of income for the year of assessment relating to —
+
+(a) if the payment for the intellectual property rights is made by instalments, the basis period in which the first of any deposit or instalment payment for those rights is made; or
+
+(b) in any other case, the basis period in which the expenditure is incurred.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (1B) Subject to section 37IC, where a company carrying on a trade or business incurs during the basis period for the year of assessment 2013, the year of assessment 2014 or the year of assessment 2015 capital expenditure in acquiring one or more intellectual property rights for use in its trade or business, there shall, in addition to the writing-down allowance under subsection (1), be made in respect of all its trades and businesses a writing-down allowance computed in accordance with the following formula:
 
@@ -10282,7 +11018,7 @@ where A is —
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(1BAA) Subject to section 37IC, where a company carrying on a trade or business incurs during the basis period for the year of assessment 2016, 2017 or 2018 capital expenditure in acquiring one or more intellectual property rights for use in its trade or business, there shall, in addition to the writing‑down allowance under subsection (1), be made in respect of all its trades and businesses, a writing‑down allowance computed in accordance with the following formula:
+(1BAA) Subject to section 37IC, where a company carrying on a trade or business incurs during the basis period for the year of assessment 2016, 2017 or 2018 capital expenditure in acquiring one or more intellectual property rights for use in its trade or business, there shall, in addition to the writing‑down allowance under subsection (1) or (1AA), be made in respect of all its trades and businesses, a writing‑down allowance computed in accordance with the following formula:
 
 where A is —
 
@@ -10305,6 +11041,8 @@ where A is —
 (ii) the balance after deducting from $1,200,000 the lower of the amounts specified in paragraph (a)(i) and (ii), and the lower of the amounts specified in paragraph (b)(i) and (ii).
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (1BA) In subsection (1A), the amount under paragraph (a)(ii) shall be substituted with “$400,000” if the company does not carry on any trade or business during the basis period for the year of assessment 2012, and the balance under paragraph (b)(ii) shall be substituted with “$400,000” if the company does not carry on any trade or business during the basis period for the year of assessment 2011.
 
@@ -10340,13 +11078,15 @@ where A is —
 
 (b) a reference to the capital expenditure incurred on the acquisition of one or more intellectual property rights during the basis period for a year of assessment excludes the amount of any instalment paid or deposit made by it under that agreement or any of those agreements during the basis period; and
 
-(c) the allowance referred to in subsection (1A), (1B) or (1BAA) in respect of each right that is the subject of an agreement shall be made to the company for the year of assessment in respect of each basis period during which it paid an instalment or instalments, or made a deposit or deposits, under the agreement, in the proportion which the total amount of the instalment or instalments paid, and deposit or deposits made, during that basis period for that right bears to the total amount of all instalments and deposits under the agreement for that right.
+(c) the allowance referred to in subsection (1A), (1B) or (1BAA) in respect of each right that is the subject of an agreement shall be made to the company for the year of assessment in respect of each basis period during which it paid an instalment or instalments, or made a deposit or deposits, under the agreement, in the proportion which the total amount of the instalment or instalments paid (excluding any finance charges), and deposit or deposits made, during that basis period for that right bears to the total amount of all instalments (excluding any finance charges) and deposits under the agreement for that right.
 
 [29/2010]
 
 [Act 37 of 2014 wef 27/11/2014]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (1D) No writing-down allowance under subsections (1A), (1B) and (1BAA) shall be made for any capital expenditure incurred in acquiring any intellectual property rights in any software which are acquired for the purpose of licensing all or any of those rights to another.
 
@@ -10354,31 +11094,65 @@ where A is —
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(2) The total writing-down allowances to be made to a company under subsection (1) and subsection (1A), (1B) or (1BAA) for any year of assessment shall be an amount equal to 20% of the aggregate of —
+(1E) To avoid doubt, the writing-down allowance under subsection (1A), (1B) or (1BAA) is to be made to a company during the applicable writing‑down period in subsection (1) or (1AA).
 
-(a) the capital expenditure incurred by it on the acquisition of the intellectual property rights; and
+[Act 34 of 2016 wef 25/03/2016]
 
-(b) the writing-down allowances under subsection (1A), (1B) or (1BAA).
+(2) The total writing-down allowance to be made for any year of assessment to a company for capital expenditure incurred in acquiring any intellectual property rights under subsection (1) or (1AA), and under subsection (1A), (1B) or (1BAA), is an amount computed in accordance with the formula
 
-[29/2010]
+where A
 
-[Act 37 of 2014 wef 27/11/2014]
+is —
 
-[Act 37 of 2014 wef 27/11/2014]
+(a)
+
+20% if the writing-down period for that allowance is 5 years;
+
+(b)
+
+10% if the writing-down period for that allowance is 10 years; or
+
+(c)
+
+% if the writing-down period for that allowance is 15 years; and
+
+B
+
+is the sum of —
+
+(a)
+
+the capital expenditure; and
+
+(b)
+
+the writing-down allowance under subsection (1A), (1B) or (1BAA) for that expenditure.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (2A) The writing-down allowances to be made to a company under this section shall be allowed only if —
 
-(a) there is an undertaking by the company that it is an assignee of the intellectual property rights; and
+(a) there is an undertaking by the company that it is an assignee of the intellectual property rights;
 
-(b) the claim is made by the company in such manner and subject to such conditions as the Comptroller may require.
+[Act 34 of 2016 wef 25/03/2016]
+
+(b) the claim is made by the company in such manner and subject to such conditions as the Comptroller may require; and
 
 [21/2003]
 
-(2B) The Minister or such person as he may appoint may in any particular case waive the requirement under subsection (2A) in respect of any intellectual property rights acquired on or after 17th February 2006, subject to such conditions as he may impose.
+[Act 34 of 2016 wef 25/03/2016]
+
+(c) in the case of writing‑down allowances mentioned in subsection (1AA), the company makes the election mentioned in subsection (1AB).
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(2B) The Minister or such person as he may appoint may in any particular case waive any of the requirements under subsection (2A)(a) and (b) in respect of any intellectual property rights acquired on or after 17th February 2006, subject to such conditions as he may impose.
 
 [7/2007]
 
-(2C) Notwithstanding subsections (1) and (2), where a company that is an approved media and digital entertainment company carrying on a trade or business has acquired on or after 22nd January 2009 approved intellectual property rights pertaining to films, television programmes, digital animations or games, or other media and digital entertainment contents, for use in that trade or business, writing-down allowances in respect of the capital expenditure incurred in acquiring those rights —
+[Act 34 of 2016 wef 25/03/2016]
+
+(2C) Notwithstanding subsections (1), (1AA) and (2), where a company that is an approved media and digital entertainment company carrying on a trade or business has acquired on or after 22nd January 2009 approved intellectual property rights pertaining to films, television programmes, digital animations or games, or other media and digital entertainment contents, for use in that trade or business, writing-down allowances in respect of the capital expenditure incurred in acquiring those rights —
 
 (a) shall be made to it during a writing-down period of 2 years beginning with the year of assessment relating to the basis period in which that expenditure is incurred; and
 
@@ -10386,13 +11160,17 @@ where A is —
 
 [27/2009]
 
-(2D) No writing-down allowances under subsections (1A), (1B) and (1BAA) shall be made in respect of any intellectual property rights in respect of which the requirement under subsection (2A) has been waived under subsection (2B), or any approved intellectual property rights referred to under subsection (2C).
+[Act 34 of 2016 wef 25/03/2016]
+
+(2D) No writing-down allowances under subsections (1A), (1B) and (1BAA) shall be made in respect of any intellectual property rights in respect of which any of the requirements under subsection (2A)(a) and (b) has been waived under subsection (2B), or any approved intellectual property rights referred to under subsection (2C).
 
 [29/2010]
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(2E) Where writing-down allowances have been made to any company under subsection (1A), (1B) or (1BAA) in respect of the acquisition of any intellectual property rights and any of the following events occurs within 5 years from the acquisition of such intellectual property rights:
+[Act 34 of 2016 wef 25/03/2016]
+
+(2E) Where writing-down allowances have been made to any company under subsection (1A), (1B) or (1BAA) in respect of the acquisition of any intellectual property rights and any of the following events occurs within 5 years, 10 years or 15 years (depending on the writing‑down period for those allowances) from the acquisition of such intellectual property rights:
 
 (a) the rights come to an end without being subsequently revived;
 
@@ -10416,11 +11194,13 @@ the following provisions shall apply:
 
 [Act 37 of 2014 wef 27/11/2014]
 
+[Act 34 of 2016 wef 25/03/2016]
+
 (3) Any capital expenditure incurred on the acquisition of any intellectual property rights by a company before the commencement of its trade or business shall be treated for the purpose of this section as if it had been incurred by it on the first day it commences that trade or business.
 
 [24/2001; 21/2003]
 
-(4) Subject to subsection (4A), where writing-down allowances have been made to any company under subsection (1) or (2C) in respect of any intellectual property rights and, before the end of the writing-down period, any of the following events occurs:
+(4) Subject to subsection (4A), where writing-down allowances have been made to any company under subsection (1), (1AA) or (2C) in respect of any intellectual property rights and, before the end of the writing-down period, any of the following events occurs:
 
 (a) the rights come to an end without being subsequently revived;
 
@@ -10432,9 +11212,11 @@ no writing-down allowance in respect of the intellectual property rights shall b
 
 (i) the excess; and
 
-(ii) the writing-down allowances made under subsections (1) and (2C).
+(ii) the writing-down allowances made under subsections (1), (1AA) and (2C).
 
 [24/2001; 21/2003; 27/2009; 29/2010]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (4A) Where parts of any intellectual property right are sold, transferred or assigned by the company at different times and at least one sale, transfer or assignment occurs before the end of the writing-down period, subsection (4) shall apply to each sale, transfer and assignment with the following modifications:
 
@@ -10450,13 +11232,17 @@ is the aggregate of the prices of the parts of that right previously sold, trans
 
 or zero, if the amount ascertained by that formula is less than or equal to zero; and
 
-(b) the reference to the writing-down allowances made under subsections (1) and (2C) is a reference to the balance of such allowances made under subsections (1) and (2C) in respect of that right after deducting the total amount of any charges made under this section in respect of that right.
+(b) the reference to the writing-down allowances made under subsections (1), (1AA) and (2C) is a reference to the balance of such allowances made under subsections (1), (1AA) and (2C) in respect of that right after deducting the total amount of any charges made under this section in respect of that right.
 
 [29/2010]
 
-(5) Where a company to whom writing-down allowances have been made under subsections (1) and (2C) in respect of any intellectual property rights sells, transfers or assigns all or any part of those rights after the writing-down period, there shall be made on the company for the year of assessment relating to the basis period in which the sale, transfer or assignment occurs, a charge in an amount equal to the price which the rights were sold, transferred or assigned or in an amount equal to the capital expenditure incurred in acquiring the rights, whichever is less.
+[Act 34 of 2016 wef 25/03/2016]
+
+(5) Where a company to whom writing-down allowances have been made under subsections (1), (1AA) and (2C) in respect of any intellectual property rights sells, transfers or assigns all or any part of those rights after the writing-down period, there shall be made on the company for the year of assessment relating to the basis period in which the sale, transfer or assignment occurs, a charge in an amount equal to the price which the rights were sold, transferred or assigned or in an amount equal to the capital expenditure incurred in acquiring the rights, whichever is less.
 
 [24/2001; 21/2003; 27/2009]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (6) For the purposes of subsection (5), where there is more than one sale, transfer or assignment of any part of any intellectual property rights, the amount of the capital expenditure incurred in acquiring the intellectual property rights for the year of assessment relating to the basis period in which the sale, transfer or assignment of that part of the rights occurs shall be ascertained in accordance with the formula
 
@@ -10492,13 +11278,15 @@ is the total amount of any charges made under this section in any previous years
 
 (10) No writing‑down allowance shall be made —
 
-(a) under subsection (1) for any capital expenditure incurred in respect of intellectual property rights acquired after the last day of the basis period for the year of assessment 2020; or
+(a) under subsection (1) or (1AA) for any capital expenditure incurred in respect of intellectual property rights acquired after the last day of the basis period for the year of assessment 2020; or
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (b) under subsection (2C) for any capital expenditure incurred in respect of intellectual property rights acquired after the last day of the basis period for the year of assessment 2018.
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(10A) No writing-down allowance under subsections (1), (1A), (1B), (1BAA) and (2C) shall be made for any capital expenditure incurred by a company referred to in subsections (1), (1A), (1B), (1BAA) and (2C) in acquiring intellectual property rights from —
+(10A) No writing-down allowance under subsections (1), (1A), (1AA), (1B), (1BAA) and (2C) shall be made for any capital expenditure incurred by a company referred to in subsections (1), (1A), (1AA), (1B), (1BAA) and (2C) in acquiring intellectual property rights from —
 
 (a) its related party ––
 
@@ -10511,6 +11299,8 @@ is the total amount of any charges made under this section in any previous years
 [34/2008; 27/2009; 29/2010]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (10B) The Minister may by order exempt a company from subsection (10A) in respect of such transaction as may be specified in the order.
 
@@ -10528,7 +11318,91 @@ is the total amount of any charges made under this section in any previous years
 
 [Act 37 of 2014 wef 27/11/2014]
 
+(10E) If, in the case of an acquisition of intellectual property rights —
+
+(a) whose acquisition date is on or after 25 March 2016; and
+
+(b) the payment for which is not made by instalments,
+
+the capital expenditure incurred for the acquisition exceeds the open‑market price for those rights, then, for the purpose of determining the amount of writing‑down allowances for that expenditure under subsection (1AA), (1BAA) or (2C), the Comptroller may treat the open‑market price as the amount of that expenditure, and in that event subsection (5) also applies as if the open‑market price were the amount of that expenditure.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(10F) In subsection (10E), “open-market price”, for intellectual property rights, means either —
+
+(a) the price which those rights could have been purchased in the open market on the acquisition date of those rights; or
+
+(b) if, by reason of the special nature of those rights, it is not possible to determine the price mentioned in paragraph (a), such other value as the Comptroller considers to be a reasonable value for those rights after considering the valuation of those rights by an appropriate valuer and other relevant circumstances.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(10G) If, in the case of an acquisition of intellectual property rights —
+
+(a) whose acquisition date is on or after 25 March 2016; and
+
+(b) the payment for which is made by instalments,
+
+the total amount of the deposits and instalment payments (excluding any finance charges) made in a basis period exceeds the open‑market price for those rights, then, for the purpose of determining the amount of writing‑down allowances in such a case under subsection (1AA) or (2C), the Comptroller may treat the open‑market price as the amount of such expenditure, and in that event subsection (5) also applies as if the open‑market price were the amount of such expenditure.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(10H) In subsection (10G), “open-market price”, for intellectual property rights, means an amount computed by the formula
+
+where C
+
+is the total amount of the deposits and instalment payments (excluding any finance charges) made in the basis period;
+
+D
+
+is the total amount of all the deposits and instalment payments (excluding any finance charges) under the agreement to acquire those rights; and
+
+E
+
+is either —
+
+(a)
+
+the price (excluding any finance charges) which those rights could have been purchased in the open market on their acquisition date; or
+
+(b)
+
+if, by reason of the special nature of those rights, it is not possible to determine the price mentioned in sub-paragraph (a), such other value as the Comptroller considers to be a reasonable value for those rights after considering the valuation of those rights by an appropriate valuer and other relevant circumstances.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(10I) If, in the case of an acquisition of intellectual property rights —
+
+(a) whose acquisition date is on or after 25 March 2016; and
+
+(b) the payment for which is made by instalments,
+
+the amount mentioned in subsection (1C)(a)(i) exceeds the open‑market price mentioned in subsection (10F), then, for the purpose of determining the amount of writing‑down allowances to be made for any year of assessment under subsection (1BAA), the Comptroller may treat the open-market price mentioned in subsection (10F) as the amount mentioned in subsection (1C)(a)(i).
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(10J) If —
+
+(a) intellectual property rights or a part of such rights are or is sold, transferred or assigned on or after 25 March 2016; and
+
+(b) the rights or part are or is sold, transferred or assigned for less than the open‑market price,
+
+then, for the purpose of determining the amount of any charge under subsection (4), (4A) or (5), the Comptroller may treat the open‑market price as the price at which the rights or part (as the case may be) are or is sold, transferred or assigned.
+
+[Act 34 of 2016 wef 25/03/2016]
+
+(10K) In subsection (10J), “open-market price”, for intellectual property rights or a part of such rights, means —
+
+(a) the price which those rights or that part would have fetched if sold, transferred or assigned in the open market at the time of the actual sale, transfer or assignment; or
+
+(b) if, by reason of the special nature of those rights or part, it is not possible to determine the price mentioned in paragraph (a), such other value as the Comptroller considers to be a reasonable value for those rights or that part after considering the valuation of those rights or that part by an appropriate valuer and other relevant circumstances.
+
+[Act 34 of 2016 wef 25/03/2016]
+
 (11) In this section —
+
+“appropriate valuer” means a valuer who is independent of any party to the acquisition, sale, transfer or assignment (as the case may be) of the intellectual property rights, and has qualifications and experience that are relevant to the valuation in question;
+
+[Act 34 of 2016 wef 25/03/2016]
 
 “approved” means approved by the Minister or such person as he may appoint, subject to such conditions as he may impose;
 
@@ -10559,6 +11433,14 @@ is the total amount of any charges made under this section in any previous years
 [29/2010; 29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+(13) In this section, for a company, the acquisition date of any intellectual property rights is —
+
+(a) the date of the signing of the agreement to acquire those rights; or
+
+(b) if there is no agreement, the date on which those rights are assigned to the company.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 ### Writing-down allowances for approved cost-sharing agreement for research and development activities
 
@@ -10649,6 +11531,10 @@ is the writing-down period for the IRU.
 (4) Notwithstanding anything in this section, no writing-down allowance shall be granted to any person under subsection (1) in any year of assessment if the international telecommunications submarine cable system is not in use at the end of the basis period for that year of assessment by that person in the trade, business or profession carried on by him.
 
 [21/2003]
+
+(4A) No writing‑down allowance is to be made under subsection (1) for any capital expenditure incurred after 31 December 2020.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (5) Any capital expenditure incurred for the acquisition of any IRU by a person before the commencement of his trade, business or profession shall be treated for the purpose of this section as if it had been incurred by him on the first day he commences that trade, business or profession.
 
@@ -11342,7 +12228,9 @@ carrying on a business of insuring and reinsuring risks in Singapore whose incom
 
 (5) Where a non-resident person has been assessed under subsection (4) because a certificate had not been issued at the time of assessment, he shall be entitled, on the subsequent production of such a certificate to claim at any time within 2 years after the end of such year of assessment, or such further time as the Comptroller may consider reasonable in the circumstances, that his liability to tax for the year be determined on the basis provided by subsection (2).
 
-(6) Where the Comptroller decides that the call of a ship belonging to a particular non-resident shipowner or charterer at a port in Singapore is casual and that further calls by that ship or others in the same ownership are improbable, this section shall not apply to the profits of that ship and no tax shall be chargeable on them.
+(6) Where the Comptroller decides that the call of a ship (within the meaning of section 2(1) of the Merchant Shipping Act) belonging to a particular non-resident shipowner or charterer at a port in Singapore is casual and that further calls by that ship or others in the same ownership are improbable, this section shall not apply to the profits of that ship and no tax shall be chargeable on them.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (7) Notwithstanding anything in subsections (1) to (6), if in computing the profits derived by a resident in Singapore from carrying on the business of a shipowner or charterer, the tax authority of a foreign country determines such profits to be an amount which exceeds 5% of the full sum receivable on account of the carriage of passengers, mail, livestock and goods shipped in that foreign country, the Minister may if he thinks fit direct that, in computing the profits derived in Singapore by a non-resident shipowner or charterer who is resident in that foreign country, the Comptroller shall determine the amount of such profits in such manner as may be substantially similar to that adopted by the tax authority of that foreign country.
 
@@ -12516,9 +13404,19 @@ made by an individual in the year preceding the year of assessment to any instit
 
 [31/86; 1/90; 26/93; 31/98; 24/2001; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 10/2007; 34/2008; 25/2010; 29/2010]
 
-(3A) For the purpose of subsection (3), in relation to any donation made during the period from 1st January 2009 to 31st December 2015 (both dates inclusive), any reference to “twice the value” or “twice the amount” in subsection (3)(b) to (f) shall be read as a reference to 2.5 times the value or 2.5 times the amount, as the case may be.
+(3A) For the purpose of subsection (3), a reference to “twice the value” or “twice the amount” in subsection (3)(b) to (f) is to be read as a reference to —
 
-[27/2009; 29/2010; 22/2011]
+(a) in the case of a donation made during either of the following periods:
+
+(i) from 1 January 2009 to 31 December 2014 (both dates inclusive);
+
+(ii) from 1 January 2016 to 31 December 2018 (both dates inclusive),
+
+2.5 times the value or 2.5 times the amount, as the case may be; or
+
+(b) in the case of a donation made during the period from 1 January 2015 to 31 December 2015 (both dates inclusive), 3 times the value or 3 times the amount, as the case may be.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (3B) No deduction shall be made under subsection (3)(b), (c), (d), (e) or (f) to a person in respect of any donation made to an approved museum, approved recipient not being an approved museum, the Government, an institution of a public character or a prescribed educational, research or other institution in Singapore on or after 1st January 2012 unless he provides to —
 
@@ -13858,6 +14756,10 @@ he may, in lieu of all those allowances, make an irrevocable written election fo
 
 [29/2012]
 
+(4DB) In subsections (4C)(a)(i) and (4D)(a), a reference to the cash price of intellectual property rights is, in a case where the Comptroller has treated the open‑market price mentioned in section 19B(10I) as the amount mentioned in section 19B(1C)(a)(i) in relation to those rights, a reference to the open‑market price.
+
+[Act 34 of 2016 wef 25/03/2016]
+
 (4E) The cash payout under subsection (4A) for each equipment that is the subject of a hire-purchase agreement, or any intellectual property rights that are the subject of an IPR instalment agreement, shall be made to the qualifying person in the following manner:
 
 (a) the qualifying person may claim an amount of cash payout for the year of assessment relating to a basis period or a quarter thereof during which he incurred capital expenditure under the agreement for that equipment or those rights;
@@ -14008,11 +14910,13 @@ Number of complete years the intellectual property rights were held by the quali
 
 [29/2010]
 
-(14) If an election has been made under subsection (1) or (4A) in respect of an amount of expenditure qualifying for a deduction or an allowance under section 14, 14A(1), 14D, 14DA(1), 19, 19A(1), (1B), (2) or (10) or 19B(1), the amount of expenditure qualifying for the deduction or allowance under that provision shall, notwithstanding anything in that provision, be reduced by the first-mentioned amount.
+(14) If an election has been made under subsection (1) or (4A) in respect of an amount of expenditure qualifying for a deduction or an allowance under section 14, 14A(1), 14D, 14DA(1), 19, 19A(1), (1B), (2) or (10) or 19B(1) or (1AA), the amount of expenditure qualifying for the deduction or allowance under that provision shall, notwithstanding anything in that provision, be reduced by the first-mentioned amount.
 
 [22/2011; 29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (14A) If an election has been made under subsection (1) or (4A) in respect of an amount of expenditure qualifying for a deduction or allowance under section 14A(1A), (1B) or (1BA), 14DA(2), 14R, 14S, 14T, 14W, 19A(2A), (2B) or (2BAA) or 19B(1A), (1B) or (1BAA), the amount of expenditure qualifying for the deduction or allowance under that provision shall, notwithstanding anything in that provision, not exceed the difference between —
 
@@ -14175,6 +15079,10 @@ and the local person shall be treated as employed by the qualifying person for t
 (21C) In subsections (7), (8), (8A), (8B) and (10), a reference to expenditure incurred on the provision of a PIC automation equipment includes a reference to expenditure incurred on the provision of a website for the purposes of a trade, profession or business, and a reference to PIC automation equipment includes a reference to such a website.
 
 [Act 37 of 2014 wef 27/11/2014]
+
+(21D) To avoid doubt, where the Comptroller has treated the open-market price mentioned in section 19B(10E) as the capital expenditure incurred for the acquisition of intellectual property rights, then the reference in this section to selected expenditure, insofar as it relates to that capital expenditure, is a reference to such open‑market price.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (22) The Comptroller may allow an election under subsection (1) or (4A), or both, to be made in respect of 2 or more consecutive quarters of the basis period for the year of assessment 2013, the year of assessment 2014, the year of assessment 2015, the year of assessment 2016, the year of assessment 2017 or the year of assessment 2018, and for that purpose —
 
@@ -14771,9 +15679,11 @@ the imprisonment he shall be liable to shall not be less than 6 months.
 
 ### Deduction for qualifying investments in qualifying start-up companies
 
-37K\.—(1) Where an individual proposes to make one or more qualifying investments that complies with subsection (4) in a qualifying start-up company or companies, he may apply to the Minister, or such person as he may appoint, between 1st July 2010 and 31st March 2015 (both dates inclusive) to be approved as a qualifying person for the purposes of claiming a deduction under this section in respect of the expenditure incurred by him in making the investments.
+37K\.—(1) Where an individual proposes to make one or more qualifying investments that complies with subsection (4) in a qualifying start-up company or companies, he may apply to the Minister, or such person as he may appoint, between 1st July 2010 and 31st March 2020 (both dates inclusive) to be approved as a qualifying person for the purposes of claiming a deduction under this section in respect of the expenditure incurred by him in making the investments.
 
 [29/2010]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (2) Where the Minister or the person appointed by him is satisfied that the individual possesses the necessary experience, skills or expertise to nurture and grow a qualifying start-up company, he may approve, by notice in writing, the individual as a qualifying person, subject to such conditions as he may impose.
 
@@ -14793,7 +15703,9 @@ he shall be allowed on due claim, for the year of assessment relating to the bas
 
 (a) either —
 
-(i) during the period between 1st July 2010 and 31st March 2015 (both dates inclusive); or
+(i) during the period between 1st July 2010 and 31st March 2020 (both dates inclusive); or
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (ii) if the Minister or such person as he may appoint so approves, during the period between 1st March 2010 and 30th June 2010 (both dates inclusive);
 
@@ -14819,7 +15731,9 @@ is the aggregate amount of expenditure incurred by the qualifying person on the 
 
 (a) if the total amount of any such expenditure that is incurred on the date of first investment and within one year from that date (but excluding any expenditure incurred on qualifying investment that is disposed of during the relevant holding period) is less than $100,000;
 
-(b) to the extent that it is matched by any investment in the company by the company known as SPRING SEEDS Capital Pte Ltd under the SPRING Start-up Enterprise Development Scheme administered by the second‑mentioned company or any other scheme designated by the Minister or such person as he may appoint;
+(b) to the extent that the expenditure, being expenditure incurred before 24 February 2015, is matched by any investment in the company by the company known as SPRING SEEDS Capital Pte Ltd under the SPRING Start-up Enterprise Development Scheme administered by the second‑mentioned company or any other scheme designated by the Minister or such person as he may appoint;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (c) if all the shares which are the subject of the qualifying investment are disposed of during the relevant holding period;
 
@@ -14993,11 +15907,13 @@ incurs or incur capital expenditure during the period from 1st April 2010 to 31s
 
 (b) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (a);
 
-(c) an acquisition that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
+(c) an acquisition made during the period from 1 April 2010 to 31 March 2015 (both dates inclusive) that results in the acquiring company and its acquiring subsidiaries owning together in total 75% or more of the total number of ordinary shares in the target company where —
 
 (i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company; and
 
 (ii) the date of the acquisition does not fall in the same basis period of the acquiring company as the date of the acquisition referred to in paragraph (a);
+
+[Act 2 of 2016 wef 01/04/2015]
 
 (d) any other acquisition the date of which falls in the same basis period of the acquiring company as that of the acquisition referred to in paragraph (c) and is before 1 April 2016,
 
@@ -15116,7 +16032,7 @@ is the capital expenditure to the extent that it is not contingent consideration
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(9) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(i) shall be calculated in accordance with the formula
+(9) Subject to subsections (13) and (19), the amount referred to in subsection (7)(b)(i) for an acquisition referred to in subsection (4) shall be calculated in accordance with the formula
 
 where B
 
@@ -15804,7 +16720,7 @@ does not exceed $5,000, then the total deductions allowable under this paragraph
 
 Deduction for CPF contributions by self-employed
 
-(h) has carried on a trade, business, profession or vocation and has made contributions to the Central Provident Fund on his own account, or has derived income from a trade, business, profession or vocation and has made contributions in respect of such income to the Fund which were obligatory under the Central Provident Fund Act, there shall be allowed a deduction, in respect of such contributions, of an amount not exceeding 35% (for the year of assessment 2011), 36% (for the year of assessment 2012, 2013, 2014 or 2015) or 37% (for the year of assessment 2016 or a subsequent year of assessment), or such other rate as may be prescribed of his assessable income for that year of assessment derived from such trade, business, profession or vocation or $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015) or $31,450 (for the year of assessment 2016 or a subsequent year of assessment), or such other amount as may be prescribed, whichever is less:
+(h) has carried on a trade, business, profession or vocation and has made contributions to the Central Provident Fund on his own account, or has derived income from a trade, business, profession or vocation and has made contributions in respect of such income to the Fund which were obligatory under the Central Provident Fund Act, there shall be allowed a deduction, in respect of such contributions, of an amount not exceeding 35% (for the year of assessment 2011), 36% (for the year of assessment 2012, 2013, 2014 or 2015) or 37% (for the year of assessment 2016 or a subsequent year of assessment), or such other rate as may be prescribed of his assessable income for that year of assessment derived from such trade, business, profession or vocation or $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015), $31,450 (for the year of assessment 2016) or $37,740 (for the year of assessment 2017 or a subsequent year of assessment), or such other amount as may be prescribed, whichever is less:
 
 Provided that —
 
@@ -15818,13 +16734,15 @@ does not exceed $5,000, then the total deductions allowable under paragraph (g) 
 
 (ia) where the sum referred to in sub-paragraph (i) exceeds $5,000, then no deduction shall be allowed under paragraph (g) in respect of premiums for life insurance;
 
-(ii) the total deductions allowable under paragraph (g) and this paragraph in respect of contributions to any approved pension or provident fund or society shall not exceed $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015) or $31,450 (for the year of assessment 2016 or a subsequent year of assessment), or such other amount as may be prescribed where the deduction allowable under paragraph (g) is less than $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015) or $31,450 (for the year of assessment 2016 or a subsequent year of assessment), or such other amount as may be prescribed in respect of such contributions;
+(ii) the total deductions allowable under paragraph (g) and this paragraph in respect of contributions to any approved pension or provident fund or society shall not exceed $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015), $31,450 (for the year of assessment 2016) or $37,740 (for the year of assessment 2017 or a subsequent year of assessment), or such other amount as may be prescribed where the deduction allowable under paragraph (g) is less than $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015), $31,450 (for the year of assessment 2016) or $37,740 (for the year of assessment 2017 or a subsequent year of assessment), or such other amount as may be prescribed in respect of such contributions;
 
-(iii) no deduction shall be allowed under this paragraph where a deduction of $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015) or $31,450 (for the year of assessment 2016 or a subsequent year of assessment), or such other amount as may be prescribed or more has been allowed under paragraph (g) in respect of contributions to any approved pension or provident fund or society;
+(iii) no deduction shall be allowed under this paragraph where a deduction of $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015), $31,450 (for the year of assessment 2016) or $37,740 (for the year of assessment 2017 or a subsequent year of assessment), or such other amount as may be prescribed or more has been allowed under paragraph (g) in respect of contributions to any approved pension or provident fund or society;
 
-(iv) where the total deductions allowable under this paragraph in respect of contributions which are obligatory under the Central Provident Fund Act and under paragraph (g) in respect of contributions to any approved pension or provident fund or society exceed $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015) or $31,450 (for the year of assessment 2016 or a subsequent year of assessment), or such other amount as may be prescribed, sub-paragraphs (ii) and (iii) shall not apply to such amount of contributions in excess of $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015) or $31,450 (for the year of assessment 2016 or a subsequent year of assessment), or such other amount as may be prescribed which are allowable under this paragraph;
+(iv) where the total deductions allowable under this paragraph in respect of contributions which are obligatory under the Central Provident Fund Act and under paragraph (g) in respect of contributions to any approved pension or provident fund or society exceed $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015), $31,450 (for the year of assessment 2016) or $37,740 (for the year of assessment 2017 or a subsequent year of assessment), or such other amount as may be prescribed, sub-paragraphs (ii) and (iii) shall not apply to such amount of contributions in excess of $26,775 (for the year of assessment 2011), $30,600 (for the year of assessment 2012, 2013, 2014 or 2015), $31,450 (for the year of assessment 2016) or $37,740 (for the year of assessment 2017 or a subsequent year of assessment), or such other amount as may be prescribed which are allowable under this paragraph;
 
 [Act 37 of 2014 wef Y/A 2015 and sub Ys/A]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 Deduction for aged parents
 
@@ -16014,7 +16932,21 @@ except that a payment to a retirement account that is a prescribed payment shall
 
 [22/2011]
 
-(4) [Deleted by Act 22 of 2011]
+(4) For any year of assessment, an individual may only be the subject of a claim or claims for the individual’s maintenance under one dependant provision; and if claims are made under more than one dependant provision, then, subject to any priority given to any claim in the applicable dependant provision, the deduction is to be allowed to the claimant or claimants (as the case may be) under only one of those dependant provisions, being —
+
+(a) the dependant provision that all the claimants have agreed on; or
+
+(b) if the claimants are unable to agree on a dependant provision, the dependant provision determined by the Comptroller.
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(4A) In subsection (4), “dependant provision” means paragraph (a), (c), (d), (e), (i) or (j) of subsection (2).
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(4B) Despite subsection (4), for any year of assessment, an individual may be the subject of claims for the individual’s maintenance under paragraphs (a), (c) and (d) of subsection (2), or any 2 of those paragraphs.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (5) For the purposes of subsections (3) and (3A), a claim for deduction shall only be granted if the claim contains such particulars and is supported by such proof as the Comptroller may require.
 
@@ -16528,7 +17460,9 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 (a) every company or body of persons, tax at the rate of 17% on every dollar of the chargeable income thereof;
 
-(b) every individual not resident in Singapore, tax at the rate of 20% on every dollar of the chargeable income thereof; and
+(b) every individual not resident in Singapore, tax at the rate of 22% on every dollar of the chargeable income thereof; and
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (c) every other person not resident in Singapore, trustee (other than the trustee of an incapacitated person) and executor, tax at the rate of 17% on every dollar of the chargeable income thereof.
 
@@ -16870,6 +17804,10 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [31/86; 20/91]
 
+(1A) This section does not apply to any income derived on or after 1 October 2015.
+
+[Act 2 of 2016 wef 11/04/2016]
+
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved headquarters company —
 
 (a) in respect of any qualifying service only where the qualifying service and the office, associated company or person to whom the service is rendered have been approved in relation to that headquarters company for such concessionary rate;
@@ -16922,7 +17860,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 ### Concessionary rate of tax for Finance and Treasury Centre
 
-43G\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as he may specify of a company derived from —
+43G\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the concessionary rate specified in subsection (1A) is levied and must be paid for each year of assessment upon such income as he may specify of a company derived from —
 
 (a) the operation of its approved Finance and Treasury Centre in respect of such qualifying activities carried out on its own account as may be prescribed; or
 
@@ -16935,6 +17873,14 @@ and those regulations may provide for the deduction of losses otherwise than in 
 and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
 [20/91; 34/2005]
+
+(1A) In subsection (1), the concessionary rate is —
+
+(a) in the case of a Finance and Treasury Centre approved as such on or before 24 March 2016, 10%; or
+
+(b) in any other case, 8%.
+
+[Act 34 of 2016 wef 25/03/2016]
 
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved Finance and Treasury Centre —
 
@@ -16966,9 +17912,11 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [34/2005]
 
-(5) No Finance and Treasury Centre may be approved as an approved Finance and Treasury Centre under this section after 31st March 2016.
+(5) No Finance and Treasury Centre may be approved as an approved Finance and Treasury Centre under this section after 31 March 2021.
 
 [22/2011]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 ### Concessionary rate of tax for international commodity trading company
 
@@ -16987,6 +17935,10 @@ and those regulations may provide for the deduction of losses otherwise than in 
 43I\.—(1) Notwithstanding section 43, tax at the rate of 10% or such other concessionary rate as the Minister may by regulations prescribe shall be levied and paid for each year of assessment upon the income of a leasing company accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant or such other activity as may be prescribed by regulations.
 
 [20/91; 31/98]
+
+(1A) This section does not apply to any income accruing in or derived from Singapore on or after 1 January 2016.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (2) In determining the income of a leasing company from offshore leasing —
 
@@ -17254,7 +18206,9 @@ and for deduction of losses otherwise than in accordance with section 37(3).
 
 (ii) that is derived by it in the basis period for the year of assessment 2012 or a subsequent year of assessment, from prescribed qualifying transactions in any derivative instrument; and
 
-(b) such income as the Minister may specify of an approved qualifying company derived by it on or after 21st May 2010 from the carrying on of such qualifying structured commodity financing activities as may be prescribed,
+(b) such income as the Minister may specify of an approved qualifying company derived by it on or after 21st May 2010 from the carrying on of such qualifying structured commodity financing activities, treasury activities or advisory services in relation to mergers and acquisitions as may be prescribed,
+
+[Act 34 of 2016 wef 25/03/2016]
 
 and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
@@ -17263,10 +18217,6 @@ and those regulations may provide for the deduction of losses otherwise than in 
 (1A) No approval shall be granted under this section after 31st March 2021.
 
 [22/2011]
-
-(1B) The reference in subsection (1)(b) to prescribed activities is a reference to activities prescribed in regulations made under this section and specified to each approved qualifying company by the Minister or a person appointed by the Minister.
-
-[Act 39 of 2017 wef 21/05/2010]
 
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved global trading company or an approved qualifying company subject to such conditions as the Minister or such person as he may appoint may impose.
 
@@ -17282,9 +18232,11 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (b) a company which is a wholly-owned subsidiary of a global trading company,
 
-which carries on any qualifying structured commodity financing activities prescribed under subsection (1).
+which carries on any qualifying structured commodity financing activities, treasury activities or advisory services in relation to mergers and acquisitions prescribed under subsection (1).
 
 [29/2010]
+
+[Act 34 of 2016 wef 25/03/2016]
 
 ### Concessionary rate of tax for financial sector incentive company
 
@@ -17430,11 +18382,13 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(4A) Approval of a shipping investment manager under this section may be granted between 1st March 2011 and 31st May 2016 (both dates inclusive) for such period not exceeding 5 years as the Minister may specify, except that the Minister may extend the period so specified for such further periods as he thinks fit.
+(4A) Approval of a shipping investment manager under this section may be granted between 1st March 2011 and 31st May 2021 (both dates inclusive) for such period not exceeding 5 years as the Minister may specify, except that the Minister may extend the period so specified for such further periods as he thinks fit.
 
 [29/2010; 22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (5) In this section —
 
@@ -17580,11 +18534,13 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 [34/2008; 29/2012]
 
-(3) The Minister or such person as he may appoint may, at any time between 1st April 2008 and 31st May 2016 (both dates inclusive), approve a container investment enterprise for the purposes of subsection (1).
+(3) The Minister or such person as he may appoint may, at any time between 1st April 2008 and 31st May 2021 (both dates inclusive), approve a container investment enterprise for the purposes of subsection (1).
 
 [34/2008; 29/2010; 22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (4) The approval under subsection (3) shall be subject to such conditions as the Minister may specify, and shall —
 
@@ -17592,9 +18548,11 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(b) where the approval is granted during the period between 1st March 2011 and 31st May 2016 (both dates inclusive), be for such period not exceeding 5 years, as the Minister may specify,
+(b) where the approval is granted during the period between 1st March 2011 and 31st May 2021 (both dates inclusive), be for such period not exceeding 5 years, as the Minister may specify,
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 except that the Minister may extend the period so specified for such further periods as he thinks fit.
 
@@ -17670,11 +18628,13 @@ except that the Minister may extend the period so specified for such further per
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(4A) Approval of a container investment manager under this section may be granted between 1st March 2011 and 31st May 2016 (both dates inclusive) for such period not exceeding 5 years as the Minister may specify, except that the Minister may extend the period so specified for such further periods as he thinks fit.
+(4A) Approval of a container investment manager under this section may be granted between 1st March 2011 and 31st May 2021 (both dates inclusive) for such period not exceeding 5 years as the Minister may specify, except that the Minister may extend the period so specified for such further periods as he thinks fit.
 
 [29/2010; 22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (5) In this section —
 
@@ -17858,11 +18818,13 @@ unless the Minister otherwise allows.
 
 [Act 2 of 2016 wef 24/02/2015]
 
-(2) Approval may be granted under this section between 1st June 2011 and 31st May 2016 (both dates inclusive) to a company for a period of 5 years; and may be given subject to such conditions as the Minister may impose.
+(2) Approval may be granted under this section between 1st June 2011 and 31st May 2021 (both dates inclusive) to a company for a period of 5 years; and may be given subject to such conditions as the Minister may impose.
 
 [22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (2A) The Minister or appointed person must approve for the company one or more shipping‑related support services for the purposes of subsection (1) at the time of granting the approval, and may approve for the company additional shipping‑related support services during the period it is approved.
 
@@ -18020,13 +18982,11 @@ as an approved company for the purpose of this section from that date;
 
 (k) corporate finance advisory services;
 
-(l) information technology support services,
+(l) information technology services,
 
 and only services provided to an approved related company of that company shall be treated as “corporate service” in determining if the approved company has provided shipping‑related support service which is corporate service for the purposes of subsections (4) and (5I);
 
 [Act 2 of 2016 wef 24/02/2015]
-
-[Act 39 of 2017 wef 02/06/2011]
 
 “finance leasing” has the same meaning as in section 13S(20) or 43ZA(7);
 
@@ -18046,9 +19006,13 @@ and only services provided to an approved related company of that company shall 
 
 (c) whose operations are or can be controlled, directly or indirectly, by a person or persons who control or can control, directly or indirectly, the operations of the approved company;
 
-“service approval date”, in relation to any shipping-related support service approved for an approved company under subsection (1), means the date the service is approved for that company under that subsection or, in the case of corporate service to be provided by the company to its approved related company, the date the related company is approved as such;
+“service approval date”, in relation to any shipping-related support service approved for an approved company under subsection (2A) or (5B), means the date the service is approved for that company under that subsection or, in the case of corporate service to be provided by the company to its approved related company, the date the related company is approved as such;
 
-“ship” includes any dredger, seismic ship or any vessel used for offshore oil and gas activity;
+[Act 2 of 2016 wef 24/02/2015]
+
+“ship” has the same meaning as in section 2(1) of the Merchant Shipping Act (Cap. 179);
+
+[Act 2 of 2016 wef 11/04/2016]
 
 “ship agency” means the activities performed on behalf of a shipping enterprise in relation to their vessels, masters and crews, cargoes and customers;
 
@@ -18078,7 +19042,9 @@ and includes the services referred to in subsection (9);
 
 (b) charter or finance leasing of any ship to any person;
 
-(c) use of any ship as a dredger, seismic ship or any vessel used for offshore oil and gas activity;
+(c) use of any ship as a dredger, seismic ship or ship used for offshore oil and gas activity;
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (d) use of any ship for towing or salvage operations;
 
@@ -18107,6 +19073,10 @@ and includes the services referred to in subsection (9);
 (o) shipping finance;
 
 (p) maritime research and development;
+
+(q) use of any ship for offshore renewable energy activity or offshore mineral activity;
+
+[Act 34 of 2016 wef 25/03/2016]
 
 “shipping-related support service” means any of the following:
 
@@ -18308,9 +19278,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (a) if he thinks fit, allow any bank or financial institution to give notice of the deduction of tax and make payment of the amount so deducted within such other period and subject to such conditions as the Comptroller may determine; and
 
-(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 20% or 17% or the rate specified in section 43(3) or (3A), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
+(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 22% or 17% or the rate specified in section 43(3) or (3A), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
 
 [1/90; 20/91; 28/92; 26/93; 28/96; 24/2001; 37/2002; 49/2004; 53/2007; 27/2009]
+
+[Act 2 of 2016 wef 01/01/2016]
 
 (3) Where a person fails to make a deduction of tax which he is required to make under subsection (1), any amount which he fails to deduct shall be a debt due from him to the Government and shall be recoverable as such.
 
@@ -18418,9 +19390,15 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 “break cost”, “prepayment fee”, “qualifying debt securities”, “qualifying project debt securities” and “redemption premium” have the same meanings as in section 13(16);
 
-“Islamic debt securities” has the same meaning as in section 43N(4).
+“Islamic debt securities” has the same meaning as in section 43N(4);
 
 [34/2005; 53/2007]
+
+[Act 2 of 2016 wef 11/04/2016]
+
+“ship” has the same meaning as in section 2(1) of the Merchant Shipping Act.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 ### Tax deemed withheld and recoverable from person in breach of condition imposed under section 13(4)
 
@@ -18472,11 +19450,13 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [7/79]
 
-(2) For the purposes of this section and section 45C, the references to interest therein shall be read as references to interest which is subject to deduction of tax at the rate of 22% on every dollar of the interest.
+(2) For the purposes of this section, the references to interest therein shall be read as references to interest which is subject to deduction of tax at the rate of 22% on every dollar of the interest.
 
 [28/96; 24/2001; 37/2002; 49/2004]
 
 [Act 2 of 2016 wef 01/01/2016]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 ### Application of section 45 to distribution by unit trust
 
@@ -18588,11 +19568,15 @@ section 45 shall apply only in relation to 50% of the amount withdrawn from the 
 
 (2) Before approving the deduction of the investment from the balance in the SRS account, an SRS operator shall comply with subsection (3), unless the Comptroller has waived such compliance by notice in writing to the SRS operator.
 
-(3) The SRS operator shall collect from the SRS member or (if he is deceased) his legal personal representative tax at the rate specified in section 43(1)(b) on an amount that is equal to 50% of the total value of the investment to be deducted from the balance in the SRS account.
+(3) The SRS operator shall collect from the SRS member or (if he is deceased) his legal personal representative tax at the rate of 22% on an amount that is equal to 50% of the total value of the investment to be deducted from the balance in the SRS account.
+
+[Act 2 of 2016 wef 01/01/2016]
 
 (4) In subsection (3), the value of an investment shall be reckoned in accordance with the regulations made under section 10L(11).
 
-(5) If the Comptroller has given a written notice to the SRS operator requiring the SRS operator to collect tax at a higher or lower rate than that specified in section 43(1)(b), then the reference to the rate specified in section 43(1)(b) in subsection (3) shall be read as a reference to the higher or lower rate.
+(5) If the Comptroller has given a written notice to the SRS operator requiring the SRS operator to collect tax at a higher or lower rate than 22%, then the reference to the rate of 22% in subsection (3) is a reference to the higher or lower rate.
+
+[Act 2 of 2016 wef 01/01/2016]
 
 (6) The amount of tax collected under subsection (3) shall be a debt due from the SRS operator to the Government and shall be recoverable in the manner provided in section 89.
 
@@ -18656,13 +19640,11 @@ as that section applies to any interest paid by a person to another person not k
 
 [34/2005; 7/2007; 19/2013]
 
-(2) For the purpose of subsection (1)(a), the deduction of tax under section 45 shall be at the rate of 10% on every dollar of such distribution made during the period from 18 February 2005 to 31 March 2020 (both dates inclusive).
+(2) For the purpose of subsection (1)(a), the deduction of tax under section 45 shall be at the rate of 10% on every dollar of such distribution made during the period from 18th February 2005 to 31st March 2015 (both dates inclusive).
 
 [34/2005; 29/2010]
 
 [Act 37 of 2014 wef 27/11/2014]
-
-[Act 39 of 2017 wef 01/04/2015]
 
 (3) For the purpose of subsection (1)(b), the deduction of tax under section 45 shall be at the applicable rate specified under section 43(1) on every dollar of such distribution.
 
@@ -18828,7 +19810,9 @@ shall, when the income from which the tax has been deducted or when the share re
 
 (3) The reference in subsection (2) to income in respect of which tax has been collected is a reference to —
 
-(a) the amount deemed as income of the SRS member under section 10L(3) wholly or partly because of the deduction of any investment from the balance in the SRS account for which the tax has been collected; or
+(a) the amount deemed as income of the SRS member under section 10L(3) or (3G) (as the case may be) wholly or partly because of the deduction of any investment from the balance in the SRS account for which the tax has been collected; or
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (b) the amount deemed as income of the SRS member under section 10L(6), (7) or (9) (as the case may be), if the deduction of any investment from the balance in the SRS account for which the tax has been collected is made after —
 
@@ -19134,7 +20118,9 @@ Trustees, agents and curators
 
 (6) Where a non-resident person is chargeable to tax in the name of any attorney, factor, agent, receiver or manager, in respect of any gains or profits arising from the sale of goods or produce manufactured or produced outside Singapore by the non-resident person, the person in whose name the non-resident person is so chargeable may, if he thinks fit, apply to the Comptroller to have the assessment to tax in respect of those gains or profits made or amended on the basis of the profits which might reasonably be expected to have been earned by a merchant or, where the goods are retailed by or on behalf of the manufacturer or producer, by a retailer of the goods sold, who had bought from the manufacturer or producer direct, and on proof to the satisfaction of the Comptroller of the amount of the profits on the basis aforesaid, the assessment shall be made or amended accordingly.
 
-(7) The master of any ship and the captain of any aircraft owned or chartered by a non-resident person who is chargeable under section 12(2) shall (though not to the exclusion of any other agent) be deemed the agent of such non-resident person for all the purposes of this Act.
+(7) The master of any ship (within the meaning of section 2(1) of the Merchant Shipping Act) and the captain of any aircraft owned or chartered by a non-resident person who is chargeable under section 12(2) shall (though not to the exclusion of any other agent) be deemed the agent of such non-resident person for all the purposes of this Act.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (8) The income of any non-resident partner or partners from a partnership shall be assessable in the name of the partnership or of any resident partner or of any agent of the partnership in Singapore, and the tax charged thereon shall be recoverable by all means provided in this Act out of the assets of the partnership or from any partner or from any such agent.
 
@@ -19442,9 +20428,11 @@ RETURNS
 
 [19/2013]
 
-(3) The Comptroller may by notice require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s income or assets or liabilities as may be demanded of him by the Comptroller for the purposes of this Act.
+(3) The Comptroller may by notice require any person to give orally, in writing, or through the electronic service, as may be required, all such information concerning his or any other person’s income or assets or liabilities as may be demanded of him by the Comptroller for the purposes of this Act.
 
 [19/2013]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (3A) The time for compliance with a notice under subsection (3) shall be 21 days from the date of service of the notice or such other period as the Comptroller considers appropriate.
 
@@ -20294,6 +21282,10 @@ COLLECTION, RECOVERY AND REPAYMENT OF TAX
 
 [4/2003]
 
+(8) In subsections (6) and (7), “ship” has the same meaning as in section 2(1) of the Merchant Shipping Act.
+
+[Act 2 of 2016 wef 11/04/2016]
+
 ### Statement of Comptroller sufficient
 
 90\.—(1) In any civil or criminal proceedings under this Act, every statement purporting to be under the hand of the Comptroller contained in the information, complaint, declaration or claim shall be prima facie evidence of the matter stated therein.
@@ -20519,6 +21511,16 @@ but excluding any employee who is also a unitholder of the trust.
 (b) $30,000.
 
 [19/2013]
+
+### Remission of tax of companies for years of assessment 2016 and 2017
+
+92E\. Where the Comptroller is satisfied that the remission of tax would be beneficial to a company, then there is to be remitted the tax payable for each of the years of assessment 2016 and 2017 by the company of an amount equal to the lower of the following:
+
+(a) 30% of the tax payable for that year of assessment (excluding any tax levied and paid or payable pursuant to section 43(3), (3A) and (3B));
+
+(b) $20,000.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 ### Repayment of tax
 
@@ -20832,13 +21834,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Consent for prosecution
 
-101\.—(1) No prosecution shall be commenced in respect of an offence under section 37J, 45(5), 94, 94A, 95, 96 or 96A except at the instance or with the consent of the Comptroller or the Public Prosecutor.
+101\.—(1) No prosecution shall be commenced in respect of an offence under section 37IE, 37J, 45(5), 94, 94A, 95, 96 or 96A except at the instance or with the consent of the Comptroller or the Public Prosecutor.
 
 [37/75; 21/2003; 7/2007; 29/2010]
 
-(2) The Comptroller may authorise either generally or specifically an officer to compound any offence under sections 37J (except subsection (4)), 45(5), 94, 94A, 95, 96 and 96A.
+[Act 2 of 2016 wef 11/04/2016]
+
+(2) The Comptroller may authorise either generally or specifically an officer to compound any offence under sections 37IE, 37J (except subsection (4)), 45(5), 94, 94A, 95, 96 and 96A.
 
 [26/73; 37/75; 21/2003; 7/2007; 29/2010]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (3) No prosecution shall be commenced in respect of an offence under section 6, 97, 98 or 105M except at the instance or with the consent of the Public Prosecutor.
 
@@ -20874,7 +21880,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) This section shall apply to any proceedings against the person in question —
 
-(a) under section 37J, 95, 96 or 96A; or
+(a) under section 37IE, 37J, 95, 96 or 96A; or
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (b) for the recovery of any sum due from him, whether by way of tax or penalty.
 
@@ -20972,15 +21980,19 @@ EXCHANGE OF INFORMATION ARRANGEMENTS
 
 ### Exchange of information arrangement
 
-105BA\.—(1) If the Minister by order declares that an arrangement specified in the order has been made with the government of any country, or the governments of 2 or more countries, outside Singapore for the exchange of information concerning the tax positions of persons, and that it is expedient that that arrangement should have effect, then the arrangement shall have effect notwithstanding anything in any written law.
+105BA\.—(1) If the Minister by order declares that an arrangement specified in the order has been made with the government of any country, or the governments of 2 or more countries, outside Singapore for the exchange of information concerning the tax positions of persons (whether upon request by an authority of a country to the arrangement or otherwise), and that it is expedient that that arrangement should have effect, then the arrangement shall have effect notwithstanding anything in any written law.
 
 [22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(1A) An arrangement under subsection (1) includes a multilateral treaty to which Singapore is a Party, the purpose or one of the purposes of which is the exchange of information concerning the tax positions of persons.
+[Act 2 of 2016 wef 11/04/2016]
+
+(1A) An arrangement under subsection (1) includes a multilateral treaty to which Singapore is a Party, the purpose or one of the purposes of which is the exchange of information concerning the tax positions of persons (whether upon request by an authority of a Party to the treaty or otherwise).
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (2) An order made under this section may be revoked by a subsequent order.
 
@@ -21193,27 +22205,37 @@ IMPROVE TAX COMPLIANCE
 
 ### Provision of information to Comptroller
 
-105L\.—(1) A person falling within any description of persons prescribed by regulations made under section 105P (referred to in this section as a prescribed person) shall, at such times and frequency and in such form and manner as may be prescribed by those regulations, provide the Comptroller, or any other person who may be authorised by the Comptroller, with information of a description prescribed by those regulations.
+105L\.—(1) Subject to subsection (5), a person falling within any description of persons prescribed by regulations made under section 105P (called in this section a prescribed person) must —
+
+(a) at such times and frequency as may be prescribed by those regulations or as the Comptroller may in any particular case allow; and
+
+(b) in such form and manner as may be prescribed by those regulations or as the Comptroller may in any particular case allow,
+
+provide the Comptroller, or such other person as may be authorised by the Comptroller, information of a description prescribed by those regulations.
+
+[Act 2 of 2016 wef 11/04/2016]
+
+(2) A prescribed person is not excused from providing the information by reason only that the person is under a duty not to collect, use or disclose that information, whether imposed by written law, rule of law, any contract or any rule of professional conduct, in respect of that information.
 
 [19/2013]
 
-[Act 37 of 2014 wef 27/11/2014]
+[Act 2 of 2016 wef 11/04/2016]
 
-(2) A prescribed person is not excused from providing the information by reason only that the person is under a duty of secrecy, whether imposed by written law, rule of law, any contract or any rule of professional conduct, in respect of that information.
+(3) A prescribed person who in good faith and with reasonable care does any act for the purpose of complying with subsection (1) is not to be treated as being in breach of any duty mentioned in subsection (2).
 
-[19/2013]
-
-(3) A prescribed person who in good faith complies with subsection (1) shall not be treated as being in breach of any duty of secrecy referred to in subsection (2).
-
-[19/2013]
+[Act 2 of 2016 wef 11/04/2016]
 
 (4) No civil or criminal action for a breach of any such duty, other than a criminal action for an offence under section 105M(3), shall lie against the prescribed person —
 
-(a) for producing any document or providing any information if he had done so in good faith in compliance with subsection (1); or
+(a) for producing any document or providing any information if he had done so in good faith and with reasonable care in compliance with subsection (1); or
 
-(b) for doing or omitting to do any act if he had done or omitted to do the act in good faith and as a result of complying with subsection (1).
+[Act 2 of 2016 wef 11/04/2016]
+
+(b) for doing or omitting to do any act if he had done or omitted to do the act in good faith and with reasonable care and for the purpose of, or as a result of complying with subsection (1).
 
 [19/2013]
+
+[Act 2 of 2016 wef 11/04/2016]
 
 (5) Notwithstanding subsection (2), subsection (1) does not apply to any information subject to legal privilege.
 
@@ -21277,9 +22299,9 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 (c) references in section 65B to proceedings for an offence under this Act, proceedings for the recovery of tax or penalty and proceedings by way of an appeal against an assessment shall be read as a reference to proceedings for an offence under this Part; and
 
-(d) the Comptroller may authorise an officer of the Monetary Authority of Singapore under section 4(1) to perform a duty of the Comptroller under section 65, 65A or 65B.
+(d) the Comptroller may authorise any person (including an officer of the Monetary Authority of Singapore) under section 4(1) to perform or assist in the performance of a duty of the Comptroller under section 65, 65A or 65B.
 
-[19/2013]
+[Act 2 of 2016 wef 11/04/2016]
 
 ### Information may be used for administration of Act
 
@@ -21641,6 +22663,8 @@ Rates of tax
 
 Part A
 
+TABLE 1
+
 Rates Of Tax On Chargeable Income Of
 
 
@@ -21701,6 +22725,10 @@ $320,000
 
 [7/2007; 22/2012]
 
+[Act 2 of 2016 wef 11/04/2016]
+
+TABLE 2
+
 Rates Of Tax On Chargeable Income Of
 
 
@@ -21711,12 +22739,12 @@ An Individual Or A Hindu Joint Family
 
 
 
-For Year Of Assessment 2012 And Of An Individual For Year Of Assessment 2013 And
+For Year Of Assessment 2012 And Of An Individual For Year
 
 
 
 
-Subsequent Years Of Assessment
+Of Assessment 2013, 2014, 2015 AND 2016
 
 Chargeable Income
 
@@ -21777,6 +22805,94 @@ $320,000
 20%.
 
 [22/2011; 29/2012]
+
+[Act 2 of 2016 wef 11/04/2016]
+
+TABLE 3
+
+RATES OF TAX ON CHARGEABLE INCOME OF AN
+
+
+
+
+INDIVIDUAL FOR YEAR OF ASSESSMENT 2017 AND
+
+
+
+
+SUBSEQUENT YEARS OF ASSESSMENT
+
+Chargeable Income
+
+Rate of tax
+
+For every dollar of the first
+
+$20,000
+
+Nil
+
+For every dollar of the next
+
+$10,000
+
+2%
+
+For every dollar of the next
+
+$10,000
+
+3.5%
+
+For every dollar of the next
+
+$40,000
+
+7%
+
+For every dollar of the next
+
+$40,000
+
+11.5%
+
+For every dollar of the next
+
+$40,000
+
+15%
+
+For every dollar of the next
+
+$40,000
+
+18%
+
+For every dollar of the next
+
+$40,000
+
+19%
+
+For every dollar of the next
+
+$40,000
+
+19.5%
+
+For every dollar of the next
+
+$40,000
+
+20%
+
+For every dollar exceeding
+
+$320,000
+
+22%.
+
+[Act 2 of 2016 wef 11/04/2016]
 
 Part B
 
@@ -23882,18 +24998,13 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 January 2014 (item 1 of the Schedule — amendment of Income Tax Act)|
 |305.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|31 March 2014|
-|306.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
-||Date of First Reading|10 October 2016|
-|||(Bill No. 34/2016)|
-||Date of Second and Third Readings|10 November 2016|
-||Date of commencement|27 November 2014|
-|307.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+|306.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
 ||Date of First Reading|11 September 2017|
 |||(Bill No. 36/2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|1 April 2014|
 |||1 April 2015|
-|308.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+|307.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|1 April 2014|
@@ -23903,13 +25014,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 January 2015|
 |||1 June 2015|
 |||1 July 2015|
-|309.|**Act 4 of 2015—MediShield Life Scheme Act 2015**|
+|308.|**Act 4 of 2015—MediShield Life Scheme Act 2015**|
 ||Date of First Reading|19 January 2015 (Bill No. 3/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|29 January 2015|
 ||Date of commencement|1 November 2015|
-|310.|**G.N. No. S 712/2015—Income Tax Act (Amendment of First Schedule) Order 2015**|
+|309.|**G.N. No. S 712/2015—Income Tax Act (Amendment of First Schedule) Order 2015**|
 ||Date of commencement|1 November 2015|
-|311.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|310.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
@@ -23921,12 +25032,18 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 June 2015|
 |||1 July 2015|
 |||1 January 2016|
-|312.|**Act 29 of 2014—Business Names Registration Act 2014**|
+|311.|**Act 29 of 2014—Business Names Registration Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|312.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+||Date of First Reading|10 October 2016|
+|||(Bill No. 34/2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|27 November 2014|
+|||25 March 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
