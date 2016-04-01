@@ -582,9 +582,11 @@ and where 2 or more persons together satisfy sub-paragraph (i) or (ii), they sha
 
 ### Register of foreign employees to be kept by employer
 
-8\.—(1) An employer shall keep, in accordance with section 95 of the Employment Act (Cap. 91), a register of foreign employees to whom work passes have been issued under section 7.
+8\.—(1) An employer shall keep a register of foreign employees to whom work passes have been issued under section 7.
 
 [30/2007]
+
+[Act 27 of 2015 wef 01/04/2016]
 
 (2) The register shall be in such form and shall contain such particulars as the Controller may determine.
 
@@ -1728,3 +1730,7 @@ This Legislative History is provided for the convenience of users of the Employm
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|12.|**Act 27 of 2015—Employment (Amendment) Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 23/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|17 August 2015|
+||Date of commencement|1 April 2016|
