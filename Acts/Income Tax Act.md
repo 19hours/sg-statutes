@@ -3118,7 +3118,9 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zq) any contribution to the Central Provident Fund in respect of an individual, and any cash payment to an individual, made by the Government under the Workfare Income Supplement Scheme established under Part VIA of the Central Provident Fund Act; and
 
-(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Recognition Award.
+(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards.
+
+[Act 39 of 2017 wef 01/04/2014]
 
 [26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
 
@@ -3504,7 +3506,7 @@ applies on or after that date (and despite anything in the order) only to income
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive) in any other case;
+(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive)in any other case;
 
 [Act 37 of 2014 wef 27/11/2014]
 
@@ -3850,27 +3852,43 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 (c) sourcing for and deciding on financing for its acquisition;
 
-(d) awarding contracts, entering into alliances or deciding on pooling in respect of it;
+(d) awarding contracts, entering into alliances, or deciding on pooling, in respect of it;
+
+[Act 39 of 2017 wef 22/02/2010]
 
 (e) securing its employment or its cargo;
 
-(f) planning its route and tonnage;
+(f) planning its route and tonnage, including the issuance of voyage instructions;
 
-(g) appointing a ship manager or ship agent for it;
+[Act 39 of 2017 wef 22/02/2010]
 
-(h) collecting freight in exchange for its use;
+(g) appointing a ship manager, ship agent or stevedore for it;
+
+[Act 39 of 2017 wef 22/02/2010]
+
+(h) collecting or arranging for the collection of freight, charter hire, or other payment in exchange for its use;
+
+[Act 39 of 2017 wef 22/02/2010]
 
 (i) arranging insurance for it;
 
-(j) undertaking crew related matters such as the appointment of a crew manager;
+(j) undertaking crew-related matters for it, including the provision of qualified crew, the appointment of a crew manager, the provision of crew training or the arrangement of crew insurance;
 
-(k) arranging dry-docking or ship repairs or overhaul;
+[Act 39 of 2017 wef 22/02/2010]
 
-(l) ensuring that it is adequately equipped with supplies, provisions, spares and stores;
+(k) arranging or supervising dry-docking, repair, overhaul, alteration, maintenance or lay-up of it;
+
+[Act 39 of 2017 wef 22/02/2010]
+
+(l) ensuring that it is adequately equipped with supplies, provisions, spares, stores and lubricating oil;
+
+[Act 39 of 2017 wef 22/02/2010]
 
 (m) supervising its construction, conversion or registration;
 
-(n) liaising with the relevant competent authorities or bodies on ship safety and manning requirements and other similar matters;
+(n) liaising with the relevant competent authorities or bodies on safety and manning requirements for it and any other similar matters;
+
+[Act 39 of 2017 wef 22/02/2010]
 
 “shipping enterprise” means any company owning or operating Singapore ships or foreign ships;
 
@@ -6732,7 +6750,7 @@ there shall be allowed a further deduction of the amount of such expenses in add
 
 [31/98; 29/2012]
 
-(2A) For the purposes of subsection (1), the firm or company need not be an approved firm or approved company to be allowed a deduction under that subsection in respect of expenses referred to in subsection (2)(a) which are incurred at any time from 1st April 2012 to 31st March 2016 (both dates inclusive) for the primary purpose of promoting the trading of goods or the provision of services, provided that the aggregate of —
+(2A) For the purposes of subsection (1), the firm or company need not be an approved firm or approved company to be allowed a deduction under that subsection in respect of expenses referred to in subsection (2)(a) which are incurred at any time from 1st April 2012 to 31st March 2020 (both dates inclusive) for the primary purpose of promoting the trading of goods or the provision of services, provided that the aggregate of —
 
 (a) the expenses for which the deduction is so allowed; and
 
@@ -6741,6 +6759,8 @@ there shall be allowed a further deduction of the amount of such expenses in add
 does not exceed $100,000 for each year of assessment.
 
 [29/2012]
+
+[Act 34 of 2016 wef 01/04/2016]
 
 (3) The Minister or such person as he may appoint may specify the maximum amount of expenditure (or any item thereof) to be allowed under subsection (1), other than expenses that are the subject of a claim for deduction under subsection (2A).
 
@@ -6828,9 +6848,11 @@ does not exceed $100,000 for each year of assessment.
 
 [32/95; 31/98]
 
-(12) No approval shall be granted under this section after 31st March 2016.
+(12) No approval shall be granted under this section after 31st March 2020.
 
 [22/2011]
+
+[Act 34 of 2016 wef 01/04/2016]
 
 ### Further deduction for logistics expenses
 
@@ -7520,7 +7542,9 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (1A) For the purposes of subsection (1) —
 
-(a) the firm or company need not be an approved firm or approved company to be allowed a deduction under that subsection in respect of expenditure incurred at any time from 1st April 2012 to 31st March 2016 (both dates inclusive) that is directly attributable to the carrying out of any study to identify investment overseas; and
+(a) the firm or company need not be an approved firm or approved company to be allowed a deduction under that subsection in respect of expenditure incurred at any time from 1st April 2012 to 31st March 2020 (both dates inclusive) that is directly attributable to the carrying out of any study to identify investment overseas; and
+
+[Act 34 of 2016 wef 01/04/2016]
 
 (b) the firm or company need not seek approval for the investment project to which the expenditure relates,
 
@@ -7602,9 +7626,11 @@ must not exceed $1 million for each year of assessment.
 
 [22/2011]
 
-(8) No approval shall be granted under this section after 31st March 2016.
+(8) No approval shall be granted under this section after 31st March 2020.
 
 [22/2011]
+
+[Act 34 of 2016 wef 01/04/2016]
 
 ### Further or double deduction for salary expenditure for employees posted overseas
 
@@ -15996,7 +16022,7 @@ subsection (4A)(c) or (e)
 
 ### Deductions allowable in respect of capital expenditure claimed
 
-(7) For the purpose of subsection (1) and subject to subsections (11), (11A), (11B) and (19) and the regulations made under subsection (24), deductions in respect of capital expenditure for a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary, as the case may be, are to be allowed as follows:
+(7) For the purpose of subsection (1) and subject to subsections (11), (11A), (11AB), (11B), (11C) and (19) and the regulations made under subsection (24), deductions in respect of capital expenditure for a qualifying acquisition of ordinary shares in a target company by an acquiring company or an acquiring subsidiary, as the case may be, are to be allowed as follows:
 
 (a) to the extent the capital expenditure is not contingent consideration or, if it is contingent consideration, is incurred in the same basis period of the acquiring company as that in which the date of the acquisition of the shares falls, the deduction allowed shall be the amount specified in subsection (8) for acquisitions referred to in subsection (4), and the amount specified in subsection (8A) for acquisitions referred to in subsection (4A), for each of 5 successive years of assessment (referred to in this section as the 1st, 2nd, 3rd, 4th and 5th years of assessment, respectively), beginning with the year of assessment relating to the basis period of the acquiring company in which the date of the acquisition of the shares falls; and
 
@@ -16013,6 +16039,8 @@ subsection (4A)(c) or (e)
 [29/2010; 22/2011]
 
 [Act 2 of 2016 wef 01/04/2015]
+
+[Act 34 of 2016 wef 01/04/2016]
 
 (8) Subject to subsections (13) and (19), the amount referred to in subsection (7)(a) for an acquisition referred to in subsection (4) shall be calculated in accordance with the formula
 
@@ -16118,7 +16146,7 @@ the amount by which the aggregate of sub-paragraphs (i) and (ii) exceeds $100 mi
 
 [29/2010; 22/2011]
 
-(11A) The following provisions also apply for the purpose of determining the amount of deductions under subsection (7) to be allowed to the acquiring company for all qualifying acquisitions of ordinary shares in one or more target companies whose dates of acquisition fall within one basis period of the acquiring company:
+(11A) The following provisions apply for the purpose of determining the amount of deductions under subsection (7) to be allowed to the acquiring company for all qualifying acquisitions of ordinary shares in one or more target companies whose dates of acquisition fall within one basis period of the acquiring company, and are qualifying acquisitions referred to in subsection (11AA):
 
 (a) where the sum of the amounts of “A” referred to in subsection (8A) in respect of all such qualifying acquisitions exceeds $20 million, the amount by which the sum exceeds $20 million is to be disregarded for the purposes of the deduction to be allowed under this section;
 
@@ -16132,7 +16160,39 @@ the amount by which the sum of sub‑paragraphs (i) and (ii) exceeds $20 million
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(11B) Despite subsections (11) and (11A), the following provisions apply in determining the amount of deductions under subsection (7) to be allowed to the acquiring company for all qualifying acquisitions of ordinary shares in target companies whose dates of acquisition fall within one basis period of the acquiring company, if the qualifying acquisitions in that basis period include at least one acquisition referred to in subsection (4)(a) or (c), and at least one acquisition referred to in subsection (4A)(a), (c) or (e):
+[Act 34 of 2016 wef 01/04/2016]
+
+(11AA) Subsection (11A) applies to the following qualifying acquisitions:
+
+(a) a qualifying acquisition made before 1 April 2016 except (if the qualifying acquisitions in that basis period include an acquisition mentioned in subsection (4A)(a) or (c) (called in this paragraph the anchor acquisition) that is made on or after 1 April 2016) a qualifying acquisition mentioned in subsection (4A)(b) or (d) (as the case may be) that has the same target company as that of the anchor acquisition;
+
+(b) if the qualifying acquisitions in that basis period include an acquisition mentioned in subsection (4A)(a) or (c) (called in this paragraph the anchor acquisition) that is made before 1 April 2016, a qualifying acquisition mentioned in subsection (4A)(b) or (d) (as the case may be) made on or after 1 April 2016 that has the same target company as the anchor acquisition.
+
+[Act 34 of 2016 wef 01/04/2016]
+
+(11AB) The following provisions apply for the purpose of determining the amount of deductions under subsection (7) to be allowed to the acquiring company for all qualifying acquisitions of ordinary shares in one or more target companies whose dates of acquisition fall within one basis period of the acquiring company, and are qualifying acquisitions mentioned in subsection (11AC):
+
+(a) where the sum of the amounts of “A” mentioned in subsection (8A) in respect of all such qualifying acquisitions exceeds $40 million, the amount by which the sum exceeds $40 million is to be disregarded for the purposes of the deduction to be allowed under this section;
+
+(b) where the sum mentioned in paragraph (a) does not exceed $40 million but the sum of the following exceeds $40 million:
+
+(i) the sum mentioned in paragraph (a);
+
+(ii) the sum of all contingent consideration in respect of all such qualifying acquisitions incurred in the basis period of the acquiring company for any year of assessment subsequent to the first year of assessment and in any earlier year of assessment other than the first year of assessment,
+
+the amount by which the sum of sub-paragraphs (i) and (ii) exceeds $40 million is to be disregarded for the purposes of the deduction to be allowed under this section.
+
+[Act 34 of 2016 wef 01/04/2016]
+
+(11AC) Subsection (11AB) applies to the following qualifying acquisitions:
+
+(a) a qualifying acquisition made on or after 1 April 2016 except (if the qualifying acquisitions in that basis period include an acquisition mentioned in subsection (4A)(a) or (c) (called in this paragraph the anchor acquisition) that is made before 1 April 2016) a qualifying acquisition mentioned in subsection (4A)(b) or (d) (as the case may be) that has the same target company as the anchor acquisition;
+
+(b) if the qualifying acquisitions in that basis period include an acquisition mentioned in subsection (4A)(a) or (c) (called in this paragraph the anchor acquisition) that is made on or after 1 April 2016, a qualifying acquisition mentioned in subsection (4A)(b) or (d) (as the case may be) made before 1 April 2016 that has the same target company as the anchor acquisition.
+
+[Act 34 of 2016 wef 01/04/2016]
+
+(11B) Despite subsections (11) and (11A), the following provisions apply in determining the amount of deductions under subsection (7) to be allowed to the acquiring company for all qualifying acquisitions of ordinary shares in target companies whose dates of acquisition fall within one basis period of the acquiring company, if the qualifying acquisitions in that basis period include at least one acquisition referred to in subsection (4)(a) or (c), and at least one acquisition referred to in subsection (4A)(a), (c) or (e) that is made before 1 April 2016, but does not include any acquisition referred to in subsection (4A)(a) or (c) that is made on or after 1 April 2016:
 
 (a) where the sum of the following exceeds $5 million:
 
@@ -16158,11 +16218,51 @@ the excess is to be disregarded for the purposes of the deduction to be allowed 
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(12) For the purposes of subsections (8), (8A), (9), (9A), (10), (10A), (11), (11A) and (11B), the amount of any consideration paid for any qualifying acquisition that comprises shares in the acquiring company, is the market value of the shares in the acquiring company as at the date of the acquisition of the shares and, if it is not possible to determine such value, the net asset value of those shares in the acquiring company at the end of its accounting period immediately before the date of the acquisition of those shares.
+[Act 34 of 2016 wef 01/04/2016]
+
+(11C) Despite subsections (11), (11A) and (11AB), the following provisions apply in determining the amount of deductions under subsection (7) to be allowed to the acquiring company for all qualifying acquisitions of ordinary shares in target companies whose dates of acquisition fall within one basis period of the acquiring company, if the qualifying acquisitions in that basis period include at least one acquisition mentioned in subsection (4)(a) or (c) or subsection (4A)(a), (c) or (e) that is made before 1 April 2016, and at least one acquisition mentioned in subsection (4A)(a) and (c) that is made on or after 1 April 2016:
+
+(a) where the sum of the following (called in this subsection X) exceeds $5 million:
+
+(i) the sum of the amounts determined by the following formulae in respect of those acquisitions which are acquisitions mentioned in subsection (4):
+
+(A) “0.05 × A” in subsection (8);
+
+(B) “0.05 × B” in subsection (9);
+
+(C) “0.05 × D” in subsection (10);
+
+(ii) the sum of the amounts determined by the following formulae in respect of those acquisitions which are acquisitions mentioned in subsection (11AA):
+
+(A) “0.25 × A” in subsection (8A);
+
+(B) “0.25 × B” in subsection (9A);
+
+(C) “0.25 × D” in subsection (10A),
+
+the excess is to be disregarded for the purposes of the deduction to be allowed under this section in respect of those acquisitions;
+
+(b) where the sum of the amounts (called in this subsection Y) determined by the following formulae in respect of those acquisitions which are acquisitions mentioned in subsection (11AC):
+
+(i) “0.25 × A” in subsection (8A);
+
+(ii) “0.25 × B” in subsection (9A);
+
+(iii) “0.25 × D” in subsection (10A);
+
+exceeds $10 million, the excess is to be disregarded for the purposes of the deduction to be allowed under this section in respect of those acquisitions;
+
+(c) despite paragraphs (a) and (b), where the sum of X and Y exceeds $10 million, the excess is to be disregarded for the purposes of the deduction to be allowed under this section for all of the acquisitions mentioned in those paragraphs.
+
+[Act 34 of 2016 wef 01/04/2016]
+
+(12) For the purposes of subsections (8), (8A), (9), (9A), (10), (10A), (11), (11A), (11B) and (11C), the amount of any consideration paid for any qualifying acquisition that comprises shares in the acquiring company, is the market value of the shares in the acquiring company as at the date of the acquisition of the shares and, if it is not possible to determine such value, the net asset value of those shares in the acquiring company at the end of its accounting period immediately before the date of the acquisition of those shares.
 
 [29/2010]
 
 [Act 2 of 2016 wef 01/04/2015]
+
+[Act 34 of 2016 wef 01/04/2016]
 
 (13) Despite subsections (8), (8A), (9), (9A), (10) and (10A), where any amount of “A” referred to in subsection (8) or (8A), “B” referred to in subsection (9) or (9A), or “D” referred to in subsection (10) or (10A), that is paid by the acquiring company or the acquiring subsidiary, as the case may be, in respect of any qualifying acquisition is greater than the amount which would have been paid if the acquiring company or the acquiring subsidiary, as the case may be, were unrelated to the shareholders in the target company, the first-mentioned amount shall be substituted with the second-mentioned amount, and any question regarding the quantum of the second-mentioned amount shall be determined by the Comptroller.
 
@@ -17708,43 +17808,97 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 ### Exemption and concessionary rate of tax for insurance and reinsurance business
 
-43C\.—(1) Notwithstanding section 43, the Minister may by regulations provide for —
+43C\.—(1) Despite section 43, the Minister may make regulations —
 
-(a) tax at the rate of 10% or such other concessionary rate to be levied and paid for each year of assessment upon the income derived by an approved insurer from carrying on offshore life business within the meaning of section 26 or the business (other than the business of life assurance) of insuring and reinsuring offshore risks;
+(a) to provide for tax at the rate of 10% to be levied and paid for each year of assessment upon such income as the Minister may specify that is derived by an approved insurer from offshore life business within the meaning of section 26, or the business (other than the business of life assurance) of insuring and reinsuring offshore risks;
 
-(b) exemption from tax of any income derived by an approved insurer from insurance and reinsurance business;
+(b) to provide for exemption from tax of such income as the Minister may specify that is derived from insurance and reinsurance business by the following:
 
-(ba) exemption from tax of, or tax at the rate of 5% to be levied and paid for each year of assessment upon, such income as the Minister may specify that is derived by an approved insurer from carrying on marine hull and liability insurance and reinsurance business;
+(i) an approved specialised insurer whose approval is granted before 1 September 2016;
 
-(c) deduction of losses otherwise than in accordance with section 37(3);
+(ii) an approved captive insurer whose approval is granted before 1 April 2018;
 
-(d) the period of each approval, and the conditions subject to which a specified insurer may be or may continue to be approved; and
+(c) to provide for tax at the rate specified in the first column of the following table, to be levied and paid for each year of assessment upon such income as the Minister may specify that is derived from insurance and reinsurance business by an approved insurer set out opposite that rate in the second column of the table:
 
-(e) such supplementary matters as he may consider necessary or expedient.
+Tax rate
 
-[21/2003; 34/2005; 7/2007; 29/2010; 22/2011]
+Approved insurer
 
-(1A) No approval shall be granted under —
+5%
 
-(a) subsection (1)(a) on or after such date as may be prescribed; and
+An approved specialised insurer whose approval is granted between 1 September 2016 and 31 August 2019 (both dates inclusive), and who had not been approved as such at any time before the date of the approval
 
-[Act 2 of 2016 wef 01/04/2015]
+8%
 
-(b) subsection (1)(b) or (ba) on or after such date as may be prescribed.
+An approved specialised insurer whose approval is granted on or after 1 September 2019, and who had not been approved as such at any time before the date of the approval
 
-[29/2010; 22/2011]
+10%
 
-(2) In this section, “insurer” means —
+(i)
 
-(a) a company licensed under the Insurance Act (Cap. 142) to carry on insurance business in Singapore; or
+An approved specialised insurer whose approval is granted on or after 1 September 2016, and who had been approved as such at any time before the date of the firstmentioned approval
 
-(b) a person (including a partnership), other than an individual, permitted under the Insurance Act to carry on insurance business in Singapore under a foreign insurer scheme.
+(ii)
 
-[34/2005; 11/2013]
+An approved captive insurer whose approval is granted on or after 1 April 2018
 
-(3) In this section, “approved” means approved by the Minister or such person as he may appoint.
+(d) to provide for exemption from tax of such income as the Minister may specify that is derived by an approved insurer whose approval is granted before 1 April 2016, from marine hull and liability insurance and reinsurance business;
 
-[22/2011]
+(e) to provide for tax at the rate specified in the first column of the following table, to be levied and paid for each year of assessment upon such income as the Minister may specify that is derived from marine hull and liability insurance and reinsurance business by an approved insurer set out opposite that rate in the second column of the table:
+
+Tax rate
+
+Approved insurer
+
+5%
+
+An approved insurer whose approval was granted between 19 February 2011 and 31 March 2016 (both dates inclusive), and who had been approved as such at any time before the date of the firstmentioned approval
+
+10%
+
+An approved insurer whose approval is granted on or after 1 April 2016
+
+(f) to provide for the deduction (otherwise than in accordance with this Act), from the income mentioned in paragraphs (a) to (e), of allowances under section 19, 19A, 20, 21 or 22, 22 or 23, expenses, losses and donations allowable under this Act, including deduction of these allowances, expenses, losses and donations in such manner and to such extent as the Comptroller may determine;
+
+[Act 39 of 2017 wef 01/04/2016]
+
+(g) to provide for the period of each approval, and the conditions subject to which a specified insurer may be or may continue to be approved; and
+
+(h) to provide for such matters as the Minister may consider necessary or expedient for carrying out the purposes under paragraphs (a) to (g).
+
+(2) No approval may be granted to an insurer for the purpose of paragraph (a), (b), (c), (d) or (e) of subsection (1) on or after the date prescribed in the regulations for that paragraph.
+
+(3) In this section —
+
+“approved” means approved by the Minister or such person as the Minister may appoint;
+
+“captive insurer” has the same meaning as in section 1A of the Insurance Act (Cap. 142);
+
+“insurer” means —
+
+(a) a company licensed under the Insurance Act to carry on insurance business in Singapore; or
+
+(b) a person (including a partnership), other than an individual, permitted under the Insurance Act to carry on insurance business in Singapore under a foreign insurer scheme;
+
+“marine hull and liability insurance and reinsurance business” means the business of insuring and reinsuring risks involving marine hull and liability but excludes cargo, energy and aviation risks;
+
+[Act 39 of 2017 wef 01/04/2016]
+
+“specialised insurer” means an insurer underwriting any of the following insurance risks (whether or not it also underwrites any other type of risk):
+
+(a) terrorism risks;
+
+(b) political risks;
+
+(c) energy risks;
+
+(d) aviation and aerospace risks;
+
+(e) agriculture risks;
+
+(f) risks arising from a natural catastrophe.
+
+[Act 34 of 2016 wef 01/04/2016]
 
 ### Concessionary rate of tax for offshore transactions on any market maintained by Singapore Exchange or its subsidiaries
 
@@ -18217,6 +18371,10 @@ and those regulations may provide for the deduction of losses otherwise than in 
 (1A) No approval shall be granted under this section after 31st March 2021.
 
 [22/2011]
+
+(1B) The reference in subsection (1)(b) to prescribed activities is a reference to activities prescribed in regulations made under this section and specified to each approved qualifying company by the Minister or a person appointed by the Minister.
+
+[Act 39 of 2017 wef 21/05/2010]
 
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved global trading company or an approved qualifying company subject to such conditions as the Minister or such person as he may appoint may impose.
 
@@ -18982,11 +19140,13 @@ as an approved company for the purpose of this section from that date;
 
 (k) corporate finance advisory services;
 
-(l) information technology services,
+(l) information technology support services,
 
 and only services provided to an approved related company of that company shall be treated as “corporate service” in determining if the approved company has provided shipping‑related support service which is corporate service for the purposes of subsections (4) and (5I);
 
 [Act 2 of 2016 wef 24/02/2015]
+
+[Act 39 of 2017 wef 02/06/2011]
 
 “finance leasing” has the same meaning as in section 13S(20) or 43ZA(7);
 
@@ -19640,11 +19800,13 @@ as that section applies to any interest paid by a person to another person not k
 
 [34/2005; 7/2007; 19/2013]
 
-(2) For the purpose of subsection (1)(a), the deduction of tax under section 45 shall be at the rate of 10% on every dollar of such distribution made during the period from 18th February 2005 to 31st March 2015 (both dates inclusive).
+(2) For the purpose of subsection (1)(a), the deduction of tax under section 45 shall be at the rate of 10% on every dollar of such distribution made during the period from 18 February 2005 to 31 March 2020 (both dates inclusive).
 
 [34/2005; 29/2010]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 39 of 2017 wef 01/04/2015]
 
 (3) For the purpose of subsection (1)(b), the deduction of tax under section 45 shall be at the applicable rate specified under section 43(1) on every dollar of such distribution.
 
@@ -24968,7 +25130,6 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 April 2013 (Section 30)|
 |299.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
@@ -24991,20 +25152,13 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 January 2014|
 |304.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
-||(Related amendments made to Act by)||
 ||Date of First Reading|21 October 2013|
 |||(Bill No. 17/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|1 January 2014 (item 1 of the Schedule — amendment of Income Tax Act)|
 |305.|**2014 Revised Edition—Income Tax Act (Chapter 134)**|
 ||Date of operation|31 March 2014|
-|306.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017|
-|||(Bill No. 36/2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|1 April 2014|
-|||1 April 2015|
-|307.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
+|306.|**Act 37 of 2014—Income Tax (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 33/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|1 April 2014|
@@ -25014,13 +25168,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 January 2015|
 |||1 June 2015|
 |||1 July 2015|
-|308.|**Act 4 of 2015—MediShield Life Scheme Act 2015**|
+|307.|**Act 4 of 2015—MediShield Life Scheme Act 2015**|
 ||Date of First Reading|19 January 2015 (Bill No. 3/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|29 January 2015|
 ||Date of commencement|1 November 2015|
-|309.|**G.N. No. S 712/2015—Income Tax Act (Amendment of First Schedule) Order 2015**|
+|308.|**G.N. No. S 712/2015—Income Tax Act (Amendment of First Schedule) Order 2015**|
 ||Date of commencement|1 November 2015|
-|310.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|309.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
@@ -25032,18 +25186,26 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 June 2015|
 |||1 July 2015|
 |||1 January 2016|
-|311.|**Act 29 of 2014—Business Names Registration Act 2014**|
+|310.|**Act 29 of 2014—Business Names Registration Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
-|312.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+|311.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
 ||Date of First Reading|10 October 2016|
 |||(Bill No. 34/2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|27 November 2014|
 |||25 March 2016|
+|||1 April 2016|
+|312.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|1 April 2014|
+|||1 April 2015|
+|||1 April 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
