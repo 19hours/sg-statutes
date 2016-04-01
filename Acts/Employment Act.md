@@ -236,9 +236,11 @@
 
 [**Part XII REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS**](#Part-XII)
 
-- [95 Register of employees](#Register-of-employees)
+- [95 Employers’ obligation in relation to employee records](#Employers’-obligation-in-relation-to-employee-records)
 
-- [96 Record of workmen](#Record-of-workmen)
+- [95A Employers’ obligation to give record of key employment terms](#Employers’-obligation-to-give-record-of-key-employment-terms)
+
+- [96 Employers’ obligation in relation to pay slips](#Employers’-obligation-in-relation-to-pay-slips)
 
 - [97 Returns](#Returns)
 
@@ -325,6 +327,16 @@
 - [125 Procedure after inquiry](#Procedure-after-inquiry)
 
 - [126 Costs of proceedings](#Costs-of-proceedings)
+
+[**Part XVA ADMINISTRATIVE PENALTIES**](#Part-XVA)
+
+- [126A Civil contraventions](#Civil-contraventions)
+
+- [126B Payment of administrative penalty](#Payment-of-administrative-penalty)
+
+- [126C Appeal, etc.](#Appeal-etc)
+
+- [126D Directions](#Directions)
 
 [**Part XVI PROCEDURE AND REGULATIONS**](#Part-XVI)
 
@@ -415,6 +427,10 @@ PRELIMINARY
 (d) productivity incentive payments; and
 
 (e) any allowance however described;
+
+“civil contravention” means a contravention that is declared to be a civil contravention under section 126A;
+
+[Act 27 of 2015 wef 01/04/2016]
 
 “collective agreement” means an agreement as defined under the Industrial Relations Act (Cap. 136);
 
@@ -2235,29 +2251,79 @@ HEALTH, ACCOMMODATION AND MEDICAL CARE
 
 REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
-### Register of employees
+### Employers’ obligation in relation to employee records
 
-95\.—(1) Every employer shall prepare and keep a register showing the name, address, the basic rate of pay and allowances, the amount earned, and the amount of deductions made from the earnings of each employee employed by him and such other particulars as may be prescribed from time to time.
+95\.—(1) An employer must make, and keep for the period prescribed (called in this section the record retention period), employee records containing the prescribed particulars for —
 
-[21/84; 36/95]
+(a) every employee the employer employs; and
 
-(2) For the purposes of this Part —
+(b) every former employee of the employer.
 
-“employee” includes any person who works in any capacity whatsoever, whether under a contract of service or otherwise, with or without salary and whether in or outside the premises where the profession, business, trade or work of the employer is carried on;
+(2) An employer must ensure that an employee record made and kept under subsection (1) is, during the record retention period prescribed for the employee record, readily accessible to the employee or former employee to which the employee record relates.
 
-“employer” includes a sole-proprietorship or partnership or a corporation and any person who is defined to be an employer under any written law in force in Singapore.
+(3) An employer is taken to have failed to comply with subsection (1) if the employer makes or keeps an employee record that is incomplete or inaccurate, whether or not the employer knew that the record is incomplete or inaccurate.
 
-### Record of workmen
+(4) Different record retention periods may be prescribed for different classes of employees or former employees, and for different types of employee records.
 
-96\. Every employer of workmen shall keep at the place of employment so that it shall be readily accessible to the workmen there employed, a check-roll pay slip, working board, or other form of record on which, in respect of each salary period, in a form intelligible to the workmen, shall be shown —
+(5) In this section, “employee record”, for an employee or a former employee of an employer, means a record of information or particulars about the employment by the employer of the employee or former employee, as the case may be.
 
-(a) the basic rate of pay and allowances, whether by day, hour, piece task or otherwise of each workman;
+[Act 27 of 2015 wef 01/04/2016]
 
-(b) the amount earned, including overtime earnings by each workman; and
+### Employers’ obligation to give record of key employment terms
 
-(c) the amount of any deductions made from the earnings of each workman.
+95A\.—(1) This section only applies to, and in relation to, every employee —
 
-[36/95]
+(a) who enters into a contract of service with the employer on or after the date of commencement of section 9 of the Employment (Amendment) Act 2015; and
+
+(b) who is employed under that contract for a period not shorter than the prescribed minimum period of service.
+
+(2) An employer must give each employee of the employer a written record of the key employment terms of the employee not later than 14 days after the day that the employee starts employment with the employer, or within such other period as may be prescribed in substitution.
+
+(3) The requirement to give a written record of key employment terms to an employee in subsection (2) is satisfied if —
+
+(a) an electronic record containing the key employment terms is provided in a manner that enables the information contained in the electronic record to be accessible and useable by the employee for subsequent reference; or
+
+(b) the key employment terms are published on an Internet website —
+
+(i) which is authorised by the employer and readily accessible to the employee; and
+
+(ii) which address is disseminated by the employer to the employee.
+
+(4) To avoid doubt, subsection (3) does not limit any other manner of giving to an employee a written record of the key employment terms of the employee.
+
+(5) An employer is taken to have failed to comply with subsection (2) if the written record given is incomplete or inaccurate, whether or not the employer knew that the record is incomplete or inaccurate.
+
+(6) The Minister may, by order published in theGazetteand subject to such conditions as are specified in the order, exempt from any provision in this section —
+
+(a) any class of employers specified in the order, in respect of all employees; or
+
+(b) all employers or any class of employers, in respect of any class of employees, specified in the order.
+
+(7) In this section, “key employment term”, for an employee, means any type of term of employment contained in a contract of service between an employer and the employee that is prescribed to be a key employment term.
+
+[Act 27 of 2015 wef 01/04/2016]
+
+### Employers’ obligation in relation to pay slips
+
+96\.—(1) Subject to subsection (2), an employer must give —
+
+(a) to every employee of the employer a pay slip, within the time prescribed for giving pay slips, for all salary paid by the employer for the salary period or salary periods to which the pay slip relates; and
+
+(b) to every employee a pay slip for every sum paid by the employer under section 22 or 23.
+
+(2) A pay slip given by an employer to an employee must be in the form prescribed (if prescribed) and must contain all the information prescribed.
+
+(3) The requirement to give a pay slip to an employee under this section is satisfied if an electronic record containing the prescribed information of a pay slip is provided in a manner that enables the information contained in the electronic record to be accessible and useable by the employee for subsequent reference.
+
+(4) An employer is taken to have failed to comply with subsection (1) if the pay slip given to an employee is incomplete or inaccurate, whether or not the employer knew that the pay slip is incomplete or inaccurate.
+
+(5) The Minister may, by order published in theGazetteand subject to such conditions as are specified in the order, exempt from any provision in this section —
+
+(a) any class of employers specified in the order, in respect of all employees; or
+
+(b) all employers or any class of employers, in respect of any class of employees, specified in the order.
+
+[Act 27 of 2015 wef 01/04/2016]
 
 ### Returns
 
@@ -2327,7 +2393,9 @@ INSPECTION AND ENQUIRY
 
 103\.—(1) The Commissioner or any inspecting officer shall, for the purposes of this Act, have power to do all or any of the following:
 
-(a) to enter and search, by day or by night, any premises or part thereof when he has reasonable cause to believe that evidence of the commission of an offence under this Act can be found therein;
+(a) to enter and search, by day or by night, any premises or part thereof when he has reasonable cause to believe that evidence of the commission of an offence under this Act or of a civil contravention can be found therein;
+
+[Act 27 of 2015 wef 01/04/2016]
 
 (aa) to enter without previous notice at any reasonable time any place of employment for the purpose of conducting any audit in relation to the terms and conditions of employment of any employee;
 
@@ -2735,6 +2803,96 @@ but shall not be represented by an advocate or solicitor or a paid agent.
 
 126\. No court fees shall be chargeable in the first instance on any proceedings commenced by an employee or a subcontractor for labour or by the Commissioner on his behalf against his employer or person liable under this Act but, in case a conviction is had or judgment given against his employer or person liable, the court fees shall be paid by the employer or person liable together with the general costs of the proceedings.
 
+## PART XVA
+
+ADMINISTRATIVE PENALTIES
+
+[Act 27 of 2015 wef 01/04/2016]
+
+### Civil contraventions
+
+126A\. The following contraventions are declared to be civil contraventions for the purposes of this Act:
+
+(a) a failure by an employer to comply with section 95(1), 95A(2) or 96(1);
+
+(b) provision by an employer of inaccurate information or particulars to the Commissioner or an inspecting officer under this Act, inadvertently or without intent to mislead or defraud.
+
+[Act 27 of 2015 wef 01/04/2016]
+
+### Payment of administrative penalty
+
+126B\.—(1) An authorised officer may issue a contravention notice to an employer requiring the employer to pay an administrative penalty of the prescribed amount, for —
+
+(a) each occasion of an alleged failure by the employer to comply with section 95(1), 95A(2) or 96(1) with respect to any one employee or former employee; or
+
+(b) each occasion of an alleged provision by the employer of inaccurate information or particulars to the Commissioner or an inspecting officer under this Act, inadvertently or without intent to mislead or defraud.
+
+(2) A contravention notice must —
+
+(a) specify the amount of administrative penalty to be paid;
+
+(b) specify the date by which the administrative penalty must be paid; and
+
+(c) set out the brief details of the alleged contravention and such other particulars as may be prescribed.
+
+(3) Different amounts of administrative penalty may be prescribed for different civil contraventions or different circumstances in which a civil contravention takes place.
+
+(4) Any employer who is issued a contravention notice under subsection (1) must pay the administrative penalty specified in the contravention notice to the authorised officer within the time, in such mode of payment and at such place as is specified in that notice.
+
+[Act 27 of 2015 wef 01/04/2016]
+
+### Appeal, etc.
+
+126C\.—(1) Any employer who is issued a contravention notice by an authorised officer under section 126B(1) (called in this section the initial authorised officer) may —
+
+(a) within the prescribed period and in accordance with the prescribed procedure, request for an internal reconsideration of the contravention notice by another authorised officer (called in this section the reviewing authorised officer); or
+
+(b) within the prescribed period (and despite not requesting for an internal reconsideration), appeal to the High Court which may hear and determine the matter afresh.
+
+(2) A reviewing authorised officer reconsidering a contravention notice issued to an employer must not be subordinate to the initial authorised officer who issued the contravention notice.
+
+(3) A reviewing authorised officer may, after reconsidering the issue of a contravention notice by the initial authorised officer —
+
+(a) confirm the contravention notice issued by the initial authorised officer; or
+
+(b) cancel the contravention notice.
+
+(4) Any employer who is aggrieved by the reviewing authorised officer’s decision under subsection (3)(a) may, within the prescribed period, appeal to the High Court which may hear and determine the matter afresh.
+
+(5) The procedure governing any such appeal to the High Court is as provided in the Rules of Court.
+
+(6) The enforcement of the payment of any administrative penalty required by a contravention notice to be paid under section 126B is stayed —
+
+(a) if a request for internal reconsideration under subsection (1)(a) is made, until after the reconsideration is completed; or
+
+(b) if an appeal under subsection (1)(b) or (4) is filed, until after the appeal is completed.
+
+(7) In relation to a contravention notice issued to an employer under section 126B(1), where —
+
+(a) an appeal to the High Court has been filed under subsection (1)(b) or (4) and the appeal is dismissed;
+
+(b) the prescribed period for requesting an internal reconsideration under subsection (1)(a) has lapsed without such request made, and the prescribed period for filing an appeal to the High Court under subsection (1)(b) has lapsed and no appeal is filed; or
+
+(c) the prescribed period for filing an appeal to the High Court under subsection (4) has lapsed and no appeal is filed,
+
+the contravention notice may, by leave of a District Court, be enforced against the employer in the same manner as a judgment of the District Court, and where leave is so given, judgment may be entered in terms of that contravention notice.
+
+(8) The initial authorised officer may, in any case in which the initial authorised officer thinks fit, waive, remit or refund in whole or in part any administrative penalty paid or required to be paid under section 126B.
+
+[Act 27 of 2015 wef 01/04/2016]
+
+### Directions
+
+126D\.—(1) In lieu of or in addition to giving an employer a contravention notice under section 126B, an authorised officer may —
+
+(a) issue such directions to the employer as the authorised officer thinks appropriate to bring the civil contravention to an end; and
+
+(b) where necessary, require the employer to take such action as is specified in the direction to remedy, mitigate or eliminate any effects of the civil contravention and to prevent the recurrence of the civil contravention.
+
+(2) An employer who, without reasonable excuse, fails to comply with a direction given to the employer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 27 of 2015 wef 01/04/2016]
+
 ## PART XVI
 
 PROCEDURE AND REGULATIONS
@@ -2789,7 +2947,9 @@ PROCEDURE AND REGULATIONS
 
 ### Recovery of money as fines
 
-136\. In the event of any employer being subjected to any fine or penalty under the provisions of this Act, the fine or penalty may, in addition to any other means of recovery, be recovered by distress and sale of the place of employment, or of any property belonging to him and in such place of employment.
+136\. In the event of any employer being subjected to any fine or penalty (but not an administrative penalty under Part XVA) under the provisions of this Act, the fine or penalty may, in addition to any other means of recovery, be recovered by distress and sale of the place of employment, or of any property belonging to him and in such place of employment.
+
+[Act 27 of 2015 wef 01/04/2016]
 
 ### Service of requisitions and summons
 
@@ -2827,7 +2987,9 @@ PROCEDURE AND REGULATIONS
 
 (a) prescribe the circumstances and conditions under which females may be employed as workmen;
 
-(b) require registers and records to be maintained and prescribe the form and contents thereof and the manner in which they shall be displayed;
+(b) require records to be maintained and prescribe the form and contents thereof and the manner in which they shall be displayed;
+
+[Act 27 of 2015 wef 01/04/2016]
 
 (c) regulate the method of collecting statistics either in connection with or independently of any other public department, the staff to be employed in connection therewith, the duties to be performed and the publications, if any, to be issued;
 
@@ -3328,3 +3490,7 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of First Reading|13 July 2015 (Bill No. 23/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|17 August 2015|
 ||Date of commencement|22 August 2015|
+|37.|**Act 27 of 2015—Employment (Amendment) Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 23/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|17 August 2015|
+||Date of commencement|1 April 2016|
