@@ -876,7 +876,17 @@ the Authority may, by notice in writing and without any compensation, do all or 
 
 [Act 9 of 2014 wef 25/03/2014]
 
-(2) The Authority shall not impose any financial penalty under subsection (1)(iii) on any licensee by reason only that under subsection (1)(b) the Authority is of the opinion that the licensee is likely to fail to provide and maintain an adequate, safe and satisfactory service.
+(2) A financial penalty cannot be imposed on a licensee if the sole ground for proceeding under subsection (1) is that, in the opinion of the Authority, the licensee is likely to fail to provide and maintain an adequate, safe and satisfactory service.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+(2A) A financial penalty imposed under subsection (1)(iii) on any licensee must be recovered and collected by the Authority for the purposes of the Public Transport Fund.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+(2B) The whole or part of any financial penalty recovered and collected under subsection (2A) from a licensee, and any interest on any financial penalty in arrears, must be paid into the Public Transport Fund established under the Public Transport Council Act (Cap. 259B).
+
+[Act 31 of 2015 wef 01/04/2016]
 
 [41/2002]
 
@@ -1546,6 +1556,12 @@ This Legislative History is provided for the convenience of users of the Rapid T
 ||Date of First Reading|13 July 2015 (Bill No. 27/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|22 January 2016|
+|11.|**Act 31 of 2015—Public Transport Council (Amendment) Act 2015**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|13 July 2015|
+|||(Bill No. 27/2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|1 April 2016|
 ## COMPARATIVE TABLE
 
 Rapid Transit Systems Act
