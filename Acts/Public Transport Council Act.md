@@ -48,6 +48,28 @@
 
 - [11 Financial provisions](#Financial-provisions)
 
+[**Part IIIA PUBLIC TRANSPORT FUND**](#Part-IIIA)
+
+- [11A Public Transport Fund](#Public-Transport-Fund)
+
+- [11B Purposes of Public Transport Fund](#Purposes-of-Public-Transport-Fund)
+
+- [11C Expenses](#Expenses)
+
+- [11D Withdrawals](#Withdrawals)
+
+- [11E Financial year](#Financial-year)
+
+- [11F Accounts](#Accounts)
+
+- [11G Financial statements and audit](#Financial-statements-and-audit)
+
+- [11H Dissolution of Public Transport Fund](#Dissolution-of-Public-Transport-Fund)
+
+- [11I Recovery for overpayment, etc., and offences](#Recovery-for-overpayment-etc-and-offences)
+
+- [11J Public Transport Fund regulations](#Public-Transport-Fund-regulations)
+
 [**Part IV (Repealed)**](#Part-IV)
 
 [**Part IVA (Repealed)**](#Part-IVA)
@@ -354,6 +376,10 @@ but does not include a consideration of a kind prescribed by the Minister by ord
 
 “public service vehicle” has the same meaning as in the Road Traffic Act;
 
+“Public Transport Fund” means the fund of that name established under Part IIIA;
+
+[Act 31 of 2015 wef 01/04/2016]
+
 “public transport official” means a person appointed by the Council as a public transport official under section 24A;
 
 “rapid transit system” has the same meaning as in the Rapid Transit Systems Act (Cap. 263A);
@@ -659,6 +685,160 @@ the Council must issue such shares or other securities to the Minister for Finan
 ### Financial provisions
 
 11\. The financial provisions set out in the Second Schedule shall have effect with respect to the Council.
+
+## PART IIIA
+
+PUBLIC TRANSPORT FUND
+
+### Public Transport Fund
+
+11A\.—(1) There is established a Government fund called the Public Transport Fund comprising —
+
+(a) all moneys from time to time appropriated from the Consolidated Fund and authorised to be paid into the Public Transport Fund by any written law;
+
+(b) all contributions made pursuant to the Council’s direction under section 24AC(1), and any other donations made by any person for the purposes of the Fund;
+
+(c) all financial penalties imposed, on or after the date of commencement of section 11 of the Public Transport Council (Amendment) Act 2015, by the LTA —
+
+(i) under the Bus Services Industry Act 2015 on a public bus operator for a breach of a condition in the bus service licence; or
+
+(ii) under the Rapid Transit Systems Act (Cap. 263A) on a licensed rapid transit system operator for a breach of a condition in the rapid transit system operator’s licence; and
+
+(d) all investments out of moneys in the Public Transport Fund authorised to be made by this Act and the proceeds of any such investment, including the net income from such investments.
+
+(2) Upon the commencement of section 11 of the Public Transport Council (Amendment) Act 2015, the Government must pay into the Public Transport Fund such sum as the Minister for Finance may determine out of moneys to be provided by Parliament for the Public Transport Fund.
+
+(3) For the purposes of subsection (1)(d), the net income from investments is the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Public Transport Fund, any profit derived or loss sustained, as the case may be, from the realisation of such investments.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Purposes of Public Transport Fund
+
+11B\.—(1) Subject to section 11H, the moneys in the Public Transport Fund may be withdrawn only for the following purposes:
+
+(a) to provide (directly to individuals or through organisations) cash grants, rebates, reliefs and other financial assistance to passengers using bus services or train services;
+
+(b) to invest subject to the limits in the Financial Procedure Act (Cap. 109) for investments of public moneys;
+
+(c) to meet expenses referred to in section 11C incidental to or arising from the administration, investment and management of moneys in the Public Transport Fund.
+
+(2) For the purposes of subsection (1)(b), investing includes engaging in any financial activity, or participating in any financial arrangement, for the purpose of managing or hedging against any financial risk that arises or is likely to arise from any investment.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Expenses
+
+11C\.—(1) All costs, expenses and charges incurred in relation to making any investment of moneys in the Public Transport Fund must be charged upon and are payable out of that Fund.
+
+(2) All other expenses incidental to or arising from the administration and management of moneys in the Public Transport Fund must be charged upon and are payable out of the Public Transport Fund, including but not limited to the following:
+
+(a) the cost of auditing the accounts of the Public Transport Fund, and the remuneration of the auditor if he or she is not the Auditor‑General;
+
+(b) all reasonable legal costs and all reasonable expenses incurred by the LTA in connection with the collection or attempted collection of any outstanding amounts (including any interest) of financial penalties referred to in section 11A(1)(c);
+
+(c) all reasonable expenses incurred by any public authority or person whom the Minister appoints under regulations made under section 11J to disburse financial assistance using moneys in the Public Transport Fund in carrying out their duties under that appointment and doing any thing incidental to or in connection with the purposes of that appointment.
+
+(3) However, no remuneration or allowances payable to a public officer may be met out of moneys in the Public Transport Fund.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Withdrawals
+
+11D\.—(1) Moneys cannot be withdrawn from the Public Transport Fund unless they are charged upon that Fund or are authorised to be withdrawn or transferred under this Act.
+
+(2) Despite section 13 of the Financial Procedure Act (Cap. 109), payment may be made out of the Public Transport Fund only if the payment is approved by the Minister or an accounting officer authorised, in writing, by the Minister.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Financial year
+
+11E\.—(1) The financial year of the Public Transport Fund begins on 1 April of each year and ends on 31 March of the succeeding year.
+
+(2) However, the first financial year of the Public Transport Fund begins on the date of commencement of section 11 of the Public Transport Council (Amendment) Act 2015 and ends on 31 March of the succeeding year.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Accounts
+
+11F\.—(1) The Minister must designate one or more public officers to be accounting officers of the Public Transport Fund.
+
+(2) Every accounting officer of the Public Transport Fund must —
+
+(a) cause to be kept proper accounts and records of all transactions and affairs relating to the Public Transport Fund, or the transactions and affairs of the part of that Fund that the accounting officer is in charge of, as the case may be;
+
+(b) do all things necessary to ensure that payments out of the Public Transport Fund and the disbursement of those moneys are properly authorised and correctly made; and
+
+(c) ensure that adequate control is maintained over the assets and receipts of the Public Transport Fund, or the assets and receipts of the part of that Fund that the accounting officer is in charge of, as the case may be.
+
+(3) A public officer designated under subsection (1) is also an accounting officer of the Public Transport Fund for the purposes of the Financial Procedure Act (Cap. 109).
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Financial statements and audit
+
+11G\.—(1) As soon as practicable after the close of each financial year, the Minister must —
+
+(a) cause to be prepared financial statements and accounts of the Public Transport Fund in respect of the financial year; and
+
+(b) cause to be submitted to the Auditor‑General the financial statements and accounts prepared under paragraph (a).
+
+(2) The Auditor-General must audit or cause an audit of the financial statements and accounts prepared under subsection (1) and report on them.
+
+(3) As soon as the accounts of the Public Transport Fund and the financial statements have been audited, a copy of the audited financial statements, together with a copy of any report made by the Auditor‑General, must be submitted to the Minister.
+
+(4) Where the Auditor‑General is not the auditor of the Public Transport Fund, a copy of the audited financial statements and any report made by the auditor must be forwarded to the Auditor‑General.
+
+(5) The Minister must as soon as practicable cause a copy of the audited financial statements of the Public Transport Fund and the auditor’s report to be presented to Parliament.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Dissolution of Public Transport Fund
+
+11H\. Upon dissolution of the Public Transport Fund during any term of office of the Government (within the meaning of the Constitution), the balance then remaining in the Public Transport Fund must be transferred to the Consolidated Fund and added to the reserves of the Government not accumulated by it during that term of office.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Recovery for overpayment, etc., and offences
+
+11I\.—(1) Where any amount of moneys in the Public Transport Fund is withdrawn and paid —
+
+(a) to a person by way of cash grant, rebate, relief or other financial assistance and the person is not eligible to receive that cash grant, rebate, relief or financial assistance, or is eligible for a lower amount;
+
+(b) without authorisation or in excess of authorisation, to a public authority or person appointed by the Minister under regulations made under section 11J to disburse cash grants, rebates, reliefs or financial assistance using moneys in the Public Transport Fund; or
+
+(c) for any other purposes which are not authorised or in excess of authorisation under this Act,
+
+the amount that has been paid or paid in excess, as the case may be, is recoverable as a debt due to the Government in a court of competent jurisdiction.
+
+(2) If —
+
+(a) a person furnishes a document, or makes a statement (whether orally, in writing or any other way) or gives information for the purpose of or in connection with obtaining, for that person or another person, any cash grant, rebate, relief or other financial assistance in section 11B(1)(a) out of moneys in the Public Transport Fund;
+
+(b) the document, statement or information is false or misleading, or the statement or information omits any matter or thing without which the statement or information, as the case may be, is misleading; and
+
+(c) the person knows, or ought reasonably to have known, that the document is false or misleading, or that the statement or information is as described in paragraph (b),
+
+the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) Subsection (2) does not apply if the document, statement or information is not false or misleading in a material particular, or if the statement or information did not omit any matter or thing without which the statement or information, as the case may be, is misleading in a material particular.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Public Transport Fund regulations
+
+11J\.—(1) The Minister may make regulations —
+
+(a) describing the individuals or classes of bus or train passengers to whom cash grants, rebates, reliefs and other financial assistance may be given from moneys in the Public Transport Fund, including the amount, manner of and the terms and conditions for so providing;
+
+(b) providing for the appointment by the Council of any public authority or other person to disburse cash grants, rebates, reliefs and other financial assistance using moneys in the Public Transport Fund and to do anything incidental;
+
+(c) prescribing that any act or omission in contravention of any regulations shall be an offence punishable with a fine not exceeding $5,000 or with imprisonment for a term not exceeding 12 months or with both; and
+
+(d) prescribing anything required to carry out the purposes or provisions of this Part.
+
+(2) All regulations made under this section are to be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 31 of 2015 wef 01/04/2016]
 
 ## PART IV
 
@@ -2398,6 +2578,11 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 27/2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|29 February 2016|
+|24.|**Act 31 of 2015—Public Transport Council (Amendment) Act 2015**|
+||Date of First Reading|13 July2015|
+|||(Bill No. 27/2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|1 April 2016|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
