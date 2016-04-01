@@ -786,9 +786,11 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(7) The maximum amount of relief from duty to be allowed under subsection (1) with respect to all qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries in a financial year of the acquiring company is determined in accordance with subsections (8) to (8F).
+(7) The maximum amount of relief from duty to be allowed under subsection (1) with respect to all qualifying acquisitions of ordinary shares in all target companies by an acquiring company and all its acquiring subsidiaries in a financial year of the acquiring company is determined in accordance with subsections (8) to (8FD).
 
 [Act 2 of 2016 wef 01/04/2015]
+
+[Act 34 of 2016 wef 01/04/2016]
 
 (8) Subject to subsection (8A), where the qualifying acquisitions in the financial year —
 
@@ -810,9 +812,13 @@ the maximum amount of relief from duty allowed is $200,000.
 
 (8B) Subject to subsection (8C), where the qualifying acquisitions in the financial year —
 
-(a) include an acquisition mentioned in subsection (5)(a), (b) or (d); and
+(a) include an acquisition mentioned in subsection (5)(a), (b) or (d) that is made before 1 April 2016; and
 
-(b) does not include an acquisition mentioned in subsection (3)(a) or (c),
+[Act 34 of 2016 wef 01/04/2016]
+
+(b) does not include an acquisition mentioned in subsection (3)(a) or (c), or an acquisition mentioned in subsection (5)(a) or (b) that is made on or after 1 April 2016,
+
+[Act 34 of 2016 wef 01/04/2016]
 
 the maximum amount of relief from duty allowed is $40,000.
 
@@ -826,6 +832,24 @@ the maximum amount of relief from duty allowed is $40,000.
 
 [Act 2 of 2016 wef 01/04/2015]
 
+(8CA) Subject to subsection (8CB), where the qualifying acquisitions in the financial year —
+
+(a) include an acquisition in subsection (5)(a) or (b) that is made on or after 1 April 2016; and
+
+(b) does not include an acquisition in subsection (3)(a) or (c), or an acquisition in subsection (5)(a), (b) or (d) that is made before 1 April 2016,
+
+the maximum amount of relief from duty allowed is $80,000.
+
+[Act 34 of 2016 wef 01/04/2016]
+
+(8CB) Where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to the acquiring company with respect to all the acquisitions to which subsection (8CA) applies for each of the following periods must not exceed $80,000:
+
+(a) the first 12 months of that financial year;
+
+(b) the remaining period of that financial year.
+
+[Act 34 of 2016 wef 01/04/2016]
+
 (8D) For the purposes of subsection (8), where subsection (4)(b) or (c) applies, the qualifying acquisitions to which subsection (8) applies are treated as occurring in the financial year of the acquiring company in which the acquisitions referred to in subsection (8)(a) occur.
 
 [Act 2 of 2016 wef 01/04/2015]
@@ -834,13 +858,17 @@ the maximum amount of relief from duty allowed is $40,000.
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(8F) Where the qualifying acquisitions in the financial year —
+(8F) For the purposes of subsection (8CA), where subsection (6)(c) applies, the qualifying acquisitions to which subsection (8CA) applies are treated as occurring in the financial year of the acquiring company in which the acquisitions referred to in subsection (8CA)(a) occur.
 
-(a) include an acquisition mentioned in subsection (3)(a) or (c); and
+[Act 34 of 2016 wef 01/04/2016]
 
-(b) include an acquisition mentioned in subsection (5)(a), (b) or (d),
+(8FA) Subject to subsection (8FB), where the qualifying acquisitions in the financial year —
 
-the maximum amount of relief from duty allowed is
+(a) include an acquisition in subsection (3)(a) or (c); and
+
+(b) include an acquisition in subsection (5)(a), (b) or (d),
+
+the maximum amount of relief from duty allowed is an amount computed by the formula:
 
 where A
 
@@ -848,11 +876,27 @@ is the lesser of —
 
 (i)
 
-the total amount of ad valorem stamp duty chargeable on all of those qualifying acquisitions that are acquisitions mentioned in subsection (3); and
+the total amount of ad valorem stamp duty chargeable on every one of those qualifying acquisitions that is —
+
+(A)
+
+an acquisition in subsection (3)(a);
+
+(B)
+
+an acquisition in subsection (3)(d) that relates to an acquisition in sub‑paragraph (A) and to the same target company;
+
+(C)
+
+an acquisition in subsection (3)(c); or
+
+(D)
+
+an acquisition in subsection (3)(e) that relates to an acquisition in sub‑paragraph (C) and to the same target company; and
 
 (ii)
 
-$200,000, and
+$200,000;
 
 B
 
@@ -860,17 +904,147 @@ is the lesser of —
 
 (i)
 
-the total amount of ad valorem stamp duty chargeable on all of those qualifying acquisitions that are acquisitions mentioned in subsection (5); and
+the total amount of ad valorem stamp duty chargeable on every one of those qualifying acquisitions that is —
+
+(A)
+
+an acquisition in subsection (5)(a) that is made before 1 April 2016;
+
+(B)
+
+an acquisition in subsection (5)(b) that is made before 1 April 2016;
+
+(C)
+
+an acquisition in subsection (5)(c) that relates to an acquisition in sub‑paragraph (A) or (B) and to the same target company;
+
+(D)
+
+an acquisition in subsection (5)(d); or
+
+(E)
+
+an acquisition in subsection (5)(e) that relates to an acquisition in sub‑paragraph (D) and to the same target company; and
 
 (ii)
 
-the balance after deducting A from $40,000 or, if the balance is negative, zero.
+the balance after deducting A from $40,000 or, if the balance is negative, zero; and
+
+C
+
+is the lesser of —
+
+(i)
+
+the total amount of ad valorem stamp duty chargeable on every one of those qualifying acquisitions that is —
+
+(A)
+
+an acquisition in subsection (5)(a) that is made on or after 1 April 2016;
+
+(B)
+
+an acquisition in subsection (5)(b) that is made on or after 1 April 2016; or
+
+(C)
+
+an acquisition in subsection (5)(c) that relates to an acquisition in sub‑paragraph (A) or (B) and to the same target company; and
+
+(ii)
+
+the balance after deducting A and B from $80,000 or, if the balance is negative, zero.
+
+[Act 34 of 2016 wef 01/04/2016]
+
+(8FB) Where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to the acquiring company with respect to all the acquisitions to which subsection (8FA) applies must not exceed the maximum amount of relief from duty under that subsection for each of the following periods:
+
+(a) the first 12 months of that financial year;
+
+(b) the remaining period of that financial year.
+
+[Act 34 of 2016 wef 01/04/2016]
+
+(8FC) Subject to subsection (8FD), where the qualifying acquisitions in the financial year —
+
+(a) include an acquisition in subsection (5)(a), (b) or (d) made before 1 April 2016;
+
+(b) include an acquisition in subsection (5)(a) or (b) made on or after 1 April 2016; and
+
+(c) does not include an acquisition in subsection (3)(a) or (c),
+
+the maximum amount of relief from duty allowed is an amount computed by the formula
+
+where A
+
+is the lesser of —
+
+(i)
+
+the total amount of ad valorem stamp duty chargeable on every one of those qualifying acquisitions that is —
+
+(A)
+
+an acquisition in subsection (5)(a) that is made before 1 April 2016;
+
+(B)
+
+an acquisition in subsection (5)(b) that is made before 1 April 2016;
+
+(C)
+
+an acquisition in subsection (5)(c) that relates to an acquisition in sub-paragraph (A) or (B) and to the same target company;
+
+(D)
+
+an acquisition in subsection (5)(d); or
+
+(E)
+
+an acquisition in subsection (5)(e) that relates to an acquisition in sub-paragraph (D) and to the same target company; and
+
+(ii)
+
+$40,000; and
+
+B
+
+is the lesser of —
+
+(i)
+
+the total amount of ad valorem stamp duty chargeable on every one of those qualifying acquisitions that is —
+
+(A)
+
+an acquisition in subsection (5)(a) that is made on or after 1 April 2016;
+
+(B)
+
+an acquisition in subsection (5)(b) that is made on or after 1 April 2016;
+
+(C)
+
+an acquisition in subsection (5)(c) that relates to an acquisition in sub-paragraph (A) or (B) and to the same target company; and
+
+(ii)
+
+the balance after deducting A from $80,000.
+
+[Act 34 of 2016 wef 01/04/2016]
+
+(8FD) Where the qualifying period is the financial year of the acquiring company and the financial year exceeds 12 months, the maximum amount of relief from duty to be allowed to the acquiring company with respect to all the acquisitions to which subsection (8FC) applies must not exceed the maximum amount of relief from duty under that subsection for each of the following periods:
+
+(a) the first 12 months of that financial year;
+
+(b) the remaining period of that financial year.
+
+[Act 34 of 2016 wef 01/04/2016]
+
+(8G) Subsections (8) to (8FD) are subject to the rules made under subsection (18).
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(8G) Subsections (8) to (8F) are subject to the rules made under subsection (18).
-
-[Act 2 of 2016 wef 01/04/2015]
+[Act 34 of 2016 wef 01/04/2016]
 
 (9) For the purposes of subsection (1), where the acquiring company or the acquiring subsidiary, as the case may be, and the target company are part of the same group of companies on the date of a qualifying acquisition of ordinary shares in the target company by the acquiring company or the acquiring subsidiary, as the case may be, no relief from duty shall be allowed for the instrument in question unless the acquisition would result in an increase in the total number of ordinary shares in the target company held on that date by all the companies in the group, excluding the target company.
 
@@ -4420,6 +4594,10 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|75.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+||Date of First Reading|10 October 2016 (Bill No. 34/2016 published on 10 October 2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|1 April 2016|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
