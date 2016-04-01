@@ -492,9 +492,11 @@ PROVISIONS RELATING TO STAFF
 
 11\.—(1) All members, officers and employees of the Authority shall be deemed to be public servants for the purposes of the Penal Code [Cap. 224].
 
-(2) The members, officers and employees of the Authority shall, in relation to their administration, assessment, collection and enforcement of payment of the taxes, fees, composition sums, financial penalties and charges referred to in section 6(1)(r), be deemed to be public officers for the purposes of the Financial Procedure Act [Cap. 109] and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+(2) The members, officers and employees of the Authority shall, in relation to their administration, assessment, collection and enforcement of payment of the taxes, fees, composition sums, financial penalties and charges referred to in section 6(1)(r) and of financial penalties referred to in section 19(2) of the Rapid Transit Systems Act (Cap. 263A), be deemed to be public officers for the purposes of the Financial Procedure Act [Cap. 109] and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
 
 [Act 17 of 2015 wef 01/09/2015]
+
+[Act 31 of 2015 wef 01/04/2016]
 
 ## PART V
 
@@ -590,9 +592,13 @@ after deducting such proportion of those fees, rental or other revenue as the Mi
 
 (i) any charge and cash-bid (if any) imposed under section 13A of that Act in respect of a licence; or
 
-(ii) any financial penalty imposed under section 19(1)(iii) of that Act in respect of a licensee which is granted a licence on or after the date of commencement of section 17 of the Rapid Transit Systems (Amendment) Act 2010;
+(ii) any financial penalty imposed before the date of commencement of section 11 of the Public Transport Council (Amendment) Act 2015 under section 19(1)(iii) of that Act in respect of a licensee which is granted a licence on or after the date of commencement of section 17 of the Rapid Transit Systems (Amendment) Act 2010;
 
-(f) all financial penalties imposed under section 19(1)(iii) of the Rapid Transit Systems Act in respect of licences granted on or after the date of commencement of section 17 of the Rapid Transit Systems (Amendment) Act 2010;
+[Act 31 of 2015 wef 01/04/2016]
+
+(f) all financial penalties imposed before the date of commencement of section 11 of the Public Transport Council (Amendment) Act 2015 under section 19(1)(iii) of the Rapid Transit Systems Act in respect of licences granted on or after the date of commencement of section 17 of the Rapid Transit Systems (Amendment) Act 2010;
+
+[Act 31 of 2015 wef 01/04/2016]
 
 (g) all amounts paid to the Authority by way of discharge of any insurance claims in respect of any property of the Authority paid for with money from the Railway Sinking Fund;
 
@@ -622,7 +628,9 @@ after deducting such proportion of those fees, rental or other revenue as the Mi
 
 (i) any charge and cash-bid (if any) imposed under section 13A of the Rapid Transit Systems Act in respect of a licence; or
 
-(ii) any financial penalty imposed under section 19(1)(iii) of that Act in respect of a licensee which is granted a licence on or after the date of commencement of section 17 of the Rapid Transit Systems (Amendment) Act 2010.
+(ii) any financial penalty imposed before the date of commencement of section 11 of the Public Transport Council (Amendment) Act 2015 under section 19(1)(iii) of that Act in respect of a licensee which is granted a licence on or after the date of commencement of section 17 of the Rapid Transit Systems (Amendment) Act 2010.
+
+[Act 31 of 2015 wef 01/04/2016]
 
 (3) For the purposes of subsection (1)(i), the net income from investments shall be the amount ascertained by adding to, or deducting from, the income received from investments or moneys in the Railway Sinking Fund any gain derived or loss sustained, realised or unrealised, as the case may be, from such investments.
 
@@ -1737,3 +1745,9 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of commencement|22 January 2016|
 |25.|**G. N. No. S 80/2016—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) Order 2016**|
 ||Date of commencement|29 February 2016|
+|26.|**Act 31 of 2015—Public Transport Council (Amendment) Act 2015**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|13 July 2015|
+|||(Bill No. 27/2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|1 April 2016|
