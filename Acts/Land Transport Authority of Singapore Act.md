@@ -1634,6 +1634,10 @@ Part II
 
 [Act 17 of 2015 wef 01/09/2015]
 
+3. Sections 11 and 22 of the Bus Services Industry Act 2015 (Act 30 of 2015).
+
+[S 151/2016 wef 04/04/2016]
+
 ## LEGISLATIVE HISTORY
 
 Land Transport Authority of Singapore Act
@@ -1751,3 +1755,5 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 27/2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|1 April 2016|
+|27.|**G.N. No. S 151/2016—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) (No. 2) Order 2016**|
+||Date of commencement|4 April 2016|
