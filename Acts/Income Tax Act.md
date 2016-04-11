@@ -21678,11 +21678,13 @@ but excluding any employee who is also a unitholder of the trust.
 
 92E\. Where the Comptroller is satisfied that the remission of tax would be beneficial to a company, then there is to be remitted the tax payable for each of the years of assessment 2016 and 2017 by the company of an amount equal to the lower of the following:
 
-(a) 30% of the tax payable for that year of assessment (excluding any tax levied and paid or payable pursuant to section 43(3), (3A) and (3B));
+(a) 50% of the tax payable for that year of assessment (excluding any tax levied and paid or payable pursuant to section 43(3), (3A) and (3B));
 
 (b) $20,000.
 
 [Act 2 of 2016 wef 11/04/2016]
+
+[Act 34 of 2016 wef 11/04/2016]
 
 ### Repayment of tax
 
@@ -25130,6 +25132,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 April 2013 (Section 30)|
 |299.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
@@ -25152,6 +25155,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|1 January 2014|
 |304.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+||(Related amendments made to Act by)||
 ||Date of First Reading|21 October 2013|
 |||(Bill No. 17/2013 published on 21 October 2013)|
 ||Date of Second and Third Readings|11 November 2013|
@@ -25174,7 +25178,28 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 November 2015|
 |308.|**G.N. No. S 712/2015—Income Tax Act (Amendment of First Schedule) Order 2015**|
 ||Date of commencement|1 November 2015|
-|309.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|309.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
+|310.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|1 April 2014|
+|||1 April 2015|
+|||1 April 2016|
+|311.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+||Date of First Reading|10 October 2016|
+|||(Bill No. 34/2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|27 November 2014|
+|||25 March 2016|
+|||1 April 2016|
+|||11 April 2016|
+|312.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
@@ -25186,26 +25211,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 June 2015|
 |||1 July 2015|
 |||1 January 2016|
-|310.|**Act 29 of 2014—Business Names Registration Act 2014**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|8 September 2014|
-|||(Bill No. 26/2014)|
-||Date of Second and Third Readings|8 October 2014|
-||Date of commencement|3 January 2016|
-|311.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
-||Date of First Reading|10 October 2016|
-|||(Bill No. 34/2016)|
-||Date of Second and Third Readings|10 November 2016|
-||Date of commencement|27 November 2014|
-|||25 March 2016|
-|||1 April 2016|
-|312.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017|
-|||(Bill No. 36/2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|1 April 2014|
-|||1 April 2015|
-|||1 April 2016|
+|||11 April 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
