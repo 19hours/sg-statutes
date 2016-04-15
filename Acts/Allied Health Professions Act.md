@@ -2090,6 +2090,100 @@ provision of expert opinion, selection of, and training in augmentative and alte
 
 advising on and addressing the implications of communication and swallowing problems on an individual’s quality of life and participation in society.
 
+4.
+
+Radiation Therapy
+
+1.
+
+Radiation Therapist
+
+2.
+
+Therapeutic Radiographer
+
+1. Radiation therapy involves —
+
+(a)
+
+the controlled use of ionising radiation, radioactive substances and non‑ionising radiation to facilitate the localisation, management and treatment of cancerous and non‑cancerous lesions;
+
+(b)
+
+the development of an optimal radiation treatment plan; and
+
+(c)
+
+the safe administration of radiation treatment.
+
+2. The acts or activities constituting radiation therapy include, but are not limited to the following:
+
+(a)
+
+reviewing clinical requests;
+
+(b)
+
+fabricating appropriate immobilisation devices;
+
+(c)
+
+conducting pre‑treatment simulation and treatment planning to facilitate radiation treatment;
+
+(d)
+
+administering radiation treatment or other actions as part of a care team, which include, but are not limited to, the following:
+
+(i)
+
+carrying out the appropriate image verification before delivery of treatment;
+
+(ii)
+
+dispensing and administering the appropriate radiation dose in accordance with the medical treatment plan prescribed by medical practitioners and principles of radiation safety and protection.
+
+5.
+
+Radiography
+
+1.
+
+Diagnostic Radiographer
+
+2.
+
+Radiographer
+
+3.
+
+Radiologic Technologist
+
+1. Radiography involves the controlled use of ionising radiation, radioactive substances and non‑ionising radiation to produce diagnostic quality images of the human body, facilitating the diagnosis and treatment of patients.
+
+2. The acts or activities constituting radiography include, but are not limited to, the following:
+
+(a)
+
+reviewing clinical requests;
+
+(b)
+
+planning diagnostic imaging procedures;
+
+(c)
+
+conducting the appropriate diagnostic imaging procedures, or assisting in treatment procedures or other actions as part of a care team, which include, but are not limited to, the following:
+
+(i)
+
+performing the full range of diagnostic imaging techniques and contrast agent examinations;
+
+(ii)
+
+prescribing, dispensing or administering the appropriate radiation dose by applying principles of radiation safety and protection.
+
+[S 160/2016 wef 15/04/2016]
+
 ## LEGISLATIVE HISTORY
 
 Allied Health Professions Act
@@ -2107,3 +2201,5 @@ This Legislative History is provided for the convenience of users of the Allied 
 ||Date of commencement|8 April 2013|
 |2.|**2013 Revised Edition—Allied Health Professions Act (Chapter 6B)**|
 ||Date of operation|30 November 2013|
+|3.|**G.N. No. S 160/2016—Allied Health Professions Act (Amendment of Second Schedule) Order 2016**|
+||Date of commencement|15 April 2016|
