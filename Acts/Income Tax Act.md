@@ -3506,7 +3506,7 @@ applies on or after that date (and despite anything in the order) only to income
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive)in any other case;
+(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive) in any other case;
 
 [Act 37 of 2014 wef 27/11/2014]
 
@@ -6944,7 +6944,9 @@ and approved by the Minister or such person as he may appoint;
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(c) section 19J(5) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+(c) section 19J(5C) or 19KA(1)(b) (as the case may be) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+
+[Act 11 of 2016 wef 19/04/2016]
 
 “logistics expenses” means expenses incurred by an approved company which are —
 
@@ -13900,9 +13902,11 @@ within such time and in such manner as the Comptroller may determine.
 
 (a) any company to which section 10E applies, in respect of qualifying deductions under subsection (14)(a) (except in relation to allowances falling under sections 16, 17, 18B and 18C) and (b);
 
-(b) any company to which section 97D or 97G of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before 28th April 2004 or section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act applies, in respect of qualifying deductions under subsection (14)(b) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections;
+(b) any company to which section 97D or 97G of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before 28th April 2004 or section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2016 is published in theGazetteapplies, in respect of qualifying deductions under subsection (14)(b) where the loss is deemed to be a loss incurred from a trade or business for the purposes of any of those sections;
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 11 of 2016 wef 19/04/2016]
 
 (c) any company, in respect of qualifying deductions under subsection (14) relating to any income that is fully exempt from tax under the provisions of this Act or the Economic Expansion Incentives (Relief from Income Tax) Act;
 
@@ -13956,7 +13960,9 @@ within such time and in such manner as the Comptroller may determine.
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(e) a start-up company under section 97T(2) of the Economic Expansion Incentives (Relief from Income Tax) Act;
+(e) a start-up company under section 97T(2) of the Economic Expansion Incentives (Relief from Income Tax) Act in force immediately before the date the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2016 is published in theGazette;
+
+[Act 11 of 2016 wef 19/04/2016]
 
 “commercial loan” means any borrowing which entitles the creditor to any return which is of only —
 
@@ -14188,9 +14194,11 @@ or within such further time as the Comptroller may allow.
 
 [34/2005; 29/2010]
 
-(10) Notwithstanding subsection (9), any loss deemed to be a loss incurred from a trade or business for the purpose of section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) shall not be deductible.
+(10) Notwithstanding subsection (9), any loss deemed to be a loss incurred from a trade or business for the purpose of section 97V of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) in force immediately before the date the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2016 is published in theGazetteshall not be deductible.
 
 [34/2005]
+
+[Act 11 of 2016 wef 19/04/2016]
 
 (11) Notwithstanding subsection (9), any allowance specified in subsection (9)(a) made to a person for any year of assessment shall not be deductible against assessable income for the immediate preceding year of assessment or any one of the 3 immediate preceding years of assessment (as the case may be) if the person did not carry on that trade, business or profession in the basis period for that preceding year of assessment.
 
@@ -19324,11 +19332,21 @@ must not in total exceed 15 years.
 
 “investments” has the same meaning as in section 13H(18);
 
-“pioneer service company” has the same meaning as in section 16 of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+“pioneer service company” has the same meaning as in section 16 of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86).
 
-“tax relief period” means the tax relief period referred to in section 18 of the Economic Expansion Incentives (Relief from Income Tax) Act.
+[Act 34 of 2016 wef 19/04/2016]
 
-[Act 2 of 2016 wef 01/04/2015]
+[Deleted by Act 34 of 2016 wef 19/04/2016]
+
+(8) In subsection (5)(b), the tax relief period of a fund management company for the activity mentioned in that provision is —
+
+(a) the company’s tax relief period under section 18 of the Economic Expansion Incentives (Relief from Income Tax) Act, in force immediately before 19 April 2016; or
+
+(b) the period treated as the company’s tax relief period for that activity under section 37(3)(c) of the Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2016 (Act 11 of 2016),
+
+as the case may be.
+
+[Act 34 of 2016 wef 19/04/2016]
 
 ### Concessionary rate of tax for international growth company
 
@@ -25191,15 +25209,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 April 2014|
 |||1 April 2015|
 |||1 April 2016|
-|311.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
-||Date of First Reading|10 October 2016|
-|||(Bill No. 34/2016)|
-||Date of Second and Third Readings|10 November 2016|
-||Date of commencement|27 November 2014|
-|||25 March 2016|
-|||1 April 2016|
-|||11 April 2016|
-|312.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|311.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
@@ -25212,6 +25222,19 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 July 2015|
 |||1 January 2016|
 |||11 April 2016|
+|312.|**Act 11 of 2016—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2016**|
+||Date of First Reading|29 February 2016 (Bill No. 9/2016 published on 29 February 2016)|
+||Date of Second and Third Readings|14 March 2016|
+||Date of commencement|19 April 2016|
+|313.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+||Date of First Reading|10 October 2016|
+|||(Bill No. 34/2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|27 November 2014|
+|||25 March 2016|
+|||1 April 2016|
+|||11 April 2016|
+|||19 April 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
