@@ -178,7 +178,9 @@ PRELIMINARY
 
 ### Purpose of Act
 
-3\. The purpose of this Act is to recognise and honour the participation and sacrifice of Singapore’s Pioneers in the development of Singapore by providing to them who are now elderly and are or may be in need of financial relief, assistance or other support to meet their healthcare costs, and other costs of living in Singapore.
+3\. The purpose of this Act is to recognise and honour the participation and sacrifice of Singapore’s Pioneers in the early stages of Singapore’s development by providing to such Pioneers in their elder years assistance in the form of financial benefits or other support to meet their healthcare costs and other costs of living in Singapore.
+
+[Act 3 of 2016 wef 20/04/2016]
 
 ## PART 2
 
@@ -683,6 +685,16 @@ the officer or member as well as the unincorporated association shall be guilty 
 (f) the offences under this Act which may be compounded;
 
 (g) anything that is required or permitted to be prescribed under this Act.
+
+(2A) However, the means of a Pioneer are irrelevant when prescribing in regulations —
+
+(a) any cash grant to Pioneers referred to in section 16(1)(a) or (b);
+
+(b) the maximum proportion or maximum amount for any subsidy referred to in section 16(1)(c) or (d); or
+
+(c) any reimbursement grant referred to in section 16(2).
+
+[Act 3 of 2016 wef 20/04/2016]
 
 (3) The regulations made under this section may provide —
 
