@@ -265,6 +265,10 @@ PRELIMINARY
 
 “authorised officer” means any person appointed to be an authorised officer under section 3(2);
 
+“auxiliary officer” means an individual who is appointed as an auxiliary officer under section 16A(1) of the National Environment Agency Act (Cap. 195);
+
+[Act 4 of 2016 wef 01/05/2016]
+
 “building” includes any house, hut, shed or roofed enclosure, whether used for the purpose of human habitation or otherwise;
 
 “building works” has the same meaning as in the Building Control Act (Cap. 29);
@@ -409,11 +413,19 @@ ADMINISTRATION
 
 [4/2002]
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority or any member or employee of any Town Council or any auxiliary police officer appointed as such under the Police Force Act (Cap. 235) to be an authorised officer for the purposes of this Act.
+(2) The Director-General may in writing appoint any of the following persons to be an authorised officer for the purposes of this Act:
 
-[4/2002]
+(a) a public officer;
 
-[12/2011 wef 01/09/2011]
+(b) an officer or auxiliary officer of the Agency;
+
+(c) an officer of any statutory authority;
+
+(d) a member or an employee of any Town Council;
+
+(e) an auxiliary police officer appointed under the Police Force Act (Cap. 235).
+
+[Act 4 of 2016 wef 01/05/2016]
 
 (3) The Director-General may, with the approval of the Minister, delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer, subject to such conditions or limitations as the Director-General may specify.
 
@@ -3256,6 +3268,10 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 October 2013|
 |21.|**G.N. No. S 688/2014—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2014**|
 ||Date of commencement|1 November 2014|
+|22.|**Act 4 of 2016—National Environment Agency (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|28 January 2016 (Bill No. 7/2016 published on 28 January 2016)|
+||Date of Second and Third Readings|1 March 2016|
+||Date of commencement|1 May 2016|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
