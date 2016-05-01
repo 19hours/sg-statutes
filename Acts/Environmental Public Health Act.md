@@ -370,6 +370,10 @@ PRELIMINARY
 
 “authorised officer” means any person appointed by the Director-General under sections 3(2) and 4(2) to be an authorised officer;
 
+“auxiliary officer” means an individual who is appointed as an auxiliary officer under section 16A(1) of the National Environment Agency Act (Cap. 195);
+
+[Act 4 of 2016 wef 01/05/2016]
+
 “basic rate of pay” means the total amount of money (including wage adjustments and increments) to which an employee is entitled under his contract of service for working for one month, but does not include —
 
 (a) additional payments by way of overtime payments;
@@ -590,9 +594,17 @@ ADMINISTRATION
 
 [4/2002]
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority to be an authorised officer for the purposes of this Act.
+(2) The Director-General may in writing appoint any of the following persons to be an authorised officer for the purposes of this Act:
 
-[4/2002]
+(a) a public officer;
+
+(b) an officer or auxiliary officer of the Agency;
+
+(c) an officer of any statutory authority;
+
+(d) an auxiliary police officer appointed under the Police Force Act (Cap. 235).
+
+[Act 4 of 2016 wef 01/05/2016]
 
 ### Delegation of power by Director-General
 
@@ -3336,6 +3348,10 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|21.|**Act 4 of 2016—National Environment Agency (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|28 January 2016 (Bill No. 7/2016 published on 28 January 2016)|
+||Date of Second and Third Readings|1 March 2016|
+||Date of commencement|1 May 2016|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
