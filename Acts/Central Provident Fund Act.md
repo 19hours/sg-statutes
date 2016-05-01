@@ -48,7 +48,9 @@
 
 - [13B Voluntary contributions](#Voluntary-contributions)
 
-- [14 Payment of cash grant by Government into Fund](#Payment-of-cash-grant-by-Government-into-Fund)
+- [13C Other contributions to Fund](#Other-contributions-to-Fund)
+
+- [14 Payment of cash grant by Government or other payments into Fund](#Payment-of-cash-grant-by-Government-or-other-payments-into-Fund)
 
 - [14A Loan by Government to member](#Loan-by-Government-to-member)
 
@@ -184,6 +186,8 @@
 
 - [43 Board may cancel insurance cover](#Board-may-cancel-insurance-cover)
 
+- [43A Board may reinstate, etc., member’s cover](#Board-may-reinstate-etc-member’s-cover)
+
 - [44 Board may require insured person to furnish information](#Board-may-require-insured-person-to-furnish-information)
 
 - [45 Premium](#Premium)
@@ -296,7 +300,13 @@
 
 - [75B Refund or payment of excess voluntary contributions where member has died](#Refund-or-payment-of-excess-voluntary-contributions-where-member-has-died)
 
+- [75C Refund of excess contributions paid by self-employed person who is alive](#Refund-of-excess-contributions-paid-by-self-employed-person-who-is-alive)
+
+- [75D Refund of excess voluntary contributions where member is alive](#Refund-of-excess-voluntary-contributions-where-member-is-alive)
+
 - [76 Board may engage in activities not directly related to Fund and may call for information](#Board-may-engage-in-activities-not-directly-related-to-Fund-and-may-call-for-information)
+
+- [76A Protection from personal liability](#Protection-from-personal-liability)
 
 - [77 Regulations and rules](#Regulations-and-rules)
 
@@ -414,7 +424,9 @@ PRELIMINARY
 
 [Act 4 of 2015 wef 01/11/2015]
 
-“member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund, or for whom any account in the Fund is maintained for any of the purposes of this Act, and includes a person who contributes to the Fund voluntarily in accordance with section 13B;
+“member of the Fund” or “member” means any person to whose credit any amount is standing in the Fund, or for whom any account in the Fund is maintained for any of the purposes of this Act;
+
+[Act 6 of 2016 wef 01/05/2016]
 
 “minimum sum”, in relation to a member, means the minimum sum referred to in section 15(6)(a) that is applicable to the member;
 
@@ -430,13 +442,19 @@ PRELIMINARY
 
 [Act 24 of 2013 wef 01/06/2014]
 
-“retirement account” means a retirement account maintained —
+“retirement account” means a retirement account —
 
-(a) for the purposes of sections 15(2A)(a), (6C), (7B)(a) and (8A)(a) and 18(1)(c) and Part IIIB; and
+(a) maintained for the crediting, transfer and payment to the account of moneys or contributions in accordance with this Act; and
 
-(b) for the crediting of such contribution (including any amount which is deemed to be a contribution for the purposes of this Act) and interest as the Minister may direct;
+(b) from which withdrawals, transfers and deductions may be made in accordance with this Act;
+
+[Act 6 of 2016 wef 01/05/2016]
 
 “securities account” means a securities account with the Central Depository (Pte) Limited;
+
+“self-employed person” has the meaning given to it in any regulations made under section 77(1)(e);
+
+[Act 6 of 2016 wef 01/05/2016]
 
 “shares” includes warrants, transferable subscription rights, options to subscribe for shares, convertibles and other security interests arising from or accruing or attaching to the shares;
 
@@ -482,7 +500,7 @@ PRELIMINARY
 
 [22/2010]
 
-(2) No officer or employee employed by or on behalf of the Government or shall be personally liable for anything done or omitted to be done by him as an officer or employee of such Government in good faith.
+(2) [Deleted by Act 6 of 2016 wef 01/05/2016]
 
 (3) In this Act, unless the context otherwise requires, where a person referred to in subsection (4)(a) lacks capacity within the meaning of section 4 of the Mental Capacity Act (Cap. 177A) —
 
@@ -924,7 +942,7 @@ CONTRIBUTIONS TO FUND
 
 (3) Where any employer who has recovered any amount from the monthly wages of an employee in accordance with subsection (2) fails to pay the contributions to the Fund within such time as may be prescribed, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 7 years or to both.
 
-(4) Without prejudice to subsections (1) and (2) and the First Schedule —
+(4) Without prejudice to subsections (1) and (2) and the First Schedule, and subject to such terms and conditions as the Board may impose —
 
 (a) an employee may at any time contribute voluntarily to the Fund a sum additional to that shown in the First Schedule as payable by the employer;
 
@@ -933,6 +951,22 @@ CONTRIBUTIONS TO FUND
 (c) an employer may at any time pay to the Fund contributions in respect of any of his employees at a rate in excess of the appropriate rate set out in the First Schedule.
 
 [27/92]
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(4A) Despite subsection (4), the Board may refuse to credit any voluntary contribution received under subsection (4) to an employee’s account in the Fund —
+
+(a) where the amount of the intended voluntary contribution for any year, if paid into the Fund to the employee’s credit, will result in the prescribed sum under section 13B(3) being exceeded for that year;
+
+(b) where the intended voluntary contribution is to be made only to the medisave account of the employee and the amount of the intended voluntary contribution, if paid into the employee’s medisave account, will result in —
+
+(i) the total amount in the employee’s medisave account exceeding the amount that the Minister directs under section 13(6); or
+
+(ii) the prescribed sum under section 13B(3) being exceeded for that year; or
+
+(c) in such other circumstances as may be prescribed in regulations made under section 77(1).
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (5) Notwithstanding any contract to the contrary, an employer shall not be entitled to recover in any way from an employee in respect of contributions payable under this Act any sum in excess of that permitted to be recovered under subsection (2) together with any sum contributed voluntarily by the employee under subsection (4) and any employer who recovers or attempts to recover any greater sum shall be guilty of an offence.
 
@@ -1008,6 +1042,10 @@ CONTRIBUTIONS TO FUND
 
 [Act 4 of 2015 wef 01/11/2015]
 
+(3) Despite anything in this Act, no money in the Fund is to be used to make any payment for the purposes of Part IIIB or IV or any costs or expenses incurred in the administration of the Lifelong Income Scheme or the Home Protection Insurance Scheme, except for withdrawals or deductions from any of a member’s accounts in the Fund made in accordance with this Act.
+
+[Act 6 of 2016 wef 01/05/2016]
+
 ### Financial provisions
 
 11\. The financial provisions set out in the Second Schedule shall apply to the Board.
@@ -1030,21 +1068,23 @@ CONTRIBUTIONS TO FUND
 
 ### Crediting of contributions and interest into subsidiary accounts, etc.
 
-13\.—(1) Subject to subsections (7A) to (7G), there shall be maintained for each member in respect of the money standing to his credit in the Fund the following subsidiary accounts:
+13\.—(1) Subject to subsections (7A) to (7G), the following subsidiary accounts are to be maintained for each member in respect of the money standing to the member’s credit in the Fund:
 
-(a) an ordinary account from which, apart from subsection (7) and sections 15(2), (3), (4) and (5), 18, 18A, 18B, 18C, 22, 27B, 32 and 45 but subject to sections 14, 14A and 15A, withdrawals may be made in accordance with any regulations made under section 51(b) or 77(1)(h), (i) or (n);
+(a) an ordinary account;
 
-(b) a medisave account from which, apart from subsection (6) and sections 15(2), (3), (4) and (5), 16A and 27B, withdrawals may be made in accordance with —
+(b) a medisave account;
 
-(i) any regulations made under section 77(1)(j) and (k); and
+(c) a special account.
 
-(ii) the MediShield Life Scheme Act 2015; and
+[Act 6 of 2016 wef 01/05/2016]
 
-[Act 4 of 2015 wef 01/11/2015]
+(1A) An account referred to in subsection (1) is an account —
 
-(c) a special account from which no withdrawal may be made except under subsection (7) or section 15(2), (3), (4) or (5), 17, 18, 18A, 18C, 19A, 27B or 45 or in accordance with any regulations made under section 77(1)(n) or (oa).
+(a) maintained for the crediting, transfer and payment to the account of moneys or contributions in accordance with this Act or the MediShield Life Scheme Act 2015 (Act 4 of 2015); and
 
-[32/84; 16/86; 5/87; 23/89; 30/89; 27/92; 10/94; 12/99; 39/2000; 31/2003; 24/2005; 15/2006; 40/2007; 57/2007; 25/2008; 22/2010]
+(b) from which withdrawals, transfers and deductions may be made in accordance with this Act or the MediShield Life Scheme Act 2015.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (2) Every ordinary account, medisave account and special account which was maintained by the Board for a member before 28th September 1984 shall be deemed to have been validly maintained.
 
@@ -1074,7 +1114,9 @@ CONTRIBUTIONS TO FUND
 
 (5A) Where any additional interest is payable to a member under section 6(4B) —
 
-(a) the Board shall credit the additional interest into one or more of the member’s ordinary account, medisave account, special account and retirement account (if any) in such manner as the Board may determine; and
+(a) the Board shall credit the additional interest into one or more of the member’s ordinary account, medisave account, special account, retirement account and nominee account (if any) in such manner as the Board may determine; and
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (b) the Board may make different determinations under paragraph (a) in respect of different classes of members.
 
@@ -1084,9 +1126,13 @@ CONTRIBUTIONS TO FUND
 
 [16/86; 15/2006]
 
-(7) Where there is no balance in the medisave account of a member, the Board may, upon application by the member and with the approval of the Minister, transfer to the medisave account of the member any amount standing to his credit in any designated account which had been transferred from the medisave account, including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made.
+(7) Where there is no balance in the medisave account of a member, the Board may, on the member’s application and with the Minister’s approval, transfer to the member’s medisave account the whole or such part, as the Board may determine, of —
 
-[27/92; 15/2006; 57/2007]
+(a) the amount standing to the member’s credit in any designated account, not exceeding the total amount which had been transferred from the medisave account to that designated account under subsection (6) (called in this subsection the transferred amount); and
+
+(b) any interest that would have been payable on the transferred amount if the transfer had not been made.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (7A) The Board may transfer to a member’s ordinary account, in accordance with any regulations made under section 77(1) —
 
@@ -1104,33 +1150,23 @@ CONTRIBUTIONS TO FUND
 
 [20/2011]
 
-(7C) Where the Board has transferred any amount standing to a member’s credit in the Fund to his ordinary account under subsection (7A)(a) or to the general moneys of the Fund under subsection (7B)(a) or any regulations made under section 77(1) —
+(7C) Where the Board has made an initial transfer specified in subsection (7D) of any amount standing to a member’s credit in the Fund from any account of the member in the Fund (called in this subsection Account A), the Board may in such circumstances as may be prescribed in any regulations made under section 77(1) —
 
-(a) the Board shall restore to the member’s account in the Fund from which the transferred amount had been transferred, or transfer to such other account in the Fund of the member as may be prescribed in any regulations made under section 77(1), that amount (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made), if the Board is satisfied that the member was still alive at the time of the transfer;
+(a) restore to Account A or transfer to such other account of the member in the Fund as may be prescribed in those regulations (called in this subsection Account B), the whole or such part, as the Board may determine, of the amount of the initial transfer; and
 
-[Act 24 of 2013 wef 01/09/2014]
+(b) pay into Account A or Account B (as the case may be) the whole or such part, as the Board may determine, of any interest that would have been payable on the amount restored to Account A or transferred to Account B, if the initial transfer had not been made.
 
-(b) if the Board is served with an order of court referred to in section 27B awarding any amount to be paid out from the money standing to the credit of the member in the Fund (including any money which is payable or repayable to the Fund to the credit of the member) —
+[Act 6 of 2016 wef 01/05/2016]
 
-(i) where the amount awarded under the order of court exceeds the amount standing to the member’s credit in the Fund (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made), the Board shall restore the latter amount (including interest, if any) to the member’s account in the Fund from which that amount had been transferred, or transfer that latter amount (including interest, if any) to such other account in the Fund of the member as may be prescribed in any regulations made under section 77(1); or
+(7D) The initial transfer referred to in subsection (7C) is —
 
-[Act 24 of 2013 wef 01/09/2014]
+(a) a transfer to the member’s ordinary account under subsection (7A);
 
-(ii) where the amount awarded under the order of court does not exceed the amount standing to the member’s credit in the Fund (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made), the Board shall restore the former amount to the member’s account in the Fund from which that amount had been transferred, or transfer that former amount to such other account in the Fund of the member as may be prescribed in any regulations made under section 77(1); and
+(b) a transfer to the general moneys of the Fund under subsection (7B); or
 
-[Act 24 of 2013 wef 01/09/2014]
+(c) a transfer to the general moneys of the Fund under any regulations made under section 77(1).
 
-(c) in such other circumstances as may be prescribed in any regulations made under section 77(1), the Board may restore to the member’s account in the Fund from which the transferred amount had been transferred, or transfer to such other account in the Fund of the member as may be prescribed in those regulations, the whole or any part of that amount (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made).
-
-[22/2010]
-
-[Act 24 of 2013 wef 01/09/2014]
-
-(7D) Where the Board has transferred any amount standing to a member’s credit in the Fund to his ordinary account under subsection (7A)(b) or to the general moneys of the Fund under subsection (7B)(b) or any regulations made under section 77(1), the Board may restore to the member’s account in the Fund from which that amount had been transferred, or transfer to such other account in the Fund of the member as may be prescribed in those regulations, the whole or any part of that amount (including the whole or such part, as the Board may determine, of any interest that would have been payable thereon if the transfer had not been made) in such circumstances as may be prescribed in those regulations.
-
-[22/2010]
-
-[Act 24 of 2013 wef 01/09/2014]
+[Act 6 of 2016 wef 01/05/2016]
 
 (7E) Where the Board is unable to ascertain a member’s identity, the Board may transfer to the general moneys of the Fund, in accordance with any regulations made under section 77(1), any amount standing to his credit in the Fund.
 
@@ -1154,13 +1190,15 @@ CONTRIBUTIONS TO FUND
 
 [23/2012]
 
-(7I) Where the Board has credited any money to a member’s account in the Fund under section 13(4) or 13B(1)(b) or (2)(b), where any money has been paid into a member’s account in the Fund under section 18(1)(b) or (c), (2)(b) or (3)(b) or any regulations made under section 77(1), or where the Board has credited to a member’s account in the Fund any money paid in error and liable to be refunded or paid under section 74(1), the Board may, on the Board’s own motion or on an application to the Board, and subject to such terms and conditions as the Board may impose —
+(7I) Where the Board has credited any money to a member’s account in the Fund under section 13(4), 13B(1)(b) or (2)(b) or 13C, where any money has been paid into a member’s account in the Fund under section 18(1)(b) or (c), (2)(b) or (3)(b) or any regulations made under section 77(1), or where the Board has credited to a member’s account in the Fund any money paid in error and liable to be refunded or paid under section 74(1), the Board may, on the Board’s own motion or on an application to the Board, and subject to such terms and conditions as the Board may impose —
 
 (a) refund to the person who paid the money, or pay to any person whom the Board is satisfied is entitled to that payment, the whole or any part of the amount of the money; and
 
 (b) transfer, from the member’s account in the Fund to the general moneys of the Fund, the whole or such part, as the Board may determine, of any interest paid on the amount refunded or paid under paragraph (a) while that amount was in that account.
 
 [23/2012]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (8) In this section, “designated account”, in relation to a member, means such ordinary account, special account or retirement account (if any) of the member as may be prescribed by any regulations made under section 77(1)(ka).
 
@@ -1186,7 +1224,7 @@ CONTRIBUTIONS TO FUND
 
 ### Voluntary contributions
 
-13B\.—(1) Notwithstanding anything in this Act but subject to any regulations made under section 77(1) —
+13B\.—(1) Notwithstanding anything in this Act but subject to any regulations made under section 77(1), and such terms and conditions as the Board may impose —
 
 (a) any person may —
 
@@ -1194,23 +1232,31 @@ CONTRIBUTIONS TO FUND
 
 (ii) on or after 1st January 2011, voluntarily pay to the Fund contributions for any other person (being a citizen or permanent resident of Singapore in respect of whom no contribution is required to be paid under this Act) in such manner and at such rate as the Minister may direct;
 
-(b) the Board shall credit every contribution received under paragraph (a)(i) or (ii) into an ordinary account, a medisave account or a special account, for the purposes specified in section 13(1), in such manner as the Minister may direct; and
+(b) the Board shall credit every contribution received under paragraph (a)(i) or (ii) into an ordinary account, a medisave account or a special account in such manner as the Minister may direct; and
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (c) the Minister may give different directions in respect of different classes of members.
 
 [20/2011]
 
-(2) Notwithstanding anything in this Act but subject to any regulations made under section 77(1) —
+[Act 6 of 2016 wef 01/05/2016]
+
+(2) Notwithstanding anything in this Act but subject to any regulations made under section 77(1), and such terms and conditions as the Board may impose —
 
 (a) any person may, on or after 1st January 2011, voluntarily pay to the Fund contributions for any other person (being a citizen or permanent resident of Singapore in respect of whom any contribution is required to be paid under this Act, but no contribution is required to be paid under this Act by the first-mentioned person) in such manner and at such rate as the Minister may direct;
 
-(b) the Board shall credit every contribution received under paragraph (a) into an ordinary account, a medisave account or a special account, for the purposes specified in section 13(1), in such manner as the Minister may direct; and
+(b) the Board shall credit every contribution received under paragraph (a) into an ordinary account, a medisave account or a special account in such manner as the Minister may direct; and
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (c) the Minister may give different directions in respect of different classes of members.
 
 [20/2011]
 
-(3) Subject to subsection (3A), the aggregate of the following amounts which may be contributed by or for a person shall not, in any year, exceed such sum as the Minister may prescribe by regulations made under section 77(1):
+[Act 6 of 2016 wef 01/05/2016]
+
+(3) The aggregate of the following amounts which may be contributed by or for a person shall not, in any year, exceed such sum as the Minister may prescribe by regulations made under section 77(1):
 
 (a) the amount which that person may contribute voluntarily in that year under subsection (1)(a)(i);
 
@@ -1220,35 +1266,89 @@ CONTRIBUTIONS TO FUND
 
 [20/2011; 23/2012]
 
-(3A) Where any contribution or interest thereon is or may become due to the Board from any person, and the aggregate of the amounts referred to in subsection (3)(a), (b) and (c) which are contributed by or for that person in any year exceeds the sum referred to in subsection (3), the Board may, in accordance with any regulations made under section 77(1) —
+[Act 6 of 2016 wef 01/05/2016]
 
-(a) retain the whole or any part of the excess contributions; and
-
-(b) set off the retained excess contributions against the contribution or interest that is or may become due to the Board from that person.
-
-[23/2012]
+(3A) [Deleted by Act 6 of 2016 wef 01/05/2016]
 
 (4) Every amount voluntarily paid to the Fund on or after 1st January 2011, but before 30th December 2011, by a person as a contribution for any other person (being a citizen or permanent resident of Singapore in respect of whom no contribution is required to be paid under this Act, or being a citizen or permanent resident of Singapore in respect of whom any contribution is required to be paid under this Act, but no contribution is required to be paid under this Act by the first-mentioned person) shall be deemed to be and always to have been validly paid, and no legal proceedings shall lie or be instituted or maintained in any court of law on account of or in respect of any such payment.
 
 [20/2011]
 
-### Payment of cash grant by Government into Fund
+(5) Despite subsections (1) and (2), the Board may refuse to credit any voluntary contribution received under subsection (1)(a), (2)(a) or (3)(c) to a member’s account in the Fund under this section —
 
-14\.—(1) The Board may after 1st June 1984 accept any cash grant made by the Government for the benefit of any person who qualifies for such grant under any approved scheme, and the Board shall credit the cash grant into such account of that person as the Minister may direct.
+(a) where the amount of the intended voluntary contribution for any year, if paid into the Fund to the person’s credit, will result in the prescribed sum under subsection (3) being exceeded for that year;
+
+(b) where the intended voluntary contribution is to be made only to the medisave account of the person and the amount of the intended voluntary contribution, if paid into the person’s medisave account, will result in —
+
+(i) the total amount in the person’s medisave account exceeding the amount that the Minister directs under section 13(6); or
+
+(ii) the prescribed sum under subsection (3) being exceeded for that year; or
+
+(c) in such other circumstances as may be prescribed in regulations made under section 77(1).
+
+[Act 6 of 2016 wef 01/05/2016]
+
+### Other contributions to Fund
+
+13C\.—(1) This section applies to a person who —
+
+(a) has withdrawn the sum standing to the person’s credit in the Fund by virtue of section 15(2)(b) or (c); and
+
+(b) subsequently applies to be or becomes a citizen or permanent resident of Singapore.
+
+(2) Despite anything in this Act, the Board may, in any particular case, permit a person referred to in subsection (1) to contribute to the Fund, if the person satisfies such conditions as the Board may impose.
+
+(3) Where the Board permits a person to contribute to the Fund, the Board may determine the manner and amount of the person’s contribution to the Fund, including —
+
+(a) the account or accounts of that person in the Fund to which the amount of contribution is to be credited; and
+
+(b) the amount to be credited into each account of that person in the Fund.
+
+(4) A contribution which the Board may permit under this section is not subject to any maximum limit, despite anything in this Act.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+### Payment of cash grant by Government or other payments into Fund
+
+14\.—(1) The Board may after 1st June 1984 accept any cash grant made by the Government for the benefit of any person who qualifies for such grant under any approved scheme, and the Board shall credit the cash grant into such account in the Fund of that person as the Minister may direct.
 
 [32/84; 31/95]
 
-(2) Any cash grant paid into the Fund under subsection (1) shall be deemed to be contributions for the purposes of this Act and such cash grant or interest thereon may be withdrawn under the provisions of this Act for such purposes and in such manner as may be prescribed by the regulations.
+[Act 6 of 2016 wef 01/05/2016]
+
+(1A) Where —
+
+(a) the Board, pursuant to an activity engaged under section 76(1)(a) —
+
+(i) has attempted to make a cash payment to a person by issuing a cheque or other physical payment instrument to the person; and
+
+(ii) has sent a notice to the person of the issue of the cheque or other physical payment instrument, whether or not the person receives the notice; and
+
+(b) the cheque or other physical payment instrument has been returned to the Board or has expired before it is encashed,
+
+the Board may, in lieu of making the cash payment, credit an amount equivalent to the value of the cash payment into such account of that person in the Fund as the Minister may direct.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(2) Any cash grant or payment paid into the Fund under subsection (1) or (1A), as the case may be, shall be deemed to be contributions for the purposes of this Act and such cash grant or payment or interest thereon may be withdrawn under the provisions of this Act for such purposes and in such manner as may be prescribed by the regulations.
 
 [31/95]
 
-(3) Notwithstanding anything in this Act, the Board shall be entitled to recover on behalf of the Government any cash grant paid into the Fund for the benefit of any person, together with any interest which he is liable to pay to the Government under the terms of the cash grant, from any money standing to the credit of that person in the Fund if he —
+[Act 6 of 2016 wef 01/05/2016]
 
-(a) has obtained the cash grant by means of any false or misleading statement or any document that is false or misleading in any particular; or
+(3) Notwithstanding anything in this Act, the Board shall be entitled to recover on behalf of the Government any cash grant or payment paid into the Fund for the benefit of any person, together with any interest which he is liable to pay to the Government under the terms of the cash grant or payment, from any money standing to the credit of that person in the Fund if he —
 
-(b) has committed a breach of any of the terms and conditions of the cash grant.
+(a) has obtained the cash grant or payment by means of any false or misleading statement or any document that is false or misleading in any particular; or
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(b) has committed a breach of any of the terms and conditions of the cash grant or payment.
 
 [32/84]
+
+[Act 6 of 2016 wef 01/05/2016]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (4) Any money recovered by the Board from any person under subsection (3) shall be refunded forthwith to the Government.
 
@@ -1259,6 +1359,8 @@ CONTRIBUTIONS TO FUND
 “approved scheme” means a scheme approved by the Minister;
 
 “cash grant” means a cash grant made by the Government under any approved scheme.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Loan by Government to member
 
@@ -2512,6 +2614,18 @@ for —
 
 [30/89]
 
+(4A) Any person who gives or has given an undertaking under subsection (3) to the Board in relation to any withdrawal under subsection (1) for payment to an approved educational institution may, if that person has attained 16 years of age, consent —
+
+(a) to the approved educational institution disclosing to the Board such information, evidence or document about that person as the Board may reasonably require for the purpose of carrying out the provisions of this section or regulations made under section 23; and
+
+(b) to the Board disclosing to any other person such information, evidence or document relating to that person as may be necessary or expedient —
+
+(i) for the purpose of carrying out the provisions of this section or regulations made under section 23; or
+
+(ii) to facilitate the enforcement of an undertaking given, or a payment or repayment required, under this section.
+
+[Act 6 of 2016 wef 01/05/2016]
+
 (5) Notwithstanding anything in this Act, any amount repayable to a member’s account in the Fund, or payable to the Fund, pursuant to an undertaking given, or a guarantee furnished, under subsection (3) that is not repaid or paid (as the case may be) may be sued for and recovered by the Board under section 65.
 
 [Act 24 of 2013 wef 01/01/2014]
@@ -3188,7 +3302,9 @@ if to the best of the Board’s knowledge the deceased nominated person does not
 
 (a) shall not be assignable, transferable, attached, sequestered or levied upon for or in respect of any debt or claim;
 
-(b) shall not be subject to any set-off or any nature for any debt owing by that member;
+(b) shall not be subject to any set-off of any nature for any debt owing by that member;
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (c) shall not pass to the Official Assignee; and
 
@@ -3796,43 +3912,61 @@ LIFELONG INCOME SCHEME
 
 [18/2009; 23/2012]
 
-(2) Subject to subsections (3), (4) and (5) and the relevant regulations, the Scheme shall apply to every member who —
+(2) Subject to subsections (3) to (5A) and the relevant regulations, the Scheme applies to every member who —
 
-(a) attains, on or after 1st January 2013, such age as may be prescribed in the relevant regulations; and
+(a) attains 55 years of age, on or after 1 January 2013; and
 
-(b) on attaining the age referred to in paragraph (a) or at such time as may be prescribed in the relevant regulations, satisfies all of the following requirements:
+(b) on an assessment date applicable to the member, satisfies all of the following requirements:
 
-(i) he is a citizen or permanent resident of Singapore;
+(i) the member is a citizen or permanent resident of Singapore;
 
-(ii) he is required to comply with section 15(6)(a);
+(ii) the member is entitled under section 15(2)(a), (3) or (4) to withdraw any sum standing to the member’s credit in the Fund and would be required to comply with section 15(6)(a) if the member were to make such a withdrawal;
 
-(iii) the amount standing to his credit in his retirement account is not less than such amount as may be prescribed in the relevant regulations for the purposes of this sub-paragraph.
+(iii) the amount standing to the member’s credit in the member’s retirement account is not less than such amount as may be prescribed in the relevant regulations for the purposes of this sub-paragraph.
 
-[23/2012]
+[Act 6 of 2016 wef 01/05/2016]
 
-(2A) For the purposes of subsection (2)(b), different times and amounts may be prescribed for different classes of members.
+(2A) [Deleted by Act 6 of 2016 wef 01/05/2016]
 
-[22/2010; 23/2012]
+(3) The Scheme —
 
-(3) The Board may, on the application of a member who is a citizen or permanent resident of Singapore at the time the Board considers the application, but does not satisfy one or more of the requirements under subsection (2), permit him to join the Scheme —
+(a) does not apply to an excluded member; or
 
-(a) on or after the date he attains the age referred to in subsection (2)(a); and
+(b) if the member is a relevant member, ceases to apply when the member becomes an excluded member.
 
-(b) subject to such terms and conditions as the Board may impose.
+[Act 6 of 2016 wef 01/05/2016]
 
-[18/2009; 23/2012]
+(4) The Board may, on such terms and conditions as the Board may impose, approve a member’s application to be an excluded member.
 
-(4) The Scheme shall not apply to any member whom, or any class of members which, the Minister may prescribe under the relevant regulations.
+[Act 6 of 2016 wef 01/05/2016]
 
-[18/2009]
+(5) Despite subsections (2), (3) and (4), the Board may, on such terms and conditions as the Board may impose, approve a member’s application to join the Scheme if the member —
 
-(5) The Scheme shall not apply, or shall cease to apply, to a member if —
+(a) has attained such age as may be prescribed in the relevant regulations, or such earlier age as the Board may permit in a particular case; and
 
-(a) the Board, on the application of the member, so approves; and
+(b) is a citizen or permanent resident of Singapore.
 
-(b) the member complies with such terms and conditions for the Board’s approval as the Board may impose.
+[Act 6 of 2016 wef 01/05/2016]
 
-[18/2009]
+(5A) Despite subsections (2), (3) and (4), the Scheme —
+
+(a) applies to a member whose application to join the Scheme has been approved under subsection (5); and
+
+(b) ceases to apply to that member only when the Board’s approval under subsection (5) is cancelled under subsection (5B).
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(5B) The Board may cancel an approval given under subsection (4) or (5) —
+
+(a) if the member does not comply with any terms or conditions imposed by the Board; or
+
+(b) in any other circumstances prescribed by the Minister in the relevant regulations.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(5C) Where the Board cancels an approval given under subsection (4) or (5), the Board may specify the time (on or after the time of occurrence of the circumstances, referred to in subsection (4) or (5), as the case may be, which gave rise to the cancellation) that the cancellation takes effect.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (6) Subject to subsection (7), sections 27N and 27P and the relevant regulations, where a relevant member has paid a premium and an annuity plan has been issued to him, then for so long as the annuity plan remains in force and he is alive, the Board shall pay to him, after he has attained the relevant age applicable to him, such monthly income as the Minister may determine.
 
@@ -3851,6 +3985,22 @@ LIFELONG INCOME SCHEME
 (c) pass to the Official Assignee on the bankruptcy of the relevant member.
 
 [18/2009]
+
+(9) In this section —
+
+“assessment date” means —
+
+(a) for a member who attains 55 years of age on or after 1 January 2013 but before the date of commencement of section 22 of the Central Provident Fund (Amendment) Act 2016, the date the member attains 55 years of age or any other time prescribed in the relevant regulations for the purposes of subsection (2)(b); or
+
+(b) for a member who attains 55 years of age on or after the date of commencement of section 22 of the Central Provident Fund (Amendment) Act 2016, the time prescribed in the relevant regulations for the purposes of subsection (2)(b);
+
+“excluded member” means a member —
+
+(a) who belongs to any class of members prescribed under the relevant regulations for the purposes of subsection (3); or
+
+(b) whose application under subsection (4) has been approved by the Board and the approval remains in force.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Premium
 
@@ -4060,6 +4210,14 @@ LIFELONG INCOME SCHEME
 
 [18/2009; 20/2011; 23/2012]
 
+(3) Different times may be prescribed for different classes of members for the purposes of paragraphs (a) and (b) of the definition of “assessment date” in section 27K(9).
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(4) Different amounts may be prescribed for different classes of members for the purposes of section 27K(2)(b)(iii).
+
+[Act 6 of 2016 wef 01/05/2016]
+
 ## PART IV
 
 HOME PROTECTION INSURANCE SCHEME
@@ -4082,15 +4240,49 @@ HOME PROTECTION INSURANCE SCHEME
 
 (d) the Housing and Urban Development Company Private Limited, a company incorporated under the Companies Act (Cap. 50);
 
-“incapacitated” means to be physically or mentally incapacitated from ever continuing in any employment and “incapacity” shall be construed accordingly;
+“incapacitated” means suffering from —
 
-“member of the Scheme” means a person who is insured under the Scheme;
+(a) a total permanent disability; or
+
+(b) a terminal illness which arises on or after the date of commencement of section 24 of the Central Provident Fund (Amendment) Act 2016,
+
+and “incapacity” is to be construed accordingly;
+
+[Act 6 of 2016 wef 01/05/2016]
+
+“insured sum” means the sum prescribed in regulations made under this Part which is payable on the death or incapacity of a Scheme member;
+
+[Act 6 of 2016 wef 01/05/2016]
+
+“member of the Scheme” or “Scheme member” means a person who is insured under the Scheme;
+
+[Act 6 of 2016 wef 01/05/2016]
 
 “premium” means the premium payable by a member of the Scheme;
 
-“Scheme” means the Home Protection Insurance Scheme established and maintained by the Board under section 29(1).
+“Scheme” means the Home Protection Insurance Scheme established and maintained by the Board under section 29(1);
 
 [32/84; 30/87; 29/2005; 18/2009]
+
+[Act 6 of 2016 wef 01/05/2016]
+
+“terminal illness” means any illness that a registered medical practitioner under the Medical Registration Act (Cap. 174) certifies is expected to result in death within 12 months;
+
+[Act 6 of 2016 wef 01/05/2016]
+
+“total permanent disability” means —
+
+(a) being physically or mentally incapacitated from ever continuing in any employment; or
+
+(b) the total or permanent loss, which arises on or after the date of commencement of section 24 of the Central Provident Fund (Amendment) Act 2016, of the physical function of —
+
+(i) 2 eyes;
+
+(ii) 2 limbs; or
+
+(iii) one eye and one limb.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (2) Except where expressly provided in this Part, the provisions of this Part shall, with such exceptions, modifications and adaptations as the Minister may by order published in theGazetteprescribe, apply (so far as relevant) in relation to any housing accommodation sold or to be sold by an approved developer under Part IVB of the Housing and Development Act (Cap. 129).
 
@@ -4102,15 +4294,9 @@ HOME PROTECTION INSURANCE SCHEME
 
 ### Establishment of Home Protection Insurance Scheme
 
-29\.—(1) The Board is hereby authorised to establish and maintain a Home Protection Insurance Scheme for the purpose of providing that on the death or incapacity of a member of the Scheme at any time during the period in which the member is insured under the Scheme —
+29\.—(1) The Board is authorised to establish and maintain a Home Protection Insurance Scheme to provide for an insured sum to be paid in respect of any person who is a Scheme member, in accordance with the provisions of this Part, on the person’s death or incapacity at any time during the period in which the person is insured under the Scheme.
 
-(a) his liability to repay his housing loan to a Housing Authority or an approved mortgagee secured by a mortgage of the immovable property to that Authority or approved mortgagee (as the case may be) shall be discharged by the Board in accordance with the Scheme; or
-
-(b) if that liability has been discharged, such person or persons whom the Board is satisfied have discharged that liability shall be reimbursed by the Board in such manner as may be prescribed by regulations made under this Part.
-
-[30/87]
-
-[Act 24 of 2013 wef 01/09/2014]
+[Act 6 of 2016 wef 01/05/2016]
 
 (2) Subject to section 31, the Scheme shall apply to every member who has withdrawn moneys standing to his credit in the Fund to repay any instalment of housing loan taken by the member from a Housing Authority or an approved mortgagee for the purchase of any immovable property from a Housing Authority.
 
@@ -4144,9 +4330,11 @@ HOME PROTECTION INSURANCE SCHEME
 
 [30/87]
 
-(7) The Board may cancel or terminate a member’s cover under the Scheme in such circumstances as may be prescribed by regulations made under this Part.
+(7) The Board may issue to a member a cover under the Scheme, or cancel, terminate or reinstate a member’s cover under the Scheme in such circumstances as may be prescribed by regulations made under this Part.
 
 [23/2012]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Double insurance cover under Scheme prohibited
 
@@ -4172,13 +4360,13 @@ HOME PROTECTION INSURANCE SCHEME
 
 ### Medical condition of member of Scheme
 
-31\.—(1) Subject to subsection (2), no person shall be entitled to join the Scheme unless the Board is satisfied that he is in good health at the time he joins the Scheme.
+31\.—(1) Subject to subsection (2), a person is not entitled to join the Scheme if the Board is not satisfied that the person is in good health at the time the insurance cover under the Scheme is to commence.
 
-[30/87; 20/2011]
+[Act 6 of 2016 wef 01/05/2016]
 
-(2) The Board may, on the application of a person who is not entitled to join the Scheme solely by reason that the Board is not satisfied that the person is in good health, and subject to such terms and conditions as the Board may impose either generally or in a particular case, permit the person to join the Scheme.
+(2) The Board may, on the application of a person who is not entitled to join the Scheme solely by reason of subsection (1), permit the person to join the Scheme, subject to such terms and conditions as the Board may impose either generally or in a particular case.
 
-[20/2011]
+[Act 6 of 2016 wef 01/05/2016]
 
 (3) A member of the Scheme or person who wishes to join the Scheme shall —
 
@@ -4202,13 +4390,27 @@ HOME PROTECTION INSURANCE SCHEME
 
 [39/2000; 40/2007]
 
-(4) Where the amount of the premium which a member is liable to pay under the Scheme exceeds the amount standing to his credit in the Fund, the deficiency may be paid in such manner and within such time as the Board may determine.
+(4) Where the amount of the premium which a Scheme member is liable to pay under the Scheme exceeds the amount standing to the Scheme member’s credit in the Fund, the deficiency may be paid in either or both of the following manner:
+
+(a) the Board may deduct the deficiency (in whole or in part) from any payment from the insured sum which the Board may make under the Scheme under section 36(1), (2) or (6);
+
+(b) the deficiency may be paid in such other manner and within such time as the Board may determine.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(5) Where a joint-owner of an immovable property is insured under the Scheme, the Board may (on such terms and conditions as the Board may impose) permit such other joint-owner of the immovable property to use his contributions in the Fund to pay for the whole or part of the premium which the first-mentioned joint-owner is liable to pay under the Scheme.
 
 [39/2000]
 
-(5) Where a joint-owner of an immovable property is insured under the Scheme, the Board may permit a joint-owner who is a spouse of the first-mentioned joint-owner to use his contributions in the Fund to pay for the whole or part of the premium which the first-mentioned joint-owner is liable to pay under the Scheme.
+[Act 6 of 2016 wef 01/05/2016]
 
-[39/2000]
+(6) The other joint-owner referred to in subsection (5) —
+
+(a) need not be insured under the Scheme; and
+
+(b) must satisfy such other criteria as the Board may determine.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Establishment of Home Protection Fund
 
@@ -4228,7 +4430,7 @@ HOME PROTECTION INSURANCE SCHEME
 
 ### Amount payable by Board on death or incapacity of member of Scheme
 
-36\.—(1) Where a member of the Scheme dies at any time during the period he is insured under the Scheme, the Board shall, upon proof of death, forthwith pay such amount as may be prescribed by regulations made under this Part —
+36\.—(1) Where a member of the Scheme dies at any time during the period he is insured under the Scheme, the Board shall, upon proof of death, pay such amount deducted from the Scheme member’s insured sum as may be prescribed by regulations made under this Part —
 
 (a) in any case where there exist such circumstances as may be prescribed by those regulations —
 
@@ -4242,19 +4444,25 @@ HOME PROTECTION INSURANCE SCHEME
 
 [Act 24 of 2013 wef 01/09/2014]
 
+[Act 6 of 2016 wef 01/05/2016]
+
 (2) Subject to subsections (3), (4) and (5), where there is a claim made to the Board by a member of the Scheme on the ground of incapacity at any time during the period he is insured under the Scheme, the Board shall, upon proof of incapacity —
 
-(a) in any case where there exist such circumstances as may be prescribed by regulations made under this Part, pay such amount as may be prescribed by those regulations to be payable at the time of incapacity of the member —
+(a) in any case where there exist such circumstances as may be prescribed by regulations made under this Part, pay such amount deducted from the Scheme member’s insured sum as may be prescribed by those regulations to be payable at the time of incapacity of the member —
 
 (i) to such person or persons (other than the Housing Authority or the approved mortgagee) and in such manner as may be prescribed by those regulations; and
 
 (ii) if that amount is payable to 2 or more persons, in such proportion as may be determined by the Board; or
 
-(b) in any other case, pay to the Housing Authority or the approved mortgagee the monthly or other periodic loan instalments which the member of the Scheme is liable to pay to the Housing Authority or the approved mortgagee under the housing loan for a period not exceeding 2 years.
+[Act 6 of 2016 wef 01/05/2016]
+
+(b) in any other case, pay to the Housing Authority or the approved mortgagee the monthly or other periodic loan instalments which the member of the Scheme is liable to pay to the Housing Authority or the approved mortgagee under the housing loan for a period not exceeding 2 years, by deducting the amount from the Scheme member’s insured sum.
 
 [39/2000]
 
 [Act 24 of 2013 wef 01/09/2014]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (3) For the avoidance of doubt, where the housing loan is taken from a Housing Authority or an approved mortgagee by 2 or more members of the Scheme in respect of property purchased jointly by the members, the monthly or other periodic loan instalments payable by the Board under subsection (2)(b) on account of the incapacity of a member shall be in proportion to that member’s liability for the repayment of the housing loan as declared by that member to, and accepted by, the Board.
 
@@ -4268,25 +4476,17 @@ HOME PROTECTION INSURANCE SCHEME
 
 [Act 24 of 2013 wef 01/09/2014]
 
-(5) Where the Board ceases payment to the Housing Authority or the approved mortgagee under subsection (4), the member of the Scheme shall remain insured under the Scheme for such an amount as is prescribed under regulations made under this Part less any amount that the Board has paid under subsection (2)(b).
+(5) Where the Board ceases payment to the Housing Authority or the approved mortgagee under subsection (4), the member of the Scheme shall remain insured under the Scheme for the Scheme member’s insured sum less any amount that the Board has paid under subsection (2)(b).
 
 [39/2000]
 
 [Act 24 of 2013 wef 01/09/2014]
 
-(6) Notwithstanding subsection (2)(b), if the incapacity of the member of the Scheme is in the opinion of the Board likely to continue for more than 2 years, the Board shall pay the Housing Authority or the approved mortgagee such an amount as is determined in accordance with the formula —
+[Act 6 of 2016 wef 01/05/2016]
 
-(A + B) - C,
+(6) Despite subsection (2)(b), if the incapacity of the Scheme member is in the opinion of the Board likely to continue for more than 2 years, the Board must pay the Housing Authority or the approved mortgagee an amount as is prescribed by regulations made under this Part.
 
-where A is the amount prescribed under regulations made under this Part to be payable at the time of incapacity of the member;
-
-B is the amount of interest accrued on A as determined by the Board from the time the first monthly or other periodic loan instalment is made under subsection (2)(b) to the time the amount under this subsection is paid by the Board;
-
-C is the total amount paid by the Board to the Housing Authority or the approved mortgagee under subsection (2)(b).
-
-[39/2000]
-
-[Act 24 of 2013 wef 01/09/2014]
+[Act 6 of 2016 wef 01/05/2016]
 
 (7) Where a claim under the Scheme is made in respect of the incapacity of a member of the Scheme, the Board may backdate any payment to be made by the Board to the Housing Authority or the approved mortgagee under this section to the date on which the incapacity occurred.
 
@@ -4297,6 +4497,10 @@ C is the total amount paid by the Board to the Housing Authority or the approved
 [30/87]
 
 [Act 24 of 2013 wef 01/09/2014]
+
+(8A) The Board must credit the excess of the Scheme member’s insured sum over the amount payable under this section to the Scheme member’s account in the Fund.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (9) The Board shall not be required to make any payment in respect of any member of the Scheme —
 
@@ -4316,11 +4520,31 @@ C is the total amount paid by the Board to the Housing Authority or the approved
 
 (10) The Board shall not be required to make any payment in respect of any member of the Scheme if the member —
 
-(a) makes or furnishes to the Board any statement or fact that is false or misleading in a material particular; or
+(a) makes or furnishes to the Board any statement or fact that is false or misleading in a material particular;
 
-(b) fails to disclose to the Board any material fact or circumstance known to him at the time he is required to be insured under the Scheme which might influence the Board as to whether he should be insured under the Scheme.
+[Act 6 of 2016 wef 01/05/2016]
+
+(b) fails to disclose to the Board any material fact or circumstance known to him at the time he is required to be insured under the Scheme which might influence the Board as to whether he should be insured under the Scheme; or
 
 [30/87]
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(c) was suffering from an illness when the member joined the Scheme, unless the Board permitted the member to join the Scheme when it knew that the member was suffering from that illness.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(11) Subsection (9) does not limit the particulars, facts and circumstances which may be taken to be material for the purposes of subsection (10)(a) or (b).
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(12) Despite subsections (9) and (10), the Board may, on proof of death or incapacity of a Scheme member, pay in any circumstances prescribed by regulations made under this Part the whole or part of the insured sum.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(13) Any payment made by the Board in respect of a Scheme member before the date of commencement of section 28 of the Central Provident Fund (Amendment) Act 2016, which if made after that date would be permitted under subsection (12), is taken to be and always to have been validly paid, and no legal proceedings lie or may be instituted or maintained in any court of law on account of or in respect of any such payment.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Housing Authority or approved mortgagee to send notice to Board on payment of premium
 
@@ -4344,7 +4568,9 @@ C is the total amount paid by the Board to the Housing Authority or the approved
 
 (c) provide for the period and commencement of cover under the Scheme;
 
-(ca) provide, in respect of each class of members of the Scheme, for the amount of money for which a member of the Scheme may be insured under the Scheme;
+(ca) prescribe the insured sum in respect of each class of Scheme members;
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (d) provide, in respect of each class of members of the Scheme, for the amount of money payable by the Board to the Housing Authority or the approved mortgagee in the event of the death or incapacity of a member of the Scheme;
 
@@ -4354,9 +4580,11 @@ C is the total amount paid by the Board to the Housing Authority or the approved
 
 (e) provide, in respect of each class of members of the Scheme, for the amount of money payable by the Board under the Scheme where the prescribed premium has not been fully paid;
 
-(ea) prescribe the circumstances under which the Board may cancel or terminate a member’s cover under the Scheme;
+(ea) [Deleted by Act 6 of 2016 wef 01/05/2016]
 
-(f) provide for the refund of any premium, the manner in which the premium is to be refunded and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+(f) provide for the refund of any premium (and the whole or such part, as the Board may determine, of any interest that would have been payable on the amount of the premium if that amount had been standing to a person’s credit in the person’s account in the Fund), the manner in which the premium and interest are to be refunded and the circumstances in which the refund is to be made and at such rates as may be prescribed by the Minister;
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (g) prescribe the evidence to be produced and the person, officer or authority to whom that evidence is to be produced for the purposes of this Part;
 
@@ -4388,9 +4616,19 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 “premium” means the annual premium payable by an insured person;
 
-“Scheme” means the Dependants’ Protection Insurance Scheme established and maintained by the Board under section 41.
+“Scheme” means the Dependants’ Protection Insurance Scheme established and maintained by the Board under section 41;
 
 [23/89; 24/2005; 11/2013]
+
+[Act 6 of 2016 wef 01/05/2016]
+
+“serious illness”, in relation to an insured person, means any illness that —
+
+(a) is likely to result in a claim under that insured person’s insurance cover under the Scheme; and
+
+(b) the Board has specified for the purposes of section 43(1), in a manner accessible to the insured person, as a serious illness which the insured person must disclose to the Board.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Establishment of Dependants’ Protection Insurance Scheme
 
@@ -4420,13 +4658,25 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 [23/89; 24/2005]
 
-(4) Notwithstanding subsection (2), any member of the Fund who is not insured under the Scheme may apply in the prescribed manner to be insured under the Scheme.
+(4) Notwithstanding subsection (2) but without prejudice to section 43A, any member of the Fund who is not insured under the Scheme may apply in the prescribed manner to be insured under the Scheme.
 
 [23/89; 24/2005]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (5) The Board or an appointed insurer, as the case may be, may approve any application under subsection (4) in the prescribed manner.
 
 [24/2005]
+
+(6) The Board or an appointed insurer, as the case may be, may, in such circumstances as may be prescribed by regulations made under this Part —
+
+(a) refuse to insure, under the Scheme, any person who has made an application under subsection (4);
+
+(b) insure a person under the Scheme subject to such terms and conditions as the Board or appointed insurer may impose either generally or in a particular case; or
+
+(c) continue to insure a person referred to in section 43(1), subject to such terms and conditions as the Board or appointed insurer may impose either generally or in a particular case.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Application to persons below 21 years of age
 
@@ -4456,9 +4706,11 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 ### Board may cancel insurance cover
 
-43\.—(1) If the Board has reason to believe that an insured person is incapacitated or suffering from terminal illness on or before the date of commencement of his insurance cover under the Scheme, the Board may cancel the cover of that person under the Scheme and upon such cancellation that person shall cease immediately to be insured under the Scheme.
+43\.—(1) If the Board has reason to believe that an insured person is incapacitated or suffering from serious illness on or before the date of commencement of his insurance cover under the Scheme, the Board may cancel the cover of that person under the Scheme and upon such cancellation that person shall cease immediately to be insured under the Scheme.
 
 [23/89]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (2) All premiums paid by any person whose cover under the Scheme has been cancelled under subsection (1), together with the whole or such part, as the Board may determine, of the interest that would have been payable if the amount of such premiums had been standing to the credit of that person’s account in the Fund, shall be refunded in such manner as may be prescribed by regulations made under this Part.
 
@@ -4471,6 +4723,26 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 (4) This section shall apply only in relation to an insured person for whose insurance cover under the Scheme the Board remains liable to pay the insured sum by virtue of section 49A(2)(a).
 
 [24/2005]
+
+(5) Subsection (1) applies to a person’s insurance cover under the Scheme which commenced before, on or after the date of commencement of section 32 of the Central Provident Fund (Amendment) Act 2016.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(6) Where a person’s insurance cover under the Scheme —
+
+(a) was cancelled before the date of commencement of section 32 of the Central Provident Fund (Amendment) Act 2016; and
+
+(b) could be cancelled under subsection (1) if it were still in force on that date,
+
+that cancellation is taken to be and always to have been validly made, and no legal proceedings lie or may be instituted or maintained in any court of law on account of or in respect of that cancellation.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+### Board may reinstate, etc., member’s cover
+
+43A\. The Board may reinstate an insured person’s cover under the Scheme or issue a cover to any person, in such circumstances as may be prescribed by regulations made under this Part.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Board may require insured person to furnish information
 
@@ -4500,17 +4772,25 @@ DEPENDANTS’ PROTECTION INSURANCE SCHEME
 
 [24/2005]
 
-(4) Where the amount of the premium which an insured person is liable to pay under the Scheme exceeds the amount standing to his credit in his ordinary and special accounts, the deficiency may be paid in such manner and within such time as the Board may prescribe.
+(4) Where the amount of the premium which an insured person is liable to pay under the Scheme exceeds the amount standing to the person’s credit in the person’s ordinary and special accounts, the deficiency may be paid in either or both of the following manner:
 
-[23/89; 24/2005]
+(a) the Board or the appointed insurer, as the case may be, may deduct the deficiency (in whole or in part) from any payment from the insured sum which the Board or the appointed insurer may make under the Scheme under section 49;
+
+(b) the deficiency may be paid in such other manner and within such time as the Board may determine.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 46\. [Repealed by Act 24 of 2005]
 
 ### Period of cover
 
-47\.—(1) Where the prescribed premium payable under the Scheme has been paid or deducted from an insured person’s contributions under section 45, that person shall be covered under the Scheme by an appointed insurer assigned by the Board from the date of such payment or deduction for a period of 12 months after the date of commencement of his insurance cover.
+47\.—(1) On payment of the prescribed premium payable under section 45 for an insured person, the person is covered under the Scheme by the Board or an appointed insurer assigned by the Board, as the case may be, for a period of 12 months beginning on —
 
-[24/2005]
+(a) the date of such payment; or
+
+(b) where the insured person’s insurance cover is issued under section 43A, such other date as may be prescribed under section 51(e).
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (2) Subject to the provisions of this Part, the insurance cover under the Scheme shall be renewed annually in accordance with the prescribed requirements.
 
@@ -4654,9 +4934,13 @@ may be made, and shall be valid and effectual, notwithstanding anything to the c
 
 (c) prescribe the amount of the insured sum;
 
-(d) provide for the refund of any premium, the manner in which the premium is to be refunded and the circumstances under which the refund shall be made and at such rates as may be prescribed by the Minister;
+(d) provide for the refund of any premium (and the whole or such part, as the Board may determine, of any interest that would have been payable on the amount of the premium if that amount had been standing to an insured person’s credit in the person’s account in the Fund), the manner in which the premium and interest are to be refunded and the circumstances in which the refund is to be made and at such rates as may be prescribed by the Minister;
 
-(e) provide for different periods of cover in respect of different amounts of premium paid by an insured person;
+[Act 6 of 2016 wef 01/05/2016]
+
+(e) provide for the commencement of cover under the Scheme;
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (f) prescribe the evidence to be produced and the person, officer or authority to whom that evidence is to be produced for the purposes of this Part;
 
@@ -4892,9 +5176,11 @@ if —
 
 (b) the member is convicted of an offence under section 58(a) or (d) or the relevant regulations in connection with the cash payment, relevant contribution or interest,
 
-the court before which the conviction is had may, in addition to the fine prescribed under section 61 or penalty prescribed under the relevant regulations, order that the member pay to the Board the amount certified by an officer appointed by the Board in that behalf to be recoverable from the member, as at the date of the conviction, in respect of the cash payment, relevant contribution or interest.
+the court before which the conviction is had may, in addition to the penalty prescribed under section 61 or the relevant regulations, order that the member pay to the Board the amount certified by an officer appointed by the Board in that behalf to be recoverable from the member, as at the date of the conviction, in respect of the cash payment, relevant contribution or interest.
 
 [57/2007]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (2) Section 61B(2) and (3) shall apply to an amount ordered to be paid under subsection (1) as it applies to an amount ordered to be paid under section 61B(1).
 
@@ -5056,9 +5342,11 @@ that person shall be liable on conviction —
 
 ### Recovery of contributions, etc., upon conviction
 
-61B\.—(1) The court before which any conviction under section 7(3) or 61 is had may in addition to the fine prescribed in those sections order the person convicted to pay the amount of any contributions together with any interest due thereon certified by an officer appointed by the Board in that behalf to be due from that person at the date of the conviction.
+61B\.—(1) The court before which any conviction under section 7(3) or 61 is had may in addition to the penalty prescribed in those sections order the person convicted to pay the amount of any contributions together with any interest due thereon certified by an officer appointed by the Board in that behalf to be due from that person at the date of the conviction.
 
 [39/2000; 40/2007]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (1A) Where —
 
@@ -5068,9 +5356,11 @@ that person shall be liable on conviction —
 
 (c) the Board has required that member to refund or transfer to his ordinary account or special account such amount as may be prescribed by those regulations,
 
-the court before which the conviction is had may, in addition to the fine prescribed under this Act or penalty prescribed under that law, order that member to refund or transfer to his ordinary account or special account, as the case may be, in accordance with such directions as the Board may give, the amount certified by an officer appointed by the Board in that behalf to be due from that member, under paragraph (c), at the date of the refund or transfer.
+the court before which the conviction is had may, in addition to the penalty prescribed under this Act or under that other written law, order that member to refund or transfer to his ordinary account or special account, as the case may be, in accordance with such directions as the Board may give, the amount certified by an officer appointed by the Board in that behalf to be due from that member, under paragraph (c), at the date of the refund or transfer.
 
 [40/2007]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (2) The court may order that the amount ordered to be paid under subsection (1), or refunded or transferred under subsection (1A), be recoverable —
 
@@ -5376,9 +5666,27 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 [23/2012]
 
-(2) If any money has been paid in error to the Fund in respect of any person or as interest under section 9, but a claim for a refund or payment of the whole or any part of the money is not received by the Board within one year after the date on which the money was paid in error, the amount claimed shall not be refunded or paid to the claimant but shall be deemed to have been properly paid under the provisions of this Act in respect of that person or as interest, as the case may be.
+(1A) If a claim for a refund or payment of the whole or any part of the money paid in error in any of the circumstances specified in subsection (2) is not received by the Board within one year beginning on the date on which the money was paid in error, the amount claimed —
 
-[23/2012]
+(a) is not to be refunded or paid to the claimant but is deemed to have been properly paid under the provisions of this Act in respect of that person or as interest, as the case may be; and
+
+(b) cannot be set off under subsection (3) against any sum due to the Fund.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(2) For the purposes of subsection (1A), the circumstances in which moneys are paid in error are as follows:
+
+(a) contributions made by an employer under section 7(1) or (4)(c);
+
+(b) contributions made by an employee under section 7(4)(b);
+
+(c) contributions made by a self-employed person under any regulations made under section 77(1)(e);
+
+(d) interest payable under section 9;
+
+(e) moneys paid in error to the Fund or as interest under section 9 before the date of commencement of section 42 of the Central Provident Fund (Amendment) Act 2016.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (2A) Notwithstanding sections 20(1)(b) and (1A) and 25 but subject to subsection (2B), if any money paid in error to the Fund is credited to any account of a member in the Fund at the time the money is so paid, but the amount standing to the credit of the member in that account, at the time a claim for a refund or payment of the whole or any part of the money is approved by the Board, is less than the amount claimed, the Board may refund or pay to the claimant, or pay to any other person whom the Board is satisfied is entitled to that payment, an amount not exceeding the amount standing to the credit of the member in that account at the time the claim is approved by the Board.
 
@@ -5396,9 +5704,11 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 [23/2012]
 
-(3) If any sum is due to the Fund from any person to whom a refund or payment of any amount of any money paid in error would otherwise be made, the Board may retain the whole or any part of that amount and set it off against the sum due to the Fund.
+(3) Subject to subsection (1A)(b), if any sum is due to the Fund from any person to whom a refund or payment of any amount of any money paid in error would otherwise be made, the Board may retain the whole or any part of that amount and set it off against the sum due to the Fund.
 
 [23/2012]
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (4) No refund or payment to a claimant, or to any other person, shall be made and no amount shall be set-off under this section except with the consent of the Board.
 
@@ -5472,9 +5782,7 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 [23/2012]
 
-(5) In this section, “self-employed person” has the meaning given to it in any regulations made under section 77(1)(e).
-
-[23/2012]
+(5) [Deleted by Act 6 of 2016 wef 01/05/2016]
 
 ### Refund or payment of excess voluntary contributions where member has died
 
@@ -5501,6 +5809,50 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 (4) The Board may require any person who claims to be entitled to any refund or payment under subsection (2), or to have paid any excess contributions referred to in subsection (1), to furnish such information to the Board as may be necessary.
 
 [23/2012]
+
+### Refund of excess contributions paid by self-employed person who is alive
+
+75C\.—(1) This section applies where the Board is satisfied that the amount of contributions paid for any year by a member who is a self-employed person, under any regulations made under section 77(1)(e), exceeds the amount of contributions payable by the member after recomputation in accordance with those regulations.
+
+(2) Subject to subsections (3), (4) and (5), if any excess contributions referred to in subsection (1) are credited to any account in the Fund of a member who is a self-employed person and the member is alive, the Board may —
+
+(a) treat the excess contributions as payment towards any future contributions which the member is liable to pay; or
+
+(b) subject to such terms and conditions as the Board may impose, refund the excess contributions to the member if —
+
+(i) the member applies in writing for the refund within such time as may be prescribed; and
+
+(ii) the refund is made in accordance with any regulations made under section 77(1).
+
+(3) The Board may refund the excess contributions to a member, of an amount not exceeding the amount standing to the member’s credit in the account (in which the excess contributions were credited) at the time the Board approves the refund.
+
+(4) Where a member has not applied for a refund under subsection (2) within the prescribed time, the Board may retain the whole or any part of the excess contributions to be used to set off against any contributions or interest on any contributions as is due or may become due to the Board.
+
+(5) The Board may require any person who claims to be entitled to any refund under this section, or to have paid any excess contributions to the Fund, to provide the Board with such information as the Board considers necessary to determine whether any refund should be made.
+
+[Act 6 of 2016 wef 01/05/2016]
+
+### Refund of excess voluntary contributions where member is alive
+
+75D\.—(1) This section applies where the total amounts referred to in section 13B(3)(a), (b) and (c) which are contributed by or for a member in any year exceeds the sum prescribed under section 13B(3) for that year.
+
+(2) Subject to subsections (4), (5) and (6), where any excess contributions referred to in subsection (1) are credited to any account in the Fund of a member and the member is alive, the Board may, subject to such terms and conditions as it may impose, refund to the member or to any other person such amount of the excess contributions as may be prescribed by regulations made under section 77(1).
+
+(3) Where the member is an employee at any time during that year, and the Board is satisfied that the amount of additional medisave contributions which was paid in that year by his employer for the employee exceeds such sum as the Minister may prescribe by regulations made under section 77(1), the Board may, subject to such terms and conditions as the Board may impose, refund the excess to the employer.
+
+(4) The Board may refund the excess contributions to the member, any other person referred to in subsection (2) or the employer referred to in subsection (3) (as the case may be) of an amount not exceeding the amount standing to the member’s credit in the account (in which the excess contributions were credited) at the time the Board approves the refund.
+
+(5) The Board may require any person to whom any excess contributions are to be refunded under this section to —
+
+(a) submit an application to the Board for the refund of the excess contributions; and
+
+(b) provide the Board with such information as the Board considers necessary to determine whether any refund should be made.
+
+(6) The Board may retain the whole or any part of the excess contributions to be used to set off against any contributions or interest on any contributions which is due or may become due to the Board.
+
+(7) In this section, “additional medisave contributions” means the contributions paid by an employer under section 7(4)(c) specifically for the purposes of the medisave account of the employer’s employee.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Board may engage in activities not directly related to Fund and may call for information
 
@@ -5535,6 +5887,12 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 (f) provide that an employer who fails to deduct any contributions from an employee’s monthly wages or fails to pay such deductions into the fund within the prescribed time shall be guilty of an offence.
 
 [3/92]
+
+### Protection from personal liability
+
+76A\. No liability shall lie personally against any member, officer or employee of the Board, any other person acting under the Board’s direction or any public officer who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
+
+[Act 6 of 2016 wef 01/05/2016]
 
 ### Regulations and rules
 
@@ -5614,9 +5972,21 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (iii) prescribe the amount which may be withdrawn under section 15(7), and provide for the manner in which that amount may be withdrawn, after a member has attained the prescribed age;
 
-(iv) without prejudice to the generality of sub‑paragraph (iii), provide for the Board to pay an amount withdrawn by a member under section 15(7) into the member’s account in the Fund, and for the circumstances in which payment will be made to a member in this manner; and
+(iv) without prejudice to the generality of sub‑paragraph (iii), provide for the Board to pay an amount withdrawn by a member under section 15(7) into the member’s account in the Fund, and for the circumstances in which payment will be made to a member in this manner;
 
-(v) provide for the payment into a member’s account in the Fund of any payment to the Board that is secured under section 15(9), (9A), (10), (10A), (11D) or (11E), 27C(1) or (2), 27D(1) or (2) or 27DA(1) or (2);
+[Act 6 of 2016 wef 01/05/2016]
+
+(v) provide for the payment into a member’s account in the Fund of any payment to the Board of the whole or part of the amount that is secured under section 15(9), (9A), (10), (10A), (11D) or (11E), 27C(1) or (2), 27D(1) or (2) or 27DA(1) or (2) and for the Board to determine such amount to be paid;
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(vi) provide for the payment into a member’s retirement account of all or any part of the moneys deposited with an approved bank (including any interest on such moneys deposited) or used to purchase an approved annuity in accordance with section 15, the circumstances in which such payment is to be made and the person who will make such payment; and
+
+[Act 6 of 2016 wef 01/05/2016]
+
+(vii) in the case of a member who need not comply with section 15(6)(a) by reason of section 15(8)(e), provide for payment into the member’s retirement account of all or any part of the moneys deposited with an approved bank (including any interest on such moneys deposited) or of such sums when the member’s pension, annuity or other benefit is terminated or surrendered, the circumstances in which such payment is to be made and the person who will make such payment;
+
+[Act 6 of 2016 wef 01/05/2016]
 
 (oa) for the purposes of section 18(3), (6)(b) and (7) and, in particular, to prescribe —
 
@@ -5738,9 +6108,9 @@ Sections 7, 8, 70, 75 and 77
 
 Rates of contribution
 
-1\. Subject to paragraphs 1A to 7, with effect from 1 January 2016, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
+1. Subject to paragraphs 1A to 7, with effect from 1 January 2016, the contributions payable by the employer and the amount recoverable from the employee’s wages are as follows:
 
-1.—(a) where the employee is 55 years of age and below:
+(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -5796,9 +6166,7 @@ An amount equal to the sum of —
 
 20% of the Relevant Additional Wages.
 
-(b)
-
-where the employee is above 55 but not more than 60 years of age:
+(b) where the employee is above 55 but not more than 60 years of age:
 
 First column
 
@@ -5854,9 +6222,7 @@ An amount equal to the sum of —
 
 13% of the Relevant Additional Wages.
 
-(c)
-
-where the employee is above 60 but not more than 65 years of age:
+(c) where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -5912,9 +6278,7 @@ An amount equal to the sum of —
 
 7.5% of the Relevant Additional Wages.
 
-(d)
-
-where the employee is above 65 years of age:
+(d) where the employee is above 65 years of age:
 
 First column
 
@@ -5972,67 +6336,9 @@ An amount equal to the sum of —
 
 [S 752/2015 wef 01/01/2016]
 
-1A\. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1A. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-1A.—(a) where the employee is 55 years of age and below:
-
-First column
-
-Second column
-
-Third column
-
-Total amount of the employee’s wages for the calendar month
-
-Contributions payable by the employer for the calendar month
-
-Amount recoverable from the employee’s wages for the calendar month
-
-Exceeding $50 but not exceeding $500
-
-An amount equal to 4% of the Total Wages.
-
-NIL
-
-Exceeding $500 but not exceeding $750
-
-An amount equal to the sum of —
-
-(a)
-
-4% of the Total Wages; and
-
-An amount equal to 0.15 of the difference between the Total Wages and $500.
-
-(b)
-
-0.15 of the difference between the Total Wages and $500.
-
-Exceeding $750
-
-An amount equal to the sum of —
-
-(a)
-
-9% of the employee’s ordinary wages for the month subject to a maximum of $540; and
-
-An amount equal to the sum of —
-
-(a)
-
-5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
-
-(b)
-
-9% of the Relevant Additional Wages.
-
-(b)
-
-5% of the Relevant Additional Wages.
-
-(b)
-
-where the employee is above 55 but not more than 60 years of age:
+(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -6088,9 +6394,63 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(c)
+(b) where the employee is above 55 but not more than 60 years of age:
 
-where the employee is above 60 but not more than 65 years of age:
+First column
+
+Second column
+
+Third column
+
+Total amount of the employee’s wages for the calendar month
+
+Contributions payable by the employer for the calendar month
+
+Amount recoverable from the employee’s wages for the calendar month
+
+Exceeding $50 but not exceeding $500
+
+An amount equal to 4% of the Total Wages.
+
+NIL
+
+Exceeding $500 but not exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+4% of the Total Wages; and
+
+An amount equal to 0.15 of the difference between the Total Wages and $500.
+
+(b)
+
+0.15 of the difference between the Total Wages and $500.
+
+Exceeding $750
+
+An amount equal to the sum of —
+
+(a)
+
+9% of the employee’s ordinary wages for the month subject to a maximum of $540; and
+
+An amount equal to the sum of —
+
+(a)
+
+5% of the employee’s ordinary wages for the month subject to a maximum of $300; and
+
+(b)
+
+9% of the Relevant Additional Wages.
+
+(b)
+
+5% of the Relevant Additional Wages.
+
+(c) where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -6146,9 +6506,7 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(d)
-
-where the employee is above 65 years of age:
+(d) where the employee is above 65 years of age:
 
 First column
 
@@ -6206,9 +6564,9 @@ An amount equal to the sum of —
 
 [S 752/2015 wef 01/01/2016]
 
-1B\. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+1B. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at graduated rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-1B.—(a) where the employee is 55 years of age and below:
+(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -6264,9 +6622,7 @@ An amount equal to the sum of —
 
 15% of the Relevant Additional Wages.
 
-(b)
-
-where the employee is above 55 but not more than 60 years of age:
+(b) where the employee is above 55 but not more than 60 years of age:
 
 First column
 
@@ -6322,9 +6678,7 @@ An amount equal to the sum of —
 
 12.5% of the Relevant Additional Wages.
 
-(c)
-
-where the employee is above 60 but not more than 65 years of age:
+(c) where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -6380,9 +6734,7 @@ An amount equal to the sum of —
 
 7.5% of the Relevant Additional Wages.
 
-(d)
-
-where the employee is above 65 years of age:
+(d) where the employee is above 65 years of age:
 
 First column
 
@@ -6440,9 +6792,9 @@ An amount equal to the sum of —
 
 [S 752/2015 wef 01/01/2016]
 
-1C\. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
+1C. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), during the period beginning on the date the employee becomes a permanent resident and ending on the last day of the first anniversary month, are as follows:
 
-1C.—(a) where the employee is 55 years of age and below:
+(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -6498,9 +6850,7 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(b)
-
-where the employee is above 55 but not more than 60 years of age:
+(b) where the employee is above 55 but not more than 60 years of age:
 
 First column
 
@@ -6556,9 +6906,7 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(c)
-
-where the employee is above 60 but not more than 65 years of age:
+(c) where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -6614,9 +6962,7 @@ An amount equal to the sum of —
 
 5% of the Relevant Additional Wages.
 
-(d)
-
-where the employee is above 65 years of age:
+(d) where the employee is above 65 years of age:
 
 First column
 
@@ -6674,9 +7020,9 @@ An amount equal to the sum of —
 
 [S 752/2015 wef 01/01/2016]
 
-1D\. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
+1D. Subject to paragraphs 1E to 7, with effect from 1 January 2016, the contributions payable by the employer (at full rates) and the amount recoverable from the employee’s wages (at graduated rates), for the period beginning on the first day of the calendar month following the first anniversary month and ending on the last day of the second anniversary month, are as follows:
 
-1D.—(a) where the employee is 55 years of age and below:
+(a) where the employee is 55 years of age and below:
 
 First column
 
@@ -6732,9 +7078,7 @@ An amount equal to the sum of —
 
 15% of the Relevant Additional Wages.
 
-(b)
-
-where the employee is above 55 but not more than 60 years of age:
+(b) where the employee is above 55 but not more than 60 years of age:
 
 First column
 
@@ -6790,9 +7134,7 @@ An amount equal to the sum of —
 
 12.5% of the Relevant Additional Wages.
 
-(c)
-
-where the employee is above 60 but not more than 65 years of age:
+(c) where the employee is above 60 but not more than 65 years of age:
 
 First column
 
@@ -6848,9 +7190,7 @@ An amount equal to the sum of —
 
 7.5% of the Relevant Additional Wages.
 
-(d)
-
-where the employee is above 65 years of age:
+(d) where the employee is above 65 years of age:
 
 First column
 
@@ -6964,13 +7304,11 @@ the applicable amount less —
 
 (3) Where the employer is required to make additional contributions under sub-paragraph (2), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
 
-4A\. In computing the amount of ordinary wages for the purposes of paragraphs 2, 3 and 4 —
+4A. In computing the amount of ordinary wages for the purposes of paragraphs 2, 3 and 4 —
 
-4A.—(a) for the year 2015, the amount of ordinary wages for any month which is in excess of $5,000 is to be disregarded; and
+(a) for the year 2015, the amount of ordinary wages for any month which is in excess of $5,000 is to be disregarded; and
 
-(b)
-
-for the year 2016 and every subsequent year, the amount of ordinary wages for any month which is in excess of $6,000 is to be disregarded.
+(b) for the year 2016 and every subsequent year, the amount of ordinary wages for any month which is in excess of $6,000 is to be disregarded.
 
 [S 752/2015 wef 01/01/2016]
 
@@ -7253,8 +7591,6 @@ Arms and Explosives Act (Cap. 13).
 
 Business Names Registration Act 2014.
 
-4.
-
 [Act 29 of 2014 wef 03/01/2016]
 
 5. 
@@ -7348,8 +7684,6 @@ Parking Places Act (Cap. 214).
 27. 
 
 Pawnbrokers Act 2015.
-
-27. 
 
 [Act 2 of 2015 wef 01/04/2015]
 
@@ -8184,6 +8518,10 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|201.|**Act 6 of 2016—Central Provident Fund (Amendment) Act 2016**|
+||Date of First Reading|26 January 2016 (Bill No. 4/2016 published on 26 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 May 2016|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
