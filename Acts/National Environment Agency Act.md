@@ -46,6 +46,8 @@
 
 - [16 Appointment of chief executive and other staff](#Appointment-of-chief-executive-and-other-staff)
 
+- [16A Appointment of auxiliary officers](#Appointment-of-auxiliary-officers)
+
 - [17 Protection from personal liability](#Protection-from-personal-liability)
 
 - [18 Public servants](#Public-servants)
@@ -106,6 +108,8 @@
 
 - [42 Powers of enforcement, etc.](#Powers-of-enforcement-etc)
 
+- [42A Authorisation of auxiliary officers to exercise powers of enforcement](#Authorisation-of-auxiliary-officers-to-exercise-powers-of-enforcement)
+
 - [43 Corporate offenders and unincorporated associations](#Corporate-offenders-and-unincorporated-associations)
 
 - [44 Jurisdiction of court](#Jurisdiction-of-court)
@@ -156,11 +160,25 @@ PRELIMINARY
 
 “Agency” means the National Environment Agency established under section 3;
 
+“auxiliary officer” means an individual who is appointed as an auxiliary officer under section 16A(1);
+
+[Act 4 of 2016 wef 01/05/2016]
+
 “Chairman” means the Chairman of the Agency and includes a temporary Chairman of the Agency;
 
 “chief executive” means the chief executive of the Agency appointed under section 16 and includes any person acting in that capacity;
 
 “Deputy Chairman” means the Deputy Chairman of the Agency and includes a temporary Deputy Chairman of the Agency;
+
+“environmental written law” means a written law administered by any of the following:
+
+(a) the Agency;
+
+(b) the Director-General of Environmental Protection appointed under section 3(1) of the Environmental Protection and Management Act (Cap. 94A);
+
+(c) the Director-General of Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap. 95);
+
+[Act 4 of 2016 wef 01/05/2016]
 
 “member” means a member of the Agency and includes a temporary member of the Agency.
 
@@ -399,6 +417,20 @@ PROVISIONS RELATING TO STAFF
 (3) If the chief executive is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Agency, with the approval of the Minister, to act in the place of the chief executive during any such period of absence from duty.
 
 (4) The Agency may, from time to time, appoint such other officers, employees, consultants or agents as it thinks fit for the effective performance of its functions.
+
+### Appointment of auxiliary officers
+
+16A\.—(1) The Agency may in writing appoint an individual (who may or may not be a public officer) to be an auxiliary officer to assist the officers and employees of the Agency in the performance of any function of the Agency.
+
+(2) The Agency may, for any reason that appears to the Agency to be sufficient, at any time revoke an individual’s appointment as an auxiliary officer.
+
+(3) An auxiliary officer is to be issued with such equipment, or such description of equipment, as the chief executive may determine necessary for the effectual discharge of the duties of an auxiliary officer.
+
+(4) An auxiliary officer is not an officer or employee of the Agency.
+
+(5) An individual who is appointed as an auxiliary officer under subsection (1) does not, by virtue only of the appointment, become an agent of the Agency.
+
+[Act 4 of 2016 wef 01/05/2016]
 
 ### Protection from personal liability
 
@@ -648,23 +680,83 @@ MISCELLANEOUS
 
 ### Powers of enforcement, etc.
 
-42\.—(1) In addition to the powers conferred on him by this Act or any other written law, an officer or employee of the Agency may, on declaration of his office and production to the person against whom he is acting such identification card as the chief executive may direct to be carried by officers or employees of the Agency, in relation to any offence under this Act or such other written law —
+42\.—(1) In addition to the powers conferred on an officer or employee of the Agency by this Act or any environmental written law, the officer or employee may —
 
-(a) require any person whom he reasonably believes to have committed an offence under this Act or such other written law to furnish evidence of the person’s identity;
+(a) on declaration of the officer’s or employee’s office, and production of such identification card as the chief executive may direct to be carried by an officer or employee of the Agency —
 
-(b) require any person, for the purposes of this Act or such other written law, to furnish any information or produce any book, document or copy thereof in the possession of that person, and may, without fee or reward, inspect, copy or make extracts from such book or document; or
+(i) require any person whom the officer or employee reasonably believes to have committed any offence under this Act or that environmental written law to furnish evidence of that person’s identity;
 
-(c) when conducting any investigation under this Act or such other written law, require, by order in writing, the attendance before the officer or employee of the Agency of any person within the limits of Singapore who, from any information given or otherwise obtained by the officer or employee, appears to be acquainted with the circumstances of the case, and the person so ordered shall attend as so required.
+(ii) for the purposes of this Act or that environmental written law —
+
+(A) require any person to furnish any information or produce any book, document or copy of a book or document in the possession of that person; and
+
+(B) without fee or reward inspect, copy or make extracts from that book, document or copy; and
+
+(iii) when conducting any investigation under this Act or that environmental written law, require, by order in writing, the attendance before the officer or employee of any person within the limits of Singapore who, from any information given or otherwise obtained by the officer or employee, appears to be acquainted with the circumstances of the case; and
+
+(b) photograph or otherwise record the scene of any offence under this Act or that environmental written law, and any thing or individual in the scene.
+
+[Act 4 of 2016 wef 01/05/2016]
 
 (2) Any person who —
 
-(a) refuses to give access to, or assaults, obstructs, hinders or delays, an officer or employee of the Agency in the discharge of the duties by such officer or employee under this Act or any other written law;
+(a) refuses to give access to, or assaults, obstructs, hinders or delays, an officer or employee of the Agency in the discharge of the duties by such officer or employee under this Act or any environmental written law;
 
-(b) wilfully mis-states or without lawful excuse refuses to give any information or produce any book, document or copy thereof required of him by an officer or employee of the Agency under subsection (1); or
+[Act 4 of 2016 wef 01/05/2016]
 
-(c) fails to comply with a lawful demand of an officer or employee of the Agency in the discharge of the duties by such officer or employee under this Act or any other written law,
+(b) wilfully mis-states or without lawful excuse refuses to give any information or produce any book, document or copy thereof required of him by an officer or employee of the Agency under subsection (1)(a); or
+
+[Act 4 of 2016 wef 01/05/2016]
+
+(c) fails to comply with a lawful demand of an officer or employee of the Agency in the discharge of the duties by such officer or employee under this Act or any environmental written law,
+
+[Act 4 of 2016 wef 01/05/2016]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(3) In this section —
+
+“photograph” includes making a digital image or a moving visual record;
+
+“scene”, in relation to an offence under this Act or any environmental written law, means —
+
+(a) any place or vehicle where the offence was committed, is reasonably suspected to have been committed, or is about to be committed; or
+
+(b) any place or vehicle associated with, or relevant to, the commission or suspected commission of the offence.
+
+[Act 4 of 2016 wef 01/05/2016]
+
+### Authorisation of auxiliary officers to exercise powers of enforcement
+
+42A\.—(1) The chief executive must, in writing, issue to each auxiliary officer an authorisation specifying such power as is specified in subsection (3) that the auxiliary officer may exercise, and no other powers.
+
+(2) The powers that an auxiliary officer may be authorised under this section to exercise may be exercised only to the extent authorised by the chief executive under this section and directed by an officer or employee of the Agency.
+
+(3) An auxiliary officer may be authorised under this section to exercise all or any of the powers conferred on an officer or employee of the Agency by this Act or any environmental written law, in relation to any offence under this Act or that environmental written law.
+
+(4) The authorisation of the chief executive under subsection (1) issued to an auxiliary officer may also do all or any of the following:
+
+(a) limit the powers in subsection (3) that the auxiliary officer may exercise;
+
+(b) limit when, and where in Singapore, the auxiliary officer may exercise those powers or any of them;
+
+(c) limit the circumstances in which the auxiliary officer may exercise those powers or any of them.
+
+(5) An auxiliary officer who is authorised under subsection (1) to exercise any power in subsection (3) —
+
+(a) must obey all lawful directions (general or specific) of the chief executive and an officer or employee of the Agency when exercising that power; and
+
+(b) is deemed to be a public servant for the purposes of the Penal Code (Cap. 224) when exercising that power.
+
+(6) Without prejudice to subsection (5), where any law or written law protects an officer or employee of the Agency from liability for the officer’s or employee’s acts or omissions, that law or written law is taken to operate as if those acts or omissions included an auxiliary officer’s acts or omissions when acting in the course of the auxiliary officer’s duty as an auxiliary officer in accordance with —
+
+(a) the written authorisation of the chief executive under subsection (1); and
+
+(b) the lawful directions (general or specific) of the chief executive and an officer or employee of the Agency.
+
+(7) To avoid doubt, an auxiliary officer does not cease to be acting on the direction of an officer or employee of the Agency by reason only that the officer or employee is not present at all times.
+
+[Act 4 of 2016 wef 01/05/2016]
 
 ### Corporate offenders and unincorporated associations
 
@@ -718,7 +810,9 @@ not less than 10 clear days before the commencement of the proceedings.
 
 47\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been —
 
-(a) a member, an officer, an employee or an agent of the Agency; or
+(a) a member, an officer, an employee, an auxiliary officer or an agent of the Agency; or
+
+[Act 4 of 2016 wef 01/05/2016]
 
 (b) a member of a committee of the Agency,
 
@@ -828,6 +922,10 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of First Reading|20 January 2014 (Bill No. 3/2014 published on 20 January 2014)|
 ||Date of Second and Third Readings|17 February 2014|
 ||Date of commencement|1 April 2014|
+|8.|**Act 4 of 2016—National Environment Agency (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|28 January 2016 (Bill No. 7/2016 published on 28 January 2016)|
+||Date of Second and Third Readings|1 March 2016|
+||Date of commencement|1 May 2016|
 ## COMPARATIVE TABLE
 
 National Environment Agency Act
