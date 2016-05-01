@@ -178,6 +178,10 @@ PRELIMINARY
 
 “authorised officer” means any person appointed by the Director-General of Public Health under section 4(2);
 
+“auxiliary officer” means an individual who is appointed as an auxiliary officer under section 16A(1) of the National Environment Agency Act (Cap. 195);
+
+[Act 4 of 2016 wef 01/05/2016]
+
 “competent authority” means a competent authority appointed under section 5 of the Planning Act (Cap. 232);
 
 “container” includes anything in or by which a pesticide or vector repellent may be cased, covered, enclosed, contained or packed before application; and, in the case of a pesticide or vector repellent which is sold or carried or intended for sale or carriage in more than one container, includes every such container;
@@ -260,9 +264,17 @@ ADMINISTRATION OF ACT
 
 [4/2002]
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Agency or of any statutory authority to be an authorised officer for the purposes of this Act.
+(2) The Director-General may in writing appoint any of the following persons to be an authorised officer for the purposes of this Act:
 
-[4/2002]
+(a) a public officer;
+
+(b) an officer or auxiliary officer of the Agency;
+
+(c) an officer of any statutory authority;
+
+(d) an auxiliary police officer appointed under the Police Force Act (Cap. 235).
+
+[Act 4 of 2016 wef 01/05/2016]
 
 (3) The Director-General may, by instrument in writing under his hand, appoint any person who in his opinion is qualified to carry out any analysis, test or examination or to make any report for the purpose of this Act.
 
@@ -1348,6 +1360,10 @@ This Legislative History is provided for the convenience of users of the Control
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|7.|**Act 4 of 2016—National Environment Agency (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|28 January 2016 (Bill No. 7/2016 published on 28 January 2016)|
+||Date of Second and Third Readings|1 March 2016|
+||Date of commencement|1 May 2016|
 ## COMPARATIVE TABLE
 
 Control of Vectors and Pesticides Act
