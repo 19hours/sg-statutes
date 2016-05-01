@@ -1820,7 +1820,7 @@ CLASS A DRUGS
 
 (20) 4-Bromo-2,5-dimethoxyphenethylamine (also known as 2C-B)
 
-(21) Bufotenine
+(21) [Deleted by S 200/2016 wef 01/05/2016]
 
 (22) Buprenorphine
 
@@ -1854,7 +1854,7 @@ CLASS A DRUGS
 
 (37) Diethylthiambutene
 
-(38) N,N-Diethyltryptamine
+(38) [Deleted by S 200/2016 wef 01/05/2016]
 
 (39) Difenoxin
 
@@ -1876,7 +1876,7 @@ CLASS A DRUGS
 
 (48) Dimethylthiambutene
 
-(49) N,N-Dimethyltryptamine
+(49) [Deleted by S 200/2016 wef 01/05/2016]
 
 (50) Dioxaphetyl butyrate
 
@@ -1902,7 +1902,7 @@ CLASS A DRUGS
 
 (61) Etoxeridine
 
-(62) Etryptamine
+(62) [Deleted by S 200/2016 wef 01/05/2016]
 
 (63) Furethidine
 
@@ -1946,7 +1946,7 @@ CLASS A DRUGS
 
 (83) Methamphetamine (also known as Methylamphetamine)
 
-(84) 5-Methoxy-N,N-diisopropyltryptamine
+(84) [Deleted by S 200/2016 wef 01/05/2016]
 
 (85) 3-Methoxy-α-methyl-4,5-(methylenedioxy)phenethylamine
 
@@ -2032,7 +2032,7 @@ CLASS A DRUGS
 
 (126) Properidine (1-Methyl-4-phenyl-piperidine-4-carboxylic acid isopropyl ester)
 
-(127) Psilocin
+(127) [Deleted by S 200/2016 wef 01/05/2016]
 
 (128) Psilocybine
 
@@ -2076,7 +2076,13 @@ CLASS A DRUGS
 
 7. Fentanyl and any compounds structurally derived from N-(1-Methyl-4-piperidyl)-N-phenyl formamide by substitution of any of the hydrogen atoms, including the following; and any salt of any substance falling within this item:
 
-(1) Alfentanil
+(1) Acetylfentanyl (also known as desmethyl fentanyl)
+
+[S 200/2016 wef 01/05/2016]
+
+(1A) Alfentanil
+
+[S 200/2016 wef 01/05/2016]
 
 (2) Alpha-methyl fentanyl
 
@@ -2099,6 +2105,10 @@ CLASS A DRUGS
 (11) Para-fluorofentanyl
 
 (12) Sufentanil
+
+(12A) Thiafentanil
+
+[S 200/2016 wef 01/05/2016]
 
 (13) Thiofentanyl
 
@@ -2338,13 +2348,53 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (2) N-(1-Adamantyl)-1-pentyl-1H-indole-3-carboxamide (also known as APICA)
 
-(2A) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (also known as AB-FUBINACA) and its fluoro positional isomers in the phenyl ring
+(2A) 2-Amino-1-(4-bromo-2,5-dimethoxyphenyl)ethan-1-one (also known as bk-2C-B) and its bromo and dimethoxy positional isomers in the phenyl ring
 
-[S 254/2015 wef 01/05/2015]
+[S 200/2016 wef 01/05/2016]
 
-(2B) 4-(2-Aminopropyl)benzofuran (also known as 4-APB)
+(2B) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (also known as MAB-CHMINACA)
 
-[S 254/2015 wef 01/05/2015]
+[S 200/2016 wef 01/05/2016]
+
+(2C) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as 5-Fluoro-ADB-PINACA) and its fluoro positional isomers in the pentyl group
+
+[S 200/2016 wef 01/05/2016]
+
+(2D) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (also known as ADB-PINACA)
+
+[S 200/2016 wef 01/05/2016]
+
+(2E) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-chloropentyl)-1H-indazole-3-carboxamide (also known as 5-Chloro-AB-PINACA) and its chloro positional isomers in the pentyl group
+
+[S 200/2016 wef 01/05/2016]
+
+(2F) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (also known as AB-CHMINACA)
+
+[S 200/2016 wef 01/05/2016]
+
+(2G) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (also known as AB-FUBINACA) and its fluoro positional isomers in the phenyl ring
+
+[S 200/2016 wef 01/05/2016]
+
+(2H) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as 5-Fluoro-AB-PINACA) and its fluoro positional isomers in the pentyl group
+
+[S 200/2016 wef 01/05/2016]
+
+(2I) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (also known as AB-PINACA)
+
+[S 200/2016 wef 01/05/2016]
+
+(2J) N-(1-Amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as PX-2) and its fluoro positional isomers in the pentyl group
+
+[S 200/2016 wef 01/05/2016]
+
+(2K) N-(1-Amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide (also known as PX-1) and its fluoro positional isomers in the pentyl group
+
+[S 200/2016 wef 01/05/2016]
+
+(2L) 4-(2-Aminopropyl)benzofuran (also known as 4-APB)
+
+[S 200/2016 wef 01/05/2016]
 
 (3) 5-(2-Aminopropyl)benzofuran (also known as 5-APB)
 
@@ -2366,6 +2416,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 254/2015 wef 01/05/2015]
 
+(6AA) 1-(1-Benzofuran-5-yl)-N-ethylpropan-2-amine (also known as 5-EAPB) and its 4-yl, 6-yl and 7-yl isomers
+
+[S 200/2016 wef 01/05/2016]
+
 (6B) 2-(4-Bromo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25B-NBOMe)
 
 [S 254/2015 wef 01/05/2015]
@@ -2377,6 +2431,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (8A) 2-(4-Chloro-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25C-NBOMe)
 
 [S 254/2015 wef 01/05/2015]
+
+(8B) 1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine (also known as MT-45)
+
+[S 200/2016 wef 01/05/2016]
 
 (9) 17-O-Desmethyl-16,17-dihydromitragynine
 
@@ -2400,6 +2458,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 254/2015 wef 01/05/2015]
 
+(15B) 2-(2,5-Dimethoxyphenyl)ethanamine (also known as 2C-H) and its dimethoxy positional isomers in the phenyl ring
+
+[S 200/2016 wef 01/05/2016]
+
 (16) 6,6-Dimethyl-3-(2-methyloctan-2-yl)-6a,7,8,9,10,10a-hexahydro-6H-benzo[c]chromen-1,9-diol
 
 (17) N,N-Dimethyl-1-phenylpropan-2-amine (also known as N,N-dimethylamphetamine)
@@ -2407,6 +2469,18 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (18) Diphenyl(pyrrolidin-2-yl)methanol (also known as diphenylprolinol)
 
 (19) 2-Diphenylmethylpiperidine (also known as desoxypipradrol)
+
+(19A) Ethylphenidate
+
+[S 200/2016 wef 01/05/2016]
+
+(19B) [1-(5-Fluoropent-1-yl)-1H-benzimidazol-2-yl](naphthalen-1-yl)methanone (also known as FUBIMINA) and its fluoro positional isomers in the pentyl group
+
+[S 200/2016 wef 01/05/2016]
+
+(19C) [1-(5-Fluoropent-1-yl)-1H-indazol-3-yl](naphthalen-1-yl)methanone (also known as THJ-2201) and its fluoro positional isomers in the pentyl group
+
+[S 200/2016 wef 01/05/2016]
 
 (20) [1-(5-Fluoropent-1-yl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone (also known as XLR-11 or 5-Fluoro-UR-144) and its fluoro positional isomers in the pentyl group
 
@@ -2430,11 +2504,31 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (27) 7-Hydroxymitragynine
 
-(27A) 2-(4-Iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25I-NBOMe)
+(27A) 1-(1H-Indol-5-yl)propan-2-amine (also known as 5-IT) and its 4-yl, 6-yl and 7-yl isomers
 
-[S 254/2015 wef 01/05/2015]
+[S 200/2016 wef 01/05/2016]
+
+(27B) 2-(4-Iodo-2,5-dimethoxyphenyl)-N-(2-methoxybenzyl)ethanamine (also known as 25I-NBOMe)
+
+[S 200/2016 wef 01/05/2016]
+
+(27C) 2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine (also known as 2C-I) and its dimethoxy and iodo positional isomers in the phenyl ring
+
+[S 200/2016 wef 01/05/2016]
 
 (28) 2-(3-Methoxyphenyl)-2-(N-ethylamino)cyclohexanone (also known as methoxetamine)
+
+(28A) Methyl 2-[1-(cyclohexylmethyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (also known as MDMB-CHMINACA)
+
+[S 200/2016 wef 01/05/2016]
+
+(28B) Methyl 2-[1-(cyclohexylmethyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as MA-CHMINACA)
+
+[S 200/2016 wef 01/05/2016]
+
+(28C) Methyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as 5-Fluoro-AMB) and its fluoro positional isomers in the pentyl group
+
+[S 200/2016 wef 01/05/2016]
 
 (29) N-Methyl-1-(4-fluorophenyl)propan-2-amine (also known as 4-Fluoromethamphetamine or 4-FMA) and its fluoro positional isomers in the phenyl ring
 
@@ -2444,13 +2538,19 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 254/2015 wef 01/05/2015]
 
+(30A) 4-Methyl-5-(4-methylphenyl)-4,5-dihydro-1,3-oxazol-2-amine (also known as 4,4’-Dimethylaminorex, 4,4’-DMAR or para-methyl-4-methylaminorex) and its methyl positional isomers in the phenyl ring
+
+[S 200/2016 wef 01/05/2016]
+
 (31) N-Methyl-1-(4-methylphenyl)propan-2-amine (also known as 4-Methylmethamphetamine or 4-MMA) and its methyl positional isomers in the phenyl ring
 
 [S 254/2015 wef 01/05/2015]
 
 (32) (N-Methyl-4-phenylpiperidin-4-yl)propanoate (also known as desmethylprodine)
 
-(33) N-Methyl-1-(thiophen-2-yl)propan-2-amine (also known as methiopropamine)
+(33) N-Methyl-1-(thiophen-2-yl)propan-2-amine (also known as methiopropamine) and its thiophen-3-yl isomer
+
+[S 200/2016 wef 01/05/2016]
 
 (34) 1-(4-Methylbenzo-1,3-dioxol-6-yl)propan-2-amine (also known as 5-methyl-MDA or 5-methyl-3,4-methylenedioxyamphetamine)
 
@@ -2477,6 +2577,98 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (39) Salvinorin A
 
 [S 323/2014 wef 01/05/2014]
+
+19. Any compound (other than serotonin) structurally derived from 2-(1H-indol-3-yl)ethanamine (also known as tryptamine) by modification in any of the following ways:
+
+(a) substitution at the nitrogen atom of the side chain to any extent with alkyl or alkenyl substituents, or by inclusion of only the nitrogen atom of the side chain in a cyclic structure;
+
+(b) substitution at the carbon atom adjacent to the nitrogen atom of the side chain with alkyl or alkenyl substituents;
+
+(c) substitution in the 6-membered ring to any extent with alkyl, alkoxy, haloalkyl, hydroxy, thioalkyl, alkylenedioxy, halide or acetoxy substituents;
+
+(d) substitution at the 2-position of the tryptamine ring system with an alkyl substituent,
+
+including any ether, salt or stereoisomeric form of any such compound, any preparation or product containing any such compound, and the following examples of such a compound:
+
+(1) 4-Acetoxy-N,N-diisopropyltryptamine (also known as 4-Acetoxy-DiPT or 4-AcO-DiPT)
+
+(2) 4-Acetoxy-N,N-dimethyltryptamine (also known as 4-Acetoxy-DMT or 4-AcO-DMT)
+
+(3) 5-Benzyloxytryptamine
+
+(4) 5-Bromo-N,N-dimethyltryptamine (also known as 5-Bromo-DMT)
+
+(5) 5-Bromotryptamine
+
+(6) 5-Chloro-α-methyltryptamine (also known as 5-Chloro-AMT)
+
+(7) 5-Chlorotryptamine
+
+(8) N,N-Diallyltryptamine
+
+(9) N,N-Diethyltryptamine
+
+(10) N,N-Diisopropyltryptamine
+
+(11) N,N-Dimethyltryptamine
+
+(12) N,N-Dipropyltryptamine
+
+(13) Etryptamine
+
+(14) 5-Fluoro-N,N-dimethyltryptamine (also known as 5-Fluoro-DMT)
+
+(15) 5-Fluoro-α-methyltryptamine (also known as 5-Fluoro-AMT)
+
+(16) 5-Fluorotryptamine
+
+(17) 4-Hydroxy-N,N-diethyltryptamine (also known as 4-Hydroxy-DET or 4-HO-DET)
+
+(18) 4-Hydroxy-N,N-diisopropyltryptamine (also known as 4-Hydroxy-DiPT or 4-HO-DiPT)
+
+(19) 4-Hydroxy-N,N-dimethyltryptamine (also known as Psilocin)
+
+(20) 4-Hydroxy-N-methyl-N-ethyltryptamine (also known as 4-Hydroxy-MET or 4-HO-MET)
+
+(21) 4-Hydroxy-N-methyl-N-isopropyltryptamine (also known as 4-Hydroxy-MiPT or 4-HO-MiPT)
+
+(22) 4-Hydroxy-α-methyltryptamine (also known as 4-Hydroxy-AMT or 4-HO-AMT)
+
+(23) 5-Hydroxy-N-methyltryptamine (also known as 5-Hydroxy-NMT or 5-HO-NMT)
+
+(24) 5-Hydroxy-N,N-dimethyltryptamine (also known as Bufotenine)
+
+(25) 5-Methoxy-N,N-diallyltryptamine (also known as 5-Methoxy-DALT or 5-MeO-DALT)
+
+(26) 5-Methoxy-N,N-diethyltryptamine (also known as 5-Methoxy-DET or 5-MeO-DET)
+
+(27) 5-Methoxy-N,N-diisopropyltryptamine (also known as 5-Methoxy-DiPT or 5-MeO-DiPT)
+
+(28) 5-Methoxy-N,N-dimethyltryptamine (also known as 5-Methoxy-DMT or 5-MeO-DMT)
+
+(29) 5-Methoxy-N,N-dipropyltryptamine (also known as 5-Methoxy-DPT or 5-MeO-DPT)
+
+(30) 5-Methoxy-N-ethyl-N-isopropyltryptamine (also known as 5-Methoxy-EiPT or 5-MeO-EiPT)
+
+(31) 5-Methoxy-N-ethyl-N-propyltryptamine (also known as 5-Methoxy-EPT or 5-MeO-EPT)
+
+(32) 5-Methoxy-α-ethyltryptamine (also known as 5-Methoxy-AET or 5-MeO-AET)
+
+(33) 5-Methoxy-N-methyl-N-isopropyltryptamine (also known as 5-Methoxy-MiPT or 5-MeO-MiPT)
+
+(34) 5-Methoxy-α-methyltryptamine (also known as 5-Methoxy-AMT or 5-MeO-AMT)
+
+(35) 5-Methoxy-N-methyltryptamine (also known as 5-Methoxy-NMT or 5-MeO-NMT)
+
+(36) 4-Methyl-α-ethyltryptamine (also known as 4-Methyl-AET)
+
+(37) 5-Methyltryptamine
+
+(38) α-Methyltryptamine
+
+(39) N-Methyltryptamine
+
+[S 200/2016 wef 01/05/2016]
 
 Part II
 
@@ -3738,171 +3930,17 @@ Sections 24, 26, 27, 32 and 58A
 
 Temporarily listed drugs
 
-1. 
+1. The following compounds, including any salt or stereoisomeric form of such compounds, and any preparation or product containing such compounds:
 
-The following compounds, including any salt or stereoisomeric form of such compounds, and any preparation or product containing such compounds:
+(1) Methyl 2-[1-(cyclohexylmethyl)-1H-indole-3-carboxamido]-3,3-dimethylbutanoate (also known as MDMB-CHMICA).
 
-(1) 2-Amino-1-(4-bromo-2,5-dimethoxyphenyl)ethan-1-one (also known as bk-2C-B) and its bromo and dimethoxy positional isomers in the phenyl ring
+(2) Naphthalen-1-yl[1-(pent-1-yl)-1H-indazol-3-yl]methanone (also known as THJ-018).
 
-[S 614/2015 wef 01/11/2015]
+(3) Naphthalen-1-yl 5-fluoropent-1-yl-1H-indole-3-carboxylate (also known as NM-2201 or CBL-2201) and its fluoro positional isomers in the pentyl group.
 
-(2) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (also known as MAB-CHMINACA)
+(4) 5-Fluoropent-1-yl-N-naphthalen-1-yl-1H-indole-3-carboxamide (also known as CBM-2201, 5-Fluoro-NNEI, 5F-NNEI or MN-24F) and its fluoro positional isomers in the pentyl group.
 
-[S 614/2015 wef 01/11/2015]
-
-(3) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as 5-Fluoro-ADB-PINACA) and its fluoro positional isomers in the pentyl group
-
-[S 614/2015 wef 01/11/2015]
-
-(4) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (also known as ADB-PINACA)
-
-[S 614/2015 wef 01/11/2015]
-
-(5) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-chloropentyl)-1H-indazole-3-carboxamide (also known as 5-Chloro-AB-PINACA) and its chloro positional isomers in the pentyl group
-
-[S 614/2015 wef 01/11/2015]
-
-(6) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (also known as AB-CHMINACA)
-
-[S 614/2015 wef 01/11/2015]
-
-(7) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as 5-Fluoro-AB-PINACA) and its fluoro positional isomers in the pentyl group
-
-[S 614/2015 wef 01/11/2015]
-
-(8) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (also known as AB-PINACA)
-
-[S 614/2015 wef 01/11/2015]
-
-(9) N-(1-Amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as PX-2) and its fluoro positional isomers in the pentyl group
-
-[S 614/2015 wef 01/11/2015]
-
-(10) N-(1-Amino-1-oxo-3-phenylpropan-2-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide (also known as PX-1) and its fluoro positional isomers in the pentyl group
-
-[S 614/2015 wef 01/11/2015]
-
-(11) 1-(1-Benzofuran-5-yl)-N-ethylpropan-2-amine (also known as 5-EAPB) and its 4-yl, 6-yl and 7-yl isomers
-
-[S 614/2015 wef 01/11/2015]
-
-(12) 2-(2,5-Dimethoxyphenyl)ethanamine (also known as 2C-H) and its dimethoxy positional isomers in the phenyl ring
-
-[S 614/2015 wef 01/11/2015]
-
-(13) Ethylphenidate
-
-[S 614/2015 wef 01/11/2015]
-
-(14) [1-(5-Fluoropent-1-yl)-1H-benzimidazol-2-yl](naphthalen-1-yl)methanone (also known as FUBIMINA) and its fluoro positional isomers in the pentyl group
-
-[S 614/2015 wef 01/11/2015]
-
-(15) [1-(5-Fluoropent-1-yl)-1H-indazol-3-yl](naphthalen-1-yl)methanone (also known as THJ-2201) and its fluoro positional isomers in the pentyl group
-
-[S 614/2015 wef 01/11/2015]
-
-(16) 1-(1H-Indol-5-yl)propan-2-amine (also known as 5-IT) and its 4-yl, 6-yl and 7-yl isomers
-
-[S 614/2015 wef 01/11/2015]
-
-(17) 2-(4-Iodo-2,5-dimethoxyphenyl)ethanamine (also known as 2C-I) and its dimethoxy and iodo positional isomers in the phenyl ring
-
-[S 614/2015 wef 01/11/2015]
-
-(18) Methyl 2-[1-(cyclohexylmethyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (also known as MDMB-CHMINACA)
-
-[S 614/2015 wef 01/11/2015]
-
-(19) Methyl 2-[1-(cyclohexylmethyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as MA-CHMINACA)
-
-[S 614/2015 wef 01/11/2015]
-
-(20) Methyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as 5-Fluoro-AMB) and its fluoro positional isomers in the pentyl group
-
-[S 614/2015 wef 01/11/2015]
-
-[S 254/2015 wef 01/05/2015]
-
-2. 
-
-Any compound (other than serotonin or a Class A drug) structurally derived from 2-(1H-indol-3-yl)ethanamine (also known as tryptamine) by modification in any of the following ways:
-
-(a) substitution at the nitrogen atom of the side chain to any extent with alkyl or alkenyl substituents, or by inclusion of only the nitrogen atom of the side chain in a cyclic structure;
-
-(b) substitution at the carbon atom adjacent to the nitrogen atom of the side chain with alkyl or alkenyl substituents;
-
-(c) substitution in the 6-membered ring to any extent with alkyl, alkoxy, haloalkyl, hydroxy, thioalkyl, alkylenedioxy or halide substituents;
-
-(d) substitution at the 2-position of the tryptamine ring system with an alkyl substituent,
-
-including any acyl derivative, ether, salt or stereoisomeric form of any such compound, any preparation or product containing any such compound, and the following examples of such a compound:
-
-(1) 4-Acetoxy-N,N-diisopropyltryptamine (also known as 4-Acetoxy-DiPT or 4-AcO-DiPT);
-
-(2) 4-Acetoxy-N,N-dimethyltryptamine (also known as 4-Acetoxy-DMT or 4-AcO-DMT);
-
-(3) 5-Benzyloxytryptamine;
-
-(4) 5-Bromo-N,N-dimethyltryptamine (also known as 5-Bromo-DMT);
-
-(5) 5-Bromotryptamine;
-
-(6) 5-Chloro-α-methyltryptamine (also known as 5-Chloro-AMT);
-
-(7) 5-Chlorotryptamine;
-
-(8) N,N-Diallyltryptamine;
-
-(9) N,N-Diisopropyltryptamine;
-
-(10) N,N-Dipropyltryptamine;
-
-(11) 5-Fluoro-N,N-dimethyltryptamine (also known as 5-Fluoro-DMT);
-
-(12) 5-Fluoro-α-methyltryptamine (also known as 5-Fluoro-AMT);
-
-(13) 5-Fluorotryptamine;
-
-(14) 4-Hydroxy-N,N-diethyltryptamine (also known as 4-Hydroxy-DET or 4-HO-DET);
-
-(15) 4-Hydroxy-N,N-diisopropyltryptamine (also known as 4-Hydroxy-DiPT or 4-HO-DiPT);
-
-(16) 4-Hydroxy-N-methyl-N-ethyltryptamine (also known as 4-Hydroxy-MET or 4-HO-MET);
-
-(17) 4-Hydroxy-N-methyl-N-isopropyltryptamine (also known as 4-Hydroxy-MiPT or 4-HO-MiPT);
-
-(18) 4-Hydroxy-α-methyltryptamine (also known as 4-Hydroxy-AMT or 4-HO-AMT);
-
-(19) 5-Hydroxy-N-methyltryptamine (also known as 5-Hydroxy-NMT or 5-HO-NMT);
-
-(20) 5-Methoxy-N,N-diallyltryptamine (also known as 5-Methoxy-DALT or 5-MeO-DALT);
-
-(21) 5-Methoxy-N,N-diethyltryptamine (also known as 5-Methoxy-DET or 5-MeO-DET);
-
-(22) 5-Methoxy-N,N-dipropyltryptamine (also known as 5-Methoxy-DPT or 5-MeO-DPT);
-
-(23) 5-Methoxy-N-ethyl-N-isopropyltryptamine (also known as 5-Methoxy-EiPT or 5-MeO-EiPT);
-
-(24) 5-Methoxy-N-ethyl-N-propyltryptamine (also known as 5-Methoxy-EPT or 5-MeO-EPT);
-
-(25) 5-Methoxy-α-ethyltryptamine (also known as 5-Methoxy-AET or 5-MeO-AET);
-
-(26) 5-Methoxy-N-methyl-N-isopropyltryptamine (also known as 5-Methoxy-MiPT or 5-MeO-MiPT);
-
-(27) 5-Methoxy-α-methyltryptamine (also known as 5-Methoxy-AMT or 5-MeO-AMT);
-
-(28) 5-Methoxy-N-methyltryptamine (also known as 5-Methoxy-NMT or 5-MeO-NMT);
-
-(29) 4-Methyl-α-ethyltryptamine (also known as 4-Methyl-AET);
-
-(30) 5-Methyltryptamine;
-
-(31) α-Methyltryptamine;
-
-(32) N-Methyltryptamine.
-
-[S 614/2015 wef 01/11/2015]
+[S 200/2016 wef 01/05/2016]
 
 ## LEGISLATIVE HISTORY
 
@@ -4080,6 +4118,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 May 2015|
 |54.|**G.N. No. S 614/2015—Misuse of Drugs Act (Amendment of Fifth Schedule) Order 2015**|
 ||Date of commencement|1 November 2015|
+|55.|**G.N. No. S 200/2016—Misuse of Drugs Act (Amendment of First and Fifth Schedules) Order 2016**|
+||Date of commencement|1 May 2016|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
