@@ -78,13 +78,21 @@
 
 [**Part VIIIA OFFENCES RELATING TO NUCLEAR MATERIAL CONVENTION**](#Part-VIIIA)
 
-- [26A Nuclear material](#Nuclear-material)
+- [26A Interpretation and application of this Part](#Interpretation-and-application-of-this-Part)
 
 - [26B Use, etc., of nuclear material](#Use-etc-of-nuclear-material)
 
 - [26C Enhanced punishment for theft, etc., of nuclear material](#Enhanced-punishment-for-theft-etc-of-nuclear-material)
 
 - [26D Threat to commit certain offences](#Threat-to-commit-certain-offences)
+
+- [26DA Use, etc., of nuclear material to cause damage to environment](#Use-etc-of-nuclear-material-to-cause-damage-to-environment)
+
+- [26DB Acts against nuclear facilities](#Acts-against-nuclear-facilities)
+
+- [26DC Threats to commit offence under section 26DA or 26DB](#Threats-to-commit-offence-under-section-26DA-or-26DB)
+
+- [26DD Export or import of nuclear material: extended jurisdiction](#Export-or-import-of-nuclear-material:-extended-jurisdiction)
 
 - [26E Information relating to offence](#Information-relating-to-offence)
 
@@ -226,23 +234,33 @@ and “dispose of” shall be construed accordingly;
 
 [Act 20 of 2014 wef 21/10/2014]
 
-“Nuclear Material Convention” means the Convention on the Physical Protection of Nuclear Material adopted in Vienna on 26th October 1979;
+“Nuclear Material Convention” means the Convention on the Physical Protection of Nuclear Material adopted in Vienna on 26th October 1979, as amended by the amendments adopted in Vienna on 8th July 2005;
 
-[Act 20 of 2014 wef 21/10/2014]
+[Act 20 of 2014 wef 07/05/2016]
 
 “nuclear offence” means —
 
-(a) an offence under section 26B or 26D;
+(a) an offence under section 26B, 26D, 26DA, 26DB or 26DC;
 
 (b) an offence specified in the Second Schedule committed in relation to any nuclear material;
 
 (c) an abetment of or a conspiracy to commit an offence referred to in paragraph (a) or (b);
 
-(d) an attempt to commit an offence under section 26B, or an offence referred to in paragraph (b) except any offence under section 384, 385, 386, 387, 388 or 389 of the Penal Code (Cap. 224) committed in relation to nuclear material; or
+(d) an attempt to commit an offence under section 26B, 26DA or 26DB, or an offence referred to in paragraph (b) except any offence under section 384, 385, 386, 387, 388 or 389 of the Penal Code committed in relation to nuclear material; or
 
 (e) an act by a person which would make him liable for an offence referred to in paragraph (a), (b) or (d) by virtue of section 34, 35 or 37 of the Penal Code;
 
-[Act 20 of 2014 wef 21/10/2014]
+[Act 20 of 2014 wef 07/05/2016]
+
+“nuclear trafficking offence” means —
+
+(a) an offence under section 26DD;
+
+(b) an abetment of or an attempt or conspiracy to commit an offence under section 26DD; or
+
+(c) an act by a person which would make him liable for an offence under section 26DD or an attempt to commit such an offence by virtue of section 34, 35 or 37 of the Penal Code;
+
+[Act 20 of 2014 wef 07/05/2016]
 
 “owner”, in relation to any premises, includes —
 
@@ -699,15 +717,31 @@ MATERIAL CONVENTION
 
 [Act 20 of 2014 wef 21/10/2014]
 
-### Nuclear material
+### Interpretation and application of this Part
 
-26A\.—(1) In this Part, “nuclear material” means —
+26A\.—(1) In this Part —
 
-(a) plutonium except plutonium with an isotopic concentration of plutonium-238 exceeding 80%;
+“armed conflict” does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;
 
-(b) uranium-233;
+“environment” includes land, air and water and living organisms supported by any of those media;
 
-(c) uranium containing uranium-233 or uranium-235 or both in such an amount that the abundance ratio of the sum of those isotopes to uranium-238 is greater than the ratio of uranium-235 to uranium-238 occurring in nature;
+“military forces of a State” means —
+
+(a) the armed forces of a State which are organised, trained and equipped under its internal law for the primary purpose of national defence or security;
+
+(b) civilians who direct or organise the official activities of those armed forces; or
+
+(c) civilians acting in support of the official activities of those armed forces, if the civilians are under the formal command, control and responsibility of those forces;
+
+“nuclear facility” means a facility (including associated buildings and equipment) used for peaceful purposes in which nuclear material is produced, processed, used, handled, stored or disposed of, if damage to or interference with such facility could lead to the release of significant amounts of radiation or radioactive material;
+
+“nuclear material” means —
+
+(a) plutonium except plutonium with an isotopic concentration of plutonium‑238 exceeding 80%;
+
+(b) uranium‑233;
+
+(c) uranium containing uranium‑233 or uranium‑235 or both in such an amount that the abundance ratio of the sum of those isotopes to uranium‑238 is greater than the ratio of uranium‑235 to uranium‑238 occurring in nature;
 
 (d) uranium with an isotopic concentration equal to that occurring in nature; or
 
@@ -715,9 +749,21 @@ MATERIAL CONVENTION
 
 that is used for peaceful purposes, but does not include uranium in the form of ore or ore-residue.
 
-(2) If in any proceedings a question arises whether any nuclear material was used for peaceful purposes, a certificate issued by the Minister and stating that it was, or was not, so used at a time specified in the certificate, shall be prima facie evidence of that matter.
+(2) For the purposes of subsection (1) —
 
-[Act 20 of 2014 wef 21/10/2014]
+(a) material is not used for peaceful purposes if it is used or retained for military purposes; and
+
+(b) a facility is not used for peaceful purposes if it contains any nuclear material which is used or retained for military purposes.
+
+(3) If in any proceedings a question arises whether any material or facility was used for peaceful purposes, a certificate issued by the Minister and stating that it was, or was not, so used at a time specified in the certificate, shall be prima facie evidence of that matter.
+
+(4) This Part does not apply to —
+
+(a) the activities of armed forces during an armed conflict, as those terms are understood under international humanitarian law, which are governed by that law; or
+
+(b) activities undertaken by military forces of a State in the exercise of their official duties, to the extent that those activities are governed by other rules of international law.
+
+[Act 20 of 2014 wef 07/05/2016]
 
 ### Use, etc., of nuclear material
 
@@ -765,6 +811,74 @@ in order to compel a person, an international organisation, the Government or th
 
 [Act 20 of 2014 wef 21/10/2014]
 
+### Use, etc., of nuclear material to cause damage to environment
+
+26DA\. Any person who, without lawful authority, receives, possesses, uses, transfers, alters, disposes of, or disperses nuclear material, where the act causes or is likely to cause substantial damage to the environment, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to life imprisonment.
+
+[Act 20 of 2014 wef 07/05/2016]
+
+### Acts against nuclear facilities
+
+26DB\.—(1) Any person who —
+
+(a) commits an act that is directed against a nuclear facility, or that interferes with the operation of a nuclear facility; and
+
+(b) does so intending that the act will cause, or knowing that the act is likely to cause —
+
+(i) death or serious injury to any person; or
+
+(ii) substantial damage to property or to the environment,
+
+by exposure to radiation or release of radioactive substances,
+
+shall be guilty of an offence.
+
+(2) Any person who is guilty of an offence under subsection (1) shall, on conviction —
+
+(a) except in the cases referred to in paragraphs (b) and (c), be liable to imprisonment for a term which may extend to life imprisonment;
+
+(b) if the person had intended to cause serious injury to any person knowing that the injury is likely to cause his death, and death is caused, be subject to the same punishment as an act under section 300(b) of the Penal Code (Cap. 224); or
+
+(c) if the person had intended to cause death to any person and death is caused, be subject to the same punishment as an act under section 300(a) of the Penal Code.
+
+[Act 20 of 2014 wef 07/05/2016]
+
+### Threats to commit offence under section 26DA or 26DB
+
+26DC\. Any person who threatens to —
+
+(a) use nuclear material to cause substantial damage to the environment; or
+
+(b) commit an offence under section 26DB,
+
+shall be guilty of an offence and shall be liable on conviction to imprisonment for a term which may extend to 10 years.
+
+[Act 20 of 2014 wef 07/05/2016]
+
+### Export or import of nuclear material: extended jurisdiction
+
+26DD\.—(1) Any person who, outside Singapore —
+
+(a) unlawfully exports nuclear material from one country to another; or
+
+(b) unlawfully imports nuclear material into one country from another,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(2) A person guilty of an offence under this section may be proceeded against, charged, tried and punished as if the offence is committed in Singapore.
+
+(3) In subsection (1) —
+
+(a) an export of nuclear material from a country; or
+
+(b) an import of nuclear material into a country,
+
+is unlawful if it is contrary to any prohibition or restriction on the export or import (as the case may be) of nuclear material having effect under or by virtue of the law of that country.
+
+(4) A statement in a certificate issued by or on behalf of the government of a country outside Singapore to the effect that a particular export or import of nuclear material is contrary to such a prohibition or restriction having effect under or by virtue of the law of that country, shall be prima facie evidence that the export or import is unlawful for the purposes of subsection (3).
+
+[Act 20 of 2014 wef 07/05/2016]
+
 ### Information relating to offence
 
 26E\.—(1) Any person in Singapore who has information which he knows or believes may be of material assistance —
@@ -777,7 +891,9 @@ and who fails to disclose the information immediately to a police officer shall 
 
 (2) This section applies to the following offences:
 
-(a) an offence under section 26B;
+(a) an offence under section 26B, 26DA or 26DB;
+
+[Act 20 of 2014 wef 07/05/2016]
 
 (b) an offence specified in the Second Schedule committed in relation to any nuclear material.
 
@@ -803,7 +919,13 @@ and who fails to disclose the information immediately to a police officer shall 
 
 “criminal matter” has the meaning given to that expression in section 2(1) of the Mutual Assistance in Criminal Matters Act;
 
-“relevant offence”, in relation to a foreign country, means an offence against the law of that country that consists of or includes conduct which, if it had occurred in Singapore, would have constituted a nuclear offence.
+“relevant offence”, in relation to a Convention country, means —
+
+(a) an offence against the law of that country that consists of or includes conduct which, if it had occurred in Singapore, would have constituted a nuclear offence; or
+
+(b) an offence against the law of that country that consists of or includes conduct which would constitute a nuclear trafficking offence.
+
+[Act 20 of 2014 wef 07/05/2016]
 
 [Act 20 of 2014 wef 21/10/2014]
 
@@ -839,11 +961,29 @@ a notification in theGazetteunder section 4 of the Extradition Act may be made a
 
 “declared Commonwealth country” has the meaning given to that expression in the Extradition Act;
 
-“relevant offence”, in relation to a Convention country, means an offence against the law of that country where the act or omission constituting the offence or the equivalent act or omission —
+“relevant offence” —
 
-(a) would constitute a nuclear offence; or
+(a) in relation to a Convention country that is a Party to the amendments adopted in Vienna on 8th July 2005 to the Nuclear Material Convention, means —
 
-(b) would be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
+(i) an offence against the law of that country where the act or omission constituting the offence or the equivalent act or omission would, if it took place in Singapore —
+
+(A) constitute a nuclear offence; or
+
+(B) be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence; or
+
+(ii) an offence against the law of that country where the act or omission constituting the offence or the equivalent act or omission would —
+
+(A) constitute a nuclear trafficking offence; or
+
+(B) be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence; or
+
+(b) in relation to any other Convention country, means an offence against the law of that country where the act or omission constituting the offence or the equivalent act or omission would, if it took place in Singapore —
+
+(i) constitute a nuclear offence, other than an offence under section 26DA, 26DB or 26DC or any offence referred to in paragraph (c), (d) or (e) of the definition of “nuclear offence” in section 2(1) as it relates to any of those sections; or
+
+(ii) be such an offence if the description concerned contained a reference to any intent or state of mind on the part of the person committing the offence, or to any circumstance of aggravation, necessary to constitute the offence.
+
+[Act 20 of 2014 wef 07/05/2016]
 
 [Act 20 of 2014 wef 21/10/2014]
 
@@ -1405,6 +1545,10 @@ The Radiation Protection Act 2007 repealed and re-enacted with amendments to the
 ||Date of First Reading|26 May 2014 (Bill No. 14/2014 published on 26 May 2014)|
 ||Date of Second and Third Readings|7 July 2014|
 ||Date of commencement|21 October 2014 (except sections 3(2) and 9(2) to (5))|
+|8.|**Act 20 of 2014—Radiation Protection (Amendment) Act 2014**|
+||Date of First Reading|26 May 2014 (Bill No. 14/2014 published on 26 May 2014)|
+||Date of Second and Third Readings|7 July 2014|
+||Date of commencement|7 May 2016 (Sections 3(2) and 9(2) to (5))|
 ## COMPARATIVE TABLE
 
 Radiation Protection Act
