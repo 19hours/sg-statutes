@@ -1448,7 +1448,9 @@ being services performed substantially in Singapore.
 
 (i) for use as stores or fuel on an aircraft; or
 
-(ii) for sale by retail as merchandise to persons carried on an aircraft,
+(ii) for use as merchandise for sale by retail to persons carried on an aircraft,
+
+[Act 1 of 2016 wef 09/05/2016]
 
 and in either case, if such other conditions or restrictions, if any, as may be prescribed by the Minister in regulations or as the Comptroller may impose are fulfilled.
 
@@ -1462,7 +1464,9 @@ and in either case, if such other conditions or restrictions, if any, as may be 
 
 (c) for use in the maintenance or operation of a ship; or
 
-(d) for sale by retail as merchandise to persons carried on a ship,
+(d) for use as merchandise for sale by retail to persons carried on a ship,
+
+[Act 1 of 2016 wef 09/05/2016]
 
 and, in any of those cases, if such other conditions or restrictions, if any, as may be prescribed by the Minister in regulations or as the Comptroller may impose are fulfilled.
 
@@ -5937,6 +5941,10 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 January 2015|
 |56.|**G. N. No. S 852/2014—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2014**|
 ||Date of commencement|1 January 2015|
+|57.|**Act 1 of 2016—Goods and Services Tax (Amendment) Act 2016**|
+||Date of First Reading|25 January 2016 (Bill No. 2/2016 published on 25 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|9 May 2016|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
