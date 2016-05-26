@@ -7645,6 +7645,12 @@ Financial Advisers Act (Cap. 110).
 
 Fisheries Act (Cap. 111).
 
+17A. 
+
+Foreign Employee Dormitories Act 2015 (Act 3 of 2015).
+
+[S 233/2016 wef 26/05/2016]
+
 18. 
 
 Gas Act (Cap. 116A).
@@ -8522,6 +8528,8 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|26 January 2016 (Bill No. 4/2016 published on 26 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 May 2016|
+|202.|**G.N. No. S 233/2016—Central Provident Fund Act (Amendment of Third Schedule) Notification 2016**|
+||Date of commencement|26 May 2016|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
