@@ -1242,6 +1242,12 @@ Official Secrets Act [Cap. 213]
 
 The whole.
 
+Organised Crime Act 2015 [Act 26 of 2015]
+
+...
+
+Sections 5(1), 6(1), (2) and (4), 7(1) and (2), 8(1) and (2), 9(1) and (2), 10(1) and (2), 11(3), 12(1) and (2), 26(3) and (5), 39(5), 44(1), 73(12) and 74(2).
+
 Preservation of the Peace Act [Cap. 240]
 
 ...
@@ -1355,6 +1361,8 @@ Women’s Charter [Cap. 353]
 ...
 
 Sections 35 to 40 and the whole of Part X.
+
+[S 261/2016 wef 01/06/2016]
 
 [S 667/2012 wef 01/01/2013]
 
@@ -1942,3 +1950,5 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|1 June 2015|
+|38.|**G.N. No. S 261/2016—Registration of Criminals Act (Amendment of First Schedule) Order 2016**|
+||Date of commencement|1 June 2016|
