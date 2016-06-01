@@ -2736,7 +2736,7 @@ MB BS, BMed MD
 
 Faculty of Health Sciences, The University of Queensland Medical School
 
-MB BS
+MB BS, Doctor of Medicine AQF Level 9 Masters (Extended)
 
 8.
 
@@ -2760,7 +2760,7 @@ MB BS, MD
 
 Australian National University Medical School
 
-MB BS
+MB BS, MChD
 
 Austria
 
@@ -3744,6 +3744,8 @@ Warren Alpert Medical School of Brown University — formerly known as Brown Med
 
 Doctor of Medicine
 
+[S 252/2016 wef 01/06/2016]
+
 [1/2010; S 525/2007; S 183/2009; S 521/2009; S 455/2012; S 404/2014]
 
 ## LEGISLATIVE HISTORY
@@ -3817,6 +3819,8 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of commencement|2 June 2014|
 |20.|**2014 Revised Edition—Medical Registration Act (Chapter 174)**|
 ||Date of operation|31 December 2014|
+|21.|**G.N. No. S 252/2016—Medical Registration Act (Amendment of Second Schedule) Order 2016**|
+||Date of commencement|1 June 2016|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
