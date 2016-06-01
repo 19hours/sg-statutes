@@ -2826,43 +2826,66 @@ THIRD SCHEDULE
 
 Section 78(1)
 
-Contributions to Mosque Building and Mendaki Fund
+Contributions to Mosque Building
+
+
+
+
+and Mendaki Fund
 
 Total amount of employee’s wages for the calendar month
 
 Amount of contributions payable for the calendar month
 
-(1)
+1.
 
-Less than $1,001
+Not more than $1,000
 
-$2
+$3
 
-(2)
+2.
 
-$1,001 or more but less than $2,001
+More than $1,000 but not more than $2,000
 
-$3.50
+$4.50
 
-(3)
+3.
 
-$2,001 or more but less than $3,001
+More than $2,000 but not more than $3,000
 
-$5
+$6.50
 
-(4)
+4.
 
-$3,001 or more but less than $4,001
+More than $3,000 but not more than $4,000
 
-$12.50
+$15
 
-(5)
+5.
 
-$4,001 or more
+More than $4,000 but not more than $6,000
 
-$16.
+$19.50
 
-[S 2/2009]
+6.
+
+More than $6,000 but not more than $8,000
+
+$22
+
+7.
+
+More than $8,000 but not more than $10,000
+
+$24
+
+8.
+
+More than $10,000
+
+$26
+
+[S 144/2016 wef 01/06/2016]
 
 ## LEGISLATIVE HISTORY
 
@@ -2988,6 +3011,8 @@ This Legislative History is provided for the convenience of users of the Adminis
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 January 2015|
+|25.|**G.N. No. S 144/2016—Administration of Muslim Law Act (Variation of Schedule) Notification 2016**|
+||Date of commencement|1 June 2016|
 ## COMPARATIVE TABLE
 
 Administration of Muslim Law Act
