@@ -5302,6 +5302,10 @@ Magistrate”.
 
 (c) an offence under sections 354 to 358 and sections 375 to 377B of the Penal Code;
 
+(ca) an offence punishable under the Organised Crime Act 2015;
+
+[Act 26 of 2015 wef 01/06/2016]
+
 (d) an offence under Part XI of the Women’s Charter (Cap. 353) (relating to offences against women and girls); and
 
 (e) any other offence that the Minister may, after consulting the Chief Justice, prescribe.
@@ -17329,3 +17333,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|1 June 2015|
+|20.|**Act 26 of 2015—Organised Crime Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 21/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|17 August 2015|
+||Date of commencement|1 June 2016|
