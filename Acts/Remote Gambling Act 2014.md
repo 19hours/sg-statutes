@@ -92,6 +92,8 @@
 
 - [36 Composition of offences](#Composition-of-offences)
 
+- [36A Jurisdiction of courts](#Jurisdiction-of-courts)
+
 - [37 Money deemed received, etc.](#Money-deemed-received-etc)
 
 - [38 Service of documents](#Service-of-documents)
@@ -1243,6 +1245,12 @@ the officer or member as well as the unincorporated association shall be guilty 
 (2) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
 
 (3) All sums collected under this section are to be paid into the Consolidated Fund.
+
+### Jurisdiction of courts
+
+36A\. Despite any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court has jurisdiction to try any offence under this Act and has power to impose the full penalty or punishment in respect of the offence.
+
+[Act 16 of 2016 wef 08/06/2016]
 
 ### Money deemed received, etc.
 
