@@ -240,13 +240,23 @@ PRELIMINARY
 
 [19/2007 wef 07/05/2007]
 
-(b) the management corporation for a strata title plan shall be deemed the person entitled to act for, and the person authorised to receive service within Singapore on behalf of, every subsidiary proprietor of every lot comprised in the strata title plan with reference only to any non‑lot acquisition relating to that strata title plan; and
+(b) the management corporation for a strata title plan shall be deemed the person entitled to act for, and the person authorised to receive service within Singapore on behalf of, every subsidiary proprietor of every lot comprised in the strata title plan with reference only to any non‑lot acquisition relating to that strata title plan;
 
 [Act 26 of 2014 wef 29/09/2014]
 
-(c) the guardians of minors and deputies appointed or deemed to be appointed by the High Court for persons who lack capacity (incapacitated persons) under the Mental Capacity Act 2008 with power in relation to the incapacitated persons for the purposes of this Act, shall be deemed respectively the persons so entitled to act, to the same extent as the minors or incapacitated persons themselves could have acted if free from disability:
+[Act 16 of 2016 wef 10/06/2016]
 
-[21/2008 wef 01/03/2010]
+(c) the guardian of a minor is deemed the person entitled to act, to the same extent as the minor could have acted if free from disability;
+
+[Act 16 of 2016 wef 10/06/2016]
+
+(d) where an individual lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A), each of the following persons is deemed a person entitled to act, to the same extent as that individual could have acted if free from disability:
+
+(A) a donee of a lasting power of attorney which is granted by that individual under the Mental Capacity Act, and under which that individual confers on the donee authority to make decisions in relation to that individual for the purposes of this Act;
+
+(B) a deputy who is appointed or deemed to be appointed for that individual by the court under the Mental Capacity Act, and who is conferred power to make decisions in relation to that individual for the purposes of this Act:
+
+[Act 16 of 2016 wef 10/06/2016]
 
 Provided that —
 
@@ -1548,3 +1558,7 @@ This Legislative History is provided for the convenience of users of the Land Ac
 ||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
+|22.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
