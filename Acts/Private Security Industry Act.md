@@ -68,6 +68,8 @@
 
 - [26 Appeal to Minister](#Appeal-to-Minister)
 
+- [26A Minister may designate others to hear appeals](#Minister-may-designate-others-to-hear-appeals)
+
 [**Part VI INSPECTIONS AND POWERS OF ENFORCEMENT**](#Part-VI)
 
 - [27 Power to search premises](#Power-to-search-premises)
@@ -848,6 +850,26 @@ has been refused by the licensing officer may, within 14 days after being notifi
 
 (5) Where the licensee concerned has appealed under this section to the Minister against an order by the licensing officer under section 24(1), (2) or (7)(a) or (b), the order shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or withdrawn.
 
+### Minister may designate others to hear appeals
+
+26A\.—(1) The Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal or a specific appeal under section 26:
+
+(a) the Second Minister, if any, for his Ministry;
+
+(b) any Minister of State for his Ministry;
+
+(c) any Parliamentary Secretary to his Ministry.
+
+(2) Any reference to the Minister in section 24(5)(a) or 26 includes a reference to a person designated under subsection (1).
+
+(3) To avoid doubt, in this section —
+
+“Minister of State” includes a Senior Minister of State;
+
+“Parliamentary Secretary” includes a Senior Parliamentary Secretary.
+
+[Act 16 of 2016 wef 10/06/2016]
+
 ## PART VI
 
 INSPECTIONS AND POWERS OF ENFORCEMENT
@@ -1245,3 +1267,7 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|6.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
