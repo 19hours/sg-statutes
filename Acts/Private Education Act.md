@@ -1772,7 +1772,9 @@ Definition of private education
 
 “full-time”, in relation to the provision of education, means the provision of education of a duration of at least one month and that is conducted for 5 days of a week for at least 3 hours each day;
 
-“post-secondary education” means education normally for a child who is 16 years of age or above;
+“post-secondary education” means education normally for a person who is 16 years of age or above;
+
+[Act 16 of 2016 wef 10/06/2016]
 
 “primary or secondary education” means education normally for a child who is above the age of 6 years and below the age of 18 years.
 
@@ -2025,6 +2027,10 @@ This Legislative History is provided for the convenience of users of the Private
 ||Date of First Reading|20 January 2014 (Bill No. 7/2014 published on 20 January 2014)|
 ||Date of Second and Third Readings|17 February 2014|
 ||Date of commencement|28 March 2014|
+|7.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Private Education Act
