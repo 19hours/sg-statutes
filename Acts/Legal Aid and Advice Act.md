@@ -62,7 +62,7 @@
 
 - [24 Amendment of Second Schedule](#Amendment-of-Second-Schedule)
 
-- [25 Savings](#Savings)
+- [25 (Repealed)](#Repealed)
 
 [**FIRST SCHEDULE Civil proceedings for which legal aid may be given**](#FIRST-SCHEDULE-Civil-proceedings-for-which-legal-aid-may-be-given)
 
@@ -200,9 +200,7 @@ LEGAL AID IN CIVIL ACTIONS
 
 [6/2013]
 
-(1A) Every application made under subsection (1) shall be accompanied by such fee (which shall be inclusive of goods and services tax) as may be prescribed.
-
-[6/2013]
+(1A) [Deleted by Act 16 of 2016 wef 10/06/2016]
 
 (2) Where the person who desires to be granted legal aid is a minor, the application shall be made on behalf of the minor by his guardian.
 
@@ -546,13 +544,9 @@ LEGAL ADVICE
 
 (3) Provision may be made by regulations made under this Act for further defining or restricting the questions on which legal advice may be given and for regulating all matters relating to fees, charges and costs in relation to the giving of legal advice.
 
-(4) A person seeking legal advice shall apply to the Director and shall be required —
+(4) A person seeking legal advice must apply to the Director, and must satisfy the Director that the person cannot afford to obtain the legal advice in the ordinary way.
 
-(a) to satisfy the Director that he cannot afford to obtain it in the ordinary way; and
-
-(b) to pay to the Director a prescribed fee (which shall be inclusive of goods and services tax).
-
-[6/2013]
+[Act 16 of 2016 wef 10/06/2016]
 
 (5) Where a person who desires to be given legal advice is a minor, the application shall be made on behalf of the minor by his guardian.
 
@@ -606,6 +600,10 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 (b) remit or provide for the remission of any fees or charges in any such proceedings;
 
+(ba) prescribe fees for applications under this Act, and provide for the remission of any such fees;
+
+[Act 16 of 2016 wef 10/06/2016]
+
 (c) make provision as to the cases in which a person may be refused legal aid or advice by reason of his conduct when seeking or receiving legal aid or advice (whether in the same or related matter or in a different matter);
 
 (ca) make provision as to the circumstances a Grant of Aid issued to a person may be cancelled;
@@ -642,11 +640,7 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 24\. The Minister may, by notification in theGazette, amend the Second Schedule.
 
-### Savings
-
-25\.—(1) All legal aid certificates granted, all orders and applications made, notices given and acts and things done under the repealed Legal Aid and Advice Act (Cap. 160, 1985 Ed.) before 1st October 1995 shall have the same force and effect as if granted, made, given or done under this Act.
-
-(2) A person who immediately before 1st October 1995 held office as the Director of Legal Aid, a Deputy Director of Legal Aid or an Assistant Director of Legal Aid shall continue to hold office as if he had been appointed under section 3 of this Act.
+25\. [Repealed by Act 16 of 2016 wef 10/06/2016]
 
 FIRST SCHEDULE
 
@@ -905,6 +899,10 @@ The Legal Aid and Advice Act 1995 repealed the Legal Aid and Advice Act (Chapter
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|21.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Legal Aid and Advice Act
