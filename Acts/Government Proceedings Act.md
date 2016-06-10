@@ -464,7 +464,9 @@ Provided that —
 
 (3) Such costs shall be in accordance with any scale of fees prescribed from time to time to be chargeable by advocates and solicitors and may be taxed in accordance with any written law for the time being in force for the taxation of the fees and costs of such advocates and solicitors.
 
-(4) In any such civil proceedings as are referred to in subsection (2) in which two legal officers appear as advocates and the court certifies for two counsel, costs shall be payable in respect of the services of both such legal officers.
+(4) In any civil proceedings mentioned in subsection (2), costs are payable in respect of the services of more than 2 legal officers if the court so certifies.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (5) Costs awarded in accordance with this section to a party for whom any of the legal officers referred to in subsection (2) appears as advocate shall, when recovered, be paid into the Consolidated Fund.
 
@@ -646,3 +648,7 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|1 January 2015|
+|11.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
