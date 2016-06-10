@@ -228,9 +228,13 @@ An Act relating to settled estates.
 
 (b) the Official Assignee on behalf of bankrupts; and
 
-(c) deputies appointed or deemed to be appointed by the High Court for persons who lack capacity under the Mental Capacity Act (Cap. 177A) with power in relation to such persons for the purposes of this Act, on behalf of such persons.
+(c) either of the following persons, on behalf of an individual who lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A):
 
-[21/2008; 7/2009]
+(i) a donee of a lasting power of attorney which is granted by that individual under the Mental Capacity Act, and under which that individual confers on the donee authority to make decisions in relation to that individual for the purposes of this Act;
+
+(ii) a deputy who is appointed or deemed to be appointed for that individual by the court under the Mental Capacity Act, and who is conferred power to make decisions in relation to that individual for the purposes of this Act.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Married woman to be examined apart
 
@@ -365,3 +369,7 @@ This Legislative History is provided for the convenience of users of the Settled
 ||Date of commencement|1 March 2010 (except paragraph (i) of item 1(8)(a), item 1(8)(b) and item 1(41) of the Second Schedule)|
 |8.|**2013 Revised Edition—Settled Estates Act (Chapter 293)**|
 ||Date of operation|31 August 2013|
+|9.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
