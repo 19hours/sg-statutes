@@ -430,7 +430,9 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (a) a Chairman; and
 
-(b) not less than 2 nor more than 11 other members as the Minister may from time to time determine.
+(b) not less than 2 nor more than 13 other members as the Minister may from time to time determine.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (2) The First Schedule shall have effect with respect to the Authority, its members and proceedings.
 
@@ -2048,3 +2050,7 @@ This Legislative History is provided for the convenience of users of the Maritim
 ||Date of First Reading|8 March 2012 (Bill No. 8/2012 published on 8 March 2012)|
 ||Date of Second and Third Readings|9 April 2012|
 ||Date of commencement|1 July 2012|
+|7.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
