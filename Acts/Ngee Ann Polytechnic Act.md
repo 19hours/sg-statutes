@@ -44,6 +44,8 @@
 
 - [19 Principal to be chief administrative officer of Polytechnic](#Principal-to-be-chief-administrative-officer-of-Polytechnic)
 
+- [19A Public servants](#Public-servants)
+
 - [20 Income and property of Polytechnic](#Income-and-property-of-Polytechnic)
 
 - [20A Issue of shares, etc.](#Issue-of-shares-etc)
@@ -358,6 +360,12 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 [16
 
+### Public servants
+
+19A\. All members of the Council, and all officers, members of the academic and administrative staff and other employees of the Polytechnic, are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 16 of 2016 wef 10/06/2016]
+
 ### Income and property of Polytechnic
 
 20\.—(1) The income and property of the Polytechnic shall include —
@@ -561,3 +569,7 @@ This Legislative History is provided for the convenience of users of the Ngee An
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004 (Item (36) of the Schedule — Amendment of Ngee Ann Polytechnic Act)|
+|11.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
