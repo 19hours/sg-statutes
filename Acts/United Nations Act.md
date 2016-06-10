@@ -48,7 +48,9 @@ An Act to enable Singapore to fulfil its obligations respecting Article 41 of th
 
 (b) empowering any person or class of persons to exercise, when investigating any offence under this Act or any regulations made thereunder, all or any of the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to seizable offences.
 
-(2) The measures to be applied under subsection (1) shall not apply to any financial institution or class of financial institutions to the extent that the financial institution or class of financial institutions is or may be subject to the directions of the Monetary Authority of Singapore under section 27A of the Monetary Authority of Singapore Act (Cap. 186).
+(2) The measures to be applied under subsection (1) shall not apply to any financial institution or class of financial institutions to the extent that the financial institution or class of financial institutions is or may be subject to the directions issued or regulations made by the Monetary Authority of Singapore under section 27A of the Monetary Authority of Singapore Act (Cap. 186).
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (3) No regulation made under this Act shall be deemed to be invalid because it deals with any matter provided for by any written law, or because of repugnancy to or inconsistency with any written law other than the Constitution.
 
@@ -123,3 +125,7 @@ This Legislative History is provided for the convenience of users of the United 
 ||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
+|5.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
