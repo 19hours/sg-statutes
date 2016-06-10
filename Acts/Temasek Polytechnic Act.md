@@ -22,6 +22,8 @@
 
 - [8 Officers and academic staff, their appointments, powers, duties and emoluments](#Officers-and-academic-staff-their-appointments-powers-duties-and-emoluments)
 
+- [8A Public servants](#Public-servants)
+
 - [9 Polytechnic Constitution](#Polytechnic-Constitution)
 
 - [10 Examinations](#Examinations)
@@ -165,6 +167,12 @@ An Act for the establishment and incorporation of a polytechnic to be known as T
 (3) The academic staff of the Polytechnic shall be the heads of the Schools, lecturers and such other persons as may be designated as members of the academic staff by the Polytechnic Constitution and they shall be appointed by the Board on the recommendation of the Principal.
 
 (4) The powers and duties of the officers and members of the academic staff, the periods and conditions for and upon which they hold office and their emoluments shall be such as are prescribed by this Act, the Polytechnic Constitution and the terms of their respective appointments; but the Board may assign to any officer, and in the case of any member of the academic staff on the recommendation of the Principal, such further powers and duties as the Board may think fit.
+
+### Public servants
+
+8A\. All members of the Board, and all officers, members of the academic staff and other employees of the Polytechnic, are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Polytechnic Constitution
 
@@ -628,3 +636,7 @@ This Legislative History is provided for the convenience of users of the Temasek
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|5.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
