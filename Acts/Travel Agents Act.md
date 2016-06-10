@@ -106,9 +106,35 @@ PRELIMINARY
 
 ### Application
 
-3\.—(1) Nothing in this Act shall be construed as requiring any executor, administrator, trustee, liquidator, official receiver, trustee in bankruptcy of a bankrupt estate, trustee under a composition or scheme of arrangement or under a deed of arrangement or under a deed of assignment, or deputy appointed or deemed to be appointed by the High Court for a person who lacks capacity under the Mental Capacity Act 2008 with power in relation to such person for the purposes of this Act, to hold a licence for the purpose of performing his functions, exercising his powers or carrying out his duties as such.
+3\.—(1) Nothing in this Act is to be construed as requiring any of the following persons to hold a licence for the purpose of performing that person’s functions, exercising that person’s powers or carrying out that person’s duties as such person:
 
-[21/2008 wef 01/03/2010]
+(a) any executor or administrator;
+
+(b) any trustee;
+
+(c) any liquidator or official receiver;
+
+(d) any trustee in bankruptcy of a bankrupt estate;
+
+(e) any trustee under —
+
+(i) a composition or scheme of arrangement;
+
+(ii) a deed of arrangement; or
+
+(iii) a deed of assignment;
+
+(f) any donee of a lasting power of attorney —
+
+(i) which is granted under the Mental Capacity Act (Cap. 177A);
+
+(ii) under which the donor confers on the donee authority to make decisions in relation to the donor for the purposes of this Act; and
+
+(iii) the donor of which, after the creation of the lasting power of attorney, lacks capacity within the meaning of the Mental Capacity Act;
+
+(g) any deputy who is appointed or deemed to be appointed for an individual by the court under the Mental Capacity Act, and who is conferred power to make decisions in relation to that individual for the purposes of this Act.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (2) Notwithstanding anything in subsection (1), it shall not be lawful for any of the persons referred to in that subsection in whom is vested the management of the business of any travel agent to carry on that business at any time after the expiration of 3 months from the date on which the management of that business was so vested, unless that person holds a licence.
 
@@ -491,3 +517,7 @@ This Legislative History is provided for the convenience of users of the Travel 
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|7.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
