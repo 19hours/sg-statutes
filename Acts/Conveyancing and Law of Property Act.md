@@ -472,9 +472,19 @@ that the person so conveying has not executed or done, or knowingly suffered, or
 
 (4) A covenant implied as aforesaid may be varied or extended by deed, and, as so varied or extended, shall, as far as may be, operate in the like manner, and with all the like incidents, effects and consequences, as if the variations or extensions were directed in this section to be implied.
 
-(5) A person who is expressed to convey as trustee or mortgagee, or as personal representative of a deceased person, or as deputy appointed or deemed to be appointed by the High Court for a person who lacks capacity under the Mental Capacity Act 2008, or under an order of the court, shall be deemed to be expressed to convey in a fiduciary capacity.
+(5) A person is deemed to be expressed to convey in a fiduciary capacity if the person is expressed to convey —
 
-[21/2008 wef 01/03/2010]
+(a) as a trustee or mortgagee;
+
+(b) as a personal representative of a deceased person;
+
+(c) as a donee of a lasting power of attorney granted under the Mental Capacity Act (Cap. 177A);
+
+(d) as a deputy appointed or deemed to be appointed by the court under the Mental Capacity Act; or
+
+(e) under an order of court.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (6) This section shall apply only to conveyances made on or after 1st August 1886.
 
@@ -1166,9 +1176,11 @@ POWERS OF ATTORNEY
 
 (2) This section shall not affect any right against the payee of any person interested in the money so paid; and that person shall have the like remedy against the payee as he would have had against the payer if the payment had not been made by him.
 
-(3) In this section, “power of attorney” does not include a lasting power of attorney registered under the Mental Capacity Act 2008.
+(3) In this section, “power of attorney” does not include a lasting power of attorney registered under the Mental Capacity Act (Cap. 177A).
 
 [22/2008 wef 01/03/2010]
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Statutory declaration by attorney
 
@@ -1178,9 +1190,11 @@ POWERS OF ATTORNEY
 
 (3) Where probate or letters of administration have been granted to any person, as attorney for some other person, this section shall apply as if the payment made or acts done under the grant had been made or done under a power of attorney.
 
-(4) In this section, “power of attorney” does not include a lasting power of attorney registered under the Mental Capacity Act 2008.
+(4) In this section, “power of attorney” does not include a lasting power of attorney registered under the Mental Capacity Act (Cap. 177A).
 
 [22/2008 wef 01/03/2010]
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Deposit of power of attorney
 
@@ -1210,9 +1224,11 @@ POWERS OF ATTORNEY
 
 (10) Any reference in subsections (2), (3), (4), (5), (6), (8) and (9) to an instrument shall be deemed to include a reference to a true or office copy of the instrument deposited in accordance with subsection (1).
 
-(11) Any reference in section 8 or any written law to a power of attorney deposited, filed or registered under or in the manner provided by this section includes a reference to a lasting power of attorney registered under the Mental Capacity Act 2008.
+(11) Any reference in section 8 or any written law to a power of attorney deposited, filed or registered under or in the manner provided by this section includes a reference to a lasting power of attorney registered under the Mental Capacity Act (Cap. 177A).
 
 [22/2008 wef 01/03/2010]
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ## PART XI
 
@@ -1904,3 +1920,7 @@ This Legislative History is provided for the convenience of users of the Conveya
 ||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
+|36.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
