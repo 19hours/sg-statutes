@@ -224,7 +224,7 @@
 
 - [85 Presumption as to maps or plans made by authority of Government](#Presumption-as-to-maps-or-plans-made-by-authority-of-Government)
 
-- [86 Presumption as to collections of laws and reports of decisions](#Presumption-as-to-collections-of-laws-and-reports-of-decisions)
+- [86 Presumption as to publication containing law or report of court decision](#Presumption-as-to-publication-containing-law-or-report-of-court-decision)
 
 - [87 Presumption as to powers of attorney](#Presumption-as-to-powers-of-attorney)
 
@@ -484,6 +484,10 @@ and any reference to a copy of the material part of a document must be construed
 
 [Act 4 of 2012 wef 01/08/2012]
 
+“country” includes a territory;
+
+[Act 16 of 2016 wef 10/06/2016]
+
 “court” includes all Judges and Magistrates and, except arbitrators, all persons legally authorised to take evidence;
 
 “document” includes, in addition to a document in writing —
@@ -520,25 +524,15 @@ and any reference to a copy of the material part of a document must be construed
 
 Illustrations
 
-(a)
+(a) That there are certain objects arranged in a certain order in a certain place is a fact.
 
-That there are certain objects arranged in a certain order in a certain place is a fact.
+(b) That a man heard or saw something is a fact.
 
-(b)
+(c) That a man said certain words is a fact.
 
-That a man heard or saw something is a fact.
+(d) That a man holds a certain opinion, has a certain intention, acts in good faith or fraudulently, or uses a particular word in a particular sense, or is or was at a specified time conscious of a particular sensation, is a fact.
 
-(c)
-
-That a man said certain words is a fact.
-
-(d)
-
-That a man holds a certain opinion, has a certain intention, acts in good faith or fraudulently, or uses a particular word in a particular sense, or is or was at a specified time conscious of a particular sensation, is a fact.
-
-(e)
-
-That a man has a certain reputation is a fact.
+(e) That a man has a certain reputation is a fact.
 
 “fact in issue” includes any fact from which either by itself or in connection with other facts the existence, non-existence, nature or extent of any right, liability or disability asserted or denied in any suit or proceeding necessarily follows.
 
@@ -548,13 +542,13 @@ Ais accused of the murder ofB.
 
 At his trial the following facts may be in issue:
 
-thatAcausedB’sdeath;
+thatAcausedB’s death;
 
-thatAintended to causeB’sdeath;
+thatAintended to causeB’s death;
 
 thatAhad received grave and sudden provocation fromB;
 
-thatAat the time of doing the act which causedB’sdeath was by reason of unsoundness of mind incapable of knowing its nature.
+thatAat the time of doing the act which causedB’s death was by reason of unsoundness of mind incapable of knowing its nature.
 
 ### “Relevant”
 
@@ -612,9 +606,7 @@ Explanation.—This section shall not enable any person to give evidence of a fa
 
 Illustrations
 
-(a)
-
-A is tried for the murder of B by beating him with a club with the intention of causing his death.
+(a) A is tried for the murder of B by beating him with a club with the intention of causing his death.
 
 AtA’strial the following facts are in issue:
 
@@ -624,9 +616,7 @@ A’scausingB’sdeath by such beating;
 
 A’sintention to causeB’sdeath.
 
-(b)
-
-A, a party to a suit, does not comply with a notice given byB, the other party, to produce forB’sinspection a document referred to inA’spleadings. This section does not enableAto put such document in evidence on his behalf in such suit, otherwise than in accordance with the conditions prescribed by the Rules of Court or the Family Justice Rules (as the case may be).
+(b)A, a party to a suit, does not comply with a notice given byB, the other party, to produce forB’sinspection a document referred to inA’spleadings. This section does not enableAto put such document in evidence on his behalf in such suit, otherwise than in accordance with the conditions prescribed by the Rules of Court or the Family Justice Rules (as the case may be).
 
 [Act 27 of 2014 wef 01/10/2014]
 
@@ -1620,11 +1610,15 @@ Facts which need not be proved
 
 (a) all laws or rules having the force of law now or heretofore in force or hereafter to be in force in Singapore, including all Acts passed or hereafter to be passed by Parliament;
 
-(b) all Acts passed or hereafter to be passed by the legislature of any territory within the Commonwealth;
+(b) all Acts passed or hereafter to be passed by the legislature of any country within the Commonwealth;
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (c) articles of war for the armed forces of Singapore or any visiting forces lawfully present in Singapore;
 
-(d) the course of proceedings of Parliament and of the legislature of any territory within the Commonwealth;
+(d) the course of proceedings of Parliament and of the legislature of any country within the Commonwealth;
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (e) the election of the President and the appointment of any person to exercise the functions of the President;
 
@@ -1636,7 +1630,9 @@ Facts which need not be proved
 
 (i) the ordinary course of nature, natural and artificial divisions of time, the geographical divisions of the world, the meaning of English words, and public festivals, fasts and holidays notified in theGazette;
 
-(j) the territories in the Commonwealth;
+(j) the countries in the Commonwealth;
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (k) the commencement, continuance and termination of hostilities between Singapore or any other part of the Commonwealth and any other country or body of persons;
 
@@ -2016,9 +2012,13 @@ by a copy of such proceedings certified by the legal keeper thereof, or by a pri
 
 by the original or by a copy certified by the legal keeper thereof, with a certificate under the seal of a notary public or of a consular officer of Singapore that the copy is duly certified by the officer having the legal custody of the original and upon proof of the character of the document according to the law of the foreign country.
 
-(2) Copies of Acts, Ordinances and Statutes passed by the legislature of any territory in the Commonwealth and of orders, regulations and other instruments issued or made under the authority of any such Act, Ordinance or Statute, if purporting to be printed by the Government Printer, shall be received in evidence by all courts in Singapore without any proof being given that the copies were so printed.
+(2) Copies of Acts, Ordinances and Statutes passed by the legislature of any country in the Commonwealth and of orders, regulations and other instruments issued or made under the authority of any such Act, Ordinance or Statute, if purporting to be printed by the Government Printer, shall be received in evidence by all courts in Singapore without any proof being given that the copies were so printed.
 
-(3) In this section, “Government Printer” means, as respects any territory in the Commonwealth, the printer purporting to be the printer authorised to print the Acts, Ordinances or Statutes of the legislature of that territory, or otherwise to be the Government Printer of that territory.
+[Act 16 of 2016 wef 10/06/2016]
+
+(3) In this section, “Government Printer” means, as respects any country in the Commonwealth, the printer purporting to be the printer authorised to print the Acts, Ordinances or Statutes of the legislature of that country, or otherwise to be the Government Printer of that country.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Prints from films in the possession of the Government and statutory body
 
@@ -2098,13 +2098,15 @@ Presumptions as to documents
 
 (2) Maps or plans made for the purposes of any cause or other proceeding, civil or criminal, must be proved to be accurate.
 
-### Presumption as to collections of laws and reports of decisions
+### Presumption as to publication containing law or report of court decision
 
-86\. The court shall presume the genuineness of every book purporting —
+86\. The court is to presume the genuineness of every publication purporting —
 
-(a) to be printed or published under the authority of the government of any country and to contain any of the laws of that country; or
+(a) to be printed or published under the authority of the government of any country and to contain any law of that country; or
 
-(b) to contain reports of decisions of the courts of such country.
+(b) to contain any official or authoritative report of a decision of a court of any country.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Presumption as to powers of attorney
 
@@ -2136,17 +2138,11 @@ This explanation applies also to section 83.
 
 Illustrations
 
-(a)
+(a)Ahas been in possession of landed property for a long time. He produces from his custody deeds relating to the land, showing his titles to it. The custody is proper.
 
-Ahas been in possession of landed property for a long time. He produces from his custody deeds relating to the land, showing his titles to it. The custody is proper.
+(b)Aproduces deeds relating to landed property of which he is the mortgagee. The mortgagor is in possession. The custody is proper.
 
-(b)
-
-Aproduces deeds relating to landed property of which he is the mortgagee. The mortgagor is in possession. The custody is proper.
-
-(c)
-
-A, a connection ofB, produces deeds relating to lands inB’spossession, which were deposited with him byBfor safe custody. The custody is proper.
+(c)A, a connection ofB, produces deeds relating to lands inB’spossession, which were deposited with him byBfor safe custody. The custody is proper.
 
 Exclusion of oral by documentary evidence
 
@@ -2166,29 +2162,17 @@ Explanation3.—The statement in any document whatever of a fact, other than the
 
 Illustrations
 
-(a)
+(a) If a contract is contained in several letters, all the letters in which it is contained must be proved.
 
-If a contract is contained in several letters, all the letters in which it is contained must be proved.
+(b) If a contract is contained in a bill of exchange, the bill of exchange must be proved.
 
-(b)
+(c) If a bill of exchange is drawn in a set of 3, one only need be proved.
 
-If a contract is contained in a bill of exchange, the bill of exchange must be proved.
-
-(c)
-
-If a bill of exchange is drawn in a set of 3, one only need be proved.
-
-(d)
-
-Acontracts in writing withBfor the delivery of pepper upon certain terms.
-
-The contract mentions the fact thatBhad paidAthe price of other pepper contracted for verbally on another occasion.
+(d)Acontracts in writing withBfor the delivery of pepper upon certain terms. The contract mentions the fact thatBhad paidAthe price of other pepper contracted for verbally on another occasion.
 
 Oral evidence is offered that no payment was made for the other pepper. The evidence is admissible.
 
-(e)
-
-AgivesBa receipt for money paid byB.
+(e)AgivesBa receipt for money paid byB.
 
 Oral evidence is offered of the payment. The evidence is admissible.
 
@@ -2210,47 +2194,29 @@ Oral evidence is offered of the payment. The evidence is admissible.
 
 Illustrations
 
-(a)
+(a) A policy of insurance is effected on goods “in ships from Singapore to London”. The goods are shipped in a particular ship, which is lost. The fact that that particular ship was orally excepted from the policy cannot be proved.
 
-A policy of insurance is effected on goods “in ships from Singapore to London”. The goods are shipped in a particular ship, which is lost. The fact that that particular ship was orally excepted from the policy cannot be proved.
+(b)Aagrees absolutely in writing to payB$1,000 on 1st March 1893. The fact that at the same time an oral agreement was made that the money should not be paid till 31st March cannot be proved.
 
-(b)
+(c) An estate called “the Kranji Estate” is sold by a deed which contains a map of the property sold. The fact that land not included in the map had always been regarded as part of the estate and was meant to pass by the deed cannot be proved.
 
-Aagrees absolutely in writing to payB$1,000 on 1st March 1893. The fact that at the same time an oral agreement was made that the money should not be paid till 31st March cannot be proved.
+(d)Aenters into a written contract withBto work certain mines, the property ofB, upon certain terms.Awas induced to do so by a misrepresentation ofBas to their value. This fact may be proved.
 
-(c)
+(e)Ainstitutes a suit againstBfor the specific performance of a contract, and also prays that the contract may be reformed as to one of its provisions on the ground that that provision was inserted in it by mistake.Amay prove that such a mistake was made as would by law entitle him to have the contract reformed.
 
-An estate called “the Kranji Estate” is sold by a deed which contains a map of the property sold. The fact that land not included in the map had always been regarded as part of the estate and was meant to pass by the deed cannot be proved.
+[S 210/2016 wef 06/05/2016]
 
-(d)
+(f)Aorders goods ofBby a letter in which nothing is said as to the time of payment, and accepts the goods on delivery.BsuesAfor the price.Amay show that the goods were supplied on credit for a term still unexpired.
 
-Aenters into a written contract withBto work certain mines, the property ofB, upon certain terms.Awas induced to do so by a misrepresentation ofBas to their value. This fact may be proved.
+(g)AsellsBa horse and verbally warrants him sound.AgivesBa paper in these words: “Bought ofAa horse for $300.”Bmay prove the verbal warranty.
 
-(e)
-
-Ainstitutes a suit againstBfor the specific performance of a contract, and also prays that the contract may be reformed as to one of its provisions on the ground that that provision was inserted in it by mistake.Amay prove that such a mistake was made as would by law entitle him to have the contract reformed.
-
-(f)
-
-Aorders goods ofBby a letter in which nothing is said as to the time of payment, and accepts the goods on delivery.BsuesAfor the price.Amay show that the goods were supplied on credit for a term still unexpired.
-
-(g)
-
-AsellsBa horse and verbally warrants him sound.AgivesBa paper in these words: “Bought ofAa horse for $300.”Bmay prove the verbal warranty.
-
-(h)
-
-Ahires lodgings ofBand givesBa card on which is written: “Rooms $80 a month.”Amay prove a verbal agreement that these terms were to include partial board.
+(h)Ahires lodgings ofBand givesBa card on which is written: “Rooms $80 a month.”Amay prove a verbal agreement that these terms were to include partial board.
 
 Ahires lodgings ofBfor a year, and a regularly stamped agreement drawn up by an attorney is made between them. It is silent on the subject of board.Amay not prove that board was included in the terms verbally.
 
-(i)
+(i)Aapplies toBfor a debt due toAby sending a receipt for the money.Bkeeps the receipt and does not send the money. In a suit for the amountAmay prove this.
 
-Aapplies toBfor a debt due toAby sending a receipt for the money.Bkeeps the receipt and does not send the money. In a suit for the amountAmay prove this.
-
-(j)
-
-AandBmake a contract in writing to take effect upon the happening of a certain contingency. The writing is left withB, who suesAupon it.Amay show the circumstances under which it was delivered.
+(j)AandBmake a contract in writing to take effect upon the happening of a certain contingency. The writing is left withB, who suesAupon it. A may show the circumstances under which it was delivered.
 
 ### Exclusion of evidence to explain or amend ambiguous document
 
@@ -2682,21 +2648,15 @@ Explanation.—The obligation stated in this section continues after the employm
 
 Illustrations
 
-(a)
-
-A, a client, says toB, a solicitor: “I have committed forgery and I wish you to defend me”.
+(a)A, a client, says toB, a solicitor: “I have committed forgery and I wish you to defend me”.
 
 As the defence of a man known to be guilty is not a criminal purpose this communication is protected from disclosure.
 
-(b)
-
-A, a client, says toB, a solicitor: “I wish to obtain possession of property by the use of a forged deed on which I request you to sue”.
+(b)A, a client, says toB, a solicitor: “I wish to obtain possession of property by the use of a forged deed on which I request you to sue”.
 
 This communication being made in furtherance of a criminal purpose is not protected from disclosure.
 
-(c)
-
-A, being charged with embezzlement, retainsB, a solicitor, to defend him. In the course of the proceedingsBobserves that an entry has been made inA’saccount-book, chargingAwith the sum said to have been embezzled, which entry was not in the book at the commencement of his employment.
+(c)A, being charged with embezzlement, retainsB, a solicitor, to defend him. In the course of the proceedingsBobserves that an entry has been made inA’saccount-book, chargingAwith the sum said to have been embezzled, which entry was not in the book at the commencement of his employment.
 
 This being a fact observed byBin the course of his employment, showing that a fraud has been committed since the commencement of the proceedings, it is not protected from disclosure.
 
@@ -2902,7 +2862,7 @@ Illustration
 
 The question is whetherAassaultedB.
 
-Cdeposes that he heardAsay toD: “Bwrote a letter accusing me of theft and I will be revenged on him”. The statement is relevant as showingA’smotive for the assault and evidence may be given of it though no other evidence is given about the letter.
+Cdeposes that he heardAsay toD: “Bwrote a letter accusing me of theft and I will be revenged on him”. The statement is relevant as showing A’s motive for the assault and evidence may be given of it though no other evidence is given about the letter.
 
 ### Cross-examination as to previous statements in writing
 
@@ -3034,13 +2994,11 @@ He may be contradicted on the ground that the question tends to impeach his impa
 
 (d) [Deleted by Act 4 of 2012 wef 01/08/2012]
 
-Explanation.—A witness declaring another witness to be unworthy of credit may not, upon his examination-in-chief, give reasons for his belief, but he may be asked his reasons in cross-examination, and the answers which he gives cannot be contradicted, though, if they are false, he may afterwards be charged with giving false evidence.
+Explanation.—A witness declaring another witness to be unworthy of credit may not, upon his examination-in-chief, give reasons for his belief, but he may be asked his reasons in cross-examination, and the answer which he gives cannot be contradicted, though, if they are false, he may afterwards be charged with giving false evidence.
 
 Illustrations
 
-(a)
-
-AsuesBfor the price of goods sold and delivered toB.
+(a)AsuesBfor the price of goods sold and delivered toB.
 
 Csays that he delivered the goods toB.
 
@@ -3048,9 +3006,7 @@ Evidence is offered to show that on a previous occasion he said that he had not 
 
 The evidence is admissible.
 
-(b)
-
-Ais indicted for the murder ofB.
+(b)Ais indicated for the murder ofB.
 
 Csays thatB, when dying, declared thatAhad givenBthe wound of which he died.
 
@@ -3600,3 +3556,7 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|1 January 2015|
+|44.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
