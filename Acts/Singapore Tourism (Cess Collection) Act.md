@@ -94,6 +94,10 @@ An Act for the collection of cess by the Singapore Tourism Board.
 
 “Fund” means the Tourism Fund established under section 15 of the Singapore Tourism Board Act;
 
+“licensed premises” and “liquor licence” have the same meanings as in section 2(1) of the Liquor Control (Supply and Consumption) Act 2015 (Act 5 of 2015);
+
+[Act 16 of 2016 wef 10/06/2016]
+
 “proprietor”, in relation to —
 
 (a) a tourist hotel, includes any person responsible for the management thereof and also includes any person who holds a licence granted under the Hotels Act (Cap. 127) in respect of that hotel;
@@ -106,15 +110,15 @@ An Act for the collection of cess by the Singapore Tourism Board.
 
 “tourist hotel” means any premises registered as a hotel under the Hotels Act (Cap. 127) which are declared by the Minister, by notification in theGazette, to be a tourist hotel;
 
-“tourist public house” means any premises or part thereof in respect of which —
+“tourist public house” means any licensed premises —
 
-(a) a Public House First Class Licence has been issued under the Customs Act (Cap. 70);
+(a) in respect of which a Class 1A liquor licence has been granted under the Liquor Control (Supply and Consumption) Act 2015;
 
-[16/2008 wef 19/09/2008]
+(b) in respect of which a Class 5 liquor licence (providing for the supply of liquor on the same terms as under a Class 1A liquor licence) has been granted under that Act for a continuous period of more than 6 days; or
 
-(b) a Public House (Temporary) (First Class) Licence has been issued under the Customs Act, and such premises have been issued with that licence for a continuous period of more than 6 days; or
+(c) in respect of which a Class 1B liquor licence, or a Class 5 liquor licence (providing for the supply of liquor on the same terms as under a Class 1B liquor licence), has been granted under that Act, and which is declared by the Minister, by notification in theGazette, to be a tourist public house.
 
-(c) a public house licence of a category not enumerated in paragraphs (a) and (b) has been issued under the Customs Act, and which is declared by the Minister, by notification in theGazette, to be a tourist public house.
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Delegation of functions
 
@@ -404,3 +408,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|15.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
