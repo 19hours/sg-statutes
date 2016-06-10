@@ -16,7 +16,11 @@
 
 - [5 Reciprocal treatment](#Reciprocal-treatment)
 
-[**THE SCHEDULE Immunities and privileges**](#THE-SCHEDULE)
+- [6 Amendment of First Schedule](#Amendment-of-First-Schedule)
+
+[**FIRST SCHEDULE Specified organisations**](#FIRST-SCHEDULE-Specified-organisations)
+
+[**SECOND SCHEDULE Immunities and privileges**](#SECOND-SCHEDULE-Immunities-and-privileges)
 
 [**Legislative History**](#Legislative-History)
 
@@ -30,7 +34,9 @@ REVISED EDITION 2013
 
 (31st October 2013)
 
-An Act to make provisions as to the immunities, privileges and capacities of international organisations of which the Government and foreign governments are members; to confer immunities and privileges on the staff of such organisations and representatives of member governments and in respect of premises and documents of such organisations; and for purposes connected with the matters aforesaid.
+An Act to make provisions as to the immunities, privileges and capacities of international organisations, in particular those of which the Government and foreign governments are members; to confer immunities and privileges on the staff of such organisations and representatives of member governments and in respect of premises and documents of such organisations; and for purposes connected with the matters aforesaid.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 [28th July 1948]
 
@@ -40,11 +46,19 @@ An Act to make provisions as to the immunities, privileges and capacities of int
 
 ### Privileges, immunities and capacities of certain international organisations and their staff
 
-2\.—(1) This section shall apply to any organisation declared by an order of the President to be an organisation of which the Government and the government or governments of one or more foreign sovereign Powers are members.
+2\.—(1) This section applies to the following:
+
+(a) any organisation declared by an order of the President to be an organisation of which the Government and the government or governments of one or more foreign sovereign Powers are members;
+
+(b) any organisation specified in the First Schedule.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (2) The President may by order —
 
-(a) provide that any organisation to which this section applies (referred to in this Act as the organisation) shall, to such extent as may be specified in the order, have the immunities and privileges set out in Part I of the Schedule, and shall also have the legal capacities of a body corporate;
+(a) provide that any organisation to which this section applies (referred to in this Act as the organisation) shall, to such extent as may be specified in the order, have the immunities and privileges set out in Part I of the Second Schedule, and shall also have the legal capacities of a body corporate;
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (b) confer upon —
 
@@ -54,13 +68,19 @@ An Act to make provisions as to the immunities, privileges and capacities of int
 
 (iii) such persons employed on missions on behalf of the organisation as may be so specified,
 
-to such extent as may be specified in the order, the immunities and privileges set out in Part II of the Schedule; and
+to such extent as may be specified in the order, the immunities and privileges set out in Part II of the Second Schedule; and
 
-(c) confer upon such other classes of officers and employees of the organisation as may be specified in the order, to such extent as may be so specified, the immunities and privileges set out in Part III of the Schedule,
+[Act 16 of 2016 wef 10/06/2016]
 
-and Part IV of the Schedule shall have effect for the purpose of extending to the staff of such representatives and members as are mentioned in paragraph (b)(i) and to the families of officers of the organisation any immunities and privileges conferred on the representatives, members or officers under paragraph (b), except in so far as the operation of Part IV is excluded by the order conferring the immunities and privileges:
+(c) confer upon such other classes of officers and employees of the organisation as may be specified in the order, to such extent as may be so specified, the immunities and privileges set out in Part III of the Second Schedule,
+
+[Act 16 of 2016 wef 10/06/2016]
+
+and Part IV of the Second Schedule shall have effect for the purpose of extending to the staff of such representatives and members as are mentioned in paragraph (b)(i) and to the families of officers of the organisation any immunities and privileges conferred on the representatives, members or officers under paragraph (b), except in so far as the operation of Part IV is excluded by the order conferring the immunities and privileges:
 
 Provided that the order shall be so framed as to secure that there are not conferred on any person any immunities or privileges greater in extent than those which, at the time of the making of the order, are required to be conferred on that person in order to give effect to any international agreement in that behalf.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (3) Where immunities and privileges are conferred on any persons by an order made under subsection (2), the President —
 
@@ -96,7 +116,25 @@ and every representative of a foreign Power who is for the time being included i
 
 5\. Nothing in sections 2, 3 and 4 shall be construed as precluding the President from declining to accord immunities or privileges to, or from withdrawing immunities or privileges from, nationals or representatives of any Power on the ground that that Power is failing to accord corresponding immunities or privileges to Singapore nationals or representatives.
 
-## THE SCHEDULE
+### Amendment of First Schedule
+
+6\. The Minister may, by notification published in theGazette, amend the First Schedule.
+
+[Act 16 of 2016 wef 10/06/2016]
+
+FIRST SCHEDULE
+
+Sections 2(1)(b) and 6
+
+Specified organisations
+
+1. 
+
+International Tribunal for the Law of the Sea.
+
+[Act 16 of 2016 wef 10/06/2016]
+
+SECOND SCHEDULE
 
 Section 2(2)
 
@@ -146,6 +184,8 @@ Immunities and Privileges of Representative’s Staff and of High Officer’s Fa
 
 [4/2003]
 
+[Act 16 of 2016 wef 10/06/2016]
+
 ## LEGISLATIVE HISTORY
 
 International Organisations (Immunities and Privileges) Act
@@ -186,3 +226,7 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of commencement|1 April 2003|
 |9.|**2013 Revised Edition—International Organisations (Immunities and Privileges) Act (Chapter 145)**|
 ||Date of operation|31 October 2013|
+|10.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
