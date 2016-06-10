@@ -54,7 +54,7 @@
 
 - [20 Secrecy](#Secrecy)
 
-- [21 Annual report](#Annual-report)
+- [21 (Repealed)](#Repealed)
 
 - [22 Public servants](#Public-servants)
 
@@ -360,11 +360,7 @@ as exists with respect to judicial proceedings and a document produced in judici
 
 (f) in accordance with any order of the court or a requirement imposed by or under any written law.
 
-### Annual report
-
-21\.—(1) The Director shall prepare and submit to the Minister a report on the activities, operations and use of the Community Mediation Centres during the period of 12 months beginning on 1st April of each year and ending on 31st March of the succeeding year.
-
-(2) The Minister shall lay the report, or cause it to be laid, before Parliament.
+21\. [Repealed by Act 16 of 2016 wef 10/06/2016]
 
 ### Public servants
 
@@ -436,3 +432,7 @@ This Legislative History is provided for the convenience of users of the Communi
 ||Date of First Reading|19 January 2015 (Bill No. 4/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|1 October 2015|
+|10.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
