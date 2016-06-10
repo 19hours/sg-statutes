@@ -70,7 +70,7 @@
 
 - [21 Contracting out](#Contracting-out)
 
-- [22 Commissioner may receive and pay to dependants, etc., money due to dead or mentally incapacitated employee from employer](#Commissioner-may-receive-and-pay-to-dependants-etc-money-due-to-dead-or-mentally-incapacitated-employee-from-employer)
+- [22 Commissioner may receive and pay to dependants, etc., money due from employer to employee who is dead or lacks mental capacity](#Commissioner-may-receive-and-pay-to-dependants-etc-money-due-from-employer-to-employee-who-is-dead-or-lacks-mental-capacity)
 
 - [23 Compulsory insurance against employer’s liability](#Compulsory-insurance-against-employer’s-liability)
 
@@ -468,9 +468,13 @@ Computation of compensation
 
 (ii) one or more of the dependants of the deceased employee and in such proportion as the Commissioner thinks fit, except that where a will has been produced, such payment may instead be made directly to the estate of the deceased employee; or
 
-(iii) where the employee has become mentally incapacitated, any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 with power to receive such payment;
+(iii) where the employee has become a person who lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A) —
 
-[21/2008 wef 01/03/2010]
+(A) a donee of a lasting power of attorney which is granted by the employee under the Mental Capacity Act, and under which the employee confers on the donee authority to receive such payment; or
+
+(B) a deputy who is appointed or deemed to be appointed for the employee by the court under the Mental Capacity Act, and who is conferred power to receive such payment; and
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (b) take into account any amount paid otherwise than in accordance with subsection (1) in assessing the compensation payable under this Act if he considers it fair and reasonable to do so.
 
@@ -486,15 +490,21 @@ Computation of compensation
 
 [5/2008]
 
-(4A) Compensation deposited in respect of an accident resulting in the permanent incapacity of an employee who, before the payment of such compensation is made, becomes mentally incapacitated may be payable to —
+(4A) Compensation deposited in respect of an accident resulting in the permanent incapacity of an employee who, before the payment of such compensation is made, becomes a person who lacks capacity within the meaning of the Mental Capacity Act may be payable to —
 
-(a) any one or more of the dependants of the employee; or
+(a) any one or more of the dependants of the employee;
 
-(b) any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 with power to receive such payment.
+[Act 16 of 2016 wef 10/06/2016]
 
-[5/2008]
+(b) a donee of a lasting power of attorney which is granted by the employee under the Mental Capacity Act, and under which the employee confers on the donee authority to receive such payment; or
 
-[21/2008 wef 01/03/2010]
+[Act 16 of 2016 wef 10/06/2016]
+
+(c) a deputy who is appointed or deemed to be appointed for the employee by the court under the Mental Capacity Act, and who is conferred power to receive such payment.
+
+[Act 16 of 2016 wef 10/06/2016]
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (5) Where any lump sum deposited with the Commissioner is payable to a person who is under any legal disability or in any other case where the Commissioner considers it desirable to do so, the Commissioner may, in his discretion, order such sum to be invested, applied or otherwise dealt with for the benefit of that person in such manner and for such period as the Commissioner may determine.
 
@@ -580,29 +590,39 @@ of the occurrence of every prescribed event that may give rise to a claim for co
 
 ### Change of address
 
-12A\.—(1) Where any claim for compensation has been made under this Act by an employee or by a person acting on behalf of an employee who is dead or mentally incapacitated, and the Commissioner has reason to believe that there is a change during the currency of the claim in the address used by the employee or the person for the purposes of the claim, the Commissioner may serve a notice on the employee or the person, as the case may be, requesting for particulars of any change in address.
+12A\.—(1) Where any claim for compensation has been made under this Act by an employee or by a person acting on behalf of an employee who is dead or lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A), and the Commissioner has reason to believe that there is a change during the currency of the claim in the address used by the employee or the person for the purposes of the claim, the Commissioner may serve a notice on the employee or the person, as the case may be, requesting for particulars of any change in address.
 
 [5/2008]
 
-(2) Subject to subsection (3), the employee or the person acting on behalf of an employee who is dead or mentally incapacitated, as the case may be, on whom the Commissioner has served a notice under subsection (1) shall, within a period of 14 days after the service of the notice, inform the employee’s employer and the Commissioner, in writing or in person, of any change in address.
+[Act 16 of 2016 wef 10/06/2016]
+
+(2) Subject to subsection (3), the employee or the person acting on behalf of an employee who is dead or lacks capacity within the meaning of the Mental Capacity Act, as the case may be, on whom the Commissioner has served a notice under subsection (1) shall, within a period of 14 days after the service of the notice, inform the employee’s employer and the Commissioner, in writing or in person, of any change in address.
 
 [5/2008]
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (3) Subsection (2) shall not apply if the compensation has been fully paid in accordance with this Act.
 
 [5/2008]
 
-(4) Notwithstanding section 13(4), if an employee or the person acting on behalf of an employee who is dead or mentally incapacitated fails, without reasonable cause, to notify the Commissioner of any change in the address as is required by subsection (2), the employee’s right to compensation shall be suspended from the 15th day after the Commissioner has served a notice under subsection (1) on the employee or the person, as the case may be.
+(4) Notwithstanding section 13(4), if an employee or the person acting on behalf of an employee who is dead or lacks capacity within the meaning of the Mental Capacity Act fails, without reasonable cause, to notify the Commissioner of any change in the address as is required by subsection (2), the employee’s right to compensation shall be suspended from the 15th day after the Commissioner has served a notice under subsection (1) on the employee or the person, as the case may be.
 
 [5/2008]
 
-(5) Any suspension under subsection (4) shall cease upon the employee or the person acting on behalf of an employee who is dead or mentally incapacitated, as the case may be, providing the particulars of any change in the address used by the employee or the person for the purposes of the claim.
+[Act 16 of 2016 wef 10/06/2016]
+
+(5) Any suspension under subsection (4) shall cease upon the employee or the person acting on behalf of an employee who is dead or lacks capacity within the meaning of the Mental Capacity Act, as the case may be, providing the particulars of any change in the address used by the employee or the person for the purposes of the claim.
 
 [5/2008]
 
-(6) If at the end of 3 months after the Commissioner has served a notice referred to in subsection (1), the employee or the person acting on behalf of an employee who is dead or mentally incapacitated, as the case may be, still fails to provide the particulars of any change in the address to the Commissioner as requested by that notice, then notwithstanding section 13(4), no compensation under this Act shall be payable in respect of the claim to which the notice relates unless the Commissioner is satisfied that there was reasonable cause for the failure.
+[Act 16 of 2016 wef 10/06/2016]
+
+(6) If at the end of 3 months after the Commissioner has served a notice referred to in subsection (1), the employee or the person acting on behalf of an employee who is dead or lacks capacity within the meaning of the Mental Capacity Act, as the case may be, still fails to provide the particulars of any change in the address to the Commissioner as requested by that notice, then notwithstanding section 13(4), no compensation under this Act shall be payable in respect of the claim to which the notice relates unless the Commissioner is satisfied that there was reasonable cause for the failure.
 
 [5/2008]
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Medical examination and treatment
 
@@ -844,21 +864,21 @@ Insurance and other general provisions
 
 [5/2008]
 
-### Commissioner may receive and pay to dependants, etc., money due to dead or mentally incapacitated employee from employer
+### Commissioner may receive and pay to dependants, etc., money due from employer to employee who is dead or lacks mental capacity
 
 22\.—(1) Notwithstanding anything in any written law relating to the administration or distribution of estates of deceased persons for the time being in force in Singapore, where it appears to the Commissioner that compensation or interest is payable to an employee under this Act and the employee has died before such payment is made, it shall be lawful for the Commissioner to receive and pay the compensation or interest, without production of a grant of representation, to any one or more of the dependants of the deceased employee or to the estate of the deceased employee.
 
 [5/2008]
 
-\*(2) Where it appears to the Commissioner that compensation or interest is payable to an employee under this Act and the employee is mentally incapacitated before such payment is made, it shall be lawful for the Commissioner to receive and pay the compensation or interest to any one or more of the dependants of the employee for the benefit of the employee without the appointment of any deputy for the employee under the Mental Capacity Act 2008.
+(2) Where it appears to the Commissioner that compensation or interest is payable to an employee under this Act and the employee lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A) before such payment is made, it is lawful for the Commissioner to receive and pay the compensation or interest to any one or more of the dependants of the employee for the benefit of the employee, even if —
 
-[5/2008]
+(a) there is no donee of a lasting power of attorney which is granted by the employee under the Mental Capacity Act, and under which the employee confers on the donee authority to receive the compensation or interest; and
 
-[21/2008 wef 01/03/2010]
+(b) there is no deputy who is appointed or deemed to be appointed for the employee by the court under the Mental Capacity Act, and who is conferred power to receive the compensation or interest.
 
-\*The words “committee or committees of the employee and estate of the employee required under the Mental Disorders and Treatment Act (Cap. 178)” in section 22(2) will be substituted with the following words when item 1(54)(b) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
+[Act 16 of 2016 wef 10/06/2016]
 
-“deputy for the employee under the Mental Capacity Act 2008”.
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Compulsory insurance against employer’s liability
 
@@ -1036,13 +1056,15 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 (b) with the leave of the Commissioner, by any other person authorised in writing by that person;
 
-\*(ba) where the person is mentally incapacitated — with the leave of the Commissioner, by any of his dependants or any deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008 to manage his property;
+(ba) where the person lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A) — with the leave of the Commissioner, by —
 
-[21/2008 wef 01/03/2010]
+(i) any dependant of the person;
 
-\*The words “committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)” in section 27(1)(ba) will be substituted with the following words when item 1(54)(c) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
+(ii) any donee of a lasting power of attorney which is granted by the person under the Mental Capacity Act, and under which the person confers on the donee authority to manage the person’s property; or
 
-“deputy appointed or deemed to be appointed for him by the High Court under the Mental Capacity Act 2008”.
+(iii) any deputy who is appointed or deemed to be appointed for the person by the court under the Mental Capacity Act, and who is conferred power to manage the person’s property;
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (bb) where the person is dead — with the leave of the Commissioner, by any of his dependants or his estate, whether or not the estate has obtained a grant of representation;
 
@@ -1086,15 +1108,15 @@ ASSESSMENT AND PAYMENT OF COMPENSATION
 
 (b) where the employee is dead, to or for the benefit of any one or more of the deceased employee’s dependants or to the estate of the deceased employee where a will has been produced, as the Commissioner deems fit, or where the deceased employee has no dependants, to the Workers’ Fund; or
 
-\*(c) where the employee is mentally incapacitated, to any one or more of the employee’s dependants for the benefit of the employee, or to any deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008 to manage the employee’s property, as the Commissioner deems fit.
+(c) where the employee lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A), to such of the following persons as the Commissioner deems fit:
 
-[5/2008]
+(i) any one or more of the employee’s dependants for the benefit of the employee;
 
-[21/2008 wef 01/03/2010]
+(ii) any donee of a lasting power of attorney which is granted by the employee under the Mental Capacity Act, and under which the employee confers on the donee authority to manage the employee’s property;
 
-\*The words “committee or committees appointed under the Mental Disorders and Treatment Act (Cap. 178)” in section 28A(2)(c) will be substituted with the following words when item 1(54)(d) in the Second Schedule to the Mental Health (Care and Treatment) Act 2008 (Act 21 of 2008) is brought into operation:
+(iii) any deputy who is appointed or deemed to be appointed for the employee by the court under the Mental Capacity Act, and who is conferred power to manage the employee’s property.
 
-“deputy appointed or deemed to be appointed for the employee by the High Court under the Mental Capacity Act 2008”.
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Appeal from decision of Commissioner
 
@@ -1476,7 +1498,9 @@ GENERAL
 
 (g) provide for the establishment, maintenance and application of the Workers’ Fund;
 
-(h) provide for the representation in proceedings before the Commissioner of parties who are subject to legal disability or are mentally incapacitated or are unable for other reasons to appear personally;
+(h) provide for the representation in proceedings before the Commissioner of parties who are subject to legal disability or lack capacity within the meaning of the Mental Capacity Act (Cap. 177A), or are unable for other reasons to appear personally;
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (i) provide for the procedure to be followed when a medical practitioner who has examined an employee certifies that medical treatment in an approved hospital is necessary under section 14 and the procedure for the payment of cost of medical treatment;
 
@@ -2745,3 +2769,7 @@ This Legislative History is provided for the convenience of users of the Work In
 ||Date of commencement|1 April 2014|
 |16.|**G.N. No. S 586/2015—Work Injury Compensation Act (Amendment of Third Schedule) Order 2015**|
 ||Date of commencement|1 January 2016|
+|17.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
