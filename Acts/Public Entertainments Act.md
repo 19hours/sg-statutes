@@ -44,6 +44,8 @@
 
 - [16 Appeals to Minister](#Appeals-to-Minister)
 
+- [16AA Minister may designate others to hear appeals](#Minister-may-designate-others-to-hear-appeals)
+
 - [16A Exemption](#Exemption)
 
 - [17 Powers of entry and inspection](#Powers-of-entry-and-inspection)
@@ -493,6 +495,26 @@ to provide the Minister with such information or document as the Minister may re
 and the decision of the Minister shall be final.
 
 [Act 32 of 2014 wef 01/01/2015]
+
+### Minister may designate others to hear appeals
+
+16AA\.—(1) A Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal or a specific appeal to the Minister under section 10(5), 11(6), 13(3), 14(5) or 15C(3):
+
+(a) the Second Minister, if any, for his Ministry;
+
+(b) any Minister of State for his Ministry;
+
+(c) any Parliamentary Secretary to his Ministry.
+
+(2) Any reference to a Minister in section 10(5), 11(6), 13(3) or (4), 14(5) or (6), 15C(3) or 16 includes a reference to a person designated by the Minister under subsection (1).
+
+(3) To avoid doubt, in this section —
+
+“Minister of State” includes a Senior Minister of State;
+
+“Parliamentary Secretary” includes a Senior Parliamentary Secretary.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Exemption
 
@@ -958,6 +980,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|8 September 2014 (Bill No. 29/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|1 March 2016|
+|19.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Public Entertainments and Meetings Act
