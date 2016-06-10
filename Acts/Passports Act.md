@@ -82,6 +82,8 @@
 
 - [28 Appeal to Minister](#Appeal-to-Minister)
 
+- [28A Minister may designate others to hear appeals](#Minister-may-designate-others-to-hear-appeals)
+
 [**Part IV POWERS OF ENFORCEMENT**](#Part-IV)
 
 - [29 Demand for surrender of suspicious Singapore passports, etc.](#Demand-for-surrender-of-suspicious-Singapore-passports-etc)
@@ -758,7 +760,27 @@ other than a decision made because of a warrant of arrest issued in Singapore ag
 
 and the appellant shall be notified in writing of the Minister’s decision in respect of his appeal accordingly.
 
-(4) In this section, any reference to the Minister shall include a reference to any Minister of State designated by the Minister to hear any appeal under this section in place of the Minister.
+(4) [Deleted by Act 16 of 2016 wef 10/06/2016]
+
+### Minister may designate others to hear appeals
+
+28A\.—(1) The Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal or a specific appeal under section 28:
+
+(a) the Second Minister, if any, for his Ministry;
+
+(b) any Minister of State for his Ministry;
+
+(c) any Parliamentary Secretary to his Ministry.
+
+(2) Any reference to the Minister in section 28 includes a reference to a person designated under subsection (1).
+
+(3) To avoid doubt, in this section —
+
+“Minister of State” includes a Senior Minister of State;
+
+“Parliamentary Secretary” includes a Senior Parliamentary Secretary.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ## PART IV
 
@@ -1581,6 +1603,10 @@ The Passports Act 2007 repealed the Passports Act (Chapter 220, 1985 Revised Edi
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
+|7.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Passports Act
