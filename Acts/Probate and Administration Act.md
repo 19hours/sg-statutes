@@ -900,9 +900,11 @@ and no person is present in Singapore at the time of his death who is rightfully
 
 [6/2004 wef 08/03/2004]
 
-(3) Notice of every declaration made under subsection (1) shall be filed in court.
+(3) Notice of every declaration made under subsection (1) shall be given to the registrar.
 
 [7/76]
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (4) At any time prior to the distribution of any part of the property among the beneficiaries thereof under this section the Public Trustee may, if he thinks it expedient to do so, notwithstanding any declaration made by him under subsection (1), decline to proceed with the administration of the property in his hands until a grant of representation has been obtained in respect of the estate of the deceased.
 
@@ -1229,6 +1231,10 @@ This Legislative History is provided for the convenience of users of the Probate
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 January 2015|
+|24.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Probate and Administration Act
