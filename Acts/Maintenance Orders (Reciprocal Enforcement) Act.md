@@ -282,6 +282,14 @@ is received by the Minister from the responsible authority in a reciprocating co
 
 [Act 27 of 2014 wef 01/10/2014]
 
+(2A) To avoid doubt, section 121 of the Women’s Charter applies to a registered order which has been registered or confirmed by a Family Court (or any other court in Singapore) with the following modifications:
+
+(a) the reference in section 121(3) of the Women’s Charter to a suit is to be read as a reference to an application to enforce the registered order in accordance with section 71 of the Women’s Charter;
+
+(b) the reference in section 121(3) of the Women’s Charter to the institution of the suit is to be read as a reference to the filing of the application to enforce the registered order.
+
+[Act 16 of 2016 wef 10/06/2016]
+
 (3) Any person for the time being under an obligation to make payments in pursuance of a registered order shall give notice of any change of address to the clerk of the registering court, and any person failing without reasonable excuse to give such a notice shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
 (4) The Family Court by which an order is enforceable by virtue of this section, and the officers thereof, shall take all such steps for enforcing the order as may be prescribed.
@@ -490,3 +498,7 @@ This Legislative History is provided for the convenience of users of the Mainten
 |||(Bill No. 21/2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|6.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
