@@ -36,6 +36,8 @@
 
 - [14 Appointment, powers and duties of Principal](#Appointment-powers-and-duties-of-Principal)
 
+- [14A Public servants](#Public-servants)
+
 - [15 Singapore Polytechnic Students’ Union](#Singapore-Polytechnic-Students’-Union)
 
 - [16 Application of Societies Act to Students’ Union](#Application-of-Societies-Act-to-Students’-Union)
@@ -268,6 +270,12 @@ and for such purposes the Principal shall have, subject to the provisions of thi
 
 [12
 
+### Public servants
+
+14A\. All members of the Board, and all officers, members of the academic and administrative staff and other employees of the Polytechnic, are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 16 of 2016 wef 10/06/2016]
+
 ### Singapore Polytechnic Students’ Union
 
 15\.—(1) There shall be a students’ association to be known as the Singapore Polytechnic Students’ Union which shall be constituted by regulations made under section 23(1) and shall consist of such constituent bodies as may be prescribed by those regulations.
@@ -434,3 +442,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|11.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
