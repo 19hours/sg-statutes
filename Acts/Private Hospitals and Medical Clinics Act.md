@@ -526,13 +526,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) in relation to an infant, means one of his parents or his guardian; and
 
-(c) in relation to a person who lacks capacity within the meaning of the Mental Capacity Act 2008, means the deputy appointed or deemed to be appointed for the person by the High Court under that Act, with power to consent to such disclosure.
+(c) in relation to a person who lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A), means —
 
-[12
+(i) a donee of a lasting power of attorney which is granted by that person under the Mental Capacity Act, and under which that person confers on the donee authority to consent on that person’s behalf to such disclosure; or
 
-[19/99]
+(ii) a deputy who is appointed or deemed to be appointed for that person by the court under the Mental Capacity Act, and who is conferred power to consent on that person’s behalf to such disclosure.
 
-[21/2008 wef 01/03/2010]
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Directions as to apparatus, appliance, equipment, etc.
 
@@ -711,6 +711,10 @@ This Legislative History is provided for the convenience of users of the Private
 |||(Bill No. 10/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|13.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Private Hospitals and Medical Clinics Act
