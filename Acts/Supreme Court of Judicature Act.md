@@ -1226,9 +1226,17 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 [Act 42 of 2014 wef 01/01/2015]
 
-(2A) Subsection (2)(a) shall not apply to any case heard and determined by the High Court in the exercise of its original jurisdiction under any written law which requires that case to be heard and determined by the High Court in the exercise of its original jurisdiction.
+(2A) Subsection (2)(a) does not apply to any of the following cases:
 
-[Act 27 of 2014 wef 01/01/2015]
+(a) any case heard and determined by the High Court in the exercise of its original jurisdiction under any written law which requires that case to be heard and determined by the High Court in the exercise of its original jurisdiction;
+
+(b) any case heard and determined by the Family Division of the High Court in the exercise of its original jurisdiction;
+
+(c) any family proceedings (not being probate proceedings) commenced in the High Court before 1 October 2014 and heard and determined by the High Court in the exercise of its original jurisdiction;
+
+(d) any contentious probate proceedings commenced in the High Court before 1 January 2015 and heard and determined by the High Court in the exercise of its original jurisdiction.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (2B) [Deleted by Act 42 of 2014 wef 01/01/2015]
 
@@ -1236,23 +1244,23 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 [43/98]
 
-(4) Subsections (1) and (2) shall not apply to any decision, judgment or order of the Family Division of the High Court.
+(4) Subsections (1) and (2) do not apply to any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction referred to in section 23 of the Family Justice Act 2014 (Act 27 of 2014).
 
-[Act 27 of 2014 wef 01/10/2014]
+[Act 16 of 2016 wef 10/06/2016]
 
 (5) Except with the leave of the Court of Appeal, or of a Judge of the Family Division of the High Court, no appeal shall be brought to the Court of Appeal from any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction referred to in section 23 of the Family Justice Act 2014.
 
 [Act 27 of 2014 wef 01/10/2014]
 
-(6) Subsections (1) and (2) shall not apply to any decision, judgment or order of the High Court in —
+(6) Subsections (1) and (2) do not apply to any decision, judgment or order of the High Court involving the exercise of the appellate civil jurisdiction of the High Court in any of the following circumstances:
 
-(a) any family proceedings (not being probate proceedings) commenced in the High Court before 1 October 2014;
+(a) the hearing of any appeal from a District Court or Magistrate’s Court when exercising jurisdiction of a quasi-criminal or civil nature in any family proceedings (not being probate proceedings), being an appeal commenced in the High Court before 1 October 2014;
 
-(b) any contentious probate proceedings commenced in the High Court before the date specified under section 47(11) of the Family Justice Act 2014 (Act 27 of 2014) for the purposes of section 47(2) of that Act; and
+(b) the hearing of any appeal or special case from the Tribunal for the Maintenance of Parents, being an appeal or a special case commenced in the High Court before 1 October 2014;
 
-(c) any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before the date specified under section 47(11) of the Family Justice Act 2014 for the purposes of section 47(7) of that Act.
+(c) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before 1 January 2015.
 
-[Act 42 of 2014 wef 01/01/2015]
+[Act 16 of 2016 wef 10/06/2016]
 
 (7) Except with the leave of the High Court or the Court of Appeal, no appeal shall be brought to the Court of Appeal from any decision, judgment or order of the High Court involving the exercise of the appellate civil jurisdiction of the High Court in any of the following circumstances:
 
@@ -1260,9 +1268,11 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (b) the hearing of any appeal or special case from the Tribunal for the Maintenance of Parents, being an appeal or a special case commenced in the High Court before 1 October 2014;
 
-(c) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before the date specified under section 47(11) of the Family Justice Act 2014 for the purposes of section 47(7) of that Act.
+(c) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before 1 January 2015.
 
 [Act 42 of 2014 wef 01/01/2015]
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (8) In this section —
 
@@ -1631,6 +1641,14 @@ Protection of Registrar and other officers
 (2) No officer of the Supreme Court charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the court shall be liable to be sued in any court exercising civil jurisdiction for the execution of or attempting to execute such writ, summons, warrant, order, notice or other mandatory process, or in respect of any damage caused to any property in effecting or attempting to effect execution, unless it appears that he knowingly acted in excess of the authority conferred upon him by such writ, summons, warrant, order, notice or other mandatory process of the court.
 
 (3) An officer of the Supreme Court shall not be deemed to have acted knowingly in excess of his authority merely by reason of the existence of a dispute as to the ownership of any property seized under any writ or order of execution.
+
+(4) Where a registered medical practitioner, psychologist, counsellor, social worker or mental health professional is appointed by the High Court to examine and assess a child or person for the purposes of preparing expert evidence for use in any proceedings involving the custody or welfare of that child or involving that person (as the case may be), the registered medical practitioner, psychologist, counsellor, social worker or mental health professional (as the case may be) shall not be liable to be sued for an act done by him for the purposes of the examination or assessment, or the preparation of the expert evidence for use in those proceedings, if the act —
+
+(a) was done in good faith; and
+
+(b) did not involve any fraud or wilful misconduct on his part.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 Rules of Court
 
@@ -2230,6 +2248,10 @@ This Legislative History is provided for the convenience of users of the Supreme
 |||(Bill No. 38/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|1 January 2015|
+|34.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
