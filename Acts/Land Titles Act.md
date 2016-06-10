@@ -3024,9 +3024,13 @@ whereupon the Registrar shall record the change of name or address on the folio 
 
 [Act 8 of 2014 wef 15/08/2014]
 
-(e) by the person or the deputy appointed or deemed to be appointed for such person by the High Court under the Mental Capacity Act 2008, with power in relation to the management and care of the estate or interest claimed in the caveat; or
+(e) where the caveator lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A) —
 
-[21/2008 wef 01/03/2010]
+(i) by a donee of a lasting power of attorney which is granted by the caveator under the Mental Capacity Act, and under which the caveator confers on the donee authority to make decisions in relation to the management and care of the estate or interest claimed in the caveat; or
+
+(ii) by a deputy who is appointed or deemed to be appointed for the caveator by the court under the Mental Capacity Act, and who is conferred power to make decisions in relation to the management and care of the estate or interest claimed in the caveat; or
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (f) by the solicitor acting for any of the persons mentioned in paragraphs (b), (c), (d) or (e).
 
@@ -4027,6 +4031,10 @@ This Legislative History is provided for the convenience of users of the Land Ti
 ||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
+|17.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Land Titles Act
