@@ -140,6 +140,8 @@
 
 - [39A Exclusion of judicial review](#Exclusion-of-judicial-review)
 
+- [39B Minister may designate others to hear appeals](#Minister-may-designate-others-to-hear-appeals)
+
 - [40 Duty of police officers to execute orders](#Duty-of-police-officers-to-execute-orders)
 
 - [41 Restriction on discharge of member of crew](#Restriction-on-discharge-of-member-of-crew)
@@ -370,15 +372,7 @@ but shall not include in any case an entry made for the purpose of complying wit
 
 [12/70; 21/73; 60/73; 13/77; 6/89; 38/93; 41/95; 34/98; 53/2004; 30/2007; 33/2007]
 
-(2) For the purposes of sections 8(6), 10(5), 11(6), 14(6), 29(7) or 33, any reference to the Minister shall include a reference to any of the following who is authorised by the Minister for the purposes of hearing an appeal under that provision:
-
-(a) the Minister who has been designated by the Prime Minister as Second Minister for Home Affairs (if any);
-
-(b) any Minister of State,
-
-and any reference in section 39A to the Minister shall include a reference to a person so authorised by the Minister under this subsection.
-
-[Act 18 of 2012 wef 19/12/2012]
+(2) [Deleted by Act 16 of 2016 wef 10/06/2016]
 
 ### Appointment and powers of Controller and immigration officers
 
@@ -1645,6 +1639,26 @@ MISCELLANEOUS
 
 [38/93; 42/2005]
 
+### Minister may designate others to hear appeals
+
+39B\.—(1) The Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal or a specific appeal under section 8(6), 10(5), 11(6), 14(6), 29(7) or 33:
+
+(a) the Second Minister, if any, for his Ministry;
+
+(b) any Minister of State for his Ministry;
+
+(c) any Parliamentary Secretary to his Ministry.
+
+(2) Any reference to the Minister in section 8(6), 10(5), 11(6), 14(6), 29(7), 33 or 39A includes a reference to a person designated under subsection (1).
+
+(3) To avoid doubt, in this section —
+
+“Minister of State” includes a Senior Minister of State;
+
+“Parliamentary Secretary” includes a Senior Parliamentary Secretary.
+
+[Act 16 of 2016 wef 10/06/2016]
+
 ### Duty of police officers to execute orders
 
 40\. Every police officer shall, when so requested by an immigration officer, receive and execute according to the tenor thereof any written order of the Controller, and any warrant of the Controller for the arrest, detention or removal of any person made under the provisions of this Act.
@@ -2538,3 +2552,7 @@ This Legislative History is provided for the convenience of users of the Immigra
 |||(Bill No. 16/2012 published on 9 July)|
 ||Date of Second and Third Readings|13 August 2012|
 ||Date of commencement|19 December 2012|
+|31.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
