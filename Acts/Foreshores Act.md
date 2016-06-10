@@ -10,7 +10,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Restriction on construction of sea and river walls and buildings on banks of any port, river or channel](#Restriction-on-construction-of-sea-and-river-walls-and-buildings-on-banks-of-any-port-river-or-channel)
+- [3 (Repealed)](#Repealed)
 
 - [4 Authority for Government to construct works and to reclaim foreshore or sea-bed](#Authority-for-Government-to-construct-works-and-to-reclaim-foreshore-or-sea-bed)
 
@@ -62,33 +62,7 @@ An Act to provide for reclamations and to validate and facilitate leases or gran
 
 [7/96 wef 02/02/1996]
 
-### Restriction on construction of sea and river walls and buildings on banks of any port, river or channel
-
-3\.—(1) No person shall erect or build any sea wall or river wall, or construct any revetment along the bank of any port, river or channel, or erect any permanent building or structure within 15 metres of the foreshore or of any such bank, except in accordance with plans and specifications approved by the Urban Redevelopment Authority.
-
-[S 17/75]
-
-[4/99 wef 01/04/1999]
-
-(2) The decision of the Urban Redevelopment Authority as to the plans and specifications with a statement of his requirements shall be delivered within one month from the date of the deposit of the plans and specifications, and if no intimation of disapproval is given by the Urban Redevelopment Authority within that time it shall be assumed that the plans and specifications have been approved.
-
-[4/99 wef 01/04/1999]
-
-(3) For the purposes of this Act the Urban Redevelopment Authority or any officer authorised thereto by him in writing may enter upon and inspect any buildings or premises to which the plans and specifications relate.
-
-[4/99 wef 01/04/1999]
-
-### Penalty
-
-(4) Any person who acts in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.
-
-(5) Any building or construction built or erected in contravention of this section may be removed by order of the Minister, and the cost of its removal shall be recoverable as a Government debt from the person building or erecting it.
-
-(6) This section shall not apply to any property held by the Maritime and Port Authority of Singapore or any other statutory body as the Minister may, by notification in theGazette, appoint.
-
-[28/74]
-
-[6/97 wef 01/10/1997]
+3\. [Repealed by Act 16 of 2016 wef 10/06/2016]
 
 ### Authority for Government to construct works and to reclaim foreshore or sea-bed
 
@@ -275,3 +249,7 @@ This Legislative History is provided for the convenience of users of the Foresho
 |||(Bill No. 51/1998 published on 24 November 1998)|
 ||Date of Second and Third Readings|20 January 1999|
 ||Date of commencement|1 April 1999|
+|28.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
