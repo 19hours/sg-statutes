@@ -126,6 +126,8 @@
 
 - [46 Family Justice Rules](#Family-Justice-Rules)
 
+- [46A Amendment of Second Schedule](#Amendment-of-Second-Schedule)
+
 - [47 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
 [**Division 4  Consequential and related amendments to other written laws**](#Division-4--Consequential-and-related-amendments-to-other-written-laws)
@@ -188,7 +190,9 @@
 
 - [76 Consequential and related amendments to Women’s Charter](#Consequential-and-related-amendments-to-Women’s-Charter)
 
-[**THE SCHEDULE Forms of oaths and affirmations**](#THE-SCHEDULE)
+[**FIRST SCHEDULE Forms of oaths and affirmations**](#FIRST-SCHEDULE-Forms-of-oaths-and-affirmations)
+
+[**SECOND SCHEDULE Orders made by Family Court that are non-appealable**](#SECOND-SCHEDULE-Orders-made-by-Family-Court-that-are-non-appealable)
 
 REPUBLIC OF SINGAPORE
 
@@ -460,7 +464,9 @@ APPOINTMENTS, POWERS AND DUTIES
 
 ### Oaths of officers
 
-20\.—(1) The registrar, deputy registrar and assistant registrars of the Family Justice Courts and such other officers of the Family Justice Courts as may be required by the Chief Justice shall, before exercising the functions of their respective offices, take and subscribe the appropriate oath of office set out in the Schedule.
+20\.—(1) The registrar, deputy registrar and assistant registrars of the Family Justice Courts and such other officers of the Family Justice Courts as may be required by the Chief Justice shall, before exercising the functions of their respective offices, take and subscribe the appropriate oath of office set out in the First Schedule.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (2) The oath referred to in subsection (1) may be taken and subscribed before the Presiding Judge of the Family Justice Courts or a Judge or Judicial Commissioner of the Supreme Court.
 
@@ -500,7 +506,13 @@ Jurisdiction of Family Division of High Court
 
 (b) the hearing of appeals and special cases from the Tribunal for the Maintenance of Parents.
 
-(2) An appeal shall lie to the High Court from any decision of a Family Court exercising jurisdiction of a quasi-criminal or civil nature.
+(2) Subject to subsection (2A), an appeal shall lie to the High Court from any decision of a Family Court exercising jurisdiction of a quasi-criminal or civil nature.
+
+[Act 16 of 2016 wef 10/06/2016]
+
+(2A) No appeal is to be brought to the High Court in any case where a Family Court makes an order specified in the Second Schedule, except in such circumstances as may be specified in that Schedule.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (3) An appeal to the High Court from a decision of a Family Court —
 
@@ -560,7 +572,13 @@ Jurisdiction of Family Courts
 
 (3) Without prejudice to the generality of subsection (2), the jurisdiction of a Family Court to hear and try any civil proceedings which come within the jurisdiction of the Syariah Court constituted under the Administration of Muslim Law Act (Cap. 3) shall be the same as that of the High Court, as if section 17A of the Supreme Court of Judicature Act (Cap. 322) applies to a Family Court with the modification that any reference in that section to the High Court shall be read as a reference to a Family Court.
 
-(4) Notwithstanding subsection (2), the Chief Justice may by order published in theGazettedirect that any class or description of family proceedings specified in the order shall be heard and determined by the Family Division of the High Court.
+(3A) If any family proceedings may be heard and determined by a Family Court or by the Family Division of the High Court, those proceedings must in the first instance be commenced in a Family Court.
+
+[Act 16 of 2016 wef 10/06/2016]
+
+(4) Despite subsections (2), (3) and (3A), the Chief Justice may by order published in theGazettedirect that any class or description of family proceedings specified in the order shall be heard and determined by the Family Division of the High Court.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (5) Subject to section 28A of the Supreme Court of Judicature Act and any order made under subsection (1) of that section, the jurisdiction of a Family Court under subsection (2) shall not include —
 
@@ -808,6 +826,22 @@ it shall be lawful for a District Judge designated as a judge of the Family Cour
 
 (b) did not involve any fraud or wilful misconduct on his part.
 
+(5) A child representative appointed to represent the interests of a child in any proceedings involving the child, or the custody and welfare of the child, shall not be liable to be sued for an act done by the child representative for the purposes of those proceedings, or any mediation or other alternative dispute resolution process related to those proceedings, if the act —
+
+(a) was done in good faith; and
+
+(b) did not involve any fraud or wilful misconduct on the part of the child representative.
+
+[Act 16 of 2016 wef 10/06/2016]
+
+(6) Where a registered medical practitioner, psychologist, counsellor, social worker or mental health professional is appointed by a Family Court to examine and assess a child or person for the purposes of preparing expert evidence for use in any proceedings involving the custody or welfare of that child or involving that person (as the case may be), the registered medical practitioner, psychologist, counsellor, social worker or mental health professional (as the case may be) shall not be liable to be sued for an act done by him for the purposes of the examination or assessment, or the preparation of the expert evidence for use in those proceedings, if the act —
+
+(a) was done in good faith; and
+
+(b) did not involve any fraud or wilful misconduct on his part.
+
+[Act 16 of 2016 wef 10/06/2016]
+
 Division 3 —
 
 Other matters
@@ -879,6 +913,14 @@ Other matters
 (7) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
 (8) Prior to the enactment of Family Justice Rules on any matter which may be dealt with under those Rules, the Rules Committee constituted under section 80(3) of the Supreme Court of Judicature Act (Cap. 322) may make Rules of Court for dealing with that matter.
+
+### Amendment of Second Schedule
+
+46A\.—(1) The Minister may, after consulting the Chief Justice, by order published in theGazette, amend the Second Schedule.
+
+(2) An order under subsection (1) may contain such provisions of a saving or transitional nature as appear to the Minister, after consulting the Chief Justice, to be necessary or expedient.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Savings and transitional provisions
 
@@ -1853,7 +1895,7 @@ Family Justice Rules
 
 (zi) by deleting the word “Act” in section 180(2) and (3) and substituting in each case the word “section”.
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
 Section 20(1)
 
@@ -1887,4 +1929,29 @@ I, .............................................................................
 Taken and subscribed before me at .............................................. this .............. day of ........................... .
 
 Officer Administering the Oath
+
+[Act 16 of 2016 wef 10/06/2016]
+
+SECOND SCHEDULE
+
+Sections 23(2A) and 46A
+
+Orders made by Family Court
+
+
+
+
+that are non-appealable
+
+No appeal is to be brought to the High Court in any of the following cases:
+
+(a) where a Family Court makes an order giving unconditional leave to defend any proceedings;
+
+(b) where a Family Court makes an order giving leave to defend any proceedings on condition that the party defending those proceedings pays into court or gives security for the sum claimed, except if the appellant is that party;
+
+(c) where a Family Court makes an order setting aside unconditionally a default judgment, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise);
+
+(d) where a Family Court makes an order setting aside a default judgment on condition that the party against whom the judgment had been entered pays into court or gives security for the sum claimed, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise), except if the appellant is that party.
+
+[Act 16 of 2016 wef 10/06/2016]
 
