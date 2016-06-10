@@ -710,11 +710,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) In subsection (2)(c), “representative” means —
 
-(a) the executor, administrator or next-of-kin of a deceased person;
+(a) the executor, administrator or next-of-kin of a deceased person; or
 
-(b) the deputy appointed or deemed to be appointed by the High Court for a person who lacks capacity under the Mental Capacity Act 2008, with power to consent to such disclosure.
+[Act 16 of 2016 wef 10/06/2016]
 
-[21/2008 wef 01/03/2010]
+(b) in relation to a person who lacks capacity within the meaning of the Mental Capacity Act (Cap. 177A) —
+
+(i) a donee of a lasting power of attorney which is granted by that person under the Mental Capacity Act, and under which that person confers on the donee authority to consent on that person’s behalf to such disclosure; or
+
+(ii) a deputy who is appointed or deemed to be appointed for that person by the court under the Mental Capacity Act, and who is conferred power to consent on that person’s behalf to such disclosure.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Service of documents
 
@@ -827,3 +833,7 @@ This Legislative History is provided for the convenience of users of the Medical
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|4.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
