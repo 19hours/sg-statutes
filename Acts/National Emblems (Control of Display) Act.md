@@ -70,7 +70,9 @@ An Act to control the display of national emblems.
 
 (ii) any person in the service of a Commonwealth Government or the government of any British dependency or possession or of the Republic of Ireland and officially recognised as representing that government in Singapore;
 
-(iii) any person upon whom the immunities and privileges referred to in Part II or Part III of the Schedule to the International Organisations (Immunities and Privileges) Act [Cap. 145] have been conferred under that Act; or
+(iii) any person upon whom the immunities and privileges referred to in Part II or Part III of the Second Schedule to the International Organisations (Immunities and Privileges) Act [Cap. 145] have been conferred under that Act; or
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (b) the display of any national emblem on any ship or aircraft.
 
@@ -127,3 +129,7 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of operation|1 July 1971|
 |7.|**1985 Revised Edition—National Emblems (Control of Display) Act (Chapter 196)**|
 ||Date of operation|30 March 1987|
+|8.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
