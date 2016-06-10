@@ -2425,7 +2425,9 @@ the Registrar may require the person to give security for the costs for the proc
 
 ### Appeals from Registrar
 
-75\.—(1) Except as provided under subsection (2) or by rules made under this Act, there shall be no appeal from a decision of the Registrar for any matter under this Act or the rules made thereunder.
+75\.—(1) Except as provided under subsections (2) and (3) or by rules made under this Act, there shall be no appeal from a decision of the Registrar for any matter under this Act or the rules made thereunder.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (2) The following shall be subject to appeal to the Court:
 
@@ -2438,6 +2440,10 @@ the Registrar may require the person to give security for the costs for the proc
 (d) decision of the Registrar relating to an application for a declaration of invalidity under section 23;
 
 (e) decision of the Registrar under section 67.
+
+(3) Where the Registrar makes a decision in any interlocutory proceedings between 2 or more parties, and the decision terminates any matter concerning a trade mark or an application for a trade mark, any of those parties who is adversely affected by the termination of the matter may appeal to the Court from the decision of the Registrar.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 Forms, fees, hours of business and publication
 
@@ -3703,6 +3709,10 @@ This Legislative History is provided for the convenience of users of the Trade M
 |||(Bill No. 14/2012 published on 14 May 2012)|
 ||Date of Second and Third Readings|10 July 2012|
 ||Date of commencement|13 November 2014|
+|18.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Trade Marks Act
