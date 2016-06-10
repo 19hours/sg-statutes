@@ -222,6 +222,14 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 (f) enter into such contracts as the Council considers necessary for the discharge of its functions;
 
+(fa) with the approval of the Minister —
+
+(i) impose fees or charges for services rendered by the Council and for the use of any facilities controlled or managed by the Council; and
+
+(ii) determine the amount of each such fee or charge;
+
+[Act 16 of 2016 wef 10/06/2016]
+
 (g) lend money to, and enter into guarantees on behalf of, any person in matters relating to sports and physical education; and
 
 (h) with the approval of the Minister, enter into joint ventures with any person or organisation, or cause to be formed under the provisions of the Companies Act (Cap. 50) an incorporated company or companies for the purpose of carrying out any of the functions of the Council.
@@ -392,7 +400,7 @@ MISCELLANEOUS
 
 (c) prescribing the manner and terms relating to the use of the National Stadium and other sports facilities and clubs under the control of the Council;
 
-(d) prescribing the fees or other charges to be levied for the use of the National Stadium and other sports facilities under the control of the Council;
+(d) [Deleted by Act 16 of 2016 wef 10/06/2016]
 
 (e) providing for the proper and efficient functioning of sports organisations;
 
@@ -521,6 +529,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|15 December 2004 (item (48) of the Schedule –– amendment of Singapore Sports Council Act)|
 |7.|**2014 Revised Edition—Singapore Sports Council Act (Chapter 305)**|
 ||Date of operation|30 November 2014|
+|8.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Singapore Sports Council Act
