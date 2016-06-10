@@ -280,7 +280,7 @@
 
 - [90 Damage to property of Agency to be made good in addition to penalty](#Damage-to-property-of-Agency-to-be-made-good-in-addition-to-penalty)
 
-- [91 Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
+- [91 Payment of fees, etc.](#Payment-of-fees-etc)
 
 - [92 Recovery of costs and expenses payable by owners](#Recovery-of-costs-and-expenses-payable-by-owners)
 
@@ -2608,11 +2608,15 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 [85
 
-### Fees, etc., payable to Agency
+### Payment of fees, etc.
 
-91\. All fees, charges and moneys collected under this Act, other than composition sums and financial penalties, shall be paid to the Agency.
+91\.—(1) Subject to subsection (2), all fees, charges and moneys collected under this Act are payable to the Agency.
 
-[Act 15 of 2014 wef 01/04/2014]
+(2) Any fee, charge or money collected under this Act may be paid to a person other than the Agency where the Agency has, with the approval of the Minister, made regulations under section 111 providing for that fee, charge or money to be payable to that person instead.
+
+(3) This section does not apply to composition sums in section 104 or financial penalties imposed under section 80K or 99.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 ### Recovery of costs and expenses payable by owners
 
@@ -2789,6 +2793,10 @@ the Director-General may —
 may, within 14 days of such refusal, suspension, cancellation, imposition of financial penalty or forfeiture, appeal to the Minister whose decision shall be final.
 
 [4/2002]
+
+(14A) Any financial penalty imposed on any person under this section is to be paid into the Consolidated Fund.
+
+[Act 16 of 2016 wef 10/06/2016]
 
 (15) In this section, “licence” includes any approval, permit, permission, authority, authorisation or licence which may be granted or renewed by the Director-General under this Act, but does not include a cleaning business licence granted or renewed under Part IXA.
 
@@ -3352,6 +3360,10 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of First Reading|28 January 2016 (Bill No. 7/2016 published on 28 January 2016)|
 ||Date of Second and Third Readings|1 March 2016|
 ||Date of commencement|1 May 2016|
+|22.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|10 June 2016|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
