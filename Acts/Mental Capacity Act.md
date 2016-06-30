@@ -44,7 +44,7 @@
 
 - [15 Revocation of lasting powers of attorney, etc.](#Revocation-of-lasting-powers-of-attorney-etc)
 
-- [16 Protection of donee and others if no power created or power revoked](#Protection-of-donee-and-others-if-no-power-created-or-power-revoked)
+- [16 Protection of donees and others if lasting power of attorney not validly created, revoked or suspended, etc.](#Protection-of-donees-and-others-if-lasting-power-of-attorney-not-validly-created-revoked-or-suspended-etc)
 
 - [17 Powers of court in relation to validity of lasting powers of attorney](#Powers-of-court-in-relation-to-validity-of-lasting-powers-of-attorney)
 
@@ -84,15 +84,17 @@
 
 - [32 Powers of investigation by Public Guardian](#Powers-of-investigation-by-Public-Guardian)
 
-- [33 Public Guardian Board](#Public-Guardian-Board)
+- [33 Appointment of auditors](#Appointment-of-auditors)
 
-- [34 Annual report](#Annual-report)
+- [34 Protection from personal liability](#Protection-from-personal-liability)
 
 - [35 Board of Visitors](#Board-of-Visitors)
 
 [**Part VIII SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT**](#Part-VIII)
 
 - [36 Interim orders and directions](#Interim-orders-and-directions)
+
+- [36A Orders of suspension](#Orders-of-suspension)
 
 - [37 Power to call for reports](#Power-to-call-for-reports)
 
@@ -109,6 +111,10 @@
 - [42 Ill-treatment](#Ill-treatment)
 
 - [43 Information relating to persons who lack capacity](#Information-relating-to-persons-who-lack-capacity)
+
+- [43A Notification of change of address](#Notification-of-change-of-address)
+
+- [43B General exemption](#General-exemption)
 
 - [44 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
@@ -170,7 +176,9 @@ PRELIMINARY
 
 “property” includes any thing in action and any interest in real or personal property;
 
-“Public Guardian” has the meaning given to it in section 30;
+“Public Guardian” means the Public Guardian appointed under section 30(1) and, unless the context otherwise requires, includes any Assistant Public Guardian appointed under section 30(1A);
+
+[Act 10 of 2016 wef 30/06/2016]
 
 “registered medical practitioner” means any person who is registered as a medical practitioner under the Medical Registration Act (Cap. 174);
 
@@ -462,9 +470,15 @@ confers no authority.
 
 (a) cannot give the donee (or, if more than one, any of them) power to appoint a substitute or successor; but
 
-(b) may itself appoint a person to replace the donee (or, if more than one, any of them) on the occurrence of an event mentioned in section 15(5)(a) to (d) which has the effect of terminating the donee’s appointment.
+(b) may itself appoint a person (called in subsection (9) the replacement donee) to replace the donee (or, if more than one, any of them) on the occurrence of an event mentioned in section 15(5)(a) to (d) which has the effect of terminating the donee’s appointment.
+
+[Act 10 of 2016 wef 30/06/2016]
 
 [UK MCA 2005, s. 10]
+
+(9) To avoid doubt, an instrument used to create a lasting power of attorney cannot itself appoint a person to replace the replacement donee.
+
+[Act 10 of 2016 wef 30/06/2016]
 
 ### Lasting powers of attorney: restrictions
 
@@ -578,33 +592,37 @@ and in this section, references to revoking the power include revoking the instr
 
 [UK MCA 2005, s. 13]
 
-### Protection of donee and others if no power created or power revoked
+### Protection of donees and others if lasting power of attorney not validly created, revoked or suspended, etc.
 
-16\.—(1) Subsections (2) and (3) apply if —
+16\.—(1) This section applies where —
 
-(a) an instrument has been registered under the First Schedule as a lasting power of attorney; but
+(a) an instrument purporting to create a lasting power of attorney has been registered under the First Schedule, but a lasting power of attorney was not validly created, whether or not the registration is cancelled at the time of the act or transaction in question; or
 
-(b) a lasting power of attorney was not created,
+(b) a lasting power of attorney, or a power under a lasting power of attorney, is revoked or suspended.
 
-whether or not the registration has been cancelled at the time of the act or transaction in question.
+(2) A donee who does an act that would have been within the scope of the lasting power of attorney without knowing of the non‑existence, revocation or suspension of the lasting power of attorney or the power under the lasting power of attorney does not incur any liability to P or any other person, despite the non‑existence, revocation or suspension.
 
-(2) A donee who acts in purported exercise of the power does not incur any liability (to P or any other person) because of the non-existence of the power unless at the time of acting he —
+(3) If a lasting power of attorney or a power under a lasting power of attorney is non‑existent, revoked or suspended, a person (called in this section a third party) who deals or otherwise transacts in good faith with the donee, without knowing of the non‑existence, revocation or suspension, is entitled to rely on the lasting power of attorney or the power under the lasting power of attorney in relation to that dealing or transaction in the same manner and to the same extent as if the lasting power of attorney or the power under the lasting power of attorney exists or had not been revoked or suspended.
 
-(a) knows that a lasting power of attorney was not created; or
+(4) It is conclusively presumed in favour of a purchaser from a third party who dealt or otherwise transacted with a donee that the dealing or transaction was valid if —
 
-(b) is aware of circumstances which, if a lasting power of attorney had been created, would have terminated his authority to act as a donee.
+(a) the dealing or transaction was completed within 12 months after the date on which the instrument intending to create a lasting power of attorney was registered; or
 
-(3) Any transaction between the donee and another person is, in favour of that person, as valid as if the power had been in existence, unless at the time of the transaction that person has knowledge of a matter referred to in subsection (2).
+(b) the third party makes a statutory declaration, before, on or within 3 months after, the completion of the purchase by the purchaser, that the third party had no reason at the time of the dealing or transaction with the donee to doubt the donee’s authority to deal or transact.
 
-(4) If the interest of a purchaser depends on whether a transaction between the donee and the other person was valid by virtue of subsection (3), it is conclusively presumed in favour of the purchaser that the transaction was valid if —
+(5) In subsection (4), “purchaser” means a person claiming through the third party and who acquires the property in good faith and for valuable consideration.
 
-(a) the transaction was completed within 12 months of the date on which the instrument was registered; or
+(6) For the purposes of this section, knowledge that a lasting power of attorney or a power under a lasting power of attorney does not exist or has been revoked or suspended includes knowledge of the happening of any event —
 
-(b) the other person makes a statutory declaration, before or within 3 months after the completion of the purchase, that he had no reason at the time of the transaction to doubt that the donee had authority to dispose of the property which was the subject of the transaction.
+(a) which prevents the lasting power of attorney from being created; or
 
-(5) Where 2 or more donees are appointed under a lasting power of attorney, this section applies as if references to the donee were to all or any of them.
+(b) which has the effect of revoking or suspending the lasting power of attorney or the power under the lasting power of attorney.
 
-[UK MCA 2005, s. 14]
+(7) In this section, where 2 or more donees are appointed under a lasting power of attorney, a reference to the donee is a reference to all or any of the donees.
+
+(8) This section applies only to acts and transactions made on or after the date of commencement of section 4 of the Mental Capacity (Amendment) Act 2016, whether the lasting power of attorney or the power under the lasting power of attorney is created or purported to be created, or revoked or suspended, before, on or after that date.
+
+[Act 10 of 2016 wef 30/06/2016]
 
 ### Powers of court in relation to validity of lasting powers of attorney
 
@@ -990,7 +1008,17 @@ PUBLIC GUARDIAN AND BOARD OF VISITORS
 
 30\.—(1) For the purposes of this Act, there shall be an officer known as the Public Guardian to be appointed by the Minister.
 
-(2) If the Public Guardian is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any reason temporarily unable to perform his duties, the Minister may appoint a person to act in the place of the Public Guardian during any such period of absence from duty.
+(1A) The Minister may appoint such number of Assistant Public Guardians as the Minister thinks necessary to assist the Public Guardian in the proper discharge of the Public Guardian’s functions.
+
+[Act 10 of 2016 wef 30/06/2016]
+
+(1B) An Assistant Public Guardian may exercise all the powers of the Public Guardian, except the powers exercisable under subsections (3) and (4).
+
+[Act 10 of 2016 wef 30/06/2016]
+
+(2) If the Public Guardian is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any reason temporarily unable to perform his duties, the Minister may appoint an Assistant Public Guardian or any other person to act in the place of the Public Guardian during any such period of absence from duty.
+
+[Act 10 of 2016 wef 30/06/2016]
 
 (3) The Public Guardian may in writing appoint any public officer as an authorised officer for the purposes of this Act.
 
@@ -1004,7 +1032,9 @@ PUBLIC GUARDIAN AND BOARD OF VISITORS
 
 (8) Subsections (5) and (6) are without prejudice to any right of disclosure under this Act or any other written law or rule of law.
 
-(9) The Public Guardian shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+(9) The Public Guardian and every Assistant Public Guardian are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 10 of 2016 wef 30/06/2016]
 
 ### Functions of Public Guardian
 
@@ -1120,49 +1150,33 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Charities Act 2007 Ed., ss. 9, 10, 11(3), 11(4); Competition Act 2006 Ed., ss. 66(3), 75(3)]
 
-### Public Guardian Board
+### Appointment of auditors
 
-33\.—(1) There shall be a body to be known as the Public Guardian Board (referred to in this section as the Board).
+33\.—(1) Without prejudice to the Public Guardian’s functions and powers under this Act, the Public Guardian may appoint in writing an auditor to assist the Public Guardian in examining, either generally or in relation to any particular matter —
 
-(2) The Board’s duty is to scrutinise and review the way in which the Public Guardian discharges his functions and to make such recommendations to the Minister about that matter as it thinks appropriate.
+(a) any report of a donee of a lasting power of attorney or of a deputy appointed by the court; and
 
-(3) The Minister must, in discharging his functions under sections 30 and 31, give due consideration to recommendations made by the Board.
+(b) any book, document, electronic computing or storage device or information obtained or received by the Public Guardian in the discharge or exercise of the Public Guardian’s functions or powers under this Act.
 
-(4) The members of the Board are to be appointed by the Minister.
+(2) A person is not qualified for appointment as an auditor under subsection (1) unless the person is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
 
-(5) The Board shall have —
+(3) For the purposes of this section, the Public Guardian may disclose to an auditor appointed under subsection (1) any book, document, electronic computing or storage device or information obtained or received by the Public Guardian under this Act, where the disclosure is necessary to enable the auditor to carry out an examination under subsection (1).
 
-(a) at least one member who is a District Judge; and
+(4) The auditor must, upon completion of the examination under subsection (1), submit a report to the Public Guardian.
 
-(b) at least 4 members who are persons appearing to the Minister to have appropriate knowledge or experience of the work of the Public Guardian.
+[Act 10 of 2016 wef 30/06/2016]
 
-(6) The Minister may, by regulations, make provision as to —
+### Protection from personal liability
 
-(a) the appointment of members of the Board (and, in particular, the procedures to be followed in connection with appointments);
+34\. No liability shall lie personally against any of the following individuals who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act:
 
-(b) the selection of one of the members to be the chairman;
+(a) the Public Guardian, any Assistant Public Guardian, any authorised officer or any person acting under the direction of the Public Guardian or an Assistant Public Guardian;
 
-(c) the term of office of the chairman and members;
+(b) any member of the Board of Visitors;
 
-(d) their resignation, suspension or removal;
+(c) any auditor appointed under section 33.
 
-(e) the procedure of the Board (including quorum);
-
-(f) the validation of proceedings in the event of a vacancy among the members or a defect in the appointment of a member.
-
-(7) Subject to any regulation made under subsection (6)(c) or (d), a person is to hold and vacate office as a member of the Board in accordance with the terms of the instrument appointing him.
-
-(8) The Minister may make such payments to or in respect of members of the Board by way of reimbursement of expenses, allowances and remuneration as he may determine.
-
-(9) The Board shall make an annual report to the Minister about the discharge of its functions.
-
-[UK MCA 2005, s. 59]
-
-### Annual report
-
-34\. The Public Guardian shall make an annual report to the Minister about the discharge of his functions.
-
-[UK MCA 2005, s. 60]
+[Act 10 of 2016 wef 30/06/2016]
 
 ### Board of Visitors
 
@@ -1217,6 +1231,54 @@ SUPPLEMENTARY POWERS, PRACTICE AND PROCEDURE OF COURT
 (c) it is in P’s best interests to make the order, or give the directions, without delay.
 
 [UK MCA 2005, s. 48]
+
+### Orders of suspension
+
+36A\.—(1) Despite section 36, on the application of a person mentioned in subsection (2), the court may make an order to suspend, for such period as the court thinks fit, all or any of the powers of P’s donee or deputy (called in this section an order of suspension) even where no application has been made to the court in relation to P.
+
+(2) The following persons may apply to the court for an order of suspension:
+
+(a) the Public Guardian;
+
+(b) a person mentioned in section 38(1)(a), (b) or (c);
+
+(c) any other person, but only with the permission of the court.
+
+(3) The court may make an order of suspension under subsection (1) if the court has reason to believe that —
+
+(a) P lacks capacity;
+
+(b) the donee or deputy —
+
+(i) is charged on or after the date of commencement of section 13 of the Mental Capacity (Amendment) Act 2016 (but not before the donee’s or deputy’s appointment under the lasting power of attorney or by the court, as the case may be) with an offence (whenever committed) of criminal misappropriation, criminal breach of trust, cheating, theft or extortion or any other offence involving fraud or dishonesty, whether as against P or another person; or
+
+(ii) engages, proposes to engage or has engaged (whether before, on or after the date of commencement of section 13 of the Mental Capacity (Amendment) Act 2016) in conduct that —
+
+(A) affects the suitability of the donee or deputy concerned to act as a donee or deputy; or
+
+(B) compromises P’s best interests in relation to P’s personal welfare or P’s property and affairs,
+
+whether or not the donee or deputy concerned is acting under a lasting power of attorney or court order, as the case may be; and
+
+(c) there is a risk of dissipation of P’s property by the donee or deputy concerned if the order of suspension is not made.
+
+(4) The court may make further orders or give directions as the court thinks necessary or expedient for giving effect to, or otherwise in connection with, an order of suspension.
+
+(5) An order of suspension may be varied or discharged by a subsequent order.
+
+(6) In this section, “P” means the person who lacks capacity and —
+
+(a) before lacking capacity, has conferred a lasting power of attorney on one or more donees; or
+
+(b) in respect of whom the court has appointed one or more deputies.
+
+(7) In this section —
+
+(a) where 2 or more donees are appointed under a lasting power of attorney, a reference to the donee is a reference to all or any of the donees; and
+
+(b) where 2 or more deputies are appointed by the court for P, a reference to the deputy is a reference to all or any of the deputies.
+
+[Act 10 of 2016 wef 30/06/2016]
 
 ### Power to call for reports
 
@@ -1489,6 +1551,26 @@ and P is 16 years of age or above.
 (5) In this section, “court” means any court of competent jurisdiction.
 
 [CYPA 2001 Ed., s. 87]
+
+### Notification of change of address
+
+43A\.—(1) Subject to subsection (2), every donor and donee of a lasting power of attorney and every deputy appointed by the court must inform the Public Guardian in writing of any change in —
+
+(a) where the donor, donee or deputy is an individual, the place of residence of the donor, donee or deputy, as the case may be; and
+
+(b) where the donee or deputy is a person other than an individual, the registered business address of the donee or deputy, as the case may be.
+
+(2) If a donor, donee or deputy changes his place of residence and reports the change under section 8 of the National Registration Act (Cap. 201), that donor, donee or deputy, as the case may be, is taken to have informed the Public Guardian of the change of that place of residence in accordance with subsection (1)(a).
+
+(3) Where a person (“P”) lacks capacity, a donee of a lasting power of attorney created by P or a deputy appointed by the court for P, as the case may be, may on P’s behalf inform the Public Guardian in writing of any change in P’s place of residence.
+
+[Act 10 of 2016 wef 30/06/2016]
+
+### General exemption
+
+43B\. The Minister may, by order published in theGazette, exempt any person or class of persons from all or any provisions of this Act or the regulations, either generally or in a particular case and subject to such conditions as the Minister may impose.
+
+[Act 10 of 2016 wef 30/06/2016]
 
 ### Jurisdiction of District Court
 
@@ -2172,3 +2254,7 @@ This Legislative History is provided for the convenience of users of the Mental 
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 January 2015|
+|10.|**Act 10 of 2016—Mental Capacity (Amendment) Act 2016**|
+||Date of First Reading|29 February 2016 (Bill No. 11/2016 published on 29 February 2016)|
+||Date of Second and Third Readings|14 March 2016|
+||Date of commencement|30 June 2016|
