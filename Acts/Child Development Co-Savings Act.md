@@ -72,6 +72,12 @@
 
 - [12K Shared parental leave and paternity leave benefits for child delivered between 1st January 2013 and 30th April 2013](#Shared-parental-leave-and-paternity-leave-benefits-for-child-delivered-between-1st-January-2013-and-30th-April-2013)
 
+- [12KA Application of sections 12KB and 12KC](#Application-of-sections-12KB-and-12KC)
+
+- [12KB Reimbursement of employer by Government for extra leave granted to employee‑father, etc.](#Reimbursement-of-employer-by-Government-for-extra-leave-granted-to-employee‑father-etc)
+
+- [12KC Claim of self-employed man from Government for extra paternity break, etc.](#Claim-of-self-employed-man-from-Government-for-extra-paternity-break-etc)
+
 - [12L Payments to include holidays](#Payments-to-include-holidays)
 
 - [12M No payment under this Part on certain days for employee on leave of absence without pay](#No-payment-under-this-Part-on-certain-days-for-employee-on-leave-of-absence-without-pay)
@@ -230,11 +236,19 @@ CHILD DEVELOPMENT CO-SAVINGS SCHEME
 
 3\.—(1) The Minister may by regulations establish a scheme to be called the Child Development Co-Savings Scheme —
 
-(a) to encourage married women to have more children, by the provision of financial assistance for the development of the children of families through a co-savings arrangement under the Scheme whereby the Government will make contributions, to the bank account of a child who is eligible for that arrangement, equal to the contributions made by or on behalf of any parent of the child;
+(a) to encourage married women to have more children, by the provision of financial assistance for the development of the children of families through a co-savings arrangement;
+
+[Act 17 of 2016 wef 01/07/2016]
+
+(aa) to provide financial assistance for the development of any other child through a co‑savings arrangement;
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (b) to facilitate the provision of cash grants made by the Government from time to time for the development of children;
 
-(c) to facilitate the making of financial provision for the development of a child, whether or not the child is eligible for the co-savings arrangement referred to in paragraph (a), through the making of contributions to the child’s bank account by or on behalf of any parent of the child; and
+(c) to facilitate the making of financial provision for the development of a child, whether or not the child is eligible for a co‑savings arrangement, through the making of contributions to the child’s bank account by or on behalf of any parent of the child; and
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (d) to make financial provision for a child whose parents have obtained a judgment for the dissolution or annulment of their marriage or judicial separation, through the transfer of matrimonial assets divided between the parents by a court pursuant to the divorce, annulment or judicial separation proceedings into the child’s bank account.
 
@@ -248,9 +262,11 @@ CHILD DEVELOPMENT CO-SAVINGS SCHEME
 
 (b) the appointment of one or more managing agents responsible for the operation and administration of the Scheme and the powers, functions and duties of such managing agents, including the duty of such managing agents to comply with any requirement relating to confidentiality of information;
 
-(c) the payment of contributions to the Scheme by or on behalf of any parent of a member, whether or not the member is eligible for the co-savings arrangement referred to in subsection (1)(a);
+(c) the payment of contributions to the Scheme by or on behalf of any parent of a member, whether or not the member is eligible for a co‑savings arrangement;
 
 [13/2011 wef 01/05/2011]
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (d) the payment of moneys to a member, and the amount, mode, manner and terms and conditions of any such payment;
 
@@ -275,6 +291,10 @@ CHILD DEVELOPMENT CO-SAVINGS SCHEME
 (k) different provisions in respect of a child eligible for membership of the Scheme whose parents have not attained the age of majority.
 
 [13/2011 wef 01/05/2011]
+
+(3) In this section, “co‑savings arrangement”, in relation to a child, means an arrangement whereby the Government makes contributions to the bank account of a child eligible for that arrangement, equal to the contributions made by or on behalf of any parent of the child.
+
+[Act 17 of 2016 wef 01/07/2016]
 
 ### Compulsory substitution of trustee
 
@@ -1482,23 +1502,33 @@ she shall be entitled to claim from the Government, in accordance with any regul
 
 ### Recovery of payment by Government and employer
 
-11\.—(1) Where any payment has been made by an employer or the Government to an employee, or by the Government to a self‑employed person under section 9, 10A, 12A, 12AA, 12AB, 12E, 12H or 12K, as the case may be, by reason of a mistake of fact or in reliance on any false or misleading statement or document made or furnished by that employee or self-employed person —
+11\.—(1) Where any payment has been made by an employer or the Government to an employee, or by the Government to a self‑employed person under section 9, 10A, 12A, 12AA, 12AB, 12E, 12H, 12K, 12KB or 12KC, as the case may be, by reason of a mistake of fact or in reliance on any false or misleading statement or document made or furnished by that employee or self-employed person —
 
-(a) the employer (who is not the Government) may, if he has not been reimbursed by the Government for the payment to the employee under section 9, 10A, 12A, 12AA, 12E, 12H or 12K, as the case may be, recover the payment directly from the employee;
+(a) the employer (who is not the Government) may, if he has not been reimbursed by the Government for the payment to the employee under section 9, 10A, 12A, 12AA, 12E, 12H, 12K or 12KB, as the case may be, recover the payment directly from the employee;
 
-(b) in the case of a payment made by the employer (who is the Government) or by the Government to an employee under section 9, 10A, 12A, 12AA, 12E, 12H or 12K, as the case may be, the Government may recover the payment or part thereof from the employee as a civil debt; and
+[Act 17 of 2016 wef 01/07/2016]
+
+(b) in the case of a payment made by the employer (who is the Government) or by the Government to an employee under section 9, 10A, 12A, 12AA, 12E, 12H, 12K or 12KB, as the case may be, the Government may recover the payment or part thereof from the employee as a civil debt; and
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (c) the Government may —
 
-(i) where it has reimbursed the employer under section 10, 10A, 12A, 12AD, 12G, 12J or 12K, as the case may be, for the whole or any part of the payment to the employee, recover the payment or part thereof from the employee as a civil debt; or
+(i) where it has reimbursed the employer under section 10, 10A, 12A, 12AD, 12G, 12J, 12K or 12KB, as the case may be, for the whole or any part of the payment to the employee, recover the payment or part thereof from the employee as a civil debt; or
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (ii) where the payment is made to a self-employed person, recover the payment from that person as a civil debt.
 
 [Act 12 of 2013 wef 01/05/2013]
 
-(2) Where the Government is satisfied that an employer, despite all reasonable efforts to recover under subsection (1)(a) from his employee any payment he made under section 9, 10A, 12A, 12AA, 12E, 12H or 12K to the employee, has been unable to recover the whole or any part of the payment successfully, the Government shall reimburse the employer under section 10, 10A, 12A, 12AD, 12G, 12J or 12K, as the case may be, for the payment or part thereof not recovered by the employer.
+[Act 17 of 2016 wef 01/07/2016]
+
+(2) Where the Government is satisfied that an employer, despite all reasonable efforts to recover under subsection (1)(a) from his employee any payment he made under section 9, 10A, 12A, 12AA, 12E, 12H, 12K or 12KB to the employee, has been unable to recover the whole or any part of the payment successfully, the Government shall reimburse the employer under section 10, 10A, 12A, 12AD, 12G, 12J, 12K or 12KB, as the case may be, for the payment or part thereof not recovered by the employer.
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (3) Where any payment has been made by an employer to an employee under section 12B by reason of a mistake of fact, in reliance on any false or misleading statement or document made or furnished by the employee, or for any childcare leave or extended childcare leave taken by the employee in any relevant period which is in excess of the childcare leave or extended childcare leave to which the employee is entitled under that section for that relevant period —
 
@@ -1520,7 +1550,7 @@ she shall be entitled to claim from the Government, in accordance with any regul
 
 [28/2008 wef 31/10/2008]
 
-(6) Where the Government has reimbursed an employer under section 10, 10A, 12A, 12AD, 12C, 12CA, 12G, 12J or 12K for any payment made by the employer to his employee, and the employer recovers the same payment or any part thereof directly from his employee under subsection (1)(a) or (3)(a), as the case may be —
+(6) Where the Government has reimbursed an employer under section 10, 10A, 12A, 12AD, 12C, 12CA, 12G, 12J, 12K or 12KB for any payment made by the employer to his employee, and the employer recovers the same payment or any part thereof directly from his employee under subsection (1)(a) or (3)(a), as the case may be —
 
 (a) the employer shall refund to the Government the amount of the payment or part thereof recovered from his employee within one month from the later of the following dates:
 
@@ -1533,6 +1563,8 @@ she shall be entitled to claim from the Government, in accordance with any regul
 [28/2008 wef 31/10/2008]
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (7) Any employer who contravenes subsection (6)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
@@ -1566,9 +1598,11 @@ she shall be entitled to claim from the Government, in accordance with any regul
 
 (2) Parts XIII, XV and XVI of the Employment Act (Cap. 91) and such other provisions of that Act as the Minister for Manpower may by order specify shall apply, with such exceptions, adaptations and modifications as may be prescribed in the order, in relation to —
 
-(a) any employer or employee to whom section 9, 10A, 12AA, 12B, 12D, 12E, 12H or 12K applies;
+(a) any employer or employee to whom section 9, 10A, 12AA, 12B, 12D, 12E, 12H, 12K or 12KB applies;
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (b) any dispute under this Part, or under any regulations made under section 20, between any such employer and any such employee; and
 
@@ -2634,6 +2668,96 @@ he shall be entitled to claim from the Government, in accordance with any regula
 
 [Act 12 of 2013 wef 01/05/2013]
 
+### Application of sections 12KB and 12KC
+
+12KA\. Sections 12KB and 12KC apply to and in relation to a father of —
+
+(a) a child who is or was born —
+
+(i) on or after 1 January 2015; or
+
+(ii) before 1 January 2015, despite the estimated delivery date for the mother’s confinement (as certified by a medical practitioner) being on or after 1 January 2015; or
+
+(b) a child who is an adopted child, where —
+
+(i) if the child is a citizen of Singapore, the application to adopt the child is or was made on or after 1 January 2015; or
+
+(ii) if the child is not a citizen of Singapore, the dependant’s pass in respect of the child is or was issued on or after 1 January 2015.
+
+[Act 17 of 2016 wef 01/07/2016]
+
+### Reimbursement of employer by Government for extra leave granted to employee‑father, etc.
+
+12KB\.—(1) Where the father of a child —
+
+(a) is a male employee;
+
+(b) was or is entitled to paternity leave from his employer under section 12H(1) in relation to the child;
+
+(c) was or is granted, in relation to the child, leave (continuous or otherwise) by his employer that is in excess of his entitlement to paternity leave under section 12H(1) (called in this section extra leave); and
+
+(d) has taken or takes the extra leave —
+
+(i) on or after 24 August 2015; but
+
+(ii) within the window period that would be applicable if the extra leave were paternity leave,
+
+the father’s employer is entitled to claim reimbursement from the Government for any reimbursable payment made by the employer to the father for the period of extra leave.
+
+(2) In subsection (1), a reimbursable payment by an employer to a male employee is $2,500, or the total of the following if lower:
+
+(a) the amount of the gross rate of pay which the employer paid to the male employee during so much of the male employee’s extra leave —
+
+(i) not exceeding a period of one week; or
+
+(ii) not exceeding the shorter of the 2 periods mentioned in section 12H(1)(b), if the extra leave is in one or more periods;
+
+(b) the contribution, if any, made by the employer under the Central Provident Fund Act (Cap. 36) in respect of the employee’s gross rate of pay that is paid as provided in paragraph (a) and which is not recoverable from the employee’s wages.
+
+(3) However, where an employer is reimbursed by the Government under subsection (1) for extra leave taken by an adoptive father who is an employee of the employer in relation to a child who is to be adopted, but the child —
+
+(a) is not adopted by the employee within 12 months starting on the date the application to adopt the child is made, or the dependant’s pass in respect of the child is issued, as the case may be; and
+
+(b) where the child is not a citizen of Singapore by birth, does not become a citizen of Singapore within 6 months starting on the date the child is adopted by that employee,
+
+the Government may recover as a civil debt the amount of reimbursement from the adoptive father, whether or not an employee still, and whether or not the child is eventually adopted.
+
+(4) In this section and section 12KC —
+
+“adoptive father” includes a man who applies or who intends to apply to adopt a child in accordance with any written law relating to the adoption of children;
+
+“father”, in relation to a child, means a natural father or adoptive father of the child;
+
+“paternity leave” means the duration of leave to which a father of a child is entitled under section 12H(1) to take from his employer in relation to the child;
+
+“window period”, in relation to the taking of extra leave by a father of a child, means the period mentioned in section 12H(1)(a) or (b) within which the father of the child must consume the paternity leave for that child.
+
+[Act 17 of 2016 wef 01/07/2016]
+
+### Claim of self-employed man from Government for extra paternity break, etc.
+
+12KC\.—(1) Where the father of a child —
+
+(a) is a self-employed man;
+
+(b) was or is entitled under section 12H(4) to claim from the Government in relation to the child the income he would otherwise have derived from his trade, business, profession or vocation (called in this section trade) during one or more periods mentioned in section 12H(4)(a);
+
+(c) ceased or ceases, on or after 24 August 2015, in relation to the child, to be actively engaged in his trade for one or more periods that is in excess of any period mentioned in section 12H(4)(a) (called in this section extra break), and takes the extra break within the 12‑month period mentioned in that provision; and
+
+(d) suffers loss of income because he ceased or ceases to be actively engaged in his trade during the whole or part of the extra break mentioned in paragraph (c),
+
+the father is entitled to claim from the Government the amount of the lost income mentioned in paragraph (d) for all or any period of the extra break, the total of which must not exceed the shorter of the 2 periods mentioned in section 12H(4)(a), or $2,500, whichever is the lower.
+
+(2) However, where any payment has been made by the Government to an adoptive father under subsection (1) for extra break in relation to a child who is to be adopted, but the child —
+
+(a) is not adopted by the adoptive father within 12 months starting on the date the application to adopt the child is made, or the dependant’s pass in respect of the child is issued, as the case may be; and
+
+(b) where the child is not a citizen of Singapore by birth, does not become a citizen of Singapore within 6 months starting on the date the child is adopted by that employee,
+
+the Government may recover as a civil debt the payment from the adoptive father, whether or not self‑employed still, and whether or not the child is eventually adopted.
+
+[Act 17 of 2016 wef 01/07/2016]
+
 ### Payments to include holidays
 
 12L\.—(1) For the avoidance of doubt, the payment for any benefit period referred to in sections 12AA, 12AB, 12E and 12H shall be paid for every day of the benefit period, including holidays.
@@ -2708,17 +2832,21 @@ MISCELLANEOUS
 
 [Act 12 of 2013 wef 01/05/2013]
 
-(dc) the entitlement of a self-employed man to any payment under section 12E, 12H or 12K;
+(dc) the entitlement of a self-employed man to any payment under section 12E, 12H, 12K or 12KC;
 
 [Act 12 of 2013 wef 01/05/2013]
 
-(e) the entitlement of an employer to reimbursement from the Government under section 10, 10A, 11, 12A, 12AD, 12C, 12CA, 12G, 12J or 12K; or
+[Act 17 of 2016 wef 01/07/2016]
+
+(e) the entitlement of an employer to reimbursement from the Government under section 10, 10A, 11, 12A, 12AD, 12C, 12CA, 12G, 12J, 12K or 12KB; or
 
 [42/2004 wef 01/10/2004]
 
 [28/2008 wef 31/10/2008]
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (f) such other matter under Part II or III as the Minister may determine,
 
@@ -2834,7 +2962,9 @@ he, as well as the body corporate, shall be guilty of that offence and shall be 
 
 (a) the terms and conditions, manner and method of —
 
-(i) any payment to any female or male employee or self-employed man or woman under section 9, 10A, 12A, 12AA, 12AB, 12E, 12H or 12K, as the case may be; and
+(i) any payment to any female or male employee or self-employed man or woman under section 9, 10A, 12A, 12AA, 12AB, 12E, 12H, 12K, 12KB or 12KC, as the case may be; and
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (ii) any payment to any employee or self-employed person under section 12B;
 
@@ -2842,25 +2972,33 @@ he, as well as the body corporate, shall be guilty of that offence and shall be 
 
 (b) the manner of and method for determining —
 
-(i) the income which a self-employed man or woman is entitled to claim from the Government under section 9, 10A, 12A, 12AB, 12E, 12H or 12K, as the case may be; and
+(i) the income which a self-employed man or woman is entitled to claim from the Government under section 9, 10A, 12A, 12AB, 12E, 12H, 12K or 12KC, as the case may be; and
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (ii) the income which a self-employed person is entitled to claim from the Government under section 12B;
 
 [Act 12 of 2013 wef 01/05/2013]
 
-(c) the manner of and method for determining the amount of reimbursement which an employer is entitled to claim under section 10, 10A, 12A, 12AD, 12C, 12CA, 12G, 12J or 12K and the terms and conditions subject to which the employer may be reimbursed;
+(c) the manner of and method for determining the amount of reimbursement which an employer is entitled to claim under section 10, 10A, 12A, 12AD, 12C, 12CA, 12G, 12J, 12K or 12KB and the terms and conditions subject to which the employer may be reimbursed;
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (d) the authority responsible for the assessment and payment of —
 
-(i) the income which a self-employed man or woman is entitled to claim under section 9, 10A, 12A, 12AB, 12E, 12H or 12K, as the case may be;
+(i) the income which a self-employed man or woman is entitled to claim under section 9, 10A, 12A, 12AB, 12E, 12H, 12K or 12KC, as the case may be;
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (ii) the income which a self-employed person is entitled to claim under section 12B; and
 
-(iii) the reimbursement which an employer is entitled to claim under section 10, 10A, 12A, 12AD, 12C, 12CA, 12G, 12J or 12K;
+(iii) the reimbursement which an employer is entitled to claim under section 10, 10A, 12A, 12AD, 12C, 12CA, 12G, 12J, 12K or 12KB;
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[Act 17 of 2016 wef 01/07/2016]
 
 (e) the registers and records to be maintained for the purposes of Part III and the forms and contents thereof; and
 
@@ -3233,3 +3371,7 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of First Reading|13 July 2015 (Bill No. 23/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|17 August 2015|
 ||Date of commencement|22 August 2015|
+|15.|**Act 17 of 2016—Child Development Co-Savings (Amendment) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 17/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|1 July 2016|
