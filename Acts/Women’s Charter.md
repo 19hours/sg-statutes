@@ -68,7 +68,7 @@
 
 - [26 Appointment of Registrar, Assistant Registrars and Deputy Registrars](#Appointment-of-Registrar-Assistant-Registrars-and-Deputy-Registrars)
 
-- [27 Books and registers](#Books-and-registers)
+- [27 State Marriage Register](#State-Marriage-Register)
 
 - [28 Registration of marriage solemnized by Registrar](#Registration-of-marriage-solemnized-by-Registrar)
 
@@ -98,15 +98,15 @@
 
 - [40 Offences relating to solemnization of marriages](#Offences-relating-to-solemnization-of-marriages)
 
-- [41 Destroying or falsifying register of marriages](#Destroying-or-falsifying-register-of-marriages)
+- [41 Destroying or falsifying State Marriage Register, etc.](#Destroying-or-falsifying-State-Marriage-Register-etc)
 
 - [42 Consent for prosecution](#Consent-for-prosecution)
 
 - [43 Correction of errors](#Correction-of-errors)
 
-- [44 Inspection and search](#Inspection-and-search)
+- [44 (Repealed)](#Repealed)
 
-- [45 Proof](#Proof)
+- [45 (Repealed)](#Repealed)
 
 [**Part VI RIGHTS AND DUTIES OF HUSBAND AND WIFE**](#Part-VI)
 
@@ -118,7 +118,7 @@
 
 - [49 Duty of judge to consider possibility of reconciliation](#Duty-of-judge-to-consider-possibility-of-reconciliation)
 
-- [50 Court may refer parties for mediation or to attend counselling](#Court-may-refer-parties-for-mediation-or-to-attend-counselling)
+- [50 Court may refer parties for mediation, etc.](#Court-may-refer-parties-for-mediation-etc)
 
 - [51 Capacity of married women](#Capacity-of-married-women)
 
@@ -156,11 +156,11 @@
 
 - [67 Supplementary provisions with respect to orders under sections 65 and 66](#Supplementary-provisions-with-respect-to-orders-under-sections-65-and-66)
 
-[**Part VIII MAINTENANCE OF WIFE AND CHILDREN**](#Part-VIII)
+[**Part VIII MAINTENANCE OF WIFE, INCAPACITATED HUSBAND AND CHILDREN**](#Part-VIII)
 
 - [68 Duty of parents to maintain children](#Duty-of-parents-to-maintain-children)
 
-- [69 Court may order maintenance of wife and children](#Court-may-order-maintenance-of-wife-and-children)
+- [69 Court may order maintenance of wife, incapacitated husband and children](#Court-may-order-maintenance-of-wife-incapacitated-husband-and-children)
 
 - [70 Duty to maintain child accepted as member of family](#Duty-to-maintain-child-accepted-as-member-of-family)
 
@@ -188,7 +188,7 @@
 
 - [79 Procedure](#Procedure)
 
-- [79A Service of summons](#Service-of-summons)
+- [79A (Repealed)](#Repealed)
 
 [**Part IX ENFORCEMENT OF MAINTENANCE ORDERS**](#Part-IX)
 
@@ -310,7 +310,7 @@
 
 - [123 Arrangements for welfare of children](#Arrangements-for-welfare-of-children)
 
-- [124 Custody of children](#Custody-of-children)
+- [124 Orders on welfare of children](#Orders-on-welfare-of-children)
 
 - [125 Paramount consideration to be welfare of child](#Paramount-consideration-to-be-welfare-of-child)
 
@@ -318,9 +318,9 @@
 
 - [127 Power of court to order maintenance for children](#Power-of-court-to-order-maintenance-for-children)
 
-- [128 Power of court to vary order for custody](#Power-of-court-to-vary-order-for-custody)
+- [128 Power of court to vary order for custody, etc.](#Power-of-court-to-vary-order-for-custody-etc)
 
-- [129 Power of court to vary agreement for custody](#Power-of-court-to-vary-agreement-for-custody)
+- [129 Power of court to vary agreement for custody, etc.](#Power-of-court-to-vary-agreement-for-custody-etc)
 
 - [130 Court to have regard to advice of welfare officers, etc.](#Court-to-have-regard-to-advice-of-welfare-officers-etc)
 
@@ -358,7 +358,9 @@
 
 - [145 Causing or encouraging prostitution of, sexual penetration with, or indecent assault on, girl below the age of 16](#Causing-or-encouraging-prostitution-of-sexual-penetration-with-or-indecent-assault-on-girl-below-the-age-of-16)
 
-- [146 Persons living on or trading in prostitution](#Persons-living-on-or-trading-in-prostitution)
+- [146 Persons living on or trading in prostitution, etc.](#Persons-living-on-or-trading-in-prostitution-etc)
+
+- [146A Remote communication service operated or maintained for offering or facilitating provision of sexual services, etc.](#Remote-communication-service-operated-or-maintained-for-offering-or-facilitating-provision-of-sexual-services-etc)
 
 - [147 Suppression of places of assignation](#Suppression-of-places-of-assignation)
 
@@ -386,15 +388,15 @@
 
 - [159 Woman or girl below the age of 21 trained or used for immoral purposes, etc.](#Woman-or-girl-below-the-age-of-21-trained-or-used-for-immoral-purposes-etc)
 
-- [160 Director may order detention of woman or girl in certain cases](#Director-may-order-detention-of-woman-or-girl-in-certain-cases)
+- [160 Director may order detention or commitment of woman or girl in certain cases](#Director-may-order-detention-or-commitment-of-woman-or-girl-in-certain-cases)
 
-- [161 Period of detention of woman or girl in place of safety](#Period-of-detention-of-woman-or-girl-in-place-of-safety)
+- [161 Period of detention or commitment of woman or girl](#Period-of-detention-or-commitment-of-woman-or-girl)
 
 - [162 Marriage not to be contracted without consent of Director](#Marriage-not-to-be-contracted-without-consent-of-Director)
 
 - [163 Women and girls in urgent need of refuge](#Women-and-girls-in-urgent-need-of-refuge)
 
-- [164 Transfer of women or girls from one place of safety to another place of safety within Singapore](#Transfer-of-women-or-girls-from-one-place-of-safety-to-another-place-of-safety-within-Singapore)
+- [164 Transfer of women or girls from one place of safety to another place of safety within Singapore, etc.](#Transfer-of-women-or-girls-from-one-place-of-safety-to-another-place-of-safety-within-Singapore-etc)
 
 - [165 Removal of women or girls to Malaysia, Brunei Darussalam or Hong Kong by order of Minister](#Removal-of-women-or-girls-to-Malaysia-Brunei-Darussalam-or-Hong-Kong-by-order-of-Minister)
 
@@ -422,6 +424,8 @@
 
 - [177 Minister may establish places of safety](#Minister-may-establish-places-of-safety)
 
+- [177A Restriction on publication of information on place of safety or resident of place of safety](#Restriction-on-publication-of-information-on-place-of-safety-or-resident-of-place-of-safety)
+
 - [178 Boards of Visitors](#Boards-of-Visitors)
 
 - [179 Discharge Committees](#Discharge-Committees)
@@ -429,6 +433,8 @@
 [**Part XII MISCELLANEOUS**](#Part-XII)
 
 - [180 Rules](#Rules)
+
+- [180A Protection from personal liability](#Protection-from-personal-liability)
 
 - [181 Marriages solemnized before 15th September 1961 deemed to be registered under this Act](#Marriages-solemnized-before-15th-September-1961-deemed-to-be-registered-under-this-Act)
 
@@ -458,7 +464,9 @@ REVISED EDITION 2009
 
 (31st October 2009)
 
-An Act to provide for monogamous marriages and for the solemnization and registration of such marriages; to amend and consolidate the law relating to divorce, the rights and duties of married persons, the protection of family, the maintenance of wives and children and the punishment of offences against women and girls; and to provide for matters incidental thereto.
+An Act to provide for monogamous marriages and for the solemnization and registration of such marriages; to amend and consolidate the law relating to divorce, the rights and duties of married persons, the protection of family, the maintenance of wives, incapacitated husbands and children and the punishment of offences against women and girls; and to provide for matters incidental thereto.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 [15th September 1961]
 
@@ -494,7 +502,43 @@ PRELIMINARY
 
 “Director” means the Director of Social Welfare appointed under section 3(1) of the Children and Young Persons Act (Cap. 38) and includes any person who is authorised by him to perform any of the duties or exercise any of the powers of the Director under this Act;
 
+“fit individual” means an individual whom the Director, having regard to the character of the individual, thinks competent to provide care and protection to another individual;
+
+[Act 7 of 2016 wef 01/07/2016]
+
+“incapacitated former husband”, in relation to a dissolved or an annulled marriage, means a former husband to the marriage who —
+
+(a) during the subsistence of the marriage, was or became —
+
+(i) incapacitated, by any physical or mental disability or any illness, from earning a livelihood; and
+
+(ii) unable to maintain himself; and
+
+(b) continues to be unable to maintain himself;
+
+[Act 7 of 2016 wef 01/07/2016]
+
+“incapacitated husband” means a husband who —
+
+(a) during the marriage, is or becomes —
+
+(i) incapacitated, by any physical or mental disability or any illness, from earning a livelihood; and
+
+(ii) unable to maintain himself; and
+
+(b) continues to be unable to maintain himself;
+
+[Act 7 of 2016 wef 01/07/2016]
+
 “married woman” means a woman validly married under any law, religion, custom or usage;
+
+“messaging system” means any system that enables the transmission of short text messages, or of any visual communication, voice communication or electronic mail —
+
+(a) from a digital mobile telephone to another digital mobile telephone; or
+
+(b) from an electronic mail address to a digital mobile telephone, and the other way around;
+
+[Act 7 of 2016 wef 01/07/2016]
 
 “minor” means a person who is below the age of 21 years and who is not married or a widower or widow;
 
@@ -512,15 +556,21 @@ PRELIMINARY
 
 “prostitution” means the act of a female offering her body for sexual penetration for hire, whether in money or in kind;
 
-“register of marriages” means the State Marriage Register kept under this Act;
+[Deleted by Act 7 of 2016 wef 01/07/2016]
 
 “Registrar” means the Registrar of Marriages appointed under section 26 and includes an Assistant Registrar of Marriages;
 
 “sexual penetration” means the penetration of the vagina, anus or mouth of a woman or girl by a man’s penis, or the sexual penetration of the vagina or anus of a woman or girl by a part of another person’s body (other than the penis) or by anything else;
 
-“solemnization”, with its grammatical variations and cognate expressions, includes the contracting of a marriage or effecting a marriage in accordance with the law, religion, custom or usage of the parties or any of the parties thereto.
+“solemnization”, with its grammatical variations and cognate expressions, includes the contracting of a marriage or effecting a marriage in accordance with the law, religion, custom or usage of the parties or any of the parties thereto;
 
 [9/67; 14/69; 30/96; 20/2001; 51/2007]
+
+[Act 7 of 2016 wef 01/07/2016]
+
+“State Marriage Register” means the State Marriage Register maintained under section 27.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Application
 
@@ -531,6 +581,10 @@ PRELIMINARY
 (2) Parts II to VI and Part X and sections 181 and 182 shall not apply to any person who is married under, or to any marriage solemnized or registered under, the provisions of the Muslim law or of any written law in Singapore or in Malaysia providing for the registration of Muslim marriages.
 
 [9/67]
+
+(2A) Nothing in Part VIII entitles an incapacitated husband who is married under the provisions of the Muslim law, or of any written law in Singapore or in Malaysia providing for the registration of Muslim marriages, to obtain any maintenance under that Part.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (3) Notwithstanding subsection (2), sections 4, 5 and 6 shall apply to any person who contracts or purports to contract any such marriage during the subsistence of a marriage registered or deemed to be registered under the provisions of this Act or which was contracted under a law providing that or in contemplation of which the marriage is monogamous.
 
@@ -574,7 +628,9 @@ MONOGAMOUS MARRIAGES
 
 [9/67]
 
-(3) Nothing in this section shall affect the liability of any person to pay such maintenance as may be directed to be paid by him under any written law.
+(3) Nothing in this section shall affect the liability of any person to pay such maintenance as may be directed to be paid by that person under any written law.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Offence
 
@@ -742,17 +798,21 @@ SOLEMNIZATION OF MARRIAGES
 
 [2/2011 wef 01/09/2011]
 
-(2A) Where one of the parties to the proposed marriage has been previously married but is divorced, the Registrar shall not issue a marriage licence unless that party also states, in the statutory declaration referred to in subsection (2), whether he owes any arrears in respect of any maintenance which is payable under a maintenance order.
+(2A) Where one of the parties to the proposed marriage has been previously married but is divorced, the Registrar shall not issue a marriage licence unless that party also states, in the statutory declaration referred to in subsection (2), whether that party owes any arrears in respect of any maintenance which is payable under a maintenance order.
 
 [2/2011 wef 01/09/2011]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2B) The statutory declaration referred to in subsection (2) shall be made by each party to the proposed marriage in the presence of the other party.
 
 [2/2011 wef 01/09/2011]
 
-(3) If any party giving a notice of marriage or making a statutory declaration does not understand the English language, the Registrar shall, before issuing the marriage licence, ascertain whether that party is cognizant of the purport of the notice or declaration and, if not, shall interpret or cause to be interpreted the notice or declaration to that party into some language which he understands.
+(3) If any party giving a notice of marriage or making a statutory declaration does not understand the English language, the Registrar shall, before issuing the marriage licence, ascertain whether that party is cognizant of the purport of the notice or declaration and, if not, shall interpret or cause to be interpreted the notice or declaration to that party into some language which that party understands.
 
 [26/80]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (4) In this section —
 
@@ -760,7 +820,9 @@ SOLEMNIZATION OF MARRIAGES
 
 (a) an order for the payment of a monthly allowance made or deemed to be made by a court under Part VIII;
 
-(b) an order for the payment of periodical sums by way of maintenance or alimony to a wife or for the benefit of any child under Part X;
+(b) an order for the payment of periodical sums by way of maintenance or alimony to a wife or former wife or an incapacitated husband or incapacitated former husband, or by way of maintenance for the benefit of any child, under Part X;
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (c) an order for maintenance made by the Syariah Court under the Administration of Muslim Law Act (Cap. 3); or
 
@@ -886,11 +948,15 @@ SOLEMNIZATION OF MARRIAGES
 
 24\.—(1) If the parties to any marriage contracted and solemnized under this Act or under any previous written law relating to Christian or civil marriages shall desire to add to the marriage so contracted and solemnized the religious ceremony ordained or used by the church or temple of which the parties or one of them are members or is a member, it shall be competent for them to present themselves for that purpose to a clergyman, minister or priest of such church or temple, having given notice to that clergyman, minister or priest of their intention to do so; and that clergyman, minister or priest, upon the production of a certified copy of the certificate of the marriage, may, if he sees fit, read or celebrate the marriage service of the church or temple to which he belongs.
 
-(2) Nothing in the reading or celebration of such service under subsection (1) shall be held to supersede or invalidate any marriage so previously contracted and solemnized, nor shall such reading or celebration be entered as a marriage in any register of marriages kept according to the provisions of this Act.
+(2) Nothing in the reading or celebration of such service under subsection (1) shall be held to supersede or invalidate any marriage so previously contracted and solemnized, nor shall such reading or celebration be entered as a marriage in the State Marriage Register.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (3) Where a person is under expectation of death and desires to have a religious ceremony of marriage between himself and any person performed, it shall be lawful for the clergyman, minister or priest of the church or temple to which he belongs to read or celebrate the marriage service of that church or temple.
 
-(4) The reading or celebration of such service under subsection (3) shall not be deemed to be a solemnization of marriage for the purposes of this Act and shall not be entered as a marriage in any register of marriages kept according to the provisions of this Act.
+(4) The reading or celebration of such service under subsection (3) shall not be deemed to be a solemnization of marriage for the purposes of this Act and shall not be entered as a marriage in the State Marriage Register.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ## PART IV
 
@@ -910,13 +976,21 @@ REGISTRATION
 
 (4) The Registrar and every Assistant Registrar and Deputy Registrar appointed under this section shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
-### Books and registers
+### State Marriage Register
 
-27\.—(1) The Registrar shall keep a State Marriage Register as prescribed by this Act.
+27\.—(1) The Registrar must maintain a State Marriage Register containing such records and information as the Registrar may determine on marriages solemnized or registered under this Act.
 
-[30/96]
+(2) The State Marriage Register may be kept in such form as the Registrar may determine.
 
-(2) The Registrar shall cause all certificates of marriage issued under this Act to be bound together to form a State Marriage Register.
+(3) Any person may, upon application to the Registrar and upon payment of the relevant prescribed fee, obtain a copy of or extract from any record or information contained in the State Marriage Register (including a copy or extract that is certified by the Registrar to be a true copy or extract).
+
+(4) The following, if certified by the Registrar to be a true copy or extract, is in any proceedings admissible in evidence as of equal validity with the original document containing the information or the original record, as the case may be:
+
+(a) a copy of or extract from any information contained in the State Marriage Register;
+
+(b) a copy of or extract from any record contained in the State Marriage Register (including a copy or extract of any record produced from a microfilm or digital image).
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Registration of marriage solemnized by Registrar
 
@@ -1024,9 +1098,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Unauthorised solemnization of marriage
 
-39\. Any person who, not being authorised thereto under this Act, solemnizes or purports to solemnize any marriage shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 10 years and shall also be liable to a fine not exceeding $15,000.
+39\. Any person who, not being authorised thereto under this Act, solemnizes or purports to solemnize any marriage shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 10 years and shall also be liable to a fine not exceeding $15,000.
 
 [9/67]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Offences relating to solemnization of marriages
 
@@ -1038,9 +1114,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) after the expiration of 3 months from the date of the notice of marriage given under section 14,
 
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years and shall also be liable to a fine not exceeding $5,000.
+shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 3 years and shall also be liable to a fine not exceeding $5,000.
 
 [9/67; 26/80]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) The Registrar or any Assistant Registrar who knowingly and contrary to this Act issues any marriage licence —
 
@@ -1050,25 +1128,57 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (c) contrary to section 17,
 
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years and shall also be liable to a fine not exceeding $5,000.
+shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 3 years and shall also be liable to a fine not exceeding $5,000.
 
 [26/80]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (3) Any person who marries or purports to marry or goes through a form of marriage with any person contrary to any of the provisions of Part III shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 3 years and shall also be liable to a fine not exceeding $5,000.
 
 [9/67]
 
-### Destroying or falsifying register of marriages
+### Destroying or falsifying State Marriage Register, etc.
 
 41\. Any person who by himself or another —
 
-(a) wilfully destroys or causes damage to any register of marriages or any certificate in that register or any part thereof or any authenticated extract therefrom;
+(a) wilfully destroys or causes damage to —
 
-(b) falsely makes or counterfeits any part of such register or certificate; or
+(i) the State Marriage Register;
 
-(c) wilfully inserts any false entry in any register or certificate or authenticated extract,
+(ii) any record or information contained in the State Marriage Register; or
 
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 7 years and shall also be liable to a fine not exceeding $10,000.
+(iii) any certificate of marriage;
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(b) falsely makes any thing that purports to be, or counterfeits —
+
+(i) the State Marriage Register;
+
+(ii) any record or information contained in the State Marriage Register;
+
+(iii) any certificate of marriage; or
+
+(iv) any copy of or extract from any record or information contained in the State Marriage Register, or any copy of or extract from any certificate of marriage, that has been certified by the Registrar to be a true copy or extract; or
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(c) wilfully inserts any false entry in —
+
+(i) the State Marriage Register;
+
+(ii) any record or information contained in the State Marriage Register;
+
+(iii) any certificate of marriage; or
+
+(iv) any copy of or extract from any record or information contained in the State Marriage Register, or any copy of or extract from any certificate of marriage, that has been certified by the Registrar to be a true copy or extract,
+
+[Act 7 of 2016 wef 01/07/2016]
+
+shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 7 years and shall also be liable to a fine not exceeding $10,000.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Consent for prosecution
 
@@ -1080,25 +1190,21 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Correction of errors
 
-43\.—(1) If the Registrar is satisfied by statutory declaration or otherwise that any entry relating to a marriage is erroneous in form or substance, he may, in the presence of the persons married, or, if they are absent, in the presence of 2 credible witnesses, correct the error by ruling through any entry in the certificate of marriage which is erroneous and making the correct entry therein.
+43\.—(1) If the Registrar is satisfied by statutory declaration or otherwise that any entry in the State Marriage Register, or in any record or information contained in the State Marriage Register, is erroneous in form or substance, the Registrar may correct the error.
 
-[30/96]
+(2) If the Registrar is satisfied by statutory declaration or otherwise that any entry in a certificate of marriage is erroneous in form or substance, the Registrar may, in the presence of the persons married or, if those persons are absent, in the presence of 2 credible witnesses, correct the error by ruling through that entry and making the correct entry in the certificate of marriage.
 
-(2) The Registrar or the Deputy Registrar shall sign and date the correction made in the certificate of marriage.
+(3) Where subsection (2) applies —
 
-[30/96]
+(a) the Registrar must sign and date the correction made in the certificate of marriage; and
 
-(3) Every entry made under subsection (1) shall be attested by the witnesses in whose presence it was made.
+(b) the entry made under subsection (2) must be attested by the witnesses in whose presence it was made.
 
-### Inspection and search
+[Act 7 of 2016 wef 01/07/2016]
 
-44\.—(1) Every marriage register and index kept by the Registrar under the provisions of this Act shall be open to inspection upon payment of the prescribed fee by any person applying to inspect the same.
+44\. [Repealed by Act 7 of 2016 wef 01/07/2016]
 
-(2) The Registrar shall upon payment of the prescribed fee furnish to any person requiring the same a copy of any entry certified under his hand and seal of office.
-
-### Proof
-
-45\. Every marriage register kept by the Registrar or a Deputy Registrar under the provisions of this Act and any copy of any entry therein certified under his hand and seal of office to be a true copy or extract shall be prima facie evidence in all courts and tribunals in Singapore of the dates and acts contained or set out in such marriage register, copy or extract.
+45\. [Repealed by Act 7 of 2016 wef 01/07/2016]
 
 ## PART VI
 
@@ -1168,15 +1274,21 @@ are being heard shall consider, from time to time, the possibility of a reconcil
 
 [30/96]
 
-### Court may refer parties for mediation or to attend counselling
+### Court may refer parties for mediation, etc.
 
 50\.—(1) A court before which any proceedings under this Act (other than proceedings under section 104) are being heard may give consideration to the possibility of a harmonious resolution of the matter and for this purpose may, with the consent of the parties, refer the parties for mediation by such person as the parties may agree or, failing such agreement, as the court may appoint.
 
 [30/96]
 
-(2) A court before which any proceedings under this Act (other than proceedings under section 65 or 66) are being heard may, if it considers that it is in the interests of the parties or their children to do so, at any stage in the proceedings direct or advise either or both of the parties or their children to attend counselling provided by such person as the Minister may approve or as the court may direct.
+(2) A court before which any proceedings under this Act are being heard may, if the court considers that doing so is in the interests of the parties and their children, at any stage in those proceedings direct or advise any of the parties or their children —
 
-[30/96]
+(a) to attend mediation conducted by such person as every party or child attending the mediation may agree or, failing such agreement, as the court may appoint;
+
+(b) to attend counselling provided by such person as the court may direct; or
+
+(c) to participate in such family support programme or activity as the court may direct.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (3) Failure to comply with any direction or advice referred to in subsection (2) does not constitute a contempt of court.
 
@@ -1186,9 +1298,11 @@ are being heard shall consider, from time to time, the possibility of a reconcil
 
 (a) order the parties to attend mediation conducted by such person as the court may appoint;
 
-(b) order the parties or their children or both, at any stage in the proceedings, to attend counselling provided by such person as the Minister may approve or as the court may direct.
+(b) order the parties or their children or both, at any stage in the proceedings, to attend counselling provided by such person as the court may direct.
 
 [2/2011 wef 01/06/2011]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (3B) Notwithstanding subsection (3A), the court may, in any case where it considers that it may not be in the interests of the parties or their children to attend mediation or counselling, as the case may be, dispense with an order requiring such mediation or counselling.
 
@@ -1204,15 +1318,27 @@ are being heard shall consider, from time to time, the possibility of a reconcil
 
 (3E) Without prejudice to the generality of subsection (3D), the further orders that may be made by a court under that subsection shall include the following orders:
 
-(a) an order that proceedings shall be stayed until the parties have attended such mediation or counselling as may be specified in any advice or direction made by the court under subsection (2) or an order made by the court under subsection (3A); and
+(a) an order that proceedings shall be stayed until the parties have attended such mediation or counselling, or participated in such family support programme or activity, as may be specified in any advice or direction made by the court under subsection (2) or an order made by the court under subsection (3A); and
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (b) such order as to costs as the court thinks appropriate against the party who fails to comply with any advice or direction made by the court under subsection (2) or an order made by the court under subsection (3A).
 
 [2/2011 wef 01/06/2011]
 
-(4) Evidence of anything said, or of any admission made, in the course of any mediation or any counselling under this section shall not be admissible in any court.
+(4) Anything said, any document prepared, and any information provided, by any person for the purposes of or in the course of any mediation, any counselling or any family support programme or activity under this section is not to be admitted in evidence in any court.
 
-[30/96]
+[Act 7 of 2016 wef 01/07/2016]
+
+(5) No liability shall lie personally against any person conducting any mediation for the purposes of subsection (1), (2)(a) or (3A)(a), providing any counselling for the purposes of subsection (2)(b) or (3A)(b), or conducting any family support programme or activity for the purposes of subsection (2)(c), who, acting in good faith and with reasonable care, does or omits to do anything for the purposes of that mediation, counselling or family support programme or activity (as the case may be).
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(6) In this section, “family support programme or activity” means any programme or activity carried out for the purpose of addressing or resolving any relationship issue or relationship problem between spouses or former spouses, between siblings or between parent and child.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Capacity of married women
 
@@ -1362,7 +1488,9 @@ PROTECTION OF FAMILY
 
 64\. In this Part, unless the context otherwise requires —
 
-“applicant” means the person who applies for a protection order or, where the application is made by a person referred to in section 65(10), the child or incapacitated person on whose behalf the application is made;
+“applicant” means the person who applies for a protection order or, where the application is made by a guardian, relative or person referred to in section 65(2)(b), or by an individual referred to in section 65(2)(c), the family member on whose behalf the application is made;
+
+[Act 7 of 2016 wef 01/07/2016]
 
 [Deleted by Act 27 of 2014 wef 01/10/2014]
 
@@ -1414,9 +1542,21 @@ but does not include any force lawfully used in self-defence, or by way of corre
 
 [30/96]
 
-(2) An application for a protection order may be made by the family member concerned or any person referred to in subsection (10).
+(2) An application for a protection order under this section, or for an expedited order under section 66, may be made —
 
-[30/96]
+(a) by the family member concerned, if that family member is not below the age of 21 years and is not an incapacitated person;
+
+(b) by a guardian or relative or person responsible for the care of the family member concerned, or by any person appointed by the Minister for the purposes of this paragraph, if that family member is below the age of 21 years or is an incapacitated person; or
+
+(c) despite paragraphs (a) and (b), by an individual below the age of 21 years who is married or has been previously married, if the family member concerned is —
+
+(i) the individual;
+
+(ii) the individual’s child (including an adopted child or a stepchild) below the age of 21 years; or
+
+(iii) a relative below the age of 21 years whom the individual is responsible for the care of.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (3) A protection order may be made subject to such exceptions or conditions as may be specified in the order and for such term as may be specified.
 
@@ -1430,7 +1570,9 @@ but does not include any force lawfully used in self-defence, or by way of corre
 
 (a) the granting of the right of exclusive occupation to any protected person of the shared residence or a specified part of the shared residence by excluding the person against whom the order is made from the shared residence or specified part thereof, regardless of whether the shared residence is solely owned or leased by the person against whom the order is made or jointly owned or leased by the parties;
 
-(b) referring the person against whom the order is made or the protected person or both or their children to attend counselling provided by such body as the Minister may approve or as the court may direct; and
+(b) referring the person against whom the order is made or the protected person or both or their children to attend counselling provided by such body as the court may direct; and
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (c) the giving of any such direction as is necessary for and incidental to the proper carrying into effect of any order made under this section.
 
@@ -1452,9 +1594,7 @@ but does not include any force lawfully used in self-defence, or by way of corre
 
 [30/96]
 
-(10) In the case of a child below the age of 21 years or an incapacitated person, an application under this section or section 66 may be made by a guardian or relative or person responsible for the care of the child or incapacitated person, as the case may be, or by any person appointed by the Minister.
-
-[30/96]
+(10) [Deleted by Act 7 of 2016 wef 01/07/2016]
 
 (11) An offence under subsection (8) shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
@@ -1496,7 +1636,9 @@ but does not include any force lawfully used in self-defence, or by way of corre
 
 ## PART VIII
 
-MAINTENANCE OF WIFE AND CHILDREN
+MAINTENANCE OF WIFE, INCAPACITATED HUSBAND AND CHILDREN
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Duty of parents to maintain children
 
@@ -1504,13 +1646,19 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 [30/96]
 
-### Court may order maintenance of wife and children
+### Court may order maintenance of wife, incapacitated husband and children
 
-69\.—(1) Any married woman whose husband neglects or refuses to provide her reasonable maintenance may apply to the court, and the court may, on due proof thereof, order the husband to pay a monthly allowance or a lump sum for her maintenance.
+69\.—(1) The court may, on the application of a wife, and on due proof that her husband has neglected or refused to provide reasonable maintenance for her, order the husband to pay a monthly allowance or a lump sum for the maintenance of that wife.
 
-[30/96]
+[Act 7 of 2016 wef 01/07/2016]
 
-[Act 27 of 2014 wef 01/10/2014]
+(1A) The court may, on the application of an incapacitated husband, and on due proof that his wife has neglected or refused to provide reasonable maintenance for him, order the wife to pay a monthly allowance or a lump sum for the maintenance of that husband.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(1B) The court may make an order under subsection (1) or (1A) regardless when the marriage was solemnized, whether before, on or after the date of commencement of section 16(a) of the Women’s Charter (Amendment) Act 2016.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) The court may, on due proof that a parent has neglected or refused to provide reasonable maintenance for his child who is unable to maintain himself, order that parent to pay a monthly allowance or a lump sum for the maintenance of that child.
 
@@ -1530,25 +1678,41 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 [30/96]
 
-(4) The court, when ordering maintenance for a wife or child under this section, shall have regard to all the circumstances of the case including the following matters:
+(4) The court, when ordering maintenance for a wife, an incapacitated husband or a child under this section, shall have regard to all the circumstances of the case including the following matters:
 
-(a) the financial needs of the wife or child;
+(a) the financial needs of the wife, incapacitated husband or child;
 
-(b) the income, earning capacity (if any), property and other financial resources of the wife or child;
+[Act 7 of 2016 wef 01/07/2016]
 
-(c) any physical or mental disability of the wife or child;
+(b) the income, earning capacity (if any), property and other financial resources of the wife, incapacitated husband or child;
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(c) any physical or mental disability of the wife, incapacitated husband or child;
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (d) the age of each party to the marriage and the duration of the marriage;
 
 (e) the contributions made by each of the parties to the marriage to the welfare of the family, including any contribution made by looking after the home or caring for the family;
 
-(f) the standard of living enjoyed by the wife or child before the husband or parent, as the case may be, neglected or refused to provide reasonable maintenance for the wife or child;
+(f) the standard of living enjoyed —
+
+(i) by the wife before her husband neglected or refused to provide reasonable maintenance for her;
+
+(ii) by the incapacitated husband before his wife neglected or refused to provide reasonable maintenance for him; or
+
+(iii) by the child before a parent neglected or refused to provide reasonable maintenance for the child;
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (g) in the case of a child, the manner in which he was being, and in which the parties to the marriage expected him to be, educated or trained; and
 
 (h) the conduct of each of the parties to the marriage, if the conduct is such that it would in the opinion of the court be inequitable to disregard it.
 
 [30/96]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (5) The court shall not make an order under subsection (2) for the benefit of a child who has attained the age of 21 years or for a period that extends beyond the day on which the child will attain that age unless the court is satisfied that the provision of the maintenance is necessary because —
 
@@ -1577,6 +1741,8 @@ MAINTENANCE OF WIFE AND CHILDREN
 (9) The court shall have the powers conferred by section 85 in respect of proceedings relating to maintenance under this section.
 
 [30/96]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Duty to maintain child accepted as member of family
 
@@ -1614,9 +1780,11 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 (a) for every breach of the order by warrant direct the amount due to be levied in the manner by law provided for levying fines imposed by a Magistrate’s Court;
 
-(b) sentence him to imprisonment for a term not exceeding one month for each month’s allowance remaining unpaid;
+(b) sentence the person to imprisonment for a term not exceeding one month for each month’s allowance remaining unpaid;
 
 [2/2011 wef 01/06/2011]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (c) make a garnishee order in accordance with the Family Justice Rules made under section 79;
 
@@ -1642,9 +1810,11 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 [2/2011 wef 01/06/2011]
 
-(2) A sentence of imprisonment ordered under subsection (1)(b) shall not affect or diminish the obligation of the person against whom the maintenance order is made to make the payment or payments under the maintenance order which he has failed to make, except that the court may, if it thinks fit, reduce the amount of any such payments.
+(2) A sentence of imprisonment ordered under subsection (1)(b) shall not affect or diminish the obligation of the person against whom the maintenance order is made to make the payment or payments under the maintenance order which that person has failed to make, except that the court may, if it thinks fit, reduce the amount of any such payments.
 
 [30/96]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2A) The court may make an order under subsection (1)(d), (e) or (f) notwithstanding that any arrears of maintenance which gave rise to the proceedings in which the order is made have been paid up in part or in whole by the time the order is made.
 
@@ -1688,9 +1858,11 @@ MAINTENANCE OF WIFE AND CHILDREN
 
 ### Bankerʼs guarantee
 
-71A\.—(1) Where a person has been ordered by the court under section 71(1)(d) to furnish a bankerʼs guarantee, he shall hand the original bankerʼs guarantee to the person to whom maintenance is owed (referred to in this section as a “maintenance claimant”) within one month from the date of the order.
+71A\.—(1) Where a person has been ordered by the court under section 71(1)(d) to furnish a bankerʼs guarantee, that person shall hand the original bankerʼs guarantee to the person to whom maintenance is owed (referred to in this section as a “maintenance claimant”) within one month from the date of the order.
 
 [2/2011 wef 01/06/2011]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) Where —
 
@@ -1706,9 +1878,11 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 [2/2011 wef 01/06/2011]
 
-(4) Where a refund is not made as required under subsection (3), the maintenance defaulter may recover the amount due to him under that subsection from the person liable to make the refund as if the amount were a civil debt due to the maintenance defaulter.
+(4) Where a refund is not made as required under subsection (3), the maintenance defaulter may recover the amount due to the maintenance defaulter under that subsection from the person liable to make the refund as if the amount were a civil debt due to the maintenance defaulter.
 
 [2/2011 wef 01/06/2011]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Financial counselling
 
@@ -1722,9 +1896,11 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 ### Community service orders
 
-71C\.—(1) A court shall not make a community service order under section 71(1)(f) against a maintenance defaulter unless the court is satisfied that suitable arrangements can be made for him to perform community service under such an order.
+71C\.—(1) A court shall not make a community service order under section 71(1)(f) against a maintenance defaulter unless the court is satisfied that suitable arrangements can be made for the maintenance defaulter to perform community service under such an order.
 
 [2/2011 wef 01/06/2011]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) Notwithstanding that a community service order has been made under subsection (1), the court may, upon an application by a community service officer and upon being satisfied that the maintenance defaulter concerned is medically unfit to comply with the community service order, rescind the order.
 
@@ -1744,7 +1920,9 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 ### Rescission and variation of order
 
-72\.—(1) On the application of any person receiving or ordered to pay a monthly allowance under this Part and on proof of a change in the circumstances of that person, his wife or child, or for other good cause being shown to the satisfaction of the court, the court by which the order was made may rescind the order or may vary it as it thinks fit.
+72\.—(1) On the application of any person receiving or ordered to pay a monthly allowance under this Part and on proof of a change in the circumstances of that person, or that person’s wife, incapacitated husband or child, or for other good cause being shown to the satisfaction of the court, the court by which the order was made may rescind the order or may vary it as it thinks fit.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) Without prejudice to the extent of the discretion conferred upon the court by subsection (1), the court may, in considering any application made under this section, take into consideration any change in the general cost of living which may have occurred between the date of the making of the order sought to be varied and the date of the hearing of the application.
 
@@ -1798,83 +1976,39 @@ such amount as is payable or paid that is in excess of the amount of maintenance
 
 ### Procedure
 
-79\.—(1) Except as otherwise provided in Family Justice Rules made under this section, all applications to a Family Court under this Part and Part VII shall be made and heard in the same manner and in accordance with the same procedure as applications for summonses are made and heard by a District Court or Magistrate’s Court under the provisions of the Criminal Procedure Code (Cap. 68) and an application under this Part and Part VII shall be deemed to be a complaint for the purposes of that Code.
+79\.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 (Act 27 of 2014) may make Family Justice Rules regulating and prescribing the procedure and practice to be followed for the purposes of this Part and Part VII and any matters incidental to or relating to any such procedure or practice.
 
-[2/2011 wef 01/06/2011]
+(2) Without prejudice to the generality of subsection (1), Family Justice Rules may be made for the following purposes:
 
-[30/96]
-
-[Act 27 of 2014 wef 01/10/2014]
-
-[Act 27 of 2014 wef 01/01/2015]
-
-(1A) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 may make Family Justice Rules regulating and prescribing the procedure and the practice to be followed for the purposes of this Part and Part VII and any matters incidental to or relating to any such procedure or practice.
-
-[Act 27 of 2014 wef 01/01/2015]
-
-(2) Without prejudice to the generality of subsection (1A), Family Justice Rules may be made for the following purposes:
-
-(a) prescribing the procedure for applications to the Family Court under this Part and Part VII;
+(a) prescribing the procedure for applications to the Family Court under this Part and Part VII, including the manner in which any such application is to be made and dealt with, and the provisions of any written law that will apply to any such application;
 
 (b) giving effect to sections 65 and 66 and, in particular, providing for the hearing without delay of any application for an order under section 65(5)(a);
 
-(c) prescribing how any document (other than a summons issued under this Part) may be served on any person;
+(c) prescribing how any document may be served on any person;
 
 (d) prescribing the procedure applicable to appeals from the Family Court brought under section 77;
 
 (e) prescribing the fees payable in relation to proceedings under this Part and Part VII.
 
-[Act 27 of 2014 wef 01/01/2015]
+(3) The Family Justice Rules may, instead of providing for any matter under this Part or Part VII, refer to any provision made or to be made about the matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
 
-(3) The Family Justice Rules made under this section may, instead of providing for any matter, refer to any provision made or to be made about the matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+(4) Unless the Family Justice Rules provide otherwise, an application to a Family Court under this Part or Part VII (called in this subsection the relevant application) —
 
-[Act 27 of 2014 wef 01/01/2015]
+(a) must be made in the same manner as an application for a summons is made to a District Court or Magistrate’s Court under the Criminal Procedure Code (Cap. 68); and
 
-(3A) All Family Justice Rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+(b) is to be dealt with —
 
-[Act 27 of 2014 wef 01/01/2015]
+(i) as if the relevant application was a complaint for the purposes of that Code; but
 
-(4) A court before which any application under this Part or Part VII is heard may make such order as to costs as it thinks fit.
+(ii) in accordance with only such provisions of that Code, and with such provisions of any other written law, as may be prescribed by the Family Justice Rules.
 
-[30/96]
+(5) A court before which any application under this Part or Part VII is heard may make such order as to costs as it thinks fit.
 
-### Service of summons
+(6) All Family Justice Rules referred to in this section are to be presented to Parliament as soon as possible after publication in theGazette.
 
-79A\.—(1) Notwithstanding anything in the Criminal Procedure Code 2010 (Act 15 of 2010), a summons issued against a person under this Part (except an application made under section 69 or 70) may be served on the person concerned —
+[Act 7 of 2016 wef 01/07/2016]
 
-(a) by delivering it to the person personally;
-
-[2/2011 wef 01/06/2011]
-
-(b) by addressing it to the person and delivering it to an adult person who is a member of the family at the last known address of the place of residence of that person;
-
-[2/2011 wef 01/06/2011]
-
-(c) by addressing it to the person and delivering it to an adult person apparently employed at the last known address of the place of business of that person;
-
-[2/2011 wef 01/06/2011]
-
-(d) by sending it by pre-paid registered post to the last known address of the place of residence or business of the person;
-
-[2/2011 wef 01/06/2011]
-
-(e) by leaving a copy of the summons at the last known address of the place of residence or business of the person in an envelope addressed to him; and
-
-[2/2011 wef 01/06/2011]
-
-(f) where the personʼs last known address of the place of residence or business cannot be ascertained with reasonable diligence, by publishing a copy of the summons in theGazette.
-
-[2/2011 wef 01/06/2011]
-
-[Act 27 of 2014 wef 01/10/2014]
-
-(2) Any summons sent by pre-paid registered post to any person in accordance with subsection (1)(d) shall be deemed to be duly served on the person to whom the summons is addressed at the time when the summons would in the ordinary course of post be delivered.
-
-[2/2011 wef 01/06/2011]
-
-(3) In proving service by pre-paid registered post, it shall be sufficient to prove that the cover containing the summons was properly addressed, stamped and posted by pre-paid registered post.
-
-[2/2011 wef 01/06/2011]
+79A\. [Repealed by Act 7 of 2016 wef 01/07/2016]
 
 ## PART IX
 
@@ -1902,15 +2036,19 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 (a) an order for the payment of a monthly allowance made or deemed to be made by a court under Part VIII;
 
-(b) an order for the payment of periodical sums by way of maintenance or alimony to a wife or for the benefit of any child under Part X;
+(b) an order for the payment of periodical sums by way of maintenance or alimony to a wife or former wife or an incapacitated husband or incapacitated former husband, or by way of maintenance for the benefit of any child, under Part X;
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (c) an order for maintenance made by the Syariah Court under the Administration of Muslim Law Act (Cap. 3);
 
 (d) an order for maintenance made under the Maintenance of Parents Act (Cap. 167B); and
 
-(e) a maintenance order registered or confirmed by the court under the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168)1.
+(e) a maintenance order registered or confirmed by the court under the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169) or the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168)1.
 
 [14/69; 30/96]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 1This Act, which was formerly known as the Reciprocal Enforcement of Maintenance Orders Act (Cap. 26, 1970 Ed.), will be repealed upon the commencement of section 19(1) of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169).
 
@@ -2506,17 +2644,21 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 
 ### Power of court to order maintenance
 
-113\. The court may order a man to pay maintenance to his wife or former wife —
+113\.—(1) The court may order a man to pay maintenance to his wife or former wife, or order a woman to pay maintenance to her incapacitated husband or incapacitated former husband —
 
 (a) during the course of any matrimonial proceedings; or
 
 (b) when granting or subsequent to the grant of a judgment of divorce, judicial separation or nullity of marriage.
 
-[42/2005]
+[Act 7 of 2016 wef 01/07/2016]
+
+(2) The court may make an order under this section regardless when the marriage was solemnized, whether before, on or after the date of commencement of section 23 of the Women’s Charter (Amendment) Act 2016.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Assessment of maintenance
 
-114\.—(1) In determining the amount of any maintenance to be paid by a man to his wife or former wife, the court shall have regard to all the circumstances of the case including the following matters:
+114\.—(1) In determining the amount of any maintenance to be paid by a man to his wife or former wife, or by a woman to her incapacitated husband or incapacitated former husband, the court shall have regard to all the circumstances of the case including the following matters:
 
 (a) the income, earning capacity, property and other financial resources which each of the parties to the marriage has or is likely to have in the foreseeable future;
 
@@ -2533,6 +2675,8 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 (g) in the case of proceedings for divorce or nullity of marriage, the value to either of the parties to the marriage of any benefit (for example, a pension) which, by reason of the dissolution or annulment of the marriage that party will lose the chance of acquiring.
 
 [42/2005]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) In exercising its powers under this section, the court shall endeavour so to place the parties, so far as it is practicable and, having regard to their conduct, just to do so, in the financial position in which they would have been if the marriage had not broken down and each had properly discharged his or her financial obligations and responsibilities towards the other.
 
@@ -2558,11 +2702,27 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 
 117\. Except where an order for maintenance is expressed to be for any shorter period or where any such order has been rescinded, an order for maintenance shall expire —
 
-(a) if the maintenance was unsecured, on the death of the husband or of the wife, whichever is the earlier, or upon the remarriage of the wife;
+(a) if the maintenance was unsecured —
 
-(b) if the maintenance was secured, on the death of the wife or upon the remarriage of the wife.
+(i) on the death of either spouse or former spouse;
 
-[42/2005]
+(ii) in the case of maintenance payable to a former wife, upon her remarriage; or
+
+(iii) in the case of maintenance payable to an incapacitated former husband, upon his remarriage; or
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(b) if the maintenance was secured —
+
+(i) in the case of maintenance payable to a wife, on her death;
+
+(ii) in the case of maintenance payable to a former wife, on her death or upon her remarriage;
+
+(iii) in the case of maintenance payable to an incapacitated husband, on his death; or
+
+(iv) in the case of maintenance payable to an incapacitated former husband, on his death or upon his remarriage.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Power of court to vary orders for maintenance
 
@@ -2584,9 +2744,11 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 
 ### Recovery of arrears of maintenance
 
-121\.—(1) Subject to subsection (3), arrears of unsecured maintenance, whether payable by arrangement or under an order of court, shall be recoverable as a debt from the defaulter and, where they accrued due before the making of a bankruptcy order against the defaulter, shall be provable in his bankruptcy and, where they accrued due before his death, shall be a debt due from his estate.
+121\.—(1) Subject to subsection (3), arrears of unsecured maintenance, whether payable by arrangement or under an order of court, shall be recoverable as a debt from the defaulter and, where they accrued due before the making of a bankruptcy order against the defaulter, shall be provable in the defaulter’s bankruptcy and, where they accrued due before the defaulter’s death, shall be a debt due from the defaulter’s estate.
 
 [42/2005]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) Subject to subsection (3), arrears of unsecured maintenance which accrued due before the death of the person entitled thereto shall be recoverable as a debt by the legal personal representatives of such person.
 
@@ -2682,7 +2844,13 @@ either party to the marriage may apply to the court in the manner prescribed in 
 
 121E\.—(1) Where leave is granted under section 121D and it appears to the court that the applicant or any child of the marriage is in immediate financial need, the court may make an interim order for —
 
-(a) a man to make financial provision for his wife or former wife, as the case may be, or any child of the marriage; or
+(a) a man to make financial provision for his wife or former wife, as the case may be, or any child of the marriage;
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(aa) a woman to make financial provision for her incapacitated husband or incapacitated former husband, as the case may be, or for any child of the marriage; or
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (b) a parent to make financial provision for any child of the marriage.
 
@@ -2772,25 +2940,31 @@ WELFARE OF CHILDREN
 
 [42/2005]
 
-### Custody of children
+### Orders on welfare of children
 
 124\. In any proceedings for divorce, judicial separation or nullity of marriage, the court may, at any stage of the proceedings, or after a final judgment has been granted, make such orders as it thinks fit with respect to the welfare of any child and may vary or discharge the said orders, and may, if it thinks fit, direct that proceedings be commenced for placing the child under the protection of the court.
 
 [42/2005]
 
+[Act 7 of 2016 wef 01/07/2016]
+
 ### Paramount consideration to be welfare of child
 
-125\.—(1) The court may at any time by order place a child in the custody of his or her father or his or her mother or (where there are exceptional circumstances making it undesirable that the child be entrusted to either parent) of any other relative of the child or of any organisation or association the objects of which include child welfare, or of any other suitable person.
+125\.—(1) The court may at any time by order place a child in the custody, or in the care and control, of the child’s father or mother or (where there are exceptional circumstances making it undesirable that the child be entrusted to either parent) of any other relative of the child or of any organisation or association the objects of which include child welfare, or of any other suitable person.
 
 [42/2005]
 
-(2) In deciding in whose custody a child should be placed, the paramount consideration shall be the welfare of the child and subject to this, the court shall have regard —
+[Act 7 of 2016 wef 01/07/2016]
+
+(2) In deciding in whose custody, or in whose care and control, a child should be placed, the paramount consideration shall be the welfare of the child and subject to this, the court shall have regard —
 
 (a) to the wishes of the parents of the child; and
 
 (b) to the wishes of the child, where he or she is of an age to express an independent opinion.
 
 [42/2005]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Orders subject to conditions
 
@@ -2812,13 +2986,31 @@ WELFARE OF CHILDREN
 
 [42/2005]
 
-(3) Notwithstanding subsection (1) but subject to any condition imposed under subsection (2)(e), where an order for custody is in force, no person shall take the child who is the subject of the custody order out of Singapore except with the written consent of both parents or the leave of the court.
+(2A) An order for the care and control of a child may be made subject to such conditions as the court may think fit to impose.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(2B) Without prejudice to the generality of subsection (2A), an order for the care and control of a child may —
+
+(a) contain conditions as to the place where the child is to reside;
+
+(b) provide for the child to visit a parent who does not have custody or care and control of the child, or any member of the family of a parent who is dead or does not have custody or care and control of the child, at such times and for such periods as the court may consider reasonable;
+
+(c) give a parent who does not have custody or care and control of the child, or any member of the family of a parent who is dead or does not have custody or care and control of the child, the right of access to the child at such times and with such frequency as the court may consider reasonable; or
+
+(d) prohibit the person given care and control of the child from taking the child out of Singapore.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(3) Despite subsections (1) and (2A), where an order for custody, or an order for care and control, is in force, a person must not take the child who is the subject of the order out of Singapore, except with the written consent of both parents or the leave of the court.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(4) Subsection (3) does not prevent the taking out of Singapore for a period of less than one month of the child by the person given custody, or care and control, of the child or by any other person who has the written consent of the person given custody, or care and control, of the child to take the child out of Singapore.
 
 [42/2005]
 
-(4) Subsection (3) does not prevent the taking out of Singapore for a period of less than one month of the child by the person given custody of the child or by any other person who has the written consent of the person given custody of the child to take the child out of Singapore.
-
-[42/2005]
+[Act 7 of 2016 wef 01/07/2016]
 
 (5) Any person who contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -2834,25 +3026,31 @@ WELFARE OF CHILDREN
 
 [42/2005]
 
-### Power of court to vary order for custody
+### Power of court to vary order for custody, etc.
 
-128\. The court may at any time vary or rescind any order for the custody of a child on the application of any interested person, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.
+128\. The court may at any time vary or rescind any order for the custody, or the care and control, of a child on the application of any interested person, where it is satisfied that the order was based on any misrepresentation or mistake of fact or where there has been any material change in the circumstances.
+
+[42/2005]
+
+[Act 7 of 2016 wef 01/07/2016]
+
+### Power of court to vary agreement for custody, etc.
+
+129\. The court may, at any time and from time to time, vary the terms of any agreement relating to the custody, or the care and control, of a child, regardless when the agreement was made, notwithstanding any provision to the contrary in that agreement, where it is satisfied that it is reasonable and for the welfare of the child to do so.
 
 [42/2005]
 
-### Power of court to vary agreement for custody
-
-129\. The court may, at any time and from time to time, vary the terms of any agreement relating to the custody of a child, whether made before or after 1st June 1981, notwithstanding any provision to the contrary in that agreement, where it is satisfied that it is reasonable and for the welfare of the child to do so.
-
-[42/2005]
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Court to have regard to advice of welfare officers, etc.
 
-130\. When considering any question relating to the custody of any child, the court shall, whenever it is practicable, have regard to the advice of a person, whether or not a public officer, who is trained or experienced in child welfare but shall not be bound to follow such advice.
+130\. When considering any question relating to the custody, or the care and control, of any child, the court shall, whenever it is practicable, have regard to the advice of a person, whether or not a public officer, who is trained or experienced in child welfare but shall not be bound to follow such advice.
 
 [2/2011 wef 01/06/2011]
 
 [42/2005]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Power of court to restrain taking of child out of Singapore
 
@@ -2860,15 +3058,19 @@ WELFARE OF CHILDREN
 
 (a) where any matrimonial proceedings are pending; or
 
-(b) where, under any agreement or order of court, one parent has custody of the child to the exclusion of the other,
+(b) where, under any agreement or order of court, one parent has custody, or care and control, of the child to the exclusion of the other,
+
+[Act 7 of 2016 wef 01/07/2016]
 
 issue an injunction restraining the other parent from taking the child out of Singapore or may give leave for such child to be taken out of Singapore either unconditionally or subject to such conditions or such undertaking as the court may think fit.
 
 [42/2005]
 
-(2) The court may, on the application of any interested person, issue an injunction restraining any person, other than a person having custody of a child, from taking the child out of Singapore.
+(2) The court may, on the application of any interested person, issue an injunction restraining any person, other than a person having custody, or care and control, of a child, from taking the child out of Singapore.
 
 [42/2005]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (3) Failure to comply with an order made under this section shall be punishable as a contempt of court.
 
@@ -2886,7 +3088,9 @@ issue an injunction restraining the other parent from taking the child out of Si
 
 [2/2011 wef 01/06/2011]
 
-(d) maintenance is payable under any agreement to or for the benefit of a wife or former wife or child; or
+(d) maintenance is payable under any agreement to or for the benefit of a wife or former wife, an incapacitated husband or incapacitated former husband, or a child; or
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (e) an order has been made under section 121E or 121G and has not been rescinded or complied with,
 
@@ -2894,7 +3098,13 @@ issue an injunction restraining the other parent from taking the child out of Si
 
 the court shall have power on application —
 
-(i) if it is satisfied that any disposition of property has been made by the husband or former husband or parent of the person by or on whose behalf the application is made, within the preceding 3 years, with the object on the part of the person making the disposition of reducing his or her means to pay maintenance or of depriving his wife or former wife of any rights in relation to that property, to set aside the disposition; and
+(i) to set aside any disposition of property, if it is satisfied that the disposition of property has been made within the preceding 3 years, with the object on the part of the person making the disposition of —
+
+(A) reducing that person’s means to pay maintenance; or
+
+(B) depriving that person’s wife, former wife, incapacitated husband or incapacitated former husband of any rights in relation to that property; and
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (ii) if it is satisfied that any disposition of property is intended to be made with any such object, to grant an injunction preventing that disposition.
 
@@ -3000,9 +3210,11 @@ OFFENCES AGAINST WOMEN AND GIRLS
 
 (j) attempts to do any act in contravention of this section,
 
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
 
 [26/80]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) Any male person who is convicted of a second or subsequent offence under subsection (1)(a), (b), (c), (d), (e) or (f) shall, in addition to any term of imprisonment awarded in respect of such offence, be liable to caning.
 
@@ -3032,7 +3244,9 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 ### Traffic in women and girls
 
-141\.—(1) Any person who buys, sells, procures, traffics in, or brings into or takes out of Singapore for the purpose of such traffic, and whether or not for the purpose of present or subsequent prostitution, any woman or girl, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+141\.—(1) Any person who buys, sells, procures, traffics in, or brings into or takes out of Singapore for the purpose of such traffic, and whether or not for the purpose of present or subsequent prostitution, any woman or girl, shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) No person shall be charged with an offence under this section if he satisfies the Director that the woman or girl brought into or taken out of Singapore by him or intended to be brought into or taken out of Singapore by him was so brought into or taken out of Singapore or is intended to be so brought into or taken out of Singapore for the purpose of her marriage or adoption and that such marriage or adoption can be solemnized or made and has been or will be solemnized or made under the laws and customs for the time being in force in Singapore.
 
@@ -3046,9 +3260,11 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 (c) whether or not for the purpose of present or future prostitution,
 
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
 
 [26/80]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Permitting girl below the age of 16 to use premises for sexual penetration
 
@@ -3098,13 +3314,61 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [26/80]
 
-### Persons living on or trading in prostitution
+### Persons living on or trading in prostitution, etc.
 
-146\.—(1) Any person who knowingly lives wholly or in part on the earnings of the prostitution of another person shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+146\.—(1) Any person who knowingly lives wholly or in part on the earnings of the prostitution of another person (being a woman or girl) shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(1A) Any person who knowingly solicits, receives or agrees to receive any gratification as an inducement or reward for providing any service, and who by providing that service does or will aid the prostitution of another person (being a woman or girl), shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 5 years and shall also be liable to a fine not exceeding $10,000.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) Any male person who is convicted of a second or subsequent offence under this section shall, in addition to any term of imprisonment imposed in respect of such offence, be liable to caning.
 
 (3) Where any person is proved to live with or be habitually in the company of any prostitute or is proved to have exercised control, direction or influence over the movements of any prostitute in such a manner as to show that the person is aiding, abetting or compelling her prostitution with any other person or generally, the person shall, in the absence of proof to the contrary, be deemed to be knowingly living on the earnings of prostitution.
+
+(4) In this section, “gratification” includes —
+
+(a) money or any gift, loan, fee, reward, commission, valuable security or other property or interest in property of any description, whether movable or immovable;
+
+(b) any office, employment or contract;
+
+(c) any payment, release, discharge or liquidation of any loan, obligation or other liability whatsoever, whether in whole or in part; and
+
+(d) any other service, favour or advantage of any description whatsoever.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+[Act 7 of 2016 wef 01/07/2016]
+
+### Remote communication service operated or maintained for offering or facilitating provision of sexual services, etc.
+
+146A\.—(1) A person in Singapore who, in the course of business, operates or maintains in Singapore a remote communication service that —
+
+(a) offers or facilitates the provision by a woman or girl to another person of sexual services in return for payment or reward; or
+
+(b) organises, manages or supervises the provision of sexual services referred to in paragraph (a), which may include inviting others to receive or participate in providing those services,
+
+shall be guilty of an offence and shall be liable on conviction —
+
+(i) to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 3 years or to both; and
+
+(ii) in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(2) To avoid doubt, the reference in subsection (1) to the provision by a woman or girl to another person of sexual services in return for payment or reward includes, but is not limited to, a reference to the prostitution of the woman or girl.
+
+(3) In subsection (1), “remote communication service” means —
+
+(a) any website, web service or Internet application;
+
+(b) any service using voice telephony;
+
+(c) any service using a messaging system; or
+
+(d) any other kind of electronic or other technology for facilitating communication.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Suppression of places of assignation
 
@@ -3170,17 +3434,53 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [51/2007]
 
-(4) No newspaper report of any proceedings under this Part in any court shall reveal —
+(4) A person must not publish or broadcast any information or picture referred to in the following paragraphs:
 
-(a) the name or address or include any particulars given in the proceedings calculated to lead to the identification; or
+(a) the name or address of any woman or girl in respect of whom an offence referred to in subsection (1) is alleged to have been committed;
 
-(b) the name or address of any witness, or the particulars of any evidence given by the witness in the proceedings, which may lead to the identification,
+(b) any particulars given, in any proceedings in any court relating to an offence referred to in subsection (1), which identify, or are calculated to lead to the identification of, any woman or girl in respect of whom that offence is alleged to have been committed;
 
-of any woman or girl in respect of whom the offence is alleged to have been committed nor shall any picture be published in any newspaper as being or including the picture of the woman or girl or witness.
+(c) the name and address of any witness, in any proceedings in any court relating to an offence referred to in subsection (1), which may lead to the identification of any woman or girl in respect of whom that offence is alleged to have been committed;
 
-[26/80]
+(d) the particulars of any evidence given by any witness, in any proceedings in any court relating to an offence referred to in subsection (1), which may lead to the identification of any woman or girl in respect of whom that offence is alleged to have been committed;
 
-(5) Any person who publishes any matter in contravention of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+(e) any picture of, or any picture including a picture of —
+
+(i) any woman or girl in respect of whom an offence referred to in subsection (1) is alleged to have been committed; or
+
+(ii) any witness in any proceedings in any court relating to an offence referred to in subsection (1).
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(5) If any information or picture is published or broadcast in contravention of subsection (4) —
+
+(a) in the case of the publication of the information or picture as part of a newspaper or periodical publication, every proprietor, editor, publisher or distributor of the newspaper or periodical publication;
+
+(b) in the case of the publication of the information or picture otherwise than as part of a newspaper or periodical publication, the person who publishes or distributes the information or picture; or
+
+(c) in the case of the broadcast of the information or picture, every person who transmits or provides the programme in which the information or picture is broadcast, and every person having functions in relation to the programme corresponding to those of the editor of a newspaper or periodical publication,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(6) In this section —
+
+“broadcast” means sounds or visual images —
+
+(a) broadcast by wireless telegraphy, or by means of a high frequency distribution system over wire or other paths provided by a material substance, and intended for general reception;
+
+(b) broadcast through the Internet or any website, web service or Internet application, whether or not intended for general reception; or
+
+(c) broadcast through any messaging system;
+
+“publish”, in relation to any information or picture, means to bring the information or picture to the notice of the public or a section of the public by any means, including (to avoid doubt) through —
+
+(a) the Internet or any website, web service or Internet application; or
+
+(b) any messaging system.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Trial of offences
 
@@ -3264,11 +3564,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) If the Director after holding such inquiry is satisfied that the woman or girl comes within subsection (1), he may, by warrant under his hand, order her to be detained in a place of safety.
 
-### Director may order detention of woman or girl in certain cases
+### Director may order detention or commitment of woman or girl in certain cases
 
 160\.—(1) Any woman or girl —
 
-(a) whose lawful guardian requests the Director in writing to detain her in a place of safety;
+(a) whose lawful guardian requests the Director in writing to detain her in a place of safety or to commit her to the care of a fit individual;
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (b) whom the Director considers is in need of protection and whose lawful guardian cannot be found;
 
@@ -3276,21 +3578,37 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) whom the Director considers to be in moral danger,
 
-may, by warrant under the hand of the Director, be ordered to be removed to a place of safety and there detained until he has held an inquiry as to the circumstances of her case.
+may, by warrant under the hand of the Director, be ordered to be removed to a place of safety and there detained, or to be committed to the care of a fit individual, until the Director has held an inquiry as to the circumstances of the case.
 
-(2) Every such inquiry shall be completed within a period of one month from the date of the woman’s or girl’s admission into the place of safety.
+[Act 7 of 2016 wef 01/07/2016]
 
-(3) If, after holding such inquiry, the Director is satisfied that the woman or girl is in need of protection, the Director may by warrant under his hand order that the woman or girl be detained in a place of safety for such period as he may determine.
+(2) Every such inquiry shall be completed within a period of one month from the date of the woman’s or girl’s admission into the place of safety or commitment to the care of the fit individual (as the case may be).
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(3) If, after holding such inquiry, the Director is satisfied that the woman or girl is in need of protection, the Director may by warrant under his hand order that the woman or girl be detained in a place of safety, or committed to the care of a fit individual, for such period as he may determine.
 
 [26/80]
 
-(4) Where a girl has been detained in a place of safety at the request of her lawful guardian, she may be so detained for such period as the Director has determined is necessary for her rehabilitation notwithstanding any request made by her lawful guardian for her early release.
+[Act 7 of 2016 wef 01/07/2016]
 
-[26/80]
+(4) Where a girl has been detained in a place of safety, or committed to the care of a fit individual, at the request of the girl’s lawful guardian, the girl may be detained or committed for such period as the Director determines is necessary for the girl’s rehabilitation, despite any request made by the girl’s lawful guardian for the girl’s early release.
 
-### Period of detention of woman or girl in place of safety
+[Act 7 of 2016 wef 01/07/2016]
 
-161\. A woman or girl shall not be detained under this Part, except for the purpose of an inquiry, after such arrangements have been made for her welfare as the Director considers necessary or after she attains the age of 21 years or marries.
+[Act 7 of 2016 wef 01/07/2016]
+
+### Period of detention or commitment of woman or girl
+
+161\.—(1) A woman or girl shall not be detained under this Part, except for the purpose of an inquiry, after such arrangements have been made for her welfare as the Director considers necessary or after she attains the age of 21 years or marries.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(2) A woman or girl must not be committed under section 160(3) to the care of a fit individual, and a woman or girl who has been so committed ceases to be in the care of a fit individual, after the woman or girl attains the age of 21 years or marries.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Marriage not to be contracted without consent of Director
 
@@ -3300,17 +3618,53 @@ may, by warrant under the hand of the Director, be ordered to be removed to a pl
 
 ### Women and girls in urgent need of refuge
 
-163\.—(1) Any woman or girl may on her own application be received by the Director into a place of safety if the Director is satisfied that the woman or girl is in urgent need of refuge.
+163\.—(1) Any woman or girl may on her own application be received by the Director into a place of safety, or be committed by the Director to the care of a fit individual, if the Director is satisfied that the woman or girl is in urgent need of refuge.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (2) Where the situation warrants it, the person in charge of any place of safety may receive into that place of safety any woman or girl who makes an application to her.
 
 (3) Where the person in charge of a place of safety receives any woman or girl into that place of safety in accordance with subsection (2), she shall, within 48 hours of the admission of the woman or girl, produce her before the Director with a full report of the circumstances.
 
-### Transfer of women or girls from one place of safety to another place of safety within Singapore
+(4) A woman or girl must not be received under this section into a place of safety, or committed under subsection (1) to the care of a fit individual, after the woman or girl attains the age of 21 years or marries.
 
-164\.—(1) Whenever an order has been made under section 155(3), 156, 159 or 160 for the detention of a woman or girl in a place of safety and it appears to the Director to be expedient in the interests of the woman or girl that she should be transferred from such place of safety to another place of safety within Singapore, it shall be lawful for the Director to issue an order that she shall be so transferred.
+[Act 7 of 2016 wef 01/07/2016]
 
-(2) No woman or girl admitted into a place of safety in Singapore on the request in writing of her lawful guardian under section 160(1)(a) shall be so transferred from such place of safety except with the approval in writing of her lawful guardian.
+(5) A woman or girl who has been received under this section into a place of safety, or committed under subsection (1) to the care of a fit individual, ceases to be in the care of the place of safety or fit individual (as the case may be), after the woman or girl attains the age of 21 years or marries.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+### Transfer of women or girls from one place of safety to another place of safety within Singapore, etc.
+
+164\.—(1) Whenever an order has been made under section 155(3), 156 or 159 for the detention of a woman or girl in a place of safety and it appears to the Director to be expedient in the interests of the woman or girl that she should be transferred from such place of safety to another place of safety within Singapore, it shall be lawful for the Director to issue an order that she shall be so transferred.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(2) Where an order has been made under section 160 for the detention of a woman or girl in a place of safety, and it appears to the Director that the taking of one of the following courses of action is expedient in the interests of the woman or girl, the Director may order the taking of that course of action:
+
+(a) the transfer of the woman or girl from that place of safety to another place of safety within Singapore;
+
+(b) the discharge of the woman or girl from that place of safety, and the commitment of the woman or girl to the care of a fit individual.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(3) Where an order has been made under section 160 for the commitment of a woman or girl to the care of a fit individual, and it appears to the Director that the taking of one of the following courses of action is expedient in the interests of the woman or girl, the Director may order the taking of that course of action:
+
+(a) the transfer of the woman or girl from the care of that fit individual to the care of another fit individual;
+
+(b) the withdrawal of the woman or girl from the care of that fit individual, and the detention of the woman or girl in a place of safety within Singapore.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(4) Where a woman or girl is detained in a place of safety in Singapore on the request in writing of her lawful guardian under section 160(1)(a), she must not be transferred or discharged from that place of safety under subsection (2), unless her lawful guardian has given approval in writing for that transfer or discharge.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+(5) Where a woman or girl is committed to the care of a fit individual on the request in writing of her lawful guardian under section 160(1)(a), she must not be transferred or withdrawn from the care of that fit individual under subsection (3), unless her lawful guardian has given approval in writing for that transfer or withdrawal.
+
+[Act 7 of 2016 wef 01/07/2016]
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Removal of women or girls to Malaysia, Brunei Darussalam or Hong Kong by order of Minister
 
@@ -3432,6 +3786,54 @@ and may remove any woman or girl who is or may be liable to be dealt with under 
 
 177\. The Minister may, by order published in theGazette, establish such places of safety as may be necessary for the purposes of this Part.
 
+### Restriction on publication of information on place of safety or resident of place of safety
+
+177A\.—(1) A person must not, without the Director’s approval, publish or broadcast any information or picture that identifies, or is likely to lead to the identification of —
+
+(a) the location of a place of safety; or
+
+(b) any resident of a place of safety as a resident of the place of safety.
+
+(2) If any information or picture is published or broadcast in contravention of subsection (1) —
+
+(a) in the case of the publication of the information or picture as part of a newspaper or periodical publication, every proprietor, editor, publisher or distributor of the newspaper or periodical publication;
+
+(b) in the case of the publication of the information or picture otherwise than as part of a newspaper or periodical publication, the person who publishes or distributes the information or picture; or
+
+(c) in the case of the broadcast of the information or picture, every person who transmits or provides the programme in which the information or picture is broadcast, and every person having functions in relation to the programme corresponding to those of the editor of a newspaper or periodical publication,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+
+(3) This section does not apply to any of the following:
+
+(a) the publication in theGazette(in electronic or other form) of any order under section 177;
+
+(b) the publication under the Revised Edition of the Laws Act (Cap. 275) of any revised edition of subsidiary legislation (in electronic or other form) which relates to any order under section 177;
+
+(c) the publication of any order under section 177, any revised edition of subsidiary legislation referred to in paragraph (b), or any copy of any such order or revised edition of subsidiary legislation, on —
+
+(i) any legislation website maintained by the Government; or
+
+(ii) any website licensed by the Government to maintain a collection of subsidiary legislation made under this Act.
+
+(4) In this section —
+
+“broadcast” means sounds or visual images —
+
+(a) broadcast by wireless telegraphy, or by means of a high frequency distribution system over wire or other paths provided by a material substance, and intended for general reception;
+
+(b) broadcast through the Internet or any website, web service or Internet application, whether or not intended for general reception; or
+
+(c) broadcast through any messaging system;
+
+“publish”, in relation to any information or picture, means to bring the information or picture to the notice of the public or a section of the public by any means, including (to avoid doubt) through —
+
+(a) the Internet or any website, web service or Internet application; or
+
+(b) any messaging system.
+
+[Act 7 of 2016 wef 01/07/2016]
+
 ### Boards of Visitors
 
 178\.—(1) The Minister may, by notification in theGazette, appoint for every place of safety a Board of Visitors to advise and make recommendations to the Director on such matters as he may refer to it.
@@ -3490,7 +3892,9 @@ MISCELLANEOUS
 
 (a) the forms to be used for the purposes of this Act;
 
-(b) the practice and procedure for the keeping of registers of marriages and certificates of marriage;
+(b) the practice and procedure for the maintaining of the State Marriage Register and certificates of marriage;
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (c) the supply and custody of registers and certificates;
 
@@ -3499,6 +3903,10 @@ MISCELLANEOUS
 (e) the making of searches and the giving of certified copies;
 
 (f) the care, detention, discipline, discharge and aftercare, temporary absence, maintenance, and education of women and girls detained under Part XI;
+
+(fa) the commitment under Part XI of any woman or girl to the care of a fit individual;
+
+[Act 7 of 2016 wef 01/07/2016]
 
 (g) the manner and conditions in and under which the powers conferred by Part XI shall be exercised by the persons on whom such powers are conferred;
 
@@ -3521,6 +3929,42 @@ MISCELLANEOUS
 (3) Any person who contravenes any rules made under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 6 months or to both.
 
 [Act 27 of 2014 wef 01/01/2015]
+
+### Protection from personal liability
+
+180A\.—(1) No liability shall lie personally against the Director, or any person appointed by and acting under the direction of the Director, who, acting in good faith and with reasonable care, does or omits to do anything —
+
+(a) in the enforcement or purported enforcement of Parts VII and XI; or
+
+(b) in the discharge or purported discharge of —
+
+(i) any function or duty of the Director under this Act;
+
+(ii) any direction given by the Director under this Act; or
+
+(iii) any order made by a court under this Act.
+
+(2) No liability shall lie personally against any person appointed by a court, or pursuant to an order of a court, who, acting in good faith and with reasonable care, does or omits to do anything in the discharge or purported discharge of any order made by a court under this Act.
+
+(3) No liability shall lie personally against any person who, acting in good faith and with reasonable care, does or omits to do anything in a place of safety in the discharge or purported discharge of —
+
+(a) any direction given by the Director under this Act; or
+
+(b) any order made by a court under this Act.
+
+(4) No liability shall lie personally against any person appointed by the Minister for the purposes of section 65(2)(b), who, acting in good faith and with reasonable care, does or omits to do anything in the discharge or purported discharge of the person’s function of making an application for a protection order under section 65 or an expedited order under section 66.
+
+(5) No liability shall lie personally against any officer appointed by the Minister under section 176, who, acting in good faith and with reasonable care, does or omits to do anything in the discharge or purported discharge of any duty imposed upon the Director by Part XI.
+
+(6) No liability shall lie personally against any member of the Board of Visitors appointed by the Minister under section 178, who, acting in good faith and with reasonable care, does or omits to do anything in the discharge or purported discharge of —
+
+(a) any function or duty of the Board of Visitors under this Act; or
+
+(b) any direction given by the Minister under section 178(5).
+
+(7) No liability shall lie personally against any member of the Discharge Committee appointed by the Minister under section 179, who, acting in good faith and with reasonable care, does or omits to do anything in the discharge or purported discharge of any function or duty of the Discharge Committee under this Act.
+
+[Act 7 of 2016 wef 01/07/2016]
 
 ### Marriages solemnized before 15th September 1961 deemed to be registered under this Act
 
@@ -3956,3 +4400,7 @@ This Legislative History is provided for the convenience of users of the Women�
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 January 2015|
+|27.|**Act 7 of 2016—Women's Charter (Amendment) Act 2016**|
+||Date of First Reading|26 January 2016 (Bill No. 6/2016 published on 26 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 July 2016|
