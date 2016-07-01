@@ -4083,37 +4083,39 @@ Fee
 
 A transfer of the undertaking or shares in respect of a scheme for reconstruction of company or companies, an amalgamation of companies, or a transfer, conveyance or assignment of beneficial interest in assets between associated entities, under section 15
 
-$180, irrespective of whether the instrument qualifies for relief under section 15
+$200, irrespective of whether the instrument qualifies for relief under section 15
 
 1A.
 
 A conversion of a firm or private company to a limited liability partnership under section 15
 
-$180, irrespective of whether the instrument qualifies for relief under section 15
+$200, irrespective of whether the instrument qualifies for relief under section 15
 
 1B.
 
 An acquisition of ordinary shares in a company under section 15A
 
-$180, irrespective of whether the instrument qualifies for relief under section 15A
+$200, irrespective of whether the instrument qualifies for relief under section 15A
 
 2.
 
 Any immovable property that is sold under Part IV of the Housing and Development Act (Cap. 129)
 
-$36
+$40
 
 3.
 
 Any other immovable property
 
-$108
+$120
 
 4.
 
 All other transactions
 
-$108.
+$120.
+
+[S 304/2016 wef 01/07/2016]
 
 [S 776/2013 wef 23/12/2013]
 
@@ -4129,53 +4131,121 @@ Section 37(4)
 
 Valuation fees
 
-Subject-matter of Instrument
+Subject matter of Instrument
 
 Fee
 
 1.
 
-Any immovable property sold under Part IV of the Housing and Development Act (Cap. 129)
+Any immovable property —
 
-$36
-
-2.
-
-Any other immovable property —
+$94
 
 (a)
 
-where there is no difference between the certified value under section 37(3) and the value on which, in the opinion of the applicant for the adjudication, the duty was chargeable
-
-$126 for each certificate of valuation
+sold under Part IV of the Housing and Development Act (Cap. 129); or
 
 (b)
 
-where there is such a difference —
+falling under Part IVB of the Housing and Development Act and treated as sold under Part IV of that Act
 
-(i)
+2.
 
-on the first $10,000 of such difference
+Any strata unit comprised in a strata title plan registered under the Land Titles (Strata) Act (Cap. 158)
 
-1%
+$287
 
-(ii)
+3.
 
-on the next $90,000 of such difference
+Any of the following immovable property not falling under item 1 or 2:
 
-0.50%
+$1,020
 
-(iii)
+(a)
 
-on the excess where the difference is in excess of $100,000
+factory;
 
-0.25%, or $126 for each certificate of valuation, whichever is the higher.
+(b)
 
-[S 776/2013 wef 23/12/2013]
+landed dwelling house;
 
-[S 134/2012 wef 01/04/2012]
+(c)
 
-[33/99; S 448/2005]
+shophouse;
+
+(d)
+
+warehouse
+
+4.
+
+Any —
+
+$2,179
+
+(a)
+
+immovable property not falling under item 1, 2 or 3; or
+
+(b)
+
+vacant land,
+
+where the Chief Valuer determines the value of such immovable property or vacant land to be $20 million or less
+
+5.
+
+Any —
+
+$5,005
+
+(a)
+
+immovable property not falling under item 1, 2 or 3; or
+
+(b)
+
+vacant land,
+
+where the Chief Valuer determines the value of such immovable property or vacant land to be more than $20 million
+
+Note:
+
+(1) In item 3 —
+
+“factory” excludes any factory which is used wholly or in part for any of the following purposes or industries:
+
+(a) petrochemical;
+
+(b) pharmaceutical;
+
+(c) ship building or ship repair;
+
+(d) treatment of sewage, water or waste;
+
+(e) concrete batching;
+
+(f) temporary storage or transit of oil, gas or liquid;
+
+(g) district cooling;
+
+(h) water fabrication;
+
+(i) aeronautical;
+
+(j) power supply generation;
+
+“landed dwelling house” means any of the following types of houses used wholly or mainly for the purpose of human habitation:
+
+(a) detached house;
+
+(b) semi-detached house;
+
+(c) terrace house;
+
+“warehouse” means a building where storage is the principal use and where no business is transacted other than incidentally to such storage.
+
+[S 304/2016 wef 01/07/2016]
 
 ## LEGISLATIVE HISTORY
 
@@ -4598,6 +4668,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of First Reading|10 October 2016 (Bill No. 34/2016 published on 10 October 2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|1 April 2016|
+|76.|**G.N. No. S 304/2016—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2016**|
+||Date of commencement|1 July 2016|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
