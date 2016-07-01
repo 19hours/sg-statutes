@@ -1855,7 +1855,19 @@ under section 72
 
 (h) for prescribing the requirements for the presentation and advertisement of health products;
 
-(i) for regulating the conduct of clinical trials of health products;
+(i) for regulating the conduct of clinical trials of health products, and prescribing the matters relating to any consent for a subject to participate in such a trial, including —
+
+(i) the persons who may so consent;
+
+(ii) the considerations which any such person must take into account before so consenting;
+
+(iii) the circumstances in which the consent of such person may be relied upon; and
+
+(iv) the circumstances in which no consent of any person is required for the subject’s participation in the trial,
+
+and whether any matter so prescribed has effect in addition to or despite any other written law or rule of law;
+
+[Act 29 of 2015 wef 01/07/2016]
 
 (j) for prescribing the procedure for the procurement, testing, examination or analysis of any sample under this Act;
 
@@ -1916,3 +1928,7 @@ This Legislative History is provided for the convenience of users of the Health 
 ||Date of operation|31 December 2008|
 |5.|**G. N. No. S 438/2010—Health Products Act (Amendment of First Schedule) Order 2010**|
 ||Date of commencement|10 August 2010|
+|6.|**Act 29 of 2015—Human Biomedical Research Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 25/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|1 July 2016|
