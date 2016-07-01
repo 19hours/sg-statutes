@@ -1350,29 +1350,43 @@ if, at the time the prescribed services are performed, the prescribed goods are 
 
 [24/2011 wef 01/01/2012]
 
-(4) For the purposes of subsections (3), (6), (6A) and (6B) —
+(4) For the purposes of subsections (3), (6), (6AA), (6A) and (6B) —
 
 (a) 
 
-“aircraft” means —
+“aircraft” means any aircraft —
 
-(i) any aircraft which is not used or intended to be used for recreation or pleasure; or
-
-(ii) any aircraft used or intended to be used for recreation or pleasure if it is wholly used or intended to be wholly used for travel —
+(i) that is wholly used or intended to be wholly used for travel —
 
 (A) from a place outside Singapore to another place outside Singapore;
 
 (B) from a place in Singapore to a place outside Singapore; or
 
-(C) from a place outside Singapore to a place in Singapore;
+(C) from a place outside Singapore to a place in Singapore; or
 
-[19/2009 wef 01/01/2010]
+(ii) that is a military aircraft;
+
+[Act 1 of 2016 wef 01/07/2016]
 
 “approved warehouse” means a warehouse or other premises approved by the Comptroller as an approved warehouse;
 
 [24/2011 wef 01/01/2012]
 
 “co-location”, in relation to computer server equipment, means the provision of a physical environment for the operation of the computer server equipment;
+
+“non-international aircraft” means any aircraft —
+
+(i) that is not wholly used or intended to be wholly used for travel —
+
+(A) from a place outside Singapore to another place outside Singapore;
+
+(B) from a place in Singapore to a place outside Singapore; or
+
+(C) from a place outside Singapore to a place in Singapore; and
+
+(ii) that is not a military aircraft;
+
+[Act 1 of 2016 wef 01/07/2016]
 
 “qualifying aircraft parts” means such parts and equipment as are designed and built for exclusive use on an aircraft;
 
@@ -1412,6 +1426,8 @@ being services performed substantially in Singapore.
 
 [20/2010 wef 01/01/2011]
 
+[Act 1 of 2016 wef 01/07/2016]
+
 (4A) For the purposes of subsection (3)(j), (k), (s) and (y), the person with whom the contract is made and the person who directly benefits from the services may be the same person or different persons.
 
 [Act 19/2012 wef 01/01/2012]
@@ -1438,7 +1454,9 @@ being services performed substantially in Singapore.
 
 [28/2007 wef 01/07/2007]
 
-(5) Where a description referred to in subsection (3) is a transaction which would not otherwise be a supply of services, the transaction shall, for the purposes of this Act, be treated as a supply of services in Singapore.
+(5) Where a description referred to in subsection (3) or (6AA)(a) is a transaction which would not otherwise be a supply of services, the transaction shall, for the purposes of this Act, be treated as a supply of services in Singapore.
+
+[Act 1 of 2016 wef 01/07/2016]
 
 (6) A supply of goods is zero-rated where the Comptroller is satisfied that the person supplying the goods —
 
@@ -1455,6 +1473,28 @@ being services performed substantially in Singapore.
 and in either case, if such other conditions or restrictions, if any, as may be prescribed by the Minister in regulations or as the Comptroller may impose are fulfilled.
 
 [20/2010 wef 01/01/2011]
+
+(6AA) Subject to subsection (6AB) —
+
+(a) a supply of prescribed services is treated as a supply of international services to the extent that the supply is specifically attributable to any particular flight by a non-international aircraft that is —
+
+(i) from a place outside Singapore to another place outside Singapore;
+
+(ii) from a place in Singapore to a place outside Singapore; or
+
+(iii) from a place outside Singapore to a place in Singapore; and
+
+(b) a supply of goods is zero-rated to the extent that the supply comprises goods which, to the Comptroller’s satisfaction, are shipped —
+
+(i) for use as stores or fuel on any flight by a non-international aircraft referred to in paragraph (a); or
+
+(ii) for use as merchandise for sale by retail to persons carried on any flight by a non-international aircraft referred to in paragraph (a).
+
+[Act 1 of 2016 wef 01/07/2016]
+
+(6AB) Subsection (6AA) only applies if such other conditions or restrictions, if any, as may be prescribed by the Minister or as the Comptroller may impose are fulfilled.
+
+[Act 1 of 2016 wef 01/07/2016]
 
 (6A) Subject to subsection (6B), a sale or letting on hire of goods is zero-rated where the Comptroller is satisfied that the goods are —
 
@@ -1492,15 +1532,19 @@ and, in any of those cases, if such other conditions or restrictions, if any, as
 
 (7B) [Deleted by Act 19/2012 wef 01/10/2012]
 
-(8) Where the supply of any goods has been zero-rated under subsection (6) or (6A) or regulations made under subsection (7) and —
+(8) Where the supply of any goods has been zero-rated under subsection (6), (6AA)(b) or (6A) or regulations made under subsection (7) and —
 
 (a) the goods are found in Singapore after the date on which they were alleged to have been or were to be exported or shipped; or
 
-(b) any condition specified in the regulations made under subsection (6), (6A) or (7) or imposed by the Comptroller is not complied with,
+(b) any condition specified in the regulations made under subsection (6), (6AB), (6A) or (7) or imposed by the Comptroller is not complied with,
+
+[Act 1 of 2016 wef 01/07/2016]
 
 and the presence of the goods in Singapore after that date or the failure to comply with the condition has not been authorised for the purposes of this subsection by the Comptroller, the tax that would have been chargeable on the supply but for the zero-rating shall become payable immediately by the person to whom the goods were supplied or by any person in whose possession the goods are found in Singapore and the goods shall be liable to seizure.
 
 [20/2010 wef 01/01/2011]
+
+[Act 1 of 2016 wef 01/07/2016]
 
 (9) The Comptroller may, if he thinks fit, waive payment of the whole or part of the tax payable under subsection (8).
 
@@ -3954,7 +3998,15 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 ### Recovery of tax from persons leaving Singapore
 
-82\.—(1) Where the Comptroller is of the opinion that any person is about or likely to leave Singapore without paying all tax assessed on or due from him under this Act, the Comptroller may issue a certificate containing particulars of such tax and a direction to the Controller of Immigration that such person be prevented from leaving Singapore without paying the tax or furnishing security to the satisfaction of the Comptroller for payment thereof.
+82\.—(1) Where the Comptroller is of the opinion that any person —
+
+(a) is about or is likely to leave Singapore without paying all tax assessed on or due from the person under this Act; or
+
+(b) being outside Singapore, is likely, if the person returns to Singapore, to leave Singapore without paying all tax assessed on or due from the person under this Act,
+
+then the Comptroller may issue a certificate containing particulars of such tax and a direction to the Controller of Immigration to prevent the person from leaving Singapore without paying the tax or furnishing security to the satisfaction of the Comptroller for payment of the tax.
+
+[Act 1 of 2016 wef 01/07/2016]
 
 (2) Subject to the provisions of any order issued or made under any written law for the time being in force relating to banishment or immigration, the Controller of Immigration shall pursuant to the direction take, or cause to be taken by any immigration officer, such measures as may be necessary to prevent the person named in the direction from leaving Singapore until payment of the tax has been made or secured, including the use of such force as may be necessary and, if appropriate, the detention of any passport, certificate of identity or other travel document and any exit permit or other document authorising such person to leave Singapore.
 
@@ -3969,6 +4021,14 @@ then the public officer shall, notwithstanding any other written law, contract o
 (6) No civil or criminal proceedings shall be instituted or maintained against the Government, the Controller of Immigration or any customs or immigration officer in respect of anything lawfully done under this section.
 
 [Income Tax 1992 Ed., s. 87]
+
+(7) A reference in this section to tax due from a person under this Act includes a reference to an amount which becomes payable to the Comptroller by a tourist or a person holding himself out to be a tourist, after the approval for the refund of the amount is revoked under a scheme for the refund established by regulations made under section 25.
+
+[Act 1 of 2016 wef 01/07/2016]
+
+(8) In subsection (7), “tourist” means a tourist as defined in regulations establishing the scheme referred to in that subsection.
+
+[Act 1 of 2016 wef 01/07/2016]
 
 ### Power to take samples
 
@@ -5558,17 +5618,21 @@ Part II
 
 1. The fees specified in respect of an application for a ruling made in accordance with Part I are —
 
-(a) a non-refundable application fee of $562 (inclusive of tax), which shall accompany the application;
+(a) a non-refundable application fee of $620 (inclusive of tax), which shall accompany the application;
 
 [S 129/2012 wef 01/04/2012]
 
 [S 119/2014 wef 03/03/2014]
 
-(b) a further fee, calculated at $140.50 (inclusive of tax) per hour (or any part of an hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+[S 302/2016 wef 01/07/2016]
+
+(b) a further fee, calculated at $155 (inclusive of tax) per hour (or any part of an hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
 
 [S 129/2012 wef 01/04/2012]
 
 [S 119/2014 wef 03/03/2014]
+
+[S 302/2016 wef 01/07/2016]
 
 (c) an additional fee (inclusive of tax), of up to 2 times the aggregate fee under sub-paragraphs (a) and (b), for the Comptroller to give priority to the application and to expedite his consideration thereof; and
 
@@ -5945,6 +6009,12 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|25 January 2016 (Bill No. 2/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|9 May 2016|
+|58.|**G.N. No. S 302/2016—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2016**|
+||Date of commencement|1 July 2016|
+|59.|**Act 1 of 2016—Goods and Services Tax (Amendment) Act 2016**|
+||Date of First Reading|25 January 2016 (Bill No. 2/2016 published on 25 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 July 2016|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
