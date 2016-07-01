@@ -712,7 +712,19 @@ and the determination or conviction (as the case may be) is final.
 
 18\. The Minister may by regulations provide for —
 
-(a) the conduct of clinical trials, the issue of clinical trial certificates, the exemption of clinical trials from sections 5 and 6;
+(a) the conduct of clinical trials, the issue of clinical trial certificates, the exemption of clinical trials from sections 5 and 6, and matters relating to any consent for a subject to participate in a clinical trial, including —
+
+(i) the persons who may so consent;
+
+(ii) the considerations which any such person must take into account before so consenting;
+
+(iii) the circumstances in which the consent of such person may be relied upon; and
+
+(iv) the circumstances in which no consent of any person is required for the subject’s participation in the trial,
+
+and whether any matter so prescribed has effect in addition to or despite any other written law or rule of law;
+
+[Act 29 of 2015 wef 01/07/2016]
 
 (b) the conduct of medicinal tests on animals, the issue of animal test certificates, the exemption of medicinal tests on animals from sections 5 and 6; and
 
@@ -1801,3 +1813,7 @@ This Legislative History is provided for the convenience of users of the Medicin
 |||(Bill No. 36/2007 published on 28 August 2007)|
 ||Date of Second and Third Readings|20 September 2007|
 ||Date of commencement|1 September 2008|
+|13.|**Act 29 of 2015—Human Biomedical Research Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 25/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|1 July 2016|
