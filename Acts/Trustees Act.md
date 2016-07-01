@@ -252,7 +252,7 @@
 
 - [82 Penalty for not filing returns, etc.](#Penalty-for-not-filing-returns-etc)
 
-[**Part VII UNIT TRUST SCHEMES**](#Part-VII)
+[**Part VII (Repealed)**](#Part-VII)
 
 - [83 (Repealed)](#Repealed)
 
@@ -330,7 +330,9 @@ PRELIMINARY
 
 “convey” and “conveyance”, as applied to any person, include the execution by that person of every necessary or suitable assurance (including an assent) for conveying, assigning, appointing, surrendering, or otherwise transferring or disposing of land whereof he is seised or possessed, or wherein he is entitled to a contingent right, either for his whole estate or for any less estate, together with the performance of all formalities required by law for the validity of the conveyance;
 
-“court” means the High Court;
+“court” means the High Court and includes, in any case where the trust concerned is an executorship or administratorship, a Family Court;
+
+[Act 16 of 2016 wef 01/07/2016]
 
 “debentures” includes debenture stock, loan stock, bonds, notes and any other document which creates or acknowledges a debt, whether constituting a charge on assets or not;
 
@@ -2617,6 +2619,10 @@ This Legislative History is provided for the convenience of users of the Trustee
 |||(Bill No. 25/2014)|
 ||Date of Second and Third Readings|8 October 2015|
 ||Date of commencement|3 January 2016|
+|32.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|1 July 2016|
 ## COMPARATIVE TABLE
 
 Trustees Act
