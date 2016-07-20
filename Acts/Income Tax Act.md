@@ -1120,9 +1120,11 @@ any information required for the performance of the official duties of the chief
 
 8A\.—(1) The Comptroller may provide an electronic service for —
 
-(a) the filing or submission of any return, estimate, statement or document, and the provision of any information to the Comptroller under section 65B(3); or
+(a) the filing or submission of any return, estimate, statement or document, and the provision of any information to the Comptroller under section 65B(3) or 105L(1); or
 
 [Act 2 of 2016 wef 11/04/2016]
+
+[Act 15 of 2016 wef 20/07/2016]
 
 (b) the service of any notice by the Comptroller.
 
@@ -1136,11 +1138,15 @@ any information required for the performance of the official duties of the chief
 
 [49/2004]
 
-(3) Subject to sections 45(1B) and 45D(2A), any person who is required to file or submit any return, estimate, statement or document may do so through the electronic service.
+(3) Any person who is —
 
-[49/2004]
+(a) filing or submitting any return, estimate, statement or document may; or
 
-[Act 2 of 2016 wef 01/07/2016]
+(b) giving a notice under section 45(1)(b) or 45D(2) or providing any information under section 105L(1) must (unless otherwise permitted by the Comptroller),
+
+do so through the electronic service.
+
+[Act 15 of 2016 wef 20/07/2016]
 
 (4) Any agent who is authorised by his principal in the prescribed manner may file or submit any return, estimate, statement or document, or provide any information to the Comptroller, on behalf of his principal through the electronic service.
 
@@ -3516,7 +3522,7 @@ applies on or after that date (and despite anything in the order) only to income
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive)in any other case;
+(B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive) in any other case;
 
 [Act 37 of 2014 wef 27/11/2014]
 
@@ -22657,6 +22663,10 @@ IMPROVE TAX COMPLIANCE
 
 105I\. In this Part —
 
+“competent authority agreement” means a bilateral or multilateral agreement to improve international tax compliance based on the standard for automatic exchange of financial account information in tax matters developed by the Organisation for Economic Co-operation and Development;
+
+[Act 15 of 2016 wef 20/07/2016]
+
 “international tax compliance agreement” means an agreement or arrangement that is declared by the Minister, by an order under section 105K, as an international tax compliance agreement;
 
 “person” has the meaning given to that word in section 2(1) and includes a partnership.
@@ -22675,11 +22685,27 @@ IMPROVE TAX COMPLIANCE
 
 (a) the agreement reached between the Government and the Government of the United States of America to facilitate compliance by financial institutions and other persons in Singapore with the Foreign Account Tax Compliance Act of the United States of America (FATCA);
 
-(b) any agreement modifying or supplementing that agreement;
+(aa) a competent authority agreement between the Government and —
 
-(c) any other agreement or arrangement between the Government and the government of another country which makes provision corresponding, or substantially similar, to that made by an agreement referred to in paragraph (a) or (b).
+(i) the government of another country; or
 
-[19/2013]
+(ii) the governments of 2 or more countries;
+
+[Act 15 of 2016 wef 20/07/2016]
+
+(b) any agreement modifying or supplementing an agreement in paragraph (a) or (aa);
+
+[Act 15 of 2016 wef 20/07/2016]
+
+(c) any other agreement or arrangement between the Government and —
+
+(i) the government of another country; or
+
+(ii) the governments of 2 or more countries,
+
+which makes provision corresponding, or substantially similar, to that made by an agreement in paragraph (a), (aa) or (b).
+
+[Act 15 of 2016 wef 20/07/2016]
 
 (2) An order under subsection (1) may only take effect on or after the date on which the agreement or arrangement enters into force for Singapore.
 
@@ -22687,15 +22713,19 @@ IMPROVE TAX COMPLIANCE
 
 ### Provision of information to Comptroller
 
-105L\.—(1) Subject to subsection (5), a person falling within any description of persons prescribed by regulations made under section 105P (called in this section a prescribed person) must —
+105L\.—(1) Subject to subsection (5), a person falling within any description of persons prescribed by regulations (called in this section a prescribed person) must provide the Comptroller (or such other person as may be authorised by the Comptroller) with information of a description prescribed by those regulations.
 
-(a) at such times and frequency as may be prescribed by those regulations or as the Comptroller may in any particular case allow; and
+[Act 15 of 2016 wef 20/07/2016]
 
-(b) in such form and manner as may be prescribed by those regulations or as the Comptroller may in any particular case allow,
+(1A) The information under subsection (1) must be provided —
 
-provide the Comptroller, or such other person as may be authorised by the Comptroller, information of a description prescribed by those regulations.
+(a) at such times and frequency as may be prescribed by the regulations or as the Comptroller may in any particular case allow;
 
-[Act 2 of 2016 wef 11/04/2016]
+(b) in such form and manner as may be prescribed by the regulations or as the Comptroller may in any particular case allow; and
+
+(c) using the electronic service, except that the Comptroller may in any particular case or class of cases permit the information to be given in any other manner.
+
+[Act 15 of 2016 wef 20/07/2016]
 
 (2) A prescribed person is not excused from providing the information by reason only that the person is under a duty not to collect, use or disclose that information, whether imposed by written law, rule of law, any contract or any rule of professional conduct, in respect of that information.
 
@@ -22749,6 +22779,26 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [19/2013]
 
+(3A) Where —
+
+(a) a person (X), in order to comply with a regulation mentioned in section 105P(2)(c), requests another person (Y) to provide any information contemplated by an agreement mentioned in section 105P(1) to establishY’s residence for a tax purpose contemplated by that agreement; and
+
+(b) Y, in purported compliance with that request, provides any such information toXwhichYknows is false or misleading in any material particular,
+
+Yshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 15 of 2016 wef 20/07/2016]
+
+(3B) Where —
+
+(a) X, in order to comply with a regulation mentioned in section 105P(2)(c), requestsYto provide any information contemplated by an agreement mentioned in section 105P(1) to establish another person’s (Z) residence for a tax purpose contemplated by that agreement; and
+
+(b) Zprovides any such information, whether directly or indirectly, toXorYwhichZknows is false or misleading in any material particular,
+
+Zshall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 15 of 2016 wef 20/07/2016]
+
 (4) In subsection (3), references to the Comptroller include any other person authorised by the Comptroller.
 
 [Act 37 of 2014 wef 27/11/2014]
@@ -22769,9 +22819,15 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 ### Power of Comptroller to obtain information
 
-105N\.—(1) Sections 65 to 65D shall have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of complying with any provision of an international tax compliance agreement or enabling Singapore to carry out its obligations under any provision of such agreement, and section 65E shall also have effect in relation to a notice issued under section 65B for this purpose.
+105N\.—(1) Sections 65 to 65D have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of —
 
-[19/2013]
+(a) complying with any provision of an international tax compliance agreement;
+
+(b) enabling Singapore to carry out its obligations under any provision of such agreement; or
+
+(c) determining whether a person has complied with any regulation made under section 105P.
+
+[Act 15 of 2016 wef 20/07/2016]
 
 (2) For the purpose of subsection (1) —
 
@@ -22779,11 +22835,19 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 (b) a reference in section 65B to the purposes of this Act shall be read as the purpose referred to in subsection (1);
 
-(c) references in section 65B to proceedings for an offence under this Act, proceedings for the recovery of tax or penalty and proceedings by way of an appeal against an assessment shall be read as a reference to proceedings for an offence under this Part; and
+(c) references in section 65B to proceedings for an offence under this Act, proceedings for the recovery of tax or penalty and proceedings by way of an appeal against an assessment shall be read as a reference to proceedings for an offence under this Part;
 
-(d) the Comptroller may authorise any person (including an officer of the Monetary Authority of Singapore) under section 4(1) to perform or assist in the performance of a duty of the Comptroller under section 65, 65A or 65B.
+[Act 15 of 2016 wef 20/07/2016]
+
+(d) the Comptroller may authorise any person (including an officer of the Monetary Authority of Singapore) under section 4(1) to perform or assist in the performance of a duty of the Comptroller under section 65, 65A or 65B; and
 
 [Act 2 of 2016 wef 11/04/2016]
+
+[Act 15 of 2016 wef 20/07/2016]
+
+(e) section 65E has effect in relation to a notice issued under section 65B for a purpose mentioned in subsection (1).
+
+[Act 15 of 2016 wef 20/07/2016]
 
 ### Information may be used for administration of Act
 
@@ -22793,9 +22857,13 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 ### Regulations to implement international tax compliance agreements
 
-105P\.—(1) The Minister may make regulations for, or in connection with, giving effect to or enabling effect to be given to an international tax compliance agreement.
+105P\.—(1) The Minister may make regulations for, or in connection with, giving effect to or enabling effect to be given to —
 
-[19/2013]
+(a) an international tax compliance agreement; or
+
+(b) any future competent authority agreement which may be declared as an international tax compliance agreement under section 105K(1).
+
+[Act 15 of 2016 wef 20/07/2016]
 
 (2) Without prejudice to the generality of subsection (1), regulations under subsection (1) may —
 
@@ -22803,13 +22871,33 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 (b) for the purpose of section 105L, prescribe different descriptions of information, forms and manners of provision of the information, and times and frequencies for the provision of the information, in relation to different international tax compliance agreements, different persons or under different circumstances;
 
-(c) impose registration, due diligence procedures and other obligations required or permitted to be imposed under an international tax compliance agreement on any person to whom the agreement applies;
+(c) impose on a person —
+
+(i) audit requirements for the purpose of determining the extent of compliance by the person with the regulations made under this section (including requiring the person’s internal auditor or appointing another person to carry out an audit, and report the results of the audit to the Comptroller);
+
+(ii) due diligence requirements;
+
+(iii) registration and other requirements; and
+
+(iv) a requirement that the person inform the Comptroller if the person wishes to authorise another person to perform any requirement under section 105L(1) or sub-paragraphs (i), (ii) and (iii) on the person’s behalf,
+
+being requirements that —
+
+(A) are required or permitted to be imposed under an international tax compliance agreement on any person to whom the agreement applies; or
+
+(B) may facilitate the implementation of any future competent authority agreement which may be declared as an international tax compliance agreement under section 105K(1);
+
+[Act 15 of 2016 wef 20/07/2016]
+
+(ca) provide that a contravention of any specified provision is an offence;
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ca) provide that a contravention of any specified provision is an offence; and
+[Act 15 of 2016 wef 20/07/2016]
 
-[Act 37 of 2014 wef 27/11/2014]
+(cb) enable the Comptroller to appoint another person to carry out an audit for the purpose of determining the extent of compliance by a person with the regulations made under this section; and
+
+[Act 15 of 2016 wef 20/07/2016]
 
 (d) contain incidental, transitional or savings provisions.
 
@@ -22821,9 +22909,25 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 ### Duty to provide information under regulations prevails over duty of secrecy, etc.
 
-105PA\.—(1) This section applies where a regulation made under section 105P imposes a duty on a person (A) to provide any information to another person.
+105PA\.—(1) This section applies where a regulation made under section 105P imposes a duty on a person (A) to —
 
-(2) In relation to a duty to provide information that arises on or after the date the Income Tax (Amendment) Act 2016 is published in theGazette,Ais not excused from providing the information by reason only thatAis under a duty not to collect, use or disclose that information, whether imposed by written law, rule of law, any contract or any rule of professional conduct, in respect of that information.
+(a) provide any information to another person;
+
+(b) requireA’s internal auditor or appoint another person to carry out an audit for the purpose of determining the extent of compliance byAwith the regulation;
+
+(c) carry out any due diligence requirements; or
+
+(d) provide any information to —
+
+(i) A’s internal auditor or the appointed person mentioned in paragraph (b); or
+
+(ii) a person appointed by the Comptroller to carry out an audit.
+
+[Act 15 of 2016 wef 20/07/2016]
+
+(2)Ais not excused from complying with a duty mentioned in subsection (1) by reason only thatAis under a duty not to collect, use or disclose any information, whether imposed by written law, rule of law, any contract or any rule of professional conduct.
+
+[Act 15 of 2016 wef 20/07/2016]
 
 (3)Awho in good faith and with reasonable care does any act for the purpose of complying with the regulation mentioned in subsection (1) is not to be treated as being in breach of any duty mentioned in subsection (2).
 
@@ -24653,40 +24757,26 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 1/2000 published on 18 January 2000)|
 ||Date of Second and Third Readings|21 February 2000|
 ||Date of commencement|15 March 2000|
-|134.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|12 January 2001|
-|||(Bill No. 1/2001 published on 13 January 2001)|
-||Date of Second and Third Readings|22 February 2001|
-||Date of commencement|1 April 2001|
-|135.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|5 March 2001|
-|||(Bill No. 17/2001 published on 7 March 2001)|
-||Date of Second and Third Readings|19 April 2001|
-||Date of commencement|1 June 2001|
-|136.|**Act 24 of 2001—Income Tax (Amendment) Act 2001**|
+|134.|**Act 24 of 2001—Income Tax (Amendment) Act 2001**|
 ||Date of First Reading|11 July 2001|
 |||(Bill No. 25/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 October 2000 (Section 8(b))|
 |||31 January 2001|
 |||10 August 2001|
-|137.|**2001 Revised Edition—Income Tax Act (Chapter 134)**|
-||Date of operation|31 December 2001|
-|138.|**Act 42 of 2001—Securities and Futures Act 2001**|
+|135.|**Act 3 of 2001—Intellectual Property Office of Singapore Act 2001**|
 ||(Consequential amendments made to Act by)||
-||Date of First Reading|25 September 2001|
-|||(Bill No. 33/2001 published on 26 September 2001)|
-||Date of Second and Third Readings|5 October 2001|
-||Date of commencement|1 October 2002 (item (9) of the Fourth Schedule — amendment of Income Tax Act)|
-|139.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||Date of First Reading|12 January 2001|
+|||(Bill No. 1/2001 published on 13 January 2001)|
+||Date of Second and Third Readings|22 February 2001|
+||Date of commencement|1 April 2001|
+|136.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
 ||(Consequential amendments made to Act by)||
-||Date of First Reading|8 July 2002|
-|||(Bill No. 23/2002 published on 9 July 2002)|
-||Date of Second and Third Readings|23 July 2002|
-||Date of commencement|1 October 2002|
-|140.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
+||Date of First Reading|5 March 2001|
+|||(Bill No. 17/2001 published on 7 March 2001)|
+||Date of Second and Third Readings|19 April 2001|
+||Date of commencement|1 June 2001|
+|137.|**Act 37 of 2002—Income Tax (Amendment) Act 2002**|
 ||Date of First Reading|31 October 2002|
 |||(Bill No. 39/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
@@ -24698,15 +24788,21 @@ This Legislative History is provided for the convenience of users of the Income 
 |||2 July 2002|
 |||10 December 2002|
 |||1 January 2003|
-|141.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+|138.|**2001 Revised Edition—Income Tax Act (Chapter 134)**|
+||Date of operation|31 December 2001|
+|139.|**Act 42 of 2001—Securities and Futures Act 2001**|
 ||(Consequential amendments made to Act by)||
-||Date of First Reading|10 March 2003|
-|||(Bill No. 6/2003 published on 11 March 2003)|
-||Date of Second and Third Readings|21 March 2003|
-||Date of commencement|1 April 2003|
-|142.|**G.N. No. S 220/2003—Income Tax Act (Amendment of First Schedule) Order 2003**|
-||Date of commencement|7 May 2003|
-|143.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 October 2002 (item (9) of the Fourth Schedule — amendment of Income Tax Act)|
+|140.|**Act 25 of 2002—Currency (Amendment) Act 2002**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 July 2002|
+|||(Bill No. 23/2002 published on 9 July 2002)|
+||Date of Second and Third Readings|23 July 2002|
+||Date of commencement|1 October 2002|
+|141.|**Act 21 of 2003—Income Tax (Amendment) Act 2003**|
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 28/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
@@ -24719,69 +24815,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 November 2003 (Section 23)|
 |||3 December 2003|
 |||1 January 2004 (Sections 49, 50, 52(b))|
-|144.|**2004 Revised Edition—Income Tax Act (Chapter 134)**|
-||Date of operation|1 January 2004|
-|145.|**Act 4 of 2004—Accountants Act 2004**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|5 January 2004|
-|||(Bill No. 2/2004 published on 6 January 2004)|
-||Date of Second and Third Readings|6 February 2004|
-||Date of commencement|1 April 2004|
-|146.|**Act 11 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|27 February 2004|
-|||(Bill No. 7/2004 published on 28 February 2004)|
-||Date of Second and Third Readings|20 April 2004|
-||Date of commencement|28 April 2004 (section 30 — amendment of Income Tax Act)|
-|147.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|19 April 2004|
-|||(Bill No. 15/2004 published on 20 April 2004)|
-||Date of Second and Third Readings|19 May 2004|
-||Date of commencement|1 July 2004|
-|148.|**Act 48 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|19 October 2004|
-|||(Bill No. 56/2004 published on 20 October 2004)|
-||Date of Second and Third Readings|17 November 2004|
-||Date of commencement|25 November 2004 (section 16 — amendment of Income Tax Act)|
-|149.|**Act 49 of 2004—Income Tax (Amendment) Act 2004**|
-||Date of First Reading|19 October 2004|
-|||(Bill No. 58/2004 published on 20 October 2004)|
-||Date of Second and Third Readings|17 November 2004|
-||Date of commencement|1 January 2003 (Sections 5(a), (c), 2 (e))|
-|||1 October 2003 (Section 28(d))|
-|||1 November 2003 (Sections 26(a), (b), (c), 54(b), (c)|
-|||1 January 2004 (Sections 6, 9(g), (h), (j), 28(g), (m), (n), (o), 54(a))|
-|||27 February 2004 (Sections 5(e), (f), (g), (h), 9(a), (f), 24(c), (d), (e), (f), 30, 33, 34, 39, 56)|
-|||1 July 2004 (Section 13)|
-|||30 November 2004|
-|||1 January 2005 (Sections 9(i), 29, 38(a), 42)|
-|150.|**G.N. No. S 194/2006—Income Tax Act (Amendment of First Schedule) Order 2006**|
-||Date of commencement|22 April 2005 (paragraph 2(b))|
-|151.|**Act 8 of 2005—Diplomatic and Consular Relations Act 2005**|
-||(Related amendments made to Act by)||
-||Date of First Reading|16 November 2004|
-|||(Bill No. 65/2004 published on 17 November 2004)|
-||Date of Second and Third Readings|25 January 2005|
-||Date of commencement|1 May 2005|
-|152.|**G.N. No. S 715/2005—Income Tax Act (Amendment of First Schedule) Order 2005**|
-||Date of commencement|9 November 2005|
-|153.|**Act 11 of 2005—Trust Companies Act 2005**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|25 January 2005|
-|||(Bill No. 1/2005 published on 26 January 2005)|
-||Date of Second and Third Readings|18 February 2005|
-||Date of commencement|1 February 2006|
-|154.|**Act 7 of 2006—Workplace Safety and Health Act 2006**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|17 October 2005|
-|||(Bill No. 36/2005 published on 18 October 2005)|
-||Date of Second and Third Readings|17 January 2006|
-||Date of commencement|1 March 2006|
-|155.|**G. N. No. S 194/2006—Income Tax Act (Amendment of First Schedule) Order 2006**|
-||Date of commencement|31 March 2006 (paragraph 2(a))|
-|156.|**Act 7 of 2007—Income Tax (Amendment) Act 2007**|
+|142.|**Act 7 of 2007—Income Tax (Amendment) Act 2007**|
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 19/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
@@ -24794,100 +24828,29 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 April 2006 (Sections 2(h), (i), (j), 23)|
 |||1 November 2006 (Sections 33, 44(a), (e))|
 |||13 February 2007|
-|157.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
-||Date of First Reading|8 November 2006|
-|||(Bill No. 14/2006 published on 9 November 2006)|
-||Date of Second and Third Readings|22 January 2007|
-||Date of commencement|1 March 2007 (section 3 — amendment of Income Tax Act)|
-|158.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+|143.|**Act 49 of 2004—Income Tax (Amendment) Act 2004**|
+||Date of First Reading|19 October 2004|
+|||(Bill No. 58/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|1 January 2003 (Sections 5(a), (c), 2 (e))|
+|||1 October 2003 (Section 28(d))|
+|||1 November 2003 (Sections 26(a), (b), (c), 54(b), (c)|
+|||1 January 2004 (Sections 6, 9(g), (h), (j), 28(g), (m), (n), (o), 54(a))|
+|||27 February 2004 (Sections 5(e), (f), (g), (h), 9(a), (f), 24(c), (d), (e), (f), 30, 33, 34, 39, 56)|
+|||1 July 2004 (Section 13)|
+|||30 November 2004|
+|||1 January 2005 (Sections 9(i), 29, 38(a), 42)|
+|144.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
 ||(Consequential amendments made to Act by)||
-||Date of First Reading|8 November 2006|
-|||(Bill No. 22/2006 published on 9 November 2006)|
-||Date of Second and Third Readings|23 January 2007|
-||Date of commencement|1 March 2007|
-|159.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|9 April 2007|
-|||(Bill No. 17/2007 published on 10 April 2007)|
-||Date of Second and Third Readings|22 May 2007|
-||Date of commencement|1 July 2007|
-|160.|**G.N. No. S 400/2007—Revised Edition of the Laws (Income Tax Act) (Rectification) Order 2007**|
-||Date of commencement|27 July 2007|
-|161.|**Act 53 of 2007—Income Tax (Amendment No. 2) Act 2007**|
-||Date of First Reading|22 October 2007|
-|||(Bill No. 43/2007 published on 23 October 2007)|
-||Date of Second and Third Readings|12 November 2007|
-||Date of commencement|17 February 2006 (Sections 3(e) and 5)|
-|||1 November 2006 (Sections 6(a), (h), (k), (m), 31(d))|
-|||1 January 2007 (Sections 6(g), 25(e), 29)|
-|||15 February 2007 (Sections 3(c), (d), 6(a), (g), (h), (i), (l), (n), 9, 11, 16(b), (c), (d), 23, 27 and 32)|
-|||1 March 2007 (Sections 15(a), 28, 42(c), (d), (g), (i), 43(b))|
-|||1 July 2007 (Sections 11, 12(b))|
-|||1 September 2007 (Sections 7, 10, 14, 42(o))|
-|||6 December 2007|
-|162.|**2008 Revised Edition—Income Tax Act (Chapter 134)**|
-||Date of operation|1 January 2008|
-|163.|**Act 35 of 2007—Commodity Trading (Amendment) Act 2007**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|21 May 2007|
-|||(Bill No. 23/2007 published on 22 May 2007)|
-||Date of Second and Third Readings|17 July 2007|
-||Date of commencement|27 February 2008 (section 27 — amendment of Income Tax Act)|
-|164.|**Act 10 of 2006—Casino Control Act 2006**|
-||(Related amendments made to Act by)||
-||Date of First Reading|16 January 2006|
-|||(Bill No. 3/2006 published on 17 January 2006)|
-||Date of Second and Third Readings|14 February 2006|
-||Date of commencement|2 April 2008 (section 202 — amendment of Income Tax Act)|
-|165.|**Act 34 of 2008—Income Tax (Amendment) Act 2008**|
-||Date of First Reading|20 October 2008|
-|||(Bill No. 30/2008 published on 20 October 2008)|
-||Date of Second and Third Readings|18 November 2008|
-||Date of commencement|13 February 2007 (Sections 2(b), 23)|
-|||15 February 2007 (Sections 31(a), (b))|
-|||1 September 2007 (Sections 8, 16)|
-|||6 December 2007 (Section 6(g))|
-|||17 January 2008 (Section 40)|
-|||16 February 2008 (Section 6(c), (d), (e), 11, 12, 13, 24, 25(b), 32(b))|
-|||1 April 2008 (Section 17(a), 18, 30, 42, 55, 57(c))|
-|||16 December 2008|
-|||1 January 2009 (Section 46)|
-|166.|**Act 37 of 2008—Limited Partnerships Act 2008**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|21 October 2008|
-|||(Bill No. 35/2008 published on 21 October 2008)|
-||Date of Second and Third Readings|18 November 2008|
-||Date of commencement|4 May 2009|
-|167.|**Act 27 of 2009—Income Tax (Amendment) Act 2009**|
-||Date of First Reading|14 September 2009|
-|||(Bill No. 17/2009 published on 14 September 2009)|
-||Date of Second and Third Readings|23 November 2009|
-||Date of commencement|1 April 2008 (Section 35)|
-|||1 October 2008 (Section 5(a))|
-|||22 January 2009 (Section 7(c), 20, 23)|
-|||1 April 2009 (Section 14)|
-|||4 May 2009 (Section 2, 27)|
-|||1 July 2009 (Section 25, 33(c), (d), (e))|
-|||29 December 2009|
-|||1 January 2010 (Sections 10, 11, 12, 15)|
-|168.|**Act 24 of 2009—Income Tax (Amendment) (Exchange of Information) Act 2009**|
-||Date of First Reading|14 September 2009|
-|||(Bill No. 18/2009 published on 14 September 2009)|
-||Date of Second and Third Readings|19 October 2009|
-||Date of commencement|9 February 2010|
-|169.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|21 July 2008|
-|||(Bill No. 11/2008 published on 22 July 2008)|
-||Date of Second and Third Readings|16 September 2008|
-||Date of commencement|1 March 2010 (item 1(20) of the Second Schedule — amendment of Income Tax Act)|
-|170.|**Act 25 of 2010—Estate Agents Act 2010**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|16 August 2010|
-|||(Bill No. 19/2010 published on 16 August 2010)|
-||Date of Second and Third Readings|15 September 2010|
-||Date of commencement|22 October 2010 (item 4 of the Third Schedule — amendment of Income Tax Act)|
-|171.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
+||Date of First Reading|10 March 2003|
+|||(Bill No. 6/2003 published on 11 March 2003)|
+||Date of Second and Third Readings|21 March 2003|
+||Date of commencement|1 April 2003|
+|145.|**G.N. No. S 220/2003—Income Tax Act (Amendment of First Schedule) Order 2003**|
+||Date of commencement|7 May 2003|
+|146.|**2004 Revised Edition—Income Tax Act (Chapter 134)**|
+||Date of operation|1 January 2004|
+|147.|**Act 29 of 2010—Income Tax (Amendment) Act 2010**|
 ||Date of First Reading|15 September 2010|
 |||(Bill No. 23/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
@@ -24903,13 +24866,41 @@ This Legislative History is provided for the convenience of users of the Income 
 |||22 November 2010|
 |||1 January 2011 (Sections 28(a), (c), 43)|
 |||1 March 2011 (Sections 7(b), (c), 44(b), 45(b), 46(b))|
-|172.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
+|148.|**Act 4 of 2004—Accountants Act 2004**|
 ||(Consequential amendments made to Act by)||
-||Date of First Reading|28 February 2011|
-|||(Bill No. 8/2011 published on 28 February 2011)|
-||Date of Second and Third Readings|10 March 2011|
-||Date of commencement|1 May 2011|
-|173.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
+||Date of First Reading|5 January 2004|
+|||(Bill No. 2/2004 published on 6 January 2004)|
+||Date of Second and Third Readings|6 February 2004|
+||Date of commencement|1 April 2004|
+|149.|**Act 11 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|27 February 2004|
+|||(Bill No. 7/2004 published on 28 February 2004)|
+||Date of Second and Third Readings|20 April 2004|
+||Date of commencement|28 April 2004 (section 30 — amendment of Income Tax Act)|
+|150.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 April 2004|
+|||(Bill No. 15/2004 published on 20 April 2004)|
+||Date of Second and Third Readings|19 May 2004|
+||Date of commencement|1 July 2004|
+|151.|**Act 48 of 2004—Economic Expansion Incentives (Relief from Income Tax) (Amendment No. 2) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|19 October 2004|
+|||(Bill No. 56/2004 published on 20 October 2004)|
+||Date of Second and Third Readings|17 November 2004|
+||Date of commencement|25 November 2004 (section 16 — amendment of Income Tax Act)|
+|152.|**G.N. No. S 194/2006—Income Tax Act (Amendment of First Schedule) Order 2006**|
+||Date of commencement|22 April 2005 (paragraph 2(b))|
+|153.|**Act 8 of 2005—Diplomatic and Consular Relations Act 2005**|
+||(Related amendments made to Act by)||
+||Date of First Reading|16 November 2004|
+|||(Bill No. 65/2004 published on 17 November 2004)|
+||Date of Second and Third Readings|25 January 2005|
+||Date of commencement|1 May 2005|
+|154.|**G.N. No. S 715/2005—Income Tax Act (Amendment of First Schedule) Order 2005**|
+||Date of commencement|9 November 2005|
+|155.|**Act 22 of 2011—Income Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 14/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
@@ -24931,22 +24922,85 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 September 2011 (Section 16(a))|
 |||20 December 2011 (Sections 2, 5, 6(g), 12, 30(j), (k), 32(a), 36(1), 39,42, 43, 45, 46, 47, 50, 51, 52, 55 to 60, 62 to 68(b), 72)|
 |||1 January 2012 (Sections 6(a), (c), (d), 32(b))|
-|174.|**Act 4 of 2011—Retirement Age (Amendment) Act 2011**|
+|156.|**Act 11 of 2005—Trust Companies Act 2005**|
 ||(Consequential amendments made to Act by)||
-||Date of First Reading|22 November 2010|
-|||(Bill No. 36/2010 published on 22 November 2010)|
-||Date of Second and Third Readings|11 January 2011|
-||Date of commencement|1 January 2012|
-|175.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
-||Date of First Reading|21 November 2011|
-|||(Bill No. 22/2011 published on 21 November 2011)|
-||Date of Second and Third Readings|18 January 2012|
-||Date of commencement|1 March 2012 (section 4 — amendment of Income Tax Act)|
-|176.|**G.N. No. S 130/2012—Income Tax Act (Amendment of Seventh Schedule) Order 2012**|
-||Date of commencement|1 April 2012|
-|177.|**G.N. No. S 595/2012—Income Tax Act (Amendment of Eighth Schedule) Order 2012**|
-||Date of commencement|3 December 2012|
-|178.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
+||Date of First Reading|25 January 2005|
+|||(Bill No. 1/2005 published on 26 January 2005)|
+||Date of Second and Third Readings|18 February 2005|
+||Date of commencement|1 February 2006|
+|157.|**Act 53 of 2007—Income Tax (Amendment No. 2) Act 2007**|
+||Date of First Reading|22 October 2007|
+|||(Bill No. 43/2007 published on 23 October 2007)|
+||Date of Second and Third Readings|12 November 2007|
+||Date of commencement|17 February 2006 (Sections 3(e) and 5)|
+|||1 November 2006 (Sections 6(a), (h), (k), (m), 31(d))|
+|||1 January 2007 (Sections 6(g), 25(e), 29)|
+|||15 February 2007 (Sections 3(c), (d), 6(a), (g), (h), (i), (l), (n), 9, 11, 16(b), (c), (d), 23, 27 and 32)|
+|||1 March 2007 (Sections 15(a), 28, 42(c), (d), (g), (i), 43(b))|
+|||1 July 2007 (Sections 11, 12(b))|
+|||1 September 2007 (Sections 7, 10, 14, 42(o))|
+|||6 December 2007|
+|158.|**Act 7 of 2006—Workplace Safety and Health Act 2006**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|17 October 2005|
+|||(Bill No. 36/2005 published on 18 October 2005)|
+||Date of Second and Third Readings|17 January 2006|
+||Date of commencement|1 March 2006|
+|159.|**G. N. No. S 194/2006—Income Tax Act (Amendment of First Schedule) Order 2006**|
+||Date of commencement|31 March 2006 (paragraph 2(a))|
+|160.|**Act 34 of 2008—Income Tax (Amendment) Act 2008**|
+||Date of First Reading|20 October 2008|
+|||(Bill No. 30/2008 published on 20 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|13 February 2007 (Sections 2(b), 23)|
+|||15 February 2007 (Sections 31(a), (b))|
+|||1 September 2007 (Sections 8, 16)|
+|||6 December 2007 (Section 6(g))|
+|||17 January 2008 (Section 40)|
+|||16 February 2008 (Section 6(c), (d), (e), 11, 12, 13, 24, 25(b), 32(b))|
+|||1 April 2008 (Section 17(a), 18, 30, 42, 55, 57(c))|
+|||16 December 2008|
+|||1 January 2009 (Section 46)|
+|161.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+||Date of First Reading|8 November 2006|
+|||(Bill No. 14/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|22 January 2007|
+||Date of commencement|1 March 2007 (section 3 — amendment of Income Tax Act)|
+|162.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 November 2006|
+|||(Bill No. 22/2006 published on 9 November 2006)|
+||Date of Second and Third Readings|23 January 2007|
+||Date of commencement|1 March 2007|
+|163.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|9 April 2007|
+|||(Bill No. 17/2007 published on 10 April 2007)|
+||Date of Second and Third Readings|22 May 2007|
+||Date of commencement|1 July 2007|
+|164.|**G.N. No. S 400/2007—Revised Edition of the Laws (Income Tax Act) (Rectification) Order 2007**|
+||Date of commencement|27 July 2007|
+|165.|**2008 Revised Edition—Income Tax Act (Chapter 134)**|
+||Date of operation|1 January 2008|
+|166.|**Act 35 of 2007—Commodity Trading (Amendment) Act 2007**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 May 2007|
+|||(Bill No. 23/2007 published on 22 May 2007)|
+||Date of Second and Third Readings|17 July 2007|
+||Date of commencement|27 February 2008 (section 27 — amendment of Income Tax Act)|
+|167.|**Act 27 of 2009—Income Tax (Amendment) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 17/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|23 November 2009|
+||Date of commencement|1 April 2008 (Section 35)|
+|||1 October 2008 (Section 5(a))|
+|||22 January 2009 (Section 7(c), 20, 23)|
+|||1 April 2009 (Section 14)|
+|||4 May 2009 (Section 2, 27)|
+|||1 July 2009 (Section 25, 33(c), (d), (e))|
+|||29 December 2009|
+|||1 January 2010 (Sections 10, 11, 12, 15)|
+|168.|**Act 29 of 2012—Income Tax (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 29/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|14 November 2012|
@@ -24961,33 +25015,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 April 2012 (Sections 13, 17, 37(b))|
 |||1 June 2012 (Sections 11, 51(d))|
 |||18 December 2012 (Sections 3(a), 7, 8, 10(b), 16, 18, 22, 25(g), 26, 29, 31, 48)|
-|179.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|15 October 2012|
-|||(Bill No. 28/2012 published on 15 October 2012)|
-||Date of Second and Third Readings|16 November 2012|
-||Date of commencement|31 January 2013 (section 119 — amendment of Income Tax Act)|
-|180.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|12 November 2012|
-|||(Bill No. 36/2012 published on 12 November 2012)|
-||Date of Second and Third Readings|14 January 2013|
-||Date of commencement|17 February 2013 (section 7 — amendment of Income Tax Act)|
-|181.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|12 November 2012|
-|||(Bill No. 39/2012 published on 12 November 2012)|
-||Date of Second and Third Readings|14 January 2013|
-||Date of commencement|13 March 2013|
-|182.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|4 February 2013|
-|||(Bill No. 5/2013 published on 4 February 2013)|
-||Date of Second and Third Readings|15 March 2013|
-||Date of commencement|18 April 2013 (item 10 of the Schedule — amendment of Income Tax Act)|
-|183.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
-||Date of commencement|23 December 2013|
-|184.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
+|169.|**Act 10 of 2006—Casino Control Act 2006**|
+||(Related amendments made to Act by)||
+||Date of First Reading|16 January 2006|
+|||(Bill No. 3/2006 published on 17 January 2006)|
+||Date of Second and Third Readings|14 February 2006|
+||Date of commencement|2 April 2008 (section 202 — amendment of Income Tax Act)|
+|170.|**Act 19 of 2013—Income Tax (Amendment) Act 2013**|
 ||Date of First Reading|16 September 2013|
 |||(Bill No. 14/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
@@ -25000,6 +25034,76 @@ This Legislative History is provided for the convenience of users of the Income 
 |||28 June 2013 (Sections 7(b), (c), (d), (i))|
 |||28 November 2013 (Sections 2, 3, 4(a), (b), 5, 6, 7(e), (f), (g), (j), 9, 10, 11, 13(1)(a), (b), (c), 14, 16, 17, 18(1)(a), 19, 20, 21(1)(a), (d), 23(1)(e), (f), 24, 25, 26, 27(a), 33 to 48, 51, 52)|
 |||1 January 2014|
+|171.|**Act 37 of 2008—Limited Partnerships Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 October 2008|
+|||(Bill No. 35/2008 published on 21 October 2008)|
+||Date of Second and Third Readings|18 November 2008|
+||Date of commencement|4 May 2009|
+|172.|**Act 24 of 2009—Income Tax (Amendment) (Exchange of Information) Act 2009**|
+||Date of First Reading|14 September 2009|
+|||(Bill No. 18/2009 published on 14 September 2009)|
+||Date of Second and Third Readings|19 October 2009|
+||Date of commencement|9 February 2010|
+|173.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 July 2008|
+|||(Bill No. 11/2008 published on 22 July 2008)|
+||Date of Second and Third Readings|16 September 2008|
+||Date of commencement|1 March 2010 (item 1(20) of the Second Schedule — amendment of Income Tax Act)|
+|174.|**Act 25 of 2010—Estate Agents Act 2010**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|16 August 2010|
+|||(Bill No. 19/2010 published on 16 August 2010)|
+||Date of Second and Third Readings|15 September 2010|
+||Date of commencement|22 October 2010 (item 4 of the Third Schedule — amendment of Income Tax Act)|
+|175.|**Act 13 of 2011—Children Development Co-Savings (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|28 February 2011|
+|||(Bill No. 8/2011 published on 28 February 2011)|
+||Date of Second and Third Readings|10 March 2011|
+||Date of commencement|1 May 2011|
+|176.|**Act 4 of 2011—Retirement Age (Amendment) Act 2011**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|22 November 2010|
+|||(Bill No. 36/2010 published on 22 November 2010)|
+||Date of Second and Third Readings|11 January 2011|
+||Date of commencement|1 January 2012|
+|177.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+||Date of First Reading|21 November 2011|
+|||(Bill No. 22/2011 published on 21 November 2011)|
+||Date of Second and Third Readings|18 January 2012|
+||Date of commencement|1 March 2012 (section 4 — amendment of Income Tax Act)|
+|178.|**G.N. No. S 130/2012—Income Tax Act (Amendment of Seventh Schedule) Order 2012**|
+||Date of commencement|1 April 2012|
+|179.|**G.N. No. S 595/2012—Income Tax Act (Amendment of Eighth Schedule) Order 2012**|
+||Date of commencement|3 December 2012|
+|180.|**Act 36 of 2012—Casino Control (Amendment) Act 2012**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|15 October 2012|
+|||(Bill No. 28/2012 published on 15 October 2012)|
+||Date of Second and Third Readings|16 November 2012|
+||Date of commencement|31 January 2013 (section 119 — amendment of Income Tax Act)|
+|181.|**Act 2 of 2013—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2012|
+|||(Bill No. 36/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|17 February 2013 (section 7 — amendment of Income Tax Act)|
+|182.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|12 November 2012|
+|||(Bill No. 39/2012 published on 12 November 2012)|
+||Date of Second and Third Readings|14 January 2013|
+||Date of commencement|13 March 2013|
+|183.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013 (item 10 of the Schedule — amendment of Income Tax Act)|
+|184.|**G.N. No. S 775/2013—Income Tax Act (Amendment of Seventh Schedule) Order 2013**|
+||Date of commencement|23 December 2013|
 |185.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
 ||(Related amendments made to Act by)||
 ||Date of First Reading|21 October 2013|
@@ -25037,11 +25141,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 April 2014|
 |||1 April 2015|
 |||1 April 2016|
-|192.|**Act 11 of 2016—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2016**|
-||Date of First Reading|29 February 2016 (Bill No. 9/2016 published on 29 February 2016)|
-||Date of Second and Third Readings|14 March 2016|
-||Date of commencement|19 April 2016|
-|193.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|192.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2014|
@@ -25054,7 +25154,10 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 July 2015|
 |||1 January 2016|
 |||11 April 2016|
-|||1 July 2016|
+|193.|**Act 11 of 2016—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2016**|
+||Date of First Reading|29 February 2016 (Bill No. 9/2016 published on 29 February 2016)|
+||Date of Second and Third Readings|14 March 2016|
+||Date of commencement|19 April 2016|
 |194.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
 ||Date of First Reading|10 October 2016|
 |||(Bill No. 34/2016)|
@@ -25068,6 +25171,10 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 July 2016|
 |195.|**G. N. No. S 303/2016—Income Tax Act (Amendment of Seventh Schedule) Order 2016**|
 ||Date of commencement|1 July 2016|
+|196.|**Act 15 of 2016—Income Tax (Amendment No. 2) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 16/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|20 July 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
