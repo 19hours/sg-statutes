@@ -188,11 +188,7 @@ SILVER SUPPORT SCHEME
 
 (c) satisfies all other eligibility criteria that may be prescribed.
 
-(2) For the purposes of subsection (1)(
-
-b
-
-) —
+(2) For the purposes of subsection (1)(b) —
 
 (a) an individual attains the age of 65 years on the 65th anniversary of the date of that individual’s birth;
 
