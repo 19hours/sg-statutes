@@ -1600,7 +1600,9 @@ Part I
 
 5A. The following subsidiary legislation made under the Road Traffic Act:
 
-(a) rules 10, 22, 24A, 24B, 25 and 28 of the Road Traffic Rules (Cap. 276, R 20);
+(a) rules 10, 22, 24, 24A, 24B, 25, 26B, 26C and 28 of the Road Traffic Rules (Cap. 276, R 20);
+
+[S 364/2016 wef 29/07/2016]
 
 (b) rules 8 and 9 of the Road Traffic (Expressway Traffic) Rules (Cap. 276, R 23);
 
@@ -1757,3 +1759,5 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of commencement|1 April 2016|
 |27.|**G.N. No. S 151/2016—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) (No. 2) Order 2016**|
 ||Date of commencement|4 April 2016|
+|28.|**G.N. No. S 364/2016—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) (No. 3) Order 2016**|
+||Date of commencement|29 July 2016|
