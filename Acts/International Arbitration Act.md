@@ -284,13 +284,17 @@ relating to the Model Law.
 
 8\.—(1) The High Court in Singapore shall be taken to have been specified in Article 6 of the Model Law as courts competent to perform the functions referred to in that Article except for Article 11(3) and (4) of the Model Law.
 
-(2) The Chairman of the Singapore International Arbitration Centre shall be taken to have been specified as the authority competent to perform the functions under Article 11(3) and (4) of the Model Law.
+(2) The President of the Court of Arbitration of the Singapore International Arbitration Centre shall be taken to have been specified as the authority competent to perform the functions under Article 11(3) and (4) of the Model Law.
 
 [38/2001]
 
-(3) The Chief Justice may, if he thinks fit, by notification published in theGazette, appoint any other person to exercise the powers of the Chairman of the Singapore International Arbitration Centre under subsection (2).
+[Act 16 of 2016 wef 01/08/2016]
+
+(3) The Chief Justice may, if he thinks fit, by notification published in theGazette, appoint any other person to exercise the powers of the President of the Court of Arbitration of the Singapore International Arbitration Centre under subsection (2).
 
 [38/2001]
+
+[Act 16 of 2016 wef 01/08/2016]
 
 ### Application of Limitation Act and Foreign Limitation Periods Act 2012
 
@@ -534,9 +538,13 @@ then, both the Model Law and this Part shall not apply to that arbitration but t
 
 ### Appointment of conciliator
 
-16\.—(1) Where an agreement provides for the appointment of a conciliator by a person who is not one of the parties and that person refuses to make the appointment or does not make it within the time specified in the agreement or, if no time is so specified, within a reasonable time of being requested by any party to the agreement to make the appointment, the Chairman for the time being of the Singapore International Arbitration Centre may, on the application of any party to the agreement, appoint a conciliator who shall have the like powers to act in the conciliation proceedings as if he had been appointed in accordance with the terms of the agreement.
+16\.—(1) Where an agreement provides for the appointment of a conciliator by a person who is not one of the parties and that person refuses to make the appointment or does not make it within the time specified in the agreement or, if no time is so specified, within a reasonable time of being requested by any party to the agreement to make the appointment, the President of the Court of Arbitration of the Singapore International Arbitration Centre may, on the application of any party to the agreement, appoint a conciliator who shall have the like powers to act in the conciliation proceedings as if he had been appointed in accordance with the terms of the agreement.
 
-(2) The Chief Justice may, if he thinks fit, by notification published in theGazette, appoint any other person to exercise the powers of the Chairman of the Singapore International Arbitration Centre under subsection (1).
+[Act 16 of 2016 wef 01/08/2016]
+
+(2) The Chief Justice may, if he thinks fit, by notification published in theGazette, appoint any other person to exercise the powers of the President of the Court of Arbitration of the Singapore International Arbitration Centre under subsection (1).
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (3) Where an arbitration agreement provides for the appointment of a conciliator and further provides that the person so appointed shall act as an arbitrator in the event of the conciliation proceedings failing to produce a settlement acceptable to the parties —
 
@@ -1407,6 +1415,10 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 10/2012 published on 8 March 2012)|
 ||Date of Second and Third Readings|9 April 2012|
 ||Date of commencement|1 June 2012|
+|10.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|1 August 2016|
 ## COMPARATIVE TABLE
 
 International Arbitration Act
