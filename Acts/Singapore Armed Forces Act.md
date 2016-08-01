@@ -234,9 +234,9 @@
 
 - [98 Military documents as evidence](#Military-documents-as-evidence)
 
-- [99 Certificate relating to controlled drug](#Certificate-relating-to-controlled-drug)
+- [99 Certificate relating to controlled drug or controlled substance](#Certificate-relating-to-controlled-drug-or-controlled-substance)
 
-- [100 Urine test](#Urine-test)
+- [100 (Repealed)](#Repealed)
 
 - [101 Transcript](#Transcript)
 
@@ -2398,25 +2398,33 @@ subject to the same right of the accused to object.
 
 (3) Any document purporting to be a document under subsection (1) or (2) shall be presumed to be such a document.
 
-### Certificate relating to controlled drug
+### Certificate relating to controlled drug or controlled substance
 
-99\.—(1) A certificate purporting to be signed by a Government pharmacist or scientific officer or a Singapore Armed Forces pharmacist or chemist and purporting to relate to a controlled drug shall be admitted in evidence in any proceedings under this Act for an offence under section 34 or an offence under the Misuse of Drugs Act (Cap. 185) on its production by the prosecution without proof of signature and, until the contrary is proved, such certificate shall be prima facie evidence of all matters contained therein.
+99\.—(1) A certificate purporting —
 
-[17/78]
+(a) to be signed by —
 
-(2) In this section, “controlled drug” has the same meaning as in the Misuse of Drugs Act.
+(i) an analyst employed by the Health Sciences Authority;
 
-### Urine test
+(ii) a person appointed under section 16(a)(ii) of the Misuse of Drugs Act (Cap. 185);
 
-100\.—(1) A person subject to military law who has been required by a lawful order or a general order to provide a specimen of his urine for a urine test may, within such time and in such manner as may be prescribed, apply for a second test of the specimen of his urine which is kept for that purpose in accordance with any regulations made under this Act.
+(iii) a Singapore Armed Forces pharmacist or chemist; or
 
-(2) If —
+(iv) such other person as the Minister may, by notification in theGazette, appoint; and
 
-(a) a person is convicted by a subordinate military court as a result of a urine test of the offence of smoking, administering to himself or otherwise consuming a controlled drug under section 34 of this Act or under section 8(b) of the Misuse of Drugs Act; and
+(b) to relate to a controlled drug or controlled substance,
 
-(b) as a result of a second test which has been conducted on the application of such person under subsection (1) it is found that there is no controlled drug in the specimen of his urine,
+is to be admitted in evidence in any proceedings under this Act for an offence under section 34, or under the Misuse of Drugs Act, on the production of the certificate by the prosecution without proof of signature and, until the contrary is proved, is proof of all matters contained in the certificate.
 
-the Armed Forces Council shall quash the finding of that offence made by the subordinate military court and the sentence imposed by the subordinate military court for that offence.
+(2) In this section —
+
+“controlled drug” and “controlled substance” have the same meanings as in section 2 of the Misuse of Drugs Act;
+
+“Health Sciences Authority” means the Health Sciences Authority established under section 3 of the Health Sciences Authority Act (Cap. 122C).
+
+[Act 16 of 2016 wef 01/08/2016]
+
+100\. [Repealed by Act 16 of 2016 wef 01/08/2016]
 
 ### Transcript
 
@@ -4803,6 +4811,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 July 2014|
+|26.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|1 August 2016|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
