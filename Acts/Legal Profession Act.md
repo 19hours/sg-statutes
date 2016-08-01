@@ -1158,7 +1158,13 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 (c) the Dean of the Faculty of Law of the National University of Singapore;
 
-(d) the Dean of the School of Law of the Singapore Management University; and
+(d) the Dean of the School of Law of the Singapore Management University;
+
+[Act 16 of 2016 wef 01/08/2016]
+
+(da) the Dean of the School of Law of the SIM University;
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (e) not less than 8 and not more than 12 other members, all of whom shall be appointed by the President of the Academy, after consulting the Senate, for such period and on such terms and conditions as the President of the Academy may determine.
 
@@ -1246,29 +1252,45 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 (b) to prescribe the duration of the practice training period applicable to a practice trainee (including different durations for different classes of practice trainees), and to regulate the manner in which a practice trainee is to serve his practice training period;
 
-(c) to prescribe the courses of instruction, and the subjects therein, which a qualified person must attend and satisfactorily complete before he can be admitted as an advocate and solicitor, and to regulate the conduct of a qualified person while attending such a course (including through disciplinary measures for any misconduct);
+(c) to prescribe the courses of instruction which a qualified person must attend and satisfactorily complete before the qualified person can be admitted as an advocate and solicitor, the conditions for entry to such a course and the subjects in such a course, and to regulate the conduct of a qualified person while attending such a course (including through disciplinary measures for any misconduct);
 
-(d) to prescribe the examinations which a qualified person must pass before he can be admitted as an advocate and solicitor, and to regulate the conduct of a qualified person during such an examination (including through disciplinary measures for any misconduct);
+[Act 16 of 2016 wef 01/08/2016]
 
-(e) to provide for the courses of instruction, and the subjects therein, which a foreign lawyer must attend and satisfactorily complete before he can be registered under section 36B, and to regulate the conduct of a foreign lawyer while attending such a course (including through disciplinary measures for any misconduct);
+(d) to prescribe the examinations which a qualified person must pass before the qualified person can be admitted as an advocate and solicitor and the conditions for sitting for such an examination, and to regulate the conduct of a qualified person during such an examination (including through disciplinary measures for any misconduct);
 
-[Act 40 of 2014 wef 18/11/2015]
+[Act 16 of 2016 wef 01/08/2016]
 
-(f) to provide for the examinations which a foreign lawyer must pass before he can be registered under section 36B, and to regulate the conduct of a foreign lawyer during such an examination (including through disciplinary measures for any misconduct);
+(e) to provide for the courses of instruction which a foreign lawyer must attend and satisfactorily complete before the foreign lawyer can be registered under section 36B, including the conditions for entry to such a course and the subjects in such a course, and to regulate the conduct of a foreign lawyer while attending such a course (including through disciplinary measures for any misconduct);
 
-[Act 40 of 2014 wef 18/11/2015]
+[Act 16 of 2016 wef 01/08/2016]
+
+(f) to provide for the examinations which a foreign lawyer must pass before the foreign lawyer can be registered under section 36B, including the conditions for sitting for such an examination, and to regulate the conduct of a foreign lawyer during such an examination (including through disciplinary measures for any misconduct);
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (g) to prescribe the procedure by which a qualified person is admitted as an advocate and solicitor of the Supreme Court;
 
-(h) to prescribe the forms to be used and the fees to be paid for the purposes of this Part, Part IIA, section 25(1)(ca) and any rules made under this section;
+(h) to prescribe the forms to be used and the fees to be paid for the purposes of this Part, Part IIA, section 25(1)(ca) and any rules made under subsection (1) or this subsection;
 
 [Act 3 of 2012 wef 01/04/2012]
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (i) to prescribe the requirements relating to continuing professional development that must be satisfied by advocates and solicitors and by foreign lawyers registered under section 36B (including different requirements for different classes thereof), and the measures which may be taken to verify whether those requirements have been complied with and to enforce compliance with those requirements; and
 
 [Act 40 of 2014 wef 18/11/2015]
 
 (j) to provide for the waiver of any requirement referred to in paragraph (i), in relation to any advocate and solicitor or foreign lawyer referred to in that paragraph, by such person or persons as the Board of Directors of the Institute may appoint.
+
+(2A) The Board of Directors of the Institute may, after consulting the Minister, make rules —
+
+(a) to provide for the courses mentioned in section 2(3)(c), including the conditions for entry to such a course and the subjects in such a course, and to regulate the conduct of a person while attending such a course (including through disciplinary measures for any misconduct);
+
+(b) to provide for the tests and examinations mentioned in section 2(3)(c), including the conditions for sitting for any such test or examination, and to regulate the conduct of a person during any such test or examination (including through disciplinary measures for any misconduct); and
+
+(c) to prescribe the forms to be used and the fees to be paid for the purposes of any rules made under this subsection.
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (3) Disciplinary proceedings may be taken against any advocate and solicitor, or foreign lawyer registered under section 36B, who contravenes any rules made under this section.
 
@@ -2092,9 +2114,11 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 [20/2009 wef 09/10/2009]
 
-(c) being a member of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, is dismissed from the Faculty or School, as the case may be;
+(c) being a member of the Faculty of Law of the National University of Singapore, the School of Law of the Singapore Management University or the School of Law of the SIM University, is dismissed from the Faculty or School, as the case may be;
 
 [20/2009 wef 09/10/2009]
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (d) is convicted of an offence by a court of law in Singapore or elsewhere and sentenced to imprisonment for a term of not less than 12 months or to a fine of not less than $2,000 and has not received a free pardon;
 
@@ -3487,7 +3511,13 @@ shall be admitted as a member of the Society and remain a member under this sect
 
 (i) of the Faculty of Law of the National University of Singapore;
 
-(ii) of the School of Law of the Singapore Management University; or
+(ii) of the School of Law of the Singapore Management University;
+
+[Act 16 of 2016 wef 01/08/2016]
+
+(iia) of the School of Law of the SIM University; or
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (iii) of any department in any institution of higher learning in Singapore who teaches law in that department;
 
@@ -3675,13 +3705,17 @@ Council of Society
 
 49\.—(1) There shall be 15 elected members of the Council consisting of —
 
-(a) 6 practitioner members, each of whom shall be an advocate and solicitor of not less than 12 years’ standing on the day of his nomination for election to the Council;
+(a) 7 practitioner members, each of whom is an advocate and solicitor of not less than 15 years’ standing on the day of his nomination for election to the Council;
 
-(b) 5 practitioner members, each of whom shall be an advocate and solicitor of under 12 years’ but not less than 7 years’ standing on the day of his nomination for election to the Council; and
+[Act 16 of 2016 wef 01/08/2016]
 
-(c) 4 practitioner members, each of whom shall be an advocate and solicitor of under 7 years’ standing on the day of his nomination for election to the Council.
+(b) 4 practitioner members, each of whom is an advocate and solicitor of less than 15 years’ but not less than 5 years’ standing on the day of his nomination for election to the Council; and
 
-[30/86]
+[Act 16 of 2016 wef 01/08/2016]
+
+(c) 4 practitioner members, each of whom is an advocate and solicitor of less than 5 years’ standing on the day of his nomination for election to the Council.
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (2) Subject to the provisions of this Act, every elected member of the Council shall hold office as a member of the Council for 2 years.
 
@@ -3739,11 +3773,17 @@ Election of members of Council
 
 50\.—(1) Every advocate and solicitor who has in force a practising certificate on the date of nomination as provided in section 51 shall vote for the election of the members of the Council as follows:
 
-(a) if he is an advocate and solicitor of not less than 12 years’ standing, he shall vote for the election of the members of the Council under section 49(1)(a);
+(a) if he is an advocate and solicitor of not less than 15 years’ standing, he shall vote for the election of the members of the Council under section 49(1)(a);
 
-(b) if he is an advocate and solicitor of under 12 years’ but not less than 7 years’ standing, he shall vote for the election of the members of the Council under section 49(1)(b); and
+[Act 16 of 2016 wef 01/08/2016]
 
-(c) if he is an advocate and solicitor of under 7 years’ standing, he shall vote for the election of the members of the Council under section 49(1)(c).
+(b) if he is an advocate and solicitor of less than 15 years’ but not less than 5 years’ standing, he shall vote for the election of the members of the Council under section 49(1)(b); and
+
+[Act 16 of 2016 wef 01/08/2016]
+
+(c) if he is an advocate and solicitor of less than 5 years’ standing, he shall vote for the election of the members of the Council under section 49(1)(c).
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (2) Every advocate and solicitor who is required to vote for the election of the members of the Council in accordance with subsection (1) and who fails to do so shall not be entitled to apply for a practising certificate unless he —
 
@@ -3759,31 +3799,39 @@ Election of members of Council
 
 (a) the date of nomination which shall be in the second week of the month of October that year;
 
-(b) the date of election which shall be in the last week of the month of October that year;
+(b) the date of election which shall be in the last week of the month of October that year; and
 
-(c) a convenient place in the Supreme Court building or elsewhere where the ballot shall take place; and
+[Act 16 of 2016 wef 01/08/2016]
+
+(c) [Deleted by Act 16 of 2016 wef 01/08/2016]
 
 (d) the names of 3 scrutineers.
 
 [17/84]
 
-(2) The annual election of the members of the Council shall take place within 21 days after the annual general meeting and shall, subject to section 53, be conducted in such manner as may be prescribed by rules made under section 59 on the date and place fixed by the Council in accordance with subsection (1).
+(2) The annual election of the members of the Council shall take place within 21 days after the annual general meeting and shall, subject to section 53, be conducted in such manner as may be prescribed by rules made under section 59 on the date fixed by the Council in accordance with subsection (1).
 
 [35/2001]
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (3) If for any reason whatsoever it is necessary to elect all the elected members of the Council, the Council shall fix and publish —
 
 (a) the date of nomination which shall be not less than 7 days or more than 15 days from the date of the notice notifying members of the election;
 
-(b) the date of the election which shall be not less than 10 days or more than 15 days from the date of nomination;
+(b) the date of the election which shall be not less than 10 days or more than 15 days from the date of nomination; and
 
-(c) a convenient place in the Supreme Court building or elsewhere where the ballot shall take place; and
+[Act 16 of 2016 wef 01/08/2016]
+
+(c) [Deleted by Act 16 of 2016 wef 01/08/2016]
 
 (d) the names of 3 scrutineers.
 
-(4) The election under subsection (3) shall, subject to section 53, be conducted in such manner as may be prescribed by rules made under section 59 on the date and place fixed by the Council in accordance with that subsection.
+(4) The election under subsection (3) shall, subject to section 53, be conducted in such manner as may be prescribed by rules made under section 59 on the date fixed by the Council in accordance with that subsection.
 
 [35/2001]
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (5) Any accidental failure on the part of the Council to comply with this section or any rules made with respect to elections to the Council shall not invalidate an election.
 
@@ -4524,7 +4572,9 @@ shall, while his registration or approval continues in force, pay to the Society
 
 (f) for payment of any other sums properly payable out of the Fund by virtue of this section.
 
-(10) If in any year there has been neither an application for a grant from the Fund nor a grant made from the Fund, the Council may, in its discretion, transfer from the Fund all interest, dividends and other accretions of capital arising from the Fund or any part thereof to a fund of the Society established for the purposes of purchasing or maintaining a library for the use of the members of the Society.
+(10) If in any year no grant is made from the Fund, and there is no application for a grant from the Fund that is pending at the end of that year, the Council may, in its discretion, transfer from the Fund all interest, dividends and other accretions of capital arising from the Fund or any part thereof to a fund of the Society established for the purposes of purchasing or maintaining a library for the use of the members of the Society.
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (11) Where it is proved to the satisfaction of the Council that any person has sustained loss in consequence of dishonesty on the part of —
 
@@ -4702,7 +4752,9 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 [20/2009 wef 09/10/2009]
 
-(c) a full-time member of the academic staff of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University; or
+(c) a full-time member of the academic staff of the Faculty of Law of the National University of Singapore, the School of Law of the Singapore Management University or the School of Law of the SIM University; or
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (d) holding any combination of occupations referred to in paragraphs (a), (b) and (c).
 
@@ -5050,7 +5102,7 @@ DISCIPLINARY PROCEEDINGS
 
 [19/2008]
 
-(2) Such due cause may be shown by proof that an advocate and solicitor —
+(2) Subject to subsection (7), such due cause may be shown by proof that an advocate and solicitor —
 
 (a) has been convicted of a criminal offence, implying a defect of character which makes him unfit for his profession;
 
@@ -5096,6 +5148,8 @@ DISCIPLINARY PROCEEDINGS
 
 [Act 40 of 2014 wef 18/11/2015]
 
+[Act 16 of 2016 wef 01/08/2016]
+
 (2A) Every person admitted under section 15 shall, with the necessary modifications, be subject to the same jurisdiction as can be exercised over advocates and solicitors under this Part, except that —
 
 (a) in lieu of any order that he be struck off the roll, either or both of the following orders may be made:
@@ -5130,6 +5184,10 @@ DISCIPLINARY PROCEEDINGS
 
 [15/89; 41/93; 19/2008]
 
+(7) The Minister may make rules for the exemption from section 83(2)(d) and (e) of any advocate and solicitor who satisfies such requirements, and does an act referred to in section 83(2)(d) or (e) in such circumstances, as may be prescribed in those rules.
+
+[Act 16 of 2016 wef 01/08/2016]
+
 ### Power to discipline regulated foreign lawyers
 
 83A\.—(1) Every regulated foreign lawyer shall be subject to the control of the Supreme Court and shall be liable on due cause shown —
@@ -5142,7 +5200,7 @@ DISCIPLINARY PROCEEDINGS
 
 (d) to suffer the punishment referred to in paragraph (b) in addition to the punishment referred to in paragraph (a) or (c).
 
-(2) Such due cause may be shown by proof that the regulated foreign lawyer —
+(2) Subject to subsection (7), such due cause may be shown by proof that the regulated foreign lawyer —
 
 (a) has been convicted of a criminal offence, implying a defect of character which makes him unfit for his profession;
 
@@ -5170,6 +5228,8 @@ DISCIPLINARY PROCEEDINGS
 
 (j) has been disbarred, struck off, suspended, ordered to pay a penalty, censured or reprimanded in his capacity as a legal practitioner by whatever name called in any other jurisdiction.
 
+[Act 16 of 2016 wef 01/08/2016]
+
 (3) In any proceedings instituted under this Part against a regulated foreign lawyer, the court may in addition to the facts of the case take into account his past conduct in order to determine what order should be made.
 
 (4) In any proceedings instituted under this Part against a regulated foreign lawyer consequent upon his conviction for a criminal offence, an Inquiry Committee, a Disciplinary Tribunal and a court of 3 Judges of the Supreme Court referred to in section 98 shall accept his conviction as final and conclusive.
@@ -5185,6 +5245,10 @@ DISCIPLINARY PROCEEDINGS
 (c) unless that complaint is withdrawn or deemed to be withdrawn, this Part shall not apply to the foreign lawyer in respect of any other complaint relating to the same subject‑matter as that complaint.
 
 [Act 40 of 2014 wef 18/11/2015]
+
+(7) The Minister may make rules for the exemption from section 83A(2)(d) and (e) of any regulated foreign lawyer who satisfies such requirements, and does an act referred to in section 83A(2)(d) or (e) in such circumstances, as may be prescribed in those rules.
+
+[Act 16 of 2016 wef 01/08/2016]
 
 ### Appointment of Inquiry Panel
 
@@ -5242,19 +5306,29 @@ DISCIPLINARY PROCEEDINGS
 
 [Act 40 of 2014 wef 18/11/2015]
 
-(3) Any Judge of the Supreme Court, Judicial Commissioner of the Supreme Court, Senior Judge of the Supreme Court or International Judge of the Supreme Court, the Attorney‑General, the Director of Legal Services or the Institute may at any time refer to the Society any information touching upon the conduct of a regulated legal practitioner, and the Council shall —
+(3) Any judicial office holder specified in subsection (3A), the Attorney‑General, the Director of Legal Services or the Institute may at any time refer to the Society any information touching upon the conduct of a regulated legal practitioner, and the Council must —
 
 (a) refer the matter to the Chairman of the Inquiry Panel; or
 
-(b) where the Judge, Judicial Commissioner, Senior Judge or International Judge, the Attorney‑General, the Director of Legal Services or the Institute requests that the matter be referred to a Disciplinary Tribunal, apply to the Chief Justice to appoint a Disciplinary Tribunal.
+(b) if that judicial office holder, the Attorney‑General, the Director of Legal Services or the Institute (as the case may be) requests that the matter be referred to a Disciplinary Tribunal, apply to the Chief Justice to appoint a Disciplinary Tribunal.
 
-[30/86; 15/89; 41/93; 35/2001; 19/2008]
+[Act 16 of 2016 wef 01/08/2016]
 
-[Act 3 of 2012 wef 01/04/2012]
+(3A) For the purposes of subsection (3), the judicial office holders are —
 
-[Act 40 of 2014 wef 01/01/2015]
+(a) any Judge of the Supreme Court;
 
-[Act 40 of 2014 wef 18/11/2015]
+(b) any Judicial Commissioner of the Supreme Court;
+
+(c) any Senior Judge of the Supreme Court;
+
+(d) any International Judge of the Supreme Court;
+
+(e) the Presiding Judge of the Family Justice Courts; and
+
+(f) the Presiding Judge of the State Courts.
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (3A) [Deleted by Act 40 of 2014 wef 18/11/2015]
 
@@ -5882,13 +5956,23 @@ have regard to the evidence given, the arguments adduced and any orders made dur
 
 ### Complaint made by Judge, etc., or Attorney-General
 
-92\. Where any Judge of the Supreme Court, Judicial Commissioner of the Supreme Court, Senior Judge of the Supreme Court or International Judge of the Supreme Court or the Attorney-General has referred to the Society any information touching upon the conduct of a regulated legal practitioner, all references in this Part to a person who made the complaint shall be construed to include a reference to the Attorney-General.
+92\.—(1) Where any judicial office holder specified in subsection (2) or the Attorney‑General refers to the Society any information touching upon the conduct of a regulated legal practitioner, every reference in this Part to a person who made the complaint is to be construed as including a reference to the Attorney‑General.
 
-[30/86; 41/93; 35/2001]
+(2) For the purposes of subsection (1), the judicial office holders are —
 
-[Act 40 of 2014 wef 01/01/2015]
+(a) any Judge of the Supreme Court;
 
-[Act 40 of 2014 wef 18/11/2015]
+(b) any Judicial Commissioner of the Supreme Court;
+
+(c) any Senior Judge of the Supreme Court;
+
+(d) any International Judge of the Supreme Court;
+
+(e) the Presiding Judge of the Family Justice Courts; and
+
+(f) the Presiding Judge of the State Courts.
+
+[Act 16 of 2016 wef 01/08/2016]
 
 ### Findings of Disciplinary Tribunal
 
@@ -8939,6 +9023,10 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 36/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|18 November 2015|
+|60.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|1 August 2016|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
