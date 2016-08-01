@@ -238,13 +238,15 @@ CONSTITUTION AND POWERS OF SENATE
 
 (e) the President of the Law Society;
 
-(f) the Dean of the Faculty of Law of the National University of Singapore and the Dean of the School of Law of the Singapore Management University; and
+(f) the Dean of the Faculty of Law of the National University of Singapore, the Dean of the School of Law of the Singapore Management University and the Dean of the School of Law of the SIM University; and
 
 [20/2007 wef 01/06/2007]
 
 [20/2009 wef 09/10/2009]
 
 [8/2011 wef 03/05/2011]
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (g) [Deleted by Act 8/2011 wef 03/05/2011]
 
@@ -418,11 +420,13 @@ shall become, by virtue of this section and without election, admission or appoi
 
 [Act 40 of 2014 wef 18/11/2015]
 
-(c) being a member of the Faculty of Law of the National University of Singapore or the School of Law of the Singapore Management University, he has been dismissed from the Faculty or School, as the case may be, for misconduct in the discharge of his duties;
+(c) being a member of the Faculty of Law of the National University of Singapore, the School of Law of the Singapore Management University or the School of Law of the SIM University, he has been dismissed from the Faculty or School, as the case may be, for misconduct in the discharge of his duties;
 
 [20/2007 wef 01/06/2007]
 
 [20/2009 wef 09/10/2009]
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (d) he has been convicted of an offence involving fraud or dishonesty;
 
@@ -655,3 +659,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 36/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|18 November 2015|
+|16.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|1 August 2016|
