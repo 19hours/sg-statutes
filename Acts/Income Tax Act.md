@@ -1266,6 +1266,18 @@ shall be sufficient evidence that the electronic record, copy or print‑out has
 
 [Act 2 of 2016 wef 01/07/2016]
 
+(15) In this section —
+
+(a) a reference to the filing or submission of any return, estimate, statement or document includes a reference to the making of an election under section 37I(1) or (4A); and
+
+(b) a reference to any return, estimate, statement or document includes a reference to such election.
+
+[Act 15 of 2016 wef 01/08/2016]
+
+(16) Despite subsection (3), any person making an election under section 37I(1) or (4A) must, unless otherwise permitted by the Comptroller, do so through the electronic service.
+
+[Act 15 of 2016 wef 01/08/2016]
+
 ### Free postage
 
 9\. All returns, additional information and resulting correspondence and payment of tax under the provisions of this Act may be sent post‑free to the Comptroller in envelopes marked “Income Tax”.
@@ -14878,9 +14890,15 @@ for which a deduction or an allowance is allowable or can be made to him under a
 
 (a) in respect of the year of assessment 2011 or the year of assessment 2012, be made to the Comptroller by the qualifying person at any time after the end of the basis period for that year of assessment but before the expiration of the time the qualifying person must deliver a return of his income for that year of assessment or within such extended time as the Comptroller may allow;
 
-(b) in respect of the year of assessment 2013, the year of assessment 2014, the year of assessment 2015, the year of assessment 2016, the year of assessment 2017 or the year of assessment 2018, be made to the Comptroller by the qualifying person at any time after the end of the quarter of the basis period for that year of assessment but before the expiration of the time the qualifying person must deliver a return of his income for that year of assessment or within such extended time as the Comptroller may allow; and
+(b) in respect of the year of assessment 2013, the year of assessment 2014, the year of assessment 2015, the year of assessment 2016, the year of assessment 2017 or the year of assessment 2018, be made to the Comptroller by the qualifying person at any time after the end of the quarter of the basis period for that year of assessment but before the expiration of the time the qualifying person must deliver a return of his income for that year of assessment or within such extended time as the Comptroller may allow;
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 15 of 2016 wef 01/08/2016]
+
+(ba) if made on or after 1 August 2016, be made using the electronic service, except that the Comptroller may in any particular case or class of cases permit the election to be made in any other manner; and
+
+[Act 15 of 2016 wef 01/08/2016]
 
 (c) be accompanied by such information and supporting document to be given in such form and manner as the Comptroller may specify.
 
@@ -14960,7 +14978,7 @@ where A is —
 
 [22/2011]
 
-(4) For the year of assessment 2013, the year of assessment 2014, the year of assessment 2015, the year of assessment 2016, the year of assessment 2017 and the year of assessment 2018, the amount of cash payout for each year of assessment shall be
+(4) For the year of assessment 2013, the year of assessment 2014, the year of assessment 2015 and the year of assessment 2016, the amount of cash payout for each year of assessment shall be
 
 where A is the lower of the following:
 
@@ -14971,6 +14989,60 @@ where A is the lower of the following:
 [29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 15 of 2016 wef 01/08/2016]
+
+(4AA) For the year of assessment 2017, the amount of cash payout is —
+
+(a) if the last day of the basis period for that year of assessment is before 1 August 2016, the amount computed in accordance with subsection (4) (as applied with the necessary modifications); or
+
+(b) if the last day of the basis period for that year of assessment is on or after 1 August 2016
+
+where A
+
+is the lower of the following:
+
+(i)
+
+the aggregate amount of selected expenditure for one or more quarters (or part of such quarter) between the first day of the basis period for that year of assessment and 31 July 2016 (both dates inclusive);
+
+(ii)
+
+$100,000; and
+
+B
+
+is the lower of the following:
+
+(i)
+
+the aggregate amount of selected expenditure for one or more quarters (or part of such quarter) between 1 August 2016 and the last day of the basis period for that year of assessment (both dates inclusive);
+
+(ii)
+
+the balance after deducting the lower of the amounts specified in paragraphs (i) and (ii) of the definition of A from $100,000.
+
+[Act 15 of 2016 wef 01/08/2016]
+
+(4AB) For the year of assessment 2018, the amount of cash payout is —
+
+(a) if the first day of the basis period for that year of assessment is before 1 August 2016, the amount computed in accordance with subsection (4AA)(b) (as applied with the necessary modifications); or
+
+(b) if the first day of the basis period for that year of assessment is on or after 1 August 2016
+
+where B
+
+is the lower of the following:
+
+(i)
+
+the aggregate amount of selected expenditure for all quarters of the basis period for that year of assessment;
+
+(ii)
+
+$100,000.
+
+[Act 15 of 2016 wef 01/08/2016]
 
 (4A) Where —
 
@@ -14992,15 +15064,21 @@ he may, in lieu of all those allowances, make an irrevocable written election fo
 
 (a) if the hire-purchase agreement or IPR instalment agreement is signed in the basis period for the year of assessment 2012, be made to the Comptroller by the qualifying person at any time after the end of the basis period but before the expiration of the time the qualifying person must deliver a return of his income for that year of assessment or within such extended time as the Comptroller may allow;
 
-(b) if the hire-purchase agreement or IPR instalment agreement is signed in any quarter of the basis period for the year of assessment 2013, the year of assessment 2014, the year of assessment 2015, the year of assessment 2016, the year of assessment 2017 or the year of assessment 2018, be made to the Comptroller by the qualifying person at any time after the end of that quarter but before the expiration of the time the qualifying person must deliver a return of his income for that year of assessment or within such extended time as the Comptroller may allow; and
+(b) if the hire-purchase agreement or IPR instalment agreement is signed in any quarter of the basis period for the year of assessment 2013, the year of assessment 2014, the year of assessment 2015, the year of assessment 2016, the year of assessment 2017 or the year of assessment 2018, be made to the Comptroller by the qualifying person at any time after the end of that quarter but before the expiration of the time the qualifying person must deliver a return of his income for that year of assessment or within such extended time as the Comptroller may allow;
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 15 of 2016 wef 01/08/2016]
+
+(ba) if made on or after 1 August 2016, be made using the electronic service, except that the Comptroller may in any particular case or class of cases permit the election to be made in any other manner; and
+
+[Act 15 of 2016 wef 01/08/2016]
 
 (c) be accompanied by such information and supporting documents to be given in such form and manner as the Comptroller may specify.
 
 [29/2012]
 
-(4C) Where an election under subsection (4A) is made, then subsections (3) and (4) shall apply with the following modifications:
+(4C) Where an election under subsection (4A) is made, then subsections (3), (4), (4AA) and (4AB) shall apply with the following modifications:
 
 (a) a reference to the amount of selected expenditure or the aggregate amount of selected expenditure for a year of assessment, being the year of assessment relating to the basis period in which the agreement is signed, is a reference to the aggregate of —
 
@@ -15012,13 +15090,35 @@ he may, in lieu of all those allowances, make an irrevocable written election fo
 
 [29/2012]
 
-(4D) The maximum amount of cash payout for each equipment that is the subject of a hire-purchase agreement, or any intellectual property rights that are the subject of an IPR instalment agreement, is the amount computed under subsection (3) or (4) (as modified by subsection (4C)), as the case may be, that is attributable to —
+[Act 15 of 2016 wef 01/08/2016]
+
+(4D) The maximum amount of cash payout for each equipment that is the subject of a hire-purchase agreement, or any intellectual property rights that are the subject of an IPR instalment agreement, is the amount computed under subsection (3), (4), (4AA) or (4AB) (as modified by subsection (4C)), as the case may be, that is attributable to —
 
 (a) the cash price of the equipment or rights; or
 
-(b) if the total cash payout for the year of assessment is the amount referred to in subsection (3)(a)(ii) or (b)(ii) or (4)(b) (as the case may be), such part of the price of the equipment or rights that the qualifying person elects to be used for computing the cash payout.
+(b) such part of the price of the equipment or rights that the qualifying person elects to be used for computing the cash payout for the year of assessment if the selected expenditure or the aggregate amount of selected expenditure for the cash payout is —
 
-[29/2012]
+(i) the amount mentioned in subsection (3)(a)(ii) in the case of the year of assessment 2011, or subsection (3)(b)(ii) in the case of the year of assessment 2012;
+
+(ii) $100,000 in the case of the year of assessment 2013, 2014, 2015 or 2016;
+
+(iii) $100,000 —
+
+(A) in the case of the year of assessment 2017, where the last day of the basis period for that year of assessment is before 1 August 2016; or
+
+(B) in the case of the year of assessment 2018, where the first day of the basis period for that year of assessment is on or after 1 August 2016; or
+
+(iv) the amount mentioned in paragraph (ii) of the definition of A or paragraph (ii) of the definition of B in subsection (4AA)(b) —
+
+(A) in the case of the year of assessment 2017, where the last day of the basis period for that year of assessment is on or after 1 August 2016; or
+
+(B) in the case of the year of assessment 2018, where the first day of the basis period for that year of assessment is before 1 August 2016.
+
+[Act 15 of 2016 wef 01/08/2016]
+
+(4DA) Sub-paragraphs (i) to (iv) of subsection (4D)(b) have effect for all cash payouts for the respective years of assessment mentioned in those sub-paragraphs.
+
+[Act 15 of 2016 wef 01/08/2016]
 
 (4DB) In subsections (4C)(a)(i) and (4D)(a), a reference to the cash price of intellectual property rights is, in a case where the Comptroller has treated the open‑market price mentioned in section 19B(10I) as the amount mentioned in section 19B(1C)(a)(i) in relation to those rights, a reference to the open‑market price.
 
@@ -15030,7 +15130,7 @@ he may, in lieu of all those allowances, make an irrevocable written election fo
 
 (b) the amount of cash payout that may be made to him is the lesser of —
 
-(i) A x B,
+(i) 
 
 where A
 
@@ -15038,11 +15138,29 @@ is the amount of such capital expenditure; and
 
 B
 
-is 30% if the agreement is signed in the basis period for the year of assessment 2012; or
+is the percentage in the second column of the following table set out opposite the period in which the agreement is signed in the first column of the table:
 
-is 60% if the agreement is signed in the basis period for the year of assessment 2013, the year of assessment 2014, the year of assessment 2015, the year of assessment 2016, the year of assessment 2017 or the year of assessment 2018; and
+If the agreement is signed
 
-[Act 37 of 2014 wef 27/11/2014]
+Percentage
+
+In the basis period for the year of assessment 2012
+
+30%
+
+In the basis period for the year of assessment 2013, 2014, 2015 or 2016
+
+60%
+
+On or before 31 July 2016 in the basis period for the year of assessment 2017 or 2018
+
+60%
+
+On or after 1 August 2016 in the basis period for the year of assessment 2017 or 2018
+
+40%
+
+[Act 15 of 2016 wef 01/08/2016]
 
 (ii) the maximum amount referred to in subsection (4D) after deducting any cash payout made earlier for that equipment or those rights under this subsection;
 
@@ -15056,9 +15174,9 @@ is 60% if the agreement is signed in the basis period for the year of assessment
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(5) For the purposes of subsections (1), (3), (4) and (4A), an individual carrying on one or more trades, professions or businesses through 2 or more firms (excluding partnerships) shall not be granted a cash payout that exceeds the amount computed in accordance with subsection (3) or (4) (as the case may be).
+(5) For the purposes of subsections (1), (3), (4), (4AA), (4AB) and (4A), an individual carrying on one or more trades, professions or businesses through 2 or more firms (excluding partnerships) must not be granted a cash payout that exceeds the amount computed in accordance with subsection (3), (4), (4AA) or (4AB) (as the case may be).
 
-[29/2012]
+[Act 15 of 2016 wef 01/08/2016]
 
 (6) [Deleted by Act 19 of 2013]
 
@@ -15156,14 +15274,6 @@ then the following provisions shall apply:
 
 (iv) the amount of the cash payout that may be made to the qualifying person for the basis period or a quarter thereof (as the case may be) in which the event occurs and thereafter shall, instead of the amount computed in accordance with subsection (4E)(b), be an amount computed in accordance with the following formula:
 
-Cash payout computed in accordance with subsection (4E)(b)
-
-x
-
-Number of complete years the intellectual property rights were held by the qualifying person
-
-5
-
 [29/2012]
 
 (12) Where any tax, duty, interest or penalty is due under this Act, the Goods and Services Tax Act (Cap. 117A), the Property Tax Act (Cap. 254) or the Stamp Duties Act (Cap. 312) by the qualifying person to the Comptroller of Income Tax, the Comptroller of Goods and Services Tax, the Comptroller of Property Tax or the Commissioner of Stamp Duties, the amount of cash payout made by the Comptroller to the qualifying person shall be reduced by the amount so due.
@@ -15216,7 +15326,7 @@ the amount of the cash payout or the excess amount of the cash payout, as the ca
 
 [29/2010; 19/2013]
 
-(19) Unless disallowed by the Comptroller under subsection (20), where the Comptroller has recovered any amount under subsection (15)(b) or (c), the amount of the relevant expenditure referred to in subsection (14) or (14A) shall be increased by an amount determined in accordance with the formula
+(19) Unless disallowed by the Comptroller under subsection (20), where the Comptroller has recovered any amount under subsection (15)(b) or (c), the amount of the relevant expenditure mentioned in subsection (14) or (14A) is to be increased by an amount determined in accordance with the formula
 
 where A
 
@@ -15224,13 +15334,43 @@ is the amount recovered by the Comptroller under subsection (15)(b) or (c); and
 
 B
 
-is 30% if the amount recovered is for a cash payout for expenditure incurred, equipment acquired under a hire‑purchase agreement signed, or intellectual property rights acquired under an IPR instalment agreement signed, in the basis period for the year of assessment 2011 or the year of assessment 2012; or
+is the percentage in the second column of the following table if the amount recovered is for a cash payout for —
 
-is 60% if the amount recovered is for a cash payout for expenditure incurred, equipment acquired under a hire‑purchase agreement signed, or intellectual property rights acquired under an IPR instalment agreement signed, in the basis period for the year of assessment 2013, the year of assessment 2014, the year of assessment 2015, the year of assessment 2016, the year of assessment 2017 or the year of assessment 2018.
+(a)
 
-[Act 37 of 2014 wef 27/11/2014]
+expenditure incurred;
 
-[29/2012]
+(b)
+
+equipment acquired under a hire-purchase agreement signed; or
+
+(c)
+
+intellectual property rights acquired under an IPR instalment agreement signed,
+
+in the period set out opposite in the first column of the table:
+
+[Act 15 of 2016 wef 01/08/2016]
+
+When the expenditure was incurred, or the hire-purchase agreement or IPR instalment agreement was signed
+
+Percentage
+
+In the basis period for the year of assessment 2011 or 2012
+
+30%
+
+In the basis period for the year of assessment 2013, 2014, 2015 or 2016
+
+60%
+
+On or before 31 July 2016 in the basis period for the year of assessment 2017 or 2018
+
+60%
+
+On or after 1 August 2016 in the basis period for the year of assessment 2017 or 2018
+
+40%
 
 (20) The Comptroller may disallow the increase under subsection (19) if he is satisfied that the qualifying person has —
 
@@ -25175,6 +25315,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of First Reading|14 April 2016 (Bill No. 16/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|20 July 2016|
+|||1 August 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
