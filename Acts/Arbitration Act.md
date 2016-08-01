@@ -422,7 +422,9 @@ any party may apply to the appointing authority to take the necessary measure un
 
 (7) No appointment by the appointing authority shall be challenged except in accordance with this Act.
 
-(8) For the purposes of this Act, the appointing authority shall be the Chairman of the Singapore International Arbitration Centre.
+(8) For the purposes of this Act, the appointing authority shall be the President of the Court of Arbitration of the Singapore International Arbitration Centre.
+
+[Act 16 of 2016 wef 01/08/2016]
 
 (9) The Chief Justice may, if he thinks fit, by notification published in theGazette, appoint any other person to exercise the powers of the appointing authority under this section.
 
@@ -1371,6 +1373,10 @@ This Legislative History is provided for the convenience of users of the Arbitra
 ||Date of First Reading|8 March 2012 (Bill No. 10/2012 published on 8 March 2012)|
 ||Date of Second and Third Readings|9 April 2012|
 ||Date of commencement|1 June 2012|
+|8.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|1 August 2016|
 ## COMPARATIVE TABLE
 
 Arbitration Act
