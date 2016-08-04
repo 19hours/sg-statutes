@@ -919,33 +919,13 @@ Excluded transactions in relation to consumer transactions
 
 (a) acquisition of an estate or interest in any immovable property (but not including any lease of residential property granted in consideration of rent or any time share contract);
 
-(b) (for the avoidance of doubt) service provided under a contract of employment; or
+(b) (for the avoidance of doubt) service provided under a contract of employment.
 
-(c) any transaction or activity that is regulated under any written law specified in paragraph 2.
+[S 387/2016 wef 04/08/2016]
 
-2. The following Acts are specified for the purposes of paragraph 1(c):
+(c) [Deleted by S 387/2016 wef 04/08/2016]
 
-(a) [Deleted by Act 15 of 2008]
-
-(b) [Deleted by Act 15 of 2008]
-
-(c) [Deleted by Act 15 of 2008]
-
-(d) [Deleted by Act 15 of 2008]
-
-(e) [Deleted by Act 15 of 2008]
-
-(f) [Deleted by Act 15 of 2008]
-
-(g) [Deleted by Act 15 of 2008]
-
-(h) [Deleted by Act 15/2008 wef 01/04/2010]
-
-(i) Pawnbrokers Act (Cap. 222).\*
-
-\*Sub-paragraph (i) of paragraph 2 will be deleted when section 8(c) of the Consumer Protection (Fair Trading) (Amendment) Act 2008 (Act 15 of 2008) is brought into operation.
-
-[15/2008]
+2. [Deleted by S 387/2016 wef 04/08/2016]
 
 SECOND SCHEDULE
 
@@ -1102,3 +1082,5 @@ This Legislative History is provided for the convenience of users of the Consume
 |||(Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|8.|**G.N. No. S 387/2016—Consumer Protection (Fair Trading) Act (Amendment of First Schedule) Order 2016**|
+||Date of commencement|4 August 2016|
