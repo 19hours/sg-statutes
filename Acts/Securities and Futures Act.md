@@ -1152,6 +1152,8 @@
 
 - [240 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
+- [240AA Requirement for product highlights sheet, where relevant](#Requirement-for-product-highlights-sheet-where-relevant)
+
 - [240A Debenture issuance programme](#Debenture-issuance-programme)
 
 - [241 Lodging supplementary document or replacement document](#Lodging-supplementary-document-or-replacement-document)
@@ -1208,6 +1210,8 @@
 
 - [265 Power of court in relation to certain irredeemable debentures](#Power-of-court-in-relation-to-certain-irredeemable-debentures)
 
+- [265A Requirement for trustees](#Requirement-for-trustees)
+
 - [266 Duties of trustees](#Duties-of-trustees)
 
 - [267 Powers of trustee to apply to court for directions, etc.](#Powers-of-trustee-to-apply-to-court-for-directions-etc)
@@ -1215,6 +1219,8 @@
 - [267A Right of Authority, securities exchange and holders of debentures to apply to court for order](#Right-of-Authority-securities-exchange-and-holders-of-debentures-to-apply-to-court-for-order)
 
 - [268 Obligations of borrowing entity](#Obligations-of-borrowing-entity)
+
+- [268A Additional obligations of borrowing entity, where debentures are not listed on securities exchange](#Additional-obligations-of-borrowing-entity-where-debentures-are-not-listed-on-securities-exchange)
 
 - [269 Obligation of guarantor entity to furnish information](#Obligation-of-guarantor-entity-to-furnish-information)
 
@@ -1249,6 +1255,10 @@
 - [281 Revocation of exemption](#Revocation-of-exemption)
 
 - [282 Transactions under exempted offers subject to Division 2 of Part XII of Companies Act and Part XII of this Act](#Transactions-under-exempted-offers-subject-to-Division-2-of-Part-XII-of-Companies-Act-and-Part-XII-of-this-Act)
+
+[**Subdivision 5 General**](#Subdivision-5-General)
+
+- [282AA Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
 
 [**Division 1A  Business Trusts**](#Division-1A--Business-Trusts)
 
@@ -1336,6 +1346,10 @@
 
 - [282ZF Applicability of provisions relating to prospectus requirements](#Applicability-of-provisions-relating-to-prospectus-requirements)
 
+[**Subdivision 5 General**](#Subdivision-5-General)
+
+- [282ZG Power of Authority to issue directions](#Power-of-Authority-to-issue-directions)
+
 [**Division 2  Collective Investment Schemes**](#Division-2--Collective-Investment-Schemes)
 
 [**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
@@ -1410,6 +1424,8 @@
 
 - [296 Requirement for prospectus and profile statement, where relevant](#Requirement-for-prospectus-and-profile-statement-where-relevant)
 
+- [296A Requirement for product highlights sheet, where relevant](#Requirement-for-product-highlights-sheet-where-relevant)
+
 - [297 Stop order for prospectus and profile statement](#Stop-order-for-prospectus-and-profile-statement)
 
 - [298 Lodging supplementary document or replacement document](#Lodging-supplementary-document-or-replacement-document)
@@ -1453,6 +1469,16 @@
 [**Division 3  Securities Hawking**](#Division-3--Securities-Hawking)
 
 - [309 Securities hawking prohibited](#Securities-hawking-prohibited)
+
+[**Division 4  Capital Markets Products**](#Division-4--Capital-Markets-Products)
+
+- [309A Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [309B Obligation of issuer to determine, and to notify approved exchange and relevant person of, classification of capital markets products](#Obligation-of-issuer-to-determine-and-to-notify-approved-exchange-and-relevant-person-of-classification-of-capital-markets-products)
+
+- [309C Use of term "capital protected" or "principal protected"](#Use-of-term-"capital-protected"-or-"principal-protected")
+
+- [309D Use of term "product highlights sheet"](#Use-of-term-"product-highlights-sheet")
 
 [**Part XIV APPEALS**](#Part-XIV)
 
@@ -15873,15 +15899,27 @@ but does not include any capacity of a person to influence decisions on the fina
 
 “preliminary document” means a document which has been lodged with the Authority and is issued for the purpose of determining the appropriate issue or sale price of, and the number of, securities to be issued or sold and which contains the information required to be included in a prospectus under section 243, except for such information as may be prescribed by the Authority;
 
+“product highlights sheet” means a product highlights sheet referred to in section 240AA(1);
+
+[Act 34 of 2012 wef 19/08/2016]
+
 “profile statement” means a profile statement referred to in section 240(4);
 
 “promoter”, in relation to a prospectus issued by or in connection with an entity, means a promoter of the entity who was a party to the preparation of the prospectus or of any relevant portion thereof, but does not include any person by reason only of his acting in a professional capacity;
 
 “prospectus” means any prospectus, notice, circular, material, advertisement, publication or other document used to make an offer of securities, and includes any document deemed to be a prospectus under section 257, but does not include —
 
-(a) a profile statement; or
+(a) a profile statement;
 
-(b) any material, advertisement or publication which is authorised by section 251 (other than subsection (5));
+[Act 34 of 2012 wef 19/08/2016]
+
+(b) any material, advertisement or publication which is authorised by section 251 (other than subsection (5)); or
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(c) a product highlights sheet;
+
+[Act 34 of 2012 wef 19/08/2016]
 
 “recognised securities exchange” means a corporation which has been declared by the Authority, by order published in theGazette, to be a recognised securities exchange for the purposes of this Division;
 
@@ -16280,6 +16318,90 @@ as the case may be, shall be guilty of an offence and shall be liable on convict
 (20) Regulations made under this section may provide that a contravention of specified provisions thereof shall be an offence and may provide penalties not exceeding a fine of $50,000.
 
 [Companies, s. 43, s. 45A and s. 50; Aust. Corporations 2001, s. 721]
+
+### Requirement for product highlights sheet, where relevant
+
+240AA\.—(1) No person shall make an offer of any relevant securities, being an offer that is made in or accompanied by a prospectus or profile statement that complies with section 240, unless the prospectus or profile statement is accompanied by a product highlights sheet in respect of the offer —
+
+(a) that complies with such requirements as may be prescribed by the Authority by regulations made under section 341; and
+
+(b) a copy of which is lodged with the Authority.
+
+(2) No person shall publish or disseminate, whether in Singapore or elsewhere, any document relating to any offer or intended offer of any relevant securities, being an offer that is, or an intended offer that will be, made in or accompanied by a prospectus or profile statement that complies with section 240, if the document resembles or may otherwise be confused with a product highlights sheet, unless he is required to do so —
+
+(a) under any written law or rule of law, or by any court, in Singapore;
+
+(b) under the laws and practices of, or by any court in, any foreign jurisdiction; or
+
+(c) by any listing rules or other requirements of any securities exchange, futures exchange, overseas securities exchange or overseas futures exchange.
+
+(3) The Authority may, for public information, publish —
+
+(a) a product highlights sheet lodged with the Authority under this section; and
+
+(b) where applicable, the translation thereof in the English language lodged with the Authority under section 318A(1).
+
+(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) In this section —
+
+“asset-backed securities” has the same meaning as in section 262(3);
+
+“relevant securities” means —
+
+(a) asset-backed securities;
+
+(b) structured notes; or
+
+(c) such other securities as the Authority may prescribe by regulations made under section 341;
+
+“single purpose vehicle” means an entity that is established solely in order to, or a trust that is established solely in order for its trustee to, do either or both of the following:
+
+(a) act as counterparty to arrangements which involve the use of derivatives to create exposure to assets from which payments to holders of any structured notes are or will be primarily derived;
+
+(b) issue any structured notes;
+
+“specified financial institution” means —
+
+(a) any bank licensed under the Banking Act (Cap. 19); or
+
+(b) any entity that is, or that belongs to a class of entities that is, specified by the Authority, by notification published in theGazette, to be an entity, or a class of entities, for the purposes of this definition;
+
+“structured notes” means any type of debentures or units of debentures —
+
+(a) which is issued —
+
+(i) in relation to —
+
+(A) a synthetic securitisation transaction; or
+
+(B) such other arrangement or transaction as may be prescribed by the Authority by regulations made under section 341; or
+
+(ii) by a specified financial institution; and
+
+(b) for which —
+
+(i) the principal sum or any interest is, or both are, payable;
+
+(ii) such other sum or sums as may be prescribed by the Authority, by regulations made under section 341, is or are payable;
+
+(iii) one or more underlying assets, being securities, equity interests, commodities, currencies or such other assets as may be prescribed by the Authority by regulations made under section 341, are to be physically delivered; or
+
+(iv) 2 or more of sub-paragraphs (i), (ii) and (iii) apply,
+
+in accordance with a formula based on one or more of the following:
+
+(A) the performance of any type of securities, equity interest, commodity or index, or of a basket of 2 or more types of securities, equity interests, commodities or indices;
+
+(B) the credit risk or performance of any entity or a basket of entities;
+
+(C) the movement of interest rates or currency exchange rates;
+
+(D) such other variables as may be prescribed by the Authority by regulations made under section 341;
+
+“synthetic securitisation transaction” means an arrangement involving the use of derivatives to create or replicate exposure to assets that are not transferred to, or are not a part of an asset pool held by, a single purpose vehicle.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 ### Debenture issuance programme
 
@@ -16999,13 +17121,37 @@ regard shall be had to whether the statement —
 
 [1/2005]
 
-(4) Notwithstanding subsection (6), a person does not contravene subsection (1) by presenting oral or written material, on matters contained in a preliminary document which has been lodged with the Authority, to institutional investors, relevant persons as defined in section 275(2) or persons to whom an offer referred to in section 275(1A) is to be made before a prospectus or profile statement is registered by the Authority.
+(4) Notwithstanding subsection (6), a person does not contravene subsection (1) —
 
-[1/2005]
+(a) by presenting, before a prospectus or profile statement is registered by the Authority, oral or written material on matters contained in a preliminary document which has been lodged with the Authority, to institutional investors, relevant persons as defined in section 275(2) or persons to whom an offer referred to in section 275(1A) is to be made; or
 
-(5) For the avoidance of doubt, a person may disseminate a prospectus or profile statement that has been registered by the Authority under section 240 without contravening subsection (1).
+(b) by presenting oral or written material on matters contained in a prospectus, profile statement or product highlights sheet which has been lodged with the Authority in respect of an offer of securities, before the prospectus or profile statement is registered by the Authority, for the sole purpose of equipping any of the following persons with knowledge of the securities in order to enable the person to carry on the regulated activity of dealing in securities, or to provide any financial advisory service, in relation to the securities:
 
-[1/2005]
+(i) a person licensed under this Act in respect of dealing in securities;
+
+(ii) an exempt person;
+
+(iii) a person who is a representative in respect of dealing in securities under this Act;
+
+(iv) a representative of an exempt person;
+
+(v) a person licensed under the Financial Advisers Act (Cap. 110) in respect of advising on any investment product;
+
+(vi) an exempt financial adviser;
+
+(vii) a person who is a representative in respect of advising on any investment product under the Financial Advisers Act;
+
+(viii) a representative of an exempt financial adviser.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(5) For the avoidance of doubt, a person may disseminate either or both of the following without contravening subsection (1):
+
+(a) a prospectus or profile statement that has been registered by the Authority under section 240;
+
+(b) a product highlights sheet in respect of which section 240AA(1)(a) and (b) has been complied with.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (6) Before a prospectus or profile statement is registered, an advertisement or publication does not contravene subsection (1) if it contains only the following:
 
@@ -17025,11 +17171,19 @@ regard shall be had to whether the statement —
 
 (a) it includes a statement that the prospectus or profile statement in respect of the offer of securities is available for collection at the times and places specified in the statement;
 
-(b) it includes a statement that anyone wishing to acquire the securities will need to make an application in the manner set out in the prospectus or profile statement; and
+(b) it includes a statement that anyone wishing to acquire the securities will need to make an application in the manner set out in the prospectus or profile statement;
 
-(c) it does not contain any information that is not included in the prospectus or profile statement.
+[Act 34 of 2012 wef 19/08/2016]
+
+(c) it does not contain any information that is not included in the prospectus or profile statement; and
+
+[Act 34 of 2012 wef 19/08/2016]
 
 [1/2005]
+
+(d) it complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (9) An advertisement or a publication does not contravene subsection (1) if it —
 
@@ -17055,7 +17209,13 @@ regard shall be had to whether the statement —
 
 (iii) a notice, report, presentation, general meeting or proposed general meeting referred to in paragraph (b);
 
-(iv) a report referred to in paragraph (c);
+(iv) a report referred to in paragraph (c); or
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(v) a product highlights sheet;
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (f) is a report about the securities which are the subject of the offer or intended offer, published by someone who is not —
 
@@ -17120,6 +17280,18 @@ provided that the first-mentioned publication does not contain any material info
 (b) in any other case, be construed as a reference to such matters as may be prescribed by the Authority.
 
 [1/2005]
+
+(18A) In subsection (4) —
+
+“exempt financial adviser” and “financial advisory service” have the same meanings as in section 2(1) of the Financial Advisers Act;
+
+“representative” —
+
+(a) in relation to dealing in securities under this Act or an exempt person, has the same meaning as in section 2(1); or
+
+(b) in relation to advising on any investment product under the Financial Advisers Act or an exempt financial adviser, has the same meaning as in section 2(1) of that Act.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (19) For the purposes of subsection (9)(c)(i), the reference to affairs of the issuer or underlying entity shall —
 
@@ -17667,6 +17839,62 @@ and the prescribed entity shall comply with every such condition or restriction 
 
 [Companies, s. 100]
 
+### Requirement for trustees
+
+265A\.—(1) Where an offer of debentures is made in or accompanied by a prospectus, the borrowing entity shall appoint a trustee for the holders of debentures (referred to in this section as the appointed trustee) for the entire tenure of the debentures.
+
+(2) The borrowing entity shall ensure that —
+
+(a) where the debentures are asset-backed securities or structured notes, the appointed trustee is any of the following persons:
+
+(i) a holder of a trust business licence under the Trust Companies Act (Cap. 336) that is carrying on business in Singapore in that capacity;
+
+(ii) a bank licensed under the Banking Act (Cap. 19) that is carrying on business in Singapore in that capacity;
+
+(iii) an approved trustee referred to in section 289 that is carrying on business in Singapore in that capacity;
+
+(iv) such other person as may be prescribed by the Authority by regulations made under section 341;
+
+(b) where the debentures are not asset-backed securities or structured notes, the appointed trustee is any of the following persons:
+
+(i) a holder of a trust business licence under the Trust Companies Act that is carrying on business in Singapore in that capacity;
+
+(ii) a bank licensed under the Banking Act that is carrying on business in Singapore in that capacity;
+
+(iii) an approved trustee referred to in section 289 that is carrying on business in Singapore in that capacity;
+
+(iv) any other person whom the borrowing entity is satisfied, on reasonable grounds, is, and will be, able to take timely and appropriate action on behalf of the holders of debentures, in the event of a default or as required by the trust deed;
+
+(v) such other person as may be prescribed by the Authority by regulations made under section 341;
+
+(c) the appointed trustee is independent of the borrowing entity, guarantor entity, arranger and counterparty of the debentures; and
+
+(d) the appointed trustee meets such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+(3) For the purposes of subsection (2)(b)(iv), the borrowing entity shall, before being satisfied that a person is, and will be, able to take timely and appropriate action on behalf of the holders of debentures, in the event of a default or as required by the trust deed, consider the following matters:
+
+(a) whether the person is licensed or regulated in the jurisdiction —
+
+(i) in which the person was incorporated or formed; or
+
+(ii) of the person’s principal place of business;
+
+(b) the contractual arrangements between the borrowing entity and the person;
+
+(c) whether, if the person is the appointed trustee, the duties which will be imposed on the person by way of the trust deed, or under the laws and practices of the jurisdiction referred to in paragraph (a), are at least equivalent to those imposed under section 266(1); and
+
+(d) such other matters as may be prescribed by the Authority by regulations made under section 341.
+
+(4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) In this section —
+
+“asset-backed securities” has the same meaning as in section 262(3);
+
+“structured notes” has the same meaning as in section 240AA(5).
+
+[Act 34 of 2012 wef 19/08/2016]
+
 ### Duties of trustees
 
 266\.—(1) A trustee for the holders of debentures shall —
@@ -17759,39 +17987,13 @@ but in making any such order the court shall have regard to the rights of all cr
 
 ### Obligations of borrowing entity
 
-268\.—(1) Where there is a trustee for the holders of any debentures of a borrowing entity, the directors or equivalent persons of the borrowing entity shall —
+268\. 
 
-(a) at the end of a period not exceeding 3 months ending on a day (being a day after the date of the issue of the relevant prospectus) which the trustee is hereby required to notify the borrowing entity in writing; and
+—(1) [Deleted by Act 34 of 2012 wef 19/08/2016]
 
-(b) at the end of each succeeding period thereafter, being a period of 3 months or such shorter time as the trustee may, in any special circumstances allow,
+(2) [Deleted by Act 34 of 2012 wef 19/08/2016]
 
-prepare a report that relates to that period and complies with the requirements of subsection (2) and within one month after the end of each such period lodge a copy of the report relating to that period with the Authority and with the trustee.
-
-[1/2005]
-
-(2) The report referred to in subsection (1) shall be signed by not less than 2 of the directors or equivalent persons on behalf of all of them and shall set out in detail any matters adversely affecting the security or the interests of the holders of the debentures and, without affecting the generality of subsection (1), shall state —
-
-(a) whether or not the limitations on the amount that the entity may borrow have been exceeded;
-
-(b) whether or not the borrowing entity and each of its guarantor entities have observed and performed all the covenants and provisions binding upon them respectively by or pursuant to the debentures or any trust deed;
-
-(c) whether or not any event has happened which has caused or could cause the debentures or any provision of the relevant trust deed to become enforceable and, if so, particulars of that event;
-
-(d) whether or not any circumstances affecting the borrowing entity, its subsidiaries or its guarantor entities or any of them have occurred which materially affect any security or charge included in or created by the debentures or any trust deed and, if so, particulars of those circumstances;
-
-(e) whether or not there has been any substantial change in the nature of the business of the borrowing entity or any of its subsidiaries or any of its guarantor entities since the debentures were first issued which has not previously been reported upon as required by this section and, if so, particulars of that change; and
-
-(f) where the borrowing entity has deposited money with or lent money to or assumed any liability of a corporation which is related to the borrowing entity, particulars of —
-
-(i) the total amounts so deposited or lent and the extent of any liability so assumed during the period covered by the report; and
-
-(ii) the total amounts owing to the borrowing entity in respect of money so deposited or lent and the extent of any liability so assumed as at the end of the period covered by the report,
-
-distinguishing between deposits, loans and assumptions of liabilities which are secured and those which are unsecured, but not including any deposit with or loan to or any liability assumed on behalf of a corporation if that corporation has guaranteed the repayment of the debentures of the borrowing entity and has secured the guarantee by a charge over its assets in favour of the trustee for the holders of the debentures of the borrowing entity.
-
-[1/2005]
-
-(3) Any person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
+(3) [Deleted by Act 34 of 2012 wef 19/08/2016]
 
 (4) Where there is a trustee for the holders of any debentures issued by a borrowing entity, the borrowing entity and each of its guarantor entities which has guaranteed the repayment of the moneys raised by the issue of those debentures shall, whether or not any demand therefor has been made —
 
@@ -17803,29 +18005,33 @@ distinguishing between deposits, loans and assumptions of liabilities which are 
 
 (5) Where any such advance referred to in subsection (4)(b) is merged in a current account with bankers or trade creditors, it shall be sufficient for particulars of the net amount outstanding in respect of any such advance to be furnished every 3 months.
 
-(6) The directors or equivalent persons of every borrowing entity and of every guarantor entity shall cause to be made out and lodged with the Authority and with the trustee for the holders of the debentures, if any —
+(6) The directors or equivalent persons of every borrowing entity and of every guarantor entity shall cause to be made out and lodged with the trustee for the holders of the debentures, if any —
 
 (a) a profit and loss account for the first 6 months of every financial year of the entity and a balance-sheet as at the end of that period, not later than 3 months after the expiration of the period of 6 months; and
 
 (b) a profit and loss account for every financial year of the entity and a balance-sheet as at the end of that period, not later than 5 months after the expiration of that financial year.
 
+[Act 34 of 2012 wef 19/08/2016]
+
 [1/2005]
 
+(6A) Any person who furnishes any information contained in a profit and loss account or balance‑sheet required under subsection (6) shall use due care to ensure that the information is not false or misleading in any material particular.
+
+[Act 34 of 2012 wef 19/08/2016]
+
 (7) Any person who fails to comply with subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+(7A) Any person who contravenes subsection (6A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (8) Sections 201(8), (9) and (10) and (12) to (16) and 207(1), (2) and (7) of the Companies Act (Cap. 50) shall, with such adaptations as are necessary, be applicable to every profit and loss account and balance-sheet made out and lodged under subsection (6) as if that profit and loss account and balance-sheet were financial statements referred to in those sections.
 
 [Act 35 of 2014 wef 01/07/2015]
 
-(9) Where —
+(9) Where the directors or equivalent persons of a borrowing entity, or the directors or equivalent persons of a guarantor entity, do not lodge with the trustee the profit and loss accounts and balance-sheets as required under subsection (6) within the time prescribed under that subsection, the trustee shall immediately lodge notice of that fact with the Authority.
 
-(a) the directors or equivalent persons of a borrowing entity do not lodge with the trustee for the holders of debentures a report as required by subsection (1); or
-
-(b) the directors or equivalent persons of a borrowing entity or the directors of a guarantor entity do not lodge with the trustee the balance-sheets and profit and loss accounts as required by subsection (6) within the time prescribed,
-
-the trustee shall immediately lodge notice of that fact with the Authority.
-
-[1/2005]
+[Act 34 of 2012 wef 19/08/2016]
 
 (10) Notwithstanding anything in subsection (8) —
 
@@ -17848,6 +18054,40 @@ the trustee shall immediately lodge notice of that fact with the Authority.
 [1/2005]
 
 [Companies, s. 103]
+
+### Additional obligations of borrowing entity, where debentures are not listed on securities exchange
+
+268A\.—(1) A borrowing entity that issues any debentures which are not listed on a securities exchange (referred to in this section as unlisted debentures) shall, if the unlisted debentures have a tenure of 12 months or longer, prepare and make available to the holders of the debentures, in respect of the period of 6 months beginning on the date of issuance of the debentures and each subsequent period of 6 months, a report covering the period of 6 months (referred to in this section as a semi-annual report), in accordance with this section and such other requirements as may be prescribed by the Authority by regulations made under section 341.
+
+(2) The borrowing entity shall ensure that each semi‑annual report covering a period of 6 months is lodged with the trustee for the holders of the unlisted debentures, not later than 2 months after the end of that period.
+
+(3) Where the borrowing entity does not lodge with the trustee for the holders of unlisted debentures a semi‑annual report as required under subsection (2), the trustee shall immediately lodge notice of that fact with the Authority.
+
+(4) A borrowing entity shall immediately disclose, in such form and manner as may be prescribed by the Authority by regulations made under section 341, to holders of unlisted debentures any information which may materially affect —
+
+(a) the risks and returns of the unlisted debentures; or
+
+(b) the price or value of the unlisted debentures.
+
+(5) Any person who contravenes subsection (1), (2) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $2,000 for every day or part thereof during which the offence continues after conviction.
+
+(6) Where the terms of any unlisted debentures provide for redemption at the option of the holder of the unlisted debentures, the borrowing entity shall —
+
+(a) make available bid or redemption prices of the unlisted debentures, at the frequency at which the borrowing entity has committed to buying back the unlisted debentures or once every fortnight, whichever is more frequent, in such form and manner as may be prescribed by the Authority by regulations made under section 341;
+
+(b) if the published bid prices are indicative and may not be the actual bid prices, clearly state this fact, wherever the published bid prices appear, in such form and manner as may be prescribed by the Authority by regulations made under section 341; and
+
+(c) ensure that the bid or redemption prices are determined in an independent and fair manner.
+
+(7) A borrowing entity shall ensure that each profit and loss account or balance-sheet that its directors or equivalent persons are required to lodge under section 268(6) is made available, in such form and manner as may be prescribed by the Authority by regulations made under section 341, to holders of unlisted debentures, on the day of lodgment of the profit and loss account or balance‑sheet, as the case may be, with the trustee for the holders of the unlisted debentures.
+
+(8) Any person who contravenes subsection (6) or (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+(9) Any person who furnishes any information contained in a semi-annual report required under subsection (2) shall use due care to ensure that the information is not false or misleading in any material particular.
+
+(10) Any person who contravenes subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 ### Obligation of guarantor entity to furnish information
 
@@ -18375,6 +18615,14 @@ then Subdivisions (2) and (3) of this Division (other than section 257) shall no
 
 [16/2003]
 
+(8A) A person shall not advertise an offer or intended offer of any securities referred to in subsection (1)(d) or (e), or publish a statement that directly or indirectly refers to the offer or intended offer, or that is reasonably likely to induce persons to subscribe for or purchase the securities, unless the advertisement or publication complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(8B) Any person who contravenes subsection (8A), or who knowingly authorises or permits the publication or dissemination of any advertisement or statement referred to in that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
+
 (9) In subsection (1)(b) and (c), “unlisted corporation” means a corporation —
 
 (a) that is not a company; and
@@ -18669,6 +18917,14 @@ before enabling him to submit any application to subscribe for or purchase secur
 
 [Companies, s. 106F]
 
+(7) A person shall not advertise an offer or intended offer of any securities referred to in subsection (1), or publish a statement that directly or indirectly refers to the offer or intended offer, or that is reasonably likely to induce persons to subscribe for or purchase the securities, unless the advertisement or publication complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(8) Any person who contravenes subsection (7), or who knowingly authorises or permits the publication or dissemination of any advertisement or statement referred to in that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
+
 ### Offer in respect of international debentures
 
 278\.—(1) Subdivisions (2) and (3) of this Division (other than section 257) shall not apply to an offer of debentures, or units of debentures, by a body incorporated in a country outside Singapore where the offer —
@@ -18748,6 +19004,30 @@ before enabling him to submit any application to subscribe for or purchase secur
 [1/2005]
 
 [Companies, s. 106L]
+
+Subdivision (5) —
+
+General
+
+### Power of Authority to issue directions
+
+282AA\.—(1) The Authority may, where it thinks it necessary or expedient in the interests of the public or a section of the public or for the protection of investors, issue directions, whether of a general or specific nature, by notice in writing —
+
+(a) to a person making an offer of securities, being an offer made in or accompanied by a prospectus or profile statement or an offer referred to in section 280, on matters in connection with the offer;
+
+(b) to a person referred to in paragraph (a) who is a borrowing entity, on matters in connection with the requirements and obligations under Subdivision (3) of this Division, in addition to the matters referred to in paragraph (a); or
+
+(c) to a trustee appointed under section 265A(1).
+
+(2) Any person to whom a notice is given under subsection (1) shall comply with every direction contained in the notice.
+
+(3) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
+
+(4) Any person who contravenes a direction issued to him under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) No criminal or civil liability shall be incurred by a trustee appointed under section 265A(1), or by any person acting on behalf of such a trustee, for any thing done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of, or in connection with, the compliance or purported compliance with a direction issued to the trustee under subsection (1).
+
+[Act 34 of 2012 wef 19/08/2016]
 
 Division 1A —
 
@@ -19731,9 +20011,29 @@ regard shall be had to whether the statement —
 
 [1/2005]
 
-(4) Notwithstanding subsection (6), a person does not contravene subsection (1) by presenting oral or written material, on matters contained in a preliminary document which has been lodged with the Authority, to institutional investors, relevant persons as defined in section 282Z(3) or persons to whom an offer referred to in section 282Z(2) is to be made before a prospectus or profile statement is registered by the Authority.
+(4) Notwithstanding subsection (6), a person does not contravene subsection (1) —
 
-[1/2005]
+(a) by presenting, before a prospectus or profile statement is registered by the Authority, oral or written material on matters contained in a preliminary document which has been lodged with the Authority, to institutional investors, relevant persons as defined in section 282Z(3) or persons to whom an offer referred to in section 282Z(2) is to be made; or
+
+(b) by presenting oral or written material on matters contained in a prospectus or profile statement which has been lodged with the Authority in respect of an offer of units or derivatives of units in a business trust, before the prospectus or profile statement is registered by the Authority, for the sole purpose of equipping any of the following persons with knowledge of the units or derivatives of units in a business trust in order to enable the person to carry on the regulated activity of dealing in securities, or to provide any financial advisory service, in relation to the units or derivatives of units in a business trust:
+
+(i) a person licensed under this Act in respect of dealing in securities;
+
+(ii) an exempt person;
+
+(iii) a person who is a representative in respect of dealing in securities under this Act;
+
+(iv) a representative of an exempt person;
+
+(v) a person licensed under the Financial Advisers Act (Cap. 110) in respect of advising on any investment product;
+
+(vi) an exempt financial adviser;
+
+(vii) a person who is a representative in respect of advising on any investment product under the Financial Advisers Act;
+
+(viii) a representative of an exempt financial adviser.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (5) For the avoidance of doubt, a person may disseminate a prospectus or profile statement that has been registered by the Authority under section 282C without contravening subsection (1).
 
@@ -19759,11 +20059,19 @@ regard shall be had to whether the statement —
 
 (a) it includes a statement that the prospectus or profile statement in respect of the offer of units or derivatives of units in the business trust is available for collection at the times and places specified in the statement;
 
-(b) it includes a statement that anyone wishing to acquire the units or derivatives of units in the business trust will need to make an application in the manner set out in the prospectus or profile statement; and
+(b) it includes a statement that anyone wishing to acquire the units or derivatives of units in the business trust will need to make an application in the manner set out in the prospectus or profile statement;
 
-(c) it does not contain any information that is not included in the prospectus or profile statement.
+[Act 34 of 2012 wef 19/08/2016]
+
+(c) it does not contain any information that is not included in the prospectus or profile statement; and
+
+[Act 34 of 2012 wef 19/08/2016]
 
 [1/2005]
+
+(d) it complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (9) An advertisement or a publication does not contravene subsection (1) if it —
 
@@ -19864,6 +20172,18 @@ provided that the first-mentioned publication does not contain any material info
 (c) in the case where the entity is not a corporation, be construed to refer to such matters as may be prescribed by the Authority.
 
 [1/2005]
+
+(18A) In subsection (4) —
+
+“exempt financial adviser” and “financial advisory service” have the same meanings as in section 2(1) of the Financial Advisers Act;
+
+“representative” —
+
+(a) in relation to dealing in securities under this Act or an exempt person, has the same meaning as in section 2(1); or
+
+(b) in relation to advising on any investment product under the Financial Advisers Act or an exempt financial adviser, has the same meaning as in section 2(1) of that Act.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (19) For the purposes of subsection (9)(c)(i), the reference to affairs of the issuer or the business trust shall —
 
@@ -20919,6 +21239,14 @@ then Subdivision (2) of this Division (other than section 282Q) shall not apply 
 
 [1/2005]
 
+(8A) A person shall not advertise an offer or intended offer of any units in a business trust referred to in subsection (1)(d) or any derivatives of units in a business trust referred to in subsection (1)(e), or publish a statement that directly or indirectly refers to the offer or intended offer, or that is reasonably likely to induce persons to subscribe for or purchase the units or derivatives of units, unless the advertisement or publication complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(8B) Any person who contravenes subsection (8A), or who knowingly authorises or permits the publication or dissemination of any advertisement or statement referred to in that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
+
 (9) Any person who contravenes any of the conditions or restrictions specified in the declaration made under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
 [1/2005]
@@ -21253,6 +21581,14 @@ before enabling him to submit any application to subscribe for or purchase secur
 
 [1/2005]
 
+(8) A person shall not advertise an offer or intended offer of any units or derivatives of units in a business trust referred to in subsection (1), or publish a statement that directly or indirectly refers to the offer or intended offer, or that is reasonably likely to induce persons to subscribe for or purchase the units or derivatives of units, unless the advertisement or publication complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(9) Any person who contravenes subsection (8), or who knowingly authorises or permits the publication or dissemination of any advertisement or statement referred to in that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
+
 ### Making offer using automated teller machine or electronic means
 
 282ZC\.—(1) Subject to subsection (3) and such requirements as may be prescribed by the Authority, a person making an offer of units or derivatives of units in a business trust using —
@@ -21313,6 +21649,22 @@ Debentures
 
 [1/2005]
 
+Subdivision (5) —
+
+General
+
+### Power of Authority to issue directions
+
+282ZG\.—(1) The Authority may, where it thinks it necessary or expedient in the interests of the public or a section of the public or for the protection of investors, issue directions, whether of a general or specific nature, by notice in writing, to a person making an offer of units or derivatives of units in a business trust, being an offer made in or accompanied by a prospectus or profile statement or an offer referred to in section 282ZC, on matters in connection with the offer.
+
+(2) Any person to whom a notice is given under subsection (1) shall comply with every direction contained in the notice.
+
+(3) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
+
+(4) Any person who contravenes a direction issued to him under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
+
 Division 2 —
 
 Collective Investment Schemes
@@ -21339,13 +21691,25 @@ but does not include any capacity of a person to influence decisions on the fina
 
 “preliminary document” means a document which has been lodged with the Authority and is issued for the purpose of determining the appropriate issue or sale price of, and the number of, units in a collective investment scheme to be issued or sold and which contains the information required to be included in a prospectus as may be prescribed under section 296(1)(a)(i), except for such information as may be prescribed by the Authority;
 
+“product highlights sheet” means a product highlights sheet referred to in section 296A(1);
+
+[Act 34 of 2012 wef 19/08/2016]
+
 “profile statement” means a profile statement referred to in section 296(2);
 
 “prospectus” means any prospectus, notice, circular, material, advertisement, publication or other document used to make an offer of units in a collective investment scheme or proposed collective investment scheme, but does not include —
 
-(a) a profile statement; or
+(a) a profile statement;
 
-(b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3));
+[Act 34 of 2012 wef 19/08/2016]
+
+(b) any material, advertisement or publication which is authorised by section 300 (other than subsection (3)); or
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(c) a product highlights sheet;
+
+[Act 34 of 2012 wef 19/08/2016]
 
 “recognised securities exchange” means a corporation which has been declared by the Authority, by order published in theGazette, to be a recognised securities exchange for the purposes of this Division;
 
@@ -22760,6 +23124,44 @@ as the case may be, shall be guilty of an offence and shall be liable on convict
 
 [Companies, s. 43; Aust. Corporations 2001, s. 721]
 
+### Requirement for product highlights sheet, where relevant
+
+296A\.—(1) No person shall make an offer of units in a collective investment scheme, being an offer that is made in or accompanied by a prospectus or profile statement that complies with section 296, unless the prospectus or profile statement is accompanied by a product highlights sheet in respect of the offer —
+
+(a) that complies with such requirements as may be prescribed by the Authority by regulations made under section 341; and
+
+(b) a copy of which is lodged with the Authority.
+
+(2) No person shall publish or disseminate, whether in Singapore or elsewhere, any document relating to any offer or intended offer of units in a collective investment scheme or proposed collective investment scheme, being an offer that is, or an intended offer that will be, made in or accompanied by a prospectus or profile statement that complies with section 296, if the document resembles or may otherwise be confused with a product highlights sheet, unless he is required to do so —
+
+(a) under any written law or rule of law, or by any court, in Singapore;
+
+(b) under the laws and practices of, or by any court in, any foreign jurisdiction; or
+
+(c) by any listing rules or other requirements of any securities exchange, futures exchange, overseas securities exchange or overseas futures exchange.
+
+(3) The Authority may, for public information, publish —
+
+(a) a product highlights sheet lodged with the Authority under this section; and
+
+(b) where applicable, the translation thereof in the English language lodged with the Authority under section 318A(1).
+
+(4) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(5) Without prejudice to section 337(1), the Authority may, by regulations made under section 341, exempt any person or class of persons, any prospectus or profile statement, or any units in a collective investment scheme or proposed collective investment scheme, from any provision of this section, subject to such conditions or restrictions as the Authority may prescribe in those regulations.
+
+(6) Without prejudice to section 337(3) and (4), the Authority may, by notice in writing, exempt any person, prospectus or profile statement, or any units in a collective investment scheme or proposed collective investment scheme, from any provision of this section, subject to such conditions or restrictions as the Authority may specify by notice in writing.
+
+(7) It shall not be necessary to publish any exemption granted under subsection (6) in theGazette.
+
+(8) Every person who is granted an exemption under subsection (5), or who wishes to rely on an exemption granted under that subsection, shall satisfy every condition or restriction imposed under that subsection for the grant of the exemption.
+
+(9) Every person who is granted an exemption under subsection (6), or who wishes to rely on an exemption granted under that subsection, shall, for the duration of the exemption, satisfy every condition or restriction imposed under that subsection for the grant of the exemption.
+
+(10) Any person who contravenes subsection (8) or (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
+
 ### Stop order for prospectus and profile statement
 
 297\.—(1) If a prospectus has been registered and —
@@ -23020,31 +23422,39 @@ regard shall be had to whether the statement —
 
 [1/2005]
 
-(2B) Notwithstanding subsection (3A), a person does not contravene subsection (1) by presenting, before a prospectus or profile statement is registered by the Authority, oral or written material —
+(2B) Notwithstanding subsection (3A), a person does not contravene subsection (1) —
 
-(a) on matters contained in a preliminary document which has been lodged with the Authority, to institutional investors, relevant persons as defined in section 305(5) or persons to whom an offer referred to in section 305(2) is to be made; or
+(a) by presenting, before a prospectus or profile statement is registered by the Authority, oral or written material on matters contained in a preliminary document which has been lodged with the Authority, to institutional investors, relevant persons as defined in section 305(5) or persons to whom an offer referred to in section 305(2) is to be made; or
 
-(b) on matters contained in the prospectus or profile statement which has been lodged with the Authority, for the sole purpose of equipping any of the following persons with knowledge of the collective investment scheme to market the scheme under the Financial Advisers Act (Cap. 110):
+(b) by presenting oral or written material on matters contained in a prospectus, profile statement or product highlights sheet which has been lodged with the Authority in respect of an offer of units in a collective investment scheme, before the prospectus or profile statement is registered by the Authority, for the sole purpose of equipping any of the following persons with knowledge of the collective investment scheme in order to enable the person to carry on the regulated activity of dealing in securities, or to provide any financial advisory service, in relation to the units in the collective investment scheme:
 
-(i) a person licensed under that Act in respect of marketing of collective investment schemes;
+(i) a person licensed under this Act in respect of dealing in securities;
 
-(ii) an exempt financial adviser;
+(ii) an exempt person;
 
-(iii) a person who is a representative in respect of marketing of collective investment schemes under that Act;
+(iii) a person who is a representative in respect of dealing in securities under this Act;
 
-[2/2009 wef 26/11/2010]
+(iv) a representative of an exempt person;
 
-(iv) a representative of an exempt financial adviser.
+(v) a person licensed under the Financial Advisers Act (Cap. 110) in respect of marketing of collective investment schemes;
 
-[1/2005]
+(vi) an exempt financial adviser;
 
-(2C) In subsection (2B), “exempt financial adviser” and “representative” have the same meanings as in section 2(1) of the Financial Advisers Act (Cap. 110).
+(vii) a person who is a representative in respect of marketing of collective investment schemes under the Financial Advisers Act;
 
-[2/2009 wef 26/11/2010]
+(viii) a representative of an exempt financial adviser.
 
-(3) For the avoidance of doubt, a person may disseminate a prospectus or profile statement that has been registered by the Authority under section 296 without contravening subsection (1).
+[Act 34 of 2012 wef 19/08/2016]
 
-[1/2005]
+(2C) [Deleted by Act 34 of 2012 wef 19/08/2016]
+
+(3) For the avoidance of doubt, a person may disseminate either or both of the following without contravening subsection (1):
+
+(a) a prospectus or profile statement that has been registered by the Authority under section 296;
+
+(b) a product highlights sheet in respect of which section 296A(1)(a) and (b) has been complied with.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (3A) Before a prospectus or profile statement is registered, an advertisement or a publication does not contravene subsection (1) if it contains only the following:
 
@@ -23064,7 +23474,9 @@ regard shall be had to whether the statement —
 
 [1/2005]
 
-(3C) After a prospectus or profile statement is registered with the Authority, an advertisement or a publication does not contravene subsection (1) if it complies with such requirements as may be prescribed by the Authority.
+(3C) After a prospectus or profile statement is registered with the Authority, an advertisement or a publication does not contravene subsection (1) if it complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 [1/2005]
 
@@ -23086,9 +23498,17 @@ regard shall be had to whether the statement —
 
 (ii) a disclosure, notice or report referred to in paragraph (a);
 
-(iii) a notice, report, presentation, meeting, proposed meeting, general meeting or proposed general meeting referred to in paragraph (aa); or
+(iii) a notice, report, presentation, meeting, proposed meeting, general meeting or proposed general meeting referred to in paragraph (aa);
 
-(iv) a report referred to in paragraph (b);
+[Act 34 of 2012 wef 19/08/2016]
+
+(iv) a report referred to in paragraph (b); or
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(v) a product highlights sheet;
+
+[Act 34 of 2012 wef 19/08/2016]
 
 (d) is a report about the units in the collective investment scheme which are the subject of the offer or intended offer, published by someone who is not —
 
@@ -23145,6 +23565,18 @@ provided that the first-mentioned publication does not contain any material info
 [1/2005]
 
 [Companies, s. 48; Aust. FSR Bill 2001, Clause 1018A]
+
+(13) In subsection (2B) —
+
+“exempt financial adviser” and “financial advisory service” have the same meanings as in section 2(1) of the Financial Advisers Act;
+
+“representative” —
+
+(a) in relation to dealing in securities under this Act or an exempt person, has the same meaning as in section 2(1); or
+
+(b) in relation to marketing of collective investment schemes under the Financial Advisers Act or an exempt financial adviser, has the same meaning as in section 2(1) of that Act.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 ### Issue of units where prospectus indicates application to list on securities exchange
 
@@ -23516,6 +23948,14 @@ both persons shall be counted for the purposes of determining whether offers of 
 
 [Companies, s. 106B (1) (b)]
 
+(3) A person shall not advertise an offer or intended offer of any units in a collective investment scheme referred to in subsection (1), or publish a statement that directly or indirectly refers to the offer or intended offer, or that is reasonably likely to induce persons to subscribe for or purchase the units, unless the advertisement or publication complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(4) Any person who contravenes subsection (3), or who knowingly authorises or permits the publication or dissemination of any advertisement or statement referred to in that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
+
 ### Offer made to institutional investors
 
 304\. Subdivisions (2) and (3) of this Division shall not apply to an offer of units in a collective investment scheme, whether or not they have been previously issued, made to an institutional investor.
@@ -23752,6 +24192,14 @@ before enabling him to submit any application to subscribe for or purchase units
 
 [1/2005]
 
+(8) A person shall not advertise an offer or intended offer of any units in a collective investment scheme referred to in subsection (1), or publish a statement that directly or indirectly refers to the offer or intended offer, or that is reasonably likely to induce persons to subscribe for or purchase the units, unless the advertisement or publication complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+(9) Any person who contravenes subsection (8), or who knowingly authorises or permits the publication or dissemination of any advertisement or statement referred to in that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
+
 ### Making offer using automated teller machine or electronic means
 
 305C\.—(1) Subject to subsection (3) and such requirements as may be prescribed by the Authority, a person making an offer of units in a collective investment scheme using —
@@ -23843,6 +24291,128 @@ from compliance with subsection (1), subject to such conditions as may be determ
 [16/2003]
 
 [Companies, s. 400; Aust. Corporations 2001, s. 736]
+
+Division 4 —
+
+Capital Markets Products
+
+### Interpretation of this Division
+
+309A\.—(1) In this Division, unless the context otherwise requires —
+
+“issuer” means —
+
+(a) in relation to an offer of units in a collective investment scheme, the responsible person for the collective investment scheme;
+
+(b) in relation to an offer of any contract or arrangement in connection with leveraged foreign exchange trading, the holder of a capital markets services licence for leveraged foreign exchange trading that is the counterparty to that contract or arrangement; or
+
+(c) in relation to an offer of any other capital markets products, the entity that issues or will issue the capital markets products being offered;
+
+“prospectus” means any prospectus, notice, circular, material, advertisement, publication or other document used to make an offer of any capital markets products;
+
+“relevant person” means —
+
+(a) a holder of a capital markets services licence;
+
+(b) a person who is exempted under section 99(1)(a) or (b) from the requirement to hold a capital markets services licence;
+
+(c) a person licensed under the Financial Advisers Act (Cap. 110) in respect of advising on any investment product;
+
+(d) a person who is exempted under section 23(1)(a), (b), (c), (d) or (e) of the Financial Advisers Act from holding a financial adviser’s licence;
+
+(e) such other person as may be prescribed by the Authority by regulations made under section 341; or
+
+(f) a representative of any person referred to in paragraph (a), (b), (c), (d) or (e).
+
+(2) For the purposes of this Part, a person makes an offer of any capital markets products if, and only if, as principal —
+
+(a) he makes (either personally or by an agent) an offer to any person in Singapore which upon acceptance would give rise to a contract for the issue or sale of those capital markets products by him or another person with whom he has made arrangements for that issue or sale; or
+
+(b) he invites (either personally or by an agent) any person in Singapore to make an offer which upon acceptance would give rise to a contract for the issue or sale of those capital markets products by him or another person with whom he has made arrangements for that issue or sale.
+
+(3) In subsection (2), “sale” includes any disposal for valuable consideration.
+
+(4) For the avoidance of doubt, the obligations imposed by this Division in relation to any capital markets products are in addition to the obligations imposed under Divisions 1, 1A, 2 and 3 in relation to those capital markets products.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+### Obligation of issuer to determine, and to notify approved exchange and relevant person of, classification of capital markets products
+
+309B\.—(1) No issuer shall make an offer of any capital markets products unless —
+
+(a) the issuer has determined the classification of those capital markets products;
+
+(b) where those capital markets products are or will be listed for quotation or quoted on a market operated by an approved exchange, the issuer has notified the approved exchange in writing of the classification of those capital markets products; and
+
+(c) where those capital markets products are or will be offered through any relevant person, the issuer has notified that relevant person in writing of the classification of those capital markets products.
+
+(2) No relevant person shall make an offer of any capital markets products unless the relevant person has received a notification under subsection (1)(c) in respect of those capital markets products.
+
+(3) Where, after any notification has been given under subsection (1)(b) or (c) or this subsection in respect of any capital markets products, there is a change in the classification of those capital markets products, the issuer of those capital markets products shall, within such time as may be prescribed by the Authority by regulations made under section 341 —
+
+(a) if those capital markets products are or will be listed for quotation or quoted on an approved exchange, notify the approved exchange in writing of the new classification of those capital markets products; and
+
+(b) if those capital markets products are or will be offered through any relevant person, notify that relevant person in writing of the new classification of those capital markets products.
+
+(4) Without prejudice to section 337(1), the Authority may, by regulations made under section 341, exempt any person or class of persons from any provision of this section, subject to such conditions or restrictions as the Authority may prescribe in those regulations.
+
+(5) Without prejudice to section 337(3) and (4), the Authority may, by notice in writing, exempt any person from any provision of this section, subject to such conditions or restrictions as the Authority may specify by notice in writing.
+
+(6) It shall not be necessary to publish any exemption granted under subsection (5) in theGazette.
+
+(7) Every person who is granted an exemption under subsection (4) shall satisfy every condition or restriction imposed on him under that subsection.
+
+(8) Every person who is granted an exemption under subsection (5) shall satisfy every condition or restriction imposed on him under that subsection.
+
+(9) Any person who contravenes subsection (1), (2), (3), (7) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+(10) In this section —
+
+“classification”, in relation to any capital markets products, means the classification of the capital markets products as either of the following:
+
+(a) prescribed capital markets products;
+
+(b) capital markets products other than prescribed capital markets products;
+
+“prescribed capital markets products” means any capital markets products that belong to any class of capital markets products that is prescribed by the Authority, by regulations made under section 341, for the purposes of this definition.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+### Use of term “capital protected” or “principal protected”
+
+309C\.—(1) No person shall, when describing or referring to any capital markets products which are, will be or have been the subject of an offer or intended offer, do either or both of the following:
+
+(a) use the term “capital protected” or any of its derivatives in any language in the name or description or any representation of those capital markets products, or within any prospectus relating to those capital markets products;
+
+(b) use the term “principal protected” or any of its derivatives in any language in the name or description or any representation of those capital markets products, or within any prospectus relating to those capital markets products.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
+
+### Use of term “product highlights sheet”
+
+309D\.—(1) No person shall, when describing or referring to any publication in respect of any offer or intended offer of any capital markets products, use the term “product highlights sheet” or any of its derivatives in any language in the name or description or any representation of that publication, unless —
+
+(a) that publication is a product highlights sheet —
+
+(i) in respect of an offer that is made in or accompanied by a prospectus or profile statement that complies with section 240; and
+
+(ii) in respect of which section 240AA(1)(a) and (b) has been complied with;
+
+(b) that publication is a product highlights sheet —
+
+(i) in respect of an offer that is made in or accompanied by a prospectus or profile statement that complies with section 296; and
+
+(ii) in respect of which section 296A(1)(a) and (b) has been complied with;
+
+(c) that person belongs to any class of persons declared by the Authority, by order published in theGazette, to be a class of persons who may, when describing or referring to any publication in respect of any offer or intended offer of such capital markets products as the Authority may specify in the order, use that term or any of its derivatives in any language in the name or description or any representation of that publication; or
+
+(d) the Authority has given consent in writing to that person to use that term or any of its derivatives in any language, when describing or referring to any publication in respect of any offer or intended offer of such capital markets products as the Authority may specify in writing, in the name or description or any representation of that publication.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 34 of 2012 wef 19/08/2016]
 
 ## PART XIV
 
@@ -25370,7 +25940,23 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of commencement|18 April 2013|
 |||2 August 2013|
 |||1 November 2013|
-|22.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+|22.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
+|||3 January 2016|
+|23.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
+|24.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
+||Date of First Reading|8 September 2014|
+|||(Bill No. 25/2014)|
+||Date of Second and Third Readings|8 October 2015|
+||Date of commencement|3 January 2016|
+|25.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 31/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|15 November 2012|
@@ -25378,22 +25964,7 @@ This Legislative History is provided for the convenience of users of the Securit
 |||1 August 2013|
 |||31 October 2013|
 |||1 May 2014|
-|23.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
-||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
-||Date of Second and Third Readings|7 October 2014|
-||Date of commencement|1 July 2015|
-|||3 January 2016|
-|24.|**Act 29 of 2014—Business Names Registration Act 2014**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|8 September 2014|
-|||(Bill No. 26/2014)|
-||Date of Second and Third Readings|8 October 2014|
-||Date of commencement|3 January 2016|
-|25.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
-||Date of First Reading|8 September 2014|
-|||(Bill No. 25/2014)|
-||Date of Second and Third Readings|8 October 2015|
-||Date of commencement|3 January 2016|
+|||19 August 2016|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
