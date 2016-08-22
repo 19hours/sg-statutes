@@ -872,9 +872,51 @@ Terrorists and terrorist entities
 
 [S 598/2015 wef 16/10/2015]
 
-(p) Muhammad Harith Jailani (Singapore citizen) (Date of Birth: 13 December 1996).
+(p) Muhammad Harith Jailani (Singapore citizen) (Date of Birth: 13 December 1996);
 
 [S 598/2015 wef 16/10/2015]
+
+[S 400/2016 wef 22/08/2016]
+
+(q) Rahman Mizanur (Bangladesh citizen) (Passport No. BH0187173) (Date of Birth: 15 March 1985);
+
+[S 400/2016 wef 22/08/2016]
+
+(r) Mamun Leakot Ali (Bangladesh citizen) (Passport No. C0938730) (Date of Birth: 1 August 1986);
+
+[S 400/2016 wef 22/08/2016]
+
+(s) Sohag Ibrahim (Bangladesh citizen) (Passport No. B1640970) (Date of Birth: 26 July 1988);
+
+[S 400/2016 wef 22/08/2016]
+
+(t) Miah Rubel (Bangladesh citizen) (Passport No. BE0522290) (Date of Birth: 12 December 1989);
+
+[S 400/2016 wef 22/08/2016]
+
+(u) Zzaman Daulat (Bangladesh citizen) (Passport No. BA0380544) (Date of Birth: 10 February 1982);
+
+[S 400/2016 wef 22/08/2016]
+
+(v) Sohel Hawlader Ismail Hawlader (Bangladesh citizen) (Passport No. BJ0895662) (Date of Birth: 6 June 1986);
+
+[S 400/2016 wef 22/08/2016]
+
+(w) Md Jabath Kysar Haje Norul Islam Sowdagar (Bangladesh citizen) (Passport No. BH0889740) (Date of Birth: 17 May 1985);
+
+[S 400/2016 wef 22/08/2016]
+
+(x) Islam Shariful (Bangladesh citizen) (Passport No. BE0042984) (Date of Birth: 3 January 1989);
+
+[S 400/2016 wef 22/08/2016]
+
+(y) Mohammad Razif bin Yahya (Singapore citizen) (Date of Birth: 31 July 1988);
+
+[S 400/2016 wef 22/08/2016]
+
+(z) Amiruddin bin Sawir (Singapore citizen) (Date of Birth: 12 February 1963).
+
+[S 400/2016 wef 22/08/2016]
 
 [S 93/2015 wef 28/02/2015]
 
@@ -1073,6 +1115,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|16 October 2015|
 |17.|**G.N. No. S 652/2015—Terrorism (Suppression of Financing) Act (Amendment of Second Schedule) Order 2015**|
 ||Date of commencement|10 November 2015|
+|18.|**G.N. No. S 400/2016—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2016**|
+||Date of commencement|22 August 2016|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
