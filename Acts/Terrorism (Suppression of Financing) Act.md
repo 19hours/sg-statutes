@@ -914,9 +914,19 @@ Terrorists and terrorist entities
 
 [S 400/2016 wef 22/08/2016]
 
-(z) Amiruddin bin Sawir (Singapore citizen) (Date of Birth: 12 February 1963).
+(z) Amiruddin bin Sawir (Singapore citizen) (Date of Birth: 12 February 1963);
 
 [S 400/2016 wef 22/08/2016]
+
+[S 404/2016 wef 26/08/2016]
+
+(za) Zulfikar bin Mohamad Shariff (Singapore citizen) (Date of Birth: 28 September 1971);
+
+[S 404/2016 wef 26/08/2016]
+
+(zb) Muhammad Fadil bin Abdul Hamid (Singapore citizen) (Date of Birth: 7 July 1989).
+
+[S 404/2016 wef 26/08/2016]
 
 [S 93/2015 wef 28/02/2015]
 
@@ -1117,6 +1127,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|10 November 2015|
 |18.|**G.N. No. S 400/2016—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2016**|
 ||Date of commencement|22 August 2016|
+|19.|**G.N. No. S 404/2016—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 2) Order 2016**|
+||Date of commencement|26 August 2016|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
