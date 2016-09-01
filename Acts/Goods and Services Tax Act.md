@@ -5046,7 +5046,7 @@ Exempt Imports
 
 Investment Precious Metals
 
-1. Subject to paragraph 2, the following precious metals:
+1. Subject to paragraphs 1A and 2, the following precious metals:
 
 (a) gold which —
 
@@ -5080,9 +5080,15 @@ Investment Precious Metals
 
 (iii) Australia Lunar coin;
 
-(iv) Austria Philharmoniker coin;
+(iv) Austria Philharmonic coin;
+
+[S 396/2016 wef 01/09/2016]
 
 (v) Canada Maple Leaf coin;
+
+(va) Canada Call of the Wild 3‑coin series coin;
+
+[S 396/2016 wef 01/09/2016]
 
 (vi) China Panda coin;
 
@@ -5096,9 +5102,25 @@ Investment Precious Metals
 
 [S 828/2013 wef 01/01/2014]
 
+(xi) United Kingdom Lunar coin;
+
+[S 396/2016 wef 01/09/2016]
+
+(xii) United Kingdom The Queen’s Beasts 10‑coin series coin;
+
+[S 396/2016 wef 01/09/2016]
+
 (e) any of the following silver coins which is or was legal tender in its country of origin, and is of a purity of at least 99.9%:
 
 (i) America Eagle coin;
+
+(ia) Armenia Noah’s Ark coin;
+
+[S 396/2016 wef 01/09/2016]
+
+(ib) Australia Kangaroo coin;
+
+[S 396/2016 wef 01/09/2016]
 
 (ii) Australia Kookaburra coin;
 
@@ -5106,9 +5128,25 @@ Investment Precious Metals
 
 (iv) Australia Lunar coin;
 
-(v) Austria Philharmoniker coin;
+(v) Australia Saltwater Crocodile coin;
 
-(vi) Canada Maple Leaf coin;
+[S 396/2016 wef 01/09/2016]
+
+(vi) Austria Philharmonic coin;
+
+[S 396/2016 wef 01/09/2016]
+
+(via) Canada Birds of Prey 4‑coin series coin;
+
+[S 396/2016 wef 01/09/2016]
+
+(vib) Canada Maple Leaf coin;
+
+[S 396/2016 wef 01/09/2016]
+
+(vic) Canada Wildlife 6‑coin series coin;
+
+[S 396/2016 wef 01/09/2016]
 
 (vii) China Panda coin;
 
@@ -5118,6 +5156,14 @@ Investment Precious Metals
 
 [S 828/2013 wef 01/01/2014]
 
+(x) United Kingdom Lunar coin;
+
+[S 396/2016 wef 01/09/2016]
+
+(xi) United Kingdom The Queen’s Beasts 10‑coin series coin;
+
+[S 396/2016 wef 01/09/2016]
+
 (f) any of the following platinum coins which is or was legal tender in its country of origin, and is of a purity of at least 99%:
 
 (i) America Eagle coin;
@@ -5126,11 +5172,19 @@ Investment Precious Metals
 
 (iii) Australia Platypus coin;
 
-(iv) Canada Maple Leaf coin.
+(iv) Austria Philharmonic coin;
 
-[S 496/2012 wef 01/10/2012]
+[S 396/2016 wef 01/09/2016]
 
-[Act 19/2012 wef 01/10/2012]
+(v) Canada Maple Leaf coin.
+
+[S 396/2016 wef 01/09/2016]
+
+[S 396/2016 wef 01/09/2016]
+
+1A. Paragraph 1(a), (b) and (c) shall not include any bar, ingot or wafer that is a decorative bar, ingot or wafer or a collector’s bar, ingot or wafer.
+
+[S 396/2016 wef 01/09/2016]
 
 2. Paragraph 1(d), (e) and (f) shall not include any coin that is a proof coin, a numismatic coin or a collector’s coin.
 
@@ -5366,13 +5420,15 @@ in the case of a supply of investment precious metals, at the time of the supply
 
 (BB)
 
-in the case of an import of investment precious metals, at the time the investment precious metals are removed from customs control;
+in the case of an import of investment precious metals, at the time the investment precious metals are removed from customs control; and
 
-(b) it bears a mark or characteristic that is internationally accepted as guaranteeing its quality; and
+[S 396/2016 wef 01/09/2016]
 
-(c) it trades at a price based on the spot price of gold, silver or platinum, as the case may be.
+(b) it bears a mark or characteristic that is internationally accepted as guaranteeing its quality.
 
-[Act 19/2012 wef 01/10/2012]
+[S 396/2016 wef 01/09/2016]
+
+(c) [Deleted by S 396/2016 wef 01/09/2016]
 
 Application
 
@@ -6015,6 +6071,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|25 January 2016 (Bill No. 2/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 July 2016|
+|60.|**G.N. No. S 396/2016—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2016**|
+||Date of commencement|1 September 2016|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
