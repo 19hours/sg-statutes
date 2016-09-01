@@ -1732,23 +1732,17 @@ Instrument not made properly or containing ineffective provision
 
 10.—(1) If it appears to the Public Guardian that an instrument accompanying an application under paragraph 4 is not made in accordance with this Schedule, he must not register the instrument unless the court directs him to do so.
 
-(2) Sub-paragraph (3) applies if it appears to the Public Guardian that the instrument contains a provision which —
+(2) [Deleted by Act 10 of 2016 wef 01/09/2016]
+
+(3) [Deleted by Act 10 of 2016 wef 01/09/2016]
+
+(4) Sub-paragraph (5) applies if the court determines under section 18(1) that the instrument contains a provision which —
 
 (a) would be ineffective as part of a lasting power of attorney; or
 
 (b) would prevent the instrument from operating as a valid lasting power of attorney.
 
-(3) The Public Guardian —
-
-(a) must apply to the court for it to determine the matter under section 18(1); and
-
-(b) pending the determination by the court, must not register the instrument.
-
-(4) Sub-paragraph (5) applies if the court determines under section 18(1) (whether or not on an application by the Public Guardian) that the instrument contains a provision which —
-
-(a) would be ineffective as part of a lasting power of attorney; or
-
-(b) would prevent the instrument from operating as a valid lasting power of attorney.
+[Act 10 of 2016 wef 01/09/2016]
 
 (5) The court must —
 
@@ -1928,9 +1922,11 @@ Delivery of instrument for attachment of note
 
 Notification of alterations
 
-24. If the Public Guardian attaches a note to an instrument under paragraph 20, 21, 22 or 23, he must give notice of the note to the donee or donees of the power (or, as the case may be, to the other donee or donees of the power).
+24. If the Public Guardian attaches a note to an instrument under paragraph 20, 21, 22 or 23, he must give notice of the note to the donor and the donee or donees of the power (or, as the case may be, to the other donee or donees of the power).
 
 [UK MCA 2005, Sch. 1]
+
+[Act 10 of 2016 wef 01/09/2016]
 
 SECOND SCHEDULE
 
@@ -2258,3 +2254,7 @@ This Legislative History is provided for the convenience of users of the Mental 
 ||Date of First Reading|29 February 2016 (Bill No. 11/2016 published on 29 February 2016)|
 ||Date of Second and Third Readings|14 March 2016|
 ||Date of commencement|30 June 2016|
+|11.|**Act 10 of 2016—Mental Capacity (Amendment) Act 2016**|
+||Date of First Reading|29 February 2016 (Bill No. 11/2016 published on 29 February 2016)|
+||Date of Second and Third Readings|14 March 2016|
+||Date of commencement|1 September 2016|
