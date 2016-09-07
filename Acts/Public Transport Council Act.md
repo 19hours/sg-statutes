@@ -56,9 +56,9 @@
 
 - [11C Expenses](#Expenses)
 
-- [11D Withdrawals](#Withdrawals)
-
 - [11E Financial year](#Financial-year)
+
+- [11D Withdrawals](#Withdrawals)
 
 - [11F Accounts](#Accounts)
 
@@ -742,19 +742,19 @@ PUBLIC TRANSPORT FUND
 
 [Act 31 of 2015 wef 01/04/2016]
 
-### Withdrawals
-
-11D\.—(1) Moneys cannot be withdrawn from the Public Transport Fund unless they are charged upon that Fund or are authorised to be withdrawn or transferred under this Act.
-
-(2) Despite section 13 of the Financial Procedure Act (Cap. 109), payment may be made out of the Public Transport Fund only if the payment is approved by the Minister or an accounting officer authorised, in writing, by the Minister.
-
-[Act 31 of 2015 wef 01/04/2016]
-
 ### Financial year
 
 11E\.—(1) The financial year of the Public Transport Fund begins on 1 April of each year and ends on 31 March of the succeeding year.
 
 (2) However, the first financial year of the Public Transport Fund begins on the date of commencement of section 11 of the Public Transport Council (Amendment) Act 2015 and ends on 31 March of the succeeding year.
+
+[Act 31 of 2015 wef 01/04/2016]
+
+### Withdrawals
+
+11D\.—(1) Moneys cannot be withdrawn from the Public Transport Fund unless they are charged upon that Fund or are authorised to be withdrawn or transferred under this Act.
+
+(2) Despite section 13 of the Financial Procedure Act (Cap. 109), payment may be made out of the Public Transport Fund only if the payment is approved by the Minister or an accounting officer authorised, in writing, by the Minister.
 
 [Act 31 of 2015 wef 01/04/2016]
 
@@ -1214,7 +1214,7 @@ the Council shall issue a direction in writing to the licensee requiring the lic
 
 (a) contravenes or fails to secure the compliance by his employees, agents or contractors with —
 
-(i) [Deleted by Act 30 of 2015 wef 22/01/2016]
+(i) [Deleted by Act 30 of 2015 wef 22/01/2016];
 
 (ii) any condition of a ticket payment service licence; or
 
@@ -1222,7 +1222,7 @@ the Council shall issue a direction in writing to the licensee requiring the lic
 
 (b) in the opinion of the Council, fails or is likely to fail to provide and maintain —
 
-(i) [Deleted by Act 30 of 2015 wef 22/01/2016]
+(i) [Deleted by Act 30 of 2015 wef 22/01/2016];
 
 (ii) an adequate, satisfactory, secure and efficient ticket payment service;
 
@@ -2464,27 +2464,23 @@ Presentation of financial statements and audit reports
 
 THIRD SCHEDULE
 
-Section 24(3)(c)
+Section 24AB(1) and (2)
 
 Fare adjustment formula
 
-0.4 cCPI + 0.4 WI + 0.2 EI – 0.5%
+where cCPI
 
-where
-
-cCPI
-
-is the change in Core Consumer Price Index between year 2014 and its previous year;
+is the change in Core Consumer Price Index between year 2015 and its previous year;
 
 WI
 
-is the change in National Average Monthly Earnings between year 2014 and its previous year, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act (Cap. 36); and
+is the change in National Average Monthly Earnings between year 2015 and its previous year, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act (Cap. 36); and
 
 EI
 
-is the change in Energy Index for electricity and fuel between year 2014 and its previous year.
+is the change in Energy Index for electricity and fuel between year 2015 and its previous year.
 
-[S 511/2015 wef 25/08/2015]
+[S 420/2016 wef 07/09/2016]
 
 ## LEGISLATIVE HISTORY
 
@@ -2572,7 +2568,7 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|13 July 2015|
 |||(Bill No. 26/2015)|
 ||Date of Second and Third Readings|18 August 2015|
-||Date of commencement|22 January 2016]|
+||Date of commencement|22 January 2016|
 |23.|**Act 31 of 2015—Public Transport Council (Amendment) Act 2015**|
 ||Date of First Reading|13 July2015|
 |||(Bill No. 27/2015)|
@@ -2583,6 +2579,8 @@ This Legislative History is provided for the convenience of users of the Public 
 |||(Bill No. 27/2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|1 April 2016|
+|25.|**G.N. No. S 420/2016—Public Transport Council Act (Amendment of Third Schedule) Order 2016**|
+||Date of commencement|7 September 2016|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
