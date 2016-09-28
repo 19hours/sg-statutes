@@ -1902,11 +1902,37 @@ Infectious Diseases
 
 1. 
 
-Acquired Immune Deficiency Syndrome (AIDS).
+Acute Hepatitis A.
+
+[S 451/2016 wef 28/09/2016]
+
+1A. 
+
+Acute Hepatitis B.
+
+[S 451/2016 wef 28/09/2016]
+
+1B. 
+
+Acute Hepatitis C.
+
+[S 451/2016 wef 28/09/2016]
+
+1C. 
+
+Acute Hepatitis E.
+
+[S 451/2016 wef 28/09/2016]
 
 2. 
 
 Avian Influenza.
+
+2A. 
+
+Botulism.
+
+[S 451/2016 wef 28/09/2016]
 
 3. 
 
@@ -1938,9 +1964,7 @@ Ebola Virus Disease (EVD).
 
 [S 523/2014 wef 08/08/2014]
 
-9. 
-
-Encephalitis, Viral.
+9. [Deleted by S 451/2016 wef 28/09/2016]
 
 10. 
 
@@ -1950,13 +1974,19 @@ Haemophilus Influenzae Type b (Hib) Disease.
 
 Hand, Foot and Mouth Disease.
 
-12. 
-
-Hepatitis, Viral.
+12. [Deleted by S 451/2016 wef 28/09/2016]
 
 13. 
 
-Human Immunodeficiency Virus Infection (Non-AIDS).
+HIV Infection.
+
+[S 451/2016 wef 28/09/2016]
+
+13A. 
+
+Japanese Encephalitis.
+
+[S 451/2016 wef 28/09/2016]
 
 14. 
 
@@ -1965,6 +1995,12 @@ Legionellosis.
 15. 
 
 Leprosy.
+
+15A. 
+
+Leptospirosis.
+
+[S 451/2016 wef 28/09/2016]
 
 16. 
 
@@ -1984,13 +2020,21 @@ Meningococcal Disease.
 
 19A. 
 
-Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
+Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV).
 
 [S 395/2014 wef 05/06/2014]
+
+[S 451/2016 wef 28/09/2016]
 
 20. 
 
 Mumps.
+
+20A. 
+
+Murine Typhus.
+
+[S 451/2016 wef 28/09/2016]
 
 21. 
 
@@ -2020,6 +2064,12 @@ Pneumococcal Disease (Invasive).
 
 Poliomyelitis.
 
+26A. 
+
+Rabies.
+
+[S 451/2016 wef 28/09/2016]
+
 27. 
 
 Rubella.
@@ -2036,7 +2086,9 @@ Severe Acute Respiratory Syndrome (SARS).
 
 Sexually Transmitted Infections —
 
-(a) Chlamydia Genital Infection;
+(a) Chlamydial Genital Infection;
+
+[S 451/2016 wef 28/09/2016]
 
 (b) Genital Herpes;
 
@@ -2045,6 +2097,12 @@ Sexually Transmitted Infections —
 (d) Non-Gonococcal Urethritis; and
 
 (e) Syphilis.
+
+30A. 
+
+Tetanus.
+
+[S 451/2016 wef 28/09/2016]
 
 30A. 
 
@@ -2127,9 +2185,11 @@ Severe Acute Respiratory Syndrome (SARS).
 
 2. 
 
-Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
+Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV).
 
 [S 395/2014 wef 05/06/2014]
+
+[S 451/2016 wef 28/09/2016]
 
 3. 
 
@@ -2145,9 +2205,11 @@ Diseases in respect of which information may be disclosed by the Director to a p
 
 1. 
 
-Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV) (formerly known as Novel Coronavirus Infection).
+Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV).
 
 [S 395/2014 wef 05/06/2014]
+
+[S 451/2016 wef 28/09/2016]
 
 2. 
 
@@ -2319,6 +2381,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|30 October 2014|
 |39.|**G.N. No. S 37/2016—Infectious Diseases Act (Amendment of First Schedule) Notification 2016**|
 ||Date of commencement|26 January 2016|
+|40.|**G.N. No. S 451/2016—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) Notification 2016**|
+||Date of commencement|28 September 2016|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
