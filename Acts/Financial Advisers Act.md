@@ -4694,11 +4694,19 @@ Excluded Financial Advisers
 
 1. Any —
 
-(a) advocate and solicitor, law corporation, Formal Law Alliance or Joint Law Venture, which is approved or registered under the Legal Profession Act (Cap. 161); or
+(a) advocate and solicitor;
+
+[S 445/2016 wef 30/09/2016]
+
+(aa) Singapore law practice, Joint Law Venture, Formal Law Alliance or Qualifying Foreign Law Practice, as defined in section 2(1) of the Legal Profession Act (Cap. 161); or
+
+[S 445/2016 wef 30/09/2016]
 
 (b) public accountant who is registered under the Accountants Act (Cap. 2), or accounting corporation which is approved under that Act,
 
-whose carrying on of the business of providing any financial advisory service is solely incidental to his legal or accounting practice, as the case may be.
+whose carrying on of the business of providing any financial advisory service is solely incidental to the practice of law or accounting, as the case may be.
+
+[S 445/2016 wef 30/09/2016]
 
 2. Any company licensed under the Trust Companies Act (Cap. 336) whose carrying on of the business of providing any financial advisory service is solely incidental to its carrying on of the business for which it is licensed under that Act.
 
@@ -4959,6 +4967,8 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|19.|**G.N. No. S 445/2016—Financial Advisers Act (Amendment of First Schedule) Order 2016**|
+||Date of commencement|30 September 2016|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
