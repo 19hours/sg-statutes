@@ -25630,7 +25630,13 @@ Specified Persons
 
 3. Any —
 
-(a) advocate and solicitor, law corporation, Formal Law Alliance or Joint Law Venture which is approved or registered under the Legal Profession Act (Cap. 161); or
+(a) advocate and solicitor;
+
+[S 446/2016 wef 30/09/2016]
+
+(aa) Singapore law practice, Joint Law Venture, Formal Law Alliance or Qualifying Foreign Law Practice, as defined in section 2(1) of the Legal Profession Act (Cap. 161); or
+
+[S 446/2016 wef 30/09/2016]
 
 (b) public accountant who is registered under the Accountants Act (Cap. 2) or accounting corporation which is approved under that Act,
 
@@ -25927,36 +25933,7 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of commencement|2 January 2011|
 |19.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
 ||Date of commencement|17 January 2012|
-|20.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|4 February 2013|
-|||(Bill No. 5/2013 published on 4 February 2013)|
-||Date of Second and Third Readings|15 March 2013|
-||Date of commencement|18 April 2013|
-|21.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
-||Date of First Reading|4 February 2013|
-|||(Bill No. 4/2013 published on 4 February 2013)|
-||Date of Second and Third Readings|15 March 2013|
-||Date of commencement|18 April 2013|
-|||2 August 2013|
-|||1 November 2013|
-|22.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
-||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
-||Date of Second and Third Readings|7 October 2014|
-||Date of commencement|1 July 2015|
-|||3 January 2016|
-|23.|**Act 29 of 2014—Business Names Registration Act 2014**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|8 September 2014|
-|||(Bill No. 26/2014)|
-||Date of Second and Third Readings|8 October 2014|
-||Date of commencement|3 January 2016|
-|24.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
-||Date of First Reading|8 September 2014|
-|||(Bill No. 25/2014)|
-||Date of Second and Third Readings|8 October 2015|
-||Date of commencement|3 January 2016|
-|25.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+|20.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 31/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|15 November 2012|
@@ -25965,6 +25942,37 @@ This Legislative History is provided for the convenience of users of the Securit
 |||31 October 2013|
 |||1 May 2014|
 |||19 August 2016|
+|21.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+||Date of First Reading|4 February 2013|
+|||(Bill No. 4/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
+|||2 August 2013|
+|||1 November 2013|
+|22.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|4 February 2013|
+|||(Bill No. 5/2013 published on 4 February 2013)|
+||Date of Second and Third Readings|15 March 2013|
+||Date of commencement|18 April 2013|
+|23.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
+|||3 January 2016|
+|24.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|8 September 2014|
+|||(Bill No. 26/2014)|
+||Date of Second and Third Readings|8 October 2014|
+||Date of commencement|3 January 2016|
+|25.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
+||Date of First Reading|8 September 2014|
+|||(Bill No. 25/2014)|
+||Date of Second and Third Readings|8 October 2015|
+||Date of commencement|3 January 2016|
+|26.|**G.N. No. S 446/2016—Securities and Futures Act (Amendment of Third Schedule) Order 2016**|
+||Date of commencement|30 September 2016|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
