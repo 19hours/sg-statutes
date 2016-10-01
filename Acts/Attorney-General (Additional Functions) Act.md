@@ -153,9 +153,9 @@ National Parks Board.
 
 5. 
 
-Media Development Authority of Singapore.
+Info-communications Media Development Authority.
 
-[S 293/2015 wef 18/05/2015]
+[Act 22 of 2016 wef 01/10/2016]
 
 6. 
 
@@ -181,11 +181,7 @@ Urban Redevelopment Authority.
 
 [S 371/2015 wef 16/06/2015]
 
-10. 
-
-Info-communications Development Authority of Singapore.
-
-[S 371/2015 wef 16/06/2015]
+10. [Deleted by Act 22 of 2016 wef 01/10/2016 wef 01/10/2016]
 
 11. 
 
@@ -241,11 +237,7 @@ Energy Market Authority of Singapore.
 
 [S 371/2015 wef 16/06/2015]
 
-20. 
-
-Personal Data Protection Commission.
-
-[S 371/2015 wef 16/06/2015]
+20. [Deleted by Act 22 of 2016 wef 01/10/2016 wef 01/10/2016]
 
 21. 
 
