@@ -7382,6 +7382,10 @@ the applicable amount less —
 
 (14) Energy Market Authority of Singapore.
 
+(14A) Government Technology Agency.
+
+[Act 23 of 2016 wef 01/10/2016]
+
 (15) Health Promotion Board.
 
 (16) Health Sciences Authority.
@@ -7394,7 +7398,9 @@ the applicable amount less —
 
 (20) Housing and Development Board.
 
-(21) Info-communications Development Authority of Singapore.
+(21) Info-communications Media Development Authority.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (22) Inland Revenue Authority of Singapore.
 
@@ -7420,7 +7426,7 @@ the applicable amount less —
 
 (30) Maritime and Port Authority of Singapore.
 
-(31) Media Development Authority of Singapore.
+(31) [Deleted by Act 22 of 2016 wef 01/10/2016]
 
 (32) Monetary Authority of Singapore.
 
@@ -8530,6 +8536,15 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 May 2016|
 |202.|**G.N. No. S 233/2016—Central Provident Fund Act (Amendment of Third Schedule) Notification 2016**|
 ||Date of commencement|26 May 2016|
+|203.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
+|204.|**Act 23 of 2016—Government Technology Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 22/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 October 2016|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
