@@ -400,13 +400,21 @@ Energy Market Authority of Singapore
 
 Government of Singapore Investment Corporation Private Limited and its subsidiary corporations
 
+12A. 
+
+Government Technology Agency
+
+[Act 23 of 2016 wef 01/10/2016]
+
 13. 
 
 Housing and Development Board
 
 14. 
 
-Info-communications Development Authority of Singapore
+Info-communications Media Development Authority
+
+[Act 22 of 2016 wef 01/10/2016]
 
 15. 
 
@@ -428,9 +436,7 @@ Land Transport Authority of Singapore
 
 Maritime and Port Authority of Singapore
 
-20. 
-
-Media Development Authority of Singapore
+20. [Deleted by Act 22 of 2016 wef 01/10/2016 wef 01/10/2016]
 
 21. 
 
@@ -578,3 +584,12 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of commencement|2 January 2011|
 |29.|**2012 Revised Edition—Official Secrets Act (Chapter 213)**|
 ||Date of operation|30 November 2012|
+|30.|**Act 23 of 2016—Government Technology Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 22/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 October 2016|
+|31.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
