@@ -12,6 +12,8 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Application](#Application)
+
 - [3 Power to extend Part I to foreign countries giving reciprocal treatment](#Power-to-extend-Part-I-to-foreign-countries-giving-reciprocal-treatment)
 
 - [4 Application for, and effect of, registration of foreign judgment](#Application-for-and-effect-of-registration-of-foreign-judgment)
@@ -107,6 +109,12 @@ REGISTRATION OF FOREIGN JUDGMENTS
 (f) guardianship of infants.
 
 (3) Subject to Rules of Court, any of the powers conferred by this Act on any court may be exercised by a judge of the court.
+
+### Application
+
+2A\. This Act does not apply to any judgment which may be recognised or enforced in Singapore under the Choice of Court Agreements Act 2016.
+
+[Act 14 of 2016 wef 01/10/2016]
 
 ### Power to extend Part I to foreign countries giving reciprocal treatment
 
@@ -362,6 +370,10 @@ This Legislative History is provided for the convenience of users of the Recipro
 ||Date of commencement|25 February 1999|
 |7.|**2001 Revised Edition—Reciprocal Enforcement of Foreign Judgments Act**|
 ||Date of operation|31 July 2001|
+|8.|**Act 14 of 2016—Choice of Court Agreements Act 2016**|
+||Date of First Reading|4 April 2016 (Bill No. 14/2016 published on 4 April 2016)|
+||Date of Second and Third Readings|14 April 2016|
+||Date of commencement|1 October 2016|
 ## COMPARATIVE TABLE
 
 Reciprocal Enforcement of Foreign Judgments Act
