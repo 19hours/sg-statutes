@@ -428,6 +428,12 @@ Energy Market Authority of Singapore Act
 
 (Chapter 92B)
 
+12A.
+
+Government Technology Agency
+
+Government Technology Agency Act 2016
+
 13.
 
 Health Promotion Board
@@ -448,9 +454,9 @@ Housing and Development Act (Chapter 129)
 
 16.
 
-Info-communications Development Authority of Singapore
+Info-communications Media Development Authority
 
-Info-communications Development Authority of Singapore Act (Chapter 137A)
+Info-communications Media Development Authority Act 2016
 
 17.
 
@@ -547,14 +553,7 @@ Maritime and Port Authority of Singapore Act
 
 26.
 
-Media Development Authority of Singapore
-
-Media Development Authority of Singapore Act
-
-
-
-
-(Chapter 172)
+[Deleted by Act 22 of 2016 wef 01/10/2016]
 
 27.
 
@@ -748,6 +747,10 @@ Urban Redevelopment Authority Act
 
 (Chapter 340).
 
+[Act 22 of 2016 wef 01/10/2016]
+
+[Act 23 of 2016 wef 01/10/2016]
+
 [Act 23 of 2015 wef 12/08/2015]
 
 [S 587/2009 wef 01/12/2009]
@@ -803,3 +806,12 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of First Reading|11 May 2015 (Bill No. 20/2015 published on 11 May 2015)|
 ||Date of Second and Third Readings|14 July 2015|
 ||Date of commencement|12 August 2015|
+|9.|**Act 23 of 2016—Government Technology Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 22/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 October 2016|
+|10.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
