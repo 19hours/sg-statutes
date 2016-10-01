@@ -450,7 +450,9 @@ Income and expenditure
 
 23A. 
 
-Information and communications technology
+Information, communications and media
+
+[Act 22 of 2016 wef 01/10/2016]
 
 24. 
 
@@ -584,7 +586,9 @@ Research and statistics units
 
 1. 
 
-Economics Research Department of the Building and Construction Authority.
+Economic Research Department of the Building and Construction Authority.
+
+[S 454/2016 wef 01/10/2016]
 
 2. 
 
@@ -592,7 +596,9 @@ Research and Statistics Unit of the Economic Development Board.
 
 3. 
 
-Management Information and Research Branch of the Ministry of Education.
+Research and Management Information Division of the Ministry of Education.
+
+[S 454/2016 wef 01/10/2016]
 
 4. [Deleted by S 151/2010]
 
@@ -612,7 +618,9 @@ Data Governance & Analytics Unit of the Monetary Authority of Singapore.
 
 8. 
 
-Research and Statistics Unit of the Info-communications Development Authority of Singapore.
+Research and Statistics Unit of the Info‑communications Media Development Authority.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 9. 
 
@@ -729,6 +737,13 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|27 March 2015|
 |25.|**G.N. No. S 550/2015—Statistics Act (Amendment of First Schedule) Order 2015**|
 ||Date of commencement|8 September 2015|
+|26.|**G.N. No. S 454/2016—Statistics Act (Amendment of Second Schedule) Order 2016**|
+||Date of commencement|1 October 2016|
+|27.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
 ## COMPARATIVE TABLE
 
 Statistics Act
