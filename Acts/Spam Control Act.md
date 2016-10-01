@@ -92,7 +92,9 @@ PRELIMINARY
 
 (b) collecting, compiling, capturing or otherwise harvesting those electronic addresses;
 
-“Authority” means the Info-communications Development Authority of Singapore established under section 3 of the Info-communications Development Authority of Singapore Act (Cap. 137A);
+“Authority” means the Info‑communications Media Development Authority established by section 3 of the Info‑communications Media Development Authority Act 2016;
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “business day” means any day other than a Saturday, Sunday or public holiday;
 
@@ -524,3 +526,8 @@ This Legislative History is provided for the convenience of users of the Spam Co
 ||Date of commencement|15 June 2007|
 |2.|**2008 Revised Edition—Spam Control Act**|
 ||Date of operation|31 July 2008|
+|3.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
