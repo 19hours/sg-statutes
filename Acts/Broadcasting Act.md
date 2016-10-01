@@ -62,7 +62,7 @@
 
 - [22 Frequency planning criteria](#Frequency-planning-criteria)
 
-- [23 Re-assignment of frequencies](#Re-assignment-of-frequencies)
+- [23 (Repealed)](#Repealed)
 
 - [24 Separate licence for use of frequency not required](#Separate-licence-for-use-of-frequency-not-required)
 
@@ -164,7 +164,7 @@
 
 - [66 Regulations](#Regulations)
 
-- [67 References in other written laws and documents](#References-in-other-written-laws-and-documents)
+- [67 (Repealed)](#Repealed)
 
 - [68 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
@@ -208,7 +208,9 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“Authority” means the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act (Cap. 172);
+“Authority” means the Info-communications Media Development Authority established by section 3 of the Info-communications Media Development Authority Act 2016;
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “broadcasting apparatus” means any apparatus capable of or designed or constructed for the reception of any broadcasting service and specified in the First Schedule;
 
@@ -226,9 +228,13 @@ PRELIMINARY
 
 by persons having equipment appropriate for receiving, or receiving and displaying, as the case may be, that service, irrespective of the means of delivery of that service;
 
-“Chairman” means the Chairman of the Authority and includes any temporary Chairman of the Authority;
+[Deleted by Act 22 of 2016 wef 01/10/2016]
 
-“chief executive” means the chief executive of the Authority appointed under section 28 of the Media Development Authority of Singapore Act and includes any person acting in that capacity;
+[Deleted by Act 22 of 2016 wef 01/10/2016]
+
+“Chief Executive”, in relation to the Authority, means the Chief Executive of the Authority appointed under section 40(2) of the Info-communications Media Development Authority Act 2016, and includes any individual acting in that capacity;
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “class licence” means a licence determined under section 9 to be applicable to certain licensable broadcasting services, and “class licensee” shall be construed accordingly;
 
@@ -244,7 +250,7 @@ by persons having equipment appropriate for receiving, or receiving and displayi
 
 “free-to-air licence” means a broadcasting licence granted under this Act for the operation of a free-to-air broadcasting service, and “free-to-air licensee” shall be construed accordingly;
 
-“Info-communications Development Authority of Singapore” means the Info-communications Development Authority of Singapore established under section 3 of the Info-communications Development Authority of Singapore Act (Cap. 137A);
+[Deleted by Act 22 of 2016 wef 01/10/2016]
 
 “licence” means a licence granted under any provision of this Act, and “licensee” shall be construed accordingly;
 
@@ -470,9 +476,13 @@ the Authority may, by notice in writing and without any compensation, do either 
 
 (2) Any person who is aggrieved by any decision of the Authority under this section may, within 14 days of the receipt by him of the notice referred to in subsection (1), appeal to the Minister whose decision shall be final.
 
-(3) In this section, “Code of Practice” includes a code of practice issued under the Media Development Authority of Singapore Act (Cap. 172).
+(3) In this section, “Code of Practice” includes —
 
-[34/2002]
+(a) a code of practice issued by the Authority under section 61 of the Info‑communications Media Development Authority Act 2016; and
+
+(b) a code of practice issued under section 17 of the Media Development Authority of Singapore Act (Cap. 172) before the repeal of that Act by the Info‑communications Media Development Authority Act 2016.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Compliance with Codes of Practice, etc.
 
@@ -602,17 +612,13 @@ FREQUENCY PLANNING
 
 (e) the demand for electromagnetic, and particularly radio frequency, spectrum for services other than broadcasting services; and
 
-(f) such other matters as the Authority or the Info-communications Development Authority of Singapore considers appropriate.
+(f) such other matters as the Authority considers appropriate.
 
 [41/99]
 
-### Re-assignment of frequencies
+[Act 22 of 2016 wef 01/10/2016]
 
-23\.—(1) The Info-communications Development Authority of Singapore shall, in consultation with the Authority, assign to the Authority specific frequencies in the electromagnetic spectrum and satellite orbits for the purpose of broadcasting having regard to the international allocation plans set by the International Telecommunication Union as well as national requirements.
-
-[41/99]
-
-(2) The Authority may re-assign to any person the frequencies in the electromagnetic spectrum and satellite orbits assigned under subsection (1) in accordance with this Act.
+23\. [Repealed by Act 22 of 2016 wef 01/10/2016]
 
 ### Separate licence for use of frequency not required
 
@@ -1350,13 +1356,15 @@ enter and inspect any premises and seize any broadcasting apparatus found therei
 
 ### Power of arrest and search
 
-52\.—(1) The chief executive or any employee of the Authority authorised by him to act under this section may arrest without warrant —
+52\.—(1) The Chief Executive or any employee of the Authority authorised by him to act under this section may arrest without warrant —
 
 (a) any person found committing or attempting to commit or employing or aiding any person to commit an arrestable offence under this Act; or
 
 (b) any person against whom a reasonable suspicion exists that he has been guilty of an arrestable offence under this Act,
 
 and may search any person so arrested, except that no female shall be searched except by a female.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (2) Every person so arrested shall, together with any article as to which an offence may have been committed or attempted to be committed, be taken to a police station.
 
@@ -1372,9 +1380,11 @@ and may search any person so arrested, except that no female shall be searched e
 
 ### Conduct of proceedings by officers
 
-55\. Proceedings in respect of any offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority or an officer of the Government authorised in writing in that behalf by the chief executive.
+55\. Proceedings in respect of any offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority or an officer of the Government authorised in writing in that behalf by the Chief Executive.
 
 [15/2010]
+
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Corporate offenders and unincorporated associations
 
@@ -1420,7 +1430,7 @@ and may search any person so arrested, except that no female shall be searched e
 
 (2) The Authority may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
 
-(3) All sums collected under this section shall be paid to the Authority.
+(3) [Deleted by Act 22 of 2016 wef 01/10/2016]
 
 ### Jurisdiction of court
 
@@ -1514,17 +1524,7 @@ may appeal to the Minister.
 
 (b) necessary or convenient to be prescribed for carrying out or giving effect to the purposes of this Act.
 
-### References in other written laws and documents
-
-67\. Insofar as it is necessary for preserving the effect of any written law or document on or after 1st January 20035—
-
-5Date of commencement of the Media Development Authority of Singapore Act 2002 (Act 34 of 2002).
-
-(a) a reference therein to the Singapore Broadcasting Authority Act (Cap. 297, 1995 Ed.) shall be read as a reference to the Broadcasting Act; and
-
-(b) a reference to the Singapore Broadcasting Authority shall be read as a reference to the Media Development Authority of Singapore.
-
-[34/2002]
+67\. [Repealed by Act 22 of 2016 wef 01/10/2016]
 
 ### Transitional and savings provisions
 
@@ -1759,6 +1759,11 @@ This Legislative History is provided for the convenience of users of the Broadca
 ||Date of commencement|2 January 2011|
 |17.|**2012 Revised Edition—Broadcasting Act (Chapter 28)**|
 ||Date of operation|31 August 2012|
+|18.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
 ## COMPARATIVE TABLE
 
 Broadcasting Act
