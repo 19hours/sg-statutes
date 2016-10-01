@@ -154,7 +154,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“authorised officer”, in relation to any provision of this Act, means any police officer or other public officer, or employee of the MDA or other public authority, appointed under section 32 to perform any function or exercise any power under that provision;
+“authorised officer”, in relation to any provision of this Act, means any police officer or other public officer, or employee of the IMDA or other public authority, appointed under section 32 to perform any function or exercise any power under that provision;
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “business” includes a venture or concern in trade or commerce, whether or not conducted on a regular, repetitive or continuous basis;
 
@@ -172,9 +174,13 @@ PRELIMINARY
 
 but does not include mere advertising;
 
+“IMDA” means the Info‑communications Media Development Authority established by section 3 of the Info‑communications Media Development Authority Act 2016;
+
+[Act 22 of 2016 wef 01/10/2016]
+
 “MAS” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
 
-“MDA” means the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act (Cap. 172);
+[Deleted by Act 22 of 2016 wef 01/10/2016]
 
 “public authority” means a body established or constituted by or under a public Act to perform or discharge a public function;
 
@@ -690,9 +696,11 @@ but does not include a person who provides Internet services to that person’s 
 
 (e) an online location that contains material promoting remote gambling in contravention of section 17,
 
-the authorised officer may, after having regard to the matters referred to in subsection (2), direct the MDA to order the Internet service provider to take reasonable steps to disable access to that online location (called an access blocking order); and the MDA must then give that Internet service provider an access blocking order.
+the authorised officer may, after having regard to the matters referred to in subsection (2), direct the IMDA to order the Internet service provider to take reasonable steps to disable access to that online location (called an access blocking order); and the IMDA must then give that Internet service provider an access blocking order.
 
-(2) Before directing the MDA to make an access blocking order with respect to an online location, an authorised officer must have regard to, and give such weight as the officer considers appropriate to, all of the following matters:
+[Act 22 of 2016 wef 01/10/2016]
+
+(2) Before directing the IMDA to make an access blocking order with respect to an online location, an authorised officer must have regard to, and give such weight as the officer considers appropriate to, all of the following matters:
 
 (a) whether, having regard to the content of the online location and the way the online location is advertised or promoted, the primary purpose of the online location —
 
@@ -716,11 +724,13 @@ and the online location is available for access by end‑users in Singapore;
 
 (h) the technical feasibility of complying with the access blocking order.
 
+[Act 22 of 2016 wef 01/10/2016]
+
 (3) To avoid doubt, an authorised officer is not confined to consideration of matters specified in subsection (2) and may take into account such other matters and evidence as may be relevant.
 
-(4) In addition, before directing the MDA to make an access blocking order with respect to an online location referred to in subsection (1)(c), (d) or (e), the authorised officer —
+(4) In addition, before directing the IMDA to make an access blocking order with respect to an online location referred to in subsection (1)(c), (d) or (e), the authorised officer —
 
-(a) must send a notice to the owner or operator of the online location (called the relevant online location proprietor), stating the intention to direct the MDA to issue an access blocking order if the relevant online location proprietor does not, within the prescribed period —
+(a) must send a notice to the owner or operator of the online location (called the relevant online location proprietor), stating the intention to direct the IMDA to issue an access blocking order if the relevant online location proprietor does not, within the prescribed period —
 
 (i) stop the invitation on that online location to young persons to gamble in contravention of section 13;
 
@@ -730,7 +740,11 @@ and the online location is available for access by end‑users in Singapore;
 
 (b) must be satisfied that, upon or after the end of that prescribed period or after reasonable efforts are made to send the notice referred to in paragraph (a) to the relevant online location proprietor, the relevant online location proprietor does not stop the activity referred to in paragraph (a)(i), (ii) or (iii), as the case may be.
 
-(5) An Internet service provider which does not comply with any access blocking order issued against it by the MDA under this section shall be guilty of an offence for each online location specified in the access blocking order and not blocked in accordance with the terms of that order, and shall be liable on conviction to a fine not exceeding $20,000 for each day during any part of which that access blocking order is not fully complied with, up to a total of $500,000 for each offence.
+[Act 22 of 2016 wef 01/10/2016]
+
+(5) An Internet service provider which does not comply with any access blocking order issued against it by the IMDA under this section shall be guilty of an offence for each online location specified in the access blocking order and not blocked in accordance with the terms of that order, and shall be liable on conviction to a fine not exceeding $20,000 for each day during any part of which that access blocking order is not fully complied with, up to a total of $500,000 for each offence.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (6) It is not necessary to publish any access blocking order in theGazette.
 
@@ -784,11 +798,13 @@ and the online location is available for access by end‑users in Singapore;
 
 ### Review of blocking orders
 
-22\.—(1) After a direction is given under section 20(1) to the MDA or under section 21(1)(a) to the MAS, or a payment blocking order under section 21(1)(b) is given, an authorised officer must, unless not practicable, serve —
+22\.—(1) After a direction is given under section 20(1) to the IMDA or under section 21(1)(a) to the MAS, or a payment blocking order under section 21(1)(b) is given, an authorised officer must, unless not practicable, serve —
 
-(a) on an owner or operator of an online location, a notice of every access blocking order given by the MDA to an Internet service provider with respect to that online location; and
+(a) on an owner or operator of an online location, a notice of every access blocking order given by the IMDA to an Internet service provider with respect to that online location; and
 
 (b) on a person to or from whom the transactions specified in section 21(2)(a), (b) or (c) are to be blocked under a payment blocking order, a notice of every payment blocking order given by the MAS to any financial institution with respect to that person, or a notice of every payment blocking order given by the authorised officer to any financial transaction provider with respect to that person (as the case may be).
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (2) Any person referred to in subsection (1)(a) or (b), and any Internet service provider, financial institution or financial transaction provider given an access blocking order or a payment blocking order (called an affected person), may —
 
@@ -840,7 +856,9 @@ and the online location is available for access by end‑users in Singapore;
 
 (e) that it is otherwise appropriate in the circumstances to do so.
 
-(7) Upon an authorised officer’s decision under subsection (4) or (6) with respect to an access blocking order, the MDA is to accordingly inform the Internet service provider concerned, and the authorised officer is to accordingly inform the person served with a notice of the access blocking order under subsection (1), of the authorised officer’s decision.
+(7) Upon an authorised officer’s decision under subsection (4) or (6) with respect to an access blocking order, the IMDA is to accordingly inform the Internet service provider concerned, and the authorised officer is to accordingly inform the person served with a notice of the access blocking order under subsection (1), of the authorised officer’s decision.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (8) Upon an authorised officer’s decision under subsection (4) or (6) with respect to a payment blocking order, the MAS is to accordingly inform the financial institution or class of financial institutions to which that order relates, and the authorised officer is to accordingly inform the person served with a notice of the payment blocking order under subsection (1), of the authorised officer’s decision.
 
@@ -1098,7 +1116,9 @@ and any reference to the Minister in section 23 or 24(1), or the relevant provis
 
 (b) public officers who are not police officers; and
 
-(c) employees of the MDA or other public authority,
+(c) employees of the IMDA or other public authority,
+
+[Act 22 of 2016 wef 01/10/2016]
 
 as the Minister considers appropriate to be authorised officers to administer this Act, either generally or for any particular provision.
 
