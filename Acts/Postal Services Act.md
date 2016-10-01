@@ -138,6 +138,8 @@
 
 - [46 Power to require information, etc.](#Power-to-require-information-etc)
 
+- [46A Power to examine, etc.](#Power-to-examine-etc)
+
 - [47 Powers of arrest and search in respect of seizable offences](#Powers-of-arrest-and-search-in-respect-of-seizable-offences)
 
 - [48 Powers of search and arrest in respect of offences under section 33](#Powers-of-search-and-arrest-in-respect-of-offences-under-section-33)
@@ -312,9 +314,11 @@ POSTAL AUTHORITY
 
 ### Postal Authority
 
-3\. The Info-communications Development Authority of Singapore shall be the Postal Authority responsible for the administration of this Act.
+3\.—(1) The Info-communications Media Development Authority, established by section 3 of the Info‑communications Media Development Authority Act 2016, is appointed as the Postal Authority.
 
-[34/2007 wef 24/08/2007]
+(2) The Postal Authority is responsible for the administration of this Act.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Functions and duties of Postal Authority
 
@@ -1404,7 +1408,7 @@ ENFORCEMENT POWERS AND PROCEDURES
 
 ### Power to require information, etc.
 
-46\.—(1) The Postal Authority or any officer of the Postal Authority authorised in that behalf may, for the purpose of discharging its functions under this Act, by order —
+46\.—(1) The Postal Authority or any officer of the Postal Authority authorised in that behalf may, for the purpose of conducting an investigation or discharging its functions under this Act, by order —
 
 (a) require any person to furnish the Postal Authority with any information in his possession which relates to any postal service or postal system; and
 
@@ -1413,6 +1417,8 @@ ENFORCEMENT POWERS AND PROCEDURES
 (i) to furnish the Postal Authority with a copy of or extract from the document; or
 
 (ii) unless the document forms part of the records or other documents of a court or public authority, to transmit the document itself to the Postal Authority for its inspection.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (2) The Postal Authority or any officer authorised by it in that behalf shall be entitled without payment to keep any copy or extract furnished to the Postal Authority under subsection (1).
 
@@ -1459,6 +1465,44 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (8) In this section, “document” includes any electronic record within the meaning of the Electronic Transactions Act (Cap. 88).
 
 [34/2007 wef 24/08/2007]
+
+### Power to examine, etc.
+
+46A\.—(1) An officer of the Postal Authority who is authorised by the Postal Authority for the purpose of this section (called in this section the authorised officer) may, for the purposes of investigating an offence under this Act or any regulations under this Act, do all or any of the following:
+
+(a) require any person whom the authorised officer reasonably believes to have committed that offence to furnish evidence of that person’s identity;
+
+(b) require, by written notice, any person within the limits of Singapore, who appears to be acquainted with the facts or circumstances of the matter to attend before the authorised officer;
+
+(c) examine orally any person who appears to be acquainted with the facts or circumstances of the matter —
+
+(i) whether before or after that person or anyone else is charged with an offence in connection with the matter; or
+
+(ii) whether or not that person is to be called as a witness in any inquiry, trial or other proceeding in connection with the matter.
+
+(2) A person examined under subsection (1)(c) is bound to state truly what the person knows of the facts and circumstances of the matter, except that the person need not say anything that might expose the person to a criminal charge or punishment.
+
+(3) A statement made by a person examined under subsection (1)(c) must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted to the person in a language that the person understands; and
+
+(d) after correction (if necessary), be signed by the person.
+
+(4) Any person who —
+
+(a) fails, without reasonable excuse, to furnish the information required of that person under subsection (1)(a);
+
+(b) fails, without reasonable excuse, to comply with a notice issued to that person under subsection (1)(b); or
+
+(c) furnishes any information or makes any statement under this section which the person knows to be false or misleading in any material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Powers of arrest and search in respect of seizable offences
 
@@ -1526,7 +1570,7 @@ whichever is the lower.
 
 (2) The Postal Authority may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
 
-(3) All sums collected under this section shall be paid to the Postal Authority.
+(3) [Deleted by Act 22 of 2016 wef 01/10/2016]
 
 ### General penalties
 
@@ -1750,6 +1794,11 @@ This Legislative History is provided for the convenience of users of the Postal 
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|6.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
 ## COMPARATIVE TABLE
 
 Postal Services Act
