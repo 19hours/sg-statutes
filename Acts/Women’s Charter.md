@@ -34,6 +34,8 @@
 
 - [11 Avoidance of marriages by subsisting prior marriage](#Avoidance-of-marriages-by-subsisting-prior-marriage)
 
+- [11A Avoidance of marriages of convenience](#Avoidance-of-marriages-of-convenience)
+
 - [12 Avoidance of marriages between persons of same sex](#Avoidance-of-marriages-between-persons-of-same-sex)
 
 - [13 Consents](#Consents)
@@ -686,6 +688,22 @@ SOLEMNIZATION OF MARRIAGES
 
 [26/80]
 
+### Avoidance of marriages of convenience
+
+11A\.—(1) A marriage solemnized on or after the date of commencement of section 6 of the Women’s Charter (Amendment) Act 2016, whether in Singapore or elsewhere, is void if —
+
+(a) a party to the marriage contracts or otherwise enters into the marriage knowing or having reason to believe that the purpose of the marriage is to assist the party or the other party to the marriage to obtain an immigration advantage; and
+
+(b) any gratification, whether from a party to the marriage or another person, is offered, given or received as an inducement or reward to any party to the marriage for entering into the marriage.
+
+(2) However, a marriage is not void under subsection (1) if it is proved that both parties to the marriage believed on reasonable grounds, when contracting or entering into the marriage, that the marriage would result in a genuine marital relationship.
+
+(3) A marriage solemnized on or after the date of commencement of section 6 of the Women’s Charter (Amendment) Act 2016 is deemed to be void under subsection (1) if either party to the marriage is convicted of an offence under section 57C(1) of the Immigration Act (Cap. 133) in respect of the marriage.
+
+(4) In this section, “gratification” and “immigration advantage” have the same meanings as in section 57C(6) of the Immigration Act.
+
+[Act 7 of 2016 wef 01/10/2016]
+
 ### Avoidance of marriages between persons of same sex
 
 12\.—(1) A marriage solemnized in Singapore or elsewhere between persons who, at the date of the marriage, are not respectively male and female shall be void.
@@ -803,6 +821,14 @@ SOLEMNIZATION OF MARRIAGES
 [2/2011 wef 01/09/2011]
 
 [Act 7 of 2016 wef 01/07/2016]
+
+(2AA) The Registrar must not issue a marriage licence if either party to the proposed marriage makes a false declaration, in the statutory declaration referred to in subsection (2), that the party has not been previously convicted of either or both of the following offences:
+
+(a) an offence under section 57C(1) of the Immigration Act (Cap. 133);
+
+(b) an offence under section 494 of the Penal Code (Cap. 224).
+
+[Act 7 of 2016 wef 01/10/2016]
 
 (2B) The statutory declaration referred to in subsection (2) shall be made by each party to the proposed marriage in the presence of the other party.
 
@@ -2454,7 +2480,13 @@ NULLITY OF MARRIAGE
 
 105\. A marriage which takes place after 1st June 1981 shall be void on the following grounds only:
 
-(a) that it is not a valid marriage by virtue of sections 3(4), 5, 9, 10, 11, 12 and 22; or
+(a) that it is not a valid marriage by virtue of sections 3(4), 5, 9, 10, 11, 12 and 22;
+
+[Act 7 of 2016 wef 01/10/2016]
+
+(aa) where the marriage was solemnized on or after the date of commencement of section 6 of the Women’s Charter (Amendment) Act 2016, that it is not a valid marriage by virtue of section 11A; or
+
+[Act 7 of 2016 wef 01/10/2016]
 
 (b) where the marriage was celebrated outside Singapore, that the marriage is invalid —
 
@@ -4404,3 +4436,7 @@ This Legislative History is provided for the convenience of users of the Women�
 ||Date of First Reading|26 January 2016 (Bill No. 6/2016 published on 26 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 July 2016|
+|28.|**Act 7 of 2016—Women's Charter (Amendment) Act 2016**|
+||Date of First Reading|26 January 2016 (Bill No. 6/2016 published on 26 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 October 2016|
