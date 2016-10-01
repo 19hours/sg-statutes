@@ -10,6 +10,8 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Application](#Application)
+
 - [3 Registration in Singapore of judgments obtained in superior courts in the United Kingdom](#Registration-in-Singapore-of-judgments-obtained-in-superior-courts-in-the-United-Kingdom)
 
 - [4 Issue of certificates of judgments obtained in Singapore](#Issue-of-certificates-of-judgments-obtained-in-Singapore)
@@ -53,6 +55,12 @@ An Act to facilitate the reciprocal enforcement of judgments and awards in Singa
 “registering court”, in relation to any judgment, means the court to which application to register a judgment is made or by which a judgment has been registered.
 
 (2) Subject to Rules of Court, any of the powers conferred by this Act on any court may be exercised by a judge of the court.
+
+### Application
+
+2A\. This Act does not apply to any judgment which may be recognised or enforced in Singapore under the Choice of Court Agreements Act 2016.
+
+[Act 14 of 2016 wef 01/10/2016]
 
 ### Registration in Singapore of judgments obtained in superior courts in the United Kingdom
 
@@ -130,3 +138,7 @@ This Legislative History is provided for the convenience of users of the Recipro
 ||Date of commencement|20 November 1959|
 |5.|**1985 Revised Edition—Reciprocal Enforcement of Commonwealth Judgments Act**|
 ||Date of operation|30 March 1987|
+|6.|**Act 14 of 2016—Choice of Court Agreements Act 2016**|
+||Date of First Reading|4 April 2016 (Bill No. 14/2016 published on 4 April 2016)|
+||Date of Second and Third Readings|14 April 2016|
+||Date of commencement|1 October 2016|
