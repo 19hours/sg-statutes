@@ -28,7 +28,7 @@
 
 - [8 Delegation](#Delegation)
 
-- [9 Administration Body](#Administration-Body)
+- [9 Conduct of proceedings](#Conduct-of-proceedings)
 
 - [10 Co-operation agreements](#Co-operation-agreements)
 
@@ -150,7 +150,7 @@
 
 - [56 General penalties](#General-penalties)
 
-- [57 Public servants](#Public-servants)
+- [57 Public servants and public officers](#Public-servants-and-public-officers)
 
 - [58 Evidence in proceedings](#Evidence-in-proceedings)
 
@@ -170,11 +170,11 @@
 
 - [66 Rules of Court](#Rules-of-Court)
 
-- [67 Related and consequential amendments](#Related-and-consequential-amendments)
+- [67 Saving and transitional provisions](#Saving-and-transitional-provisions)
 
 - [68 Savings and transitional provision](#Savings-and-transitional-provision)
 
-[**FIRST SCHEDULE Constitution and proceedings of Personal Data Protection Commission**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Personal-Data-Protection-Commission)
+[**FIRST SCHEDULE Repealed**](#FIRST-SCHEDULE-Repealed)
 
 [**SECOND SCHEDULE Collection of personal data without consent**](#SECOND-SCHEDULE-Collection-of-personal-data-without-consent)
 
@@ -228,7 +228,9 @@ Date of Commencement: 2nd January 2014 Sections 43 to 48, 67(1) and the Eighth S
 
 Date of Commencement: 2nd July 2014 Parts III to VII, the Second, Third, Fourth, Fifth and Sixth Schedules
 
-An Act to govern the collection, use and disclosure of personal data by organisations, and to establish the Personal Data Protection Commission and Do Not Call Register and to provide for their administration, and for matters connected therewith, and to make related and consequential amendments to various other Acts.
+An Act to govern the collection, use and disclosure of personal data by organisations, and to establish the Do Not Call Register and to provide for its administration, and for matters connected therewith, and to make related and consequential amendments to various other Acts.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
 
@@ -244,7 +246,7 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“Administration Body” means the Administration Body appointed under section 9;
+[Deleted by Act 22 of 2016 wef 01/10/2016]
 
 “advisory committee” means an advisory committee appointed under section 7;
 
@@ -254,7 +256,13 @@ PRELIMINARY
 
 “appointed day” means the date of commencement of Parts III to VI;
 
-“authorised officer”, in relation to the exercise of any power or performance of any function or duty under any provision of this Act, means a person to whom the exercise of that power or performance of that function or duty under that provision has been delegated under section 8(2);
+“authorised officer”, in relation to the exercise of any power or performance of any function or duty under any provision of this Act, means a person to whom the exercise of that power or performance of that function or duty under that provision has been delegated under section 38 of the Info-communications Media Development Authority Act 2016;
+
+[Act 22 of 2016 wef 01/10/2016]
+
+“Authority” means the Info-communications Media Development Authority established by section 3 of the Info-communications Media Development Authority Act 2016;
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “benefit plan” means an insurance policy, a pension plan, an annuity, a provident fund plan or other similar plan;
 
@@ -262,9 +270,19 @@ PRELIMINARY
 
 “business contact information” means an individual’s name, position name or title, business telephone number, business address, business electronic mail address or business fax number and any other similar information about the individual, not provided by the individual solely for his personal purposes;
 
-“Chairman” means the Chairman of the Commission appointed under paragraph 1(1) of the First Schedule;
+[Deleted by Act 22 of 2016 wef 01/10/2016]
 
-“Commission” means the Personal Data Protection Commission established under section 5;
+“Chief Executive”, in relation to the Authority, means the Chief Executive of the Authority appointed under section 40(2) of the Info-communications Media Development Authority Act 2016, and includes any individual acting in that capacity;
+
+[Act 22 of 2016 wef 01/10/2016]
+
+“Commission” means the person designated as the Personal Data Protection Commission under section 5 to be responsible for the administration of this Act;
+
+[Act 22 of 2016 wef 01/10/2016]
+
+“Commissioner” means the Commissioner for Personal Data Protection appointed under section 8(1)(a), and includes any Deputy Commissioner for Personal Data Protection or Assistant Commissioner for Personal Data Protection appointed under section 8(1)(b);
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “credit bureau” means an organisation which —
 
@@ -311,6 +329,10 @@ PRELIMINARY
 (d) for such other similar purposes as may be prescribed by the Minister;
 
 “individual” means a natural person, whether living or deceased;
+
+“inspector” means an individual appointed as an inspector under section 8(1)(b);
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “investigation” means an investigation relating to —
 
@@ -378,7 +400,9 @@ PRELIMINARY
 
 (b) that is open to the public;
 
-“relevant body” means the Commission, the Administration Body, the Appeal Panel or any Appeal Committee;
+“relevant body” means the Commission, the Appeal Panel or any Appeal Committee;
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “tribunal” includes a judicial or quasi-judicial body or a disciplinary, an arbitral or a mediatory body.
 
@@ -429,9 +453,11 @@ AND ADMINISTRATION
 
 ### Personal Data Protection Commission
 
-5\.—(1) There shall be established a Personal Data Protection Commission consisting of not fewer than 3 but not more than 17 members appointed by the Minister.
+5\.—(1) The Info‑communications Media Development Authority is designated as the Personal Data Protection Commission.
 
-(2) The First Schedule shall have effect with respect to the Commission, its members and its proceedings.
+(2) The Personal Data Protection Commission is responsible for the administration of this Act.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Functions of Commission
 
@@ -463,45 +489,49 @@ AND ADMINISTRATION
 
 ### Delegation
 
-8\.—(1) The Commission may appoint by name or office such number of inspectors and other officers, being public officers or employees of a statutory body, as the Commission thinks fit.
+8\.—(1) The Commission may appoint, by name or office, from among public officers and the employees of the Authority —
 
-(2) The Commission may delegate the exercise of all or any of its functions, duties and powers under this Act (except the power of delegation conferred by this subsection) to any officer appointed under subsection (1), subject to such conditions or limitations as the Commission may specify.
+(a) the Commissioner for Personal Data Protection; and
+
+(b) such number of Deputy Commissioners for Personal Data Protection, Assistant Commissioners for Personal Data Protection and inspectors, as the Commission considers necessary.
+
+[Act 22 of 2016 wef 01/10/2016]
+
+(2) Where any function, duty or power of the Commission under this Act is delegated to the Commissioner under section 38 of the Info-communications Media Development Authority Act 2016 —
+
+(a) the Commissioner must perform that function or duty, or exercise that power, in his name;
+
+(b) the Commission must not perform that function or duty, or exercise that power, during the period when the delegation is in force; and
+
+(c) the Commission must, as soon as practicable after the delegation, publish a notice of the delegation in theGazette.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (3) In exercising any of the powers of enforcement under this Act, an authorised officer shall on demand produce to the person against whom he is acting the authority issued to him by the Commission.
 
-(4) Any decision of the Commission or of any person to whom any function, duty or power has been delegated by the Commission may be signified under the hand of the Chairman or any person authorised by the Chairman to sign on his behalf.
+(4) [Deleted by Act 22 of 2016 wef 01/10/2016]
 
-### Administration Body
+### Conduct of proceedings
 
-9\.—(1) The Minister may, by notification in theGazette, appoint an Administration Body.
+9\.—(1) An individual appointed under section 8(1) or an employee of the Authority, who is authorised in writing by the Chief Executive of the Authority for the purpose of this section, may conduct, with the authorisation of the Public Prosecutor, proceedings in respect of an offence under this Act.
 
-(2) The Administration Body —
+(2) A legal counsel of the Commission who is an advocate and solicitor may —
 
-(a) may advise the Minister on any matter relating to the management and administration of the Commission that the Administration Body considers appropriate or that is referred to the Administration Body by the Minister;
+(a) appear in any civil proceedings involving the performance of any function or duty, or the exercise of any power, of the Commission under any written law; and
 
-(b) may enter into agreements for the purposes of the Commission, including any co-operation agreement;
+(b) make all applications and do all acts in respect of the civil proceedings on behalf of the Commission or an authorised officer.
 
-(c) shall manage the budget for the Commission, and accounts and records of transactions and affairs relating to the Commission;
-
-(d) shall submit such reports relating to the affairs of the Commission as the Minister may require; and
-
-(e) may provide the Commission with such administrative and other support as may be required.
-
-(3) Proceedings in respect of an offence under this Act may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Administration Body who is authorised in writing in that behalf by the Chairman.
-
-(4) Notwithstanding the provisions of any written law, a legal counsel (by whatever name called) of the Administration Body who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) may —
-
-(a) appear in any civil proceedings involving the Commission in the performance of its functions or duties under any written law; and
-
-(b) make and do all acts and applications in respect of the civil proceedings on behalf of the Commission.
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Co-operation agreements
 
-10\.—(1) For the purposes of sections 9 and 59, a co-operation agreement is an agreement for the purposes of —
+10\.—(1) For the purposes of section 59, a co-operation agreement is an agreement for the purposes of —
 
 (a) facilitating co-operation between the Commission and another regulatory authority in the performance of their respective functions in so far as those functions relate to data protection; and
 
 (b) avoiding duplication of activities by the Commission and another regulatory authority, being activities involving the enforcement of data protection laws.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (2) A co-operation agreement may include provisions —
 
@@ -1100,7 +1130,9 @@ Administration
 
 ### Evidence
 
-41\. A certificate purporting to be signed by the Chairman or an authorised officer and stating that a Singapore telephone number was or was not listed in a register at a date specified in the certificate shall be admissible as evidence of its contents in any proceedings.
+41\. A certificate purporting to be signed by the Chief Executive of the Authority or an authorised officer and stating that a Singapore telephone number was or was not listed in a register at a date specified in the certificate shall be admissible as evidence of its contents in any proceedings.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Information on terminated Singapore telephone number
 
@@ -1293,9 +1325,13 @@ GENERAL
 
 (ii) information about the collection, use or disclosure of personal data;
 
-(b) obstructs or impedes the Commission or an authorised officer in the exercise of their powers or performance of their duties under this Act; or
+(b) obstructs or hinders the Commission, an inspector or an authorised officer in the performance of any function or duty, or the exercise of any power, under this Act; or
 
-(c) knowingly or recklessly makes a false statement to the Commission, or knowingly misleads or attempts to mislead the Commission, in the course of the performance of the duties or powers of the Commission under this Act.
+[Act 22 of 2016 wef 01/10/2016]
+
+(c) makes a statement, or furnishes any information or document, to the Commission, an inspector or an authorised officer under this Act, which the organisation or person knows, or ought reasonably to know, to be false or misleading in any material particular.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (4) An organisation or person that commits an offence under subsection (3)(a) is liable —
 
@@ -1373,15 +1409,25 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (3) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
-(4) The Minister may make regulations prescribing the offences which may be compounded.
+(4) The Commission may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 ### General penalties
 
 56\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
 
-### Public servants
+### Public servants and public officers
 
-57\. All members and officers of the Commission and persons authorised or appointed to exercise the powers of the Commission shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+57\.—(1) All individuals appointed under section 8(1) —
+
+(a) are deemed to be public servants for the purposes of the Penal Code (Cap. 224); and
+
+(b) are, in relation to their administration, assessment, collection or enforcement of payment of composition sums under this Act, deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to these individuals even though they are not or were not in the employment of the Government.
+
+(2) All members of the Appeal Panel, and all members of an advisory committee, are deemed to be public servants for the purposes of the Penal Code.
+
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Evidence in proceedings
 
@@ -1445,6 +1491,10 @@ that may come to his knowledge in the performance of his functions and discharge
 
 (a) a member or an officer of a relevant body;
 
+(aa) a person authorised or appointed by a relevant body to perform the relevant body’s functions or duties, or exercise the relevant body’s powers, under this Act or any other written law;
+
+[Act 22 of 2016 wef 01/10/2016]
+
 (b) a member of a committee of a relevant body or any person authorised, appointed or employed to assist the relevant body; or
 
 (c) an inspector or a person authorised, appointed or employed to assist an inspector.
@@ -1493,11 +1543,13 @@ as a result of anything done (including any statement made) or omitted to be don
 
 ### Power to make regulations
 
-65\.—(1) The Minister may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Act and for prescribing anything that may be required or authorised to be prescribed by this Act.
+65\.—(1) The Commission may, with the approval of the Minister, make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Act and for prescribing anything that may be required or authorised to be prescribed by this Act.
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
+[Act 22 of 2016 wef 01/10/2016]
 
-(a) the keeping and audit of accounts and records, and submission of reports, relating to the transactions and affairs of the Commission by the Administration Body, including the powers of the auditor;
+(2) Without prejudice to the generality of subsection (1), the Commission may, with the approval of the Minister, make regulations for or with respect to all or any of the following matters:
+
+(a) [Deleted by Act 22 of 2016 wef 01/10/2016]
 
 (b) the form, manner and procedures, relating to the making and responding to requests under section 21 or 22, including the content of responses to such requests, the period for such responses, the circumstances in which an organisation may refuse to provide a response or refuse to confirm or deny the existence of any matter and the fees that an organisation may charge in respect of such requests;
 
@@ -1523,95 +1575,43 @@ as a result of anything done (including any statement made) or omitted to be don
 
 (m) the fees to be paid in respect of applications, and services provided by or on behalf of the Commission, under this Act, including applications to confirm whether a Singapore telephone number is listed in the relevant register for the purposes of section 43(1)(a).
 
+[Act 22 of 2016 wef 01/10/2016]
+
 (3) Regulations made under this section may provide differently for different organisations, individuals, classes of organisations or classes of individuals.
 
 ### Rules of Court
 
 66\. Rules of Court may be made to provide for the practice and procedure relating to actions under section 32 and appeals under section 35, including the requirement that the plaintiff notify the Commission upon commencing any such action or appeal, and for matters related thereto.
 
-### Related and consequential amendments
+### Saving and transitional provisions
 
-67\.—(1) Part II of the Third Schedule to the Banking Act (Cap. 19) is amended by deleting item 9.
+67\.—(1) Every act done by or on behalf of the Former Commission before the appointed date remains valid and have effect as though it has been done by or on behalf of the Commission, until such time as the Commission invalidates, revokes, cancels or otherwise determines that act.
 
-(2) Section 26 of the Electronic Transactions Act (Cap. 88) is amended by inserting, immediately after subsection (1), the following subsection:
+(2) Where any thing has been started by or on behalf of the Former Commission before the appointed date, the Commission may carry on and complete that thing on or after that date.
 
-“
+(3) Any approval, authorisation, decision, direction, exemption, guideline or notice (or other document) given or made by the Former Commission under this Act before the appointed date remains valid and is deemed to have been given or made by the Commission under this Act, to the extent that it is not inconsistent with this Act as amended by the Info‑communications Media Development Authority Act 2016.
 
-(1A) Subject to subsection (2), a network service provider shall not be subject to any liability under the Personal Data Protection Act 2012 in respect of third-party material in the form of electronic records to which he merely provides access.
+(4) Any application that is made to the Former Commission under this Act and is pending on the appointed date is deemed to be an application made to the Commission under this Act, to the extent that it is not inconsistent with this Act as amended by the Info‑communications Media Development Authority Act 2016.
 
-”.
+(5) Any appeal made before the appointed date under Part VIII in respect of any direction or decision of the Former Commission is deemed to be an appeal in respect of the direction or decision of the Commission.
 
-(3) The Info-communications Development Authority of Singapore Act (Cap. 137A) is amended —
+(6) Any authorisation made by, or any certificate or other document signed by, the Chairman of the Former Commission under this Act before the appointed date remains valid and is deemed to have been made or signed by the Chief Executive of the Authority under this Act.
 
-(a) by deleting the word “and” at the end of section 6(1)(t);
+(7) For a period of 2 years after the date of commencement of any provision of section 96 of the Info‑communications Media Development Authority Act 2016, the Minister may, by regulations, prescribe such additional provisions of a saving or transitional nature consequent on the enactment of that provision, as the Minister may consider necessary or expedient.
 
-(b) by deleting the full-stop at the end of paragraph (u) of section 6(1) and substituting the word “; and”, and by inserting immediately thereafter the following paragraph:
+(8) This section does not affect the operation of section 16 of the Interpretation Act (Cap. 1).
 
-“
+(9) In this section —
 
-(v) to support the Personal Data Protection Commission in the performance of its functions and duties and exercise of its powers under the Personal Data Protection Act 2012.
+“appointed date” means the date of commencement of section 96(i) of the Info‑communications Media Development Authority Act 2016;
 
-”; and
+“Former Commission” means the Personal Data Protection Commission established by section 5(1) as in force immediately before the appointed date.
 
-(c) by inserting, immediately after paragraph 31 of the Second Schedule, the following paragraphs:
-
-“
-
-31A. To provide administrative support, including the provision of premises, office supplies and equipment and manpower and premises to the Personal Data Protection Commission in the performance of its functions under the Personal Data Protection Act 2012.
-
-31B. To perform the functions and duties and exercise the powers of the Administration Body under the Personal Data Protection Act 2012, if so appointed.
-
-”.
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Savings and transitional provision
 
 68\. The Minister may, in relation to any provision of this Act, for a period of 2 years after the date of commencement of that provision, prescribe by regulations published in theGazette, such provisions of a savings or transitional nature consequent on the enactment of that provision as he considers necessary or expedient.
-
-FIRST SCHEDULE
-
-Sections 2 and 5(2)
-
-Constitution and proceedings of Personal Data Protection Commission
-
-Appointment of Chairman and Deputy Chairman
-
-1.—(1) The Chairman and the Deputy Chairman shall be appointed by the Minister from among the members of the Commission.
-
-(2) The Deputy Chairman may, subject to such directions as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act, including the power under section 8(4).
-
-Temporary Chairman or Deputy Chairman
-
-2\. The Minister may appoint any member to be a temporary Chairman or temporary Deputy Chairman during the temporary incapacity from illness or otherwise or during the temporary absence from Singapore of the Chairman or the Deputy Chairman, as the case may be.
-
-Revocation of appointment
-
-3\. The Minister may revoke the appointment of the Chairman, the Deputy Chairman or any member without assigning any reason.
-
-Tenure of office of appointed member
-
-4\. The Chairman, the Deputy Chairman or a member, unless his appointment is revoked by the Minister or unless he resigns during his term of office, shall hold office for such period as the Minister may determine and shall be eligible for re‑appointment.
-
-Filling of vacancies
-
-5\. If a member resigns, dies or has his appointment revoked before the expiry of the term for which he has been appointed, the Minister may appoint a person to fill the vacancy for the remainder of the term for which his predecessor was appointed.
-
-Meetings of Commission
-
-6.—(1) The Commission shall meet for the despatch of business at such times and places as the Chairman may from time to time appoint.
-
-(2) At every meeting of the Commission, one half of the number of members shall form a quorum.
-
-(3) A decision at a meeting of the Commission shall be adopted by a simple majority of the members present and voting except that, in the case of an equality of votes, the Chairman or member presiding shall have a casting vote in addition to his original vote.
-
-(4) The Chairman or, in his absence, the Deputy Chairman shall preside at meetings of the Commission.
-
-(5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at that meeting.
-
-(6) Subject to the provisions of this Act, the Commission may regulate its own procedures generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
-
-Commission may act notwithstanding vacancy
-
-7\. The Commission may act notwithstanding any vacancy in its membership.
 
 SECOND SCHEDULE
 
@@ -2117,9 +2117,7 @@ a subscription, membership, account, loan or comparable ongoing commercial relat
 
 (g) any message sent to an organisation other than an individual acting in a personal or domestic capacity, for any purpose of the receiving organisation.
 
-2. In this Schedule, “individual” does not include an individual proprietor registered under the Business Names Registration Act 2014.
-
-[Act 29 of 2014 wef 03/01/2016]
+2. [Deleted by Act 22 of 2016 wef 01/10/2016]
 
 NINTH SCHEDULE
 
