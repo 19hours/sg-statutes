@@ -2343,7 +2343,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) This section shall apply to a marriage entered into whether in Singapore or outside Singapore.
 
-(4) In any proceedings for an offence under subsection (1) or (2), it shall be a defence for the person charged with the offence to prove that, although one purpose of the marriage was to assist a party to the marriage to obtain an immigration advantage, the defendant believed on reasonable grounds that the marriage would result in a genuine marital relationship.
+(4) In any proceedings for an offence under subsection (1) or (2), it shall be a defence for the person charged with the offence to prove that, although one purpose of the marriage was to assist a party to the marriage to obtain an immigration advantage, the defendant believed on reasonable grounds, when contracting or entering into the marriage, that the marriage would result in a genuine marital relationship.
+
+[Act 7 of 2016 wef 01/10/2016]
 
 (5) For the purposes of subsection (4), what constitutes a genuine marital relationship is a question of fact and the court shall have regard to all the circumstances of the case in determining the question.
 
@@ -2556,3 +2558,7 @@ This Legislative History is provided for the convenience of users of the Immigra
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|32.|**Act 7 of 2016—Women's Charter (Amendment) Act 2016**|
+||Date of First Reading|26 January 2016 (Bill No. 6/2016 published on 26 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 October 2016|
