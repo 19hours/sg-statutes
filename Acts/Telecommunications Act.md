@@ -174,6 +174,8 @@
 
 - [59 Power to require information, etc.](#Power-to-require-information-etc)
 
+- [59A Power to examine, etc.](#Power-to-examine-etc)
+
 - [60 Powers of arrest and search in respect of seizable offences](#Powers-of-arrest-and-search-in-respect-of-seizable-offences)
 
 - [61 Powers of search and arrest in respect of offences under section 33 or 44](#Powers-of-search-and-arrest-in-respect-of-offences-under-section-33-or-44)
@@ -244,13 +246,17 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Authority” means the Info-communications Development Authority of Singapore established under the Info-communications Development Authority of Singapore Act (Cap. 137A);
+“Authority” means the Info‑communications Media Development Authority established by section 3 of the Info‑communications Media Development Authority Act 2016;
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “broadcasting apparatus” and “broadcasting service” have the same meanings as in the Broadcasting Act (Cap. 28);
 
 [10/2005 wef 16/02/2005]
 
-“Chief Executive” means the Chief Executive of the Authority and includes any temporary Chief Executive of the Authority appointed under section 10 of the Info-communications Development Authority of Singapore Act;
+“Chief Executive”, in relation to the Authority, means the Chief Executive of the Authority appointed under section 40(2) of the Info‑communications Media Development Authority Act 2016, and includes any individual acting in that capacity;
+
+[Act 22 of 2016 wef 01/10/2016]
 
 “code of practice” means a code of practice issued or approved under section 19 or 26;
 
@@ -280,9 +286,7 @@ PRELIMINARY
 
 “installation or plant used for telecommunications” includes all buildings, lands, structures, machinery, equipment, cables, poles and lines used or intended for use in connection with telecommunications;
 
-“Media Development Authority of Singapore” means the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act (Cap. 172);
-
-[Act 19 of 2011 wef 01/02/2012]
+[Deleted by Act 22 of 2016 wef 01/10/2016]
 
 “message” means any sign, signal, writing, image, sound, intelligence or information of any nature transmitted by telecommunications;
 
@@ -886,13 +890,15 @@ and pay compensation to any person adversely affected for any damage that may be
 
 [10/2005 wef 16/02/2005]
 
-(1A) Where the Authority, after consultation with the Media Development Authority of Singapore, considers it necessary that any broadcasting service, the operation of which requires a telecommunication system, should be provided to any land or building, whether completed or not, or that the quality of any such broadcasting service provided to any land or building should be enhanced, the Authority may by direction —
+(1A) Where the Authority considers it necessary that any broadcasting service, the operation of which requires a telecommunication system, should be provided to any land or building, whether completed or not, or that the quality of any such broadcasting service provided to any land or building should be enhanced, the Authority may by direction —
 
 (a) require the developer or owner of the land or building to provide at his expense, within such period as may be specified in the direction, such space or facility within or on the land or building, and access thereto, as the Authority may specify in its direction; and
 
 (b) require any telecommunication licensee to install, within such period as may be specified in the direction, such installation, plant or system as the Authority considers necessary for the provision, or the enhancement of quality, of the broadcasting service to the land or building.
 
 [Act 19 of 2011 wef 01/02/2012]
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (2) Where a telecommunication licensee is using any space or facility provided by the developer or owner of any land or building pursuant to any direction under subsection (1) or (1A) or any code of practice issued by the Authority, and the licensee intends to use that space or facility to provide any telecommunication service or broadcasting service or to enhance the quality of any telecommunication service or broadcasting service provided to any other land or building, the licensee shall notify the developer or owner of the licensee’s intention.
 
@@ -1024,7 +1030,7 @@ with respect to all or any of the following:
 
 (d) in the public interest.
 
-(1A) The Authority, after consultation with the Media Development Authority of Singapore, may give directions to be observed by telecommunication licensees —
+(1A) The Authority may give directions to be observed by telecommunication licensees —
 
 (a) to ensure the reliability of the provision of any broadcasting service, the operation of which requires a telecommunication system, to the public;
 
@@ -1037,6 +1043,8 @@ with respect to all or any of the following:
 (e) in relation to the provision of any broadcasting service, the operation of which requires a telecommunication system, in the public interest.
 
 [Act 19 of 2011 wef 01/02/2012]
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (2) A direction under subsection (1) or (1A) —
 
@@ -2300,6 +2308,44 @@ shall be guilty of an offence.
 
 [10/2005 wef 16/02/2005]
 
+### Power to examine, etc.
+
+59A\.—(1) An officer of the Authority who is authorised by the Authority for the purpose of this section (called in this section the authorised officer) may, for the purposes of investigating an offence under this Act, do all or any of the following:
+
+(a) require any person whom the authorised officer reasonably believes to have committed that offence to furnish evidence of that person’s identity;
+
+(b) require, by written notice, any person within the limits of Singapore, who appears to be acquainted with the facts or circumstances of the matter to attend before the authorised officer;
+
+(c) examine orally any person who appears to be acquainted with the facts or circumstances of the matter —
+
+(i) whether before or after that person or anyone else is charged with an offence in connection with the matter; or
+
+(ii) whether or not that person is to be called as a witness in any inquiry, trial or other proceeding in connection with the matter.
+
+(2) A person examined under subsection (1)(c) is bound to state truly what the person knows of the facts and circumstances of the matter, except that the person need not say anything that might expose the person to a criminal charge or punishment.
+
+(3) A statement made by a person examined under subsection (1)(c) must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted to the person in a language that the person understands; and
+
+(d) after correction (if necessary), be signed by the person.
+
+(4) Any person who —
+
+(a) fails, without reasonable excuse, to furnish the information required of that person under subsection (1)(a);
+
+(b) fails, without reasonable excuse, to comply with a notice issued to that person under subsection (1)(b); or
+
+(c) furnishes any information or makes any statement under this section which the person knows to be false or misleading in any material particular,
+
+shall be guilty of an offence.
+
+[Act 22 of 2016 wef 01/10/2016]
+
 ### Powers of arrest and search in respect of seizable offences
 
 60\.—(1) The Chief Executive or any employee of the Authority deputed by him to act under this section or any police officer may arrest without warrant —
@@ -2340,7 +2386,7 @@ and may search any person so arrested, except that no female shall be searched e
 
 (2) The Authority may, with the approval of the Minister, make regulations prescribing the offences which may be compounded.
 
-(3) All sums collected under this section shall be paid to the Authority.
+(3) [Deleted by Act 22 of 2016 wef 01/10/2016]
 
 ### General penalties
 
@@ -2580,7 +2626,9 @@ the appeal to the Minister shall be deemed to be withdrawn.
 
 (2) In deciding whether it is in the public interest to issue the separation order, the Minister shall have regard to whether the issue of the separation order is necessary or desirable for one or more of the following purposes:
 
-(a) to promote and maintain fair and efficient market conduct and effective competition between persons engaged in commercial activities connected with telecommunication technology in Singapore;
+(a) to promote and maintain fair and efficient market conduct and effective competition between persons engaged in commercial activities connected with telecommunication systems and services in Singapore;
+
+[Act 22 of 2016 wef 01/10/2016]
 
 (b) to promote the efficiency and international competitiveness of the telecommunication industry in Singapore;
 
@@ -2876,6 +2924,11 @@ This Legislative History is provided for the convenience of users of the Telecom
 ||Date of First Reading|20 October 2011 (Bill No. 20/2011 published on 20 October 2011)|
 ||Date of Second and Third Readings|21 November 2011|
 ||Date of commencement|1 February 2012|
+|5.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
 ## COMPARATIVE TABLE
 
 Telecommunications Act
