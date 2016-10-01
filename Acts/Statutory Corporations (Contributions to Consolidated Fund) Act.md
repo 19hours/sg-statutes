@@ -182,7 +182,9 @@ Energy Market Authority of Singapore Act (Chapter 92B)
 
 14.
 
-[Deleted by S 148/2005 wef 25/03/2005]
+Government Technology Agency
+
+Government Technology Agency Act 2016
 
 15.
 
@@ -198,9 +200,9 @@ Housing and Development Act (Chapter 129)
 
 17.
 
-Info-communications Development Authority of Singapore
+Info-communications Media Development Authority
 
-Info-communications Development Authority of Singapore Act (Chapter 137A)
+Info-communications Media Development Authority Act 2016
 
 18.
 
@@ -246,9 +248,7 @@ Maritime and Port Authority of Singapore Act (Chapter 170A)
 
 24.
 
-Media Development Authority of Singapore
-
-Media Development Authority of Singapore Act (Chapter 172)
+[Deleted by Act 22 of 2016 wef 01/10/2016]
 
 25.
 
@@ -382,6 +382,10 @@ Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
 
+[Act 23 of 2016 wef 01/10/2016]
+
+[Act 22 of 2016 wef 01/10/2016]
+
 [S 476/2014 wef 16/07/2014]
 
 [7/96; 41/99; 3/2004; S 414/93; S 344/95; S 405/96; S 470/97; S 518/97; S 366/98; S 588/2000; S 220/2001; S 312/2001; S 143/2003; S 480/2003; S 410/2004; S 148/2005; S 195/2006; 22/2007; S 314/2008; 48/2007; 17/2009; S 590/2009]
@@ -498,3 +502,12 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of commencement|22 October 2010|
 |31.|**G. N. No. S 476/2014—Statutory Corporations (Contributions to Consolidated Fund) Act (Amendment of Schedule) Order 2014**|
 ||Date of commencement|16 July 2014|
+|32.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
+|33.|**Act 23 of 2016—Government Technology Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 22/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 October 2016|
