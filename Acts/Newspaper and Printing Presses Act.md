@@ -1094,15 +1094,13 @@ may, with such assistance and by such force as may be necessary by night or day,
 
 [20/2002]
 
-### \*Payment of fees, etc.
+### Payment of fees, etc.
 
-\*Section 43 came into operation on 1st January 2003 [S 640/2002].
+43\.—(1) Subject to subsection (2), all fees and other moneys collected under this Act are to be paid to the Info-communications Media Development Authority established by section 3 of the Info-communications Media Development Authority Act 2016.
 
-43\. All fees, composition fines and other moneys collected under this Act shall be paid to the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002 (Act 34 of 2002).
+(2) All sums collected under section 42 for the composition of an offence under this Act are to be paid into the Consolidated Fund.
 
-[33B
-
-[34/2002]
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Exemption
 
@@ -1229,6 +1227,11 @@ This Legislative History is provided for the convenience of users of the Newspap
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
+|18.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
 ## COMPARATIVE TABLE
 
 Newspaper and Printing Presses Act
