@@ -494,9 +494,9 @@ the publication or equipment shall be returned to the person from whom they were
 
 [9/98]
 
-(5) All fees collected under this section shall be paid to the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002.
+(5) All fees collected under this section are to be paid to the Info‑communications Media Development Authority established by section 3 of the Info‑communications Media Development Authority Act 2016.
 
-[34/2002 wef 01/01/2003]
+[Act 22 of 2016 wef 01/10/2016]
 
 ## LEGISLATIVE HISTORY
 
@@ -558,3 +558,8 @@ This Legislative History is provided for the convenience of users of the Undesir
 |||(Bill No. 22/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|16 July 2007|
 ||Date of commencement|24 August 2007|
+|12.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
