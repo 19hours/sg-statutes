@@ -118,6 +118,10 @@ An Act relating to the possession, importation, making, distribution and exhibit
 
 “approved warehouse” means any warehouse approved by the Board for the purposes of sections 12 and 13;
 
+“Authority” means the Info-communications Media Development Authority established by section 3 of the Info-communications Media Development Authority Act 2016;
+
+[Act 22 of 2016 wef 01/10/2016]
+
 “Board” means the Board of Film Censors established under this Act;
 
 “certificate” means a certificate issued under section 15(3);
@@ -732,9 +736,9 @@ knowing or having reasonable cause to believe the film to be a party political f
 
 ### Payment of fees, etc.
 
-39A\. All fees and other moneys collected under this Act or any subsidiary legislation made thereunder shall be paid to the Media Development Authority of Singapore established under the Media Development Authority of Singapore Act 2002.
+39A\. Except as otherwise provided in this Act or any other Act, all fees and other moneys collected under this Act or any subsidiary legislation made under this Act are to be paid to the Authority.
 
-[34/2002 wef 01/01/2003]
+[Act 22 of 2016 wef 01/10/2016]
 
 ### Exemptions
 
@@ -813,3 +817,8 @@ This Legislative History is provided for the convenience of users of the Films A
 |||(Bill No. 5/2009 published on 22 January 2009)|
 ||Date of Second and Third Readings|23 March 2009|
 ||Date of commencement|26 May 2009|
+|8.|**Act 22 of 2016—Info-communications Media Development Authority Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 21/2016 published on 11 July 2016)|
+||Date of Second Reading|16 August 2016|
+||Date of Third Reading|17 September 2016|
+||Date of commencement|1 October 2016|
