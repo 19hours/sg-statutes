@@ -172,7 +172,7 @@
 
 - [67 Saving and transitional provisions](#Saving-and-transitional-provisions)
 
-- [68 Savings and transitional provision](#Savings-and-transitional-provision)
+- [68 Dissolution](#Dissolution)
 
 [**FIRST SCHEDULE Repealed**](#FIRST-SCHEDULE-Repealed)
 
@@ -1609,9 +1609,13 @@ as a result of anything done (including any statement made) or omitted to be don
 
 [Act 22 of 2016 wef 01/10/2016]
 
-### Savings and transitional provision
+### Dissolution
 
-68\. The Minister may, in relation to any provision of this Act, for a period of 2 years after the date of commencement of that provision, prescribe by regulations published in theGazette, such provisions of a savings or transitional nature consequent on the enactment of that provision as he considers necessary or expedient.
+68\.—(1) The Former Commission is dissolved.
+
+(2) In this section, “Former Commission” has the same meaning as in section 67(9).
+
+[Act 22 of 2016 wef 02/10/2016]
 
 SECOND SCHEDULE
 
