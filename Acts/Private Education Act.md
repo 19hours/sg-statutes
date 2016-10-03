@@ -130,11 +130,11 @@
 
 [**Division 6  Administrative penalties**](#Division-6--Administrative-penalties)
 
-- [48 General measures Council may impose on errant private education institutions](#General-measures-Council-may-impose-on-errant-private-education-institutions)
+- [48 General measures Agency may impose on errant private education institutions](#General-measures-Agency-may-impose-on-errant-private-education-institutions)
 
 [**Part IV PROVISION AND CONTROL OF OTHER SERVICES**](#Part-IV)
 
-- [49 Establishment or maintenance of accreditation or certification schemes by Council](#Establishment-or-maintenance-of-accreditation-or-certification-schemes-by-Council)
+- [49 Establishment or maintenance of accreditation or certification schemes by Agency](#Establishment-or-maintenance-of-accreditation-or-certification-schemes-by-Agency)
 
 - [50 Restrictions on certain other services](#Restrictions-on-certain-other-services)
 
@@ -166,11 +166,11 @@
 
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
-- [62 Power of Council to issue requisition for particulars or information](#Power-of-Council-to-issue-requisition-for-particulars-or-information)
+- [62 Power of Agency to issue requisition for particulars or information](#Power-of-Agency-to-issue-requisition-for-particulars-or-information)
 
 - [63 Registers and publication of information](#Registers-and-publication-of-information)
 
-- [64 Power of Council in relation to dispute resolution schemes](#Power-of-Council-in-relation-to-dispute-resolution-schemes)
+- [64 Power of Agency in relation to dispute resolution schemes](#Power-of-Agency-in-relation-to-dispute-resolution-schemes)
 
 - [65 Jurisdiction of court](#Jurisdiction-of-court)
 
@@ -192,9 +192,9 @@
 
 [**FIRST SCHEDULE Definition of private education**](#FIRST-SCHEDULE-Definition-of-private-education)
 
-[**SECOND SCHEDULE Constitution and proceedings of Council**](#SECOND-SCHEDULE-Constitution-and-proceedings-of-Council)
+[**SECOND SCHEDULE Repealed**](#SECOND-SCHEDULE-Repealed)
 
-[**THIRD SCHEDULE Financial provisions**](#THIRD-SCHEDULE-Financial-provisions)
+[**THIRD SCHEDULE Repealed**](#THIRD-SCHEDULE-Repealed)
 
 [**Legislative History**](#Legislative-History)
 
@@ -238,21 +238,27 @@ PRELIMINARY
 
 (d) in any other form or manner whatsoever;
 
+“Agency” means the SkillsFuture Singapore Agency established by section 3 of the SkillsFuture Singapore Agency Act 2016;
+
+[Act 24 of 2016 wef 03/10/2016]
+
 “Appeals Board” means the Appeals Board constituted under section 51;
 
 “award”, in relation to a private education institution, includes the conferment of any degree, diploma or certificate by the private education institution, whether on its own behalf or otherwise;
 
 “body corporate” includes a limited liability partnership;
 
-“Chairman” means the Chairman of the Council and includes any temporary Chairman of the Council;
+[Deleted by Act 24 of 2016 wef 03/10/2016]
 
-“Chief Executive” means the Chief Executive of the Council appointed under section 10 and includes any person acting in that capacity;
+“Chief Executive” means the Chief Executive of the Agency appointed under section 38 of the SkillsFuture Singapore Agency Act 2016 and includes any person acting in that capacity;
 
-“committee member” means a member of any committee appointed by the Council under section 9(1);
+[Act 24 of 2016 wef 03/10/2016]
+
+[Deleted by Act 24 of 2016 wef 03/10/2016]
 
 “company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“Council” means the Council for Private Education established under section 3;
+[Deleted by Act 24 of 2016 wef 03/10/2016]
 
 “course”, in relation to a private education institution, means a course of study or training programme offered or provided by the private education institution;
 
@@ -272,7 +278,9 @@ for a course that the private education institution is providing or offering to 
 
 “examination service”, in relation to any private education institution, means any test, examination or other method of assessing the level of proficiency, aptitude, skill, knowledge or understanding of a person attending or enrolled in any course provided by the private education institution;
 
-“inspector” means an inspector appointed by the Council under section 56(1);
+“inspector” means an inspector appointed by the Agency under section 56(1);
+
+[Act 24 of 2016 wef 03/10/2016]
 
 “limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
 
@@ -286,7 +294,7 @@ for a course that the private education institution is providing or offering to 
 
 (d) in relation to a private education institution that is a sole-proprietorship, means the sole-proprietor;
 
-“member” means a member of the Council and includes any temporary member of the Council;
+[Deleted by Act 24 of 2016 wef 03/10/2016]
 
 “partner” includes any person purporting to act as a partner;
 
@@ -300,13 +308,15 @@ for a course that the private education institution is providing or offering to 
 
 “private education institution” means —
 
-(a) any person that offers to provide or provides private education, whether or not the person offers to provide or provides the private education —
+(a) any person that offers to provide or provides private education whether in Singapore or elsewhere, whether or not the person offers to provide or provides the private education —
 
 (i) for profit;
 
 (ii) together with other education; or
 
 (iii) by itself or in association or collaboration with or by affiliation with any other person; and
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (b) such school registered under the Education Act (Cap. 87) which receives a grant-in-aid or subvention extended by the Government to aided schools as is specified by the Minister in a notification published in theGazette,
 
@@ -698,45 +708,65 @@ unless the person is a registered private education institution.
 
 (3) Any person who knowingly assists in the provision of private education by an unregistered private education institution shall be guilty of an offence.
 
-(4) The Council may take such measures as it thinks necessary to secure the closure of any unregistered private education institution, including but not limited to —
+(4) The Agency may take such measures as it thinks necessary to secure the closure of any unregistered private education institution, including but not limited to —
 
 (a) the use of such force or assistance as may be necessary to remove therefrom any person who is in the premises in the possession or control of the unregistered private education institution; and
 
 (b) the sealing of all or any of the entrances to or exits from such premises.
 
-(5) The expenses reasonably incurred by the Council in the exercise of its powers under subsection (4) and such other reasonable expenses as may be incidental thereto shall be recoverable by the Council as a civil debt from the manager or managers (as the case may be) of the unregistered private education institution; and every manager of such an unregistered private education institution shall be jointly and severally liable to the Council for those expenses.
+[Act 24 of 2016 wef 03/10/2016]
 
-(6) Without prejudice to subsection (4) or (5) or any other power vested in the Council under this Act, the Council may, by written direction addressed to the managers of an unregistered private education institution, direct that the unregistered private education institution refund each student thereof, within such time as may be specified in the direction, the whole of the course money the unregistered private education institution received in respect of the student.
+(5) The expenses reasonably incurred by the Agency in the exercise of its powers under subsection (4) and such other reasonable expenses as may be incidental thereto shall be recoverable by the Agency as a civil debt from the manager or managers (as the case may be) of the unregistered private education institution; and every manager of such an unregistered private education institution shall be jointly and severally liable to the Agency for those expenses.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(6) Without prejudice to subsection (4) or (5) or any other power vested in the Agency under this Act, the Agency may, by written direction addressed to the managers of an unregistered private education institution, direct that the unregistered private education institution refund each student thereof, within such time as may be specified in the direction, the whole of the course money the unregistered private education institution received in respect of the student.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (7) Subsection (6) shall apply notwithstanding anything contained in the agreement or contract between the unregistered private education institution and the students concerned.
 
-(8) Where any written direction issued by the Council under subsection (6) is not complied with, the unregistered private education institution and every manager thereof to whom the direction is addressed shall each be guilty of an offence.
+(8) Where any written direction issued by the Agency under subsection (6) is not complied with, the unregistered private education institution and every manager thereof to whom the direction is addressed shall each be guilty of an offence.
 
-(9) Subject to subsection (7), it shall be a defence for any person charged with an offence under subsection (8) to prove that he had a reasonable excuse for failing to comply with the written direction of the Council under subsection (6).
+[Act 24 of 2016 wef 03/10/2016]
 
-(10) Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, course money or remuneration for any private education provided in Singapore unless the person providing the private education is registered under this Act to provide the private education and the person did so in accordance with the permission of the Council under section 43 required for the course.
+(9) Subject to subsection (7), it shall be a defence for any person charged with an offence under subsection (8) to prove that he had a reasonable excuse for failing to comply with the written direction of the Agency under subsection (6).
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(10) Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, course money or remuneration for any private education provided in Singapore unless the person providing the private education is registered under this Act to provide the private education and the person did so in accordance with the permission of the Agency under section 43 required for the course.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Application for grant or renewal of registration
 
 35\.—(1) Every application for the grant or renewal of the registration of a private education institution —
 
-(a) shall be made by a manager of the private education institution (referred to in this section as the applicant) to the Council in such form and manner, and within such time, as may be prescribed;
+(a) shall be made by a manager of the private education institution (referred to in this section as the applicant) to the Agency in such form and manner, and within such time, as may be prescribed;
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (b) shall be accompanied by the prescribed fee; and
 
-(c) may be accompanied by an application to the Council for the waiver of any of the requirements imposed under this Act for the registration of private education institutions or the renewal thereof.
+(c) may be accompanied by an application to the Agency for the waiver of any of the requirements imposed under this Act for the registration of private education institutions or the renewal thereof.
 
-(2) The Council may require the applicant making an application under subsection (1) to furnish it with such information or documents as the Council considers necessary in relation to the application.
+[Act 24 of 2016 wef 03/10/2016]
 
-(3) Where the applicant fails to furnish the Council with any information or document required under subsection (2) in relation to his application within the time specified by the Council —
+(2) The Agency may require the applicant making an application under subsection (1) to furnish it with such information or documents as the Agency considers necessary in relation to the application.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(3) Where the applicant fails to furnish the Agency with any information or document required under subsection (2) in relation to his application within the time specified by the Agency —
 
 (a) the application shall be deemed to have been withdrawn; and
 
 (b) where the application is accompanied by an application for the waiver of any of the requirements imposed under this Act for the registration of private education institutions or the renewal thereof, the application for waiver shall also be deemed to have been withdrawn.
 
+[Act 24 of 2016 wef 03/10/2016]
+
 ### Grant or renewal of registration
 
-36\.—(1) The Council may, upon receiving an application made under section 35(1) for the grant or renewal of the registration of a private education institution, and after such inquiry as it may think necessary —
+36\.—(1) The Agency may, upon receiving an application made under section 35(1) for the grant or renewal of the registration of a private education institution, and after such inquiry as it may think necessary —
 
 (a) if the application is accompanied by an application for the waiver of any of the requirements imposed under this Act for the registration or renewal of registration of private education institutions —
 
@@ -750,21 +780,29 @@ unless the person is a registered private education institution.
 
 (ii) refuse to grant or renew (as the case may be) the registration of the private education institution because of section 37.
 
-(2) Every registration of a private education institution, and every renewal thereof, shall be for such period as may be specified by the Council.
+[Act 24 of 2016 wef 03/10/2016]
 
-(3) Without prejudice to the generality of subsection (1)(a)(i) and (b)(i), the terms and conditions subject to which the Council registers a private education institution may provide that except with the prior written approval of the Council —
+(2) Every registration of a private education institution, and every renewal thereof, shall be for such period as may be specified by the Agency.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(3) Without prejudice to the generality of subsection (1)(a)(i) and (b)(i), the terms and conditions subject to which the Agency registers a private education institution may provide that except with the prior written approval of the Agency —
 
 (a) the private education institution shall not enter into a contractual agreement or other arrangement (whether or not in partnership) with one or more other parties to undertake any activity that is not related to private education, so as to obtain individual benefits for the parties, whether in the form of a share of the output of the arrangement or joint or collective profits for all the parties; or
 
 (b) the private education institution shall only provide private education and other activities that are related to the provision of private education.
 
-(4) The Council may at any time add to, vary or revoke any term or condition of the registration of a private education institution without compensation.
+[Act 24 of 2016 wef 03/10/2016]
+
+(4) The Agency may at any time add to, vary or revoke any term or condition of the registration of a private education institution without compensation.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (5) For the avoidance of doubt, nothing in subsection (3) shall authorise the imposition of any term or condition restricting or prohibiting any particular member of a registered society from entering into any contractual agreement or other arrangement referred to in subsection (3)(a) or from carrying on any activity that is not related to the provision of private education.
 
 ### Grounds for refusal to grant or renew registration
 
-37\.—(1) The Council may refuse to grant or renew the registration of a private education institution if —
+37\.—(1) The Agency may refuse to grant or renew the registration of a private education institution if —
 
 (a) the private education institution is not a company or a registered society;
 
@@ -796,9 +834,9 @@ unless the person is a registered private education institution.
 
 (f) any manager or proposed manager of the private education institution is otherwise not a fit and proper person to carry on or manage the private education institution;
 
-(g) the Council is of the view that the registration or renewal of registration (as the case may be) of the private education institution is not in the interests of the public, or the students, intending students or prospective students of the private education institution; or
+(g) the Agency is of the view that the registration or renewal of registration (as the case may be) of the private education institution is not in the interests of the public, or the students, intending students or prospective students of the private education institution; or
 
-(h) the Council is satisfied that the name of the private education institution, or the name of any premises or school of the private education institution (or any department or faculty thereof), or the name of any education offered to be provided or provided by the private education institution —
+(h) the Agency is satisfied that the name of the private education institution, or the name of any premises or school of the private education institution (or any department or faculty thereof), or the name of any education offered to be provided or provided by the private education institution —
 
 (i) is likely to mislead members of the public as to the true character or purpose of the private education institution, premises, school or department or faculty thereof or education, as the case may be;
 
@@ -806,21 +844,29 @@ unless the person is a registered private education institution.
 
 (iii) is undesirable or offensive; or
 
-(iv) is a name of a kind that the Minister has directed the Council, by notification in theGazette, not to accept for registration or is proscribed.
+(iv) is a name of a kind that the Minister has directed the Agency, by notification in theGazette, not to accept for registration or is proscribed.
 
-(2) The Council shall, before refusing to grant or renew the registration of any private education institution under subsection (1), give the private education institution and the managers thereof notice in writing of its intention to do so.
+[Act 24 of 2016 wef 03/10/2016]
 
-(3) Upon receipt of the notice of the Council under subsection (2), the private education institution concerned or any manager thereof may, within 14 days after the date of the notice, show cause to the Council as to why the registration of the private education institution should be granted or renewed.
+(2) The Agency shall, before refusing to grant or renew the registration of any private education institution under subsection (1), give the private education institution and the managers thereof notice in writing of its intention to do so.
 
-(4) Where, after the private education institution or any manager thereof has shown cause under subsection (3) or the time to do so has expired, the Council decides not to grant or renew the registration of the private education institution —
+[Act 24 of 2016 wef 03/10/2016]
 
-(a) the Council shall notify the private education institution and the managers thereof of its decision in writing; and
+(3) Upon receipt of the notice of the Agency under subsection (2), the private education institution concerned or any manager thereof may, within 14 days after the date of the notice, show cause to the Agency as to why the registration of the private education institution should be granted or renewed.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(4) Where, after the private education institution or any manager thereof has shown cause under subsection (3) or the time to do so has expired, the Agency decides not to grant or renew the registration of the private education institution —
+
+(a) the Agency shall notify the private education institution and the managers thereof of its decision in writing; and
 
 (b) in the case where the registration of the private education institution is not renewed, the registration shall lapse accordingly.
 
+[Act 24 of 2016 wef 03/10/2016]
+
 ### Suspension or cancellation of registration
 
-38\.—(1) The Council may, without compensation, suspend (for a period not exceeding 6 months) or cancel the registration of any private education institution, or reduce the period of registration of the private education institution, if —
+38\.—(1) The Agency may, without compensation, suspend (for a period not exceeding 6 months) or cancel the registration of any private education institution, or reduce the period of registration of the private education institution, if —
 
 (a) the private education institution ceases to be a company or a registered society;
 
@@ -840,7 +886,7 @@ unless the person is a registered private education institution.
 
 (ii) are otherwise not fit and proper persons to teach in the private education institution;
 
-(d) the Council becomes aware of a circumstance that would have permitted the Council to refuse to grant or renew the registration of the private education institution because of section 37, had the Council been aware of the circumstances immediately before granting or renewing the registration, as the case may be;
+(d) the Agency becomes aware of a circumstance that would have permitted the Agency to refuse to grant or renew the registration of the private education institution because of section 37, had the Agency been aware of the circumstances immediately before granting or renewing the registration, as the case may be;
 
 (e) there is reasonable cause to believe that the grant or renewal of registration has been obtained by means of any false statement or any statement that is false in a material particular;
 
@@ -854,51 +900,73 @@ unless the person is a registered private education institution.
 
 (g) any manager of the private education institution is not a fit and proper person to carry on or manage the private education institution;
 
-(h) the Council is of the view that the continued registration of the private education institution is not in the interests of the public, or the students, intending students or prospective students of the private education institution;
+(h) the Agency is of the view that the continued registration of the private education institution is not in the interests of the public, or the students, intending students or prospective students of the private education institution;
 
-(i) the private education institution fails to comply with a direction of the Council issued under section 40;
+(i) the private education institution fails to comply with a direction of the Agency issued under section 40;
 
-(j) the Council is satisfied that the private education institution has ceased to provide private education;
+(j) the Agency is satisfied that the private education institution has ceased to provide private education;
 
 (k) the private education institution is wound up or otherwise dissolved;
 
 (l) any term or condition of registration of the private education institution has been breached; or
 
-(m) it appears to the Council that the private education institution is being administered in a manner that is —
+(m) it appears to the Agency that the private education institution is being administered in a manner that is —
 
 (i) contrary to the interests of the public; or
 
 (ii) detrimental or likely to be detrimental to its students, intending students or prospective students.
 
-(2) The Council shall, before suspending or cancelling the registration of any private education institution or reducing the period of registration of the private education institution under subsection (1), give the private education institution notice in writing of its intention to do so.
+[Act 24 of 2016 wef 03/10/2016]
 
-(3) Upon receipt of the notice of the Council under subsection (2), the private education institution concerned or any manager thereof may, within a period of 14 days after the date of the notice, show cause to the Council as to why the registration of the private education institution should not be suspended or cancelled, or the period of its registration should not be reduced (as the case may be).
+(2) The Agency shall, before suspending or cancelling the registration of any private education institution or reducing the period of registration of the private education institution under subsection (1), give the private education institution notice in writing of its intention to do so.
 
-(4) The Council shall, after the private education institution or any manager thereof has shown cause under subsection (3) or the time to do so has expired, notify the private education institution of its decision in writing.
+[Act 24 of 2016 wef 03/10/2016]
 
-(5) Subject to section 53, any decision by the Council under subsection (1) to suspend or cancel the registration of a private education institution, or to reduce the period of such registration, shall not take effect until the expiration of 14 days after the Council has served the notice of the decision on the private education institution concerned.
+(3) Upon receipt of the notice of the Agency under subsection (2), the private education institution concerned or any manager thereof may, within a period of 14 days after the date of the notice, show cause to the Agency as to why the registration of the private education institution should not be suspended or cancelled, or the period of its registration should not be reduced (as the case may be).
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(4) The Agency shall, after the private education institution or any manager thereof has shown cause under subsection (3) or the time to do so has expired, notify the private education institution of its decision in writing.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(5) Subject to section 53, any decision by the Agency under subsection (1) to suspend or cancel the registration of a private education institution, or to reduce the period of such registration, shall not take effect until the expiration of 14 days after the Agency has served the notice of the decision on the private education institution concerned.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Approval of change of name
 
-39\.—(1) Every registered private education institution shall obtain the prior approval of the Council before changing its name, or the name of any premises or school (or any department or faculty thereof) of, or any education provided by, the private education institution to a new name.
+39\.—(1) Every registered private education institution shall obtain the prior approval of the Agency before changing its name, or the name of any premises or school (or any department or faculty thereof) of, or any education provided by, the private education institution to a new name.
 
-(2) For the purposes of subsection (1), a manager of the registered private education institution which intends to effect a change of name under subsection (1) shall submit to the Council an application for approval of the new name in such form and manner as may be prescribed, and that application shall be accompanied by the prescribed fee.
+[Act 24 of 2016 wef 03/10/2016]
 
-(3) The Council may refuse to grant its approval under subsection (1) if it is satisfied that the new name of the private education institution, or the premises, school (or any department or faculty thereof) or education provided by the private education institution, as the case may be, is a name which is referred to in section 37(1)(h).
+(2) For the purposes of subsection (1), a manager of the registered private education institution which intends to effect a change of name under subsection (1) shall submit to the Agency an application for approval of the new name in such form and manner as may be prescribed, and that application shall be accompanied by the prescribed fee.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(3) The Agency may refuse to grant its approval under subsection (1) if it is satisfied that the new name of the private education institution, or the premises, school (or any department or faculty thereof) or education provided by the private education institution, as the case may be, is a name which is referred to in section 37(1)(h).
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Power to direct change of name
 
-40\.—(1) Notwithstanding anything in this Act, the Council may direct a registered private education institution to change its name, or the name of any premises or school (or any department or faculty thereof) of or education provided by the private education institution, to such new name as the Council may approve under section 39 where the Council is satisfied that the private education institution has been registered (whether through inadvertence or otherwise and whether before, on or after the date of commencement of this section) by a name, or the name of the premises or school (or a department or faculty thereof) or education bears a name —
+40\.—(1) Notwithstanding anything in this Act, the Agency may direct a registered private education institution to change its name, or the name of any premises or school (or any department or faculty thereof) of or education provided by the private education institution, to such new name as the Agency may approve under section 39 where the Agency is satisfied that the private education institution has been registered (whether through inadvertence or otherwise and whether before, on or after the date of commencement of this section) by a name, or the name of the premises or school (or a department or faculty thereof) or education bears a name —
 
 (a) which is referred to in section 37(1)(h); or
 
 (b) the use of which has been restrained by an injunction granted under the Trade Marks Act (Cap. 332).
 
-(2) The registered private education institution to whom a direction under subsection (1) is given shall comply with the direction within a period of 6 weeks after the date of the direction, or such longer period as the Council may allow in any particular case, unless the direction is earlier annulled by the Minister.
+[Act 24 of 2016 wef 03/10/2016]
+
+(2) The registered private education institution to whom a direction under subsection (1) is given shall comply with the direction within a period of 6 weeks after the date of the direction, or such longer period as the Agency may allow in any particular case, unless the direction is earlier annulled by the Minister.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (3) Any registered private education institution which contravenes subsection (2) shall be guilty of an offence.
 
-(4) For the avoidance of doubt, the Council shall accept as correct any decision of the High Court to grant an injunction referred to in subsection (1)(b).
+(4) For the avoidance of doubt, the Agency shall accept as correct any decision of the High Court to grant an injunction referred to in subsection (1)(b).
+
+[Act 24 of 2016 wef 03/10/2016]
 
 Division 2 —
 
@@ -918,15 +986,19 @@ Management of registered private education institutions
 
 (iv) such particulars as may be prescribed about the private education institution’s administration and governance arrangements, financial viability, educational programmes and student welfare processes, resources and other matters;
 
-(b) to ensure that, in the event the provision of private education by the private education institution is about to cease, the Council and each student and intending student of the private education institution are informed, in writing and in the time delimited as follows, of the cessation and of the necessary arrangements made by the private education institution for the student or intending student to be offered a place in another registered private education institution to complete the same or similar course at the private education institution’s expense or otherwise:
+(b) to ensure that, in the event the provision of private education by the private education institution is about to cease, the Agency and each student and intending student of the private education institution are informed, in writing and in the time delimited as follows, of the cessation and of the necessary arrangements made by the private education institution for the student or intending student to be offered a place in another registered private education institution to complete the same or similar course at the private education institution’s expense or otherwise:
 
-(i) where the provision of private education by the private education institution must cease because the Council refused to renew the registration of the private education institution under section 37 or the registration of the private education institution is suspended or cancelled, or the period of its registration is reduced, under section 38 — at least 14 days before the cessation or such other period as the Council may allow in any particular case; or
+(i) where the provision of private education by the private education institution must cease because the Agency refused to renew the registration of the private education institution under section 37 or the registration of the private education institution is suspended or cancelled, or the period of its registration is reduced, under section 38 — at least 14 days before the cessation or such other period as the Agency may allow in any particular case; or
 
 (ii) where the provision of private education by the private education institution must cease for any other reason — at least 30 days before the cessation;
 
-(c) to obtain the permission of the Council, in such form and manner as the Council may require, before any renovation works are carried out to the premises of the private education institution or any part thereof;
+[Act 24 of 2016 wef 03/10/2016]
 
-(d) to notify the Council, in writing —
+(c) to obtain the permission of the Agency, in such form and manner as the Agency may require, before any renovation works are carried out to the premises of the private education institution or any part thereof or before relocating of the premises of the private education institution;
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(d) to notify the Agency, in writing —
 
 (i) if there is any change in the ownership, control or management of the private education institution, of that change within 14 days after the date of the change;
 
@@ -934,9 +1006,15 @@ Management of registered private education institutions
 
 (iii) if any legal proceedings have been instituted against the private education institution, of the legal proceedings within 14 days after the date the private education institution is served with the originating process in such proceedings;
 
-(e) to furnish such information or documents relating to the private education institution as may be required, from time to time, by the Council within such time and in such manner as the Council may specify; and
+[Act 24 of 2016 wef 03/10/2016]
 
-(f) to discharge such other duties as may be prescribed or as the Council may, from time to time, by notice in writing impose in any particular case.
+(e) to furnish such information or documents relating to the private education institution as may be required, from time to time, by the Agency within such time and in such manner as the Agency may specify; and
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(f) to discharge such other duties as may be prescribed or as the Agency may, from time to time, by notice in writing impose in any particular case.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (2) For the purposes of subsection (1), every manager of a registered private education institution shall —
 
@@ -948,27 +1026,37 @@ Management of registered private education institutions
 
 (iii) an electronic mail address or a facsimile number,
 
-at which he may be contacted by the Council in relation to any matter concerning the registered private education institution;
+at which he may be contacted by the Agency in relation to any matter concerning the registered private education institution;
 
-(b) upon the registration of the private education institution or his becoming a manager of the registered private education institution, notify the Council of the contact information he is required to maintain under paragraph (a); and
+[Act 24 of 2016 wef 03/10/2016]
 
-(c) notify the Council of any change in the contact information he is required to maintain under paragraph (a) within a period of 14 days after the date of the change.
+(b) upon the registration of the private education institution or his becoming a manager of the registered private education institution, notify the Agency of the contact information he is required to maintain under paragraph (a); and
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(c) notify the Agency of any change in the contact information he is required to maintain under paragraph (a) within a period of 14 days after the date of the change.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (3) Any manager who, without reasonable excuse, fails to comply with any of the duties of a manager prescribed under subsection (1) or (2) shall be guilty of an offence.
 
 ### Suspension or removal of managers
 
-42\.—(1) Without prejudice to any other power vested in the Council under this Act, the Council may, at any time, direct a registered private education institution —
+42\.—(1) Without prejudice to any other power vested in the Agency under this Act, the Agency may, at any time, direct a registered private education institution —
 
-(a) to suspend or remove any person appointed as a manager of the registered private education institution if the Council is satisfied that the manager —
+(a) to suspend or remove any person appointed as a manager of the registered private education institution if the Agency is satisfied that the manager —
 
 (i) is not a fit and proper person to carry on or manage the registered private education institution; or
 
 (ii) is unable to discharge the duties prescribed under section 41 or imposed on managers under this Act; or
 
-(b) to appoint such additional person as the Council may approve to discharge the duties of the manager referred to in paragraph (a) for such period as the Council considers necessary.
+(b) to appoint such additional person as the Agency may approve to discharge the duties of the manager referred to in paragraph (a) for such period as the Agency considers necessary.
 
-(2) Any registered private education institution which contravenes any direction of the Council issued under subsection (1) shall be guilty of an offence.
+[Act 24 of 2016 wef 03/10/2016]
+
+(2) Any registered private education institution which contravenes any direction of the Agency issued under subsection (1) shall be guilty of an offence.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 Division 3 —
 
@@ -976,41 +1064,61 @@ Provisions relating to courses by registered private education institutions
 
 ### Permission to offer or provide courses
 
-43\.—(1) Subject to subsections (2) and (3), no registered private education institution may offer or provide a course, whether in Singapore or elsewhere and whether by itself or in association or collaboration with or by affiliation with any other person, except with the permission in writing of the Council and in accordance with the terms and conditions of such permission.
+43\.—(1) Subject to subsections (2) and (3), no registered private education institution may offer or provide a course, whether in Singapore or elsewhere and whether by itself or in association or collaboration with or by affiliation with any other person, except with the permission in writing of the Agency and in accordance with the terms and conditions of such permission.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (2) Subsection (1) shall not apply to such courses as may be prescribed.
 
 (3) No registered private education institution may offer or provide, whether in Singapore or elsewhere, a course leading to the award of any associate, undergraduate or graduate degree or any other degree that is conferred in its own name without the permission in writing of the Minister.
 
-(4) An application for the permission of the Council under subsection (1) shall —
+(4) An application for the permission of the Agency under subsection (1) shall —
 
-(a) be made on behalf of the registered private education institution by a manager of the registered private education institution (referred to in this section as the applicant) to the Council in such form and manner, and within such time, as may be prescribed; and
+(a) be made on behalf of the registered private education institution by a manager of the registered private education institution (referred to in this section as the applicant) to the Agency in such form and manner, and within such time, as may be prescribed; and
 
 (b) be accompanied by the prescribed fee.
 
-(5) The Council may, upon an application made under subsection (4) and after such inquiry as it may think necessary, grant its permission subject to such terms and conditions as it thinks fit or refuse to grant its permission.
+[Act 24 of 2016 wef 03/10/2016]
 
-(6) The Council may, in determining whether to grant its permission under subsection (1), have regard to such considerations as it thinks fit.
+(5) The Agency may, upon an application made under subsection (4) and after such inquiry as it may think necessary, grant its permission subject to such terms and conditions as it thinks fit or refuse to grant its permission.
 
-(7) The Council may require the applicant making an application under subsection (4) to furnish it with such information or documents as the Council considers necessary in relation to the application.
+[Act 24 of 2016 wef 03/10/2016]
 
-(8) Where the applicant fails to furnish the Council with any information or document required under subsection (7) in relation to his application within the time specified by the Council, the application shall be deemed to have been withdrawn.
+(6) The Agency may, in determining whether to grant its permission under subsection (1), have regard to such considerations as it thinks fit.
 
-(9) Without prejudice to the generality of subsection (5) and notwithstanding section 49, the terms and conditions subject to which the Council grants its permission to a registered private education institution may include a term or condition requiring the registered private education institution to be or to remain (as the case may be) a member of a Scheme.
+[Act 24 of 2016 wef 03/10/2016]
 
-(10) The Council may at any time, without compensation —
+(7) The Agency may require the applicant making an application under subsection (4) to furnish it with such information or documents as the Agency considers necessary in relation to the application.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(8) Where the applicant fails to furnish the Agency with any information or document required under subsection (7) in relation to his application within the time specified by the Agency, the application shall be deemed to have been withdrawn.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(9) Without prejudice to the generality of subsection (5) and notwithstanding section 49, the terms and conditions subject to which the Agency grants its permission to a registered private education institution may include a term or condition requiring the registered private education institution to be or to remain (as the case may be) a member of a Scheme.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(10) The Agency may at any time, without compensation —
 
 (a) add to, vary or revoke any term or condition of its permission granted under subsection (5); or
 
 (b) suspend or revoke its permission granted under subsection (5).
 
+[Act 24 of 2016 wef 03/10/2016]
+
 (11) Any registered private education institution which contravenes subsection (1) or (3) shall be guilty of an offence.
 
 (12) Any person who knowingly or recklessly —
 
-(a) issues or publishes any advertisement of any course to be offered or provided by a registered private education institution, being a course which the Council has not granted its permission under subsection (1); or
+(a) issues or publishes any advertisement of any course to be offered or provided by a registered private education institution, being a course which the Agency has not granted its permission under subsection (1); or
 
-(b) solicits or receives any fee from any student in respect of such a course,
+[Act 24 of 2016 wef 03/10/2016]
+
+(b) solicits or receives any money from any student in respect of such a course,
+
+[Act 24 of 2016 wef 03/10/2016]
 
 shall be guilty of an offence.
 
@@ -1024,23 +1132,27 @@ Provisions relating to teachers of registered private education institutions
 
 (a) the person possesses such minimum qualifications and experience, and fulfils such other criteria, as may be prescribed;
 
-(b) a manager of the registered private education institution has notified the Council, in such form and manner and within such time as may be prescribed, of the prescribed particulars of that person; and
+(b) a manager of the registered private education institution has notified the Agency, in such form and manner and within such time as may be prescribed, of the prescribed particulars of that person; and
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (c) the notification referred to in paragraph (b) is accompanied by the prescribed fee.
 
-(2) The Council may, at any time —
+(2) The Agency may, at any time —
 
 (a) impose such requirements or restrictions relating to any teacher of a registered private education institution as it thinks fit to impose, including but not limited to requirements or restrictions relating to the subjects or classes that the teacher may teach; and
 
 (b) add to, vary or revoke any requirement or restriction imposed under paragraph (a).
 
+[Act 24 of 2016 wef 03/10/2016]
+
 (3) Any registered private education institution which contravenes any requirement or restriction imposed under subsection (2) shall be guilty of an offence.
 
 ### Power to prohibit or restrict deployment of teachers
 
-45\.—(1) The Council may, at any time, direct a registered private education institution to cease to deploy any person to teach any course to all or any of the students of the registered private education institution if the Council is satisfied that —
+45\.—(1) The Agency may, at any time, direct a registered private education institution to cease to deploy any person to teach any course to all or any of the students of the registered private education institution if the Agency is satisfied that —
 
-(a) any information in respect of the person furnished to the Council under this Act is false or misleading in a material particular or by reason of the omission of a material particular;
+(a) any information in respect of the person furnished to the Agency under this Act is false or misleading in a material particular or by reason of the omission of a material particular;
 
 (b) the person does not possess the minimum qualifications or experience, or fulfil such other criteria, as may be prescribed under section 44(1)(a) or is otherwise not competent to teach the course;
 
@@ -1050,7 +1162,11 @@ Provisions relating to teachers of registered private education institutions
 
 (e) the person is not a fit and proper person to teach in the registered private education institution.
 
-(2) Any registered private education institution which contravenes any direction of the Council issued under subsection (1) shall be guilty of an offence.
+[Act 24 of 2016 wef 03/10/2016]
+
+(2) Any registered private education institution which contravenes any direction of the Agency issued under subsection (1) shall be guilty of an offence.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 Division 5 —
 
@@ -1082,101 +1198,143 @@ Provisions relating to advertising
 
 ### Remedial measures in relation to advertisements
 
-47\.—(1) Without prejudice to the generality of section 59, where any person has issued or published, or caused to be issued or published, any advertisement in contravention of section 43(12) or 46, the Council may direct the person to do all or any of the following at the person’s expense:
+47\.—(1) Without prejudice to the generality of section 59, where any person has issued or published, or caused to be issued or published, any advertisement in contravention of section 43(12) or 46, the Agency may direct the person to do all or any of the following at the person’s cost and expense:
 
 (a) take all practicable steps to withdraw the advertisement;
 
-(b) modify the advertisement in such manner as may be specified or approved by the Council;
+(b) modify the advertisement in such manner as may be specified or approved by the Agency;
 
 (c) cease the issue or publication of any other advertisement which is wholly or substantially the same as the first-mentioned advertisement;
 
-(d) issue or publish, or cause to be issued or published, a corrective advertisement in such manner and containing such information as may be specified or approved by the Council.
+(d) issue or publish, or cause to be issued or published, a corrective advertisement in such manner and containing such information as may be specified or approved by the Agency.
 
-(2) The person to whom the Council has issued a direction under subsection (1) shall bear all costs and expenses arising from complying with the direction.
+[Act 24 of 2016 wef 03/10/2016]
 
-(3) Where the person to whom the Council has issued a direction under subsection (1) fails to comply with the direction, the Council may take such steps as it thinks reasonable and necessary to give effect to the direction and recover all costs and expenses reasonably incurred by it in so doing from that person as a civil debt due to the Council.
+(2) The person to whom the Agency has issued a direction under subsection (1) shall bear all costs and expenses arising from complying with the direction.
 
-(4) Any person who contravenes any direction of the Council issued under subsection (1) shall be guilty of an offence.
+[Act 24 of 2016 wef 03/10/2016]
+
+(3) Where the person to whom the Agency has issued a direction under subsection (1) fails to comply with the direction, the Agency may take such steps as it thinks reasonable and necessary to give effect to the direction and recover all costs and expenses reasonably incurred by it in so doing from that person as a civil debt due to the Agency.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(4) Any person who contravenes any direction of the Agency issued under subsection (1) shall be guilty of an offence.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 Division 6 —
 
 Administrative penalties
 
-### General measures Council may impose on errant private education institutions
+### General measures Agency may impose on errant private education institutions
 
-48\.—(1) Without prejudice to any other power vested in the Council under this Act, where a private education institution —
+48\.—(1) Without prejudice to any other power vested in the Agency under this Act, where a private education institution —
 
 (a) has breached any term or condition of its registration; or
 
 (b) has failed to comply with section 39(1) or 44(1), or such regulations as may be prescribed for the purpose of this section the breach of which is not an offence,
 
-the Council may, in its discretion —
+the Agency may, in its discretion —
 
-(i) impose a financial penalty of such amount, not exceeding $5,000, as the Council thinks fit;
+(i) impose a financial penalty of such amount, not exceeding $5,000, as the Agency thinks fit;
 
 (ii) censure the private education institution; or
 
-(iii) order that the registration of the private education institution be subject to such terms or conditions as may be imposed by the Council, whether in addition to or in substitution of the existing terms and conditions of its registration.
+(iii) order that the registration of the private education institution be subject to such terms or conditions as may be imposed by the Agency, whether in addition to or in substitution of the existing terms and conditions of its registration.
 
-(2) Any financial penalty payable by any private education institution under subsection (1)(i) shall be recoverable as a civil debt due to the Council from the private education institution.
+[Act 24 of 2016 wef 03/10/2016]
 
-(3) The Council shall, before making any decision under subsection (1) in relation to any private education institution, give the private education institution notice in writing of its intention to do so.
+(2) Any financial penalty payable by any private education institution under subsection (1)(i) shall be recoverable as a civil debt due to the Agency from the private education institution.
 
-(4) Upon receipt of the notice of the Council under subsection (3), the private education institution concerned or any manager thereof may, within a period of 14 days after the date of the notice, show cause to the Council as to why the Council should not impose a financial penalty, censure or make an order under subsection (1)(iii), as the case may be.
+[Act 24 of 2016 wef 03/10/2016]
 
-(5) The Council shall, after the private education institution or any manager thereof has shown cause under subsection (4) or the time to do so has expired, notify the private education institution of its decision in writing.
+(3) The Agency shall, before making any decision under subsection (1) in relation to any private education institution, give the private education institution notice in writing of its intention to do so.
 
-(6) Subject to section 53, any decision by the Council under subsection (1) shall not take effect until the expiration of 14 days after the Council has served the notice of the decision on the private education institution concerned.
+[Act 24 of 2016 wef 03/10/2016]
+
+(4) Upon receipt of the notice of the Agency under subsection (3), the private education institution concerned or any manager thereof may, within a period of 14 days after the date of the notice, show cause to the Agency as to why the Agency should not impose a financial penalty, censure or make an order under subsection (1)(iii), as the case may be.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(5) The Agency shall, after the private education institution or any manager thereof has shown cause under subsection (4) or the time to do so has expired, notify the private education institution of its decision in writing.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(6) Subject to section 53, any decision by the Agency under subsection (1) shall not take effect until the expiration of 14 days after the Agency has served the notice of the decision on the private education institution concerned.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ## PART IV
 
 PROVISION AND CONTROL OF OTHER SERVICES
 
-### Establishment or maintenance of accreditation or certification schemes by Council
+### Establishment or maintenance of accreditation or certification schemes by Agency
 
-49\.—(1) The Council may establish or maintain one or more voluntary accreditation or certification schemes for —
+49\.—(1) The Agency may establish or maintain one or more voluntary accreditation or certification schemes for —
 
 (a) registered private education institutions; and
 
-(b) any class of other education institutions as the Council may deem appropriate.
+(b) any class of other education institutions as the Agency may deem appropriate.
 
-(2) Any education institution which is eligible to be a member of a Scheme may apply to the Council to be a member of the Scheme.
+[Act 24 of 2016 wef 03/10/2016]
 
-(3) The Council may, if it is satisfied that an education institution meets such eligibility criteria for a Scheme as the Council may determine, accept the application of the education institution to become a member of the Scheme, subject to the education institution providing a written undertaking, in such form and manner as the Council may determine, that it will abide by the terms and conditions of the Scheme as determined by the Council.
+(2) Any education institution which is eligible to be a member of a Scheme may apply to the Agency to be a member of the Scheme.
 
-(4) The Council may, from time to time, vary the terms and conditions of any Scheme by issuing a notice in writing to the members of the Scheme or any relevant class thereof.
+[Act 24 of 2016 wef 03/10/2016]
 
-(5) The terms and conditions of a Scheme, as determined by the Council, may include all or any of the following:
+(3) The Agency may, if it is satisfied that an education institution meets such eligibility criteria for a Scheme as the Agency may determine, accept the application of the education institution to become a member of the Scheme, subject to the education institution providing a written undertaking, in such form and manner as the Agency may determine, that it will abide by the terms and conditions of the Scheme as determined by the Agency.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(4) The Agency may, from time to time, vary the terms and conditions of any Scheme by issuing a notice in writing to the members of the Scheme or any relevant class thereof.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(5) The terms and conditions of a Scheme, as determined by the Agency, may include all or any of the following:
 
 (a) that members of the Scheme shall appoint a management representative to oversee the effective implementation and maintenance of the requirements under the Scheme;
 
-(b) that members of the Scheme shall provide all the necessary information and documents, including any declaration of conformity or accuracy of information, that the Council may require from time to time;
+(b) that members of the Scheme shall provide all the necessary information and documents, including any declaration of conformity or accuracy of information, that the Agency may require from time to time;
 
-(c) that members of the Scheme shall facilitate and provide reasonable assistance to the assessors appointed by the Council, including but not limited to making available information to the assessors and ensuring the safety of assessors during site visits to the premises of the members;
+(c) that members of the Scheme shall facilitate and provide reasonable assistance to the assessors appointed by the Agency, including but not limited to making available information to the assessors and ensuring the safety of assessors during site visits to the premises of the members;
 
 (d) that members of the Scheme shall pay such fees as may be imposed in respect of their application to be members of the Scheme or their continued association with the Scheme;
 
-(e) that members of the Scheme shall comply with such codes of conduct or guidelines relating to quality or standards as may be stipulated by the Council from time to time;
+(e) that members of the Scheme shall comply with such codes of conduct or guidelines relating to quality or standards as may be stipulated by the Agency from time to time;
 
-(f) that members of the Scheme shall enter into such student fee protection scheme as the Council may designate for the purposes of the Scheme and abide by the terms and conditions of such student fee protection scheme;
+(f) that members of the Scheme shall enter into such student fee protection scheme as the Agency may designate for the purposes of the Scheme and abide by the terms and conditions of such student fee protection scheme;
 
-(g) that members of the Scheme shall ensure information relating to them, and such other information as may be stipulated by the Council, are available in a publicly accessible manner;
+(g) that members of the Scheme shall ensure information relating to them, and such other information as may be stipulated by the Agency, are available in a publicly accessible manner;
 
-(h) that members of the Scheme shall allow the Council to publicise the list of members of the Scheme or a list of those that have been withdrawn, or have been suspended or removed, from the Scheme.
+(h) that members of the Scheme shall allow the Agency to publicise the list of members of the Scheme or a list of those that have been withdrawn, or have been suspended or removed, from the Scheme.
 
-(6) The Council may appoint any person to administer any Scheme, or any aspect or any part of a Scheme, subject to such terms and restrictions as may be specified by the Council.
+[Act 24 of 2016 wef 03/10/2016]
+
+(6) The Agency may appoint any person to administer any Scheme, or any aspect or any part of a Scheme, subject to such terms and restrictions as may be specified by the Agency.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (7) Any information furnished by or on behalf of an education institution or any manager thereof for the purpose of a Scheme —
 
 (a) may be used for or in relation to investigating or prosecuting any person for an offence under any written law; or
 
-(b) may be used or published in the form of research findings, comparison studies, banding of comparable education institutions, or in any other form or manner or for such purposes as the Council may determine.
+(b) may be used or published in the form of research findings, comparison studies, banding of comparable education institutions, or in any other form or manner or for such purposes as the Agency may determine.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Restrictions on certain other services
 
-50\.—(1) Subject to subsection (3), no person shall establish, maintain, offer or provide any accreditation or certification scheme relating, whether directly or indirectly, to private education institutions or private education without the approval of the Council.
+50\.—(1) Subject to subsection (3), no person shall establish, maintain, offer or provide any accreditation or certification scheme relating, whether directly or indirectly, to private education institutions or private education without the approval of the Agency.
 
-(2) Subject to subsection (3), no person in Singapore shall offer or provide any examination service to any private education institution in Singapore or elsewhere without the approval of the Council.
+[Act 24 of 2016 wef 03/10/2016]
+
+(2) Subject to subsection (3), no person in Singapore shall offer or provide any examination service to any private education institution in Singapore or elsewhere without the approval of the Agency.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (3) Subsection (1) or (2) shall not apply to —
 
@@ -1184,11 +1342,13 @@ PROVISION AND CONTROL OF OTHER SERVICES
 
 (b) such other persons as may be prescribed.
 
-(4) Any approval of the Council under subsection (1) or (2) —
+(4) Any approval of the Agency under subsection (1) or (2) —
 
-(a) may be granted subject to such terms and conditions as the Council may specify; and
+(a) may be granted subject to such terms and conditions as the Agency may specify; and
 
-(b) may be revoked at any time by the Council by notice in writing.
+(b) may be revoked at any time by the Agency by notice in writing.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (5) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
@@ -1212,7 +1372,9 @@ APPEALS
 
 ### Duty, powers and procedures of Appeals Board
 
-52\.—(1) It shall be the duty of the Appeals Board to hear and decide all appeals against the appealable decisions of the Council within the meaning of section 53(1).
+52\.—(1) It shall be the duty of the Appeals Board to hear and decide all appeals against the appealable decisions of the Agency within the meaning of section 53(1).
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (2) In the discharge of its duty under this Act, the Appeals Board shall have the following powers:
 
@@ -1240,7 +1402,7 @@ APPEALS
 
 53\.—(1) Any person who is aggrieved by —
 
-(a) any decision of the Council —
+(a) any decision of the Agency —
 
 (i) refusing to grant or renew the registration of a private education institution under section 36;
 
@@ -1254,17 +1416,25 @@ APPEALS
 
 (vi) directing the suspension or removal of any person appointed as a manager of a registered private education institution under section 42(1)(a) or the appointment of any additional person to discharge the duties of a manager of a private education institution under section 42(1)(b);
 
-(vii) refusing any permission under section 43(1) or (3) or imposing any term or condition when granting such permission;
+(vii) refusing any permission under section 43(1) or imposing any term or condition when granting such permission;
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (viii) imposing any financial penalty, censure or other order under section 48(1); or
 
 (ix) refusing any approval under section 50 or imposing any term or condition when approving under that section;
 
-(b) any direction of the Council under section 34(6), 42, 45, 47, 59 or 60;
+[Act 24 of 2016 wef 03/10/2016]
+
+(b) any direction of the Agency under section 34(6), 42, 45, 47, 59 or 60;
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (c) any requisition for particulars or information under section 62; or
 
-(d) any decision of the Council under section 64(3),
+(d) any decision of the Agency under section 64(3),
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (each of which decision, direction or requisition shall be referred to in this Act as an appealable decision) may, within such time as may be prescribed under section 55 in respect of the type of appealable decision, lodge an appeal against the decision to the Appeals Board.
 
@@ -1274,7 +1444,9 @@ APPEALS
 
 (a) confirm, set aside or modify the appealable decision to which the appeal relates; or
 
-(b) give such directions in such manner as the Appeals Board thinks fit, including a direction to the Council to review its appealable decision to which the appeal relates,
+(b) give such directions in such manner as the Appeals Board thinks fit, including a direction to the Agency to review its appealable decision to which the appeal relates,
+
+[Act 24 of 2016 wef 03/10/2016]
 
 and the decision of the Appeals Board shall be final.
 
@@ -1282,9 +1454,13 @@ and the decision of the Appeals Board shall be final.
 
 (5) The lodging of an appeal under subsection (1) against an appealable decision shall not suspend the effect of the appealable decision to which the appeal relates, except where the appeal relates to —
 
-(a) any written direction of the Council issued under section 34(6) or 60 requiring the private education institution or the managers thereof to refund the whole or any part of any course money to any student or intending student of the private education institution; or
+(a) any written direction of the Agency issued under section 34(6) or 60 requiring the private education institution or the managers thereof to refund the whole or any part of any course money to any student or intending student of the private education institution; or
 
-(b) any other appealable decision of the Council that is prescribed under section 55 as a suspended appealable decision.
+[Act 24 of 2016 wef 03/10/2016]
+
+(b) any other appealable decision of the Agency that is prescribed under section 55 as a suspended appealable decision.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Disclosure of conflicts of interest by members of Appeals Board
 
@@ -1322,9 +1498,13 @@ INSPECTION, ENFORCEMENT AND OFFENCES
 
 ### Appointment of inspectors
 
-56\.—(1) The Council may appoint any of its officers or employees to be an inspector for the purposes of this Act.
+56\.—(1) The Agency may appoint any of its officers or employees to be an inspector for the purposes of this Act.
 
-(2) The Council shall furnish every inspector with an identification card that identifies him as an inspector.
+[Act 24 of 2016 wef 03/10/2016]
+
+(2) The Agency shall furnish every inspector with an identification card that identifies him as an inspector.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (3) Every inspector shall, when exercising any power under this Act, on demand produce his identification card to the person affected by the exercise of that power.
 
@@ -1336,11 +1516,13 @@ INSPECTION, ENFORCEMENT AND OFFENCES
 
 (a) examine any book, document, material or article as he may consider necessary and remove or make copies of it for further examination;
 
-(b) require any person, whether a manager, teacher or student of the registered private education institution or otherwise, to be present before an inspector or any officer of the Council and —
+(b) require any person, whether a manager, teacher or student of the registered private education institution or otherwise, to be present before an inspector or any officer of the Agency and —
 
-(i) to produce for inspection any book, document, material or article which is in the possession or under the custody of that person, which the inspector or an officer of the Council may remove or make copies of for further examination; or
+(i) to produce for inspection any book, document, material or article which is in the possession or under the custody of that person, which the inspector or an officer of the Agency may remove or make copies of for further examination; or
 
 (ii) to furnish any information which is within the power of the person to furnish relating to the control or management of the registered private education institution, to the teaching carried on in the registered private education institution, to the student activities of the registered private education institution or to such other matter as the inspector may specify; or
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (c) do anything that is necessary or expedient for the carrying out of the inspection.
 
@@ -1368,21 +1550,31 @@ INSPECTION, ENFORCEMENT AND OFFENCES
 
 ### General power to direct remedial measures
 
-59\.—(1) Without prejudice to any other power vested in the Council under this Act, if it appears to the Council that —
+59\.—(1) Without prejudice to any other power vested in the Agency under this Act, if it appears to the Agency that —
 
 (a) any provision of this Act has not been complied with by or in relation to any registered private education institution; or
 
 (b) any registered private education institution is not being efficiently or properly administered,
 
-the Council may, by notice in writing addressed to the managers of the registered private education institution, direct them to take such measures and within such time as may be specified in the notice in order that the provision of this Act may be complied with or the registered private education institution may be efficiently or properly administered (as the case may be).
+the Agency may, by notice in writing addressed to the managers of the registered private education institution, direct them to take such measures and within such time as may be specified in the notice in order that the provision of this Act may be complied with or the registered private education institution may be efficiently or properly administered (as the case may be).
 
-(2) The registered private education institution in respect of which the Council has issued a direction under subsection (1) shall bear all costs and expenses arising from complying with the direction.
+[Act 24 of 2016 wef 03/10/2016]
 
-(3) Where the managers of the registered private education institution to whom the Council has addressed a direction under subsection (1) fail to comply with the direction, the Council may take such steps as it thinks reasonable and necessary to give effect to the direction and recover all costs and expenses reasonably incurred by it in so doing from the registered private education institution as a civil debt due to the Council.
+(2) The registered private education institution in respect of which the Agency has issued a direction under subsection (1) shall bear all costs and expenses arising from complying with the direction.
 
-(4) Where any direction issued by the Council under subsection (1) addressed to the managers of a registered private education institution has not been complied with, every manager of the registered private education institution shall each be guilty of an offence.
+[Act 24 of 2016 wef 03/10/2016]
 
-(5) It shall be a defence for any person charged with an offence under subsection (4) to prove that he had a reasonable excuse for failing to comply with the direction of the Council that is the subject of the offence.
+(3) Where the managers of the registered private education institution to whom the Agency has addressed a direction under subsection (1) fail to comply with the direction, the Agency may take such steps as it thinks reasonable and necessary to give effect to the direction and recover all costs and expenses reasonably incurred by it in so doing from the registered private education institution as a civil debt due to the Agency.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(4) Where any direction issued by the Agency under subsection (1) addressed to the managers of a registered private education institution has not been complied with, every manager of the registered private education institution shall each be guilty of an offence.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(5) It shall be a defence for any person charged with an offence under subsection (4) to prove that he had a reasonable excuse for failing to comply with the direction of the Agency that is the subject of the offence.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Power to direct course money refunds, etc.
 
@@ -1392,27 +1584,35 @@ the Council may, by notice in writing addressed to the managers of the registere
 
 (b) the course ceases to be provided at any time after it starts but before it is completed; or
 
-(c) the course is not provided in full to the student or intending student because of the Council refusing to renew the registration of the private education institution under section 37 or the Council suspending, cancelling or reducing the period of registration of the private education institution under section 38,
+(c) the course is not provided in full to the student or intending student because of the Agency refusing to renew the registration of the private education institution under section 37 or the Agency suspending, cancelling or reducing the period of registration of the private education institution under section 38,
+
+[Act 24 of 2016 wef 03/10/2016]
 
 and the student or intending student has not withdrawn from the private education institution before the default day.
 
-(2) Without prejudice to any other power vested in the Council under this Act, the Council may by written direction addressed to the managers of a registered private education institution for a course or, in the case where registration is cancelled, a former registered private education institution for a course, direct that the registered private education institution or former registered private education institution, as the case may be, do either or all of the following:
+(2) Without prejudice to any other power vested in the Agency under this Act, the Agency may by written direction addressed to the managers of a registered private education institution for a course or, in the case where registration is cancelled, a former registered private education institution for a course, direct that the registered private education institution or former registered private education institution, as the case may be, do either or all of the following:
 
-(a) refund each student or intending student, within such time as may be specified in the direction, the whole or such part as the Council deems equitable of the course money the registered private education institution or former registered private education institution, as the case may be, received in respect of the student or intending student before the default day;
+(a) refund each student or intending student, within such time as may be specified in the direction, the whole or such part as the Agency deems equitable of the course money the registered private education institution or former registered private education institution, as the case may be, received in respect of the student or intending student before the default day;
 
 (b) make arrangements for each student or intending student of the registered private education institution or former registered private education institution, as the case may be, to be offered a place in another registered private education institution to complete the same or a similar course, at the private education institution’s expense or otherwise, and notify the student or intending student accordingly —
 
-(i) where the provision of the course by the private education institution must cease because the Council refused to renew the registration of the private education institution under section 37 or the registration of the private education institution is suspended or cancelled, or the period of its registration is reduced, under section 38 — at least 14 days before it ceases to provide the course or such other period as the Council may allow in any particular case; or
+(i) where the provision of the course by the private education institution must cease because the Agency refused to renew the registration of the private education institution under section 37 or the registration of the private education institution is suspended or cancelled, or the period of its registration is reduced, under section 38 — at least 14 days before it ceases to provide the course or such other period as the Agency may allow in any particular case; or
 
 (ii) where the provision of private education by the private education institution must cease for any other reason — at least 30 days before it ceases to provide the course.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (3) Subsection (2) shall apply notwithstanding anything contained in the agreement or contract between the registered private education institution or former registered private education institution and the students or intending students concerned, and subject to subsection (4), the student or intending student concerned shall be entitled to recover the amount specified in the direction to refund under subsection (2) from the registered private education institution or former registered private education institution, as the case may be, as a civil debt in a court of competent jurisdiction.
 
 (4) The registered private education institution or former registered private education institution, as the case may be, shall be relieved of its liability to make a refund if the student or intending student accepts the offer under subsection (2)(b) to complete the same or a similar course at the private education institution’s expense.
 
-(5) Where any written direction issued by the Council under subsection (2) is not complied with, the private education institution and every manager of the private education institution to whom the direction is addressed shall each be guilty of an offence.
+(5) Where any written direction issued by the Agency under subsection (2) is not complied with, the private education institution and every manager of the private education institution to whom the direction is addressed shall each be guilty of an offence.
 
-(6) In addition to subsection (4), it shall be a defence for any person charged with an offence under subsection (5) to prove that he had a reasonable excuse for failing to comply with the written direction of the Council that is the subject of the offence.
+[Act 24 of 2016 wef 03/10/2016]
+
+(6) In addition to subsection (4), it shall be a defence for any person charged with an offence under subsection (5) to prove that he had a reasonable excuse for failing to comply with the written direction of the Agency that is the subject of the offence.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (7) Nothing in this section shall affect the operation of the Charities Act (Cap. 37), the Companies Act (Cap. 50), the Societies Act (Cap. 311) or any other written law relating to the winding up or dissolution of a private education institution.
 
@@ -1438,7 +1638,9 @@ and the student or intending student has not withdrawn from the private educatio
 
 (b) neglects or refuses to produce any book, document, material or article or to furnish any information, neglects or refuses to attend before an inspector as required, furnishes any book, document, material or information which is false in a material particular and which he knows to be false or does not believe to be true, or, by the intentional suppression of any material fact, furnishes information which is misleading, under section 57 or 58;
 
-(c) obstructs or impedes the Council, any officer of the Council or any inspector lawfully carrying out any function or duty in the exercise of any power conferred by or under this Act; or
+(c) obstructs or impedes the Agency, any officer of the Agency or any inspector lawfully carrying out any function or duty in the exercise of any power conferred by or under this Act; or
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (d) being summoned to attend at a hearing of the Appeals Board to give evidence or produce any document or other article, without reasonable excuse refuses or neglects to do so or refuses to answer any questions put to him by or with the concurrence of the Appeals Board, or otherwise hinders, obstructs or deceives the Appeals Board in the exercise of its powers under this Act,
 
@@ -1450,11 +1652,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 MISCELLANEOUS
 
-### Power of Council to issue requisition for particulars or information
+### Power of Agency to issue requisition for particulars or information
 
-62\.—(1) The Council may, from time to time, issue a requisition in writing to any person to furnish such particulars or supply such information relating to any matter to which this Act applies as may be specified in the requisition.
+62\.—(1) The Agency may, from time to time, issue a requisition in writing to any person to furnish such particulars or supply such information relating to any matter to which this Act applies as may be specified in the requisition.
 
-(2) A requisition issued by the Council under subsection (1) may —
+[Act 24 of 2016 wef 03/10/2016]
+
+(2) A requisition issued by the Agency under subsection (1) may —
 
 (a) specify the form in which and the time within which the particulars or information are to be furnished;
 
@@ -1462,29 +1666,43 @@ MISCELLANEOUS
 
 (c) specify the place or manner at or in which the particulars or information are to be delivered.
 
-(3) Every person who is issued a requisition by the Council under subsection (1) shall furnish the particulars or supply the information specified in the requisition to the best of his knowledge and belief.
+[Act 24 of 2016 wef 03/10/2016]
 
-(4) Any person who, without reasonable excuse, fails to comply with any requisition issued by the Council under subsection (1) shall be guilty of an offence.
+(3) Every person who is issued a requisition by the Agency under subsection (1) shall furnish the particulars or supply the information specified in the requisition to the best of his knowledge and belief.
 
-(5) Any person who, in compliance or purported compliance with any requisition issued by the Council under subsection (1), furnishes the Council with any information or document which he knows is false or misleading shall be guilty of an offence.
+[Act 24 of 2016 wef 03/10/2016]
+
+(4) Any person who, without reasonable excuse, fails to comply with any requisition issued by the Agency under subsection (1) shall be guilty of an offence.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(5) Any person who, in compliance or purported compliance with any requisition issued by the Agency under subsection (1), furnishes the Agency with any information or document which he knows is false or misleading shall be guilty of an offence.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Registers and publication of information
 
-63\.—(1) The Council may establish, maintain and cause to be published in such manner as it may determine, one or more registers in respect of —
+63\.—(1) The Agency may establish, maintain and cause to be published in such manner as it may determine, one or more registers in respect of —
 
 (a) registered private education institutions or any class thereof, and such other persons as may be prescribed;
 
 (b) courses offered or provided, or to be offered or provided, by any persons or class of persons referred to in paragraph (a); or
 
-(c) such other information relating to private education generally or to any Scheme as the Council may determine.
+(c) such other information relating to private education generally or to any Scheme as the Agency may determine.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (2) Regulations may be made under section 71 to prescribe the manner in which the registers are established or maintained under subsection (1), including the details or particulars required to be entered in the registers.
 
 (3) Any person may, upon payment of such fee as may be prescribed, inspect and take an extract from any register established under subsection (1).
 
-(4) Any extract taken under subsection (3), if certified by the Council to be a true copy, shall be admissible as evidence in any legal proceedings.
+(4) Any extract taken under subsection (3), if certified by the Agency to be a true copy, shall be admissible as evidence in any legal proceedings.
 
-### Power of Council in relation to dispute resolution schemes
+[Act 24 of 2016 wef 03/10/2016]
+
+### Power of Agency in relation to dispute resolution schemes
 
 64\.—(1) Regulations may be made under section 71 to prescribe one or more dispute resolution schemes for the resolution of disputes arising from or relating to the provision of services by registered private education institutions to students.
 
@@ -1496,23 +1714,37 @@ MISCELLANEOUS
 
 (c) generally to give effect to this section.
 
-(3) Where the Council is satisfied that any registered private education institution has contravened any of the regulations referred to in subsection (2), the Council may do all or any of the following:
+(3) Where the Agency is satisfied that any registered private education institution has contravened any of the regulations referred to in subsection (2), the Agency may do all or any of the following:
 
-(a) impose a financial penalty of such amount, not exceeding $5,000, as the Council thinks fit;
+(a) impose a financial penalty of such amount, not exceeding $5,000, as the Agency thinks fit;
 
 (b) censure the private education institution, if it thinks it necessary in the public interest or for the protection of the public or any section of the public;
 
-(c) order that the registration of the private education institution be subject to such terms or conditions as may be imposed by the Council, whether in addition to or in substitution of the existing terms and conditions of its registration.
+(c) order that the registration of the private education institution be subject to such terms or conditions as may be imposed by the Agency, whether in addition to or in substitution of the existing terms and conditions of its registration.
 
-(4) The Council shall, before making any decision under subsection (3) in relation to any private education institution, give the private education institution notice in writing of its intention to do so.
+[Act 24 of 2016 wef 03/10/2016]
 
-(5) Upon receipt of the notice of the Council under subsection (4), the private education institution concerned or any manager thereof may, within a period of 14 days after the date of the notice, show cause to the Council as to why the Council should not impose a financial penalty, censure or make an order under subsection (3)(c), as the case may be.
+(4) The Agency shall, before making any decision under subsection (3) in relation to any private education institution, give the private education institution notice in writing of its intention to do so.
 
-(6) The Council shall, after the private education institution or any manager thereof has shown cause under subsection (5) or the time to do so has expired, notify the private education institution of its decision in writing.
+[Act 24 of 2016 wef 03/10/2016]
 
-(7) Subject to section 53, any decision by the Council under subsection (3) shall not take effect until the expiration of 14 days after the Council has served the notice of the decision on the private education institution concerned.
+(5) Upon receipt of the notice of the Agency under subsection (4), the private education institution concerned or any manager thereof may, within a period of 14 days after the date of the notice, show cause to the Agency as to why the Agency should not impose a financial penalty, censure or make an order under subsection (3)(c), as the case may be.
 
-(8) The Council may issue, and in its discretion publish by notification in theGazetteor in such other manner as it considers appropriate, such guidelines as it considers appropriate for providing guidance in relation to the operation of a prescribed dispute resolution scheme.
+[Act 24 of 2016 wef 03/10/2016]
+
+(6) The Agency shall, after the private education institution or any manager thereof has shown cause under subsection (5) or the time to do so has expired, notify the private education institution of its decision in writing.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(7) Subject to section 53, any decision by the Agency under subsection (3) shall not take effect until the expiration of 14 days after the Agency has served the notice of the decision on the private education institution concerned.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(8) The Agency may issue, and in its discretion publish by notification in theGazetteor in such other manner as it considers appropriate, such guidelines as it considers appropriate for providing guidance in relation to the operation of a prescribed dispute resolution scheme.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Jurisdiction of court
 
@@ -1584,7 +1816,9 @@ whichever is the lower.
 
 (iv) by affixing a copy of the notice in a conspicuous place at the usual or last known address of residence or business of the individual; or
 
-(v) by sending it by facsimile transmission to the facsimile number operated at the usual or last known address of the place of residence or business of the individual, or the last facsimile number given to the Council by the individual as the facsimile number for the service of documents on the individual;
+(v) by sending it by facsimile transmission to the facsimile number operated at the usual or last known address of the place of residence or business of the individual, or the last facsimile number given to the Agency by the individual as the facsimile number for the service of documents on the individual;
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (b) in the case of a partnership other than a limited liability partnership —
 
@@ -1630,7 +1864,9 @@ whichever is the lower.
 
 ### Regulations
 
-71\.—(1) The Council may, with the approval of the Minister, make regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act.
+71\.—(1) The Agency may, with the approval of the Minister, make regulations as may be necessary or expedient to give effect to the provisions and purposes of this Act.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (2) Without prejudice to the generality of subsection (1), regulations may be made under that subsection for or in respect of all or any of the following matters:
 
@@ -1654,9 +1890,13 @@ whichever is the lower.
 
 (vi) the restrictions on the sharing of premises with other persons;
 
-(e) the form and manner of the keeping of registers or records under this Act, the inspection thereof, the taking of extracts therefrom, the supply of copies thereof, and the returns to be made to the Council including financial records;
+(e) the form and manner of the keeping of registers or records under this Act, the inspection thereof, the taking of extracts therefrom, the supply of copies thereof, and the returns to be made to the Agency including financial records;
 
-(f) the publication of information by private education institutions, in such form and manner as may be prescribed, relating to the premises, teachers and courses of the private education institutions, including but not limited to course fees, course schedules, examination schedules, course particulars and programme modules;
+[Act 24 of 2016 wef 03/10/2016]
+
+(f) the publication of information by private education institutions, in such form and manner as may be prescribed, relating to the premises, teachers and courses of the private education institutions, including but not limited to course money, course schedules, examination schedules, course particulars and programme modules;
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (g) the administration of courses offered or provided by registered private education institutions, including but not limited to the requirements relating to the names of courses, course programme duration, enrolment of students, the form and content of the agreements or contracts to be entered into with students, and the establishment of boards, committees or other similar bodies to oversee academic, examination or administrative structures and processes;
 
@@ -1664,7 +1904,9 @@ whichever is the lower.
 
 (i) the use of advertisements by or on behalf of a private education institution, or any solicitation or canvassing for business by or on behalf of a private education institution;
 
-(j) the use of any accreditation, certification or inspection mark of the Council;
+(j) the use of any accreditation, certification or inspection mark of the Agency;
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (k) the regulation of persons who provide any service relating, whether directly or indirectly, to the provision of private education, including the application, with such modifications as may be prescribed, of the provisions of this Act to such persons;
 
@@ -1802,185 +2044,11 @@ Definition of private education
 
 SECOND SCHEDULE
 
-Section 5(2)
-
-Constitution and proceedings of Council
-
-Appointment of Chairman and members
-
-1.—(1) The Chairman and other members of the Council shall be appointed by the Minister.
-
-(2) The Minister may appoint the Chief Executive as a member.
-
-Appointment of Deputy Chairman
-
-2.—(1) The Minister may, in his discretion, appoint any member to be the Deputy Chairman of the Council.
-
-(2) The Deputy Chairman so appointed may, subject to such directions as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act.
-
-(3) If for any reason the Chairman is unable to act or the office of the Chairman is vacant, the Deputy Chairman may exercise all or any of the powers conferred, or discharge all or any of the duties imposed, on the Chairman under this Act.
-
-Tenure of office of members
-
-3\. A member shall hold office on such conditions and for such term, not exceeding 3 years, as the Minister may determine, and shall be eligible for re-appointment.
-
-Temporary Chairman, Deputy Chairman or member
-
-4\. The Minister may appoint any person to be a temporary Chairman, Deputy Chairman or other member during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman, Deputy Chairman or member (as the case may be).
-
-Revocation of appointment
-
-5\. The Minister may, at any time, revoke the appointment of the Chairman, Deputy Chairman or other member if he considers such revocation necessary in the interest of the effective and economical performance of the functions of the Council under this Act or in the public interest.
-
-Resignation
-
-6\. A member may resign from his office at any time by giving not less than one month’s notice to the Minister.
-
-Chairman may delegate function
-
-7\. The Chairman may, in writing and subject to such conditions or restrictions as he thinks fit, authorise any member to exercise any power or perform any function conferred on the Chairman by or under this Act.
-
-Vacation of office
-
-8. The office of a member shall become vacant —
-
-(a) on his death;
-
-(b) if he fails to attend 3 consecutive meetings of the Council without sufficient cause (the sufficiency thereof to be decided by the Council);
-
-(c) if he becomes in any manner disqualified from membership of the Council;
-
-(d) if he resigns from his office; or
-
-(e) if his appointment is revoked.
-
-Filling of vacancies
-
-9\. If a vacancy occurs in the membership of the Council, the Minister may, subject to paragraph 10, appoint any person to fill the vacancy, and the person so appointed shall hold office for the remainder of the term for which the vacating member was appointed.
-
-Disqualification from membership
-
-10. No person shall be appointed or shall continue to hold office as a member if he —
-
-(a) is an undischarged bankrupt or has made any arrangement with his creditors;
-
-(b) has been sentenced to imprisonment for a term exceeding 6 months and has not received a free pardon;
-
-(c) is incapacitated by physical or mental illness; or
-
-(d) is otherwise unable or unfit to discharge the functions of a member.
-
-Disclosure of interest by members
-
-11.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Council shall disclose the nature of his interest at the first meeting of the Council at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Council and, after the disclosure, that member shall not take part in any deliberation or decision of the Council with respect to that transaction or project.
-
-(3) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that, under sub-paragraph (2), he cannot vote or has withdrawn from the meeting.
-
-(4) For the purposes of this paragraph, a member whose spouse, parent, step-parent, son, adopted son, step-son, daughter, adopted daughter or step-daughter has an interest in the transaction or project referred to in sub-paragraph (1) shall be deemed to be interested in such transaction or project.
-
-Salaries, fees and allowances payable to members
-
-12\. There shall be paid to the members out of the moneys of the Council such salaries, fees and allowances as the Minister may from time to time determine.
-
-Quorum
-
-13.—(1) At every meeting of the Council, one-third of the membership or 3 members, whichever is the higher, shall constitute a quorum.
-
-(2) The Chairman, or in his absence the Deputy Chairman, shall preside at meetings of the Council, and if both the Chairman and Deputy Chairman are absent from any meeting or part thereof, such member as the members present may elect shall preside at that meeting or part thereof.
-
-(3) A decision at a meeting of the Council shall be adopted by a simple majority of the members present and voting except that, in the case of an equality of votes, the Chairman or any other member presiding shall have a casting vote in addition to his original vote.
-
-Procedure at meetings
-
-14.—(1) The Chairman or any officer authorised by him shall, subject to such standing orders as may be made by the Council under sub-paragraph (2), summon all meetings of the Council for the despatch of business.
-
-(2) Subject to the provisions of this Act, the Council may make standing orders to regulate its own procedure generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
-
-Validity of act or proceeding
-
-15. No act or proceeding of the Council shall be questioned on the ground —
-
-(a) of any vacancy in, or defect in the constitution of, the Council;
-
-(b) of any defect in the appointment of any person acting as the Chairman or as any other member;
-
-(c) of any omission, defect or irregularity in the procedure of the Council not affecting the merits of the case; or
-
-(d) that any member has contravened paragraph 11.
+[Deleted by Act 24 of 2016 wef 03/10/2016]
 
 THIRD SCHEDULE
 
-Section 22
-
-Financial provisions
-
-Accounts of Council
-
-1. The Council shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
-
-(a) all payments out of its moneys are correctly made and properly authorised; and
-
-(b) adequate control is maintained over the assets of, or in the custody of, the Council and over the expenditure incurred by the Council.
-
-Auditor
-
-2\. The accounts of the Council shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
-
-Appointment of auditor
-
-3\. A person shall not be qualified for appointment as an auditor under paragraph 2 unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
-
-Remuneration of auditor
-
-4\. The remuneration of the auditor shall be paid out of the moneys of the Council.
-
-Annual financial statements
-
-5\. The Council shall, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
-
-Duties of auditor
-
-6. The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Council;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Council whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Council during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-Auditor’s report
-
-7.—(1) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Council.
-
-(2) The auditor shall submit such periodical and special reports to the Minister and to the Council as may appear to him to be necessary or as the Minister or the Council may require.
-
-Powers of auditor
-
-8.—(1) The auditor or any person authorised by him is entitled at any reasonable time to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Council.
-
-(2) The auditor or any person authorised by him may make copies of, or take extracts from, any such accounting and other records.
-
-(3) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or any duly authorised person considers necessary for the purposes of his functions under this Act.
-
-Penalty for obstructing auditor
-
-9\. Any person who fails, without any reasonable cause, to comply with any requirement of the auditor or authorised person under paragraph 8 or who otherwise hinders, obstructs or delays the auditor or authorised person in the performance of his functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-Presentation of audited financial statements and auditor’s report
-
-10\. The Council shall, as soon as its accounts and financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
-
-Copy of auditor’s report for Auditor-General
-
-11\. Where the Auditor-General is not appointed as the auditor, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Council.
-
-Presentation to Parliament
-
-12\. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+[Deleted by Act 24 of 2016 wef 03/10/2016]
 
 ## LEGISLATIVE HISTORY
 
@@ -2031,6 +2099,10 @@ This Legislative History is provided for the convenience of users of the Private
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|8.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|3 October 2016|
 ## COMPARATIVE TABLE
 
 Private Education Act
