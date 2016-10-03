@@ -8570,6 +8570,14 @@ where A is —
 
 (6) In this section —
 
+“accredited”, in relation to a course, means accredited —
+
+(a) by the Singapore Workforce Development Agency before the date of commencement of section 9 of the Singapore Workforce Development Agency (Amendment) Act 2016; or
+
+(b) by the SkillsFuture Singapore Agency on or after that date;
+
+[Act 24 of 2016 wef 03/10/2016]
+
 “central hirer”, in relation to a central hiring arrangement for a group of related parties, means the person who carries out hiring functions for those parties under the arrangement;
 
 [Act 37 of 2014 wef 27/11/2014]
@@ -8608,7 +8616,9 @@ where A is —
 
 (a) any training expenditure incurred directly in providing for employees —
 
-(i) a Workforce Skills Qualification (WSQ) training course which is accredited by the Singapore Workforce Development Agency and conducted by a WSQ in-house training provider;
+(i) a Workforce Skills Qualification (WSQ) training course which is accredited and conducted by a WSQ in-house training provider;
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (ii) a course approved by the Institute of Technical Education (ITE) under the ITE Approved Training Centre scheme;
 
@@ -15113,6 +15123,8 @@ he may, in lieu of all those allowances, make an irrevocable written election fo
 (A) in the case of the year of assessment 2017, where the last day of the basis period for that year of assessment is on or after 1 August 2016; or
 
 (B) in the case of the year of assessment 2018, where the first day of the basis period for that year of assessment is before 1 August 2016.
+
+[Act 15 of 2016 wef 01/08/2016]
 
 [Act 15 of 2016 wef 01/08/2016]
 
@@ -25316,6 +25328,10 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|20 July 2016|
 |||1 August 2016|
+|197.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|3 October 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
