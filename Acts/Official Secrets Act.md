@@ -378,7 +378,9 @@ Competition Commission of Singapore
 
 7. 
 
-Council for Private Education
+SkillsFuture Singapore Agency
+
+[Act 24 of 2016 wef 03/10/2016]
 
 8. 
 
@@ -436,7 +438,7 @@ Land Transport Authority of Singapore
 
 Maritime and Port Authority of Singapore
 
-20. [Deleted by Act 22 of 2016 wef 01/10/2016 wef 01/10/2016]
+20. [Deleted by Act 22 of 2016 wef 01/10/2016]
 
 21. 
 
@@ -593,3 +595,7 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of Second Reading|16 August 2016|
 ||Date of Third Reading|17 September 2016|
 ||Date of commencement|1 October 2016|
+|32.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|3 October 2016|
