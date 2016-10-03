@@ -184,17 +184,23 @@ ESTABLISHMENT OF INSTITUTE
 
 5\. The functions of the Institute shall include —
 
-(a) the provision, promotion and regulation of technical training and education courses for training persons employed in or intending to be employed in commerce or industry;
+(a) the provision and conduct of technical education and training, and further education programs, for persons employed in or intending to be employed in commerce or industry;
 
-(b) the upgrading of the technical skills of the workforce through continuing education and training;
+[Act 24 of 2016 wef 03/10/2016]
 
-(c) the regulation and promotion of industry-based training and education in technical skills;
+(b) [Deleted by Act 24 of 2016 wef 03/10/2016]
 
-(d) the regulation of certification and standard of technical skills;
+(c) [Deleted by Act 24 of 2016 wef 03/10/2016]
 
-(e) the promotion and provision of consultancy services for training and education in technical skills; and
+(d) the provision of consultancy services, and the accrediting of programs and qualifications, for training and education in technical skills; and
 
-(f) the promotion of research in training and education in technical skills.
+[Act 24 of 2016 wef 03/10/2016]
+
+(e) cooperating and collaborating with the SkillsFuture Singapore Agency established by section 3 of the SkillsFuture Singapore Agency Act 2016, and the Singapore Workforce Development Agency established by section 3 of the Singapore Workforce Development Agency Act (Cap. 305D), in the discharge of their respective functions under those Acts.
+
+[Act 24 of 2016 wef 03/10/2016]
+
+(f) [Deleted by Act 24 of 2016 wef 03/10/2016]
 
 ### Powers
 
@@ -226,7 +232,9 @@ ESTABLISHMENT OF INSTITUTE
 
 (m) inspect, approve and register training institutions conducting or intending to conduct training courses in technical skills;
 
-(n) provide financial support and assistance for any research work relating to training and education in technical skills;
+(n) undertake surveys or carry out research about teaching and learning practices;
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (o) promote or undertake publicity in any form; and
 
@@ -562,9 +570,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the collection of fees, rates or charges and the award of scholarships and other financial assistance to persons attending training and education in technical skills;
 
-(b) the regulation and registration of training institutions;
+(b) [Deleted by Act 24 of 2016 wef 03/10/2016]
 
-(c) the regulation of examinations or tests to be conducted by any person for certification of technical skills;
+(c) [Deleted by Act 24 of 2016 wef 03/10/2016]
 
 (d) the registration of apprentices and the conduct and supervision and regulation of apprenticeship programs and schemes; and
 
@@ -623,3 +631,7 @@ This Legislative History is provided for the convenience of users of the Institu
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|8.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|3 October 2016|
