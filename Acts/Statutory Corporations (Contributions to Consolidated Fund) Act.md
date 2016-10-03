@@ -146,9 +146,9 @@ Competition Act (Chapter 50B)
 
 9A.
 
-Council for Private Education
+SkillsFuture Singapore Agency
 
-Private Education Act 2009 (Act 21 of 2009)
+SkillsFuture Singapore Agency Act 2016
 
 9B.
 
@@ -382,6 +382,8 @@ Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
 
+[Act 24 of 2016 wef 03/10/2016]
+
 [Act 23 of 2016 wef 01/10/2016]
 
 [Act 22 of 2016 wef 01/10/2016]
@@ -511,3 +513,7 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of First Reading|11 July 2016 (Bill No. 22/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 October 2016|
+|34.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|3 October 2016|
