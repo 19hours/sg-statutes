@@ -36,13 +36,13 @@
 
 - [11 Penalty for false return or information](#Penalty-for-false-return-or-information)
 
-- [12 Penalty for obtaining grants or loans by false or misleading statements](#Penalty-for-obtaining-grants-or-loans-by-false-or-misleading-statements)
+- [12 False or misleading information, statement or document, etc.](#False-or-misleading-information-statement-or-document-etc)
 
 - [13 Repayment](#Repayment)
 
 - [14 Offences by body corporate, etc.](#Offences-by-body-corporate-etc)
 
-- [15 Power to obtain information and call for returns](#Power-to-obtain-information-and-call-for-returns)
+- [15 Powers to verify information and call for returns](#Powers-to-verify-information-and-call-for-returns)
 
 - [16 Penalty for obstructing Agency in carrying out its duties](#Penalty-for-obstructing-Agency-in-carrying-out-its-duties)
 
@@ -56,9 +56,9 @@
 
 - [21 Annual report](#Annual-report)
 
-- [22 Preservation of secrecy](#Preservation-of-secrecy)
+- [22 (Repealed)](#Repealed)
 
-- [23 Public servants](#Public-servants)
+- [23 (Repealed)](#Repealed)
 
 - [24 Priority in case of bankruptcy or winding up](#Priority-in-case-of-bankruptcy-or-winding-up)
 
@@ -96,7 +96,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Agency” means the Singapore Workforce Development Agency established under the Singapore Workforce Development Agency Act (Cap. 305D);
+“Agency” means the SkillsFuture Singapore Agency established by section 3 of the SkillsFuture Singapore Agency Act 2016;
+
+[Act 24 of 2016 wef 03/10/2016]
 
 “employee”, in relation to a month, means an employee rendering in that month services wholly or partly in Singapore and an employee who is on leave during that month where such leave is attributable to services rendered wholly or partly in Singapore in any previous month, but does not include any domestic servant, gardener or chauffeur, wholly and exclusively employed by an individual otherwise than in connection with his trade, business, profession or vocation;
 
@@ -168,7 +170,7 @@ SKILLS DEVELOPMENT FUND
 
 (b) all penalties, fines and costs recovered from proceedings under this Act;
 
-(c) all sums received for the composition of any offence under section 17;
+(c) [Deleted by Act 24 of 2016 wef 03/10/2016]
 
 (d) all moneys contributed by the Government to the Fund under section 6 and such other contributions to the Fund as the Minister may specify from moneys provided by Parliament;
 
@@ -210,11 +212,9 @@ SKILLS DEVELOPMENT FUND
 
 ### Transfer to Agency of moneys in Fund and administration of Fund
 
-8\.—(1) On 1st September 20031, all moneys in and belonging to the Fund and all assets, interests, rights, privileges, liabilities and obligations relating to the Fund shall be transferred to and shall vest in the Agency without further assurance.
+8\. 
 
-1Date of commencement of the Singapore Workforce Development Agency Act 2003 (Act 14 of 2003).
-
-[14/2003]
+—(1) [Deleted by Act 24 of 2016 wef 03/10/2016]
 
 (2) The Agency shall administer the Fund in accordance with the provisions of this Act and shall collect the skills development levy and disburse grants and loans from the Fund for the purposes of this Act.
 
@@ -288,11 +288,15 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 [19/91]
 
-### Penalty for obtaining grants or loans by false or misleading statements
+### False or misleading information, statement or document, etc.
 
-12\. Any person who obtains payment of any grant or loan from the Fund by means of any false or misleading statement or any document that is false or misleading in any particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+12\.—(1) A person must not in relation to the person’s application, or in support of an application by another, for any incentive, grant or loan from the Agency out of moneys in the Fund, make, or authorise the making of, a statement that the person knows to be false or misleading in any material particular.
 
-[14/2003]
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) To avoid doubt, it is not a defence in any proceeding for an offence under subsection (2) that the accused did not obtain any incentive, grant or loan from the Agency out of moneys in the Fund.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Repayment
 
@@ -310,31 +314,45 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 [35/96]
 
-### Power to obtain information and call for returns
+### Powers to verify information and call for returns
 
-15\.—(1) The Agency or any officer, employee or agent of the Agency authorised by the Agency in that behalf may by notice in writing require —
+15\.—(1) The powers under this section may be exercised only for the purpose of inquiring into or ascertaining —
 
-(a) any person to furnish, within the time specified in the notice, any information that may be required by the Agency or the officer, employee or agent of the Agency, as the case may be, for the purpose of inquiring into or ascertaining —
+(a) the liability of a person to pay the levy, or whether the levy has been duly paid;
 
-(i) the liability of such person or any other person to pay the levy, or whether the levy has been duly paid;
+(b) the truth or correctness of any statement made, or of any information given, by a person who applies or has applied for an incentive, a grant or a loan from the Agency out of moneys in the Fund; or
 
-(ii) the truth or correctness of any statement which has been made, or of any information which has been given, by a person who has applied to the Agency for a grant or loan from the Fund; or
+(c) whether any incentive, grant or loan from the Agency out of moneys in the Fund has been properly applied by the person to whom the incentive, grant or loan is given.
 
-(iii) whether any grant or loan from the Fund has been properly applied by the person to whom the grant or loan has been made; and
+(2) The Agency, or an employee or agent of the Agency duly authorised by the Agency for the purposes of this section, may, at any reasonable time, do any of the following, without involving any search of any property or person:
 
-(b) any employer, within the time specified in the notice, to complete and deliver to the Agency or the officer, employee or agent of the Agency, as the case may be, any return specified therein.
+(a) enter any premises;
 
-[35/96; 14/2003]
+(b) photograph or film, or make audio recordings or make sketches of, any part of the premises or anything at the premises;
 
-(2) The Agency or any officer, employee or agent of the Agency authorised by the Agency in that behalf shall at all times have full and free access to all lands, buildings, places, books, documents and other papers for any of the purposes of this Act or any regulations made thereunder and may for any such purpose inspect, make copies of or extracts from such books, documents or papers or take possession of any such books, documents or papers if, in its or his opinion —
+(c) require any person in the premises to furnish or grant access to, without charge, any document or information reasonably required for any purpose in subsection (1);
 
-(a) the inspection or copying of or extraction from such books, documents or papers cannot reasonably be performed without taking possession thereof;
+(d) inspect and make copies of or take extracts from any such document;
 
-(b) the books, documents or papers may be interfered with or destroyed unless possession thereof is taken; or
+(e) take possession of such a document if, in the opinion of the Agency or the Agency’s employee or agent —
 
-(c) the books, documents or papers may be required as evidence in any proceeding instituted or commenced for any of the purposes of, or in connection with, this Act or any regulations made thereunder.
+(i) the inspection or copying of or extraction from the document cannot reasonably be performed without taking possession;
 
-[35/96; 14/2003]
+(ii) the document may be interfered with or destroyed unless possession is taken; or
+
+(iii) the document may be required as evidence in any proceedings instituted or commenced for any of the purposes of, or in connection with, this Act;
+
+(f) require any person to furnish, within the time specified in the notice, any information that may be required, or to complete and deliver any return specified.
+
+(3) The power to require a person to furnish any document or information under subsection (2)(c) includes the power —
+
+(a) to require the person, or any person who is or was an officer or employee of that person, to provide an explanation of the document or information;
+
+(b) if the document or information is not furnished, to require the person to state, to the best of the person’s knowledge and belief, where it is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Agency in legible form.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Penalty for obstructing Agency in carrying out its duties
 
@@ -348,9 +366,11 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 [19/91; 35/96; 14/2003]
 
-(2) All sums received for the composition of any offence under this section shall be paid into the Fund.
+(2) All sums received for the composition of any offence under this section shall be paid into the Consolidated Fund.
 
 [19/91]
+
+[Act 24 of 2016 wef 03/10/2016]
 
 ### Consent of Public Prosecutor
 
@@ -388,21 +408,9 @@ shall be guilty of an offence and shall be liable on conviction to a penalty equ
 
 [35/96; 14/2003]
 
-### Preservation of secrecy
+22\. [Repealed by Act 24 of 2016 wef 03/10/2016]
 
-22\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a member, employee or agent of the Agency shall disclose to any person any information relating to the affairs of the Agency or of any person which he has acquired in the performance of his duties or the exercise of his functions.
-
-[19/91; 14/2003]
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[19/91]
-
-### Public servants
-
-23\. The members, employees and agents of the Agency shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
-
-[19/91; 14/2003]
+23\. [Repealed by Act 24 of 2016 wef 03/10/2016]
 
 ### Priority in case of bankruptcy or winding up
 
@@ -589,3 +597,7 @@ This Legislative History is provided for the convenience of users of the Skills 
 ||Date of commencement|2 January 2011|
 |16.|**2012 Revised Edition—Skills Development Levy Act (Chapter 306)**|
 ||Date of operation|31 May 2012|
+|17.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|3 October 2016|
