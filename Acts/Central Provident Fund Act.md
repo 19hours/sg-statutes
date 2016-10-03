@@ -7372,7 +7372,9 @@ the applicable amount less —
 
 (10) Competition Commission of Singapore.
 
-(11) Council for Private Education.
+(11) SkillsFuture Singapore Agency.
+
+[Act 24 of 2016 wef 03/10/2016]
 
 (11A) Council for Estate Agencies.
 
@@ -8545,6 +8547,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|11 July 2016 (Bill No. 22/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 October 2016|
+|205.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|3 October 2016|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
