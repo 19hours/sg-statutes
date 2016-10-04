@@ -196,9 +196,11 @@ ESTABLISHMENT OF INSTITUTE
 
 [Act 24 of 2016 wef 03/10/2016]
 
-(e) cooperating and collaborating with the SkillsFuture Singapore Agency established by section 3 of the SkillsFuture Singapore Agency Act 2016, and the Singapore Workforce Development Agency established by section 3 of the Singapore Workforce Development Agency Act (Cap. 305D), in the discharge of their respective functions under those Acts.
+(e) cooperating and collaborating with the SkillsFuture Singapore Agency established by section 3 of the SkillsFuture Singapore Agency Act 2016, and the Workforce Singapore Agency established by section 3 of the Workforce Singapore Agency Act (Cap. 305D), in the discharge of their respective functions under those Acts.
 
 [Act 24 of 2016 wef 03/10/2016]
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (f) [Deleted by Act 24 of 2016 wef 03/10/2016]
 
@@ -635,3 +637,7 @@ This Legislative History is provided for the convenience of users of the Institu
 ||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|3 October 2016|
+|9.|**Act 20 of 2016—Singapore Workforce Development Agency (Amendment) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 19/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|4 October 2016|
