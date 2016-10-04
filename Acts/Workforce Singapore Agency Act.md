@@ -1,4 +1,4 @@
-**Singapore Workforce Development Agency Act**
+**Workforce Singapore Agency Act**
 
 **(CHAPTER 305D)**
 
@@ -14,7 +14,7 @@
 
 [**Part II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AGENCY**](#Part-II)
 
-- [3 Establishment and incorporation of Singapore Workforce Development Agency](#Establishment-and-incorporation-of-Singapore-Workforce-Development-Agency)
+- [3 Establishment and incorporation of Workforce Singapore Agency](#Establishment-and-incorporation-of-Workforce-Singapore-Agency)
 
 - [4 Common seal](#Common-seal)
 
@@ -23,6 +23,8 @@
 - [6 Chairman may delegate functions](#Chairman-may-delegate-functions)
 
 - [7 Term of office of members](#Term-of-office-of-members)
+
+- [7A Chairman and Deputy Chairman](#Chairman-and-Deputy-Chairman)
 
 - [8 Temporary Chairman, etc.](#Temporary-Chairman-etc)
 
@@ -100,7 +102,7 @@
 
 - [40 Symbol or representation of Agency](#Symbol-or-representation-of-Agency)
 
-- [41 Power to obtain information and call for returns](#Power-to-obtain-information-and-call-for-returns)
+- [41 Powers to verify information collected or for grants, etc.](#Powers-to-verify-information-collected-or-for-grants-etc)
 
 - [42 Penalty for obstructing Agency in carrying out its duties](#Penalty-for-obstructing-Agency-in-carrying-out-its-duties)
 
@@ -108,7 +110,9 @@
 
 - [44 Preservation of secrecy](#Preservation-of-secrecy)
 
-- [45 Corporate offenders and unincorporated associations](#Corporate-offenders-and-unincorporated-associations)
+- [45 Offences by corporations](#Offences-by-corporations)
+
+- [45A Offences by unincorporated associations or partnerships](#Offences-by-unincorporated-associations-or-partnerships)
 
 - [46 Jurisdiction of court](#Jurisdiction-of-court)
 
@@ -124,7 +128,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-# Singapore Workforce Development Agency Act
+# Workforce Singapore Agency Act
 
 (CHAPTER 305D)
 
@@ -134,7 +138,9 @@ REVISED EDITION 2004
 
 (31st December 2004)
 
-An Act to establish and incorporate the Singapore Workforce Development Agency, to provide for its functions and powers, and for matters connected therewith.
+An Act to establish and incorporate the Workforce Singapore Agency, to provide for its functions and powers, and for matters connected therewith.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 [1st September 2003]
 
@@ -144,19 +150,27 @@ PRELIMINARY
 
 ### Short title
 
-1\. This Act may be cited as the Singapore Workforce Development Agency Act.
+1\. This Act may be cited as the Workforce Singapore Agency Act.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“Agency” means the Singapore Workforce Development Agency established under section 3;
+“Agency” means the Workforce Singapore Agency established under section 3;
 
-“Chairman” means the Chairman of the Agency and includes any temporary Chairman of the Agency;
+[Act 20 of 2016 wef 04/10/2016]
+
+“Chairman” means the member of the Agency who is appointed under section 7A as the Chairman of the Agency and includes any temporary Chairman of the Agency;
+
+[Act 20 of 2016 wef 04/10/2016]
 
 “chief executive” means the chief executive of the Agency appointed under section 16 and includes any person acting in that capacity;
 
-“Deputy Chairman” means the Deputy Chairman of the Agency and includes any temporary Deputy Chairman of the Agency;
+“Deputy Chairman” means the member of the Agency who is appointed under section 7A as the Deputy Chairman of the Agency and includes any temporary Deputy Chairman of the Agency;
+
+[Act 20 of 2016 wef 04/10/2016]
 
 “member” means any member of the Agency and includes any temporary member of the Agency;
 
@@ -168,15 +182,27 @@ PRELIMINARY
 
 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AGENCY
 
-### Establishment and incorporation of Singapore Workforce Development Agency
+### Establishment and incorporation of Workforce Singapore Agency
 
-3\. There is hereby established a body to be known as the Singapore Workforce Development Agency which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
+3\.—(1) There is hereby established a body to be known as the Workforce Singapore Agency which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
 
 (a) suing and being sued;
 
 (b) acquiring, owning, holding and developing, or disposing of property, both movable and immovable; and
 
 (c) doing and suffering all such other acts or things as a body corporate may lawfully do and suffer.
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(2) The Agency may perform any of its functions or carry out any of its duties under the business name of Workforce Singapore, or another business name that the Minister from time to time allows.
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(3) The Agency must cause notice of every business name approved under subsection (2) to be published in theGazette; but failure to do so does not invalidate the approval or use of that name.
+
+[Act 20 of 2016 wef 04/10/2016]
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ### Common seal
 
@@ -192,15 +218,13 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AGENCY
 
 ### Constitution of Agency
 
-5\.—(1) The Agency shall consist of —
+5\.—(1) The Agency consists of at least 9 and not more than 15 members.
 
-(a) a Chairman;
+[Act 20 of 2016 wef 04/10/2016]
 
-(b) a Deputy Chairman; and
+(1A) Each member is to be appointed by the Minister by instrument in writing.
 
-(c) not less than 8 but not more than 16 other members,
-
-all of whom shall be appointed by the Minister.
+[Act 20 of 2016 wef 04/10/2016]
 
 (2) The Minister may appoint the chief executive to be a member.
 
@@ -220,6 +244,32 @@ all of whom shall be appointed by the Minister.
 
 (5) The Agency shall pay to the Chairman, the Deputy Chairman and other members such salaries, fees and allowances as the Minister may, from time to time, determine.
 
+### Chairman and Deputy Chairman
+
+7A\.—(1) The Minister may, by instrument in writing, appoint —
+
+(a) a member to be the Chairman of the Agency for such period as is specified in the instrument; and
+
+(b) a member (other than the Chairman of the Agency) to be the Deputy Chairman of the Agency for such period as is specified in the instrument.
+
+(2) The Chairman or Deputy Chairman holds office until —
+
+(a) his term of office as Chairman or Deputy Chairman (as the case may be) expires;
+
+(b) he ceases to hold office as a member of the Agency; or
+
+(c) the Minister terminates his appointment as Chairman or Deputy Chairman (as the case may be),
+
+whichever first happens.
+
+(3) The Deputy Chairman of the Agency has and may exercise all of the functions and powers of the Chairman in relation to a matter if —
+
+(a) the Chairman is unavailable; or
+
+(b) the Chairman is interested in the matter within the meaning of section 10.
+
+[Act 20 of 2016 wef 04/10/2016]
+
 ### Temporary Chairman, etc.
 
 8\. The Minister may appoint any person to be a temporary Chairman, temporary Deputy Chairman or temporary member during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of the Chairman, the Deputy Chairman or any member, as the case may be.
@@ -236,7 +286,9 @@ all of whom shall be appointed by the Minister.
 
 (4) All questions arising at any meeting shall be decided by a majority of votes of the members present and voting.
 
-(5) At any meeting of the Agency, the Chairman or, in his absence, the Deputy Chairman shall have a deliberative vote and, in the case of an equality of votes, he shall also have a casting vote.
+(5) At any meeting of the Agency, the Chairman or, in his absence, the Deputy Chairman or member elected under subsection (2) to preside, shall have a deliberative vote and, in the case of an equality of votes, he shall also have a casting vote.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (6) The validity of any proceedings of the Agency shall not be affected by any vacancy amongst its members or by any defect in the appointment of any member.
 
@@ -258,39 +310,61 @@ FUNCTIONS, DUTIES AND POWERS OF AGENCY
 
 11\.—(1) Subject to the provisions of this Act, the functions and duties of the Agency shall be —
 
-(a) to serve as the national body in the areas of adult continuing education and training, and the facilitation of employment and re-employment, and to advise and make recommendations to the Government on matters, measures and regulations connected with such areas, including the formulation of policies, and the provision of infrastructure and facilities in relation to such areas;
+(a) to promote and facilitate employment and re-employment in Singapore through services and facilities that help citizens and residents of Singapore find and keep jobs;
 
-(b) to promote, facilitate and assist in the development of adult continuing education and training so as to enhance the competitiveness and employability of the Singapore workforce;
+[Act 20 of 2016 wef 04/10/2016]
 
-(c) to collaborate with industries and economic agencies to identify and promote the enhancement of industry-specific skills;
+(b) to collaborate with and support employers, relevant representatives of commerce or industry and public sector agencies in Singapore —
 
-(d) to promote the development, competitiveness and employability of the Singapore workforce through co-ordination with economic agencies;
+(i) to identify and promote the enhancement of industry-specific skills;
 
-(e) to support, facilitate and assist in the re-employment of unemployed or retrenched persons through job referral, retraining, upgrading of skills and other employment facilitation efforts;
+(ii) to enhance individuals’ employability; and
 
-(f) to enhance, promote and support the use and improvement of best practices in the management of human capital and workforce skills development in Singapore;
+(iii) to increase workforce productivity and improve the international competitiveness of commerce and industry;
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(c) to promote and facilitate productive employment and employee career development, including through review and reallocation of job duties and tasks among employees (commonly called job redesign);
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(d) to promote and facilitate the adoption of best practices in the management of human capital in Singapore;
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(e) to advise and make recommendations to the Government on policies, measures and laws connected with the Agency’s functions under this Act or any other written law;
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(f) to cooperate and collaborate with the SkillsFuture Singapore Agency in the discharge of its functions under the SkillsFuture Singapore Agency Act 2016;
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (g) to encourage, promote and facilitate the development of the human resources industry in Singapore;
 
-(h) to promote, facilitate and assist in the identification, development and upgrading of skills and competencies required of the workforce to support Singapore’s economy;
+(h) to promote or undertake research in Singapore into matters relating to the Singapore workforce;
 
-(i) to support, direct, encourage and undertake research in adult continuing education and training;
+[Act 20 of 2016 wef 04/10/2016]
 
-(j) to direct, promote and facilitate the upgrading of adult continuing education and training infrastructure, and the upgrading of professional standards of adult trainers;
+(i) [Deleted by Act 20 of 2016 wef 04/10/2016]
 
-(k) to establish and implement regulatory policies, codes of practice, strategies, measures or any other requirements so as to enhance the professional standards of adult continuing education and training offered in Singapore;
+(j) [Deleted by Act 20 of 2016 wef 04/10/2016]
 
-(l) to administer programmes for adult continuing education and training;
+(k) [Deleted by Act 20 of 2016 wef 04/10/2016]
 
-(m) to undertake the promotion of lifelong learning and to create, foster and encourage public awareness and understanding of the importance of lifelong learning;
+(l) [Deleted by Act 20 of 2016 wef 04/10/2016]
 
-(n) to administer the Skills Development Fund in accordance with the Skills Development Levy Act (Cap. 306);
+(m) [Deleted by Act 20 of 2016 wef 04/10/2016]
+
+(n) [Deleted by Act 20 of 2016 wef 04/10/2016]
 
 (o) to provide financial support by way of grants, loans or otherwise so as to give effect to the functions and objects of the Agency;
 
 (p) to undertake, direct and support the analysis and dissemination of labour market information and trends to the public;
 
-(q) to represent the Government internationally in respect of matters relating to adult continuing education and training and public employment services; and
+(q) to represent the Government internationally in respect of matters relating to workforce development and public employment services; and
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (r) to carry out such other functions as are imposed upon the Agency by or under this Act or any other written law.
 
@@ -302,15 +376,33 @@ FUNCTIONS, DUTIES AND POWERS OF AGENCY
 
 12\. The Agency shall have power to do anything for the purpose of discharging its functions and duties under this Act or any other written law, or which is incidental or conducive to the discharge of those functions and duties and, in particular, may —
 
-(a) establish, administer and operate any scheme considered necessary or desirable for the development and upgrading of skills and expertise required of the workforce to support Singapore’s economy, the development and upgrading of adult continuing education and training, and the development and promotion of employment and re-employment facilitation efforts;
+(a) provide, or secure the provision of, employment and related services for assisting job seekers —
 
-(b) promote and undertake publicity in any form on matters relating to the training, continuing education and development of the Singapore workforce;
+(i) to decide what jobs, having regard to their capabilities, are or will be suitable for and available to them;
 
-(c) provide information resources on matters relating to adult continuing education and training;
+(ii) to decide what training or education is or will be required by, or available to, them in order to fit them for those jobs, and to obtain that training or education;
 
-(d) request information from and collaborate or co-operate with any person, whether in Singapore or elsewhere, on matters related to or connected with the development and upgrading of skills of the Singapore workforce, adult continuing education and training, employment facilitation and such other subject matter as may be necessary for the performance of the functions of the Agency;
+(iii) to enhance their employability; and
 
-(e) publish or sponsor the publication of periodicals, booklets and other written materials, and produce or sponsor the production of films and other audio-visual works, on matters relating to adult learning and continuing education and training;
+(iv) to otherwise find and keep a job with suitable employers;
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(b) provide, or secure the provision of, assistance to employers to source and recruit employees who meet their business needs;
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(c) develop and provide, or secure the provision of, and promote programmes for the purpose of cultivating progressive and productive workplaces, including enhancing job quality and job redesign;
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(d) publish or provide any information, or publish or sponsor the publication of works;
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(e) apply for, obtain and hold, whether on its own behalf or jointly with any other person, any intellectual property rights, and enter into agreements or arrangements for the commercial exploitation of those intellectual property rights, whether by assignment, licensing or otherwise;
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (f) collect, compile, analyse, publish or disseminate by any convenient means information of a statistical nature or otherwise concerning matters relating to the Agency’s functions;
 
@@ -320,17 +412,25 @@ FUNCTIONS, DUTIES AND POWERS OF AGENCY
 
 (i) initiate and undertake or enter into contractual consultancy, research and development projects in pursuance of its functions under this Act and conduct or commission research in pursuance of its functions under this Act;
 
-(j) act as agent for the Government or, with the approval of the Government, for any other person in the transaction of any business with a business enterprise in respect of loans or advances granted or debentures subscribed by the Government or such other person;
+(j) promote or undertake publicity in any form;
 
-(k) with the approval of the Minister, form or participate in the formation of any company;
+[Act 20 of 2016 wef 04/10/2016]
 
-(l) form or participate in any partnership or joint venture as a shareholder or partner or in any other capacity;
+(k) with the approval of the Minister, form or participate in the formation of any company, association or trust;
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(l) become a member of a company, association, trust or partnership;
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (m) provide technical, consultancy or advisory services to any Government agency or to any other person or body in Singapore or elsewhere on any matter related to or connected with the functions, objects or duties of the Agency;
 
 (n) become a member or affiliate of any international body, the functions, objects or duties of which are similar to those of the Agency;
 
-(o) enter into such contracts as may be necessary or expedient for the purpose of discharging its functions or duties;
+(o) enter into such contracts, agreements or arrangements as may be necessary or expedient for the purpose of discharging its functions or duties;
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (p) receive grants, donations or contributions from any source, or raise funds by all lawful means and apply such funds for any of its functions or duties;
 
@@ -398,7 +498,13 @@ PROVISIONS RELATING TO STAFF
 
 ### Public servants
 
-18\. All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+18\.—(1) All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(2) The members, officers and employees of the Agency are, in relation to their administration, collection and enforcement of payment of composition sums under section 48, deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to these persons even though they are not or were not in the employment of the Government.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ## PART V
 
@@ -422,7 +528,9 @@ FINANCIAL PROVISIONS
 
 ### All moneys recovered to be paid to Agency
 
-21\. All moneys recovered or charges or composition fines collected under this Act shall be paid into and form part of the moneys of the Agency.
+21\. All moneys recovered or charges collected (except composition sums under section 48) under this Act shall be paid into and form part of the moneys of the Agency.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ### Grants
 
@@ -430,13 +538,17 @@ FINANCIAL PROVISIONS
 
 ### Power to borrow
 
-23\. For the discharge of its functions or duties under this Act or any other written law, the Agency may, from time to time, raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
+23\. For the discharge of its functions or duties under this Act or any other written law, the Agency may, from time to time, raise loans from the Government or, with the approval of the Minister, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
 
 (a) mortgage, overdraft or otherwise;
 
 (b) charge, whether legal or equitable, on any property vested in the Agency or on any other revenue receivable by the Agency under this Act or any other written law; or
 
-(c) the creation and issue of debentures or bonds.
+(c) the creation and issue of debentures or bonds or any other instrument as the Minister may approve.
+
+[Act 20 of 2016 wef 04/10/2016]
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ### Issue of shares, etc.
 
@@ -502,7 +614,9 @@ FINANCIAL PROVISIONS
 
 (b) otherwise hinders, obstructs or delays the auditor or any person authorised by him in the performance of his duties or the exercise of his powers under this Act,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ### Presentation of financial statements and auditor’s report to Parliament
 
@@ -598,21 +712,41 @@ MISCELLANEOUS
 
 (2) Any person who uses a symbol or representation identical with that of the Agency, or which so resembles the Agency’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Power to obtain information and call for returns
+### Powers to verify information collected or for grants, etc.
 
-41\.—(1) The Agency or any officer, employee or agent of the Agency authorised by the Agency in that behalf may by notice in writing require any person to furnish, within the time specified in the notice, any information or document that may be required by the Agency or the officer, employee or agent of the Agency, as the case may be, for the purpose of inquiring into or ascertaining —
+41\.—(1) The powers under this section may be exercised only for the purpose of inquiring into or ascertaining —
 
-(a) the truth or correctness of any statement which has been made, or of any information which has been given, by a person who has applied for a grant or loan from the Agency; or
+(a) the truth or correctness of any statement made, or of any information given, by a person who applies or has applied for an incentive, a grant or a loan from the Agency; or
 
-(b) whether any grant or loan from the Agency has been properly applied by the person to whom the grant or loan has been made.
+(b) whether any incentive, grant or loan from the Agency has been properly applied by the person to whom the incentive, grant or loan is given.
 
-(2) The Agency or any officer, employee or agent of the Agency authorised by the Agency in that behalf shall at all times have full and free access to all lands, buildings, places, books, documents and other papers for any of the purposes of this Act and may for any such purpose inspect, make copies of or take extracts from such books, documents or papers, or take possession of any such books, documents or papers, if, in its or his opinion —
+(2) The Agency, or an officer, employee or agent of the Agency duly authorised by the Agency for the purposes of this section, may, at any reasonable time, do any of the following, without involving any search of any property or person:
 
-(a) the inspection or copying of or extraction from such books, documents or papers cannot reasonably be performed without taking possession thereof;
+(a) enter any premises;
 
-(b) the books, documents or papers may be interfered with or destroyed unless possession thereof is taken; or
+(b) photograph or film, or make audio recordings or make sketches of, any part of the premises or anything at the premises;
 
-(c) the books, documents or papers may be required as evidence in any proceedings instituted or commenced for any of the purposes of, or in connection with, this Act.
+(c) require any person in the premises to furnish or grant access to, without charge, any document or information reasonably required for any purpose in subsection (1);
+
+(d) inspect and make copies of or take extracts from any such document;
+
+(e) take possession of such a document if, in the opinion of the Agency or the Agency’s officer, employee or agent —
+
+(i) the inspection or copying of or extraction from the document cannot reasonably be performed without taking possession;
+
+(ii) the document may be interfered with or destroyed unless possession is taken; or
+
+(iii) the document may be required as evidence in any proceedings instituted or commenced for any of the purposes of, or in connection with, this Act.
+
+(3) The power to require a person to furnish any document or information under subsection (2)(c) includes the power —
+
+(a) to require the person, or any person who is or was an officer or employee of that person, to provide an explanation of the document or information;
+
+(b) if the document or information is not furnished, to require the person to state, to the best of the person’s knowledge and belief, where it is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Agency in legible form.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ### Penalty for obstructing Agency in carrying out its duties
 
@@ -620,13 +754,27 @@ MISCELLANEOUS
 
 ### False or misleading information, statement or document
 
-43\. Any person who —
+43\.—(1) Any person who —
 
-(a) provides information to the Agency or any officer or employee in connection with any function or duty of the Agency under this Act which is false or misleading in a material particular; or
+(a) provides information to the Agency or any officer or employee in connection with any function or duty of the Agency under this Act which is false or misleading in a material particular;
 
-(b) obtains payment from the Agency of any grant or loan under this Act or any other written law by means of any false or misleading statement or any document that is false or misleading in any particular,
+[Act 20 of 2016 wef 04/10/2016]
+
+(b) obtains payment from the Agency of any incentive, grant or loan under this Act or any other written law by means of any false or misleading statement or any document that is false or misleading in any particular; or
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(c) intentionally alters, suppresses or destroys any document or information which the person is required by the Agency under section 41 to furnish,
+
+[Act 20 of 2016 wef 04/10/2016]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 20 of 2016 wef 04/10/2016]
+
+(2) To avoid doubt, it is not a defence in any proceeding for an offence under subsection (1)(a) that the accused did not obtain any incentive, grant or loan from the Agency.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ### Preservation of secrecy
 
@@ -640,25 +788,115 @@ shall disclose any information relating to the affairs of the Agency or of any o
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Corporate offenders and unincorporated associations
+### Offences by corporations
 
-45\.—(1) Where an offence under this Act committed by a body corporate is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the body corporate, the officer as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+45\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
 
-(2) Where the affairs of the body corporate are managed by its members, subsection (1) shall apply in relation to the acts and defaults of a member in connection with his functions of management as if he were a director of the body corporate.
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of his actual or apparent authority; and
 
-(3) Where an offence under this Act committed by a partnership is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, a partner, the partner as well as the partnership shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+(b) the officer, employee or agent had that state of mind,
 
-(4) Where an offence under this Act committed by an unincorporated association (other than a partnership) is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, an officer of the association or a member of its governing body, the officer or member as well as the association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+is evidence that the corporation had that state of mind.
 
-(5) In this section —
+(2) Where a corporation commits an offence under this Act, a person —
 
-“officer” —
+(a) who is —
 
-(a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body corporate or person purporting to act in any such capacity; or
+(i) an officer of the corporation, or a member of a corporation whose affairs are managed by its members; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to that of president, secretary or member of a committee;
+(ii) an individual who is involved in the management of the corporation and is in a position to influence the conduct of the corporation in relation to the commission of the offence; and
 
-“partner” includes a person purporting to act as a partner.
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or
+
+(iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of the same offence as is the corporation, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (1) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.
+
+(6) In this section —
+
+“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes any person purporting to act in any such capacity;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 20 of 2016 wef 04/10/2016]
+
+### Offences by unincorporated associations or partnerships
+
+45A\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or the partnership engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the employee or agent had that state of mind,
+
+is evidence that the unincorporated association or partnership had that state of mind.
+
+(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the unincorporated association or a member of its governing body;
+
+(ii) a partner in the partnership; or
+
+(iii) an individual who is involved in the management of the unincorporated association or partnership and who is in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or
+
+(iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (1) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.
+
+(6) In this section —
+
+“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —
+
+(a) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and
+
+(b) any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ### Jurisdiction of court
 
@@ -682,9 +920,19 @@ not less than 10 clear days before the commencement of the proceedings.
 
 ### Composition of offences
 
-48\.—(1) The chief executive or any officer authorised by him may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding $2,000.
+48\.—(1) The chief executive, or an employee of the Agency authorised in writing by the Agency, may compound any offence under this Act that is prescribed under subsection (3) as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
+
+(b) $2,000.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
+
+(2A) All sums collected under this section are to be paid into the Consolidated Fund.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (3) The Agency may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded.
 
@@ -756,9 +1004,11 @@ National Skills Recognition System (NSRS) Centre.
 
 ## LEGISLATIVE HISTORY
 
-Singapore Workforce Development Agency Act
+Workforce Singapore Agency Act
 
 (CHAPTER 305D)
+
+formerly known as the Singapore Workforce Development Agency Act
 
 This Legislative History is provided for the convenience of users of the Singapore Workforce Development Agency Act. It is not part of the Act.
 
@@ -782,3 +1032,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 19/2009 published on 15 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
+|5.|**Act 20 of 2016—Singapore Workforce Development Agency (Amendment) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 19/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|4 October 2016|
