@@ -230,7 +230,7 @@ Date of Commencement: 3rd October 2016 Parts 1 to 8, sections 71(1)(b), (c), (d)
 
 Date of Commencement: 4th October 2016 Sections 71(1)(a) and 71(2)
 
-An Act to give effect to the International Convention for the Suppression of Acts of Nuclear Terrorism and to provide for connected matters.
+An Act to establish the SkillsFuture Singapore Agency and to make consequential and related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
 
@@ -240,7 +240,7 @@ PRELIMINARY
 
 ### Short title and commencement
 
-1\. This Act is the Terrorism (Suppression of Misuse of Radioactive Material) Act 2017 and comes into operation on a date that the Minister appoints by notification in theGazette.
+1\. This Act is the SkillsFuture Singapore Agency Act 2016 and comes into operation on a date that the Minister appoints by notification in theGazette.
 
 ### Interpretation
 
@@ -300,7 +300,11 @@ the provider of the adult education or further education is entitled, under the 
 
 “subdelegate” means a person to whom a delegate under section 36(2) further delegates the performance or exercise of any of the Agency’s functions or powers;
 
-“transfer date” means the date of commencement of Part 8.
+“transfer date” means the date of commencement of Part 8;
+
+“Workforce Singapore Agency” means the SWDA renamed as the Workforce Singapore Agency by the Singapore Workforce Development Agency (Amendment) Act 2016.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 ## PART 2
 
@@ -362,7 +366,9 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF AGENCY
 
 (ii) the Skills Development Fund in accordance with the Skills Development Levy Act (Cap. 306);
 
-(n) to cooperate and collaborate with the Singapore Workforce Development Agency in the discharge of its functions under the Singapore Workforce Development Agency Act (Cap. 305D);
+(n) to cooperate and collaborate with the Workforce Singapore Agency in the discharge of its functions under the Workforce Singapore Agency Act (Cap. 305D);
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (o) to perform such other functions as may be conferred on the Agency by any other Act.
 
