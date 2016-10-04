@@ -7498,7 +7498,9 @@ the applicable amount less —
 
 (64) Singapore Tourism Board.
 
-(65) Singapore Workforce Development Agency.
+(65) Workforce Singapore Agency.
+
+[Act 20 of 2016 wef 04/10/2016]
 
 (66) Specialist Accreditation Board.
 
@@ -8551,6 +8553,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|3 October 2016|
+|206.|**Act 20 of 2016—Singapore Workforce Development Agency (Amendment) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 19/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|4 October 2016|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
