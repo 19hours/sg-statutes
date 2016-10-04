@@ -360,9 +360,9 @@ Singapore Tourism Board Act (Chapter 305B)
 
 40.
 
-Singapore Workforce Development Agency
+Workforce Singapore Agency
 
-Singapore Workforce Development Agency Act 2003 (Act 14 of 2003)
+Workforce Singapore Agency Act (Chapter 305D)
 
 41.
 
@@ -381,6 +381,8 @@ Traditional Chinese Medicine Practitioners Act (Chapter 333A)
 Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
+
+[Act 20 of 2016 wef 04/10/2016]
 
 [Act 24 of 2016 wef 03/10/2016]
 
@@ -517,3 +519,7 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|3 October 2016|
+|35.|**Act 20 of 2016—Singapore Workforce Development Agency (Amendment) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 19/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|4 October 2016|
