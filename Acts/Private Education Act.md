@@ -12,81 +12,15 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II COUNCIL FOR PRIVATE EDUCATION**](#Part-II)
+[**Part II ADMINISTRATION OF ACT**](#Part-II)
 
-[**Division 1  Establishment, incorporation and constitution of Council**](#Division-1--Establishment-incorporation-and-constitution-of-Council)
+- [3 Agency to administer Act](#Agency-to-administer-Act)
 
-- [3 Establishment and incorporation of Council for Private Education](#Establishment-and-incorporation-of-Council-for-Private-Education)
+- [4 Functions of Agency](#Functions-of-Agency)
 
-- [4 Common seal](#Common-seal)
+- [5 Committee for Private Education](#Committee-for-Private-Education)
 
-- [5 Constitution of Council](#Constitution-of-Council)
-
-[**Division 2  Functions, duties and powers of Council**](#Division-2--Functions-duties-and-powers-of-Council)
-
-- [6 Functions and duties of Council](#Functions-and-duties-of-Council)
-
-- [7 Powers of Council](#Powers-of-Council)
-
-- [8 Directions by Minister](#Directions-by-Minister)
-
-- [9 Appointment of committees and delegation](#Appointment-of-committees-and-delegation)
-
-[**Division 3  Provisions relating to staff of Council**](#Division-3--Provisions-relating-to-staff-of-Council)
-
-- [10 Appointment of Chief Executive and other employees, etc.](#Appointment-of-Chief-Executive-and-other-employees-etc)
-
-- [11 Protection from personal liability](#Protection-from-personal-liability)
-
-- [12 Public servants](#Public-servants)
-
-[**Division 4  Financial provisions**](#Division-4--Financial-provisions)
-
-- [13 Financial year](#Financial-year)
-
-- [14 Annual estimates](#Annual-estimates)
-
-- [15 Moneys recovered or collected by Council](#Moneys-recovered-or-collected-by-Council)
-
-- [16 Grants](#Grants)
-
-- [17 Power to borrow](#Power-to-borrow)
-
-- [18 Issue of shares, etc.](#Issue-of-shares-etc)
-
-- [19 Bank account](#Bank-account)
-
-- [20 Application of moneys](#Application-of-moneys)
-
-- [21 Investment power](#Investment-power)
-
-- [22 Financial provisions](#Financial-provisions)
-
-[**Division 5  Transfer of property, assets, liabilities and employees**](#Division-5--Transfer-of-property-assets-liabilities-and-employees)
-
-- [23 Transfer to Council of property, assets and liabilities](#Transfer-to-Council-of-property-assets-and-liabilities)
-
-- [24 Transfer of employees](#Transfer-of-employees)
-
-- [25 Service rights, etc., of transferred employees to be preserved](#Service-rights-etc-of-transferred-employees-to-be-preserved)
-
-- [26 No benefits in respect of abolition or reorganisation of office](#No-benefits-in-respect-of-abolition-or-reorganisation-of-office)
-
-- [27 Existing contracts](#Existing-contracts)
-
-- [28 Continuation and completion of disciplinary proceedings and other legal proceedings](#Continuation-and-completion-of-disciplinary-proceedings-and-other-legal-proceedings)
-
-- [29 Misconduct or neglect of duty by employee before transfer](#Misconduct-or-neglect-of-duty-by-employee-before-transfer)
-
-- [30 No breach or default, etc., because of transfer](#No-breach-or-default-etc-because-of-transfer)
-
-[**Division 6  General**](#Division-6--General)
-
-- [31 Preservation of secrecy](#Preservation-of-secrecy)
-
-- [32 Annual report](#Annual-report)
-
-- [33 Symbol, design or representation of Council](#Symbol-design-or-representation-of-Council)
+- [6 Financial penalties, etc., payable to Consolidated Fund](#Financial-penalties-etc-payable-to-Consolidated-Fund)
 
 [**Part III REGULATION OF PRIVATE EDUCATION INSTITUTIONS**](#Part-III)
 
@@ -210,7 +144,9 @@ REVISED EDITION 2011
 
 (31st December 2011)
 
-An Act to establish and incorporate the Council for Private Education, to provide for its functions, duties and powers, to provide for the regulation and accreditation of private education institutions so as to ensure the provision of quality education thereat and for matters connected therewith.
+An Act to provide for the regulation and accreditation of private education institutions so as to ensure the provision of quality education thereat and for matters connected therewith.
+
+[Act 24 of 2016 wef 04/10/2016]
 
 [1st December 2009: with the exception of Parts III to VII ;
 
@@ -338,353 +274,67 @@ but does not include any private education institution that the Minister declare
 
 ## PART II
 
-COUNCIL FOR PRIVATE EDUCATION
+ADMINISTRATION OF ACT
 
-Division 1 —
+[Act 24 of 2016 wef 04/10/2016]
 
-Establishment, incorporation and constitution of Council
+### Agency to administer Act
 
-### Establishment and incorporation of Council for Private Education
+3\. The Agency is responsible for the administration and enforcement of this Act.
 
-3\. There is hereby established a body to be known as the Council for Private Education which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
+[Act 24 of 2016 wef 04/10/2016]
 
-(a) suing and being sued;
+### Functions of Agency
 
-(b) acquiring, owning, holding and developing or disposing of property, both movable and immovable; and
+4\.—(1) Without prejudice to section 5 of the SkillsFuture Singapore Agency Act 2016, it is the function of the Agency under this Act —
 
-(c) doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.
+(a) to register persons who provide or offer to provide private education in Singapore or elsewhere, and to assess and reassess them from time to time;
 
-### Common seal
+(b) to otherwise regulate persons who offer or provide any service relating, directly or indirectly, to private education;
 
-4\.—(1) The Council shall have a common seal and such seal may, from time to time, be broken, changed, altered or made anew as the Council thinks fit.
+(c) to promote and facilitate the development of the private education sector in Singapore;
 
-(2) All deeds and other documents requiring the seal of the Council shall be sealed with the common seal of the Council.
+(d) to establish or support accreditation or certification schemes and other measures to enhance the standards of the private education industry or the education industry in Singapore generally;
 
-(3) Every instrument to which the common seal is affixed shall be signed by any 2 members generally or specially authorised by the Council for the purpose, or by one member and the Chief Executive.
+(e) to facilitate the improvement of private education in Singapore of these courses; and
 
-(4) The Council may, by resolution or otherwise in writing, appoint any officer of the Council or any other agent either generally or in any particular case to execute or sign on behalf of the Council any agreement or other instrument not under seal in relation to any matter coming within the powers of the Council.
+(f) to facilitate public availability of meaningful and accurate information relating to —
 
-(5) All courts, judges and persons acting judicially shall take judicial notice of the common seal of the Council affixed to any document and shall presume that it was duly affixed.
+(i) registered private education institutions and persons regulated under this Act, including their compliance with the requirements of this Act;
 
-### Constitution of Council
+(ii) access of students or prospective students to dispute resolution processes; and
 
-5\.—(1) The Council shall consist of the following members:
+(iii) the private education industry in Singapore.
 
-(a) a Chairman; and
+(2) In discharging its functions under this Act, the Agency is to have regard —
 
-(b) such other members, not being less than 5 or more than 17, as the Minister may from time to time determine.
+(a) to the financial capability, and the adequacy and quality of the staffing and resources, of any registered private education institution to achieve the stated outcomes for the students who take the courses at the institution;
 
-(2) The Second Schedule shall have effect with respect to the Council, its members and its proceedings.
+(b) to ensuring that minimum standards are maintained by providers of private education that the Agency has registered;
 
-Division 2 —
+(c) to securing the availability of meaningful and accurate information to the public about —
 
-Functions, duties and powers of Council
+(i) courses offered by registered private education institutions and the conditions attaching to enrolment in the courses, to enable prospective students to make informed decisions about enrolling in the courses; and
 
-### Functions and duties of Council
+(ii) registered private education institutions and their compliance with the requirements of this Act; and
 
-6\.—(1) Subject to the provisions of this Act, the functions and duties of the Council shall be —
+(d) to ensuring access of students to timely and appropriate dispute resolution processes, in particular overseas students, having regard especially to their status as persons only temporarily in Singapore.
 
-(a) to register and regulate private education institutions and persons who offer or provide any service relating, whether directly or indirectly, to private education;
+[Act 24 of 2016 wef 04/10/2016]
 
-(b) to encourage, promote and facilitate the development of the private education sector in Singapore;
+### Committee for Private Education
 
-(c) to establish, implement or support quality accreditation or certification schemes and other measures to enhance the standards of the private education sector, or the education sector generally, in Singapore as the Council deems appropriate;
+5\. Without prejudice to section 34 of the SkillsFuture Singapore Agency Act 2016, the Agency may appoint a committee, to be known as the Committee for Private Education, to which the Agency may delegate the exercise of any of its powers under this Act.
 
-(d) to publish and disseminate information on matters relating to the Council’s functions and duties;
+[Act 24 of 2016 wef 04/10/2016]
 
-(e) to advise the Government or other public authority on national needs and policies in respect of private education matters generally, and to implement national policies relating to private education or to persons regulated under this Act; and
+### Financial penalties, etc., payable to Consolidated Fund
 
-(f) to perform such other functions and discharge such other duties as may be conferred on the Council by or under this Act or any other written law.
+6\.—(1) All financial penalties imposed under section 48 or 64, and all composition sums collected under section 67, are to be paid into the Consolidated Fund.
 
-(2) In addition to the functions and duties imposed under subsection (1), the Council may undertake such other functions and duties (not incompatible with those specified in that subsection) as the Minister may, by order published in theGazette, assign to the Council and in so doing —
+(2) All fees and other moneys collected under this Act are to be paid to the Agency.
 
-(a) the Council shall be deemed to be fulfilling the purposes of this Act; and
-
-(b) the provisions of this Act shall apply to the Council in respect of such functions and duties.
-
-(3) Nothing in this section shall be construed as imposing on the Council, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which it would not otherwise be subject.
-
-### Powers of Council
-
-7\.—(1) Subject to the provisions of this Act, the Council shall have power to do anything for the purpose of performing its functions and discharging its duties under this Act or any other written law, or which is incidental or conducive to the performance and discharge of those functions and duties and, in particular, may —
-
-(a) design and administer systems for the registration and regulation of private education institutions and persons who offer or provide any service relating, whether directly or indirectly, to private education;
-
-(b) develop codes of practice relating to content or technical standards for private education services, and monitor compliance with such codes;
-
-(c) engage in research, development studies or technical co-operation projects relating to or connected with the functions and duties of the Council;
-
-(d) specify, by notification in theGazette, all the accreditation, certification or inspection marks of the Council for use in relation to any function or duty of the Council, and control the use of such marks;
-
-(e) enter into such contracts as may be necessary or expedient for the purpose of discharging the functions and duties of the Council;
-
-(f) acquire or dispose of, in accordance with the provisions of this Act, any property, whether movable or immovable, which the Council thinks necessary or expedient for the purpose of carrying out its functions or duties;
-
-(g) with the approval of the Minister, form or participate in the formation of any company, partnership or joint venture as a shareholder or partner or in any other capacity and to share profits;
-
-(h) become a member or an affiliate of any international body, the functions or duties of which are similar to those of the Council;
-
-(i) whether by itself or in association with any other person, provide to any person in Singapore or elsewhere consultancy, technical, managerial or other services or products in any area in which the Council has skill or experience;
-
-(j) charge fees or commissions for services rendered by the Council or for the use of any facilities of the Council;
-
-(k) receive grants or contributions from any source, or raise funds by all lawful means and apply such funds for any of the functions and duties of the Council;
-
-(l) grant or guarantee loans to officers or employees of the Council for any purpose specifically approved by the Council;
-
-(m) provide recreational facilities and promote recreational activities for, and activities conducive to, the welfare of officers and employees of the Council and members of their families;
-
-(n) provide training, whether by itself or with the co-operation of other persons as the Council thinks fit, for the officers or employees of the Council or others concerned with private education services and to award scholarships or otherwise pay for such training;
-
-(o) lease, let, develop or otherwise utilise any property movable or immovable, vested in or acquired by the Council on such terms and conditions as the Council thinks fit; and
-
-(p) do anything incidental to any of its functions, duties or powers.
-
-(2) This section shall not be construed as limiting any power of the Council conferred by or under any other written law.
-
-(3) The Council shall furnish the Minister information with respect to its property and activities in such manner and at such times as the Minister may require.
-
-### Directions by Minister
-
-8\. The Minister may give to the Council such directions, not inconsistent with the provisions of this Act, as to the performance of its functions, the discharge of its duties and the exercise of its powers under this Act or any other written law as the Minister may consider necessary, and the Council shall give effect to all such directions.
-
-### Appointment of committees and delegation
-
-9\.—(1) The Council may appoint from among its own members or from other persons such number of committees as it thinks fit for purposes which, in the opinion of the Council, would be more expediently carried out or managed by means of such committees.
-
-(2) The Council may, from time to time, alter or discharge any committee appointed under subsection (1), and define or vary the terms of reference of the committee.
-
-(3) Subject to the provisions of this Act and to the control of the Council, each committee appointed under subsection (1) may regulate its procedure in such manner as the committee thinks fit.
-
-(4) The Council may, subject to such conditions or restrictions as it thinks fit, delegate —
-
-(a) to any of its members, including the Chairman and Deputy Chairman;
-
-(b) to its Chief Executive, or any of its officers or employees;
-
-(c) to any committee appointed under subsection (1); or
-
-(d) to any other person as it thinks fit,
-
-any of its functions, duties or powers under this Act or any other written law, except the powers to make subsidiary legislation and the power of delegation conferred by this subsection.
-
-(5) Any function, duty or power delegated under subsection (4) to any committee or person may be performed or exercised by the committee or person in the name and on behalf of the Council.
-
-(6) No delegation under this section shall prevent the performance, discharge or exercise of any function, duty or power by the Council.
-
-Division 3 —
-
-Provisions relating to staff of Council
-
-### Appointment of Chief Executive and other employees, etc.
-
-10\.—(1) The Council shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Council may determine.
-
-(2) The Chief Executive shall —
-
-(a) be known by such designation as the Council may determine;
-
-(b) be responsible to the Council for the proper administration and management of the functions, duties and affairs of the Council in accordance with the policy laid down by the Council; and
-
-(c) not be removed from office without the consent of the Minister.
-
-(3) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to discharge his duties, another person may be appointed by the Council to act in the place of the Chief Executive during any such period of absence from duty.
-
-(4) The Council may, from time to time, appoint or employ on such terms and conditions as the Council may determine such officers, employees, consultants and agents as it thinks fit for the effective performance of its functions and discharge of its duties under this Act or any other written law.
-
-### Protection from personal liability
-
-11\.—(1) No suit or other legal proceedings shall lie personally against any member, officer, employee or committee member of the Council or other person acting under the direction of the Council for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
-
-(2) Where the Council provides a service to the public whereby information is supplied to the public pursuant to any written law, neither any of its members, officers, employees nor committee members involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing therein or however caused if made in good faith and in the ordinary course of the discharge of the duties of such member, officer, employee or committee member.
-
-### Public servants
-
-12\. All members, officers and employees of the Council and all inspectors shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
-
-Division 4 —
-
-Financial provisions
-
-### Financial year
-
-13\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on 1st December 2009 and end on 31st March of the succeeding year.
-
-### Annual estimates
-
-14\.—(1) The Council shall, in every financial year, prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Council for the ensuing financial year.
-
-(2) Supplementary estimates may be adopted by the Council at any of its meetings.
-
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Council, be sent immediately to the Minister.
-
-(4) The Minister may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by him to the Council, and the Council shall be bound thereby.
-
-(5) Notwithstanding any provision of this section, the Council may transfer all or any part of moneys assigned to one item of expenditure to any item under the same head of expenditure in any estimates approved by the Minister.
-
-### Moneys recovered or collected by Council
-
-15\. All moneys recovered, or charges, composition sums or financial penalties collected, under this Act shall be paid into and form part of the moneys of the Council.
-
-### Grants
-
-16\. For the purpose of enabling the Council to perform its functions and discharge its duties under this Act or any other written law, the Minister may, from time to time, make grants to the Council of such sums of money, as the Minister may determine, out of moneys to be provided by Parliament.
-
-### Power to borrow
-
-17\.—(1) For the performance of its functions or discharge of its duties under this Act or any other written law, the Council may, from time to time, raise loans from the Government or, with the approval of the Minister, raise loans within or outside Singapore from such source as the Minister may direct by —
-
-(a) mortgage, overdraft or other means, with or without security;
-
-(b) charge, whether legal or equitable, on any property vested in the Council or on any other revenue receivable by the Council under this Act or any other written law; or
-
-(c) the creation and issue of debentures, bonds or any other instrument as the Minister may approve.
-
-(2) For the purposes of this section, the power to raise loans shall include the power to make any financial agreement whereby credit facilities are granted to the Council for the purchase of goods, materials or things.
-
-### Issue of shares, etc.
-
-18\. As a consequence of the vesting of any property, rights or liabilities of the Government in the Council under this Act, or of any capital injection or other investment by the Government in the Council in accordance with any written law, the Council shall issue such shares or other securities to the Minister for Finance as that Minister may, from time to time, direct.
-
-### Bank account
-
-19\.—(1) The Council shall open and maintain one or more accounts with such bank or banks as the Council thinks fit.
-
-(2) Every such account shall be operated by such person as may, from time to time, be authorised in that behalf by the Council.
-
-### Application of moneys
-
-20\. The moneys of the Council shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Council and in making any payment that the Council is authorised or required to make.
-
-### Investment power
-
-21\. The Council may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
-
-### Financial provisions
-
-22\. The financial provisions set out in the Third Schedule shall have effect with respect to the Council.
-
-Division 5 —
-
-Transfer of property, assets, liabilities and employees
-
-### Transfer to Council of property, assets and liabilities
-
-23\.—(1) As from 1st December 2009 —
-
-(a) such movable and immovable property vested in the Government as may be determined by the Minister for Finance and used or managed by the Private Education Division of the Ministry of Education (referred to in this Division as the transferred Division); and
-
-(b) all assets, interests, rights, privileges, liabilities and obligations of the Government relating to the transferred Division,
-
-shall be transferred to and shall vest in the Council without further assurance, act or deed.
-
-(2) If any question arises as to whether any particular property, asset, interest, right, privilege, liability or obligation has been transferred to or vested in the Council under subsection (1), a certificate under the hand of the Minister for Finance shall be conclusive evidence that the property, asset, interest, right, privilege, liability or obligation was or was not so transferred or vested.
-
-(3) Any immovable property to be transferred to and vested in the Council under subsection (1) shall be held by the Council upon such tenure and subject to such terms and conditions as the President may determine.
-
-(4) Every agreement relating to any of the transferred properties to which the Government was a party immediately before 1st December 2009, whether or not of such nature that the rights and liabilities thereunder could be assigned, shall have effect as from that date as if —
-
-(a) the Council had been a party to such an agreement; and
-
-(b) for any reference to the Government there was substituted in respect of anything to be done on or after 1st December 2009 a reference to the Council.
-
-### Transfer of employees
-
-24\.—(1) As from 1st December 2009, such persons or categories of persons as the Minister may determine who, immediately before that date, were employed by the Government in the transferred Division shall be transferred to the service of the Council on terms no less favourable than those enjoyed by them immediately prior to their transfer.
-
-(2) If any question arises as to whether any person or any category of persons has been transferred to the service of the Council under subsection (1), a certificate under the hand of the Minister shall be conclusive evidence that the person or category of persons was or was not so transferred.
-
-(3) Until such time as terms and conditions of service are drawn up by the Council, the scheme and terms and conditions of service in the Government shall continue to apply to every person transferred to the service of the Council under subsection (1) as if he were still in the service of the Government.
-
-### Service rights, etc., of transferred employees to be preserved
-
-25\.—(1) The terms and conditions to be drawn up by the Council shall take into account the terms and conditions of service (including salaries and accrued rights to leave) enjoyed by the persons transferred to the service of the Council under section 24 while in the employment of the Government.
-
-(2) Any term or condition relating to the length of service with the Council shall recognise the length of service of the persons so transferred while in the employment of the Government to be service with the Council.
-
-(3) Nothing in the terms and conditions of service to be drawn up by the Council shall adversely affect the terms and conditions that would have been applicable to persons transferred to the service of the Council as regards any pension, gratuity or allowance payable under the Pensions Act (Cap. 225).
-
-(4) Where a person has been transferred to the service of the Council under section 24, the Government shall be liable to pay to the Council such portion of any pension, gratuity or allowance payable to the person on his retirement as the same shall bear to the proportion which the aggregate amount of his pensionable emoluments during his service with the Government bears to the aggregate amount of his pensionable emoluments during his service under both the Government and the Council.
-
-(5) Where any person in the service of the Council, whose case does not fall within the scope of any pension or other schemes established under this section, retires or dies in the service of the Council or is discharged from such service, the Council may grant to him or to such other person wholly or partly dependent on him, as the Council thinks fit, such allowance or gratuity as the Council may determine.
-
-### No benefits in respect of abolition or reorganisation of office
-
-26\. Notwithstanding the provisions of the Pensions Act (Cap. 225), no person who is transferred to the service of the Council under section 24 shall be entitled to claim any benefit under that Act on the ground that he has been retired from the public service on account of abolition or reorganisation of office in consequence of the establishment and incorporation of the Council.
-
-### Existing contracts
-
-27\. All deeds, contracts, schemes, bonds, agreements, instruments and arrangements subsisting immediately before 1st December 2009 to which the Government is a party and relating to the transferred Division or to any person transferred to the service of the Council under section 24 shall continue in force on and after that date and shall be enforceable by or against the Council as if the Council had been named therein or had been a party thereto instead of the Government.
-
-### Continuation and completion of disciplinary proceedings and other legal proceedings
-
-28\.—(1) Where, on 1st December 2009, any disciplinary proceedings were pending against any employee of the Government transferred to the service of the Council, the proceedings shall be carried on and completed by the Council.
-
-(2) Where, on 1st December 2009, any matter was in the course of being heard or investigated or had been heard or investigated by a committee acting under due authority but no order, ruling or direction had been made thereon, the committee shall complete the hearing or investigation and shall make such order, ruling or direction as it could have made under the authority vested in it before that date.
-
-(3) Any order, ruling or direction made by a committee under this section shall be treated as an order, a ruling or a direction of the Council and have the same force or effect as if it had been made by the Council pursuant to the authority vested in the Council under this Act.
-
-(4) Any proceedings or cause of action pending or existing immediately before 1st December 2009 by or against the Government, or any person acting on its behalf, in relation to —
-
-(a) the transferred Division;
-
-(b) any portion of the property, assets, interests, rights, privileges, liabilities and obligations transferred to the Council under section 23; or
-
-(c) any employee of the Government transferred to the service of the Council under section 24,
-
-may be continued, completed and enforced by or against the Council.
-
-### Misconduct or neglect of duty by employee before transfer
-
-29\. The Council may reprimand, reduce in rank, retire, dismiss or punish in some other manner a person who had, whilst he was in the employment of the Government, been guilty of any misconduct or neglect of duty which would have rendered him liable to be reprimanded, reduced in rank, retired, dismissed or punished in some other manner if he had continued to be in the employment of the Government, and if this Act had not been enacted.
-
-### No breach or default, etc., because of transfer
-
-30\.—(1) The operation of this Division shall not be regarded —
-
-(a) as a breach of contract or confidence or otherwise as a civil wrong;
-
-(b) as a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets or liabilities; or
-
-(c) as giving rise to any remedy by a party to a legal instrument, or as causing or permitting the termination of any legal instrument, because of a change in the beneficial or legal ownership of any asset or liability.
-
-(2) The operation of section 23 shall not be regarded as an event of default under any contract or other legal instrument.
-
-(3) Any provision in any existing contract, agreement, conveyance, deed, lease, guarantee, bond, indemnity and other instrument or undertaking to which the Government is a party or may be bound prohibiting or having the effect of prohibiting the transfer of any property, asset, interest, right, privilege, liability or obligation transferred to the Council under section 23 shall be deemed by this Act to have been waived.
-
-(4) Any provision in any existing contract, agreement, conveyance, deed, lease, guarantee, bond, indemnity and other instrument or undertaking to which the Government is a party or may be bound conferring on the other party or parties thereto any right of first refusal or pre-emption rights in respect of any property, asset, interest, right, privilege, liability or obligation to be transferred by reason of or arising from, or to the effect that a default shall occur or be deemed to occur as a result of, the transfer or intended transfer of the property, asset, interest, right, privilege, liability or obligation under section 23 shall be deemed by this Act to have been waived.
-
-(5) No attornment to the Council by a lessee from the Government shall be required.
-
-(6) No claim for any loss shall be brought against the Government in relation to any act or thing done for the purposes of this Division.
-
-Division 6 —
-
-General
-
-### Preservation of secrecy
-
-31\.—(1) Except for the purpose of the performance of his functions or the discharge of his duties or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been —
-
-(a) a member, an officer, an employee, a consultant or an agent of the Council; or
-
-(b) a committee member or a member of the Appeals Board,
-
-shall disclose any information relating to the affairs of the Council or any other person which has been obtained by him in the performance of his functions or the discharge of his duties.
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-### Annual report
-
-32\.—(1) The Council shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during the preceding financial year and containing such information relating to the proceedings and policy of the Council as the Minister may, from time to time, direct.
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
-
-### Symbol, design or representation of Council
-
-33\.—(1) The Council shall have the exclusive right to the use of such symbol, design or representation as the Council may select or devise and thereafter display or exhibit such symbol, design or representation in connection with its activities or affairs.
-
-(2) Any person who, without the prior permission of the Council, uses a symbol, design or representation identical with that of the Council, or which so resembles the Council’s symbol, design or representation as to deceive or cause confusion or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+[Act 24 of 2016 wef 04/10/2016]
 
 ## PART III
 
@@ -2103,6 +1753,10 @@ This Legislative History is provided for the convenience of users of the Private
 ||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|3 October 2016|
+|9.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|4 October 2016|
 ## COMPARATIVE TABLE
 
 Private Education Act
