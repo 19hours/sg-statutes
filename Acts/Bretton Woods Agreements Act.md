@@ -20,6 +20,8 @@
 
 - [6 Power of Monetary Authority of Singapore in relation to operations of General Resources Account of Fund](#Power-of-Monetary-Authority-of-Singapore-in-relation-to-operations-of-General-Resources-Account-of-Fund)
 
+- [6A Assistance in support of Fund arrangements or Fund programs](#Assistance-in-support-of-Fund-arrangements-or-Fund-programs)
+
 - [7 Subscription to International Bank for Reconstruction and Development](#Subscription-to-International-Bank-for-Reconstruction-and-Development)
 
 - [8 Other payments to International Bank](#Other-payments-to-International-Bank)
@@ -88,6 +90,22 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 (b) pursuant to Resolution No. 31-4 adopted by the Board of Governors of the Fund on 30th April 1976 in order to establish a reformed international monetary system;
 
+“Fund arrangement” means —
+
+(a) the credit arrangements provided pursuant to Decision No. 11428‑(97/6), dated 27 January 1997, of the Executive Board of the Fund, as subsequently amended and renewed by the decisions of the Executive Board of the Fund; or
+
+(b) any arrangement established by the Fund under section 1 of Article VII of the Fund Agreement;
+
+[Act 18 of 2016 wef 07/10/2016]
+
+“Fund program” means —
+
+(a) the Poverty Reduction and Growth Trust established pursuant to Decision No. 8759‑(87/176), dated 18 December 1987, of the Executive Board of the Fund and as subsequently amended and renewed by the decisions of the Executive Board of the Fund; or
+
+(b) any program administered by the Fund in accordance with section 2 of Article V of the Fund Agreement;
+
+[Act 18 of 2016 wef 07/10/2016]
+
 “Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act (Cap. 186).
 
 [4/80]
@@ -104,7 +122,7 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 ### Power of Monetary Authority of Singapore in respect of special drawing rights
 
-5\. The Monetary Authority of Singapore shall have power from time to time to acquire, hold and deal with special drawing rights of the Government in accordance with the Fund Agreement and to perform all acts supplemental or incidental thereto, including —
+5\.—(1) The Monetary Authority of Singapore shall have power from time to time to acquire, hold and deal with special drawing rights of the Government in accordance with the Fund Agreement and to perform all acts supplemental or incidental thereto, including —
 
 (a) the payment of any charges payable to the Fund under section 2 of Article XX of the Fund Agreement and any sums payable to the Fund under section 4 of that Article;
 
@@ -112,7 +130,11 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 
 (c) the discharge of any other obligations as a participant in the Special Drawing Rights Department maintained by the Fund.
 
-[4/80]
+[Act 18 of 2016 wef 07/10/2016]
+
+(2) In addition, the Monetary Authority of Singapore may buy or sell the special drawing rights of the Government to enable Singapore to carry out its obligations under any Fund arrangement or Fund program.
+
+[Act 18 of 2016 wef 07/10/2016]
 
 ### Power of Monetary Authority of Singapore in relation to operations of General Resources Account of Fund
 
@@ -127,6 +149,30 @@ And Whereas, for the purpose of complying with the terms and conditions aforesai
 (d) to receive any remuneration payable by the Fund under section 9 of Article V of the Fund Agreement or any other sums payable by the Fund.
 
 [4/80]
+
+### Assistance in support of Fund arrangements or Fund programs
+
+6A\.—(1) Subject to subsections (2), (3) and (4), the Monetary Authority of Singapore may, on behalf of the Government, enter into an agreement (whether multilateral or bilateral) to lend, or give grants or other financial assistance, to support a Fund arrangement or Fund program.
+
+(2) An agreement under subsection (1) to lend, or give grants or other financial assistance, may be entered into (or varied subsequently) only if —
+
+(a) the Fund requests Singapore to provide assistance in support of a Fund arrangement or Fund program for the benefit of one or more countries;
+
+(b) the Monetary Authority of Singapore is satisfied that at least one other government has provided, or intends to provide, financial assistance in response to a similar request from the Fund;
+
+(c) the Minister has published in theGazettea statement containing —
+
+(i) a description of the nature of the agreement (or its subsequent variation); and
+
+(ii) the maximum amount that the Monetary Authority of Singapore agrees to lend, or to give by way of grants or other financial assistance, to the Fund under the agreement (or its subsequent variation); and
+
+(d) in the case of grants, Parliament has, by a resolution, fixed the maximum amount of grants to be given by the Monetary Authority of Singapore under that agreement (or its subsequent variations).
+
+(3) It is not lawful for the Monetary Authority of Singapore to give any amount of grant under any agreement under subsection (1) (or its subsequent variations) that is in excess of the maximum amount fixed by Parliament by resolution under subsection (2)(d) for that agreement.
+
+(4) An agreement under subsection (1) to lend or give other financial assistance (even if subsequently varied) must provide for the Monetary Authority of Singapore to require early repayment or early recovery of moneys lent or given, as the case may be, in the event of the suspension, or premature termination, of the Fund arrangement or Fund program.
+
+[Act 18 of 2016 wef 07/10/2016]
 
 ### Subscription to International Bank for Reconstruction and Development
 
@@ -293,6 +339,10 @@ This Legislative History is provided for the convenience of users of the Bretton
 ||Date of commencement|30 November 1991|
 |4.|**2012 Revised Edition—Bretton Woods Agreements Act**|
 ||Date of operation|31 March 2012|
+|5.|**Act 18 of 2016—Bretton Woods Agreements (Amendment) Act 2016**|
+||Date of First Reading|9 May 2016 (Bill No. 18/2016 published on 9 May 2016)|
+||Date of Second and Third Readings|11 July 2016|
+||Date of commencement|7 October 2016|
 ## COMPARATIVE TABLE
 
 Bretton Woods Agreements Act
