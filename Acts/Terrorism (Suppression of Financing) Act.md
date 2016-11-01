@@ -842,7 +842,7 @@ Terrorists and terrorist entities
 
 (f) Husaini bin Ismail (Singapore citizen) (Date of Birth: 30 December 1958);
 
-(g) Abdul Basheer s/o Abdul Kader (Singapore citizen) (Date of Birth: 17 October 1978);
+(g) [Deleted by S 560/2016 wef 01/11/2016]
 
 (h) Asyrani bin Hussaini (Singapore citizen) (Date of Birth: 16 May 1989);
 
@@ -910,9 +910,7 @@ Terrorists and terrorist entities
 
 [S 400/2016 wef 22/08/2016]
 
-(y) Mohammad Razif bin Yahya (Singapore citizen) (Date of Birth: 31 July 1988);
-
-[S 400/2016 wef 22/08/2016]
+(y) [Deleted by S 560/2016 wef 01/11/2016]
 
 (z) Amiruddin bin Sawir (Singapore citizen) (Date of Birth: 12 February 1963);
 
@@ -1141,6 +1139,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|26 August 2016|
 |20.|**G.N. No. S 472/2016—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 3) Order 2016**|
 ||Date of commencement|30 September 2016|
+|21.|**G.N. No. S 560/2016—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 4) Order 2016**|
+||Date of commencement|1 November 2016|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
