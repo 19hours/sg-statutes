@@ -1561,7 +1561,7 @@ Acts or activities constituting
 
 “The practice of pharmacy”
 
-Applying the knowledge and science of pharmacy in —
+1. Applying the knowledge and science of pharmacy in —
 
 (a) interpreting, evaluating and implementing prescriptions of persons authorised by law to prescribe medication;
 
@@ -1575,9 +1575,23 @@ Applying the knowledge and science of pharmacy in —
 
 (f) evaluating medication use;
 
-(g) manufacturing and distributing medicinal products; and
+(g) manufacturing and distributing medicinal products, oral dental gums and therapeutic products; and
 
-(h) quality assurance of medicinal products.
+[S 554/2016 wef 01/11/2016]
+
+(h) quality assurance of medicinal products, oral dental gums and therapeutic products.
+
+[S 554/2016 wef 01/11/2016]
+
+2. In paragraph 1(g) and (h) —
+
+“medicinal product” has the same meaning as in the Medicines Act (Cap. 176);
+
+“oral dental gum” means a health product registered or deemed to be registered as an oral dental gum under the Health Products Act (Cap. 122D);
+
+“therapeutic product” means a health product categorised as a therapeutic product in the First Schedule to the Health Products Act.
+
+[S 554/2016 wef 01/11/2016]
 
 ## LEGISLATIVE HISTORY
 
@@ -1585,7 +1599,7 @@ Pharmacists Registration Act
 
 (CHAPTER 230)
 
-This Legislative History is provided for the convenience of users of the Pharmacists Registration Act. It is not part of this Act.
+This Legislative History is provided for the convenience of users of the Pharmacists Registration Act. It is not part of the Act.
 
 ||||
 |:-|:-|:-|
@@ -1601,6 +1615,8 @@ This Legislative History is provided for the convenience of users of the Pharmac
 |||(Bill No. 22/2009 published on 19 October 2009)|
 ||Date of Second and Third Readings|11 January 2010|
 ||Date of commencement|1 December 2010|
+|4.|**G.N. No. S 554/2016—Pharmacists Registration Act (Amendment of Schedule) Order 2016**|
+||Date of commencement|1 November 2016|
 ## COMPARATIVE TABLE
 
 Pharmacists Registration Act
