@@ -282,15 +282,15 @@ Specified goods
 
 9\. [Deleted by S 630/2003 wef 01/01/2004]
 
-10. Chewing gum, bubble gum, dental chewing gum or any like substance (not being a medicinal product within the meaning of the Medicines Act (Cap. 176) or a substance in respect of which an order under section 54 of that Act has been made)
+10. Chewing gum, bubble gum, dental chewing gum or any like substance, not being a health product categorised as an oral dental gum or a therapeutic product in the First Schedule to the Health Products Act (Cap. 122D).
 
-[S 630/2003 wef 01/01/2004]
+[S 553/2016 wef 01/11/2016]
 
-11. [Deleted by S 453/2004 wef 30/07/2004]
+11. [Deleted by S 453/2004, wef 30/07/2004]
 
 12.—
 
-[Deleted by S 453/2004 wef 30/07/2004]
+[Deleted by S 453/2004, wef 30/07/2004]
 
 [S 382/73; S 153/74; S 208/75; S 270/80; S 318/80; S 175/82; S 257/84; S 4/92; S 247/98]
 
