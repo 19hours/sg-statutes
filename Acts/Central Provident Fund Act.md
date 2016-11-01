@@ -986,9 +986,23 @@ CONTRIBUTIONS TO FUND
 
 (8) The Minister may, by notification in theGazette, amend the First Schedule and may prescribe in the First Schedule —
 
-(a) different rates of contributions payable in respect of different types of wages; and
+(a) different rates of contributions payable in respect of different types of wages;
 
-(b) the payment of contributions on such additional wages as may be specified in the First Schedule to be based on the wages of an employee for the preceding year and to be adjusted at the end of the year or in the last month of his employment with the employer based on his actual wages for the year.
+(b) the payment of contributions on such additional wages as may be specified in the First Schedule, and the computation of such contributions which may —
+
+(i) be based on the wages of an employee for the preceding year or the current year; and
+
+(ii) be adjusted at the end of the year or in the last month of the employee’s employment with the employer based on the employee’s actual wages for the year; and
+
+[Act 6 of 2016 wef 01/11/2016]
+
+(c) modifications to the contributions payable on an employee’s additional wages for any year by any of the employee’s employers which the Board is satisfied —
+
+(i) are related in a manner approved by the Board; and
+
+(ii) meet any requirements specified by the Board.
+
+[Act 6 of 2016 wef 01/11/2016]
 
 [22/90; 27/92]
 
@@ -7286,31 +7300,117 @@ until the employee leaves the employment of the employer or the agreement expire
 
 then the agreed rates of the contribution shall continue to apply in relation to that employee until the employee leaves the employment of the employer, or the agreement expires or is lawfully terminated, whichever is the earlier.
 
-2\. No contributions shall be payable by an employer on the additional wages in a year which are in excess of the applicable amount less the amount of ordinary wages for that year.
+2\.—
 
-3\. Where the additional wages of an employee, other than an employee referred to in paragraph 7, are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of an amount computed as follows:
+2.
 
-the applicable amount less —
+(1) No contribution is payable by an employer on any part of the additional wages for any year after 2015 which is in excess of the applicable amount less the amount of ordinary wages from that employer for that year.
 
-(a) the ordinary wages of the employee for the preceding year; and
+(2) Where the contribution payable by an employer on additional wages for any year after 2015 (called in this sub-paragraph the current year) is being computed or recomputed before the end of the current year and while the employee is employed by that employer, no contribution is payable by that employer on any part of the additional wages which is in excess of an amount computed in either of the following ways, at the option of that employer:
 
-(b) the additional wages of the employee already paid for the current year.
+(a) the applicable amount less —
 
-3A\. Where the additional wages of an employee referred to in paragraph 7 are paid at any time before the relevant time and before the amount of his ordinary wages for that year is computed, no contributions shall be payable by an employer on the additional wages which are in excess of the amount computed in the manner prescribed in the Central Provident Fund (Public Sector Employees) Regulations 2011 (G.N. No. S 106/2011).
+(i) the amount of ordinary wages of the employee from that employer for the year immediately preceding the current year; and
 
-4.—(1) Where the contributions on additional wages for any year have been paid at any time before the relevant time and before the amount of ordinary wages for that year is computed, the amount of contributions payable on the additional wages for that year shall be recomputed at the relevant time, subject to the limit in paragraph 2.
+(ii) the additional wages of the employee already paid by that employer for the current year;
 
-(2) Where the contributions on additional wages recomputed under sub‑paragraph (1) exceed the contributions already paid on additional wages for that year, the employer shall contribute the difference to the Fund at the relevant time, subject to the limit in paragraph 2.
+(b) the applicable amount less —
 
-(3) Where the employer is required to make additional contributions under sub-paragraph (2), he shall be entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
+(i) the amount of ordinary wages which that employer expects to pay the employee for the current year; and
 
-4A. In computing the amount of ordinary wages for the purposes of paragraphs 2, 3 and 4 —
+(ii) the additional wages of the employee already paid by that employer for the current year.
+
+(3) The amount of contributions payable by an employer on the additional wages of an employee for any year after 2015 (called in this sub-paragraph the current year) must be computed or recomputed (as the case may be) in each of the following circumstances:
+
+(a) whenever any additional wages of the employee for the current year become due from that employer;
+
+(b) at the end of the last month of the employee’s employment with that employer in the current year;
+
+(c) if the employee is still employed by the employer on 31 December of the current year, at the end of that year.
+
+[S 532/2016 wef 01/11/2016]
+
+3\.—
+
+3.
+
+(1) If the Board has granted an application, made by or on behalf of 2 or more employers, to apply this paragraph in calculating the contributions from those employers on an employee’s additional wages for any year after 2015 (called in this sub-paragraph the current year), then each of those employers is, in that year —
+
+(a) a related employer of the employee; and
+
+(b) a related employer in respect of each of those other employers.
+
+(2) The Board may grant an application mentioned in sub-paragraph (1) if the Board is satisfied that the employers making the application —
+
+(a) are related in a manner approved by the Board; and
+
+(b) meet any other requirements specified by the Board.
+
+(3) Despite paragraph 2(1), no contribution is payable on the part of an employee’s additional wages for any year after 2015 (called in this sub-paragraph the current year) that becomes due from a related employer of the employee on or after the date when the amount of the employee’s combined additional wages for that year, that have become due before that date, is equal to the applicable amount less the amount of the employee’s combined ordinary wages for the current year.
+
+(4) Sub-paragraph (5) applies where —
+
+(a) an employer is a related employer of an employee in a year after 2015 (called in this sub-paragraph the related year); and
+
+(b) the contribution payable by the employer on the employee’s additional wages for the related year or the year immediately following the related year (called in this sub-paragraph and sub-paragraph (5) the current year) is being computed or recomputed —
+
+(i) before the end of the current year; and
+
+(ii) at the time of the computation or recomputation, the employee is employed by that employer or a related employer in respect of that employer (as the case may be).
+
+(5) Despite paragraph 2, no contribution is payable on the part of an employee’s additional wages for the current year that becomes due from an employer mentioned in sub-paragraph (4) on or after the date when —
+
+(a) if that employer is not the employee’s related employer in the current year, the amount of the employee’s additional wages that have become due in the current year from that employer; or
+
+(b) if that employer is the employee’s related employer in the current year, the employee’s combined additional wages for the current year that have become due,
+
+is equal to an amount computed in either of the following ways, at the option of the employer:
+
+(i) the applicable amount less the total of —
+
+(A) the employee’s ordinary wages from that employer or the employee’s combined ordinary wages (as the case may be) for the year immediately preceding the current year; and
+
+(B) the employee’s additional wages from that employer or the employee’s combined additional wages (as the case may be) already paid for the current year;
+
+(ii) the applicable amount less the total of —
+
+(A) the employee’s ordinary wages that the employer expects to pay the employee or the combined ordinary wages that the employer expects the employee to be paid (as the case may be) for the current year; and
+
+(B) the employee’s additional wages or combined additional wages (as the case may be) already paid for the current year.
+
+(6) The amount of contributions payable by an employer on the additional wages of an employee for any year after 2015 (called in this sub-paragraph the current year) must be computed or recomputed (as the case may be) in each of the following circumstances:
+
+(a) whenever any additional wages of the employee for the current year become due from that employer;
+
+(b) at the end of the last month of the employee’s employment, with that employer or a related employer in respect of that employer, in the current year;
+
+(c) if the employee is still employed by the employer or a related employer in respect of that employer on 31 December of the current year, at the end of that year.
+
+(7) In this paragraph —
+
+“combined additional wages” means the total amount of additional wages of the employee from the employee’s employer mentioned in this paragraph and all of the employee’s related employers in respect of that employer;
+
+“combined ordinary wages” means the total amount of ordinary wages of the employee from the employee’s employer mentioned in this paragraph and all of the employee’s related employers in respect of that employer.
+
+[S 532/2016 wef 01/11/2016]
+
+4\.—
+
+4.—(1) Where the contributions on an employee’s additional wages for any year after 2015 (called in this sub-paragraph the current year) to be paid by an employer (as recomputed under paragraph 2(3) or 3(6)) exceed the contributions already paid by that employer on those additional wages, the employer must contribute the difference to the Fund within such period as may be prescribed under the Central Provident Fund Regulations (Rg 15) after the end of the month of the recomputation.
+
+(2) Where the employer is required to make additional contributions under sub-paragraph (1), the employer is entitled to recover from the employee’s wages, at the rate of recovery for additional wages applicable to the employee, the amount of additional contributions paid by the employer under that sub-paragraph.
+
+[S 532/2016 wef 01/11/2016]
+
+4A. In computing the amount of ordinary wages for the purposes of paragraphs 2 and 3 —
 
 (a) for the year 2015, the amount of ordinary wages for any month which is in excess of $5,000 is to be disregarded; and
 
 (b) for the year 2016 and every subsequent year, the amount of ordinary wages for any month which is in excess of $6,000 is to be disregarded.
 
 [S 752/2015 wef 01/01/2016]
+
+[S 532/2016 wef 01/11/2016]
 
 5. For the purpose of this Schedule —
 
@@ -7322,7 +7422,13 @@ the applicable amount less —
 
 (c) in calculating the amount recoverable by the employer from the employee’s wages, fraction of a dollar shall be ignored;
 
-(d) “additional wages” means any remuneration other than ordinary wages;
+(d) “additional wages” —
+
+(i) in relation to an employee, other than an employee mentioned in paragraph 7, means any remuneration other than ordinary wages; and
+
+(ii) in relation to an employee mentioned in paragraph 7, is as defined in the First, Second or Third Schedule (as the case may be) of the Central Provident Fund (Public Sector Employees) Regulations 2011 (G.N. No. S 106/2011);
+
+[S 532/2016 wef 01/11/2016]
 
 (da) “applicable amount”, in respect of the year 2016 and every subsequent year, means the sum of $102,000;
 
@@ -7336,7 +7442,7 @@ the applicable amount less —
 
 (e) “ordinary wages for the month” means the amount of remuneration due or granted wholly or exclusively in respect of employment during that month and payable before the due date for the payment of contribution for that month;
 
-(ea) “relevant time” means the end of the current year or the last month of the employee’s employment with that employer, as the case may be;
+(ea) [Deleted by S 532/2016 wef 01/11/2016]
 
 (eb) “permanent resident” means a person who holds a valid entry permit or re-entry permit issued by the Controller of Immigration under the Immigration Act (Cap. 133);
 
@@ -7512,15 +7618,27 @@ the applicable amount less —
 
 (70) Urban Redevelopment Authority.
 
-7. Contributions shall be payable for and recoverable from the wages of such employees who are —
+7\.—
+
+7.
+
+(1) Subject to paragraphs 2, 3 and 4, contributions are payable for and recoverable from the wages of employees who are —
 
 (a) employees of the Government;
 
-(b) employees of a statutory body; and
+(b) employees of a statutory body; or
 
-(c) persons employed in an aided school by the managers of the school, other than a school that is set out in the Schedule to the Education (Grant-in-Aid) Regulations,
+(c) persons employed in an aided school by the managers of the school, other than a school that is set out in the Schedule to the Education (Grant-in-Aid) Regulations (Cap. 87, Rg 3),
 
 at the rates prescribed in the Central Provident Fund (Public Sector Employees) Regulations 2011.
+
+(2) Paragraphs 2, 3 and 4 do not restrict or prohibit the payment of additional contributions prescribed in the Central Provident Fund (Public Sector Employees) Regulations 2011.
+
+[S 532/2016 wef 01/11/2016]
+
+8. For the purposes of determining the contributions on the additional wages of an employee (other than an employee mentioned in paragraph 7) payable for any period before 1 January 2016, this Schedule as in force during that period is to be used and applied despite any amendment made after that time.
+
+[S 532/2016 wef 01/11/2016]
 
 [29/95; 1/96; 7/96; 4/99; 41/99; 9/2000; 3/2001; 17/2001; 25/2002; 3/2004; 3/2005; 36/2007; 16/2009; 25/2010; S 273/94; S 570/95; S 645/98; S 156/2000; S 612/2000; S 167/2001; S 313/2001; S 550/2001; S 524/2002; S 468/2003; S 657/2003; S 801/2004; S 830/2005; S 193/2006; S 324/2007; S 415/2008; S 581/2009; S 486/2010; S 107/2011; S 508/2011; S 441/2012; S 315/2013]
 
@@ -8557,6 +8675,12 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|11 July 2016 (Bill No. 19/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|4 October 2016|
+|207.|**Act 6 of 2016—Central Provident Fund (Amendment) Act 2016**|
+||Date of First Reading|26 January 2016 (Bill No. 4/2016 published on 26 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 November 2016|
+|208.|**G. N. No. S 532/2016—Central Provident Fund Act (Amendment of First Schedule) Notification 2016**|
+||Date of commencement|1 November 2016|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
