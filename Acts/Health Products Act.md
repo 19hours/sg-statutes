@@ -1817,6 +1817,240 @@ protecting them; or
 
 keeping them in good condition.
 
+3.
+
+Therapeutic product
+
+(1)
+
+“Therapeutic product” means any substance that —
+
+(a)
+
+is intended for use by and in humans for a therapeutic, preventive, palliative or diagnostic purpose, including any of the following purposes:
+
+(i)
+
+for preventing, diagnosing, monitoring, treating, curing or alleviating any disease, disorder, ailment, injury, handicap or abnormal physical or mental state, or any symptom thereof;
+
+(ii)
+
+for investigating, modifying or replacing any physiological process;
+
+(iii)
+
+for influencing, controlling or preventing conception;
+
+(iv)
+
+for inducing anaesthesia;
+
+(b)
+
+has as a constituent any of the following active ingredients:
+
+(i)
+
+any chemical or botanical element, naturally‑occurring chemical or botanical material, or chemical product obtained by chemical change or synthesis;
+
+(ii)
+
+any metabolite from a micro‑organism;
+
+(iii)
+
+any macromolecule extracted from an organism;
+
+(iv)
+
+any substance derived from a biological system, including any of the following:
+
+(A)
+
+a whole cell or micro‑organism, such as a whole virus or bacterium used as a vaccine;
+
+(B)
+
+a part of a micro‑organism, such as a sub‑unit vaccine;
+
+(C)
+
+a plasma‑derived product;
+
+(D)
+
+a biotechnology‑derived substance, such as a protein or polypeptide;
+
+(c)
+
+exerts an inherent effect either pharmacologically, chemically or by other physiological means, leading to its use for a therapeutic, preventive, palliative or diagnostic purpose; and
+
+(d)
+
+is not any of the following:
+
+(i)
+
+a medical device;
+
+(ii)
+
+any product containing human or animal cell or tissue;
+
+(iii)
+
+any substance administered to humans with a view to regulating, repairing, replacing, adding or deleting a genetic sequence;
+
+(iv)
+
+whole blood or any blood component;
+
+(v)
+
+any Chinese proprietary medicine;
+
+(vi)
+
+any homoeopathic medicine;
+
+(vii)
+
+any medicated oil or balm;
+
+(viii)
+
+any quasi‑medicinal product;
+
+(ix)
+
+any traditional medicine.
+
+(2)
+
+For the purposes of paragraph (1) —
+
+“Chinese proprietary medicine” means any medicinal product used in the system of therapeutics according to the traditional Chinese method, that is to say, any medicinal product —
+
+(a)
+
+which has been manufactured into a finished product;
+
+(b)
+
+which contains one or more active substances derived wholly from any plant, animal or mineral, or any combination thereof;
+
+(c)
+
+which is, or all of the active substances of which are, described in the current edition of “A Dictionary of Chinese Pharmacy” «中药大辞典» or “The Chinese Herbal Medicine Materia Medica” «本草纲目»;
+
+(d)
+
+which does not contain as an active substance any chemically‑defined isolated constituent of any plant, animal or mineral, or any combination thereof; and
+
+(e)
+
+which is not intended to be administered by injection into a human body;
+
+“current edition”, in relation to any publication which describes a Chinese proprietary medicine, means the latest edition that has taken effect when the Chinese proprietary medicine in question is supplied, and includes that edition as affected by every amendment, addition or deletion to that edition that has taken effect;
+
+“homoeopathic medicine” means any substance used in the system of therapeutics in which a disease is treated by the use of minute amounts of one or more substances which, in their undiluted forms, are capable of producing in healthy humans symptoms similar to those of the disease being treated;
+
+“medicated oil or balm” means any external medicated embrocation, medicated cream, ointment or inhalant, and which contains one or more of the following active ingredients:
+
+(a)
+
+any essential oil;
+
+(b)
+
+any fixed oil derived from plants;
+
+(c)
+
+methyl salicylate;
+
+(d)
+
+menthol;
+
+(e)
+
+camphor;
+
+(f)
+
+peppermint;
+
+“medicinal product” has the same meaning as in the Medicines Act (Cap. 176);
+
+“quasi‑medicinal product” means —
+
+(a)
+
+any anti‑dandruff preparation;
+
+(b)
+
+any medicated cosmetic product for the treatment of pimples or acne, except any preparation containing etretinate or 13‑cis‑retinoic acid;
+
+(c)
+
+any medicated soap;
+
+(d)
+
+any sweet for relieving coughs or throat irritations;
+
+(e)
+
+any medicated plaster;
+
+(f)
+
+any sunscreen or suntan preparation;
+
+(g)
+
+any medicated beverage;
+
+(h)
+
+any vitamin or nutritional preparation from any natural source; or
+
+(i)
+
+any medicated toothpaste;
+
+“traditional medicine” means any medicinal product consisting of one or more substances derived from any plant, animal or mineral, or any combination thereof, but does not include the following:
+
+(a)
+
+any medicinal product to be administered by injection into a human body;
+
+(b)
+
+any vaccine to be administered to a human;
+
+(c)
+
+any product derived from human blood;
+
+(d)
+
+any item specified in the Poisons List in the Schedule to the Poisons Act (Cap. 234);
+
+(e)
+
+any Chinese proprietary medicine.
+
+4.
+
+Oral dental gum
+
+“Oral dental gum” means any chewing gum, or any like substance prepared from a gum base of vegetable or synthetic origin, and intended to be chewed for use in promoting dental health or oral hygiene, but does not include any such gum which is manufactured or imported into Singapore solely for research and development purposes by a person who is registered under the Control of Manufacture Act (Cap. 57) in respect of the manufacture of chewing gum.
+
+[S 328/2016 wef 01/11/2016]
+
 [S 564/2007; S 684/2007]
 
 [S 438/2010 wef 10/08/2010]
@@ -1932,3 +2166,5 @@ This Legislative History is provided for the convenience of users of the Health 
 ||Date of First Reading|13 July 2015 (Bill No. 25/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|1 July 2016|
+|7.|**G.N. No. S 328/2016—Health Products Act (Amendment of First Schedule) Order 2016**|
+||Date of commencement|1 November 2016|
