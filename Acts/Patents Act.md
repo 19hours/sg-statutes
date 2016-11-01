@@ -422,9 +422,25 @@ PRELIMINARY
 
 [20/2009 wef 09/10/2009]
 
-“marketing approval”, in relation to a pharmaceutical product, means a product licence under section 5 of the Medicines Act (Cap. 176);
+“marketing approval”, in relation to a pharmaceutical product, means —
 
-“medicinal product” has the same meaning as in the Medicines Act (Cap. 176);
+(a) a product licence under section 5 of the Medicines Act (Cap. 176) granted before the date of commencement of section 2(d) of the Patents (Amendment) Act 2012; or
+
+(b) a registration under Part VII of the Health Products Act (Cap. 122D) granted on or after the date of commencement of section 2(d) of the Patents (Amendment) Act 2012;
+
+[Act 15 of 2012 wef 01/11/2016]
+
+“medicinal health product” means any health product within the meaning of the Health Products Act that is prescribed as a medicinal health product;
+
+[Act 15 of 2012 wef 01/11/2016]
+
+“medicinal product” means —
+
+(a) a medicinal product within the meaning of the Medicines Act; or
+
+(b) a medicinal health product;
+
+[Act 15 of 2012 wef 01/11/2016]
 
 “missing part”, in relation to an application for a patent, means —
 
@@ -3765,6 +3781,10 @@ This Legislative History is provided for the convenience of users of the Patents
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|20.|**Act 15 of 2012—Patents (Amendment) Act 2012**|
+||Date of First Reading|14 May 2012 (Bill No. 13/2012 published on 14 May 2012)|
+||Date of Second and Third Readings|10 July 2012|
+||Date of commencement|1 November 2016|
 ## COMPARATIVE TABLE
 
 Patents Act
