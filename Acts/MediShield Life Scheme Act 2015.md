@@ -130,6 +130,8 @@ Date of Commencement: 31st July 2015 Section 8
 
 Date of Commencement: 1st November 2015 Sections 3 to 7, 10, 31, 32(1), 35 to 38
 
+Date of Commencement: 1st November 2016 Part 3
+
 An Act to provide for the MediShield Life Scheme and matters related thereto, and to make consequential and related amendments to certain other written laws.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
