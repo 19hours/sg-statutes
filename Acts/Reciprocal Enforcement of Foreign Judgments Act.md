@@ -24,7 +24,7 @@
 
 - [7 Foreign judgments which can be registered not to be enforceable otherwise](#Foreign-judgments-which-can-be-registered-not-to-be-enforceable-otherwise)
 
-- [8 Rules of Court](#Rules-of-Court)
+- [8 Rules of Court and Family Justice Rules](#Rules-of-Court-and-Family-Justice-Rules)
 
 [**Part II APPLICATION TO COMMONWEALTH COUNTRIES**](#Part-II)
 
@@ -86,7 +86,9 @@ REGISTRATION OF FOREIGN JUDGMENTS
 
 “original court”, in relation to any judgment, means the court by which the judgment was given;
 
-“prescribed” means prescribed by Rules of Court;
+“prescribed” means prescribed by Rules of Court or Family Justice Rules;
+
+[Act 16 of 2016 wef 01/12/2016]
 
 “registration” means registration under Part I and “register” and “registered” shall be construed accordingly;
 
@@ -108,7 +110,9 @@ REGISTRATION OF FOREIGN JUDGMENTS
 
 (f) guardianship of infants.
 
-(3) Subject to Rules of Court, any of the powers conferred by this Act on any court may be exercised by a judge of the court.
+(3) Subject to Rules of Court and Family Justice Rules, any of the powers conferred by this Act on any court may be exercised by a judge of the court.
+
+[Act 16 of 2016 wef 01/12/2016]
 
 ### Application
 
@@ -172,7 +176,9 @@ to have the judgment registered in the High Court.
 
 as if the judgment had been a judgment originally given in the registering court and entered on the date of registration.
 
-(5) Execution shall not issue on the judgment so long as, under this Part and the Rules of Court made thereunder, it is competent for any party to make an application to have the registration of the judgment set aside or, where such application is made, until after the application has been finally determined.
+(5) Execution shall not issue on the judgment so long as, under this Part and the Rules of Court or Family Justice Rules made thereunder, it is competent for any party to make an application to have the registration of the judgment set aside or, where such application is made, until after the application has been finally determined.
+
+[Act 16 of 2016 wef 01/12/2016]
 
 (6) If at the date of the application for registration the judgment of the original court has been partly satisfied, the judgment shall not be registered in respect of the whole sum payable under the judgment of the original court, but only in respect of the balance remaining payable at the date.
 
@@ -254,9 +260,9 @@ as if the judgment had been a judgment originally given in the registering court
 
 [2/99]
 
-### Rules of Court
+### Rules of Court and Family Justice Rules
 
-8\.—(1) Subject to this section, the power to make Rules of Court under section 80 of the Supreme Court of Judicature Act (Cap. 322) shall include power to make rules for the following purposes:
+8\.—(1) Subject to this section, the power to make Rules of Court under section 80 of the Supreme Court of Judicature Act (Cap. 322), and the power to make Family Justice Rules under section 46 of the Family Justice Act 2014 (Act 27 of 2014), shall include power to make Rules of Court and Family Justice Rules, respectively, for the following purposes:
 
 (a) for making provision with respect to the giving of security for costs by persons applying for the registration of judgments;
 
@@ -270,7 +276,11 @@ as if the judgment had been a judgment originally given in the registering court
 
 (f) for prescribing any matter which under this Part is to be prescribed.
 
-(2) Such rules shall be expressed to have and shall have effect subject to any such provisions contained in orders made under section 3 as are declared by the orders to be necessary for giving effect to agreements made between the Minister and the foreign countries in relation to matters with respect to which there is power to make the rules.
+[Act 16 of 2016 wef 01/12/2016]
+
+(2) Such Rules of Court and Family Justice Rules shall be expressed to have and shall have effect subject to any such provisions contained in orders made under section 3 as are declared by the orders to be necessary for giving effect to agreements made between the Minister and the foreign countries in relation to matters with respect to which there is power to make the Rules of Court and Family Justice Rules.
+
+[Act 16 of 2016 wef 01/12/2016]
 
 ## PART II
 
@@ -374,6 +384,11 @@ This Legislative History is provided for the convenience of users of the Recipro
 ||Date of First Reading|4 April 2016 (Bill No. 14/2016 published on 4 April 2016)|
 ||Date of Second and Third Readings|14 April 2016|
 ||Date of commencement|1 October 2016|
+|9.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016|
+|||(Bill No. 15/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|1 December 2016|
 ## COMPARATIVE TABLE
 
 Reciprocal Enforcement of Foreign Judgments Act
