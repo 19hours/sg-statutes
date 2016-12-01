@@ -18,7 +18,9 @@
 
 - [5 Extension of this Act](#Extension-of-this-Act)
 
-- [6 Power to make rules](#Power-to-make-rules)
+- [6 Rules of Court](#Rules-of-Court)
+
+- [7 Family Justice Rules](#Family-Justice-Rules)
 
 [**Legislative History**](#Legislative-History)
 
@@ -54,7 +56,9 @@ An Act to facilitate the reciprocal enforcement of judgments and awards in Singa
 
 “registering court”, in relation to any judgment, means the court to which application to register a judgment is made or by which a judgment has been registered.
 
-(2) Subject to Rules of Court, any of the powers conferred by this Act on any court may be exercised by a judge of the court.
+(2) Subject to the Rules of Court mentioned in section 6 and the Family Justice Rules mentioned in section 7, any of the powers conferred by this Act on any court may be exercised by a judge of the court.
+
+[Act 16 of 2016 wef 01/12/2016]
 
 ### Application
 
@@ -90,13 +94,15 @@ An Act to facilitate the reciprocal enforcement of judgments and awards in Singa
 
 (c) the reasonable costs of and incidental to the registration of the judgment (including the costs of obtaining a certified copy thereof from the original court and of the application for registration) shall be recoverable in like manner as if they were sums payable under the judgment.
 
-(4) The Judges of the Supreme Court or any 3 of them of whom the Chief Justice shall be one shall provide by rules —
+(4) The Rules of Court mentioned in section 6, and the Family Justice Rules mentioned in section 7, must provide —
 
 (a) for service on the judgment debtor of notice of the registration of a judgment under this section;
 
 (b) for enabling the High Court on an application by the judgment debtor to set aside the registration of a judgment under this section on such terms as the Court thinks fit; and
 
 (c) for suspending the execution of a judgment registered under this section until the expiration of the period during which the judgment debtor may apply to have the registration set aside.
+
+[Act 16 of 2016 wef 01/12/2016]
 
 (5) In any action brought in the High Court on any judgment which might be ordered to be registered under this section, the plaintiff shall not be entitled to recover any costs of the action unless an application to register the judgment under this section has previously been refused, or unless the Court otherwise orders.
 
@@ -110,9 +116,21 @@ An Act to facilitate the reciprocal enforcement of judgments and awards in Singa
 
 (2) For the purposes of this section such courts of that part of the Commonwealth as are specified in the notification shall be deemed to be superior courts of that part of the Commonwealth.
 
-### Power to make rules
+### Rules of Court
 
-6\. The Judges of the Supreme Court or any 3 of them of whom the Chief Justice shall be one may by rules regulate the practice and procedure, including scales of fees, and evidence, in respect of proceedings of any kind under this Act.
+6\.—(1) The Rules Committee constituted under section 80(3) of the Supreme Court of Judicature Act (Cap. 322) may make Rules of Court to regulate and prescribe the procedure and practice to be followed in the High Court (other than the Family Division of the High Court) in proceedings under this Act, including the fees payable for, and the evidence in, such proceedings.
+
+(2) All Rules of Court made under this section are to be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 16 of 2016 wef 01/12/2016]
+
+### Family Justice Rules
+
+7\.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 (Act 27 of 2014) may make Family Justice Rules to regulate and prescribe the procedure and practice to be followed in the Family Division of the High Court in proceedings under this Act, including the fees payable for, and the evidence in, such proceedings.
+
+(2) All Family Justice Rules made under this section are to be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 16 of 2016 wef 01/12/2016]
 
 ## LEGISLATIVE HISTORY
 
@@ -142,3 +160,8 @@ This Legislative History is provided for the convenience of users of the Recipro
 ||Date of First Reading|4 April 2016 (Bill No. 14/2016 published on 4 April 2016)|
 ||Date of Second and Third Readings|14 April 2016|
 ||Date of commencement|1 October 2016|
+|7.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+||Date of First Reading|14 April 2016|
+|||(Bill No. 15/2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|1 December 2016|
