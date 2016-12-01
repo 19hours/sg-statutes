@@ -278,9 +278,17 @@ PRELIMINARY
 
 (o) any civil proceedings under the Voluntary Sterilization Act (Cap. 347);
 
-(p) any civil or quasi-criminal proceedings under the Women’s Charter (Cap. 353); and
+(p) any civil or quasi-criminal proceedings under the Women’s Charter (Cap. 353);
 
-(q) on or after the date specified under section 47(11), any civil proceedings under the Probate and Administration Act (Cap. 251);
+[Act 16 of 2016 wef 01/12/2016]
+
+(q) on or after the date specified under section 47(11), any civil proceedings under the Probate and Administration Act (Cap. 251); and
+
+[Act 16 of 2016 wef 01/12/2016]
+
+(r) on or after the date of commencement of section 7(c) of the Statutes (Miscellaneous Amendments) Act 2016, any civil proceedings under the Wills Act (Cap. 352);
+
+[Act 16 of 2016 wef 01/12/2016]
 
 “family support programme or activity” means any programme or activity carried out for the purpose of addressing or resolving any relationship issue or relationship problem between spouses or former spouses, between siblings or between parent and child;
 
