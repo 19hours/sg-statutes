@@ -134,7 +134,7 @@
 
 - [14B Further deduction for expenses relating to approved trade fairs, exhibitions or trade missions or to maintenance of overseas trade office](#Further-deduction-for-expenses-relating-to-approved-trade-fairs-exhibitions-or-trade-missions-or-to-maintenance-of-overseas-trade-office)
 
-- [14C Further deduction for logistics expenses](#Further-deduction-for-logistics-expenses)
+- [14C (Repealed)](#Repealed)
 
 - [14D Expenditure on research and development](#Expenditure-on-research-and-development)
 
@@ -322,6 +322,8 @@
 
 - [39 Relief and deduction for resident individual](#Relief-and-deduction-for-resident-individual)
 
+- [39A Limit on total deduction under section 39](#Limit-on-total-deduction-under-section-39)
+
 - [40 Relief for non-resident citizens and certain other non-residents](#Relief-for-non-resident-citizens-and-certain-other-non-residents)
 
 - [40A Relief for non-resident public entertainers](#Relief-for-non-resident-public-entertainers)
@@ -348,21 +350,21 @@
 
 - [43C Exemption and concessionary rate of tax for insurance and reinsurance business](#Exemption-and-concessionary-rate-of-tax-for-insurance-and-reinsurance-business)
 
-- [43D Concessionary rate of tax for offshore transactions on any market maintained by Singapore Exchange or its subsidiaries](#Concessionary-rate-of-tax-for-offshore-transactions-on-any-market-maintained-by-Singapore-Exchange-or-its-subsidiaries)
+- [43D (Repealed)](#Repealed)
 
 - [43E Concessionary rate of tax for headquarters company](#Concessionary-rate-of-tax-for-headquarters-company)
 
-- [43F Concessionary rate of tax for oil trading company](#Concessionary-rate-of-tax-for-oil-trading-company)
+- [43F (Repealed)](#Repealed)
 
 - [43G Concessionary rate of tax for Finance and Treasury Centre](#Concessionary-rate-of-tax-for-Finance-and-Treasury-Centre)
 
-- [43H Concessionary rate of tax for international commodity trading company](#Concessionary-rate-of-tax-for-international-commodity-trading-company)
+- [43H (Repealed)](#Repealed)
 
 - [43I Concessionary rate of tax for offshore leasing of machinery and plant](#Concessionary-rate-of-tax-for-offshore-leasing-of-machinery-and-plant)
 
 - [43J Concessionary rate of tax for trustee company](#Concessionary-rate-of-tax-for-trustee-company)
 
-- [43K Concessionary rate of tax for members of Singapore Commodity Exchange Ltd, etc.](#Concessionary-rate-of-tax-for-members-of-Singapore-Commodity-Exchange-Ltd-etc)
+- [43K (Repealed)](#Repealed)
 
 - [43L (Repealed)](#Repealed)
 
@@ -378,13 +380,13 @@
 
 - [43R Concessionary rate of tax for provision of processing services to financial institutions](#Concessionary-rate-of-tax-for-provision-of-processing-services-to-financial-institutions)
 
-- [43S Concessionary rate of tax for commodity derivatives trading company](#Concessionary-rate-of-tax-for-commodity-derivatives-trading-company)
+- [43S (Repealed)](#Repealed)
 
-- [43T Concessionary rate of tax for income derived from securities lending or repurchase arrangement](#Concessionary-rate-of-tax-for-income-derived-from-securities-lending-or-repurchase-arrangement)
+- [43T (Repealed)](#Repealed)
 
 - [43U Concessionary rate of tax for income derived from organising or staging tourism event](#Concessionary-rate-of-tax-for-income-derived-from-organising-or-staging-tourism-event)
 
-- [43V Concessionary rate of tax for clearing member of Singapore clearing house](#Concessionary-rate-of-tax-for-clearing-member-of-Singapore-clearing-house)
+- [43V (Repealed)](#Repealed)
 
 - [43W Concessionary rate of tax for shipping investment manager](#Concessionary-rate-of-tax-for-shipping-investment-manager)
 
@@ -502,7 +504,7 @@
 
 - [64 Comptroller may call for further returns](#Comptroller-may-call-for-further-returns)
 
-- [65 Power to call for returns, books, etc.](#Power-to-call-for-returns-books-etc)
+- [65 Power to call for returns](#Power-to-call-for-returns)
 
 - [65A Statement of bank accounts, assets, etc.](#Statement-of-bank-accounts-assets-etc)
 
@@ -664,7 +666,7 @@
 
 - [105O Information may be used for administration of Act](#Information-may-be-used-for-administration-of-Act)
 
-- [105P Regulations to implement international tax compliance agreements](#Regulations-to-implement-international-tax-compliance-agreements)
+- [105P Regulations to implement international tax compliance agreements, etc.](#Regulations-to-implement-international-tax-compliance-agreements-etc)
 
 - [105PA Duty to provide information under regulations prevails over duty of secrecy, etc.](#Duty-to-provide-information-under-regulations-prevails-over-duty-of-secrecy-etc)
 
@@ -1147,6 +1149,10 @@ any information required for the performance of the official duties of the chief
 do so through the electronic service.
 
 [Act 15 of 2016 wef 20/07/2016]
+
+(3A) Subsection (3) does not affect any other provision of this Act that requires, or enables the Comptroller to require, anything to be done by means of the electronic service.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (4) Any agent who is authorised by his principal in the prescribed manner may file or submit any return, estimate, statement or document, or provide any information to the Comptroller, on behalf of his principal through the electronic service.
 
@@ -1865,6 +1871,10 @@ then the amount of any gains or profits derived from that disposal that is charg
 (d) provide for the deduction of such amounts of expenses and donations allowable under this Act in such manner as may be prescribed.
 
 [3/89; 37/2002]
+
+(1A) No investment company may be approved under this section as an approved investment company after 31 December 2016.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (2) In this section —
 
@@ -2984,7 +2994,7 @@ Provided that the amount of the voluntary contribution does not exceed the amoun
 
 (m) the income of any trade union registered under the Trade Unions Act (Cap. 333) in so far as such income is not derived from a trade or business carried on by such trade union;
 
-(n) any income derived by any person who is not resident in Singapore from trading in Singapore through consignees in any of the following commodities produced outside Singapore:
+(n) any income derived in the basis period for any year of assessment before the year of assessment 2018 by any person who is not resident in Singapore from trading in Singapore through consignees in any of the following commodities produced outside Singapore:
 
 (i) rubber;
 
@@ -3002,6 +3012,8 @@ Provided that the amount of the voluntary contribution does not exceed the amoun
 
 (viii) cloves;
 
+[Act 34 of 2016 wef 29/12/2016]
+
 (o) subject to paragraph (oa), payments made or liable to be made under any agreement or arrangement approved by the Minister or such person as he may appoint to a person not resident in Singapore (excluding any permanent establishment in Singapore) by an international shipping enterprise approved under section 13F —
 
 (i) at any time during the period from 1st April 1991 to 16th February 2012 (both dates inclusive) for the charter of a foreign ship within the meaning of that section (other than that used for towing or salvage operations during the period 1st April 1991 to 2nd May 2002 (both dates inclusive));
@@ -3016,7 +3028,7 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 [Act 2 of 2016 wef 11/04/2016]
 
-(p) for a period of 5 years from 1st January 2003, such income of the Singapore Commodity Exchange Limited as may be prescribed;
+(p) [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 (q) the investment income of any approved pension or provident fund or society;
 
@@ -3050,13 +3062,9 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 (ta) the income derived from interest on moneys held on deposit in an approved bank in Singapore by a non-resident person (not being an individual nor a permanent establishment in Singapore) who carries on any operation in Singapore through a permanent establishment in Singapore if the funds used by that person to make the deposit are not obtained from the operation;
 
-(u) such interest derived during the period 1st January 2002 to 31st December 2004 (both dates inclusive) by any person from the deposit of moneys of up to an aggregate amount of $100,000 in one or more of his POSB savings accounts with The Development Bank of Singapore Ltd;
+(u) [Deleted by Act 34 of 2016 wef 29/12/2016]
 
-[Act 37 of 2014 wef 27/11/2014]
-
-(ua) such interest derived during the period 1st January 2003 to 31st December 2004 (both dates inclusive) by any individual resident in Singapore from the deposit of moneys in one or more of his POSB savings accounts with The Development Bank of Singapore Ltd;
-
-[Act 37 of 2014 wef 27/11/2014]
+(ua) [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 (v) the interest received from such Asian Dollar Bonds as may be approved in writing by the Minister or such person as he may appoint if the interest is received by —
 
@@ -3076,9 +3084,7 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 (zb) any subsidy, allowance or benefit provided by an employer to an employee for the attendance by any child of the employee at a child care centre licensed under the Child Care Centres Act (Cap. 37A);
 
-(zc) the prescribed amount of interest derived during the period 1st January 2003 to 31st December 2004 (both dates inclusive) by any individual from the deposit in any standard savings, current or fixed deposit account with an approved bank or a finance company licensed under the Finance Companies Act (Cap. 108);
-
-[Act 37 of 2014 wef 27/11/2014]
+(zc) [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 (zd) the interest derived on or after 1st January 2005 by any individual from a deposit of moneys held in Singapore with an approved bank or a finance company licensed under the Finance Companies Act;
 
@@ -3106,7 +3112,9 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zg) any distribution made by any trustee-manager of a registered business trust;
 
-(zh) any distribution made by any trustee of a real estate investment trust of any income of the kinds referred to in section 43(2A)(a)(i), (ii), (iii) and (iv) to an individual, except where such distribution is derived by the individual through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+(zh) any distribution made by any trustee of a real estate investment trust of any income of the kinds referred to in section 43(2A)(a)(i), (ii), (iii), (iv) and (v) to an individual, except where such distribution is derived by the individual through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (zi) the following income derived from Singapore on or after 17th February 2006 by any individual:
 
@@ -3148,9 +3156,9 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards.
 
-[Act 39 of 2017 wef 01/04/2014]
-
 [26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
+
+[Act 39 of 2017 wef 01/04/2014]
 
 (2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018 (both dates inclusive) where 50% or more of those securities which are outstanding at any time during the life of the issue is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities and where such interest is derived by —
 
@@ -3730,6 +3738,10 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 [Act 34 of 2016 wef 25/03/2016]
 
+(1CK) The income of a shipping enterprise mentioned in this section includes income derived on or after the date the Income Tax (Amendment No. 3) Act 2016 is published in theGazette, from foreign exchange and risk management activities that are carried out in connection with and incidental to any activity mentioned in subsection (1CD), (1CE) or (1CF).
+
+[Act 34 of 2016 wef 29/12/2016]
+
 (1D) This section does not apply to income of a shipping enterprise, being an international shipping enterprise approved under section 13F, derived in the basis period for the year of assessment 2012 or any subsequent year of assessment from the operation of foreign ships.
 
 [22/2011]
@@ -3746,13 +3758,15 @@ where the mobilisation, holding or demobilisation is undertaken by the shipping 
 
 (a) the capital allowances provided under sections 16, 17, 18, 18B, 18C, 19, 19A, 20, 21 and 22 shall only be made against the income exempt under this section, and the balance of such allowances shall not be available as a deduction against any other income; and
 
-(b) a loss incurred by a shipping enterprise in respect of any activity referred to in subsection (1), (1B), (1C), (1CD), (1CE), (1CF), (1CG), (1CH), (1CI) or (1CJ) for any basis period shall only be deducted against the income from any activity referred to in any of those subsections, and the balance of such loss shall not be available as a deduction against any other income.
+(b) a loss incurred by a shipping enterprise in respect of any activity referred to in subsection (1), (1B), (1C), (1CD), (1CE), (1CF), (1CG), (1CH), (1CI), (1CJ) or (1CK) for any basis period shall only be deducted against the income from any activity referred to in any of those subsections, and the balance of such loss shall not be available as a deduction against any other income.
 
 [4/75; 31/98; 7/2007; 29/2010; 29/2012]
 
 [Act 2 of 2016 wef 24/02/2015]
 
 [Act 34 of 2016 wef 25/03/2016]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (3A) Where a shipping enterprise incurs a loss on any sale or assignment referred to in subsection (1CA) in any basis period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in subsection (1CA) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
 
@@ -4352,13 +4366,21 @@ where the mobilisation, holding or demobilisation is undertaken by the approved 
 
 (i) any mobilisation or holding of a foreign ship owned or operated by the approved international shipping enterprise and used or to be used for offshore renewable energy activity, or offshore mineral activity, outside the limits of the port of Singapore; or
 
-(ii) the demobilisation of a foreign ship owned or operated by the approved international shipping enterprise after it has been so used; and
+(ii) the demobilisation of a foreign ship owned or operated by the approved international shipping enterprise after it has been so used;
 
 [Act 34 of 2016 wef 25/03/2016]
 
-(p) on or after 25 March 2016 from foreign exchange and risk management activities which are carried out in connection with and incidental to an activity described in paragraph (l), (n) or (o).
+[Act 34 of 2016 wef 29/12/2016]
+
+(p) on or after 25 March 2016 from foreign exchange and risk management activities which are carried out in connection with and incidental to an activity described in paragraph (l), (n) or (o); and
 
 [Act 34 of 2016 wef 25/03/2016]
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(q) on or after the date the Income Tax (Amendment No. 3) Act 2016 is published in theGazette, from foreign exchange and risk management activities that are carried out in connection with and incidental to an activity mentioned in subsection (1)(f), (h), (i) or (j).
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (1A) Unless the Minister or such person as he may appoint permits in a particular case, subsection (1)(e) does not apply to the provision by an approved international shipping enterprise of ship management services to a qualifying special purpose vehicle if at least 50% of the total number of the issued ordinary shares of the enterprise are beneficially owned, whether directly or indirectly, by another approved international shipping enterprise.
 
@@ -4418,7 +4440,7 @@ to be approved as an approved international shipping enterprise, and the company
 
 [29/2010]
 
-(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in paragraphs (a) to (f), (h) to (l), (n), (o) and (p) of subsection (1), that loss —
+(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in paragraphs (a) to (f), (h) to (l) and (n) to (q) of subsection (1), that loss —
 
 (a) shall be deducted in accordance with section 37; and
 
@@ -4429,6 +4451,8 @@ to be approved as an approved international shipping enterprise, and the company
 [Act 2 of 2016 wef 24/02/2015]
 
 [Act 34 of 2016 wef 25/03/2016]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (4A) Where an approved international shipping enterprise incurs a loss on any sale or assignment referred to in subsection (1)(g) or (m) in any basis period falling, in whole or in part, within the tax exempt period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in either subsection (1)(g) or (m) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
 
@@ -4622,25 +4646,25 @@ then this section shall not apply to the trust or company in paragraph (a), or t
 
 ### Exemption of income of venture company
 
-13H\.—(1) The Minister may by regulations prescribe that any income of an approved venture company derived by it from making approved investments —
+13H\.—(1) The Minister may make regulations to provide that such income as the Minister may specify of an approved venture company derived by it from making approved investments is exempt from tax.
 
-(a) shall be exempt from tax; or
+[Act 34 of 2016 wef 29/12/2016]
 
-(b) notwithstanding section 43, shall be taxed at such concessionary rate, not being more than 10%, as the Minister, or such person as he may appoint, may specify for each year of assessment.
-
-[31/98]
-
-(2) Regulations made under subsection (1) may provide for the determination of the amount of the income of an approved venture company to be exempted or taxed at a concessionary rate and for the deduction of losses otherwise than in accordance with section 37.
+(2) Regulations made under subsection (1) may provide for the determination of the amount of the income of an approved venture company to be exempted and for the deduction of losses otherwise than in accordance with section 37.
 
 [31/98]
 
-(2A) The exemption from tax or tax at a concessionary rate of the income of an approved venture company under regulations made under subsection (1) —
+[Act 34 of 2016 wef 29/12/2016]
+
+(2A) The exemption from tax of the income of an approved venture company under regulations made under subsection (1) —
 
 (a) shall be for such period, not exceeding 10 years, as the Minister, or such person as he may appoint, may specify; and
 
 (b) in any particular case after the period referred to in paragraph (a), shall be for such further period or periods, not exceeding 5 years at any one time for each period, as the Minister, or such person as he may appoint, may specify.
 
 [31/98]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (2B) The total period under subsection (2A)(a) and the further period or periods under subsection (2A)(b) shall not in the aggregate exceed 15 years.
 
@@ -4652,31 +4676,29 @@ then this section shall not apply to the trust or company in paragraph (a), or t
 
 (3) The Comptroller shall determine the manner and extent to which allowances under section 19, 19A, 20, 21 or 22 and any expenses, losses and donations allowable under this Act which are attributable to the income referred to in subsection (1) are to be deducted.
 
-(4) In determining the income of an approved venture company which is exempt from tax or taxed at a concessionary rate under regulations made under subsection (1) for any year of assessment, there shall be deducted therefrom —
+(4) In determining the income of an approved venture company which is exempt from tax under regulations made under subsection (1) for any year of assessment, there shall be deducted therefrom —
 
-(a) in the case of income which is exempt from tax, expenses allowable under this Act for that year of assessment which are attributable to that income;
+(a) expenses allowable under this Act for that year of assessment which are attributable to that income;
 
-(aa) in the case of income which is taxed at a concessionary rate, expenses and donations allowable under this Act for that year of assessment which are attributable to that income;
+[Act 34 of 2016 wef 29/12/2016]
+
+(aa) [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 (b) any loss for that year of assessment arising from the disposal of any approved investments in Singapore or elsewhere;
 
 (c) any allowances for that year of assessment under section 19, 19A, 20, 21 or 22 attributable to that income notwithstanding that no claim for those allowances has been made; and
 
-(d) any balance of the expenses, losses and allowances referred to in paragraphs (a), (aa), (b) and (c) which have not been deducted in determining that income for any previous year of assessment.
+(d) any balance of the expenses, losses and allowances referred to in paragraphs (a), (b) and (c) which have not been deducted in determining that income for any previous year of assessment.
 
 [31/98; 29/2012]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (5) Any expenses, losses or allowances referred to in subsection (4) shall only be deducted against the income of an approved venture company exempt from tax under regulations made under subsection (1) and shall not be available as a deduction against any other income of the company, except that any balance of the expenses, losses or allowances remaining unabsorbed at the end of the tax exempt period of the company shall be available as a deduction against any other income of the company for the year of assessment which relates to the basis period in which the tax exemption ceases and for any subsequent year of assessment in accordance with section 23 or 37, as the case may be.
 
 [29/2012]
 
-(5A) Where the income of an approved venture company is taxed at a concessionary rate under regulations made under subsection (1) —
-
-(a) any expenses, donations, losses or allowances referred to in subsection (4) shall only be deducted against such income, and any balance of the expenses, donations, losses or allowances for any year of assessment shall, subject to sections 23, 37 and 37B, be available as a deduction against any other income of the company for that year of assessment and for any subsequent year of assessment; and
-
-(b) notwithstanding subsection (5), where the income of the company was exempted from tax immediately before being taxed at a concessionary rate, the balance referred to in subsection (5) shall firstly be deducted against the income taxed at a concessionary rate and thereafter shall be available for deduction against any other income of the company for the year of assessment which relates to the basis period in which the tax exemption ceases, and subsequent years of assessment, in accordance with section 23 or 37, as the case may be.
-
-[31/98]
+(5A) [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 (6) The Comptroller shall for each year of assessment for which the income of an approved venture company is exempt from tax under regulations made under subsection (1) issue to the approved venture company a statement (to be included in a notice of any assessment served on the approved venture company under section 76) showing the amount of income exempt from tax under regulations made under subsection (1) and Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if such statement were a notice of assessment.
 
@@ -4704,9 +4726,11 @@ then this section shall not apply to the trust or company in paragraph (a), or t
 
 (15) An approved venture company shall deliver to the Comptroller a copy of the account made up to any date specified by him whenever called upon to do so by notice in writing.
 
-(16) Notwithstanding anything in this section, where it appears to the Comptroller that any income of an approved venture company which has been exempted from tax or subject to tax at a concessionary rate under regulations made under subsection (1) ought not to have been so exempted or taxed for any year of assessment, the Comptroller may, at any time within 4 years after the expiration of that year of assessment, make such assessment or additional assessment upon the company as may appear to be necessary in order to make good any loss of tax.
+(16) Notwithstanding anything in this section, where it appears to the Comptroller that any income of an approved venture company which has been exempted from tax under regulations made under subsection (1) ought not to have been so exempted for any year of assessment, the Comptroller may, at any time within 4 years after the expiration of that year of assessment, make such assessment or additional assessment upon the company as may appear to be necessary in order to make good any loss of tax.
 
 [19/2013]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (17) Parts XVII and XVIII (relating to assessments, objections and appeals) and any rules made under this Act shall apply, with the necessary modifications, as if an assessment under subsection (16) were a notice of assessment.
 
@@ -5796,11 +5820,13 @@ except that the Minister may extend the period so specified for such further per
 
 [53/2007]
 
-(2) The Minister or such person as he may appoint may, during the period from 15th February 2007 to 14th February 2017 (both dates inclusive), approve any not-for-profit organisation for the purposes of subsection (1).
+(2) The Minister or such person as he may appoint may, during the period from 15 February 2007 to 31 March 2022 (both dates inclusive), approve any not-for-profit organisation for the purposes of subsection (1).
 
 [53/2007]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (3) The approval under subsection (2) shall be subject to such conditions as the Minister or such person as he may appoint may impose and shall be for such period not exceeding 10 years as he may specify.
 
@@ -6180,7 +6206,9 @@ arising from funds of the master fund of the structure that are managed in Singa
 
 13Z\.—(1) There shall be exempt from tax any gains or profits derived by a company (referred to in this section as the divesting company) from the disposal of ordinary shares in another company (referred to in this section as the investee company) which are legally and beneficially owned by the divesting company immediately before the disposal, being a disposal —
 
-(a) during the period between 1st June 2012 and 31st May 2017 (both dates inclusive); and
+(a) during the period between 1 June 2012 to 31 May 2022 (both dates inclusive); and
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (b) after the divesting company has, at all times during a continuous period of at least 24 months ending on the date immediately prior to the date of disposal of such shares, legally and beneficially owned at least 20% of the ordinary shares in that investee company.
 
@@ -6882,115 +6910,7 @@ does not exceed $100,000 for each year of assessment.
 
 [Act 34 of 2016 wef 01/04/2016]
 
-### Further deduction for logistics expenses
-
-14C\.—(1) Subject to this section, where the Comptroller is satisfied that an approved company has incurred approved logistics expenses, there shall be allowed to the company a further deduction of the amount of such expenses specified by the Minister or such person as he may appoint, in addition to the amount allowed under section 14.
-
-[49/2004]
-
-(2) The Minister or such person as he may appoint may —
-
-(a) specify the items of logistics expenses to be allowed to an approved company under subsection (1);
-
-(b) specify the maximum amount of logistics expenses to be allowed to an approved company under subsection (1) for each year of assessment, up to the full amount of such expenses incurred by the company;
-
-(c) specify the number of years of assessment for which deduction is to be allowed to an approved company under subsection (1), up to a maximum of 10 years of assessment; and
-
-(d) impose such conditions as he thinks fit when approving a company for the purpose of this section.
-
-[49/2004]
-
-(3) No deduction shall be allowed under this section in respect of any logistics expenses which are not allowed as deductions under section 14.
-
-[49/2004]
-
-(4) Where in any relevant period an approved company fails to comply with any condition imposed under subsection (2)(d), there shall be deemed to be income of the company, chargeable with tax for the year of assessment relating to the basis period in which such failure occurs, an amount ascertained in accordance with the formula
-
-where E
-
-1
-
-, E
-
-2
-
-, E
-
-3
-
-, E
-
-n
-
-is the total amount of logistics expenses allowed to the company under subsection (1) for each year of assessment falling within the relevant period in which such failure occurs;
-
-C
-
-1
-
-, C
-
-2
-
-, C
-
-3
-
-, C
-
-n
-
-is the rate of tax under section 43(1)(a) or concessionary rate of tax, or both such rates, as the case may be, applicable to the income of the company for each year of assessment falling within the relevant period in which such failure occurs; and
-
-D
-
-is the rate of tax under section 43(1)(a) or concessionary rate of tax, or both such rates, as the case may be, applicable to the income of the company for the year of assessment relating to the basis period in which such failure occurs.
-
-[49/2004]
-
-(5) Notwithstanding subsection (4), the Minister or such person as he may appoint may vary all or any of the conditions imposed on an approved company under subsection (2)(d).
-
-[49/2004]
-
-(6) In this section —
-
-“approved” means approved by the Minister or such person as he may appoint;
-
-“approved company” means a company resident in Singapore which —
-
-(a) undertakes logistics activities in-house in support of its business activities; or
-
-(b) outsources its logistics activities to a service provider,
-
-and approved by the Minister or such person as he may appoint;
-
-“concessionary rate of tax” means the rate of tax in accordance with —
-
-(a) any order made under section 13(12);
-
-(b) section 13H, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be; or
-
-[Act 2 of 2016 wef 01/04/2015]
-
-(c) section 19J(5C) or 19KA(1)(b) (as the case may be) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
-
-[Act 11 of 2016 wef 19/04/2016]
-
-“logistics expenses” means expenses incurred by an approved company which are —
-
-(a) directly attributable to the carrying out of logistics activities by the company in Singapore; or
-
-(b) paid to a service provider that carries out the company’s logistics activities in Singapore,
-
-but excludes such expenses on international freight;
-
-“relevant period”, in relation to an approved company, means the period or periods any condition imposed under subsection (2)(d) is to be satisfied by the company.
-
-[49/2004; 34/2005; 7/2007; 53/2007; 34/2008; 29/2010; 22/2011; 19/2013]
-
-(7) No approval shall be granted under this section on or after 1st July 2009.
-
-[49/2004]
+14C\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 ### Expenditure on research and development
 
@@ -7066,7 +6986,15 @@ but excludes such expenses on international freight;
 
 “concessionary income” means income that is subject to tax at a concessionary rate of tax;
 
-“concessionary rate of tax” has the same meaning as in section 14C;
+“concessionary rate of tax” means the rate of tax in accordance with —
+
+(a) any order made under section 13(12);
+
+(b) section 43C (in respect of those relating to offshore general insurance business only), 43E, 43G, 43I, 43J, 43N, 43P, 43Q, 43R, 43U, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
+
+(c) section 19J(5C) or (5E) or 19KA(1)(b) (as the case may be) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
+
+[Act 34 of 2016 wef 29/12/2016]
 
 “cost-sharing agreement” means any agreement or arrangement made by 2 or more persons to share the expenditure of research and development activities to be carried out under the agreement or arrangement;
 
@@ -13284,9 +13212,13 @@ subsections (12), (13) and (13A) shall not apply to that trust for the year of a
 
 (16) In subsection (15), “statutory income of the trustee” does not include —
 
-(a) in relation to a trustee of a real estate investment trust within the meaning of section 43(10), any income from any trade or business carried on by the trustee other than the income of the kinds referred to in section 43(2A)(a)(i), (ii), (iii) and (iv);
+(a) in relation to a trustee of a real estate investment trust within the meaning of section 43(10), any income from any trade or business carried on by the trustee other than the income of the kinds referred to in section 43(2A)(a)(i), (ii), (iii), (iv) and (v);
 
-(b) in relation to a trustee of an approved sub-trust of a real estate investment trust within the meaning of section 43(10), any income from any trade or business carried on by the trustee other than income of the kinds referred to in section 43(2A)(b)(i) and (ii); or
+[Act 34 of 2016 wef 29/12/2016]
+
+(b) in relation to a trustee of an approved sub-trust of a real estate investment trust within the meaning of section 43(10), any income from any trade or business carried on by the trustee other than income of the kinds referred to in section 43(2A)(b)(i), (ii) and (iii); or
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (c) in relation to a trustee of any other trust, any income from any trade or business carried on by the trustee.
 
@@ -13324,7 +13256,9 @@ subsections (12), (13) and (13A) shall not apply to that trust for the year of a
 
 (1C) Regulations under subsections (1A) and (1B) may make provision ––
 
-(a) for the manner in which a concessionary rate of tax under sections 13H, 43Y and 43ZA may be accorded to a partner of a partnership being an individual;
+(a) for the manner in which a concessionary rate of tax under sections 43Y and 43ZA may be accorded to a partner of a partnership being an individual;
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (b) in a case where any deduction, writing-down allowance, exemption or concessionary rate of tax ought not to have been allowed to a partner of a partnership due to non‑compliance with any condition imposed on the partnership, for the recovery from the partner —
 
@@ -13984,9 +13918,11 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be;
+(b) section 43A, 43C (in respect of those relating to offshore general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U, 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be;
 
 [Act 2 of 2016 wef 01/04/2015]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -14512,13 +14448,17 @@ is the concessionary rate of tax;
 
 “concessionary rate of tax” means any rate of tax lower than the rate specified in section 43(1)(a) in accordance with —
 
-(a) any order made under section 13(12); or
+(a) any order made under section 13(12);
 
-(b) section 13H, 43A, 43C (in respect of those relating to offshore general insurance business only), 43D, 43E, 43F, 43G, 43H, 43I, 43J, 43K, 43L (repealed), 43N, 43P, 43Q, 43R, 43S, 43T, 43U, 43V, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be.
+[Act 34 of 2016 wef 29/12/2016]
 
-[34/2005; 7/2007; 53/2007; 34/2008; 29/2010; 22/2011; 2/2013; 19/2013]
+(b) section 43A, 43C (in respect of those relating to offshore general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U, 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
 
-[Act 2 of 2016 wef 01/04/2015]
+[Act 34 of 2016 wef 29/12/2016]
+
+(c) section 19J(5C) or (5E) or 19KA(1)(b) (as the case may be) of the Economic Expansion Incentives (Relief from Income Tax) Act.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (18) This section shall not apply to —
 
@@ -17074,7 +17014,9 @@ then the following provisions shall apply to the balance:
 
 “concessionary income” means income that is subject to tax at a concessionary rate of tax;
 
-“concessionary rate of tax” has the same meaning as in section 14C;
+“concessionary rate of tax” has the same meaning as in section 14C in force immediately before the date the Income Tax (Amendment No. 3) Act 2016 is published in theGazette;
+
+[Act 34 of 2016 wef 29/12/2016]
 
 “normal income” means income that is subject to tax at the rate of tax specified in section 43(1)(a).
 
@@ -17400,7 +17342,9 @@ there shall be allowed —
 
 (3) In the case of an individual resident in Singapore in the year of assessment who, in the year preceding the year of assessment was a citizen or permanent resident of Singapore and has paid money in accordance with section 18 of the Central Provident Fund Act (Cap. 36) to his spouse’s, his sibling’s, his parent’s, his parent-in-law’s, his grandparent’s or his grandparent-in-law’s retirement account or special account or 2 or more of those accounts, there shall be allowed for that year of assessment, a deduction of the lower of —
 
-(a) the amount of such payment or (as the case may be) the total amount of all such payments but subject to the maximum amount by which each account may be topped-up in accordance with regulations made under the Central Provident Fund Act; and
+(a) the amount of such payment or (as the case may be) the total amount of all such payments but subject to the maximum relief amount prescribed by rules made under section 7; and
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (b) $7,000,
 
@@ -17414,13 +17358,19 @@ except that —
 
 (3A) In the case of an individual resident in Singapore in the year of assessment who, in the year preceding the year of assessment, was a citizen or permanent resident of Singapore and who, or whose employer on his behalf, has paid money to his retirement account or special account in accordance with section 18 of the Central Provident Fund Act, there shall be allowed for that year of assessment, a deduction of the lower of —
 
-(a) the amount of such payment or (as the case may be) the total amount of all such payments but subject to the maximum amount by which the account may be topped-up in accordance with regulations made under the Central Provident Fund Act; and
+(a) the amount of such payment or (as the case may be) the total amount of all such payments but subject to the maximum relief amount prescribed by rules made under section 7; and
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (b) $7,000,
 
 except that a payment to a retirement account that is a prescribed payment shall not be allowed as a deduction.
 
 [22/2011]
+
+(3B) The rules mentioned in subsections (3) and (3A) may prescribe different maximum relief amounts for different individuals or classes of individuals, and for the retirement account and the special account.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (4) For any year of assessment, an individual may only be the subject of a claim or claims for the individual’s maintenance under one dependant provision; and if claims are made under more than one dependant provision, then, subject to any priority given to any claim in the applicable dependant provision, the deduction is to be allowed to the claimant or claimants (as the case may be) under only one of those dependant provisions, being —
 
@@ -17536,6 +17486,12 @@ whichever is the earlier, subject to subsection (12B) and the following conditio
 
 [Act 37 of 2014 wef 27/11/2014]
 
+### Limit on total deduction under section 39
+
+39A\. Despite anything in section 39 or the Fifth Schedule, for the year of assessment 2018 and every subsequent year of assessment, the total amount of all deductions allowable to any individual under section 39 must not exceed $80,000 for that year of assessment.
+
+[Act 34 of 2016 wef 29/12/2016]
+
 ### Relief for non-resident citizens and certain other non-residents
 
 40\.—(1) Any individual who in any year of assessment is not resident in, but is a citizen of, Singapore shall be allowed such relief, if any, as will reduce the amount of tax payable by him in respect of that year to an amount which bears the same proportion to the amount of tax which would be so payable if he were resident in Singapore in that year, and if the tax were charged on his aggregate income, reduced by any deductions which would be allowable under section 39 (except subsections (2)(k), (12) and (12A) thereof), as the amount of his assessable income (other than specified income) bears to his aggregate income.
@@ -17640,6 +17596,10 @@ whichever is the earlier, subject to subsection (12B) and the following conditio
 
 [24/2001]
 
+(3A) To avoid doubt, for the purpose of subsection (3), section 39A applies to the computation of the tax that would be payable by a resident of Singapore in the circumstances mentioned in that subsection.
+
+[Act 34 of 2016 wef 29/12/2016]
+
 (4) Where any person is entitled to relief under this section and is also entitled to relief under section 40(1) or (4), he shall be entitled to whichever relief is the greater in respect of the income to which this section relates.
 
 [24/2001]
@@ -17677,6 +17637,10 @@ whichever is the earlier, subject to subsection (12B) and the following conditio
 (3) The relief available to any person under subsection (2) shall be so limited that the tax payable in respect of such income shall not be less than that which would be payable by a resident of Singapore in the same circumstances.
 
 [24/2001]
+
+(3A) To avoid doubt, for the purpose of subsection (3), section 39A applies to the computation of the tax that would be payable by a resident of Singapore in the circumstances mentioned in that subsection.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (4) Where any person is entitled to relief under this section and is also entitled to relief under section 40(1) or (4), he shall be entitled to whichever relief is the greater in respect of the income to which this section relates.
 
@@ -17729,6 +17693,10 @@ whichever is the earlier, subject to subsection (12B) and the following conditio
 (3) The relief available to any person under subsection (2) shall be so limited that the tax payable in respect of such income referred to in subsection (1)(b) or (c), shall not be less than that which would be payable by a resident of Singapore in the same circumstances.
 
 [24/2001]
+
+(3A) To avoid doubt, for the purpose of subsection (3), section 39A applies to the computation of the tax that would be payable by a resident of Singapore in the circumstances mentioned in that subsection.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (4) For the purposes of computing the tax payable by a resident of Singapore in the same circumstances referred to in subsection (3), the statutory income derived as a public entertainer by a person to whom this section applies shall be excluded.
 
@@ -17970,13 +17938,37 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 (iii) income that is payable out of rental income or income from the management or holding of immovable property in Singapore, but not out of gains from the disposal of such immovable property;
 
-(iv) distribution from an approved sub-trust of the real estate investment trust out of income referred to in paragraph (b)(i) and (ii);
+(iv) distribution from an approved sub-trust of the real estate investment trust out of income referred to in paragraph (b)(i), (ii) and (iii);
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(v) rental support payment in relation to any immovable property, which is paid to the trustee by —
+
+(A) the person (A) who sold to the trustee the property or any interest in the owner of the property;
+
+(B) a person who wholly owns (directly or indirectly)A; or
+
+(C) any other person approved by the Comptroller;
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (b) in the case of any approved sub-trust of a real estate investment trust, any income from any trade or business carried on by the trustee, other than the following income distributed by the trustee in cash to the trustee of the real estate investment trust:
 
 (i) rental income or income from the management or holding of immovable property but not including gains from the disposal of immovable property;
 
-(ii) income that is ancillary to the management or holding of immovable property but not including gains from the disposal of immovable property; or
+(ii) income that is ancillary to the management or holding of immovable property but not including gains from the disposal of immovable property;
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(iii) rental support payment in relation to any immovable property, which is paid to the firstmentioned trustee by —
+
+(A) the person (A) who sold to that trustee the property or any interest in the owner of the property;
+
+(B) a person who wholly owns (directly or indirectly)A; or
+
+(C) any other person approved by the Comptroller; or
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (c) in the case of any other trust, any income from any trade or business carried on by the trustee.
 
@@ -17984,7 +17976,9 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 (2B) The conditions referred to in subsection (2A)(a) are —
 
-(a) the distribution is made at any time from 1st July 2009 to 31st December 2010 (both dates inclusive), or on or after 1st April 2012 by the trustee of the real estate investment trust out of income specified in subsection (2A)(a)(i) to (iv);
+(a) the distribution is made at any time from 1st July 2009 to 31st December 2010 (both dates inclusive), or on or after 1st April 2012 by the trustee of the real estate investment trust out of income specified in subsection (2A)(a)(i) to (v);
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (b) before the distribution, the trustee of the real estate investment trust has given to unitholders receiving the distribution an option to receive the same either in cash or units in the trust; and
 
@@ -18006,7 +18000,7 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [49/2004]
 
-(3B) Notwithstanding anything in this Act, tax at the rate of 10% shall be levied and paid on the gross amount of any distribution made out of any income referred to in subsection (2A)(a)(i), (ii), (iii) and (iv) during the period from 18th February 2005 to 31st March 2020 (both dates inclusive) by a trustee of any real estate investment trust to a person (other than an individual) not resident in Singapore —
+(3B) Notwithstanding anything in this Act, tax at the rate of 10% shall be levied and paid on the gross amount of any distribution made out of any income referred to in subsection (2A)(a)(i), (ii), (iii), (iv) and (v) during the period from 18th February 2005 to 31st March 2020 (both dates inclusive) by a trustee of any real estate investment trust to a person (other than an individual) not resident in Singapore —
 
 (a) who does not have any permanent establishment in Singapore; or
 
@@ -18017,6 +18011,8 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 [Act 37 of 2014 wef 27/11/2014]
 
 [Act 2 of 2016 wef 01/04/2015]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (3C) [Deleted by Act 19 of 2013]
 
@@ -18114,9 +18110,23 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 
 (B) at least one of whom is an individual throughout the basis period for that year of assessment, and the contribution of that individual under the memorandum of association of the company to the assets of the company in the event of its being wound up, amounts to at least 10% of the total contributions of the members of the company throughout the basis period for that year of assessment;
 
-“real estate investment trust” means a trust that is constituted as a collective investment scheme authorised under section 286 of the Securities and Futures Act (Cap. 289) and listed on the Singapore Exchange, and that invests or proposes to invest in immovable property and immovable property‑related assets.
+“real estate investment trust” means a trust that is constituted as a collective investment scheme authorised under section 286 of the Securities and Futures Act (Cap. 289) and listed on the Singapore Exchange, and that invests or proposes to invest in immovable property and immovable property‑related assets;
 
 [28/96; 24/2001; 37/2002; 49/2004; 34/2005; 7/2007; 53/2007; 27/2009; 19/2013]
+
+[Act 34 of 2016 wef 29/12/2016]
+
+“rental support payment”, in relation to immovable property, means any payment —
+
+(a) made under an agreement —
+
+(i) made at the time of the sale mentioned in subsection (2A)(a)(v)(A) or (b)(iii)(A); and
+
+(ii) that provides for such payment to be made only for a fixed period of time; and
+
+(b) that is intended to compensate a party to the agreement in the event that the amount of rental income from the property over a period of time is less than an amount agreed as the expected rental income for the same period, taking into account prevailing and forecasted market conditions at the time of that sale.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (11) Notwithstanding the definition of “qualifying company” in subsection (10), a company that is incorporated on or after 26th February 2013 is not a qualifying company in relation to any year of assessment if —
 
@@ -18152,7 +18162,7 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 
 ### Concessionary rate of tax for Asian Currency Unit, Fund Manager and securities company
 
-43A\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income derived before 1st January 2004 as the Minister may specify of —
+43A\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income derived before 1st January 2004 as the Minister may specify of —
 
 (a) a financial institution with an Asian Currency Unit;
 
@@ -18163,6 +18173,8 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 approved by the Minister or such person as he may appoint.
 
 [1/88; 42/2001; 37/2002; 21/2003]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (2) Regulations made under subsection (1) may provide for —
 
@@ -18248,7 +18260,7 @@ An approved insurer whose approval was granted between 19 February 2011 and 31 M
 
 An approved insurer whose approval is granted on or after 1 April 2016
 
-(f) to provide for the deduction (otherwise than in accordance with this Act), from the income mentioned in paragraphs (a) to (e), of allowances under section 19, 19A, 20, 21 or 22, 22 or 23, expenses, losses and donations allowable under this Act, including deduction of these allowances, expenses, losses and donations in such manner and to such extent as the Comptroller may determine;
+(f) to provide for the deduction (otherwise than in accordance with this Act), from the income mentioned in paragraphs (a) to (e), of allowances under section 19, 19A, 20, 21, 22 or 23, expenses, losses and donations allowable under this Act, including deduction of these allowances, expenses, losses and donations in such manner and to such extent as the Comptroller may determine;
 
 [Act 39 of 2017 wef 01/04/2016]
 
@@ -18290,55 +18302,11 @@ An approved insurer whose approval is granted on or after 1 April 2016
 
 [Act 34 of 2016 wef 01/04/2016]
 
-### Concessionary rate of tax for offshore transactions on any market maintained by Singapore Exchange or its subsidiaries
-
-43D\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of a futures member of the Singapore Exchange —
-
-(a) derived from transactions in gold bullion or in any commodity or financial futures on any approved exchange or in any approved market with, or derived from any foreign exchange transaction with —
-
-(i) a bank licensed under the Banking Act (Cap. 19), or a merchant bank approved by the Monetary Authority of Singapore, which is a financial sector incentive company;
-
-(ii) another futures member of the Singapore Exchange;
-
-(iii) a person who is neither a resident of nor a permanent establishment in Singapore;
-
-(iv) a branch office outside Singapore of a company resident in Singapore; or
-
-(v) a foreign investor where such transaction is carried out through a financial sector incentive company;
-
-(b) derived from transactions in any petroleum futures on any approved exchange with an oil trading company approved under section 43F;
-
-(c) derived from transactions in derivatives products as approved by the Minister or such person as he may appoint and introduced during the period from 1st January 2002 to 31st December 2006 (both dates inclusive), on any market maintained by the Singapore Exchange or its subsidiaries, with any of the persons mentioned in paragraph (a)(i) to (v) and any member of any securities market maintained by the Singapore Exchange Securities Trading Limited,
-
-[Act 37 of 2014 wef 27/11/2014]
-
-and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
-
-[13/84; 1/90; 28/92; 26/93; 32/99; 24/2000; 37/2002; 49/2004; 34/2005]
-
-(2) Regulations made under subsection (1) may also provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income of any member of any securities market maintained by the Singapore Exchange Securities Trading Limited in respect of transactions described in subsection (1)(c).
-
-[37/2002]
-
-(3) In this section and sections 43A(2)(b), 43E, 43F, 43G, 43H, 43P, 43R and 43S, “approved” means approved by the Minister or such person as he may appoint.
-
-[1/98; 31/98; 37/2002; 21/2003; 49/2004; 7/2007; 22/2011; 19/2013]
-
-(4) In this section —
-
-“financial sector incentive company” has the same meaning as in section 43Q;
-
-“futures member of the Singapore Exchange” means any company which holds membership of any class or description of a futures market, or of a clearing house for the futures market, maintained by the Singapore Exchange Limited or any of its subsidiaries.
-
-[34/2005]
-
-(5) This section shall not apply to any income derived on or after 1st January 2011.
-
-[29/2010]
+43D\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 ### Concessionary rate of tax for headquarters company
 
-43E\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved headquarters company derived by it from —
+43E\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved headquarters company derived by it from —
 
 (a) the provision of such qualifying services as may be prescribed to its offices, associated companies and other persons where such offices, associated companies and persons are outside Singapore; or
 
@@ -18347,6 +18315,8 @@ and those regulations may provide for the deduction of losses otherwise than in 
 and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
 
 [31/86; 20/91]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (1A) This section does not apply to any income derived on or after 1 October 2015.
 
@@ -18372,6 +18342,10 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (4) In this section —
 
+“approved” means approved by the Minister or such person as the Minister appoints;
+
+[Act 34 of 2016 wef 29/12/2016]
+
 “associated company”, in relation to an approved headquarters company, means a company —
 
 (a) the operations of which are or can be controlled, directly or indirectly, by that headquarters company;
@@ -18390,17 +18364,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [34/2005]
 
-### Concessionary rate of tax for oil trading company
-
-43F\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved oil trading company derived from such transactions in petroleum, petroleum products or petroleum futures as may be prescribed, and those regulations may provide for deduction of losses otherwise than in accordance with section 37(3).
-
-[1/90]
-
-(2) In this section, “oil trading company” means a company carrying on a business of trading in petroleum, petroleum products or petroleum futures.
-
-(3) No approval shall be granted under this section on or after 1st June 2001.
-
-[37/2002]
+43F\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 ### Concessionary rate of tax for Finance and Treasury Centre
 
@@ -18438,6 +18402,10 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (3) In this section —
 
+“approved” means approved by the Minister or such person as the Minister appoints;
+
+[Act 34 of 2016 wef 29/12/2016]
+
 “associated company”, in relation to a company with an approved Finance and Treasury Centre, means a company —
 
 (a) the operations of which are or can be controlled, directly or indirectly, by the company with the approved Centre;
@@ -18464,23 +18432,15 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [Act 34 of 2016 wef 25/03/2016]
 
-### Concessionary rate of tax for international commodity trading company
-
-43H\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved international commodity trading company derived by it from such qualifying transactions in commodities or commodity futures as may be prescribed, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
-
-[20/91]
-
-(2) In this section, “international commodity trading company” means a company carrying on the business of international trading of commodities other than petroleum or petroleum products.
-
-(3) No approval shall be granted under this section on or after 1st June 2001.
-
-[37/2002]
+43H\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 ### Concessionary rate of tax for offshore leasing of machinery and plant
 
-43I\.—(1) Notwithstanding section 43, tax at the rate of 10% or such other concessionary rate as the Minister may by regulations prescribe shall be levied and paid for each year of assessment upon the income of a leasing company accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant or such other activity as may be prescribed by regulations.
+43I\.—(1) Notwithstanding section 43, tax at the rate of 10% shall be levied and paid for each year of assessment upon the income of a leasing company accruing in or derived from Singapore in respect of offshore leasing of any machinery or plant or such other activity as may be prescribed by regulations.
 
 [20/91; 31/98]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (1A) This section does not apply to any income accruing in or derived from Singapore on or after 1 January 2016.
 
@@ -18546,9 +18506,11 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 ### Concessionary rate of tax for trustee company
 
-43J\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved trustee company derived by it from such services as may be prescribed; and those regulations may provide for exemption from tax of any such income and for the deduction of losses otherwise than in accordance with section 37(3).
+43J\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved trustee company derived by it from such services as may be prescribed; and those regulations may provide for exemption from tax of any such income and for the deduction of losses otherwise than in accordance with section 37(3).
 
 [2/92]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (2) In this section, “trustee company” means a company that is a licensed trust company within the meaning of the Trust Companies Act (Cap. 336), or that is exempted under that Act from holding a trust business licence within the meaning of that Act.
 
@@ -18574,25 +18536,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [22/2011]
 
-### Concessionary rate of tax for members of Singapore Commodity Exchange Ltd, etc.
-
-43K\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon such income as the Minister may specify of a member of the Corporation known as the Singapore Commodity Exchange Ltd or any other prescribed exchange derived from transactions in specified commodity futures on any specified exchange or in any specified market with —
-
-(a) an Asian Currency Unit of a financial institution;
-
-(b) another member of the Singapore Commodity Exchange Ltd or the prescribed exchange;
-
-(c) a person who is neither a resident of nor a permanent establishment in Singapore; or
-
-(d) a branch office outside Singapore of a company resident in Singapore,
-
-and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
-
-[28/92; 35/2007]
-
-(2) This section shall not apply to any income derived on or after 1st January 2011.
-
-[29/2010]
+43K\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 43L\. [Repealed by Act 7 of 2007]
 
@@ -18600,7 +18544,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 ### Concessionary rate of tax for income derived from debt securities
 
-43N\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% or such other concessionary rate shall be levied and paid for each year of assessment upon —
+43N\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon —
 
 (a) interest derived by any company from any qualifying debt securities;
 
@@ -18637,6 +18581,8 @@ and those regulations may provide for the deduction of losses otherwise than in 
 [31/98; 24/2000; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007; 34/2008; 19/2013]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (2) Subsection (1)(a), (aa), (ab), (ac) or (ad), as the case may be, shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
@@ -18774,6 +18720,10 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (3) In this section —
 
+“approved” means approved by the Minister or such person as the Minister appoints;
+
+[Act 34 of 2016 wef 29/12/2016]
+
 “global trading company” means a company carrying on the business of international trading of commodities or commodities futures;
 
 “qualifying company” means —
@@ -18800,9 +18750,13 @@ which carries on any qualifying structured commodity financing activities, treas
 
 (2A) Regulations under subsection (1) may make transitional provisions to apply the rate of tax of 12% to —
 
-(a) a futures member of the Singapore Exchange referred to in section 43D; and
+(a) any company which holds membership of any class or description of a futures market, or of a clearing house for the futures market, maintained by the Singapore Exchange Limited or any of its subsidiaries; and
 
-(b) a member of the corporation known as the Singapore Commodity Exchange Ltd referred to in section 43K,
+[Act 34 of 2016 wef 29/12/2016]
+
+(b) a member of the corporation known as the Singapore Commodity Exchange Ltd,
+
+[Act 34 of 2016 wef 29/12/2016]
 
 which has given notice within a specified period to the Monetary Authority of Singapore for the purposes of the application of these transitional provisions, in respect of its income derived on or after 1st January 2011 but on or before 31st December 2013 from specified qualifying activities.
 
@@ -18834,37 +18788,13 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 [49/2004]
 
-### Concessionary rate of tax for commodity derivatives trading company
+(5) In this section, “approved company” means a company approved by the Minister, or such person as the Minister may appoint, for the purposes of this section.
 
-43S\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved commodity derivatives trading company derived by it on or after 27th February 2004 from prescribed transactions in commodity derivatives or commodities, and those regulations may provide for the conditions to be satisfied for the approval of such a company, and for the deduction of losses otherwise than in accordance with section 37(3).
+[Act 34 of 2016 wef 29/12/2016]
 
-[49/2004]
+43S\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
-(2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved commodity derivatives trading company subject to such conditions as the Minister or such person as he may appoint may impose.
-
-[49/2004]
-
-(3) In this section, “commodity derivatives trading company” means a company carrying on the business of trading of commodity derivatives.
-
-[49/2004]
-
-### Concessionary rate of tax for income derived from securities lending or repurchase arrangement
-
-43T\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of a qualifying securities lending or repurchase company derived by it on or after 18th February 2005 but before 1st January 2009 under a securities lending or repurchase arrangement.
-
-[34/2005]
-
-(2) Regulations made under subsection (1) may provide for the conditions to be satisfied by a qualifying securities lending or repurchase company and for the deduction of losses otherwise than in accordance with section 37(3).
-
-[34/2005]
-
-(3) In this section —
-
-“qualifying securities lending or repurchase company” means a company which has notified the Monetary Authority of Singapore for the purpose of this section;
-
-“securities lending or repurchase arrangement” has the same meaning as in section 10N.
-
-[34/2005]
+43T\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 ### Concessionary rate of tax for income derived from organising or staging tourism event
 
@@ -18880,33 +18810,7 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 [34/2005]
 
-### Concessionary rate of tax for clearing member of Singapore clearing house
-
-43V\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved clearing member of a Singapore clearing house derived by it on or after 17th February 2006 from the provision of over-the-counter derivatives clearing services using the Singapore clearing house.
-
-[7/2007]
-
-(2) Regulations made under subsection (1) may provide for the deduction of losses otherwise than in accordance with section 37(3).
-
-[7/2007]
-
-(3) The concessionary rate of tax referred to in subsection (1) shall apply to an approved clearing member of a Singapore clearing house subject to such conditions as the Minister or such person as he may appoint may impose.
-
-[7/2007]
-
-(4) No approval shall be granted under this section after 16th February 2011.
-
-[7/2007]
-
-(5) In this section —
-
-“approved” means approved by the Minister or such person as he may appoint;
-
-“clearing member of a Singapore clearing house” means a company which holds any membership of a Singapore clearing house;
-
-“Singapore clearing house” means a person operating a clearing facility who is designated as a designated clearing house for the purposes of the Securities and Futures Act (Cap. 289).
-
-[7/2007]
+43V\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
 ### Concessionary rate of tax for shipping investment manager
 
@@ -19534,11 +19438,11 @@ as an approved company for the purpose of this section from that date;
 
 (l) information technology support services,
 
+[Act 39 of 2017 wef 02/06/2011]
+
 and only services provided to an approved related company of that company shall be treated as “corporate service” in determining if the approved company has provided shipping‑related support service which is corporate service for the purposes of subsections (4) and (5I);
 
 [Act 2 of 2016 wef 24/02/2015]
-
-[Act 39 of 2017 wef 02/06/2011]
 
 “finance leasing” has the same meaning as in section 13S(20) or 43ZA(7);
 
@@ -19732,76 +19636,6 @@ as the case may be.
 
 [Act 34 of 2016 wef 19/04/2016]
 
-### Concessionary rate of tax for international growth company
-
-43ZH\.—(1) Despite section 43, the Minister may by regulations provide that tax at the rate of 10% is to be levied and paid upon the income derived by an approved international growth company from carrying on all of its qualifying activities within a basis period, or a part of a basis period, that falls within its approval period, which in total exceeds the base amount referred to in subsection (6).
-
-(2) Subsection (1) does not apply to income from any of the activities mentioned in that subsection that is carried on on a date that falls outside of that activity’s concessionary period.
-
-(3) The Minister or such person as the Minister may appoint may, at any time between 1 April 2015 and 31 March 2020 (both dates inclusive), approve a company as an international growth company for a period not exceeding 5 years; and the approval may be given subject to such conditions as the Minister or appointed person may impose.
-
-(4) When granting the approval, the Minister or appointed person must specify for the international growth company —
-
-(a) the date of its approval and its approval period;
-
-(b) one or more qualifying activities; and
-
-(c) a concessionary period for each of those activities.
-
-(5) The Minister or appointed person may at any time during the period the international growth company remains approved specify for it —
-
-(a) one or more additional qualifying activities; and
-
-(b) a concessionary period for each of those activities.
-
-(6) The base amount referred to in subsection (1) is ascertained in accordance with the following provisions:
-
-(a) where the approved international growth company had, at any time during the period of 3 years immediately before the date of its approval, carried on one or more of the qualifying activities specified for it under subsection (4), the base amount is ascertained by the formula:
-
-where A
-
-is the total net profit before tax as shown in its audited accounts (or such other accounts as the Minister or appointed person may approve for the company) that is derived from carrying on the qualifying activity or activities during that period; and
-
-B
-
-is the actual number of months (a period of less than a month being reckoned as one month) during that period in which the qualifying activity or activities was or were carried out;
-
-(b) where the approved international growth company had not carried on any of those qualifying activities during the period of 3 years immediately before the date of its approval, the base amount is zero;
-
-(c) the Minister or appointed person may specify an amount in substitution for the amount referred to in paragraph (a) or (b).
-
-(7) The base amount determined in accordance with subsection (6) applies for the entire duration of the company’s approval period, unless the Minister or appointed person decides otherwise.
-
-(8) In determining the income of an approved international growth company from carrying on its qualifying activities —
-
-(a) the allowances under section 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 or 23 must be taken into account even though no claim for such allowances has been made; and
-
-(b) the Comptroller must determine the manner and extent to which —
-
-(i) allowances under section 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted; and
-
-(ii) any loss may be deducted under section 37.
-
-(9) In this section —
-
-“approval period”, in relation to an approved international growth company, means the period of its approval as such a company under subsection (3);
-
-“concessionary period”, in relation to a qualifying activity of an approved international growth company, means the concessionary period specified for that activity under subsection (4) or (5);
-
-“international growth company” means a company incorporated and resident in Singapore which carries on, or which intends to carry on, a trade or business which involves —
-
-(a) the export of goods to a country outside Singapore;
-
-(b) the performance of services in a country outside Singapore; or
-
-(c) the performance of services for a person or permanent establishment outside Singapore,
-
-whether or not it also carries on or intends to carry on any other trade or business;
-
-“qualifying activity”, in relation to an approved international growth company, means an activity specified for the company under subsection (4) or (5), being one of the activities prescribed for the purposes of this section in regulations made under this section.
-
-[Act 2 of 2016 wef 01/04/2015]
-
 ## PART XII
 
 DEDUCTION OF TAX AT SOURCE
@@ -19842,21 +19676,39 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [Act 2 of 2016 wef 01/07/2016]
 
+(1C) The Minister may, by rules made under section 7, substitute the rate in subsection (1)(a)(i), (ii) or (iii) with a higher or lower rate (including 0%) for any person or class of persons that is or are subject to that subsection, and subsection (1) applies to that person or class of persons accordingly.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(1D) The rules mentioned in subsection (1C) may —
+
+(a) provide that the substitute rate applies only if such conditions as may be specified in the rules are satisfied; and
+
+(b) prescribe different substitute rates for different persons or classes of persons.
+
+[Act 34 of 2016 wef 29/12/2016]
+
 (2) The Comptroller may —
 
-(a) if he thinks fit, allow any bank or financial institution to give notice of the deduction of tax and make payment of the amount so deducted within such other period and subject to such conditions as the Comptroller may determine; and
+(a) if he thinks fit, allow any person or class of persons to give notice of the deduction of tax and make payment of the amount so deducted within such other period and subject to such conditions as the Comptroller may determine; and
 
-(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than 22% or 17% or the rate specified in section 43(3) or (3A), as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
+[Act 34 of 2016 wef 29/12/2016]
+
+(b) by notice in writing require any person who pays such interest to deduct and account for tax at a higher or lower rate than the rate in subsection (1)(a)(i), (ii) or (iii), or the rate prescribed by rules mentioned in subsection (1C) in substitution for that rate, as the case may be, on every dollar of such interest or permit such interest to be paid without deduction of tax.
 
 [1/90; 20/91; 28/92; 26/93; 28/96; 24/2001; 37/2002; 49/2004; 53/2007; 27/2009]
 
 [Act 2 of 2016 wef 01/01/2016]
 
+[Act 34 of 2016 wef 29/12/2016]
+
 (3) Where a person fails to make a deduction of tax which he is required to make under subsection (1), any amount which he fails to deduct shall be a debt due from him to the Government and shall be recoverable as such.
 
 (4) If the amount of tax which is required to be deducted under subsection (1) is not paid to the Comptroller —
 
-(a) by the 15th day of the second month following the month in which the interest from which the tax is to be deducted is paid, a sum equal to 5% of such amount of tax shall be payable; and
+(a) by the 15th day of the second month following the month in which the interest from which the tax is to be deducted is paid, or such other date as may be allowed under subsection (2)(a), a sum equal to 5% of such amount of tax shall be payable; and
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (b) within 30 days after the time specified in paragraph (a), an additional penalty of 1% of such amount of tax shall be payable for each completed month that the tax remains unpaid, but the total additional penalty under this paragraph shall not exceed 15% of the amount of tax outstanding.
 
@@ -20196,13 +20048,27 @@ is the amount of the SRS member’s income chargeable to tax under section 10(1)
 
 [Act 2 of 2016 wef 01/07/2016]
 
+(3B) The Minister may, by rules made under section 7, substitute the rate in subsection (3) with a higher or lower rate (including 0%) for any SRS member or class of SRS members that is or are subject to that subsection, and subsection (3) applies to that SRS member or class of SRS members accordingly.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(3C) The rules mentioned in subsection (3B) may —
+
+(a) provide that the substitute rate applies only if such conditions as may be specified in the rules are satisfied; and
+
+(b) prescribe different substitute rates for different SRS members or classes of SRS members.
+
+[Act 34 of 2016 wef 29/12/2016]
+
 (4) In subsections (3) and (3A), the value of an investment shall be reckoned in accordance with the regulations made under section 10L(11).
 
 [Act 2 of 2016 wef 01/07/2016]
 
-(5) If the Comptroller has given a written notice to the SRS operator requiring the SRS operator to collect tax at a higher or lower rate than 22%, then the reference to the rate of 22% in subsection (3) is a reference to the higher or lower rate.
+(5) If the Comptroller has given a written notice to the SRS operator requiring the SRS operator to collect tax at a higher or lower rate than 22% or the rate prescribed by the rules mentioned in subsection (3B) in substitution for it, then the reference to the rate of 22% or the substitute rate is a reference to the higher or lower rate.
 
 [Act 2 of 2016 wef 01/01/2016]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (6) The amount of tax collected under subsection (3) shall be a debt due from the SRS operator to the Government and shall be recoverable in the manner provided in section 89.
 
@@ -20214,7 +20080,13 @@ is the amount of the SRS member’s income chargeable to tax under section 10(1)
 
 (b) within 30 days after the time specified in paragraph (a), an additional penalty of 1% of such amount of tax shall be payable for each completed month that the tax remains unpaid, but the total additional penalty under this paragraph shall not exceed 15% of the amount of tax outstanding.
 
-(9) An SRS operator shall, after collecting the tax under subsection (3), give notice in writing of such collection to the Comptroller by the time specified in subsection (8)(a), and if the SRS operator fails to do so, the SRS operator shall be guilty of an offence and shall on conviction pay a penalty equal to 3 times the amount of tax so collected and shall also be liable to a fine not exceeding $10,000.
+(9) An SRS operator shall, after collecting the tax under subsection (3), give notice in writing of such collection to the Comptroller by the time specified in subsection (8)(a) and in the manner mentioned in subsection (9A), and if the SRS operator fails to do so, the SRS operator shall be guilty of an offence and shall on conviction pay a penalty equal to 3 times the amount of tax so collected and shall also be liable to a fine not exceeding $10,000.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(9A) The notice under subsection (9) must be given using the electronic service, except that the Comptroller may in any particular case or class of cases permit the notice to be given in any other manner.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (10) The Comptroller may —
 
@@ -20285,6 +20157,10 @@ as that section applies to any interest paid by a person to another person not k
 (4A) Subsection (1) shall not apply to any distribution made on or after 1st January 2015 by a trustee of a real estate investment trust to a branch in Singapore of a company incorporated outside Singapore and not known to the trustee to be resident in Singapore.
 
 [Act 37 of 2014 wef 01/01/2015]
+
+(4B) Subsection (1) does not apply to any distribution made to an organisation that is declared by an order under section 2(1) of the International Organisations (Immunities and Privileges) Act (Cap. 145) as an organisation of which the Government and the government or governments of one or more foreign sovereign Powers are members, if that distribution is exempt from tax by reason of that order.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (5) In this section, “real estate investment trust” has the same meaning as in section 43(10).
 
@@ -20962,47 +20838,47 @@ RETURNS
 
 ### Furnishing of estimate of chargeable income if no return is made under section 62
 
-63\.—(1) Every person, not being an individual, who has not made a return under section 62 for any year of assessment shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of his chargeable income.
+63\.—(1) Unless exempted by rules mentioned in subsection (3), every person, not being an individual, who has not made a return under section 62 for any year of assessment shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of his chargeable income.
 
 [53/2007; 29/2012]
 
-(1A) Every individual carrying on or exercising any trade, business, profession or vocation who has not made a return under section 62 for any year of assessment shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of his chargeable income.
+[Act 34 of 2016 wef 29/12/2016]
+
+(1AA) A person mentioned in subsection (1) must furnish the estimate of the person’s chargeable income for a year of assessment using the electronic service if rules mentioned in subsection (3) require a class of persons to furnish their estimates for that year of assessment using the electronic service, and the person belongs to that class.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(1A) Unless exempted by rules mentioned in subsection (3), every individual carrying on or exercising any trade, business, profession or vocation who has not made a return under section 62 for any year of assessment shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of his chargeable income.
 
 [53/2007; 29/2012]
 
-(2) Any person who fails or neglects without reasonable excuse to furnish the estimate of his chargeable income as required under subsection (1) or(1A) shall be guilty of an offence.
+[Act 34 of 2016 wef 29/12/2016]
+
+(2) Any person who fails or neglects without reasonable excuse to furnish the estimate of his chargeable income as required under subsection (1), (1AA) or (1A) shall be guilty of an offence.
 
 [11/94; 53/2007]
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(3) The Minister may, by rules made under section 7, do any of the following:
+
+(a) require a specified class of persons subject to subsection (1) to furnish the estimate of their chargeable income for any year of assessment under that subsection using the electronic service;
+
+(b) exempt any person or class of persons from subsection (1) or (1A) in respect of one or more years of assessment, subject to such conditions as may be specified in the rules.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 ### Comptroller may call for further returns
 
 64\. The Comptroller may give notice in writing to any person when and as often as he thinks necessary requiring him to furnish within a reasonable time limited by such notice fuller or further returns respecting any matter as to which a return is required by or under this Act.
 
-### Power to call for returns, books, etc.
+### Power to call for returns
 
-65\.—(1) For the purpose of obtaining full information in respect of any person’s income, the Comptroller may give notice to such person requiring him within the time limited by such notice, which time shall not be less than 30 days from the date of service of such notice, to complete and deliver to the Comptroller any return specified in such notice and in addition or alternatively requiring him to attend personally before the Comptroller and to produce for examination any document which the Comptroller may consider necessary.
+65\.—(1) For the purpose of obtaining full information in respect of a person’s income, the Comptroller may give notice to the person requiring the person to complete and return to the Comptroller, within the time specified in the notice, a return specified in the notice.
 
-[37/2002]
+(2) The time specified in the notice must not be less than 30 days after the date of service of the notice on the person.
 
-(2) In this section and section 65B —
-
-“document” includes, in addition to a document in writing —
-
-(a) any map, plan, graph or drawing;
-
-(b) any photograph;
-
-(c) any label, marking or other writing which identifies or describes anything of which it forms a part, or to which it is attached by any means;
-
-(d) any disc, tape, sound-track, or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom;
-
-(e) any film (including microfilm), negative, tape, disc or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced therefrom; and
-
-(f) any paper or other material on which there are marks, impressions, figures, letters, symbols or perforations having a meaning for persons qualified to interpret them;
-
-“writing” includes any mode of representing or reproducing words, figures, drawings or symbols in a visible form.
-
-[37/2002]
+[Act 34 of 2016 wef 29/12/2016]
 
 ### Statement of bank accounts, assets, etc.
 
@@ -21038,23 +20914,37 @@ RETURNS
 
 (ii) any such items may be interfered with or destroyed unless possession is taken; or
 
-(iii) any such items may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of tax or penalty, or in proceedings by way of an appeal against an assessment; and
+(iii) any such items may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of tax or penalty, or in proceedings by way of an appeal against an assessment;
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (e) shall be entitled to require —
 
 (i) the person by whom or on whose behalf the computer is or has been used, or any person having charge of, or otherwise concerned with the operation of the computer, device, apparatus or material to provide the Comptroller or officer with such reasonable assistance as he may require for the purposes of this section; and
 
-(ii) any person in possession of decryption information to grant him access to such decryption information necessary to decrypt data required for the purpose of this section.
+(ii) any person in possession of decryption information to grant him access to such decryption information necessary to decrypt data required for the purpose of this section; and
 
 [37/2002]
 
-(2) A person shall not be obliged under this section to disclose —
+[Act 34 of 2016 wef 29/12/2016]
+
+(f) shall be entitled to require a person in or at the building or place and who appears to the Comptroller or officer to be acquainted with any facts or circumstances concerning the person’s or another person’s income, assets or liabilities —
+
+(i) to answer any question to the best of that person’s knowledge, information and belief; or
+
+(ii) to take reasonable steps to produce a document for inspection.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(2) A person shall not be obliged under this section to disclose (including through the production of a document) —
 
 (a) any information which he is under any statutory obligation (other than sections 128, 128A, 129 and 131 of the Evidence Act (Cap. 97)) to observe secrecy; or
 
 (b) any information subject to legal privilege.
 
 [19/2013]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (3) The Comptroller may by notice require any person to give orally, in writing, or through the electronic service, as may be required, all such information concerning his or any other person’s income or assets or liabilities as may be demanded of him by the Comptroller for the purposes of this Act.
 
@@ -21066,6 +20956,64 @@ RETURNS
 
 [19/2013]
 
+(3B) For the purposes of this Act, the Comptroller may by notice require any person to attend personally before the Comptroller or an officer authorised by the Comptroller, at the place and time specified in the notice, to do one or both of the following:
+
+(a) provide, to the best of that person’s knowledge, information and belief, any information concerning the person’s or any other person’s income, assets or liabilities;
+
+(b) take reasonable steps to produce for inspection any document concerning any of those matters.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(3C) The power to require a person to provide information or produce a document under subsection (1)(f) or (3), or when in attendance before the Comptroller or an authorised officer pursuant to a notice under subsection (3B), includes the power —
+
+(a) to require that person, or any person who is or was an officer or employee of that person, to provide an explanation of the information or document;
+
+(b) if the information is not provided or the document is not produced, to require that person to state, to the best of the person’s knowledge and belief, where it is;
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Comptroller or authorised officer (as the case may be) in legible form; and
+
+(d) in the case of a document, to inspect, copy or make extracts from the document without fee or reward, and to take possession of the document if in the Comptroller or authorised officer’s opinion —
+
+(i) the inspection, copying or extraction cannot reasonably be performed without taking possession of the document;
+
+(ii) the document may be interfered with or destroyed unless possession of the document is taken; or
+
+(iii) the document may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of tax or penalty, or in proceedings by way of an appeal against an assessment.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(3D) A statement made by any person asked under subsection (1)(f), or when in attendance before the Comptroller or an authorised officer pursuant to a notice under subsection (3B), must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) be signed by the person.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(3E) In this section —
+
+“document” includes, in addition to a document in writing —
+
+(a) any map, plan, graph or drawing;
+
+(b) any photograph;
+
+(c) any label, marking or other writing which identifies or describes anything of which it forms a part, or to which it is attached by any means;
+
+(d) any disc, tape, soundtrack or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it;
+
+(e) any film (including microfilm), negative, tape, disc or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it; and
+
+(f) any paper or other material on which there are marks, impressions, figures, letters, symbols or perforations having a meaning for persons qualified to interpret them;
+
+“writing” includes any mode of representing or reproducing words, figures, drawings or symbols in a visible form.
+
+[Act 34 of 2016 wef 29/12/2016]
+
 (4) In this section, “computer” and “computer output” have the same meanings as in the Computer Misuse and Cybersecurity Act (Cap. 50A).
 
 [37/2002; 3/2013]
@@ -21074,7 +21022,9 @@ RETURNS
 
 65C\.—(1) Any person who, without reasonable excuse —
 
-(a) fails or neglects to comply with any notice or requirement of the Comptroller under section 64, 65, 65A or 65B; or
+(a) fails, neglects or refuses to comply with any notice or requirement of the Comptroller or an officer authorised by the Comptroller under section 64, 65, 65A or 65B, or a demand for information; or
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (b) hinders or obstructs the Comptroller, or any officer authorised by the Comptroller, in the performance or execution of his duties or of anything which he is empowered or required to do under section 65B,
 
@@ -21082,13 +21032,9 @@ shall be guilty of an offence.
 
 [19/2013]
 
-(2) Any person guilty of an offence under subsection (1) shall be liable on conviction —
+(2) Any person guilty of an offence under subsection (1) shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
 
-(a) to a fine not exceeding $1,000 and in default of payment to imprisonment for a term not exceeding 6 months; and
-
-(b) in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
-
-[19/2013]
+[Act 34 of 2016 wef 29/12/2016]
 
 (3) The Comptroller may compound any offence under subsection (1).
 
@@ -21098,9 +21044,9 @@ shall be guilty of an offence.
 
 [19/2013]
 
-(5) Except as provided under section 65B(2), it is not a defence to a charge under subsection (1) for a failure to disclose any information sought by a notice referred to in section 65B, that the person is under any duty of secrecy in respect of that information (referred to in this section as a displaced duty of secrecy).
+(5) Except as provided under section 65B(2), it is not a defence to a charge under subsection (1) for a failure to provide any information or produce any document sought by a notice mentioned in section 65B, that the person is under a duty of secrecy in respect of that information or the contents of that document (called in this section a displaced duty of secrecy).
 
-[19/2013]
+[Act 34 of 2016 wef 29/12/2016]
 
 (6) A person who in good faith complies with a notice referred to in section 65B shall not be treated as being in breach of a displaced duty of secrecy.
 
@@ -21114,19 +21060,31 @@ shall be guilty of an offence.
 
 [19/2013]
 
-(8) Any person who, in purported compliance with a notice issued by the Comptroller under section 64, 65, 65A or 65B, produces to the Comptroller any document which contains any information, or provides to the Comptroller any information, known to the person to be false or misleading in a material particular —
+(7A) In subsections (5), (6) and (7) —
 
-(a) without indicating to the Comptroller that the information is false or misleading and the part that is false or misleading; and
+(a) a reference to a notice under section 65B to provide information includes a reference to a requirement to provide information under section 65B(1)(f) and a demand for information; and
 
-(b) without providing correct information to the Comptroller if the person is in possession of, or can reasonably acquire, the correct information,
+(b) a reference to a notice under section 65B to produce a document includes a reference to a requirement to produce a document under section 65B(1)(f).
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(8) Any person who, in purported compliance with a notice or requirement of the Comptroller or an officer authorised by the Comptroller under section 64, 65, 65A or 65B, or with a demand for information, produces any document which contains any information, or provides any information, known to the person to be false or misleading in a material particular —
+
+(a) without indicating to the Comptroller or the officer that the information is false or misleading and the part that is false or misleading; and
+
+(b) without providing correct information to the Comptroller or the officer if the person is in possession of, or can reasonably acquire, the correct information,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-[19/2013]
+[Act 34 of 2016 wef 29/12/2016]
 
 (9) A person shall not be convicted of an offence under this section for failing or neglecting to comply with a notice issued by the Comptroller under section 64, 65, 65A or 65B unless the notice was served on him personally or by registered post.
 
 [19/2013]
+
+(10) In this section, “demand for information” means a demand by the Comptroller or an officer authorised by the Comptroller to answer a question when in attendance before the Comptroller or the officer pursuant to a notice under section 65B(3B).
+
+[Act 34 of 2016 wef 29/12/2016]
 
 ### Section 65B notice applies notwithstanding duty of secrecy under Banking Act or Trust Companies Act
 
@@ -21140,25 +21098,37 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) section 49 of the Trust Companies Act (Cap. 336); and
 
-(c) the Comptroller issues a notice under section 65B to a person to provide that information.
+(c) a person is given a notice, or is required, under section 65B to provide the information or to produce a document containing the information.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(2) Notwithstanding anything in section 65B(2)(a), a person issued with a notice or requirement mentioned in subsection (1)(c) is not excused from providing the information or document by reason only that the person is under a statutory obligation to observe secrecy under a relevant law, and that notice shall have effect notwithstanding the relevant law.
 
 [19/2013]
 
-(2) Notwithstanding anything in section 65B(2)(a), a person issued with a notice referred to in subsection (1)(c) is not excused from providing the information by reason only that the person is under a statutory obligation to observe secrecy under a relevant law, and that notice shall have effect notwithstanding the relevant law.
+[Act 34 of 2016 wef 29/12/2016]
+
+(3) A person who in good faith complies with a notice or requirement mentioned in subsection (1)(c) shall not be treated as being in breach of the relevant law.
 
 [19/2013]
 
-(3) A person who in good faith complies with a notice referred to in subsection (1)(c) shall not be treated as being in breach of the relevant law.
-
-[19/2013]
+[Act 34 of 2016 wef 29/12/2016]
 
 (4) No action for a breach of the relevant law shall lie against the person referred to in subsection (3) —
 
-(a) for producing any document or providing any information if he had done so in good faith in compliance with a notice referred to in subsection (1)(c); or
+(a) for producing any document or providing any information if he had done so in good faith in compliance with a notice or requirement mentioned in subsection (1)(c); or
 
-(b) for doing or omitting to do any act if he had done or omitted to do the act in good faith and as a result of complying with such a notice.
+[Act 34 of 2016 wef 29/12/2016]
+
+(b) for doing or omitting to do any act if he had done or omitted to do the act in good faith and as a result of complying with such a notice or requirement.
 
 [19/2013]
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(5) In this section, a notice under section 65B to provide information includes a demand for information as defined in section 65C(10).
+
+[Act 34 of 2016 wef 29/12/2016]
 
 ### Section 65B notice may be subject to confidentiality duty
 
@@ -21278,7 +21248,31 @@ and every employer shall be bound to comply with any such notice within the time
 
 (11) Where any person who has ceased or is about to cease being a partner in Singapore has moneys due or payable to him from the partnership, the partners present in Singapore shall not, without the written permission of the Comptroller, pay such moneys or any part thereof to that person.
 
-(12) The Comptroller may under subsections (5), (6), (8) and (9) accept such shorter notice as he may consider reasonable.
+(12) The Comptroller may under subsection (5), (6), (8) or (9), in any particular case or class of cases —
+
+(a) accept such shorter period of notice as the Comptroller may consider reasonable;
+
+(b) accept the notice mentioned in that subsection within such time after the occurrence of the event mentioned in that subsection as the Comptroller may consider reasonable; or
+
+(c) waive the requirement for a notice under that subsection subject to conditions.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(13) Subsection (5), (6), (8) or (9) (as the case may be) applies to a case to which subsection (12)(a) applies as if the reference to the period of one month is a reference to the shorter period.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(14) In a case where subsection (12)(b) applies, the employer or partners (as the case may be) need not comply with subsection (5), (6), (8) or (9) (as the case may be) but must, within the time mentioned in subsection (12)(b), give notice to the Comptroller of —
+
+(a) in the case of subsection (5), the name and address of the individual and the actual date of cessation of the individual’s employment;
+
+(b) in the case of subsection (6), the actual date of departure of the individual;
+
+(c) in the case of subsection (8), the name and address of the person and the actual date of the person’s cessation as a partner; or
+
+(d) in the case of subsection (9), the actual date of departure of the partner.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 ### Lists to be prepared by representative or agent
 
@@ -21323,6 +21317,10 @@ the return shall be made and delivered by the attorney, agent, manager or factor
 (3) If a return in relation to the partnership for any year of assessment has not been made, the person required to make the return under subsection (1) or (2) (as the case may be) shall, within 3 months after the end of the accounting period relating to that year of assessment, furnish to the Comptroller an estimate of the income from all sources of the partnership, and the names and identification numbers of all the partners together with the amount of the share of the income to which each partner was entitled for that year.
 
 [53/2007]
+
+(3A) The Minister may, by rules made under section 7, exempt any person or class of persons from subsection (3), subject to such conditions as may be specified in the rules.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (4) In this section, “general partner” has the same meaning as in the Limited Partnerships Act (Cap. 163B).
 
@@ -21481,6 +21479,18 @@ from the date of the service of the notice of assessment.
 (b) if the incorrect information relates to any deduction or relief which is excessive or which is wrongly granted, of the correct amount of deduction or relief for that year of assessment or the fact that the deduction or relief is wrongly granted, as the case may be.
 
 [34/2008]
+
+(9) The Minister may, by rules made under section 7, substitute a longer period for a period in subsection (3) or (8) for all persons or cases, any class of persons or cases, or any person or case, and subsection (3) or (8) (as the case may be) applies accordingly to all persons or cases, the class of persons or cases, or the person or case.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(10) The rules mentioned in subsection (9) may —
+
+(a) provide that the substitute period applies only if such conditions as may be specified in the rules are satisfied; and
+
+(b) prescribe different substitute periods for different persons or cases and classes of persons or cases.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 ### Errors and defects in assessment and notice
 
@@ -22178,11 +22188,23 @@ but excluding any employee who is also a unitholder of the trust.
 
 (9) In subsection (8), the rate of interest is —
 
-(a) for any period up to and including 30 June 2016, 5% per annum; or
+(a) for any part of the period for which interest is payable (called in this subsection the interest period) up to and including 30 June 2016, 5% per annum;
 
-(b) for any period commencing on or after 1 July 2016, the average of the prime lending rates for such months in the previous year as are prescribed under section 7.
+(b) for any part of the interest period that is later but falling before the publication date, the average of the prime lending rates for such months in the previous year as are prescribed by rules made under section 7;
 
-[Act 2 of 2016 wef 01/07/2016]
+(c) for any part of the interest period falling on or after the publication date but within the period between 1 January and 31 March (both dates inclusive) of any year, the prime lending rate for the year that is 2 years before that year; or
+
+(d) for any part of the interest period falling on or after the publication date but within the period between 1 April and 31 December (both dates inclusive) of any year, the prime lending rate for the previous year.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(10) In subsection (9), “publication date” means the date the Income Tax (Amendment No. 3) Act 2016 is published in theGazette.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(11) In subsection (9)(c) and (d), the prime lending rate for any year is the average of the prime lending rates for the months of October, November and December of that year, or such other months prescribed by rules made under section 7 in their place, of such financial institution or financial institutions in Singapore as the Minister may determine, rounded to the nearest 0.5%, or another percentage prescribed by rules made under that section in its place.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 ### Relief in respect of error or mistake
 
@@ -22815,9 +22837,21 @@ IMPROVE TAX COMPLIANCE
 
 105I\. In this Part —
 
+“Action 13 Report” means the Transfer Pricing Documentation and Country‑by‑Country Reporting, Action 13 — 2015 Final Report published by the Organisation for Economic Co‑operation and Development on 5 October 2015;
+
+[Act 34 of 2016 wef 29/12/2016]
+
+“CbCR exchange agreement” means a bilateral or multilateral agreement that is based on a model agreement in the Action 13 Report, and that requires the exchange of country‑by‑country reports;
+
+[Act 34 of 2016 wef 29/12/2016]
+
 “competent authority agreement” means a bilateral or multilateral agreement to improve international tax compliance based on the standard for automatic exchange of financial account information in tax matters developed by the Organisation for Economic Co-operation and Development;
 
 [Act 15 of 2016 wef 20/07/2016]
+
+“country-by-country report” means a report by that name mentioned in the Action 13 Report, to be made in the format set out in the Report;
+
+[Act 34 of 2016 wef 29/12/2016]
 
 “international tax compliance agreement” means an agreement or arrangement that is declared by the Minister, by an order under section 105K, as an international tax compliance agreement;
 
@@ -22827,9 +22861,11 @@ IMPROVE TAX COMPLIANCE
 
 ### Purpose of this Part
 
-105J\. The purpose of this Part is to implement Singapore’s obligations under an international tax compliance agreement.
+105J\. The purpose of this Part is to implement Singapore’s obligations under an international tax compliance agreement, and to enable country-by-country reports to be filed with the Comptroller in accordance with the Action 13 Report.
 
 [19/2013]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 ### International tax compliance agreements
 
@@ -22845,9 +22881,19 @@ IMPROVE TAX COMPLIANCE
 
 [Act 15 of 2016 wef 20/07/2016]
 
-(b) any agreement modifying or supplementing an agreement in paragraph (a) or (aa);
+(ab) a CbCR exchange agreement between the Government and —
+
+(i) the government of another country; or
+
+(ii) the governments of 2 or more countries;
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(b) any agreement modifying or supplementing an agreement in paragraph (a), (aa) or (ab);
 
 [Act 15 of 2016 wef 20/07/2016]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (c) any other agreement or arrangement between the Government and —
 
@@ -22855,9 +22901,11 @@ IMPROVE TAX COMPLIANCE
 
 (ii) the governments of 2 or more countries,
 
-which makes provision corresponding, or substantially similar, to that made by an agreement in paragraph (a), (aa) or (b).
+which makes provision corresponding, or substantially similar, to that made by an agreement in paragraph (a), (aa), (ab) or (b).
 
 [Act 15 of 2016 wef 20/07/2016]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (2) An order under subsection (1) may only take effect on or after the date on which the agreement or arrangement enters into force for Singapore.
 
@@ -22878,6 +22926,14 @@ which makes provision corresponding, or substantially similar, to that made by a
 (c) using the electronic service, except that the Comptroller may in any particular case or class of cases permit the information to be given in any other manner.
 
 [Act 15 of 2016 wef 20/07/2016]
+
+(1B) In subsection (1), the reference to a person falling within any description of persons prescribed by regulations —
+
+(a) excludes one given a written notice by the Comptroller pursuant to a regulation made under section 105P(2)(ba)(i); and
+
+(b) includes one given a written notice by the Comptroller pursuant to a regulation made under section 105P(2)(ba)(ii).
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (2) A prescribed person is not excused from providing the information by reason only that the person is under a duty not to collect, use or disclose that information, whether imposed by written law, rule of law, any contract or any rule of professional conduct, in respect of that information.
 
@@ -22991,11 +23047,15 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 [Act 15 of 2016 wef 20/07/2016]
 
-(d) the Comptroller may authorise any person (including an officer of the Monetary Authority of Singapore) under section 4(1) to perform or assist in the performance of a duty of the Comptroller under section 65, 65A or 65B; and
+(d) the Comptroller may authorise —
 
-[Act 2 of 2016 wef 11/04/2016]
+(i) an officer of the Monetary Authority of Singapore; or
 
-[Act 15 of 2016 wef 20/07/2016]
+(ii) an accountant,
+
+under section 4(1) to perform or assist in the performance of a duty of the Comptroller under section 65, 65A or 65B; and
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (e) section 65E has effect in relation to a notice issued under section 65B for a purpose mentioned in subsection (1).
 
@@ -23007,7 +23067,7 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 [19/2013]
 
-### Regulations to implement international tax compliance agreements
+### Regulations to implement international tax compliance agreements, etc.
 
 105P\.—(1) The Minister may make regulations for, or in connection with, giving effect to or enabling effect to be given to —
 
@@ -23017,11 +23077,27 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 [Act 15 of 2016 wef 20/07/2016]
 
+(1A) The Minister may also make regulations to enable the Comptroller to obtain a country-by-country report or its equivalent in a case where the Comptroller is unable to obtain the report or its equivalent from the tax authority of a country in accordance with the Action 13 Report because —
+
+(a) the Government does not have a CbCR exchange agreement with the government of that country; or
+
+(b) the Government has a CbCR exchange agreement with the government of that country, but the Minister is of the opinion that the agreement is not operating effectively.
+
+[Act 34 of 2016 wef 29/12/2016]
+
 (2) Without prejudice to the generality of subsection (1), regulations under subsection (1) may —
 
 (a) prescribe anything which may be prescribed under this Part;
 
 (b) for the purpose of section 105L, prescribe different descriptions of information, forms and manners of provision of the information, and times and frequencies for the provision of the information, in relation to different international tax compliance agreements, different persons or under different circumstances;
+
+(ba) where the international tax compliance agreement in question is a CbCR exchange agreement, or the regulation is for the purpose in subsection (1A), enable the Comptroller —
+
+(i) after taking into account prescribed factors, to give written notice to a prescribed person that the person need not comply with section 105L or any other obligation of a prescribed person under the regulations; and
+
+(ii) if the Comptroller considers appropriate after taking into account those factors, to give written notice to one or more other persons to discharge those obligations in place of the prescribed person mentioned in sub‑paragraph (i).
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (c) impose on a person —
 
@@ -23058,6 +23134,8 @@ being requirements that —
 (3) Regulations under subsection (1) may give force of law to any provision of an international tax compliance agreement, whether with or without any modification.
 
 [19/2013]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 ### Duty to provide information under regulations prevails over duty of secrecy, etc.
 
@@ -25310,7 +25388,18 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of First Reading|29 February 2016 (Bill No. 9/2016 published on 29 February 2016)|
 ||Date of Second and Third Readings|14 March 2016|
 ||Date of commencement|19 April 2016|
-|194.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+|194.|**G. N. No. S 303/2016—Income Tax Act (Amendment of Seventh Schedule) Order 2016**|
+||Date of commencement|1 July 2016|
+|195.|**Act 15 of 2016—Income Tax (Amendment No. 2) Act 2016**|
+||Date of First Reading|14 April 2016 (Bill No. 16/2016 published on 14 April 2016)|
+||Date of Second and Third Readings|9 May 2016|
+||Date of commencement|20 July 2016|
+|||1 August 2016|
+|196.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|3 October 2016|
+|197.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
 ||Date of First Reading|10 October 2016|
 |||(Bill No. 34/2016)|
 ||Date of Second and Third Readings|10 November 2016|
@@ -25321,17 +25410,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||19 April 2016|
 |||19 May 2016|
 |||1 July 2016|
-|195.|**G. N. No. S 303/2016—Income Tax Act (Amendment of Seventh Schedule) Order 2016**|
-||Date of commencement|1 July 2016|
-|196.|**Act 15 of 2016—Income Tax (Amendment No. 2) Act 2016**|
-||Date of First Reading|14 April 2016 (Bill No. 16/2016 published on 14 April 2016)|
-||Date of Second and Third Readings|9 May 2016|
-||Date of commencement|20 July 2016|
-|||1 August 2016|
-|197.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
-||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
-||Date of Second and Third Readings|16 August 2016|
-||Date of commencement|3 October 2016|
+|||29 December 2016|
 ## COMPARATIVE TABLE
 
 Income Tax Act
