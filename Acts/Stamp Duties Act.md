@@ -78,8 +78,6 @@
 
 - [22B Power to bring section 22A into operation](#Power-to-bring-section-22A-into-operation)
 
-- [23 (Repealed)](#Repealed)
-
 - [24 What is to be deemed a conveyance, not being a sale or mortgage](#What-is-to-be-deemed-a-conveyance-not-being-a-sale-or-mortgage)
 
 - [25 Leases, how to be charged in respect of produce, etc.](#Leases-how-to-be-charged-in-respect-of-produce-etc)
@@ -208,7 +206,7 @@
 
 - [70B Company wound-up](#Company-wound-up)
 
-- [70C Power to call for any instrument, book, document, account or other record](#Power-to-call-for-any-instrument-book-document-account-or-other-record)
+- [70C Power to call for any instrument, book, document, account or other record, or to obtain information](#Power-to-call-for-any-instrument-book-document-account-or-other-record-or-to-obtain-information)
 
 - [71 Commissioner may require declaration, etc.](#Commissioner-may-require-declaration-etc)
 
@@ -386,7 +384,13 @@ Payment of duty
 
 5\.—(1) All the facts and circumstances affecting the liability of any instrument to duty or the amount of the duty with which any instrument is chargeable are to be fully and truly set forth in the instrument.
 
-(2) The Commissioner may require to be furnished with such evidence as he may consider necessary to prove that all such facts and circumstances are truly set forth in it.
+(1A) Where the liability of an instrument to duty or any amount of duty, is determined by facts or circumstances that are not set out in the instrument, those facts or circumstances must be provided to the Commissioner in such form and manner as the Commissioner may specify.
+
+[Act 13 of 2017 wef 11/03/2017]
+
+(2) The Commissioner may require to be furnished with such evidence as he may consider necessary to prove that all such facts and circumstances are truly set forth in the instrument or provided under subsection (1A).
+
+[Act 13 of 2017 wef 11/03/2017]
 
 ### Instrument relating to distinct matters
 
@@ -574,6 +578,10 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 [Act 30 of 2014 wef 01/01/2015]
 
+(1AA) Subsection (1) does not apply to an instrument that is executed for the purpose of or in connection with the transfer, conveyance or assignment of any equity interest in an entity that is chargeable with any duty under section 23.
+
+[Act 13 of 2017 wef 11/03/2017]
+
 (1A) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, then ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument executed on or after 19th February 2011 for the purposes of or in connection with the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act (Cap. 163A).
 
 [23/2011 wef 19/02/2011]
@@ -681,6 +689,10 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 15A\.—(1) Subject to the provisions of this section and the prescribed conditions being fulfilled, ad valorem stamp duty under Article 3(c) in the First Schedule shall not be chargeable on any instrument executed during the period from 1st April 2010 to 31st March 2020 (both dates inclusive) for the purposes of or in connection with a qualifying acquisition of ordinary shares in a company (referred to in this section as the target company) by a Singapore company (referred to in this section as the acquiring company) or a subsidiary of the Singapore company that satisfies subsection (2) (referred to in this section as the acquiring subsidiary).
 
 [Act 2 of 2016 wef 01/04/2015]
+
+(1A) Subsection (1) does not apply to an instrument that is executed for the purpose of or in connection with an acquisition of shares in a company, that is chargeable with any duty under section 23.
+
+[Act 13 of 2017 wef 11/03/2017]
 
 (2) For the purposes of subsection (1), the acquiring subsidiary —
 
@@ -1350,9 +1362,11 @@ the Commissioner shall repay the duty paid by virtue of this section —
 
 (a) any equitable estate or interest in any property; or
 
-(b) any estate or interest in any property except property situated outside Singapore, and stock or shares,
+(b) any estate or interest in any property except property situated outside Singapore,
 
 [Act 1 of 2013 wef 22/02/2013]
+
+[Act 13 of 2017 wef 11/03/2017]
 
 shall be charged with the same ad valorem duty, payable by the purchaser, as if it were an actual conveyance on sale of the estate, interest or property contracted or agreed to be sold.
 
@@ -1400,9 +1414,11 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 
 (g) a Strata Titles Board or the High Court, as the case may be, refused an application for an order for the sale of the property under section 84A, 84D, 84E or 84FA of the Land Titles (Strata) Act (Cap. 158).
 
-[26/96; 33/99; 13/2010]
+[26/96; 33/99]
 
 [23/2011 wef 01/01/2012]
+
+[13/2010 wef 15/07/2010]
 
 (7) The refund under subsection (6) shall be made if and only if —
 
@@ -1413,6 +1429,8 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 (ii) if the instrument is not dated, 6 months after the execution thereof;
 
 (iii) in the case of a contract or an agreement that is rescinded or annulled on the ground referred to in subsection (6)(g), 2 months after the refusal of a Strata Titles Board or the High Court, as the case may be; or
+
+[23/2011 wef 01/01/2012]
 
 (iv) such further time as the Commissioner may deem reasonable when, in unavoidable circumstances, the instrument cannot be produced within that period; and
 
@@ -1439,6 +1457,8 @@ the direction shall, for the purpose of this Act, be treated as a contract or an
 “Strata Titles Board” means a Strata Titles Board constituted under the Building Maintenance and Strata Management Act (Cap. 30C).
 
 [33/99]
+
+[13/2010 wef 15/07/2010]
 
 ### Additional duty on instruments for disposal of immovable property within specified holding period
 
@@ -1625,10 +1645,6 @@ shall be chargeable with duty under this Act as if this section is not in force.
 (7) All orders made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
 [6/2010 wef 20/02/2010]
-
-Sale of annuity or right not before in existence
-
-23\. [Repealed by Act 33 of 1999]
 
 ### What is to be deemed a conveyance, not being a sale or mortgage
 
@@ -2506,9 +2522,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [33/99]
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[33/99]
+[Act 34 of 2016 wef 29/12/2016]
+
+(3A) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (4) It shall be a defence to a charge under subsection (2) to prove that, when the answer, statement or representation was given or made, the defendant believed on reasonable grounds that it was neither false nor misleading.
 
@@ -2718,37 +2738,89 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 [33/99]
 
-### Power to call for any instrument, book, document, account or other record
+### Power to call for any instrument, book, document, account or other record, or to obtain information
 
-70C\.—(1) For the purposes of this Act, the Commissioner may give notice in writing to any person requiring him to furnish within the time limited by such notice, not being less than 30 days from the date of service of such notice, to attend personally before him or to produce to him for examination any instrument, book, document, account and other record which the Commissioner may consider necessary.
+70C\.—(1) For the purposes of this Act, the Commissioner may by notice require any person to attend personally before the Commissioner or an authorised officer, at a place and time specified in the notice, to do one or both of the following:
 
-[33/99]
+(a) provide, to the best of that person’s knowledge, information and belief, any information concerning the liability of any instrument to duty;
+
+(b) produce for examination any instrument, book, document, account or other record (each called in this section a record) concerning such liability.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (2) Where records are maintained by computer, the person required to make them available for examination shall provide all facilities necessary for obtaining the computer records.
 
 [33/99]
 
-(3) The Commissioner shall at all times have full and free access to all buildings, places, instruments, books, documents and other records for any of the purposes of this Act, and may, without fee or reward, inspect, copy or make extracts from any such instruments, books, documents, accounts or records.
+(3) The Commissioner shall at all times have full and free access to all buildings, places and records for any of the purposes of this Act, and may, without fee or reward, inspect, copy or make extracts from any such records.
 
 [33/99]
 
-(4) The Commissioner may take possession of any such instrument, book, document, account or record where in his opinion —
+[Act 34 of 2016 wef 29/12/2016]
+
+(3A) In addition to the powers under subsection (3), the Commissioner may also require a person in or at the building or place and who appears to the Commissioner to be acquainted with any facts or circumstances concerning the liability of any instrument to duty —
+
+(a) to answer any question to the best of that person’s knowledge, information and belief; or
+
+(b) take reasonable steps to produce any record for examination.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(4) The Commissioner or the authorised officer may take possession of any record produced in purported compliance with a requirement under subsection (1) or (3A), or which the Commissioner finds in the building or place under subsection (3), where in his opinion —
 
 (a) the inspection, copying thereof or extraction wherefrom cannot reasonably be performed without taking possession;
 
-(b) the instrument, book, document, account or record may be interfered with or destroyed unless possession is taken; or
+(b) the record may be interfered with or destroyed unless possession is taken; or
 
-(c) the instrument, book, document, account or record may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of duty or penalty, or in proceedings by way of an appeal against the assessment.
+[Act 34 of 2016 wef 29/12/2016]
 
-[33/99]
-
-(5) The Commissioner may require any person to give orally or in writing, as may be required, all such information, facts and circumstances affecting the liability of any instrument to duty.
+(c) the record may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of duty or penalty, or in proceedings by way of an appeal against the assessment.
 
 [33/99]
 
-(6) Any person who fails or neglects without reasonable excuse to comply with any notice issued by the Commissioner under this section shall be guilty of an offence.
+[Act 34 of 2016 wef 29/12/2016]
+
+(4A) A statement made by any person asked when in attendance before the Commissioner or an authorised officer under subsection (1), or under subsection (3A), must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) be signed by the person.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(5) The Commissioner may by notice require any person to give orally or in writing, as may be required, all such information, facts and circumstances affecting the liability of any instrument to duty.
 
 [33/99]
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(6) The power to require a person to provide information or produce a record under subsection (3A) or (5), or when in attendance before the Commissioner or an authorised officer pursuant to a notice under subsection (1), includes the power —
+
+(a) to require that person, or any person who is or was an officer or employee of that person, to provide an explanation of the information or record;
+
+(b) if the information is not provided or the record is not produced, to require that person to state, to the best of the person’s knowledge and belief, where it is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Comptroller or authorised officer (as the case may be) in legible form.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(6A) Any person who, without reasonable excuse, fails, neglects or refuses to comply with —
+
+(a) a notice or requirement of the Commissioner under this section; or
+
+(b) a demand by the Commissioner or an authorised officer to answer a question when in attendance before the Commissioner or officer pursuant to a notice under subsection (1),
+
+shall be guilty of an offence, and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(6B) In this section, “authorised officer” means any Deputy Commissioner of Stamp Duties and any officer of the Inland Revenue Authority of Singapore assisting the Commissioner in the administration of this Act.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (7) Any person who, for the purpose of evading any duty under this Act, falsifies or destroys any document, book, account, record or other instrument shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -2756,9 +2828,23 @@ then the public officer shall, notwithstanding any other written law, contract o
 
 ### Commissioner may require declaration, etc.
 
-71\. The Commissioner may require any person to produce evidence by way of statutory declaration or otherwise for any purpose connected with the administration of this Act.
+71\.—(1) The Commissioner may require any person to produce evidence by way of statutory declaration or otherwise for any purpose connected with the administration of this Act.
+
+[Act 13 of 2017 wef 11/03/2017]
 
 [26/96]
+
+(2) The Commissioner may by notice require any person to provide to the Commissioner by a specified time an appropriate valuation of any property that is the subject of an instrument (including any underlying property of a PHE within the meaning of section 23) for the purposes of determining the liability or the extent of the liability of the instrument to duty.
+
+[Act 13 of 2017 wef 11/03/2017]
+
+(3) A person who, without reasonable excuse, fails to comply with the notice in subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
+
+[Act 13 of 2017 wef 11/03/2017]
+
+(4) In subsection (2), an appropriate valuation is a valuation by a valuer who is independent of any party to the instrument, and has qualifications and experience that are relevant to the valuation sought by the Commissioner.
+
+[Act 13 of 2017 wef 11/03/2017]
 
 ### Commissioner may impound instrument
 
@@ -4017,15 +4103,31 @@ CONVEYANCE — Article No. 3(a) to (h)
 
 (a)
 
-for all purposes other than Article No. 3(b), (ba), (bb), (bd) and (be)
+for all purposes other than Article No. 3(b), (ba), (bb), (bd), (be) and (bg)
 
 The grantee, transferee or lessee
 
 (b)
 
-for the purposes of Article No. 3(b), (ba), (bb), (bd) and (be)
+for the purposes of Article No. 3(b), (ba), (bb), (bd), (be) and (bg)
 
 The grantor or transferor
+
+2A.
+
+CONVEYANCE — Article No. 3A
+
+(a)
+
+for duty A and duty C
+
+The grantee
+
+(b)
+
+for duty B and duty D
+
+The grantor
 
 3.
 
@@ -4057,13 +4159,15 @@ The mortgagor or obligor
 
 [Deleted by Act 23/2011 wef 19/02/2011]
 
+[Act 13 of 2017 wef 11/03/2017]
+
+[S 84/2017 wef 11/03/2017]
+
 [S 12/2013 wef 12/01/2013]
 
 [S 474/2010 wef 30/08/2010]
 
 [S 16/2011 wef 14/01/2011]
-
-[S 474/2010 wef 30/08/2010]
 
 [Act 23 of 2011 wef 19/02/2011]
 
@@ -4670,6 +4774,10 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|1 April 2016|
 |76.|**G.N. No. S 304/2016—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2016**|
 ||Date of commencement|1 July 2016|
+|77.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+||Date of First Reading|10 October 2016 (Bill No. 34/2016 published on 10 October 2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|29 December 2016|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
