@@ -3696,9 +3696,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Penalty for obstructing Comptroller in carrying out his duties
 
-66\. Any person who at any time hinders or obstructs the Comptroller or any officer acting in the discharge of his duties under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+66\. Any person who at any time hinders or obstructs the Comptroller or any officer acting in the discharge of his duties under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [Income Tax 1992 Ed., s. 97A]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 [25/96]
 
@@ -4166,19 +4168,95 @@ then the Comptroller may issue a certificate containing particulars of such tax 
 
 (ii) any such items may be interfered with or destroyed unless possession is taken; or
 
-(iii) any such items may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of tax or penalty, or in proceedings by way of an appeal against an assessment; and
+(iii) any such items may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of tax or penalty, or in proceedings by way of an appeal against an assessment;
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (e) shall be entitled to require —
 
 (i) the person by whom or on whose behalf the computer is or has been used, or any person having charge of, or otherwise concerned with the operation of the computer, device, apparatus or material, to provide the Comptroller or officer with such reasonable assistance as he may require for the purposes of this section; and
 
-(ii) any person in possession of decryption information to grant him access to such decryption information necessary to decrypt data required for the purposes of this section.
+(ii) any person in possession of decryption information to grant him access to such decryption information necessary to decrypt data required for the purposes of this section; and
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(f) shall be entitled to require a person in or at the building or place and who appears to the Comptroller or officer to be acquainted with any facts or circumstances concerning the person’s or another person’s transactions made in the course of a business —
+
+(i) to answer any question to the best of that person’s knowledge, information and belief; or
+
+(ii) to take reasonable steps to produce a document for inspection.
+
+[Act 34 of 2016 wef 29/12/2016]
 
 [43/2002]
 
-(2) The Comptroller may require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s transactions made in the course of a business as may be demanded of him by the Comptroller for the purposes of this Act.
+(2) The Comptroller may by notice require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s transactions made in the course of a business as may be demanded of him by the Comptroller for the purposes of this Act.
 
-(3) No person shall, by virtue of this section, be obliged to disclose any particulars which he is under any statutory obligation to observe secrecy.
+[Act 34 of 2016 wef 29/12/2016]
+
+(2A) For the purposes of this Act, the Comptroller may by notice require any person to attend personally before the Comptroller or an officer authorised by the Comptroller, at a place and time specified in the notice, to do one or both of the following:
+
+(a) provide, to the best of that person’s knowledge, information and belief, any information concerning the person’s or any other person’s transactions made in the course of a business;
+
+(b) take reasonable steps to produce for inspection a document concerning those transactions.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(2B) The power to require a person to provide information or produce a document under subsection (1)(f) or (2), or when in attendance before the Comptroller or an authorised officer pursuant to a notice under subsection (2A), includes the power —
+
+(a) to require that person, or any person who is or was an officer or employee of that person, to provide an explanation of the information or document;
+
+(b) if the information is not provided or the document is not produced, to require that person to state, to the best of the person’s knowledge and belief, where it is;
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Comptroller or authorised officer (as the case may be) in legible form; and
+
+(d) in the case of a document, to inspect, copy or make extracts from the document without fee or reward, and to take possession of the document if in the Comptroller or authorised officer’s opinion —
+
+(i) the inspection, copying or extraction cannot reasonably be performed without taking possession of the document;
+
+(ii) the document may be interfered with or destroyed unless possession of the document is taken; or
+
+(iii) the document may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of tax or penalty, or in proceedings by way of an appeal against an assessment.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(2C) A statement made by any person asked under subsection (1)(f), or in compliance with a demand for information, must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) be signed by the person.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(2D) Any person who, without reasonable excuse, fails, neglects or refuses to comply with any notice or requirement of the Comptroller or an officer authorised by the Comptroller under this section, or with a demand for information, shall be guilty of an offence and shall be liable on conviction to —
+
+(a) a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in the case of a continuing offence, a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(2E) Any person who, in purported compliance with a notice or requirement of the Comptroller or an officer authorised by the Comptroller under this section, or with a demand for information, produces any document which contains any information, or provides any information, known to the person to be false or misleading in a material particular —
+
+(a) without indicating to the Comptroller or the officer that the information is false or misleading and the part that is false or misleading; and
+
+(b) without providing correct information to the Comptroller or the officer if the person is in possession of, or can reasonably acquire, the correct information,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(3) No person shall, by virtue of this section, be obliged to disclose (including through the production of a document) any particulars which he is under any statutory obligation to observe secrecy.
+
+[Act 34 of 2016 wef 29/12/2016]
+
+(3A) The generality of the term “reasonable excuse” in subsection (2D) is not affected by subsection (3).
+
+[Act 34 of 2016 wef 29/12/2016]
 
 (4) The Minister may by regulations make provision for requiring taxable persons to notify the Comptroller of such particulars of changes in circumstances relating to those persons or any business carried on by them as appear to the Comptroller to be required for the purpose of keeping the register kept under this Act up to date.
 
@@ -4187,6 +4265,10 @@ then the Comptroller may issue a certificate containing particulars of such tax 
 [Income Tax 1992 Ed., s. 65B; UK VAT Act 1983, Sch. 7 Para. 8 (1); UK FA 1985, s. 10 (2)]
 
 [43/2002]
+
+(6) In this section, “demand for information” means a demand by the Comptroller or an officer authorised by the Comptroller to answer a question when in attendance before the Comptroller or the officer pursuant to a notice under subsection (2A).
+
+[Act 34 of 2016 wef 29/12/2016]
 
 ## PART XII
 
@@ -6073,6 +6155,10 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 July 2016|
 |60.|**G.N. No. S 396/2016—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2016**|
 ||Date of commencement|1 September 2016|
+|61.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+||Date of First Reading|10 October 2016 (Bill No. 34/2016 published on 10 October 2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|29 December 2016|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
