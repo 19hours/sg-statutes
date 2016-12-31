@@ -216,8 +216,6 @@
 
 - [52 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [53 (Repealed)](#Repealed)
-
 - [53A (Repealed)](#Repealed)
 
 - [54 (Repealed)](#Repealed)
@@ -277,6 +275,16 @@
 - [66A Certificate of Board](#Certificate-of-Board)
 
 - [67 Conduct of prosecutions](#Conduct-of-prosecutions)
+
+[**Part VIIA ADMINISTRATIVE PENALTIES**](#Part-VIIA)
+
+- [67A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [67B Application to withdraw money from member’s medisave account by approved applicant](#Application-to-withdraw-money-from-member’s-medisave-account-by-approved-applicant)
+
+- [67C Financial penalties for approved applicants](#Financial-penalties-for-approved-applicants)
+
+- [67D Repayment of moneys withdrawn from medisave account](#Repayment-of-moneys-withdrawn-from-medisave-account)
 
 [**Part VIII MISCELLANEOUS**](#Part-VIII)
 
@@ -1051,8 +1059,6 @@ CONTRIBUTIONS TO FUND
 (a) withdrawals or deductions from a member’s medisave account made in accordance with this Act or the MediShield Life Scheme Act 2015; or
 
 (b) any payment made by the Board, as a defaulter’s agent under section 12 or 13 of the MediShield Life Scheme Act 2015, from moneys payable from the Fund.
-
-[Act 4 of 2015 wef 01/11/2015]
 
 [Act 4 of 2015 wef 01/11/2015]
 
@@ -4992,8 +4998,6 @@ MEDISHIELD SCHEME
 
 [Act 4 of 2015 wef 01/11/2015]
 
-53\. [Repealed by Act 4 of 2015 wef 01/11/2015]
-
 53A\. [Repealed by Act 4 of 2015 wef 01/11/2015]
 
 54\. [Repealed by Act 4 of 2015 wef 01/11/2015]
@@ -5496,6 +5500,114 @@ the court before which the conviction is had may, in addition to the penalty pre
 
 [15/2010]
 
+## PART VIIA
+
+ADMINISTRATIVE PENALTIES
+
+### Interpretation of this Part
+
+67A\. In this Part, unless the context otherwise requires —
+
+“approved applicant” means a Medisave healthcare provider or an insurer which is approved —
+
+(a) under section 67B(2) to submit a withdrawal application on behalf of a member; or
+
+(b) before the date of commencement of section 41 of the Central Provident Fund (Amendment) Act 2016, to submit a withdrawal application on behalf of any member;
+
+“Medisave healthcare provider” means a person or an institution that has provided or is providing any medical, psychiatric or other treatment or services prescribed under section 77(1)(j);
+
+“withdrawal application” means an application, submitted on behalf of a member, to the Board —
+
+(a) by a Medisave healthcare provider for any sum standing to the member’s credit in the member’s medisave account to be withdrawn and paid to the Medisave healthcare provider in respect of medical, psychiatric or other treatment or services prescribed under section 77(1)(j); or
+
+(b) by an insurer for any sum standing to a member’s credit in the member’s medisave account to be withdrawn and paid to the insurer as a premium in respect of a medical insurance scheme or other insurance scheme referred to in section 77(1)(k).
+
+[Act 6 of 2016 wef 31/12/2016]
+
+### Application to withdraw money from member’s medisave account by approved applicant
+
+67B\.—(1) A person may not, on behalf of a member, submit a withdrawal application to the Board for the withdrawal of any sum standing to the member’s credit in the member’s medisave account unless the person is approved under subsection (2).
+
+(2) The Board may, with the concurrence of the Minister charged with the responsibility for health, approve a Medisave healthcare provider or an insurer to submit any withdrawal applications on such terms and conditions as the Board may require.
+
+(3) The Board may, at any time, order the audit of an approved applicant in such manner as it may direct.
+
+(4) Subject to subsection (6), the Board may, with the concurrence of the Minister charged with the responsibility for health, cancel the approval of an approved applicant, by the Board or on the approved applicant’s application.
+
+(5) Where the Board is considering the cancellation of the approval of an approved applicant, the Board may, before the approval is cancelled, suspend the submission of any or all withdrawal applications by the approved applicant.
+
+(6) If the Board imposes a financial penalty on an approved applicant under section 67C, the Board must not cancel the approval of the approved applicant until after —
+
+(a) the disposal of any appeal against the imposition of the financial penalty and interest for late payment, if any, in accordance with regulations made under section 77(1)(rb); and
+
+(b) the approved applicant has paid the financial penalty and any interest for late payment that the approved applicant is liable to pay.
+
+[Act 6 of 2016 wef 31/12/2016]
+
+### Financial penalties for approved applicants
+
+67C\.—(1) The Board may impose a financial penalty on an approved applicant for engaging in conduct that contravenes, on or after the date of commencement of section 41 of the Central Provident Fund (Amendment) Act 2016, any regulations made under section 77(1)(rb)(i) and is not an offence.
+
+(2) A financial penalty must not exceed the maximum amount to be prescribed, which in no case may be more than $10,000.
+
+(3) Any financial penalty imposed under subsection (1) and any interest for late payment prescribed under section 77(1)(rb) —
+
+(a) may be sued for and recovered by the Board under the Government Proceedings Act (Cap. 121) as if it were a debt due to the Government; and
+
+(b) must be paid into the Consolidated Fund upon collection or recovery by the Board.
+
+(4) The members, officers and employees of the Board, in relation to their administration, assessment, collection and enforcement of payment of financial penalties imposed under subsection (1) —
+
+(a) are taken to be public officers for the purposes of the Financial Procedure Act (Cap. 109); and
+
+(b) section 20 of that Act applies to such members, officers and employees of the Board despite not being in the employment of the Government.
+
+[Act 6 of 2016 wef 31/12/2016]
+
+### Repayment of moneys withdrawn from medisave account
+
+67D\.—(1) Where any sum standing to the credit of a member in the member’s medisave account is withdrawn and paid by the Board to —
+
+(a) an approved applicant which is a Medisave healthcare provider in respect of medical, psychiatric or other treatment or services prescribed under section 77(1)(j); or
+
+(b) any person as reimbursement for payments made by that person for any medical, psychiatric or other treatment or services prescribed under section 77(1)(j),
+
+the approved applicant referred to in paragraph (a) or the person referred to in paragraph (b), as the case may be, (called in this section the recipient) must, if the withdrawal or payment of the amount paid to the recipient was not in compliance with regulations made under section 77(1)(j) —
+
+(i) repay to the Board the amount determined by the Board under subsection (3);
+
+(ii) reimburse the Board for all reasonable expenses incurred by the Board in addressing the non-compliance with those regulations; and
+
+(iii) indemnify the Board against any liability incurred by the Board in connection with addressing the non-compliance with those regulations.
+
+(2) Where any sum standing to the credit of a member in the member’s medisave account is withdrawn and paid by the Board to an insurer as a premium in respect of a medical insurance scheme or other insurance scheme referred to in section 77(1)(k), then, if the withdrawal or payment to the insurer was not in compliance with regulations made under that section, the insurer must —
+
+(a) repay to the Board the amount determined by the Board under subsection (3);
+
+(b) reimburse the Board for all reasonable expenses incurred by the Board in addressing the non-compliance with those regulations; and
+
+(c) indemnify the Board against any liability incurred by the Board in connection with addressing the non-compliance with those regulations.
+
+(3) The amount to be repaid under subsection (1)(i) or (2)(a) is the whole or such part as the Board may determine of —
+
+(a) the amount that was paid to the recipient in subsection (1) or the insurer referred to in subsection (2), as the case may be; and
+
+(b) the interest which would have been payable on the amount referred to in paragraph (a) if it had not been withdrawn from the medisave account.
+
+(4) Any sum not repaid under subsection (1)(i) or (2)(a) may be sued for and recovered by the Board under section 65.
+
+(5) Any sum not paid to the Board under subsection (1)(ii) or (iii) or (2)(b) or (c) may be sued for and recovered by the Board as a debt due to the Board.
+
+(6) The Board must credit to the member’s medisave account the amount that is determined by the Board under subsection (3).
+
+(7) This section applies —
+
+(a) whether the amount to be repaid under subsection (1)(i) or (2)(a) was withdrawn from the member’s medisave account or paid to the recipient in subsection (1) or the insurer referred to in subsection (2) (as the case may be) before, on or after the date of commencement of section 41 of the Central Provident Fund (Amendment) Act 2016; and
+
+(b) even if the recipient in subsection (1) or the insurer referred to in subsection (2) (as the case may be) has no obligation to repay or reimburse the payment to the member or the Board in the circumstances of the case, or is excluded by contract from such obligation.
+
+[Act 6 of 2016 wef 31/12/2016]
+
 ## PART VIII
 
 MISCELLANEOUS
@@ -5504,7 +5616,7 @@ MISCELLANEOUS
 
 68\.—(1) Where —
 
-(a) a writ of seizure and sale` has been issued in execution of a judgment against an employer or a member and any movable or immovable property or other assets belonging to the employer or member has been seized or sold or otherwise realised in pursuance of the execution; and
+(a) a writ of seizure and sale has been issued in execution of a judgment against an employer or a member and any movable or immovable property or other assets belonging to the employer or member has been seized or sold or otherwise realised in pursuance of the execution; and
 
 (b) prior to the payment of the proceeds of the sale or other realisation to an execution creditor, notice has been given to the Sheriff or other officer charged with the execution of the writ by the Board that any sum is due to the Fund,
 
@@ -5958,13 +6070,21 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (ii) for the reimbursement of the cost for the purchase or acquisition of any land (with or without any building thereon) and the construction of any dwelling-house thereon, including the payment of any cost, fee or other incidental expense incurred for the purchase or acquisition of that land and the construction of the dwelling-house;
 
-(j) with respect to the withdrawal of money from the medisave account of a member for such medical, psychiatric or other treatment or services received, or to be received, by him, his spouse, child, parent or such other persons as may be prescribed;
+(j) to provide, in respect of medical, psychiatric or other treatment or services received, or to be received, by a member or by the member’s spouse, child or parent or by such other persons as may be prescribed, for —
+
+(i) the withdrawal of money from the medisave account of the member for payment for such treatment or services; and
+
+(ii) the repayment of such payment by any person who has received such payment;
+
+[Act 6 of 2016 wef 31/12/2016]
 
 (k) to provide, in any case where a member or his dependant is insured under a medical insurance scheme or other insurance scheme approved by the Minister charged with the responsibility for health, for —
 
 (i) the withdrawal of money from the member’s medisave account for the payment of any premium payable by the member or his dependant in respect of the medical insurance scheme or other insurance scheme;
 
-(ii) the refund of any premium paid by the member or his dependant in respect of the medical insurance scheme or other insurance scheme, the circumstances under which any such refund will be made, and the determination of the manner in which any such refund will be made (including the person who will make any such determination); and
+(ii) the refund or repayment of any premium paid by the member or his dependant in respect of the medical insurance scheme or other insurance scheme, the circumstances under which any such refund will be made, and the determination of the manner in which any such refund or repayment will be made (including the person who will make any such determination); and
+
+[Act 6 of 2016 wef 31/12/2016]
 
 (iii) the payment of any rebate given in respect of the medical insurance scheme or other insurance scheme, the circumstances under which any such payment will be made, and the determination of the manner in which any such payment will be made (including the person who will make any such determination);
 
@@ -6038,7 +6158,25 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (iv) any matter relating to the transfer of a member’s interest in any investment to his spouse under section 27G; and
 
-(v) any matter relating to the sale of a member’s interest in any investment under section 27H; and
+(v) any matter relating to the sale of a member’s interest in any investment under section 27H;
+
+(rb) to prescribe such matters as are necessary or expedient for giving full effect to section 67C, including —
+
+(i) requirements and contraventions applicable to approved applicants relating to —
+
+(A) access to information on a member’s medisave account;
+
+(B) the accuracy of information in a withdrawal application;
+
+(C) authorisation by or on behalf of a member for an approved applicant to submit a withdrawal application on behalf of the member; and
+
+(D) audits ordered by the Board under section 67B(3), and compliance with the Board’s directions in relation to the audit;
+
+(ii) the payment of interest if a financial penalty is not paid within the time specified in a notice to the approved applicant; and
+
+(iii) providing for appeals against a decision of the Board to impose a financial penalty or interest for late payment, and the amount of the penalty or interest for late payment imposed, to be made to a panel appointed by the Minister charged with the responsibility for health, and the procedure for making and hearing appeals; and
+
+[Act 6 of 2016 wef 31/12/2016]
 
 (s) as are necessary or expedient for giving full effect to the purposes and provisions of this Act.
 
@@ -7300,11 +7438,7 @@ until the employee leaves the employment of the employer or the agreement expire
 
 then the agreed rates of the contribution shall continue to apply in relation to that employee until the employee leaves the employment of the employer, or the agreement expires or is lawfully terminated, whichever is the earlier.
 
-2\.—
-
-2.
-
-(1) No contribution is payable by an employer on any part of the additional wages for any year after 2015 which is in excess of the applicable amount less the amount of ordinary wages from that employer for that year.
+2.—(1) No contribution is payable by an employer on any part of the additional wages for any year after 2015 which is in excess of the applicable amount less the amount of ordinary wages from that employer for that year.
 
 (2) Where the contribution payable by an employer on additional wages for any year after 2015 (called in this sub-paragraph the current year) is being computed or recomputed before the end of the current year and while the employee is employed by that employer, no contribution is payable by that employer on any part of the additional wages which is in excess of an amount computed in either of the following ways, at the option of that employer:
 
@@ -7330,11 +7464,7 @@ then the agreed rates of the contribution shall continue to apply in relation to
 
 [S 532/2016 wef 01/11/2016]
 
-3\.—
-
-3.
-
-(1) If the Board has granted an application, made by or on behalf of 2 or more employers, to apply this paragraph in calculating the contributions from those employers on an employee’s additional wages for any year after 2015 (called in this sub-paragraph the current year), then each of those employers is, in that year —
+3.—(1) If the Board has granted an application, made by or on behalf of 2 or more employers, to apply this paragraph in calculating the contributions from those employers on an employee’s additional wages for any year after 2015 (called in this sub-paragraph the current year), then each of those employers is, in that year —
 
 (a) a related employer of the employee; and
 
@@ -7393,8 +7523,6 @@ is equal to an amount computed in either of the following ways, at the option of
 “combined ordinary wages” means the total amount of ordinary wages of the employee from the employee’s employer mentioned in this paragraph and all of the employee’s related employers in respect of that employer.
 
 [S 532/2016 wef 01/11/2016]
-
-4\.—
 
 4.—(1) Where the contributions on an employee’s additional wages for any year after 2015 (called in this sub-paragraph the current year) to be paid by an employer (as recomputed under paragraph 2(3) or 3(6)) exceed the contributions already paid by that employer on those additional wages, the employer must contribute the difference to the Fund within such period as may be prescribed under the Central Provident Fund Regulations (Rg 15) after the end of the month of the recomputation.
 
@@ -7618,11 +7746,7 @@ is equal to an amount computed in either of the following ways, at the option of
 
 (70) Urban Redevelopment Authority.
 
-7\.—
-
-7.
-
-(1) Subject to paragraphs 2, 3 and 4, contributions are payable for and recoverable from the wages of employees who are —
+7.—(1) Subject to paragraphs 2, 3 and 4, contributions are payable for and recoverable from the wages of employees who are —
 
 (a) employees of the Government;
 
@@ -8681,6 +8805,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 November 2016|
 |208.|**G. N. No. S 532/2016—Central Provident Fund Act (Amendment of First Schedule) Notification 2016**|
 ||Date of commencement|1 November 2016|
+|209.|**Act 6 of 2016—Central Provident Fund (Amendment) Act 2016**|
+||Date of First Reading|26 January 2016 (Bill No. 4/2016 published on 26 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|31 December 2016|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
