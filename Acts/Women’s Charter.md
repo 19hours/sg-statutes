@@ -854,7 +854,9 @@ SOLEMNIZATION OF MARRIAGES
 
 (c) an order for maintenance made by the Syariah Court under the Administration of Muslim Law Act (Cap. 3); or
 
-(d) a maintenance order as defined in section 2 of the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168) or section 2 of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169);
+(d) a maintenance order as defined in section 2 of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169);
+
+[Act 7 of 2016 wef 01/01/2017]
 
 “marriage preparation programme” has the same meaning as in section 17A(3);
 
@@ -2072,13 +2074,9 @@ ENFORCEMENT OF MAINTENANCE ORDERS
 
 (d) an order for maintenance made under the Maintenance of Parents Act (Cap. 167B); and
 
-(e) a maintenance order registered or confirmed by the court under the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169) or the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168)1.
+(e) a maintenance order, as defined in section 2 of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169), which is registered or confirmed by the court under that Act.
 
-[14/69; 30/96]
-
-[Act 7 of 2016 wef 01/07/2016]
-
-1This Act, which was formerly known as the Reciprocal Enforcement of Maintenance Orders Act (Cap. 26, 1970 Ed.), will be repealed upon the commencement of section 19(1) of the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169).
+[Act 7 of 2016 wef 01/01/2017]
 
 ### Power of court to make attachment of earnings order
 
@@ -4512,3 +4510,7 @@ This Legislative History is provided for the convenience of users of the Women�
 ||Date of First Reading|26 January 2016 (Bill No. 6/2016 published on 26 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 December 2016|
+|30.|**Act 7 of 2016—Women's Charter (Amendment) Act 2016**|
+||Date of First Reading|26 January 2016 (Bill No. 6/2016 published on 26 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 January 2017|
