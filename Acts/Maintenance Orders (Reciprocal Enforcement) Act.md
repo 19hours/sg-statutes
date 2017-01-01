@@ -48,7 +48,9 @@
 
 - [17 Minister may designate a country to be a reciprocating country](#Minister-may-designate-a-country-to-be-a-reciprocating-country)
 
-- [18 Power to make rules](#Power-to-make-rules)
+- [18 Family Justice Rules](#Family-Justice-Rules)
+
+- [18A Regulations](#Regulations)
 
 - [19 Repeal and transitional provisions](#Repeal-and-transitional-provisions)
 
@@ -68,7 +70,7 @@ An Act to make provision for the enforcement in Singapore of maintenance orders 
 
 [3rd May 1976\*]
 
-\*Section 19(1) has not been brought into operation.
+\*Section 19(1) comes into operation on 1 January 2017 (S 607/2016).
 
 ## PART I
 
@@ -442,15 +444,35 @@ shall in any proceedings in a court in Singapore relating to a maintenance order
 
 (2) A country or territory may be designated under subsection (1) as a reciprocating country either as regards maintenance orders generally, or as regards maintenance orders other than those of any specified class, or as regards maintenance orders of one or more specified classes only; and a country or territory which is for the time being so designated otherwise than as regards maintenance orders generally shall for the purposes of this Act be taken to be a reciprocating country only as regards maintenance orders of the class to which the designation extends.
 
-### Power to make rules
+### Family Justice Rules
 
-18\. The Minister may from time to time make such rules as he thinks necessary or expedient for giving effect to the provisions of this Act and for the due administration thereof.
+18\.—(1) The Family Justice Rules Committee constituted under section 46(1) of the Family Justice Act 2014 (Act 27 of 2014) may make Family Justice Rules to regulate and prescribe the procedure and practice to be followed in proceedings under this Act and any matters incidental to or relating to any such procedure or practice.
+
+(2) Without affecting the generality of subsection (1), Family Justice Rules may be made to prescribe —
+
+(a) the manner in which any application under this Act is to be made; and
+
+(b) the fees payable in relation to proceedings under this Act.
+
+(3) The Family Justice Rules may, instead of providing for any matter, refer to any provision made or to be made about that matter by practice directions issued for the time being by the registrar of the Family Justice Courts.
+
+(4) All Family Justice Rules made under this section are to be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 16 of 2016 wef 01/01/2017]
+
+### Regulations
+
+18A\.—(1) The Minister may make regulations for giving effect to the provisions and purposes of this Act and for the due administration of this Act.
+
+(2) The powers conferred by this section do not extend to any matter for which the Family Justice Rules mentioned in section 18 may be made.
+
+[Act 16 of 2016 wef 01/01/2017]
 
 ### Repeal and transitional provisions
 
 19\.—(1) The Maintenance Orders (Facilities for Enforcement) Act [Cap. 168] (referred to in this section as the repealed Act) is hereby repealed.\*
 
-\*Section 19(1) was not in operation when this Revised Edition was brought into force.
+\*Section 19(1) comes into operation on 1 January 2017 (S 607/2016).
 
 (2) Where the Minister proposes by a notification in theGazetteunder section 17 to designate as a reciprocating country a country or territory to which at the commencement of that section the repealed Act extended, that notification may contain such provisions as the Minister considers expedient for the purposes of securing —
 
@@ -502,3 +524,4 @@ This Legislative History is provided for the convenience of users of the Mainten
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|||1 January 2017|
