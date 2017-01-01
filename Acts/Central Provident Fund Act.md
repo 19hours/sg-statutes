@@ -76,6 +76,8 @@
 
 - [18C Transfer of member’s moneys in ordinary account or special account to medisave account](#Transfer-of-member’s-moneys-in-ordinary-account-or-special-account-to-medisave-account)
 
+- [18D Transfer of member’s moneys in ordinary account or special account to medisave account of related person](#Transfer-of-member’s-moneys-in-ordinary-account-or-special-account-to-medisave-account-of-related-person)
+
 - [19 Provisions relating to moneys transferred or paid to relevant individual’s, parent’s, grandparent’s, spouse’s or sibling’s retirement account on death or withdrawal under section 15(2)(b) or (c)](#Provisions-relating-to-moneys-transferred-or-paid-to-relevant-individual’s-parent’s-grandparent’s-spouse’s-or-sibling’s-retirement-account-on-death-or-withdrawal-under-section-152b-or-c)
 
 - [19A Provisions relating to moneys transferred or paid to relevant individual’s, spouse’s or sibling’s special account on death or withdrawal under section 15(2)(b) or (c)](#Provisions-relating-to-moneys-transferred-or-paid-to-relevant-individual’s-spouse’s-or-sibling’s-special-account-on-death-or-withdrawal-under-section-152b-or-c)
@@ -216,6 +218,8 @@
 
 - [52 Interpretation of this Part](#Interpretation-of-this-Part)
 
+- [53 (Repealed)](#Repealed)
+
 - [53A (Repealed)](#Repealed)
 
 - [54 (Repealed)](#Repealed)
@@ -239,6 +243,8 @@
 - [57C Cash payments and contributions under Scheme](#Cash-payments-and-contributions-under-Scheme)
 
 - [57D Recovery of cash payment, etc., upon conviction](#Recovery-of-cash-payment-etc-upon-conviction)
+
+- [57DA Withdrawal from Fund where relevant contribution credited into account of eligible member in certain circumstances](#Withdrawal-from-Fund-where-relevant-contribution-credited-into-account-of-eligible-member-in-certain-circumstances)
 
 - [57E Certificate of Board on amount of cash payment, etc.](#Certificate-of-Board-on-amount-of-cash-payment-etc)
 
@@ -436,7 +442,7 @@ PRELIMINARY
 
 [Act 6 of 2016 wef 01/05/2016]
 
-“minimum sum”, in relation to a member, means the minimum sum referred to in section 15(6)(a) that is applicable to the member;
+[Deleted by Act 26 of 2016 wef 01/01/2017]
 
 “nominee account” means any nominee ordinary account, nominee medisave account, nominee special account or nominee retirement account maintained for a deceased member under section 20(1D);
 
@@ -458,6 +464,14 @@ PRELIMINARY
 
 [Act 6 of 2016 wef 01/05/2016]
 
+“retirement sum”, in relation to a member, means any of the following as may be applicable:
+
+(a) the retirement sum mentioned in section 15(6)(a) that is applicable to the member;
+
+(b) the minimum sum mentioned in section 15(6)(a), as in force immediately before the date of commencement of section 5(g) of the Central Provident Fund (Amendment No. 2) Act 2016, that is applicable to the member;
+
+[Act 26 of 2016 wef 01/01/2017]
+
 “securities account” means a securities account with the Central Depository (Pte) Limited;
 
 “self-employed person” has the meaning given to it in any regulations made under section 77(1)(e);
@@ -473,6 +487,14 @@ PRELIMINARY
 “wages” means the remuneration in money, including any bonus, due or granted to a person in respect of his employment but does not include such payments as the Minister may, by notification in theGazette, specify.
 
 [19/83; 32/84; 16/86; 5/87; 10/94; 30/98; 39/2000; 40/2007; 57/2007; 25/2008; 18/2009; 22/2010; 20/2011; 23/2012]
+
+(1AA) In this Act —
+
+(a) a reference to the former section 15(6C)(b) is a reference to section 15(6C)(b), as in force immediately before the date of commencement of section 9(1) of the Central Provident Fund (Amendment) Act 2016; and
+
+(b) a reference to an amount referred to in section 15(6C)(a) is a reference to an amount deposited with an approved bank or retained in the member’s retirement account under that section or the former section 15(6C)(b).
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (1A) In this Act, unless the context otherwise requires, a person shall be deemed to attain, or to have attained, “N” years of age, or the age of “N” years, on the “Nth” anniversary of the day of his birth, where —
 
@@ -550,9 +572,13 @@ PRELIMINARY
 
 (b) any sum credited, or to be credited, to the account of another person under section 19(2) or (6) or 19A(2) or (6);
 
-(c) any sum transferred or paid, or to be transferred or paid, to another person under section 27B; and
+(c) any sum transferred or paid, or to be transferred or paid, to another person under section 27B or to the general moneys of the Fund under section 14(3C); and
 
-(d) any sum recovered, or to be recovered, by the Board under section 27N(4) or 57C(5) or (6).
+[Act 26 of 2016 wef 01/01/2017]
+
+(d) any sum recovered, or to be recovered, by the Board under section 14(3) or (3A), 27N(4) or 57C(5) or (6).
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [20/2011]
 
@@ -1062,6 +1088,8 @@ CONTRIBUTIONS TO FUND
 
 [Act 4 of 2015 wef 01/11/2015]
 
+[Act 4 of 2015 wef 01/11/2015]
+
 (3) Despite anything in this Act, no money in the Fund is to be used to make any payment for the purposes of Part IIIB or IV or any costs or expenses incurred in the administration of the Lifelong Income Scheme or the Home Protection Insurance Scheme, except for withdrawals or deductions from any of a member’s accounts in the Fund made in accordance with this Act.
 
 [Act 6 of 2016 wef 01/05/2016]
@@ -1146,6 +1174,10 @@ CONTRIBUTIONS TO FUND
 
 [16/86; 15/2006]
 
+(6A) For the purposes of subsection (6), the Minister may direct different amounts for different classes of members.
+
+[Act 26 of 2016 wef 01/01/2017]
+
 (7) Where there is no balance in the medisave account of a member, the Board may, on the member’s application and with the Minister’s approval, transfer to the member’s medisave account the whole or such part, as the Board may determine, of —
 
 (a) the amount standing to the member’s credit in any designated account, not exceeding the total amount which had been transferred from the medisave account to that designated account under subsection (6) (called in this subsection the transferred amount); and
@@ -1200,13 +1232,15 @@ CONTRIBUTIONS TO FUND
 
 [22/2010]
 
-(7H) Where the Board has transferred any money standing to the credit of a member in the Fund from any account of the member in the Fund (referred to in this subsection as Account A) to any other account in the Fund (referred to in this subsection as Account B) under section 15(2A), (6), (7B) or (8A), 18(1)(a), (2)(a) or (3)(a), 18A(1), 18B(1) or 18C(1), any condition referred to in section 27(2)(b) or (3) or any regulations made under section 77(1), the Board may, on its own motion or on the application of the member, and subject to such terms and conditions as it may impose —
+(7H) Where the Board has transferred any money standing to the credit of a member in the Fund from any account of the member in the Fund (referred to in this subsection as Account A) to any other account in the Fund (referred to in this subsection as Account B) under section 15(2A), (6), (7B) or (8A), 18(1)(a), (2)(a) or (3)(a), 18A(1), 18B(1), 18C(1) or 18D, any condition referred to in section 27(2)(b) or (3) or any regulations made under section 77(1), the Board may, on its own motion or on the application of the member, and subject to such terms and conditions as it may impose —
 
 (a) restore to Account A the whole or any part of the amount of the transferred money;
 
 (b) pay into Account A the whole or such part, as the Board may determine, of any interest that would have been payable on the restored amount if the restored amount had not been transferred to Account B; and
 
 (c) transfer, from Account B to the general moneys of the Fund, the whole or such part, as the Board may determine, of any interest paid on the restored amount while the restored amount was in Account B.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [23/2012]
 
@@ -1356,23 +1390,59 @@ the Board may, in lieu of making the cash payment, credit an amount equivalent t
 
 [Act 6 of 2016 wef 01/05/2016]
 
-(3) Notwithstanding anything in this Act, the Board shall be entitled to recover on behalf of the Government any cash grant or payment paid into the Fund for the benefit of any person, together with any interest which he is liable to pay to the Government under the terms of the cash grant or payment, from any money standing to the credit of that person in the Fund if he —
+(3) The Board is entitled to recover on behalf of the Government the whole or part of the amount of any cash grant or payment paid into the Fund under subsection (1) or (1A), as the case may be, for the benefit of any person, together with any interest which the person is liable to pay to the Government under the terms of the cash grant or payment, from any money standing to the credit of that person in the Fund if, before, on or after the date of commencement of section 4 of the Central Provident Fund (Amendment No. 2) Act 2016 —
 
-(a) has obtained the cash grant or payment by means of any false or misleading statement or any document that is false or misleading in any particular; or
+(a) the person has obtained the cash grant or payment by means of any false or misleading statement or any document that is false or misleading in any particular;
 
-[Act 6 of 2016 wef 01/05/2016]
+(b) the person has committed a breach of any of the terms and conditions of the cash grant or payment; or
 
-(b) has committed a breach of any of the terms and conditions of the cash grant or payment.
+(c) the person is eligible to receive another cash grant or payment, or a cash grant or payment of a different amount, in place of the cash grant or payment to be recovered.
 
-[32/84]
+[Act 26 of 2016 wef 01/01/2017]
 
-[Act 6 of 2016 wef 01/05/2016]
+(3A) The Board is entitled to recover on behalf of the Government the whole or part of the amount of any cash grant or payment paid into the Fund under subsection (1) or (1A), as the case may be, for the benefit of any person, from any money standing to the credit of that person in the Fund before, on or after the expiry of the prescribed period mentioned in paragraph (b) if —
 
-[Act 6 of 2016 wef 01/05/2016]
+(a) the whole or part of the cash grant or payment is paid in error into the person’s account in the Fund before, on or after the date of commencement of section 4 of the Central Provident Fund (Amendment No. 2) Act 2016; and
+
+(b) before the expiry of the prescribed period beginning on the date on which the cash grant or payment was paid into the person’s account in the Fund in error —
+
+(i) the Board issues a notice of intent to recover that amount, whether or not received by the person; or
+
+(ii) the Government, in such manner as the Board may require, requests the Board to recover that amount.
+
+[Act 26 of 2016 wef 01/01/2017]
+
+(3B) Where the Board has, before the date of commencement of section 4 of the Central Provident Fund (Amendment No. 2) Act 2016, recovered any of the following amounts, the recovered amounts are taken to be and always to have been validly recovered and no legal proceedings lie or may be instituted or maintained in any court of law in respect of any such recovery:
+
+(a) the whole or part of the amount of any cash grant or payment paid in error into a person’s account in the Fund;
+
+(b) any interest on any cash grant or payment mentioned in paragraph (a).
+
+[Act 26 of 2016 wef 01/01/2017]
+
+(3C) Where the Board has recovered any amount from a person’s account in the Fund under subsection (3) or (3A), the Board may transfer, from the person’s account in the Fund to the general moneys of the Fund, the whole or such part, as the Board may determine, of any interest paid on the recovered amount while the recovered amount was in the person’s account in the Fund.
+
+[Act 26 of 2016 wef 01/01/2017]
+
+(3D) Any interest transferred to the general moneys of the Fund before the date of commencement of section 4 of the Central Provident Fund (Amendment No. 2) Act 2016, which if transferred on or after that date would be permitted under subsection (3C), is taken to be and always to have been validly transferred, and no legal proceedings lie or may be instituted or maintained in any court of law in respect of any such transfer.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (4) Any money recovered by the Board from any person under subsection (3) shall be refunded forthwith to the Government.
 
 [32/84]
+
+(4A) Despite sections 20(1)(b) and (1A) and 25 —
+
+(a) the Board may recover or transfer, as the case may be, any amount from a person’s account in the Fund under this section even after the person’s death; and
+
+(b) where, before the date of commencement of section 4 of the Central Provident Fund (Amendment No. 2) Act 2016, the Board had recovered or transferred, as the case may be, any amount from a person’s account in the Fund after the person’s death, which if recovered or transferred on or after that date would be permitted under this section, the amount is taken to be and always to have been validly recovered or transferred, and no legal proceedings lie or may be instituted or maintained in any court of law on account of or in respect of any such recovery or transfer.
+
+[Act 26 of 2016 wef 01/01/2017]
+
+(4B) Subsections (3) to (3D) and (4A) apply despite any other provisions of this Act, but are without prejudice to any other right of action or remedy which the Board or the Government may have under any written law or rule of law.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (5) In this section —
 
@@ -1428,23 +1498,33 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 15\.—(1) No sum of money standing to the credit of a member of the Fund may be withdrawn from the Fund except with the authority of the Board.
 
-(1A) Subject to subsections (1B), (1C) and (1D), sections 14, 14A, 15A and 25(2) and (3) and any regulations and rules made under section 77, the authority under subsection (1) shall not be given except on the application of a person who is entitled, or who within such period as the Board may determine will be entitled under subsection (2)(a) or (3), to withdraw the money from the Fund.
+(1A) The Board may give its authority under subsection (1) —
 
-[18/2009; 22/2010; 23/2012]
+(a) for the withdrawal of money standing to a member’s credit in the Fund, on the application of a person who —
 
-(1B) The authority under subsection (1) may be given for a withdrawal from the Fund by a relevant member under subsection (7), or for the payment by a relevant member of a premium referred to in section 27L(1) or (1A) from any amount standing to his credit in his retirement account, without any application being made by the relevant member under subsection (1A).
+(i) is entitled or allowed to withdraw the money; or
 
-[18/2009; 22/2010; 23/2012]
+(ii) will be entitled to withdraw the money under subsection (2)(a), (3) or (7) within such period as the Board may determine; or
 
-(1C) After the death of a member of the Fund, the authority under subsection (1) may be given for a withdrawal from the Fund under subsection (5) by a person nominated by that member in accordance with section 25(1), without any application being made by that person under subsection (1A).
+(b) without any application mentioned in paragraph (a), for the withdrawal of —
 
-[22/2010]
+(i) the whole or part of an amount referred to in subsection (6C)(a) that a member is entitled to withdraw under subsection (7);
 
-(1D) The authority under subsection (1) may be given for a withdrawal from the Fund by a member who has attained the age of 55 years under subsection (4)(b), without any application being made by that member under subsection (1A).
+(ii) the whole or part of any money that the Board may allow the member to withdraw under subsection (4)(b);
 
-[23/2012]
+(iii) the amount standing to the credit of a deceased member in the Fund that a person nominated by the deceased member in accordance with section 25(1) is entitled to withdraw under subsection (5); or
 
-(2) Subject to this section and sections 19 and 19A, a member of the Fund shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
+(iv) such other amounts standing to the credit of a member in the Fund for payment to the member as may be prescribed by regulations made under section 77(1).
+
+[Act 26 of 2016 wef 01/01/2017]
+
+(1B) [Deleted by Act 26 of 2017 wef 01/01/2017]
+
+(1C) [Deleted by Act 26 of 2017 wef 01/01/2017]
+
+(1D) [Deleted by Act 26 of 2017 wef 01/01/2017]
+
+(2) Subject to this section and sections 16, 19 and 19A, a member of the Fund shall be entitled to withdraw the sum standing to the credit of the member in the Fund at any time after the Board is satisfied that the member —
 
 (a) has attained the age of 55 years;
 
@@ -1464,6 +1544,8 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (g) is suffering from a terminal illness or disease.
 
+[Act 26 of 2016 wef 01/01/2017]
+
 [5/87; 15/2006; 21/2008; 25/2008; 18/2009; 22/2010]
 
 (2A) Where a member of the Fund is entitled under subsection (2)(d), (e) or (f) to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
@@ -1472,13 +1554,11 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account;
-
-(b) unless the Minister otherwise allows, the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
-
-(i) by the member; or
-
 (ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account; and
+
+[Act 26 of 2016 wef 01/01/2017]
+
+(b) [Deleted by Act 26 of 2016 wef 01/01/2017]
 
 (c) if there exist such circumstances as may be prescribed by any regulations made under section 77(1) and the member is thereby required to reserve any amount in his ordinary account, such reserved amount shall be set aside or topped-up in that account —
 
@@ -1492,15 +1572,19 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [Act 24 of 2013 wef 01/01/2014]
 
-(3) Subject to subsection (6), a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every first anniversary of his date of birth after he has attained the age of 55 years or such other period as the Minister may direct.
+(3) Subject to subsection (6) and section 16, a member of the Fund who has withdrawn any money from the Fund on the ground that he has attained the age of 55 years shall be entitled to make one further withdrawal of the sum standing to his credit in the Fund on or after every first anniversary of his date of birth after he has attained the age of 55 years or such other period as the Minister may direct.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [5/87; 36/2002]
 
-(4) Notwithstanding subsection (3) but subject to subsection (6), the Board may —
+(4) Notwithstanding subsection (3) but subject to subsection (6) and section 16, the Board may —
 
 (a) where a member has withdrawn any money from the Fund on the ground that he has attained the age of 55 years, allow him to withdraw, at any time, the sum standing to his credit in the Fund if he satisfies such conditions as the Board may impose in any particular case; and
 
 (b) where a member has attained the age of 55 years, allow him to withdraw, within such time as the Board may permit, the whole or any part of the amount of any money that is paid, repaid or refunded into his account in the Fund pursuant to a charge under subsection (9), (9A), (11D) or (11E) or section 21(1), 21A(1), 21B(1), 27C(1)(v)(A) or (B), 27D(1)(v)(B), 27DA(1)(v), 27E(1)(iv) or 27F(1)(iv), or pursuant to an undertaking given under subsection (10) or (10A) or section 27D(1)(v)(A).
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [Act 24 of 2013 wef 01/01/2014]
 
@@ -1508,23 +1592,17 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [20/2011]
 
-(6) Subject to subsections (6A), (8) and (8A), where a member of the Fund is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and in accordance with any regulations made under this Act —
+(6) Subject to subsections (6A), (8) and (8A), where a member of the Fund is entitled under subsection (2)(a) or (3), or is allowed under subsection (4), to withdraw the sum standing to his credit in the Fund, at the time of the withdrawal and in accordance with any regulations made under this Act —
 
-(a) such minimum sum applicable to the member as may be prescribed shall be set aside or topped‑up —
-
-(i) by the member; or
-
-(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account;
-
-(b) unless the Board otherwise allows, such amount as may be specified under subsection (6D) shall be set aside or topped-up in the member’s medisave account —
+(a) such retirement sum applicable to the member as may be prescribed shall be set aside or topped‑up —
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund, after excluding —
+(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account; and
 
-(A) any reserved amount standing to the member’s credit in his ordinary account; and
+[Act 26 of 2016 wef 01/01/2017]
 
-(B) any sum standing to the member’s credit in his retirement account; and
+(b) [Deleted by Act 26 of 2016 wef 01/01/2017]
 
 (c) if there exist such circumstances as may be prescribed by any regulations made under section 77(1) and the member is thereby required to reserve any amount in his ordinary account, such reserved amount shall be set aside or topped-up in that account —
 
@@ -1532,9 +1610,13 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (ii) from the sum standing to the member’s credit in that account.
 
+[Act 26 of 2016 wef 01/01/2017]
+
 [Act 24 of 2013 wef 01/06/2014]
 
-(6A) Where 2 members of the Fund are parties to a marriage, and neither member is a relevant member, the Board may, on a joint application made by them before 1st January 2013, permit them to set aside jointly an amount which is less than 2 times the minimum sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
+(6A) Where 2 members of the Fund are parties to a marriage, and neither member is a relevant member, the Board may, on a joint application made by them before 1st January 2013, permit them to set aside jointly an amount which is less than 2 times the retirement sum if each member has executed a memorandum under section 25(1) nominating the other member to receive, on his death, an amount belonging to him which is not less than such amount as the Board may specify.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [15/2006; 18/2009; 23/2012]
 
@@ -1558,23 +1640,21 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [40/2007; 21/2008; 22/2010]
 
-(6C) The amount standing to the credit of a member in his retirement account shall be utilised as follows:
+(6C) The amount standing to the credit of a member in the member’s retirement account may, in accordance with such terms and conditions as the Board may impose, be used or withdrawn in all or any of the following manner:
 
-(a) such amount (if any) as the Board may determine shall be used for the payment of a premium referred to in section 27L(1) or (1A); and
+(a) deposited before 1 January 2014 with an approved bank or retained in the member’s retirement account;
 
-(b) any remaining amount may be —
+(b) withdrawn to purchase an approved annuity from an insurer;
 
-(i) deposited before 1st January 2014 with an approved bank or retained in the member’s retirement account;
+(c) withdrawn to pay a premium referred to in section 27L(1) or (1A);
 
-[Act 24 of 2013 wef 01/01/2014]
+(d) used, transferred or withdrawn in any other circumstances as permitted under this Act.
 
-(ii) used to purchase an approved annuity from an insurer; or
+[Act 6 of 2016 wef 01/07/2017]
 
-(iii) used for the payment of a premium referred to in section 27L(1) or (1A).
+(6CA) For the purposes of subsections (6)(a) and (6C), the Board shall, if required by any regulations made under section 77(1), transfer from the sum standing to the credit of a member in the Fund to his retirement account, towards the maintenance of the retirement sum, such amount at such time as may be prescribed in those regulations.
 
-[18/2009; 22/2010; 20/2011; 23/2012]
-
-(6CA) For the purposes of subsections (6)(a) and (6C), the Board shall, if required by any regulations made under section 77(1), transfer from the sum standing to the credit of a member in the Fund to his retirement account, towards the maintenance of the minimum sum, such amount at such time as may be prescribed in those regulations.
+[Act 26 of 2016 wef 01/01/2017]
 
 [23/2012]
 
@@ -1582,19 +1662,13 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [23/2012]
 
-(6D) The Minister may, by order published in theGazette—
+(6D) [Deleted by Act 26 of 2016 wef 01/01/2017][20/2011]
 
-(a) specify such amount as he thinks fit for the purposes of subsection (6)(b); and
+(7) Where a member has deposited the amount referred to in subsection (6C)(a) with an approved bank or retained that amount in the member’s retirement account, the member is, on attaining the prescribed age, entitled to withdraw that amount or such part of that amount and any interest accruing on that amount, as the Board may determine, in accordance with any regulations made under section 77(1).
 
-(b) specify different amounts in respect of different classes of members.
+[Act 6 of 2016 wef 01/01/2017]
 
-[20/2011]
-
-(7) Where a member has deposited the amount referred to in subsection (6C)(b) with an approved bank or retained that amount in his retirement account, the member shall, on attaining the prescribed age, be entitled to withdraw from that amount and any interest accruing thereon in accordance with any regulations made under section 77(1).
-
-[18/2009; 23/2012]
-
-(7A) A member who has attained the age of 55 years but has not attained the prescribed age shall be entitled to withdraw the amount referred to in subsection (6C)(b), or such part thereof as the Board may determine, from his account with an approved bank or his retirement account, or to surrender his approved annuity from an insurer, if the Board is satisfied that the member —
+(7A) A member who has attained the age of 55 years but has not attained the prescribed age is entitled, in accordance with any regulations made under section 77(1), to withdraw the amount referred to in subsection (6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or such part of that amount as the Board may determine, or to surrender his approved annuity from an insurer, if the Board is satisfied that the member —
 
 (a) is physically or mentally incapacitated —
 
@@ -1614,19 +1688,19 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [Act 24 of 2013 wef 01/01/2014]
 
-(7B) Where a member of the Fund is entitled under subsection (7A)(a), (b) or (c) to withdraw the amount referred to in subsection (6C)(b) or any part thereof from his account with an approved bank or his retirement account or surrender his approved annuity from an insurer, at the time of the withdrawal or surrender, as the case may be, and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
+[Act 6 of 2016 wef 01/01/2017]
+
+(7B) Where a member of the Fund is entitled under subsection (7A)(a), (b) or (c) to withdraw the amount referred to in subsection (6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount or surrender his approved annuity from an insurer, at the time of the withdrawal or surrender, as the case may be, and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
 
 (a) such amount as the Minister may specify shall be set aside or topped-up in the member’s retirement account —
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account;
-
-(b) unless the Minister otherwise allows, the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
-
-(i) by the member; or
-
 (ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account; and
+
+[Act 26 of 2016 wef 01/01/2017]
+
+(b) [Deleted by Act 26 of 2016 wef 01/01/2017]
 
 (c) if there exist such circumstances as may be prescribed by any regulations made under section 77(1) and the member is thereby required to reserve any amount in his ordinary account, such reserved amount shall be set aside or topped-up in that account —
 
@@ -1635,6 +1709,8 @@ WITHDRAWAL OF CONTRIBUTIONS
 (ii) from the sum standing to the member’s credit in that account.
 
 [Act 24 of 2013 wef 01/06/2014]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (7C) Where any amount has been set aside or topped-up in the member’s retirement account for the purposes of subsection (7B)(a), the amount standing to the credit of the member in his retirement account may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
@@ -1662,19 +1738,17 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [15/2006; 21/2008; 18/2009; 22/2010]
 
-(8A) Where a member of the Fund is entitled under subsection (2)(a), (3) or (4) to withdraw the sum standing to his credit in the Fund and, under subsection (8)(a), (b) or (c), need not comply with subsection (6)(a), at the time of the withdrawal and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
+(8A) Where a member of the Fund is entitled under subsection (2)(a) or (3), or is allowed under subsection (4), to withdraw the sum standing to his credit in the Fund and, under subsection (8)(a), (b) or (c), need not comply with subsection (6)(a), at the time of the withdrawal and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
 
 (a) such amount as the Minister may specify shall be set aside or topped-up in the member’s retirement account —
 
 (i) by the member; or
 
-(ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account;
-
-(b) unless the Minister otherwise allows, the prescribed amount referred to in section 16 shall be set aside or topped-up in the member’s medisave account —
-
-(i) by the member; or
-
 (ii) from the sum standing to the member’s credit in the Fund, after excluding any reserved amount standing to the member’s credit in his ordinary account; and
+
+[Act 26 of 2016 wef 01/01/2017]
+
+(b) [Deleted by Act 26 of 2016 wef 01/01/2017]
 
 (c) if there exist such circumstances as may be prescribed by any regulations made under section 77(1) and the member is thereby required to reserve any amount in his ordinary account, such reserved amount shall be set aside or topped-up in that account —
 
@@ -1682,53 +1756,93 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (ii) from the sum standing to the member’s credit in that account.
 
+[Act 26 of 2016 wef 01/01/2017]
+
 [Act 24 of 2013 wef 01/06/2014]
 
 (8B) Where any amount has been set aside or topped-up in the member’s retirement account for the purposes of subsection (8A)(a), the amount standing to the credit of the member in his retirement account may be withdrawn by the member in accordance with such terms and conditions as the Minister may from time to time impose.
 
 [Act 24 of 2013 wef 01/01/2014]
 
-(8C) Notwithstanding subsections (2A), (6), (7B) and (8A) and section 27, where any amount which a relevant member is entitled to withdraw from his retirement account under subsection (7), or which is due to a relevant member under section 27K(6), has been transferred or paid by the Board into his ordinary account, the Board may, on his application, permit him to withdraw that amount.
+(8C) A member who has attained the prescribed age and who need not comply with subsection (6)(a) by reason of subsection (8)(e) is entitled, in accordance with any regulations made under section 77(1) —
 
-[18/2009]
+(a) where any amount standing to the member’s credit in the member’s retirement account is deposited with an approved bank or retained in the member’s retirement account under subsection (6C)(a), to withdraw the amount or such part of the amount, as the Board may determine, which was so deposited or retained; and
 
-(9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made before 1st January 2013, permit the member —
+(b) where any amount standing to the member’s credit in the member’s retirement account is used to purchase an approved annuity under subsection (6C)(b), to surrender the approved annuity.
 
-(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+[Act 6 of 2016 wef 01/01/2017]
+
+(8D) Despite sections 14(2), 15(2), (2A), (6), (6C), (7), (7B) and (8A) and 27, where the Board has transferred or paid any amount into a member’s account in the Fund (called in this section the transferred amount), the Board may, on the member’s application, permit the member to withdraw an amount determined by the Board —
+
+(a) from one or more accounts in the Fund as the Board may determine;
+
+(b) in circumstances prescribed by regulations made under section 77(1); and
+
+(c) if the member satisfies such requirements as the Board may specify.
+
+[Act 6 of 2016 wef 01/01/2017]
+
+(8E) An application under subsection (8D) must be made within such time as may be prescribed by regulations made under section 77(1), and different times may be prescribed for different types of withdrawals.
+
+[Act 6 of 2016 wef 01/01/2017]
+
+(8F) The amount that the Board may permit a member to withdraw under subsection (8D) must not exceed the transferred amount.
+
+[Act 6 of 2016 wef 01/01/2017]
+
+(9) Where a member or his spouse owns any immovable property of a value equal to or exceeding the retirement sum, the Board may, on an application made before 1st January 2013, permit the member —
+
+(a) to withdraw the amount referred to in the former subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
 (b) to surrender his approved annuity,
 
-if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the minimum sum.
+if the member or his spouse, as the case may be, agrees to the creation of a charge on the immovable property owned by him or his spouse, to secure the payment to the Board of the retirement sum.
+
+[Act 26 of 2016 wef 01/01/2017]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 [5/87; 39/2000; 15/2006; 18/2009; 23/2012]
 
-(9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made before 1st January 2013, permit the member —
+(9A) Where a member and one or more related persons jointly own any immovable property of a value equal to or exceeding the retirement sum, the Board may, on an application made before 1st January 2013, permit the member —
 
-(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in the former subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
 (b) to surrender his approved annuity,
 
-if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the minimum sum.
+if the member and the related person or persons, as the case may be, agree to the creation of a charge on the immovable property owned by them to secure the payment to the Board of the retirement sum.
+
+[Act 26 of 2016 wef 01/01/2017]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 [39/2000; 18/2009; 23/2012]
 
 (10) Where a member or his spouse or both of them jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made before 1st January 2013, permit the member —
 
-(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in the former subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
 (b) to surrender his approved annuity,
 
-if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the property is sold or otherwise disposed of.
+if the member or his spouse (or both of them), as the case may be, gives an undertaking to refund to the Board an amount equal to the member’s retirement sum or part thereof which is required to be set aside in the event the property is sold or otherwise disposed of.
+
+[Act 26 of 2016 wef 01/01/2017]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 [5/87; 40/2007; 18/2009; 20/2011; 23/2012]
 
 (10A) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made before 1st January 2013, permit the member —
 
-(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in the former subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
 
 (b) to surrender his approved annuity,
 
-if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the property is sold or otherwise disposed of.
+if the member and the person or persons, as the case may be, give an undertaking to refund to the Board an amount equal to the member’s retirement sum or part thereof which is required to be set aside in the event the property is sold or otherwise disposed of.
+
+[Act 26 of 2016 wef 01/01/2017]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 [39/2000; 40/2007; 18/2009; 20/2011; 23/2012]
 
@@ -1738,43 +1852,57 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (10C) [Deleted by Act 23 of 2012]
 
-(11) Where a member owns any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
+(11) Where a member owns any immovable property of a value equal to or exceeding the retirement sum, the Board may, on an application made on or after 1st January 2013, permit the member, in accordance with any regulations made under section 77(1) —
 
-(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in subsection (6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount; or
 
 (b) to surrender his approved annuity.
+
+[Act 26 of 2016 wef 01/01/2017]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 [23/2012]
 
-(11A) Where a member and one or more persons jointly own any immovable property of a value equal to or exceeding the minimum sum, the Board may, on an application made on or after 1st January 2013, permit the member —
+(11A) Where a member and one or more persons jointly own any immovable property of a value equal to or exceeding the retirement sum, the Board may, on an application made on or after 1st January 2013, permit the member, in accordance with any regulations made under section 77(1) —
 
-(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in subsection (6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount; or
 
 (b) to surrender his approved annuity.
+
+[Act 26 of 2016 wef 01/01/2017]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 [23/2012]
 
 [Act 24 of 2013 wef 01/01/2014]
 
-(11B) Where a member owns any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made on or after 1st January 2013, permit the member —
+(11B) Where a member owns any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made on or after 1st January 2013, permit the member, in accordance with any regulations made under section 77(1) —
 
-(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
-
-(b) to surrender his approved annuity.
-
-[23/2012]
-
-(11C) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made on or after 1st January 2013, permit the member —
-
-(a) to withdraw the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account; or
+(a) to withdraw the amount referred to in subsection (6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount; or
 
 (b) to surrender his approved annuity.
 
 [23/2012]
 
-(11D) Where a member, with the permission of the Board under subsection (11), (11A), (11B) or (11C), has withdrawn the amount referred to in subsection (6C)(b) or part thereof from his account with an approved bank or his retirement account, there shall be a charge constituted on the immovable property referred to in subsection (11), (11A), (11B) or (11C), as the case may be, to secure the payment to the Board of the amount withdrawn.
+[Act 6 of 2016 wef 01/01/2017]
+
+(11C) Where a member and one or more persons jointly own any immovable property sold by an approved developer, by a Housing Authority or by a lessee of a Housing Authority, the Board may, on an application made on or after 1st January 2013, permit the member, in accordance with any regulations made under section 77(1) —
+
+(a) to withdraw the amount referred to in subsection (6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount; or
+
+(b) to surrender his approved annuity.
 
 [23/2012]
+
+[Act 6 of 2016 wef 01/01/2017]
+
+(11D) Where a member, with the permission of the Board under subsection (11), (11A), (11B) or (11C), has withdrawn the amount referred to in subsection (6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount, there shall be a charge constituted on the immovable property referred to in subsection (11), (11A), (11B) or (11C), as the case may be, to secure the payment to the Board of the amount withdrawn.
+
+[23/2012]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (11E) Where a member, with the permission of the Board under subsection (11), (11A), (11B) or (11C), has surrendered his approved annuity, there shall be a charge constituted on the immovable property referred to in subsection (11), (11A), (11B) or (11C), as the case may be, to secure the payment to the Board of the entire surrender value of the approved annuity.
 
@@ -1858,7 +1986,9 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 ### Setting aside additional sum
 
-15B\.—(1) Before 1st January 2014, a member who is entitled to withdraw the sum standing to his credit in the Fund under section 15(2)(a), (3) or (4) may, in addition to the minimum sum required to be set aside under section 15(6)(a), set aside in accordance with regulations made under this Act, the balance or any part of the balance of the sum which the member is entitled to withdraw under section 15(2)(a), (3) or (4) (referred to in this section as the additional sum).
+15B\.—(1) Before 1st January 2014, a member who is entitled to withdraw the sum standing to his credit in the Fund under section 15(2)(a), (3) or (4) may, in addition to the retirement sum required to be set aside under section 15(6)(a), set aside in accordance with regulations made under this Act, the balance or any part of the balance of the sum which the member is entitled to withdraw under section 15(2)(a), (3) or (4) (referred to in this section as the additional sum).
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [39/2000; 20/2011]
 
@@ -1878,25 +2008,13 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 ### Restrictions on withdrawal from medisave account
 
-16\.—(1) Notwithstanding anything in section 15, a member of the Fund shall not be entitled to withdraw any sum standing to the member’s credit in the medisave account under section 15(2)(a), (d), (e), (f) or (g), (3) or (4) if the amount in his medisave account does not exceed the prescribed amount.
+16\.—(1) A member of the Fund is not entitled to withdraw any sum standing to the credit of the member in the member’s medisave account under section 15(2)(a) or (3).
 
-[32/84; 15/2006; 18/2009]
+(2) A member of the Fund is not entitled to withdraw any sum standing to the credit of the member in the member’s medisave account under section 15(2)(d), (e), (f) or (g), except with the approval of the Minister.
 
-(2) Where the amount in a member’s medisave account exceeds the prescribed amount —
+(3) The Board must not allow a member of the Fund to withdraw any sum standing to the credit of the member in the member’s medisave account under section 15(4).
 
-(a) if the member is a person in respect of whom there is a requirement to set aside or top-up the minimum sum under section 15(6)(a), the amount in excess of the prescribed amount (referred to in this subsection as the excess amount) shall be applied to meet any shortfall in the minimum sum, and any balance of the excess amount may be withdrawn under section 15(3) or (4);
-
-(b) if the member is a person in respect of whom there is a requirement to set aside or top-up in his retirement account the amount referred to in section 15(2A)(a), the excess amount shall be applied to meet any shortfall in that amount, and any balance of the excess amount may be withdrawn under section 15(2)(d), (e) or (f);
-
-(c) if the member is a person in respect of whom there is a requirement to set aside or top-up in his retirement account the amount referred to in section 15(7B)(a) or (8A)(a), the excess amount shall be applied to meet any shortfall in that amount, and any balance of the excess amount may be withdrawn under section 15(2)(a), (3) or (4); or
-
-(d) in any other case, the excess amount may be withdrawn under section 15(2)(a) or (g), (3) or (4).
-
-[15/2006; 20/2011]
-
-(3) In this section, “prescribed amount” means such amount as may be prescribed by the Minister from time to time by regulations made under section 77.
-
-[32/84]
+[Act 26 of 2016 wef 01/01/2017]
 
 ### Withdrawal from medisave account of deceased member
 
@@ -1944,9 +2062,19 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (a) for the payment of any loan taken by him for the purchase of any immovable property by the member in accordance with any regulations made under section 77;
 
-(b) for the payment of improvement contributions due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of lift upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A), including the payment of such costs, fees or other incidental expenses arising from the upgrading works as are authorised by any regulations made under section 77.
+(b) for the payment of —
+
+(i) any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129) or to a Town Council in respect of lift upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A);
+
+(ii) any interest imposed by the Housing and Development Board or the Town Council, as the case may be, on the improvement contribution referred to in sub-paragraph (i), where the improvement contribution is paid in instalments; and
+
+(iii) any costs, fees or other incidental expenses arising from such works;
+
+(c) for such other purposes as permitted under, and in accordance with, this Act.
 
 [12/99; 23/2005]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 ### Transfer or payment of moneys to retirement account or special account, and voluntary maintenance of sum in retirement account
 
@@ -1958,11 +2086,15 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (c) any person to voluntarily maintain, in a retirement account with the Board —
 
-(i) a minimum sum; or
+(i) a retirement sum; or
 
-(ii) any other sum that the Board may allow, being a sum not exceeding such sum as may for the time being be specified by the Minister by notification in theGazetteunder section 18B(3)(b).
+[Act 26 of 2016 wef 01/01/2017]
+
+(ii) any other sum that the Board may allow, being a sum not exceeding such sum as may be prescribed by any regulations made under section 77(1)(o).
 
 [40/2007; 25/2008; 23/2012]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (1A) All moneys transferred to or paid into a retirement account under subsection (1)(a) or (b) shall be applied in accordance with any regulations made under section 77(1)(o) and such terms and conditions as the Board may impose.
 
@@ -2012,11 +2144,13 @@ shall be transferred by the Board to the member’s retirement account at the re
 
 [Act 24 of 2013 wef 28/06/2014]
 
-(6) Where, at the relevant time, the total amount of the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) exceeds the minimum sum applicable to a member —
+(6) Where, at the relevant time, the total amount of the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) exceeds the retirement sum applicable to a member —
 
-(a) the total amount to be transferred by the Board to the member’s retirement account under subsections (4) and (5) shall not exceed the minimum sum applicable to the member; and
+(a) the total amount to be transferred by the Board to the member’s retirement account under subsections (4) and (5) shall not exceed the retirement sum applicable to the member; and
 
 (b) the moneys and interest referred to in subsections (4)(a) and (b) and (5)(a) and (b) shall be transferred by the Board to the member’s retirement account in such order of priority as may be prescribed in any regulations made under section 77(1)(oa).
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [Act 24 of 2013 wef 28/06/2014]
 
@@ -2042,9 +2176,9 @@ shall be transferred by the Board to the member’s retirement account at the re
 
 [23/2012]
 
-(2) In this section, “prescribed amount” means such sum as may for the time being be specified by the Minister by notification in theGazetteunder section 18B(3)(b).
+(2) In this section, “prescribed amount” means an amount prescribed by regulations made under section 77(1)(o).
 
-[40/2007]
+[Act 6 of 2016 wef 01/01/2017]
 
 ### Transfer of member’s moneys in ordinary account to special account
 
@@ -2072,7 +2206,9 @@ shall be transferred by the Board to the member’s retirement account at the re
 
 ### Transfer of member’s moneys in ordinary account or special account to medisave account
 
-18C\.—(1) The Board may, on the application of a member who has less than the requisite amount standing to his credit in his medisave account and subject to such terms and conditions as the Board may impose, transfer to his medisave account a sum standing to his credit in his ordinary account or special account, or in both accounts.
+18C\.—(1) The Board may, on the application of a member who has less than the requisite amount applicable to the member standing to his credit in his medisave account and subject to such terms and conditions as the Board may impose, transfer to his medisave account a sum standing to his credit in his ordinary account or special account, or in both accounts.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [20/2011]
 
@@ -2081,6 +2217,12 @@ shall be transferred by the Board to the member’s retirement account at the re
 (3) In this section, “requisite amount” means the amount as directed by the Minister under section 13(6).
 
 [31/2003]
+
+### Transfer of member’s moneys in ordinary account or special account to medisave account of related person
+
+18D\. The Board may, on the application of a member and subject to such terms and conditions as the Board may impose, permit the member to transfer the whole or part of the amount standing to the credit of the member in either or both of the member’s ordinary account and special account to the medisave account of any person who is related to the member in a manner specified by the Board.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 ### Provisions relating to moneys transferred or paid to relevant individual’s, parent’s, grandparent’s, spouse’s or sibling’s retirement account on death or withdrawal under section 15(2)(b) or (c)
 
@@ -2318,13 +2460,15 @@ transfer such part of that portion as the Board may determine to the person’s 
 
 (c) to repay any loan or to reimburse any cost, fee or other expense pursuant to regulations made under section 77(1)(i);
 
-(ca) to pay any improvement contribution due —
+(ca) to pay —
 
-(i) to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129); or
+(i) any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129) or to a Town Council in respect of lift upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A);
 
-(ii) to a Town Council in respect of upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A),
+(ii) any interest imposed by the Housing and Development Board or the Town Council, as the case may be, on the improvement contribution referred to in sub-paragraph (i), where the improvement contribution is paid in instalments; and
 
-including costs, fees or other incidental expenses arising from such works;
+(iii) any costs, fees or other incidental expenses arising from such works;
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (d) to pay any costs, fees or other expenses incurred —
 
@@ -2500,7 +2644,15 @@ the Board may register or notify, in the appropriate register maintained by the 
 
 (b) to repay or to make periodic payments towards the repayment of any loan taken by the member to finance or re-finance the purchase or acquisition of an HDB flat;
 
-(c) to pay any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out on an HDB flat under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of lift upgrading works carried out in relation to an HDB flat under Part IVA of the Town Councils Act (Cap. 329A), including the payment of costs, fees or other incidental expenses arising from such works; or
+(c) to pay —
+
+(i) any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129) or to a Town Council in respect of lift upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A);
+
+(ii) any interest imposed by the Housing and Development Board or the Town Council, as the case may be, on the improvement contribution referred to in sub-paragraph (i), where the improvement contribution is paid in instalments; and
+
+(iii) any costs, fees or other incidental expenses arising from such works; or
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (d) to pay any costs, fees or other expenses incurred —
 
@@ -2718,7 +2870,9 @@ for —
 
 (d) any moneys repayable to the Fund pursuant to an undertaking given under section 15(10) or (10A) or 27D(1)(v)(A);
 
-(e) any moneys deposited by a member with an approved bank under section 15(6C)(b) or 15B(2) and any interest thereon, and any withdrawals from the moneys and interest;
+(e) any moneys referred to in section 15(6C)(a) or 15B(2) which is deposited by a member with an approved bank and any interest on those moneys, and any withdrawals from the moneys and interest;
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (f) any payments from an approved annuity referred to in section 15(6C)(b) or 15B(2);
 
@@ -3394,7 +3548,9 @@ DIVISION OF FUND-RELATED ASSETS IN MATRIMONIAL PROCEEDINGS
 
 (2) Subject to subsection (5), where the amount standing to the credit of a member in the Fund at the time of the transfer under subsection (1)(a)(i) or payment under subsection (1)(b), after deducting —
 
-(a) any amount which the Board is entitled to recover on behalf of the Government under section 14(3); and
+(a) any amount which the Board is entitled to recover on behalf of the Government under section 14(3) or (3A), or to transfer to the general moneys of the Fund under section 14(3C); and
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (b) any amount which the Board is entitled to receive or recover on behalf of the Government under section 14A(5) or (6),
 
@@ -3404,11 +3560,15 @@ is less than the amount awarded under the order of court, the Board shall transf
 
 (3) Subject to subsection (5), where the amount standing to the credit of a member in the Fund at the time of the payment under subsection (1)(a)(ii), after deducting —
 
-(a) any amount which the Board is entitled to recover on behalf of the Government under section 14(3);
+(a) any amount which the Board is entitled to recover on behalf of the Government under section 14(3) or (3A), or to transfer to the general moneys of the Fund under section 14(3C);
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (b) any amount which the Board is entitled to receive or recover on behalf of the Government under section 14A(5) or (6);
 
-(c) the amounts required to be set aside by the member, or from the amount standing to the credit of the member in the Fund, under sections 15 and 16; and
+(c) the amounts required to be set aside by the member, or from the amount standing to the credit of the member in the Fund, under section 15; and
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (d) any amount which the member may be required to set aside under any condition referred to in section 27(2)(b) or (3),
 
@@ -3438,7 +3598,11 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 (b) in priority to —
 
-(i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15B, 16A, 17, 18, 18A, 18B, 18C, 20, 21, 21A, 21B or 22 or any regulations made under section 23 or 77(1); and
+(i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15(8D), 15B, 16A, 17, 18, 18A, 18B, 18C, 18D, 20, 21, 21A, 21B, 22 or 57DA or any regulations made under section 23 or 77(1); and
+
+[Act 26 of 2016 wef 01/01/2017]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (ii) every deduction which the Board is entitled to make under —
 
@@ -3454,7 +3618,11 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 (b) in priority to —
 
-(i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15B, 16A, 17, 18, 18A, 18B, 18C, 20, 21, 21A, 21B or 22 or any regulations made under section 23 or 77(1); and
+(i) every withdrawal or transfer of money standing to the credit of the member referred to in section 13(7), 15(8D), 15B, 16A, 17, 18, 18A, 18B, 18C, 18D, 20, 21, 21A, 21B, 22 or 57DA or any regulations made under section 23 or 77(1); and
+
+[Act 26 of 2016 wef 01/01/2017]
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (ii) every deduction which the Board is entitled to make under —
 
@@ -3472,9 +3640,13 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 27C\.—(1) Where —
 
-(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount, or has surrendered his approved annuity, under section 15(9) or (9A);
 
-(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the member’s minimum sum;
+[Act 6 of 2016 wef 01/01/2017]
+
+(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the member’s retirement sum;
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (c) an order of court is made requiring the transfer (other than by way of sale) of the member’s estate or interest in the immovable property to his spouse; and
 
@@ -3482,17 +3654,25 @@ is less than the amount awarded under the order of court, the Board shall pay th
 
 then, subject to any regulations made under section 77(1), the following provisions shall apply:
 
-(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the member’s minimum sum, that person shall pay to the Board that amount;
+(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the member’s retirement sum, that person shall pay to the Board that amount;
 
-(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum, unless the amount paid under paragraph (i), if any, is sufficient to cover that deficiency;
+[Act 26 of 2016 wef 01/01/2017]
+
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s retirement sum, unless the amount paid under paragraph (i), if any, is sufficient to cover that deficiency;
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (iii) if the immovable property is subsequently sold or otherwise disposed of, the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
 
 (iv) notwithstanding section 15(15)(e), upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable —
 
-(A) the charge referred to in paragraph (b) shall cease to secure the payment to the Board of the member’s minimum sum; and
+(A) the charge referred to in paragraph (b) shall cease to secure the payment to the Board of the member’s retirement sum; and
 
-(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the payment to the Board of the member’s minimum sum;
+[Act 26 of 2016 wef 01/01/2017]
+
+(B) the member, the spouse or any other person having an interest in the immovable property shall be entitled to have that charge cancelled, in so far as it secures the payment to the Board of the member’s retirement sum;
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (v) upon the transfer of the member’s estate or interest in the immovable property to the spouse —
 
@@ -3526,15 +3706,21 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (2) Except in a case to which subsection (1) applies, where —
 
-(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(9) or (9A);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount, or has surrendered his approved annuity, under section 15(9) or (9A);
 
-(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the member’s minimum sum; and
+[Act 6 of 2016 wef 01/01/2017]
+
+(b) a charge has been created under section 15(9) or (9A) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the member’s retirement sum; and
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (c) an order of court is made requiring the transfer or sale of the member’s estate or interest in the immovable property to any person,
 
 the charge shall continue in force until —
 
-(i) an amount sufficient to cover the deficiency in the member’s minimum sum —
+(i) an amount sufficient to cover the deficiency in the member’s retirement sum —
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (A) has been paid to the Board; or
 
@@ -3550,11 +3736,15 @@ in which event the member, the person referred to in paragraph (c) or any other 
 
 27D\.—(1) Where —
 
-(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(10) or (10A);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount, or has surrendered his approved annuity, under section 15(10) or (10A);
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (b) the member wholly owns, or the member and one or more other persons jointly own, an immovable property;
 
-(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the immovable property is sold or otherwise disposed of;
+(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the member’s retirement sum or part thereof which is required to be set aside in the event the immovable property is sold or otherwise disposed of;
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (d) an order of court is made requiring the transfer (other than by way of sale) of the member’s estate or interest in the immovable property to his spouse; and
 
@@ -3562,13 +3752,19 @@ in which event the member, the person referred to in paragraph (c) or any other 
 
 then, subject to any regulations made under section 77(1), the following provisions shall apply:
 
-(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the member’s minimum sum, that person shall pay to the Board that amount;
+(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the member’s retirement sum, that person shall pay to the Board that amount;
 
-(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum, unless the amount paid under paragraph (i), if any, is sufficient to cover that deficiency;
+[Act 26 of 2016 wef 01/01/2017]
+
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s retirement sum, unless the amount paid under paragraph (i), if any, is sufficient to cover that deficiency;
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (iii) if the immovable property is subsequently sold or otherwise disposed of, the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
 
-(iv) upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable, the Board shall not enforce the undertaking under section 15(10) or (10A) against any person who has given that undertaking, in so far as it secures the refund to the Board of the member’s minimum sum or part thereof which is required to be set aside;
+(iv) upon the transfer of the member’s estate or interest in the immovable property to the spouse, and upon payment in accordance with paragraph (i), if applicable, the Board shall not enforce the undertaking under section 15(10) or (10A) against any person who has given that undertaking, in so far as it secures the refund to the Board of the member’s retirement sum or part thereof which is required to be set aside;
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (v) upon the transfer of the member’s estate or interest in the immovable property to the spouse —
 
@@ -3588,25 +3784,33 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (2) Except in a case to which subsection (1) applies, where —
 
-(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(10) or (10A);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount, or has surrendered his approved annuity, under section 15(10) or (10A);
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (b) the member wholly owns, or the member and one or more other persons jointly own, an immovable property;
 
-(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the member’s minimum sum or part thereof which is required to be set aside in the event the immovable property is sold or otherwise disposed of; and
+(c) the member has given an undertaking under section 15(10), or the member and the other person or persons have given an undertaking under section 15(10) or (10A), as the case may be, to refund to the Board an amount equal to the member’s retirement sum or part thereof which is required to be set aside in the event the immovable property is sold or otherwise disposed of; and
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (d) an order of court is made requiring the transfer or sale of the member’s estate or interest in the immovable property to any person,
 
-the Board shall be entitled to enforce that undertaking against every person who has given that undertaking, in so far as it secures the refund to the Board of the member’s minimum sum or part thereof which is required to be set aside, until —
+the Board shall be entitled to enforce that undertaking against every person who has given that undertaking, in so far as it secures the refund to the Board of the member’s retirement sum or part thereof which is required to be set aside, until —
 
-(i) the member’s minimum sum or part thereof which is required to set aside —
+(i) the member’s retirement sum or part thereof which is required to be set aside —
 
 (A) has been refunded to the Board; or
 
 (B) is no longer required by any regulations made under section 77(1) to be refunded to the Board; or
 
+[Act 26 of 2016 wef 01/01/2017]
+
 (ii) the Board is satisfied of the occurrence of any event prescribed in any regulations made under section 77(1) for the purposes of this paragraph,
 
 in which event the Board shall not enforce that undertaking.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [40/2007; 20/2011; 23/2012]
 
@@ -3616,7 +3820,9 @@ in which event the Board shall not enforce that undertaking.
 
 27DA\.—(1) Where —
 
-(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(11), (11A), (11B) or (11C);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount, or has surrendered his approved annuity, under section 15(11), (11A), (11B) or (11C);
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (b) a charge has been constituted under section 15(11D) or (11E) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the amount withdrawn by the member;
 
@@ -3626,9 +3832,13 @@ in which event the Board shall not enforce that undertaking.
 
 then, subject to any regulations made under section 77(1), the following provisions shall apply:
 
-(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the member’s minimum sum, that person shall pay to the Board that amount;
+(i) if the order of court requires any person to pay to the Board any amount towards covering the deficiency in the member’s retirement sum, that person shall pay to the Board that amount;
 
-(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s minimum sum, unless the amount paid under paragraph (i), if any, is sufficient to cover that deficiency;
+[Act 26 of 2016 wef 01/01/2017]
+
+(ii) the member shall pay to the Board a further amount sufficient to cover the deficiency in the member’s retirement sum, unless the amount paid under paragraph (i), if any, is sufficient to cover that deficiency;
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (iii) if the immovable property is subsequently sold or otherwise disposed of, the spouse shall pay to the Fund such amount as may be determined by the Board in accordance with any regulations made under section 77(1), and the Board shall credit that amount to one or more designated accounts maintained, or to be maintained, for the spouse;
 
@@ -3660,7 +3870,9 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (2) Except in a case to which subsection (1) applies, where —
 
-(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(b) or part thereof from his account with an approved bank or his retirement account, or has surrendered his approved annuity, under section 15(11), (11A), (11B) or (11C);
+(a) a member of the Fund has withdrawn the amount referred to in section 15(6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount, or has surrendered his approved annuity, under section 15(11), (11A), (11B) or (11C);
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (b) a charge has been constituted under section 15(11D) or (11E) on an immovable property wholly owned by the member or jointly owned by the member and one or more other persons, as the case may be, to secure the payment to the Board of the amount withdrawn by the member; and
 
@@ -3694,7 +3906,9 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (i) the member or, if the order of court requires any person to do so, that person shall pay to the Fund to the credit of the member —
 
-(A) any amount which the Board is entitled to recover on behalf of the Government under section 14(3);
+(A) any amount which the Board is entitled to recover on behalf of the Government under section 14(3) or (3A);
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (B) any amount which the Board is entitled to receive or recover on behalf of the Government under section 14A(5) or (6); and
 
@@ -3766,7 +3980,9 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 (i) the member or, if the order of court requires any person to do so, that person shall pay to the Fund to the credit of the member —
 
-(A) any amount which the Board is entitled to recover on behalf of the Government under section 14(3);
+(A) any amount which the Board is entitled to recover on behalf of the Government under section 14(3) or (3A);
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (B) any amount which the Board is entitled to receive or recover on behalf of the Government under section 14A(5) or (6); and
 
@@ -3878,7 +4094,7 @@ then, subject to any regulations made under section 77(1), the following provisi
 
 ### Miscellaneous matters
 
-27I\.—(1) Any obligation of a member of the Fund to set aside any amount under section 15 or 16, or under any condition referred to in section 27(2)(b) or (3), shall not be affected by —
+27I\.—(1) Any obligation of a member of the Fund to set aside any amount under section 15, or under any condition referred to in section 27(2)(b) or (3), shall not be affected by —
 
 (a) any transfer or payment of any money standing to the credit of the member under section 27B(1), (2) or (3);
 
@@ -3889,6 +4105,8 @@ then, subject to any regulations made under section 77(1), the following provisi
 (d) any transfer of the member’s interest in any investment under section 27G; or
 
 (e) any sale of the member’s interest in any investment under section 27H.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 [40/2007; 23/2012]
 
@@ -4998,6 +5216,8 @@ MEDISHIELD SCHEME
 
 [Act 4 of 2015 wef 01/11/2015]
 
+53\. [Repealed by Act 4 of 2015 wef 01/11/2015]
+
 53A\. [Repealed by Act 4 of 2015 wef 01/11/2015]
 
 54\. [Repealed by Act 4 of 2015 wef 01/11/2015]
@@ -5204,6 +5424,22 @@ the court before which the conviction is had may, in addition to the penalty pre
 
 [57/2007]
 
+### Withdrawal from Fund where relevant contribution credited into account of eligible member in certain circumstances
+
+57DA\.—(1) Despite sections 14(2), 15(2), (2A), (6), (6C), (7), (7B) and (8A) and 27, where the Board has credited a relevant contribution into an eligible member’s account in the Fund (called in this section the contribution amount), the Board may, on the member’s application, permit the member to withdraw an amount determined by the Board —
+
+(a) from one or more accounts in the Fund as the Board may determine;
+
+(b) in circumstances prescribed by regulations made under section 57F; and
+
+(c) if the member satisfies such requirements as the Board may specify.
+
+(2) An application under subsection (1) must be made within such time as may be prescribed by regulations made under section 57F.
+
+(3) The amount that the Board may permit a member to withdraw under subsection (1) must not exceed the contribution amount.
+
+[Act 6 of 2016 wef 01/01/2017]
+
 ### Certificate of Board on amount of cash payment, etc.
 
 57E\. In any proceedings before any court, tribunal, authority or person (including any proceedings for the recovery of any cash payment, or any relevant contribution or interest thereon), a certificate purporting to be issued by the Board certifying —
@@ -5240,7 +5476,19 @@ shall be prima facie evidence that the amount so stated was received by the memb
 
 (ii) any cash payment or relevant contribution which the member may be entitled to receive subsequently;
 
-(f) any restriction on the purposes for which any cash payment or relevant contribution may be utilised;
+(f) any restriction on the purposes for which any cash payment, relevant contribution or amount withdrawn under section 57DA;
+
+[Act 6 of 2016 wef 01/01/2017]
+
+(fa) the whole or any part of the interest paid on the amount withdrawn from the member’s account under section 57DA to be dealt with in all or any of the following manner:
+
+(i) retained in that account;
+
+(ii) withdrawn from that account and paid to the member;
+
+(iii) transferred to the general moneys of the Fund;
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (g) the consequences of contravening any provision of those regulations; and
 
@@ -5548,6 +5796,10 @@ ADMINISTRATIVE PENALTIES
 
 67C\.—(1) The Board may impose a financial penalty on an approved applicant for engaging in conduct that contravenes, on or after the date of commencement of section 41 of the Central Provident Fund (Amendment) Act 2016, any regulations made under section 77(1)(rb)(i) and is not an offence.
 
+(1A) Conduct that contravenes any regulations made under section 77(1)(rb)(i) does not constitute an offence under section 58(d).
+
+[Act 26 of 2016 wef 01/01/2017]
+
 (2) A financial penalty must not exceed the maximum amount to be prescribed, which in no case may be more than $10,000.
 
 (3) Any financial penalty imposed under subsection (1) and any interest for late payment prescribed under section 77(1)(rb) —
@@ -5616,7 +5868,7 @@ MISCELLANEOUS
 
 68\.—(1) Where —
 
-(a) a writ of seizure and sale has been issued in execution of a judgment against an employer or a member and any movable or immovable property or other assets belonging to the employer or member has been seized or sold or otherwise realised in pursuance of the execution; and
+(a) a writ of seizure and sale` has been issued in execution of a judgment against an employer or a member and any movable or immovable property or other assets belonging to the employer or member has been seized or sold or otherwise realised in pursuance of the execution; and
 
 (b) prior to the payment of the proceeds of the sale or other realisation to an execution creditor, notice has been given to the Sheriff or other officer charged with the execution of the writ by the Board that any sum is due to the Fund,
 
@@ -6040,6 +6292,10 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (g) to provide that the Board may, with the approval of the Minister, appoint any agent (including the Government or any statutory body) for the assessment, collection or recovery of contributions payable under this Act and any interest thereon and that such agent may be delegated such duties, powers and functions of the Board or its officers under this Act as may be prescribed;
 
+(ga) for the purposes of section 14, including, in particular, specifying the prescribed period mentioned in section 14(3A)(b) and different periods for different types of cash grants or payments;
+
+[Act 26 of 2016 wef 01/01/2017]
+
 (h) to provide for a member of the Fund to apply, assign or withdraw all or part of the moneys standing to his credit in the Fund, and for the repayment into the member’s account in the Fund of all or part of the moneys applied, assigned or withdrawn —
 
 (i) for the purchase or acquisition of any immovable property;
@@ -6048,7 +6304,13 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (iii) for the payment of —
 
-(A) any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A); and
+(A) any improvement contribution due to the Housing and Development Board in respect of upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129), or any improvement contribution due to a Town Council in respect of lift upgrading works carried out under Part IVA of the Town Councils Act (Cap. 329A);
+
+[Act 6 of 2016 wef 01/01/2017]
+
+(AA) any interest imposed by the Housing and Development Board or the Town Council, as the case may be, on the improvement contribution referred to in sub-paragraph (A), where the improvement contribution is paid in instalments; and
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (B) any costs, fees or other incidental expenses arising from such works; and
 
@@ -6098,11 +6360,25 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (na) without prejudice to the generality of paragraph (n), for the purposes of sections 26 to 26D;
 
-(o) for the purposes of sections 15(6)(a), (6C), (6CA), (6CB), (7), (9), (9A), (10), (10A) and (11) to (11F), 18(1) and (1A) and 18A(1) and (1A) and, in particular, to —
+(o) for the purposes of sections 15(6)(a), (6C), (6CA), (6CB), (7), (8D), (9), (9A), (10), (10A) and (11) to (11F), 18(1) and (1A) and 18A(1) and (1A) and, in particular, to —
 
-(i) prescribe the minimum sum referred to in section 15(6)(a), including different minimum sums for different classes of members;
+(i) prescribe the retirement sum referred to in section 15(6)(a), including different retirement sums for different classes of members;
 
-(ii) prescribe the method of computing the minimum sum, and provide for certain amounts standing to the credit of a member in his retirement account to be disregarded when determining whether the member has set aside the minimum sum;
+[Act 26 of 2016 wef 01/01/2017]
+
+(ii) prescribe the method of computing the retirement sum, and provide for certain amounts standing to the credit of a member in his retirement account to be disregarded when determining whether the member has set aside the retirement sum;
+
+[Act 26 of 2016 wef 01/01/2017]
+
+(iia) prescribe the circumstances in which any amount standing to the credit of a member in the member’s retirement account is permitted to be used, transferred or withdrawn under section 15(6C)(d), and provide —
+
+(A) for all or any part of the amount so used, transferred or withdrawn (including the whole or such part, as the Board may determine, of the interest that would have been payable on the amount if the amount had not been so used, transferred or withdrawn) to be paid into any account of the member in the Fund;
+
+(B) the circumstances in which the payment is to be made; and
+
+(C) the person who will make the payment;
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (iii) prescribe the amount which may be withdrawn under section 15(7), and provide for the manner in which that amount may be withdrawn, after a member has attained the prescribed age;
 
@@ -6114,13 +6390,27 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 [Act 6 of 2016 wef 01/05/2016]
 
-(vi) provide for the payment into a member’s retirement account of all or any part of the moneys deposited with an approved bank (including any interest on such moneys deposited) or used to purchase an approved annuity in accordance with section 15, the circumstances in which such payment is to be made and the person who will make such payment; and
+(vi) provide for the payment into a member’s retirement account of all or any part of the moneys deposited with an approved bank (including any interest on such moneys deposited) or used to purchase an approved annuity in accordance with section 15, the circumstances in which such payment is to be made and the person who will make such payment;
 
 [Act 6 of 2016 wef 01/05/2016]
 
-(vii) in the case of a member who need not comply with section 15(6)(a) by reason of section 15(8)(e), provide for payment into the member’s retirement account of all or any part of the moneys deposited with an approved bank (including any interest on such moneys deposited) or of such sums when the member’s pension, annuity or other benefit is terminated or surrendered, the circumstances in which such payment is to be made and the person who will make such payment;
+[Act 6 of 2016 wef 01/01/2017]
+
+(vii) in the case of a member who need not comply with section 15(6)(a) by reason of section 15(8)(e), provide for payment into the member’s retirement account of all or any part of the moneys deposited with an approved bank (including any interest on such moneys deposited) or of such sums when the member’s pension, annuity or other benefit is terminated or surrendered, the circumstances in which such payment is to be made and the person who will make such payment; and
 
 [Act 6 of 2016 wef 01/05/2016]
+
+[Act 6 of 2016 wef 01/01/2017]
+
+(viii) prescribe the types of transfer or payment that are made into a member’s account in the Fund for which a member may be permitted to withdraw an amount under section 15(8D), and provide for the whole or any part of the interest paid on the amount so withdrawn from the member’s account to be dealt with in all or any of the following manner:
+
+(A) retained in that account;
+
+(B) withdrawn from that account and paid to the member;
+
+(C) transferred to the general moneys of the Fund;
+
+[Act 6 of 2016 wef 01/01/2017]
 
 (oa) for the purposes of section 18(3), (6)(b) and (7) and, in particular, to prescribe —
 
@@ -7608,7 +7898,7 @@ is equal to an amount computed in either of the following ways, at the option of
 
 (11) SkillsFuture Singapore Agency.
 
-[Act 24 of 2016 wef 03/10/2016]
+[Act 26 of 2016 wef 03/10/2016]
 
 (11A) Council for Estate Agencies.
 
@@ -8791,7 +9081,7 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|11 July 2016 (Bill No. 22/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 October 2016|
-|205.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+|205.|**Act 26 of 2016—SkillsFuture Singapore Agency Act 2016**|
 ||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|3 October 2016|
@@ -8809,6 +9099,15 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|26 January 2016 (Bill No. 4/2016 published on 26 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|31 December 2016|
+|210.|**Act 26 of 2016—Central Provident Fund (Amendment No. 2) Act 2016**|
+||Date of First Reading|13 September 2016|
+|||(Bill No. 26/2016)|
+||Date of Second and Third Readings|10 October 2016|
+||Date of commencement|1 January 2017|
+|211.|**Act 6 of 2016—Central Provident Fund (Amendment) Act 2016**|
+||Date of First Reading|26 January 2016 (Bill No. 4/2016 published on 26 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|1 January 2017|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
