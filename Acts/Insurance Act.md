@@ -1000,8 +1000,6 @@ but does not include an advertisement issued outside Singapore that is made avai
 
 7\.—(1) Whenever the Authority has reason to believe that a person has contravened any of the provisions of this Act, it may call for or inspect the books, accounts and records of that person in order to ascertain whether or not that person has contravened or is contravening any of the provisions of this Act.
 
-[22/73; 11/86; 30/99]
-
 (2) Any person who wilfully refuses to submit such books, accounts and records or to allow the inspection thereof shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction; or
@@ -1009,6 +1007,8 @@ but does not include an advertisement issued outside Singapore that is made avai
 (b) in any other case, to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 [Act 11 of 2013 wef 18/04/2013]
+
+[22/73; 11/86; 30/99]
 
 Division 2 — Licensed insurers
 
@@ -5978,7 +5978,7 @@ NOMINATION OF BENEFICIARIES
 
 “Central Provident Fund Board” means the Central Provident Fund Board constituted under section 3 of the Central Provident Fund Act;
 
-“minimum sum” has the same meaning as in section 2(1) of the Central Provident Fund Act;
+[Deleted by Act 26 of 2016 wef 01/01/2017]
 
 “relevant policy” means any life policy or accident and health policy, whether issued before, on or after the date of commencement of section 2 of the Insurance (Amendment) Act 2009, which —
 
@@ -5996,7 +5996,13 @@ NOMINATION OF BENEFICIARIES
 
 (e) is not the subject of any trust created under section 73 of the Conveyancing and Law of Property Act (Cap. 61); and
 
-(f) is not an annuity purchased with the minimum sum under section 15(6C) of the Central Provident Fund Act;
+(f) is not an annuity purchased with the retirement sum under section 15(6C) of the Central Provident Fund Act;
+
+[Act 26 of 2016 wef 01/01/2017]
+
+“retirement sum” has the same meaning as in section 2(1) of the Central Provident Fund Act;
+
+[Act 26 of 2016 wef 01/01/2017]
 
 “will” has the same meaning as in the Wills Act (Cap. 352).
 
@@ -7401,6 +7407,10 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|36.|**Act 26 of 2016—Central Provident Fund (Amendment No. 2) Act 2016**|
+||Date of First Reading|13 September 2016 (Bill No. 26/2016 published on 13 September 2016)|
+||Date of Second and Third Readings|10 October 2016|
+||Date of commencement|1 January 2017|
 ## COMPARATIVE TABLE
 
 Insurance Act
