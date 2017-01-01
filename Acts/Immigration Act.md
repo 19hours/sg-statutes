@@ -2409,13 +2409,19 @@ Sections 2 and 61A
 
 Personal Identifiers
 
-1\. Fingerprints or handprints of a person (including those taken using paper and ink or digital live scanning technologies).
+1. A person’s fingerprint or handprint (taken using paper and ink, digital scanning technologies or otherwise).
+
+[S 703/2016 wef 01/01/2017]
 
 2\. A photograph or other image of a person’s face and shoulders.
 
 3. A person’s signature.
 
 [33/2007]
+
+4. An image of a person’s iris (taken using iris scanning technologies).
+
+[S 703/2016 wef 01/01/2017]
 
 ## LEGISLATIVE HISTORY
 
@@ -2562,3 +2568,5 @@ This Legislative History is provided for the convenience of users of the Immigra
 ||Date of First Reading|26 January 2016 (Bill No. 6/2016 published on 26 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 October 2016|
+|33.|**G.N. No. S 703/2016—Immigration Act (Amendment of Schedule) Order 2016**|
+||Date of commencement|1 January 2017|
