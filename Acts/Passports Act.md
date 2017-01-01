@@ -1558,11 +1558,17 @@ Section 3
 
 Personal identifiers
 
-1\. Fingerprints or handprints of a person (including those taken using paper and ink or digital livescanning technologies).
+1. A person’s fingerprint or handprint (taken using paper and ink, digital scanning technologies or otherwise).
+
+[S 705/2016 wef 01/01/2017]
 
 2\. A photograph or other image of a person’s face and shoulders.
 
 3\. A person’s signature.
+
+4. An image of a person’s iris (taken using iris scanning technologies).
+
+[S 705/2016 wef 01/01/2017]
 
 ## LEGISLATIVE HISTORY
 
@@ -1607,6 +1613,8 @@ The Passports Act 2007 repealed the Passports Act (Chapter 220, 1985 Revised Edi
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|8.|**G.N. No. S 705/2016—Passports Act (Amendment of Schedule) Order 2016**|
+||Date of commencement|1 January 2017|
 ## COMPARATIVE TABLE
 
 Passports Act
