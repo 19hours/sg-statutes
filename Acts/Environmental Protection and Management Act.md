@@ -2930,7 +2930,7 @@ Sodium perchlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Styrene monomer —Deleted by S 78/2005, wef 16/02/2005.
 
-Sulphur in diesel intended for use in Singapore as fuel for motor vehicles or industrial plants
+Sulphur in diesel intended for use in Singapore as fuel for industrial plants
 
 Sulphur in diesel in which the sulphur content is 0.001% or less by weight.
 
@@ -2971,6 +2971,8 @@ Tungsten hexafluoride
 Vinyl bromide —Deleted by S 78/2005, wef 16/02/2005.
 
 Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
+
+[S 378/2016 wef 01/01/2017]
 
 [S 688/2014 wef 01/11/2014]
 
@@ -3272,6 +3274,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of First Reading|28 January 2016 (Bill No. 7/2016 published on 28 January 2016)|
 ||Date of Second and Third Readings|1 March 2016|
 ||Date of commencement|1 May 2016|
+|23.|**G.N. No. S 378/2016—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 2) Order 2016**|
+||Date of commencement|1 January 2017|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
