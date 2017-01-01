@@ -24,11 +24,15 @@
 
 - [9 Occupier and relatives to register live births](#Occupier-and-relatives-to-register-live-births)
 
+- [9A Name of child](#Name-of-child)
+
 - [10 Surname of child](#Surname-of-child)
 
 - [11 Registration of name of child or of alteration of name](#Registration-of-name-of-child-or-of-alteration-of-name)
 
 - [12 Special provision for registration of name within 7 years from registration of birth](#Special-provision-for-registration-of-name-within-7-years-from-registration-of-birth)
+
+- [12A Registrar‑General may refuse entry or alteration of name in register of births](#Registrar‑General-may-refuse-entry-or-alteration-of-name-in-register-of-births)
 
 - [13 Penalties for failure to register name](#Penalties-for-failure-to-register-name)
 
@@ -154,6 +158,20 @@ words referring to burial of bodies shall be held to include burning of bodies.
 
 9\. In the case of every child born alive, the father and mother of the child, and the occupier of the house in which to his knowledge the child is born, and each person present at the birth and the person having charge of the child and, if the birth occurs in a ship or vessel, the master or other person having charge of the ship or vessel shall, within 14 days after the birth has taken place, furnish to any deputy registrar of the local registration area within which the birth has occurred, the particulars of the same in the prescribed form, and shall certify to the correctness of such information by signing his name in the prescribed place on the form.
 
+### Name of child
+
+9A\.—(1) The name of a child to be entered in a register of births in respect of the registration of the child’s birth and, where the child’s name in the register is to be altered, the child’s altered name to be entered in the register —
+
+(a) must be in a form expressed in characters in the modern English alphabet;
+
+(b) may include a permitted character; and
+
+(c) must not exceed the number of characters permitted in the electronic form of the register for the entry of a name.
+
+(2) In subsection (1)(b), “permitted character” means a character that the Registrar‑General, by notification in theGazette, specifies.
+
+[Act 32 of 2016 wef 01/01/2017]
+
 ### Surname of child
 
 10\.—(1) Any surname of a child to be entered in respect of the registration of the birth of the child shall be that of the father of the child; but where the child is illegitimate and the father is not an informant of the birth, the surname, if any, shall be that of the mother of the child.
@@ -209,6 +227,20 @@ and upon payment to him by the person procuring the name mentioned in the certif
 12\.—(1) Notwithstanding section 11 the Registrar-General may in his discretion, on application being made to him in the prescribed form and on payment of the prescribed fee, enter or cause to be entered in the register in which the birth was registered the name of any child the birth of which was registered without a name not more than 7 years before the date of the application.
 
 (2) Any person who is aggrieved by any decision of the Registrar-General under subsection (1) may appeal therefrom to the Minister whose decision shall be final and conclusive.
+
+### Registrar‑General may refuse entry or alteration of name in register of births
+
+12A\. The Registrar‑General may refuse the entry or alteration of a child’s name in a register of births under this Act if the name (including the altered name) —
+
+(a) contains anything that represents or resembles a title, a rank or an award;
+
+(b) where the name adopts a patronymic or matronymic naming system to signify lineage, includes any expression or abbreviation (for the purpose of that naming system) that does not correspond to the child’s gender entered or to be entered in the register;
+
+(c) is obscene or offensive; or
+
+(d) is contrary to the public interest.
+
+[Act 32 of 2016 wef 01/01/2017]
 
 ### Penalties for failure to register name
 
@@ -490,3 +522,7 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of First Reading|8 July 2013 (Bill No. 12/2013 published on 8 July 2013)|
 ||Date of Second and Third Readings|12 August 2013|
 ||Date of commencement|1 October 2014|
+|21.|**Act 32 of 2016—National Registration (Amendment) Act 2016**|
+||Date of First Reading|10 October 2016 (Bill No. 32/2016 published on 10 October 2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|1 January 2017|
