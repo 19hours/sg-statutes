@@ -264,7 +264,7 @@ PRELIMINARY
 
 (h) any civil proceedings under section 10 of the Maintenance of Parents Act (Cap. 167B);
 
-(i) any civil proceedings under the Maintenance Orders (Facilities for Enforcement) Act (Cap. 168);
+(i) [Deleted by Act 16 of 2016 wef 01/01/2017]
 
 (j) any civil proceedings under the Maintenance Orders (Reciprocal Enforcement) Act (Cap. 169);
 
