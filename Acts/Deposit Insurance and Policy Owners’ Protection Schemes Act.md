@@ -306,7 +306,11 @@ as specified under the terms of the insured policy;
 
 “CPFIS” means the Central Provident Fund Investment Scheme introduced by the Central Provident Fund Board under the Central Provident Fund (Investment Schemes) Regulations (Cap. 36, Rg 9);
 
-“CPFMS” means the Central Provident Fund Minimum Sum Scheme introduced by the Central Provident Fund Board under the Central Provident Fund (Minimum Sum Scheme) Regulations (Cap. 36, Rg 16);
+[Deleted by Act 26 of 2016 wef 01/01/2017]
+
+“CPFRS” means any Retirement Sum Scheme established under any regulations made under section 77(1) of the Central Provident Fund Act (Cap. 36);
+
+[Act 26 of 2016 wef 01/01/2017]
 
 “deposit” means a sum of money paid on terms —
 
@@ -524,7 +528,9 @@ as specified under the terms of the insured policy;
 
 (c) the amount, not exceeding the Maximum DI Coverage, of insured deposits held by that insured depositor in every client account opened with the DI Scheme member;
 
-(d) any moneys denominated in Singapore dollars placed by that insured depositor with the DI Scheme member under the CPFIS and CPFMS, not exceeding the Maximum DI Coverage; and
+(d) any moneys denominated in Singapore dollars placed by that insured depositor with the DI Scheme member under the CPFIS and CPFRS, not exceeding the Maximum DI Coverage; and
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (e) the amount, not exceeding the Maximum DI Coverage, of one or more prescribed products held by that insured depositor and placed with the DI Scheme member, which the Minister has, by order published in theGazette, determined that it or they shall not be aggregated with any of the insured deposits under paragraphs (a), (b), (c) and (d) and shall be subject to separate coverage under the DI Scheme of an amount not exceeding the Maximum DI Coverage, whether on its own or in aggregation with other prescribed products.
 
@@ -892,7 +898,7 @@ the Authority may determine that compensation shall be paid out of the DI Fund t
 
 ### Entitlement to compensation
 
-22\.—(1) Subject to subsection (5) and section 23, where an insured depositor has one or more insured deposits placed with a failed DI Scheme member (other than any moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFMS), which —
+22\.—(1) Subject to subsection (5) and section 23, where an insured depositor has one or more insured deposits placed with a failed DI Scheme member (other than any moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFRS), which —
 
 (a) the insured depositor holds in his own right;
 
@@ -904,11 +910,17 @@ the Authority may determine that compensation shall be paid out of the DI Fund t
 
 the insured depositor shall be entitled to compensation from the DI Fund computed on the basis of the aggregate amount, as at the quantification date, of such insured deposits falling within paragraphs (a), (b), (c) and (d), and such compensation shall not exceed the aggregate amount of such insured deposits or the Maximum DI Coverage, whichever is the lower.
 
-(2) Where any insured depositor has one or more insured deposits placed with a failed DI Scheme member (other than moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFMS) which the insured depositor holds in an account as trustee under a trust or holds in a client account, the insured depositor shall be entitled, in respect of every such account, to compensation from the DI Fund, not exceeding the amount of such insured deposits in that account or the Maximum DI Coverage, whichever is the lower.
+[Act 26 of 2016 wef 01/01/2017]
+
+(2) Where any insured depositor has one or more insured deposits placed with a failed DI Scheme member (other than moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFRS) which the insured depositor holds in an account as trustee under a trust or holds in a client account, the insured depositor shall be entitled, in respect of every such account, to compensation from the DI Fund, not exceeding the amount of such insured deposits in that account or the Maximum DI Coverage, whichever is the lower.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (3) For the purposes of subsection (2), where there are 2 or more insured depositors holding any insured deposit in an account under a trust or in a client account jointly, the compensation referred to in subsection (2) shall be divided equally among those insured depositors and paid accordingly.
 
-(4) Where any insured deposit of any insured depositor placed with a failed DI Scheme member consists of moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS or CPFMS, such moneys shall not be aggregated with his other insured deposits placed with that failed DI Scheme member for the purposes of determining the amount of compensation that the insured depositor is entitled to, and the insured depositor shall be entitled, in respect of moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFMS, to compensation from the DI Fund, not exceeding the amount of such moneys placed with the failed DI Scheme member or the Maximum DI Coverage, whichever is the lower.
+(4) Where any insured deposit of any insured depositor placed with a failed DI Scheme member consists of moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS or CPFRS, such moneys shall not be aggregated with his other insured deposits placed with that failed DI Scheme member for the purposes of determining the amount of compensation that the insured depositor is entitled to, and the insured depositor shall be entitled, in respect of moneys denominated in Singapore dollars placed with the failed DI Scheme member under the CPFIS and CPFRS, to compensation from the DI Fund, not exceeding the amount of such moneys placed with the failed DI Scheme member or the Maximum DI Coverage, whichever is the lower.
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (5) Where an insured depositor has one or more prescribed products placed with a failed DI Scheme member, which the Minister has, by order published in theGazette, determined to be subject to separate coverage under the DI Scheme (referred to in this section as the first-mentioned prescribed products), whether on their own or in aggregation with other prescribed products (referred to in this section as the other prescribed products) —
 
@@ -2290,7 +2302,9 @@ In this Act —
 
 including any accrued interest that has been credited to the relevant accounts for each of the deposits specified in sub-paragraphs (i), (ii) and (iii), regardless of whether such a deposit is pledged, charged or secured as collateral or whether such a deposit or part thereof is set aside in respect of any debt owing to the DI Scheme member and cannot be withdrawn until and unless the debt is repaid;
 
-(b) any moneys denominated in Singapore dollars placed with any DI Scheme member under the CPFIS, CPFMS or the Supplementary Retirement Scheme; and
+(b) any moneys denominated in Singapore dollars placed with any DI Scheme member under the CPFIS, CPFRS or the Supplementary Retirement Scheme; and
+
+[Act 26 of 2016 wef 01/01/2017]
 
 (c) such product as may be prescribed by the Authority,
 
@@ -2698,6 +2712,10 @@ The Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 repealed 
 ||Date of First Reading|7 October 2014 (Bill No. 34/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|31 December 2014|
+|8.|**Act 26 of 2016—Central Provident Fund (Amendment No. 2) Act 2016**|
+||Date of First Reading|13 September 2016 (Bill No. 26/2016 published on 13 September 2016)|
+||Date of Second and Third Readings|10 October 2016|
+||Date of commencement|1 January 2017|
 ## COMPARATIVE TABLE
 
 Deposit Insurance and Policy Owners’ Protection Schemes Act
