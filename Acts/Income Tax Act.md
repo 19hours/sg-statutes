@@ -17298,7 +17298,9 @@ Provided that a deduction under this paragraph in respect of that parent or gran
 
 Deduction for voluntary contribution to medisave account
 
-(q) has made a voluntary contribution to the Central Provident Fund up to the amount allowable under the Central Provident Fund Act and has directed an amount of such contribution that, together with the balance in the individual’s medisave account maintained under the Central Provident Fund Act, is within the basic healthcare sum prevailing at the time when the contribution was made, to be paid to the individual’s medisave account (referred to in this paragraph as relevant contribution), there shall be allowed a deduction of the amount equal to
+(q) has made a voluntary contribution to the Central Provident Fund up to the amount allowable under the Central Provident Fund Act and has directed an amount of such contribution that, together with the balance in the individual’s medisave account maintained under the Central Provident Fund Act, is within the basic healthcare sum applicable to the individual at the time when the contribution was made, to be paid to the individual’s medisave account (referred to in this paragraph as relevant contribution), there shall be allowed a deduction of the amount equal to
+
+[Act 39 of 2017 wef 01/01/2017]
 
 where A
 
@@ -19635,6 +19637,76 @@ must not in total exceed 15 years.
 as the case may be.
 
 [Act 34 of 2016 wef 19/04/2016]
+
+### Concessionary rate of tax for international growth company
+
+43ZH\.—(1) Despite section 43, the Minister may by regulations provide that tax at the rate of 10% is to be levied and paid upon the income derived by an approved international growth company from carrying on all of its qualifying activities within a basis period, or a part of a basis period, that falls within its approval period, which in total exceeds the base amount referred to in subsection (6).
+
+(2) Subsection (1) does not apply to income from any of the activities mentioned in that subsection that is carried on on a date that falls outside of that activity’s concessionary period.
+
+(3) The Minister or such person as the Minister may appoint may, at any time between 1 April 2015 and 31 March 2020 (both dates inclusive), approve a company as an international growth company for a period not exceeding 5 years; and the approval may be given subject to such conditions as the Minister or appointed person may impose.
+
+(4) When granting the approval, the Minister or appointed person must specify for the international growth company —
+
+(a) the date of its approval and its approval period;
+
+(b) one or more qualifying activities; and
+
+(c) a concessionary period for each of those activities.
+
+(5) The Minister or appointed person may at any time during the period the international growth company remains approved specify for it —
+
+(a) one or more additional qualifying activities; and
+
+(b) a concessionary period for each of those activities.
+
+(6) The base amount referred to in subsection (1) is ascertained in accordance with the following provisions:
+
+(a) where the approved international growth company had, at any time during the period of 3 years immediately before the date of its approval, carried on one or more of the qualifying activities specified for it under subsection (4), the base amount is ascertained by the formula:
+
+where A
+
+is the total net profit before tax as shown in its audited accounts (or such other accounts as the Minister or appointed person may approve for the company) that is derived from carrying on the qualifying activity or activities during that period; and
+
+B
+
+is the actual number of months (a period of less than a month being reckoned as one month) during that period in which the qualifying activity or activities was or were carried out;
+
+(b) where the approved international growth company had not carried on any of those qualifying activities during the period of 3 years immediately before the date of its approval, the base amount is zero;
+
+(c) the Minister or appointed person may specify an amount in substitution for the amount referred to in paragraph (a) or (b).
+
+(7) The base amount determined in accordance with subsection (6) applies for the entire duration of the company’s approval period, unless the Minister or appointed person decides otherwise.
+
+(8) In determining the income of an approved international growth company from carrying on its qualifying activities —
+
+(a) the allowances under section 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 or 23 must be taken into account even though no claim for such allowances has been made; and
+
+(b) the Comptroller must determine the manner and extent to which —
+
+(i) allowances under section 16, 17, 18, 18B, 18C, 19, 19A, 20, 21, 22 or 23 and any expenses and donations allowable under this Act are to be deducted; and
+
+(ii) any loss may be deducted under section 37.
+
+(9) In this section —
+
+“approval period”, in relation to an approved international growth company, means the period of its approval as such a company under subsection (3);
+
+“concessionary period”, in relation to a qualifying activity of an approved international growth company, means the concessionary period specified for that activity under subsection (4) or (5);
+
+“international growth company” means a company incorporated and resident in Singapore which carries on, or which intends to carry on, a trade or business which involves —
+
+(a) the export of goods to a country outside Singapore;
+
+(b) the performance of services in a country outside Singapore; or
+
+(c) the performance of services for a person or permanent establishment outside Singapore,
+
+whether or not it also carries on or intends to carry on any other trade or business;
+
+“qualifying activity”, in relation to an approved international growth company, means an activity specified for the company under subsection (4) or (5), being one of the activities prescribed for the purposes of this section in regulations made under this section.
+
+[Act 2 of 2016 wef 01/04/2015]
 
 ## PART XII
 
@@ -25364,13 +25436,10 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
-|191.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017|
-|||(Bill No. 36/2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|1 April 2014|
-|||1 April 2015|
-|||1 April 2016|
+|191.|**Act 11 of 2016—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2016**|
+||Date of First Reading|29 February 2016 (Bill No. 9/2016 published on 29 February 2016)|
+||Date of Second and Third Readings|14 March 2016|
+||Date of commencement|19 April 2016|
 |192.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 3/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
@@ -25384,22 +25453,19 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 July 2015|
 |||1 January 2016|
 |||11 April 2016|
-|193.|**Act 11 of 2016—Economic Expansion Incentives (Relief from Income Tax) (Amendment) Act 2016**|
-||Date of First Reading|29 February 2016 (Bill No. 9/2016 published on 29 February 2016)|
-||Date of Second and Third Readings|14 March 2016|
-||Date of commencement|19 April 2016|
-|194.|**G. N. No. S 303/2016—Income Tax Act (Amendment of Seventh Schedule) Order 2016**|
+|||1 July 2016|
+|193.|**G. N. No. S 303/2016—Income Tax Act (Amendment of Seventh Schedule) Order 2016**|
 ||Date of commencement|1 July 2016|
-|195.|**Act 15 of 2016—Income Tax (Amendment No. 2) Act 2016**|
+|194.|**Act 15 of 2016—Income Tax (Amendment No. 2) Act 2016**|
 ||Date of First Reading|14 April 2016 (Bill No. 16/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|20 July 2016|
 |||1 August 2016|
-|196.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+|195.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
 ||Date of First Reading|11 July 2016 (Bill No. 24/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|3 October 2016|
-|197.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+|196.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
 ||Date of First Reading|10 October 2016|
 |||(Bill No. 34/2016)|
 ||Date of Second and Third Readings|10 November 2016|
@@ -25411,6 +25477,14 @@ This Legislative History is provided for the convenience of users of the Income 
 |||19 May 2016|
 |||1 July 2016|
 |||29 December 2016|
+|197.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 36/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|1 April 2014|
+|||1 April 2015|
+|||1 April 2016|
+|||1 January 2017|
 ## COMPARATIVE TABLE
 
 Income Tax Act
