@@ -88,6 +88,8 @@
 
 - [34 Financial security requirement](#Financial-security-requirement)
 
+- [34A Approved financial security provider](#Approved-financial-security-provider)
+
 - [35 Shipowner’s duty to make provision for seafarer medical and other expenses](#Shipowner’s-duty-to-make-provision-for-seafarer-medical-and-other-expenses)
 
 - [36 Shipowner’s liability for wages following sickness or injury sustained by seafarer](#Shipowner’s-liability-for-wages-following-sickness-or-injury-sustained-by-seafarer)
@@ -817,7 +819,17 @@ for every position to be displayed in English and the working language or langua
 
 (v) termination or interruption of employment in accordance with an industrial award or collective agreement;
 
-(vi) the seafarer is left behind in any country for any reason.
+(vi) the seafarer is left behind in any country for any reason;
+
+[Act 29 of 2016 wef 18/01/2017]
+
+(d) where, in violation of the requirements of this Act or the terms of the seafarer’s employment agreement —
+
+(i) the seafarer is left by the shipowner without the necessary maintenance and support (including adequate food, accommodation, drinking water supplies, essential fuel for survival on board the ship and necessary medical care); or
+
+(ii) where the seafarer’s ties with the shipowner have been unilaterally severed by the shipowner including where the shipowner has failed to pay the seafarer’s contractual wages for a period of at least 2 months.
+
+[Act 29 of 2016 wef 18/01/2017]
 
 (3) A shipowner shall repatriate a young seafarer who has served for 6 months, or any shorter period of time as determined under his seafarer’s employment agreement or a collective agreement, without leave on board a ship that has not returned to his country of residence during that time and will not return to his country of residence in the next 3 months.
 
@@ -975,17 +987,101 @@ MEDICAL CARE AND TREATMENT
 
 unless the requirement in subsection (2) is met.
 
-(2) The requirement referred to in subsection (1) is that there is in force a contract of insurance or other security adequate to ensure that the shipowner will be able to meet any liabilities the shipowner may have arising from repatriation of a seafarer or to provide compensation in the event of death or long term disability to seafarers arising from occupational injury, illness or hazard.
+(2) The requirement mentioned in subsection (1) is that there is in force a contract of insurance or other financial security —
 
-(3) The liabilities of the shipowner referred to in subsection (2) include liabilities arising under —
+(a) that is contracted with, or provided by, an approved financial security provider;
+
+(b) that is adequate to ensure that the shipowner will be able to meet any liabilities the shipowner may have —
+
+(i) arising from the shipowner’s obligation to repatriate a seafarer; or
+
+(ii) to provide compensation in the event of death or long‑term disability to seafarers arising from occupational injury, illness or hazard; and
+
+(c) that contains such terms and conditions, and meets such other requirements, as may be prescribed.
+
+[Act 29 of 2016 wef 18/01/2017]
+
+(3) The liabilities of the shipowner referred to in subsection (2)(b) include liabilities arising under —
 
 (a) sections 23(9), 24(1), 35, 36 and 37;
 
-(b) section 23 of the Work Injury Compensation Act (Cap. 354); and
+(b) the Work Injury Compensation Act (Cap. 354); and
+
+[Act 29 of 2016 wef 18/01/2017]
 
 (c) the seafarer’s employment agreements of seafarers working on the ship.
 
+[Act 29 of 2016 wef 18/01/2017]
+
 (4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) In this section, “approved financial security provider” means a provider of insurance or other financial security that has been approved by the Director under section 34A for the purposes of this section.
+
+[Act 29 of 2016 wef 18/01/2017]
+
+### Approved financial security provider
+
+34A\.—(1) The Director may approve, with or without terms or conditions, a person who provides insurance or other financial security services as an approved financial security provider for the purposes of section 34.
+
+(2) In determining whether or not to approve any person as an approved financial security provider, the Director —
+
+(a) must have regard to whether —
+
+(i) the person is able and willing to meet the requirements of a financial security provider under this Act; and
+
+(ii) the insurance or other financial security provided by the person will comply with the requirements of this Act; and
+
+(b) may have regard to any other matter that the Director considers relevant.
+
+(3) The Director may, by written notice to an approved financial security provider, vary any term or condition of approval.
+
+(4) The Director may revoke the approval of a person as an approved financial security provider if the Director is satisfied that —
+
+(a) the person is not able or willing, or has failed, to meet the requirements of a financial security provider under this Act;
+
+(b) the insurance or other financial security provided by the person does not comply with the requirements of this Act;
+
+(c) the person has breached any term or condition of approval; or
+
+(d) it is otherwise not suitable for the person to continue to be an approved financial security provider.
+
+(5) The Director must, before taking any action under subsection (3) or (4), give written notice to the approved financial security provider of the Director’s intention to take such action and give the approved financial security provider an opportunity to submit reasons why the terms or conditions of approval should not be varied, or why the approval should not be revoked, as the case may be.
+
+(6) A person aggrieved by any of the following decisions of the Director (called in this section the appellant) may appeal to the Minister against the decision:
+
+(a) the refusal to approve the appellant as an approved financial security provider;
+
+(b) the imposition of any term or condition upon the approval of the appellant as an approved financial security provider;
+
+(c) the variation of any term or condition of approval of the appellant as an approved financial security provider;
+
+(d) the revocation of the approval of the appellant as an approved financial security provider.
+
+(7) An appeal under this section —
+
+(a) must be in writing;
+
+(b) must specify the grounds on which it is made; and
+
+(c) must be made within 14 days after the date of receipt of the decision that is appealed against.
+
+(8) An appellant who makes an appeal to the Minister under this section must provide such information as may be required by the Minister in such manner and within such period as may be specified by the Minister.
+
+(9) The Minister may reject an appeal of an appellant who fails to comply with the requirements of subsection (7) or (8).
+
+(10) After consideration of an appeal, the Minister may —
+
+(a) reject the appeal and confirm the Director’s decision; or
+
+(b) allow the appeal and substitute or vary the Director’s decision.
+
+(11) The Minister’s decision on an appeal is final.
+
+(12) Every appellant must be notified of the Minister’s decision under subsection (10).
+
+(13) An appeal against the Director’s decision does not affect the operation of the decision appealed against until the determination of the appeal.
+
+[Act 29 of 2016 wef 18/01/2017]
 
 ### Shipowner’s duty to make provision for seafarer medical and other expenses
 
@@ -1811,9 +1907,57 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (w) provide for the implementation of safeguards and safety measures on board Singapore ships and the duties of the shipowner, master or seafarers in relation to the implementation of the safeguards and safety measures;
 
-(x) provide for the conduct of any risk assessment or safety and health arrangement on board Singapore ships and the duties of the shipowner, master or seafarers in relation to the conduct of the risk assessment or the safety and health arrangement; and
+(x) provide for the conduct of any risk assessment or safety and health arrangement on board Singapore ships and the duties of the shipowner, master or seafarers in relation to the conduct of the risk assessment or the safety and health arrangement;
 
-(y) regulate the keeping of records of any inspection conducted by a master under section 41(2).
+[Act 29 of 2016 wef 18/01/2017]
+
+(y) regulate the keeping of records of any inspection conducted by a master under section 41(2);
+
+[Act 29 of 2016 wef 18/01/2017]
+
+(z) prescribe the terms and conditions that a contract of insurance or other financial security mentioned in section 34(2) must contain, including —
+
+(i) terms and conditions relating to all or any of the following:
+
+(A) scope of coverage;
+
+(B) right of seafarers covered by the contract of insurance or other financial security to claim under the contract of insurance or other financial security;
+
+(C) submission and handling of claims;
+
+(D) interim payments;
+
+(E) minimum service standards;
+
+(ii) a condition that the liability of the provider of the insurance or other financial security under the contract of insurance or other financial security will not cease before the end of the period of validity of the contract of insurance or other financial security unless the provider has given the Director prior notice of the pending cessation of liability of such minimum length as may be prescribed; and
+
+(iii) any other term or condition necessary or desirable to ensure that the contract of insurance or other financial security meets the requirements of section 34;
+
+[Act 29 of 2016 wef 18/01/2017]
+
+(za) prescribe the terms and conditions that a contract of insurance or other financial security mentioned in section 34(2) must not contain;
+
+[Act 29 of 2016 wef 18/01/2017]
+
+(zb) provide that terms and conditions contained in a contract of insurance or financial security mentioned in section 34(2) in breach of any prescription mentioned in paragraph (za) are to be treated as having no effect;
+
+[Act 29 of 2016 wef 18/01/2017]
+
+(zc) provide for —
+
+(i) a certificate of the contract of insurance or other financial security mentioned in section 34(2) to be carried, and displayed, on board the ship to which the certificate relates; and
+
+(ii) the form of the certificate;
+
+[Act 29 of 2016 wef 18/01/2017]
+
+(zd) require a shipowner to give prior notification of the cancellation or termination of the contract of insurance or other financial security mentioned in section 34(2) to the seafarers to whom the contract of insurance or other financial security relates; and
+
+[Act 29 of 2016 wef 18/01/2017]
+
+(ze) require the person who provides insurance or other financial security under a contract of insurance or other financial security mentioned in section 34(2) to give notice to the Director if the contract of insurance or other financial security is cancelled or terminated.
+
+[Act 29 of 2016 wef 18/01/2017]
 
 (3) The Authority may, in making any regulations under this section, provide that any contravention of any of the provisions of such regulations shall be an offence punishable with a fine not exceeding $10,000.
 
@@ -2195,4 +2339,16 @@ On-board complaint procedures.
 14. 
 
 Payment of wages.
+
+15. 
+
+Financial security for repatriation.
+
+[Act 29 of 2016 wef 18/01/2017]
+
+16. 
+
+Financial security relating to shipowner’s liability.
+
+[Act 29 of 2016 wef 18/01/2017]
 
