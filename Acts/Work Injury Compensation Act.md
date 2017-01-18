@@ -850,9 +850,15 @@ the amount due in respect of any compensation or liability for compensation accr
 
 [Act 6 of 2014 wef 01/04/2014]
 
-(f) where a seaman has received payment under section 36 of the Merchant Shipping (Maritime Labour Convention) Act 2014 for loss of earnings in respect of any injury within the meaning of this Act, the amount of compensation payable to the seaman under section 14A for any temporary incapacity resulting from that injury shall be reduced by the amount so received.
+(f) where a seaman has received payment under section 36 of the Merchant Shipping (Maritime Labour Convention) Act 2014 for loss of earnings in respect of any injury within the meaning of this Act, the amount of compensation payable to the seaman under section 14A for any temporary incapacity resulting from that injury shall be reduced by the amount so received;
 
 [Act 6 of 2014 wef 01/04/2014]
+
+[Act 29 of 2016 wef 18/01/2017]
+
+(g) section 23 does not apply in respect of a seaman who is an employee in respect of whom there is in force a contract of insurance or other financial security under section 34 of the Merchant Shipping (Maritime Labour Convention) Act 2014 (Act 6 of 2014) covering the liabilities of the shipowner in respect of the seaman under that Act.
+
+[Act 29 of 2016 wef 18/01/2017]
 
 Division 5 —
 
@@ -2773,3 +2779,7 @@ This Legislative History is provided for the convenience of users of the Work In
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|18.|**Act 29 of 2016—Merchant Shipping (Maritime Labour Convention) (Amendment) Act 2016**|
+||Date of First Reading|10 October 2016 (Bill No. 29/2016 published on 10 October 2016)|
+||Date of Second and Third Readings|9 November 2016|
+||Date of commencement|18 January 2017|
