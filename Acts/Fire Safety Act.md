@@ -376,11 +376,15 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 “pipeline owner”, in relation to any section of a relevant pipeline, means —
 
-(a) a person who owns or leases the piperack or pipetrack and manages that section of the relevant pipeline; or
+(a) if the section of the relevant pipeline is entirely or partially on a piperack or pipetrack, the person who owns or leases, and has management and control, of the piperack or pipetrack; or
 
-(b) if paragraph (a) does not apply, a person who owns or leases that section of the relevant pipeline and uses that section of the relevant pipeline for the conveyance of any class of petroleum or any flammable material;
+[Act 31 of 2016 wef 01/02/2017]
+
+(b) if the entire section of the relevant pipeline is not on a piperack or pipetrack, a person who owns or leases that section of the relevant pipeline and uses that section of the relevant pipeline for the conveyance of any class of petroleum or any flammable material;
 
 [Act 14 of 2013 wef 01/09/2013]
+
+[Act 31 of 2016 wef 01/02/2017]
 
 “piperack” means a multi-tiered rack supporting one or more pipelines above the ground;
 
@@ -420,9 +424,11 @@ using engineering tools, methodologies and performance criteria as may be accept
 
 “registered inspector” means a person who is registered as a registered inspector under section 5;
 
-“relevant pipeline” means a pipeline used, or to be used, for the conveyance of any class of petroleum or any flammable material, and includes the piperack or pipetrack for the management of the pipeline but does not include such a pipeline located in licensed premises;
+“relevant pipeline” means a pipeline used, or to be used, for the conveyance of any class of petroleum or any flammable material, and includes the piperack or pipetrack, if any, for the management of the pipeline but does not include such a pipeline located in licensed premises;
 
 [Act 14 of 2013 wef 01/09/2013]
+
+[Act 31 of 2016 wef 01/02/2017]
 
 “relevant pipeline works” means the construction, alteration or repair of a relevant pipeline commenced or carried out on or after the date of commencement of section 2(o) of the Fire Safety (Amendment) Act 2013;
 
@@ -3059,6 +3065,10 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 ||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|1 June 2015|
+|16.|**Act 31 of 2016—Fire Safety (Amendment) Act 2016**|
+||Date of First Reading|10 October 2016 (Bill No. 31/2016 published on 10 October 2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|1 February 2017|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
