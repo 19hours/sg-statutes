@@ -162,6 +162,8 @@
 
 - [65 Consolidations](#Consolidations)
 
+- [65A Power of Authority in relation to alternative dispute resolution scheme](#Power-of-Authority-in-relation-to-alternative-dispute-resolution-scheme)
+
 - [66 Authority’s directions](#Authority’s-directions)
 
 - [67 Dispute resolution](#Dispute-resolution)
@@ -277,17 +279,9 @@ Date of Commencement: 1st October 2016 Parts 1 to 9, sections 87, 88, 90(2), (3)
 
 Date of Commencement: 2nd October 2016 Sections 89, 90(1) and 96(v)
 
-An Act to establish the Info‑communications Media Development Authority, to make provision for competition and consumer protection in the media industry, to repeal the Info‑communications Development Authority of Singapore Act (Chapter 137A of the 2000 Revised Edition) and the Media Development Authority of Singapore Act (Chapter 172 of the 2003 Revised Edition), and to make consequential and related amendments to certain other Acts.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
 ## PART 1
 
 PRELIMINARY
-
-### Short title and commencement
-
-1\. This Act is the Info-communications Media Development Authority Act 2016 and comes into operation on a date that the Minister appoints by notification in theGazette.
 
 ### Interpretation
 
@@ -1376,39 +1370,107 @@ is prohibited.
 
 (2) For the purposes of subsection (1), the Authority may specify in a code of practice the circumstances under which a regulated person would be considered to be merged or consolidated with, or taken over by, another regulated person or any other person.
 
+### Power of Authority in relation to alternative dispute resolution scheme
+
+65A\.—(1) The Authority may establish or approve one or more dispute resolution schemes for the resolution of disputes between subscribers and designated media licensees, arising from or relating to the provision of media services by the designated media licensees to the subscribers.
+
+(2) Every designated media licensee must participate in a dispute resolution scheme mentioned in subsection (1) and comply with such terms and conditions of participation in the scheme as may be prescribed.
+
+(3) To avoid doubt, nothing in this section affects the operation of the Consumer Protection (Fair Trading) Act (Cap. 52A).
+
+(4) The Authority may, with the approval of the Minister, make regulations under section 81 to provide for matters relating to the operations of an operator of a dispute resolution scheme mentioned in subsection (1), including —
+
+(a) the standards or requirements of the services provided under the dispute resolution scheme;
+
+(b) the fees that the operator may charge for the services provided under the dispute resolution scheme;
+
+(c) the records that the operator must keep and the period of retention of such records;
+
+(d) the reports that the operator must submit to the Authority, and the manner and time for such submission;
+
+(e) matters relating to the administration of the dispute resolution scheme; and
+
+(f) generally to give effect to or for carrying out the purposes of this section.
+
+(5) In this section, unless the context otherwise requires —
+
+“designated media licensee” means a media licensee —
+
+(a) that is designated by the Authority to be a media licensee subject to this section; or
+
+(b) that is within a class of media licensees designated by the Authority to be a class of media licensees subject to this section,
+
+and the designation must be notified in theGazette;
+
+“media licensee” means —
+
+(a) a person to whom a permit under section 21, 22 or 23 of the Newspaper and Printing Presses Act (Cap. 206) is granted;
+
+(b) a holder of a broadcasting licence granted under section 8 or 9 of the Broadcasting Act (Cap. 28); or
+
+(c) a holder of a licence granted under section 7 of the Films Act (Cap. 107);
+
+“subscriber” means an end user that subscribes to a media service from a media licensee.
+
+[Act 30 of 2016 wef 01/02/2017]
+
 ### Authority’s directions
 
-66\.—(1) The Authority may give directions to a regulated person, or the owner or controller of an essential resource, with respect to any provision of this Part or any provision of a code of practice that applies to that regulated person, owner or controller.
+66\.—(1) The Authority may give directions to a regulated person, designated media licensee, or the owner or controller of an essential resource, with respect to any provision of this Part or any provision of a code of practice that applies to that regulated person, designated media licensee, owner or controller.
 
-(2) Where the Authority is satisfied that a regulated person, or the owner or controller of an essential resource, is infringing, likely to infringe or has infringed any provision of this Part, or any provision of any code of practice, that applies to that person, owner or controller, the Authority’s directions under subsection (1) may include one or more of the following:
+[Act 30 of 2016 wef 01/02/2017]
 
-(a) requiring that person, owner or controller to comply with that provision or cease infringing that provision;
+(2) Where the Authority is satisfied that a regulated person, designated media licensee, or the owner or controller of an essential resource, is infringing, likely to infringe or has infringed any provision of this Part, or any provision of any code of practice, that applies to that person, designated media licensee, owner or controller, the Authority’s directions under subsection (1) may include one or more of the following:
 
-(b) specifying any procedure or action to be observed or taken by that person, owner or controller;
+(a) requiring that person, designated media licensee, owner or controller to comply with that provision or cease infringing that provision;
 
-(c) imposing any restriction on the activities of that person, owner or controller;
+[Act 30 of 2016 wef 01/02/2017]
 
-(d) requiring that person, owner or controller to modify or terminate any agreement, decision or concerted practice;
+(b) specifying any procedure or action to be observed or taken by that person, designated media licensee, owner or controller;
 
-(e) requiring that person, owner or controller to modify or cease any conduct.
+[Act 30 of 2016 wef 01/02/2017]
 
-(3) Where the Authority is satisfied that a regulated person, or the owner or controller of an essential resource, has infringed any provision of this Part, or any provision of a code of practice, that applies to that person, owner or controller, the Authority may, in addition to or instead of a direction described in subsection (2), require that person, owner or controller to pay a financial penalty of an amount not exceeding the higher of the following amounts:
+(c) imposing any restriction on the activities of that person, designated media licensee, owner or controller;
 
-(a) 10% of the annual turnover of that part of the business of that person, owner or controller in respect of which the infringement occurred, as ascertained from the latest audited accounts of that person, owner or controller;
+[Act 30 of 2016 wef 01/02/2017]
+
+(d) requiring that person, designated media licensee, owner or controller to modify or terminate any agreement, decision or concerted practice;
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(e) requiring that person, designated media licensee, owner or controller to modify or cease any conduct.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3) Where the Authority is satisfied that a regulated person, designated media licensee, or the owner or controller of an essential resource, has infringed any provision of this Part, or any provision of a code of practice, that applies to that person, designated media licensee, owner or controller, the Authority may, in addition to or instead of a direction described in subsection (2), require that person, designated media licensee, owner or controller to pay a financial penalty of an amount not exceeding the higher of the following amounts:
+
+(a) 10% of the annual turnover of that part of the business of that person, designated media licensee, owner or controller in respect of which the infringement occurred, as ascertained from the latest audited accounts of that person, designated media licensee, owner or controller;
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (b) $1 million.
 
-(4) Before giving a direction to, or imposing a financial penalty on, a regulated person, or the owner or controller of an essential resource, under this section, the Authority must, unless the Authority considers that it is not practicable or desirable to do so in any particular case, give notice to that person, owner or controller of —
+[Act 30 of 2016 wef 01/02/2017]
+
+(4) Before giving a direction to, or imposing a financial penalty on, a regulated person, designated media licensee, or the owner or controller of an essential resource, under this section, the Authority must, unless the Authority considers that it is not practicable or desirable to do so in any particular case, give notice to that person, designated media licensee, owner or controller of —
 
 (a) the Authority’s intention to give the direction (including its effect) or impose the financial penalty; and
 
 (b) the time within which written representations may be made to the Authority with respect to the proposed direction or financial penalty.
 
-(5) The Authority may, by written notice to a regulated person, or the owner or controller of an essential resource, give such direction or impose such financial penalty, as the Authority considers appropriate —
+[Act 30 of 2016 wef 01/02/2017]
 
-(a) where written representation is made by that person, owner or controller in accordance with subsection (4) — after considering that representation; or
+(5) The Authority may, by written notice to a regulated person, designated media licensee, or the owner or controller of an essential resource, give such direction or impose such financial penalty, as the Authority considers appropriate —
+
+(a) where written representation is made by that person, designated media licensee, owner or controller in accordance with subsection (4) — after considering that representation; or
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (b) where no written representation is made — after the time delimited under subsection (4)(b) lapses.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (6) Subject to section 68(5), a direction or requirement to pay financial penalty under this section is to take effect at such time (after service of the notice under subsection (5)) as the Authority specifies in that notice.
 
@@ -1417,6 +1479,10 @@ is prohibited.
 (8) Any person who fails, without reasonable excuse, to comply with any direction given under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (9) A reference in this section to the giving of a direction includes a reference to the varying of that direction.
+
+(10) In this section, unless the context otherwise requires, “designated media licensee” has the same meaning as in section 65A(5).
+
+[Act 30 of 2016 wef 01/02/2017]
 
 ### Dispute resolution
 
@@ -1429,6 +1495,10 @@ is prohibited.
 (b) a party to the dispute applies to the Authority for its determination.
 
 (3) The Authority must deal with and determine the dispute in accordance with the procedures and powers specified in the code of practice.
+
+(4) To avoid doubt, this section does not apply to disputes between subscribers and designated media licensees (within the meaning of section 65A), arising from or relating to the provision of media services by the designated media licensees to the subscribers.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 ### Appeals to Minister
 
