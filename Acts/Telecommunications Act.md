@@ -36,6 +36,8 @@
 
 - [11 Charges and other terms for services provided by Authority](#Charges-and-other-terms-for-services-provided-by-Authority)
 
+- [11A Sharing of radio frequency spectrum](#Sharing-of-radio-frequency-spectrum)
+
 [**Part III ERECTION, MAINTENANCE AND REPAIR OF TELECOMMUNICATION INSTALLATIONS**](#Part-III)
 
 - [12 Power to enter on and examine land other than State land](#Power-to-enter-on-and-examine-land-other-than-State-land)
@@ -60,7 +62,7 @@
 
 - [21 Provision of space or facility or installation, plant or system by direction of Authority](#Provision-of-space-or-facility-or-installation-plant-or-system-by-direction-of-Authority)
 
-- [22 (Repealed)](#Repealed)
+- [22 Prohibition against exclusive agreements or arrangements](#Prohibition-against-exclusive-agreements-or-arrangements)
 
 - [23 Disputes as to compensation](#Disputes-as-to-compensation)
 
@@ -96,6 +98,8 @@
 
 - [32D Power to issue directions relating to control of designated telecommunication licensees, designated business trusts and designated trusts](#Power-to-issue-directions-relating-to-control-of-designated-telecommunication-licensees-designated-business-trusts-and-designated-trusts)
 
+- [32DA Power to issue directions to enforce conditions imposed by Authority when approving application under section 32B(5), (6) or (7)](#Power-to-issue-directions-to-enforce-conditions-imposed-by-Authority-when-approving-application-under-section-32B5-6-or-7)
+
 - [32E Power of Authority to obtain information relating to control of designated telecommunication licensees, designated business trusts and designated trusts](#Power-of-Authority-to-obtain-information-relating-to-control-of-designated-telecommunication-licensees-designated-business-trusts-and-designated-trusts)
 
 - [32F Appointment of chief executive officer, director, etc., of designated telecommunication licensee](#Appointment-of-chief-executive-officer-director-etc-of-designated-telecommunication-licensee)
@@ -113,6 +117,14 @@
 - [32K Transfer of property, etc., under special administration order](#Transfer-of-property-etc-under-special-administration-order)
 
 - [32L Restrictions on voluntary winding up, etc.](#Restrictions-on-voluntary-winding-up-etc)
+
+[**Part VC ALTERNATIVE DISPUTE RESOLUTION SCHEME**](#Part-VC)
+
+- [32M Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [32N Power of Authority in relation to dispute resolution scheme](#Power-of-Authority-in-relation-to-dispute-resolution-scheme)
+
+- [32O Operator of dispute resolution scheme](#Operator-of-dispute-resolution-scheme)
 
 [**Part VI OFFENCES AND PENALTIES**](#Part-VI)
 
@@ -262,6 +274,10 @@ PRELIMINARY
 
 [Act 19 of 2011 wef 01/02/2012]
 
+“common property” has the same meaning as in section 2(1) of the Building Maintenance and Strata Management Act (Cap. 30C);
+
+[Act 30 of 2016 wef 01/02/2017]
+
 “earthworks” includes —
 
 (a) any act of excavating earth, rock or other material (by whatever means) in connection with —
@@ -284,11 +300,51 @@ PRELIMINARY
 
 “Hertzian or radio waves” means electro-magnetic waves of frequencies not exceeding 1,000 terahertz propagated in space without any artificial guide;
 
+“Housing and Development Board” means the Housing and Development Board established by section 3 of the Housing and Development Act (Cap. 129);
+
+[Act 30 of 2016 wef 01/02/2017]
+
 “installation or plant used for telecommunications” includes all buildings, lands, structures, machinery, equipment, cables, poles and lines used or intended for use in connection with telecommunications;
 
 [Deleted by Act 22 of 2016 wef 01/10/2016]
 
 “message” means any sign, signal, writing, image, sound, intelligence or information of any nature transmitted by telecommunications;
+
+“owner” —
+
+(a) in relation to any premises comprised in a strata title plan under the Land Titles (Strata) Act (Cap. 158), means —
+
+(i) in the case of a lot, the person who is registered as the subsidiary proprietor of the lot under that Act;
+
+(ii) in the case of a common property, the management corporation having control of that common property, or the person receiving any rent or charge for the maintenance and management of that common property; and
+
+(iii) in the case of a limited common property as defined in section 2(1) of the Building Maintenance and Strata Management Act, the subsidiary management corporation established by the Building Maintenance and Strata Management Act having control of that limited common property, or the person receiving any rent or charge for the maintenance and management of that limited common property;
+
+(b) in relation to a building in a housing estate of the Housing and Development Board (called a HDB housing estate) or a subdivided building in a housing estate as defined in section 2(1) of the HUDC Housing Estates Act (Cap. 131) (called a HUDC housing estate), means —
+
+(i) in the case of a flat, any owner of the flat as defined in section 2(1) of the Housing and Development Act or section 2(1) of the HUDC Housing Estates Act, as the case may be;
+
+(ii) in the case of the building’s common property in a HDB housing estate that is controlled, managed and maintained by a Town Council, that Town Council;
+
+(iii) in the case of the building’s common property in a HDB housing estate that is not controlled, managed and maintained by a Town Council, the Housing and Development Board; and
+
+(iv) in the case of the subdivided building’s common property in a HUDC housing estate, any body corporate constituted under section 3 of the HUDC Housing Estates Act;
+
+(c) in relation to a subdivided building other than a subdivided building mentioned in paragraph (a) or (b), means —
+
+(i) in the case of a lot, the person who is registered under the Land Titles Act (Cap. 157) as the proprietor of the fee simple, estate in perpetuity or leasehold estate of that lot; and
+
+(ii) in the case of the subdivided building’s common property, every person who is registered under the Land Titles Act as the proprietor of the fee simple, estate in perpetuity or leasehold estate of a lot in that building, or the person receiving any rent or charge for the maintenance and management of the common property;
+
+(d) in relation to any premises which are not subdivided, means any person who is registered under the Land Titles Act as the proprietor of the fee simple, estate in perpetuity or leasehold estate of those premises; and
+
+(e) in relation to any other premises or building, means the person for the time being receiving the rent of the premises or building, whether on the person’s own account or as agent, trustee or receiver, or who would receive such rent if the premises or building were let to a tenant, and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254) as the owner of the premises or building, or a mortgagee in possession;
+
+[Act 30 of 2016 wef 01/02/2017]
+
+“premises” has the same meaning as in section 2(1) of the Building Control Act (Cap. 29);
+
+[Act 30 of 2016 wef 01/02/2017]
 
 “public telecommunication licensee” means a person designated by the Authority under section 6;
 
@@ -330,7 +386,9 @@ PRELIMINARY
 
 “telecommunication line” means a wire or cable used for telecommunications with any casing, coating, tube or pipe enclosing the same and any appliance and apparatus connected therewith for the purpose of fixing or insulating the same;
 
-“telecommunication service” means any service for telecommunications but excludes any broadcasting service;
+“telecommunication service” means any service for telecommunications, including the leasing of a telecommunication cable, but excludes any broadcasting service;
+
+[Act 30 of 2016 wef 01/02/2017]
 
 “telecommunication system” means any system used or intended to be used for telecommunications, including (for the avoidance of doubt) any such system capable of being used for the operation of any broadcasting service;
 
@@ -339,6 +397,10 @@ PRELIMINARY
 “telecommunication system licensee” means a person licensed under section 5 to operate a telecommunication system;
 
 “telecommunications” means a transmission, emission or reception of signs, signals, writing, images, sounds or intelligence of any nature by wire, radio, optical or other electro-magnetic systems whether or not such signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other processes by any means in the course of their transmission, emission or reception;
+
+“Town Council” means a Town Council established by section 4 of the Town Councils Act (Cap. 329A);
+
+[Act 30 of 2016 wef 01/02/2017]
 
 “vessel” includes any ship, boat, air-cushioned vehicle or floating rig or platform used in any form of operations at sea or any other description of vessel.
 
@@ -384,7 +446,9 @@ EXCLUSIVE PRIVILEGE AND LICENSING, ETC., OF TELECOMMUNICATION SYSTEMS
 
 and on such terms and conditions as may be agreed to by the licensee and such other persons or licensees or, in default of agreement, as may be determined by the Authority;
 
-(b) the payment to the Authority of a fee on the grant of the licence or the payment to it of periodic fees during the currency of the licence or both, of such amount as may be determined by or under the licence;
+(b) the sharing and trading of radio frequency spectrum;
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (c) the licensee to comply with any direction given by the Authority as to such matters as are specified in the licence or are of a description so specified;
 
@@ -392,7 +456,33 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 (e) the licensee to do, or not to do, such things as are specified in the licence or are of a description so specified.
 
-(3) Any payment required by subsection (2) to be rendered to the Authority may be recovered by it in any court of competent jurisdiction as if it were a simple contract debt.
+(3) The grant of a licence under subsection (1) is subject to the payment to the Authority of such fees for the grant of the licence as may be prescribed.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3A) A licensee must also pay to the Authority such other fees for the licence, or such periodic fees for the duration of the licence, or both —
+
+(a) as may be prescribed; or
+
+(b) if not prescribed, as may be specified by the Authority in the licence conditions.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3B) Any fees payable under subsection (3) or (3A) in respect of a licence —
+
+(a) need not bear any relationship to the cost of granting or administering the licence; and
+
+(b) are recoverable by the Authority from the licensee as a debt due to the Authority.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3C) A licensee is not entitled to the refund of any fee paid under subsection (3) or (3A) if —
+
+(a) the licence is cancelled or suspended, or the period of the licence is reduced, under section 8; or
+
+(b) the licence is terminated at the request of the licensee.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (4) No person shall question whether the grant of a licence under subsection (1) was, or was not, effected with the consent of or in accordance with the terms of a general authority given by the Minister, and the validity of a licence granted under that subsection shall not be impugned on the ground that it was granted neither with the consent of nor in accordance with the terms of a general authority given by the Minister.
 
@@ -418,9 +508,37 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 [10/2005 wef 16/02/2005]
 
-(3) Any condition imposed under subsection (1)(a) requiring payment to be rendered to the Authority may be recovered by it in any court of competent jurisdiction as if it were a simple contract debt.
+(3) For the purposes of subsection (1), the Authority may, subject to the regulations made under section 74, specify, in such form and manner as the Authority thinks fit —
 
-[10/2005 wef 16/02/2005]
+(a) the procedure and requirements for the grant of a spectrum right under subsection (1);
+
+(b) the conditions for participating in the process for the allocation of the spectrum right; and
+
+(c) the fees and charges payable, or the manner of determining the fees and charges payable, for the grant of the spectrum right.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3A) Without affecting subsection (3), the Authority may employ any, or any combination, of the following methods to determine the grant of a spectrum right:
+
+(a) auction;
+
+(b) tender;
+
+(c) allocation of the spectrum right in exchange for such fees or charges as determined or negotiated by the Authority.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3B) The grant of a spectrum right to a person under subsection (1) is subject to the person paying to the Authority such fees or charges as may be specified, or as may be determined in the manner specified, by the Authority under subsection (3)(c).
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3C) A person who is granted a spectrum right under subsection (1) must also pay to the Authority such other fees or charges for the grant, or such periodic fees or charges for the duration of the grant, or both, as may be specified, or as may be determined in the manner specified, by the Authority under subsection (3)(c).
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3D) The fees or charges payable by a person to the Authority under subsections (3B) and (3C) are recoverable by the Authority from the person as a debt due to the Authority.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (4) No person shall question whether the grant of a spectrum right under subsection (1) was, or was not, effected with the consent of or in accordance with the terms of a general authority given by the Minister, and the validity of a spectrum right granted under that subsection shall not be impugned on the ground that it was granted neither with the consent of nor in accordance with the terms of a general authority given by the Minister.
 
@@ -444,7 +562,17 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 (9) For the purposes of giving effect to this section, the Authority may by regulations made under section 74 —
 
-(a) provide for the variation of the conditions of the grant of any spectrum right;
+(a) provide for the exclusion of any person from participation, or limiting the person’s participation, in the process of allocation of any spectrum right;
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(aa) without affecting subsection (1)(a), specify the types of conditions that the Authority may impose on the grant of any spectrum right;
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(ab) provide for the variation of the conditions of the grant of any spectrum right;
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (b) provide for the resumption, by agreement or compulsorily, of any spectrum right or part of any spectrum right;
 
@@ -476,7 +604,7 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 (i) the licensee to enter into agreements or arrangements with any person or class of persons, or with another telecommunication licensee, for coordination of radio frequencies;
 
-(ii) the payment to the Authority of a fee on the grant of the licence, of periodic fees during the currency of the licence, or of both, each fee being of such amount as may be determined by or under the licence;
+(ii) [Deleted by Act 30 of 2016 wef 01/02/2017]
 
 (iii) the licensee to comply with any direction given by the Authority as to such matters as are specified in the licence, or as are of a description specified in the licence;
 
@@ -484,7 +612,33 @@ and on such terms and conditions as may be agreed to by the licensee and such ot
 
 (v) the licensee to do, or to refrain from doing, such things as are specified in the licence, or as are of a description specified in the licence.
 
-(3) Any payment required by subsection (2)(b)(ii) to be rendered to the Authority may be recovered by the Authority in any court of competent jurisdiction as if the payment were a simple contract debt.
+(3) The grant of a licence under subsection (1) is subject to the payment to the Authority of such fees for the grant of the licence as may be prescribed.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3A) A licensee must also pay to the Authority such other fees for the licence, or such periodic fees for the duration of the licence, or both —
+
+(a) as may be prescribed; or
+
+(b) if not prescribed, as may be specified by the Authority in the licence conditions.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3B) Any fees payable under subsection (3) or (3A) in respect of a licence —
+
+(a) need not bear any relationship to the cost of granting or administering the licence; and
+
+(b) are recoverable by the Authority from the licensee as a debt due to the Authority.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3C) A licensee is not entitled to the refund of any fee paid under subsection (3) or (3A) if —
+
+(a) the licence is cancelled or suspended, or if the period of the licence is reduced, under section 8; or
+
+(b) the licence is terminated at the request of the licensee.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (4) No person shall question whether the grant of a licence under subsection (1) was, or was not, effected with the consent of or in accordance with the terms of a general authority given by the Minister, and the validity of a licence granted under that subsection shall not be impugned on the ground that it was granted neither with the consent of nor in accordance with the terms of a general authority given by the Minister.
 
@@ -540,11 +694,15 @@ and, in either event, it shall thereupon issue a direction in writing to such li
 
 (b) any provision of any code of practice or standard of performance;
 
-(c) any direction of the Authority given under section 27, 32D or 32F(2); or
+(c) any direction of the Authority given under section 27, 32D(2)(a), (b) or (c), 32DA(2)(d)(ii) or 32F(2); or
 
-(d) section 32B,
+[Act 30 of 2016 wef 01/02/2017]
+
+(d) section 32B or any terms or conditions of participation in a dispute resolution scheme (within the meaning of section 32N(2)),
 
 [10/2005 wef 16/02/2005]
+
+[Act 30 of 2016 wef 01/02/2017]
 
 the Authority may, by notice in writing, do either or both of the following:
 
@@ -568,7 +726,7 @@ the Authority may, by notice in writing, do either or both of the following:
 
 (d) the public interest so requires,
 
-the Authority may (in lieu of an order or a financial penalty under subsection (1)(i) or (ii)) by notice in writing and without payment of any compensation, do all or any of the following:
+the Authority may (in lieu of an order or a financial penalty under subsection (1)(i) or (ii)) by notice in writing and without payment of any compensation or refund of any fee, do all or any of the following:
 
 (i) cancel the licence or part thereof;
 
@@ -577,6 +735,8 @@ the Authority may (in lieu of an order or a financial penalty under subsection (
 (iii) reduce the period for which the licence is to be in force.
 
 [10/2005 wef 16/02/2005]
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (3) [Deleted by Act 10/2005 wef 16/02/2005]
 
@@ -598,7 +758,7 @@ the Authority may (in lieu of an order or a financial penalty under subsection (
 
 (6) In any proceedings brought against any person for an offence under subsection (5), it shall be a defence for him to prove that he took all reasonable steps and exercised all due diligence to avoid contravening the order.
 
-(6A) If the Authority, by notice in writing under subsection (1), requires a person who is granted a licence to pay, within a specified period, a financial penalty under subsection (1)(ii), and the person fails or refuses to pay the financial penalty within the specified period, the Authority may, by notice in writing and without payment of any compensation, do all or any of the following:
+(6A) If the Authority, by notice in writing under subsection (1), requires a person who is granted a licence to pay, within a specified period, a financial penalty under subsection (1)(ii), and the person fails or refuses to pay the financial penalty within the specified period, the Authority may, by notice in writing and without payment of any compensation or refund of any fee, do all or any of the following:
 
 (a) cancel the licence or part thereof;
 
@@ -607,6 +767,8 @@ the Authority may (in lieu of an order or a financial penalty under subsection (
 (c) reduce the period for which the licence is to be in force.
 
 [Act 19 of 2011 wef 01/02/2012]
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (7) Any financial penalty payable by any person under subsection (1)(ii) shall be recoverable by the Authority as a debt due to the Authority from that person; and the person’s liability to pay shall not be affected by his licence ceasing (for any reason) to be in force.
 
@@ -667,6 +829,30 @@ the Authority may (in lieu of an order or a financial penalty under subsection (
 (5) Nothing in this section shall be construed as prohibiting the Authority from levying any charge or collecting any dues for anything done or any service rendered by reason only of not being incorporated in a scheme and the rates, charges and fees payable to the Authority for any service rendered shall be in accordance with such rates, charges and fees as may, from time to time, be determined by the Authority.
 
 (6) The rates, charges and fees applied by the TAS immediately before 1st December 1999 shall continue to be valid as though determined by the Authority under this section until rescinded, varied or otherwise determined by the Authority.
+
+### Sharing of radio frequency spectrum
+
+11A\.—(1) Where a person (called the first person) is required under this Act or any regulations made under this Act, to share with any other person the radio frequency spectrum allocated to the first person under a licence granted under section 5 or the grant of a spectrum right under section 5A, for a station or network —
+
+(a) all persons operating on the shared radio frequency spectrum must accept that interference may result from the legitimate operation of the station or network specified in the licence or the grant of a spectrum right; and
+
+(b) the Authority is not responsible or liable for any interference that may arise from the first person’s or other person’s use of the shared radio frequency spectrum.
+
+(2) In subsection (1) —
+
+“network” means 2 or more stations operated by a person and used or intended to be used in communication with one another;
+
+“station” means —
+
+(a) a transmitter;
+
+(b) a receiver;
+
+(c) a combination of transmitters and receivers; or
+
+(d) an accessory to any thing specified in paragraphs (a), (b) and (c).
+
+[Act 30 of 2016 wef 01/02/2017]
 
 ## PART III
 
@@ -732,21 +918,53 @@ and pay compensation to any person interested for any damage, disturbance or dis
 
 [10/2005 wef 16/02/2005]
 
-(6) The owner or occupier of the land or building may, within 14 days of the receipt of the notice referred to in subsection (4), lodge a written objection with the Authority and the Authority shall specify a date to inquire into any such objection.
+(6) The owner or occupier of the land or building may, within 14 days after receiving the notice mentioned in subsection (4), lodge a written objection with the Authority.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(7) Where a written objection is lodged by the owner or occupier of the land or building under subsection (6) (called in this section the objector), the Authority must notify the public telecommunication licensee concerned to resolve the dispute with the objector due to the objection.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(8) On receipt of the Authority’s notice under subsection (7), the public telecommunication licensee must take genuine steps to resolve the dispute with the objector due to the objection.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(8A) If the public telecommunication licensee fails to resolve the dispute due to the objection, the licensee must inform the Authority in writing and also furnish all relevant information relating to the steps taken by the licensee to resolve the dispute due to the objection.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(8B) After receipt of the information mentioned in subsection (8A), the Authority must notify the public telecommunication licensee and the objector as to whether the Authority is satisfied that the licensee has taken genuine steps to resolve the dispute due to the objection.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(8C) The Authority must hold an inquiry (in such manner as the Authority thinks fit) on the objection, giving each party a reasonable opportunity to be heard if —
+
+(a) the Authority notifies the parties under subsection (8B) that the Authority is satisfied that the licensee has taken genuine steps to resolve the dispute due to the objection; and
+
+(b) the objection is not withdrawn.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(9) Upon the conclusion of the inquiry, the Authority may authorise, either unconditionally or subject to such terms, conditions and stipulations as it thinks fit, any of the acts mentioned in the notice given under subsection (4) to be carried out.
 
 [10/2005 wef 16/02/2005]
 
-(7) If no objection is lodged within the time specified in subsection (6), the public telecommunication licensee may forthwith enter on the land or enter the building and do all or any of the acts specified in the notice given under subsection (4).
+[Act 30 of 2016 wef 01/02/2017]
 
-[10/2005 wef 16/02/2005]
+(10) The public telecommunication licensee may enter the land or building and do all or any of the acts mentioned in the notice given under subsection (4) —
 
-(8) If an objection is lodged and is not withdrawn before the date fixed for the hearing thereof, the Authority shall hold an enquiry, giving each party an opportunity to be heard.
+(a) where no written objection is lodged within the period mentioned in subsection (6), after the expiry of that period; or
 
-(9) Upon the conclusion of the enquiry, the Authority may authorise, either unconditionally or subject to such terms, conditions and stipulations as it thinks fit, any of the acts mentioned in the notice given under subsection (4) to be carried out.
+(b) where a written objection is lodged under subsection (6) —
 
-[10/2005 wef 16/02/2005]
+(i) after the objection is withdrawn;
 
-(10) [Deleted by Act 10/2005 wef 16/02/2005]
+(ii) after the public telecommunication licensee resolves the dispute with the objector due to the objection; or
+
+(iii) on the Authority’s authorisation under subsection (9) subject to the terms, conditions and stipulations imposed by the Authority under that subsection.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 ### Transfer of installation or plant
 
@@ -822,11 +1040,19 @@ and pay compensation to any person adversely affected for any damage that may be
 
 (a) issue one or more codes of practice for or in connection with the provision, maintenance and use of, and access to, space and facilities within or on any land or building for the operation of any installation, plant or system used for telecommunications, and the allocation of costs and expenses incurred for such provision, maintenance, use and access; and
 
-(b) amend or revoke any code of practice issued under paragraph (a).
+(b) amend, suspend or revoke the whole or any part of any code of practice issued under paragraph (a).
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (2) A code of practice issued under subsection (1) may, in particular —
 
-(a) require the developer or owner of any land or building to provide and maintain, at his expense, such space or facility within or on the land or building, and access to that space or facility, for the operation of any installation, plant or system used for telecommunications; and
+(a) require the developer or owner of any land or building to provide, maintain or give access to, at the developer’s or owner’s expense, such space or facility within or on the land or building, for the installation, operation or maintenance of any installation, plant or system used for all or any of the following purposes:
+
+(i) the provision of any telecommunication service or radio‑communication service to that land or building;
+
+(ii) the provision of any telecommunication service or radio‑communication service to any other land or building; and
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (b) provide for such fees and charges as may be payable to the Authority in relation to any application or request made to the Authority under the code of practice.
 
@@ -841,6 +1067,26 @@ and pay compensation to any person adversely affected for any damage that may be
 (5) Subject to subsection (6), every developer or owner of any land or building, and every telecommunication licensee, to whom any code of practice issued under subsection (1) applies shall comply, at his expense, with that code of practice.
 
 (6) The Authority may, either generally or for such time as the Authority may specify, waive the application, to any developer or owner of any land or building or to any telecommunication licensee, of any code of practice issued under subsection (1) or of any part thereof.
+
+(6A) The Authority may give a written notice to a telecommunication licensee, or a developer, owner or occupier of any land or building, requiring compliance with any code of practice issued under subsection (1).
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(6B) The Authority may at any time vary, suspend or revoke the whole or any part of a written notice given under subsection (6A).
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(6C) To avoid doubt, the Authority may give a written notice under subsection (6A) notwithstanding that such written notice may prejudice the contractual obligations of the telecommunication licensee, or the developer, owner or occupier of any land or building, whether the obligation relates to a contract made before, on or after the commencement of section 9(c) of the Telecommunications (Amendment) Act 2016.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(6D) No liability shall lie against any party to a contract made before, on or after the commencement of section 9(c) of the Telecommunications (Amendment) Act 2016 for or in relation to, any breach of the contract where the breach is solely attributable to, or occasioned by, the compliance by that party with any written notice under subsection (6A).
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(6E) Nothing in subsection (6D) affects the operation of the Frustrated Contracts Act (Cap. 115).
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (7) Where any code of practice issued under subsection (1) applies to a person who is a developer or an owner of any land or building, if the Authority is satisfied that the person is contravening, or has contravened, whether by act or omission, any provision of that code of practice, the Authority may, by notice in writing, issue such written order to the person as the Authority considers necessary for the purpose of securing compliance with that provision.
 
@@ -882,13 +1128,13 @@ and pay compensation to any person adversely affected for any damage that may be
 
 ### Provision of space or facility or installation, plant or system by direction of Authority
 
-21\.—(1) Where the Authority considers it necessary that any telecommunication service should be provided to any land or building, whether completed or not, or that the quality of a telecommunication service provided to any land or building should be enhanced, the Authority may by direction —
+21\.—(1) Where the Authority considers it necessary that any telecommunication service should be provided to any land or building (whether completed or not) or any occupier of the land or building, or that the quality of a telecommunication service provided to any land or building or to any occupier of that land or building should be enhanced, the Authority may by direction —
 
-(a) require the developer or owner of the land or building to provide at his expense, within such period as may be specified in the direction, such space or facility within or on the land or building, and access thereto, as the Authority may specify in its direction; and
+(a) require the developer or owner of the land or building to provide, at the developer’s or owner’s expense and within such period as may be specified in the direction, such space or facility within or on that land or building, and access to that land or building, as the Authority may specify in its direction; and
 
-(b) require any telecommunication licensee to install, within such period as may be specified in the direction, such installation, plant or system as the Authority considers necessary for the provision, or the enhancement of quality, of the telecommunication service to the land or building.
+(b) require any telecommunication licensee to install, within such period as may be specified in the direction, such installation, plant or system in that space or facility as the Authority considers necessary for the provision, or the enhancement of quality, of the telecommunication service to that land or building or to the occupier of that land or building.
 
-[10/2005 wef 16/02/2005]
+[Act 30 of 2016 wef 01/02/2017]
 
 (1A) Where the Authority considers it necessary that any broadcasting service, the operation of which requires a telecommunication system, should be provided to any land or building, whether completed or not, or that the quality of any such broadcasting service provided to any land or building should be enhanced, the Authority may by direction —
 
@@ -900,29 +1146,95 @@ and pay compensation to any person adversely affected for any damage that may be
 
 [Act 22 of 2016 wef 01/10/2016]
 
-(2) Where a telecommunication licensee is using any space or facility provided by the developer or owner of any land or building pursuant to any direction under subsection (1) or (1A) or any code of practice issued by the Authority, and the licensee intends to use that space or facility to provide any telecommunication service or broadcasting service or to enhance the quality of any telecommunication service or broadcasting service provided to any other land or building, the licensee shall notify the developer or owner of the licensee’s intention.
+(1B) Where the Authority —
 
-[10/2005 wef 16/02/2005]
+(a) considers it necessary that in relation to any land or building, whether completed or not (called in this section the relevant property), a radio‑communication service should be provided to the relevant property or the quality of a radio‑communication service provided to the relevant property should be enhanced; and
 
-[Act 19 of 2011 wef 01/02/2012]
+(b) is satisfied that it would be in the public interest for a telecommunication licensee providing the radio‑communication service to install any installation, plant or system within or on another land or building (called in this section the subject property) in order to serve the relevant property or enhance the quality of the radio‑communication service provided to the relevant property,
 
-(3) Where the developer or owner objects to the use of the space or facility for a purpose referred to in subsection (2), the telecommunication licensee shall refer the matter to the Authority for determination.
+the Authority may by direction —
 
-[10/2005 wef 16/02/2005]
+(i) require the developer or owner of the subject property in paragraph (b) to provide, at the developer’s or owner’s expense and within such period as may be specified in the direction, such space or facility within or on the subject property, and access to the subject property, as the Authority may specify in its direction; and
 
-(4) The Authority may, upon being satisfied by the telecommunication licensee that the use of the space or facility for a purpose referred to in subsection (2) would be reasonable, by direction —
+(ii) require the telecommunication licensee to install within or on the subject property, within such period as may be specified in the direction, such installation, plant or system as the Authority considers necessary for the provision or enhancement of the quality of the radio‑communication service to the relevant property.
 
-(a) require the developer or owner of the land or building to allow the licensee to use the space or facility; and
+[Act 30 of 2016 wef 01/02/2017]
 
-(b) require the licensee to install and operate any installation, plant or system within the space or facility,
+(1C) To avoid doubt, the Authority may give directions under subsection (1), (1A), (1B) or (4) notwithstanding that such directions may prejudice the contractual obligations of the telecommunication licensee, or the developer, owner or occupier of any land or building, whether the obligation relates to a contract made before, on or after the commencement of section 10(b) of the Telecommunications (Amendment) Act 2016.
 
-in such manner and on such terms as the Authority may specify in the direction.
+[Act 30 of 2016 wef 01/02/2017]
 
-[10/2005 wef 16/02/2005]
+(1D) No liability shall lie against any party to a contract made before, on or after the commencement of section 10(b) of the Telecommunications (Amendment) Act 2016 for or in relation to, any breach of the contract where the breach is solely attributable to, or occasioned by, the compliance by that party with any direction of the Authority under subsection (1), (1A), (1B) or (4).
 
-(5) Any direction under subsection (1), (1A) or (4) may include —
+[Act 30 of 2016 wef 01/02/2017]
 
-(a) a requirement that the telecommunication licensee shall contribute, wholly or partly, to such costs and expenses incurred for the provision and use of any space or facility or installation, plant or system under subsection (1), (1A) or (4) as the Authority may determine;
+(1E) Nothing in subsection (1D) affects the operation of the Frustrated Contracts Act (Cap. 115).
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(2) Where a telecommunication licensee that is using any space or facility within or on any land or building pursuant to a direction under subsection (1), (1A) or (1B), or any code of practice issued by the Authority, intends to use that space or facility —
+
+(a) to provide any telecommunication service or broadcasting service, or to enhance the quality of any telecommunication service or broadcasting service provided, to any land or building not in the direction to the licensee under subsection (1) or (1A);
+
+(b) to provide any radio‑communication service, or to enhance the quality of any radio‑communication service provided, to any land or building that is not the relevant land or building in the direction to the licensee under subsection (1B); or
+
+(c) to provide any telecommunication service, broadcasting service or radio‑communication service that is not in the direction to the licensee under subsection (1), (1A) or (1B), as the case may be, whether or not to the same land or building in the direction,
+
+the licensee must give 14 days’ notice to the developer or owner of that land or building, stating as fully and accurately as possible the nature and extent of the acts intended to be done for the purpose of paragraph (a), (b) or (c), as the case may be.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3) The developer or owner of the land or building may, within 14 days after receiving a notice under subsection (2), lodge a written objection with the Authority.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3A) Where a written objection is lodged by the developer or owner of the land or building under subsection (3) (called in this section the objector), the Authority must notify the telecommunication licensee concerned to resolve the dispute with the objector due to the objection.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3B) On receipt of the Authority’s notice under subsection (3A), the telecommunication licensee must take genuine steps to resolve the dispute with the objector due to the objection.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3C) If the telecommunication licensee fails to resolve the dispute due to the objection, the licensee must inform the Authority in writing and also furnish all relevant information relating to the steps taken by the licensee to resolve the dispute due to the objection.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(3D) After receipt of the information mentioned in subsection (3C), the Authority —
+
+(a) must notify the telecommunication licensee and the objector as to whether the Authority is satisfied that the licensee has taken genuine steps to resolve the dispute due to the objection; and
+
+(b) if so satisfied, must hold an inquiry (in such manner as the Authority thinks fit) on the objection, giving each party a reasonable opportunity to be heard if the objection is not withdrawn.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(4) Upon the conclusion of the inquiry, the Authority may, upon being satisfied that the use of the space or facility for a purpose in the notice given under subsection (2) would be reasonable, by directions to the telecommunication licensee or the developer or owner of the land or building require either or both to give effect to the notice in such manner and on such terms, conditions and stipulations as the Authority may specify in the direction, including directions that —
+
+(a) require the developer or owner to allow the licensee to use the space or facility; or
+
+(b) require the licensee to install and operate any installation, plant or system within the space or facility.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(4A) The telecommunication licensee may enter on the land or building and do all or any of the acts mentioned in the notice given under subsection (2) —
+
+(a) where no written objection is lodged within the period specified in subsection (3), after the expiry of that period; or
+
+(b) where a written objection is lodged under subsection (3) —
+
+(i) after the objection is withdrawn;
+
+(ii) after the telecommunication licensee resolves the dispute with the objector due to the objection; or
+
+(iii) on the Authority’s direction under subsection (4), subject to the terms, conditions and stipulations imposed by the Authority under that subsection.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(5) Any direction under subsection (1), (1A), (1B) or (4) may include —
+
+(a) a requirement that the telecommunication licensee shall contribute, wholly or partly, to such costs and expenses incurred for the provision and use of any space or facility or installation, plant or system under subsection (1), (1A), (1B) or (4) as the Authority may determine;
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (b) terms and conditions relating to the payment of costs and expenses necessary for any alteration, removal, relocation or diversion of the installation, plant or system that may subsequently be required; and
 
@@ -932,15 +1244,39 @@ in such manner and on such terms as the Authority may specify in the direction.
 
 [Act 19 of 2011 wef 01/02/2012]
 
-(6) The Authority may at any time vary, suspend or revoke the whole or any part of a direction under subsection (1), (1A) or (4).
+[Act 30 of 2016 wef 01/02/2017]
+
+(6) The Authority may at any time vary, suspend or revoke the whole or any part of a direction under subsection (1), (1A), (1B) or (4).
 
 [Act 19 of 2011 wef 01/02/2012]
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (7) Any person who fails to comply with any requirement in a direction under this section shall be guilty of an offence.
 
 [10/2005 wef 16/02/2005]
 
-22\. [Deleted by Act 10/2005 wef 16/02/2005]
+### Prohibition against exclusive agreements or arrangements
+
+22\.—(1) The developer or owner of any land or building —
+
+(a) must not enter into or enforce any agreement or arrangement with any occupier of the land or building that restricts or prevents the occupier from selecting any supplier of telecommunication systems and services to provide telecommunication services to the occupier; and
+
+(b) must not enter into or enforce any agreement or arrangement with any telecommunication licensee that restricts or prevents other telecommunication licensees from installing their installation, plant or system in the land or building or supplying telecommunication systems and services to the land or building or supplying telecommunication services to any occupier of the land or building.
+
+(2) The Authority may give such directions as the Authority thinks fit to be observed by the telecommunication licensee, or the developer, owner or occupier of the land or building to ensure compliance with subsection (1).
+
+(3) To avoid doubt, the Authority may give directions under subsection (2) notwithstanding that such directions may prejudice the contractual obligations of the telecommunication licensee, or the developer, owner or occupier of any land or building, whether the obligation relates to a contract made before, on or after the commencement of section 11 of the Telecommunications (Amendment) Act 2016.
+
+(4) No liability shall lie against any party to a contract made before, on or after the commencement of section 11 of the Telecommunications (Amendment) Act 2016 for or in relation to, any breach of the contract where the breach is solely attributable to, or occasioned by, the compliance by that party with any direction of the Authority under subsection (2).
+
+(5) Nothing in subsection (4) affects the operation of the Frustrated Contracts Act (Cap. 115).
+
+(6) The Authority may at any time vary, suspend or revoke the whole or any part of a direction given under subsection (2).
+
+(7) Any person who fails to comply with any requirement in a direction under this section shall be guilty of an offence.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 ### Disputes as to compensation
 
@@ -989,6 +1325,10 @@ with respect to all or any of the following:
 (vi) competition, abuse of a dominant position in the market and fair market conduct in the telecommunication industry in Singapore;
 
 (vii) the acquisitions or consolidations involving a telecommunication licensee and any other person (whether a telecommunication licensee or otherwise);
+
+(viia) the collection, use and disclosure by telecommunication licensees of information about subscribers of telecommunication services, without the subscribers’ consent, including information about the subscribers’ personal data, telecommunication subscription and usage;
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (viii) the carrying out of the purposes and provisions of this Act and the due administration thereof.
 
@@ -1498,9 +1838,19 @@ DESIGNATED TRUSTS
 
 (c) obtains effective control over the designated trust.
 
-(14) Any person who contravenes subsection (2), (3), (12) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(14) Subject to subsection (15), any person who contravenes subsection (2), (3), (12) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [Act 19 of 2011 wef 01/02/2012]
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(15) Subsection (14) does not apply to a telecommunication licensee that is —
+
+(a) a trustee‑manager of a designated business trust; or
+
+(b) a trustee of a designated trust.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 ### Power to issue code of practice relating to control of designated telecommunication licensees, designated business trusts and designated trusts
 
@@ -1592,13 +1942,17 @@ DESIGNATED TRUSTS
 
 (6) The Authority may at any time vary, suspend or revoke any direction issued under this section.
 
-(7) Any direction issued to a person under subsection (2) shall take effect, notwithstanding —
+(7) Any direction given to a person under subsection (2) has effect, despite —
 
-(a) the provisions of any other written law; and
+(a) the Business Trusts Act (Cap. 31A), the Companies Act (Cap. 50), the Limited Liability Partnerships Act (Cap. 163A) and the Trustees Act (Cap. 337);
 
-(b) the provisions of the memorandum or articles of association, trust deed or other constitution of the designated telecommunication licensee, designated business trust or designated trust.
+(b) anything in any listing rules as defined in section 2(1) of the Securities and Futures Act (Cap. 289); and
 
-(8) Notwithstanding the provisions of any other written law and the provisions of the memorandum or articles of association, trust deed or other constitution of the designated telecommunication licensee, the designated business trust or the designated trust —
+(c) the provisions of the memorandum or articles of association, trust deed or other constitution of the designated telecommunication licensee, designated business trust or designated trust.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(8) Without affecting subsection (7) —
 
 (a) where any direction is issued under subsection (2)(a), unless the direction is suspended or revoked —
 
@@ -1624,13 +1978,97 @@ DESIGNATED TRUSTS
 
 (iii) except in a winding up of the designated trust, no amount shall be paid (whether by way of profits, income or otherwise) in respect of the specified equity interests, unless the Authority expressly authorises such payment.
 
-(9) Any person (other than a designated telecommunication licensee) who contravenes section (5) shall be guilty of an offence and shall be liable on conviction —
+[Act 30 of 2016 wef 01/02/2017]
+
+(9) Subject to subsection (10), any person who contravenes section (5) shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
 
 (b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
 [Act 19 of 2011 wef 01/02/2012]
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(10) Subsection (9) does not apply to a telecommunication licensee that is —
+
+(a) a designated telecommunication licensee mentioned in subsection (2)(a);
+
+(b) a trustee‑manager of the designated business trust mentioned in subsection (2)(b); or
+
+(c) a trustee of the designated trust mentioned in subsection (2)(c).
+
+[Act 30 of 2016 wef 01/02/2017]
+
+### Power to issue directions to enforce conditions imposed by Authority when approving application under section 32B(5), (6) or (7)
+
+32DA\.—(1) Without affecting section 27, the Authority may issue a direction under subsection (2) if —
+
+(a) a person (called in this section the specified person) —
+
+(i) is a 12% controller or 30% controller of a designated telecommunication licensee, designated business trust or designated trust;
+
+(ii) owns any business (of a designated telecommunication licensee, designated business trust or designated trust) that is conducted under a telecommunication licence granted under section 5, or any part of any such business, as a going concern; or
+
+(iii) has effective control over a designated telecommunication licensee, designated business trust or designated trust;
+
+(b) the Authority, in granting its written approval to the specified person under section 32B(5), (6) or (7) in respect of any designated telecommunication licensee, designated business trust or designated trust, imposes a condition that the specified person must transfer or dispose of all or any part of —
+
+(i) the shares which the specified person holds, or which the specified person and his associates together hold, in the designated telecommunication licensee (called in this section the specified shares);
+
+(ii) the units which the specified person holds, or which the specified person and his associates together hold, in the designated business trust (called in this section the specified units); or
+
+(iii) the equity interests which the specified person holds, or which the specified person and his associates together hold, in the designated trust (called in this section the specified equity interests); and
+
+(c) the Authority is satisfied that the condition has not been complied with.
+
+(2) The Authority may, in the circumstances specified in subsection (1), issue all or any of the following directions:
+
+(a) direct the specified person, or any associate of the specified person, to transfer or dispose of all or any part of the specified shares, specified units or specified equity interests, as the case may be, within such time and subject to such conditions as the Authority specifies;
+
+(b) direct the specified person to transfer or dispose of all or any part of the business that is conducted under a telecommunication licence granted under section 5, and that is acquired from the designated telecommunication licensee, designated business trust or designated trust as a going concern, within such time and subject to such conditions as the Authority specifies;
+
+(c) direct the specified person to relinquish effective control over the designated telecommunication licensee, designated business trust or designated trust, within such time and subject to such conditions as the Authority specifies;
+
+(d) direct —
+
+(i) the specified person, or any associate of the specified person, to procure the issue of such number of shares, units or equity interests in the designated telecommunication licensee, designated business trust or designated trust, as the case may be, as the Authority may determine, within such time and subject to such conditions as the Authority specifies;
+
+(ii) the designated telecommunication licensee, the trustee‑manager of the designated business trust, or the trustee of the designated trust, to procure the issue of such number of shares, units or equity interests in the designated telecommunication licensee, designated business trust or designated trust, as the case may be, as the Authority may determine, within such time and subject to such conditions as the Authority specifies; and
+
+(iii) the specified person, or any associate of the specified person, to transfer or dispose of all or any part of the specified shares, specified units or specified equity interests, in the designated telecommunication licensee, designated business trust or designated trust, as the case may be, within such time and subject to such conditions as the Authority specifies.
+
+(3) Before issuing a direction to any person under subsection (2), the Authority must, unless the Authority decides that it is not practicable or desirable to do so, cause to be given to that person written notice of the Authority’s intention to issue the direction, specifying a date by which that person may make written representations with regard to the proposed direction.
+
+(4) Upon receipt of any written representation under subsection (3), the Authority must consider the representation for the purpose of determining whether to issue the direction.
+
+(5) Any person to whom a direction is issued under subsection (2) must comply with the direction.
+
+(6) The Authority may at any time vary, suspend or revoke any direction issued under this section.
+
+(7) Any direction issued to a person under subsection (2) has effect, despite —
+
+(a) the Business Trusts Act (Cap. 31A), the Companies Act (Cap. 50), the Limited Liability Partnerships Act (Cap. 163A) and the Trustees Act (Cap. 337);
+
+(b) anything in any listing rules as defined in section 2(1) of the Securities and Futures Act (Cap. 289); and
+
+(c) the provisions of the memorandum or articles of association, trust deed or other constitution of the specified person, designated telecommunication licensee, designated business trust or designated trust.
+
+(8) Subject to subsection (9), any person that contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+(9) Subsection (8) does not apply to a telecommunication licensee that is —
+
+(a) a designated telecommunication licensee mentioned in subsection (2)(d)(ii);
+
+(b) a trustee‑manager of the designated business trust mentioned in subsection (2)(d)(ii); or
+
+(c) a trustee of the designated trust mentioned in subsection (2)(d)(ii).
+
+[Act 30 of 2016 wef 01/02/2017]
 
 ### Power of Authority to obtain information relating to control of designated telecommunication licensees, designated business trusts and designated trusts
 
@@ -1716,7 +2154,21 @@ shall be guilty of an offence and shall be liable on conviction —
 
 32F\.—(1) No designated telecommunication licensee shall appoint a person as its chief executive officer, its director or the chairman of its board of directors, unless it has obtained the approval of the Authority to do so.
 
-(2) Where a designated telecommunication licensee appoints a person as its chief executive officer, its director or the chairman of its board of directors without the approval of the Authority, in contravention of subsection (1), the Authority may issue a direction to the licensee to remove that person from his appointment as chief executive officer, director or chairman of the board of directors, as the case may be, of the licensee.
+(1A) The Authority may —
+
+(a) grant its approval, without or with conditions, such conditions limited to all or any of the following:
+
+(i) specifying the period of appointment for which the approval is granted, including any requirement for the designated telecommunication licensee to seek approval for re‑appointment;
+
+(ii) specifying the actions to be taken by the designated telecommunication licensee or the person appointed; and
+
+(b) at any time add to, vary or revoke any condition of the approval under paragraph (a), subject to the limitation in that paragraph.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(2) Where a designated telecommunication licensee appoints a person as its chief executive officer, its director or the chairman of its board of directors without the approval of the Authority, in contravention of subsection (1), or the designated telecommunication licensee or the person appointed is in contravention of any of the conditions imposed under subsection (1A), the Authority may issue a direction to the licensee to remove that person from his appointment as chief executive officer, director or chairman of the board of directors, as the case may be, of the licensee.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (3) The Authority may at any time vary, suspend or revoke any direction issued under subsection (2).
 
@@ -1898,13 +2350,67 @@ SPECIAL ADMINISTRATION ORDER
 
 [Act 19 of 2011 wef 01/02/2012]
 
+## PART VC
+
+ALTERNATIVE DISPUTE RESOLUTION SCHEME
+
+[Act 30 of 2016 wef 01/02/2017]
+
+### Interpretation of this Part
+
+32M\. In this Part, unless the context otherwise requires —
+
+“declared telecommunication licensee” means a telecommunication licensee —
+
+(a) that is declared by the Authority to be a telecommunication licensee subject to this Part; or
+
+(b) that is within a class of telecommunication licensees declared by the Authority to be a class of telecommunication licensees subject to this Part,
+
+and the declaration must be notified in theGazette;
+
+“dispute resolution scheme” means a dispute resolution scheme established or approved by the Authority under section 32N(1);
+
+“subscriber” means an end user that subscribes to a telecommunication service from a telecommunication licensee.
+
+[Act 30 of 2016 wef 01/02/2017]
+
+### Power of Authority in relation to dispute resolution scheme
+
+32N\.—(1) The Authority may establish or approve one or more dispute resolution schemes for the resolution of disputes between subscribers and declared telecommunication licensees, arising from or relating to the provision of telecommunication services by the declared telecommunication licensees to the subscribers.
+
+(2) Every declared telecommunication licensee must participate in a dispute resolution scheme and must comply with such terms and conditions of participation in the scheme as may be prescribed.
+
+(3) To avoid doubt, nothing in this Part affects the operation of the Consumer Protection (Fair Trading) Act (Cap. 52A).
+
+[Act 30 of 2016 wef 01/02/2017]
+
+### Operator of dispute resolution scheme
+
+32O\. The Authority may, with the approval of the Minister, make regulations under section 74 to provide for matters relating to the operations of an operator of a dispute resolution scheme, including —
+
+(a) the standards or requirements of the services provided under the dispute resolution scheme;
+
+(b) the fees that the operator may charge for the services provided under the dispute resolution scheme;
+
+(c) the records that the operator must keep and the period of retention of such records;
+
+(d) the reports that the operator must submit to the Authority, and the manner and time for such submission;
+
+(e) matters relating to the administration of the dispute resolution scheme; and
+
+(f) generally to give effect to or for carrying out the purposes of this Part.
+
+[Act 30 of 2016 wef 01/02/2017]
+
 ## PART VI
 
 OFFENCES AND PENALTIES
 
 ### Unlawful operation of telecommunication system or service
 
-33\.—(1) Subject to this section and section 4, any person who establishes, installs, maintains, provides or operates a telecommunication system or service within Singapore without a licence granted under section 5 or otherwise infringes the privilege conferred upon the Authority by section 3 shall be guilty of an offence.
+33\.—(1) Subject to this section and section 4, any person who establishes, installs, maintains, provides or operates a telecommunication system or service within Singapore without a licence granted under section 5, or during the suspension of the person’s licence under section 8 or otherwise infringes the privilege conferred upon the Authority by section 3 shall be guilty of an offence.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (2) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -2422,9 +2928,11 @@ GENERAL PROVISIONS
 
 (a) any decision of the Authority in the exercise of any discretion vested in it by or under this Act; or
 
-(b) anything contained in any code of practice or standard of performance or in any direction of the Authority given under section 21, 27, 32D, 32E(1) or 32F(2),
+(b) anything contained in any code of practice or standard of performance or in any direction of the Authority given under section 21, 22(2), 27, 32D(2), 32DA(2), 32E(1) or 32F(2),
 
 [Act 19 of 2011 wef 01/02/2012]
+
+[Act 30 of 2016 wef 01/02/2017]
 
 may, within 14 days of the receipt of the decision or direction of the Authority or the issue or approval of the code of practice or standard of performance, as the case may be —
 
@@ -2436,9 +2944,13 @@ may, within 14 days of the receipt of the decision or direction of the Authority
 
 (2) Any person (other than a telecommunication licensee) who is aggrieved by —
 
-(a) any decision of the Authority under section 5(1), 5A, 5B(1), 8(1), 14, 19(6) or (7), 23 or 32B; or
+(a) any decision of the Authority under section 5(1), 5A, 5B(1), 8(1), 14, 19(6), (6A) or (7), 23 or 32B; or
 
-(b) anything contained in any code of practice issued under section 19 or under section 26 read with section 32C or in any direction of the Authority given under section 21, 32D or 32E(1) or (2),
+[Act 30 of 2016 wef 01/02/2017]
+
+(b) anything contained in any code of practice issued under section 19 or under section 26 read with section 32C or in any direction of the Authority given under section 21, 22(2), 32D(2), 32DA(2), 32E(1) or (2),
+
+[Act 30 of 2016 wef 01/02/2017]
 
 may, within 14 days after the receipt of the decision or direction of the Authority or the issue of the code of practice, as the case may be —
 
@@ -2874,11 +3386,13 @@ which is due to the act or default of another person, or an accident or some oth
 
 (e) the control and regulation of interference by radiowaves or electrical or other means to telecommunications in Singapore;
 
-(f) the control and regulation of installation, wiring, cabling and other types of works to be carried out on the telecommunication systems of a public telecommunication licensee;
+(f) the control and regulation of installation, wiring, cabling and other types of works to be carried out on the telecommunication systems of a telecommunication system licensee;
 
 [10/2005 wef 16/02/2005]
 
 [Act 19 of 2011 wef 01/02/2012]
+
+[Act 30 of 2016 wef 01/02/2017]
 
 (g) the control and regulation of the allocation and use of —
 
@@ -2888,9 +3402,15 @@ which is due to the act or default of another person, or an accident or some oth
 
 (A) the operation of telecommunication systems;
 
-(B) the provision of telecommunication services.
+(B) the provision of telecommunication services;
 
 [Act 19 of 2011 wef 01/02/2012]
+
+[Act 30 of 2016 wef 01/02/2017]
+
+(h) the prescribing of anything that is required or permitted to be prescribed under this Act.
+
+[Act 30 of 2016 wef 01/02/2017]
 
 ### Savings and transitional provisions
 
@@ -2929,6 +3449,10 @@ This Legislative History is provided for the convenience of users of the Telecom
 ||Date of Second Reading|16 August 2016|
 ||Date of Third Reading|17 September 2016|
 ||Date of commencement|1 October 2016|
+|6.|**Act 30 of 2016—Telecommunications (Amendment) Act 2016**|
+||Date of First Reading|10 October 2016 (Bill No. 30/2016 published on 10 October 2016)|
+||Date of Second and Third Readings|10 November 2016|
+||Date of commencement|1 February 2017|
 ## COMPARATIVE TABLE
 
 Telecommunications Act
