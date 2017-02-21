@@ -13706,6 +13706,10 @@ as the case may be, such information within such time and in such form and manne
 
 [29/2012]
 
+(3K) No approval may be granted for the purposes of subsection (3)(d) for a donation made on or after 21 February 2017.
+
+[Act 39 of 2017 wef 21/02/2017]
+
 (4) A deduction under subsection (3)(a)(i) shall be made in the following order:
 
 (a) firstly, against statutory income from the same trade, business, profession or vocation;
@@ -25485,6 +25489,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 April 2015|
 |||1 April 2016|
 |||1 January 2017|
+|||21 February 2017|
 ## COMPARATIVE TABLE
 
 Income Tax Act
