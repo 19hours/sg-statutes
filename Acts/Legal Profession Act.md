@@ -6511,6 +6511,24 @@ PRACTICE OF SINGAPORE LAW
 
 (3) A solicitor shall, notwithstanding any provision of this Act, be subject to the law of maintenance and champerty like any other person.
 
+(3A) To avoid doubt, this section does not prevent a solicitor from —
+
+(a) introducing or referring a Third‑Party Funder to the solicitor’s client, so long as the solicitor does not receive any direct financial benefit from the introduction or referral;
+
+(b) advising on or drafting a third‑party funding contract for the solicitor’s client or negotiating the contract on behalf of the client; and
+
+(c) acting on behalf of the solicitor’s client in any dispute arising out of the third‑party funding contract.
+
+[Act 2 of 2017 wef 01/03/2017]
+
+(3B) In subsection (3A) —
+
+“direct financial benefit” does not include any fee, disbursement or expense payable by the solicitor’s client for the provision of legal services by the solicitor to the client;
+
+“Third‑Party Funder” and “third‑party funding contract” have the same meanings as in section 5B of the Civil Law Act (Cap. 43).
+
+[Act 2 of 2017 wef 01/03/2017]
+
 (4) This section shall apply, with the necessary modifications, to a law corporation or a limited liability law partnership.
 
 [4/2000; 41/2005]
@@ -9027,6 +9045,10 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|1 August 2016|
+|61.|**Act 2 of 2017—Civil Law (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016 (Bill No. 38/2016 published on 7 November 2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|1 March 2017|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
