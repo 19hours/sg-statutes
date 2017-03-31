@@ -18,7 +18,15 @@
 
 - [4 Separate legal personality](#Separate-legal-personality)
 
-- [5 Capacity and execution of documents](#Capacity-and-execution-of-documents)
+- [5 Capacity](#Capacity)
+
+- [5A Common seal](#Common-seal)
+
+- [5B Execution of deeds by limited liability partnership](#Execution-of-deeds-by-limited-liability-partnership)
+
+- [5C Alternative to sealing](#Alternative-to-sealing)
+
+- [5D Application of provisions of Companies Act](#Application-of-provisions-of-Companies-Act)
 
 - [6 Non-applicability of partnership law](#Non-applicability-of-partnership-law)
 
@@ -66,7 +74,7 @@
 
 - [23 Manager](#Manager)
 
-- [24 Annual declaration of solvency or insolvency](#Annual-declaration-of-solvency-or-insolvency)
+- [24 Annual declaration](#Annual-declaration)
 
 - [25 Accounts](#Accounts)
 
@@ -91,6 +99,40 @@
 - [31 Amendment of Fourth and Fifth Schedules](#Amendment-of-Fourth-and-Fifth-Schedules)
 
 - [32 Debt owed to partner](#Debt-owed-to-partner)
+
+[**Part VIA REGISTER OF CONTROLLERS**](#Part-VIA)
+
+- [32A Application of this Part](#Application-of-this-Part)
+
+- [32B Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [32C Meaning of "registrable"](#Meaning-of-"registrable")
+
+- [32D State of mind of corporation, unincorporated association, etc.](#State-of-mind-of-corporation-unincorporated-association-etc)
+
+- [32E Meaning of "legal privilege"](#Meaning-of-"legal-privilege")
+
+- [32F Register of controllers](#Register-of-controllers)
+
+- [32G Limited liability partnership’s duty to investigate and obtain information](#Limited-liability-partnership’s-duty-to-investigate-and-obtain-information)
+
+- [32H Limited liability partnership’s duty to keep information up‑to‑date](#Limited-liability-partnership’s-duty-to-keep-information-up‑to‑date)
+
+- [32I Limited liability partnership’s duty to correct information](#Limited-liability-partnership’s-duty-to-correct-information)
+
+- [32J Controller’s duty to provide information](#Controller’s-duty-to-provide-information)
+
+- [32K Controller’s duty to provide change of information](#Controller’s-duty-to-provide-change-of-information)
+
+- [32L Power to enforce](#Power-to-enforce)
+
+- [32M Central register of controllers](#Central-register-of-controllers)
+
+- [32N Codes of practice, etc.](#Codes-of-practice-etc)
+
+- [32O Exemption](#Exemption)
+
+- [32P Amendment of Sixth and Seventh Schedules](#Amendment-of-Sixth-and-Seventh-Schedules)
 
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
@@ -119,6 +161,8 @@
 - [38F Registrar may restore limited liability partnership deregistered by mistake](#Registrar-may-restore-limited-liability-partnership-deregistered-by-mistake)
 
 - [38G Effect of restoration](#Effect-of-restoration)
+
+- [38H Retention of books and papers upon striking off](#Retention-of-books-and-papers-upon-striking-off)
 
 - [39 False representation as to registration as limited liability partnership](#False-representation-as-to-registration-as-limited-liability-partnership)
 
@@ -181,6 +225,10 @@
 [**FOURTH SCHEDULE Receivers and managers**](#FOURTH-SCHEDULE-Receivers-and-managers)
 
 [**FIFTH SCHEDULE Winding up**](#FIFTH-SCHEDULE-Winding-up)
+
+[**SIXTH SCHEDULE Limited liability partnerships to which Part VIA does not apply**](#SIXTH-SCHEDULE)
+
+[**SEVENTH SCHEDULE Meanings of "significant control" and "significant interest"**](#SEVENTH-SCHEDULE-Meanings-of-"significant-control"-and-"significant-interest")
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -292,9 +340,15 @@ but does not include —
 
 “Registrar” means the Registrar of Limited Liability Partnerships appointed under section 3(2)(a) and includes any Deputy Registrar or Assistant Registrar appointed under section 3(2)(b);
 
-“residential address”, in relation to an individual, means the individual’s usual place of residence.
+“residential address”, in relation to an individual, means the individual’s usual place of residence;
 
 [Act 35 of 2014 wef 03/01/2016]
+
+[Act 16 of 2017 wef 31/03/2017]
+
+“solicitor” means an advocate and solicitor of the Supreme Court.
+
+[Act 16 of 2017 wef 31/03/2017]
 
 (2) Where a limited liability partnership has more than one manager —
 
@@ -346,21 +400,59 @@ NATURE OF LIMITED LIABILITY PARTNERSHIP
 
 [Jersey LLP Law 1997, Art. 2 (4); UK LLP 2000, s. 1 (2)]
 
-### Capacity and execution of documents
+### Capacity
 
 5\.—(1) A limited liability partnership shall, by its name, be capable of —
 
 (a) suing and being sued;
 
-(b) acquiring, owning, holding and developing or disposing of property, both movable and immovable;
+(b) acquiring, owning, holding and developing or disposing of property, both movable and immovable; and
 
-(c) having a common seal; and
+[Act 16 of 2017 wef 31/03/2017]
+
+(c) [Deleted by Act 16 of 2017 wef 31/03/2017]
 
 (d) doing and suffering such other acts and things as bodies corporate may lawfully do and suffer.
 
-(2) Sections 41 (except subsection (9)) and 144(1)(a) of the Companies Act (Cap. 50) shall apply to a limited liability partnership as they apply to a corporation within the meaning of that Act.
+(2) [Deleted by Act 16 of 2017 wef 31/03/2017][Act 16 of 2017 wef 31/03/2017]
 
-[Companies 1994 Ed., s. 19 (5)]
+### Common seal
+
+5A\.—(1) A limited liability partnership may have a common seal but need not have one.
+
+(2) Sections 5B and 5C apply whether a limited liability partnership has a common seal or not.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Execution of deeds by limited liability partnership
+
+5B\.—(1) A limited liability partnership may execute a document described or expressed as a deed without affixing a common seal onto the document by signature —
+
+(a) on behalf of the limited liability partnership by at least 2 partners of the limited liability partnership; or
+
+(b) on behalf of the limited liability partnership by a partner of the limited liability partnership in the presence of a witness who attests the signature.
+
+(2) A document mentioned in subsection (1) that is signed on behalf of the limited liability partnership in accordance with that subsection has the same effect as if the document were executed under the common seal of the limited liability partnership.
+
+(3) Where a document is to be signed by a person on behalf of more than one limited liability partnership, the document is not considered to be signed by that person for the purposes of subsection (1) or (2) unless the person signs the document separately in each capacity.
+
+(4) This section applies in the case of a document mentioned in subsection (1) that is executed by the limited liability partnership in the name or on behalf of another person, whether or not that person is also a limited liability partnership.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Alternative to sealing
+
+5C\. Where any written law or rule of law requires any document to be under or executed under the common seal of a limited liability partnership, or provides for certain consequences if it is not, a document satisfies that written law or rule of law if the document is signed in the manner set out in section 5B(1)(a) or (b) and (3).
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Application of provisions of Companies Act
+
+5D\.—(1) Subject to section 5C, section 41(1) to (8) of the Companies Act (Cap. 50) applies to a limited liability partnership as it applies to a corporation within the meaning of that Act.
+
+(2) Section 144(1)(a) of the Companies Act applies to a limited liability partnership as it applies to a company under that Act.
+
+[Act 16 of 2017 wef 31/03/2017]
 
 ### Non-applicability of partnership law
 
@@ -778,13 +870,17 @@ MANAGEMENT AND ADMINISTRATION
 
 [Companies 1994 Ed., ss. 145 (1), 370 (2) (b) and (c)]
 
-### Annual declaration of solvency or insolvency
+### Annual declaration
 
 24\.—(1) Every limited liability partnership shall lodge with the Registrar a declaration by one of its managers that in that manager’s opinion, the limited liability partnership either —
 
 (a) appears as at that date to be able to pay its debts as they become due in the normal course of business; or
 
 (b) does not appear as at that date to be able to pay its debts as they become due in the normal course of business.
+
+(1A) The declaration mentioned in subsection (1) must also contain such particulars of, or information concerning, the limited liability partnership as may be prescribed.
+
+[Act 16 of 2017 wef 31/03/2017]
 
 (2) The declaration referred to in subsection (1) shall be lodged not later than 15 months after the registration of the limited liability partnership and subsequently once in every calendar year at intervals of not more than 15 months.
 
@@ -815,6 +911,8 @@ MANAGEMENT AND ADMINISTRATION
 (b) in any other case, to a fine not exceeding $15,000.
 
 [Companies 1994 Ed., ss. 293 (4), 204 (3)]
+
+[Act 16 of 2017 wef 31/03/2017]
 
 ### Accounts
 
@@ -1047,6 +1145,394 @@ RECEIVERSHIP AND WINDING UP
 (2) Subsection (1) shall not apply to any sum due to a partner as repayment of a loan made in good faith by him to the limited liability partnership.
 
 [Companies 1994 Ed., s. 250 (1) (g)]
+
+## PART VIA
+
+REGISTER OF CONTROLLERS
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Application of this Part
+
+32A\.—(1) This Part applies to all limited liability partnerships other than a limited liability partnership that is set out in the Sixth Schedule.
+
+(2) The obligation to comply with this Part extends to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all entities, whether formed, constituted or carrying on business in Singapore or not.
+
+(3) This Part extends to acts done or omitted to be done outside Singapore.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Interpretation of this Part
+
+32B\. In this Part, unless the context otherwise requires —
+
+“approved exchange” means an approved exchange as defined in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+“controller” means an individual controller or a corporate controller;
+
+“corporate controller”, in relation to a limited liability partnership, means a legal entity which has a significant interest in, or significant control over, the limited liability partnership;
+
+“individual controller”, in relation to a limited liability partnership, means an individual who has a significant interest in, or significant control over, the limited liability partnership;
+
+“legal entity” means any body corporate formed or incorporated or existing in Singapore or outside Singapore and includes a foreign company;
+
+“register of controllers” or “register”, in relation to a limited liability partnership to which this Part applies, means the register that the limited liability partnership is required to keep of its registrable controllers under section 32F(1), (2) or (3);
+
+“registered filing agent” means a filing agent registered under section 28F of the Accounting and Corporate Regulatory Authority Act (Cap. 2A);
+
+“significant control”, in relation to a limited liability partnership, has the meaning given to it in the Seventh Schedule;
+
+“significant interest”, in relation to a limited liability partnership, has the meaning given to it in the Seventh Schedule.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Meaning of “registrable”
+
+32C\. For the purposes of this Part, in relation to a limited liability partnership (X), a controller (A) is registrable unless —
+
+(a) A’s significant interest in or significant control overXis only through one or more controllers (B) ofX;
+
+(b) Ais a controller ofB(or eachBif more than one); and
+
+(c) B(or eachBif more than one) is either —
+
+(i) a limited liability partnership to which this Part applies and which is required to keep a register of controllers under section 32F;
+
+(ii) a limited liability partnership set out in the Sixth Schedule;
+
+(iii) a company, or a foreign company to which Part XIA of the Companies Act (Cap. 50) applies, that is required to keep a register of controllers of companies or foreign companies under that Act;
+
+(iv) a company that is set out in the Fourteenth Schedule to the Companies Act;
+
+(v) a foreign company that is set out in the Fifteenth Schedule to the Companies Act;
+
+(vi) a corporation which shares are listed for quotation on an approved exchange; or
+
+(vii) a trustee of an express trust to which Part VII of the Trustees Act (Cap. 337) applies.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### State of mind of corporation, unincorporated association, etc.
+
+32D\.—(1) Where, in a proceeding for an offence under this Part, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
+
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of the officer’s, employee’s or agent’s actual or apparent authority; and
+
+(b) the officer, employee or agent had that state of mind,
+
+is evidence that the corporation had that state of mind.
+
+(2) Where, in a proceeding for an offence under this Part, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or the partnership engaged in that conduct within the scope of the employee’s or agent’s actual or apparent authority; and
+
+(b) the employee or agent had that state of mind,
+
+is evidence that the unincorporated association or partnership had that state of mind.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Meaning of “legal privilege”
+
+32E\.—(1) For the purposes of this Part, information or a document is subject to legal privilege if —
+
+(a) it is a communication made between a lawyer and a client, or a legal counsel acting as such and the legal counsel’s employer, in connection with the lawyer giving legal advice to the client or the legal counsel giving legal advice to the employer, as the case may be;
+
+(b) it is a communication made between 2 or more lawyers acting for a client, or 2 or more legal counsel acting as such for their employer, in connection with one or more of the lawyers giving legal advice to the client or one or more of the legal counsel giving legal advice to the employer, as the case may be;
+
+(c) it is a communication made —
+
+(i) between a client, or an employer of a legal counsel, and another person;
+
+(ii) between a lawyer acting for a client and either the client or another person; or
+
+(iii) between a legal counsel acting as such for the legal counsel’s employer and either the employer or another person,
+
+in connection with, and for the purposes of, any legal proceedings (including anticipated or pending legal proceedings) in which the client or employer, as the case may be, is or may be, or was or might have been, a party;
+
+(d) it is an item, or a document (including its contents), that is enclosed with or mentioned in any communication in paragraph (a) or (b) and that is made or prepared by any person in connection with a lawyer or legal counsel, or one or more of the lawyers or legal counsel, in either paragraph giving legal advice to the client or the employer of the legal counsel, as the case may be; or
+
+(e) it is an item, or a document (including its contents), that is enclosed with or mentioned in any communication in paragraph (c) and that is made or prepared by any person in connection with, and for the purposes of, any legal proceedings (including anticipated or pending legal proceedings) in which the client or the employer of the legal counsel, as the case may be, is or may be, or was or might have been, a party,
+
+but it is not any such communication, item or document that is made, prepared or held with the intention of furthering a criminal purpose.
+
+(2) In subsection (1) —
+
+“client”, in relation to a lawyer, includes an agent of or other person representing a client and, if a client has died, a personal representative of the client;
+
+“employer”, in relation to a legal counsel, includes —
+
+(a) if the employer is one of a number of corporations that are related to each other under section 6 of the Companies Act (Cap. 50), every corporation so related as if the legal counsel is also employed by each of the related corporations;
+
+(b) if the employer is a public agency within the meaning of section 128A(6) of the Evidence Act (Cap. 97) and the legal counsel is required as part of the legal counsel’s duties of employment or appointment to provide legal advice or assistance in connection with the application of the law or any form of resolution of legal dispute to any other public agency or agencies, the other public agency or agencies as if the legal counsel is also employed by the other public agency or each of the other public agencies; and
+
+(c) an employee or officer of the employer;
+
+“lawyer” means a solicitor or a professional legal adviser, and includes an interpreter or other person who works under the supervision of a solicitor or a professional legal adviser;
+
+“legal counsel” means a legal counsel as defined in section 3(7) of the Evidence Act, and includes an interpreter or other person who works under the supervision of a legal counsel.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Register of controllers
+
+32F\.—(1) A limited liability partnership registered under this Act on or after the appointed day must keep a register of its registrable controllers not later than 30 days after the date of the limited liability partnership’s registration.
+
+(2) A limited liability partnership registered under this Act before the appointed day must keep a register of its registrable controllers not later than 60 days after the appointed day.
+
+(3) If a limited liability partnership that is not a limited liability partnership to which this Part applies subsequently becomes a limited liability partnership to which this Part applies, the limited liability partnership must keep a register of its registrable controllers not later than 60 days after the date on which this Part applies or re‑applies to the limited liability partnership.
+
+(4) A limited liability partnership must ensure that its register —
+
+(a) contains such particulars of the limited liability partnership’s registrable individual controllers and registrable corporate controllers as may be prescribed;
+
+(b) is updated if any change to the prescribed particulars occurs; and
+
+(c) is kept in such form and at such place as may be prescribed.
+
+(5) A limited liability partnership must enter the particulars in its register and update the register within the prescribed time and in the prescribed manner.
+
+(6) A limited liability partnership must —
+
+(a) enter the particulars of any controller in its register, or update the particulars of that controller in the register, after the particulars of that controller are confirmed by the controller; or
+
+(b) if the limited liability partnership does not receive the controller’s confirmation, enter or update the particulars with a note indicating that the particulars have not been confirmed by the controller.
+
+(7) For the purposes of subsection (6)(a), the particulars of the controller to be entered, or updated, in a register must be confirmed by the controller in the prescribed manner.
+
+(8) Subject to section 32L, a limited liability partnership must not disclose, or make available for inspection, a register or any particulars contained in the register to any member of the public.
+
+(9) If a limited liability partnership fails to comply with —
+
+(a) subsection (1), (2) or (3), whichever is applicable; or
+
+(b) subsection (4), (5), (6) or (8),
+
+the limited liability partnership, and every partner of the limited liability partnership who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(10) In this section, “appointed day” means the date of commencement of section 6 of the Limited Liability Partnerships (Amendment) Act 2017.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Limited liability partnership’s duty to investigate and obtain information
+
+32G\.—(1) A limited liability partnership must take reasonable steps to find out and identify the registrable controllers of the limited liability partnership.
+
+(2) A limited liability partnership (A) —
+
+(a) must give a notice to any person (B) whomAknows or has reasonable grounds to believe is a registrable controller in relation toA, requiringB—
+
+(i) to state whetherBis or is not a registrable controller ofA;
+
+(ii) to state whetherBknows or has reasonable grounds to believe that any other person (C) is a registrable controller ofAor is likely to have that knowledge and to give such particulars ofCthat are withinB’s knowledge; and
+
+(iii) to provide such other information as may be prescribed; and
+
+(b) must give a notice to any person (D) whomAknows, or has reasonable grounds to believe knows, the identity of a person who is a registrable controller ofAor who is likely to have that knowledge, requiringD—
+
+(i) to state whetherDknows or has reasonable grounds to believe that any other person (E) is a registrable controller ofAor is likely to have that knowledge and to give such particulars ofEthat are withinD’s knowledge; and
+
+(ii) to provide such other information as may be prescribed.
+
+(3) A notice mentioned in subsection (2) —
+
+(a) must state that the addressee must comply with the notice not later than the time prescribed for compliance;
+
+(b) must be in such form, contain such particulars and be sent in such manner, as may be prescribed; and
+
+(c) must be given within such period as may be prescribed after the limited liability partnership first knows the existence of, or first has reasonable grounds to believe that there exists, a person to whom a notice must be given under that subsection.
+
+(4) Subsection (2) does not require a limited liability partnership to give notice to any person in respect of any information that is required to be stated or provided pursuant to the notice if the information was previously provided by that person or by any registered filing agent on behalf of that person.
+
+(5) If a limited liability partnership fails to comply with subsection (2) or (3), the limited liability partnership, and every partner of the limited liability partnership who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(6) An addressee of a notice under subsection (2) must comply with the notice within the time specified in the notice for compliance except that an addressee is not required to provide any information that is subject to legal privilege.
+
+(7) An addressee of a notice under subsection (2) who fails to comply with subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Limited liability partnership’s duty to keep information up‑to‑date
+
+32H\.—(1) If a limited liability partnership knows or has reasonable grounds to believe that a relevant change has occurred in the particulars of a registrable controller that are stated in the limited liability partnership’s register of controllers, the limited liability partnership must give notice to the registrable controller —
+
+(a) to confirm whether or not the change has occurred; and
+
+(b) if the change has occurred —
+
+(i) to state the date of the change; and
+
+(ii) to provide the particulars of the change.
+
+(2) A limited liability partnership must give the notice mentioned in subsection (1) within such period as may be prescribed after it first knows of the change or first has reasonable grounds to believe that the change has occurred.
+
+(3) Section 32G(3)(a) and (b) applies to a notice under this section as it applies to a notice under that section.
+
+(4) Subsection (1) does not require a limited liability partnership to give notice to any person in respect of any information that was previously provided by that person or by any registered filing agent on behalf of that person.
+
+(5) If a limited liability partnership fails to comply with subsection (1) or (2), or section 32G(3)(a) and (b) as applied by subsection (3), the limited liability partnership, and every partner of the limited liability partnership who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(6) An addressee of a notice under subsection (1) who fails to comply with the notice within the time specified in the notice for compliance shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(7) For the purposes of this section, a relevant change occurs if —
+
+(a) a person ceases to be a registrable controller in relation to the limited liability partnership; or
+
+(b) any other change occurs as a result of which the particulars of the registrable controller in the limited liability partnership’s register of controllers are incorrect or incomplete.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Limited liability partnership’s duty to correct information
+
+32I\.—(1) If a limited liability partnership knows or has reasonable grounds to believe that any of the particulars of a registrable controller that are stated in the limited liability partnership’s register is incorrect, the limited liability partnership must give notice to the registrable controller to confirm whether the particulars are correct and, if not, to provide the correct particulars.
+
+(2) A limited liability partnership must give the notice mentioned in subsection (1) within such period as may be prescribed after it first knows or first has reasonable grounds to believe that the information is incorrect.
+
+(3) Section 32G(3)(a) and (b) applies to a notice under this section as it applies to a notice under that section.
+
+(4) Subsection (1) does not require a limited liability partnership to give notice to any person in respect of any information that was previously provided by that person or by any registered filing agent on behalf of that person.
+
+(5) If a limited liability partnership fails to comply with subsection (1) or (2), or section 32G(3)(a) and (b) as applied by subsection (3), the limited liability partnership, and every partner of the limited liability partnership who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(6) An addressee of a notice under subsection (1) who fails to comply with the notice within the time specified in the notice for compliance shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Controller’s duty to provide information
+
+32J\.—(1) A person who knows or ought reasonably to know that the person is a registrable controller in relation to a limited liability partnership must —
+
+(a) notify the limited liability partnership that the person is a registrable controller in relation to the limited liability partnership;
+
+(b) state the date, to the best of the person’s knowledge, on which the person became a registrable controller in relation to the limited liability partnership; and
+
+(c) provide such other information as may be prescribed.
+
+(2) The person mentioned in subsection (1) must comply with the requirements of that subsection within such period as may be prescribed after the date on which that person first knew or ought reasonably to have known that that person was a registrable controller.
+
+(3) A person need not comply with the requirements of subsection (1) if the person has received a notice from the limited liability partnership under section 32G(2) and has complied with the requirements of the notice within the time specified in the notice for compliance.
+
+(4) If a person fails to comply with subsection (1) or (2), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Controller’s duty to provide change of information
+
+32K\.—(1) A person who is a registrable controller in relation to a limited liability partnership who knows, or ought reasonably to know, that a relevant change has occurred in the prescribed particulars of the registrable controller must notify the limited liability partnership of the relevant change —
+
+(a) stating the date that the change occurred; and
+
+(b) providing the particulars of the change.
+
+(2) The person mentioned in subsection (1) must comply with the requirements of that subsection within such period as may be prescribed after the date on which that person first knew or ought reasonably to have known of the relevant change.
+
+(3) A person need not comply with the requirements of subsection (1) if the person has received a notice from the limited liability partnership under section 32H(1) and has complied with the requirements of the notice within the time specified in the notice for compliance.
+
+(4) Any person who fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(5) For the purposes of this section, a relevant change occurs if —
+
+(a) a person ceases to be a registrable controller in relation to the limited liability partnership; or
+
+(b) there is a change in the person’s contact details or such other particulars as may be prescribed.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Power to enforce
+
+32L\.—(1) The Registrar or an officer of the Authority may —
+
+(a) require a limited liability partnership to which this Part applies to produce its register and any other document relating to that register or the keeping of that register;
+
+(b) inspect, examine and make copies of the register and any document so produced; and
+
+(c) make such inquiry as may be necessary to ascertain whether the provisions of this Part are complied with.
+
+(2) Where any register or documents as are mentioned in subsection (1) are kept in electronic form —
+
+(a) the power of the Registrar or an officer of the Authority in subsection (1)(a) to require the register or any documents to be produced includes the power to require a copy of the register or documents to be made available in legible form and subsection (1)(b) is to accordingly apply in relation to any copy so made available; and
+
+(b) the power of the Registrar or an officer of the Authority under subsection (1)(b) to inspect the register or any documents includes the power to require any person on the premises in question to give the Registrar or the officer of the Authority such assistance as the Registrar or officer may reasonably require to enable the Registrar or officer to inspect and make copies of the register or documents in legible form, and to make records of the information contained in them.
+
+(3) The powers conferred on the Registrar or an officer of the Authority under subsections (1) and (2) may be exercised by a public agency to enable the public agency to administer or enforce any written law.
+
+(4) Any person who fails to comply with any requirement imposed under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(5) This section applies in addition to any power of the Registrar or an inspector under section 43 or 44.
+
+(6) In this section, “public agency” means a public officer, an Organ of State or a ministry or department of the Government, or a public authority established by or under any public Act for a public purpose or a member, an officer or an employee, or any department, thereof.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Central register of controllers
+
+32M\.—(1) This section applies where the Minister, by notification in theGazette, directs the Registrar to maintain a central register of controllers of limited liability partnerships.
+
+(2) Where the Minister has directed the Registrar to maintain a central register of controllers of limited liability partnerships under subsection (1) —
+
+(a) the Registrar must keep a central register of controllers consisting of the particulars contained in the registers kept by limited liability partnerships to which this Part applies; and
+
+(b) the Registrar may require any limited liability partnership to which this Part applies to lodge with the Registrar —
+
+(i) all particulars contained in the limited liability partnership’s register maintained under section 32F; and
+
+(ii) all updates to the limited liability partnership’s register that occur after the lodgment of the particulars under sub‑paragraph (i).
+
+(3) A lodgment mentioned in subsection (2)(b) must be made in such form and manner, and within such time, as may be prescribed.
+
+(4) If a limited liability partnership fails to comply with subsection (2)(b) or (3), the limited liability partnership, and every partner of the limited liability partnership who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(5) Except in such circumstances as may be prescribed, the Registrar must not disclose, or make available for inspection, the central register of controllers of limited liability partnerships kept by the Registrar under this section to any member of the public.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Codes of practice, etc.
+
+32N\.—(1) The Registrar may issue one or more codes, guidance, guidelines, policy statements and practice directions for all or any of the following purposes:
+
+(a) to provide guidance to limited liability partnerships in relation to the operation or administration of any provision of this Part;
+
+(b) generally for carrying out the purposes of this Part.
+
+(2) The Registrar may publish any such code, guidance, guideline, policy statement or practice direction, in such manner as the Registrar thinks fit.
+
+(3) The Registrar may revoke, vary, revise or amend the whole or any part of any code, guidance, guideline, policy statement or practice direction issued under this section in such manner as the Registrar thinks fit.
+
+(4) Where amendments are made under subsection (3) —
+
+(a) the other provisions of this section apply, with the necessary modifications, to such amendments as they apply to the code, guidance, guideline, policy statement and practice direction; and
+
+(b) any reference in this Act or any other written law to the code, guidance, guideline, policy statement or practice direction however expressed is to be treated, unless the context otherwise requires, as a reference to the code, guidance, guideline, policy statement or practice direction as so amended.
+
+(5) The failure by any person to comply with any of the provisions of a code, guidance, guideline, policy statement or practice direction issued under this section that applies to that person does not of itself render that person liable to criminal proceedings but any such failure may, in any proceedings whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or to negate any liability which is in question in the proceedings.
+
+(6) Any code, guidance, guideline, policy statement or practice direction issued under this section —
+
+(a) may be of general or specific application; and
+
+(b) may specify that different provisions apply to different circumstances or provide for different cases or classes of cases.
+
+(7) It is not necessary to publish any code, guidance, guideline, policy statement or practice direction issued under this section in theGazette.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Exemption
+
+32O\. The Minister may, by order in theGazette, exempt any person or class of persons from all or any of the provisions of this Part.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+### Amendment of Sixth and Seventh Schedules
+
+32P\.—(1) The Minister may, by order in theGazette, amend —
+
+(a) the Sixth Schedule in relation to the list of limited liability partnerships to which this Part does not apply; and
+
+(b) the Seventh Schedule in relation to the meanings of “significant control” and “significant interest”.
+
+(2) All orders made under this section are to be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 16 of 2017 wef 31/03/2017]
 
 ## PART VII
 
@@ -1433,6 +1919,14 @@ the Registrar may publish in theGazetteand send to the limited liability partner
 (4) An application to the High Court for such directions or orders may be made any time within 3 years after the date of restoration of the name of the limited liability partnership to the register.
 
 [Act 35 of 2014 wef 03/01/2016]
+
+### Retention of books and papers upon striking off
+
+38H\.—(1) Where the name of a limited liability partnership has been struck off and the limited liability partnership dissolved under section 38 or 38A, a person who was a partner or manager of the limited liability partnership immediately before the limited liability partnership was dissolved must ensure that all books and papers of the limited liability partnership are retained for a period of at least 5 years after the date on which the limited liability partnership was dissolved.
+
+(2) A person who breaches subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[Act 16 of 2017 wef 31/03/2017]
 
 ### False representation as to registration as limited liability partnership
 
@@ -2273,7 +2767,9 @@ Circumstances in which limited liability partnership may be wound up by Court
 
 (c) it is proved to the satisfaction of the Court that the limited liability partnership is unable to pay its debts; and in determining whether a limited liability partnership is unable to pay its debts the Court shall take into account the contingent and prospective liabilities of the limited liability partnership; or
 
-(d) the limited liability partnership fails to lodge a declaration of solvency or insolvency as required under section 24, until such time as a declaration referred to in section 24(1)(a) is lodged.
+(d) the limited liability partnership fails to lodge a declaration as required under section 24, until such time as a declaration referred to in section 24(1)(a) is lodged.
+
+[Act 16 of 2017 wef 31/03/2017]
 
 (3) For the purpose of sub-paragraph (1)(f), a certificate issued by the Minister charged with the responsibility for internal security stating that he is satisfied that the limited liability partnership referred to in the certificate is being used for purposes against national security or interest shall be conclusive evidence that the limited liability partnership is being used for such purposes.
 
@@ -2575,7 +3071,9 @@ Powers of liquidator
 
 (c) sell the immovable and movable property and things in action of the limited liability partnership by public auction, public tender or private contract with power to transfer the whole thereof to any person or limited liability partnership or to sell the same in parcels;
 
-(d) do all acts and execute in the name and on behalf of the limited liability partnership all deeds, receipts and other documents and for that purpose use when necessary the limited liability partnership’s seal;
+(d) do all acts and execute in the name and on behalf of the limited liability partnership all deeds, receipts and other documents and for that purpose use when necessary the limited liability partnership’s seal, if any;
+
+[Act 16 of 2017 wef 31/03/2017]
 
 (e) prove, rank and claim in the bankruptcy of any partner or debtor for any balance against his estate, and receive dividends in the bankruptcy in respect of that balance as a separate debt due from the bankrupt, and rateably with the other separate creditors;
 
@@ -3187,15 +3685,19 @@ Books of limited liability partnership
 
 67.—(1) Where a limited liability partnership is being wound up, all books and papers of the limited liability partnership and of the liquidator that are relevant to the affairs of the limited liability partnership at or subsequent to the commencement of the winding up of the limited liability partnership shall, as between the partners of the limited liability partnership, be prima facie evidence of the truth of all matters purporting to be therein recorded.
 
-(2) When a limited liability partnership has been wound up the liquidator shall retain the books and papers referred to in sub-paragraph (1) for a period of 2 years from the date of dissolution of the limited liability partnership and at the expiration of that period may destroy them.
+(2) When a limited liability partnership has been wound up the liquidator shall retain the books and papers referred to in sub-paragraph (1) for a period of 5 years from the date of dissolution of the limited liability partnership and at the expiration of that period may destroy them.
 
-(3) Notwithstanding sub-paragraph (2), when a limited liability partnership has been wound up, the books and papers referred to in sub-paragraph (1) may be destroyed within a period of 2 years after the dissolution of the limited liability partnership —
+[Act 16 of 2017 wef 31/03/2017]
+
+(3) Notwithstanding sub-paragraph (2), when a limited liability partnership has been wound up, the books and papers referred to in sub-paragraph (1) may be destroyed within a period of 5 years after the dissolution of the limited liability partnership —
 
 (a) in the case of a winding up by the Court, in accordance with the directions of the Court;
 
-(b) in the case of a partners’ voluntary winding up, as the partners by resolution direct; and
+(b) [Deleted by Act 16 of 2017 wef 31/03/2017]
 
-(c) in the case of a creditors’ voluntary winding up, as the committee of inspection, or, if there is no such committee, as the creditors of the limited liability partnership direct.
+(c) [Deleted by Act 16 of 2017 wef 31/03/2017]
+
+[Act 16 of 2017 wef 31/03/2017]
 
 (4) No responsibility shall rest on the limited liability partnership or the liquidator by reason of any such book or paper not being forthcoming to any person claiming to be interested therein if such book or paper has been destroyed in accordance with this paragraph.
 
@@ -3821,6 +4323,110 @@ Accounts and audit
 
 [Bankruptcy 2000 Ed., ss. 98-104; Companies 1994 Ed., ss. 11, 253-328, 331-343, 345-349; Companies (ABAP) Reg., regs 2, 4, 5, 6-8; Delaware RUPA, s. 15-309; UK Insolvency 1986, ss. 239, 241, 249, 435]
 
+SIXTH SCHEDULE
+
+Sections 32A(1), 32C and 32P(1)
+
+Limited liability partnerships
+
+
+
+
+to which Part VIA does not apply
+
+1. Part VIA does not apply to any of the following limited liability partnerships:
+
+(a) a limited liability partnership that is a Singapore financial institution;
+
+(b) a limited liability partnership which partners consist only of —
+
+(i) a public company which shares are listed for quotation on an approved exchange in Singapore;
+
+(ii) a company or foreign company that is a Singapore financial institution;
+
+(iii) a company that is wholly owned by the Government;
+
+(iv) a company that is wholly owned by a statutory body established by or under a public Act for a public purpose;
+
+(v) a company that is a wholly‑owned subsidiary of a company mentioned in sub‑paragraph (i), (ii), (iii) or (iv);
+
+(vi) a foreign company that is a wholly‑owned subsidiary of a foreign company that is a Singapore financial institution mentioned in sub‑paragraph (ii); or
+
+(vii) a company or foreign company which shares are listed on a securities exchange in a country or territory outside Singapore and which is subject to —
+
+(A) regulatory disclosure requirements; and
+
+(B) requirements relating to adequate transparency in respect of its beneficial owners,
+
+imposed through stock exchange rules, law or other enforceable means.
+
+2. For the purposes of paragraph 1, a Singapore financial institution is —
+
+(a) any financial institution that is licensed, approved, registered (including a fund management company registered under paragraph 5(1)(i) of the Second Schedule to the Securities and Futures (Licensing and Conduct of Business) Regulations (Cap. 289, Rg 10)) or regulated by the Monetary Authority of Singapore but does not include —
+
+(i) any holder of a stored value facility as defined in section 2(1) of the Payment Systems (Oversight) Act (Cap. 222A); and
+
+(ii) a person (other than a person mentioned in sub‑paragraphs (b) and (c)) who is exempted from licensing, approval or regulation by the Monetary Authority of Singapore under any Act administered by the Monetary Authority of Singapore, including a private trust company exempted from licensing under section 15 of the Trust Companies Act (Cap. 336) read with regulation 4 of the Trust Companies (Exemption) Regulations (Cap. 336, Rg 1);
+
+(b) any person exempted under section 23(1)(f) of the Financial Advisers Act (Cap. 110) read with regulation 27(1)(d) of the Financial Advisers Regulations (Cap. 110, Rg 2); or
+
+(c) any person exempted under section 99(1)(h) of the Securities and Futures Act (Cap. 289) read with paragraph 7(1)(b) of the Second Schedule to the Securities and Futures (Licensing and Conduct of Business) Regulations.
+
+[Act 16 of 2017 wef 31/03/2017]
+
+SEVENTH SCHEDULE
+
+Sections 32B and 32P(1)
+
+Meanings of “significant control”
+
+
+
+
+and “significant interest”
+
+Definition of “significant control”
+
+1. For the purposes of Part VIA, an individual or a legal entity has significant control over a limited liability partnership if the individual or legal entity —
+
+(a) holds the right, directly or indirectly, to appoint or remove the manager of the limited liability partnership, or if the limited liability partnership has more than one manager, a majority of the managers of the limited liability partnership;
+
+(b) holds the right, directly or indirectly, to appoint or remove the persons who hold a majority of the voting rights at meetings of the management body of the limited liability partnership;
+
+(c) holds, directly or indirectly, more than 25% of the rights to vote on those matters that are to be decided upon by a vote of the partners of the limited liability partnership; or
+
+(d) has the right to exercise, or actually exercises, significant influence or control over the limited liability partnership.
+
+Definition of “significant interest”
+
+2. For the purposes of Part VIA, an individual or a legal entity has a significant interest in a limited liability partnership if the individual or legal entity holds, directly or indirectly —
+
+(a) a right to share in more than 25% of the capital, or more than 25% of the profits, of the limited liability partnership; or
+
+(b) a right to share more than 25% of any surplus assets of the limited liability partnership on a winding up.
+
+Supplementary provisions
+
+3.—(1) If 2 or more persons jointly hold a right, each of the persons is considered for the purposes of this Schedule as holding that right.
+
+(2) If the rights held by a person and the rights held by another person are the subject of a joint arrangement between those persons, each of them is treated for the purposes of this Schedule as holding the combined rights of both of them.
+
+(3) A right held by a person as nominee for another is to be considered for the purposes of this Schedule as held by the other (and not by the nominee).
+
+(4) In this paragraph —
+
+(a) a “joint arrangement” is an arrangement between holders of rights that they will exercise all or substantially all their rights jointly in a way that is pre‑determined by the arrangement; and
+
+(b) “arrangement” includes —
+
+(i) any scheme, agreement or understanding, whether or not it is legally enforceable; and
+
+(ii) any convention, custom or practice of any kind,
+
+but something does not count as an arrangement unless there is at least some degree of stability about it (whether by its nature or terms, the time it has been in existence or otherwise).
+
+[Act 16 of 2017 wef 31/03/2017]
+
 ## LEGISLATIVE SOURCE KEY
 
 Limited Liability Partnerships Act
@@ -3965,6 +4571,10 @@ This Legislative History is provided for the convenience of users of the Limited
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|13.|**Act 16 of 2017—Limited Liability Partnerships (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017 (Bill No. 14/2017 published on 28 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|31 March 2017|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
