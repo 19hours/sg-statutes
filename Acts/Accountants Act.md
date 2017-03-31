@@ -324,6 +324,10 @@ PRELIMINARY
 
 [Act 35 of 2014 wef 03/01/2016]
 
+(1A) In this Act, a reference to improper conduct by, of or on the part of a public accountant, an accounting corporation, an accounting firm or an accounting LLP includes any breach of any code of professional conduct and ethics prescribed by rules made under section 64, including any code of professional conduct and ethics adopted by reference in those rules.
+
+[Act 15 of 2017 wef 31/03/2017]
+
 (2) For the purposes of sections 11(6), 15(6), 20(1), (3) and (4), 31(6) and 48(3), (4) and (5), any reference to the Minister includes a reference to such Minister of State for his Ministry who is authorised by the Minister for the purpose of hearing an appeal under that section.
 
 [Act 35 of 2014 wef 03/01/2016]
@@ -2038,7 +2042,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (j) to prescribe anything which may be prescribed or is required to be prescribed under this Act.
 
-(3) In making rules for the purpose of subsection (2)(e) and (f), the Authority may adopt any standard, method, procedure or code of professional conduct or ethics issued or applied by any professional accountancy body or organisation, whether in Singapore or elsewhere.
+(3) In making rules for the purpose of subsection (2)(e), the Authority may adopt by reference (whether wholly or in part) any standard, method or procedure issued or applied by any professional accountancy body or organisation, whether in Singapore or elsewhere.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+(4) In making rules for the purpose of subsection (2)(f), the Authority may adopt by reference (whether wholly or in part) any code of professional conduct and ethics issued or applied by any professional accountancy body or organisation, whether in Singapore or elsewhere.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+(5) In this section, a reference to a code of professional conduct and ethics includes any code or ethics pronouncement that seeks to give effect (whether wholly or in part) to the recommendations issued or adopted by the intergovernmental body known as the Financial Action Task Force relating to the prevention of money laundering and the financing of terrorism.
+
+[Act 15 of 2017 wef 31/03/2017]
 
 ### Service of documents on public accountant
 
@@ -2238,3 +2252,7 @@ This Legislative History is provided for the convenience of users of the Account
 |||(Bill No. 24/2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|3 January 2016|
+|9.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|31 March 2017|
