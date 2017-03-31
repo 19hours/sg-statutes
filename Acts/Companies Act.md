@@ -144,6 +144,12 @@
 
 - [41 Ratification by company of contracts made before incorporation](#Ratification-by-company-of-contracts-made-before-incorporation)
 
+- [41A Common seal](#Common-seal)
+
+- [41B Execution of deeds by company](#Execution-of-deeds-by-company)
+
+- [41C Alternative to sealing](#Alternative-to-sealing)
+
 - [42 (Repealed)](#Repealed)
 
 - [42A Company or foreign company with a charitable purpose which contravenes the Charities Act or regulations made thereunder may be wound up or struck off the register](#Company-or-foreign-company-with-a-charitable-purpose-which-contravenes-the-Charities-Act-or-regulations-made-thereunder-may-be-wound-up-or-struck-off-the-register)
@@ -1174,6 +1180,8 @@
 
 - [344G Effect of restoration](#Effect-of-restoration)
 
+- [344H Retention of books and papers upon striking off](#Retention-of-books-and-papers-upon-striking-off)
+
 - [345 Official Receiver to act as representative of defunct company in certain events](#Official-Receiver-to-act-as-representative-of-defunct-company-in-certain-events)
 
 - [346 Outstanding assets of defunct company to vest in Official Receiver](#Outstanding-assets-of-defunct-company-to-vest-in-Official-Receiver)
@@ -1264,21 +1272,55 @@
 
 - [378 Restriction on use of certain names](#Restriction-on-use-of-certain-names)
 
-- [379 Branch register](#Branch-register)
+- [379 Register of members of foreign companies](#Register-of-members-of-foreign-companies)
 
-- [380 Registration of shares in branch register](#Registration-of-shares-in-branch-register)
+- [380 Contents of register and index of members of foreign companies](#Contents-of-register-and-index-of-members-of-foreign-companies)
 
-- [381 Removal of shares from branch register](#Removal-of-shares-from-branch-register)
+- [381 Register to be prima facie evidence](#Register-to-be-prima-facie-evidence)
 
-- [382 Index of members, inspection and closing of branch registers](#Index-of-members-inspection-and-closing-of-branch-registers)
+- [382 Certificate as to shareholding](#Certificate-as-to-shareholding)
 
-- [383 Application of provisions of this Act relating to transfer](#Application-of-provisions-of-this-Act-relating-to-transfer)
+- [383 No civil proceedings to be brought in respect of bearer shares or share warrants](#No-civil-proceedings-to-be-brought-in-respect-of-bearer-shares-or-share-warrants)
 
-- [384 Branch register to be prima facie evidence](#Branch-register-to-be-prima-facie-evidence)
+- [384 Application of provisions of Act](#Application-of-provisions-of-Act)
 
-- [385 Certificate as to shareholding](#Certificate-as-to-shareholding)
+- [385 (Repealed)](#Repealed)
 
 - [386 Penalties](#Penalties)
+
+[**Part XIA REGISTER OF CONTROLLERS AND NOMINEE DIRECTORS OF COMPANIES**](#Part-XIA)
+
+- [386AA Application of this Part](#Application-of-this-Part)
+
+- [386AB Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [386AC Meaning of "registrable"](#Meaning-of-"registrable")
+
+- [386AD State of mind of corporation, unincorporated association, etc.](#State-of-mind-of-corporation-unincorporated-association-etc)
+
+- [386AE Meaning of "legal privilege"](#Meaning-of-"legal-privilege")
+
+- [386AF Register of controllers](#Register-of-controllers)
+
+- [386AG Duty of company and foreign company to investigate and obtain information](#Duty-of-company-and-foreign-company-to-investigate-and-obtain-information)
+
+- [386AH Duty of company and foreign company to keep information up‑to‑date](#Duty-of-company-and-foreign-company-to-keep-information-up‑to‑date)
+
+- [386AI Duty of company and foreign company to correct information](#Duty-of-company-and-foreign-company-to-correct-information)
+
+- [386AJ Controller’s duty to provide information](#Controller’s-duty-to-provide-information)
+
+- [386AK Controller’s duty to provide change of information](#Controller’s-duty-to-provide-change-of-information)
+
+- [386AL Nominee directors](#Nominee-directors)
+
+- [386AM Power to enforce](#Power-to-enforce)
+
+- [386AN Central register of controllers](#Central-register-of-controllers)
+
+- [386AO Codes of practice, etc.](#Codes-of-practice-etc)
+
+- [386AP Exemption](#Exemption)
 
 [**Part XII GENERAL**](#Part-XII)
 
@@ -1379,6 +1421,12 @@
 [**TWELFTH SCHEDULE Contents of directors’ statement**](#TWELFTH-SCHEDULE-Contents-of-directors’-statement)
 
 [**THIRTEENTH SCHEDULE Criteria for small company and small group**](#THIRTEENTH-SCHEDULE-Criteria-for-small-company-and-small-group)
+
+[**FOURTEENTH SCHEDULE Companies to which Part XIA does not apply**](#FOURTEENTH-SCHEDULE)
+
+[**FIFTEENTH SCHEDULE Foreign companies to which Part XIA does not apply**](#FIFTEENTH-SCHEDULE)
+
+[**SIXTEENTH SCHEDULE Meanings of "significant control" and "significant interest"**](#SIXTEENTH-SCHEDULE-Meanings-of-"significant-control"-and-"significant-interest")
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -1809,7 +1857,7 @@ sections 410-411.
 
 as the case may require; and
 
-(b) in relation to a foreign company, a branch register of members of the company kept in pursuance of section 379;
+(b) [Deleted by Act 15 of 2017 wef 31/03/2017]
 
 “business day” means any day other than a Saturday, Sunday or public holiday;
 
@@ -2229,8 +2277,6 @@ shall be treated as held or exercisable by that other corporation;
 
 [Act 36 of 2014 wef 03/01/2016]
 
-[UK, 1948, s. 154; Aust., 1961, s. 6]
-
 ### Definition of ultimate holding company
 
 5A\. For the purposes of this Act, a corporation is the ultimate holding company of another corporation if —
@@ -2501,13 +2547,27 @@ for the proper administration of this Act.
 
 (7) The Minister may, by notification in theGazette, add to, vary or amend —
 
-(a) the Twelfth Schedule in relation to the contents of the directors’ statement which is required to accompany the financial statements under section 201(16); and
+(a) the Twelfth Schedule in relation to the contents of the directors’ statement which is required to accompany the financial statements under section 201(16);
 
-(b) the Thirteenth Schedule in relation to the criteria for determining whether a company is a small company for the purposes of section 205C.
+[Act 15 of 2017 wef 31/03/2017]
+
+(b) the Thirteenth Schedule in relation to the criteria for determining whether a company is a small company for the purposes of section 205C;
 
 [Act 36 of 2014 wef 03/01/2016]
 
-[Aust., 1961, s. 7]
+[Act 15 of 2017 wef 31/03/2017]
+
+(c) the Fourteenth Schedule in relation to the list of companies to which Part XIA does not apply;
+
+[Act 15 of 2017 wef 31/03/2017]
+
+(d) the Fifteenth Schedule in relation to the list of foreign companies registered under Division 2 of Part XI to which Part XIA does not apply; and
+
+[Act 15 of 2017 wef 31/03/2017]
+
+(e) the Sixteenth Schedule in relation to the meanings of “significant control” and “significant interest”.
+
+[Act 15 of 2017 wef 31/03/2017]
 
 ### Inspection of books of corporation
 
@@ -2861,8 +2921,6 @@ he may refuse to register or receive the document and request that the document 
 
 [Act 36 of 2014 wef 03/01/2016]
 
-[Aust., 1961, s. 12]
-
 ### Electronic transaction system
 
 12A\.—(1) The Registrar may —
@@ -3181,11 +3239,13 @@ as the case may be, and where applicable, that it is a private company.
 
 ### Effect of incorporation
 
-(5) On and from the date of incorporation specified in the notice issued under subsection (4) but subject to this Act, the subscribers to the constitution together with such other persons as may from time to time become members of the company shall be a body corporate by the name contained in the constitution capable immediately of exercising all the functions of an incorporated company and of suing and being sued and having perpetual succession and a common seal with power to hold land but with such liability on the part of the members to contribute to the assets of the company in the event of its being wound up as is provided by this Act.
+(5) On and from the date of incorporation specified in the notice issued under subsection (4) but subject to this Act, the subscribers to the constitution together with such other persons as may from time to time become members of the company shall be a body corporate by the name contained in the constitution capable immediately of exercising all the functions of an incorporated company and of suing and being sued and having perpetual succession with power to hold land but with such liability on the part of the members to contribute to the assets of the company in the event of its being wound up as is provided by this Act.
 
 [12/2002]
 
 [Act 36 of 2014 wef 03/01/2016]
+
+[Act 15 of 2017 wef 31/03/2017]
 
 ### Members of company
 
@@ -4552,6 +4612,38 @@ and any contract so made shall be effectual in law and shall bind the corporatio
 (9) Subsection (8) shall also apply to every instrument under seal executed before 15th May 1987 on behalf of any corporation by a donee of a power or an agent of that corporation whose authority was not under seal.
 
 [13/87]
+
+### Common seal
+
+41A\.—(1) A company may have a common seal but need not have one.
+
+(2) Sections 41B and 41C apply whether a company has a common seal or not.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Execution of deeds by company
+
+41B\.—(1) A company may execute a document described or expressed as a deed without affixing a common seal onto the document by signature —
+
+(a) on behalf of the company by a director of the company and a secretary of the company;
+
+(b) on behalf of the company by at least 2 directors of the company; or
+
+(c) on behalf of the company by a director of the company in the presence of a witness who attests the signature.
+
+(2) A document mentioned in subsection (1) that is signed on behalf of the company in accordance with that subsection has the same effect as if the document were executed under the common seal of the company.
+
+(3) Where a document is to be signed by a person on behalf of more than one company, the document is not considered to be signed by that person for the purposes of subsection (1) or (2) unless the person signs the document separately in each capacity.
+
+(4) This section applies in the case of a document mentioned in subsection (1) that is executed by the company in the name or on behalf of another person, whether or not that person is also a company.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Alternative to sealing
+
+41C\. Where any written law or rule of law requires any document to be under or executed under the common seal of a company, or provides for certain consequences if it is not, a document satisfies that written law or rule of law if the document is signed in the manner set out in section 41B(1)(a), (b) or (c) and (3).
+
+[Act 15 of 2017 wef 31/03/2017]
 
 Prohibition of carrying on business with fewer than statutory minimum of members
 
@@ -8004,7 +8096,9 @@ Office and name
 
 144\.—(1) The name of a company shall appear in legible romanised letters on —
 
-(a) its seal; and
+(a) its seal, if any; and
+
+[Act 15 of 2017 wef 31/03/2017]
 
 (b) all business letters, statements of account, invoices, official notices, publications, bills of exchange, promissory notes, indorsements, cheques, orders, receipts and letters of credit of or purporting to be issued or signed by or on behalf of the company.
 
@@ -10898,15 +10992,25 @@ the person aggrieved or any member or the public company may apply to the Court 
 
 ### Limitation of liability of trustee, etc., registered as holder of shares
 
-195\.—(1) Any trustee, executor or administrator of the estate of any deceased person who was registered in a register or branch register kept in Singapore as the holder of a share in any corporation may become registered as the holder of that share as trustee, executor or administrator of that estate and shall in respect of that share be subject to the same liabilities and no more as he would have been subject to if the share had remained registered in the name of the deceased person.
+195\.—(1) Any trustee, executor or administrator of the estate of any deceased person who was registered in a register as the holder of a share in any company may become registered as the holder of that share as trustee, executor or administrator of that estate and shall in respect of that share be subject to the same liabilities and no more as he would have been subject to if the share had remained registered in the name of the deceased person.
 
-(2) Any trustee, executor or administrator of the estate of any deceased person who was beneficially entitled to a share in any corporation being a share registered in a register or branch register kept in Singapore may with the consent of the corporation and of the registered holder of that share become registered as the holder of the share as trustee, executor or administrator of that estate and shall in respect of the share be subject to the same liabilities and no more as he would have been subject to if the share had been registered in the name of the deceased person.
+[Act 15 of 2017 wef 31/03/2017]
 
-(3) Shares in a corporation registered in a register or branch register kept in Singapore and held by a trustee in respect of a particular trust shall at the request of the trustee be marked in the register or branch register in such a way as to identify them as being held in respect of the trust.
+(2) Any trustee, executor or administrator of the estate of any deceased person who was beneficially entitled to a share in any company being a share registered in a register may with the consent of the company and of the registered holder of that share become registered as the holder of the share as trustee, executor or administrator of that estate and shall in respect of the share be subject to the same liabilities and no more as he would have been subject to if the share had been registered in the name of the deceased person.
 
-(4) Subject to this section, no notice of any trust expressed, implied or constructive shall be entered in a register or branch register or be receivable by the Registrar and no liabilities shall be affected by anything done in pursuance of subsection (1), (2) or (3) or pursuant to the law of any other place which corresponds to this section and the corporation concerned shall not be affected by notice of any trust by anything so done.
+[Act 15 of 2017 wef 31/03/2017]
+
+(3) Shares in a company registered in a register and held by a trustee in respect of a particular trust shall at the request of the trustee be marked in the register in such a way as to identify them as being held in respect of the trust.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+(4) Subject to this section, no notice of any trust expressed, implied or constructive shall be entered in a register or be receivable by the Registrar and no liabilities shall be affected by anything done in pursuance of subsection (1), (2) or (3) or pursuant to the law of any other place which corresponds to this section and the company concerned shall not be affected by notice of any trust by anything so done.
 
 [UK, 1948, s. 117; Aust., 1961, s. 156]
+
+[Act 15 of 2017 wef 31/03/2017]
+
+[Act 15 of 2017 wef 31/03/2017]
 
 ### Branch registers
 
@@ -11046,7 +11150,9 @@ Annual return
 
 (a) shall be in such form;
 
-(b) shall contain such particulars; and
+(b) shall contain such particulars and information; and
+
+[Act 15 of 2017 wef 31/03/2017]
 
 (c) shall be accompanied by such documents,
 
@@ -12069,6 +12175,18 @@ he shall immediately report the matter in writing to the Registrar.
 [Aust., 1961, s. 167]
 
 [Act 36 of 2014 wef 01/07/2015]
+
+(11) The reference to the registers of —
+
+(a) a company in subsection (5);
+
+(b) a subsidiary corporation of a parent company in subsection (6); or
+
+(c) a corporation in subsection (10),
+
+does not include any register kept by the company, subsidiary corporation of a parent company or corporation, as the case may be, under Part XIA.
+
+[Act 15 of 2017 wef 31/03/2017]
 
 ### Auditors and other persons to enjoy qualified privilege in certain circumstances
 
@@ -14915,7 +15033,9 @@ and every liquidator who makes default in complying with this section shall be g
 
 (c) sell the immovable and movable property and things in action of the company by public auction, public tender or private contract with power to transfer the whole thereof to any person or company or to sell the same in parcels;
 
-(d) do all acts and execute in the name and on behalf of the company all deeds, receipts and other documents and for that purpose use when necessary the company’s seal;
+(d) do all acts and execute in the name and on behalf of the company all deeds, receipts and other documents and for that purpose use when necessary the company’s seal, if any;
+
+[Act 15 of 2017 wef 31/03/2017]
 
 (e) prove, rank and claim in the bankruptcy of any contributory or debtor for any balance against his estate, and receive dividends in the bankruptcy in respect of that balance as a separate debt due from the bankrupt, and rateably with the other separate creditors;
 
@@ -15723,19 +15843,21 @@ General
 
 320\.—(1) Where a company is being wound up, all books and papers of the company and of the liquidator that are relevant to the affairs of the company at or subsequent to the commencement of the winding up of the company shall, as between the contributories of the company, be prima facie evidence of the truth of all matters purporting to be therein recorded.
 
-(2) When a company has been wound up the liquidator shall retain the books and papers referred to in subsection (1) for a period of 2 years from the date of dissolution of the company and at the expiration of that period may destroy them.
+(2) When a company has been wound up the liquidator shall retain the books and papers referred to in subsection (1) for a period of 5 years from the date of dissolution of the company and at the expiration of that period may destroy them.
 
 [9/2003]
 
-(3) Notwithstanding subsection (2), when a company has been wound up the books and papers referred to in subsection (1) may be destroyed within a period of 2 years after the dissolution of the company —
+[Act 15 of 2017 wef 31/03/2017]
+
+(3) Notwithstanding subsection (2), when a company has been wound up the books and papers referred to in subsection (1) may be destroyed within a period of 5 years after the dissolution of the company —
 
 (a) in the case of a winding up by the Court, in accordance with the directions of the Court;
 
-(b) in the case of a members’ voluntary winding up, as the company by resolution directs; and
+(b) [Deleted by Act 15 of 2017 wef 31/03/2017]
 
-(c) in the case of a creditors’ voluntary winding up, as the committee of inspection, or, if there is no such committee, as the creditors of the company direct.
+(c) [Deleted by Act 15 of 2017 wef 31/03/2017]
 
-[9/2003]
+[Act 15 of 2017 wef 31/03/2017]
 
 (4) No responsibility shall rest on the company or the liquidator by reason of any such book or paper not being forthcoming to any person claiming to be interested therein if such book or paper has been destroyed in accordance with this section.
 
@@ -16403,6 +16525,14 @@ he may publish in theGazetteand send to the company or the liquidator, if any, a
 
 [Act 36 of 2014 wef 03/01/2016]
 
+### Retention of books and papers upon striking off
+
+344H\.—(1) Where the name of a company has been struck off and the company dissolved under section 344 or 344A, a person who was an officer of the company immediately before the company was dissolved must ensure that all books and papers of the company are retained for a period of at least 5 years after the date on which the company was dissolved.
+
+(2) An officer of a company who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[Act 15 of 2017 wef 31/03/2017]
+
 ### Official Receiver to act as representative of defunct company in certain events
 
 345\.—(1) Where, after a company has been dissolved, it is proved to the satisfaction of the Official Receiver —
@@ -17016,7 +17146,9 @@ that would not be required to be furnished if the company were a public company 
 
 (b) an unaudited profit and loss account with respect to the company’s operations in Singapore.
 
-(10) The Registrar may, on application by a foreign company and payment of the prescribed application fee, extend the period referred to in subsection (3) within which the company is required to comply with any or all of the requirements of subsection (7).
+(10) The Registrar may, on application by a foreign company and payment of the prescribed application fee, extend the period referred to in subsection (3) within which the company is required to comply with any or all of the requirements of subsections (3)(b) and (7).
+
+[Act 15 of 2017 wef 31/03/2017]
 
 (11) A statement and profit and loss account shall be deemed to have been duly audited for the purposes of subsection (7) if it is accompanied by a report by an accounting entity appointed to provide auditing services in respect of the foreign company’s operations in Singapore which complies, in so far as is practicable, with section 207.
 
@@ -17354,73 +17486,93 @@ may, within 30 days after being informed of the Registrar’s decision, appeal t
 
 [Act 36 of 2014 wef 03/01/2016]
 
-### Branch register
+### Register of members of foreign companies
 
-379\.—(1) Subject to this section, a foreign company which has a share capital and has any member who is resident in Singapore shall keep at its registered office in Singapore or at some other place in Singapore a branch register for the purpose of registering shares of members resident in Singapore who apply to have the shares registered therein.
+379\.—(1) A foreign company registered under this Division on or after the appointed day must, within 30 days after it is registered —
 
-(2) The company shall not be obliged to keep a branch register pursuant to subsection (1) until after the expiration of 2 months from the receipt by it of an application in writing by a member resident in Singapore for registration in its branch register in Singapore of the shares held by the member.
+(a) keep a register of its members at its registered office in Singapore or at some other place in Singapore; and
 
-(3) If default is made in complying with subsection (1), the foreign company, every officer of the company who is in default and every authorised representative of the company who knowingly and wilfully authorises or permits the default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
+(b) lodge a notice with the Registrar specifying the address at which the register of members is kept.
 
-[15/84]
+(2) A foreign company registered under this Division before the appointed day must, within 60 days after the appointed day —
 
-[Act 36 of 2014 wef 03/01/2016]
+(a) keep a register of its members at its registered office in Singapore or at some other place in Singapore; and
 
-(4) This section shall not apply to any foreign company which by its constitution prohibits any invitation to the public to subscribe for shares in the company.
+(b) lodge a notice with the Registrar specifying the address at which the register of members is kept.
 
-(5) Every such register shall be kept in the manner provided by Division 4 of Part V as though the register were the register of a company and transfers shall be effected on such register in the same manner and at the same charges as on the principal register of the company and transfers lodged at its registered office in Singapore shall be binding on the company and the Court shall have the same powers in relation to rectification of the register as it has in respect of the register of a company incorporated in Singapore.
+(3) If there is any change in the address at which the register of members mentioned in subsection (1) or (2) is kept, the foreign company must, within 30 days after the change, lodge a notice of the change with the Registrar.
 
-(6) Where a foreign company opens a branch register in Singapore, it shall within 30 days after the opening thereof lodge with the Registrar notice of that fact specifying the address where the register is kept.
+(4) In this section, “appointed day” means the date of commencement of section 46 of the Companies (Amendment) Act 2017.
 
-[Act 36 of 2014 wef 03/01/2016]
+[Act 15 of 2017 wef 31/03/2017]
 
-(7) Where any change is made in the place where the register is kept or where the register is discontinued, the company shall within 30 days of the change or discontinuance lodge notice of the change or discontinuance with the Registrar.
+### Contents of register and index of members of foreign companies
 
-[Act 36 of 2014 wef 03/01/2016]
+380\.—(1) The register of members of a foreign company required to be kept under section 379 must contain the following particulars:
 
-(8) Where a company or corporation is entitled pursuant to a law of the place of incorporation of a foreign company corresponding with section 215 to give notice to a dissenting shareholder in that foreign company that it desires to acquire any of his shares registered on a branch register kept in Singapore, this section shall cease to apply to that foreign company until —
+(a) the names and addresses of the members of the foreign company;
 
-(a) the shares have been acquired; or
+(b) the date on which the name of each person was entered in the register as a member;
 
-(b) that company or corporation has ceased to be entitled to acquire the shares.
+(c) the date on which any person who ceased to be a member during the previous 7 years so ceased to be a member;
 
-[Aust., 1961, s. 354]
+(d) in the case of a foreign company having a share capital —
 
-### Registration of shares in branch register
+(i) a statement of the shares held by each member, distinguishing each share by its number, if any, or by the number, if any, of the certificate evidencing the member’s holding and of the amount paid or agreed to be considered as paid on the shares of each member; and
 
-380\. Subject to this Act, on application in that behalf by a member resident in Singapore the foreign company shall register in a branch register of the company the shares held by a member which are registered in any other register kept by the company.
+(ii) such particulars of the shares held by each member, including the date of every allotment of shares to members and the number of shares comprised in each allotment;
 
-[Aust., 1961, s. 355]
+(e) such other particulars as may be prescribed.
 
-### Removal of shares from branch register
+(2) Every foreign company having more than 50 members must, unless the register of members is in such a form as to constitute in itself an index —
 
-381\. Subject to this Act, on application in that behalf by a member holding shares registered in a branch register, the foreign company shall remove the shares from the branch register and register them in such other register within Singapore as is specified in the application.
+(a) keep an index in convenient form of the names of the members;
 
-[Aust., 1961, s. 356]
+(b) within 14 days after the date on which any alteration is made in the register of members, make any necessary alteration in the index; and
 
-### Index of members, inspection and closing of branch registers
+(c) keep the index at the same place as the register of members.
 
-382\. Sections 190, 191 and 192 shall, with such adaptations as are necessary, apply respectively to the index of persons holding shares in a branch register and to the inspection and the closing of the register.
+(3) The index must in respect of each member contain a sufficient indication to enable the account of that member in the register to be readily found.
 
-[Aust., 1961, s. 357]
+[Act 15 of 2017 wef 31/03/2017]
 
-### Application of provisions of this Act relating to transfer
+### Register to be prima facie evidence
 
-383\. Sections 126, 127, 128(1), 130(1) and (3) and 194 shall apply with necessary adaptations with respect to the transfer of shares on and the rectification of the branch register of a foreign company.
+381\. A register of members of a foreign company kept under section 379 is prima facie evidence of any matter which the register is required under this Division to be contained.
 
-[Aust., 1961, s. 358]
-
-### Branch register to be prima facie evidence
-
-384\. A branch register shall be prima facie evidence of any matters by this Division directed or authorised to be inserted therein.
-
-[Aust., 1961, s. 359]
+[Act 15 of 2017 wef 31/03/2017]
 
 ### Certificate as to shareholding
 
-385\. A certificate under the seal of a foreign company specifying any shares held by any member of that company and registered in the branch register shall be prima facie evidence of the title of the member to the shares and the registration of the shares in the branch register.
+382\. A certificate made under the seal of a foreign company (or in any manner permitted for certificates of such type by the laws of the country or territory in which the foreign company is incorporated or established) specifying any shares held by any member of that company and registered in the register of members of the foreign company kept under section 379 is prima facie evidence of the title of the member to the shares and the registration of the shares in that register.
 
-[Aust., 1961, s. 360]
+[Act 15 of 2017 wef 31/03/2017]
+
+### No civil proceedings to be brought in respect of bearer shares or share warrants
+
+383\.—(1) Any allotment, issue, sale, transfer, assignment or other disposition in Singapore of any bearer share or share warrant by a foreign company registered under this Division is void.
+
+(2) No civil proceedings may be brought or maintained in any court for or in respect of any bearer share or share warrant allotted, issued, sold, transferred, assigned or disposed by a foreign company registered under this Division.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Application of provisions of Act
+
+384\. Regulations made under section 411 may —
+
+(a) provide for —
+
+(i) the application of any provision of Division 7 of Part IV relating to the transfer of shares in a company to the transfer of shares in a foreign company; and
+
+(ii) the application of Division 4 of Part V relating to the register of members to the register of members of a foreign company,
+
+subject to such adaptations, modifications or additions as may be prescribed; and
+
+(b) exempt any foreign company or class of foreign companies from all or any provision of this Division.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+385\. [Repealed by Act 15 of 2017 wef 31/03/2017]
 
 ### Penalties
 
@@ -17431,6 +17583,451 @@ may, within 30 days after being informed of the Registrar’s decision, appeal t
 [Act 36 of 2014 wef 03/01/2016]
 
 [Aust., 1961, s. 361]
+
+## PART XIA
+
+REGISTER OF CONTROLLERS AND NOMINEE
+
+
+
+
+DIRECTORS OF COMPANIES
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Application of this Part
+
+386AA\.—(1) This Part applies to —
+
+(a) all companies other than a company that is set out in the Fourteenth Schedule; and
+
+(b) all foreign companies registered under Division 2 of Part XI other than a foreign company that is set out in the Fifteenth Schedule.
+
+(2) The obligation to comply with this Part extends to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all entities, whether formed, constituted or carrying on business in Singapore or not.
+
+(3) This Part extends to acts done or omitted to be done outside Singapore.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Interpretation of this Part
+
+386AB\. In this Part, unless the context otherwise requires —
+
+“approved exchange” means an approved exchange as defined in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+“controller” means an individual controller or a corporate controller;
+
+“corporate controller”, in relation to a company or a foreign company, means a legal entity which has a significant interest in, or significant control over, the company or the foreign company, as the case may be;
+
+“individual controller”, in relation to a company or a foreign company, means an individual who has a significant interest in, or significant control over, the company or the foreign company, as the case may be;
+
+“legal entity” means any body corporate formed or incorporated or existing in Singapore or outside Singapore and includes a foreign company;
+
+“limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“member of the public” includes —
+
+(a) in the case of a company, any member of the company acting in the member’s capacity as such; and
+
+(b) in the case of a foreign company, any member of the foreign company acting in the member’s capacity as such;
+
+“register of controllers” or “register” —
+
+(a) in relation to a company to which this Part applies, means the register that the company is required to keep of its registrable controllers under section 386AF(1), (2) or (3); and
+
+(b) in relation to a foreign company to which this Part applies, means the register that the foreign company is required to keep of its registrable controllers under section 386AF(4), (5) or (6);
+
+“registered filing agent” means a filing agent registered under section 28F of the Accounting and Corporate Regulatory Authority Act (Cap. 2A);
+
+“significant control”, in relation to a company or a foreign company, has the meaning given to it in the Sixteenth Schedule;
+
+“significant interest”, in relation to a company or a foreign company, has the meaning given to it in the Sixteenth Schedule.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Meaning of “registrable”
+
+386AC\. For the purposes of this Part, in relation to a company (X) or a foreign company (X), a controller (A) is registrable unless —
+
+(a) A’s significant interest in or significant control overXis only through one or more controllers (B) ofX;
+
+(b) Ais a controller ofB(or eachBif more than one); and
+
+(c) B(or eachBif more than one) is either —
+
+(i) a company, or foreign company to which this Part applies, that is required to keep a register of controllers under section 386AF;
+
+(ii) a company that is set out in the Fourteenth Schedule;
+
+(iii) a foreign company that is set out in the Fifteenth Schedule;
+
+(iv) a corporation which shares are listed for quotation on an approved exchange;
+
+(v) a limited liability partnership to which Part VIA of the Limited Liability Partnerships Act (Cap. 163A) applies, that is required to keep a register of controllers of limited liability partnerships under that Act;
+
+(vi) a limited liability partnership that is set out in the Sixth Schedule to the Limited Liability Partnerships Act; or
+
+(vii) a trustee of an express trust to which Part VII of the Trustees Act (Cap. 337) applies.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### State of mind of corporation, unincorporated association, etc.
+
+386AD\.—(1) Where, in a proceeding for an offence under this Part, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
+
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of the officer’s, employee’s or agent’s actual or apparent authority; and
+
+(b) the officer, employee or agent had that state of mind,
+
+is evidence that the corporation had that state of mind.
+
+(2) Where, in a proceeding for an offence under this Part, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or the partnership engaged in that conduct within the scope of the employee’s or agent’s actual or apparent authority; and
+
+(b) the employee or agent had that state of mind,
+
+is evidence that the unincorporated association or partnership had that state of mind.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Meaning of “legal privilege”
+
+386AE\.—(1) For the purposes of this Part, information or a document is subject to legal privilege if —
+
+(a) it is a communication made between a lawyer and a client, or a legal counsel acting as such and the legal counsel’s employer, in connection with the lawyer giving legal advice to the client or the legal counsel giving legal advice to the employer, as the case may be;
+
+(b) it is a communication made between 2 or more lawyers acting for a client, or 2 or more legal counsel acting as such for their employer, in connection with one or more of the lawyers giving legal advice to the client or one or more of the legal counsel giving legal advice to the employer, as the case may be;
+
+(c) it is a communication made —
+
+(i) between a client, or an employer of a legal counsel, and another person;
+
+(ii) between a lawyer acting for a client and either the client or another person; or
+
+(iii) between a legal counsel acting as such for the legal counsel’s employer and either the employer or another person,
+
+in connection with, and for the purposes of, any legal proceedings (including anticipated or pending legal proceedings) in which the client or employer, as the case may be, is or may be, or was or might have been, a party;
+
+(d) it is an item, or a document (including its contents), that is enclosed with or mentioned in any communication in paragraph (a) or (b) and that is made or prepared by any person in connection with a lawyer or legal counsel, or one or more of the lawyers or legal counsel, in either paragraph giving legal advice to the client or the employer of the legal counsel, as the case may be; or
+
+(e) it is an item, or a document (including its contents), that is enclosed with or mentioned in any communication in paragraph (c) and that is made or prepared by any person in connection with, and for the purposes of, any legal proceedings (including anticipated or pending legal proceedings) in which the client or the employer of the legal counsel, as the case may be, is or may be, or was or might have been, a party,
+
+but it is not any such communication, item or document that is made, prepared or held with the intention of furthering a criminal purpose.
+
+(2) In subsection (1) —
+
+“client”, in relation to a lawyer, includes an agent of or other person representing a client and, if a client has died, a personal representative of the client;
+
+“employer”, in relation to a legal counsel, includes —
+
+(a) if the employer is one of a number of corporations that are related to each other under section 6, every corporation so related as if the legal counsel is also employed by each of the related corporations;
+
+(b) if the employer is a public agency within the meaning of section 128A(6) of the Evidence Act (Cap. 97) and the legal counsel is required as part of the legal counsel’s duties of employment or appointment to provide legal advice or assistance in connection with the application of the law or any form of resolution of legal dispute to any other public agency or agencies, the other public agency or agencies as if the legal counsel is also employed by the other public agency or each of the other public agencies; and
+
+(c) an employee or officer of the employer;
+
+“lawyer” means a solicitor or a professional legal adviser, and includes an interpreter or other person who works under the supervision of a solicitor or a professional legal adviser;
+
+“legal counsel” means a legal counsel as defined in section 3(7) of the Evidence Act, and includes an interpreter or other person who works under the supervision of a legal counsel.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Register of controllers
+
+386AF\.—(1) A company incorporated on or after the appointed day must keep a register of its registrable controllers not later than 30 days after the date of the company’s incorporation.
+
+(2) A company incorporated before the appointed day must keep a register of its registrable controllers not later than 60 days after the appointed day.
+
+(3) If a company that is not a company to which this Part applies subsequently becomes a company to which this Part applies, the company must keep a register of its registrable controllers not later than 60 days after the date on which this Part applies or re‑applies to the company.
+
+(4) A foreign company registered under Division 2 of Part XI on or after the appointed day must keep a register of its registrable controllers not later than 30 days after the date of the foreign company’s registration.
+
+(5) A foreign company registered under Division 2 of Part XI before the appointed day must keep a register of its registrable controllers not later than 60 days after the appointed day.
+
+(6) If a foreign company that is not a foreign company to which this Part applies subsequently becomes a foreign company to which this Part applies, the foreign company must keep a register of its registrable controllers not later than 60 days after the date on which this Part applies or re‑applies to the foreign company.
+
+(7) A company or foreign company must ensure that its register —
+
+(a) contains such particulars of the company’s or foreign company’s registrable individual controllers and registrable corporate controllers as may be prescribed;
+
+(b) is updated if any change to the prescribed particulars occurs; and
+
+(c) is kept in such form and at such place as may be prescribed.
+
+(8) A company or foreign company must enter the particulars in its register and update the register within the prescribed time and in the prescribed manner.
+
+(9) A company or foreign company must —
+
+(a) enter the particulars of any controller in its register, or update the particulars of that controller in the register, after the particulars of that controller are confirmed by the controller; or
+
+(b) if the company or foreign company does not receive the controller’s confirmation, enter or update the particulars with a note indicating that the particulars have not been confirmed by the controller.
+
+(10) For the purposes of subsection (9)(a), the particulars of the controller to be entered, or updated, in a register must be confirmed by the controller in the prescribed manner.
+
+(11) Subject to section 386AM, a company or foreign company must not disclose, or make available for inspection, a register or any particulars contained in the register to any member of the public.
+
+(12) If a company fails to comply with —
+
+(a) subsection (1), (2) or (3), whichever is applicable; or
+
+(b) subsection (7), (8), (9) or (11),
+
+the company, and every officer of the company who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(13) If a foreign company fails to comply with —
+
+(a) subsection (4), (5) or (6), whichever is applicable; or
+
+(b) subsection (7), (8), (9) or (11),
+
+the foreign company, and every officer of the foreign company who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(14) In this section, “appointed day” means the date of commencement of section 47 of the Companies (Amendment) Act 2017.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Duty of company and foreign company to investigate and obtain information
+
+386AG\.—(1) A company or foreign company must take reasonable steps to find out and identify the registrable controllers of the company or foreign company.
+
+(2) A company (A) or foreign company (A) —
+
+(a) must give a notice to any person (B) whomAknows or has reasonable grounds to believe is a registrable controller in relation toA, requiringB—
+
+(i) to state whetherBis or is not a registrable controller ofA;
+
+(ii) to state whetherBknows or has reasonable grounds to believe that any other person (C) is a registrable controller ofAor is likely to have that knowledge and to give such particulars ofCthat are withinB’s knowledge; and
+
+(iii) to provide such other information as may be prescribed; and
+
+(b) must give a notice to any person (D) whomAknows, or has reasonable grounds to believe knows, the identity of a person who is a registrable controller ofAor is likely to have that knowledge, requiringD—
+
+(i) to state whetherDknows or has reasonable grounds to believe that any other person (E) is a registrable controller ofAor is likely to have that knowledge and to give such particulars ofEthat are withinD’s knowledge; and
+
+(ii) to provide such other information as may be prescribed.
+
+(3) A notice mentioned in subsection (2) —
+
+(a) must state that the addressee must comply with the notice not later than the time prescribed for compliance;
+
+(b) must be in such form, contain such particulars and be sent in such manner, as may be prescribed; and
+
+(c) must be given within such period as may be prescribed after the company or foreign company first knows the existence of, or first has reasonable grounds to believe that there exists, a person to whom a notice must be given under that subsection.
+
+(4) Subsection (2) does not require a company or foreign company to give notice to any person in respect of any information that is required to be stated or provided pursuant to the notice if the information was previously provided by that person or by any registered filing agent on behalf of that person.
+
+(5) If a company or foreign company fails to comply with subsection (2) or (3), the company or foreign company, and every officer of the company or foreign company who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(6) An addressee of a notice under subsection (2) must comply with the notice within the time specified in the notice for compliance except that an addressee is not required to provide any information that is subject to legal privilege.
+
+(7) An addressee of a notice under subsection (2) who fails to comply with subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Duty of company and foreign company to keep information up‑to‑date
+
+386AH\.—(1) If a company or foreign company knows or has reasonable grounds to believe that a relevant change has occurred in the particulars of a registrable controller that are stated in the company’s or foreign company’s register of controllers, the company or foreign company must give notice to the registrable controller —
+
+(a) to confirm whether or not the change has occurred; and
+
+(b) if the change has occurred —
+
+(i) to state the date of the change; and
+
+(ii) to provide the particulars of the change.
+
+(2) A company or foreign company must give the notice mentioned in subsection (1) within such period as may be prescribed after it first knows of the change or first has reasonable grounds to believe that the change has occurred.
+
+(3) Section 386AG(3)(a) and (b) applies to a notice under this section as it applies to a notice under that section.
+
+(4) Subsection (1) does not require a company or foreign company to give notice to any person in respect of any information that was previously provided by that person or by any registered filing agent on behalf of that person.
+
+(5) If a company or foreign company fails to comply with subsection (1) or (2), or section 386AG(3)(a) and (b) as applied by subsection (3), the company or foreign company, and every officer of the company or foreign company who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(6) An addressee of a notice under subsection (1) who fails to comply with the notice within the time specified in the notice for compliance shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(7) For the purposes of this section, a relevant change occurs if —
+
+(a) a person ceases to be a registrable controller in relation to the company or foreign company, as the case may be; or
+
+(b) any other change occurs as a result of which the particulars of the registrable controller in the company’s or foreign company’s register of controllers are incorrect or incomplete.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Duty of company and foreign company to correct information
+
+386AI\.—(1) If a company or foreign company knows or has reasonable grounds to believe that any of the particulars of a registrable controller that are stated in the company’s or foreign company’s register is incorrect, the company or foreign company must give notice to the registrable controller to confirm whether the particulars are correct and, if not, to provide the correct particulars.
+
+(2) A company or foreign company must give the notice mentioned in subsection (1) within such period as may be prescribed after it first knows or first has reasonable grounds to believe that the information is incorrect.
+
+(3) Section 386AG(3)(a) and (b) applies to a notice under this section as it applies to a notice under that section.
+
+(4) Subsection (1) does not require a company or foreign company to give notice to any person in respect of any information that was previously provided by that person or by any registered filing agent on behalf of that person.
+
+(5) If a company or foreign company fails to comply with subsection (1) or (2), or section 386AG(3)(a) and (b) as applied by subsection (3), the company or foreign company, and every officer of the company or foreign company who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(6) An addressee of a notice under subsection (1) who fails to comply with the notice within the time specified in the notice for compliance shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Controller’s duty to provide information
+
+386AJ\.—(1) A person who knows or ought reasonably to know that the person is a registrable controller in relation to a company or foreign company must —
+
+(a) notify the company or foreign company, as the case may be, that the person is a registrable controller in relation to the company or foreign company;
+
+(b) state the date, to the best of the person’s knowledge, on which the person became a registrable controller in relation to the company or foreign company; and
+
+(c) provide such other information as may be prescribed.
+
+(2) The person mentioned in subsection (1) must comply with the requirements of that subsection within such period as may be prescribed after the date on which that person first knew or ought reasonably to have known that that person was a registrable controller.
+
+(3) A person need not comply with the requirements of subsection (1) if the person has received a notice from the company or foreign company under section 386AG(2) and has complied with the requirements of the notice within the time specified in the notice for compliance.
+
+(4) If a person fails to comply with subsection (1) or (2), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Controller’s duty to provide change of information
+
+386AK\.—(1) A person who is a registrable controller in relation to a company or foreign company who knows, or ought reasonably to know that a relevant change has occurred in the prescribed particulars of the registrable controller must notify the company or foreign company of the relevant change —
+
+(a) stating the date that the change occurred; and
+
+(b) providing the particulars of the change.
+
+(2) The person mentioned in subsection (1) must comply with the requirements of that subsection within such period as may be prescribed after the date on which that person first knew or ought reasonably to have known of the relevant change.
+
+(3) A person need not comply with the requirements of subsection (1) if the person has received a notice from the company or foreign company under section 386AH(1) and has complied with the requirements of the notice within the time specified in the notice for compliance.
+
+(4) Any person who fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(5) For the purposes of this section, a relevant change occurs if —
+
+(a) a person ceases to be a registrable controller in relation to the company or foreign company, as the case may be; or
+
+(b) there is a change in the person’s contact details or such other particulars as may be prescribed.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Nominee directors
+
+386AL\.—(1) A director of a company incorporated on or after the appointed day —
+
+(a) who is a nominee must inform the company of that fact and provide such prescribed particulars of the person for whom the director is a nominee within 30 days after the date of incorporation; and
+
+(b) who becomes a nominee must inform the company of that fact and provide such prescribed particulars of the person for whom the director is a nominee within 30 days after the director becomes a nominee.
+
+(2) A director of a company incorporated before the appointed day —
+
+(a) who is a nominee must inform the company of that fact and provide such prescribed particulars of the person for whom the director is a nominee within 60 days after the appointed day; and
+
+(b) who becomes a nominee must inform the company of that fact and provide such prescribed particulars of the person for whom the director is a nominee within 30 days after the director becomes a nominee.
+
+(3) A director of a company mentioned in subsection (1) or (2) must inform the company —
+
+(a) that he ceases to be a nominee within 30 days after the cessation; and
+
+(b) of any change to the particulars provided to the company under that subsection within 30 days after the change.
+
+(4) A company must keep a register of its directors who are nominees (called in this Part the register of nominee directors) in such form and at such place as may be prescribed.
+
+(5) Subject to section 386AM, a company must not disclose, or make available for inspection, the register of nominee directors or any particulars contained in the register of nominee directors to any member of the public.
+
+(6) If a director fails to comply with subsection (1), (2) or (3), the director shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(7) If a company fails to comply with subsection (4) or (5), the company, and every officer of the company who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(8) In this section, a director is a nominee if the director is accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of any other person.
+
+(9) In this section, “appointed day” means the date of commencement of section 47 of the Companies (Amendment) Act 2017.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Power to enforce
+
+386AM\.—(1) The Registrar or an officer of the Authority may —
+
+(a) require a company or foreign company to which this Part applies to produce its register, its register of nominee directors and any other document relating to those registers or the keeping of those registers;
+
+(b) inspect, examine and make copies of the registers and any document so produced; and
+
+(c) make such inquiry as may be necessary to ascertain whether the provisions of this Part are complied with.
+
+(2) Where any register or documents as are mentioned in subsection (1) are kept in electronic form —
+
+(a) the power of the Registrar or an officer of the Authority in subsection (1)(a) to require the register or any documents to be produced includes the power to require a copy of the register or documents to be made available in legible form and subsection (1)(b) is to accordingly apply in relation to any copy so made available; and
+
+(b) the power of the Registrar or an officer of the Authority under subsection (1)(b) to inspect the register or any documents includes the power to require any person on the premises in question to give the Registrar or the officer of the Authority such assistance as the Registrar or officer may reasonably require to enable the Registrar or officer to inspect and make copies of the register or documents in legible form, and to make records of the information contained in them.
+
+(3) The powers conferred on the Registrar or an officer of the Authority under subsections (1) and (2) may be exercised by a public agency to enable the public agency to administer or enforce any written law.
+
+(4) Any person who fails to comply with any requirement imposed under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(5) This section applies in addition to any right of inspection conferred by section 396A.
+
+(6) In this section, “public agency” means a public officer, an Organ of State or a ministry or department of the Government, or a public authority established by or under any public Act for a public purpose or a member, an officer or an employee, or any department, thereof.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Central register of controllers
+
+386AN\.—(1) This section applies where the Minister, by notification in theGazette, directs the Registrar to maintain a central register of controllers of companies and foreign companies.
+
+(2) Where the Minister has directed the Registrar to maintain a central register of controllers of companies and foreign companies under subsection (1) —
+
+(a) the Registrar must keep a central register of controllers consisting of the particulars contained in the registers kept by companies and foreign companies to which this Part applies; and
+
+(b) the Registrar must require any company or foreign company to which this Part applies to lodge with the Registrar —
+
+(i) all particulars contained in the company’s or foreign company’s register maintained under section 386AF; and
+
+(ii) all updates to the company’s or foreign company’s register that occur after the lodgment of the particulars under sub‑paragraph (i).
+
+(3) A lodgment mentioned in subsection (2)(b) must be made in such form and manner, and within such time, as may be prescribed.
+
+(4) If a company or foreign company fails to comply with subsection (2)(b) or (3), the company or foreign company, and every officer of the company or foreign company who is in default, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000.
+
+(5) Except in such circumstances as may be prescribed, the Registrar must not disclose, or make available for inspection, the central register of controllers of companies and foreign companies kept by the Registrar under this section to any member of the public.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Codes of practice, etc.
+
+386AO\.—(1) The Registrar may issue one or more codes, guidance, guidelines, policy statements and practice directions for all or any of the following purposes:
+
+(a) to provide guidance to companies or foreign companies, or to both, in relation to the operation or administration of any provision of this Part;
+
+(b) generally for carrying out the purposes of this Part.
+
+(2) The Registrar may publish any such code, guidance, guideline, policy statement or practice direction, in such manner as the Registrar thinks fit.
+
+(3) The Registrar may revoke, vary, revise or amend the whole or any part of any code, guidance, guideline, policy statement or practice direction issued under this section in such manner as the Registrar thinks fit.
+
+(4) Where amendments are made under subsection (3) —
+
+(a) the other provisions of this section apply, with the necessary modifications, to such amendments as they apply to the code, guidance, guideline, policy statement and practice direction; and
+
+(b) any reference in this Act or any other written law to the code, guidance, guideline, policy statement or practice direction however expressed is to be treated, unless the context otherwise requires, as a reference to the code, guidance, guideline, policy statement or practice direction as so amended.
+
+(5) The failure by any person to comply with any of the provisions of a code, guidance, guideline, policy statement or practice direction issued under this section that applies to that person does not of itself render that person liable to criminal proceedings but any such failure may, in any proceedings whether civil or criminal, be relied upon by any party to the proceedings as tending to establish or to negate any liability which is in question in the proceedings.
+
+(6) Any code, guidance, guideline, policy statement or practice direction issued under this section —
+
+(a) may be of general or specific application; and
+
+(b) may specify that different provisions apply to different circumstances or provide for different cases or classes of cases.
+
+(7) It is not necessary to publish any code, guidance, guideline, policy statement or practice direction issued under this section in theGazette.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+### Exemption
+
+386AP\. The Minister may, by order in theGazette, exempt any person or class of persons from all or any of the provisions of this Part.
+
+[Act 15 of 2017 wef 31/03/2017]
 
 ## PART XII
 
@@ -18505,7 +19102,9 @@ The judicial manager may exercise all or any of the following powers:
 
 (g) power to effect and maintain insurances in respect of the business and property of the company;
 
-(h) power to use the company’s seal;
+(h) power to use the company’s seal, if any;
+
+[Act 15 of 2017 wef 31/03/2017]
 
 (i) power to do all acts and to execute in the name and on behalf of the company any deed, receipt or other document;
 
@@ -18766,6 +19365,138 @@ Criteria for small company and small group
 (b) a group that has ceased to be a small group under paragraph 10 may become a small group again if it subsequently qualifies as a small group under paragraph 7.
 
 [Act 36 of 2014 wef 01/07/2015]
+
+FOURTEENTH SCHEDULE
+
+Sections 8(7), 386AA(1) and 386AC(c) and Fifteenth Schedule
+
+Companies to which Part XIA does not apply
+
+1. Part XIA does not apply to any of the following companies:
+
+(a) a public company which shares are listed for quotation on an approved exchange in Singapore;
+
+(b) a company that is a Singapore financial institution;
+
+(c) a company that is wholly‑owned by the Government;
+
+(d) a company that is wholly‑owned by a statutory body established by or under a public Act for a public purpose;
+
+(e) a company that is a wholly‑owned subsidiary of a company mentioned in sub‑paragraph (a), (b), (c) or (d);
+
+(f) a company which shares are listed on a securities exchange in a country or territory outside Singapore and which is subject to —
+
+(i) regulatory disclosure requirements; and
+
+(ii) requirements relating to adequate transparency in respect of its beneficial owners,
+
+imposed through stock exchange rules, law or other enforceable means.
+
+2. For the purposes of paragraph 1, a Singapore financial institution is —
+
+(a) any financial institution that is licensed, approved, registered (including a fund management company registered under paragraph 5(1)(i) of the Second Schedule to the Securities and Futures (Licensing and Conduct of Business) Regulations (Cap. 289, Rg 10)) or regulated by the Monetary Authority of Singapore but does not include —
+
+(i) any holder of a stored value facility as defined in section 2(1) of the Payment Systems (Oversight) Act (Cap. 222A); and
+
+(ii) a person (other than a person mentioned in sub‑paragraphs (b) and (c)) who is exempted from licensing, approval or regulation by the Monetary Authority of Singapore under any Act administered by the Monetary Authority of Singapore, including a private trust company exempted from licensing under section 15 of the Trust Companies Act (Cap. 336) read with regulation 4 of the Trust Companies (Exemption) Regulations (Cap. 336, Rg 1);
+
+(b) any person exempted under section 23(1)(f) of the Financial Advisers Act (Cap. 110) read with regulation 27(1)(d) of the Financial Advisers Regulations (Cap. 110, Rg 2); or
+
+(c) any person exempted under section 99(1)(h) of the Securities and Futures Act (Cap. 289) read with paragraph 7(1)(b) of the Second Schedule to the Securities and Futures (Licensing and Conduct of Business) Regulations.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+FIFTEENTH SCHEDULE
+
+Sections 8(7), 386AA(1) and 386AC(c)
+
+Foreign companies to which Part XIA
+
+
+
+
+does not apply
+
+1. Part XIA does not apply to any of the following foreign companies:
+
+(a) a foreign company that is a Singapore financial institution;
+
+(b) a foreign company that is a wholly‑owned subsidiary of a foreign company that is a Singapore financial institution;
+
+(c) a foreign company which shares are listed on a securities exchange in a country or territory outside Singapore and which is subject to —
+
+(i) regulatory disclosure requirements; and
+
+(ii) requirements relating to adequate transparency in respect of its beneficial owners,
+
+imposed through stock exchange rules, law or other enforceable means.
+
+2. In paragraph 1, “Singapore financial institution” has the meaning given to it in paragraph 2 of the Fourteenth Schedule.
+
+[Act 15 of 2017 wef 31/03/2017]
+
+SIXTEENTH SCHEDULE
+
+Sections 8(7) and 386AB
+
+Meanings of “significant control”
+
+
+
+
+and “significant interest”
+
+Definition of “significant control”
+
+1. For the purposes of Part XIA, an individual or a legal entity has significant control over a company or foreign company if the individual or legal entity —
+
+(a) holds the right, directly or indirectly, to appoint or remove the directors or equivalent persons of the company or foreign company who hold a majority of the voting rights at meetings of the directors or equivalent persons on all or substantially all matters;
+
+(b) holds, directly or indirectly, more than 25% of the rights to vote on those matters that are to be decided upon by a vote of the members or equivalent persons of the company or foreign company; or
+
+(c) has the right to exercise, or actually exercises, significant influence or control over the company or foreign company.
+
+Definition of “significant interest”
+
+2.—(1) For the purposes of Part XIA, an individual or a legal entity has a significant interest in a company or foreign company having a share capital —
+
+(a) if the individual or legal entity, as the case may be, has an interest in more than 25% of the shares in the company or foreign company; or
+
+(b) if —
+
+(i) the individual or legal entity, as the case may be, has an interest in one or more voting shares in the company or foreign company; and
+
+(ii) the total votes attached to that share, or those shares, is more than 25% of the total voting power in the company or foreign company.
+
+(2) In sub‑paragraph (1)(b), “voting share” does not include any treasury share or any share mentioned in section 21(4B) or (6C).
+
+3\. For the purposes of Part XIA, an individual or a legal entity has a significant interest in a company or foreign company that does not have a share capital if the individual or legal entity holds, whether directly or indirectly, a right to share in more than 25% of the capital, or more than 25% of the profits, of the company or foreign company.
+
+Supplementary provisions
+
+4.—(1) Subject to sub‑paragraphs (2), (3) and (5), subsections (1A) to (6A), (8), (9) and (10) of section 7 apply in determining whether a person has an interest in a share.
+
+(2) If 2 or more persons jointly have an interest in a share, or jointly hold a right, each of the persons is considered for the purposes of this Schedule as having an interest in that share, or as holding that right, as the case may be.
+
+(3) If shares in respect of which a person has an interest and the shares in respect of which another person has an interest are the subject of a joint arrangement between those persons, each of them is treated for the purposes of this Schedule as having an interest in the combined shares of both of them.
+
+(4) If the rights held by a person and the rights held by another person are the subject of a joint arrangement between those persons, each of them is treated for the purposes of this Schedule as holding the combined rights of both of them.
+
+(5) A share or right held by a person as nominee for another is to be considered for the purposes of this Schedule as held by the other (and not by the nominee).
+
+(6) In this paragraph —
+
+(a) a “joint arrangement” is an arrangement between the persons having an interest in shares or between holders of rights that they will exercise all or substantially all the rights conferred by their respective shares (or rights) jointly in a way that is pre‑determined by the arrangement; and
+
+(b) “arrangement” includes —
+
+(i) any scheme, agreement or understanding, whether or not it is legally enforceable; and
+
+(ii) any convention, custom or practice of any kind,
+
+but something does not count as an arrangement unless there is at least some degree of stability about it (whether by its nature or terms, the time it has been in existence or otherwise).
+
+[Act 15 of 2017 wef 31/03/2017]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -19257,16 +19988,20 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
-|111.|**G.N. No. S 382/2015—Companies Act (Amendment of Second Schedule) Notification 2015**|
-||Date of commencement|1 July 2015|
-|112.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
-||Date of commencement|1 July 2015|
-|113.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
+|111.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 25/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|1 July 2015|
 |||3 January 2016|
+|112.|**G.N. No. S 382/2015—Companies Act (Amendment of Second Schedule) Notification 2015**|
+||Date of commencement|1 July 2015|
+|113.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
+||Date of commencement|1 July 2015|
+|114.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|31 March 2017|
 ## COMPARATIVE TABLE
 
 Companies Act
