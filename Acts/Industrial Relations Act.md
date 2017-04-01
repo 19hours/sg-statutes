@@ -84,13 +84,13 @@
 
 - [30E Conciliation](#Conciliation)
 
-[**Part IVA TRIPARTITE MEDIATION OF DISPUTES INVOLVING EXECUTIVE EMPLOYEES**](#Part-IVA)
+[**Part IVA TRIPARTITE MEDIATION OF DISPUTES INVOLVING EMPLOYEES**](#Part-IVA)
 
 - [30F Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [30G Disputes for tripartite mediation](#Disputes-for-tripartite-mediation)
 
-- [30H Procedure for seeking tripartite mediation](#Procedure-for-seeking-tripartite-mediation)
+- [30H Procedure for seeking and conduct of tripartite mediation](#Procedure-for-seeking-and-conduct-of-tripartite-mediation)
 
 - [30I Employer’s right to object](#Employer’s-right-to-object)
 
@@ -700,12 +700,7 @@ unless he is a person qualified in accordance with section 64 to represent an em
 
 ## PART IV
 
-LIMITED REPRESENTATION OF EXECUTIVE
-
-
-
-
-EMPLOYEES
+LIMITED REPRESENTATION OF EXECUTIVE EMPLOYEES
 
 ### Interpretation of this Part
 
@@ -821,7 +816,9 @@ EMPLOYEES
 
 ## PART IVA
 
-TRIPARTITE MEDIATION OF DISPUTES INVOLVING EXECUTIVE EMPLOYEES
+TRIPARTITE MEDIATION OF DISPUTES INVOLVING EMPLOYEES
+
+[Act 21 of 2016 wef 01/04/2017]
 
 [36/2010 wef 01/02/2011]
 
@@ -829,35 +826,65 @@ TRIPARTITE MEDIATION OF DISPUTES INVOLVING EXECUTIVE EMPLOYEES
 
 30F\. In this Part —
 
-“executive employee”, in relation to an employer, means an employee who is an executive employee within the meaning of this Act and who —
+“approved mediator” has the same meaning as in section 2(1) of the Employment Claims Act 2016;
 
-(a) is in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described), or such other amount as may be prescribed by the Minister; and
+[Act 21 of 2016 wef 01/04/2017]
 
-(b) is a member of a trade union which has not been given recognition by his employer under section 17,
+“claim referral certificate” means a claim referral certificate issued under section 30H(6);
 
-but does not include any person belonging to any class of persons whom the Minister may, from time to time, by notification in theGazette, declare not to be executive employee for the purposes of this Part;
+[Act 21 of 2016 wef 01/04/2017]
 
-[Act 1 of 2015 wef 01/04/2015]
+“employee”, in relation to an employer —
+
+(a) means an employee who is a member of a trade union which has not been given recognition (in respect of any class of employees) by the employer under section 17; but
+
+(b) excludes any individual belonging to any class of individuals which the Minister declares, by notification in theGazette, to be a class of individuals to which this Part does not apply;
+
+[Act 21 of 2016 wef 01/04/2017]
 
 “federation” has the same meaning as in the Trade Unions Act (Cap. 333);
 
 “salary” has the same meaning as in the Employment Act (Cap. 91);
 
-“tripartite mediation” means mediation under this Part conducted by a conciliation officer, between an executive employee and his employer, with the assistance of any tripartite mediation advisors who may be appointed, in an endeavour to reach a settlement in respect of disputes under section 30G;
+“specified employment dispute” and “specified statutory dispute” have the same meanings as in section 2(1) of the Employment Claims Act 2016;
+
+[Act 21 of 2016 wef 01/04/2017]
+
+“tripartite mediation” means mediation under this Part, between an employee and his employer, which is conducted —
+
+(a) by a conciliation officer or an approved mediator;
+
+(b) with the assistance of any tripartite mediation advisors who may be assigned or re‑assigned under section 30H(3)(b) to assist the employee or the employer in the mediation; and
+
+(c) in an endeavour to reach a settlement in respect of disputes under section 30G;
+
+[Act 21 of 2016 wef 01/04/2017]
 
 “tripartite mediation advisor” means any tripartite mediation advisor appointed under section 30K.
-
-[36/2010 wef 01/02/2011]
 
 ### Disputes for tripartite mediation
 
 30G\.—(1) Subject to subsection (2), only the following disputes may be the subject of tripartite mediation:
 
-(a) any dispute relating to a breach of contract of employment by the employer of an executive employee;
+(a) any dispute relating to a breach of contract of employment by the employer of an employee;
 
-(b) any dispute relating to salary due to an executive employee; or
+[Act 21 of 2016 wef 01/04/2017]
 
-(c) any dispute relating to the retrenchment benefit payable or to be paid to an executive employee by his employer,
+(b) any dispute relating to salary due to an employee;
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(c) any dispute relating to the retrenchment benefit payable or to be paid to an employee by his employer;
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(d) any re‑employment dispute as defined in section 8A(4) of the Retirement and Re‑employment Act (Cap. 274A); or
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(e) any specified statutory dispute,
+
+[Act 21 of 2016 wef 01/04/2017]
 
 the material facts of which giving rise to the dispute occur on or after the date of commencement of this Part.
 
@@ -865,41 +892,85 @@ the material facts of which giving rise to the dispute occur on or after the dat
 
 (a) any dispute where the material facts giving rise to the dispute occur earlier than one year before the date on which the Commissioner receives a notification under section 30H(2) relating to that dispute;
 
-(b) any dispute which arises out of or as a result of a termination of the contract of employment of an executive employee, unless the Commissioner receives a notification under section 30H(2) relating to that dispute within 6 months after the termination of the contract of service.
+(b) any dispute in a case where the employment relationship has ended (whether due to the retirement of the employee, or the expiry or termination of the contract of service, or otherwise), unless the Commissioner receives a notification under section 30H(2) relating to that dispute not later than 6 months after the last day of employment of the employee.
 
-[36/2010 wef 01/02/2011]
+[Act 21 of 2016 wef 01/04/2017]
 
-### Procedure for seeking tripartite mediation
+(3) The Minister may, by order in theGazette, lengthen or shorten either or both of the following periods, either absolutely or for any class of employees, any class of employers and any category of disputes mentioned in subsection (1):
 
-30H\.—(1) An executive employee who has a dispute with his employer may seek tripartite mediation by informing his trade union or any federation of which his trade union may be part of, of such dispute.
+(a) the period of one year mentioned in subsection (2)(a);
+
+(b) the period of 6 months mentioned in subsection (2)(b).
+
+[Act 21 of 2016 wef 01/04/2017]
+
+### Procedure for seeking and conduct of tripartite mediation
+
+30H\.—(1) An employee who has a dispute with his employer may seek tripartite mediation by informing his trade union or any federation of which his trade union may be part of, of such dispute.
+
+[Act 21 of 2016 wef 01/04/2017]
 
 (2) The trade union or federation may notify the Commissioner of such dispute, in such form and manner as the Commissioner may determine.
 
 (3) Upon receiving a notification of a dispute under subsection (2), the Commissioner may —
 
-(a) direct a conciliation officer to conduct tripartite mediation of the dispute;
+(a) direct a conciliation officer or an approved mediator to conduct tripartite mediation of the dispute;
 
-(b) assign or re-assign tripartite mediation advisors, at any stage prior to the commencement of the tripartite mediation proceedings, to assist the executive employee or his employer (who are parties to the relevant dispute) in the tripartite mediation;
+[Act 21 of 2016 wef 01/04/2017]
 
-(c) direct the executive employee and the employer to participate in the tripartite mediation; and
+(b) assign or re-assign tripartite mediation advisors, at any stage prior to the commencement of the tripartite mediation proceedings, to assist the employee or his employer (who are parties to the relevant dispute) in the tripartite mediation;
 
-(d) of his own volition or upon request by either the executive employee or the employer, request any other party whom he deems appropriate, including but not limited to —
+[Act 21 of 2016 wef 01/04/2017]
 
-(i) an officer from the trade union of which the executive employee is a member; and
+(c) direct the employee and the employer to participate in the tripartite mediation; and
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(d) of his own volition or upon request by either the employee or the employer, request any other party whom he deems appropriate, including but not limited to —
+
+(i) an officer from the trade union of which the employee is a member; and
 
 (ii) a representative of any business organisation of which the employer is a member,
 
 to participate in the tripartite mediation by assisting the tripartite mediation advisors assigned under paragraph (b).
 
-(4) The conciliation officer may conduct the tripartite mediation session in such manner as he deems fit and shall, subject to subsection (5), have the discretion to decide on the persons who may attend any mediation session.
+[Act 21 of 2016 wef 01/04/2017]
+
+(4) The conciliation officer or approved mediator may conduct the tripartite mediation session in such manner as he deems fit and shall, subject to subsection (5), have the discretion to decide on the persons who may attend any mediation session.
+
+[Act 21 of 2016 wef 01/04/2017]
 
 (5) No party shall be represented by an advocate or solicitor or a paid agent at any mediation session.
 
 [36/2010 wef 01/02/2011]
 
+(6) Where a tripartite mediation is conducted by an approved mediator, the approved mediator must issue to the employee a claim referral certificate in respect of every unresolved specified employment dispute that is a subject of the tripartite mediation, if —
+
+(a) the employer is given reasonable notice of, or is directed under section 30H(3)(c) to participate in, the tripartite mediation, but does not attend any mediation session; or
+
+(b) no settlement is reached at the end of the tripartite mediation in relation to one or more of the specified employment disputes that are the subject of the tripartite mediation.
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(7) Despite subsection (6), if the employee is given reasonable notice of, or is directed under section 30H(3)(c) to participate in, the tripartite mediation, and the employee fails, without reasonable excuse, to attend any mediation session, the approved mediator may refuse to issue to the employee a claim referral certificate in respect of all or any of the unresolved specified employment disputes that are the subject of the tripartite mediation.
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(8) Despite subsection (6)(a), if the employer is directed by the Minister under section 30J(2) to attend a mediation session, the approved mediator must not issue a claim referral certificate unless the employer fails to comply with the Minister’s direction.
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(9) In this section, a specified employment dispute that is a subject of a tripartite mediation is unresolved if the dispute —
+
+(a) is not settled; and
+
+(b) is not withdrawn from being a subject of the tripartite mediation.
+
+[Act 21 of 2016 wef 01/04/2017]
+
 ### Employer’s right to object
 
-30I\.—(1) An employer may object to the eligibility of an executive employee to tripartite mediation but only on the ground that the executive employee —
+30I\.—(1) An employer may object to the eligibility of an employee to tripartite mediation but only on the ground that the employee is an executive employee who —
 
 (a) is employed in a senior management position or performs or exercises any function, duty or power of a person employed in a senior management position, including the control and supervision of major business operations, accountability for operational performance, formulation of business policies, plans and strategies and provision of leadership to other employees;
 
@@ -915,6 +986,8 @@ to participate in the tripartite mediation by assisting the tripartite mediation
 
 (e) performs or exercises any other function, duty or power which may give rise to a real or potential conflict of interest if he is represented by the trade union or federation.
 
+[Act 21 of 2016 wef 01/04/2017]
+
 (2) Where an employer wishes to raise any objection under subsection (1), the employer shall, within 14 days from the date of the direction referred to in section 30H(3)(c) (or such longer period as the Commissioner may, in his discretion, allow in any particular case), give notice of his objection in the prescribed form and manner to the Commissioner stating precisely the grounds of his objection.
 
 (3) In deciding whether the objection should stand, the Commissioner may consult one or more tripartite mediation advisors who, in the opinion of the Commissioner, are of sufficient standing and experience to advise and make recommendations to the Commissioner in relation to such objection.
@@ -927,7 +1000,9 @@ to participate in the tripartite mediation by assisting the tripartite mediation
 
 ### Attendance at mediation sessions
 
-30J\.—(1) In the event that an executive employee who has been directed to participate in tripartite mediation under section 30H(3)(c) fails to attend any mediation session without reasonable excuse, the Commissioner may issue such further directions as he deems fit, including but not limited to terminating the tripartite mediation proceedings.
+30J\.—(1) In the event that an employee who has been directed to participate in tripartite mediation under section 30H(3)(c) fails to attend any mediation session without reasonable excuse, the Commissioner may issue such further directions as he deems fit, including but not limited to terminating the tripartite mediation proceedings.
+
+[Act 21 of 2016 wef 01/04/2017]
 
 (2) In the event that an employer who has been directed to participate in tripartite mediation under section 30H(3)(c) fails to attend any mediation session without reasonable excuse, the Minister may in writing, direct such employer to attend a mediation session.
 
@@ -1851,6 +1926,10 @@ This Legislative History is provided for the convenience of users of the Industr
 ||Date of First Reading|3 November 2014 (Bill No. 41/2014 published on 3 November 2014)|
 ||Date of Second and Third Readings|19 January 2015|
 ||Date of commencement|1 April 2015|
+|21.|**Act 21 of 2016—Employment Claims Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 April 2017|
 ## COMPARATIVE TABLE
 
 Industrial Relations Act
