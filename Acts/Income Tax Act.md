@@ -2882,13 +2882,17 @@ by —
 
 (b) subject to subsections (2C) and (2D) and such conditions as may be prescribed by regulations —
 
-(i) the interest derived by any person from any qualifying project debt securities issued during the period from 1st November 2006 to 31st March 2017 (both dates inclusive);
+(i) the interest derived by any person from any qualifying project debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ii) the discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying project debt securities issued during the period from 15th February 2007 to 31st March 2017 (both dates inclusive); and
+[Act 39 of 2017 wef 01/04/2017]
+
+(ii) the discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying project debt securities issued during the period from 15 February 2007 to 31 December 2022 (both dates inclusive); and
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (iii) such other income derived by any person that is directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations;
 
@@ -3132,13 +3136,17 @@ except where such income is derived through a partnership in Singapore or is der
 
 (A) it does not, by itself or in association with others, carry on a business in Singapore, and does not have a permanent establishment in Singapore; and
 
-(B) the contract in respect of the structured product between it and the financial institution takes effect during the period from 1st January 2007 to 31st March 2017 (both dates inclusive) and, if such contract is renewed or extended, the period for which it is renewed or extended commences before 1st April 2017; or
+(B) the contract in respect of the structured product between it and the financial institution takes effect during the period from 1 January 2007 to 31 March 2021 (both dates inclusive) and, if such contract is renewed or extended, the period for which the contract is renewed or extended commences before 1 April 2021; or
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (iii) by a non-resident person (not being an individual nor a permanent establishment in Singapore) who carries on any operation in Singapore through a permanent establishment in Singapore if —
 
 (A) the funds used by that person to invest in the structured product are not obtained from the operation; and
 
-(B) the contract in respect of the structured product between that person and the financial institution takes effect during the period from 1st January 2007 to 31st March 2017 (both dates inclusive) and, if such contract is renewed or extended, the period for which it is renewed or extended commences before 1st April 2017;
+(B) the contract in respect of the structured product between that person and the financial institution takes effect during the period from 1 January 2007 to 31 March 2021 (both dates inclusive) and, if such contract is renewed or extended, the period for which the contract is renewed or extended commences before 1 April 2021;
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (zk) any prepayment fee, redemption premium or break cost from debt securities derived from Singapore on or after 15th February 2007 by any individual, except where such income is derived through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
 
@@ -3192,13 +3200,17 @@ except where such income is derived through a partnership in Singapore or is der
 
 (2C) Subsection (1)(b) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
-(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st March 2017 (both dates inclusive);
+(a) any interest derived from any qualifying project debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st March 2017 (both dates inclusive); or
+[Act 39 of 2017 wef 01/04/2017]
+
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15 February 2007 to 31 December 2022 (both dates inclusive); or
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (c) such other income directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
@@ -3210,13 +3222,17 @@ if 50% or more of those securities which are outstanding at any time during the 
 
 (2D) Subsection (1)(b) shall not apply to —
 
-(a) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st March 2017 (both dates inclusive);
+(a) any interest derived from any qualifying project debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15th February 2007 to 31st March 2017 (both dates inclusive); or
+[Act 39 of 2017 wef 01/04/2017]
+
+(b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15 February 2007 to 31 December 2022 (both dates inclusive); or
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (c) such other income directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
@@ -3592,13 +3608,17 @@ but, unless otherwise approved by the Minister or such person as he may appoint,
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ii) by any financial sector incentive (bond market) company or financial sector incentive (project finance) company and issued during the period from 1st November 2006 to 31st March 2017 (both dates inclusive); or
+(ii) by any financial sector incentive (bond market) company or financial sector incentive (project finance) company and issued during the period from 1st November 2006 to 31st December 2022 (both dates inclusive); or
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(iii) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st March 2017 (both dates inclusive);
+[Act 39 of 2017 wef 01/04/2017]
+
+(iii) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2022 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (b) the interest and other income directly attributable to which are funded primarily by cash flows from an infrastructure asset or project prescribed by regulations (referred to in this definition as a prescribed asset or project); and
 
@@ -18890,9 +18910,15 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 ### Concessionary rate of tax for leasing of aircraft and aircraft engines
 
-43Y\.—(1) Notwithstanding section 43, tax at the rate of 5% or 10% as the Minister (or such person as the Minister may appoint) may specify, shall be levied and paid for each year of assessment upon the income of an approved aircraft leasing company accruing in or derived from Singapore in respect of leasing of any aircraft or aircraft engine or such other activity as may be prescribed by regulations.
+43Y\.—(1) Despite section 43, tax at the following rate is levied, and must be paid, for each year of assessment upon the income of an approved aircraft leasing company accruing in or derived from Singapore in respect of the leasing of any aircraft or aircraft engine or such other activity as the Minister may by regulations prescribe:
+
+(a) where the company is approved before 1 April 2017, 5% or 10%, as specified by the Minister or such person as the Minister may appoint;
+
+(b) where the company is approved on or after 1 April 2017, 8%.
 
 [53/2007]
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved aircraft leasing company subject to such conditions as the Minister or such person as he may appoint may impose.
 
@@ -18902,11 +18928,13 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 [53/2007]
 
-(4) Approval may be granted under this section between 1st March 2007 and 31st March 2017 (both dates inclusive).
+(4) Approval may be granted under this section between 1 March 2007 and 31 December 2022 (both dates inclusive).
 
 [53/2007; 29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (5) In determining the income of an approved aircraft leasing company from the leasing of any aircraft or aircraft engine —
 
@@ -18960,11 +18988,13 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 [53/2007]
 
-(4) Approval may be granted under this section between 1st March 2007 and 31st March 2017 (both dates inclusive).
+(4) Approval may be granted under this section between 1 March 2007 and 31 December 2022 (both dates inclusive).
 
 [53/2007; 29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (5) In this section —
 
@@ -19156,11 +19186,13 @@ except that the Minister may extend the period so specified for such further per
 
 [34/2008]
 
-(4) Approval may be granted under this section between 1st April 2008 and 31st March 2017 (both dates inclusive).
+(4) Approval may be granted under this section between 1 April 2008 and 31 December 2022 (both dates inclusive).
 
 [34/2008; 22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 39 of 2017 wef 01/04/2017]
 
 (5) In this section —
 
@@ -19816,13 +19848,15 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(b) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st March 2017 (both dates inclusive), subject to such conditions as the Minister may impose;
+(b) any interest derived from any qualifying project debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive), subject to such conditions as the Minister may impose;
 
 [53/2007; 34/2008; 22/2011; 19/2013]
 
 [Act 37 of 2014 wef 21/02/2014]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 01/04/2017]
 
 (c) any interest liable to be paid on or after 21st February 2014 by a person to a branch in Singapore of a company incorporated outside Singapore and not known to him to be resident in Singapore.
 
@@ -19862,11 +19896,13 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(b) any discount, prepayment fee, redemption premium or break cost from any qualifying project debt securities issued during the period from 15th February 2007 to 31st March 2017 (both dates inclusive).
+(b) any discount, prepayment fee, redemption premium or break cost from any qualifying project debt securities issued during the period from 15 February 2007 to 31 December 2022 (both dates inclusive).
 
 [53/2007; 34/2008; 22/2011; 19/2013]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 01/04/2017]
 
 (2C) Subject to such conditions as the Minister may impose, subsection (1) shall not apply to —
 
@@ -25490,6 +25526,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 April 2016|
 |||1 January 2017|
 |||21 February 2017|
+|||1 April 2017|
+|198.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
+||Date of First Reading|10 September 2018|
+|||(Bill No. 37/2018)|
+||Date of Second and Third Readings|2 October 2018|
+||Date of commencement|1 April 2017|
 ## COMPARATIVE TABLE
 
 Income Tax Act
