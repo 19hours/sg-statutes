@@ -1834,7 +1834,9 @@ and the decision of the Appeal Panel shall be final.
 
 “preferential debt” means any debt specified in subsection (1);
 
-“retrenchment benefit” means the amount payable to an employee on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be or, if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour;
+“retrenchment benefit” means the amount payable to an employee on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be or, if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour or by an Employment Claims Tribunal constituted under section 4 of the State Courts Act (Cap. 321);
+
+[Act 21 of 2016 wef 01/04/2017]
 
 “wages or salary” includes —
 
@@ -3352,7 +3354,9 @@ Proof of debts
 
 “ex gratia payment” means the amount payable to an employee on the bankruptcy of his employer or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
 
-“retrenchment benefit” means the amount payable to an employee on the bankruptcy of his employer, on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour.
+“retrenchment benefit” means the amount payable to an employee on the bankruptcy of his employer, on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour or by an Employment Claims Tribunal constituted under section 4 of the State Courts Act (Cap. 321).
+
+[Act 21 of 2016 wef 01/04/2017]
 
 (6) The debts in each class specified in subsection (1) shall rank in the order therein specified but debts of the same class shall rank equally between themselves, and shall be paid in full, unless the property of the bankrupt is insufficient to meet them, in which case they shall abate in equal proportions between themselves.
 
@@ -5484,6 +5488,10 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of First Reading|11 May 2015 (Bill No. 18/2015 published on 11 May 2015)|
 ||Date of Second and Third Readings|14 July 2015|
 ||Date of commencement|1 August 2016|
+|25.|**Act 21 of 2016—Employment Claims Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 April 2017|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
