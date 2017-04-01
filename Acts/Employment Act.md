@@ -502,6 +502,10 @@ PRELIMINARY
 
 “machinery” includes all oil engines, gas engines, steam engines and any other machines in which mechanical movement, either linear or rotated or both, takes place, steam boilers, gas cylinders, air receivers, steam receivers, steam containers, cast iron underfired vulcanizers, refrigerating plants, pressure receivers, all appliances for the transmission of power by ropes, belts, chains, driving straps or bands or gearing, electrical generators and electrical motors;
 
+“mediation request” has the same meaning as in section 2(1) of the Employment Claims Act 2016;
+
+[Act 21 of 2016 wef 01/04/2017]
+
 “medical officer” means —
 
 (a) a dentist registered under the Dental Registration Act (Cap. 76), or a medical practitioner, employed by the Government or by an approved medical institution; or
@@ -595,6 +599,22 @@ Provided that when any person is employed by any one employer partly as a workma
 [21/84]
 
 [Act 27 of 2015 wef 22/08/2015]
+
+(3) The Commissioner may in writing appoint an individual (who may or may not be a public officer) as an authorised person for the purpose of carrying out any function or duty of the Commissioner under this Act or any other written law relating to employment, employment terms or the relations between employers and employees.
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(4) The Commissioner must, in writing, issue to each authorised person an authorisation specifying —
+
+(a) the functions and duties of the Commissioner that the authorised person is authorised to carry out;
+
+(b) the powers of the Commissioner that the authorised person is authorised to exercise;
+
+(c) the conditions of the authorisation; and
+
+(d) the limitations to which the authorisation is subject.
+
+[Act 21 of 2016 wef 01/04/2017]
 
 ### Rules and orders
 
@@ -1086,9 +1106,9 @@ in that month
 
 (4) The amount payable to each such employee under subsection (2) shall not exceed 5 months’ salary.
 
-(5) For the purpose of ascertaining the amount due to any employee under subsection (2), the court may refer the matter to the Commissioner with a request that he holds an inquiry into the matter and forward his findings in respect thereof to the court, and the Commissioner shall comply with any such request.
+(5) [Deleted by Act 21 of 2016 wef 01/04/2017]
 
-(6) For the purposes of any inquiry under subsection (5), the Commissioner shall have all the powers conferred upon him by section 115.
+(6) [Deleted by Act 21 of 2016 wef 01/04/2017]
 
 (7) For the purposes of this section, “employees” shall be deemed to include subcontractors for labour and “salary” shall be deemed to include money due to a subcontractor for labour.
 
@@ -1538,11 +1558,27 @@ CONTRACTORS AND CONTRACTING
 
 (1B) In the case of a contract for constructional work, the principal shall not be liable for the payment of salary under subsection (1) unless he is also a constructional contractor.
 
-(1C) The workman shall institute proceedings for the recovery of his salary within 60 days or such longer period as the Commissioner may in his discretion allow from the date on which the salary became due for payment in accordance with the provisions for the payment of salary contained in Part III.
+(1C) [Deleted by Act 21 of 2016 wef 01/04/2017]
 
-(2) A claim for salary under this section shall be made in the manner prescribed by Part XV.
+(2) A workman who wishes to recover any salary from a person liable under this section for the salary must, before lodging a claim for the salary under section 13 of the Employment Claims Act 2016, submit to the Commissioner, under section 3(1) of that Act, a mediation request for the mediation under Part 2 of that Act of every dispute for which the claim will be lodged.
 
-[36/95]
+[Act 21 of 2016 wef 01/04/2017]
+
+(2A) The workman must submit the mediation request to the Commissioner within 60 days after the date on which the salary becomes due for payment in accordance with Part III.
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(2B) The Commissioner may, in the Commissioner’s discretion, extend the period under subsection (2A) within which the workman must submit the mediation request to the Commissioner.
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(2C) However, if a workman has lodged, before the date of commencement of section 38(d) of the Employment Claims Act 2016, a claim under section 119 for any salary against a person liable under this section for the salary —
+
+(a) subsections (2), (2A) and (2B) do not apply to the recovery of the salary under that claim; and
+
+(b) instead, the repealed section 65(1C) and (2) as in force immediately before that date continue to apply to the recovery of the salary under that claim.
+
+[Act 21 of 2016 wef 01/04/2017]
 
 (3) Nothing in this section shall prevent any principal or contractor or subcontractor, not being the employer, who as the result of a claim made under this section has paid any salary to a workman, from instituting civil proceedings for the recovery of the amount of salary so paid from the employer of that workman.
 
@@ -2663,9 +2699,21 @@ CLAIMS, COMPLAINTS AND INVESTIGATIONS INTO OFFENCES
 
 115\.—(1) Subject to this section, the Commissioner may inquire into and decide any dispute between an employee and his employer or any person liable under the provisions of this Act to pay any salary due to the employee where the dispute arises out of any term in the contract of service between the employee and his employer or out of any of the provisions of this Act, and in pursuance of that decision may make an order in the prescribed form for the payment by either party of such sum of money as he considers just without limitation of the amount thereof.
 
+(1A) The Commissioner must not inquire into or decide a dispute mentioned in subsection (1) unless —
+
+(a) the dispute is of a type prescribed by regulations made under section 139; or
+
+(b) a claim is lodged under section 119, in relation to the dispute, before the date of commencement of section 38(e) of the Employment Claims Act 2016.
+
+[Act 21 of 2016 wef 01/04/2017]
+
 (2) The Commissioner shall not inquire into any dispute in respect of matters arising earlier than one year from the date of lodging a claim under section 119 or the termination of the contract of service of or by the person claiming under that section:
 
 Provided that the person claiming in respect of matters arising out of or as the result of a termination of a contract of service has lodged a claim under section 119 within 6 months of the termination of the contract of service.
+
+(2A) The Commissioner may direct the parties to a dispute mentioned in subsection (1) to attend a mediation conducted by an approved mediator (as defined in section 2(1) of the Employment Claims Act 2016) or a conciliation officer (as defined in section 2 of the Industrial Relations Act (Cap. 136)).
+
+[Act 21 of 2016 wef 01/04/2017]
 
 (3) The powers of the Commissioner under subsection (1) shall include the power to hear and decide, in accordance with the procedure laid down in this Part, any claim by a subcontractor for labour against a contractor or subcontractor for any sum which the subcontractor for labour claims to be due to him in respect of any labour provided by him under his contract with the contractor or subcontractor and to make such consequential orders as may be necessary to give effect to his decision.
 
@@ -2899,7 +2947,9 @@ PROCEDURE AND REGULATIONS
 
 ### Officers to be public servants
 
-127\. For the purposes of this Act and of the Penal Code (Cap. 224), the Commissioner and all other officers appointed or acting under this Act shall be deemed to be public servants within the meaning of the Penal Code.
+127\. For the purposes of this Act and of the Penal Code (Cap. 224), the Commissioner, every other officer appointed or acting under this Act, and every authorised person (when carrying out any function or duty of the Commissioner) shall be deemed to be public servants within the meaning of the Penal Code.
+
+[Act 21 of 2016 wef 01/04/2017]
 
 ### Protection from personal liability
 
@@ -3494,3 +3544,7 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of First Reading|13 July 2015 (Bill No. 23/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|17 August 2015|
 ||Date of commencement|1 April 2016|
+|38.|**Act 21 of 2016—Employment Claims Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 April 2017|
