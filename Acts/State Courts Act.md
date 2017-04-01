@@ -264,21 +264,23 @@ CONSTITUTION
 
 ### State Courts
 
-3\.—(1) There shall be within Singapore the following subordinate courts called the State Courts with such jurisdiction as is conferred by this Act or any other written law:
+3\.—(1) There are within Singapore the following subordinate courts called the State Courts:
 
 (a) District Courts;
 
 (b) Magistrates’ Courts;
 
-(c) [Deleted by Act 27 of 2014 wef 01/10/2014]
+(c) Coroners’ Courts;
 
-(d) Coroners’ Courts;
+(d) Small Claims Tribunals;
 
-(e) Small Claims Tribunals.
+(e) Employment Claims Tribunals.
 
-[27/84]
+[Act 21 of 2016 wef 01/04/2017]
 
-[Act 5 of 2014 wef 07/03/2014]
+(1A) The District Courts and Magistrates’ Courts have such jurisdiction as is conferred by this Act and any other written law.
+
+[Act 21 of 2016 wef 01/04/2017]
 
 (2) The Small Claims Tribunals shall have such jurisdiction as is conferred by the Small Claims Tribunals Act (Cap. 308) or any other written law.
 
@@ -287,6 +289,10 @@ CONSTITUTION
 (4) The Coroners’ Courts shall have such jurisdiction as is conferred by the Coroners Act 2010 and any other written law.
 
 [14/2010 wef 02/01/2011]
+
+(5) The Employment Claims Tribunals have such jurisdiction as is conferred by the Employment Claims Act 2016 and any other written law.
+
+[Act 21 of 2016 wef 01/04/2017]
 
 ### Court houses
 
@@ -1627,6 +1633,10 @@ This Legislative History is provided for the convenience of users of the Subordi
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 January 2015|
+|29.|**Act 21 of 2016—Employment Claims Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 April 2017|
 ## COMPARATIVE TABLE
 
 State Courts Act
