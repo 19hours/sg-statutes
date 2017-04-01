@@ -18,7 +18,17 @@
 
 - [5 Appointment of acting Returning Officer](#Appointment-of-acting-Returning-Officer)
 
+[**Part IA COUNTING OF RESERVED ELECTIONS AND QUALIFICATIONS OF PRESIDENT**](#Part-IA)
+
+- [5A Reserved elections: how counted](#Reserved-elections:-how-counted)
+
+- [5B Further provisions on community requirement](#Further-provisions-on-community-requirement)
+
+- [5C Further provisions on private sector service requirement](#Further-provisions-on-private-sector-service-requirement)
+
 [**Part II ELECTIONS**](#Part-II)
+
+[**Division 1  Issuance of writ, etc.**](#Division-1--Issuance-of-writ-etc)
 
 - [6 Timing of poll and writ of election](#Timing-of-poll-and-writ-of-election)
 
@@ -26,9 +36,37 @@
 
 - [7A Failure of election](#Failure-of-election)
 
-- [8 Certificate of eligibility](#Certificate-of-eligibility)
+[**Division 2  Presidential Elections Committee and Certificate of Eligibility**](#Division-2--Presidential-Elections-Committee-and-Certificate-of-Eligibility)
 
-- [8A Immunity of Presidential Elections Committee](#Immunity-of-Presidential-Elections-Committee)
+- [8 Application for certificate of eligibility](#Application-for-certificate-of-eligibility)
+
+- [8A Consideration of application](#Consideration-of-application)
+
+- [8B Time for deciding application](#Time-for-deciding-application)
+
+- [8C Certificate to be conclusive](#Certificate-to-be-conclusive)
+
+- [8D Immunity of Presidential Elections Committee](#Immunity-of-Presidential-Elections-Committee)
+
+[**Division 3  Community Committee and Community Certificate**](#Division-3--Community-Committee-and-Community-Certificate)
+
+- [8E Establishment of Community Committee and Sub-Committees](#Establishment-of-Community-Committee-and-Sub-Committees)
+
+- [8F Submission of community declaration](#Submission-of-community-declaration)
+
+- [8G Consideration of community declaration in reserved elections](#Consideration-of-community-declaration-in-reserved-elections)
+
+- [8H Consideration of community declaration in non-reserved elections](#Consideration-of-community-declaration-in-non-reserved-elections)
+
+- [8I Time for issuing community certificate, etc.](#Time-for-issuing-community-certificate-etc)
+
+- [8J Decision to be final; certificate to be conclusive](#Decision-to-be-final;-certificate-to-be-conclusive)
+
+- [8K Immunity of Community Committee and Sub-Committees](#Immunity-of-Community-Committee-and-Sub-Committees)
+
+- [8L Procedure of Community Committee and Sub-Committees](#Procedure-of-Community-Committee-and-Sub-Committees)
+
+[**Division 4  Nomination Proceedings**](#Division-4--Nomination-Proceedings)
 
 - [9 Nomination papers](#Nomination-papers)
 
@@ -44,7 +82,11 @@
 
 - [14 Persons entitled to be present during nomination proceedings](#Persons-entitled-to-be-present-during-nomination-proceedings)
 
+[**Division 5  Uncontested Elections**](#Division-5--Uncontested-Elections)
+
 - [15 Uncontested elections](#Uncontested-elections)
+
+[**Division 6  Contested Elections**](#Division-6--Contested-Elections)
 
 - [16 Contested elections](#Contested-elections)
 
@@ -63,6 +105,8 @@
 - [22A Voting by overseas electors](#Voting-by-overseas-electors)
 
 - [23 Poll by ballot and ballot papers](#Poll-by-ballot-and-ballot-papers)
+
+- [23A Candidates’ photographs on ballot paper](#Candidates’-photographs-on-ballot-paper)
 
 - [24 Ballot boxes](#Ballot-boxes)
 
@@ -104,7 +148,7 @@
 
 - [36 Maintenance of secrecy at elections](#Maintenance-of-secrecy-at-elections)
 
-[**Postponement and adjournment of elections**](#Postponement-and-adjournment-of-elections)
+[**Division 7  Postponement and Adjournment of Elections**](#Division-7--Postponement-and-Adjournment-of-Elections)
 
 - [36A Postponement of nomination day, etc.](#Postponement-of-nomination-day-etc)
 
@@ -114,17 +158,21 @@
 
 - [36D Voting at adjourned polling](#Voting-at-adjourned-polling)
 
+- [36DA Ballot box lost or destroyed after close of poll in Singapore](#Ballot-box-lost-or-destroyed-after-close-of-poll-in-Singapore)
+
+- [36DB Ballot box lost or destroyed after close of poll at overseas polling station](#Ballot-box-lost-or-destroyed-after-close-of-poll-at-overseas-polling-station)
+
 - [36E Adjournment, etc., of counting](#Adjournment-etc-of-counting)
 
 - [36F Adjournment, etc., of adding of counted votes](#Adjournment-etc-of-adding-of-counted-votes)
 
 [**Part III OFFENCES AND CORRUPT AND ILLEGAL PRACTICES**](#Part-III)
 
-[**Chapter 1  Offences**](#Chapter-1--Offences)
+[**Division 1  Offences**](#Division-1--Offences)
 
 - [37 Offences](#Offences)
 
-[**Chapter 2  Corrupt Practices**](#Chapter-2--Corrupt-Practices)
+[**Division 2  Corrupt Practices**](#Division-2--Corrupt-Practices)
 
 - [38 Personation](#Personation)
 
@@ -136,7 +184,7 @@
 
 - [42 Punishment for corrupt practice](#Punishment-for-corrupt-practice)
 
-[**Chapter 3  Election Agent, Election Expenses and Illegal Practices**](#Chapter-3--Election-Agent-Election-Expenses-and-Illegal-Practices)
+[**Division 3  Election Agent, Election Expenses and Illegal Practices**](#Division-3--Election-Agent-Election-Expenses-and-Illegal-Practices)
 
 - [43 Nomination of election agents](#Nomination-of-election-agents)
 
@@ -174,7 +222,15 @@
 
 - [60 Regulations for display of posters and banners](#Regulations-for-display-of-posters-and-banners)
 
+- [60AA Regulations for other election advertising](#Regulations-for-other-election-advertising)
+
 - [60A Election advertising ban](#Election-advertising-ban)
+
+- [60B Blackout period for election survey results](#Blackout-period-for-election-survey-results)
+
+- [60C Exit polls ban on polling day](#Exit-polls-ban-on-polling-day)
+
+- [60D Defence for election advertising offences](#Defence-for-election-advertising-offences)
 
 - [61 Punishment for conviction for illegal practice](#Punishment-for-conviction-for-illegal-practice)
 
@@ -192,7 +248,7 @@
 
 - [67 Offence to operate loudspeaker](#Offence-to-operate-loudspeaker)
 
-[**Chapter 4  Excuse for Corrupt and Illegal Practice**](#Chapter-4--Excuse-for-Corrupt-and-Illegal-Practice)
+[**Division 4  Excuse for Corrupt and Illegal Practice**](#Division-4--Excuse-for-Corrupt-and-Illegal-Practice)
 
 - [68 Report exonerating candidate in certain cases of corrupt and illegal practice by agents](#Report-exonerating-candidate-in-certain-cases-of-corrupt-and-illegal-practice-by-agents)
 
@@ -232,7 +288,13 @@
 
 - [83 Publication of notices, etc.](#Publication-of-notices-etc)
 
+- [83A Offences by corporations](#Offences-by-corporations)
+
+- [83B Offences by unincorporated associations or partnerships](#Offences-by-unincorporated-associations-or-partnerships)
+
 - [84 Composition of offences](#Composition-of-offences)
+
+[**THE SCHEDULE Presidential terms counted for the purposes of reserved elections**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -262,7 +324,7 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “ballot box” includes a ballot container;
 
@@ -270,11 +332,35 @@ PRELIMINARY
 
 “candidate” means a person who is nominated as a candidate for election to the office of President;
 
+“certificate of eligibility” means a certificate of eligibility issued under Division 2 of Part II;
+
+[Act 6 of 2017 wef 01/04/2017]
+
 “Commissioner of National Registration” means the Commissioner of National Registration appointed under the National Registration Act (Cap. 201);
+
+“community” means —
+
+(a) the Chinese community;
+
+(b) the Malay community; or
+
+(c) the Indian or other minority communities;
+
+[Act 6 of 2017 wef 01/04/2017]
+
+“community certificate” means a community certificate issued by the Community Committee under Division 3 of Part II;
+
+[Act 6 of 2017 wef 01/04/2017]
+
+“Community Committee” means the Community Committee established under section 8E;
+
+[Act 6 of 2017 wef 01/04/2017]
 
 “direct recording electronic voting machine” or “DRE voting machine” means any mechanical, electronic or electro-optical machine that can —
 
-(a) be activated by a voter to mark or record his vote for any candidate or group of candidates on a ballot display on the machine;
+(a) be activated by a voter to mark or record his vote for any candidate on a ballot display on the machine;
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (b) process the vote by means of a computer program;
 
@@ -287,6 +373,16 @@ and includes any computer program that is used in the operation of the machine;
 “direct recording electronic voting system” or “DRE voting system” means any voting system using DRE voting machines;
 
 “election” means an election for the purpose of electing the President;
+
+“election advertising” means any poster, banner, notice, circular, handbill, illustration, article, advertisement or other material that can reasonably be regarded as intended —
+
+(a) to promote or procure the electoral success of a candidate at an election; or
+
+(b) to otherwise enhance the standing of the candidate with the electorate in connection with that election,
+
+and such material is election advertising even though it can reasonably be regarded as intended to achieve any other purpose as well and even though it does not expressly mention the name of the candidate, but excludes any button, badge, pen, pencil, balloon and any other thing prescribed by the Minister by notification in theGazette;
+
+[Act 6 of 2017 wef 01/04/2017]
 
 “election agent” means a person named under section 43 by or on behalf of a candidate as his agent for an election and includes any candidate acting in his capacity of election agent;
 
@@ -312,13 +408,39 @@ and includes any computer program that is used in the operation of the machine;
 
 “Registration Officer” means the Registration Officer appointed under section 3 of the Parliamentary Elections Act and includes any Assistant Registration Officer so appointed;
 
+“reserved election” means an election reserved under Article 19B(1) of the Constitution read with section 5A, but excludes an election which is an open election under section 5B;
+
+[Act 6 of 2017 wef 01/04/2017]
+
 “Returning Officer” means the Returning Officer appointed under section 3;
+
+“Sub-Committee” means any of the following Sub-Committees established under section 8E:
+
+(a) the Chinese Community Sub-Committee;
+
+(b) the Malay Community Sub-Committee;
+
+(c) the Indian and Other Minority Communities Sub-Committee;
+
+[Act 6 of 2017 wef 01/04/2017]
 
 “tendered votes list” means the list referred to in section 29;
 
 “voter” means a person who, whether his name does or does not appear in a register of electors, applies to vote or votes at an election.
 
 [12/93; 18/99; 19/2001; 14/2008]
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(2) For the purposes of this Act —
+
+(a) the reference to the electoral success of a candidate at an election is a reference to the return of the candidate at that election;
+
+(b) the reference to the doing of anything mentioned in paragraph (a) or (b) of the definition of “election advertising” in relation to a candidate includes a reference to the doing so by prejudicing the electoral prospects of any other candidate or by prejudicing the other candidate’s standing with the electorate; and
+
+(c) the reference to a candidate at an election includes a reference to a person who, on or after the date of the issue of a writ for that election, is declared (by himself or others) as seeking nomination as a candidate at that election.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Appointment of Returning Officer and Assistant Returning Officers
 
@@ -340,9 +462,92 @@ and includes any computer program that is used in the operation of the machine;
 
 5\. If the Returning Officer is, by sickness or other cause, prevented or disabled from performing any of his duties under this Act and there is no time for any other person to be appointed by the Minister, the Returning Officer may appoint one of the Assistant Returning Officers to act for him.
 
+## PART IA
+
+COUNTING OF RESERVED ELECTIONS AND
+
+
+
+
+QUALIFICATIONS OF PRESIDENT
+
+### Reserved elections: how counted
+
+5A\.—(1) The Schedule has effect for the purposes of determining whether an election is reserved under Article 19B(1) of the Constitution.
+
+(2) After the Returning Officer declares a person to be elected as President, the Returning Officer must add the person, and the community (if any) the person belongs to, to the Schedule.
+
+(3) For the purposes of subsection (2) —
+
+(a) if a community certificate was issued to the person, the person is considered to belong to the community stated on the community certificate; and
+
+(b) if no community certificate was issued to the person, the person is considered not to belong to the Chinese community, the Malay community or the Indian or other minority communities.
+
+(4) If a person has been added to the Schedule and the Election Judge subsequently declares that the person’s election is void or that the return of the person is undue, the Returning Officer must remove the entry in the Schedule relating to the election affected by the declaration.
+
+(5) An amendment to the Schedule under subsection (2) or (4) must be made by notification in theGazette.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Further provisions on community requirement
+
+5B\.—(1) If an election under a writ is reserved for one community under Article 19B(1) of the Constitution and the election wholly fails, elections under all subsequent writs are to be open elections until a person is elected as President.
+
+(2) The following provisions apply if an election under a writ is reserved for 2 communities under Article 19B(1) of the Constitution:
+
+(a) Article 19B(2)(b)(i) of the Constitution applies to that election;
+
+(b) if that election wholly fails, Article 19B(2)(b)(ii) of the Constitution applies to the election under the next writ;
+
+(c) if the election under the next writ wholly fails, elections under all subsequent writs are to be open elections until a person is elected as President.
+
+(3) The following provisions apply if an election under a writ is reserved for 3 communities under Article 19B(1) of the Constitution:
+
+(a) Article 19B(2)(c)(i) of the Constitution applies to that election;
+
+(b) if that election wholly fails, Article 19B(2)(c)(ii) of the Constitution applies to the election under the next writ;
+
+(c) if the election under the next writ wholly fails, Article 19B(2)(c)(iii) of the Constitution applies to the election under the third writ;
+
+(d) if the election under the third writ wholly fails, elections under all subsequent writs are to be open elections until a person is elected as President.
+
+(4) Despite Article 19B(2) of the Constitution, a person does not need to belong to any community to be elected as President in an open election under subsection (1), (2)(c) or (3)(d).
+
+(5) For the purposes of this section, an election under a writ is deemed to have wholly failed only if no person stands or will stand nominated as a candidate on nomination day.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Further provisions on private sector service requirement
+
+5C\.—(1) The Minister may make regulations to —
+
+(a) specify how the Presidential Elections Committee is to calculate and determine shareholders’ equity for the purposes of Article 19(4)(a)(ii) and (b)(ii) and (5)(a)(ii), (b)(ii) and (c)(ii) of the Constitution;
+
+(b) specify how the Presidential Elections Committee is to calculate and determine profit after tax for the purposes of Article 19(4)(a)(iii) of the Constitution;
+
+(c) prescribe what constitutes an insolvency event for the purposes of Article 19(4)(a)(iv) of the Constitution; and
+
+(d) prescribe the information to be provided by an applicant in relation to paragraphs (a), (b) and (c).
+
+(2) In making regulations under subsection (1)(a) or (b), the Minister must have regard to, to the extent that they are applicable —
+
+(a) the accounting standards made or formulated under Part III of the Accounting Standards Act (Cap. 2B) by the Accounting Standards Council established under that Act; and
+
+(b) the accounting standards generally accepted in Singapore before 1 November 2007.
+
+(3) In making regulations under subsection (1)(c), the Minister must have regard to the general law relating to the insolvency of companies.
+
+[Act 6 of 2017 wef 01/04/2017]
+
 ## PART II
 
 ELECTIONS
+
+Division 1 —
+
+Issuance of writ, etc.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Timing of poll and writ of election
 
@@ -354,7 +559,9 @@ ELECTIONS
 
 (2) For the purposes of every election to the office of President, the Prime Minister shall issue a writ under the public seal, addressed to the Returning Officer.
 
-(3) Every such writ shall be in the prescribed form and shall specify the date or dates (referred to in this Act as nomination day) not being less than 5 days nor more than one month after the date of the writ and the place or places of nomination (referred to in this Act as the place of nomination).
+(3) Every such writ shall be in the prescribed form and shall specify the date or dates (referred to in this Act as nomination day) not being less than 10 days nor more than one month after the date of the writ and the place or places of nomination (referred to in this Act as the place of nomination).
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (4) Upon receipt of the writ, the Returning Officer shall proceed to hold the election in the manner provided in this Act.
 
@@ -380,41 +587,287 @@ ELECTIONS
 
 [11/2010]
 
-### Certificate of eligibility
+Division 2 —
 
-8\.—(1) At any time after the date referred to in section 6(1)(a) or such date which is 3 months before the date referred to in section 6(1)(b), whichever is the earlier, but in any case not later than 3 days after the date of the writ for an election, every person who desires to be elected to the office of President shall apply in the prescribed manner to the Presidential Elections Committee for a certificate in the prescribed form.
+Presidential Elections Committee
 
-(1A) The certificate referred to in subsection (1) shall certify, for the purposes of an election —
 
-(a) that the Committee is satisfied that the person applying is a person of integrity, good character and reputation; and
 
-(b) where the person applying states that he desires to contest in an election by virtue of being qualified under Article 19(2)(g)(iv) of the Constitution, that the Committee is of the opinion that the person, having held office for a period of not less than 3 years in such position of seniority and responsibility in such organisation or department in the public or private sector as described in Article 19(2)(g)(iv) of the Constitution, has such experience and ability in administering and managing financial affairs as to enable him to carry out effectively the functions and duties of the office of President.
 
-[12/93]
+and Certificate of Eligibility
 
-(2) If the Presidential Elections Committee, upon receipt of an application under subsection (1) —
+### Application for certificate of eligibility
 
-(a) is satisfied that the applicant is a person of integrity, good character and reputation; or
+8\.—(1) A person desiring to be elected as President must apply in the prescribed manner to the Presidential Elections Committee for a certificate of eligibility.
 
-(b) is of the opinion that the applicant has such experience and ability in administering and managing financial affairs as to enable him to carry out effectively the functions and duties of the office of President,
+(2) An application for a certificate of eligibility must be made within the period —
 
-the Committee shall not later than the day before nomination day issue to the applicant the certificate referred to in subsection (1) containing the relevant certification.
+(a) starting on —
 
-(3) Any such certificate shall be final and shall not be subject to appeal or review in any court.
+(i) if the office of President falls vacant before the incumbent’s term expires, the date on which the office of President fell vacant; or
+
+(ii) in any other case, the date that is 3 months before the expiry of the incumbent’s term; and
+
+(b) ending on the date which is 5 days after the date of the writ.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Consideration of application
+
+8A\.—(1) Subject to subsection (2), the Presidential Elections Committee must issue a certificate of eligibility in the prescribed form to an applicant if the Committee is satisfied that —
+
+(a) the applicant is a person of integrity, good character and reputation for the purposes of Article 19(2)(e) of the Constitution; and
+
+(b) the applicant has met the service requirements in Article 19(2)(g) of the Constitution.
+
+(2) The Presidential Elections Committee —
+
+(a) may, subject to paragraph (b), reject an application if it is not made according to this Act; and
+
+(b) must reject an application if the applicant did not submit a community declaration in accordance with Division 3.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Time for deciding application
+
+8B\. The Presidential Elections Committee must issue a certificate of eligibility to an applicant, or inform an applicant in writing of its decision not to issue a certificate of eligibility, no later than the day before nomination day.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Certificate to be conclusive
+
+8C\. A certificate of eligibility is conclusive of the matters it certifies and is not subject to appeal or review in any court.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Immunity of Presidential Elections Committee
 
-8A\.—(1) The Presidential Elections Committee shall not, in the absence of malice on its part, be liable to any action at the suit of any person in respect of —
+8D\.—(1) The Presidential Elections Committee is not, in the absence of malice on its part, liable to any action at the suit of any person in respect of —
 
 (a) any statement which the Committee makes in the discharge of any of its functions under this Act, whether the statement is made orally or in writing; or
 
 (b) the publication of any document prepared by the Committee in the course of performing its functions under this Act.
 
-[11/99]
-
 (2) Subsection (1) does not limit or affect any other right, privilege or immunity that the Presidential Elections Committee has, apart from this section, as a defendant in any action.
 
-[11/99]
+[Act 6 of 2017 wef 01/04/2017]
+
+Division 3 —
+
+Community Committee
+
+
+
+
+and Community Certificate
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Establishment of Community Committee and Sub-Committees
+
+8E\.—(1) For the purposes of Article 19B of the Constitution, the Community Committee is established and consists of the following 16 persons:
+
+(a) the chairman;
+
+(b) 5 members belonging to the Chinese community;
+
+(c) 5 members belonging to the Malay community;
+
+(d) 5 members belonging to the Indian or other minority communities.
+
+(2) The chairman is to be appointed by the Prime Minister on the nomination of the Presidential Council for Minority Rights.
+
+(3) The 5 members who belong to the Chinese community —
+
+(a) are to be appointed by the Prime Minister on the nomination of the Presidential Council for Minority Rights after consulting such organisations of the Chinese community as the Council sees fit; and
+
+(b) constitute the Chinese Community Sub-Committee.
+
+(4) The 5 members who belong to the Malay community —
+
+(a) are to be appointed by the Prime Minister on the nomination of the Presidential Council for Minority Rights after consulting such organisations of the Malay community as the Council sees fit; and
+
+(b) constitute the Malay Community Sub-Committee.
+
+(5) The 5 members who belong to the Indian or other minority communities —
+
+(a) are to be appointed by the Prime Minister on the nomination of the Presidential Council for Minority Rights after consulting such organisations of the Indian or other minority communities as the Council sees fit; and
+
+(b) constitute the Indian and Other Minority Communities Sub-Committee.
+
+(6) One member of each Sub-Committee is to be appointed as the chairman of the Sub-Committee and the appointment must be made by the Prime Minister on the nomination of the Presidential Council for Minority Rights.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Submission of community declaration
+
+8F\.—(1) A person desiring to be elected as President must submit a community declaration in the prescribed form to the Community Committee.
+
+(2) A person making a community declaration must make one (and only one) of the following statements:
+
+(a) that the person considers himself to be a member of the Chinese community, and wishes to apply for a community certificate stating that the person belongs to the Chinese community;
+
+(b) that the person considers himself to be a member of the Malay community, and wishes to apply for a community certificate stating that the person belongs to the Malay community;
+
+(c) that the person considers himself to be a member of the Indian or other minority communities, and wishes to apply for a community certificate stating that the person belongs to the Indian or other minority communities;
+
+(d) that the person does not consider himself to be a member of the Chinese community, the Malay community, or the Indian or other minority communities.
+
+(3) A community declaration must be submitted within the period —
+
+(a) starting on —
+
+(i) if the office of President falls vacant before the incumbent’s term expires, the date on which the office of President fell vacant; or
+
+(ii) in any other case, the date that is 3 months before the expiry of the incumbent’s term; and
+
+(b) ending on the date which is 5 days after the date of the writ.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Consideration of community declaration in reserved elections
+
+8G\.—(1) This section applies to a reserved election.
+
+(2) The Community Committee must accept a community declaration submitted to the Committee and notify the declarant in writing of the acceptance, subject to the following provisions:
+
+(a) subject to paragraph (b), the Community Committee may reject a community declaration if it is not made according to this Act;
+
+(b) the Community Committee must reject a community declaration if —
+
+(i) the declarant did not apply for a certificate of eligibility; or
+
+(ii) the declarant does not state that he considers himself to be a member of the community to which the election is reserved.
+
+(3) If the Community Committee accepts a community declaration, the Committee must then refer the community declaration to the Sub-Committee for the community to which the election is reserved.
+
+(4) In a case referred to a Sub-Committee for a community under subsection (3) —
+
+(a) the Sub-Committee must consider whether the declarant belongs to that community and report its conclusions to the Community Committee;
+
+(b) the Sub-Committee must be guided by the merits of the case without regard to legal forms and technicalities, or to whether the evidence before it is in accordance with the law of evidence or not;
+
+(c) if the Sub-Committee concludes that the declarant belongs to that community, the Community Committee must issue a community certificate to the declarant stating that the declarant belongs to that community; and
+
+(d) if the Sub-Committee concludes that the declarant does not belong to that community, the Community Committee must reject the declarant’s application for a community certificate and inform the declarant in writing.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Consideration of community declaration in non-reserved elections
+
+8H\.—(1) This section applies to an election other than a reserved election.
+
+(2) The Community Committee must accept a community declaration submitted to the Committee and notify the declarant in writing of the acceptance, subject to the following provisions:
+
+(a) subject to paragraphs (b) and (c), the Community Committee may reject a community declaration if it is not made according to this Act;
+
+(b) subject to paragraph (c), if the declarant states that he does not consider himself to be a member of the Chinese community, the Malay community or the Indian or other minority communities, the Community Committee may, instead of accepting the community declaration, invite the declarant to submit another community declaration;
+
+(c) the Community Committee must reject a community declaration if the declarant did not apply for a certificate of eligibility.
+
+(3) If the Community Committee accepts a community declaration by a declarant who wishes to apply for a community certificate in relation to a community, the Community Committee must refer the community declaration to the Sub-Committee for that community.
+
+(4) In a case referred to a Sub-Committee for a community under subsection (3) —
+
+(a) the Sub-Committee must consider whether the declarant belongs to that community and report its conclusions to the Community Committee;
+
+(b) the Sub-Committee must be guided by the merits of the case without regard to legal forms and technicalities, or to whether the evidence before it is in accordance with the law of evidence or not;
+
+(c) if the Sub-Committee concludes that the declarant belongs to that community, the Community Committee must issue a community certificate to the declarant stating that the declarant belongs to that community; and
+
+(d) if the Sub-Committee concludes that the declarant does not belong to that community, the Community Committee must —
+
+(i) reject the declarant’s application in writing; or
+
+(ii) invite the declarant to submit another community declaration.
+
+(5) In considering whether to invite a person to submit another community declaration under subsection (2)(b) or (4)(d)(ii), the Community Committee must be guided by the merits of the case without regard to legal forms and technicalities, or to whether the evidence before it is in accordance with the law of evidence or not.
+
+(6) If the Community Committee invites a person to submit another community declaration under subsection (2)(b) or (4)(d)(ii), the Community Committee —
+
+(a) must specify the time within which the person must submit the fresh community declaration, which must be no later than 3 days before nomination day;
+
+(b) may require the person to provide such information as may be specified; and
+
+(c) may specify such other terms that the person must comply with.
+
+(7) If a person submits another community declaration on an invitation under subsection (2)(b) or (4)(d)(ii) —
+
+(a) the person is deemed to have withdrawn his earlier community declaration;
+
+(b) the Community Committee may decline to accept the later community declaration if it does not comply with the terms of the invitation; and
+
+(c) the later community declaration must be dealt with according to subsections (2), (3) and (4) (so far as they are applicable), except that the Community Committee may not invite the person again to submit another community declaration.
+
+(8) If a person declines to submit another community declaration despite an invitation under subsection (2)(b) or (4)(d)(ii) —
+
+(a) if the invitation is made under subsection (2)(b), the Community Committee must accept the community declaration earlier submitted by the person; and
+
+(b) if the invitation is made under subsection (4)(d)(ii), the Community Committee must reject the person’s application for a community certificate.
+
+(9) To avoid doubt, a person may not submit another community declaration except on the invitation of the Community Committee under subsection (2)(b) or (4)(d)(ii).
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Time for issuing community certificate, etc.
+
+8I\. The Community Committee must, no later than the day before nomination day, do one of the following things in respect of a community declaration:
+
+(a) inform the declarant that the community declaration is not accepted;
+
+(b) if the community declaration is accepted and includes an application for a community certificate —
+
+(i) issue a community certificate to the declarant; or
+
+(ii) inform the declarant in writing that it has rejected the application;
+
+(c) if the community declaration is accepted and does not include an application for a community certificate, notify the declarant in writing of the acceptance.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Decision to be final; certificate to be conclusive
+
+8J\.—(1) The decisions (however named) of the Community Committee and its Sub-Committees in relation to a community declaration is final and is not subject to appeal or review in any court.
+
+(2) A community certificate is conclusive of the matters it certifies and is not subject to appeal or review in any court.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Immunity of Community Committee and Sub-Committees
+
+8K\.—(1) The Community Committee is not, in the absence of malice on its part, liable to any action at the suit of any person in respect of —
+
+(a) any statement which the Committee makes in the discharge of any of its functions under this Act, whether the statement is made orally or in writing; or
+
+(b) the publication of any document prepared by the Committee in the course of performing its functions under this Act.
+
+(2) Subsection (1) does not limit or affect any other right, privilege or immunity that the Community Committee has, apart from this section, as a defendant in any action.
+
+(3) Subsections (1) and (2) apply to a Sub-Committee.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Procedure of Community Committee and Sub-Committees
+
+8L\.—(1) A decision of the Community Committee must be made by a simple majority of the members present and voting, except that in the case of an equality of votes, the chairman or the member presiding has a casting vote in addition to his original vote.
+
+(2) The Community Committee may act despite the absence of any member.
+
+(3) Subject to this section, the Community Committee may regulate its own procedure.
+
+(4) The validity of any proceedings of the Community Committee is not affected by any defect in the appointment of any member of the Committee.
+
+(5) Regulations may be made under section 81 to provide for regulating and facilitating the performance by the Community Committee of its functions under this Act.
+
+(6) Subsections (1) to (5) apply, with the necessary modifications, to a Sub-Committee.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+Division 4 —
+
+Nomination Proceedings
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Nomination papers
 
@@ -428,25 +881,59 @@ the Committee shall not later than the day before nomination day issue to the ap
 
 (b) contain a statement, signed by that person, to the effect that he consents to the nomination; and
 
-(c) contain a statutory declaration by the person seeking nomination stating —
+(c) contain a statutory declaration in the prescribed form by the person seeking nomination stating —
 
-(i) that he is qualified to be elected to the office of President; and
+(i) that he is qualified to be elected to the office of President;
 
-(ii) that on nomination day he is not a member of any political party.
+[Act 6 of 2017 wef 01/04/2017]
+
+(ii) that on nomination day he is not a member of any political party; and
 
 [19/2005]
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(iii) that he understands the President’s role under the Constitution, including any particular aspect of the President’s role stated in the prescribed form.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (4) Each candidate shall at the time of his nomination deliver to the Returning Officer —
 
-(a) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act (Cap. 236); and
+(a) a political donation certificate issued to him by the Registrar of Political Donations under section 18(4) of the Political Donations Act (Cap. 236);
 
-(b) the certificate issued under section 8.
+[Act 6 of 2017 wef 01/04/2017]
+
+(b) a certificate of eligibility issued to him;
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(c) if the election is a reserved election, a community certificate stating that he belongs to the community to which the election is reserved; and
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(d) if the election is not a reserved election —
+
+(i) if the candidate submitted a community declaration that included an application for a community certificate —
+
+(A) a community certificate issued to him; or
+
+(B) the written decision of the Community Committee rejecting the application; or
+
+(ii) if the candidate submitted a community declaration that did not include an application for a community certificate —
+
+(A) the Community Committee’s written notification that the community declaration is accepted; and
+
+(B) a statutory declaration that he does not consider himself to be a member of the Chinese community, the Malay community or the Indian or other minority communities.
 
 [20/2000; 19/2005]
 
-(5) If any statutory declaration which is required by subsection (3)(c) to be made is not so made, or any certificate which is required to be delivered under subsection (4) is not so delivered, the nomination of the candidate shall be deemed to be void.
+[Act 6 of 2017 wef 01/04/2017]
+
+(5) If any statutory declaration which is required by subsection (3)(c) to be made is not so made, or any certificate or document which is required to be delivered under subsection (4) is not so delivered, the nomination of the candidate shall be deemed to be void.
 
 [19/2005]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (6) The Returning Officer may, at any time between the date of the notice referred to in section 7 and 12 noon of nomination day, supply a form of nomination paper to any registered elector requiring the form.
 
@@ -578,6 +1065,12 @@ the Returning Officer may, before making his decision under section 11 or 12, gi
 
 [19/2005]
 
+Division 5 —
+
+Uncontested Elections
+
+[Act 6 of 2017 wef 01/04/2017]
+
 ### Uncontested elections
 
 15\.—(1) If, on nomination day after the decision by the Returning Officer of any objection which may have been lodged, only one candidate stands nominated, the Returning Officer shall immediately —
@@ -589,6 +1082,12 @@ the Returning Officer may, before making his decision under section 11 or 12, gi
 (2) Nothing in sections 11 and 12 shall prevent the Returning Officer from exercising any of his powers under subsection (1) before 12.30 p.m. if, at 12 noon on nomination day for an election, only one candidate stands nominated.
 
 [19/2005]
+
+Division 6 —
+
+Contested Elections
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Contested elections
 
@@ -678,9 +1177,17 @@ the Returning Officer may, before making his decision under section 11 or 12, gi
 
 ### Facilities to be provided at polling stations
 
-20\.—(1) Outside each polling station there shall be affixed in a conspicuous place by the presiding officer before the commencement of the poll a notice showing the names of the candidates in English, Malay, Chinese and Tamil, and the symbol allotted to each candidate.
+20\.—(1) Before the poll opens at a polling station, the presiding officer or the senior presiding officer at that station must cause a notice about the poll to be displayed on or at a conspicuous place outside that station.
 
-(2) The names of the candidates shall be arranged alphabetically in English in the order of their surnames, and if there are 2 candidates with the same surname, of their other names.
+[Act 6 of 2017 wef 01/04/2017]
+
+(2) The notice mentioned in subsection (1) —
+
+(a) must contain such information, presented in such form or manner, as may be prescribed; and
+
+(b) must remain displayed on or at a conspicuous place outside the polling station until the poll closes at that station.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (3) It shall be the duty of the Returning Officer to provide at each polling station reasonable facilities for the electors allotted to that station to enable them to mark their votes screened from observation and to vote in accordance with the provisions of this Act.
 
@@ -718,9 +1225,11 @@ the Returning Officer may, before making his decision under section 11 or 12, gi
 
 [19/2001]
 
-(4) Unless the Returning Officer, by notification in theGazetteunder this section, section 33C(3)(b) or 36C, appoints any other hour, the poll shall open at 8 a.m. on the day appointed under section 16(5) and shall close at 8 p.m. on that day.
+(4) Unless the Returning Officer, by notification in theGazetteunder this section, section 33C(3)(b), 36C or 36DA, appoints any other hour, the poll shall open at 8 a.m. on the day appointed under section 16(5) and shall close at 8 p.m. on that day.
 
 [19/2001; 11/2010]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (5) The presiding officer shall —
 
@@ -758,9 +1267,11 @@ but not at both in respect of the same election.
 
 [19/2001; 14/2008]
 
-(3) Except as otherwise provided in this section and any regulations made thereunder, any poll (including an advance poll) at an overseas polling station shall be conducted in the same manner as that in which voting at a polling station within Singapore on polling day is conducted, and shall be regarded as such for the purposes of this Act.
+(3) Except as otherwise provided by or under this section, any poll (including an advance poll) at an overseas polling station shall be conducted in the same manner as that in which voting at a polling station within Singapore on polling day is conducted, and shall be regarded as such for the purposes of this Act.
 
 [19/2001]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (4) The Minister may make regulations modifying the application of any provision of this Act to the conduct of polls in overseas polling stations, including in particular, the appointment of presiding officers for overseas polling stations, the procedures on closing of the poll and for the safe despatch of the sealed ballot boxes containing the votes cast to the Returning Officer in Singapore.
 
@@ -788,6 +1299,10 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 (a) contain a list of the candidates in English, described, subject to section 11(5) and (6), as in their respective nomination papers, and arranged alphabetically in English in the order of their surnames, and, if there are 2 or more such candidates with the same surname, of their other names, and the symbol allotted to each candidate;
 
+(aa) clearly demarcate the area within which a voter must mark his vote for a candidate;
+
+[Act 6 of 2017 wef 01/04/2017]
+
 (b) be in the prescribed form;
 
 (c) be capable of being folded;
@@ -799,6 +1314,20 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 (3) The official mark for the authentication of ballot papers shall comprise a pattern, design, watermark or logo approved by the Returning Officer which shall be affixed, stamped, overprinted or marked (by writing or otherwise), or any combination thereof, on the ballot paper in a particular manner approved by the Returning Officer.
 
 [18/99]
+
+### Candidates’ photographs on ballot paper
+
+23A\.—(1) The Returning Officer must include on every ballot paper in an election a candidate’s photograph if —
+
+(a) the candidate delivers that photograph to the Returning Officer at such place, within such time, and in such form and manner, as the Returning Officer specifies; and
+
+(b) that photograph is in accordance with the Returning Officer’s specifications and requirements to ensure accuracy and consistency.
+
+(2) If subsection (1)(a) or (b) is not complied with, the Returning Officer must indicate in the area designated on the ballot paper for the candidate’s photograph that there is no photograph for the candidate.
+
+(3) The Returning Officer must cause to be published, as soon as practicable after the issue of the writ for the election and in such manner as will secure adequate publicity to the candidates, the Returning Officer’s specifications and requirements under subsection (1)(a) and (b).
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Ballot boxes
 
@@ -842,7 +1371,13 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 [18/99]
 
-(4) The voter shall, on receiving the ballot paper, immediately proceed to such place in the station as may be indicated by the presiding officer or by any person acting under that officer’s authority, and shall there secretly mark the paper as near as may be in accordance with the directions given for the guidance of voters under this Act.
+(4) Subject to subsection (4AA), the voter shall, on receiving the ballot paper, immediately proceed to such place in the station as may be indicated by the presiding officer or by any person acting under that officer’s authority, and shall there secretly mark the paper as near as may be in accordance with the directions given for the guidance of voters under this Act.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(4AA) The voter’s mark on the ballot paper must be made in the area demarcated on the ballot paper for that purpose, and not elsewhere.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (4A) The voter shall then fold the paper so as to conceal his vote, and shall put the paper so folded up into the ballot box.
 
@@ -888,15 +1423,19 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 ### Declarations by voters
 
-27\.—(1) The presiding officer at any polling station may, in his discretion, require any voter, before he is given a ballot paper, to furnish such evidence of his identity as the presiding officer may consider necessary and to make and subscribe all or any of the prescribed declarations.
+27\.—(1) The presiding officer at any polling station may, in his discretion, require any voter, before he is given a ballot paper, to furnish such evidence of his identity as the presiding officer may consider necessary and to make and subscribe to all or any of the declarations set out in the prescribed form.
 
-(2) Every such declaration shall be exempt from stamp duty.
+(2) [Deleted by Act 6 of 2017 wef 01/04/2017]
 
-(3) If any person fails to furnish such evidence of his identity or refuses to make any prescribed declaration, the presiding officer may refuse to give him a ballot paper.
+(3) If any person fails to furnish such evidence of his identity or refuses to make any declaration required under subsection (1), the presiding officer may refuse to give him a ballot paper.
 
-(4) If any person wilfully makes a false statement in any prescribed declaration, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
+[Act 6 of 2017 wef 01/04/2017]
+
+(4) If any person wilfully makes a false statement in any declaration required under subsection (1), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 9 months or to both.
 
 [11/2010]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Spoilt ballot papers
 
@@ -930,9 +1469,11 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 (3) Every presiding officer of a polling station shall despatch each such packet and the ballot box or boxes in safe custody to the Returning Officer at the counting place where the votes cast at the polling station are to be counted in accordance with the provisions of this Act.
 
-(4) Where the Returning Officer has in any direction made under section 31A(1) specified a polling station to be a counting place, the presiding officer of the polling station shall keep at that station every such packet and ballot box in safe custody pending counting of the votes thereat.
+(4) Where the Returning Officer has specified a polling station to be a counting place under this Act, the presiding officer of the polling station shall keep at that station every such packet and ballot box in safe custody pending counting of the votes thereat.
 
 [12/93]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Counting at counting places
 
@@ -948,17 +1489,21 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 [19/2001]
 
-(2) The Returning Officer shall give notice in writing of his direction under subsection (1) or (1A) to each candidate or his principal election agent not less than 2 clear days before polling day.
+(2) The Returning Officer must cause notice of every direction issued under subsections (1) and (1A) to be published in theGazetteat least 2 clear days before polling day.
 
-[12/93; 18/99; 19/2001]
+[Act 6 of 2017 wef 01/04/2017]
 
-(3) Where polling at all polling stations established for the purposes of a poll is postponed under section 36C, the conduct of the counting of votes cast for the election shall stand postponed until such other time as the Returning Officer, by notice in writing to each candidate or his principal election agent, shall specify.
+(3) Where polling at all polling stations established for the purposes of a poll is postponed under section 36C, the conduct of the counting of votes cast for the election shall stand postponed until such other time as the Returning Officer, by notice in theGazette, shall specify.
+
+[11/2010]
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(4) Where polling at any polling station established for the purposes of a poll is temporarily suspended, adjourned and postponed or abandoned and re-started under section 36C, the conduct of the count in respect of votes cast at the other polling stations which are specified in the direction under this section to be counted at the same counting place as votes cast at the first-mentioned polling station shall, even though the poll at the other polling stations has closed, stand postponed until such other time as the Returning Officer, by notice in theGazette, shall specify.
 
 [11/2010]
 
-(4) Where polling at any polling station established for the purposes of a poll is temporarily suspended, adjourned and postponed or abandoned and re-started under section 36C, the conduct of the count in respect of votes cast at the other polling stations which are specified in the direction under this section to be counted at the same counting place as votes cast at the first-mentioned polling station shall, even though the poll at the other polling stations has closed, stand postponed until such other time as the Returning Officer, by notice in writing to each candidate or his principal election agent, shall specify.
-
-[11/2010]
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Counting votes
 
@@ -966,21 +1511,27 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 [18/99]
 
-(2) Each candidate or any of his election agents may appoint not more than one counting agent to attend the counting of votes at each counting place specified in the direction made under section 31A(1).
+(2) Each candidate or any of his election agents may appoint not more than one counting agent to attend the counting of votes at each counting place specified under this Act.
 
 [12/93; 18/99]
 
+[Act 6 of 2017 wef 01/04/2017]
+
 (2A) The Returning Officer shall make arrangements for counting the votes in the presence of such of the candidates and their counting agents as attend as soon as practicable —
 
-(a) where only one counting place is specified in a direction made under section 31A(1) — after he has received all the ballot boxes used during the poll conducted in Singapore; or
+(a) where only one counting place is specified under this Act — after he has received all the ballot boxes used during the poll conducted in Singapore; or
 
-(b) where more than one counting place is specified in a direction made under section 31A(1), after —
+[Act 6 of 2017 wef 01/04/2017]
+
+(b) where more than one counting place is specified under this Act, after —
 
 (i) the procedure in section 31 has been complied with at the close of the poll if the counting place is also a polling station; and
 
 (ii) the Assistant Returning Officer in charge of each counting place has received at his counting place all the ballot boxes containing the votes cast at the polling station or stations in Singapore which are specified in the direction to be counted at that counting place, subject to any directions from the Returning Officer to delay or postpone the counting.
 
 [19/2001]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (3) The Returning Officer, his assistants and clerks, and the candidates and their counting agents, but no other persons except with the sanction of the Returning Officer, may be present at the counting of the votes.
 
@@ -994,7 +1545,7 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 [42/2005]
 
-(8) Where only one counting place is specified in a direction made under section 31A(1), the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at the sole counting place or, if a recount thereof is allowed under section 32B, after that recount is completed, immediately act as follows:
+(8) Where only one counting place is specified under this Act, the Returning Officer shall, when the counting of votes cast at all polling stations in Singapore is completed at the sole counting place or, if a recount thereof is conducted under section 32B, after that recount is completed, immediately act as follows:
 
 (a) where the total number of overseas electors lawfully entitled to vote at the election is less than the difference between the number of votes given to the candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate to whom the greatest number of votes is given to be elected; or
 
@@ -1002,7 +1553,9 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 
 [19/2001]
 
-(8A) Where more than one counting place is specified in a direction made under section 31A(1), the Returning Officer shall, immediately after the counting of votes cast in Singapore is completed at the counting place under his charge and, if a recount thereof is allowed under section 32B, after that recount is completed, at each counting place —
+[Act 6 of 2017 wef 01/04/2017]
+
+(8A) Where more than one counting place is specified under this Act, the Returning Officer shall, immediately after the counting of votes cast in Singapore is completed at the counting place under his charge and, if a recount thereof is conducted under section 32B, after that recount is completed, at each counting place —
 
 (a) announce to the candidates or their counting agents as attend the number of votes given to each candidate;
 
@@ -1013,6 +1566,8 @@ in relation to a poll conducted or to be conducted at an overseas polling statio
 (d) seal up in an envelope the record of counting and despatch or deliver the envelope in safe custody to the principal counting place for that electoral division.
 
 [12/93; 42/96; 19/2001]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (8B) Except with the sanction of the Returning Officer, no person other than —
 
@@ -1028,7 +1583,7 @@ may be present at the principal counting place during the addition of the votes.
 
 [12/93; 18/99]
 
-(8D) When the total number of votes cast at polling stations in Singapore for each candidate at an election is ascertained under subsection (8C), or if a recount thereof is allowed under section 32B, after that recount is completed, the Returning Officer shall immediately act as follows:
+(8D) When the total number of votes cast at polling stations in Singapore for each candidate at an election is ascertained under subsection (8C), or if a recount thereof is conducted under section 32B, after that recount is completed, the Returning Officer shall immediately act as follows:
 
 (a) where the total number of overseas electors lawfully entitled to vote at the election is less than the difference between the number of votes given to the candidates with the 2 greatest number of votes, the Returning Officer shall declare the candidate to whom the greatest number of votes is given to be elected; or
 
@@ -1036,9 +1591,13 @@ may be present at the principal counting place during the addition of the votes.
 
 [19/2001]
 
-(9) When, after the counting of votes (including any recount allowed under section 32B) is completed, an equality of votes is found to exist between any candidates, and the addition of a vote would entitle any of the candidates to be declared elected, the determination of the candidate to whom the one additional vote shall be deemed to have been given shall be made by lot in the presence of the Returning Officer in such manner as the Returning Officer shall determine.
+[Act 6 of 2017 wef 01/04/2017]
+
+(9) When, after the counting of votes (including any recount conducted under section 32B) is completed, an equality of votes is found to exist between any candidates, and the addition of a vote would entitle any of the candidates to be declared elected, the determination of the candidate to whom the one additional vote shall be deemed to have been given shall be made by lot in the presence of the Returning Officer in such manner as the Returning Officer shall determine.
 
 [19/2001]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (10) After the Returning Officer has made any declaration under subsection (8) or (8D), he shall ensure that the following procedures are complied with at every counting place and principal counting place:
 
@@ -1064,21 +1623,43 @@ may be present at the principal counting place during the addition of the votes.
 
 ### Counting of votes by overseas electors
 
-32A\.—(1) All the sealed ballot boxes containing the votes cast at any overseas polling station must arrive at the office of the Returning Officer in Singapore not later than 10 days after polling day at an election in order for those votes to be counted.
+32A\.—(1) Subject to section 36DB, every sealed ballot box containing votes cast at an overseas polling station in an election must, in order for those votes to be counted in the election, reach the custody of the Returning Officer in Singapore —
+
+(a) within 10 days after polling day in Singapore for the election; or
+
+(b) where the Returning Officer extends time under subsection (2), within the extended time.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(2) The Returning Officer may extend time by another 7 days if the Returning Officer —
+
+(a) has made a declaration under section 32(8)(b) or (8D)(b); and
+
+(b) is satisfied, for any reason, that any sealed ballot box containing votes cast at an overseas polling station in the election is not likely to reach the custody of the Returning Officer in Singapore within the time specified in subsection (1)(a).
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(2A) If the Returning Officer extends time under subsection (2) —
+
+(a) the counting of the votes cast at the overseas polling stations in the election stands postponed to the date specified by the Returning Officer under paragraph (b)(ii); and
+
+(b) the Returning Officer must, as soon as practicable, publish a notice in theGazette—
+
+(i) stating that the Returning Officer has extended the time; and
+
+(ii) specifying the date on, the time at and the counting place in Singapore at which the votes cast at the overseas polling stations in the election will be counted.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(3) Subject to subsection (1), the Returning Officer must arrange for the counting of votes cast by overseas electors in the presence of the candidates and their counting agents as attend as soon as practicable after all the sealed ballot boxes used at overseas polling stations during the poll have been received by the Returning Officer in Singapore.
 
 [19/2001]
 
-(2) The Returning Officer shall make arrangements for the votes cast by overseas electors to be counted at such place or places in Singapore as he directs under section 31A(1A).
+[Act 6 of 2017 wef 01/04/2017]
 
-[19/2001]
+(4) Section 32 applies to the counting of votes cast by overseas electors, with the necessary modifications.
 
-(3) Subject to subsection (1), such arrangements shall provide for the counting of votes cast by overseas electors in the presence of the candidates and their counting agents as attend as soon as practicable after all the sealed ballot boxes used at overseas polling stations during the poll have been received by the Returning Officer in Singapore.
-
-[19/2001]
-
-(4) Sections 32, 32B and 33 shall apply to the counting (including recounting, if any) of the votes cast by overseas electors.
-
-[19/2001]
+[Act 6 of 2017 wef 01/04/2017]
 
 (5) Where the Returning Officer has made a declaration under section 32(8)(b) or (8D)(b), the number of votes given by overseas electors to each candidate shall be added to the number declared by the Returning Officer as the number of votes cast in Singapore, respectively, for each candidate, and the Returning Officer shall immediately declare the candidate to whom the greatest total number of votes is given to be elected.
 
@@ -1100,39 +1681,19 @@ may be present at the principal counting place during the addition of the votes.
 
 ### Recounting of votes
 
-32B\.—(1) Subject to subsections (3) and (4), any candidate at an election or his counting agent may —
+32B\.—(1) The Returning Officer must conduct a recount of the votes cast in Singapore at an election if the difference between the number of votes given to the candidate with the most votes and the number of votes given to any other candidate at the election is 2% or less of the total number of votes cast in Singapore (excluding rejected votes and tendered votes) at the election.
 
-(a) if he is present at the sole counting place specified for the election and the counting of votes at that counting place is completed; or
+(2) The recount of the votes under subsection (1) may be conducted only once, and must take place as soon as practicable —
 
-(b) if he is present at the principal counting place specified for the election and the votes counted at all counting places for that election have been added at that principal counting place,
+(a) in the case of a sole counting place specified under this Act for the election, after the counting of the votes at the sole counting place is completed; or
 
-apply to the Returning Officer to have the votes given at the election recounted.
+(b) in the case of more than one counting place specified under this Act for the election, after the Returning Officer has ascertained the total number of votes given to each candidate in the election under section 32(8C).
 
-[19/2001]
+(3) Where a recount of the votes is to be conducted, the votes at the sole counting place or, if there is more than one counting place, at every counting place must be recounted and added following the same procedure set out in sections 32 and 33.
 
-(2) Subject to subsections (3) and (4), the Returning Officer shall allow and conduct the recounting of votes if an application for a recount is made under this section.
+(4) This section applies to the recounting of votes cast by overseas electors, with the necessary modifications.
 
-[19/2001]
-
-(3) Not more than one application to recount the votes given at any election shall be made or allowed under this section.
-
-[19/2001]
-
-(4) Without prejudice to subsection (3), no application for a recount shall be made and no recount shall be allowed under this section where the difference between the number of votes given to the candidate with the most votes and the number cast for any other candidate is more than 2% of the total number of votes cast (excluding rejected votes and tendered votes) at the election.
-
-[19/2001]
-
-(5) No step shall be taken under section 32 to declare any candidate elected until the candidates or counting agents present at the sole counting place or the principal counting place, as the case may be, have been given a reasonable opportunity to exercise the right conferred by this section.
-
-[19/2001]
-
-(6) Where an application for a recounting of votes is allowed by the Returning Officer, the votes at the counting place or, if there are more than one, at every counting place shall be recounted and added following the same procedure set out in sections 32 and 33.
-
-[19/2001]
-
-(7) This section and section 33 shall apply to the recounting of votes cast by overseas electors with such modifications as are necessary.
-
-[19/2001]
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Votes to be rejected
 
@@ -1150,7 +1711,13 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 [18/99]
 
-(2) Where the Returning Officer is satisfied that any mark made on a ballot paper clearly indicates the intention of the voter and the candidate for whom he gives his vote, the Returning Officer shall not reject the ballot paper on the ground solely that it has not been marked in all respects in accordance with the directions given for the guidance of voters under this Act.
+(2) Subject to subsection (2A), where the Returning Officer is satisfied that any mark made on a ballot paper clearly indicates the intention of the voter and the candidate for whom he gives his vote, the Returning Officer shall not reject the ballot paper on the ground solely that it has not been marked in all respects in accordance with the directions given for the guidance of voters under this Act.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+(2A) When determining whether a mark made on a ballot paper clearly indicates the voter’s intention and the candidate for whom the voter gives his vote, the Returning Officer must disregard any mark on the ballot paper that is not made within the area demarcated on the ballot paper for the voter to mark his vote for a candidate.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (3) Before rejecting a ballot paper, the Returning Officer shall show it to each candidate or his counting agent if present and hear his views thereon, taking all proper precautions to prevent any person from seeing the number printed on the back of the paper.
 
@@ -1202,7 +1769,9 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 (a) a sufficient number of DRE voting machines and other direct recording electronic voting equipment approved under subsection (2) for electors allotted to the polling station to cast their votes;
 
-(b) booths or other reasonable facilities within which approved DRE voting machines are to be placed to enable electors allotted to the polling station to record their votes screened from observation and to vote in accordance with the provisions of this Act and any regulations made thereunder; and
+(b) booths or other reasonable facilities within which approved DRE voting machines are to be placed to enable electors allotted to the polling station to record their votes screened from observation and to vote in accordance with the provisions of this Act; and
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (c) a sufficient number of other approved DRE voting machines, direct recording electronic voting equipment and other voting equipment in the event of any malfunction of all or any approved DRE voting machines at that polling station.
 
@@ -1318,7 +1887,11 @@ apply to the Returning Officer to have the votes given at the election recounted
 
 [11/2010]
 
-Postponement and adjournment of elections
+Division 7 —
+
+Postponement and Adjournment of Elections
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Postponement of nomination day, etc.
 
@@ -1380,9 +1953,13 @@ and any change so made shall be valid and sufficient.
 
 (a) shall specify a period of one hour for the Returning Officer to receive nomination papers;
 
-(b) shall specify a period of 90 minutes for the making of objections to any nomination paper; and
+(b) shall specify a period of 90 minutes for the making of objections to any nomination paper;
 
-(c) shall specify the latest time by which a candidate must make his deposit for the purposes of section 10, may correct errors in the nomination papers and may withdraw his candidature.
+(c) shall specify the latest time by which a candidate must make his deposit for the purposes of section 10, may correct errors in the nomination papers and may withdraw his candidature; and
+
+(d) must specify the latest time by which a candidate must make his indication (regarding his name) to the Returning Officer under section 11(5).
+
+[Act 6 of 2017 wef 01/04/2017]
 
 [11/2010]
 
@@ -1406,9 +1983,11 @@ and any change so made shall be valid and sufficient.
 
 (f) any other reason related to the safety of presiding officers, clerks, interpreters, polling agents or voters within any polling station, or to difficulties in the physical conduct of voting,
 
-which has arisen or is likely to arise before or during the polling at all of those polling stations, the Returning Officer may postpone the polling day for that election to another day, except that the postponed poll must be within the time delimited by Article 17(3) of the Constitution.
+which has arisen or is likely to arise before or during the polling at all of those polling stations, the Returning Officer may postpone the polling day for that election to another day, except that the postponed poll must be within the time delimited by Article 17A(2) of the Constitution.
 
 [11/2010]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (2) Notwithstanding any other provision of this Act, if at any time before or during the conduct of polling in respect of an election, it appears to the Returning Officer that the polling at any polling station established for the purposes of the poll is likely to be obstructed, disrupted, undermined or seriously affected because of —
 
@@ -1438,9 +2017,11 @@ which has arisen or is likely to arise before or during the polling at that poll
 
 [11/2010]
 
-(3) Any poll at an overseas polling station, if resumed or held in place of a postponed poll thereat, must close not later than the close of the poll on polling day in Singapore, and any poll held in place of a postponed poll at any polling station must be within the time delimited by Article 17(3) of the Constitution.
+(3) Any poll at an overseas polling station, if resumed or held in place of a postponed poll thereat, must close not later than the close of the poll on polling day in Singapore, and any poll held in place of a postponed poll at any polling station must be within the time delimited by Article 17A(2) of the Constitution.
 
 [11/2010]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (4) In exercising any power under subsection (1) or (2), the Returning Officer shall —
 
@@ -1478,6 +2059,86 @@ shall be entitled to vote on the date and time on and at which polling at that p
 
 [11/2010]
 
+### Ballot box lost or destroyed after close of poll in Singapore
+
+36DA\.—(1) The Returning Officer must wholly abandon the counting of all the votes cast at a polling station in Singapore (called in this section the affected polling station) in an election if any sealed ballot box containing votes cast at the affected polling station in the election is lost or destroyed at any time —
+
+(a) after the close of the poll at the affected polling station; and
+
+(b) before the ballot box reaches the counting place specified under this Act for the counting of the votes cast at the affected polling station.
+
+(2) The Returning Officer must re-start (within the time delimited by Article 17A(2) of the Constitution) the polling at the affected polling station if the Returning Officer is satisfied that the aggregate of the following is equal to or more than the difference between the number of votes given in Singapore to the candidates with the 2 greatest number of votes:
+
+(a) the total number of affected electors lawfully entitled to vote in the election;
+
+(b) the total number of overseas electors lawfully entitled to vote in the election.
+
+(3) The Returning Officer must, as soon as practicable, inform the candidates of the abandonment of the counting of the votes cast at the affected polling station and whether the polling at the affected polling station must re-start.
+
+(4) Where the polling at the affected polling station must re-start, the counting of the votes cast at the overseas polling stations in the election stands postponed —
+
+(a) in the case where a sealed ballot box containing votes cast at an overseas polling station in the election is also lost or destroyed and section 36DB(2) applies in respect of that overseas polling station, to the date specified by the Returning Officer under section 36DB(5)(b)(ii); and
+
+(b) in any other case, to the date specified by the Returning Officer under subsection (5)(b)(iii).
+
+(5) The Returning Officer must, as soon as practicable, publish a notice in theGazette—
+
+(a) stating that the Returning Officer has abandoned the counting of all the votes cast at the affected polling station; and
+
+(b) where subsection (2) applies, specifying —
+
+(i) the date on which the polling is to re-start, the hours of the poll and the location of the polling station in Singapore (whether or not at the same location as the affected polling station) where the poll will be conducted;
+
+(ii) the date on, the time at and the counting place in Singapore at which the votes cast at the polling station during the re-started poll will be counted; and
+
+(iii) the date on, the time at and the counting place in Singapore at which the votes cast at the overseas polling stations in the election will be counted.
+
+(6) Any re-start of polling in an election or other change under this section is valid and sufficient, and any polling day or polling station specified by the Returning Officer under this section is deemed to be the polling day or polling station, as the case may be, specified in the notice published under section 16(5) in respect of that election.
+
+(7) Nothing in this section restricts the exercise of any power under section 33C(3).
+
+(8) The Minister may prescribe the manner in which the abandonment of the counting of votes, the re-start of polling, or the counting of votes, under this section is to be carried out.
+
+(9) In this section, “affected electors”, in relation to an election, means the electors (excluding overseas electors) who are allotted to an affected polling station under section 18(1)(c) for the purposes of the election.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Ballot box lost or destroyed after close of poll at overseas polling station
+
+36DB\.—(1) The Returning Officer must wholly abandon the counting of all the votes cast at an overseas polling station (called in this section the affected overseas polling station) in an election if any sealed ballot box containing votes cast at the affected overseas polling station in the election is lost or destroyed at any time —
+
+(a) after the close of the poll at the affected overseas polling station; and
+
+(b) before the ballot box reaches the counting place specified under this Act for the counting of the votes cast at the affected overseas polling station.
+
+(2) The Returning Officer must re-start (within the time delimited by Article 17A(2) of the Constitution) the polling at the affected overseas polling station if the Returning Officer is satisfied that any of the following is equal to or more than the difference between the number of votes given in Singapore to the candidates with the 2 greatest number of votes:
+
+(a) in the case where a sealed ballot box containing votes cast at a polling station in Singapore in the election is also lost or destroyed and section 36DA(2) applies in respect of that polling station, the aggregate mentioned in that section;
+
+(b) in any other case, the total number of overseas electors lawfully entitled to vote in the election.
+
+(3) The Returning Officer must, as soon as practicable, inform the candidates of the abandonment of the counting of votes cast at the affected overseas polling station and whether the polling at the affected overseas polling station must re-start.
+
+(4) Where the polling at the affected overseas polling station must re-start, the counting of the votes cast at the other overseas polling stations in the election stands postponed to the date specified by the Returning Officer under subsection (5)(b)(ii).
+
+(5) The Returning Officer must, as soon as practicable, publish a notice in theGazette—
+
+(a) stating that the Returning Officer has abandoned the counting of all the votes cast at the affected overseas polling station; and
+
+(b) where subsection (2) applies, specifying —
+
+(i) the date on which the polling is to re-start, the hours of the poll and the location of the overseas polling station (whether or not at the same location as the affected overseas polling station) where the poll will be conducted; and
+
+(ii) the date on, the time at and the counting place in Singapore at which the votes cast during the re-started poll and the votes mentioned in subsection (4) will be counted.
+
+(6) Any re-start of polling in an election or other change under this section is valid and sufficient, and any polling day, polling hours or overseas polling station specified by the Returning Officer under this section is deemed to be the polling day, polling hours or overseas polling station, as the case may be, specified in the notice published under section 16(5) in respect of that election.
+
+(7) Nothing in this section restricts the exercise of any power under section 33C(3).
+
+(8) The Minister may prescribe the manner in which the abandonment of the counting of votes, the re-start of polling, or the counting of votes, under this section is to be carried out.
+
+[Act 6 of 2017 wef 01/04/2017]
+
 ### Adjournment, etc., of counting
 
 36E\.—(1) Notwithstanding any other provision of this Act, if at any time before or during the counting of votes in respect of an election, it appears to the Returning Officer that the counting of votes at any counting place is likely to be obstructed, disrupted, undermined or seriously affected because of —
@@ -1502,9 +2163,11 @@ which has arisen or is likely to arise before or during the counting of votes at
 
 (iii) wholly abandon the counting of votes at that counting place if he is satisfied that counting thereat cannot be resumed or completed and that the number of votes to be counted will not affect the result of the election, and in the case of an abandoned recount of votes at that counting place, declare the election results using the results of the first count; or
 
-(iv) wholly abandon the counting of votes at that counting place and re-start (within the time delimited by Article 17(3) of the Constitution) the polling at all polling stations which are specified in the direction under section 31A to be counted at that counting place and the counting of the votes cast thereat, if he is satisfied that counting thereat cannot be resumed or completed and that the number of votes to be counted will affect the result of the election.
+(iv) wholly abandon the counting of votes at that counting place and re-start (within the time delimited by Article 17A(2) of the Constitution) the polling at all polling stations which are specified under this Act to be counted at that counting place and the counting of the votes cast thereat, if he is satisfied that counting thereat cannot be resumed or completed and that the number of votes to be counted will affect the result of the election.
 
 [11/2010]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (2) In exercising any power under subsection (1), the Returning Officer shall —
 
@@ -1582,11 +2245,11 @@ which has arisen or is likely to arise before or during the addition of votes at
 
 OFFENCES AND CORRUPT AND ILLEGAL PRACTICES
 
-Chapter 1
-
-—
+Division 1 —
 
 Offences
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Offences
 
@@ -1628,11 +2291,11 @@ shall be guilty of an offence and shall be liable on conviction by a District Co
 
 [15/2010]
 
-Chapter 2
-
-—
+Division 2 —
 
 Corrupt Practices
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Personation
 
@@ -1706,7 +2369,13 @@ shall be guilty of the offence of bribery.
 
 (b) commits the offence of treating, undue influence or bribery;
 
-(c) prints, publishes, distributes or posts up or causes to be printed, published, distributed or posted up any advertisement, handbill, placard or poster which refers to any election and which does not bear upon its face the names and addresses of its printer and publisher;
+(c) publishes or causes to be published any election advertising during the period beginning with the day the writ of election is issued for an election and ending with the start of polling day at that election which —
+
+(i) in the case of an election advertising that is, or is contained in, a printed document, does not bear on its face or, if there is more than one side of printed matter, on the first or last page of the document, the names of its printer, its publisher and the person for whom or at whose direction the election advertising is published; or
+
+(ii) in the case of any other election advertising, does not bear, in the form and manner prescribed under section 60AA, the names of its publisher and the person for whom or at whose direction the election advertising is published;
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (d) makes or publishes, before or during any election, for the purpose of affecting the return of any candidate, any false statement of fact in relation to the personal character or conduct of the candidate;
 
@@ -1740,11 +2409,38 @@ shall be guilty of a corrupt practice and shall on conviction by a District Cour
 
 [11/2010]
 
-Chapter 3
+(4) Where any election advertising is published in contravention of subsection (1)(c), the printer of the election advertising as well as the person for whom or at whose direction the election advertising is published shall each also be guilty of a corrupt practice and shall each be liable on conviction to the same punishment and incapacity under this section as the publisher of the election advertising.
 
-—
+[Act 6 of 2017 wef 01/04/2017]
 
-Election Agent, Election Expenses and Illegal Practices
+(5) Subsection (1)(c) does not apply in respect of —
+
+(a) the distribution of a book, or the promotion of the sale of a book, for not less than its commercial value, if the book was planned to be published regardless of whether there was to be an election;
+
+(b) the publication of a document directly by a person or a group of persons to their members, employees or shareholders, as the case may be;
+
+(c) the publication of any news relating to an election —
+
+(i) in a newspaper in any medium by a person permitted to do so under the Newspaper and Printing Presses Act (Cap. 206); or
+
+(ii) in a radio or television broadcast by a person licensed to do so under the Broadcasting Act (Cap. 28);
+
+(d) the telephonic or electronic transmission by an individual to another individual of the firstmentioned individual’s own political views, on a non-commercial basis; or
+
+(e) such other circumstances or activities as may be prescribed by the Minister by order in theGazette.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+Division 3 —
+
+Election Agent,
+
+
+
+
+Election Expenses and Illegal Practices
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Nomination of election agents
 
@@ -2030,17 +2726,35 @@ shall be guilty of an illegal practice.
 
 (2) Such regulations may provide for the Returning Officer to determine the number and size of posters and banners which may be displayed and for the determination of the places at which they may be so displayed.
 
-(3) For the purposes of this section and regulations made thereunder —
+(3) For the purposes of this section —
 
 “banner” includes a flag, bunting, ensign or standard;
 
 “poster” includes any label, set of colours, drawing, painting, advertisement, handbill or placard or any replica of a voting paper.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (4) Any person who commits an offence under such regulations shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months.
 
 (5) Every offence under such regulations shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
 
 [11/2010]
+
+### Regulations for other election advertising
+
+60AA\.—(1) The Minister may make regulations —
+
+(a) prescribing the form and manner in which details as to the names of the publisher of any election advertising not comprising printed matter and of the person for whom or at whose direction it is published must be included in such election advertising for the purpose of complying with section 42(1)(c)(ii); and
+
+(b) regulating election advertising and its publication during an election period on what is commonly known as the Internet by candidates or their election agents, including prescribing the features that must or must not appear or be used in any such election advertising.
+
+(2) Any person who contravenes any regulations made under subsection (1)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) Every offence under subsection (2) is an arrestable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+(4) In this section, “election period” means the period beginning with the day the writ of election is issued for an election and ending with the start of polling day at the election.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Election advertising ban
 
@@ -2090,23 +2804,53 @@ and nothing in this subsection shall limit the operation of section 26 of the El
 
 [11/2010]
 
-(6) In this section, “election advertising” means any poster, banner, notice, circular, handbill, illustration, article, advertisement or other material that can reasonably be regarded as intended —
+(6) [Deleted by Act 6 of 2017 wef 01/04/2017]
 
-(a) to promote or procure the electoral success at any election for one or more identifiable candidates; or
+(7) [Deleted by Act 6 of 2017 wef 01/04/2017]
 
-(b) to otherwise enhance the standing of any such candidates with the electorate in connection with any election,
+### Blackout period for election survey results
 
-and such material shall be election advertising even though it can reasonably be regarded as intended to achieve any other purpose as well and even though it does not expressly mention the name of any candidate, but excludes any button, badge, pen, pencil, balloon and any other thing prescribed by the Minister by notification in theGazette.
+60B\.—(1) A person must not publish or permit or cause to be published the results of any election survey during the period beginning with the day the writ of election is issued for an election and ending with the close of all polling stations on polling day at the election.
 
-[11/2010]
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 12 months or to both.
 
-(7) For the purposes of this section —
+(3) The offence under subsection (2) is an arrestable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
-(a) the reference to the electoral success of a candidate at any election shall be a reference to the return of the candidate at any such election; and
+(4) In this section, “election survey” means an opinion survey of how electors will vote at an election or of the preferences of electors respecting any candidate or any issue with which an identifiable candidate is associated at an election.
 
-(b) the reference to the doing of anything mentioned in paragraph (a) or (b) of the definition of “election advertising” in subsection (6) shall include doing so by prejudicing the electoral prospects at the election of other candidates by prejudicing the standing with the electorate of other candidates.
+[Act 6 of 2017 wef 01/04/2017]
 
-[11/2010]
+### Exit polls ban on polling day
+
+60C\.—(1) A person must not publish or permit or cause to be published on polling day at an election before the close of all polling stations on that day —
+
+(a) any statement relating to the way in which voters have voted at the election where that statement is (or might reasonably be taken to be) based on information given by voters after they have voted; or
+
+(b) any forecast as to the result of the election which is (or might reasonably be taken to be) based on information so given.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) The offence under subsection (2) is an arrestable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+
+(4) In this section —
+
+(a) “forecast” includes estimates; and
+
+(b) the reference to the result of an election is a reference to the result of an election either as a whole or so far as any particular candidate at the election is concerned.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Defence for election advertising offences
+
+60D\.—(1) It shall be a defence for a person charged with an offence under section 42(1) or (4), 60AA(2), 60A(3), 60B(2) or 60C(2) to prove —
+
+(a) that the contravention of section 42(1)(c), (d) or (e), 60A(1), 60B(1) or 60C(1) or any regulations made under section 60AA(1)(b), as the case may be, arose from circumstances beyond his control; and
+
+(b) that he took all reasonable steps, and exercised all due diligence, to ensure that the contravention would not arise.
+
+(2) Nothing in subsection (1) limits the operation of section 26 of the Electronic Transactions Act (Cap. 88) in relation to network service providers.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Punishment for conviction for illegal practice
 
@@ -2232,9 +2976,11 @@ and such material shall be election advertising even though it can reasonably be
 
 shall take part in any election activity.
 
-(1A) An individual who is not a citizen of Singapore shall not knowingly publish or display, or knowingly cause or permit to be published or displayed, any election advertising (within the meaning of section 60A) among any electors during the period beginning with the day the writ of election is issued for an election and ending with the start of the eve of polling day at the election.
+(1A) An individual who is not a citizen of Singapore shall not knowingly publish or display, or knowingly cause or permit to be published or displayed, any election advertising among any electors during the period beginning with the day the writ of election is issued for an election and ending with the start of the eve of polling day at the election.
 
 [11/2010]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (2) No person shall conduct any election activity unless he is in possession of a written authority in the prescribed form signed by a candidate or any election agent of the candidate and issued on or after nomination day.
 
@@ -2282,11 +3028,16 @@ the assembly shall be deemed to be an unlawful assembly as defined in section 14
 
 [11/2010]
 
-Chapter 4
+Division 4 —
 
-—
+Excuse for Corrupt and
 
-Excuse for Corrupt and Illegal Practice
+
+
+
+Illegal Practice
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Report exonerating candidate in certain cases of corrupt and illegal practice by agents
 
@@ -2364,7 +3115,11 @@ GROUNDS FOR AVOIDING ELECTIONS
 
 (d) that the candidate personally engaged a person as his election agent, or as a canvasser or agent, knowing that the person had, within 7 years prior to such engagement, been convicted or found guilty of a corrupt practice under this Act or the Parliamentary Elections Act (Cap. 218);
 
-(e) that the candidate was at the time of his election a person disqualified for election as President.
+(e) that the candidate was at the time of his election a person disqualified for election as President;
+
+(f) that the candidate intentionally or knowingly made a materially false or misleading statement of fact, or intentionally or knowingly failed to state a material fact, to the Presidential Elections Committee for the purpose of demonstrating his eligibility to be elected as President.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 [42/2005]
 
@@ -2400,15 +3155,19 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 ### Who may make application under section 71
 
-73\. An application under section 71 may be made to the Supreme Court by any one or more of the following persons:
+73\. An application under section 71 may be made to the Supreme Court —
 
-(a) any person who voted or had a right to vote at the election to which the application relates;
+(a) in respect of section 71(a), (b), (c), (d) or (e), by any one or more of the following persons:
 
-(b) any person claiming to have had a right to be returned or elected at the election; and
+(i) any person who voted or had a right to vote at the election to which the application relates;
 
-(c) any person alleging himself to have been a candidate at the election.
+(ii) any person claiming to have had a right to be returned or elected at the election;
 
-[42/2005]
+(iii) any person alleging himself to have been a candidate at the election; and
+
+(b) in respect of section 71(f), by the Presidential Elections Committee.
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ### Relief which may be claimed
 
@@ -2546,9 +3305,123 @@ GENERAL
 
 [11/2010]
 
+### Offences by corporations
+
+83A\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
+
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the officer, employee or agent had that state of mind,
+
+is evidence that the corporation had that state of mind.
+
+(2) Where a corporation commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the corporation, or a member of the corporation (in the case where the affairs of the corporation are managed by its members); or
+
+(ii) an individual who is involved in the management of the corporation and is in a position to influence the conduct of the corporation in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or
+
+(iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of the same offence as is the corporation, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.
+
+(6) In this section —
+
+“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —
+
+(a) any person purporting to act in any such capacity; and
+
+(b) for a corporation whose affairs are managed by its members, any of those members as if the member is a director of the corporation;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 6 of 2017 wef 01/04/2017]
+
+### Offences by unincorporated associations or partnerships
+
+83B\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or the partnership engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the employee or agent had that state of mind,
+
+is evidence that the unincorporated association or partnership had that state of mind.
+
+(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the unincorporated association or a member of its governing body;
+
+(ii) a partner in the partnership; or
+
+(iii) an individual who is involved in the management of the unincorporated association or partnership and who is in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or
+
+(iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the unincorporated association or partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.
+
+(6) In this section —
+
+“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —
+
+(a) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and
+
+(b) any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 6 of 2017 wef 01/04/2017]
+
 ### Composition of offences
 
-84\.—(1) The Returning Officer, or any officer of the Elections Department who is authorised by the Returning Officer, may, in his discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
+84\.—(1) The Returning Officer, or any officer of the Elections Department who is authorised by the Returning Officer, may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence —
 
 (a) one half of the amount of the maximum fine that is prescribed for the offence; or
 
@@ -2557,6 +3430,8 @@ GENERAL
 whichever is the lower.
 
 [19/2005]
+
+[Act 6 of 2017 wef 01/04/2017]
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
@@ -2569,6 +3444,55 @@ whichever is the lower.
 (4) All sums collected under this section shall be paid to the Consolidated Fund.
 
 [19/2005]
+
+## THE SCHEDULE
+
+Section 5A
+
+Presidential terms counted
+
+
+
+
+for the purposes of reserved elections
+
+Term No.
+
+President
+
+Community that President belongs to
+
+1
+
+President Wee Kim Wee
+
+Chinese community
+
+2
+
+President Ong Teng Cheong
+
+Chinese community
+
+3
+
+President S R Nathan
+
+Indian community
+
+4
+
+President S R Nathan
+
+Indian community
+
+5
+
+President Tony Tan Keng Yam
+
+Chinese community
+
+[Act 6 of 2017 wef 01/04/2017]
 
 ## LEGISLATIVE HISTORY
 
@@ -2670,6 +3594,11 @@ This Legislative History is provided for the convenience of users of the Preside
 ||Date of commencement|2 January 2011|
 |19.|**2011 Revised Edition—Presidential Elections Act (Chapter 240A)**|
 ||Date of operation|15 July 2011|
+|20.|**Act 6 of 2017—Presidential Elections (Amendment) Act 2017**|
+||Date of First Reading|9 January 2017|
+|||(Bill No. 2/2017)|
+||Date of Second and Third Readings|6 February 2017|
+||Date of commencement|1 April 2017|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
