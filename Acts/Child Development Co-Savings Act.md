@@ -1204,7 +1204,7 @@ if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work
 
 [Act 12 of 2013 wef 01/05/2013]
 
-(2) Parts XIII, XV and XVI of the Employment Act (Cap. 91) and such other provisions of that Act as the Minister for Manpower may by order specify shall apply, with such exceptions, adaptations and modifications as may be prescribed in the order, in relation to —
+(2) Parts XIII and XVI and sections 124, 125 and 126 of the Employment Act, and such other provisions of that Act as the Minister for Manpower may prescribe by order in theGazette, apply, with such exceptions, adaptations and modifications as may be prescribed in the order, in relation to —
 
 (a) an employer or employee to whom section 9, 12AA, 12B, 12D, 12E or 12H applies or the repealed section 10A, 12K or 12KB (as in force immediately before the date of commencement of section 9 of the Child Development Co-Savings (Amendment No. 2) Act 2016) applied;
 
@@ -1223,6 +1223,12 @@ as they apply in relation to any employer, employee, dispute, offence or proceed
 [42/2004 wef 01/10/2004]
 
 [Act 12 of 2013 wef 01/05/2013]
+
+[Act 21 of 2016 wef 01/04/2017]
+
+(3) Sections 115 to 123 of the Employment Act apply, with such exceptions, adaptations and modifications as the Minister for Manpower may prescribe by order in theGazette, to a dispute mentioned in subsection (2)(b), if a claim is lodged, before the date of commencement of section 36(b) of the Employment Claims Act 2016, under section 119 of the Employment Act in relation to that dispute.
+
+[Act 21 of 2016 wef 01/04/2017]
 
 12A\. [Repealed by Act 33 of 2016 wef 01/01/2017]
 
@@ -2643,3 +2649,7 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of First Reading|10 October 2016 (Bill No. 33/2016 published on 10 October 2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|1 January 2017|
+|17.|**Act 21 of 2016—Employment Claims Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 April 2017|
