@@ -3811,7 +3811,9 @@ Priorities
 
 “ex gratia payment” means the amount payable to an employee on the winding up of a limited liability partnership or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be;
 
-“retrenchment benefit” means the amount payable to an employee on the winding up of a limited liability partnership or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour.
+“retrenchment benefit” means the amount payable to an employee on the winding up of a limited liability partnership or on the termination of his service by his employer on the ground of redundancy or by reason of any re-organisation of the employer, profession, business, trade or work, and “the amount payable to an employee” for these purposes means the amount stipulated in any contract of employment, award or agreement, as the case may be, or if no amount is stipulated therein, such amount as is stipulated by the Commissioner for Labour or by an Employment Claims Tribunal constituted under section 4 of the State Courts Act (Cap. 321).
+
+[Act 21 of 2016 wef 01/04/2017]
 
 “wages or salary” shall be deemed to include —
 
@@ -4575,6 +4577,10 @@ This Legislative History is provided for the convenience of users of the Limited
 ||Date of First Reading|28 February 2017 (Bill No. 14/2017 published on 28 February 2017)|
 ||Date of Second and Third Readings|10 March 2017|
 ||Date of commencement|31 March 2017|
+|14.|**Act 21 of 2016—Employment Claims Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 April 2017|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
