@@ -16,7 +16,7 @@
 
 [**Part II ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF TOWN COUNCILS**](#Part-II)
 
-- [4 Establishment of Town Councils](#Establishment-of-Town-Councils)
+- [4 Establishment of Town Council](#Establishment-of-Town-Council)
 
 - [5 Incorporation](#Incorporation)
 
@@ -40,11 +40,15 @@
 
 - [14 Tenure of office of appointed members](#Tenure-of-office-of-appointed-members)
 
-- [15 Disclosure of interest by members](#Disclosure-of-interest-by-members)
+- [15 Conflict of interest and disclosure by members](#Conflict-of-interest-and-disclosure-by-members)
+
+- [15A Town Council staff, etc., to disclose conflict of interest](#Town-Council-staff-etc-to-disclose-conflict-of-interest)
 
 - [16 Allowances, etc., payable to members](#Allowances-etc-payable-to-members)
 
 - [17 Validity of acts of members](#Validity-of-acts-of-members)
+
+- [17A Notice about members and key officers of Town Council](#Notice-about-members-and-key-officers-of-Town-Council)
 
 [**Part IV FUNCTIONS AND POWERS OF TOWN COUNCIL**](#Part-IV)
 
@@ -55,6 +59,10 @@
 - [20 Secretary and other staff of Town Council](#Secretary-and-other-staff-of-Town-Council)
 
 - [21 Duties of Town Council](#Duties-of-Town-Council)
+
+- [21A Interaction between Town Council and statutory authorities](#Interaction-between-Town-Council-and-statutory-authorities)
+
+- [21B Direction to Town Councils for emergency-related measures](#Direction-to-Town-Councils-for-emergency-related-measures)
 
 - [22 Power of Town Council to carry out certain works](#Power-of-Town-Council-to-carry-out-certain-works)
 
@@ -98,7 +106,7 @@
 
 - [30 Validity of acts of Town Council](#Validity-of-acts-of-Town-Council)
 
-- [31 Appointment of committees](#Appointment-of-committees)
+- [31 Committees](#Committees)
 
 - [32 Delegation of powers](#Delegation-of-powers)
 
@@ -108,7 +116,7 @@
 
 - [34 Transfer of surpluses after Parliamentary election](#Transfer-of-surpluses-after-Parliamentary-election)
 
-- [35 Accounts](#Accounts)
+- [35 Accounts and records](#Accounts-and-records)
 
 - [36 Annual accounts](#Annual-accounts)
 
@@ -126,6 +134,24 @@
 
 - [43 Financial Rules](#Financial-Rules)
 
+[**Part VIA INSPECTION AND OFFICIAL MANAGEMENT OF TOWN COUNCILS**](#Part-VIA)
+
+- [43A Compliance reviews](#Compliance-reviews)
+
+- [43B Investigations](#Investigations)
+
+- [43C Powers of inspectors in investigations](#Powers-of-inspectors-in-investigations)
+
+- [43D Remedial action to rectify deficiencies](#Remedial-action-to-rectify-deficiencies)
+
+- [43E Inspectors of Town Councils](#Inspectors-of-Town-Councils)
+
+- [43F Offences](#Offences)
+
+- [43G Official management of Town Councils](#Official-management-of-Town-Councils)
+
+- [43H Official manager](#Official-manager)
+
 [**Part VII MISCELLANEOUS PROVISIONS**](#Part-VII)
 
 - [44 Recovery of conservancy and service charges from sale of flat](#Recovery-of-conservancy-and-service-charges-from-sale-of-flat)
@@ -138,9 +164,11 @@
 
 - [48 Liability of owners of vehicles for parking offences](#Liability-of-owners-of-vehicles-for-parking-offences)
 
+- [48A Personal liability of members, etc., for certain offences](#Personal-liability-of-members-etc-for-certain-offences)
+
 - [49 Composition of offences](#Composition-of-offences)
 
-- [50 Minister may appoint any person to exercise or perform certain powers, etc.](#Minister-may-appoint-any-person-to-exercise-or-perform-certain-powers-etc)
+- [50 (Repealed)](#Repealed)
 
 - [51 Legal proceedings](#Legal-proceedings)
 
@@ -150,15 +178,19 @@
 
 - [54 Board’s liability for repairs, etc.](#Board’s-liability-for-repairs-etc)
 
-- [55 Dissolution of Town Council](#Dissolution-of-Town-Council)
+- [54A Handover notices of common property](#Handover-notices-of-common-property)
+
+- [55 Relationship between Board and Town Council](#Relationship-between-Board-and-Town-Council)
 
 - [56 Public servants for purposes of Penal Code](#Public-servants-for-purposes-of-Penal-Code)
+
+- [56A Town Council’s address for service](#Town-Council’s-address-for-service)
+
+- [56B Service of documents and notices, etc.](#Service-of-documents-and-notices-etc)
 
 - [57 Rules](#Rules)
 
 - [58 Savings](#Savings)
-
-[**THE SCHEDULE**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -198,9 +230,49 @@ PRELIMINARY
 
 “charges” means the conservancy and service charges levied by a Town Council under section 39;
 
-“commercial property” means any building or premises vested in or belonging to the Board or any part of the building or premises which is permitted to be used pursuant to the Planning Act (Cap. 232) or any other written law wholly or partly as a shop, office, creche, public hall, a residential institution providing accommodation or care to persons in need of care, or an institution providing education or instruction or which is lawfully so used, and includes any market or food centre of the Board but does not include such property as may be prescribed;
+“commercial property” means any building or premises vested in or belonging to the Board (or part of such building or premises) which is permitted under the Planning Act (Cap. 232) to be used wholly or partly as —
 
-“common property”, in relation to any residential or commercial property in a housing estate of the Board, means so much of the land and all parts of any building of the Board as are not being comprised in the flats in the building and includes —
+(a) a market, food centre, confectionery, bakery, restaurant or bar, or an eating house;
+
+(b) an office or a place of business and for conducting administrative work;
+
+(c) a shop or premises for the carrying on of any trade or business where the primary purpose is the sale of goods by retail or the provision of services;
+
+Examples
+
+A furniture shop, department store, supermarket, dispensary, medical clinic, dental clinic, beauty salon, ticket agency, travel agency, laundry shop, dry cleaner’s shop, pet shop, video games arcade, computer gaming centre, billiard saloon, bowling alley, bank or multimedia kiosk, or an automated teller machine.
+
+(d) a place —
+
+(i) for the care or education, or care and education, of children below 7 years of age; or
+
+(ii) at which 5 or more school-going children who are 7 years of age or older but below 14 years of age are habitually received for the purposes of care and supervision before or after school hours;
+
+(e) premises —
+
+(i) for the reception, lodging and care of aged or disabled persons or persons suffering or convalescing from any sickness, injury or infirmity; or
+
+(ii) for any type of examination of the human body or of any matter derived from the human body for the purpose of providing information for the diagnosis, prevention or treatment of any disease or for the assessment of the health of any person;
+
+Examples
+
+A hospice, convalescent home or nursing home, or a dialysis centre, cancer screening centre or medical health centre.
+
+(f) a kindergarten registered under section 23 of the Education Act (Cap. 87) or an institution providing education or instruction;
+
+Examples
+
+A tuition centre, language school, computer school, music school, dance school, speech and drama school, child development centre or play school, or an art school or acting school.
+
+(g) a sports club, community centre, community club, family service centre or residents’ committee centre, or premises for community-based activities, and includes an office of such a club, centre or committee; or
+
+(h) a police post, fire station or civil defence centre,
+
+but excludes any property specified or described by the Minister, by order in theGazette, as not to be a commercial property for the purposes of this Act;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+“common property”, in relation to any residential or commercial property in a housing estate of the Board, means so much of the land and all parts of any building of the Board as are not being comprised in the flats in the building and, for any housing estate mentioned in section 54A(4), in respect of which a handover notice issued under section 54A is in effect, and includes —
 
 (a) the columns, beams, supports, external walls, roofs and storage spaces, lobbies, corridors, stairs, stairways, fire escapes, entrances and exits;
 
@@ -234,13 +306,37 @@ but does not include —
 
 (v) such other property as may be prescribed;
 
+[Act 17 of 2017 wef 01/05/2017]
+
 “constituency” means an electoral division under the Parliamentary Elections Act (Cap. 218) and includes a group representation constituency;
 
 “elected member”, in relation to a Town Council, means a Member of Parliament for any constituency comprised within the Town for which the Town Council is established;
 
+“finance manager”, for a Town Council, means an individual (other than a member) who occupies a position in the Town Council and is primarily responsible to the Town Council for —
+
+(a) the supervision and administration of the accounting systems of the Town Council, including —
+
+(i) keeping proper accounts and records of the Town Council’s transactions and affairs;
+
+(ii) ensuring that all payments out of the Town Council’s moneys are correctly made and properly authorised; and
+
+(iii) ensuring that adequate control is maintained over the receipt, custody, investment, safekeeping and expenditure of moneys and other assets of, or in custody or control of, the Town Council;
+
+(b) the preparation and revision of estimates of the revenue and expenditure of the Town Council under section 37;
+
+(c) ensuring that the financial statements of the Town Council comply with this Act; and
+
+(d) generally all financial matters relating to the Town Council;
+
+[Act 17 of 2017 wef 01/05/2017]
+
 “Financial Rules” means the rules made under section 43;
 
 “flat” means a horizontal stratum of any building or part thereof, whether the stratum is on one or more levels or is partially or wholly below the surface of the ground, which is used or intended to be used as a complete and separate unit for the purpose of human habitation or business;
+
+“general manager”, for a Town Council, means an individual (other than a member) who occupies a position in the Town Council having the general control and management of the administration of the Town Council, and includes any individual, by whatever name called, who exercises such general control and management;
+
+[Act 17 of 2017 wef 01/05/2017]
 
 “group representation constituency” means any electoral division declared to be a group representation constituency under the Parliamentary Elections Act (Cap. 218);
 
@@ -248,7 +344,63 @@ but does not include —
 
 “industrial property” means any building or premises vested in or belonging to the Board or any part of the building or premises which is permitted to be used pursuant to the Planning Act (Cap. 232) or any other written law for any industrial purposes;
 
+“inspector” means an inspector of Town Councils appointed under section 43E;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+“key officer”, for a Town Council, means any of the following individuals, whether or not an employee of the Town Council:
+
+(a) the secretary to the Town Council;
+
+(b) the general manager of the Town Council, if there is one;
+
+(c) a finance manager of the Town Council (however designated);
+
+(d) an individual who is appointed a deputy to any officer in paragraph (a), (b) or (c) (however designated);
+
+(e) a chairperson of any committee of a Town Council where formed under section 31 for any of the following matters:
+
+(i) internal audit;
+
+(ii) finance;
+
+(iii) procurement of goods or services;
+
+(iv) publicity and public relations;
+
+(v) estate management;
+
+[Act 17 of 2017 wef 01/05/2017]
+
 “lease” includes an agreement for a lease or tenancy and “leased” shall be construed accordingly;
+
+“managing agent”, for a Town Council, means a person (whether or not the person carries on any other business) who is engaged or appointed, for monetary or other reward, to exercise any power or perform any function or duty of the Town Council under this Act, such as (but not limited to) all of the following:
+
+(a) managing common property within the Town of the Town Council;
+
+(b) controlling the use of common property by residents of the housing estates within the Town or other persons;
+
+(c) maintaining and repairing common property or engaging appropriately qualified tradespersons to do so;
+
+(d) arranging building inspections and reports;
+
+(e) keeping and maintaining documents and records relating to any function, duty or power of the Town Council;
+
+(f) undertaking the financial management of the Town Council’s funds and books of account;
+
+(g) paying disbursements and expenses incurred in connection with the person’s management of the Town Council;
+
+(h) arranging for insurance for the Town Council;
+
+(i) paying accounts in relation to the Town Council, such as accounts for water and electricity charges,
+
+but excludes the following individuals when performing any activity that is a function, duty or power of the Town Council under this Act:
+
+(i) a member of, the secretary to or other employee of the Town Council;
+
+(ii) an employee or similar officer of a managing agent of the Town Council;
+
+[Act 17 of 2017 wef 01/05/2017]
 
 “member” means an elected member or an appointed member;
 
@@ -257,6 +409,18 @@ but does not include —
 “residential property” means any building or other premises vested in or belonging to the Board or any part of the building or premises which is permitted to be used pursuant to the Planning Act or any other written law wholly for the purpose of human habitation;
 
 “secretary” means any person appointed by a Town Council under section 20 to be the secretary to the Town Council;
+
+“single Member constituency” means a constituency that is not a group representation constituency;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+“statutory authority” means a body or an office that is established or constituted by or under a public Act to perform or discharge a public function, but does not include the Board or any Town Council;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+“surplus”, for any fund established under section 33, means an excess of the assets over liabilities of the fund at the end of a financial year;
+
+[Act 17 of 2017 wef 01/05/2017]
 
 “Town” means any area declared to be a Town under section 3;
 
@@ -278,29 +442,83 @@ but does not include —
 
 (3) Any order made under subsection (2)(c) may provide for this Act not to apply either indefinitely or for a specified period and may contain such incidental, consequential or supplementary provisions as may appear to the Minister to be necessary or proper.
 
+(4) In this Act, a reference to the date on which any election results for a constituency are declared is a reference to the date the results of an election in that constituency are published in theGazetteunder section 51 of the Parliamentary Elections Act (Cap. 218).
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(5) In this Act, a person is in a position to exercise a significant influence over or with respect to the management or operation of the business of the managing agent or auditor of a Town Council if the person —
+
+(a) holds (whether in the person’s own right or on behalf of any other person) the position of director, partner or other executive position (however designated) in the business of the managing agent or auditor;
+
+(b) is entitled to exercise, by voting or otherwise and whether exercisable alone or in association with others, and whether in the person’s own right or on behalf of any other person, any power to participate in any directorial, managerial or executive decision in the business of the managing agent or auditor; or
+
+(c) is a substantial shareholder (within the meaning of section 81 of the Companies Act (Cap. 50)) of the managing agent or auditor, which is a company.
+
+[Act 17 of 2017 wef 01/05/2017]
+
 ### Declaration of Towns
 
 3\.—(1) For the purposes of constituting a Town Council to control, manage, maintain and improve the common property of residential and commercial property in the housing estates of the Board in any area, the Minister may, from time to time, by order published in theGazette, declare to be a Town by such name as the Minister may designate in the order an area comprising —
 
-(a) any constituency; or
+(a) a single constituency;
 
-(b) any 2 or 3 constituencies where the Members of Parliament have agreed to their constituencies being declared to be a Town.
+[Act 17 of 2017 wef 01/05/2017]
 
-(2) Notwithstanding subsection (1), the Minister may, on the expiration of 14 days after the date of publication of the results of any general election in theGazetteunder section 51 of the Parliamentary Elections Act (Cap. 218), by order under subsection (1) declare each constituency to be a Town except those constituencies whose Members of Parliament have agreed to their constituencies being declared to be a Town.
+(b) any 2 or 3 constituencies where the Members of Parliament agree to their constituencies being declared to be a Town.
 
-[37/96]
+[Act 17 of 2017 wef 01/05/2017]
 
-[23/2005 wef 15/08/2005]
+(2) An order under subsection (1) that declares a constituency to be, or to be comprised in, a Town —
 
-(3) The Minister may, by order published in theGazette, revoke or amend any order made under subsection (1).
+(a) is not invalidated by reason only of a change in the boundaries of the constituency pursuant to section 8 or 20A(1) of the Parliamentary Elections Act; but
 
-(4) When an order is made under subsection (3) for the purpose of declaring an area comprising any constituency or former constituency within a Town or any part of a former constituency within a Town (referred to in this section as the relevant area) to constitute or to form part of another Town, the Town Council of the first-mentioned Town shall, unless earlier dissolved, continue, for such period not exceeding 90 days as the Minister may specify in the order, to be liable for the maintenance and management of the common property of the residential and commercial property in the housing estates of the Board within that area as if the order had not been made.
+(b) is to continue to be in force until the order is revoked after the first general election after the change in those boundaries.
 
-(5) Upon the expiry of the period referred to in subsection (4), the Town Council of the other Town shall be liable for the maintenance and management of that common property.
+[Act 17 of 2017 wef 01/05/2017]
+
+(3) In the event of a general election following the dissolution of Parliament, an order under subsection (1) declaring all Towns must be made by the Minister —
+
+(a) on the 14th day after the last date the election results are declared for the respective constituencies; and
+
+(b) with effect from that day.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(3A) An order under subsection (1) may be amended from time to time, and may contain supplementary provisions (not inconsistent with subsections (4), (5) and (6)) that may be desirable, necessary or expedient in consequence of any change to the boundaries of the area of a Town, such as but not limited to the following:
+
+(a) the dissolution of a Town Council;
+
+(b) the sale, transfer or disposition of any property or rights and liabilities of a Town Council for the affected area, including property, rights and liabilities that would not otherwise be capable of being transferred;
+
+(c) the apportionment or adjustment between Town Councils of property, income or expenditure, or rights and liabilities in connection with the affected area;
+
+(d) the continued operation of the by-laws made by a Town Council for the affected area and for the amendment or revocation by another Town Council of those by-laws, even if the by-laws were not originally made by that other Town Council;
+
+(e) the imposing of a duty on a Town Council to provide another Town Council with all such documents and information and other assistance as the other Town Council may reasonably require for the purposes of, or in connection with, the assumption of responsibility by that other Town Council for the affected area;
+
+(f) the change of name of any Town Council;
+
+(g) specifying for the purposes of subsection (4) the successor Town Council for a dissolved Town Council.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(4) Where an order under subsection (1) provides for an area comprised within a Town (called in this section Town A) to constitute part of another Town (called in this section Town B) —
+
+(a) the Town Council for Town A (called in this section the transferring Town Council); or
+
+(b) if the Town Council for Town A is dissolved, the successor Town Council to that Town Council,
+
+continues to be liable, for a period specified in the order (being not more than 90 days) or a shorter period agreed between the Town Council for Town B (called in this section the receiving Town Council) and the transferring Town Council or successor Town Council for Town A (as the case may be), for the maintenance and management of the common property of the residential and commercial property in the housing estates of the Board within that area as if the order had not been made.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(5) Upon the expiry of the period referred to in subsection (4), the receiving Town Council shall be liable for the maintenance and management of that common property.
 
 [18/92; 37/96]
 
-(6) Nothing in subsection (4) shall authorise the Town Council of the Town first-mentioned therein to draw on —
+[Act 17 of 2017 wef 01/05/2017]
+
+(6) Nothing in subsection (4) shall authorise the transferring Town Council or successor Town Council for Town A (as the case may be) to draw on —
 
 (a) any surpluses of the Town Council which are required under section 34 to be transferred to its sinking funds; or
 
@@ -310,7 +528,9 @@ to maintain and manage the common property of the residential and commercial pro
 
 [37/96]
 
-(7) The Minister may, in any order made under subsection (3), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
+[Act 17 of 2017 wef 01/05/2017]
+
+(7) [Deleted by Act 17 of 2017 wef 01/05/2017]
 
 (8) For the purposes of this Act, where any part of the common property of any residential or commercial property is situated partly in the Town of one Town Council and partly in the Town of another, the Town Councils may agree that such part shall be treated as situated in such one of the Towns as is specified in the agreement; and in default of agreement the situation of such part shall be determined by the Minister whose decision shall be final.
 
@@ -318,9 +538,11 @@ to maintain and manage the common property of the residential and commercial pro
 
 ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF TOWN COUNCILS
 
-### Establishment of Town Councils
+### Establishment of Town Council
 
-4\. On such date as the Minister may, from time to time by order published in theGazette, specify in respect of any Town, there shall be established for that Town a body to be known as a Town Council.
+4\. A Town Council is established by this section for every Town unless the Town Council is dissolved under this Act.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Incorporation
 
@@ -348,33 +570,53 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF TOWN COUNCILS
 
 (a) the elected member or members ex officio; and
 
-(b) such other members appointed by the chairman in accordance with subsection (2) —
+(b) such other members appointed by the chairman in accordance with subsections (2) and (3).
 
-(i) being not more than 10 members for every Member of Parliament required to be returned at a general election or by-election for the constituencies comprised within the Town; or
-
-(ii) being not more than 30 members,
-
-whichever is the greater but in any case being not less than 6 members.
-
-[18/92; 37/96]
+[Act 17 of 2017 wef 01/05/2017]
 
 (2) The chairman shall, within 30 days of assuming his office, appoint the members under subsection (1)(b) on the nomination of the elected members, each of whom (including the chairman) may nominate such number of members as they may agree or, if they fail to agree, an equal number of members, of whom not less than two-thirds shall be residents of any housing estate of the Board within the Town.
 
 [18/92]
 
+(3) At least 6 individuals must be appointed under subsection (1)(b) as appointed members of a Town Council, but the maximum number that may be so appointed is the higher of the following:
+
+(a) 10 for each Member of Parliament required to be returned at any parliamentary election for each constituency comprised in the Town of that Town Council;
+
+(b) 30.
+
+[Act 17 of 2017 wef 01/05/2017]
+
 ### Chairman and vice-chairmen
 
-9\.—(1) A chairman of a Town Council shall be appointed by the elected members from among their number within 30 days after any general election or by-election in any constituency comprised within the Town under the Parliamentary Elections Act (Cap. 218) for such term as the elected members may determine.
+9\.—(1) Subject to subsection (3), a chairman of a Town Council for a Town is —
 
-(2) The first chairman of a Town Council shall be so appointed within 7 days after the establishment of the Town Council.
+(a) if the area of the Town comprises only one single Member constituency, the Member of Parliament for that constituency; and
 
-[18/92]
+(b) if the area of the Town comprises a single group representation constituency, or 2 or 3 constituencies, whoever is chosen by the elected members of the Town Council from among themselves to be the chairman.
 
-(3) Where the elected members fail to appoint a chairman under subsection (1), the Minister shall appoint any elected member to be the chairman for such term as the Minister may determine.
+[Act 17 of 2017 wef 01/05/2017]
 
-[18/92]
+(2) Unless otherwise provided in subsection (4), the chairman of a Town Council for a Town (as determined under subsection (1)) assumes that office as follows:
 
-(4) Where the area of a Town comprises only one constituency (other than a group representation constituency), the Member of Parliament for that constituency shall be the chairman during his tenure of office as a Member of Parliament for that constituency.
+(a) for a Town declared after a general election, on the day that the order made under section 3(1) in the circumstances in section 3(3) takes effect;
+
+(b) for a Town comprising one or more constituencies in which a by-election is held —
+
+(i) if the Town comprises only one single Member constituency, on the day after the day the candidate is declared returned as the Member of Parliament for that constituency under section 49(7E)(a) or 49A(5) of the Parliamentary Elections Act (Cap. 218), whichever happens; or
+
+(ii) if the Town comprises a single group representation constituency, or 2 or 3 constituencies, on the 14th day after the last date the election results are declared for the constituency or constituencies in which the by-election is held;
+
+(c) for any other case, on the date the Town for the Town Council is declared under section 3.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(3) If the choice required by subsection (1)(b) is not made by the elected members of a Town Council on or before the applicable date mentioned in subsection (2), the Minister must appoint the chairman for that Town Council from among its elected members.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(4) The chairman so appointed under subsection (3) assumes office on the day immediately after the applicable date mentioned in subsection (2), and holds office for such term as the Minister may determine.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (5) The chairman shall appoint from among the members not more than 2 vice-chairmen for such term, not exceeding 2 years, as he may determine.
 
@@ -392,21 +634,33 @@ whichever is the greater but in any case being not less than 6 members.
 
 (9) The appointment of any chairman under subsection (7) —
 
-(a) shall terminate upon the assumption of office of the elected member or members; or
+(a) terminates upon the assumption of office of the elected member or members of the Town Council for the Town after the general election; or
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (b) may be revoked by the Minister if he is satisfied that it is desirable in the public interest to do so and thereupon another chairman shall be appointed in the same manner prescribed in subsection (7).
+
+(9A) To avoid doubt, an individual’s appointment as an appointed member is not affected by reason only of the revocation —
+
+(a) by the Minister under subsection (9)(b) of the individual’s appointment to act as chairman; or
+
+(b) by the chairman under subsection (10) of the individual’s appointment to act as vice-chairman.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (10) The chairman may at any time revoke the appointment of any vice-chairman without assigning any reason.
 
 [25/90]
 
-(11) The chairman and any vice-chairman of a Town Council shall, as soon as practicable after their assumption of office, complete a declaration of acceptance of such office in the form prescribed in the Schedule and deliver the declaration to the Minister.
+(11) The chairman and any vice-chairman of a Town Council shall, as soon as practicable after their assumption of office, complete a declaration of acceptance of such office in the form prescribed by rules under section 57 and deliver the declaration to the Minister.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (12) Any failure to comply with subsection (11) by the chairman or vice-chairman shall not invalidate his term of office.
 
 [25/90]
 
-(13) A Town Council shall as soon as practicable publish in theGazettethe names of the chairman, the vice-chairmen and other members of the Town Council.
+(13) [Deleted by Act 17 of 2017 wef 01/05/2017]
 
 ### Duties of chairman and vice-chairmen
 
@@ -448,15 +702,31 @@ GENERAL PROVISIONS AS TO MEMBERS OF TOWN COUNCIL
 
 ### Tenure of office of elected members
 
-13\.—(1) Every elected member of a Town Council shall assume his office upon his election as a Member of Parliament and shall vacate his office if he ceases to be a Member of Parliament for the constituency comprised within the Town for which the Town Council is established.
+13\.—(1) Subject to this section, a Member of Parliament assumes office as an elected member of a Town Council —
 
-(2) Subject to subsection (1), every elected member of a Town Council shall hold office for the duration of the Parliament in which he is elected and shall not resign or vacate his office as a member and any purported resignation or vacation of office in breach of this subsection shall be deemed to be invalid.
+(a) for a Town declared after a general election, on the day that the order made under section 3(1) in the circumstances in section 3(3) takes effect;
+
+(b) for a Town comprising any constituency in which a by-election is held, on the day after the day he is declared returned at the by-election as the Member of Parliament for that constituency under section 49(7E)(a) or 49A(5) of the Parliamentary Elections Act (Cap. 218), whichever happens; or
+
+(c) for a Town in any other case, on the day the Town is declared under section 3.
+
+(2) An elected member of a Town Council vacates office as an elected member of a Town Council only when he ceases to be a Member of Parliament for the constituency comprised within the Town for which the Town Council is established.
+
+(3) Subject to subsection (2), an elected member of a Town Council cannot resign his office as an elected member, and any purported resignation as an elected member of a Town Council is of no effect.
+
+(4) Every elected member of a Town Council who is not a chairman or vice-chairman of the Town Council must, as soon as practicable after assuming office as an elected member, complete a declaration of acceptance of that office in the form prescribed by rules under section 57 and deliver the declaration to the Minister.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Tenure of office of appointed members
 
-14\.—(1) Subject to subsection (2), an appointed member shall hold office for a term of 2 years and on such conditions as the chairman may determine and shall be eligible for reappointment.
+14\.—(1) Subject to subsections (2), (4), (5), (6) and (8), an appointed member shall hold office for a term of 2 years and on such conditions as the chairman may determine and shall be eligible for reappointment.
 
-(2) Every appointed member of a Town Council shall cease to be a member upon the assumption of office of the chairman of the Town Council after any general election or by-election in any constituency comprised within the Town under the Parliamentary Elections Act (Cap. 218), unless the member earlier resigns or vacates his office in accordance with this Act.
+[Act 17 of 2017 wef 01/05/2017]
+
+(2) Every appointed member of a Town Council shall cease to be a member upon the assumption of office of the chairman of the Town Council under section 9(2) or (4), unless the member earlier resigns or vacates his office in accordance with this Act.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (3) The chairman may appoint any person to be a temporary appointed member of a Town Council during the temporary incapacity from illness or otherwise, or during the temporary absence from Singapore, of any appointed member.
 
@@ -480,19 +750,121 @@ GENERAL PROVISIONS AS TO MEMBERS OF TOWN COUNCIL
 
 (a) is not a citizen of Singapore;
 
+(aa) is appointed under section 38(1) as the auditor of the Town Council;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(ab) is or becomes the managing agent of the Town Council;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(ac) is in a position to exercise a significant influence over or with respect to the management or operation of the business of the managing agent or appointed auditor of the Town Council;
+
+[Act 17 of 2017 wef 01/05/2017]
+
 (b) is an undischarged bankrupt or has made any arrangement with his creditors; or
 
 (c) has been sentenced to imprisonment for a term of not less than one year or to a fine of not less than $2,000 and has not received a free pardon.
 
 (9) The disqualification of a person under subsection (8)(c) may be removed by the President and shall, if not so removed, cease at the end of 5 years beginning from the date on which the person was released from custody or the date on which the fine was imposed on the person.
 
-### Disclosure of interest by members
+(10) Every appointed member of a Town Council must, as soon as practicable after being so appointed under subsection (1) or (3), complete a declaration of acceptance of that office in the form prescribed by rules under section 57 and deliver the declaration to the Minister.
 
-15\.—(1) A member of a Town Council who is in any way, directly or indirectly, interested in a transaction or project of the Town Council shall disclose the nature of his interest at a meeting of the Town Council.
+[Act 17 of 2017 wef 01/05/2017]
 
-(2) The disclosure under subsection (1) shall be recorded in the minutes of the Town Council and the member shall not take part in any deliberation of the Town Council with respect to that transaction or project.
+### Conflict of interest and disclosure by members
 
-(3) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under subsection (2) he cannot vote or has withdrawn from the meeting.
+15\.—(1) As soon as practicable after a member of a Town Council becomes aware of a conflict of interest in a question that has arisen or is about to arise before the Town Council, the member must disclose in writing the fact, nature, character and extent of the personal or financial interest that gives rise to the conflict —
+
+(a) in the case of the chairman, to the secretary and all other members of the Town Council; or
+
+(b) in the case of any other member of the Town Council, to the secretary and —
+
+(i) to the chairman;
+
+(ii) if the chairman also has a conflict of interest, to a vice-chairman; or
+
+(iii) if both the chairman and vice-chairman also have a conflict of interest, to all other members of the Town Council.
+
+(2) The secretary to a Town Council must ensure that every disclosure under subsection (1) in relation to any question —
+
+(a) is recorded in a register of interests kept and maintained in the prescribed form; and
+
+(b) is brought to the attention of the member presiding at a meeting of the Town Council at which that question arises or is to arise.
+
+(3) A member of a Town Council —
+
+(a) may be present at a meeting of the Town Council while a question in which the member has a conflict of interest is under consideration and may be treated as being present at a meeting for the purposes of determining quorum; but
+
+(b) must not participate in any decision on the question.
+
+(4) For the purposes of this section, a member of a Town Council has a conflict of interest in a question arising for decision by the Town Council if the member, or an associate of the member, has a personal or financial interest in how the question is decided.
+
+(5) However, subsection (4) does not apply merely because of an interest that is —
+
+(a) an interest in a question about the level of allowances or expenses to be set for members;
+
+(b) an interest that the member, or an associate of the member, shares in common with the general public or a substantial section of the public;
+
+(c) an interest of the member or an associate of the member —
+
+(i) in an appointment or a nomination for an appointment to a body with predominantly charitable objects; or
+
+(ii) in any payment or reimbursement of membership fees, or expenses related to membership, in a body mentioned in sub-paragraph (i);
+
+(d) an interest of the member, or an associate of the member, that is prescribed; or
+
+(e) an interest so remote or insignificant that it could not reasonably be regarded as likely to influence a decision.
+
+(6) In this section and section 15A, a person is an associate of another if —
+
+(a) they are spouses or siblings or a parent and child or they are in a similar close family relationship;
+
+(b) they are in partnership;
+
+(c) one is a company and the other is a director or manager of the company;
+
+(d) one is a private company within the meaning of the Companies Act (Cap. 50) and the other is a shareholder in the company; or
+
+(e) a chain of relationships can be traced between them under one or more of the above paragraphs.
+
+(7) The secretary to a Town Council who, without reasonable excuse —
+
+(a) fails to keep and maintain a register of interests in the prescribed form; or
+
+(b) fails to comply with subsection (2),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(8) To avoid doubt, this section is in addition to, and not in derogation of, the operation of any rule of law restricting a member of a Town Council from having any interest in contracts with the Town Council or from holding offices or possessing interests in conflict with his duties as such a member.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Town Council staff, etc., to disclose conflict of interest
+
+15A\.—(1) This section applies —
+
+(a) to the secretary to a Town Council;
+
+(b) to an employee, a staff or the managing agent of a Town Council who has been delegated a power, function or duty of the Town Council under this Act; and
+
+(c) to a member of a committee of a Town Council who has been delegated a power, function or duty of the Town Council under this Act.
+
+(2) As soon as practicable after a person mentioned in subsection (1)(a), (b) or (c) becomes aware of a conflict of interest that has arisen or is about to arise in a matter in which the person is conferred a power, function or duty relating to the Town Council by or under this Act, the person —
+
+(a) must not exercise or further exercise that power, or perform or further perform that function or duty, without the approval of the Town Council; and
+
+(b) must disclose the fact, nature, character and extent of the personal or financial interest that gives rise to the conflict as follows:
+
+(i) in the case of the secretary to or a member of a committee of a Town Council, or the managing agent of the Town Council, disclose to the chairman of the Town Council in writing as soon as the secretary, member of a committee or managing agent (as the case may be) becomes aware of the conflict of interest, and to the Town Council not later than at the next meeting of the Town Council;
+
+(ii) in the case of an employee or a staff of a Town Council, disclose to the secretary to the Town Council in writing as soon as the employee or staff becomes aware of the conflict of interest.
+
+(3) A person mentioned in subsection (1) has a conflict of interest in a matter in which the person is conferred a power, function or duty relating to the Town Council if the person, or an associate of the person, has a personal or financial interest in how the power, function or duty is to be exercised or performed in relation to that matter.
+
+(4) This section is in addition to, and not in derogation of, the operation of any rule of law restricting a person mentioned in subsection (1) from having any interest in contracts with a Town Council or from holding offices or possessing interests in conflict with his powers, functions or duties as such a secretary to, or an employee or a staff or a managing agent of, a Town Council or a member of a committee of a Town Council.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Allowances, etc., payable to members
 
@@ -504,63 +876,229 @@ GENERAL PROVISIONS AS TO MEMBERS OF TOWN COUNCIL
 
 17\. The acts and proceedings of any member of a Town Council acting as such shall, notwithstanding his want of qualification or disqualification, be as valid and effectual as if he had been qualified.
 
+### Notice about members and key officers of Town Council
+
+17A\.—(1) Within 30 days after an individual —
+
+(a) assumes any of the following offices in a Town Council:
+
+(i) the chairman;
+
+(ii) a vice-chairman;
+
+(iii) an elected member;
+
+(iv) an appointed member; or
+
+(b) is appointed as a key officer of a Town Council,
+
+the Town Council must give to the Minister a notice specifying the name and other prescribed particulars of the individual.
+
+(2) Within 30 days after an individual —
+
+(a) ceases to hold any of the following offices in a Town Council, other than because of the operation of section 9(9), 13(2) or 14(2):
+
+(i) the chairman;
+
+(ii) a vice-chairman;
+
+(iii) an elected member;
+
+(iv) an appointed member; or
+
+(b) ceases to be a key officer of a Town Council,
+
+the Town Council must give to the Minister a notice specifying the name of the individual and other prescribed particulars about the cessation.
+
+(3) Within 30 days after an individual —
+
+(a) assumes any office mentioned in subsection (1)(a); or
+
+(b) is appointed as —
+
+(i) the secretary to the Town Council;
+
+(ii) the general manager of the Town Council;
+
+(iii) a finance manager of a Town Council; or
+
+(iv) a deputy of any officer in sub-paragraph (i), (ii) or (iii),
+
+the Town Council must exhibit, in accordance with subsection (4), a notice in English specifying the name of the individual.
+
+(4) The notice required by subsection (3) must be —
+
+(a) affixed to a conspicuous part of such buildings comprised within the Town of the Town Council concerned as will secure adequate publicity for the contents of the notice; and
+
+(b) published in theGazette, and at an online location accessible to residents of housing estates within that Town.
+
+[Act 17 of 2017 wef 01/05/2017]
+
 ## PART IV
 
 FUNCTIONS AND POWERS OF TOWN COUNCIL
 
 ### Functions of Town Council
 
-18\.—(1) The functions of a Town Council are —
+18\.—(1) Subject to sections 21A and 21B, the functions of a Town Council are —
 
-(a) to control, manage, maintain and improve the common property of the residential and commercial property in the housing estates of the Board within the Town and to keep them in a state of good and serviceable repair and in a proper and clean condition; and
+(a) to control, manage, maintain and improve the common property of the residential and commercial property in the housing estates of the Board within the Town for the benefit of the residents of those housing estates and to keep them in a state of good and serviceable repair and in a proper and clean condition; and
 
-(b) to exercise such powers and perform such duties as may from time to time be conferred or imposed on the Town Council by or under any written law.
+[Act 17 of 2017 wef 01/05/2017]
+
+(b) to exercise such powers and perform such duties as may from time to time be conferred or imposed on the Town Council by or under this Act.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (2) Without prejudice to the generality of subsection (1), the functions of a Town Council shall include the conservancy and landscaping of the common property of the residential and commercial property in the housing estates of the Board within the Town.
 
 ### Powers of Town Council
 
-19\.—(1) A Town Council may —
+19\.—(1) Subject to subsections (1A), (4) and (5) and sections 21A and 21B, a Town Council may —
 
 (a) with the prior written consent of the Board, establish and maintain places and facilities on or make improvements to the common property of the residential and commercial property for the benefit of residents of housing estates of the Board within the Town;
 
-(aa) with the approval of the Minister and the consent of the owner of the property on which the facilities are or to be erected, installed or planted, erect, install, plant (including landscaping), repair and maintain facilities within the Town that is outside the common property of the residential and commercial property in the housing estates of the Board within the Town;
+(aa) do, with the approval of the Minister, any of the following in relation to any facility that is erected, installed or planted within the Town but is outside of the common property of the residential and commercial property in the housing estates of the Board within the Town:
 
-[23/2005 wef 15/08/2005]
+(i) erect, install or plant (including landscaping) the facility;
 
-(b) acquire and hold property of any description if, in the opinion of the Town Council, the property is necessary for the accommodation of the Town Council or for the performance of any purpose which the Town Council is required or is permitted by this Act or any other Act to perform and, subject to the terms and conditions upon which the property is held, to dispose of the property;
+(ii) demolish and relocate the facility;
 
-(c) impose charges for such use of any part of the common property as the Minister may prescribe, or for the use of any facility or service provided, or for any improvements to the common property made, by the Town Council as it considers necessary, except that no charge shall be imposed for the use by the Board or its agents of any part of the common property;
+(iii) repair and maintain the facility,
 
-(d) appoint agents to carry out its functions under this Act or any other Act;
+provided that the owner of the property on which the facility is erected, installed, planted, demolished or relocated consents;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(b) acquire and hold property of any description if, in the opinion of the Town Council, the property is necessary for the accommodation of the Town Council or for the performance of any purpose which the Town Council is required or is permitted by this Act to perform and, subject to the terms and conditions upon which the property is held, to dispose of the property;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(c) set such charges as the Town Council from time to time thinks fit for all or any of the following if prescribed by rules under section 57:
+
+(i) for use of any common property within the Town or any part of the common property;
+
+(ii) for use of any improvements made by the Town Council to that common property;
+
+(iii) for such use of any services and facilities provided by the Town Council;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(d) appoint agents to carry out its functions under this Act;
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (e) accept gifts and donations whether of property or otherwise and whether subject to any special trust or not; and
 
-(f) do all such other acts as are reasonably necessary for the exercise or performance of all or any of the powers or duties of the Town Council under this Act or any other Act and for the enforcement of its by-laws and perform any other function which is incidental or conducive to the attainment or furtherance of the purposes of the Town Council in accordance with the provisions of this Act or any other Act.
+(f) do all such other acts as are reasonably necessary for the exercise or performance of all or any of the powers or duties of the Town Council under this Act and for the enforcement of its by-laws and perform any other function which is incidental or conducive to the attainment or furtherance of the purposes of the Town Council in accordance with the provisions of this Act.
 
 [25/90; 37/96]
 
-(2) A Town Council may manage or maintain any parking place and industrial property of the Board or any market and food centre of the Board or Government within the Town upon such terms and conditions as may be agreed between the Town Council and the Board or the Government, as the case may be.
+[Act 17 of 2017 wef 01/05/2017]
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(1A) However, nothing in subsection (1) confers any power on a Town Council to wholly remove, demolish or destroy, without the prior consent of the Board, any recreational equipment or other installation or structure that —
+
+(a) is situated on any common property in a housing estate within its Town; and
+
+(b) is not constructed by the Town Council.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(2) A Town Council may —
+
+(a) manage or maintain —
+
+(i) any parking place and industrial property, or any market or food centre, of the Board upon terms and conditions agreed between the Town Council and the Board; or
+
+(ii) any market or food centre of the Government upon terms and conditions agreed between the Town Council and the Government; or
+
+(b) carry out such other works on any common property of the housing estates within the Town on behalf of the Board upon terms and conditions agreed between the Town Council and the Board.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(3) A Town Council may, on the request of any statutory authority or any community-based association, and with the approval of the Minister, carry out any work on behalf of the statutory authority or association on any property within the Town upon such terms and conditions as may be agreed between the Town Council and the statutory authority or association, as the case may be.
 
 [37/96]
 
-(3) A Town Council may, on the request of any public authority or any community-based association, and with the approval of the Minister, carry out any work on behalf of the public authority or association on any property within the Town upon such terms and conditions as may be agreed between the Town Council and the public authority or association, as the case may be.
-
-[37/96]
+[Act 17 of 2017 wef 01/05/2017]
 
 (3A) Nothing in subsection (3) shall authorise a Town Council to enter upon the property of any person within the Town unless the consent of the owner thereof has been first obtained.
 
 [23/2005 wef 15/08/2005]
 
-(4) The Minister may, in prescribing the uses for which charges may be imposed under subsection (1)(c), exempt any person or class of persons from the payment of such charges.
+(4) Except with the prior approval of the Minister, and despite subsection (1)(f), a Town Council for a Town has no power to carry on substantial trading or financial activities other than —
 
-[37/96]
+(a) activities relating to the control, management, maintenance and improvement of the common property of the residential and commercial property in the housing estates of the Board within the Town;
+
+(b) activities to keep that common property in a state of good and serviceable repair and in a proper and clean condition; or
+
+(c) activities expressly permitted under any provision of this Act.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(5) Despite subsection (1)(c), a Town Council is not entitled to demand or take from —
+
+(a) the Board (or any of its contractors or agents) a charge for carrying out an activity on any part of the common property within the Town for which the Town Council is established, where the activity is carried out in the course of performing the functions or duties of the Board; or
+
+(b) any other person a charge for a use that is not prescribed by rules under section 57 for the purposes of subsection (1)(c).
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(6) A Town Council that demands or takes a charge in contravention of subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(7) Upon conviction of a Town Council for an offence under subsection (6) for taking a charge from any person, the Court may, in addition to any penalty that may be imposed under that subsection, order the Town Council to refund to that person the charge taken.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Secretary and other staff of Town Council
 
 20\.—(1) A Town Council shall appoint a person, including any appointed member, to be the secretary to the Town Council on such terms and conditions as the Town Council may determine who shall be responsible to the Town Council for the proper administration and management of the functions and affairs of the Town Council in accordance with this Act.
 
+(1A) However, an individual is disqualified from being appointed under subsection (1) as, and must stop being, the secretary to a Town Council if the individual —
+
+(a) is appointed under section 38(1) as the auditor of the Town Council;
+
+(b) is or becomes the managing agent of the Town Council; or
+
+(c) is in a position to exercise a significant influence over or with respect to the management or operation of the business of the managing agent of the Town Council.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(1B) The individual appointed as the secretary to a Town Council must, as soon as practicable after assuming the appointment, complete a declaration of acceptance of that appointment in the form prescribed by rules under section 57 and deliver the declaration to the Minister.
+
+[Act 17 of 2017 wef 01/05/2017]
+
 (2) A Town Council may appoint such other staff on such terms and conditions as it may determine to assist the secretary.
+
+(3) However, an individual is disqualified from being appointed under subsection (2) as, and must cease to be, a relevant key officer of a Town Council if the individual —
+
+(a) is appointed under section 38(1) as the auditor of the Town Council;
+
+(b) is or becomes the managing agent of the Town Council; or
+
+(c) is in a position to exercise a significant influence over or with respect to the management or operation of the business of the managing agent of the Town Council.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(4) The individual appointed as a relevant key officer of a Town Council must, as soon as practicable after assuming the appointment, complete a declaration of acceptance of that appointment in the form prescribed by rules under section 57 and deliver the declaration to the Minister.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(5) In this section, “relevant key officer” means an individual occupying a position (however designated) of —
+
+(a) the general manager of the Town Council;
+
+(b) a finance manager of the Town Council; or
+
+(c) a deputy of the general manager or finance manager of the Town Council.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Duties of Town Council
 
@@ -589,6 +1127,78 @@ FUNCTIONS AND POWERS OF TOWN COUNCIL
 (2) Where a requirement or duty is imposed on a Town Council by this section, the Board or any person for whose benefit, or for the benefit of whose flat that requirement or duty is imposed on the Town Council, may apply to the High Court for an order compelling the Town Council to carry out the requirement or perform the duty, as the case may be.
 
 (3) On an application being made under subsection (2), the High Court may make such order as it thinks proper.
+
+### Interaction between Town Council and statutory authorities
+
+21A\.—(1) A Town Council must, in the exercise of its powers and the performance of its functions and duties under this Act in relation to the residential property and commercial property in the housing estates of the Board within its Town, work cooperatively and in collaboration with the following for the benefit of the residents of those estates:
+
+(a) the Board in the discharge of the Board’s functions under the Housing and Development Act (Cap. 129);
+
+(b) any statutory authority or public officer performing functions (but without specific power) under any written law for any of the following purposes:
+
+(i) securing public safety and ensuring public order in or around the Town;
+
+(ii) preventing disease or injury, or creating and maintaining a healthy environment in or around the Town;
+
+(iii) urban development that integrates electronic, information and communication technologies so as to improve quality of life for residents in and around the Town.
+
+(2) Where —
+
+(a) the Board, or a statutory authority or public officer mentioned in subsection (1)(b), intends to perform within the Town for which a Town Council is established, a function under any written law for any of the purposes mentioned in subsection (1)(a) or (b), as the case may be;
+
+(b) the Board, or the statutory authority or public officer, has given to the Town Council a notice of its or the officer’s intention to perform that function on or in relation to the common property of the residential and commercial property in the housing estates of the Board within the Town; and
+
+(c) the Town Council has unreasonably delayed, hampered or prevented the performance of that function on or in relation to that common property,
+
+the Board, or the statutory authority or public officer (as the case may be) with the consent of the Board, may give notice to the Town Council concerned requiring the Town Council (according to the circumstances of the case) to do, or to refrain from doing, such things as are specified in the notice as to facilitate or enable the Board, or the statutory authority or public officer (as the case may be), to so perform that function.
+
+(3) If a notice given to a Town Council under subsection (2) is not complied with, the Board, or the statutory authority or public officer (as the case may be) may —
+
+(a) carry out, or cause to be carried out all or any of the things as are specified in the notice, and perform its or the officer’s function on or in relation to the common property of the residential and commercial property in the housing estates of the Board within the Town; and
+
+(b) recover all expenses reasonably incurred by the Board, or the statutory authority or public officer (as the case may be) carrying out those things.
+
+(4) Without affecting subsection (3), if a Town Council fails, without reasonable excuse, to comply with the requirements of a notice given to it under subsection (2), that Town Council shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part of a day during which the offence continues after conviction.
+
+(5) To avoid doubt, this section is in addition to, and not in derogation of, any other written law that makes it an offence to obstruct or impede a public officer or statutory authority or the Board, or an officer of a statutory authority or the Board, in the performance of its or the officer’s public function.
+
+(6) This section does not apply to or in relation to any emergency-related purpose within the meaning of section 21B.
+
+(7) To avoid doubt, this section does not prohibit a Town Council from proposing reasonable terms and conditions for carrying out activities mentioned in section 19(2) or (3).
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Direction to Town Councils for emergency-related measures
+
+21B\.—(1) The Minister may, by written direction given to a Town Council —
+
+(a) require the Town Council to prepare itself to deal with specified kinds of emergency-related purposes; or
+
+(b) require that —
+
+(i) access be given to specified kinds of services by the Town Council for specified kinds of emergency-related purposes; or
+
+(ii) priority of access be given to specified kinds of services by the Town Council for specified kinds of emergency-related purposes.
+
+(2) Every direction under subsection (1)(b) must specify the Ministry, department or statutory authority to whom access, or priority of access, must be given.
+
+(3) The manner in which those preparations are to be made or that access, or priority of access, is to be given must be set out in the direction under subsection (1).
+
+(4) The terms and conditions on which the preparations are to be made or that access, or priority of access, is to be given must be set out in the direction under subsection (1).
+
+(5) A Town Council must comply with every direction given to it under subsection (1).
+
+(6) A Town Council that fails to comply with any direction of the Minister given under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(7) In this section, “emergency-related purpose” means a purpose related to the management of —
+
+(a) a public health emergency within the meaning of the Infectious Diseases Act (Cap. 137);
+
+(b) a civil defence emergency within the meaning of the Civil Defence Act (Cap. 42); or
+
+(c) any other public emergency (natural or otherwise).
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Power of Town Council to carry out certain works
 
@@ -644,9 +1254,13 @@ a Town Council may, by its employees or agents, enter upon any flat of the Board
 
 (3) A Town Council, owner or tenant of a flat leased from the Board within the Town, shall be entitled to apply to the court —
 
-(a) for an order to enforce the performance of or restrain the breach of any by-law made by that Town Council; or
+(a) for an order to enforce the performance of or restrain the breach of any by-law made by that Town Council for the purpose in subsection (1); or
 
-(b) to recover damages for any loss or injury to any person or property arising out of the breach of any by-law made by that Town Council,
+[Act 17 of 2017 wef 01/05/2017]
+
+(b) to recover damages for any loss or injury to any person or property arising out of the breach of any by-law made by that Town Council for the purpose in subsection (1),
+
+[Act 17 of 2017 wef 01/05/2017]
 
 by or from any person bound to comply therewith or the Town Council, as the case may be, and the court may make such order against any such person or the Town Council as the court thinks fit.
 
@@ -666,9 +1280,11 @@ by or from any person bound to comply therewith or the Town Council, as the case
 
 (8) The by-laws of a Town Council in force on the date of publication shall be published annually in book form and copies thereof shall be made available for purchase at a reasonable price by members of the public.
 
-(9) Any person who commits a breach of any of the by-laws made by a Town Council or makes default in complying with any of the by-laws, and every person who is knowingly a party to the breach or default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(9) Any person who commits a breach of any of the by-laws made by a Town Council or makes default in complying with any of the by-laws made by a Town Council for the purpose in subsection (1) or makes default in complying with any of those by-laws, and every person who is knowingly a party to the breach or default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 [37/96]
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (10) In this section, “flat” includes any stall in any market or food centre of the Board.
 
@@ -926,23 +1542,63 @@ PROCEEDINGS OF TOWN COUNCIL
 
 30\. The proceedings of a Town Council or a committee thereof shall not be invalidated by any vacancy among its number or by any defect in the appointment or qualification of any member thereof.
 
-### Appointment of committees
+### Committees
 
-31\.—(1) A Town Council may appoint committees which may include persons who are not members of the Town Council for purposes which, in the opinion of the Town Council, would be better regulated and managed by means of such committees.
+31\.—(1) A Town Council may, by resolution, appoint such number of committees as it thinks fit for purposes which, in the opinion of the Town Council, would be better regulated and managed by means of such committees.
 
-(2) At least one-third of the members of each committee shall be members of the Town Council, one of whom shall be elected as chairman of the committee and as such shall have an original vote and, in the case of an equality of votes, a casting vote.
+(2) Subject to subsections (3) and (4), a committee appointed by a Town Council under this section may consist of such number of individuals as the Town Council thinks fit, and may include individuals who are not members.
 
-[18/92]
+(3) At least one-third of the members of each committee formed under this section must be members of the Town Council, and where a committee is formed under this section by a Town Council for any of the following matters:
+
+(a) internal audit;
+
+(b) finance;
+
+(c) procurement of goods or services;
+
+(d) publicity and public relations;
+
+(e) estate management,
+
+the chairperson of each such committee must be a member of the Town Council.
+
+(4) An individual is disqualified from being appointed as a committee member under this section, and must cease to be such a committee member, if the individual —
+
+(a) is appointed under section 38(1) as the auditor of the Town Council;
+
+(b) is or becomes the managing agent of the Town Council; or
+
+(c) is in a position to exercise a significant influence over or with respect to the management or operation of the business of the managing agent of the Town Council.
+
+(5) Every individual who is appointed as a committee member under this section must, as soon as practicable after assuming the appointment, complete a declaration of acceptance of that appointment in the form prescribed by rules under section 57 and deliver the declaration to the Minister.
+
+(6) Each member of a committee formed under this section has one vote at meetings of the committee.
+
+(7) In addition to his general vote, the chairperson, or member of a committee presiding at a meeting, of the committee has, in the case of an equality of votes, a casting vote.
+
+(8) Subject to this Act and any restriction in a resolution under subsection (1), a committee formed under this section may regulate its own proceedings and business as it thinks fit.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Delegation of powers
 
-32\.—(1) A Town Council may, subject to such conditions or restrictions as it thinks fit, delegate to any member of the Town Council, or to any committee of the Town Council or to any member thereof, all or any of the powers, functions and duties by this Act or any other Act vested in the Town Council, and any power, function or duty so delegated may be exercised or performed by such member or committee in the name and on behalf of the Town Council.
+32\.—(1) A Town Council may, subject to such conditions or restrictions as it thinks fit, delegate to any member of the Town Council, or to any committee of the Town Council or to any member thereof, all or any of the powers, functions and duties by this Act (except a restricted power), and any power, function or duty so delegated may be exercised or performed by such member or committee in the name and on behalf of the Town Council.
 
-(2) A Town Council may, subject to such conditions or restrictions as it thinks fit, delegate to any employee thereof or any agent all or any of the powers, functions and duties by this Act or any other Act vested in the Town Council, and any power, function or duty so delegated may be exercised or performed by such employee or agent in the name and on behalf of the Town Council.
+[Act 17 of 2017 wef 01/05/2017]
 
-(3) A Town Council may continue to exercise any power conferred upon it, or perform any function or duty under this Act or any other Act, notwithstanding the delegation of such power, function or duty under this section.
+(2) A Town Council may, subject to such conditions or restrictions as it thinks fit, delegate to any employee thereof or any agent all or any of the powers, functions and duties by this Act (except a restricted power), and any power, function or duty so delegated may be exercised or performed by such employee or agent in the name and on behalf of the Town Council.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(3) A Town Council may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of such power, function or duty under this section.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (4) Any delegation of power, function or duty under this section by a Town Council shall not be inconsistent with the Financial Rules.
+
+(5) In this section, a restricted power is the power of a Town Council under this Act to make by-laws, and the power of delegation conferred by this section.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ## PART VI
 
@@ -958,9 +1614,27 @@ FINANCIAL PROVISIONS
 
 (3) All moneys of the Town Council Fund that are not immediately required shall be paid into the appropriate fund established under subsection (1) to which the moneys relate and be applicable only to meet such expenses and liabilities as are properly attributable to that fund.
 
-(4) A Town Council shall establish and maintain, as part of the Town Council Fund, separate sinking funds for improvements to and the management and maintenance of residential property and of commercial property.
+(4) A Town Council shall establish and maintain, as part of the Town Council Fund, separate sinking funds, each for residential property and for commercial property in the housing estates of the Board within the Town, to meet the expenditure and liabilities mentioned in subsection (6)(a).
 
 [18/92; 6/99]
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(4A) From 1 April 2017, every Town Council must also establish and maintain, as part of the Town Council Fund, a sinking fund called a lift replacement fund, each for residential property and for commercial property in the housing estates of the Board within the Town —
+
+(a) to meet the cost of —
+
+(i) any capital expenditure (including works, plant, equipment, appliances and insurance premiums) related to the replacement of lifts in those residential property or commercial property; or
+
+(ii) lift upgrading works under Part IVA in those residential property or commercial property; and
+
+(b) to pay any principal or interest on moneys borrowed or raised by the Town Council for any capital expenditure mentioned in paragraph (a).
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(4B) From 1 April 2017, every Town Council must pay into the lift replacement fund an amount out of moneys in the Town Council’s sinking funds established under subsection (4), being not less than an amount prescribed.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (5) The Minister may, from time to time, prescribe the minimum amount of —
 
@@ -968,9 +1642,11 @@ FINANCIAL PROVISIONS
 
 (b) any grants-in-aid made to a Town Council under section 42,
 
-to be paid or credited into the sinking funds established for residential property and for commercial property.
+to be paid or credited into the sinking funds and the lift replacement funds established under subsections (4) and (4A), respectively, established for residential property and for commercial property.
 
 [6/99]
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (6) A Town Council shall not disburse any moneys —
 
@@ -978,57 +1654,99 @@ to be paid or credited into the sinking funds established for residential proper
 
 (i) cyclical major repainting of any part of the common property of the residential property and commercial property in the housing estates of the Board within the Town;
 
-(ii) renewal or replacement of any roofing system, water tanks, pumps and water supply system, electrical supply system, lightning protection system and lifts existing for common use or purposes of residents of the residential or commercial property in the housing estates of the Board within the Town;
+(ii) renewal or replacement of any roofing system, water tanks, pumps and water supply system, electrical supply system and lightning protection system existing for common use or purposes of residents of the residential or commercial property in the housing estates of the Board within the Town;
 
-(iii) lift upgrading works under Part IVA and major repairs and maintenance of the common property of the residential property and commercial property and boundary walls of the housing estates of the Board within the Town;
+[Act 17 of 2017 wef 01/05/2017]
+
+(iii) major repairs and maintenance of the common property of the residential property and commercial property and boundary walls of the housing estates of the Board within the Town;
 
 [23/2005 wef 15/08/2005]
 
-(iv) improvement contributions due to the Board in respect of general upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129) on any part of the common property in the housing estates of the Board within the Town; or
+[Act 17 of 2017 wef 01/05/2017]
+
+(iv) improvement contributions due to the Board in respect of general upgrading works carried out under Part IVA of the Housing and Development Act (Cap. 129) on any part of the common property in the housing estates of the Board within the Town;
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (v) any other works which may be prescribed from time to time; or
 
+(vi) paying at the end of a financial year surpluses to any lift replacement fund as authorised by subsection (9) or by the Financial Rules;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(aa) from a lift replacement fund except for the purposes specified in subsection (4A)(a) and (b); or
+
+[Act 17 of 2017 wef 01/05/2017]
+
 (b) from the Town Council Fund except for the purpose of —
 
-(i) exercising its powers or carrying out its duties and functions under this Act or any other Act; or
+(i) exercising its powers or carrying out its duties and functions under this Act or any other Act;
 
-(ii) paying any fine imposed on the Town Council upon its conviction for any offence.
+[Act 17 of 2017 wef 01/05/2017]
 
-[23/2005 wef 15/08/2005]
-
-(6A) Any Town Council which contravenes subsection (6)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(ii) paying any fine imposed on the Town Council upon its conviction for any offence; or
 
 [23/2005 wef 15/08/2005]
 
-(6B) Where a Town Council is guilty of an offence under subsection (6A) and that offence is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of its chairman or secretary, or any person who was purporting to act in any such capacity, he, as well as the Town Council, shall also be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+[Act 17 of 2017 wef 01/05/2017]
+
+(iii) paying at the end of a financial year surpluses to any sinking fund or lift replacement fund as authorised by subsection (9) or by the Financial Rules.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(6A) Any Town Council which contravenes subsection (6)(a), (aa) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 [23/2005 wef 15/08/2005]
 
-(7) Notwithstanding anything in this section, a Town Council may, with the approval or on the direction of the Minister, disburse moneys from the Town Council Fund to repair and maintain any facility erected, installed or planted within the Town that is outside the common property of the residential and commercial property in the housing estates of the Board within the Town where the owner of the property on which the facility is erected consents.
+[Act 17 of 2017 wef 01/05/2017]
 
-[6/99]
+(6B) [Deleted by Act 17 of 2017 wef 01/05/2017]
 
-[23/2005 wef 15/08/2005]
+(7) Despite anything in this section, a Town Council may, with the approval or on the direction of the Minister, disburse moneys from an operating fund of the Town Council —
+
+(a) to erect, install or plant (including landscaping) any facility;
+
+(b) to demolish and relocate any facility; or
+
+(c) to repair and maintain any facility erected, installed or planted,
+
+within the Town but outside of the common property of the residential and commercial property in the housing estates of the Board within the Town, provided that the owner of the property on which the facility is erected, installed or planted consents.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (8) All payments to and out of the Town Council Fund shall be made to and by the secretary who shall be responsible therefor to the Town Council.
 
-(9) Notwithstanding anything in this section, if at the end of any financial year of a Town Council there is shown a surplus of revenue over expenditure of any fund established by the Town Council under subsection (1), the Town Council may transfer from that fund an amount not exceeding the surplus to any other fund established by the Town Council under that subsection which is in deficit to make good the deficit in that fund.
+(9) If at the end of a financial year of a Town Council, there is a surplus in an operating fund of the Town Council, or a surplus in a sinking fund of the Town Council established under subsection (4), the Town Council may do the following, whichever is applicable:
+
+(a) transfer the whole or part of the surplus in the operating fund to a sinking fund established under subsection (4) or (4A);
+
+(b) transfer the whole or part of the surplus in a sinking fund established under subsection (4) to a lift replacement fund established under subsection (4A) to make good any deficit in the lift replacement fund.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (10) Notwithstanding anything in this section, upon the registration of the strata title plan in respect of any designated land, the Town Council responsible for the common property of the designated land shall as soon as practicable transfer to the management corporation for the designated land moneys standing to the credit of such of the funds (including sinking funds) of the Town Council Fund which relate to the designated land.
 
 [37/96]
 
-(11) Where an order is made under section 3(2) other than in consequence of any general election or by-election under the Parliamentary Elections Act (Cap. 218), and any residential or commercial property or any part of the common property thereof is transferred from the Town of one Town Council to the Town of another, the Town Councils may agree on the amount of the sinking fund relating to such property or such part to be transferred and paid to the Town Council to which the property or part is transferred; and in default of agreement the amount shall be determined by the Minister whose decision shall be final.
+(11) Where an order is made under section 3(1) other than in consequence of any general election or by-election under the Parliamentary Elections Act (Cap. 218), and any residential or commercial property or any part of the common property thereof is transferred from the Town of one Town Council to the Town of another, the Town Councils may agree on the amount of the sinking fund relating to such property or such part to be transferred and paid to the Town Council to which the property or part is transferred; and in default of agreement the amount shall be determined by the Minister whose decision shall be final.
 
 [37/96]
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (12) In this section —
 
 “commercial property” means any commercial property which does not form part of any residential property and includes any market and food centre;
 
-“designated land” means any land or housing estate vested in the Board which the Minister, by notification in theGazette, designates as land to which section 126A of the Land Titles (Strata) Act (Cap. 158) applies.
+“designated land” means any land or housing estate vested in the Board which the Minister, by notification in theGazette, designates as land to which section 126A of the Land Titles (Strata) Act (Cap. 158) applies;
 
 [37/96; 6/99]
+
+[Act 17 of 2017 wef 01/05/2017]
+
+“operating fund”, for a Town Council, means a fund that is established as part of the Town Council Fund of the Town Council but is not a sinking fund established by the Town Council under subsection (4) or (4A).
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Transfer of surpluses after Parliamentary election
 
@@ -1112,7 +1830,9 @@ the Town Council shall, as soon as practicable after the relevant date specified
 
 (c) any former constituency forming part of the constituency;
 
-“sinking fund”, in relation to a Town Council, means a sinking fund established by the Town Council under section 33(4);
+“sinking fund” means a sinking fund established under section 33(4) or a lift replacement fund established under section 33(4A);
+
+[Act 17 of 2017 wef 01/05/2017]
 
 “writ of election” means a writ of election issued under section 24 of the Parliamentary Elections Act (Cap. 218).
 
@@ -1120,17 +1840,29 @@ the Town Council shall, as soon as practicable after the relevant date specified
 
 [37/96]
 
-### Accounts
+### Accounts and records
 
-35\. A Town Council shall —
+35\.—(1) Every Town Council has a duty to ensure that there are kept in accordance with the Financial Rules —
 
-(a) keep proper accounts and records of its transactions and affairs;
+(a) proper accounts and records of the transactions and affairs of the Town Council; and
 
-(b) keep proper and separate accounts for the funds established under section 33(1) and (4); and
+(b) proper and separate accounts for each of the funds established under section 33(1), (4) and (4A).
 
-(c) do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in custody of, the Town Council and over the expenditure incurred by the Town Council.
+(2) A Town Council has a duty to do all things necessary to —
 
-[34
+(a) ensure that all money payable to the Town Council is properly collected;
+
+(b) ensure that appropriate arrangements are implemented for the security of all money received by the Town Council;
+
+(c) ensure that all money expended by the Town Council is correctly spent and properly authorised;
+
+(d) ensure that adequate control is maintained over assets owned by or in the custody or control of the Town Council;
+
+(e) ensure that all liabilities incurred by the Town Council are properly authorised; and
+
+(f) ensure that its accounts and records are kept up-to-date and ready for inspection at any time by its auditor, an inspector or any other person authorised by or under this Act or any other written law to inspect those accounts and records.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Annual accounts
 
@@ -1170,7 +1902,9 @@ the Town Council shall, as soon as practicable after the relevant date specified
 
 ### Audit
 
-38\.—(1) The accounts of a Town Council shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
+38\.—(1) The accounts of a Town Council shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Town Council with the approval of the Minister after the Minister has consulted the Auditor-General.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
 
@@ -1198,11 +1932,33 @@ the Town Council shall, as soon as practicable after the relevant date specified
 
 (10) Any person who fails, without any reasonable cause, to comply with any requirement of the auditor under subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-(11) As soon as the accounts of a Town Council and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister and displayed for public inspection in such places within the Town as the Town Council may direct.
+(11) The following must be given by a Town Council to the Minister within 6 months after the close of the financial year to which the accounts and financial statements relate, or such longer period as the Minister may in any particular case allow:
 
-(12) Where the Auditor-General is not the auditor of a Town Council, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Town Council.
+(a) a copy of the audited accounts and financial statements of the Town Council, signed by the chairman of and the secretary to the Town Council;
 
-(13) The Minister shall as soon as practicable cause a copy of the audited financial statements and the auditor’s report of a Town Council to be presented to Parliament.
+(b) a copy of the report made by the auditor.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(12) The Minister must, as soon as practicable, cause a copy of the audited accounts and financial statements and of the auditor’s report mentioned in subsection (11) to be presented to Parliament.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(13) Where the Auditor-General is not the auditor of a Town Council, a copy of the audited financial statements and any report made by the auditor must be forwarded to the Auditor-General at the same time they are submitted to the Minister under subsection (11).
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(13A) Within 30 days after a copy of the audited accounts and financial statements of a Town Council, and a copy of the auditor’s report, mentioned in subsection (11) are presented to Parliament, the Town Council must —
+
+(a) display them for public inspection in such places within the Town as the Town Council may direct; and
+
+(b) publish them at an online location accessible to residents of the housing estates within the Town.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(13B) A Town Council which, without reasonable excuse, is persistently in default in relation to the requirement imposed by subsection (11), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (14) A Town Council shall, as soon as practicable after the end of each financial year, submit to the Minister an annual report on the activities of the Town Council during that financial year and the Minister shall cause a copy of every such report to be presented to Parliament.
 
@@ -1276,7 +2032,9 @@ the Town Council shall, as soon as practicable after the relevant date specified
 
 40\. A Town Council may raise any loan, chargeable upon and payable out of the revenues and assets of the Town Council, of such sums of money as may be required for —
 
-(a) the purposes of meeting expenses or liabilities in respect of any works specified in section 33(6)(a);
+(a) the purposes of meeting expenses or liabilities in respect of any works specified in section 33(4A)(a) or (6)(a);
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (b) the repayment of any loan previously raised for any such purposes; and
 
@@ -1298,21 +2056,312 @@ the Town Council shall, as soon as practicable after the relevant date specified
 
 ### Financial Rules
 
-43\. The Minister may make rules to be called Financial Rules, not inconsistent with the provisions of this Act, for carrying out the provisions of this Act or any other Act by a Town Council and, in particular, such rules may provide for —
+43\.—(1) The Minister may make rules to be called Financial Rules, not inconsistent with the provisions of this Act, for carrying out the provisions of this Part by a Town Council and, in particular, such rules may provide for —
 
 (a) the collection, receipt, custody, issue, expenditure, due accounting for, care and management of all moneys of a Town Council and the guidance of all persons concerned therein;
 
 (b) the more effectual record, examination, inspection and check of all receipts and expenditure and the keeping of all necessary books and accounts;
 
-(c) the forms for all books and documents whatever required under the provisions of this Act or the rules made thereunder;
+(c) the forms for all accounts, books and other documents required under the provisions of this Act or the rules made thereunder;
+
+[Act 17 of 2017 wef 01/05/2017]
 
 (d) the purchase, safe custody, issue, sale or other disposal or writing-off of stores and other property of a Town Council, and the proper accounting for, and stocktaking of, such stores and property;
 
-(e) the preparation of estimates of revenue and expenditure; and
+(e) the preparation of estimates of revenue and expenditure;
 
-(f) the making of advances to officers of a Town Council and other persons and the rates and limits of such advances and the rates of interest thereon.
+[Act 17 of 2017 wef 01/05/2017]
 
-[42
+(f) the making of advances to officers of a Town Council and other persons and the rates and limits of such advances and the rates of interest thereon;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(g) a requirement that a Town Council must prepare and keep up-to-date a long-term financial plan that relates to a period to be prescribed and containing prescribed information about the Town Council’s proposals for the repair, maintenance, management and improvement of common property within its Town for each financial year of the period to which the plan relates;
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(h) requirements for a Town Council which is or is likely to become insolvent, or which is or is likely to become unable to pay its debts (within the meaning as prescribed) —
+
+(i) to report to the Minister of that fact; and
+
+(ii) to do or not to do any act or thing prescribed (which may include preparing a debt repayment plan and appointing one or more advisers to advise the Town Council on the proper management of its business);
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(i) the circumstances under which a surplus in —
+
+(i) an operating fund established for residential property in the housing estates of the Board within a Town may be transferred to an operating fund established for commercial property in those housing estates, and vice versa;
+
+(ii) a sinking fund established under section 33(4) for residential property in the housing estates of the Board within a Town may be transferred to a sinking fund established under that provision for commercial property in those housing estates, and vice versa; or
+
+(iii) a lift replacement fund established under section 33(4A) for residential property in the housing estates of the Board within a Town may be transferred to a lift replacement fund established under that provision for commercial property in those housing estates, and vice versa; and
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(j) the apportioning of moneys in the Town Council Fund for the purposes of section 34.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(2) In addition, the Financial Rules may —
+
+(a) provide that any contravention of any provision of the Financial Rules shall be an offence punishable with a fine not exceeding $5,000; and
+
+(b) provide for such saving, transitional and other consequential, incidental and supplemental provisions as the Minister considers necessary or expedient.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+## PART VIA
+
+INSPECTION AND OFFICIAL MANAGEMENT
+
+
+
+
+OF TOWN COUNCILS
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Compliance reviews
+
+43A\.—(1) The Minister may establish a program of compliance reviews for Town Councils, the purpose of which is to ensure that the Town Councils conduct their business in accordance with this Act, the Financial Rules and rules made under section 57.
+
+(2) A compliance review is to be carried out by an inspector, or 2 or more inspectors, assigned to the review by the Minister.
+
+(3) The inspector or inspectors assigned under subsection (2) to carry out a compliance review of a Town Council must report to the Minister and the Town Council on the results of the compliance review.
+
+(4) The results of a compliance review of a Town Council must be given to the Town Council, and may contain recommendations for administrative or regulatory change.
+
+(5) The members, secretary, employees, key officers and committee members of a Town Council, or a managing agent of a Town Council and its employees (as the case may be) must, at the request of an inspector assigned to carry out a compliance review of the Town Council —
+
+(a) do anything reasonably necessary to facilitate the exercise of powers of the inspector under this section;
+
+(b) answer questions relevant to the compliance review asked by the inspector;
+
+(c) produce specified records or documentary material relevant to the compliance review;
+
+(d) give other assistance the inspector reasonably requires; or
+
+(e) do any combination of paragraphs (a) to (d).
+
+(6) An inspector conducting a compliance review of a Town Council may by notice require any person mentioned in subsection (5) —
+
+(a) to furnish accounts and statements in writing with respect to any matter in question at the compliance review, being a matter on which that person has or can reasonably obtain information;
+
+(b) to return answers in writing to any questions or inquiries addressed to the person on any matter mentioned in paragraph (a);
+
+(c) to furnish copies of documents in the person’s custody or under the person’s control which relate to any matter in question at the compliance review;
+
+(d) to attend at a specified time and place and give evidence or produce any such documents; or
+
+(e) to verify by statutory declaration any such accounts, documents, statements or answers furnished, returned or given under paragraph (a), (b), (c) or (d), as the case may be.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Investigations
+
+43B\.—(1) The Minister may direct an investigation under this Part into the affairs of a Town Council if —
+
+(a) there are reasonable grounds to suspect a material irregularity in or affecting the conduct of the Town Council’s affairs; or
+
+(b) any document or information the production of which has been required of a person under section 43A has not been produced in compliance with that requirement, and the inspector concerned has reasonable grounds to believe that the person will not produce the document or information in compliance with that requirement.
+
+(2) An investigation under subsection (1) is to be carried out by an inspector, or 2 or more inspectors, assigned to the investigation by the Minister.
+
+(3) The inspector or inspectors assigned under subsection (2) to carry out an investigation of a Town Council must report to the Minister and the Town Council on the results of the investigation.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Powers of inspectors in investigations
+
+43C\.—(1) For the purposes of an investigation of a Town Council, an inspector assigned to carry out the investigation has right of access at any reasonable time in the day, and after giving 6 hours’ prior notice of the exercise of the right to access at any other time, to —
+
+(a) the premises of the Town Council concerned; and
+
+(b) the records or other documents of the Town Council, whether or not on the premises of the Town Council concerned.
+
+(2) The members, secretary, employee, officers and committee members of a Town Council, or a managing agent of a Town Council and its employees (as the case may be) must, at the request of an inspector —
+
+(a) do anything reasonably necessary to facilitate the exercise of powers of the inspector under this section;
+
+(b) answer questions relevant to the investigation asked by the inspector;
+
+(c) produce specified records or documents relevant to the investigation;
+
+(d) give other assistance the inspector reasonably requires; or
+
+(e) do any combination of paragraphs (a) to (d).
+
+(3) For the purposes of an investigation of a Town Council, an inspector assigned to carry out the investigation may, by notice, require —
+
+(a) a person to produce, within a reasonable time allowed in the notice, written answers to specified questions or other specified written information, which are within the knowledge of that person or in the person’s custody or under the person’s control;
+
+(b) a person within Singapore who appears to be acquainted with the circumstances of the investigation to attend before the inspector at a specified time and place for examination on a subject stated in the notice; or
+
+(c) a person to produce, within a reasonable time allowed in the notice, specified records or documents or records or documents of a specified kind, which are within the custody or under the control of that person.
+
+(4) The power to require a person to produce any record, document or information under subsection (2) or (3) includes the power —
+
+(a) to require that person, or any person who is or was an officer or employee of his, to provide an explanation of the record, document or information;
+
+(b) if the record, document or information is not furnished, to require that person to state, to the best of his knowledge and belief, where it is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the inspector in legible form.
+
+(5) A person required by notice under subsection (3) to provide written answers to questions or other written information must, if the notice requires, verify the answers or information by statutory declaration.
+
+(6) A person who, in response to a notice under subsection (3), attends for examination before an inspector —
+
+(a) must, if the inspector so requires, take an oath or make an affirmation (which may be administered by the inspector) to answer truthfully all questions put to the person by the inspector; and
+
+(b) must answer questions put to the person at the examination.
+
+(7) Any statement made by a person at an examination before an inspector must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) after correction, if necessary, be signed by that person.
+
+(8) If an inspector considers it necessary to do so for the purpose of obtaining evidence of the contravention of any provision of this Act, the inspector may seize any equipment, record, document, information or other thing.
+
+(9) An inspector may, at any time after the expiry of the period specified in the notice mentioned in subsection (3), enter any building or place where the inspector has reason to believe that any record, document or information, in respect of which the inspector has given the notice, may be found, and seize or take extracts or copies of any such record, document or information.
+
+(10) An inspector is entitled without payment to keep any record, document or information, or any copy or extract of it, furnished to the inspector under subsection (2) or (3) or obtained under subsection (8) or (9).
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Remedial action to rectify deficiencies
+
+43D\.—(1) This section applies where, from the report of a compliance review under section 43A or an investigation under section 43B or otherwise, the Minister is of the opinion —
+
+(a) that deficiencies have been identified in the conduct of a Town Council’s affairs and that action must be taken to address them; or
+
+(b) an irregularity has occurred, or is occurring, in the administration of a Town Council’s financial affairs.
+
+(2) The Minister may by order (called in this Part a rectification order) given in writing to the Town Council, require the Town Council —
+
+(a) to take specified remedial action to address the deficiencies within a specified period and to report to the Minister, at the end of the specified period (called the compliance date), on the action taken to give effect to the requirement; or
+
+(b) to take specified action to correct the irregularity or to guard against the recurrence of irregularities (or both) at the end of the specified period (called the compliance date).
+
+(3) The Minister may, on application by the Town Council concerned, postpone the compliance date from time to time.
+
+(4) If a Town Council fails to comply with a rectification order by the compliance date, the Town Council shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part of a day during which the offence continues after conviction.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Inspectors of Town Councils
+
+43E\.—(1) The Minister may appoint as inspectors of Town Councils —
+
+(a) one or more public officers;
+
+(b) one or more employees of the Board; or
+
+(c) one or more other individuals who have the suitable qualifications and experience to properly exercise the powers of inspectors of Town Councils.
+
+(2) The functions of an inspector of Town Councils are —
+
+(a) to carry out compliance reviews under this Part; and
+
+(b) to investigate suspected irregularities in or affecting the conduct of a Town Council’s affairs.
+
+(3) An inspector of Town Councils may be accompanied by one or more police officers, auxiliary police officers and public accountants to assist the inspector in the discharge of the inspector’s functions.
+
+(4) Every inspector acting under section 43A or 43C is deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+
+(5) No liability shall be incurred by an inspector as a result of anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Part; or
+
+(b) the performance or purported performance of any function or duty under this Part.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Offences
+
+43F\.—(1) Any person who, without reasonable excuse, fails to do anything required of the person by notice under section 43A(6) or 43C(3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part of a day during which the offence continues after conviction.
+
+(2) Any person who —
+
+(a) intentionally alters, suppresses or destroys any document or information which the person has been required by a notice under section 43A(6) or 43C(3) to furnish; or
+
+(b) in furnishing any document or information required under section 43A(6) or 43C(3), makes any statement which the person knows to be false in a material particular or recklessly makes such a statement,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) If any person fails to comply with a notice under section 43A(6) or 43C(3), the court may, on the application of an inspector, make such order as the court thinks fit to secure compliance with such notice, and any such order may provide that all the costs and expenses of and incidental to the application must be borne by such person or by any officer of a company or other association who is responsible for the failure.
+
+(4) A person is not excused from answering a question or producing evidential material in response to a notice or requirement made by an inspector under this Part on the ground that the answer, or the production of the material, might tend to incriminate the person.
+
+(5) Where a person claims, before answering a question or producing evidential material that the person is required by an inspector under this Part to give, that the answer or the production of evidential material might tend to incriminate the person —
+
+(a) that answer or evidential material;
+
+(b) the giving of the answer or production of evidential material; and
+
+(c) any information, document or thing obtained as a direct or indirect consequence of the giving of the answer or the production of evidential material,
+
+are not admissible in evidence against that person in any civil proceedings or any criminal proceedings other than proceedings for an offence in respect of the falsity of the answer or evidential material produced.
+
+(6) Subsection (5) applies despite any other written law.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Official management of Town Councils
+
+43G\.—(1) If the Minister is satisfied —
+
+(a) that a Town Council has failed to keep or maintain any part of the common property of any residential or commercial property in the housing estates of the Board within the Town of the Town Council in a state of good and serviceable repair and in a proper and clean condition; or
+
+(b) that any duty of a Town Council must be carried out urgently in order to remove any danger to the health or safety of residents of the housing estates of the Board within the Town of the Town Council, and that the Town Council refuses or is unable to carry out that duty,
+
+and the Minister is of the opinion that it is inappropriate for the Town Council to continue without official management, the Minister may, by notice in theGazette, place the Town Council under official management.
+
+(2) Before placing a Town Council under official management, the Minister must give at least 7 days’ notice in writing to the chairman of the Town Council concerned —
+
+(a) stating that the Minister intends to place the Town Council under official management; and
+
+(b) specifying the time (not more than 7 days after the date of service of the notice on the Town Council) within which written representations may be made to the Minister by or on behalf of the Town Council with respect to the proposed official management.
+
+(3) When the Minister places a Town Council under official management, all members of the Town Council are suspended from office unless the Minister indicates otherwise, and the Minister must appoint a suitable person to manage the affairs, business and property of the Town Council (called in this Part an official manager).
+
+(4) Any decision of the Minister under subsection (1) is final.
+
+(5) An official manager ceases to manage the affairs, business and property of the Town Council when the Minister is satisfied that the reasons for the official manager’s appointment have ceased to exist or the appointment is earlier revoked by the Minister.
+
+(6) Where by reason of subsection (5), an official manager ceases to manage the affairs, business and property of a Town Council, the Minister must without delay cause to be published a notice to that effect —
+
+(a) in theGazette; and
+
+(b) in such other manner as will secure adequate publicity for that ceasing.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Official manager
+
+43H\.—(1) An official manager appointed under section 43G for a Town Council has full power to transact any business of the Town Council and to do anything else the Town Council could have done but for the suspension of its members.
+
+(2) An official manager appointed under section 43G for a Town Council may act in the official manager’s own name, or in the name of the Town Council, and despite section 6, may execute a document under the common seal of the Town Council.
+
+(3) The Minister may at any time fix the terms and conditions of the appointment of an official manager, including (whether or not the appointment of the person has terminated) the remuneration to be paid to the official manager.
+
+(4) The remuneration of an official manager appointed under section 43G for a Town Council is payable from the Town Council Fund of the Town Council.
+
+(5) Any decision of the Minister under subsection (3) is final.
+
+(6) No liability shall be incurred by an official manager as a result of anything done (including any statement made) or omitted to be done with reasonable care and in good faith in the course of or in connection with —
+
+(a) the exercise or purported exercise of any power under this Part; or
+
+(b) the performance or purported performance of any function or duty under this Part.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ## PART VII
 
@@ -1468,47 +2517,73 @@ MISCELLANEOUS PROVISIONS
 
 [25/90]
 
+### Personal liability of members, etc., for certain offences
+
+48A\.—(1) Where a Town Council commits an offence under section 21A(4) or 43D(4), an individual —
+
+(a) who is the chairman of, or secretary to, a Town Council, or who was purporting to act in any such capacity; and
+
+(b) who —
+
+(i) consented or connived to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the Town Council; or
+
+(iii) knew or ought reasonably to have known that the offence by the Town Council (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of that same offence as is the Town Council, and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part of a day during which the offence continues after conviction.
+
+(2) Where a Town Council commits a relevant offence, an individual —
+
+(a) who is the chairman of, or secretary to, a Town Council, or who was purporting to act in any such capacity; and
+
+(b) who —
+
+(i) consented or connived to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the Town Council; or
+
+(iii) knew or ought reasonably to have known that the offence by the Town Council (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of that same offence as is the Town Council, and shall be liable on conviction to a fine not exceeding $5,000.
+
+(3) In subsection (2), “relevant offence” means an offence —
+
+(a) under section 19(6), 21B(6), 33(6A) or 38(13B);
+
+(b) under the Financial Rules made under section 43; or
+
+(c) under any rules made under section 57 about the governance of Town Councils.
+
+(4) To avoid doubt, subsections (1) and (2) do not affect the liability of a Town Council for an offence mentioned in that subsection, and apply whether or not the Town Council is convicted of the offence.
+
+(5) To avoid doubt, this section also does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+[Act 17 of 2017 wef 01/05/2017]
+
 ### Composition of offences
 
-49\. A Town Council may, in its discretion, compound any offence under this Act or any by-law made by it which is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+49\.—(1) A Town Council may, in its discretion, compound any offence under any by-law made by it for a purpose mentioned in section 24(1) and which is prescribed in those by-laws as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $2,000.
 
-[43E
+[Act 17 of 2017 wef 01/05/2017]
 
-[25/90; 37/96]
+(2) A public officer authorised by the Minister may compound any offence under this Act or rules made under this Act that is prescribed under section 57 as a compoundable offence, by collecting from a Town Council or other person reasonably suspected of having committed the offence a sum not exceeding the lower of the following amounts:
 
-### Minister may appoint any person to exercise or perform certain powers, etc.
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-50\.—(1) Where the Minister is satisfied —
+(b) $2,000.
 
-(a) that a Town Council has failed to keep or maintain any part of the common property of any residential or commercial property in the housing estates of the Board within the Town in a state of good and serviceable repair or in a proper and clean condition; or
+[Act 17 of 2017 wef 01/05/2017]
 
-(b) that any duty of a Town Council must be carried out urgently in order to remove any imminent danger to the health or safety of residents of the housing estates of the Board within the Town,
+(3) On payment by a person to a Town Council or public officer, as the case may be, of a sum of money under subsection (1) or (2), no further proceedings shall be taken against that person in respect of the offence.
 
-the Minister may —
+[Act 17 of 2017 wef 01/05/2017]
 
-(i) in relation to paragraph (a), by order published in theGazette, appoint any person to perform such powers, duties and functions of the Town Council and for such period as may be specified in the order; and
-
-(ii) in relation to paragraph (b), appoint any person to carry out any duty of the Town Council so as to remove the danger.
-
-(2) The Minister shall not make an order under subsection (1)(i) unless he has given not less than 7 days’ notice in writing to the chairman of his intention to appoint a person to exercise all or such of the powers, duties and functions of the Town Council as may be specified by the Minister in the notice.
-
-[23/2005 wef 15/08/2005]
-
-(3) The chairman may make representations to the Minister within 7 days after the date of the service of the notice.
-
-[23/2005 wef 15/08/2005]
-
-(4) Where the Minister has made an order under subsection (1)(i), no person other than the person appointed by the Minister may, while he holds office as such, exercise or perform any power, authority, duty or function which the person is authorised to exercise or perform by that order and any such power, function or duty may be exercised or performed by that person in the name and on behalf of the Town Council.
-
-(5) The costs and expenses incurred by any person appointed by the Minister under this section shall be paid out of the Town Council Fund by way of a levy under section 39.
-
-(6) Any person appointed under subsection (1) shall be entitled to the payment by the Town Council of such fee as the Minister may determine for performing any service under this section.
-
-(7) If there is for any reason no legally constituted Town Council for a Town, the Minister may by order published in theGazetteauthorise any person to act in place of the Town Council for that Town pending the appointment of members of the Town Council under section 8.
-
-(8) Any order made under subsection (7) may contain such incidental, consequential or supplementary provisions as may appear to the Minister to be necessary or proper.
-
-[44
+50\. [Repealed by Act 17 of 2017 wef 01/05/2017]
 
 ### Legal proceedings
 
@@ -1548,25 +2623,65 @@ the Minister may —
 
 [48
 
-### Dissolution of Town Council
+### Handover notices of common property
 
-55\.—(1) Where at any time any elected member of the Town Council for any Town declared under section 3(1)(b) has requested for his constituency to be declared to be part of another Town or to be a Town by itself or where there is for any reason no legally constituted Town Council for a Town, the Minister may, if he considers it necessary, by order published in theGazettedissolve the Town Council.
+54A\.—(1) This section applies only to and in relation to any part of a housing estate that is not comprised in any flat and that —
 
-(2) Notwithstanding section 53, where a Town Council is dissolved under subsection (1), the Board shall, upon the dissolution of that Town Council and pending the establishment of another Town Council for the Town, be responsible and liable, as the owner of the housing estates within the Town, for the maintenance and management of such housing estates and shall be entitled to enforce the performance of the terms, covenants and conditions in the leases relating to such housing estates as if this Act had not been enacted.
+(a) is in a housing estate in respect of which a temporary occupation permit is issued on or after the date of commencement of section 28 of the Town Councils (Amendment) Act 2017; or
 
-(3) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions relating to the dissolution of the Town Council as may be necessary or expedient, including provisions for or with respect to the following matters:
+(b) is excluded (whether before, on or after the date of commencement of section 28 of the Town Councils (Amendment) Act 2017) under the definition of “common property” in section 2(1) from being regarded as common property —
 
-(a) the sale or disposition of any property of the Town Council;
+(i) for a period;
 
-(b) the discharge of the liabilities of the Town Council;
+(ii) because of the use or description of the part of the housing estate;
 
-(c) the distribution of the assets of the Town Council;
+(iii) because of the status or description of the owner of the part of the housing estate; or
 
-(d) the appointment and powers of any person to carry out the winding up of the affairs of the Town Council; and
+(iv) subject to any other condition (whether a condition precedent or a condition subsequent).
 
-(e) any matter in respect of which it is, in the opinion of the Minister, just and equitable in the circumstances of the case to make provision in the order.
+(2) Subject to subsections (4) and (5), the Board may —
 
-[49
+(a) issue a handover notice in respect of any part of a housing estate of the Board that is not comprised in any flat and is within the area of a Town; and
+
+(b) give that handover notice to the Town Council whose Town area includes that housing estate.
+
+(3) The Town Council to whom a handover notice is given under this section in respect of any part of a housing estate of the Board assumes in relation to that part, with effect from the date specified in the handover notice, the functions of this Act relating to common property within its Town.
+
+(4) A handover notice may be issued only as follows:
+
+(a) for a part of a housing estate mentioned in subsection (1)(a), after a temporary occupation permit is issued in respect of that part of the housing estate;
+
+(b) for a part of a housing estate mentioned in subsection (1)(b), after whichever the following first happens:
+
+(i) when the specified period for the exclusion described in subsection (1)(b)(i) ends;
+
+(ii) when there is a change in the use or description of the part of the housing estate as to render the part no longer within any use or description in any exclusion described in subsection (1)(b)(ii);
+
+(iii) when there is a change to the status or description of the owner of the part of the housing estate as to render the owner not having any status or meeting any description in any exclusion described in subsection (1)(b)(iii);
+
+(iv) when the condition (whether a condition precedent or a condition subsequent) subject to which the exclusion described in subsection (1)(b)(iv) is granted is first breached.
+
+(5) Every handover notice issued under this section is irrevocable.
+
+(6) In this section, “temporary occupation permit”, for a building or part of a building in a housing estate, means —
+
+(a) a temporary occupation permit granted under the Building Control Act (Cap. 29) for the building or part of the building; or
+
+(b) a certificate of statutory completion granted under that Act for that building or part of that building where no temporary occupation permit is so granted.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Relationship between Board and Town Council
+
+55\.—(1) To avoid doubt, any function, power, requirement or duty conferred on a Town Council by this Act must be performed or exercised in a way that is consistent with the title and rights of the Board as owner of the common property within the Town for which the Town Council is established.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(2) Notwithstanding section 53, where a Town Council is dissolved by order under section 3, the Board shall, upon the dissolution of that Town Council and pending the establishment of another Town Council for the Town, be responsible and liable, as the owner of the housing estates within the Town, for the maintenance and management of such housing estates and shall be entitled to enforce the performance of the terms, covenants and conditions in the leases relating to such housing estates as if this Act had not been enacted.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(3) [Deleted by Act 17 of 2017 wef 01/05/2017]
 
 ### Public servants for purposes of Penal Code
 
@@ -1576,11 +2691,153 @@ the Minister may —
 
 [25/90]
 
+### Town Council’s address for service
+
+56A\.—(1) Every Town Council must —
+
+(a) ensure that notice of each of the following is given to the Minister:
+
+(i) an address for the service of notices or documents;
+
+(ii) a fax number for the service of notices or documents by fax;
+
+(iii) an email address for the service of notices or documents by email; and
+
+(b) cause to be constructed and maintained a receptacle suitable for the receipt of mail and other documents with the name of the Town Council clearly shown on the receptacle, at the address in paragraph (a)(i).
+
+(2) A Town Council may from time to time change any address or fax number, as given to the Minister under subsection (1)(a), for the service of notices or documents on the Town Council.
+
+(3) Where a Town Council has, under subsection (2), decided to change the address or fax number for the service of notices or documents on it, the Town Council must, within 7 days after deciding —
+
+(a) notify the Minister of the change and the effective date of the change; and
+
+(b) cause to be published (at the Town Council’s cost), before the change takes effect, a notice about the new address or fax number for service of notices or documents on the Town Council and the effective date of the change, in a manner as will secure adequate publicity for the change.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+### Service of documents and notices, etc.
+
+56B\.—(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section.
+
+(2) A document permitted or required by this Act to be served on an individual may be served —
+
+(a) by giving it to the individual personally;
+
+(b) by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address;
+
+(c) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there;
+
+(d) by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address;
+
+(e) by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual; or
+
+(f) by sending it by email to the last email address.
+
+(3) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served —
+
+(a) by giving it to any partner or other like officer of the partnership;
+
+(b) by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;
+
+(c) by sending it by fax to the fax number used at the partnership’s business address; or
+
+(d) by sending it by email to the partnership’s last email address.
+
+(4) Subject to subsection (5), a document permitted or required by this Act to be served on a body corporate (including a limited liability partnership but not a Town Council) or an unincorporated association may be served —
+
+(a) by giving it to the secretary or other like officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;
+
+(b) by leaving it at, or by sending it by prepaid registered post to, the registered office or principal office in Singapore of the body corporate or unincorporated association;
+
+(c) by sending it by fax to the fax number used at the registered office or principal office in Singapore of the body corporate or unincorporated association; or
+
+(d) by sending it by email to the last email address of the body corporate or unincorporated association.
+
+(5) A document permitted or required by this Act to be served on a Town Council may be served —
+
+(a) by leaving it with the chairman of, or secretary to, the Town Council or in the receptacle provided by the Town Council under section 56A(1)(b);
+
+(b) by leaving it at, or by sending it by prepaid registered post to, the Town Council at the last address notified to the Minister under section 56A(1) or (3);
+
+(c) by sending it by fax to the last fax number notified to the Minister under section 56A(1) or (3); or
+
+(d) by sending it by email to the last email address of the Town Council notified to the Minister under section 56A(1) or (3).
+
+(6) Service of a document under this section takes effect —
+
+(a) if the document is sent by fax and a notification of successful transmission is received, on the day of transmission;
+
+(b) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person to whom it is addressed; or
+
+(c) if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered).
+
+(7) This section does not apply to —
+
+(a) a document to be served in proceedings in court;
+
+(b) a written demand under section 39(6); or
+
+(c) a notice of sale under section 24F(6) or 44(4).
+
+(8) In this section —
+
+“business address” means —
+
+(a) in the case of an individual, the individual’s usual or last known place of business in Singapore; or
+
+(b) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;
+
+“last email address” means —
+
+(a) the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act; or
+
+(b) the last email address of the addressee concerned known to the person giving or serving the document;
+
+“residential address” means an individual’s usual or last known place of residence in Singapore.
+
+[Act 17 of 2017 wef 01/05/2017]
+
 ### Rules
 
-57\. The Minister may make such rules as he considers necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof and to prescribe matters necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+57\.—(1) The Minister may make such rules as he considers necessary or expedient for giving full effect to the provisions of this Act and for the due administration thereof and to prescribe matters necessary or convenient to be prescribed for carrying out or giving effect to this Act.
 
-[51
+[Act 17 of 2017 wef 01/05/2017]
+
+(2) In particular, the Minister may make rules under subsection (1) —
+
+(a) prescribing model by-laws for the purpose of the management, administration, control, use or enjoyment of the common property of the residential and commercial property in the housing estates of the Board within a Town, which may include all or any of the following matters:
+
+(i) restricting or prohibiting behaviour or activities on any common property;
+
+(ii) restricting or prohibiting parking of vehicles on any common property;
+
+(iii) other details of any common property of which the use is restricted;
+
+(iv) waste disposal;
+
+(v) safety or security measures;
+
+(vi) conferring power on a Town Council to store or dispose of, or authorise the disposal of, goods left on common property with housing estates within its Town and the passing of title to any goods on such disposal;
+
+(b) prescribing, for the purposes of section 19(1)(c), the different types of uses of any part of the common property within a Town, or for otherwise enjoying the benefit of any improvements by, or services and facilities provided by, a Town Council, including for different users or different types of common property, improvements, services or facilities within a Town, or in different parts of a Town;
+
+(c) about the governance of Town Councils, including requirements for the preparation and submission of documents or information in compliance with such governance requirements or best practices, and the periodic disclosure to the Minister of the level of such compliance by Town Councils;
+
+(d) prescribing a caretaker policy (and requirements for its adoption by a Town Council) governing the conduct of the Town Council and its officers and employees (including prohibiting the making of major policy decisions) during the caretaker period that —
+
+(i) starts on the issue of a writ of election for every constituency comprised in the Town for which the Town Council is established; and
+
+(ii) ends on the date that the elected members of a Town Council assume office for that Town Council after that election;
+
+(e) providing that any contravention of any provision of these rules shall be an offence punishable with a fine not exceeding $5,000; and
+
+(f) providing such saving, transitional and other consequential, incidental and supplemental provisions as the Minister considers necessary or expedient.
+
+[Act 17 of 2017 wef 01/05/2017]
+
+(3) All rules made under this section are to be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 17 of 2017 wef 01/05/2017]
 
 ### Savings
 
@@ -1591,72 +2848,6 @@ the Minister may —
 (3) Nothing in this Act shall affect any rights or remedies that the Board or an owner or tenant of a flat in any residential or commercial property may have in relation to the flat or the common property, or any function of the Board, apart from this Act.
 
 [52
-
-## THE SCHEDULE
-
-FORM A
-
-Section 9(11)
-
-Town Councils Act
-
-
-
-
-(chapter 329a)
-
-Declaration Of Acceptance Of Office
-
-To the Minister.
-
-I, ........................................................................................................................ of .............................................................................................................................
-
-*(a)
-
-having been appointed under section *9 (1)/9 (7) of the Town Councils A ct to the office of chairman;
-
-*(b)
-
-who by virtue of section 9 (4) of the Town Councils A ct is chairman,
-
-of the Town Council for the Town of .................................................................... hereby declare that I take the said office upon myself and will duly and faithfully fulfil the duties thereof according to the best of my judgment and ability.
-
-Dated this day of 20 .
-
-Signature ....................................................................
-
-This declaration was made and subscribed before me a *Justice of the Peace/Magistrate/Commissioner for Oaths.
-
-Signature ....................................................................
-
-*Delete whichever is inapplicable.
-
-FORM B
-
-Section 9(11)
-
-Town Councils Act
-
-
-
-
-(chapter 329a)
-
-Declaration Of Acceptance Of Office
-
-To the Minister.
-
-I, ........................................................................................................................ of .......................................................................................................................................... having been appointed under section 9 (5) of the Town Councils Act to the office of vice-chairman of the Town Council for the Town of .......................................... hereby declare that I take the said office upon myself and will duly and faithfully fulfil the duties thereof according to the best of my judgment and ability.
-
-Dated this day of 20 .
-
-Signature ....................................................................
-
-This declaration was made and subscribed before me a *Justice of the Peace/Magistrate/Commissioner for Oaths.
-
-Signature ....................................................................
-
-*Delete whichever is inapplicable.
 
 ## LEGISLATIVE HISTORY
 
@@ -1717,6 +2908,10 @@ This Legislative History is provided for the convenience of users of the Town Co
 |||(Bill No. 13/2005 published on 17 May 2005)|
 ||Date of Second and Third Readings|18 July 2005|
 ||Date of commencement|15 August 2005|
+|12.|**Act 17 of 2017—Town Councils (Amendment) Act 2017**|
+||Date of First Reading|6 February 2017 (Bill No. 9/2017 published on 6 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|1 May 2017|
 ## COMPARATIVE TABLE
 
 Town Councils Act
