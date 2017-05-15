@@ -36,13 +36,17 @@
 
 - [12 Unauthorised subdivision, development and other works](#Unauthorised-subdivision-development-and-other-works)
 
+- [12A Presumption of permitting unauthorised development or works](#Presumption-of-permitting-unauthorised-development-or-works)
+
+- [12B Application for preliminary advice](#Application-for-preliminary-advice)
+
 - [13 Application for permission](#Application-for-permission)
 
 - [14 Applications determined with reference to Master Plan, etc.](#Applications-determined-with-reference-to-Master-Plan-etc)
 
-- [14A Applications determined in reliance of certificate or declaration of qualified person](#Applications-determined-in-reliance-of-certificate-or-declaration-of-qualified-person)
+- [14A Applications determined in reliance of declaration of qualified person](#Applications-determined-in-reliance-of-declaration-of-qualified-person)
 
-- [15 Conditional permission](#Conditional-permission)
+- [15 Conditions for planning permission or conservation permission](#Conditions-for-planning-permission-or-conservation-permission)
 
 - [16 Subdivision permission: supplementary provisions](#Subdivision-permission:-supplementary-provisions)
 
@@ -52,21 +56,37 @@
 
 - [19 Rectification of errors and omissions](#Rectification-of-errors-and-omissions)
 
+- [19A Developer must appoint qualified person to supervise development or works](#Developer-must-appoint-qualified-person-to-supervise-development-or-works)
+
 - [20 Expiry of permissions](#Expiry-of-permissions)
+
+- [20A Power to require as-built plans](#Power-to-require-as-built-plans)
 
 - [21 Applications referred to Minister](#Applications-referred-to-Minister)
 
 - [22 Appeals to Minister](#Appeals-to-Minister)
 
+- [22A Designation of persons to hear appeals](#Designation-of-persons-to-hear-appeals)
+
 - [23 Registers and records](#Registers-and-records)
 
 - [24 Obligation to purchase land in certain cases](#Obligation-to-purchase-land-in-certain-cases)
+
+[**Part IIIA QUALIFIED PERSONS**](#Part-IIIA)
+
+- [24A Duties of qualified person appointed under section 13](#Duties-of-qualified-person-appointed-under-section-13)
+
+- [24B Duties of qualified persons appointed to supervise development or works](#Duties-of-qualified-persons-appointed-to-supervise-development-or-works)
+
+- [24C False declarations](#False-declarations)
 
 [**Part IV ENFORCEMENT**](#Part-IV)
 
 - [25 Power to require information about activities on land](#Power-to-require-information-about-activities-on-land)
 
 - [26 Penalties for non-compliance with information notice](#Penalties-for-non-compliance-with-information-notice)
+
+- [26A Power to examine and secure attendance, etc.](#Power-to-examine-and-secure-attendance-etc)
 
 - [27 Authority to enter upon land](#Authority-to-enter-upon-land)
 
@@ -168,6 +188,8 @@
 
 [**THIRD SCHEDULE**](#THIRD-SCHEDULE)
 
+[**FOURTH SCHEDULE Use of dwelling-house constituting development**](#FOURTH-SCHEDULE-Use-of-dwelling-house-constituting-development)
+
 [**Legislative History**](#Legislative-History)
 
 # Planning Act
@@ -198,13 +220,19 @@ PRELIMINARY
 
 “amendment”, in relation to the Master Plan, includes any alteration or addition to or any repeal or replacement of the Master Plan in whole or in part;
 
+“architect” means a person who is registered as an architect under the Architects Act (Cap. 12) and who has in force a practising certificate issued under that Act;
+
+[Act 7 of 2017 wef 15/05/2017]
+
 “breach of planning control” means —
 
 (a) the carrying out of any development of land without the requisite planning permission;
 
 (b) the carrying out of works in a conservation area without the requisite conservation permission; or
 
-(c) any failure to comply with any condition subject to which planning permission or conservation permission was granted;
+(c) any failure to comply with any condition imposed under section 14(4) for a written permission or any condition of an authorisation under section 21(6);
+
+[Act 7 of 2017 wef 15/05/2017]
 
 “building” includes any house, hut, shed or roofed enclosure (whether used for the purpose of human habitation or otherwise) and also any wall, fence, platform, staging, gate, post, pillar, paling, frame, hoarding, slip, dock, wharf, pier, jetty, landing-stage or bridge, or any structure or foundation connected to the foregoing;
 
@@ -226,9 +254,27 @@ PRELIMINARY
 
 “conservation permission” means permission referred to in section 12(2);
 
+“developer” means the person for whom or on whose behalf development of land or works within a conservation area are carried out;
+
+[Act 7 of 2017 wef 15/05/2017]
+
 “development charge” means the tax payable under section 35;
 
+“dormitory accommodation” includes accommodation occupied, or available for occupation, by 7 (or such other number as the Minister may, by notification in theGazette, prescribe in substitution) or more individuals, where rent or other form of consideration is paid or given for the accommodation, whether by an occupant or another person, and whether or not the relationship of landlord and tenant is thereby created, except where the occupants consist only of the following:
+
+(a) an individual who is related by blood, marriage or adoption (by virtue of an order of court in Singapore or elsewhere) to all other occupants except an occupant mentioned in paragraph (b) or (c);
+
+(b) a domestic worker whose work permit states the premises occupied as the domestic worker’s residential address;
+
+(c) an individual engaged to provide care or medical assistance to another occupant;
+
+[Act 7 of 2017 wef 15/05/2017]
+
 “enforcement notice” means a notice served under section 28;
+
+“engineer” means a person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and who has in force a practising certificate issued under that Act;
+
+[Act 7 of 2017 wef 15/05/2017]
 
 “functions” includes powers and duties;
 
@@ -237,6 +283,10 @@ PRELIMINARY
 “information notice” has the meaning assigned to it in section 25;
 
 “land” includes buildings and any estate or interest in or right over land;
+
+“land surveyor” means a person who is registered as a surveyor under the Land Surveyors Act (Cap. 156) and who has in force a practising certificate issued under that Act;
+
+[Act 7 of 2017 wef 15/05/2017]
 
 “Master Plan” has the meaning assigned to it in section 6;
 
@@ -310,6 +360,10 @@ PRELIMINARY
 
 (c) the use for other purposes of a building or part of a building originally constructed as a dwelling-house involves a material change in the use of the building;
 
+(ca) the use for a purpose specified in the Fourth Schedule of a building or part of a building originally constructed as a dwelling-house constitutes development, whether such use commenced before, on or after the date of commencement of section 3(a) of the Planning (Amendment) Act 2017;
+
+[Act 7 of 2017 wef 15/05/2017]
+
 (d) the demolition or reconstruction of or addition to a building constitutes development;
 
 (e) the use for the display of advertisements of any external part of a building which is not normally used for that purpose involves a material change in the use of the building;
@@ -322,13 +376,21 @@ PRELIMINARY
 
 (g) subject to subsection (2)(h), the use of any building or part thereof for any purpose other than that for which the building was originally constructed involves a material change in the use of the building;
 
-(h) any decorative, painting, renovation or building works, whether external or internal, to or on a monument in respect of which there is in force a preservation order under the Preservation of Monuments Act 2009 shall constitute building operations; and
+(h) any decorative, painting, renovation or building works, whether external or internal, to or on a monument in respect of which there is in force a preservation order under the Preservation of Monuments Act 2009 shall constitute building operations;
 
 [16/2009 wef 01/07/2009]
 
-(i) the use and operation as 2 or more separate entities of any building or buildings or part of a building which is or are approved or authorised to be used and operated as one single entity for any of the uses specified in the Second Schedule involves a material change in the use of the building or buildings or part of the building.
+[Act 7 of 2017 wef 15/05/2017]
+
+(i) the use and operation as 2 or more separate entities of any building or buildings or part of a building which is or are approved or authorised to be used and operated as one single entity for any of the uses specified in the Second Schedule involves a material change in the use of the building or buildings or part of the building; and
 
 [30/2003 wef 10/12/2003]
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(j) where a planning permission or conservation permission is cancelled under section 15(4), a planning permission or conservation permission granted for a specified period has lapsed, or a condition of an authorisation under section 21(6) is breached, the continued use of any building or land for any purpose constitutes development from the date of the cancellation, lapsing or breach, as the case may be.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 ### Meaning of “subdivide”
 
@@ -462,23 +524,117 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 ### Unauthorised subdivision, development and other works
 
-12\.—(1) No person shall without planning permission carry out any development of any land outside a conservation area.
+12\.—(1) A person must not, without planning permission, carry out or permit the carrying out of any development of any land outside a conservation area.
 
-(2) No person shall without conservation permission carry out any works within a conservation area.
+[Act 7 of 2017 wef 15/05/2017]
 
-(3) No person shall without subdivision permission subdivide any land.
+(2) A person must not, without conservation permission, carry out or permit the carrying out of any works within a conservation area.
 
-(4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction —
+[Act 7 of 2017 wef 15/05/2017]
 
-(a) to a fine not exceeding $200,000; and
+(3) A person must not, without subdivision permission, subdivide or permit the subdivision of any land.
 
-(b) in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+[Act 7 of 2017 wef 15/05/2017]
+
+(4) Subject to subsections (4A) and (4B), any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction; or
+
+(b) if the person is a repeat offender, to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(4A) Where a contravention of subsection (2) by a person includes the demolition of a building (or part of a building) in a conservation area, the person convicted of an offence under subsection (4) for the contravention shall, in lieu of the punishment prescribed in subsection (4), be liable —
+
+(a) to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(4B) Where a contravention of subsection (1) or (2) by a person involves the use of any land or building to provide dormitory accommodation, the person convicted of an offence under subsection (4) for the contravention shall, in lieu of the punishment prescribed in subsection (4), be liable —
+
+(a) to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(4C) In this section, a person is a repeat offender if the person who is convicted, or found guilty, of an offence (other than a continuing offence) under subsection (4) has (whether before, on or after the date of commencement of section 4(b) of the Planning (Amendment) Act 2017) been convicted or found guilty on at least one other earlier occasion of —
+
+(a) an offence under subsection (4) for contravening subsection (1), (2) or (3); or
+
+(b) an offence under subsection (4) as in force immediately before that date for contravening subsection (1), (2) or (3) as in force immediately before that same date.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (5) Where a person is convicted of an offence under subsection (4) in respect of any works on or any development or subdivision of land without having been served previously with an enforcement notice in respect of the works, development or subdivision, the competent authority may serve an order on the person directing him to remove from the land, within 14 days of the date of service of the order, all such property or materials used in connection with the offence as may be specified in the order.
+
+### Presumption of permitting unauthorised development or works
+
+12A\.—(1) If a tenant or contractor of the owner of any land —
+
+(a) carries out any development of the land in contravention of section 12(1); or
+
+(b) carries out any works within a conservation area on the land in contravention of section 12(2),
+
+the owner of the land is taken to have permitted the carrying out of the development, or permitted the carrying out of those works, as the case may be, in contravention of the same provision.
+
+(2) However, it is a defence in proceedings against an owner of any land for an offence under section 12(4) for such a contravention if it is proved by the defendant, on a balance of probabilities, that the defendant —
+
+(a) took all reasonable precautions to prevent the contravention by the tenant or contractor; or
+
+(b) could not, by the exercise of due diligence, have prevented the contravention by the tenant or contractor.
+
+(3) Without limiting the ways in which a defendant may satisfy the requirements of subsection (2)(b), a defendant satisfies those requirements if it is proved, on a balance of probabilities, that the commission of the offence occurred when the defendant was not the owner of the land in question and that the commission of the offence was due to the act or default of another person.
+
+(4) An owner of any land may be proceeded against and convicted under a provision pursuant to this section whether or not the tenant or contractor, as the case may be, of the owner has been proceeded against or been convicted under that provision.
+
+(5) In this section —
+
+“contractor”, in relation to an owner of any land, means any person whom the owner employs, engages or hires directly to carry out any type of building works on the land;
+
+“tenancy agreement” means an agreement, whether or not in writing and whether express or implied, under which a person lets, or licences for occupation, any land or building as a residence or place of business;
+
+“tenant”, in relation to an owner of any land, means a person to whom the land is let, or licensed for occupation, by the owner of the land, under a tenancy agreement between the owner and that person.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+### Application for preliminary advice
+
+12B\.—(1) A person intending to apply for written permission may, in such form and manner as the competent authority may require, apply to the competent authority for preliminary advice on any matter (as may be declared by the competent authority) relating to the development of land, works within a conservation area or subdivision of land, which is to be the subject of the person’s application for written permission.
+
+(2) Any preliminary advice given by the competent authority under this section —
+
+(a) does not constitute approval in principle for the proposed development, works or subdivision; and
+
+(b) does not authorise the carrying out of the development, works or subdivision or any other development, works or subdivision.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 ### Application for permission
 
 13\.—(1) An application for planning permission, conservation permission or subdivision permission shall be made to the competent authority in the prescribed form and manner.
+
+(1A) Unless otherwise prescribed, a person applying for —
+
+(a) planning permission for any development of any land must, before the person makes the application, appoint an architect or engineer to carry out the duties specified in section 24A; or
+
+(b) conservation permission for any works within a conservation area must, before the person makes the application, appoint an architect to carry out the duties specified in section 24A.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(1B) Where the qualified person appointed under subsection (1A) ceases to be appointed for any reason, the developer must —
+
+(a) without delay appoint another qualified person in accordance with subsection (1A); and
+
+(b) within 7 days after the appointment under paragraph (a), notify the competent authority of that appointment.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(1C) A developer who, without reasonable excuse, fails to comply with subsection (1B)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (2) The competent authority shall seek to determine such an application within 3 months of receiving it but may, where unavoidable circumstances so require, defer his determination for such further period as he thinks fit.
 
@@ -520,15 +676,17 @@ DEVELOPMENT AND SUBDIVISION OF LAND
 
 (7) Unless otherwise approved by the Minister in writing, the planning permission or conservation permission of the competent authority shall be a condition precedent to the consideration by a licensing authority of any application for the issue of a licence for any purpose involving the development of land.
 
-### Applications determined in reliance of certificate or declaration of qualified person
+### Applications determined in reliance of declaration of qualified person
 
-14A\.—(1) Where, in accordance with rules made under section 61, an application for written permission is required to be accompanied by any certificate or declaration by an appropriate qualified person that to the best of his knowledge and belief —
+14A\.—(1) Where an application for written permission is required under this Act to be accompanied by any declaration by an appropriate qualified person that to the best of his knowledge and belief —
 
 (a) the information contained in any specified document, form and plan submitted for the application is true and correct in all material particulars; and
 
 (b) every such document, form and plan submitted for the application has been completed or prepared in accordance with the provisions of this Act and all requirements as may be specified by the competent authority in respect of the application,
 
-the competent authority may, without checking the information, documents, forms or plans, determine the application on the basis of the certificate or declaration of the qualified person.
+the competent authority may, without checking the information, documents, forms or plans, determine the application on the basis of the declaration of the qualified person.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (2) Notwithstanding subsection (1), the competent authority may, in his discretion, carry out random checks on any information, document, form or plan relating to any application for written permission before or after determining the application.
 
@@ -540,37 +698,51 @@ the competent authority may, without checking the information, documents, forms 
 
 (4) Where the competent authority revokes a written permission under subsection (3), any development of land, works within a conservation area or subdivision of land (as the case may be) carried out pursuant to that written permission shall be deemed to have been carried out without the requisite written permission.
 
-(5) Any qualified person who —
+(5) [Deleted by Act 7 of 2017 wef 15/05/2017]
 
-(a) makes a certificate or declaration referred to in subsection (1) which is false or misleading in any material particular; or
+[Act 7 of 2017 wef 15/05/2017]
 
-(b) recklessly makes such certificate or declaration which is false or misleading in any material particular,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[30/2003 wef 10/12/2003]
-
-### Conditional permission
+### Conditions for planning permission or conservation permission
 
 15\.—(1) All or any of the following conditions may be imposed on the grant under section 14(4) of any planning permission or conservation permission in respect of any land:
 
 (a) that the permission is granted for a specified period;
 
+(aa) that where the permission is granted for a specified period, any building or works authorised by the permission must be removed, or the use of the land so authorised must be discontinued, at the end of the specified period, and that any works for the reinstatement of the land at the end of that period must be carried out;
+
+[Act 7 of 2017 wef 15/05/2017]
+
 (b) that any work shall be commenced by a specified time;
 
-(c) restrictions as to the height, design, appearance and siting of buildings;
+(c) restrictions or requirements specified by the competent authority as to the height, design, appearance and siting of any building, including the use of lighting in the design and appearance of the building;
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (d) that subdivision of the land is prohibited;
 
-(e) that deposits shall be placed with such statutory authority as the competent authority may specify to secure compliance with the requirements of that statutory authority;
+(e) that a banker’s guarantee must be issued to, or deposits must be placed with, the competent authority or such statutory authority as the competent authority may specify to secure compliance with the requirements of the competent authority or that statutory authority;
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (f) that the title of any part of the land shall be transferred free from encumbrances to the State or any public authority;
 
-(g) [Deleted by Act 30/2003 wef 10/12/2003]
+(g) that such areas within the land as the competent authority considers necessary are to be provided, maintained and kept open and accessible for use by the public as paths or open spaces, without any compensation;
 
-(h) that such connecting structures (whether or not within the land) as the competent authority considers necessary are to be provided, maintained, kept open and accessible for use by the public or any occupier or other user of the land and any other land adjoining or in the locality; and
+[Act 7 of 2017 wef 15/05/2017]
+
+(h) that such connecting structures (whether or not within the land) as the competent authority considers necessary are to be provided, maintained and kept open and accessible for use by the public or any occupier or other user of the land and any other land adjoining or in the locality, without any compensation;
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(ha) that a knock-out panel must be provided at any part of the land, and must be removed when the competent authority requires the owner or occupier of the land to do so, so as to allow the land to be connected to any adjoining land or building;
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (i) that the permission shall supersede any previous permission given by the competent authority to the applicant notwithstanding anything in section 20.
+
+(1A) To avoid doubt, the common law on dedication of land does not apply in relation to any area or connecting structure mentioned in subsection (1)(g) or (h) to create any interest in land.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (2) The following conditions may also be imposed on the grant of any conservation permission under section 14(4):
 
@@ -580,33 +752,81 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [30/2003 wef 10/12/2003]
 
-(c) where the approval of the Commissioner of Building Control under the Building Control Act (Cap. 29) is required to be obtained for the plans of the building works with regard to any works within a conservation area, requirements for the submission to the competent authority, within 7 days of the application for approval made to the Commissioner of Building Control, of a declaration by a qualified person that the plans submitted to the Commissioner of Building Control for the application with regard to such works are in accordance with the plans approved by the competent authority in the grant of the conservation permission.
+(c) where the approval of the Commissioner of Building Control under the Building Control Act (Cap. 29) is required to be obtained for the plans of the building works with regard to any works within a conservation area, requirements for the submission to the competent authority, within 7 days of the application for approval made to the Commissioner of Building Control, of a declaration by the qualified person who submitted the plans of the building works to the Commissioner of Building Control for the application that those plans are in accordance with the plans approved by the competent authority in the grant of the conservation permission.
 
 [30/2003 wef 10/12/2003]
 
-(3) Any person who fails to comply with any condition imposed on any planning permission or conservation permission shall be guilty of an offence and shall be liable on conviction —
+[Act 7 of 2017 wef 15/05/2017]
 
-(a) to a fine not exceeding $200,000; and
+(3) Where a condition is imposed under section 14(4) on the grant of planning permission or conservation permission in respect of any land —
 
-(b) in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+(a) every person carrying out any development of the land;
 
-(3A) Any qualified person who —
+(b) every person carrying out any works within a conservation area on the land; and
 
-(a) makes a declaration referred to in subsection (2)(c) which is false or misleading in any material particular; or
+(c) every owner or occupier of the land,
 
-(b) recklessly makes such declaration which is false or misleading in any material particular,
+must each comply with the condition, whether or not the person, owner or occupier applied for the permission or owned or occupied the land at the time the permission was granted.
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 7 of 2017 wef 15/05/2017]
 
-[30/2003 wef 10/12/2003]
+(3A) A person shall be guilty of an offence if the person —
 
-(3B) In subsection (2)(c), “qualified person” means a person who is registered as an architect under the Architects Act (Cap. 12) and who has in force a practising certificate issued under that Act.
+(a) is required by subsection (3) to comply with a condition imposed on a planning permission or conservation permission;
 
-[30/2003 wef 10/12/2003]
+(b) carries out or permits the carrying out of any development of land, any works within a conservation area or any other activity in contravention of that condition; and
+
+(c) knew or ought reasonably to have known, when carrying out, or permitting the carrying out, of the development, works or activity, that the development, works or activity is in contravention of the condition.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(3B) Subject to subsections (3C) and (3D), any person found guilty of an offence under subsection (3A) shall be liable on conviction —
+
+(a) to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction; or
+
+(b) if the person is a repeat offender, to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(3C) Where a contravention of subsection (3) by a person includes the demolition of a building (or part of a building) in a conservation area, the person convicted of an offence under subsection (3A) for the contravention shall, in lieu of the punishment prescribed in subsection (3B), be liable —
+
+(a) to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(3D) Where a contravention of subsection (3) by a person involves the use of any land or building to provide dormitory accommodation, the person convicted of an offence under subsection (3A) for the contravention shall, in lieu of the punishment prescribed in subsection (3B), be liable —
+
+(a) to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (4) Where any person fails to comply with any condition imposed on any planning permission or conservation permission, the competent authority may cancel the relevant permission.
 
-(5) In this section, “connecting structure” means any underpass, subway, bridge or other structure, whether under, above or on the ground and whether for pedestrians or vehicles, linking or connecting a building with another or a building with any public facility or street, and includes escalators, travelators and other facilities.
+(5) In this section —
+
+“connecting structure” means any underpass, subway, bridge or other structure, whether under or above ground or at grade and whether for pedestrians or vehicles, linking or connecting —
+
+(a) a building with another building;
+
+(b) a building with any public facility, space or street; or
+
+(c) a public facility, space or street with another public facility, space or street,
+
+and includes escalators, travellators and other facilities but does not include a railway tunnel or any part of it;
+
+“repeat offender” means a person who is convicted, or found guilty, of an offence (other than a continuing offence) under subsection (3A) and has (whether before, on or after the date of commencement of section 8(i) of the Planning (Amendment) Act 2017) been convicted or found guilty on at least one other earlier occasion of —
+
+(a) an offence under subsection (3A); or
+
+(b) an offence under subsection (3) as in force immediately before that date.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+[Act 7 of 2017 wef 15/05/2017]
 
 ### Subdivision permission: supplementary provisions
 
@@ -650,6 +870,30 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) amending or adding to the written permission to correct any matter erroneously entered or omitted.
 
+### Developer must appoint qualified person to supervise development or works
+
+19A\.—(1) Unless otherwise prescribed, a developer carrying out —
+
+(a) any development of any land must, before the development starts, appoint an architect or engineer to carry out the duties under section 24B; or
+
+(b) any works within a conservation area must, before the works start, appoint an architect to carry out the duties under section 24B.
+
+(2) Where any qualified person appointed under subsection (1) becomes unwilling to act or unable, whether by reason of the termination of the qualified person’s appointment or for any other reason, to carry out the qualified person’s duties under this Act, the developer must —
+
+(a) without delay appoint another qualified person in accordance with subsection (1); and
+
+(b) within 7 days after the appointment under paragraph (a), notify the competent authority of that appointment.
+
+(3) Any developer who, without reasonable excuse, fails to comply with any requirement in subsection (1)(a) or (b) or (2) shall be guilty of an offence and shall be liable on —
+
+(a) to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in respect of a continuing contravention, to an additional fine not exceeding $1,000 for each day or part of a day the developer fails to comply with the requirement,
+
+and if the failure continues after the conviction, the developer shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part of a day during which the failure to comply continues after conviction.
+
+[Act 7 of 2017 wef 15/05/2017]
+
 ### Expiry of permissions
 
 20\.—(1) Except where the competent authority imposes a condition to the contrary, every planning permission and every conservation permission shall lapse if the development or works authorised by it are not completed or effected within 2 years of —
@@ -661,6 +905,24 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (c) if an appeal is made under section 22, the date the appeal is determined or withdrawn.
 
 (2) The competent authority may, in his discretion, extend any planning permission or conservation permission on such terms and for such further period as he thinks fit.
+
+### Power to require as-built plans
+
+20A\.—(1) Subject to subsection (2), the competent authority may, in respect of any development of any land or any works within a conservation area authorised in a planning permission or conservation permission, require a developer to submit, in such form as the competent authority may require —
+
+(a) as-built plans of the development or works prepared by a land surveyor in accordance with the requirements specified by the competent authority;
+
+(b) a declaration by the land surveyor who prepared the as-built plans that the as-built plans have been prepared by the land surveyor in accordance with the requirements mentioned in paragraph (a); and
+
+(c) such other documents as the Minister may prescribe.
+
+(2) Subsection (1) applies at any time after the commencement of the development or works but before —
+
+(a) the Commissioner of Building Control grants a temporary occupation permit or a certificate of statutory completion under the Building Control Act (Cap. 29), whichever is earlier, for every building authorised in the relevant permission; or
+
+(b) where a temporary occupation permit or a certificate of statutory completion is not required under the Building Control Act, the development or works is complete.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 ### Applications referred to Minister
 
@@ -674,7 +936,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) Where the competent authority intends to develop or to carry out works within a conservation area on any land belonging to him, he may be directed by the Minister to furnish to the Minister particulars relating to the development or works and the Minister may give such further directions as he considers fit in relation thereto.
 
-(6) The Minister may authorise, by notification in theGazette, either generally or in relation to any specified area —
+(6) Despite section 12, the Minister may authorise, by notification in theGazette, either generally or in relation to any specified area —
 
 (a) any development of land;
 
@@ -685,6 +947,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 subject to such conditions as may be specified in the notification.
 
 [30/2003 wef 10/12/2003]
+
+[Act 7 of 2017 wef 15/05/2017]
 
 ### Appeals to Minister
 
@@ -698,17 +962,39 @@ subject to such conditions as may be specified in the notification.
 
 the applicant who is aggrieved by that decision may appeal to the Minister against that decision.
 
+(1A) Where the competent authority cancels a planning permission or conservation permission under section 15(4), any person aggrieved by that decision may appeal to the Minister against that decision.
+
+[Act 7 of 2017 wef 15/05/2017]
+
 (2) An appeal shall be made in the form and manner prescribed and within 60 days of the date of the notification of the decision.
+
+(2A) An appeal does not affect the enforceability of any condition imposed or prevent the taking of any action in respect of any unauthorised development of any land or any unauthorised works within a conservation area unless otherwise directed by the Minister in any particular case.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (3) Where an appeal is brought under this section against a decision of the competent authority, the Minister may dismiss or allow the appeal unconditionally or subject to such conditions as he considers fit.
 
 (4) The decision of the Minister on an appeal shall be communicated to the competent authority and the applicant.
 
-(5) Where the competent authority grants written permission in accordance with the decision of the Minister on appeal, the competent authority may, in addition to the conditions allowed by the Minister, impose such additional conditions as the competent authority thinks fit which shall not be inconsistent with the decision of the Minister on appeal.
+(5) Where the competent authority grants written permission in accordance with the decision of the Minister on appeal, the competent authority may, whether the Minister dismisses or allows the appeal unconditionally or subject to conditions, impose such additional conditions as the competent authority thinks fit which shall not be inconsistent with the decision of the Minister on appeal.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (6) Any decision by the competent authority to impose additional conditions under subsection (5) may be appealed against under subsection (1) as if the conditions were imposed under section 14(4).
 
 (7) The decision of the Minister shall be final and shall not be challenged or questioned in any court.
+
+### Designation of persons to hear appeals
+
+22A\. The Minister may designate to hear and determine, in his place, any appeals or a specific appeal under section 22, 29 or 39(7) —
+
+(a) any Minister of State or Senior Minister of State, or Parliamentary Secretary or Senior Parliamentary Secretary, for his Ministry; or
+
+(b) any public officer in his Ministry not subordinate to the competent authority whose decision is appealed against,
+
+and any reference in that section to the Minister includes a reference to the Minister of State or Senior Minister of State, Parliamentary Secretary or Senior Parliamentary Secretary or public officer so designated for that appeal.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 ### Registers and records
 
@@ -762,6 +1048,130 @@ the applicant who is aggrieved by that decision may appeal to the Minister again
 
 shall not constitute an allocation for development for a public purpose.
 
+## PART IIIA
+
+QUALIFIED PERSONS
+
+[Act 7 of 2017 wef 15/05/2017]
+
+### Duties of qualified person appointed under section 13
+
+24A\.—(1) Every qualified person who is appointed under section 13 in respect of an application for planning permission or conservation permission must —
+
+(a) prepare the plans of the development or works within a conservation area required, by rules made under section 61, to be submitted with the application for planning permission or conservation permission and take all reasonable steps and exercise due diligence to ensure that the plans are prepared in accordance with —
+
+(i) the provisions of this Act;
+
+(ii) where applicable, any conditions and requirements imposed by the competent authority in any outline permission or provisional permission for the development or works, or existing written permission, granted in respect of the land; and
+
+(iii) all relevant guidelines of the competent authority;
+
+(b) notify the competent authority of any contravention of this Act or non-compliance with any condition or requirement mentioned in paragraph (a)(ii) or (iii) that the qualified person knows or ought reasonably to know about;
+
+(c) submit to the competent authority a declaration that the qualified person has prepared the plans and that the plans are prepared in accordance with paragraph (a); and
+
+(d) supply a copy of every plan of the development or works approved by the competent authority to the qualified person appointed under section 19A to supervise the development or works.
+
+(2) If any qualified person who is appointed under section 13 becomes unwilling or unable, whether by reason of the termination of the qualified person’s appointment or for any other reason, to carry out the qualified person’s duties under this Act, the qualified person must, within 14 days after ceasing to carry out his duties, notify the competent authority of that fact.
+
+(3) A qualified person —
+
+(a) who fails to comply with the requirement mentioned in subsection (1)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 2 years or to both; and
+
+(b) who fails to comply with the requirement mentioned in subsection (1)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both,
+
+and to an additional fine not exceeding $1,000 for each day or part of a day the qualified person fails to comply with the requirement and, if the failure to comply continues after conviction, the qualified person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part of a day during which the failure to comply continues after conviction.
+
+(4) In any prosecution for an offence under subsection (3) for failing to comply with the requirement to notify a contravention or non-compliance mentioned in subsection (1)(b), it is a defence for the qualified person charged to prove to the satisfaction of the court that the qualified person did not know and could not reasonably have discovered the contravention or non-compliance.
+
+(5) A qualified person who fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+### Duties of qualified persons appointed to supervise development or works
+
+24B\.—(1) Every qualified person who is appointed under section 19A to supervise the carrying out of any development or works must —
+
+(a) take all reasonable steps and exercise due diligence in supervising and inspecting the development or works, as the case may be, to ensure that the development or works are carried out in accordance with —
+
+(i) the provisions of this Act;
+
+(ii) the conditions and requirements imposed by the competent authority in the planning permission or conservation permission, as the case may be; and
+
+(iii) the relevant plans approved by the competent authority in the grant of planning permission for the development or conservation permission for the works, as the case may be;
+
+(b) notify the competent authority of any contravention of or non-compliance with any provision, condition, requirement or plans mentioned in paragraph (a)(i), (ii) or (iii);
+
+(c) take all reasonable steps to immediately stop or cease the contravention or non-compliance mentioned in paragraph (b); and
+
+(d) submit to the competent authority such reports and declarations as may be required by the competent authority (other than a declaration required under this section).
+
+(2) A qualified person —
+
+(a) who fails to comply with the requirement mentioned in subsection (1)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both; or
+
+(b) who fails to comply with the requirement mentioned in subsection (1)(b), (c) or (d) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) In any prosecution for an offence under subsection (2)(b) for failing to notify or stop the contravention or non-compliance mentioned in subsection (1)(b) or (c), it is a defence for the qualified person charged to prove to the satisfaction of the court that the qualified person did not know and could not reasonably have discovered the contravention or non-compliance.
+
+(4) A qualified person appointed under section 19A must, within such period as the competent authority may specify in the planning permission or conservation permission or within such extended time as the competent authority may give in writing, submit the qualified person’s declaration to the competent authority that, to the best of the qualified person’s knowledge and belief, the development or works are carried out in accordance with —
+
+(a) the provisions of this Act;
+
+(b) the conditions and requirements imposed by the competent authority in the planning permission or conservation permission, as the case may be; and
+
+(c) the relevant plans approved by the competent authority in the grant of planning permission for the development or conservation permission for the works, as the case may be.
+
+(5) Where any qualified person appointed under section 19A becomes unwilling to act or unable, whether by reason of the termination of the qualified person’s appointment or for any other reason, to carry out the qualified person’s duties under this Act, the qualified person must, within 14 days after ceasing to carry out the qualified person’s duties —
+
+(a) notify the competent authority of that fact; and
+
+(b) submit the qualified person’s declaration to the competent authority that, to the best of the qualified person’s knowledge and belief, the development or works carried out during the period of the qualified person’s appointment are in accordance with —
+
+(i) the provisions of this Act;
+
+(ii) the conditions and requirements imposed by the competent authority in the planning permission or conservation permission, as the case may be; and
+
+(iii) the relevant plans approved by the competent authority in the grant of planning permission for the development or conservation permission for the works, as the case may be.
+
+(6) A qualified person —
+
+(a) who fails to comply with the requirement mentioned in subsection (4) or (5)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both; or
+
+(b) who fails to comply with the requirement mentioned in subsection (5)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(7) In relation to a continuing failure to comply with the requirement mentioned in subsection (1), (4) or (5) —
+
+(a) the qualified person convicted of an offence under subsection (2) or (6), as the case may be, for that failure shall be liable to an additional fine not exceeding $1,000 for each day or part of a day the qualified person fails to comply with the requirement mentioned in subsection (1), (4) or (5), as the case may be; and
+
+(b) if the failure to comply continues after the conviction, the qualified person shall be guilty of a further offence and shall be liable on conviction of this further offence to a further fine not exceeding $2,000 for every day or part of a day during which the failure to comply continues after conviction.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+### False declarations
+
+24C\.—(1) A qualified person who makes any declaration required under this Act that is false or misleading in any material particular knowing that, or with reckless disregard as to whether, the declaration is false or misleading in any material particular shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 6 months or to both; or
+
+(b) if the qualified person is a repeat offender, to a fine not exceeding $60,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(2) A qualified person who negligently makes any declaration required under this Act that is false or misleading in any material particular shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 3 months or to both; or
+
+(b) if the qualified person is a repeat offender, to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(3) In this section, a qualified person is a repeat offender if the qualified person who is convicted, or found guilty, of an offence under subsection (1) or (2) has (whether before, on or after the date of commencement of section 7(c) or 8(i) of the Planning (Amendment) Act 2017) been convicted or found guilty on at least one other earlier occasion of —
+
+(a) an offence under subsection (1) or (2);
+
+(b) an offence under section 14A(5) as in force immediately before the date of commencement of section 7(c) of the Planning (Amendment) Act 2017; or
+
+(c) an offence under section 15(3A) as in force immediately before the date of commencement of section 8(i) of the Planning (Amendment) Act 2017.
+
+[Act 7 of 2017 wef 15/05/2017]
+
 ## PART IV
 
 ENFORCEMENT
@@ -814,6 +1224,42 @@ he shall be guilty of an offence.
 
 (4) Any person who is guilty of an offence under this section shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+### Power to examine and secure attendance, etc.
+
+26A\.—(1) Where it appears to the competent authority that there may have been a breach of planning control in respect of any land, the competent authority may do all or any of the following:
+
+(a) examine orally any person who appears to be acquainted with matters related to the offence;
+
+(b) require by notice in writing the attendance before the competent authority of any person within Singapore who, from information given or otherwise, appears to be acquainted with matters related to the offence;
+
+(c) require any person to furnish any information or produce any book or document, or any copy thereof, in the possession of that person and, without payment, inspect, keep, copy or take extracts from that book, document or copy.
+
+(2) A person is not excused from making an oral statement under subsection (1)(a) on the ground that the statement might tend to incriminate the person but, where the person claims before making the statement that the statement might tend to incriminate the person, that statement is not admissible in evidence against that person in criminal proceedings other than proceedings for an offence under subsection (4)(c) or (d).
+
+(3) A statement made by any person examined under this section must —
+
+(a) be in writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted to the person in a language that the person understands; and
+
+(d) after correction, if necessary, be signed by the person.
+
+(4) Any person who —
+
+(a) neglects or refuses to furnish any information or produce any book or document, or any copy thereof, required under this section;
+
+(b) neglects or refuses to attend before the competent authority as required under this section;
+
+(c) furnishes any information or produces any book or document, or any copy thereof, required under this section that is false in a material particular and that the person knows to be false or does not believe to be true; or
+
+(d) by the intentional suppression of any material fact, furnishes information required under this section that is misleading,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 7 of 2017 wef 15/05/2017]
+
 ### Authority to enter upon land
 
 27\.—(1) The competent authority may, with such assistants and workmen as are necessary, at any reasonable time, enter any land for the purpose of —
@@ -826,7 +1272,23 @@ he shall be guilty of an offence.
 
 [17/2005 wef 15/07/2005]
 
-(2) The competent authority may take photographs of the land and any property or material found thereon and such other steps as he may consider necessary without involving any search or seizure of any premises, thing or person.
+(1A) If entry to any land for the purposes of subsection (1)(a) cannot be obtained, the competent authority may —
+
+(a) where the competent authority has reasonable cause to believe that evidence of a contravention of this Act can be found on the land;
+
+(b) after declaring his office and producing his identification card where a demand is made for him to do so;
+
+(c) with such force as is necessary to obtain entry; and
+
+(d) with such assistants and workmen as are necessary,
+
+break open any outer or inner door or window on the land, forcibly enter the land and every part of the land, or remove by force any obstruction to such entry.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(2) The competent authority may take photographs, or audio or video recordings of the land and any property or material found thereon and such other steps as he may consider necessary without involving any search or seizure of any premises, thing or person.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (3) The occupier of any premises shall, if required by the competent authority —
 
@@ -1040,9 +1502,17 @@ DEVELOPMENT CHARGES
 
 (3) Notwithstanding subsection (1), any development of land, being a development in respect of which no development charge is payable by reason of any exemption or remission under this Act or the repealed Act, shall be disregarded for the purpose of determining the Development Baseline for the land if —
 
-(a) any term of the exemption or remission provides that the development shall be disregarded for that purpose; or
+(a) any term of the exemption or remission provides that the development shall be disregarded for that purpose;
 
-(b) any term of the exemption or remission has ceased to be or is not complied with.
+[Act 7 of 2017 wef 15/05/2017]
+
+(b) any term of the exemption or remission has ceased to be or is not complied with; or
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(c) the development relates to one single dwelling-house on the land and the proposed development is to develop the land for a use other than as land with only one single dwelling-house on it.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (4) Notwithstanding subsection (1), any development of land for use as a hotel or part of a hotel authorised by the grant of written permission by the competent authority under the repealed Act between 18th April 1968 and 31st December 1969 (both dates inclusive) on any prescribed land shall be disregarded for the purpose of determining the Development Baseline for the land if —
 
@@ -1088,7 +1558,13 @@ DEVELOPMENT CHARGES
 
 (b) the person who applied for the relevant planning permission or conservation permission.
 
-(2) That liability of the person on whom the development charge is levied shall continue notwithstanding any change in ownership of the land.
+(2) Subject to subsection (2A), the liability of the person on whom the development charge is levied continues despite any change in ownership of the land.
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(2A) Where a person’s liability to pay development charge is deferred under the rules made under section 40(1)(d), the person may obtain the Minister’s written approval for the person’s liability to end upon a change in ownership of the land.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (3) Notwithstanding section 13(2), the competent authority shall not grant any planning permission or conservation permission until the estimated amount of development charge payable under an interim order under section 38(2) is either paid or secured to the satisfaction of the competent authority.
 
@@ -1362,9 +1838,17 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 ### Composition of offences
 
-57\.—(1) The competent authority may, in his discretion, compound any offence under this Act or any rules made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+57\.—(1) The competent authority may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(2) The Minister may make rules to prescribe the offences which may be compounded.
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
+
+(b) $5,000.
+
+(2) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
+
+(3) All sums collected under this section are to be paid into the Consolidated Fund.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 ### Offences by officers, etc., of bodies corporate
 
@@ -1428,6 +1912,14 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 (h) the manner in which the competent authority shall deal with applications for planning permission, conservation permission and subdivision permission;
 
+(ha) the types of applications for planning permission or conservation permission that are not subject to the requirement under section 13(1A) to appoint a qualified person or for which a different type of qualified person may be appointed;
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(hb) the types of development or works within a conservation area that are not subject to the requirement under section 19A(1) to appoint a qualified person or for which a different type of qualified person may be appointed;
+
+[Act 7 of 2017 wef 15/05/2017]
+
 (i) the fees or charges to be paid for any matter or thing done by the competent authority or the Minister under this Act;
 
 (j) the payment of a deposit by any person applying for planning permission, conservation permission or subdivision permission and the circumstances under which such deposit may be forfeited by the competent authority;
@@ -1440,25 +1932,39 @@ shall be deemed, until the contrary is proved, to have been duly prepared, issue
 
 [30/2003 wef 10/12/2003]
 
-(m) the types of applications for planning permission, conservation permission or subdivision permission which shall be accompanied by such certificates or declarations of an appropriate qualified person on such matters as may be specified by the competent authority in relation to the application;
+(m) the types of applications for planning permission, conservation permission or subdivision permission which shall be accompanied by such declarations of an appropriate qualified person on such matters as may be specified by the competent authority in relation to the application;
 
 [30/2003 wef 10/12/2003]
 
-(n) the circumstances under which the competent authority may not accept a qualified person’s certificate or declaration for the purpose of the requirement referred to in paragraph (m);
+[Act 7 of 2017 wef 15/05/2017]
+
+(n) the circumstances under which the competent authority may not accept a qualified person’s declaration required under this Act;
 
 [30/2003 wef 10/12/2003]
 
-(o) the duties, responsibilities and liabilities of a qualified person in relation to the certificate or declaration referred to in paragraph (m);
+[Act 7 of 2017 wef 15/05/2017]
+
+(na) the circumstances under which an individual is deemed not to be a qualified person for the purposes of section 13 or 19A;
+
+[Act 7 of 2017 wef 15/05/2017]
+
+(o) the duties, responsibilities and liabilities of a qualified person in relation to the declaration referred to in paragraph (m);
 
 [30/2003 wef 10/12/2003]
 
-(p) the circumstances under which a qualified person’s certificate or declaration may not be lodged with or submitted to the competent authority as being in satisfaction of any requirement or condition specified in any notification made under section 21(6); and
+[Act 7 of 2017 wef 15/05/2017]
+
+(p) the circumstances under which a qualified person’s declaration may not be lodged with or submitted to the competent authority as being in satisfaction of any requirement or condition specified in any notification made under section 21(6); and
 
 [30/2003 wef 10/12/2003]
 
-(q) the duties, responsibilities and liabilities of a qualified person in relation to the certificate or declaration made by him and lodged with or submitted to the competent authority in satisfaction of any requirement or condition specified in any notification made under section 21(6).
+[Act 7 of 2017 wef 15/05/2017]
+
+(q) the duties, responsibilities and liabilities of a qualified person in relation to the declaration made by him and lodged with or submitted to the competent authority in satisfaction of any requirement or condition specified in any notification made under section 21(6).
 
 [30/2003 wef 10/12/2003]
+
+[Act 7 of 2017 wef 15/05/2017]
 
 (3) Rules relating to the making of applications and appeals, to the notification of decisions thereon and to the granting of written permissions may allow or require the application, appeal, notification or other information to be made and transmitted by such electronic means and in such manner as may be prescribed, and may provide for the manner in which they are to be authenticated or certified.
 
@@ -1500,13 +2006,19 @@ Section 2
 
 Qualified persons
 
-1\. Any person who is registered as an architect under the Architects Act (Cap. 2) and who has in force a practising certificate issued under that Act.
+1. 
 
-2\. Any person who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and who has in force a practising certificate issued under that Act.
+An architect
 
-3. Any person who is registered as a land surveyor under the Land Surveyors Act (Cap. 156) and who has in force a practising certificate issued under that Act.
+2. 
 
-[30/2003 wef 10/12/2003]
+An engineer
+
+3. 
+
+A land surveyor
+
+[Act 7 of 2017 wef 15/05/2017]
 
 SECOND SCHEDULE
 
@@ -1593,6 +2105,18 @@ shopping;
 any combination of office, shopping and residential flat uses.
 
 [30/2003 wef 28/10/2003]
+
+FOURTH SCHEDULE
+
+Section 3(3)(ca)
+
+Use of dwelling-house constituting development
+
+1\. Use of a dwelling-house to provide dormitory accommodation.
+
+2\. Use of a dwelling-house to provide short-term accommodation, where the dwelling-house or any part of it is occupied by the same person for a period of less than 6 consecutive months and the short-term accommodation is provided (with or without other services) in return for the payment of rent or other form of consideration, whether or not the relationship of landlord and tenant is thereby created.
+
+[Act 7 of 2017 wef 15/05/2017]
 
 ## LEGISLATIVE HISTORY
 
@@ -1707,3 +2231,7 @@ This Legislative History is provided for the convenience of users of the Plannin
 |||(Bill No. 9/2009 published on 24 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|1 July 2009|
+|27.|**Act 7 of 2017—Planning (Amendment) Act 2017**|
+||Date of First Reading|9 January 2017 (Bill No. 3/2017 published on 9 January 2017)|
+||Date of Second and Third Readings|6 February 2017|
+||Date of commencement|15 May 2017|
