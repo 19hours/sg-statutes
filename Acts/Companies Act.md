@@ -778,6 +778,26 @@
 
 - [211 Information as to compromise with creditors, members and holders of units of shares of company](#Information-as-to-compromise-with-creditors-members-and-holders-of-units-of-shares-of-company)
 
+- [211A Application of sections 211B to 211J, etc.](#Application-of-sections-211B-to-211J-etc)
+
+- [211B Power of Court to restrain proceedings, etc., against company](#Power-of-Court-to-restrain-proceedings-etc-against-company)
+
+- [211C Power of Court to restrain proceedings, etc., against subsidiary or holding company](#Power-of-Court-to-restrain-proceedings-etc-against-subsidiary-or-holding-company)
+
+- [211D Restraint of disposition of property, etc., during moratorium period](#Restraint-of-disposition-of-property-etc-during-moratorium-period)
+
+- [211E Super priority for rescue financing](#Super-priority-for-rescue-financing)
+
+- [211F Filing, inspection and adjudication of proofs of debt](#Filing-inspection-and-adjudication-of-proofs-of-debt)
+
+- [211G Power of Court to order re‑vote](#Power-of-Court-to-order-re‑vote)
+
+- [211H Power of Court to cram down](#Power-of-Court-to-cram-down)
+
+- [211I Power of Court to approve compromise or arrangement without meeting of creditors](#Power-of-Court-to-approve-compromise-or-arrangement-without-meeting-of-creditors)
+
+- [211J Power of Court to review act, omission or decision, etc., after approval, etc., of compromise or arrangement](#Power-of-Court-to-review-act-omission-or-decision-etc-after-approval-etc-of-compromise-or-arrangement)
+
 - [212 Approval of compromise or arrangement by Court](#Approval-of-compromise-or-arrangement-by-Court)
 
 - [213 (Repealed)](#Repealed)
@@ -844,6 +864,8 @@
 
 [**Part VIIIA JUDICIAL MANAGEMENT**](#Part-VIIIA)
 
+- [227AA Interpretation of this Part](#Interpretation-of-this-Part)
+
 - [227A Application to Court for a company to be placed under judicial management and for appointment of a judicial manager](#Application-to-Court-for-a-company-to-be-placed-under-judicial-management-and-for-appointment-of-a-judicial-manager)
 
 - [227B Power of Court to make a judicial management order and appoint a judicial manager](#Power-of-Court-to-make-a-judicial-management-order-and-appoint-a-judicial-manager)
@@ -859,6 +881,8 @@
 - [227G General powers and duties of judicial manager](#General-powers-and-duties-of-judicial-manager)
 
 - [227H Power to deal with charged property, etc.](#Power-to-deal-with-charged-property-etc)
+
+- [227HA Super priority for rescue financing](#Super-priority-for-rescue-financing)
 
 - [227I Agency and liability for contracts](#Agency-and-liability-for-contracts)
 
@@ -1204,6 +1228,14 @@
 
 - [354 Outstanding assets of defunct unregistered company](#Outstanding-assets-of-defunct-unregistered-company)
 
+[**Division 6  Adoption of UNCITRAL Model Law on Cross‑Border Insolvency**](#Division-6--Adoption-of-UNCITRAL-Model-Law-on-Cross‑Border-Insolvency)
+
+- [354A Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [354B Model Law to have force of law](#Model-Law-to-have-force-of-law)
+
+- [354C Interaction with Singapore insolvency law](#Interaction-with-Singapore-insolvency-law)
+
 [**Part XI VARIOUS TYPES OF COMPANIES, ETC.**](#Part-XI)
 
 [**Division 1  Investment companies**](#Division-1--Investment-companies)
@@ -1414,7 +1446,7 @@
 
 [**NINTH SCHEDULE**](#NINTH-SCHEDULE)
 
-[**TENTH SCHEDULE**](#TENTH-SCHEDULE)
+[**TENTH SCHEDULE Uncitral model law on cross-border insolvency**](#TENTH-SCHEDULE-Uncitral-model-law-on-cross-border-insolvency)
 
 [**ELEVENTH SCHEDULE Powers of judicial manager**](#ELEVENTH-SCHEDULE-Powers-of-judicial-manager)
 
@@ -12457,6 +12489,480 @@ present and voting either in person or by proxy at the meeting or the adjourned 
 
 [Act 36 of 2014 wef 03/01/2016]
 
+### Application of sections 211B to 211J, etc.
+
+211A\.—(1) Sections 211B to 211J only apply in a case that involves a compromise or an arrangement between a company and its creditors or any class of those creditors.
+
+(2) Except as provided in sections 211G, 211H and 211I, sections 211B to 211J do not derogate from sections 210 and 211.
+
+(3) In this section and sections 211B to 211J, “company” means any corporation liable to be wound up under this Act, but excludes such company or class of companies as the Minister may by order in theGazetteprescribe.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Power of Court to restrain proceedings, etc., against company
+
+211B\.—(1) Where a company proposes, or intends to propose, a compromise or an arrangement between the company and its creditors or any class of those creditors, the Court may, on the application of the company, make one or more of the following orders, each of which is in force for such period as the Court thinks fit:
+
+(a) an order restraining the passing of a resolution for the winding up of the company;
+
+(b) an order restraining the appointment of a receiver or manager over any property or undertaking of the company;
+
+(c) an order restraining the commencement or continuation of any proceedings (other than proceedings under this section or section 210, 211D, 211G, 211H or 212) against the company, except with the leave of the Court and subject to such terms as the Court imposes;
+
+(d) an order restraining the commencement, continuation or levying of any execution, distress or other legal process against any property of the company, except with the leave of the Court and subject to such terms as the Court imposes;
+
+(e) an order restraining the taking of any step to enforce any security over any property of the company, or to repossess any goods held by the company under any chattels leasing agreement, hire‑purchase agreement or retention of title agreement, except with the leave of the Court and subject to such terms as the Court imposes;
+
+(f) an order restraining the enforcement of any right of re‑entry or forfeiture under any lease in respect of any premises occupied by the company (including any enforcement pursuant to section 18 or 18A of the Conveyancing and Law of Property Act (Cap. 61)), except with the leave of the Court and subject to such terms as the Court imposes.
+
+(2) The company may make the application under subsection (1) only if all of the following conditions are satisfied:
+
+(a) no order has been made and no resolution has been passed for the winding up of the company;
+
+(b) the company makes, or undertakes to the Court to make as soon as practicable —
+
+(i) an application under section 210(1) for the Court to order to be summoned a meeting of the creditors or class of creditors in relation to the compromise or arrangement mentioned in subsection (1); or
+
+(ii) an application under section 211I(1) to approve the compromise or arrangement mentioned in subsection (1);
+
+(c) the company does not make an application under section 210(10).
+
+(3) When the company makes the application under subsection (1) to the Court —
+
+(a) the company must publish a notice of the application in theGazetteand in at least one English local daily newspaper, and send a copy of the notice published in theGazetteto the Registrar; and
+
+(b) unless the Court orders otherwise, the company must send a notice of the application to each creditor meant to be bound by the intended or proposed compromise or arrangement and who is known to the company.
+
+(4) The company must file the following with the Court together with the application under subsection (1):
+
+(a) evidence of support from the company’s creditors for the intended or proposed compromise or arrangement, together with an explanation of how such support would be important for the success of the intended or proposed compromise or arrangement;
+
+(b) in a case where the company has not proposed the compromise or arrangement to the creditors or class of creditors yet, a brief description of the intended compromise or arrangement, containing sufficient particulars to enable the Court to assess whether the intended compromise or arrangement is feasible and merits consideration by the company’s creditors when a statement mentioned in section 211(1)(a) or 211I(3)(a) relating to the intended compromise or arrangement is placed before those creditors;
+
+(c) a list of every secured creditor of the company;
+
+(d) a list of all unsecured creditors who are not related to the company or, if there are more than 20 such unsecured creditors, a list of the 20 such unsecured creditors whose claims against the company are the largest among all such unsecured creditors.
+
+(5) An order of the Court under subsection (1) —
+
+(a) may be made subject to such terms as the Court imposes; and
+
+(b) may be expressed to apply to any act of any person in Singapore or within the jurisdiction of the Court, whether the act takes place in Singapore or elsewhere.
+
+(6) When making an order under subsection (1), the Court must order the company to submit to the Court, within such time as the Court may specify, sufficient information relating to the company’s financial affairs to enable the company’s creditors to assess the feasibility of the intended or proposed compromise or arrangement, including such of the following information as the Court may specify:
+
+(a) a report on the valuation of each of the company’s significant assets;
+
+(b) if the company acquires or disposes of any property or grants security over any property — information relating to the acquisition, disposal or grant of security, such information to be submitted not later than 14 days after the date of the acquisition, disposal or grant of security;
+
+(c) periodic financial reports of the company and the company’s subsidiaries;
+
+(d) forecasts of the profitability, and the cash flow from the operations, of the company and the company’s subsidiaries.
+
+(7) The Court may extend the period for which an order under subsection (1) is in force, if an application for the extension of the period is made by the company before the expiry of that period.
+
+(8) Subject to subsection (9), during the automatic moratorium period for an application under subsection (1) by a company —
+
+(a) no order may be made, and no resolution may be passed, for the winding up of the company;
+
+(b) no receiver or manager may be appointed over any property or undertaking of the company;
+
+(c) no proceedings (other than proceedings under this section or section 210, 211D, 211G, 211H or 212) may be commenced or continued against the company, except with the leave of the Court and subject to such terms as the Court imposes;
+
+(d) no execution, distress or other legal process may be commenced, continued or levied against any property of the company, except with the leave of the Court and subject to such terms as the Court imposes;
+
+(e) no step may be taken to enforce any security over any property of the company, or to repossess any goods under any chattels leasing agreement, hire‑purchase agreement or retention of title agreement, except with the leave of the Court and subject to such terms as the Court imposes; and
+
+(f) despite sections 18 and 18A of the Conveyancing and Law of Property Act (Cap. 61), no right of re‑entry or forfeiture under any lease in respect of any premises occupied by the company may be enforced, except with the leave of the Court and subject to such terms as the Court imposes.
+
+(9) Subsection (8) does not apply to a company that makes an application under subsection (1) if, within the period of 12 months immediately before the date on which that application is made, the company made an earlier application under subsection (1) to which subsection (8) applied.
+
+(10) The company, any creditor of the company, or any receiver and manager of the whole (or substantially the whole) of the property or undertaking of the company, may apply to the Court for —
+
+(a) the discharge or variation of any order made under subsection (1); or
+
+(b) an order that subsection (8), or any paragraph of that subsection that is specified in the order, does not apply to the company starting on the date of the order.
+
+(11) The Court must grant an application under subsection (10) by a creditor of a company, or by a receiver and manager of the whole (or substantially the whole) of the property or undertaking of a company, if the company failed to comply with subsection (4) when making the application under subsection (1) for the order.
+
+(12) Neither an order made by the Court under subsection (1) nor subsection (8) affects the exercise of any legal right under any arrangement (including a set‑off arrangement or a netting arrangement) that may be prescribed by regulations made under section 411.
+
+(13) In this section —
+
+“automatic moratorium period”, in relation to an application under subsection (1), means the period starting on the date on which the application is made, and ending on the earlier of the following:
+
+(a) a date that is 30 days after the date on which the application is made;
+
+(b) the date on which the application is decided by the Court;
+
+“chattels leasing agreement”, “hire‑purchase agreement” and “retention of title agreement” have the same meanings as in section 227AA;
+
+“netting arrangement” means an arrangement under which 2 or more claims or obligations can be converted into a net claim or obligation, and includes a close‑out netting arrangement (under which actual or theoretical debts are calculated during the course of a contract for the purpose of enabling them to be set‑off against each other or to be converted into a net debt);
+
+“set‑off arrangement” means an arrangement under which 2 or more debts, claims or obligations can be set‑off against each other.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Power of Court to restrain proceedings, etc., against subsidiary or holding company
+
+211C\.—(1) Where the Court has made an order under section 211B(1) in relation to a company (called in this section the subject company), the Court may, on the application of a company that is a subsidiary, a holding company or an ultimate holding company of the subject company (called in this section the related company), make one or more of the following orders, each of which is in force for such period (but not exceeding the period for which the order under section 211B(1) is in force) as the Court thinks fit:
+
+(a) an order restraining the passing of a resolution for the winding up of the related company;
+
+(b) an order restraining the appointment of a receiver or manager over any property or undertaking of the related company;
+
+(c) an order restraining the commencement or continuation of any proceedings (other than proceedings under this section or section 210, 211D, 211G, 211H or 212) against the related company, except with the leave of the Court and subject to such terms as the Court imposes;
+
+(d) an order restraining the commencement, continuation or levying of any execution, distress or other legal process against any property of the related company, except with the leave of the Court and subject to such terms as the Court imposes;
+
+(e) an order restraining the taking of any step to enforce any security over any property of the related company, or to repossess any goods held by the related company under any chattels leasing agreement, hire‑purchase agreement or retention of title agreement, except with the leave of the Court and subject to such terms as the Court imposes;
+
+(f) an order restraining the enforcement of any right of re‑entry or forfeiture under any lease in respect of any premises occupied by the related company (including any enforcement pursuant to section 18 or 18A of the Conveyancing and Law of Property Act (Cap. 61)), except with the leave of the Court and subject to such terms as the Court imposes.
+
+(2) The related company may make the application under subsection (1) only if all of the following conditions are satisfied:
+
+(a) no order has been made and no resolution has been passed for the winding up of the related company;
+
+(b) the order under section 211B(1) made in relation to the subject company is in force;
+
+(c) the related company plays a necessary and integral role in the compromise or arrangement relied on by the subject company to make the application for the order under section 211B(1);
+
+(d) the compromise or arrangement mentioned in paragraph (c) will be frustrated if one or more of the actions that may be restrained by an order under subsection (1) are taken against the related company;
+
+(e) the Court is satisfied that the creditors of the related company will not be unfairly prejudiced by the making of an order under subsection (1).
+
+(3) When the related company makes the application under subsection (1) to the Court —
+
+(a) the related company must publish a notice of the application in theGazetteand in at least one English local daily newspaper, and send a copy of the notice published in theGazetteto the Registrar; and
+
+(b) unless the Court orders otherwise, the related company must send a notice of the application to each creditor of the related company who will be affected by an order under subsection (1) and who is known to the related company.
+
+(4) An order of the Court under subsection (1) —
+
+(a) may be made subject to such terms as the Court imposes; and
+
+(b) may be expressed to apply to any act of any person in Singapore or within the jurisdiction of the Court, whether the act takes place in Singapore or elsewhere.
+
+(5) The Court may extend the period for which an order under subsection (1) is in force, if an application for the extension of the period is made by the related company before the expiry of that period.
+
+(6) The related company, any creditor of the related company, or any receiver and manager of the whole (or substantially the whole) of the property or undertaking of the related company, may apply to the Court for the discharge or variation of any order made under subsection (1).
+
+(7) An order made by the Court under subsection (1) does not affect the exercise of any legal right under any arrangement (including a set‑off arrangement or a netting arrangement) that may be prescribed by regulations made under section 411.
+
+(8) In this section —
+
+“chattels leasing agreement”, “hire‑purchase agreement” and “retention of title agreement” have the same meanings as in section 227AA;
+
+“netting arrangement” means an arrangement under which 2 or more claims or obligations can be converted into a net claim or obligation, and includes a close‑out netting arrangement (under which actual or theoretical debts are calculated during the course of a contract for the purpose of enabling them to be set‑off against each other or to be converted into a net debt);
+
+“set‑off arrangement” means an arrangement under which 2 or more debts, claims or obligations can be set‑off against each other.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Restraint of disposition of property, etc., during moratorium period
+
+211D\.—(1) The Court may, on an application made by any creditor of a relevant company at any time during a moratorium period, make either or both of the following orders, each of which is in force for such part of the moratorium period as the Court thinks fit:
+
+(a) an order restraining the relevant company from disposing of the property of the relevant company other than in good faith and in the ordinary course of the business of the relevant company;
+
+(b) an order restraining the relevant company from transferring any share in, or altering the rights of any member of, the relevant company.
+
+(2) In this section —
+
+“moratorium period”, in relation to a relevant company, means any of the following periods that is applicable to the company:
+
+(a) the automatic moratorium period mentioned in section 211B(8);
+
+(b) the period during which an order under section 211B(1) is in force, including any extension of that period under section 211B(7);
+
+(c) the period during which an order under section 211C(1) is in force, including any extension of the period under section 211C(5);
+
+“relevant company” means a company that has made an application under section 211B(1), or in relation to which an order under section 211C(1) is made.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Super priority for rescue financing
+
+211E\.—(1) Where a company has made an application under section 210(1) or 211B(1), the Court may, on an application by the company under this subsection, make one or more of the following orders:
+
+(a) an order that if the company is wound up, the debt arising from any rescue financing obtained, or to be obtained, by the company is to be treated as if it were part of the costs and expenses of the winding up mentioned in section 328(1)(a);
+
+(b) an order that if the company is wound up, the debt arising from any rescue financing obtained, or to be obtained, by the company is to have priority over all the preferential debts specified in section 328(1)(a) to (g) and all other unsecured debts, if the company would not have been able to obtain the rescue financing from any person unless the debt arising from the rescue financing is given the priority mentioned in this paragraph;
+
+(c) an order that the debt arising from any rescue financing to be obtained by the company is to be secured by —
+
+(i) a security interest on property of the company that is not otherwise subject to any security interest; or
+
+(ii) a subordinate security interest on property of the company that is subject to an existing security interest,
+
+if the company would not have been able to obtain the rescue financing from any person unless the debt arising from the rescue financing is secured in the manner mentioned in this paragraph;
+
+(d) an order that the debt arising from any rescue financing to be obtained by the company is to be secured by a security interest, on property of the company that is subject to an existing security interest, of the same priority as or a higher priority than that existing security interest, if —
+
+(i) the company would not have been able to obtain the rescue financing from any person unless the debt arising from the rescue financing is secured in the manner mentioned in this paragraph; and
+
+(ii) there is adequate protection for the interests of the holder of that existing security interest.
+
+(2) A company that makes an application under subsection (1) must, unless the Court orders otherwise, send a notice of the application to each creditor of the company.
+
+(3) Where a company that has 2 or more super priority debts is wound up, the super priority debts —
+
+(a) rank equally in priority between themselves; and
+
+(b) are to be paid in full or, if the company has insufficient property to meet them, are to abate in equal proportions between themselves.
+
+(4) Where a company that has 2 or more super priority debts is wound up, the super priority debts constitute one class of debts and, despite section 328 —
+
+(a) the super priority debts are to be paid in priority to all the preferential debts specified in section 328(1)(a) to (g) and all other unsecured debts; and
+
+(b) if the property of the company available for the payment of the super priority debts is insufficient to meet the super priority debts, the super priority debts —
+
+(i) have priority over the claims of the holders of any debentures of the company secured by a floating charge (which, as created, was a floating charge); and
+
+(ii) are to be paid out of any property comprised in or subject to that floating charge.
+
+(5) The reversal or modification on appeal of an order under subsection (1)(c) or (d) does not affect the validity of any debt so incurred, or any security interest that was granted pursuant to the order, or the priority of that security interest, if the rescue financing (from which arose the debt intended to be secured by that security interest) was provided in good faith, whether or not with knowledge of the appeal, unless the order was stayed pending the appeal before the rescue financing was provided.
+
+(6) For the purposes of subsection (1)(d)(ii), there is adequate protection for the interests of the holder of an existing security interest on the property of a company, if —
+
+(a) the Court orders the company to make one or more cash payments to the holder, the total amount of which is sufficient to compensate the holder for any decrease in the value of the holder’s existing security interest that may result from the making of the order under subsection (1)(d);
+
+(b) the Court orders the company to provide to the holder additional or replacement security of a value sufficient to compensate the holder for any decrease in the value of the holder’s existing security interest that may result from the making of the order under subsection (1)(d); or
+
+(c) the Court grants any relief (other than compensation) that will result in the realisation by the holder of the indubitable equivalent of the holder’s existing security interest.
+
+(7) Section 329 does not affect any priority conferred, any security interest or relief granted, or any payment made, pursuant to and in accordance with an order made by the Court under subsection (1).
+
+(8) The company must, within 14 days after the date of an order under subsection (1), lodge a copy of the order with the Registrar.
+
+(9) In this section —
+
+“rescue financing” means any financing that satisfies either or both of the following conditions:
+
+(a) the financing is necessary for the survival of a company that obtains the financing, or of the whole or any part of the undertaking of that company, as a going concern;
+
+(b) the financing is necessary to achieve a more advantageous realisation of the assets of a company that obtains the financing, than on a winding up of that company;
+
+“security interest” means any mortgage, charge, pledge, lien or other type of security interest recognised by law;
+
+“super priority debt” means a debt, arising from any rescue financing obtained or to be obtained by a company, that is to have priority, pursuant to an order under subsection (1)(b), over all the preferential debts specified in section 328(1)(a) to (g) and all other unsecured debts, if the company is wound up.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Filing, inspection and adjudication of proofs of debt
+
+211F\.—(1) Where the Court orders under section 210(1) a meeting of the creditors, or a class of creditors, of a company to be summoned, the company must state in every notice mentioned in section 211(1) summoning the meeting (called in this section the notice summoning the meeting) —
+
+(a) the manner in which a creditor is to file a proof of debt with the company; and
+
+(b) the period within which the proof is to be filed.
+
+(2) Subject to subsection (3), if a creditor does not file the creditor’s proof of debt in the manner and within the period stated in the notice summoning the meeting, the creditor is not allowed to vote (whether in person or by proxy) at the meeting.
+
+(3) The Court may, on an application made by the company or a creditor, make an order extending the period stated in the notice summoning the meeting within which a proof of debt is to be filed.
+
+(4) Upon the making of an order under subsection (3), the company must as soon as practicable send a notice of the order to each creditor meant to be bound by the compromise or arrangement.
+
+(5) Every proof of debt filed under this section is to be adjudicated by the person who is appointed by the Court to serve as the chairman of the meeting summoned pursuant to the order made under section 210(1) (called in this section the chairman).
+
+(6) A creditor who has filed a proof of debt under this section is entitled to inspect the whole or any part of a proof of debt filed by any other creditor, except a part of the other creditor’s proof that contains information that is subject to any obligation as to secrecy, or to any other restriction upon the disclosure of information, imposed by any written law, rule of law, contract or rule of professional conduct, or by any person or authority under any written law.
+
+(7) The chairman must inform each creditor who has filed a proof of debt, within such time and manner as may be prescribed, of the results of the adjudication of the proofs of debt filed by all creditors.
+
+(8) A creditor (A) who has filed a proof of debt may object to one or more of the following:
+
+(a) the rejection by the chairman of the whole or any part ofA’s proof of debt;
+
+(b) the admission by the chairman of the whole or any part of a proof of debt filed by another creditor;
+
+(c) a request by another creditor to inspect the whole or any part ofA’s proof of debt.
+
+(9) Any dispute between the chairman and the company, between the chairman and one or more creditors in relation to the rejection of a proof of debt, or between 2 or more creditors in relation to the inspection or admission of a proof of debt, may be adjudicated by an independent assessor appointed —
+
+(a) by the agreement of all parties to the dispute; or
+
+(b) if there is no such agreement, by the Court on the application of —
+
+(i) any party to the dispute; or
+
+(ii) the company (whether or not a party to the dispute).
+
+(10) Where a creditor, the company or the chairman disagrees with any decision of an independent assessor on an adjudication under subsection (9) in relation to the inspection, admission or rejection of a proof of debt, the creditor, company or chairman (as the case may be) may file a notice of disagreement regarding that decision for consideration by the Court when the Court hears an application for the Court’s approval under section 210(4) of the compromise or arrangement in question.
+
+(11) When exercising its discretion under section 210(4), the Court must take into account any notice of disagreement filed under subsection (10).
+
+(12) The Minister may make regulations under section 411 to provide for the procedure relating to the inspection and adjudication of proofs of debt filed by creditors under this section.
+
+(13) Without restricting the generality of subsection (12), the regulations mentioned in that subsection may provide for the following matters:
+
+(a) the procedures for the making of a request, by a creditor who has filed a proof of debt, to inspect a proof of debt filed by any other creditor, and for the objection to the request by that other creditor;
+
+(b) the period within which a proof of debt is to be adjudicated by the chairman;
+
+(c) the time and manner in which creditors are to be informed under subsection (7) of the results of the adjudication;
+
+(d) the procedure relating to the resolution of any dispute mentioned in subsection (9).
+
+(14) Despite anything in the regulations mentioned in subsection (12), the Court may —
+
+(a) on an application by the company, approve any variation in or substitution of the procedure relating to the inspection and adjudication of proofs of debt filed by creditors under this section; and
+
+(b) on an application by any person subject to any requirement imposed by the regulations, grant relief to the person or extend the time for the person to comply with the requirement.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Power of Court to order re‑vote
+
+211G\.—(1) At the hearing of an application for the Court’s approval under section 210(4) of a compromise or an arrangement between a company and its creditors or any class of those creditors, the Court may order the company to hold another meeting of the creditors or class of creditors (called in this section the further meeting) for the purpose of putting the compromise or arrangement to a re‑vote.
+
+(2) When making an order under subsection (1), the Court may —
+
+(a) make the order subject to such terms as the Court thinks fit;
+
+(b) direct that the further meeting be summoned or held in such manner as the Court thinks fit; and
+
+(c) make such orders or directions as the Court thinks appropriate in respect of one or more of the following matters:
+
+(i) the classification of any creditor for the purposes of voting at the further meeting;
+
+(ii) the quantum of any creditor’s debt that is to be admitted for the purposes of voting at the further meeting;
+
+(iii) the weight to be attached to the vote of any creditor at the further meeting.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Power of Court to cram down
+
+211H\.—(1) This section applies where —
+
+(a) a compromise or an arrangement between a company and its creditors or any class of those creditors has been voted on at a relevant meeting;
+
+(b) the creditors meant to be bound by the compromise or arrangement are placed in 2 or more classes of creditors for the purposes of voting on the compromise or arrangement at the relevant meeting;
+
+(c) the conditions in section 210(3AB)(a) and (b) (insofar as they are applicable) are satisfied at the relevant meeting in respect of at least one class of creditors; and
+
+(d) either or both of the conditions in section 210(3AB)(a) and (b) (insofar as they are applicable) are not satisfied at the relevant meeting in respect of at least one class of creditors (each called in this section a dissenting class).
+
+(2) Despite section 210(3AA) and (3AB)(a) and (b), the Court may, subject to this section and on the application of the company, or a creditor of the company who has obtained the leave of the Court to make an application under this subsection, approve the compromise or arrangement, and order that the compromise or arrangement be binding on the company and all classes of creditors meant to be bound by the compromise or arrangement.
+
+(3) The Court may not make an order under subsection (2) unless —
+
+(a) a majority in number of the creditors meant to be bound by the compromise or arrangement, and who were present and voting either in person or by proxy at the relevant meeting, have agreed to the compromise or arrangement;
+
+(b) the majority in number of creditors mentioned in paragraph (a) represents three‑fourths in value of the creditors meant to be bound by the compromise or arrangement, and who were present and voting either in person or by proxy at the relevant meeting; and
+
+(c) the Court is satisfied that the compromise or arrangement does not discriminate unfairly between 2 or more classes of creditors, and is fair and equitable to each dissenting class.
+
+(4) For the purposes of subsection (3)(c), a compromise or an arrangement is not fair and equitable to a dissenting class unless —
+
+(a) no creditor in the dissenting class receives, under the terms of the compromise or arrangement, an amount that is lower than what the creditor is estimated by the Court to receive in the most likely scenario if the compromise or arrangement does not become binding on the company and all classes of creditors meant to be bound by the compromise or arrangement; and
+
+(b) either of the following applies:
+
+(i) where the creditors in the dissenting class are secured creditors, the terms of the compromise or arrangement must —
+
+(A) provide for each creditor in the dissenting class to receive deferred cash payments totalling the amount of the creditor’s claim that is secured by the security held by the creditor, and preserve that security and the extent of that claim (whether or not the property subject to that security is to be retained by the company or transferred to another entity under the terms of the compromise or arrangement);
+
+(B) provide that where the security held by any creditor in the dissenting class to secure the creditor’s claim is to be realised by the company free of encumbrances, the creditor has a charge over the proceeds of the realisation to satisfy the creditor’s claim that is secured by that security; or
+
+(C) provide that each creditor in the dissenting class is entitled to realise the indubitable equivalent of the security held by the creditor in order to satisfy the creditor’s claim that is secured by that security;
+
+(ii) where the creditors in the dissenting class are unsecured creditors, the terms of the compromise or arrangement —
+
+(A) must provide for each creditor in that class to receive property of a value equal to the amount of the creditor’s claim; or
+
+(B) must not provide for any creditor with a claim that is subordinate to the claim of a creditor in the dissenting class, or any member, to receive or retain any property on account of the subordinate claim or the member’s interest.
+
+(5) The Court may appoint any person of suitable knowledge, qualification or experience to assist the Court in estimating the amount that a creditor is expected to receive in the most likely scenario if the compromise or arrangement does not become binding on the company and all classes of creditors meant to be bound by the compromise or arrangement.
+
+(6) In this section, “relevant meeting” means —
+
+(a) in a case where the compromise or arrangement in question is subject to a re‑vote under section 211G(1), the meeting held for that purpose; or
+
+(b) in any other case, the meeting ordered by the Court under section 210(1) or, if that meeting is adjourned under section 210(3), the adjourned meeting.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Power of Court to approve compromise or arrangement without meeting of creditors
+
+211I\.—(1) Despite section 210 but subject to this section, where a compromise or an arrangement is proposed between a company and its creditors or any class of those creditors, the Court may, on an application made by the company, make an order approving the compromise or arrangement, even though no meeting of the creditors or class of creditors has been ordered under section 210(1) or held.
+
+(2) Subject to subsection (12), if the compromise or arrangement is approved by order of the Court under subsection (1), the compromise or arrangement is binding on the company and the creditors or class of creditors meant to be bound by the compromise or arrangement.
+
+(3) The Court must not approve a compromise or an arrangement under subsection (1) unless —
+
+(a) the company has provided each creditor meant to be bound by the compromise or arrangement with a statement that complies with subsection (8) and contains the following information:
+
+(i) information concerning the company’s property, assets, business activities, financial condition and prospects;
+
+(ii) information on the manner in which the terms of the compromise or arrangement will, if it takes effect, affect the rights of the creditor;
+
+(iii) such other information as is necessary to enable the creditor to make an informed decision whether to agree to the compromise or arrangement;
+
+(b) the company has published a notice of the application under subsection (1) in theGazetteand in at least one English local daily newspaper, and has sent a copy of the notice published in theGazetteto the Registrar;
+
+(c) the company has sent a notice and a copy of the application under subsection (1) to each creditor meant to be bound by the compromise or arrangement; and
+
+(d) the Court is satisfied that had a meeting of the creditors or class of creditors been summoned, the conditions in section 210(3AB)(a) and (b) (insofar as they relate to the creditors or class of creditors) would have been satisfied.
+
+(4) Despite subsection (3)(c), the company may, if directed by the Court, give notice of the application under subsection (1) to the creditors or class of creditors in such manner as the Court may direct.
+
+(5) Where the company is a banking corporation or licensed insurer, the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186) has the same powers and rights as a creditor of the company under this Act, including the right to appear and be heard before a Court in any proceedings under this section.
+
+(6) Subject to subsection (7), the Court may grant its approval of a compromise or an arrangement subject to such alterations or conditions as the Court thinks just.
+
+(7) The Court must not approve any compromise or arrangement which has been proposed for the purposes of or in connection with any scheme mentioned in section 212(1), under which the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore or licensed insurer incorporated in Singapore is to be transferred, unless the Minister charged with the responsibility for banking or insurance matters, as the case may be, has consented to the compromise or arrangement or has certified that his consent is not required.
+
+(8) The statement mentioned in subsection (3)(a) must —
+
+(a) explain the effect of the compromise or arrangement and, in particular, state —
+
+(i) any material interests of the directors of the company (whether as directors or as members, creditors or holders of units of shares of the company or otherwise); and
+
+(ii) the effect that the compromise or arrangement has on those interests, insofar as that effect is different from the effect that the compromise or arrangement has on the like interests of other persons; and
+
+(b) where the compromise or arrangement affects the rights of debenture holders, contain the like explanation with respect to the trustees for the debenture holders as, under paragraph (a), the statement is required to give with respect to the directors of the company.
+
+(9) Each director, and each trustee for debenture holders, must give notice to the company of such matters relating to the director or trustee as may be necessary for the purposes of subsection (8) within 7 days after the director or trustee receives a request in writing from the company for information as to such matters.
+
+(10) Any director of a company or trustee for debenture holders who contravenes subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months.
+
+(11) A person, being a director of a company or a trustee for debenture holders, is not guilty of an offence under subsection (10), if the person shows that the person’s contravention of subsection (9) was due to the refusal of another director of the company or trustee for debenture holders to supply to the person the particulars of the person’s material interests affected by the compromise or arrangement.
+
+(12) Unless the Court orders otherwise, an order made under subsection (1) —
+
+(a) has no effect until a copy of the order is lodged with the Registrar; and
+
+(b) takes effect starting on the date of the lodgment.
+
+(13) Where the terms of any compromise or arrangement approved under this section provides for any money or other consideration to be held by or on behalf of any party to the compromise or arrangement in trust for any person, the person holding the money or other consideration may after the expiration of 2 years, and must before the expiration of 10 years, starting on the date on which the money or other consideration was received by the person, transfer the money or other consideration to the Official Receiver.
+
+(14) The Official Receiver must —
+
+(a) deal with any moneys received under subsection (13) as if the moneys were paid to the Official Receiver under section 322; and
+
+(b) sell or dispose of any other consideration received under subsection (13) in such manner as the Official Receiver thinks fit, and deal with the proceeds of the sale or disposal as if those proceeds were moneys paid to the Official Receiver under section 322.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Power of Court to review act, omission or decision, etc., after approval, etc., of compromise or arrangement
+
+211J\.—(1) This section applies after a compromise or an arrangement, between a company and its creditors or any class of those creditors, has been approved by the Court under section 210(4) or 211I(1).
+
+(2) Where the Court is satisfied that the company or the scheme manager of the compromise or arrangement has committed an act or omission, or made a decision, that results in a breach of any term of the compromise or arrangement, the Court may, on the application of the company, the scheme manager or any creditor bound by the compromise or arrangement —
+
+(a) reverse or modify the act or decision of the company or the scheme manager; or
+
+(b) give such direction or make such order as the Court thinks fit to rectify the act, omission or decision of the company or scheme manager.
+
+(3) The Court may, on an application of the company, the scheme manager or any creditor bound by the compromise or arrangement, clarify any term of the compromise or arrangement.
+
+(4) No order or clarification made, and no direction given, by the Court under subsection (2) or (3) may alter, or affect any person’s rights under, the terms of the compromise or arrangement as approved by the Court under section 210(4) or 211I(1).
+
+(5) In this section, “scheme manager”, in relation to a compromise or an arrangement, means a person appointed by the Court or the company to administer the compromise or arrangement.
+
+[Act 15 of 2017 wef 23/05/2017]
+
 ### Approval of compromise or arrangement by Court
 
 212\.—(1) Where an application is made to the Court under this Part for the approval of a compromise or arrangement and it is shown to the Court that the compromise or arrangement has been proposed for the purposes of or in connection with a scheme for the reconstruction of any company or companies or the amalgamation of any 2 or more companies, and that under the scheme the whole or any part of the undertaking or the property of any company concerned in the scheme (referred to in this section as the transferor company) is to be transferred to another company (referred to in this section as the transferee company), the Court may, subject to subsection (1A), either by the order approving the compromise or arrangement or by any subsequent order provide for all or any of the following matters:
@@ -12475,11 +12981,13 @@ present and voting either in person or by proxy at the meeting or the adjourned 
 
 [1/2007 wef 31/03/2007]
 
-(1A) Without prejudice to section 210(4A), the Court shall not make any order providing for the transfer of the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore or licensed insurer incorporated in Singapore unless the Minister charged with the responsibility for banking or insurance matters, as the case may be, has consented to the transfer or has certified that his consent is not required.
+(1A) Without prejudice to sections 210(4A) and 211I(7), the Court shall not make any order providing for the transfer of the whole or any part of the undertaking or the property of a banking corporation incorporated in Singapore or licensed insurer incorporated in Singapore unless the Minister charged with the responsibility for banking or insurance matters, as the case may be, has consented to the transfer or has certified that his consent is not required.
 
 [16/2011 wef 01/05/2011]
 
 [Act 11 of 2013 wef 18/04/2013]
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (2) Where an order made under this section provides for the transfer of property or liabilities, then by virtue of the order that property shall be transferred to and vest in, and those liabilities shall be transferred to and become the liabilities of, the transferee company, free in the case of any particular property if the order so directs, from any charge which is by virtue of the compromise or arrangement to cease to have effect.
 
@@ -13443,6 +13951,26 @@ RECEIVERS AND MANAGERS
 
 JUDICIAL MANAGEMENT
 
+### Interpretation of this Part
+
+227AA\. In this Part —
+
+“chattels leasing agreement” means an agreement for the bailment of goods that are capable of subsisting for more than 3 months;
+
+“company” means any corporation liable to be wound up under this Act;
+
+“hire‑purchase agreement” has the same meaning as in section 2 of the Hire‑Purchase Act (Cap. 125);
+
+“property”, in relation to a company, includes money, goods, things in action and every description of property, whether real or personal, and whether in Singapore or elsewhere, and also obligations and every description of interest whether present or future or vested or contingent arising out of, or incidental to, property;
+
+“retention of title agreement” means an agreement for the sale of goods to a company, being an agreement —
+
+(a) that does not constitute a charge on the goods; but
+
+(b) under which, if the seller is not paid and the company is wound up, the seller will have priority over all other creditors of the company as respects the goods or any property representing the goods.
+
+[Act 15 of 2017 wef 23/05/2017]
+
 ### Application to Court for a company to be placed under judicial management and for appointment of a judicial manager
 
 227A\. Where a company or where a creditor or creditors of the company consider that —
@@ -13459,13 +13987,17 @@ an application may be made to the Court under section 227B for an order that the
 
 227B\.—(1) Where a company or its directors (pursuant to a resolution of its members or the board of directors) or a creditor or creditors (including any contingent or prospective creditor or creditors or all or any of those parties, together or separately), pursuant to section 227A, makes an application (referred to in this section as an application for a judicial management order) for an order that the company should be placed under the judicial management of a judicial manager, the Court may make a judicial management order in relation to the company if, and only if, —
 
-(a) it is satisfied that the company is or will be unable to pay its debts; and
+(a) it is satisfied that the company is or is likely to become unable to pay its debts; and
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (b) it considers that the making of the order would be likely to achieve one or more of the following purposes, namely:
 
 (i) the survival of the company, or the whole or part of its undertaking as a going concern;
 
-(ii) the approval under section 210 of a compromise or arrangement between the company and any such persons as are mentioned in that section;
+(ii) the approval under section 210 or 211I of a compromise or arrangement between the company and any such persons as are mentioned in that section;
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (iii) a more advantageous realisation of the company’s assets would be effected than on a winding up.
 
@@ -13497,7 +14029,9 @@ Notwithstanding paragraph (a), where a person is appointed by the Court or nomin
 
 (4) When an application for a judicial management order is made to the Court, notice of the application —
 
-(a) shall be published in theGazetteand in an English and Chinese local daily newspaper and a copy thereof sent to the Registrar; and
+(a) shall be published in theGazetteand in an English local daily newspaper and a copy thereof sent to the Registrar; and
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (b) shall be given —
 
@@ -13507,13 +14041,13 @@ Notwithstanding paragraph (a), where a person is appointed by the Court or nomin
 
 [13/87; 42/2005]
 
-(5) Subject to subsection (10), the Court shall dismiss an application for a judicial management order if it is satisfied that —
+(5) Subject to subsection (10), the Court must dismiss an application for a judicial management order if —
 
-(a) a receiver and manager referred to in subsection (4) has been or will be appointed; or
+(a) the making of the order is opposed by a person who has appointed, will appoint or is entitled to appoint, a receiver and manager mentioned in subsection (4); and
 
-(b) the making of the order is opposed by a person who has appointed or is entitled to appoint such a receiver and manager.
+(b) the Court is satisfied that the prejudice that would be caused to the person mentioned in paragraph (a) if the order is made is disproportionately greater than the prejudice that would be caused to unsecured creditors of the company if the application is dismissed.
 
-[13/87]
+[Act 15 of 2017 wef 23/05/2017]
 
 (6) On hearing the application for a judicial management order, the Court may dismiss the application or adjourn the hearing conditionally or unconditionally or make an interim order or any other order that it thinks fit.
 
@@ -13523,13 +14057,21 @@ Notwithstanding paragraph (a), where a person is appointed by the Court or nomin
 
 (a) after the company has gone into liquidation;
 
-(b) where the company is a bank licensed under the Banking Act (Cap. 19) or is a finance company licensed under the Finance Companies Act (Cap. 108); or
+(b) where the company is a bank licensed under the Banking Act (Cap. 19) or is a finance company licensed under the Finance Companies Act (Cap. 108);
 
-(c) where the company is an insurance company licensed under the Insurance Act (Cap. 142).
+[Act 15 of 2017 wef 23/05/2017]
+
+(c) where the company is an insurance company licensed under the Insurance Act (Cap. 142); or
 
 [13/87]
 
 [Act 11 of 2013 wef 18/04/2013]
+
+[Act 15 of 2017 wef 23/05/2017]
+
+(d) where the company belongs to such class of companies as the Minister may by order in theGazetteprescribe.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (8) A judicial management order shall, unless it is otherwise discharged, remain in force for a period of 180 days from the date of the making of the order but the Court may, on application of a judicial manager, increase this period subject to such terms as the Court may impose.
 
@@ -13547,9 +14089,7 @@ Notwithstanding paragraph (a), where a person is appointed by the Court or nomin
 
 [13/87; 42/2005]
 
-(11) For the purposes of this Part, “property” in relation to a company includes money, goods, things in action and every description of property, whether real or personal, and whether in Singapore or elsewhere, and also obligations and every description of interest whether present or future or vested or contingent arising out of, or incidental to, property.
-
-[13/87]
+(11) [Deleted by Act 15 of 2017 wef 23/05/2017]
 
 (12) The definition in section 254(2) of “inability to pay debts” shall apply for the purposes of this section as it applies for the purposes of Division 2 of Part X.
 
@@ -13593,15 +14133,31 @@ shall be charged on and, subject to subsection (4), paid out of any property whi
 
 (4) During the period for which a judicial management order is in force —
 
-(a) no resolution shall be passed or order made for the winding up of the company;
+(a) no order may be made, and no resolution may be passed, for the winding up of the company;
 
-(b) no receiver and manager of the kind referred to in section 227B(4) of the company shall be appointed;
+(b) no receiver or manager may be appointed over any property or undertaking of the company;
 
-(c) no other proceedings and no execution or other legal process shall be commenced or continued and no distress may be levied against the company or its property except with the consent of the judicial manager or with leave of the Court and (where the Court gives leave) subject to such terms as the Court may impose; and
+(c) no other proceedings may be commenced or continued against the company, except with the consent of the judicial manager, or with the leave of the Court and subject to such terms as the Court imposes;
 
-(d) no steps shall be taken to enforce security over the company’s property or to repossess any goods under any hire-purchase agreement, chattels leasing agreement or retention of title agreement except with the consent of the judicial manager or with leave of the Court and (where the Court gives leave) subject to such terms as the Court may impose.
+(d) no execution, distress or other legal process may be commenced, continued or levied against any property of the company, except with the consent of the judicial manager, or with the leave of the Court and subject to such terms as the Court imposes;
 
-[13/87]
+(e) no step may be taken to enforce any security over any property of the company, or to repossess any goods under any chattels leasing agreement, hire‑purchase agreement, or retention of title agreement, except with the consent of the judicial manager, or with the leave of the Court and subject to such terms as the Court imposes; and
+
+(f) despite sections 18 and 18A of the Conveyancing and Law of Property Act (Cap. 61), no right of re‑entry or forfeiture under any lease in respect of any premises occupied by the company may be enforced, except with the consent of the judicial manager, or with the leave of the Court and subject to such terms as the Court imposes.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+(5) Subsection (4) does not affect the exercise of any legal right under any arrangement (including a set‑off arrangement or a netting arrangement) that may be prescribed by regulations made under section 411.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+(6) In this section —
+
+“netting arrangement” means an arrangement under which 2 or more claims or obligations can be converted into a net claim or obligation, and includes a close‑out netting arrangement (under which actual or theoretical debts are calculated during the course of a contract for the purpose of enabling them to be set‑off against each other or to be converted into a net debt);
+
+“set‑off arrangement” means an arrangement under which 2 or more debts, claims or obligations can be set off against each other.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 ### Notification of judicial management order
 
@@ -13719,23 +14275,83 @@ Seven days’ notice of an application by the judicial manager to the Court to d
 
 [13/87]
 
-(9) For the purposes of sections 227C and 227D and this section —
-
-“chattels leasing agreement” means an agreement for the bailment of goods which is capable of subsisting for more than 3 months;
-
-“hire-purchase agreement” means a hire-purchase agreement as defined in section 2 of the Hire-Purchase Act (Cap. 125);
-
-“retention of title agreement” means an agreement for the sale of goods to a company, being an agreement —
-
-(a) which does not constitute a charge on the goods; but
-
-(b) under which, if the seller is not paid and the company is wound up, the seller will have priority over all other creditors of the company as respects the goods or any property representing the goods.
-
-[13/87]
+(9) [Deleted by Act 15 of 2017 wef 23/05/2017]
 
 (10) Nothing in this section shall be regarded as prejudicing an application to the Court under section 227R.
 
 [13/87]
+
+### Super priority for rescue financing
+
+227HA\.—(1) At any time when a judicial management order is in force, the Court may, on an application by the judicial manager, make one or more of the following orders:
+
+(a) an order that if the company is wound up, the debt arising from any rescue financing obtained, or to be obtained, by the company is to be treated as if it were part of the costs and expenses of the winding up mentioned in section 328(1)(a);
+
+(b) an order that if the company is wound up, the debt arising from any rescue financing obtained, or to be obtained, by the company is to have priority over all the preferential debts specified in section 328(1)(a) to (g) and all other unsecured debts, if the company would not have been able to obtain the rescue financing from any person unless the debt arising from the rescue financing is given the priority mentioned in this paragraph;
+
+(c) an order that the debt arising from any rescue financing to be obtained by the company is to be secured by —
+
+(i) a security interest on property of the company that is not otherwise subject to any security interest; or
+
+(ii) a subordinate security interest on property of the company that is subject to an existing security interest,
+
+if the company would not have been able to obtain the rescue financing from any person unless the debt arising from the rescue financing is secured in the manner mentioned in this paragraph;
+
+(d) an order that the debt arising from any rescue financing to be obtained by the company is to be secured by a security interest, on property of the company that is subject to an existing security interest, of the same priority as or a higher priority than that existing security interest, if —
+
+(i) the company would not have been able to obtain the rescue financing from any person unless the debt arising from the rescue financing is secured in the manner mentioned in this paragraph; and
+
+(ii) there is adequate protection for the interests of the holder of that existing security interest.
+
+(2) A judicial manager that makes an application under subsection (1) must send a notice of the application to each creditor of the company.
+
+(3) Any creditor of the company may oppose an application under subsection (1).
+
+(4) Where a company that has 2 or more super priority debts is wound up, the super priority debts —
+
+(a) rank equally in priority between themselves; and
+
+(b) are to be paid in full or, if the company has insufficient property to meet them, are to abate in equal proportions between themselves.
+
+(5) Where a company that has 2 or more super priority debts is wound up, the super priority debts constitute one class of debts and, despite section 328 —
+
+(a) the super priority debts are to be paid in priority to all the preferential debts specified in section 328(1)(a) to (g) and all other unsecured debts; and
+
+(b) if the property of the company available for the payment of the super priority debts is insufficient to meet the super priority debts, the super priority debts —
+
+(i) have priority over the claims of the holders of any debentures of the company secured by a floating charge (which, as created, was a floating charge); and
+
+(ii) are to be paid out of any property comprised in or subject to that floating charge.
+
+(6) The reversal or modification on appeal of an order under subsection (1)(c) or (d) does not affect the validity of any debt so incurred, or any security interest that was granted pursuant to the order, or the priority of that security interest, if the rescue financing (from which arose the debt intended to be secured by that security interest) was provided in good faith, whether or not with knowledge of the appeal, unless the order was stayed pending the appeal before the rescue financing was provided.
+
+(7) For the purposes of subsection (1)(d)(ii), there is adequate protection for the interests of the holder of an existing security interest on the property of a company, if —
+
+(a) the Court orders the company to make one or more cash payments to the holder, the total amount of which is sufficient to compensate the holder for any decrease in the value of the holder’s existing security interest that may result from the making of the order under subsection (1)(d);
+
+(b) the Court orders the company to provide to the holder additional or replacement security of a value sufficient to compensate the holder for any decrease in the value of the holder’s existing security interest that may result from the making of the order under subsection (1)(d); or
+
+(c) the Court grants any relief (other than compensation) that will result in the realisation by the holder of the indubitable equivalent of the holder’s existing security interest.
+
+(8) Section 329 does not affect any priority conferred, any security interest or relief granted, or any payment made, pursuant to and in accordance with an order made by the Court under subsection (1).
+
+(9) The judicial manager must, within 14 days after the date of an order under subsection (1), lodge a copy of the order with the Registrar.
+
+(10) In this section —
+
+“rescue financing” means any financing that satisfies one or more of the following conditions:
+
+(a) the financing is necessary for the survival of a company that obtains the financing, or of the whole or any part of the undertaking of that company, as a going concern;
+
+(b) the financing is necessary for the Court’s approval under section 210(4) or 211I(6) of a compromise or an arrangement mentioned in section 210(1) or 211I(1) (as the case may be) involving a company that obtains the financing;
+
+(c) the financing is necessary to achieve a more advantageous realisation of the assets of a company that obtains the financing, than on a winding up of that company;
+
+“security interest” means any mortgage, charge, pledge, lien or other type of security interest recognised by law;
+
+“super priority debt” means a debt, arising from any rescue financing obtained or to be obtained by a company, that is to have priority, pursuant to an order under subsection (1)(b), over all the preferential debts specified in section 328(1)(a) to (g) and all other unsecured debts, if the company is wound up.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 ### Agency and liability for contracts
 
@@ -13799,7 +14415,9 @@ shall be charged on and paid out of the property of the company in his custody o
 
 (a) immediately send to the Registrar a copy of the order;
 
-(b) immediately send to the company and publish a notice of the order in theGazetteand in an English and Chinese local daily newspaper; and
+(b) immediately send to the company and publish a notice of the order in theGazetteand in an English local daily newspaper; and
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (c) within 28 days after the making of the order, unless the Court otherwise directs, send such a notice to all creditors of the company (so far as he is aware of the addresses),
 
@@ -13877,9 +14495,11 @@ and in this subsection “employment” includes employment under a contract for
 
 (a) send a copy of the statement (so far as he is aware of their addresses) to all members of the company; or
 
-(b) publish a notice in an English and Chinese local daily newspaper stating an address to which members of the company should write for copies of the statement to be sent to them free of charge.
+(b) publish a notice in an English local daily newspaper stating an address to which members of the company should write for copies of the statement to be sent to them free of charge.
 
 [13/87]
+
+[Act 15 of 2017 wef 23/05/2017]
 
 ### Consideration of proposals by creditors’ meeting
 
@@ -13895,9 +14515,11 @@ and in this subsection “employment” includes employment under a contract for
 
 [13/87]
 
-(4) If a report is given to the Court under subsection (3) that the meeting has declined to approve the judicial manager’s proposals (with or without modifications), the Court may by order discharge the judicial management order and make such consequential provision as it thinks fit, or adjourn the hearing conditionally or unconditionally, or make an interim order or any other order that it thinks fit. A copy of any order of Court made under this subsection shall be published in an English and Chinese local daily newspaper.
+(4) If a report is given to the Court under subsection (3) that the meeting has declined to approve the judicial manager’s proposals (with or without modifications), the Court may by order discharge the judicial management order and make such consequential provision as it thinks fit, or adjourn the hearing conditionally or unconditionally, or make an interim order or any other order that it thinks fit. A copy of any order of Court made under this subsection shall be published in an English local daily newspaper.
 
 [13/87]
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (5) Where the judicial management order is discharged, the judicial manager shall immediately send to the Registrar a copy of the order effecting the discharge.
 
@@ -13937,9 +14559,11 @@ and shall not make the proposed revisions unless they are approved by the majori
 
 (a) send a copy of the statement (so far as he is aware of their addresses) to all members of the company; or
 
-(b) publish a notice in an English and Chinese local daily newspaper stating an address to which members of the company should write for copies of the statement to be sent to them free of charge.
+(b) publish a notice in an English local daily newspaper stating an address to which members of the company should write for copies of the statement to be sent to them free of charge.
 
 [13/87]
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (4) A meeting of creditors summoned under subsection (2) (which shall, subject to subsection (2) and this subsection, be conducted in accordance with the regulations) may approve the proposed revisions with modifications but shall not do so unless the judicial manager consents to each modification.
 
@@ -13993,9 +14617,11 @@ and shall not make the proposed revisions unless they are approved by the majori
 
 [13/87; 42/2005]
 
-(4) An order under this section shall not prejudice or prevent the implementation of any composition or scheme approved under section 210.
+(4) An order under this section shall not prejudice or prevent the implementation of any composition or scheme approved under section 210 or 211I.
 
 [13/87]
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (5) Where the judicial management order is discharged, the judicial manager shall immediately send to the Registrar a copy of the order effecting the discharge.
 
@@ -14123,25 +14749,109 @@ and may authorise a person arrested under such a warrant to be kept in custody, 
 
 227X\. At any time when a judicial management order is in force in relation to a company under judicial management —
 
-(a) section 210 shall apply as if —
+(a) section 210 applies as if —
 
 (i)
 
-subsections (1) and (2) were substituted with the following subsection:
+the following subsection replaces subsections (1) and (2):
 
-“(1) Where a compromise or an arrangement is proposed between a company and its creditors, the Court may on the application of the judicial manager order a meeting of creditors to be summoned in such manner as the Court directs.”;
+“(1) Where a compromise or an arrangement is proposed between a company under judicial management and its creditors or any class of those creditors, the Court may, on the application of the judicial manager, order a meeting of the creditors or class of creditors to be summoned in such manner as the Court directs.”; and
 
 (ii)
 
-subsections (3AA) and (3AB) were substituted with the following subsection:
+the following subsections replace subsections (3), (3AA) and (3AB):
 
-“(3AA) If three-fourths in value of the creditors present and voting either in person or by proxy at the meeting agree to any compromise or arrangement, the compromise or arrangement shall, if approved by the Court, be binding on all the creditors and on the judicial manager.”; and
+“(3) A meeting held pursuant to an order under subsection (1) may be adjourned from time to time if the resolution for the adjournment is approved by a majority in number representing three‑fourths in value of the creditors or class of creditors (as the case may be) present and voting either in person or by proxy at the meeting.
+
+(3AA) If the conditions set out in subsection (3AB) are satisfied, a compromise or an arrangement is binding on the company, on the judicial manager, and on the creditors or class of creditors (as the case may be).
+
+(3AB) The conditions mentioned in subsection (3AA) are as follows:
+
+(a)
+
+a majority in number, or such other number as the Court may order, of the creditors or class of creditors (as the case may be) present and voting either in person or by proxy at the meeting or the adjourned meeting agrees to the compromise or arrangement;
+
+(b)
+
+the majority in number, or other number, of the creditors or class of creditors (as the case may be) mentioned in paragraph (a) represents three‑fourths in value of the creditors or class of creditors (as the case may be) present and voting either in person or by proxy at the meeting or the adjourned meeting; and
+
+(c)
+
+the compromise or arrangement is approved by order of the Court.”;
+
+[Act 15 of 2017 wef 23/05/2017]
+
+(aa) section 211F applies as if —
+
+(i)
+
+the following subsection replaces subsection (1):
+
+“(1) Where the Court orders under section 210(1) a meeting of the creditors, or a class of creditors, of a company under judicial management to be summoned, the judicial manager must state in every notice mentioned in section 211(1) summoning the meeting (called in this section the notice summoning the meeting) —
+
+(a)
+
+the manner in which a creditor is to file a proof of debt with the company; and
+
+(b)
+
+the period within which the proof is to be filed.”; and
+
+(ii)
+
+the word “company” in subsections (3), (4), (9), (10) and (14)(a) was replaced by the words “judicial manager”;
+
+[Act 15 of 2017 wef 23/05/2017]
+
+(ab) section 211G applies as if the following subsection replaces subsection (1):
+
+“(1) At the hearing of an application for the Court’s approval under section 210(4) of a compromise or an arrangement between a company under judicial management and its creditors or any class of those creditors, the Court may order the judicial manager to hold another meeting of the creditors or class of creditors (called in this section the further meeting) for the purpose of putting the compromise or arrangement to a re‑vote.”;
+
+[Act 15 of 2017 wef 23/05/2017]
+
+(ac) section 211H applies as if —
+
+(i)
+
+the following subsection replaces subsection (2):
+
+“(2) Despite section 210(3AA) and (3AB)(a) and (b), the Court may, subject to this section and on the application of the judicial manager, or a creditor of the company who has obtained the leave of the Court to make an application under this subsection, approve the compromise or arrangement, and order that the compromise or arrangement be binding on the judicial manager, the company and all classes of creditors meant to be bound by the compromise or arrangement.”;
+
+(ii)
+
+the following paragraph replaces paragraph (a) of subsection (4):
+
+“(a)
+
+no creditor in the dissenting class receives, under the terms of the compromise or arrangement, an amount that is lower than what the creditor is estimated by the Court to receive in the most likely scenario if the compromise or arrangement does not become binding on the judicial manager, the company and all classes of creditors meant to be bound by the compromise or arrangement; and”; and
 
 (iii)
 
-the references to “subsection (3AB)(c)” in subsections (5) and (6) were substituted with “subsection (3AA)”; and
+the following subsection replaces subsection (5):
 
-[Act 36 of 2014 wef 03/01/2016]
+“(5) The Court may appoint any person of suitable knowledge, qualification or experience to assist the Court in estimating the amount that a creditor is expected to receive in the most likely scenario if the compromise or arrangement does not become binding on the judicial manager, the company and all classes of creditors meant to be bound by the compromise or arrangement.”;
+
+[Act 15 of 2017 wef 23/05/2017]
+
+(ad) section 211I applies as if —
+
+(i)
+
+the following subsections replace subsections (1) and (2):
+
+“(1) Despite section 210 but subject to this section, where a compromise or an arrangement is proposed between a company under judicial management and its creditors or any class of those creditors, the Court may, on an application made by the judicial manager, make an order approving the compromise or arrangement, even though no meeting of the creditors or class of creditors has been ordered under section 210(1) or held.
+
+(2) Subject to subsection (12), if the compromise or arrangement is approved by order of the Court under subsection (1), the compromise or arrangement is binding on the judicial manager, the company and the creditors or class of creditors meant to be bound by the compromise or arrangement.”;
+
+(ii)
+
+the words “the company has provided” in subsection (3)(a) were replaced by the words “the judicial manager has provided”; and
+
+(iii)
+
+the word “company” in subsections (3)(b) and (c), (4) and (9) was replaced by the words “judicial manager”; and
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (b) sections 337, 340, 341 and 342 shall apply as if the company under judicial management were a company being wound up and the judicial manager were the liquidator, but this shall be without prejudice to the power of the Court to order that any other section in Part X shall apply to a company under judicial management as if it applied in a winding up by the Court and any reference to the liquidator shall be taken as a reference to the judicial manager and any reference to a contributory as a reference to a member of the company.
 
@@ -16622,7 +17332,13 @@ unregistered companies
 
 (ii) if the company is unable to pay its debts;
 
-(iii) if the Court is of opinion that it is just and equitable that the company should be wound up.
+(iii) if the Court is of opinion that it is just and equitable that the company should be wound up;
+
+[Act 15 of 2017 wef 23/05/2017]
+
+(d) where the company is a foreign company, it may be wound up only if it has a substantial connection with Singapore.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (2) An unregistered company shall be deemed to be unable to pay its debts if —
 
@@ -16638,9 +17354,27 @@ unregistered companies
 
 (d) it is otherwise proved to the satisfaction of the Court that the company is unable to pay its debts.
 
+(2A) For the purposes of subsection (1)(d), the Court may rely on the presence of one or more of the following matters to support a determination that a foreign company has a substantial connection with Singapore:
+
+(a) Singapore is the centre of main interests of the company;
+
+(b) the company is carrying on business in Singapore or has a place of business in Singapore;
+
+(c) the company is a foreign company that is registered under Division 2 of Part XI;
+
+(d) the company has substantial assets in Singapore;
+
+(e) the company has chosen Singapore law as the law governing a loan or other transaction, or the law governing the resolution of one or more disputes arising out of or in connection with a loan or other transaction;
+
+(f) the company has submitted to the jurisdiction of the Court for the resolution of one or more disputes relating to a loan or other transaction.
+
+[Act 15 of 2017 wef 23/05/2017]
+
 (3) A company incorporated outside Singapore may be wound up as an unregistered company under this Division notwithstanding that it is being wound up or has been dissolved or has otherwise ceased to exist as a company under the laws of the place under which it was incorporated.
 
-(4) In this section, “to carry on business” has the same meaning as in section 366.
+(4) In this section, “carrying on business” and “to carry on business” have the same meaning as in section 366.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 [UK, 1948, ss. 399, 400; Aust., 1961, s. 315]
 
@@ -16683,6 +17417,40 @@ and every contributory shall be liable to contribute to the assets of the compan
 (3) Where it appears to the Minister that any law in force in any other country contains provisions similar to this section, he may, by notification in theGazette, declare that other country to be a designated country for the purposes of this section.
 
 [Aust., 1961, s. 318]
+
+Division 6 —
+
+Adoption of UNCITRAL Model Law on Cross‑Border Insolvency
+
+### Interpretation of this Division
+
+354A\. In this Division, “Model Law” means the UNCITRAL Model Law on Cross‑Border Insolvency adopted by the United Nations Commission on International Trade Law on 30 May 1997.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Model Law to have force of law
+
+354B\.—(1) The Model Law (with certain modifications to adapt it for application in Singapore) as set out in the Tenth Schedule has the force of law in Singapore.
+
+(2) In the interpretation of any provision of the Tenth Schedule, the following documents are relevant documents for the purposes of section 9A(3)(f) of the Interpretation Act (Cap. 1):
+
+(a) any document relating to the Model Law that is issued by, or that forms part of the record on the preparation of the Model Law maintained by, the United Nations Commission on International Trade Law and its working group for the preparation of the Model Law;
+
+(b) the Guide to Enactment of the UNCITRAL Model Law on Cross‑Border Insolvency (UN document A/CN.9/442).
+
+(3) The Minister may, by notification in theGazette, add to, vary or amend the Tenth Schedule.
+
+[Act 15 of 2017 wef 23/05/2017]
+
+### Interaction with Singapore insolvency law
+
+354C\.—(1) Singapore insolvency law applies with such modifications as the context requires for the purpose of giving effect to this Division and the Tenth Schedule.
+
+(2) This Division and the Tenth Schedule do not derogate from the operation of section 377(2), (3), (4), (4A) and (7).
+
+(3) In this section, “Singapore insolvency law” has the same meaning as in Article 2(k) of the Tenth Schedule.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 ## PART XI
 
@@ -17090,13 +17858,15 @@ the foreign company shall, within 30 days or within such further period as the R
 
 (3) [Deleted by Act 36 of 2014 wef 03/01/2016]
 
-(4) If any order is made by a court under any law in force in the country in which a foreign company is incorporated which corresponds to section 210, the company shall, within 30 days or within such further period as the Registrar in special circumstances allows after the order was made, lodge with the Registrar a copy of that order.
+(4) If any order is made by a court under any law in force in the country in which a foreign company is incorporated which corresponds to section 210 or 211I, the company shall, within 30 days or within such further period as the Registrar in special circumstances allows after the order was made, lodge with the Registrar a copy of that order.
 
 [12/2002]
 
-[UK, 1948, s. 409; Aust., 1961, s. 347]
-
 [Act 36 of 2014 wef 03/01/2016]
+
+[Act 15 of 2017 wef 23/05/2017]
+
+[UK, 1948, s. 409; Aust., 1961, s. 347]
 
 ### Financial statements
 
@@ -17270,9 +18040,19 @@ As to fee payable on registration of foreign company because of establishment of
 
 (b) subject to subsection (7), shall not, without obtaining an order of the Court, pay out any creditor to the exclusion of any other creditor of the foreign company; and
 
-(c) shall, unless otherwise ordered by the Court, only recover and realise the assets of the foreign company in Singapore and shall, subject to paragraph (b) and subsection (7), pay the net amount so recovered and realised to the liquidator of that foreign company for the place where it was formed or incorporated after paying any debts and satisfying any liabilities incurred in Singapore by the foreign company.
+(c) must, unless otherwise ordered by the Court, only recover and realise the assets of the foreign company in Singapore and, subject to paragraph (b) and subsection (7) —
+
+(i) in a case where the foreign company is, or was prior to the liquidation or dissolution carrying on business as, a relevant company, pay the net amount so recovered and realised to the liquidator of that foreign company for the place where it was formed or incorporated after paying any debts and satisfying any liabilities incurred in Singapore by the foreign company; or
+
+(ii) in any other case, pay the net amount so recovered and realised to the liquidator of that foreign company for the place where it was formed or incorporated.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (4) Where a foreign company has been wound up so far as its assets in Singapore are concerned and there is no liquidator for the place of its incorporation or origin, the liquidator may apply to the Court for directions as to the disposal of the net amount recovered in pursuance of subsection (3).
+
+(4A) A liquidator of a foreign company appointed for Singapore by the Court or a person exercising the powers and functions of such a liquidator must, before paying any amount so recovered and realised in Singapore to the liquidator of that foreign company for the place where it was formed or incorporated, be satisfied that the interests of creditors in Singapore are adequately protected.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (5) On receipt of a notice from an authorised representative that the foreign company has been dissolved, the Registrar shall record in the register that the foreign company has been dissolved.
 
@@ -17313,6 +18093,40 @@ As to fee payable on registration of foreign company because of establishment of
 (13) Any person aggrieved by the decision of the Registrar under subsection (8), (9) or (10) may, within 30 days after the date of the decision, appeal to the Minister whose decision is final.
 
 [Act 36 of 2014 wef 03/01/2016]
+
+(14) In this section, “relevant company” means a foreign company that is any of the following:
+
+(a) a bank licensed under section 7 of the Banking Act (Cap. 19);
+
+(b) a merchant bank, or any other financial institution, approved under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
+
+(c) a finance company licensed under section 6 of the Finance Companies Act (Cap. 108);
+
+(d) a person licensed to carry on a remittance business under section 8 of the Money‑changing and Remittance Businesses Act (Cap. 187);
+
+(e) a licensed insurer licensed under section 8 of the Insurance Act (Cap. 142);
+
+(f) a recognised market operator as defined in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+(g) a licensed foreign trade repository as defined in section 2(1) of the Securities and Futures Act;
+
+(h) a recognised clearing house as defined in section 2(1) of the Securities and Futures Act;
+
+(i) an approved holding company as defined in section 2(1) of the Securities and Futures Act;
+
+(j) a holder of a capital markets services licence granted under section 86 of the Securities and Futures Act that does not only carry on the business of providing credit rating services;
+
+(k) a Registered Fund Management Company as defined in the Securities and Futures (Licensing and Conduct of Business) Regulations (Cap. 289, Rg 10);
+
+(l) a financial adviser licensed under section 13 of the Financial Advisers Act (Cap. 110);
+
+(m) a licensed trust company licensed under section 5 of the Trust Companies Act (Cap. 336);
+
+(n) an operator of a designated payment system designated under section 7 of the Payment Systems (Oversight) Act (Cap. 222A);
+
+(o) an approved holder of a widely accepted stored value facility approved under section 35 of the Payment Systems (Oversight) Act.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 ### Application for administrative restoration of foreign company to register
 
@@ -18739,6 +19553,10 @@ Miscellaneous
 
 (a) the duties and functions of the Registrar, Deputy Registrars, Assistant Registrars and other persons appointed to assist with the administration of this Act;
 
+(aa) all matters connected with or arising out of a compromise or an arrangement between a company and its creditors or any class of those creditors;
+
+[Act 15 of 2017 wef 23/05/2017]
+
 (b) all matters connected with or arising out of the judicial management of a company by a judicial manager including the appointment of the judicial manager;
 
 (ba) [Deleted by Act 42 of 2001]
@@ -19080,7 +19898,485 @@ NINTH SCHEDULE
 
 TENTH SCHEDULE
 
-(Repealed by S 675/2001)
+Sections 354B and 354C
+
+Uncitral model law on cross-border insolvency
+
+PREAMBLE
+
+The purpose of this Law is to provide effective mechanisms for dealing with cases of cross-border insolvency so as to promote the objectives of —
+
+(a) cooperation between the courts and other competent authorities of Singapore and foreign States involved in cases of cross-border insolvency;
+
+(b) greater legal certainty for trade and investment;
+
+(c) fair and efficient administration of cross-border insolvencies that protects the interests of all creditors and other interested persons, including the debtor;
+
+(d) protection and maximisation of the value of the debtor’s property; and
+
+(e) facilitation of the rescue of financially troubled businesses, thereby protecting investment and preserving employment.
+
+Chapter I
+
+GENERAL PROVISIONS
+
+Article 1. Scope of Application
+
+1. This Law applies where —
+
+(a) assistance is sought in Singapore by a foreign court or a foreign representative in connection with a foreign proceeding;
+
+(b) assistance is sought in a foreign State in connection with a proceeding under Singapore insolvency law;
+
+(c) a foreign proceeding and a proceeding under Singapore insolvency law in respect of the same debtor are taking place concurrently; or
+
+(d) creditors or other interested persons in a foreign State have an interest in requesting the commencement of, or participating in, a proceeding under Singapore insolvency law.
+
+2\. This Law does not apply to any proceedings concerning such entities or classes of entities which the Minister may, by order in theGazette, prescribe.
+
+3. The Court must not grant any relief, or modify any relief already granted, or provide any cooperation or coordination, under or by virtue of any of the provisions of this Law if and to the extent that such relief or modified relief or cooperation or coordination would, in the case of a proceeding under Singapore insolvency law, be prohibited under or by virtue of —
+
+(a) this Act;
+
+(b) Part VII or section 61, 62 or 76A of the Banking Act (Cap. 19);
+
+(c) section 27(2) or 52(2) of the Deposit Insurance and Policy Owners’ Protection Schemes Act (Cap. 77B);
+
+(d) Part IIIAA of the Insurance Act (Cap. 142);
+
+(e) the International Interests in Aircraft Equipment Act (Cap. 144B);
+
+(f) Part IVA or IVB or section 41C of the Monetary Authority of Singapore Act (Cap. 186);
+
+(g) the Payment and Settlement Systems (Finality and Netting) Act (Cap. 231);
+
+(h) Division 4 of Part III, or Part IIIAA, of the Securities and Futures Act (Cap. 289); or
+
+(i) any other written law that the Minister may, by order in theGazette, prescribe.
+
+4. Where a foreign proceeding regarding a debtor, who is an insured under the provisions of a relevant Act (being the Third Parties (Rights against Insurers) Act (Cap. 395) or the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189)), is recognised under this Law, any stay and suspension mentioned in Article 20(1) and any relief granted by the Court under Article 19 or 21 does not apply to or affect —
+
+(a) any transfer of rights of the debtor under that relevant Act; or
+
+(b) any claim, action, cause or proceeding by a third party against an insurer under or in respect of rights of the debtor transferred under that relevant Act.
+
+5. Any suspension under this Law of the right to transfer, encumber or otherwise dispose of any of the debtor’s property —
+
+(a) is subject to sections 46 and 47 of the Land Titles Act (Cap. 157) in relation to any estate or interest in land under the provisions of that Act; and
+
+(b) in any other case, does not bind a purchaser of any estate or interest in land in good faith for money or money’s worth unless the purchaser has express notice of the suspension.
+
+6\. In paragraph 5, “land” has the same meaning as in section 4(1) of the Land Titles Act.
+
+Article 2. Definitions
+
+For the purposes of this Law —
+
+(a) “the Court” except as otherwise provided in Articles 14(4) and 23(6)(b), means the Court mentioned in Article 4(1);
+
+(b) “chattel agreement” includes a conditional sale agreement, a chattels leasing agreement (as defined in section 227AA of this Act) and a retention of title agreement (as defined in section 227AA of this Act);
+
+(c) “debtor” means a corporation as defined in section 4(1) of this Act;
+
+(d) “establishment” means any place where the debtor has property, or any place of operations where the debtor carries out a non‑transitory economic activity with human means and property or services;
+
+(e) “foreign court” means a judicial or other authority competent to control or supervise a foreign proceeding;
+
+(f) “foreign main proceeding” means a foreign proceeding taking place in the State where the debtor has its centre of main interests;
+
+(g) “foreign non‑main proceeding” means a foreign proceeding, other than a foreign main proceeding, taking place in a State where the debtor has an establishment;
+
+(h) “foreign proceeding” means a collective judicial or administrative proceeding in a foreign State, including an interim proceeding, under a law relating to insolvency or adjustment of debt in which proceeding the property and affairs of the debtor are subject to control or supervision by a foreign court, for the purpose of reorganisation or liquidation;
+
+(i) “foreign representative” means a person or body, including one appointed on an interim basis, authorised in a foreign proceeding to administer the reorganisation or the liquidation of the debtor’s property or affairs or to act as a representative of the foreign proceeding;
+
+(j) “security” means any mortgage, charge, lien or other security;
+
+(k) “Singapore insolvency law” means any of the following:
+
+(i) sections 210 to 212 and Parts VIIIA and X of this Act;
+
+(ii) any subsidiary legislation made under any section or Part of this Act mentioned in sub‑paragraph (i);
+
+(iii) the common law of Singapore relating to or in connection with the subject‑matter of any section or Part of this Act mentioned in sub‑paragraph (i), or the subject‑matter of any subsidiary legislation mentioned in sub‑paragraph (ii);
+
+(l) “Singapore insolvency officeholder” means —
+
+(i) the Official Receiver, when acting as liquidator, provisional liquidator or scheme manager of a scheme of arrangement under this Act; or
+
+(ii) a person acting as a liquidator, provisional liquidator, judicial manager, interim judicial manager or scheme manager of a scheme of arrangement under this Act;
+
+(m) “State” means Singapore and any country other than Singapore;
+
+(n) any reference to the law of Singapore includes a reference to the rules of private international law applicable in Singapore.
+
+Article 3. International obligations of Singapore
+
+To the extent that this Law conflicts with an obligation of Singapore arising out of any treaty or other form of agreement to which it is a party with one or more other States, the requirements of the treaty or agreement prevail.
+
+Article 4. Competent Court
+
+1\. The functions mentioned in this Law relating to recognition of foreign proceedings and cooperation with foreign courts are to be performed by the High Court in Singapore.
+
+2. Subject to paragraph 1 of this Article, the Court has jurisdiction in relation to the functions mentioned in that paragraph if —
+
+(a) the debtor —
+
+(i) is or has been carrying on business within the meaning of section 366 of this Act in Singapore; or
+
+(ii) has property situated in Singapore; or
+
+(b) the Court considers for any other reason that it is the appropriate forum to consider the question or provide the assistance requested.
+
+Article 5. Authorisation of Singapore insolvency officeholders to act in a foreign State
+
+1\. A Singapore insolvency officeholder is authorised to act in a foreign State on behalf of a proceeding under Singapore insolvency law, as permitted by the applicable foreign law.
+
+2\. The Court has the power to appoint any other person or persons to act in a foreign State on behalf of a proceeding under Singapore insolvency law, as permitted by the applicable foreign law.
+
+Article 6. Public policy exception
+
+Nothing in this Law prevents the Court from refusing to take an action governed by this Law, if the action would be contrary to the public policy of Singapore.
+
+Article 7. Additional assistance under other laws
+
+Nothing in this Law limits the power of a Court or a Singapore insolvency officeholder to provide additional assistance to a foreign representative under other laws of Singapore.
+
+Article 8. Interpretation
+
+In the interpretation of this Law, regard is to be had to its international origin and to the need to promote uniformity in its application and the observance of good faith.
+
+Chapter II
+
+ACCESS OF FOREIGN REPRESENTATIVES AND
+
+
+
+
+CREDITORS TO COURTS IN SINGAPORE
+
+Article 9. Right of direct access
+
+A foreign representative is entitled to apply directly to the Court in Singapore.
+
+Article 10. Limited jurisdiction
+
+The sole fact that an application under this Law is made to the Court in Singapore by a foreign representative does not subject the foreign representative or the foreign property and affairs of the debtor to the jurisdiction of the courts of Singapore for any purpose other than the application.
+
+Article 11. Application by a foreign representative to commence a proceeding under Singapore insolvency law
+
+A foreign representative appointed in a foreign main proceeding or foreign non‑main proceeding is entitled to apply to commence a proceeding under Singapore insolvency law if the conditions for commencing such a proceeding are otherwise met.
+
+Article 12. Participation of a foreign representative in a proceeding under Singapore insolvency law
+
+Upon recognition of a foreign proceeding, the foreign representative is entitled to participate in a proceeding regarding the debtor under Singapore insolvency law.
+
+Article 13. Access of foreign creditors to a proceeding under Singapore insolvency law
+
+1\. Subject to paragraph 2 of this Article, foreign creditors have the same rights regarding the commencement of, and participation in, a proceeding under Singapore insolvency law as creditors in Singapore.
+
+2\. Paragraph 1 of this Article does not affect the ranking of claims in a proceeding under Singapore insolvency law, or the exclusion of foreign tax claims, social security claims or claims for employees’ superannuation or provident funds or under any scheme of superannuation (collectively, “tax and social security obligations”) from such a proceeding. Nevertheless, the claims of foreign creditors other than those concerning tax and social security obligations are not to be given a lower priority than that of general unsecured claims solely because the holder of such a claim is a foreign creditor.
+
+Article 14. Notification to foreign creditors of a proceeding under Singapore insolvency law
+
+1\. Whenever under Singapore insolvency law notification is to be given to creditors in Singapore, such notification must also be given to the known creditors who do not have addresses in Singapore. The Court may order that appropriate steps be taken with a view to notifying any creditor whose address is not yet known.
+
+2. The notification under paragraph 1 of this Article must be made to the foreign creditors individually, unless —
+
+(a) the Court considers that under the circumstances some other form of notification would be more appropriate; or
+
+(b) the notification to creditors in Singapore is to be by advertisement only, in which case the notification to the known foreign creditors may be by advertisement in such foreign newspapers as the Singapore insolvency officeholder considers most appropriate for ensuring that the content of the notification comes to the notice of the known foreign creditors.
+
+3. When notification of a right to file a claim is to be given to foreign creditors, the notification must —
+
+(a) indicate a reasonable time period for filing claims and specify the place for their filing;
+
+(b) indicate whether secured creditors need to file their secured claims; and
+
+(c) contain any other information required to be included in such a notification to creditors under the law of Singapore and the orders of the Court.
+
+4\. In this Article, “the Court” means the Court which has jurisdiction in relation to the particular proceeding under Singapore insolvency law under which notification is to be given to creditors.
+
+Chapter III
+
+RECOGNITION OF A FOREIGN PROCEEDING AND RELIEF
+
+Article 15. Application for recognition of a foreign proceeding
+
+1\. A foreign representative may apply to the Court for recognition of the foreign proceeding in which the foreign representative has been appointed.
+
+2. An application for recognition must be accompanied by —
+
+(a) a certified copy of the decision commencing the foreign proceeding and appointing the foreign representative;
+
+(b) a certificate from the foreign court affirming the existence of the foreign proceeding and of the appointment of the foreign representative; or
+
+(c) in the absence of evidence mentioned in sub‑paragraphs (a) and (b), any other evidence acceptable to the Court of the existence of the foreign proceeding and of the appointment of the foreign representative.
+
+3\. An application for recognition must also be accompanied by a statement identifying all foreign proceedings and proceedings under Singapore insolvency law in respect of the debtor that are known to the foreign representative.
+
+4\. The foreign representative must provide the Court with a translation into English of documents supplied in support of the application for recognition.
+
+Article 16. Presumptions concerning recognition
+
+1\. If the decision or certificate mentioned in Article 15(2) indicates that the proceeding in respect of which an application for recognition is made is a foreign proceeding within the meaning of Article 2(h) and that the person or body making that application is a foreign representative within the meaning of Article 2(i), the Court is entitled to so presume.
+
+2\. The Court is entitled to presume that documents submitted in support of the application for recognition are authentic, whether or not they have been legalised.
+
+3\. In the absence of proof to the contrary, the debtor’s registered office is presumed to be the debtor’s centre of main interests.
+
+Article 17. Decision to recognise a foreign proceeding
+
+1. 
+
+Subject to Article 6, a proceeding must be recognised if —
+
+(a) it is a foreign proceeding within the meaning of Article 2(h);
+
+(b) the person or body applying for recognition is a foreign representative within the meaning of Article 2(i);
+
+(c) the application meets the requirements of Article 15(2) and (3); and
+
+(d) the application has been submitted to the Court mentioned in Article 4.
+
+2. The foreign proceeding must be recognised —
+
+(a) as a foreign main proceeding if it is taking place in the State where the debtor has its centre of main interests; or
+
+(b) as a foreign non‑main proceeding, if the debtor has an establishment within the meaning of Article 2(d) in the foreign State.
+
+3\. An application for recognition of a foreign proceeding must be decided upon at the earliest possible time.
+
+4\. The provisions of Articles 15 to 16, this Article and Article 18 do not prevent modification or termination of recognition if it is shown that the grounds for granting it were fully or partially lacking or have fully or partially ceased to exist; and in such a case, the Court may, on the application of the foreign representative or a person affected by the recognition, or of its own motion, modify or terminate recognition, either altogether or for a limited time, on such terms and conditions as the Court thinks fit.
+
+Article 18. Subsequent information
+
+From the time of filing the application for recognition of the foreign proceeding, the foreign representative must inform the Court promptly of —
+
+(a) any substantial change in the status of the recognised foreign proceeding or the status of the foreign representative’s appointment; and
+
+(b) any other foreign proceeding or proceeding under Singapore insolvency law regarding the same debtor that becomes known to the foreign representative.
+
+Article 19. Relief that may be granted upon application for recognition of a foreign proceeding
+
+1. From the time of filing an application for recognition until the application is decided upon, the Court may, at the request of the foreign representative, where relief is urgently needed to protect the property of the debtor or the interests of the creditors, grant relief of a provisional nature, including —
+
+(a) staying execution against the debtor’s property;
+
+(b) entrusting the administration or realisation of all or part of the debtor’s property located in Singapore to the foreign representative or another person designated by the Court, in order to protect and preserve the value of property that, by its nature or because of other circumstances, is perishable, susceptible to devaluation or otherwise in jeopardy; and
+
+(c) any relief mentioned in Article 21(1)(c), (d) or (g).
+
+2\. Unless extended under Article 21(1)(f), the relief granted under this Article terminates when the application for recognition is decided upon.
+
+3\. The Court may refuse to grant relief under this Article if such relief would interfere with the administration of a foreign main proceeding.
+
+Article 20. Effects of recognition of a foreign main proceeding
+
+1. Upon recognition of a foreign proceeding that is a foreign main proceeding, subject to paragraph 2 of this Article —
+
+(a) commencement or continuation of individual actions or individual proceedings concerning the debtor’s property, rights, obligations or liabilities is stayed;
+
+(b) execution against the debtor’s property is stayed; and
+
+(c) the right to transfer, encumber or otherwise dispose of any property of the debtor is suspended.
+
+2. The stay and suspension mentioned in paragraph 1 of this Article are —
+
+(a) the same in scope and effect as if the debtor had been made the subject of a winding up order under this Act; and
+
+(b) subject to the same powers of the Court and the same prohibitions, limitations, exceptions and conditions as would apply under the law of Singapore in such a case,
+
+and the provisions of paragraph 1 of this Article are to be interpreted accordingly.
+
+3. Without prejudice to paragraph 2 of this Article, the stay and suspension mentioned in paragraph 1 of this Article do not affect any right —
+
+(a) to take any steps to enforce security over the debtor’s property;
+
+(b) to take any steps to repossess goods in the debtor’s possession under a hire‑purchase agreement (as defined in section 227AA of this Act);
+
+(c) exercisable under or by virtue of or in connection with any written law mentioned in Article 1(3)(a) to (i); or
+
+(d) of a creditor to set off its claim against a claim of the debtor,
+
+being a right which would have been exercisable if the debtor had been made the subject of a winding up order under this Act.
+
+4. Paragraph 1(a) of this Article does not affect the right to —
+
+(a) commence individual actions or proceedings to the extent necessary to preserve a claim against the debtor; or
+
+(b) commence or continue any criminal proceedings or any action or proceedings by a person or body having regulatory, supervisory or investigative functions of a public nature, being an action or proceedings brought in the exercise of those functions.
+
+5\. Paragraph 1 of this Article does not affect the right to request or otherwise initiate the commencement of a proceeding under Singapore insolvency law or the right to file claims in such a proceeding.
+
+6\. In addition to and without prejudice to any powers of the Court under or by virtue of paragraph 2 of this Article, the Court may, on the application of the foreign representative or a person affected by the stay and suspension mentioned in paragraph 1 of this Article, or of its own motion, modify or terminate such stay and suspension or any part of it, either altogether or for a limited time, on such terms and conditions as the Court thinks fit.
+
+Article 21. Relief that may be granted upon recognition of a foreign proceeding
+
+1. Upon recognition of a foreign proceeding, whether a foreign main proceeding or a foreign non‑main proceeding, where necessary to protect the property of the debtor or the interests of the creditors, the Court may, at the request of the foreign representative, grant any appropriate relief, including —
+
+(a) staying the commencement or continuation of individual actions or individual proceedings concerning the debtor’s property, rights, obligations or liabilities, to the extent they have not been stayed under Article 20(1)(a);
+
+(b) staying execution against the debtor’s property to the extent it has not been stayed under Article 20(1)(b);
+
+(c) suspending the right to transfer, encumber or otherwise dispose of any property of the debtor to the extent this right has not been suspended under Article 20(1)(c);
+
+(d) providing for the examination of witnesses, the taking of evidence or the delivery of information concerning the debtor’s property, affairs, rights, obligations or liabilities;
+
+(e) entrusting the administration or realisation of all or part of the debtor’s property located in Singapore to the foreign representative or another person designated by the Court;
+
+(f) extending relief granted under Article 19(1); and
+
+(g) granting any additional relief that may be available to a Singapore insolvency officeholder, including any relief provided under section 227D(4) of this Act.
+
+2\. Upon recognition of a foreign proceeding, whether a foreign main proceeding or a foreign non‑main proceeding, the Court may, at the request of the foreign representative, entrust the distribution of all or part of the debtor’s property located in Singapore to the foreign representative or another person designated by the Court, provided that the Court is satisfied that the interests of creditors in Singapore are adequately protected.
+
+3\. In granting relief under this Article to a representative of a foreign non‑main proceeding, the Court must be satisfied that the relief relates to property that, under the law of Singapore, should be administered in the foreign non-main proceeding or concerns information required in that proceeding.
+
+4\. No stay under paragraph 1(a) of this Article affects the right to commence or continue any criminal proceedings or any action or proceedings by a person or body having regulatory, supervisory or investigative functions of a public nature, being an action or proceedings brought in the exercise of those functions.
+
+Article 22. Protection of creditors and other interested persons
+
+1\. In granting or denying relief under Article 19 or 21, or in modifying or terminating relief under paragraph 3 of this Article or Article 20(6), the Court must be satisfied that the interests of the creditors (including any secured creditors or parties to hire-purchase agreements (as defined in section 227AA of this Act)) and other interested persons, including if appropriate the debtor, are adequately protected.
+
+2\. The Court may subject relief granted under Article 19 or 21 to conditions it considers appropriate, including the provision by the foreign representative of security or caution for the proper performance of his functions.
+
+3\. The Court may, at the request of the foreign representative or a person affected by relief granted under Article 19 or 21, or of its own motion, modify or terminate such relief.
+
+Article 23. Actions to avoid acts detrimental to creditors
+
+1\. Subject to paragraphs 6 and 9 of this Article, upon recognition of a foreign proceeding, the foreign representative has standing to make an application to the Court for an order under or in connection with sections 131(1), 259, 260, 329, 330, 331, 340 and 341 of this Act and section 73B of the Conveyancing and Law of Property Act (Cap. 61).
+
+2. Where the foreign representative makes such an application under paragraph 1 of this Article (“an Article 23 application”), the provisions of this Act and the Conveyancing and Law of Property Act mentioned in paragraph 1 of this Article apply —
+
+(a) whether or not the debtor is being wound up or is in judicial management or undergoing a scheme of arrangement, under Singapore insolvency law; and
+
+(b) with the modifications set out in paragraph 3 of this Article.
+
+3. The modifications mentioned in paragraph 2 of this Article are as follows:
+
+(a) for the purposes of section 329 of this Act read with section 100(1) of the Bankruptcy Act (Cap. 20) —
+
+(i) the date which corresponds with the day of the making of the bankruptcy application is the date of the opening of the relevant foreign proceeding; and
+
+(ii) section 329(2) of this Act does not apply;
+
+(b) for the purposes of section 329 of this Act read with section 102(3A) of the Bankruptcy Act —
+
+(i) a person has notice of the relevant proceedings if he has notice of the opening of the relevant foreign proceeding; and
+
+(ii) section 329(2) of this Act does not apply;
+
+(c) for the purposes of section 329 of this Act read with section 103(2) of the Bankruptcy Act —
+
+(i) the date which corresponds with the commencement of the bankruptcy is the date of the opening of the relevant foreign proceeding; and
+
+(ii) section 329(2) of this Act does not apply;
+
+(d) for the purposes of sections 259, 260, 330, 331 and 341 of this Act, the date which corresponds with the commencement of the winding up is the date of the opening of the relevant foreign proceeding.
+
+4\. For the purposes of paragraph 3 of this Article, the date of the opening of the foreign proceeding is to be determined in accordance with the law of the State in which the foreign proceeding is taking place, including any rule of law by virtue of which the foreign proceeding is deemed to have opened at an earlier time.
+
+5\. When the foreign proceeding is a foreign non‑main proceeding, the Court must be satisfied that the Article 23 application relates to property that, under the law of Singapore, should be administered in the foreign non‑main proceeding.
+
+6. At any time when a proceeding under Singapore insolvency law is taking place regarding the debtor —
+
+(a) the foreign representative must not make an Article 23 application except with the permission of the Court; and
+
+(b) references to “the Court” in paragraphs 1, 5 and 7 of this Article are references to the Court in which that proceeding is taking place.
+
+7\. On making an order on an Article 23 application, the Court may give such directions regarding the distribution of any proceeds of the claim by the foreign representative, as it thinks fit to ensure that the interests of creditors in Singapore are adequately protected.
+
+8\. Nothing in this Article affects the right of a Singapore insolvency officeholder to make an application under or in connection with any of the provisions mentioned in paragraph 1 of this Article.
+
+9\. Nothing in paragraph 1 of this Article applies in respect of any preference given, floating charge created, alienation, assignment made or other transaction entered into before the date on which this Law comes into force.
+
+Article 24. Intervention by a foreign representative in proceedings in Singapore
+
+Upon recognition of a foreign proceeding, the foreign representative may, provided the requirements of the law of Singapore are met, intervene in any proceedings in which the debtor is a party.
+
+Chapter IV
+
+COOPERATION WITH FOREIGN COURTS AND
+
+
+
+
+FOREIGN REPRESENTATIVES
+
+Article 25. Cooperation and direct communication between a Court of Singapore and foreign courts or foreign representatives
+
+1\. In matters mentioned in Article 1(1), the Court may cooperate to the maximum extent possible with foreign courts or foreign representatives, either directly or through a Singapore insolvency officeholder.
+
+2\. The Court is entitled to communicate directly with, or to request information or assistance directly from, foreign courts or foreign representatives.
+
+Article 26. Cooperation and direct communication between the Singapore insolvency officeholder and foreign courts or foreign representatives
+
+1\. In matters mentioned in Article 1(1), a Singapore insolvency officeholder must to the extent consistent with the Singapore insolvency officeholder’s other duties under the law of Singapore, in the exercise of the Singapore insolvency officeholder’s functions and subject to the supervision of the Court, cooperate to the maximum extent possible with foreign courts or foreign representatives.
+
+2\. The Singapore insolvency officeholder is entitled, in the exercise of the Singapore insolvency officeholder’s functions and subject to the supervision of the Court, to communicate directly with foreign courts or foreign representatives.
+
+Article 27. Forms of cooperation
+
+Cooperation mentioned in Articles 25 and 26 may be implemented by any appropriate means, including —
+
+(a) appointment of a person to act at the direction of the Court;
+
+(b) communication of information by any means considered appropriate by the Court;
+
+(c) coordination of the administration and supervision of the debtor’s property and affairs;
+
+(d) approval or implementation by courts of agreements concerning the coordination of proceedings; and
+
+(e) coordination of concurrent proceedings regarding the same debtor.
+
+Chapter V
+
+CONCURRENT PROCEEDINGS
+
+Article 28. Commencement or continuation of a proceeding under Singapore insolvency law after recognition of a foreign main proceeding
+
+After recognition of a foreign main proceeding, the effects of a proceeding under Singapore insolvency law in relation to the same debtor are to, insofar as the property of that debtor is concerned, be restricted to property that is located in Singapore and, to the extent necessary to implement cooperation and coordination under Articles 25, 26 and 27, to other property of the debtor that, under the law of Singapore, should be administered in that proceeding.
+
+Article 29. Coordination of a proceeding under Singapore insolvency law and a foreign proceeding
+
+Where a foreign proceeding and a proceeding under Singapore insolvency law are taking place concurrently regarding the same debtor, the Court may seek cooperation and coordination under Articles 25, 26 and 27, and the following apply:
+
+(a) when the proceeding in Singapore is taking place at the time the application for recognition of the foreign proceeding is filed —
+
+(i) any relief granted under Article 19 or 21 must be consistent with the proceeding in Singapore; and
+
+(ii) if the foreign proceeding is recognised in Singapore as a foreign main proceeding, Article 20 does not apply;
+
+(b) when the proceeding in Singapore commences after the filing of the application for recognition of the foreign proceeding —
+
+(i) any relief in effect under Article 19 or 21 must be reviewed by the Court and must be modified or terminated if inconsistent with the proceeding in Singapore;
+
+(ii) if the foreign proceeding is a foreign main proceeding, the stay and suspension mentioned in Article 20(1) must be modified or terminated under Article 20(6), if inconsistent with the proceeding in Singapore; and
+
+(iii) any proceedings brought by the foreign representative by virtue of Article 23(1) before the proceeding in Singapore commenced must be reviewed by the Court and the Court may give such directions as it thinks fit regarding the continuance of those proceedings; and
+
+(c) in granting, extending or modifying relief granted to a foreign representative of a foreign non‑main proceeding, the Court must be satisfied that the relief relates to property that, under the law of Singapore, should be administered in the foreign non‑main proceeding or concerns information required in that proceeding.
+
+Article 30. Coordination of more than one foreign proceeding
+
+In matters mentioned in Article 1(1), in respect of more than one foreign proceeding regarding the same debtor, the Court may seek cooperation and coordination under Articles 25, 26 and 27, and the following are to apply:
+
+(a) any relief granted under Article 19 or 21 to a representative of a foreign non‑main proceeding after recognition of a foreign main proceeding must be consistent with the foreign main proceeding;
+
+(b) if a foreign main proceeding is recognised after the filing of an application for recognition of a foreign non‑main proceeding, any relief in effect under Article 19 or 21 must be reviewed by the Court and must be modified or terminated if inconsistent with the foreign main proceeding; and
+
+(c) if, after recognition of a foreign non-main proceeding, another foreign non‑main proceeding is recognised, the Court is to grant, modify or terminate relief for the purpose of facilitating coordination of the proceedings.
+
+Article 31. Presumption of insolvency based on recognition of a foreign main proceeding
+
+In the absence of evidence to the contrary, recognition of a foreign main proceeding is, for the purpose of commencing a proceeding under Singapore insolvency law, proof that the debtor is unable to pay its debts within the meaning given to the expression under Singapore insolvency law.
+
+Article 32. Rule of payment in concurrent proceedings
+
+Without prejudice to secured claims or rights in rem, a creditor who has received part payment in respect of its claim in a proceeding under a law relating to insolvency in a foreign State may not receive a payment for the same claim in a proceeding under Singapore insolvency law regarding the same debtor, so long as the payment to the other creditors of the same class is proportionately less than the payment the creditor has already received.
+
+[Act 15 of 2017 wef 23/05/2017]
 
 ELEVENTH SCHEDULE
 
@@ -20000,15 +21296,16 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|1 July 2015|
 |113.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
 ||Date of commencement|1 July 2015|
-|114.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
-||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
-||Date of Second and Third Readings|10 March 2017|
-||Date of commencement|31 March 2017|
-|115.|**Act 21 of 2016—Employment Claims Act 2016**|
+|114.|**Act 21 of 2016—Employment Claims Act 2016**|
 ||Date of First Reading|11 July 2016|
 |||(Bill No. 20/2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 April 2017|
+|115.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|31 March 2017|
+|||23 May 2017|
 ## COMPARATIVE TABLE
 
 Companies Act
