@@ -60,7 +60,13 @@ An Act to implement the Convention on International Interests in Mobile Equipmen
 
 (c) in the case of a voluntary arrangement under Part V of the Bankruptcy Act, the date of the application for an interim order under section 45(1) of that Act;
 
-(d) in the case of a compromise or an arrangement under section 210 of the Companies Act, the date of the application for an order under section 210(1) of that Act; or
+(d) in the case of a compromise or an arrangement under section 210 of the Companies Act, the date of the application for an order under section 210(1) of that Act;
+
+[Act 15 of 2017 wef 23/05/2017]
+
+(da) in the case of a compromise or an arrangement under section 211I of the Companies Act, the date of the application under section 211I(1) of that Act; or
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (e) in the case of judicial management proceedings under Part VIIIA of the Companies Act, the date of the application for a judicial management order under section 227A read with section 227B of that Act;
 
@@ -86,7 +92,9 @@ An Act to implement the Convention on International Interests in Mobile Equipmen
 
 (b) winding up proceedings under Part X of the Companies Act;
 
-(c) the making of a voluntary arrangement under Part V of the Bankruptcy Act or a compromise or an arrangement under section 210 of the Companies Act; or
+(c) the making of a voluntary arrangement under Part V of the Bankruptcy Act or a compromise or an arrangement under section 210 or 211I of the Companies Act; or
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (d) judicial management proceedings under Part VIIIA of the Companies Act;
 
@@ -3785,3 +3793,7 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of commencement|1 May 2009|
 |2.|**2012 Revised Edition—International Interests in Aircraft Equipment Act (Chapter 144B)**|
 ||Date of operation|31 March 2012|
+|3.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|23 May 2017|
