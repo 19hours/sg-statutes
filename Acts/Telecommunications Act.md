@@ -2286,7 +2286,9 @@ SPECIAL ADMINISTRATION ORDER
 
 (3) The Minister may make a special administration order in relation to a specified telecommunication licensee notwithstanding the commencement of —
 
-(a) any proceedings relating to the making of an order under section 210 of the Companies Act (Cap. 50) in relation to the specified telecommunication licensee;
+(a) any proceedings relating to the making of an order under section 210 or 211I of the Companies Act (Cap. 50) in relation to the specified telecommunication licensee;
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (b) any proceedings relating to the making of a judicial management order under the Companies Act in relation to the specified telecommunication licensee; or
 
@@ -2330,7 +2332,9 @@ SPECIAL ADMINISTRATION ORDER
 
 (a) a specified telecommunication licensee shall not be wound up voluntarily without the consent of the Authority;
 
-(b) a person shall not make any application under section 210 of the Companies Act (Cap. 50) in relation to a specified telecommunication licensee, unless that person has served 14 days’ notice in writing of his intention to make that application on the Authority;
+(b) a person shall not make any application under section 210 or 211I of the Companies Act (Cap. 50) in relation to a specified telecommunication licensee, unless that person has served 14 days’ notice in writing of his intention to make that application on the Authority;
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (c) a person shall not make any application for a judicial management order under the Companies Act in relation to a specified telecommunication licensee, unless that person has served 14 days’ notice in writing of his intention to make that application on the Authority;
 
@@ -2340,7 +2344,9 @@ SPECIAL ADMINISTRATION ORDER
 
 (2) The Authority shall be a party to —
 
-(a) any proceedings relating to the making of an order under section 210 of the Companies Act in relation to a specified telecommunication licensee;
+(a) any proceedings relating to the making of an order under section 210 or 211I of the Companies Act in relation to a specified telecommunication licensee;
+
+[Act 15 of 2017 wef 23/05/2017]
 
 (b) any proceedings relating to the making of a judicial management order under the Companies Act in relation to a specified telecommunication licensee; and
 
@@ -3453,6 +3459,10 @@ This Legislative History is provided for the convenience of users of the Telecom
 ||Date of First Reading|10 October 2016 (Bill No. 30/2016 published on 10 October 2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|1 February 2017|
+|7.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|23 May 2017|
 ## COMPARATIVE TABLE
 
 Telecommunications Act
