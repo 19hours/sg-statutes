@@ -446,6 +446,12 @@ Perkumpulan Seni (Arts Group)
 
 Persatuan Pemudi Islam Singapura
 
+26A. 
+
+Pets Enterprises & Traders Association, Singapore (PETAS)
+
+[S 259/2017 wef 26/05/2017]
+
 27. 
 
 Qigong Shi Ba Shi Association (Singapore)
@@ -456,7 +462,9 @@ Radio Modellers Singapore
 
 29. 
 
-St John Ambulance Singapore
+St John Singapore
+
+[S 259/2017 wef 26/05/2017]
 
 30. [Deleted by S 584/2015 wef 05/10/2015]
 
@@ -487,6 +495,12 @@ Singapore Bowling Federation
 36. 
 
 Singapore Canoe Federation
+
+36A. 
+
+Singapore Chefs Association
+
+[S 259/2017 wef 26/05/2017]
 
 37. 
 
@@ -578,7 +592,9 @@ Singapore Sailing Federation
 
 59. 
 
-Singapore Scout Association
+The Singapore Scout Association
+
+[S 259/2017 wef 26/05/2017]
 
 60. 
 
@@ -851,6 +867,8 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|12 July 2013|
 |63.|**G.N. No. S 584/2015—Peopleâs Association Act (Amendment of Schedule) Notification 2015**|
 ||Date of commencement|5 October 2015|
+|64.|**G.N. No. S 259/2017—Peopleâs Association Act (Amendment of Schedule) Notification 2017**|
+||Date of commencement|26 May 2017|
 ## COMPARATIVE TABLE
 
 People’s Association Act
