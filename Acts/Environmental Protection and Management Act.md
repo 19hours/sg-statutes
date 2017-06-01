@@ -2033,8 +2033,6 @@ Alachor
 
 Allyl isothiocyanate
 
-Acrolein —Deleted by S 78/2005, wef 16/02/2005.
-
 Alkali metal bifluorides; Ammonium bifluoride; Potassium fluoride; Sodium fluoride; Potassium silicofluoride; Sodium silicofluoride; Silicofluoric acid
 
 Preparations containing not more than 0.3%, weight in weight, of potassium fluoride in radiator protectors;
@@ -2060,10 +2058,6 @@ Perm lotions;
 Smelling bottles.
 
 Ammonium chlorate
-
-Ammonium nitrate —Deleted by S 296/2007, wef 01/07/2007.
-
-Ammonium perchlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Anionic surface active agents
 
@@ -2119,10 +2113,6 @@ Asbestos in the form of crocidolite, actinolite, anthophyllite, amosite, tremoli
 
 Asbestos in the form of chrysotile in any vehicle brake or clutch lining installed in any vehicle registered before 1st April 1995.
 
-Barium nitrate —Deleted by S 296/2007, wef 01/07/2007.
-
-Benzene —Deleted by S 78/2005, wef 16/02/2005.
-
 Boric acid; Sodium borate
 
 Boric acid or sodium borate in medicinal preparations, cosmetics, toilet preparations and substances being preparations intended for human consumption;
@@ -2136,6 +2126,20 @@ Boron trichloride
 Boron trifluoride
 
 Bromine; Bromine solutions
+
+Cadmium and its compounds in controlled EEE
+
+Controlled EEE containing cadmium not exceeding 0.01% maximum concentration value by weight of homogeneous material in controlled EEE;
+
+Cadmium and its compounds in electrical contact;
+
+Cadmium in filter glass or glass used for reflectance standards;
+
+Cadmium in printing ink for the application of enamel on glass;
+
+Cadmium alloy as electrical or mechanical solder joint to electrical conductor located directly on voice coil in transducer used in high‑powered loudspeaker with sound pressure level of 100 dB (A) or more;
+
+Cadmium and cadmium oxide in thick film paste used on aluminium bonded beryllium oxide.
 
 Cadmium-containing silver brazing alloy
 
@@ -2162,8 +2166,6 @@ Carbon monoxide
 Gas mixtures containing carbon monoxide weighing less than 1 metric tonne;
 
 Gas mixtures containing carbon monoxide as by-products from combustion activities.
-
-Carbon disulphide —Deleted by S 78/2005, wef 16/02/2005.
 
 Carbon tetrafluoride
 
@@ -2343,8 +2345,6 @@ Binapacryl
 
 Diquat; its salts
 
-Disilane —Deleted by S 78/2005, wef 16/02/2005.
-
 Drazoxolon; its salts
 
 Dressings on seeds.
@@ -2360,8 +2360,6 @@ Epichlorohydrin
 Ethyl mercaptan
 
 Substances containing less than 1%, weight in weight, of ethyl mercaptan.
-
-Ethylene dibromide —Deleted by S 43/2008, wef 31/01/2008.
 
 Ethylene dichloride
 
@@ -2395,7 +2393,11 @@ Germane
 
 Hexabromocyclododecane (HBCD)
 
-Guanidine nitrate —Deleted by S 296/2007, wef 01/07/2007.
+Hexavalent chromium in controlled EEE
+
+Controlled EEE containing hexavalent chromium not exceeding 0.1% maximum concentration value by weight of homogeneous material in controlled EEE;
+
+Hexavalent chromium as anticorrosion agent, not exceeding 0.75% by weight, in the cooling solution of carbon steel cooling system in absorption refrigerator.
 
 Hydrazine anhydrous; Hydrazine aqueous solutions
 
@@ -2417,8 +2419,6 @@ In reagent kits supplied for medical or veterinary purposes, substances containi
 
 Hydrogen fluoride
 
-Hydrogen peroxide —Deleted by S 296/2007, wef 01/07/2007.
-
 Hydrogen selenide
 
 Isocyanates
@@ -2429,6 +2429,66 @@ Pre-polymerised isocyanates in polyurethane paints and lacquers;
 
 Hardeners and bonding agents for immediate use in adhesives.
 
+Lead and its compounds in controlled EEE
+
+Controlled EEE containing lead not exceeding 0.1% maximum concentration value by weight of homogeneous material in controlled EEE;
+
+Lead in glass of cathode ray tube;
+
+Lead, not exceeding 0.2% by weight, in glass of fluorescent tube;
+
+Lead, not exceeding 0.35% by weight, as an alloying element in steel for machining purposes or galvanised steel;
+
+Lead, not exceeding 0.4% by weight, as an alloying element in aluminium;
+
+Lead, not exceeding 4% by weight, in copper alloy;
+
+Lead in high melting temperature type solder (that is, lead‑based alloy containing 85% by weight or more lead);
+
+Electrical and electronic component containing lead in —
+
+(a)
+
+glass or ceramic (other than dielectric ceramic in capacitor); or
+
+(b)
+
+glass or ceramic matrix compound;
+
+Lead in dielectric ceramic in capacitor for rated voltage of 125 V AC, 250 V DC or higher;
+
+Lead in bearing shell or bush for refrigerant‑containing compressor for heating, ventilation, air conditioning or refrigeration application;
+
+Lead in white glass for optical application;
+
+Lead in filter glass or glass used for reflectance standards;
+
+Lead in printing ink for the application of enamel on glass;
+
+Lead in solder for —
+
+(a)
+
+completing viable electrical connection between semiconductor die and carrier within integrated circuit flip chip package;
+
+(b)
+
+soldering to machined‑through hole discoidal or planar array ceramic multilayer capacitor; or
+
+(c)
+
+soldering thin copper wire (with diameter not exceeding 100 μm) in power transformer;
+
+Lead in soldering materials in mercury‑free flat fluorescent lamp;
+
+Lead oxide in surface conduction electron emitter display used in structural element;
+
+Lead bound in crystal glass;
+
+Lead in cermet‑based trimmer potentiometer element;
+
+Lead in plating layer of high‑voltage diode on base of zinc borate glass body.
+
 Lead compounds in paint
 
 Lead compounds in paint in which the lead content is not more than 0.06% by weight of the paint;
@@ -2437,11 +2497,27 @@ Lead compounds in paint in which the container is affixed with an appropriate la
 
 The labels to be used for paints containing lead compounds are in accordance with Part IV of the Second Schedule.
 
-Lead tetra-ethyl and similar lead containing compounds —Deleted by S 43/2008, wef 31/01/2008.
-
 Lead tetra-ethyl and similar lead containing compounds in petrol intended for use in Singapore as fuel for motor vehicles
 
 Mercury
+
+Mercury and its compounds in controlled EEE
+
+Controlled EEE containing mercury not exceeding 0.1% maximum concentration value by weight of homogeneous material in controlled EEE;
+
+Cold cathode fluorescent lamp or external electrode fluorescent lamp, used for purposes other than general lighting, that —
+
+(a)
+
+is not more than 500 mm long and contains not more than 3.5 mg of mercury;
+
+(b)
+
+is more than 500 mm long but not more than 1500 mm long and contains not more than 5 mg of mercury; or
+
+(c)
+
+is more than 1500 mm long and contains not more than 13 mg of mercury.
 
 Mercury in Clinical Thermometers
 
@@ -2597,18 +2673,9 @@ in the case of Halons, portable fire extinguishers; and
 
 Bromochlorodifluoromethane
 
-
-
-
 Bromochloromethane
 
-
-
-
 Bromotrifluoromethane
-
-
-
 
 Dibromotetrafluoroethane
 
@@ -2874,13 +2941,19 @@ Phosphorus trichloride
 
 Polybrominated biphenyls
 
+Polybrominated biphenyls in controlled EEE
+
+Controlled EEE containing polybrominated biphenyls not exceeding 0.1% maximum concentration value by weight of homogeneous material in controlled EEE.
+
 Polybrominated diphenyl ethers (PBDEs)
+
+Polybrominated diphenyl ethers in controlled EEE
+
+Controlled EEE containing polybrominated diphenyl ethers not exceeding 0.1% maximum concentration value by weight of homogeneous material in controlled EEE.
 
 Polychlorinated biphenyls
 
 Polychlorinated terphenyls
-
-Potassium chlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Potassium hydroxide
 
@@ -2890,12 +2963,6 @@ Accumulators;
 
 Batteries.
 
-Potassium nitrate —Deleted by S 296/2007, wef 01/07/2007.
-
-Potassium nitrite —Deleted by S 296/2007, wef 01/07/2007.
-
-Potassium perchlorate —Deleted by S 296/2007, wef 01/07/2007.
-
 Prochloraz
 
 Pyrethroid compounds used as pesticides, the following:
@@ -2903,14 +2970,6 @@ Pyrethroid compounds used as pesticides, the following:
 Fenvalerate
 
 Formulated products containing Fenvalerate approved for household use and belonging to Table 5 of the WHO Recommended Classification of Pesticides by Hazard.
-
-Propylene imine —Deleted by S 78/2005, wef 16/02/2005.
-
-Propylene oxide —Deleted by S 78/2005, wef 16/02/2005.
-
-Silane —Deleted by S 78/2005, wef 16/02/2005.
-
-Sodium chlorate —Deleted by S 296/2007, wef 01/07/2007.
 
 Sodium azide
 
@@ -2921,14 +2980,6 @@ Sodium hydroxide
 Substances containing not more than 17%, weight in weight, of sodium hydroxide;
 
 Made-up formulated preparations either liquid or solid for biochemical tests.
-
-Sodium nitrate —Deleted by S 296/2007, wef 01/07/2007.
-
-Sodium nitrite —Deleted by S 296/2007, wef 01/07/2007.
-
-Sodium perchlorate —Deleted by S 296/2007, wef 01/07/2007.
-
-Styrene monomer —Deleted by S 78/2005, wef 16/02/2005.
 
 Sulphur in diesel intended for use in Singapore as fuel for industrial plants
 
@@ -2968,9 +3019,101 @@ Tris (2, 3-dibromo-l-propyl) phosphate
 
 Tungsten hexafluoride
 
-Vinyl bromide —Deleted by S 78/2005, wef 16/02/2005.
+Note:
 
-Vinyl chloride monomer —Deleted by S 78/2005, wef 16/02/2005.
+In this Part, unless the context otherwise requires —
+
+“air-conditioner” means a self-contained assembly designed as a unit to deliver conditioned air to an enclosed space, room or zone, consisting of the following components (whether or not the assembly also consists of any means of humidifying, ventilating or exhausting the air):
+
+(a) a prime source of refrigeration for cooling and dehumidification of the air, where all the refrigeration components are hermetically sealed;
+
+(b) a means for the circulation and the cleaning of the air;
+
+(c) a drain arrangement for the collection or disposal of any condensate,
+
+but does not include a second-hand air-conditioner, a cooling tower, a chiller, or a large-scale air-conditioner for any industrial or specialised use;
+
+“computer” means a portable electronic, magnetic, optical, electrochemical, or other data processing device, or a group of such interconnected or related devices, performing logical, arithmetic, or storage functions, and includes any data storage facility or communications facility directly related to or operating in conjunction with such device or group of such interconnected or related devices, but does not include —
+
+(a) an automated typewriter or typesetter;
+
+(b) a portable hand-held calculator; or
+
+(c) a similar device which is non-programmable or which does not contain any data storage facility;
+
+“controlled electrical and electronic equipment” or “controlled EEE” means any air-conditioner, flat panel display television, mobile phone, phablet, portable computer, refrigerator or washing machine, that is designed for household use (whether or not the controlled EEE is also designed for any non-household use);
+
+“crystal glass” means any crystal glass described in Annex I to Directive 69/493/EEC of the Council of the European Union on the approximation of the laws of the Member States relating to crystal glass;
+
+“flat panel display television” means a television with a flat display screen (at least 11 inches in width), but does not include —
+
+(a) a second-hand flat panel display television;
+
+(b) a flat panel display television installed in a car;
+
+(c) a flat panel display television installed —
+
+(i) on a building;
+
+(ii) at a bus stop; or
+
+(iii) in a structure next to a bus stop,
+
+for commercial advertisement purposes; or
+
+(d) a flat panel display television designed for any industrial or specialised use;
+
+“homogeneous material” means —
+
+(a) a material of uniform composition throughout; or
+
+(b) a material consisting of a combination of materials that cannot be disjointed or separated into different materials by mechanical actions such as unscrewing, cutting, crushing, grinding or abrasive processes;
+
+“mobile phone” means a hand-held device that uses a wireless network to allow a user to make voice calls, send text messages and transmit data, but does not include —
+
+(a) a second-hand mobile phone;
+
+(b) a cordless phone, a walkie talkie or a satellite phone; or
+
+(c) a mobile phone designed for any specialised use;
+
+“phablet” means a hand-held device with a combination of the designs and functions of both a mobile phone and a tablet, but does not include —
+
+(a) a second-hand phablet; or
+
+(b) a phablet designed for any specialised use;
+
+“portable computer” means a computer designed specifically for portability and to be operated for extended periods of time (whether with or without a direct connection to an alternating current mains power source), but does not include —
+
+(a) a second-hand portable computer;
+
+(b) a portable computer installed in a car (also known as a carputer); or
+
+(c) a portable computer designed for any specialised use;
+
+“refrigerator” means a self-contained assembly (where all refrigeration components are hermetically sealed) consisting of —
+
+(a) a thermally insulated cabinet for the storage and cooling of foodstuffs or other material above 0°C; and
+
+(b) a refrigerating unit operating on the vapour compression principle and arranged to extract heat from within the cabinet referred to in paragraph (a),
+
+whether or not the refrigerator has any freezer compartment, but does not include —
+
+(i) a second-hand refrigerator;
+
+(ii) a wine cabinet, a portable cooling box, a chiller or a freezer chest; or
+
+(iii) a refrigerator designed for any industrial or specialised use;
+
+“television” means an appliance, with an in-built television tuner, designed primarily for the display and possible reception of television broadcast and similar services for terrestrial, cable, satellite and broadband network transmission of analogue or digital signals, and includes a television with additional functions not required for its basic operation as a television, but does not include a television displaying broadcasts by means of front or rear projection;
+
+“washing machine” means an electrical machine with at least one function that uses water for washing, but does not include —
+
+(a) a second-hand washing machine; or
+
+(b) a large-scale washing machine designed for any industrial or specialised use.
+
+[S 263/2016 wef 01/06/2017]
 
 [S 378/2016 wef 01/01/2017]
 
@@ -3276,6 +3419,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 May 2016|
 |23.|**G.N. No. S 378/2016—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 2) Order 2016**|
 ||Date of commencement|1 January 2017|
+|24.|**G.N. No. S 263/2016—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2016**|
+||Date of commencement|1 June 2017|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
