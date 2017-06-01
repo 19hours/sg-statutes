@@ -7010,7 +7010,9 @@ does not exceed $100,000 for each year of assessment.
 
 (a) any order made under section 13(12);
 
-(b) section 43C (in respect of those relating to offshore general insurance business only), 43E, 43G, 43I, 43J, 43N, 43P, 43Q, 43R, 43U, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
+(b) section 43C (in respect of those relating to general insurance business only), 43E, 43G, 43I, 43J, 43N, 43P, 43Q, 43R, 43U, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
+
+[Act 39 of 2017 wef 01/06/2017]
 
 (c) section 19J(5C) or (5E) or 19KA(1)(b) (as the case may be) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
@@ -12134,9 +12136,19 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 [28/92; 7/2007]
 
-### Separate accounts to be maintained for business of insuring and reinsuring offshore risks
+### Separate accounts to be maintained for various businesses
 
-(2) An insurer shall maintain separate accounts for the income derived by it from carrying on offshore life business or the business (other than the business of life assurance) of insuring and reinsuring offshore risks.
+(2) An insurer must maintain separate accounts for income derived by it from carrying on each of the following businesses:
+
+(a) onshore life business;
+
+(b) offshore life business;
+
+(c) the business (other than the business of life assurance) of insuring and reinsuring onshore risks;
+
+(d) the business (other than the business of life assurance) of insuring and reinsuring offshore risks.
+
+[Act 39 of 2017 wef 01/06/2017]
 
 [7/79; 9/80; 20/91; 7/2007]
 
@@ -12154,13 +12166,15 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 [7/2007]
 
-(4) For the purposes of subsection (3), in ascertaining the gains or profits derived by an insurer from carrying on the business (other than the business of life assurance) of insuring and reinsuring offshore risks or any other risks for the purposes of any concessionary rate of tax or exemption from tax prescribed by regulations made under section 43C —
+(4) For the purposes of subsection (3), in ascertaining the gains or profits derived by an insurer from carrying on the business (other than the business of life assurance) of insuring and reinsuring any risks for the purposes of any concessionary rate of tax or exemption from tax prescribed by regulations made under section 43C —
 
 (a) no income other than income from premiums or from such dividends, interest and gains or profits realised from the sale of investments as may be specified in those regulations shall be included;
 
 (b) income in respect of dividends, interest and gains or profits realised from the sale of investments shall be apportioned in such manner as may be prescribed by those regulations; and
 
 (c) any item of expenditure not directly attributable to that business shall be apportioned in such manner as may be prescribed by those regulations.
+
+[Act 39 of 2017 wef 01/06/2017]
 
 [7/79; 9/80; 20/91; 26/93; 21/2003; 7/2007]
 
@@ -12180,7 +12194,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (iv) adding thereto the amount relating to investment income earned on assets representing the balance in the surplus account, after deducting any receipt which is not chargeable to tax and not allowing as a deduction any expense which is not deductible for the purposes of this Act; and
 
-(v) adding thereto the balance so arrived at the life insurance surplus in relation to the non-participating fund and the investment-linked fund;
+(v) adding thereto the balance so arrived at the onshore life insurance surplus in relation to the non-participating fund and the investment-linked fund;
+
+[Act 39 of 2017 wef 01/06/2017]
 
 (b) in the case of shareholders’ fund established in Singapore, the income therein less any expenses (including management expenses) incurred in the production of such income; and
 
@@ -12194,13 +12210,15 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (iv) adding thereto the amount relating to investment income earned on assets representing the balance in the surplus account, after deducting any receipt which is not chargeable to tax and not allowing as a deduction any expense which is not deductible for the purposes of this Act;
 
-(v) adding thereto the offshore life insurance surplus in relation to the non-participating fund and the investment-linked fund; and
+(v) adding thereto the offshore life insurance surplus in relation to the non-participating fund and the investment-linked fund.
 
-(vi) deducting from the balance so arrived at such income that is subject to tax at the concessionary rate of tax prescribed by regulations made under section 43C.
+[Act 39 of 2017 wef 01/06/2017]
+
+(vi) [Deleted by Act 39 of 2017 wef 01/06/2017]
 
 [7/2007]
 
-(7) Notwithstanding subsection (6), in the case of a life insurer which has income subject to tax at the concessionary rate of tax prescribed by regulations made under section 43C, in ascertaining the income for the purposes of those regulations —
+(7) Despite subsection (6), where a life insurer is approved under section 43C before 1 June 2017 and its income is subject to tax at the concessionary rate by regulations made under section 43C(1)(a), the following paragraphs apply for the purposes of ascertaining that income:
 
 (a) only such part of the following income as may be specified in those regulations shall be included:
 
@@ -12220,7 +12238,21 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (b) the income referred to in paragraph (a) and any item of expenditure not directly incurred in the production of such income shall be apportioned in such manner as may be prescribed by those regulations.
 
+[Act 39 of 2017 wef 01/06/2017]
+
 [28/92; 7/2007]
+
+(7A) Despite subsection (6), where a life insurer is approved under section 43C on or after 1 June 2017 and its income is subject to tax at a concessionary rate by regulations made under section 43C(1)(aa), the following paragraphs apply for the purposes of ascertaining that income:
+
+(a) only such part of the following income relating to reinsurance policies as may be specified in those regulations may be included:
+
+(i) the onshore life insurance surplus, and offshore life insurance surplus (as the case may be), of the insurer;
+
+(ii) the income of the shareholders’ fund established in Singapore attributable to the insurer’s onshore life reinsurance business and offshore life reinsurance business (as the case may be);
+
+(b) the income in paragraph (a) and any item of expenditure not directly incurred in the production of such income must be apportioned in the manner prescribed (if any) by those regulations.
+
+[Act 39 of 2017 wef 01/06/2017]
 
 (8) In ascertaining the gains or profits of a life insurer whether mutual or proprietary —
 
@@ -12244,7 +12276,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 ### Composite insurers
 
-(9) In the case of an insurer carrying on life insurance business in conjunction with any other insurance business, the assessment of the gains or profits on which tax is payable shall be made in one sum, but the gains or profits arising from the life insurance business shall be computed in accordance with subsections (6), (7) and (8) as if such life insurance business were a separate business from the other insurance business carried on by the insurer.
+(9) In the case of an insurer carrying on life insurance business in conjunction with any other insurance business, the assessment of the gains or profits on which tax is payable shall be made in one sum, but the gains or profits arising from the life insurance business shall be computed in accordance with subsections (6), (7), (7A) and (8) as if such life insurance business were a separate business from the other insurance business carried on by the insurer.
+
+[Act 39 of 2017 wef 01/06/2017]
 
 [28/92; 7/2007]
 
@@ -12286,31 +12320,17 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 “investment-linked policies”, “non-participating policies” and “participating policies” have the same meanings as in the First Schedule to the Insurance Act;
 
-“life insurance surplus”, in relation to the non-participating fund and the investment-linked fund of an insurer, means the amount ascertained —
+“life insurance fund” means the insurance fund established and maintained by an insurer under section 17(1) of the Insurance Act for its life business;
 
-(a) by taking the aggregate of —
-
-(i) the gross premiums (including consideration paid or payable for the purchase of annuities) from Singapore non-participating and Singapore investment-linked policies of any life insurance fund established and maintained under the Insurance Act (less any premiums returned to the insured and premiums paid or payable on reinsurance);
-
-(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to Singapore non‑participating and Singapore investment-linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act; and
-
-(iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund established and maintained under the Insurance Act relating to Singapore non-participating and Singapore investment-linked policies; and
-
-(b) by deducting from that aggregate —
-
-(i) distribution expenses and management expenses incurred in the production of the income referred to in paragraph (a) and, in respect of a branch in Singapore, a fair proportion of the expenses of its head office;
-
-(ii) policy moneys paid or payable in respect of Singapore non-participating and Singapore investment-linked policies (less any amount recovered or recoverable in respect thereof under reinsurance);
-
-(iii) moneys paid or payable on the surrender of Singapore non-participating and Singapore investment-linked policies; and
-
-(iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to Singapore non-participating and Singapore investment-linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act;
+[Act 39 of 2017 wef 01/06/2017]
 
 “life policy” has the same meaning as in the Insurance Act;
 
 “non-participating fund” means an insurance fund established and maintained under section 17(2) of the Insurance Act which comprises wholly of non-participating policies;
 
-2“offshore life business” means the business of insuring or reinsuring the liability of a life policy, or accident and health policy, of any life insurance fund established and maintained under the Insurance Act, not being a Singapore policy within the meaning of that Act;
+2“offshore life business” means the business of insuring or reinsuring the liability of a life policy, or accident and health policy, of any life insurance fund, not being a Singapore policy within the meaning of the Insurance Act;
+
+[Act 39 of 2017 wef 01/06/2017]
 
 [Act 19 of 2013 wef Y/A 2015]
 
@@ -12320,11 +12340,19 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (a) by taking the aggregate of —
 
-(i) the gross premiums (including consideration paid or payable for the purchase of annuities) from offshore non-participating and offshore investment-linked policies of any life insurance fund established and maintained under the Insurance Act (less any premiums returned to the insured and premiums paid or payable on reinsurance);
+(i) the gross premiums (including consideration paid or payable for the purchase of annuities) from offshore non-participating and offshore investment-linked policies of any life insurance fund (less any premiums returned to the insured and premiums paid or payable on reinsurance);
 
-(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act; and
+[Act 39 of 2017 wef 01/06/2017]
 
-(iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund established and maintained under the Insurance Act relating to offshore non‑participating and offshore investment‑linked policies; and
+(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act; and
+
+[Act 39 of 2017 wef 01/06/2017]
+
+[Act 39 of 2017 wef 01/06/2017]
+
+(iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies; and
+
+[Act 39 of 2017 wef 01/06/2017]
 
 (b) by deducting from that aggregate —
 
@@ -12334,13 +12362,105 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (iii) moneys paid or payable on the surrender of offshore non‑participating and offshore investment‑linked policies; and
 
-(iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund established and maintained under the Insurance Act relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with that Act;
+(iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+
+[Act 39 of 2017 wef 01/06/2017]
+
+[Act 39 of 2017 wef 01/06/2017]
+
+“offshore life insurance surplus”, in relation to an insurer under subsection (7A)(a)(i), means the amount ascertained by taking the following steps:
+
+(a) add the following:
+
+(i) the gross premiums (including consideration paid or payable for the purchase of annuities) from its offshore non-participating reinsurance policies of any life insurance fund (less any premiums returned to the insured and premiums paid or payable on reinsurance);
+
+(ii) the net decrease between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its offshore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+
+(iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of the part of any life insurance fund relating to its offshore non-participating reinsurance policies;
+
+(b) subtract from the total under paragraph (a), all of the following:
+
+(i) distribution expenses and management expenses incurred in the production of the income in paragraph (a) and, in respect of a branch in Singapore, a fair proportion of the expenses of its head office;
+
+(ii) policy moneys paid or payable in respect of its offshore non-participating reinsurance policies (less any amount recovered or recoverable in respect of those policies under reinsurance);
+
+(iii) moneys paid or payable on the surrender of its offshore non-participating reinsurance policies;
+
+(iv) the net increase between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its offshore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+
+[Act 39 of 2017 wef 01/06/2017]
+
+“offshore life reinsurance business” means the business of reinsuring the liability of a life policy, or an accident and health policy, of any life insurance fund, not being a Singapore policy within the meaning of the Insurance Act;
+
+[Act 39 of 2017 wef 01/06/2017]
 
 3“offshore risk” means a risk or liability that is insured by a policy of any general insurance fund established and maintained under the Insurance Act, not being a Singapore policy within the meaning of that Act;
 
 [Act 19 of 2013 wef Y/A 2015]
 
 3The definition of “offshore risk” has been deleted and substituted from the year of assessment 2015 pursuant to section 21(1)(e) and (2) of the Income Tax (Amendment) Act 2013 (Act 19 of 2013).
+
+“onshore life business” means the business of insuring or reinsuring the liability of a life policy, or accident and health policy, of any life insurance fund, being a Singapore policy within the meaning of the Insurance Act;
+
+[Act 39 of 2017 wef 01/06/2017]
+
+“onshore life insurance surplus”, in relation to an insurer under subsection (7A)(a)(i), means the amount ascertained by taking the following steps:
+
+(a) add the following:
+
+(i) the gross premiums (including consideration paid or payable for the purchase of annuities) from its Singapore non-participating reinsurance policies of any life insurance fund (less any premiums returned to the insured and premiums paid or payable on reinsurance);
+
+(ii) the net decrease between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its Singapore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+
+(iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of the part of any life insurance fund relating to its Singapore non-participating reinsurance policies;
+
+(b) subtract from the total under paragraph (a), all of the following:
+
+(i) distribution expenses and management expenses incurred in the production of the income in paragraph (a) and, in respect of a branch in Singapore, a fair proportion of the expenses of its head office;
+
+(ii) policy moneys paid or payable in respect of its Singapore non-participating reinsurance policies (less any amount recovered or recoverable in respect of those policies under reinsurance);
+
+(iii) moneys paid or payable on the surrender of its Singapore non-participating reinsurance policies;
+
+(iv) the net increase between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its Singapore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+
+[Act 39 of 2017 wef 01/06/2017]
+
+“onshore life insurance surplus”, in relation to the non-participating fund and the investment-linked fund of an insurer, means the amount ascertained by taking the following steps:
+
+(a) add the following:
+
+(i) the gross premiums (including consideration paid or payable for the purchase of annuities) from Singapore non-participating and Singapore investment-linked policies of any life insurance fund (less any premiums returned to the insured and premiums paid or payable on reinsurance);
+
+(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund relating to Singapore non-participating and Singapore investment-linked policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+
+(iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund relating to Singapore non-participating and Singapore investment-linked policies;
+
+(b) subtract from the total under paragraph (a), all of the following:
+
+(i) distribution expenses and management expenses incurred in the production of the income in paragraph (a) and, in respect of a branch in Singapore, a fair proportion of the expenses of its head office;
+
+(ii) policy moneys paid or payable in respect of Singapore non-participating and Singapore investment-linked policies (less any amount recovered or recoverable in respect of those policies under reinsurance);
+
+(iii) moneys paid or payable on the surrender of Singapore non-participating and Singapore investment-linked policies;
+
+(iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund relating to Singapore non-participating and Singapore investment-linked policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+
+[Act 39 of 2017 wef 01/06/2017]
+
+“onshore life reinsurance business” means the business of reinsuring the liability of —
+
+(a) a life policy of any life insurance fund; or
+
+(b) an accident and health policy of any life insurance fund,
+
+being a Singapore policy within the meaning of the Insurance Act;
+
+[Act 39 of 2017 wef 01/06/2017]
+
+“onshore risk” means a risk or liability that is insured by a policy of a general insurance fund established and maintained under the Insurance Act, being a Singapore policy within the meaning of that Act;
+
+[Act 39 of 2017 wef 01/06/2017]
 
 “participating fund” means an insurance fund established and maintained under section 17(2) of the Insurance Act which comprises wholly or partly of participating policies;
 
@@ -13942,11 +14062,13 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 43A, 43C (in respect of those relating to offshore general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U, 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be;
+(b) section 43A, 43C (in respect of those relating to general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U, 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be;
 
 [Act 2 of 2016 wef 01/04/2015]
 
 [Act 34 of 2016 wef 29/12/2016]
+
+[Act 39 of 2017 wef 01/06/2017]
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -14476,7 +14598,9 @@ is the concessionary rate of tax;
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(b) section 43A, 43C (in respect of those relating to offshore general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U, 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
+(b) section 43A, 43C (in respect of those relating to general insurance business and life reinsurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U, 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
+
+[Act 39 of 2017 wef 01/06/2017]
 
 [Act 34 of 2016 wef 29/12/2016]
 
@@ -18238,7 +18362,13 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 43C\.—(1) Despite section 43, the Minister may make regulations —
 
-(a) to provide for tax at the rate of 10% to be levied and paid for each year of assessment upon such income as the Minister may specify that is derived by an approved insurer from offshore life business within the meaning of section 26, or the business (other than the business of life assurance) of insuring and reinsuring offshore risks;
+(a) to provide for tax at the rate of 10% to be levied and paid for each year of assessment upon such income as the Minister may specify that is derived by an approved insurer, whose approval is granted before 1 June 2017, from offshore life business within the meaning of section 26, or the business (other than the business of life assurance) of insuring and reinsuring offshore risks;
+
+[Act 39 of 2017 wef 01/06/2017]
+
+(aa) to provide for tax at the rate of 10% to be levied and paid for each year of assessment upon such income as the Minister may specify that is derived by an approved insurer, whose approval is granted on or after 1 June 2017, from the reinsurance of liabilities under policies relating to life business as defined in section 2(1)(a) of the Insurance Act (Cap. 142), or such description of general business within the meaning of section 2(1)(b) of that Act, as may be prescribed;
+
+[Act 39 of 2017 wef 01/06/2017]
 
 (b) to provide for exemption from tax of such income as the Minister may specify that is derived from insurance and reinsurance business by the following:
 
@@ -18286,7 +18416,7 @@ An approved insurer whose approval was granted between 19 February 2011 and 31 M
 
 An approved insurer whose approval is granted on or after 1 April 2016
 
-(f) to provide for the deduction (otherwise than in accordance with this Act), from the income mentioned in paragraphs (a) to (e), of allowances under section 19, 19A, 20, 21, 22 or 23, expenses, losses and donations allowable under this Act, including deduction of these allowances, expenses, losses and donations in such manner and to such extent as the Comptroller may determine;
+(f) to provide for the deduction (otherwise than in accordance with this Act), from the income mentioned in paragraphs (a) to (e), of allowances under section 19, 19A, 20, 21,22 or 23, expenses, losses and donations allowable under this Act, including deduction of these allowances, expenses, losses and donations in such manner and to such extent as the Comptroller may determine;
 
 [Act 39 of 2017 wef 01/04/2016]
 
@@ -18294,7 +18424,9 @@ An approved insurer whose approval is granted on or after 1 April 2016
 
 (h) to provide for such matters as the Minister may consider necessary or expedient for carrying out the purposes under paragraphs (a) to (g).
 
-(2) No approval may be granted to an insurer for the purpose of paragraph (a), (b), (c), (d) or (e) of subsection (1) on or after the date prescribed in the regulations for that paragraph.
+(2) No approval may be granted to an insurer for the purpose of paragraph (a), (aa), (b), (c), (d) or (e) of subsection (1) on or after the date prescribed in the regulations for that paragraph.
+
+[Act 39 of 2017 wef 01/06/2017]
 
 (3) In this section —
 
@@ -18766,7 +18898,9 @@ which carries on any qualifying structured commodity financing activities, treas
 
 ### Concessionary rate of tax for financial sector incentive company
 
-43Q\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5%, 10% or 12% shall be levied and paid for each year of assessment upon such income as the Minister may specify, derived on or after 1st January 2004 by a financial sector incentive company from such qualifying activities as may be prescribed, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
+43Q\.—(1) Notwithstanding section 43, the Minister may by regulations provide that tax at the rate of 5%, 10%, 12% or 13.5% shall be levied and paid for each year of assessment upon such income as the Minister may specify, derived on or after 1st January 2004 by a financial sector incentive company from such qualifying activities as may be prescribed, and those regulations may provide for the deduction of losses otherwise than in accordance with section 37(3).
+
+[Act 39 of 2017 wef 01/06/2017]
 
 [21/2003; 29/2010]
 
@@ -25517,7 +25651,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||19 May 2016|
 |||1 July 2016|
 |||29 December 2016|
-|197.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
+|197.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
+||Date of First Reading|10 September 2018|
+|||(Bill No. 37/2018)|
+||Date of Second and Third Readings|2 October 2018|
+||Date of commencement|1 April 2017|
+|198.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
 ||Date of First Reading|11 September 2017|
 |||(Bill No. 36/2017)|
 ||Date of Second and Third Readings|2 October 2017|
@@ -25527,11 +25666,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 January 2017|
 |||21 February 2017|
 |||1 April 2017|
-|198.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
-||Date of First Reading|10 September 2018|
-|||(Bill No. 37/2018)|
-||Date of Second and Third Readings|2 October 2018|
-||Date of commencement|1 April 2017|
+|||1 June 2017|
 ## COMPARATIVE TABLE
 
 Income Tax Act
