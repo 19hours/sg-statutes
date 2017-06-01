@@ -26,6 +26,10 @@
 
 - [8 Unauthorised disclosure of access code](#Unauthorised-disclosure-of-access-code)
 
+- [8A Supplying, etc., personal information obtained in contravention of certain provisions](#Supplying-etc-personal-information-obtained-in-contravention-of-certain-provisions)
+
+- [8B Obtaining, etc., items for use in certain offences](#Obtaining-etc-items-for-use-in-certain-offences)
+
 - [9 Enhanced punishment for offences involving protected computers](#Enhanced-punishment-for-offences-involving-protected-computers)
 
 - [10 Abetments and attempts punishable as offences](#Abetments-and-attempts-punishable-as-offences)
@@ -33,6 +37,8 @@
 [**Part III MISCELLANEOUS AND GENERAL**](#Part-III)
 
 - [11 Territorial scope of offences under this Act](#Territorial-scope-of-offences-under-this-Act)
+
+- [11A Amalgamation of charges](#Amalgamation-of-charges)
 
 - [12 Jurisdiction of Courts](#Jurisdiction-of-Courts)
 
@@ -112,7 +118,9 @@ PRELIMINARY
 
 “data” means representations of information or of concepts that are being prepared or have been prepared in a form suitable for use in a computer;
 
-“electro-magnetic, acoustic, mechanical or other device” means any device or apparatus that is used or is capable of being used to intercept any function of a computer;
+“electro-magnetic, acoustic, mechanical or other device” means any device, apparatus or program that is used or is capable of being used to intercept any function of a computer;
+
+[Act 22 of 2017 wef 01/06/2017]
 
 “function” includes logic, control, arithmetic, deletion, storage and retrieval and communication or telecommunication to, from or within a computer;
 
@@ -302,6 +310,82 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [21/98]
 
+### Supplying, etc., personal information obtained in contravention of certain provisions
+
+8A\.—(1) A person shall be guilty of an offence if the person, knowing or having reason to believe that any personal information about another person (being an individual) was obtained by an act done in contravention of section 3, 4, 5 or 6 —
+
+(a) obtains or retains the personal information; or
+
+(b) supplies, offers to supply, transmits or makes available, by any means the personal information.
+
+(2) It is not an offence under subsection (1)(a) if the person obtained or retained the personal information for a purpose other than —
+
+(a) for use in committing, or in facilitating the commission of, any offence under any written law; or
+
+(b) for supply, transmission or making available by any means for the personal information to be used in committing, or in facilitating the commission of, any offence under any written law.
+
+(3) It is not an offence under subsection (1)(b) if —
+
+(a) the person did the act for a purpose other than for the personal information to be used in committing, or in facilitating the commission of, any offence under any written law; and
+
+(b) the person did not know or have reason to believe that the personal information will be or is likely to be used to commit, or facilitate the commission of, any offence under any written law.
+
+Example1.—Acomes across a list of credit card numbers on the Internet belonging to individuals who are customers ofB, whichAhas reason to believe were obtained by securing access without authority toB’s server.Adownloads the list for the purpose of reporting the unauthorised access toB’s server to the police.
+
+Aretains the list of credit card numbers and transmits it toBfor the purpose of informingBof the unauthorised access toB’s server.
+
+Ahas downloaded and retained the list of credit card numbers for purposes other than those mentioned in subsection (2)(a) and (b). ThereforeAdoes not commit an offence under subsection (1)(a) by reason of subsection (2).
+
+Ahas transmitted the list toBfor a purpose other than for it to be used in committing or in facilitating the commission of an offence. IfAdid not know or have reason to believe that the list so transmitted will be or is likely to be used to commit or facilitate the commission of an offence, thenAdoes not commit an offence under subsection (1)(b) by reason of subsection (3).
+
+Example2.—C, an employee ofB, after receiving the list fromAinExample1, transmits it toD, another employee ofB, for the purpose of facilitatingB’s investigation of the unauthorised access ofB’s server.
+
+Chas transmitted the list toDfor a purpose other than for it to be used in committing or in facilitating the commission of an offence. IfCdid not know or have reason to believe that the list so transmitted will be or is likely to be used to commit or facilitate the commission of an offence, thenCdoes not commit an offence under subsection (1)(b) by reason of subsection (3).
+
+(4) For the purposes of subsection (1)(b), a person does not transmit or make available personal information merely because the person provides, or operates facilities for network access, or provides services relating to, or provides connections for, the transmission or routing of data.
+
+(5) A person guilty of an offence under subsection (1) shall be liable on conviction —
+
+(a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+(6) For the purpose of proving under subsection (1) that a person knows or has reason to believe that any personal information was obtained by an act done in contravention of section 3, 4, 5 or 6, it is not necessary for the prosecution to prove the particulars of the contravention, such as who carried out the contravention and when it took place.
+
+(7) In this section —
+
+(a) personal information is any information, whether true or not, about an individual of a type that is commonly used alone or in combination with other information to identify or purport to identify an individual, including (but not limited to) biometric data, name, address, date of birth, national registration identity card number, passport number, a written, electronic or digital signature, user authentication code, credit card or debit card number, and password; and
+
+(b) a reference to an offence under any written law includes an offence under subsection (1).
+
+[Act 22 of 2017 wef 01/06/2017]
+
+### Obtaining, etc., items for use in certain offences
+
+8B\.—(1) A person shall be guilty of an offence if the person —
+
+(a) obtains or retains any item to which this section applies —
+
+(i) intending to use it to commit, or facilitate the commission of, an offence under section 3, 4, 5, 6 or 7; or
+
+(ii) with a view to it being supplied or made available, by any means for use in committing, or in facilitating the commission of, any of those offences; or
+
+(b) makes, supplies, offers to supply or makes available, by any means any item to which this section applies, intending it to be used to commit, or facilitate the commission of, an offence under section 3, 4, 5, 6 or 7.
+
+(2) This section applies to the following items:
+
+(a) any device, including a computer program, that is designed or adapted primarily, or is capable of being used, for the purpose of committing an offence under section 3, 4, 5, 6 or 7;
+
+(b) a password, an access code, or similar data by which the whole or any part of a computer is capable of being accessed.
+
+(3) A person guilty of an offence under subsection (1) shall be liable on conviction —
+
+(a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 22 of 2017 wef 01/06/2017]
+
 ### Enhanced punishment for offences involving protected computers
 
 9\.—(1) Where access to any protected computer is obtained in the course of the commission of an offence under section 3, 5, 6 or 7, the person convicted of such an offence shall, in lieu of the punishment prescribed in those sections, be liable to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 20 years or to both.
@@ -336,17 +420,81 @@ MISCELLANEOUS AND GENERAL
 
 ### Territorial scope of offences under this Act
 
-11\.—(1) Subject to subsection (2), the provisions of this Act shall have effect, in relation to any person, whatever his nationality or citizenship, outside as well as within Singapore.
+11\.—(1) Subject to subsection (3), the provisions of this Act shall have effect, in relation to any person, whatever his nationality or citizenship, outside as well as within Singapore.
+
+[Act 22 of 2017 wef 01/06/2017]
 
 (2) Where an offence under this Act is committed by any person in any place outside Singapore, he may be dealt with as if the offence had been committed within Singapore.
 
-(3) For the purposes of this section, this Act shall apply if, for the offence in question —
+(3) For the purposes of this section, this Act applies if —
 
-(a) the accused was in Singapore at the material time; or
+(a) for the offence in question, the accused was in Singapore at the material time;
 
-(b) the computer, program or data was in Singapore at the material time.
+(b) for the offence in question (being one under section 3, 4, 5, 6, 7 or 8), the computer, program or data was in Singapore at the material time; or
 
-[UK CMA 1990, ss. 4 and 5]
+(c) the offence causes, or creates a significant risk of, serious harm in Singapore.
+
+[Act 22 of 2017 wef 01/06/2017]
+
+(4) In subsection (3)(c), “serious harm in Singapore” means —
+
+(a) illness, injury or death of individuals in Singapore;
+
+(b) a disruption of, or a serious diminution of public confidence in, the provision of any essential service within the meaning of section 15A(12) in Singapore;
+
+(c) a disruption of, or a serious diminution of public confidence in, the performance of any duty or function of, or the exercise of any power by, the Government, an Organ of State, a statutory board, or a part of the Government, an Organ of State or a statutory board; or
+
+(d) damage to the national security, defence or foreign relations of Singapore.
+
+Example1.— The following are examples of acts that seriously diminish or create a significant risk of seriously diminishing public confidence in the provision of an essential service:
+
+(a) publication to the public of the medical records of patients of a hospital in Singapore;
+
+(b) providing to the public access to the account numbers of customers of a bank in Singapore.
+
+Example2.— The following are examples of acts that seriously diminish or create a significant risk of seriously diminishing public confidence in the performance of any duty or function of, or the exercise of any power by, the Government, an Organ of State, a statutory board, or a part of the Government, an Organ of State or a statutory board:
+
+(a) providing to the public access to confidential documents belonging to a ministry of the Government;
+
+(b) publication to the public of the access codes for a computer belonging to a statutory board.
+
+[Act 22 of 2017 wef 01/06/2017]
+
+(5) For the purposes of subsection (3)(c), it is immaterial whether the offence that causes the serious harm in Singapore —
+
+(a) causes such harm directly; or
+
+(b) is the only or main cause of the harm.
+
+[Act 22 of 2017 wef 01/06/2017]
+
+(6) In subsection (4)(c), “statutory board” means a body corporate or unincorporate established by or under any public Act to perform or discharge a public function.
+
+[Act 22 of 2017 wef 01/06/2017]
+
+### Amalgamation of charges
+
+11A\.—(1) This section applies when a person is alleged to have committed 2 or more acts —
+
+(a) each of which is an offence under the same provision in Part II;
+
+(b) that involve the same computer; and
+
+(c) that are committed in a period that does not exceed 12 months.
+
+(2) Despite section 124 of the Criminal Procedure Code (Cap. 68), it is sufficient for the charge in respect of those acts to specify —
+
+(a) particulars of that computer; and
+
+(b) the dates between which the acts are alleged to have been committed,
+
+without specifying the exact dates the acts are committed.
+
+(3) A charge framed in accordance with subsection (2) is treated as a charge of one offence.
+
+(4) If the particulars mentioned in subsection (2)(a) and (b) do not give the accused sufficient notice of what the accused is charged with, then the charge must also give details of how the alleged offence was committed as will be sufficient for that purpose.
+
+[Act 22 of 2017 wef 01/06/2017]
 
 ### Jurisdiction of Courts
 
@@ -558,3 +706,7 @@ This Legislative History is provided for the convenience of users of the Compute
 ||Date of First Reading|12 November 2012 (Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
+|12.|**Act 22 of 2017—Computer Misuse and Cybersecurity (Amendment) Act 2017**|
+||Date of First Reading|9 March 2017 (Bill No. 15/2017 published on 9 March 2017)|
+||Date of Second and Third Readings|3 April 2017|
+||Date of commencement|1 June 2017|
