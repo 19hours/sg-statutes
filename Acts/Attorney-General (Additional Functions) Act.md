@@ -257,3 +257,9 @@ Inland Revenue Authority of Singapore.
 
 [S 375/2016 wef 01/08/2016]
 
+24. 
+
+Presidential Elections Committee.
+
+[S 278/2017 wef 01/06/2017]
+
