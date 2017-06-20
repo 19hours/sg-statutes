@@ -260,9 +260,11 @@ PRELIMINARY
 
 “repealed Act” means the repealed Local Government Integration Act [Cap. 166, 1985 Ed];
 
-“road related facility” includes any traffic sign, directional sign, street name sign, traffic light, bus shelter, railing, lighting apparatus and any optical, electronic, communication, monitoring or computerised equipment necessary for the control and management of traffic, and any other road related structure and facility maintained by the Authority;
+“road related facility” includes any traffic sign, directional sign, street name sign, traffic light, bus shelter, place for the parking of bicycles, power-assisted bicycles or personal mobility devices, railing, lighting apparatus and any optical, electronic, communication, monitoring or computerised equipment necessary for the control and management of traffic, and any other road related structure and facility maintained by the Authority;
 
 [11/2003 wef 01/08/2003]
+
+[Act 3 of 2017 wef 20/06/2017]
 
 “road structure” includes any bridge, underpass, tunnel, earth retaining wall and ancillary buildings;
 
@@ -270,9 +272,13 @@ PRELIMINARY
 
 “street” includes —
 
-(a) any road, bridge, underpass, tunnel, square, footway or passage, whether a thoroughfare or not, over which the public has a right of way; and
+(a) any road, bridge, underpass, tunnel, square, path, footway or passage, whether a thoroughfare or not, over which the public has a right of way; and
 
-(b) any road, footway or passage, open court or open alley, used or intended to be used as a means of access to two or more holdings, whether the public has a right of way thereover or not,
+[Act 3 of 2017 wef 20/06/2017]
+
+(b) any road, path, footway or passage, open court or open alley, used or intended to be used as a means of access to two or more holdings, whether the public has a right of way thereover or not,
+
+[Act 3 of 2017 wef 20/06/2017]
 
 and all channels, drains, ditches and reserves that are deemed to be part of the street;
 
@@ -1294,6 +1300,10 @@ to remove the article or thing within such time as may be specified in the notic
 
 [6/2004 wef 08/03/2004]
 
+(4A) For the purpose of exercising his power under subsection (4)(b) of removing an article or thing or causing an article or thing to be removed, an authorised officer may, with such assistance as he considers necessary, cut or break open any lock, seal, fastener or other device on or connected to the article or thing.
+
+[Act 3 of 2017 wef 20/06/2017]
+
 (5) Where any article or thing has been removed from a public street, five-footway or private footway under subsection (4)(b), the Authority may recover any costs reasonably incurred by it in connection with such removal from the owner of the article or thing or from the person who caused the article or thing to be deposited or to remain on the public street, five-footway or private footway.
 
 [11/2003 wef 01/08/2003]
@@ -1608,24 +1618,30 @@ Street Works Act
 |2.|**1996 Revised Edition—Street Works Act**|
 ||(G.N. No. S 92/1997 — Rectification Order)||
 ||Date of operation|30 April 1996|
-|3.|**Act 3 of 1998—Planning Act 1998**|
+|3.|**G. N. No. S 92/1997—Revised Edition of the Laws (Rectification) Order 1997**|
+||Date of commencement|30 April 1996|
+|4.|**Act 3 of 1998—Planning Act 1998**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|19 November 1997|
 |||(Bill No. 18/1997 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|1 April 1998|
-|4.|**Act 11 of 2003—Street Works (Amendment) Act 2003**|
+|5.|**Act 11 of 2003—Street Works (Amendment) Act 2003**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|24 April 2003|
 |||(Bill No. 9/2003 published on 25 April 2003)|
 ||Date of Second and Third Readings|30 June 2003|
 ||Date of commencement|1 August 2003|
-|5.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+|6.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|8 March 2004|
-|6.|**Act 12 of 2015—Land Acquisition (Amendment) Act 2015**|
+|7.|**Act 12 of 2015—Land Acquisition (Amendment) Act 2015**|
 ||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
+|8.|**Act 3 of 2017—Active Mobility Act 2017**|
+||Date of First Reading|9 November 2016 (Bill No. 40/2016 published on 9 November 2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|20 June 2017|
