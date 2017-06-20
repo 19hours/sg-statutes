@@ -12,6 +12,8 @@
 
 - [3 Users of motor vehicles to be insured against third-party risks](#Users-of-motor-vehicles-to-be-insured-against-third-party-risks)
 
+- [3A Presumption as to using motor vehicle](#Presumption-as-to-using-motor-vehicle)
+
 - [4 Requirements in respect of policies and securities](#Requirements-in-respect-of-policies-and-securities)
 
 - [5 Exclusion of liability in respect of passengers to be of no effect](#Exclusion-of-liability-in-respect-of-passengers-to-be-of-no-effect)
@@ -204,13 +206,7 @@ unless there is in force in relation to the use of the motor vehicle by that per
 
 (5) A person disqualified by virtue of a conviction under this section or of an order made thereunder for holding or obtaining a driving licence shall for the purposes of Part II of the Road Traffic Act be deemed to be disqualified by virtue of a conviction under the provisions of that Part.
 
-(6) Notwithstanding any Act prescribing a time within which proceedings may be brought before a court, proceedings for an offence under this section may be brought —
-
-(a) within a period of 6 months from the date of the commission of the alleged offence; or
-
-(b) within a period which exceeds neither 3 months from the date on which it came to the knowledge of the prosecutor that the offence had been committed nor one year from the date of the commission of the offence,
-
-whichever period is the longer.
+(6) [Deleted by Act 10 of 2017 wef 20/06/2017]
 
 (7) This section shall not apply —
 
@@ -237,6 +233,20 @@ on any occasion upon which the vehicle is being used by any person authorised by
 (9) The Minister may, by order published in theGazette, amend the Schedule.
 
 [23/98]
+
+### Presumption as to using motor vehicle
+
+3A\.—(1) For the purposes of this Act, it is presumed, until the contrary is proved, that a person uses a motor vehicle on a road in Singapore if it is proved —
+
+(a) for a vehicle registered under the Road Traffic Act (Cap. 276), that the person is, at the material time, recorded as the owner of that vehicle in a register of vehicles;
+
+(b) for a vehicle the registration of which under the Road Traffic Act is cancelled under section 27(1) of that Act or has lapsed, that the person is last recorded as the owner of that vehicle in a register of vehicles; or
+
+(c) for a vehicle that is not registered under the Road Traffic Act and is not a vehicle mentioned in paragraph (b), that the person has a legal right to possession of the vehicle (including any person who has the use of the vehicle under a lease or hire‑purchase agreement, but not the lessor while the vehicle is being leased under any such agreement).
+
+(2) In subsection (1), “register of vehicles” means the register required by rules made under section 34 of the Road Traffic Act to be maintained by the Authority for the purposes of section 10 of that Act.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Requirements in respect of policies and securities
 
@@ -846,6 +856,10 @@ This Legislative History is provided for the convenience of users of the Motor V
 ||Date of First Reading|7 October 2014 (Bill No. 34/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|31 December 2014|
+|18.|**Act 10 of 2017—Road Traffic (Amendment) Act 2017**|
+||Date of First Reading|10 January 2017 (Bill No. 5/2017 published on 10 January 2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|20 June 2017|
 ## COMPARATIVE TABLE
 
 Motor Vehicles (Third-Party Risks and Compensation) Act
