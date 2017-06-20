@@ -1054,7 +1054,7 @@ GENERAL
 
 ### Powers of enforcement
 
-39\.—(1) In addition to the powers conferred on him by any written law specified in the Fifth Schedule, an officer or employee of the Authority may, on declaration of his office and production to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority, in relation to any offence under any such written law —
+39\.—(1) In addition to the powers conferred on him by any written law specified in the Fifth Schedule, being a written law administered by the Authority, an officer or employee of the Authority may, on declaration of his office and production to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority, in relation to any offence under any such written law —
 
 (a) exercise all the powers of a police officer under sections 81, 92, 93 and 127 of the Road Traffic Act [Cap. 276] and all the powers of a duly authorised police officer under section 94 of that Act, and any reference in those sections to a police officer or duly authorised police officer shall include a reference to such officer or employee of the Authority;
 
@@ -1067,6 +1067,42 @@ GENERAL
 (e) when conducting any investigation under such written law, require, by order in writing, the attendance before the officer or employee of any person being within the limits of Singapore who from the information given or otherwise appears to be acquainted with the circumstances of the case, and the person so ordered shall attend as so required; and
 
 (f) detain or seize any document found in the course of a search under this subsection.
+
+[Act 3 of 2017 wef 20/06/2017]
+
+(1A) The power of an officer or employee of the Authority to require a person to furnish any information or document under subsection (1)(d) includes the power —
+
+(a) to require the person, or any person who is or was an officer or employee of that person, to provide an explanation of the information or document;
+
+(b) if the information or document is not furnished, to require the person to state, to the best of the person’s knowledge and belief, where it is; and
+
+(c) if the information or document is recorded otherwise than in legible form, to require the information or document to be made available to the officer or employee of the Authority in legible form.
+
+[Act 3 of 2017 wef 20/06/2017]
+
+(1B) For the purposes of subsection (1), if any information or document required by an officer or employee of the Authority is kept in electronic form —
+
+(a) the power of the officer or employee of the Authority to inspect the information or document includes the power —
+
+(i) to access any computer or other equipment (including a mobile telephone) in which the information or document is stored; and
+
+(ii) to require any person having charge of, or otherwise concerned with the operation of, the computer or equipment to provide assistance in gaining such access; and
+
+(b) the power of the officer or employee of the Authority to seize such information or document includes the power —
+
+(i) to make copies of the information or document in legible or electronic form; and
+
+(ii) to transfer the content from the information or document to a disk, tape or other storage device.
+
+[Act 3 of 2017 wef 20/06/2017]
+
+(1C) If an officer or employee of the Authority is unable to make copies of the information or document, or transfer the content from the information or document, under subsection (1B), the officer or employee may —
+
+(a) seize the computer or other equipment (including a mobile telephone) in which the information or document is stored, as evidence in proceedings for an offence under this Act or written law specified in the Fifth Schedule; and
+
+(b) require any person having charge of, or otherwise concerned with the operation of, the computer or equipment to disclose any password or access code for gaining access to the information or document held in the computer or equipment.
+
+[Act 3 of 2017 wef 20/06/2017]
 
 (2) Where any person is arrested by an officer or employee of the Authority under subsection (1), the officer or employee shall comply with sections 67 and 68 of the Criminal Procedure Code 2010 as if he were a police officer.
 
@@ -1084,9 +1120,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by officers of Authority
 
-40\.—(1) Proceedings in respect of any offence under this Act or any written law specified in the Fifth Schedule or any subsidiary legislation made under this Act or any such written law, may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Authority.
+40\.—(1) Proceedings in respect of any offence under this Act or any written law specified in the Fifth Schedule, being a written law administered by the Authority, or any subsidiary legislation made under this Act or any such written law, may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Authority.
 
 [15/2010 wef 02/01/2011]
+
+[Act 3 of 2017 wef 20/06/2017]
 
 (2) The Minister may, by order published in theGazette, amend the Fifth Schedule.
 
@@ -1761,3 +1799,7 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of commencement|4 April 2016|
 |28.|**G.N. No. S 364/2016—Land Transport Authority of Singapore Act (Amendment of Fifth Schedule) (No. 3) Order 2016**|
 ||Date of commencement|29 July 2016|
+|29.|**Act 3 of 2017—Active Mobility Act 2017**|
+||Date of First Reading|9 November 2016 (Bill No. 40/2016 published on 9 November 2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|20 June 2017|
