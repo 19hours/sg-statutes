@@ -42,6 +42,8 @@
 
 - [11A Restricted licences and supplementary licences](#Restricted-licences-and-supplementary-licences)
 
+- [11B Tax upon end of exemption from permit, etc.](#Tax-upon-end-of-exemption-from-permit-etc)
+
 - [12 Vehicles licensed outside Singapore](#Vehicles-licensed-outside-Singapore)
 
 - [13 Commencement and duration of licences](#Commencement-and-duration-of-licences)
@@ -50,7 +52,7 @@
 
 - [15 Using and keeping of vehicle without licence](#Using-and-keeping-of-vehicle-without-licence)
 
-- [16 Presumption on use and keeping of vehicle](#Presumption-on-use-and-keeping-of-vehicle)
+- [16 Presumption as to use or keeping of vehicle](#Presumption-as-to-use-or-keeping-of-vehicle)
 
 - [17 Continuous liability for duty](#Continuous-liability-for-duty)
 
@@ -214,7 +216,7 @@
 
 - [68 Being in charge of motor vehicle when under influence of drink or drugs](#Being-in-charge-of-motor-vehicle-when-under-influence-of-drink-or-drugs)
 
-- [69 Breath tests](#Breath-tests)
+- [69 Preliminary breath tests](#Preliminary-breath-tests)
 
 - [70 Provision of specimen for analysis](#Provision-of-specimen-for-analysis)
 
@@ -244,7 +246,7 @@
 
 - [81 Duty to give information](#Duty-to-give-information)
 
-- [82 (Repealed)](#Repealed)
+- [82 Amendment of Third Schedule](#Amendment-of-Third-Schedule)
 
 - [83 Liability of owner of vehicle for specified offence](#Liability-of-owner-of-vehicle-for-specified-offence)
 
@@ -482,7 +484,13 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 [24/2010 wef 01/11/2010]
 
-“Deputy Commissioner of Police” includes any police officer not below the rank of sergeant authorised by the Deputy Commissioner of Police in writing by name or office to exercise the powers vested by this Act in the Deputy Commissioner of Police;
+“Deputy Commissioner of Police”, in relation to any provision of this Act or rules or any other subsidiary legislation made under this Act, means the Deputy Commissioner of Police designated by the Commissioner of Police for the purposes of that provision, and includes any police officer who —
+
+(a) is not below the rank of sergeant; and
+
+(b) is authorised under the hand of the Deputy Commissioner of Police for the purposes of that provision, to exercise the powers of that Deputy Commissioner of Police;
+
+[Act 10 of 2017 wef 20/06/2017]
 
 “de‑registered vehicle” means a vehicle the registration of which has been cancelled by the Registrar under section 27(1);
 
@@ -516,13 +524,19 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “Minister” means —
 
-(a) except as provided in paragraphs (b) and (c), the Minister charged with the responsibility for transport;
+(a) except as provided in paragraphs (b) and (c), the Minister charged with the responsibility for land transport;
 
-(b) for the purposes of the whole of Parts II and III and sections 75(1), 112(1), (3) and (4), 113(1) and (2), 114(1), 116(2), 121(2) and 143(3) and (11), the Minister charged with the responsibility for home affairs; and
+[Act 10 of 2017 wef 20/06/2017]
 
-(c) for the purposes of sections 131B(7), 132(7), 135(2), 140(1) and (2), 142 and 142A(1), the Minister charged with the responsibility for transport or the Minister charged with the responsibility for home affairs, as appropriate;
+(b) for the purposes of the whole of Parts II and III and sections 75(1), 82, 112(1), (3) and (4), 113(1) and (2), 114(1), 116(2), 121(2) and 143(3) and (11), the Minister charged with the responsibility for law and order; and
+
+[Act 10 of 2017 wef 20/06/2017]
+
+(c) for the purposes of sections 131B(7), 132(7), 135(2), 140(1) and (2), 142 and 142A(1), the Minister charged with the responsibility for land transport or the Minister charged with the responsibility for law and order, as appropriate;
 
 [Act 28 of 2014 wef 01/02/2015]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 [Deleted by Act 25 of 2011 wef 01/01/2012]
 
@@ -670,15 +684,29 @@ REGISTRATION AND LICENSING OF VEHICLES
 
 (4) Subject to this section, it shall not be lawful to sell or to supply or to offer to sell or supply a vehicle or trailer for delivery in such a condition that the use thereof in that condition would be unlawful by virtue of this section.
 
-(5) Subject to this section, it shall not be lawful to alter a vehicle or trailer so as to render its condition such that the use thereof in that condition would be unlawful by virtue of this section.
+(5) A person who alters (whether in the course of repair or otherwise) a vehicle or trailer so as to render its condition such that the use of the vehicle or trailer in that condition would be unlawful by virtue of this section, shall be guilty of an offence.
+
+[Act 10 of 2017 wef 20/06/2017]
+
+(5A) It is presumed, until the contrary is proved, that a person alters (whether in the course of repair or otherwise) a vehicle or trailer as to render its condition such that the use of the vehicle or trailer in that condition would be unlawful by virtue of this section (called in this section non‑compliant) if it is proved —
+
+(a) that the accused had possession of the vehicle or trailer;
+
+(b) that the vehicle or trailer was not non‑compliant when the accused acquired possession of it; and
+
+(c) that at that time or soon after the vehicle or trailer (as the case may be) ceased to be in the accused’s possession, the vehicle or trailer is non‑compliant.
+
+[Act 10 of 2017 wef 20/06/2017]
+
+(5B) In this section, “alter” includes causing or authorising a person to alter, and offering to alter.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (6) If a vehicle or trailer is used or is sold, supplied, offered or altered in contravention of this section, any person who so uses the vehicle or trailer or causes or permits the vehicle or trailer to be so used or so sells, supplies, offers or alters it or causes or permits it to be so sold, supplied, offered or altered shall be guilty of an offence.
 
-(7) Any person who is guilty of an offence under subsection (6) shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
+(7) Any person who is guilty of an offence under subsection (5) or (6) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[45/99]
-
-[Act 37 of 2012 wef 01/01/2013]
+[Act 10 of 2017 wef 20/06/2017]
 
 (7A) Where in any proceedings relating to an offence under subsection (6), it is proved to the satisfaction of the court that a vehicle or trailer is used or caused or permitted to be used in contravention of this section, the court may, upon the application of the Public Prosecutor, make an order for the vehicle or trailer to be detained for a period not exceeding 3 months (referred to in this section as the detention period) by the Registrar or an authorised officer.
 
@@ -728,11 +756,31 @@ and the surplus, if any, shall be paid to the person in whose name the vehicle o
 
 [Act 37 of 2012 wef 01/01/2013]
 
-(8) A person shall not be convicted for an offence under this section in respect of the sale, supply, offer or alteration of a vehicle or trailer if he proves that it was sold, supplied, offered or altered, as the case may be, for export from Singapore, or that he had reasonable cause to believe that the vehicle or trailer would not be used in Singapore or would not be so used until it had been put into a condition in which it might lawfully be so used.
+(8) In any proceedings for an offence under subsection (6) in respect of the sale, supply, offer or alteration of a vehicle or trailer, it is a defence to any prosecution for an offence under this section, if the accused proves, on a balance of probabilities, that —
 
-(9) In this section, “authorised officer” means any employee of the Authority who is duly authorised by the Registrar in writing to act under this section.
+(a) a contract or arrangement has been entered into, or an understanding has been arrived at, for the non‑compliant vehicle or trailer to be exported (whether or not the accused is a party to that contract, arrangement or understanding);
 
-[Act 37 of 2012 wef 01/01/2013]
+(b) the accused sells the non‑compliant vehicle or trailer in the course of, or for the purpose of, the non‑compliant vehicle or trailer being exported; and
+
+(c) the accused does not offer that non‑compliant vehicle or trailer for sale in Singapore and the sale is not a retail sale.
+
+[Act 3 of 2017 wef 20/06/2017]
+
+(9) It is also a defence to any prosecution for an offence under this section, if the accused proves, on a balance of probabilities, that —
+
+(a) the accused had received from the person to whom the non‑compliant vehicle or trailer was sold, evidence purporting to show that the person does not intend to use the vehicle or trailer on any road; and
+
+(b) it was reasonable to, and the accused did accept, that evidence as correct.
+
+[Act 3 of 2017 wef 20/06/2017]
+
+(10) In this section —
+
+“authorised officer” means any employee of the Authority who is duly authorised by the Registrar in writing to act under this section;
+
+“non‑compliant vehicle or trailer” means a vehicle or trailer which does not comply with the rules as to construction, weight and equipment applicable to the class or description of vehicles to which the vehicle or trailer belongs.
+
+[Act 3 of 2017 wef 20/06/2017]
 
 ### Rules as to use and construction of vehicles
 
@@ -844,9 +892,11 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 ### Appointment of Registrar, Deputy Registrar and assistant registrars
 
-9\.—(1) The Authority shall appoint one of its officers as the Registrar of Vehicles who shall carry out such duties as may be assigned to him under this Act.
+9\.—(1) The Authority shall appoint one of its officers as the Registrar of Vehicles who shall carry out such duties as may be assigned to him under this Act and the rules.
 
 [28/95]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) The Authority may appoint from among its officers a Deputy Registrar and such number of assistant registrars as may from time to time be required for the purposes of this Act.
 
@@ -856,29 +906,39 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 [28/95]
 
-(4) The Registrar shall cause to be printed and provided the forms of licences and of applications for the licences and all declarations, notices, returns, books of accounts and other documents required by the rules or otherwise by law required with respect to any matter to which this Act relates.
+(4) The Registrar must make publicly available the forms of licences and of applications for the licences and all declarations, notices, returns, books of accounts and other documents required by the rules or otherwise by law required with respect to any matter to which this Act relates.
 
 [28/95]
 
+[Act 10 of 2017 wef 20/06/2017]
+
 ### Registration of vehicles
 
-10\.—(1) Except as otherwise provided by this Act, no person shall keep or use a vehicle unless it has been registered under this Act and its registration under this Act has not been cancelled.
+10\.—(1) Except as otherwise provided by this Act and the rules, no person shall keep or use a vehicle unless it has been registered under this Act and its registration under this Act has not been cancelled.
 
 [7/90]
 
+[Act 10 of 2017 wef 20/06/2017]
+
 (2) The Registrar may charge such fees as may be prescribed for the registration of a vehicle under this Act.
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [45/99]
 
+[Act 10 of 2017 wef 20/06/2017]
+
 ### Vehicles not to be registered without permits issued by Registrar
 
-10A\.—(1) No vehicle shall be registered or, except as otherwise provided by this Act, continue to be registered under this Act unless there is in force a permit issued by the Registrar authorising the registration of the vehicle.
+10A\.—(1) No vehicle shall be registered or, except as otherwise provided by this Act and the rules, continue to be registered under this Act unless there is in force a permit issued by the Registrar authorising the registration of the vehicle.
 
 [7/90; 33/93]
 
-(2) Except as otherwise provided by this Act, a permit shall be issued upon the payment of a levy.
+[Act 10 of 2017 wef 20/06/2017]
+
+(2) Except as otherwise provided by this Act or the rules, a permit shall be issued upon the payment of a levy.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (3) The Minister may from time to time, by notification in theGazette, prescribe a limit on the number of permits to be issued by the Registrar under subsection (1) and the Minister may prescribe different limits for vehicles belonging to any category, class or description.
 
@@ -940,7 +1000,7 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 
 ### Charge of tax on vehicles
 
-11\.—(1) Subject to the provisions of this Act, a tax shall be charged in respect of —
+11\.—(1) Subject to the provisions of this Act and the rules, a tax shall be charged in respect of —
 
 (a) the first registration of every vehicle under this Act;
 
@@ -951,6 +1011,8 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 [Act 23 of 2013 wef 01/01/2014]
 
 (b) every vehicle used or kept on any road in Singapore.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) The tax shall be paid upon a licence to be taken out by the person keeping the vehicle.
 
@@ -1074,6 +1136,40 @@ shall be guilty of an offence and shall on conviction be punished with a fine no
 
 [1/2003]
 
+### Tax upon end of exemption from permit, etc.
+
+11B\.—(1) This section applies where an exemption is granted (whether before, on or after the date of commencement of section 9 of the Road Traffic (Amendment) Act 2017) under section 14, 33 or 142 from the requirement of a permit or levy under section 10A in respect of a vehicle first registered on or after 1 April 1998 but before 26 February 2013, being an exemption that is —
+
+(a) for a specified period;
+
+(b) due to the use or description of the vehicle;
+
+(c) due to the status or description of the registered owner of the vehicle; or
+
+(d) subject to any condition (whether a condition precedent or a condition subsequent).
+
+(2) A tax is payable as follows, whichever first happens:
+
+(a) when the specified period for the exemption described in subsection (1)(a) ends;
+
+(b) when there is a change in the use or description of the vehicle as to render the vehicle no longer within any use or description in any exemption described in subsection (1)(b);
+
+(c) when there is a change to the status or description of the registered owner of the vehicle as to render the registered owner not having any status or meeting any description in any exemption described in subsection (1)(c);
+
+(d) when the condition (whether a condition precedent or a condition subsequent) subject to which the exemption described in subsection (1)(d) is granted is first breached.
+
+(3) The tax under subsection (2) is payable and recoverable from the person who is keeping or using the vehicle at the applicable time mentioned in that subsection.
+
+(4) The tax under subsection (2) is equal to the amount of tax that would have been payable under section 11(1)(a) on the first registration of a vehicle mentioned in subsection (1) if it was not so exempted from the requirement of a permit or levy under section 10A, and as if the vehicle had been first registered with such a permit issued on that day of first registration.
+
+(5) To avoid doubt, a reference in subsection (4) to the tax that would have been payable under section 11(1)(a) on the first registration of a vehicle mentioned in subsection (1) if it was not so exempted from the requirement of a permit or levy under section 10A includes a reference to any rebate from that tax that may be claimed under section 11 when the vehicle was first registered.
+
+(6) Any person who gives any incorrect information in relation to any matter affecting the amount of tax chargeable under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months, and the court shall order the person to pay to the Registrar the amount of tax which has been undercharged.
+
+(7) The Registrar may, in his discretion, compound any offence punishable under subsection (6) by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $1,000 and the amount of the tax undercharged, and may before judgment stay or compound any proceedings thereunder.
+
+[Act 10 of 2017 wef 20/06/2017]
+
 ### Vehicles licensed outside Singapore
 
 12\.—(1) Where any vehicle not registered under this Act is kept or used on any road in Singapore by a person who is —
@@ -1150,9 +1246,19 @@ and shall, unless the Registrar otherwise determines, first have effect on the f
 
 and ending with the last day of the month during which the offence was committed.
 
-### Presumption on use and keeping of vehicle
+### Presumption as to use or keeping of vehicle
 
-16\. For the purposes of this Act, the person who is for the time being registered under the provisions of this Part as the owner of a vehicle shall, until the contrary is proved, be presumed to keep or use that vehicle on a road.
+16\.—(1) For the purposes of this Part, it is presumed, until the contrary is proved, that a person keeps or uses a vehicle on a road in Singapore if it is proved —
+
+(a) for a vehicle registered under this Act, that the person is, at the material time, recorded as the owner of that vehicle in a register of vehicles;
+
+(b) for a vehicle the registration of which under this Act is cancelled under section 27(1) or has lapsed, that the person is last recorded as the owner of that vehicle in a register of vehicles; or
+
+(c) for a vehicle that is not registered under this Act and is not a vehicle mentioned in paragraph (b), that the person has a legal right to possession of the vehicle (including any person who has the use of the vehicle under a lease or hire‑purchase agreement, but not the lessor while the vehicle is being leased under any such agreement).
+
+(2) In subsection (1), “register of vehicles” means the register required by rules made under section 34 to be maintained by the Authority for the purposes of section 10.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Continuous liability for duty
 
@@ -1190,11 +1296,15 @@ and ending with the last day of the month during which the offence was committed
 
 (3) The Registrar shall not be required to issue any vehicle licence for which application is made unless he is satisfied —
 
-(a) that the licence applied for is the appropriate licence for the vehicle specified in the application and all fees and taxes due and payable in respect of the vehicle and any penalty recoverable from the registered owner of the vehicle under this Act have been paid;
+(a) that the licence applied for is the appropriate licence for the vehicle specified in the application and all fees and taxes due and payable in respect of the vehicle and any penalty recoverable from the registered owner of the vehicle under this Act or the rules have been paid;
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (b) in the case of an application for a licence for a vehicle purporting to be the first application for a licence for the vehicle, that a licence has not previously been issued for that vehicle;
 
-(c) that there is no warrant of arrest issued under section 120 of the Criminal Procedure Code 2010 against the applicant in respect of any offence committed by him under this Act or any written law specified in Part I of the First Schedule;
+(c) that there is no warrant of arrest issued under section 120 of the Criminal Procedure Code 2010 against the applicant in respect of any offence committed by him under this Act or the rules or any written law specified in Part I of the First Schedule;
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (d) that either —
 
@@ -1210,9 +1320,11 @@ and ending with the last day of the month during which the offence was committed
 
 [15/2010 wef 02/01/2011]
 
-(4) Without prejudice to subsection (3), the Registrar may refuse to issue a vehicle licence if he is satisfied that the vehicle in respect of which the licence is to be issued is registered in the name of a person who, pursuant to a warrant of court, has been arrested in connection with an offence under this Act or any written law specified in Part I of the First Schedule and the offence has not been tried and determined by the court.
+(4) Without prejudice to subsection (3), the Registrar may refuse to issue a vehicle licence if he is satisfied that the vehicle in respect of which the licence is to be issued is registered in the name of a person who, pursuant to a warrant of court, has been arrested in connection with an offence under this Act or the rules or any written law specified in Part I of the First Schedule and the offence has not been tried and determined by the court.
 
 [45/99; 28/2001]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (5) Rules made under this Act may provide for the issue of a new licence in the place of a licence which has been damaged, rendered illegible, lost or destroyed, and for the information to be furnished and the fee to be paid for the issue of a new licence.
 
@@ -1342,7 +1454,13 @@ shall be guilty of an offence and shall be liable on conviction —
 
 24\.—(1) Where a vehicle licence has been taken out for a vehicle at any rate prescribed under this Act and the vehicle is, at any time while the licence is in force, used in an altered condition or in a manner or for a purpose which brings it within, or which if it was used solely in that condition or in that manner or for that purpose would bring it within, a description of vehicle to which a higher rate of tax is applicable under this Act, tax at that higher rate shall become chargeable in respect of the licence for the vehicle.
 
-(2) Where tax at a higher rate becomes chargeable under subsection (1) in respect of any vehicle licence, the licence may be exchanged for a new vehicle licence, for the period beginning with the date on which the higher rate of tax becomes chargeable and expiring at the end of the period for which the original vehicle licence was issued, on payment of the difference between the amount payable on the new licence and the amount to be refunded on the surrender of the original vehicle licence.
+(2) Where tax at a higher rate becomes chargeable under subsection (1) in respect of any vehicle licence, a new vehicle licence is deemed to be in force, for the period beginning with the date on which the higher rate of tax becomes chargeable and expiring at the end of the period for which the original vehicle licence was issued, on payment of the difference between the amount payable on the new licence and the amount to be refunded on the surrender of the original vehicle licence in accordance with section 22.
+
+[Act 10 of 2017 wef 20/06/2017]
+
+(2A) Subsection (2) does not validate the use of a vehicle between the time a vehicle licence is deemed by that subsection to be in force for that vehicle and the date the vehicle licence is actually issued, if later.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (3) Where a vehicle licence has been taken out for a vehicle, and by reason of the vehicle being used as mentioned in subsection (1), a higher rate of tax becomes chargeable and tax at the higher rate was not paid before the vehicle was so used, the person so using the vehicle shall be guilty of an offence.
 
@@ -1442,6 +1560,10 @@ shall be guilty of an offence and shall be liable on conviction —
 
 [Act 37 of 2012 wef 01/01/2013]
 
+(da) if the Registrar becomes aware of a circumstance that would have required or permitted the Registrar to refuse to register the vehicle, had the Registrar been aware of the circumstance immediately before registering the vehicle;
+
+[Act 10 of 2017 wef 20/06/2017]
+
 (e) if the vehicle exceeds the age-limit prescribed for the class or description of vehicles to which the vehicle belongs; or
 
 [7/90; 33/93]
@@ -1504,9 +1626,11 @@ issue a general licence to the applicant either unconditionally or subject to su
 
 (a) that the issue of the licence has been procured by fraud or misrepresentation; or
 
-(b) that the person to whom the general licence was issued has contravened or failed to comply with any of the provisions of this Act or with any condition of the general licence.
+(b) that the person to whom the general licence was issued has contravened or failed to comply with any of the provisions of this Act or the rules or with any condition of the general licence.
 
 [28/2001]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (9) Upon the suspension or revocation of a licence under subsection (8), the holder of the general licence shall surrender the general licence to the Registrar.
 
@@ -1538,7 +1662,9 @@ issue a general licence to the applicant either unconditionally or subject to su
 
 (4) The Registrar may suspend or cancel a special purpose licence if the vehicle in respect of which the special purpose licence has been issued is kept or used in contravention of —
 
-(a) any of the provisions of this Act; or
+(a) any of the provisions of this Act or the rules; or
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (b) any of the conditions subject to which the special purpose licence was issued.
 
@@ -1558,13 +1684,15 @@ issue a general licence to the applicant either unconditionally or subject to su
 
 ### Offences in connection with registration and licensing of vehicles
 
-29\.—(1) If any person possesses or uses any vehicle, other than a bicycle or a trishaw, for which a licence under this Part is not in force or causes or permits it to be so used or, being the holder of a general licence or general licences issued under this Act, uses at any one time a greater number of vehicles than he is authorised to use by virtue of that licence or those licences, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+29\.—(1) If any person possesses or uses any vehicle, other than a bicycle or a trishaw, for which a licence under this Part is not in force or causes or permits it to be so used or, being the holder of a general licence or general licences issued under this Act, uses at any one time a greater number of vehicles than he is authorised to use by virtue of that licence or those licences, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [28/2001]
 
+[Act 10 of 2017 wef 20/06/2017]
+
 (2) If any person uses a bicycle which has not been registered or a trishaw which has not been licensed under this Part, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
 
-(3) Proceedings for a penalty under subsection (1) or (2) may be brought at any time within a period of 12 months from the date on which the offence was committed.
+(3) [Deleted by Act 10 of 2017 wef 20/06/2017]
 
 (4) Where a licence has been taken out for a motor vehicle to be used solely for a certain purpose and the motor vehicle is, at any time during the period for which the licence is in force, used for some other purpose, the person so using the motor vehicle or causing or permitting it to be so used shall, if the rate of fee chargeable in respect of a licence for a motor vehicle used for that other purpose is higher than the rate chargeable in respect of the licence held by him, be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, shall in addition be liable to imprisonment for a term not exceeding 3 months.
 
@@ -1752,7 +1880,9 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (f) to extend any provisions as to registration and provisions incidental to any such provisions to any vehicle in respect of which taxes chargeable under this Part are not payable and to provide for the identification of any such vehicle;
 
-(g) to provide for information contained in any records maintained by the Registrar with respect to the marking, registration or keeping of vehicles to be made public or to be made available, either without payment or on payment of the prescribed fee, to such persons as may be determined by or under the rules;
+(g) to provide for information contained in any records maintained by the Registrar with respect to the marking, registration, licensing or keeping of vehicles to be made public or to be made available, either without payment or on payment of the prescribed fee, to such persons as may be determined by or under the rules;
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (h) with respect to the form and particulars to be included in a notice under section 17(2)(b), the manner of giving such a notice and the time at which it is to be treated as being given;
 
@@ -1956,13 +2086,15 @@ LICENSING OF DRIVERS
 
 (9) Where the applicant is subject to any restriction with respect to the driving of any class of motor vehicle, the extent of the restriction shall be specified in the prescribed manner on the driving licence.
 
-(10) Subject to the provisions of this Act, unless earlier revoked or surrendered —
+(10) Subject to the provisions of this Act and the rules, unless earlier revoked or surrendered —
 
 (a) a driving licence granted to a person who is, or a renewed driving licence of a person who becomes, a citizen or permanent resident of Singapore remains in force for the lifetime of that person; and
 
 (b) a driving licence granted to, or a renewed driving licence of, a person who is not a citizen or permanent resident of Singapore remains in force for a period of 5 years beginning on the date of such grant or renewal, as the case may be, or such shorter period as the Deputy Commissioner of Police may specify in any particular case.
 
 [Act 28 of 2014 wef 01/02/2015]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (10A) Notwithstanding subsection (10) but subject to the other provisions of this Act, a driving licence referred to in subsection (10)(a) or (b) ceases to be in force when the person who holds the driving licence attains any of the prescribed ages applicable to the person, unless before attaining such age —
 
@@ -1980,13 +2112,17 @@ LICENSING OF DRIVERS
 
 (13) The Deputy Commissioner of Police may refuse to renew any driving licence if he is satisfied —
 
-(a) that the holder of the driving licence has not complied with any process of court issued against him in respect of any offence committed by him under this Act or any written law specified in Part II of the First Schedule; or
+(a) that the holder of the driving licence has not complied with any process of court issued against him in respect of any offence committed by him under this Act or the rules or any written law specified in Part II of the First Schedule; or
 
-(b) that the holder of the driving licence has, pursuant to a warrant of court, been arrested in connection with an offence under this Act or any written law specified in Part II of the First Schedule and the offence has not been tried and determined by the court.
+[Act 10 of 2017 wef 20/06/2017]
+
+(b) that the holder of the driving licence has, pursuant to a warrant of court, been arrested in connection with an offence under this Act or the rules or any written law specified in Part II of the First Schedule and the offence has not been tried and determined by the court.
 
 [1/99; 28/2001; 21/2002]
 
 [Act 28 of 2014 wef 01/02/2015]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (14) Subject to subsection (15), the Minister may, by notification in theGazette, amend Part II of the First Schedule.
 
@@ -2036,11 +2172,13 @@ LICENSING OF DRIVERS
 
 [24/2010 wef 01/11/2010]
 
-(2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act, and providing for the circumstances where any points so awarded may be cancelled or disregarded.
+(2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act or the rules, and providing for the circumstances where any points so awarded may be cancelled or disregarded.
 
 [7/90]
 
 [Act 28 of 2014 wef 01/11/2015]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (3) The Deputy Commissioner of Police may, under subsection (1), regard a person as not competent to drive a motor vehicle, or establish that it would not be in the interests of public safety for a person to continue to hold a driving licence, if that person is awarded, within a prescribed period, points prescribed for the commission of an offence or offences under this Act that are equal to or in excess of the maximum number of points prescribed (called the revocation threshold).
 
@@ -2066,13 +2204,17 @@ LICENSING OF DRIVERS
 
 [7/90]
 
-(7) Where a holder of a valid driving licence commits on a single occasion more than one offence under this Act, points shall be awarded against him only for the offence committed by him and in respect of which the largest number of points may be awarded against a person.
+(7) Where a holder of a valid driving licence commits on a single occasion more than one offence under this Act or the rules, points shall be awarded against him only for the offence committed by him and in respect of which the largest number of points may be awarded against a person.
 
 [7/90]
 
-(8) For the purposes of this section, a person shall be deemed to have committed an offence under this Act if he pays the prescribed penalty for that offence under section 132.
+[Act 10 of 2017 wef 20/06/2017]
+
+(8) For the purposes of this section, a person shall be deemed to have committed an offence under this Act or the rules if he pays the prescribed penalty for that offence under section 132.
 
 [7/90]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Licensee may show cause why driving licence should not be revoked
 
@@ -2136,15 +2278,19 @@ LICENSING OF DRIVERS
 
 [Act 28 of 2014 wef 01/02/2015]
 
-(3) For the purpose of enabling the applicant for a driving licence to learn to drive a motor vehicle with a view to passing a test under this section, the Deputy Commissioner of Police may, if so requested by the applicant and on payment of the prescribed fee, grant to the applicant a provisional licence to be in force for a period of 6 months.
+(3) For the purpose of enabling the applicant for a driving licence to learn to drive a motor vehicle with a view to passing a test under this section, the Deputy Commissioner of Police may, if so requested by the applicant and on payment of the prescribed fee, grant to the applicant a provisional licence to be in force for a period prescribed.
 
 [Act 28 of 2014 wef 01/02/2015]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (4) A provisional licence shall be in the prescribed form and granted subject to the prescribed conditions.
 
 (5) If any person to whom such a provisional licence is granted fails to comply with any of the conditions subject to which it is granted, he shall be guilty of an offence.
 
-(6) [Deleted by Act 28 of 2014 wef 01/02/2015]
+(6) Different validity periods for provisional licences may be prescribed under section 48 for different types of provisional licences.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (7) The court before which a person is convicted of an offence under section 64, 65 or 65A may, whether he has previously passed the prescribed test of competence to drive or not and whether or not the court makes an order under section 42 disqualifying him from holding or obtaining a licence to drive a motor vehicle, order him to be disqualified from holding or obtaining a licence to drive a motor vehicle until he has since the date of the order passed the test.
 
@@ -2280,7 +2426,9 @@ the court may, in addition to imposing on the offender the punishment provided f
 
 42A\.—(1) The Public Prosecutor may apply to the court for an order disqualifying a person from holding or obtaining a driving licence if —
 
-(a) that person is accused of an offence under this Act or any written law specified in Part II of the First Schedule and had failed to appear before a court to answer the charge against him notwithstanding that he had been served with the appropriate process of court requiring him to so appear before that court;
+(a) that person is accused of an offence under this Act or the rules or any written law specified in Part II of the First Schedule and had failed to appear before a court to answer the charge against him notwithstanding that he had been served with the appropriate process of court requiring him to so appear before that court;
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (b) the court before which he was to have appeared had, pursuant to his default in appearance, issued a warrant for his arrest;
 
@@ -2378,9 +2526,11 @@ whichever period is the longer.
 
 [7/90]
 
-(2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act, and providing for the circumstances where any points so awarded may be cancelled or disregarded.
+(2) For the purpose of establishing that it would not be in the interests of public safety for a person to hold a valid driving licence or that such person is not competent to drive a motor vehicle, the Minister may make rules establishing a system of awarding points against a person for the commission of an offence under this Act or the rules, and providing for the circumstances where any points so awarded may be cancelled or disregarded.
 
 [Act 28 of 2014 wef 01/11/2015]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (3) The Deputy Commissioner of Police may, under subsection (1), regard a person as not competent to drive a motor vehicle, or establish that it would not be in the interests of public safety for a person to continue to hold a driving licence, if that person is awarded, within a prescribed period, points prescribed for the commission of an offence or offences under this Act that are equal to or in excess of the maximum number of points prescribed (called the suspension threshold).
 
@@ -2402,15 +2552,23 @@ whichever period is the longer.
 
 (6) Where a person is disqualified by an order of a court from holding or obtaining a driving licence for such period of time as may be specified in the order, every point awarded against him under the rules made under subsection (2) shall thereupon be cancelled.
 
-(7) Where a holder of a valid driving licence commits on a single occasion more than one offence under this Act, points shall be awarded against him only for the offence committed by him and in respect of which the largest number of points may be awarded against a person.
+(7) Where a holder of a valid driving licence commits on a single occasion more than one offence under this Act or the rules, points shall be awarded against him only for the offence committed by him and in respect of which the largest number of points may be awarded against a person.
 
-(8) For the purposes of this section, a person shall be deemed to have committed an offence under this Act if he pays the prescribed penalty for that offence under section 132.
+[Act 10 of 2017 wef 20/06/2017]
+
+(8) For the purposes of this section, a person shall be deemed to have committed an offence under this Act or the rules if he pays the prescribed penalty for that offence under section 132.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (9) In addition to the power conferred on the Deputy Commissioner of Police by subsection (1), if a person who holds a driving licence —
 
-(a) fails to comply with any process of court issued against him in respect of any offence committed by him under this Act or any written law specified in Part II of the First Schedule; or
+(a) fails to comply with any process of court issued against him in respect of any offence committed by him under this Act or the rules or any written law specified in Part II of the First Schedule; or
 
-(b) is arrested under a warrant of court in connection with an offence under this Act or any written law specified in Part II of the First Schedule and the offence has not been tried and determined by the court,
+[Act 10 of 2017 wef 20/06/2017]
+
+(b) is arrested under a warrant of court in connection with an offence under this Act or the rules or any written law specified in Part II of the First Schedule and the offence has not been tried and determined by the court,
+
+[Act 10 of 2017 wef 20/06/2017]
 
 the Deputy Commissioner of Police may, as he thinks fit, suspend the driving licence held by that person until he is satisfied that that person has complied with the process of court referred to in paragraph (a) or until the offence referred to in paragraph (b) has been tried and determined by the court, as the case may be.
 
@@ -2716,7 +2874,9 @@ LICENSING OF DRIVING INSTRUCTORS AND DRIVING SCHOOLS
 
 (b) has failed to comply with any of the conditions upon which the driving school licence was granted; or
 
-(c) has been convicted of an offence under this Act.
+(c) has been convicted of an offence under this Act or the rules.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Notice to owner of driving school
 
@@ -2816,7 +2976,9 @@ Provisions as to driving and offences in connection therewith
 
 ### Rate of speed
 
-63\.—(1) Except as otherwise provided by this Act, it shall not be lawful for any person to drive a motor vehicle of any class or description on a road at a speed greater than any speed which may be prescribed as the maximum speed in relation to a vehicle of that class or description.
+63\.—(1) Except as otherwise provided by this Act or the rules, it shall not be lawful for any person to drive a motor vehicle of any class or description on a road at a speed greater than any speed which may be prescribed as the maximum speed in relation to a vehicle of that class or description.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) The Minister may, by notification in theGazette, prohibit the driving of motor vehicles generally or of particular classes of motor vehicles above a specified speed over any specified road or part of a specified road either generally or for a specified time or times.
 
@@ -2826,9 +2988,11 @@ Provisions as to driving and offences in connection therewith
 
 ### Reckless or dangerous driving
 
-64\.—(1) If any person drives a motor vehicle on a road recklessly, or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be, on the road, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
+64\.—(1) If any person drives a motor vehicle on a road recklessly, or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be, on the road, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [11/96]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) On a second or subsequent conviction under this section, the convicting court shall exercise the power conferred by section 42 of ordering that the offender shall be disqualified from holding or obtaining a driving licence unless the court, having regard to the lapse of time since the date of the previous or last previous conviction or for any other special reason, thinks fit to order otherwise.
 
@@ -2996,7 +3160,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 [7/90]
 
-### Breath tests
+### Preliminary breath tests
 
 69\.—(1) Where a police officer has reasonable cause to suspect that —
 
@@ -3012,17 +3176,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 (ii) causing any injury or death to another person,
 
-the police officer may, subject to section 71, require that person to provide a specimen of his breath for a breath test.
+the police officer may, subject to section 71, require that person to provide a specimen of his breath for a preliminary breath test.
 
 [11/96]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) A person may be required under subsection (1) to provide a specimen of his breath either at or near the place where the requirement is made or, if the requirement is made under subsection (1)(d) and the police officer making the requirement thinks fit, at a police station specified by the police officer.
 
 [11/96]
 
-(3) A breath test required under subsection (1) shall be conducted by a police officer.
+(3) A preliminary breath test required under subsection (1) shall be conducted by a police officer.
 
 [11/96]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (4) A person who fails, without reasonable excuse, to provide a specimen of his breath when required to do so in pursuance of this section shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months and, in the case of a second or subsequent conviction, to a fine of not less than $3,000 and not more than $10,000 and to imprisonment for a term not exceeding 12 months.
 
@@ -3030,9 +3198,13 @@ the police officer may, subject to section 71, require that person to provide a 
 
 (5) A police officer may arrest a person without warrant if —
 
-(a) as a result of a breath test he has reasonable cause to suspect that the proportion of alcohol in that person’s breath or blood exceeds the prescribed limit;
+(a) as a result of a preliminary breath test he has reasonable cause to suspect that the proportion of alcohol in that person’s breath or blood exceeds the prescribed limit;
 
-(b) that person has failed to provide a specimen of his breath for a breath test when required to do so in pursuance of this section and the police officer has reasonable cause to suspect that he has alcohol in his body; or
+[Act 10 of 2017 wef 20/06/2017]
+
+(b) that person has failed to provide a specimen of his breath for a preliminary breath test when required to do so in pursuance of this section and the police officer has reasonable cause to suspect that he has alcohol in his body; or
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (c) he has reasonable cause to suspect that that person is under the influence of a drug or an intoxicating substance.
 
@@ -3040,19 +3212,25 @@ the police officer may, subject to section 71, require that person to provide a 
 
 [11/96]
 
+[Act 10 of 2017 wef 20/06/2017]
+
 ### Provision of specimen for analysis
 
 70\.—(1) In the course of an investigation whether a person arrested under section 69(5) has committed an offence under section 67 or 68, a police officer may, subject to the provisions of this section and section 71, require him —
 
-(a) to provide a specimen of his breath for analysis by means of a prescribed breath alcohol analyser; or
+(a) to provide a specimen of his breath for a breath test under this section; or
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (b) to provide to a registered medical practitioner, at such place as may be determined by the police officer, a specimen of his blood for a laboratory test,
 
 [Act 28 of 2014 wef 01/02/2015]
 
-notwithstanding that he has been required to provide a specimen of his breath for a breath test under section 69(1).
+notwithstanding that he has been required to provide a specimen of his breath for a preliminary breath test.
 
 [11/96]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) A breath test under this section shall be conducted by a police officer and may be conducted either at or near the place where the arrest is made, or at a police station.
 
@@ -3064,7 +3242,9 @@ notwithstanding that he has been required to provide a specimen of his breath fo
 
 (i) the police officer making the requirement has reasonable cause to believe that for medical reasons a specimen of breath cannot be provided or should not be required;
 
-(ii) at the time the requirement is made, the prescribed breath alcohol analyser is not available at the police station or it is for any other reason not practicable to use the breath alcohol analyser; or
+(ii) when the requirement is made, there is no breath analysing device of a type approved for a breath test under this section at the police station or at or near the place where the arrest was made, or it is for any other reason not practicable to conduct a breath test under this section; or
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (iii) the police officer making the requirement has reasonable cause to suspect that the person required to provide the specimen is under the influence of a drug or an intoxicating substance; and
 
@@ -3118,7 +3298,9 @@ notwithstanding that he has been required to provide a specimen of his breath fo
 
 (3) Subject to subsection (5) —
 
-(a) evidence of the proportion of alcohol in a specimen of breath may be given by the production of a document or documents purporting to be either a statement automatically produced by a prescribed breath alcohol analyser and a certificate signed by a police officer (which may but need not be contained in the same document as the statement) to the effect that the statement relates to a specimen provided by the accused at the date and time shown in the statement; and
+(a) evidence of the proportion of alcohol in a specimen of breath may be given by the production of a document or documents purporting to be either a statement automatically produced by a breath analysing device of a type approved for a breath test and a certificate signed by a police officer (which may but need not be contained in the same document as the statement) to the effect that the statement relates to a specimen provided by the accused at the date and time shown in the statement; and
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (b) evidence of the proportion of alcohol or of any drug or intoxicating substance in a specimen of blood may be given by the production of a document purporting to be a certificate signed by an authorised analyst as to the proportion of alcohol, drug or intoxicating substance found in a specimen of blood identified in the certificate.
 
@@ -3182,15 +3364,29 @@ any registered medical practitioner treating such person for his injury shall, i
 
 [Act 28 of 2014 wef 01/02/2015]
 
-“breath test” means a test for the purpose of obtaining, by means of a breath alcohol analyser or any other device approved by the Deputy Commissioner of Police, an indication whether the proportion of alcohol in a person’s breath or blood is likely to exceed the prescribed limit;
+“breath analysing device” means an instrument or apparatus for ascertainment by analysis of a person’s breath what concentration of alcohol is present in the person’s breath;
 
-[Act 28 of 2014 wef 01/02/2015]
+[Act 10 of 2017 wef 20/06/2017]
+
+“breath test” means a test of a specimen of a person’s breath to assess —
+
+(a) whether there is alcohol present in the person’s breath; and
+
+(b) if alcohol is present, the concentration of alcohol in the person’s breath,
+
+by means of a breath analysing device of a type approved by the Deputy Commissioner of Police;
+
+[Act 10 of 2017 wef 20/06/2017]
 
 “fail” includes refuse;
 
 “intoxicating substance” has the same meaning as in the Intoxicating Substances Act (Cap. 146A);
 
 “police station” includes any place or conveyance authorised or appointed by the Deputy Commissioner of Police to be used as a police station;
+
+“preliminary breath test” means a breath test under section 69;
+
+[Act 10 of 2017 wef 20/06/2017]
 
 “prescribed limit” means —
 
@@ -3200,17 +3396,25 @@ any registered medical practitioner treating such person for his injury shall, i
 
 [11/96; 1/99]
 
-(1A) Once a device is approved by the Deputy Commissioner of Police for the purposes of the definition of “breath test” in subsection (1), he must, as soon as practicable, cause to be published in theGazettea notification specifying each device so approved by him.
+(1A) Once a type of breath analysing device is approved by the Deputy Commissioner of Police for the purposes of the definition of “breath test” in subsection (1), he must, as soon as practicable, cause to be published in theGazettea notification specifying each type of breath analysing device so approved by him.
 
 [Act 28 of 2014 wef 01/02/2015]
 
-(1B) However, failure to comply with subsection (1A) in respect of any device does not invalidate the approval for that device.
+[Act 10 of 2017 wef 20/06/2017]
+
+(1B) However, failure to comply with subsection (1A) in respect of any type of breath analysing device does not invalidate the approval for that type of breath analysing device.
 
 [Act 28 of 2014 wef 01/02/2015]
 
-(2) A person does not provide a specimen of breath for a breath test or for analysis unless the specimen is sufficient to enable the test or the analysis to be carried out and is provided in such a way as to enable the objective of the test or analysis to be satisfactorily achieved.
+[Act 10 of 2017 wef 20/06/2017]
 
-[11/96]
+(2) A person is regarded as not providing a specimen of breath for a breath test unless the specimen —
+
+(a) is sufficient to enable the test to be carried out; and
+
+(b) is provided in a way that enables the objective of the test to be satisfactorily achieved.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (3) Subject to section 71B, a person provides a specimen of blood if and only if he consents to its being taken by a registered medical practitioner and it is so taken.
 
@@ -3364,11 +3568,13 @@ any registered medical practitioner treating such person for his injury shall, i
 
 ### Duty to give information
 
-81\.—(1) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act, the owner of the motor vehicle, when required by a police officer or an employee of the Authority to do so, must give to the police officer or the Authority’s employee, within 14 days after being so required, such information as to —
+81\.—(1) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act or the rules, the owner of the motor vehicle, when required by a police officer or an employee of the Authority to do so, must give to the police officer or the Authority’s employee, within 14 days after being so required, such information as to —
 
 (a) the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence; and
 
 (b) the driving licence held by that person.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (1A) An owner of a motor vehicle who fails to give the information required of the owner under subsection (1) is guilty of an offence unless the owner proves, on a balance of probabilities, that the owner did not know and could not with reasonable diligence have ascertained the information required.
 
@@ -3380,13 +3586,17 @@ any registered medical practitioner treating such person for his injury shall, i
 
 (b) the record shows no person having been permitted by the owner to drive the motor vehicle at or about the time of the alleged offence.
 
-(2) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act, any other person who was or should have been in charge of the motor vehicle, when required by a police officer or an employee of the Authority to do so, must give to the police officer or the Authority’s employee, within 14 days after being so required, any information which the person has power to give, and which may lead to the identification of the driver, and if that person fails to do so, that person is guilty of an offence.
+(2) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act or the rules, any other person who was or should have been in charge of the motor vehicle, when required by a police officer or an employee of the Authority to do so, must give to the police officer or the Authority’s employee, within 14 days after being so required, any information which the person has power to give, and which may lead to the identification of the driver, and if that person fails to do so, that person is guilty of an offence.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (3) Any person who wilfully or recklessly furnishes any false or misleading information under subsection (1) or (2) shall be guilty of an offence.
 
 (4) A police officer or an employee of the Authority may require any information to be furnished under subsection (1) or (2) to be in writing signed by the person required to furnish such information.
 
-(5) Notwithstanding any other written law to the contrary, any information given under this section by any person charged with any offence under this Act or any offence in connection with the driving of a motor vehicle may be used as evidence without proof of signature at the hearing of the charge.
+(5) Notwithstanding any other written law to the contrary, any information given under this section by any person charged with any offence under this Act or the rules or any offence in connection with the driving of a motor vehicle may be used as evidence without proof of signature at the hearing of the charge.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (6) Notwithstanding any other written law to the contrary, any statement made by any person to any police officer or an employee of the Authority —
 
@@ -3396,7 +3606,17 @@ any registered medical practitioner treating such person for his injury shall, i
 
 shall be admissible in evidence without proof of signature for the purpose of determining by whom the motor vehicle was on that occasion being driven or who was in charge of it or to whom it belonged.
 
-(7) Any person who is guilty of an offence under subsection (1A), (2) or (3) shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+(7) Any person who is guilty of an offence under subsection (1A) or (2) shall be liable on conviction —
+
+(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 10 of 2017 wef 20/06/2017]
+
+(7A) Any person who is guilty of an offence under subsection (3) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (8) Where the owner of a vehicle is a company, a partnership or an unincorporated body, it shall be the duty of such owner to keep a proper and accurate record of each occasion on which it permits any person to drive the motor vehicle, whether or not such person is a director, member, partner, officer, employee or agent of such owner or otherwise, and whether or not such person is permitted to drive the motor vehicle in the course of his employment with such owner or otherwise.
 
@@ -3414,7 +3634,11 @@ shall be admissible in evidence without proof of signature for the purpose of de
 
 [Act 28 of 2014 wef 01/02/2015]
 
-82\. [Repealed by Act 4 of 2014 wef 10/03/2014]
+### Amendment of Third Schedule
+
+82\. The Minister may by order in theGazetteadd to, amend or vary the Third Schedule.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Liability of owner of vehicle for specified offence
 
@@ -3524,11 +3748,15 @@ Accidents
 
 (8) Any person who is guilty of an offence under subsection (7) arising from his failure to comply with subsection (3) shall, if he had in driving or attempting to drive a motor vehicle at the time of the accident referred to in that subsection caused any serious injury or death to another person, be liable on conviction —
 
-(a) to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months; and
+(a) to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-(b) in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years.
+[Act 10 of 2017 wef 20/06/2017]
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [11/96; 21/2002]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (9) Where a person is convicted of an offence under subsection (7) arising from his failure to comply with subsection (3), the court convicting him shall —
 
@@ -3584,11 +3812,15 @@ Miscellaneous
 
 ### Power to order production of vehicle and licence
 
-87\.—(1) The Deputy Commissioner of Police or the Registrar may by notice in writing require the owner of any licensed vehicle to produce either or both the vehicle or the licence relating thereto for an inspection at such time and place and by such person as may be specified in the notice.
+87\.—(1) The Deputy Commissioner of Police or the Registrar may by notice in writing require the owner of any licensed vehicle to produce either or both the vehicle or the licence relating thereto (if not issued in electronic form) for an inspection at such time and place and by such person as may be specified in the notice.
 
 [1/2003]
 
-(2) Such notice may be served upon the owner personally or may be sent to him by registered post to the address contained in the register of vehicles kept under this Act.
+[Act 10 of 2017 wef 20/06/2017]
+
+(2) Such notice may be served upon the owner personally or may be sent to him by registered post to the address contained in the register of vehicles kept under this Act or the rules.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (3) If any owner required under this section to produce any vehicle or licence fails to do so, he shall be guilty of an offence unless he proves that owing to a mechanical breakdown or other sufficient reason (the proof whereof shall lie on the owner), the vehicle or licence cannot be produced as required.
 
@@ -3617,6 +3849,14 @@ Miscellaneous
 [28/95]
 
 [4/2006 wef 27/02/2006]
+
+(1A) An examination under this section of a motor vehicle for the purposes of the issue of a test certificate in respect of the motor vehicle may include the examiner accepting, in lieu of an examination, any certificate that —
+
+(a) is issued by another person or authority as are prescribed; and
+
+(b) concerns the prescribed requirements relating to the construction, equipment and condition of the motor vehicle, to the identification marks and signs carried by or fixed on the motor vehicle and the seals of such marks and signs, and to the markings on the motor vehicle.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) An examination for the purposes of this section shall be carried out by a person authorised by the Registrar (referred to in this section as an authorised examiner).
 
@@ -3674,7 +3914,7 @@ Miscellaneous
 
 ### Power to examine vehicles
 
-93\.—(1) Any police officer in uniform may, for the purpose of ensuring that any vehicle or trailer that is being used on a road complies with this Act, at any time —
+93\.—(1) Any police officer in uniform may, for the purpose of ensuring that any vehicle or trailer that is being used on a road complies with this Act or the rules, at any time —
 
 (a) examine the vehicle or trailer or the licence relating thereto; or
 
@@ -3682,21 +3922,27 @@ Miscellaneous
 
 [1/2003]
 
+[Act 10 of 2017 wef 20/06/2017]
+
 (2) Any person who obstructs a police officer in the exercise of his powers under subsection (1)(a) or fails to comply with any order given by the police officer under subsection (1)(b) shall be guilty of an offence.
 
 [1/2003]
 
 ### Weighing of vehicles
 
-94\.—(1) Subject to the provisions of this Act, it shall be lawful for any police officer authorised in writing in that behalf by the Deputy Commissioner of Police to require the person in charge of any motor vehicle —
+94\.—(1) Subject to the provisions of this Act and the rules, it shall be lawful for any police officer authorised in writing in that behalf by the Deputy Commissioner of Police to require the person in charge of any motor vehicle —
 
 (a) to allow the motor vehicle or any trailer drawn thereby to be weighed laden or unladen and the weight transmitted to the road by any part of the motor vehicle or trailer laden or unladen in contact with the road to be tested; and
 
 (b) for the purpose of paragraph (a) to immediately proceed to a weighbridge or other machine for weighing vehicles.
 
+[Act 10 of 2017 wef 20/06/2017]
+
 (2) If any person in charge of a motor vehicle refuses or neglects to comply with any requirement under subsection (1), he shall be guilty of an offence.
 
-(3) Subject to the provisions of this Act, it shall be lawful for any police officer so authorised to require the person in charge of the motor vehicle to unload the motor vehicle or trailer for the purpose of being weighed unladen.
+(3) Subject to the provisions of this Act and the rules, it shall be lawful for any police officer so authorised to require the person in charge of the motor vehicle to unload the motor vehicle or trailer for the purpose of being weighed unladen.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (4) Where a motor vehicle or trailer is weighed under this section, a certificate of weight shall be given to the person in charge of the motor vehicle by the person who carried out the weighing of the vehicle.
 
@@ -3704,13 +3950,15 @@ Miscellaneous
 
 ### Power to seize vehicles
 
-95\.—(1) Where a police officer, the Registrar or an authorised officer has reason to believe that a vehicle is a vehicle in connection with which an offence under this Act has been or is being committed or a vehicle that has been or is being used in contravention of the conditions of any licence issued in respect thereof under this Act, the police officer, Registrar or authorised officer, on production of his authority, may —
+95\.—(1) Where a police officer, the Registrar or an authorised officer has reason to believe that a vehicle is a vehicle in connection with which an offence under this Act and the rules has been or is being committed or a vehicle that has been or is being used in contravention of the conditions of any licence issued in respect thereof under this Act, the police officer, Registrar or authorised officer, on production of his authority, may —
 
 (a) seize the vehicle and take it to a place of safety; or
 
 (b) require the owner, driver or person in charge of the vehicle to take the vehicle and any trailer attached thereto to a specified place of safety.
 
 [28/2001]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) The power conferred on a police officer, the Registrar or an authorised officer under subsection (1)(a) may be exercised whether or not the owner, driver or person in charge of the vehicle is present at the time of its seizure.
 
@@ -3730,7 +3978,9 @@ Miscellaneous
 
 (6) Any unauthorised person removing or causing to be removed such vehicle or trailer from the place of safety pending the order of a Magistrate or the Deputy Commissioner of Police or the Registrar shall be guilty of an offence.
 
-(7) If the owner of the vehicle or trailer is convicted of or has been permitted to compound an offence under this Act, the expenses incurred by the Deputy Commissioner of Police or the Registrar in carrying out the provisions of this section shall be recoverable by or on behalf of the Deputy Commissioner of Police or the Registrar and, in case of dispute or neglect to pay, be summarily ascertained by a Magistrate’s Court and may be recovered in the same manner as if they were fines imposed by that Court.
+(7) If the owner of the vehicle or trailer is convicted of or has been permitted to compound an offence under this Act or the rules, the expenses incurred by the Deputy Commissioner of Police or the Registrar in carrying out the provisions of this section shall be recoverable by or on behalf of the Deputy Commissioner of Police or the Registrar and, in case of dispute or neglect to pay, be summarily ascertained by a Magistrate’s Court and may be recovered in the same manner as if they were fines imposed by that Court.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (8) Where any vehicle or trailer is detained under this section, the Deputy Commissioner of Police or the Registrar shall with all reasonable despatch notify the owner of the seizure, and such notification may be given —
 
@@ -3842,7 +4092,9 @@ shall be guilty of an offence.
 
 (10) The proceeds, if any, from the sale or disposal of any such vehicle shall be applied in payment of —
 
-(a) any taxes, fees or charges under this Act which may be due from the person in whose name the vehicle is registered; and
+(a) any taxes, fees or charges under this Act or the rules which may be due from the person in whose name the vehicle is registered; and
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (b) any charges incurred in carrying out the provisions of this section,
 
@@ -3870,13 +4122,17 @@ and the surplus, if any, shall be paid to the person in whose name the vehicle i
 
 “warrant of arrest” means a warrant of arrest issued by a court against a person in connection with any offence committed by him under —
 
-(a) this Act; or
+(a) this Act or the rules; or
 
-(b) the Parking Places Act (Cap. 214).
+[Act 10 of 2017 wef 20/06/2017]
+
+(b) the Parking Places Act (Cap. 214) or any rules made under that Act.
 
 [45/99]
 
 [24/2010 wef 01/11/2010]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Taking of motor vehicle without owner’s consent
 
@@ -3922,17 +4178,21 @@ PUBLIC SERVICE VEHICLES
 
 ### Classification and descriptions of public service vehicles
 
-100\.—(1) The classification and descriptions of public service vehicles for the purpose of this Act shall be as set out in the Second Schedule.
+100\.—(1) The classification and descriptions of public service vehicles for the purpose of this Act and the rules shall be as set out in the Second Schedule.
 
 [28/2001]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) The Authority may by order published in theGazette, add to, amend or vary the Second Schedule.
 
 [28/2001]
 
-(3) The Authority may, by rules made under section 111, subdivide any class of public service vehicles as set out in the Second Schedule, and any reference in this Act to a class of public service vehicles shall include a reference to any subdivision of such class.
+(3) The Authority may, by rules made under section 111, subdivide any class of public service vehicles as set out in the Second Schedule, and any reference in this Act or the rules to a class of public service vehicles shall include a reference to any subdivision of such class.
 
 [28/2001]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (4) Notwithstanding the classification and descriptions of public service vehicles in the Second Schedule, the Authority may permit any class of public service vehicles to be used for any prescribed purpose.
 
@@ -4076,13 +4336,19 @@ PUBLIC SERVICE VEHICLES
 
 ### Responsibility of owner of public service vehicles
 
-107\.—(1) The owner of a public service vehicle shall, unless he satisfies the court that he took every reasonable precaution to avoid the commission thereof, be responsible for all offences committed under this Act in connection with the use of the vehicle and may, in the discretion of the Registrar, be prosecuted for such offence either in addition to or instead of the driver or conductor, as the case may be.
+107\.—(1) The owner of a public service vehicle shall, unless he satisfies the court that he took every reasonable precaution to avoid the commission thereof, be responsible for all offences committed under this Act or the rules in connection with the use of the vehicle and may, in the discretion of the Registrar, be prosecuted for such offence either in addition to or instead of the driver or conductor, as the case may be.
 
-(2) When the driver or conductor of any public service vehicle is reasonably believed to be guilty of an offence under this Act, the owner of the vehicle and any other person who was or should have been in charge of the vehicle at or about the relevant time shall give to the Registrar or to any police officer such information as the Registrar or such police officer may require of him concerning the identity and address of the person believed to be guilty of the offence.
+[Act 10 of 2017 wef 20/06/2017]
+
+(2) When the driver or conductor of any public service vehicle is reasonably believed to be guilty of an offence under this Act or the rules, the owner of the vehicle and any other person who was or should have been in charge of the vehicle at or about the relevant time shall give to the Registrar or to any police officer such information as the Registrar or such police officer may require of him concerning the identity and address of the person believed to be guilty of the offence.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (3) If any person fails to do so within 7 days of the date on which the information was required of him under subsection (2), unless he shows to the satisfaction of the court that he did not know and could not with reasonable diligence have ascertained the information required, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100.
 
-(4) Notwithstanding anything in any other written law, any information given under subsection (2) by any person charged with any offence under this Act may be used as evidence at the hearing of the charge.
+(4) Notwithstanding anything in any other written law, any information given under subsection (2) by any person charged with any offence under this Act or the rules may be used as evidence at the hearing of the charge.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Revocation and suspension of licences
 
@@ -4100,9 +4366,11 @@ PUBLIC SERVICE VEHICLES
 
 (iii) has ceased to carry on his vocation as a taxi-driver; or
 
-(d) the licensee has contravened any of the provisions of this Act.
+(d) the licensee has contravened any of the provisions of this Act or the rules.
 
 [7/90]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Public stands
 
@@ -4242,7 +4510,9 @@ LICENSING OF TAXI SERVICE OPERATORS
 
 (h) requiring the licensee to undergo and pass such audit as the Authority may determine for compliance with —
 
-(i) the relevant provisions of this Act;
+(i) the relevant provisions of this Act and the rules;
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (ii) the terms and conditions of the licence being held by the licensee;
 
@@ -4388,9 +4658,11 @@ and shall consider any representation or objection which is duly made.
 
 111H\.—(1) If the Authority is satisfied that any licensee —
 
-(a) has contravened any relevant provision of this Act, any term or condition of the licensee’s licence or any code of practice, standard of performance or direction issued by the Authority under this Part;
+(a) has contravened any relevant provision of this Act or the rules, any term or condition of the licensee’s licence or any code of practice, standard of performance or direction issued by the Authority under this Part;
 
 [Act 17 of 2015 wef 01/09/2015]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (b) has failed to secure the compliance by any of the licensee’s employees, agents or contractors (including the persons to whom the licensee has leased taxis in connection with the operation of the taxi service) with any provision, term, condition, code of practice, standard of performance or direction referred to in paragraph (a); or
 
@@ -4782,13 +5054,17 @@ in relation to the restriction or prohibition of the use of that road or part th
 
 ### Leaving vehicles in positions likely to cause danger, obstruction or undue inconvenience
 
-122\. Except as otherwise provided in section 84(4), if any person in charge of a vehicle causes or permits the vehicle or any trailer drawn thereby to remain at rest on any road in such a position or in such condition or in such circumstances as to be likely to cause danger, obstruction or undue inconvenience to other users of the road or to traffic, he shall be guilty of an offence.
+122\. Except as otherwise provided in section 84(4), if any person in charge of a vehicle causes or permits the vehicle or any trailer drawn thereby to remain at rest on any road in such a position or in such condition or in such circumstances as to be likely to cause danger, obstruction or undue inconvenience to other users of the road or to traffic, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Removal or immobilisation of abandoned or illegally parked vehicles, etc.
 
 123\.—(1) Where a vehicle —
 
-(a) is parked or permitted to stand on any road in contravention of any provision of this Act or in such a manner as to constitute a danger or unreasonable obstruction to traffic or persons using the road; or
+(a) is parked or permitted to stand on any road in contravention of any provision of this Act or the rules or in such a manner as to constitute a danger or unreasonable obstruction to traffic or persons using the road; or
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (b) appears to have been abandoned on a road,
 
@@ -4950,17 +5226,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Power of arrest, stopping and detention
 
-127\.—(1) A police officer in uniform may stop and arrest any person, not being the driver of a motor vehicle, who within his view commits an offence under this Act.
+127\.—(1) A police officer in uniform may stop and arrest any person, not being the driver of a motor vehicle, who within his view commits an offence under this Act or the rules.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) Such person shall not be arrested if he satisfies the police officer as to his name and residence in Singapore and that he does not intend to abscond.
 
 (3) A police officer may detain any bicycle or tricycle in respect of which an offence has been committed within his view.
 
-(4) A police officer in uniform may stop any motor vehicle the driver of which has committed or is suspected of having committed an offence under this Act.
+(4) A police officer in uniform may stop any motor vehicle the driver of which has committed or is suspected of having committed an offence under this Act or the rules.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (5) Any person driving a motor vehicle shall stop the motor vehicle on being so required by a police officer in uniform, and if he fails to do so he shall be guilty of an offence.
 
-(6) A police officer in uniform may, except as hereinafter provided, arrest without warrant any person in charge of or driving a motor vehicle who has committed or is suspected of having committed an offence under this Act.
+(6) A police officer in uniform may, except as hereinafter provided, arrest without warrant any person in charge of or driving a motor vehicle who has committed or is suspected of having committed an offence under this Act or the rules.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (7) The power of arrest under subsection (6) shall not be exercised if either —
 
@@ -5058,17 +5340,21 @@ MISCELLANEOUS PROVISIONS
 
 129\.—(1) If any person —
 
-(a) in relation to an application made under this Act for registration or the cancellation of the registration of a vehicle, the grant of any approval, permit or licence to himself or any other person, or for the purpose of preventing the grant or variation of any approval, permit or licence or of procuring the imposition of any condition or limitation in relation to any approval, permit or licence, makes or causes to be made any statement or declaration which is false or in any material respect misleading;
+(a) in relation to an application made under this Act or the rules for registration or the cancellation of the registration of a vehicle, the grant of any approval, permit or licence to himself or any other person, or for the purpose of preventing the grant or variation of any approval, permit or licence or of procuring the imposition of any condition or limitation in relation to any approval, permit or licence, makes or causes to be made any statement or declaration which is false or in any material respect misleading;
 
 [4/2006 wef 27/02/2006]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (b) furnishes or causes to be furnished any particulars in connection with a change of the registration of any vehicle which to his knowledge are false or in any material respect misleading; or
 
 [4/2006 wef 27/02/2006]
 
-(c) makes or causes to be made any entry in a record, register or other document required to be kept under this Act which to his knowledge is false or in any material respect misleading,
+(c) makes or causes to be made any entry in a record, register or other document required to be kept under this Act and the rules which to his knowledge is false or in any material respect misleading,
 
 [4/2006 wef 27/02/2006]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -5082,7 +5368,9 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 (b) makes or has in his possession any mark, plate or document so closely resembling a licence or any mark, plate or document as aforesaid as to be calculated to deceive;
 
-(c) alters any entry made in a record, register or other document kept under this Act;
+(c) alters any entry made in a record, register or other document kept under this Act or the rules;
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (d) exhibits upon any vehicle or trailer any licence or identification mark, plate or document which has been forged, altered, defaced, mutilated or added to or any colourable imitation of a licence, mark, plate or document which is required under this Act to be carried on a vehicle or trailer;
 
@@ -5136,29 +5424,41 @@ he shall, unless he establishes to the satisfaction of the court that he acted w
 
 131\.—(1) A person who without lawful excuse —
 
-(a) refuses or neglects to do anything he is by this Act required to do;
+(a) refuses or neglects to do anything he is by this Act or the rules required to do;
 
-(b) fails to comply with the requirements of any notice served on him under this Act; or
+[Act 10 of 2017 wef 20/06/2017]
 
-(c) acts in contravention of any provision of this Act,
+(b) fails to comply with the requirements of any notice served on him under this Act or the rules; or
+
+[Act 10 of 2017 wef 20/06/2017]
+
+(c) acts in contravention of any provision of this Act or the rules,
+
+[Act 10 of 2017 wef 20/06/2017]
 
 shall be guilty of an offence.
 
 [28/2001]
 
-(2) Any person who, under this section or any other provision of this Act, is guilty of an offence shall be liable on conviction, where no special penalty is provided —
+(2) Any person who, under this section or any other provision of this Act or the rules, is guilty of an offence shall be liable on conviction, where no special penalty is provided —
 
-(a) in the case of a first offence, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months; and
+(a) in the case of a first offence, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
-(b) in the case of a second or subsequent offence, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months.
+[Act 10 of 2017 wef 20/06/2017]
+
+(b) in the case of a second or subsequent offence, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [28/2001]
+
+[Act 10 of 2017 wef 20/06/2017]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (3) [Deleted by Act 24/2010 wef 01/11/2010]
 
 ### Service of summonses and other documents
 
-131A\.—(1) Every summons issued for an offence under this Act, and every notice, order or other document required or authorised to be given or served under this Act may be served on any person —
+131A\.—(1) Every summons issued for an offence under this Act or the rules, and every notice, order or other document required or authorised to be given or served under this Act or the rules may be served on any person —
 
 (a) by delivering it to the person or to some adult member or employee of his family at his usual or last known place of residence or any address furnished by him;
 
@@ -5176,13 +5476,17 @@ shall be guilty of an offence.
 
 [28/2001]
 
+[Act 10 of 2017 wef 20/06/2017]
+
 (2) Where any summons, notice, order or document is served on any person by registered post, it shall be deemed to have been served within such time as it would take to arrive in the ordinary course of transmission and in proving service of the same it shall be sufficient to prove that the envelope containing the summons, notice, order or document was properly addressed, stamped and posted by registered post.
 
 [28/2001]
 
-(3) All notices, orders and other documents which the Registrar is empowered to give by this Act may be given by any officer duly authorised by the Registrar.
+(3) All notices, orders and other documents which the Registrar is empowered to give by this Act or the rules may be given by any officer duly authorised by the Registrar.
 
 [28/2001]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (4) Subsection (1) shall not apply to any summons in connection with any offence punishable with imprisonment and such summons shall be served in the manner prescribed by the Criminal Procedure Code (Cap. 68) for the service of summonses under that Code.
 
@@ -5268,11 +5572,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Traffic ticket notice
 
-133\.—(1) Where a police officer or an employee of the Authority authorised in that behalf has reasonable grounds for believing that a person has committed an offence under this Act, he may, in lieu of applying to a court for a summons, immediately serve upon that person a notice, requiring that person to attend at the court described, at the hour and on the date specified in the notice.
+133\.—(1) Where a police officer or an employee of the Authority authorised in that behalf has reasonable grounds for believing that a person has committed an offence under this Act or the rules, he may, in lieu of applying to a court for a summons, immediately serve upon that person a notice, requiring that person to attend at the court described, at the hour and on the date specified in the notice.
 
 [28/95]
 
 [Act 28 of 2014 wef 01/02/2015]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) A duplicate of the notice shall be prepared by the police officer and, if so required by a court, produced to the court.
 
@@ -5318,11 +5624,29 @@ and if cause is not shown may order him to pay such fine not exceeding $2,000 as
 
 ### Composition of offences
 
-135\.—(1) The Deputy Commissioner of Police, any police officer not below the rank of sergeant specially authorised by name in that behalf by the Deputy Commissioner of Police by notification in theGazetteor any employee of the Authority specially authorised by name in that behalf personally by the Registrar of Vehicles appointed under section 9(1) by notification in theGazettemay, in his discretion and subject to such conditions as may be prescribed, compound any such offence under this Act as may be prescribed as an offence which may be compounded by the Deputy Commissioner of Police or such police officer or employee of the Authority by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
+135\.—(1) A relevant authorised officer may compound any offence under this Act or the rules that is prescribed as a compoundable offence, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-[28/95; 11/96; 5/98; 1/2003]
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-[Act 23 of 2013 wef 01/01/2014]
+(b) $5,000.
+
+[Act 10 of 2017 wef 20/06/2017]
+
+(1A) On payment of the composition sum under subsection (1), no further proceedings are to be taken against that person in respect of the offence.
+
+[Act 10 of 2017 wef 20/06/2017]
+
+(1B) In this section, “relevant authorised officer” means any of the following:
+
+(a) the Deputy Commissioner of Police designated by the Commissioner of Police for the purposes of this section;
+
+(b) a police officer not below the rank of sergeant specially authorised by name for the purposes of this section by the Deputy Commissioner of Police mentioned in paragraph (a);
+
+(c) the Registrar of Vehicles appointed under section 9(1);
+
+(d) an employee of the Authority specially authorised by name for the purposes of this section in an instrument personally executed by the Registrar of Vehicles mentioned in paragraph (c).
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (2) The appropriate Minister may make rules to prescribe the offences which may be compounded under this section and the conditions subject to which, and the method and procedure by which, such offences may be compounded.
 
@@ -5332,9 +5656,17 @@ and if cause is not shown may order him to pay such fine not exceeding $2,000 as
 
 136\.—(1) The Registrar may, if he thinks fit and subject to the provisions of this Act, grant any licence upon receipt of a cheque for the amount of the fee payable thereon.
 
-(2) Where a licence is granted under subsection (1) to any person and the cheque is subsequently dishonoured, the licence shall be void as from the date when it was granted and the Registrar shall send to that person by a registered letter addressed to him to the address given by him when applying for the licence a notice requiring him to deliver up the licence to the Registrar within a period of 7 days from the date that the notice was posted.
+(2) Where a licence is granted under subsection (1) to any person and the cheque is subsequently dishonoured, the licence shall be void as from the date when it was granted and the Registrar shall send to that person by a registered letter addressed to him to the address given by him when applying for the licence a notice informing the person that the licence is void and, if the licence is not issued in an electronic form, requiring him to deliver up the licence to the Registrar within a period of 7 days from the date that the notice was posted.
 
-(3) If the person fails to comply with the request within the period under subsection (2), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and if the licence is in respect of a motor vehicle the Registrar may on the expiry of the 7 days proceed under section 15.
+[Act 10 of 2017 wef 20/06/2017]
+
+(3) If the person fails to comply with the request within the period under subsection (2), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+
+[Act 10 of 2017 wef 20/06/2017]
+
+(4) If the licence granted under subsection (1) is in respect of a motor vehicle, the Registrar may on the expiry of the 7 days after the notice under subsection (2) is posted, proceed under section 15.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Moneys received under this Act
 
@@ -5352,7 +5684,7 @@ and if cause is not shown may order him to pay such fine not exceeding $2,000 as
 
 [4/2006 wef 27/02/2006]
 
-(2) When in any proceedings for an offence under this Act it is necessary to prove —
+(2) When in any proceedings for an offence under this Act and the rules it is necessary to prove —
 
 (a) that a vehicle was, or was not, registered in the name of any person;
 
@@ -5362,9 +5694,13 @@ and if cause is not shown may order him to pay such fine not exceeding $2,000 as
 
 a certificate purporting to be signed by the Registrar or the Deputy Commissioner of Police, as the case may be, and certifying the matters aforesaid shall be admissible as evidence, and shall constitute prima facie proof of the facts certified in the certificate, without proof of the signature of the Registrar or the Deputy Commissioner of Police, as the case may be, to the certificate.
 
-(3) When in any proceedings for an offence under this Act any question arises as to whether a vehicle does, or does not, comply with any of the provisions of this Act relating to the construction, equipment or conditions of use of the vehicle, or to any identification mark or sign carried by or fixed on it or the seal of such mark or sign, or to any marking on it, a certificate from an officer of the Registrar’s office that he has examined the vehicle and the result of the examination shall be admissible in evidence, and shall be sufficient prima facie evidence of any fact or opinion stated therein relating to the construction, equipment or conditions of use of the vehicle, or to any identification mark or sign carried by or fixed on it or the seal of such mark or sign, or to any marking on it.
+[Act 10 of 2017 wef 20/06/2017]
+
+(3) When in any proceedings for an offence under this Act or the rules any question arises as to whether a vehicle does, or does not, comply with any of the provisions of this Act or the rules relating to the construction, equipment or conditions of use of the vehicle, or to any identification mark or sign carried by or fixed on it or the seal of such mark or sign, or to any marking on it, a certificate from an officer of the Registrar’s office that he has examined the vehicle and the result of the examination shall be admissible in evidence, and shall be sufficient prima facie evidence of any fact or opinion stated therein relating to the construction, equipment or conditions of use of the vehicle, or to any identification mark or sign carried by or fixed on it or the seal of such mark or sign, or to any marking on it.
 
 [4/2006 wef 27/02/2006]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 (4) The officer may not be called for cross-examination on the certificate unless contrary evidence is given which appears to the court to be credible, or unless for any reason the court considers cross-examination to be necessary or desirable in the interests of justice.
 
@@ -5374,13 +5710,17 @@ a certificate purporting to be signed by the Registrar or the Deputy Commissione
 
 (7) When in any proceedings before any court it is necessary to prove that any police officer, public officer or the Registrar or the Deputy Commissioner of Police, as the case may be, has sent or served, or has received or has not received, any badge, document, licence, notice, plate or other thing, a certificate purporting to be signed by the police officer, public officer or the Registrar or the Deputy Commissioner of Police, as the case may be, and certifying the sending, service, reception or non-reception, as the case may be, of the badge, document, licence, notice, plate or thing, shall be admissible as evidence, and shall constitute prima facie proof of the facts certified in the certificate, without proof of the signature of that certificate.
 
-(8) Where in any proceedings for an offence under this Act relating to the maximum speed at which motor vehicles may be driven it is necessary to prove the speed at which the vehicle has been driven, a certificate, purporting to be signed by a police officer not below the rank of inspector who was in charge of the apparatus, instrument or appliance used to measure, at a distance from such vehicle, the speed at which the vehicle was driven and certifying that the apparatus, instrument or appliance had been examined within the previous 3 months and found to be accurate, shall be accepted by any court as prima facie proof of the facts certified in the certificate.
+(8) Where in any proceedings for an offence under this Act or the rules relating to the maximum speed at which motor vehicles may be driven it is necessary to prove the speed at which the vehicle has been driven, a certificate, purporting to be signed by a police officer not below the rank of inspector who was in charge of the apparatus, instrument or appliance used to measure, at a distance from such vehicle, the speed at which the vehicle was driven and certifying that the apparatus, instrument or appliance had been examined within the previous 3 months and found to be accurate, shall be accepted by any court as prima facie proof of the facts certified in the certificate.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Authentication of documents
 
-139A\. Where any notice, order or other document required or authorised by this Act to be served on any person requires authentication, the signature of the Deputy Commissioner of Police, the Registrar, a police officer or an employee of the Authority or an official facsimile of such signature appended to such notice, order or document shall be sufficient authentication.
+139A\. Where any notice, order or other document required or authorised by this Act or the rules to be served on any person requires authentication, the signature of the Deputy Commissioner of Police, the Registrar, a police officer or an employee of the Authority or an official facsimile of such signature appended to such notice, order or document shall be sufficient authentication.
 
 [5/98]
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### General provisions as to rules
 
@@ -5440,7 +5780,9 @@ a certificate purporting to be signed by the Registrar or the Deputy Commissione
 
 ### Power to exempt
 
-142\. The appropriate Minister may, from time to time by order and either generally or for any period delimited in such order and subject to such conditions as may in the order be stated, exempt from any provision of this Act any person or class or description of persons or any vehicle or class or description of vehicles.
+142\. The appropriate Minister may, from time to time by order and either generally or for any period delimited in such order and subject to such conditions as may in the order be stated, exempt from any provision of this Act or the rules any person or class or description of persons or any vehicle or class or description of vehicles.
+
+[Act 10 of 2017 wef 20/06/2017]
 
 ### Designation of Minister of State and Parliamentary Secretary to hear appeals
 
@@ -5584,7 +5926,7 @@ Section 100
 
 Classification and descriptions of public service vehicles
 
-1. The classification and descriptions of public service vehicles for the purpose of this Act shall be as follows:
+1. The classification and descriptions of public service vehicles for the purpose of this Act and the rules shall be as follows:
 
 First column
 
@@ -5622,7 +5964,15 @@ Buses which do not ply for hire on any road but are hired under a contract, expr
 
 Private hire cars
 
-Motor cars which do not ply for hire on any road but are hired under a contract, express or implied, for the use of each such vehicle as a whole.
+Motor cars that do not ply for hire on any road but are hired, or made available for hire, under a contract (express or implied) for use as a whole —
+
+(i)
+
+with a driver for the purpose of conveying one or more passengers in that car; or
+
+(ii)
+
+by a hirer, or any other person authorised by the hirer in the contract, to drive the motor car personally.
 
 (f)
 
@@ -5641,6 +5991,10 @@ Motor cars having a seating capacity for not more than 8 persons (including the 
 Trishaws
 
 Three-wheeled pedal cycles constructed or adapted for the carriage of passengers.
+
+[Act 10 of 2017 wef 20/06/2017]
+
+[S 311/2017 wef 20/06/2017]
 
 2. In this Schedule, “bus” means a public service vehicle of a design approved by the Registrar and having a seating capacity for not less than 9 persons (excluding the driver).
 
@@ -5668,7 +6022,9 @@ Rules 4, 5, 6, 7, 9, 10(1) and 11(1).
 
 Section 131 for acting in contravention of any of the following provisions of the Road Traffic Rules (R 20):
 
-Rules 2(1), 3, 5, 6, 7, 8, 11, 12(2), 13(1) and (2)(a) and (b), 14, 17, 18, 19, 23, 28(1), 29, 30, 33(1) and (2), 34 and 35(1).
+Rules 2(1), 3, 5, 6, 7, 8, 11, 12(2), 13(1) and (2)(a) and (b), 14, 17, 18, 19, 23, 28(1), 29, 30, 33(1) and (2) and 35(1).
+
+[Act 10 of 2017 wef 20/06/2017]
 
 4. 
 
@@ -5704,7 +6060,9 @@ Rules 5(1) and 6(1) of the Road Traffic (Collection of Toll at Woodlands and Tua
 
 5. 
 
-Rules 4(2), 7(1) and (6), 8(1) and (2) and 13(1) of the Road Traffic (Electronic Road Pricing System) Rules 2011 (G.N. No. S 97/2011).
+Rules 4(2), 7(1) and (5), 8(1) and (2) and 13(1) of the Road Traffic (Electronic Road Pricing System) Rules 2015 (G.N. No. S 226/2015).
+
+[Act 10 of 2017 wef 20/06/2017]
 
 6. 
 
@@ -6065,6 +6423,17 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 5/2017 published on 10 January 2017)|
 ||Date of Second and Third Readings|7 February 2017|
 ||Date of commencement|22 January 2016|
+|70.|**Act 10 of 2017—Road Traffic (Amendment) Act 2017**|
+||Date of First Reading|10 January 2017 (Bill No. 5/2017 published on 10 January 2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|20 June 2017|
+|71.|**Act 3 of 2017—Active Mobility Act 2017**|
+||Date of First Reading|9 November 2016|
+|||(Bill No. 40/2016 published on 9 November 2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|20 June 2017|
+|72.|**G. N. No. S 311/2017—Road Traffic Act (Amendment of Second Schedule) Order 2017**|
+||Date of commencement|20 June 2017|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
