@@ -698,9 +698,7 @@ the competent authority may, without checking the information, documents, forms 
 
 (4) Where the competent authority revokes a written permission under subsection (3), any development of land, works within a conservation area or subdivision of land (as the case may be) carried out pursuant to that written permission shall be deemed to have been carried out without the requisite written permission.
 
-(5) [Deleted by Act 7 of 2017 wef 15/05/2017]
-
-[Act 7 of 2017 wef 15/05/2017]
+(5) [Deleted by Act 7 of 2017 wef 15/05/2017][Act 7 of 2017 wef 15/05/2017]
 
 ### Conditions for planning permission or conservation permission
 
@@ -2114,7 +2112,9 @@ Use of dwelling-house constituting development
 
 1\. Use of a dwelling-house to provide dormitory accommodation.
 
-2\. Use of a dwelling-house to provide short-term accommodation, where the dwelling-house or any part of it is occupied by the same person for a period of less than 6 consecutive months and the short-term accommodation is provided (with or without other services) in return for the payment of rent or other form of consideration, whether or not the relationship of landlord and tenant is thereby created.
+2. Use of a dwelling-house to provide short-term accommodation, where the dwelling-house or any part of it is occupied by the same person for a period of less than 3 consecutive months and the short-term accommodation is provided (with or without other services) in return for the payment of rent or other form of consideration, whether or not the relationship of landlord and tenant is thereby created.
+
+[S 339/2017 wef 30/06/2017]
 
 [Act 7 of 2017 wef 15/05/2017]
 
@@ -2235,3 +2235,5 @@ This Legislative History is provided for the convenience of users of the Plannin
 ||Date of First Reading|9 January 2017 (Bill No. 3/2017 published on 9 January 2017)|
 ||Date of Second and Third Readings|6 February 2017|
 ||Date of commencement|15 May 2017|
+|28.|**G.N. No. S 339/2017—Planning Act (Amendment of Fourth Schedule) Order 2017**|
+||Date of commencement|30 June 2017|
