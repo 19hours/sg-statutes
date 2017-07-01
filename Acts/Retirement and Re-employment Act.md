@@ -18,7 +18,7 @@
 
 - [4 Minimum retirement age](#Minimum-retirement-age)
 
-- [5 Salary adjustment at 60 years of age](#Salary-adjustment-at-60-years-of-age)
+- [5 (Repealed)](#Repealed)
 
 - [6 Invalidity of term of contract of service](#Invalidity-of-term-of-contract-of-service)
 
@@ -28,9 +28,9 @@
 
 - [7A Employer to re-employ eligible employee](#Employer-to-re-employ-eligible-employee)
 
-- [7B Period of service under previous employment contract and under re-employment contract](#Period-of-service-under-previous-employment-contract-and-under-re-employment-contract)
+- [7B Period of service under previous contract of service and under re-employment contract](#Period-of-service-under-previous-contract-of-service-and-under-re-employment-contract)
 
-- [7C Employment assistance payment](#Employment-assistance-payment)
+- [7C Employment assistance payment or alternative employment](#Employment-assistance-payment-or-alternative-employment)
 
 [**Part IV REMEDIES**](#Part-IV)
 
@@ -104,6 +104,10 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
+“agreed date” means a date specified for the purposes of section 7C(1A)(a) in a consent form mentioned in section 7C(6);
+
+[Act 5 of 2017 wef 01/07/2017]
+
 “approved mediator” and “claim referral certificate” have the same meanings as in section 2(1) of the Employment Claims Act 2016;
 
 [Act 21 of 2016 wef 01/04/2017]
@@ -142,7 +146,17 @@ PRELIMINARY
 
 “prescribed minimum retirement age” means such other minimum retirement age as may be prescribed by the Minister under section 4(1);
 
-“re-employment”, with its grammatical variations and cognate expressions, means the employment of an employee by the same employer on or after the date the employee attains the specified age;
+“re-employment”, with its grammatical variations and cognate expressions, means the employment of an employee by the same employer on or after the date the employee attains the specified age applicable to that employee;
+
+[Act 5 of 2017 wef 01/07/2017]
+
+“re‑employment contract” means a contract of service entered into between an eligible employee and an employer to re‑employ the eligible employee for the purposes of section 7A(1) or (3)(a)(i);
+
+[Act 5 of 2017 wef 01/07/2017]
+
+“re‑employment obligations” means an employer’s obligations to re‑employ an eligible employee in accordance with section 7A, failing which, to offer the eligible employee employment assistance payment in accordance with section 7C(1)(a);
+
+[Act 5 of 2017 wef 01/07/2017]
 
 “salary” has the same meaning as in section 2(1) of the Employment Act;
 
@@ -154,7 +168,9 @@ PRELIMINARY
 
 (i) the prescribed minimum retirement age; or
 
-(ii) where the retirement age stipulated in an employment contract is higher than the prescribed minimum retirement age, the retirement age so stipulated;
+(ii) where the retirement age stipulated in a contract of service is higher than the prescribed minimum retirement age, the retirement age so stipulated;
+
+[Act 5 of 2017 wef 01/07/2017]
 
 “tripartite guidelines” means the guidelines relating to re‑employment issued by the Minister under section 11B.
 
@@ -206,35 +222,7 @@ MINIMUM RETIREMENT AGE
 
 (3) Any employer who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Salary adjustment at 60 years of age
-
-5\.—(1) This section shall only apply to employees who attain 60 years of age on or after 1st January 1999, and any reference in this section to an employee shall be a reference to any such employee.
-
-[49/98; 4/2011]
-
-(2) Where a retirement age higher than 60 years is prescribed by or under section 4(1), an employer may, from time to time and in accordance with this section, reduce the salary of any of his employees on or at any time after the employee attains 60 years of age.
-
-[49/98; 4/2011]
-
-(3) An employer who intends to reduce the salary of any of his employees under this section shall, before the employee concerned attains 60 years of age or other higher age, as the case may be, give reasonable prior notice in writing to the employee of his intention to reduce his salary, stating the amount of such reduction and the effective date of such reduction, and giving him a reasonable opportunity of being heard.
-
-[49/98; 4/2011]
-
-(4) If an employee does not agree with any proposed reduction in his salary, he may either retire or be retired by his employer on or after attaining 60 years of age notwithstanding any of the provisions of this Act.
-
-[49/98; 4/2011]
-
-(5) An employer may reduce under this section the salary of different employees differently except that —
-
-(a) the reduction shall be based on reasonable factors other than age (including but not limited to the employee’s productivity, performance, duties and responsibilities, and the wage system such as the seniority system applicable to the employee) unless age is a bona fide occupational qualification reasonably necessary to the ordinary performance of the employee’s job; and
-
-(b) no employer may reduce the salary of any of his employees by an aggregate amount which exceeds 10% of the salary paid or payable to the employee when that employee attains or attained 60 years of age.
-
-[49/98; 4/2011]
-
-(6) Notwithstanding any law to the contrary, the service of a written notice under subsection (3) by an employer on any of his employees shall not be regarded as a termination or repudiation of the contract of employment between the employer and the employee, or as requiring or causing the employee to retire or resign on the ground of age.
-
-[49/98; 4/2011]
+5\. [Repealed by Act 5 of 2017 wef 01/07/2017]
 
 ### Invalidity of term of contract of service
 
@@ -248,31 +236,39 @@ RE-EMPLOYMENT OF ELIGIBLE EMPLOYEES
 
 ### Re-employment eligibility criteria
 
-7\.—(1) For the purposes of this Act, an employee shall be eligible for re-employment if —
+7\.—(1) For the purposes of this Act, an employee is eligible for re‑employment in accordance with section 7A if —
 
-(a) he attains the specified age on or after 1st January 2012; and
+(a) the employee is born on or after 1 July 1952; and
 
-(b) upon attaining or having attained the specified age or other higher age, which higher age shall not exceed 65 years or such other age, up to 67 years, as may be prescribed by the Minister, he —
+(b) the employer assesses the employee as —
 
-(i) is assessed by his employer to have at least satisfactory work performance; and
+(i) having at least satisfactory work performance; and
 
-(ii) is medically fit to continue working.
+(ii) being medically fit to continue working.
 
-[4/2011]
+[Act 5 of 2017 wef 01/07/2017]
 
 (2) For the purpose of subsection (1)(b)(ii), an employee shall be presumed to be medically fit to continue working, unless the employer of the employee proves, on a balance of probabilities, that the employee is not medically fit.
 
 [4/2011]
 
+(3) Where an employer does not intend to re‑employ an employee because the employee does not meet the criteria in subsection (1)(b), then as far as it is reasonably practicable, the employer must give the employee written notice of that intention within a reasonable period before terminating the employee’s employment.
+
+[Act 5 of 2017 wef 01/07/2017]
+
 ### Employer to re-employ eligible employee
 
-7A\.—(1) An employer shall, before his employee (being an eligible employee) attains the specified age, offer re-employment to that employee and the obligation of the employer to re-employ that employee shall begin from the time that employee attains the specified age, until that employee attains the age of 65 years or such other age, up to 67 years, as may be prescribed by the Minister.
+7A\.—(1) Subject to section 7C, an employer shall, before his employee (being an eligible employee) attains the specified age, offer re-employment to that employee and the obligation of the employer to re-employ that employee shall begin from the time that employee attains the specified age, until that employee attains the age of 65 years or such other age, up to 67 years, as may be prescribed by the Minister.
 
 [4/2011]
 
+[Act 5 of 2017 wef 01/07/2017]
+
 (2) Where —
 
-(a) an employee who attains the specified age on or after 1st January 2012 continues to work for his employer after he has attained the specified age; and
+(a) an employee mentioned in section 7(1)(a) continues, after attaining the specified age, to work for his employer; and
+
+[Act 5 of 2017 wef 01/07/2017]
 
 (b) the employer does not, upon that employee attaining the specified age —
 
@@ -290,7 +286,9 @@ then any right, privilege, obligation or liability acquired, accrued or incurred
 
 (i) re-employ the employee; or
 
-(ii) terminate the employment of the employee if the employee does not satisfy the eligibility criteria set out in section 7(1); and
+(ii) terminate the employment of the employee if the employee does not satisfy the eligibility criteria set out in section 7(1)(b); and
+
+[Act 5 of 2017 wef 01/07/2017]
 
 (b) shall be deemed to have complied with the requirement under subsection (1) for the period between —
 
@@ -300,31 +298,33 @@ then any right, privilege, obligation or liability acquired, accrued or incurred
 
 [4/2011]
 
-(4) For the purposes of re-employment under subsection (1) or (3)(a)(i), a new contract of service shall be entered into by the employee and his employer in which the job scope and the terms and conditions may vary from those in the previous contract of service between them.
+(4) For the purposes of re-employment under subsection (1) or (3)(a)(i), a re‑employment contract shall be entered into by the employee and his employer in which the job scope and the terms and conditions may vary from those in the previous contract of service between them.
 
 [4/2011]
+
+[Act 5 of 2017 wef 01/07/2017]
 
 (5) Any variation referred to in subsection (4) shall be based on reasonable factors such as, but not limited to, the employee’s productivity, performance, duties and responsibilities, and the wage system such as the seniority system applicable to the employee.
 
 [4/2011]
 
-(6) Unless otherwise agreed by the parties to a new contract of service for the purpose of re-employment under subsection (1) or (3)(a)(i), the period of employment stipulated in the contract shall not be less than one year at any one time.
+(6) Unless otherwise agreed by the parties to a re‑employment contract, the period of employment stipulated in the contract shall not be less than one year at any one time.
 
 [4/2011]
 
-(7) Notwithstanding subsection (6), where the period between —
+[Act 5 of 2017 wef 01/07/2017]
 
-(a) the effective date of the coming into force of a new contract of service for the purpose of re-employment under subsection (1) or (3)(a)(i); and
+(7) Despite subsection (6), where the period between —
 
-(b) the date on which the employee (who is a party to the new contract of service) attains the age of 65 years or such other age, up to 67 years, as may be prescribed by the Minister,
+(a) the start of re‑employment under a re‑employment contract for an employee; and
 
-is less than one year, the period of employment stipulated in the new contract of service may be for that shorter period.
+(b) the date on which the employee attains the age of 65 years or such other age, up to 67 years, as may be prescribed by the Minister,
 
-[4/2011]
+is less than one year, the period of employment under the re‑employment contract may be for that shorter period.
 
-(8) Where an employer does not intend to re-employ an employee because the employee does not satisfy the eligibility criteria set out in section 7(1), the employer shall, in so far as is reasonably practicable, give notice in writing to the employee, within a reasonable period before he terminates the employment of the employee, stating his intention to do so.
+[Act 5 of 2017 wef 01/07/2017]
 
-[4/2011]
+(8) [Deleted by Act 5 of 2017 wef 01/07/2017]
 
 (9) Notwithstanding any of the provisions of this Act, an eligible employee may retire or be retired, if he does not wish to be employed by his employer on or after the date he attains the specified age.
 
@@ -334,13 +334,15 @@ is less than one year, the period of employment stipulated in the new contract o
 
 [4/2011]
 
-### Period of service under previous employment contract and under re-employment contract
+### Period of service under previous contract of service and under re-employment contract
 
-7B\.—(1) Unless otherwise agreed by the parties to a contract of service, and subject to subsections (2) and (3), when a new contract of service is entered into between an employer and his employee pursuant to section 7A(4), then for the purposes of determining any right, privilege, obligation or liability to be acquired, accrued or incurred by the employee under his new contract of service, any period for which the employee has served under his employer under the previous contract of service before he commences his service under the new contract of service shall be disregarded.
+7B\.—(1) Unless otherwise agreed by the parties to a contract of service, and subject to subsections (2) and (3), when a re‑employment contract is entered into between an employer and his employee pursuant to section 7A(4), then for the purposes of determining any right, privilege, obligation or liability to be acquired, accrued or incurred by the employee under his re‑employment contract, any period for which the employee has served under his employer under the previous contract of service before he commences his service under the re‑employment contract shall be disregarded.
 
 [4/2011]
 
-(2) Any period for which an employee has served under his employer before he commences his service under the new contract of service entered into pursuant to section 7A(4) shall be reckoned for the purposes of —
+[Act 5 of 2017 wef 01/07/2017]
+
+(2) Any period for which an employee has served under his employer before he commences his service under the re‑employment contract entered into pursuant to section 7A(4) shall be reckoned for the purposes of —
 
 (a) computing the minimum period of 3 months for entitlement to annual leave under section 43(1) of the Employment Act (Cap. 91); and
 
@@ -348,23 +350,43 @@ is less than one year, the period of employment stipulated in the new contract o
 
 [4/2011]
 
-(3) Where there is more than one contract of service entered into by an employee and his employer pursuant to section 7A(4), the aggregate periods for which the employee has served under his employer under those contracts of service shall be treated as continuous service for the purposes of determining any right, privilege, obligation or liability acquired, accrued or incurred by the employee under those contracts.
+[Act 5 of 2017 wef 01/07/2017]
+
+(3) An employee’s continuity of employment under re‑employment is not broken if his employer re‑employs or renews the re‑employment of the employee in accordance with section 7A(4).
+
+[Act 5 of 2017 wef 01/07/2017]
+
+[Act 5 of 2017 wef 01/07/2017]
+
+### Employment assistance payment or alternative employment
+
+7C\.—(1) Section 7A does not apply if an employer (in this section called E1) is unable to re‑employ an eligible employee in accordance with section 7A because E1 is unable to find a vacancy in E1’s establishment that is suitable for the eligible employee, despite making reasonable attempts to do so in accordance with the tripartite guidelines, and —
+
+(a) E1 offers an employment assistance payment to the eligible employee; or
+
+(b) during the eligible employee’s employment with E1 —
+
+(i) another employer (in this section called E2) offers to employ the eligible employee in lieu of E1; and
+
+(ii) the eligible employee accepts the offer.
+
+[Act 5 of 2017 wef 01/07/2017]
+
+(1A) Subject to any modifications as may be prescribed, where subsection (1)(b) applies —
+
+(a) E1’s re‑employment obligations to the eligible employee are discharged immediately before the agreed date;
+
+(b) any reference to an employer in section 7A or 7B(3), or to E1 in subsection (1), includes a reference to E2 from that agreed date; and
+
+(c) E1’s re‑employment obligations towards the eligible employee survive any unlawful dismissal by E1 of the eligible employee before the agreed date, but to the extent provided in paragraphs (a) and (b).
+
+[Act 5 of 2017 wef 01/07/2017]
+
+(2) Despite subsection (1)(a), an employer shall not be required to offer any employment assistance payment to an eligible employee who informs his employer of his decision not to continue to be employed by his employer on or after the date he attains the specified age.
 
 [4/2011]
 
-### Employment assistance payment
-
-7C\.—(1) If an employer is unable to re-employ an eligible employee in accordance with section 7A because the employer is unable to find a vacancy in his establishment which is suitable for the eligible employee despite making reasonable attempts to do so in accordance with the tripartite guidelines, the employer shall be required to —
-
-(a) retire the eligible employee, or allow him to retire, on or after the date he attains the specified age; and
-
-(b) offer an employment assistance payment to the eligible employee.
-
-[4/2011]
-
-(2) Notwithstanding subsection (1), an employer shall not be required to offer any employment assistance payment to an eligible employee who informs his employer of his decision not to continue to be employed by his employer on or after the date he attains the specified age.
-
-[4/2011]
+[Act 5 of 2017 wef 01/07/2017]
 
 (3) Subject to subsection (4), the employment assistance payment shall be —
 
@@ -377,6 +399,24 @@ is less than one year, the period of employment stipulated in the new contract o
 (4) In determining the amount of employment assistance payment to be paid under this section, an employer shall take into account the tripartite guidelines.
 
 [4/2011]
+
+(5) Without affecting section 7B, where E2 enters into a contract of service with an eligible employee in lieu of E1, any period for which the eligible employee has served under E1 before he commences his service with E2 is to be reckoned only for the purposes of —
+
+(a) computing the minimum period of 3 months for entitlement to annual leave under section 43(1) of the Employment Act (Cap. 91); and
+
+(b) determining the period of service of an employee for entitlement to paid sick leave under section 89(1) and (2) of the Employment Act.
+
+[Act 5 of 2017 wef 01/07/2017]
+
+(6) A consent form signified by E1, E2 and the eligible employee in the prescribed form and manner is prima facie proof of the matters mentioned in subsection (1)(b).
+
+[Act 5 of 2017 wef 01/07/2017]
+
+(7) To avoid doubt, the references to an eligible employee’s employer in Parts IV and V include references to E2, where applicable.
+
+[Act 5 of 2017 wef 01/07/2017]
+
+[Act 5 of 2017 wef 01/07/2017]
 
 ## PART IV
 
@@ -454,9 +494,11 @@ and the employer shall comply with the direction of the Minister.
 
 (c) the reasonableness of the terms and conditions of any re-employment offer made pursuant to section 7A(1) or (3)(a)(i) by an employer;
 
-(d) the reasonableness of the amount of any employment assistance payment offered to an employee pursuant to section 7C(1)(b).
+(d) the reasonableness of the amount of any employment assistance payment offered to an employee pursuant to section 7C(1)(a).
 
 [4/2011]
+
+[Act 5 of 2017 wef 01/07/2017]
 
 (5) Upon receipt of the notice referred to in subsection (1) or (2), the Commissioner may consult, or direct an approved mediator to consult, the employer and employee concerned in an endeavour to assist them to reach an agreement through conciliation.
 
@@ -710,31 +752,27 @@ whichever is the lower.
 
 (b) for any incidental matters for which the Minister thinks it expedient to provide with a view to securing compliance of this Act;
 
-(c) for prescribing the form of the orders to be made under this Act.
+(c) for prescribing the form of the orders to be made under this Act;
 
 [Act 21 of 2016 wef 01/04/2017]
 
-(d) [Deleted by Act 21 of 2016 wef 01/04/2017]
+[Act 5 of 2017 wef 01/07/2017]
+
+(d) for any provision of this Act that is applicable to the re‑employment of an employee to apply, with such modifications as may be specified in the regulations, to —
+
+(i) the renewal of a re‑employment contract; or
+
+(ii) the employment of an eligible employee by another employer as mentioned in section 7C(1)(b).
+
+[Act 5 of 2017 wef 01/07/2017]
 
 ### Savings and transitional provisions
 
 13\.—(1) Nothing in this Act shall operate to relieve any employer of any duty or liability imposed upon him by the provisions of any other written law for the time being in force.
 
-(2) Nothing in the Retirement Age (Amendment) Act 2011 (Act 4 of 2011) shall affect any investigation carried out by an investigating officer who —
+(2) [Deleted by Act 5 of 2017 wef 01/07/2017]
 
-(a) before 1st January 2012, is subject to any direction of the Minister to investigate and report on whether in the investigating officer’s opinion, an employee has been unlawfully dismissed on the ground of age; and
-
-(b) has not submitted the report to the Minister before that date,
-
-and everything in relation to the investigation and report may be done in all respects after that date as if the Retirement Age (Amendment) Act 2011 had not been enacted.
-
-(3) Any representation made to the Minister before 1st January 2012 —
-
-(a) which is investigated by an investigating officer before that date; and
-
-(b) which is not yet decided by the Minister before that date,
-
-may be continued to be dealt with and everything in relation thereto may be done in all respects after that day as if the Retirement Age (Amendment) Act 2011 had not been enacted.
+(3) [Deleted by Act 5 of 2017 wef 01/07/2017]
 
 (4) Despite section 41(e) to (q) of the Employment Claims Act 2016, sections 8A to 8F, 11B and 12(2) as in force immediately before the date of commencement of section 41(e) to (q) of the Employment Claims Act 2016 continue to apply in the following cases:
 
@@ -787,6 +825,10 @@ This Legislative History is provided for the convenience of users of the Retirem
 ||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 April 2017|
+|9.|**Act 5 of 2017—Retirement and Re-employment (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016 (Bill No. 36/2016 published on 7 November 2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|1 July 2017|
 ## COMPARATIVE TABLE
 
 Retirement and Re-employment Act
