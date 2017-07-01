@@ -2497,8 +2497,6 @@ Lead compounds in paint in which the container is affixed with an appropriate la
 
 The labels to be used for paints containing lead compounds are in accordance with Part IV of the Second Schedule.
 
-Lead tetra-ethyl and similar lead containing compounds in petrol intended for use in Singapore as fuel for motor vehicles
-
 Mercury
 
 Mercury and its compounds in controlled EEE
@@ -2985,7 +2983,7 @@ Sulphur in diesel intended for use in Singapore as fuel for industrial plants
 
 Sulphur in diesel in which the sulphur content is 0.001% or less by weight.
 
-Sulphur in petrol intended for use in Singapore as fuel for motor vehicles or industrial plants
+Sulphur in petrol intended for use in Singapore as fuel for industrial plants
 
 Sulphur in petrol in which the sulphur content is 0.005% or less by weight.
 
@@ -3018,6 +3016,8 @@ Titanium tetrachloride
 Tris (2, 3-dibromo-l-propyl) phosphate
 
 Tungsten hexafluoride
+
+[S 27/2017 wef 01/07/2017]
 
 Note:
 
@@ -3421,6 +3421,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 January 2017|
 |24.|**G.N. No. S 263/2016—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2016**|
 ||Date of commencement|1 June 2017|
+|25.|**G.N. No. S 27/2017—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2017**|
+||Date of commencement|1 July 2017|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
