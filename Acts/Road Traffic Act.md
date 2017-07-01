@@ -316,6 +316,10 @@
 
 - [110 Vocational licences](#Vocational-licences)
 
+- [110A General suspension of affiliated drivers](#General-suspension-of-affiliated-drivers)
+
+- [110B Interpretation of sections 110A and 111](#Interpretation-of-sections-110A-and-111)
+
 - [111 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
 [**Part VA LICENSING OF TAXI SERVICE OPERATORS**](#Part-VA)
@@ -4202,6 +4206,14 @@ PUBLIC SERVICE VEHICLES
 
 101\.—(1) Subject to the provisions of this Part, no person shall use a motor vehicle, or cause or permit a motor vehicle to be used, as a public service vehicle unless there is in force, in respect of the vehicle, a valid licence issued under this Part authorising such use, or otherwise than in accordance with the licence and any conditions attached thereto.
 
+(1A) For the purposes of subsection (1), use of a motor vehicle as a private hire car includes a motor vehicle that —
+
+(a) is in use in connection with a hiring to provide a ride‑sourcing service (within the meaning of section 110A); or
+
+(b) is immediately available to a private hire car booking service operator (within the meaning of section 110A) to accept bookings from passengers for a ride‑sourcing service using that vehicle.
+
+[Act 10 of 2017 wef 01/07/2017]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 (3) A person shall not be convicted of an offence under this section if he proves to the satisfaction of the court that he used the motor vehicle, the subject of the charge, as a public service vehicle in an emergency for the purpose of conveying a sick or injured person to hospital or to bring medical aid to such person or for the purpose of making a report to a police station and that he had made all reasonable efforts to hire a public service vehicle for the purpose of the journey.
@@ -4310,7 +4322,9 @@ PUBLIC SERVICE VEHICLES
 
 ### Markings of public service vehicles
 
-105\.—(1) Every public service vehicle licensed under this Part shall have permanently affixed thereto such plate or plates and such other markings for the purpose of identifying such vehicle as a public service vehicle as may be prescribed.
+105\.—(1) Every public service vehicle licensed under this Part shall have affixed thereto such plate or plates and such other markings for the purpose of identifying such vehicle as a public service vehicle as may be prescribed.
+
+[Act 10 of 2017 wef 01/07/2017]
 
 (2) On the expiry, suspension or revocation of any public service vehicle licence, the licence together with all plates or other markings issued in connection therewith shall be returned to the Registrar within 10 days after the expiry, suspension or revocation.
 
@@ -4392,19 +4406,145 @@ PUBLIC SERVICE VEHICLES
 
 (2A) The Registrar shall not grant a vocational licence unless he is satisfied that the applicant for the licence is of the minimum age as prescribed for that class of public service vehicle and fulfils such other conditions as may be prescribed.
 
-(3) A vocational licence to drive a public service vehicle may be limited to such class of vehicle as may be specified in the licence.
+(3) A vocational licence to drive a public service vehicle may limit the authorisation of the holder of the licence to driving, or acting as a conductor of, only one or more classes of public service vehicles specified in the licence.
 
-(4) A vocational licence may at any time be suspended or revoked by the Registrar upon the ground that, by reason of his conduct or physical disability, the holder is not a fit and proper person to hold such a licence.
+[Act 10 of 2017 wef 01/07/2017]
+
+(4) The Registrar may suspend or revoke, in whole or in part, a vocational licence on the ground that the holder of the licence —
+
+(a) is contravening or not complying with, or has contravened or failed to comply with, any of the conditions of the licence, or any provision of this Act or rules under this Part applicable to the holder of the licence as such; or
+
+(b) is not a fit or proper person to hold the licence because of his conduct, after taking into consideration the total number of demerit points accumulated by the holder of the licence under those rules in respect of the licence or another licence, or his physical condition.
+
+[Act 10 of 2017 wef 01/07/2017]
 
 (5) Where the Registrar refuses to grant or suspends or revokes a vocational licence, the applicant or licence holder, as the case may be, may appeal to the Minister, and on such appeal, the Minister, after such inquiry, if any, as he may consider necessary, may make such order as he thinks fit, and any order so made shall be binding on the Registrar and on the appellant.
 
-(6) If any person acts in contravention of subsection (1), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months or to both.
+(6) [Deleted by Act 10 of 2017 wef 01/07/2017]
+
+### General suspension of affiliated drivers
+
+110A\.—(1) The Registrar may in the circumstances in subsection (2), by a general suspension order served on persons mentioned in subsection (3), direct that every bookable vehicle driver who is an affiliated driver of the same private hire car booking service operator, stop providing, during a blackout period, ride‑sourcing services booked through that private hire car booking service operator.
+
+(2) A general suspension order may be made where the Registrar is satisfied that —
+
+(a) one of the affiliated drivers of a private hire car booking service operator has been convicted of a relevant offence in the course of being an affiliated driver of the private hire car booking service operator; and
+
+(b) within a period of 12 months before the commission of the relevant offence in paragraph (a), 2 or more other affiliated drivers of the same private hire car booking service operator have also been convicted of a relevant offence each in the course of being an affiliated driver of that private hire car booking service operator,
+
+regardless of any general suspension order earlier served in respect of that same private hire car booking service operator or that a blackout period for any earlier general suspension order is current.
+
+(3) A general suspension order relating to a private hire car booking service operator must be given to —
+
+(a) the class comprising every affiliated driver of the same private hire car booking service operator concerned; and
+
+(b) the private hire car booking service operator.
+
+(4) A general suspension order may be made under subsection (1) only after giving the private hire car booking service operator concerned a reasonable opportunity to be heard.
+
+(5) In determining whether a driver has been convicted of a relevant offence, the Registrar may reckon any offer of composition under section 135 for a relevant offence that is accepted by the driver in relation to that offence as if that driver had been convicted of that relevant offence.
+
+(6) However, where a driver has been convicted of a relevant offence, and it is open to the driver to appeal against the conviction (either with the leave of the court or without such leave), the Registrar, in determining whether a driver has been convicted of a relevant offence, must disregard the conviction until —
+
+(a) no further appeal is open to the driver; or
+
+(b) by reason of the expiration of any period for entering an appeal or a notice of appeal, or the refusal of leave to appeal or for any other reason, it ceases to be open for the driver to appeal.
+
+(7) A general suspension order that is addressed to a class of persons is sufficiently served if it is published both —
+
+(a) in a daily newspaper circulating in Singapore or in any other news media that, in the opinion of the Authority, will be most likely to bring the direction to the attention of the persons who belong to the class; and
+
+(b) on the Authority’s official website.
+
+(8) A general suspension order that is served in accordance with subsection (7) takes effect at the beginning of the day after the date on which both paragraphs (a) and (b) of subsection (7) have been complied with.
+
+(9) A bookable vehicle driver who —
+
+(a) is an affiliated driver of a private hire car booking service operator;
+
+(b) is in the class of bookable vehicle drivers served with a general suspension order (in accordance with subsection (7)) directing him to stop providing ride‑sourcing services booked through that private hire car booking service operator; and
+
+(c) provides ride‑sourcing services booked through that private hire car booking service operator during the blackout period for that general suspension order,
+
+shall be guilty of an offence.
+
+(10) It is not a defence in any proceeding for an offence under subsection (2) that the accused holds a vocational licence granted under section 110 authorising him to drive a public service vehicle.
+
+[Act 10 of 2017 wef 01/07/2017]
+
+### Interpretation of sections 110A and 111
+
+110B\. For the purposes of sections 110A and 111 —
+
+“affiliated driver”, for a private hire car booking service operator, means a bookable vehicle driver who has an affiliated driver agreement with the private hire car booking service operator; and it is immaterial whether the driver is an employee or agent of the private hire car booking service operator;
+
+“affiliated driver agreement” means an agreement between a bookable vehicle driver and a private hire car booking service operator —
+
+(a) for the private hire car booking service operator to provide a booking service for the driver; and
+
+(b) for the driver to provide a ride‑sourcing service using a stated private hire car through the private hire car booking service operator;
+
+“blackout period”, for a general suspension order, means a period after the general suspension order takes effect, of a duration that is fixed and specified by the Registrar in the order, being a period not exceeding one month;
+
+“bookable vehicle” means a private hire car other than a private hire car that is hired by the hirer to drive personally and without providing any ride‑sourcing service;
+
+“bookable vehicle driver” means a driver of a bookable vehicle;
+
+“private hire car booking service operator” means a person who, in the course of business, engages in the following conduct (including conduct outside Singapore, or partly inside and partly outside Singapore):
+
+(a) accepts, or makes provision for the invitation or acceptance of, bookings from people for a ride‑sourcing service; and
+
+(b) communicates the bookings to bookable vehicle drivers to carry out that ride‑sourcing service,
+
+but excludes —
+
+(i) a taxi service operator within the meaning of Part VA that is licensed as such under that Part;
+
+(ii) a provider of a third‑party taxi booking service within the meaning of the Third‑Party Taxi Booking Service Providers Act 2015 (Act 17 of 2015) and that is registered as such under that Act; and
+
+(iii) a person prescribed by rules under section 111 not to be a private hire car booking service operator;
+
+“relevant offence” means any of the following offences committed on or after the date of commencement of section 34 of the Road Traffic (Amendment) Act 2017:
+
+(a) an offence under section 101(2) involving any private hire car;
+
+(b) an offence under section 131 for contravening section 110(1)(a) involving any private hire car;
+
+(c) an offence under section 3 of the Motor Vehicles (Third‑Party Risks and Compensation) Act (Cap. 189) involving any private hire car;
+
+“ride‑sourcing service” means a service where —
+
+(a) a passenger books transport for a journey within, or partly within, Singapore through a private hire car booking service operator;
+
+(b) the private hire car booking service operator communicates the passenger’s booking to a bookable vehicle driver; and
+
+(c) that driver carries out the transport booked using a bookable vehicle,
+
+but does not include a taxi service within the meaning of the Public Transport Council Act (Cap. 259B).
+
+[Act 10 of 2017 wef 01/07/2017]
 
 ### Rules for purposes of this Part
 
-111\. The Authority may make such rules as it may consider expedient for the purposes of this Part.
+111\.—(1) The Authority may make such rules as it may consider expedient for the purposes of this Part.
 
 [28/95]
+
+[Act 10 of 2017 wef 01/07/2017]
+
+(2) Without affecting the generality of subsection (1), rules may be made by the Authority to make provision about the operation of private hire car booking services, including —
+
+(a) the responsibilities and duties of a private hire car booking service operator, including a duty —
+
+(i) to take reasonable steps to ensure that each affiliated driver either holds a vocational licence that authorises the driver to drive the bookable vehicle, or is exempted under this Act from holding such a licence;
+
+(ii) to provide information and reports about the operator, and its affiliated drivers, and the private hire car booking service it provides to the Authority; and
+
+(iii) to provide the Authority an address in Singapore at which notices and other documents under this Act may be served on the private hire car booking service operator; and
+
+(b) providing that any contravention of any provision of the rules shall be an offence punishable with a fine not exceeding $10,000.
+
+[Act 10 of 2017 wef 01/07/2017]
 
 ## PART VA
 
@@ -6434,6 +6574,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of commencement|20 June 2017|
 |72.|**G. N. No. S 311/2017—Road Traffic Act (Amendment of Second Schedule) Order 2017**|
 ||Date of commencement|20 June 2017|
+|73.|**Act 10 of 2017—Road Traffic (Amendment) Act 2017**|
+||Date of First Reading|10 January 2017|
+|||(Bill No. 5/2017 published on 10 January 2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|1 July 2017|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
