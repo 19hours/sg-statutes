@@ -14064,11 +14064,11 @@ is the lower rate of tax for that year of assessment;
 
 (b) section 43A, 43C (in respect of those relating to general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U, 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be;
 
+[Act 39 of 2017 wef 01/06/2017]
+
 [Act 2 of 2016 wef 01/04/2015]
 
 [Act 34 of 2016 wef 29/12/2016]
-
-[Act 39 of 2017 wef 01/06/2017]
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -23656,9 +23656,7 @@ Catholic Young Men’s Association
 
 2.
 
-Kwong-Wai-Shiu Free Hospital
-
-Cap. 366
+[Deleted by Act 21 of 2017 wef 02/07/2017]
 
 3.
 
@@ -23707,6 +23705,8 @@ Young Men’s Christian Association
 11.
 
 Young Women’s Christian Association.
+
+[Act 21 of 2017 wef 02/07/2017]
 
 [S 712/2015 wef 01/11/2015]
 
@@ -25667,6 +25667,10 @@ This Legislative History is provided for the convenience of users of the Income 
 |||21 February 2017|
 |||1 April 2017|
 |||1 June 2017|
+|199.|**Act 21 of 2017—The Kwong-Wai-Shiu Free Hospital (Transfer of Undertaking and Dissolution) Act 2017**|
+||Date of First Reading|7 November 2016 (Bill No. 39/2016 published on 7 November 2016)|
+||Date of Second and Third Readings|3 April 2017|
+||Date of commencement|2 July 2017|
 ## COMPARATIVE TABLE
 
 Income Tax Act
