@@ -4178,6 +4178,8 @@ then the Comptroller may issue a certificate containing particulars of such tax 
 
 (ii) any person in possession of decryption information to grant him access to such decryption information necessary to decrypt data required for the purposes of this section; and
 
+[43/2002]
+
 [Act 34 of 2016 wef 29/12/2016]
 
 (f) shall be entitled to require a person in or at the building or place and who appears to the Comptroller or officer to be acquainted with any facts or circumstances concerning the person’s or another person’s transactions made in the course of a business —
@@ -4187,8 +4189,6 @@ then the Comptroller may issue a certificate containing particulars of such tax 
 (ii) to take reasonable steps to produce a document for inspection.
 
 [Act 34 of 2016 wef 29/12/2016]
-
-[43/2002]
 
 (2) The Comptroller may by notice require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s transactions made in the course of a business as may be demanded of him by the Comptroller for the purposes of this Act.
 
@@ -5168,9 +5168,9 @@ Investment Precious Metals
 
 (v) Canada Maple Leaf coin;
 
-(va) Canada Call of the Wild 3‑coin series coin;
+(va) Canada Call of the Wild 4‑coin series coin;
 
-[S 396/2016 wef 01/09/2016]
+[S 374/2017 wef 09/07/2017]
 
 (vi) China Panda coin;
 
@@ -6159,6 +6159,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|10 October 2016 (Bill No. 34/2016 published on 10 October 2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|29 December 2016|
+|62.|**G.N. No. S 374/2017—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2017**|
+||Date of commencement|9 July 2017|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
