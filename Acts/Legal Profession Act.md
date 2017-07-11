@@ -1162,9 +1162,11 @@ SINGAPORE INSTITUTE OF LEGAL EDUCATION
 
 [Act 16 of 2016 wef 01/08/2016]
 
-(da) the Dean of the School of Law of the SIM University;
+(da) the Dean of the School of Law of the Singapore University of Social Sciences;
 
 [Act 16 of 2016 wef 01/08/2016]
+
+[Act 30 of 2017 wef 11/07/2017]
 
 (e) not less than 8 and not more than 12 other members, all of whom shall be appointed by the President of the Academy, after consulting the Senate, for such period and on such terms and conditions as the President of the Academy may determine.
 
@@ -2114,11 +2116,13 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 [20/2009 wef 09/10/2009]
 
-(c) being a member of the Faculty of Law of the National University of Singapore, the School of Law of the Singapore Management University or the School of Law of the SIM University, is dismissed from the Faculty or School, as the case may be;
+(c) being a member of the Faculty of Law of the National University of Singapore, the School of Law of the Singapore Management University or the School of Law of the Singapore University of Social Sciences, is dismissed from the Faculty or School, as the case may be;
 
 [20/2009 wef 09/10/2009]
 
 [Act 16 of 2016 wef 01/08/2016]
+
+[Act 30 of 2017 wef 11/07/2017]
 
 (d) is convicted of an offence by a court of law in Singapore or elsewhere and sentenced to imprisonment for a term of not less than 12 months or to a fine of not less than $2,000 and has not received a free pardon;
 
@@ -3515,9 +3519,11 @@ shall be admitted as a member of the Society and remain a member under this sect
 
 [Act 16 of 2016 wef 01/08/2016]
 
-(iia) of the School of Law of the SIM University; or
+(iia) of the School of Law of the Singapore University of Social Sciences; or
 
 [Act 16 of 2016 wef 01/08/2016]
+
+[Act 30 of 2017 wef 11/07/2017]
 
 (iii) of any department in any institution of higher learning in Singapore who teaches law in that department;
 
@@ -4752,9 +4758,11 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 [20/2009 wef 09/10/2009]
 
-(c) a full-time member of the academic staff of the Faculty of Law of the National University of Singapore, the School of Law of the Singapore Management University or the School of Law of the SIM University; or
+(c) a full-time member of the academic staff of the Faculty of Law of the National University of Singapore, the School of Law of the Singapore Management University or the School of Law of the Singapore University of Social Sciences; or
 
 [Act 16 of 2016 wef 01/08/2016]
+
+[Act 30 of 2017 wef 11/07/2017]
 
 (d) holding any combination of occupations referred to in paragraphs (a), (b) and (c).
 
@@ -8275,6 +8283,8 @@ MISCELLANEOUS
 
 [Act 40 of 2014 wef 18/11/2015]
 
+[Act 30 of 2017 wef 11/07/2017]
+
 ### Offices of Institute and Society
 
 186\.—(1) The Institute and the Society shall each at all times keep and maintain an office and the address of the office and any change thereof shall be published by the Institute and the Council respectively in theGazette.
@@ -8286,6 +8296,8 @@ MISCELLANEOUS
 [8/2011 wef 03/05/2011]
 
 [Act 40 of 2014 wef 18/11/2015]
+
+[Act 30 of 2017 wef 11/07/2017]
 
 ### Service of documents
 
@@ -8299,6 +8311,8 @@ MISCELLANEOUS
 
 [Act 40 of 2014 wef 18/11/2015]
 
+[Act 30 of 2017 wef 11/07/2017]
+
 ### Recovery of moneys by Institute and Society
 
 188\. In addition to any other method of recovery and to any other right, remedy or power vested in the Institute or in the Society or the Council —
@@ -8310,6 +8324,8 @@ MISCELLANEOUS
 [8/2011 wef 03/05/2011]
 
 [Act 40 of 2014 wef 18/11/2015]
+
+[Act 30 of 2017 wef 11/07/2017]
 
 ### Rules Committee to prescribe certain fees and costs
 
@@ -8325,6 +8341,8 @@ MISCELLANEOUS
 
 [Act 40 of 2014 wef 18/11/2015]
 
+[Act 30 of 2017 wef 11/07/2017]
+
 ### Relief to banks
 
 190\.—(1) Subject to this section, no bank shall, in connection with any transaction on account of any solicitor or law corporation or limited liability law partnership kept with it or with any other bank (other than an account kept by a solicitor as trustee for a specified beneficiary), incur any liability or be under any obligation to make any inquiry, or be deemed to have any knowledge of any right of any person to any money paid or credited to any such account, which it would not incur or be under or be deemed to have in the case of an account kept by a person entitled absolutely to all the money paid or credited to it.
@@ -8339,6 +8357,8 @@ MISCELLANEOUS
 
 [Act 40 of 2014 wef 18/11/2015]
 
+[Act 30 of 2017 wef 11/07/2017]
+
 ### Jurisdiction of court
 
 191\. Notwithstanding any provision to the contrary in the Criminal Procedure Code (Cap. 68), a District Court shall have jurisdiction to try any offence under this Act and shall have power to impose the full penalty or punishment in respect of the offence.
@@ -8346,6 +8366,8 @@ MISCELLANEOUS
 [20/2007]
 
 [Act 40 of 2014 wef 18/11/2015]
+
+[Act 30 of 2017 wef 11/07/2017]
 
 FIRST SCHEDULE
 
@@ -9049,6 +9071,10 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of First Reading|7 November 2016 (Bill No. 38/2016 published on 7 November 2016)|
 ||Date of Second and Third Readings|10 January 2017|
 ||Date of commencement|1 March 2017|
+|62.|**Act 30 of 2017—Singapore University of Social Sciences Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 24/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|11 July 2017|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
