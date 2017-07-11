@@ -426,6 +426,10 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF AGENCY
 
 (e) the Singapore Institute of Technology;
 
+(ea) the Singapore University of Social Sciences;
+
+[Act 30 of 2017 wef 11/07/2017]
+
 (f) any other person whose function of providing university education is determined by a public Act; or
 
 (g) any entity owned (wholly or partly) or controlled by any university or person referred to in paragraphs (a) to (f).
