@@ -1474,7 +1474,9 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (2) The rules may —
 
-(a) provide for the issue of a permit, in respect of a vehicle not registered under this Act that is brought into Singapore from any place outside Singapore (referred to in this section as a foreign vehicle), authorising the keeping and use in Singapore of the vehicle for such period as the Registrar may determine;
+(a) provide for the issue of a permit, in respect of a vehicle not registered under this Act that is brought into Singapore from any place outside Singapore (referred to in this section and section 34D as a foreign vehicle), authorising the keeping and use in Singapore of the vehicle for such period as the Registrar may determine;
+
+[Act 10 of 2017 wef 20/07/2017]
 
 (b) prescribe the manner of application for such permit;
 
@@ -1504,7 +1506,13 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (l) prescribe the records to be kept by the Registrar in connection with the rules; and
 
-(m) empower the Registrar and any officer authorised by him to prohibit the entry into or exit from Singapore of any foreign vehicle if any fee or tax payable under the rules in respect of that vehicle is in arrears.
+(m) empower the Registrar and any officer authorised by him to prohibit the entry by driving into, or exit by driving from, Singapore of any vehicle —
+
+(i) if any charge, fee or tax payable in respect of the vehicle under this Act or any of its subsidiary legislation is in arrears; or
+
+(ii) if any charge or fee payable in respect of the vehicle under the Parking Places Act (Cap. 214) or any of its subsidiary legislation is in arrears.
+
+[Act 10 of 2017 wef 20/07/2017]
 
 [45/99]
 
@@ -1512,11 +1520,15 @@ shall be guilty of an offence and shall be liable on conviction —
 
 [45/99]
 
-(4) Where a person is convicted of an offence under any of the rules, the court before which such person is convicted may, in addition to the punishment prescribed for the offence, order him to pay the amount of such fees or taxes as may be certified by an officer appointed by the Authority to be due and payable by him at the date of his conviction, and such amount may be recovered according to the law for the time being in force for the recovery of fines.
+(4) Where a person is convicted of an offence under any of the rules, the court before which such person is convicted may, in addition to the punishment prescribed for the offence, order him to pay the amount of such charges, fees or taxes mentioned in subsection (2)(m) as may be certified by an officer appointed by the Authority to be due and payable by him at the date of his conviction, and such amount may be recovered according to the law for the time being in force for the recovery of fines.
+
+[Act 10 of 2017 wef 20/07/2017]
 
 [45/99]
 
-(5) [Deleted by Act 1/2006 wef 23/06/2006]
+(5) For the purposes of this section, reference to a person resident outside Singapore does not include a reference to a citizen of Singapore or a person who holds a valid entry permit or re-entry permit issued by the Controller of Immigration under the Immigration Act (Cap. 133).
+
+[Act 10 of 2017 wef 20/07/2017]
 
 ### Registration and identification marks
 
@@ -1987,6 +1999,10 @@ ROAD-USER CHARGES
 (ii) different hours of the day or different days of the week; and
 
 (iii) different classes, categories or descriptions of vehicles;
+
+(ba) empowering the Registrar and any officer authorised by the Registrar to prohibit the entry into or exit from Singapore of any foreign vehicle if any unpaid road-user charges under this Act in respect of that vehicle is in arrears;
+
+[Act 10 of 2017 wef 20/07/2017]
 
 (c) prescribing the manner in which road-user charges shall be levied and collected, including the use of electronic or computerised or other facilities therefor, and for this purpose, the rules may —
 
@@ -6244,7 +6260,6 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|26 August 1966|
 ||Date of commencement|9 September 1966|
 |5.|**Act 42 of 1967—Companies Act 1967**|
-||(Consequential amendments made by)||
 ||Date of First Reading|5 December 1966|
 |||(Bill No. 58/66 published on 12 December 1966)|
 ||Date of Second Reading|21 December 1966|
@@ -6396,7 +6411,6 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|25 July 1994|
 ||Date of commencement|28 October 1994|
 |36.|**Act 28 of 1995—Land Transport Authority of Singapore Act 1995**|
-||(Consequential amendments made by)||
 ||Date of First Reading|7 July 1995|
 |||(Bill No. 24/95 published on 8 July 1995)|
 ||Date of Second and Third Readings|7 August 1995|
@@ -6466,7 +6480,6 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of commencement|1 April 2006|
 |||(sections 17, 22 and 23)|
 |51.|**Act 1 of 2006—Payment Systems (Oversight) Act 2006**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 November 2005|
 |||(Bill No. 39/2005 published on 22 November 2005)|
 ||Date of Second and Third Readings|16 January 2006|
@@ -6477,13 +6490,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007|
 |53.|**Act 30 of 2007—Employment of Foreign Workers (Amendment) Act 2007**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|9 April 2007|
 |||(Bill No. 17/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|22 May 2007|
 ||Date of commencement|1 July 2007|
 |54.|**Act 51 of 2007—Penal Code (Amendment) Act 2007**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|17 September 2007|
 |||(Bill No. 38/2007 published on 18 September 2007)|
 ||Date of Second and Third Readings|22 October 2007|
@@ -6494,19 +6505,16 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|15 September 2010|
 ||Date of commencement|1 November 2010|
 |56.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
 |57.|**Act 25 of 2011—Customs (Amendment) Act 2011**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|18 October 2011|
 |||(Bill No. 19/2011 published on 18 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2012|
 |58.|**Act 7 of 2012—Consumer Protection (Fair Trading) (Amendment) Act 2012**|
-||(Related amendments made to Act by)||
 ||Date of First Reading|14 February 2012|
 |||(Bill No. 3/2012 published on 14 February 2012)|
 ||Date of Second and Third Readings|9 March 2012|
@@ -6579,6 +6587,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 5/2017 published on 10 January 2017)|
 ||Date of Second and Third Readings|7 February 2017|
 ||Date of commencement|1 July 2017|
+|74.|**Act 10 of 2017—Road Traffic (Amendment) Act 2017**|
+||Date of First Reading|10 January 2017|
+|||(Bill No. 5/2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|20 July 2017|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
