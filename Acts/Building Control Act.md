@@ -2524,25 +2524,27 @@ INSPECTION OF BUILDINGS
 
 26\.—(1) In this Part —
 
-“owner”, in relation to —
+“owner” —
 
-(a) a subdivided building comprising 2 or more flats, means —
+(a) in relation to a subdivided building comprised in a strata title plan under the Land Titles (Strata) Act, means —
 
-(i) the management corporation established under the Land Titles (Strata) Act (Cap. 158) having control of the building; or
+(i) the management corporation having control of the common property of the building, or the person receiving any rent or charge for the maintenance and management of that common property; and
 
-(ii) the person receiving any rent or charge for the maintenance and management of the common property of the building;
+(ii) in relation to any limited common property of the building, the subsidiary management corporation established under the Building Maintenance and Strata Management Act having control of the limited common property, or the person receiving any rent or charge for the maintenance and management of that limited common property;
 
-(b) the common property of any building comprising 2 or more flats, means —
+(b) in relation to any subdivided building which is not comprised in a strata title plan under the Land Titles (Strata) Act, means —
 
-(i) the person receiving any rent or charge for the maintenance and management of the common property of the building;
+(i) in relation to the common property of residential and commercial property in any housing estate of the Housing and Development Board, that Board;
 
-(ii) any body corporate constituted under an order made by the Minister under section 3 of the HUDC Housing Estates Act (Cap. 131);
+(ii) in relation to the common property of any subdivided building in any housing estate under the HUDC Housing Estates Act, any body corporate constituted under an order made by the Minister under section 3 of that Act; and
 
-(ba) the limited common property of any building comprising 2 or more flats, means the subsidiary management corporation or the person receiving any rent or charge for the maintenance and management of that limited common property; and
+(iii) in relation to the common property of any other subdivided building, every person who is a registered proprietor in the land-register under the Land Titles Act of the fee simple, estate in perpetuity or leasehold estate of a lot in that building, or the person receiving any rent or charge for the maintenance and management of the common property of the building;
 
-[47/2004 wef 01/04/2005]
+(c) in relation to any premises which are not subdivided, means any person who is the registered proprietor of the fee simple, estate in perpetuity or leasehold estate of those premises in the land-register under the Land Titles Act; and
 
-(c) the common property of residential and commercial property in any housing estate of the Housing and Development Board, means that Board;
+(d) where paragraphs (a), (b) and (c) do not apply, means the person for the time being receiving the rent of the premises or building, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises or building were let to a tenant and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act as the owner of the premises or building, or a mortgagee in possession;
+
+[Act 22 of 2012 wef 28/07/2017]
 
 “special building” means any building of which not less than 90% of its floor area is used solely for residential purposes, and in this definition, “floor area” means the total area of floor space within the building measured between party walls including the thickness of external walls;
 
@@ -2568,9 +2570,11 @@ INSPECTION OF BUILDINGS
 
 ### Periodic inspection of buildings
 
-28\.—(1) Subject to subsection (2), the Commissioner of Building Control may, by notice served on the owner of a building to which this Part applies, require the building to be inspected.
+28\.—(1) Subject to subsections (2) and (2A), the Commissioner of Building Control may, by notice served on the owner of a building to which this Part applies, require the building to be inspected.
 
 [4/99]
+
+[Act 22 of 2012 wef 28/07/2017]
 
 (2) In relation to any building to which this Part applies, a notice under subsection (1) may be made —
 
@@ -2583,6 +2587,14 @@ INSPECTION OF BUILDINGS
 [18/95]
 
 [34/2004 wef 01/10/2004]
+
+(2A) In relation to any building to which this Part applies and in respect of which no temporary occupation permit or certificate of statutory completion has been issued, a notice under subsection (1) may be served at such time as the Commissioner of Building Control considers appropriate, and thereafter —
+
+(a) at intervals of not less than 5 years from the date of the last notice under this section for a building (other than a special building) used other than solely for residential purposes; or
+
+(b) at intervals of not less than 10 years from the date of the last notice under this section for a building which is a special building or used solely for residential purposes.
+
+[Act 22 of 2012 wef 28/07/2017]
 
 (3) Every owner of a building to which this Part applies shall, on receipt of a notice under subsection (1), cause the building to be inspected within the period specified in the notice and in the prescribed manner by a structural engineer appointed by the owner.
 
@@ -2610,11 +2622,13 @@ INSPECTION OF BUILDINGS
 
 [18/95; 4/99]
 
-(7) Where the report of the result of the inspection of a building prepared under subsection (6)(b) contains any measure or other building works recommended by the structural engineer to be carried out to ensure the structural stability or integrity of the building, the owner of the building shall, within such period and subject to such conditions as may be specified by the Commissioner of Building Control, carry out such measure or building works as is recommended by the structural engineer in the report.
+(7) Where the report of the result of the inspection of a building prepared under subsection (6)(b) contains any measure or other building works recommended by the structural engineer to be carried out to ensure the structural stability or integrity of the building, the owner of the building shall, within such period and subject to such conditions as may be specified by the Commissioner of Building Control, carry out or cause to be carried out such measure or building works as is recommended by the structural engineer in the report.
 
 [18/95; 4/99]
 
 [34/2004 wef 01/10/2004]
+
+[Act 22 of 2012 wef 28/07/2017]
 
 (8) Any owner of a building who contravenes or fails to comply with a notice under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
 
@@ -2668,13 +2682,9 @@ INSPECTION OF BUILDINGS
 
 shall not be regarded as constituting a professional or financial interest.
 
-(5) The Minister may, by notification in theGazette, exempt from subsection (1) any building or building works owned by or to be carried out for —
+(5) The Minister may, by notification in theGazette, exempt from subsection (1) any building owned by any public authority constituted by any public Act.
 
-(a) the Housing and Development Board;
-
-(b) the Land Transport Authority of Singapore; or
-
-(c) any other public authority constituted by any written law.
+[Act 22 of 2012 wef 28/07/2017]
 
 [18/95]
 
@@ -3957,16 +3967,17 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (except sections 26 and 29)|
-|22.|**Act 22 of 2012—Building Control (Amendment) Act 2012**|
+|22.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
+||Date of Second and Third Readings|7 October 2014|
+||Date of commencement|1 July 2015|
+|23.|**Act 22 of 2012—Building Control (Amendment) Act 2012**|
 ||Date of First Reading|13 August 2012 (Bill No. 20/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
 ||Dates of commencement|1 December 2012 (except sections 2(i), (j) and (k), 4, 5, 14, 15 and 16)|
 |||28 October 2013 (section 5)|
 |||1 April 2014 (section 4)|
-|23.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
-||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
-||Date of Second and Third Readings|7 October 2014|
-||Date of commencement|1 July 2015|
+|||28 July 2017|
 ## COMPARATIVE TABLE
 
 Building Control Act
