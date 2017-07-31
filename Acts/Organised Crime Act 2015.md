@@ -2396,6 +2396,18 @@ Section 8
 
 Unauthorised disclosure of access code
 
+24A.
+
+Section 8A
+
+Supplying, etc., personal information obtained in contravention of certain provisions
+
+24B.
+
+Section 8B
+
+Obtaining, etc., items for use in certain offences
+
 Copyright Act (Cap\. 63) 
 
 25.
@@ -3186,7 +3198,9 @@ Section 148
 
 Keeping, managing or assisting in management of brothels
 
-var printViewUrl = 'https://sso.agc.gov.sg/Act/OCA2015/Historical/20160601?DocDate=20170728&ValidDate=20160601'; var printViewFilter = {"DocType":"Act","DocNo":"OCA2015","QueryDate1":"20160601","DocStatus":"Historical","ValidDate":"20160601","ValidDt":null,"TransactionDate":null,"DocDate":"20170728","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'yty/qpOYVu657ot0qmG2Yn4yOcdubBsmgdiP2C4uvlmuWCDSsKcSSx6lX9SjA4Jxryg1KydtGhe/YMBpMQ9W+p0zQETkojEjgpFJpeb4DAh6y+gcGdCS4fx10/mT9EJxHHDhfgyVUyyZIGzlLUMGaF3bbj4CVALaWKHIXk19VYqxFhcXVkZOOs2pN8tAc474ksVEotlel8f/G/rCTn4HtQ==';
+[S 423/2017 wef 31/07/2017]
+
+var printViewUrl = 'https://sso.agc.gov.sg/Act/OCA2015/Historical/20170731?DocDate=20180312&ValidDate=20170731'; var printViewFilter = {"DocType":"Act","DocNo":"OCA2015","QueryDate1":"20170731","DocStatus":"Historical","ValidDate":"20170731","ValidDt":null,"TransactionDate":null,"DocDate":"20180312","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'yty/qpOYVu657ot0qmG2YnZiRJHtsk723gy2n+mhVAX/C+sC0ePRiY0mZcT6PEBDDTQEWcaHb7qN9Vz8XSe86jI4JR49OYX4aXeL/cXHxVgXZvsMvhdffRmU7PBRcfV2rq++XXwF3BP91zfzDCarPGqtUDp6Cf3eItJGDyo4EriGQe01/kQSjRDtLRZ7uI9nLFHXtxIQAc5OuS1QYJWKKQ==';
 
 $(function () { initPrintView(); });
 
