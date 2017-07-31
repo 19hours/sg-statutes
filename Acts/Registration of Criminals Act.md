@@ -156,7 +156,7 @@ PRELIMINARY
 
 “finger impression” includes palmar impressions, hand prints, finger prints, foot prints or toe prints;
 
-[Act 10 wef 2015 wef 01/06/2015]
+[Act 10 of 2015 wef 01/06/2015]
 
 “forensic procedure”, in relation to an individual, includes doing one or all of the following in relation to the individual:
 
@@ -1206,6 +1206,12 @@ Companies Act [Cap. 50]
 
 Sections 158(9), 338, 401(2), 402, 404 and 406.
 
+Computer Misuse and Cybersecurity Act [Cap. 50A]
+
+…
+
+Sections 3, 4, 5, 6, 7, 8, 8A, 8B and 10.
+
 Constitution of the Republic of Singapore [Vol. 1].
 
 ...
@@ -1477,6 +1483,8 @@ Women’s Charter [Cap. 353]
 ...
 
 Sections 35 to 40 and the whole of Part X.
+
+[S 424/2017 wef 31/07/2017]
 
 [17/80]
 
@@ -2072,3 +2080,5 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of First Reading|29 January 2016 (Bill No. 8/2016 published on 29 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 August 2016|
+|40.|**G.N. No. S 424/2017—Registration of Criminals Act (Amendment of First Schedule) Order 2017**|
+||Date of commencement|31 July 2017|
