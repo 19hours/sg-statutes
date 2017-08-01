@@ -3522,7 +3522,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) the accused had the express permission of the Commissioner to wear or possess the police uniform or use the police insignia, as the case may be; or
 
-(b) the accused wore or possessed the police uniform or used the police insignia (as the case may be) for the purposes of a public entertainment provided in compliance with the Public Entertainments and Meetings Act (Cap. 257).
+(b) the accused wore or possessed the police uniform or used the police insignia (as the case may be) for the purposes of a public entertainment provided in compliance with the Public Entertainments Act (Cap. 257).
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (4) A person (whether or not a police officer) who —
 
@@ -3809,6 +3811,10 @@ The Police Force Act 2004 repealed and re-enacted with amendments the Police For
 ||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|1 June 2015|
+|10.|**Act 28 of 2017—Public Entertainments and Meetings (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|1 August 2017|
 ## COMPARATIVE TABLE
 
 Police Force Act
