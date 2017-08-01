@@ -8253,7 +8253,9 @@ Private Security Industry Act (Cap. 250A).
 
 32. 
 
-Public Entertainments and Meetings Act (Cap. 257).
+Public Entertainments Act (Cap. 257).
+
+[Act 28 of 2017 wef 01/08/2017]
 
 33. 
 
@@ -9108,6 +9110,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|26 January 2016 (Bill No. 4/2016 published on 26 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 January 2017|
+|212.|**Act 28 of 2017—Public Entertainments and Meetings (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|1 August 2017|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
