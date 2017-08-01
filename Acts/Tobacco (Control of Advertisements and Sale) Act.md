@@ -38,7 +38,9 @@
 
 - [12 Number of cigarettes in package](#Number-of-cigarettes-in-package)
 
-- [13 Notice of prohibition](#Notice-of-prohibition)
+- [12A Prohibition on display of tobacco products](#Prohibition-on-display-of-tobacco-products)
+
+- [13 Warning notices](#Warning-notices)
 
 - [14 Prohibition on sale by vending machines](#Prohibition-on-sale-by-vending-machines)
 
@@ -551,27 +553,57 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 9 of 2016 wef 01/08/2016]
 
-### Notice of prohibition
+### Prohibition on display of tobacco products
 
-13\.—(1) Every person who sells or offers for sale any tobacco product by retail (referred to in this section as the retailer) —
+12A\.—(1) Except as otherwise provided in subsection (3) or exempted under section 22, a person who distributes, sells or offers for sale any tobacco product by retail on any premises —
 
-(a) shall cause to be displayed suitable and sufficient number of notices of an adequate size or sizes in conspicuous positions in the premises where the product is sold, stating to the effect that the sale of any tobacco product to persons below the age of 18 years is prohibited by law; and
+(a) must not display or cause to be displayed any tobacco product on the premises when so distributing, selling or offering for sale;
 
-(b) shall, if so directed by the Chief Executive, display such notices in such premises, phrase them in such manner or cause them to be of such size, as the Chief Executive may consider fit.
+(b) must ensure that no customer or member of the public can see the tobacco products from inside or outside the premises; and
 
-[4/2001]
+(c) must ensure that paragraph (b) is complied with in the prescribed manner.
 
-[17/2010]
+(2) Except as otherwise provided in subsection (3) or exempted under section 22, a person who is the owner or occupier of any premises to which the public or any section of the public in Singapore has access (on payment or otherwise) must not display or cause to be displayed any tobacco product on the premises.
 
-(2) The retailer may, subject to any direction that may be given by the Chief Executive under subsection (1)(b), in addition to such notices, adopt any means, method or device as he may think fit for bringing such prohibition to the attention of members of the public in the premises.
+(3) This section does not apply to the display of tobacco products on any premises —
 
-[4/2001]
+(a) to a customer of the business concerned at the customer’s request;
 
-[17/2010]
+(b) by a customer of the business concerned; or
 
-(3) A retailer who contravenes subsection (1) or fails to comply with any direction given by the Chief Executive under that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+(c) in such other circumstances as may be prescribed.
 
-[4/2001]
+(4) However, a display of tobacco products referred to in subsection (3) must not consist of a display of the products, or representations of the products, that constitute an advertisement itself as distinct from the display allowed under that subsection.
+
+(5) A person who contravenes subsection (1)(a) or (b) or (2) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; or
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(6) A person who contravenes subsection (1)(c) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; or
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 9 of 2016 wef 01/08/2017]
+
+### Warning notices
+
+13\.—(1) A person who distributes, sells or offers for sale any tobacco product by retail at any retail outlet must display or cause to be displayed at the retail outlet such number of warning notices of such type and at such locations at the retail outlet as the Authority may direct.
+
+(2) In relation to the type of warning notice to be displayed, the Authority may give directions about the size, wording or appearance of the warning notice, including requiring the display of any warning notice provided by the Health Promotion Board.
+
+(3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $5,000; or
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+
+(4) In this section, “warning notice” means a notice stating to the effect that the sale of any tobacco product to persons below the age of 18 years is prohibited by law.
+
+[Act 9 of 2016 wef 01/08/2017]
 
 ### Prohibition on sale by vending machines
 
@@ -1177,6 +1209,10 @@ This Legislative History is provided for the convenience of users of the Tobacco
 ||Date of First Reading|29 February 2016 (Bill No. 10/2016 published on 29 February 2016)|
 ||Date of Second and Third Readings|14 March 2016|
 ||Date of commencement|1 August 2016|
+|14.|**Act 9 of 2016—Tobacco (Control of Advertisements and Sale) (Amendment) Act 2016**|
+||Date of First Reading|29 February 2016 (Bill No. 10/2016 published on 29 February 2016)|
+||Date of Second and Third Readings|14 March 2016|
+||Date of commencement|1 August 2017|
 ## COMPARATIVE TABLE
 
 Tobacco (Control of Advertisements and Sale) Act
