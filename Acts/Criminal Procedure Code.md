@@ -14009,7 +14009,9 @@ Protected Areas and Protected Places Act (Cap. 256)
 
 19. 
 
-Public Entertainments and Meetings Act (Cap. 257)
+Public Entertainments Act (Cap. 257)
+
+[Act 28 of 2017 wef 01/08/2017]
 
 20. 
 
@@ -17337,3 +17339,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|13 July 2015 (Bill No. 21/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|17 August 2015|
 ||Date of commencement|1 June 2016|
+|21.|**Act 28 of 2017—Public Entertainments and Meetings (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|1 August 2017|
