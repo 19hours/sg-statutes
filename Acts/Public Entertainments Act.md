@@ -1,4 +1,4 @@
-**Public Entertainments and Meetings Act**
+**Public Entertainments Act**
 
 **(CHAPTER 257)**
 
@@ -42,9 +42,13 @@
 
 - [15C Directions by Arts Entertainment Licensing Officer](#Directions-by-Arts-Entertainment-Licensing-Officer)
 
-- [16 Appeals to Minister](#Appeals-to-Minister)
+- [16 Appeal authority and appealable decisions](#Appeal-authority-and-appealable-decisions)
 
-- [16AA Minister may designate others to hear appeals](#Minister-may-designate-others-to-hear-appeals)
+- [16AA Public Entertainment Appeal Board](#Public-Entertainment-Appeal-Board)
+
+- [16AB Appeal to appeal authority](#Appeal-to-appeal-authority)
+
+- [16AC Minister may designate others to hear appeals](#Minister-may-designate-others-to-hear-appeals)
 
 - [16A Exemption](#Exemption)
 
@@ -58,6 +62,8 @@
 
 - [19 General offences](#General-offences)
 
+- [19A Protection from personal liability](#Protection-from-personal-liability)
+
 - [20 Service of documents](#Service-of-documents)
 
 - [21 Composition of offences](#Composition-of-offences)
@@ -66,13 +72,15 @@
 
 - [23 Rules](#Rules)
 
-[**THE SCHEDULE Meaning of public entertainment**](#THE-SCHEDULE)
+[**FIRST SCHEDULE Meaning of public entertainment**](#FIRST-SCHEDULE-Meaning-of-public-entertainment)
+
+[**SECOND SCHEDULE Specified offences**](#SECOND-SCHEDULE-Specified-offences)
 
 [**Legislative History**](#Legislative-History)
 
 [**Comparative Table**](#Comparative-Table)
 
-# Public Entertainments and Meetings Act
+# Public Entertainments Act
 
 (CHAPTER 257)
 
@@ -82,17 +90,21 @@ REVISED EDITION 2001
 
 (31st July 2001)
 
-An Act to provide for the regulation of public entertainments and meetings.
+An Act to provide for the regulation of public entertainments.
 
 [35/2000]
+
+[Act 28 of 2017 wef 01/08/2017]
 
 [15th January 1959]
 
 ### Short title
 
-1\. This Act may be cited as the Public Entertainments and Meetings Act.
+1\. This Act may be cited as the Public Entertainments Act.
 
 [35/2000]
+
+[Act 28 of 2017 wef 01/08/2017]
 
 ### Interpretation
 
@@ -112,9 +124,15 @@ An Act to provide for the regulation of public entertainments and meetings.
 
 “approved place” means a building, tent, street or place, or any part of that, whether open or enclosed, which is approved by the appropriate Licensing Officer for the purposes of this Act;
 
-“arts entertainment” has the same meaning as in the Schedule;
+“arts entertainment” has the same meaning as in the First Schedule;
+
+[Act 28 of 2017 wef 01/08/2017]
 
 “Arts Entertainment Licensing Officer” means the Licensing Officer appointed under section 4 by the Minister charged with the responsibility for the licensing of arts entertainments, and includes an Assistant Licensing Officer appointed by that Minister under that section;
+
+“authorised person” means an individual appointed as an authorised person under section 4(2);
+
+[Act 28 of 2017 wef 01/08/2017]
 
 “licence” means a public entertainment licence issued or renewed under this Act;
 
@@ -130,9 +148,25 @@ An Act to provide for the regulation of public entertainments and meetings.
 
 (b) in any other provision of this Act, the Public Entertainment Licensing Officer or the Arts Entertainment Licensing Officer, as the case may be;
 
-“public entertainment” has the same meaning as in the Schedule;
+“public entertainment” has the same meaning as in the First Schedule;
+
+[Act 28 of 2017 wef 01/08/2017]
+
+“Public Entertainment Appeal Board” means the Public Entertainment Appeal Board established under section 16AA;
+
+[Act 28 of 2017 wef 01/08/2017]
 
 “Public Entertainment Licensing Officer” means the Licensing Officer appointed under section 4 by the Minister charged with the responsibility for public entertainments, and includes an Assistant Licensing Officer appointed by that Minister under that section;
+
+“responsible officer”, in relation to an applicant or a licensee, means —
+
+(a) where the applicant or licensee is a body corporate, a director of the body corporate;
+
+(b) where the applicant or licensee is a partnership (including a limited partnership and limited liability partnership), a partner of the partnership; and
+
+(c) where the applicant or licensee is an unincorporated association registered under the Societies Act (Cap. 311), an officer of the unincorporated association;
+
+[Act 28 of 2017 wef 01/08/2017]
 
 “specified establishment” means —
 
@@ -142,19 +176,31 @@ An Act to provide for the regulation of public entertainments and meetings.
 
 (b) an amusement centre, a billiard saloon, a computer games centre or any other similar establishment.
 
-(2) For the purposes of the definitions of “appropriate Licensing Officer” and “appropriate Minister” in subsection (1), section 15A(4), and the Schedule, a public entertainment is provided or to be provided in combination with another public entertainment if —
+(2) For the purposes of the definitions of “appropriate Licensing Officer” and “appropriate Minister” in subsection (1), section 15A(4), and the First Schedule, a public entertainment is provided or to be provided in combination with another public entertainment if —
 
 (a) they are combined such that they are provided or to be provided as a single or an integrated public entertainment; or
 
 (b) they remain distinct but are provided or to be provided in or as part of the same event.
 
+[Act 28 of 2017 wef 01/08/2017]
+
+(2AA) In determining any approved place for the purposes of this Act, the appropriate Licensing Officer —
+
+(a) must act in conformity with the provisions of the Master Plan and any Certified Interpretation Plan under the Planning Act (Cap. 232) and any authorisation under section 21(6) of that Act; and
+
+(b) may approve an approved place, subject to written permission being obtained under the Planning Act for any development of or works on the land that constitutes the approved place, if required.
+
+[Act 28 of 2017 wef 01/08/2017]
+
 (2A) Unless the context otherwise requires, any reference in this Act to the issue of a licence includes a reference to the renewal of the licence.
 
-(2B) The Schedule may, at any time, by order published in theGazette, be amended, added to or varied by —
+(2B) The Schedules may, at any time, by order published in theGazette, be amended, added to or varied by —
 
 (a) the Minister charged with the responsibility for public entertainments in any case; and
 
 (b) the Minister charged with the responsibility for the licensing of arts entertainments insofar as the amendment, addition or variation relates to an arts entertainment.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (3) Any order made under subsection (2B) shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -172,9 +218,17 @@ An Act to provide for the regulation of public entertainments and meetings.
 
 ### Appointment of officers
 
-4\. The Minister charged with the responsibility for public entertainments and the Minister charged with the responsibility for the licensing of arts entertainments may each, by notification in theGazette, appoint a Licensing Officer for the purposes of this Act and may similarly appoint such number of Assistant Licensing Officers as may be necessary.
+4\.—(1) The Minister charged with the responsibility for public entertainments and the Minister charged with the responsibility for the licensing of arts entertainments may each, by notification in theGazette, appoint a Licensing Officer for the purposes of this Act and may similarly appoint such number of Assistant Licensing Officers as may be necessary.
 
-[Act 32 of 2014 wef 01/01/2015]
+[Act 28 of 2017 wef 01/08/2017]
+
+(2) The appropriate Licensing Officer may, in relation to any provision of this Act, appoint an individual who is suitably trained as an authorised person for the purposes of that provision, subject to such conditions or limitations as set out in this Act or as the Licensing Officer may specify.
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(3) An authorised person who, in the course of duty as an authorised person, exercises any power as such, is deemed to be a public servant for the purposes of the Penal Code (Cap. 224) when exercising such power.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 ### Application for licence
 
@@ -184,7 +238,9 @@ An Act to provide for the regulation of public entertainments and meetings.
 
 (3) For the purposes of subsection (1), the appropriate Licensing Officer —
 
-(a) may require an applicant to satisfy such criteria and requirements as the appropriate Licensing Officer may publish on a prescribed website; and
+(a) may require an applicant to satisfy such criteria and requirements as the appropriate Licensing Officer may publish on a prescribed website (including criteria and requirements relating to any responsible officer of the applicant and any person having substantial interest in, or control or direction over, the business of the applicant); and
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (b) may publish different criteria and requirements for different classes of public entertainments or public entertainment licences.
 
@@ -250,9 +306,7 @@ as may be specified in the licence.
 
 [Act 32 of 2014 wef 01/01/2015]
 
-(5) Any licensee who is aggrieved by the decision of the appropriate Licensing Officer under this section may appeal in writing to the appropriate Minister within 14 days after being notified of the decision or such extended period as the Minister may allow in any particular case.
-
-[Act 32 of 2014 wef 01/01/2015]
+(5) [Deleted by Act 28 of 2017 wef 01/08/2017]
 
 ### Security
 
@@ -308,9 +362,7 @@ to give security in such form and manner as the appropriate Licensing Officer ma
 
 [Act 32 of 2014 wef 01/01/2015]
 
-(6) Any licensee, or person whose licence is cancelled, who is aggrieved by the decision of the appropriate Licensing Officer under subsection (4) may appeal in writing to the appropriate Minister within 14 days after being notified of the decision or such extended period as the Minister may allow in any particular case.
-
-[Act 32 of 2014 wef 01/01/2015]
+(6) [Deleted by Act 28 of 2017 wef 01/08/2017]
 
 ### Licence to be displayed
 
@@ -334,15 +386,9 @@ to give security in such form and manner as the appropriate Licensing Officer ma
 
 [Act 32 of 2014 wef 01/01/2015]
 
-(3) Any applicant or licensee who is aggrieved by the refusal of the appropriate Licensing Officer to issue or renew a licence may appeal in writing to the appropriate Minister within 14 days after being furnished with the grounds of the refusal or such extended period as the Minister may allow in any particular case.
+(3) [Deleted by Act 28 of 2017 wef 01/08/2017]
 
-[Act 32 of 2014 wef 01/01/2015]
-
-(4) Where the appropriate Minister decides to grant the appeal for the issue or renewal of a licence, he may impose such conditions as he thinks fit.
-
-[35/2000]
-
-[Act 32 of 2014 wef 01/01/2015]
+(4) [Deleted by Act 28 of 2017 wef 01/08/2017]
 
 ### Suspension or cancellation of licence
 
@@ -370,11 +416,23 @@ to give security in such form and manner as the appropriate Licensing Officer ma
 
 [Act 32 of 2014 wef 01/01/2015]
 
-(2) The appropriate Licensing Officer may, in his discretion, suspend or cancel a licence, as the case may be, if he is satisfied that the licensee is not a fit and proper person to hold such licence.
+(2) The appropriate Licensing Officer may, in his discretion, suspend or cancel a licence, as the case may be, if he is satisfied that the licensee is not a fit and proper person to hold such licence, having regard to the criteria and requirements mentioned in section 5(3)(a).
 
 [35/2000]
 
 [Act 32 of 2014 wef 01/01/2015]
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(2A) Despite subsection (3A), the appropriate Licensing Officer may immediately suspend a licence if proceedings have commenced against the licensee, a responsible officer of the licensee or a person having substantial interest in, or control or direction over, the business of the licensee, for any offence —
+
+(a) specified in the Second Schedule; and
+
+(b) arising out of or in connection with any activity at an approved place specified in the licence,
+
+until the conclusion of those proceedings.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (3) Where the appropriate Minister has made rules under section 15(1) in respect of a licence, the appropriate Licensing Officer must not suspend or cancel the licence under subsection (1)(e) unless the licensee has accumulated such number of demerit points as prescribed under section 15(1).
 
@@ -388,13 +446,9 @@ to give security in such form and manner as the appropriate Licensing Officer ma
 
 [Act 32 of 2014 wef 01/01/2015]
 
-(5) Any person who is aggrieved by the suspension or cancellation of the person’s licence by the appropriate Licensing Officer may appeal in writing to the appropriate Minister within 14 days after being furnished with the grounds of the suspension or cancellation or such extended period as the Minister may allow in any particular case.
+(5) [Deleted by Act 28 of 2017 wef 01/08/2017]
 
-[Act 32 of 2014 wef 01/01/2015]
-
-(6) Where the appropriate Minister decides to restore a licence, he may impose such conditions as he thinks fit.
-
-[Act 32 of 2014 wef 01/01/2015]
+(6) [Deleted by Act 28 of 2017 wef 01/08/2017]
 
 ### Demerit points
 
@@ -404,11 +458,13 @@ to give security in such form and manner as the appropriate Licensing Officer ma
 
 [Act 32 of 2014 wef 01/01/2015]
 
-(2) For the purposes of this section, demerit points may be awarded against a licensee notwithstanding that the licensee has accepted an offer by the appropriate Licensing Officer to compound the offence concerned.
+(2) For the purposes of this section, demerit points may be awarded against a licensee notwithstanding that the licensee has consented to have an offence under section 19(1)(c) taken into consideration by a court in determining and passing sentence for any other offence or accepted an offer by the appropriate Licensing Officer to compound the offence concerned.
 
 [35/2000]
 
 [Act 32 of 2014 wef 01/01/2015]
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (3) Where a licence is cancelled under section 14, every demerit point awarded against the licensee in respect of the licence shall be cancelled.
 
@@ -422,7 +478,21 @@ to give security in such form and manner as the appropriate Licensing Officer ma
 
 (2) A licensee must not provide any arts entertainment unless its content has been classified by the Arts Entertainment Licensing Officer.
 
-(3) A licensee must not provide any classified arts entertainment unless its form and content are the same as that which have been classified by the Arts Entertainment Licensing Officer.
+(2A) In classifying any arts entertainment, the Arts Entertainment Licensing Officer may impose such conditions as he thinks fit and may, at any time, add to the conditions, or vary or revoke any such condition.
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(2B) The Arts Entertainment Licensing Officer must, before proceeding to add to, vary or revoke any condition of a classification under subsection (2A), give the licensee —
+
+(a) notice in writing of his intention to do so; and
+
+(b) an opportunity to be heard, within such time as may be specified in the notice, as to why the condition should not be added to, varied or revoked.
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(3) A licensee must not provide any classified arts entertainment unless its form and content are the same as that which have been classified by the Arts Entertainment Licensing Officer and its provision is in accordance with the conditions imposed under subsection (2A), if any.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (4) In this section and sections 15B and 15C, a reference to an arts entertainment includes a reference to —
 
@@ -444,9 +514,17 @@ to give security in such form and manner as the appropriate Licensing Officer ma
 
 (2) The Arts Entertainment Licensing Officer may refuse to classify the content of an arts entertainment if —
 
-(a) the licensee does not comply with subsection (1); or
+(a) the licensee does not comply with subsection (1);
 
-(b) any information or document provided to the Arts Entertainment Licensing Officer under subsection (1)(a) is incomplete or inaccurate.
+[Act 28 of 2017 wef 01/08/2017]
+
+(b) any information or document provided to the Arts Entertainment Licensing Officer under subsection (1)(a) is incomplete or inaccurate; or
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(c) the content of the arts entertainment does not fall within any of the classifications of arts entertainment determined by the Arts Entertainment Licensing Officer under section 15A.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 [Act 32 of 2014 wef 01/03/2016]
 
@@ -462,59 +540,93 @@ and the licensee must comply with the direction.
 
 (2) Before issuing any direction to a licensee under subsection (1), the Arts Entertainment Licensing Officer must, unless it is not practicable or desirable to do so in the circumstances of the case, give the licensee a written notice of the intention to do so and an opportunity to submit reasons, within the period specified in that notice, as to why the direction should not be issued.
 
-(3) Any licensee who is aggrieved by a direction of the Arts Entertainment Licensing Officer under subsection (1) may appeal in writing to the Minister charged with the responsibility for the licensing of arts entertainments within 14 days after being notified of the direction or such extended period as the Minister may allow in any particular case.
+(3) [Deleted by Act 28 of 2017 wef 01/08/2017]
 
 [Act 32 of 2014 wef 01/03/2016]
 
-### Appeals to Minister
+### Appeal authority and appealable decisions
 
-16\.—(1) Any person who makes an appeal to a Minister under section 10(5), 11(6), 13(3), 14(5) or 15C(3) must, within the period specified in that provision for the making of the appeal —
+16\. In this section and sections 16AA, 16AB and 16AC —
 
-(a) state the circumstances in which the appeal arises and the issues and grounds for the appeal; and
+“appeal authority” means —
 
-(b) submit all relevant facts, evidence and arguments in respect of the appeal.
+(a) in relation to an appealable decision of the Public Entertainment Licensing Officer —
 
-(2) Where an appeal is made to a Minister under any of the provisions specified in subsection (1), the Minister may require —
+(i) the Public Entertainment Appeal Board established under section 16AA, where the appellant is —
 
-(a) any party to the appeal; or
+(A) an applicant for, or a licensee of, a specified establishment or one of a class of specified establishments, prescribed by the Minister charged with the responsibility for public entertainments; or
 
-(b) any person who is not a party to the appeal but appears to the Minister to have any information or document that is relevant to the appeal,
+(B) one of a class of applicants or licensees prescribed by the Minister charged with the responsibility for public entertainments; or
 
-to provide the Minister with such information or document as the Minister may require for the purpose of considering and determining the appeal; and any person so required to provide the information or document must provide it in such manner and within such period as may be specified by the Minister.
+(ii) in any other case, the Minister charged with the responsibility for public entertainments; or
 
-(3) A Minister may reject an appeal made to him under any of the provisions specified in subsection (1) if the appellant fails to comply with subsection (1) or (2) in respect of that appeal.
+(b) in relation to an appealable decision of the Arts Entertainment Licensing Officer, the Minister charged with the responsibility for the licensing of arts entertainments;
 
-(4) Any appeal made to a Minister under any of the provisions specified in subsection (1) against a decision or direction, as the case may be, of the Licensing Officer shall not affect the operation of the decision or direction or prevent the taking of any action to implement the decision or direction unless otherwise provided in this Act or directed by the Minister in any particular case.
+“appealable decision”, in relation to the appropriate Licensing Officer, means any of the following decisions or directions:
 
-(5) A Minister may determine an appeal made to him under any of the provisions specified in subsection (1) against a decision or direction of the Licensing Officer by —
+(a) a decision under section 10(1) or (2) imposing, adding to, varying, refusing to vary, or revoking any condition of a licence;
+
+(b) a decision under section 11(4) forfeiting the whole or any part of the security given under section 11(1) or (2);
+
+(c) a decision under section 13(1) refusing to issue or renew a licence;
+
+(d) a decision under section 14(1) or (2) suspending or cancelling a licence;
+
+(e) a decision under section 15A(2) classifying the content of any arts entertainment, or under section 15A(2A) imposing, adding to, varying, refusing to vary, or revoking any condition of classification of any arts entertainment;
+
+(f) a refusal to classify the content of an arts entertainment under section 15B(2);
+
+(g) a direction by the Arts Entertainment Licensing Officer under section 15C(1).
+
+[Act 28 of 2017 wef 01/08/2017]
+
+### Public Entertainment Appeal Board
+
+16AA\.—(1) A Public Entertainment Appeal Board is established, comprising a chairperson, a vice‑chairperson and 5 other members, all of whom are appointed by the Minister charged with the responsibility for public entertainments.
+
+(2) An individual must not be appointed to the Public Entertainment Appeal Board if the individual is directly or indirectly involved in the provision of public entertainment or arts entertainment.
+
+(3) The Minister must appoint a public officer as a secretary to the Public Entertainment Appeal Board.
+
+(4) All members of the Public Entertainment Appeal Board are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 28 of 2017 wef 01/08/2017]
+
+### Appeal to appeal authority
+
+16AB\.—(1) An applicant or a licensee aggrieved by an appealable decision may appeal against the decision to the appeal authority for that decision.
+
+(2) Any appeal to the appeal authority must be made in writing —
+
+(a) within 14 days after the applicant or licensee is notified of the appealable decision, or such extended period as the appeal authority may allow in any particular case; and
+
+(b) in accordance with any rules made under section 23 for the appeal.
+
+(3) An appealable decision takes effect despite an appeal against that decision being made to the appeal authority under subsection (1), unless the appeal authority otherwise specifies.
+
+(4) In granting an appeal, the appeal authority may impose such restrictions or conditions as the appeal authority thinks fit on the licence that is the subject of the appeal.
+
+(5) The appeal authority may determine an appeal made to it under subsection (1) by —
 
 (a) confirming, varying or reversing the decision or direction; or
 
-(b) requiring the Licensing Officer to reconsider the decision or direction,
+(b) requiring the appropriate Licensing Officer to reconsider the decision or direction.
 
-and the decision of the Minister shall be final.
+(6) The appeal authority’s decision on the appeal is final.
 
-[Act 32 of 2014 wef 01/01/2015]
+[Act 28 of 2017 wef 01/08/2017]
 
 ### Minister may designate others to hear appeals
 
-16AA\.—(1) A Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal or a specific appeal to the Minister under section 10(5), 11(6), 13(3), 14(5) or 15C(3):
+16AC\. A Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal to the Minister under section 16AB:
 
 (a) the Second Minister, if any, for his Ministry;
 
-(b) any Minister of State for his Ministry;
+(b) any Minister of State, including a Senior Minister of State, for his Ministry;
 
-(c) any Parliamentary Secretary to his Ministry.
+(c) any Parliamentary Secretary, including a Senior Parliamentary Secretary, to his Ministry.
 
-(2) Any reference to a Minister in section 10(5), 11(6), 13(3) or (4), 14(5) or (6), 15C(3) or 16 includes a reference to a person designated by the Minister under subsection (1).
-
-(3) To avoid doubt, in this section —
-
-“Minister of State” includes a Senior Minister of State;
-
-“Parliamentary Secretary” includes a Senior Parliamentary Secretary.
-
-[Act 16 of 2016 wef 10/06/2016]
+[Act 28 of 2017 wef 01/08/2017]
 
 ### Exemption
 
@@ -522,17 +634,77 @@ and the decision of the Minister shall be final.
 
 (2) In this section, “Minister” means —
 
-(a) the Minister charged with the responsibility for the licensing of arts entertainments insofar as the power under this section is exercised in connection with section 15A, 15B or 15C; and
+(a) in relation to section 15A, 15B or 15C, the Minister charged with the responsibility for the licensing of arts entertainments; and
 
-(b) the appropriate Minister insofar as the power under this section is exercised in connection with any other provision of this Act.
+(b) in relation to any other provision of this Act —
+
+(i) the Minister charged with the responsibility for public entertainments in any case; and
+
+(ii) the Minister charged with the responsibility for the licensing of arts entertainments insofar as the exemption relates to an arts entertainment provided or to be provided, solely or in combination with one or more forms of arts entertainments only, in any place other than a specified establishment.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 [Act 32 of 2014 wef 01/01/2015]
 
 ### Powers of entry and inspection
 
-17\.—(1) The Licensing Officer or any police officer may enter any place where a licensed public entertainment is being provided with a view to ascertaining whether the conditions of the licence and the provisions of this Act are being complied with.
+17\.—(1) The Licensing Officer, a police officer or an authorised person (each called in this section an inspecting officer) may exercise all or any of the powers in this section for the purpose of ascertaining whether the condition of any licence, condition of any classification or the provisions of this Act are being complied with.
 
-[Act 32 of 2014 wef 01/01/2015]
+[Act 28 of 2017 wef 01/08/2017]
+
+(1A) An inspecting officer may —
+
+(a) enter and inspect any premises where public entertainment is provided, or that the inspecting officer believes on reasonable grounds is used for the provision of public entertainment;
+
+(b) photograph or film, or make a record or sketches of, any part of the premises, or any person or thing at the premises;
+
+(c) require any person on those premises to produce or grant access to, without charge, any document, information or article reasonably required for any purpose in subsection (1), which is in the possession or under the control of that person;
+
+(d) inspect and make copies of or take extracts from any such document or article; and
+
+(e) subject to section 17A(6), take possession of such a document or article if, in the opinion of the inspecting officer —
+
+(i) the inspection or copying of or extraction from the document or article cannot reasonably be performed without taking possession;
+
+(ii) the document or article may be interfered with or destroyed unless possession is taken; or
+
+(iii) the document or article may be required as evidence in any proceedings instituted or commenced under this Act.
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(1B) The power to require a person to furnish any document, information or article under subsection (1A)(c) includes the power —
+
+(a) to require the person, or any person who is or was an officer or employee of that person, to provide an explanation of the document, information or article;
+
+(b) if the document, information or article is not furnished, to require the person to state, to the best of the person’s knowledge and belief, where it is; and
+
+(c) if the document, information or article is recorded otherwise than in legible form, to require the document, information or article to be made available to the inspecting officer in legible form.
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(1C) For the purposes of subsection (1A), if any document or information required by the inspecting officer is kept in electronic form —
+
+(a) the power of the inspecting officer to inspect the document or to obtain the information includes the power to —
+
+(i) access any computer or other equipment (including a mobile telephone) in which the document or information is stored; and
+
+(ii) require any person having charge of, or otherwise concerned with the operation of, the computer or equipment to provide assistance in gaining such access; and
+
+(b) the power of the inspecting officer to seize such document includes the power —
+
+(i) to make copies of the document in legible or electronic form; and
+
+(ii) to transfer the information from the document to a disk, tape or other storage device.
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(1D) If the inspecting officer under subsection (1C)(b) is unable to make copies of the document or transfer the information from the document, the Licensing Officer or a police officer (who may not be the inspecting officer) may —
+
+(a) subject to section 17A(6), seize the computer or other equipment (including a mobile telephone) in which the document or information is stored, as evidence in proceedings for an offence under this Act; and
+
+(b) require any person having charge of, or otherwise concerned with the operation of, the computer or equipment to disclose any password or access code for gaining access to the document or information held in the computer or equipment.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (2) Nothing in this section or section 17A, 17B or 18 shall derogate from the powers of a police officer under the Criminal Procedure Code (Cap. 68).
 
@@ -540,7 +712,7 @@ and the decision of the Minister shall be final.
 
 ### Powers of investigation
 
-17A\.—(1) The Licensing Officer may, for the purposes of investigating an offence under this Act or the contravention of any provision of this Act, do all or any of the following:
+17A\.—(1) The Licensing Officer may, for the purposes of investigating an offence under this Act or the contravention of any provision of this Act, in addition to exercising any of the powers in section 17, do all or any of the following:
 
 (a) require any person whom the Licensing Officer reasonably believes to have committed that offence or contravention to furnish evidence of that person’s identity;
 
@@ -558,7 +730,19 @@ relevant to the investigation, to furnish that information, or produce that docu
 
 (i) whether before or after that person or anyone else is charged with an offence in connection with the matter; and
 
-(ii) whether or not that person is to be called as a witness in any inquiry, trial or other proceeding in connection with the matter.
+(ii) whether or not that person is to be called as a witness in any inquiry, trial or other proceeding in connection with the matter;
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(e) without a warrant enter and search any place or premises in which the Licensing Officer reasonably suspects that an offence under this Act is being or has been committed;
+
+[Act 28 of 2017 wef 01/08/2017]
+
+(f) if free entry or access to the place or premises cannot be obtained under paragraph (e), the Licensing Officer may, with such assistance as the Licensing Officer considers necessary, break open any door, window, lock or fastener, or use any other reasonable means in order to gain entry or access into the place or premises.
+
+[Act 28 of 2017 wef 01/08/2017]
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (2) Any person examined under this section shall be bound to state truly what the person knows of the facts and circumstances of the matter, except that the person need not say anything that might expose the person to a criminal charge, penalty or forfeiture.
 
@@ -590,17 +774,21 @@ relevant to the investigation, to furnish that information, or produce that docu
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(8) In this section and section 17B, a reference to the Licensing Officer shall include a police officer.
+(8) In this section, a reference to the Licensing Officer shall include a police officer.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 [Act 32 of 2014 wef 01/01/2015]
 
 ### Disposal and forfeiture of documents and articles
 
-17B\.—(1) Any document or article retained by the Licensing Officer under section 17A(5) shall —
+17B\.—(1) Any document or article retained under section 17(1A)(e) or (1D) or 17A(5) shall —
 
 (a) where the document or article is produced in any criminal trial, be dealt with in accordance with section 364 of the Criminal Procedure Code (Cap. 68); or
 
 (b) in any other case, be returned to the owner or, if the owner is not known, reported to a Magistrate.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (2) Where the report of any document or article is made to a Magistrate under subsection (1)(b), the Magistrate may order the document or article to be forfeited or to be disposed of in such manner as the Magistrate thinks fit.
 
@@ -636,9 +824,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) in contravention of this Act,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+shall be guilty of an offence and shall be liable on conviction —
 
-[9/79; 35/2000]
+(i) in the case of an offence under paragraph (a) or (b), to a fine not exceeding $20,000; and
+
+(ii) in the case of an offence under paragraph (c) or (d), to a fine not exceeding $10,000.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (2) For the purposes of subsection (1), no person shall be deemed to have provided or assisted in providing public entertainment merely by reason of his having taken part in the public entertainment provided.
 
@@ -657,6 +849,12 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 [Act 32 of 2014 wef 01/01/2015]
 
 [Act 32 of 2014 wef 01/01/2015]
+
+### Protection from personal liability
+
+19A\. No liability shall lie against a Licensing Officer, an Assistant Licensing Officer, a police officer, an authorised person or a member of the Public Entertainment Appeal Board for anything done or intended to be done with reasonable care and in good faith in the execution or purported execution of this Act.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 ### Service of documents
 
@@ -764,6 +962,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) to prescribe the hours during which public entertainment may be provided;
 
+(ca) to prescribe the form and manner, and any procedures or proceedings relating to any appeal under this Act;
+
+[Act 28 of 2017 wef 01/08/2017]
+
 (d) generally to give effect to the provisions of this Act.
 
 [35/2000]
@@ -782,7 +984,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [35/2000]
 
-## THE SCHEDULE
+FIRST SCHEDULE
 
 Section 2(1)
 
@@ -908,11 +1110,344 @@ in any place to which the public or any class of the public has access whether g
 
 [35/2000]
 
+[Act 28 of 2017 wef 01/08/2017]
+
+SECOND SCHEDULE
+
+Section 14(2A)
+
+Specified offences
+
+Part 1
+
+CORRUPTION, DRUG TRAFFICKING AND OTHER SERIOUS CRIMES (CONFISCATION OF BENEFITS) ACT
+
+
+
+
+(CHAPTER 65A)
+
+1.
+
+Section 43
+
+Assisting another to retain benefits of drug dealing
+
+2.
+
+Section 44
+
+Assisting another to retain benefits from criminal conduct
+
+3.
+
+Section 46
+
+Acquiring, possessing, using, concealing or transferring benefits of drug dealing
+
+4.
+
+Section 47
+
+Acquiring, possessing, using, concealing or transferring benefits of criminal conduct
+
+Part 2
+
+MISUSE OF DRUGS ACT
+
+
+
+
+(CHAPTER 185)
+
+1.
+
+Section 5
+
+Trafficking in controlled drugs
+
+2.
+
+Section 6
+
+Manufacture of controlled drugs
+
+3.
+
+Section 7
+
+Import and export of controlled drugs
+
+4.
+
+Section 8
+
+Possession and consumption of controlled drugs
+
+5.
+
+Section 8A
+
+Consumption of drug outside Singapore by citizen or permanent resident
+
+6.
+
+Section 9
+
+Possession of pipes, utensils, etc.
+
+7.
+
+Section 10
+
+Cultivation of cannabis, opium and coca plants
+
+8.
+
+Section 10A
+
+Manufacture, supply, possession, import or export of equipment, materials or substances useful for manufacture of controlled drugs
+
+9.
+
+Section 11
+
+Responsibilities of owners, tenants, etc.
+
+10.
+
+Section 11A
+
+Arranging or planning gatherings where controlled drugs are to be consumed or trafficked
+
+11.
+
+Section 12A
+
+Causing or procuring young or vulnerable person to commit certain offences
+
+12.
+
+Section 13
+
+Abetting or procuring commission of offences outside Singapore
+
+Part 3
+
+ORGANISED CRIME ACT 2015
+
+
+
+
+(ACT 26 OF 2015)
+
+1.
+
+Section 5
+
+Locally‑linked organised criminal group membership
+
+2.
+
+Section 6
+
+Recruiting members for organised criminal group
+
+3.
+
+Section 7
+
+Instructing commission of offence for organised criminal group
+
+4.
+
+Section 8
+
+Procuring expenditure or application of property to support, aid or promote certain offences related to organised criminal group
+
+5.
+
+Section 9
+
+Expending or applying property to support, aid or promote certain offences related to organised criminal group
+
+6.
+
+Section 10
+
+Allowing organised criminal group to use premises
+
+7.
+
+Section 11
+
+Receiving, retaining, etc., property of organised criminal group
+
+8.
+
+Section 12
+
+Facilitation of commission of offence by organised criminal group
+
+9.
+
+Section 13
+
+Commission of offence for organised criminal group
+
+Part 4
+
+PENAL CODE
+
+
+
+
+(CHAPTER 224)
+
+1.
+
+Section 372
+
+Selling minor for purposes of prostitution, etc.
+
+2.
+
+Section 373
+
+Buying minor for purposes of prostitution, etc.
+
+3.
+
+Section 373A
+
+Importing woman for purposes of prostitution, etc.
+
+Part 5
+
+PREVENTION OF HUMAN TRAFFICKING ACT 2014
+
+
+
+
+(ACT 45 OF 2014)
+
+1.
+
+Section 3
+
+Trafficking in persons
+
+2.
+
+Section 5
+
+Abetment of trafficking in persons
+
+3.
+
+Section 6
+
+Persons who receive payments in connection with exploitation of trafficked victims
+
+Part 6
+
+SOCIETIES ACT
+
+
+
+
+(CHAPTER 311)
+
+1.
+
+Section 14
+
+Unlawful societies
+
+2.
+
+Section 15
+
+Persons allowing unlawful assembly in their premises
+
+3.
+
+Section 16
+
+Penalty for inciting, etc., person to become member of unlawful society
+
+4.
+
+Section 17
+
+Penalty for procuring subscription or aid for unlawful society
+
+5.
+
+Section 18
+
+Publishing, etc., propaganda of unlawful society
+
+6.
+
+Section 23
+
+Society using triad ritual to be deemed unlawful society
+
+Part 7
+
+WOMEN’S CHARTER
+
+
+
+
+(CHAPTER 353)
+
+1.
+
+Section 140
+
+Offences relating to prostitution
+
+2.
+
+Section 141
+
+Traffic in women and girls
+
+3.
+
+Section 142
+
+Importation of woman or girl by false pretences
+
+4.
+
+Section 146
+
+Persons living on or trading in prostitution, etc.
+
+5.
+
+Section 147
+
+Suppression of places of assignation
+
+6.
+
+Section 148
+
+Suppression of brothels
+
+[Act 28 of 2017 wef 01/08/2017]
+
 ## LEGISLATIVE HISTORY
 
-Public Entertainments and Meetings Act
+Public Entertainments Act
 
 (CHAPTER 257)
+
+formerly known as the Public Entertainments and Meetings Act
 
 This Legislative History is provided for the convenience of users of the Public Entertainments and Meetings Act. It is not part of the Act.
 
@@ -984,9 +1519,13 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|20.|**Act 28 of 2017—Public Entertainments and Meetings (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|1 August 2017|
 ## COMPARATIVE TABLE
 
-Public Entertainments and Meetings Act
+Public Entertainments Act
 
 (CHAPTER 257)
 
