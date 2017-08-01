@@ -360,7 +360,9 @@ whether or not such device or combination of devices is erected to remain as a l
 
 (ii) the owner of the premises on which the amusement ride is installed;
 
-(iii) where the amusement ride is installed in an approved place within the meaning in section 2 of the Public Entertainments and Meetings Act (Cap. 257), and notwithstanding that the amusement ride is not a public entertainment within the meaning of that section, the holder of a licence under that Act in respect of the public entertainment that is provided at that approved place;
+(iii) where the amusement ride is installed in an approved place within the meaning in section 2 of the Public Entertainments Act (Cap. 257), and notwithstanding that the amusement ride is not a public entertainment within the meaning of that section, the holder of a licence under that Act in respect of the public entertainment that is provided at that approved place;
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (iv) the person who is allowed by virtue of section 75 to operate the amusement ride without an operating permit; or
 
@@ -2554,3 +2556,7 @@ This Legislative History is provided for the convenience of users of the Amuseme
 ||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
+|4.|**Act 28 of 2017—Public Entertainments and Meetings (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|1 August 2017|
