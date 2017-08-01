@@ -748,7 +748,9 @@ following which the Director, protector or police officer may, if he thinks nece
 
 [3/2011 wef 20/07/2011]
 
-(3) If the person convicted under subsection (2) is the holder of a licence under the Public Entertainments and Meetings Act (Cap. 257), the court may also order the cancellation of the licence or its suspension for such period as the court may think fit.
+(3) If the person convicted under subsection (2) is the holder of a licence under the Public Entertainments Act (Cap. 257), the court may also order the cancellation of the licence or its suspension for such period as the court may think fit.
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (4) In this section —
 
@@ -2999,6 +3001,10 @@ This Legislative History is provided for the convenience of users of the Childre
 |||(Bill No. 39/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|3 November 2014|
 ||Date of commencement|1 March 2015|
+|14.|**Act 28 of 2017—Public Entertainments and Meetings (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|1 August 2017|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
