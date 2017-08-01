@@ -209,7 +209,9 @@ PRELIMINARY
 
 “public place” means —
 
-(a) any premises to which members of the public or a section of the public have access as of right or by virtue of any express or implied permission, whether or not on payment of a fee and whether or not access to the premises may be restricted at particular times or for particular purposes, and whether or not it is an approved place within the meaning of the Public Entertainments and Meetings Act (Cap. 257); or
+(a) any premises to which members of the public or a section of the public have access as of right or by virtue of any express or implied permission, whether or not on payment of a fee and whether or not access to the premises may be restricted at particular times or for particular purposes, and whether or not it is an approved place within the meaning of the Public Entertainments Act (Cap. 257); or
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (b) a part of any premises that the occupier of the premises allows members of the public to enter, but only while that part is ordinarily open to members of the public;
 
