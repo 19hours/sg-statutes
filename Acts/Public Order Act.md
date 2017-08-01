@@ -196,7 +196,9 @@ and includes any assembly held in conjunction with such procession, and a march 
 
 “public place” means —
 
-(a) any place (open to the air or otherwise) to which members of the public have access as of right or by virtue of express or implied permission, whether or not on payment of a fee, whether or not access to the place may be restricted at particular times or for particular purposes, and whether or not it is an “approved place” within the meaning of the Public Entertainments and Meetings Act (Cap. 257); or
+(a) any place (open to the air or otherwise) to which members of the public have access as of right or by virtue of express or implied permission, whether or not on payment of a fee, whether or not access to the place may be restricted at particular times or for particular purposes, and whether or not it is an “approved place” within the meaning of the Public Entertainments Act (Cap. 257); or
+
+[Act 28 of 2017 wef 01/08/2017]
 
 (b) a part of a place that the occupier of the place allows members of the public to enter, but only while the place is ordinarily open to members of the public;
 
@@ -1425,6 +1427,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|13 April 2015 (Bill No. 13/2015 published on 13 April 2015)|
 ||Date of Second and Third Readings|11 May 2015|
 ||Date of commencement|1 June 2015|
+|5.|**Act 28 of 2017—Public Entertainments and Meetings (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|1 August 2017|
 ## COMPARATIVE TABLE
 
 Public Order Act
