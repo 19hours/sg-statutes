@@ -932,11 +932,21 @@ Terrorists and terrorist entities
 
 [S 472/2016 wef 30/09/2016]
 
-(zd) Mohamed Omar bin Mahadi (Singapore citizen) (Date of Birth: 12 December 1982).
+(zd) Mohamed Omar bin Mahadi (Singapore citizen) (Date of Birth: 12 December 1982);
 
 [S 472/2016 wef 30/09/2016]
 
 [S 93/2015 wef 28/02/2015]
+
+[S 446/2017 wef 14/08/2017]
+
+(ze) Syaikhah Izzah Zahrah al-Ansari (Singapore citizen) (Date of Birth: 31 December 1994);
+
+[S 446/2017 wef 14/08/2017]
+
+(zf) Muhammad Khairul Bin Mohamed (Singapore citizen) (Date of Birth: 30 August 1992).
+
+[S 446/2017 wef 14/08/2017]
 
 2. In this Schedule, unless the context otherwise requires —
 
@@ -1141,6 +1151,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|30 September 2016|
 |21.|**G.N. No. S 560/2016—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 4) Order 2016**|
 ||Date of commencement|1 November 2016|
+|22.|**G.N. No. S 446/2017—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2017**|
+||Date of commencement|14 August 2017|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
