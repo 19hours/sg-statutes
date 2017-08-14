@@ -474,7 +474,17 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “Authority” means the Land Transport Authority of Singapore established under the Land Transport Authority of Singapore Act (Cap. 158A);
 
-“bicycle” means a two-wheeled pedal cycle constructed or adapted for use as a means of conveyance;
+“bicycle” means a vehicle that —
+
+(a) has 2 wheels held one behind the other in a frame;
+
+(b) is steered by handlebars attached to the front wheel;
+
+(c) has pedals; and
+
+(d) is built to be propelled solely by human power;
+
+[Act 3 of 2017 wef 14/08/2017]
 
 “carriage of goods” includes the haulage of goods;
 
@@ -548,7 +558,13 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 [Act 25 of 2011 wef 01/01/2012]
 
-“motor vehicle” means a mechanically propelled vehicle intended or adapted for use on roads;
+“motor vehicle” means a vehicle that —
+
+(a) is propelled wholly or partly by a motor or by any means other than human or animal power; and
+
+(b) is used or intended to be used on any road;
+
+[Act 10 of 2017 wef 14/08/2017]
 
 “owner”, in relation to a vehicle which is the subject of a hiring agreement or hire purchase agreement, means the person in possession of the vehicle under that agreement;
 
@@ -559,6 +575,14 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 “parking place” has the same meaning as in the Parking Places Act (Cap. 214);
 
 “police officer” includes all persons whomsoever employed for police duties in the Singapore Police Force constituted under the Police Force Act 2004 (Act 24 of 2004);
+
+“power‑assisted bicycle” means a bicycle that —
+
+(a) is equipped with an electric motor; and
+
+(b) may be propelled by human power or by the electric motor with which it is equipped, or by both;
+
+[Act 10 of 2017 wef 14/08/2017]
 
 “public place” means any place or premises, whether privately owned or not, to which the general public or any section of the general public is permitted to have access, whether on payment or otherwise;
 
@@ -606,7 +630,15 @@ but excludes any vehicle constructed for use on fixed rails or specially prepare
 
 “trailer” means a vehicle drawn by a motor vehicle;
 
-“tricycle” means a three-wheeled pedal cycle constructed or adapted for the carriage of goods;
+“tricycle” means a vehicle with 3 wheels that —
+
+(a) has pedals;
+
+(b) is built to be propelled solely by human power by use of those pedals; and
+
+(c) is constructed or adapted for the carriage of goods only;
+
+[Act 10 of 2017 wef 14/08/2017]
 
 “use” means use on a road;
 
@@ -654,7 +686,9 @@ REGISTRATION AND LICENSING OF VEHICLES
 
 (ii) in any other case does not exceed 2,500 kilograms;
 
-(f) motor cycles; that is to say, motor vehicles with less than 4 wheels and the weight of which unladen does not exceed 400 kilograms;
+(f) motor cycles and power‑assisted bicycles; that is to say, motor vehicles with less than 4 wheels and the weight of which unladen does not exceed 400 kilograms;
+
+[Act 3 of 2017 wef 14/08/2017]
 
 (g) invalid carriages; that is to say, motor vehicles which are specially designed and constructed and not merely adapted for the use of persons suffering from some physical defect or disability and are used solely by such persons and the weight of which unladen does not exceed 250 kilograms.
 
@@ -6592,6 +6626,15 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 5/2017)|
 ||Date of Second and Third Readings|7 February 2017|
 ||Date of commencement|20 July 2017|
+|75.|**Act 10 of 2017—Road Traffic (Amendment) Act 2017**|
+||Date of First Reading|10 January 2017 (Bill No. 5/2017 published on 10 January 2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|14 August 2017|
+|76.|**Act 3 of 2017—Active Mobility Act 2017**|
+||Date of First Reading|9 November 2016|
+|||(Bill No. 40/2016 published on 9 November 2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|14 August 2017|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
