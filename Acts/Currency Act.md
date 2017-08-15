@@ -42,7 +42,7 @@
 
 - [15 Exchange of currency notes and coins](#Exchange-of-currency-notes-and-coins)
 
-- [16 Power to buy and sell currency notes and coins](#Power-to-buy-and-sell-currency-notes-and-coins)
+- [16 (Repealed)](#Repealed)
 
 - [17 Form and design of currency notes and coins](#Form-and-design-of-currency-notes-and-coins)
 
@@ -52,9 +52,9 @@
 
 - [20 Restriction on use of photographs, drawing or design of currency notes and coins in advertisements, etc.](#Restriction-on-use-of-photographs-drawing-or-design-of-currency-notes-and-coins-in-advertisements-etc)
 
-- [21 Currency Fund](#Currency-Fund)
+- [21 Dissolution of Currency Fund](#Dissolution-of-Currency-Fund)
 
-- [22 External assets of Currency Fund](#External-assets-of-Currency-Fund)
+- [22 Authority’s assets must not be less than currency in circulation](#Authority’s-assets-must-not-be-less-than-currency-in-circulation)
 
 [**Part IV MISCELLANEOUS**](#Part-IV)
 
@@ -106,9 +106,9 @@ PRELIMINARY
 
 “currency” means currency notes and coins which are legal tender in Singapore;
 
-“foreign” means pertaining to a country other than Singapore;
+[Deleted by Act 31 of 2017 wef 15/08/2017]
 
-“foreign exchange” means foreign currencies and claims in and to foreign currencies;
+[Deleted by Act 31 of 2017 wef 15/08/2017]
 
 “issue” includes reissue.
 
@@ -322,15 +322,7 @@ CURRENCY
 
 [11/82; 3/91; 25/2002]
 
-### Power to buy and sell currency notes and coins
-
-16\.—(1) The Authority may, in its discretion, buy and sell currency notes and coins against gold, silver or foreign currencies eligible for inclusion in the reserve of the external assets specified under section 22.
-
-[11/82; 25/2002]
-
-(2) The Authority shall be entitled to charge a commission at such rate or rates as may, from time to time, be determined for any currency notes or coins bought or sold by the Authority under this section.
-
-[11/82; 25/2002]
+16\. [Repealed by Act 31 of 2017 wef 15/08/2017]
 
 ### Form and design of currency notes and coins
 
@@ -404,91 +396,19 @@ CURRENCY
 
 [11/82]
 
-### Currency Fund
+### Dissolution of Currency Fund
 
-21\.—(1) The Authority shall establish a Currency Fund which shall be maintained and managed by the Authority in the manner prescribed in this Act.
+21\. The Currency Fund established under section 21 in force immediately before the date of commencement of section 6 of the Monetary Authority of Singapore (Amendment) Act 2017, is dissolved on the date of the completion of the transfer of all of its assets and liabilities to the accounts holding the Authority’s assets and liabilities, as set out in the notification mentioned in section 6A(2) of the Monetary Authority of Singapore Act (Cap. 186).
 
-[11/82; 3/91; 25/2002]
+[Act 31 of 2017 wef 15/08/2017]
 
-(2) There shall be paid into the Currency Fund —
+### Authority’s assets must not be less than currency in circulation
 
-(a) all gold, silver and foreign currencies bought by the Authority under section 16; and
+22\.—(1) The gross assets of the Authority must at all times be not less than 100% of the face value of the Authority’s currency in circulation.
 
-(b) the proceeds of any transactions under subsection (6)(b), less all expenses incurred in connection therewith.
+(2) If, at any time, the face value of the Authority’s currency in circulation exceeds the gross assets of the Authority, the amount of the deficiency is to be charged on and paid out of the Consolidated Fund.
 
-[11/82]
-
-(3) The Authority may charge on the Currency Fund any expense properly incurred by or on behalf of the Authority in connection with the execution of its functions under this Act, including expenses relating to —
-
-(a) the investment of the Currency Fund;
-
-(b) the issue and demonetisation of currency notes and coins and the transaction of any business relating to such currency; and
-
-(c) the protection of currency notes and coins against forgery or counterfeiting.
-
-[25/2002]
-
-(4) Subject to this Act, the Currency Fund shall not be applied for any other purpose.
-
-[11/82; 3/91]
-
-(5) The Authority shall maintain adequate liquidity in the Currency Fund to meet all demands under normal market conditions.
-
-[47/98]
-
-(6) Notwithstanding anything in subsections (1) to (4), the Authority may —
-
-(a) use any coin held for the account of the Currency Fund for the purpose of having it reminted into current coin; and
-
-(b) sell any coin held for the account of the Currency Fund.
-
-[3/91; 47/98; 25/2002]
-
-(7) The value of the Currency Fund and its assets for any purpose of this Act shall be determined by such method as the Authority may from time to time adopt.
-
-[11/82; 3/91; 25/2002]
-
-(8) If at any time the value of the Currency Fund determined by the Authority under subsection (7) exceeds 100% of the face value of the Authority’s currency notes and coins then in circulation, the Authority may direct that the whole or part of such excess be transferred from the Currency Fund to the other funds of the Authority.
-
-[25/2002]
-
-(9) If at any time the face value of the Authority’s currency notes and coins in circulation exceeds the value of the Currency Fund, the deficiency shall be made up from the other funds of the Authority and, if such funds are insufficient, the balance of the deficiency shall be charged on and paid out of the Consolidated Fund.
-
-[25/2002]
-
-(10) In preparing the financial statements relating to the Currency Fund, the Authority may comply with accounting standards to the extent that it is, in the opinion of the Authority, appropriate to do so, having regard to the objects and functions of the Authority under this Act or the Monetary Authority of Singapore Act (Cap. 186).
-
-[24/2003 wef 01/01/2004]
-
-### External assets of Currency Fund
-
-22\. The external assets of the Currency Fund shall consist of all or any of the following and shall at all times be not less than 100% of the face value of the currency issued by the Authority:
-
-(a) gold and silver in any form;
-
-(b) foreign exchange in the form of —
-
-(i) demand or time deposits;
-
-(ii) bank balances and money at call;
-
-(iii) Treasury Bills;
-
-(iv) notes or coins;
-
-(c) securities of or guaranteed by foreign governments or international financial institutions;
-
-(d) equities;
-
-(e) corporate bonds;
-
-(f) currency and financial futures;
-
-(g) such other assets, financial instruments and investments as may be approved by the board of directors of the Authority.
-
-[13/2007 wef 30/06/2007]
-
-[11/82; 3/91; 47/98; 25/2002]
+[Act 31 of 2017 wef 15/08/2017]
 
 ## PART IV
 
@@ -685,6 +605,10 @@ This Legislative History is provided for the convenience of users of the Currenc
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|21.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|15 August 2017|
 ## COMPARATIVE TABLE
 
 Currency Act
