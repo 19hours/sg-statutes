@@ -22,6 +22,8 @@
 
 - [6 General Reserve Fund](#General-Reserve-Fund)
 
+- [6A Transfer of Currency Fund to Authority’s accounts](#Transfer-of-Currency-Fund-to-Authority’s-accounts)
+
 - [7 Board of directors](#Board-of-directors)
 
 - [8 Appointment of directors](#Appointment-of-directors)
@@ -61,6 +63,8 @@
 - [21 (Repealed)](#Repealed)
 
 - [22 Immunity of Authority, directors and employees, etc.](#Immunity-of-Authority-directors-and-employees-etc)
+
+- [22A Indemnity for Authority’s officers against cost of action to which section 22 applies](#Indemnity-for-Authority’s-officers-against-cost-of-action-to-which-section-22-applies)
 
 [**Part IV POWERS, DUTIES AND FUNCTIONS OF AUTHORITY**](#Part-IV)
 
@@ -410,7 +414,21 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 (3) All deeds, documents and other instruments requiring the seal of the Authority shall be sealed with the common seal of the Authority, by the authority of the Authority, in the presence of the managing director and of some other person duly authorised by the Authority to act in that behalf and shall be signed by the managing director and by such duly authorised person.
 
-(4) Such signing shall be sufficient evidence that the common seal of the Authority has been duly and properly affixed and that the seal is the lawful common seal of the Authority.
+(3A) The managing director may, subject to such terms and conditions as the managing director thinks fit, appoint an officer of the Authority who holds the appointment of deputy managing director or its equivalent, to exercise the power and perform the duty of the managing director under subsection (3), and that officer must exercise that power and perform that duty under the direction and control of the managing director.
+
+[Act 31 of 2017 wef 15/08/2017]
+
+(3B) To avoid doubt, the managing director —
+
+(a) remains responsible for the exercise of the power, and the performance of the duty, by the deputy managing director (or equivalent) delegated under subsection (3A); and
+
+(b) may continue to exercise the power and perform the duty, despite the delegation under subsection (3A).
+
+[Act 31 of 2017 wef 15/08/2017]
+
+(4) Such signing by the managing director or officer appointed by the managing director under subsection (3A) shall be sufficient evidence that the common seal of the Authority has been duly and properly affixed and that the seal is the lawful common seal of the Authority.
+
+[Act 31 of 2017 wef 15/08/2017]
 
 (5) The Authority may, by resolution or otherwise, appoint an officer of the Authority or any other agent either generally or in a particular case to execute or sign on behalf of the Authority any agreement or other instrument not under seal in relation to any matter coming within the powers of the Authority.
 
@@ -429,6 +447,10 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 (d) to grow Singapore as an internationally competitive financial centre.
 
 [13/2007 wef 30/06/2007]
+
+(1A) The Authority, when giving effect to its objects under subsection (1), is to act on the basis that the object in paragraph (b) prevails over the object in paragraph (d) of that subsection.
+
+[Act 31 of 2017 wef 15/08/2017]
 
 (2) The functions of the Authority shall be —
 
@@ -450,11 +472,17 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 5\.—(1) The paid-up capital of the Authority shall be $100 million.
 
-(2) The paid-up capital may be increased from time to time by such amount as the Government may approve.
+(2) The paid-up capital may be revised from time to time by such amount as the Government and the board may agree.
 
-(3) The payment of such increase in the paid-up capital may be made by way of transfers from the General Reserve Fund or by such other means as the Government, in consultation with the board, may from time to time approve.
+[Act 31 of 2017 wef 15/08/2017]
 
-[21/2005 wef 30/01/2006]
+(3) For the purpose of subsection (2), the board must consider the Authority’s capital and reserves necessary for the Authority to carry out its principal objects and functions.
+
+[Act 31 of 2017 wef 15/08/2017]
+
+(4) Any reduction of or increase in the paid-up capital may be effected by way of transfers to or from the General Reserve Fund, or by such other means as the Government and the board may from time to time agree.
+
+[Act 31 of 2017 wef 15/08/2017]
 
 ### General Reserve Fund
 
@@ -472,11 +500,21 @@ ESTABLISHMENT, CAPITAL AND ADMINISTRATION OF AUTHORITY
 
 [24/2003 wef 01/01/2004]
 
-(4) Where at the end of a year the General Reserve Fund is —
+(4) Where the General Reserve Fund is in deficit at the end of a financial year —
 
-(a) less than half the paid-up capital of the Authority, the whole of the net profit shall be credited to the General Reserve Fund; and
+(a) if the Authority’s net profit for that financial year is larger than the deficit, an amount of not less than the net profit necessary to offset the deficit, as determined by the Authority, must be credited to the General Reserve Fund; and
 
-(b) not less than half the paid-up capital of the Authority but less than twice the paid-up capital of the Authority, not less than 30% of the net profit shall be credited to the General Reserve Fund.
+(b) if the Authority’s net profit for that financial year is smaller than or equal to the deficit, the whole of the net profit must be credited to the General Reserve Fund.
+
+[Act 31 of 2017 wef 15/08/2017]
+
+### Transfer of Currency Fund to Authority’s accounts
+
+6A\.—(1) For the purposes of section 21 of the Currency Act (Cap. 69), the Authority must, starting from the date of commencement of section 6 of the Monetary Authority of Singapore (Amendment) Act 2017, commence transferring all of the assets (including external assets) and liabilities of the Currency Fund established under section 21(1) of the Currency Act as in force immediately before that date, to such of the accounts holding the Authority’s assets and liabilities as the Authority may determine.
+
+(2) Upon the completion of the transfer mentioned in subsection (1), the Authority must publish a notification in theGazetteof the completion and the date of the completion.
+
+[Act 31 of 2017 wef 15/08/2017]
 
 ### Board of directors
 
@@ -729,6 +767,14 @@ for anything done (including any statement made) or omitted to be done in good f
 (iii) the compliance or purported compliance with this Act or any other written law.
 
 [24/2003 wef 01/01/2004]
+
+### Indemnity for Authority’s officers against cost of action to which section 22 applies
+
+22A\.—(1) The Authority must indemnify a person mentioned in subsection (2) against all costs and expenses reasonably incurred by the person in connection with any action, suit or other legal proceedings to which the person is a party by reason of anything done (including any statement made) or omitted to be done in good faith in the course of or in connection with any of the matters mentioned in section 22(i), (ii) or (iii).
+
+(2) Subsection (1) applies to a person who was a person mentioned in section 22(b), (d) or (e) at the time of the alleged act or omission giving rise to the action, suit or proceeding.
+
+[Act 31 of 2017 wef 15/08/2017]
 
 ## PART IV
 
@@ -4482,6 +4528,10 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of First Reading|13 April 2015 (Bill No. 11/2015 published on 13 April 2015)|
 ||Date of Second and Third Readings|11 May 2015|
 ||Date of commencement|26 June 2015|
+|32.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|15 August 2017|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
