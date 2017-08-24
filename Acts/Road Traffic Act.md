@@ -24,6 +24,12 @@
 
 - [6B Leaving Singapore in motor vehicle with altered fuel‑measuring equipment](#Leaving-Singapore-in-motor-vehicle-with-altered-fuel‑measuring-equipment)
 
+- [6C Trials and use of autonomous motor vehicles, etc.](#Trials-and-use-of-autonomous-motor-vehicles-etc)
+
+- [6D Exemptions and modified application of laws to approved trials and special uses](#Exemptions-and-modified-application-of-laws-to-approved-trials-and-special-uses)
+
+- [6E Interfering with autonomous motor vehicle trial, etc.](#Interfering-with-autonomous-motor-vehicle-trial-etc)
+
 - [7 Savings](#Savings)
 
 - [8 Definition of licence](#Definition-of-licence)
@@ -474,6 +480,22 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “Authority” means the Land Transport Authority of Singapore established under the Land Transport Authority of Singapore Act (Cap. 158A);
 
+“automated vehicle technology” means any particular technology that —
+
+(a) relates to the design, construction or use of autonomous motor vehicles; or
+
+(b) otherwise relates to advances in the design or construction of autonomous motor vehicles;
+
+[Act 10 of 2017 wef 24/08/2017]
+
+“autonomous motor vehicle” means a motor vehicle equipped wholly or substantially with an autonomous system (also commonly known as a driverless vehicle), and includes a trailer drawn by such a motor vehicle;
+
+[Act 10 of 2017 wef 24/08/2017]
+
+“autonomous system”, for a motor vehicle, means a system that enables the operation of the motor vehicle without the active physical control of, or monitoring by, a human operator;
+
+[Act 10 of 2017 wef 24/08/2017]
+
 “bicycle” means a vehicle that —
 
 (a) has 2 wheels held one behind the other in a frame;
@@ -573,6 +595,14 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 “park” means to bring a motor vehicle or a trailer to a stationary position and cause it to wait for any purpose other than that of immediately taking up or setting down persons, goods or luggage;
 
 “parking place” has the same meaning as in the Parking Places Act (Cap. 214);
+
+“participate”, in relation to an autonomous motor vehicle trial regulated under section 6C, means —
+
+(a) undertake the trial; or
+
+(b) operate an autonomous motor vehicle in the trial;
+
+[Act 10 of 2017 wef 24/08/2017]
 
 “police officer” includes all persons whomsoever employed for police duties in the Singapore Police Force constituted under the Police Force Act 2004 (Act 24 of 2004);
 
@@ -719,6 +749,10 @@ REGISTRATION AND LICENSING OF VEHICLES
 (3) The Authority may at any time revoke, vary or amend a notification made under this section.
 
 [28/95]
+
+(3A) Subsections (2) and (3) do not apply to or in relation to the use of wholly or substantially autonomous motor vehicles operated with automated vehicle technology.
+
+[Act 10 of 2017 wef 24/08/2017]
 
 (4) Subject to this section, it shall not be lawful to sell or to supply or to offer to sell or supply a vehicle or trailer for delivery in such a condition that the use thereof in that condition would be unlawful by virtue of this section.
 
@@ -919,6 +953,128 @@ and to regulate or prohibit the use of any such appliance and to secure that the
 (ii) would make the fuel‑measuring equipment false or unjust in measuring or indicating the quantity of motor fuel in any fuel supply tank of the motor vehicle.
 
 [Act 23 of 2013 wef 01/01/2014]
+
+### Trials and use of autonomous motor vehicles, etc.
+
+6C\.—(1) The Minister may make rules to —
+
+(a) provide for the regulation by the Authority of —
+
+(i) the undertaking of any trial of automated vehicle technology or an autonomous motor vehicle on any road (called in this section and sections 6D and 6E an approved trial), despite section 5; or
+
+(ii) the use on a road of an autonomous motor vehicle (called in this section and sections 6D and 6E an approved special use), despite section 5;
+
+(b) require the person authorised under the rules to undertake the approved trial or carry out the approved special use (called in this section and sections 6D and 6E the specified person) —
+
+(i) to have in place liability insurance before the approved trial or approved special use starts, and to ensure that it is in force at all times during the period of the approved trial or approved special use; or
+
+(ii) to deposit with the Authority a security of a type, and of an amount not lower than an amount, prescribed in those rules;
+
+(c) require the specified person to cause to be published (at the person’s cost), before the approved trial or approved special use starts, a notice about the approved trial or approved special use, in a manner as will secure adequate publicity for the approved trial or approved special use, including —
+
+(i) the area or areas of Singapore in which the trial or special use is approved to be undertaken or carried out;
+
+(ii) the period during which the trial or special use is approved to take place; and
+
+(iii) the name of each person participating in the approved trial or who may carry out the approved special use;
+
+(d) provide for grant of an authorisation by the Authority to the specified person to undertake an approved trial or carry out an approved special use to be subject to conditions, and for the modification of those conditions by the Authority from time to time after affording the specified person concerned a reasonable opportunity to be heard;
+
+(e) limit the period that an approved trial or approved special use may be undertaken or carried out;
+
+(f) prescribe the weather and any climatic or other circumstances when an approved trial or approved special use may or may not be undertaken or carried out, as the case may be;
+
+(g) prescribe the construction, design or use of infrastructure technology, equipment or devices in relation to the autonomous motor vehicle or automated vehicle technology involved in the approved trial or approved special use, including requiring that the vehicle —
+
+(i) be equipped to capture and store sensor data and video footage from the vehicle; and
+
+(ii) have a failure alert system that allows a specified person or participant in the approved trial or approved special use to take immediate manual control of the vehicle when a failure of the autonomous system or other emergency is detected;
+
+(h) prescribe the use of the autonomous motor vehicles in the approved trial or approved special use, and their construction, design and equipment, for the safety of other road users or for public safety or both;
+
+(i) require the keeping of records by the specified person, and the giving of information to the Authority or any other person designated by the Authority (such as sensor data and video footage from the autonomous motor vehicle) about the approved trial or approved special use undertaken or carried out, including the automated vehicle technology involved in the trial or special use;
+
+(j) provide the grounds under which any authorisation granted under the rules to undertake an approved trial or carry out an approved special use may be cancelled in whole or part, or suspended in whole or part, after affording the specified person concerned a reasonable opportunity to be heard unless it is not practicable or desirable to do so in the circumstances of the case, including if —
+
+(i) the Authority is of the opinion that it is no longer in the public interest for the approved trial or approved special use to continue; or
+
+(ii) the specified person authorised to undertake the approved trial or carry out the approved special use contravenes or has contravened, or fails or has failed to comply with, a condition of its authorisation, a condition of an exemption contained in the rules or any other provision in the rules;
+
+(k) provide for a right to appeal to the Minister (whose decision on appeal is final) against any decision made by the Authority under the rules cancelling or suspending any authorisation granted under the rules to undertake an approved trial or carry out an approved special use, and the procedure for such appeals;
+
+(l) prescribe the fees (either by specifying amounts or by prescribing a method of calculation) in relation to applications or requests to, or the doing of anything by, the Authority under the rules made under this section;
+
+(m) provide that any contravention of any provision of the rules made under this section shall be an offence punishable with a fine not exceeding $10,000; and
+
+(n) prescribe such saving and transitional provisions as may be necessary or expedient.
+
+(2) In making any rules under this section for an approved trial or approved special use, the Minister must take reasonable steps to prevent information —
+
+(a) that is commercially sensitive in nature; and
+
+(b) that is the subject of a request to the Minister by a person connected with the approved trial or approved special use, or the proposed approved trial or proposed approved special use, for the information to be kept confidential,
+
+from being published or otherwise made public under this Part.
+
+(3) This section and all rules made under this section continue in force for a period of 5 years starting on the date of commencement of section 6 of the Road Traffic (Amendment) Act 2017.
+
+(4) The Minister may at any time before the end of the period mentioned in subsection (3), revoke or amend any rules made under this section and without affording anyone prior opportunity to be heard.
+
+(5) All rules made under this section are to be presented to Parliament as soon as possible after publication in theGazette.
+
+(6) In this section, “liability insurance”, in relation to an approved trial or approved special use, means a policy of insurance indemnifying the owner and any authorised driver or operator of a vehicle or trailer used in that trial or special use —
+
+(a) in relation to death or bodily injury caused by, or arising out of, the use of the vehicle or trailer on a road; and
+
+(b) in relation to damage to property caused by, or arising out of, the use of the vehicle or trailer on a road.
+
+[Act 10 of 2017 wef 24/08/2017]
+
+### Exemptions and modified application of laws to approved trials and special uses
+
+6D\.—(1) Rules made under section 6C for an approved trial or an approved special use may, for the purpose of that trial or special use —
+
+(a) exempt (with or without conditions) from the application of section 5 or other specified provisions of this Act or its subsidiary legislation, or any other written law, any of the following:
+
+(i) the specified person authorised to undertake the approved trial or carry out the approved special use;
+
+(ii) any other person or class of persons participating in the approved trial or carrying out the approved special use;
+
+(iii) any vehicle or trailer used in the approved trial or approved special use; and
+
+(b) provide for the application of specified provisions of this Act or its subsidiary legislation, or any other written law, affecting —
+
+(i) the specified person authorised to undertake the approved trial or carry out the approved special use;
+
+(ii) any other person or class of persons participating in the approved trial or carrying out the approved special use; or
+
+(iii) any vehicle or trailer used in the approved trial or approved special use,
+
+with prescribed exceptions, modifications and adaptations.
+
+(2) Where a provision of this Act or its subsidiary legislation mentioned in subsection (1)(a) or (b) is not a law which the Minister is charged with the responsibility for, the Minister must consult with the Minister charged with the responsibility for law and order before granting the exemption or modifying the provision, as the case may be.
+
+(3) If a person contravenes or fails to comply with a condition of an exemption contained in any rules made under section 6C, the exemption does not, while the contravention or non‑compliance continues, operate in that person’s favour.
+
+(4) If, by virtue of subsection (3), a person is guilty of an offence under a provision of this Act or its subsidiary legislation from which the person was exempted by an exemption, the person may be proceeded against for that offence.
+
+[Act 10 of 2017 wef 24/08/2017]
+
+### Interfering with autonomous motor vehicle trial, etc.
+
+6E\.—(1) A person who, without reasonable excuse —
+
+(a) hinders or obstructs an approved trial or the carrying out of an approved special use; or
+
+(b) interferes with any equipment or device in or on an autonomous motor vehicle, or relating to any automated vehicle technology, used in an approved trial or approved special use,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(2) In proceedings for an offence under subsection (1), it is a defence for the defendant to prove, on a balance of probabilities, that the defendant did not know, and could not reasonably have known, that the activity that caused the hindrance, obstruction or interference would cause the hindrance, obstruction or interference, as the case may be.
+
+(3) To avoid doubt, this section does not affect the operation of the Computer Misuse and Cybersecurity Act (Cap. 50A).
+
+[Act 10 of 2017 wef 24/08/2017]
 
 ### Savings
 
@@ -1698,7 +1854,9 @@ issue a general licence to the applicant either unconditionally or subject to su
 
 ### Special purpose licences
 
-28A\.—(1) Any person intending to keep or use any vehicle for purposes of research and development or for any other special purpose may apply to the Registrar for a licence (referred to in this Part as a special purpose licence) allowing him to keep or use such vehicle on a road.
+28A\.—(1) Any person intending to keep or use any vehicle for purposes of research and development or for any other special purpose (but not an approved trial or approved special use within the meaning of section 6C) may apply to the Registrar for a licence (referred to in this Part as a special purpose licence) allowing him to keep or use such vehicle on a road.
+
+[Act 10 of 2017 wef 24/08/2017]
 
 [28/2001]
 
@@ -1731,6 +1889,24 @@ issue a general licence to the applicant either unconditionally or subject to su
 (6) A special purpose licence issued to any person under this section shall not be transferable to any other person and the holder of any such special purpose licence who transfers or attempts to transfer his licence to any other person shall be guilty of an offence.
 
 [28/2001]
+
+(7) A person to whom a special purpose licence is issued under this section must, within one month after the licence is cancelled under subsection (4) or lapses, or such longer period as the Registrar may allow in any particular case, do one of the following in relation to the vehicle in respect of which the special purpose licence was issued:
+
+(a) register the vehicle;
+
+(b) remove the vehicle from use on all roads in Singapore and produce proof of that to the satisfaction of the Registrar;
+
+(c) destroy or export the vehicle and produce proof of that to the satisfaction of the Registrar.
+
+[Act 10 of 2017 wef 24/08/2017]
+
+(8) A person who fails to comply with subsection (7) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months; and
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months.
+
+[Act 10 of 2017 wef 24/08/2017]
 
 ### Offences in connection with registration and licensing of vehicles
 
@@ -6635,6 +6811,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 40/2016 published on 9 November 2016)|
 ||Date of Second and Third Readings|10 January 2017|
 ||Date of commencement|14 August 2017|
+|77.|**Act 10 of 2017—Road Traffic (Amendment) Act 2017**|
+||Date of First Reading|10 January 2017|
+|||(Bill No. 5/2017 published on 10 January 2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|24 August 2017|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
