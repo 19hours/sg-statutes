@@ -1079,6 +1079,19 @@ WITH EFFECT FROM 10 NOVEMBER 2015
 
 [S 652/2015 wef 10/11/2015]
 
+Part VII
+
+ACTIONS WHICH ALSO CONSTITUTE TERRORIST ACTS
+
+
+
+
+WITH EFFECT FROM 1 SEPTEMBER 2017
+
+Any act or omission constituting an offence under section 4, 5, 6(1), 7(1), 8, 9 or 10 of the Terrorism (Suppression of Misuse of Radioactive Material) Act 2017 (Act 27 of 2017).
+
+[S 485/2017 wef 01/09/2017]
+
 ## LEGISLATIVE HISTORY
 
 Terrorism (Suppression of Financing) Act
@@ -1153,6 +1166,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|1 November 2016|
 |22.|**G.N. No. S 446/2017—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2017**|
 ||Date of commencement|14 August 2017|
+|23.|**G.N. No. S 485/2017—Terrorism (Suppression of Financing) Act (Amendment of Second Schedule) Order 2017**|
+||Date of commencement|1 September 2017|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
