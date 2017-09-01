@@ -994,6 +994,12 @@ The recruitment, transport, transfer, harbouring or receipt, for the purpose of 
 
 [S 612/2015 wef 28/10/2015]
 
+32. 
+
+An offence against the law giving effect to the International Convention for the Suppression of Acts of Nuclear Terrorism done in New York on 13 April 2005.
+
+[S 488/2017 wef 01/09/2017]
+
 Part II
 
 Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in Part I.
@@ -1350,6 +1356,8 @@ This Legislative History is provided for the convenience of users of the Extradi
 ||Date of commencement|1 July 2014|
 |16.|**G.N. No. S 612/2015—Extradition Act (Amendment of First Schedule) Notification 2015**|
 ||Date of commencement|28 October 2015|
+|17.|**G.N. No. S 488/2017—Extradition Act (Amendment of First Schedule) Notification 2017**|
+||Date of commencement|1 September 2017|
 ## COMPARATIVE TABLE
 
 Extradition Act
