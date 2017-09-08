@@ -16,9 +16,11 @@
 
 - [3 Prohibition of discharge of oil or oily mixtures from land or apparatus](#Prohibition-of-discharge-of-oil-or-oily-mixtures-from-land-or-apparatus)
 
-- [4 Special defences](#Special-defences)
+- [4 Special defences to section 3](#Special-defences-to-section-3)
 
 - [5 Person throwing pollutants into Singapore waters](#Person-throwing-pollutants-into-Singapore-waters)
+
+- [5A Prohibition of discharge of sediments from land or apparatus](#Prohibition-of-discharge-of-sediments-from-land-or-apparatus)
 
 [**Part III PREVENTION OF POLLUTION FROM SHIPS**](#Part-III)
 
@@ -32,6 +34,10 @@
 
 - [10 Prohibition of discharge of noxious liquid substances from ships](#Prohibition-of-discharge-of-noxious-liquid-substances-from-ships)
 
+- [10A Prohibition of discharge of ballast water and sediments from ships](#Prohibition-of-discharge-of-ballast-water-and-sediments-from-ships)
+
+- [10B Special defences to section 10A](#Special-defences-to-section-10A)
+
 [**Part IV PREVENTIVE MEASURES AGAINST POLLUTION OF THE SEA**](#Part-IV)
 
 - [11 Reception facilities](#Reception-facilities)
@@ -40,11 +46,13 @@
 
 - [13 Regulations requiring the keeping of cargo record books](#Regulations-requiring-the-keeping-of-cargo-record-books)
 
+- [13A Regulations requiring keeping of ballast water record books](#Regulations-requiring-keeping-of-ballast-water-record-books)
+
 - [14 Failure to carry record books and evidence](#Failure-to-carry-record-books-and-evidence)
 
 - [15 Duty to report discharges of harmful substances from ships](#Duty-to-report-discharges-of-harmful-substances-from-ships)
 
-- [16 Duty to report discharges of oil, oily mixture and substances from land or apparatus](#Duty-to-report-discharges-of-oil-oily-mixture-and-substances-from-land-or-apparatus)
+- [16 Duty to report discharge of oil, etc., from land or apparatus](#Duty-to-report-discharge-of-oil-etc-from-land-or-apparatus)
 
 [**Part V RECOVERY OF COSTS**](#Part-V)
 
@@ -104,7 +112,9 @@ REVISED EDITION 1999
 
 (30th December 1999)
 
-An Act to give effect to the International Convention for the Prevention of Pollution from Ships 1973 as modified and added to by the Protocol of 1978, and to other international agreements relating to the prevention, reduction and control of pollution of the sea and pollution from ships; to make provisions generally for the protection of the marine environment and for the prevention, reduction and control of pollution of the sea and pollution from ships, and for matters related thereto.
+An Act to give effect to the International Convention for the Prevention of Pollution from Ships 1973 as modified and added to by the Protocol of 1978, the International Convention for the Control and Management of Ships’ Ballast Water and Sediments 2004, and to other international agreements relating to the protection of the marine environment and to the prevention, reduction and control of pollution of the sea and pollution from ships; to make provisions generally for the protection of the marine environment and for the prevention, reduction and control of pollution of the sea and pollution from ships, and for matters related thereto.
+
+[Act 26 of 2017 wef 08/09/2017]
 
 [1st February 1991]
 
@@ -124,6 +134,32 @@ PRELIMINARY
 
 “Authority” means the Maritime and Port Authority of Singapore established under the Maritime and Port Authority of Singapore Act;
 
+“ballast tank” means any tank, hold or space used for the carriage of ballast water;
+
+[Act 26 of 2017 wef 08/09/2017]
+
+“ballast water” means water with its suspended matter taken on board a ship to control trim, list, draught, stability or stresses of the ship;
+
+[Act 26 of 2017 wef 08/09/2017]
+
+“ballast water management” means mechanical, physical, chemical, and biological processes, either singularly or in combination, to remove, render harmless, or avoid the uptake or discharge of harmful aquatic organisms and pathogens within ballast water and sediments;
+
+[Act 26 of 2017 wef 08/09/2017]
+
+“Ballast Water Management Convention” means the International Convention for the Control and Management of Ships’ Ballast Water and Sediments 2004;
+
+[Act 26 of 2017 wef 08/09/2017]
+
+“ballast water management system” —
+
+(a) means any system which processes ballast water such that it meets or exceeds the ballast water performance standard in the Ballast Water Management Convention; and
+
+(b) includes ballast water treatment equipment, all associated control equipment, piping arrangements specified by the manufacturer of the ballast water management system as forming part of the ballast water management system, control and monitoring equipment and sampling facilities; but
+
+(c) does not include any of the ship’s ballast water fittings, such as piping, valves and pumps, that would be required to be fitted even if the ballast water management system was not fitted;
+
+[Act 26 of 2017 wef 08/09/2017]
+
 “Convention” means the Convention of 1973 as modified and added to by the Protocol of 1978;
 
 “Convention of 1973” means the International Convention for the Prevention of Pollution from Ships (including its protocols, annexes and appendices) which constitutes attachment 1 to the final act of the International Conference on Marine Pollution signed in London on 2nd November 1973;
@@ -137,6 +173,10 @@ PRELIMINARY
 (b) release of harmful substances for purposes of legitimate scientific research into pollution abatement or control;
 
 “garbage” means all kinds of victual, domestic and operational waste excluding fresh fish and parts thereof, generated during the normal operation of the ship and liable to be disposed of continuously or periodically except sewage originating from ships;
+
+“harmful aquatic organisms and pathogens” means aquatic organisms or pathogens which, if introduced into the sea including estuaries, or into fresh water courses, may create hazards to the environment, human health, property or resources, impair biological diversity or interfere with other legitimate uses of such areas;
+
+[Act 26 of 2017 wef 08/09/2017]
 
 “harmful substance” means any substance which, if introduced into the sea, is liable to create hazards to human health, to harm living resources and marine life, to damage amenities or to interfere with other legitimate uses of the sea, and includes any substance subject to control under this Act;
 
@@ -180,7 +220,17 @@ PRELIMINARY
 
 “Protocol of 1978” means the Protocol relating to the Convention of 1973 which constitutes attachment 2 to the final act of the International Conference on Tanker Safety and Pollution Prevention signed in London on 17th February 1978;
 
-“reception facilities” means facilities which enable ships to discharge or deposit residues and mixtures, which residues and mixtures contain oil or noxious liquid substances;
+“reception facilities” means facilities which enable ships to —
+
+(a) discharge or deposit residues and mixtures, which residues and mixtures contain oil or noxious liquid substances; or
+
+(b) discharge sediments;
+
+[Act 26 of 2017 wef 08/09/2017]
+
+“sediments” means matter settled out of ballast water within a ship;
+
+[Act 26 of 2017 wef 08/09/2017]
 
 “ship” means a vessel of any type operating in the marine environment and includes hydrofoil boats, air cushion vehicles, submersibles, floating craft and fixed or floating platforms;
 
@@ -196,7 +246,13 @@ PRELIMINARY
 
 “tank” means an enclosed space which is formed by the permanent structure of a ship and which is designed for the carriage of liquid in bulk;
 
-“terminal” means any terminal, (including an oil terminal), jetty, pier or mono-buoy, and a yard or drydock (including the precincts thereof) in which vessels are constructed, reconstructed, repaired, refitted, finished or broken up;
+“terminal” means any terminal (including an oil terminal), jetty, pier or mono-buoy and a yard or drydock (including the precincts of the terminal) in which —
+
+(a) vessels are constructed, reconstructed, repaired, refitted, finished or broken up; or
+
+(b) ballast tanks of vessels are cleaned or repaired;
+
+[Act 26 of 2017 wef 08/09/2017]
 
 “terminal operator” means a person or body of persons having the management of a terminal in Singapore;
 
@@ -204,13 +260,23 @@ PRELIMINARY
 
 [7/96; 8/99]
 
-(2) For the purpose of any provision of this Act relating to the discharge of oil, oily mixture, refuse, garbage, waste matter, plastics, marine pollutant in packaged form, noxious liquid substance or trade effluent from a ship, any floating craft other than a ship which is attached to a ship shall be treated as part of the ship.
+(2) For the purpose of any provision of this Act relating to the discharge of oil, oily mixture, refuse, garbage, waste matter, plastics, marine pollutant in packaged form, noxious liquid substance, trade effluent, ballast water or sediments from a ship, any floating craft other than a ship which is attached to a ship shall be treated as part of the ship.
 
-(3) Any reference in this Act to the discharge of any oil, oily mixture or noxious liquid substance from a ship or place on land shall, unless the context otherwise requires, be construed as a reference to the discharge of the oil, oily mixture or substance from the ship or place on land at any place in or outside the area of Singapore and the reference to the area of Singapore shall include the territorial waters of Singapore.
+[Act 26 of 2017 wef 08/09/2017]
 
-(4) Any reference in this Act to the Convention or any other international agreement shall be construed as including a reference to its protocols, annexes, appendices and other attachments.
+(3) Unless the context otherwise requires —
+
+(a) a reference in this Act to the discharge of any oil, oily mixture, noxious liquid substance, ballast water or sediments from a ship is a reference to the discharge of the oil, oily mixture, noxious liquid substance, ballast water or sediments from the ship at any place in or outside Singapore; and
+
+(b) a reference in this Act to the discharge of any oil, oily mixture, noxious liquid substance or sediments from a place on land is a reference to the discharge of the oil, oily mixture, noxious liquid substance or sediments from the place at any place in or outside Singapore.
+
+[Act 26 of 2017 wef 08/09/2017]
+
+(4) Any reference in this Act to the Convention, the Ballast Water Management Convention or any other international agreement shall be construed as including a reference to its protocols, annexes, appendices and other attachments.
 
 [8/99]
+
+[Act 26 of 2017 wef 08/09/2017]
 
 ## PART II
 
@@ -228,7 +294,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 [8/99]
 
-### Special defences
+### Special defences to section 3
 
 4\.—(1) Where a person is charged with an offence under section 3 as the occupier of a place on land, or as the person in charge of any apparatus, from which the oil or oily mixture is alleged to have been discharged, it shall be a defence to prove that the discharge of the oil or oily mixture was not due to any want of reasonable care, and that as soon as practicable after the discharge was discovered all reasonable steps were taken for stopping or reducing it.
 
@@ -248,9 +314,27 @@ shall be guilty of an offence and shall be liable on conviction to a fine of not
 
 [7/96]
 
+[Act 26 of 2017 wef 08/09/2017]
+
 ### Person throwing pollutants into Singapore waters
 
-5\. Any person who puts, throws, casts or deposits into Singapore waters, or causes to be put, thrown, cast or deposited thereinto, any oil, oily mixture, refuse, garbage, plastics, waste matter, carcase, noxious liquid substances, marine pollutant in packaged form or trade effluent, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+5\. Any person who puts, throws, casts or deposits into Singapore waters, or causes to be put, thrown, cast or deposited thereinto, any oil, oily mixture, refuse, garbage, plastics, waste matter, carcase, noxious liquid substances, marine pollutant in packaged form or trade effluent, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 26 of 2017 wef 08/09/2017]
+
+### Prohibition of discharge of sediments from land or apparatus
+
+5A\.—(1) If any sediments are discharged into Singapore waters from any place on land —
+
+(a) the occupier of that place; or
+
+(b) if the discharge is caused by the act of another person who is in that place without the permission (express or implied) of the occupier, that person,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(2) If any sediments are discharged into Singapore waters from any apparatus used for transferring sediments from or to any ship (whether to or from a place on land or to or from another ship), the person in charge of the apparatus shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 26 of 2017 wef 08/09/2017]
 
 ## PART III
 
@@ -258,7 +342,9 @@ PREVENTION OF POLLUTION FROM SHIPS
 
 ### Prohibition of discharge of refuse, garbage, wastes, effluents, plastics and dangerous pollutants from ships
 
-6\.—(1) Subject to subsection (2) and any regulations made under subsection (5), if any disposal or discharge of refuse, garbage, waste matter, trade effluent, plastics or marine pollutant in packaged form occurs from any ship into Singapore waters, the master, the owner and the agent of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+6\.—(1) Subject to subsection (2) and any regulations made under subsection (5), if any disposal or discharge of refuse, garbage, waste matter, trade effluent, plastics or marine pollutant in packaged form occurs from any ship into Singapore waters, the master, the owner and the agent of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 26 of 2017 wef 08/09/2017]
 
 (2) Subsection (1) shall not apply to the disposal or discharge of refuse, garbage, waste matter, trade effluent, plastics or marine pollutant in packaged form from a ship —
 
@@ -318,7 +404,9 @@ PREVENTION OF POLLUTION FROM SHIPS
 
 ### Prohibition of discharge of noxious liquid substances from ships
 
-10\.—(1) Subject to subsection (2) and any regulations made under subsection (4), if any discharge of a noxious liquid substance, or of a mixture containing a noxious liquid substance, being a substance or mixture carried as cargo or part cargo in bulk, occurs from a Singapore ship into the sea or from any ship into Singapore waters, the master, the owner and the agent of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+10\.—(1) Subject to subsection (2) and any regulations made under subsection (4), if any discharge of a noxious liquid substance, or of a mixture containing a noxious liquid substance, being a substance or mixture carried as cargo or part cargo in bulk, occurs from a Singapore ship into the sea or from any ship into Singapore waters, the master, the owner and the agent of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 26 of 2017 wef 08/09/2017]
 
 (2) Subsection (1) shall not apply to the discharge of a noxious liquid substance or a mixture containing such substance from a ship —
 
@@ -337,6 +425,44 @@ PREVENTION OF POLLUTION FROM SHIPS
 (4) The Authority may, with the approval of the Minister, make regulations to exempt any ship from the operation of subsection (1), either absolutely or subject to any prescribed conditions, and either generally or as respects particular classes of ships, or in relation to particular descriptions of noxious liquid substances or mixtures containing such substances or to the discharge of such substances or mixtures in prescribed circumstances, or in relation to particular areas of the sea.
 
 [7/96]
+
+### Prohibition of discharge of ballast water and sediments from ships
+
+10A\.—(1) Subject to subsections (2) and (3) and section 10B, if any discharge of ballast water or sediments occurs from any ship into Singapore waters, or from a Singapore ship into any part of the sea, the master, the owner and the agent of the ship shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(2) Subsection (1) does not apply to the discharge of ballast water through ballast water management in accordance with regulations made under section 34.
+
+(3) The Authority may, with the approval of the Minister, make regulations to exempt any ship from the operation of subsection (1), either absolutely or subject to any prescribed conditions, and either generally or as respects particular classes of ships, or in relation to particular areas of the sea.
+
+(4) In this section —
+
+“owner”, in relation to a ship, includes any organisation or person such as the manager, or the bareboat charterer, who has assumed the responsibility for operation of the ship from the owner of the ship and who on assuming such responsibility has agreed to take over all the duties and responsibilities imposed by the International Safety Management Code;
+
+“International Safety Management Code” means the International Management Code for the Safe Operation of Ships and for Pollution Prevention 2002 adopted by the International Maritime Organization and any amendment to the Code which has come into force and has been accepted by the Government.
+
+[Act 26 of 2017 wef 08/09/2017]
+
+### Special defences to section 10A
+
+10B\. Where a person is charged with an offence under section 10A(1), it is a defence for the person charged to prove, on a balance of probabilities, that —
+
+(a) the uptake or discharge of ballast water or sediments was necessary for the purpose of securing the safety of the ship in an emergency situation or saving life at sea;
+
+(b) the discharge of ballast water or sediments —
+
+(i) was accidental; and
+
+(ii) resulted from damage to the ship or its equipment, other than damage that was caused by the person wilfully or recklessly,
+
+and all reasonable precautions were taken before and after the occurrence of the damage, or the discovery of the occurrence of the damage or discharge, for the purpose of preventing or minimising the discharge;
+
+(c) the uptake or discharge of ballast water or sediments was for the purpose of avoiding or minimising pollution incidents from the ship;
+
+(d) the discharge of ballast water or sediments occurred on the high seas, and comprised the same ballast water and sediments that had been taken up in the high seas; or
+
+(e) the discharge of ballast water or sediments was at the same location where the whole of the discharged ballast water or sediments originated, and the discharged ballast water and sediments had not been mixed with ballast water and sediments from any other location which have not undergone ballast water management.
+
+[Act 26 of 2017 wef 08/09/2017]
 
 ## PART IV
 
@@ -386,21 +512,31 @@ in order to comply, for ships which may be expected to use the port or terminal 
 
 (7) Subsections (3) to (6) shall not apply unless the port or a terminal managed by a terminal operator is —
 
-(a) in relation to the provision of reception facilities for residues or mixtures containing oil, used by ships carrying such residues or mixtures including such ships when undergoing repair or being broken up; or
+(a) in relation to the provision of reception facilities for residues or mixtures containing oil, used by ships carrying such residues or mixtures including such ships when undergoing repair or being broken up;
 
-(b) in relation to the provision of reception facilities for residues or mixtures containing noxious liquid substances, used by ships carrying such residues or mixtures for the purpose of loading or unloading such substances, repair or breaking up.
+[Act 26 of 2017 wef 08/09/2017]
+
+(b) in relation to the provision of reception facilities for residues or mixtures containing noxious liquid substances, used by ships carrying such residues or mixtures for the purpose of loading or unloading such substances, repair or breaking up; or
 
 [7/96; 8/99]
 
-(8) The Authority may, with the approval of the Minister, make regulations in respect of every matter relating to the provision of reception facilities and other facilities for ships to deposit refuse, garbage, plastics or sewage and, in particular, those regulations may provide —
+[Act 26 of 2017 wef 08/09/2017]
+
+(c) in relation to the provision of reception facilities for sediments, used by ships carrying such sediments, including such ships when undergoing cleaning or repairing of ballast water tanks or breaking up.
+
+[Act 26 of 2017 wef 08/09/2017]
+
+(8) The Authority may, with the approval of the Minister, make regulations in respect of every matter relating to the provision of reception facilities and other facilities for ships to deposit refuse, garbage, plastics, sewage, ballast water or sediments and, in particular, those regulations may provide —
 
 (a) for fees to be levied for the use of the facilities;
 
 (b) for the conditions upon which ships may make use of the facilities; and
 
-(c) that a contravention thereof shall be punishable by a fine not exceeding $10,000 or with imprisonment for a term not exceeding 2 years or with both.
+(c) that a contravention thereof shall be punishable by a fine not exceeding $20,000 or with imprisonment for a term not exceeding 2 years or with both.
 
 [7/96]
+
+[Act 26 of 2017 wef 08/09/2017]
 
 ### Regulations requiring the keeping of oil record books
 
@@ -504,21 +640,73 @@ in order to comply, for ships which may be expected to use the port or terminal 
 
 (d) provide for the custody or disposal of the cargo record books or records after their transmission to such a place or person.
 
+### Regulations requiring keeping of ballast water record books
+
+13A\.—(1) The Authority may, with the approval of the Minister, make regulations requiring ballast water record books to be carried in all Singapore ships and in all ships in Singapore waters, and requiring the master of any such ship to record in the ballast water record book carried by it —
+
+(a) the carrying out, on board or in connection with the ship, of such of the following operations as may be prescribed:
+
+(i) the intake of ballast water;
+
+(ii) the circulation or treatment of ballast water for ballast water management purposes;
+
+(iii) the discharge of ballast water into the sea;
+
+(iv) the discharge of ballast water to a facility for the reception of ballast water;
+
+(v) the accidental or other exceptional uptake or discharge of ballast water;
+
+(vi) any failure or malfunction of the ballast water management system of the ship;
+
+(vii) the taking of any additional measures to prevent, reduce, or eliminate the transfer of harmful aquatic organisms and pathogens through the ship’s ballast water and sediments, in accordance with regulations made under this Act;
+
+(viii) the conduct of any other ballast water management operational procedures;
+
+(b) any event of discharge of ballast water or sediments by a ship that is exempt from the operation of section 10A(1) by regulations made under section 10A(3);
+
+(c) any event of discharge of ballast water mentioned in section 10A(2); and
+
+(d) any event of discharge of ballast water or sediments as is mentioned in section 10B.
+
+(2) Regulations made under this section requiring the carrying of ballast water record books or the keeping of records may —
+
+(a) prescribe the form of the ballast water record books or records and the nature of the entries to be made in them;
+
+(b) require the person keeping the ballast water record books or records to retain them for a prescribed period;
+
+(c) require the person mentioned in paragraph (b), at the end of the prescribed period, to transmit the ballast water record books or records to a place or person determined by the regulations; and
+
+(d) provide, after the transmission of the ballast water record books or records to the place or person mentioned in paragraph (c), for their custody (for such period as may be prescribed) and for their subsequent disposal.
+
+[Act 26 of 2017 wef 08/09/2017]
+
 ### Failure to carry record books and evidence
 
-14\.—(1) If any ship fails to carry an oil record book or cargo record book as is required under section 12 or 13, the owner, the agent or the master of that ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+14\.—(1) If any ship fails to carry an oil record book, cargo record book or ballast water record book as is required under section 12, 13 or 13A, the owner, the agent or the master of that ship shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(2) Any person who fails to comply with any of the requirements imposed by section 12 or 13 or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+[Act 26 of 2017 wef 08/09/2017]
 
-(3) Any person who makes an entry in any oil record book or cargo record book carried or any record kept under section 12 or 13 which is to his knowledge false or misleading in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Any person who fails to comply with any of the requirements imposed by section 12, 13 or 13A or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 26 of 2017 wef 08/09/2017]
+
+(3) Any person who makes an entry in any oil record book, cargo record book or ballast water record book carried or any record kept under section 12, 13 or 13A which is to his knowledge false or misleading in any material particular shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 26 of 2017 wef 08/09/2017]
 
 (4) In any proceedings under this Act —
 
-(a) any oil record book or cargo record book carried or any record kept in pursuance of any regulations made under section 12 or 13 shall be admissible as evidence of the facts stated in it;
+(a) any oil record book, cargo record book or ballast water record book carried or any record kept under any regulations made under section 12, 13 or 13A is admissible as evidence of the facts stated in it;
 
-(b) any copy of an entry in such oil record book or cargo record book or record which is certified by the master of the ship in which the book is carried or by the person by whom the record is required to be kept to be a true copy of the entry shall be admissible as evidence of the facts stated in the entry; and
+[Act 26 of 2017 wef 08/09/2017]
 
-(c) any document purporting to be an oil record book or cargo record book carried or a record kept under section 12 or 13, or purporting to be such a certified copy as is mentioned in paragraph (b) shall, unless the contrary is proved, be presumed to be such a book, record or copy, as the case may be.
+(b) any copy of an entry in such oil record book, cargo record book or ballast water record book or record which is certified by the master of the ship in which the book is carried or by the person by whom the record is required to be kept to be a true copy of the entry shall be admissible as evidence of the facts stated in the entry; and
+
+[Act 26 of 2017 wef 08/09/2017]
+
+(c) any document purporting to be an oil record book, cargo record book or ballast water record book carried or a record kept under section 12, 13 or 13A, or purporting to be such a certified copy as is mentioned in paragraph (b) shall, unless the contrary is proved, be presumed to be such a book, record or copy, as the case may be.
+
+[Act 26 of 2017 wef 08/09/2017]
 
 ### Duty to report discharges of harmful substances from ships
 
@@ -542,9 +730,11 @@ the owner, charterer, manager and operator of the ship or an agent of the owner,
 
 (b) in the case of an offence to which subsection (3)(a) applies, that he neither knew nor suspected that the master of the ship concerned was unable to comply with subsection (1) in relation to the relevant occurrence.
 
-### Duty to report discharges of oil, oily mixture and substances from land or apparatus
+### Duty to report discharge of oil, etc., from land or apparatus
 
-16\. If any actual or probable discharge into Singapore waters of oil, oily mixture, noxious liquid substance or a mixture containing such substance occurs from a place on land or an apparatus used for transferring oil or that substance from or to a ship, the occupier of the place on land or the person in charge of the apparatus, as the case may be, shall forthwith report the occurrence to the Port Master in the prescribed manner and, if he fails to do so, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+16\. If any actual or probable discharge into Singapore waters of oil, oily mixture, noxious liquid substance, sediments or a mixture containing oil, oily mixture, noxious liquid substance or sediments occurs from a place on land or an apparatus used for transferring oil, oily mixture, noxious liquid substance, sediments or that mixture from or to a ship, the occupier of the place on land or the person in charge of the apparatus, as the case may be, shall forthwith report the occurrence to the Port Master in the prescribed manner and, if he fails to do so, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 26 of 2017 wef 08/09/2017]
 
 ## PART V
 
@@ -608,9 +798,13 @@ MISCELLANEOUS PROVISIONS
 
 (b) whether there has been a discharge from a ship in contravention of this Act or any regulations made thereunder;
 
-(c) whether a provision of the Convention that is applicable in relation to a ship other than a Singapore ship has been complied with in respect of that ship; or
+(c) whether a provision of the Convention, or the Ballast Water Management Convention, that is applicable in relation to a ship other than a Singapore ship has been complied with in respect of that ship; or
 
-(d) whether a provision of a law of a country other than Singapore giving effect to the Convention, being a provision that is applicable in relation to a ship other than a Singapore ship, has been complied with in respect of that ship.
+[Act 26 of 2017 wef 08/09/2017]
+
+(d) whether a provision of a law of a country other than Singapore giving effect to the Convention or the Ballast Water Management Convention, being a provision that is applicable in relation to a ship other than a Singapore ship, has been complied with in respect of that ship.
+
+[Act 26 of 2017 wef 08/09/2017]
 
 (2) An inspector may for any of the purposes referred to in subsection (1) —
 
@@ -622,7 +816,9 @@ MISCELLANEOUS PROVISIONS
 
 (d) require the master of a ship to take such steps as the inspector directs to facilitate the inspection or testing of any machinery or equipment of the ship;
 
-(e) open, or require the master of a ship to cause to be opened, any hold, bunker, tank, compartment or receptacle in or on board the ship and inspect the contents of any hold, bunker, tank, compartment or receptacle in or on board the ship;
+(e) open, or require the master of a ship to cause to be opened, any hold, bunker tank, ballast tank, compartment or receptacle in or on board the ship and inspect the contents of any such hold, bunker tank, ballast tank, compartment or receptacle in or on board the ship;
+
+[Act 26 of 2017 wef 08/09/2017]
 
 (f) require the master of a ship to produce a record book required by any regulations made under this Act to be carried in the ship or any other books, documents or records relating to the ship or its cargo that are carried in the ship;
 
@@ -686,7 +882,13 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 ### Power to enter on lands
 
-27\.—(1) The Government may, by its officers, employees, agents or contractors, enter upon any land adjoining the sea or foreshore for the purpose of removing or eliminating any oil, oily mixture, refuse, garbage, waste matter, plastics, marine pollutant in packaged form, noxious liquid substance or trade effluent from Singapore waters.
+27\.—(1) The Government may, by its officers, employees, agents or contractors, enter upon any land adjoining the sea or foreshore —
+
+(a) for the purpose of removing or eliminating any oil, oily mixture, refuse, garbage, waste matter, plastics, marine pollutant in packaged form, noxious liquid substance, trade effluent or sediments from Singapore waters; and
+
+(b) to take steps to minimise or mitigate damage to public health or welfare that may be caused by or result from any of the substances mentioned in paragraph (a).
+
+[Act 26 of 2017 wef 08/09/2017]
 
 (2) The Government shall pay compensation to the owner of the land for any permanent damage caused to the land in the exercise of the powers conferred by subsection (1).
 
@@ -744,13 +946,23 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 (b) giving effect to any provision of the International Convention on Oil Pollution Preparedness, Response and Co-operation 1990 (including the Final Act of the Conference and the attached resolutions) signed in London on 30th November 1990;
 
-(c) giving effect to any provision of any international agreement not mentioned in paragraph (a) or (b) which relates to the prevention, reduction or control of pollution of the sea or pollution from ships;
+(ba) giving effect to any provision of the Ballast Water Management Convention which has not been given effect to in this Act;
 
-(d) giving effect to any international agreement which modifies any of the international agreements mentioned in paragraphs (a), (b) and (c); and
+[Act 26 of 2017 wef 08/09/2017]
 
-(e) prescribing any measure which the Authority considers necessary for the prevention, control or reduction of pollution of the sea or pollution from ships.
+(c) giving effect to any provision of any international agreement not mentioned in paragraph (a), (b) or (ba) which relates to the prevention, reduction or control of pollution of the sea or pollution from ships;
+
+[Act 26 of 2017 wef 08/09/2017]
+
+(d) giving effect to any international agreement which modifies any of the international agreements mentioned in paragraph (a), (b), (ba) or (c); and
+
+[Act 26 of 2017 wef 08/09/2017]
+
+(e) prescribing any measure which the Authority considers necessary for the protection of the marine environment and for the prevention, control or reduction of pollution of the sea or pollution from ships.
 
 [7/96; 8/99]
+
+[Act 26 of 2017 wef 08/09/2017]
 
 (2) Without prejudice to the generality of subsection (1), the Authority may, with the approval of the Minister, by such regulations —
 
@@ -762,17 +974,23 @@ the Director or Port Master or any officer authorised in writing by the Director
 
 (d) provide for the appointment, registration, duties and powers of MARPOL surveyors and the approval of the organisation employing such surveyors for the purposes of giving effect to Annex II to the Convention;
 
+(da) provide for the nomination and registration of surveyors, and for the recognition of organisations to conduct surveys, for the purposes of the Ballast Water Management Convention, and for the duties and powers of such surveyors and organisations;
+
+[Act 26 of 2017 wef 08/09/2017]
+
 (e) prescribe fees to be paid in respect of the issue or recording of any certificate, licence or other instrument or the doing of any other thing in pursuance of this Act or any regulations made thereunder;
 
 (f) provide for the approval of documents and the carrying out of surveys and inspections for the purpose of giving effect to any of the international agreements referred to in subsection (1)(a) to (d), or to a measure referred to in subsection (1)(e) and the issue, duration and recognition of any certificate for that purpose;
 
-(g) provide for the denial of entry or prohibition of proceeding to sea of any ship which does not have in force a certificate issued pursuant to any regulations made under paragraph (g); and
+(g) provide for the denial of entry or prohibition of proceeding to sea of any ship which does not have in force a certificate issued pursuant to any regulations made under paragraph (f); and
+
+[Act 26 of 2017 wef 08/09/2017]
 
 (h) provide for the extra territorial application of any of the regulations to Singapore ships and to persons on board such ships.
 
 [7/96; 8/99]
 
-(3) Any regulations made under this section may —
+(3) Any regulations made under this section or any other section may —
 
 (a) make different provisions for different circumstances;
 
@@ -785,6 +1003,8 @@ the Director or Port Master or any officer authorised in writing by the Director
 (e) provide that a contravention thereof shall be punishable by a fine not exceeding $20,000 or with imprisonment for a term not exceeding 2 years or with both.
 
 [7/96; 8/99]
+
+[Act 26 of 2017 wef 08/09/2017]
 
 ### Application to Government
 
@@ -825,6 +1045,10 @@ This Legislative History is provided for the convenience of users of the Prevent
 |||(Bill No. 20/2008 published on 26 August 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|21 November 2008|
+|7.|**Act 26 of 2017—Prevention of Pollution of the Sea (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 20/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|8 September 2017|
 ## COMPARATIVE TABLE
 
 Prevention of Pollution of the Sea Act
