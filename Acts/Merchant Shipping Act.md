@@ -1830,7 +1830,7 @@ the ship shall, for the purposes of this Act, be deemed to be overloaded to the 
 
 ### Report of accidents, etc., to Director
 
-107\.—(1) Where a ship —
+107\.—(1) Subject to subsection (1A), where a ship —
 
 (a) has sustained or caused an accident occasioning loss of life or serious injury to a person;
 
@@ -1841,6 +1841,12 @@ the ship shall, for the purposes of this Act, be deemed to be overloaded to the 
 (d) has been stranded or wrecked,
 
 the owner or the master of the ship shall, within 24 hours of the happening, report the happening to the Director.
+
+[Act 25 of 2017 wef 08/09/2017]
+
+(1A) This section does not apply to a matter required to be reported under section 4 of the Merchant Shipping (Wreck Removal) Act 2017.
+
+[Act 25 of 2017 wef 08/09/2017]
 
 (2) Any owner or master of a ship who fails without reasonable cause to comply with this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
@@ -3342,3 +3348,7 @@ This Legislative History is provided for the convenience of users of the Merchan
 ||Date of First Reading|11 November 2013 (Bill No. 27/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 April 2014|
+|10.|**Act 25 of 2017—Merchant Shipping (Wreck Removal) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 19/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|8 September 2017|
