@@ -3492,6 +3492,14 @@ President Tony Tan Keng Yam
 
 Chinese community
 
+6
+
+President Halimah Yacob
+
+Malay community
+
+[S 511/2017 wef 14/09/2017]
+
 [Act 6 of 2017 wef 01/04/2017]
 
 ## LEGISLATIVE HISTORY
@@ -3599,6 +3607,8 @@ This Legislative History is provided for the convenience of users of the Preside
 |||(Bill No. 2/2017)|
 ||Date of Second and Third Readings|6 February 2017|
 ||Date of commencement|1 April 2017|
+|21.|**G.N. No. S 511/2017—Presidential Elections Act (Amendment of Schedule) Notification 2017**|
+||Date of commencement|14 September 2017|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
