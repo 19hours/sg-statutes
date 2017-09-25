@@ -872,11 +872,7 @@ Terrorists and terrorist entities
 
 [S 598/2015 wef 16/10/2015]
 
-(p) Muhammad Harith Jailani (Singapore citizen) (Date of Birth: 13 December 1996);
-
-[S 598/2015 wef 16/10/2015]
-
-[S 400/2016 wef 22/08/2016]
+(p) [Deleted by S 528/2017 wef 25/09/2017]
 
 (q) Rahman Mizanur (Bangladesh citizen) (Passport No. BH0187173) (Date of Birth: 15 March 1985);
 
@@ -912,11 +908,7 @@ Terrorists and terrorist entities
 
 (y) [Deleted by S 560/2016 wef 01/11/2016]
 
-(z) Amiruddin bin Sawir (Singapore citizen) (Date of Birth: 12 February 1963);
-
-[S 400/2016 wef 22/08/2016]
-
-[S 404/2016 wef 26/08/2016]
+(z) [Deleted by S 528/2017 wef 25/09/2017]
 
 (za) Zulfikar bin Mohamad Shariff (Singapore citizen) (Date of Birth: 28 September 1971);
 
@@ -944,9 +936,15 @@ Terrorists and terrorist entities
 
 [S 446/2017 wef 14/08/2017]
 
-(zf) Muhammad Khairul Bin Mohamed (Singapore citizen) (Date of Birth: 30 August 1992).
+(zf) Muhammad Khairul Bin Mohamed (Singapore citizen) (Date of Birth: 30 August 1992);
 
 [S 446/2017 wef 14/08/2017]
+
+[S 528/2017 wef 25/09/2017]
+
+(zg) Imran Kassim (Singapore citizen) (Date of Birth: 22 June 1983).
+
+[S 528/2017 wef 25/09/2017]
 
 2. In this Schedule, unless the context otherwise requires —
 
@@ -1168,6 +1166,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|14 August 2017|
 |23.|**G.N. No. S 485/2017—Terrorism (Suppression of Financing) Act (Amendment of Second Schedule) Order 2017**|
 ||Date of commencement|1 September 2017|
+|24.|**G.N. No. S 528/2017—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 2) Order 2017**|
+||Date of commencement|25 September 2017|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
