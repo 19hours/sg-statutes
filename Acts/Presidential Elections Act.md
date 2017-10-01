@@ -3143,7 +3143,9 @@ APPLICATIONS FOR AVOIDANCE OF ELECTION
 
 [42/2005]
 
-(4) Any person refusing to obey the order of the Election Judge under subsection (3)(a) shall be guilty of a contempt of court.
+(4) Any person who wilfully refuses to obey the order of the Election Judge under subsection (3)(a) shall be guilty of contempt of court under section 4(1) of the Administration of Justice (Protection) Act 2016.
+
+[Act 19 of 2016 wef 01/10/2017]
 
 (5) The Election Judge shall be attended on the hearing of an application under section 71 in the same manner as if he were a Judge of the Supreme Court sitting at assizes.
 
@@ -3609,6 +3611,10 @@ This Legislative History is provided for the convenience of users of the Preside
 ||Date of commencement|1 April 2017|
 |21.|**G.N. No. S 511/2017—Presidential Elections Act (Amendment of Schedule) Notification 2017**|
 ||Date of commencement|14 September 2017|
+|22.|**Act 19 of 2016—Administration of Justice (Protection) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|15 August 2016|
+||Date of commencement|1 October 2017|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
