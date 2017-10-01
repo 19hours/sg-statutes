@@ -24,7 +24,7 @@
 
 - [6 Seal](#Seal)
 
-- [7 Contempt](#Contempt)
+- [7 (Repealed)](#Repealed)
 
 - [8 Sittings in camera](#Sittings-in-camera)
 
@@ -394,15 +394,7 @@ THE SUPREME COURT
 
 \*Cap. 322, N 1 (1990 Ed.).
 
-### Contempt
-
-7\.—(1) The High Court and the Court of Appeal shall have power to punish for contempt of court.
-
-[16/93]
-
-(2) Wilful disposal by a garnishee, otherwise than in accordance with law or by leave of the court, of any property attached in his hands or under his control by a notice of court, shall be deemed to be contempt.
-
-(3) Wilful disobedience by a corporation to any order punishable by attachment may be punished by attachment of the directors or other officers of the corporation who are responsible for, or are knowingly a party to, such wilful disobedience.
+7\. [Repealed by Act 19 of 2016 wef 01/10/2017]
 
 ### Sittings in camera
 
@@ -2252,6 +2244,10 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|35.|**Act 19 of 2016—Administration of Justice (Protection) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|15 August 2016|
+||Date of commencement|1 October 2017|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
