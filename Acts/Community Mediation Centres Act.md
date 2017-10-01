@@ -256,9 +256,7 @@ refer the complaint to a mediator of a Community Mediation Centre for mediation 
 
 (2) In making any referral under subsection (1), the Magistrate may order the personal attendance of the complainant or the person complained against before a mediator of a Community Mediation Centre at a time and place to be specified in the order of the Magistrate.
 
-(3) Any person who fails to comply with the order of the Magistrate made under subsection (2) shall be guilty of contempt of court and action may be taken against him under section 8 of the State Courts Act (Cap. 321).
-
-[Act 5 of 2014 wef 07/03/2014]
+(3) [Deleted by Act 19 of 2016 wef 01/10/2017]
 
 (4) In a referral by a Magistrate under this section, the mediator of a Community Mediation Centre shall record and notify the Magistrate of the outcome of the mediation to enable the Magistrate to take such further action as he thinks fit under the provisions of the Criminal Procedure Code.
 
@@ -436,3 +434,7 @@ This Legislative History is provided for the convenience of users of the Communi
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|11.|**Act 19 of 2016—Administration of Justice (Protection) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|15 August 2016|
+||Date of commencement|1 October 2017|
