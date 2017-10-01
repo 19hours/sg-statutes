@@ -2976,7 +2976,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 until that person is brought before the court or until such other time as the court may order.
 
-(15) Where a bankrupt or any other person summoned by the court under this section without reasonable excuse fails at any time to attend before the court, he shall be guilty of a contempt of court and shall be liable to be punished accordingly in addition to any other punishment to which he may be subject.
+(15) [Deleted by Act 19 of 2016 wef 01/10/2017]
 
 (16) The court may, if it thinks fit, order that any person who if within Singapore would be liable to be summoned to appear before it and examined under this section shall be examined in Singapore or elsewhere.
 
@@ -3514,9 +3514,7 @@ by special resolution, resolve to accept a proposal for a composition in satisfa
 
 [Act 21 of 2015 wef 01/08/2016]
 
-(5) The provisions of a composition or scheme under this section may be enforced by the court on an application by any person interested, and any contravention of or failure to comply with an order of the court made on such an application shall be deemed to be a contempt of court.
-
-[37/99]
+(5) [Deleted by Act 19 of 2016 wef 01/10/2017]
 
 (6) The court may, on an application by the Official Assignee or any creditor, annul the composition or scheme by revoking the certificate of discharge or certificate of annulment (as the case may be), if —
 
@@ -5492,6 +5490,10 @@ This Legislative History is provided for the convenience of users of the Bankrup
 ||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 April 2017|
+|26.|**Act 19 of 2016—Administration of Justice (Protection) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|15 August 2016|
+||Date of commencement|1 October 2017|
 ## COMPARATIVE TABLE
 
 Bankruptcy Act
