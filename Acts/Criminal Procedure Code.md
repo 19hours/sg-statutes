@@ -968,21 +968,7 @@
 
 [**Part XXI SPECIAL PROCEEDINGS**](#Part-XXI)
 
-[**Division 1  Proceedings in case of certain offences affecting administration of justice**](#Division-1--Proceedings-in-case-of-certain-offences-affecting-administration-of-justice)
-
-- [410 Procedure as to offences committed in court, etc.](#Procedure-as-to-offences-committed-in-court-etc)
-
-- [411 Record of facts constituting offence](#Record-of-facts-constituting-offence)
-
-- [412 Alternative procedure](#Alternative-procedure)
-
-- [413 Power to remit punishment](#Power-to-remit-punishment)
-
-- [414 Refusal to give evidence](#Refusal-to-give-evidence)
-
-- [415 Appeal](#Appeal)
-
-- [416 Magistrate not to try certain offences committed before himself](#Magistrate-not-to-try-certain-offences-committed-before-himself)
+[**Division 1  Repealed**](#Division-1--Repealed)
 
 [**Division 2  Special proceedings — Order for review of detention**](#Division-2--Special-proceedings-—-Order-for-review-of-detention)
 
@@ -7304,48 +7290,9 @@ Criminal motions
 
 SPECIAL PROCEEDINGS
 
-Division 1 —
+Division 1
 
-Proceedings in case of certain offences
-
-
-
-
-affecting administration of justice
-
-### Procedure as to offences committed in court, etc.
-
-410\. When any such offence as is described in section 175, 178, 179, 180 or 228 of the Penal Code (Cap. 224) is committed in the view or presence of any civil or criminal court other than the High Court, the court may cause the offender to be detained in custody and at any time before the rising of the court on the same day may, if it thinks fit, take cognizance of the offence and sentence the offender to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months or to both.
-
-### Record of facts constituting offence
-
-411\.—(1) In every case referred to in section 410, the court shall record the facts constituting the offence with the statement, if any, made by the offender as well as the finding and sentence.
-
-(2) If the offence is under section 228 of the Penal Code the record must show the nature and stage of the judicial proceeding in which the court interrupted or insulted was sitting and the nature of the interruption or insult.
-
-### Alternative procedure
-
-412\. If the court in any case considers that a person accused of any of the offences referred to in section 410 and committed in its view or presence may be better dealt with by ordinary process of law, the court, after recording the facts constituting the offence and the statement of the accused as provided in section 411, may direct the accused to be prosecuted and may require security to be given for the appearance of the accused before a Magistrate’s Court or, if sufficient security is not given, may take that person under custody to a Magistrate’s Court.
-
-### Power to remit punishment
-
-413\. When any court has under section 410 adjudged an offender to punishment for refusing or omitting to do anything which he was lawfully required to do or for any intentional insult or interruption, the court may, in its discretion, discharge the offender or remit the punishment or any part of it on his submission to the order or requisition of the court or on apology being made to its satisfaction.
-
-### Refusal to give evidence
-
-414\.—(1) If any witness before a criminal court refuses to answer such questions as are put to him or to produce any document in his possession or power which the court requires him to produce and does not offer any reasonable excuse for such refusal, that court may, for reasons to be recorded in writing, sentence him to imprisonment for a term which may extend to 7 days unless in the meantime he consents to be examined and to answer or to produce the document.
-
-(2) In the event of his persisting in his refusal, he may be dealt with according to section 410 or 412 notwithstanding any sentence he has undergone under this section.
-
-### Appeal
-
-415\.—(1) Any person sentenced by any court under this Division may appeal to the High Court.
-
-(2) Division 1 of Part XX shall, so far as it is applicable, apply to appeals under this section and the appellate court may alter or reverse the finding or reduce, alter or reverse the sentence appealed against.
-
-### Magistrate not to try certain offences committed before himself
-
-416\. Except as provided in sections 410 and 414, no Magistrate shall try any person for any offence referred to in section 10(1) when the offence is committed before himself or in contempt of his authority or is brought under his notice as such Magistrate in the course of a judicial proceeding.
+[Repealed by Act 19 of 2016 wef 01/10/2017]
 
 Division 2 —
 
@@ -8715,21 +8662,9 @@ Ditto
 
 Imprisonment for one month, or fine*, or both
 
-The court in which the offence is committed subject to the provisions of Division 1 of Part XXI, or if not committed in a court, a District Court
+District Court
 
-175
-
-If the document or electronic record is required to be produced in or delivered to a court of justice
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 6 months, or fine*, or both
-
-Ditto
+[Deleted by Act 19 of 2016 wef 01/10/2017]
 
 176
 
@@ -8799,7 +8734,7 @@ Ditto
 
 Imprisonment for 6 months, or fine*, or both
 
-The court in which the offence is committed, subject to the provisions of Division 1 of Part XXI, or if not committed in a court, a District Court
+District Court
 
 179
 
@@ -9881,7 +9816,7 @@ Bailable
 
 Imprisonment for one year, or fine*, or both
 
-The court in which the offence is committed, subject to the provisions of Division 1 of Part XXI
+District Court
 
 229
 
@@ -13922,6 +13857,8 @@ According to sections 7, 8 and 9 of this Code
 
 [Act 5 of 2015 wef 01/04/2015]
 
+[Act 19 of 2016 wef 01/10/2017]
+
 SECOND SCHEDULE
 
 Section 159(1)
@@ -17343,3 +17280,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|1 August 2017|
+|22.|**Act 19 of 2016—Administration of Justice (Protection) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|15 August 2016|
+||Date of commencement|1 October 2017|
