@@ -1290,7 +1290,7 @@ Illustrations
 
 ### “Public servant”
 
-21\. The words “public servant” denote a person falling under any of the following descriptions:
+21\.—(1) The words “public servant” denote a person falling under any of the following descriptions:
 
 (a) every officer in the Singapore Armed Forces;
 
@@ -1310,8 +1310,6 @@ Illustrations
 
 (i) a member of the Public Service Commission or the Legal Service Commission constituted under Part IX of the Constitution.
 
-[51/2007]
-
 Illustration
 
 [Deleted by Act 51 of 2007]
@@ -1321,6 +1319,12 @@ Explanation1.—Persons falling under any of the above descriptions are public s
 Explanation2.—Wherever the words “public servant” occur, they shall be understood of every person who is in actual possession of the situation of a public servant, whatever legal defect there may be in his right to hold that situation.
 
 [Indian PC 1860, s. 21]
+
+[Act 19 of 2016 wef 01/10/2017]
+
+(2) Despite subsection (1), the words “public servant” in sections 175, 178, 179, 180 and 228 does not include a judge as defined in the Administration of Justice (Protection) Act 2016.
+
+[Act 19 of 2016 wef 01/10/2017]
 
 ### “Movable property”
 
@@ -2936,17 +2940,9 @@ Illustrations
 
 ### Omission to produce a document or an electronic record to a public servant by a person legally bound to produce such document or electronic record
 
-175\. Whoever, being legally bound to produce or deliver up any document or electronic record to any public servant, as such, intentionally omits so to produce or deliver up the same, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the document or electronic record is to be produced or delivered up to a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+175\. Whoever, being legally bound to produce or deliver up any document or electronic record to any public servant, as such, intentionally omits so to produce or deliver up the same, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both.
 
-[51/2007]
-
-Illustration
-
-A, being legally bound to produce a document or an electronic record before a Magistrate’s Court, intentionally omits to produce the same.Ahas committed the offence defined in this section.
-
-[51/2007]
-
-[Indian PC 1860, s. 175]
+[Act 19 of 2016 wef 01/10/2017]
 
 ### Omission to give notice or information to a public servant by a person legally bound to give such notice or information
 
@@ -7295,3 +7291,8 @@ This Ordinance was deemed to have come into operation on the same date as the St
 |||(Bill No. 1/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|30 January 2015|
 ||Date of commencement|1 April 2015|
+|54.|**Act 19 of 2016—Administration of Justice (Protection) Act 2016**|
+||Date of First Reading|11 July 2016|
+|||(Bill No. 23/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|15 August 2016|
+||Date of commencement|1 October 2017|
