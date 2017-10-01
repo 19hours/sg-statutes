@@ -22,6 +22,8 @@
 
 - [6 Advance notice of public assembly or public procession](#Advance-notice-of-public-assembly-or-public-procession)
 
+- [6A Advance notice of events having prescribed crowd size](#Advance-notice-of-events-having-prescribed-crowd-size)
+
 - [7 Permit for public assembly or public procession](#Permit-for-public-assembly-or-public-procession)
 
 - [8 Conditions applying to public assembly or public procession](#Conditions-applying-to-public-assembly-or-public-procession)
@@ -52,7 +54,9 @@
 
 - [20 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [21 Declaration of special event](#Declaration-of-special-event)
+- [21 Declaration of special event by Commissioner](#Declaration-of-special-event-by-Commissioner)
+
+- [21A Enhanced security special event declared by Minister](#Enhanced-security-special-event-declared-by-Minister)
 
 - [22 Statutory conditions of entry](#Statutory-conditions-of-entry)
 
@@ -64,17 +68,17 @@
 
 - [26 Prohibited items](#Prohibited-items)
 
-- [27 Security screening at special event area](#Security-screening-at-special-event-area)
+- [27 Security screening at special event area of enhanced security special event](#Security-screening-at-special-event-area-of-enhanced-security-special-event)
 
-- [28 Power to require reasons for entry to special event area](#Power-to-require-reasons-for-entry-to-special-event-area)
+- [28 Power to require reasons for entry to special event area of enhanced security special event](#Power-to-require-reasons-for-entry-to-special-event-area-of-enhanced-security-special-event)
 
-- [29 Refusal of entry and removal from special event area](#Refusal-of-entry-and-removal-from-special-event-area)
+- [29 Refusal of entry and removal from special event area of enhanced security special event](#Refusal-of-entry-and-removal-from-special-event-area-of-enhanced-security-special-event)
 
 - [30 Directions to event organiser](#Directions-to-event-organiser)
 
-- [31 Unauthorised entry to special event area, etc.](#Unauthorised-entry-to-special-event-area-etc)
+- [31 Unauthorised entry to special event area of enhanced security special event, etc.](#Unauthorised-entry-to-special-event-area-of-enhanced-security-special-event-etc)
 
-- [32 Interference with special event, etc.](#Interference-with-special-event-etc)
+- [32 Interference with enhanced security special event, etc.](#Interference-with-enhanced-security-special-event-etc)
 
 - [32A Interception, etc., of unmanned aircraft](#Interception-etc-of-unmanned-aircraft)
 
@@ -92,7 +96,7 @@
 
 - [38 Seizure of films of law enforcement activities](#Seizure-of-films-of-law-enforcement-activities)
 
-- [39 Obstruction of police officers under section 29 or 38](#Obstruction-of-police-officers-under-section-29-or-38)
+- [39 Obstruction of police officers under section 29 or 38 or Commissioner under section 30(8A)](#Obstruction-of-police-officers-under-section-29-or-38-or-Commissioner-under-section-308A)
 
 [**Part V MISCELLANEOUS**](#Part-V)
 
@@ -168,9 +172,25 @@ and includes a demonstration by a person alone for any such purpose referred to 
 
 “copy”, in relation to a film, means any article or thing in which the visual images or sounds comprising the film are embodied;
 
-“declaration” means a declaration made under section 21;
+“declaration” means a declaration made by —
+
+(a) the Commissioner under section 21; or
+
+(b) the Minister under section 21 read with section 21A,
+
+as the case may be;
+
+[Act 23 of 2017 wef 01/10/2017]
+
+“enhanced security special event” means a special event that is the subject of a declaration made by the Minister;
+
+[Act 23 of 2017 wef 01/10/2017]
 
 “event” includes any rehearsal, sound and light testing and other ancillary activities necessary and incidental to an event;
+
+“event organiser”, for an event, means a person who is responsible (whether fully or substantially) for the organisation and holding of the event and the receipt of revenue from the event (if any);
+
+[Act 23 of 2017 wef 01/10/2017]
 
 “permit” means a permit granted under section 7 in respect of a public assembly or public procession;
 
@@ -208,13 +228,17 @@ and includes any assembly held in conjunction with such procession, and a march 
 
 “security officer” means an individual who is a licensed security officer within the meaning of the Private Security Industry Act (Cap. 250A);
 
-“special event” means an event declared under section 21 to be a special event;
+“special event” means an event declared by the Commissioner or the Minister (as the case may be) to be a special event;
 
-“special event area”, in relation to a special event, means, for the period the declaration under section 21 of the event is in force —
+[Act 23 of 2017 wef 01/10/2017]
+
+“special event area”, in relation to a special event, means, for the period the declaration by the Commissioner or the Minister (as the case may be) for the event is in force —
 
 (a) the place or places stated in the declaration as the location or locations at which the event is or is to be; and
 
 (b) any place reasonably incidental to the holding of the event;
+
+[Act 23 of 2017 wef 01/10/2017]
 
 “unrestricted area” means a public place specified in an order made under section 14.
 
@@ -274,7 +298,9 @@ ASSEMBLIES AND PROCESSIONS
 
 (a) an assembly or a procession exempted from this section under section 46; and
 
-(b) an assembly or a procession within any part of an unrestricted area not falling within a special event area.
+(b) an assembly or a procession within any part of an unrestricted area not falling within a special event area of an enhanced security special event.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 ### Advance notice of public assembly or public procession
 
@@ -314,6 +340,24 @@ ASSEMBLIES AND PROCESSIONS
 
 (5) In cases where the Commissioner has decided not to accept shorter notice than is as mentioned in subsection (2), he shall as soon as practicable inform in writing the person purporting to give such notice of his decision.
 
+### Advance notice of events having prescribed crowd size
+
+6A\.—(1) Without affecting section 6, special notice of intention to organise an event (whether or not comprising or involving an assembly or a procession) must be given to the Commissioner in the prescribed manner, with the prescribed information, by any event organiser for the event if the event organiser reasonably expects more than a prescribed number of individuals to participate in or to attend the event at any time during the holding of the event.
+
+(2) Unless the Commissioner accepts shorter notice under subsection (3), special notice under this section must be given not less than the prescribed period —
+
+(a) before the proposed date of the event; or
+
+(b) in the case where the event is to take place during a proposed period, before the beginning of that proposed period.
+
+(3) The Commissioner may, and must in any case where the Commissioner is reasonably satisfied that earlier notice could not have been given, accept shorter notice than is as mentioned in subsection (2).
+
+(4) For the purposes of subsection (1), the Minister may prescribe different numbers of individuals for different classes of events.
+
+(5) An event organiser who fails to comply with subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 23 of 2017 wef 01/10/2017]
+
 ### Permit for public assembly or public procession
 
 7\.—(1) The Commissioner shall, upon receipt of any notice and application under section 6 for a permit in respect of a proposed public assembly or public procession, have regard to the information furnished in the notice and any other information available to him in relation to the proposed public assembly or public procession, as the case may be, and may thereafter either —
@@ -334,9 +378,71 @@ ASSEMBLIES AND PROCESSIONS
 
 (e) cause feelings of enmity, hatred, ill-will or hostility between different groups in Singapore;
 
-(f) glorify the commission or preparation (whether in the past, in the future or generally) of acts of terrorism or any offence or otherwise have the effect of directly or indirectly encouraging or otherwise inducing members of the public to commit, prepare or instigate acts of terrorism or such an offence; or
+(f) glorify the commission or preparation (whether in the past, in the future or generally) of acts of terrorism or any offence or otherwise have the effect of directly or indirectly encouraging or otherwise inducing members of the public to commit, prepare or instigate acts of terrorism or such an offence;
 
-(g) be held within or enter a prohibited area, or an area to which an order or a notification under section 13 applies.
+[Act 23 of 2017 wef 01/10/2017]
+
+(g) be held within or enter a prohibited area, or an area to which an order or a notification under section 13 applies; or
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(h) be directed towards a political end and be organised by, or involve the participation of, any of the following persons:
+
+(i) an entity that is not a Singapore entity;
+
+(ii) an individual who is not a citizen of Singapore.
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(3) In this section —
+
+“directed towards a political end” means —
+
+(a) promoting the interests of a political party or other group of persons organised, in Singapore or elsewhere, for political objects;
+
+(b) influencing, or seeking to influence, the outcome of elections or referendums, whether in Singapore or elsewhere;
+
+(c) influencing, or seeking to influence, the policies or decisions of national or regional governments, whether in Singapore or elsewhere;
+
+(d) influencing, or seeking to influence, the policies or decisions of persons on whom public functions are conferred by or under the law of Singapore or of a country or territory outside Singapore;
+
+(e) influencing, or seeking to influence, the policies or decisions of persons on whom functions are conferred by or under international agreements;
+
+(f) influencing, or seeking to influence, public opinion on a matter which, in Singapore or elsewhere, is a matter of public controversy;
+
+(g) bringing about, or seeking to bring about, changes of the law in the whole or a part of Singapore or elsewhere, or otherwise influencing, or seeking to influence, the legislative process in Singapore or elsewhere; or
+
+(h) promoting or opposing political views, or public conduct relating to activities that have become the subject of a political debate, in Singapore or elsewhere;
+
+“Singapore entity” means a Singapore‑controlled corporation, a Singapore‑controlled partnership or a Singapore‑controlled unincorporated association;
+
+“Singapore‑controlled corporation” means a body corporate that —
+
+(a) is incorporated under any written law in Singapore;
+
+(b) has a management body (called an executive, a board of directors or otherwise), the majority of whose members (called directors, partners or otherwise) are citizens of Singapore; and
+
+(c) has a majority of members who are citizens of Singapore or Singapore entities or, in the case of a company having a share capital, the majority of whose shares are held by citizens of Singapore or Singapore entities;
+
+“Singapore‑controlled partnership” means —
+
+(a) a firm registered under the Business Names Registration Act 2014 (Act 29 of 2014) in Singapore, the majority of whose partners are citizens of Singapore or one or more Singapore entities; or
+
+(b) a limited partnership registered under the Limited Partnerships Act (Cap. 163B) in Singapore —
+
+(i) the majority of whose general partners as defined in that Act are citizens of Singapore or Singapore entities; and
+
+(ii) the majority of whose limited partners as defined in that Act are citizens of Singapore or Singapore entities;
+
+“Singapore‑controlled unincorporated association” means an unincorporated association that —
+
+(a) is formed in Singapore under any written law;
+
+(b) has a management body (called a committee, council or otherwise), the majority of whose members are citizens of Singapore; and
+
+(c) has a majority of members who are citizens of Singapore or Singapore entities.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 ### Conditions applying to public assembly or public procession
 
@@ -346,7 +452,9 @@ ASSEMBLIES AND PROCESSIONS
 
 (b) good order and public safety shall be maintained throughout the assembly or procession, as the case may be.
 
-(2) In granting a permit for a public assembly or public procession, the Commissioner may impose on the organisers of, and the persons taking part in, the assembly or procession such conditions specified in the permit and relating to the assembly or procession as in the Commissioner’s opinion are necessary to prevent the assembly or procession, as the case may be, being carried out to result in anything referred to in section 7(2)(a) to (g).
+(2) In granting a permit for a public assembly or public procession, the Commissioner may impose on the organisers of, and the persons taking part in, the assembly or procession such conditions specified in the permit and relating to the assembly or procession as in the Commissioner’s opinion are necessary to prevent the assembly or procession, as the case may be, being carried out to result in anything referred to in section 7(2)(a) to (h).
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (3) Without prejudice to the generality of subsection (2), the conditions may, in particular, impose requirements as to —
 
@@ -358,13 +466,15 @@ ASSEMBLIES AND PROCESSIONS
 
 (d) the place or places where the public assembly or public procession may, or may not, be carried on.
 
-(4) The Commissioner may, if he reasonably believes that it is necessary in order to prevent anything referred to in section 7(2)(a) to (g) from happening —
+(4) The Commissioner may, if he reasonably believes that it is necessary in order to prevent anything referred to in section 7(2)(a) to (h) from happening —
 
 (a) impose additional conditions on those organising or taking part in an assembly or a procession authorised by a permit; or
 
 (b) amend any condition previously imposed under subsection (2) or paragraph (a),
 
 and the senior police officer may give directions to those organising or taking part in the assembly or procession to ensure the due observance of any condition imposed under subsection (2).
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (5) Any reference in this Act to a condition imposed under subsection (2) shall, except where the context otherwise requires, include reference to an additional condition or amendment to such a condition imposed under subsection (4).
 
@@ -504,7 +614,9 @@ it is necessary in the public interest to do so, he may, with the concurrence of
 
 (ii) in the case of a procession, along a route which differs from the route specified in relation to the procession in the notice given under section 6; or
 
-(c) which is not in compliance with any condition imposed under section 8(2) on persons taking part in that assembly or procession,
+(c) which is not in compliance with any condition imposed under section 8(2) on persons organising that assembly or procession,
+
+[Act 23 of 2017 wef 01/10/2017]
 
 shall be guilty of an offence and shall, subject to subsection (3), be liable on conviction to a fine not exceeding $5,000.
 
@@ -548,7 +660,9 @@ on at least one other occasion within the period of 5 years immediately before t
 
 (a) an assembly or a procession exempted from this section under section 46; and
 
-(b) an assembly or a procession within an unrestricted area not falling within a special event area.
+(b) an assembly or a procession within an unrestricted area not falling within a special event area of an enhanced security special event.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 ### Defences
 
@@ -610,7 +724,7 @@ SPECIAL EVENTS SECURITY
 
 “entrant”, in relation to a special event area, means a person who is about to enter or is in the area;
 
-“event organiser”, in relation to an event, means a person who is responsible (whether fully or substantially) for the organisation and holding of the event and the receipt of revenue from the event (if any);
+[Deleted by Act 23 of 2017 wef 01/10/2017]
 
 “garment” includes a cloak, coat or shirt;
 
@@ -652,55 +766,97 @@ SPECIAL EVENTS SECURITY
 
 “X-ray machine” means a device through which a person’s belongings are passed and X-rayed.
 
-### Declaration of special event
+### Declaration of special event by Commissioner
 
-21\.—(1) Subject to subsections (2) and (3), the Minister may declare an event to be a special event for the purposes of this Part.
+21\.—(1) Subject to subsections (2) and (3) and section 21A, the Commissioner may declare an event to be a special event for the purposes of this Part.
 
-(2) In deciding whether to make a declaration, the Minister shall have regard to —
+(2) In deciding whether to make a declaration and the scope of the declaration, the Commissioner is to have regard to —
 
-(a) the nature of the event;
+(a) the size of the event;
 
-(b) the number and kind of people expected to attend the event;
+(b) the number and prominence of persons who are likely to attend the event;
 
-(c) Singapore’s obligations for holding the event; and
+(c) the likely media coverage of the event;
 
-(d) any other relevant matter.
+(d) the likely contribution that the event will make to Singapore;
 
-(3) The Minister may make a declaration only if he is satisfied —
+(e) the commercial arrangements for the event;
 
-(a) that the declaration is necessary for preserving public order and the safety of individuals involved in the event and other individuals and for the avoidance of disruptions to the event; and
+(f) the event management experience and expertise of the event organiser;
 
-(b) that either —
+(g) the factors affecting the operational organisation of the event, including measures taken or to be taken by the event organiser in relation to the planning of the event, such as —
 
-(i) there is a reasonable likelihood that the event may be disrupted if the powers in sections 24 to 30 are not exercised;
+(i) preparation of traffic and transport management plans;
 
-(ii) the exercise of the powers is necessary because of the need to protect persons involved in or at the event;
+(ii) emergency management plans;
 
-(iii) the exercise of the powers is required as a condition of holding the event in Singapore; or
+(iii) security plans and consultation with police and emergency services; and
 
-(iv) there is a reasonable likelihood that the event because of its nature might be at risk of an act of terrorism.
+(iv) crowd management;
+
+(h) Singapore’s obligations for holding the event; and
+
+(i) any other relevant factor.
+
+(3) The Commissioner may make a declaration only if the Commissioner is satisfied that the declaration is necessary —
+
+(a) for preserving public order and the safety of individuals involved in the event and other individuals; and
+
+(b) for the avoidance of disruptions to the event.
 
 (4) A declaration under subsection (1) must —
 
-(a) contain a brief description of the event to which it applies, whether by means of a description, map or other document;
+(a) contain a brief description of the event to which the declaration applies, whether by means of a description, map or other document;
 
-(b) state the proposed time and date of the event or the proposed period in which the event is to take place, and the location of the special event area for the event;
+(b) state the proposed date and time of the event or the proposed period in which the event is to take place, and the location of the special event area for the event; and
 
-(c) state the period (not exceeding 3 years) for which the declaration is in force; and
+(c) state the period (not exceeding 3 years) for which the declaration is in force.
 
-(d) be published in theGazette.
+(5) Once such a declaration is made in respect of an event, the Commissioner must give a copy of the declaration to the event organiser of the event.
 
-(5) Once such a declaration is made, the Minister shall, within 7 days thereafter and before the date the declaration comes into force, cause to be published a notice of the making of the declaration, describing briefly the event and the special event area in such manner as will secure adequate publicity for the declaration.
+(6) Unless sooner revoked, a declaration expires on the date, and at the time (if any) stated in, or worked out in accordance with the declaration.
 
-(6) Failure to comply with subsection (5) in respect of any declaration shall not invalidate the declaration.
+(7) At any time before the declaration in respect of a special event comes into force, the Commissioner may, by informing the event organiser of the event, amend all or any of the following:
 
-(7) Unless sooner revoked, a declaration shall expire on the date, and at the time (if any) stated in, or worked out in accordance with the declaration.
+(a) the description of the location of the special event area to which the declaration applies;
 
-(8) At any time before a declaration comes into force, the Minister may amend the description of the location of the special event area to which the declaration applies by publishing the amendment in theGazette; and notice of the amendment describing briefly the changes therein shall be published as soon as practicable in such manner as will secure adequate publicity for the amended declaration.
+(b) the date and time of the special event or the proposed period in which the special event is to take place;
+
+(c) the period (not exceeding 3 years) for which the declaration is in force.
+
+(8) To avoid doubt, more than one declaration under this section may be made in respect of the same event.
+
+[Act 23 of 2017 wef 01/10/2017]
+
+### Enhanced security special event declared by Minister
+
+21A\.—(1) Where the Minister is satisfied, in relation to any event, that any of the following applies:
+
+(a) there is a reasonable likelihood that the event may be disrupted if all or any of the powers in sections 24 to 29 and section 32A are not exercised;
+
+(b) the exercise of all or any of those powers is necessary because of the need to protect persons involved in or at the event;
+
+(c) the exercise of all or any of those powers is required as a condition of holding the event in Singapore;
+
+(d) there is a reasonable likelihood that the event might be the subject of an act of terrorism because of the nature of the event, or the attendance or likely attendance of prominent persons or a large number of people,
+
+the Minister may give directions to the Commissioner requiring the Commissioner to refer the event, or a class of similar events, specified in the direction, to the Minister for deciding whether to make a declaration, and the scope of the declaration, under section 21 instead of the Commissioner, and every such event, or event in the class, specified must then be so referred to the Minister.
+
+(2) In deciding whether to make a declaration, and the scope of the declaration, under section 21, in relation to any event specified in a direction under subsection (1), the Minister has all the functions and powers of the Commissioner under section 21, and a reference in that section to the Commissioner accordingly includes a reference to the Minister.
+
+(3) A declaration made by the Minister under section 21 read with this section must be published in theGazette.
+
+(4) Once such a declaration is made, the Minister must, within 7 days after the making of the declaration and before the date the declaration comes into force, cause to be published a notice of the making of the declaration, describing briefly the event and the special event area for that event in such manner as will secure adequate publicity for the declaration.
+
+(5) If the Minister, by virtue of this section read with section 21(7), makes any amendment to the declaration for an enhanced security special event, the Minister must publish the amended declaration in theGazette; and a notice describing briefly the amendment must be published as soon as practicable in such manner as will secure adequate publicity for the amended declaration.
+
+(6) However, failure to publish a notice under subsection (4) or (5) in respect of any declaration or amended declaration by the Minister does not invalidate the declaration.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 ### Statutory conditions of entry
 
-22\.—(1) At any time after a declaration is made in respect of a special event and the special event area for that event, the Commissioner may, with the approval of the Minister, determine that any or all of the following conditions apply to the special event area:
+22\.—(1) At any time after a declaration is made in respect of an enhanced security special event and the special event area for that event, the Commissioner may, with the approval of the Minister, determine that any or all of the following conditions apply to the special event area:
 
 (a) that a person seeking to enter or in the special event area must, if asked by a police officer or an approved person, permit an inspection to be made of his personal property;
 
@@ -710,7 +866,9 @@ SPECIAL EVENTS SECURITY
 
 (d) that a person seeking to enter or in the special event area must comply with any lawful order of a police officer or an approved person regarding the entrant’s entry into and remaining in that area.
 
-(2) Once any such determination is made in respect of a special event and its special event area, the Commissioner shall, by notification published in theGazette, specify —
+[Act 23 of 2017 wef 01/10/2017]
+
+(2) Once any such determination is made in respect of an enhanced security special event and its special event area, the Commissioner shall, by notification published in theGazette, specify —
 
 (a) the places, if any, at which a police officer or an approved person may exercise specified powers under sections 24 to 29;
 
@@ -718,21 +876,35 @@ SPECIAL EVENTS SECURITY
 
 (c) any other conditions that apply to entry to the special event area or any part of it.
 
-(3) Any notification under subsection (2) in respect of a special event and its special event area shall be made and published at least 7 days before the proposed date of the special event or, in the case where the special event is to take place during a proposed period, the beginning of that proposed period.
+[Act 23 of 2017 wef 01/10/2017]
 
-(4) Once such a notification under subsection (2) is published, the Commissioner shall, within 7 days thereafter and before the proposed date of the special event or, in the case where the special event is to take place during a proposed period, the beginning of that proposed period, cause to be published a copy of the notification in such manner as will secure adequate publicity for it.
+(3) Any notification under subsection (2) in respect of an enhanced security special event and its special event area shall be made and published at least 7 days before the proposed date of the enhanced security special event or, in the case where the enhanced security special event is to take place during a proposed period, the beginning of that proposed period.
 
-(5) The Commissioner may at any time amend the notification under subsection (2) relating to a special event and special event area; and notice of the amendment describing briefly the changes therein shall be published as soon as practicable in such manner as will secure adequate publicity for the amended declaration.
+[Act 23 of 2017 wef 01/10/2017]
+
+(4) Once such a notification under subsection (2) is published, the Commissioner shall, within 7 days thereafter and before the proposed date of the enhanced security special event or, in the case where the enhanced security special event is to take place during a proposed period, the beginning of that proposed period, cause to be published a copy of the notification in such manner as will secure adequate publicity for it.
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(5) The Commissioner may at any time amend the notification under subsection (2) relating to an enhanced security special event and special event area; and notice of the amendment describing briefly the changes therein shall be published as soon as practicable in such manner as will secure adequate publicity for the amended declaration.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 ### Tickets sellers to inform of statutory conditions of entry
 
-23\.—(1) If any person who sells tickets to an event has reasonable grounds for believing that the event may be declared a special event, the person shall take reasonable steps to tell a person, before the person buys tickets to the event, that statutory conditions of entry may apply to the event.
+23\.—(1) If any person who sells tickets to an event has reasonable grounds for believing that the event may be declared a special event by the Minister, the person shall take reasonable steps to tell a person, before the person buys tickets to the event, that statutory conditions of entry may apply to the event.
 
-(2) If an event has been declared a special event under section 21, the person who sells tickets to the event must take reasonable steps to tell a person, before the person buys tickets to the event, the statutory conditions of entry that apply to the event.
+[Act 23 of 2017 wef 01/10/2017]
+
+(2) If an event has been declared a special event by the Minister, the person who sells tickets to the event must take reasonable steps to tell a person, before the person buys tickets to the event, the statutory conditions of entry that apply to the event.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 ### Inspection of personal property, etc., as condition of entry
 
-24\.—(1) This section shall apply only if the notification under section 22(2) relating to the special event to be held at a special event area states that it is a condition of entry to the special event area that an entrant to the area must, if asked by a police officer or an approved person, permit an inspection to be made of the entrant’s personal property.
+24\.—(1) This section shall apply only if the notification under section 22(2) relating to the enhanced security special event to be held at a special event area states that it is a condition of entry to the special event area that an entrant to the area must, if asked by a police officer or an approved person, permit an inspection to be made of the entrant’s personal property.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (2) Subject to subsection (3), a police officer or an approved person may ask the entrant to do one or more of the following:
 
@@ -756,7 +928,9 @@ SPECIAL EVENTS SECURITY
 
 ### Search of person
 
-25\.—(1) This section shall apply only if the notification under section 22(2) relating to the special event to be held at a special event area states that it is a condition of entry to the special event area that an entrant to the area must, if asked by a police officer, permit a search to be made of the person.
+25\.—(1) This section shall apply only if the notification under section 22(2) relating to the enhanced security special event to be held at a special event area states that it is a condition of entry to the special event area that an entrant to the area must, if asked by a police officer, permit a search to be made of the person.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (2) A police officer may ask a person to permit a search of the person where —
 
@@ -768,7 +942,9 @@ SPECIAL EVENTS SECURITY
 
 ### Prohibited items
 
-26\.—(1) This section shall apply only if the notification under section 22(2) relating to the special event to be held at a special event area states that it is a condition of entry to the special event area that an entrant must not take into or possess in the special event area a prohibited item.
+26\.—(1) This section shall apply only if the notification under section 22(2) relating to the enhanced security special event to be held at a special event area states that it is a condition of entry to the special event area that an entrant must not take into or possess in the special event area a prohibited item.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (2) A person shall not take a prohibited item into a special event area, unless the person has the express permission of a police officer to do so.
 
@@ -808,15 +984,17 @@ to enter the special event area.
 
 (4) It shall not be an offence under this section if the person disposes of the prohibited item before entering the special event area.
 
-### Security screening at special event area
+### Security screening at special event area of enhanced security special event
 
-27\.—(1) This section shall apply if the security system for a special event area involves the use of screening devices, such as (but not limited to) the following:
+27\.—(1) This section shall apply if the security system for a special event area of an enhanced security special event involves the use of screening devices, such as (but not limited to) the following:
 
 (a) a walk-through detector;
 
 (b) an X-ray machine;
 
 (c) a hand-held scanner.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (2) A police officer or an approved person may ask an entrant to a special event area to undergo any form of security screening, including doing one or more of the following:
 
@@ -830,21 +1008,29 @@ to enter the special event area.
 
 (3) Any person who fails to comply with the request of a police officer or an approved person under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Power to require reasons for entry to special event area
+[Act 23 of 2017 wef 01/10/2017]
 
-28\.—(1) A police officer or an approved person may ask an entrant to a special event area to state the person’s name and residence and his reason for being in, or about to enter, the area.
+### Power to require reasons for entry to special event area of enhanced security special event
+
+28\.—(1) A police officer or an approved person may ask an entrant to a special event area of an enhanced security special event to state the person’s name and residence and his reason for being in, or about to enter, the area.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (2) If the person fails to comply with the request of a police officer or an approved person under subsection (1), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
 (3) In this section, “residence”, in relation to a person, means the address of the place where the person usually lives in Singapore.
 
-### Refusal of entry and removal from special event area
+[Act 23 of 2017 wef 01/10/2017]
+
+### Refusal of entry and removal from special event area of enhanced security special event
 
 29\.—(1) This section shall apply if —
 
 (a) the entrant fails to comply with a request of a police officer or an approved person made under this Part;
 
-(b) the entrant fails to satisfy a police officer or an approved person that the entrant has a good and lawful reason to be at the special event area or a particular part of it; or
+(b) the entrant fails to satisfy a police officer or an approved person that the entrant has a good and lawful reason to be at the special event area of an enhanced security special event or a particular part of it; or
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (c) a police officer or an approved person reasonably suspects that the entrant is about to commit, has committed or is committing an offence under section 26(3), 31 or 32.
 
@@ -855,6 +1041,8 @@ to enter the special event area.
 (b) if the entrant is about to enter the special event area — a police officer or an approved person may by direction refuse him entry to the special event area.
 
 (3) If a person contravenes any direction given by a police officer or an approved person under subsection (2)(a) or (b) to leave a special event area, or attempts to enter or re-enter the special event area contrary to such a direction, a police officer may use such force as is reasonable and necessary to arrest and detain the person for the purpose of removing the person from or preventing his entry or re-entry to the special event area, or to remove the person from the area, as the case may be.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 ### Directions to event organiser
 
@@ -868,15 +1056,33 @@ to enter the special event area.
 
 (c) to arrange for the removal of a vehicle from, or the movement of a vehicle within, the special event area;
 
-(d) to give access or priority of access to the public to specified kinds of facilities, amenities or services provided by the event organiser; or
+(d) to give access or priority of access to the public to specified kinds of facilities, amenities or services provided by the event organiser;
 
-(e) to cease, either wholly or to the extent specified in the direction, any activity on the special event area or part thereof.
+[Act 23 of 2017 wef 01/10/2017]
+
+(e) to cease, either wholly or to the extent specified in the direction, any activity on the special event area or part thereof;
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(f) to implement security measures during the holding of the special event, such as the deployment of security personnel and the security screening of persons and vehicles;
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(g) to change the venue of the special event, or to cancel or postpone the special event; or
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(h) to inform any person attending or intending to attend the special event of any matter mentioned in paragraph (g), or that requires the person to observe certain conduct at the special event, or such other matter in relation to the event, in such form and manner as the Commissioner may determine.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (3) The manner in which that access, or priority of access, is to be given shall be set out in the direction under subsection (1).
 
 (4) The terms and conditions on which that access, or priority of access, is to be given shall be set out in the direction under subsection (1).
 
-(5) An event organiser who, without reasonable excuse, fails to comply with any written direction given under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+(5) An event organiser who, without reasonable excuse, fails to comply with any written direction given under subsection (1) or as modified under subsection (7A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (6) Notwithstanding subsection (5), no event organiser shall, by virtue of this section, be guilty of an offence of failing to comply with a written direction containing requirements mentioned in subsection (2)(a) or (b) if the event organiser —
 
@@ -884,7 +1090,7 @@ to enter the special event area.
 
 (b) within 7 days after service on him of a notice alleging that he has been guilty of the offence, furnishes by declaration to the Commissioner, the name and address of the person who is the owner of the gate, door, fence, platform, staging, hoarding or other structure, or the stairs, steps, aisle, gangway, overpass, underpass, bridge, passage, entry, exit or other thoroughfare, as the case may be.
 
-(7) Upon receipt of a declaration under subsection (6), the Commissioner may, with the approval of the Minister, during the period a declaration relating to that special event is in force, give another written direction in writing requiring the person named in the declaration under subsection (6) as the owner of —
+(7) Upon receipt of a declaration under subsection (6), the Commissioner may, during the period a declaration relating to that special event is in force, give another written direction in writing requiring the person named in the declaration under subsection (6) as the owner of —
 
 (a) the gate, door, fence, platform, staging, hoarding or other structure; or
 
@@ -892,9 +1098,29 @@ to enter the special event area.
 
 specified in the written direction to the event organiser (referred to as the original direction) requiring that owner to do, or not to do, such things as are specified in the original direction or are of a description as specified therein as necessary for preserving public order and the safety of individuals involved in the special event and other individuals and for the avoidance of disruptions to the special event.
 
-(8) If, after the expiration of 7 days from the date of the written direction under subsection (7), the owner to whom the written direction is given fails, without reasonable excuse, to comply with the written direction, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+[Act 23 of 2017 wef 01/10/2017]
 
-(9) In subsections (6), (7) and (8), “owner”, in relation to any gate, door, fence, platform, staging, hoarding or other structure, or stairs, steps, aisle, gangway, overpass, underpass, bridge, passage, entry, exit or other thoroughfare, in any premises means —
+(7A) The Commissioner may, without affording an opportunity to be heard, modify any written direction given under subsection (1) or (7) for any purpose mentioned in that subsection.
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(7B) The Commissioner must first obtain the approval of the Minister if, in relation to an enhanced security special event, the Commissioner gives, or modifies, a written direction containing the requirement mentioned in subsection (2)(g) or (7).
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(8) If, after the expiration of 7 days from the date of the written direction given under subsection (7) or as modified under subsection (7A), the owner to whom the written direction is given fails, without reasonable excuse, to comply with the written direction, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(8A) Where an event organiser or an owner fails to comply with any requirement in a written direction given under subsection (1) or (7), respectively (or as modified under subsection (7A)), the Commissioner may, if satisfied that the failure is likely to pose a risk to the safety of individuals involved in the special event and other individuals, take such measures and do such work as may be necessary to give effect to the written direction.
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(8B) The Commissioner may recover all costs and expenses reasonably incurred under subsection (8A) from the event organiser, or the owner, in default, as a civil debt due to the Government.
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(9) In subsections (6), (7), (8), (8A) and (8B), “owner”, in relation to any gate, door, fence, platform, staging, hoarding or other structure, or stairs, steps, aisle, gangway, overpass, underpass, bridge, passage, entry, exit or other thoroughfare, in any premises means —
 
 (a) except as otherwise provided in paragraph (b) or (c) — the person for the time being receiving the rent of the premises, whether on his own account or as agent or trustee or as receiver, or who would receive the same if the premises were let to a tenant and includes a mortgagee in possession;
 
@@ -908,45 +1134,65 @@ specified in the written direction to the event organiser (referred to as the or
 
 (c) where the gate, door, fence, platform, staging, hoarding or other structure, or the stairs, steps, aisle, gangway, overpass, underpass, bridge, passage, entry, exit or other thoroughfare, is part of the common property of any housing estate of the Housing and Development Board — that Board or the Town Council established under the Town Councils Act (Cap. 329A) for that housing estate.
 
-### Unauthorised entry to special event area, etc.
+[Act 23 of 2017 wef 01/10/2017]
 
-31\.—(1) A person shall not enter or remain in a special event area unless the person —
+### Unauthorised entry to special event area of enhanced security special event, etc.
+
+31\.—(1) A person shall not enter or remain in a special event area of an enhanced security special event unless the person —
 
 (a) has the consent of the event organiser; and
 
 (b) is otherwise authorised to enter or remain at the area under this Act.
 
+[Act 23 of 2017 wef 01/10/2017]
+
 (2) A person who —
 
 (a) contravenes subsection (1); or
 
-(b) contravenes any direction given by a police officer or an approved person under section 29(2) to leave a special event area, or attempts to enter or re-enter the special event area contrary to such a direction,
+(b) contravenes any direction given by a police officer or an approved person under section 29(2) to leave a special event area of an enhanced security special event, or attempts to enter or re-enter the special event area contrary to such a direction,
+
+[Act 23 of 2017 wef 01/10/2017]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Interference with special event, etc.
+[Act 23 of 2017 wef 01/10/2017]
 
-32\.—(1) If a person in a special event area —
+### Interference with enhanced security special event, etc.
+
+32\.—(1) If a person in a special event area of an enhanced security special event —
 
 (a) engages in violent behaviour;
 
-(b) disrupts, interferes with, delays or obstructs the conduct of a special event, or any activity associated with the special event, by throwing anything or in any other way; or
+(b) disrupts, interferes with, delays or obstructs the conduct of an enhanced security special event, or any activity associated with the enhanced security special event, by throwing anything or in any other way; or
 
-(c) in any other way interferes with the reasonable enjoyment of a special event, or an activity associated with the special event, by someone else,
+[Act 23 of 2017 wef 01/10/2017]
+
+(c) in any other way interferes with the reasonable enjoyment of an enhanced security special event, or an activity associated with the enhanced security special event, by someone else,
+
+[Act 23 of 2017 wef 01/10/2017]
 
 he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [Act 16 of 2015 wef 01/06/2015]
 
-(2) If a person (whether in or outside a special event area) operates an unmanned aircraft in a manner —
+[Act 23 of 2017 wef 01/10/2017]
 
-(a) that disrupts, interferes with, delays or obstructs the conduct of a special event, or any activity associated with the special event; or
+(2) If a person (whether in or outside a special event area of an enhanced security special event) operates an unmanned aircraft in a manner —
 
-(b) that interferes with the reasonable enjoyment of a special event, or an activity associated with the special event,
+(a) that disrupts, interferes with, delays or obstructs the conduct of an enhanced security special event, or any activity associated with the enhanced security special event; or
+
+[Act 23 of 2017 wef 01/10/2017]
+
+(b) that interferes with the reasonable enjoyment of an enhanced security special event, or an activity associated with the enhanced security special event,
+
+[Act 23 of 2017 wef 01/10/2017]
 
 the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [Act 16 of 2015 wef 01/06/2015]
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (3) In proceedings for an offence under subsection (2) —
 
@@ -956,19 +1202,25 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 [Act 16 of 2015 wef 01/06/2015]
 
+[Act 23 of 2017 wef 01/10/2017]
+
 ### Interception, etc., of unmanned aircraft
 
 32A\.—(1) Where an authorised person has reason to believe that an unmanned aircraft is being operated in a manner —
 
 (a) that contravenes section 26(2) or (2A) or 32(2); or
 
-(b) that poses a serious and an imminent risk to the security or safety of persons lawfully attending a special event,
+(b) that poses a serious and an imminent risk to the security or safety of persons lawfully attending an enhanced security special event,
+
+[Act 23 of 2017 wef 01/10/2017]
 
 the authorised person may, subject to subsection (3), exercise all or any of the powers in subsection (2) in relation to the unmanned aircraft for either purpose:
 
 (i) preventing further contravention of section 26(2) or (2A) or 32(2);
 
-(ii) preventing or stopping any actual or imminent occurrence that endangers or threatens to endanger the security or safety of persons lawfully attending a special event.
+(ii) preventing or stopping any actual or imminent occurrence that endangers or threatens to endanger the security or safety of persons lawfully attending an enhanced security special event.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 (2) For the purposes of subsection (1), the powers that may be exercised by an authorised person in relation to an unmanned aircraft are without warrant —
 
@@ -1020,7 +1272,9 @@ the authorised person may, subject to subsection (3), exercise all or any of the
 
 ### Saving of operation of Part II
 
-33\. Notwithstanding anything in Part II, no public assembly and no public procession of any class or description (whether or not exempted from section 5 under section 46, and whether or not excluded from any prohibition under section 12(2)) shall take place within any special event area for such period as the declaration relating to the special event area is in force unless the Commissioner is notified under section 6 of the intention to hold the public assembly or public procession, and a permit is granted under section 7 in respect of that public assembly or public procession, as the case may be; and the provisions of Part II shall apply to such a public assembly and public procession.
+33\. Notwithstanding anything in Part II, no public assembly and no public procession of any class or description (whether or not exempted from section 5 under section 46, and whether or not excluded from any prohibition under section 12(2)) shall take place within any special event area of an enhanced security special event for such period as the declaration relating to the special event area is in force unless the Commissioner is notified under section 6 of the intention to hold the public assembly or public procession, and a permit is granted under section 7 in respect of that public assembly or public procession, as the case may be; and the provisions of Part II shall apply to such a public assembly and public procession.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 ## PART IV
 
@@ -1172,9 +1426,17 @@ and includes any part of a film, and any copy or part of a copy of the whole or 
 
 and includes any part of a picture.
 
-### Obstruction of police officers under section 29 or 38
+### Obstruction of police officers under section 29 or 38 or Commissioner under section 30(8A)
 
-39\. Any person who wilfully obstructs any police officer in the exercise of any power conferred by or under section 29(3) or 38(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+39\. Any person who wilfully obstructs —
+
+(a) any police officer in the exercise of any power conferred by or under section 29(3) or 38(2); or
+
+(b) the Commissioner in the exercise of the power conferred by or under section 30(8A),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 23 of 2017 wef 01/10/2017]
 
 ## PART V
 
@@ -1352,6 +1614,10 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (2) Notwithstanding subsection (1), nothing in this Act shall affect the common law of trespass and, in particular, the right of a person in, or entitled to, possession of land to request a trespasser to leave the land, and if the trespasser refuses to leave on being requested, to remove the trespasser from the land.
 
+(3) To avoid doubt, nothing in Part III affects the operation of the provisions of the Liquor Control (Supply and Consumption) Act 2015 (Act 5 of 2015) in relation to any Liquor Control Zone declared under section 15(1) of that Act that falls wholly or partly within a special event area.
+
+[Act 23 of 2017 wef 01/10/2017]
+
 ### Saving and transitional provisions
 
 49\.—(1) Any —
@@ -1431,6 +1697,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|1 August 2017|
+|6.|**Act 23 of 2017—Public Order (Amendment) Act 2017**|
+||Date of First Reading|9 March 2017 (Bill No. 16/2017 published on 9 March 2017)|
+||Date of Second and Third Readings|3 April 2017|
+||Date of commencement|1 October 2017|
 ## COMPARATIVE TABLE
 
 Public Order Act
