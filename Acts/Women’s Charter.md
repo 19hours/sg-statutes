@@ -1320,9 +1320,11 @@ are being heard shall consider, from time to time, the possibility of a reconcil
 
 [Act 7 of 2016 wef 01/07/2016]
 
-(3) Failure to comply with any direction or advice referred to in subsection (2) does not constitute a contempt of court.
+(3) Despite the provisions of the Administration of Justice (Protection) Act 2016, failure to comply with any direction or advice referred to in subsection (2) does not constitute a contempt of court.
 
 [30/96]
+
+[Act 19 of 2016 wef 01/10/2017]
 
 (3A) A court before which any proceedings under Part X are being heard shall, where the proceedings involve such classes of persons (being persons who have children to the marriage) as may be prescribed by the Minister, do either or both of the following:
 
@@ -1620,9 +1622,7 @@ but does not include any force lawfully used in self-defence, or by way of corre
 
 [30/96]
 
-(9) Any failure to comply with an order made by virtue of subsection (5)(b) shall be punishable as a contempt of court.
-
-[30/96]
+(9) [Deleted by Act 19 of 2016 wef 01/10/2017]
 
 (10) [Deleted by Act 7 of 2016 wef 01/07/2016]
 
@@ -3170,9 +3170,7 @@ issue an injunction restraining the other parent from taking the child out of Si
 
 [Act 7 of 2016 wef 01/07/2016]
 
-(3) Failure to comply with an order made under this section shall be punishable as a contempt of court.
-
-[42/2005]
+(3) [Deleted by Act 19 of 2016 wef 01/10/2017]
 
 ### Power of court to set aside and prevent dispositions intended to defeat claims to maintenance
 
@@ -4514,3 +4512,7 @@ This Legislative History is provided for the convenience of users of the Womenâ€
 ||Date of First Reading|26 January 2016 (Bill No. 6/2016 published on 26 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 January 2017|
+|31.|**Act 19 of 2016â€”Administration of Justice (Protection) Act 2016**|
+||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
+||Date of Second and Third Readings|15 August 2016|
+||Date of commencement|1 October 2017|
