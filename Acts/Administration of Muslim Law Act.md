@@ -110,7 +110,7 @@
 
 - [45 Time](#Time)
 
-- [46 Court to be open](#Court-to-be-open)
+- [46 Sittings in camera, etc.](#Sittings-in-camera-etc)
 
 - [47 Divorce at wife’s request](#Divorce-at-wife’s-request)
 
@@ -131,6 +131,10 @@
 - [53B Costs](#Costs)
 
 - [54 Presumption of death](#Presumption-of-death)
+
+- [54A Unauthorised audio or visual recording in Court](#Unauthorised-audio-or-visual-recording-in-Court)
+
+- [54B Contemptuous behaviour](#Contemptuous-behaviour)
 
 - [55 Appeal](#Appeal)
 
@@ -280,9 +284,9 @@
 
 - [115 Inheritance certificate](#Inheritance-certificate)
 
-- [116 Administration of husband’s estate](#Administration-of-husband’s-estate)
+- [116 Administration of estate of Muslim dying intestate](#Administration-of-estate-of-Muslim-dying-intestate)
 
-- [117 Administration of wife’s estate](#Administration-of-wife’s-estate)
+- [117 (Repealed)](#Repealed)
 
 - [118 Will of married woman](#Will-of-married-woman)
 
@@ -298,7 +302,7 @@
 
 - [124 Effect of marriage on property](#Effect-of-marriage-on-property)
 
-- [125 Household property](#Household-property)
+- [125 (Repealed)](#Repealed)
 
 [**Part VIII CONVERSIONS**](#Part-VIII)
 
@@ -336,7 +340,7 @@
 
 [**Part X MISCELLANEOUS**](#Part-X)
 
-- [141 Registrar, Kadi and Naib Kadi to be public servants](#Registrar-Kadi-and-Naib-Kadi-to-be-public-servants)
+- [141 Public servants and judicial proceedings](#Public-servants-and-judicial-proceedings)
 
 - [142 Witness](#Witness)
 
@@ -706,11 +710,15 @@ MAJLIS UGAMA ISLAM
 
 ### Minutes
 
-21\.—(1) The Secretary shall keep minutes of all meetings of the Majlis in the national language and in English.
+21\.—(1) The Majlis must ensure that minutes of every meeting are kept in the national language or in English.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (2) At every meeting, the minutes of the previous meeting shall be read and confirmed, subject to any amendment which may be required.
 
-(3) Such minutes shall be entered in the minute book of the Majlis and shall include a full record of every resolution of the Majlis.
+(3) Such minutes shall include a full record of every resolution of the Majlis.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (4) A copy of the minutes shall be sent to the President of Singapore.
 
@@ -890,17 +898,21 @@ THE SYARIAH COURT
 
 ### Appointment of registrar and deputy registrar
 
-34B\.—(1) The President of Singapore may appoint a registrar and a deputy registrar of the Court.
+34B\.—(1) The President of Singapore may appoint a registrar and one or more deputy registrars of the Court.
 
 [20/99; 29/2008]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (2) The registrar of the Court shall have such powers and duties as may be prescribed under this Act.
 
 [20/99]
 
-(3) Subject to this Act, the powers and duties of the registrar of the Court may be exercised by the deputy registrar of the Court.
+(3) Subject to this Act, the powers and duties of the registrar of the Court may be exercised by a deputy registrar of the Court.
 
 [29/2008]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Jurisdiction
 
@@ -1054,9 +1066,11 @@ THE SYARIAH COURT
 
 (d) to issue a warrant of arrest to compel the attendance of any person who, after being summoned to attend, fails to do so and who does not excuse such failure to the satisfaction of the Court and to order him to pay all costs which may have been occasioned in compelling his attendance or by reason of his refusal to obey the summons; and
 
-(e) to exercise the powers of a Magistrate’s Court for the purpose of giving effect to a warrant of arrest or an order of imprisonment and of a court under Division 1 of Part XXI of the Criminal Procedure Code 2010.
+(e) to exercise the powers of a Magistrate’s Court for the purpose of giving effect to a warrant of arrest or an order of imprisonment.
 
 [15/2010 wef 02/01/2011]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Adjournment
 
@@ -1068,11 +1082,13 @@ THE SYARIAH COURT
 
 45\. The Court may fix, and may at any time extend or abridge, the time for doing any act or thing, and in default of compliance with any order so made may proceed as if the party in default had not appeared.
 
-### Court to be open
+### Sittings in camera, etc.
 
-46\.—(1) Every trial or hearing in Court shall be held in public.
+46\.—(1) Subject to subsection (2), all matters and proceedings in the Court are to be heard in camera.
 
-(2) The Court may, if it thinks fit, order the whole or any part of any proceeding before it to be heard in camera.
+(2) The Court has power to hear any matter or part of a matter in public, if the Court is satisfied that it is expedient in the interests of justice, or for other sufficient reason to do so.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Divorce at wife’s request
 
@@ -1390,6 +1406,48 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 
 (2) Such certificate shall be deemed to be a certificate of the death of the husband within the meaning of section 97(1)(b)(i).
 
+### Unauthorised audio or visual recording in Court
+
+54A\.—(1) The Court may, in its discretion, grant or refuse permission to use in or bring into the Court a recording device.
+
+(2) The Court may grant permission under subsection (1) subject to such conditions as the Court thinks proper with respect to the use of any recording made pursuant to that permission.
+
+(3) The Court may, in its discretion, withdraw or amend any permission granted under subsection (1), either generally or in relation to any particular part of the proceedings in the Court.
+
+(4) A person shall be guilty of an offence, and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both, if the person —
+
+(a) uses in or brings into the Court any recording device without permission under subsection (1); or
+
+(b) uses any recording made pursuant to permission under subsection (1) in contravention of any conditions of that permission.
+
+(5) This section does not apply to the making or use of any audio or visual recording for the purposes of official transcripts of proceedings or any other purpose authorised by the Court.
+
+(6) In this section, a recording is made pursuant to permission under subsection (1) if the recording is —
+
+(a) an audio or visual recording of proceedings in the Court made by means of a recording device for which that permission was granted; or
+
+(b) any recording derived directly or indirectly from that audio or visual recording.
+
+(7) In this section —
+
+“audio or visual recording” means an audio recording, a visual recording, or a recording that comprises both an audio recording and a visual recording;
+
+“recording device” means any audio recorder, electronic device or other instrument for making an audio or visual recording.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+### Contemptuous behaviour
+
+54B\.—(1) The Court may by oral order exclude from any proceeding in the Court any person whose behaviour, in the opinion of the Court, constitutes any offence mentioned in the following paragraphs, whether or not that person is charged with that offence:
+
+(a) an offence under section 54A(4);
+
+(b) any offence under section 175, 178, 179, 180 or 228 of the Penal Code (Cap. 224) that is committed before the Court in that proceeding.
+
+(2) Any member or officer of the Court, and any police officer, may take such steps as are reasonably necessary to enforce an exclusion under subsection (1).
+
+[Act 33 of 2017 wef 01/10/2017]
+
 ### Appeal
 
 55\.—(1) An appeal shall lie to an Appeal Board constituted under this section from any decision of the Court —
@@ -1414,9 +1472,11 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 
 [20/99]
 
-(3) The President of Singapore acting on the advice of the Majlis shall, at least once in every 2 years, nominate at least 7 Muslims to form a panel of persons from among whom an Appeal Board of 3 may be constituted from time to time by the President of the Majlis.
+(3) The President of Singapore acting on the advice of the Majlis shall, at least once in every 3 years, nominate at least 7 Muslims to form a panel of persons from among whom an Appeal Board of 3 may be constituted from time to time by the President of the Majlis.
 
 [20/99]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (4) On any person appealing against a decision of the Court or applying for leave to appeal in accordance with subsection (1) or (2), the President shall select 3 persons to form an Appeal Board to hear such appeal or application for leave to appeal and shall nominate one of such persons to preside over the Appeal Board.
 
@@ -1442,13 +1502,17 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 
 ### Protection of members of Court or Appeal Board, etc.
 
-56B\.—(1) A member of the Court or an Appeal Board, or the registrar or deputy registrar of the Court, shall not be liable to be sued for any act done by him in the discharge of his judicial duty, whether or not within the limits of his jurisdiction, if he at the time in good faith believed himself to have jurisdiction to do or order the act complained of.
+56B\.—(1) A member of the Court or an Appeal Board, or the registrar or a deputy registrar of the Court, shall not be liable to be sued for any act done by him in the discharge of his judicial duty, whether or not within the limits of his jurisdiction, if he at the time in good faith believed himself to have jurisdiction to do or order the act complained of.
 
 [20/99; 29/2008]
 
-(2) No officer of the Court or any other person expressly authorised by the Court charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the Court shall be liable to be sued for the execution of or attempting to execute the writ, summons, warrant, order, notice or other mandatory process, or in respect of any damage caused to any property in effecting or attempting to effect execution, unless he knowingly acted in excess of the authority conferred upon him by the writ, summons, warrant, order, notice or other mandatory process.
+[Act 33 of 2017 wef 01/10/2017]
+
+(2) An officer of the Court or an Appeal Board, or any other person expressly authorised by the Court or Appeal Board, charged with the duty of executing any writ, summons, warrant, order, notice or other mandatory process of the Court or Appeal Board, as the case may be, is not liable to be sued for the execution of or attempting to execute the writ, summons, warrant, order, notice or other mandatory process, or in respect of any damage caused to any property in effecting or attempting to effect execution, unless he knowingly acted in excess of the authority conferred upon him by the writ, summons, warrant, order, notice or other mandatory process.
 
 [20/99]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (3) The officer or other person referred to in subsection (2) shall not be deemed to have acted knowingly in excess of his authority merely by reason of the existence of a dispute as to the ownership of any property seized under any writ or order of execution.
 
@@ -1482,15 +1546,69 @@ FINANCIAL PROVISIONS
 
 (3) Section 23 of the Civil Law Act (Cap. 43) shall not apply to Muslims who die intestate.
 
-(4) The trustees of the wakaf or nazar am appointed under the instrument creating, governing or affecting the same shall, subject to the provisions of this Act, manage the wakaf or nazar am but the Majlis shall have power to appoint mutawallis, and for such purpose to remove any existing trustees, where it appears to the Majlis that —
+(3A) The appointment, on or after the date of commencement of section 16(a) of the Administration of Muslim Law (Amendment) Act 2017, of a trustee of a wakaf or nazar am, under an instrument or declaration creating, governing or affecting the wakaf or nazar am, is void unless the trustee was appointed with the prior approval in writing of the Majlis.
 
-(a) any wakaf or nazar am has been mismanaged;
+[Act 33 of 2017 wef 01/10/2017]
 
-(b) there are no trustees appointed to the management of the wakaf or nazar am; or
+(4) The trustees of a wakaf or nazar am appointed under an instrument or declaration creating, governing or affecting the wakaf or nazar am, and any mutawalli appointed under subsection (4A), (4B) or (5) for a wakaf or nazar am, must —
 
-(c) it would be otherwise to the advantage of the wakaf or nazar am to appoint a mutawalli.
+(a) manage the wakaf or nazar am subject to the provisions of this Act;
+
+(b) comply with the provisions of any rules made under section 145(1) for the purposes of this section and, in the case of the trustees of a wakaf or a mutawalli appointed for a wakaf, any rules made under section 64(12); and
+
+(c) comply with all the terms and conditions imposed by the Majlis on the trustees concerning the trustees’ appointments, or on the mutawalli concerning the mutawalli’s appointment, as the case may be.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(4A) The Majlis has power to remove, and to appoint a mutawalli in the place of or in addition to, an existing trustee of a wakaf or nazar am appointed under an instrument or declaration creating, governing or affecting the wakaf or nazar am, if it appears to the Majlis that —
+
+(a) the wakaf or nazar am has been mismanaged;
+
+(b) the trustee —
+
+(i) has been convicted, on or after the date of commencement of section 16(b) of the Administration of Muslim Law (Amendment) Act 2017, of any offence under section 64(11);
+
+(ii) has failed to comply with any provision of any rules made under section 145(1) for the purposes of this section or, in the case of a trustee of a wakaf, any rules made under section 64(12); or
+
+(iii) has failed to comply with any term or condition imposed by the Majlis on the trustee concerning the trustee’s appointment; or
+
+(c) it would be to the advantage of the wakaf or nazar am to appoint a mutawalli.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(4B) The Majlis has power to appoint a mutawalli for a wakaf or nazar am if it appears to the Majlis that there is no trustee appointed for the management of the wakaf or nazar am.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (5) The Majlis may at any time remove any mutawalli appointed by it and appoint another in his place.
+
+(6) Without affecting the generality of subsection (5), the Majlis has power to remove any mutawalli appointed by the Majlis for a wakaf or nazar am, if it appears to the Majlis that —
+
+(a) the wakaf or nazar am has been mismanaged;
+
+(b) the mutawalli —
+
+(i) has been convicted, on or after the date of commencement of section 16(c) of the Administration of Muslim Law (Amendment) Act 2017, of any offence under section 64(11);
+
+(ii) has failed to comply with any provision of any rules made under section 145(1) for the purposes of this section or, in the case of a mutawalli appointed for a wakaf, any rules made under section 64(12); or
+
+(iii) has failed to comply with any term or condition imposed by the Majlis on the mutawalli concerning the mutawalli’s appointment; or
+
+(c) it would be to the advantage of the wakaf or nazar am to appoint another mutawalli.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(7) A court must not entertain or proceed with any proceedings relating to the appointment or removal of either of the following:
+
+(a) a trustee of a wakaf or nazar am appointed under an instrument or declaration creating, governing or affecting the wakaf or nazar am;
+
+(b) a mutawalli appointed by the Majlis.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(8) Subsections (3A), (4), (4A) and (7)(a) apply to a trustee of a wakaf or nazar am appointed under an instrument or declaration creating, governing or affecting the wakaf or nazar am, regardless whether the instrument or declaration was made before, on or after the date of commencement of section 16(c) of the Administration of Muslim Law (Amendment) Act 2017.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Vesting of wakaf and nazar am in Majlis
 
@@ -1736,15 +1854,65 @@ MOSQUES AND RELIGIOUS SCHOOLS
 
 (2) Every mosque, together with any immovable property on which it stands or which is appurtenant thereto and used for the purposes thereof, other than State land, shall without any conveyance, assignment or transfer whatever vest in the Majlis for the purposes of this Act.
 
-(3) The trustees of any mosque under any written instrument shall, subject to the provisions of this Act, manage the mosque, but the Majlis shall have power to appoint a mutawalli and for such purpose to remove any existing trustee where it appears to the Majlis that —
+(3) The trustees of a mosque appointed under a written instrument, and any mutawalli appointed under subsection (3A), (3B) or (4) for a mosque, must —
+
+(a) manage the mosque subject to the provisions of this Act;
+
+(b) comply with the provisions of any rules made under section 145(1) for the purposes of this section; and
+
+(c) comply with all the terms and conditions imposed by the Majlis on the trustees concerning the trustees’ appointments, or on the mutawalli concerning the mutawalli’s appointment, as the case may be.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(3A) The Majlis has power to remove, and to appoint a mutawalli in the place of or in addition to, any existing trustee of a mosque appointed under a written instrument, if it appears to the Majlis that —
 
 (a) the mosque has been mismanaged;
 
-(b) there is no trustee appointed for the management of the mosque; or
+(b) the trustee —
 
-(c) it would be otherwise to the advantage of the mosque to appoint a mutawalli.
+(i) has failed to comply with any provision of any rules made under section 145(1) for the purposes of this section; or
+
+(ii) has failed to comply with any term or condition imposed by the Majlis on the trustee concerning the trustee’s appointment; or
+
+(c) it would be to the advantage of the mosque to appoint a mutawalli.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(3B) The Majlis has power to appoint a mutawalli for a mosque if it appears to the Majlis that there is no trustee appointed for the management of the mosque.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (4) The Majlis may at any time remove any mutawalli appointed by it and appoint another in his place.
+
+(5) Without affecting the generality of subsection (4), the Majlis has power to remove any mutawalli appointed by the Majlis for a mosque, if it appears to the Majlis that —
+
+(a) the mosque has been mismanaged;
+
+(b) the mutawalli —
+
+(i) has failed to comply with any provision of any rules made under section 145(1) for the purposes of this section; or
+
+(ii) has failed to comply with any term or condition imposed by the Majlis on the mutawalli concerning the mutawalli’s appointment; or
+
+(c) it would be to the advantage of the mosque to appoint another mutawalli.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(6) Despite anything in subsections (3A), (4) and (5) and section 58(4A), (5) and (6), the following apply in relation to a mosque established by a wakaf:
+
+(a) where the appointment of an individual as a trustee or mutawalli of the mosque is contingent on the appointment of that individual as a trustee or mutawalli of the wakaf, the individual is removed as a trustee or mutawalli of the mosque if the individual is removed under section 58(4A), (5) or (6) as a trustee or mutawalli of the wakaf;
+
+(b) where the appointment of an individual as a trustee or mutawalli of the wakaf is contingent on the appointment of that individual as a trustee or mutawalli of the mosque, the individual is removed as a trustee or mutawalli of the wakaf if the individual is removed under subsection (3A), (4) or (5) as a trustee or mutawalli of the mosque.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(7) Subsections (3), (3A) and (6) apply to a trustee of a mosque appointed under a written instrument, regardless whether the instrument was made before, on or after the date of commencement of section 18(b) of the Administration of Muslim Law (Amendment) Act 2017.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(8) Subsection (6) applies to a trustee of a wakaf appointed under an instrument or declaration creating, governing or affecting the wakaf, regardless whether the instrument or declaration was made before, on or after the date of commencement of section 18(b) of the Administration of Muslim Law (Amendment) Act 2017.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Restriction of new mosque
 
@@ -1770,7 +1938,13 @@ MOSQUES AND RELIGIOUS SCHOOLS
 
 77\.—(1) The moneys in the Mosque Building and Mendaki Fund shall be used —
 
-(a) for the purpose of building mosques in Singapore and for purposes connected therewith, including such extension, alteration, reconstruction or restoration of any existing mosque or any part thereof and such other building works as the Majlis may approve;
+(a) for the purpose of building and maintaining mosques, and premises or facilities for conducting religious education, in Singapore and for connected purposes, including —
+
+(i) any extension, alteration, reconstruction or restoration of the whole or part of any existing mosque, or any existing premises or facilities for conducting religious education, and any other building works, that the Majlis may approve; and
+
+(ii) any purchase of any land, obtaining or renewal of any lease, tenancy or other interest in land, or obtaining or renewal of a licence to occupy land, that the Majlis may approve;
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (b) for the payment of contributions to Yayasan Mendaki;
 
@@ -1828,9 +2002,11 @@ MOSQUES AND RELIGIOUS SCHOOLS
 
 ### Muslim employee may decide not to pay contributions
 
-79\.—(1) A Muslim employee who does not wish his employer to pay contributions to the Mosque Building and Mendaki Fund on his behalf may exercise an option in such form as the Majlis may require for his employer not to pay contributions to the Mosque Building and Mendaki Fund on his behalf during any period not exceeding 12 months.
+79\.—(1) A Muslim employee who does not wish his employer to pay contributions to the Mosque Building and Mendaki Fund on his behalf may exercise an option in such form as the Majlis may require for his employer not to pay contributions to the Mosque Building and Mendaki Fund on his behalf during any period specified by him in the form.
 
 [31/75; 31/84]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (2) Where a Muslim employee has made an option under subsection (1), the Majlis shall issue him with a certificate to that effect.
 
@@ -1840,9 +2016,9 @@ MOSQUES AND RELIGIOUS SCHOOLS
 
 [31/75; 31/84]
 
-(4) Where an employee has exercised an option under subsection (1), his employer shall, on the expiry of the period for which the option is in force, be liable to pay contributions to the Mosque Building and Mendaki Fund in respect of that employee unless that employee again exercises an option for his employer not to pay contributions to the Mosque Building and Mendaki Fund on his behalf for a further period of time not exceeding 12 months.
+(4) Where an employee has exercised an option under subsection (1), his employer is liable, on the expiry of the period for which the certificate is in force, to pay contributions to the Mosque Building and Mendaki Fund in respect of that employee, unless that employee again exercises an option under subsection (1) and a fresh certificate is issued under subsection (2).
 
-[31/75; 31/84]
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Contributions from other persons
 
@@ -1890,15 +2066,23 @@ MOSQUES AND RELIGIOUS SCHOOLS
 
 ### Repair
 
-82\.—(1) It shall be the duty of the trustees of a mosque to ensure that the mosque is kept in a proper state of repair and that the mosque and the compounds thereof are maintained in a proper state of cleanliness.
+82\.—(1) It shall be the duty of the mutawallis of a mosque to ensure that the mosque is kept in a proper state of repair and that the mosque and the compounds thereof are maintained in a proper state of cleanliness.
 
-(2) The Majlis may raise and apply, or authorise the raising and application by the trustees of, special funds for the purpose of such repairs and maintenance, or may authorise the payment of the cost of such repairs and maintenance from the Fund.
+[Act 33 of 2017 wef 01/10/2017]
 
-(3) It shall be the duty of the trustees promptly to inform the Majlis of any want of repair of the mosque, and to effect or supervise any repairs as agent for and on behalf of the Majlis.
+(2) The Majlis may raise and apply, or authorise the raising and application by the mutawallis of, special funds for the purpose of such repairs and maintenance, or may authorise the payment of the cost of such repairs and maintenance from the Fund.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(3) It shall be the duty of the mutawallis promptly to inform the Majlis of any want of repair of the mosque, and to effect or supervise any repairs as agent for and on behalf of the Majlis.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (4) No material alteration to the structure of any mosque shall be made without the permission in writing of the Majlis.
 
-(5) The Majlis may direct the trustees to keep any mosque for which they are responsible in a proper state of repair.
+(5) The Majlis may direct the mutawallis to keep any mosque for which they are responsible in a proper state of repair.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Boundary of daerah masjid
 
@@ -2120,9 +2304,11 @@ whichever is the lower.
 
 [29/2008]
 
-(4) All sums collected under this section shall be paid to the Majlis.
+(4) All sums collected under this section shall be paid into the Consolidated Fund.
 
 [29/2008]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ## PART VI
 
@@ -2266,17 +2452,21 @@ Place of marriage
 
 ### Registers of Marriages, Divorces and Revocation of Divorces
 
-100\.—(1) The Registrar shall cause —
+100\.—(1) The Registrar —
 
-(a) the copies of the certificates of marriage sent to him to be bound in a Register of Marriages; and
+(a) must maintain a Register of Marriages containing such records and information as the Registrar may determine on every marriage solemnized and registered under this Act; and
 
-(b) the copies of the certificates of revocation of divorce sent to him to be bound in a Register of Revocation of Divorces.
+(b) may keep the Register of Marriages in such form as the Registrar may determine.
 
-[14/90]
+[Act 33 of 2017 wef 01/10/2017]
 
-(2) The Registrar shall keep an index of each of the Registers of Marriages and Revocation of Divorces kept by him.
+(2) The Registrar —
 
-[14/90]
+(a) must maintain a Register of Revocation of Divorces containing such records and information as the Registrar may determine on every revocation of divorce registered under this Act; and
+
+(b) may keep the Register of Revocation of Divorces in such form as the Registrar may determine.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (3) Any president of the Syariah Court shall cause the copies of the certificates of divorce issued by that Court to be bound in a Register of Divorces.
 
@@ -2312,9 +2502,13 @@ Place of marriage
 
 [14/90]
 
-(7) The Registrar shall sign and date any correction made in the certificate of marriage or the certificate of revocation of divorce and in the relevant Register of Marriages or Register of Revocation of Divorces, as the case may be.
+(7) The Registrar must —
 
-[14/90]
+(a) sign and date any correction made in the certificate of marriage or the certificate of revocation of divorce (as the case may be); and
+
+(b) authenticate any correction made in the Register of Marriages or Register of Revocation of Divorces (as the case may be).
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (8) Every rectification made under subsection (6) shall be attested by the witnesses in whose presence it was made.
 
@@ -2326,7 +2520,9 @@ Place of marriage
 
 (2) In the case of every marriage or revocation of divorce effected in Singapore and which has not been registered in accordance with subsection (1), the husband and wife shall —
 
-(a) attend personally within 7 days of the marriage or revocation of divorce at the office of a Kadi;
+(a) attend personally within 7 days beginning on the date of the marriage or revocation of divorce at the office of a Kadi;
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (b) furnish such particulars as are required by the Kadi for the due registration of such marriage or revocation of divorce; and
 
@@ -2342,7 +2538,7 @@ Place of marriage
 
 [29/2008]
 
-(5) In the case of every divorce effected in Singapore, the husband and wife shall attend personally at the Syariah Court within 7 days of the divorce, or such extended time as the Syariah Court thinks fit, and —
+(5) In the case of every divorce effected in Singapore, the husband and wife shall attend personally at the Syariah Court within 7 days beginning on the date of the divorce, or such extended time as the Syariah Court thinks fit, and —
 
 (a) furnish such particulars as are required by the Syariah Court; and
 
@@ -2350,9 +2546,13 @@ Place of marriage
 
 [29/2008]
 
+[Act 33 of 2017 wef 01/10/2017]
+
 ### Signing of register and inquiry by Kadi
 
-103\.—(1) Where a marriage has been solemnized by a Kadi or Naib Kadi, the Kadi or Naib Kadi shall register the marriage by entering the particulars thereof in the register of marriages and also in the certificate of marriage attached to the register.
+103\.—(1) Where a marriage has been solemnized by a Kadi or Naib Kadi, the Kadi or Naib Kadi shall register the marriage by entering the particulars thereof in the Register of Marriages and also in the certificate of marriage.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (2) Subject to section 102, a Kadi may, at any time within 7 days of a marriage which has not already been registered under subsection (1) or of a revocation of divorce, register the marriage or revocation of divorce by entering the particulars thereof in the appropriate register and also in the certificate of marriage or certificate of revocation of divorce (as the case may be) attached to the register.
 
@@ -2388,9 +2588,11 @@ Place of marriage
 
 [29/2008]
 
-(2) An entry shall be made in the register showing that the marriage or revocation of divorce was registered by order of the Appeal Board on appeal, and shall be signed by the person making the entry.
+(2) An entry shall be made in the Register of Marriages or Register of Revocation of Divorces (as appropriate) showing that the marriage or revocation of divorce was registered by order of the Appeal Board on appeal, and shall be authenticated by the person making the entry.
 
 [29/2008]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Extended time for registration of marriage or revocation of divorce
 
@@ -2418,15 +2620,19 @@ PROPERTY
 
 ### Disposition by will, etc., to be in accordance with Muslim law
 
-111\.—(1) Notwithstanding anything in the provisions of the English law or in any other written law, no Muslim domiciled in Singapore shall, after 1st July 1968, dispose of his property by will, or by any nomination under section 49M(2) of the Insurance Act (Cap. 142), except in accordance with the provisions of and subject to the restrictions imposed by the school of Muslim law professed by him.
+111\.—(1) Notwithstanding anything in the provisions of the English law or in any other written law, no Muslim domiciled in Singapore shall, after 1st July 1968, dispose of his property by will except in accordance with the provisions of and subject to the restrictions imposed by the school of Muslim law professed by him.
 
 [3/2009]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (2) Nothing in this section shall affect —
 
 (a) the provisions of the Wills Act (Cap. 352), other than section 3 thereof;
 
-(aa) the provisions of the Insurance Act, other than sections 49M and 61 thereof;
+(aa) the provisions of the Insurance Act;
+
+[Act 33 of 2017 wef 01/10/2017]
 
 (b) the provisions of the Probate and Administration Act (Cap. 251); or
 
@@ -2476,31 +2682,15 @@ PROPERTY
 
 (3) In any case of special difficulty, the Syariah Court may refer the question to the Legal Committee for its opinion and shall, if such opinion be given, certify in accordance therewith.
 
-### Administration of husband’s estate
+### Administration of estate of Muslim dying intestate
 
-116\. In granting letters of administration to the estate of a Muslim dying intestate and leaving a widow or widows, the court may if it thinks fit grant letters of administration to any other next-of-kin or person entitled to the estate of the deceased under the Muslim law, either to the exclusion of the widow or widows, or jointly with such widow or widows, or any one or more of such widows.
+116\.—(1) In granting letters of administration to the estate of a Muslim who dies intestate, the court may if it thinks fit grant letters of administration to any next‑of‑kin of the Muslim or any other person entitled to a share in the estate under the Muslim law.
 
-### Administration of wife’s estate
+(2) This section does not affect the power given to the court by section 18 of the Probate and Administration Act (Cap. 251).
 
-117\.—(1) When any woman, being the wife of a Muslim, dies intestate leaving property of her own and leaving male children above the age of 21 years —
+[Act 33 of 2017 wef 01/10/2017]
 
-(a) such male children shall be entitled to a grant of letters of administration to her estate and effects in preference to her husband;
-
-(b) the husband shall be entitled next after such male children;
-
-(c) after such male children and the husband, the daughters, father, mother, brothers, sisters, uncles, aunts, nephews and nieces of the intestate shall be entitled in the order above set out; and
-
-(d) failing all the above, the next nearest of kin according to the Muslim law shall be entitled.
-
-(2) Preference shall be given to male over female relationship of the same degree in the above cases.
-
-(3) The children of the husband by other wives shall not —
-
-(a) be considered as next-of-kin to the deceased intestate wife; and
-
-(b) by reason of such relationship, be entitled to a grant of letters of administration to her estate and effects.
-
-(4) Nothing in this section shall affect the power given to the court by section 18(4)(d) of the Probate and Administration Act (Cap. 251).
+117\. [Repealed by Act 33 of 2017 wef 01/10/2017]
 
 ### Will of married woman
 
@@ -2554,9 +2744,7 @@ PROPERTY
 
 124\. No Muslim person shall, by any marriage contracted in accordance with the provisions of the Muslim law, acquire any interest in the property of the person whom he or she marries nor become incapable of doing any act in respect of his or her own property which he or she could have done if unmarried.
 
-### Household property
-
-125\. When a Muslim husband and his wife or wives live together in the same house, the household goods, vehicles and household property of every description of the husband and wife or wives, except the paraphernalia of the wife or wives, shall be held prima facie to belong to the husband in any question between the husband and his creditors.
+125\. [Repealed by Act 33 of 2017 wef 01/10/2017]
 
 ## PART VIII
 
@@ -2670,11 +2858,33 @@ Permission to leave Singapore
 
 MISCELLANEOUS
 
-### Registrar, Kadi and Naib Kadi to be public servants
+### Public servants and judicial proceedings
 
-141\.—(1) Every Registrar, Kadi and Naib Kadi shall be a public servant within the meaning of the Penal Code (Cap. 224).
+141\.—(1) Each of the following is a public servant within the meaning of the Penal Code (Cap. 224):
 
-(2) All proceedings before the Syariah Court or before the Registrar or a Kadi or Naib Kadi under this Act shall be deemed to be judicial proceedings within the meaning of Chapter XI of the Penal Code.
+(a) every president of the Syariah Court;
+
+(b) every ad‑hoc president of the Syariah Court;
+
+(c) the registrar of the Syariah Court;
+
+(d) every deputy registrar of the Syariah Court;
+
+(e) every member of an Appeal Board;
+
+(f) the Registrar;
+
+(g) every Kadi;
+
+(h) every Naib Kadi.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+(2) All proceedings before the Syariah Court, before the Appeal Board or before the Registrar or a Kadi or Naib Kadi under this Act shall be deemed to be judicial proceedings within the meaning of Chapter XI of the Penal Code.
+
+[Act 33 of 2017 wef 01/10/2017]
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Witness
 
@@ -2686,19 +2896,25 @@ MISCELLANEOUS
 
 ### Inspection and search
 
-143\.—(1) The Register of Marriages, Register of Divorces and Register of Revocation of Divorces, and the general index of each of those Registers shall be open to inspection by any person upon payment of the prescribed fee.
+143\.—(1) Any person may, upon application to the Registrar and upon payment of the prescribed fee, obtain a copy of or extract from any information contained in the Register of Marriages or Register of Revocation of Divorces (including a copy or extract that is certified by the Registrar to be a true copy or extract).
 
-[14/90]
+(2) The Register of Divorces, and the general index of that Register, are to be open to inspection by any person upon payment of the prescribed fee.
 
-(2) The Registrar or any president of the Syariah Court, as the case may be, shall, upon payment of the prescribed fee, furnish any person requiring the same a copy of any entry in any of the Registers certified under his signature and seal of office.
+(3) A president or the registrar of the Syariah Court must furnish a copy of an entry in the Register of Divorces, certified under the signature and seal of office of the president of the Syariah Court, to any person requiring that copy, upon the payment of the prescribed fee by that person.
 
-[14/90; 20/99]
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Proof
 
-144\. The Register of Marriages, Register of Divorces and Register of Revocation of Divorces and any copy of any entry therein, certified under the hand and seal of the Registrar or any president of the Syariah Court, as the case may be, to be a true copy or extract, shall be prima facie evidence in all courts and tribunals in Singapore of the dates and acts contained or set out in each of those Registers, copy or extract.
+144\.—(1) Each of the following, if certified by the Registrar to be a true copy or extract, is in any proceedings in any court or tribunal in Singapore admissible in evidence as of equal validity with the original document containing the information or the original record (as the case may be):
 
-[14/90; 20/99]
+(a) a copy of or extract from any information contained in the Register of Marriages or Register of Revocation of Divorces;
+
+(b) a copy of or extract from any record contained in the Register of Marriages or Register of Revocation of Divorces (including a copy of or extract from any record produced from a microfilm or digital image).
+
+(2) The Register of Divorces, and any copy of an entry in that Register certified under the signature and seal of office of any president of the Syariah Court to be a true copy, is prima facie evidence in any court or tribunal in Singapore of the dates and acts contained or set out in that Register or copy.
+
+[Act 33 of 2017 wef 01/10/2017]
 
 ### Rules
 
@@ -3013,6 +3229,10 @@ This Legislative History is provided for the convenience of users of the Adminis
 ||Date of commencement|1 January 2015|
 |25.|**G.N. No. S 144/2016—Administration of Muslim Law Act (Variation of Schedule) Notification 2016**|
 ||Date of commencement|1 June 2016|
+|26.|**Act 33 of 2017—Administration of Muslim Law (Amendment) Act 2017**|
+||Date of First Reading|3 July 2017 (Bill No. 27/2017 published on 3 July 2017)|
+||Date of Second and Third Readings|1 August 2017|
+||Date of commencement|1 October 2017|
 ## COMPARATIVE TABLE
 
 Administration of Muslim Law Act
