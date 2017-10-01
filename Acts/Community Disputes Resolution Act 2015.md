@@ -539,7 +539,9 @@ Miscellaneous
 
 (2) The Registrar or tribunal judge may, in making a referral under subsection (1), order all or any of the parties to the claim to attend personally before a mediator of a Community Mediation Centre or any other person at a time and place to be specified in the Registrar’s or tribunal judge’s order.
 
-(3) Any person who fails to comply with the Registrar’s or tribunal judge’s order made under subsection (2) commits contempt of court and action may be taken against that person under section 8 of the State Courts Act (Cap. 321).
+(3) Any person who fails to comply with the Registrar’s or tribunal judge’s order made under subsection (2) commits contempt of court and action may be taken against that person under the Administration of Justice (Protection) Act 2016.
+
+[Act 19 of 2016 wef 01/10/2017]
 
 ### Person not precluded from filing claim in court
 
