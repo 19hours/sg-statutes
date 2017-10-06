@@ -30,9 +30,13 @@
 
 - [4F Meetings and quorum of Board](#Meetings-and-quorum-of-Board)
 
+- [4G Decision-making outside of meeting](#Decision-making-outside-of-meeting)
+
 - [5 Common seal of Board](#Common-seal-of-Board)
 
 - [6 Functions of Board](#Functions-of-Board)
+
+- [6A Powers of Board](#Powers-of-Board)
 
 - [7 Committees](#Committees)
 
@@ -46,7 +50,7 @@
 
 - [11 Remuneration for architectural services](#Remuneration-for-architectural-services)
 
-- [12 Employment of unregistered architect prohibited](#Employment-of-unregistered-architect-prohibited)
+- [12 Employment or engagement of unregistered architect prohibited](#Employment-or-engagement-of-unregistered-architect-prohibited)
 
 - [13 Minor building works](#Minor-building-works)
 
@@ -56,11 +60,13 @@
 
 - [15 Qualifications for registration](#Qualifications-for-registration)
 
+- [15A Recognition for purposes of mutual recognition arrangements](#Recognition-for-purposes-of-mutual-recognition-arrangements)
+
 - [16 Application for registration](#Application-for-registration)
 
 - [17 Certificates of registration](#Certificates-of-registration)
 
-- [17A Amendment of register of architects](#Amendment-of-register-of-architects)
+- [17A Amendment of registers](#Amendment-of-registers)
 
 - [17B Removal of name and particulars from register of architects](#Removal-of-name-and-particulars-from-register-of-architects)
 
@@ -126,13 +132,17 @@
 
 [**Part VIII GENERAL**](#Part-VIII)
 
+- [31K Investigators](#Investigators)
+
 - [32 Application of fees received by Board](#Application-of-fees-received-by-Board)
 
 - [33 (Repealed)](#Repealed)
 
 - [34 Penalty for wilful falsification of register and wrongfully procuring registration, etc.](#Penalty-for-wilful-falsification-of-register-and-wrongfully-procuring-registration-etc)
 
-- [35 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
+- [35 Offences by corporations](#Offences-by-corporations)
+
+- [35A Offences by unincorporated associations or partnerships](#Offences-by-unincorporated-associations-or-partnerships)
 
 - [36 Exemption](#Exemption)
 
@@ -178,6 +188,28 @@ PRELIMINARY
 
 (b) a land surveyor who is registered under the Land Surveyors Act (Cap. 156);
 
+“architectural firm” means —
+
+(a) a partnership comprising wholly of registered architects, each of whom has in force a practising certificate; or
+
+(b) a sole-proprietorship comprising a registered architect who has in force a practising certificate;
+
+[Act 20 of 2017 wef 06/10/2017]
+
+“architectural practice” means —
+
+(a) an architectural firm;
+
+(b) a limited corporation licensed under section 20(1);
+
+(c) an unlimited corporation licensed under section 20(2);
+
+(d) a partnership licensed under section 20(3); or
+
+(e) a limited liability partnership licensed under section 20(4);
+
+[Act 20 of 2017 wef 06/10/2017]
+
 “architectural services” includes selling or supplying for gain or reward any architectural plan, drawing, tracing or the like for use in the construction, enlargement or alteration of any building or part thereof;
 
 “Board” means the Board of Architects established under section 4;
@@ -198,6 +230,14 @@ PRELIMINARY
 
 [28/2005 wef 01/12/2005]
 
+“foreign architect” means any person who is authorised to practise as an architect in a country or territory outside Singapore under the law of that country or territory;
+
+[Act 20 of 2017 wef 06/10/2017]
+
+“foreign registration authority”, for any country or territory outside Singapore, means the person in that country or territory having the function conferred by the laws of that country or territory of registering persons in connection with the persons carrying on the practice of architecture in that country or territory;
+
+[Act 20 of 2017 wef 06/10/2017]
+
 “Investigation Committee” means an Investigation Committee appointed under section 30;
 
 [28/2005 wef 01/12/2005]
@@ -216,6 +256,10 @@ PRELIMINARY
 
 [28/2005 wef 01/12/2005]
 
+“limited partnership” means a limited partnership registered under the Limited Partnerships Act (Cap. 163B);
+
+[Act 20 of 2017 wef 06/10/2017]
+
 “manager” —
 
 (a) in relation to a corporation or partnership, means the principal executive officer of the corporation or partnership for the time being by whatever name called and whether or not he is a director or partner thereof; and
@@ -225,6 +269,14 @@ PRELIMINARY
 [28/2005 wef 01/12/2005]
 
 “nominee”, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with the directions, instructions or wishes of the first-mentioned person, except that a person shall not be regarded as a nominee of another person by reason only that he acts on advice given by that other person in a professional capacity;
+
+“participating jurisdiction” means any country or territory outside Singapore in relation to which an arrangement under section 6A(2) is in force;
+
+[Act 20 of 2017 wef 06/10/2017]
+
+“partnership” includes a limited partnership;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 “practising certificate” —
 
@@ -240,15 +292,23 @@ PRELIMINARY
 
 [28/2005 wef 01/12/2005]
 
-“register of architects” means the register of architects kept by the Board under section 8(a);
+“register of architects” means the register of architects kept and maintained by the Board under section 8(1)(a);
 
-“register of licensees” means the annual register of licensed corporations, partnerships and limited liability partnerships kept by the Board under section 8(c);
+[Act 20 of 2017 wef 06/10/2017]
+
+“register of licensees” means the annual register of licensed corporations, partnerships and limited liability partnerships kept by the Board under section 8(1)(e);
 
 [28/2005 wef 01/12/2005]
 
-“register of practitioners” means the annual register of practitioners kept by the Board under section 8(b);
+[Act 20 of 2017 wef 06/10/2017]
 
-“registered architect” means a person registered as an architect under section 15;
+“register of practitioners” means the annual register of practitioners kept by the Board under section 8(1)(d);
+
+[Act 20 of 2017 wef 06/10/2017]
+
+“registered architect” means a person registered as an architect under section 15(1) or (2A);
+
+[Act 20 of 2017 wef 06/10/2017]
 
 “Registrar” means the Registrar of the Board appointed under section 9;
 
@@ -300,7 +360,13 @@ BOARD OF ARCHITECTS
 
 (2) If elections held for the purposes of subsection (1)(c) result in less than 6 persons being elected as members of the Board thereunder, the Minister may appoint such number, as he thinks fit, of registered architects who have in force a practising certificate to be members of the Board, except that the number of members so appointed and the number of members elected under subsection (1)(c) shall not exceed 6 in the aggregate.
 
-(3) The members elected under subsection (1)(c) shall hold office for a term not exceeding 3 years and shall be eligible for re-election for not more than 2 consecutive terms.
+(3) The members elected under subsection (1)(c) shall hold office for a term not exceeding 3 years and shall be eligible for re-election.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(3A) However, a person is ineligible for re-election to office as a member under subsection (1)(c) if the re-election would result in the person holding office as a member for 3 consecutive terms.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (4) Only registered architects of at least 10 years’ standing may be elected under subsection (1)(c) or appointed under subsection (2) as members of the Board.
 
@@ -330,9 +396,15 @@ BOARD OF ARCHITECTS
 
 (b) who have been appointed under section 4A(1)(d).
 
-(2) The President elected under subsection (1) shall serve for a term not extending beyond the expiration of the term for which he has been appointed or elected to be a member of the Board and shall be eligible for re-election for not more than 2 consecutive terms.
+(2) The President elected under subsection (1) shall serve for a term not extending beyond the expiration of the term for which he has been appointed or elected to be a member of the Board and shall be eligible for re-election.
 
 [28/2005 wef 01/10/2005]
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(3) However, a person is ineligible for re-election as the President under subsection (1) if the re-election would result in the person holding office as the President for 3 consecutive terms.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Disqualifications for membership of Board
 
@@ -384,6 +456,22 @@ BOARD OF ARCHITECTS
 
 4F\.—(1) At any meeting of the Board, 8 members shall form a quorum and no business shall be transacted at any meeting unless a quorum is present.
 
+(1A) A meeting of the Board may be held —
+
+(a) by a quorum of the members, being assembled together at the place and time appointed for the meeting; or
+
+(b) by means of audio, audio and visual, or electronic communication provided that —
+
+(i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
+
+(ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(1B) For the purposes of this Act, a member participating in a meeting as permitted under subsection (1A)(b) is taken to be present at the meeting.
+
+[Act 20 of 2017 wef 06/10/2017]
+
 (2) At any meeting of the Board, the President shall preside and in his absence the members present shall elect from among themselves one member to preside over the meeting.
 
 (3) If on any question to be determined by the Board there is an equality of votes, the President or the member presiding over that meeting shall have a casting vote.
@@ -393,6 +481,20 @@ BOARD OF ARCHITECTS
 (5) The Board shall cause proper records of its proceedings to be kept.
 
 [28/2005 wef 01/10/2005]
+
+### Decision-making outside of meeting
+
+4G\.—(1) The Board may, in lieu of a meeting in accordance with section 4F, make a decision by written or electronic means, if —
+
+(a) all of the members are given (whether by post, personal delivery or electronic communication) the terms of the decision to be made; and
+
+(b) a majority of those members who are entitled to vote on the matter sign or approve a document containing the terms of the decision to be made and a statement that they are in favour of those terms.
+
+(2) A decision of the Board is taken to be made at a meeting of the Board on the date on which the document containing the terms of the decision to be made is signed or approved by the last member required to form the majority of the members in favour of the decision.
+
+(3) Any reference in any law to a decision of the Board includes a reference to a decision of the Board made in accordance with this section.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Common seal of Board
 
@@ -406,13 +508,17 @@ BOARD OF ARCHITECTS
 
 6\. The functions of the Board shall be —
 
-(a) to keep and maintain a register of architects, a register of practitioners and a register of licensees;
+(a) to keep and maintain every register mentioned in section 8(1);
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (b) to hold or arrange for the holding of such examinations as the Board considers necessary for the purpose of enabling persons to qualify for registration under this Act;
 
 (c) to establish, maintain and develop standards of professional conduct and ethics of the architectural profession;
 
-(d) to promote learning and education in connection with architecture, either alone or in conjunction with any other professional body;
+(d) to promote learning and education in connection with architecture and the practice of architecture, either alone or in conjunction with any other professional body;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (e) to hear and determine disputes relating to professional conduct or ethics of registered architects or to appoint a committee or arbitrator to hear and determine those disputes;
 
@@ -420,11 +526,33 @@ BOARD OF ARCHITECTS
 
 [28/2005 wef 01/12/2005]
 
-(g) to license corporations, multi-discipline partnerships or limited liability partnerships which intend to supply architectural services in Singapore; and
+(g) to license corporations, multi-discipline partnerships or limited liability partnerships which intend to supply architectural services in Singapore;
 
 [28/2005 wef 01/12/2005]
 
+[Act 20 of 2017 wef 06/10/2017]
+
+(ga) to facilitate the mutual recognition, within Singapore and any country or territory outside Singapore, of the qualifications and standards regarding the practice of architecture; and
+
+[Act 20 of 2017 wef 06/10/2017]
+
 (h) generally to do all such acts, matters and things as are necessary to be carried out under the provisions of this Act.
+
+### Powers of Board
+
+6A\.—(1) The Board has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions, including power —
+
+(a) to grant prizes and scholarships in connection with architecture, either alone or in conjunction with any person;
+
+(b) to accept grants, donations or gifts from any source or raise funds by lawful means;
+
+(c) to determine the requirements for continuing professional education, and to organise related courses, programmes and other activities; and
+
+(d) to do any other thing that is necessary or convenient to be carried out for or in connection with, or as incidental to, the performance of its functions.
+
+(2) The Board may, with the approval of the Minister, enter into arrangements with the appropriate foreign registration authority of any country or territory outside Singapore for the mutual recognition, within Singapore and that country or territory, of the qualifications and standards adopted by each of the parties to the arrangement regarding the practice of architecture.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Committees
 
@@ -442,15 +570,21 @@ BOARD OF ARCHITECTS
 
 ### Registers
 
-8\. The Board shall keep and maintain at its office —
+8\.—(1) The Board must keep and maintain at its office the following registers:
 
-(a) a register of architects in which shall be entered the names of all persons registered under this Act, the qualifications by virtue of which they are so registered and such other particulars in relation thereto as may from time to time be determined by the Board;
+(a) a register of architects containing the names of persons registered under section 15(1) or (2A) and any other particulars determined by the Board;
 
-(b) an annual register of practitioners in which shall be entered the particulars as contained in the declaration delivered under section 18(3)(a); and
+(b) a register containing the names of persons recognised under section 15A and any other particulars determined by the Board;
 
-(c) an annual register of licensees in which shall be entered the names and addresses of all licensed corporations, partnerships and limited liability partnerships which have been issued a licence and such other particulars as may from time to time be determined by the Board.
+(c) a register of exempted architects in which is to be entered the names of registered architects to whom an exemption under section 15(3) applies, and such other particulars determined by the Board;
 
-[28/2005 wef 01/12/2005]
+(d) an annual register of practitioners in which is to be entered the particulars as contained in the declaration delivered under section 18(3)(a) and such other particulars determined by the Board;
+
+(e) an annual register of licensees in which is to be entered the names and addresses of all licensed corporations, partnerships and limited liability partnerships issued with a licence and such other particulars determined by the Board.
+
+(2) A person may, with the Registrar’s approval and upon payment of the prescribed fee, obtain an extract from any register kept and maintained under subsection (1).
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Appointment and duties of Registrar
 
@@ -462,17 +596,19 @@ BOARD OF ARCHITECTS
 
 (b) sign all certificates of registration, practising certificates and licences; and
 
-(c) record all entries of registration, cancellation and reinstatement in the register of architects, register of practitioners or register of licensees, as the case may be.
+(c) record all relevant entries in any register kept and maintained under section 8(1), including any suspension, cancellation or reinstatement of registration in any of the registers.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (3) The Registrar shall attend all meetings of the Board and record the proceedings thereof, and shall conduct the correspondence and deal with such matters as may be assigned to him from time to time by the President or the Board.
 
-(4) The Registrar shall —
+(4) The Registrar must publish, in such manner as will secure adequate publicity to the general public, the following:
 
-(a) as soon as possible after 1st January each year, prepare and publish in theGazettea list containing the names, qualifications and addresses of all registered architects who have in force a certificate and the names of the firms under which they are practising and the names of the firms or corporations employing them; and
+(a) as soon as possible after 1 January each year, a list containing the names, qualifications and addresses of all registered architects who, on that date, have in force a practising certificate and the names of the architectural practices under which they are practising, or that are employing them;
 
-(b) from time to time, publish in theGazettesuch supplementary lists of the names, qualifications, addresses and firms or corporations of persons added to or removed from the register of practitioners.
+(b) from time to time, such supplementary lists of the names, qualifications, addresses and the names of the architectural practices of persons added to or removed from the register of practitioners.
 
-[28/2005 wef 01/12/2005]
+[Act 20 of 2017 wef 06/10/2017]
 
 (5) In any proceedings, a list published under subsection (4) shall be sufficient evidence that the persons whose names appear therein are registered architects who have in force practising certificates.
 
@@ -482,13 +618,19 @@ PRIVILEGES OF ARCHITECTS
 
 ### Illegal practice
 
-10\.—(1) Subject to the provisions of this Act, no person shall draw or prepare any architectural plan, drawing, tracing, design, specification or other document intended to govern the construction, enlargement or alteration of any building or part thereof in Singapore unless the person is —
+10\.—(1) Subject to the provisions of this Act, a person must not draw or prepare any architectural plan, drawing, tracing, design, specification or other document intended to govern the construction, enlargement or alteration of any building or part of a building in Singapore unless the person —
 
-(a) a registered architect who has in force a practising certificate; or
+(a) is a registered architect —
 
-(b) under the direction or supervision of a registered architect who has in force a practising certificate.
+(i) who has in force a practising certificate; or
 
-[3/95]
+(ii) who, if he is not required to obtain a practising certificate, is doing so in accordance with any prohibition, restriction or condition of his registration;
+
+(b) is doing so under the direction or supervision of a person mentioned in paragraph (a); or
+
+(c) is exempt under section 36 from this section.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (2) Subject to the provisions of this Act, no person shall sign and submit to a building authority or to a public authority (as defined in section 3(4)) —
 
@@ -508,13 +650,25 @@ unless the person is a registered architect who has in force a practising certif
 
 (3) Subject to the provisions of this Act, no person shall —
 
-(a) use verbally or otherwise the word “architect” or any of its derivatives in connection with his business designation, or any other words, name or designation that will lead to the belief that the person is an architect unless the person is a registered architect; or
+(a) use verbally or otherwise the word “architect” or any of its derivatives in connection with his business designation, or any other words, name or designation that will lead to the belief that the person is an architect unless the person is a registered architect who has in force a practising certificate;
 
-(b) advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to supply architectural services in Singapore, unless the person is a registered architect who has in force a practising certificate, a licensed corporation, a licensed partnership, a licensed limited liability partnership or a partnership consisting wholly of registered architects.
+[Act 20 of 2017 wef 06/10/2017]
 
-[3/95]
+(b) advertise or hold himself out, or conduct himself in any way or by any means, as a person who is authorised to supply architectural services in Singapore, unless the person is —
 
-[28/2005 wef 01/12/2005]
+(i) a registered architect who has in force a practising certificate; or
+
+(ii) an architectural practice;
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(c) use the word “architect” or any of its derivatives as part of the name of an architectural practice unless the person is authorised under this Act to supply architectural services; or
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(d) use verbally or otherwise the word “architect” or the abbreviation “Ar.” as a title before his name unless he is a registered architect who has in force a practising certificate.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (4) Nothing in subsection (3)(b) shall apply to prevent a corporation or limited liability partnership that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation or limited liability partnership.
 
@@ -522,41 +676,81 @@ unless the person is a registered architect who has in force a practising certif
 
 [28/2005 wef 01/12/2005]
 
-(5) Subject to the provisions of this Act, no person shall —
+(5) Subject to the provisions of this Act, a person must not —
 
-(a) supply or offer to supply architectural services in Singapore,
+(a) supply architectural services in Singapore unless the person is —
 
-(b) [Deleted by Act 18/2003 wef 01/01/2004]
+(i) a registered architect who has in force a practising certificate and is doing so on the person’s own account or under, or as an employee of, an architectural practice;
 
-unless the person is —
+(ii) a registered architect who, if he is not required to obtain a practising certificate, is doing so in accordance with any prohibition, restriction or condition of his registration; or
 
-(i) a registered architect who has in force a practising certificate and is doing so on his own account or as a partner in a licensed partnership, a licensed limited liability partnership or a partnership consisting wholly of registered architects who have in force a practising certificate;
+(iii) a licensed corporation or licensed limited liability partnership; or
 
-(ii) an allied professional and is doing so only by reason of being a partner in a licensed partnership or limited liability partnership; or
+(b) offer to supply architectural services in Singapore unless the person is —
 
-(iii) a licensed corporation or limited liability partnership.
+(i) a person mentioned in paragraph (a); or
 
-[3/95]
+(ii) an allied professional who is doing so only by reason of being a partner in a licensed partnership or licensed limited liability partnership.
 
-[28/2005 wef 01/12/2005]
+[Act 20 of 2017 wef 06/10/2017]
 
-(5A) Notwithstanding subsection (5), a builder may supply or offer to supply architectural services in Singapore in connection with any building works which he undertakes to carry out if the architectural services are provided by a person referred to in subsection (5)(i), (ii) or (iii).
+(5A) Notwithstanding subsection (5), a builder may supply or offer to supply architectural services in Singapore in connection with any building works which he undertakes to carry out if the architectural services are provided by a person referred to in subsection (5)(a)(i) or (iii).
 
 [18/2003 wef 01/01/2004]
 
-(6) Any person who contravenes subsection (1), (2), (3) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 20 of 2017 wef 06/10/2017]
+
+(6) Any person who contravenes subsection (1), (2), (3) or (5) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of a natural person —
+
+(i) to a fine not exceeding $5,000; and
+
+(ii) if the person is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(b) in the case of a body corporate —
+
+(i) to a fine not exceeding $5,000; and
+
+(ii) if the body corporate is a repeat offender, to a fine not exceeding $10,000.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(7) In this section, a person is a repeat offender if the person who is convicted, or found guilty, of an offence under subsection (6) has (whether before, on or after the date of commencement of section 11(g) of the Architects (Amendment) Act 2017) been convicted or found guilty on at least one other earlier occasion of —
+
+(a) an offence under subsection (6) for contravening subsection (1), (2), (3) or (5); or
+
+(b) an offence under subsection (6) as in force immediately before that date for contravening subsection (1), (2), (3) or (5) as in force immediately before that same date.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Remuneration for architectural services
 
-11\. Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any architectural services rendered in Singapore unless the person rendering such services is authorised by this Act to supply those services.
+11\.—(1) Subject to the provisions of this Act, a person is not entitled to demand, claim or sue for or recover any charge, fee or remuneration for any architectural services supplied by the person in Singapore, or for any offer by the person to supply architectural services in Singapore, in connection with any arbitration, suit or matter, if the person supplying or offering to supply the architectural services is not authorised by this Act to supply those services.
 
-[18/2003 wef 01/01/2004]
+(2) Any person, who has made any payment to another person for that other person engaging in conduct which is in contravention of section 10, may recover the money in a court of competent jurisdiction if the person did not know, or have reason to believe, when making payment, that the conduct by that other person was in contravention of section 10.
 
-### Employment of unregistered architect prohibited
+[Act 20 of 2017 wef 06/10/2017]
 
-12\.—(1) Subject to the provisions of this Act, no person shall employ as an architect any person who neither is a registered architect nor has in force a practising certificate.
+### Employment or engagement of unregistered architect prohibited
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, for a second or subsequent conviction, to a fine not exceeding $5,000.
+12\.—(1) Subject to the provisions of this Act, no person shall employ as an architect any other person unless the other person is a registered architect who has in force a practising certificate.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(1A) Subject to the provisions of this Act, a person must not engage the architectural services of any other person in relation to any building works unless the other person —
+
+(a) is a registered architect who has in force a practising certificate; or
+
+(b) is a registered architect who, if he is not required to obtain a practising certificate, is supplying the architectural services in accordance with any prohibition, restriction or condition of his registration.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(2) Any person who contravenes subsection (1) or (1A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, for a second or subsequent conviction, to a fine not exceeding $5,000.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Minor building works
 
@@ -584,13 +778,21 @@ REGISTRATION OF ARCHITECTS
 
 15\.—(1) Subject to this section, the following persons shall, on payment of the prescribed fee, be entitled to registration under this Act:
 
-(a) any person holding the Degree of Bachelor of Architecture from the National University of Singapore or the University of Singapore;
+(a) any person holding —
+
+(i) the Degree of Bachelor of Architecture from the National University of Singapore or the University of Singapore; or
+
+(ii) the Degree of Masters of Architecture from the National University of Singapore or the Singapore University of Technology and Design;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (b) any person holding any other degree, diploma or qualification which the Minister may, after consultation with the Board and by notification in theGazette, approve for the purpose of entitling the holder thereof to be registered under this Act; or
 
 [28/2005 wef 01/12/2005]
 
-(c) any person who satisfies the Board that he is otherwise qualified by having proper and recognised training in architecture and who passes such examinations as may be required by the Board.
+(c) any person who satisfies the Board that he is otherwise qualified by having proper and recognised training in architecture and who passes such oral or written examinations as may be prescribed.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (2) No person shall be entitled to registration under subsection (1)(a), (b) or (c) unless he satisfies the Board as to any of the following:
 
@@ -608,11 +810,29 @@ REGISTRATION OF ARCHITECTS
 
 (c) that he has, after obtaining his qualifications —
 
-(i) acquired not less than 10 years of such practical experience in architectural work as may be recognised by the Board; and
+(i) acquired not less than 10 years of such practical experience in architectural work as may be recognised by the Board;
 
-(ii) passed such oral or written examination as may be prescribed by the Board.
+[Act 20 of 2017 wef 06/10/2017]
 
-[28/2005 wef 01/12/2005]
+(ii) received any commendation or award at any international architectural event, or from any professional body whose architectural degree or qualification is recognised by the Board; and
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(iii) passed such oral or written examination as may be prescribed by the Board.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(2A) Despite subsections (1) and (2), any foreign architect who is first authorised to practise architecture in a country or territory outside Singapore which is a participating jurisdiction and who intends to engage in the practice of architecture in Singapore, is entitled to registration under this Act —
+
+(a) upon payment of the prescribed fee; and
+
+(b) if the foreign architect has such qualifications, requisite practical experience in architectural work, and has passed such oral or written examinations, as may be approved by the Board.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(2B) A registration of a foreign architect under subsection (1) or (2A) may be subject to such prohibitions, restrictions or conditions as to the practice of architecture in Singapore as the Board may impose.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (3) The Minister may, after consultation with the Board, by order published in theGazette, exempt, subject to such conditions as he thinks fit, any person from the requirements of subsection (2).
 
@@ -622,7 +842,31 @@ REGISTRATION OF ARCHITECTS
 
 (b) is unable to carry out the duties of an architect effectively.
 
-(5) Any person whose application for registration has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
+(5) Any person whose application for registration under subsection (1) has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+### Recognition for purposes of mutual recognition arrangements
+
+15A\.—(1) Subject to this section, any registered architect who intends to supply or offer to supply architectural services in any participating jurisdiction, may apply to be recognised for the purposes of any arrangement mentioned in section 6A(2) with a foreign registration authority in that jurisdiction.
+
+(2) An application to be recognised for the purposes of an arrangement mentioned in section 6A(2) with a foreign registration authority of a participating jurisdiction must be granted by the Board if, upon payment of the prescribed fee, it is satisfied —
+
+(a) that under the terms of the arrangement, the applicant is eligible to supply or offer to supply those architectural services in the participating jurisdiction if the applicant is first recognised under this section; and
+
+(b) that the applicant —
+
+(i) has the requisite practical experience in architectural work as may be approved by the Board; and
+
+(ii) has passed such oral or written examinations as may be approved by the Board.
+
+(3) Any recognition under subsection (2) —
+
+(a) is valid for such period (not exceeding one year) as may be determined by the Board; and
+
+(b) may be renewed upon payment of the prescribed fee.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Application for registration
 
@@ -632,21 +876,21 @@ REGISTRATION OF ARCHITECTS
 
 17\. Every registered architect shall, on payment of the prescribed fee, be entitled to receive a certificate of registration under the hand of the Registrar.
 
-### Amendment of register of architects
+### Amendment of registers
 
-17A\. The Registrar shall —
+17A\. The Registrar must —
 
-(a) amend the register of architects when there is any alteration which may come to his knowledge in the name, address or other relevant particulars of any registered architect;
+(a) amend any register kept and maintained under section 8(1) when there is any alteration which may come to the Registrar’s knowledge in the name, address or other relevant particulars of any person registered;
 
-(b) correct any error in any entry in the register of architects; and
+(b) correct any error in any entry in any such register; and
 
-(c) remove from the register of architects the name of any person —
+(c) remove from any such register the name of any person —
 
 (i) whose name has been ordered to be removed under any provision of this Act; or
 
 (ii) who is deceased.
 
-[28/2005 wef 01/12/2005]
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Removal of name and particulars from register of architects
 
@@ -662,7 +906,15 @@ REGISTRATION OF ARCHITECTS
 
 (b) his qualification for registration under section 15 has been withdrawn or cancelled by the authority through which it was acquired or by which it was awarded; or
 
-(c) he refuses or has failed to comply with any order made by a Disciplinary Committee under section 31G(2)(c) or (e).
+(c) he refuses or fails to comply with —
+
+(i) an order made (whether before, on or after the date of commencement of section 17(a) of the Architects (Amendment) Act 2017) by the Board under section 31B(1)(a) (pursuant to the recommendation of an Investigation Committee under section 31A(d)), or under section 31B(1)(c);
+
+(ii) an order made (whether before, on or after the date of commencement of section 17(a) of the Architects (Amendment) Act 2017) by a Disciplinary Committee under section 31G(2)(c) or (3) to pay a penalty or sum, or under section 31G(2)(e); or
+
+(iii) any prohibition, restriction or condition imposed by the Board under section 15(2B).
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (3) The Board shall, before exercising its powers under subsection (2), notify the registered architect concerned of its intention to take such action and shall give the registered architect an opportunity to submit reasons, within such period as the Board may determine, as to why his name should not be removed from the register.
 
@@ -682,9 +934,11 @@ REGISTRATION OF ARCHITECTS
 
 (a) disciplinary action is pending against the applicant; or
 
-(b) the conduct of the applicant is the subject of an inquiry by an Investigation Committee.
+(b) the conduct of the applicant is the subject of a complaint made against the applicant which is not dismissed, or an inquiry by an Investigation Committee.
 
 [28/2005 wef 01/12/2005]
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Reinstatement of registration
 
@@ -710,9 +964,13 @@ PRACTISING CERTIFICATES
 
 (i) his full name;
 
-(ii) the name under which he practises if different from his own name, or the name of the person employing him; and
+(ii) the name of the architectural practice under which he practises, or by which he is employed; and
 
-(iii) the principal and any other address or addresses at which he practises in Singapore;
+[Act 20 of 2017 wef 06/10/2017]
+
+(iii) the principal and any other address or addresses of the architectural practice under which he practises, or by which he is employed;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (b) such evidence as the Board may require that the applicant has complied with or is exempt from the rules relating to insurance against professional liability; and
 
@@ -726,7 +984,9 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (b) the applicant has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
 
-(c) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying architectural services in Singapore;
+(c) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by an architectural practice;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (d) the declaration under subsection (3) contains a statement that to its knowledge is false in a material particular;
 
@@ -734,17 +994,35 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 [15/95]
 
-(f) the Board is not satisfied that the applicant has complied with the prescribed requirements relating to continuing professional education; or
+(f) the Board is not satisfied that the applicant has complied with the prescribed requirements relating to continuing professional education;
 
 [18/2003 wef 01/01/2004]
 
 [28/2005 wef 01/12/2005]
 
-(g) the Board does not approve of the name under which the registered architect intends to carry on his practice.
+[Act 20 of 2017 wef 06/10/2017]
 
-[15/95]
+(g) the Board does not approve the name of the architectural practice under which the registered architect intends to carry on his practice or by which he is employed;
 
-[28/2005 wef 01/12/2005]
+[Act 20 of 2017 wef 06/10/2017]
+
+(h) the applicant’s qualification for registration under section 15(1)(a), (b) or (c) has been withdrawn or cancelled by the authority through which it was acquired or by which it was awarded or granted;
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(i) the applicant has failed to comply with any of the conditions imposed by the Minister under section 15(3); or
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(j) the applicant refuses or fails to comply with —
+
+(i) an order made (whether before, on or after the date of commencement of section 18(d) of the Architects (Amendment) Act 2017) by the Board under section 31B(1)(a) (pursuant to the recommendation of an Investigation Committee under section 31A(d)), or under section 31B(1)(c);
+
+(ii) an order made (whether before, on or after the date of commencement of section 18(d) of the Architects (Amendment) Act 2017) by a Disciplinary Committee under section 31G(2)(c) or (3) to pay a penalty or sum, or under section 31G(2)(e); or
+
+(iii) any prohibition, restriction or condition imposed by the Board under section 15(2B).
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (5) Any registered architect (not being a registered architect who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period specified in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -754,9 +1032,11 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (6) Subject to subsection (9), a practising certificate shall, unless earlier cancelled, be in force from the date of its issue until 31st December of the year in respect of which it is issued.
 
-(7) A practising certificate shall specify the name, the principal address and all other addresses of the firm or corporation under which the registered architect is practising or by which he is employed.
+(7) A practising certificate shall specify the name, the principal address and all other addresses of the architectural practice under which the registered architect is practising or by which he is employed.
 
 [28/2005 wef 01/12/2005]
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (8) Any change in such name or address shall be notified by the registered architect concerned to the Registrar within 2 weeks of such change and an endorsement of such change shall be obtained from the Registrar.
 
@@ -790,9 +1070,21 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 [42/2005 wef 30/01/2006]
 
-(c) the articles of association of the corporation provide that at least a prescribed number or proportion of the directors of the corporation shall be registered architects or allied professionals who each has in force a practising certificate;
+(c) the articles of association of the corporation provide that —
 
-[28/2005 wef 01/12/2005]
+(i) at least a prescribed number or prescribed proportion of the directors of the corporation must be registered architects or allied professionals, each of whom must have in force a practising certificate;
+
+(ii) any person whose name and particulars have been removed from any of the following registers other than upon an application by that person, must not be a director unless his name and particulars have been reinstated:
+
+(A) the register of architects;
+
+(B) the register of registered professional engineers kept and maintained by the Professional Engineers Board under section 8 of the Professional Engineers Act (Cap. 253);
+
+(C) the register of surveyors kept and maintained by the Land Surveyors Board under section 9 of the Land Surveyors Act (Cap. 156); and
+
+(iii) any person who has been suspended from practice as a registered architect under this Act, or as a registered professional engineer under the Professional Engineers Act, or as a registered surveyor under the Land Surveyors Act, must not be a director for so long as he remains suspended;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (d) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
 
@@ -824,7 +1116,9 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (i) no person shall be a director of the corporation unless he is a registered architect or an allied professional;
 
-(ii) at least a prescribed number or proportion of the directors of the corporation shall be registered architects or allied professionals who each has in force a practising certificate; and
+(ii) at least a prescribed number or proportion of the directors of the corporation shall be registered architects or allied professionals who each has in force a practising certificate;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (iii) no person shall be registered as a member of that corporation —
 
@@ -833,6 +1127,20 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 (B) if he is a nominee of a person who is not a registered architect or an allied professional;
 
 [28/2005 wef 01/12/2005]
+
+(iv) any person whose name and particulars have been removed from any of the following registers other than upon an application by that person, must not be a director unless his name and particulars have been reinstated:
+
+(A) the register of architects;
+
+(B) the register of registered professional engineers kept and maintained by the Professional Engineers Board under section 8 of the Professional Engineers Act;
+
+(C) the register of surveyors kept and maintained by the Land Surveyors Board under section 9 of the Land Surveyors Act; and
+
+[Act 20 of 2017 wef 06/10/2017]
+
+(v) any person who has been suspended from practice as a registered architect under this Act, or as a registered professional engineer under the Professional Engineers Act, or as a registered surveyor under the Land Surveyors Act, must not be a director for so long as he remains suspended;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (c) the business of the corporation, so far as it relates to the supply of architectural services, will be under the control and management of a director of the corporation who —
 
@@ -1018,13 +1326,21 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (g) the corporation, partnership or limited liability partnership has contravened any provision of the prescribed code of professional conduct and ethics;
 
-(h) the corporation, partnership or limited liability partnership has contravened section 22, 23 or 24 or has been convicted of an offence under this Act;
+(h) the corporation, partnership or limited liability partnership has contravened section 22, 23 or 24 or failed to comply with any condition imposed under section 21, or has been convicted of an offence under this Act;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (i) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership or limited liability partnership, affords grounds for believing that the corporation, partnership or limited liability partnership, as the case may be, will not supply architectural services in Singapore in accordance with any written law and with honesty and integrity; or
 
 (j) the corporation, partnership or limited liability partnership has refused or failed to comply with an order of the Board made under subsection (2).
 
-(2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists, by order impose on the corporation, partnership or limited liability partnership concerned a penalty not exceeding $20,000 and every such penalty shall be recoverable as a debt due to the Board.
+(2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists —
+
+(a) by order impose on the corporation, partnership or limited liability partnership concerned a penalty not exceeding $100,000 and every such penalty is recoverable as a debt due to the Board; or
+
+(b) by writing censure the corporation, partnership or limited liability partnership.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (3) The Board shall not exercise its powers under subsection (1) or (2) unless an opportunity of being heard by a representative in writing or by counsel had been given to the corporation, partnership or limited liability partnership against which the Board intends to exercise its powers.
 
@@ -1080,7 +1396,7 @@ DISCIPLINARY PROCEEDINGS
 
 ### Complaints against registered architects
 
-28\. Any complaint concerning —
+28\. Any complaint or information concerning —
 
 (a) the conviction of a registered architect of any offence involving fraud, dishonesty or moral turpitude, or implying a defect in character which makes him unfit for his profession;
 
@@ -1090,11 +1406,15 @@ DISCIPLINARY PROCEEDINGS
 
 (d) the ability of a registered architect to carry out the duties of an architect effectively in Singapore; or
 
-(e) any failure on the part of a registered architect, while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(e)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2),
+(e) any failure on the part of a registered architect, while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(f)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2),
+
+[Act 20 of 2017 wef 06/10/2017]
 
 shall be made to the Board in writing and shall be supported by such statutory declaration as the Board may require, except that no statutory declaration shall be required if the complaint is made or given by any public officer or officer of the Board.
 
 [28/2005 wef 01/12/2005]
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Review of complaints
 
@@ -1320,7 +1640,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) is no longer in a position to carry out the duties of a registered architect effectively in Singapore; or
 
-(e) while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, had failed to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(e)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2),
+(e) while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, had failed to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(f)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2),
+
+[Act 20 of 2017 wef 06/10/2017]
 
 the Disciplinary Committee may exercise one or more of the powers referred to in subsection (2).
 
@@ -1330,7 +1652,9 @@ the Disciplinary Committee may exercise one or more of the powers referred to in
 
 (b) by order suspend the registered architect from practice for a period of not more than 2 years;
 
-(c) by order impose on the registered architect a penalty not exceeding $10,000;
+(c) by order impose on the registered architect a penalty not exceeding $50,000;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (d) by writing censure the registered architect; or
 
@@ -1406,6 +1730,46 @@ and the High Court shall have jurisdiction to tax such costs and any such order 
 
 GENERAL
 
+### Investigators
+
+31K\.—(1) The Board may, in writing, appoint a member or an employee of the Board, a public officer or any other person as an investigator, subject to such conditions and limitations as the Board may specify, to investigate the commission of an offence under this Act.
+
+(2) An investigator may, for the purposes of subsection (1) —
+
+(a) by order in writing require any person —
+
+(i) to furnish any information within the person’s knowledge;
+
+(ii) to produce any document or other record, or any article or thing which may be in the person’s custody or possession and which may be related to or be connected with the subject matter of the investigation for inspection by the investigator and for making copies, or to provide copies of such document or other record; and
+
+(iii) if necessary, to attend at a specified time and place for the purpose of complying with sub‑paragraph (i) or (ii);
+
+(b) by order in writing require the attendance before the investigator of any person who, from any information given or otherwise, appears to be acquainted with the facts and circumstances of the matter under investigation; and
+
+(c) examine orally any person apparently acquainted with the facts and circumstances of the matter under investigation, and to reduce into writing the answer given or statement made by that person who is bound to state truly the facts and circumstances with which the person is acquainted, and the statement made by that person must be read over to the person and must, after correction, be signed by the person.
+
+(3) An investigator may apply to a Magistrate for a search warrant relating to any premises if the investigator has reasonable cause to believe that evidence of the commission of an offence under this Act can be found in the premises.
+
+(4) The Magistrate may issue a search warrant if satisfied that there are reasonable grounds to do so.
+
+(5) A search warrant issued under subsection (4) authorises the investigator to whom it is directed to enter and search the premises referred to in the warrant and to do all or any of the following:
+
+(a) inspect and make copies of and take extracts from, or require the person or the person having the management or control of the premises to provide copies of or extracts from, any document, record or electronic material relating to the affairs of the premises or services provided at the premises;
+
+(b) take such photographs or video recording as the investigator thinks necessary to record the premises or part of the premises, including any instrument, article, document or record found on the premises;
+
+(c) seize and remove from the premises any record, document, or any other material which the investigator reasonably believes to be the subject matter of, or to be connected with, an investigation under subsection (1).
+
+(6) Any person who —
+
+(a) intentionally offers any resistance to or wilfully delays an investigator in the exercise of any power under subsection (2) or pursuant to a search warrant issued under subsection (4); or
+
+(b) fails to comply with any requisition or order of an investigator under subsection (2),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 20 of 2017 wef 06/10/2017]
+
 ### Application of fees received by Board
 
 32\.—(1) All fees payable under this Act shall be paid to the Board to be applied in the first place to defraying expenses of registration and other expenses of the administration of this Act, including any expenses of the Board that may be allowed under any rules and thereafter to providing scholarships and the promotion of learning and education in connection with architecture.
@@ -1420,7 +1784,9 @@ GENERAL
 
 (5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor approved by the Minister.
 
-(6) The Board shall, as soon as practicable after the end of each accounting year, but not later than 3 months from the end of that year unless the Minister otherwise authorises in writing, submit to the Minister a report of its functions, proceedings and activities during the preceding year.
+(6) The Board shall, as soon as practicable after the end of each accounting year, but not later than 6 months from the end of that year unless the Minister otherwise authorises in writing, submit to the Minister a report of its functions, proceedings and activities during the preceding year.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 33\. [Repealed by Act 28 of 2005 wef 01/12/2005]
 
@@ -1444,11 +1810,119 @@ by making or producing or causing to be made or produced any false or fraudulent
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Offences by bodies corporate, etc.
+### Offences by corporations
 
-35\. Where a corporation, partnership, limited liability partnership or unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership, limited liability partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership, limited liability partnership or association shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+35\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
 
-[28/2005 wef 01/12/2005]
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the officer, employee or agent had that state of mind,
+
+is evidence that the corporation had that state of mind.
+
+(2) Where a corporation commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the corporation, or a member of a corporation (in the case where the affairs of the corporation are managed by its members); or
+
+(ii) an individual who is involved in the management of the corporation and is in a position to influence the conduct of the corporation in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or
+
+(iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.
+
+(6) In this section —
+
+“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —
+
+(a) any person purporting to act in any such capacity; and
+
+(b) for a corporation whose affairs are managed by its members, any of those members as if the member is a director of the corporation;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 20 of 2017 wef 06/10/2017]
+
+### Offences by unincorporated associations or partnerships
+
+35A\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or the partnership engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the employee or agent had that state of mind,
+
+is evidence that the unincorporated association or partnership had that state of mind.
+
+(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the unincorporated association or a member of its governing body;
+
+(ii) a partner in the partnership; or
+
+(iii) an individual who is involved in the management of the unincorporated association or partnership and who is in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or
+
+(iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the unincorporated association or partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.
+
+(6) In this section —
+
+“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —
+
+(a) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and
+
+(b) any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 20 of 2017 wef 06/10/2017]
 
 ### Exemption
 
@@ -1478,7 +1952,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) prescribing the subject-matter of examinations to be conducted by or under the direction of the Board in the case of applicants or class of applicants for registration;
 
-(d) prescribing the form in which the register of architects, register of practitioners and register of licensees are to be kept and the particulars to be entered therein;
+(d) prescribing the form in which any register kept and maintained under section 8(1) is to be kept and the particulars to be entered therein;
+
+[Act 20 of 2017 wef 06/10/2017]
 
 (e) prescribing a code of professional conduct and ethics;
 
@@ -1585,6 +2061,10 @@ This Legislative History is provided for the convenience of users of the Archite
 |||(Bill No. 25/2014)|
 ||Date of Second and Third Readings|8 October 2015|
 ||Date of commencement|3 January 2016|
+|15.|**Act 20 of 2017—Architects (Amendment) Act 2017**|
+||Date of First Reading|6 February 2017 (Bill No. 8/2017 published on 6 February 2017)|
+||Date of Second and Third Readings|28 February 2017|
+||Date of commencement|6 October 2017|
 ## COMPARATIVE TABLE
 
 Architects Act
