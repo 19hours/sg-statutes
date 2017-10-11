@@ -712,7 +712,9 @@ may, within 30 days after being informed of the Registrar’s decision, appeal t
 
 (b) is identical to the name of any other limited liability partnership, a limited partnership or a corporation, or to a registered business name;
 
-(c) is identical to a name that is reserved under section 19, section 16 of the Business Names Registration Act 2014, section 17(4) of the Limited Partnerships Act (Cap. 163B) or section 27(12B) or 378(15) of the Companies Act (Cap. 50); or
+(c) is identical to a name that is reserved under section 19, section 16 of the Business Names Registration Act 2014, section 17(4) of the Limited Partnerships Act (Cap. 163B) or section 27(12B), section 27(12B) as applied by section 357(2), or section 378(15) of the Companies Act (Cap. 50); or
+
+[Act 15 of 2017 wef 11/10/2017]
 
 (d) is a name of a kind that the Minister has directed the Registrar, by notification in theGazette, not to accept for registration.
 
@@ -4581,6 +4583,10 @@ This Legislative History is provided for the convenience of users of the Limited
 ||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 April 2017|
+|15.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|11 October 2017|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
