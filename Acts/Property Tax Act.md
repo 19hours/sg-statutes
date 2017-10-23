@@ -82,6 +82,8 @@
 
 - [33 Powers of Board](#Powers-of-Board)
 
+- [33A Hearing of appeal in absence of member of Board](#Hearing-of-appeal-in-absence-of-member-of-Board)
+
 - [34 Board’s decision to be final](#Board’s-decision-to-be-final)
 
 - [35 Appeals to High Court](#Appeals-to-High-Court)
@@ -156,11 +158,13 @@
 
 - [64 Power to enter upon lands for purposes of this Act](#Power-to-enter-upon-lands-for-purposes-of-this-Act)
 
+- [64A Power of Comptroller, etc., to obtain information and furnishing of information](#Power-of-Comptroller-etc-to-obtain-information-and-furnishing-of-information)
+
 - [65 Receipts, notices, etc., may be given by authorised officer](#Receipts-notices-etc-may-be-given-by-authorised-officer)
 
 - [66 Electronic service](#Electronic-service)
 
-- [67 Service of notices](#Service-of-notices)
+- [67 Service of notices, etc.](#Service-of-notices-etc)
 
 - [68 Service of summons](#Service-of-summons)
 
@@ -1166,9 +1170,11 @@ Chief Assessor or Comptroller to submit report
 
 (a) in the case of an appeal made under section 20A, dismiss the appeal or direct that such amendments as it thinks proper shall be made to the Valuation List for the year in respect of which the appeal was made and for the ensuing years; and
 
-(b) in the case of an appeal made under section 22, confirm, vary or rescind the proposal of the Comptroller.
+(b) in the case of an appeal made under section 22, confirm, vary or rescind the decision of the Comptroller.
 
 [24/73; 33/2002]
+
+[Act 38 of 2017 wef 23/10/2017]
 
 (2) The costs of an appeal to the Board under this Act shall be in the discretion of the Board and shall either be fixed by the Board or, on the order of the Board, be taxed by the Registrar, Deputy Registrar or an Assistant Registrar of the Supreme Court or the State Courts in accordance with the regulations made under section 72(1).
 
@@ -1185,6 +1191,26 @@ Chief Assessor or Comptroller to submit report
 [24/73]
 
 [23/2010 wef 25/10/2010]
+
+### Hearing of appeal in absence of member of Board
+
+33A\.—(1) Despite anything to the contrary in this Part, if, in the course of any appeal, or, in the case of a reserved judgment in any appeal, at any time before delivery of the judgment, any member of the Board hearing the appeal resigns or is unable, through illness or any other cause, to continue to hear or to determine the appeal, the remaining members of the Board (if 2 or more) must hear and determine the appeal unless the parties object.
+
+(2) In subsection (1), the Board is deemed to be duly constituted for the purposes of the appeal despite the resignation or inability to act of a member.
+
+(3) Despite section 28, in a case under subsection (1) —
+
+(a) where there are more than 2 members of the Board remaining, the appeal is to be decided in accordance with the decision of the majority of the remaining members and, if there is an equality of votes, the Chairman of the Board or, in the Chairman’s absence, the member presiding has a second or casting vote; or
+
+(b) where there are only 2 members of the Board remaining, the appeal is to be decided in accordance with the unanimous decision of both members.
+
+(4) The appeal must be reheard —
+
+(a) if the parties do not consent to the proceedings continuing before the remaining members of the Board under subsection (1); or
+
+(b) if the appeal is heard or determined by only 2 remaining members of the Board and they are unable to reach a unanimous decision.
+
+[Act 38 of 2017 wef 23/10/2017]
 
 ### Board’s decision to be final
 
@@ -1624,7 +1650,7 @@ OFFENCES AND PENALTIES
 
 ### Penalty for obstructing Comptroller, etc., in carrying out his duties
 
-56\. Any person who at any time hinders, obstructs or molests —
+56\. Any person who at any time hinders or obstructs —
 
 (a) the Comptroller or the Chief Assessor;
 
@@ -1632,9 +1658,11 @@ OFFENCES AND PENALTIES
 
 (c) any other person employed in the administration of this Act (including any officer of a statutory authority authorised by the SBNB under section 49(9)),
 
-in the performance and execution of his duty or of anything which he is empowered or required to do by virtue of or in consequence of this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+in the performance and execution of his duty or of anything which he is empowered or required to do by virtue of or in consequence of this Act, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [23/2010 wef 25/10/2010]
+
+[Act 38 of 2017 wef 23/10/2017]
 
 ### Offence to furnish false information
 
@@ -1728,21 +1756,135 @@ MISCELLANEOUS PROVISIONS
 
 ### Power to enter upon lands for purposes of this Act
 
-64\.—(1) For the purposes of carrying out in good faith the functions and duties of the Comptroller and the Chief Assessor, or the SBNB, under this Act —
+64\.—(1) For the purposes of carrying out in good faith the functions and duties of the SBNB under this Act —
 
-(a) the Comptroller or the Chief Assessor or any officer authorised by either of them in that behalf; or
+(a) a member of the SBNB; or
 
-(b) any member of the SBNB or officer of a statutory authority authorised by the SBNB under section 49(9),
+(b) an officer of a statutory authority authorised by the SBNB under section 49(9),
 
-as the case may be, may enter at all reasonable hours in the daytime into and upon any building or land without being liable to any legal proceedings or molestation whatsoever on account of such entry.
+may at all reasonable hours in the daytime enter any building or land.
 
-[23/2010 wef 25/10/2010]
+[Act 38 of 2017 wef 23/10/2017]
 
-(2) The Comptroller or the Chief Assessor or any such authorised officer, or such member of the SBNB or such officer of a statutory authority authorised by the SBNB, shall not enter into any dwelling-house in actual occupation, unless with the consent of the occupier thereof, without 6 hours’ previous notice to the occupier.
+(2) The member of the SBNB or the officer of a statutory authority authorised by the SBNB shall not enter into any dwelling-house in actual occupation, unless with the consent of the occupier thereof, without 6 hours’ previous notice to the occupier.
 
 [54
 
 [23/2010 wef 25/10/2010]
+
+[Act 38 of 2017 wef 23/10/2017]
+
+### Power of Comptroller, etc., to obtain information and furnishing of information
+
+64A\.—(1) The Comptroller, the Chief Assessor or an officer authorised by either of them in that behalf —
+
+(a) is entitled at all times to full and free access to all properties, documents, computers, computer programs and computer software (whether installed in a computer or otherwise) for any of the purposes of this Act;
+
+(b) is entitled to access to any information, code or technology which has the capability of retransforming or unscrambling encrypted data contained in or available to such computers into readable and comprehensive format or text for any of the purposes of this Act;
+
+(c) is entitled —
+
+(i) without fee or reward, to inspect, copy or take extracts from any such document, computer, computer program, computer software or computer output; and
+
+(ii) at any reasonable time to inspect and check the operation of any computer, device, apparatus or material which is or has been in use in connection with anything to which this section applies;
+
+(d) may take possession of any such document, computer, device, apparatus, material, computer program or computer software where in his opinion —
+
+(i) the inspection, checking or copying of such item or extraction from such item cannot reasonably be performed without taking possession;
+
+(ii) any such item may be interfered with or destroyed unless possession is taken; or
+
+(iii) any such item may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of tax or penalty, or in proceedings by way of an appeal against an assessment;
+
+(e) is entitled to require —
+
+(i) the person by whom or on whose behalf the computer is or has been used, or any person having charge of, or otherwise concerned with the operation of the computer, device, apparatus or material, to provide the Comptroller, the Chief Assessor or the officer with such reasonable assistance as he may require for the purposes of this section; and
+
+(ii) any person in possession of decryption information to grant the Comptroller, the Chief Assessor or the officer access to such decryption information that is necessary to decrypt data required for the purposes of this section; and
+
+(f) is entitled to require a person in or at the property, and who appears to the Comptroller, the Chief Assessor or the officer to be acquainted with any facts or circumstances concerning the person’s or another person’s property —
+
+(i) to answer any question to the best of that person’s knowledge, information and belief; or
+
+(ii) to take reasonable steps to produce a document for inspection.
+
+(2) The Comptroller, the Chief Assessor or an officer authorised by either of them in that behalf, may by notice require any person to give orally, in writing, or through the electronic service, as may be required, all such information concerning the person’s or any other person’s property as may be demanded of the person by the Comptroller, the Chief Assessor or the officer, as the case may be, for the purposes of this Act.
+
+(3) For the purposes of this Act, the Comptroller, the Chief Assessor or an officer authorised by either of them in that behalf, may by notice require any person to attend personally before the Comptroller, the Chief Assessor or an officer authorised by the Comptroller or the Chief Assessor in that behalf, at a place and time specified in the notice to do one or both of the following:
+
+(a) provide, to the best of that person’s knowledge, information and belief, any information concerning the person’s or any other person’s property;
+
+(b) take reasonable steps to produce for inspection a document concerning the property.
+
+(4) To avoid doubt, section 65(1) does not apply to a notice under subsection (2) or (3).
+
+(5) The power to require a person to provide information or produce a document under subsection (1)(f) or (2), or when in attendance before the Comptroller, the Chief Assessor, or an authorised officer pursuant to a notice under subsection (3), includes the power —
+
+(a) to require that person, or any person who is or was an officer or employee of that person, to provide an explanation of the information or document;
+
+(b) if the information is not provided or the document is not produced, to require that person to state, to the best of the person’s knowledge and belief, where it is;
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Comptroller, the Chief Assessor or the authorised officer (as the case may be) in legible form; and
+
+(d) in the case of a document, to inspect, copy or take extracts from the document without fee or reward, and to take possession of the document if in the opinion of the Comptroller, the Chief Assessor or the authorised officer —
+
+(i) the inspection, copying or extraction cannot reasonably be performed without taking possession of the document;
+
+(ii) the document may be interfered with or destroyed unless possession of the document is taken; or
+
+(iii) the document may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of tax or penalty, or in proceedings by way of an appeal against an assessment.
+
+(6) A statement made by any person asked under subsection (1)(f), or in compliance with a demand for information, must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) be signed by the person.
+
+(7) Any person who, without reasonable excuse, fails, neglects or refuses to comply with any notice or requirement of the Comptroller, the Chief Assessor or an officer authorised by either of them in that behalf under this section, or with a demand for information, shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
+
+(8) Any person who, in purported compliance with a notice or requirement of the Comptroller, the Chief Assessor or an officer authorised by either of them in that behalf under this section, or with a demand for information, produces any document which contains any information, or provides any information, known to the person to be false or misleading in a material particular —
+
+(a) without indicating to the Comptroller, the Chief Assessor or the officer that the information is false or misleading and the part that is false or misleading; and
+
+(b) without providing correct information to the Comptroller, the Chief Assessor or the officer if the person is in possession of, or can reasonably acquire, the correct information,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(9) A person is not obliged under this section to disclose (including through the production of a document) any information which the person is under any statutory obligation to observe secrecy.
+
+(10) The generality of the term “reasonable excuse” in subsection (7) is not affected by subsection (9).
+
+(11) In this section —
+
+“computer” and “computer output” have the same meanings as in section 2(1) of the Computer Misuse and Cybersecurity Act (Cap. 50A);
+
+“demand for information” means a demand by the Comptroller, the Chief Assessor or an officer authorised by either of them in that behalf to answer a question when in attendance before the Comptroller, the Chief Assessor or the officer pursuant to a notice under subsection (3);
+
+“document” includes, in addition to a document in writing —
+
+(a) any map, plan, graph or drawing;
+
+(b) any photograph;
+
+(c) any label, marking or other writing which identifies or describes anything of which it forms a part, or to which it is attached by any means;
+
+(d) any disc, tape, soundtrack or other device in which sounds or other data (not being visual images) are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it;
+
+(e) any film (including microfilm), negative, tape, disc or other device in which one or more visual images are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it; and
+
+(f) any paper or other material on which there are marks, impressions, figures, letters, symbols or perforations having a meaning for persons qualified to interpret them;
+
+“writing” includes any mode of representing or reproducing words, figures, drawings or symbols in a visible form.
+
+[Act 38 of 2017 wef 23/10/2017]
 
 ### Receipts, notices, etc., may be given by authorised officer
 
@@ -1760,11 +1902,9 @@ as the case may be, shall be sufficient authentication.
 
 [23/2010 wef 25/10/2010]
 
-(3) Where any person has given his consent for any notice, order or document to be served on him through the electronic service, that notice, order or document shall be deemed to be sufficiently authenticated if it is served on him by the transmission of an electronic record of it to his account with the electronic service.
+(3) Where any notice, order or document is served on any person through the electronic service in accordance with section 66(7), the notice, order or document is deemed to be sufficiently authenticated if it is served on the person by the transmission of an electronic record of it to the person’s account with the electronic service.
 
-[56
-
-[59/2004]
+[Act 38 of 2017 wef 23/10/2017]
 
 ### Electronic service
 
@@ -1772,7 +1912,9 @@ as the case may be, shall be sufficient authentication.
 
 (a) the filing or submission of any return or document;
 
-(b) the service of any notice, order or document by the Comptroller; and
+(b) the service of any notice, order or document by the Comptroller or the Chief Assessor; and
+
+[Act 38 of 2017 wef 23/10/2017]
 
 (c) the making of such applications as the Comptroller may determine.
 
@@ -1810,13 +1952,15 @@ as the case may be, shall be sufficient authentication.
 
 [59/2004]
 
-(7) Where any person has given his consent for any notice, order or document to be served on him through the electronic service, the Comptroller may serve that notice, order or document on that person by transmitting an electronic record of that notice, order or document to that person’s account with the electronic service.
+(7) Where regulations made under subsection (13) permit the Comptroller or the Chief Assessor to serve through the electronic service any notice, order or document on a person who has been assigned an account with the electronic service, the Comptroller or the Chief Assessor may serve it on the person by transmitting an electronic record of it to that account.
 
-[59/2004]
+[Act 38 of 2017 wef 23/10/2017]
 
 (8) Notwithstanding any other written law, in any proceedings under this Act —
 
-(a) an electronic record of any return or document that was filed or submitted, or any notice, order or document that was served, through the electronic service; or
+(a) an electronic record of any return or document that was filed or submitted, or any notice, order or document that was served, through the electronic service in accordance with regulations made under subsections (13) and (14), and with section 67; or
+
+[Act 38 of 2017 wef 23/10/2017]
 
 (b) any copy or print-out of that electronic record,
 
@@ -1862,13 +2006,19 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 [59/2004]
 
-(13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section, including regulations prescribing —
+(13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section and section 67(1)(d), including regulations prescribing —
 
 (a) the procedure for the use of the electronic service, including the procedure in circumstances where there is a breakdown or interruption of the electronic service;
 
 (b) the procedure for the correction of errors in, or the amendment of, any return or document that is filed or submitted through the electronic service;
 
-(c) the manner in which a person who has given his consent for a notice, an order or any other document to be served on him through the electronic service shall be notified of the transmission of an electronic record of that notice, order or document to his account with the electronic service;
+(ba) the circumstances in which the Comptroller or the Chief Assessor may serve any notice, order or document through the electronic service on a person assigned an account with the electronic service;
+
+[Act 38 of 2017 wef 23/10/2017]
+
+(c) the manner in which a person who has been served through the electronic service with any notice, order or other document is to be notified of the transmission of an electronic record of it to the person’s account with the electronic service;
+
+[Act 38 of 2017 wef 23/10/2017]
 
 (d) the manner in which authentication codes are to be assigned; and
 
@@ -1878,7 +2028,29 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 [59/2004]
 
-### Service of notices
+[Act 38 of 2017 wef 23/10/2017]
+
+(14) Regulations made for the purpose of subsection (13)(ba) —
+
+(a) may permit the service of any notice, order or document through the electronic service in circumstances where —
+
+(i) the person consents to such service; or
+
+(ii) the Comptroller or the Chief Assessor (as the case may be) gives the person notice of the Comptroller’s or the Chief Assessor’s intention of such service and the person does not refuse such service;
+
+(b) may provide for the giving of any notice of the Comptroller’s or the Chief Assessor’s intention, or the person’s consent or refusal, mentioned in paragraph (a), including —
+
+(i) the matters that must be contained in the notice; and
+
+(ii) the time within which, and the form and manner in which, the consent or refusal must be received by the Comptroller or the Chief Assessor;
+
+(c) may provide when the consent or refusal of the person takes effect and when the Comptroller or the Chief Assessor must give effect to such consent or refusal; and
+
+(d) may provide for any other matter necessary or incidental to the purposes in subsection (13)(ba) and paragraphs (a), (b) and (c).
+
+[Act 38 of 2017 wef 23/10/2017]
+
+### Service of notices, etc.
 
 67\.—(1) Every notice, order or document required or authorised by this Act to be served on any person may be served —
 
@@ -1888,17 +2060,21 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 (c) by sending it by ordinary post addressed to the person at his usual or last known place of residence or business; or
 
-(d) where the person has given his consent for it to be served on him through the electronic service, by transmitting an electronic record of it to his account with the electronic service.
+(d) through the electronic service in accordance with regulations made under section 66(13) and (14), by transmitting an electronic record of it to his account with the electronic service.
 
 [46/96; 59/2004]
 
-(2) Where a person has given his consent for a notice, an order or any other document to be served on him through the electronic service, that notice, order or document shall be deemed to have been served at the time when an electronic record of that notice, order or document enters his account with the electronic service.
+[Act 38 of 2017 wef 23/10/2017]
 
-[59/2004]
+(2) Where any notice, order or document is served on any person through the electronic service under subsection (1)(d), the notice, order or document is taken to have been served at the time when an electronic record of it enters the person’s account with the electronic service.
+
+[Act 38 of 2017 wef 23/10/2017]
 
 (3) Notwithstanding subsections (1) and (2), no person shall be liable to prosecution for an offence —
 
-(a) under section 16(2) or 21(10) in respect of failure to comply with the terms of a notice;
+(a) under section 16(2), 21(10) or 64A(7) in respect of failure to comply with the terms of a notice;
+
+[Act 38 of 2017 wef 23/10/2017]
 
 (b) under section 18(3) in respect of failure or neglect to furnish a return required to be made pursuant to a notice under section 18(2); or
 
@@ -1921,6 +2097,8 @@ unless the notice or order, as the case may be, has been served on him personall
 [57
 
 [46/96]
+
+[Act 38 of 2017 wef 23/10/2017]
 
 ### Service of summons
 
@@ -2136,6 +2314,10 @@ This Legislative History is provided for the convenience of users of the Propert
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
 |||(item 19 in the Schedule)|
+|25.|**Act 38 of 2017—Property Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017 (Bill No. 35/2017 published on 11 September 2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|23 October 2017|
 ## COMPARATIVE TABLE
 
 Property Tax Act
