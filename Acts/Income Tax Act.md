@@ -24,7 +24,7 @@
 
 - [7 Rules](#Rules)
 
-- [8 Service and signature of notices](#Service-and-signature-of-notices)
+- [8 Service and signature of notices, etc.](#Service-and-signature-of-notices-etc)
 
 - [8A Electronic service](#Electronic-service)
 
@@ -158,7 +158,7 @@
 
 - [14L Further deduction for expenses incurred in relocation or recruitment of overseas talent](#Further-deduction-for-expenses-incurred-in-relocation-or-recruitment-of-overseas-talent)
 
-- [14M Deduction for hotel refurbishment expenditure](#Deduction-for-hotel-refurbishment-expenditure)
+- [14M (Repealed)](#Repealed)
 
 - [14N Deduction for upfront land premium](#Deduction-for-upfront-land-premium)
 
@@ -254,13 +254,25 @@
 
 - [34 Decision of Comptroller no bar to appeal](#Decision-of-Comptroller-no-bar-to-appeal)
 
-- [34A Adjustment on change of basis of computing profits of financial instruments](#Adjustment-on-change-of-basis-of-computing-profits-of-financial-instruments)
+- [34A Adjustment on change of basis of computing profits of financial instruments resulting from FRS 39 or SFRS for Small Entities](#Adjustment-on-change-of-basis-of-computing-profits-of-financial-instruments-resulting-from-FRS-39-or-SFRS-for-Small-Entities)
+
+- [34AA Adjustment on change of basis of computing profits of financial instruments resulting from FRS 109](#Adjustment-on-change-of-basis-of-computing-profits-of-financial-instruments-resulting-from-FRS-109)
 
 - [34B Islamic financing arrangements](#Islamic-financing-arrangements)
 
 - [34C Amalgamation of companies](#Amalgamation-of-companies)
 
 - [34D Transactions not at arm’s length](#Transactions-not-at-arm’s-length)
+
+- [34E Surcharge on transfer pricing adjustments](#Surcharge-on-transfer-pricing-adjustments)
+
+- [34F Transfer pricing documentation](#Transfer-pricing-documentation)
+
+- [34G Modification of provisions for companies redomiciled in Singapore](#Modification-of-provisions-for-companies-redomiciled-in-Singapore)
+
+- [34H Tax credits for approved redomiciled companies](#Tax-credits-for-approved-redomiciled-companies)
+
+- [34I Adjustments arising from adoption of FRS 115](#Adjustments-arising-from-adoption-of-FRS-115)
 
 [**Part VIII ASCERTAINMENT OF STATUTORY INCOME**](#Part-VIII)
 
@@ -384,7 +396,7 @@
 
 - [43T (Repealed)](#Repealed)
 
-- [43U Concessionary rate of tax for income derived from organising or staging tourism event](#Concessionary-rate-of-tax-for-income-derived-from-organising-or-staging-tourism-event)
+- [43U (Repealed)](#Repealed)
 
 - [43V (Repealed)](#Repealed)
 
@@ -554,6 +566,8 @@
 
 - [80 Hearing and disposal of appeals](#Hearing-and-disposal-of-appeals)
 
+- [80A Hearing of appeal in absence of member of Board](#Hearing-of-appeal-in-absence-of-member-of-Board)
+
 - [81 Appeals to High Court](#Appeals-to-High-Court)
 
 - [82 Cases stated for High Court](#Cases-stated-for-High-Court)
@@ -588,7 +602,11 @@
 
 - [92D Remission of tax of companies for years of assessment 2013, 2014 and 2015](#Remission-of-tax-of-companies-for-years-of-assessment-2013-2014-and-2015)
 
-- [92E Remission of tax of companies for years of assessment 2016 and 2017](#Remission-of-tax-of-companies-for-years-of-assessment-2016-and-2017)
+- [92E Remission of tax of companies for year of assessment 2016](#Remission-of-tax-of-companies-for-year-of-assessment-2016)
+
+- [92F Remission of tax of companies for year of assessment 2017](#Remission-of-tax-of-companies-for-year-of-assessment-2017)
+
+- [92G Remission of tax of companies for year of assessment 2018](#Remission-of-tax-of-companies-for-year-of-assessment-2018)
 
 - [93 Repayment of tax](#Repayment-of-tax)
 
@@ -810,7 +828,7 @@ when such communications are in the possession of a person who is entitled to po
 
 “limited partnership” means a limited partnership registered or formed under any law in force in Singapore or elsewhere;
 
-“local forces” means the Singapore Armed Forces and any volunteer or reserve forces attached thereto;
+[Deleted by Act 39 of 2017 wef 26/10/2017]
 
 “offshore mineral” means mineral from the seabed or that is dissolved in sea water;
 
@@ -996,6 +1014,14 @@ shall be guilty of an offence.
 
 [22/2011; 19/2013]
 
+(4AA) Subsection (4) also applies to an agreement or arrangement to which Part XXB applies between the Minister or the Minister’s authorised representative and the authority of another country that exercises powers or carries out duties corresponding to a power or duty of the Minister or representative, as if —
+
+(a) a reference to the Government of Singapore is a reference to the Minister or the Minister’s authorised representative; and
+
+(b) a reference to the government of another country is a reference to that authority of the other country.
+
+[Act 39 of 2017 wef 26/10/2017]
+
 (4A) The obligation as to secrecy imposed by this section shall not prevent the disclosure to the authorised officers of the government of any other country of any information that the Comptroller considers to be foreseeably relevant to the administration or enforcement of that other country’s laws concerning any tax of that country, pursuant to the terms of an arrangement that has effect under section 49 or 105BA.
 
 [Act 37 of 2014 wef 27/11/2014]
@@ -1080,15 +1106,17 @@ any information required for the performance of the official duties of the chief
 
 (2) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Service and signature of notices
+### Service and signature of notices, etc.
 
-8\.—(1) Except where it is provided by this Act that service shall be effected either personally or by registered post, a notice may be served on a person —
+8\.—(1) Except where it is provided by this Act that service shall be effected either personally or by registered post, the Comptroller may serve a notice, direction or other document on a person —
 
 (a) personally;
 
 (b) by being sent through the post; or
 
-(c) where the person has given his consent for the notice to be served on him through the electronic service, by transmitting an electronic record of the notice to his account with the electronic service.
+(c) through the electronic service if the notice, direction or other document is permitted to be served in this way by regulations made under section 8A(13)(ba) and (13A).
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [49/2004]
 
@@ -1102,7 +1130,9 @@ any information required for the performance of the official duties of the chief
 
 (3) Where the person to whom there has been addressed a registered letter containing any notice which may be given under the provisions of this Act is informed of the fact that there is a registered letter awaiting him at a post office and such person refuses or neglects to take delivery of such registered letter, such notice shall be deemed to have been served upon him on the date on which he was informed that there was a registered letter awaiting him at a post office.
 
-(3A) Where a person has given his consent for a notice to be served on him through the electronic service, the notice shall be deemed to have been served at the time when an electronic record of the notice enters his account with the electronic service.
+(3A) Where a notice, direction or other document is served on any person through the electronic service under subsection (1)(c), the notice, direction or other document is taken to have been served at the time when an electronic record of it enters the person’s account with the electronic service.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [49/2004]
 
@@ -1114,7 +1144,11 @@ any information required for the performance of the official duties of the chief
 
 [49/2004]
 
-(6) Where any person has given his consent for any notice referred to in subsection (4) or (5) to be served on him through the electronic service, the notice need not be signed if it is served on him by transmitting an electronic record of the notice to his account with the electronic service.
+(6) Where a notice in subsection (4) or (5) may be served on a person through the electronic service under subsection (1)(c), the notice need not be signed if it is served on the person by transmitting an electronic record of the notice to the person’s account with the electronic service.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [49/2004]
 
@@ -1128,7 +1162,9 @@ any information required for the performance of the official duties of the chief
 
 [Act 15 of 2016 wef 20/07/2016]
 
-(b) the service of any notice by the Comptroller.
+(b) the service of any notice, direction or other document by the Comptroller.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [49/2004]
 
@@ -1186,13 +1222,17 @@ do so through the electronic service.
 
 [Act 2 of 2016 wef 11/04/2016]
 
-(7) Where any person has given his consent for any notice to be served on him through the electronic service, the Comptroller may serve the notice on that person by transmitting an electronic record of the notice to that person’s account with the electronic service.
+(7) Where regulations made under subsection (13) permit the Comptroller to serve through the electronic service a notice, direction or other document on a person who has been assigned an account with the electronic service, the Comptroller may serve it on the person by transmitting an electronic record of it to that account.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [49/2004]
 
 (8) Notwithstanding any other written law, in any proceedings under this Act —
 
-(a) an electronic record of any return, estimate, statement, document or information that was filed, submitted or provided, or any notice that was served, through the electronic service; or
+(a) an electronic record of any return, estimate, statement, document or information that was filed, submitted or provided through the electronic service, or any notice, direction or other document that was served through the electronic service in accordance with regulations made under subsections (13)(ba) and (13A); or
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 2 of 2016 wef 11/04/2016]
 
@@ -1210,7 +1250,9 @@ shall be admissible as evidence of the facts stated or contained therein if that
 
 (9) For the avoidance of doubt —
 
-(a) an electronic record of any return, estimate, statement, document or information that was filed, submitted or provided, or any notice that was served, through the electronic service; or
+(a) an electronic record of any return, estimate, statement, document or information that was filed, submitted or provided through the electronic service, or any notice, direction or other document that was served through the electronic service in accordance with regulations made under subsections (13)(ba) and (13A); or
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 2 of 2016 wef 11/04/2016]
 
@@ -1252,7 +1294,7 @@ shall be sufficient evidence that the electronic record, copy or print‑out has
 
 [49/2004]
 
-(13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section, including regulations prescribing —
+(13) The Minister may make regulations which are necessary or expedient for carrying out the purposes of this section and section 8(1)(c), including regulations prescribing —
 
 (a) the procedure for the use of the electronic service, including the procedure in circumstances where there is a breakdown or interruption of the electronic service;
 
@@ -1260,13 +1302,39 @@ shall be sufficient evidence that the electronic record, copy or print‑out has
 
 [Act 2 of 2016 wef 11/04/2016]
 
-(c) the manner in which a person who has given his consent for a notice to be served on him through the electronic service shall be notified of the transmission of an electronic record of the notice to his account with the electronic service;
+(ba) the circumstances in which the Comptroller may serve any notice, direction or other document through the electronic service on a person assigned an account with the electronic service;
+
+[Act 39 of 2017 wef 26/10/2017]
+
+(c) the manner in which a person who has been served through the electronic service with any notice, direction or other document is to be notified of the transmission of an electronic record of it to the person’s account with the electronic service;
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (d) the manner in which authentication codes are to be assigned; and
 
 (e) anything which may be prescribed under this section.
 
 [49/2004]
+
+(13A) Regulations made for the purpose of subsection (13)(ba) —
+
+(a) may provide for service of any notice, direction or other document through the electronic service in circumstances where —
+
+(i) the person consents to such service; or
+
+(ii) the Comptroller gives the person notice of the Comptroller’s intention of such service and the person does not refuse such service;
+
+(b) may make provision with respect to the giving of any notice of the Comptroller’s intention, or the person’s consent or refusal, mentioned in paragraph (a), including —
+
+(i) the matters that must be contained in the notice; and
+
+(ii) the time within which, and the form and manner in which, the consent or refusal must be received by the Comptroller;
+
+(c) may provide when the consent or refusal of the person takes effect and when the Comptroller must give effect to such consent or refusal; and
+
+(d) may provide for any other matter necessary or incidental to the purposes in subsection (13)(ba) and paragraphs (a), (b) and (c).
+
+[Act 39 of 2017 wef 26/10/2017]]
 
 (14) In this section, to avoid doubt, “document” includes a notice required to be given under section 45(1)(b) or 45D(2).
 
@@ -1954,9 +2022,17 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 [19/2013]
 
-(5B) The maximum amount is $1,500 in any year less any previous contribution made to that medisave account in that year by that employer in his capacity as a person of a prescribed description referred to in section 13(1)(jd) (if applicable) that is exempt from tax under that provision.
+(5B) The maximum amount is —
+
+(a) $1,500 per year (for contributions made before 2018); or
+
+(b) $2,730 per year (for contributions made in 2018 and in each subsequent year),
+
+less any previous contribution that is made to the medisave account in that year by the employer in the employer’s capacity as a person of a prescribed description in section 13(1)(jd) (if applicable), and that is exempt from tax under that provision.
 
 [19/2013]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (6) Subsections (4) and (5A) shall not apply to contributions made by an employer in any year from 1st January 1999 to the Central Provident Fund in respect of an employee who holds a professional visit pass or a work pass in that year.
 
@@ -2136,13 +2212,17 @@ then that amount shall be deemed as income derived by that person from those ser
 
 [19/2013]
 
-(1B) Notwithstanding subsection (1A), the person referred to in that subsection may elect in accordance with subsection (1D) for the Comptroller to assess to tax any deemed income referred to in subsection (1A) from providing any FRS 11 construction or upgrade services under the public-private partnership arrangement, as income derived by him in the basis period in which those services are completed.
+(1B) Notwithstanding subsection (1A), the person referred to in that subsection may elect in accordance with subsection (1D) for the Comptroller to assess to tax any deemed income referred to in subsection (1A) from providing any FRS 11 construction or upgrade services, or FRS 115 construction or upgrade services, under the public-private partnership arrangement, as income derived by him in the basis period in which those services are completed.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [19/2013]
 
 (1C) Where an election has been made in accordance with subsection (1D), then, notwithstanding any other provision of this Act —
 
-(a) the income referred to in subsection (1B) shall be deemed as income derived by the person in the basis period in which the FRS 11 construction or upgrade services are completed; and
+(a) the income referred to in subsection (1B) shall be deemed as income derived by the person in the basis period in which the FRS 11 construction or upgrade services, or FRS 115 construction or upgrade services (as the case may be) are completed; and
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (b) any expenditure for which a deduction or an allowance may be allowed or made to him under Parts V and VI in respect of those services shall be treated as having been incurred in that basis period.
 
@@ -2150,7 +2230,9 @@ then that amount shall be deemed as income derived by that person from those ser
 
 (1D) The election shall be made by notice in writing to the Comptroller —
 
-(a) at the time of lodgment of the return of income for the year of assessment relating to the basis period in which the person first provides the FRS 11 construction or upgrade services, being the year of assessment 2012 or any subsequent year of assessment; or
+(a) at the time of lodgment of the return of income for the year of assessment relating to the basis period in which the person first provides the FRS 11 construction or upgrade services, or FRS 115 construction or upgrade services (as the case may be), being the year of assessment 2012 or any subsequent year of assessment; or
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (b) at such later time as the Comptroller may allow.
 
@@ -2166,7 +2248,21 @@ then that amount shall be deemed as income derived by that person from those ser
 
 “FRS 11 construction or upgrade services” means any construction or upgrade services (as the case may be) to which FRS 11 applies;
 
-“FRS 11”, “FRS 17”, “INT FRS 104” and “INT FRS 112” mean the financial reporting standards known as Financial Reporting Standard 11 (Construction Contracts), Financial Reporting Standard 17 (Leases), Interpretation of Financial Reporting Standard 104 (Determining whether an arrangement contains a lease) and Interpretation of Financial Reporting Standard 112 (Service Concession Arrangements), respectively, issued by the Accounting Standards Council under the Accounting Standards Act (Cap. 2B).
+“FRS 115 construction or upgrade services” means any construction or upgrade services (as the case may be) to which FRS 115 applies;
+
+“FRS 11”, “FRS 17”, “FRS 115”, “INT FRS 104” and “INT FRS 112” mean the financial reporting standards issued by the Accounting Standards Council under the Accounting Standards Act (Cap. 2B) and known, respectively, as —
+
+(a) Financial Reporting Standard 11 (Construction Contracts);
+
+(b) Financial Reporting Standard 17 (Leases);
+
+(c) Financial Reporting Standard 115 (Revenue from Contracts with Customers);
+
+(d) Interpretation of Financial Reporting Standard 104 (Determining whether an arrangement contains a lease); and
+
+(e) Interpretation of Financial Reporting Standard 112 (Service Concession Arrangements).
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [27/2009; 19/2013]
 
@@ -2884,15 +2980,15 @@ by —
 
 (i) the interest derived by any person from any qualifying project debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive);
 
-[Act 37 of 2014 wef 27/11/2014]
-
 [Act 39 of 2017 wef 01/04/2017]
+
+[Act 37 of 2014 wef 27/11/2014]
 
 (ii) the discount, prepayment fee, redemption premium and break cost derived by any person from any qualifying project debt securities issued during the period from 15 February 2007 to 31 December 2022 (both dates inclusive); and
 
-[Act 37 of 2014 wef 27/11/2014]
-
 [Act 39 of 2017 wef 01/04/2017]
+
+[Act 37 of 2014 wef 27/11/2014]
 
 (iii) such other income derived by any person that is directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations;
 
@@ -2984,7 +3080,15 @@ if they are issued on or after 28th June 2013, cannot have their tenure shortene
 
 Provided that the amount of the voluntary contribution does not exceed the amount allowable under the Central Provident Fund Act and is within the medisave contribution ceiling prevailing at the time the contribution is made;
 
-(jd) any voluntary contribution in cash made in 2013 or any subsequent year by a person of a description prescribed by the Minister to the medisave account maintained under the Central Provident Fund Act of a self-employed individual, up to $1,500 less any previous contribution made to that medisave account in that year by the person of the prescribed description in his capacity as an employer (if applicable) which is not deemed to be income under section 10C(5A);
+(jd) any voluntary contribution in cash made in 2013 or any subsequent year by a person of a description prescribed by the Minister, to the medisave account maintained under the Central Provident Fund Act of a self-employed individual, up to —
+
+(i) $1,500 per year (for contributions made before 2018); or
+
+(ii) $2,730 per year (for contributions made in 2018 and in each subsequent year),
+
+less any previous contribution that is made to the same medisave account in the same year by the person of the prescribed description in the person’s capacity as an employer (if applicable), and that is not treated as income under section 10C(5A);
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (k) sums derived from, or received in, Singapore as pensions, being —
 
@@ -3056,7 +3160,7 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(s) sums payable by way of annual bounty out of the public revenue to members of such local forces as the Minister may from time to time by order declare to be a force to which this paragraph shall apply;
+(s) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
 (t) the income derived on or after 20th August 1968 from interest on moneys held on deposit in an approved bank in Singapore by —
 
@@ -3164,9 +3268,9 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards.
 
-[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
-
 [Act 39 of 2017 wef 01/04/2014]
+
+[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
 
 (2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018 (both dates inclusive) where 50% or more of those securities which are outstanding at any time during the life of the issue is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities and where such interest is derived by —
 
@@ -3202,15 +3306,15 @@ except where such income is derived through a partnership in Singapore or is der
 
 (a) any interest derived from any qualifying project debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive);
 
-[Act 37 of 2014 wef 27/11/2014]
-
 [Act 39 of 2017 wef 01/04/2017]
+
+[Act 37 of 2014 wef 27/11/2014]
 
 (b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15 February 2007 to 31 December 2022 (both dates inclusive); or
 
-[Act 37 of 2014 wef 27/11/2014]
-
 [Act 39 of 2017 wef 01/04/2017]
+
+[Act 37 of 2014 wef 27/11/2014]
 
 (c) such other income directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
@@ -3224,15 +3328,15 @@ if 50% or more of those securities which are outstanding at any time during the 
 
 (a) any interest derived from any qualifying project debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive);
 
-[Act 37 of 2014 wef 27/11/2014]
-
 [Act 39 of 2017 wef 01/04/2017]
+
+[Act 37 of 2014 wef 27/11/2014]
 
 (b) any discount, prepayment fee, redemption premium or break cost derived from any qualifying project debt securities issued during the period from 15 February 2007 to 31 December 2022 (both dates inclusive); or
 
-[Act 37 of 2014 wef 27/11/2014]
-
 [Act 39 of 2017 wef 01/04/2017]
+
+[Act 37 of 2014 wef 27/11/2014]
 
 (c) such other income directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
@@ -3368,47 +3472,13 @@ and received in Singapore —
 
 [49/2004]
 
-(8A) There shall be exempt from tax —
+(8A) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
-(a) any income derived on or before 21st January 2009 from any source outside Singapore and received in Singapore during the period from 22nd January 2009 to 21st January 2010 (both dates inclusive) (referred to in this subsection as the specified period) by —
+(8B) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
-(i) any person, not being an individual, resident in Singapore; or
+(8C) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
-(ii) any individual resident in Singapore through a partnership in Singapore; and
-
-(b) any dividend received in Singapore during the specified period, being dividend paid during the specified period by a company not resident in Singapore out of any income derived by that company on or before 21st January 2009, by —
-
-(i) any person, not being an individual, resident in Singapore who —
-
-(A) is not a partner of a limited liability partnership in Singapore; and
-
-(B) beneficially owns directly more than 50% of the total number of issued ordinary shares of that non-resident company as at 21st January 2009;
-
-(ii) any individual resident in Singapore who beneficially owns directly more than 50% of the total number of issued ordinary shares of that non-resident company as at 21st January 2009, being dividend he receives through a partnership in Singapore (other than any limited liability partnership) of which he is a partner; or
-
-(iii) any person, whether or not an individual, who is a partner of a limited liability partnership in Singapore and whose effective ownership through the limited liability partnership (by virtue of section 36A) of the issued ordinary shares of that non-resident company as at 21st January 2009 is more than 50% of the total number of those shares.
-
-[27/2009]
-
-(8B) For the purpose of subsection (8A)(b)(iii), the effective ownership of the partner of a limited liability partnership of the issued ordinary shares of the non-resident company as at 21st January 2009 shall be ascertained in accordance with the formula
-
-where A
-
-is the percentage of the income of the limited liability partnership to which the partner is entitled as at 21st January 2009; and
-
-B
-
-is the percentage of the total number of issued ordinary shares of that non-resident company as at 21st January 2009 beneficially owned directly by that limited liability partnership.
-
-[27/2009]
-
-(8C) No exemption from tax shall be granted to any person under subsection (8A) unless the Comptroller is satisfied that the exemption would be beneficial to the person resident in Singapore.
-
-[27/2009]
-
-(8D) A person shall furnish to the Comptroller, in such form and manner and within such reasonable time as the Comptroller may determine, such information relating to income exempted under subsection (8A) as the Minister may direct the Comptroller to obtain for any statistical or research purpose.
-
-[27/2009]
+(8D) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
 (9) The conditions referred to in subsection (8) are —
 
@@ -3610,15 +3680,15 @@ but, unless otherwise approved by the Minister or such person as he may appoint,
 
 (ii) by any financial sector incentive (bond market) company or financial sector incentive (project finance) company and issued during the period from 1st November 2006 to 31st December 2022 (both dates inclusive); or
 
-[Act 37 of 2014 wef 27/11/2014]
-
 [Act 39 of 2017 wef 01/04/2017]
+
+[Act 37 of 2014 wef 27/11/2014]
 
 (iii) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2022 (both dates inclusive);
 
-[Act 37 of 2014 wef 27/11/2014]
-
 [Act 39 of 2017 wef 01/04/2017]
+
+[Act 37 of 2014 wef 27/11/2014]
 
 (b) the interest and other income directly attributable to which are funded primarily by cash flows from an infrastructure asset or project prescribed by regulations (referred to in this definition as a prescribed asset or project); and
 
@@ -6032,6 +6102,10 @@ except that the Minister may extend the period so specified for such further per
 
 [34/2008]
 
+(5) Subsection (1) ceases to apply with effect from the year of assessment 2024.
+
+[Act 39 of 2017 wef 26/10/2017]
+
 ### Exemption of income arising from funds managed by fund manager in Singapore
 
 13X\.—(1) Subject to such conditions as may be prescribed by regulations or specified in the letter of approval of the person, master fund, feeder fund, master‑feeder fund structure, master‑feeder fund‑SPV structure or master fund‑SPV structure, there shall be exempt from tax such income as the Minister may by regulations prescribe of —
@@ -6276,7 +6350,9 @@ then the amounts in paragraph (b) shall be regarded as income of the divesting c
 
 (c) any impairment loss for the shares;
 
-(d) any loss recognised in accordance with FRS 39 or SFRS for Small Entities (as the case may be), in determining the profit or loss or expense in respect of the shares.
+(d) any loss recognised in accordance with FRS 39, SFRS for Small Entities or FRS 109 (as the case may be), in determining the profit or loss or expense in respect of the shares.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [29/2012]
 
@@ -6284,7 +6360,9 @@ then the amounts in paragraph (b) shall be regarded as income of the divesting c
 
 (a) gains or profits derived from the disposal of ordinary shares by the divesting company is exempt from tax under subsection (1); and
 
-(b) any write-back for a diminution in the value of the shares, or profit recognised in accordance with FRS 39 or SFRS for Small Entities (as the case may be), which is attributable to any of the shares, has been charged to tax as income of the divesting company for any year of assessment prior to the year of assessment relating to the basis period in which the shares are disposed of,
+(b) any write-back for a diminution in the value of the shares, or profit recognised in accordance with FRS 39, SFRS for Small Entities or FRS 109 (as the case may be), which is attributable to any of the shares, has been charged to tax as income of the divesting company for any year of assessment prior to the year of assessment relating to the basis period in which the shares are disposed of,
+
+[Act 39 of 2017 wef 26/10/2017]
 
 then the write-back or profit referred to in paragraph (b) shall be regarded as an expense allowable under this Act to the divesting company for the second-mentioned year of assessment.
 
@@ -6306,9 +6384,13 @@ then the write-back or profit referred to in paragraph (b) shall be regarded as 
 
 “disposal”, in relation to shares, means the transfer of both the legal and beneficial interests in the shares to another;
 
-“FRS 39” and “SFRS for Small Entities” have the meanings given to those expressions in section 34A(10).
+“FRS 39” and “SFRS for Small Entities” have the meanings given to those expressions in section 34A(10);
+
+“FRS 109” has the meaning given to that expression in section 34AA(15).
 
 [29/2012]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 ## PART V
 
@@ -6372,11 +6454,27 @@ Provided that no deduction shall be allowed in respect of any sum contributed by
 
 Provided that the amount of voluntary contribution does not exceed the amount allowable under the Central Provident Fund Act and is within the medisave contribution ceiling prevailing at the time the contribution is made;
 
-(fb) any sum contributed by an employer in 2013 or any subsequent year to the medisave account maintained under the Central Provident Fund Act in respect of any of his employees engaged in activities relating to the production of the income of the employer, up to a maximum deduction of $1,500 for that year for each employee’s medisave account, less any previous contribution made to that medisave account in that year by that employer in his capacity as a person of a prescribed description under paragraph (fc) (if applicable) and that is deductible under that provision:
+(fb) any sum contributed by an employer in 2013 or any subsequent year to the medisave account maintained under the Central Provident Fund Act in respect of any of the employer’s employees engaged in activities relating to the production of the income of the employer, up to a maximum deduction for each employee’s medisave account, of —
 
-Provided that no deduction shall be allowed in respect of any sum contributed by an employer to the medisave account maintained under the Central Provident Fund Act in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if he were to work in Singapore;
+(i) $1,500 per year (for contributions made before 2018); or
 
-(fc) any voluntary contribution in cash made in 2013 or any subsequent year by a person of a description prescribed by the Minister for the purposes of this paragraph, to the medisave account of a self-employed individual maintained under the Central Provident Fund Act, up to a maximum deduction of $1,500 for that year for each individual’s medisave account, less any previous contribution made to that medisave account in that year by the person of the prescribed description in his capacity as an employer under paragraph (fb) (if applicable) and that is deductible under that provision;
+(ii) $2,730 per year (for contributions made in 2018 and in each subsequent year),
+
+less any previous contribution that is made to the same medisave account in the same year by the employer in the employer’s capacity as a person of a prescribed description under paragraph (fc) (if applicable), and that is deductible under that provision:
+
+Provided that no deduction is allowed in respect of any sum contributed by an employer to the medisave account maintained under the Central Provident Fund Act in respect of an employee who holds a professional visit pass or a work pass or who would be required to obtain such a pass if the employee were to work in Singapore;
+
+[Act 39 of 2017 wef 26/10/2017]
+
+(fc) any voluntary contribution in cash made in 2013 or any subsequent year by a person of a description prescribed by the Minister for the purposes of this paragraph, to the medisave account of a self-employed individual maintained under the Central Provident Fund Act, up to a maximum deduction for each individual’s medisave account, of —
+
+(i) $1,500 per year (for contributions made before 2018); or
+
+(ii) $2,730 per year (for contributions made in 2018 and in each subsequent year),
+
+less any previous contribution that is made to the same medisave account in the same year by the person of the prescribed description in the person’s capacity as an employer under paragraph (fb) (if applicable), and that is deductible under that provision;
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (g) zakat, fitrah or any religious dues, payment of which is made under any written law; and
 
@@ -6952,13 +7050,21 @@ does not exceed $100,000 for each year of assessment.
 
 (d) payments made by that person to a research and development organisation for undertaking on his behalf outside Singapore research and development related to that trade or business;
 
-(e) payments made by that person under any cost-sharing agreement during the basis period for the year of assessment 2012 or a subsequent year of assessment, in respect of research and development that is related to that trade or business (excluding any payment made by him for the right to become a party to the cost-sharing agreement), regardless of who undertakes the research and development so long as it is undertaken wholly or partly for himself or on his behalf; and
+(e) payments made by that person under any cost-sharing agreement during the basis period for a year of assessment between the years of assessment 2012 and 2017 (both years inclusive), in respect of research and development that is related to that trade or business, regardless of who undertakes the research and development so long as it is undertaken wholly or partly for himself or on his behalf;
 
-(f) payments made by that person during the basis period for any year of assessment between the year of assessment 2012 and the year of assessment 2025 (both years inclusive), under any cost-sharing agreement in respect of research and development that is undertaken in Singapore and is not related to that trade or business (excluding any payment made by him for the right to become a party to the cost-sharing agreement), regardless of who undertakes the research and development so long as it is undertaken wholly or partly for himself or on his behalf.
+[Act 39 of 2017 wef 26/10/2017]
+
+(f) payments made by that person during the basis period for any year of assessment between the year of assessment 2012 and the year of assessment 2017 (both years inclusive), under any cost-sharing agreement in respect of research and development that is undertaken in Singapore and is not related to that trade or business, regardless of who undertakes the research and development so long as it is undertaken wholly or partly for himself or on his behalf;
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [28/80; 3/89; 24/2000; 37/2002; 34/2008; 29/2010; 29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+(g) payments made by that person under any cost-sharing agreement during the basis period for the year of assessment 2018 or a subsequent year of assessment in respect of any research and development, regardless of who undertakes the research and development so long as it is undertaken wholly or partly for the person or on the person’s behalf.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (1A) The expenditure or payment referred to in subsection (1) shall not include any such expenditure or payment to the extent that it is or is to be subsidised by grants or subsidies from the Government or a statutory board.
 
@@ -6976,7 +7082,7 @@ does not exceed $100,000 for each year of assessment.
 
 [37/2002; 34/2008; 29/2012]
 
-(3A) For the purposes of subsection (1)(e) in respect of research and development that is undertaken wholly or partly outside Singapore, a claim for deduction shall be allowed to a person only if —
+(3A) For the purposes of subsection (1)(e) or (g) in respect of research and development that is undertaken wholly or partly outside Singapore, a claim for deduction shall be allowed to a person only if —
 
 (a) there is an undertaking by the person that any benefit which may arise from the conduct of the research and development shall accrue, wholly or partly, to the person; and
 
@@ -6998,7 +7104,9 @@ does not exceed $100,000 for each year of assessment.
 
 [34/2008; 29/2010; 29/2012]
 
-(4A) Where a person to whom deductions have been allowed for payments referred to in subsection (1)(e) or (f) becomes entitled to any royalty or other payments (in one lump sum or otherwise) for the use of or right to use any technology or know-how developed from the research and development activities conducted under the cost-sharing agreement, such royalty or payments shall be deemed to be income of that person that is derived from Singapore for the year of assessment which relates to the basis period in which he becomes entitled to the royalty or payments.
+(4A) Where a person to whom deductions have been allowed for payments referred to in subsection (1)(e), (f) or (g) becomes entitled to any royalty or other payments (in one lump sum or otherwise) for the use of or right to use any technology or know-how developed from the research and development activities conducted under the cost-sharing agreement, such royalty or payments shall be deemed to be income of that person that is derived from Singapore for the year of assessment which relates to the basis period in which he becomes entitled to the royalty or payments.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [29/2012]
 
@@ -7010,9 +7118,11 @@ does not exceed $100,000 for each year of assessment.
 
 (a) any order made under section 13(12);
 
-(b) section 43C (in respect of those relating to general insurance business only), 43E, 43G, 43I, 43J, 43N, 43P, 43Q, 43R, 43U, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
+(b) section 43C (in respect of those relating to general insurance business only), 43E, 43G, 43I, 43J, 43N, 43P, 43Q, 43R, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
 
 [Act 39 of 2017 wef 01/06/2017]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (c) section 19J(5C) or (5E) or 19KA(1)(b) (as the case may be) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
@@ -7046,6 +7156,16 @@ in a case where the concessionary income derived by the person from the trade or
 
 [34/2008; 29/2010; 29/2012]
 
+(6) In this section —
+
+(a) a reference to a payment made by a person under a cost-sharing agreement is a reference to the expenditure that is allocated to the person for the person to bear under the cost-sharing agreement, and the time the payment for any part of the expenditure becomes payable by the person or (if no such payment is needed) the time of the allocation, is treated as the time the payment is made; and
+
+(b) a reference to a payment made by a person under a cost-sharing agreement excludes any payment for the right to be a party to the cost-sharing agreement.
+
+(7) Subsection (6) is deemed to have effect for the year of assessment 2012 and every subsequent year of assessment.
+
+[Act 39 of 2017 wef 26/10/2017]
+
 ### Enhanced deduction for qualifying expenditure on research and development
 
 14DA\.—(1) Subject to this section, for the purpose of ascertaining the income of a person carrying on any trade or business during the basis period for any year of assessment between the year of assessment 2009 and the year of assessment 2025 (both years inclusive), there shall be allowed in respect of all his trades and businesses, in addition to the deductions allowed under section 14D, a deduction for expenditure or payments for research and development undertaken by him, of an amount computed in accordance with the following formula:
@@ -7064,17 +7184,35 @@ the amount referred to in subsection (2A) of payments made during the basis peri
 
 (b)
 
-the amount referred to in subsection (2A) of payments made during the basis period (being the basis period for the year of assessment 2012 or a subsequent year of assessment) by the person under a cost-sharing agreement (excluding any payment made by him for the right to become a party to the cost-sharing agreement) —
+the amount in one of the following sub-paragraphs, whichever is applicable:
 
 (i)
 
+in the case of a year of assessment between the years of assessment 2012 and 2017 (both years inclusive), the amount in subsection (2A) of payments made during the basis period by the person under a cost-sharing agreement —
+
+(A)
+
 for any local research and development; or
+
+(B)
+
+for such part of any mixed research and development that is undertaken in Singapore,
+
+regardless of who undertakes the research and development so long as it is undertaken wholly or partly for the person or on the person’s behalf;
 
 (ii)
 
-for that part of any mixed research and development that is undertaken in Singapore,
+in the case of a year of assessment between the years of assessment 2018 and 2025 (both years inclusive), if the person makes any payment during the basis period under a cost-sharing agreement, the sum of certain expenditure and payments (up to the amount in subsection (2AA)) that a party to the agreement (whether or not that person) has agreed to bear, and for which a deduction has not previously been allowed to the firstmentioned person under this sub-paragraph, namely —
 
-regardless of who undertakes the research and development so long as it is undertaken wholly or partly for himself or on his behalf.
+(A)
+
+qualifying expenditure incurred by that person in undertaking a local research and development, or such part of a mixed research and development that is undertaken in Singapore; and
+
+(B)
+
+the amount mentioned in subsection (2AB) of payments made by that person to a research and development organisation for undertaking a local research and development, or a part of a mixed research and development in Singapore, on that person’s behalf.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [22/2011; 29/2012]
 
@@ -7104,7 +7242,7 @@ the amount referred to in subsection (2A) of payments made during the basis peri
 
 (b)
 
-the amount referred to in subsection (2A) of payments made during the basis period (being the basis period for any year of assessment between the year of assessment 2012 and the year of assessment 2018 (both years inclusive)) by the person under a cost-sharing agreement (excluding any payment made by him for the right to become a party to the cost-sharing agreement) —
+subject to subsection (2AD), the amount referred to in subsection (2A) of payments made during the basis period (being the basis period for any year of assessment between the year of assessment 2012 and the year of assessment 2018 (both years inclusive)) by the person under a cost-sharing agreement —
 
 (i)
 
@@ -7124,11 +7262,13 @@ Z
 
 is the whole or any part of the sum of W and X which the person has elected for inclusion in the computation of the deduction under this paragraph, which when aggregated with Y does not exceed the specified amount.
 
+[Act 39 of 2017 wef 26/10/2017]
+
 [22/2011; 29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(2A) The amount of any of the payments in the definitions of V and X in subsections (1) and (2) is —
+(2A) The amount of any of the payments in paragraphs (a) and (b)(i) of the definition of V in subsection (1), and paragraphs (a) and (b) of the definition of X in subsection (2) is —
 
 (a) if more than 60% of all the payments made during the basis period to the research and development organisation or under the cost-sharing agreement to which the definition applies are qualifying expenditure, the actual amount of the qualifying expenditure; or
 
@@ -7137,6 +7277,30 @@ is the whole or any part of the sum of W and X which the person has elected for 
 and where there is more than one research and development organisation or cost-sharing agreement, the aggregate of all the amounts computed in this manner of the payments to every organisation or under every agreement.
 
 [29/2012]
+
+(2AA) The amount mentioned in paragraph (b)(ii) of the definition of V in subsection (1) is the amount of the payments made during the basis period by the person under the cost-sharing agreement.
+
+(2AB) In paragraph (b)(ii)(B) of the definition of V in subsection (1), the amount is the higher of the following:
+
+(a) the part of those payments made to the research and development organisation that are qualifying expenditure;
+
+(b) 60% (or such other percentage as may be prescribed by rules made under section 7) of the sum of all of the payments made to the research and development organisation.
+
+(2AC) For the purposes of paragraph (b)(ii) of the definition of V in subsection (1) (read with subsections (2AA) and (2AB)), where there is more than one cost-sharing agreement or research and development organisation —
+
+(a) first, calculate each amount in those provisions relating to a cost-sharing agreement or research and development organisation for every agreement or organisation; and
+
+(b) then, add up all amounts calculated under paragraph (a).
+
+(2AD) The amount mentioned in paragraph (b) of the definition of X in subsection (2)(b) is, in the case of the year of assessment 2018, subject to a maximum amount computed in accordance with the formula
+
+where —
+
+(a) A is the amount of the payments made during the basis period by the person under the cost-sharing agreement; and
+
+(b) B is the amount computed under paragraph (b)(ii) of the definition of V in subsection (1) in relation to the same cost-sharing agreement that qualifies for the deduction under subsection (1).
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (2B) In subsections (1) and (2) —
 
@@ -7300,6 +7464,16 @@ in a case where the concessionary income derived by the person from the trade or
 
 [29/2012]
 
+(13) In this section —
+
+(a) a reference to a payment made by a person under a cost-sharing agreement is a reference to the expenditure that is allocated to the person for the person to bear under the cost-sharing agreement, and the time the payment for any part of the expenditure becomes payable or (if no such payment is needed) the time of the allocation, is treated as the time the payment is made; and
+
+(b) a reference to a payment made by a person under a cost-sharing agreement excludes any payment for the right to be a party to the cost-sharing agreement.
+
+(14) Subsection (13) is deemed to have effect for every year of assessment to which each provision of this section containing the reference mentioned in subsection (13) applies.
+
+[Act 39 of 2017 wef 26/10/2017]
+
 ### Further deduction for expenditure on research and development project
 
 14E\.—(1) Subject to this section, where the Comptroller is satisfied that —
@@ -7440,6 +7614,24 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 [28/96]
 
+(4A) Where —
+
+(a) loans or securities are transferred by a bank or qualifying finance company (called in this subsection the transferor) to another person (called in this subsection the transferee);
+
+(b) the transfer is not pursuant to a scheme of amalgamation;
+
+(c) provision for doubtful debts arising from those loans, or for diminution in the value of investments in those securities, is also transferred by the transferor to the transferee; and
+
+(d) a deduction of an amount in respect of that provision was previously allowed under this section to the transferor,
+
+then —
+
+(i) in a case where both the transferor and the transferee are in the business of lending money on the date of the transfer, the deduction previously allowed to the transferor is treated, for the purposes of this section, as having been allowed to the transferee under this section; and
+
+(ii) in any other case, the provision is treated as a trading receipt of the transferor for the basis period in which the date of transfer falls.
+
+[Act 39 of 2017 wef 26/10/2017]
+
 (5) Subject to subsection (6), the total amount of the provisions to be allowed as a deduction under this section for any year of assessment shall not exceed the lowest of —
 
 (a) 25% of the qualifying profits for the basis period for that year of assessment;
@@ -7462,6 +7654,18 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 [1/98; 32/99]
 
+(6A) The provisions in this section apply, for such period as may be prescribed by rules made under section 7, to any allowance made by a bank or qualifying finance company for loans or securities as required by a notice or direction of the Monetary Authority of Singapore given under —
+
+(a) section 55 of the Banking Act (Cap. 19);
+
+(b) section 30 of the Finance Companies Act (Cap. 108); or
+
+(c) section 28(3) of the Monetary Authority of Singapore Act (Cap. 186),
+
+as they apply in relation to a provision for doubtful debts arising from loans, or for diminution in the value of investments in securities, of the bank or qualifying finance company.
+
+[Act 39 of 2017 wef 26/10/2017]
+
 (7) In this section —
 
 “bank” means a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved by the Monetary Authority of Singapore;
@@ -7479,6 +7683,10 @@ is the total investment income (whether chargeable to tax or not) for that basis
 (d) loans to statutory bodies or corporations guaranteed by the Government of Singapore or the government of any other country; and
 
 (e) such other loans or advances as may be prescribed;
+
+“Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act;
+
+[Act 39 of 2017 wef 26/10/2017]
 
 “prescribed value of loans and investments in securities”, in relation to the basis period for any year of assessment, means the value (ascertained in such manner as the Comptroller may determine) of the loans and investments in securities (excluding any loan or investment in respect of which any deduction has been allowed under any other section of this Act) as at the last day of each month in that basis period added together and divided by the number of months in that basis period;
 
@@ -7720,121 +7928,7 @@ must not exceed $1 million for each year of assessment.
 
 [31/98]
 
-### Deduction for hotel refurbishment expenditure
-
-14M\.—(1) Where any person carrying on a hotel trade or business at any hotel premises proposes to carry out a project for any refurbishment of the hotel premises, he may apply to the Minister, or such person as he may appoint, on or before 30th June 2003 for that project (which shall be completed on or before 30th June 2006) to be approved for the purposes of claiming a deduction under this section in respect of expenditure incurred by him on the refurbishment project.
-
-[21/2003]
-
-(2) Where the Minister, or such person as he may appoint, considers it expedient in the public interest to do so, he may approve the refurbishment project subject to such terms and conditions as he may impose.
-
-[32/99]
-
-(3) Every approval given under this section shall specify —
-
-(a) the qualifying period during which the approved refurbishment project is to be carried out;
-
-(b) the qualifying expenditure and the maximum amount thereof to be allowed as a deduction under this section; and
-
-(c) a percentage, exceeding 100% but not exceeding 150%, of the qualifying expenditure to be allowed as a deduction under this section.
-
-[32/99]
-
-(4) Where in the basis period for any year of assessment the person has incurred any qualifying expenditure on the approved refurbishment project, he shall be allowed, on due claim, for a period of 5 years (consecutive or otherwise) a deduction against the income from his hotel trade or business computed in accordance with subsection (5).
-
-[32/99]
-
-(5) The amount of deduction under subsection (4) for any year of assessment shall be ascertained by the formula
-
-where A
-
-is the percentage referred to in subsection (3)(c); and
-
-B
-
-is the amount of qualifying expenditure incurred.
-
-(6) No deduction shall be allowed under this section in respect of —
-
-(a) any expenditure which is not incurred during the qualifying period referred to in subsection (3)(a);
-
-(b) any expenditure which was incurred before 1st July 1998; or
-
-(c) any year of assessment relating to any basis period during which the hotel premises are not used for the purposes of a hotel trade or business of the person who incurs the qualifying expenditure.
-
-[32/99]
-
-(7) Where any person has been allowed a deduction under this section in respect of any qualifying expenditure, no deduction shall be allowed under any other provision of this Act in respect of the expenditure for which the deduction was allowed.
-
-[32/99]
-
-(8) [Deleted by Act 19 of 2013]
-
-(9) [Deleted by Act 19 of 2013]
-
-(10) [Deleted by Act 19 of 2013]
-
-(11) [Deleted by Act 19 of 2013]
-
-(12) [Deleted by Act 19 of 2013]
-
-(13) [Deleted by Act 19 of 2013]
-
-(14) [Deleted by Act 19 of 2013]
-
-(15) [Deleted by Act 19 of 2013]
-
-(16) [Deleted by Act 19 of 2013]
-
-(17) [Deleted by Act 19 of 2013]
-
-(18) During the qualifying period referred to in subsection (3)(a) or within 5 years after the date of completion of the approved refurbishment project, a person who has been allowed any deduction under this section shall not, without the written approval of the Minister or such person as he may appoint —
-
-(a) sell, lease out or otherwise dispose of any asset in respect of which a deduction has been allowed under this section;
-
-(b) cease to use the hotel premises or any part thereof for his hotel trade or business; or
-
-(c) sell, lease out or otherwise dispose of the hotel premises or any part thereof.
-
-[32/99]
-
-(19) Where any of the events referred to in subsection (18) occurs in the basis period for any year of assessment, the person shall be deemed to have derived an amount of income for that year of assessment equal to the total amount of deduction which has been allowed under this section in respect of the assets or any part of the hotel premises to which the event relates.
-
-[32/99]
-
-(20) Notwithstanding subsection (19), the Minister or such person as he may appoint may, subject to such terms and conditions as he may impose and upon any application by the person deemed to have derived income under that subsection, reduce the amount of income so deemed.
-
-[32/99]
-
-(21) Where any deduction allowed under this section is in respect of any capital expenditure incurred by a person on any machinery or plant and where at any time after 5 years from the date of completion of the approved refurbishment project any of the events referred to in section 20(1) occurs in respect of that machinery or plant, section 20(1) to (3) shall apply, with the necessary modifications, and a balancing allowance or a balancing charge shall be made to or, as the case may be, on that person for the year of assessment in the basis period for which that event occurs.
-
-[32/99]
-
-(22) For the purposes of subsection (21) —
-
-(a) any reference in section 20(1) to allowances made under section 19 or 19A shall be read as a reference to a deduction allowed under this section;
-
-(b) the amount of the capital expenditure on the provision of the machinery or plant still unallowed as at the time of the occurrence of the event shall be ascertained by the formula
-
-where C
-
-is the amount of capital expenditure incurred on the provision of the machinery or plant; and
-
-D
-
-is the number of years of assessment for which any deduction has been allowed under this section in respect of that capital expenditure; and
-
-(c) notwithstanding anything in section 20(3), in no case shall the amount on which a balancing charge is made on a person exceed an amount computed in accordance with the formula
-
-where C and D
-
-have the same meanings as in paragraph (b).
-
-[32/99]
-
-(23) Notwithstanding anything in this section, where it appears to the Comptroller that in any year of assessment any deduction allowed under this section ought not to have been so allowed, the Comptroller may, in the year of assessment or within 4 years after the expiration thereof, make such assessment or additional assessment upon the person as may be necessary in order to make good any loss of tax.
-
-[19/2013]
+14M\. [Deleted by Act 39 of 2017 wef 26/10/2017]
 
 ### Deduction for upfront land premium
 
@@ -9656,7 +9750,9 @@ the deduction is to be allowed for such part or parts of the expenditure incurre
 
 [7/79; 9/80; 15/83; 11/94; 32/95; 31/98; 32/99; 24/2001; 37/2002; 7/2007; 53/2007; 34/2008; 22/2011; 19/2013]
 
-(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14DA, 14E, 14F, 14H, 14I, 14K, 14KA, 14M, 14N, 14O, 14P, 14PA, 14Q, 14S, 14V or 14W.
+(2) Subsection (1)(b) and (d) shall not apply to any expenditure which qualifies for deduction under section 14A, 14D, 14DA, 14E, 14F, 14H, 14I, 14K, 14KA, 14N, 14O, 14P, 14PA, 14Q, 14S, 14V or 14W.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [9/80; 28/80; 1/82; 20/91; 2/92; 26/93; 32/99; 21/2003; 34/2008; 29/2010; 22/2011; 19/2013]
 
@@ -9671,6 +9767,10 @@ the deduction is to be allowed for such part or parts of the expenditure incurre
 (2B) Subsection (1)(b) and (c) does not apply to any expenditure which qualifies for deduction under section 14ZA.
 
 [Act 34 of 2016 wef 19/05/2016]
+
+(2C) Besides subsection (1)(b) and (d) (which are disapplied under subsection (2)), the other paragraphs of subsection (1) also do not apply to expenditure which qualifies for deduction under section 14D(1)(g).
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (3) In this section, “holding company” has the same meaning as in section 5 of the Companies Act (Cap. 50).
 
@@ -10860,7 +10960,9 @@ as modified by subsection (2BA), (2BB) or (2BC) (as the case may be).
 
 [28/96; 27/2009]
 
-(6) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed on or after 1st January 1996 any certified energy-efficient equipment as a replacement for any other equipment, or has installed on or after that date any certified energy-saving equipment, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified energy-efficient equipment or certified energy-saving equipment.
+(6) Notwithstanding section 19, where a person proves to the satisfaction of the Comptroller that he has installed at any time from 1 January 1996 to 31 December 2017 (both dates inclusive) any certified energy-efficient equipment as a replacement for any other equipment, or any certified energy-saving equipment, for the purposes of a trade, business or profession carried on by him, he shall, in lieu of the allowances provided by subsection (1) or (1B) or section 19, be entitled, if he so elects, to an allowance of 100% in respect of the capital expenditure incurred on the provision of the certified energy-efficient equipment or certified energy-saving equipment.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [28/96; 31/98; 27/2009]
 
@@ -12008,7 +12110,13 @@ in a case where the concessionary income derived by the person from the trade or
 
 ### Expenditure on machinery or plant
 
-22\. Expenditure on the provision of machinery or plant shall include capital expenditure on alterations to an existing building incidental to the installation of that machinery or plant for the purposes of the trade, profession or business.
+22\.—(1) Expenditure on the provision of machinery or plant shall include capital expenditure on alterations to an existing building incidental to the installation of that machinery or plant for the purposes of the trade, profession or business.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+(2) Expenditure on the provision of machinery or plant excludes any option premium paid under an option agreement entered into for the purpose of hedging against the cost of the acquisition of such machinery or plant.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 ### Order of set-off of allowances
 
@@ -12034,7 +12142,9 @@ in a case where the concessionary income derived by the person from the trade or
 
 [13/84; 29/2010]
 
-(3) Where any allowance for any year of assessment falling to be made to any person under section 16, 17, 18A (repealed), 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 is deducted against income of the person from other sources under section 35(1), transferred to a claimant company under section 37C or to a spouse under section 37D or 37F, or deducted against income for the immediate preceding year of assessment under section 37E(1) or any of the 3 immediate preceding years of assessment under section 37E(1A), as the case may be, the amount of such allowance shall be deducted from the balance in subsection (1).
+(3) Where any allowance for any year of assessment falling to be made to any person under section 16, 17, 18A (repealed), 18B, 18C, 19, 19A, 19B, 19C, 19D or 20 is deducted against income of the person from other sources under section 35(1), transferred to a claimant company under section 37C or to a spouse under section 37D or 37F, or deducted against income for the immediate preceding year of assessment under section 37E(1), the amount of such allowance shall be deducted from the balance in subsection (1).
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [21/2003; 49/2004; 34/2005; 27/2009; 29/2010]
 
@@ -12132,7 +12242,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 ### Profits of insurers
 
-26\.—(1) Subject to section 34A, this section has effect notwithstanding anything to the contrary in this Act except that nothing in this section shall affect the chargeability to tax of any income of an insurer under section 10.
+26\.—(1) Subject to sections 34A and 34AA, this section has effect notwithstanding anything to the contrary in this Act except that nothing in this section shall affect the chargeability to tax of any income of an insurer under section 10.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [28/92; 7/2007]
 
@@ -12158,9 +12270,15 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (a) taking the gross premiums and interest and other income received or receivable in Singapore (less any premiums returned to the insured and premiums paid on reinsurances);
 
-(b) deducting from the balance so arrived at a reserve for unexpired risks at the percentage adopted by the insurer in relation to its operations as a whole for such risks at the end of the period for which the gains or profits are being ascertained;
+(b) either —
 
-(c) adding thereto a reserve similarly calculated for unexpired risks outstanding at the commencement of that period; and
+(i) deducting from the balance so arrived at the net increase between the beginning and ending values of the period for which the gains or profits are ascertained, of the liabilities of the insurer in respect of policies other than life policies, both values being determined in accordance with the Insurance Act (Cap. 142); or
+
+(ii) adding to the balance so arrived at the net decrease between the beginning and ending values of the period for which the gains or profits are ascertained, of the liabilities of the insurer in respect of policies other than life policies, both values being determined in accordance with the Insurance Act; and
+
+[Act 39 of 2017 wef 26/10/2017]
+
+(c) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
 (d) from the net amount so arrived at, deducting the actual losses (less the amount recovered in respect thereof under reinsurance), the distribution expenses and management expenses incurred in the production of the income referred to in paragraph (a) and, in respect of a branch in Singapore, a fair proportion of the expenses of its head office.
 
@@ -12168,17 +12286,25 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (4) For the purposes of subsection (3), in ascertaining the gains or profits derived by an insurer from carrying on the business (other than the business of life assurance) of insuring and reinsuring any risks for the purposes of any concessionary rate of tax or exemption from tax prescribed by regulations made under section 43C —
 
-(a) no income other than income from premiums or from such dividends, interest and gains or profits realised from the sale of investments as may be specified in those regulations shall be included;
+(a) no income other than underwriting income or income from such dividends, interest and gains or profits realised from the sale of investments as may be specified in those regulations shall be included;
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (b) income in respect of dividends, interest and gains or profits realised from the sale of investments shall be apportioned in such manner as may be prescribed by those regulations; and
 
 (c) any item of expenditure not directly attributable to that business shall be apportioned in such manner as may be prescribed by those regulations.
 
-[Act 39 of 2017 wef 01/06/2017]
+[Act 39 of 2017 wef 26/10/2017]
 
 [7/79; 9/80; 20/91; 26/93; 21/2003; 7/2007]
 
-(5) [Deleted by Act 19 of 2013]
+(5) For the purposes of subsection (3)(b), if, during the period for which the gains or profits are ascertained, any insurance business (excluding life business) is transferred by or to the insurer, then —
+
+(a) in a case where the business is transferred by the insurer, the liabilities of the insurer immediately before the date of the transfer, in respect of policies that form part of that business, are to be added to the ending value mentioned in that provision; and
+
+(b) in a case where the business is transferred to the insurer, the liabilities of the transferor immediately before the date of the transfer, in respect of policies that form part of that business, are to be added to the beginning value mentioned in that provision.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 ### Life insurers
 
@@ -12348,8 +12474,6 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 [Act 39 of 2017 wef 01/06/2017]
 
-[Act 39 of 2017 wef 01/06/2017]
-
 (iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies; and
 
 [Act 39 of 2017 wef 01/06/2017]
@@ -12363,8 +12487,6 @@ ASCERTAINMENT OF CERTAIN INCOME
 (iii) moneys paid or payable on the surrender of offshore non‑participating and offshore investment‑linked policies; and
 
 (iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
-
-[Act 39 of 2017 wef 01/06/2017]
 
 [Act 39 of 2017 wef 01/06/2017]
 
@@ -12473,6 +12595,14 @@ being a Singapore policy within the meaning of the Insurance Act;
 “surplus account”, in relation to a participating fund of a life insurer, means the surplus account established and maintained under section 17(6)(a) of the Insurance Act as part of that fund.
 
 [28/92; 7/2007; 27/2009; 11/2013; 19/2013]
+
+(13) For the purposes of paragraphs (a)(ii) and (b)(iv) of both definitions of “onshore life insurance surplus”, and paragraphs (a)(ii) and (b)(iv) of both definitions of “offshore life insurance surplus” in subsection (12), if, during the period for which the gains or profits are ascertained, any life insurance business is transferred by or to the insurer, then —
+
+(a) in a case where the business is transferred by the insurer, the liabilities of the insurer immediately before the date of the transfer, in respect of policies that form part of that business, are to be added to the ending value mentioned in each of those provisions; and
+
+(b) in a case where the business is transferred to the insurer, the liabilities of the transferor immediately before the date of the transfer, in respect of policies that form part of that business, are to be added to the beginning value mentioned in each of those provisions.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 ### Ascertainment of income of member of Lloyd’s syndicate
 
@@ -12686,7 +12816,7 @@ the Comptroller may, without prejudice to such validity as it may have in any ot
 
 [19/2013]
 
-### Adjustment on change of basis of computing profits of financial instruments
+### Adjustment on change of basis of computing profits of financial instruments resulting from FRS 39 or SFRS for Small Entities
 
 34A\.—(1) Notwithstanding the provisions of this Act, the amount of any profit or loss (as the case may be) or expense to be brought into account for the basis period for any year of assessment in respect of any financial instrument of a qualifying person for the purposes of sections 10, 14, 14I and 37 is that which, in accordance with FRS 39 or SFRS for Small Entities (as the case may be), is recognised in determining any profit or loss (as the case may be) or expense in respect of that financial instrument for that year of assessment.
 
@@ -12814,7 +12944,155 @@ as the case may be;
 
 (11) Any term used in this section and not defined in this section but defined in FRS 39 or SFRS for Small Entities (as the case may be) shall have the same meaning as in FRS 39 or SFRS for Small Entities (as the case may be).
 
+[Act 39 of 2017 wef 26/10/2017]
+
 [7/2007; 29/2012]
+
+### Adjustment on change of basis of computing profits of financial instruments resulting from FRS 109
+
+34AA\.—(1) Despite the provisions of this Act but subject to section 34G(3), (4) and (5), the amount of any profit, loss or expense to be brought into account for the basis period for any year of assessment in respect of any financial instrument of a qualifying person for the purposes of sections 10, 14, 14I and 37, respectively, is that which, in accordance with FRS 109, is recognised in determining any profit, loss or expense in respect of that financial instrument for that year of assessment.
+
+(2) To avoid doubt, subsection (1) does not apply to anything recognised in accordance with FRS 109, that is capital in nature.
+
+(3) Despite subsection (1), for the purposes of sections 10, 14, 14I and 37, the profit, loss or expense in respect of a financial instrument mentioned in each of the following paragraphs must be dealt with in accordance with that paragraph:
+
+(a) where a qualifying person to whom section 10(12)(b) applies derives interest from a negotiable certificate of deposit or derives a gain or profit from the sale of that certificate, the person’s income from that certificate or sale must be treated in the manner set out in section 10(12);
+
+(b) where a qualifying person derives interest from debt securities, the interest that is chargeable to tax under section 10(1)(d) is the amount computed at the contractual interest rate and not at the effective interest rate;
+
+(c) any amount of profit or expense in respect of a loan for which no interest is payable must be disregarded;
+
+(d) where the creditor and debtor of a loan did not deal with each other at arm’s length, the interest income chargeable to tax, and the interest expense allowable as a deduction, are the amounts of such income and expense that are computed at the contractual interest rate and not at the effective interest rate;
+
+(e) in a case where section 14(1)(a) applies, only interest expense incurred in respect of the money borrowed and computed at the contractual interest rate is allowed as a deduction under that provision;
+
+(f) any amount of profit or loss in respect of a hedging instrument acquired under a bona fide commercial arrangement for the sole purpose of hedging against any risk associated with the underlying asset or liability must be disregarded, if the underlying asset or liability is employed or intended to be employed as capital;
+
+(g) any amount of expected credit losses of a financial instrument that is not credit-impaired, being losses that are recognised in accordance with FRS 109 in determining the profit or loss of such instrument, must be disregarded;
+
+(h) in a case where the qualifying person is a bank or qualifying finance company, the provisions in section 14I apply (subject to the regulations made under subsection (13)(a)) in relation to a provision made by the qualifying person for an expected credit loss arising from loans or securities that are not credit-impaired, as those provisions apply in relation to a provision for doubtful debts arising from the person’s loans or for diminution in the value of the person’s investments in securities;
+
+(i) where an equity instrument on revenue account of a qualifying person that is measured at fair value through other comprehensive income is disposed of, an amount prescribed as the gain or loss to the qualifying person on such disposal, is chargeable to tax, or is to be allowed as a deduction;
+
+(j) a gain from discounts or premiums on debt securities, being a gain chargeable to tax under section 10(1)(d) —
+
+(i) is treated as accruing only on the maturity or redemption of the debt securities; and
+
+(ii) is treated as equal to the difference between the amount received on the maturity or redemption of the debt securities and the amount for which the debt securities were first issued;
+
+(k) in a case where a qualifying person issues debt securities at a discount or redeems issued debt securities at a premium, and section 14(1)(a) applies in respect of the outgoing represented by such discount or premium, such outgoing is treated to be incurred and deductible only when it is paid on the maturity or redemption of the debt securities and —
+
+(i) for debt securities issued in the basis period relating to the year of assessment 2008 or subsequent years of assessment, is treated as equal to the difference between the amount paid on the maturity or redemption of the debt securities and the amount for which the debt securities were first issued; or
+
+(ii) for debt securities issued before the basis period relating to the year of assessment 2008, is treated as equal to the part of the difference in sub-paragraph (i) that would be attributable to the year of assessment 2008 and subsequent years of assessment;
+
+(l) in a case where —
+
+(i) a qualifying person issues debt securities at a discount or redeems issued debt securities at a premium;
+
+(ii) the debt securities were issued with an embedded derivative to acquire shares or units in the qualifying person; and
+
+(iii) the outgoing represented by such discount or premium is deductible under section 14(1),
+
+such part of the outgoing that is attributable to the embedded derivative is not deductible;
+
+(m) where a financial instrument on revenue account of a qualifying person (being a financial liability measured at fair value through profit or loss) matures or is sold, bought back or redeemed, any gain or loss to the qualifying person that is realised on such maturity or from such sale, buy back or redemption (being a gain or loss that is recognised in other comprehensive income in accordance with FRS 109) is chargeable to tax, or is to be allowed as a deduction.
+
+(4) To avoid doubt, subsection (3)(d) does not affect the operation of section 34D.
+
+(5) In a case where —
+
+(a) a loan is transferred by a qualifying person (being a bank or qualifying finance company) (called in this subsection the transferor) to another person (called in this subsection the transferee);
+
+(b) the transfer is not pursuant to a qualifying amalgamation within the meaning of section 34C(2) in relation to which an election is made under section 34C(4);
+
+(c) a provision for an expected credit loss arising from that loan that is credit-impaired, being a loss that is recognised in accordance with FRS 109 in determining the profit or loss of such loan, is also transferred by the transferor to the transferee; and
+
+(d) a deduction of an amount in respect of a provision for a doubtful debt arising from that loan was previously allowed under section 14 (read with this section or section 34A) to the transferor,
+
+then, despite any provision in this Act —
+
+(i) in a case where both the transferor and the transferee are on the date of the transfer in the business of lending money, the deduction previously allowed to the transferor is treated, for the purposes of section 14, as having been allowed to the transferee under that section; and
+
+(ii) in any other case, the provision is treated as a trading receipt of the transferor for the basis period in which the date of transfer falls.
+
+(6) A person who is not a qualifying person under paragraph (a) or (b) of the definition of that term in subsection (15), may apply to the Comptroller for approval to be a qualifying person; and if the Comptroller approves the application, that person is a qualifying person starting from the year of assessment of the basis period in which the approval is granted or such later year of assessment as the Comptroller may approve.
+
+(7) If —
+
+(a) any gain, loss or expense in respect of a financial instrument of a qualifying person to which subsection (1) applies is recognised under FRS 109 on a certain date;
+
+(b) it is not possible to determine, on the date the Comptroller makes an assessment of the amount of chargeable income of that person for the year of assessment of the basis period in which the date mentioned in paragraph (a) falls, whether that gain, loss or expense is capital or revenue in nature;
+
+(c) because of this, the gain was not charged with tax or a deduction was allowed for that loss or expense (as the case may be); and
+
+(d) the Comptroller later discovers (called the discovery time) that the gain ought to have been charged with tax as it is revenue in nature, or a deduction ought not to have been allowed for the loss or expense as it is capital in nature (as the case may be),
+
+then, and despite anything in this Act but subject to subsection (9), the amount of the gain, loss or expense, together with the additional amount mentioned in subsection (8), is treated as the income of the person for the year of assessment within which the discovery time falls.
+
+(8) The additional amount in subsection (7) is the amount of any other gain, loss or expense in respect of the same financial instrument —
+
+(a) that was not charged with tax, or for which a deduction was allowed, for one or more past years of assessment, for the same reason as that in subsection (7)(b); and
+
+(b) that is ascertained in accordance with the regulations made under subsection (13).
+
+(9) For any qualifying person, no assessment may be made in respect of the income mentioned in subsection (7) more than 4 years immediately after the end of the year of assessment of the basis period in which the financial instrument is disposed of by the qualifying person.
+
+(10) If —
+
+(a) any gain, loss or expense in respect of a financial instrument of a qualifying person to which subsection (1) applies is recognised under FRS 109 on a certain date;
+
+(b) it is not possible to determine, on the date the Comptroller makes an assessment of the amount of chargeable income of that person for the year of assessment of the basis period in which the date mentioned in paragraph (a) falls, whether that gain, loss or expense is capital or revenue in nature;
+
+(c) because of this, the gain was charged with tax or a deduction was not allowed for that loss or expense (as the case may be); and
+
+(d) the Comptroller later discovers (called the discovery time), with or without a claim made by the qualifying person, that the gain ought not to have been charged with tax as it is capital in nature, or a deduction ought to have been allowed for the loss or expense as it is revenue in nature (as the case may be),
+
+then, and despite anything in this Act but subject to subsection (12), the amount of the gain, loss or expense, together with the additional amount mentioned in subsection (11), must be allowed as a deduction against the income of the person for the year of assessment within which the discovery time falls.
+
+(11) The additional amount in subsection (10) is the amount of any other gain, loss or expense in respect of the same financial instrument —
+
+(a) that was charged with tax, or for which a deduction was not made, for one or more past years of assessment, for the same reason as that in subsection (10)(b); and
+
+(b) that is ascertained in accordance with the regulations made under subsection (13).
+
+(12) For any qualifying person, no claim mentioned in subsection (10)(d) may be made more than 4 years immediately after the end of the year of assessment of the basis period in which the financial instrument is disposed of by the qualifying person.
+
+(13) For the purposes of this section, the Minister may make regulations to give effect to this section, including —
+
+(a) providing that section 14I applies to an allowance mentioned in subsection (3)(h) for a prescribed period;
+
+(b) providing for the computation of the additional amounts mentioned in subsections (8) and (11); and
+
+(c) providing for any transitional, supplementary or consequential matter, including —
+
+(i) treating a specified amount of any profit in respect of a financial instrument of a person, being an amount recognised under FRS 109 as such profit as of a date before the date the person becomes a qualifying person, as the person’s income for a specified year of assessment; and
+
+(ii) allowing a specified amount of any loss or expense in respect of a financial instrument of a person, being an amount recognised under FRS 109 as such loss or expense as of a date before the date the person becomes a qualifying person, as a deduction against the person’s income for a specified year of assessment.
+
+(14) The regulations under subsection (13) may prescribe different amounts for the purposes of subsection (3)(i) for different descriptions of instruments.
+
+(15) In this section —
+
+“bank”, “loan” and “qualifying finance company” have the same meanings as in section 14I(7);
+
+“contractual interest rate”, in relation to any financial instrument, means the applicable interest rate specified in the financial instrument;
+
+“debt securities” has the same meaning as in section 43N(4);
+
+“FRS 109” means the financial reporting standard known as Financial Reporting Standard 109 (Financial Instruments) that is made, and amended from time to time, under Part III of the Accounting Standards Act (Cap. 2B);
+
+“qualifying person”, in relation to any year of assessment, means —
+
+(a) in the case of a year of assessment for a basis period beginning on or after 1 January 2018, a person who is required to prepare or maintain financial accounts in accordance with FRS 109 for that basis period;
+
+(b) in the case of a year of assessment for a basis period beginning on a date before 1 January 2018, a person mentioned in paragraph (a) who prepares or maintains financial accounts in accordance with FRS 109 for that basis period; or
+
+(c) in any case, a person who is treated as a qualifying person under subsection (6).
+
+(16) Any term used in this section and not defined in this section but defined in FRS 109, has the same meaning as in FRS 109.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 ### Islamic financing arrangements
 
@@ -13142,7 +13420,45 @@ sections 23 and 37 shall apply, with the necessary modifications, as if the amal
 
 ### Transactions not at arm’s length
 
-34D\.—(1) Where 2 persons are related parties and conditions are made or imposed between the 2 persons in their commercial or financial relations which differ from those which would be made if they were not related parties, then any profits which would, but for those conditions, have accrued to one of the persons, and, by reason of those conditions, have not so accrued, may be included in the profits of that person and taxed in accordance with the provisions of this Act.
+34D\.—(1) Subsection (1A) applies where —
+
+(a) 2 persons are related parties;
+
+(b) conditions are made or imposed between them in their commercial or financial relations (called in this section actual commercial or financial relations) which differ from conditions which would be made or imposed if they were not related parties and dealing independently with one another in comparable circumstances (called in this section arm’s length conditions); and
+
+(c) had the arm’s length conditions been made or imposed —
+
+(i) the amount of the income of one of those persons for a year of assessment that accrued in or is derived from Singapore, or is received in Singapore from outside Singapore, would be greater;
+
+(ii) the amount of any deduction that may be allowed to one of those persons for a year of assessment would be less; or
+
+(iii) the amount of any loss of one of those persons for a year of assessment would be less.
+
+(1A) The Comptroller may make one or more of the following adjustments in that case, as appropriate:
+
+(a) increase the amount of the income of the person mentioned in subsection (1)(c)(i) for the year of assessment;
+
+(b) reduce the amount of the deduction that may be allowed to the person mentioned in subsection (1)(c)(ii) for the year of assessment;
+
+(c) reduce the amount of the loss of the person mentioned in subsection (1)(c)(iii) for the year of assessment.
+
+(1B) The identification of the arm’s length conditions in subsection (1)(b) must be carried out —
+
+(a) on the basis of the actual commercial or financial relations between the 2 persons; and
+
+(b) by taking into account both the form and substance of those relations, but disregarding the form of those relations to the extent it is inconsistent with their substance.
+
+(1C) Despite subsection (1B) —
+
+(a) if persons who were not related parties would in comparable circumstances enter into substantially different commercial or financial relations than the actual commercial or financial relations, then the identification of the arm’s length conditions must be carried out on the basis of the firstmentioned relations; and
+
+(b) if persons who were not related parties would in comparable circumstances not enter into commercial or financial relations, then the identification of the arm’s length conditions must be carried out on the basis of the absence of commercial or financial relations.
+
+(1D) The amount of income that is increased under subsection (1A)(a) is treated as accruing in or derived from Singapore or received in Singapore from outside Singapore, as the case may be.
+
+(1E) The amount of loss that is reduced under subsection (1A)(c) is treated as not having been incurred.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [27/2009]
 
@@ -13150,9 +13466,559 @@ sections 23 and 37 shall apply, with the necessary modifications, as if the amal
 
 [27/2009]
 
+(2A) Nothing in this section prevents the applicability of subsection (1) to a case, or the decision of the Comptroller under subsection (1A) on a case, from being questioned in an appeal against an assessment in accordance with Part XVIII.
+
+[Act 39 of 2017 wef 26/10/2017]
+
 (3) In this section, “related party” has the same meaning as in section 13(16).
 
 [27/2009]
+
+### Surcharge on transfer pricing adjustments
+
+34E\.—(1) Where the Comptroller, in relation to the year of assessment 2019 or any subsequent year of assessment —
+
+(a) increases the amount of the income of a person under section 34D(1A)(a);
+
+(b) reduces the amount of any deduction allowed to a person under section 34D(1A)(b); or
+
+(c) reduces the amount of any loss of a person under section 34D(1A)(c),
+
+a surcharge equal to 5% of the amount of the increase or reduction (as the case may be) is recoverable by the Comptroller from the person as a debt due to the Government.
+
+(2) Despite any objection to or an appeal lodged against an assessment made pursuant to any adjustment under section 34D(1A), the surcharge must be paid —
+
+(a) within one month starting from the date a written notice of the surcharge is served personally or by registered post on the person; and
+
+(b) at the place stated in the notice.
+
+(3) The Comptroller may, in the Comptroller’s discretion, and subject to such terms and conditions (including the imposition of interest) as the Comptroller may impose, extend the time within which payment is to be made.
+
+(4) Sections 86(1) to (6), 87(1) and (2), 89, 90 and 91 apply to the collection and recovery of a surcharge and any interest imposed under subsection (3), as they apply to the collection and recovery of tax.
+
+(5) The Comptroller may, for any good cause, remit wholly or in part any surcharge payable under this section.
+
+(6) If, upon an objection under section 76 or an appeal under Part XVIII, an assessment made pursuant to an adjustment under section 34D(1A) is varied or annulled, then the surcharge is correspondingly increased, reduced or annulled (as the case may be), and —
+
+(a) if the surcharge is increased, subsections (1) to (5) apply to the increased amount of the surcharge as they apply to the surcharge; or
+
+(b) if the surcharge is reduced or annulled and it has already been paid to the Comptroller, the amount of the reduction or the entire amount (including any interest paid on the amount) must be refunded.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+### Transfer pricing documentation
+
+34F\.—(1) This section applies to the basis period for the year of assessment 2019 and every subsequent year of assessment.
+
+(2) This section applies to a company, firm or trust —
+
+(a) if the gross revenue of the company, firm or trust derived from its trade or business for the basis period concerned is more than $10 million; or
+
+(b) if documentation under subsection (3) is required to be prepared for a transaction undertaken by the company, the firm, or the trustee of the trust on its behalf, in the basis period immediately before the basis period concerned.
+
+(3) Unless exempt by rules made under section 7, each of the following, namely:
+
+(a) the company;
+
+(b) the person making a return of the income of the firm;
+
+(c) the trustee of the trust,
+
+must prepare documentation (called in this section transfer pricing documentation) that complies with subsection (5) for each transaction undertaken by the company, the firm or the trustee on behalf of the trust (as the case may be), with a related party in the basis period concerned.
+
+(4) In subsection (3)(b), the person making a return of the income of a firm is, in the case of a partnership, the person responsible for doing so under section 71.
+
+(5) The transfer pricing documentation —
+
+(a) must be prepared no later than the time for the making of the return of the income of the company, the firm or the trustee in relation to the trust for the year of assessment;
+
+(b) must contain such details as may be prescribed by rules under section 7 of the commercial or financial relations of the parties as respects the transaction, the conditions made or imposed between them as respects the transaction, as well as an explanation as to whether those conditions are arm’s length conditions within the meaning of section 34D(1)(b); and
+
+(c) must comply with all other requirements as to their form and content as may be prescribed by rules under section 7.
+
+(6) The person in subsection (3)(a), (b) or (c) must retain in safe custody transfer pricing documentation prepared by the person for each transaction, for a period of at least 5 years from the end of the basis period in which the transaction took place.
+
+(7) The Comptroller may, by written notice served on a person in subsection (3)(a), (b) or (c) personally or by registered post, require the person to furnish to the Comptroller a copy of any transfer pricing documentation prepared by the person, and the person must comply with the requirement within 30 days starting from the date the notice is served on the person.
+
+(8) A person who —
+
+(a) without reasonable excuse, fails to comply with subsection (3), (6) or (7); or
+
+(b) in purported compliance with subsection (7), provides to the Comptroller any documentation that the person knows to be false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+(9) The Comptroller may compound any offence under subsection (8).
+
+(10) In this section —
+
+“firm” includes a partnership;
+
+“related party” has the same meaning as in section 13(16).
+
+[Act 39 of 2017 wef 26/10/2017]
+
+### Modification of provisions for companies redomiciled in Singapore
+
+34G\.—(1) This section applies to a body corporate incorporated outside Singapore —
+
+(a) that is registered as a company limited by shares under Part XA of the Companies Act (Cap. 50) (called in this section a redomiciled company); and
+
+(b) [Deleted by Act 45 of 2018 wef 26/10/2017]
+
+### Interpretation
+
+(2) In this section —
+
+“FRS 109” has the same meaning as in section 34AA(15);
+
+“registration” means registration under section 359(1) of the Companies Act;
+
+“registration date”, in relation to a redomiciled company, means the date of its registration specified in the notice of transfer of registration issued to it under section 359(3) of the Companies Act.
+
+### Deductions for bad debts and impairment losses for debts
+
+(3) Despite sections 10(1), 14(1)(d) and 34AA(1), where a redomiciled company has any debt owed to it in respect of a trade or business outside Singapore, that was incurred before its registration date and, at any time on or after that date, the debt is written off as bad or impairment loss is provided for that debt —
+
+(a) no deduction is allowed for the debt or any provision made for it; and
+
+(b) any amount recovered from the debt, or any reversal of the impairment loss, is not chargeable to tax.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+### Deductions for impairment losses
+
+(4) Despite sections 10(1) and 34AA(1), where a redomiciled company incurred before its registration date any impairment loss from any financial asset on revenue account acquired for the purpose of any trade or business outside Singapore, any amount of the loss that is reversed after that date is not chargeable to tax.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(5) Where a redomiciled company incurs on or after its registration date any impairment loss, in the course of carrying on a trade or business in Singapore, from any financial asset on revenue account that was acquired by the company for the purpose of any trade or business outside Singapore before that date —
+
+(a) the company is allowed a deduction for that loss to the extent that it becomes credit-impaired within the meaning of FRS 109; and
+
+(b) any amount of that loss that is subsequently reversed is chargeable to tax to the extent of the deduction allowed under paragraph (a).
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(6) Subsections (4) and (5) do not apply to an impairment loss from a debt to which subsection (3) applies.
+
+### Deductions for expenses
+
+(7) No deduction is allowed under section 14 for any expense incurred by a redomiciled company before its registration date for the purpose of any trade or business outside Singapore and for which it has been allowed or given any deduction or relief under any law of a country outside Singapore that levies tax of a similar character to income tax (by whatever name called).
+
+[Act 45 of 2018 wef 26/10/2017]
+
+### Deductions for trading stocks
+
+(8) For the purposes of determining the amount of deduction to be allowed to a redomiciled company under any provision of this Act for any trading stock that it acquired before its registration date for the purpose of any trade or business outside Singapore, the value of the trading stock is the lower of the following:
+
+(a) the cost of the trading stock to the company;
+
+(b) the net realisable value of the trading stock on that date.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(9) Despite anything in sections 14A, 14D, 14Q, 14S and 14U, a redomiciled company that has never, at any time before its registration date, carried on any trade or business in Singapore, may only make a claim for a deduction under any of those sections for any cost, payment or expenditure incurred or made before its registration date, if —
+
+(a) such cost, payment or expenditure is incurred or made for the purpose of a trade or business in Singapore; and
+
+(b) the company has not carried on the same trade or business outside Singapore at any time before its registration date.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(10) The deduction under subsection (9) may only be allowed for the year of assessment relating to the basis period in which the trade or business is commenced in Singapore.
+
+### Allowances for machinery or plant under section 19
+
+(11) Where a redomiciled company —
+
+(a) incurred capital expenditure before its registration date to acquire any machinery or plant for the purpose of any trade or business outside Singapore; and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(b) uses the machinery or plant for the purposes of a trade or business in Singapore on or after that date,
+
+then an initial allowance may be made to the company for that capital expenditure, and an annual allowance may be made to the company for the depreciation by wear and tear of that machinery or plant, in accordance with section 19 as modified under subsection (12).
+
+(12) Section 19 applies in relation to the making of initial and annual allowances to a redomiciled company under subsection (11), and to initial and annual allowances so made, subject to the following modifications:
+
+(a) the allowances may only be made under that section if the trade or business is carried on in Singapore on or after its registration date;
+
+(b) the capital expenditure is treated as having been incurred for the provisioning of the machinery or equipment for that trade or business;
+
+(c) except as provided under paragraph (d), the allowances under that section may only be made in respect of the lower of the following:
+
+(i) the net book value of the machinery or plant as of the registration date;
+
+(ii) the market value of the machinery or plant as of that date,
+
+and that lower amount is treated as the capital expenditure incurred in acquiring that machinery or plant, and the original cost of the machinery or plant;
+
+(d) for the purposes of making the initial allowance under section 19(1) to the company for any machinery or plant that is acquired under a hire-purchase agreement, the reference in that provision to the capital expenditure is a reference to an amount computed by the formula
+
+where —
+
+(i) A is —
+
+(A) in the first year of claim for that allowance, the sum of all deposits and instalment payments (excluding finance charges) made up to the end of the basis period in which the date of commencement of the trade or business falls; and
+
+(B) in each subsequent year of claim for that allowance, the sum of all instalment payments (excluding finance charges) made in the basis period to which the claim relates;
+
+(ii) B is the sum of all deposits and instalment payments (excluding any finance charges) under the hire-purchase agreement; and
+
+(iii) C is the lower amount of the machinery or plant mentioned in paragraph (c);
+
+(e) for the purposes of making the initial allowance to the company, the capital expenditure is treated as having been incurred by the company on the first day on which it carries on that trade or business;
+
+(f) subsections (1B), (2)(b), (3), (4), (5) and (5B) of section 19 do not apply;
+
+(g) such other modifications as may be prescribed.
+
+(13) Except as provided under subsection (11), no allowance may be made under section 19 to a redomiciled company to which subsection (11)(a) and (b) applies, in relation to any capital expenditure mentioned in subsection (11)(a).
+
+### Allowances for machinery, plant, etc., under section 19A
+
+(14) Where a redomiciled company —
+
+(a) incurred capital expenditure before its registration date to acquire any item mentioned in section 19A(1), (2), (3), (4), (5), (6), (7) or (8) or develop a website mentioned in section 19A(10), for the purpose of any trade or business outside Singapore; and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(b) uses such item or website for the purposes of a trade or business in Singapore on or after that date,
+
+then an allowance may be made to the company, in lieu of the allowances under section 19 (as applied by subsection (11)), for the capital expenditure under section 19A(1), (2), (3), (4), (5), (6), (7), (8) or (10) (whichever is applicable), as modified under subsection (15).
+
+(15) Section 19A applies in relation to the making of an allowance under subsection (14), and to any allowance so made, subject to the following modifications:
+
+(a) the allowance may only be made under that section if the trade or business is carried on in Singapore on or after the registration date;
+
+(b) the capital expenditure is treated as having been incurred for the provision of the item or website for that trade or business;
+
+(c) the allowance may only be made in respect of the lower of the following:
+
+(i) the net book value of the item or website as of the registration date;
+
+(ii) the market value of the item or website as of that date,
+
+and that lower amount is treated as the capital expenditure incurred on the provision of the item or website for the trade or business, and the original cost of the item in section 19A(10C) (if applicable);
+
+(d) subsections (1B), (1C), (1D), (2A) to (2K), (9), (9A), (13A), (13B) and (16) to (18) of section 19A do not apply;
+
+(e) such other modifications as may be prescribed.
+
+(16) Except as provided under subsection (14), no allowance may be made under section 19A to a redomiciled company to which subsection (14)(a) and (b) applies, in relation to any capital expenditure mentioned in subsection (14)(a).
+
+### Writing-down allowances for intellectual property rights under section 19B
+
+(17) Where a redomiciled company —
+
+(a) incurred capital expenditure before its registration date to acquire any intellectual property rights for the purpose of any trade or business outside Singapore; and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(b) uses those rights for the purpose of a trade or business in Singapore on or after that date,
+
+then writing-down allowances may be made to the company for the capital expenditure, in accordance with section 19B as modified by subsection (18).
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(18) Section 19B applies in relation to the making of writing-down allowances to a redomiciled company under subsection (17), and to writing-down allowances so made, subject to the following modifications:
+
+(a) the allowances may only be made under that section if the trade or business is carried on in Singapore on or after the registration date;
+
+(b) the capital expenditure is treated as having been incurred for the acquisition of those intellectual property rights for use in that trade or business;
+
+(c) the allowances may only be made in respect of the lower of the following:
+
+(i) the acquisition cost of the intellectual property rights less accumulated amortisation and impairment losses as of the registration date;
+
+(ii) the open-market price of the rights as of that date,
+
+and that lower amount is treated as the capital expenditure incurred in acquiring those rights;
+
+(d) subsections (1), (1A), (1AA)(b), (1AC), (1B) to (1BC), (1C), (1D), (1E), (2B) to (2E), (8), (9), (10D) to (10K) and (12) of section 19B do not apply;
+
+(e) the election under section 19B(1AB) must be made at the time of lodgment of the company’s return of income for the year of assessment relating to the later of the following:
+
+(i) the basis period in which the registration date falls;
+
+(ii) the basis period in which the date of commencement of the trade or business falls;
+
+(f) such other modifications as may be prescribed.
+
+(19) In subsection (18)(c), “open-market price”, in relation to intellectual property rights, has the meaning given to it in section 19B(10F), with the reference to the acquisition date of those rights substituted with a reference to the registration date of the company.
+
+(20) Except as provided under subsection (17), no writing-down allowance may be made under section 19B to a redomiciled company to which subsection (17)(a) and (b) applies in relation to any capital expenditure mentioned in subsection (17)(a).
+
+### Ascertainment of profits of insurers
+
+(20A) Where —
+
+(a) a body corporate incorporated outside Singapore that is registered as a redomiciled company carried on insurance business (not being life business) outside Singapore at any time before its registration date;
+
+(b) the redomiciled company carries on the same insurance business (not being life business) in Singapore on or after its registration date; and
+
+(c) the registration date of the redomiciled company falls within a period for which its gains or profits from that insurance business in Singapore are to be ascertained for the purposes of this Act,
+
+then, for the purposes of applying section 26(3) to the period mentioned in paragraph (c), the liabilities of the redomiciled company immediately before the registration date in respect of the common policies, are to be added to the beginning value mentioned in section 26(3)(b).
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(20B) If —
+
+(a) a body corporate incorporated outside Singapore that is registered as a redomiciled company carried on life business outside Singapore at any time before its registration date;
+
+(b) the redomiciled company carries on the same life business in Singapore on or after its registration date; and
+
+(c) the registration date of the redomiciled company falls within a period for which its gains or profits from that life business in Singapore are to be ascertained for the purposes of this Act,
+
+then, for the purposes of applying section 26(6) to the period mentioned in paragraph (c), the liabilities of the redomiciled company immediately before the registration date in respect of the common policies, are to be added to the beginning value mentioned in paragraphs (a)(ii) and (b)(iv) of both definitions of “onshore life insurance surplus”, and paragraphs (a)(ii) and (b)(iv) of both definitions of “offshore life insurance surplus” in section 26(12).
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(20C) In subsections (20A) and (20B) —
+
+(a) “life business” means the business of insuring or reinsuring the liability of a life policy or accident and health policy as defined in the Insurance Act (Cap. 142);
+
+(b) a redomiciled company carries on the same insurance business (not being life business) or life business in Singapore that it carried on outside Singapore if the policies which it assumes the risks or undertakes the liabilities of, or for which it collects or receives premiums, when carrying on life business or an insurance business (not being life business) in Singapore —
+
+(i) are policies that are, or are part of; or
+
+(ii) include policies that are, or are part of,
+
+the policies which it assumed the risks or undertook the liabilities of, or for which it collected or received premiums, when carrying on life business or an insurance business (not being life business) outside Singapore; and
+
+(c) a reference to common policies is a reference to the policies mentioned in sub-paragraph (b)(i) or (ii), as the case may be.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+### Section 43(6A) inapplicable
+
+(21) Section 43(6A) does not apply to a redomiciled company.
+
+### Regulations
+
+(22) The Minister may make regulations necessary or convenient to be prescribed for carrying out or giving effect to this section and section 34H, and in particular, make regulations to provide for such transitional, supplementary or consequential matters as the Minister considers necessary or expedient.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+### Tax credits for approved redomiciled companies
+
+34H\.—(1) This section applies where —
+
+(a) an approved redomiciled company has income (called in this section income A) that is chargeable to tax in one or more years of assessment beginning with the year of assessment for the basis period in which its registration date falls; and
+
+(b) the company’s place of incorporation levies on the company tax of a similar character to income tax (by whatever name called) on an estimate of income A (called in this section income B).
+
+(2) The approved redomiciled company must be allowed, in accordance with subsection (4), a tax credit against tax payable in respect of the part of income A that is derived or received in the basis period for each year of assessment specified by the Minister to the company at the time of its approval (called in this section a specified year of assessment).
+
+(3) The total amount of tax credits to be allowed to the approved redomiciled company for all of its specified years of assessment is an amount C that is computed by the formula
+
+where —
+
+(a) B is the amount of income B;
+
+(b) B1 is the part of income B which is derived wholly from any agreement or arrangement entered into on or after the registration date, as well as any other income prescribed by regulations made under section 34G; and
+
+(c) D is the lower of the following:
+
+(i) the rate by which the part of income A derived or received in the basis period in which its registration date falls is chargeable to tax;
+
+(ii) the rate by which income B is chargeable to the tax described in subsection (1)(b).
+
+(4) Where, throughout a basis period for a specified year of assessment, the approved redomiciled company —
+
+(a) is resident in Singapore; and
+
+(b) satisfies all of the conditions specified by the Minister to it at the time of its approval,
+
+then there is to be allowed, against the amount of tax chargeable on income E, a credit of an amount that is the lower of the following:
+
+(i) the amount of tax;
+
+(ii) an amount computed by deducting from the amount C, the total amount of tax credits previously allowed under this section against the tax chargeable on the income of the company.
+
+(5) In subsection (4), a company’s income E for a year of assessment is the amount of the part of income A derived or received in the basis period for that year of assessment after deducting the following:
+
+(a) the expenses and donations allowable under this Act for that year of assessment that are attributable to or apportioned to the part of income A;
+
+(b) any capital allowances for that year of assessment attributable to the part of income A whether or not any claim for those allowances has been made;
+
+(c) any balance of the expenses, allowances and donations which have not been deducted under this subsection for the purpose of determining income E for any previous year of assessment.
+
+(6) The balance of any expenses, allowances or donations mentioned in subsection (5) may only be used to determine the company’s income E for a subsequent specified year of assessment, and is not available as a deduction against any other income of the company.
+
+(7) However, any balance mentioned in subsection (6) that remains —
+
+(a) after ascertaining the company’s income E for the last of the specified years of assessment; or
+
+(b) as of the date of revocation of the approval of the company,
+
+may be deducted against any other income of the company for a subsequent year of assessment, or the year of assessment for the basis period in which the approval is revoked or a subsequent basis period (whichever is applicable), in accordance with section 23 or 37, as the case may be.
+
+(8) Any balance of the amount C after a tax credit has been allowed for the last of the specified years of assessment must be disregarded.
+
+(9) If, at any time after the registration date, and during a period specified by the Minister to it at the time of its approval, the approved redomiciled company ceases to carry on any trade or business in Singapore, an amount computed using the formula
+
+is recoverable by the Comptroller from the company as a debt due to the Government, where —
+
+(a) F is the total number of its specified years of assessment or 5, whichever is larger;
+
+(b) G is the total number of complete years where the company carried on a trade or business in Singapore; and
+
+(c) H is the total amount of tax credits already allowed against the tax chargeable on the income of the company under this section.
+
+(10) If the Comptroller is satisfied that —
+
+(a) the approved redomiciled company gave to the Comptroller information that is false in any material particular, or omitted any material particular from any information or document given to the Comptroller; and
+
+(b) as a result of the false information or omission, an amount of tax credit was allowed against tax chargeable on the company’s income under this section,
+
+then an amount equal to the amount of tax credit so allowed is recoverable by the Comptroller from the company as a debt due to the Government.
+
+(11) The amount recoverable under subsection (9) or (10) must be paid at the place stated in the notice served by the Comptroller on the approved redomiciled company within 30 days after the service of the notice.
+
+(12) The Comptroller may, in the Comptroller’s discretion, and subject to such terms and conditions as the Comptroller may impose, extend the time within which payment is to be made.
+
+(13) Sections 86(1) to (6), 87(1) and (2), 89, 90 and 91 apply to the collection and recovery by the Comptroller of the amount recoverable under subsection (9) or (10) as they apply to the collection and recovery of tax.
+
+(14) In this section —
+
+“approved redomiciled company” means a redomiciled company within the meaning of section 34G(1) that is approved by the Minister for the purposes of this section;
+
+“place of incorporation”, in relation to an approved redomiciled company, means the jurisdiction where the company was domiciled at the time it applied for registration under Part XA of the Companies Act (Cap. 50);
+
+“registration” means registration under section 359(1) of the Companies Act;
+
+“registration date”, in relation to an approved redomiciled company, means the date of its registration specified in the notice of transfer of registration issued to it under section 359(3) of the Companies Act.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+### Adjustments arising from adoption of FRS 115
+
+34I\.—(1) This section applies where —
+
+(a) a person prepares or maintains the person’s financial accounts for any basis period for a year of assessment in accordance with FRS 115 or SFRS(I) 15 for the first time (called in this section the initial year of assessment);
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(b) as a result of the application of FRS 115 or SFRS(I) 15 (as the case may be), an adjustment has to be made to the amount of revenue in the person’s financial accounts in any previous basis period (called in this section the adjusted revenue amount); and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(c) the amount W of the person (or, if the person is a partnership, a partner of the person) for the year of assessment for that previous basis period arrived at using an amount of profit that includes the adjusted revenue amount (called in this section amount A) as the starting point, is different from the amount arrived at using an amount of profit that does not include the adjusted revenue amount (called in this section amount B) as the starting point.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(1A) In subsection (1)(c), the amount W of a person or partner for a year of assessment is ascertained by the formula X + Y – Z, where —
+
+(a) X is the chargeable income of the person or partner for that year of assessment;
+
+(b) Y is all exempt income of the person or partner for that year of assessment; and
+
+(c) Z is the sum of each deduction or allowance for any expenditure, donation or loss, that remains unabsorbed after ascertaining the chargeable income or any exempt income.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(2) Despite any provision of this Act, if amount A exceeds amount B, the excess amount is treated as income of the person or partner (as the case may be) for the initial year of assessment and is subject to one or more tax treatments in accordance with subsection (3).
+
+(3) For the purposes of subsection (2) —
+
+(a) if the income amount C of the person or partner for the initial year of assessment is subject to a single tax treatment, then the excess amount is subject to that tax treatment;
+
+(b) if different parts of the income amount C of the person or partner for the initial year of assessment are subject to different tax treatments, then different parts of the excess amount are subject to the different tax treatments, and the part of the excess amount that is subject to each of those tax treatments is computed by the formula
+
+where —
+
+(i) D is the sum of —
+
+(A) the part of the income amount C of the person or partner for that year of assessment that is subject to that tax treatment; and
+
+(B) the deduction allowed or allowance made for each expenditure, donation or loss in ascertaining the chargeable income or any exempt income of the person or partner for that year of assessment, and attributable to the production of, or apportioned to, that part;
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(ii) E is the sum of —
+
+(A) the income amount C of the person or partner for that year of assessment; and
+
+(B) the deduction allowed or allowance made for each expenditure, donation or loss in ascertaining the chargeable income or any exempt income of the person or partner for that year of assessment, and attributable to the production of, or apportioned to, the income amount C or a part of it; and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(iii) F is the excess amount.
+
+(4) Despite any provision of this Act, if amount B exceeds amount A, a deduction of the excess amount must be made against the total income of the person or partner (as the case may be) or one or more parts of it for the initial year of assessment according to subsection (5).
+
+(5) For the purposes of subsection (4) —
+
+(a) if the income amount C of the person or partner for the initial year of assessment is subject to a single tax treatment, then the excess amount must be deducted against the income amount C;
+
+(b) if different parts of the income amount C of the person or partner for the initial year of assessment are subject to different tax treatments, then different parts of the excess amount must be deducted against the different parts of the income amount C, and the part of the excess amount that must be deducted against each part of the income amount C is computed by the formula
+
+where —
+
+(i) D is the sum of —
+
+(A) the part of the income amount C of the person or partner for that year of assessment that is subject to that tax treatment; and
+
+(B) the deduction allowed or allowance made for each expenditure, donation or loss in ascertaining the chargeable income or any exempt income of the person or partner for that year of assessment, and attributable to the production of, or apportioned to, that part;
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(ii) E is the sum of —
+
+(A) the income amount C of the person or partner for that year of assessment; and
+
+(B) the deduction allowed or allowance made for each expenditure, donation or loss in ascertaining the chargeable income or any exempt income of the person or partner for that year of assessment, and attributable to the production of, or apportioned to, the income amount C or a part of it; and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(iii) F is the excess amount.
+
+(5A) To avoid doubt, the deduction or allowance mentioned in subsection (3)(b)(i)(B) or (ii)(B), or subsection (5)(b)(i)(B) or (ii)(B), excludes any deduction or allowance (or any part of any deduction or allowance) that remains unabsorbed after ascertaining the chargeable income or exempt income mentioned in that provision.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(6) In this section —
+
+(a) income is subject to a tax treatment if it is —
+
+(i) subject to tax at one rate of tax; or
+
+(ii) exempt from tax;
+
+(b) a reference to the income amount C of a person or partner for a year of assessment is a reference to the amount of income computed by the formula
+
+where —
+
+(i) G is the part of the chargeable income of the person or partner for the year of assessment that is of the type of income governed by FRS 115 or SFRS(I) 15 (as the case may be); and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(ii) H is the part of the exempt income of the person or partner for the year of assessment that is of the type of income governed by FRS 115 or SFRS(I) 15 (as the case may be); and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(c) a reference to deducting an amount against any income that is subject to a tax treatment is —
+
+(i) if the tax treatment is that mentioned in paragraph (a)(i), allowing that amount as a deduction against the income; or
+
+(ii) if the tax treatment is that mentioned in paragraph (a)(ii), reducing the income by that amount.
+
+(7) In this section —
+
+“FRS 115” means the financial reporting standard known as Financial Reporting Standard 115 (Revenue from Contracts with Customers) issued by the Accounting Standards Council under the Accounting Standards Act (Cap. 2B);
+
+“person” has the meaning given to that word in section 2(1), and includes a partnership;
+
+[Act 39 of 2017 wef 26/10/2017]
+
+[Act 45 of 2018 wef 26/10/2017]
+
+“SFRS(I) 15” means the financial reporting standard known as Singapore Financial Reporting Standards (International) 15 (Revenue from Contracts with Customers), issued by the Accounting Standards Council under the Accounting Standards Act.
+
+[Act 45 of 2018 wef 26/10/2017]
 
 ## PART VIII
 
@@ -13510,7 +14376,9 @@ the interest of that person in any property of the limited liability partnership
 
 “carry-back deductions”, in relation to a partner of a limited liability partnership in any year of assessment, means —
 
-(a) any deduction allowed to the partner of any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by the limited liability partnership that is made against his assessable income from any other source for the immediate preceding year of assessment under section 37E(1) or any of the 3 immediate preceding years of assessment under section 37E(1A), as the case may be; or
+(a) any deduction allowed to the partner of any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by the limited liability partnership that is made against his assessable income from any other source for the immediate preceding year of assessment under section 37E(1); or
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (b) any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by the limited liability partnership that is transferred by him to a spouse under section 37F;
 
@@ -13670,7 +14538,9 @@ is the transferred deduction transferred by him in that year of assessment.
 
 “carry-back deductions”, in relation to a limited partner of a limited partnership in any year of assessment, means —
 
-(a) any deduction allowed to the limited partner of any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is made against his assessable income from any other source for the immediate preceding year of assessment under section 37E(1) or any of the 3 immediate preceding years of assessment under section 37E(1A), as the case may be; or
+(a) any deduction allowed to the limited partner of any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is made against his assessable income from any other source for the immediate preceding year of assessment under section 37E(1); or
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (b) any allowance arising from any trade, business or profession, or any loss incurred in any trade, business, profession or vocation carried on by him in the limited partnership that is transferred by him to a spouse under section 37F;
 
@@ -13864,7 +14734,9 @@ as the case may be, such information within such time and in such form and manne
 
 [49/2004]
 
-(6) Where, in any year of assessment, the amount of loss incurred by any person during the year preceding the year of assessment is not fully deducted under subsection (3)(a)(ii), the balance of such loss, after deducting any amount of such loss transferred to a claimant company under section 37C or to a spouse under section 37D or 37F, or deducted against income for the immediate preceding year of assessment under section 37E(1) or any of the 3 immediate preceding years of assessment under section 37E(1A), as the case may be, shall be available for deduction against his statutory income for subsequent year of assessment under subsection (3)(a)(i).
+(6) Where, in any year of assessment, the amount of loss incurred by any person during the year preceding the year of assessment is not fully deducted under subsection (3)(a)(ii), the balance of such loss, after deducting any amount of such loss transferred to a claimant company under section 37C or to a spouse under section 37D or 37F, or deducted against income for the immediate preceding year of assessment under section 37E(1), shall be available for deduction against his statutory income for subsequent year of assessment under subsection (3)(a)(i).
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [37/2002; 49/2004; 34/2005; 27/2009]
 
@@ -14062,9 +14934,11 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 43A, 43C (in respect of those relating to general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U, 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be;
+(b) section 43A, 43C (in respect of those relating to general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U (repealed), 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be;
 
 [Act 39 of 2017 wef 01/06/2017]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 2 of 2016 wef 01/04/2015]
 
@@ -14412,21 +15286,11 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 [34/2005]
 
-(1A) Notwithstanding subsection (1) but subject to the other provisions of this section, a person may deduct any qualifying deduction for the years of assessment 2009 and 2010 against his assessable income for the 3 years of assessment immediately preceding the year of assessment 2009 or 2010, as the case may be.
+(1A) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
 
-[27/2009]
+(1B) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
 
-(1B) Any qualifying deduction under subsection (1A) for any year of assessment shall so far as possible be made against the person’s assessable income for the third year of assessment immediately preceding that year of assessment, with any remaining balance of the qualifying deduction made —
-
-(a) against his assessable income for the second year of assessment immediately preceding that year of assessment; and
-
-(b) thereafter against his assessable income for the first year of assessment immediately preceding that year of assessment.
-
-[27/2009]
-
-(1C) Where in any year of assessment a person is entitled to make more than one deduction under subsection (1A) or under subsections (1) and (1A) against his assessable income for that year of assessment, the assessable income for that year of assessment shall so far as possible be deducted by the amount of qualifying deduction for the earliest year of assessment the person is entitled to so deduct under subsection (1) or (1A), and any remaining balance of the assessable income for the first-mentioned year of assessment shall so far as possible be deducted by the amount of qualifying deduction for the next earliest year of assessment, and so on.
-
-[27/2009]
+(1C) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
 
 (2) Qualifying deductions shall be deducted in the following order:
 
@@ -14444,21 +15308,17 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 [34/2005]
 
-(3A) Notwithstanding subsection (3), the amount of qualifying deduction to be deducted for the year of assessment 2009 or 2010 against the assessable income for any of the 3 years of assessment immediately preceding the year of assessment 2009 or 2010, as the case may be, is the lower of —
+(3A) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
 
-(a) an amount equivalent to the difference between the amount of qualifying deduction available for deduction for the year of assessment 2009 or 2010, as the case may be, and the aggregate amount of such qualifying deductions which had already been deducted under subsection (1A); and
-
-(b) the balance of the assessable income of the person for the year of assessment after such assessable income has been deducted by the qualifying deduction for any year of assessment prior to the year of assessment 2009 or 2010, as the case may be, under subsection (1C).
-
-[27/2009]
-
-(4) Subject to the provisions of this section, section 37B shall apply, with the necessary modifications, to the deduction of any qualifying deduction by any company for any year of assessment against its assessable income for the immediate preceding year of assessment or any of the 3 immediate preceding years of assessment (as the case may be), where applicable, as if the income for the immediate preceding year of assessment or any of the 3 immediate preceding years of assessment (as the case may be) is income for that year of assessment, and for the purpose of such application, any reference in section 37B(2) and (3) to —
+(4) Subject to the provisions of this section, section 37B shall apply, with the necessary modifications, to the deduction of any qualifying deduction by any company for any year of assessment against its assessable income for the immediate preceding year of assessment, where applicable, as if the income for the immediate preceding year of assessment is income for that year of assessment, and for the purpose of such application, any reference in section 37B(2) and (3) to —
 
 (a) unabsorbed allowances, losses or donations shall be read as a reference to qualifying deductions;
 
 (b) corresponding allowances, losses or donations shall be read as a reference to allowances or losses; and
 
-(c) chargeable income of the company shall be read as a reference to assessable income for the immediate preceding year of assessment or any of the 3 immediate preceding years of assessment (as the case may be) of the company.
+(c) chargeable income of the company shall be read as a reference to assessable income for the immediate preceding year of assessment of the company.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [34/2005; 27/2009]
 
@@ -14486,19 +15346,9 @@ is any amount deducted against assessable income subject to tax at any concessio
 
 [34/2005]
 
-(5A) Notwithstanding subsection (5), the amount of qualifying deduction to be deducted for the year of assessment 2009 or 2010 shall not exceed $200,000; and in the case of a company shall be determined by the formula
+(5A) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
 
-where A
-
-is any amount deducted against assessable income subject to tax at the rate of tax specified in section 43(1)(a); and
-
-B
-
-is any amount deducted against assessable income subject to tax at any concessionary rate of tax divided by the adjustment factor for that concessionary rate of tax.
-
-[27/2009]
-
-(6) Any person deducting any qualifying deduction for any year of assessment against his assessable income for the immediate preceding year of assessment or any of the 3 immediate preceding years of assessment (as the case may be) under this section shall notify the Comptroller and make an election to make such deduction —
+(6) Any person deducting any qualifying deduction for any year of assessment against his assessable income for the immediate preceding year of assessment under this section shall notify the Comptroller and make an election to make such deduction —
 
 (a) in the case of an individual, not later than 30 days from the date of service of the notice of assessment on him; and
 
@@ -14516,9 +15366,7 @@ or within such further time as the Comptroller may allow.
 
 [34/2005; 53/2007]
 
-(8A) Notwithstanding subsection (8), where the Comptroller discovers that any qualifying deduction for the year of assessment 2010 made under subsection (1A) against the assessable income of any person for the year of assessment 2008 is or has become excessive, he may make an assessment on the person on the amount which, in his opinion, ought to have been charged to tax in the year of assessment 2008, within 6 years after the expiration of that year of assessment.
-
-[27/2009]
+(8A) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
 
 (9) For the purposes of this section, subject to sections 35, 37 and 37B, qualifying deductions, in relation to any person, for each year of assessment, are —
 
@@ -14534,11 +15382,19 @@ or within such further time as the Comptroller may allow.
 
 [Act 11 of 2016 wef 19/04/2016]
 
-(11) Notwithstanding subsection (9), any allowance specified in subsection (9)(a) made to a person for any year of assessment shall not be deductible against assessable income for the immediate preceding year of assessment or any one of the 3 immediate preceding years of assessment (as the case may be) if the person did not carry on that trade, business or profession in the basis period for that preceding year of assessment.
+(11) Notwithstanding subsection (9), any allowance specified in subsection (9)(a) made to a person for any year of assessment shall not be deductible against assessable income for the immediate preceding year of assessment if the person did not carry on that trade, business or profession in the basis period for the immediate preceding year of assessment.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [34/2005; 27/2009]
 
-(12) Notwithstanding subsection (9), any allowance specified in subsection (9)(a) made to or any loss specified in subsection (9)(b) incurred by a company for any year of assessment shall not be deductible against income for the immediate preceding year of assessment or any one of the 3 immediate preceding years of assessment (as the case may be) unless the Comptroller is satisfied that the shareholders of the company on the first day of the year in which the allowances arose or in which the loss was incurred, as the case may be, were substantially the same as the shareholders of the company on the last day of that preceding year of assessment.
+(12) Notwithstanding subsection (9), any allowance specified in subsection (9)(a) made to or any loss specified in subsection (9)(b) incurred by a company for any year of assessment shall not be deductible against income for the immediate preceding year of assessment unless the Comptroller is satisfied that the shareholders of the company on the first day of the year in which the allowances arose or in which the loss was incurred, as the case may be, were substantially the same as the shareholders of the company on the last day of the immediate preceding year of assessment.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [34/2005; 27/2009]
 
@@ -14598,7 +15454,7 @@ is the concessionary rate of tax;
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(b) section 43A, 43C (in respect of those relating to general insurance business and life reinsurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U, 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
+(b) section 43A, 43C (in respect of those relating to general insurance business and life reinsurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U (repealed), 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
 
 [Act 39 of 2017 wef 01/06/2017]
 
@@ -14841,126 +15697,6 @@ then there shall be deducted from the assessable income of the company for that 
 (b) is incurred in respect of research and development activities carried out in Singapore; and
 
 (c) is not funded by any grant or subsidy from the Government or a statutory board.
-
-[34/2008; 29/2010]
-
-### Cash grant for research and development expenditure for start-up company
-
-37H\.—(1) Subject to this section and such conditions as may be prescribed by the Minister by regulations, a qualifying start-up company may apply to the Comptroller for any of its first 3 years of assessment falling between the year of assessment 2009 and the year of assessment 2010 (both years inclusive) for a cash grant of the specified amount, or $20,250, whichever is the lower, if the qualifying start-up company —
-
-(a) has incurred at least $150,000 of qualifying research and development expenditure in the basis period relating to that year of assessment;
-
-(b) where the qualifying start-up company has commenced any trade or business before or in the basis period relating to that year of assessment, has incurred any tax adjusted loss in that basis period; and
-
-(c) carries on research and development in Singapore at the time the application under this section is made.
-
-[34/2008; 29/2010]
-
-(2) An application made to the Comptroller under subsection (1) shall be —
-
-(a) made at the time of lodgment by the qualifying start-up company of a return of its income for that year of assessment or within such earlier or extended time as the Comptroller may allow; and
-
-(b) accompanied by a copy of the audited account of the qualifying start-up company for the basis period relating to that year of assessment, as well as such information and supporting documentation to be given in such form and manner as the Comptroller may specify.
-
-[34/2008]
-
-(3) The specified amount for any year of assessment under subsection (1) shall be computed in accordance with the formula
-
-where A is —
-
-(a) where the qualifying start-up company has not commenced any trade or business, the lower of ––
-
-(i) the sum total of qualifying research and development expenditure incurred by the company in the basis period relating to that year of assessment and any amounts described under section 14DA(1) for that year of assessment; and
-
-(ii) $225,000; or
-
-(b) where the qualifying start-up company has commenced any trade or business, the lowest of —
-
-(i) the tax adjusted loss of the company for the basis period relating to that year of assessment;
-
-(ii) the sum total of qualifying research and development expenditure incurred by the company in the basis period relating to that year of assessment and any amounts described under section 14DA(1) for that year of assessment; and
-
-(iii) $225,000.
-
-[34/2008; 22/2011]
-
-(4) Where any tax, duty, interest or penalty is due under this Act, the Goods and Services Tax Act (Cap. 117A), the Property Tax Act (Cap. 254) or the Stamp Duties Act (Cap. 312) by the qualifying start-up company to the Comptroller of Income Tax, the Comptroller of Goods and Services Tax, the Comptroller of Property Tax or the Commissioner of Stamp Duties, as the case may be, the amount of cash grant payable by the Comptroller to the company shall be reduced by the amount so due.
-
-[34/2008]
-
-(5) Any amount reduced under subsection (4) shall be deemed to be tax, duty, interest or penalty paid by the qualifying start-up company under the relevant Act and shall (if it is due under an Act other than this Act) be paid by the Comptroller to the Comptroller of Goods and Services Tax, the Comptroller of Property Tax or the Commissioner of Stamp Duties, as the case may be.
-
-[34/2008]
-
-(6) For the purposes of sections 14D(2) and 37(3)(a), the expenditure and loss incurred by a qualifying start-up company shall be reduced by the amount in respect of which a cash grant has been given to the company under subsection (1).
-
-[34/2008]
-
-(7) Where a qualifying start-up company has not commenced any trade or business, any amount of expenditure in respect of which a cash grant has not been given to that company under subsection (1) shall not qualify for any cash grant under that subsection in any subsequent year of assessment.
-
-[34/2008]
-
-(8) Where a company has received an amount under subsection (1) —
-
-(a) without having satisfied all of the requirements in that subsection; or
-
-(b) that is in excess of that which may be given to it under this section,
-
-such amount shall be recoverable by the Comptroller from the company as a debt due to the Government.
-
-[34/2008]
-
-(9) The amount recoverable under subsection (8) shall be payable at the place stated in a notice served by the Comptroller on the company within one month after the service of the notice.
-
-[34/2008]
-
-(10) The Comptroller may, in his discretion and subject to such terms and conditions, including the imposition of interest, as he may impose, extend the time limit within which payment is to be made.
-
-[34/2008]
-
-(11) Sections 87(1) and (2), 89(1) to (4) and 90 shall apply to the collection and recovery by the Comptroller of the amount recoverable under subsection (8) and any interest imposed under subsection (10) as they apply to the collection and recovery of tax, and for the purpose of such application, references in section 87(1) to the provisions of this Act relating to the collection and recovery of tax are references to sections 89(1) to (4) and 90.
-
-[34/2008]
-
-(12) Where the Comptroller has recovered any amount under subsection (8), the amount of the expenditure or loss referred to in subsection (6) shall be increased by an amount determined in accordance with regulations made by the Minister under this subsection, unless disallowed by the Comptroller under subsection (13).
-
-[34/2008]
-
-(13) The Comptroller may disallow the increase under subsection (12) if he is satisfied that the company has —
-
-(a) provided the Comptroller with any information or document, in connection with an application under subsection (1), which is false or misleading in a material particular; or
-
-(b) made use of any fraud, art or contrivance whatsoever or authorised the use of any such fraud, art or contrivance, in connection with an application under subsection (1).
-
-[34/2008]
-
-(14) In this section —
-
-“first 3 years of assessment”, in relation to a qualifying start-up company, means the year of assessment relating to the basis period during which the company is incorporated in Singapore and the 2 consecutive years of assessment immediately following that year of assessment;
-
-“qualifying research and development expenditure” has the same meaning as in section 37G;
-
-“qualifying start-up company” means any company —
-
-(a) which is incorporated in Singapore;
-
-(b) which has any of its first 3 years of assessment falling within the period from the year of assessment 2009 to the year of assessment 2010 (both years inclusive);
-
-(c) which is resident in Singapore for the year of assessment for which the company makes an application under subsection (1); and
-
-(d) the total share capital of which is beneficially held directly by no more than 20 shareholders —
-
-(i) all of whom are individuals throughout the basis period for the year of assessment for which the company makes an application under subsection (1); or
-
-(ii) at least one of whom is an individual holding at least 10% of the total number of issued ordinary shares of the company throughout the basis period for the year of assessment for which the company makes an application under subsection (1);
-
-“tax adjusted loss”, in relation to a qualifying start-up company, means any loss in its trade or business —
-
-(a) which is incurred in the basis period referred to in subsection (1)(b);
-
-(b) which, had it been a profit, would have been assessable under this Act; and
-
-(c) which is not deducted for the year of assessment to which the basis period relates because of insufficiency of statutory income of the qualifying start-up company.
 
 [34/2008; 29/2010]
 
@@ -17448,8 +18184,6 @@ Deduction for voluntary contribution to medisave account
 
 (q) has made a voluntary contribution to the Central Provident Fund up to the amount allowable under the Central Provident Fund Act and has directed an amount of such contribution that, together with the balance in the individual’s medisave account maintained under the Central Provident Fund Act, is within the basic healthcare sum applicable to the individual at the time when the contribution was made, to be paid to the individual’s medisave account (referred to in this paragraph as relevant contribution), there shall be allowed a deduction of the amount equal to
 
-[Act 39 of 2017 wef 01/01/2017]
-
 where A
 
 is the amount of relevant contribution; and
@@ -17457,6 +18191,8 @@ is the amount of relevant contribution; and
 B
 
 is the amount of relevant contribution that is allowed a deduction under paragraph (h).
+
+[Act 39 of 2017 wef 01/01/2017]
 
 [26/73; 4/75; 37/75; 1/82; 5/83; 31/86; 1/88; 1/90; 23/90; 20/91; 2/92; 28/92; 26/93; 11/94; 32/95; 28/96; 1/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 34/2005; 7/2007; 30/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011]
 
@@ -18340,7 +19076,9 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (c) deduction of losses, capital allowances and donations otherwise than in accordance with this Act;
 
-(d) circumstances in which any losses (including impairment loss recognised under FRS 39, as defined in section 34A) incurred in respect of any facility referred to in paragraph (b), and capital allowances and donations attributable to income from such facility which has been allowed as a deduction against any income chargeable to tax, may be deemed as income chargeable to tax (at such rate as may be prescribed) for a specified basis period;
+(d) circumstances in which any losses (including impairment loss recognised under FRS 39, as defined in section 34A, and expected credit loss recognised under FRS 109, as defined in section 34AA) incurred in respect of any facility referred to in paragraph (b), and capital allowances and donations attributable to income from such facility which has been allowed as a deduction against any income chargeable to tax, may be deemed as income chargeable to tax (at such rate as may be prescribed) for a specified basis period;
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (e) adjustment of any amount deemed as income chargeable to tax referred to in paragraph (d) for the specified basis period;
 
@@ -18416,7 +19154,7 @@ An approved insurer whose approval was granted between 19 February 2011 and 31 M
 
 An approved insurer whose approval is granted on or after 1 April 2016
 
-(f) to provide for the deduction (otherwise than in accordance with this Act), from the income mentioned in paragraphs (a) to (e), of allowances under section 19, 19A, 20, 21,22 or 23, expenses, losses and donations allowable under this Act, including deduction of these allowances, expenses, losses and donations in such manner and to such extent as the Comptroller may determine;
+(f) to provide for the deduction (otherwise than in accordance with this Act), from the income mentioned in paragraphs (a) to (e), of allowances under section 19, 19A, 20, 21, 22 or 23, expenses, losses and donations allowable under this Act, including deduction of these allowances, expenses, losses and donations in such manner and to such extent as the Comptroller may determine;
 
 [Act 39 of 2017 wef 01/04/2016]
 
@@ -18882,15 +19620,19 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [Act 34 of 2016 wef 29/12/2016]
 
-“global trading company” means a company carrying on the business of international trading of commodities or commodities futures;
+“global trading company” means a company that carries on the business of international trading of commodities or commodities derivatives, or of brokering international trades in commodities, or both;
+
+[Act 39 of 2017 wef 26/10/2017]
 
 “qualifying company” means —
 
-(a) an approved global trading company; or
+(a) an approved company that carries on the business of international trading of commodities or commodities derivatives; or
 
-(b) a company which is a wholly-owned subsidiary of a global trading company,
+(b) a wholly-owned subsidiary of another company, where the other company carries on the business of international trading of commodities or commodities derivatives,
 
-which carries on any qualifying structured commodity financing activities, treasury activities or advisory services in relation to mergers and acquisitions prescribed under subsection (1).
+that carries on any qualifying structured commodity financing activities, treasury activities, or advisory services in relation to mergers and acquisitions, prescribed under subsection (1).
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [29/2010]
 
@@ -18956,19 +19698,7 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 43T\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
-### Concessionary rate of tax for income derived from organising or staging tourism event
-
-43U\.—(1) Notwithstanding section 43, tax at the rate of 10% shall be levied and paid for each year of assessment upon such income as the Minister may specify of an approved company incorporated or registered in Singapore derived by it on or after 1st April 2005 from organising or staging an approved tourism event, subject to such conditions as the Minister or such person as he may appoint may impose.
-
-[34/2005]
-
-(2) No approval shall be granted under this section after 31st March 2010.
-
-[34/2005]
-
-(3) In this section, “approved” means approved by the Minister or such person as he may appoint.
-
-[34/2005]
+43U\. [Deleted by Act 39 of 2017 wef 26/10/2017]
 
 43V\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
@@ -19050,9 +19780,9 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 (b) where the company is approved on or after 1 April 2017, 8%.
 
-[53/2007]
-
 [Act 39 of 2017 wef 01/04/2017]
+
+[53/2007]
 
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved aircraft leasing company subject to such conditions as the Minister or such person as he may appoint may impose.
 
@@ -19064,11 +19794,11 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 (4) Approval may be granted under this section between 1 March 2007 and 31 December 2022 (both dates inclusive).
 
+[Act 39 of 2017 wef 01/04/2017]
+
 [53/2007; 29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
-
-[Act 39 of 2017 wef 01/04/2017]
 
 (5) In determining the income of an approved aircraft leasing company from the leasing of any aircraft or aircraft engine —
 
@@ -19124,11 +19854,11 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 (4) Approval may be granted under this section between 1 March 2007 and 31 December 2022 (both dates inclusive).
 
+[Act 39 of 2017 wef 01/04/2017]
+
 [53/2007; 29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
-
-[Act 39 of 2017 wef 01/04/2017]
 
 (5) In this section —
 
@@ -19322,11 +20052,11 @@ except that the Minister may extend the period so specified for such further per
 
 (4) Approval may be granted under this section between 1 April 2008 and 31 December 2022 (both dates inclusive).
 
+[Act 39 of 2017 wef 01/04/2017]
+
 [34/2008; 22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
-
-[Act 39 of 2017 wef 01/04/2017]
 
 (5) In this section —
 
@@ -19586,7 +20316,9 @@ as an approved company for the purpose of this section from that date;
 
 “corporate service” means any of the following services provided by an approved company to an approved related company:
 
-(a) sourcing, procurement and distribution of materials and components, products or services for use in the business of the approved related company (such as marketing control, planning and brand management);
+(a) sourcing, procurement and distribution of materials and components, products or services for use in the business of the approved related company (excluding marketing control, planning and brand management);
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (b) training of crew and staff;
 
@@ -19594,9 +20326,11 @@ as an approved company for the purpose of this section from that date;
 
 (d) business planning, development and co-ordination (including the performance of economic or investment research and analysis) of information and processes to improve standards of services or products;
 
-(e) research and development (including test bedding) carried out on behalf of the approved related company;
+(e) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
-(f) general management and administration (such as intellectual property management, risk management, internal audit, budgeting and forecasting);
+(f) general management and administration (such as risk management, internal audit, budgeting and forecasting, but excluding intellectual property management);
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (g) technical support services (such as marine and offshore engineering technical support, accounting and tax consultancy services and actuary services);
 
@@ -19814,7 +20548,9 @@ as the case may be.
 
 (2) Subsection (1) does not apply to income from any of the activities mentioned in that subsection that is carried on on a date that falls outside of that activity’s concessionary period.
 
-(3) The Minister or such person as the Minister may appoint may, at any time between 1 April 2015 and 31 March 2020 (both dates inclusive), approve a company as an international growth company for a period not exceeding 5 years; and the approval may be given subject to such conditions as the Minister or appointed person may impose.
+(3) The Minister or such person as the Minister may appoint may, at any time between 1 April 2015 and 31 August 2017 (both dates inclusive), approve a company as an international growth company for a period not exceeding 5 years; and the approval may be given subject to such conditions as the Minister or appointed person may impose.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (4) When granting the approval, the Minister or appointed person must specify for the international growth company —
 
@@ -19956,7 +20692,9 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [26/93; 21/2003; 29/2012]
 
-(5) Without prejudice to any other provision of this Act, if any person after deducting the tax required to be deducted under subsection (1) fails to give notice of such deduction to the Comptroller in the manner referred to in subsection (1B) and by the time specified in subsection (4)(a), he shall be guilty of an offence and shall on conviction pay a penalty equal to 3 times the amount of tax so deducted and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(5) Without prejudice to any other provision of this Act, if any person after deducting any tax under subsection (1) fails to give notice of such deduction to the Comptroller in the manner referred to in subsection (1B) and by the time specified in subsection (4)(a), he shall be guilty of an offence and shall on conviction pay a penalty equal to 3 times the amount of tax so deducted and shall also be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [26/93; 21/2003]
 
@@ -19978,19 +20716,19 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (9) This section shall not apply to —
 
-(a) any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2018 (both dates inclusive), subject to such conditions as the Minister may impose;
+(a) any interest derived from any qualifying debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive), subject to such conditions as the Minister may impose;
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(b) any interest derived from any qualifying project debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive), subject to such conditions as the Minister may impose;
+[Act 45 of 2018 wef 01/04/2017]
+
+(b) any interest derived from any qualifying project debt securities issued during the period from 1st November 2006 to 31st March 2017 (both dates inclusive), subject to such conditions as the Minister may impose;
 
 [53/2007; 34/2008; 22/2011; 19/2013]
 
 [Act 37 of 2014 wef 21/02/2014]
 
 [Act 37 of 2014 wef 27/11/2014]
-
-[Act 45 of 2018 wef 01/04/2017]
 
 (c) any interest liable to be paid on or after 21st February 2014 by a person to a branch in Singapore of a company incorporated outside Singapore and not known to him to be resident in Singapore.
 
@@ -20386,11 +21124,11 @@ as that section applies to any interest paid by a person to another person not k
 
 (2) For the purpose of subsection (1)(a), the deduction of tax under section 45 shall be at the rate of 10% on every dollar of such distribution made during the period from 18 February 2005 to 31 March 2020 (both dates inclusive).
 
+[Act 39 of 2017 wef 01/04/2015]
+
 [34/2005; 29/2010]
 
 [Act 37 of 2014 wef 27/11/2014]
-
-[Act 39 of 2017 wef 01/04/2015]
 
 (3) For the purpose of subsection (1)(b), the deduction of tax under section 45 shall be at the applicable rate specified under section 43(1) on every dollar of such distribution.
 
@@ -20631,6 +21369,14 @@ is the other income.
 (5) Where any arrangements have effect by virtue of this section, the obligation as to secrecy imposed by section 6 shall not prevent the disclosure to any authorised officer of the government with which the arrangements are made of such information as is required to be disclosed under the arrangements.
 
 (6) The Minister may make rules for carrying out the provisions of any arrangements having effect under this section.
+
+(7) The Minister may by order amend the provisions of any arrangements that have effect under subsection (1), in order to give effect to Singapore’s obligations under the Multilateral Convention to Implement Tax Treaty Related Measures to Prevent Base Erosion and Profit Shifting done at Paris on 24 November 2016 (as amended from time to time).
+
+[Act 39 of 2017 wef 26/10/2017]
+
+(8) Where the provisions of any arrangements that have effect under subsection (1) are amended by an order under subsection (7), then those provisions have effect under subsection (1) as amended by that order.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 ### Tax credits
 
@@ -21638,11 +22384,35 @@ the Comptroller may make such assessment or additional assessments as may be nec
 
 (2) Notwithstanding subsection (1), where, in the opinion of the Comptroller, any form of fraud or wilful default has been committed by or on behalf of any person in connection with or in relation to tax, the Comptroller may, for the purpose of making good any loss of tax attributable to fraud or wilful default, assess that person at any time.
 
+(2A) Despite subsection (1), an assessment under that subsection may be made at any time if it is carried out pursuant to an agreement with an authority of a country outside Singapore, that is made in accordance with the procedure under an avoidance of double taxation arrangement with the government of that country, for resolving difficulties arising out of the application of that arrangement (commonly called a mutual agreement procedure).
+
+[Act 39 of 2017 wef 26/10/2017]
+
+(2B) Subsection (2A) does not apply to an agreement with an authority of the country outside Singapore on the transfer pricing criteria to be used in relation to a person’s transactions with the person’s related parties over a specified period (commonly called an advance pricing arrangement).
+
+[Act 39 of 2017 wef 26/10/2017]
+
 (3) The provisions of this Act as to notice of assessment, appeal and other proceedings under this Act shall apply to any assessment or additional assessment made under subsection (1) or (2) and to tax charged thereunder.
 
 (4) This section shall also apply, with the necessary modifications, to any assessment made under subsection (1) or (2) which results in any unabsorbed allowances or losses.
 
 [32/99]
+
+(5) To avoid doubt, the Comptroller may also make an assessment under this section on a person in a case where —
+
+(a) the Comptroller made an advance assessment on the person for a year of assessment; and
+
+(b) because of a subsequent amendment to any written law that applies retroactively to that year of assessment, the person becomes liable to a higher amount of tax.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+(6) In this section —
+
+“avoidance of double taxation arrangement” means an arrangement having effect under section 49;
+
+“related party” has the same meaning as in section 13(16).
+
+[Act 39 of 2017 wef 26/10/2017]
 
 ### Revised assessments as relief for late GST registration
 
@@ -21959,6 +22729,24 @@ APPEALS
 (13) All proceedings in appeals to the Board under this Act shall be deemed to be judicial proceedings within the meaning of the Penal Code.
 
 (14) Notice of the amount of tax payable under the assessment as determined by the Board shall be served by the Comptroller either personally or by registered post upon the appellant.
+
+### Hearing of appeal in absence of member of Board
+
+80A\.—(1) Despite anything in this Part, if, in the course of any appeal, or, in the case of a reserved judgment in any appeal, at any time before delivery of the judgment, any member of the Board hearing the appeal resigns or is unable, through illness or any other cause, to continue to hear or to determine the appeal, the remaining members of the Board (if 2 or more), must hear and determine the appeal unless the parties object.
+
+(2) In subsection (1), the Board is deemed to be duly constituted for the purposes of the appeal despite the member’s resignation or inability to act.
+
+(3) Despite section 78(14), in a case under subsection (1) —
+
+(a) where there are more than 2 members of the Board remaining, the appeal is to be decided in accordance with the decision of the majority of the remaining members of the Board and, if there is an equality of votes, the Chairman of the Board or, in the Chairman’s absence, the member presiding has a second or casting vote; or
+
+(b) where there are only 2 members of the Board remaining, the appeal is to be decided in accordance with the unanimous decision of both members.
+
+(4) The appeal must be reheard —
+
+(a) if the parties do not consent to the proceedings continuing before the remaining members of the Board under subsection (1); or
+
+(b) if the appeal is heard or determined by only 2 remaining members of the Board and they are unable to reach a unanimous decision.
 
 ### Appeals to High Court
 
@@ -22396,9 +23184,9 @@ but excluding any employee who is also a unitholder of the trust.
 
 [19/2013]
 
-### Remission of tax of companies for years of assessment 2016 and 2017
+### Remission of tax of companies for year of assessment 2016
 
-92E\. Where the Comptroller is satisfied that the remission of tax would be beneficial to a company, then there is to be remitted the tax payable for each of the years of assessment 2016 and 2017 by the company of an amount equal to the lower of the following:
+92E\. Where the Comptroller is satisfied that the remission of tax would be beneficial to a company, then there is to be remitted the tax payable for the year of assessment 2016 by the company of an amount equal to the lower of the following:
 
 (a) 50% of the tax payable for that year of assessment (excluding any tax levied and paid or payable pursuant to section 43(3), (3A) and (3B));
 
@@ -22406,7 +23194,29 @@ but excluding any employee who is also a unitholder of the trust.
 
 (b) $20,000.
 
+[Act 39 of 2017 wef 26/10/2017]
+
 [Act 2 of 2016 wef 11/04/2016]
+
+### Remission of tax of companies for year of assessment 2017
+
+92F\. Where the Comptroller is satisfied that the remission of tax would be beneficial to a company, then there is to be remitted the tax payable for the year of assessment 2017 by the company of an amount equal to the lower of the following:
+
+(a) 50% of the tax payable for that year of assessment (excluding any tax levied and paid or payable pursuant to section 43(3), (3A) and (3B));
+
+(b) $25,000.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+### Remission of tax of companies for year of assessment 2018
+
+92G\. Where the Comptroller is satisfied that the remission of tax would be beneficial to a company, then there is to be remitted the tax payable for the year of assessment 2018 by the company of an amount equal to the lower of the following:
+
+(a) 20% of the tax payable for that year of assessment (excluding any tax levied and paid or payable pursuant to section 43(3), (3A) and (3B));
+
+(b) $10,000.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 ### Repayment of tax
 
@@ -22469,6 +23279,14 @@ by reason of some error or mistake —
 he may, at any time not later than 6 years (if the year of assessment within which the assessment was made is 2007 or a preceding year of assessment) or 4 years (if the year of assessment within which the assessment is made is 2008 or a subsequent year of assessment) after the end of the year of assessment within which the assessment was made, make an application in writing to the Comptroller for relief.
 
 [19/2013]
+
+(1A) An application by a person on the basis of an error or a mistake, for the year of assessment 2019 or any subsequent year of assessment, in the amount of any income, expense, outgoing or loss in connection with any transaction between the person and a related party (within the meaning of section 13(16)) of the person, must be supported by transfer pricing documentation for that transaction that satisfies section 34F(5).
+
+[Act 39 of 2017 wef 26/10/2017]
+
+(1B) To avoid doubt, subsection (1A) applies whether or not the person is a company, firm, partner of a partnership or trustee of a trust to which section 34F applies.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 (2) On receiving the application, the Comptroller shall inquire into the matter and shall, subject to this section, give, by way of repayment of tax or an amendment to the assessment, such relief in respect of the error or mistake as appears to him to be reasonable and just.
 
@@ -23119,19 +23937,39 @@ IMPROVE TAX COMPLIANCE
 
 (a) the agreement reached between the Government and the Government of the United States of America to facilitate compliance by financial institutions and other persons in Singapore with the Foreign Account Tax Compliance Act of the United States of America (FATCA);
 
-(aa) a competent authority agreement between the Government and —
+(aa) a competent authority agreement between —
 
-(i) the government of another country; or
+(i) the Government and —
 
-(ii) the governments of 2 or more countries;
+(A) the government of another country; or
+
+(B) the governments of 2 or more countries; or
+
+(ii) the Minister or the Minister’s authorised representative and —
+
+(A) the authority of another country that exercises a power or carries out a duty corresponding to a power or duty of the Minister or representative; or
+
+(B) the authorities of 2 or more countries that exercise powers or carry out duties corresponding to a power or duty of the Minister or representative;
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 15 of 2016 wef 20/07/2016]
 
-(ab) a CbCR exchange agreement between the Government and —
+(ab) a CbCR exchange agreement between —
 
-(i) the government of another country; or
+(i) the Government and —
 
-(ii) the governments of 2 or more countries;
+(A) the government of another country; or
+
+(B) the governments of 2 or more countries; or
+
+(ii) the Minister or the Minister’s authorised representative and —
+
+(A) the authority of another country that exercises a power or carries out a duty corresponding to a power or duty of the Minister or representative; or
+
+(B) the authorities of 2 or more countries that exercise powers or carry out duties corresponding to a power or duty of the Minister or representative;
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 34 of 2016 wef 29/12/2016]
 
@@ -23141,19 +23979,29 @@ IMPROVE TAX COMPLIANCE
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(c) any other agreement or arrangement between the Government and —
+(c) any other agreement or arrangement that makes provision corresponding, or substantially similar, to that made by an agreement in paragraph (a), (aa), (ab) or (b), between —
 
-(i) the government of another country; or
+(i) the Government and —
 
-(ii) the governments of 2 or more countries,
+(A) the government of another country; or
 
-which makes provision corresponding, or substantially similar, to that made by an agreement in paragraph (a), (aa), (ab) or (b).
+(B) the governments of 2 or more countries; or
+
+(ii) the Minister or the Minister’s authorised representative and —
+
+(A) the authority of another country that exercises a power or carries out a duty corresponding to a power or duty of the Minister or representative; or
+
+(B) the authorities of 2 or more countries that exercise powers or carry out duties corresponding to a power or duty of the Minister or representative.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 15 of 2016 wef 20/07/2016]
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(2) An order under subsection (1) may only take effect on or after the date on which the agreement or arrangement enters into force for Singapore.
+(2) An order under subsection (1) may only take effect on or after the date on which the agreement or arrangement enters into force for Singapore or, where there is more than one agreement or arrangement under the order, may only take effect in relation to each agreement or arrangement on or after the date on which that agreement or arrangement enters into force for Singapore.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [19/2013]
 
@@ -23325,9 +24173,11 @@ under section 4(1) to perform or assist in the performance of a duty of the Comp
 
 (1A) The Minister may also make regulations to enable the Comptroller to obtain a country-by-country report or its equivalent in a case where the Comptroller is unable to obtain the report or its equivalent from the tax authority of a country in accordance with the Action 13 Report because —
 
-(a) the Government does not have a CbCR exchange agreement with the government of that country; or
+(a) the Government or the Minister or the Minister’s authorised representative does not have a CbCR exchange agreement with the government or an authority of that country; or
 
-(b) the Government has a CbCR exchange agreement with the government of that country, but the Minister is of the opinion that the agreement is not operating effectively.
+(b) the Government or the Minister or the Minister’s authorised representative has a CbCR exchange agreement with the government or an authority of that country, but the Minister is of the opinion that the agreement is not operating effectively.
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 34 of 2016 wef 29/12/2016]
 
@@ -25651,11 +26501,10 @@ This Legislative History is provided for the convenience of users of the Income 
 |||19 May 2016|
 |||1 July 2016|
 |||29 December 2016|
-|197.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
-||Date of First Reading|10 September 2018|
-|||(Bill No. 37/2018)|
-||Date of Second and Third Readings|2 October 2018|
-||Date of commencement|1 April 2017|
+|197.|**Act 21 of 2017—The Kwong-Wai-Shiu Free Hospital (Transfer of Undertaking and Dissolution) Act 2017**|
+||Date of First Reading|7 November 2016 (Bill No. 39/2016 published on 7 November 2016)|
+||Date of Second and Third Readings|3 April 2017|
+||Date of commencement|2 July 2017|
 |198.|**Act 39 of 2017—Income Tax (Amendment) Act 2017**|
 ||Date of First Reading|11 September 2017|
 |||(Bill No. 36/2017)|
@@ -25667,10 +26516,13 @@ This Legislative History is provided for the convenience of users of the Income 
 |||21 February 2017|
 |||1 April 2017|
 |||1 June 2017|
-|199.|**Act 21 of 2017—The Kwong-Wai-Shiu Free Hospital (Transfer of Undertaking and Dissolution) Act 2017**|
-||Date of First Reading|7 November 2016 (Bill No. 39/2016 published on 7 November 2016)|
-||Date of Second and Third Readings|3 April 2017|
-||Date of commencement|2 July 2017|
+|||26 October 2017|
+|199.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
+||Date of First Reading|10 September 2018|
+|||(Bill No. 37/2018)|
+||Date of Second and Third Readings|2 October 2018|
+||Date of commencement|1 April 2017|
+|||26 October 2017|
 ## COMPARATIVE TABLE
 
 Income Tax Act
