@@ -3422,7 +3422,9 @@ the assessment shall have effect as an assessment of the amount specified in the
 
 ### Hearing of appeal in absence of member of Board
 
-53\.—(1) Notwithstanding anything to the contrary in this Part, if, in the course of any appeal, or, in the case of a reserved judgment in any such appeal, at any time before delivery of the judgment, any member of the Board hearing the appeal is unable, through illness or any other cause, to continue to hear or to determine the appeal, the remaining members of the Board, not being less than 2, shall, if the parties consent, hear and determine the appeal and the Board shall, for the purposes of the appeal, be deemed to be duly constituted notwithstanding the absence or inability to act of the member.
+53\.—(1) Notwithstanding anything to the contrary in this Part, if, in the course of any appeal, or, in the case of a reserved judgment in any such appeal, at any time before delivery of the judgment, any member of the Board hearing the appeal resigns or is unable, through illness or any other cause, to continue to hear or to determine the appeal, the remaining members of the Board, not being less than 2, shall, if the parties consent, hear and determine the appeal and the Board shall, for the purposes of the appeal, be deemed to be duly constituted notwithstanding the resignation or inability to act of the member.
+
+[Act 37 of 2017 wef 27/10/2017]
 
 (2) Notwithstanding section 50(8), in any case referred to in subsection (1), the appeal shall be decided in accordance with the opinion of the majority of the remaining members of the Board and, except where there are only 2 remaining members, if there is an equality of votes, the Chairman of the Board or in his absence the member presiding shall have a second or casting vote.
 
@@ -6161,6 +6163,10 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|29 December 2016|
 |62.|**G.N. No. S 374/2017—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2017**|
 ||Date of commencement|9 July 2017|
+|63.|**Act 37 of 2017—Goods and Services Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017 (Bill No. 34/2017 published on 11 September 2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|27 October 2017|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
