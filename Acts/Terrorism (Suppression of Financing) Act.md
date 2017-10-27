@@ -942,9 +942,19 @@ Terrorists and terrorist entities
 
 [S 528/2017 wef 25/09/2017]
 
-(zg) Imran Kassim (Singapore citizen) (Date of Birth: 22 June 1983).
+(zg) Imran Kassim (Singapore citizen) (Date of Birth: 22 June 1983);
 
 [S 528/2017 wef 25/09/2017]
+
+[S 599/2017 wef 27/10/2017]
+
+(zh) Megat Shahdan bin Abdul Samad (Singapore citizen) (Date of Birth: 29 August 1978);
+
+[S 599/2017 wef 27/10/2017]
+
+(zi) Maimunah Binti Abdul Kadir (Singapore citizen) (Date of Birth: 17 March 1968).
+
+[S 599/2017 wef 27/10/2017]
 
 2. In this Schedule, unless the context otherwise requires —
 
@@ -1168,6 +1178,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|1 September 2017|
 |24.|**G.N. No. S 528/2017—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 2) Order 2017**|
 ||Date of commencement|25 September 2017|
+|25.|**G.N. No. S 599/2017—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 3) Order 2017**|
+||Date of commencement|27 October 2017|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
