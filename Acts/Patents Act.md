@@ -698,17 +698,95 @@ PATENTABILITY
 
 (b) the disclosure was made in breach of confidence by any person who obtained the matter in confidence from the inventor or from any other person to whom it was made available, or who obtained it, from the inventor;
 
-(c) the disclosure was due to, or made in consequence of, the inventor displaying the invention at an international exhibition and the applicant states, on filing the application, that the invention has been so displayed and also, within the prescribed period, files written evidence in support of the statement complying with any prescribed condition; or
+(c) the disclosure was due to, or made in consequence of, the inventor displaying the invention at an international exhibition;
 
-(d) the disclosure was due to, or made in consequence of, the inventor describing the invention in a paper read by him or another person with his consent or on his behalf before any learned society or published with his consent in the transactions of any learned society.
+[Act 18 of 2017 wef 30/10/2017]
+
+(d) the disclosure was due to, or made in consequence of, the inventor describing the invention in a paper read by him or another person with his consent or on his behalf before any learned society or published with his consent in the transactions of any learned society; or
+
+[Act 18 of 2017 wef 30/10/2017]
+
+(e) subject to subsections (5A) and (5B), the disclosure was made to the public by the inventor, or by a person who obtained the matter directly or indirectly from the inventor, in any circumstances not described in paragraphs (a) to (d).
+
+[Act 18 of 2017 wef 30/10/2017]
 
 (5) In subsection (4)(d), “learned society” includes any club or association constituted in Singapore or elsewhere whose main object is the promotion of any branch of learning or science.
+
+(5A) Subsection (4)(e) applies to the disclosure of matter constituting an invention due to, or in consequence of, the publication by an intellectual property administrator (being a person who obtained the matter directly or indirectly from the inventor) of an application for an intellectual property right (being an application containing the matter, but not being the application for a patent mentioned in subsection (4)), or a registration of an intellectual property right pursuant to such an application, only if —
+
+(a) the application was filed, without the consent of the inventor, by a person who obtained the matter directly or indirectly from the inventor; or
+
+(b) the publication was erroneous by reason that —
+
+(i) the application had been withdrawn, refused or abandoned before the date of the publication; and
+
+(ii) consequently, the publication was not required under the law (whether of Singapore or elsewhere) or treaty governing the application.
+
+[Act 18 of 2017 wef 30/10/2017]
+
+(5B) For the purposes of subsection (4)(e), where —
+
+(a) the disclosure of matter constituting an invention is due to, or in consequence of, the publication by an intellectual property administrator (being a person who obtained the matter directly or indirectly from the inventor) of an application for an intellectual property right (being an application containing the matter, but not being the application for a patent mentioned in subsection (4)), or a registration of an intellectual property right pursuant to such an application; and
+
+(b) the publication was erroneous by reason that the publication occurred earlier than provided under the law (whether of Singapore or elsewhere) or treaty governing the application,
+
+the matter is to be treated as disclosed to the public on the date when the publication should have occurred under that law or treaty.
+
+[Act 18 of 2017 wef 30/10/2017]
+
+(5C) If the applicant relies on any circumstances described in any paragraph of subsection (4) when —
+
+(a) complying with section 29(1)(b) or (c), (3) or (9); or
+
+(b) making a request under section 29B(1) for a review of an examination report issued under section 29(4) or a search and examination report issued under section 29(5),
+
+the applicant must file written evidence complying with the prescribed requirements in support of the applicant’s reliance on those circumstances.
+
+[Act 18 of 2017 wef 30/10/2017]
 
 (6) In this section, references to the inventor include references to any proprietor of the invention for the time being.
 
 (7) In the case of an invention consisting of a substance or composition for use in a method of treatment of the human or animal body by surgery or therapy or of diagnosis practised on the human or animal body, the fact that the substance or composition forms part of the state of the art shall not prevent the invention from being taken to be new if the use of the substance or composition in any such method does not form part of the state of the art.
 
 [UK Patents 1977, s. 2]
+
+(8) In this section —
+
+“foreign intellectual property office” means —
+
+(a) any national or regional office outside Singapore that performs functions similar to those that are performed by —
+
+(i) the Registry;
+
+(ii) the Registry of Plant Varieties established under section 7 of the Plant Varieties Protection Act (Cap. 232A);
+
+(iii) the Registry of Designs established under section 51 of the Registered Designs Act (Cap. 266); or
+
+(iv) the Registry of Trade Marks established under section 64 of the Trade Marks Act (Cap. 332);
+
+(b) the International Bureau; or
+
+(c) the International Bureau as defined in section 2(1) of the Registered Designs Act or section 2(1) of the Trade Marks Act;
+
+“intellectual property administrator” means —
+
+(a) the Registrar;
+
+(b) the Registrar of Designs;
+
+(c) the Registrar of Plant Varieties;
+
+(d) the Registrar of Trade Marks; or
+
+(e) a foreign intellectual property office;
+
+“Registrar of Designs” means the Registrar of Designs appointed under section 49 of the Registered Designs Act, and includes a Deputy Registrar of Designs and an Assistant Registrar of Designs appointed under that section;
+
+“Registrar of Plant Varieties” means the Registrar of Plant Varieties appointed under section 5 of the Plant Varieties Protection Act, and includes a Deputy Registrar of Plant Varieties and an Assistant Registrar of Plant Varieties appointed under that section;
+
+“Registrar of Trade Marks” means the Registrar of Trade Marks appointed under section 62 of the Trade Marks Act, and includes a Deputy Registrar of Trade Marks and an Assistant Registrar of Trade Marks appointed under that section.
+
+[Act 18 of 2017 wef 30/10/2017]
 
 ### Inventive step
 
@@ -1184,7 +1262,7 @@ is missing from the application.
 
 (ii) a search during the international phase of the application in suit (if the application in suit is an international application for a patent (Singapore) that has entered the national phase in Singapore under section 86(3));
 
-(d) file the prescribed documents and a request in the prescribed form for a supplementary examination report, where —
+(d) subject to subsection (11A), file the prescribed documents and a request in the prescribed form for a supplementary examination report, where —
 
 (i) the applicant relies on the final results of —
 
@@ -1195,6 +1273,8 @@ is missing from the application.
 (ii) each claim in the application in suit is related to at least one claim in that corresponding application, corresponding international application or related national phase application, or in the application in suit during its international phase, as the case may be; and
 
 (iii) according to those results, each claim in the application in suit appears to satisfy the criteria of novelty, inventive step (or non-obviousness) and industrial applicability (or utility).
+
+[Act 18 of 2017 wef 30/10/2017]
 
 (2) Where the applicant has complied with subsection (1)(a), the Registrar shall —
 
@@ -1230,33 +1310,77 @@ is missing from the application.
 
 (8) If it appears to an Examiner during the supplementary examination of an application under subsection (6) that one or more of the matters prescribed for the purposes of this subsection apply, the Examiner shall give the applicant one written opinion to that effect, and the Registrar shall, upon receiving the written opinion, send the applicant a copy of the written opinion.
 
-(9) The applicant shall, before the examination report, search and examination report or supplementary examination report is issued under subsection (4), (5) or (6), as the case may be —
+(9) Unless the request under subsection (1)(b), (c) or (d) or (3) for the examination report, search and examination report or supplementary examination report is withdrawn under subsection (10) or (11), the applicant shall, before the examination report, search and examination report or supplementary examination report is issued under subsection (4), (5) or (6), as the case may be —
 
 (a) respond in the prescribed manner, within the prescribed period, to the written opinion under subsection (7) or (8), as the case may be; and
 
 (b) subject to section 84, amend in the prescribed manner, within the prescribed period, the specification of the application in accordance with the prescribed conditions.
 
-(10) Notwithstanding subsection (1), where an applicant who has filed a request for an examination report under subsection (1)(c) or (3), or has filed a request for a search and examination report under subsection (1)(b), does not respond to a written opinion issued under subsection (7), he may —
+[Act 18 of 2017 wef 30/10/2017]
 
-(a) within the prescribed period referred to in subsection (9)(a), withdraw that request; and
+(10) Despite subsection (1), where an applicant has filed a request for an examination report under subsection (1)(c) or (3), or a request for a search and examination report under subsection (1)(b), the applicant may —
 
-(b) within the prescribed period, file a request for a supplementary examination report under subsection (1)(d).
+(a) withdraw that request —
 
-(11) Notwithstanding subsection (1), where an applicant who has filed a request for a supplementary examination report under subsection (1)(d) does not respond to the written opinion issued under subsection (8), he may —
+(i) in any case where an Examiner has given a written opinion under subsection (7), and the applicant has not responded to the written opinion — at any time before the expiry of the prescribed period mentioned in subsection (9)(a); or
 
-(a) within the prescribed period referred to in subsection (9)(a), withdraw that request; and
+(ii) in any other case — at any time before the examination report or search and examination report is issued under subsection (4) or (5); and
 
-(b) within the prescribed period, file a request for a search and examination report under subsection (1)(b) or a request for an examination report under subsection (1)(c).
+(b) subject to subsection (11A), file a request for a supplementary examination report under subsection (1)(d) within the prescribed period for that request.
+
+[Act 18 of 2017 wef 30/10/2017]
+
+(11) Despite subsection (1), where an applicant has filed a request for a supplementary examination report under subsection (1)(d), the applicant may —
+
+(a) withdraw that request —
+
+(i) in any case where an Examiner has given a written opinion under subsection (8), and the applicant has not responded to the written opinion — at any time before the expiry of the prescribed period mentioned in subsection (9)(a); or
+
+(ii) in any other case — at any time before the supplementary examination report is issued under subsection (6); and
+
+(b) file a request for a search and examination report under subsection (1)(b) or a request for an examination report under subsection (1)(c) or (3) within the prescribed period for that request.
+
+[Act 18 of 2017 wef 30/10/2017]
+
+(11A) Subsections (1)(d) and (10)(b) do not apply unless —
+
+(a) in any case where the application in suit is a new application mentioned in section 20(3), 26(11) or 47(4) — the actual date of filing of the application in suit is before the prescribed date; or
+
+(b) in any other case — the date of filing of the application in suit is before the prescribed date.
+
+[Act 18 of 2017 wef 30/10/2017]
 
 (12) The application shall be treated as abandoned —
 
-(a) if the applicant fails to comply with subsection (1);
+(a) subject to subsection (13), if the applicant fails to do one of the following:
+
+(i) comply with paragraph (b), (c) or (d) of subsection (1) within the period prescribed under that subsection for that paragraph;
+
+(ii) where subsection (3) applies, comply with that subsection;
+
+[Act 18 of 2017 wef 30/10/2017]
 
 (b) where subsection (10) applies, if the applicant fails to file a request for a supplementary examination report under subsection (1)(d) within the prescribed period referred to in subsection (10)(b); or
 
-(c) where subsection (11) applies, if the applicant fails to file a request for a search and examination report under subsection (1)(b) or a request for an examination report under subsection (1)(c) within the prescribed period referred to in subsection (11)(b).
+(c) where subsection (11) applies, if the applicant fails to file a request for a search and examination report under subsection (1)(b) or a request for an examination report under subsection (1)(c) or (3) within the prescribed period referred to in subsection (11)(b).
 
 [Act 15 of 2012 wef 14/02/2014]
+
+[Act 18 of 2017 wef 30/10/2017]
+
+(13) Where —
+
+(a) after receiving the search report under subsection (2)(b) from the Registrar, the applicant does not file a request for an examination report under subsection (3) within the prescribed period mentioned in that subsection; and
+
+(b) the time prescribed for filing a request for an extension of the prescribed period mentioned in subsection (3) expires before, or within 3 months after, the date of commencement of section 3(f) of the Patents (Amendment) Act 2017,
+
+the application is treated as abandoned if the applicant fails to file the request for an examination report under subsection (3) within 6 months after that date.
+
+[Act 18 of 2017 wef 30/10/2017]
+
+(14) In this section, “actual date of filing”, in relation to an application in suit that is a new application mentioned in section 20(3), 26(11) or 47(4), means the actual date of filing of the new application, and not the date of filing of the earlier application mentioned in section 20(3) or 26(11) or of the application for the patent to which the reference relates mentioned in section 47(4), as the case may be.
+
+[Act 18 of 2017 wef 30/10/2017]
 
 ### Eligibility for grant of patent, etc.
 
@@ -3785,6 +3909,10 @@ This Legislative History is provided for the convenience of users of the Patents
 ||Date of First Reading|14 May 2012 (Bill No. 13/2012 published on 14 May 2012)|
 ||Date of Second and Third Readings|10 July 2012|
 ||Date of commencement|1 November 2016|
+|21.|**Act 18 of 2017—Patents (Amendment) Act 2017**|
+||Date of First Reading|6 February 2017 (Bill No. 6/2017 published on 6 February 2017)|
+||Date of Second and Third Readings|28 February 2017|
+||Date of commencement|30 October 2017|
 ## COMPARATIVE TABLE
 
 Patents Act
