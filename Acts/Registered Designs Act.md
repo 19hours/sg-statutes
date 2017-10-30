@@ -28,11 +28,15 @@
 
 - [7 Computer programs, etc., not registrable](#Computer-programs-etc-not-registrable)
 
-- [8 Provisions as to confidential disclosure, etc.](#Provisions-as-to-confidential-disclosure-etc)
+- [8 Disclosure, etc., of design before certain date](#Disclosure-etc-of-design-before-certain-date)
+
+- [8A Disclosure of design on or after certain date](#Disclosure-of-design-on-or-after-certain-date)
+
+- [8B Disclosure of design to be registered in respect of non‑physical product](#Disclosure-of-design-to-be-registered-in-respect-of-non‑physical-product)
 
 - [9 Provisions as to artistic works](#Provisions-as-to-artistic-works)
 
-- [10 Subsequent registration of design in respect of other articles, etc.](#Subsequent-registration-of-design-in-respect-of-other-articles-etc)
+- [10 Subsequent registration of design in respect of other articles or non-physical products, etc.](#Subsequent-registration-of-design-in-respect-of-other-articles-or-non-physical-products-etc)
 
 [**Division 3  Proceedings for Registration**](#Division-3--Proceedings-for-Registration)
 
@@ -47,6 +51,8 @@
 - [15 Amendment of application](#Amendment-of-application)
 
 - [16 Examination of application](#Examination-of-application)
+
+- [16A New application treated as filed on date of filing of earlier application](#New-application-treated-as-filed-on-date-of-filing-of-earlier-application)
 
 - [17 Refusal of application](#Refusal-of-application)
 
@@ -246,39 +252,73 @@ PRELIMINARY
 
 “application for registration”, in relation to a design, means an application under section 11 for the registration of the design;
 
-“article” means any article of manufacture and includes —
+“article” means any thing that is manufactured (whether by an industrial process, by hand or otherwise), and includes —
 
-(a) any part of an article if that part is made and sold separately; and
+(a) any part of an article, if that part is made and sold separately; and
 
 (b) any set of articles;
+
+[Act 29 of 2017 wef 30/10/2017]
 
 “artistic work” has the meaning assigned to it in section 7(1) of the Copyright Act (Cap. 63);
 
 “Convention country” means a country or territory, other than Singapore, which is a party to the Paris Convention or a member of the World Trade Organisation;
 
-“corresponding design”, in relation to an artistic work, means a design which, when applied to an article, results in a reproduction of that work;
+“corresponding design”, in relation to an artistic work, means a design which, when applied to an article or a non‑physical product, results in a reproduction of that work;
+
+[Act 29 of 2017 wef 30/10/2017]
 
 “Court” means the High Court;
 
-“design” means features of shape, configuration, pattern or ornament applied to an article by any industrial process, but does not include —
+“design” means features of shape, configuration, colours, pattern or ornament applied to any article or non‑physical product that give that article or non‑physical product its appearance, but does not include —
 
-(a) a method or principle of construction; or
+(a) a method or principle of construction;
 
-(b) features of shape or configuration of an article which —
+(b) features of shape, configuration or colours of an article or a non‑physical product that —
 
-(i) are dictated solely by the function which the article has to perform;
+(i) are dictated solely by the function that the article or non‑physical product has to perform;
 
-(ii) are dependent upon the appearance of another article of which the article is intended by the designer to form an integral part; or
+(ii) are dependent upon the appearance of another article or non‑physical product of which the article or non‑physical product is intended by the designer to form an integral part; or
 
-(iii) enable the article to be connected to, or placed in, around or against, another article so that either article may perform its function;
+(iii) enable the article or non‑physical product to be connected to, or placed in, around or against, another article or non‑physical product, so that either article or non‑physical product may perform its function; or
+
+(c) features consisting only of one or more colours that —
+
+(i) are not used with any feature of shape or configuration; and
+
+(ii) do not give rise to any feature of pattern or ornament;
+
+[Act 29 of 2017 wef 30/10/2017]
 
 “designer”, in relation to a design, means the person who creates it or, if there are 2 or more such persons, each of those persons;
 
 “exclusive licence” means a licence from the registered owner of a registered design authorising the licensee, or the licensee and persons authorised by him, to the exclusion of all other persons (including the registered owner), to use the design in the manner authorised by the licence and “exclusive licensee” shall be construed accordingly;
 
+“formal requirements” means —
+
+(a) the requirements of section 11(2)(c) and (4)(a); and
+
+(b) any other requirements of section 11, or of rules made for the purposes of that section, that are prescribed as formal requirements;
+
+[Act 29 of 2017 wef 30/10/2017]
+
 “International Bureau” means the International Bureau of the World Intellectual Property Organisation;
 
 [Act 16 of 2012 wef 07/03/2014]
+
+“non‑physical product” —
+
+(a) means any thing that —
+
+(i) does not have a physical form;
+
+(ii) is produced by the projection of a design on a surface or into a medium (including air); and
+
+(iii) has an intrinsic utilitarian function that is not merely to portray the appearance of the thing or to convey information; and
+
+(b) includes any set of non‑physical products;
+
+[Act 29 of 2017 wef 30/10/2017]
 
 “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act (Cap. 140);
 
@@ -296,19 +336,47 @@ PRELIMINARY
 
 “Registry” means the Registry of Designs established under section 51;
 
-“set of articles” means 2 or more articles of the same general character that are ordinarily on sale together or intended to be used together, and to each of which the same design, or the same design with modifications or variations not sufficient to alter the character or substantially to affect the identity of the design, is applied.
+“set of articles” means 2 or more articles of the same general character that are ordinarily on sale together or intended to be used together, and to each of which the same design, or the same design with modifications or variations not sufficient to alter the character or substantially to affect the identity of the design, is applied;
 
 [3/2001]
+
+[Act 29 of 2017 wef 30/10/2017]
+
+“set of articles and non‑physical products” means one or more articles and one or more non‑physical products —
+
+(a) all of which are of the same general character and are ordinarily on sale together or intended to be used together; and
+
+(b) to each of which the same design, or the same design with modifications or variations not sufficient to alter the character or substantially to affect the identity of the design, is applied;
+
+[Act 29 of 2017 wef 30/10/2017]
+
+“set of non‑physical products” means 2 or more non‑physical products of the same general character that are ordinarily on sale together or intended to be used together, and to each of which the same design, or the same design with modifications or variations not sufficient to alter the character or substantially to affect the identity of the design, is applied.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) Unless the context otherwise requires —
 
 (a) any reference in this Act to the filing of a document shall be construed as a reference to the filing of the document with the Registrar;
 
-(b) any reference in this Act to an article in respect of which a design is registered shall, in the case of a design registered in respect of a set of articles, be construed as a reference to any article of that set; and
+(b) any reference in this Act to an article in respect of which a design is registered is, in the case of a design registered in respect of a set of articles or a set of articles and non‑physical products, a reference to any article of that set;
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(ba) any reference in this Act to a non‑physical product in respect of which a design is registered is, in the case of a design registered in respect of a set of non‑physical products or a set of articles and non‑physical products, a reference to any non‑physical product of that set; and
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (c) any reference to the infringement of a registered design shall be construed as a reference to the infringement of any right in the design conferred by this Act.
 
 [Copyright 1999 Ed., s. 73; Patents 1995 Ed., s. 2; Trade Marks 1999 Ed., s. 2; UK Designs 1949, ss. 1 and 44]
+
+(3) In this Act, unless the context otherwise requires, a device for projecting a non‑physical product —
+
+(a) is any device that when activated projects the non‑physical product on a surface or into a medium (including air); and
+
+(b) includes any product or component that is used in or with a device mentioned in paragraph (a) to project the non‑physical product on a surface or into a medium (including air).
+
+[Act 29 of 2017 wef 30/10/2017]
 
 ### Act binds the Government
 
@@ -326,13 +394,19 @@ Ownership of Designs
 
 4\.—(1) Subject to this section, the designer of a design shall be treated for the purposes of this Act as the owner of the design.
 
-(2) Where a design is created in pursuance of a commission for money or money’s worth, the person commissioning the design shall be treated as the owner of the design.
+(2) [Deleted by Act 29 of 2017 wef 30/10/2017]
 
-(3) Where, in a case not falling within subsection (2), a design is created by an employee in the course of his employment, his employer shall be treated as the owner of the design.
+(3) Where a design is created by an employee in the course of his employment, his employer shall be treated as the owner of the design.
 
-(4) Subsections (2) and (3) are subject to any agreement to the contrary between the parties concerned.
+[Act 29 of 2017 wef 30/10/2017]
 
-(5) Where a design, or the right to apply a design to any article, becomes vested, whether by assignment, transmission or operation of law, in any person other than the owner, either alone or jointly with the owner, that other person or, as the case may be, the owner and that other person, shall be treated for the purposes of this Act as the owner of the design or as the owner of the design in relation to that article.
+(4) Subsection (3) is subject to any agreement to the contrary between the parties concerned.
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(5) Where a design, or the right to apply a design to any article or non‑physical product, becomes vested, whether by assignment, transmission or operation of law, in any person other than the owner, either alone or jointly with the owner, that other person or, as the case may be, the owner and that other person, shall be treated for the purposes of this Act as the owner of the design or as the owner of the design in relation to that article or non‑physical product.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (6) In the case of a design generated by computer in circumstances such that there is no human designer, the person by whom the arrangements necessary for the creation of the design are made shall be deemed to be the designer.
 
@@ -344,13 +418,19 @@ Registrable Designs
 
 ### New design may be registered
 
-5\.—(1) Subject to the provisions of this Part, a design which is new may, upon application by the person claiming to be the owner, be registered in respect of an article specified in the application.
+5\.—(1) Subject to the provisions of this Part, a design which is new may, upon application by the person claiming to be the owner, be registered in respect of an article, a non‑physical product, or a set of articles and non‑physical products, specified in the application.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) A design for which an application for registration is made shall not be regarded as new if it is the same as a design —
 
-(a) registered in respect of the same or any other article in pursuance of a prior application; or
+(a) registered in respect of the same or any other article, non‑physical product or set of articles and non‑physical products in pursuance of a prior application; or
 
-(b) published in Singapore or elsewhere in respect of the same or any other article before the date of the first-mentioned application,
+[Act 29 of 2017 wef 30/10/2017]
+
+(b) published in Singapore or elsewhere in respect of the same or any other article, non‑physical product or set of articles and non‑physical products before the date of the first-mentioned application,
+
+[Act 29 of 2017 wef 30/10/2017]
 
 or if it differs from such a design only in immaterial details or in features which are variants commonly used in the trade.
 
@@ -372,15 +452,17 @@ or if it differs from such a design only in immaterial details or in features wh
 
 (3) The Minister may make rules —
 
-(a) to exclude from registration under this Act designs for such articles of a primarily literary or artistic character as the Minister considers appropriate; and
+(a) to exclude from registration under this Act designs for such articles and non‑physical products of a primarily literary or artistic character as the Minister considers appropriate; and
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (b) to provide that any design described in the rules shall not be registered under this Act, or shall not be so registered unless such conditions as may be prescribed are met.
 
 [UK Designs 1949, s. 1; HK Designs, s. 8]
 
-### Provisions as to confidential disclosure, etc.
+### Disclosure, etc., of design before certain date
 
-8\.—(1) An application for registration of a design shall not be refused, and the registration of a design shall not be revoked, by reason only of —
+8\.—(1) Subject to subsection (2A), an application for registration of a design shall not be refused, and the registration of a design shall not be revoked, by reason only of —
 
 (a) the disclosure of the design by the owner to any other person in such circumstances as would make it contrary to good faith for that other person to use or publish the design;
 
@@ -392,7 +474,9 @@ or if it differs from such a design only in immaterial details or in features wh
 
 [3/2001]
 
-(2) An application for registration of a design shall not be refused, and the registration of a design shall not be revoked, by reason only —
+[Act 29 of 2017 wef 30/10/2017]
+
+(2) Subject to subsection (2A), an application for registration of a design shall not be refused, and the registration of a design shall not be revoked, by reason only —
 
 (a) that a representation of the design, or any article to which the design has been applied, has been displayed, with the consent of the owner of the design, at an official international exhibition;
 
@@ -402,47 +486,115 @@ or if it differs from such a design only in immaterial details or in features wh
 
 if the application for registration of the design is made no later than 6 months after the opening of the exhibition.
 
+[Act 29 of 2017 wef 30/10/2017]
+
+(2A) This section only applies to —
+
+(a) a disclosure mentioned in subsection (1)(a) or (b);
+
+(b) an acceptance mentioned in subsection (1)(c);
+
+(c) a communication mentioned in subsection (1)(d), or anything done in consequence of such a communication;
+
+(d) a display mentioned in subsection (2)(a) or (b); or
+
+(e) a publication mentioned in subsection (2)(c),
+
+that occurs before the date of commencement of section 6 of the Registered Designs (Amendment) Act 2017.
+
+[Act 29 of 2017 wef 30/10/2017]
+
 (3) In this section, “official international exhibition” means an official, or officially recognised, international exhibition falling within the terms of the Convention on International Exhibitions signed at Paris on 22nd November 1928, and any protocols to that Convention, as revised or amended from time to time.
 
 [UK Designs 1949, s. 6; HK Designs, s. 9]
+
+[Act 29 of 2017 wef 30/10/2017]
+
+### Disclosure of design on or after certain date
+
+8A\.—(1) An application for registration of a design must not be refused, and the registration of a design must not be revoked, by reason only of any of the following:
+
+(a) a disclosure of the design made to a person other than the designer, or any successor in title of the designer, under conditions of confidentiality (whether express or implied);
+
+(b) a disclosure of the design made by the designer, or any successor in title of the designer, during the period of 12 months immediately before the date of filing of the application for registration of the design;
+
+(c) a disclosure of the design made by a person other than the designer, or any successor in title of the designer, during the period of 12 months immediately before the date of filing of the application for registration of the design, in consequence of information provided, or any other action taken, by the designer or any successor in title of the designer;
+
+(d) a disclosure of the design made during the period of 12 months immediately before the date of filing of the application for registration of the design, as a consequence of an abuse in relation to the designer or any successor in title of the designer.
+
+(2) This section only applies to a disclosure mentioned in subsection (1)(a), (b), (c) or (d) that is made on or after the date of commencement of section 7 of the Registered Designs (Amendment) Act 2017.
+
+[Act 29 of 2017 wef 30/10/2017]
+
+### Disclosure of design to be registered in respect of non‑physical product
+
+8B\. An application for registration of a design in respect of a non‑physical product must not be refused, and the registration pursuant to that application of the design in respect of the non‑physical product must not be revoked, by reason only of a disclosure of the design made before the date of filing of that application, if that application is filed during the period of 12 months immediately after the date of commencement of section 7 of the Registered Designs (Amendment) Act 2017.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 ### Provisions as to artistic works
 
 9\.—(1) Subject to subsection (2), where an application is filed by or with the consent of the owner of copyright in an artistic work for the registration of a corresponding design, the design shall not be treated for the purposes of this Act as being other than new by reason only of any use previously made of the artistic work.
 
-(2) Subsection (1) shall not apply if the previous use consisted of or included the sale, letting for hire, or offer or exposure for sale or hire of articles to which had been applied industrially —
+(2) Subsection (1) does not apply if —
 
-(a) the design in question; or
+(a) the previous use consisted of or included the sale, letting for hire, or offer or exposure for sale or hire, of —
 
-(b) a design differing from it only in immaterial details or in features which are variants commonly used in the trade,
+(i) articles or non‑physical products to which had been applied —
 
-and that previous use was made by or with the consent of the copyright owner.
+(A) the design in question; or
 
-(3) The Minister may make rules to provide for the circumstances in which a design is to be regarded as having been applied industrially to articles or any description of articles for the purposes of this section.
+(B) a design differing from the design in question only in immaterial details or in features that are variants commonly used in the trade (called in this subsection an immaterial variant); or
+
+(ii) devices for projecting any non‑physical products mentioned in sub‑paragraph (i);
+
+(b) the design in question or an immaterial variant had been applied industrially in relation to those articles, non‑physical products or devices; and
+
+(c) the previous use was made by or with the consent of the copyright owner.
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(3) The Minister may make rules to provide for the circumstances in which a design is to be regarded as having been applied industrially, in relation to articles, non‑physical products or devices for projecting non‑physical products, for the purposes of this section.
 
 [HK Designs, s. 10]
 
-### Subsequent registration of design in respect of other articles, etc.
+[Act 29 of 2017 wef 30/10/2017]
 
-10\.—(1) Where the registered owner of a design registered in respect of an article files —
+### Subsequent registration of design in respect of other articles or non-physical products, etc.
 
-(a) an application for registration of the registered design in respect of one or more other articles; or
+10\.—(1) Where the registered owner of a design registered in respect of an article or a non‑physical product files —
 
-(b) an application for registration of a design consisting of the registered design with modifications or variations not sufficient to alter the character or substantially to affect the identity of the registered design, in respect of the same or one or more other articles,
+(a) an application for registration of the registered design in respect of one or more other articles or non‑physical products; or
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(b) an application for registration of a design consisting of the registered design with modifications or variations not sufficient to alter the character or substantially to affect the identity of the registered design, in respect of the same or one or more other articles or non‑physical products,
+
+[Act 29 of 2017 wef 30/10/2017]
 
 the application shall not be refused, and the registration made on the application shall not be revoked, by reason only of the previous registration or publication of the registered design.
 
+[Act 29 of 2017 wef 30/10/2017]
+
 (2) The right in a design registered by virtue of subsection (1) shall not extend beyond the end of the period, and any extended period, for which the right subsists in the original design.
 
-(3) Where a person files an application for registration of a design in respect of an article and either —
+(3) Where a person files an application for registration of a design in respect of an article or a non‑physical product and either —
 
-(a) the design has been previously registered by another person in respect of some other article; or
+(a) the design has been previously registered by another person in respect of some other article or non‑physical product; or
 
-(b) the design to which the application relates is a design previously registered by another person in respect of the same or some other article with modifications or variations not sufficient to alter the character or substantially to affect the identity of the registered design,
+[Act 29 of 2017 wef 30/10/2017]
+
+(b) the design to which the application relates is a design previously registered by another person in respect of the same or some other article or non‑physical product with modifications or variations not sufficient to alter the character or substantially to affect the identity of the registered design,
+
+[Act 29 of 2017 wef 30/10/2017]
 
 then, if at any time while the application is pending, the applicant becomes the registered owner of the design previously registered, subsection (1) shall apply as if, at the time of filing the application, the applicant had been the registered owner of that design.
 
 [UK Designs 1949, s. 4]
+
+[Act 29 of 2017 wef 30/10/2017]
+
+[Act 29 of 2017 wef 30/10/2017]
 
 Division 3 —
 
@@ -464,7 +616,7 @@ Proceedings for Registration
 
 [Act 16 of 2012 wef 13/11/2014]
 
-(3) The date on which the application is filed shall be the earliest date on which —
+(3) Except as otherwise provided in section 16A, the date on which the application is filed shall be the earliest date on which —
 
 (a) the fee payable under subsection (1) has been paid or is treated by the Registrar as paid; and
 
@@ -472,19 +624,41 @@ Proceedings for Registration
 
 [Act 16 of 2012 wef 13/11/2014]
 
+[Act 29 of 2017 wef 30/10/2017]
+
+(4) An application may be filed under subsection (1) for the registration of 2 or more designs, if —
+
+(a) the articles, non‑physical products, or sets of articles and non‑physical products, to which any of those designs is intended to be applied, as specified in the application, fall within the same class, or (if they fall within more than one class) all of the same classes, under the classification mentioned in section 75(1)(c), as the articles, non‑physical products, or sets of articles and non‑physical products, to which each of the other designs is intended to be applied, as specified in the application; and
+
+(b) the application complies with such other requirements as may be prescribed.
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(5) Every application filed under subsection (1) for the registration of 2 or more designs is to be treated as if a separate application had been filed under that subsection for the registration of each of those designs.
+
+[Act 29 of 2017 wef 30/10/2017]
+
 ### Claim to priority of Convention application
 
 12\.—(1) Subject to subsection (7), where —
 
-(a) a person has filed an application for the registration of a design in a Convention country in respect of certain articles;
+(a) a person has filed an application for the registration of a design in a Convention country in respect of certain articles or non‑physical products;
 
-(b) that application is the first application for the registration of the design to be filed in any Convention country in respect of those articles (referred to in this section as the first Convention application); and
+[Act 29 of 2017 wef 30/10/2017]
 
-(c) within 6 months after the date on which the first Convention application is filed, that person or his successor in title applies under this Act for the registration of the design in respect of all or any of those articles,
+(b) that application is the first application for the registration of the design to be filed in any Convention country in respect of those articles or non‑physical products (referred to in this section as the first Convention application); and
 
-that person or his successor in title may, when filing the application under this Act, claim a right of priority for the registration of the design in respect of all or any of the articles for which registration was sought in the first Convention application.
+[Act 29 of 2017 wef 30/10/2017]
+
+(c) within 6 months after the date on which the first Convention application is filed, that person or his successor in title applies under this Act for the registration of the design in respect of all or any of those articles or non‑physical products,
+
+[Act 29 of 2017 wef 30/10/2017]
+
+that person or his successor in title may, when filing the application under this Act, claim a right of priority for the registration of the design in respect of all or any of the articles or non‑physical products for which registration was sought in the first Convention application.
 
 [44/2004]
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) Where any person claims a right of priority in accordance with subsection (1) in respect of an application for the registration of a design —
 
@@ -542,7 +716,9 @@ that person or his successor in title may, when filing the application under thi
 
 ### Claim to priority of other overseas applications
 
-13\.—(1) The Minister may by order confer on a person who has filed an application for registration of a design in a country or territory to which the Government has entered into a treaty, convention, arrangement or engagement for the reciprocal protection of registered designs, a right to priority, for the purpose of registering the same design under this Act for some or all of the same articles, for a specified period from the date of filing of that application.
+13\.—(1) The Minister may by order confer on a person who has filed an application for registration of a design in a country or territory to which the Government has entered into a treaty, convention, arrangement or engagement for the reciprocal protection of registered designs, a right to priority, for the purpose of registering the same design under this Act for some or all of the same articles or non‑physical products, for a specified period from the date of filing of that application.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) An order under this section may make provision corresponding to that set out in section 12 or such other provision as appears to the Minister to be appropriate.
 
@@ -561,6 +737,14 @@ that person or his successor in title may, when filing the application under thi
 15\.—(1) The Registrar may, on his own initiative or upon request made to him in the prescribed manner by the applicant and payment of the prescribed fee, amend an application for registration of a design.
 
 (2) An application for registration of a design shall not be amended if, as a result of the amendment, the scope of the application would be increased by the inclusion of matter that was not in substance disclosed in the application as filed.
+
+(2A) The class or classes (under the classification mentioned in section 75(1)(c)) of articles, non‑physical products, or sets of articles and non‑physical products, to which a design is intended to be applied, as specified in an application for registration of the design, must not be amended if —
+
+(a) the application is derived under section 11(5) from an application filed under section 11(1) for the registration of 2 or more designs; and
+
+(b) the amendment would result in the articles, non‑physical products, or sets of articles and non‑physical products, to which any of those designs is intended to be applied, and the articles, non‑physical products, or sets of articles and non‑physical products, to which another of those designs is intended to be applied, falling within different classes.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (3) The Registrar shall not be obliged to correct on his own initiative any error not due to the default of the Registrar.
 
@@ -586,9 +770,33 @@ reinstate the application.
 
 (4) Upon reinstatement of an application, any right or means of redress lost by the applicant as a result of the withdrawal shall be restored to him.
 
-(5) In this section and sections 17 and 18, "formal requirements" means those requirements of section 11, and of rules made for the purposes of that section, that are prescribed as formal requirements.
+(5) [Deleted by Act 29 of 2017 wef 30/10/2017]
 
-[HK Designs, s. 24]
+### New application treated as filed on date of filing of earlier application
+
+16A\.—(1) Where, on examining an application for registration of a design (called in this section the earlier application) under section 16(1), the Registrar determines that the earlier application fails to comply with either or both of the formal requirements of section 11(2)(c) and (4)(a) (where applicable), the Registrar may, when notifying the applicant of the non‑compliance under section 16(2), invite the applicant to correct the non‑compliance by filing one or more new applications under section 11.
+
+(2) A new application must not be filed under subsection (1) if —
+
+(a) a notice of withdrawal has been filed under section 14 in relation to the earlier application;
+
+(b) the earlier application has been treated as withdrawn under section 16(3);
+
+(c) the earlier application has been refused under section 17; or
+
+(d) the earlier application has been registered under section 18.
+
+(3) The Registrar must refuse any new application filed in contravention of subsection (2).
+
+(4) Each new application filed under subsection (1) is to be treated as filed on the date of filing of the earlier application, if all of the following requirements are satisfied:
+
+(a) the new application complies with the requirements of section 11;
+
+(b) the new application is made by the applicant, or the successor in title of the applicant, for the earlier application;
+
+(c) the new application does not include any matter that was not in substance disclosed in the earlier application.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 ### Refusal of application
 
@@ -778,7 +986,9 @@ Surrender and Revocation of Registration
 
 ### Surrender of registration
 
-26\.—(1) The registration of a design may be surrendered by the registered owner in respect of all or any of the articles for which the design is registered.
+26\.—(1) The registration of a design may be surrendered by the registered owner in respect of all or any of the articles or non‑physical products for which the design is registered.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) The Minister may make rules —
 
@@ -900,17 +1110,21 @@ Rights of Registered Owner of Registered Design
 
 ### Rights conferred by registration
 
-30\.—(1) The registration of a design under this Act gives to the registered owner the exclusive right —
+30\.—(1) The registration of a design under this Act gives to the registered owner the following exclusive rights:
 
-(a) to make in Singapore or import into Singapore —
+(a) to make in Singapore, or import into Singapore, for sale or hire, or for use for the purpose of trade or business —
 
-(i) for sale or hire; or
+(i) any article in respect of which the design is registered and to which that design, or a design not substantially different from that design, has been applied; or
 
-(ii) for use for the purpose of trade or business; or
+(ii) any device for projecting a non‑physical product (being a non‑physical product in respect of which the design is registered and to which that design, or a design not substantially different from that design, has been applied);
 
-(b) to sell, hire, or offer or expose for sale or hire, in Singapore,
+(b) to sell, hire, or offer or expose for sale or hire, in Singapore —
 
-any article in respect of which the design is registered and to which that design or a design not substantially different from it has been applied.
+(i) any article or non‑physical product in respect of which the design is registered and to which that design, or a design not substantially different from that design, has been applied; or
+
+(ii) any device for projecting a non‑physical product mentioned in sub‑paragraph (i).
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) For the purposes of this Act, the right in a registered design is infringed by any person who, without the consent of the registered owner and while the registration is in force —
 
@@ -936,11 +1150,21 @@ any article in respect of which the design is registered and to which that desig
 
 (b) the doing of any act for the purpose of evaluation, analysis, research or teaching.
 
-(6) The right in a registered design is not infringed by the reproduction of a feature of the design which, by virtue of paragraph (b) of the definition of “design” in section 2(1), is left out of account in determining whether the design is registrable.
+(6) The right in a registered design is not infringed by the reproduction of a feature of the design which, by virtue of paragraph (b) or (c) of the definition of “design” in section 2(1), is left out of account in determining whether the design is registrable.
 
-(7) The right in a registered design is not infringed by the import, sale, hire, or offer or exposure for sale or hire of any article to which the design has been applied, and which has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner.
+[Act 29 of 2017 wef 30/10/2017]
 
-[UK Designs 1949, s. 7; HK Designs, s. 31]
+(7) The right in a registered design is not infringed by —
+
+(a) the import, sale, hire, or offer or exposure for sale or hire of —
+
+(i) any article to which the design has been applied, if the article has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner; or
+
+(ii) any device for projecting a non‑physical product (being a non‑physical product to which the design has been applied), if the device has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner; or
+
+(b) the sale, hire, or offer or exposure for sale or hire of any non‑physical product to which the design has been applied, if the non‑physical product has been placed on the market, whether in Singapore or elsewhere, by or with the consent (conditional or otherwise) of the registered owner.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 ### Rights of third parties to continue use of registered designs
 
@@ -960,9 +1184,9 @@ has the right to continue to do the act or, as the case may be, to do the act.
 
 (3) The right conferred by subsection (2) shall not include a right to grant a licence to any person to do an act referred to in subsection (1).
 
-(4) Where an article is disposed of to another person in exercise of a right conferred by subsection (1), that other person and any person claiming through him may deal with the article in the same way as if it had been disposed of by the owner of the design concerned.
+(4) Where an article, a non‑physical product, or a device for projecting a non‑physical product, is disposed of to another person in exercise of a right conferred by subsection (1), that other person, and any person claiming through that other person, may deal with the article, non‑physical product or device in the same way as if the article, non‑physical product or device had been disposed of by the owner of the design concerned.
 
-[HK Designs, s. 35]
+[Act 29 of 2017 wef 30/10/2017]
 
 Division 2 —
 
@@ -1109,23 +1333,39 @@ Infringement Proceedings
 
 39\.—(1) In infringement proceedings, the Court shall not award damages, nor make an order for an account of profits, against a defendant who proves that at the date of the infringement he was not aware, and had no reasonable grounds for believing, that the design in question was registered.
 
-(2) For the purposes of subsection (1), a person shall not be taken to have been aware, or to have had reasonable grounds for believing, that the design was registered by reason only of the application to an article, or to any printed matter accompanying an article, of the word “registered”, or any word or words or abbreviation expressing or implying that the design has been registered, unless the registration number of the design accompanied the word or words or abbreviation.
+(2) For the purposes of subsection (1), a person shall not be taken to have been aware, or to have had reasonable grounds for believing, that the design was registered by reason only of the application to an article, a non‑physical product, or a device for projecting a non‑physical product, or to any printed matter accompanying an article, a non‑physical product, or a device for projecting a non‑physical product, of the word “registered”, or any word or words or abbreviation expressing or implying that the design has been registered, unless the registration number of the design accompanied the word or words or abbreviation.
 
 [HK Designs, s. 51]
+
+[Act 29 of 2017 wef 30/10/2017]
+
+[Act 29 of 2017 wef 30/10/2017]
 
 ### Order for delivery up
 
 40\.—(1) Where the defendant to proceedings for infringement of a registered design has in his possession —
 
-(a) any infringing article in relation to that design; or
+(a) any infringing article in relation to that design;
 
-(b) anything predominantly used for the making of infringing articles, which the defendant knows or has reason to believe has been or is to be used to make infringing articles,
+[Act 29 of 2017 wef 30/10/2017]
 
-the Court may, in addition to any relief granted under section 36, order the article or thing to be delivered to the plaintiff.
+(b) anything predominantly used for the making of infringing articles, which the defendant knows or has reason to believe has been or is to be used to make infringing articles; or
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(c) any infringing device in relation to that design,
+
+[Act 29 of 2017 wef 30/10/2017]
+
+the Court may, in addition to any relief granted under section 36, order the article, thing or infringing device to be delivered to the plaintiff.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) No order shall be made under this section unless the Court also makes, or it appears to the Court that there are grounds for making, an order under section 41.
 
-(3) A person to whom any article or thing is delivered up in pursuance of an order made under this section shall, if an order under section 41 is not made, retain them pending the making of an order, or the decision not to make an order, under that section.
+(3) A person to whom any article, thing or infringing device is delivered up in pursuance of an order made under this section shall, if an order under section 41 is not made, retain them pending the making of an order, or the decision not to make an order, under that section.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (4) In this section and section 41, an article is an “infringing article” in relation to a registered design if the design or a design not substantially different from it has been applied to the article and —
 
@@ -1137,35 +1377,63 @@ the Court may, in addition to any relief granted under section 36, order the art
 
 [Trade Marks 1999 Ed., s. 33]
 
+(5) In this section and section 41, an infringing device in relation to a registered design is a device for projecting a non‑physical product where —
+
+(a) the design, or a design not substantially different from that design, has been applied to the non‑physical product; and
+
+(b) either or both of the following apply:
+
+(i) the device is made in Singapore or imported into Singapore in such a way as to infringe the design;
+
+(ii) the device is sold, let for hire, or offered or exposed for sale or hire in Singapore in such a way as to infringe the design.
+
+[Act 29 of 2017 wef 30/10/2017]
+
 ### Order for disposal
 
-41\.—(1) Where any infringing article or thing has been delivered up in pursuance of an order made under section 40, an application may be made to the Court —
+41\.—(1) Where any infringing article or thing, or any infringing device, has been delivered up in pursuance of an order made under section 40, an application may be made to the Court —
 
 (a) for an order that it be destroyed or forfeited to such person as the Court thinks fit; or
 
 (b) for a decision that no such order should be made.
 
+[Act 29 of 2017 wef 30/10/2017]
+
 (2) In deciding what order, if any, should be made, the Court shall have regard to —
 
 (a) whether other remedies available in proceedings for infringement would be adequate to compensate the plaintiff and protect his interest; and
 
-(b) the need to ensure that no infringing article or thing is disposed of in a manner that would adversely affect the plaintiff.
+(b) the need to ensure that no infringing article or thing, and no infringing device, is disposed of in a manner that would adversely affect the plaintiff.
 
-(3) The Court shall issue directions as to service of notice on persons having an interest in the article or thing.
+[Act 29 of 2017 wef 30/10/2017]
 
-(4) Any person having an interest in the article or thing is entitled —
+(3) The Court shall issue directions as to service of notice on persons having an interest in the article, thing or infringing device.
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(4) Any person having an interest in the article, thing or infringing device is entitled —
 
 (a) to appear in proceedings for an order under this section, whether or not that person is served with notice; and
 
 (b) to appeal against any order made, whether or not that person appears in the proceedings.
 
+[Act 29 of 2017 wef 30/10/2017]
+
 (5) An order made under this section shall not take effect until the end of the period within which notice of an appeal may be given or, if before the end of that period notice of appeal is duly given, until the final determination or abandonment of the proceedings on appeal.
 
-(6) Where there is more than one person interested in the article or thing, the Court may direct that the article or thing be sold, or otherwise dealt with, and the proceeds divided, and shall make any other order as the Court thinks just.
+(6) Where there is more than one person interested in the article, thing or infringing device, the Court may —
 
-(7) If the Court decides that no order should be made under this section, the person in whose possession the article or thing was before being delivered up is entitled to its return.
+(a) direct that the article, thing or infringing device be sold, or otherwise dealt with, and the proceeds divided; and
+
+(b) make any other order as the Court thinks just.
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(7) If the Court decides that no order should be made under this section, the person in whose possession the article, thing or infringing device was before being delivered up is entitled to its return.
 
 [Trade Marks 1999 Ed., s. 34]
+
+[Act 29 of 2017 wef 30/10/2017]
 
 ### Declaration as to non-infringement
 
@@ -1237,21 +1505,29 @@ GOVERNMENT USE OF REGISTERED DESIGNS
 
 (3) Without prejudice to the generality of subsection (1), any use of the design for —
 
-(a) the supply to the government of any country or territory outside Singapore, in pursuance of any agreement or arrangement between the Government and the government of that country, of articles required —
+(a) the supply to the government of any country or territory outside Singapore, in pursuance of any agreement or arrangement between the Government and the government of that country, of articles, non‑physical products, or devices for projecting non‑physical products, required —
 
 (i) for the defence of that country; or
 
 (ii) for the defence of any other country whose government is party to any agreement or arrangement with the Government in respect of defence matters; or
 
-(b) the supply to the United Nations, or to the government of any country belonging to that organisation, of articles required for any armed forces operating in pursuance of a resolution of that organisation or any organ of that organisation,
+[Act 29 of 2017 wef 30/10/2017]
+
+(b) the supply to the United Nations, or to the government of any country belonging to that organisation, of articles, non‑physical products, or devices for projecting non‑physical products, required for any armed forces operating in pursuance of a resolution of that organisation or any organ of that organisation,
+
+[Act 29 of 2017 wef 30/10/2017]
 
 shall be deemed to be a use of the design for the services of the Government; and the power of the Government or a person authorised by the Government to use the design shall include power —
 
-(A) to sell the articles to the government or to that organisation in pursuance of the agreement or arrangement; and
+(A) to sell the articles, non‑physical products, or devices for projecting non‑physical products, to the government or to that organisation in pursuance of the agreement or arrangement; and
 
-(B) to sell to any person any articles made in the exercise of the powers conferred by this section which are no longer required for the purpose for which they were made.
+[Act 29 of 2017 wef 30/10/2017]
 
-(4) Without prejudice to the generality of subsection (1), any use of a design to make an article, or any use of an article, for any purpose which appears to the Government necessary or expedient —
+(B) to sell to any person any articles, non‑physical products, or devices for projecting non‑physical products, originally intended for the services of the Government which are no longer required for the purpose for which they were made.
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(4) Without prejudice to the generality of subsection (1), any use of a design for any purpose which appears to the Government necessary or expedient —
 
 (a) to avoid prejudice to the security or defence of Singapore;
 
@@ -1261,7 +1537,11 @@ shall be deemed to be a use of the design for the services of the Government; an
 
 shall be deemed to be a use of the design for the services of the Government.
 
-(5) The purchaser of any articles sold in the exercise of powers conferred by subsection (1), and any person claiming through him, shall have the power to deal with the articles as if the rights in the registered design were held on behalf of the Government.
+[Act 29 of 2017 wef 30/10/2017]
+
+(5) The purchaser of any articles, non‑physical products, or devices for projecting non‑physical products, sold in the exercise of powers conferred by subsection (1), and any person claiming through him, shall have the power to deal with the articles, non‑physical products, or devices for projecting non‑physical products, as if the rights in the registered design were held on behalf of the Government.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (6) Notwithstanding any provision in any other written law, the reproduction or publication of any model or document in connection with any use of a design made by virtue of subsection (1) shall be deemed not to constitute an infringement of any copyright subsisting in the document by virtue of the Copyright Act (Cap. 63) or any right subsisting in a layout-design by virtue of the Layout-Designs of Integrated Circuits Act (Cap. 159A).
 
@@ -1485,7 +1765,9 @@ Powers of Registrar
 
 (b) receive evidence on oath, whether orally or otherwise; and
 
-(c) require the production of documents or articles.
+(c) require the production of documents, articles or devices for projecting non‑physical products.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 [Patents 1995 Ed., s. 8]
 
@@ -1493,7 +1775,9 @@ Powers of Registrar
 
 59\.—(1) A person who has been summoned to appear as a witness before the Registrar shall not, without lawful excuse, fail to appear in obedience to the summons.
 
-(2) A person who has been required by the Registrar to produce a document or an article shall not, without lawful excuse, fail to produce the document or article.
+(2) A person who has been required by the Registrar to produce a document, an article or a device for projecting a non‑physical product must not, without lawful excuse, fail to produce the document, article or device.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
@@ -1501,7 +1785,9 @@ Powers of Registrar
 
 ### Refusal to give evidence an offence
 
-60\.—(1) A person who appears before the Registrar shall not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce documents or articles, or to answer questions, which he is required by the Registrar to produce or answer.
+60\.—(1) A person who appears before the Registrar shall not, without lawful excuse, refuse to be sworn or to make an affirmation, or to produce documents, articles or devices for projecting non‑physical products, or to answer questions, which he is required by the Registrar to produce or answer.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
@@ -1639,13 +1925,31 @@ knowing or having reason to believe the entry or thing, as the case may be, is f
 
 ### False representation that design is registered
 
-66\.—(1) Any person who falsely represents that a design applied to any article disposed of by him for value is registered in respect of that article shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+66\.—(1) Any person who falsely represents that a design applied to any article or non‑physical product disposed of by him for value is registered in respect of that article or non‑physical product shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) For the purposes of subsection (1), a person shall be deemed to represent that a design applied to any article is registered in respect of that article, if there is stamped, engraved, or impressed on or otherwise applied to the article the word “registered” or anything expressing or implying that the design applied to the article has been registered in respect of that article.
+[Act 29 of 2017 wef 30/10/2017]
 
-(3) Any person who, after the right in a registered design has expired, marks any article to which the design has been applied with the word “registered”, or anything implying that there is a subsisting right in the design under this Act, or causes any such article to be so marked, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) For the purposes of subsection (1) —
 
-[HK Designs, s. 86]
+(a) a person is deemed to represent that a design applied to any article is registered in respect of that article, if there is stamped, engraved or impressed on or otherwise applied to the article anything expressing or implying that the design applied to the article has been registered in respect of that article; and
+
+(b) a person is deemed to represent that a design applied to any non‑physical product is registered in respect of that non‑physical product, if —
+
+(i) there is applied to the non‑physical product anything expressing or implying that the design applied to the non‑physical product has been registered in respect of that non‑physical product; or
+
+(ii) there is stamped, engraved or impressed on or otherwise applied to a device for projecting the non‑physical product anything expressing or implying that the design applied to the non‑physical product has been registered in respect of that non‑physical product.
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(3) A person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both, if the person, after the right in a registered design has expired —
+
+(a) marks any article to which the design has been applied with anything implying that there is a subsisting right in the design under this Act, or causes any such article to be so marked;
+
+(b) applies, or causes to be applied, to a non‑physical product to which the design has been applied, anything implying that there is a subsisting right in the design under this Act; or
+
+(c) marks any device for projecting a non‑physical product (being a non‑physical product to which the design has been applied) with anything implying that there is a subsisting right in the design under this Act, or causes any such device to be so marked.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 ### Offences by partnership or body corporate
 
@@ -1795,9 +2099,13 @@ MISCELLANEOUS AND GENERAL PROVISIONS
 
 (b) a statement describing the features of the design which the applicant considers to be new;
 
-(c) the classification of the articles to which the design is intended to be applied, according to any class or sub-class specified by the rules; and
+(c) the classification of the articles, non‑physical products, or sets of articles and non‑physical products, to which the design is intended to be applied; and
 
-(d) a sample of the article to which the design reproduced in the representation is to be applied.
+[Act 29 of 2017 wef 30/10/2017]
+
+(d) if the design reproduced in the representation is to be applied to an article, a sample of the article.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) Rules made under this section may provide for the manner in which the following are to be claimed in connection with an application for registration:
 
@@ -2046,6 +2354,10 @@ This Legislative History is provided for the convenience of users of the Registe
 |||(Bill No. 14/2012 published on 14 May 2012)|
 ||Date of Second and Third Readings|10 July 2012|
 ||Date of commencement|13 November 2014|
+|12.|**Act 29 of 2017—Registered Designs (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 23/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|30 October 2017|
 ## COMPARATIVE TABLE
 
 Registered Designs Act
