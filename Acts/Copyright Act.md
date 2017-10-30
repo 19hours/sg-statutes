@@ -1150,6 +1150,10 @@ that has as its principal function, or one of its principal functions, the provi
 
 “minimum royalty”, in relation to a record, means the amounts applicable in respect of the record under sections 57(3) and 58(b)(i) or, if those provisions are affected by regulations made for the purposes of section 59, under those provisions as so affected;
 
+“non‑physical product” has the same meaning as in section 2(1) of the Registered Designs Act (Cap. 266);
+
+[Act 29 of 2017 wef 30/10/2017]
+
 “non-profit organisation” means an organisation or association or persons, whether corporate or unincorporate, that is not operated or conducted for profit;
 
 “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act (Cap. 140);
@@ -3155,9 +3159,9 @@ if the object would not appear to persons who are not experts in relation to obj
 
 ### Special exception for artistic works which have been industrially applied
 
-70\.—(1) Notwithstanding section 69, the making of any useful article in 3 dimensions (including a reproduction in 2 dimensions reasonably required for the making of the article) does not infringe the copyright in an artistic work if, when the useful article or reproduction is made, the artistic work has been industrially applied in Singapore or in any other country at any time before the useful article or reproduction is made.
+70\.—(1) Despite section 69, the making of any useful article in 3 dimensions (including a reproduction in 2 dimensions reasonably required for the making of the article), or of any non‑physical product, does not infringe the copyright in an artistic work if, when the useful article, reproduction or non‑physical product is made, the artistic work has been applied industrially in Singapore or in any other country at any time before the useful article, reproduction or non‑physical product is made.
 
-[25/2000]
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) For the purposes of subsection (1), an artistic work is applied industrially if —
 
@@ -3199,67 +3203,95 @@ Designs
 
 ### Interpretation of this Division
 
-73\.—(1) In this Division “corresponding design”, in relation to an artistic work, means a design which, when applied to an article, results in a reproduction of that work.
+73\.—(1) In this Division “corresponding design”, in relation to an artistic work, means a design which, when applied to an article or a non‑physical product, results in a reproduction of that work.
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (2) In this Division —
 
 (a) references to the scope of the copyright in a registered design are references to the aggregate of the things, which, by virtue of the provisions of the Registered Designs Act (Cap. 266), the registered owner of the design has the exclusive right to do; and
 
-(b) references to the scope of the copyright in a registered design as extended to all associated designs and articles are references to the aggregate of the things which, by virtue of that written law, the registered owner would have had the exclusive right to do if —
+(b) references to the scope of the copyright in a registered design as extended to all associated designs, articles and non‑physical products are references to the aggregate of the things which, by virtue of that written law, the registered owner would have had the exclusive right to do if —
 
 (i) when that design was registered, there had at the same time been registered every possible design consisting of that design with modifications or variations not sufficient to alter the character or substantially to affect the identity thereof, and that owner had been registered as the owner of every such design; and
 
-(ii) the design in question, and every other design such as is mentioned in sub-paragraph (i), had been registered in respect of all the articles to which it was capable of being applied.
+(ii) the design in question, and every other design such as is mentioned in sub-paragraph (i), had been registered in respect of all the articles and non‑physical products to which it was capable of being applied.
 
 [25/2000]
 
 [Aust. 1968, s. 74]
 
+[Act 29 of 2017 wef 30/10/2017]
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(3) In this Division, unless the context otherwise requires, a device for projecting a non‑physical product —
+
+(a) is any device that when activated projects the non‑physical product on a surface or into a medium (including air); and
+
+(b) includes any product or component that is used in or with a device mentioned in paragraph (a) to project the non‑physical product on a surface or into a medium (including air).
+
+[Act 29 of 2017 wef 30/10/2017]
+
 ### Special exception in respect of industrial design
 
-74\.—(1) Where copyright subsists in an artistic work and a corresponding design is registered or deemed registered under the Registered Designs Act, it shall not be an infringement of the copyright in the work —
+74\.—(1) Where copyright subsists in an artistic work and a corresponding design is registered or deemed registered under the Registered Designs Act (Cap. 266), it shall not be an infringement of the copyright in the work —
 
 (a) to do anything, during the subsistence of the copyright in the registered design, which is within the scope of the copyright in the design; or
 
-(b) to do anything, after the copyright in the registered design has come to an end, which, if it had been done while the copyright in the design subsisted, would have been within the scope of that copyright as extended to all associated designs and articles.
+(b) to do anything, after the copyright in the registered design has come to an end, which, if it had been done while the copyright in the design subsisted, would have been within the scope of that copyright as extended to all associated designs, articles and non‑physical products.
 
 [25/2000]
+
+[Act 29 of 2017 wef 30/10/2017]
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (1A) Subsection (1) shall have effect subject to the provisions of the Schedule in cases falling within the Schedule.
 
-(2) Where copyright subsists in an artistic work, and —
+(2) Subsections (3), (4), (5) and (6) apply where —
 
-(a) a corresponding design is applied industrially (whether in Singapore or elsewhere) by or with the licence of the owner of the copyright in the work;
+(a) copyright subsists in an artistic work;
 
-(b) articles to which the design has been so applied are sold, let for hire, or offered for sale or hire whether in Singapore or elsewhere; and
+(b) a corresponding design is applied industrially, whether in Singapore or elsewhere, by or with the licence of the owner of the copyright in the work;
 
-(c) at the time when those articles are sold, let for hire or offered or exposed for sale or hire, they are not articles in respect of which the corresponding design has been registered or, is deemed registered under the Registered Designs Act (Cap. 266),
+(c) articles or non‑physical products to which the corresponding design has been so applied, or devices for projecting those non‑physical products, are sold, let for hire, or offered or exposed for sale or hire, whether in Singapore or elsewhere; and
 
-subsections (3), (4), (5) and (6) shall apply.
+(d) at the time when those articles, non‑physical products or devices are sold, let for hire, or offered or exposed for sale or hire, those articles or non‑physical products are not articles or non‑physical products in respect of which the corresponding design has been registered, or is deemed to be registered, under the Registered Designs Act.
 
-[14/94; 25/2000]
+[Act 29 of 2017 wef 30/10/2017]
 
 (3) Subject to subsection (5) —
 
-(a) during the relevant period of 15 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would have been within the scope of the copyright in the design if the design had, immediately before that time, been registered in respect of all relevant articles; and
+(a) during the relevant period of 15 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would have been within the scope of the copyright in the design if the design had, immediately before that time, been registered in respect of all relevant articles and non‑physical products; and
 
-(b) after the end of the relevant period of 15 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would, if the design had been registered immediately before that time, have been within the scope of the copyright in the design as extended to all associated designs and articles.
+[Act 29 of 2017 wef 30/10/2017]
 
-[6/98; 25/2000]
-
-(4) In subsection (3), “the relevant period of 15 years” means the period of 15 years beginning with the date on which articles, such as are mentioned in subsection (2)(b), were first sold, let for hire or offered for sale or hire, whether in Singapore or elsewhere.
+(b) after the end of the relevant period of 15 years, it shall not be an infringement of the copyright in the work to do anything which, at the time when it is done, would, if the design had been registered immediately before that time, have been within the scope of the copyright in the design as extended to all associated designs, articles and non‑physical products.
 
 [6/98; 25/2000]
 
-(5) For the purposes of subsections (2) and (3), no account shall be taken of any articles in respect of which, at the time when they were sold, let for hire, or offered for sale or hire, the design in question was excluded from registration under the provisions of the Registered Designs Act or the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c. 88) (as the case may be), by rules made under the applicable Act (which relates to the exclusion of designs for articles which are primarily literary or artistic in character).
+[Act 29 of 2017 wef 30/10/2017]
+
+(4) In subsection (3), “the relevant period of 15 years” means the period of 15 years beginning with the date on which articles, non‑physical products or devices for projecting those non‑physical products, such as are mentioned in subsection (2)(c), were first sold, let for hire or offered for sale or hire, whether in Singapore or elsewhere.
+
+[6/98; 25/2000]
+
+[Act 29 of 2017 wef 30/10/2017]
+
+(5) For the purposes of subsections (2) and (3), no account shall be taken of any articles, non‑physical products or devices for projecting those non‑physical products, in respect of which, at the time when they were sold, let for hire, or offered for sale or hire, the design in question was excluded from registration under the provisions of the Registered Designs Act or the Registered Designs Act 1949 of the United Kingdom (U.K. 1949, c. 88) (as the case may be), by rules made under the applicable Act (which relates to the exclusion of designs for articles or non‑physical products which are primarily literary or artistic in character).
 
 [25/2000]
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (6) For the purposes of any proceedings under this Act a design shall be conclusively presumed to have been excluded under subsection (5) if —
 
 (a) before the commencement of those proceedings —
 
-(i) an application for the registration of the design in respect of those articles under the Registered Designs Act (Cap. 266); or
+(i) an application for the registration of the design in respect of those articles or non‑physical products under the Registered Designs Act (Cap. 266); or
+
+[Act 29 of 2017 wef 30/10/2017]
 
 (ii) an application for the registration of the design in respect of those articles under the Registered Designs Act 1949 of the United Kingdom (UK 1949, c. 88), being an application made before the date of commencement of the Registered Designs Act,
 
@@ -9622,6 +9654,10 @@ This Legislative History is provided for the convenience of users of the Copyrig
 ||Date of First Reading|29 May 2014 (Bill No. 16/2014 published on 29 May 2014)|
 ||Date of Second and Third Readings|8 July 2014|
 ||Date of commencement|31 March 2015|
+|25.|**Act 29 of 2017—Registered Designs (Amendment) Act 2017**|
+||Date of First Reading|3 April 2017 (Bill No. 23/2017 published on 3 April 2017)|
+||Date of Second and Third Readings|8 May 2017|
+||Date of commencement|30 October 2017|
 ## COMPARATIVE TABLE
 
 Copyright Act
