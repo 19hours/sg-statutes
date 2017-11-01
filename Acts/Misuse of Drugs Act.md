@@ -3836,6 +3836,8 @@ Alpha-phenylacetoacetonitrile, also known as APAAN, and its optical isomers
 
 N-acetylanthranilic acid also known as N-Acetyl-o-aminobenzoic acid
 
+4-Anilino-N-phenethylpiperidine also known as ANPP
+
 Ephedrine also known as β-Hydroxy-N-methylamphetamine
 
 Ergometrine also known as Ergonovine or Ergobasine or [8β(S)]-9,10-Didehydro-N-(2-hydroxy-l-methylethyl)-6-methyl-6-methylergoline-8-carboxamide
@@ -3852,6 +3854,8 @@ Norephedrine
 
 Norpseudoephedrine
 
+N-Phenethyl-4-piperidone also known as NPP
+
 1-Phenyl-2-propanone also known as Phenylacetone
 
 Phenylacetic acid also known as Benzeneacetic acid or α-Toluic acid
@@ -3863,6 +3867,8 @@ Potassium permanganate
 Pseudoephedrine also known as β-Hydroxy-N-methylamphetamine
 
 Safrole also known as 4-Allyl-1,2-methylenedioxybenzene.
+
+[S 625/2017 wef 01/11/2017]
 
 [S 572/2014 wef 01/09/2014]
 
@@ -4019,6 +4025,54 @@ Temporarily listed drugs
 (9) Methyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (also known as 5-Fluoro-MDMB-PINACA or 5-Fluoro-ADB) and its fluoro positional isomers in the pentyl group
 
 [S 194/2017 wef 01/05/2017]
+
+(10) Methyl 2-[1-(cyclohexylmethyl)-1H-indole-3-carboxamido]-3-methylbutanoate (also known as MMB-CHMICA) and its 1-pentanoate and 2-methylbutanoate isomers
+
+[S 625/2017 wef 01/11/2017]
+
+(11) Methyl 2-[1-(4-fluorobenzyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as MMB-FUBINACA) and its 1-pentanoate and 2-methylbutanoate isomers and their respective fluoro positional isomers in the phenyl ring
+
+[S 625/2017 wef 01/11/2017]
+
+(12) N-(1-Adamantyl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (also known as FUB-APINACA or FUB-AKB48) and its fluoro positional isomers in the phenyl ring
+
+[S 625/2017 wef 01/11/2017]
+
+(13) Methyl 2-[1-(4-fluorobenzyl)-1H-indole-3-carboxamido]-3-methylbutanoate (also known as MMB-FUBICA or AMB-FUBICA) and its 1-pentanoate and 2-methylbutanoate isomers and their respective fluoro positional isomers in the phenyl ring
+
+[S 625/2017 wef 01/11/2017]
+
+(14) N-(1-Methyl-1-phenylethyl)-1-(4-cyanobutyl)-1H-indazole-3-carboxamide (also known as Cumyl-4CN-BINACA or 4-Cyano cumyl-butinaca or SGT-78) and its cyano positional isomers in the butyl group
+
+[S 625/2017 wef 01/11/2017]
+
+(15) 3-Methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-one (also known as Mexedrone) and its methyl positional isomers in the phenyl ring
+
+[S 625/2017 wef 01/11/2017]
+
+(16) 2-N-[2-(4-Bromo-2,5-dimethoxyphenylethyl)aminomethyl]phenol (also known as 25B-NBOH) and its bromo, dimethoxy and hydroxy positional isomers in the respective phenyl rings
+
+[S 625/2017 wef 01/11/2017]
+
+(17) 2-N-[2-(4-Chloro-2,5-dimethoxyphenylethyl)aminomethyl]phenol (also known as 25C-NBOH) and its chloro, dimethoxy and hydroxy positional isomers in the respective phenyl rings
+
+[S 625/2017 wef 01/11/2017]
+
+(18) 2-N-[2-(2,5-Dimethoxyphenylethyl)aminomethyl]phenol (also known as 25H-NBOH) and its dimethoxy and hydroxy positional isomers in the respective phenyl rings
+
+[S 625/2017 wef 01/11/2017]
+
+(19) 2-N-[2-(4-Iodo-2,5-dimethoxyphenylethyl)aminomethyl]phenol (also known as 25I-NBOH) and its dimethoxy, hydroxy and iodo positional isomers in the respective phenyl rings
+
+[S 625/2017 wef 01/11/2017]
+
+(20) Methyl 2-[1-(5-fluoropentyl)-1H-indole-3-carboxamido]-3, 3-dimethylbutanoate (also known as 5-Fluoro-MDMB-PICA) and its fluoro positional isomers in the pentyl group
+
+[S 625/2017 wef 01/11/2017]
+
+(21) Ethyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3, 3-dimethylbutanoate (also known as 5-Fluoro-EDMB-PINACA) and its fluoro positional isomers in the pentyl group
+
+[S 625/2017 wef 01/11/2017]
 
 ## LEGISLATIVE HISTORY
 
@@ -4200,6 +4254,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 May 2016|
 |56.|**G.N. No. S 194/2017—Misuse of Drugs Act (Amendment of First and Fifth Schedules) Order 2017**|
 ||Date of commencement|1 May 2017|
+|57.|**G.N. No. S 625/2017—Misuse of Drugs Act (Amendment of Third and Fifth Schedules) Order 2017**|
+||Date of commencement|1 November 2017|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
