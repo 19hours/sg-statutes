@@ -206,6 +206,8 @@ Date of Commencement: 1st July 2016 Parts 1, 2, 7, 8, 9, sections 56 to 63, 66, 
 
 Date of Commencement: 1st January 2017 Sections 32 and 33
 
+Date of Commencement: 1st November 2017 Sections 6 to 31, 65, 68, the Third, Fourth and Fifth Schedules
+
 An Act to regulate the conduct of human biomedical research, to further regulate certain restricted human biomedical research, to prohibit certain types of human biomedical research, to regulate tissue banks and tissue banking activities, to prohibit commercial trading of human tissue, to provide for matters connected therewith and to make related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -2043,17 +2045,9 @@ and whether any matter so prescribed has effect in addition to or despite any ot
 
 (3) Section 7(3) of the Mental Capacity Act is amended —
 
-(a) by deleting the word “or” at the end of paragraph (
+(a) by deleting the word “or” at the end of paragraph (b); and
 
-b
-
-); and
-
-(b) by deleting the full-stop at the end of paragraph (
-
-c
-
-) and substituting the word “; or”, and by inserting immediately thereafter the following paragraph:
+(b) by deleting the full-stop at the end of paragraph (c) and substituting the word “; or”, and by inserting immediately thereafter the following paragraph:
 
 “
 
@@ -2069,11 +2063,7 @@ c
 
 ”.
 
-(5) Section 22(1) of the Mental Capacity Act is amended by inserting, immediately after paragraph (
-
-d
-
-), the following paragraph:
+(5) Section 22(1) of the Mental Capacity Act is amended by inserting, immediately after paragraph (d), the following paragraph:
 
 “
 
@@ -2174,11 +2164,7 @@ Sections 2, 30(1) and 62(1) and paragraph 3 of Fourth Schedule
 
 Prohibited human biomedical research
 
-1. Human biomedical research involving the development of human-animal combination embryos referred to in paragraph 2(
-
-a
-
-)(i) or (iii) of the Fourth Schedule beyond 14 days or the appearance of the primitive streak, whichever is the earlier.
+1\. Human biomedical research involving the development of human-animal combination embryos referred to in paragraph 2(a)(i) or (iii) of the Fourth Schedule beyond 14 days or the appearance of the primitive streak, whichever is the earlier.
 
 2\. Human biomedical research involving the implantation of any human-animal combination embryo into the uterus of an animal or a human.
 
@@ -2214,29 +2200,13 @@ Restricted human biomedical research
 
 (d) the introduction of human stem cells (including induced pluripotent stem cells) or human neural cells into the brain of a living postnatal animal; or
 
-(e) any entity created as a result of any process referred to in sub‑paragraphs (
-
-b
-
-), (
-
-c
-
-) and (
-
-d
-
-).
+(e) any entity created as a result of any process referred to in sub‑paragraphs (b), (c) and (d).
 
 3\. Nothing in this Schedule is to be construed to permit any human biomedical research that is prohibited under the Third Schedule.
 
 FIFTH SCHEDULE
 
-Sections 13(1), 17(1)(
-
-f
-
-) and 62(1)
+Sections 13(1), 17(1)(f) and 62(1)
 
 Waiver of requirements for appropriate consent
 
@@ -2315,15 +2285,7 @@ APPROPRIATE CONSENT FOR emergency RESEARCH
 
 (ii) the person who is authorised to give appropriate consent on behalf of the research subject under section 6 to be informed as soon as is practicable of the subject’s participation in the research and to be given an opportunity to request that the subject be withdrawn from further participation in the research; or
 
-(h) provision is made for a medical practitioner who is registered under the Medical Registration Act (Cap. 174) as a specialist in the specialty relating to the research and who is not involved in the research as a researcher or supervisor to certify, prior to the enrolment of the research subject to the best of the specialist’s knowledge that sub‑paragraphs (
-
-a
-
-) to (
-
-e
-
-) have been complied with.
+(h) provision is made for a medical practitioner who is registered under the Medical Registration Act (Cap. 174) as a specialist in the specialty relating to the research and who is not involved in the research as a researcher or supervisor to certify, prior to the enrolment of the research subject to the best of the specialist’s knowledge that sub‑paragraphs (a) to (e) have been complied with.
 
 5\. In paragraph 4, “emergency research” means human biomedical research where life‑threatening emergency situations may arise such that appropriate consent may not be obtained before the research subject is subjected to any intervention or after any individually‑identifiable biological material is obtained from his or her body, or any of his or her individually‑identifiable health information is used.
 
