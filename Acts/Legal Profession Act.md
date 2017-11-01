@@ -122,6 +122,8 @@
 
 - [35A Order to repay upon conviction under section 33](#Order-to-repay-upon-conviction-under-section-33)
 
+- [35B Sections 32 and 33 not to extend to mediation](#Sections-32-and-33-not-to-extend-to-mediation)
+
 - [36 No costs recoverable by unauthorised person](#No-costs-recoverable-by-unauthorised-person)
 
 [**Part IVA REGISTRATION OF FOREIGN LAWYERS, SOLICITORS IN FOREIGN LAW PRACTICES AND NON-PRACTITIONERS, ETC.**](#Part-IVA)
@@ -2421,6 +2423,44 @@ shall, unless he proves that the act was not done for or in expectation of any f
 (6) In this section, “fee, gain or reward” does not include disbursements.
 
 [20/2007]
+
+### Sections 32 and 33 not to extend to mediation
+
+35B\.—(1) Sections 32 and 33 do not extend to —
+
+(a) any certified mediator conducting any mediation;
+
+(b) any mediator conducting any mediation which is administered by a designated mediation service provider;
+
+(c) any foreign lawyer representing any party in any mediation that —
+
+(i) is conducted by a certified mediator or administered by a designated mediation service provider; and
+
+(ii) relates to a dispute involving a cross-border agreement where Singapore is the venue for the mediation; or
+
+(d) any foreign lawyer registered under section 36P and representing any party in any mediation that relates to a dispute in respect of which an action has commenced in the Singapore International Commercial Court.
+
+(2) In this section —
+
+“certified mediator”, “designated mediation service provider”, “mediation” and “mediator” have the same meanings as in the Mediation Act 2017;
+
+“cross-border agreement” means an agreement in respect of which any one or more of the following circumstances exist:
+
+(a) at least one party to the agreement is incorporated, resident or has its place of business outside Singapore;
+
+(b) the subject matter of the agreement —
+
+(i) is most closely connected to a place located outside Singapore; or
+
+(ii) has no physical connection to Singapore;
+
+(c) the obligations under the agreement are to be performed entirely outside Singapore.
+
+(3) This section applies in relation to any mediation conducted on or after the date of commencement of the Mediation Act 2017, whether the mediation commences before, on or after that date.
+
+(4) For the purposes of subsection (3), a mediation to resolve the whole or part of a dispute commences on the day on which all the parties agree to refer any part of that dispute for mediation.
+
+[Act 1 of 2017 wef 01/11/2017]
 
 ### No costs recoverable by unauthorised person
 
@@ -9075,6 +9115,10 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of First Reading|3 April 2017 (Bill No. 24/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|11 July 2017|
+|63.|**Act 1 of 2017—Mediation Act 2017**|
+||Date of First Reading|7 November 2016 (Bill No. 37/2016 published on 7 November 2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|1 November 2017|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
