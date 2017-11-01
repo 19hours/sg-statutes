@@ -606,7 +606,7 @@ Original Jurisdiction
 
 ### Civil jurisdiction — specific
 
-17\. Without prejudice to the generality of section 16, the civil jurisdiction of the High Court shall include —
+17\.—(1) Without prejudice to the generality of section 16, the civil jurisdiction of the High Court shall include —
 
 (a) jurisdiction under any written law relating to divorce and matrimonial causes;
 
@@ -616,11 +616,23 @@ Original Jurisdiction
 
 (d) jurisdiction to appoint and control guardians of infants and generally over the persons and property of infants;
 
-(e) jurisdiction to appoint and control guardians and keepers of the persons and estates of idiots, mentally disordered persons and persons of unsound mind; and
+(e) jurisdiction to appoint and control guardians and keepers of the persons and estates of idiots, mentally disordered persons and persons of unsound mind;
 
-(f) jurisdiction to grant probates of wills and testaments, letters of administration of the estates of deceased persons and to alter or revoke such grants.
+[Act 1 of 2017 wef 01/11/2017]
 
-[16/93]
+(f) jurisdiction to grant probates of wills and testaments, letters of administration of the estates of deceased persons and to alter or revoke such grants; and
+
+[Act 1 of 2017 wef 01/11/2017]
+
+(g) jurisdiction under the Mediation Act 2017 to record a mediated settlement agreement made in a mediation, in relation to a dispute for which no proceedings have been commenced in a court, as an order of court.
+
+[Act 1 of 2017 wef 01/11/2017]
+
+[Act 1 of 2017 wef 01/11/2017]
+
+(2) In this section, “mediated settlement agreement” and “mediation” have the same meanings as in the Mediation Act 2017.
+
+[Act 1 of 2017 wef 01/11/2017]
 
 ### Civil jurisdiction — concurrent jurisdiction with Syariah Court in certain matters
 
@@ -968,9 +980,11 @@ Allocation of Proceedings
 
 (i) any proceedings specified in the order which, but for the order, the District Court would not have jurisdiction to hear and determine by reason only of the fact that the amount involved exceeds the monetary limit of its jurisdiction; or
 
-(ii) any proceedings relating to any of the matters referred to in section 17(b) or (c);
+(ii) any proceedings relating to any of the matters referred to in section 17(1)(b) or (c);
 
 [Act 27 of 2014 wef 01/10/2014]
+
+[Act 1 of 2017 wef 01/11/2017]
 
 (aa) may confer jurisdiction on a Family Court to hear and determine any proceedings specified in the order which, but for the order, the Family Court would not have jurisdiction to hear and determine;
 
@@ -2248,6 +2262,10 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|15 August 2016|
 ||Date of commencement|1 October 2017|
+|36.|**Act 1 of 2017—Mediation Act 2017**|
+||Date of First Reading|7 November 2016 (Bill No. 37/2016 published on 7 November 2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|1 November 2017|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
