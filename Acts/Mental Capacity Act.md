@@ -160,6 +160,10 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
+“appropriate consent” has the same meaning as in the Human Biomedical Research Act 2015;
+
+[Act 29 of 2015 wef 01/11/2017]
+
 “clinical trial” means a clinical trial within the meaning of the Medicines Act (Cap. 176) or the Health Products Act (Cap. 122D);
 
 “court” means the High Court or a Family Court;
@@ -276,6 +280,14 @@ is exercisable in relation to a person below 21 years of age.
 
 (5) Where the determination relates to life-sustaining treatment, he must not, in considering whether the treatment is in the best interests of the person concerned, be motivated by a desire to bring about his death.
 
+(5A) Where the determination relates to the giving, refusal or revocation of —
+
+(a) appropriate consent of the person concerned under the Human Biomedical Research Act 2015, the person must take into account such matters, considerations and procedures as may be prescribed under Part 3 of that Act; or
+
+(b) consent of the person concerned under any written law relating to a clinical trial, the person must take into account such matters, considerations and procedures as may be prescribed in such written law.
+
+[Act 29 of 2015 wef 01/11/2017]
+
 (6) Where the determination relates to the disposition or settlement of the person’s property, he must be motivated by a desire to ensure, so far as is reasonably practicable, that the person’s property is preserved for application towards the costs of the person’s maintenance during his life.
 
 (7) He must consider, so far as is reasonably ascertainable —
@@ -340,9 +352,17 @@ ACTS IN CONNECTION WITH CARE OR TREATMENT
 
 (a) excludes a person’s civil liability for loss or damage, or his criminal liability, resulting from his negligence in doing the act;
 
-(b) affects the operation of the Advance Medical Directive Act (Cap. 4A); or
+(b) affects the operation of the Advance Medical Directive Act (Cap. 4A);
 
-(c) applies to the conduct of a clinical trial.
+[Act 29 of 2015 wef 01/11/2017]
+
+(c) applies to the conduct of a clinical trial; or
+
+[Act 29 of 2015 wef 01/11/2017]
+
+(d) applies to the conduct of human biomedical research within the meaning of the Human Biomedical Research Act 2015 or the removal or use of human tissue under that Act.
+
+[Act 29 of 2015 wef 01/11/2017]
 
 [UK MCA 2005, s. 5]
 
@@ -505,6 +525,10 @@ or if he authorises another person to do any of those things.
 (6) Subject to subsection (8), where a lasting power of attorney authorises the donee (or, if more than one, any of them) to make decisions about P’s personal welfare, the authority extends to giving or refusing consent to the carrying out or continuation of a treatment by a person providing health care for P if, and only if, the instrument contains express provision to that effect.
 
 (7) For the purposes of subsection (6), treatment, in relation to P, includes the conduct of a clinical trial on P.
+
+(7A) Where a lasting power of attorney authorises the donee (or, if more than one, any of them) to make decisions about P’s personal welfare, the authority extends to giving, refusing or revoking appropriate consent involving P under the Human Biomedical Research Act 2015 if, and only if, the instrument contains express provision to that effect.
+
+[Act 29 of 2015 wef 01/11/2017]
 
 (8) Notwithstanding anything in the lasting power of attorney, a donee authorised to make decisions about P’s personal welfare may not make any decision with respect to the carrying out or continuation of —
 
@@ -766,6 +790,10 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (d) subject to subsection (3), giving or refusing consent to the carrying out or continuation of a treatment (including the conduct of a clinical trial) by a person providing health care for P;
 
+(da) giving, refusing or revoking of appropriate consent involving P under the Human Biomedical Research Act 2015; and
+
+[Act 29 of 2015 wef 01/11/2017]
+
 (e) giving a direction that a person responsible for P’s health care allow a different person to take over that responsibility.
 
 (2) Subsection (1) is —
@@ -996,9 +1024,17 @@ if, at the time when it is proposed to treat the patient, his treatment is regul
 
 ### Scope of Act
 
-29\. For the avoidance of doubt, it is hereby declared that nothing in this Act is to be taken to affect the law relating to murder, culpable homicide not amounting to murder or abetment of suicide.
+29\.—(1) For the avoidance of doubt, it is hereby declared that nothing in this Act is to be taken to affect the law relating to murder, culpable homicide not amounting to murder or abetment of suicide.
 
-[UK MCA 2005, s. 62]
+[Act 29 of 2015 wef 01/11/2017]
+
+(2) To avoid doubt, it is declared that nothing in this Act is to be taken to affect the giving, refusing or revoking of consent on behalf of a person who lacks mental capacity by a person who is expressly authorised to do so under —
+
+(a) the Human Biomedical Research Act 2015; or
+
+(b) any written law relating to a clinical trial.
+
+[Act 29 of 2015 wef 01/11/2017]
 
 ## PART VII
 
@@ -2258,3 +2294,7 @@ This Legislative History is provided for the convenience of users of the Mental 
 ||Date of First Reading|29 February 2016 (Bill No. 11/2016 published on 29 February 2016)|
 ||Date of Second and Third Readings|14 March 2016|
 ||Date of commencement|1 September 2016|
+|12.|**Act 29 of 2015—Human Biomedical Research Act 2015**|
+||Date of First Reading|13 July 2015 (Bill No. 25/2015 published on 13 July 2015)|
+||Date of Second and Third Readings|18 August 2015|
+||Date of commencement|1 November 2017|
