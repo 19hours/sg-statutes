@@ -2045,9 +2045,17 @@ and whether any matter so prescribed has effect in addition to or despite any ot
 
 (3) Section 7(3) of the Mental Capacity Act is amended —
 
-(a) by deleting the word “or” at the end of paragraph (b); and
+(a) by deleting the word “or” at the end of paragraph (
 
-(b) by deleting the full-stop at the end of paragraph (c) and substituting the word “; or”, and by inserting immediately thereafter the following paragraph:
+b
+
+); and
+
+(b) by deleting the full-stop at the end of paragraph (
+
+c
+
+) and substituting the word “; or”, and by inserting immediately thereafter the following paragraph:
 
 “
 
@@ -2063,7 +2071,11 @@ and whether any matter so prescribed has effect in addition to or despite any ot
 
 ”.
 
-(5) Section 22(1) of the Mental Capacity Act is amended by inserting, immediately after paragraph (d), the following paragraph:
+(5) Section 22(1) of the Mental Capacity Act is amended by inserting, immediately after paragraph (
+
+d
+
+), the following paragraph:
 
 “
 
@@ -2166,11 +2178,19 @@ Prohibited human biomedical research
 
 1\. Human biomedical research involving the development of human-animal combination embryos referred to in paragraph 2(a)(i) or (iii) of the Fourth Schedule beyond 14 days or the appearance of the primitive streak, whichever is the earlier.
 
-2\. Human biomedical research involving the implantation of any human-animal combination embryo into the uterus of an animal or a human.
+2. Human biomedical research involving the implantation —
+
+(a) of a human‑animal combination embryo mentioned in paragraph 2(a)(i) or (iii) of the Fourth Schedule into the uterus of an animal; or
+
+(b) of a human‑animal combination embryo into the uterus of a human.
+
+[S 623/2017 wef 02/11/2017]
 
 3\. Human biomedical research involving the introduction of human stem cells (including induced pluripotent stem cells) or human neural cells into the brain of living great apes whether prenatal or postnatal.
 
-4\. Human biomedical research involving the breeding of animals which have had any kind of pluripotent stem cells (including induced pluripotent stem cells) introduced into them.
+4. Human biomedical research involving the breeding of animals which have had any kind of human pluripotent stem cells (including induced pluripotent stem cells) introduced into them.
+
+[S 623/2017 wef 02/11/2017]
 
 FOURTH SCHEDULE
 
@@ -2196,7 +2216,9 @@ Restricted human biomedical research
 
 (b) the introduction of human stem cells (including induced pluripotent stem cells) into a prenatal animal foetus or animal embryo;
 
-(c) the introduction of human pluripotent stem cells (including induced pluripotent stem cells) into a living postnatal animal;
+(c) the introduction of human pluripotent stem cells (including induced pluripotent stem cells) into a living postnatal animal but excludes the introduction of such human pluripotent stem cells into immunodeficient mice solely for the analysis of teratoma induction;
+
+[S 623/2017 wef 02/11/2017]
 
 (d) the introduction of human stem cells (including induced pluripotent stem cells) or human neural cells into the brain of a living postnatal animal; or
 
@@ -2244,13 +2266,47 @@ HUMAN BIOLOGICAL MATERIAL OR HEALTH INFORMATION
 
 3. Where the institutional review board is satisfied that —
 
-(a) the individually-identifiable human biological material or health information research, as the case may be, may not practicably be carried out unless there is a waiver;
+(a) the research cannot reasonably be carried out without the use of the human biological material or health information in an individually‑identifiable form;
+
+[S 623/2017 wef 02/11/2017]
+
+(aa) the process of obtaining consent from the person, to which the individually‑identifiable human biological material or health information relates, will involve a disproportionate amount of effort and resources relative to the research requirements;
+
+[S 623/2017 wef 02/11/2017]
 
 (b) the use of the individually-identifiable human biological material or health information, as the case may be, involves no more than minimal risk to the research subject or donor;
 
 (c) the waiver concerned will not otherwise adversely affect the rights and welfare of the research subject or donor; and
 
 (d) the human biomedical research or health information research would reasonably be considered to contribute to the greater public good.
+
+3A. Where the institutional review board is satisfied that —
+
+(a) the individually‑identifiable health information was obtained or compiled before 1 November 2017;
+
+(b) the research cannot reasonably be carried out without the use of the health information in an individually‑identifiable form;
+
+(c) the use of the individually‑identifiable health information involves no more than minimal risk to the research subject;
+
+(d) the waiver concerned will not otherwise adversely affect the rights and welfare of the research subject; and
+
+(e) the process of obtaining consent from the person, to which the individually‑identifiable health information relates, will involve a disproportionate amount of effort and resources relative to the research requirements.
+
+[S 623/2017 wef 02/11/2017]
+
+3B. Where the institutional review board is satisfied that —
+
+(a) the individually‑identifiable human biological material was obtained or compiled before 1 November 2017;
+
+(b) the research cannot reasonably be carried out without the use of the human biological material in an individually‑identifiable form;
+
+(c) the use of the individually‑identifiable human biological material involves no more than minimal risk to the research subject;
+
+(d) the waiver concerned will not otherwise adversely affect the rights and welfare of the research subject; and
+
+(e) reasonable effort has been made to re‑contact the person to which the individually‑identifiable human biological material relates for the purpose of obtaining his or her consent.
+
+[S 623/2017 wef 02/11/2017]
 
 Part 3
 
@@ -2265,7 +2321,9 @@ APPROPRIATE CONSENT FOR emergency RESEARCH
 
 (a) the research subjects are in a life-threatening situation;
 
-(b) there is no professionally accepted standard of treatment or the available treatments are unproven;
+(b) there is no professionally accepted standard of treatment or the available treatments are unproven or are unsatisfactory;
+
+[S 623/2017 wef 02/11/2017]
 
 (c) the collection of valid scientific evidence is necessary to determine the safety and effectiveness of a particular intervention or treatment;
 
@@ -2283,7 +2341,9 @@ APPROPRIATE CONSENT FOR emergency RESEARCH
 
 (i) the research subject is to be informed as soon as is practicable after he or she regains capacity of his or her participation in the research and given an opportunity to withdraw from further participation in the research; or
 
-(ii) the person who is authorised to give appropriate consent on behalf of the research subject under section 6 to be informed as soon as is practicable of the subject’s participation in the research and to be given an opportunity to request that the subject be withdrawn from further participation in the research; or
+(ii) the person who is authorised to give appropriate consent on behalf of the research subject under section 6 to be informed as soon as is practicable of the subject’s participation in the research and to be given an opportunity to request that the subject be withdrawn from further participation in the research; and
+
+[S 623/2017 wef 02/11/2017]
 
 (h) provision is made for a medical practitioner who is registered under the Medical Registration Act (Cap. 174) as a specialist in the specialty relating to the research and who is not involved in the research as a researcher or supervisor to certify, prior to the enrolment of the research subject to the best of the specialist’s knowledge that sub‑paragraphs (a) to (e) have been complied with.
 
