@@ -22,6 +22,8 @@
 
 - [6 Identification card to be produced](#Identification-card-to-be-produced)
 
+- [6A Management body](#Management-body)
+
 [**Part III NATIONAL PARKS AND NATURE RESERVES**](#Part-III)
 
 - [7 Establishment of national parks and nature reserves](#Establishment-of-national-parks-and-nature-reserves)
@@ -36,9 +38,9 @@
 
 - [12 Approval for restricted activities in national parks and nature reserves](#Approval-for-restricted-activities-in-national-parks-and-nature-reserves)
 
-[**Part IV PROTECTION AND CONSERVATION OF TREES AND PLANTS**](#Part-IV)
+[**Part IV CONSERVATION OF TREES AND PLANTS**](#Part-IV)
 
-[**Division 1  Tree conservation areas**](#Division-1--Tree-conservation-areas)
+[**Division 1  Tree conservation areas and vacant lands**](#Division-1--Tree-conservation-areas-and-vacant-lands)
 
 - [13 Tree conservation areas](#Tree-conservation-areas)
 
@@ -60,7 +62,7 @@
 
 - [20 Application for approval to cut trees and plants, etc.](#Application-for-approval-to-cut-trees-and-plants-etc)
 
-- [21 Reinstatement notices as regards heritage road green buffers](#Reinstatement-notices-as-regards-heritage-road-green-buffers)
+- [21 Reinstatement notices as regards tree conservation areas, vacant lands and heritage road green buffers](#Reinstatement-notices-as-regards-tree-conservation-areas-vacant-lands-and-heritage-road-green-buffers)
 
 [**Part V PLANTING AREAS, PUBLIC OPEN SPACES AND GREEN VERGES**](#Part-V)
 
@@ -106,6 +108,8 @@
 
 - [37 Trees and plants obstructing traffic](#Trees-and-plants-obstructing-traffic)
 
+- [37A Power to enter and inspect premises for dangerous trees](#Power-to-enter-and-inspect-premises-for-dangerous-trees)
+
 - [38 Imminently dangerous trees or plants](#Imminently-dangerous-trees-or-plants)
 
 [**Part VII POWERS OF ENFORCEMENT**](#Part-VII)
@@ -114,7 +118,9 @@
 
 - [40 Power of entry and to demand particulars of identity](#Power-of-entry-and-to-demand-particulars-of-identity)
 
-- [41 Powers of arrest in certain circumstances](#Powers-of-arrest-in-certain-circumstances)
+- [41 Power to demand evidence of identity and power of arrest in certain circumstances](#Power-to-demand-evidence-of-identity-and-power-of-arrest-in-certain-circumstances)
+
+- [41A Power to investigate offences under Act](#Power-to-investigate-offences-under-Act)
 
 - [42 Enforcement powers in national parks, nature reserves and public parks](#Enforcement-powers-in-national-parks-nature-reserves-and-public-parks)
 
@@ -252,6 +258,10 @@ PRELIMINARY
 
 “heritage road green buffer” means any area designated by the Minister as such under section 16(1);
 
+“marine park” means any area of the sea or seabed that is set aside for conservation of marine organisms and is designated in Part III of the Schedule;
+
+[Act 9 of 2017 wef 20/11/2017]
+
 “national park” means any area designated for the time being in Part I of the Schedule;
 
 “nature reserve” means any area designated for the time being in Part II of the Schedule;
@@ -278,6 +288,10 @@ PRELIMINARY
 
 “park ranger” means any person appointed under section 4(5);
 
+“planning permission” has the same meaning as in the Planning Act;
+
+[Act 9 of 2017 wef 20/11/2017]
+
 “plant” means any member of the plantae, protista, monera or fungi kingdom, and includes any angiosperm, gymnosperm, pteridophyte, bryophyte, algae, lichen or fungus;
 
 “planting area” means any planting area referred to in section 23;
@@ -290,9 +304,13 @@ PRELIMINARY
 
 “public park” means any State land, any land belonging to the Board or any other land, which is —
 
-(a) utilised as a public park, recreation ground, playground, garden, public open space, walk, park connector or green verge; and
+(a) utilised as a public park, marine park, recreation ground, playground, garden, public open space, walk, park connector or green verge; and
 
-(b) managed or maintained by the Board;
+[Act 9 of 2017 wef 20/11/2017]
+
+(b) managed or maintained by the Board or by any management body designated under section 6A;
+
+[Act 9 of 2017 wef 20/11/2017]
 
 “public street” means any street over which the public has a right of way and which has been vested in the Government under the Street Works Act (Cap. 320A) or the repealed Local Government Integration Act (Cap. 166, 1985 Ed.) or in any other manner;
 
@@ -318,7 +336,9 @@ and includes all channels, drains, ditches, reserves and verges at the side of a
 
 “street works” includes works of levelling, paving, metalling, flagging, kerbing, channelling, draining, lighting, laying of cables and mains and other utility services executed in a street or part thereof and the reinstatement of a street or part thereof;
 
-“tree” includes any seedling, sapling or re-shoot of every description and any part thereof;
+“tree” includes a single‑stemmed palm and any part of a tree or single‑stemmed palm (including its seedling, sapling or re‑shoot);
+
+[Act 9 of 2017 wef 20/11/2017]
 
 “tree conservation area” means any land designated by the Minister as such under section 13(1);
 
@@ -326,7 +346,9 @@ and includes all channels, drains, ditches, reserves and verges at the side of a
 
 (a) any land upon which no building or other structure exists; or
 
-(b) any land where the Commissioner has reasonable grounds to believe is not occupied by anyone,
+(b) any land which the Commissioner has reasonable grounds to believe is not occupied by anyone,
+
+[Act 9 of 2017 wef 20/11/2017]
 
 and includes any land upon which exists any building or other structure which is constructed or used contrary to any written law;
 
@@ -350,21 +372,45 @@ ADMINISTRATION OF ACT
 
 (2) The Commissioner shall, subject to any general or special directions of the Minister, be responsible for the administration of this Act and may perform such duties as are imposed and may exercise such powers as are conferred upon him by this Act or any other written law.
 
-(3) The Commissioner may appoint, by name or office, from among —
+(3) The Commissioner may appoint any of the following persons to be an authorised officer for the purpose of assisting the Commissioner in administering and carrying out the provisions of this Act or any other written law:
 
-(a) public officers; or
+(a) a public officer;
 
-(b) officers of the Board,
+(b) an employee of the Board;
 
-such number of authorised officers as he considers necessary for the purpose of assisting him in administering and carrying out the provisions of this Act or any other written law.
+(c) an auxiliary police officer appointed under the Police Force Act (Cap. 235).
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (4) Any powers conferred on and duties to be performed by the Commissioner under this Act or any other written law may, subject to any general or special directions of the Commissioner, be exercised or performed by any authorised officer.
 
-(5) The Commissioner may appoint, by name or office, any officer of the Board or any public officer as a park ranger who may exercise within any national park, nature reserve or public park, the powers conferred on a park ranger under Part VII.
+(5) The Commissioner may appoint any of the following persons to be a park ranger who may exercise the powers conferred on a park ranger under sections 41 and 42 within the national park, nature reserve or public park and in the circumstances specified in the Commissioner’s authorisation for the park ranger under subsection (6):
 
-(6) Every authorised officer and park ranger shall be subject to the general supervision of the Commissioner.
+(a) a public officer;
 
-[Parks and Trees 1996 Ed., s. 3]
+(b) an employee of the Board;
+
+(c) an employee of a management body designated under section 6A;
+
+(d) a person who holds a security officer’s licence under the Private Security Industry Act (Cap. 250A).
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(6) The Commissioner must issue to each park ranger an authorisation specifying where, or the circumstances in which, the park ranger may exercise the powers conferred on a park ranger under sections 41 and 42.
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(7) The powers conferred on a park ranger under sections 41 and 42 must be exercised only to the extent of the authorisation under subsection (6).
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(8) The Commissioner may, for any reason that appears to the Commissioner to be sufficient, at any time revoke a person’s appointment as an authorised officer or a park ranger.
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(9) A person who is appointed as an authorised officer under subsection (3) or a park ranger under subsection (5) does not, by virtue only of the appointment, become an employee or agent of the Board.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 ### Officers deemed to be public servants
 
@@ -379,6 +425,12 @@ such number of authorised officers as he considers necessary for the purpose of 
 (2) It shall not be an offence for any person to refuse to comply with any request, demand or order made by the Commissioner or any authorised officer or park ranger not in uniform, who fails to declare his office and refuses to produce his identification card on demand being made by that person.
 
 [Parks and Trees 1996 Ed., s. 21]
+
+### Management body
+
+6A\. The Minister may, by notification in theGazette, designate, for the purposes of this Act, any body to be a management body for any State land, land belonging to the Board or any other land that is managed as a public park on behalf of the Government or the Board, as the case may be.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 ## PART III
 
@@ -446,11 +498,15 @@ NATIONAL PARKS AND NATURE RESERVES
 
 (2) No person shall carry out any activity within any national park or nature reserve which he knows or ought reasonably to know causes or may cause injury to, or the death of, any animal or any other organism within the national park or nature reserve.
 
-(3) No person shall, except with the approval of the Commissioner granted under section 12 and in accordance with the terms and conditions of such approval —
+(3) A person must not, except with the approval of the Commissioner granted under section 12 and in accordance with the terms and conditions of such approval —
 
-(a) bring or release or cause any animal to be brought or released into a nature reserve; or
+(a) bring or release into, or abandon any animal in, or cause any animal to be brought or released into, or abandoned in a nature reserve;
 
-(b) permit any domestic animal to stray into a nature reserve.
+(b) release or abandon or cause any animal to be released or abandoned into any river, stream, canal or watercourse outside a nature reserve that the person knows, or ought reasonably to know, flows into or through the nature reserve; or
+
+(c) permit any animal belonging to or under the charge of the person to stray into a nature reserve.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine of $500 for every day or part thereof during which the offence continues after conviction.
 
@@ -524,11 +580,15 @@ NATIONAL PARKS AND NATURE RESERVES
 
 ## PART IV
 
-PROTECTION AND CONSERVATION OF TREES AND PLANTS
+CONSERVATION OF TREES AND PLANTS
+
+[Act 9 of 2017 wef 20/11/2017]
 
 Division 1 —
 
-Tree conservation areas
+Tree conservation areas and vacant lands
+
+[Act 9 of 2017 wef 20/11/2017]
 
 ### Tree conservation areas
 
@@ -550,9 +610,13 @@ Tree conservation areas
 
 (3) In determining the amount of fine to be imposed on a person convicted of an offence under subsection (2), the court shall, in particular, have regard to any financial benefit which has accrued or appears likely to accrue to him in consequence of the offence.
 
-(4) For the purposes of this section, the girth of a tree shall be measured half a metre from the ground.
+(4) For the purposes of this section, the girth of a tree must be measured in the prescribed manner.
 
-(5) Where in any proceedings for an offence under this section, a question arises as to whether the girth of a tree measured half a metre from the ground exceeds or does not exceed one metre, a certificate purporting to be signed by the Commissioner or an authorised officer certifying the girth of the tree shall be admissible as prima facie evidence of the matters stated therein and of the signature of the Commissioner or authorised officer, as the case may be.
+[Act 9 of 2017 wef 20/11/2017]
+
+(5) Where in any proceedings for an offence under this section, a question arises as to whether the girth of a tree exceeds or does not exceed one metre, a certificate purporting to be signed by the Commissioner or an authorised officer certifying the girth of the tree shall be admissible as prima facie evidence of the matters stated therein and of the signature of the Commissioner or authorised officer, as the case may be.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (6) No approval referred to in subsection (1) shall be required where the condition of the tree constitutes an immediate threat to life or property.
 
@@ -658,7 +722,13 @@ Approvals, reinstatement notices and evidence
 
 ### Application for approval to cut trees and plants, etc.
 
-20\.—(1) An application for an approval to carry out or cause the carrying out of any activity referred to in section 14(1), 18(1) or 19(1) shall be made to the Commissioner in such form and manner as may be prescribed.
+20\.—(1) An application for an approval to carry out or cause the carrying out of any activity mentioned in section 14(1), 18(1) or 19(1) must be —
+
+(a) made to the Commissioner in such manner as may be prescribed; and
+
+(b) accompanied by such non-refundable application fee as may be prescribed.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (2) An application for an approval to carry out or cause to be carried out any activity referred to in section 14(1) or 18(1) may be made by a person having such estate or interest in the premises on which the tree or plant is growing as would enable him to cut the tree or plant.
 
@@ -676,7 +746,7 @@ Approvals, reinstatement notices and evidence
 
 (b) that the person has failed to comply with any condition imposed under subsection (4)(b).
 
-(6) In determining whether to grant an approval to cut a tree or plant within a heritage road green buffer, the Commissioner may have regard to the following matters:
+(6) In determining whether to grant an approval under this section, the Commissioner may have regard to the following matters:
 
 (a) the visibility and contribution of the tree or plant in the surrounding landscape or streetscape;
 
@@ -692,25 +762,39 @@ Approvals, reinstatement notices and evidence
 
 [Parks and Trees 1996 Ed., s. 7 (1)]
 
-### Reinstatement notices as regards heritage road green buffers
+[Act 9 of 2017 wef 20/11/2017]
 
-21\.—(1) Where it appears to the Commissioner that there has been a contravention of section 18(1) or (2) or 19(1), he may serve a reinstatement notice on all or any of the following persons:
+### Reinstatement notices as regards tree conservation areas, vacant lands and heritage road green buffers
 
-(a) any person who appears to the Commissioner to have been responsible for or have participated in anything done in contravention of section 18(1) or (2) or 19(1); or
+21\.—(1) Where it appears to the Commissioner that there has been a contravention of section 14(1) or (2), 18(1) or (2) or 19(1), he may serve a reinstatement notice on all or any of the following persons:
 
-(b) any occupier of the premises on which anything is done in contravention of section 18(1) or (2) or 19(1).
+(a) any person who appears to the Commissioner to have been responsible for or have participated in anything done in contravention of any of those provisions; or
 
-(2) A reinstatement notice under subsection (1) shall require the person upon whom it is served to remedy (wholly or in part) the contravention or to remedy any injury or damage to the heritage road green buffer caused by that contravention and may, in particular, require that person —
+[Act 9 of 2017 wef 20/11/2017]
+
+(b) any occupier of the premises on which anything is done in contravention of any of those provisions.
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(2) A reinstatement notice under subsection (1) shall require the person upon whom it is served to remedy (wholly or in part) the contravention or to remedy any injury or damage to any tree mentioned in section 14(1) or the heritage road green buffer mentioned in section 19(1) arising from that contravention and may, in particular, require that person —
 
 (a) to cease or refrain from, either wholly or to the extent specified in the notice, any activity on the premises concerned;
+
+(aa) to replant or restore any tree cut or damaged in contravention of section 14(1) or (2), or, if such replanting or restoration is not reasonably practicable or is undesirable, to execute such works as the Commissioner may specify in the notice to alleviate the effect of the contravention, including planting other trees or plants and taking measures for their maintenance;
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (b) to alter, demolish or remove any property or material from the premises concerned, or any structure, object, fence, retaining wall, foundation, manhole, pipe, cable, mains or any obstruction or structure (whether temporary or permanent) he has erected or caused to be erected thereon in contravention of section 19(1);
 
 (c) to restore any part of the heritage road green buffer to its former state or, if such restoration is not reasonably practicable or is undesirable, to execute such works as the Commissioner may specify in the notice to alleviate the effect of the contravention of section 18(1) or (2) or 19(1), as the case may be, including planting such trees or plants and taking measures for their maintenance; or
 
-(d) to take such other measures which the Commissioner reasonably considers necessary for the purposes of paragraph (a), (b) or (c).
+(d) to take such other measures which the Commissioner reasonably considers necessary for the purposes of paragraph (a), (aa), (b) or (c).
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (3) A reinstatement notice under this section shall specify the date on which it is to take effect and the period (which shall run from the date the reinstatement notice takes effect) within which any step required by the notice shall be taken.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 ## PART V
 
@@ -730,11 +814,9 @@ Planting areas and streetscapes
 
 ### Planting areas
 
-23\.—(1) All premises referred to in section 22 shall be surrounded by a planting area measuring —
+23\.—(1) All premises mentioned in section 22 must have a planting area that conforms with the prescribed dimensions or those dimensions as modified under subsection (6).
 
-(a) not more than 2 metres wide, except as otherwise specified in paragraph (b); and
-
-(b) not more than 5 metres wide from the front boundary of the premises adjoining or abutting a public street.
+[Act 9 of 2017 wef 20/11/2017]
 
 (2) Without prejudice to subsection (1), all premises referred to in section 22, and such other premises as may be prescribed under subsection (3), shall be provided with such other planting areas within the premises as the Minister may, by notification in theGazette, prescribe under subsection (3).
 
@@ -744,7 +826,9 @@ Planting areas and streetscapes
 
 (5) Every notification made under subsection (3) shall be presented to Parliament as soon as possible after publication in theGazette.
 
-(6) For the purposes of this section, the dimensions of a planting area shall be measured along the ground.
+(6) The Commissioner may, in any particular case, modify or waive, subject to such terms and conditions as the Commissioner may impose, the prescribed dimensions of a planting area.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 ### Provision of planting areas
 
@@ -808,7 +892,7 @@ requiring the person to remedy (wholly or in part) the contravention.
 
 ### Notice to plant or replant trees and plants, etc.
 
-27\.—(1) For the purpose of enhancing greenery and promoting the use of trees and plants as important elements of streetscapes and landscapes or otherwise enhancing the amenity of any area located along or on premises fronting, adjoining or abutting any public street, the Commissioner may at any time serve on the occupier of any premises fronting, adjoining or abutting that public street a notice requiring the occupier, within such period as may be specified in the notice, to do all or any of the following within the green margin of those premises:
+27\.—(1) For the purpose of enhancing greenery and promoting the use of trees and plants as important elements of streetscapes and landscapes or otherwise enhancing the amenity of any area located along or on any premises (whether or not mentioned in section 22) fronting, adjoining or abutting any public street, the Commissioner may at any time serve on the occupier of those premises a notice requiring the occupier, within such period as may be specified in the notice, to do all or any of the following within the green margin of those premises:
 
 (a) to plant or replant any tree or plant of such size and species and at such places and provide for their maintenance and protection in such manner as may be specified;
 
@@ -817,6 +901,8 @@ requiring the person to remedy (wholly or in part) the contravention.
 (c) to clear the green margin of weeds or cut the grass; or
 
 (d) to take such other measures which the Commissioner considers necessary for such purpose.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (2) No person shall, at any time, cut or damage any tree or plant which has been planted pursuant to a notice under subsection (1).
 
@@ -942,7 +1028,9 @@ Specifications and approvals
 
 (b) accompanied by such plans of the works to which the application relates, and such other documents, as the Commissioner may require; and
 
-(c) accompanied by such non-refundable application fee as the Commissioner may require which shall be paid in the prescribed manner.
+(c) accompanied by such non-refundable application fee as may be prescribed.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (2) The Commissioner may require the plans referred to in subsection (1)(b) —
 
@@ -966,11 +1054,15 @@ Specifications and approvals
 
 (6) Where an approval has been granted under subsection (3) in respect of plans submitted under subsection (1)(b) and the applicant intends to depart or deviate from the plans approved, he shall apply to the Commissioner for his approval of the plans showing the proposed departure or deviation, and subsections (2) to (5) shall apply, with the necessary modifications, to an application for an approval under this subsection.
 
-(7) Any approval granted in respect of any works under this section shall automatically lapse —
+(7) Any approval granted in respect of any works under this section lapses upon the earlier of the following events:
 
-(a) in a case where a written permission has been granted by the competent authority under the Planning Act in respect of works, if the written permission lapses pursuant to section 20 of that Act; or
+(a) in a case where a written permission has been granted by the competent authority under the Planning Act in respect of works, if the written permission lapses pursuant to section 20 of that Act;
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (b) if the works are not commenced within the period specified in the approval.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (8) The Commissioner may, at any time, by notice in writing revoke any approval granted under subsection (3) if he is satisfied —
 
@@ -1046,6 +1138,20 @@ the Commissioner may serve an enforcement notice requiring the occupier of the p
 
 [Parks and Trees 1996 Ed., s. 11 (1)]
 
+### Power to enter and inspect premises for dangerous trees
+
+37A\.—(1) The Commissioner or an authorised officer may, at any reasonable time, enter any premises to inspect any tree or plant in order to ascertain if the condition of the tree or plant, whether or not dead or dying, constitutes a danger to any person or property.
+
+(2) Where the Commissioner or authorised officer is satisfied that the condition of any tree or plant on the premises inspected under subsection (1) constitutes a danger to any person or property, the Commissioner or authorised officer may by a maintenance notice require the occupier of the premises —
+
+(a) to maintain the tree or plant; or
+
+(b) to take such other measures as may be specified in the notice to abate the danger.
+
+(3) A maintenance notice issued under subsection (2) must specify the date on which the notice takes effect, and the period (beginning on the date the notice takes effect) within which any step required by the notice must be taken.
+
+[Act 9 of 2017 wef 20/11/2017]
+
 ### Imminently dangerous trees or plants
 
 38\.—(1) Where the Commissioner is satisfied that —
@@ -1112,27 +1218,69 @@ he shall be guilty of an offence and shall be liable on conviction to a fine not
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
-### Powers of arrest in certain circumstances
+### Power to demand evidence of identity and power of arrest in certain circumstances
 
-41\.—(1) The Commissioner, an authorised officer or a police officer may arrest, without warrant, any person who has committed or whom he reasonably suspects to have committed an offence under this Act if —
+41\.—(1) The Commissioner, an authorised officer or a police officer may require any person who has committed, or whom the Commissioner, authorised officer or police officer (as the case may be) reasonably suspects of having committed, an offence under this Act to furnish such evidence of the person’s identity as may be required by the Commissioner, authorised officer or police officer (as the case may be).
 
-(a) the person declines to give his name and address; or
+[Act 9 of 2017 wef 20/11/2017]
 
-(b) there is reason to doubt the accuracy of the name and address, if given.
+(1A) Any person who —
+
+(a) refuses to furnish the information required of the person under subsection (1); or
+
+(b) furnishes, in connection with a requirement under subsection (1), information that is false or misleading in a material particular, knowing or reckless as to whether it is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(1B) The Commissioner, an authorised officer or a police officer may arrest, without warrant, any person who has committed or who is reasonably suspected to have committed an offence under subsection (1A).
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(1C) A park ranger may exercise the powers under subsections (1) and (1B) in respect of any person who has committed or whom the park ranger reasonably suspects of having committed an offence under this Act within the national park, nature reserve or public park specified in the authorisation for the park ranger under section 4(6).
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(1D) The Commissioner, authorised officer, police officer or park ranger making an arrest under subsection (1B) must not restrain the person arrested more than is necessary to prevent the person’s escape.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (2) A person arrested under this section may be detained until his name and address are correctly ascertained except that no person so arrested shall be detained longer than is permitted by written law and is necessary for bringing him before a court unless the order of a court for his detention is obtained.
 
 [Parks and Trees 1996 Ed., s. 22]
 
+[Act 9 of 2017 wef 20/11/2017]
+
+### Power to investigate offences under Act
+
+41A\.—(1) For the purpose of investigating any offence under this Act, the Commissioner or an authorised officer may —
+
+(a) examine orally any person supposed to be acquainted with the facts and circumstances of the case; and
+
+(b) by written order require any person within the limits of Singapore, who appears to be acquainted with the facts and circumstances of the case, to attend before the Commissioner or authorised officer.
+
+(2) The person mentioned in subsection (1)(a) is bound to state truly the facts and circumstances with which the person is acquainted concerning the case except only that the person may decline to make, with regard to any fact or circumstance, a statement which would have a tendency to expose the person to a criminal charge or to penalty or forfeiture.
+
+(3) A statement made by any person examined under this section must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) after correction, if necessary, be signed by the person.
+
+(4) If any person fails to attend before the Commissioner or an authorised officer as required by an order under subsection (1)(b), the Commissioner or authorised officer may report such failure to a Magistrate who may issue a warrant to secure the attendance of that person as required by the order.
+
+[Act 9 of 2017 wef 20/11/2017]
+
 ### Enforcement powers in national parks, nature reserves and public parks
 
 42\.—(1) The Commissioner, an authorised officer, a park ranger or a police officer may, without warrant, arrest any person within any national park, nature reserve or public park if that person, in contravention of this Act, fails or refuses to leave the national park, nature reserve or public park, as the case may be, or any part thereof, after being requested by the Commissioner, authorised officer, park ranger or police officer to do so.
 
-(2) A park ranger may, without warrant, arrest any person who has committed or whom he reasonably suspects to have committed an offence under this Act within a national park, nature reserve or public park if —
-
-(a) the person declines to give his name and address; or
-
-(b) there is reason to doubt the accuracy of the name and address, if given.
+(2) [Deleted by Act 9 of 2017 wef 20/11/2017]
 
 (3) If the Commissioner, an authorised officer, a park ranger or a police officer has reason to believe that any offence has been committed under this Act within any national park, nature reserve or public park, he may inspect and search any baggage, equipment, package, container, tent, vehicle, boat, craft or place and seize any thing therein which he requires as evidence that any such offence has been committed.
 
@@ -1192,7 +1340,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (iii) an enforcement notice under section 24(3), 28(3), 30(3) or 37;
 
-(iv) a maintenance notice under section 25(2); or
+(iv) a maintenance notice under section 25(2) or 37A(2); or
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (v) a notice to plant or replant under section 27(1); or
 
@@ -1294,19 +1444,23 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Composition of offences
 
-51\.—(1) The Commissioner may, in his discretion, compound any offence under this Act as may be prescribed as being an offence which may be compounded by collecting from the person reasonably suspected of having committed the offence a sum amounting to —
+51\.—(1) The Commissioner may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-(b) $2,000,
+(b) $5,000.
 
-whichever is the lower.
+[Act 9 of 2017 wef 20/11/2017]
 
 (2) Notwithstanding the payment of the composition amount under subsection (1), any compensation, damages, fees, costs or expenses which are provided to be paid under this Act shall remain payable.
 
 (3) On payment of the composition amount under subsection (1), no further proceedings shall be taken against that person in respect of the offence.
 
 [Parks and Trees 1996 Ed., s. 20 (1); National Parks 1997 Ed., s. 38]
+
+(4) All sums collected under this section are to be paid into the Consolidated Fund.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 ### Prosecutions
 
@@ -1366,7 +1520,9 @@ GENERAL
 
 (c) any enforcement notice under section 24(3), 28(3), 30(3) or 37;
 
-(d) any maintenance notice under section 25(2);
+(d) any maintenance notice under section 25(2) or 37A(2);
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (e) any notice to plant or replant under section 27(1); or
 
@@ -1384,9 +1540,11 @@ may, within 14 days from the date of service of the notice, or the date he is no
 
 ### Payment to Board of fees, charges, etc.
 
-57\. All fees, charges, composition amounts and any other moneys collected under this Act shall be paid to the Board.
+57\. Except as provided for in section 51(4), all fees, charges and any other moneys collected under this Act shall be paid to the Board.
 
 [Parks and Trees 1996 Ed., s. 26]
+
+[Act 9 of 2017 wef 20/11/2017]
 
 ### Exemption
 
@@ -1476,15 +1634,19 @@ may, within 14 days from the date of service of the notice, or the date he is no
 
 (viii) prescribing for the forfeiture, sale or disposal of any vehicle, boat or thing removed under section 42 and the recovery of any expenses connected therewith;
 
-(b) the applications for approval under section 12, 20 or 32, including the form, manner and mode of such applications, the documents to be submitted and other matters related to those sections;
+(b) the applications for approval under this Act, including the manner of such applications and the documents to be submitted;
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (c) the management of heritage road green buffers, including the prohibition and regulation of any particular act within the heritage road green buffers and the conservation and protection of trees and plants growing on heritage road green buffers;
 
 (d) prescribing that any act or omission in contravention of any regulations shall be an offence and prescribing penalties for such offences, which penalties shall not exceed a fine of $10,000;
 
-(e) regulating and prescribing standards for the planting, aeration and maintenance of trees and plants within any planting areas, green verges and open spaces to be used as public parks;
+(e) prescribing the manner for measuring the dimensions of a planting area, and regulating and prescribing standards for the planting, aeration and maintenance of trees and plants within any planting areas, green verges and open spaces to be used as public parks;
 
-(f) the prescribing of forms necessary for the administration of this Act;
+[Act 9 of 2017 wef 20/11/2017]
+
+(f) [Deleted by Act 9 of 2017 wef 20/11/2017]
 
 (g) the prescribing of fees and charges for the purposes of this Act; and
 
@@ -1538,19 +1700,20 @@ Part I
 
 National Parks
 
-1. All those pieces of land situated in T.S. No. 25 known as the Singapore Botanic Gardens, described as follows:
+1\. All those pieces of land situated in T.S. No. 25 known as the Singapore Botanic Gardens, described as follows:
 
 T.S. No.
 
 Lot No.
 
-Area (square metres)
+Area
+(square metres)
 
 No. 25
 
-01642T
+01748N
 
-523,043.8
+522,892.70
 
 01643A
 
@@ -1566,9 +1729,11 @@ No. 25
 
 Total
 
-527,934.3
+527,783.2
 
-The boundaries of these areas are more particularly delineated on Certified Plans Nos. 38578, 38579 and 38065 filed in the office of the Chief Surveyor.
+The boundaries of these areas are more particularly delineated on Certified Plans Nos. 38578, 38579, 85149 and 38065 filed in the office of the Chief Surveyor.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 2. All those pieces of land situated in T.S. No. 20 known as Fort Canning Park, described as follows:
 
@@ -1942,6 +2107,134 @@ Total
 
 The boundaries of these areas are more particularly delineated on Plan No. NP 5.9.1.9 (Sungei Buloh Wetland Reserve) filed in the Registry of the National Parks Board.
 
+Part III
+
+MARINE PARK
+
+The waters within the limits bounded by straight lines joining the following geographical positions (position in WGS84) (it is bounded by the coastline whenever the line meets the coastline):
+
+(a)
+
+(1) 1°13.715'N
+
+103°50.373'E on the southern shore of Pulau Tekukor
+
+(2) 1°13.705'N
+
+103°50.336'E
+
+(3) 1°13.845'N
+
+103°50.178'E
+
+(4) 1°14.009'N
+
+103°50.112'E
+
+(5) 1°14.066'N
+
+103°50.150'E
+
+(6) 1°13.983'N
+
+103°50.193'E on the northern shore of Pulau Tekukor,
+
+including the seaward side of Pulau Tekukor;
+
+(b)
+
+(1) 1°12.775'N
+
+103°50.220'E
+
+(2) 1°12.714'N
+
+103°50.170'E
+
+(3) 1°12.694'N
+
+103°50.028'E
+
+(4) 1°12.728'N
+
+103°49.959'E
+
+(5) 1°12.937'N
+
+103°49.821'E
+
+(6) 1°13.049'N
+
+103°49.878'E
+
+(7) 1°13.068'N
+
+103°49.919'E
+
+(8) 1°13.040'N
+
+103°50.013'E
+
+(9) 1°12.959'N
+
+103°50.078'E
+
+(10) 1°12.924'N
+
+103°50.164'E
+
+(11) 1°12.881'N
+
+103°50.182'E
+
+(12) 1°12.842'N
+
+103°50.198'E,
+
+to the point of origin at (1), including Pulau Subar Darat and Pulau Subar Laut;
+
+(c)
+
+(1) 1°12.801'N
+
+103°51.099'E on the southern shore of Pulau Sakijang Bendera
+
+(2) 1°12.803'N
+
+103°51.002'E
+
+(3) 1°13.016'N
+
+103°50.845'E
+
+(4) 1°13.141'N
+
+103°50.721'E
+
+(5) 1°13.216'N
+
+103°50.643'E
+
+(6) 1°13.289'N
+
+103°50.582'E
+
+(7) 1°13.381'N
+
+103°50.545'E
+
+(8) 1°13.438'N
+
+103°50.615'E
+
+(9) 1°13.393'N
+
+103°50.653'E on the northern shore of Pulau Sakijang Bendera,
+
+including the seaward side of Pulau Sakijang Bendera.
+
+[Act 9 of 2017 wef 20/11/2017]
+
 ## LEGISLATIVE SOURCE KEY
 
 Parks and Trees Act
@@ -2031,6 +2324,10 @@ The Parks and Trees Act 2005 repealed the Parks and Trees Act (Chapter 216, 1996
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|13.|**Act 9 of 2017—Parks and Trees (Amendment) Act 2017**|
+||Date of First Reading|9 January 2017 (Bill No. 4/2017 published on 9 January 2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|20 November 2017|
 ## COMPARATIVE TABLE
 
 Parks and Trees Act
