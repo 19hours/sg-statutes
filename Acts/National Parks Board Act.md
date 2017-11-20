@@ -40,7 +40,7 @@
 
 - [13 Appointment of Chief Executive and other employees](#Appointment-of-Chief-Executive-and-other-employees)
 
-- [14 Public servants for purposes of Penal Code](#Public-servants-for-purposes-of-Penal-Code)
+- [14 Public servants](#Public-servants)
 
 [**Part V FINANCIAL PROVISIONS**](#Part-V)
 
@@ -152,6 +152,18 @@ PRELIMINARY
 
 “Chief Executive” means the Chief Executive of the Board and includes any person acting in that capacity;
 
+“landscape industry” means an industry comprising persons who carry on any business or engage in any commercial activity in connection with one or more, or any part, or any combination, of the following:
+
+(a) landscaping works and services;
+
+(b) the supply of plants or landscaping or related products;
+
+[Act 9 of 2017 wef 20/11/2017]
+
+“landscaping works and services” includes the provision of services in landscape design, landscape architecture, planting and landscaping, arboriculture maintenance, horticulture maintenance and turf maintenance;
+
+[Act 9 of 2017 wef 20/11/2017]
+
 “member” means a member of the Board;
 
 “national park” has the same meaning as in the Parks and Trees Act;
@@ -220,11 +232,25 @@ FUNCTIONS AND POWERS OF BOARD
 
 (g) to provide, manage and promote recreational, cultural, historical, research and educational facilities and resources in national parks, nature reserves and public parks and encourage their full and proper use by members of the public;
 
-(h) to advise the Government on all matters relating to nature conservation and the planning, development and management of public parks; and
+(h) to advise the Government on all matters relating to nature conservation and the planning, development and management of public parks;
 
-(i) to carry out such other functions and duties as are imposed upon the Board by or under this Act or any other written law.
+[Act 9 of 2017 wef 20/11/2017]
 
-[4/2005]
+(i) to manage on behalf of the Government any State land used or to be used by the landscape industry and to promote the optimisation of the use of such land;
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(j) to promote the development, productivity and efficiency of the landscape industry;
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(k) to promote the advancement of skills and expertise of individuals in relation to any subject mentioned in paragraph (f) and of individuals employed in the landscape industry; and
+
+[Act 9 of 2017 wef 20/11/2017]
+
+(l) to carry out such other functions and duties as are imposed upon the Board by or under this Act or any other written law.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 (2) In addition to the functions of the Board under subsection (1), the Board may undertake such other functions as the Minister may assign to the Board and in so doing the Board shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Board in respect of such functions.
 
@@ -286,9 +312,21 @@ PROVISIONS RELATING TO STAFF
 
 (4) The Board may, from time to time, appoint such other employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as the Board may determine and may terminate the appointment of such employees and agents.
 
-### Public servants for purposes of Penal Code
+### Public servants
 
-14\. All members, employees and agents of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+14\.—(1) All members, employees and agents of the Board are taken to be public servants for the purposes of the Penal Code (Cap. 224).
+
+(2) The members, officers and employees of the Board are, in relation to —
+
+(a) their administration, collection and enforcement of payment of composition sums under any Act administered by the Board; and
+
+(b) the management of State land in connection with the performance of any function under section 6(1)(a), (b), (ba), (g) or (i),
+
+taken to be public officers for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to each of these persons even though they are not or were not in the employment of the Government.
+
+(3) In this section, a reference to officers and employees of the Board includes a reference to persons seconded to the Board for any period.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 ## PART V
 
@@ -378,7 +416,11 @@ GENERAL
 
 ### All moneys recovered to be paid to Board
 
-29\. All moneys recovered or sums collected under this Act or any regulations made thereunder shall be paid into and form part of the general funds of the Board.
+29\.—(1) All moneys recovered or sums collected under this Act or any other Act administered by the Board, other than composition sums, are to be paid into and form part of the general funds of the Board.
+
+(2) All composition sums collected under any Act administered by the Board are to be paid into the Consolidated Fund.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 30\. [Repealed by Act 4 of 2005]
 
@@ -522,7 +564,9 @@ Powers of Board
 
 (g) authorise any person to erect, maintain and operate any facility and charge or authorise any person to charge for the use thereof.
 
-2B\. To plant trees, plants and vegetation in public parks.
+2B. To plant plants in public parks.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 3\. To enter into contracts for the supply of goods, services or materials or for the execution of works or other contracts as may be necessary for the discharge of the duties and functions of the Board under this Act.
 
@@ -535,6 +579,14 @@ Powers of Board
 7\. To make provision for the specialised training of any employee of the Board and in that connection offer scholarships for such training and expenditure incidental thereto.
 
 8\. To make awards of recognition, grants, scholarships or contributions as the Board considers fit for the purposes of this Act.
+
+8A. To develop, conduct and certify training programmes for any subject matter relating to any function of the Board.
+
+[Act 9 of 2017 wef 20/11/2017]
+
+8B. To establish, manage and administer any accreditation or certification scheme or a register, for any purpose relating to any function of the Board.
+
+[Act 9 of 2017 wef 20/11/2017]
 
 9\. To offer consultancy services, inform, advise and make recommendations or proposals to the Government or any person on any matter relating to the designation, conservation, development and management of parks and other areas reserved for the propagation of plants and animals, or any other function of the Board.
 
@@ -673,3 +725,7 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of commencement|1 March 2010 (item 1(34) of the Second Schedule — Amendment of National Parks Board Act)|
 |9.|**2012 Revised Edition—National Parks Board Act (Chapter 198A)**|
 ||Date of operation|31 July 2012|
+|10.|**Act 9 of 2017—Parks and Trees (Amendment) Act 2017**|
+||Date of First Reading|9 January 2017 (Bill No. 4/2017 published on 9 January 2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|20 November 2017|
