@@ -952,9 +952,19 @@ Terrorists and terrorist entities
 
 [S 599/2017 wef 27/10/2017]
 
-(zi) Maimunah Binti Abdul Kadir (Singapore citizen) (Date of Birth: 17 March 1968).
+(zi) Maimunah Binti Abdul Kadir (Singapore citizen) (Date of Birth: 17 March 1968);
 
 [S 599/2017 wef 27/10/2017]
+
+[S 669/2017 wef 25/11/2017]
+
+(zj) Abu Thalha Bin Samad (Singapore citizen) (Date of Birth: 14 November 1991);
+
+[S 669/2017 wef 25/11/2017]
+
+(zk) Munavar Baig Amina Begam (Singapore citizen) (Date of Birth: 3 January 1979).
+
+[S 669/2017 wef 25/11/2017]
 
 2. In this Schedule, unless the context otherwise requires —
 
@@ -1180,6 +1190,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|25 September 2017|
 |25.|**G.N. No. S 599/2017—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 3) Order 2017**|
 ||Date of commencement|27 October 2017|
+|26.|**G.N. No. S 669/2017—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 4) Order 2017**|
+||Date of commencement|25 November 2017|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
