@@ -1,14 +1,12 @@
-**Asian Infrastructure Investment Bank Act 2015**
+**Asian Infrastructure Investment Bank Act**
 
-**(No. 24 of 2015)**
+**(CHAPTER 15A)**
 
 **Table of Contents**
 
 [**Long Title**](#Asian-Infrastructure-Investment-Bank-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -28,43 +26,27 @@
 
 [**THE SCHEDULE Provisions of the Agreement having the force of law**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Asian Infrastructure Investment Bank Act
 
-ACTS SUPPLEMENT
+(CHAPTER 15A)
 
-Published by Authority
+(Original Enactment: Act 24 of 2015)
 
-NO. 25]
+REVISED EDITION 2017
 
-Friday, August 21
-
-[2015
-
-The following Act was passed by Parliament on 17th August 2015 and assented to by the President on 21st August 2015:—
-
-Asian Infrastructure Investment Bank Act 2015
-
-(No. 24 of 2015)
-
-I assent.
-
-TONY TAN KENG YAM,
-
-President.
-
-21st August 2015.
-
-Date of Commencement: 22nd August 2015
+(30 November 2017)
 
 An Act to implement the International Agreement for the establishment and operation of the Asian Infrastructure Investment Bank, to enable Singapore to become a member of the Bank and for connected purposes.
 
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+This revised edition incorporates all amendments up to 1 November 2017.
 
-### Short title and commencement
+[22 August 2015]
 
-1\. This Act may be cited as the Asian Infrastructure Investment Bank Act 2015 and comes into operation on such date as the Minister may, by notification in theGazette, appoint.
+### Short title
+
+1\. This Act is the Asian Infrastructure Investment Bank Act.
 
 ### Interpretation
 
@@ -96,8 +78,7 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (c) where the original authorised capital stock of the Bank is increased under paragraph 4 of Article 5, subscribe to a proportion of the increase of stock as provided in that paragraph.
 
-(2) The total subscription to the Bank may not exceed the sum of
-US$500 million unless increased with the approval of Parliament signified by resolution.
+(2) The total subscription to the Bank may not exceed the sum of US$500 million unless increased with the approval of Parliament signified by resolution.
 
 ### Sums payable to Bank to be charged on Consolidated Fund
 
@@ -105,7 +86,7 @@ US$500 million unless increased with the approval of Parliament signified by res
 
 (a) all sums payable to the Bank by way of subscription to its paid-in capital stock under paragraph 1 of Article 6;
 
-(b) all sums payable to the Bank by way of subscription to its callable capital stock as and when required by the Bank, under paragraph 3 of Article 6;
+(b) all sums payable to the Bank by way of subscription to its callable capital stock as and when required by the Bank under paragraph 3 of Article 6;
 
 (c) all sums payable to the Bank by way of increase of the shares of the Bank’s capital stock subscribed by the Government under paragraphs 3 and 4 of Article 5;
 
@@ -125,9 +106,9 @@ US$500 million unless increased with the approval of Parliament signified by res
 
 (a) entitling the Bank to import into Singapore goods free of any customs duty without any restriction on their subsequent sale in Singapore;
 
-(b) conferring on the Bank any exemption from taxes or duties which form part of the price of goods sold or services supplied; or
+(b) conferring on the Bank any exemption from taxes or duties that form part of the price of goods sold or services supplied; or
 
-(c) conferring on the Bank any exemption from taxes or duties which are in fact no more than charges for services rendered.
+(c) conferring on the Bank any exemption from taxes or duties that are in fact no more than charges for services rendered.
 
 (3) The Minister may, by notification in theGazette, amend the Schedule in conformity with any amendments to the provisions of the Agreement set out in the Schedule which may subsequently be made and adopted.
 
@@ -223,3 +204,22 @@ Article 52 Waivers
 
 1\. The Bank at its discretion may waive any of the privileges, immunities and exemptions conferred under this Chapter in any case or instance, in such manner and upon such conditions as it may determine to be appropriate in the best interests of the Bank.
 
+## LEGISLATIVE HISTORY
+
+Asian Infrastructure Investment Bank Act
+
+(CHAPTER 15A)
+
+This Legislative History is provided for the convenience of users of the Asian Infrastructure Investment Bank Act. It is not part of the Act.
+
+||||
+|:-|:-|:-|
+|1.|**Act 24 of 2015—Asian Infrastructure Investment Bank Act 2015**|
+||Date of First Reading|13 July 2015|
+
+|
+(Bill No. 22/2015)|
+||Date of Second and Third Readings|17 August 2015|
+||Date of commencement|22 August 2015|
+|2.|**2017 Revised Edition—Asian Infrastructure Investment Bank Act (Chapter 15A)**|
+||Date of operation|30 November 2017|
