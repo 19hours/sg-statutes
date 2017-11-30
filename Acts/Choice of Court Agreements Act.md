@@ -1,16 +1,14 @@
-**Choice of Court Agreements Act 2016**
+**Choice of Court Agreements Act**
 
-**(No. 14 of 2016)**
+**(CHAPTER 39A)**
 
 **Table of Contents**
 
 [**Long Title**](#Choice-of-Court-Agreements-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
 [**Part 1 PRELIMINARY**](#Part-1)
 
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 General interpretation](#General-interpretation)
 
@@ -48,9 +46,9 @@
 
 - [17 Recognition and enforcement of ruling on preliminary question, etc.](#Recognition-and-enforcement-of-ruling-on-preliminary-question-etc)
 
-- [18 Judgment based on contract of insurance or reinsurance](#Judgment-based-on-contract-of-insurance-or-reinsurance)
+- [18 Foreign judgment based on contract of insurance or reinsurance](#Foreign-judgment-based-on-contract-of-insurance-or-reinsurance)
 
-- [19 Recognition and enforcement of severable part of judgment](#Recognition-and-enforcement-of-severable-part-of-judgment)
+- [19 Recognition and enforcement of severable part of foreign judgment](#Recognition-and-enforcement-of-severable-part-of-foreign-judgment)
 
 - [20 Judicial settlements](#Judicial-settlements)
 
@@ -64,53 +62,31 @@
 
 - [24 Saving and transitional provisions](#Saving-and-transitional-provisions)
 
-[**Part 5 RELATED AMENDMENTS TO OTHER ACTS**](#Part-5)
+[**Legislative History**](#Legislative-History)
 
-- [25 Related amendment to Reciprocal Enforcement of Commonwealth Judgments Act](#Related-amendment-to-Reciprocal-Enforcement-of-Commonwealth-Judgments-Act)
+# Choice of Court Agreements Act
 
-- [26 Related amendment to Reciprocal Enforcement of Foreign Judgments Act](#Related-amendment-to-Reciprocal-Enforcement-of-Foreign-Judgments-Act)
+(CHAPTER 39A)
 
-REPUBLIC OF SINGAPORE
+(Original Enactment: Act 14 of 2016)
 
-GOVERNMENT GAZETTE
+REVISED EDITION 2017
 
-ACTS SUPPLEMENT
+(30 November 2017)
 
-Published by Authority
+An Act to give effect to the Convention on Choice of Court Agreements done at The Hague on 30 June 2005 and for connected purposes.
 
-NO. 13]
+This revised edition incorporates all amendments up to 1 November 2017.
 
-Friday, June 10
-
-[2016
-
-The following Act was passed by Parliament on 14th April 2016 and assented to by the President on 28th April 2016:—
-
-Choice of Court Agreements Act 2016
-
-(No. 14 of 2016)
-
-I assent.
-
-TONY TAN KENG YAM,
-
-President.
-
-28th April 2016.
-
-Date of Commencement: 1st October 2016
-
-An Act to give effect to the Convention on Choice of Court Agreements done at The Hague on 30 June 2005 and for connected purposes, and to make related amendments to certain other Acts.
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+[1 October 2016]
 
 ## PART 1
 
 PRELIMINARY
 
-### Short title and commencement
+### Short title
 
-1\. This Act is the Choice of Court Agreements Act 2016 and comes into operation on a date that the Minister appoints by notification in theGazette.
+1\. This Act is the Choice of Court Agreements Act.
 
 ### General interpretation
 
@@ -120,17 +96,17 @@ PRELIMINARY
 
 “Contracting State” —
 
-(a) means a State which is a party to the Convention; and
+(a) means a State that is a party to the Convention; and
 
 (b) includes, in an appropriate case —
 
-(i) a Regional Economic Integration Organisation which is a party to the Convention; and
+(i) a Regional Economic Integration Organisation that is a party to the Convention; and
 
-(ii) a member State, of a Regional Economic Integration Organisation which is a party to, and has made a declaration under Article 30(1) of, the Convention;
+(ii) a member State, of a Regional Economic Integration Organisation that is a party to, and has made a declaration under Article 30(1) of, the Convention;
 
 “Convention” means the Convention on Choice of Court Agreements done at The Hague on 30 June 2005;
 
-“court of origin”, in relation to a foreign judgment for which recognition or enforcement is sought under this Act, means the court which gives the foreign judgment;
+“court of origin”, in relation to a foreign judgment for which recognition or enforcement is sought under this Act, means the court that has given the foreign judgment;
 
 “foreign judgment” means a judgment given by a court of a Contracting State (other than Singapore), being —
 
@@ -142,7 +118,7 @@ PRELIMINARY
 
 (a) a final court decision (by whatever name called) on the merits, a consent order, a consent judgment or a judgment given by default; or
 
-(b) a determination by a court of any costs or expenses relating to any such court decision, consent order, consent judgment or a judgment given by default;
+(b) a determination by a court of any costs or expenses relating to any such court decision, consent order, consent judgment or judgment given by default;
 
 “judicial settlement” —
 
@@ -152,7 +128,7 @@ PRELIMINARY
 
 (ii) by which those parties end those proceedings; and
 
-(iii) which is recorded by that court in an official document; but
+(iii) that is recorded by that court in an official document; but
 
 (b) does not include a consent order or consent judgment;
 
@@ -162,7 +138,7 @@ PRELIMINARY
 
 (a) in relation to a foreign judgment for which recognition or enforcement is sought under this Act, means the Contracting State of the court of origin of the foreign judgment; or
 
-(b) in relation to a judicial settlement for which enforcement is sought under this Act, means the Contracting State of the court which recorded the judicial settlement.
+(b) in relation to a judicial settlement for which enforcement is sought under this Act, means the Contracting State of the court that recorded the judicial settlement.
 
 (2) Where the High Court is designated in an exclusive choice of court agreement, the designation is to be construed as including the Singapore International Commercial Court unless a contrary intention appears in the agreement.
 
@@ -184,19 +160,19 @@ PRELIMINARY
 
 (i) in writing; or
 
-(ii) by any other means of communication which renders the information communicated accessible so as to be usable for subsequent reference; and
+(ii) by any other means of communication that renders the information communicated accessible so as to be usable for subsequent reference; and
 
-(b) designates, for the purpose of deciding any dispute which arises or may arise in connection with a particular legal relationship, the courts, or one or more specific courts, of one Contracting State to the exclusion of the jurisdiction of any other courts.
+(b) designates, for the purpose of deciding any dispute that arises or may arise in connection with a particular legal relationship, the courts, or one or more specific courts, of one Contracting State to the exclusion of the jurisdiction of any other court.
 
-(2) A choice of court agreement between 2 or more parties which satisfies the following requirements is deemed to be an exclusive choice of court agreement, unless the parties to the agreement expressly provide otherwise:
+(2) A choice of court agreement between 2 or more parties that satisfies the following requirements is deemed to be an exclusive choice of court agreement, unless the parties to the agreement expressly provide otherwise:
 
 (a) the agreement is concluded or documented —
 
 (i) in writing; or
 
-(ii) by any other means of communication which renders the information communicated accessible so as to be usable for subsequent reference;
+(ii) by any other means of communication that renders the information communicated accessible so as to be usable for subsequent reference;
 
-(b) the agreement designates, for the purpose of deciding any dispute which arises or may arise in connection with a particular legal relationship, the courts, or one or more specific courts, of one Contracting State.
+(b) the agreement designates, for the purpose of deciding any dispute that arises or may arise in connection with a particular legal relationship, the courts, or one or more specific courts, of one Contracting State.
 
 ### Meaning of “international case”
 
@@ -246,7 +222,7 @@ PRELIMINARY
 
 (a) any party to the agreement is an individual who acts primarily in the capacity of a consumer; or
 
-(b) the agreement relates to a contract of employment or collective agreement.
+(b) the agreement relates to a contract of employment or a collective agreement.
 
 (2) This Act does not apply to any of the following matters:
 
@@ -256,7 +232,7 @@ PRELIMINARY
 
 (i) the rights or obligations arising out of a marriage or a similar relationship;
 
-(ii) divorce, annulment or the dissolution of marriage;
+(ii) divorce or the annulment or dissolution of a marriage;
 
 (iii) maintenance;
 
@@ -314,7 +290,7 @@ PRELIMINARY
 
 (ii) any specific matter in relation to any Contracting State.
 
-(5) Despite subsections (2) and (4)(a), the raising, in any court proceedings, of a matter mentioned in subsection (2) or (4)(a) as a preliminary question or defence, and not as an object of the proceedings, does not prevent this Act from applying to those proceedings.
+(5) Despite subsections (2) and (4)(a), the raising in any court proceedings of a matter mentioned in subsection (2) or (4)(a) as a preliminary question or defence, and not as an object of the proceedings, does not prevent this Act from applying to those proceedings.
 
 (6) A proceeding under a contract of insurance or reinsurance is not excluded from the application of this Act by reason only that the contract relates to a matter to which this Act does not apply.
 
@@ -338,15 +314,15 @@ JURISDICTION
 
 ### Jurisdiction of Singapore chosen court
 
-11\.—(1) A Singapore court, which an exclusive choice of court agreement designates for the purposes of deciding a dispute, has jurisdiction to decide the dispute, unless the agreement is null and void under the law of Singapore.
+11\.—(1) A Singapore court, designated in an exclusive choice of court agreement for the purposes of deciding a dispute, has jurisdiction to decide the dispute, unless the agreement is null and void under the law of Singapore.
 
-(2) A Singapore court which has jurisdiction under subsection (1) cannot decline to exercise jurisdiction on the ground that the dispute should be decided in a court of another State.
+(2) A Singapore court that has jurisdiction under subsection (1) cannot decline to exercise jurisdiction on the ground that the dispute should be decided in a court of another State.
 
 (3) Despite subsections (1) and (2), a Singapore court may decline to exercise jurisdiction in any other circumstances that the Minister may prescribe by regulations made under section 22.
 
-(4) Subsections (1) and (2) do not affect any written law which —
+(4) Subsections (1) and (2) do not affect any written law that —
 
-(a) restricts the subject matter or value of a claim which a Singapore court has jurisdiction to decide; or
+(a) restricts the subject matter or value of a claim that a Singapore court has jurisdiction to decide; or
 
 (b) allocates jurisdiction to different courts in Singapore.
 
@@ -362,7 +338,7 @@ JURISDICTION
 
 (c) giving effect to the agreement would lead to a manifest injustice or would be manifestly contrary to the public policy of Singapore;
 
-(d) for exceptional reasons beyond the control of the parties to the agreement, the agreement cannot reasonably be performed; or
+(d) the agreement cannot reasonably be performed for exceptional reasons beyond the control of the parties to the agreement; or
 
 (e) the chosen court has decided not to hear the case or proceeding.
 
@@ -391,7 +367,7 @@ FOREIGN JUDGMENTS AND ENFORCEMENT OF JUDICIAL SETTLEMENTS
 
 (a) must not review the merits of the foreign judgment, except to the extent necessary to apply the provisions of this Part; and
 
-(b) is bound by any findings of fact on which the court of origin assumed jurisdiction, unless the judgment was given by default.
+(b) is bound by any findings of fact on which the court of origin assumed jurisdiction, unless the foreign judgment was given by default.
 
 (4) Where a foreign judgment satisfies the requirements for recognition, or for recognition and enforcement, under this Part, the High Court must recognise, or recognise and enforce, as the case may be, the foreign judgment, except in the circumstances provided under this Part for the refusal of such recognition or enforcement.
 
@@ -399,7 +375,7 @@ FOREIGN JUDGMENTS AND ENFORCEMENT OF JUDICIAL SETTLEMENTS
 
 14\. The High Court must refuse to recognise or enforce a foreign judgment, or must set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces a foreign judgment, in any of the following circumstances, or in any other circumstances that the Minister may prescribe by regulations made under section 22:
 
-(a) the defendant in the proceedings in which the judgment was obtained was not notified of the document by which the proceedings were instituted or an equivalent document, including the essential elements of the claim, in sufficient time to enable the defendant to defend the proceedings, unless —
+(a) the defendant in the proceedings in which the foreign judgment was obtained was not notified of the document by which the proceedings were instituted or an equivalent document, including the essential elements of the claim, in sufficient time to enable the defendant to defend the proceedings, unless —
 
 (i) the law of the State of origin allows the notification to be challenged; and
 
@@ -413,11 +389,11 @@ FOREIGN JUDGMENTS AND ENFORCEMENT OF JUDICIAL SETTLEMENTS
 
 15\.—(1) The High Court may refuse to recognise or enforce a foreign judgment, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces a foreign judgment, in any of the following circumstances:
 
-(a) the exclusive choice of court agreement applicable to the dispute in relation to which the judgment was obtained is null and void under the law of the State of the chosen court, unless the chosen court has determined that the agreement is valid;
+(a) the exclusive choice of court agreement applicable to the dispute in relation to which the foreign judgment was obtained is null and void under the law of the State of the chosen court, unless the chosen court has determined that the agreement is valid;
 
-(b) a party to the exclusive choice of court agreement applicable to the dispute in relation to which the judgment was obtained lacked the capacity, under the law of Singapore, to enter into or conclude the agreement;
+(b) a party to the exclusive choice of court agreement applicable to the dispute in relation to which the foreign judgment was obtained lacked the capacity, under the law of Singapore, to enter into or conclude the agreement;
 
-(c) the defendant in the proceedings in which the judgment was obtained was notified of the document by which the proceedings were instituted or an equivalent document, including the essential elements of the claim, in a manner incompatible with the fundamental principles in Singapore concerning the service of documents;
+(c) the defendant in the proceedings in which the foreign judgment was obtained was notified of the document by which the proceedings were instituted or an equivalent document, including the essential elements of the claim, in a manner incompatible with the fundamental principles in Singapore concerning the service of documents;
 
 (d) the foreign judgment is inconsistent with a judgment given by a Singapore court in a dispute between the same parties;
 
@@ -431,11 +407,11 @@ FOREIGN JUDGMENTS AND ENFORCEMENT OF JUDICIAL SETTLEMENTS
 
 (b) the time for applying for a review of or for appealing against the foreign judgment in the State of origin has not expired.
 
-(3) A refusal to recognise or enforce a foreign judgment, the setting aside of an order (made pursuant to an application under section 13(1)) that recognises or enforces a foreign judgment, or a postponement of the recognition or enforcement of a foreign judgment, under subsection (2) does not preclude a subsequent application for the recognition, or recognition and enforcement, of that judgment when —
+(3) A refusal to recognise or enforce a foreign judgment, the setting aside of an order (made pursuant to an application under section 13(1)) that recognises or enforces a foreign judgment, or a postponement of the recognition or enforcement of a foreign judgment, under subsection (2), does not preclude a subsequent application for the recognition, or recognition and enforcement, of that foreign judgment when —
 
 (a) the review or appeal mentioned in subsection (2)(a) has been disposed of; or
 
-(b) the time for applying for a review or for appealing mentioned in subsection (2)(b) has expired.
+(b) the time for applying for a review of or for appealing against the foreign judgment mentioned in subsection (2)(b) has expired.
 
 (4) Where —
 
@@ -445,7 +421,7 @@ FOREIGN JUDGMENTS AND ENFORCEMENT OF JUDICIAL SETTLEMENTS
 
 (c) the other court issues a foreign judgment against a party to the case who objected in a timely manner to the transfer,
 
-the High Court may refuse to recognise or enforce that judgment against that party, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces that judgment against that party.
+the High Court may refuse to recognise or enforce that foreign judgment against that party, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces that foreign judgment against that party.
 
 ### Refusal of recognition or enforcement of foreign judgment awarding non-compensatory damages
 
@@ -457,7 +433,7 @@ the High Court may refuse to recognise or enforce that judgment against that par
 
 17\.—(1) If any excluded section 9(2) matter or excluded section 9(4)(a) matter arises as a preliminary question in any proceedings resulting in a foreign judgment, the High Court must not recognise or enforce under this Act, or must set aside an order (made pursuant to an application under section 13(1)) that purports to recognise or enforce, the ruling on that question.
 
-(2) Subject to subsection (3), if any excluded section 9(2) matter arises as a preliminary question in any proceedings resulting in a foreign judgment, the High Court may refuse to recognise or enforce the foreign judgment, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces the foreign judgment, to the extent that the judgment was based on a ruling on that question.
+(2) Subject to subsection (3), if any excluded section 9(2) matter arises as a preliminary question in any proceedings resulting in a foreign judgment, the High Court may refuse to recognise or enforce the foreign judgment, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces the foreign judgment, to the extent that the foreign judgment was based on a ruling on that question.
 
 (3) However, where the ruling mentioned in subsection (2) is on the validity of an intellectual property right (other than copyright or a related right), the High Court may refuse to recognise or enforce the foreign judgment based on that ruling, may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces the foreign judgment based on that ruling, or may postpone the recognition or enforcement of the foreign judgment based on that ruling, only if —
 
@@ -465,7 +441,7 @@ the High Court may refuse to recognise or enforce that judgment against that par
 
 (b) proceedings concerning the validity of the intellectual property right are pending in that State.
 
-(4) If any excluded section 9(4)(a) matter arises as a preliminary question in any proceedings resulting in a foreign judgment, the High Court may refuse to recognise or enforce the foreign judgment, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces the foreign judgment, to the extent that the judgment was based on a ruling on that question.
+(4) If any excluded section 9(4)(a) matter arises as a preliminary question in any proceedings resulting in a foreign judgment, the High Court may refuse to recognise or enforce the foreign judgment, or may set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces the foreign judgment, to the extent that the foreign judgment was based on a ruling on that question.
 
 (5) To avoid doubt, subsection (3) does not affect the powers of the High Court under subsection (4) and sections 14, 15 and 16 to refuse to recognise or enforce, or to set aside an order (made pursuant to an application under section 13(1)) that recognises or enforces, a foreign judgment mentioned in subsection (3).
 
@@ -475,7 +451,7 @@ the High Court may refuse to recognise or enforce that judgment against that par
 
 “excluded section 9(4)(a) matter” means any matter mentioned in section 9(4)(a) to which this Act does not apply.
 
-### Judgment based on contract of insurance or reinsurance
+### Foreign judgment based on contract of insurance or reinsurance
 
 18\. The High Court may not limit or refuse the recognition or enforcement of a foreign judgment in respect of liability under the terms of a contract of insurance or reinsurance on the ground that the liability under the contract includes liability to indemnify the insured or reinsured in respect of —
 
@@ -483,7 +459,7 @@ the High Court may refuse to recognise or enforce that judgment against that par
 
 (b) an award of damages to which section 16 may apply.
 
-### Recognition and enforcement of severable part of judgment
+### Recognition and enforcement of severable part of foreign judgment
 
 19\. Subject to sections 13 to 17, the High Court must recognise, or recognise and enforce, a severable part of a foreign judgment if —
 
@@ -525,7 +501,7 @@ MISCELLANEOUS
 
 ### Regulations
 
-22\.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act and for any matter which is required under this Act to be prescribed.
+22\.—(1) The Minister may make regulations for carrying out the purposes and provisions of this Act and for any matter that is required under this Act to be prescribed.
 
 (2) Without limiting subsection (1), the regulations may provide for the recognition and enforcement by the High Court of a judgment given by, and for the enforcement by the High Court of a judicial settlement approved by or concluded before, a court of a Contracting State (other than Singapore) designated in a choice of court agreement (not being an exclusive choice of court agreement), including —
 
@@ -547,39 +523,30 @@ MISCELLANEOUS
 
 ### Saving and transitional provisions
 
-24\.—(1) This Act does not apply to an exclusive choice of court agreement that designates a Singapore court as a chosen court, if the agreement is concluded before the date of commencement of this Act.
+24\.—(1) This Act does not apply to an exclusive choice of court agreement that designates a Singapore court as a chosen court, if the agreement is concluded before 1 October 2016.
 
 (2) This Act does not apply to an exclusive choice of court agreement that designates a court of another Contracting State as a chosen court, if the agreement is concluded before the Convention enters into force in that Contracting State.
 
-(3) This Act does not apply to any case instituted in a Singapore court before the date of commencement of this Act, or any application made (whether before, on or after the date of commencement of this Act) in any such case.
+(3) This Act does not apply to any case instituted in a Singapore court before 1 October 2016, or any application made (whether before, on or after 1 October 2016) in any such case.
 
-(4) For a period of 2 years after the date of commencement of this Act, the Minister may, by regulations, prescribe additional provisions of a saving or transitional nature consequent on the enactment of this Act.
+(4) For a period of 2 years after 1 October 2016, the Minister may, by regulations, prescribe additional provisions of a saving or transitional nature consequent on the enactment of this Act.
 
-## PART 5
+## LEGISLATIVE HISTORY
 
-RELATED AMENDMENTS TO OTHER ACTS
+Choice of Court Agreements Act
 
-### Related amendment to Reciprocal Enforcement of Commonwealth Judgments Act
+(CHAPTER 39A)
 
-25\. The Reciprocal Enforcement of Commonwealth Judgments Act (Cap. 264, 1985 Ed.) is amended by inserting, immediately after section 2, the following section:
+This Legislative History is provided for the convenience of users of the Choice of Court Agreements Act. It is not part of the Act.
 
-“
+||||
+|:-|:-|:-|
+|1.|**Act 14 of 2016—Choice of Court Agreements Act 2016**|
+||Date of First Reading|4 April 2016|
 
-Application
-
-2A\. This Act does not apply to any judgment which may be recognised or enforced in Singapore under the Choice of Court Agreements Act 2016.
-
-”.
-
-### Related amendment to Reciprocal Enforcement of Foreign Judgments Act
-
-26\. The Reciprocal Enforcement of Foreign Judgments Act (Cap. 265, 2001 Ed.) is amended by inserting, immediately after section 2, the following section:
-
-“
-
-Application
-
-2A\. This Act does not apply to any judgment which may be recognised or enforced in Singapore under the Choice of Court Agreements Act 2016.
-
-”.
-
+|
+(Bill No. 14/2016)|
+||Date of Second and Third Readings|14 April 2016|
+||Date of commencement|1 October 2016|
+|2.|**2017 Revised Edition—Choice of Court Agreements Act (Chapter 39A)**|
+||Date of operation|30 November 2017|
