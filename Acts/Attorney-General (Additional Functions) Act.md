@@ -1,14 +1,12 @@
-**Attorney-General (Additional Functions) Act 2014**
+**Attorney-General (Additional Functions) Act**
 
-**(No. 25 of 2014)**
+**(CHAPTER 16A)**
 
 **Table of Contents**
 
 [**Long Title**](#Attorney-General-Additional-Functions-Act)
 
-[**Enacting Formula**](#Enacting-Formula)
-
-- [1 Short title and commencement](#Short-title-and-commencement)
+- [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
@@ -20,64 +18,46 @@
 
 - [6 Amendment of Schedule](#Amendment-of-Schedule)
 
-- [7 Related amendment to Legal Profession Act](#Related-amendment-to-Legal-Profession-Act)
-
 [**THE SCHEDULE Relevant statutory boards**](#THE-SCHEDULE)
 
-REPUBLIC OF SINGAPORE
+[**Legislative History**](#Legislative-History)
 
-GOVERNMENT GAZETTE
+# Attorney-General
 
-ACTS SUPPLEMENT
-
-Published by Authority
-
-NO. 25]
-
-Friday, September 19
-
-[2014
-
-The following Act was passed by Parliament on 5th August 2014 and assented to by the President on 10th September 2014:—
-
-Attorney-General
+# 
 
 
+# (Additional Functions) Act
 
+(CHAPTER 16A)
 
-(Additional Functions) Act 2014
+(Original Enactment: Act 25 of 2014)
 
-(No. 25 of 2014)
+REVISED EDITION 2017
 
-I assent.
+(30 November 2017)
 
-TONY TAN KENG YAM,
+An Act to confer on the Attorney‑General certain functions in addition to functions conferred by or under the Constitution of the Republic of Singapore (1999 Reprint) and any other written law.
 
-President.
+This revised edition incorporates all amendments up to 1 November 2017.
 
-10th September 2014.
+[1 January 2015]
 
-Date of Commencement: 1st January 2015
+### Short title
 
-An Act to confer on the Attorney‑General certain functions in addition to functions conferred by or under the Constitution of the Republic of Singapore (1999 Reprint) and any other written law, and to make a related amendment to the Legal Profession Act (Chapter 161 of the 2009 Revised Edition).
-
-Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
-
-### Short title and commencement
-
-1\. This Act may be cited as the Attorney-General (Additional Functions) Act 2014 and shall come into operation on such date as the Minister may, by notification in theGazette, appoint.
+1\. This Act is the Attorney-General (Additional Functions) Act.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“administrative decision” means a decision of an administrative character which is, is proposed to be, or is required to be, made (whether or not in the exercise of a discretion and whether before, on or after the date of commencement of this Act) under any public Act;
+“administrative decision” means a decision of an administrative character which is, is proposed to be, or is required to be, made (whether or not in the exercise of a discretion and whether before, on or after 1 January 2015) under any public Act;
 
-“instrument of legislative character” includes an instrument of legislative character made before the date of commencement of this Act under any public Act;
+“instrument of legislative character” includes an instrument of legislative character made before 1 January 2015 under any public Act;
 
 “judicial review” includes proceedings instituted by way of —
 
-(a) an application in respect of an administrative decision for a Mandatory Order, a Prohibiting Order or a Quashing Order, or in respect of an instrument of legislative character for a Quashing Order; or
+(a) an application in respect of an administrative decision for a Mandatory Order, Prohibiting Order or Quashing Order, or in respect of an instrument of legislative character for a Quashing Order; or
 
 (b) an application for a declaration or an injunction, or any other suit or action, relating to or arising out of any administrative decision or instrument of legislative character;
 
@@ -97,11 +77,11 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (d) the Attorney‑General is of the opinion that such representation is not contrary to the public interest.
 
-(2) Any decision made by the Attorney‑General to, or not to, represent a relevant statutory board pursuant to subsection (1) shall be final and conclusive.
+(2) Any decision made by the Attorney‑General to, or not to, represent a relevant statutory board pursuant to subsection (1) is final and conclusive.
 
 ### Representing relevant statutory boards in other court proceedings
 
-4\.—(1) The Attorney‑General may represent a relevant statutory board in other proceedings in court (however instituted) not referred to in section 3(1) if —
+4\.—(1) The Attorney‑General may represent a relevant statutory board in other proceedings in court (however instituted) not mentioned in section 3(1), if —
 
 (a) the relevant statutory board makes a request to the Attorney‑General for such representation;
 
@@ -111,19 +91,15 @@ Be it enacted by the President with the advice and consent of the Parliament of 
 
 (d) the Attorney‑General is of the opinion that the proceedings concern a matter of public importance.
 
-(2) Any decision made by the Attorney‑General to, or not to, represent a relevant statutory board pursuant to subsection (1) shall be final and conclusive.
+(2) Any decision made by the Attorney‑General to, or not to, represent a relevant statutory board pursuant to subsection (1) is final and conclusive.
 
 ### Fees
 
-5\. The Attorney‑General may require a relevant statutory board to pay a fee of such reasonable amount as he determines for representing the relevant statutory board in any proceedings in court referred to in section 3 or 4, and that fee shall be a charge on the funds of that statutory board.
+5\. The Attorney‑General may require a relevant statutory board to pay a fee of such reasonable amount as the Attorney‑General determines for representing the relevant statutory board in any proceedings in court mentioned in section 3 or 4, and that fee is to be a charge on the funds of that statutory board.
 
 ### Amendment of Schedule
 
 6\. The President may, by order published in theGazette, amend the Schedule.
-
-### Related amendment to Legal Profession Act
-
-7\. Section 29(2) of the Legal Profession Act (Cap. 161) is amended by inserting, immediately after the word “Government” in paragraph (a), the words “, or on behalf of any statutory board pursuant to section 3(1) or 4(1) of the Attorney‑General (Additional Functions) Act 2014,”.
 
 ## THE SCHEDULE
 
@@ -133,133 +109,130 @@ Relevant statutory boards
 
 1. 
 
-Monetary Authority of Singapore.
+Building and Construction Authority
 
 2. 
 
-Singapore Land Authority.
+Casino Regulatory Authority of Singapore
 
 3. 
 
-Public Utilities Board.
-
-[S 17/2015 wef 21/01/2015]
+Central Provident Fund Board
 
 4. 
 
-National Parks Board.
-
-[S 63/2015 wef 10/02/2015]
+Civil Aviation Authority of Singapore
 
 5. 
 
-Info-communications Media Development Authority.
-
-[Act 22 of 2016 wef 01/10/2016]
+Energy Market Authority of Singapore
 
 6. 
 
-Housing and Development Board.
-
-[S 371/2015 wef 16/06/2015]
+Health Sciences Authority
 
 7. 
 
-Land Transport Authority of Singapore.
-
-[S 371/2015 wef 16/06/2015]
+Housing and Development Board
 
 8. 
 
-Public Transport Council.
-
-[S 371/2015 wef 16/06/2015]
+Info-communications Media Development Authority
 
 9. 
 
-Urban Redevelopment Authority.
+Inland Revenue Authority of Singapore
 
-[S 371/2015 wef 16/06/2015]
+10. 
 
-10. [Deleted by Act 22 of 2016 wef 01/10/2016 wef 01/10/2016]
+Intellectual Property Office of Singapore
 
 11. 
 
-National Environment Agency.
-
-[S 371/2015 wef 16/06/2015]
+Land Transport Authority of Singapore
 
 12. 
 
-Central Provident Fund Board.
-
-[S 371/2015 wef 16/06/2015]
+Maritime and Port Authority of Singapore
 
 13. 
 
-Building and Construction Authority.
-
-[S 371/2015 wef 16/06/2015]
+Monetary Authority of Singapore
 
 14. 
 
-Maritime and Port Authority of Singapore.
-
-[S 371/2015 wef 16/06/2015]
+National Environment Agency
 
 15. 
 
-Civil Aviation Authority of Singapore.
-
-[S 371/2015 wef 16/06/2015]
+National Heritage Board
 
 16. 
 
-SkillsFuture Singapore Agency
-
-[Act 24 of 2016 wef 03/10/2016]
+National Parks Board
 
 17. 
 
-Health Sciences Authority.
-
-[S 371/2015 wef 16/06/2015]
+Presidential Elections Committee
 
 18. 
 
-Intellectual Property Office of Singapore.
-
-[S 371/2015 wef 16/06/2015]
+Public Transport Council
 
 19. 
 
-Energy Market Authority of Singapore.
+Public Utilities Board
 
-[S 371/2015 wef 16/06/2015]
+20. 
 
-20. [Deleted by Act 22 of 2016 wef 01/10/2016 wef 01/10/2016]
+Singapore Land Authority
 
 21. 
 
-Casino Regulatory Authority of Singapore.
-
-[S 371/2015 wef 16/06/2015]
+SkillsFuture Singapore Agency
 
 22. 
 
-National Heritage Board.
+Urban Redevelopment Authority
 
-[S 371/2015 wef 16/06/2015]
+## LEGISLATIVE HISTORY
 
-23. 
+Attorney-General (Additional Functions) Act
 
-Inland Revenue Authority of Singapore.
+(CHAPTER 16A)
 
-[S 375/2016 wef 01/08/2016]
+This Legislative History is provided for the convenience of users of the Attorney‑General (Additional Functions) Act. It is not part of the Act.
 
-24. 
-
-Presidential Elections Committee.
-
-[S 278/2017 wef 01/06/2017]
-
+||||
+|:-|:-|:-|
+|1.|**Act 25 of 2014—Attorney-General (Additional Functions) Act 2014**|
+||Date of First Reading|7 July 2014|
+|||(Bill No. 19/2014)|
+||Date of Second and Third Readings|5 August 2014|
+||Date of commencement|1 January 2015|
+|2.|**G.N. No. S 17/2015—Attorney-General (Additional Functions) Act (Amendment of Schedule) Order 2015**|
+||Date of commencement|21 January 2015|
+|3.|**G.N. No. S 63/2015—Attorney-General (Additional Functions) Act (Amendment of Schedule) (No. 2) Order 2015**|
+||Date of commencement|10 February 2015|
+|4.|**G.N. No. S 293/2015—Attorney-General (Additional Functions) Act (Amendment of Schedule) (No. 3) Order 2015**|
+||Date of commencement|18 May 2015|
+|5.|**G.N. No. S 371/2015—Attorney-General (Additional Functions) Act (Amendment of Schedule) (No. 4) Order 2015**|
+||Date of commencement|16 June 2015|
+|6.|**G.N. No. S 375/2016—Attorney-General (Additional Functions) Act (Amendment of Schedule) Order 2016**|
+||Date of commencement|1 August 2016|
+|7.|**Act 22 of 2016—Info-Communications Media Development Authority Act 2016**|
+||(Amendments made by)||
+||Date of First Reading|11 July 2016|
+|||(Bill No. 21/2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 October 2016 (section 102(2))|
+|8.|**Act 24 of 2016—SkillsFuture Singapore Agency Act 2016**|
+||(Amendments made by)||
+||Date of First Reading|11 July 2016|
+|||(Bill No. 24/2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|3 October 2016 (section 78(2))|
+|9.|**G.N. No. S 278/2017—Attorney-General (Additional Functions) Act (Amendment of Schedule) Order 2017**|
+||Date of commencement|1 June 2017|
+|10.|**2017 Revised Edition—Attorney-General (Additional Functions) Act (Chapter 16A)**|
+||Date of operation|30 November 2017|
