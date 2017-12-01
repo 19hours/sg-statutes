@@ -2137,7 +2137,9 @@ Rhabdoviridae
 
 (a) Rabies virus
 
-(b) Vesicular stomatitis virus
+(b) Vesicular stomatitis virus (except Indiana vesiculovirus and New Jersey vesiculovirus)
+
+[S 652/2017 wef 01/12/2017]
 
 10. 
 
@@ -2196,6 +2198,12 @@ Bacillus anthracis, except for the attenuated strains devoid of —
 (b) plasmids pX01 and pX02
 
 [S 676/2007 wef 01/01/2008]
+
+1A. 
+
+Bacillus cereusbiovaranthracis
+
+[S 652/2017 wef 01/12/2017]
 
 2. 
 
@@ -2544,3 +2552,5 @@ This Legislative History is provided for the convenience of users of the Biologi
 ||Date of commencement|1 October 2011|
 |9.|**G.N. No. S 396/2015—Biological Agents and Toxins Act (Amendment of First, Second, Fifth and Eighth Schedules) Order 2015**|
 ||Date of commencement|1 July 2015|
+|10.|**G.N. No. S 652/2017—Biological Agents and Toxins Act (Amendment of First Schedule) Order 2017**|
+||Date of commencement|1 December 2017|
