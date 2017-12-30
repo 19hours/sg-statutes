@@ -42,7 +42,7 @@
 
 - [13 Warning notices](#Warning-notices)
 
-- [14 Prohibition on sale by vending machines](#Prohibition-on-sale-by-vending-machines)
+- [14 (Repealed)](#Repealed)
 
 - [15 Prohibition on importation, distribution and sale of harmful tobacco products](#Prohibition-on-importation-distribution-and-sale-of-harmful-tobacco-products)
 
@@ -52,7 +52,7 @@
 
 - [17A Prohibition of false or misleading packaging and labelling](#Prohibition-of-false-or-misleading-packaging-and-labelling)
 
-- [18 Power to license tobacco retailers, etc.](#Power-to-license-tobacco-retailers-etc)
+- [18 Licence required for dealing with tobacco products](#Licence-required-for-dealing-with-tobacco-products)
 
 - [19 Appointment of authorised officers](#Appointment-of-authorised-officers)
 
@@ -174,6 +174,10 @@ PRELIMINARY
 “imitation tobacco product” means any of the products referred to in section 16(1) or (2);
 
 [Act 9 of 2016 wef 01/08/2016]
+
+“licence” means an import and wholesale licence referred to in section 18(1) or (2), or a retail licence referred to in section 18(3);
+
+[Act 9 of 2016 wef 30/12/2017]
 
 “newspaper” includes any magazine, journal, periodical or any other publication containing news, intelligence, information or reports of occurrences, or any remarks, observations or comments in relation either to such news, intelligence, information or occurrences or to any other matter of interest to the public or any section of the public, issued in any language at regular or irregular intervals;
 
@@ -605,11 +609,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 9 of 2016 wef 01/08/2017]
 
-### Prohibition on sale by vending machines
-
-14\.—(1) No person shall place or cause or knowingly permit to be placed in any premises a vending machine containing any tobacco product that may be obtained by the insertion of any note, coin, token or similar object.
-
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+14\. [Repealed by Act 9 of 2016 wef 30/12/2017]
 
 ### Prohibition on importation, distribution and sale of harmful tobacco products
 
@@ -727,47 +727,63 @@ shall be deemed to be a tobacco product that a person must not import into Singa
 
 \*Section 17A came into operation on 1st March 2013 (S 418/2012).
 
-### Power to license tobacco retailers, etc.
+### Licence required for dealing with tobacco products
 
-18\.—(1) The Minister may by regulations require any person who —
+18\.—(1) A person must not import into Singapore any tobacco product, unless the person holds a valid import and wholesale licence.
 
-(a) imports;
+(2) A person must not do any of the following in Singapore except by the authority of and in accordance with a valid import and wholesale licence:
 
-(b) distributes;
+(a) distribute by wholesale any tobacco product;
 
-(c) sells or offers for sale;
+(b) sell or offer for sale by wholesale any tobacco product;
 
-(d) permits to be sold or offered for sale;
+(c) permit to be sold or offered for sale by wholesale any tobacco product;
 
-(e) has in his possession for sale,
+(d) have in the person’s possession for sale by wholesale any tobacco product.
 
-any tobacco product to be licensed by the Chief Executive.
+(3) A person must not do any of the following in Singapore except by the authority of and in accordance with a valid retail licence:
 
-[35/2002]
+(a) distribute by retail any tobacco product;
 
-[17/2010]
+(b) sell or offer for sale by retail any tobacco product;
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to any of the following matters:
+(c) permit to be sold or offered for sale by retail any tobacco product;
 
-(a) the class or classes of licences to be granted under regulations made under this section, the form and duration of licences, the terms and conditions upon which and the circumstances in which licences may be granted, held, suspended, cancelled, altered, extended, renewed or replaced and the fees payable in respect thereof;
+(d) have in the person’s possession for sale by retail any tobacco product.
 
-(b) a register to be kept of such licences, the particulars to be entered in the register and for the publication of the names of licensees;
+(4) In particular —
 
-(c) the form and manner in which an application for or renewal of a licence shall be made;
+(a) an import and wholesale licence may authorise the doing of any act in subsection (2) only at premises specified in the licence; and
 
-(d) requiring such information or security as he considers necessary in relation to the application for the grant or renewal of a licence;
+(b) a retail licence may authorise the doing of any action in subsection (3) only at a single point of sale within a retail outlet specified in the licence.
 
-(e) prescribing the books, records or accounts to be kept by licensees; and
+(5) A person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction —
 
-(f) providing for the exemption of any person or class of persons from the provisions of any regulations made under this section.
+(a) to a fine not exceeding $5,000, unless paragraph (b) applies; or
 
-(3) Any person who is aggrieved by a decision of the Chief Executive to refuse to grant or renew a licence or to revoke, suspend or cancel his licence may appeal against the decision to the Minister.
+(b) if the person has any previous qualifying conviction, to a fine not exceeding $10,000.
 
-[4/2001]
+(6) In subsection (5), “qualifying conviction” means —
 
-(4) A person required by regulations made under subsection (1) to be licensed, who carries out any activity referred to in subsection (1)(a) to (e) without a licence in force in respect of that activity shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
+(a) a conviction for an offence under subsection (5); or
 
-[35/2002]
+(b) a conviction for an offence under section 18(4) as in force immediately before the date of commencement of section 20 of the Tobacco (Control of Advertisements and Sale) (Amendment) Act 2016.
+
+(7) An application for a licence must be made to the Authority in writing in such form as the Authority may require.
+
+(8) Subject to subsection (9), the Authority may grant a licence on any terms and conditions, if the Authority is satisfied that the prescribed requirements for the grant of a licence are met.
+
+(9) No licence may be granted for the sale by wholesale or retail of any tobacco product by way of a vending machine.
+
+(10) Any person who is aggrieved by a decision of the Authority refusing to grant or renew a licence to the person, or revoking, suspending or cancelling the person’s licence, may appeal to the Minister —
+
+(a) within 14 days after receiving notice of the decision; or
+
+(b) within such extended period as the Minister may allow in any particular case.
+
+(11) To avoid doubt, nothing in subsection (1), (2) or (3) authorises any person to import, distribute, sell or offer for sale, permit to be sold or offered for sale, or have in the person’s possession for sale, any tobacco product that is prohibited under section 15.
+
+[Act 9 of 2016 wef 30/12/2017]
 
 ### Appointment of authorised officers
 
@@ -1141,6 +1157,18 @@ whichever is the lower.
 
 37\.—(1) The Minister may make such regulations as appear to him necessary or expedient for the purpose of carrying out the provisions of this Act.
 
+(1A) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to any of the following matters:
+
+(a) the class or classes of licences to be granted under section 18, the form and duration of the licences, the terms and conditions upon which and the circumstances in which the licences may be granted, held, suspended, cancelled, altered, extended, renewed or replaced and the fees payable in respect of the licences;
+
+(b) a register to be kept of the licences granted, the particulars to be entered in the register and for the publication of the names of licensees;
+
+(c) requiring such information or security as the Minister considers necessary in relation to the application for the grant or renewal of a licence;
+
+(d) prescribing the books, records or accounts to be kept by licensees.
+
+[Act 9 of 2016 wef 30/12/2017]
+
 (2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ## LEGISLATIVE HISTORY
@@ -1213,6 +1241,10 @@ This Legislative History is provided for the convenience of users of the Tobacco
 ||Date of First Reading|29 February 2016 (Bill No. 10/2016 published on 29 February 2016)|
 ||Date of Second and Third Readings|14 March 2016|
 ||Date of commencement|1 August 2017|
+|15.|**Act 9 of 2016—Tobacco (Control of Advertisements and Sale) (Amendment) Act 2016**|
+||Date of First Reading|29 February 2016 (Bill No. 10/2016 published on 29 February 2016)|
+||Date of Second and Third Readings|14 March 2016|
+||Date of commencement|30 December 2017|
 ## COMPARATIVE TABLE
 
 Tobacco (Control of Advertisements and Sale) Act
