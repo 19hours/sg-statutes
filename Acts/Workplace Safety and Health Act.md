@@ -74,6 +74,10 @@
 
 - [27 Notification and reporting of accidents, dangerous occurrences, etc.](#Notification-and-reporting-of-accidents-dangerous-occurrences-etc)
 
+- [27A Learning report of accident, etc.](#Learning-report-of-accident-etc)
+
+- [27B Learning report, etc., not admissible in evidence](#Learning-report-etc-not-admissible-in-evidence)
+
 [**Part VII SAFETY AND HEALTH MANAGEMENT ARRANGEMENTS**](#Part-VII)
 
 - [28 Workplace safety and health officers and co-ordinators](#Workplace-safety-and-health-officers-and-co-ordinators)
@@ -329,6 +333,10 @@ in connection with any trade, business, profession or undertaking carried on by 
 (b) includes pipes and appliances used in carrying any gas to the place where the gas is to be used;
 
 “inspector” means an inspector appointed under section 7(3) and includes the Commissioner and any Deputy Commissioner;
+
+“learning report” means a learning report prepared and published under section 27A;
+
+[Act 44 of 2017 wef 01/01/2018]
 
 “lift” includes any lifting appliance or lifting machine used for carrying persons, whether together with goods or otherwise;
 
@@ -1078,6 +1086,52 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [18/2011 wef 01/09/2011]
 
+### Learning report of accident, etc.
+
+27A\.—(1) Where the Commissioner considers it necessary in the interest of the public, or a section of the public, the Commissioner may prepare and publish a learning report on any accident, dangerous occurrence or occupational disease in a workplace that is the subject of an investigation under section 24.
+
+(2) The sole objective of publishing a learning report is to prevent or minimise the recurrence of any accident, dangerous occurrence or occupational disease in a workplace, and not to apportion blame or liability.
+
+(3) A learning report may be published before or after the conclusion of the investigation under section 24.
+
+(4) To avoid doubt, every learning report is, for the purpose of any law, to be treated as prepared and published by and on behalf of the Government and in the service of the Government.
+
+(5) A learning report on an accident, a dangerous occurrence or an occupational disease in a workplace may —
+
+(a) contain an account of the accident, dangerous occurrence or occupational disease;
+
+(b) specify the cause or causes of, and circumstances or factors leading to, the accident, dangerous occurrence or occupational disease insofar as they may be ascertained;
+
+(c) contain an opinion by a person with technical or specialised knowledge of the machinery, equipment, plant, article, process, substance, work or workplace involved in the accident, dangerous occurrence or occupational disease;
+
+(d) contain a warning of any danger or risk to the safety and health of persons at work or persons who may be affected by any undertaking carried on in the workplace;
+
+(e) contain any recommendation to prevent or minimise the recurrence of any similar accident, dangerous occurrence or occupational disease in a workplace; and
+
+(f) contain any other matter that the Commissioner considers relevant, taking into account the sole objective mentioned in subsection (2).
+
+[Act 44 of 2017 wef 01/01/2018]
+
+### Learning report, etc., not admissible in evidence
+
+27B\.—(1) Subject to subsection (3), a learning report, or any draft of the learning report, is not admissible in evidence in any civil, criminal, arbitral or disciplinary proceedings before any court, tribunal or body, or any proceedings under the Work Injury Compensation Act (Cap. 354).
+
+(2) An inspector is, in any proceedings mentioned in subsection (1), not compellable —
+
+(a) to produce or answer questions about any document or part of a document made by the inspector and contained in a learning report, or in any draft of the learning report; or
+
+(b) to give evidence on the preparation of a learning report, or any draft of the learning report.
+
+(3) Subsections (1) and (2) do not apply to the following:
+
+(a) an inquiry under section 26;
+
+(b) an inquiry under the Coroners Act (Cap. 63A);
+
+(c) an inquiry by a commission of inquiry or a committee of inquiry under the Inquiries Act (Cap. 139A).
+
+[Act 44 of 2017 wef 01/01/2018]
+
 ## PART VII
 
 SAFETY AND HEALTH
@@ -1756,7 +1810,7 @@ GENERAL
 
 ### Protection from personal liability
 
-61\.—(1) No action, suit or other legal proceedings shall lie personally against —
+61\.—(1) No liability shall lie personally against —
 
 (a) the Commissioner;
 
@@ -1764,11 +1818,13 @@ GENERAL
 
 (c) an inspector; or
 
-(d) an authorised examiner,
+(d) an authorised officer appointed by the Commissioner under section 7(3),
 
-for any damage done to any item specified in subsection (2) in the course of carrying out in good faith any prescribed examination or test of the item.
+who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
 
-(2) Subsection (1) shall apply only in respect of the following items:
+[Act 44 of 2017 wef 01/01/2018]
+
+(2) No liability shall lie personally against an authorised examiner who, acting in good faith and with reasonable care in the course of carrying out any prescribed examination or test, damages any one or more of the following items:
 
 (a) a hoist or lift;
 
@@ -1784,11 +1840,15 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (g) a refrigerating plant pressure receiver;
 
-(h) a pressure vessel; or
+(h) a pressure vessel;
+
+[Act 44 of 2017 wef 01/01/2018]
 
 (i) any other machinery required by this Act to be examined or tested by an authorised examiner.
 
-(3) No action, suit or other legal proceedings shall lie personally against the Commissioner or any Deputy Commissioner for anything done or omitted to be done in good faith in the course of or in connection with the performance or purported performance of any duty or function under section 21.
+[Act 44 of 2017 wef 01/01/2018]
+
+(3) [Deleted by Act 44 of 2017 wef 01/01/2018]
 
 ### Exempt workers, workplaces and equipment, etc.
 
@@ -1928,6 +1988,10 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 (r) the prevention or minimisation of risk of bodily injury or injury to health where any manufacture, machinery, equipment, installation, plant, article or process used or work carried out in any workplace involves such risk;
 
+(ra) the procedures for preparing and publishing a learning report;
+
+[Act 44 of 2017 wef 01/01/2018]
+
 (s) the arrangements to be made for the medical supervision and medical examination (not including medical treatment of a preventive character), and for the removal from exposure of risk of any person or any class of persons at work;
 
 (t) the health, safety and welfare in respect of the following types of work:
@@ -1968,7 +2032,13 @@ for any damage done to any item specified in subsection (2) in the course of car
 
 [9/2008]
 
-(3) The regulations made under this section may prescribe offences in respect of the contravention of any provision thereof, and may prescribe that fines not exceeding $20,000 and imprisonment not exceeding 2 years may, on conviction, be imposed in respect of any such offence.
+(3) The regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable —
+
+(a) in the case of an offence that may cause, or result in, any death or serious bodily injury to an individual or any dangerous occurrence in a workplace, with a fine not exceeding $50,000 or with imprisonment for a term not exceeding 2 years or with both; and
+
+(b) in the case of any other offence, with a fine not exceeding $20,000 or with imprisonment for a term not exceeding 2 years or with both.
+
+[Act 44 of 2017 wef 01/01/2018]
 
 (4) The regulations may impose duties on any person who has control or influence over any aspect of workplace safety or health, including but not limited to any occupier, owner, employer, manufacturer, designer or employed person.
 
@@ -2363,6 +2433,10 @@ The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|14 April 2014|
+|11.|**Act 44 of 2017—Workplace Safety and Health (Amendment) Act 2017**|
+||Date of First Reading|2 October 2017 (Bill No. 38/2017 published on 2 October 2017)|
+||Date of Second and Third Readings|6 November 2017|
+||Date of commencement|1 January 2018|
 ## COMPARATIVE TABLE
 
 Workplace Safety and Health Act
