@@ -1190,25 +1190,33 @@ the claim shall be deemed to have been disallowed and an amount equal to the amo
 
 (f) generally for giving full effect to or for carrying out the purposes of this section.
 
-(18A) Without affecting the generality of subsection (18)(b), the Minister may, in the case of a qualifying acquisition referred to in subsection (5), prescribe such conditions as the Minister considers necessary to ensure that the acquiring company or acquiring subsidiary is not merely a passive shareholder of the target company, including requiring the company or subsidiary to exert significant influence (within the meaning of FRS 28, or SFRS for Small Entities, as amended from time to time) over the target company.
+(18A) Without affecting the generality of subsection (18)(b), the Minister may, in the case of a qualifying acquisition referred to in subsection (5), prescribe such conditions as the Minister considers necessary to ensure that the acquiring company or acquiring subsidiary is not merely a passive shareholder of the target company, including requiring the company or subsidiary to exert significant influence (within the meaning of FRS 28, SFRS(I) 1‑28, or SFRS for Small Entities) over the target company.
 
 [Act 2 of 2016 wef 01/04/2015]
+
+[Act 32 of 2019 wef 01/01/2018]
 
 (19) In this section —
 
 “financial year”, in relation to a company, means the period in respect of which any profit and loss account of the company laid before it in general meeting is made up, whether that period is a year or not;
 
-“FRS 28” means the financial reporting standard known as Financial Reporting Standard 28 (Investments in Associates and Joint Ventures) made by the Accounting Standards Council under Part III of the Accounting Standards Act (Cap. 2B);
+“FRS 28”, “SFRS(I) 1-28” and “SFRS for Small Entities” mean the financial reporting standards known respectively as —
 
-[Act 2 of 2016 wef 01/04/2015]
+(a) Financial Reporting Standard 28 (Investments in Associates and Joint Ventures);
+
+(b) Singapore Financial Reporting Standard (International) 1-28 (Investments in Associates and Joint Ventures); and
+
+(c) Singapore Financial Reporting Standard for Small Entities,
+
+that are made by the Accounting Standards Council under Part III of the Accounting Standards Act (Cap. 2B), as amended from time to time;
+
+[Act 32 of 2019 wef 01/01/2018]
 
 “group of companies” means 2 or more companies each of which is either a holding company or subsidiary of the other or any of the others;
 
 “holding company” and “subsidiary” have the same meanings as in section 5 of the Companies Act (Cap. 50);
 
-“SFRS for Small Entities” means the financial reporting standard known as Singapore Financial Reporting Standard for Small Entities made by the Accounting Standards Council under Part III of the Accounting Standards Act;
-
-[Act 2 of 2016 wef 01/04/2015]
+[Deleted by Act 32 of 2019 wef 01/01/2018]
 
 “Singapore company” means a company which is incorporated in Singapore and resident in Singapore within the meaning of section 2(1) of the Income Tax Act (Cap. 134).
 
@@ -5556,6 +5564,10 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |79.|**Act 13 of 2017—Stamp Duties (Amendment) Act 2017**|
 ||Date of First, Second and Third Readings|10 March 2017 (Bill No. 18/2017 published on 10 March 2017)|
 ||Date of commencement|11 March 2017|
+|80.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
+||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
+||Date of Second and Third Readings|7 October 2019|
+||Date of commencement|1 January 2018|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
