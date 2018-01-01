@@ -124,6 +124,8 @@
 
 - [38 Customers to account for tax on certain supplies](#Customers-to-account-for-tax-on-certain-supplies)
 
+- [38A Customers to account for tax on relevant supplies of goods or services](#Customers-to-account-for-tax-on-relevant-supplies-of-goods-or-services)
+
 - [39 Supplies spanning change of rate, etc.](#Supplies-spanning-change-of-rate-etc)
 
 - [40 Adjustment of contracts on changes in tax](#Adjustment-of-contracts-on-changes-in-tax)
@@ -242,7 +244,7 @@
 
 - [86 Orders and regulations](#Orders-and-regulations)
 
-- [87 Service of notices](#Service-of-notices)
+- [87 Service of notices, etc.](#Service-of-notices-etc)
 
 - [88 Free postage](#Free-postage)
 
@@ -806,7 +808,9 @@ the resulting times or dates being in every case earlier than would otherwise ap
 
 (ii) it is a supply of goods for consideration the whole or part of which is determined at the time when the goods are appropriated for any purpose; or
 
-(iii) there is a supply to which sections 27, 37A and 38 apply; and
+(iii) there is a supply to which sections 27, 37A, 38 and 38A apply; and
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (b) prescribe when consideration for a supply of goods or services of a specified type, or provided in a specified manner, is to be regarded as having been received.
 
@@ -2516,7 +2520,13 @@ and “refiner” shall be construed accordingly.
 
 (b) is supplied in connection with the carrying on by him of any business,
 
-it shall be for the person supplied, on the supplier’s behalf, to account for and pay tax on the prescribed supply, and not for the supplier.
+then, it is for the person supplied to account for and pay tax on the prescribed supply as if the person supplied were the supplier; and the supplier must not require payment from the person supplied, of the tax on the prescribed supply or an amount as being attributable to the tax.
+
+[Act 37 of 2017 wef 01/01/2018]
+
+(2A) Nothing in subsection (2) prevents section 78(2) from applying to the person making the prescribed supply of goods or services if, despite that subsection, the person issues an invoice for the prescribed supply of goods or services showing it as taking place with tax chargeable on it.
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (3) So much of this Act and of any written law as has effect for the purposes of, or in connection with, the enforcement of any obligation to account for and pay goods and services tax shall apply for the purposes of this section in relation to any person who is required under subsection (2) to account for and pay any tax as if that tax were tax on a supply made by him.
 
@@ -2542,11 +2552,79 @@ it shall be for the person supplied, on the supplier’s behalf, to account for 
 
 (b) services relating to, or to anything containing, any precious or semi-precious metal or stones;
 
-(c) goods or services comprising in or relating to land or any interest in or right over land,
+(c) goods or services comprising in or relating to land or any interest in or right over land; or
+
+[Act 37 of 2017 wef 01/01/2018]
+
+(d) goods consisting in furniture, furnishings, fittings, appliances or effects that are supplied together with any goods or services mentioned in paragraph (c),
+
+[Act 37 of 2017 wef 01/01/2018]
 
 as may be specified or described in regulations made by the Minister.
 
 [UK VAT Act 1983, s. 37C]
+
+### Customers to account for tax on relevant supplies of goods or services
+
+38A\.—(1) This section applies in circumstances where a taxable person (called in this section the supplier) makes a relevant supply of goods or services to a person (called in this section the customer) who is registered under this Act at the time when the relevant supply is made.
+
+(2) Where the relevant supply of goods or services is made by the supplier in connection with the carrying on by the customer of any business, then, it is for the customer to account for and pay tax on the relevant supply as if the customer were the supplier; and the supplier must not require payment from the customer, of the tax on the relevant supply or an amount as being attributable to the tax.
+
+(3) Nothing in subsection (2) prevents section 78(2) from applying to the supplier if, despite that subsection, the supplier issues an invoice for the relevant supply of goods or services showing it as taking place with tax chargeable on it.
+
+(4) So much of this Act and of any written law as has effect for the purposes of, or in connection with, the enforcement of any obligation to account for and pay goods and services tax apply for the purposes of this section in relation to the customer, as if the tax were tax on a supply made by the customer.
+
+(5) If the relevant supply of goods or services is not made by the supplier to the customer in connection with the carrying on by the customer of any business, the customer must notify the supplier of that fact; and if the customer fails to do so, the customer must, unless otherwise allowed by the Comptroller —
+
+(a) pay to the Comptroller without demand the amount of tax chargeable on the relevant supply to which the failure relates; and
+
+(b) include the amount of tax mentioned in paragraph (a) as output tax in the customer’s return.
+
+(6) The Minister may make regulations under this section for any of the following:
+
+(a) to prescribe a supply of goods or services for the purposes of the definition of “relevant supply of goods or services” in subsection (10), by reference to one or both of the following:
+
+(i) any use which is made of the goods or services;
+
+(ii) any other matter whether or not related to a description or characteristic of the goods or services;
+
+(b) to provide for the application (with such modification as may be prescribed) of this section to a case where —
+
+(i) the value of a relevant supply of goods or services is increased by an amount (I) after the supply is made; or
+
+(ii) the value of a supply of goods or services is increased by an amount (I) after the supply is made, such that it becomes a relevant supply of goods or services,
+
+including by treating a separate supply of goods or services as having taken place with a value equal toI;
+
+(c) to require, in a case where —
+
+(i) the value of a relevant supply of goods or services is adjusted after the supply is made; or
+
+(ii) the value of a supply of goods or services is increased after the supply is made, such that it becomes a relevant supply of goods or services,
+
+the supplier or customer, or both, to make corresponding adjustments to the tax accounted for or paid, or to be accounted for or paid, in the form and manner required by the Comptroller;
+
+(d) generally for the purpose of carrying out the provisions of this section.
+
+(7) The regulations made under subsection (6) may make different provisions for different circumstances (including the circumstances under which paragraph (c) of the definition of “relevant supply of goods or services” in subsection (10) does not apply).
+
+(8) This section does not apply to any supply of goods or services prescribed as a prescribed supply under section 38.
+
+(9) To avoid doubt, relevant supplies of goods or services are not taxable supplies of the customer for the purposes of the First Schedule.
+
+(10) In this section —
+
+“excepted supply” means any supply of goods or services that is prescribed as an excepted supply;
+
+“relevant supply of goods or services” means any taxable supply of goods or services that is prescribed for the purpose of this definition, but not if —
+
+(a) the supply is a zero‑rated supply;
+
+(b) the supply is an excepted supply; or
+
+(c) the value of the supply does not exceed the threshold that is prescribed for the purpose of this definition for that supply (where applicable).
+
+[Act 37 of 2017 wef 01/01/2018]
 
 ### Supplies spanning change of rate, etc.
 
@@ -2712,9 +2790,17 @@ ACCOUNTING AND ASSESSMENTS
 
 [20/2010 wef 01/01/2011]
 
-(b) require taxable persons supplying goods or services to other taxable persons to provide them with invoices (referred to in this section as tax invoices) containing statements of such particulars as may be so specified including but not limited to particulars of the supply, the tax chargeable on it and the persons by and to whom the goods or services are supplied;
+(b) require any taxable person supplying goods or services to any other person to provide the other person with an invoice (called in this section a tax invoice if it is required by the regulations to be provided to a taxable person) containing statements of such particulars as may be specified in the regulations, including but not limited to any of the following:
 
-[20/2010 wef 01/01/2011]
+(i) the particulars of the supply;
+
+(ii) the tax chargeable on it;
+
+(iii) the person by whom the goods or services are supplied;
+
+(iv) the person to whom the goods or services are supplied;
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (c) provide for the circumstances in which a document by a taxable person purporting to be a tax invoice in respect of a supply of goods or services to him by another taxable person, is to be treated as a tax invoice required under paragraph (b) to be provided by the taxable person supplying the goods or services; and
 
@@ -2726,7 +2812,13 @@ ACCOUNTING AND ASSESSMENTS
 
 [Act 19/2012 wef 01/10/2012]
 
-(2) Regulations made under this section may, where they require a tax invoice to be provided in connection with any description of supply, require it to be provided within a prescribed time after the supply is treated as taking place, and may allow for that time to be extended in accordance with general or special directions given by the Comptroller.
+(1A) Without affecting paragraph (b) of subsection (1), regulations made under that paragraph may provide that the Comptroller may, for the protection of revenue, direct any taxable person in writing to include in any invoice (whether or not a tax invoice) provided by the taxable person, statements of particulars that are required by the Comptroller.
+
+[Act 37 of 2017 wef 01/01/2018]
+
+(2) Regulations made under this section may, where they require an invoice to be provided in connection with any description of supply, require it to be provided within a prescribed time after the supply is treated as taking place, and may allow for that time to be extended in accordance with general or special directions given by the Comptroller.
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (3) Regulations made under this section may make special provision for such taxable supplies by retailers of any goods or of any description of goods or of services or any description of services as may be determined by or under the regulations and, in particular —
 
@@ -2860,15 +2952,15 @@ through an electronic service.
 
 [20/2010 wef 01/01/2011]
 
-(7) Where any person has given his consent for any notice, direction, order, permit, receipt or other document to be served on him through an electronic service, the Comptroller may serve that document on that person by transmitting an electronic record of that document to that person’s account with an electronic service.
+(7) Subject to section 87, where regulations made under subsection (13) permit the Comptroller to serve through the electronic service any notice, direction, order, permit, receipt or other document on a person who has been assigned an account with the electronic service, the Comptroller may serve it on the person by transmitting an electronic record of it to that account.
 
-[50/2004]
-
-[20/2010 wef 01/01/2011]
+[Act 37 of 2017 wef 01/01/2018]
 
 (8) Notwithstanding any other written law, in any proceedings under this Act —
 
-(a) an electronic record of any return, declaration, document, application or information that was filed or submitted, or any notice, direction, order, permit, receipt or document that was served, through an electronic service; or
+(a) an electronic record of any return, declaration, document, application or information that was filed or submitted, or any notice, direction, order, permit, receipt or document that was served, through an electronic service in accordance with regulations made under subsections (13) and (13A), and with section 87; or
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (b) any copy or print-out of that electronic record,
 
@@ -2934,15 +3026,39 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 [20/2010 wef 01/01/2011]
 
-(c) the manner in which a person who has given his consent for a notice, a direction, an order, a permit, a receipt or any other document to be served on him through an electronic service shall be notified of the transmission of an electronic record of that document to his account with an electronic service;
+(ba) the circumstances in which the Comptroller may serve any notice, direction, order, permit, receipt or other document through the electronic service on a person assigned an account with the electronic service;
 
-[20/2010 wef 01/01/2011]
+[Act 37 of 2017 wef 01/01/2018]
+
+(c) the manner in which a person who has been served through the electronic service with any notice, direction, order, permit, receipt or other document is to be notified of the transmission of an electronic record of it to the person’s account with the electronic service;
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (d) the manner in which authentication codes are to be assigned; and
 
 (e) anything which may be prescribed under this section.
 
 [50/2004]
+
+(13A) Regulations made for the purpose of subsection (13)(ba) —
+
+(a) may permit the service of any notice, direction, order, permit, receipt or other document through the electronic service in circumstances where —
+
+(i) the person consents to such service; or
+
+(ii) the Comptroller gives the person notice of the Comptroller’s intention of such service and the person does not refuse such service;
+
+(b) may provide for the giving of any notice of the Comptroller’s intention, or the person’s consent or refusal, mentioned in paragraph (a), including —
+
+(i) the matters that must be contained in the notice; and
+
+(ii) the time within which, and the form and manner in which, the consent or refusal must be received by the Comptroller;
+
+(c) may provide when the consent or refusal of the person takes effect, and as to when the Comptroller must give effect to such consent or refusal; and
+
+(d) may provide for any other matter necessary or incidental to the purposes in subsection (13)(ba) and paragraphs (a), (b) and (c).
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (14) In this section, “electronic service” means any service established or approved by the Comptroller for any or all of the purposes in subsection (1).
 
@@ -3050,15 +3166,23 @@ make a supplementary assessment of the amount of the excess and shall notify the
 
 (b) his accounts as required by regulations made under section 41;
 
-(c) copies of all tax invoices and receipts issued by him;
+(c) copies of all invoices and receipts issued by him;
 
-(d) tax invoices received by him;
+[Act 37 of 2017 wef 01/01/2018]
+
+(d) invoices received by him;
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (e) documentation relating to importations and exportations by him;
 
 (f) all credit notes, debit notes or other documents which evidence an increase or decrease in consideration that are received, and copies of all such documents issued by him; and
 
 (g) such other records as may be prescribed.
+
+(1A) Without affecting subsection (1), the Comptroller may, for the protection of revenue, direct in writing any taxable person to keep records of the models and serial numbers of any goods supplied to or by the taxable person; and the taxable person must comply with the direction.
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (2) Any records kept in pursuance of this section shall be preserved —
 
@@ -3070,7 +3194,13 @@ make a supplementary assessment of the amount of the excess and shall notify the
 
 (3) The duty under this section to preserve records may be discharged by the preservation of the information contained therein by such means as the Comptroller may approve.
 
-(3A) Where the information is so preserved, a copy of any document forming part of the records shall, subject to subsections (4) and (5), be admissible in evidence in any proceedings, whether civil or criminal, to the same extent as the records themselves.
+(3AA) Without affecting subsection (3), the Comptroller may direct in writing any taxable person to keep or preserve, or both keep and preserve, by any electronic means specified in the direction, any records under subsection (1) or (1A) of the taxable person as the Minister may prescribe; and the taxable person must comply with the direction.
+
+[Act 37 of 2017 wef 01/01/2018]
+
+(3A) Where the information is preserved in accordance with subsection (3) or (3AA), a copy of any document forming part of the records shall, subject to subsections (4) and (5), be admissible in evidence in any proceedings, whether civil or criminal, to the same extent as the records themselves.
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (4) The Comptroller may, as a condition of approving under subsection (3) any means of preserving information contained in any records, impose such reasonable requirements as appear to him necessary for securing that the information will be as readily available to him as if the records themselves had been preserved.
 
@@ -4300,9 +4430,9 @@ GENERAL PROVISIONS
 
 [Income Tax 1992 Ed., s. 7 (3)]
 
-### Service of notices
+### Service of notices, etc.
 
-87\.—(1) Except where it is provided by this Act that service shall be effected either personally or by registered post, every notice, direction, order or document required or authorised by this Act to be served on any person may be served —
+87\.—(1) Except where it is provided by this Act that service shall be effected either personally or by registered post, every notice, direction, order, permit, receipt or other document required or authorised by this Act to be served on any person may be served —
 
 (a) by delivering it to the person or to some adult member or employee of his family at his last known place of residence;
 
@@ -4310,9 +4440,13 @@ GENERAL PROVISIONS
 
 (c) by sending it by ordinary post addressed to the person at his usual or last known place of residence or business; or
 
-(d) where the person has given his consent for it to be served on him through the electronic service, by transmitting an electronic record of it to his account with the electronic service.
+(d) through the electronic service in accordance with regulations made under section 42(13) and (13A), by transmitting an electronic record of it to his account with the electronic service.
 
 [25/96; 50/2004]
+
+[Act 37 of 2017 wef 01/01/2018]
+
+[Act 37 of 2017 wef 01/01/2018]
 
 (2) Where a notice is served by ordinary or registered post, it shall be deemed to have been duly served at the time the notice would have been received in the ordinary course of post if the notice is addressed —
 
@@ -4324,9 +4458,9 @@ GENERAL PROVISIONS
 
 (3) Where any notice is served by registered post in accordance with subsection (2), in proving service of the notice, it shall be sufficient to prove that the envelope containing the notice was properly addressed, stamped and posted by registered post.
 
-(3A) Where a person has given his consent for a notice to be served on him through the electronic service, the notice shall be deemed to have been served at the time when an electronic record of the notice enters his account with the electronic service.
+(3A) Where any notice, direction, order, permit, receipt or other document is served on any person through the electronic service under subsection (1)(d), the notice, direction, order, permit, receipt or other document is taken to have been served at the time when an electronic record of it enters the person’s account with the electronic service.
 
-[50/2004]
+[Act 37 of 2017 wef 01/01/2018]
 
 (4) Subject to subsection (7), every notice to be given by the Comptroller under this Act shall be signed by the Comptroller or by some person or persons from time to time authorised by him in that behalf.
 
@@ -4338,11 +4472,15 @@ GENERAL PROVISIONS
 
 [50/2004]
 
-(7) Where a person has given his consent for any notice referred to in subsection (4) or (6) to be served on him through the electronic service, the notice need not be signed if it is served on him by transmitting an electronic record of the notice to his account with the electronic service.
+(7) Where any notice mentioned in subsection (4) or (6) is served on any person through the electronic service under subsection (1)(d), the notice need not be signed if it is served on him by transmitting an electronic record of the notice to his account with the electronic service.
 
 [Income Tax 1992 Ed., s. 8]
 
+[Act 37 of 2017 wef 01/01/2018]
+
 [50/2004]
+
+[Act 37 of 2017 wef 01/01/2018]
 
 ### Free postage
 
@@ -5116,13 +5254,27 @@ Land
 
 2. The grant, assignment or surrender of any interest in or right over land of any of the following descriptions or of any licence to occupy such land:
 
-(a) any vacant land zoned “Residential” or “Rural Centre and Settlement” in the Master Plan under the Planning Act (Cap. 232) and used or to be used for residential purposes or for the purposes of condominium development;
+(a) any vacant land zoned “Residential” in the Master Plan under the Planning Act (Cap. 232) and used or to be used for residential purposes or for the purposes of condominium development;
 
-(b) any vacant land approved exclusively for residential or condominium development where the supply is made by such public or statutory authority as may be approved by the Minister or such other person as he may appoint; or
+[Act 37 of 2017 wef 01/01/2018]
 
-(c) any land or part thereof with any building, flat or tenement thereon, being a building, flat or tenement which is used or to be used principally for residential purposes.
+(b) any land where the supply is made by the Government or such public authority as may be approved by the Minister or such other person as the Minister may appoint, and the land —
 
-[20/2010 wef 01/01/2011]
+(i) is approved exclusively for residential or condominium development; and
+
+(ii) is vacant, or has any building on it that is required by the Government or the public authority to be demolished;
+
+[Act 37 of 2017 wef 01/01/2018]
+
+(c) any land or part of any land with any building on the land or part, being a building which is used or to be used principally for residential purposes, but not if —
+
+(i) the land or part is supplied by the Government or such public authority as may be approved by the Minister or such other person as the Minister may appoint;
+
+(ii) the building on the land or part is required by the Government or the public authority to be demolished; and
+
+(iii) the land or part (with the building demolished) is not approved exclusively for residential or condominium development.
+
+[Act 37 of 2017 wef 01/01/2018]
 
 Part II
 
@@ -5361,6 +5513,10 @@ and the money provided by the provider of the financing for the joint purchase o
 [Act 19/2012 wef 01/10/2012]
 
 [28/2007 wef 17/02/2006]
+
+“public authority” means a body established or constituted by or under a public Act to perform or discharge a public function;
+
+[Act 37 of 2017 wef 01/01/2018]
 
 “qualifying Islamic financial arrangement” means an arrangement which is endorsed by anyShari’ahcouncil or body or by any committee formed for the purpose of providing guidance on compliance withShari’ahlaw, and —
 
@@ -6167,6 +6323,10 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|11 September 2017 (Bill No. 34/2017 published on 11 September 2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|27 October 2017|
+|64.|**Act 37 of 2017—Goods and Services Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017 (Bill No. 34/2017 published on 11 September 2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|1 January 2018|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
