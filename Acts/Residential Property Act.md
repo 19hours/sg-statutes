@@ -2070,11 +2070,15 @@ Provided that in every such case no term in any such agreement, lease or deed of
 
 (ii) an approved developer under Part IVB of the Housing and Development Act;
 
-(g) prevent the transfer to any foreign person of an estate or interest in any residential property sold under Part IV or IVB of the Housing and Development Act or Part IV of the Jurong Town Corporation Act (Cap. 150) in any case where —
+(g) prevent the transfer to any foreign person of an estate or interest in any residential property sold under Part IV or IVB of the Housing and Development Act in any case where —
 
-(i) the prior written consent of the Housing and Development Board or the Jurong Town Corporation, as the case may be, has been obtained; and
+(i) the prior written consent of the Housing and Development Board has been obtained; and
+
+[Act 34 of 2017 wef 01/01/2018]
 
 (ii) no instrument has been registered in respect of that residential property under section 126 of the Land Titles (Strata) Act (Cap. 158) (whether alone or read with section 126A of that Act, as the case may be); or
+
+[Act 34 of 2017 wef 01/01/2018]
 
 (h) apply to any direct purchase or acquisition on or after 11th September 1973 by any foreign person from the Government of any estate or interest in any residential property other than by a re-grant of State title on or after that date to a foreign company upon the surrender of any estate or interest in residential property existing before that date.
 
@@ -2245,17 +2249,9 @@ Description of flats
 All those flats located in the building known as Pearl Bank Apartments and which are hereinafter described:
 
 Reference to Subsidiary
-
-
-
-
 Strata Land-Register
 
 Town
-
-
-
-
 Subdivision
 
 Description of flats
@@ -2662,3 +2658,7 @@ This Legislative History is provided for the convenience of users of the Residen
 |||(Bill No. 30/2010 published on 18 October 2010)|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|17 January 2011|
+|17.|**Act 34 of 2017—Jurong Town Corporation (Amendment) Act 2017**|
+||Date of First Reading|1 August 2017 (Bill No. 28/2017 published on 1 August 2017)|
+||Date of Second and Third Readings|11 September 2017|
+||Date of commencement|1 January 2018|
