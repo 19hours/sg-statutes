@@ -446,9 +446,11 @@ such number of inspecting officers as may be required for the purposes of this A
 
 (a) shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224); and
 
-(b) in relation to their administration, assessment, collection or enforcement of payment of composition sums or financial penalties, shall be deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109), and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+(b) in relation to their administration, assessment, collection or enforcement of payment of composition sums or financial penalties under any Act administered by the Board, shall be deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109), and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
 
 [Act 7 of 2014 wef 07/10/2014]
+
+[Act 47 of 2017 wef 01/01/2018]
 
 ### Payments to Board
 
@@ -1321,3 +1323,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|20 January 2014 (Bill No. 2/2014 published on 20 January 2014)|
 ||Date of Second and Third Readings|17 February 2014|
 ||Date of commencement|7 October 2014|
+|15.|**Act 47 of 2017—Travel Agents (Amendment) Act 2017**|
+||Date of First Reading|2 October 2017 (Bill No. 41/2017 published on 2 October 2017)|
+||Date of Second and Third Readings|7 November 2017|
+||Date of commencement|1 January 2018|
