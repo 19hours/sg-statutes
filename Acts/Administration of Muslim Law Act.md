@@ -26,7 +26,7 @@
 
 - [7A Chief Executive](#Chief-Executive)
 
-- [8 Secretary](#Secretary)
+- [8 (Repealed)](#Repealed)
 
 - [9 Determination of appointment](#Determination-of-appointment)
 
@@ -50,7 +50,7 @@
 
 - [19 Powers of President](#Powers-of-President)
 
-- [20 Duties and powers of Secretary](#Duties-and-powers-of-Secretary)
+- [20 Duties and powers of Chief Executive](#Duties-and-powers-of-Chief-Executive)
 
 - [21 Minutes](#Minutes)
 
@@ -588,15 +588,7 @@ MAJLIS UGAMA ISLAM
 
 [Act 35 of 2005 wef 07/08/2013]
 
-### Secretary
-
-8\.—(1) The Secretary of the Majlis shall be a Muslim public officer and shall be appointed by the Minister.
-
-(2) The Secretary shall be entitled to attend all meetings of the Majlis but shall not have the right to vote.
-
-(3) In the event of the temporary absence or incapacity of the Secretary, the Minister may appoint a person to act temporarily on his behalf.
-
-[35/2005]
+8\. [Repealed by Act 33 of 2017 wef 01/01/2018]
 
 ### Determination of appointment
 
@@ -604,7 +596,9 @@ MAJLIS UGAMA ISLAM
 
 (a) upon his death;
 
-(b) if, by writing addressed to the President of Singapore through the Secretary, he resigns such appointment; or
+(b) if, by writing addressed to the President of Singapore through the Chief Executive, he resigns such appointment; or
+
+[Act 33 of 2017 wef 01/01/2018]
 
 (c) if he is absent from Singapore, without written permission from the President on behalf of the President of Singapore, for a period exceeding 3 months.
 
@@ -654,7 +648,9 @@ MAJLIS UGAMA ISLAM
 
 16\.—(1) The corporate seal of the Majlis shall not be used except in pursuance of a resolution of the Majlis.
 
-(2) The corporate seal of the Majlis shall be affixed in the presence of the Secretary and 2 members of the Majlis who shall sign as witnesses.
+(2) The corporate seal of the Majlis shall be affixed in the presence of the Chief Executive and 2 members of the Majlis who shall sign as witnesses.
+
+[Act 33 of 2017 wef 01/01/2018]
 
 (3) The following documents shall be executed under the corporate seal of the Majlis:
 
@@ -672,13 +668,21 @@ MAJLIS UGAMA ISLAM
 
 ### Summoning meeting
 
-18\.—(1) All meetings of the Majlis shall be summoned by the Secretary.
+18\.—(1) All meetings of the Majlis shall be summoned by the Chief Executive.
 
-(2) The President may at any time direct the Secretary to summon a meeting.
+[Act 33 of 2017 wef 01/01/2018]
 
-(3) Any 4 members of the Majlis may at any time in writing require the Secretary to summon a meeting of the Majlis, but shall upon doing so inform the Secretary of the purpose for which they desire the meeting to be so summoned.
+(2) The President may at any time direct the Chief Executive to summon a meeting.
 
-(4) The Secretary shall within 7 days of receipt of a direction or requisition under subsection (2) or (3) summon a meeting.
+[Act 33 of 2017 wef 01/01/2018]
+
+(3) Any 4 members of the Majlis may at any time in writing require the Chief Executive to summon a meeting of the Majlis, but shall upon doing so inform the Chief Executive of the purpose for which they desire the meeting to be so summoned.
+
+[Act 33 of 2017 wef 01/01/2018]
+
+(4) The Chief Executive shall within 7 days of receipt of a direction or requisition under subsection (2) or (3) summon a meeting.
+
+[Act 33 of 2017 wef 01/01/2018]
 
 (5) At least 7 days’ notice in writing shall be given of any meeting except that in an emergency the President may direct that notice be dispensed with.
 
@@ -698,15 +702,17 @@ MAJLIS UGAMA ISLAM
 
 [35/2005]
 
-### Duties and powers of Secretary
+### Duties and powers of Chief Executive
 
-20\. Subject to such directions as may be given to him by the President, the Secretary shall —
+20\. Subject to such directions as may be given to him by the President, the Chief Executive shall —
 
 (a) have charge of all correspondence and documents of the Majlis, including all books of account thereof and all title deeds and securities;
 
 (b) be generally responsible for the proper collection of, accounting for and disposal of all funds of the Majlis; and
 
 (c) in all other respects, carry out such duties as may be imposed upon him by this Act or allotted to him by direction of the President.
+
+[Act 33 of 2017 wef 01/01/2018]
 
 ### Minutes
 
@@ -734,15 +740,21 @@ MAJLIS UGAMA ISLAM
 
 ### Certified copy of resolution
 
-23\.—(1) A copy of any resolution certified by the Secretary to be a true copy of the resolution shall be sufficient evidence thereof.
+23\.—(1) A copy of any resolution certified by the Chief Executive to be a true copy of the resolution shall be sufficient evidence thereof.
 
-(2) All courts shall take notice of the signature of the Secretary.
+[Act 33 of 2017 wef 01/01/2018]
+
+(2) All courts shall take notice of the signature of the Chief Executive.
+
+[Act 33 of 2017 wef 01/01/2018]
 
 ### Appearance by Majlis, etc.
 
-24\.—(1) The Majlis may appear in any court by its President or Secretary or by any person appointed for the purpose either generally or in any particular case under the seal of the Majlis.
+24\.—(1) The Majlis may appear in any court by its President or Chief Executive or by any person appointed for the purpose either generally or in any particular case under the seal of the Majlis.
 
 [29/2008]
+
+[Act 33 of 2017 wef 01/01/2018]
 
 (2) Notwithstanding any written law to the contrary, where the Mufti has been summoned to attend before any court to give an opinion or evidence relating to Muslim law, the Mufti may, if he considers that the circumstances of the case do not require him to appear in court in person, certify his opinion to the court or appoint any person to appear in court on his behalf, unless the court subsequently directs otherwise.
 
@@ -750,9 +762,11 @@ MAJLIS UGAMA ISLAM
 
 ### Acting in emergency
 
-525\.—(1) In any case of emergency the President may, after consultation with the Mufti, the Chief Executive and the Secretary, do or direct to be done on behalf of the Majlis any act or thing which might lawfully be done by resolution of the Majlis.
+525\.—(1) In any case of emergency the President may, after consultation with the Mufti and the Chief Executive, do or direct to be done on behalf of the Majlis any act or thing which might lawfully be done by resolution of the Majlis.
 
 [Act 35 of 2005 wef 07/08/2013]
+
+[Act 33 of 2017 wef 01/01/2018]
 
 (2) In any such case, a meeting of the Majlis shall be called within one week thereafter for the purpose of ratifying and confirming the action taken and, if the Majlis shall decline to ratify and confirm the same, the Minister may give such directions thereon as he thinks fit.
 
@@ -834,9 +848,13 @@ MAJLIS UGAMA ISLAM
 
 ### Ruling of Legal Committee (Fatwa)
 
-32\.—(1) Any person may, by letter addressed to the Secretary, request the Majlis to issue a fatwa or ruling on any point of the Muslim law.
+32\.—(1) Any person may, by letter addressed to the Chief Executive, request the Majlis to issue a fatwa or ruling on any point of the Muslim law.
 
-(2) On receiving any such request, the Secretary shall forthwith submit the same to the chairman of the Legal Committee.
+[Act 33 of 2017 wef 01/01/2018]
+
+(2) On receiving any such request, the Chief Executive shall forthwith submit the same to the chairman of the Legal Committee.
+
+[Act 33 of 2017 wef 01/01/2018]
 
 (3) The Legal Committee shall consider every such request and shall, unless in its opinion the question referred is frivolous or for other good reason ought not to be answered, prepare a draft ruling thereon.
 
@@ -1633,6 +1651,32 @@ FINANCIAL PROVISIONS
 61\.—(1) The income of a wakaf or nazar shall be applied in accordance with the lawful provisions set out in the instrument or declaration creating, governing or affecting the wakaf or nazar.
 
 (2) Where there is no specific provision in such instrument or declaration for the expenditure of the wakaf or nazar, the income shall be paid to and form part of the Fund.
+
+(3) The Majlis may establish and maintain for each wakaf or nazar am a separate sinking fund for that wakaf or nazar am, for one or more of the following purposes:
+
+(a) improving or maintaining any immovable property belonging to that wakaf or nazar am, including carrying out, in relation to that immovable property, any building operation, repair, demolition or installation work;
+
+(b) purchasing any property or asset for that wakaf or nazar am;
+
+(c) such other purposes related to that wakaf or nazar am as may be prescribed by rules made under subsection (6).
+
+[Act 33 of 2017 wef 01/01/2018]
+
+(4) Despite subsections (1) and (2) and any provision to the contrary in any instrument or declaration creating, governing or affecting a wakaf or nazar am, the Majlis may direct that a portion of the net annual income of a wakaf or nazar am be transferred to the sinking fund established and maintained under subsection (3) for that wakaf or nazar am.
+
+[Act 33 of 2017 wef 01/01/2018]
+
+(5) The percentage of the net annual income of a wakaf or nazar am that is to be transferred to the sinking fund under subsection (4) is to be determined by the Majlis after consulting the mutawalli of the wakaf or nazar am.
+
+[Act 33 of 2017 wef 01/01/2018]
+
+(6) The Majlis may, with the approval of the Minister, make rules —
+
+(a) to prescribe the other purposes related to a wakaf or nazar am for which a sinking fund established or maintained for that wakaf or nazar am may be used; and
+
+(b) to provide generally for carrying out the purposes of this section.
+
+[Act 33 of 2017 wef 01/01/2018]
 
 ### Property and assets of wakaf or nazar am
 
@@ -3032,7 +3076,9 @@ Financial provisions with respect to trust, wakaf, nazar and mosque
 
 9\. Any person who fails, without reasonable excuse, to comply with any requirement of the Majlis or the auditor under paragraph 8 or who otherwise hinders, obstructs or delays the Majlis or the auditor in the performance of their duties or the exercise of their powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-10\. The Secretary of the Majlis shall, within one month after the meeting of the Majlis referred to in paragraph 2 or 3, submit a copy of the financial statements, together with a copy of the auditor’s report (where applicable), to the Minister; and in the case of any mosque, the Majlis shall also cause a copy of the same to be exhibited at the mosque.
+10. The Chief Executive of the Majlis shall, within one month after the meeting of the Majlis referred to in paragraph 2 or 3, submit a copy of the financial statements, together with a copy of the auditor’s report (where applicable), to the Minister; and in the case of any mosque, the Majlis shall also cause a copy of the same to be exhibited at the mosque.
+
+[Act 33 of 2017 wef 01/01/2018]
 
 11. The financial year of any trust, wakaf, nazar or mosque to which this Schedule applies shall begin on 1st January and end on 31st December in each year.
 
@@ -3233,6 +3279,10 @@ This Legislative History is provided for the convenience of users of the Adminis
 ||Date of First Reading|3 July 2017 (Bill No. 27/2017 published on 3 July 2017)|
 ||Date of Second and Third Readings|1 August 2017|
 ||Date of commencement|1 October 2017|
+|27.|**Act 33 of 2017—Administration of Muslim Law (Amendment) Act 2017**|
+||Date of First Reading|3 July 2017 (Bill No. 27/2017 published on 3 July 2017)|
+||Date of Second and Third Readings|1 August 2017|
+||Date of commencement|1 January 2018|
 ## COMPARATIVE TABLE
 
 Administration of Muslim Law Act
