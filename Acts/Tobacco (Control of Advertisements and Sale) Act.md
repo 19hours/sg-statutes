@@ -88,7 +88,9 @@
 
 - [34 Composition of offences](#Composition-of-offences)
 
-- [35 Fees, charges, etc., collected by Chief Executive or authorised officer to be paid to Authority](#Fees-charges-etc-collected-by-Chief-Executive-or-authorised-officer-to-be-paid-to-Authority)
+- [35 Fees, charges, etc., collected by Chief Executive or authorised officer](#Fees-charges-etc-collected-by-Chief-Executive-or-authorised-officer)
+
+- [35A Public servants](#Public-servants)
 
 - [36 Service of summons, notices, etc.](#Service-of-summons-notices-etc)
 
@@ -163,7 +165,9 @@ PRELIMINARY
 
 “Chief Executive” means the person appointed under section 15 of the Health Sciences Authority Act to be the Chief Executive of the Authority;
 
-“cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or substitute, rolled up in paper, tobacco leaf or other material and which is in such form as to be capable of immediate use;
+“cigarette” means any product which consists in whole or in part of cut, shredded or manufactured tobacco, or any tobacco derivative or tobacco substitute, rolled up in paper, tobacco leaf or other material and which is in such form as to be capable of immediate use;
+
+[Act 46 of 2017 wef 01/01/2018]
 
 “conveyance” includes any vessel, train, aircraft, vehicle, trailer or other mode of transport;
 
@@ -235,9 +239,31 @@ and includes any person or persons constituting or responsible for the managemen
 
 [Act 9 of 2016 wef 01/08/2016]
 
-“tobacco product” means any cigarette, cigar or any other form of tobacco, or any tobacco derivative or substitute, including any mixture containing tobacco, or any tobacco derivative or substitute, but excludes any medicinal product registered under the Medicines Act (Cap. 176);
+“tobacco product” means —
 
-“tobacco substitute” means any article, object or thing that contains nicotine, but excludes tobacco, tobacco derivatives and any medicinal product registered under the Medicines Act;
+(a) a cigarette or cigar, or any other form of tobacco;
+
+(b) a tobacco derivative;
+
+(c) a tobacco substitute; or
+
+(d) a mixture containing any form of tobacco or a tobacco derivative or tobacco substitute,
+
+but does not include a therapeutic product registered under the Health Products Act (Cap. 122D);
+
+[Act 46 of 2017 wef 01/01/2018]
+
+“tobacco substitute” means any article, object or thing that contains nicotine, but does not include any of the following:
+
+(a) a cigarette or cigar, or any other form of tobacco;
+
+(b) a tobacco derivative;
+
+(c) a mixture containing any form of tobacco or a tobacco derivative;
+
+(d) a therapeutic product registered under the Health Products Act;
+
+[Act 46 of 2017 wef 01/01/2018]
 
 “unauthorised advertisement” means any advertisement described in section 3(1)(a), (b), (c) or (d), but not —
 
@@ -248,6 +274,16 @@ and includes any person or persons constituting or responsible for the managemen
 (c) an advertisement published, or caused to be published, by a person exempted under section 22 from section 3(1);
 
 [Act 9 of 2016 wef 01/08/2016]
+
+“under-aged person” means —
+
+(a) for 12 months after the date prescribed, an individual who is below 19 years of age;
+
+(b) for 12 months after the end of the period in paragraph (a), an individual who is below 20 years of age; and
+
+(c) at any time after the end of the period in paragraph (b), an individual who is below 21 years of age;
+
+[Act 46 of 2017 wef 01/01/2018]
 
 “use”, in relation to any tobacco product, means smoking, chewing, inhaling, ingesting or otherwise introducing the tobacco product or any of its constituents or emissions into the human body (whether by oral means or otherwise);
 
@@ -755,13 +791,17 @@ shall be deemed to be a tobacco product that a person must not import into Singa
 
 (a) an import and wholesale licence may authorise the doing of any act in subsection (2) only at premises specified in the licence; and
 
-(b) a retail licence may authorise the doing of any action in subsection (3) only at a single point of sale within a retail outlet specified in the licence.
+(b) the holder of a valid retail licence is authorised to do any act in subsection (3) only at a single point of sale within a retail outlet specified in the licence.
 
-(5) A person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction —
+[Act 46 of 2017 wef 01/01/2018]
+
+(5) A person who contravenes subsection (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $5,000, unless paragraph (b) applies; or
 
 (b) if the person has any previous qualifying conviction, to a fine not exceeding $10,000.
+
+[Act 46 of 2017 wef 01/01/2018]
 
 (6) In subsection (5), “qualifying conviction” means —
 
@@ -1119,15 +1159,25 @@ whichever is the lower.
 
 [35/2002]
 
-### Fees, charges, etc., collected by Chief Executive or authorised officer to be paid to Authority
+### Fees, charges, etc., collected by Chief Executive or authorised officer
 
-35\.—(1) All fees, charges and other moneys recovered or collected by the Chief Executive or an authorised officer under this Act (including sums collected for the composition of offences under section 34) shall be paid to the Authority.
+35\.—(1) Subject to subsection (2), all fees, charges and other moneys recovered or collected by the Chief Executive or an authorised officer under this Act are to be paid to the Authority.
 
-[4/2001]
+(2) All composition sums collected by the Chief Executive or an authorised officer under section 34 are to be paid into the Consolidated Fund.
 
-(2) In subsection (1), “authorised officer” includes any person authorised by the Chief Executive in writing to compound offences under section 34.
+[Act 46 of 2017 wef 01/01/2018]
 
-[4/2001]
+### Public servants
+
+35A\.—(1) Each of the following persons is, in relation to that person’s administration, collection and enforcement of payment of composition sums under section 34, taken to be a public officer for the purposes of the Financial Procedure Act (Cap. 109):
+
+(a) every member, officer and employee of the Authority;
+
+(b) every person authorised by the Chief Executive in writing to compound offences under section 34.
+
+(2) Section 20 of the Financial Procedure Act applies to each of the persons mentioned in subsection (1) even though that person is not or was not in the employment of the Government.
+
+[Act 46 of 2017 wef 01/01/2018]
 
 ### Service of summons, notices, etc.
 
@@ -1245,6 +1295,10 @@ This Legislative History is provided for the convenience of users of the Tobacco
 ||Date of First Reading|29 February 2016 (Bill No. 10/2016 published on 29 February 2016)|
 ||Date of Second and Third Readings|14 March 2016|
 ||Date of commencement|30 December 2017|
+|16.|**Act 46 of 2017—Tobacco (Control of Advertisements and Sale) (Amendment) Act 2017**|
+||Date of First Reading|2 October 2017 (Bill No. 40/2017 published on 2 October 2017)|
+||Date of Second and Third Readings|7 November 2017|
+||Date of commencement|1 January 2018|
 ## COMPARATIVE TABLE
 
 Tobacco (Control of Advertisements and Sale) Act
