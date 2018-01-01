@@ -1073,6 +1073,14 @@ LICENCES AND INDUSTRIAL PLANT WORKS
 
 [4/2002]
 
+(4A) Where any industrial plant works constitute a new venture under section 26A of the Energy Conservation Act (Cap. 92C), an applicant must not be issued with a clearance certificate under subsection (1) for the new venture if the applicant has not submitted to the Director‑General for the Director‑General’s approval a report for the new venture (if such approval is required) under that section of the Energy Conservation Act.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+(4B) Despite subsection (4A) and without affecting subsection (5) or (6), the Director‑General may issue the applicant with a clearance certificate subject to the condition that the applicant must submit the report mentioned in subsection (4A) to the Director‑General for the Director‑General’s approval within such period as the Director‑General may specify.
+
+[Act 24 of 2017 wef 01/01/2018]
+
 (5) The Director-General may, before issuing a clearance certificate under subsection (1), give a direction in writing to the applicant to comply, within such period as may be specified in the direction, with such requirements as he may specify for the purposes of this Act.
 
 [4/2002]
@@ -3423,6 +3431,10 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 June 2017|
 |25.|**G.N. No. S 27/2017—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2017**|
 ||Date of commencement|1 July 2017|
+|26.|**Act 24 of 2017—Energy Conservation (Amendment) Act 2017**|
+||Date of First Reading|9 March 2017 (Bill No. 17/2017 published on 9 March 2017)|
+||Date of Second and Third Readings|3 April 2017|
+||Date of commencement|1 January 2018|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
