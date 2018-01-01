@@ -342,7 +342,7 @@ but does not include —
 
 “housing estate” means any housing estate built on any land vested in or held in trust for the Board;
 
-“industrial property” means any building or premises vested in or belonging to the Board or any part of the building or premises which is permitted to be used pursuant to the Planning Act (Cap. 232) or any other written law for any industrial purposes;
+[Deleted by Act 34 of 2017 wef 01/01/2018]
 
 “inspector” means an inspector of Town Councils appointed under section 43E;
 
@@ -434,9 +434,11 @@ but excludes the following individuals when performing any activity that is a fu
 
 (2) This Act shall not apply to —
 
-(a) the housing estates governed by the HUDC Housing Estates Act (Cap. 131);
+(a) the housing estates governed by the HUDC Housing Estates Act (Cap. 131); and
 
-(b) any industrial property of the Board; and
+[Act 34 of 2017 wef 01/01/2018]
+
+(b) [Deleted by Act 34 of 2017 wef 01/01/2018]
 
 (c) such other property of the Board as the Minister may by order specify.
 
@@ -1012,7 +1014,9 @@ provided that the owner of the property on which the facility is erected, instal
 
 (a) manage or maintain —
 
-(i) any parking place and industrial property, or any market or food centre, of the Board upon terms and conditions agreed between the Town Council and the Board; or
+(i) any parking place, or any market or food centre, of the Board upon terms and conditions agreed between the Town Council and the Board; or
+
+[Act 34 of 2017 wef 01/01/2018]
 
 (ii) any market or food centre of the Government upon terms and conditions agreed between the Town Council and the Government; or
 
@@ -2912,6 +2916,10 @@ This Legislative History is provided for the convenience of users of the Town Co
 ||Date of First Reading|6 February 2017 (Bill No. 9/2017 published on 6 February 2017)|
 ||Date of Second and Third Readings|10 March 2017|
 ||Date of commencement|1 May 2017|
+|13.|**Act 34 of 2017—Jurong Town Corporation (Amendment) Act 2017**|
+||Date of First Reading|1 August 2017 (Bill No. 28/2017 published on 1 August 2017)|
+||Date of Second and Third Readings|11 September 2017|
+||Date of commencement|1 January 2018|
 ## COMPARATIVE TABLE
 
 Town Councils Act
