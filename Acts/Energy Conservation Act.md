@@ -30,15 +30,23 @@
 
 [**Part III ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT)**](#Part-III)
 
-[**Division 1  Energy labelling and minimum performance standards for registrable goods**](#Division-1--Energy-labelling-and-minimum-performance-standards-for-registrable-goods)
+[**Division 1  Measures for goods**](#Division-1--Measures-for-goods)
+
+[**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
 
 - [10 Interpretation of this Division](#Interpretation-of-this-Division)
 
-- [11 Registrable goods](#Registrable-goods)
+[**Subdivision 2 Restrictions on supplies of regulated goods through registration, energy labelling, minimum performance standards, etc.**](#Subdivision-2-Restrictions-on-supplies-of-regulated-goods-through-registration-energy-labelling-minimum-performance-standards-etc)
 
-- [12 Restriction on supply of registrable goods](#Restriction-on-supply-of-registrable-goods)
+- [11 Regulated goods](#Regulated-goods)
 
-- [13 Registration of suppliers and registrable goods](#Registration-of-suppliers-and-registrable-goods)
+- [12 Restriction on supply of regulated goods](#Restriction-on-supply-of-regulated-goods)
+
+- [12A Restriction on supply by importers and manufacturers](#Restriction-on-supply-by-importers-and-manufacturers)
+
+[**Subdivision 3 Registration of suppliers and goods**](#Subdivision-3-Registration-of-suppliers-and-goods)
+
+- [13 Registration of suppliers and regulated goods](#Registration-of-suppliers-and-regulated-goods)
 
 - [14 Register of registered suppliers and registered goods](#Register-of-registered-suppliers-and-registered-goods)
 
@@ -50,13 +58,17 @@
 
 - [18 Maintenance of records](#Maintenance-of-records)
 
-- [19 Power of Director-General to require registrable goods for testing or analysis and furnishing of information](#Power-of-Director-General-to-require-registrable-goods-for-testing-or-analysis-and-furnishing-of-information)
+- [19 Power of Director-General to require regulated goods for testing or analysis and furnishing of information](#Power-of-Director-General-to-require-regulated-goods-for-testing-or-analysis-and-furnishing-of-information)
 
 - [20 False statements, forging of documentation, etc.](#False-statements-forging-of-documentation-etc)
 
-[**Division 2  Energy management practices for corporations**](#Division-2--Energy-management-practices-for-corporations)
+[**Division 2  Measures for business activities and premises**](#Division-2--Measures-for-business-activities-and-premises)
+
+[**Subdivision 1 Interpretation**](#Subdivision-1-Interpretation)
 
 - [21 Interpretation of this Division](#Interpretation-of-this-Division)
+
+[**Subdivision 2 Registration of corporations**](#Subdivision-2-Registration-of-corporations)
 
 - [22 Registrable corporation](#Registrable-corporation)
 
@@ -68,19 +80,39 @@
 
 - [26 Power of Director-General to ascertain if corporation is registrable](#Power-of-Director-General-to-ascertain-if-corporation-is-registrable)
 
-- [27 Periodic reporting of energy use, etc.](#Periodic-reporting-of-energy-use-etc)
+[**Subdivision 3 Energy management practices**](#Subdivision-3-Energy-management-practices)
 
-- [28 Records to be kept](#Records-to-be-kept)
+- [26A Energy efficiency opportunities assessments for new ventures](#Energy-efficiency-opportunities-assessments-for-new-ventures)
 
-- [29 Energy efficiency improvement plans](#Energy-efficiency-improvement-plans)
+- [26B Minimum energy efficiency standards for energy-consuming systems](#Minimum-energy-efficiency-standards-for-energy-consuming-systems)
+
+- [26C Monitoring plans of registered corporations](#Monitoring-plans-of-registered-corporations)
+
+- [27 Periodic reporting of energy use, greenhouse gas emissions, etc., by registered corporations](#Periodic-reporting-of-energy-use-greenhouse-gas-emissions-etc-by-registered-corporations)
+
+- [27A Energy management systems of registered corporations](#Energy-management-systems-of-registered-corporations)
+
+- [27B Energy efficiency opportunities assessments by registered corporations](#Energy-efficiency-opportunities-assessments-by-registered-corporations)
+
+- [28 Energy efficiency improvement plans of registered corporations](#Energy-efficiency-improvement-plans-of-registered-corporations)
+
+- [29 Records to be kept](#Records-to-be-kept)
 
 - [30 Appointment of energy manager](#Appointment-of-energy-manager)
 
-- [31 Energy manager not to falsify data](#Energy-manager-not-to-falsify-data)
+- [31 Data not to be falsified, etc.](#Data-not-to-be-falsified-etc)
+
+[**Division 3  General provisions for this Part**](#Division-3)
+
+[**Subdivision 1 Reports, waivers, penalties, etc.**](#Subdivision-1-Reports-waivers-penalties-etc)
+
+- [31A Reports and plans](#Reports-and-plans)
+
+- [31B Power of Director-General to waive requirements](#Power-of-Director-General-to-waive-requirements)
 
 - [32 Penalties for non-compliance](#Penalties-for-non-compliance)
 
-[**Division 3  Powers of enforcement**](#Division-3--Powers-of-enforcement)
+[**Subdivision 2 Powers of enforcement**](#Subdivision-2-Powers-of-enforcement)
 
 - [33 Entering premises, etc., to monitor compliance](#Entering-premises-etc-to-monitor-compliance)
 
@@ -90,7 +122,7 @@
 
 - [36 Power to demand names and addresses](#Power-to-demand-names-and-addresses)
 
-- [37 Supplier of registrable goods and registrable corporation to provide authorised officer with all facilities and assistance](#Supplier-of-registrable-goods-and-registrable-corporation-to-provide-authorised-officer-with-all-facilities-and-assistance)
+- [37 Authorised officers to be provided with all facilities and assistance](#Authorised-officers-to-be-provided-with-all-facilities-and-assistance)
 
 - [38 Penalty for obstructing Director-General or authorised officer in his duty](#Penalty-for-obstructing-Director-General-or-authorised-officer-in-his-duty)
 
@@ -100,11 +132,11 @@
 
 - [39 Interpretation of this Division](#Interpretation-of-this-Division)
 
-- [40 Motor vehicles subject to fuel economy requirements](#Motor-vehicles-subject-to-fuel-economy-requirements)
+- [40 Motor vehicles subject to requirements on fuel economy and vehicular emissions](#Motor-vehicles-subject-to-requirements-on-fuel-economy-and-vehicular-emissions)
 
-- [41 Fuel economy certificate, data and testing](#Fuel-economy-certificate-data-and-testing)
+- [41 Fuel economy and vehicular emissions certificate, data and testing](#Fuel-economy-and-vehicular-emissions-certificate-data-and-testing)
 
-- [42 Fuel economy labelling](#Fuel-economy-labelling)
+- [42 Labelling of fuel economy and vehicular emissions](#Labelling-of-fuel-economy-and-vehicular-emissions)
 
 - [43 False statements, forging of documentation, etc.](#False-statements-forging-of-documentation-etc)
 
@@ -420,21 +452,40 @@ for anything which is done or intended to be done in good faith and with reasona
 
 ## PART III
 
-ENERGY CONSERVATION MEASURES FOR DOMESTIC AND INDUSTRY SECTORS (OTHER THAN TRANSPORT)
+ENERGY CONSERVATION MEASURES FOR DOMESTIC
+
+
+
+
+AND INDUSTRY SECTORS (OTHER THAN TRANSPORT)
 
 Division 1 —
 
-Energy labelling and minimum performance standards for registrable goods
+Measures for goods
+
+Subdivision (1) —
+
+Interpretation
 
 ### Interpretation of this Division
 
 10\. In this Division, unless the context otherwise requires —
 
-“effective date”, in relation to any goods, means the date on which the goods become registrable goods as specified in the order under section 11;
+“effective date”, in relation to any goods, means the date on which the goods become regulated goods as specified in the order under section 11;
 
-“goods” means any device, appliance, equipment, article or thing the use or operation of which consumes electricity or fuel, but does not include any motor vehicle;
+[Act 24 of 2017 wef 01/01/2018]
 
-“label”, in relation to any registrable goods, includes marking or affixing a label to the registrable goods;
+“goods” means any device, appliance, equipment, article or thing that requires electricity or fuel for its use or operation, and —
+
+(a) includes 2 or more such devices, appliances, equipment, articles or things that are interconnected, and interdependent or interacting, so as to form a system carrying out one or more functions; but
+
+(b) does not include any motor vehicle;
+
+[Act 24 of 2017 wef 01/01/2018]
+
+“label”, in relation to any regulated goods, includes marking or affixing a label to the regulated goods;
+
+[Act 24 of 2017 wef 01/01/2018]
 
 “manufacture” means to make, fabricate, produce or process any goods and includes —
 
@@ -442,11 +493,17 @@ Energy labelling and minimum performance standards for registrable goods
 
 (b) the altering, ornamenting or finishing or the assembling or processing in any form of any goods;
 
-“registered goods” means any registrable goods registered under section 13(4) as such;
+“registered goods” means any regulated goods registered under section 13(2) as such;
 
-“registered supplier” means any importer or manufacturer registered under section 13(4) as such;
+[Act 24 of 2017 wef 01/01/2018]
 
-“registrable goods” means any goods declared by order under section 11 to be such;
+“registered supplier” means any importer or manufacturer registered under section 13(2) as such;
+
+[Act 24 of 2017 wef 01/01/2018]
+
+“regulated goods” means any goods prescribed under section 11 to be such;
+
+[Act 24 of 2017 wef 01/01/2018]
 
 “sale” includes —
 
@@ -464,47 +521,113 @@ Energy labelling and minimum performance standards for registrable goods
 
 (c) the offer to supply the goods.
 
-### Registrable goods
+Subdivision (2) —
 
-11\. The Minister may, after consultation with the Agency, by order published in theGazette, declare any class, description or type of goods to be registrable goods for the purposes of this Part from the date specified in the order.
+Restrictions on supplies of regulated
 
-### Restriction on supply of registrable goods
 
-12\.—(1) No person shall, in the course of any trade or business, supply any registrable goods in Singapore on or after the effective date for those goods unless the registrable goods —
 
-(a) are registered under section 13(4);
 
-(b) are labelled in the prescribed manner; and
+goods through registration, energy labelling, minimum
 
-(c) meet such minimum energy efficiency standards as may be prescribed.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-### Registration of suppliers and registrable goods
 
-13\.—(1) Without prejudice to section 12, no importer or manufacturer shall, in the course of any trade or business, supply any registrable goods in Singapore on or after the effective date for those goods, unless the importer or manufacturer is a registered supplier of those goods.
+performance standards, etc.
 
-(2) Any importer or manufacturer which intends to supply any registrable goods in Singapore may apply, in such form and manner as may be prescribed, to the Director-General —
+### Regulated goods
+
+11\. The Minister may, after consulting the Agency, by order in theGazette, prescribe any class, description or type of goods to be regulated goods for the purposes of this Part from the date specified in the order.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Restriction on supply of regulated goods
+
+12\.—(1) Subject to this section, a person must not make a prohibited supply of regulated goods in Singapore.
+
+(2) Any person that contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+(3) For the purposes of subsection (1), a prohibited supply of regulated goods is a supply of regulated goods where —
+
+(a) the goods do not comply, on or after the effective date for those goods, with any one or more of the requirements mentioned in subsection (4) which is prescribed as being applicable to those regulated goods and not waived under section 31B(1); and
+
+(b) the supply is made by the person to another person —
+
+(i) in the course or furtherance of the firstmentioned person’s trade or business; or
+
+(ii) in furtherance of the second-mentioned person’s trade or business.
+
+(4) The following are the requirements for the purpose of subsection (3):
+
+(a) the goods must be registered;
+
+(b) the goods must conform to either or both of the following:
+
+(i) the minimum energy efficiency standard prescribed for the goods;
+
+(ii) any other requirement prescribed for the goods affecting or relating to the energy efficiency standard;
+
+(c) the goods must be labelled with the information prescribed for the goods, in the manner prescribed or allowed by the Director-General in any particular case;
+
+(d) the goods must be accompanied by the information prescribed for the goods relating to energy efficiency, in the manner prescribed or allowed by the Director-General in any particular case;
+
+(e) information prescribed for the goods relating to energy efficiency must be disseminated in the manner prescribed or allowed by the Director-General in any particular case.
+
+(5) Without affecting section 77, subsection (1) does not apply to a supply of regulated goods in any of the following circumstances:
+
+(a) the goods are supplied as part of any premises by the developer of the premises, if —
+
+(i) the developer did not import or manufacture the goods; and
+
+(ii) the goods comply with the requirements under subsection (4) applicable to the goods at the time the agreement for the supply of the goods to the developer was entered into;
+
+(b) the goods are supplied by a participant in the supply chain for the supply of the goods by the developer mentioned in paragraph (a), if the goods comply with the requirements under subsection (4) applicable to the goods at the time the agreement for the supply of the goods was entered into.
+
+(6) Without affecting subsection (5) or section 77, subsection (1) does not apply to a supply of regulated goods prescribed for the purposes of this subsection if —
+
+(a) the supply is by a participant in the supply chain for the supply of such regulated goods to a person (other than a person acting in the capacity of a developer) who is intending to construct or is constructing, or is causing to be constructed, any premises;
+
+(b) the goods are to be used in the premises;
+
+(c) the premises are to be occupied by the person;
+
+(d) the person did not import or manufacture the goods; and
+
+(e) the goods comply with the requirements under subsection (4) applicable to the goods at the time the agreement for the supply of the goods was entered into.
+
+(7) In this section, “developer” means a person who carries on the business of constructing or causing to be constructed any premises for sale or lease.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Restriction on supply by importers and manufacturers
+
+12A\.—(1) Without affecting section 12, an importer or a manufacturer must not, in the course of any trade or business, supply any regulated goods in Singapore on or after the effective date for those goods, unless the importer or manufacturer is a registered supplier of those goods.
+
+(2) Any importer or manufacturer that contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+Subdivision (3) —
+
+Registration of suppliers and goods
+
+### Registration of suppliers and regulated goods
+
+13\.—(1) Any importer or manufacturer that intends to supply any regulated goods in Singapore may apply to the Director‑General —
 
 (a) to be registered as a registered supplier; and
 
-(b) to register the registrable goods which the importer or manufacturer intends to supply in Singapore.
+(b) where the importer or manufacturer intends to supply any regulated goods that are required to be registered under section 12, to register those goods.
 
-(3) Every application under subsection (2) shall be accompanied by —
-
-(a) such fee as may be prescribed; and
-
-(b) such documents and information as may be prescribed.
-
-(4) The Director-General may, in his discretion, register subject to such conditions as he thinks fit to impose, or refuse to register —
+(2) The Director-General may register, subject to such conditions as the Director-General thinks fit to impose, or refuse to register —
 
 (a) any applicant as a registered supplier; or
 
-(b) any registrable goods which the applicant intends to supply in Singapore as registered goods.
+(b) any regulated goods that the applicant intends to supply in Singapore as registered goods.
 
-(5) The registration of any registered supplier or any registered goods shall not be transferable from one person to another without the approval in writing of the Director-General.
+(3) The registration of any registered supplier or any registered goods is not transferable without the approval in writing of the Director-General.
 
-(6) Any importer or manufacturer which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+[Act 24 of 2017 wef 01/01/2018]
 
 ### Register of registered suppliers and registered goods
 
@@ -524,13 +647,11 @@ Energy labelling and minimum performance standards for registrable goods
 
 (2) The registration of any registered goods, including any renewal of such registration, shall be valid for 3 years unless earlier withdrawn or revoked under section 16.
 
-(3) An application to renew the registration of any registered goods shall be made before the expiry of the registration, and in such form and manner as may be prescribed.
+(3) An application to renew the registration of any registered goods shall be made before the expiry of the registration.
 
-(4) Every application to renew the registration of any registered goods under subsection (3) shall be accompanied by —
+[Act 24 of 2017 wef 01/01/2018]
 
-(a) such fee as may be prescribed; and
-
-(b) such documents and information as may be prescribed.
+(4) [Deleted by Act 24 of 2017 wef 01/01/2018]
 
 (5) The Director-General may, in his discretion, renew the registration of any registered goods subject to such conditions as he thinks fit to impose, or refuse to renew such registration.
 
@@ -548,7 +669,13 @@ Energy labelling and minimum performance standards for registrable goods
 
 (b) if the Director-General is satisfied that the registered supplier has contravened any condition of the registration;
 
-(c) if the registered supplier has been convicted of an offence under section 12(2) for supplying registrable goods that do not meet the prescribed minimum energy efficiency standards; or
+(c) if the registered supplier has been convicted of —
+
+(i) an offence under section 12(2) as in force before the date of commencement of section 6 of the Energy Conservation (Amendment) Act 2017 of supplying registrable goods that do not meet the minimum energy efficiency standards prescribed for those goods; or
+
+(ii) an offence under section 12(2) of making a prohibited supply of regulated goods, being goods that do not meet any requirement under section 12(4)(b) applicable to the regulated goods; or
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (d) in the event of such other occurrence or in such other circumstances as may be prescribed.
 
@@ -556,15 +683,19 @@ Energy labelling and minimum performance standards for registrable goods
 
 (a) that the registered goods do not conform with the results of any test or examination furnished by the registered supplier to the Director-General under this Part;
 
-(b) that the registered goods do not meet the prescribed minimum energy efficiency standards;
+(b) that the regulated goods do not meet any requirement under section 12(4) applicable to the regulated goods and not waived under section 31B(1);
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (c) that a modification to the registered goods has resulted in a change that affects the energy efficiency of the registered goods;
 
 (d) that the registered supplier has procured the registration of the registered goods by providing any particulars, information or document, or by making any statement or representation, to the Director-General which is false or misleading in any material particular;
 
-(e) that the registered supplier has contravened any condition of the registration of the registered goods;
+(e) that the registered supplier has contravened any condition of the registration of the registered goods; or
 
-(f) that the registered supplier has contravened section 12(1) by supplying any registered goods that do not meet the prescribed requirements relating to the labelling of the registered goods; or
+[Act 24 of 2017 wef 01/01/2018]
+
+(f) [Deleted by Act 24 of 2017 wef 01/01/2018]
 
 (g) that the registered supplier has contravened any provision of this Act in relation to the registered goods.
 
@@ -582,11 +713,15 @@ of such withdrawal or revocation of the registration of the goods.
 
 17\.—(1) Any importer or manufacturer who is aggrieved by a decision of the Director-General —
 
-(a) refusing to register him as a registered supplier, or refusing to register any registrable goods as registered goods, under section 13(4);
+(a) refusing to register him as a registered supplier, or refusing to register any regulated goods as registered goods, under section 13(2);
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (b) refusing to renew the registration of any registered goods under section 15(5);
 
-(c) to impose any condition under section 13(4) or 15(5); or
+(c) to impose any condition under section 13(2) or 15(5); or
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (d) to revoke the registration of any registered supplier under section 16(2) or the registration of any registered goods under section 16(3),
 
@@ -598,7 +733,9 @@ may, within 14 days after the date of receipt of the notice informing him of the
 
 (4) Notwithstanding that any appeal under subsection (1) is pending —
 
-(a) any condition imposed by the Director-General under section 13(4) or 15(5);
+(a) any condition imposed by the Director-General under section 13(2) or 15(5);
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (b) any revocation of the registration of any registered supplier under section 16(2); or
 
@@ -608,39 +745,57 @@ as the case may be, shall take effect from the date specified by the Director-Ge
 
 ### Maintenance of records
 
-18\.—(1) A registered supplier shall keep and maintain complete and accurate records in such form and manner, and containing such information, as may be prescribed.
+18\.—(1) A registered supplier must keep and maintain complete and accurate records containing such information and in accordance with such requirements, as may be prescribed under section 78.
 
-(2) The registered supplier shall make available to the Director‑General the records referred to in subsection (1) for inspection.
+(2) The registered supplier mentioned in subsection (1) must —
 
-(3) The registered supplier shall submit such records, or furnish such other documents or information, as may be required by the Director‑General within the time specified by the Director-General.
+(a) retain the records mentioned in that subsection for at least the prescribed period;
 
-(4) Any registered supplier who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+(b) during the prescribed period mentioned in paragraph (a), make available for inspection by the Director-General or any authorised officer, the records mentioned in that subsection when so requested by the Director-General or any authorised officer; and
 
-### Power of Director-General to require registrable goods for testing or analysis and furnishing of information
+(c) submit to the Director-General the records mentioned in subsection (1), and such other record, document or information, as the Director-General may require, in the time specified by the Director-General.
 
-19\.—(1) The Director-General may require any person carrying on a trade or business which consists of or includes the supply of any registrable goods —
+(3) Any registered supplier that contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-(a) to provide free of charge to the Director-General samples of the registrable goods for the purpose of testing or analysis; and
+[Act 24 of 2017 wef 01/01/2018]
 
-(b) to furnish to the Director-General such documents or information as he may require in respect of those registrable goods or the supply of those registrable goods.
+### Power of Director-General to require regulated goods for testing or analysis and furnishing of information
 
-(2) Any person who contravenes any requirement of the Director‑General under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+19\.—(1) The Director-General may require any person carrying on a trade or business which consists of or includes the supply of any regulated goods —
+
+(a) to provide free of charge to the Director-General samples of the regulated goods for the purpose of testing or analysis; and
+
+(b) to furnish to the Director-General such documents or information as he may require in respect of those regulated goods or the supply of those regulated goods.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+(2) Any person who contravenes any requirement of the Director‑General under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 ### False statements, forging of documentation, etc.
 
 20\. Any person who —
 
-(a) in relation to an application for registration made under section 13(2) or to renew the registration made under section 15(5), makes or causes to be made any statement or declaration which is false or misleading in any material particular;
+(a) in relation to an application for registration made under section 13(1) or to renew the registration made under section 15(3), makes or causes to be made any statement or declaration which is false or misleading in any material particular;
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (b) makes or causes to be made any entry in a record, register or other document required to be kept under this Part which to his knowledge is false or misleading in any material particular; or
 
 (c) in response to any request of the Director-General under section 19, furnishes any document or information which to his knowledge is false or misleading in any material particular,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 Division 2 —
 
-Energy management practices for corporations
+Measures for business activities and premises
+
+Subdivision (1) —
+
+Interpretation
 
 ### Interpretation of this Division
 
@@ -649,6 +804,10 @@ Energy management practices for corporations
 “registered corporation” means any registrable corporation registered under section 23 as such;
 
 “registrable corporation” means any corporation declared, or which qualifies, by an order under section 22 to be such, but does not include a transport facility operator under Part IV.
+
+Subdivision (2) —
+
+Registration of corporations
 
 ### Registrable corporation
 
@@ -668,13 +827,11 @@ Energy management practices for corporations
 
 ### Registration of registrable corporation
 
-23\.—(1) Any corporation which qualifies as a registrable corporation shall, within the period specified in the order under section 22(1), apply in such form and manner as may be prescribed, to the Director-General to be registered.
+23\.—(1) Any corporation which qualifies as a registrable corporation shall, within the period specified in the order under section 22(1), apply to the Director-General to be registered.
 
-(2) Every application under subsection (1) shall be accompanied by —
+[Act 24 of 2017 wef 01/01/2018]
 
-(a) such fee as may be prescribed; and
-
-(b) such documents and information as may be prescribed.
+(2) [Deleted by Act 24 of 2017 wef 01/01/2018]
 
 (3) The Director-General shall register a corporation if the Director‑General is satisfied that —
 
@@ -690,11 +847,13 @@ Energy management practices for corporations
 
 24\.—(1) The Director-General shall keep and maintain a register in which shall be entered such particulars of the registered corporations as the Director-General may determine.
 
-(2) Where the registration of any registered corporation has been cancelled under section 25, the Director-General may —
+(2) Where the registration of any registered corporation has been cancelled under section 25, or the Director-General is satisfied that any registered corporation has been wound up or dissolved, the Director-General may —
 
 (a) remove the particulars of the registered corporation from the register; or
 
 (b) indicate the fact of such cancellation against the particulars of the registered corporation in the register.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (3) The Director-General may, upon an application by any person accompanied by such fee as may be prescribed, provide a certified copy of an entry in the register to that person.
 
@@ -726,91 +885,201 @@ Energy management practices for corporations
 
 (2) Any person who, without reasonable excuse, fails to comply with any requirement of the Director-General under subsection (1)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-### Periodic reporting of energy use, etc.
+[Act 24 of 2017 wef 01/01/2018]
 
-27\.—(1) Every registered corporation shall, within the period and in the manner prescribed, prepare and submit to the Director-General in accordance with subsection (2), a report relating to the —
+Subdivision (3) —
 
-(a) energy consumption;
+Energy management practices
 
-(b) energy production; and
+### Energy efficiency opportunities assessments for new ventures
 
-(c) greenhouse gas emissions,
+26A\.—(1) Where a new venture of any person (whether or not a registered corporation) will have an energy use (determined in accordance with the prescribed method or a method that satisfies the prescribed criteria) that equals or exceeds the prescribed threshold, the person must, before applying for a clearance certificate for the new venture under section 33 of the Environmental Protection and Management Act (Cap. 94A) —
 
-from the operation of any business activity or premises or part thereof under the operational control of the registered corporation during a prescribed period.
+(a) ensure that the design of the new venture facility is energy efficient, by conducting an energy efficiency opportunities assessment that satisfies the prescribed requirements; and
 
-(2) A report under subsection (1) shall —
+(b) submit a report of the assessment to the Director-General for the approval of the Director-General.
 
-(a) be in such form as may be provided by the Director-General;
+(2) The report mentioned in subsection (1)(b) must —
 
-(b) contain data on the required information computed in accordance with such method as may be prescribed or any method which meets such criteria as may be prescribed; and
+(a) be submitted through the qualified person appointed under section 8 or 11 of the Building Control Act (Cap. 29) in respect of the building works for the facility mentioned in subsection (1)(a), or any person who satisfies the prescribed criteria; and
 
-(c) contain such other information as may be prescribed.
+(b) without affecting section 78(2)(d), include information on the proposed implementation by the person mentioned in subsection (1) of any part of the energy efficiency opportunities assessment.
 
-(3) The Director-General may, in respect of any incomplete or inaccurate report from a registered corporation, in writing direct the registered corporation to do all of the following within the period specified in the direction:
+(3) Any person that contravenes subsection (1) shall be guilty of an offence.
 
-(a) to carry out such rectifications or re-computation as the Director-General may require;
+(4) In this section —
 
-(b) to re-submit the report.
+“energy efficiency opportunities assessment” has the same meaning as in section 27B(3);
 
-(4) Any registered corporation which —
+“new venture”, in relation to any person, means —
 
-(a) fails to submit or re-submit a report under this section within the period delimited under this section, or within such extended time as the Director-General may allow in any particular case;
+(a) any new business activity or any premises of the person; or
 
-(b) fails to comply with any direction given by the Director‑General under subsection (3)(a); or
+(b) any expansion of any existing business activity or any premises of the person,
 
-(c) submits a false or misleading report,
+where the new business activity or premises or expansion of the business activity or premises will be a prescribed business activity or premises, and in respect of which the person has not, as at the date of commencement of section 15 of the Energy Conservation (Amendment) Act 2017, applied to the competent authority for planning permission under the Planning Act (Cap. 232);
 
-shall be guilty of an offence.
+“new venture facility” means the facility at which a new venture is to be carried out.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Minimum energy efficiency standards for energy-consuming systems
+
+26B\.—(1) This section applies only to a person (whether or not a registered corporation) prescribed (called in this section a relevant person).
+
+(2) Where a person commences or causes to be commenced the conduct, on or after the day the person becomes a relevant person under subsection (1), of installation and retrofitting works on any prescribed energy-consuming system in any business activity or premises, or any part of any business activity or premises, under the operational control of the person, the relevant person must —
+
+(a) within the prescribed period after installation and retrofitting works on the system are completed, assess in the prescribed manner the as-built energy efficiency of the system using the prescribed permanent measuring instruments; and
+
+(b) submit a report of the assessment to the Director-General.
+
+(3) If the as-built energy efficiency of the prescribed energy‑consuming system does not meet the prescribed minimum energy efficiency standards, the Director-General may in writing direct the relevant person concerned to, within the time period specified in the direction (or such longer time as the Director-General may allow in the particular case) —
+
+(a) carry out such maintenance work or take such other measures in relation to the system to ensure that it meets the prescribed minimum energy efficiency standards, and carry out again an assessment described in subsection (1)(a); and
+
+(b) submit a report of the assessment to the Director-General,
+
+and the person must comply with the direction.
+
+(4) Any person that contravenes subsection (2) or (3) shall be guilty of an offence.
+
+(5) In this section —
+
+“as-built energy efficiency”, in relation to a prescribed energy-consuming system, means the energy efficiency of the system upon the completion of the installation and retrofitting works conducted on the system;
+
+“installation and retrofitting works”, in relation to a prescribed energy-consuming system, means —
+
+(a) the installation, substantial alteration or replacement of the system; or
+
+(b) such other change to the energy requirements of the system as may be prescribed.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Monitoring plans of registered corporations
+
+26C\.—(1) This section applies to a registered corporation where the greenhouse gas emissions of any business activity or premises, or any part of any business activity or premises, under the operational control of the registered corporation exceeds the threshold prescribed for the purposes of this section.
+
+(2) Section 26 applies for the purpose of ascertaining whether a registered corporation is a registered corporation mentioned in subsection (1), as it applies for the purpose of determining whether a corporation qualifies as a registrable corporation.
+
+(3) The registered corporation must submit to the Director-General, for the Director-General’s approval, a monitoring plan for each business activity or premises or part mentioned in subsection (1), setting out the basis on which the registered corporation ensures the quality of the data required for the computations necessary for its enhanced emissions report under section 27(2).
+
+(4) The registered corporation must, in the prescribed circumstances, revise the monitoring plan and submit the revised monitoring plan to the Director-General, for the Director-General’s approval.
+
+(5) For the purpose of ascertaining the accuracy of a monitoring plan (including a revised monitoring plan) and compliance with this section, the Director-General may in writing direct the registered corporation to, within the time period specified in the direction (or such longer time as the Director-General may allow in the particular case) —
+
+(a) have the plan assessed by an independent third party; and
+
+(b) submit a report on the assessment of the independent third party to the Director-General, in the form and manner specified in the direction,
+
+and the registered corporation must comply with the direction.
+
+(6) Any registered corporation that contravenes subsection (3), (4) or (5) shall be guilty of an offence.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Periodic reporting of energy use, greenhouse gas emissions, etc., by registered corporations
+
+27\.—(1) A registered corporation must submit to the Director-General a report for each prescribed period specifying —
+
+(a) the energy consumption;
+
+(b) the energy production; and
+
+(c) the greenhouse gas emissions,
+
+in that period from the operation of each prescribed business activity or premises, or any part of each prescribed business activity or premises, under the operational control of the registered corporation.
+
+(2) Without affecting subsection (1), where the greenhouse gas emissions of any business activity or premises, or any part of the business activity or premises, under the operational control of a registered corporation exceeds the threshold prescribed under section 26C(1), the registered corporation must submit to the Director-General, for the Director-General’s approval, an enhanced emissions report for each prescribed period specifying its greenhouse gas emissions in that period for each such business activity or premises or part.
+
+(3) The enhanced emissions report of a registered corporation for any prescribed period mentioned in subsection (2) must be prepared based on a monitoring plan (as may be revised) approved under section 26C applicable to that period.
+
+(4) Any registered corporation that contravenes subsection (1), (2) or (3) shall be guilty of an offence.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Energy management systems of registered corporations
+
+27A\.—(1) A registered corporation must —
+
+(a) implement an energy management system in respect of each prescribed business activity or premises, or any part of each prescribed business activity or premises, under the operational control of the registered corporation;
+
+(b) ensure that every energy management system mentioned in paragraph (a) satisfies the prescribed requirements; and
+
+(c) submit a report on every such energy management system to the Director-General.
+
+(2) Any registered corporation that contravenes subsection (1) shall be guilty of an offence.
+
+(3) In this section, “energy management system” means a set of interrelated or interacting elements of the registered corporation to establish an energy policy, energy objectives, energy targets, action plans and processes to achieve the energy objectives and energy targets.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Energy efficiency opportunities assessments by registered corporations
+
+27B\.—(1) A registered corporation must —
+
+(a) conduct an energy efficiency opportunities assessment on each prescribed business activity or premises, or any part of each prescribed business activity or premises, under the operational control of the registered corporation;
+
+(b) ensure that the energy efficiency opportunities assessment in paragraph (a) —
+
+(i) is conducted at the prescribed times; and
+
+(ii) satisfies the prescribed requirements; and
+
+(c) submit a report of every such energy efficiency opportunities assessment to the Director-General.
+
+(2) Any registered corporation that contravenes subsection (1) shall be guilty of an offence.
+
+(3) In this section, “energy efficiency opportunities assessment” means a systematic procedure by which adequate knowledge of the energy consumption profile of any business activities or premises, and cost-effective energy efficiency opportunities are identified and quantified.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Energy efficiency improvement plans of registered corporations
+
+28\.—(1) A registered corporation must submit to the Director-General an energy efficiency improvement plan for each prescribed period in respect of each prescribed business activity or premises, or any part of each prescribed business activity or premises, under the operational control of the registered corporation.
+
+(2) Without affecting section 78(2)(d), an energy efficiency improvement plan under subsection (1) must include information on the implementation of any part of the plan.
+
+(3) Any registered corporation that contravenes subsection (1) shall be guilty of an offence.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 ### Records to be kept
 
-28\.—(1) Every registered corporation shall keep and maintain complete and accurate records in the prescribed form and manner containing such information as may be prescribed —
+29\.—(1) A person that is required under this Division to submit any report or plan to the Director-General must keep and maintain complete and accurate records containing such information, and in accordance with such other requirements, as may be prescribed under section 78, relating to —
 
-(a) where the records are relevant to the preparation by the registered corporation of complete and accurate reports under section 27 or energy efficiency improvement plans under section 29; and
+(a) those reports and plans, including the preparation and submission of the reports and plans; and
 
-(b) where the records are relevant to monitoring and evaluating compliance by the registered corporation with this Act.
+(b) monitoring and evaluation undertaken by the person to ensure compliance with this Act (except Part IV).
 
-(2) A registered corporation shall —
+(2) The person mentioned in subsection (1) must —
 
-(a) retain the records referred to in subsection (1) for such period as may be prescribed; and
+(a) retain the records mentioned in that subsection for at least the prescribed period;
 
-(b) during that prescribed period, make available to the Director‑General or any authorised officer the records referred to in subsection (1) for inspection whenever requested to do so by the Director-General.
+(b) during the prescribed period mentioned in paragraph (a), make available for inspection by the Director-General or any authorised officer, the records mentioned in subsection (1) when so requested by the Director-General or any authorised officer; and
 
-(3) A registered corporation shall submit such records, or furnish such other documents or information, as may be required by the Director-General within the time specified by the Director-General.
+(c) submit to the Director-General the records mentioned in subsection (1), and such other record, document or information, as the Director-General may require, in the time specified by the Director-General.
 
-(4) Any registered corporation which contravenes subsection (1), (2) or (3) shall be guilty of an offence.
+(3) Any person that contravenes subsection (1) or (2) shall be guilty of an offence.
 
-### Energy efficiency improvement plans
-
-29\.—(1) Unless granted a waiver under subsection (3), a registered corporation shall prepare and submit to the Director-General, in accordance with subsection (2) and such other requirements as may be prescribed, an energy efficiency improvement plan for a prescribed period in respect of any business activity or premises over which the registered corporation has operational control.
-
-(2) An energy efficiency improvement plan shall —
-
-(a) contain such information (including information on the implementation of any part of the plan) as may be prescribed; and
-
-(b) be submitted at the prescribed intervals and within the prescribed period.
-
-(3) A registered corporation which is unable to comply with subsection (1) in any particular case may apply in writing to the Director-General for a waiver and the Director-General may, if he is satisfied that there are good reasons to do so, waive the application of subsection (1) for a specified period of time or in respect of a specified business activity or specified premises or part thereof of the registered corporation.
-
-(4) The Director-General may, in respect of any incomplete energy efficiency improvement plan, in writing direct the registered corporation, within the time specified in the direction —
-
-(a) to carry out such rectifications or re-computation as the Director-General may require; and
-
-(b) to re-submit the energy efficiency improvement plan.
-
-(5) Any registered corporation which contravenes subsection (1) or fails to comply with a direction under subsection (4) shall be guilty of an offence.
+[Act 24 of 2017 wef 01/01/2018]
 
 ### Appointment of energy manager
 
-30\.—(1) Unless granted a waiver under subsection (5), every registered corporation shall appoint from among its employees such number of energy managers as may be prescribed for that class, description or type of registered corporation, each being an employee who has the prescribed qualifications and training to carry out all of the following functions:
+30\.—(1) Unless granted a waiver under section 31B, every registered corporation shall appoint from among its employees such number of energy managers as may be prescribed for that class, description or type of registered corporation, each being an employee who has the prescribed qualifications and training to carry out all of the following functions:
 
 (a) assist the registered corporation —
 
-(i) to prepare the report for submission under section 27;
+(i) to prepare the report for submission under section 27(1);
 
-(ii) to maintain the records required under section 28;
+[Act 24 of 2017 wef 01/01/2018]
 
-(iii) to prepare the energy efficiency improvement plan for submission under section 29 and implement the energy efficiency measures proposed in the energy efficiency improvement plan; and
+(ii) to maintain the records required under section 29;
+
+[Act 24 of 2017 wef 01/01/2018]
+
+(iii) to prepare the energy efficiency improvement plan for submission under section 28 and implement the energy efficiency measures proposed in the energy efficiency improvement plan; and
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (iv) generally to comply with the provisions of this Act;
 
@@ -819,6 +1088,8 @@ shall be guilty of an offence.
 (c) encourage energy conservation efforts by the registered corporation;
 
 (d) carry out such other duties as may be prescribed.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (2) A registered corporation shall notify the Director-General of every appointment of an energy manager within such period as may be prescribed.
 
@@ -834,47 +1105,109 @@ shall be guilty of an offence.
 
 (ii) within such period as may be prescribed, notify the Director-General of that substitute appointment.
 
-(5) A registered corporation which is unable to comply with subsection (1) in any particular case may apply in writing to the Director-General for a waiver and the Director-General may, if he is satisfied that there are good reasons to do so, waive the application of subsection (1) for a specified period of time.
+(5) [Deleted by Act 24 of 2017 wef 01/01/2018]
 
 (6) Any registered corporation which contravenes subsection (1), (2), (3) or (4) shall be guilty of an offence.
 
-### Energy manager not to falsify data
+### Data not to be falsified, etc.
 
-31\. Any energy manager appointed under section 30 who —
+31\. Any person that —
 
-(a) in any report or energy efficiency improvement plan prepared for submission to the Director-General under this Act, makes any statement which he knows to be false or misleading;
+(a) makes any statement in any report or plan required for submission to the Director-General under this Act, knowing it to be false or misleading;
 
-(b) makes any entry or omission in any record required to be kept under this Act, which he knows to be false or misleading, or makes any record containing a statement which he knows to be false or misleading; or
+(b) provides any statement, information or document in connection with a report or plan mentioned in paragraph (a) to the Director-General, knowing it to be false or misleading;
 
-(c) falsifies any data required to be submitted to the Director‑General under this Act,
+(c) falsifies any data required for a report or plan mentioned in paragraph (a) or otherwise required to be submitted to the Director-General under this Act; or
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(d) makes any entry or omission in any record required to be kept under this Act, knowing it to be false or misleading, or makes any record containing a statement knowing it to be false or misleading,
+
+shall be guilty of an offence.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+Division 3 —
+
+General provisions for this Part
+
+Subdivision (1) —
+
+Reports, waivers, penalties, etc.
+
+### Reports and plans
+
+31A\.—(1) A requirement to submit a report or a plan under this Part to the Director-General is a requirement to do so in accordance with any requirements prescribed under section 78 for the report or plan, including its preparation and submission.
+
+(2) The Director-General may, in respect of any incomplete or inaccurate report or plan submitted, in writing direct the person required to submit the report or plan to, within the time period specified in the direction (or such longer time as the Director-General may allow in the particular case) —
+
+(a) carry out such rectification or re-computation as the Director-General may require; and
+
+(b) resubmit the report or plan,
+
+and the person must comply with the direction.
+
+(3) Any person that contravenes subsection (2) shall be guilty of an offence.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Power of Director-General to waive requirements
+
+31B\.—(1) A person that, in any particular case, is unable to comply with any requirement under section 12 for any regulated goods that the person intends to supply, may apply in writing to the Director-General for a waiver and the Director-General may, upon being satisfied that there are good reasons to do so, waive the requirement for any of those goods.
+
+(2) A person who, in any particular case, is unable to comply with section 26A, 26B, 27A, 27B or 28 may apply in writing to the Director-General for a waiver and the Director-General may, upon being satisfied that there are good reasons to do so, waive the application of that provision —
+
+(a) generally or for a specified period of time; and
+
+(b) for any specified business activity or premises, or a part of any specified business activity or premises.
+
+(3) Without affecting subsection (2), a person that, in any particular case, is unable to comply with a prescribed minimum energy efficiency standard under section 26B for a prescribed energy-consuming system, may apply in writing to the Director-General for a modification of the standard and the Director-General may, upon being satisfied that there are good reasons to do so, modify the standard, subject to such conditions as the Director-General may impose; and the modified standard applies to the person in lieu of the prescribed standard accordingly.
+
+(4) A person that, in any particular case, is unable to comply with section 26C, 27 or 30 may apply in writing to the Director-General for a waiver and the Director-General may, upon being satisfied that there are good reasons to do so, waive the application of that provision for a specified period of time.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 ### Penalties for non-compliance
 
-32\. A registered corporation which is guilty of an offence under section 27, 28, 29 or 30 shall be liable —
+32\.—(1) Any person guilty of an offence under section 26A(3) (in relation to a contravention of section 26A(1)(b)), 26B(4) (in relation to a contravention of section 26B(2)(b) or (3)(b)), 26C(6), 27(4), 27A(2), 27B(2), 28(3), 29(3), 30(6) or 31A(3) shall be liable —
 
-(a) on the first conviction to a fine not exceeding $10,000; and
+(a) on the first conviction of that offence, to a fine not exceeding $10,000; and
 
-(b) on a second or subsequent conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after that second or subsequent conviction.
+(b) on a second or subsequent conviction of an offence under the same provision (and the same contravention where applicable) or if the person was previously convicted of an offence under a related provision, to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.
 
-Division 3 —
+(2) The following apply for the purpose of subsection (1)(b):
+
+(a) for an offence under section 27(4) (in relation to a contravention of section 27(1)), a related provision is section 27(1) as in force immediately before the date of commencement of section 16 of the Energy Conservation (Amendment) Act 2017;
+
+(b) for an offence under section 28(3), a related provision is section 29(1) as in force immediately before the date of commencement of section 16 of the Energy Conservation (Amendment) Act 2017;
+
+(c) for an offence under section 29(3), a related provision is section 28(1), (2) or (3) as in force immediately before the date of commencement of section 16 of the Energy Conservation (Amendment) Act 2017;
+
+(d) for an offence under section 31A(3), a related provision is section 27(4)(a) (in relation to a resubmission of a report) or (b) or 29(4), as the case may be, as in force immediately before the date of commencement of section 18 of the Energy Conservation (Amendment) Act 2017.
+
+(3) Any person guilty of an offence under section 26A(3) (in relation to a contravention of section 26A(1)(a)) shall be liable on conviction to a fine not exceeding $100,000.
+
+(4) Any person guilty of an offence under section 26B(4) (in relation to a contravention of section 26B(2)(a) or (3)(a)) shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence continues after conviction.
+
+(5) Any person guilty of an offence under section 31 shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+Subdivision (2) —
 
 Powers of enforcement
 
 ### Entering premises, etc., to monitor compliance
 
-33\. For the purposes of determining whether this Part has been complied with, an authorised officer may, on declaration of his office and production to the person against whom he is acting of such identification card as the Director-General may direct to be carried by authorised officers —
+33\. For the purposes of administering or enforcing this Part or determining whether this Part has been complied with, an authorised officer may, upon declaring his office and producing to an occupier of premises such identification card as the Director‑General may direct to be carried by authorised officers, do all or any of the following:
 
-(a) enter any premises owned or occupied by —
+(a) enter any premises —
 
-(i) a supplier of registrable goods; or
+(i) during normal business hours without notice; or
 
-(ii) a registrable corporation,
-
-during normal business hours without notice, or at any other time after giving not less than 6 hours’ previous notice to the occupier of the premises (unless the occupier has consented to a shorter period of notice); and
+(ii) at any other time after giving not less than 6 hours’ previous notice to the occupier of the premises (unless the occupier has consented to a shorter period of notice);
 
 (b) exercise any of the powers set out in sections 34, 35 and 36.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 ### Powers of authorised officers in monitoring compliance
 
@@ -910,19 +1243,33 @@ during normal business hours without notice, or at any other time after giving n
 
 ### Authorised officer may require persons to furnish information and produce documents
 
-35\.—(1) An authorised officer may require —
+35\.—(1) For the purposes of administering or enforcing this Part or determining whether this Part has been complied with, an authorised officer may (in connection with section 33 or otherwise) —
 
-(a) any supplier of registrable goods;
+(a) require any person to furnish to the authorised officer any information within the knowledge of that person; and
 
-(b) any registrable corporation;
+(b) require any person to produce to the authorised officer any document in the person’s custody or under the person’s control in connection with the matter.
 
-(c) any person who apparently represents a person referred to in paragraph (a) or (b);
+[Act 24 of 2017 wef 01/01/2018]
 
-(d) an energy manager of a registered corporation; or
+(1A) The authorised officer may —
 
-(e) any person who is on the premises of a person referred to in paragraph (a) or (b) when the authorised officer exercises his powers under section 33 or 34,
+(a) specify a time and place at which a person must furnish the information or produce the document under subsection (1); and
 
-to furnish any information within the knowledge of that person or produce any document in his custody or under his control in connection with the matter, and may, without payment, inspect, keep, copy or make extracts from such document.
+(b) without payment —
+
+(i) inspect, keep, copy, or make extracts from, a document produced or made available to the authorised officer under this section; and
+
+(ii) in relation to a document kept in electronic form, inspect, copy, or make extracts from, the document in legible form.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+(1B) Where a document is kept in electronic form, the power of the authorised officer to require the document to be produced includes the power to require the document to be made available to the authorised officer in legible form.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+(1C) To avoid doubt and without affecting the generality of subsection (1), that subsection applies to a person who supplies any energy-consuming system prescribed under section 26B, or any equipment relating to such system, or both, in respect of information and documents relating to such supplies.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (2) Any person who, without reasonable excuse, refuses or fails to comply with a requirement under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -946,9 +1293,11 @@ as the authorised officer may require for the purposes of this Part.
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-### Supplier of registrable goods and registrable corporation to provide authorised officer with all facilities and assistance
+### Authorised officers to be provided with all facilities and assistance
 
-37\. The supplier of any registrable goods and any registrable corporation shall provide the Director-General or any authorised officer exercising his powers under this Part, and any person assisting the Director-General or that officer, all reasonable facilities and assistance for the effective exercise of their powers.
+37\. Where the Director-General or any authorised officer exercises a power under this Part, the person against whom the power is exercised or sought to be exercised must provide the Director-General, authorised officer or any person assisting the Director-General or authorised officer, as the case may be, with all reasonable facilities and assistance for the effective exercise of the power.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 ### Penalty for obstructing Director-General or authorised officer in his duty
 
@@ -974,25 +1323,39 @@ Fuel economy labelling, etc., of motor vehicles
 
 “batch type-approval”, “modified type-approval” and “type‑approval” have the same meanings as in rule 3D of the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5);
 
-“FEL effective date” or “fuel economy labelling effective date”, in relation to any motor vehicle, means the date on which the motor vehicle becomes one of a class, description or type of motor vehicle specified in an order under section 40;
+“FEL effective date” or “fuel economy and vehicular emissions labelling effective date”, in relation to any motor vehicle, means the date on which the motor vehicle becomes one of a class, description or type of motor vehicle specified in an order under section 40;
 
-“sale” includes attempting to sell, causing or allowing to be sold, or displaying for sale.
+[Act 24 of 2017 wef 01/01/2018]
 
-### Motor vehicles subject to fuel economy requirements
+“sale” includes attempting to sell, causing or allowing to be sold, or displaying for sale;
 
-40\. The Transport Minister may, after consultation with the Land Transport Authority, by order published in theGazette, declare any class, description or type of motor vehicle to be subject to the fuel economy requirements in this Division from the date specified in the order.
+[Act 24 of 2017 wef 01/01/2018]
 
-### Fuel economy certificate, data and testing
+“vehicular emission”, in relation to a motor vehicle, means any vehicular emission that is a prescribed vehicular emission under section 11AA of the Road Traffic Act (Cap. 276).
 
-41\. Any authorised dealer, manufacturer or importer of motor vehicles intending to sell or offer for sale any motor vehicle of a class, description or type specified in an order under section 40 in Singapore on or after the FEL effective date in respect of that motor vehicle shall —
+[Act 24 of 2017 wef 01/01/2018]
+
+### Motor vehicles subject to requirements on fuel economy and vehicular emissions
+
+40\. The Transport Minister may, after consultation with the Land Transport Authority, by order published in theGazette, declare any class, description or type of motor vehicle to be subject to the requirements on fuel economy and vehicular emissions in this Division from the date specified in the order.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Fuel economy and vehicular emissions certificate, data and testing
+
+41\.—(1) Any authorised dealer, manufacturer or importer of motor vehicles intending to sell or offer for sale any motor vehicle of a class, description or type specified in an order under section 40 in Singapore on or after the FEL effective date in respect of that motor vehicle shall —
 
 (a) when applying for type-approval, batch type-approval or modified type-approval in respect of motor vehicles of that class, description or type, submit to the Registrar all of the following documents relating to the class, description or type of motor vehicle, in accordance with the prescribed requirements:
 
 (i) a certificate relating to fuel economy issued by a standards organisation or an international authority recognised by the Registrar;
 
-(ii) fuel consumption and carbon dioxide emissions data issued by a vehicle emission testing laboratory recognised by the Registrar or measured in accordance with any prescribed method or any method which meets any prescribed criteria;
+(ii) data on fuel consumption and vehicular emissions (including vehicular emissions levels) measured or determined in accordance with such method or any method which meets such criteria as may be provided for in regulations made under section 62;
 
-(iii) such other information and documents relating to fuel economy as may be prescribed; and
+[Act 24 of 2017 wef 01/01/2018]
+
+(iii) such other information and documents relating to fuel economy and vehicular emissions as may be prescribed; and
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (b) if required by the Registrar —
 
@@ -1000,15 +1363,33 @@ Fuel economy labelling, etc., of motor vehicles
 
 (ii) furnish to the Registrar such further documents or information as he may require in respect of those motor vehicles.
 
-### Fuel economy labelling
+[Act 24 of 2017 wef 01/01/2018]
+
+(2) The data required under subsection (1)(a)(ii) may be issued by a vehicle emission testing laboratory recognised by the Registrar.
+
+[Act 24 of 2017 wef 01/01/2018]
+
+(3) The Registrar may publish, in such form and manner as the Registrar deems appropriate, the data submitted to the Registrar under subsection (1)(a)(ii).
+
+[Act 24 of 2017 wef 01/01/2018]
+
+[Act 24 of 2017 wef 01/01/2018]
+
+### Labelling of fuel economy and vehicular emissions
 
 42\.—(1) No person shall, in the course of any trade or business, sell or offer for sale any motor vehicle of a class, description or type specified in an order under section 40 in Singapore on or after the FEL effective date for that motor vehicle, unless —
 
-(a) throughout the period that the motor vehicle is displayed for sale, the motor vehicle bears the fuel economy label approved by the Registrar for that class, description or type of motor vehicle, in the prescribed manner; and
+(a) throughout the period that the motor vehicle is displayed for sale, the motor vehicle bears the label on fuel economy and vehicular emissions, approved by the Registrar for that class, description or type of motor vehicle, in the prescribed manner; and
 
-(b) any printed promotional material or advertisement distributed by him relating to the class, description or type of motor vehicle contains the prescribed information relating to the fuel economy of the motor vehicle in such form and manner as may be prescribed.
+[Act 24 of 2017 wef 01/01/2018]
+
+(b) any printed promotional material or advertisement distributed by him relating to the class, description or type of motor vehicle contains such information on fuel economy and vehicular emissions of the motor vehicle, in such form and manner, as may be prescribed for the type of material or advertisement being distributed.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 ### False statements, forging of documentation, etc.
 
@@ -1018,7 +1399,9 @@ Fuel economy labelling, etc., of motor vehicles
 
 (b) makes or causes to be made any entry or omission in the information or documents submitted to the Registrar, which to his knowledge is false or misleading in any material particular; or
 
-(c) forges any approval, certificate or data required to be submitted to the Registrar or any fuel economy label,
+(c) forges any approval, certificate or data required to be submitted to the Registrar or any label on fuel economy and vehicular emissions mentioned in section 42,
+
+[Act 24 of 2017 wef 01/01/2018]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
@@ -1351,7 +1734,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Without prejudice to the generality of subsection (1), the Transport Minister may make regulations for or with respect to all or any of the following matters:
 
-(a) prescribing additional fuel economy testing, labelling or reporting requirements in relation to any class, description or type of motor vehicle specified in an order under section 40;
+(a) providing for additional fuel economy and vehicular emissions testing, labelling or reporting requirements in relation to any class, description or type of motor vehicle specified in an order under section 40;
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (b) specifying a minimum fuel economy standard with which any class, description or type of motor vehicle specified in an order under section 40 must comply;
 
@@ -1603,7 +1988,9 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
-(3) The Minister may make regulations to prescribe the offences which may be compounded.
+(3) The Minister may make regulations to prescribe the offences which may be compounded, including offences under the provisions of this Act which have been repealed.
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (4) All sums collected under this section shall be paid to the Consolidated Fund.
 
@@ -1631,47 +2018,59 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 78\.—(1) The Minister may make such regulations as he may consider necessary or expedient for carrying out the purposes and provisions of this Act (except Part IV).
 
-(2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
+(2) Without affecting the generality of subsection (1), the Minister may make regulations for or with respect to, or to otherwise make provision for, all or any of the following matters:
 
-(a) prescribing the registration requirements in relation to registrable goods and the suppliers of registrable goods, and the regulation of the labelling of registrable goods;
+(a) the registration requirements in relation to —
 
-(b) prescribing the registration requirements in relation to registrable corporations;
+(i) regulated goods;
 
-(c) specifying any energy efficiency standards or energy management standards with which any class or description of registered goods or registered corporations must comply;
+(ii) suppliers of regulated goods; and
 
-(d) in relation to reports under section 27 —
+(iii) registrable corporations;
 
-(i) specifying the methods, or criteria for methods, by which the amounts of emissions, reduction, removal, offsets, energy production or energy consumption are to be measured, including specifying —
+(b) the form of any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV);
 
-(A) different methods or criteria for different industry sectors;
+(c) the preparation of any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV), including the person that should prepare the same and any criteria that the person must satisfy;
 
-(B) different methods or criteria depending on the circumstances in which the emissions, reduction, removal, offsets, production or consumption occurred;
+(d) the information and documents to be included in or to accompany any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV);
 
-(C) conditions relating to the use of different methods or criteria;
+(e) without affecting paragraph (d), in relation to any report or plan mentioned in this Act (except Part IV), the methods, or criteria for the methods, by which the amounts of emissions, reductions, removals, offsets, energy production, energy consumption or any other matters are to be measured or determined, including any one or more of the following:
 
-(D) rating systems for those methods (including different rating systems for different circumstances); and
+(i) conditions relating to the use of different methods or criteria;
 
-(E) the particular rating given to each of those methods; and
+(ii) rating systems for those methods;
 
-(ii) specifying different requirements in relation to the information to be supplied in the report for different circumstances;
+(iii) the particular rating given to each of those methods;
 
-(e) requirements for the preparation and submission of a report under section 27 or an energy efficiency improvement plan under section 29;
+(f) the period within which any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV) is to be submitted (including at prescribed intervals);
 
-(f) requirements relating to the implementation of energy efficiency measures proposed in any energy efficiency improvement plan under section 29;
+(g) the manner in which any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV) is to be submitted, including the person that should submit the same and any criteria that the person must satisfy;
 
-(g) in relation to an energy manager under Part III —
+(h) the implementation of energy efficiency measures proposed in any energy efficiency improvement plan under section 28;
 
-(i) the requirements for the appointment, training and qualification of an energy manager;
+(i) the criteria which any person (including an independent third party under section 26C(5)(a)) carrying out any assessment required under this Act (except Part IV) must satisfy;
+
+(j) in relation to an energy manager under Part III —
+
+(i) the appointment, training and qualification of an energy manager;
 
 (ii) the functions and duties of an energy manager; and
 
-(iii) the powers of an energy manager, being necessary powers for the discharge of his functions and duties;
+(iii) the powers of an energy manager, being necessary powers for the discharge of the energy manager’s functions and duties;
 
-(h) prescribing any forms for use under this Act;
+(k) any fees and charges payable for an application under, or for any purpose of, this Act (except Part IV);
 
-(i) prescribing any fees and charges payable for the purposes of this Act;
+(l) any other matter that is required or permitted to be prescribed to give effect to this Act (except Part IV).
 
-(j) prescribing any other matter which is required or permitted to be prescribed to give effect to this Act.
+[Act 24 of 2017 wef 01/01/2018]
+
+(2A) Regulations made under this section may make different provision —
+
+(a) for different classes, descriptions or types of goods, persons or industry sectors; and
+
+(b) for different circumstances (including, in relation to subsection (2)(e), the circumstances in which the emissions, reductions, removals, offsets, energy production, energy consumption or other matters occur).
+
+[Act 24 of 2017 wef 01/01/2018]
 
 (3) The Minister may make regulations for the purpose of coordinating the exercise of powers by the Director-General under this Act and the exercise of powers by any other sector regulator referred to in Part IV, and may, in particular, make regulations to provide for the procedure to be followed —
 
@@ -1779,3 +2178,7 @@ This Legislative History is provided for the convenience of users of the Energy 
 ||Date of First Reading|13 July 2015 (Bill No. 26/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|22 January 2016|
+|4.|**Act 24 of 2017—Energy Conservation (Amendment) Act 2017**|
+||Date of First Reading|9 March 2017 (Bill No. 17/2017 published on 9 March 2017)|
+||Date of Second and Third Readings|3 April 2017|
+||Date of commencement|1 January 2018|
