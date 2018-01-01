@@ -66,7 +66,7 @@
 
 - [26 Power of investment](#Power-of-investment)
 
-- [27 (Repealed)](#Repealed)
+- [27 Power to make rules](#Power-to-make-rules)
 
 - [28 (Repealed)](#Repealed)
 
@@ -92,45 +92,19 @@
 
 - [35D Entry on premises to obtain statistical information](#Entry-on-premises-to-obtain-statistical-information)
 
-[**Part IV SALE OF FLATS, HOUSES OR OTHER BUILDINGS**](#Part-IV)
+[**Part IV TRANSFER OF HDB INDUSTRIAL UNDERTAKINGS**](#Part-IV)
 
-- [36 Application of this Part](#Application-of-this-Part)
+- [36 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [37 Restrictions on registration of assurance, lease, mortgage, transfer or charge](#Restrictions-on-registration-of-assurance-lease-mortgage-transfer-or-charge)
+- [37 Transfer of undertaking to Corporation](#Transfer-of-undertaking-to-Corporation)
 
-- [38 Conditions relating to sale, lease, mortgage or transfer of or charge on flat, house or building](#Conditions-relating-to-sale-lease-mortgage-or-transfer-of-or-charge-on-flat-house-or-building)
+- [38 Transferring employees to Corporation](#Transferring-employees-to-Corporation)
 
-- [39 Special provisions relating to sale of flat, house or building](#Special-provisions-relating-to-sale-of-flat-house-or-building)
+- [39 General preservation of employment terms](#General-preservation-of-employment-terms)
 
-- [40 Restrictions relating to purchase of flat, house or building](#Restrictions-relating-to-purchase-of-flat-house-or-building)
+- [40 Transfer of records](#Transfer-of-records)
 
-- [41 Conditions in respect of flat, house or building](#Conditions-in-respect-of-flat-house-or-building)
-
-- [42 Transfer of flat, house or other building on the death of owner](#Transfer-of-flat-house-or-other-building-on-the-death-of-owner)
-
-- [43 Establishment of management corporations](#Establishment-of-management-corporations)
-
-- [44 Corporation or company may exercise the powers of management corporation](#Corporation-or-company-may-exercise-the-powers-of-management-corporation)
-
-- [45 Determination of lease of flat, house or building](#Determination-of-lease-of-flat-house-or-building)
-
-- [46 Corporation may compulsorily acquire property sold subject to this Part](#Corporation-may-compulsorily-acquire-property-sold-subject-to-this-Part)
-
-- [47 Vesting of acquired property in Corporation](#Vesting-of-acquired-property-in-Corporation)
-
-- [48 Payment of compensation](#Payment-of-compensation)
-
-- [49 Taking possession](#Taking-possession)
-
-- [50 Giving false information](#Giving-false-information)
-
-- [51 Unauthorised subletting](#Unauthorised-subletting)
-
-- [52 Direction of Minister to be conclusive evidence](#Direction-of-Minister-to-be-conclusive-evidence)
-
-- [53 Power to make rules](#Power-to-make-rules)
-
-- [54 Exemption](#Exemption)
+- [41 Confirmation of undertaking transferred](#Confirmation-of-undertaking-transferred)
 
 [**Part V LIABILITY OF CORPORATION AT JURONG PORT**](#Part-V)
 
@@ -154,7 +128,7 @@
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
-- [64 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
+- [64 (Repealed)](#Repealed)
 
 - [65 Conduct of prosecution](#Conduct-of-prosecution)
 
@@ -192,13 +166,11 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“authorised occupier” means a person who is named in an application made to the Corporation as the person who intends to reside in the flat, house or building sold or to be sold by the Corporation under Part IV or any person who is authorised in writing by the Corporation to reside therein;
+[Deleted by Act 34 of 2017 wef 01/01/2018]
 
 “Chairman” means the Chairman of the Corporation appointed under section 4;
 
-“commercial property” means any flat, house or building or any part thereof which is permitted to be used pursuant to the Planning Act 1998 (Act 3 of 1998) or any other written law for the purpose of carrying on any business or which is lawfully so used, and includes any industrial property;
-
-[Act 20 of 2013 wef 08/11/2013]
+[Deleted by Act 34 of 2017 wef 01/01/2018]
 
 “common property” means so much of the developed land and all parts of the building as are not comprised in the flats in a building;
 
@@ -361,7 +333,13 @@ OF CORPORATION
 
 ### Members and officers of Corporation deemed to be public servants
 
-10\. The members of the Corporation and the employees thereof, of every description, shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+10\.—(1) The members of the Corporation and the employees thereof, of every description, shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+
+[Act 34 of 2017 wef 01/01/2018]
+
+(2) Every member, officer and employee of the Corporation is, in relation to his administration, collection and enforcement of payment of composition sums under section 67, taken to be a public officer for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to each of these persons even though he is not or was not in the employment of the Government.
+
+[Act 34 of 2017 wef 01/01/2018]
 
 ## PART III
 
@@ -647,7 +625,43 @@ PROVISIONS RELATING TO CORPORATION
 
 [45/2004 wef 15/12/2004]
 
-27\. [Repealed by Act 23/95]
+### Power to make rules
+
+27\.—(1) Despite section 32, the Corporation may, with the approval of the Minister, make rules prescribing anything that is to be prescribed and generally for carrying out the provisions of this Act.
+
+(2) Without prejudice to the generality of subsection (1), the Corporation may, with the approval of the Minister, make rules for or in respect of all or any of the following matters:
+
+(a) regulating the use and enjoyment of any common property or open space in any land vested in the Corporation, including —
+
+(i) restricting or prohibiting behaviour or activities on the common property or open space;
+
+(ii) restricting or prohibiting parking of vehicles on any common property or open space which is not a parking place within the meaning of the Parking Places Act (Cap. 214);
+
+(iii) waste disposal;
+
+(iv) safety or security measures; and
+
+(v) power for the Corporation to move, store or dispose of, or authorise the disposal of, objects or things left on such common property or open space and the passing of title to any objects or things on such disposal;
+
+(b) prescribing that any act or omission in contravention of any rule shall be an offence punishable by a fine not exceeding $5,000;
+
+(c) prescribing the penalty (such penalty, if unpaid, to constitute a debt due to the Corporation and be recoverable as such) to be paid by the Corporation’s lessee or licensee for late payment of any moneys due to the Corporation under any lease, tenancy or licence.
+
+(3) The Corporation or a duly authorised employee of the Corporation who reasonably believes that any person has committed an offence under any rules made under this section may require the person to furnish evidence of the person’s identity, and the person must furnish such evidence of that identity as so required.
+
+(4) Any person who —
+
+(a) without reasonable excuse, refuses to furnish any information required of the person by the Corporation or duly authorised employee of the Corporation under subsection (3); or
+
+(b) wilfully misstates such information,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(5) For the purposes of subsection (4), a person is not excused from disclosing any information required under subsection (3) on the ground that to do so might tend to incriminate the person or expose the person to a penalty.
+
+(6) All rules made under this Act are to be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 34 of 2017 wef 01/01/2018]
 
 28\. [Repealed by Act 20 of 2013 wef 08/11/2013]
 
@@ -843,393 +857,193 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ## PART IV
 
-SALE OF FLATS, HOUSES OR OTHER BUILDINGS
+TRANSFER OF HDB INDUSTRIAL UNDERTAKINGS
 
-### Application of this Part
+[Act 34 of 2017 wef 01/01/2018]
 
-36\. This Part shall apply only to flats, houses or buildings which are used or intended to be used solely for the purpose of human habitation.
+### Interpretation of this Part
 
-[29/74]
+36\. In this Part, unless the context otherwise requires —
 
-### Restrictions on registration of assurance, lease, mortgage, transfer or charge
+“asset”, in relation to the transferor, means property of any kind (whether tangible or intangible, whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether present, future or contingent) of the transferor on the eve of the transfer date and includes, without limitation —
 
-37\.—(1) The Registrar of Deeds and the Registrar of Titles shall not register any assurance, lease, mortgage, transfer or charge relating to any flat, house or building which has been bought or sold, leased, mortgaged or disposed of by a person in contravention of section 38 or 40(1).
+(a) a legal or equitable interest in real or personal property;
 
-[29/74]
+(b) a chose in action;
 
-(2) A certificate of the Corporation that any flat, house or building has been purchased, sold, leased, mortgaged, transferred or charged in accordance with the provisions of this Part shall be conclusive evidence of that fact.
+(c) a security;
 
-[31/80]
+(d) money;
 
-### Conditions relating to sale, lease, mortgage or transfer of or charge on flat, house or building
+(e) intellectual property;
 
-38\.—(1) No flat, house or building which has been sold by the Corporation under the provisions of this Part shall be sold, leased, mortgaged, transferred or charged without the written consent of the Corporation.
+(f) infrastructure, plant and equipment;
 
-[29/74; 31/80]
+(g) records and information (including data) in any form;
 
-(2) Where any assignment, mortgage, transfer, charge or lease of any such flat, house or other building which is executed by or on behalf of the owner thereof without the prior written consent of the Corporation is registered under the provisions of the Registration of Deeds Act (Cap. 269) or the Land Titles Act (Cap. 157), the Corporation may by an instrument lodged with the Registrar of Deeds or the Registrar of Titles, as the case may be, declare such assignment, mortgage, transfer, charge or lease to be void and the Registrar of Deeds or the Registrar of Titles, as the case may be, shall register the instrument without being concerned to inquire into its regularity or validity, and upon registration thereof shall cancel the registration of such assignment, mortgage, transfer, charge or lease.
+(h) a right;
 
-[11/78]
+“excluded undertaking” means such assets and liabilities of the transferor which are determined under section 41(1) as assets and liabilities that must not be transferred to the Corporation under this Part;
 
-(3) Any assignment, mortgage, transfer, charge or lease by an owner of a flat, house or other building sold subject to the provisions of this Part which would not be void but for this section, shall be deemed to be valid for the purposes of any legal proceedings instituted by the Corporation under sections 45, 46 and 51.
+“Industrial Properties Group” means the department of the transferor known as the Industrial Properties Group;
 
-### Special provisions relating to sale of flat, house or building
+“liability”, in relation to the transferor, means any liability, duty or obligation (whether actual or contingent, liquidated or unliquidated, and whether owed alone or jointly or jointly and severally with any other person) of the transferor on the eve of the transfer date;
 
-39\.—(1) Where —
+“records”, in relation to the transferor, means registers, papers, documents, minutes, receipts, books of account and other record, however compiled, recorded or stored, of the transferor existing on the eve of the transfer date;
 
-(a) a flat is sold by the Corporation to any person under the provisions of this Part; or
+“right”, in relation to the transferor, means any right, power, privilege or immunity of the transferor on the eve of the transfer date;
 
-(b) any estate or interest in such flat is —
+“transfer date” means a date specified by the Minister by order in theGazette;
 
-(i) subsequently transferred by or to any person with the written consent of the Corporation; or
+“transferor” means the Housing and Development Board constituted under the Housing and Development Act (Cap. 129);
 
-(ii) surrendered to the Corporation,
+“transferring employee” means an employee of the transferor who, on the eve of the transfer date, is deployed in the Industrial Properties Group.
 
-and a solicitor is not employed by that person to act for him in the transaction, the Corporation may by its duly authorised officer act for that person.
+[Act 34 of 2017 wef 01/01/2018]
 
-[31/80]
+### Transfer of undertaking to Corporation
 
-(2) Where the Corporation acts for any person under subsection (1), then for the purposes of the registration of any instrument relating to the sale of the flat or the transaction in respect of the flat —
+37\.—(1) On the transfer date, all assets and liabilities of the transferor that relate to the functions of the Industrial Properties Group, except the excluded undertaking, are transferred to the Corporation.
 
-(a) in the case of an instrument which is required to be registered under the Registration of Deeds Act (Cap. 269), section 11 of that Act shall not apply if a duly authorised officer of the Corporation certifies that the flat has been sold under the provisions of this Part; and
+(2) When any assets or liabilities are transferred under subsection (1), the following provisions have effect:
 
-(b) in the case of an instrument which is required to be registered under the provisions of the Land Titles Act (Cap. 157), a certificate of an officer of the Corporation duly authorised by the Corporation to act for the person shall be sufficient for the purposes of section 59 of that Act.
+(a) the assets of the transferor that are the subject of the transfer vest in the Corporation by virtue of this section and without the need for any further conveyance, transfer, assignment or assurance;
 
-(3) For the purposes of this section —
+(b) the liabilities of the transferor that are the subject of the transfer become by virtue of this section the liabilities of the Corporation;
 
-“flat” means any flat, house or other building sold by the Corporation under the provisions of this Part;
+(c) all legal or other proceedings relating to those assets or liabilities that are started before the transfer date by or against the transferor and pending immediately before that date are taken to be proceedings pending by or against the Corporation;
 
-“transfer”, in relation to a flat, means the conveyance, sale, purchase, assignment, mortgage, charge or the disposal in any manner of any estate or interest in the flat and includes a discharge of a mortgage, or a reconveyance, or the devolution of the rights of a deceased owner of the flat to another person, and “is transferred” shall be construed accordingly.
+(d) any legal or other proceedings relating to those assets or liabilities which could have been started immediately before the transfer date by or against the transferor may be started by or against the Corporation;
 
-(4) Section 30 of the Legal Profession Act (Cap. 161) shall not apply to any officer of the Corporation acting for any party to the transactions referred to in subsection (1).
+(e) a judgment or order of a court or other tribunal obtained before the transfer date by or against the transferor relating to those assets or liabilities may be enforced by or against the Corporation;
 
-### Restrictions relating to purchase of flat, house or building
+(f) any document relating to legal or other proceedings relating to those assets or liabilities that has been served on or by the transferor before the transfer date is taken, where appropriate, to have been served on or by the Corporation;
 
-40\.—(1) No person shall be entitled to purchase any flat, house or other building sold subject to the provisions of this Part if that person, his spouse or any authorised occupier —
+(g) any act, matter or thing done or omitted to be done before the transfer date in relation to those assets or liabilities by, to or in respect of the transferor is (to the extent to which that act, matter or thing has any force or effect) taken to have been done or omitted by, to or in respect of the Corporation;
 
-(a) is the owner of any other flat, house, building or land or has an estate or interest therein; or
+(h) a reference in any written law, in any instrument made under any Act, in any contract, agreement, arrangement or undertaking, or in any document of any kind to the transferor, as regards anything falling to be done or capable of being done on or after the transfer date and to the extent to which the reference relates to those assets or liabilities, is taken to be, or includes, a reference to the Corporation;
 
-(b) has, at any time within 30 months immediately prior to the date of making an application to the Corporation to purchase the flat, house or building or between the date of such application and the date of completion of the purchase of the flat, house or building, sold any flat, house, building or land of which he was the owner, or divested himself of any interest therein.
+(i) a reference in any written law, in any instrument made under any Act, in any contract, agreement, arrangement or undertaking, or in any document of any kind to an officer of the transferor, as regards anything falling to be done or capable of being done on or after the transfer date and to the extent to which the reference relates to those assets or liabilities, is taken to be, or includes, a reference to an officer of the Corporation whom the Corporation appoints for that purpose.
 
-[29/74; 11/78; 31/80]
+(3) In particular —
 
-(2) Where a person purchases a flat, house or other building in contravention of subsection (1), he shall not present for registration under the provisions of the Registration of Deeds Act (Cap. 269) or the Land Titles Act (Cap. 157) the assurance of the flat, house or other building.
+(a) all security deposits deposited with the transferor in relation to any assets or liabilities transferred under subsection (1) and not forfeited before the transfer date; and
 
-(2A) The Corporation shall on discovery of such a purchase —
+(b) the benefits of all indemnities, guarantees or warranties given to the transferor in relation to any assets or liabilities transferred under subsection (1) and not discharged before that date,
 
-(a) serve a written notice upon the purchaser of the flat, house or other building of its intention to lodge with the Registrar of Deeds or the Registrar of Titles, as the case may be, an instrument for the vesting in the Corporation of the title to or the estate or interest in that flat, house or other building; or
+are, without further assurance, transferred and deemed deposited with or given to the Corporation.
 
-(b) where no lease has been registered in favour of the purchaser, serve a written notice of the Corporation’s intention to terminate the agreement for a lease and to re-enter upon the flat, house or other building or part thereof in the name of the whole and thereupon any interest of the purchaser shall absolutely determine.
+(4) The operation of this section does not —
 
-[11/78]
+(a) constitute a breach of, or default under, an Act or other law or otherwise a civil wrong or criminal wrong;
 
-(3) The purchaser may, within 14 days after the service of the notice given pursuant to subsection (2A), appeal to the Minister whose decision shall be final and shall not be questioned in any court.
+(b) constitute a breach of duty of confidence (whether arising by contract, in equity, by custom, or in any other way);
 
-[11/78]
+(c) constitute a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets or liabilities or the disclosure of any information;
 
-(4) Where an appeal has been made to the Minister pursuant to subsection (3), the Corporation shall not proceed to vest the title to or the estate or interest in the flat, house or other building in itself, or to repossess the flat, house or other building, until the appeal has been disposed of or withdrawn.
+(d) terminate an agreement or fulfil any condition that allows a person to terminate any agreement or obligation, or give rise to any right or remedy in respect of any agreement or obligation;
 
-[11/78]
+(e) cause any contract or instrument to be void or otherwise unenforceable;
 
-(5) The Registrar of Deeds or the Registrar of Titles, as the case may be, shall register any instrument, lodged under subsection (2A), without being concerned to inquire into its regularity or validity, and upon its registration the title to or the estate or interest in the flat, house or building shall vest in the Corporation without further assurance free from all encumbrances (subject to such subsisting covenants, conditions or restrictions, if any, as may be binding on the Corporation) for such title, estate or interest as the Corporation would have had on the date of the registration of the instrument, if there had been no sale of the flat, house or building.
+(f) frustrate any contract or release any surety or other obligor wholly or in part from any obligation;
 
-[29/74; 11/78]
+(g) release a surety or other obligee wholly or in part from an obligation; or
 
-(6) Upon the registration of such an instrument —
+(h) constitute an event of breach of, or default under, any contract or other instrument.
 
-(a) in the case of a flat, house or building registered under the provisions of the Registration of Deeds Act (Cap. 269), the Registrar of Deeds shall make an entry in the books of the Registry that the flat, house or building has vested in the Corporation in accordance with subsection (5), and upon that entry being made, the flat, house or building shall vest in the Corporation free from all encumbrances, subject to such subsisting covenants, conditions or restrictions, if any, as may be binding on the Corporation; or
+(5) No attornment to the Corporation by a lessee from the transferor is required.
 
-(b) in the case of a flat, house or building, registered under the provisions of the Land Titles Act (Cap. 157), the flat, house or building shall vest in the Corporation free from all encumbrances, subject to such subsisting covenants, conditions or restrictions, if any, as may be binding on the Corporation, and the Registrar of Titles shall cancel the registration of any lease, mortgage or charge thereby overreached.
+[Act 34 of 2017 wef 01/01/2018]
 
-(7) The Corporation may, in its discretion, forfeit any moneys paid or deposited in respect of the purchase of any flat, house or other building from the Corporation if the Corporation discovers that the person has purchased or seeks to purchase the flat, house or other building in contravention of subsection (1).
+### Transferring employees to Corporation
 
-[11/78]
+38\.—(1) On the transfer date, every transferring employee —
 
-(8) The Corporation may, in its discretion, exempt any person or class of persons from all or any of the provisions of this section.
+(a) stops being an employee of the transferor; and
 
-[11/78]
+(b) is each transferred to the service, and becomes an employee, of the Corporation on terms no less favourable than those enjoyed by the employee on the eve of the transfer date.
 
-(9) Notwithstanding subsection (1), the Corporation may sell or lease a flat, house or other building to any person, notwithstanding that the person, his spouse or any authorised occupier has purchased or acquired with the prior written consent of the Corporation, any commercial property not exceeding in value $250,000 or such higher value as the Minister may allow, and that commercial property is used or intended to be used by any such person for business purposes.
+(2) The transfer of a transferring employee to the Corporation —
 
-[31/80]
+(a) does not interrupt continuity of service;
 
-### Conditions in respect of flat, house or building
+(b) does not constitute a retrenchment or redundancy; and
 
-41\.—(1) No lien by deposit of the title deeds, as security for a debt, of any flat, house or building that has been sold by the Corporation under the provisions of this Part shall be capable of being created in favour of any person and no caveat in support of any such lien by deposit shall be capable of being registered under the provisions of the Registration of Deeds Act (Cap. 269) or the Land Titles Act (Cap. 157).
+(c) does not entitle any employee so transferred to any payment or other benefit merely because he stops being employed by the transferor.
 
-[29/74; 31/80]
+(3) A certificate purporting to be signed by the Minister certifying that an individual named in the certificate was, with effect from the transfer date, employed by virtue of this section by the Corporation, is admissible in evidence in any proceedings as evidence of the matters stated in it.
 
-(2) No such flat, house or building shall vest in the Official Assignee on the bankruptcy of the owner thereof.
+(4) Nothing in this section prevents —
 
-(3) No such flat, house or building shall be attached in execution of a decree of a court.
+(a) any of the terms and conditions of employment of an individual transferred under this section from being altered by or under any law, award or agreement with effect from any time after the transfer date; and
 
-(4) Every trust or alleged trust, whether the trust is express, implied or constructive, which purports to be created in respect of such flat, house or building by the owner thereof shall be null and void and shall be incapable of being enforced by a court.
+(b) an individual transferred under this section from resigning from the Corporation at any time after the transfer date, in accordance with the terms and conditions of his employment then applicable.
 
-### Transfer of flat, house or other building on the death of owner
+(5) To avoid doubt, section 18A of the Employment Act (Cap. 91) does not apply to the transfer under this Part of any employee to the Corporation.
 
-42\.—(1) The transmission on the death of the owner, whether testate or intestate, or any transfer by the personal representatives of a deceased owner, of a flat, house or other building that has been sold subject to the provisions of this Part shall not be registered under the provisions of the Registration of Deeds Act (Cap. 269) or the Land Titles Act (Cap. 157) without the written consent of the Corporation.
+[Act 34 of 2017 wef 01/01/2018]
 
-(1A) Where the Corporation refuses to give its consent, the Corporation may lodge an instrument with the Registrar of Deeds or the Registrar of Titles, as the case may be, to have the flat, house or other building vested in the Corporation.
+### General preservation of employment terms
 
-[11/78]
+39\.—(1) The service with the Corporation of an employee transferred under section 38 (called in this section a transferred employee) must be regarded for all purposes as having been continuous with the service of the employee with the transferor immediately before the transfer date.
 
-(2) Where no representation has been taken out under a will or on the intestacy of a deceased owner of a flat, house or other building within 12 months from the death of the owner, or where representation has been taken out but the personal representatives do not apply for the Corporation’s written consent for the transmission or transfer of the flat, house or other building within 6 months from the date of representation, the Corporation may lodge an instrument with the Registrar of Deeds or the Registrar of Titles, as the case may be, to have the flat, house or other building vested in the Corporation.
+(2) On the transfer date —
 
-(3) Where on the death of the owner of a flat, house or other building that has been sold subject to the provisions of this Part the lease in favour of the owner has not been registered under the provisions of the Registration of Deeds Act or the Land Titles Act, or where no representation has been taken out under a will or on the intestacy of a deceased owner of such flat, house or other building within 12 months from the death of the owner, the Corporation may rescind the agreement for the lease of such flat, house or other building.
+(a) a transferred employee retains all accrued rights as if employment with the Corporation were a continuation of employment with the transferor;
 
-(4) Where the Corporation decides to lodge an instrument under subsection (1A) or (2) to have the flat, house or other building vested in itself or to rescind an agreement for a lease under subsection (3), the Corporation shall —
+(b) the liabilities of the transferor relating to the transferred employee’s accrued rights to annual, sick, maternity or other leave and superannuation become the liabilities of the Corporation; and
 
-(a) serve a written notice on the personal representatives of the deceased owner of, and on all persons known or believed to have an interest or estate in, the flat, house or other building; and
+(c) a reference in the contract of employment that had effect in relation to the transferred employee immediately before the transfer date is taken to be, or includes, a reference to the Corporation.
 
-(b) in the case where no representation is taken out, serve a notice on the flat, house or other building and on all persons known or believed to have an interest or estate in the flat, house or other building,
+(3) For any conduct whilst a transferred employee was employed by the transferor which would have rendered the employee liable to be reprimanded, reduced in rank, retired, dismissed or punished by the transferor, the Corporation may —
 
-of its intention to lodge with the Registrar of Deeds or the Registrar of Titles, as the case may be, an instrument of vesting under subsection (1A) or (2) or of its decision to rescind the agreement for a lease and of the compensation to be paid therefor and the date on which the instrument will be lodged as aforesaid, or the date the rescission is to take effect, not being a date earlier than 28 days after the date of the service of the notice.
+(a) start any disciplinary proceedings against that employee;
 
-(5) The personal representatives and any person who is interested in the estate of the deceased owner may, within 28 days after the day of service of the notice, appeal to the Minister whose decision shall be final and shall not be called in question in any court.
+(b) carry on and complete any disciplinary proceedings started by the transferor against the transferred employee if those proceedings are pending on the eve of the transfer date; and
 
-(6) Where an appeal is made to the Minister pursuant to subsection (5), the Corporation shall not proceed to lodge an instrument of vesting under subsection (1A) or (2) or rescind the agreement for a lease until the appeal is determined or withdrawn.
+(c) reprimand, reduce in rank, retire, dismiss or otherwise punish a transferred employee, as if the employee were not transferred.
 
-(7) The Registrar of Deeds or the Registrar of Titles, as the case may be, shall register any instrument lodged under subsection (1A) or (2) without being concerned to inquire into its regularity or validity and —
+(4) Where, on the eve of the transfer date, any matter about the conduct of a transferred employee whilst employed by the transferor —
 
-(a) in the case of a flat, house or other building registered under the provisions of the Registration of Deeds Act (Cap. 269), the Registrar of Deeds shall make an entry in the books of the Registry that the flat, house or other building has been vested in the Corporation; and
+(a) was in the course of being heard or investigated by a committee of the transferor acting under due authority; or
 
-(b) in the case of a flat, house or other building registered under the provisions of the Land Titles Act (Cap. 157), the Registrar of Titles shall register the instrument on the relevant folio of the land register without the necessity of the production of the duplicate certificate of title.
+(b) had been heard or investigated by a committee of the transferor acting under due authority but no order, ruling or direction had been made,
 
-(8) Upon entry being made or registration under subsection (7), the title to and the estate or interest in the flat, house or other building shall vest in the Corporation free from all encumbrances, subject to such subsisting covenants, conditions or restrictions, if any, as may be binding on the Corporation, and the Registrar of Deeds or the Registrar of Titles, as the case may be, shall cancel the registration of any mortgage, charge or lease thereby overreached.
+that committee must complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date, and that order, ruling or direction is to be regarded as an order, ruling or direction of the Corporation.
 
-(9) Where an appeal has been determined by the Minister or on the expiry of a period of 28 days after the service of the notice referred to in subsection (4) and the personal representatives do not consent to receive the compensation, or where representation has not been taken out under a will or on the intestacy of the deceased owner, or where there are conflicting claims to the compensation to be paid by the Corporation, the Corporation shall apply to the High Court ex parte by originating summons, supported by an affidavit, for an order to deposit the amount of the compensation in Court and, notwithstanding anything to the contrary in the Rules of Court for the time being in force, the High Court may make such an order.
+(5) Until such time as conditions of employment are drawn up by the Corporation for the transferred employees, every transferred employee is to be regarded as being employed by the Corporation on the same conditions of employment applicable to the employee on the eve of the transfer date as the transferor.
 
-[31/80]
+(6) Any condition of employment relating to the length of service with the Corporation must recognise the length of service of the employees so transferred while in the employment of the transferor (including any previous service of the employees taken to be service with the transferor) to be service with the Corporation.
 
-(10) The compensation to be paid by the Corporation for any flat, house or other building vested in the Corporation under this section shall be determined by the Corporation.
+[Act 34 of 2017 wef 01/01/2018]
 
-### Establishment of management corporations
+### Transfer of records
 
-43\.—(1) The owners of flats in any building or buildings of the Corporation shall, as soon as possible after they are directed by the Corporation in writing, establish a body corporate under the name of “The Management Corporation for flat numbers . . . of the Jurong Town Corporation building situate in Lot number . . . in Town Sub-Division or Mukim. . .”.
+40\. From the transfer date, every record, or part of any record, of the transferor that relates to —
 
-[29/74]
+(a) any assets or liabilities transferred to the Corporation under section 37; or
 
-(2) The Corporation shall not, without consulting all the owners of the flats in any building or buildings, issue any direction under subsection (1) to the owners of the flats.
+(b) any transferring employee,
 
-(3) Where a direction of the Corporation under subsection (1) is not carried out, the Corporation may, by notification in theGazette, authorise a company, incorporated under the provisions of any written law for the time being in force relating to companies, to exercise the functions, duties and powers of a management corporation.
+becomes the record of the Corporation.
 
-(4) The Corporation may, by notification in theGazette, revoke any authorisation granted to a company under subsection (3) without assigning any reason.
+[Act 34 of 2017 wef 01/01/2018]
 
-(5) A management corporation, referred to in subsection (1), shall be constituted by order made by the Corporation, which shall be published in theGazette.
+### Confirmation of undertaking transferred
 
-(6) Upon the constitution of a management corporation under subsection (5) and so long as one exists in relation to one or more buildings, the owners of flats in the building or buildings shall be —
+41\.—(1) For the purposes of determining the undertaking to be transferred to the Corporation under this Part, the Minister and the Minister charged with the responsibility for the transferor must, before the transfer date, after consulting the transferor and the Corporation, jointly specify the assets and liabilities of the transferor that relate to the functions of the Industrial Properties Group which must not be transferred to the Corporation under this Part.
 
-(a) members of the management corporation; and
+(2) If any dispute arises —
 
-(b) entitled to such voting rights as may be prescribed.
+(a) as to whether an asset or a liability, or an employee or a record is transferred under section 37, 38 or 40; or
 
-(7) A management corporation constituted under subsection (5) shall have perpetual succession and may sue and be sued in its name and do all other matters and things incidental or appertaining to a body corporate and not inconsistent with the provisions of this Act.
+(b) as to whether any, or any part of any, contract or document relates to an asset or a liability, or an employee or a record, transferred under section 37, 38 or 40,
 
-(8) The management corporation shall establish and maintain a fund for administrative purposes sufficient in the opinion of the management corporation for the control, management and administration of the common property of the building or buildings in relation to which the management corporation exists, for the payment of any rent, rates and premiums of insurance in respect of the common property and the discharge of any other obligations of the management corporation.
+the Minister for Finance may determine the matter and is to provide the concerned parties with written notice of that determination.
 
-(9) For the purposes of establishing and maintaining a fund in accordance with subsection (8), the management corporation may —
+(3) The determination of the Minister for Finance under subsection (2) is final and binding on the transferor and the Corporation.
 
-(a) determine from time to time the amounts to be raised for the purposes referred to in subsection (8);
-
-(b) raise amounts so determined by levying contributions on the owners of flats in the building or buildings referred to in subsection (8) in such proportions as may be prescribed; and
-
-(c) recover from any of the owners by an action in a court of competent jurisdiction any sum of money expended by the management corporation for rents, rates, premiums, maintenance, conservancy or for repairs to or done by it at its direction to his flat.
-
-(10) Subject to subsection (12), any contribution levied under subsection (9) shall be due and be payable —
-
-(a) on the passing of a resolution to that effect by the management corporation and in accordance with the terms of that resolution; or
-
-(b) if the Corporation or a company, as the case may be, is performing the functions of a management corporation and has been vested with its powers, under section 44, on the service of a written notice and in accordance with the terms of that notice,
-
-and may be recovered by the management corporation or the Corporation or company, as the case may be, in an action in a court of competent jurisdiction from the owner of a flat in a building referred to in subsection (8) at the time when the resolution or notice, as the case may be, was passed or served and from the owner of the flat at the time when the action is instituted jointly or severally.
-
-(11) A certificate of the Corporation shall be conclusive evidence of the amount that may be due to the Corporation under subsection (10).
-
-(12) A management corporation shall, on the application of an owner of a flat in a building in relation to which the management corporation exists under the provisions of this Act or a person authorised in writing by him, certify —
-
-(a) the amount determined as the contribution of the owner;
-
-(b) the manner in which that contribution is payable;
-
-(c) the extent to which his contribution has been paid by the owner; and
-
-(d) the amount of any rates paid by the management corporation and not recovered by it,
-
-and in favour of any person dealing with that owner such a certificate shall be conclusive evidence of the matters certified therein.
-
-(13) A management corporation constituted under subsection (5) shall not be wound up except by an order made by the Corporation cancelling the order by which it was constituted.
-
-(14) An order made under subsection (13) shall be published in theGazetteand shall provide for the winding up of the management corporation and for its dissolution.
-
-### Corporation or company may exercise the powers of management corporation
-
-44\. The functions and duties of a management corporation constituted under section 43(5) may be performed and its powers shall be vested in and may be exercised by —
-
-(a) the Corporation —
-
-(i) where a management corporation has not been constituted under section 43(5); or
-
-(ii) where a management corporation constituted under section 43(5) has been wound up by an order made under section 43(13); or
-
-(b) a company authorised by the Corporation under section 43(3).
-
-[29/74]
-
-### Determination of lease of flat, house or building
-
-45\. The Corporation may, where a flat, house or building has been sold by the Corporation under the provisions of this Act —
-
-(a) if any rent reserved by the lease or part thereof is unpaid for 3 calendar months after becoming payable and the Corporation has sent a demand in writing by registered post addressed to the owner of the flat, house or building (whether the demand has been received by the owner or not);
-
-(b) if the owner has committed any breach of a condition against assigning, underletting or parting with possession of the flat, house or other building or any part thereof or has committed any other condition the breach of which is not capable of remedy and the Corporation has sent a notice in writing by registered post addressed to the owner or purchaser at the flat, house or other building (whether the notice has been received or not);
-
-(c) if any condition (being a condition the breach of which is capable of remedy) on the part of the owner is not performed or observed within 2 weeks after a notice in writing has been sent by the Corporation to the owner addressed to the owner of the flat, house or other building drawing the attention of the owner to the non-performance or non-observance of the condition (whether the demand has been received by the owner or not);
-
-(d) if the owner has submitted a false statement in his application form for the purchase of the flat, house or building;
-
-(e) if the owner has, in the opinion of the Corporation, committed a breach of any of the rules made under section 53(1)(f); or
-
-(f) if the owner has, in the opinion of the Corporation, used the flat, house or building otherwise than for a purpose allowed by the lease,
-
-in every such case re-enter upon the flat, house or building or a part thereof in the name of the whole and thereupon the lease shall determine; but such determination shall be without prejudice to any right of action or remedy of the Corporation in respect of any such breach or any other breach of the conditions contained in the lease.
-
-[29/74; 11/78]
-
-### Corporation may compulsorily acquire property sold subject to this Part
-
-46\.—(1) The Corporation may compulsorily acquire any flat, house or other building sold subject to the provisions of this Part, whether before or after 23rd March 1978 —
-
-(a) if the owner thereof and his spouse, if any, has in the opinion of the Corporation ceased to occupy the flat, house or other building;
-
-(b) if the owner thereof, his spouse or any authorised occupier has at any time, whether before or after that date, acquired whether by operation of law or otherwise any title to or an estate or interest in any other flat, house or building or land;
-
-(c) if the flat, house or other building has in the opinion of the Corporation been used otherwise than for the purpose permitted by the lease;
-
-(d) if the owner thereof has permitted any person other than an authorised occupier to reside or stay in the flat, house or other building;
-
-(e) if the owner thereof has failed to perform or observe any condition contained in the lease to be performed or observed on the part of the owner after a notice in writing has been sent by the Corporation drawing his attention to the non-performance or non-observance of the condition in the lease and the Corporation is of the opinion that he is likely to continue to do the same if he should continue to own the flat, house or other building;
-
-(f) if the owner thereof has made a misleading or false statement in his application to the Corporation for the purchase of the flat, house or other building;
-
-(g) if the owner thereof has made misrepresentation of a material fact, whether innocently or otherwise, in his application to the Corporation for the purchase of the flat, house or other building;
-
-(h) if the owner thereof assigns, underlets or parts with the possession of the flat, house or other building or any part thereof without obtaining the prior written consent of the Corporation;
-
-(i) if, in the opinion of the Corporation, the flat, house or other building is not being occupied by such minimum number of persons as the Corporation may require;
-
-(j) if the owner thereof has at any time, whether before or after that date, ceased to be a citizen of Singapore; or
-
-(k) if the rent or any payments or any part thereof due to the Corporation reserved under the lease remains unpaid for 3 calendar months after they are due and payable and the Corporation has sent a notice of demand in writing to the owner thereof.
-
-[11/78; 31/80]
-
-(2) Subsection (1)(b) shall not apply to any owner or his spouse or any authorised occupier who has purchased or acquired, with the prior written consent of the Corporation, any commercial property not exceeding in value $250,000 or such higher value as the Minister may allow and the commercial property is used or intended to be used by any such person for business purposes.
-
-[31/80]
-
-(3) Where the Corporation intends to exercise its powers of compulsory acquisition conferred by this section, the Corporation shall serve a notice in writing on the owner of the flat, house or other building and all persons known or believed to be interested in claiming all or any part of the compensation to be paid for the flat, house or other building (referred to in this Part as an interested person) stating the Corporation’s intention to acquire the premises and the compensation to be paid therefor.
-
-(4) An owner or interested person who objects to a proposed acquisition by the Corporation may, within 28 days after the date of the service of a notice referred to in subsection (3), submit in writing to the Corporation precisely the grounds upon which he objects to the acquisition and the compensation offered by the Corporation.
-
-(5) The Corporation shall consider the objection and may either disallow it or allow it either wholly or in part, and shall serve the owner or interested person by post or otherwise with a written notice of its decision.
-
-(6) Any owner or interested person aggrieved by the decision of the Corporation may, within 28 days after the date of the service of such decision, appeal in the prescribed manner to the Minister whose decision shall be final.
-
-(7) This section shall not limit or affect the powers conferred upon the Corporation by any other provision of this Act or under any other written law to exercise its right of forfeiture and right of re-entry for a breach of any of the conditions of a lease.
-
-(8) The compensation to be paid by the Corporation for any flat, house or other building compulsorily acquired by the Corporation under this section shall be determined by the Corporation.
-
-### Vesting of acquired property in Corporation
-
-47\.—(1) When the Corporation has made a decision pursuant to section 46 to compulsorily acquire a flat, house or other building, the Corporation may —
-
-(a) lodge an instrument with the Registrar of Deeds or the Registrar of Titles, as the case may be, for the vesting in the Corporation of the title to or the estate or interest in that flat, house or other building —
-
-(i) in the case where no objection has been made pursuant to section 46(4), on the expiry of a period of 28 days after the date of the service of the notice referred to in section 46(3); and
-
-(ii) in the case where an appeal has been made to the Minister, at any time after the appeal has been determined by the Minister or when the appeal is withdrawn, as the case may be; and
-
-(b) in the case where no lease has been registered in favour of the owner, serve a written notice to terminate the agreement for a lease and to repossess the flat, house or other building or part thereof in the name of the whole and thereupon any interest of the purchaser shall absolutely determine.
-
-[11/78]
-
-(2) The Registrar of Deeds or the Registrar of Titles, as the case may be, shall register any instrument lodged under subsection (1) without being concerned to inquire into its regularity or validity and —
-
-(a) in the case of a flat, house or other building registered under the provisions of the Registration of Deeds Act (Cap. 269), the Registrar of Deeds shall make an entry in the books of the Registry that the flat, house or other building has been vested in the Corporation; or
-
-(b) in the case of a flat, house or other building registered under the provisions of the Land Titles Act (Cap. 157), the Registrar of Titles shall register the instrument on the relevant folio of the land register without the necessity of the production of the duplicate certificate of title.
-
-(3) Upon entry being made or registration under subsection (2), the title to and the estate or interest in the flat, house or other building shall vest in the Corporation free from all encumbrances, subject to such subsisting covenants, conditions or restrictions, if any, as may be binding on the Corporation, and the Registrar of Deeds or the Registrar of Titles, as the case may be, shall cancel the registration of any mortgage, charge or lease thereby overreached.
-
-### Payment of compensation
-
-48\.—(1) The Corporation shall pay the compensation determined by the Corporation, or varied by the Minister on an appeal, to an owner or to both an owner and an interested person in such proportion as the Corporation may decide or as may be varied by the Minister.
-
-(2) Where any party refuses to accept the compensation or where there is a dispute between the parties to the proportion they are entitled to the compensation to be paid, the Corporation shall apply to the High Court ex parte by originating summons supported by an affidavit for an order to deposit the amount of the compensation or any part thereof in Court and notwithstanding anything to the contrary in the Rules of Court for the time being in force the High Court may make such an order.
-
-[11/78]
-
-[42/2005 wef 01/01/2006]
-
-(3) The Corporation may withhold any compensation payable in respect of any flat, house or other building vested in the Corporation under this Act to any person until the Corporation has taken possession of that flat, house or other building.
-
-### Taking possession
-
-49\.—(1) Where any flat, house or other building has been vested in the Corporation pursuant to section 40 or 47, the Corporation may proceed to take possession of that flat, house or other building on the expiry of a period of 30 days after the service of a notice on the owner thereof.
-
-(2) If any officer of the Corporation is opposed or impeded in taking possession under this section of any flat, house or other building, the Corporation may take such measures (including the calling for the assistance of the police) as are necessary to have the occupants evicted from and to enforce the surrender of the flat, house or other building and to remove all things and other movable property found therein.
-
-[11/78]
-
-### Giving false information
-
-50\. Any person who makes any statement in his application to the Corporation for the purchase of a flat, house or other building which is false, and which he either knows or believes to be false or does not believe to be true, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[11/78]
-
-### Unauthorised subletting
-
-51\.—(1) Any person who being the lessee of a flat, house or other building sold by the Corporation subject to the provisions of this Part assigns, underlets or parts with the possession of the flat, house or other building or any part thereof without obtaining the prior written consent of the Corporation as required by the lease shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
-
-[11/78]
-
-(2) Any person who abets the commission of an offence under this section shall be punished with the punishment provided for the offence.
-
-### Direction of Minister to be conclusive evidence
-
-52\. If any dispute arises or should a ruling be required as to whether any property is a commercial property within the meaning of this Act, a direction by the Minister to the effect that the property is, or is not, a commercial property shall be conclusive evidence for all purposes; every such direction shall be final and shall not be called in question in any court or tribunal.
-
-[31/80]
-
-### Power to make rules
-
-53\.—(1) The Corporation may, with the approval of the Minister, make rules for giving effect to this Part and, in particular, for or with respect to all or any of the following matters:
-
-(a) the terms and conditions for the sale of a flat, house or building under the provisions of this Part;
-
-(b) the persons to whom the flat, house or building may be sold and the persons who are allowed to stay in the flat, house or building, including the qualifications as to income, the minimum number in the family, citizenship and ownership of any other properties by all or any such persons;
-
-(c) a scheme of savings by a prospective purchaser of the flat, house or building with the Corporation for the first minimum payment therefor;
-
-(d) the minimum first payment for the purchase of the flat, house or building and the maximum period that may be allowed for the payment of the balance of the purchase price thereof, together with the prescribed interest;
-
-(e) the functions, duties and powers of a management corporation constituted under section 43;
-
-(f) regulating the use, management and control of flats, houses or buildings that have been sold under the provisions of this Part, and the common property thereof;
-
-(g) prescribing the fees to be charged by the Corporation for acting for any person in the sale, purchase, transmission of the interest of a deceased owner, transfer, assignment, mortgage, discharge of a mortgage, reconveyance or surrender of a flat sold under the provisions of this Part or for acting for any surviving joint owner of such a flat in his application to register his entitlement consequent upon the death of the other joint owner; and
-
-(h) prescribing the penalty (such penalty, if unpaid, to constitute a debt due to the Corporation and be recoverable as such) to be paid by the owner of any flat, house or other building sold under the provisions of this Part or by any applicant for such flat, house or other building for non-observance or non-compliance with any of the restrictions, conditions or requirements of section 40, 45 or 46, where the Corporation does not institute proceedings against him under any of those sections.
-
-[29/74; 11/78; 31/80]
-
-(2) All such rules shall be presented to Parliament as soon as possible after publication in theGazette.
-
-### Exemption
-
-54\. The Minister may, by notification in theGazette, exempt any person or class of persons or any flat, house or building described therein from any of the provisions of this Part.
-
-[29/74]
+[Act 34 of 2017 wef 01/01/2018]
 
 ## PART V
 
@@ -1349,13 +1163,7 @@ LIABILITY OF CORPORATION AT JURONG PORT
 
 MISCELLANEOUS
 
-### Consent of Public Prosecutor
-
-64\. No court shall try any offence under this Act or any rules or regulations made thereunder except with the consent of the Public Prosecutor.
-
-[11/78]
-
-[15/2010 wef 02/01/2011]
+64\. [Repealed by Act 34 of 2017 wef 01/01/2018]
 
 ### Conduct of prosecution
 
@@ -1512,3 +1320,7 @@ This Legislative History is provided for the convenience of users of the Jurong 
 ||Date of First Reading|16 September 2013 (Bill No. 15/2013 published on 16 September 2013)|
 ||Date of Second and Third Readings|21 October 2013|
 ||Date of commencement|8 November 2013|
+|23.|**Act 34 of 2017—Jurong Town Corporation (Amendment) Act 2017**|
+||Date of First Reading|1 August 2017 (Bill No. 28/2017 published on 1 August 2017)|
+||Date of Second and Third Readings|11 September 2017|
+||Date of commencement|1 January 2018|
