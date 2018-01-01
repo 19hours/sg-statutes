@@ -72,7 +72,7 @@
 
 - [18A Transfer of member’s moneys in ordinary account or special account to retirement account](#Transfer-of-member’s-moneys-in-ordinary-account-or-special-account-to-retirement-account)
 
-- [18B Transfer of member’s moneys in ordinary account to special account](#Transfer-of-member’s-moneys-in-ordinary-account-to-special-account)
+- [18B Transfer of member’s money in ordinary account to special account](#Transfer-of-member’s-money-in-ordinary-account-to-special-account)
 
 - [18C Transfer of member’s moneys in ordinary account or special account to medisave account](#Transfer-of-member’s-moneys-in-ordinary-account-or-special-account-to-medisave-account)
 
@@ -496,13 +496,13 @@ PRELIMINARY
 
 [Act 6 of 2016 wef 01/01/2017]
 
-(1A) In this Act, unless the context otherwise requires, a person shall be deemed to attain, or to have attained, “N” years of age, or the age of “N” years, on the “Nth” anniversary of the day of his birth, where —
+(1A) For the purposes of this Act, unless the context otherwise requires or any regulations made under section 77(1)(a) provide otherwise —
 
-(a) “N” is a specified positive integer; and
+(a) an individual attains a particular age expressed in years on the corresponding anniversary of the date of that individual’s birth; and
 
-(b) “Nth” is the ordinal corresponding to that integer.
+(b) despite paragraph (a), where an individual was born on 29 February in any year, then, in any subsequent year that is not a leap year, the anniversary of that individual’s birth is deemed to occur on 1 March of that subsequent year.
 
-[18/2009]
+[Act 26 of 2016 wef 01/01/2018]
 
 (1B) For the purposes of this Act, a member’s accounts in the Fund shall be deemed to be dormant if, and with effect from the date on which, all of the following requirements are satisfied:
 
@@ -1232,13 +1232,15 @@ CONTRIBUTIONS TO FUND
 
 [22/2010]
 
-(7H) Where the Board has transferred any money standing to the credit of a member in the Fund from any account of the member in the Fund (referred to in this subsection as Account A) to any other account in the Fund (referred to in this subsection as Account B) under section 15(2A), (6), (7B) or (8A), 18(1)(a), (2)(a) or (3)(a), 18A(1), 18B(1), 18C(1) or 18D, any condition referred to in section 27(2)(b) or (3) or any regulations made under section 77(1), the Board may, on its own motion or on the application of the member, and subject to such terms and conditions as it may impose —
+(7H) Where the Board has transferred any money standing to the credit of a member in the Fund from any account of the member in the Fund (referred to in this subsection as Account A) to any other account in the Fund (referred to in this subsection as Account B) under section 15(2A), (6), (7B) or (8A), 18(1)(a), (2)(a) or (3)(a), 18A(1), 18B, 18C(1) or 18D, any condition referred to in section 27(2)(b) or (3) or any regulations made under section 77(1), the Board may, on its own motion or on the application of the member, and subject to such terms and conditions as it may impose —
 
 (a) restore to Account A the whole or any part of the amount of the transferred money;
 
 (b) pay into Account A the whole or such part, as the Board may determine, of any interest that would have been payable on the restored amount if the restored amount had not been transferred to Account B; and
 
 (c) transfer, from Account B to the general moneys of the Fund, the whole or such part, as the Board may determine, of any interest paid on the restored amount while the restored amount was in Account B.
+
+[Act 43 of 2017 wef 01/01/2018]
 
 [Act 26 of 2016 wef 01/01/2017]
 
@@ -2080,7 +2082,9 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 18\.—(1) The Board may, for any of the purposes mentioned in section 15(6C), and subject to any regulations made under section 77(1)(o) and such terms and conditions as the Board may impose, permit —
 
-(a) a member to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the retirement account of a relevant individual, if the relevant individual has attained the age of 55 years;
+(a) a member to transfer such portion (not exceeding such amount as may be prescribed) of the sum standing to the member’s credit in the Fund as the Board may determine to the retirement account of a relevant individual, if the relevant individual has attained the age of 55 years;
+
+[Act 43 of 2017 wef 01/01/2018]
 
 (b) any person to pay money into the retirement account of a member who has attained the age of 55 years; or
 
@@ -2114,7 +2118,9 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (3) The Board may, subject to any regulations made under section 77(1)(oa) and such terms and conditions as it may impose, permit —
 
-(a) a member to transfer such portion of the sum standing to his credit in the Fund as may be prescribed to the special account of a relevant individual, if the Board has not transferred under section 15(6CA) any amount from the sum standing to the credit of the relevant individual in the Fund to the relevant individual’s retirement account; or
+(a) a member to transfer such portion (not exceeding such amount as may be prescribed) of the sum standing to the member’s credit in the Fund as the Board may determine to the special account of a relevant individual, if the Board has not transferred under section 15(6CA) any amount from the sum standing to the credit of the relevant individual in the Fund to the relevant individual’s retirement account; or
+
+[Act 43 of 2017 wef 01/01/2018]
 
 [Act 24 of 2013 wef 28/06/2014]
 
@@ -2162,6 +2168,20 @@ shall be transferred by the Board to the member’s retirement account at the re
 
 [25/2008]
 
+(8A) The Minister may —
+
+(a) for the purposes of subsection (1)(a) or (3)(a), prescribe different amounts that may be transferred by different classes of members to different classes of relevant individuals;
+
+(b) for the purposes of subsection (2)(a), specify different amounts that may be transferred by different classes of members to different classes of relevant individuals; and
+
+(c) for the purposes of subsection (2)(b), specify different amounts that may be paid by different classes of persons to different classes of members.
+
+[Act 43 of 2017 wef 01/01/2018]
+
+(8B) The Board may, for the purposes of subsection (1)(a), (2)(a) or (3)(a), determine different portions that may be transferred by different classes of members to different classes of relevant individuals.
+
+[Act 43 of 2017 wef 01/01/2018]
+
 (9) In this section, “relevant time”, in relation to a member, means such time as may be prescribed in relation to the member in any regulations made under section 77(1).
 
 [Act 24 of 2013 wef 28/06/2014]
@@ -2180,29 +2200,11 @@ shall be transferred by the Board to the member’s retirement account at the re
 
 [Act 6 of 2016 wef 01/01/2017]
 
-### Transfer of member’s moneys in ordinary account to special account
+### Transfer of member’s money in ordinary account to special account
 
-18B\.—(1) The Board may, on the application of a member who has less than the prescribed amount standing to his credit in his special account and subject to such terms and conditions as the Board may impose, transfer to his special account a sum standing to his credit in his ordinary account, being a sum not exceeding the difference between —
+18B\. The Board may (on a member’s application and subject to any regulations made under section 77(1) and any terms and conditions as the Board may impose) transfer a sum, not exceeding the special account top-up limit computed in accordance with regulations made under section 77(1), from the amount standing to a member’s credit in the member’s ordinary account to the member’s special account.
 
-(a) the prescribed amount; and
-
-(b) the aggregate of —
-
-(i) the amount standing to his credit in his special account; and
-
-(ii) any amount withdrawn from his special account for the making of investments under any scheme in accordance with any regulations made under section 77(1)(n).
-
-[20/2011]
-
-(2) [Deleted by Act 20 of 2011]
-
-(3) In this section, “prescribed amount” means —
-
-(a) $65,000, where no other sum is specified under paragraph (b); or
-
-(b) where a sum is specified under this paragraph by the Minister for the purposes of this section by notification in theGazette, such sum as may for the time being be so specified.
-
-[30/98; 39/2000]
+[Act 43 of 2017 wef 01/01/2018]
 
 ### Transfer of member’s moneys in ordinary account or special account to medisave account
 
@@ -6276,7 +6278,13 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 77\.—(1) The Minister may, after consulting with the Board, make regulations —
 
-(a) to provide for the manner of payment, collection and refund of contributions and any matters incidental thereto, including by electronic or other means;
+(a) to prescribe the date on which, or month in which, a person born on 29 February is deemed to attain a particular age in any year for the purposes of this Act, including different dates or months for different purposes;
+
+[Act 26 of 2016 wef 01/01/2018]
+
+(aa) to provide for the manner of payment, collection and refund of contributions and any matters incidental thereto, including by electronic or other means;
+
+[Act 26 of 2016 wef 01/01/2018]
 
 (b) to provide for the disposal of amounts which are unclaimed, unpaid or otherwise remain in the Fund;
 
@@ -6412,19 +6420,27 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 [Act 6 of 2016 wef 01/01/2017]
 
-(oa) for the purposes of section 18(3), (6)(b) and (7) and, in particular, to prescribe —
+(oa) for the purposes of sections 18(3), (6)(b) and (7) and 18B and, in particular, to prescribe —
 
 (i) the method of computing the amount of moneys which may be transferred to or paid into a special account under section 18(3);
 
 [Act 24 of 2013 wef 28/06/2014]
 
-(ia) the order of priority in which the moneys and interest referred to in section 18(4)(a) and (b) and (5)(a) and (b) shall be transferred by the Board to a member’s retirement account; and
+(ia) the order of priority in which the moneys and interest referred to in section 18(4)(a) and (b) and (5)(a) and (b) shall be transferred by the Board to a member’s retirement account;
+
+[Act 43 of 2017 wef 01/01/2018]
 
 [Act 24 of 2013 wef 28/06/2014]
 
-(ii) the purposes for which any moneys transferred to or paid into a special account under section 18(3) may be applied, the amount which may be applied for each such purpose, and the manner in which any such amount may be withdrawn;
+(ii) the purposes for which any moneys transferred to or paid into a special account under section 18(3) may be applied, the amount which may be applied for each such purpose, and the manner in which any such amount may be withdrawn; and
+
+[Act 43 of 2017 wef 01/01/2018]
 
 [Act 24 of 2013 wef 28/06/2014]
+
+(iii) the method of computing the special account top-up limit mentioned in section 18B;
+
+[Act 43 of 2017 wef 01/01/2018]
 
 (ob) to provide for the reserved amount to be set aside or topped-up in an ordinary account;
 
@@ -7832,9 +7848,13 @@ is equal to an amount computed in either of the following ways, at the option of
 
 5. For the purpose of this Schedule —
 
-(a) a person is deemed to have attained 55, 60 or 65 years of age on the fifty-fifth, sixtieth or sixty-fifth anniversary, respectively, of the day of the person’s birth and the contributions payable in respect of an employee above 55, 60 or 65 years of age are payable from the first day of the month following the month in which the employee attains that age;
+(a) the contributions payable in respect of an employee above 55, 60 or 65 years of age are payable —
 
-[S 752/2015 wef 01/01/2016]
+(i) from the first day of the month following the month in which the employee attains that age; and
+
+(ii) in the case of an employee who is born on 29 February, from the first day of March in the year in which the employee attains that age;
+
+[S 717/2017 wef 01/01/2018]
 
 (b) the contribution payable by the employer shall be rounded off to the nearest dollar except where the fraction of a dollar is 50 cents, it shall be regarded as a dollar;
 
@@ -9114,6 +9134,18 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|1 August 2017|
+|213.|**Act 26 of 2016—Central Provident Fund (Amendment No. 2) Act 2016**|
+||Date of First Reading|13 September 2016|
+|||(Bill No. 26/2016)|
+||Date of Second and Third Readings|10 October 2016|
+||Date of commencement|1 January 2018|
+|214.|**G.N. No. S 717/2017—Central Provident Fund Act (Amendment of First Schedule) Notification 2017**|
+||Date of commencement|1 January 2018|
+|215.|**Act 43 of 2017—Central Provident Fund (Amendment) Act 2017**|
+||Date of First Reading|2 October 2017|
+|||(Bill No. 37/2017)|
+||Date of Second and Third Readings|6 November 2017|
+||Date of commencement|1 January 2018|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
