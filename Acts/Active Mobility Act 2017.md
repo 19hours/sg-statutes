@@ -216,6 +216,8 @@ Date of Commencement: 20 June 2017 Sections 68(a), (b) and (c), 70(1)(d) and 71(
 
 Date of Commencement: 14 August 2017 Section 70(1)(a) and (c)
 
+Date of Commencement: 15 January 2018 Section 70(1)(b) and (2)
+
 An Act for the establishment of public paths for walking, cycling or other similar purposes, to regulate the use of these public paths, and to make consequential and related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
