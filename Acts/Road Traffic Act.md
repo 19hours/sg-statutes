@@ -18,6 +18,10 @@
 
 - [5 Prohibition of vehicles not complying with rules as to construction, etc.](#Prohibition-of-vehicles-not-complying-with-rules-as-to-construction-etc)
 
+- [5A No riding of personal mobility devices on roads](#No-riding-of-personal-mobility-devices-on-roads)
+
+- [5B No riding of personal mobility device when towed by motor vehicle](#No-riding-of-personal-mobility-device-when-towed-by-motor-vehicle)
+
 - [6 Rules as to use and construction of vehicles](#Rules-as-to-use-and-construction-of-vehicles)
 
 - [6A Alteration of fuel-measuring equipment](#Alteration-of-fuel-measuring-equipment)
@@ -596,6 +600,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 “parking place” has the same meaning as in the Parking Places Act (Cap. 214);
 
+“personal mobility device” has the same meaning as in the Active Mobility Act 2017;
+
+[Act 3 of 2017 wef 15/01/2018]
+
 “participate”, in relation to an autonomous motor vehicle trial regulated under section 6C, means —
 
 (a) undertake the trial; or
@@ -853,6 +861,42 @@ and the surplus, if any, shall be paid to the person in whose name the vehicle o
 “non‑compliant vehicle or trailer” means a vehicle or trailer which does not comply with the rules as to construction, weight and equipment applicable to the class or description of vehicles to which the vehicle or trailer belongs.
 
 [Act 3 of 2017 wef 20/06/2017]
+
+### No riding of personal mobility devices on roads
+
+5A\.—(1) An individual must not ride a personal mobility device on a road at any time.
+
+(2) However, subsection (1) does not apply to an individual who is crossing a road in or on a personal mobility device —
+
+(a) if the individual crosses the road by the shortest safe route, and does not stay on the road longer than necessary to cross the road safely; or
+
+(b) if —
+
+(i) there is an obstruction on a shared path or footpath (within the meaning of the Active Mobility Act 2017) adjacent to the road (called an adjacent area);
+
+(ii) it is impracticable to travel on the adjacent area; and
+
+(iii) the individual travels no more than reasonably necessary along the road to avoid the obstruction.
+
+(3) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; and
+
+(b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 3 of 2017 wef 15/01/2018]
+
+### No riding of personal mobility device when towed by motor vehicle
+
+5B\.—(1) An individual must not ride a personal mobility device on a road at any time while the individual riding the device is towed by a motor vehicle or is otherwise holding on to a motor vehicle.
+
+(2) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; and
+
+(b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 3 of 2017 wef 15/01/2018]
 
 ### Rules as to use and construction of vehicles
 
@@ -6865,6 +6909,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 17/2017)|
 ||Date of Second and Third Readings|3 April 2017|
 ||Date of commencement|1 January 2018|
+|79.|**Act 3 of 2017—Active Mobility Act 2017**|
+||Date of First Reading|9 November 2016|
+|||(Bill No. 40/2016 published on 9 November 2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|15 January 2018|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
