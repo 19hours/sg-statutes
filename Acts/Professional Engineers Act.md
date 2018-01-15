@@ -42,6 +42,8 @@
 
 - [10 Illegal practice](#Illegal-practice)
 
+- [10A Recognition to carry out professional engineering work outside Singapore](#Recognition-to-carry-out-professional-engineering-work-outside-Singapore)
+
 - [11 Employment of unregistered professional engineer prohibited](#Employment-of-unregistered-professional-engineer-prohibited)
 
 - [12 Remuneration for professional engineering services](#Remuneration-for-professional-engineering-services)
@@ -126,13 +128,19 @@
 
 [**Part VIII GENERAL**](#Part-VIII)
 
+- [31K Investigators](#Investigators)
+
 - [32 Application of fees, etc., received by Board](#Application-of-fees-etc-received-by-Board)
 
-- [33 (Repealed)](#Repealed)
+- [33 Financial penalties payable into Consolidated Fund](#Financial-penalties-payable-into-Consolidated-Fund)
+
+- [33A Public servants](#Public-servants)
 
 - [34 Penalty for wilful falsification of register and for wrongfully procuring registration, etc.](#Penalty-for-wilful-falsification-of-register-and-for-wrongfully-procuring-registration-etc)
 
-- [35 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
+- [35 Offences by corporations](#Offences-by-corporations)
+
+- [35A Offences by unincorporated associations or partnerships](#Offences-by-unincorporated-associations-or-partnerships)
 
 - [36 Rules](#Rules)
 
@@ -164,15 +172,15 @@
 
 (CHAPTER 253)
 
-(Original Enactment: 23 of 1991)
+(Original Enactment: Act 23 of 1991)
 
 REVISED EDITION 1992
 
 (9th March 1992)
 
-An Act to establish the Professional Engineers Board, to provide for the registration of professional engineers, to regulate the qualifications and conduct of professional engineers and to regulate corporations, partnerships and limited liability partnerships which supply professional engineering services in Singapore.
+An Act to establish the Professional Engineers Board, to provide for the registration of professional engineers, to regulate the qualifications and conduct of persons that carry out professional engineering work, and to regulate corporations, partnerships, limited liability partnerships and limited partnerships which supply professional engineering services in Singapore.
 
-[27/2005 wef 01/12/2005]
+[Act 36 of 2017 wef 15/01/2018]
 
 [30th August 1991]
 
@@ -198,33 +206,41 @@ PRELIMINARY
 
 “builder”, “building” and “building works” have the same meanings as in the Building Control Act (Cap. 29);
 
-[18/2003 wef 01/01/2004]
-
 “building authority” means any person empowered under the provisions of the Building Control Act to approve plans of building works;
 
 “certificate of registration” means the certificate of registration issued under section 17;
 
 “Disciplinary Committee” means a Disciplinary Committee appointed under section 31C;
 
-[27/2005 wef 01/12/2005]
+“foreign engineer” means any person who is authorised to carry out professional engineering work in a country or territory outside Singapore under the law of that country or territory;
+
+[Act 36 of 2017 wef 15/01/2018]
 
 “Investigation Committee” means an Investigation Committee appointed under section 30;
 
-[27/2005 wef 01/12/2005]
-
 “Investigation Panel” means the Investigation Panel appointed under section 27;
-
-[27/2005 wef 01/12/2005]
 
 “licence” means a licence to supply professional engineering services granted under section 20;
 
 “licensed”, in relation to a corporation, partnership or limited liability partnership, means a corporation, partnership or limited liability partnership which has in force a licence;
 
-[27/2005 wef 01/12/2005]
+“licensed professional engineering practice” means —
+
+(a) a limited corporation licensed under section 20(1);
+
+(b) an unlimited corporation licensed under section 20(2);
+
+(c) a partnership licensed under section 20(3); or
+
+(d) a limited liability partnership licensed under section 20(4);
+
+[Act 36 of 2017 wef 15/01/2018]
 
 “limited liability partnership” has the same meaning given to it by section 4(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
 
-[27/2005 wef 01/12/2005]
+“limited partnership” means a limited partnership registered under the Limited Partnerships Act (Cap. 163B);
+
+[Act 36 of 2017 wef 15/01/2018]
 
 “manager” —
 
@@ -232,9 +248,11 @@ PRELIMINARY
 
 (b) in relation to a limited liability partnership, has the same meaning as in section 2(1) of the Limited Liability Partnerships Act 2005;
 
-[27/2005 wef 01/12/2005]
-
 “nominee”, in relation to any person, means a person who is accustomed or under an obligation (whether formal or informal) to act in accordance with directions, instructions or wishes of the first-mentioned person, except that a person shall not be regarded as a nominee of another person by reason only that he acts on the advice given by that other person in a professional capacity;
+
+“partnership” includes a limited partnership;
+
+[Act 36 of 2017 wef 15/01/2018]
 
 “practising certificate” —
 
@@ -244,21 +262,27 @@ PRELIMINARY
 
 (c) in relation to an allied professional who is a land surveyor registered under the Land Surveyors Act (Cap. 156), means a practising certificate issued under section 15 of that Act;
 
-[27/2005 wef 01/12/2005]
+“prescribed branch of professional engineering work” means professional engineering work in any of the following branches of engineering:
+
+(a) chemical engineering;
+
+(b) civil engineering;
+
+(c) electrical engineering;
+
+(d) mechanical engineering;
+
+(e) such other branches of engineering as may be prescribed;
+
+[Act 36 of 2017 wef 15/01/2018]
 
 “President” means the President of the Board;
 
-[27/2005 wef 01/12/2005]
-
 “professional engineering services” means consultancy or advisory services that require a person to engage in professional engineering work;
-
-[27/2005 wef 01/12/2005]
 
 “professional engineering work” includes any professional service, consultation, investigation, evaluation, planning, design, or responsible supervision of construction or operation in connection with any public or privately owned public utilities, buildings, machines, equipment, processes, works or projects wherein the public interest and welfare, or the safeguarding of life, public health or property is concerned or involved, and that requires the application of engineering principles and data;
 
 “register of licensees” means the register of licensed corporations, partnerships and limited liability partnerships kept by the Board under section 8(1)(c);
-
-[27/2005 wef 01/12/2005]
 
 “register of practitioners” means the annual register of practitioners kept by the Board under section 8(1)(b);
 
@@ -269,6 +293,10 @@ PRELIMINARY
 “Registrar” means the Registrar of the Board appointed under section 9;
 
 “rules” means rules made by the Board under section 36;
+
+“specialist professional engineer” means a person registered under section 15A as a specialist professional engineer;
+
+[Act 36 of 2017 wef 15/01/2018]
 
 “unlimited corporation” means a corporation formed on the principle of having no limit placed on the liability of its members.
 
@@ -302,15 +330,9 @@ PROFESSIONAL ENGINEERS BOARD
 
 (e) a registered architect from the Board of Architects to be appointed by the Minister.
 
-[27/2005 wef 01/10/2005]
-
 (3) Not less than 5 members of the Board shall be in private practice.
 
-[27/2005 wef 01/10/2005]
-
 (4) If elections held for the purposes of subsection (2)(c) result in less than 6 persons being elected as members of the Board thereunder, the Minister may appoint such number, as he thinks fit, of registered professional engineers who have in force a practising certificate to be members of the Board, except that the number of members so appointed and the number of members elected under subsection (2)(c) shall not exceed 6 in the aggregate.
-
-[27/2005 wef 01/10/2005]
 
 (5) Of the members elected under subsection (2)(c) or appointed under subsection (4), there shall be at least —
 
@@ -320,31 +342,19 @@ PROFESSIONAL ENGINEERS BOARD
 
 (c) one registered professional engineer in the branch of mechanical engineering.
 
-[27/2005 wef 01/10/2005]
-
 (6) Only registered professional engineers of at least 10 years’ standing may be elected under subsection (2)(c) or appointed under subsection (4) as members of the Board.
 
-[27/2005 wef 01/10/2005]
+(7) The members elected under subsection (2)(c) shall hold office for a term not exceeding 3 years and shall be eligible for re-election.
 
-(7) The members elected under subsection (2)(c) shall hold office for a term not exceeding 3 years and shall be eligible for re-election for not more than 2 consecutive terms.
+[Act 36 of 2017 wef 15/01/2018]
 
-[27/2005 wef 01/10/2005]
+(7A) However, a person is ineligible for re‑election to office as a member under subsection (2)(c) if the re‑election would result in the person holding office as a member for 3 consecutive terms.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (8) The members appointed under subsection (2)(d) or (e) or (4) shall hold office for a term not exceeding 3 years and shall be eligible for re-appointment.
 
-[27/2005 wef 01/10/2005]
-
 (9) The Minister may, at any time, revoke the appointment of any member appointed under subsection (2)(d) or (4) without assigning any reason.
-
-[27/2005 wef 01/10/2005]
-
-(10) [Deleted by Act 27/2005 wef 01/10/2005]
-
-(11) [Deleted by Act 27/2005 wef 01/10/2005]
-
-(12) [Deleted by Act 27/2005 wef 01/10/2005]
-
-(13) [Deleted by Act 27/2005 wef 01/10/2005]
 
 ### Compulsory voting
 
@@ -356,8 +366,6 @@ PROFESSIONAL ENGINEERS BOARD
 
 (b) pays to the Board a penalty prescribed by the Board.
 
-[27/2005 wef 01/10/2005]
-
 ### President of Board
 
 4B\.—(1) The Board shall have a President who shall be elected by the members of the Board from among its members —
@@ -366,9 +374,13 @@ PROFESSIONAL ENGINEERS BOARD
 
 (b) who have been appointed under section 4(2)(d).
 
-(2) The President elected under subsection (1) shall serve for a term not extending beyond the expiration of the term for which he has been appointed or elected to be a member of the Board and shall be eligible for re-election for not more than 2 consecutive terms.
+(2) The President elected under subsection (1) shall serve for a term not extending beyond the expiration of the term for which he has been appointed or elected to be a member of the Board and shall be eligible for re-election.
 
-[27/2005 wef 01/10/2005]
+[Act 36 of 2017 wef 15/01/2018]
+
+(3) However, a person is ineligible for re‑election as the President under subsection (1) if the re‑election would result in the person holding office as the President for 3 consecutive terms.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Disqualifications for membership of Board
 
@@ -382,11 +394,7 @@ PROFESSIONAL ENGINEERS BOARD
 
 (d) he is mentally disordered and incapable of managing himself or his affairs or is incapacitated by physical illness; or
 
-[21/2008 wef 01/03/2010]
-
 (e) he has at any time after due inquiry been found guilty by a Disciplinary Committee of improper conduct.
-
-[27/2005 wef 01/10/2005]
 
 ### Filling of vacancies
 
@@ -414,8 +422,6 @@ PROFESSIONAL ENGINEERS BOARD
 
 (7) No act done by or under the authority of the Board shall be invalid in consequence of any defect that is afterwards discovered in the appointment, election or qualification of the members or any of them.
 
-[27/2005 wef 01/10/2005]
-
 ### Meetings and quorum of Board
 
 4E\.—(1) At any meeting of the Board, 8 members shall form a quorum and no business shall be transacted at any meeting unless a quorum is present.
@@ -428,8 +434,6 @@ PROFESSIONAL ENGINEERS BOARD
 
 (5) The Board shall cause proper records of its proceedings to be kept.
 
-[27/2005 wef 01/10/2005]
-
 ### Common seal of Board
 
 5\.—(1) The common seal of the Board shall bear such device as the Board may approve and the seal may from time to time be broken, changed, altered or made anew by the Board as it may think fit.
@@ -440,7 +444,9 @@ PROFESSIONAL ENGINEERS BOARD
 
 6\. The functions of the Board shall be —
 
-(a) to keep and maintain a register of professional engineers, a register of practitioners and a register of licensees;
+(a) to keep and maintain every register mentioned in section 8(1);
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (b) to hold or arrange for the holding of such examinations as the Board considers necessary for the purpose of enabling persons to qualify for registration under this Act;
 
@@ -448,27 +454,23 @@ PROFESSIONAL ENGINEERS BOARD
 
 (d) to establish and maintain standards of professional conduct and ethics of the engineering profession;
 
-(e) to promote learning and education in connection with engineering, either alone or in conjunction with any other professional body;
+(e) to promote learning and education in connection with engineering and the development of professional engineering, either alone or in conjunction with any other person;
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (f) to hear and determine disputes relating to professional conduct or ethics of professional engineers or to appoint a committee or arbitrator to hear and determine those disputes;
 
-(g) to license corporations, partnerships and limited liability partnerships which supply professional engineering services in Singapore; and
+(g) to license corporations, partnerships and limited liability partnerships which supply professional engineering services relating to any of the prescribed branches of professional engineering work in Singapore; and
 
-[27/2005 wef 01/12/2005]
+[Act 36 of 2017 wef 15/01/2018]
 
 (h) generally to do all such acts, matters and things as are necessary to be carried out under the provisions of this Act.
 
 ### Committees
 
-7\.—(1) The Board may appoint such committees from among its members, registered professional engineers or allied professionals as it thinks fit to assist or advise the Board on such matters arising out of its functions under this Act as are referred to them by the Board.
+7\.—(1) The Board may appoint such committees from among its members, registered professional engineers, allied professionals or such other persons as it thinks fit to assist or advise the Board on such matters arising out of its functions under this Act as are referred to them by the Board.
 
-(2) [Deleted by Act 27/2005 wef 01/12/2005]
-
-(3) [Deleted by Act 27/2005 wef 01/12/2005]
-
-(4) [Deleted by Act 27/2005 wef 01/12/2005]
-
-(5) [Deleted by Act 27/2005 wef 01/12/2005]
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Registers
 
@@ -478,19 +480,19 @@ PROFESSIONAL ENGINEERS BOARD
 
 (b) a register of specialist professional engineers in which shall be entered the names of persons who are registered under section 15A as specialist professional engineers;
 
-[27/2005 wef 01/12/2005]
+(c) an annual register of practitioners in which shall be entered the particulars as contained in the declaration delivered under section 18(3)(a);
 
-(c) an annual register of practitioners in which shall be entered the particulars as contained in the declaration delivered under section 18(3)(a); and
+[Act 36 of 2017 wef 15/01/2018]
 
-[27/2005 wef 01/12/2005]
+(d) a register of licensees containing the names of all licensed professional engineering practices and such other particulars as may be determined by the Board; and
 
-(d) a register of licensees in which shall be entered the names of all licensed corporations, partnerships and limited liability partnerships and such other particulars in relation thereto as may from time to time be determined by the Board.
+[Act 36 of 2017 wef 15/01/2018]
 
-[27/2005 wef 01/12/2005]
+(e) a register containing the names and any other particulars as may be determined by the Board, of all foreign engineers authorised under section 10(1)(c).
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (2) There shall be indicated against each person’s name in the register of professional engineers, the register of specialist professional engineers and the register of practitioners such branch or branches of engineering as in the opinion of the Board the registered professional engineer is qualified to practise.
-
-[27/2005 wef 01/12/2005]
 
 ### Appointment and duties of Registrar
 
@@ -514,31 +516,39 @@ PRIVILEGES OF PROFESSIONAL ENGINEERS
 
 ### Illegal practice
 
-10\.—(1) Subject to the provisions of this Act, no person shall engage in any of the prescribed branches of professional engineering work in Singapore or draw or prepare any plan, sketch, drawing, design, specification or other document relating to any of the prescribed branches of professional engineering work in Singapore unless the person —
+10\.—(1) Subject to the provisions of this Act, a person must not, in Singapore, engage in any of the prescribed branches of professional engineering work, or draw or prepare any plan, sketch, drawing, design, specification or other document relating to any of the prescribed branches of professional engineering work, unless the person —
 
-(a) is a registered professional engineer who has in force a practising certificate authorising him to engage in that branch of professional engineering work;
+(a) is a registered professional engineer who has in force a practising certificate authorising him to engage in that prescribed branch of professional engineering work;
 
-(b) is under the direction or supervision of a registered professional engineer who has in force a practising certificate authorising the professional engineer to engage in that branch of professional engineering work; or
+(b) is working under the direction or supervision of a person mentioned in paragraph (a);
 
-(c) is authorised by the Board to work in collaboration (but without a right to any independent practice) with a registered professional engineer who has in force a practising certificate authorising the registered professional engineer to engage in that branch of professional engineering work.
+(c) being a foreign engineer, is authorised by the Board to engage in such professional engineering work in collaboration with a person mentioned in paragraph (a);
 
-[27/2005 wef 01/12/2005]
+(d) is a licensed professional engineering practice licensed to supply professional engineering services relating to that prescribed branch of professional engineering work; or
 
-(1A) The Board may grant its authorisation to any person under subsection (1)(c) subject to such conditions as the Board thinks fit to impose.
+(e) is a partnership consisting wholly of registered professional engineers —
 
-[27/2005 wef 01/12/2005]
+(i) each of whom has in force a practising certificate; and
+
+(ii) one or more of whom is authorised to engage in that prescribed branch of professional engineering work.
+
+[Act 36 of 2017 wef 15/01/2018]
+
+(1A) The Board may, upon the payment of the prescribed fee, grant its authorisation to any person under subsection (1)(c) subject to such conditions as the Board thinks fit to impose.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (2) Subject to the provisions of this Act, no person shall sign and submit to a building authority or to a public authority (as defined in section 3(2)) —
 
-(a) any plan, sketch, drawing, design, specification or other document relating to any professional engineering work in Singapore; or
+(a) any plan, sketch, drawing, design, specification or other document relating to any of the prescribed branches of professional engineering work in Singapore; or
 
-(b) any report on or a certificate or other document relating to any professional engineering work in Singapore which is required by any written law to be signed by a professional engineer,
+[Act 36 of 2017 wef 15/01/2018]
+
+(b) any report on or a certificate or other document relating to any of the prescribed branches of professional engineering work in Singapore which is required by any written law to be signed by a professional engineer,
+
+[Act 36 of 2017 wef 15/01/2018]
 
 unless the person is a registered professional engineer who has in force a practising certificate authorising him to engage in such professional engineering work; and any document that is signed in contravention of this subsection shall be invalid.
-
-[Act 4/95 wef 01/04/1995]
-
-[27/2005 wef 01/12/2005]
 
 (3) Subject to the provisions of this Act, no person shall use verbally or otherwise —
 
@@ -550,71 +560,113 @@ unless the person is a registered professional engineer who has in force a pract
 
 unless the person is a registered professional engineer.
 
-[Act 4/95 wef 01/04/1995]
-
 (3A) Where the Board has authorised any person under subsection (1)(c) to work in collaboration with a registered professional engineer, the Board may allow that person to use such addition to or derivative of the words “professional engineer” as may be approved by the Board.
 
-[27/2005 wef 01/12/2005]
+(4) Subject to the provisions of this Act, a person must not advertise or hold himself out, or conduct himself in any way or by any means, as a person who is authorised to supply in Singapore, professional engineering services relating to any of the prescribed branches of professional engineering work, unless the person is —
 
-(4) Subject to the provisions of this Act, no person shall advertise or hold himself out or conduct himself in any way or by any means as a person who is authorised to supply professional engineering services in Singapore, unless the person is a registered professional engineer who has in force a practising certificate, a licensed corporation, a licensed partnership, a licensed limited liability partnership or a partnership consisting wholly of registered professional engineers:
+(a) a registered professional engineer who has in force a practising certificate authorising him to engage in that prescribed branch of professional engineering work to which those services relate;
 
-Provided that nothing in this subsection shall apply to prevent a corporation or limited liability partnership that ceases to have in force a licence from carrying on any activity necessary to the winding up of the corporation or limited liability partnership.
+(b) a licensed professional engineering practice licensed to supply professional engineering services relating to that prescribed branch of professional engineering work; or
 
-[Act 4/95 wef 01/04/1995]
+(c) a partnership consisting wholly of registered professional engineers —
 
-[27/2005 wef 01/12/2005]
+(i) each of whom has in force a practising certificate; and
 
-(5) Subject to the provisions of this Act, no person shall supply or offer to supply professional engineering services in Singapore unless the person is —
+(ii) one or more of whom is authorised to engage in that prescribed branch of professional engineering work.
 
-(a) a registered professional engineer who has in force a practising certificate authorising him to engage in professional engineering work to which those services relate and is doing so on his own account or as a partner in a licensed partnership, licensed limited liability partnership or partnership consisting wholly of registered professional engineers;
+[Act 36 of 2017 wef 15/01/2018]
 
-(b) an allied professional and is doing so only by reason of being a partner in a licensed partnership or limited liability partnership; or
+(5) Nothing in subsection (4) prevents a licensed professional engineering practice from carrying on any activity necessary to the winding up of that practice.
 
-(c) a licensed corporation or limited liability partnership.
+[Act 36 of 2017 wef 15/01/2018]
 
-[Act 4/95 wef 01/041995]
+(5A) [Deleted by Act 36 of 2017 wef 15/01/2018]
 
-[27/2005 wef 01/12/2005]
+(6) Subject to the provisions of this Act, a person must not —
 
-(5A) Notwithstanding subsection (5), a builder may supply or offer to supply professional engineering services in Singapore in connection with any building works which he undertakes to carry out if the professional engineering services are provided by a person referred to in subsection (5)(a), (b) or (c).
+(a) supply in Singapore, professional engineering services relating to any of the prescribed branches of professional engineering work unless the person is —
 
-[18/2003 wef 01/01/2004]
+(i) a licensed professional engineering practice licensed to supply professional engineering services relating to that prescribed branch of professional engineering work; or
 
-(6) Any person who contravenes subsection (1), (2), (3), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent offence, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+(ii) a registered professional engineer who has in force a practising certificate authorising him to engage in the prescribed branch of professional engineering work to which those services relate, and is doing so —
 
-(7) Nothing in this section shall be construed to permit or authorise any licensed corporation, partnership or limited liability partnership to supply any professional engineering services which it is not licensed to supply.
+(A) on the person’s own account or as a director, partner or employee (as the case may be) of a licensed professional engineering practice mentioned in sub‑paragraph (i); or
 
-[27/2005 wef 01/12/2005]
+(B) as a partner in a partnership consisting wholly of registered professional engineers who each has in force a practising certificate; or
 
-(8) In this section, “prescribed branches of professional engineering work” means —
+(b) offer to supply in Singapore, professional engineering services relating to any of the prescribed branches of professional engineering work unless the person is —
 
-(a) civil engineering;
+(i) a person mentioned in paragraph (a)(i) or (ii);
 
-(b) electrical engineering;
+(ii) an allied professional who is doing so only by reason of being a partner in a licensed partnership or licensed limited liability partnership; or
 
-(c) mechanical engineering; and
+(iii) a foreign engineer authorised under subsection (1)(c) to engage in the prescribed branch of professional engineering work to which those services relate.
 
-(d) such other branches of engineering as may be prescribed.
+[Act 36 of 2017 wef 15/01/2018]
 
-[27/2005 wef 01/12/2005]
+(7) Despite subsection (6), a builder may in connection with any building works which the builder undertakes to carry out, supply or offer to supply in Singapore, professional engineering services relating to any of the prescribed branches of professional engineering work if —
+
+(a) the professional engineering services are provided by a person mentioned in subsection (6)(a); or
+
+(b) the professional engineering services —
+
+(i) are provided by a registered professional engineer employed by the builder, and the registered professional engineer has in force a practising certificate authorising him to engage in the professional engineering work to which those services relate; and
+
+(ii) relate to any of the prescribed works necessary for the progress of the building works.
+
+[Act 36 of 2017 wef 15/01/2018]
+
+(8) Any person who contravenes subsection (1), (2), (3), (4) or (6) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of a natural person —
+
+(i) to a fine not exceeding $5,000; and
+
+(ii) if the person is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(b) in the case of a body corporate —
+
+(i) to a fine not exceeding $5,000; and
+
+(ii) if the body corporate is a repeat offender, to a fine not exceeding $10,000.
+
+[Act 36 of 2017 wef 15/01/2018]
+
+(9) In this section, a person is a repeat offender if the person who is convicted, or found guilty, of an offence under subsection (8) has (whether before, on or after the date of commencement of section 9(d) of the Professional Engineers (Amendment) Act 2017) been convicted or found guilty on at least one other earlier occasion of —
+
+(a) an offence under subsection (8) for contravening subsection (1), (2), (3), (4) or (6); or
+
+(b) an offence under subsection (6) as in force immediately before that date for contravening subsection (1), (2), (3), (4) or (5) as in force immediately before that same date.
+
+[Act 36 of 2017 wef 15/01/2018]
+
+### Recognition to carry out professional engineering work outside Singapore
+
+10A\.—(1) Any person in Singapore seeking to carry out professional engineering work in a country or territory outside Singapore (called in this section the applicant), may apply to the Board to be recognised for that purpose accompanied by the prescribed fee.
+
+(2) The Board may grant an application under subsection (1) if it is satisfied that the applicant is eligible to be recognised under this section.
+
+(3) The Board may allow the applicant to whom recognition is granted to use a specified title, denoting that recognition.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Employment of unregistered professional engineer prohibited
 
 11\.—(1) Subject to the provisions of this Act, no person shall employ as a professional engineer any person who is not a registered professional engineer.
 
-[27/2005 wef 01/12/2005]
-
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of second or subsequent offence, to a fine not exceeding $5,000.
 
 ### Remuneration for professional engineering services
 
-12\. Subject to the provisions of this Act, no person shall be entitled to recover in any court any charge, fee or remuneration for any professional engineering services rendered in Singapore unless the person rendering such services is authorised by this Act to supply those services.
+12\.—(1) Subject to the provisions of this Act, a person is not entitled to demand, claim or sue for or recover any charge, fee or remuneration for any professional engineering services supplied by the person in Singapore, or for any offer by the person to supply professional engineering services in Singapore, in connection with any arbitration, suit or matter, unless the person supplying or offering to supply professional engineering services is authorised by this Act to supply those services.
+
+(2) Any person, who has made any payment to another person for that other person engaging in conduct which is in contravention of section 10, may recover the money in a court of competent jurisdiction if the person did not know or have reason to believe, when making payment, that the conduct by that other person was in contravention of section 10.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Minor building works
 
 13\. Nothing in this Act shall be construed to prohibit or prevent any person not registered under this Act from carrying out work in respect of the construction of or repairs to any building or part thereof in any case in which plans are not required by any written law to be submitted to a building authority or to a public authority (as defined in section 3(2)).
-
-[27/2005 wef 01/12/2005]
 
 ### Relationship with architects, etc.
 
@@ -623,8 +675,6 @@ Provided that nothing in this subsection shall apply to prevent a corporation or
 (a) an architect who has in force a practising certificate issued under the Architects Act [Cap. 12] or any person under the direction or supervision of such an architect; or
 
 (b) a corporation, partnership or limited liability partnership which is licensed under that Act to supply architectural services in Singapore,
-
-[27/2005 wef 01/12/2005]
 
 from carrying on any activity within the practice of architecture which he or it is authorised to carry out under that Act where to do so does not constitute a substantial part of services within the practice of professional engineering.
 
@@ -696,8 +746,6 @@ may apply to the Board to be registered as a specialist professional engineer.
 
 (3) The Registrar shall, from time to time, prepare and publish in theGazettea list of the names, addresses and qualifications of all specialist professional engineers.
 
-[27/2005 wef 01/12/2005]
-
 ### Application for registration
 
 16\. Every application for registration under this Act shall be made to the Board in such form and manner as may be prescribed.
@@ -719,8 +767,6 @@ may apply to the Board to be registered as a specialist professional engineer.
 (i) whose name has been ordered to be removed under any provision of this Act; or
 
 (ii) who is deceased.
-
-[27/2005 wef 01/12/2005]
 
 ### Removal of name and particulars from register of professional engineers
 
@@ -758,15 +804,15 @@ may apply to the Board to be registered as a specialist professional engineer.
 
 (b) the conduct of the applicant is the subject of an inquiry by an Investigation Committee.
 
-[27/2005 wef 01/12/2005]
-
 ### Reinstatement of registration
 
 17C\.—(1) Any person whose name and particulars have been removed from the register of professional engineers under section 31G(2)(a) shall, if his appeal to the High Court under section 31H is allowed, be immediately reinstated without payment of any fee.
 
 (2) The Board may, in its discretion, after the expiration of not less than 3 years from the removal from the register of professional engineers of the name and particulars of any person, consider any fresh application for registration by that person in accordance with the provisions of Part IV.
 
-[27/2005 wef 01/12/2005]
+(3) Despite subsection (2), any person whose name and particulars have been removed from the register of professional engineers under section 17B(1), may make a fresh application for registration at any time in accordance with the provisions of Part IV, and the Board may consider the application.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 ## PART V
 
@@ -786,8 +832,6 @@ PRACTISING CERTIFICATES
 
 (ii) the name under which he practises if different from his own name, or the name of the person employing him; and
 
-[27/2005 wef 01/12/2005]
-
 (iii) the principal and any other address or addresses at which he practises in Singapore;
 
 (b) such evidence as the Board may require that the applicant has complied with or is exempt from the rules relating to insurance against professional liability; and
@@ -800,8 +844,6 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 
 (a) the applicant is an undischarged bankrupt;
 
-[15/95 wef 15/07/1995]
-
 (b) the applicant has entered into a composition with his creditors or a deed of arrangement for the benefit of his creditors;
 
 (c) the applicant does not intend to practise either on his own account or in partnership, or is not or not about to be employed by any person lawfully supplying professional engineering services in Singapore;
@@ -811,8 +853,6 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 (e) the conduct of the applicant affords reasonable grounds for believing that he will not engage in professional engineering work in Singapore in accordance with any written law and with honesty and integrity; or
 
 (f) the Board is not satisfied that the applicant has complied with the prescribed requirements relating to continuing professional education.
-
-[18/2003 wef 01/01/2004]
 
 (5) Any registered professional engineer (not being a registered professional engineer who is applying for a practising certificate for the first time) who fails to apply for a practising certificate in the manner and within the period laid down in subsection (1) may, on the making of an application in such form and on payment of such additional fee as may be prescribed, be issued a practising certificate for —
 
@@ -825,8 +865,6 @@ and the Board shall, subject to subsection (4), thereupon issue to the registere
 (7) A practising certificate shall specify the address of the principal place of practice and all other places of practice of the registered professional engineer to whom the practising certificate was issued, and any change in such address shall be notified by the registered professional engineer concerned to the Registrar within two weeks of such change and an endorsement of such change on the practising certificate shall be obtained from the Registrar.
 
 (8) Where the registration of a professional engineer is cancelled under section 17B(2) or 31G(2)(a), the practising certificate, if any, of that professional engineer for the time being in force shall expire forthwith and the Registrar shall enter the date of such expiration on the register of practitioners and remove from that register the name of that professional engineer.
-
-[27/2005 wef 01/12/2005]
 
 (9) Any person whose application for a practising certificate has been refused by the Board may, within 30 days after being notified of such refusal, appeal to the High Court whose decision shall be final.
 
@@ -844,41 +882,27 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 ### Licence for multi-discipline and corporate practice
 
-20\.—(1) Subject to the provisions of this Act, the Board may grant a licence to any limited corporation to supply any professional engineering services in Singapore if —
+20\.—(1) Subject to the provisions of this Act, the Board may grant a licence to any limited corporation to supply professional engineering services relating to any of the prescribed branches of professional engineering work in Singapore if —
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply such professional engineering services;
 
 (b) the paid-up capital of the corporation is not less than the amount prescribed by the Minister by notification in theGazette;
 
-[42/2005 wef 30/01/2006]
-
 (c) the articles of association of the corporation provide that at least a prescribed number or proportion of its directors shall be registered professional engineers or allied professionals who each has in force a practising certificate;
-
-[27/2005 wef 01/12/2005]
-
-(d) [Deleted by Act 4/95 wef 01/04/1995]
 
 (e) the business of the corporation, so far as it relates to such professional engineering work in Singapore, will be under the control and management of a director of the corporation who —
 
 (i) is a registered professional engineer who has in force a practising certificate; and
 
-[18/2003 wef 01/01/2004]
-
 (ii) is authorised under a resolution of the board of directors of the corporation to make all final engineering decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of professional engineering services by the corporation; and
-
-[18/2003 wef 01/01/2004]
-
-(iii) [Deleted by Act 4/95 wef 01/04/1995]
 
 (f) the corporation is insured against professional liability in accordance with section 24 and the rules.
 
-[18/2003 wef 01/01/2004]
+[Act 36 of 2017 wef 15/01/2018]
 
-(2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply any professional engineering services in Singapore if —
+(2) Subject to the provisions of this Act, the Board may grant a licence to any unlimited corporation to supply professional engineering services relating to any of the prescribed branches of professional engineering work in Singapore if —
 
 (a) the memorandum of association of the corporation provides that a primary object of the corporation is to supply such professional engineering services;
-
-[4/95 wef 01/04/1995]
 
 (b) the articles of association of the corporation provide that —
 
@@ -886,23 +910,17 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 (ii) no person shall be registered as a member of that corporation unless he is a director, a manager or an employee of the corporation; and
 
-[27/2005 wef 01/12/2005]
-
-(c) the business of the corporation, so far as it relates to professional engineering work, will be under the control and management of a director of the corporation who —
+(c) the business of the corporation, so far as it relates to such professional engineering work, will be under the control and management of a director of the corporation who —
 
 (i) is a registered professional engineer who has in force a practising certificate;
 
-[18/2003 wef 01/01/2004]
-
 (ii) is a member, or a registered owner of at least one share, of the corporation; and
-
-[18/2003 wef 01/01/2004]
 
 (iii) is authorised under a resolution of the board of directors of the corporation to make all final engineering decisions on behalf of the corporation with respect to the requirements of this Act, the rules or any other law relating to the supply of professional engineering services by the corporation.
 
-[18/2003 wef 01/01/2004]
+[Act 36 of 2017 wef 15/01/2018]
 
-(3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered professional engineers a licence to supply any professional engineering services in Singapore if —
+(3) Subject to the provisions of this Act, the Board may grant to any partnership not consisting wholly of registered professional engineers a licence to supply professional engineering services relating to any of the prescribed branches of professional engineering work in Singapore if —
 
 (a) the partnership is one in which only —
 
@@ -912,39 +930,37 @@ MULTI-DISCIPLINE AND CORPORATE PRACTICE
 
 have a beneficial interest in the capital assets and profits of the partnership; and
 
-[27/2005 wef 01/12/2005]
-
-(b) the business of the partnership, so far as it relates to professional engineering work in Singapore, will be under the control and management of a partner who —
+(b) the business of the partnership, so far as it relates to such professional engineering work in Singapore, will be under the control and management of a partner who —
 
 (i) is a registered professional engineer; and
 
-[18/2003 wef 01/01/2004]
-
 (ii) has in force a practising certificate authorising the partner to engage in such professional engineering work.
 
-(4) Subject to the provisions of this Act, the Board may grant a licence to any limited liability partnership to supply professional engineering services in Singapore if —
+[Act 36 of 2017 wef 15/01/2018]
 
-(a) the statement lodged by the partners of the limited liability partnership with the Registrar of Limited Liability Partnerships under section 15(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005) provides that a primary nature of the business of the limited liability partnership is to supply professional engineering services;
+(4) Subject to the provisions of this Act, the Board may grant a licence to any limited liability partnership to supply professional engineering services relating to any of the prescribed branches of professional engineering work in Singapore if —
+
+(a) the statement lodged by the partners of the limited liability partnership with the Registrar of Limited Liability Partnerships under section 15(1) of the Limited Liability Partnerships Act 2005 (Act 5 of 2005) provides that a primary nature of the business of the limited liability partnership is to supply such professional engineering services;
 
 (b) the partners in the limited liability partnership consist only of persons who satisfy such requirements as the Board may, with the approval of the Minister, prescribe;
 
 (c) at least one of the partners of the limited liability partnership is a registered professional engineer who has in force a practising certificate;
 
-(d) the business of the limited liability partnership, so far as it relates to professional engineering work in Singapore, will be under the control and management of a partner who —
+(d) the business of the limited liability partnership, so far as it relates to such professional engineering work in Singapore, will be under the control and management of a partner who —
 
 (i) is a registered professional engineer who has in force a practising certificate; and
 
 (ii) is authorised under a resolution of the partners of the limited liability partnership to make all final engineering decisions on behalf of the limited liability partnership with respect to the requirements of this Act, the rules or any other law relating to the supply of professional engineering services by the limited liability partnership; and
 
+[Act 36 of 2017 wef 15/01/2018]
+
 (e) the limited liability partnership is insured against professional liability in accordance with section 24 and the rules.
 
-[27/2005 wef 01/12/2005]
+[Act 36 of 2017 wef 15/01/2018]
 
 (5) Any application for a licence under this section shall be in such form and shall be made in such manner as may be prescribed.
 
 (6) The Board may refuse to grant a licence under this section to any corporation (whether unlimited or not), partnership or limited liability partnership if, in the opinion of the Board, the past conduct of any director, manager or employee of the corporation or any partner, manager or employee of the partnership or limited liability partnership affords reasonable grounds for believing that the corporation, partnership or limited liability partnership, as the case may be, will not supply professional engineering services in accordance with any written law and with honesty and integrity.
-
-[27/2005 wef 01/12/2005]
 
 (7) Every licence granted under this section shall, unless earlier revoked, be valid for such period as may be specified therein.
 
@@ -956,13 +972,9 @@ have a beneficial interest in the capital assets and profits of the partnership;
 
 (b) where a number or proportion is specified by the Minister for the purposes of subsections (1) and (2) by notification in theGazette, such number or proportion of directors as may for the time being be so specified.
 
-[18/2003 wef 01/01/2004]
-
-[27/2005 wef 01/12/2005]
-
 ### Conditions of licence to practise
 
-21\.—(1) It shall be a condition of every licence granted to any corporation, partnership or limited liability partnership that professional engineering services to be provided in Singapore by the corporation, partnership or limited liability partnership shall be supplied by a professional engineer —
+21\.—(1) It shall be a condition of every licence granted to any corporation, partnership or limited liability partnership that professional engineering services relating to any of the prescribed branches of professional engineering work to be provided in Singapore by the corporation, partnership or limited liability partnership shall be supplied by a professional engineer —
 
 (a) who shall be responsible for the professional engineering works;
 
@@ -972,17 +984,21 @@ have a beneficial interest in the capital assets and profits of the partnership;
 
 (i) in the case of a corporation, a director or an employee of the corporation;
 
-(ii) in the case of a partnership, a partner or an employee of the partnership; or
+(ii) in the case of a partnership, a partner or an employee of the partnership;
 
-(iii) in the case of a limited liability partnership, a partner or an employee of the limited liability partnership.
+(iii) in the case of a limited liability partnership, a partner or an employee of the limited liability partnership; or
 
-(2) It shall be a condition of every licence granted to any corporation, other than an unlimited corporation, or to any limited liability partnership that the corporation or limited liability partnership, as the case may be, shall not supply professional engineering services in Singapore unless the corporation or limited liability partnership is insured in respect of professional liability in accordance with section 24 and the rules.
+(iv) a specialist professional engineer engaged by a corporation or limited liability partnership under a contract for service to provide specialised engineering services relating to the prescribed branch of professional engineering work supplied by the corporation or limited liability partnership (as the case may be).
+
+[Act 36 of 2017 wef 15/01/2018]
+
+(2) It shall be a condition of every licence granted to any corporation, other than an unlimited corporation, or to any limited liability partnership that the corporation or limited liability partnership, as the case may be, shall not supply professional engineering services relating to any of the prescribed branches of professional engineering work in Singapore unless the corporation or limited liability partnership is insured in respect of professional liability in accordance with section 24 and the rules.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (3) Without prejudice to subsections (1) and (2), the Board may grant a licence subject to such other conditions as the Board thinks fit and may at any time vary any existing conditions (other than those specified in subsections (1) and (2)) of such a licence or impose additional conditions thereto.
 
 (4) Where a licence is granted by the Board to a corporation, partnership or limited liability partnership subject to conditions (other than those specified in subsections (1) and (2)), the corporation, partnership or limited liability partnership may, if aggrieved by the decision of the Board, appeal in the prescribed manner to the Minister whose decision shall be final.
-
-[27/2005 wef 01/12/2005]
 
 ### Change in composition of board of directors, members, etc.
 
@@ -994,15 +1010,11 @@ have a beneficial interest in the capital assets and profits of the partnership;
 
 (c) any revocation of any resolution passed by the board of directors under section 20(1)(e)(ii) or (2)(c)(iii),
 
-[18/2003 wef 01/01/2004]
-
 furnish the Board a true report in writing giving full particulars of the alteration or change.
 
 (2) Any licensed partnership shall, within 30 days of the occurrence of any change in the composition of its members, furnish the Board a true report in writing giving full particulars of the change.
 
 (3) Any licensed limited liability partnership shall, within 30 days of the occurrence of any change in the composition of its partners, furnish the Board a true report in writing giving full particulars of the change.
-
-[27/2005 wef 01/12/2005]
 
 ### Application of Companies Act
 
@@ -1010,39 +1022,29 @@ furnish the Board a true report in writing giving full particulars of the altera
 
 (a) comply with the prohibitions in sections 162 and 163 of the Companies Act as if it were not an exempt private company; and
 
-[Act 36 of 2014 wef 03/01/2016]
-
 (b) forward annually to the Registrar of Companies, together with the annual return required by section 197 of the Companies Act, such copies of documents as are required to be included in the annual return and such certificates and particulars in accordance with the prescribed form referred to in section 197(2) of that Act as if it were not an exempt private company.
-
-[12/2002 wef 13/01/2002]
-
-[Act 36 of 2014 wef 03/01/2016]
 
 (2) In this section, “exempt private company” has the same meaning as in the Companies Act.
 
 ### Liability insurance
 
-24\. Every licensed corporation which is not an unlimited corporation and every licensed limited liability partnership shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying professional engineering services as a direct result of any negligent act, error or omission committed by —
+24\. Every licensed corporation which is not an unlimited corporation and every licensed limited liability partnership shall be insured against liability for any breach of professional duty arising out of the conduct of its business of supplying professional engineering services relating to any of the prescribed branches of professional engineering work as a direct result of any negligent act, error or omission committed by —
 
 (a) in the case of a corporation, the corporation or its directors, managers, secretaries or employees; or
 
 (b) in the case of a limited liability partnership, the limited liability partnership or its partners, managers or employees.
 
-[27/2005 wef 01/12/2005]
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Relationship between client and licensed corporation or limited liability partnership
 
 25\. A licensed corporation or a licensed limited liability partnership shall have the same rights and shall be subject to the same obligations in respect of fiduciary, confidential and ethical relationships with each client of the corporation or limited liability partnership, as the case may be, that exist at law between a registered professional engineer and his client.
 
-[27/2005 wef 01/12/2005]
-
 ### Professional responsibility of supervising engineers
 
-26\. A registered professional engineer who has the control and management of the business of a licensed corporation or limited liability partnership relating to the supply of professional engineering services in Singapore shall be subject to the same standards of professional conduct in respect of the business as if the professional engineering services were personally supplied by the registered professional engineer.
+26\. A registered professional engineer who has the control and management of the business of a licensed corporation or limited liability partnership relating to the supply of professional engineering services in respect of any of the prescribed branches of professional engineering work in Singapore shall be subject to the same standards of professional conduct in respect of the business as if the professional engineering services were personally supplied by the registered professional engineer.
 
-[27/2005 wef 01/12/2005]
-
-[18/2003 wef 01/01/2004]
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Revocation of licence
 
@@ -1070,11 +1072,23 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (h) the corporation, partnership or limited liability partnership has contravened section 22, 23 or 24 or has been convicted of an offence under this Act;
 
-(i) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership or limited liability partnership, affords grounds for believing that the corporation, partnership or limited liability partnership, as the case may be, will not supply professional engineering services in Singapore in accordance with any written law and with honesty and integrity; or
+(i) the conduct of any director, manager or employee of the corporation, or any partner or employee of the partnership or limited liability partnership, affords grounds for believing that the corporation, partnership or limited liability partnership, as the case may be, will not supply professional engineering services relating to any of the prescribed branches of professional engineering work in Singapore in accordance with any written law and with honesty and integrity; or
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (j) the corporation, partnership or limited liability partnership has refused or failed to comply with an order of the Board made under subsection (2).
 
-(2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists, by order impose on the corporation, partnership or limited liability partnership concerned a penalty not exceeding $20,000 and every such penalty shall be recoverable as a debt due to the Board.
+(2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists —
+
+(a) by writing censure the corporation, partnership or limited liability partnership; or
+
+(b) by order impose on the corporation, partnership or limited liability partnership a penalty not exceeding $100,000.
+
+[Act 36 of 2017 wef 15/01/2018]
+
+(2A) Any penalty imposed under subsection (2)(b) is to be collected, and may be sued for and recovered by the Board.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (3) The Board shall not exercise its powers under subsection (1) or (2) unless an opportunity of being heard by a representative in writing or by counsel had been given to the corporation, partnership or limited liability partnership against which the Board intends to exercise its powers.
 
@@ -1086,11 +1100,11 @@ has a beneficial interest in the capital assets and profits of the partnership;
 
 (a) the Registrar shall cause notice of the revocation to be published in theGazetteand remove from the register of licensees the name and other particulars of the corporation, partnership or limited liability partnership concerned; and
 
-(b) the corporation, partnership or limited liability partnership concerned shall, as from the date of the notice, cease to supply professional engineering services in Singapore except as may be approved by the Board for the purpose of winding up its business.
+(b) the corporation, partnership or limited liability partnership concerned shall, as from the date of the notice, cease to supply professional engineering services relating to any of the prescribed branches of professional engineering work in Singapore except as may be approved by the Board for the purpose of winding up its business.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (7) Subsection (6)(b) shall not prejudice the enforcement by any person of any right or claim against the corporation, partnership or limited liability partnership or by the corporation, partnership or limited liability partnership of any right or claim against any person.
-
-[27/2005 wef 01/12/2005]
 
 ### Appeal against order of Board
 
@@ -1106,13 +1120,9 @@ the corporation, partnership or limited liability partnership concerned may, wit
 
 (3) Any corporation, partnership or limited liability partnership whose name has been removed from the register of licensees under section 26A(6)(a) shall, if its appeal to the High Court is allowed, be immediately reinstated without payment of any fee.
 
-[27/2005 wef 01/12/2005]
-
 ## PART VII
 
 DISCIPLINARY PROCEEDINGS
-
-[27/2005 wef 01/12/2005]
 
 ### Appointment of Investigation Panel
 
@@ -1126,11 +1136,9 @@ DISCIPLINARY PROCEEDINGS
 
 (3) The Board may, at any time, revoke the appointment of any member of the Investigation Panel or fill any vacancy in its membership.
 
-[27/2005 wef 01/12/2005]
-
 ### Complaints against registered professional engineers
 
-28\. Any complaint concerning —
+28\. Any complaint or information concerning —
 
 (a) the conviction of a registered professional engineer of any offence involving fraud, dishonesty or moral turpitude, or implying a defect in character which makes him unfit for his profession;
 
@@ -1140,11 +1148,13 @@ DISCIPLINARY PROCEEDINGS
 
 (d) the ability of a registered professional engineer to carry out the duties of a professional engineer effectively in Singapore; or
 
-(e) any failure on the part of a registered professional engineer, while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(e)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2),
+(e) any failure on the part of a registered professional engineer, while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(f)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2),
+
+[Act 36 of 2017 wef 15/01/2018]
 
 shall be made to the Board in writing and shall be supported by such statutory declaration as the Board may require, except that no statutory declaration shall be required if the complaint is made or given by any public officer or officer of the Board.
 
-[27/2005 wef 01/12/2005]
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Review of complaints
 
@@ -1178,8 +1188,6 @@ recommend to the Board to refer the matter to a Disciplinary Committee for a for
 
 (7) The Board may, upon accepting the recommendation of the Registrar under subsection (6)(b) or (c), appoint an Investigation Committee or a Disciplinary Committee, as appropriate, and refer the matter thereto for an inquiry or a formal inquiry, as the case may be.
 
-[27/2005 wef 01/12/2005]
-
 ### Appointment of Investigation Committee
 
 30\.—(1) The Board may, from time to time, appoint one or more Investigation Committees comprising —
@@ -1204,8 +1212,6 @@ to inquire into any complaint or information received by the Board under section
 
 (7) A member of an Investigation Committee shall, notwithstanding that he has ceased to be a member of the Investigation Panel on the expiry of his term of office, continue to be a member of the Investigation Committee until such time as the Investigation Committee has completed its work.
 
-[27/2005 wef 01/12/2005]
-
 ### Powers and procedure of Investigation Committee
 
 31\.—(1) For the purposes of any inquiry, an Investigation Committee may require any person —
@@ -1226,8 +1232,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) An Investigation Committee shall complete its inquiry not later than 3 months from the date on which the matter to be inquired into is referred to it, unless the Board, on application of the Investigation Committee, allows otherwise.
 
-[27/2005 wef 01/12/2005]
-
 ### Findings of Investigation Committee
 
 31A\. Upon due inquiry into any complaint or information, an Investigation Committee shall report its findings to the Board and recommend to the Board to do any of the following:
@@ -1239,8 +1243,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (c) order that a formal inquiry be held by a Disciplinary Committee;
 
 (d) make such other order as the Investigation Committee considers appropriate.
-
-[27/2005 wef 01/12/2005]
 
 ### Decision of Board
 
@@ -1274,8 +1276,6 @@ unless the Board is satisfied that the Investigation Committee had allowed the r
 
 (c) such other order as he thinks fit.
 
-[27/2005 wef 01/12/2005]
-
 ### Appointment of Disciplinary Committee
 
 31C\.—(1) The Board may, from time to time, appoint one or more Disciplinary Committees to formally inquire into —
@@ -1298,15 +1298,11 @@ unless the Board is satisfied that the Investigation Committee had allowed the r
 
 (8) A member of a Disciplinary Committee shall, notwithstanding that he has ceased to be a member of the Board on the expiry of his term of office, continue to be a member of the Disciplinary Committee until such time the Disciplinary Committee has completed its work.
 
-[27/2005 wef 01/12/2005]
-
 ### Observer
 
 31D\.—(1) The Board shall appoint a member of the Investigation Panel who is an allied professional or a lay person as an observer of the proceedings of a Disciplinary Committee, except that the person appointed must not have assisted the Registrar in reviewing any complaint or information under section 29(4)(b) or been a member of the Investigation Committee which had inquired into the same matter.
 
 (2) The observer shall not vote on any question or matter to be decided by the Disciplinary Committee and need not be present at every meeting of the Disciplinary Committee.
-
-[27/2005 wef 01/12/2005]
 
 ### Professional engineer to be notified of inquiry
 
@@ -1315,8 +1311,6 @@ unless the Board is satisfied that the Investigation Committee had allowed the r
 (2) An inquiry shall not be fixed on a date earlier than 21 days after the date of the notice of inquiry except with the agreement of the registered professional engineer.
 
 (3) On application to the Disciplinary Committee, the registered professional engineer may request postponement of the formal inquiry, and the Disciplinary Committee may, in its discretion, grant the application and postpone the formal inquiry to such date as it may determine, or refuse the application.
-
-[27/2005 wef 01/12/2005]
 
 ### Powers and procedure of Disciplinary Committee
 
@@ -1344,8 +1338,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) Any party to the proceedings before a Disciplinary Committee may sue out subpoenas to testify or to produce documents, and such subpoenas shall be served and may be enforced as if they were subpoenas issued in connection with a civil action in the High Court.
 
-[42/2005 wef 01/01/2006]
-
 (5) Any person giving evidence before a Disciplinary Committee shall be legally bound to tell the truth.
 
 (6) Persons giving evidence in a formal inquiry shall have the same privileges and immunities in relation to an inquiry as if it was a proceeding in a court of law.
@@ -1355,8 +1347,6 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (8) A Disciplinary Committee shall complete its inquiry not later than 6 months from the date of its appointment, unless the Board, on application of the Disciplinary Committee, allows otherwise.
 
 (9) In sections 172 to 175, 177, 179, 182 and 228 of the Penal Code (Cap. 224), “public servant” shall be deemed to include a member of a Disciplinary Committee holding a formal inquiry, and in sections 193 and 228 of the Penal Code, “judicial proceeding” shall be deemed to include such a formal inquiry.
-
-[27/2005 wef 01/12/2005]
 
 ### Findings of Disciplinary Committee
 
@@ -1370,7 +1360,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (d) is no longer in a position to carry out the duties of a registered professional engineer effectively in Singapore; or
 
-(e) while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, had failed to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(e)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2),
+(e) while being a director, a manager or an employee of a licensed corporation, or a partner, a manager or an employee of a licensed partnership or limited liability partnership, had failed to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 26A(1)(f)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 26A(2),
+
+[Act 36 of 2017 wef 15/01/2018]
 
 the Disciplinary Committee may exercise one or more of the powers referred to in subsection (2).
 
@@ -1380,13 +1372,17 @@ the Disciplinary Committee may exercise one or more of the powers referred to in
 
 (b) by order suspend the registered professional engineer from practice for a period of not more than 2 years;
 
-(c) by order impose on the registered professional engineer a penalty not exceeding $10,000;
+(c) by order impose on the registered professional engineer a penalty not exceeding $50,000;
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (d) by writing censure the registered professional engineer; and
 
 (e) make such other order as the Disciplinary Committee thinks fit.
 
-(3) In addition to its powers under subsection (2), the Disciplinary Committee may order the registered professional engineer concerned to pay to the Board such sum, not exceeding $10,000, as the Disciplinary Committee thinks fit in respect of the costs and expenses of and incidental to any proceedings against him under this Part.
+(3) In addition to its powers under subsection (2), the Disciplinary Committee may order the registered professional engineer concerned to pay to the Board such sum, not exceeding $50,000, as the Disciplinary Committee thinks fit in respect of the costs and expenses of and incidental to any proceedings against him under this Part.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 (4) Where the Disciplinary Committee finds that the registered professional engineer has not been convicted or guilty of any of the matters referred to in subsection (1)(a) to (e), the Disciplinary Committee shall order that the complaint or information be dismissed.
 
@@ -1422,8 +1418,6 @@ and the High Court shall have jurisdiction to tax such costs and any such order 
 
 (13) Every penalty imposed under an order by a Disciplinary Committee under subsection (2) shall be recoverable as a debt due to the Board.
 
-[27/2005 wef 01/12/2005]
-
 ### Appeal against order by Disciplinary Committee
 
 31H\.—(1) Any person aggrieved by a decision of the Disciplinary Committee referred to in section 31G(2), (3) or (4) may, within 30 days after the service on him of the notice of the order, appeal to the High Court against the order.
@@ -1434,13 +1428,9 @@ and the High Court shall have jurisdiction to tax such costs and any such order 
 
 (4) Notwithstanding anything in section 31G, where a person has appealed to the High Court against an order referred to in section 31G(2) or (3), the order shall not take effect unless the order is confirmed by the High Court or the appeal is for any reason dismissed by the High Court or withdrawn.
 
-[27/2005 wef 01/12/2005]
-
 ### Conviction final and conclusive
 
 31I\. In any proceedings under this Part in relation to the conviction of a registered professional engineer for a criminal offence, the Minister, the Board, an Investigation Committee, a Disciplinary Committee, and the High Court on appeal from any order of a Disciplinary Committee, shall accept his conviction as final and conclusive.
-
-[27/2005 wef 01/12/2005]
 
 ### Service of documents
 
@@ -1450,11 +1440,49 @@ and the High Court shall have jurisdiction to tax such costs and any such order 
 
 (b) by sending it by registered post addressed to the person on whom the notice is to be served at his address as stated in the appropriate register.
 
-[27/2005 wef 01/12/2005]
-
 ## PART VIII
 
 GENERAL
+
+### Investigators
+
+31K\.—(1) The Board may, in writing, appoint a member or an employee of the Board, a public officer or any other person as an investigator, subject to such conditions and limitations as the Board may specify, to investigate the commission of an offence under this Act.
+
+(2) An investigator may, for the purposes of subsection (1) —
+
+(a) by order in writing require any person —
+
+(i) to furnish any information within the person’s knowledge;
+
+(ii) to produce any document or other record, or any article or thing which may be in the person’s custody or possession and which may be related to or connected with the subject matter of the investigation for inspection by the investigator and for making copies, or to provide copies of such document or other record; and
+
+(iii) if necessary, to attend at a specified time and place for the purpose of complying with sub‑paragraph (i) or (ii);
+
+(b) by order in writing require the attendance before the investigator of any person who, from any information given or otherwise, appears to be acquainted with the facts and circumstances of the matter under investigation; and
+
+(c) examine orally any person apparently acquainted with the facts and circumstances of the matter under investigation, and to reduce into writing the answer given or statement made by that person who is bound to state truly the facts and circumstances with which the person is acquainted, and the statement made by that person must be read over to the person and must, after correction (if necessary), be signed by the person.
+
+(3) An investigator may apply to a Magistrate for a search warrant relating to any premises if the investigator has reasonable cause to believe that evidence of the commission of an offence under this Act can be found in the premises.
+
+(4) The Magistrate may issue a search warrant if satisfied that there are reasonable grounds to do so.
+
+(5) A search warrant issued under subsection (4) authorises the investigator to whom it is directed to enter and search the premises referred to in the warrant and to do all or any of the following:
+
+(a) inspect and make copies of or take extracts from, or require any person or the person having the management or control of the premises to provide copies of or extracts from, any document, record or electronic material relating to the affairs of the premises or services provided at the premises;
+
+(b) take such photographs or video recording as the investigator thinks necessary to record the premises or part of the premises, including any instrument, article, document or record found on the premises;
+
+(c) seize and remove from the premises any record, document, or any other material which the investigator reasonably believes to be the subject matter of, or to be connected with, an investigation under subsection (1).
+
+(6) Any person who —
+
+(a) intentionally offers any resistance to or wilfully delays an investigator in the exercise of any power under subsection (2) or pursuant to a search warrant issued under subsection (4); or
+
+(b) fails to comply with any requisition or order of an investigator under subsection (2),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Application of fees, etc., received by Board
 
@@ -1468,13 +1496,23 @@ GENERAL
 
 (5) The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-[45/2004 wef 15/12/2004]
-
 (6) The accounts of the Board shall be audited by an auditor approved by the Minister.
 
-(7) The Board shall, as soon as practicable after the end of each accounting year but not later than 3 months from the end of that year unless the Minister otherwise authorises in writing, submit to the Minister a report of its functions, proceedings and activities during the preceding year.
+(7) The Board shall, as soon as practicable after the end of each accounting year but not later than 6 months from the end of that year unless the Minister otherwise authorises in writing, submit to the Minister a report of its functions, proceedings and activities during the preceding year.
 
-33\. [Repealed by Act 27/2005 wef 01/12/2005]
+[Act 36 of 2017 wef 15/01/2018]
+
+### Financial penalties payable into Consolidated Fund
+
+33\. All financial penalties collected by the Board under this Act are to be paid into the Consolidated Fund.
+
+[Act 36 of 2017 wef 15/01/2018]
+
+### Public servants
+
+33A\. Every member and employee of the Board is, in relation to his administration, assessment, collection and enforcement of payment of any financial penalty imposed under this Act, taken to be a public officer for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to each of these persons even though he is not or was not in the employment of the Government.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Penalty for wilful falsification of register and for wrongfully procuring registration, etc.
 
@@ -1486,8 +1524,6 @@ GENERAL
 
 (i) for any corporation, partnership or limited liability partnership any licence; or
 
-[27/2005 wef 01/12/2005]
-
 (ii) for himself or any other person a practising certificate or to be registered as a professional engineer under this Act,
 
 by making or producing or causing to be made or produced any false or fraudulent representation or declaration, either verbally or in writing, or by intentionally suppressing any material fact and furnishing information which is misleading; or
@@ -1496,11 +1532,119 @@ by making or producing or causing to be made or produced any false or fraudulent
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Offences by bodies corporate, etc.
+### Offences by corporations
 
-35\. Where a corporation, partnership, limited liability partnership or unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership, limited liability partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership, limited liability partnership or association, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+35\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
 
-[27/2005 wef 01/12/2005]
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the officer, employee or agent had that state of mind,
+
+is evidence that the corporation had that state of mind.
+
+(2) Where a corporation commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the corporation, or a member of a corporation (in the case where the affairs of the corporation are managed by its members); or
+
+(ii) an individual who is involved in the management of the corporation and is in a position to influence the conduct of the corporation in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or
+
+(iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.
+
+(6) In this section —
+
+“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —
+
+(a) any person purporting to act in any such capacity; and
+
+(b) for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 36 of 2017 wef 15/01/2018]
+
+### Offences by unincorporated associations or partnerships
+
+35A\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or the partnership engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the employee or agent had that state of mind,
+
+is evidence that the unincorporated association or partnership had that state of mind.
+
+(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the unincorporated association or a member of its governing body;
+
+(ii) a partner in the partnership; or
+
+(iii) an individual who is involved in the management of the unincorporated association or partnership and who is in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or
+
+(iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of the same offence as is the unincorporated association or partnership (as the case may be), and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the unincorporated association or partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.
+
+(6) In this section —
+
+“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —
+
+(a) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and
+
+(b) any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 36 of 2017 wef 15/01/2018]
 
 ### Rules
 
@@ -1675,3 +1819,8 @@ This Legislative History is provided for the convenience of users of the Profess
 |||(Bill No. 25/2014)|
 ||Date of Second and Third Readings|8 October 2015|
 ||Date of commencement|3 January 2016|
+|15.|**Act 36 of 2017—Professional Engineers (Amendment) Act 2017**|
+||Date of First Reading|1 August 2017|
+|||(Bill No. 30/2017)|
+||Date of Second and Third Readings|11 September 2017|
+||Date of commencement|15 January 2018|
