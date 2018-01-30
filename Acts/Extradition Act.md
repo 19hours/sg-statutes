@@ -1000,6 +1000,12 @@ An offence against the law giving effect to the International Convention for the
 
 [S 488/2017 wef 01/09/2017]
 
+33. 
+
+An offence against the law relating to the securing of computer material against unauthorised access or modification.
+
+[S 48/2018 wef 30/01/2018]
+
 Part II
 
 Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in Part I.
@@ -1358,6 +1364,8 @@ This Legislative History is provided for the convenience of users of the Extradi
 ||Date of commencement|28 October 2015|
 |17.|**G.N. No. S 488/2017—Extradition Act (Amendment of First Schedule) Notification 2017**|
 ||Date of commencement|1 September 2017|
+|18.|**G.N. No. S 48/2018—Extradition Act (Amendment of First Schedule) Notification 2018**|
+||Date of commencement|30 January 2018|
 ## COMPARATIVE TABLE
 
 Extradition Act
