@@ -44,7 +44,7 @@
 
 - [14 (Repealed)](#Repealed)
 
-- [15 Prohibition on importation, distribution and sale of harmful tobacco products](#Prohibition-on-importation-distribution-and-sale-of-harmful-tobacco-products)
+- [15 Prohibition of harmful tobacco products](#Prohibition-of-harmful-tobacco-products)
 
 - [16 Prohibition of imitation tobacco products](#Prohibition-of-imitation-tobacco-products)
 
@@ -291,7 +291,9 @@ but does not include a therapeutic product registered under the Health Products 
 
 [Act 9 of 2016 wef 01/08/2016]
 
-(2) For the purposes of this Act, a sale that is transacted online is regarded as a sale in Singapore if, and only if, the purchaser is physically present in Singapore and the purchased product is intended to be delivered in Singapore.
+(2) For the purposes of this Act, a sale or a purchase, as the case may be, that is transacted online is regarded as a sale or a purchase in Singapore if, and only if, the purchaser is physically present in Singapore and the purchased product is intended to be delivered in Singapore.
+
+[Act 46 of 2017 wef 01/02/2018]
 
 [Act 9 of 2016 wef 01/08/2016]
 
@@ -647,9 +649,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 14\. [Repealed by Act 9 of 2016 wef 30/12/2017]
 
-### Prohibition on importation, distribution and sale of harmful tobacco products
+### Prohibition of harmful tobacco products
 
-15\.—(1) Notwithstanding anything in this Act but subject to subsection (3), a person must not import into Singapore, or distribute, sell or offer for sale in Singapore —
+15\.—(1) Notwithstanding anything in this Act but subject to subsection (3), a person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore —
 
 (a) any chewing tobacco;
 
@@ -663,7 +665,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 9 of 2016 wef 01/08/2016]
 
-(2) Subject to subsection (3), a person must not import into Singapore, or distribute, sell or offer for sale in Singapore such tobacco product or class of tobacco products as the Minister may by regulations prescribe, being tobacco product —
+[Act 46 of 2017 wef 01/02/2018]
+
+(2) Subject to subsection (3), a person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore such tobacco product or class of tobacco products as the Minister may by regulations prescribe, being tobacco product —
 
 (a) that contains; or
 
@@ -675,9 +679,25 @@ any substance in excess of such maximum amounts as may be prescribed for that su
 
 [Act 9 of 2016 wef 01/08/2016]
 
-(3) Subsections (1) and (2) shall not apply to the import of tobacco products into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore.
+[Act 46 of 2017 wef 01/02/2018]
+
+(2A) A person must not —
+
+(a) subject to subsection (3), possess in Singapore, other than for the purpose of sale in Singapore;
+
+(b) purchase in Singapore; or
+
+(c) use in Singapore,
+
+any tobacco product mentioned in subsection (1) or (2).
+
+[Act 46 of 2017 wef 01/02/2018]
+
+(3) Subsections (1), (2) and (2A) do not apply to the import of tobacco products into Singapore solely for the purpose of taking them out of Singapore, whether on the same conveyance on which they were brought into Singapore or on another conveyance and whether or not they are landed and kept in any place in Singapore pending their being taken out of Singapore.
 
 [17/2010]
+
+[Act 46 of 2017 wef 01/02/2018]
 
 (4) For the purposes of subsection (2), the Minister may prescribe different maximum amounts for different substances, in relation to different classes or descriptions of tobacco products.
 
@@ -687,13 +707,17 @@ any substance in excess of such maximum amounts as may be prescribed for that su
 
 [17/2010]
 
-(6) In subsection (1), “smoking” means inhaling and expelling the smoke produced from the combustion of any tobacco product or any part of such tobacco product.
+(6) A person who contravenes subsection (2A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [17/2010]
 
+[Act 46 of 2017 wef 01/02/2018]
+
+[Act 46 of 2017 wef 01/02/2018]
+
 ### Prohibition of imitation tobacco products
 
-16\.—(1) A person must not import into Singapore, or distribute, sell or offer for sale in Singapore, any confectionery or other food product, or any toy, device or article —
+16\.—(1) A person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore, any confectionery or other food product, or any toy, device or article —
 
 (a) that resembles, or is designed to resemble, a tobacco product;
 
@@ -703,7 +727,23 @@ any substance in excess of such maximum amounts as may be prescribed for that su
 
 (d) the packaging of which resembles, or is designed to resemble, the packaging commonly associated with tobacco products.
 
-(2) A person must not import into Singapore, or distribute, sell or offer for sale in Singapore, any component of a toy, a device or an article referred to in subsection (1).
+[Act 46 of 2017 wef 01/02/2018]
+
+(2) A person must not import into Singapore, or distribute, sell, offer for sale or possess for sale in Singapore, any component of a toy, a device or an article referred to in subsection (1).
+
+[Act 46 of 2017 wef 01/02/2018]
+
+(2A) A person must not —
+
+(a) possess in Singapore, other than for the purpose of sale in Singapore;
+
+(b) purchase in Singapore; or
+
+(c) use in Singapore,
+
+any item mentioned in subsection (1) or (2).
+
+[Act 46 of 2017 wef 01/02/2018]
 
 (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
@@ -724,6 +764,14 @@ any substance in excess of such maximum amounts as may be prescribed for that su
 (b) in the case of a second or subsequent conviction, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [Act 9 of 2016 wef 01/08/2016]
+
+(6) A person who contravenes subsection (2A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+[Act 46 of 2017 wef 01/02/2018]
+
+(7) It is not necessary for an item mentioned in subsection (1) or (2) to contain tobacco or a tobacco product or tobacco substitute.
+
+[Act 46 of 2017 wef 01/02/2018]
 
 ### Health warnings and labelling
 
@@ -1299,6 +1347,10 @@ This Legislative History is provided for the convenience of users of the Tobacco
 ||Date of First Reading|2 October 2017 (Bill No. 40/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|7 November 2017|
 ||Date of commencement|1 January 2018|
+|17.|**Act 46 of 2017—Tobacco (Control of Advertisements and Sale) (Amendment) Act 2017**|
+||Date of First Reading|2 October 2017 (Bill No. 40/2017 published on 2 October 2017)|
+||Date of Second and Third Readings|7 November 2017|
+||Date of commencement|1 February 2018|
 ## COMPARATIVE TABLE
 
 Tobacco (Control of Advertisements and Sale) Act
