@@ -386,7 +386,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) any condition of his licence or permit; or
 
-(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules; or
+(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules or by the Authority under Part IIA of the Sale of Food Act (Cap. 283); or
+
+[Act 48 of 2017 wef 01/02/2018]
 
 (c) it is in the public interest to suspend or revoke the licence or permit.
 
@@ -550,7 +552,9 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
 (ii) any condition of his licence or permit; or
 
-(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules; or
+(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules or by the Authority under Part IIA of the Sale of Food Act (Cap. 283); or
+
+[Act 48 of 2017 wef 01/02/2018]
 
 (c) it is in the public interest to suspend or revoke the licence or permit.
 
@@ -1175,6 +1179,10 @@ This Legislative History is provided for the convenience of users of the Wholeso
 |||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
+|5.|**Act 48 of 2017—Sale of Food (Amendment) Act 2017**|
+||Date of First Reading|2 October 2017 (Bill No. 42/2017 published on 2 October 2017)|
+||Date of Second and Third Readings|7 November 2017|
+||Date of commencement|1 February 2018|
 ## COMPARATIVE TABLE
 
 Wholesome Meat and Fish Act
