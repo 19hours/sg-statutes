@@ -2996,7 +2996,9 @@ Description of purposes for use of Food Establishments to which section 32 appli
 
 (e) a barbecue meat shop,
 
-except a retail food establishment that is part of a food processing establishment as described in the Second Schedule to the Sale of Food Act (Cap. 283).
+except a retail food establishment that is part of a non-retail food business within the meaning of the Sale of Food Act (Cap. 283).
+
+[Act 48 of 2017 wef 01/02/2018]
 
 2. As a catering establishment providing a catering service whereby —
 
@@ -3004,9 +3006,11 @@ except a retail food establishment that is part of a food processing establishme
 
 (b) food is prepared at premises appointed by a consumer for his consumption or use,
 
-except a catering establishment that is part of a food processing establishment as described in the Second Schedule to the Sale of Food Act.
+except a catering establishment that is part of a non-retail food business within the meaning of the Sale of Food Act.
 
 [7/2002]
+
+[Act 48 of 2017 wef 01/02/2018]
 
 SECOND SCHEDULE
 
@@ -3364,6 +3368,10 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|23.|**Act 48 of 2017—Sale of Food (Amendment) Act 2017**|
+||Date of First Reading|2 October 2017 (Bill No. 42/2017 published on 2 October 2017)|
+||Date of Second and Third Readings|7 November 2017|
+||Date of commencement|1 February 2018|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
