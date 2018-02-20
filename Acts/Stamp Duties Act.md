@@ -716,8 +716,6 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 [Act 1 of 2013 wef 01/04/2010]
 
-[Act 1 of 2013 wef 22/02/2013]
-
 [Act 2 of 2016 wef 01/04/2015]
 
 (2A) No instrument referred to in subsection (1) shall be deemed to be duly stamped unless —
@@ -742,13 +740,13 @@ the claim shall be deemed to have been disallowed and an amount equal to the dut
 
 (i) before the date of the acquisition, such total ownership was more than 50% but less than 75% of the total number of ordinary shares in the target company; and
 
-[Act 1 of 2013 wef 22/02/2013]
+[Act 1 of 2013 wef 01/04/2010]
 
 (ii) the date of the acquisition does not fall within the financial year of the acquiring company in which the acquisition referred to in paragraph (a) occurs;
 
 [23/2011 wef 01/04/2010]
 
-[Act 1 of 2013 wef 22/02/2013]
+[Act 1 of 2013 wef 01/04/2010]
 
 [Act 2 of 2016 wef 01/04/2015]
 
@@ -3450,7 +3448,7 @@ $3
 
 (ii)
 
-if executed on or after 22nd February 2014
+if executed on or after 22 February 2014 but before 20 February 2018
 
 Amount of consideration
 
@@ -3467,6 +3465,60 @@ for every dollar of the next $180,000
 2%
 
 (C)
+
+for every dollar exceeding $360,000
+
+3%
+
+(iii)
+
+if executed on or after 20 February 2018 —
+
+(A)
+
+for the amount of the consideration of the part of the property that is attributable to a residential purpose (if any)
+
+(AA)
+
+for every dollar of the first $180,000
+
+1%
+
+(AB)
+
+for every dollar of the next $180,000
+
+2%
+
+(AC)
+
+for every dollar of the next $640,000
+
+3%
+
+(AD)
+
+for every dollar exceeding $1,000,000
+
+4%
+
+(B)
+
+for any remainder of the consideration
+
+(BA)
+
+for every dollar of the first $180,000
+
+1%
+
+(BB)
+
+for every dollar of the next $180,000
+
+2%
+
+(BC)
 
 for every dollar exceeding $360,000
 
@@ -4008,7 +4060,7 @@ zoned or situated on land that is zoned in any of the following manners under th
 
 (ii)
 
-permitted under the Planning Act (Cap. 232) to be used for solely residential purposes or for mixed purposes, one of which is residential
+permitted under the Planning Act (Cap. 232) to be used for solely residential purposes or for mixed purposes, one of which is residential;
 
 “residential or mixed residential” property means any specified immovable property (or part thereof) referred to in paragraph 8(1)(b) of the Stamp Duties (Section 22A) Order 2010 (G.N. No. S 209/2010);
 
@@ -4056,7 +4108,7 @@ except where the residential property is to be held as property of a business tr
 
 a reference to a grantee, transferee or lessee, in a case where the property is to be held as partnership property, is a reference to the partners of the partnership.
 
-(2A) For the purposes of paragraphs (bd), (be) and (bg) of this Article and paragraph (2)(bb), where the property is —
+(2A) For the purposes of paragraphs (a)(iii), (bd), (be) and (bg) of this Article and paragraph (2)(bb), where the property is —
 
 (a)
 
@@ -4146,7 +4198,7 @@ Residential with commercial on the 1st storey
 
 Total gross floor area less the minimum gross floor area which must be set aside for commercial uses under the Master Plan.
 
-(2B) For the purposes of paragraphs (bd), (be) and (bg) of this Article and paragraph (2)(bb), where the property is a building or part thereof —
+(2B) For the purposes of paragraphs (a)(iii), (bd), (be) and (bg) of this Article and paragraph (2)(bb), where the property is a building or part thereof —
 
 (a)
 
@@ -4304,13 +4356,17 @@ Conveyance of equity interests in a PHE
 
 Duty A or duty B or both (as applicable).
 
-Duty A is the sum total of the amounts in paragraphs (a) and (b) for a PHE that is a Type 1 PHE, the sum total of the amounts in paragraphs (c) and (d) for a PHE that is a Type 2 PHE, and the sum total of the amounts in paragraphs (c) and (d) for a PHE that is both a Type 1 PHE and a Type 2 PHE.
+Duty A is the sum total of the amounts in paragraphs (a)(i) or (ii) (as applicable), and (b), for a PHE that is a Type 1 PHE, the sum total of the amounts in paragraphs (c)(i) or (ii) (as applicable), and (d), for a PHE that is a Type 2 PHE, and the sum total of the amounts in paragraphs (c)(i) or (ii) (as applicable), and (d), for a PHE that is both a Type 1 PHE and a Type 2 PHE.
 
 Duty B is the amount in paragraph (e) for a PHE that is a Type 1 PHE, the amount in paragraph (f) for a PHE that is a Type 2 PHE, and the amount in paragraph (f) for a PHE that is both a Type 1 PHE and a Type 2 PHE.
 
 (a)
 
-Market value of the underlying property of the PHE under paragraph (a) of the definition of “underlying property” in section 23(21)
+Market value of the underlying property of the PHE under paragraph (a) of the definition of “underlying property” in section 23(21) —
+
+(i)
+
+where the conveyance is executed before 20 February 2018
 
 The sum of the following:
 
@@ -4319,12 +4375,30 @@ For every dollar of the first $180,000
 For every dollar of the next $180,000
 
 For every dollar exceeding $360,000
+
+(ii)
+
+where the conveyance is executed on or after 20 February 2018
+
+The sum of the following:
+
+For every dollar of the first $180,000
+
+For every dollar of the next $180,000
+
+For every dollar of the next $640,000
+
+For every dollar exceeding $1,000,000
 
 (b)
 
 (c)
 
-Market value of the underlying property of the PHE under paragraph (b) of the definition of “underlying property” in section 23(21)
+Market value of the underlying property of the PHE under paragraph (b) of the definition of “underlying property” in section 23(21) —
+
+(i)
+
+where the conveyance is executed before 20 February 2018
 
 The sum of the following:
 
@@ -4337,6 +4411,28 @@ For every dollar of the next $180,000
 +
 
 For every dollar exceeding $360,000
+
++
+
+(ii)
+
+where the conveyance is executed on or after 20 February 2018
+
+The sum of the following:
+
+For every dollar of the first $180,000
+
++
+
+For every dollar of the next $180,000
+
++
+
+For every dollar of the next $640,000
+
++
+
+For every dollar exceeding $1,000,000
 
 +
 
@@ -4430,13 +4526,17 @@ Conveyance of equity interests in an entity with ownership interests in a PHE
 
 Duty C or duty D or both (as applicable).
 
-Duty C is the sum total of the amounts in paragraphs (a) and (b) for a PHE that is a Type 1 PHE, the sum total of the amounts in paragraphs (c) and (d) for a PHE that is a Type 2 PHE, and the sum total of the amounts in paragraphs (c) and (d) for a PHE that is both a Type 1 PHE and a Type 2 PHE.
+Duty C is the sum total of the amounts in paragraphs (a)(i) or (ii) (as applicable), and (b), for a PHE that is a Type 1 PHE, the sum total of the amounts in paragraphs (c)(i) or (ii) (as applicable), and (d), for a PHE that is a Type 2 PHE, and the sum total of the amounts in paragraphs (c)(i) or (ii) (as applicable), and (d), for a PHE that is both a Type 1 PHE and a Type 2 PHE.
 
 Duty D is the amount in paragraph (e) for a PHE that is a Type 1 PHE, the amount in paragraph (f) for a Type 2 PHE, and the amount in paragraph (f) for a PHE that is both a Type 1 PHE and a Type 2 PHE.
 
 (a)
 
-Market value of the underlying property of the PHE under paragraph (a) of the definition of “underlying property” in section 23(21)
+Market value of the underlying property of the PHE under paragraph (a) of the definition of “underlying property” in section 23(21) —
+
+(i)
+
+where the conveyance is executed before 20 February 2018
 
 The sum of the following:
 
@@ -4445,12 +4545,30 @@ For every dollar of the first $180,000
 For every dollar of the next $180,000
 
 For every dollar exceeding $360,000
+
+(ii)
+
+where the conveyance is executed on or after 20 February 2018
+
+The sum of the following:
+
+For every dollar of the first $180,000
+
+For every dollar of the next $180,000
+
+For every dollar of the next $640,000
+
+For every dollar exceeding $1,000,000
 
 (b)
 
 (c)
 
-Market value of the underlying property of the PHE under paragraph (b) of the definition of “underlying property” in section 23(21)
+Market value of the underlying property of the PHE under paragraph (b) of the definition of “underlying property” in section 23(21) —
+
+(i)
+
+where the conveyance is executed before 20 February 2018
 
 The sum of the following:
 
@@ -4463,6 +4581,28 @@ For every dollar of the next $180,000
 +
 
 For every dollar exceeding $360,000
+
++
+
+(ii)
+
+where the conveyance is executed on or after 20 February 2018
+
+The sum of the following:
+
+For every dollar of the first $180,000
+
++
+
+For every dollar of the next $180,000
+
++
+
+For every dollar of the next $640,000
+
++
+
+For every dollar exceeding $1,000,000
 
 +
 
@@ -4508,11 +4648,11 @@ if the equity interests in the entity (called the target entity) being conveyed,
 
 (A)
 
-the target entity by the grantee following the conveyance, and the equity interests in the target entity beneficially owned by each of the grantee’s associates; and
+the sum of equity interests beneficially owned in the target entity by the grantee following the conveyance, and the equity interests in the target entity beneficially owned by each of the grantee’s associates; and
 
 (B)
 
-between the date of the most recent conveyance by which the grantee ceased to be a significant owner and the time of execution of the conveyance, of the sum of —
+the lowest amount, at any time in the period between the date of the most recent conveyance by which the grantee ceased to be a significant owner and the time of execution of the conveyance, of the sum of —
 
 (BA)
 
@@ -4847,6 +4987,8 @@ The same duty as for a conveyance on sale for a consideration equal to the amoun
 [38/2002; S 284/98; S 288/2000; S 192/2003; S 525/2004]
 
 [Act 23/2011 wef 19/02/2011]
+
+[S 87/2018 wef 20/02/2018]
 
 SECOND SCHEDULE
 
@@ -5568,6 +5710,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
 ||Date of Second and Third Readings|7 October 2019|
 ||Date of commencement|1 January 2018|
+|81.|**G.N. No. S 87/2018—Stamp Duties Act (Amendment of First Schedule) Notification 2018**|
+||Date of commencement|20 February 2018|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
