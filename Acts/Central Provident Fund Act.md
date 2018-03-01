@@ -8235,7 +8235,9 @@ Maritime and Port Authority of Singapore Act (Cap. 170A).
 
 23. 
 
-Massage Establishments Act (Cap. 173).
+Massage Establishments Act 2017.
+
+[Act 45 of 2017 wef 01/03/2018]
 
 24. 
 
@@ -9146,6 +9148,10 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 37/2017)|
 ||Date of Second and Third Readings|6 November 2017|
 ||Date of commencement|1 January 2018|
+|216.|**Act 45 of 2017—Massage Establishments Act 2017**|
+||Date of First Reading|2 October 2017 (Bill No. 39/2017 published on 2 October 2017)|
+||Date of Second and Third Readings|6 November 2017|
+||Date of commencement|1 March 2018|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
