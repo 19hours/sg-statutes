@@ -2531,7 +2531,7 @@ Mercury compounds including inorganic mercury compounds, alkyl mercury compounds
 
 Mercury and its compounds in batteries
 
-Batteries other than mercury oxide batteries, zinc carbon batteries containing more than 0.001% by weight of mercury per cell and alkaline batteries, except those in button form, containing more than 0.025% by weight of mercury per cell.
+Batteries (including those in button form) containing not more than 0.0005% by weight of mercury per cell.
 
 Mercury in fluorescent lamps (primarily for lighting purposes)
 
@@ -3025,6 +3025,8 @@ Tris (2, 3-dibromo-l-propyl) phosphate
 
 Tungsten hexafluoride
 
+[S 126/2017 wef 31/03/2018]
+
 [S 27/2017 wef 01/07/2017]
 
 Note:
@@ -3435,6 +3437,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of First Reading|9 March 2017 (Bill No. 17/2017 published on 9 March 2017)|
 ||Date of Second and Third Readings|3 April 2017|
 ||Date of commencement|1 January 2018|
+|27.|**G.N. No. S 126/2017—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 2) Order 2017**|
+||Date of commencement|31 March 2018|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
