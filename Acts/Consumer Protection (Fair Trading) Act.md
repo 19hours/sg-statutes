@@ -74,7 +74,7 @@
 
 - [12Q False or misleading information](#False-or-misleading-information)
 
-- [12R Obstructing officer of Board, etc.](#Obstructing-officer-of-Board-etc)
+- [12R Obstructing officer of Commission, etc.](#Obstructing-officer-of-Commission-etc)
 
 - [12S No costs or damages or other relief arising from seizure recoverable unless seizure without reasonable or probable cause](#No-costs-or-damages-or-other-relief-arising-from-seizure-recoverable-unless-seizure-without-reasonable-or-probable-cause)
 
@@ -104,6 +104,8 @@
 
 - [20 Regulations](#Regulations)
 
+- [21 Saving and transitional provisions](#Saving-and-transitional-provisions)
+
 [**FIRST SCHEDULE Excluded transactions in relation to consumer transactions**](#FIRST-SCHEDULE-Excluded-transactions-in-relation-to-consumer-transactions)
 
 [**SECOND SCHEDULE**](#SECOND-SCHEDULE)
@@ -112,7 +114,7 @@
 
 [**FOURTH SCHEDULE Modifications to provisions of Limitation Act**](#FOURTH-SCHEDULE-Modifications-to-provisions-of-Limitation-Act)
 
-[**FIFTH SCHEDULE Events to be notified to Board**](#FIFTH-SCHEDULE-Events-to-be-notified-to-Board)
+[**FIFTH SCHEDULE Events to be notified to commission**](#FIFTH-SCHEDULE-Events-to-be-notified-to-commission)
 
 [**Legislative History**](#Legislative-History)
 
@@ -148,13 +150,17 @@ PRELIMINARY
 
 [Deleted by Act 25 of 2016 wef 09/12/2016]
 
-“Board” means the Standards, Productivity and Innovation Board established by section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A);
+[Deleted by Act 10 of 2018 wef 01/04/2018]
+
+“chief executive” means the chief executive of the Commission and includes any person acting in that capacity;
 
 [Act 25 of 2016 wef 09/12/2016]
 
-“chief executive” means the chief executive of the Board and includes any person acting in that capacity;
+[Act 10 of 2018 wef 01/04/2018]
 
-[Act 25 of 2016 wef 09/12/2016]
+“Commission” means the Competition and Consumer Commission of Singapore established by section 3 of the Competition Act (Cap. 50B);
+
+[Act 10 of 2018 wef 01/04/2018]
 
 “consumer” means an individual who, otherwise than exclusively in the course of business —
 
@@ -257,6 +263,8 @@ and includes any employee or agent of the person, and the word “supply”, wit
 “voucher” means any document that purports to give the holder of the document the right to obtain goods or a service or the right to obtain goods or a service at a discounted or reduced price.
 
 [15/2008]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (2) An individual who holds himself out as acting exclusively in the course of business shall be treated as acting exclusively in the course of business for the purpose of the definition of “consumer” in subsection (1).
 
@@ -462,7 +470,7 @@ in such manner or upon such terms as specified in the undertakings.
 
 ### Declaration or injunction
 
-9\.—(1) Where a supplier has engaged, is engaging or is likely to engage in an unfair practice, the District Court or High Court may, on the application of the Board —
+9\.—(1) Where a supplier has engaged, is engaging or is likely to engage in an unfair practice, the District Court or High Court may, on the application of the Commission —
 
 (a) make a declaration that the practice engaged in or about to be engaged in by the supplier is an unfair practice;
 
@@ -471,6 +479,8 @@ in such manner or upon such terms as specified in the undertakings.
 (c) if the Court grants relief under paragraph (a) or (b), make in addition one or more of the accompanying orders mentioned in subsection (4).
 
 [Act 25 of 2016 wef 09/12/2016]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (2) Where an application is made to the District Court or High Court for the grant of a declaration or an injunction under subsection (1), the power of the Court to grant the declaration or injunction may be exercised —
 
@@ -500,7 +510,7 @@ in such manner or upon such terms as specified in the undertakings.
 
 (c) an order that the supplier must include in every invoice or receipt issued by the supplier to a consumer during a specified period, a statement that the District Court or High Court has granted a declaration or injunction against the supplier;
 
-(d) an order that the supplier must, within 14 days after any of the following events occurring in a specified period, notify the Board in writing:
+(d) an order that the supplier must, within 14 days after any of the following events occurring in a specified period, notify the Commission in writing:
 
 (i) a change in the premises or number of premises at which the supplier carries on business as a supplier;
 
@@ -518,19 +528,27 @@ in such manner or upon such terms as specified in the undertakings.
 
 (viii) any other event prescribed under this Act;
 
-(e) where the supplier is an individual, an order that the individual must inform the Board in writing if a notifiable event occurs in a specified period;
+[Act 10 of 2018 wef 01/04/2018]
 
-(f) where the supplier is a partnership that has one or more partners who are individuals, an order that any one or all of those individuals must inform the Board in writing if a notifiable event occurs in a specified period;
+(e) where the supplier is an individual, an order that the individual must inform the Commission in writing if a notifiable event occurs in a specified period;
 
-(g) an order that the supplier must reimburse the Board for the cost of publishing or causing to be published all or any of the following:
+[Act 10 of 2018 wef 01/04/2018]
 
-(i) a notice that the Board has commenced an action under subsection (1) against the supplier;
+(f) where the supplier is a partnership that has one or more partners who are individuals, an order that any one or all of those individuals must inform the Commission in writing if a notifiable event occurs in a specified period;
+
+[Act 10 of 2018 wef 01/04/2018]
+
+(g) an order that the supplier must reimburse the Commission for the cost of publishing or causing to be published all or any of the following:
+
+(i) a notice that the Commission has commenced an action under subsection (1) against the supplier;
 
 (ii) a notice that an interim injunction has been granted against the supplier under subsection (3), and details of the interim injunction;
 
 (iii) a notice that an injunction, declaration, or both, have been granted against the supplier under subsection (1), and details of the injunction and declaration.
 
 [Act 25 of 2016 wef 09/12/2016]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (5) For the purposes of subsection (4)(a) and (g)(ii) and (iii), a reference to the details of a declaration, an injunction or an interim injunction granted against a supplier includes the following:
 
@@ -554,21 +572,27 @@ in such manner or upon such terms as specified in the undertakings.
 
 [Act 25 of 2016 wef 09/12/2016]
 
-(8) If a supplier fails to comply with an order mentioned in subsection (4)(a) to (d) accompanying a declaration or injunction made under subsection (1), the District Court or High Court which made the declaration or injunction may, on the application of the Board, extend the specified period in the order to such time not exceeding the maximum period specified in subsection (10).
+(8) If a supplier fails to comply with an order mentioned in subsection (4)(a) to (d) accompanying a declaration or injunction made under subsection (1), the District Court or High Court which made the declaration or injunction may, on the application of the Commission, extend the specified period in the order to such time not exceeding the maximum period specified in subsection (10).
 
 [Act 25 of 2016 wef 09/12/2016]
 
-(9) If an individual fails to comply with an order mentioned in subsection (4)(e) or (f) accompanying a declaration or an injunction made under subsection (1), the District Court or High Court which made the declaration or injunction may, on the application of the Board, extend the specified period in the order to such time not exceeding the maximum period specified in subsection (10).
+[Act 10 of 2018 wef 01/04/2018]
+
+(9) If an individual fails to comply with an order mentioned in subsection (4)(e) or (f) accompanying a declaration or an injunction made under subsection (1), the District Court or High Court which made the declaration or injunction may, on the application of the Commission, extend the specified period in the order to such time not exceeding the maximum period specified in subsection (10).
 
 [Act 25 of 2016 wef 09/12/2016]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (10) In subsections (8) and (9), the aggregate of the specified period and all extensions of time under each of those provisions must not exceed 10 years after the date on which the accompanying order under subsection (4) was made, or such other period as the Minister may prescribe in place of the 10 years.
 
 [Act 25 of 2016 wef 09/12/2016]
 
-(11) For the purposes of subsections (7) and (10), any period prescribed by the Minister applies to any application made by the Board under subsection (1), (8) or (9) (as the case may be) on or after the date of such prescription.
+(11) For the purposes of subsections (7) and (10), any period prescribed by the Minister applies to any application made by the Commission under subsection (1), (8) or (9) (as the case may be) on or after the date of such prescription.
 
 [Act 25 of 2016 wef 09/12/2016]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (12) Without prejudice to subsection (8), if a supplier enters into a consumer transaction with a consumer in breach of an accompanying order mentioned in subsection (4)(b), then the consumer may, within 6 months after the date on which the contract was entered into, cancel the contract in accordance with regulations made under section 20(2)(m).
 
@@ -586,15 +610,15 @@ in such manner or upon such terms as specified in the undertakings.
 
 [Act 25 of 2016 wef 09/12/2016]
 
-[Act 25 of 2016 wef 09/12/2016]
-
 ### Injunction against person from knowingly abetting, aiding, permitting or procuring supplier to engage in unfair practice
 
-10\.—(1) The District Court or High Court may, on the application of the Board, grant an injunction restraining a person from knowingly abetting, aiding, permitting or procuring a supplier to engage in an unfair practice if —
+10\.—(1) The District Court or High Court may, on the application of the Commission, grant an injunction restraining a person from knowingly abetting, aiding, permitting or procuring a supplier to engage in an unfair practice if —
 
 (a) the Court is satisfied that the person has knowingly abetted, aided, permitted or procured the supplier to engage in the unfair practice; or
 
 (b) the Court is satisfied that, in the event that an injunction is not granted, it is likely that the person will knowingly abet, aid, permit or procure the supplier to engage in the unfair practice.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (2) An order under subsection (1)(a) may be made whether or not it appears to the District Court or High Court that the person intends to continue to abet, aid, permit or procure the supplier to engage in the unfair practice.
 
@@ -608,7 +632,9 @@ in such manner or upon such terms as specified in the undertakings.
 
 (ii) if the supplier engages in the unfair practice.
 
-(4) Pending the determination of an application by the Board made under subsection (1), the District Court or High Court hearing the application may grant an interim injunction restraining the person from knowingly abetting, aiding, permitting or procuring the supplier to engage in an unfair practice, if the Court considers it desirable to do so.
+(4) Pending the determination of an application by the Commission made under subsection (1), the District Court or High Court hearing the application may grant an interim injunction restraining the person from knowingly abetting, aiding, permitting or procuring the supplier to engage in an unfair practice, if the Court considers it desirable to do so.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (5) A District Court or the High Court may grant an interim injunction under subsection (4) whether or not —
 
@@ -626,15 +652,19 @@ in such manner or upon such terms as specified in the undertakings.
 
 (a) that the person must publish, at the person’s expense, for a specified period the particulars of the injunction in the form and manner and at the intervals as will secure prompt and adequate publicity for the injunction against the person;
 
-(b) that the person must reimburse the Board for the cost of publishing or causing to be published all or any of the following:
+(b) that the person must reimburse the Commission for the cost of publishing or causing to be published all or any of the following:
 
-(i) a notice that the Board has commenced an action under this section against the person;
+(i) a notice that the Commission has commenced an action under this section against the person;
 
 (ii) a notice that an interim injunction has been granted against the person under subsection (4), and details of the interim injunction;
 
 (iii) a notice that an injunction has been granted against the person under subsection (1), and details of the injunction; and
 
-(c) where the person is an individual, that the individual must, if a notifiable event occurs in the specified period, inform the Board in writing within 14 days after the event.
+[Act 10 of 2018 wef 01/04/2018]
+
+(c) where the person is an individual, that the individual must, if a notifiable event occurs in the specified period, inform the Commission in writing within 14 days after the event.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (7) For the purposes of subsection (6)(b)(ii) and (iii), a reference to the details of an injunction or interim injunction granted against a person includes —
 
@@ -646,9 +676,13 @@ in such manner or upon such terms as specified in the undertakings.
 
 (8) Subject to subsection (9), a reference to a specified period in subsection (6)(c) is a reference to such period specified by the District Court or High Court, not exceeding 5 years or such other period as the Minister may prescribe in place of the 5 years.
 
-(9) If an individual fails to comply with an order made under subsection (6)(c), the District Court or High Court which made the injunction may, on the application of the Board, extend the specified period mentioned in the order to such time not exceeding 10 years after the date on which the order under subsection (6)(c) was made, or such other period as the Minister may prescribe in place of the 10 years.
+(9) If an individual fails to comply with an order made under subsection (6)(c), the District Court or High Court which made the injunction may, on the application of the Commission, extend the specified period mentioned in the order to such time not exceeding 10 years after the date on which the order under subsection (6)(c) was made, or such other period as the Minister may prescribe in place of the 10 years.
 
-(10) For the purposes of subsections (8) and (9), any period prescribed by the Minister applies to any application made by the Board under subsection (1) or (9) (as the case may be) on or after the date of such prescription.
+[Act 10 of 2018 wef 01/04/2018]
+
+(10) For the purposes of subsections (8) and (9), any period prescribed by the Minister applies to any application made by the Commission under subsection (1) or (9) (as the case may be) on or after the date of such prescription.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (11) Subsection (9) applies despite any proceedings which may be commenced against the individual for contempt of court.
 
@@ -694,17 +728,21 @@ whichever occurs later.
 
 [Act 25 of 2016 wef 09/12/2016]
 
-(b) where the Board alleges in the action that the supplier has engaged in an unfair practice in respect of any consumer, after the earliest date on which that consumer had knowledge that the supplier had engaged in the alleged unfair practice, as provided in subsection (1)(b),
+(b) where the Commission alleges in the action that the supplier has engaged in an unfair practice in respect of any consumer, after the earliest date on which that consumer had knowledge that the supplier had engaged in the alleged unfair practice, as provided in subsection (1)(b),
 
 [Act 25 of 2016 wef 09/12/2016]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 whichever occurs later.
 
 [15/2008]
 
-(3A) The Board must commence an action under section 10 within 2 years after the date of the occurrence of the last material event on which the action is based.
+(3A) The Commission must commence an action under section 10 within 2 years after the date of the occurrence of the last material event on which the action is based.
 
 [Act 25 of 2016 wef 09/12/2016]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (4) No action under any regulations made under section 11 shall be commenced later than one year after the date of the cancellation of the contract.
 
@@ -937,7 +975,7 @@ INVESTIGATION POWERS
 
 ### Power to investigate
 
-12G\.—(1) The Board may conduct an investigation if there are reasonable grounds for suspecting —
+12G\.—(1) The Commission may conduct an investigation if there are reasonable grounds for suspecting —
 
 (a) that a supplier has engaged, is engaging or is likely to engage in an unfair practice; or
 
@@ -949,9 +987,13 @@ INVESTIGATION POWERS
 
 a supplier to engage in an unfair practice.
 
+[Act 10 of 2018 wef 01/04/2018]
+
 (2) The chief executive may appoint, by name or office —
 
-(a) any officer or employee of the Board; or
+(a) any officer or employee of the Commission; or
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (b) any auxiliary police officer,
 
@@ -959,7 +1001,9 @@ to be an investigation officer for the purpose of conducting investigations unde
 
 (3) Every investigation officer, when exercising any of the investigation officer’s powers under this Act, must —
 
-(a) declare the investigation officer’s office if the officer is an officer or employee of the Board; and
+(a) declare the investigation officer’s office if the officer is an officer or employee of the Commission; and
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (b) on demand, produce to any person affected by the exercise of that power such identification card as the chief executive may issue for this purpose.
 
@@ -971,19 +1015,25 @@ to be an investigation officer for the purpose of conducting investigations unde
 
 ### Power to require documents, articles or information
 
-12H\.—(1) The Board may, by notice in writing to a supplier mentioned in section 12G(1)(a) or a person mentioned in section 12G(1)(b) (called in this Part the person under investigation), require the person under investigation to produce to the Board a specified document or article, or to provide the Board with specified information, which the Board considers to be relevant to an investigation mentioned in section 12G(1).
+12H\.—(1) The Commission may, by notice in writing to a supplier mentioned in section 12G(1)(a) or a person mentioned in section 12G(1)(b) (called in this Part the person under investigation), require the person under investigation to produce to the Commission a specified document or article, or to provide the Commission with specified information, which the Commission considers to be relevant to an investigation mentioned in section 12G(1).
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (2) A notice under subsection (1) must —
 
-(a) indicate the purpose for which the specified document or article or specified information is required by the Board; and
+(a) indicate the purpose for which the specified document or article or specified information is required by the Commission; and
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (b) be accompanied by a copy of the offences under sections 12O to 12R.
 
-(3) The Board may also specify in the notice —
+(3) The Commission may also specify in the notice —
 
 (a) the time and place at which the specified document or article is to be produced or specified information is to be provided; and
 
 (b) the manner and form in which the specified document or article or specified information is to be produced or provided.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (4) The power under this section to require a person under investigation to produce a document includes the power —
 
@@ -1005,7 +1055,9 @@ to be an investigation officer for the purpose of conducting investigations unde
 
 ### Power to enter premises without warrant
 
-12I\.—(1) In connection with an investigation under section 12G(1), an investigation officer and such other persons as the Board has authorised in writing to accompany and assist the investigation officer (called in this section an authorised assistant) may enter any premises reasonably suspected of being used by the person under investigation in connection with an unfair practice.
+12I\.—(1) In connection with an investigation under section 12G(1), an investigation officer and such other persons as the Commission has authorised in writing to accompany and assist the investigation officer (called in this section an authorised assistant) may enter any premises reasonably suspected of being used by the person under investigation in connection with an unfair practice.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (2) An investigation officer or authorised assistant must not enter any premises in the exercise of the powers under this section unless the investigation officer has given the occupier of the premises a written notice which —
 
@@ -1055,21 +1107,29 @@ to be an investigation officer for the purpose of conducting investigations unde
 
 ### Power to enter premises under warrant
 
-12J\.—(1) The court may, on the application of the Board, issue a warrant authorising by name an investigation officer and one or more authorised assistants to take all or any of the actions in subsection (3) in relation to the premises in respect of which any one of the conditions in subsection (2) applies.
+12J\.—(1) The court may, on the application of the Commission, issue a warrant authorising by name an investigation officer and one or more authorised assistants to take all or any of the actions in subsection (3) in relation to the premises in respect of which any one of the conditions in subsection (2) applies.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (2) The conditions are as follows:
 
-(a) there are reasonable grounds for suspecting that there are on any premises, documents which have not been produced as required by the Board under section 12H or 12I(5)(e);
+(a) there are reasonable grounds for suspecting that there are on any premises, documents which have not been produced as required by the Commission under section 12H or 12I(5)(e);
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (b) there are reasonable grounds for suspecting that —
 
-(i) there are on any premises documents which the Board has power under section 12H to require to be produced; and
+(i) there are on any premises documents which the Commission has power under section 12H to require to be produced; and
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (ii) if the documents were required to be produced, they would not be produced but would be concealed, removed, tampered with or destroyed;
 
 (c) there are reasonable grounds for suspecting that —
 
-(i) there are on any premises documents or goods which the Board has power under section 12I to require to be produced or to seize and detain; and
+(i) there are on any premises documents or goods which the Commission has power under section 12I to require to be produced or to seize and detain; and
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (ii) if notice is given under section 12I(2), the documents or goods would be concealed, removed, tampered with or destroyed;
 
@@ -1117,7 +1177,9 @@ to be an investigation officer for the purpose of conducting investigations unde
 
 (k) remove from those premises for examination any equipment or article which is relevant to the investigation.
 
-(4) If the court issues a warrant on the grounds in subsection (2)(b) or (c), the court may also, on the application of the Board, authorise the named investigation officer and any authorised assistant to exercise the power under the warrant in respect of any other document relating to the investigation concerned that the court is satisfied it is reasonable to suspect is on the premises.
+(4) If the court issues a warrant on the grounds in subsection (2)(b) or (c), the court may also, on the application of the Commission, authorise the named investigation officer and any authorised assistant to exercise the power under the warrant in respect of any other document relating to the investigation concerned that the court is satisfied it is reasonable to suspect is on the premises.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (5) If any equipment or article may be removed from any premises for examination under subsection (3)(k), the named investigation officer or authorised assistant may instead allow the equipment or article to be retained on those premises subject to such requirements as the named investigation officer or authorised assistant may impose on the owner or occupier of the premises.
 
@@ -1213,13 +1275,17 @@ and continues in force for one month beginning on the day on which the warrant i
 
 ### Self-incrimination and savings for professional legal advisers
 
-12N\.—(1) A person who is required under any provision of this Act to disclose any information or document to the Board, an investigation officer or any authorised assistant mentioned in section 12I or 12J is not excused from making the disclosure on the ground that the disclosure of the information or document might tend to incriminate the person.
+12N\.—(1) A person who is required under any provision of this Act to disclose any information or document to the Commission, an investigation officer or any authorised assistant mentioned in section 12I or 12J is not excused from making the disclosure on the ground that the disclosure of the information or document might tend to incriminate the person.
 
-(2) If a person mentioned in subsection (1) claims, before disclosing any information or document under any provision of this Act to any authorised assistant mentioned in section 12I or 12J, the Board or an investigation officer, that the disclosure might tend to incriminate the person, the information or document disclosed —
+[Act 10 of 2018 wef 01/04/2018]
+
+(2) If a person mentioned in subsection (1) claims, before disclosing any information or document under any provision of this Act to any authorised assistant mentioned in section 12I or 12J, the Commission or an investigation officer, that the disclosure might tend to incriminate the person, the information or document disclosed —
 
 (a) is not admissible in evidence against the person in criminal proceedings other than proceedings under Part IIIB; and
 
 (b) is, for the avoidance of doubt, admissible in evidence in civil proceedings, including proceedings under this Act.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (3) Nothing in this Part —
 
@@ -1275,11 +1341,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### False or misleading information
 
-12Q\.—(1) Any person who provides information to the Board, an investigation officer or an authorised assistant mentioned in section 12I or 12J in connection with an investigation mentioned in section 12G(1) or any offence in this Part, knowing the information to be false or misleading in a material particular or being reckless as to whether the information is false or misleading in a material particular shall be guilty of an offence.
+12Q\.—(1) Any person who provides information to the Commission, an investigation officer or an authorised assistant mentioned in section 12I or 12J in connection with an investigation mentioned in section 12G(1) or any offence in this Part, knowing the information to be false or misleading in a material particular or being reckless as to whether the information is false or misleading in a material particular shall be guilty of an offence.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (2) A person who provides information that is false or misleading in a material particular to another person —
 
-(a) knowing that the information is to be used for the purpose of providing information to the Board, an investigation officer or an authorised assistant mentioned in section 12I or 12J in connection with any function or duty of the Board or investigation officer under this Act; and
+(a) knowing that the information is to be used for the purpose of providing information to the Commission, an investigation officer or an authorised assistant mentioned in section 12I or 12J in connection with any function or duty of the Commission or investigation officer under this Act; and
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (b) knowing the information to be false or misleading in a material particular, or being reckless as to whether the information is false or misleading in a material particular,
 
@@ -1289,17 +1359,21 @@ shall be guilty of an offence.
 
 [Act 25 of 2016 wef 09/12/2016]
 
-### Obstructing officer of Board, etc.
+### Obstructing officer of Commission, etc.
 
 12R\. Any person who, without reasonable excuse, obstructs, hinders or impedes —
 
-(a) any of the Board’s members, officers or employees; or
+(a) any of the Commission’s members, officers or employees; or
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (b) any investigation officer or authorised assistant mentioned in section 12I or 12J,
 
 in the discharge of their duties or the exercise of their powers under this Act or any regulations made under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [Act 25 of 2016 wef 09/12/2016]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 ### No costs or damages or other relief arising from seizure recoverable unless seizure without reasonable or probable cause
 
@@ -1423,19 +1497,23 @@ shall be guilty of the same offence as is the unincorporated association or part
 
 ### Composition of offences
 
-12V\.—(1) The chief executive or any officer of the Board authorised by the chief executive may compound any offence under this Act that is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
+12V\.—(1) The chief executive or any officer of the Commission authorised by the chief executive may compound any offence under this Act that is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
 (a) one half of the amount of the maximum fine that is prescribed for that offence;
 
 (b) $5,000.
 
+[Act 10 of 2018 wef 01/04/2018]
+
 (2) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
 
 (3) All sums collected under this section are to be paid into the Consolidated Fund.
 
-(4) The members, officers and employees of the Board are, in relation to their administration, assessment, collection and enforcement of payment of composition sums under this section, deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109), and section 20 of that Act applies to these persons even though they are not or were not in the employment of the Government.
+(4) The members, officers and employees of the Commission are, in relation to their administration, assessment, collection and enforcement of payment of composition sums under this section, deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109), and section 20 of that Act applies to these persons even though they are not or were not in the employment of the Government.
 
 [Act 25 of 2016 wef 09/12/2016]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 ## PART IV
 
@@ -1549,6 +1627,22 @@ the provision must be interpreted against the supplier.
 
 [Act 25 of 2016 wef 09/12/2016]
 
+### Saving and transitional provisions
+
+21\.—(1) Any proceedings for a declaration or an injunction commenced by the Board under section 9 or 10 before the appointed date and pending on that date may be continued by the Commission as if the proceedings had been commenced by the Commission.
+
+(2) Any order made by the District Court or High Court under section 9 or 10 before the appointed date requiring any person to notify, inform, reimburse or do anything in relation to, the Board, which remains unsatisfied on that date, is satisfied if the person notifies, informs, reimburses or does that thing in relation to, the Commission.
+
+(3) Any investigation commenced by the Board under Part IIIA before the appointed date and pending on that date may be continued by the Commission as if it had been commenced by the Commission.
+
+(4) In this section —
+
+“appointed date” means the date of commencement of section 65 of the Enterprise Singapore Board Act 2018;
+
+“Board” means the Standards, Productivity and Innovation Board established by section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A) as in force immediately before the appointed date.
+
+[Act 10 of 2018 wef 01/04/2018]
+
 ### Rights transferred
 
 14\. Where, other than in the course of business, an individual, as heir or assignee of a consumer, receives goods or services, that individual has the same rights as the consumer to seek and obtain redress from the supplier under this Act.
@@ -1646,6 +1740,22 @@ the provision must be interpreted against the supplier.
 (n) prescribing the offences that may be compounded under section 12V.
 
 [Act 25 of 2016 wef 09/12/2016]
+
+### Saving and transitional provisions
+
+21\.—(1) Any proceedings for a declaration or an injunction commenced by the Board under section 9 or 10 before the appointed date and pending on that date may be continued by the Commission as if the proceedings had been commenced by the Commission.
+
+(2) Any order made by the District Court or High Court under section 9 or 10 before the appointed date requiring any person to notify, inform, reimburse or do anything in relation to, the Board, which remains unsatisfied on that date, is satisfied if the person notifies, informs, reimburses or does that thing in relation to, the Commission.
+
+(3) Any investigation commenced by the Board under Part IIIA before the appointed date and pending on that date may be continued by the Commission as if it had been commenced by the Commission.
+
+(4) In this section —
+
+“appointed date” means the date of commencement of section 65 of the Enterprise Singapore Board Act 2018;
+
+“Board” means the Standards, Productivity and Innovation Board established by section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A) as in force immediately before the appointed date.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 FIRST SCHEDULE
 
@@ -1747,7 +1857,7 @@ when the supplier knows or ought to know that, on presentment of the voucher to 
 
 20. Omitting to provide a material fact to a consumer, using small print to conceal a material fact from the consumer or misleading a consumer as to a material fact, in connection with the supply of goods or services.
 
-[Act 25 of 2016 wef 09/12/2016]
+[docId=2016-ACT-25;validated=verified;docVerId=04d7c150-3ae8-4d0b-bbfb-0145e964cbc3;transactionDate=;urn=;validDate=20161209000000[Act 25 of 2016 wef 09/12/2016]]
 
 21. Accepting payment or other consideration for the supply of goods or services when the supplier knows or ought to know that the supplier will not be able to supply the goods or services —
 
@@ -1849,7 +1959,7 @@ FIFTH SCHEDULE
 
 Section 9(15)
 
-Events to be notified to Board
+Events to be notified to commission
 
 1\. The individual, as a sole proprietor, commences carrying on business as a supplier.
 
@@ -1866,6 +1976,8 @@ Events to be notified to Board
 4. The individual becomes or ceases to be, legally or beneficially interested, whether directly or indirectly, in at least 15% of the total voting power or total issued shares in a company which carries on a business as a supplier.
 
 [Act 25 of 2016 wef 09/12/2016]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -1913,3 +2025,7 @@ This Legislative History is provided for the convenience of users of the Consume
 ||Date of First Reading|15 August 2016 (Bill No. 25/2016 published on 15 August 2016)|
 ||Date of Second and Third Readings|13 September 2016|
 ||Date of commencement|9 December 2016|
+|10.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
