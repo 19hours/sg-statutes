@@ -62,17 +62,7 @@
 
 - [22 Other terms and conditions](#Other-terms-and-conditions)
 
-[**Division 3  Disclosure of members’ interests**](#Division-3--Disclosure-of-members’-interests)
-
-- [23 Interpretation of this Division](#Interpretation-of-this-Division)
-
-- [24 Obligation to disclose interest](#Obligation-to-disclose-interest)
-
-- [25 To whom and what to disclose](#To-whom-and-what-to-disclose)
-
-- [26 Consequences of being interested in relevant matter](#Consequences-of-being-interested-in-relevant-matter)
-
-- [27 Consequences of failure to disclose interest](#Consequences-of-failure-to-disclose-interest)
+[**Division 3  Repealed**](#Division-3--Repealed)
 
 [**Part 4 DECISION-MAKING BY AUTHORITY**](#Part-4)
 
@@ -82,7 +72,7 @@
 
 - [29 Notice of meetings](#Notice-of-meetings)
 
-- [30 Method of holding meetings](#Method-of-holding-meetings)
+- [30 (Repealed)](#Repealed)
 
 - [31 Quorum](#Quorum)
 
@@ -90,7 +80,7 @@
 
 - [33 Voting at meetings](#Voting-at-meetings)
 
-- [34 Decisions in writing](#Decisions-in-writing)
+- [34 (Repealed)](#Repealed)
 
 - [35 Execution of documents](#Execution-of-documents)
 
@@ -106,13 +96,13 @@
 
 [**Part 5 PERSONNEL MATTERS**](#Part-5)
 
-- [40 Appointment of Chief Executive](#Appointment-of-Chief-Executive)
+- [40 Chief Executive, officers and employees, etc.](#Chief-Executive-officers-and-employees-etc)
 
-- [41 Employees](#Employees)
+- [41 (Repealed)](#Repealed)
 
 - [42 Inspecting officers](#Inspecting-officers)
 
-- [43 Public servants and public officers](#Public-servants-and-public-officers)
+- [43 (Repealed)](#Repealed)
 
 - [44 Preservation of secrecy](#Preservation-of-secrecy)
 
@@ -128,9 +118,9 @@
 
 - [49 Bank accounts](#Bank-accounts)
 
-- [50 Financial procedures and records](#Financial-procedures-and-records)
+- [50 (Repealed)](#Repealed)
 
-- [51 Annual estimates](#Annual-estimates)
+- [51 (Repealed)](#Repealed)
 
 - [52 Power of investment](#Power-of-investment)
 
@@ -138,15 +128,15 @@
 
 - [54 Borrowing power](#Borrowing-power)
 
-- [55 Appointment of auditor](#Appointment-of-auditor)
+- [55 (Repealed)](#Repealed)
 
-- [56 Powers of auditor](#Powers-of-auditor)
+- [56 (Repealed)](#Repealed)
 
-- [57 Auditor’s report](#Auditor’s-report)
+- [57 (Repealed)](#Repealed)
 
-- [58 Audited annual financial statements](#Audited-annual-financial-statements)
+- [58 (Repealed)](#Repealed)
 
-- [59 Annual and other reports of Authority](#Annual-and-other-reports-of-Authority)
+- [59 (Repealed)](#Repealed)
 
 [**Part 7 COMPETITION AND CONSUMER PROTECTION**](#Part-7)
 
@@ -279,15 +269,23 @@ Date of Commencement: 1st October 2016 Parts 1 to 9, sections 87, 88, 90(2), (3)
 
 Date of Commencement: 2nd October 2016 Sections 89, 90(1) and 96(v)
 
+An Act to establish the Info‑communications Media Development Authority, to make provision for competition and consumer protection in the media industry, to repeal the Info‑communications Development Authority of Singapore Act (Chapter 137A of the 2000 Revised Edition) and the Media Development Authority of Singapore Act (Chapter 172 of the 2003 Revised Edition), and to make consequential and related amendments to certain other Acts.
+
+Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+
 ## PART 1
 
 PRELIMINARY
+
+### Short title and commencement
+
+1\. This Act is the Info-communications Media Development Authority Act 2016 and comes into operation on a date that the Minister appoints by notification in theGazette.
 
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
 
-“auditor”, in relation to the Authority, means the Auditor‑General or such other auditor appointed by the Minister under section 55(1);
+[Deleted by Act 5 of 2018 wef 01/04/2018]
 
 “Authority” means the Info‑communications Media Development Authority established by section 3;
 
@@ -297,7 +295,9 @@ PRELIMINARY
 
 “Chairperson”, in relation to the Authority, means the member of the Authority who is appointed under section 13(1)(a) as the Chairperson of the Authority, and includes any individual acting in that capacity;
 
-“Chief Executive”, in relation to the Authority, means the Chief Executive of the Authority appointed under section 40(2), and includes any individual acting in that capacity;
+“Chief Executive” means the Chief Executive of the Authority, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “code of practice” means a code of practice or standard of performance issued under section 61;
 
@@ -544,7 +544,9 @@ OF AUTHORITY
 
 ### Directions of Minister, etc.
 
-8\.—(1) The Minister may give to the Authority directions on the performance by the Authority of its functions; and the Authority must give effect to all such directions.
+8\.—(1) The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) To avoid doubt, the Minister is entitled —
 
@@ -644,7 +646,9 @@ whichever first happens.
 
 (a) the Chairperson is unavailable; or
 
-(b) the Chairperson is interested (within the meaning of section 23) in the matter.
+(b) the Chairperson is interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Premature vacancies
 
@@ -694,11 +698,13 @@ whichever first happens.
 
 (a) there was a vacancy in the membership of the Authority, including a vacancy arising from the failure to appoint a member;
 
-(b) there was some defect or irregularity existing in the appointment or continuance in office of an individual purporting to be a member;
+(b) there was some defect or irregularity existing in the appointment or continuance in office of an individual purporting to be a member; or
 
-(c) a member failed to disclose his or her interest in a relevant matter (within the meaning of Division 3);
+[Act 5 of 2018 wef 01/04/2018]
 
-(d) the Authority failed to report to the Minister under section 27; or
+(c) [Deleted by Act 5 of 2018 wef 01/04/2018]
+
+(d) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (e) there was an irregularity in the Authority’s decision‑making procedure (but only if the irregularity did not affect the merits of the decision made).
 
@@ -732,7 +738,9 @@ Terms and conditions for members
 
 (e) resigns in accordance with section 17;
 
-(f) fails, without reasonable cause, to disclose any interest required to be disclosed under Division 3, and the Authority reports to the Minister, under section 27, of the member’s failure to do so;
+(f) fails, without reasonable cause, to disclose any interest required to be disclosed under the Public Sector (Governance) Act 2018 and the Authority reports to the Minister under that Act of the member’s failure to do so;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (g) fails to attend 3 consecutive meetings of the Authority (without the approval of the Authority); or
 
@@ -744,103 +752,9 @@ Terms and conditions for members
 
 22\. The Minister may specify other terms and conditions of appointment of a member in the instrument of appointment.
 
-Division 3 —
+Division 3
 
-Disclosure of members’ interests
-
-### Interpretation of this Division
-
-23\.—(1) In this Division, “relevant matter” means a matter that relates to, or may in the future relate to —
-
-(a) the performance of a function, or the exercise of a power, of the Authority; or
-
-(b) an arrangement or an agreement made or entered into, or proposed to be made or entered into, by or on behalf of the Authority.
-
-(2) A member is interested in a relevant matter if —
-
-(a) the member, or an associate of the member, may derive a financial benefit from the relevant matter;
-
-(b) the member, or an associate of the member, may have a financial interest in a person to whom the relevant matter relates; or
-
-(c) the member, or an associate of the member, is otherwise, directly or indirectly, interested in the relevant matter.
-
-(3) However, a member is not interested in a relevant matter —
-
-(a) only because of an interest in a question about the level of salaries, fees, allowances or expenses to be set for members;
-
-(b) only because of an interest that the member, or an associate of the member, shares in common with the general public or a substantial section of the public;
-
-(c) only because the member, or an associate of the member, has an interest in the payment or reimbursement of membership fees for, or expenses related to membership in, a body with predominantly charitable objects;
-
-(d) only because the member has past or current involvement in the relevant sector, industry or practice; or
-
-(e) if his or her interest is so remote or insignificant that it cannot reasonably be regarded as likely to influence him or her in carrying out his or her responsibilities under this Act or another Act administered by the Authority.
-
-(4) In this Division, a person is an associate of another if —
-
-(a) they are spouses, siblings, a parent and child, or in a similar close family relationship;
-
-(b) they are in partnership;
-
-(c) one is a body corporate and the other is a director or manager of, or holds an analogous position in, the body corporate;
-
-(d) one is a private company within the meaning of section 4(1) of the Companies Act (Cap. 50) and the other is a shareholder in the company; or
-
-(e) a chain of relationships can be traced between them under one or more of paragraphs (a) to (d).
-
-### Obligation to disclose interest
-
-24\.—(1) A member who is interested in a relevant matter must disclose details of the interest in accordance with section 25 as soon as practicable after the member becomes aware that he or she is interested in that matter.
-
-(2) A general notice of an interest in a relevant matter that is disclosed in accordance with section 25 is a standing disclosure of that interest for the purposes of this section.
-
-(3) However, a standing disclosure ceases to have effect if the nature of the interest materially alters or the extent of the interest materially increases.
-
-(4) To avoid doubt, this section is in addition to, and not in derogation of, the operation of any rule of law restricting or prohibiting a member from having any interest in the Authority’s arrangements or agreements or from holding offices or possessing interests in conflict with his or her duties as a member.
-
-### To whom and what to disclose
-
-25\.—(1) A member who is interested in a relevant matter must disclose details of the interest —
-
-(a) in the case of the Chairperson, to the Chief Executive, all other members and the Minister; or
-
-(b) in the case of any other member, to the Chief Executive and —
-
-(i) to the Chairperson;
-
-(ii) if there is no Chairperson or if the Chairperson is interested in the matter, to the Deputy Chairperson; or
-
-(iii) if there is neither a Chairperson nor Deputy Chairperson, or if both the Chairperson and Deputy Chairperson are interested in the matter, to the Minister.
-
-(2) The details that must be disclosed under subsection (1) are —
-
-(a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or
-
-(b) the nature and extent of the interest (if the monetary value cannot be quantified).
-
-(3) The Chief Executive must ensure that every interest of a member in a relevant matter —
-
-(a) is recorded in a register of interests kept by the Authority; and
-
-(b) is brought to the attention of the person who presides, under section 32, at a meeting of the Authority that relates to the relevant matter.
-
-### Consequences of being interested in relevant matter
-
-26\. A member who is interested in a relevant matter —
-
-(a) must not vote or take part in any discussion or decision of the Authority relating to the relevant matter, or otherwise participate in any activity of the Authority that relates to the relevant matter;
-
-(b) must withdraw from a meeting of the Authority during any discussion or the consideration of any decision relating to the relevant matter if the person presiding at the meeting under section 32 so requests;
-
-(c) must not sign any document relating to the entry into a transaction or the initiation of the relevant matter; and
-
-(d) is to be disregarded for the purpose of forming a quorum for that part of a meeting of the Authority during which a discussion or decision relating to the relevant matter occurs or is made.
-
-### Consequences of failure to disclose interest
-
-27\.—(1) The Authority must report to the Minister of any failure to comply with section 25 or 26, and of the acts affected, as soon as practicable after becoming aware of the failure.
-
-(2) The Authority’s report under subsection (1) of a member’s failure to comply with section 25 or 26 must state whether that failure was due to any reasonable cause.
+[Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART 4
 
@@ -862,19 +776,7 @@ Meetings
 
 (3) If the Chairperson receives a written request, signed by 4 or more members, that a meeting of the Authority be convened for a purpose specified in the request, the Chairperson must, within 7 days after receiving the request, convene a meeting for that purpose.
 
-### Method of holding meetings
-
-30\.—(1) A meeting of the Authority may be held —
-
-(a) by a quorum of members, being assembled together at the time and place appointed for the meeting; or
-
-(b) by means of audio, audio and visual, or electronic communication but only if —
-
-(i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
-
-(ii) a quorum of members are able to simultaneously communicate with each other throughout the meeting.
-
-(2) For the purposes of this Act, a member participating in a meeting as permitted under subsection (1)(b)(i) is taken to be present at the meeting.
+30\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Quorum
 
@@ -890,15 +792,19 @@ Meetings
 
 32\.—(1) At a meeting of the Authority, the following person presides:
 
-(a) if there is a Chairperson and he or she is present and is not interested (within the meaning of section 23) in the matter — the Chairperson;
+(a) if there is a Chairperson and he or she is present and is not interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter — the Chairperson;
 
-(b) if there is no Chairperson, or the Chairperson is not present or is interested (within the meaning of section 23) in the matter, and there is a Deputy Chairperson who is present and is not interested (within the meaning of section 23) in the matter — the Deputy Chairperson;
+[Act 5 of 2018 wef 01/04/2018]
+
+(b) if there is no Chairperson, or the Chairperson is not present or is interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter, and there is a Deputy Chairperson who is present and is not interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter — the Deputy Chairperson;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (c) in any other case, the member elected, from among the members present at the meeting, to preside.
 
 (2) The person specified in subsection (1)(b) or (c) may perform the functions and exercise the powers of the Chairperson for the purposes of the meeting.
 
-(3) In this section, a reference to a meeting of the Authority includes the process for, and the adoption of, a decision by the members of the Authority under section 34.
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Voting at meetings
 
@@ -910,19 +816,7 @@ Meetings
 
 (4) A member present at a meeting of the Authority is presumed to have agreed to, and to have cast a vote in favour of, a decision of the Authority unless he or she expressly dissents from or votes against the decision at the meeting.
 
-### Decisions in writing
-
-34\.—(1) The members may, in place of the procedure described in section 33, adopt a decision by assenting to the decision in writing if —
-
-(a) all the members are given (whether by post, personal delivery or electronic communication) the terms of the decision to be made; and
-
-(b) a majority of those members who are entitled to vote on the matter sign or approve a document containing the terms of the decision to be made and a statement that they are in favour of those terms.
-
-(2) The decision is deemed to have been adopted at a meeting of the Authority on the date on which the document containing the terms of the decision to be made is signed or approved by the last member required to form the majority of members in favour of the decision.
-
-(3) The adoption of the decision by the Authority may consist of several documents containing the same terms of the decision to be made, each signed or approved by one or more members.
-
-(4) For the purposes of this section, a member has the same voting rights as he or she would have under section 33(1) and (2) had a meeting been held on the matter.
+34\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Execution of documents
 
@@ -964,25 +858,19 @@ Committees and delegation
 
 (b) to perform any function or exercise any power of the Authority that is delegated to the committee, if the committee includes at least one member of the Authority.
 
-(4) An individual may not be appointed as a member of a committee unless, before appointment, he or she discloses to the Authority the details of any interest (within the meaning of section 23, as modified by section 37(3)) the individual may have if he or she were a member of that committee.
+(4) An individual may not be appointed as a member of a committee unless, before appointment, he or she discloses to the Authority the details of any interest (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) the individual may have if he or she were a member of that committee.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Proceedings of committees, etc.
 
-37\.—(1) Subject to this Act and the control of the Authority, a committee appointed under section 36 may regulate its own proceedings and business.
+37\.—(1) Subject to this Act, the Public Sector (Governance) Act 2018 and the control of the Authority, a committee appointed under section 36 may regulate its own proceedings and business.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Section 18 applies to a committee and the members of the committee, with the necessary modifications.
 
-(3) Sections 23 to 27 apply to a committee and the members of the committee, subject to the following modifications:
-
-(a) the reference in those sections to a relevant matter is a reference to a relevant matter (within the meaning of section 23) that is regulated or managed by the committee;
-
-(b) the reference in those sections to a member is a reference to a member of the committee;
-
-(c) the reference in section 25 to disclosing details of an interest is a reference to disclosing the details to the Authority and the Chief Executive;
-
-(d) the reference in section 26 to a discussion, decision, meeting or other activity of the Authority is a reference to a discussion, decision, meeting or other activity of the committee;
-
-(e) the reference in section 27 to the Authority reporting to the Minister is a reference to the committee reporting to the Authority.
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Ability to delegate
 
@@ -1000,9 +888,9 @@ Committees and delegation
 
 (3) Subsection (1) does not apply to —
 
-(a) the power to make subsidiary legislation conferred by this Act or any other Act;
+(a) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(b) the power to delegate conferred by this section; or
+(b) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (c) any function or power under this Act or any other Act that is declared by this Act or that other Act to be non‑delegable.
 
@@ -1010,7 +898,7 @@ Committees and delegation
 
 (a) except as otherwise provided in this Act or any other Act administered by the Authority, does not affect or prevent the performance of any function or the exercise of any power by the Authority;
 
-(b) is not affected by any change in the membership of the Authority;
+(b) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (c) is not affected by any change in the membership of a committee (where the committee is the delegate), so long as the committee includes at least one member of the Authority; or
 
@@ -1034,43 +922,27 @@ Committees and delegation
 
 PERSONNEL MATTERS
 
-### Appointment of Chief Executive
+### Chief Executive, officers and employees, etc.
 
-40\.—(1) The Chief Executive —
+40\.—(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(a) is responsible to the Authority for the proper administration and management of the functions and affairs of the Authority in accordance with the policy laid down by the Authority; and
-
-(b) may be known by such designation as the Authority may determine.
-
-(2) The Authority must, with the approval of the Minister, appoint an individual to be the Chief Executive, and the Minister must consult the Public Service Commission before giving that approval.
-
-(3) The Authority may remove the Chief Executive from office only with the approval of the Minister, and the Minister must consult the Public Service Commission before giving that approval.
-
-(4) The terms and conditions of the Chief Executive’s appointment are to be determined by the Authority.
-
-(5) The Authority may appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
+(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
 (a) is absent from duty or Singapore; or
 
 (b) is, for any reason, unable to perform the duties of the office.
 
-### Employees
+(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-41\.—(1) The Authority may, from time to time, appoint and employ such employees as may be necessary for the effective performance of its functions.
+[Act 5 of 2018 wef 01/04/2018]
 
-(2) The Authority may determine their remuneration and the other terms and conditions of their employment insofar as they are not determined by or under any Act or other law.
+41\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Inspecting officers
 
 42\. The Authority may appoint, by name or office, from among the Authority’s employees such number of inspecting officers as may be required for the purposes of this Act.
 
-### Public servants and public officers
-
-43\. The Chief Executive, and all members, employees and delegates of the Authority, and all committee members —
-
-(a) are deemed to be public servants for the purposes of the Penal Code (Cap. 224); and
-
-(b) are, in relation to their administration, assessment, collection or enforcement of payment of composition sums under this Act or any other Act administered by the Authority, deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to these individuals even though they are not or were not in the employment of the Government.
+43\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Preservation of secrecy
 
@@ -1132,25 +1004,9 @@ FINANCIAL PROVISIONS
 
 (2) Every account under subsection (1) may only be operated by a person who is authorised to do so by the Authority.
 
-### Financial procedures and records
+50\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-50\. The Authority must —
-
-(a) keep proper accounts and records of its transactions and affairs; and
-
-(b) do all things necessary to ensure that —
-
-(i) all payments out of its moneys are correctly made and properly authorised; and
-
-(ii) adequate control is maintained over the funds and property of, or in the custody of, the Authority and over the expenditure incurred by the Authority.
-
-### Annual estimates
-
-51\.—(1) The Authority must, in every financial year, prepare or cause to be prepared, and adopt, annual estimates of income and expenditure of the Authority for the ensuing financial year.
-
-(2) The Authority may adopt supplementary estimates of income and expenditure of the Authority where necessary.
-
-(3) A copy of all annual estimates and supplementary estimates mentioned in this section must be sent to the Minister as soon as possible after their adoption by the Authority.
+51\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Power of investment
 
@@ -1186,61 +1042,15 @@ the Authority must issue such shares or other securities to the Minister for Fin
 
 (4) For the purposes of this section, the power to raise loans includes the power to enter into any financial agreement or arrangement under which credit facilities are granted to the Authority for the purchase of goods or services.
 
-### Appointment of auditor
+55\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-55\.—(1) The accounts of the Authority are to be audited by the Auditor‑General, or such other auditor as may be appointed annually by the Minister in consultation with the Auditor‑General.
+56\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(2) A person is not qualified for appointment as an auditor under subsection (1) unless the person is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
+57\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(3) The remuneration of the auditor is to be paid out of the funds of the Authority.
+58\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-### Powers of auditor
-
-56\.—(1) The Authority must, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor of the Authority, who must audit and report on them.
-
-(2) For the purpose of auditing and reporting on the financial statements submitted under subsection (1), the auditor of the Authority, or a person authorised by the auditor for that purpose (called in this section an authorised person), is entitled at all reasonable times —
-
-(a) to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Authority;
-
-(b) to make copies of or extracts from any of those accounting and other records; and
-
-(c) to require any person to furnish the auditor or the authorised person with such information in the possession of that person, or to which that person has access, as the auditor or the authorised person considers necessary for the purposes of the auditor’s functions under this Act.
-
-(3) A person —
-
-(a) who fails, without any reasonable cause, to comply with any requirement of the auditor of the Authority or an authorised person under subsection (2); or
-
-(b) who otherwise obstructs, hinders or delays the auditor or the authorised person in the performance of his or her functions, or the exercise of his or her powers, under this Act,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-### Auditor’s report
-
-57\.—(1) The auditor’s report on the financial statements submitted under section 56(1) must state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Authority;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Authority whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure, investment of moneys and the acquisition and disposal of assets by the Authority during the financial year have been in accordance with this Act; and
-
-(d) such other matters arising from the audit as the auditor considers should be reported.
-
-(2) The auditor may at any other time report to the Minister, through the Authority, on any matter arising out of the performance of an audit under this Act.
-
-### Audited annual financial statements
-
-58\.—(1) The Authority must, as soon as its accounts and financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairperson, together with a copy of the auditor’s report under section 57(1).
-
-(2) The Minister must, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report under section 57(1) to be presented to Parliament.
-
-(3) Where the auditor is not the Auditor‑General, the auditor must forward to the Auditor‑General a copy of the audited financial statements and of the auditor’s report under section 57(1), at the same time as the auditor submits them to the Authority.
-
-### Annual and other reports of Authority
-
-59\.—(1) The Authority must, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Authority during the preceding financial year and containing such information relating to the proceedings and policy of the Authority as the Minister may, from time to time, direct.
-
-(2) The Minister must, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+59\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART 7
 
