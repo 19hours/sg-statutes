@@ -374,7 +374,9 @@ Civil Service College
 
 6. 
 
-Competition Commission of Singapore
+Competition and Consumer Commission of Singapore
+
+[Act 10 of 2018 wef 01/04/2018]
 
 7. 
 
@@ -424,7 +426,9 @@ Inland Revenue Authority of Singapore
 
 16. 
 
-International Enterprise Singapore Board
+Enterprise Singapore Board
+
+[Act 10 of 2018 wef 01/04/2018]
 
 17. 
 
@@ -605,3 +609,7 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of First Reading|11 July 2016 (Bill No. 19/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|4 October 2016|
+|34.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
