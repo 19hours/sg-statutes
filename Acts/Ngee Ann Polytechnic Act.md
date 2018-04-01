@@ -40,17 +40,17 @@
 
 - [17 Committees and boards](#Committees-and-boards)
 
-- [18 Financial provisions](#Financial-provisions)
+- [18 (Repealed)](#Repealed)
 
 - [19 Principal to be chief administrative officer of Polytechnic](#Principal-to-be-chief-administrative-officer-of-Polytechnic)
 
-- [19A Public servants](#Public-servants)
+- [19A Other officers and employees, etc.](#Other-officers-and-employees-etc)
 
 - [20 Income and property of Polytechnic](#Income-and-property-of-Polytechnic)
 
 - [20A Issue of shares, etc.](#Issue-of-shares-etc)
 
-- [21 Annual report](#Annual-report)
+- [21 (Repealed)](#Repealed)
 
 - [22 Ngee Ann Polytechnic Students’ Union](#Ngee-Ann-Polytechnic-Students’-Union)
 
@@ -59,8 +59,6 @@
 - [24 Rules](#Rules)
 
 - [25 Construction of contracts, gifts, etc.](#Construction-of-contracts-gifts-etc)
-
-[**THE SCHEDULE Financial provisions**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -96,7 +94,9 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 “Polytechnic” means the Ngee Ann Polytechnic incorporated under section 3;
 
-“Principal” means the Principal of the Polytechnic appointed under section 19(1);
+“Principal” means the Principal of the Polytechnic, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “Registrar” means the Registrar of the Polytechnic appointed under section 13(1);
 
@@ -240,9 +240,11 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 (7) The Council shall not be precluded from holding a meeting or acting in any matter merely by reason of any vacancy in its membership.
 
-(8) Subject to the provisions of this Act, the Council may make standing orders to regulate its own procedure.
+(8) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council may make standing orders to regulate its own procedure.
 
 [10
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Registrar to be secretary of Council
 
@@ -322,23 +324,23 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 (2) Unless otherwise expressly provided in rules made under this Act, any such committee or board may consist partly of persons who are not members of the Council or the Senate, as the case may be.
 
-(3) Subject to the provisions of this Act, the Council and the Senate may, with or without such restrictions or conditions as the Council and the Senate respectively may think fit, delegate any of their powers and duties to any committee or board.
+(3) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council and the Senate may, with or without such restrictions or conditions as the Council and the Senate respectively may think fit, delegate any of their powers and duties to any committee or board.
 
 [15
 
-### Financial provisions
+[Act 5 of 2018 wef 01/04/2018]
 
-18\. The financial provisions set out in the Schedule shall have effect with respect to the Polytechnic.
-
-[15A
-
-[40/75; 4/82]
+18\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Principal to be chief administrative officer of Polytechnic
 
 19\.—(1) The Council shall appoint the Principal of the Polytechnic upon such terms and conditions as it may determine.
 
 [4/82]
+
+(1A) The appointment, removal, discipline and promotion of the Principal must be in accordance with the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Principal shall be —
 
@@ -360,11 +362,11 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 [16
 
-### Public servants
+### Other officers and employees, etc.
 
-19A\. All members of the Council, and all officers, members of the academic and administrative staff and other employees of the Polytechnic, are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+19A\. The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-[Act 16 of 2016 wef 10/06/2016]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Income and property of Polytechnic
 
@@ -390,13 +392,7 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 [5/2002 wef 15/07/2002]
 
-### Annual report
-
-21\. The Council shall, as soon as practicable after the close of each financial year, submit to the Minister an annual report on the activities of the Polytechnic during that year and the Minister shall cause a copy of every such report to be presented to Parliament.
-
-[17A
-
-[40/75; 4/82]
+21\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Ngee Ann Polytechnic Students’ Union
 
@@ -442,7 +438,9 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 
 (b) the establishment of a scheme or schemes for the payment of gratuities, provident fund or other superannuation benefits to such employees or classes of employees of the Polytechnic as the Council may determine, on their death or retirement from the service of the Polytechnic or on their otherwise leaving the service of the Polytechnic;
 
-(c) the regulation of the proceedings of the Council;
+(c) the regulation of the proceedings of the Council, to the extent not inconsistent with the Public Sector (Governance) Act 2018;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (d) the regulation of the keeping and presentation of accounts and the audit of accounts;
 
@@ -469,50 +467,6 @@ An Act for the incorporation of the Ngee Ann Polytechnic and for matters connect
 [4/82]
 
 \*This section was formerly section 5 of the Ngee Ann Technical College (Amendment) Act 1982 (No. 4 of 1982).
-
-## THE SCHEDULE
-
-Section 18
-
-Financial provisions
-
-1\. The Council shall keep proper accounts and records of the transactions and affairs of the Polytechnic including an assets register which shall record all the assets of the Polytechnic, whether purchased, donated or otherwise, and shall do all things necessary to ensure that all payments out of moneys of the Polytechnic are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Polytechnic and over the expenditure incurred by the Polytechnic.
-
-2\. The accounts of the Polytechnic shall be audited by the Auditor-General or by an auditor appointed annually by the Minister in consultation with the Auditor-General (referred to in this Schedule as the auditor).
-
-3\. The remuneration of the auditor shall be paid out of the funds of the Polytechnic.
-
-4\. The Council shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
-
-5. The auditor shall report —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Polytechnic; and
-
-(b) such other matters arising from the audit as he considers should be reported.
-
-6. The auditor shall state in his report whether —
-
-(a) proper accounting and other records have been kept; and
-
-(b) the receipt, expenditure, and investment of moneys and the acquisition and disposal of assets by the Polytechnic during the financial year have been in accordance with the provisions of this Act.
-
-7\. The auditor may at any other time report to the Minister through the Council any matter arising out of the performance of his audit.
-
-8\. The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating directly or indirectly to the financial transactions of the Polytechnic.
-
-9\. The auditor or a person authorised by him may make copies of, or make extracts from, any such accounting and other records.
-
-10\. The auditor or any person authorised by him may require any person to furnish him with such information which such person possesses or has access to as the auditor or any duly authorised person considers necessary for the purposes of the functions of the auditor under this Act.
-
-11\. Any officer of the Polytechnic who refuses or fails without any reasonable cause to allow the auditor access to any accounting and other records of the Polytechnic in his custody or power or to give any information possessed by him as and when required or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 and in the case of a continuing offence to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-12\. As soon as the accounts of the Polytechnic and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman of the Council, together with a copy of any report thereon made by the auditor, shall be submitted to the Minister.
-
-13\. Where the Auditor-General has not been appointed to be the auditor a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time as they are submitted to the Council.
-
-14. The Minister shall cause a copy of the audited financial statements and of the auditor’s report to be published in theGazetteand to be presented to Parliament.
-
-[40/75; 8/80; 4/82]
 
 ## LEGISLATIVE HISTORY
 
@@ -573,3 +527,7 @@ This Legislative History is provided for the convenience of users of the Ngee An
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|12.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
