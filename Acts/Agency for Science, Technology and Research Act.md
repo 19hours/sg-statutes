@@ -30,17 +30,17 @@
 
 - [12 Power of investment](#Power-of-investment)
 
-- [13 Annual report](#Annual-report)
+- [13 (Repealed)](#Repealed)
 
-- [14 Accounts](#Accounts)
+- [14 Financial year](#Financial-year)
 
 - [15 Directions by Minister](#Directions-by-Minister)
 
-- [16 Appointment of chief executive officer and other employees](#Appointment-of-chief-executive-officer-and-other-employees)
+- [16 Chief executive officer, other officers and employees, etc.](#Chief-executive-officer-other-officers-and-employees-etc)
 
 - [17 Protection from personal liability](#Protection-from-personal-liability)
 
-- [18 Public servants](#Public-servants)
+- [18 (Repealed)](#Repealed)
 
 - [19 Preservation of secrecy](#Preservation-of-secrecy)
 
@@ -62,7 +62,7 @@
 
 [**FIRST SCHEDULE Constitution and proceedings of Agency**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Agency)
 
-[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
+[**SECOND SCHEDULE Repealed**](#SECOND-SCHEDULE-Repealed)
 
 [**Legislative History**](#Legislative-History)
 
@@ -96,7 +96,9 @@ An Act to establish the Agency for Science, Technology and Research and for matt
 
 “Agency” means the Agency for Science, Technology and Research established under section 3;
 
-“chief executive officer” means the chief executive officer appointed under section 16 and includes any temporary chief executive of the Agency;
+“chief executive officer” means the chief executive of the Agency, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “commercial application”, in relation to any knowledge or technology, means the application, utilization or exploitation of such knowledge or technology in the manufacture, production, sale, distribution or provision of goods or services in the course of any trade, business, enterprise or profession, and includes any business or commercial activity that is necessary for or related to the promotion, development or growth of any such trade, business, enterprise or profession;
 
@@ -258,7 +260,9 @@ and shall be signed by these persons.
 
 7\.—(1) The Agency shall have power to do all things that are necessary or convenient to be done for or in connection with the performance of its functions and, in particular, may —
 
-(a) appoint committees or councils consisting of persons who may or may not be members of the Agency and delegate to any such committee or council such of its powers and functions which, in the opinion of the Agency, would be better regulated and managed by means of such committees or councils, except the power of delegation conferred by this paragraph;
+(a) appoint committees or councils consisting of persons who may or may not be members of the Agency and delegate to any such committee or council such of its powers and functions which, in the opinion of the Agency, would be better regulated and managed by means of such committees or councils;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (b) form or participate in the formation of any company or enter into any joint venture or partnership for the purposes of this Act;
 
@@ -380,29 +384,19 @@ and shall be signed by these persons.
 
 [45/2004 wef 15/12/2004]
 
-### Annual report
+13\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-13\.—(1) The Agency shall, as soon as practicable after the end of each financial year, submit to the Minister an annual report on the activities of the Agency during that financial year.
+### Financial year
 
-[26/2002]
+14\. The financial year of the Agency begins on 1 April of each year and ends on 31 March of the succeeding year.
 
-(2) The Minister shall cause a copy of every such report to be presented to Parliament.
-
-[11
-
-### Accounts
-
-14\. The financial provisions set out in the Second Schedule shall apply to the Agency.
-
-[12
-
-[26/2002]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Directions by Minister
 
-15\.—(1) The Minister may give to the Agency such directions, not inconsistent with the provisions of this Act, as to the exercise and performance by the Agency of its functions under this Act, and the Agency shall give effect to such directions.
+15\.—(1) The Minister may give to the Agency any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-[26/2002]
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The annual report for any year shall set out any directions given by the Minister under subsection (1) and shall contain a report of any action taken by the Agency during that year pursuant to the directions.
 
@@ -410,29 +404,19 @@ and shall be signed by these persons.
 
 [26/2002]
 
-### Appointment of chief executive officer and other employees
+### Chief executive officer, other officers and employees, etc.
 
-16\.—(1) The Agency shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as it may determine.
+16\.—(1) There must be a chief executive officer of the Agency, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The chief executive officer shall —
+(2) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
 
-(a) be known by such designation as the Agency may determine;
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Agency for the proper administration and management of the functions and affairs of the Agency in accordance with the policy laid down by the Agency; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) not be removed from office without the consent of the Minister.
+(3) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-[26/2002]
-
-(3) If the chief executive officer is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Agency to act in the place of the chief executive officer during any such period of absence from duty.
-
-[26/2002]
-
-(4) The Agency may from time to time appoint such other officers, employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as it may determine.
-
-[14
-
-[26/2002]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Protection from personal liability
 
@@ -442,19 +426,15 @@ and shall be signed by these persons.
 
 [26/2002]
 
-### Public servants
-
-18\. All members, officers and employees of the Agency shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
-
-[16
-
-[26/2002]
+18\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Preservation of secrecy
 
-19\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no member, officer, employee or agent of the Agency shall disclose any information relating to the affairs of any person which has been obtained by the member, officer, employee or agent in the performance of his duties or the exercise of his functions.
+19\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, no member, officer, employee or agent of the Agency shall disclose any information relating to the affairs of any person which has been obtained by the member, officer, employee or agent in the performance of his duties or the exercise of his functions.
 
 [26/2002]
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -640,13 +620,7 @@ Disqualification from membership
 
 (c) is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon.
 
-Disclosure of interest by members
-
-12.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Agency shall disclose, the nature of his interest at the first meeting of the Agency at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Agency and, after the disclosure, that member shall not take part in any deliberation of the Agency with respect to that transaction or project.
-
-(3) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under sub-paragraph (2) he cannot vote or has withdrawn from the meeting.
+12. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Salaries, fees and allowances payable to members
 
@@ -670,7 +644,9 @@ Meetings and proceedings of Agency
 
 (7) The Agency may act notwithstanding any vacancy in its membership.
 
-(8) Subject to the provisions of this Act, the Agency may make rules to regulate its own procedure generally, and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
+(8) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Agency may make rules to regulate its own procedure generally, and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 Validity of acts
 
@@ -680,83 +656,7 @@ Validity of acts
 
 SECOND SCHEDULE
 
-Section 14
-
-Financial provisions
-
-Financial year
-
-1\. The financial year of the Agency shall begin on 1st April of each year and end on 31st March of the succeeding year.
-
-Accounts of Agency
-
-2\. The Agency shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Agency and over the expenditure incurred by the Agency.
-
-Auditor
-
-3\. The accounts of the Agency shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
-
-Appointment of auditor
-
-4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is an approved company auditor under the Companies Act (Cap. 50).
-
-Remuneration of auditor
-
-5\. The remuneration of the auditor shall be paid out of the funds of the Agency.
-
-Annual financial statements
-
-6\. The Agency shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of the preceding year to the auditor who shall audit and report on them.
-
-Duties of auditor
-
-7. The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Agency;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Agency whether purchased, donated or otherwise;
-
-(c) whether receipts, expenditure, investment of moneys and the acquisition and disposal of assets by the Agency during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers should be reported.
-
-Auditor’s report
-
-8.—(1) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Agency.
-
-(2) The auditor may at any other time report to the Minister through the Agency upon any matter arising out of the performance of his audit.
-
-Powers of auditor
-
-9.—(1) The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Agency.
-
-(2) The auditor or any person authorised by him may make copies of, or extracts from, any such accounting and other records.
-
-(3) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-Penalty for obstructing auditor
-
-10. Any person who —
-
-(a) fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9; or
-
-(b) otherwise hinders, obstructs or delays the auditor or authorised person in the performance of his functions under this Act,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
-
-Presentation of audited financial statements and report of auditor
-
-11\. The Agency shall, as soon as practicable after the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements signed by the Chairman, together with a copy of the auditor’s report.
-
-Copy of auditor’s report for Auditor-General
-
-12\. Where the Auditor-General is not the auditor of the Agency, a copy of the audited financial statements and the auditor’s report shall be forwarded to the Auditor-General at the same time they are submitted to the Agency.
-
-Presentation to Parliament
-
-13. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
-
-[26/2002]
+[Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -835,6 +735,10 @@ This Legislative History is provided for the convenience of users of the Agency 
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
+|12.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Agency for Science, Technology and Research Act
