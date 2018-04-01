@@ -618,9 +618,11 @@ IMPORT AND EXPORT
 
 (5) Any reference in this section to the destination of any goods includes a reference to the ultimate destination thereof.
 
-(6) In this section, “making entry of the goods for export” means furnishing to the Trade Development Board established under the Trade Development Board Act (Cap. 330) any such document as may be required by regulations made under section 3(2)(b)(i) of the Regulation of Imports and Exports Act (Cap. 272A) and “entry” shall be construed accordingly.
+(6) In this section, “making entry of the goods for export” means furnishing to the Enterprise Singapore Board established by the Enterprise Singapore Board Act 2018 any such document as may be required by regulations made under section 3(2)(b)(i) of the Regulation of Imports and Exports Act (Cap. 272A) and “entry” shall be construed accordingly.
 
 [24/95]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 ## PART VI
 
@@ -1419,6 +1421,10 @@ This Legislative History is provided for the convenience of users of the Exchang
 |||(Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
+|29.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Exchange Control Act
