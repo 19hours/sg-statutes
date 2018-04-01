@@ -24,7 +24,7 @@
 
 - [9 Officers](#Officers)
 
-- [9A Public servants](#Public-servants)
+- [9A (Repealed)](#Repealed)
 
 - [10 Constitution of Polytechnic](#Constitution-of-Polytechnic)
 
@@ -38,15 +38,15 @@
 
 - [15 Power to borrow](#Power-to-borrow)
 
-- [16 Accounts and financial statements](#Accounts-and-financial-statements)
+- [16 (Repealed)](#Repealed)
 
-- [17 Audit of accounts](#Audit-of-accounts)
+- [17 (Repealed)](#Repealed)
 
-- [18 Failure to furnish information to auditor](#Failure-to-furnish-information-to-auditor)
+- [18 (Repealed)](#Repealed)
 
-- [19 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
+- [19 (Repealed)](#Repealed)
 
-- [20 Annual report](#Annual-report)
+- [20 (Repealed)](#Repealed)
 
 - [21 Application of Societies Act to Students’ Union](#Application-of-Societies-Act-to-Students’-Union)
 
@@ -86,7 +86,9 @@ An Act to establish the Republic Polytechnic, to provide for its functions and p
 
 “Polytechnic” means the Republic Polytechnic established under section 3;
 
-“Principal” means the Principal of the Polytechnic appointed under section 9;
+“Principal” means the Principal of the Polytechnic, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “Senate” means the Senate of the Polytechnic.
 
@@ -142,7 +144,9 @@ An Act to establish the Republic Polytechnic, to provide for its functions and p
 
 (2) The Board shall, subject to the provisions of this Act and the Constitution, be the supreme governing body of the Polytechnic and shall administer the property and manage the affairs of the Polytechnic.
 
-(3) Subject to the provisions of this Act and the Constitution and to the financial control of the Board, the Senate shall have the regulation of all matters relating to education in the Polytechnic.
+(3) Subject to the provisions of this Act, the Public Sector (Governance) Act 2018 and the Constitution and to the financial control of the Board, the Senate shall have the regulation of all matters relating to education in the Polytechnic.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (4) No act or resolution of the Board or the Senate shall be invalid by reason only of any vacancy in, or any defect in the qualification or appointment of any member of, any such body.
 
@@ -160,7 +164,9 @@ An Act to establish the Republic Polytechnic, to provide for its functions and p
 
 (2) Unless otherwise expressly provided, any committee may consist partly of persons who are not members of the Board or the Senate or officers of the Polytechnic, as the case may be.
 
-(3) Subject to the provisions of this Act and the Constitution, the Board, the Senate and the Principal may, with or without restrictions or conditions as they think fit, delegate any of their powers and duties to any committee.
+(3) Subject to the provisions of this Act, the Public Sector (Governance) Act 2018 and the Constitution, the Board, the Senate and the Principal may, with or without restrictions or conditions as they think fit, delegate any of their powers and duties to any committee.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Officers
 
@@ -172,11 +178,7 @@ An Act to establish the Republic Polytechnic, to provide for its functions and p
 
 (4) In addition to such powers and duties that are assigned under subsection (3), the Board may assign to any officer, and in the case of any member of the academic staff on the recommendation of the Principal, such further powers and duties as the Board thinks fit.
 
-### Public servants
-
-9A\. All members of the Board, and all officers, members of the academic staff and other employees of the Polytechnic, are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
-
-[Act 16 of 2016 wef 10/06/2016]
+9A\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Constitution of Polytechnic
 
@@ -218,53 +220,15 @@ An Act to establish the Republic Polytechnic, to provide for its functions and p
 
 (c) the creation and issue of debentures or bonds.
 
-### Accounts and financial statements
+16\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-16\.—(1) The Board shall cause proper accounting and other records to be kept of the financial transactions of the Polytechnic and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Polytechnic and over the expenditure incurred by the Polytechnic.
+17\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(2) The Board shall, as soon as practicable after the close of each financial year, cause financial statements in respect of that year to be prepared and submitted to the auditor of the Polytechnic.
+18\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-### Audit of accounts
+19\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-17\.—(1) The accounts of the Polytechnic shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General (referred to in this Act as the auditor).
-
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
-
-(3) The remuneration of the auditor shall be paid out of the funds of the Polytechnic.
-
-(4) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Polytechnic and may make copies of, or extracts from, any such accounting and other records.
-
-(5) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Polytechnic;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Polytechnic whether purchased, donated or otherwise;
-
-(c) whether receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Polytechnic during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-(6) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Board and shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
-
-### Failure to furnish information to auditor
-
-18\.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or the person authorised by him considers necessary for the purposes of his functions under this Act.
-
-(2) Any person who fails, without reasonable excuse, to comply with any requirement of the auditor or authorised person under subsection (1) or who otherwise hinders, obstructs or delays the auditor or authorised person in the performance of his duties or the exercise of his powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-### Presentation of financial statements and auditor’s report to Parliament
-
-19\.—(1) The Board shall, as soon as the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
-
-(2) Where the Auditor-General is not the auditor of the Polytechnic, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
-
-(3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report referred to in subsection (1) to be presented to Parliament.
-
-### Annual report
-
-20\.—(1) The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Polytechnic during the preceding financial year and containing such information relating to the proceedings and policy of the Polytechnic as the Minister may, from time to time, direct.
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+20\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Application of Societies Act to Students’ Union
 
@@ -329,6 +293,10 @@ Appointment, powers and duties of Principal and Deputy Principal
 
 2.—(1) There shall be a Principal who shall be appointed by the Board on such terms and conditions as the Board may determine.
 
+(1A) The appointment, removal, discipline and promotion of the Principal must be in accordance with the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 (2) The Principal shall be the chief executive and academic officer of the Polytechnic and shall be responsible to the Board —
 
 (a) for the proper administration and the academic management of the Polytechnic in accordance with the policies determined by the Board;
@@ -361,9 +329,11 @@ Secretary
 
 (4) The Secretary of the Board shall not, unless he is a member of the Board appointed to serve in that capacity, be entitled to vote on any question before the Board.
 
-Other officers
+Other officers and employees, etc.
 
-4\. The Board may appoint such other officers as it may think necessary.
+4. The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 Part III
 
@@ -467,7 +437,9 @@ Meetings of Board
 
 (7) The Board shall not be precluded from holding a meeting or acting in any matter merely by reason of any vacancy in its membership.
 
-(8) Subject to the provisions of this Constitution, the Board may make standing orders to regulate its own procedure.
+(8) Subject to the provisions of this Constitution and the Public Sector (Governance) Act 2018, the Board may make standing orders to regulate its own procedure.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 Senate
 
@@ -565,7 +537,9 @@ Preparation of estimates
 
 Estimates
 
-16.—(1) The estimates of income and expenditure shall be in such form as the Board may direct and shall be presented by the Principal to the Board and approved by the Board before the beginning of the financial year, except that the Principal may present, and the Board may approve, supplementary estimates at any time.
+16.—
+
+(1) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (2) The annual and supplementary estimates shall be prepared in such form and shall contain such information as the Board may direct.
 
@@ -619,3 +593,7 @@ This Legislative History is provided for the convenience of users of the Republi
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|5.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
