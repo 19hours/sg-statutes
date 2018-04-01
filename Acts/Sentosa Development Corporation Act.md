@@ -20,13 +20,13 @@
 
 - [5 Meetings and proceedings of Corporation](#Meetings-and-proceedings-of-Corporation)
 
-- [6 Disclosure of interest by members](#Disclosure-of-interest-by-members)
+- [6 (Repealed)](#Repealed)
 
 - [6A Protection from personal liability](#Protection-from-personal-liability)
 
-- [7 Appointment of staff](#Appointment-of-staff)
+- [7 Staff and employees](#Staff-and-employees)
 
-- [8 Appointment of Chief Executive](#Appointment-of-Chief-Executive)
+- [8 Chief Executive](#Chief-Executive)
 
 [**Part III FUNCTIONS AND POWERS OF CORPORATION**](#Part-III)
 
@@ -35,6 +35,8 @@
 - [10 Powers of Corporation](#Powers-of-Corporation)
 
 - [10A Power to prohibit or restrict use of motor vehicles in Sentosa](#Power-to-prohibit-or-restrict-use-of-motor-vehicles-in-Sentosa)
+
+- [10B Directions by Minister](#Directions-by-Minister)
 
 [**Part IV FINANCIAL PROVISIONS**](#Part-IV)
 
@@ -48,11 +50,11 @@
 
 - [14 Bank accounts](#Bank-accounts)
 
-- [15 Books of accounts](#Books-of-accounts)
+- [15 (Repealed)](#Repealed)
 
-- [16 Audit of accounts](#Audit-of-accounts)
+- [16 (Repealed)](#Repealed)
 
-- [17 Annual report and accounts to be presented to Parliament](#Annual-report-and-accounts-to-be-presented-to-Parliament)
+- [17 (Repealed)](#Repealed)
 
 - [18 Application of profits of Corporation](#Application-of-profits-of-Corporation)
 
@@ -138,7 +140,9 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Corporation;
 
-“Chief Executive” means the Chief Executive of the Corporation;
+“Chief Executive” means the Chief Executive of the Corporation, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “Corporation” means the Sentosa Development Corporation established under this Act;
 
@@ -242,13 +246,11 @@ the Minister may declare his office as a member to be vacant and shall notify th
 
 (8) The validity of any proceedings of the Corporation shall not be affected by any vacancy amongst its members or by any defect in the appointment of any member.
 
-(9) Subject to the provisions of this Act, the Corporation may regulate its own proceedings.
+(9) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Corporation may regulate its own proceedings.
 
-### Disclosure of interest by members
+[Act 5 of 2018 wef 01/04/2018]
 
-6\.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Corporation shall disclose the nature of his interest at a meeting of the Corporation.
-
-(2) The disclosure shall be recorded in the minutes of the Corporation and the member shall not take any part in any deliberation of the Corporation with respect to that transaction or project.
+6\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Protection from personal liability
 
@@ -260,21 +262,23 @@ the Minister may declare his office as a member to be vacant and shall notify th
 
 [34/96]
 
-### Appointment of staff
+### Staff and employees
 
-7\. The Corporation may —
+7\. The Corporation may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(a) appoint such officers and employees as may be necessary for the carrying out of the functions of the Corporation under this Act; and
+[Act 5 of 2018 wef 01/04/2018]
 
-(b) engage and remunerate for their services such professional persons or agents as the Corporation considers necessary for carrying out its functions.
+### Chief Executive
 
-### Appointment of Chief Executive
+8\.—(1) There must be a Chief Executive of the Corporation, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-8\.—(1) The Corporation shall, with the approval of the Minister, appoint and employ a Chief Executive.
+(2) The Corporation may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(2) The Chief Executive shall, subject to the directions of the Corporation on matters of policy, be charged with the direction of the functions or business of the Corporation, its administration and organisation and the administrative control of its employees.
+(a) is absent from duty or Singapore; or
 
-[34/96]
+(b) is, for any reason, unable to perform the duties of the office.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ## PART III
 
@@ -350,6 +354,12 @@ FUNCTIONS AND POWERS OF CORPORATION
 
 [34/96]
 
+### Directions by Minister
+
+10B\. The Minister may give to the Corporation any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 ## PART IV
 
 FINANCIAL PROVISIONS
@@ -382,21 +392,11 @@ FINANCIAL PROVISIONS
 
 (2) Every account under this section shall be operated upon by cheque signed by such person as may from time to time be authorised in that behalf by the Corporation.
 
-### Books of accounts
+15\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-15\. The Corporation shall keep proper accounts and proper records in relation to the accounts and shall prepare in respect of each accounting year a statement of accounts which shall conform to the best commercial standards.
+16\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-### Audit of accounts
-
-16\. The accounts of the Corporation shall be audited by auditors appointed by the Corporation with the approval of the Minister.
-
-### Annual report and accounts to be presented to Parliament
-
-17\.—(1) As soon as may be reasonably practicable after the end of each accounting year, but not later than 6 months from the end of that year, unless the Minister otherwise authorises in writing, the Corporation shall furnish to the Minister a report of its functions for that year together with a copy of the statement of accounts in respect of that year and the auditors’ report thereon.
-
-[34/96]
-
-(2) A copy of the report and of the statement of accounts attached thereto shall be presented to Parliament.
+17\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Application of profits of Corporation
 
@@ -784,7 +784,7 @@ GENERAL
 
 (3) The Corporation may, subject to such conditions or restrictions as it thinks fit, delegate to any member, officer or employee thereof any of the powers, functions and duties of the Corporation, except the power to borrow money, and any power, function or duty so delegated may be exercised or performed by such member, officer or employee in the name and on behalf of the Corporation.
 
-(4) The Corporation may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of such power, function or duty under this section.
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Advisory and technical committees
 
@@ -914,3 +914,7 @@ This Legislative History is provided for the convenience of users of the Sentosa
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|8.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
