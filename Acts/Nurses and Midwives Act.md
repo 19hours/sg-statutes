@@ -34,7 +34,7 @@
 
 [**Part III REGISTRATION AND ENROLMENT**](#Part-III)
 
-- [12 Registrar of Board](#Registrar-of-Board)
+- [12 Registrar](#Registrar)
 
 - [13 Register and Roll](#Register-and-Roll)
 
@@ -184,7 +184,9 @@ PRELIMINARY
 
 “registered nurse” means a person who is registered as a registered nurse, and includes a person who is deemed to be registered as a registered nurse under section 46(1);
 
-“Registrar” means the Registrar of the Board appointed under section 12;
+“Registrar” means the Registrar of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “Roll” means the Roll of Nurses kept under section 13.
 
@@ -264,7 +266,9 @@ SINGAPORE NURSING BOARD
 
 (2) Any decision at a meeting of the Board shall be adopted by a simple majority of the votes of the members present and voting and, in the case of an equality of votes, the member presiding at that meeting shall have a casting vote.
 
-(3) Subject to this Act, the Board may regulate its own procedure.
+(3) Subject to this Act and the Public Sector (Governance) Act 2018, the Board may regulate its own procedure.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Functions of Board
 
@@ -308,7 +312,7 @@ SINGAPORE NURSING BOARD
 
 (4) A committee may include persons who are not members of the Board.
 
-(5) The Board may continue to exercise any power conferred upon it or perform any function under this Act notwithstanding the delegation of such power or function under this section.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (6) This section shall not apply to a Complaints Committee.
 
@@ -326,21 +330,29 @@ who are not public officers such fees as may, from time to time, be approved by 
 
 REGISTRATION AND ENROLMENT
 
-### Registrar of Board
+### Registrar
 
-12\.—(1) The Minister shall appoint a public officer to be the Registrar of the Board.
+12\.—(1) There must be a chief executive of the Board called the Registrar of the Board, whose appointment and removal must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Minister may appoint a person to act as Registrar during the absence from Singapore or incapacity from illness or otherwise of the Registrar.
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Registrar during any period, or during all periods, when the Registrar —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Register and Roll
 
-13\.—(1) The Registrar shall keep and maintain —
+13\.—(1) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must keep and maintain —
 
 (a) a register to be called the Register of Nurses which shall consist of such parts as the Board may determine;
 
 (b) a roll to be called the Roll of Nurses which shall consist of such parts as the Board may determine; and
 
 (c) a register to be called the Register of Midwives.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Registrar shall enter in the appropriate part of the Register or Roll, as the case may require, the name of every person who is registered or enrolled, together with such other particulars as the Board may determine.
 
@@ -1010,7 +1022,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) The Minister may pay into the funds of the Board such sum of money out of moneys provided by Parliament as the Minister may determine.
 
-(5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor or auditors approved by the Minister.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (6) The Board may invest its funds in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
@@ -1172,6 +1184,10 @@ The Nurses and Midwives Act 1999 repealed the Nurses and Midwives Act (Chapter 2
 ||Date of commencement|1 April 2006|
 |4.|**2012 Revised Edition—Nurses and Midwives Act (Chapter 209)**|
 ||Date of operation|31 July 2012|
+|5.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Nurses and Midwives Act
