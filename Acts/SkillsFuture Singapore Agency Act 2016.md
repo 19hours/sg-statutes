@@ -58,17 +58,7 @@
 
 - [20 Vacation of office](#Vacation-of-office)
 
-[**Division 3  Members’ duties on disclosure of interests**](#Division-3--Members’-duties-on-disclosure-of-interests)
-
-- [21 Interpretation of this Division](#Interpretation-of-this-Division)
-
-- [22 Obligation to disclose interest](#Obligation-to-disclose-interest)
-
-- [23 To whom and what to disclose](#To-whom-and-what-to-disclose)
-
-- [24 Consequences of being interested in relevant matter](#Consequences-of-being-interested-in-relevant-matter)
-
-- [25 Consequences of failure to disclose](#Consequences-of-failure-to-disclose)
+[**Division 3  Repealed**](#Division-3--Repealed)
 
 [**Part 4 DECISION‑MAKING BY AGENCY**](#Part-4)
 
@@ -78,7 +68,7 @@
 
 - [27 Notice of meetings](#Notice-of-meetings)
 
-- [28 Method of holding meetings](#Method-of-holding-meetings)
+- [28 (Repealed)](#Repealed)
 
 - [29 Quorum](#Quorum)
 
@@ -86,7 +76,7 @@
 
 - [31 Voting at meetings](#Voting-at-meetings)
 
-- [32 Decision‑making outside of meetings](#Decision‑making-outside-of-meetings)
+- [32 (Repealed)](#Repealed)
 
 - [33 Execution of documents](#Execution-of-documents)
 
@@ -102,11 +92,11 @@
 
 [**Part 5 PERSONNEL MATTERS**](#Part-5)
 
-- [38 Appointment of Chief Executive](#Appointment-of-Chief-Executive)
+- [38 Chief Executive](#Chief-Executive)
 
-- [39 Employees](#Employees)
+- [39 Officers and employees](#Officers-and-employees)
 
-- [40 Public servants](#Public-servants)
+- [40 Delegates and subdelegates deemed to be public servants](#Delegates-and-subdelegates-deemed-to-be-public-servants)
 
 - [41 Preservation of secrecy](#Preservation-of-secrecy)
 
@@ -122,7 +112,7 @@
 
 - [46 Financial accounts and records](#Financial-accounts-and-records)
 
-- [47 Annual estimates](#Annual-estimates)
+- [47 Estimates for Skills Development Fund](#Estimates-for-Skills-Development-Fund)
 
 - [48 Power of investment](#Power-of-investment)
 
@@ -130,15 +120,15 @@
 
 - [50 Borrowing power](#Borrowing-power)
 
-- [51 Appointment of auditor](#Appointment-of-auditor)
+- [51 (Repealed)](#Repealed)
 
-- [52 Powers of auditor](#Powers-of-auditor)
+- [52 (Repealed)](#Repealed)
 
-- [53 Auditor’s report](#Auditor’s-report)
+- [53 (Repealed)](#Repealed)
 
-- [54 Audited annual financial statements](#Audited-annual-financial-statements)
+- [54 (Repealed)](#Repealed)
 
-- [55 Annual and other reports of Agency](#Annual-and-other-reports-of-Agency)
+- [55 (Repealed)](#Repealed)
 
 - [56 Skills Development Fund to be audited separately](#Skills-Development-Fund-to-be-audited-separately)
 
@@ -250,11 +240,13 @@ PRELIMINARY
 
 “Agency” means the SkillsFuture Singapore Agency established by section 3;
 
-“auditor”, in relation to the Agency, means the Auditor‑General or such other auditor appointed by the Minister under section 51;
+[Deleted by Act 5 of 2018 wef 01/04/2018]
 
 “Chairperson”, in relation to the Agency, means the member of the Agency who is appointed under section 12 as the Chairperson of the Agency, and includes any individual appointed under section 14 to act in that capacity;
 
-“Chief Executive” means the Chief Executive of the Agency appointed under section 38, and includes any individual acting in that capacity;
+“Chief Executive” means the Chief Executive of the Agency, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “commerce or industry” includes any trade, manufacturing or service industry, business or other related activity;
 
@@ -472,7 +464,9 @@ ESTABLISHMENT, FUNCTIONS AND POWERS OF AGENCY
 
 ### Directions of Minister, etc.
 
-7\.—(1) The Minister may give to the Agency directions on the performance by the Agency of its functions; and the Agency must give effect to all such directions.
+7\.—(1) The Minister may give to the Agency any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) To avoid doubt, the Minister is entitled —
 
@@ -574,7 +568,9 @@ whichever first happens.
 
 (a) the Chairperson is unavailable; or
 
-(b) the Chairperson is interested (within the meaning of section 21) in the matter.
+(b) the Chairperson is interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Premature vacancies
 
@@ -618,11 +614,13 @@ whichever first happens.
 
 (a) there was a vacancy in the membership of the Agency, including a vacancy arising from the failure to appoint a member;
 
-(b) there was some defect or irregularity existing in the appointment or continuance in office of the individual purporting to be a member of the Agency;
+(b) there was some defect or irregularity existing in the appointment or continuance in office of the individual purporting to be a member of the Agency; or
 
-(c) a member failed to disclose his or her interest in a relevant matter (within the meaning of Division 3);
+[Act 5 of 2018 wef 01/04/2018]
 
-(d) the Agency failed to give notice under section 25; or
+(c) [Deleted by Act 5 of 2018 wef 01/04/2018]
+
+(d) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (e) there was an irregularity in the Agency’s decision‑making procedure that does not affect the merits of the decision made.
 
@@ -660,7 +658,9 @@ Terms and conditions for members
 
 (e) resigns in accordance with section 16;
 
-(f) fails without reasonable cause to disclose any interest required under Division 3 and a notice is given under section 25 to the Minister about that default;
+(f) fails without reasonable cause to disclose any interest required under the Public Sector (Governance) Act 2018 and a notice is given under that Act to the Minister about that default;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (g) fails to attend 3 consecutive meetings of the Agency without the approval of the Agency; or
 
@@ -668,101 +668,9 @@ Terms and conditions for members
 
 (2) A member is not entitled to any compensation or other payment or benefit relating to his or her ceasing, for any reason, to hold office as a member.
 
-Division 3 —
+Division 3
 
-Members’ duties on disclosure of interests
-
-### Interpretation of this Division
-
-21\.—(1) In this Division, “relevant matter” means —
-
-(a) the Agency’s performance of its functions or exercise of its powers; or
-
-(b) an arrangement, agreement, or a contract made or entered into, or proposed to be made or entered into, by the Agency.
-
-(2) A member of the Agency is interested in a relevant matter if —
-
-(a) the member, or an associate of the member, may derive a financial benefit from the relevant matter;
-
-(b) the member, or an associate of the member, may have a financial interest in a person to whom the relevant matter relates; or
-
-(c) the member, or an associate of the member, is otherwise directly or indirectly interested in the relevant matter.
-
-(3) However, a member of the Agency is not interested in a relevant matter —
-
-(a) only because of an interest in a question about the level of salaries, fees, allowances or expenses to be set for members;
-
-(b) only because of an interest that the member, or an associate of the member, shares in common with the general public or a substantial section of the public;
-
-(c) only because the member, or an associate of the member, has an interest in payment or reimbursement of membership fees for, or expenses related to membership in, a body with predominantly charitable objects;
-
-(d) only because he or she has past or current involvement in the relevant sector, industry or practice; or
-
-(e) if his or her interest is so remote or insignificant that it cannot reasonably be regarded as likely to influence him or her in carrying out his or her responsibilities under this Act or another Act administered by the Agency.
-
-(4) In this Division, a person is an associate of another if —
-
-(a) they are spouses or siblings or a parent and child or they are in a similar close family relationship;
-
-(b) they are in partnership;
-
-(c) one is a company and the other is a director or manager of the company;
-
-(d) one is a private company within the meaning of the Companies Act (Cap. 50) and the other is a shareholder in the company; or
-
-(e) a chain of relationships can be traced between them under one or more of the above paragraphs.
-
-### Obligation to disclose interest
-
-22\.—(1) A member who is interested in a relevant matter relating to the Agency must disclose details of the interest in accordance with section 23 as soon as practicable after the member becomes aware that he or she is interested.
-
-(2) A general notice of an interest in a relevant matter relating to the Agency, or in a relevant matter that may in future relate to the Agency, that is disclosed in accordance with section 23 is a standing disclosure of that interest for the purposes of this section.
-
-(3) However, a standing disclosure ceases to have effect if the nature of the interest materially alters or the extent of the interest materially increases.
-
-(4) To avoid doubt, this section is in addition to, and not in derogation of, the operation of any rule of law restricting a member from having any interest in arrangements, agreements or contracts with the Agency or from holding offices or possessing from holding offices or possessing interests in conflict with his or her duties as such a member.
-
-### To whom and what to disclose
-
-23\.—(1) A member who is interested in a relevant matter relating to the Agency must disclose details of the interest —
-
-(a) in the case of the Chairperson, to the Chief Executive, all other members and the Minister; or
-
-(b) in the case of any other member, to the Chief Executive and —
-
-(i) to the Chairperson;
-
-(ii) if there is no Chairperson or the Chairperson is interested in that matter, to the Deputy Chairperson; or
-
-(iii) if there is neither a Chairperson nor Deputy Chairperson or if both the Chairperson and Deputy Chairperson are interested in that matter, to the Minister.
-
-(2) The details that must be disclosed under this section are —
-
-(a) the nature of the interest and the monetary value of the interest (if the monetary value can be quantified); or
-
-(b) the nature and extent of the interest (if the monetary value cannot be quantified).
-
-(3) The Chief Executive must ensure that every disclosure under this section —
-
-(a) is recorded in a register of interests kept by the Agency; and
-
-(b) is brought to the attention of the member presiding under section 30 at a meeting of the Agency that relates to the relevant matter.
-
-### Consequences of being interested in relevant matter
-
-24\. A member of the Agency who is interested in a relevant matter relating to the Agency —
-
-(a) must not vote or take part in any discussion or decision of the Agency or any committee relating to the relevant matter, or otherwise participate in any activity of the Agency that relates to the relevant matter;
-
-(b) must withdraw from any meeting of the Agency or committee during the consideration or discussion relating to the relevant matter if the member presiding at the meeting under section 30 so requests;
-
-(c) must not sign any document relating to the entry into a transaction or the initiation of the relevant matter; and
-
-(d) is to be disregarded for the purpose of forming a quorum for that part of a meeting of the Agency or a committee during which a discussion or decision relating to the relevant matter occurs or is made.
-
-### Consequences of failure to disclose
-
-25\. The Agency must notify the Minister of a failure to comply with section 23 or 24, and of the acts affected, as soon as practicable after becoming aware of the failure.
+[Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART 4
 
@@ -782,19 +690,7 @@ Meetings
 
 (2) The Chairperson must appoint the times and places of the meetings of the Agency, and cause notice of those meetings to each member not present when the appointment is made.
 
-### Method of holding meetings
-
-28\.—(1) A meeting of the Agency may be held —
-
-(a) by a quorum of the members, being assembled together at the time and place appointed for the meeting; or
-
-(b) by means of audio, audio and visual, or electronic communication provided that —
-
-(i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
-
-(ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
-
-(2) For the purposes of this Act, a member participating in a meeting as permitted under subsection (1)(b)(i) is taken to be present at the meeting.
+28\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Quorum
 
@@ -806,9 +702,13 @@ Meetings
 
 30\.—(1) At a meeting of the Agency, the following person presides:
 
-(a) if there is a Chairperson and he or she is present and is not interested (within the meaning of section 21) in the matter — the Chairperson;
+(a) if there is a Chairperson and he or she is present and is not interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter — the Chairperson;
 
-(b) if there is no Chairperson, or the Chairperson is not present or is interested (within the meaning of section 21) in the matter, and the Deputy Chairperson who is not so interested in the matter is present — the Deputy Chairperson;
+[Act 5 of 2018 wef 01/04/2018]
+
+(b) if there is no Chairperson, or the Chairperson is not present or is interested (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) in the matter, and the Deputy Chairperson who is not so interested in the matter is present — the Deputy Chairperson;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (c) in any other case, the member elected from among themselves to preside.
 
@@ -824,21 +724,7 @@ Meetings
 
 (4) A member present at a meeting of the Agency is presumed to have agreed to, and to have voted in favour of, a resolution of the Agency unless he or she expressly dissents from or votes against the resolution at the meeting.
 
-### Decision‑making outside of meetings
-
-32\.—(1) If —
-
-(a) all of the members of the Agency for the time being are sent (whether by post, delivery or electronic communication) a document setting out a resolution about a matter; and
-
-(b) a majority of those members who are entitled to vote on the matter sign or approve in writing a document containing a statement that they are in favour of a resolution in the terms set out in the document,
-
-a resolution in those terms is taken to be passed at a meeting of the Agency held on the day that the last member required for the majority signs or approves the document.
-
-(2) The resolution may consist of several documents each containing the same wording of the resolution and statement in favour, and each signed in writing by one or more members.
-
-(3) For the purpose of the approval of a resolution under this section, the Chairperson and each member have the same voting rights as they have under section 31 at a meeting of the Agency.
-
-(4) A resolution approved under this section must be recorded in the minutes of the meetings of the Agency without delay after the resolution is approved.
+32\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Execution of documents
 
@@ -878,25 +764,19 @@ Committees and delegation
 
 (b) to perform or exercise any of the Agency’s functions and powers that are delegated to the committee, if the committee includes at least one member of the Agency.
 
-(4) An individual may not be appointed as a member of a committee unless, before appointment, he or she discloses to the Agency the details of any interest (within the meaning of section 21 as modified by section 35) the individual may have if he or she were a member of that committee.
+(4) An individual may not be appointed as a member of a committee unless, before appointment, he or she discloses to the Agency the details of any interest (within the meaning given by Part 4 of the Public Sector (Governance) Act 2018) the individual may have if he or she were a member of that committee.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Proceedings of committees
 
 35\.—(1) Section 17 applies to a committee, and to committee members or individuals purporting to be committee members, with the necessary modifications.
 
-(2) Sections 21 to 25 apply to a committee and committee members subject to the following modifications:
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(a) the reference in those sections to a relevant matter is a reference to a relevant matter (within the meaning of section 21) regulated or managed by the committee;
+(3) Subject to this Act, the Public Sector (Governance) Act 2018 and any restrictions by a resolution under section 34(1), a committee may regulate its own proceedings and business as it thinks fit.
 
-(b) the reference in those sections to a member of the Agency is a reference to a committee member;
-
-(c) the reference in section 23 to disclosing details of an interest in a relevant matter to the Minister is a reference to disclosing those details to the Agency;
-
-(d) the reference in section 24 to a discussion, decision, activity or meeting of the Agency is a reference to a discussion, decision, activity or meeting of the committee;
-
-(e) the reference in section 25 to the Agency reporting to the Minister is a reference to the committee reporting to the Agency.
-
-(3) Subject to this Act and any restrictions by a resolution under section 34(1), a committee may regulate its own proceedings and business as it thinks fit.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Ability to delegate
 
@@ -922,13 +802,13 @@ but subject to the same restrictions, and with the same effect, as if the subdel
 
 (3) Subsections (1) and (2) do not apply —
 
-(a) to the power to make subsidiary legislation conferred by this Act or any other Act administered by the Agency; or
+(a) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (b) to any power under this Act or any other Act administered by the Agency that is declared by that Act to be non‑delegable.
 
 (4) Subject to section 34(3)(b), a delegation or subdelegation in accordance with this Act —
 
-(a) does not affect or prevent the performance of any function or the exercise of any power by the Agency; and
+(a) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (b) is not affected by any change in the membership of the Agency or of any committee or by any change in the Chief Executive or employee.
 
@@ -952,43 +832,39 @@ but subject to the same restrictions, and with the same effect, as if the subdel
 
 PERSONNEL MATTERS
 
-### Appointment of Chief Executive
+### Chief Executive
 
-38\.—(1) The Chief Executive —
+38\.—(1) There must be a Chief Executive of the Agency, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(a) is responsible to the Agency for the proper administration and management of the functions, duties and affairs of the Agency in accordance with the policy laid down by the Agency; and
-
-(b) may be known by such designation as the Agency may determine.
-
-(2) The Agency must, with the approval of the Minister, appoint an individual to be the Chief Executive, and the Minister must consult the Public Service Commission before granting that approval.
-
-(3) The Agency may remove the Chief Executive from office only with the approval of the Minister, and the Minister must consult the Public Service Commission before granting that approval.
-
-(4) The terms and conditions of the Chief Executive’s appointment are to be determined by the Agency.
-
-(5) The Agency may appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
+(2) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
 (a) is absent from duty or Singapore; or
 
 (b) is, for any reason, unable to perform the duties of the office.
 
-### Employees
+[Act 5 of 2018 wef 01/04/2018]
 
-39\.—(1) The Agency may, from time to time, appoint and employ such employees as may be necessary for the effective performance of its functions.
+### Officers and employees
 
-(2) The Agency may fix the salary, wages and conditions of its employees insofar as they are not fixed by or under any Act or law.
+39\. The Agency may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-### Public servants
+[Act 5 of 2018 wef 01/04/2018]
 
-40\.—(1) The Chief Executive, all members and employees of the Agency, all committee members, and any delegates and subdelegates of the Agency, are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+### Delegates and subdelegates deemed to be public servants
 
-(2) Every member, employee, delegate and subdelegate of the Agency, and the Chief Executive and every committee member is, in relation to his or her administration, assessment, collection and enforcement of payment of —
+40\. Without affecting sections 20 and 21 of the Public Sector (Governance) Act 2018, every delegate and subdelegate of the Agency —
 
-(a) any financial penalty imposed under section 48 or 64 of the Private Education Act (Cap. 247A); or
+(a) is deemed to be a public servant for the purposes of the Penal Code (Cap. 224); and
 
-(b) any composition sum collected under this Act or section 67 of the Private Education Act,
+(b) is, in relation to his or her administration, assessment, collection and enforcement of payment of —
 
-taken to be public officers for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to each of these persons even though they are not or were not in the employment of the Government.
+(i) any financial penalty imposed under section 48 or 64 of the Private Education Act (Cap. 247A); or
+
+(ii) any composition sum collected under this Act or section 67 of the Private Education Act,
+
+taken to be a public officer for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to each of these delegates and subdelegates even though he or she is not or was not in the employment of the Government.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Preservation of secrecy
 
@@ -1062,17 +938,15 @@ FINANCIAL PROVISIONS
 
 (ii) adequate control is maintained over the funds and property and assets of, or in the custody of, the Agency and over the expenditure incurred by the Agency.
 
-### Annual estimates
+### Estimates for Skills Development Fund
 
-47\.—(1) The Agency must, in every financial year, prepare or cause to be prepared, and must adopt —
+47\.—(1) In addition to the requirements of the Public Sector (Governance) Act 2018, the Agency must, in every financial year, prepare or cause to be prepared, and must adopt annual estimates of income and expenditure for the Skills Development Fund for the ensuing financial year in accordance with the Skills Development Levy Act (Cap. 306).
 
-(a) annual estimates of income and expenditure for the Skills Development Fund for the ensuing financial year in accordance with the Skills Development Levy Act (Cap. 306); and
-
-(b) annual estimates of other income and expenditure of the Agency for the ensuing financial year.
-
-(2) Supplementary estimates for the Skills Development Fund or other income and expenditure of the Agency may be adopted by the Agency where necessary.
+(2) Supplementary estimates for the Skills Development Fund may be adopted by the Agency where necessary.
 
 (3) A copy of all annual estimates and supplementary estimates mentioned in subsections (1) and (2) must, upon their adoption by the Agency, be sent as soon as possible to the Minister.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Power of investment
 
@@ -1108,65 +982,21 @@ the Agency must issue such shares or other securities to the Minister for Financ
 
 (4) For the purposes of this section, the power to raise loans includes the power to make any financial agreement whereby credit facilities are granted to the Agency for the purchase of goods, materials or things.
 
-### Appointment of auditor
+51\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-51\.—(1) The accounts of the Agency are to be audited by the Auditor‑General, or such other auditor as may be appointed annually by the Minister in consultation with the Auditor‑General.
+52\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(2) A person is not qualified for appointment as an auditor under subsection (1) unless the person is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
+53\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(3) The remuneration of the auditor is to be paid out of the funds of the Agency.
+54\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-### Powers of auditor
-
-52\.—(1) The Agency must, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor of the Agency, who must audit and report on them.
-
-(2) For the purpose of auditing and reporting on the financial statements submitted under subsection (1), the auditor of the Agency, or a person authorised by the auditor for that purpose (called in this section an authorised person), is entitled at all reasonable times —
-
-(a) to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Agency;
-
-(b) to make copies of or extracts from any of those accounting and other records; and
-
-(c) to require any person to furnish the auditor or authorised person with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of the auditor’s functions under this Act.
-
-(3) A person —
-
-(a) who fails, without any reasonable cause, to comply with any requirement of the auditor of the Agency or an authorised person under subsection (2); or
-
-(b) who otherwise hinders, obstructs or delays the auditor or the authorised person in the performance of his or her functions or the exercise of his or her powers,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-### Auditor’s report
-
-53\.—(1) The auditor’s report about the financial statements submitted under section 52(1) must state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Agency;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Agency whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure, investment of moneys and the acquisition and disposal of assets by the Agency during the financial year have been in accordance with this Act; and
-
-(d) such other matters arising from the audit as the auditor considers should be reported.
-
-(2) The auditor may at any other time report to the Minister through the Agency on any matter arising out of the performance of an audit under this Act.
-
-### Audited annual financial statements
-
-54\.—(1) The Agency must, as soon as its accounts and financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairperson, together with a copy of the auditor’s report under section 53(1).
-
-(2) Where the Auditor‑General is not the auditor of the Agency, a copy of the audited financial statements and any report made by the auditor under section 53(1) must be forwarded to the Auditor‑General at the same time they are submitted to the Agency.
-
-(3) The Minister must, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report under subsection (1) to be presented to Parliament.
-
-### Annual and other reports of Agency
-
-55\.—(1) The Agency must, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Agency during the preceding financial year and containing such information relating to the proceedings and policy of the Agency as the Minister may, from time to time, direct.
-
-(2) The Minister must, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+55\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Skills Development Fund to be audited separately
 
-56\. Sections 46 and 51 to 55 do not affect the requirements in sections 20 and 21 of, and the First Schedule to, the Skills Development Levy Act (Cap. 306) insofar as the requirements apply in relation to the Skills Development Fund.
+56\. The provisions of Part 5 of the Public Sector (Governance) Act 2018 do not affect the requirements in sections 20 and 21 of, and the First Schedule to, the Skills Development Levy Act (Cap. 306) insofar as the requirements apply in relation to the Skills Development Fund.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ## PART 7
 
