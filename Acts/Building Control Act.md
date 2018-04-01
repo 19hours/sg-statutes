@@ -3782,7 +3782,9 @@ whichever is the lower.
 
 50\.—(1) Any building regulations made under section 49 may adopt wholly or partially or as amended by the regulations or by reference any code, standard, rule, specification or provision which relates to any matter with which the building regulations deal and which is —
 
-(a) recommended, issued or adopted by the Singapore Productivity and Standards Board;
+(a) recommended, issued or adopted by the Enterprise Singapore Board;
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (b) recommended, issued or adopted by —
 
@@ -3794,15 +3796,19 @@ whichever is the lower.
 
 [1/96; 4/99]
 
-(2) The Commissioner of Building Control shall cause a copy of every code, standard, rule, specification or provision adopted under subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Singapore Productivity and Standards Board) to be made available for inspection by members of the public without charge at the office of the Commissioner of Building Control during normal office hours.
+(2) The Commissioner of Building Control shall cause a copy of every code, standard, rule, specification or provision adopted under subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Enterprise Singapore Board) to be made available for inspection by members of the public without charge at the office of the Commissioner of Building Control during normal office hours.
 
 [1/96; 4/99]
 
-(3) In any proceedings under the building regulations, a copy certified by the Commissioner of Building Control as a true copy of a code, standard, rule, specification or provision adopted under subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Singapore Productivity and Standards Board) shall be evidence of the code, standard, rule, specification or provision so adopted.
+[Act 10 of 2018 wef 01/04/2018]
+
+(3) In any proceedings under the building regulations, a copy certified by the Commissioner of Building Control as a true copy of a code, standard, rule, specification or provision adopted under subsection (1) (other than a code, standard, rule, specification or provision recommended, issued or adopted by the Enterprise Singapore Board) shall be evidence of the code, standard, rule, specification or provision so adopted.
 
 [51
 
 [1/96; 4/99]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 ### Application of Act to Government
 
@@ -3978,6 +3984,10 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||28 October 2013 (section 5)|
 |||1 April 2014 (section 4)|
 |||28 July 2017|
+|24.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Building Control Act
