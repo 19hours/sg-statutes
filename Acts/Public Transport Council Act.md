@@ -26,13 +26,13 @@
 
 - [5B Appointment of committees and delegation](#Appointment-of-committees-and-delegation)
 
-- [5C Appointment of Chief Executive, officers, employees, etc.](#Appointment-of-Chief-Executive-officers-employees-etc)
+- [5C Chief Executive, officers and employees, etc.](#Chief-Executive-officers-and-employees-etc)
 
 - [5D Preservation of secrecy](#Preservation-of-secrecy)
 
 - [6 Protection from personal liability](#Protection-from-personal-liability)
 
-- [7 Public servants](#Public-servants)
+- [7 (Repealed)](#Repealed)
 
 [**Part III FINANCIAL PROVISIONS**](#Part-III)
 
@@ -46,7 +46,7 @@
 
 - [10B Power of investment](#Power-of-investment)
 
-- [11 Financial provisions](#Financial-provisions)
+- [11 Financial year](#Financial-year)
 
 [**Part IIIA PUBLIC TRANSPORT FUND**](#Part-IIIA)
 
@@ -162,7 +162,7 @@
 
 [**Part VI MISCELLANEOUS PROVISIONS**](#Part-VI)
 
-- [25 Annual report](#Annual-report)
+- [25 (Repealed)](#Repealed)
 
 - [25A Penalty for unauthorised ticket payment service](#Penalty-for-unauthorised-ticket-payment-service)
 
@@ -186,7 +186,7 @@
 
 [**FIRST SCHEDULE Constitution and proceedings of Council**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Council)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**SECOND SCHEDULE Repealed**](#SECOND-SCHEDULE-Repealed)
 
 [**THIRD SCHEDULE Fare adjustment formula**](#THIRD-SCHEDULE-Fare-adjustment-formula)
 
@@ -254,9 +254,9 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Council and includes any temporary Chairman of the Council;
 
-“Chief Executive” means the Chief Executive of the Council appointed under section 5C and includes any individual acting in that capacity;
+“Chief Executive” means the Chief Executive of the Council, and includes any individual acting in that capacity;
 
-[Act 31 of 2015 wef 08/01/2016]
+[Act 5 of 2018 wef 01/04/2018]
 
 “clearing”, in relation to a ticket payment service, means any arrangement, process, mechanism or facility provided by a person in respect of ticket transactions, by which —
 
@@ -560,11 +560,9 @@ PUBLIC TRANSPORT COUNCIL
 
 ### Directions by Minister
 
-5A\.—(1) The Minister may, after consulting with the Council or otherwise, give to the Council such directions, not inconsistent with the provisions of this Act, as to the performance and exercise by the Council of its functions, duties and powers under this Act or any other written law as the Minister may consider necessary.
+5A\. The Minister may give to the Council any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-(2) The Council must give effect to all directions given under subsection (1).
-
-[Act 31 of 2015 wef 08/01/2016]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of committees and delegation
 
@@ -580,39 +578,33 @@ PUBLIC TRANSPORT COUNCIL
 
 (3) However, the Council is not authorised by subsection (2) to delegate any of the following powers:
 
-(a) the power of delegation conferred by this section;
+(a) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(b) the power to make any subsidiary legislation under this Act;
+(b) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (c) any function, duty or power conferred by any provision in Part V.
 
 (4) Any function, duty or power delegated under subsection (2) to any committee or person may be performed or exercised by the committee or person to whom it has been delegated in the name and on behalf of the Council.
 
-(5) No delegation under this section prevents the performance or exercise of any function, duty or power by the Council.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-[Act 31 of 2015 wef 08/01/2016]
+### Chief Executive, officers and employees, etc.
 
-### Appointment of Chief Executive, officers, employees, etc.
+5C\.—(1) There must be a Chief Executive of the Council, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-5C\.—(1) The Council must, with the approval of the Minister, appoint a Chief Executive on terms and conditions determined by the Council.
+(2) The Council may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(2) The Chief Executive —
+(a) is absent from duty or Singapore; or
 
-(a) is responsible to the Council for the proper administration and management of the functions, duties and affairs of the Council in accordance with the policy laid down by the Council; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(b) is not to be removed from office without the consent of the Minister.
+(3) The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(3) Where the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness, or is for any other reason temporarily unable to perform his duties, a person may be appointed by the Council to act in the place of the Chief Executive during any such period of absence from duty.
-
-(4) The Chief Executive may be known by such designation as the Council determines.
-
-(5) The Council may employ on such terms and conditions as the Council may determine other officers and employees necessary for the effective performance of its functions and discharge of its duties under this Act or any other written law.
-
-[Act 31 of 2015 wef 08/01/2016]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Preservation of secrecy
 
-5D\.—(1) Except for the purpose of the performance of his duties, or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, an individual who is or has been —
+5D\.—(1) Except for the purpose of the performance of his duties, or the exercise of his functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, an individual who is or has been —
 
 (a) a member, an officer, an employee or an agent of the Council;
 
@@ -621,6 +613,8 @@ PUBLIC TRANSPORT COUNCIL
 (c) an inspector,
 
 must not disclose any information relating to the affairs of the Council or of any other person which has been obtained by the individual in the performance of the individual’s duties or the exercise of the individual’s functions under this Act.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Any individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -632,15 +626,7 @@ must not disclose any information relating to the affairs of the Council or of a
 
 [Act 31 of 2015 wef 08/01/2016]
 
-### Public servants
-
-7\.—(1) Every member, officer and employee of the Council and every public transport official shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
-
-[Act 31 of 2015 wef 08/01/2016]
-
-(2) The members, officers and employees of the Council are, in relation to their administration, assessment, collection and enforcement of payment of composition sums under section 26, deemed to be public officers for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to these persons even though they are not or were not in the employment of the Government.
-
-[Act 31 of 2015 wef 08/01/2016]
+7\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART III
 
@@ -682,9 +668,11 @@ the Council must issue such shares or other securities to the Minister for Finan
 
 [Act 31 of 2015 wef 08/01/2016]
 
-### Financial provisions
+### Financial year
 
-11\. The financial provisions set out in the Second Schedule shall have effect with respect to the Council.
+11\. The financial year of the Council begins on 1 April of each year and ends on 31 March of the succeeding year.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ## PART IIIA
 
@@ -2140,15 +2128,7 @@ the onus of proving that in so doing he had not acted with intent to defeat the 
 
 MISCELLANEOUS PROVISIONS
 
-### Annual report
-
-25\.—(1) The Council shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during the preceding financial year and containing such information relating to the proceedings and policy of the Council as the Minister may, from time to time, direct.
-
-[29/99]
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
-
-[29/99]
+25\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Penalty for unauthorised ticket payment service
 
@@ -2318,7 +2298,9 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 [Act 31 of 2015 wef 22/01/2016]
 
-(d) to regulate the procedure of the Council;
+(d) to regulate the procedure of the Council, to the extent not inconsistent with the Public Sector (Governance) Act 2018;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (e) to prescribe the powers and duties of the officers and employees of the Council;
 
@@ -2396,7 +2378,9 @@ Meetings of Council
 
 (5) Where both the Chairman and the Deputy Chairman are absent at a meeting, such member as the members present may elect shall preside at that meeting.
 
-(6) Subject to the provisions of this Act, the Council may make rules to regulate its own procedures generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
+(6) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council may make rules to regulate its own procedures generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 Council may act notwithstanding vacancy
 
@@ -2406,61 +2390,7 @@ Council may act notwithstanding vacancy
 
 SECOND SCHEDULE
 
-Section 11
-
-Financial Provisions
-
-Financial year of Council
-
-1\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year.
-
-Accounts to be kept
-
-2\. The Council shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are properly authorised and correctly made and that adequate control is maintained over the assets of, or in the custody of, the Council and over the expenditure incurred by the Council.
-
-Audit of accounts
-
-3.—(1) The accounts of the Council shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
-
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
-
-(3) The remuneration of the auditor shall be paid out of the funds of the Council.
-
-Financial statements
-
-4\. The Council shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
-
-Duties of auditor
-
-5.—(1) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Council;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Council whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure, investment of moneys and the acquisition and disposal of assets by the Council during the financial year have been in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers should be reported.
-
-(2) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Council, and shall also submit such periodical and special reports to the Minister and to the Council as may appear to him to be necessary or as the Minister or the Council may require.
-
-Powers of auditor
-
-6.—(1) The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Council and may make copies of, or extracts from, any such accounting and other records.
-
-(2) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-(3) Any person who fails, without reasonable excuse, to comply with any requirement of the auditor under sub-paragraph (2) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-Presentation of financial statements and audit reports
-
-7.—(1) As soon as the accounts of the Council and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
-
-(2) Where the Auditor-General is not the auditor of the Council, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Council.
-
-(3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
-
-[29/99; 37/2005]
+[Deleted by Act 5 of 2018 wef 01/04/2018]
 
 THIRD SCHEDULE
 
@@ -2587,6 +2517,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|7 September 2016|
 |26.|**G.N. No. S 473/2017—Public Transport Council Act (Amendment of Third Schedule) Order 2017**|
 ||Date of commencement|28 August 2017|
+|27.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
