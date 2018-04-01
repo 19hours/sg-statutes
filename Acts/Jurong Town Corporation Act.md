@@ -22,13 +22,13 @@
 
 - [6 Direction by Minister](#Direction-by-Minister)
 
-- [7 Appointment of chief executive officer and other employees](#Appointment-of-chief-executive-officer-and-other-employees)
+- [7 Chief executive officer, officers and employees, etc.](#Chief-executive-officer-officers-and-employees-etc)
 
 - [8 Appointment of committees and delegation of powers](#Appointment-of-committees-and-delegation-of-powers)
 
 - [9 Protection from personal liability](#Protection-from-personal-liability)
 
-- [10 Members and officers of Corporation deemed to be public servants](#Members-and-officers-of-Corporation-deemed-to-be-public-servants)
+- [10 (Repealed)](#Repealed)
 
 [**Part III PROVISIONS RELATING TO CORPORATION**](#Part-III)
 
@@ -50,13 +50,13 @@
 
 - [18 Accounts](#Accounts)
 
-- [19 Appointment and powers of Corporation’s auditor](#Appointment-and-powers-of-Corporation’s-auditor)
+- [19 (Repealed)](#Repealed)
 
-- [20 Auditor’s report](#Auditor’s-report)
+- [20 (Repealed)](#Repealed)
 
 - [21 Presentation of financial statements](#Presentation-of-financial-statements)
 
-- [22 Annual report](#Annual-report)
+- [22 (Repealed)](#Repealed)
 
 - [23 Bank account and accounting records](#Bank-account-and-accounting-records)
 
@@ -169,6 +169,10 @@ PRELIMINARY
 [Deleted by Act 34 of 2017 wef 01/01/2018]
 
 “Chairman” means the Chairman of the Corporation appointed under section 4;
+
+“chief executive officer” means the chief executive of the Corporation, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 [Deleted by Act 34 of 2017 wef 01/01/2018]
 
@@ -289,29 +293,25 @@ OF CORPORATION
 
 ### Direction by Minister
 
-6\.—(1) The Minister may give to the Corporation such directions, not inconsistent with the provisions of this Act, as he considers fit, as to the exercise and performance by the Corporation of its powers, duties and functions under this Act and the Corporation shall give effect to all such directions.
+6\.—(1) The Minister may give to the Corporation any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Corporation shall furnish the Minister with such information with respect to its property and activities as he may from time to time require.
 
-### Appointment of chief executive officer and other employees
+### Chief executive officer, officers and employees, etc.
 
-7\.—(1) After consulting the Public Service Commission, the Corporation may, with the approval of the Minister and the President’s concurrence under Article 22A(1)(b) of the Constitution, appoint a chief executive officer on such terms and conditions as it may determine.
+7\.—(1) There must be a chief executive officer of the Corporation, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018 and Article 22A of the Constitution.
 
-[27/86; 23/95]
+(2) The Corporation may, subject to the Public Sector (Governance) Act 2018 and Article 22A of the Constitution, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
 
-(2) The chief executive officer shall —
+(a) is absent from duty or Singapore; or
 
-(a) be known by such designation as the Corporation may determine;
+(b) is, for any reason, unable to perform the duties of the office.
 
-(b) be responsible to the Corporation for the proper administration and management of the functions and affairs of the Corporation in accordance with the policy laid down by the Corporation; and
+(3) The Corporation may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(c) not be removed from office without the consent of the Minister and the President’s concurrence under Article 22A(1)(b) of the Constitution.
-
-[11/91]
-
-(3) If the chief executive officer is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Corporation to act in the place of the chief executive officer during any such period of absence from duty.
-
-(4) The Corporation may from time to time appoint and employ such other employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as the Corporation may determine.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of committees and delegation of powers
 
@@ -323,7 +323,7 @@ OF CORPORATION
 
 [11/78]
 
-(4) The Corporation may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of such power, function or duty under this section.
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Protection from personal liability
 
@@ -331,15 +331,7 @@ OF CORPORATION
 
 (2) Any expense incurred by the Corporation or any member, employee or other person so acting under the direction of the Corporation shall be borne by and repaid out of the funds of the Corporation.
 
-### Members and officers of Corporation deemed to be public servants
-
-10\.—(1) The members of the Corporation and the employees thereof, of every description, shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
-
-[Act 34 of 2017 wef 01/01/2018]
-
-(2) Every member, officer and employee of the Corporation is, in relation to his administration, collection and enforcement of payment of composition sums under section 67, taken to be a public officer for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to each of these persons even though he is not or was not in the employment of the Government.
-
-[Act 34 of 2017 wef 01/01/2018]
+10\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART III
 
@@ -519,43 +511,9 @@ PROVISIONS RELATING TO CORPORATION
 
 [19
 
-### Appointment and powers of Corporation’s auditor
+19\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-19\.—(1) The accounts of the Corporation shall be audited by the Auditor-General or by an auditor appointed annually by the Minister in consultation with the Auditor-General.
-
-[29/74]
-
-(2) The Corporation’s auditor shall be paid out of the funds of the Corporation such remuneration, expenses or fees as the Minister, after consultation with the Corporation, shall direct.
-
-(3) The Corporation’s auditor shall be entitled to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Corporation and may make copies of or extracts from any such accounting or other records.
-
-(4) The Corporation’s auditor or a person authorised by him may require any person to furnish him with such information which that person possesses or has access to as the auditor or the duly authorised person considers necessary for the purposes of the functions of the auditor under this Act.
-
-(5) An officer of the Corporation who refuses or fails without any reasonable cause to allow the Corporation’s auditor or a person authorised by him access to any accounting and other records of the Corporation in his custody or power or to give any information possessed by him as and when required or who otherwise hinders, obstructs or delays the Corporation’s auditor or any person authorised by him in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-[20
-
-### Auditor’s report
-
-20\.—(1) The chief financial officer of the Corporation shall prepare the financial statements in respect of each preceding financial year and submit them to the Corporation’s auditor who shall audit and report on them to the Minister and the President.
-
-[23/95]
-
-(2) The Corporation’s auditor shall state in his report of his audit whether —
-
-(a) the financial statements show fairly the financial transactions and the state of affairs of the Corporation;
-
-(b) proper accounting and other records have been kept; and
-
-(c) the receipt, expenditure and investment of moneys and the acquisition and disposal of assets by the Corporation during the year have been in accordance with the provisions of this Act and the Constitution.
-
-[23/95]
-
-(3) The Corporation’s auditor shall report on any other matter arising from the audit as he considers necessary.
-
-[21
-
-[23/95]
+20\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Presentation of financial statements
 
@@ -563,25 +521,17 @@ PROVISIONS RELATING TO CORPORATION
 
 [29/74; 11/78; 23/95]
 
-(2) Where the Auditor-General has not been appointed to be the auditor of the Corporation a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time as they are submitted to the Minister.
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(3) The Minister shall present a copy of the audited financial statements and the report of the Corporation’s auditor to Parliament.
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(4) The audited financial statements and the auditor’s report referred to in subsection (3) shall be published in theGazette.
+(4) The audited financial statements and the auditor’s report shall be published in theGazette.
 
 [22
 
-### Annual report
+[Act 5 of 2018 wef 01/04/2018]
 
-22\.—(1) The Corporation shall, not later than 8th September in each year, unless the Minister otherwise authorises in writing, furnish to the Minister a report of its functions during the preceding year.
-
-[23/95]
-
-(2) The Minister shall cause a copy of every such report to be presented to Parliament.
-
-[22A
-
-[23/95]
+22\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Bank account and accounting records
 
@@ -683,7 +633,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 32\.—(1) The Minister may, after consultation with the Corporation, make such regulations as he may consider necessary or desirable for the proper conduct of the business of the Corporation and, in particular, for any of the following matters:
 
-(a) the convening of meetings of the Corporation and the procedure to be followed thereat;
+(a) the convening of meetings of the Corporation and the procedure to be followed thereat, to the extent not inconsistent with the Public Sector (Governance) Act 2018;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (b) the provision of a common seal and the custody and use thereof;
 
@@ -1324,3 +1276,7 @@ This Legislative History is provided for the convenience of users of the Jurong 
 ||Date of First Reading|1 August 2017 (Bill No. 28/2017 published on 1 August 2017)|
 ||Date of Second and Third Readings|11 September 2017|
 ||Date of commencement|1 January 2018|
+|24.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
