@@ -28,7 +28,7 @@
 
 - [9 Meetings and proceedings of Board](#Meetings-and-proceedings-of-Board)
 
-- [10 Disclosure of interest by members](#Disclosure-of-interest-by-members)
+- [10 (Repealed)](#Repealed)
 
 - [11 Committees](#Committees)
 
@@ -42,11 +42,11 @@
 
 [**Part IV PROVISIONS RELATING TO STAFF**](#Part-IV)
 
-- [15 Appointment of Chief Executive and other staff](#Appointment-of-Chief-Executive-and-other-staff)
+- [15 Chief Executive, officers and employees, etc.](#Chief-Executive-officers-and-employees-etc)
 
 - [16 Protection from personal liability](#Protection-from-personal-liability)
 
-- [17 Public servants](#Public-servants)
+- [17 (Repealed)](#Repealed)
 
 [**Part V FINANCIAL PROVISIONS**](#Part-V)
 
@@ -68,13 +68,13 @@
 
 - [25 Power of investment](#Power-of-investment)
 
-- [26 Accounts](#Accounts)
+- [26 (Repealed)](#Repealed)
 
-- [27 Audit of accounts](#Audit-of-accounts)
+- [27 (Repealed)](#Repealed)
 
-- [28 Powers of auditor](#Powers-of-auditor)
+- [28 (Repealed)](#Repealed)
 
-- [29 Presentation of audited financial statements and auditor’s report to Parliament](#Presentation-of-audited-financial-statements-and-auditor’s-report-to-Parliament)
+- [29 (Repealed)](#Repealed)
 
 [**Part VI TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES**](#Part-VI)
 
@@ -94,7 +94,7 @@
 
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
-- [37 Annual report](#Annual-report)
+- [37 (Repealed)](#Repealed)
 
 - [38 Symbol or representation of College](#Symbol-or-representation-of-College)
 
@@ -142,7 +142,9 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Board appointed under section 5(2) and includes a temporary Chairman appointed under section 8;
 
-“Chief Executive” means the Chief Executive of the College appointed under section 15 and includes any person acting in that capacity;
+“Chief Executive” means the Chief Executive of the College, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “College” means the Civil Service College established under section 3;
 
@@ -234,27 +236,19 @@ all of whom shall be appointed by the Minister.
 
 (6) The validity of any proceedings of the Board shall not be affected by any vacancy amongst its members or by any defect in the appointment of any member.
 
-(7) Subject to the provisions of this Act, the Board may regulate its own proceedings.
+(7) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may regulate its own proceedings.
 
-### Disclosure of interest by members
+[Act 5 of 2018 wef 01/04/2018]
 
-10\.—(1) A member who is, directly or indirectly, interested in a transaction or project made, or proposed to be made, by the Board or any other matter which is before any meeting of the Board, shall disclose the nature of his interest at the first meeting of the Board at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under subsection (1) shall be recorded in the minutes of the Board and, after the disclosure, that member —
-
-(a) shall not take part in any deliberation or discussion of, and shall not vote on any question with respect to, that contract or other matter; and
-
-(b) shall be disregarded for the purpose of constituting a quorum of the Board for such deliberation or discussion or vote, as the case may be.
-
-(3) No act or proceedings of the Board shall be questioned on the ground that a member has contravened this section.
-
-(4) For the purposes of this section, an interest of any spouse, parent, son or adopted son, or daughter or adopted daughter, of a member shall be treated as an interest of the member.
+10\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Committees
 
 11\.—(1) The Board may, from time to time, appoint committees consisting of one or more persons (whether members or not) and define or vary the terms of reference of those committees.
 
-(2) Subject to the provisions of this Act and to the control of the Board, each committee appointed under this section may regulate its procedure in such manner as the committee thinks fit.
+(2) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018 and to the control of the Board, each committee appointed under this section may regulate its procedure in such manner as the committee thinks fit.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Delegation of powers
 
@@ -262,7 +256,7 @@ all of whom shall be appointed by the Minister.
 
 (2) Every member, committee or officer purporting to act pursuant to a delegation under this section shall, in the absence of proof to the contrary, be presumed to be acting in accordance with the terms of the delegation.
 
-(3) No delegation under this section shall prevent the exercise of any power or the performance of any function or duty by the Board.
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## PART III
 
@@ -290,7 +284,9 @@ FUNCTIONS, OBJECTS, DUTIES AND POWERS OF COLLEGE
 
 (i) to carry out such other functions as are imposed upon the College by or under this Act or any other written law.
 
-(2) The Minister may give to the College such directions, not inconsistent with the provisions of this Act, as to the discharge of its functions, objects and duties and the exercise of its powers and the College shall give effect to any such directions.
+(2) The Minister may give to the College any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (3) Nothing in this section shall be construed as imposing on the College, directly or indirectly, any form of duty or liability enforceable by proceedings before any court.
 
@@ -336,29 +332,25 @@ FUNCTIONS, OBJECTS, DUTIES AND POWERS OF COLLEGE
 
 PROVISIONS RELATING TO STAFF
 
-### Appointment of Chief Executive and other staff
+### Chief Executive, officers and employees, etc.
 
-15\.—(1) The College shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the College may determine.
+15\.—(1) There must be a Chief Executive of the College, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive —
+(2) The College may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(a) shall be known by such designation as the College may determine;
+(a) is absent from duty or Singapore; or
 
-(b) shall be responsible to the College for the proper administration and management of its functions and affairs in accordance with all policies laid down by the College; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) shall not be removed from office without the consent of the Minister.
+(3) The College may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(3) If the Chief Executive is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the College to act in the place of the Chief Executive during any such period of absence from duty.
-
-(4) The College may, from time to time, appoint such other officers, employees, consultants or agents as it thinks fit for the effective performance of its functions on such terms and conditions as the College may determine.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Protection from personal liability
 
 16\. No suit or other legal proceedings shall lie personally against any officer or employee of the College, member or person acting under the direction of the College, for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any other written law.
 
-### Public servants
-
-17\. All officers and employees (including any person seconded to the College for any period) of the College and members shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+17\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART V
 
@@ -370,11 +362,13 @@ FINANCIAL PROVISIONS
 
 ### Estimates
 
-19\.—(1) The College shall, in every financial year, prepare and adopt annual estimates of income and expenditure of the College for the ensuing financial year.
+19\. 
 
-(2) Supplementary estimates of expenditure may be adopted by the College.
+—(1) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the College, be sent forthwith to the Minister.
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
+
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (4) A summary of the annual estimates and supplementary estimates adopted by the College shall be published in theGazette.
 
@@ -434,61 +428,13 @@ FINANCIAL PROVISIONS
 
 [45/2004 wef 15/12/2004]
 
-### Accounts
+26\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-26\. The College shall —
+27\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(a) keep proper accounts and records of its transactions and affairs; and
+28\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(b) do all things necessary to ensure that all payments out of its funds are correctly made and properly authorised, and that adequate control is maintained over the assets of, or in the custody of, the College and over the expenditure incurred by the College.
-
-### Audit of accounts
-
-27\.—(1) The accounts of the College shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General (referred to in this Act as the auditor).
-
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
-
-(3) The College shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of that financial year to the auditor who shall audit and report on them.
-
-(4) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the College;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the College whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure and investment of funds and the acquisition and disposal of assets by the College during the financial year were in accordance with this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-(5) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the College.
-
-(6) The auditor shall submit such periodical and special reports to the Minister and to the College as may appear to him to be necessary or as the Minister or the College may require.
-
-### Powers of auditor
-
-28\.—(1) The auditor or any person authorised by him (referred to in this section as the authorised person) is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the College.
-
-(2) The auditor or authorised person may make copies of or extracts from any such accounting or other records.
-
-(3) The auditor or authorised person may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or authorised person considers necessary for the purposes of his functions under this Act.
-
-(4) Any person who —
-
-(a) refuses or fails, without any reasonable cause, to allow the auditor or authorised person access to any accounting or other records of the College in his custody or power;
-
-(b) refuses or fails, without any reasonable cause, to give any information possessed by him as and when required by the auditor or authorised person; or
-
-(c) hinders, obstructs or delays the auditor or authorised person in the performance of his duties or the exercise of his powers,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-### Presentation of audited financial statements and auditor’s report to Parliament
-
-29\.—(1) The College shall, as soon as its accounts and financial statements have been audited in accordance with this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
-
-(2) Where the Auditor-General is not the auditor of the College, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the College.
-
-(3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report referred to in subsection (1) to be presented to Parliament.
+29\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART VI
 
@@ -548,11 +494,7 @@ TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 MISCELLANEOUS
 
-### Annual report
-
-37\.—(1) The College shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the College during that financial year.
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+37\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Symbol or representation of College
 
@@ -568,7 +510,9 @@ MISCELLANEOUS
 
 ### Preservation of secrecy
 
-40\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been an officer, employee or agent of the College, a member or a member of a committee of the Board shall disclose any information relating to the affairs of the College, the Board or any other person which has been obtained by him in the performance of his duties or the exercise of his functions.
+40\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, no person who is or has been an officer, employee or agent of the College, a member or a member of a committee of the Board shall disclose any information relating to the affairs of the College, the Board or any other person which has been obtained by him in the performance of his duties or the exercise of his functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -625,3 +569,7 @@ This Legislative History is provided for the convenience of users of the Civil S
 |||(Bill No. 19/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|19 October 2009.|
 ||Date of commencement|15 January 2010|
+|7.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
