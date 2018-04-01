@@ -1582,7 +1582,9 @@ and who is designated by the Minister as an intelligence officer for the purpose
 
 65A\.—(1) The Minister may, in writing, appoint any of the following individuals to be forensic specialists:
 
-(a) a Division I, II or III public officer who is not a police officer but is employed in the offices of the Police Force or a law enforcement agency;
+(a) a public officer (except an operations support officer at grade III, IV or V or other public officer at equivalent grade) who is not a police officer but is employed in the offices of the Police Force or a law enforcement agency;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (b) an individual (who is not a public officer) with suitable qualifications or experience to properly exercise the powers of a forensic specialist.
 
@@ -3815,6 +3817,10 @@ The Police Force Act 2004 repealed and re-enacted with amendments the Police For
 ||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|1 August 2017|
+|11.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Police Force Act
