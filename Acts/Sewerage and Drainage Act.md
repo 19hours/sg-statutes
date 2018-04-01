@@ -92,7 +92,7 @@
 
 - [35 Duties of qualified person](#Duties-of-qualified-person)
 
-- [36 (Repealed)](#Repealed)
+- [36 Directions to qualified persons](#Directions-to-qualified-persons)
 
 - [37 (Repealed)](#Repealed)
 
@@ -252,6 +252,10 @@ PRELIMINARY
 
 “industrial water” means any water reclaimed from the sewage treatment works for use in industries that do not require high grade potable water;
 
+“licensed plumber” means an individual who holds a plumber’s licence as defined in section 2 of the Public Utilities Act (Cap. 261);
+
+[Act 11 of 2018 wef 01/04/2018]
+
 “Magistrate’s Court limit” has the same meaning as in the State Courts Act (Cap. 321);
 
 [Act 5 of 2014 wef 07/03/2014]
@@ -300,7 +304,9 @@ PRELIMINARY
 
 (d) sewers constructed on any private property and maintained by the Board;
 
-“qualified person”, in relation to any sewerage or drainage works, means a qualified person appointed under section 8 or 11 of the Building Control Act (Cap. 29) in respect of works which include the sewerage or drainage works, and whose qualification is appropriate to the nature of those works;
+“qualified person” means a qualified person appointed under section 8 or 11 of the Building Control Act (Cap. 29) in respect of works which include sewerage works, drainage works or sanitary works, and whose qualification is appropriate to the nature of those works;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 [Act 10 of 2012 wef 01/09/2012]
 
@@ -317,6 +323,14 @@ PRELIMINARY
 [Act 10 of 2012 wef 01/09/2012]
 
 “sanitary facilities” includes bathrooms, toilets, facilities for washing and sanitary appliances, together with the associated pipe-work, whether above or below the ground, which connect, directly or otherwise, to a private sewage treatment plant or a public sewerage system;
+
+“sanitary works” means —
+
+(a) constructing, altering, repairing, replacing, discontinuing or closing up any discharge pipe, ventilating pipe, drain-line, fitting, floor trap, inspection chamber, grease trap, pump or any other appurtenance related to the conveyance of sewage or sullage water from any sanitary appliance or sanitary facility to a sewerage system; and
+
+(b) installing, fixing, altering, repairing or removing a sanitary appliance or sanitary facility, and any other connected works;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 “sewage” includes water-borne domestic waste and trade effluent;
 
@@ -348,7 +362,9 @@ and includes any main or pipe carrying reclaimed water or sewage, outfall pipe, 
 
 “trade effluent” means any liquid, including particles of matter and other substances in suspension in the liquid, which is the outflow from any trade, business or manufacture or of any works of engineering or building construction;
 
-“works” has the same meaning as “building works” in the Building Control Act (Cap. 29) and includes sewerage works, drainage works and the construction and alteration of sanitary facilities.
+“works” has the same meaning as “building works” in the Building Control Act (Cap. 29) and includes sewerage works, drainage works and sanitary works.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 ## PART II
 
@@ -564,13 +580,23 @@ SEWERAGE
 
 ### Sewerage systems, etc., not to be constructed or altered without Board’s certificate or approval
 
-11\.—(1) Subject to subsection (5), no person shall construct, alter, discontinue or close up any sewerage system or sanitary facilities without obtaining, in respect of those works, a clearance certificate or the approval of the Board under section 33.
+11\.—(1) No person may —
+
+(a) construct, alter, discontinue or close up any sewerage system; or
+
+(b) carry out any sanitary works,
+
+unless the person obtains a clearance certificate or the approval of the Board under section 33 for those works.
 
 [8/2001]
 
 [Act 10 of 2012 wef 01/09/2012]
 
-(2) Where any sewerage system or sanitary facilities are constructed, altered, discontinued or closed up in contravention of subsection (1), the Board may serve upon any person specified in subsection (3) a notice requiring him to demolish or make good the sewerage system or sanitary facilities to its original state and condition within such time as may be specified in the notice.
+[Act 11 of 2018 wef 01/04/2018]
+
+(2) Where any sewerage system is constructed, altered, discontinued or closed up, or any sanitary works are carried out, in contravention of subsection (1), the Board may serve upon any person specified in subsection (3) a notice requiring him to demolish or make good the sewerage system or sanitary facilities to its original state and condition within such time as may be specified in the notice.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 [8/2001]
 
@@ -586,13 +612,9 @@ SEWERAGE
 
 [12
 
-(5) This section shall not apply to —
+(5) Any contravention of subsection (1) in respect of any sanitary works must not be dealt with by the Board under section 40Q of the Public Utilities Act (Cap. 261).
 
-(a) the repair, replacement or removal of any existing sanitary facility in a building; or
-
-(b) the addition of any sanitary appliance within the existing sanitary facilities in a building.
-
-[Act 10 of 2012 wef 01/09/2012]
+[Act 11 of 2018 wef 01/04/2018]
 
 ### Buildings without adequate sanitary facilities
 
@@ -1240,7 +1262,13 @@ REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
 
 (4) The Board may require the plans referred to in subsection (3) —
 
-(a) to be made by a qualified person; and
+(a) to be made by any of the following persons as the Board may decide:
+
+(i) a qualified person whose qualifications the Board considers are appropriate to the works to which the application relates;
+
+(ii) a licensed plumber; and
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (b) to show such details or specifications as the Board may determine.
 
@@ -1278,7 +1306,9 @@ REGISTRATION, CODES OF PRACTICE AND CERTIFICATES OR APPROVAL FOR WORKS
 
 ### Supervision of works by qualified person
 
-34\.—(1) No person shall commence or carry out any works for which a clearance certificate is required under this Act except under the supervision of a qualified person.
+34\.—(1) No person shall commence or carry out any works for which a clearance certificate is required under this Act except under the supervision of a qualified person whose qualifications are appropriate to the nature of those works.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -1330,7 +1360,35 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [8/2001]
 
-36\. [Deleted by Act 9/2002 wef 01/08/2002]
+### Directions to qualified persons
+
+36\.—(1) Where the Board is of the opinion that a qualified person has contravened, or is likely to have contravened, any requirement imposed by or under this Act, the Board may give a direction, verbally or in writing, to any person specified in subsection (2), and the person must comply with the direction.
+
+(2) The persons specified for the purposes of subsection (1) are —
+
+(a) the qualified person;
+
+(b) if the Board is of the opinion that the qualified person is incapable of carrying out any requirement specified in the Board’s direction, another qualified person;
+
+(c) where the contravention or likely contravention relates to any sewerage system or sanitary facilities, the owner or occupier of any premises to which the sewerage system or sanitary facilities belong or for the use of which they are maintained; or
+
+(d) any person authorised to construct, alter or demolish the sewerage system or sanitary facilities.
+
+(3) A direction given under subsection (1) —
+
+(a) may require the person specified in subsection (2) to do, or to refrain from doing, such things as are specified in the direction or are of a description as specified in the direction;
+
+(b) is to take effect at such time, being the earliest practicable time, as is determined by or under that direction; and
+
+(c) may be revoked at any time by the Board.
+
+(4) The Board is not liable for any cost or expense incurred by any person specified in subsection (2) in complying with any direction given by the Board under this section.
+
+(5) Where a qualified person receives a direction from the Board under this section, the qualified person must notify the owner or occupier specified in subsection (2)(c) of the direction.
+
+(6) Any person to whom a direction is given under this section who fails to comply with the direction shall be guilty of an offence.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 37\. [Deleted by Act 9/2002 wef 01/08/2002]
 
@@ -2154,6 +2212,16 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 10 of 2012 wef 01/09/2012]
 
+(aa) prescribe matters relating to the requirement for a clearance certificate or the approval of the Board under section 33 in respect of the works mentioned in section 11(1)(a) and (b), including —
+
+(i) the persons who are required to submit applications for the clearance certificate or approval (as the case may be), the qualifications required of those persons and the duties of those persons in submitting the applications;
+
+(ii) the types of works that require the clearance certificate or approval (as the case may be); and
+
+(iii) the persons who are required to carry out works that require the clearance certificate or approval (as the case may be) and the duties of those persons in carrying out such works;
+
+[Act 11 of 2018 wef 01/04/2018]
+
 (b) regulate the discharge of trade effluent into sewers;
 
 (c) prohibit the discharge of silt or debris into storm water drainage systems;
@@ -2321,6 +2389,11 @@ This Legislative History is provided for the convenience of users of the Sewerag
 ||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
+|11.|**Act 11 of 2018—Public Utilities (Amendment) Act 2018**|
+||Date of First Reading|[8 January 2018|
+|||(Bill No. 4/2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Sewerage and Drainage Act
