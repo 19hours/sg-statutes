@@ -64,7 +64,39 @@
 
 - [23 Professional responsibility of supervising surveyor](#Professional-responsibility-of-supervising-surveyor)
 
-[**Part VII APPEALS, POINTS RESERVED AND REVISIONSUPPLEMENTARY PROVISIONS**](#Part-VII)
+[**Part VII DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES**](#Part-VII)
+
+- [24 Appointment of Investigation Committees](#Appointment-of-Investigation-Committees)
+
+- [25 Cancellation of registration or suspension from practice](#Cancellation-of-registration-or-suspension-from-practice)
+
+- [26 Removal from registers](#Removal-from-registers)
+
+- [27 Revocation of licence](#Revocation-of-licence)
+
+- [28 Appeals](#Appeals)
+
+- [29 Reinstatement of registration](#Reinstatement-of-registration)
+
+- [30 Powers to require attendance of witnesses, etc.](#Powers-to-require-attendance-of-witnesses-etc)
+
+- [31 Board may appoint legal counsel](#Board-may-appoint-legal-counsel)
+
+- [32 Costs and expenses](#Costs-and-expenses)
+
+[**Part VIII GENERAL**](#Part-VIII)
+
+- [33 Application of fees, etc., received by Board](#Application-of-fees-etc-received-by-Board)
+
+- [34 Penalty for wilful falsification of register and for wrongfully procuring registration, etc.](#Penalty-for-wilful-falsification-of-register-and-for-wrongfully-procuring-registration-etc)
+
+- [35 Offences by bodies corporate, etc.](#Offences-by-bodies-corporate-etc)
+
+- [36 No action or proceedings in absence of bad faith or malice](#No-action-or-proceedings-in-absence-of-bad-faith-or-malice)
+
+- [37 Exemption](#Exemption)
+
+- [38 Rules](#Rules)
 
 [**Legislative History**](#Legislative-History)
 
@@ -150,7 +182,9 @@ PRELIMINARY
 
 “registered surveyor” means a person registered as a land surveyor under section 12;
 
-“Registrar” means the Registrar of the Board appointed under section 8;
+“Registrar” means the Registrar of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “survey” means the act or process of —
 
@@ -250,7 +284,9 @@ LAND SURVEYORS BOARD
 
 (4) The member presiding at any meeting of the Board shall have a deliberative vote and, in the case of an equality of votes, shall also have a casting vote.
 
-(5) Subject to the provisions of this Act, the Board may determine its own procedure.
+(5) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may determine its own procedure.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Common seal of Board
 
@@ -288,15 +324,27 @@ LAND SURVEYORS BOARD
 
 ### Registrar, officers and employees
 
-8\.—(1) The Board may appoint a Registrar and such other officers and employees as it thinks necessary.
+8\.—(1) There must be a chief executive of the Board called the Registrar of the Board, whose appointment and removal must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Registrar shall —
+[Act 5 of 2018 wef 01/04/2018]
+
+(1A) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Registrar during any period, or during all periods, when the Registrar —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(2) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must —
 
 (a) be under the general direction of the Board;
 
 (b) sign all certificates of registration, practising certificates and licences; and
 
 (c) record all entries of registration, cancellations and reinstatements in the register of surveyors, annual register of practitioners and annual register of licensees.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (3) The Registrar shall —
 
@@ -309,6 +357,10 @@ LAND SURVEYORS BOARD
 (a) as soon as possible after 1st January in each year, prepare and publish in theGazettea list of the names of all registered surveyors who have in force a practising certificate and the principal business address at which the person practises in Singapore; and
 
 (b) from time to time publish in theGazettesuch supplementary lists of the names of persons added to or removed from the register of practitioners as may be required.
+
+(5) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Registers
 
@@ -660,9 +712,351 @@ furnish to the Board a true report in writing giving full particulars of the alt
 
 ## PART VII
 
-APPEALS, POINTS RESERVED AND REVISION
+DISCIPLINARY PROCEEDINGS AND REVOCATION OF LICENCES
 
-SUPPLEMENTARY PROVISIONS
+### Appointment of Investigation Committees
+
+24\.—(1) Without prejudice to the generality of section 7(2), the Board may appoint one or more Investigation Committees, consisting of such number of members (which may include members of the Board) as the Board may determine, for the purpose of investigating into any complaint against a registered surveyor or a licensed corporation, partnership or limited liability partnership.
+
+[2/2007]
+
+(2) An Investigation Committee shall, after investigating into any complaint, report to the Board on the matter and the report shall, amongst other things, deal with the question of the necessity or otherwise of a hearing by the Board under section 25 or 27.
+
+(3) An Investigation Committee shall meet from time to time for the despatch of business and, subject to the provisions of this Act, may regulate its own procedure.
+
+(4) Any member of the Board who is a member of an Investigation Committee investigating into any complaint against a registered surveyor or a licensed corporation, partnership or limited liability partnership —
+
+(a) shall not take part in any deliberation of the Board under section 25 or 27, as the case may be, with respect to that registered surveyor, corporation, partnership or limited liability partnership; and
+
+(b) shall be disregarded for the purpose of constituting a quorum of the Board for such deliberation or decision.
+
+[2/2007]
+
+### Cancellation of registration or suspension from practice
+
+25\.—(1) Subject to this section, the Board may by order cancel the registration of any registered surveyor or suspend him from practice for a period not exceeding 12 months under any of the following circumstances:
+
+(a) if he is convicted of any offence involving fraud, dishonesty or moral turpitude;
+
+(b) if his registration under section 12 or practising certificate was obtained by fraud or misrepresentation;
+
+(c) if his qualification for registration under section 12 has been withdrawn or cancelled by the authority through which it was acquired or by which it was awarded;
+
+(d) if he has been guilty of such improper conduct as renders him, in the opinion of the Board, unfit to be a registered surveyor;
+
+(e) if it appears to the Board that he has contravened any provision of the prescribed code of professional conduct and ethics;
+
+(f) if it appears to the Board that he is no longer in a position to carry out the duties of a registered surveyor effectively;
+
+(g) if it appears to the Board that the registered surveyor, while being a director, manager, or an employee of a corporation, or a partner, manager or an employee of a partnership or limited liability partnership, had failed to take reasonable steps to prevent the corporation, partnership or limited liability partnership from acting in a manner (other than as described in section 27(1)(e)) which would warrant the Board revoking any licence granted to the corporation, partnership or limited liability partnership or imposing a penalty under section 27;
+
+(h) if he has been adjudicated a bankrupt;
+
+(i) if he has been convicted of any offence under this Act;
+
+(j) if he refuses or fails to comply with any order of the Board made under subsection (2)(a) or (c); or
+
+(k) if he refuses or fails to pay the cost of any correction to his cadastral survey within 14 days of the receipt of a statement issued to him under section 11E(4) of the Boundaries and Survey Maps Act (Cap. 25).
+
+[35/98; 37/2004; 2/2007]
+
+(2) The Board may, in any case in which it considers that no cause of sufficient gravity for cancellation of registration or suspension from practice exists, exercise one or more of the following powers:
+
+(a) by order impose on the registered surveyor a penalty not exceeding $10,000;
+
+(b) by writing under the hand of the President censure the registered surveyor;
+
+(c) order the registered surveyor to pay the cost of any correction to his cadastral survey incurred by the Chief Surveyor.
+
+[35/98; 30/2008]
+
+(3) The Board shall not exercise its powers under subsection (1) or (2) unless —
+
+(a) an opportunity of being heard either personally or by counsel has been given to the registered surveyor against whom the Board intends to exercise its powers; and
+
+(b) there has been a hearing at which at least 3 members of the Board are present.
+
+(4) Every penalty imposed by the Board under subsection (2)(a) shall be recoverable as a debt due to the Board.
+
+(5) While any order of suspension from practice made under this section remains in force, the person concerned shall not for the purposes of this Act be regarded as having in force a practising certificate but immediately on the expiry or annulment of such order, his privileges as a registered surveyor shall be revived as from the date of expiry or annulment.
+
+(6) Any order of cancellation of registration or suspension from practice shall not take effect until the expiration of a period of 30 days after the Board has informed the person concerned, but if within that period the person concerned gives due notice of appeal to the High Court, the order shall not take effect unless the order is confirmed by the Court or the appeal is for any reason dismissed by the Court.
+
+(7) For the purposes of subsection (1)(g), a registered surveyor shall not be deemed to have taken reasonable steps to prevent the doing of any act by a corporation, partnership or limited liability partnership unless he satisfies the Board that —
+
+(a) the act was done without his knowledge;
+
+(b) he was not in a position to influence the conduct of the corporation, partnership or limited liability partnership in relation to its action; or
+
+(c) he, being in such a position, exercised all due diligence to prevent the corporation, partnership or limited liability partnership from so acting.
+
+[2/2007]
+
+(8) In this section, references to acts done include references to omissions to act and to a series of acts or omissions to act.
+
+### Removal from registers
+
+26\.—(1) There shall be removed from the register of surveyors and register of practitioners the name and other particulars of any registered surveyor —
+
+(a) who has died;
+
+(b) whose registration has been cancelled under section 25; or
+
+(c) who has no address in Singapore at which he can be contacted or sent any document using his particulars in the register.
+
+[2/2007]
+
+(2) Any registered surveyor may apply to the Board to have his name removed from the register of surveyors.
+
+(3) Every application under subsection (2) shall be made in the prescribed form and shall be supported by an affidavit served on the Board not less than 2 months before the application is heard.
+
+(4) The Board may for good cause require the applicant to advertise his intention to make the application in such manner as the Board shall direct.
+
+(5) Subject to subsection (6), the Board may after hearing the application direct the Registrar to remove the name of the applicant from the register of surveyors.
+
+(6) No order shall be made on an application under subsection (2) if the Board is satisfied that —
+
+(a) disciplinary action is pending against the applicant; or
+
+(b) the conduct of the applicant is the subject of an inquiry or investigation by an Investigation Committee.
+
+### Revocation of licence
+
+27\.—(1) Subject to subsection (3), the Board may by order revoke any licence granted to a corporation, partnership or limited liability partnership if in the opinion of the Board —
+
+(a) the corporation, partnership or limited liability partnership has failed to comply with any of the conditions imposed by the Board under section 18;
+
+(b) in relation to a corporation, the memorandum or articles of association of the corporation have been so altered that they no longer include the restrictions, limitations or prohibitions of the kind specified in section 17(1) or (2), whichever is applicable;
+
+(c) in relation to a partnership, a person who is neither —
+
+(i) a registered surveyor who has in force a practising certificate; nor
+
+(ii) an allied professional who has in force a practising certificate,
+
+has a beneficial interest in the capital assets and profits of the partnership;
+
+(ca) in relation to a limited liability partnership, the limited liability partnership no longer satisfies the requirements of section 17(4);
+
+(d) the licence had been obtained by fraud or misrepresentation;
+
+(e) the corporation, partnership or limited liability partnership has ceased to supply survey services in Singapore;
+
+(f) the corporation, partnership or limited liability partnership has contravened section 19, 20 or 21, or has been convicted of an offence under this Act;
+
+(g) the corporation, partnership or limited liability partnership has contravened any provision of the prescribed code of professional conduct and ethics;
+
+(h) the conduct of any director, manager or employee of the corporation, or any partner, manager or employee of the partnership or limited liability partnership, affords grounds for believing that the corporation, partnership or limited liability partnership, as the case may be, will not engage in survey work in Singapore in accordance with the written law and with honesty and integrity;
+
+(i) the corporation, partnership or limited liability partnership has refused or failed to comply with an order of the Board made under subsection (2); or
+
+(j) the corporation, partnership or limited liability partnership refuses or fails to pay the cost of any correction to its cadastral survey within 14 days of the receipt of a statement issued to it under section 11E(4) of the Boundaries and Survey Maps Act (Cap. 25).
+
+[35/98; 34/99; 37/2004; 2/2007]
+
+(2) The Board may, in any case in which it considers that no cause of sufficient gravity for revoking a licence exists —
+
+(a) by order impose on the corporation, partnership or limited liability partnership concerned a penalty not exceeding $20,000 and every such penalty shall be recoverable as a debt due to the Board; or
+
+(b) order the corporation, partnership or limited liability partnership to pay the cost of any correction to its cadastral survey incurred by the Chief Surveyor.
+
+[35/98; 2/2007]
+
+(3) The Board shall not exercise its powers under subsection (1) or (2) unless —
+
+(a) an opportunity of being heard by a representative in writing or by counsel had been given to the corporation, partnership or limited liability partnership against whom the Board intends to exercise its powers; and
+
+(b) at least 3 members of the Board are present at the hearing.
+
+[2/2007]
+
+(4) Where the Board has revoked a licence under this section, it shall immediately inform the corporation, partnership or limited liability partnership concerned.
+
+[2/2007]
+
+(5) Any order of revocation made by the Board shall not take effect until the expiration of 30 days after the Board has informed the corporation, partnership or limited liability partnership concerned and if within that period the corporation, partnership or limited liability partnership gives due notice of appeal to the High Court, the order shall not take effect unless the order is confirmed by the Court or the appeal is for any reason dismissed by the Court.
+
+[2/2007]
+
+(6) Where an order of revocation becomes effective —
+
+(a) the Registrar shall cause notice of the revocation to be published in theGazetteand shall cancel the entry in the register of licensees relating to the corporation, partnership or limited liability partnership concerned; and
+
+(b) the corporation, partnership or limited liability partnership concerned shall, as from the date of the notice, cease to supply survey services in Singapore except as may be approved by the Board for the purpose of winding up its business.
+
+[35/98; 34/99; 2/2007]
+
+(7) Subsection (6)(b) shall not prejudice the enforcement by any person of any right or claim against the corporation, partnership or limited liability partnership or by the corporation, partnership or limited liability partnership of any right or claim against any person.
+
+[2/2007]
+
+### Appeals
+
+28\. Where the Board has made —
+
+(a) an order of cancellation of registration or suspension from practice under section 25 against a registered surveyor;
+
+(b) an order of revocation of a licence under section 27 against a corporation, partnership or limited liability partnership; or
+
+(c) an order imposing any pecuniary penalty on a registered surveyor under section 25(2) or on a corporation, partnership or limited liability partnership under section 27(2),
+
+the registered surveyor, corporation, partnership or limited liability partnership concerned may, within 30 days after the order or penalty has been communicated to him or it, appeal to the High Court whose decision shall be final.
+
+[2/2007]
+
+### Reinstatement of registration
+
+29\. The Board may, in its discretion, after the expiration of not less than one year from the cancellation of registration of any person, consider any application for registration by that person in accordance with the provisions of Part IV.
+
+### Powers to require attendance of witnesses, etc.
+
+30\.—(1) For the purposes of any investigation by an Investigation Committee or any hearing under section 25 or 27 by the Board, the Investigation Committee or the Board may —
+
+(a) require evidence to be given on oath and for that purpose the Chairman of the Investigation Committee or any member of the Board, as the case may be, may administer an oath; and
+
+(b) require any person to attend and give evidence before it and to produce all books, documents and papers in the custody of that person or under his control relating to the subject-matter of the investigation or hearing.
+
+(2) Every person who, without lawful excuse, refuses or fails —
+
+(a) to attend and give evidence when required to do so by the Investigation Committee or the Board;
+
+(b) to answer truly and fully any question put to him by a member of the Investigation Committee or the Board; or
+
+(c) to produce to the Investigation Committee or the Board any book, document or paper required of him,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+### Board may appoint legal counsel
+
+31\. For the purposes of any investigation by an Investigation Committee, any hearing under section 25 or 27 by the Board or any appeal to the High Court under section 28, the Investigation Committee or the Board, as the case may be, may appoint an advocate and solicitor and pay him such remuneration as the Board may determine.
+
+[37/2004]
+
+### Costs and expenses
+
+32\.—(1) Where the Board has made —
+
+(a) an order of cancellation of registration or suspension from practice under section 25 against a registered surveyor;
+
+(b) an order of revocation of a licence under section 27 against a corporation, partnership or limited liability partnership; or
+
+(c) an order imposing any pecuniary penalty on a registered surveyor under section 25(2) or on a corporation, partnership or limited liability partnership under section 27(2),
+
+the Board may order the registered surveyor, corporation, partnership or limited liability partnership, as the case may be, to pay to the Board such sum as it thinks fit in respect of costs and expenses incurred by the Board.
+
+[37/2004; 2/2007]
+
+(2) The High Court shall have the jurisdiction to tax any sum ordered by the Board under subsection (1), and such order shall be enforceable as if it were ordered in connection with a civil action in the High Court.
+
+[37/2004]
+
+(3) The costs and expenses referred to in subsection (1) shall include —
+
+(a) the costs and expenses of any advocate and solicitor appointed under section 31;
+
+(b) such reasonable expenses as the Board may pay to witnesses; and
+
+(c) such reasonable expenses as may be incurred by the Board in respect of the investigation by the Investigation Committee or in the conduct of proceedings before the Board or any appeal to the High Court.
+
+[37/2004]
+
+## PART VIII
+
+GENERAL
+
+### Application of fees, etc., received by Board
+
+33\.—(1) All fees, penalties and other moneys payable under this Act shall be paid to the Board to be applied —
+
+(a) in the first place to defraying the expenses incurred by the Board in the administration of this Act, including the remuneration of the Registrar and other officers and employees of the Board; and
+
+(b) thereafter to providing scholarships and the promotion of learning and education in connection with the surveying profession.
+
+[17/2001; 37/2004]
+
+(2) The Registrar shall take and receive all moneys payable to the Board under this Act.
+
+(3) All fees and other moneys payable to the Board under this Act shall be paid immediately into a bank account approved by the Minister.
+
+(4) The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+
+[2/2007]
+
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
+
+### Penalty for wilful falsification of register and for wrongfully procuring registration, etc.
+
+34\. Any person who —
+
+(a) wilfully makes or causes to be made any false entry in or falsification of any register kept and maintained under this Act;
+
+(b) wilfully procures or attempts to procure —
+
+(i) for any corporation, partnership or limited liability partnership any licence; or
+
+(ii) for himself or any other person a practising certificate or to be registered as a surveyor under this Act,
+
+by making or producing or causing to be made or produced any false or fraudulent representation or declaration, either verbally or in writing, or by intentionally suppressing any material fact and furnishing information which is misleading; or
+
+(c) knowingly aids or assists in any of the acts mentioned in paragraph (a) or (b),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000.
+
+[34/99; 37/2004; 2/2007]
+
+### Offences by bodies corporate, etc.
+
+35\. Where a corporation, partnership, limited liability partnership or an unincorporated association of persons is guilty of an offence under this Act and that offence is proved to have been committed with the authority, consent or connivance of any director, manager, partner, secretary or other similar officer of the corporation, partnership, limited liability partnership or association or any person who was purporting to act in any such capacity, he, as well as the corporation, partnership, limited liability partnership or association, shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+
+[2/2007]
+
+### No action or proceedings in absence of bad faith or malice
+
+36\. No action or proceedings shall lie against the Board, an Investigation Committee or any member thereof for any act or thing done under this Act unless it is proved to the court that the act or thing was done in bad faith or with malice.
+
+### Exemption
+
+37\.—(1) The Minister may, by order and subject to such conditions as he thinks fit, exempt any person or class of persons from all or any of the provisions of this Act.
+
+(2) Any order made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
+
+### Rules
+
+38\.—(1) The Board may, with the approval of the Minister, make rules for carrying out the purposes of this Act and for any matter which is required under this Act to be prescribed.
+
+(2) Without prejudice to the generality of subsection (1), the Board may, with the approval of the Minister, make rules —
+
+(a) prescribing forms of applications under this Act and certificates of registration, practising certificates and licences;
+
+(b) prescribing the requirements relating to continuing professional development to be satisfied under this Act;
+
+(c) prescribing the fees payable to the Board under this Act;
+
+(d) prescribing the subject-matter of examinations to be conducted by or under the direction of the Board in the case of applicants or class of applicants for registration;
+
+(e) prescribing the form of the register of surveyors, register of practitioners and register of licensees to be kept and the particulars to be entered therein;
+
+(f) prescribing a code of professional conduct and ethics;
+
+(g) requiring all or any of the following to take out and maintain insurance against liability for breach of professional duty in the course of supplying survey services:
+
+(i) any partnership consisting wholly of registered surveyors applying for a licence;
+
+(ii) any partnership or unlimited corporation applying for a licence;
+
+(iii) any registered surveyor applying for a practising certificate for the purpose of engaging in survey practice on his own account;
+
+(iv) any registered surveyor applying for a practising certificate who is employed or about to be employed by any person or body referred to in sub-paragraphs (i), (ii) and (iii);
+
+(v) any other registered surveyor applying for a practising certificate;
+
+(h) prescribing the terms and conditions of insurance against professional liability under this Act, including a minimum limit of indemnity; and
+
+(i) regulating the proceedings of an Investigation Committee.
+
+[35/98; 34/99; 17/2001; 37/2004; 2/2007]
+
+(3) All rules made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
 ## LEGISLATIVE HISTORY
 
@@ -763,6 +1157,10 @@ This Legislative History is provided for the convenience of users of the Land Su
 |||(Bill No. 25/2014)|
 ||Date of Second and Third Readings|8 October 2015|
 ||Date of commencement|3 January 2016|
+|19.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Land Surveyors Act
