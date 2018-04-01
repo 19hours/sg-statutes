@@ -50,9 +50,9 @@
 
 - [17 Protection of superannuation scheme](#Protection-of-superannuation-scheme)
 
-- [18 Financial provisions](#Financial-provisions)
+- [18 (Repealed)](#Repealed)
 
-- [19 Annual report](#Annual-report)
+- [19 (Repealed)](#Repealed)
 
 [**Part IIIA TOURIST GUIDES**](#Part-IIIA)
 
@@ -116,7 +116,7 @@
 
 [**FIRST SCHEDULE**](#FIRST-SCHEDULE)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**SECOND SCHEDULE Repealed**](#SECOND-SCHEDULE-Repealed)
 
 [**Legislative History**](#Legislative-History)
 
@@ -154,7 +154,9 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Board;
 
-“Chief Executive” means the Chief Executive of the Board appointed under section 10(1) and includes any acting Chief Executive appointed under section 10(3);
+“Chief Executive” means the Chief Executive of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “committee member” means a member of any committee appointed under section 13(1);
 
@@ -360,9 +362,9 @@ whether in Singapore or elsewhere, for the purpose of carrying out all or any of
 
 ### Directions by Minister
 
-9\.—(1) The Minister may, after consultation with the Board or otherwise, give to the Board such directions, not inconsistent with the provisions of this Act and any regulations made thereunder, as he may think fit, as to the exercise and performance by the Board of its functions, duties and powers under this Act and any regulations made thereunder, and the Board shall give effect to all such directions.
+9\.—(1) The Minister may give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-[Act 7 of 2014 wef 07/10/2014]
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Board shall furnish the Minister with such information with respect to its property and activities as he may from time to time require.
 
@@ -370,31 +372,21 @@ whether in Singapore or elsewhere, for the purpose of carrying out all or any of
 
 ### Chief Executive
 
-10\.—(1) The Board shall, with the approval of the Minister, appoint a Chief Executive for the purposes of this Act.
+10\.—(1) There must be a Chief Executive of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-[9/97]
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(2) The Chief Executive shall —
+(a) is absent from duty or Singapore; or
 
-(a) be known by such designation as the Board may determine;
+(b) is, for any reason, unable to perform the duties of the office.
 
-(b) be responsible to the Board for the proper administration and management of the functions and affairs of the Board in accordance with the policy laid down by the Board; and
-
-(c) not be removed from office without the consent of the Minister.
-
-[9/97]
-
-(3) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to perform his duties, a person may be appointed by the Board to act in the place of the Chief Executive during such period of absence from duty.
-
-[8
-
-[9/97]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of officers and employees
 
-11\.—(1) The Board may from time to time appoint such agents and appoint and employ such officers and employees as may be necessary for the effective performance and discharge of its functions and duties, and may from time to time dismiss them.
+11\.—(1) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-[Act 7 of 2014 wef 07/10/2014]
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Board may appoint, by name or office, from among —
 
@@ -434,15 +426,11 @@ such number of inspecting officers as may be required for the purposes of this A
 
 (3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any member or employee of the Board all or any of its functions, duties and powers vested in the Board by or under this Act or any other written law, and any power, function or duty so delegated may be exercised or performed by such member or employee in the name and on behalf of the Board.
 
-(4) The Board may continue to exercise a power conferred upon it, or perform a function or duty under this Act or any other written law, notwithstanding the delegation of such power, function or duty under this section.
-
-[10A
-
-[9/97]
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Public servants
 
-13A\. All members, officers and employees of the Board, all committee members and all inspecting officers —
+13A\. All inspecting officers —
 
 (a) shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224); and
 
@@ -451,6 +439,8 @@ such number of inspecting officers as may be required for the purposes of this A
 [Act 7 of 2014 wef 07/10/2014]
 
 [Act 47 of 2017 wef 01/01/2018]
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Payments to Board
 
@@ -514,21 +504,9 @@ such number of inspecting officers as may be required for the purposes of this A
 
 [4/72]
 
-### Financial provisions
+18\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-18\. The financial provisions set out in the Second Schedule shall have effect with respect to the Board.
-
-[35/75]
-
-### Annual report
-
-19\.—(1) The Board shall, as soon as practicable after the close of each financial year but not later than 30th September of each year, submit to the Minister an annual report on the activities of the Board during the preceding financial year.
-
-[9/97]
-
-(2) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
-
-[9/97]
+19\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART IIIA
 
@@ -1208,47 +1186,7 @@ Board’s Symbol
 
 SECOND SCHEDULE
 
-Section 18
-
-Financial Provisions
-
-1\. The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
-
-2\. The accounts of the Board shall be audited by the Auditor-General or by an auditor appointed annually by the Minister in consultation with the Auditor-General (referred to in this Schedule as the auditor.)
-
-3\. The remuneration of the auditor shall be paid by the Board.
-
-4\. The Board shall, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
-
-5. The auditor shall report —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Board; and
-
-(b) such other matters arising from the audit as he considers should be reported.
-
-6. The auditor shall state in his report whether —
-
-(a) proper accounting and other records have been kept; and
-
-(b) the receipt, expenditure and investment of moneys and the acquisition and disposal of assets by the Board during the year have been in accordance with the provisions of this Act.
-
-7\. The auditor may at any other time report to the Minister through the Board upon any matter arising out of the performance of his audit.
-
-8\. The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Board.
-
-9\. The auditor or any person authorised by him may make copies of, or make extracts from, any such accounting and other records.
-
-10\. The auditor or any person authorised by him may require any person to furnish him with such information which that person possesses or has access as the auditor or any duly authorised person considers necessary for the purposes of the functions of the auditor under this Act.
-
-11\. Any officer of the Board who refuses or fails without any reasonable cause to allow the auditor access to any accounting and other records of the Board in his custody or power or to give any information possessed by him as and when required or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-12\. As soon as the accounts of the Board and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
-
-13\. Where the Auditor-General has not been appointed to be the auditor, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Board.
-
-14. The Minister shall cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
-
-[33/75]
+[Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -1327,3 +1265,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|2 October 2017 (Bill No. 41/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|7 November 2017|
 ||Date of commencement|1 January 2018|
+|16.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
