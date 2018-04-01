@@ -158,9 +158,9 @@ PRELIMINARY
 
 [30/2005 wef 01/01/2006]
 
-“Board” means the Standards, Productivity and Innovation Board established under section 3 of the Standards, Productivity and Innovation Board Act (Cap. 303A);
+“Board” means the Enterprise Singapore Board established by section 3 of the Enterprise Singapore Board Act 2018;
 
-[30/2005 wef 01/01/2006]
+[Act 10 of 2018 wef 01/04/2018]
 
 “catch weight goods” means goods that —
 
@@ -1755,3 +1755,7 @@ This Legislative History is provided for the convenience of users of the Weights
 |||(Bill No. 45/2007 published on 23 October 2007)|
 ||Date of Second and Third Readings|12 November 2007|
 ||Date of commencement|1 January 2008|
+|7.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
