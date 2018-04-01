@@ -789,7 +789,9 @@ General
 
 (i) prescribed under law by any other Contracting State of the ICAO;
 
-(ii) recommended, issued or adopted by the Singapore Productivity, Innovation and Standards Board, or a body or an organisation inside or outside Singapore that has functions corresponding to the functions of the Singapore Productivity, Innovation and Standards Board in any particular aspect of civil aviation; or
+(ii) recommended, issued or adopted by the Enterprise Singapore Board, or a body or an organisation inside or outside Singapore that has functions corresponding to the functions of the Enterprise Singapore Board in any particular aspect of civil aviation; or
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (iii) issued or adopted by any aviation sport or aviation recreation organisation approved by the Authority;
 
@@ -835,9 +837,11 @@ General
 
 [10/2014]
 
-(6) The Authority shall cause a copy of every code, standard, requirement, rule or specification incorporated by reference under subsection (1) (other than a code, standard, rule, requirement, specification or other document recommended, issued or adopted by the Singapore Productivity, Innovation and Standards Board) to be made available for inspection by members of the public without charge at the office of the Director-General of Civil Aviation during normal office hours.
+(6) The Authority shall cause a copy of every code, standard, requirement, rule or specification incorporated by reference under subsection (1) (other than a code, standard, rule, requirement, specification or other document recommended, issued or adopted by the Enterprise Singapore Board) to be made available for inspection by members of the public without charge at the office of the Director-General of Civil Aviation during normal office hours.
 
 [10/2014]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (7) In this section, “modification” includes omissions, additions and substitutions.
 
@@ -3534,6 +3538,10 @@ This Legislative History is provided for the convenience of users of the Air Nav
 ||Date of First Reading|13 April 2015 (Bill No. 13/2015 published on 13 April 2015)|
 ||Date of Second and Third Readings|11 May 2015|
 ||Date of commencement|1 June 2015|
+|14.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Air Navigation Act
