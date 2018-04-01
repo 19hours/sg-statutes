@@ -20,7 +20,7 @@
 
 - [7 Directions by Minister](#Directions-by-Minister)
 
-- [8 Appointment of chief executive officer](#Appointment-of-chief-executive-officer)
+- [8 Chief executive officer](#Chief-executive-officer)
 
 - [9 Appointment of officers, employees, etc.](#Appointment-of-officers-employees-etc)
 
@@ -34,7 +34,7 @@
 
 - [14 Protection from personal liability](#Protection-from-personal-liability)
 
-- [15 Members, officers and employees of Board deemed to be public servants](#Members-officers-and-employees-of-Board-deemed-to-be-public-servants)
+- [15 (Repealed)](#Repealed)
 
 - [16 Provision of working capital](#Provision-of-working-capital)
 
@@ -56,11 +56,11 @@
 
 - [23 Compulsory acquisition of land](#Compulsory-acquisition-of-land)
 
-- [24 Annual report](#Annual-report)
+- [24 (Repealed)](#Repealed)
 
-- [24A Annual estimates](#Annual-estimates)
+- [24A (Repealed)](#Repealed)
 
-- [25 Financial provisions](#Financial-provisions)
+- [25 (Repealed)](#Repealed)
 
 - [26 Special provisions as to sale or purchase by Board of land, etc.](#Special-provisions-as-to-sale-or-purchase-by-Board-of-land-etc)
 
@@ -76,7 +76,7 @@
 
 [**FIRST SCHEDULE Constitution and proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Board)
 
-[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
+[**SECOND SCHEDULE Repealed**](#SECOND-SCHEDULE-Repealed)
 
 [**Legislative History**](#Legislative-History)
 
@@ -106,7 +106,9 @@ An Act to establish the Economic Development Board.
 
 “Board” means the Economic Development Board established under section 3;
 
-“chief executive officer” means the chief executive officer of the Board and includes any temporary chief executive officer of the Board;
+“chief executive officer” means the chief executive of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “enterprise” means any entity incorporated, formed or established in Singapore or elsewhere, whether or not for profit, and howsoever owned or controlled, and includes —
 
@@ -234,37 +236,33 @@ may exercise any of the functions of the Chairman.
 
 ### Directions by Minister
 
-7\.—(1) The Minister may, after consultation with the Board or otherwise, give to the Board such directions, not inconsistent with the provisions of this Act, as he considers fit, as to the exercise and performance by the Board of its powers, duties and functions under this Act.
+7\.—(1) The Minister may give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-(2) The Board shall give effect to all such directions.
+[Act 5 of 2018 wef 01/04/2018]
+
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (3) The Board shall furnish the Minister with such information with respect to its property and activities as he may from time to time require.
 
-### Appointment of chief executive officer
+### Chief executive officer
 
-8\.—(1) The Board shall, with the approval of the Minister, appoint a chief executive officer on such terms and conditions as the Board may determine.
+8\.—(1) There must be a chief executive officer of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-[11/89]
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
 
-(2) The chief executive officer shall —
+(a) is absent from duty or Singapore; or
 
-(a) be known by such designation as the Board may determine;
+(b) is, for any reason, unable to perform the duties of the office.
 
-(b) be responsible to the Board for the proper administration and management of its functions and affairs in accordance with the policy laid down by the Board; and
-
-(c) not be removed from office without the consent of the Minister.
-
-[11/89; 11/2008]
-
-(3) The Board may appoint another person to be a temporary chief executive officer during the absence, or incapacity owing to illness or otherwise, of the chief executive officer.
-
-[11/89; 11/2008]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of officers, employees, etc.
 
 9\. The Board may —
 
-(a) appoint and employ such number of officers and employees on such terms as to remuneration or otherwise as the Board may determine and may terminate their services or exercise disciplinary control over them in accordance with their terms of service; and
+(a) subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions; and
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (b) engage and remunerate for their services such persons or agents as the Board considers necessary for carrying out its functions and duties.
 
@@ -310,17 +308,17 @@ may exercise any of the functions of the Chairman.
 
 (d) to any other person as it thinks fit,
 
-any of the functions or powers of the Board under this Act or any other written law, except the power of delegation conferred by this section and the power to make subsidiary legislation under this Act or such other written law.
+any of the functions or powers of the Board under this Act or any other written law.
 
 [11/2008]
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (3) Any function or power delegated under subsection (2) to any person or committee may be performed or exercised by that person or committee in the name and on behalf of the Board.
 
 [11/2008]
 
-(4) No delegation under this section shall prevent the exercise or performance of any function or power by the Board.
-
-[11/2008]
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 13\. [Repealed by Act 11 of 2008]
 
@@ -338,9 +336,7 @@ any of the functions or powers of the Board under this Act or any other written 
 
 [11/2008]
 
-### Members, officers and employees of Board deemed to be public servants
-
-15\. The members, officers and employees of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+15\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Provision of working capital
 
@@ -564,35 +560,11 @@ any of the functions or powers of the Board under this Act or any other written 
 
 [7/83]
 
-### Annual report
+24\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-24\.—(1) The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Board during the preceding financial year and containing such information relating to the proceedings and policy of the Board as the Minister may, from time to time, direct.
+24A\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-[3/72; 17/75; 11/89]
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
-
-[3/72]
-
-### Annual estimates
-
-24A\.—(1) The Board shall, in every financial year, prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Board for the ensuing financial year.
-
-[11/2008]
-
-(2) Supplementary estimates may be adopted by the Board at any of its meetings.
-
-[11/2008]
-
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Board, be sent immediately to the Minister.
-
-[11/2008]
-
-### Financial provisions
-
-25\. The financial provisions set out in the Second Schedule shall have effect with respect to the Board.
-
-[11/89; 11/2008]
+25\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Special provisions as to sale or purchase by Board of land, etc.
 
@@ -636,7 +608,13 @@ shall disclose any information relating to the affairs of the Board or of any ot
 
 (ii) for the purpose of the administration or enforcement of this Act;
 
-(iii) in compliance with the requirement of any court or the provisions of any written law; or
+(iii) in compliance with the requirement of any court or as required or allowed under the provisions of any written law;
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(iiia) with the prior authorisation from the Board to do so; or
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (iv) for the purpose of assisting any public officer or officer of any other statutory board in the investigation or prosecution of any offence under any written law.
 
@@ -668,7 +646,9 @@ shall, for his own personal benefit or for the personal benefit of any other per
 
 29\.—(1) The Minister may, after consulting with the Board, make such regulations as he may consider necessary or desirable for the proper conduct of the business of the Board including, without prejudice to the generality of the foregoing, regulations with regard to any of the following matters:
 
-(a) the convening of meetings of the Board and the procedure to be followed thereat;
+(a) the convening of meetings of the Board and the procedure to be followed thereat, to the extent not inconsistent with the Public Sector (Governance) Act 2018;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (b) the appointment or establishment of committees of the members of the Board, and the co-opting of persons other than members of the Board to those committees;
 
@@ -740,19 +720,11 @@ shall preside at that meeting.
 
 (4) The validity of any proceedings of the Board shall not be affected by any vacancy amongst its members or by any defect in the appointment of any member.
 
-(5) Subject to the provisions of this Act, the Board may regulate its own proceedings generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, and the custody, production and inspection of such minutes.
+(5) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may regulate its own proceedings generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, and the custody, production and inspection of such minutes.
 
-Disclosure of interest by members
+[Act 5 of 2018 wef 01/04/2018]
 
-7.—(1) Subject to sub-paragraph (2), if a member has a pecuniary interest, direct or indirect, in any contract, proposed contract or other matter which is before any meeting of the Board, he shall at that meeting declare the nature of his interest and shall not take part in the consideration or discussion of, or vote on any question with respect to, that contract or other matter, and if the Chairman or the person presiding at that meeting so directs, he shall withdraw from the meeting during the consideration or discussion.
-
-(2) For the purposes of sub-paragraph (1), a general notice given to the members by a member to the effect that he is an officer or a member of a specified enterprise and is to be regarded as interested in any contract which may, after the date of the notice, be made with that enterprise or in any other matter shall be deemed to be a sufficient declaration of interest in relation to the contract or matter if it specifies the nature and extent of his interest in the specified enterprise and his interest is not different in nature or greater in extent than the nature or extent so specified in the general notice at the time any contract is so made.
-
-(3) No notice under sub-paragraph (2) shall be of effect unless either it is given at a meeting of the Board or the member takes reasonable steps to ensure that it is brought up and read at the next meeting of the Board after it is given.
-
-(4) For the purpose of this paragraph, a pecuniary interest of any spouse, parent, son or adopted son, or daughter or adopted daughter, of a member shall be treated as a pecuniary interest of the member.
-
-(5) For the purpose of determining whether there is a quorum, a member shall be treated as being present notwithstanding that, under this paragraph, he cannot vote or has withdrawn from the meeting.
+7. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Sealing of documents
 
@@ -768,73 +740,7 @@ Sealing of documents
 
 SECOND SCHEDULE
 
-Section 25
-
-Financial provisions
-
-Accounts to be kept
-
-1\. The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
-
-Financial statements
-
-2\. The Board shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of that year to the auditor of the Board.
-
-Appointment of auditor
-
-3\. The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
-
-Qualification of auditor
-
-4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
-
-Remuneration of auditor
-
-5\. The remuneration of the auditor shall be paid out of the funds of the Board.
-
-Powers of auditor
-
-6\. The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Board and may make copies of, or extracts from, any such accounting and other records.
-
-Duties of auditor
-
-7. The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Board;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Board whether purchased, donated or otherwise;
-
-(c) whether receipts, expenditure, and investment of moneys and the acquisition and disposal of assets by the Board during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-Reports
-
-8.—(1) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Board.
-
-(2) The auditor shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
-
-Failure to furnish information to auditor
-
-9\. The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-Offence
-
-10\. Any person who fails without reasonable excuse to comply with any requirement of the auditor under paragraph 9 or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
-
-Financial statements and auditor’s report
-
-11\. The Board shall, as soon as the financial statements have been audited in accordance with the provisions of the Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
-
-Copy of financial statements and auditor’s report to be forwarded to Auditor-General
-
-12\. Where the Auditor-General is not the auditor of the Board, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
-
-Financial statements and auditor’s report to be presented to Parliament
-
-13. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
-
-[11/89; 11/2008]
+[Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -949,6 +855,10 @@ This Legislative History is provided for the convenience of users of the Economi
 ||Date of commencement|15 January 2010|
 |23.|**2012 Revised Edition—Economic Development Board Act (Chapter 85)**|
 ||Date of operation|31 July 2012|
+|24.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Economic Development Board Act
