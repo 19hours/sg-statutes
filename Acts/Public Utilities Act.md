@@ -28,9 +28,9 @@
 
 - [9 Furnishing of documents and information to Board](#Furnishing-of-documents-and-information-to-Board)
 
-- [10 Appointment of Chief Executive and other employees, etc.](#Appointment-of-Chief-Executive-and-other-employees-etc)
+- [10 Chief Executive, officers and employees, etc.](#Chief-Executive-officers-and-employees-etc)
 
-- [11 Public servants](#Public-servants)
+- [11 (Repealed)](#Repealed)
 
 - [12 Protection from personal liability](#Protection-from-personal-liability)
 
@@ -46,11 +46,11 @@
 
 - [17 Financial provisions](#Financial-provisions)
 
-- [18 Annual report](#Annual-report)
+- [18 (Repealed)](#Repealed)
 
 - [19 Symbol or representation of Board](#Symbol-or-representation-of-Board)
 
-[**Part III WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS**](#Part-III)
+[**Part III WATER UNDERTAKING OF BOARD**](#Part-III)
 
 - [20 Tariffs for supply of water and apparatus, etc., payable to Board](#Tariffs-for-supply-of-water-and-apparatus-etc-payable-to-Board)
 
@@ -96,7 +96,7 @@
 
 - [39 Entry into Board’s premises without consent, etc.](#Entry-into-Board’s-premises-without-consent-etc)
 
-- [40 Licensing of water service worker](#Licensing-of-water-service-worker)
+- [40 (Repealed)](#Repealed)
 
 [**Part IIIA COMPENSATION FOR TEMPORARY OCCUPATION OF PREMISES AND OWNER-INITIATED ACQUISITION**](#Part-IIIA)
 
@@ -111,6 +111,36 @@
 - [40E Owners who suffer substantial impairment in rights in premises may require their premises to be acquired](#Owners-who-suffer-substantial-impairment-in-rights-in-premises-may-require-their-premises-to-be-acquired)
 
 - [40F Owner-initiated acquisition](#Owner-initiated-acquisition)
+
+[**Part IIIB REGULATED WORKS AND WSI DESIGN WORKS**](#Part-IIIB)
+
+[**Division 1  Prohibitions relating to regulated works and WSI design works**](#Division-1--Prohibitions-relating-to-regulated-works-and-WSI-design-works)
+
+- [40G Prohibitions against carrying out of regulated works, etc.](#Prohibitions-against-carrying-out-of-regulated-works-etc)
+
+- [40H Prohibition against engagement of persons to carry out certain WSI design works](#Prohibition-against-engagement-of-persons-to-carry-out-certain-WSI-design-works)
+
+[**Division 2  Licensing of plumbers**](#Division-2--Licensing-of-plumbers)
+
+- [40I Application for plumber’s licence](#Application-for-plumber’s-licence)
+
+- [40J Grant of plumber’s licence](#Grant-of-plumber’s-licence)
+
+- [40K Grounds for suspension or cancellation of plumber’s licence](#Grounds-for-suspension-or-cancellation-of-plumber’s-licence)
+
+- [40L Proceedings for suspension or cancellation of plumber’s licence](#Proceedings-for-suspension-or-cancellation-of-plumber’s-licence)
+
+- [40M Surrender of plumber’s licence](#Surrender-of-plumber’s-licence)
+
+[**Division 3  General provisions**](#Division-3--General-provisions)
+
+- [40N Training requirements for licensed plumbers](#Training-requirements-for-licensed-plumbers)
+
+- [40O Duties of licensed plumbers in relation to regulated works](#Duties-of-licensed-plumbers-in-relation-to-regulated-works)
+
+- [40P Duties of professional engineers in relation to WSI design works](#Duties-of-professional-engineers-in-relation-to-WSI-design-works)
+
+- [40Q Directions to licensed plumbers, professional engineers, etc.](#Directions-to-licensed-plumbers-professional-engineers-etc)
 
 [**Part IV SUPPLY OF PIPED WATER FOR HUMAN CONSUMPTION**](#Part-IV)
 
@@ -248,27 +278,91 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Board and includes any temporary Chairman of the Board;
 
-“Chief Executive” means the Chief Executive of the Board and includes any temporary Chief Executive of the Board;
+“Chief Executive” means the Chief Executive of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
+
+“connecting pipe” means a pipe from a water main to the meter position;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 “consumer” means a person who is supplied with water or whose premises are for the time being connected for the purpose of a supply of water with any system of supply;
 
 “Deputy Chairman” means the Deputy Chairman of the Board and includes any temporary Deputy Chairman of the Board;
 
-“installation” includes any plant or apparatus designed for the collection, production, supply or use of water;
+“discharge pipe” means a pipe that enables any sewage or sullage water to be conveyed from a sanitary appliance or floor trap to a drain-line;
 
-“licensed water service worker” means a person who holds a valid water service worker licence permitting him to perform such water service work as is specified in the licence;
+[Act 11 of 2018 wef 01/04/2018]
 
-“main” means a pipe through which water is or can be supplied, whether the pipe is in use or not;
+“drain-line” has the same meaning as in section 2 of the Sewerage and Drainage Act (Cap. 294);
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“installation” includes any plant or apparatus designed for the collection, conveyance, production, supply or use of water;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+[Deleted by Act 11 of 2018 wef 01/04/2018]
+
+“licensed plumber” means an individual who holds a plumber’s licence;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“limited WSI design works” means the designing of any water service installation that is to be installed downstream of a meter, where the water service installation being designed does not include any pumping equipment or storage tank;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“main” means a pipe through which water is or can be supplied or conveyed, whether the pipe is in use or not;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 “master meter” means a meter registering water, all or part of which is subsequently registered by one or more sub-meters;
 
 “member” means any member of the Board;
 
+“meter” means any appliance or device to measure, ascertain or regulate the amount of water taken from a supply or conveyance of water to any place;
+
+[Act 11 of 2018 wef 01/04/2018]
+
 “occupier” means the person in occupation of any premises and includes the person having the charge, management or control of the premises either on his own account or as agent of another person, but does not include a lodger;
+
+“plumber’s licence” means a licence granted under section 40J;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 “premises” includes buildings, structures, streets, lands, waters, tenements, easements of any tenure, whether State land or not, whether open or enclosed, whether built on or not, whether public or private, and whether maintained or not under statutory authority;
 
-“sewage” and “sewerage system” have the same meanings as in the Sewerage and Drainage Act (Cap. 294);
+“professional engineer” means an individual who is registered as a professional engineer under the Professional Engineers Act (Cap. 253) and has in force a practising certificate issued under that Act;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“regulated works” means any sanitary works, limited WSI design works or WSI works, but does not include any of such works as the Minister may, after consulting the Board, prescribe by order in theGazette;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“sanitary appliances” and “sanitary facilities” have the same meanings as in section 2 of the Sewerage and Drainage Act;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“sanitary works” means —
+
+(a) constructing, altering, repairing, replacing, discontinuing or closing up any discharge pipe, ventilating pipe, drain-line, fitting, floor trap, inspection chamber, grease trap, pump or any other appurtenance related to the conveyance of sewage or sullage water from any sanitary appliance or sanitary facility to a sewerage system; and
+
+(b) installing, fixing, altering, repairing or removing a sanitary appliance or sanitary facility, and any other connected works;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“sewage” and “sewerage system” have the same meanings as in section 2 of the Sewerage and Drainage Act (Cap. 294);
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“storage tank” means any tank or storage cistern that has a free water surface under atmospheric pressure, but does not include —
+
+(a) a flushing cistern; or
+
+(b) a drinking-trough or drinking-bowl for animals (including poultry);
+
+[Act 11 of 2018 wef 01/04/2018]
 
 “street” includes —
 
@@ -278,7 +372,39 @@ PRELIMINARY
 
 (c) all channels, sewers, drains, tunnels, ditches and reserves at the side of a street;
 
-“water installation” means any water-retaining structure, pumping station, pipe, water fitting, apparatus or appliance used for the supply of water;
+“ventilating pipe” means a pipe provided to limit the pressure fluctuations in any discharge pipe;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“vessel” means —
+
+(a) a ship, a boat, an air-cushioned vehicle or any other similar craft used in any reservoir or waterway, however moved or propelled; or
+
+(b) a barge, a lighter, a rig, a platform or any other floating structure, that may or may not be moved or propelled;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“water fitting” means —
+
+(a) any pipe that is not a water main;
+
+(b) any pipe fitting, tap, cock, valve or ferrule;
+
+(c) any meter; or
+
+(d) any flushing cistern,
+
+and any other similar apparatus used in connection with the supply or conveyance, and use, of water;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“water installation” means any water-retaining structure, pumping station, pipe, water fitting, apparatus or appliance used for the supply or conveyance of water;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+“water main” means any pipe used or to be used for the conveyance of water, other than a connecting pipe;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 “water service installation” —
 
@@ -292,17 +418,25 @@ PRELIMINARY
 
 but does not include any installation for the disposal of any waste, sullage water or sewage, or any installation or water installation of the Board;
 
-“water service work” means any work performed or carried out on any water service installation and includes the designing, installing, constructing, erecting or repairing thereof or the altering of the structure thereof or the replacing of any part thereof or the adding of any part thereto or the carrying out of any work thereon for the maintenance thereof;
+[Deleted by Act 11 of 2018 wef 01/04/2018]
 
-“water service worker” means any person whose trade or occupation requires or includes the personal performance by him of water service work or a person who is otherwise competent or qualified personally to perform water service work;
+[Deleted by Act 11 of 2018 wef 01/04/2018]
 
-“water service worker licence” means a licence granted under section 40(2);
+[Deleted by Act 11 of 2018 wef 01/04/2018]
+
+“waterway” means a navigable river, conduit or drain;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 [Act 9 of 2012 wef 01/09/2012]
 
-“waterway” means a navigable river, conduit or drain.
+“WSI design works” means the designing of any water service installation that is to be installed downstream of a meter, and includes any limited WSI design works;
 
-[Act 9 of 2012 wef 01/09/2012]
+[Act 11 of 2018 wef 01/04/2018]
+
+“WSI works” means any works on any water service installation including constructing, erecting, installing, maintaining, altering, repairing or replacing the water service installation.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 ## PART II
 
@@ -408,9 +542,11 @@ RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
 ### Directions by Minister
 
-8\.—(1) The Minister may, after consultation with the Board, give the Board such directions as he thinks fit as to the exercise by the Board of its functions under this Act or other written law.
+8\.—(1) The Minister may, after consultation with the Board, give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-(2) Without prejudice to the generality of subsection (1), if it appears to the Minister to be requisite or expedient to do so —
+[Act 5 of 2018 wef 01/04/2018]
+
+(2) In addition to the power mentioned in subsection (1), if it appears to the Minister to be requisite or expedient to do so —
 
 (a) on the occurrence of any public emergency, in the public interest or in the interests of public security, national defence, or relations with the government of another country; or
 
@@ -423,6 +559,8 @@ RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 (iii) to enable the Government to become a member of such an organisation or a party to such an agreement,
 
 the Minister may, after consultation with the Board, give such directions to the Board as are necessary in the circumstances of the case.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (3) The Board shall give effect to any direction given to it under subsection (1) or (2) notwithstanding any other duty imposed on the Board by or under this Act or other written law.
 
@@ -444,39 +582,27 @@ the Minister may, after consultation with the Board, give such directions to the
 
 shall be guilty of an offence.
 
-### Appointment of Chief Executive and other employees, etc.
+### Chief Executive, officers and employees, etc.
 
-10\.—(1) The Board shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Board may determine.
+10\.—(1) There must be a Chief Executive of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(a) be known by such designation as the Board may determine;
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Board for the proper administration and management of the functions and affairs of the Board in accordance with the policy laid down by the Board; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) not be removed from office without the consent of the Minister.
+(3) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(3) The Minister shall consult the Public Service Commission before granting his approval under subsection (1) or before giving his consent under subsection (2)(c).
+[Act 5 of 2018 wef 01/04/2018]
 
-(4) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to perform his duties, a person may be appointed by the Board to act in the place of the Chief Executive during any such period of absence from duty.
-
-(5) The Board may, from time to time, appoint and employ on such terms and conditions as the Board may determine such officers and employees as may be necessary for the effective performance of its functions.
-
-(6) The Board may, from time to time, appoint and authorise in writing —
-
-(a) any officer or employee of the Board, or any officer of any other statutory authority, to be an authorised officer for the purposes of this Act; and
-
-(b) any authorised officer or other person to perform any particular function or duty or to exercise any particular power under this Act, subject to such conditions or limitations as the Board may specify.
-
-[Act 9 of 2012 wef 01/09/2012]
-
-### Public servants
-
-11\. All members, officers and employees of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+11\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Protection from personal liability
 
-12\. No suit or other legal proceedings shall lie against any member, officer or employee of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any other written law.
+12\. No liability shall lie personally against any member, officer or employee of the Board or other person acting under the direction of the Board who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 ### Power to borrow
 
@@ -504,11 +630,11 @@ shall be guilty of an offence.
 
 ### Annual estimates
 
-15\.—(1) The Board shall in every financial year prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Board for the ensuing financial year.
+15\.—(1) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(2) Supplementary estimates may be adopted by the Board at any of its meetings.
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Board, be sent forthwith to the Minister.
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (4) A summary of the annual estimates and supplementary estimates adopted by the Board shall be published in theGazette.
 
@@ -522,9 +648,7 @@ shall be guilty of an offence.
 
 17\. The financial provisions set out in the Third Schedule shall have effect with respect to the Board.
 
-### Annual report
-
-18\. The Board shall, as soon as practicable after the end of each financial year, submit to the Minister an annual report on the activities of the Board during the preceding financial year and the Minister shall cause a copy of every such report to be presented to Parliament.
+18\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Symbol or representation of Board
 
@@ -534,7 +658,9 @@ shall be guilty of an offence.
 
 ## PART III
 
-WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
+WATER UNDERTAKING OF BOARD
+
+[Act 11 of 2018 wef 01/04/2018]
 
 ### Tariffs for supply of water and apparatus, etc., payable to Board
 
@@ -584,9 +710,7 @@ WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
 
 [Act 9 of 2012 wef 01/02/2013]
 
-(5) For the purposes of subsection (4), the Minister may prescribe different amounts of the waterborne tax for persons differently situated.
-
-[Act 9 of 2012 wef 01/02/2013]
+(5) [Deleted by Act 11 of 2018 wef 01/04/2018]
 
 (6) The waterborne tax shall be payable by —
 
@@ -600,11 +724,19 @@ WATER UNDERTAKING OF BOARD AND WATER SERVICE WORKERS
 
 (a) the number of sanitary appliances which are installed in the premises;
 
-(b) the amount of water supplied to the premises;
+(b) the volume of water supplied to the premises;
 
-(c) any estimate of the amount of used water (including sewage, waste matter and effluent) disposed of.
+[Act 11 of 2018 wef 01/04/2018]
+
+(c) any estimate of the volume of used water (including sewage, waste matter and effluent) disposed of.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 [Act 9 of 2012 wef 01/02/2013]
+
+(7A) For the purposes of subsection (4), the Minister may prescribe different amounts of waterborne tax for persons differently situated, including different amounts of waterborne tax for different volumes of water supplied and estimates of different volumes of used water (including sewage, waste matter and effluent) disposed of.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (8) The waterborne tax collected under this section shall be paid into the funds of the Board.
 
@@ -704,7 +836,13 @@ of water that is not for human consumption to any premises, where the Board is o
 
 (a) to lay or install under, over, in, on or through the premises, such mains, pipes, water installations or water service installations as the Board considers necessary for the supply of water to those or other premises;
 
-(b) to inspect, maintain, adjust, repair or alter any such main, pipe, water installation or water service installation referred to in paragraph (a);
+(b) to inspect, maintain, adjust, repair or alter —
+
+(i) any main, pipe, water installation or water service installation mentioned in paragraph (a); and
+
+(ii) any other main, water installation or pipe that is acquired by the Board and immediately leased back to another person, and is used for the supply of water to those or other premises;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (c) to carry out any works requisite for, or incidental to, the purposes of any works falling within paragraph (a) or (b), including —
 
@@ -902,7 +1040,7 @@ without making any previous payment, tender or deposit.
 
 ### Removal of obstruction over existing water main or connecting pipe
 
-33\.—(1) Where the Board is of the opinion that any structure, object or any accumulation of any substance that exists above or in the vicinity of any main or connecting pipe belonging to the Board hinders or obstructs or is likely to hinder or obstruct access to such water main or connecting pipe, the Board may, by notice in writing direct —
+33\.—(1) Where the Board is of the opinion that any structure, object or any accumulation of any substance that exists above or in the vicinity of any water main or connecting pipe belonging to the Board hinders or obstructs or is likely to hinder or obstruct access to such water main or connecting pipe, the Board may, by notice in writing direct —
 
 (a) the person to whom the structure, object or accumulation of substance belongs;
 
@@ -911,6 +1049,8 @@ without making any previous payment, tender or deposit.
 (c) the owner or occupier of the premises on which the structure, object or accumulation of substance exists,
 
 to remove the structure, object or accumulation of substance within such time as may be specified in the notice.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (2) Where the person on whom a notice under subsection (1) has been served fails to comply with it —
 
@@ -976,35 +1116,7 @@ and recover any costs reasonably incurred by it from such person.
 
 (4) Any person who contravenes subsection (1) shall be guilty of an offence.
 
-### Licensing of water service worker
-
-40\.—(1) Subject to subsection (3), no person shall —
-
-(a) perform or carry out personally any water service work or offer or undertake to perform or carry out personally any such work; or
-
-(b) advertise or otherwise hold himself out as a water service worker or as a licensed water service worker, or as a person competent or qualified or legally permitted personally to perform or carry out water service work,
-
-unless he is licensed as a water service worker in respect of that water service work.
-
-(2) The Board may —
-
-(a) grant, suspend, cancel, alter, extend, renew or replace any water service worker licence granted under this section;
-
-(b) classify any water service worker licence in such manner as it determines;
-
-(c) specify the nature of the water service work in respect of which a water service worker licence is granted and restrict such work to any type or class of water service work or any type or class of water service installation;
-
-(d) specify the circumstances or manner in which the holder of a water service worker licence may perform or carry out water service work; or
-
-(e) attach any exemptions to any water service worker licence or impose any terms, conditions or restrictions thereon.
-
-(3) The Board may, from time to time, by notification in theGazette, specify any water service work which may be carried out by any person without a water service worker licence granted under this section.
-
-(4) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
-
-(5) [Deleted by Act 9 of 2012 wef 01/09/2012]
-
-(6) This section shall not apply to any employee of the Board in the performance of his duties or any professional engineer registered under the Professional Engineers Act (Cap. 253).
+40\. [Deleted by Act 11 of 2018 wef 01/04/2018]
 
 ## PART IIIA
 
@@ -1155,6 +1267,300 @@ and where a single building is erected on 2 or more such adjoining lands or lots
 
 [Act 12 of 2015 wef 08/05/2015]
 
+## PART IIIB
+
+REGULATED WORKS AND WSI DESIGN WORKS
+
+Division 1 —
+
+Prohibitions relating to regulated works and WSI design works
+
+### Prohibitions against carrying out of regulated works, etc.
+
+40G\.—(1) An individual must not carry out, or offer or undertake to carry out, any regulated works unless —
+
+(a) the individual is a licensed plumber; or
+
+(b) the individual acts under the direct supervision of a licensed plumber.
+
+(2) An individual must not hold himself out (whether by an advertisement or any other means) as authorised under this Act to carry out any regulated works, unless the individual is a licensed plumber.
+
+(3) A person must not in the course of business (whether or not carried on for profit) provide, or offer or undertake to provide, the carrying out of any regulated works unless the person ensures that those works are carried out by —
+
+(a) one or more licensed plumbers; or
+
+(b) one or more individuals acting under the direct supervision of one or more licensed plumbers.
+
+(4) A person must not hold out (whether by an advertisement or any other means) that the person is authorised under this Act to provide in the course of business the carrying out of any regulated works, unless the person ensures that those works are carried out by the individuals mentioned in subsection (3)(a) or (b).
+
+(5) An owner or occupier of any premises who wishes to have any sanitary works or WSI works carried out at the premises must only engage a person permitted under subsection (1) or (3) to carry out those works or provide the carrying out of those works (as the case may be).
+
+(6) An owner or occupier of any premises who wishes to have any limited WSI design works carried out on a water service installation situated at the premises must only engage —
+
+(a) a person permitted under subsection (1) or (3) to carry out those works or provide the carrying out of those works (as the case may be); or
+
+(b) a professional engineer to carry out those works.
+
+(7) Any person who contravenes subsection (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(8) Any person who contravenes subsection (5) or (6) shall be guilty of an offence.
+
+(9) Subsections (1), (2), (3) and (4) do not apply to a professional engineer in respect of any limited WSI design works.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+### Prohibition against engagement of persons to carry out certain WSI design works
+
+40H\.—(1) An owner or occupier of any premises who wishes to have any WSI design works carried out on a water service installation situated at the premises must, where the WSI design works are not limited WSI design works, only engage a professional engineer to carry out those works.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+Division 2 —
+
+Licensing of plumbers
+
+### Application for plumber’s licence
+
+40I\.—(1) An application to the Board for a plumber’s licence must —
+
+(a) be in such form and manner as the Board may require;
+
+(b) be accompanied by an application fee (if prescribed); and
+
+(c) be accompanied by the documents and information required by the Board to consider the application.
+
+(2) In considering an application under subsection (1), the Board may carry out such inquiries and investigations in relation to the application as the Board considers necessary.
+
+(3) The Board may refuse to consider an application for a plumber’s licence that is incomplete or not made in accordance with this section.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+### Grant of plumber’s licence
+
+40J\.—(1) An applicant is ineligible for a plumber’s licence if the applicant —
+
+(a) has not completed any course, training, assessment, examination or test on any regulated works as the Board may require;
+
+(b) does not, in the Board’s opinion, have the necessary qualifications or experience to be a licensed plumber;
+
+(c) does not, in the Board’s opinion, have an acceptable knowledge of the requirements imposed by or under this Act or the Sewerage and Drainage Act (Cap. 294) on a licensed plumber; and
+
+(d) does not satisfy other eligibility requirements (if prescribed) to be a licensed plumber.
+
+(2) In deciding whether an applicant has an acceptable knowledge of the requirements mentioned in subsection (1)(c), the Board may have regard to —
+
+(a) the results of any assessment, examination or test mentioned in subsection (1)(a) completed by the applicant; and
+
+(b) if the Board considers relevant, the results of any other assessment, examination or test on any regulated works completed by the applicant, whether before, on or after the date of commencement of section 9 of the Public Utilities (Amendment) Act 2018.
+
+(3) The Board may, after considering the matters mentioned in subsections (1) and (2) and on payment of a licence fee (if prescribed), grant a plumber’s licence to an individual.
+
+(4) A plumber’s licence granted under subsection (3) —
+
+(a) authorises a licensed plumber to carry out any regulated works; and
+
+(b) is subject to such conditions as the Board may impose.
+
+(5) A plumber’s licence continues in force —
+
+(a) for the life of the holder of a plumber’s licence; or
+
+(b) for such period as the Board may specify in the licence,
+
+unless the licence is earlier suspended or cancelled under section 40L or earlier surrendered under section 40M.
+
+(6) A plumber’s licence is neither transferable nor assignable, and any purported transfer or assignment of the licence is void.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+### Grounds for suspension or cancellation of plumber’s licence
+
+40K\.—(1) The Board may suspend or cancel the plumber’s licence of an individual who —
+
+(a) has obtained the plumber’s licence by making or producing, or causing to be made or produced, any false or fraudulent declaration, certification or representation, whether in writing or otherwise;
+
+(b) has, in the Board’s opinion, contravened any requirement imposed by or under this Act or the Sewerage and Drainage Act (Cap. 294) applicable to the individual, for which the individual is not liable for an offence;
+
+(c) has, in the Board’s opinion, failed to comply with any condition of the plumber’s licence;
+
+(d) has been charged with or convicted of an offence, under this Act or any other written law, such that it is undesirable, in the Board’s opinion, that the individual should continue to hold the plumber’s licence;
+
+(e) if required by section 40N to complete any refresher course, training, assessment, examination or test, has failed to do so;
+
+(f) is, for any reason, no longer suitable in the Board’s opinion to hold a plumber’s licence having regard to any of the matters mentioned in section 40J(1)(a) to (d); or
+
+(g) in the Board’s opinion, has carried out or is carrying out any regulated works in a manner that adversely affects or is likely to adversely affect the health or safety of any individual, or of the public or a section of the public.
+
+(2) The suspension or cancellation of a plumber’s licence under this Act does not prejudice the enforcement —
+
+(a) by any person of any right or claim against the licensed plumber or former licensed plumber; or
+
+(b) by the licensed plumber or former licensed plumber of any right or claim against any person.
+
+(3) The Board does not have to —
+
+(a) pay any compensation to any individual whose plumber’s licence is suspended or cancelled; or
+
+(b) refund any fee or part of the fee paid to the Board, in respect of any unexpired period of a plumber’s licence that is cancelled.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+### Proceedings for suspension or cancellation of plumber’s licence
+
+40L\.—(1) Before suspending or cancelling the plumber’s licence of an individual, the Board must give a written notice to the individual —
+
+(a) stating that the Board intends to suspend or cancel the plumber’s licence; and
+
+(b) specifying the time within which written representations may be made to the Board with respect to the proposed suspension or cancellation, that must not be less than any time prescribed for the making of such representations.
+
+(2) The Board may, after considering any written representation under subsection (1)(b) from an individual —
+
+(a) suspend his plumber’s licence for a period not exceeding 12 months or such longer period as may be prescribed in substitution; or
+
+(b) cancel his plumber’s licence.
+
+(3) Where the Board has made any decision under subsection (2) against an individual, the Board must serve on the individual concerned a notice of the decision.
+
+(4) The Board’s decision under subsection (2) takes effect from the date that the notice under subsection (3) is given, or on such later date as may be specified in the notice.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+### Surrender of plumber’s licence
+
+40M\.—(1) Subject to subsection (2), an individual may at any time surrender his plumber’s licence to the Board for cancellation.
+
+(2) The Board may refuse the surrender of a plumber’s licence under subsection (1) if —
+
+(a) the Board is investigating whether there is any circumstance that may result in the suspension or cancellation of the plumber’s licence; or
+
+(b) the Board has started proceedings under section 40L with a view to suspending or cancelling the plumber’s licence.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+Division 3 —
+
+General provisions
+
+### Training requirements for licensed plumbers
+
+40N\. A licensed plumber must —
+
+(a) complete any refresher course or training on any regulated works as required by the Board; and
+
+(b) complete to the Board’s satisfaction any assessment, examination or test on any regulated works as required by the Board.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+### Duties of licensed plumbers in relation to regulated works
+
+40O\.—(1) A licensed plumber must, in respect of any regulated works that the licensed plumber carries out, or directly supervises another individual to carry out —
+
+(a) ensure that the carrying out of the regulated works complies with the requirements imposed by or under this Act;
+
+(b) for any prescribed regulated works —
+
+(i) notify the Board, in accordance with any prescribed requirements, before the start of those works; and
+
+(ii) submit to the Board, in accordance with any prescribed requirements, certifications for completion of those works; and
+
+(c) comply with such other requirements as may be prescribed.
+
+(2) Any licensed plumber who fails to comply with subsection (1) shall be guilty of an offence.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+### Duties of professional engineers in relation to WSI design works
+
+40P\.—(1) A professional engineer must, in respect of any WSI design works that the professional engineer carries out —
+
+(a) ensure that the carrying out of the WSI design works complies with the requirements imposed by or under this Act;
+
+(b) for any prescribed WSI design works —
+
+(i) notify the Board, in accordance with any prescribed requirements, before the start of those works; and
+
+(ii) submit to the Board, in accordance with any prescribed requirements, certifications for completion of those works; and
+
+(c) comply with such other requirements as may be prescribed.
+
+(2) Any professional engineer who fails to comply with subsection (1) shall be guilty of an offence.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+### Directions to licensed plumbers, professional engineers, etc.
+
+40Q\.—(1) Where the Board is of the opinion that —
+
+(a) a licensed plumber has failed, or is likely to have failed, to comply with a condition of his plumber’s licence in carrying out any regulated works;
+
+(b) a licensed plumber has contravened, or is likely to have contravened, any requirement imposed by or under this Act or the Sewerage and Drainage Act (Cap. 294), in relation to any regulated works that the licensed plumber is responsible for;
+
+(c) a professional engineer has contravened, or is likely to have contravened, any requirement imposed by or under this Act, in relation to any WSI design works that the professional engineer is responsible for;
+
+(d) any water service installation does not conform to any requirement set out in the regulations made under section 72; or
+
+(e) any sanitary works are not or were not carried out in conformity with any requirement imposed by or under the Sewerage and Drainage Act,
+
+the Board may give a direction, verbally or in writing, to any person specified in subsection (2), and the person must comply with the direction.
+
+(2) The persons specified for the purposes of subsection (1) are —
+
+(a) for a direction under subsection (1)(a) or (b) —
+
+(i) the licensed plumber mentioned in subsection (1)(a) or (b); or
+
+(ii) if the Board is of the opinion that the licensed plumber mentioned in sub-paragraph (i) is incapable of carrying out any requirement specified in the Board’s direction, another licensed plumber;
+
+(b) for a direction under subsection (1)(c) —
+
+(i) the professional engineer mentioned in subsection (1)(c); or
+
+(ii) if the Board is of the opinion that the professional engineer mentioned in sub-paragraph (i) is incapable of carrying out any requirement specified in the Board’s direction, another professional engineer;
+
+(c) for a direction under subsection (1)(d) —
+
+(i) the licensed plumber reasonably believed to have last carried out, or directly supervised the carrying out of, any limited WSI design works or WSI works on the water service installation that resulted in its non-conformity;
+
+(ii) the professional engineer reasonably believed to have last carried out any WSI design works on the water service installation that resulted in its non-conformity;
+
+(iii) if the Board is of the opinion that the licensed plumber or professional engineer mentioned in sub-paragraph (i) or (ii) is incapable of carrying out any requirement specified in the Board’s direction, another licensed plumber or professional engineer (as the case may be);
+
+(iv) the owner or occupier of the premises where the water service installation is situated; or
+
+(v) the consumer who is supplied water through the water service installation; and
+
+(d) for a direction under subsection (1)(e) —
+
+(i) the licensed plumber reasonably believed to have last carried out, or directly supervised the carrying out of, the non-conforming sanitary works;
+
+(ii) if the Board is of the opinion that the licensed plumber mentioned in sub-paragraph (i) is incapable of carrying out any requirement specified in the Board’s direction, another licensed plumber; or
+
+(iii) the owner or occupier of the premises where the non-conforming sanitary works are or were carried out.
+
+(3) A direction given under subsection (1) —
+
+(a) may require the person specified in subsection (2) to do, or to refrain from doing, such things as are specified in the direction or are of a description as specified in the direction;
+
+(b) is to take effect at such time, being the earliest practicable time, as is determined by or under that direction; and
+
+(c) may be revoked at any time by the Board.
+
+(4) The Board is not liable for any cost or expense incurred by any person specified in subsection (2) in complying with any direction given by the Board under this section.
+
+(5) Where a licensed plumber or professional engineer receives a direction from the Board under this section —
+
+(a) the licensed plumber or professional engineer (as the case may be) must notify the affected owner, occupier or consumer specified in subsection (2)(c)(iv) or (v) or (d)(iii), as the case may be, of the direction; and
+
+(b) the Board may disconnect or refuse to supply water through the water service installation until such time that the requirements of the Board specified in the direction have been complied with.
+
+(6) Any person to whom a direction is given under this section who fails to comply with the direction shall be guilty of an offence.
+
+(7) To avoid doubt, this section does not affect the application of section 11(2) of the Sewerage and Drainage Act.
+
+[Act 11 of 2018 wef 01/04/2018]
+
 ## PART IV
 
 SUPPLY OF PIPED WATER FOR HUMAN CONSUMPTION
@@ -1187,9 +1593,31 @@ SUPPLY OF PIPED WATER FOR HUMAN CONSUMPTION
 
 (c) revoke the approval or suspend it for such period as the Board considers appropriate.
 
-(8) The financial penalty imposed under subsection (7) shall be recoverable as a debt due to the Board.
+(8) The financial penalty imposed on a person under subsection (7) and any interest payable under subsection (8A) —
+
+(a) must be collected, and may be sued for and recovered, by the Board;
+
+(b) is to be treated as a debt due to the Government for the purposes of section 127 of the Bankruptcy Act (Cap. 20) and section 10 of the Government Proceedings Act (Cap. 121); and
+
+(c) must be paid into the Consolidated Fund upon such collection or recovery,
+
+and the person’s liability to pay is not affected by the person’s written approval under this section ceasing, for any reason, to be in force.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+(8A) Where the financial penalty imposed on a person under subsection (7) is not paid in full by the due date for payment (called in this section the outstanding sum), the person concerned is liable to pay interest at the prescribed rate on the outstanding sum.
+
+[Act 11 of 2018 wef 01/04/2018]
+
+(8B) The Board may recover as a debt in a court of competent jurisdiction, the outstanding sum and any interest payable under subsection (8A).
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (9) Any person who is aggrieved by a decision of the Board under subsection (7) may, within 14 days of the receipt by him of the decision, appeal to the Minister whose decision shall be final.
+
+(9A) Any decision of the Board appealed against under subsection (9) must be complied with until the determination of the appeal, except that any security or financial penalty that is the subject of the appeal need not be paid until the determination of the appeal.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (10) This section shall not apply to the supply of piped water for human consumption solely to the Board.
 
@@ -1227,13 +1655,15 @@ OFFENCES
 
 45\.—(1) Any person responsible for the maintenance of any water service installation shall ensure that the water service installation is properly maintained, kept in a fit and safe condition, and free from any defect.
 
-(2) Any person responsible for the maintenance of any water service installation in any residential, commercial or industrial premises having any master meter and water storage cistern shall, whenever the Board so requires, engage a water service worker who is a professional engineer registered under the Professional Engineers Act (Cap. 253) to inspect and certify that —
+(2) Any person responsible for the maintenance of any water service installation in any residential, commercial or industrial premises having any water storage cistern shall, whenever the Board so requires, engage a professional engineer to inspect and certify that —
 
 (a) the water service installation is fit and safe to use;
 
 (b) the water service installation is properly maintained and there is no contamination or pollution or likelihood of such contamination or pollution to the water in the water service installation; and
 
 (c) there is no leakage and no likelihood of leakage in the water service installation.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 [Act 9 of 2012 wef 01/09/2012]
 
@@ -1252,6 +1682,14 @@ of such non-compliance and the remedial measures that have to be taken by that p
 (6) The professional engineer shall issue a certificate of inspection and fitness to the person responsible for the maintenance of the water service installation if he is satisfied that the water service installation complies with all the requirements set out in subsection (2).
 
 (7) Any person who contravenes any of the provisions of this section shall be guilty of an offence.
+
+(8) Regulations made under section 72 may specify —
+
+(a) the persons responsible for the matters mentioned in subsections (1) and (2); and
+
+(b) additional responsibilities of any person responsible in relation to a water service installation, or any part of the water service installation.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 ### Duties of person laying pipes
 
@@ -1293,11 +1731,13 @@ of such non-compliance and the remedial measures that have to be taken by that p
 
 ### Damage to water mains and installations, etc.
 
-47A\.—(1) Any person who, whether wilfully or otherwise, removes, destroys or damages or causes or permits to be removed, destroyed or damaged, any water main belonging to or under the management or control of the Board, shall be guilty of an offence and shall be liable on conviction —
+47A\.—(1) Any person who, whether wilfully or otherwise, removes, destroys or damages or causes or permits to be removed, destroyed or damaged, any water main or connecting pipe belonging to or under the management or control of the Board, shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both; or
 
-(b) if the water main is 300 mm or more in diameter, to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both.
+(b) if the water main or connecting pipe is 300 mm or more in diameter, to a fine not exceeding $200,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (2) Any person who, whether wilfully or otherwise, removes, destroys or damages or causes or permits to be removed, destroyed or damaged any part of —
 
@@ -1309,19 +1749,29 @@ and thereby interferes with the production or supply of water by that installati
 
 (3) In any proceedings for an offence under subsection (1) or (2), it shall be a defence for the person charged under either of those subsections to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence, but this defence shall not be available to any person who may be liable by virtue of section 56A.
 
-(4) If it appears to the Board that there has been a contravention of subsection (1) or (2), the Board may, by notice in writing, require any person who has done any of the acts referred to in subsection (1) or (2) or such other person who may be liable under either of those subsections by virtue of section 56A (referred to in this section as the person in default) to carry out such works as may be necessary to restore the water main, installation or water installation to its original condition, or to replace it, within such time as may be specified in the notice.
+(4) If it appears to the Board that there has been a contravention of subsection (1) or (2), the Board may, by notice in writing, require any person who has done any of the acts referred to in subsection (1) or (2) or such other person who may be liable under either of those subsections by virtue of section 56A (referred to in this section as the person in default) to carry out such works as may be necessary to restore the water main, connecting pipe, installation or water installation to its original condition, or to replace it, within such time as may be specified in the notice.
 
-(5) If the Board is of the opinion that immediate action is necessary or expedient or that the water main, installation or water installation cannot be restored by the person in default, the Board may, instead of issuing the notice under subsection (4) —
+[Act 11 of 2018 wef 01/04/2018]
 
-(a) carry out such works as are necessary to restore the water main, installation or water installation to its original condition, or replace it; and
+(5) If the Board is of the opinion that immediate action is necessary or expedient or that the water main, connecting pipe, installation or water installation cannot be restored by the person in default, the Board may, instead of issuing the notice under subsection (4) —
+
+(a) carry out such works as are necessary to restore the water main, connecting pipe, installation or water installation to its original condition, or replace it; and
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (b) recover in a court of competent jurisdiction as a debt due to it all expenses reasonably incurred in doing so from the person in default.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (6) If the person to whom a notice is given under subsection (4) fails to comply with the notice within the time specified, the Board may carry out the works specified in the notice in such manner as it thinks fit and recover in a court of competent jurisdiction as a debt due to it all expenses reasonably incurred in doing so from the person in default.
 
 (7) Without prejudice to the right of the Board to exercise its powers under subsection (6), any person who, without reasonable excuse, fails to comply with a notice given to him under subsection (4) shall be guilty of an offence.
 
 [Act 9 of 2012 wef 01/09/2012]
+
+(8) In this section, a reference to a “water main” or “connecting pipe” includes, for a water main or connecting pipe situated beneath the seabed, any protective armour or casing surrounding the water main or connecting pipe.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 ### Compensation for damaging property of Board
 
@@ -1459,19 +1909,27 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Power to enter and investigate
 
-55B\. If an authorised officer has reasonable grounds to suspect that an offence under this Act has been committed, he may, at any time without notice, enter any premises and do all or any of the following for the purpose of investigating the suspected offence under this Act:
+55B\.—(1) An authorised officer may, at any time without notice, enter any premises or board any vessel in any reservoir or waterway, and do all or any of the following for the specified purposes:
 
-(a) search the premises and take possession of any thing found therein and reasonably believed to be connected to the commission of the offence;
+(a) search the premises or vessel and take possession of any thing found in the premises or vessel;
 
-(b) require the production of records, certificates, notices and documents relating or reasonably believed to relate to the offence, wherever and by whomsoever kept, and take and retain extracts or copies thereof;
+(b) require the production of, and take and retain extracts from or copies of, records, certificates, notices and documents (wherever and by whoever they are kept);
 
 (c) take and retain samples of any materials (whether solid, liquid, gaseous or vapour) found for the purpose of analysis;
 
-(d) take such photographs as the authorised officer thinks necessary for the purposes of the investigation;
+(d) take such photographs or video recordings as the authorised officer thinks necessary;
 
-(e) require any person whom the authorised officer finds in the premises to produce his identity card or other identification papers for inspection for the purpose of the investigation.
+(e) require any person whom the authorised officer finds in the premises or vessel to produce his identity card or other identification papers for inspection.
 
-[Act 9 of 2012 wef 01/09/2012]
+(2) In subsection (1), “specified purposes” means all or any of the following purposes:
+
+(a) to ascertain whether the requirements imposed by or under this Act are complied with;
+
+(b) to investigate a suspected offence under this Act;
+
+(c) to investigate whether there is any circumstance that may result in the suspension or cancellation of a plumber’s licence.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 ### Offences committed by bodies corporate, etc.
 
@@ -1505,11 +1963,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Composition of offences
 
-59\.—(1) The Board may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000 or, in the case of a compoundable offence under paragraph 10 of the Third Schedule, a sum not exceeding $500.
+59\.—(1) The Board may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Board may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
-(3) All sums collected under this section shall be paid to the Board.
+(3) All sums collected under this section shall be paid into the Consolidated Fund.
+
+[Act 11 of 2018 wef 01/04/2018]
 
 ## PART VI
 
@@ -1665,7 +2127,19 @@ MISCELLANEOUS
 
 (h) the regulation of the installation of water supplies and alterations thereto and the submission of plans and specifications in respect thereof;
 
-(i) the prescribing of materials of which pipes and other apparatus and fittings for use in connection with the supply of water, shall be made, and of the size, shape, fitting, arrangement, connection, workmanship, examination, testing, position and method of cleaning them;
+(i) the prescribing of materials of which pipes and other apparatus and fittings for use in connection with the supply, conveyance or distribution of water, shall be made, and of the size, shape, fitting, arrangement, connection, workmanship, examination, testing, position and method of cleaning them;
+
+[Act 11 of 2018 wef 01/04/2018]
+
+(ia) the regulation of the supply and use of water fittings, including —
+
+(i) the registration of suppliers of water fittings;
+
+(ii) the requirements for water fittings, the imposition of water efficiency practices for water fittings, and the labelling of water fittings; and
+
+(iii) the recall of water fittings;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (j) the prescribing of the types of apparatus or water appliances to be used and the prohibition of the use of certain types thereof;
 
@@ -1673,13 +2147,15 @@ MISCELLANEOUS
 
 (l) the prescribing of the methods of charging consumers for water consumed in the event of any meter becoming out of order;
 
-(m) in relation to water service worker licences —
+(m) in relation to the regulation of regulated works or WSI design works —
 
-(i) the class or classes of licences to be granted, the form and duration of those licences, the terms and conditions upon which, and the circumstances in which, those licences may be granted, held, suspended, cancelled, altered, extended, renewed or replaced and the fees payable in respect thereof;
+(i) the process for an application for a plumber’s licence, the form of a plumber’s licence, and the replacement of a plumber’s licence;
 
-(ii) the qualifications and other requirements for applicants for such licences, the examination or testing of such applicants, the fees payable in respect of such examination or testing and the circumstances in and conditions on which an applicant may be exempted from such examination or testing; and
+(ii) the duties of licensed plumbers in respect of any regulated works; and
 
-(iii) the duties and responsibilities of licensed water service workers;
+(iii) the duties of professional engineers in respect of any WSI design works;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (n) in relation to the regulation of activities in and around reservoirs and waterways maintained by the Board —
 
@@ -1687,15 +2163,25 @@ MISCELLANEOUS
 
 (ii) the types of vessels which may be operated in the reservoirs and waterways, the permits required for such operation, the terms and conditions upon which, and the circumstances in which, those permits may be granted, held, suspended, cancelled, altered, extended, renewed or replaced, and the fees payable in respect thereof;
 
+(iia) the requirements relating to the use, stowage, storage, conveyance, loading or unloading of dangerous cargoes on such vessels, including the requirement to obtain the Board’s approval and the fees payable for such approval;
+
+[Act 11 of 2018 wef 01/04/2018]
+
 (iii) the equipment to be carried on such vessels and the insurance and safety requirements for such vessels;
 
 (iv) the qualifications for operators of such vessels;
 
 (v) the safety of navigation, the prevention of collisions and the reporting of accidents in reservoirs and waterways; and
 
-(vi) the use of any boat transfer facility in or connecting to any reservoir and the fees payable in respect thereof;
+(vi) the use of any boat transfer facility in or connecting to any reservoir or waterway and the fees payable in respect thereof;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 [Act 9 of 2012 wef 01/09/2012]
+
+(na) the issue of an order by the Board to stop any activity that has caused damage, or is likely to cause damage, to any apparatus, appliance, fittings, pipes and works belonging to the Board used in connection with the collection, production, conveyance or supply of water;
+
+[Act 11 of 2018 wef 01/04/2018]
 
 (o) the prescribing of fees and charges for the purposes of this Act or any other written law administered by the Board or for the carrying out of any function of the Board.
 
@@ -1809,19 +2295,7 @@ Disqualification from membership
 
 (c) is incapacitated by physical or mental illness.
 
-Disclosure of interest by members
-
-9.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Board shall disclose the nature of his interest at the first meeting of the Board at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Board and, after the disclosure, that member —
-
-(a) shall not take part in any deliberation or decision of the Board with respect to that transaction or project; and
-
-(b) shall be disregarded for the purpose of constituting a quorum of the Board for such deliberation or decision.
-
-(3) No act or proceedings of the Board shall be questioned on the ground that a member has contravened this paragraph.
-
-(4) For the purposes of this paragraph, a member whose spouse, parent, son, adopted son, daughter or adopted daughter has an interest in the transaction or project referred to in sub-paragraph (1) shall be deemed to be interested in such transaction or project.
+9\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Sealing of documents
 
@@ -1855,17 +2329,23 @@ Procedure at meetings
 
 14.—(1) The Chairman or any other officer authorised by him shall, subject to such standing orders as may be made by the Board under sub-paragraph (2), summon all meetings of the Board for the despatch of business.
 
-(2) Subject to the provisions of this Act, the Board may make standing orders to regulate its own procedure generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
+(2) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may make standing orders to regulate its own procedure generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 Appointment of committees and delegation of powers
 
 15.—(1) The Board may, in its discretion, appoint from among its own members or persons who are not members such number of committees as it thinks fit consisting of members or other persons or members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
 
-(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman, all or any of the powers, functions and duties vested in the Board by this Act or other written law, except the powers to make regulations, prescribe or levy dues and rates and borrow money.
+(2) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman, all or any of the powers, functions and duties vested in the Board by this Act or other written law, except the powers to prescribe or levy dues and rates and borrow money.
 
-(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Board or any person all or any of its powers, functions and duties vested in the Board by this Act or other written law, except the powers to make regulations, prescribe or levy dues and rates and borrow money; and any power, function or duty so delegated may be exercised or performed by the employee or person in the name and on behalf of the Board.
+[Act 5 of 2018 wef 01/04/2018]
 
-(4) The Board may continue to exercise a power conferred upon it, or perform a function or duty under this Act or other written law, notwithstanding the delegation of the power, function or duty under this paragraph.
+(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Board or any person all or any of its powers, functions and duties vested in the Board by this Act or other written law, except the powers to prescribe or levy dues and rates and borrow money; and any power, function or duty so delegated may be exercised or performed by the employee or person in the name and on behalf of the Board.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 SECOND SCHEDULE
 
@@ -1917,65 +2397,31 @@ Financial year
 
 Accounts of Board
 
-2.—(1) The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
+2.—(1) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (2) The Board shall keep separate accounts in respect of the water undertaking, sewerage function and drainage function of the Board.
 
-Auditor
+3\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-3\. The accounts of the Board shall be audited by the Auditor-General or by an auditor appointed annually by the Minister in consultation with the Auditor-General.
+4\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-Appointment of auditor
+5\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-4\. A person shall not be qualified for appointment as an auditor under paragraph 3 unless he is an approved company auditor under the Companies Act (Cap. 50).
+6\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-Remuneration of auditor
+7\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-5\. The remuneration of the auditor shall be paid out of the funds of the Board.
+8\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-Annual financial statements
+9\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-6\. The Board shall, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
+10\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-Duties of auditor
+11\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-7. The auditor shall in his report state —
+12\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Board;
-
-(b) whether proper accounting and other records have been kept including records of all assets of the Board whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Board during the year have been in accordance with this Act; and
-
-(d) such other matters arising from the audit as he considers should be reported.
-
-Auditor’s report
-
-8\. The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Minister and to the Board, and shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
-
-Powers of auditor
-
-9.—(1) The auditor or any person authorised by him is entitled at any reasonable time to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Board.
-
-(2) The auditor or a person authorised by him may make copies of, or make extracts from, any such accounting and other records.
-
-(3) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or any duly authorised person considers necessary for the purposes of his functions under this Act.
-
-Penalty for obstructing auditor
-
-10\. Any person who fails, without any reasonable cause, to comply with any requirement of the auditor or authorised person under paragraph 9 or who otherwise hinders, obstructs or delays the auditor or authorised person in the performance of his functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
-
-Presentation of audited financial statements and auditor’s report
-
-11\. As soon as the accounts of the Board and the financial statements have been audited in accordance with this Act, a copy of the audited financial statements signed by the Chairman and the Chief Executive, together with a copy of any report made by the auditor, shall be submitted to the Minister.
-
-Copy of auditor’s report for Auditor-General
-
-12\. Where the Auditor-General is not appointed as the auditor, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Board.
-
-Presentation to Parliament
-
-13\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+13\. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 FOURTH SCHEDULE
 
@@ -2115,6 +2561,16 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
+|13.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017|
+|||(Bill No. 45/2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
+|14.|**Act 11 of 2018—Public Utilities (Amendment) Act 2018**|
+||Date of First Reading|[8 January 2018|
+|||(Bill No. 4/2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Public Utilities Act
