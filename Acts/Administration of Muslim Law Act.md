@@ -66,7 +66,7 @@
 
 - [27 Secrecy](#Secrecy)
 
-- [28 Public servant](#Public-servant)
+- [28 (Repealed)](#Repealed)
 
 - [29 Majlis may prescribe own procedure](#Majlis-may-prescribe-own-procedure)
 
@@ -392,9 +392,9 @@ Preliminary
 
 “Appeal Board” means an Appeal Board constituted under section 55;
 
-“Chief Executive” means the Chief Executive of the Majlis appointed under section 7A, and includes any person acting in that capacity;
+“Chief Executive” means the Chief Executive of the Majlis, and includes any individual acting in that capacity;
 
-[Act 35 of 2005 wef 07/08/2013]
+[Act 5 of 2018 wef 01/04/2018]
 
 “court” means a court of competent jurisdiction, other than the Syariah Court;
 
@@ -574,19 +574,15 @@ MAJLIS UGAMA ISLAM
 
 ### Chief Executive
 
-7A\.—(1) The Majlis may, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Majlis may determine.
+7A\.—(1) There must be a Chief Executive of the Majlis, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+(2) The Majlis may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(a) be known by such designation as the Majlis may determine;
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Majlis for the proper administration and management of the functions and affairs of the Majlis in accordance with the policies laid down by the Majlis; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) not be removed from office without the consent of the Minister.
-
-(3) In the event of the temporary absence or incapacity of the Chief Executive, the Majlis may, with the approval of the Minister, appoint a person to act temporarily on his behalf.
-
-[Act 35 of 2005 wef 07/08/2013]
+[Act 5 of 2018 wef 01/04/2018]
 
 8\. [Repealed by Act 33 of 2017 wef 01/01/2018]
 
@@ -788,9 +784,7 @@ MAJLIS UGAMA ISLAM
 
 [20/99]
 
-(4) The Majlis may continue to exercise a power conferred on it or perform a function under this Act or any other written law notwithstanding the delegation of such power or function under this section.
-
-[20/99]
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (5) For the purposes of this section, the powers conferred on the Majlis by sections 32 and 33 shall be deemed to be quasi-judicial.
 
@@ -800,15 +794,17 @@ MAJLIS UGAMA ISLAM
 
 27\.—(1) The proceedings of the Majlis shall be secret.
 
-(2) No member or servant of the Majlis shall disclose or divulge to any person, other than the President of Singapore or the Minister or any member of the Majlis, any matter which has arisen at any meeting unless he is expressly authorised to do so.
+(2) No member or servant of the Majlis shall disclose or divulge to any person, other than the President of Singapore or the Minister or any member of the Majlis, any matter which has arisen at any meeting unless he is expressly authorised or allowed by the provisions of any written law to do so.
 
-### Public servant
+[Act 5 of 2018 wef 01/04/2018]
 
-28\. The members of the Majlis shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+28\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Majlis may prescribe own procedure
 
-29\.—(1) The Majlis may, subject to the provisions of this Act, determine all questions relating to its own procedure and practice.
+29\.—(1) The Majlis may, subject to the provisions of this Act and the Public Sector (Governance) Act 2018, determine all questions relating to its own procedure and practice.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) All communications from the Majlis to the President of Singapore shall be forwarded through the Minister.
 
@@ -3283,6 +3279,11 @@ This Legislative History is provided for the convenience of users of the Adminis
 ||Date of First Reading|3 July 2017 (Bill No. 27/2017 published on 3 July 2017)|
 ||Date of Second and Third Readings|1 August 2017|
 ||Date of commencement|1 January 2018|
+|28.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017|
+|||(Bill No. 45/2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Administration of Muslim Law Act
