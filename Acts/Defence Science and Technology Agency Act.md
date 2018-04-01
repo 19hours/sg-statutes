@@ -32,13 +32,13 @@
 
 [**Part IV PROVISIONS RELATING TO STAFF**](#Part-IV)
 
-- [10 Appointment of Chief Executive](#Appointment-of-Chief-Executive)
+- [10 Chief Executive](#Chief-Executive)
 
 - [11 Appointment of officers, employees, other persons, etc., and prohibition of strikes](#Appointment-of-officers-employees-other-persons-etc-and-prohibition-of-strikes)
 
 - [12 Protection from personal liability](#Protection-from-personal-liability)
 
-- [13 Public servants and public officers](#Public-servants-and-public-officers)
+- [13 (Repealed)](#Repealed)
 
 [**Part V FINANCIAL PROVISIONS**](#Part-V)
 
@@ -48,7 +48,7 @@
 
 - [16 Bank accounts and application of moneys](#Bank-accounts-and-application-of-moneys)
 
-- [17 Annual estimates](#Annual-estimates)
+- [17 Minister’s approval of estimates](#Minister’s-approval-of-estimates)
 
 - [18 Power of investment](#Power-of-investment)
 
@@ -80,7 +80,7 @@
 
 [**Part VII MISCELLANEOUS PROVISIONS**](#Part-VII)
 
-- [30 Annual report](#Annual-report)
+- [30 Presenting annual report to committee](#Presenting-annual-report-to-committee)
 
 - [31 Symbol or representation of Agency](#Symbol-or-representation-of-Agency)
 
@@ -126,7 +126,9 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the board and includes any temporary Chairman of the board;
 
-“Chief Executive” means the Chief Executive of the Agency appointed under section 10 and includes any person acting in that capacity;
+“Chief Executive” means the Chief Executive of the Agency, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “director” means a director of the board;
 
@@ -256,7 +258,9 @@ MISSION, FUNCTIONS AND POWERS OF AGENCY
 
 ### Directions by Minister
 
-8\.—(1) The Minister may give to the Agency such directions, not inconsistent with the provisions of this Act, as he thinks fit as to the performance of its functions and the exercise of its powers, and the Agency shall give effect to such directions.
+8\.—(1) The Minister may give to the Agency any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Agency shall furnish the Minister with such information in respect of its property and activities in such manner and at such times as the Minister may require.
 
@@ -268,29 +272,29 @@ MISSION, FUNCTIONS AND POWERS OF AGENCY
 
 (3) Any function or power delegated under subsection (2) to any committee or person may be performed or exercised by the committee or the person to whom it has been delegated, as the case may be, in the name and on behalf of the Agency.
 
-(4) The board may continue to administer any function or to exercise any power of the Agency notwithstanding the delegation of such function or power under this section.
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## PART IV
 
 PROVISIONS RELATING TO STAFF
 
-### Appointment of Chief Executive
+### Chief Executive
 
-10\.—(1) The Agency shall, with the approval of the Minister, appoint a Chief Executive of the Agency on such terms and conditions as the Agency may determine.
+10\.—(1) There must be a Chief Executive of the Agency, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+(2) The Commission may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(a) be known by such designation as the Agency may determine;
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Agency for the proper administration and management of the functions and affairs of the Agency in accordance with the policy laid down by the Agency; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) not be removed from office without the consent of the Minister.
-
-(3) If the Chief Executive is unable to perform his duties for any period, by reason of absence from Singapore, illness or for any other reason, another person may be appointed by the Agency to act in the place of the Chief Executive during such period.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of officers, employees, other persons, etc., and prohibition of strikes
 
-11\.—(1) The Agency may, from time to time, appoint and employ on such terms and conditions as the Agency may determine such other officers, employees, consultants, agents and other persons as the Agency considers necessary for the performance of its functions.
+11\.—(1) The Agency may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) If it appears to the Minister to be necessary for the public safety, defence or security of Singapore, the Minister may require any employee of the Agency to continue in the employment of the Agency for such period as the Minister may determine, and the employee shall continue in the employment of the Agency for that period.
 
@@ -310,15 +314,7 @@ PROVISIONS RELATING TO STAFF
 
 12\. No suit or other legal proceedings shall lie personally against any director, officer or employee of the Agency or other person acting under the direction of the Agency for anything which is in good faith done or intended to be done in the execution or purported execution of this Act or any other written law.
 
-### Public servants and public officers
-
-13\. All directors, officers and employees of the Agency (including persons seconded to the Agency for any period) shall be deemed to be —
-
-(a) public officers for the purposes of the Financial Procedure Act (Cap. 109) in relation to all contracts entered into, administered, or managed by the Agency on behalf of the Ministry of Defence, and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government;
-
-(b) public officers for the purposes of the Government Contracts Act (Cap. 118); and
-
-(c) public servants for the purposes of the Penal Code (Cap. 224).
+13\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART V
 
@@ -376,13 +372,15 @@ FINANCIAL PROVISIONS
 
 (2) The moneys of the Agency shall be applied only in payment or discharge of the expenses, obligations and liabilities of the Agency and in making any payment that the Agency is authorised or required to make.
 
-### Annual estimates
+### Minister’s approval of estimates
 
-17\.—(1) The Agency shall in every financial year prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Agency for the ensuing financial year.
+17\.—(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Agency, be sent without delay to the Minister.
 
-(2) Supplementary estimates may be adopted by the Agency at any of its meetings.
+(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.
 
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Agency, be sent forthwith to the Minister who may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by the Minister to the Agency, and the Agency shall be bound thereby.
+(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Agency, and the Agency is bound by the Minister’s decision.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Power of investment
 
@@ -472,11 +470,11 @@ TRANSFER OF PROPERTY, ASSETS, LIABILITIES AND EMPLOYEES
 
 MISCELLANEOUS PROVISIONS
 
-### Annual report
+### Presenting annual report to committee
 
-30\.—(1) The Agency shall, as soon as practicable after the end of each financial year, submit to the Minister an annual report on the activities of the Agency during that financial year.
+30\. The Minister must cause a copy of every annual report on the activities of the Agency to be presented to a committee appointed by the Prime Minister.
 
-(2) The Minister shall cause a copy of every such report to be presented to a committee appointed by the Prime Minister.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Symbol or representation of Agency
 
@@ -486,7 +484,9 @@ MISCELLANEOUS PROVISIONS
 
 ### Preservation of secrecy
 
-32\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been a director, an officer, employee, former employee or agent of the Agency or a member of a committee of the Agency shall disclose any information or matter relating to the affairs of the Agency or of any other person which has been obtained by him in the performance of his duties or the exercise of his functions.
+32\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, no person who is or has been a director, an officer, employee, former employee or agent of the Agency or a member of a committee of the Agency shall disclose any information or matter relating to the affairs of the Agency or of any other person which has been obtained by him in the performance of his duties or the exercise of his functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -588,7 +588,9 @@ Meetings and proceedings of board
 
 (5) The validity of any proceedings of the board shall not be affected by any vacancy amongst its directors or by any defect in the appointment of any director.
 
-(6) Subject to the provisions of this Act, the board may regulate its own proceedings.
+(6) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the board may regulate its own proceedings.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 SECOND SCHEDULE
 
@@ -600,9 +602,7 @@ Financial year
 
 1\\. The financial year of the Agency shall begin on 1st April of each year and end on 31st March of the succeeding year.
 
-Accounts of Agency
-
-2\\. The Agency shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Agency and over the expenditure incurred by the Agency.
+2\.  [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Financial statements
 
@@ -652,7 +652,9 @@ Presentation of audited financial statements and auditor’s report
 
 10\. —(1) As soon as the accounts of the Agency and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman and certified by the auditor, together with a copy of any report made by the auditor, shall be submitted to the Minister.
 
-(2) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to the committee appointed by the Prime Minister under section 30(2).
+(2) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to the committee appointed by the Prime Minister under section 30.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -696,3 +698,7 @@ This Legislative History is provided for the convenience of users of the Defence
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010 (Item 1(14) of Second Schedule)|
+|7.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
