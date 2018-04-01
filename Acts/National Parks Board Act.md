@@ -34,13 +34,13 @@
 
 - [11 Protection from personal liability](#Protection-from-personal-liability)
 
-- [12 Annual report](#Annual-report)
+- [12 (Repealed)](#Repealed)
 
 [**Part IV PROVISIONS RELATING TO STAFF**](#Part-IV)
 
-- [13 Appointment of Chief Executive and other employees](#Appointment-of-Chief-Executive-and-other-employees)
+- [13 Chief Executive, officers and employees, etc.](#Chief-Executive-officers-and-employees-etc)
 
-- [14 Public servants](#Public-servants)
+- [14 (Repealed)](#Repealed)
 
 [**Part V FINANCIAL PROVISIONS**](#Part-V)
 
@@ -52,9 +52,9 @@
 
 - [17 Power of investment](#Power-of-investment)
 
-- [18 Annual estimates](#Annual-estimates)
+- [18 Minister’s approval of estimates](#Minister’s-approval-of-estimates)
 
-- [19 Financial provisions](#Financial-provisions)
+- [19 Financial year](#Financial-year)
 
 [**Part VI TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES TO BOARD**](#Part-VI)
 
@@ -110,7 +110,7 @@
 
 [**SECOND SCHEDULE Powers of Board**](#SECOND-SCHEDULE-Powers-of-Board)
 
-[**THIRD SCHEDULE Financial Provisions**](#THIRD-SCHEDULE-Financial-Provisions)
+[**THIRD SCHEDULE Repealed**](#THIRD-SCHEDULE-Repealed)
 
 [**FOURTH SCHEDULE Provisions relating to Transfer of Employees**](#FOURTH-SCHEDULE-Provisions-relating-to-Transfer-of-Employees)
 
@@ -262,7 +262,9 @@ FUNCTIONS AND POWERS OF BOARD
 
 ### Directions of Minister
 
-8\.—(1) The Minister may, after consultation with the Board, give to the Board such directions, not inconsistent with the provisions of this Act, as he thinks fit, as to the exercise of the functions of the Board under this Act, and the Board shall give effect to all such directions.
+8\.—(1) The Minister may, after consulting the Board, give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Board shall furnish the Minister with such information or facilities for obtaining information with respect to its property and activities in such manner and at such times as the Minister may require.
 
@@ -280,53 +282,33 @@ FUNCTIONS AND POWERS OF BOARD
 
 (4) Any power, function or duty delegated under subsection (3) may be exercised or performed by such member, employee or person in the name and on behalf of the Board.
 
-(5) The Board may continue to exercise a power conferred upon it, or perform a function or duty under this Act or any other written law, notwithstanding the delegation of such power, function or duty under this section.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Protection from personal liability
 
 11\. No suit or other proceedings shall lie personally against any member or employee of the Board or any other person acting under the direction of the Board in respect of anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
-### Annual report
-
-12\.—(1) The Board shall, as soon as practicable after the close of each financial year, submit to the Minister an annual report on the activities of the Board during the preceding financial year.
-
-(2) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
+12\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART IV
 
 PROVISIONS RELATING TO STAFF
 
-### Appointment of Chief Executive and other employees
+### Chief Executive, officers and employees, etc.
 
-13\.—(1) The Board shall, after consultation with the Public Service Commission and with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Board may determine.
+13\.—(1) There must be a Chief Executive of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+(2) The Board may appoint, subject to the Public Sector (Governance) Act 2018, an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(a) be known by such designation as the Board may determine;
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Board for the proper administration and management of the functions and affairs of the Board in accordance with the policy laid down by the Board; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) not be removed from office without the consent of the Minister.
+(3) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(3) If the Chief Executive is temporarily absent from Singapore, or is temporarily unable to perform his duties by reason of illness or otherwise, another person may be appointed by the Board to act in the place of the Chief Executive during any such period of absence from duty.
+[Act 5 of 2018 wef 01/04/2018]
 
-(4) The Board may, from time to time, appoint such other employees and agents as it thinks fit for the effective performance of its functions on such terms and conditions as the Board may determine and may terminate the appointment of such employees and agents.
-
-### Public servants
-
-14\.—(1) All members, employees and agents of the Board are taken to be public servants for the purposes of the Penal Code (Cap. 224).
-
-(2) The members, officers and employees of the Board are, in relation to —
-
-(a) their administration, collection and enforcement of payment of composition sums under any Act administered by the Board; and
-
-(b) the management of State land in connection with the performance of any function under section 6(1)(a), (b), (ba), (g) or (i),
-
-taken to be public officers for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to each of these persons even though they are not or were not in the employment of the Government.
-
-(3) In this section, a reference to officers and employees of the Board includes a reference to persons seconded to the Board for any period.
-
-[Act 9 of 2017 wef 20/11/2017]
+14\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART V
 
@@ -354,17 +336,21 @@ FINANCIAL PROVISIONS
 
 [45/2004]
 
-### Annual estimates
+### Minister’s approval of estimates
 
-18\.—(1) The Board shall in every year prepare and adopt annual estimates of income and expenditure of the Board for the ensuing year.
+18\.—(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Board, be sent without delay to the Minister.
 
-(2) Supplementary estimates may be adopted by the Board at any of its meetings.
+(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.
 
-(3) A copy of all annual and supplementary estimates shall, upon their adoption by the Board, be sent forthwith to the Minister who may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by him to the Board, and the Board shall be bound thereby.
+(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Board, and the Board is bound by the Minister’s decision.
 
-### Financial provisions
+[Act 5 of 2018 wef 01/04/2018]
 
-19\. The financial provisions set out in the Third Schedule shall have effect with respect to the Board.
+### Financial year
+
+19\. The financial year of the Board begins on 1 April of each year and ends on 31 March of the succeeding year.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ## PART VI
 
@@ -512,9 +498,7 @@ Constitution and Proceedings of Board
 
 (c) is mentally disordered and incapable of managing himself or his affairs.
 
-10.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Board shall disclose the nature of his interest at a meeting of the Board and the disclosure shall be recorded in the minutes of the Board and the member shall not take part in any deliberation of the Board with respect to that transaction or project.
-
-(2) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under sub-paragraph (1) he cannot vote or has withdrawn from the meeting.
+10. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 11\. There shall be paid to the Chairman and other members, out of the funds of the Board, such salaries, fees and allowances as the Minister may, from time to time, determine.
 
@@ -532,11 +516,15 @@ Constitution and Proceedings of Board
 
 13\. The Board may act notwithstanding any vacancy in its membership.
 
-14\. Subject to the provisions of this Act, the Board may make rules to regulate its own procedure generally, and in particular, regarding the holding and proceedings of meetings, the notice to be given of such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
+14. Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may make rules to regulate its own procedure generally, and in particular, regarding the holding and proceedings of meetings, the notice to be given of such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
 
-15. The validity of any proceedings of the Board shall not be affected by any defect in the appointment of any member or by any contravention of paragraph 10 by any member.
+[Act 5 of 2018 wef 01/04/2018]
+
+15. The validity of any proceedings of the Board shall not be affected by any defect in the appointment of any member.
 
 [4/2005; 21/2008]
+
+[Act 5 of 2018 wef 01/04/2018]
 
 SECOND SCHEDULE
 
@@ -612,45 +600,7 @@ Powers of Board
 
 THIRD SCHEDULE
 
-Section 19
-
-Financial Provisions
-
-1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the following year.
-
-2\. The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
-
-3\. The Board shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of that year to the auditor of the Board.
-
-4.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
-
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
-
-(3) The remuneration of the auditor shall be paid out of the funds of the Board.
-
-5\. The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Board and may make copies of, or extracts from, any such accounting and other records.
-
-6.—(1) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Board;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Board whether purchased, donated or otherwise;
-
-(c) whether receipts, expenditure, and investment of moneys and the acquisition and disposal of assets by the Board during the financial year were in accordance with this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-(2) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Board and shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
-
-7.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-(2) Any person who fails without reasonable excuse to comply with any requirement of the auditor under sub-paragraph (1) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
-
-8.—(1) The Board shall, as soon as the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
-
-(2) Where the Auditor-General is not the auditor of the Board, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
-
-(3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+[Deleted by Act 5 of 2018 wef 01/04/2018]
 
 FOURTH SCHEDULE
 
@@ -729,3 +679,7 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of First Reading|9 January 2017 (Bill No. 4/2017 published on 9 January 2017)|
 ||Date of Second and Third Readings|7 February 2017|
 ||Date of commencement|20 November 2017|
+|11.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
