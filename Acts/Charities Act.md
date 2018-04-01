@@ -44,7 +44,7 @@
 
 - [12 Duty to keep accounting records](#Duty-to-keep-accounting-records)
 
-- [13 Annual statements of accounts](#Annual-statements-of-accounts)
+- [13 Financial statements](#Financial-statements)
 
 - [14 Annual audit or examination of charity accounts](#Annual-audit-or-examination-of-charity-accounts)
 
@@ -82,9 +82,9 @@
 
 - [26B Power to direct application of charity property after charity ceases to exist](#Power-to-direct-application-of-charity-property-after-charity-ceases-to-exist)
 
-- [27 Persons disqualified from being governing board members, etc., of a charity](#Persons-disqualified-from-being-governing-board-members-etc-of-a-charity)
+- [27 Disqualifications and effects of removal](#Disqualifications-and-effects-of-removal)
 
-- [28 Persons acting as governing board member, etc., while disqualified](#Persons-acting-as-governing-board-member-etc-while-disqualified)
+- [28 Persons acting in capacity from which disqualified](#Persons-acting-in-capacity-from-which-disqualified)
 
 - [29 Publicity for proceedings under this Part](#Publicity-for-proceedings-under-this-Part)
 
@@ -106,7 +106,7 @@
 
 - [39A Prohibition on conducting fund-raising appeal without permit](#Prohibition-on-conducting-fund-raising-appeal-without-permit)
 
-- [39B Power of Commissioner to prohibit or restrict fund-raising appeal](#Power-of-Commissioner-to-prohibit-or-restrict-fund-raising-appeal)
+- [39B Power of Commissioner to prohibit or restrict, or suspend, fund-raising appeal](#Power-of-Commissioner-to-prohibit-or-restrict-or-suspend-fund-raising-appeal)
 
 - [39C Regulations relating to fund-raising appeals](#Regulations-relating-to-fund-raising-appeals)
 
@@ -136,7 +136,9 @@
 
 - [43A Holding out as registered charity or institution of a public character](#Holding-out-as-registered-charity-or-institution-of-a-public-character)
 
-- [44 Offences by bodies corporate](#Offences-by-bodies-corporate)
+- [44 Offences by corporations](#Offences-by-corporations)
+
+- [44A Offences by unincorporated associations or partnerships](#Offences-by-unincorporated-associations-or-partnerships)
 
 - [45 Enforcement of orders of Commissioner](#Enforcement-of-orders-of-Commissioner)
 
@@ -208,6 +210,10 @@ PRELIMINARY
 
 (b) any reference to the furnishing of a copy of, or extract from, it shall accordingly be construed as a reference to the furnishing of a copy of, or extract from, it in legible form;
 
+“electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88);
+
+[Act 2 of 2018 wef 01/04/2018]
+
 “exempt charity” means a charity specified in the Schedule;
 
 “financial year” —
@@ -230,13 +236,35 @@ PRELIMINARY
 
 “institution” includes any trust or undertaking;
 
-“key officer” means an officer of a charity, whether or not an employee of the charity, having the general control and management of the administration of the charity, and includes any person, by whatever name called, who exercises such general control and management;
+“key officer”, in relation to —
 
-[34/2010 wef 01/03/2011]
+(a) a charity;
+
+(b) a person that is a governing board member of a charity; or
+
+(c) a person that is a member of a charity,
+
+means an individual who, whether or not an employee of the charity or person (as the case may be) and by whatever name called, and whether acting alone or together with any other person —
+
+(i) has general control and management of all or any aspect (including the financial aspect) of the administration of the charity or person; or
+
+(ii) provides advice to the charity or person on the control and management mentioned in paragraph (i), other than as a professional engaged or retained pursuant to a contract for service to provide such advice in that professional capacity;
+
+[Act 2 of 2018 wef 01/04/2018]
 
 “public accountant” means a person who is registered or deemed to be registered under the Accountants Act (Cap. 2) as a public accountant;
 
 [34/2010 wef 01/03/2011]
+
+“public authority” means —
+
+(a) an Organ of State or a public officer of the Organ of State;
+
+(b) a ministry or department of the Government or a public officer of the ministry or department; or
+
+(c) a public authority established by or under any public Act for a public purpose or an officer or an employee of the public authority;
+
+[Act 2 of 2018 wef 01/04/2018]
 
 “trustee” has the same meaning as in the Trustees Act (Cap. 337).
 
@@ -253,6 +281,16 @@ but without (in either case) bringing into account anything for the annual value
 (3) The Commissioner may direct that, for all or any of the purposes of this Act, an institution established for any special purposes of or in connection with a charity (being charitable purposes) shall be treated as forming part of that charity or as forming a distinct charity.
 
 [Charities Act 1985 Ed., s. 2]
+
+(4) In this Act, a person’s conviction is treated as spent —
+
+(a) if the criminal record under the Registration of Criminals Act (Cap. 268) of the person’s conviction becomes spent under Part IIA of that Act;
+
+(b) if the person has received a free pardon for the offence; or
+
+(c) in the case of a conviction by a court of a country or territory outside Singapore, if circumstances in that country or territory similar to paragraph (a) or (b) occur.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 ## PART II
 
@@ -400,7 +438,9 @@ REGISTRATION OF CHARITIES AND PROVISIONS FOR INQUIRING INTO CHARITIES
 
 [34/2010 wef 01/03/2011]
 
-and any person who makes default in carrying out any of the duties imposed by this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction, and the Commissioner may by order require that person to make good that default.
+and any person who makes default in carrying out any of the duties imposed by this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction, and the Commissioner may by order require that person to make good that default.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [26/2001]
 
@@ -498,7 +538,9 @@ and any reference in this subsection to the name of a charity is, in relation to
 
 (c) to attend at a specified time and place and give evidence or produce any such documents,
 
-and any person who fails to comply with any requirement specified in the order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+and any person who fails to comply with any requirement specified in the order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (4) For the purposes of any such inquiry, evidence may be taken on oath, and the person conducting the inquiry may for that purpose administer oaths, or may instead of administering an oath require the person examined to make and subscribe a declaration of the truth of the matters about which he is examined.
 
@@ -508,9 +550,11 @@ and any person who fails to comply with any requirement specified in the order s
 
 (7) A document purporting to be a certificate issued for the purposes of subsection (6) shall be received in evidence and be deemed to be such a certificate unless the contrary is proved.
 
-(8) If any person wilfully alters, suppresses, conceals or destroys any document which he may be required to produce under this section, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(8) If any person wilfully alters, suppresses, conceals or destroys any document which he may be required to produce under this section, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [Charities Act 1985 Ed., s. 7]
+
+[Act 2 of 2018 wef 01/04/2018]
 
 9\. [Repealed by Act 34/2010 wef 01/03/2011]
 
@@ -528,7 +572,9 @@ CHARITY ACCOUNTS, REPORTS AND RETURNS
 
 (a) disclose at any time, with reasonable accuracy, the financial position of the charity at that time; and
 
-(b) enable the governing board members to ensure that, where any statements of accounts are prepared by them under regulations made under section 13, those statements of accounts comply with the requirements of those regulations.
+(b) enable the governing board members to ensure that, where any financial statements are prepared by them under regulations made under section 13, those financial statements comply with the requirements of those regulations.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [34/2010 wef 01/03/2011]
 
@@ -538,23 +584,33 @@ CHARITY ACCOUNTS, REPORTS AND RETURNS
 
 (b) a record of the assets and liabilities of the charity.
 
-(3) The governing board members of a charity shall preserve any accounting records made for the purposes of this section in respect of the charity for at least 5 years from the end of the financial year of the charity in which they are made.
+(3) Subject to subsection (4), the governing board members of a charity shall preserve any accounting records made for the purposes of this section in respect of the charity for at least 5 years after the end of the financial year of the charity in which they are made.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [34/2010 wef 01/03/2011]
 
 [2/2007]
 
-(4) Where a charity ceases to exist within the period of 5 years mentioned in subsection (3) as it applies to any accounting records, the obligation to preserve those records in accordance with that subsection shall continue to be discharged by the last governing board members of the charity, unless the Commissioner consents in writing to the records being destroyed or otherwise disposed of.
+(4) Where a charity ceases to exist before the end of the minimum period in subsection (3) for preserving of accounting records in respect of the charity —
 
-[34/2010 wef 01/03/2011]
+(a) the last governing board members of the charity; or
 
-(5) [Deleted by Act 34 of 2010 wef 01/03/2011]
+(b) any one or more of the last governing board members of the charity, as may be agreed by the last governing board members,
 
-### Annual statements of accounts
+must preserve the accounting records to the end of that period, unless the Commissioner allows the accounting records to be earlier destroyed or otherwise disposed of.
+
+(5) Subsection (4) also applies to a charity that ceases to exist before the date of commencement of section 3(d) of the Charities (Amendment) Act 2018, if the minimum period in subsection (3) as it applies to any accounting record of the charity has not ended on that date.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+### Financial statements
 
 13\.—(1) The Minister may make regulations relating to the financial reporting requirements for charities, including provisions —
 
-(a) allowing the governing board members of specified classes of charities to prepare a receipts and payments account and a statement of assets and liabilities instead of a statement of accounts in respect of any financial year of the charity;
+(a) allowing the governing board members of specified classes of charities to prepare a receipts and payments account and a statement of assets and liabilities instead of financial statements in respect of any financial year of the charity;
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (b) prescribing requirements as to the form and contents of accounts and statements of charities;
 
@@ -572,11 +628,23 @@ CHARITY ACCOUNTS, REPORTS AND RETURNS
 
 (g) providing that any person who is guilty of an offence under any regulations made under paragraph (c) in respect of a charity which is registered as a company under the Companies Act (Cap. 50) shall be liable on conviction to the same penalty as that provided under section 204(1) or (3)(a), as the case may be, of that Act.
 
-(2) The governing board members of a charity shall preserve any statement of accounts or other account and statement prepared by them for the purposes of regulations made under this section, for at least 5 years from the end of the financial year to which any such statement relates or to which any such account and statement relate, as the case may be.
+(2) Subject to subsection (3), the governing board members of a charity must preserve any financial statement or other accounts and statements prepared by them for the purposes of regulations made under this section, for at least 5 years after the end of the financial year to which the financial statement or accounts and statements, as the case may be, relate.
 
-(3) Section 12(4) shall apply, with the necessary modifications, in relation to the preservation of any such statement or account and statement as it applies in relation to the preservation of any accounting records.
+[Act 2 of 2018 wef 01/04/2018]
 
-[34/2010 wef 01/03/2011]
+(3) Where a charity ceases to exist before the end of the minimum period in subsection (2) for preserving financial statements or other accounts and statements in respect of the charity —
+
+(a) the last governing board members of the charity; or
+
+(b) any one or more of the last governing board members of the charity, as may be agreed by the last governing board members,
+
+must preserve the financial statements or other accounts and statements to the end of that period, unless the Commissioner allows the financial statements or other accounts and statements, as the case may be, to be earlier destroyed or otherwise disposed of.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(4) Subsection (3) also applies to a charity that ceases to exist before the date of commencement of section 4(b) of the Charities (Amendment) Act 2018, if the minimum period in subsection (2) as it applies to any financial statement or other accounts and statements of the charity has not ended on that date.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 ### Annual audit or examination of charity accounts
 
@@ -608,7 +676,9 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 (4) The Commissioner may give such directions as he may think appropriate with respect to the carrying out of an examination required by regulations made under this Act, and any such directions may either be of general application or apply to a particular charity only.
 
-(5) If any person fails to afford an auditor or independent examiner any facility to which he is entitled by virtue of regulations made under subsection (1)(c) or (d), the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction, and the Commissioner may by order give to that person or to the governing board members for the time being of the charity concerned, such directions as the Commissioner thinks appropriate for securing that the default is made good.
+(5) If any person fails to afford an auditor or independent examiner any facility to which he is entitled by virtue of regulations made under subsection (1)(c) or (d), without affecting any regulations made under section 48(3A) for such failure, the Commissioner may by order give to that person or to the governing board members for the time being of the charity concerned, such directions as the Commissioner thinks appropriate for securing that the default is made good.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (6) Section 391 of the Companies Act (Cap. 50) shall have effect in relation to an auditor or independent examiner appointed by a charity in pursuance of this section as it has effect in relation to a person employed as auditor by a company within the meaning of that Act.
 
@@ -628,19 +698,25 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 [34/2010 wef 01/03/2011]
 
-(2) The annual report required to be prepared under this section in respect of any financial year of a charity shall be transmitted to the Commissioner by the governing board members —
+(2) The annual report required to be prepared under this section in respect of any financial year of a charity that is a registered charity or an exempt charity, shall be transmitted to the Commissioner by the governing board members —
 
 (a) within 6 months from the end of that year; or
 
 (b) within such longer period as the Commissioner may for any special reason allow in the case of that report.
 
+[Act 2 of 2018 wef 01/04/2018]
+
 [34/2010 wef 01/03/2011]
 
-(3) Subject to subsection (4), every such annual report shall have attached to it the statement of accounts or account and statement prepared for the financial year in question in pursuance of section 13(1), together with —
+(3) Subject to subsection (4), every annual report of a registered charity or an exempt charity must have attached to it the financial statements or account and statement prepared for the financial year in question in pursuance of section 13(1), together with —
 
-(a) where the accounts of the charity for that year have been audited under section 14, a copy of the report made by the auditor on that statement of accounts or on that account and statement, as the case may be; or
+(a) where the accounts of the charity for that year have been audited under section 14, a copy of the report made by the auditor on the financial statements or account and statement, as the case may be; or
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (b) where the accounts of the charity for that year have been examined under section 14, a copy of the report made by the independent examiner in respect of the examination carried out by him under that section.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [34/2010 wef 01/03/2011]
 
@@ -650,7 +726,23 @@ the Commissioner may by order require the accounts of the charity for that year 
 
 (5) Any annual report transmitted to the Commissioner under subsection (2), together with the documents attached to it, shall be kept by the Commissioner for such period as he may think fit.
 
-(6) [Deleted by Act 34/2010 wef 01/03/2011]
+(6) Subject to subsection (7), the governing board members of a charity must preserve every annual report prepared under this section for a financial year that ends on or after the date of commencement of section 5(d) of the Charities (Amendment) Act 2018 in respect of the charity, for at least 5 years after the end of the financial year of the charity to which the report relates.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(7) Where a charity ceases to exist before the end of the minimum period in subsection (6) for preserving annual reports in respect of the charity —
+
+(a) the last governing board members of the charity; or
+
+(b) any one or more of the last governing board members of the charity, as may be agreed by the last governing board members,
+
+must preserve the annual reports to the end of that period, unless the Commissioner allows the annual reports to be earlier destroyed or otherwise disposed of.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(8) Subsection (7) also applies to a charity that ceases to exist before the date of commencement of section 5(d) of the Charities (Amendment) Act 2018, if the minimum period in subsection (6) as it applies to any annual report of the charity has not ended on that date.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [UK Charities Act 1993, s. 45]
 
@@ -678,7 +770,9 @@ those governing board members shall comply with the request within the period of
 
 (3) In subsection (2), the reference to a charity’s most recent accounts shall be —
 
-(a) a reference to the statement of accounts or account and statement prepared in pursuance of section 13(1) in respect of the last financial year of the charity the accounts for which have been audited or examined under section 14; and
+(a) a reference to the financial statements or account and statement prepared in pursuance of section 13(1) in respect of the last financial year of the charity the accounts for which have been audited or examined under section 14; and
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [34/2010 wef 01/03/2011]
 
@@ -688,11 +782,9 @@ those governing board members shall comply with the request within the period of
 
 ### Offences
 
-18\. Any person who, without reasonable excuse, is persistently in default in relation to any requirement imposed by section 16(2) or 17(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+18\. Any person who, without reasonable excuse, is in default in relation to any requirement imposed by section 12(3) or (4), 13(2) or (3), 16(2), (6) or (7) or 17(2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
 
-[10/2007]
-
-[UK Charities Act 1993, s. 49]
+[Act 2 of 2018 wef 01/04/2018]
 
 ## PART V
 
@@ -1076,11 +1168,15 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 [34/2010 wef 01/03/2011]
 
-(4) The Commissioner may remove a governing board member or key officer by order made of his own motion where the governing board member or key officer —
+(4) The Commissioner may remove a governing board member or key officer of a charity by order made of his own motion where the governing board member or key officer —
 
-(a) has been convicted of an offence involving dishonesty, fraud or moral turpitude;
+(a) has been convicted, whether in Singapore or in any other country or territory, and whether before, on or after the date of commencement of section 8(b) of the Charities (Amendment) Act 2018, of an offence involving moral turpitude (but not one mentioned in section 27(1)(a)) and the conviction is not spent;
 
-(b) is a bankrupt;
+[Act 2 of 2018 wef 01/04/2018]
+
+(b) acts as a governing board member or key officer of the charity despite being disqualified under section 27(1) or (6);
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (c) is a corporation in liquidation;
 
@@ -1094,7 +1190,27 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (f) is outside Singapore or cannot be found or does not act, and his absence or failure to act impedes the proper administration of the charity.
 
+[Act 2 of 2018 wef 01/04/2018]
+
 [34/2010 wef 01/03/2011]
+
+(4A) Where a person resigns as a trustee, a governing board member, an officer, an agent or an employee of a charity —
+
+(a) after the Commissioner has instituted an inquiry under section 8 with respect to the charity (whether before, on or after the date of commencement of section 8(c) of the Charities (Amendment) Act 2018), but before the Commissioner (with the consent of the Attorney-General) makes an order under subsection (1)(i) removing the person; or
+
+(b) after the Commissioner has given notice (whether before, on or after the date of commencement of section 8(c) of the Charities (Amendment) Act 2018) under section 29(3) of intention to remove the person under subsection (4), but before the Commissioner makes the order,
+
+the Commissioner may, if the Commissioner is satisfied that the person is a person against whom the Commissioner would have made an order of removal under subsection (1)(i) or (4) if the person had not resigned, make an order declaring the person as such.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(4B) Section 29 applies to an order under subsection (4A) as it applies to an order of removal under subsection (1) or (4).
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(4C) Subject to section 42, an order of removal under subsection (1) or (4), and an order under subsection (4A), remains in force despite any ground on which the order was made ceasing to exist or have effect (including a conviction becoming spent).
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (5) The Commissioner may, by order made of his own motion, appoint a person to be a governing board member or key officer —
 
@@ -1124,11 +1240,27 @@ the Commissioner may, with the consent of the Attorney-General, do one or more o
 
 (8) Section 24(4) shall apply to orders under this section as it applies to orders under section 24.
 
-(9) The power of the Commissioner to make an order under subsection (2)(i) shall not be exercisable so as to suspend any person from the exercise of his office or employment for a period of more than 12 months; but (without prejudice to the generality of section 42) any such order made in the case of any person may make provision as respects the period of his suspension for matters arising out of it, and in particular for enabling any person to execute any instrument in his name or otherwise act for him and, in the case of a governing board member, for adjusting any rules governing the proceedings of the governing board members to take account of the reduction in the number capable of acting.
+(9) An order of suspension under subsection (2)(i) must be for a fixed period, but the Commissioner may make one or more further extensions of that order, each for a fixed period.
 
-[34/2010 wef 01/03/2011]
+[Act 2 of 2018 wef 01/04/2018]
 
-(10) Before exercising any jurisdiction under this section (otherwise than by virtue of subsection (2)), the Commissioner shall give notice of his intention to do so to —
+(9A) The total period of suspension under an order of suspension under subsection (2)(i) and every extension under subsection (9) of such an order must not exceed 24 months.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(9B) Without affecting section 42, any order of suspension under subsection (2)(i) and any extension under subsection (9) may make provision for any matter arising out of the suspension; and if there is any inconsistency amongst the provisions made by any of the orders, the latest in time prevails.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(9C) For the purposes of subsection (9B), provision may be made in particular —
+
+(a) to enable any person to execute any instrument in the name of the person suspended or to otherwise act for the person suspended; and
+
+(b) in the case of a governing board member of a charity, for adjusting any rules governing the proceedings of the governing board members to take account of the reduction in the number capable of acting.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(10) Before exercising any jurisdiction under this section (otherwise than by virtue of subsection (2) or (4A)), the Commissioner shall give notice of his intention to do so to —
 
 (a) each of the governing board members; and
 
@@ -1144,15 +1276,27 @@ each trustee for the charity or key officer concerned,
 
 except those who cannot be found or who have no known address in Singapore.
 
+[Act 2 of 2018 wef 01/04/2018]
+
 [34/2010 wef 01/03/2011]
 
-(10A) A notice referred to in subsection (10) may be given by post and, if given by post, may be addressed to the last known address in Singapore of the governing board member or trustee for the charity or key officer, as the case may be.
+(10AA) Before exercising any jurisdiction under subsection (4A), the Commissioner must give notice of the Commissioner’s intention to do so to —
+
+(a) the person against whom the Commissioner proposes to make the order under that subsection, unless the person cannot be found or has no known address in Singapore; and
+
+(b) each of the governing board members of the charity from which the person resigned, if the Commissioner thinks it necessary to do so.
+
+(10A) A notice referred to in subsection (10) or (10AA) may be given by post and, if given by post, may be addressed to the last known address in Singapore of the governing board member or trustee for the charity or key officer or person, as the case may be.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [34/2010 wef 01/03/2011]
 
 (11) The Commissioner shall, at such intervals as he thinks fit, review any order made by him under subsection (2)(i), (iii), (iv), (v), (vi) or (vii); and if on any such review it appears to him that it would be appropriate to discharge the order in whole or in part, he shall so discharge it (whether subject to any savings or transitional provisions or not).
 
-(12) Any person who contravenes an order under subsection (2)(iv), (v) or (vi) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(12) Any person who contravenes an order under subsection (2)(iv), (v) or (vi) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (13) Nothing in subsection (12) shall be taken to preclude the bringing of proceedings for breach of trust against any governing board member or trustee for a charity in respect of a contravention of an order under subsection (2)(iv) or (vi) (whether proceedings in respect of the contravention are brought against him under subsection (12)).
 
@@ -1182,7 +1326,9 @@ except those who cannot be found or who have no known address in Singapore.
 
 [10/2007]
 
-(4) Any person who continues in his membership of a charity in contravention of an order under subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(4) Any person who continues in his membership of a charity in contravention of an order under subsection (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [10/2007]
 
@@ -1256,7 +1402,9 @@ except those who cannot be found or who have no known address in Singapore.
 
 [10/2007]
 
-(6) Any person who contravenes an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(6) Any person who contravenes an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [10/2007]
 
@@ -1298,65 +1446,117 @@ except those who cannot be found or who have no known address in Singapore.
 
 [10/2007]
 
-(6) Any person who contravenes an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(6) Any person who contravenes an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [10/2007]
 
 [UK Charities Bill 2006, clause 21]
 
-### Persons disqualified from being governing board members, etc., of a charity
+### Disqualifications and effects of removal
 
-27\.—(1) Subject to the provisions of this section, a person shall be disqualified from being a governing board member or key officer of a charity or a trustee for a charity if —
+27\.—(1) Subject to subsections (3) and (4), a person is disqualified from acting in any capacity specified in subsection (2) on the happening of any of the following, whether before, on or after the date of commencement of section 9 of the Charities (Amendment) Act 2018:
 
-(a) he has been convicted, whether in Singapore or elsewhere, of any offence involving dishonesty or deception;
+(a) the person is convicted, whether in Singapore or in any other country or territory, of any offence involving —
 
-(b) he has been adjudged bankrupt, and has not been discharged;
+(i) dishonesty (including fraud, corruption, bribery and deception); or
 
-(c) he has made a composition or arrangement with, or granted a trust deed for, his creditors and has not been discharged in respect of it;
+(ii) terrorism, terrorism financing or money laundering;
 
-(d) he has been removed from the office of governing board member or key officer of a charity or trustee for a charity by an order made by the Commissioner under section 25(1)(i) or by the High Court on the ground of any misconduct or mismanagement in the administration of the charity for which he was responsible or to which he was privy, or which he by his conduct contributed to or facilitated; or
+(b) the person becomes an undischarged bankrupt;
 
-[34/2010 wef 01/03/2011]
+(c) the person makes a composition or arrangement with, or grants a trust deed for, the person’s creditors and has not been discharged in respect of it;
 
-(e) he is subject to a disqualification order under section 148, 149 or 154 of the Companies Act (Cap. 50).
+(d) the person becomes subject to any disqualification under section 149, 149A or 154 of the Companies Act (Cap. 50).
 
-[34/2010 wef 01/03/2011]
+(2) The capacities for the purposes of subsection (1) are the following:
 
-(2) Where (apart from this subsection) a person is disqualified under subsection (1)(b) for being a governing board member or key officer of a charity or a trustee for a charity which is a company, he shall not be so disqualified if leave has been granted under section 148 of the Companies Act for him to act as director of the charity; and similarly a person shall not be disqualified under subsection (1)(e) from being a governing board member or key officer of a charity or trustee for a charity if leave under the order has been granted for him to act as director of the charity.
+(a) any member of the governing body or any key officer of —
 
-[34/2010 wef 01/03/2011]
+(i) any charity;
 
-[UK Charities Act 1993, s. 72]
+(ii) any person that is a governing board member of any charity; or
 
-### Persons acting as governing board member, etc., while disqualified
+(iii) any person that is a member of any charity;
 
-28\.—(1) Any person who acts as a governing board member or key officer of a charity or trustee for a charity while he is disqualified from being such a governing board member or key officer or trustee by virtue of section 27 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(b) any trustee for any charity.
 
-[34/2010 wef 01/03/2011]
+(3) However, a person who is subject to a disqualification in subsection (1)(b) or (d) may act in a capacity specified in subsection (2) in relation to a charity or person (as the case may be) that is a company, if the person subject to the disqualification has leave under section 148, 149 or 154 of the Companies Act to act as a director, or to (directly or indirectly) take part in or be concerned in the management, of that company.
 
-[10/2007]
+(4) A person ceases to be disqualified under subsection (1) in the following applicable circumstances:
 
-(2) Any act done as governing board member or key officer of a charity or trustee for a charity by a person disqualified from being such a trustee by virtue of section 27 shall not be invalid by reason only of that disqualification.
+(a) for disqualification under subsection (1)(a), when the person’s conviction is spent;
 
-[34/2010 wef 01/03/2011]
+(b) for disqualification under subsection (1)(b), when the person is discharged from bankruptcy;
 
-(3) Where the Commissioner is satisfied —
+(c) for disqualification under subsection (1)(c), when the person is discharged from the composition, arrangement or trust deed;
 
-(a) that any person has acted as governing board member or key officer of a charity or trustee for a charity while disqualified from being such a governing board member or key officer or trustee by virtue of section 27; and
+(d) for disqualification under subsection (1)(d), when the period of disqualification ends.
 
-[34/2010 wef 01/03/2011]
+(5) To avoid doubt, nothing in this section affects section 7E(2)(d) of the Registration of Criminals Act (Cap. 268).
 
-(b) that, while so acting, he has received from the charity any sum by way of remuneration or expenses, or any benefit in kind, in connection with his acting as governing board member or key officer of the charity or trustee for the charity,
+(6) A person is disqualified from acting in any capacity specified in subsection (7) on the happening of all of the following, whether before, on or after the date of commencement of section 9 of the Charities (Amendment) Act 2018:
 
-[34/2010 wef 01/03/2011]
+(a) the person is removed as a governing board member, an officer, an agent or an employee, of a charity or trustee for a charity by an order made by the Commissioner under section 25(1)(i) or by the High Court, or an order is made under section 25(4A) declaring that the person is one against whom the Commissioner would have made an order of removal under section 25(1)(i); and
 
-the Commissioner may by order direct him to repay to the charity the whole or part of any such sum, or (as the case may be) to pay to the charity the whole or part of the monetary value (as determined by the Commissioner) of any such benefit.
+(b) the removal is or would have been on the ground of any misconduct or mismanagement in the administration of the charity —
 
-(4) Subsection (3) shall not apply to any sum received by way of remuneration or expenses in respect of any time when the person concerned was not disqualified from being a governing board member or key officer of a charity or trustee for the charity.
+(i) for which the person was responsible;
 
-[34/2010 wef 01/03/2011]
+(ii) to which the person was privy; or
 
-[UK Charities Act 1993, s. 73]
+(iii) which the conduct of the person contributed to or facilitated.
+
+(7) The capacities for the purposes of subsection (6) are the following:
+
+(a) any capacity specified in subsection (2);
+
+(b) each of the relevant capacities as follows:
+
+(i) if the person was removed as an officer of a charity, any officer of that charity;
+
+(ii) if the person was removed as an agent of a charity, any agent of that charity;
+
+(iii) if the person was removed as an employee of a charity, any employee of that charity.
+
+(8) A person who is removed (whether before, on or after the date of commencement of section 9 of the Charities (Amendment) Act 2018) as a governing board member or a key officer of a charity by an order made under section 25(4), is disqualified from acting —
+
+(a) as any governing board member of that charity; and
+
+(b) as any key officer of that charity.
+
+(9) Where an order is made under section 25(4A) declaring that a person is one against whom the Commissioner would have made an order of removal under section 25(4) in respect of a charity, the person is disqualified from acting —
+
+(a) as any governing board member of that charity; and
+
+(b) as any key officer of that charity.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+### Persons acting in capacity from which disqualified
+
+28\.—(1) Any person who acts in a capacity that the person is by reason of section 27 disqualified from acting in (called in this section a disqualified capacity) shall be guilty of an offence.
+
+(2) Any thing done by the person acting in a disqualified capacity is not invalid by reason only of the person’s disqualification.
+
+(3) Where the Commissioner is satisfied that any person —
+
+(a) has acted in a disqualified capacity; and
+
+(b) has received any money by way of remuneration or for expenses, or any benefit in kind, for acting in that disqualified capacity,
+
+then, the Commissioner may by order direct the person to repay the whole or any part of the money, or benefit (at the monetary value determined by the Commissioner), received.
+
+(4) If the person to whom the order of the Commissioner under subsection (3) is given fails without reasonable excuse to comply with the order within the time specified in the order —
+
+(a) the person shall be guilty of an offence; and
+
+(b) any amount under the order that is not repaid accrues and is recoverable as a debt due from that person to the person who paid the amount, or provided the benefit represented by the amount, to the firstmentioned person.
+
+(5) A person who is guilty of an offence under this section shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 ### Publicity for proceedings under this Part
 
@@ -1600,7 +1800,7 @@ then (if he would not be so regarded apart from this subsection) that person sha
 
 [Charities Act 1995 Ed., s. 39 (1) to (3)]
 
-### Power of Commissioner to prohibit or restrict fund-raising appeal
+### Power of Commissioner to prohibit or restrict, or suspend, fund-raising appeal
 
 39B\.—(1) Notwithstanding any exemption or permit granted under section 39A, the Commissioner may, at any time, by order published in theGazette—
 
@@ -1622,7 +1822,21 @@ if he is satisfied —
 
 [10/2007]
 
-(2) Any person who conducts any fund-raising appeal in contravention of any order made by the Commissioner under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(1A) Without affecting subsection (1) and despite any exemption or permit granted under section 39A, the Commissioner may by order in theGazettesuspend the conduct of any fund-raising appeal if the Commissioner has reason to suspect that the circumstances in paragraph (i), (ii), (iii), (iv) or (v) of subsection (1) apply to the fund-raising appeal.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(1B) An order of suspension under subsection (1A) must be for a fixed period, but the Commissioner may make one or more further extensions of that order, each for a fixed period.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(1C) The total period of suspension under the order of suspension and every extension under subsection (1B) must not exceed 24 months.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(2) Any person who conducts any fund-raising appeal in contravention of any order made by the Commissioner under subsection (1) or (1A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [10/2007]
 
@@ -1792,17 +2006,33 @@ MISCELLANEOUS
 
 ### Power of Commissioner to call for documents and search records
 
-41A\.—(1) The Commissioner may, for the purpose of discharging his functions under this Act, by order —
+41A\.—(1) The Commissioner may, for the purpose of discharging the functions of the Commissioner under this Act, by order require any person to furnish the Commissioner, within the time specified in the order —
 
-(a) require any person to furnish the Commissioner with any information in his possession which relates to any charity or fund-raising appeal; and
+(a) any information relating to any charity or fund-raising appeal that —
 
-(b) require any person who has in his custody or under his control any document which relates to any charity or fund-raising appeal —
+(i) is within the knowledge of the person; or
 
-(i) to furnish the Commissioner with a copy of or an extract from the document; or
+(ii) comes within the knowledge of the person within a period specified in the order that does not exceed 2 years after the date of the order; and
 
-(ii) unless the document forms part of the records or other documents of a court or public authority, to transmit the document itself to the Commissioner for his inspection.
+(b) any document relating to any charity or fund-raising appeal that —
 
-(2) The Commissioner shall be entitled without payment to keep any copy or extract furnished to him under subsection (1); and where a document transmitted to him for his inspection relates only to one or more charities and is not held by any person entitled as trustee or otherwise to the custody of the document, the Commissioner may keep it or may deliver it to the governing board members or to any other person who may be so entitled.
+(i) is in the possession or under the control of the person; or
+
+(ii) comes into the possession or under the control of the person within a period specified in the order that does not exceed 2 years after the date of the order.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(1A) An order under subsection (1)(b) may require —
+
+(a) a copy or extract of the document to be furnished to the Commissioner; or
+
+(b) unless the document forms part of the records or other documents of a court or public authority, the document itself to be furnished to the Commissioner for the Commissioner’s inspection.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(2) The Commissioner shall be entitled without payment to keep any copy or extract furnished to him under subsection (1); and where a document furnished to him for his inspection relates only to one or more charities and is not held by any person entitled as trustee or otherwise to the custody of the document, the Commissioner may keep it or may deliver it to the governing board members or to any other person who may be so entitled.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (3) The Commissioner or any officer authorised by him in that behalf shall at all times have full and free access to all buildings, places, books, documents and other papers for the purpose of discharging his functions under this Act, and may, without payment, inspect, copy or make extracts from any such books, documents or papers.
 
@@ -1818,7 +2048,9 @@ MISCELLANEOUS
 
 (6) The rights conferred by this section shall, in relation to information recorded otherwise than in legible form, include the right to require the information to be made available in legible form for inspection or for a copy or extract to be made of or from it.
 
-(7) Any person who fails to comply with any requirement specified in any order under subsection (1) or any requirement under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both and, in the case of a continuing offence, to a further fine not exceeding $50 for every day or part thereof during which the offence continues after conviction.
+(7) Any person who, without reasonable excuse, fails to comply with any requirement specified in any order under subsection (1) or any requirement under subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (8) Subject to section 41C(2), no person shall by virtue of this section be obliged to disclose any particulars as to which he is under any statutory obligation to observe secrecy.
 
@@ -1836,9 +2068,11 @@ MISCELLANEOUS
 
 (2) Any person who wilfully alters, suppresses, conceals or destroys any document which he is or is liable to be required, by or under this Act, to produce to the Commissioner shall be guilty of an offence.
 
-(3) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding one year or to both.
+(3) Any person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 (4) In this section, references to the Commissioner include references to any person conducting an inquiry under section 8.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 [34/2010 wef 01/03/2011]
 
@@ -1894,31 +2128,81 @@ MISCELLANEOUS
 
 ### Service of documents
 
-43\.—(1) This section shall apply to —
+43\.—(1) A document that is permitted or required by this Act to be served on a person may be served as described in this section.
 
-(a) any order or direction made or given by the Commissioner under this Act; and
+(2) A document permitted or required by this Act to be served on an individual may be served —
 
-[34/2010 wef 01/03/2011]
+(a) by giving it to the individual personally;
 
-(b) [Deleted by Act 34/2010 wef 01/03/2011]
+(b) by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address;
 
-(c) any notice required to be served under any regulations made under this Act.
+(c) by leaving it at the individual’s residential address with an adult apparently resident there, or at the individual’s business address with an adult apparently employed there;
 
-(2) A document to which this section applies may be served on or given to a person (other than a body corporate) —
+(d) by affixing a copy of the document in a conspicuous place at the individual’s residential address or business address;
 
-(a) by delivering it to that person;
+(e) by sending it by fax to the fax number last known to the person giving or serving the document as the fax number for the service of documents on the individual;
 
-(b) by leaving it at his last known address in Singapore; or
+(f) by sending it by email to the individual’s email address; or
 
-(c) by sending it by post to him at that address.
+(g) by transmitting an electronic record of it to an account which the individual has with any electronic transactions service.
 
-(3) A document to which this section applies may be served on or given to a body corporate by delivering it or sending it by post —
+(3) A document permitted or required by this Act to be served on a partnership (other than a limited liability partnership) may be served —
 
-(a) to the registered or principal office of the body corporate in Singapore; or
+(a) by giving it to any partner or other like officer of the partnership;
 
-(b) if it has no such office, to any place in Singapore where it carries on business or conducts its activities, as the case may be.
+(b) by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;
 
-[UK Charities Act 1993, s. 91]
+(c) by sending it by fax to the fax number used at the partnership’s business address;
+
+(d) by sending it by email to the partnership’s email address; or
+
+(e) by transmitting an electronic record of it to an account which the partnership has with any electronic transactions service.
+
+(4) A document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served —
+
+(a) by giving it to the secretary or other like officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;
+
+(b) by leaving it at, or by sending it by prepaid registered post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore;
+
+(c) by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore;
+
+(d) by sending it by email to the body corporate’s or unincorporated association’s email address; or
+
+(e) by transmitting an electronic record of it to an account which the body corporate or unincorporated association has with any electronic transactions service.
+
+(5) Service of a document under this section takes effect —
+
+(a) if the document is sent by fax and a notification of successful transmission is received, on the day of transmission;
+
+(b) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person;
+
+(c) if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered); and
+
+(d) if the document is sent through any electronic transactions service, at the time when the electronic record of the document enters the person’s account with the electronic transactions service.
+
+(6) A document may be served on a person under this Act by email only with that person’s prior written consent.
+
+(7) A document may be served on a person under this Act through any electronic transactions service only if the document is a prescribed document.
+
+(8) This section does not apply to documents to be served in proceedings in court.
+
+(9) In this section —
+
+“business address” means —
+
+(a) in the case of an individual, the individual’s usual or last known place of business in Singapore; or
+
+(b) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;
+
+“document” includes a direction, order or notice permitted or required by this Act to be served;
+
+“electronic transactions service” means any electronic transactions service provided for in regulations made under section 48;
+
+“email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;
+
+“residential address” means an individual’s usual or last known place of residence in Singapore.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 ### Holding out as registered charity or institution of a public character
 
@@ -1926,13 +2210,119 @@ MISCELLANEOUS
 
 [34/2010 wef 01/03/2011]
 
-### Offences by bodies corporate
+### Offences by corporations
 
-44\.—(1) Where any offence under this Act or any regulations made thereunder is committed by a body corporate and is proved to have been committed with the consent or connivance of, or to be attributable to any neglect on the part of, any director, manager, secretary or other similar officer of the body corporate, or any person who was purporting to act in any such capacity, he as well as the body corporate shall be guilty of that offence and shall be liable to be proceeded against and punished accordingly.
+44\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
 
-(2) In relation to a body corporate whose affairs are managed by its members, “director” means a member of the body corporate.
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of his actual or apparent authority; and
 
-[UK Charities Act 1993, s. 95]
+(b) the officer, employee or agent had that state of mind,
+
+is evidence that the corporation had that state of mind.
+
+(2) Where a corporation commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the corporation; or
+
+(ii) an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or
+
+(iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of the same offence as is the corporation, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not that corporation is convicted of the offence.
+
+(6) In this section —
+
+“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —
+
+(a) any person purporting to act in any such capacity; and
+
+(b) for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+### Offences by unincorporated associations or partnerships
+
+44A\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the employee or agent had that state of mind,
+
+is evidence that the unincorporated association or partnership had that state of mind.
+
+(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the unincorporated association or a member of its governing body;
+
+(ii) a partner in the partnership; or
+
+(iii) an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of that unincorporated association or partnership in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or
+
+(iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of the same offence as is the unincorporated association or partnership, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the unincorporated association or the partnership for an offence under this Act, and applies whether or not that unincorporated association or that partnership is convicted of the offence.
+
+(6) In this section —
+
+“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —
+
+(a) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and
+
+(b) any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 ### Enforcement of orders of Commissioner
 
@@ -1960,7 +2350,7 @@ may on the application of the Commissioner to the High Court be dealt with as fo
 
 ### Protection from liability
 
-46A\. No action, suit or other legal proceedings shall lie against the Commissioner, the Deputy Commissioner, any Assistant Commissioner, any officer appointed or authorised by the Commissioner or any Sector Administrator appointed under section 40B, for anything done (including any statement made) or omitted to be done in good faith in the course of or in connection with —
+46A\.—(1) No action, suit or other legal proceedings shall lie against the Commissioner, the Deputy Commissioner, any Assistant Commissioner, any officer appointed or authorised by the Commissioner or any Sector Administrator appointed under section 40B, for anything done (including any statement made) or omitted to be done in good faith in the course of or in connection with —
 
 (a) the exercise or purported exercise of any power under this Act or any other written law;
 
@@ -1968,9 +2358,19 @@ may on the application of the Commissioner to the High Court be dealt with as fo
 
 (c) the compliance or purported compliance with this Act or any other written law.
 
+[Act 2 of 2018 wef 01/04/2018]
+
 [10/2007]
 
 [Casino Control Act 2006, s. 192]
+
+(2) Without affecting subsection (1), the Commissioner, Deputy Commissioner, every Assistant Commissioner and other officer appointed under section 3, and the Government, are not liable for any loss or damage, suffered by any person by reason of any error or omission resulting from —
+
+(a) any malfunction in any electronic transactions service provided for in regulations made under section 48, if the malfunction occurred despite the Commissioner, Deputy Commissioner, Assistant Commissioner, officer or Government having acted in good faith and with reasonable care to prevent the malfunction; or
+
+(b) any fault or failure on the part of the person using the electronic transactions service.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 ### Power to compound
 
@@ -2000,13 +2400,45 @@ may on the application of the Commissioner to the High Court be dealt with as fo
 
 (b) prescribe the fees for the inspection of the register of charities or of other material kept by the Commissioner and for other services provided by the Commissioner;
 
-(c) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction; and
+(c) provide for the obligations, or otherwise to regulate the conduct, of any person that is given or provided with any money or other property (whether as consideration or otherwise) for or in connection with any charitable, benevolent or philanthropic purpose;
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(ca) provide for an electronic transactions service for any one or more of the following purposes:
+
+(i) for any person to submit or serve on the Commissioner electronically any application, document or information;
+
+(ii) for the Commissioner to serve any notice or other document on any person under this Act;
+
+(iii) for the Commissioner to publish or supply to any person any application, document or information;
+
+(iv) for any other prescribed purpose;
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (d) prescribe any other matter or thing required or permitted to be prescribed or necessary to be prescribed to give effect to this Act.
 
 [34/2010 wef 01/03/2011]
 
-(3) [Deleted by Act 34 of 2010 wef 01/03/2011]
+(3) Regulations made for the purpose of subsection (2)(ca) may —
+
+(a) provide for the manner in which and the persons by which the electronic transactions service may be used;
+
+(b) require that any prescribed application, document or information must be submitted to or served on the Commissioner only through the electronic transactions service;
+
+(c) provide that any prescribed application, document, or information, submitted to a prescribed public authority in the prescribed manner, is treated as having been submitted through the electronic transactions service to the Commissioner;
+
+(d) provide for the circumstances and the manner for correcting any error or omission in any application, document or information submitted, served, published or supplied through the electronic transactions service;
+
+(e) despite the Evidence Act (Cap. 97), provide for the admissibility of electronic records, and copies and print-outs of such records, of any application, document or information submitted, served, published or supplied through the electronic transactions service, as evidence of the facts contained in the record, copy or print-out; and
+
+(f) provide for any other matter necessary or incidental to the use, maintenance or management of the electronic transactions service.
+
+[Act 2 of 2018 wef 01/04/2018]
+
+(3A) Regulations made under this Act (other than section 40C) may provide that any person that contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction.
+
+[Act 2 of 2018 wef 01/04/2018]
 
 (4) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -2167,3 +2599,8 @@ This Legislative History is provided for the convenience of users of the Chariti
 |||(Bill No. 29/2010 published on 18 October 2010)|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|1 March 2011|
+|14.|**Act 2 of 2018—Charities (Amendment) Act 2018**|
+||Date of First Reading|6 November 2017|
+|||(Bill No. 49/2017)|
+||Date of Second and Third Readings|9 January 2018|
+||Date of commencement|1 April 2018|
