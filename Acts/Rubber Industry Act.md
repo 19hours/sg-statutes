@@ -88,9 +88,9 @@ An Act to provide for the promotion, regulation and control of the rubber trade 
 
 2\. In this Act, unless the context otherwise requires —
 
-“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act;
+“Board” means the Enterprise Singapore Board established by section 3 of the Enterprise Singapore Board Act 2018;
 
-[17/2002 wef 1/4/2002]
+[Act 10 of 2018 wef 01/04/2018]
 
 “deal” means to broke in, purchase or sell rubber but does not include the purchase, sale or brokerage of rubber by means of a commodity futures contract within the meaning of the Commodity Futures Act [Cap. 48A];
 
@@ -118,7 +118,9 @@ An Act to provide for the promotion, regulation and control of the rubber trade 
 
 “treat”, with its grammatical variations and cognate expressions, means to subject to any process whatsoever;
 
-“Singapore Rubber Fund” means the Singapore Rubber Fund established under section 14 of the Rubber Association of Singapore (Incorporation) Act [Cap. 278] repealed by the Trade Development Board (Amendment) Act 1992 [Act 16 of 1992] and transferred to and administered by the Board by virtue of section 26H of the Trade Development Board Act [Cap. 330].
+“Singapore Rubber Fund” means the Singapore Rubber Fund established under section 14 of the repealed Rubber Association of Singapore (Incorporation) Act (Cap. 278) and administered by the Board under section 39 of the Enterprise Singapore Board Act 2018.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 ### Licence to pack, ship or deal in rubber or manufacture technically specified rubber
 
@@ -402,3 +404,7 @@ This Legislative History is provided for the convenience of users of the Rubber 
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|6.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
