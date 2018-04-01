@@ -154,9 +154,9 @@ PRELIMINARY
 
 (d) any officer or class or description of officers appointed by the Minister by notification in theGazetteto exercise the powers and perform the duties conferred and imposed on an authorised officer by this Act;
 
-“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act;
+“Board” means the Enterprise Singapore Board established by section 3 of the Enterprise Singapore Board Act 2018;
 
-[17/2002 wef 01/04/2002]
+[Act 10 of 2018 wef 01/04/2018]
 
 “conveyance” includes any vessel, train, vehicle or aircraft in which persons or goods can be carried;
 
@@ -1065,3 +1065,7 @@ This Legislative History is provided for the convenience of users of the Regulat
 ||Date of First Reading|11 November 2013 (Bill No. 24/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 April 2014|
+|11.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
