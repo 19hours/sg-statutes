@@ -70,17 +70,17 @@
 
 - [26 Power of investment](#Power-of-investment)
 
-- [27 Accounts and records](#Accounts-and-records)
+- [27 (Repealed)](#Repealed)
 
-- [28 Audit of accounts](#Audit-of-accounts)
+- [28 (Repealed)](#Repealed)
 
-- [29 Powers of auditor](#Powers-of-auditor)
+- [29 (Repealed)](#Repealed)
 
-- [30 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
+- [30 (Repealed)](#Repealed)
 
 [**Division 5  General**](#Division-5--General)
 
-- [31 Annual report](#Annual-report)
+- [31 (Repealed)](#Repealed)
 
 - [32 Symbol or representation of Authority](#Symbol-or-representation-of-Authority)
 
@@ -624,7 +624,9 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Authority and includes any temporary Chairman of the Authority;
 
-“Chief Executive” means the Chief Executive of the Authority appointed under section 13 and includes any person acting in that capacity;
+“Chief Executive” means the Chief Executive of the Authority, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “chip purchase voucher” means a voucher issued by a casino operator to a patron named in the voucher entitling the patron to be issued with chips of an equivalent value to that specified in the voucher;
 
@@ -702,7 +704,9 @@ and includes any machine declared by the Authority to be a gaming machine;
 
 [22/2009 wef 22/10/2009]
 
-“inspector” means an inspector appointed under section 13(5);
+“inspector” means an inspector appointed under section 13(3);
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “integrated resort” means a development comprising hotel, retail, dining, entertainment, recreation and other facilities, and of which a casino may be a part;
 
@@ -1026,7 +1030,9 @@ Functions, duties and powers of Authority
 
 ### Directions by Minister
 
-11\. The Minister may, after consultation with the Authority or otherwise, give to the Authority such directions, not inconsistent with the provisions of this Act, as to the performance and exercise by the Authority of its functions, duties and powers under this Act as the Minister may consider necessary, and the Authority shall give effect to all such directions.
+11\. The Minister may give to the Authority any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of committees and delegation of powers
 
@@ -1040,7 +1046,7 @@ Functions, duties and powers of Authority
 
 (3) Any function or power delegated under subsection (2) to any committee or person may be performed or exercised by the committee or person to whom it has been delegated in the name and on behalf of the Authority.
 
-(4) No delegation under this section shall prevent the performance or exercise of any function or power by the Authority.
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Division 3 —
 
@@ -1048,21 +1054,25 @@ Provisions relating to staff and inspectors
 
 ### Appointment of Chief Executive and other employees, etc.
 
-13\.—(1) The Authority shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Authority may determine.
+13\.—(1) There must be a Chief Executive of the Authority, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+[Act 5 of 2018 wef 01/04/2018]
 
-(a) be known by such designation as the Authority may determine;
+(2) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(b) be responsible to the Authority for the proper administration and management of the functions and affairs of the Authority in accordance with the policy laid down by the Authority; and
+(a) is absent from duty or Singapore; or
 
-(c) not be removed from office without the consent of the Minister.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) The Minister shall consult the Public Service Commission before granting his approval under subsection (1) or before giving his consent under subsection (2)(c).
+[Act 5 of 2018 wef 01/04/2018]
 
-(4) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to discharge his duties, another person may be appointed by the Authority to act in the place of the Chief Executive during any such period of absence from duty.
+(3) The Authority may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants, inspectors and agents as may be necessary for the effective performance of its functions.
 
-(5) The Authority may, from time to time, appoint and employ on such terms and conditions as the Authority may determine such officers, employees, consultants, inspectors and agents as may be necessary for the effective performance of its functions and discharge of its duties.
+[Act 5 of 2018 wef 01/04/2018]
+
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
+
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (6) The Authority may, from time to time, authorise any person to perform any function or duty or to exercise any power under this Act.
 
@@ -1240,71 +1250,19 @@ Financial provisions
 
 26\. The Authority may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-### Accounts and records
+27\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-27\. The Authority shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
+28\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(a) all payments out of its moneys are correctly made and properly authorised; and
+29\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(b) adequate control is maintained over the assets of, or in the custody of, the Authority and over the expenditure incurred by the Authority.
-
-### Audit of accounts
-
-28\.—(1) The accounts of the Authority shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General (referred to in this Act as the auditor).
-
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
-
-(3) The Authority shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
-
-(4) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Authority;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Authority whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Authority during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-(5) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Authority.
-
-(6) The auditor shall submit such periodical and special reports to the Minister and to the Authority as may appear to him to be necessary or as the Minister or the Authority may require.
-
-### Powers of auditor
-
-29\.—(1) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Authority.
-
-(2) The auditor or any person authorised by him may make copies of, or take extracts from, any such accounting or other records.
-
-(3) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or the person authorised by him considers necessary for the performance of his functions under this Act.
-
-(4) Any person who —
-
-(a) refuses or fails, without any reasonable cause, to allow the auditor or any person authorised by the auditor access to any accounting and other records of the Authority in his custody or power;
-
-(b) refuses or fails, without any reasonable cause, to give any information possessed by him as and when required by the auditor or person authorised by the auditor; or
-
-(c) hinders, obstructs or delays the auditor or any person authorised by the auditor in the performance of his functions,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-### Presentation of financial statements and auditor’s report to Parliament
-
-30\.—(1) The Authority shall, as soon as its accounts and financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
-
-(2) Where the Auditor-General is not the auditor of the Authority, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Authority.
-
-(3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report referred to in subsection (1) to be presented to Parliament.
+30\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 Division 5 —
 
 General
 
-### Annual report
-
-31\.—(1) The Authority shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Authority during the preceding financial year and containing such information relating to the proceedings and policy of the Authority as the Minister may, from time to time, direct.
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+31\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Symbol or representation of Authority
 
@@ -5799,7 +5757,7 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Preservation of secrecy
 
-190\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been —
+190\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, no person who is or has been —
 
 (a) a member, an officer, an employee or an agent of the Authority;
 
@@ -5824,6 +5782,8 @@ the officer or member as well as the unincorporated association shall be guilty 
 [Act 36 of 2012 wef 31/01/2013]
 
 shall disclose any information relating to the affairs of the Authority or of any other person which has been obtained by him in the performance of his duties or the exercise of his functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (1A) Notwithstanding subsection (1), any person referred to in paragraphs (a) to (e) of that subsection may —
 
@@ -6315,19 +6275,7 @@ Disqualification from membership
 
 (c) is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon.
 
-Disclosure of interest by members
-
-12.—(1) A member who is in any way, directly or indirectly, interested in —
-
-(a) a transaction or project of the Authority; or
-
-(b) a transaction or project involving a casino operator or an associate of a casino operator,
-
-shall disclose the nature of his interest at the first meeting of the Authority at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Authority and, after the disclosure, that member shall not take part in any deliberation of the Authority with respect to that transaction or project.
-
-(3) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under sub-paragraph (2) he cannot vote or has withdrawn from the meeting.
+12. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Salaries, fees and allowances payable to members
 
@@ -6351,7 +6299,9 @@ Meetings and proceedings of Authority
 
 (7) The Authority may act notwithstanding any vacancy in its membership.
 
-(8) Subject to the provisions of this Act, the Authority may make rules to regulate its own procedure generally, and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
+(8) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Authority may make rules to regulate its own procedure generally, and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 Validity of acts
 
@@ -6564,3 +6514,7 @@ This Legislative History is provided for the convenience of users of the Casino 
 ||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
+|15.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
