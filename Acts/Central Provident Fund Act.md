@@ -26,6 +26,8 @@
 
 - [5C Symbol or representation of Board](#Symbol-or-representation-of-Board)
 
+- [5D Directions by Minister](#Directions-by-Minister)
+
 [**Part II CONTRIBUTIONS TO FUND**](#Part-II)
 
 - [6 Establishment of Central Provident Fund](#Establishment-of-Central-Provident-Fund)
@@ -382,6 +384,10 @@ PRELIMINARY
 
 “Board” means the Central Provident Fund Board constituted under section 3;
 
+“chief executive officer” means the chief executive of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
+
 “contract” means any contract, whether written or oral, and whether express or implied;
 
 “employed” means engaged under a contract of service or apprenticeship or in an employment in respect of which contributions are payable under regulations made under section 77;
@@ -668,7 +674,9 @@ PRELIMINARY
 
 [23/2012]
 
-(6) The Board shall have such powers and shall perform such duties as are given or imposed by this Act or as may be prescribed by the Minister and the Minister or the Board may by instrument in writing delegate to any person all or any of those powers and duties.
+(6) The Board has power to do all things necessary or convenient to be done for, or in connection with, the performance of its functions, duties or activities under this Act or any other written law, and may by instrument in writing delegate to any person all or any of those powers.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Membership of Board
 
@@ -728,21 +736,23 @@ PRELIMINARY
 
 ### Appointment of officers and employees
 
-4A\.—(1) The Board shall, with the President’s concurrence under Article 22A(1)(b) of the Constitution, appoint a chief executive officer on such terms and conditions as the Board may determine.
+4A\.—(1) There must be a chief executive officer of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018, and Article 22A of the Constitution.
 
-[36/2002]
+[Act 5 of 2018 wef 01/04/2018]
 
-(1A) The chief executive officer shall be —
+(1A) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(a) known by such designation as the Board may determine; and
+(2) The Board may, subject to the Public Sector (Governance) Act 2018 and Article 22A of the Constitution, appoint an individual to act temporarily as the chief executive officer during any period, or during all periods, when the chief executive officer —
 
-(b) responsible to the Board for the proper administration and management of its functions and affairs in accordance with all policies laid down by the Board.
+(a) is absent from duty or Singapore; or
 
-[36/2002]
+(b) is, for any reason, unable to perform the duties of the office.
 
-(2) The Board shall have power to engage a staff consisting of such officers and employees as are in the opinion of the Board necessary for the purpose of carrying out the provisions of this Act.
+[Act 5 of 2018 wef 01/04/2018]
 
-(3) The members and employees of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(3) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (4) The Board may make rules for all or any of the purposes of this section and section 4 and, in particular, may make rules —
 
@@ -859,6 +869,12 @@ that person shall be deemed to obstruct an inspector or that officer in the exec
 (2) Any person who uses a symbol or representation identical with that of the Board, or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or to cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 [40/2007]
+
+### Directions by Minister
+
+5D\. The Minister may give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ## PART II
 
@@ -1076,9 +1092,11 @@ CONTRIBUTIONS TO FUND
 
 ### Expenses, etc.
 
-10\.—(1) All expenses incurred by the Board including the cost of auditing the accounts of the Fund as provided for in the Second Schedule shall be defrayed out of the moneys of the Fund.
+10\.—(1) All expenses incurred by the Board including the cost of auditing the accounts of the Fund be defrayed out of the moneys of the Fund.
 
 [Act 4 of 2015 wef 01/11/2015]
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Despite anything in this Act or the MediShield Life Scheme Act 2015, no money in the Fund is to be used to make any payment for the purposes of the MediShield Life Scheme Act 2015 or any costs or expenses incurred in the administration of the MediShield Life Scheme, except for —
 
@@ -7872,7 +7890,7 @@ is equal to an amount computed in either of the following ways, at the option of
 
 [S 752/2015 wef 01/01/2016]
 
-(db) “first anniversary month” , in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
+(db) “first anniversary month”, in relation to an employee who becomes a permanent resident, means the calendar month in which the first anniversary of the day the employee becomes a permanent resident falls;
 
 (dc) “foreign employee” means an employee who is not a citizen of Singapore or permanent resident;
 
@@ -7914,7 +7932,9 @@ is equal to an amount computed in either of the following ways, at the option of
 
 (9) Civil Service College.
 
-(10) Competition Commission of Singapore.
+(10) Competition and Consumer Commission of Singapore.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (11) SkillsFuture Singapore Agency.
 
@@ -7958,7 +7978,9 @@ is equal to an amount computed in either of the following ways, at the option of
 
 (25) Intellectual Property Office of Singapore.
 
-(26) International Enterprise Singapore Board.
+(26) Enterprise Singapore Board.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (26A) ISEAS – Yusof Ishak Institute.
 
@@ -8048,7 +8070,7 @@ is equal to an amount computed in either of the following ways, at the option of
 
 (66) Specialist Accreditation Board.
 
-(67) Standards, Productivity and Innovation Board (Spring Singapore).
+(67) [Deleted by Act 10 of 2018 wef 01/04/2018]
 
 (68) Temasek Polytechnic.
 
@@ -8082,45 +8104,29 @@ Sections 10 and 11
 
 Financial provisions
 
-1.—(1) The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made, properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
+1. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(2) The Board shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of that year to the auditor of the Board.
+2. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-2.—(1) The accounts of the Board shall be audited at least once annually by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
+3. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
+4. The auditor of the Board must submit such periodical and special reports to the Minister and to the Board as may appear to the auditor to be necessary or as the Minister or the Board may require.
 
-(3) The remuneration of the auditor shall be paid out of the funds of the Board.
+[Act 5 of 2018 wef 01/04/2018]
 
-3\. The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Board and may make copies of or extracts from any such accounting and other records.
+5. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-4.—(1) The auditor shall in his report state —
+6.—(1) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Board;
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(b) whether proper accounting and other records have been kept, including records of all assets of the Board whether purchased, donated or otherwise;
+(3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements of the Board and of the auditor’s report to be published in theGazetteand presented to Parliament.
 
-(c) whether receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Board during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-(2) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Board, and shall also submit such periodical and special reports to the Minister and to the Board as may appear to him to be necessary or as the Minister or the Board may require.
-
-5.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-(2) Any person who fails, without reasonable excuse, to comply with any requirement of the auditor under sub-paragraph (1) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-6.—(1) The Board shall, as soon as the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
-
-(2) Where the Auditor-General is not the auditor of the Board, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
-
-(3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be published in theGazetteand presented to Parliament.
+[Act 5 of 2018 wef 01/04/2018]
 
 7\. The Chairman of the Board shall, as soon as practicable after the end of each financial year, submit to the Board an account of the revenue and expenditure of the Fund, of the contributions received, of withdrawals made and of interest credited to members during the preceding financial year together with a statement of the assets and liabilities of the Fund.
 
-8.—(1) The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Board during the preceding financial year and containing such information relating to the proceedings and policy of the Board as the Minister may from time to time direct.
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+8. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 9. The financial year of the Board shall be determined by the Board.
 
@@ -9152,6 +9158,14 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|2 October 2017 (Bill No. 39/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|6 November 2017|
 ||Date of commencement|1 March 2018|
+|217.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
+|218.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
