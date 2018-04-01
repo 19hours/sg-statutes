@@ -36,7 +36,7 @@
 
 - [14 Appointment, powers and duties of Principal](#Appointment-powers-and-duties-of-Principal)
 
-- [14A Public servants](#Public-servants)
+- [14A Other officers and employees, etc.](#Other-officers-and-employees-etc)
 
 - [15 Singapore Polytechnic Students’ Union](#Singapore-Polytechnic-Students’-Union)
 
@@ -44,15 +44,15 @@
 
 - [17 Polytechnic’s financial year](#Polytechnic’s-financial-year)
 
-- [18 Accounts and financial statements](#Accounts-and-financial-statements)
+- [18 (Repealed)](#Repealed)
 
-- [19 Audit of accounts](#Audit-of-accounts)
+- [19 (Repealed)](#Repealed)
 
-- [20 Failure to furnish information to auditor](#Failure-to-furnish-information-to-auditor)
+- [20 (Repealed)](#Repealed)
 
-- [21 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
+- [21 (Repealed)](#Repealed)
 
-- [22 Annual report](#Annual-report)
+- [22 (Repealed)](#Repealed)
 
 - [23 Regulations](#Regulations)
 
@@ -86,7 +86,13 @@ An Act to establish the Singapore Polytechnic and for matters connected therewit
 
 “by-laws” means by-laws made by the Board under section 7;
 
-“Chairman” means the Chairman of the Board.
+“Chairman” means the Chairman of the Board;
+
+[Act 5 of 2018 wef 01/04/2018]
+
+“Principal” means the Principal of the Singapore Polytechnic, and includes any individual acting in that capacity.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Establishment of Polytechnic
 
@@ -192,6 +198,8 @@ An Act to establish the Singapore Polytechnic and for matters connected therewit
 
 9\.—(1) The Chairman shall summon meetings of the Board as often as may be required.
 
+[7/80]
+
 (2) At every meeting of the Board 6 members shall form a quorum.
 
 (3) Every decision at a meeting of the Board shall be adopted by a simple majority of the votes of the members present and voting, except that in the case of an equality of votes, the Chairman or, in his absence, the Deputy Chairman of the Board shall have a casting vote.
@@ -204,11 +212,11 @@ An Act to establish the Singapore Polytechnic and for matters connected therewit
 
 (7) The Board shall not be precluded from holding a meeting or acting in any matter merely by reason of any vacancy in its membership.
 
-(8) Subject to the provisions of this Act, the Board may make standing orders to regulate its own procedure.
+(8) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may make standing orders to regulate its own procedure.
 
 [7
 
-[7/80]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Power of Board to enter into contracts and to hold property
 
@@ -254,6 +262,10 @@ An Act to establish the Singapore Polytechnic and for matters connected therewit
 
 14\.—(1) There shall be a Principal of the Polytechnic who shall be appointed by the Board, on such terms and conditions as the Board may determine; and the Principal may for good cause be removed from his office by the Board.
 
+(1A) The appointment, removal, discipline and promotion of the Principal of the Polytechnic must be in accordance with the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 (2) The Principal shall be the chief administrative and academic officer of the Polytechnic and shall be responsible to the Board —
 
 (a) for the proper administration of the Polytechnic in accordance with the policy of the Board;
@@ -270,11 +282,11 @@ and for such purposes the Principal shall have, subject to the provisions of thi
 
 [12
 
-### Public servants
+### Other officers and employees, etc.
 
-14A\. All members of the Board, and all officers, members of the academic and administrative staff and other employees of the Polytechnic, are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+14A\. The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-[Act 16 of 2016 wef 10/06/2016]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Singapore Polytechnic Students’ Union
 
@@ -310,69 +322,15 @@ and for such purposes the Principal shall have, subject to the provisions of thi
 
 [7/80]
 
-### Accounts and financial statements
+18\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-18\.—(1) The Board shall keep proper accounts and records of the transactions and affairs of the Polytechnic and shall do all things necessary to ensure that all payments out of the moneys of the Polytechnic are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Polytechnic and over the expenditure incurred by the Polytechnic.
+19\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(2) The Board shall, as soon as practicable after the close of each financial year, prepare and submit financial statements in respect of that year to the auditor of the Polytechnic.
+20\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-[16
+21\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-[7/80]
-
-### Audit of accounts
-
-19\.—(1) The accounts of the Polytechnic shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
-
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
-
-(3) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating directly or indirectly to the financial transactions of the Polytechnic.
-
-(4) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Polytechnic;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Polytechnic whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure, and investment of moneys and the acquisition and disposal of assets by the Polytechnic during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-[17
-
-[7/80]
-
-### Failure to furnish information to auditor
-
-20\.—(1) The auditor may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-(2) Any person who fails without reasonable excuse to comply with any requirement of the auditor under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-[18
-
-[7/80]
-
-### Presentation of financial statements and auditor’s report to Parliament
-
-21\.—(1) The Board shall, as soon as the accounts of the Polytechnic and the financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
-
-(2) Where the Auditor-General is not the auditor of the Polytechnic, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Board.
-
-(3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report referred to in subsection (1) to be presented to Parliament.
-
-[19
-
-[7/80]
-
-### Annual report
-
-22\.—(1) The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Polytechnic during the preceding financial year and containing such information relating to the proceedings and policy of the Polytechnic as the Minister may, from time to time, direct.
-
-(2) The Minister shall as soon as practicable cause a copy of every such annual report to be presented to Parliament.
-
-[20
-
-[7/80]
+22\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Regulations
 
@@ -446,3 +404,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|12.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
