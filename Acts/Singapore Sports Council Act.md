@@ -22,7 +22,7 @@
 
 - [6 Meetings of Council](#Meetings-of-Council)
 
-- [7 Disclosure of interest](#Disclosure-of-interest)
+- [7 (Repealed)](#Repealed)
 
 [**Part 3 FUNCTIONS AND POWERS OF COUNCIL**](#Part-3)
 
@@ -42,15 +42,15 @@
 
 [**Part 5 PROVISIONS RELATING TO STAFF**](#Part-5)
 
-- [14 Chief Executive Director](#Chief-Executive-Director)
+- [14 Chief Executive Officer](#Chief-Executive-Officer)
 
-- [15 Employment of staff](#Employment-of-staff)
+- [15 Staff and employees](#Staff-and-employees)
 
 - [16 Pension schemes, provident fund, etc.](#Pension-schemes-provident-fund-etc)
 
 - [17 No entitlement in respect of abolition or re-organisation of office](#No-entitlement-in-respect-of-abolition-or-re-organisation-of-office)
 
-- [18 Public servants](#Public-servants)
+- [18 (Repealed)](#Repealed)
 
 [**Part 6 FINANCIAL PROVISIONS**](#Part-6)
 
@@ -103,6 +103,10 @@ PRELIMINARY
 2\. In this Act, unless the context otherwise requires —
 
 “Chairman” means the Chairman of the Council appointed under section 4;
+
+“Chief Executive Officer” means the chief executive of the Council, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “Council” means the Singapore Sports Council established under section 3;
 
@@ -160,19 +164,11 @@ all of whom shall be appointed by the Minister.
 
 (5) Every question before the Council shall be decided by a majority of the votes of the members present at the meeting, and in the event of an equality of votes, the Chairman or the member presiding at the meeting shall have a casting vote in addition to his original vote.
 
-(6) Subject to the provisions of this Act, the Council may make standing orders to regulate its own procedure, and in particular, the holding of meetings, the notice to be given of the meetings, the keeping of minutes and the custody, production and inspection of the minutes.
+(6) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council may make standing orders to regulate its own procedure, and in particular, the holding of meetings, the notice to be given of the meetings, the keeping of minutes and the custody, production and inspection of the minutes.
 
-### Disclosure of interest
+[Act 5 of 2018 wef 01/04/2018]
 
-7\.—(1) A member who is directly or indirectly interested in a contract made, or proposed to be made, by the Council shall disclose the nature of his interest at the first meeting of the Council at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under subsection (1) shall be recorded in the minutes of that meeting and, after the disclosure, that member —
-
-(a) shall not take part in any deliberation or decision of the Council with respect to that contract; and
-
-(b) shall be disregarded for the purpose of constituting a quorum for any such deliberation or decision.
-
-(3) No act or proceeding of the Council shall be questioned on the ground that a member has contravened this section.
+7\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART 3
 
@@ -238,7 +234,9 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 ### Directions by Minister
 
-10\.—(1) The Minister may give such directions not inconsistent with the provisions of this Act as to the policy to be followed by the Council in the performance of its functions under this Act and the Council shall give effect to any such directions.
+10\.—(1) The Minister may give to the Council any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Council shall give the Minister such information with regard to its property and activities as the Minister may require.
 
@@ -270,21 +268,23 @@ TRANSFER TO COUNCIL OF UNDERTAKINGS, ETC.
 
 PROVISIONS RELATING TO STAFF
 
-### Chief Executive Director
+### Chief Executive Officer
 
-14\.—(1) The Council shall, with the approval of the Minister, appoint a Chief Executive Director on such terms and conditions as the Council may determine.
+14\.—(1) The Chief Executive Officer is the chief executive of the Council, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive Director shall —
+(2) The Council may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive Officer during any period, or during all periods, when the Chief Executive Officer —
 
-(a) be the chief executive officer of the Council; and
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the members of the Council for the proper administration and management of the affairs of the Council in accordance with the policy laid down by the Council.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) If the Chief Executive Director is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for other reasons temporarily unable to perform his duties, a person may be appointed by the Council to act in the place of the Chief Executive Director during any such period of absence from duty.
+[Act 5 of 2018 wef 01/04/2018]
 
-### Employment of staff
+### Staff and employees
 
-15\. The Council may from time to time and subject to such directions as may be given by the Minister appoint such number of officers and employees as may be necessary for the carrying out of its functions under this Act.
+15\. The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Pension schemes, provident fund, etc.
 
@@ -324,9 +324,7 @@ PROVISIONS RELATING TO STAFF
 
 [14/77]
 
-### Public servants
-
-18\. The members and employees of the Council shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+18\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART 6
 
@@ -430,9 +428,11 @@ Statement of outstanding loan and sinking fund
 
 Budget
 
-3.—(1) The Council shall in every financial year prepare in a form to be approved by the Minister a budget containing estimates of income and expenditure of the Council for the ensuing financial year.
+3.—(1) The Council must, in every financial year of the Council, prepare or cause to be prepared, in the form approved by the Minister, and must adopt a budget containing annual estimates of its revenue and expenditure for the following financial year.
 
-(2) The Minister may approve or disallow any item or part of any item shown in the budget, and shall return the budget as amended by him to the Council and the Council shall be bound thereby.
+[Act 5 of 2018 wef 01/04/2018]
+
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (3) The Council may at any time prepare a supplementary budget to provide for unforeseen or urgent expenditure containing —
 
@@ -444,49 +444,35 @@ Budget
 
 and such supplementary budget shall be dealt with in the same manner as the annual budget.
 
+(3A) A copy of all budgets and supplementary budgets must, upon their adoption by the Council, be sent without delay to the Minister.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(3B) The Minister may approve or disallow any item or portion of any item shown in the budget or supplementary budget.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(3C) The Minister must return the budget or supplementary budget as amended under sub‑paragraph (3B) to the Council, and the Council is bound by the Minister’s decision.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 (4) The Council may transfer all or any part of the sums assigned to one item of expenditure to another item under the same head of expenditure in a budget approved by the Minister.
 
-Annual report
+4. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-4\. The Council shall, as soon as practicable after the close of each financial year, prepare a report on its activities in that year and submit it to the Minister, who shall present a copy of the report to Parliament.
+5. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-Accounts
+6. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-5\. The Council shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its funds are correctly made and that adequate control is maintained over the assets of the Council.
+7. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-Appointment of auditors
+8. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-6.—(1) The accounts of the Council shall be audited by an auditor who may be the Auditor-General or an auditor appointed annually by the Minister in consultation with the Auditor-General.
+When audited financial statements must be given to Minister
 
-(2) The auditor shall be entitled to full and free access to all accounting and other records relating directly or indirectly to the financial transactions of the Council and may make copies of, or make extracts from, any such accounting and other records.
+9. The Council must send the audited annual financial statements of the Council, signed by the Chairman and the Chief Executive Officer, to the Minister no later than 31 October in each year, together with a copy of any report made by the auditor of the Council.
 
-Financial statements
-
-7\. The Council shall, as soon as practicable after the close of each financial year, but not later than 31 July, prepare and submit the financial statements in respect of that year to the auditor who shall audit the statements and submit his report not later than 30 September.
-
-Duties of auditor
-
-8.—(1) The auditor shall report —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Council; and
-
-(b) such other matters arising from the audit as he considers necessary.
-
-(2) The auditor shall state in his report whether —
-
-(a) proper accounting and other records have been kept; and
-
-(b) the receipt, expenditure and investment of moneys and the acquisition and disposal of assets by the Council during the financial year have been in accordance with the provisions of this Act.
-
-(3) The auditor may at any time report to the Minister, through the Council, on any matter arising out of the performance of his audit.
-
-Presentation of financial statements and audit reports
-
-9.—(1) As soon as the financial statements have been audited, but not later than 31 October, a copy of the audited financial statements signed by the Chairman and the Chief Executive Director together with a copy of the report thereon made by the auditor, shall be submitted to the Minister.
-
-(2) If the Auditor-General is not the auditor of the Council, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time as they are submitted to the Council.
-
-(3) The Minister shall present a copy of the audited financial statements and of the auditor’s report to Parliament.
+[Act 5 of 2018 wef 01/04/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -533,6 +519,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|9.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Singapore Sports Council Act
