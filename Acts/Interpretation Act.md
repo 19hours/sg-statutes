@@ -96,6 +96,8 @@
 
 - [35 Signification of orders, etc., of Minister](#Signification-of-orders-etc-of-Minister)
 
+- [35A Subsidiary legislation by statutory body, etc.](#Subsidiary-legislation-by-statutory-body-etc)
+
 - [36 Delegation of powers of Minister](#Delegation-of-powers-of-Minister)
 
 - [37 Signing of documents](#Signing-of-documents)
@@ -862,6 +864,18 @@ POWERS AND APPOINTMENTS
 
 [7/97]
 
+### Subsidiary legislation by statutory body, etc.
+
+35A\.—(1) Where a statutory body is permitted by any written law to delegate the performance of any of the statutory body’s functions or the exercise of any of the statutory body’s powers, that power to delegate does not extend to the power to make any subsidiary legislation.
+
+(2) Where any Act confers upon a statutory body power to make subsidiary legislation, it is sufficient, unless in such Act it is otherwise provided, if the exercise of that power by the statutory body is signified under the hand of —
+
+(a) the chairperson of the statutory body; or
+
+(b) a member of the statutory body duly authorised by that body to do so in place of the chairperson.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 ### Delegation of powers of Minister
 
 36\.—(1) Where in any written law a Minister is empowered to exercise any power or perform any duty, he may, in the absence of any provision of law to the contrary, with the approval of the President and by notification in theGazette, depute any person by name or the person for the time being discharging the duties of an office designated by him to exercise that power or perform that duty on behalf of the Minister subject to such conditions, exceptions and qualifications as the President may determine.
@@ -1256,6 +1270,10 @@ This Legislative History is provided for the convenience of users of the Interpr
 |||(Bill No. 38/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|1 January 2015|
+|26.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Interpretation Act
