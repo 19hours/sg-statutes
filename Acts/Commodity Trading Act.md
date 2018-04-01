@@ -190,7 +190,9 @@ PRELIMINARY
 
 “auditor” means a public accountant within the meaning of the Companies Act (Cap. 50);
 
-“Board” means the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act (Cap. 143B);
+“Board” means the Enterprise Singapore Board established by section 3 of the Enterprise Singapore Board Act 2018;
+
+[Act 10 of 2018 wef 01/04/2018]
 
 “business rules”, in relation to a body corporate that maintains or proposes to maintain a commodity market, means the rules, regulations and by-laws, by whatever name called, governing the activities and conduct of —
 
@@ -1582,3 +1584,7 @@ The Commodity Futures Act was renamed as the Commodity Trading Act vide Commodit
 ||Date of commencement|2 January 2011|
 |12.|**G.N. No. S 343/2013—Commodity Trading Act (Amendment of Schedule) Order 2013**|
 ||Date of commencement|4 June 2013|
+|13.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
