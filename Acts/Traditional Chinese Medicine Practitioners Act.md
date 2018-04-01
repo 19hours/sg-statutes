@@ -176,7 +176,9 @@ on the basis of traditional Chinese medicine;
 
 “registered person” means a person who is registered under section 14 for the carrying out of any prescribed practice of traditional Chinese medicine;
 
-“Registrar” means the Registrar of the Board appointed under section 11(1) and includes any acting Registrar;
+“Registrar” means the Registrar of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “registration” means registration under section 14 for the carrying out of any prescribed practice of traditional Chinese medicine;
 
@@ -274,7 +276,9 @@ TRADITIONAL CHINESE MEDICINE PRACTITIONERS BOARD
 
 (3) The Chairman or member presiding at any meeting of the Board shall have an original vote and, in the case of an equality of votes, a casting vote.
 
-(4) Subject to this Act, the Board may regulate its own procedure.
+(4) Subject to this Act and the Public Sector (Governance) Act 2018, the Board may regulate its own procedure.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of executive secretary and other employees
 
@@ -290,7 +294,7 @@ TRADITIONAL CHINESE MEDICINE PRACTITIONERS BOARD
 
 (4) A committee appointed under this section may include persons who are not members of the Board.
 
-(5) The Board may continue to exercise any power conferred upon it or perform any function under this Act notwithstanding the delegation of such power or function under this section.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## PART III
 
@@ -298,13 +302,19 @@ REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
 
 ### Registrar
 
-11\.—(1) For the purposes of this Act, the Minister shall appoint any officer as the Registrar of the Board.
+11\.—(1) There must be a chief executive of the Board called the Registrar of the Board, whose appointment and removal must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Minister may appoint a person to act as Registrar during the absence from Singapore or incapacity from illness or otherwise of the Registrar.
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Registrar during any period, or during all periods, when the Registrar —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Register of Traditional Chinese Medicine Practitioners
 
-12\.—(1) The Registrar shall keep a Register of Traditional Chinese Medicine Practitioners which shall —
+12\.—(1) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar shall keep a Register of Traditional Chinese Medicine Practitioners which shall —
 
 (a) consist of such parts as the Board may determine; and
 
@@ -317,6 +327,8 @@ REGISTRATION OF TRADITIONAL CHINESE MEDICINE PRACTITIONERS
 (iii) the qualification by virtue of which he is registered and the date he obtained that qualification; and
 
 (iv) such other particulars as the Board may determine.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Registrar shall be responsible for the maintenance and custody of the Register.
 
@@ -626,7 +638,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) The Minister may pay into the funds of the Board such sum of money out of moneys to be provided by Parliament as the Minister may determine.
 
-(5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor or auditors approved by the Minister.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Assessor to Board
 
@@ -716,6 +728,10 @@ This Legislative History is provided for the convenience of users of the Traditi
 
 |
 (sections 24 and 25)|
+|4.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Traditional Chinese Medicine Practitioners Act
