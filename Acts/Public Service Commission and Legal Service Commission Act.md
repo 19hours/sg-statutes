@@ -54,11 +54,15 @@ An Act to provide for the punishment of offences in connection with the exercise
 
 ### Communications of Commission to be privileged
 
-3\. No person shall in any legal proceedings be permitted or compelled to produce or disclose any communication, written or oral, which has taken place between the Commission or any member of it and the Government or the President or a Minister or the head of a department of the Government or any other person, or any communication between members of the Commission in exercise of or in connection with the exercise of the functions of the Commission, unless the President, acting in his discretion, consents in writing to such production or disclosure.
+3\. No person shall in any legal proceedings be permitted or compelled to produce or disclose any communication, written or oral, which has taken place between the Commission or any member of it and the Government or the President or a Minister or the head of a department of the Government or any other person, or any communication between members of the Commission in exercise of or in connection with the exercise of the functions of the Commission, unless the President consents in writing to such production or disclosure.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Publication and disclosure of information to unauthorised persons prohibited
 
-4\.—(1) No member of the Commission nor any other person shall, without the written permission of the President acting in his discretion, publish or disclose to any unauthorised person or otherwise than in the course of the duty of the member or other person the contents or any part of the contents of any document, communication or information which has come to the knowledge of that member or other person in the course of the member’s or other person’s duties under any written law relating to the Commission in respect of any of the Commission’s functions under any such law, and any person who knowingly acts in contravention of this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+4\.—(1) No member of the Commission nor any other person shall, without the written permission of the President, publish or disclose to any unauthorised person or otherwise than in the course of the duty of the member or other person the contents or any part of the contents of any document, communication or information which has come to the knowledge of that member or other person in the course of the member’s or other person’s duties under any written law relating to the Commission in respect of any of the Commission’s functions under any such law, and any person who knowingly acts in contravention of this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) If any person having possession of any information which to his knowledge has been disclosed in contravention of this section publishes or communicates that information to any other person otherwise than for the purpose of a prosecution under this Act, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding one year or to both.
 
@@ -130,3 +134,7 @@ The Public Service Commission Ordinance 1956 repealed the Public Services Commis
 ||Date of commencement|1 November 2007|
 |9.|**2014 Revised Edition—Public Service Commission and Legal Service Commission Act (Chapter 259)**|
 ||Date of operation|31 August 2014|
+|10.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
