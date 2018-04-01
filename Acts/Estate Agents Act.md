@@ -34,17 +34,17 @@
 
 - [12 Appointment of committees and delegation](#Appointment-of-committees-and-delegation)
 
-- [13 Appointment of Executive Director and other employees, etc.](#Appointment-of-Executive-Director-and-other-employees-etc)
+- [13 Executive Director, officers and employees, etc.](#Executive-Director-officers-and-employees-etc)
 
 - [14 Preservation of secrecy](#Preservation-of-secrecy)
 
 - [15 Protection from personal liability](#Protection-from-personal-liability)
 
-- [16 Public servants](#Public-servants)
+- [16 (Repealed)](#Repealed)
 
 - [17 Financial year](#Financial-year)
 
-- [18 Annual estimates](#Annual-estimates)
+- [18 Minister’s approval of estimates](#Minister’s-approval-of-estimates)
 
 - [19 Moneys recovered or collected by Council](#Moneys-recovered-or-collected-by-Council)
 
@@ -60,9 +60,9 @@
 
 - [25 Investment power](#Investment-power)
 
-- [26 Financial provisions](#Financial-provisions)
+- [26 (Repealed)](#Repealed)
 
-- [27 Annual report](#Annual-report)
+- [27 (Repealed)](#Repealed)
 
 [**Part III LICENSING OF ESTATE AGENTS AND REGISTRATION OF SALESPERSONS**](#Part-III)
 
@@ -172,7 +172,7 @@
 
 [**FIRST SCHEDULE Constitution and proceedings of Council**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Council)
 
-[**SECOND SCHEDULE Financial provisions**](#SECOND-SCHEDULE-Financial-provisions)
+[**SECOND SCHEDULE Repealed**](#SECOND-SCHEDULE-Repealed)
 
 [**Legislative History**](#Legislative-History)
 
@@ -274,7 +274,9 @@ and any reference to the issue or publication of advertisements shall be constru
 
 “estate agent’s licence” means a licence granted under section 33 and designated as being an estate agent’s licence;
 
-“Executive Director” means the Executive Director of the Council for the time being appointed under section 13 and any person acting as the Executive Director;
+“Executive Director” means the chief executive of the Council called the Executive Director, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “inspector” means any person appointed under section 45;
 
@@ -424,7 +426,9 @@ COUNCIL FOR ESTATE AGENCIES
 
 8\.—(1) The Council shall consist of the following members:
 
-(a) a President; and
+(a) a chairperson called the President;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (b) such other members, not being less than 5 or more than 15, as the Minister may from time to time determine.
 
@@ -484,9 +488,9 @@ COUNCIL FOR ESTATE AGENCIES
 
 ### Directions by Minister
 
-11\.—(1) The Minister may give to the Council such directions, not inconsistent with the provisions of this Act, as to the performance of its functions, the discharge of its duties and the exercise of its powers under this Act or any other written law as the Minister may consider necessary, and the Council shall give effect to all such directions.
+11\. The Minister may give to the Council any direction under section 5 of the Public Sector (Governance) Act 2018.
 
-(2) Nothing in this section shall be construed as enabling the Minister to exercise any power or control in relation to any particular application or other matter with which the Council or a committee is concerned.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of committees and delegation
 
@@ -506,29 +510,31 @@ COUNCIL FOR ESTATE AGENCIES
 
 (c) to any committee appointed under subsection (1),
 
-any of its functions, duties or powers under this Act or any other written law, except the power to make subsidiary legislation and the power of delegation conferred by this subsection.
+any of its functions, duties or powers under this Act or any other written law.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (6) Any function, duty or power delegated under subsection (5) to any committee or person may be performed or exercised by the committee or person in the name and on behalf of the Council.
 
-(7) No delegation under this section shall restrict or prevent the performance, discharge or exercise of any function, duty or power by the Council.
+(7) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-### Appointment of Executive Director and other employees, etc.
+### Executive Director, officers and employees, etc.
 
-13\.—(1) The Council shall, with the approval of the Minister, appoint an Executive Director on such terms and conditions as the Council may determine.
+13\.—(1) There must be an Executive Director of the Council, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Executive Director shall —
+(2) The Council may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Executive Director during any period, or during all periods, when the Executive Director —
 
-(a) be responsible to the Council for the proper administration and management of the functions, duties and affairs of the Council in accordance with the policy laid down by the Council; and
+(a) is absent from duty or Singapore; or
 
-(b) not be removed from office without the consent of the Minister.
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) If the Executive Director is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to discharge his duties, another person may be appointed by the Council, with the approval of the Minister, to act in the place of the Executive Director during any such period of absence from duty.
+(3) The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(4) The Council may, from time to time, appoint or employ on such terms and conditions as the Council may determine such officers, employees, consultants and agents as it thinks fit for the effective performance of its functions and discharge of its duties under this Act or any other written law.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Preservation of secrecy
 
-14\.—(1) Except for the purpose of the performance of his functions or the discharge of his duties or when lawfully required to do so by any court or under the provisions of any written law, no person who is or has been —
+14\.—(1) Except for the purpose of the performance of his functions or the discharge of his duties or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, no person who is or has been —
 
 (a) a member, an officer, an employee, a consultant or an agent of the Council;
 
@@ -540,6 +546,8 @@ any of its functions, duties or powers under this Act or any other written law, 
 
 shall disclose any information relating to the affairs of the Council or any other person which has been obtained by him in the performance of his functions or the discharge of his duties under this Act.
 
+[Act 5 of 2018 wef 01/04/2018]
+
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 ### Protection from personal liability
@@ -548,29 +556,23 @@ shall disclose any information relating to the affairs of the Council or any oth
 
 (2) Where the Council provides a service to the public whereby information is supplied to the public pursuant to any written law, neither any of its members, officers, employees nor committee members involved in the supply of such information shall be liable for any loss or damage suffered by any member of the public by reason of any error or omission of whatever nature appearing therein or however caused if made in good faith and in the ordinary course of the discharge of the duties of such member, officer, employee or committee member.
 
-### Public servants
-
-16\. All members, officers and employees of the Council including inspectors appointed under section 45 shall, in the performance of their functions and duties under this Act, be deemed to be —
-
-(a) public servants for the purposes of the Penal Code (Cap. 224); and
-
-(b) public officers for the purposes of the Financial Procedure Act (Cap. 109) and section 20 of that Act shall apply to such persons notwithstanding that they are not or were not in the employment of the Government.
+16\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Financial year
 
 17\. The financial year of the Council shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Council shall begin on 22nd October 2010 and end on 31st March of the succeeding year.
 
-### Annual estimates
+### Minister’s approval of estimates
 
-18\.—(1) The Council shall, in every financial year, prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Council for the ensuing financial year.
+18\.—(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Council, be sent without delay to the Minister.
 
-(2) Supplementary estimates may be adopted by the Council at any of its meetings.
+(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.
 
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Council, be sent immediately to the Minister.
+(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Council, and the Council is bound by the Minister’s decision.
 
-(4) The Minister may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by him to the Council, and the Council shall be bound thereby.
+(4) However, the Council may transfer all or any part of moneys assigned to one item of expenditure to any item under the same head of expenditure in any estimates approved by the Minister.
 
-(5) Notwithstanding any provision of this section, the Council may transfer all or any part of moneys assigned to one item of expenditure to any item under the same head of expenditure in any estimates approved by the Minister.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Moneys recovered or collected by Council
 
@@ -612,15 +614,9 @@ shall disclose any information relating to the affairs of the Council or any oth
 
 25\. The Council may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-### Financial provisions
+26\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-26\. The financial provisions set out in the Second Schedule shall have effect with respect to the Council.
-
-### Annual report
-
-27\.—(1) The Council shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during the preceding financial year and containing such information relating to the proceedings and policy of the Council as the Minister may, from time to time, direct.
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+27\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART III
 
@@ -1680,15 +1676,7 @@ Disqualification from membership
 
 (d) is otherwise unable or unfit to discharge the functions of a member.
 
-Disclosure of interest by members
-
-12.—(1) A member who is in any way, directly or indirectly, interested in a contract, transaction or project of, or any matter before the Council, shall disclose the nature of his interest at the first meeting of the Council at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Council and, after the disclosure, that member shall not take part in any deliberation or decision of the Council with respect to that contract, transaction, project or matter.
-
-(3) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that, under sub-paragraph (2), he cannot vote or has withdrawn from the meeting.
-
-(4) For the purposes of this paragraph, a member whose spouse, parent, step-parent, son, adopted son, step-son, daughter, adopted daughter or step-daughter has an interest in the transaction or project referred to in sub-paragraph (1) shall be deemed to be interested in such transaction or project.
+12. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Salaries, fees and allowances payable to members
 
@@ -1706,27 +1694,11 @@ Procedure at meetings
 
 15.—(1) The President or any officer authorised by him shall, subject to such standing orders as may be made by the Council under sub-paragraph (2), summon all meetings of the Council for the despatch of business.
 
-(2) Subject to the provisions of this Act, the Council may make standing orders to regulate its own procedure generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
+(2) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council may make standing orders to regulate its own procedure generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
 
-Transaction of business by Council outside meetings
+[Act 5 of 2018 wef 01/04/2018]
 
-16.—(1) The Council may, if it thinks fit, transact any of its business by the circulation of papers among members of the Council.
-
-(2) A member who is in any way, directly or indirectly, interested in the business being transacted by circulation of papers shall disclose the nature of his interest in writing to the President at the first opportunity after the relevant facts have come to his knowledge, which disclosure shall be recorded and treated as having been made in accordance with paragraph 12, and that member shall not take part in the decision with respect to that transaction.
-
-(3) A decision in writing made by a simple majority of the members for the time being entitled to take part in the decision in respect thereof shall be taken to be a decision of the Council, and shall be as valid and effectual as if it had been made at a meeting of the Council duly convened and held.
-
-(4) Separate copies of a decision in writing may be distributed for signing by the members if the wording of the decision and approval is identical in each copy.
-
-(5) For the purpose of a decision under this paragraph, the President and each member shall have the same voting rights as they have at any meeting of the Council.
-
-(6) The decision of the Council shall be made when the last member thereof required for the majority signs and his decision is duly delivered to the secretary appointed under paragraph 18.
-
-(7) The President may stipulate a period of time within which a decision may be made under this paragraph.
-
-(8) The Council may, if it thinks fit, deliberate on matters by the circulation of papers among all of the members of the Council.
-
-(9) For the purposes of this paragraph, papers (including disclosures and decisions) may be circulated among members or delivered to the secretary appointed under paragraph 18 by hand or facsimile or electronic transmission of the information in the papers concerned.
+16. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Validity of act or proceeding
 
@@ -1734,11 +1706,15 @@ Validity of act or proceeding
 
 (a) of any vacancy in, or defect in the constitution of, the Council;
 
-(b) of any defect in the appointment of any person acting as the President or as any other member;
+(b) of any defect in the appointment of any person acting as the President or as any other member; or
 
-(c) of any omission, defect or irregularity in the procedure of the Council not affecting the merits of the case; or
+[Act 5 of 2018 wef 01/04/2018]
 
-(d) that any member has contravened paragraph 12 or 16(2).
+(c) of any omission, defect or irregularity in the procedure of the Council not affecting the merits of the case.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(d) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Secretary of Council
 
@@ -1746,75 +1722,7 @@ Secretary of Council
 
 SECOND SCHEDULE
 
-Section 26
-
-Financial provisions
-
-Accounts of Council
-
-1. The Council shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
-
-(a) all payments out of its moneys are properly authorised and correctly made; and
-
-(b) adequate control is maintained over the assets of, or in the custody of, the Council and over the expenditure incurred by the Council.
-
-Auditor
-
-2\. The accounts of the Council shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
-
-Appointment of auditor
-
-3\. A person shall not be qualified for appointment as an auditor under paragraph 2 unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
-
-Remuneration of auditor
-
-4\. The remuneration of the auditor shall be paid out of the moneys of the Council.
-
-Annual financial statements
-
-5\. The Council shall, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
-
-Duties of auditor
-
-6. The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Council;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Council whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Council during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-Auditor’s report
-
-7.—(1) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Council.
-
-(2) The auditor shall submit such periodical and special reports to the Minister and to the Council as may appear to him to be necessary or as the Minister or the Council may require.
-
-Powers of auditor
-
-8.—(1) The auditor or any person authorised by him is entitled at any reasonable time to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Council.
-
-(2) The auditor or any person authorised by him may make copies of, or take extracts from, any such accounting and other records.
-
-(3) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or any duly authorised person considers necessary for the purposes of his functions under this Act.
-
-Penalty for obstructing auditor
-
-9\. Any person who fails, without any reasonable cause, to comply with any requirement of the auditor or authorised person under paragraph 8 or who otherwise hinders, obstructs or delays the auditor or authorised person in the performance of his functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-Presentation of audited financial statements and auditor’s report
-
-10\. The Council shall, as soon as its accounts and financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the President, together with a copy of the auditor’s report.
-
-Copy of auditor’s report for Auditor-General
-
-11\. Where the Auditor-General is not appointed as the auditor, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Council.
-
-Presentation to Parliament
-
-12\. The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
+[Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -1838,6 +1746,10 @@ This Legislative History is provided for the convenience of users of the Estate 
 ||Dates of commencement|1 January 2011 (sections 29, 39, 41 and 44)|
 |3.|**2011 Revised Edition—Estate Agents Act (Chapter 95A)**|
 ||Date of operation|31 December 2011|
+|4.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Estate Agents Act
