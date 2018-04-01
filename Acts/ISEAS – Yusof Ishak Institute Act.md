@@ -16,6 +16,8 @@
 
 - [5 Powers of Board](#Powers-of-Board)
 
+- [5A Directions by Minister](#Directions-by-Minister)
+
 - [6 Quorum](#Quorum)
 
 - [7 (Repealed)](#Repealed)
@@ -28,9 +30,9 @@
 
 - [10 Use of common seal](#Use-of-common-seal)
 
-- [11 Grants-in-aid and financial provisions](#Grants-in-aid-and-financial-provisions)
+- [11 Grants-in-aid](#Grants-in-aid)
 
-- [11A Annual report](#Annual-report)
+- [11A (Repealed)](#Repealed)
 
 - [12 Appointment, powers and duties of Director](#Appointment-powers-and-duties-of-Director)
 
@@ -42,11 +44,9 @@
 
 - [16 Power of Board to accept gifts](#Power-of-Board-to-accept-gifts)
 
-- [17 Public servants](#Public-servants)
+- [17 (Repealed)](#Repealed)
 
 - [18 Protection from personal liability](#Protection-from-personal-liability)
-
-[**THE SCHEDULE Financial provisions**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -82,7 +82,9 @@ An Act to provide for the establishment of the ISEAS – Yusof Ishak Institute a
 
 “Chairman” means the Chairman of the Board appointed under section 4;
 
-“Director” means the Director of the Institute appointed under section 12;
+“Director” means the Director of the Institute, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “Institute” means the ISEAS – Yusof Ishak Institute established under section 3;
 
@@ -148,6 +150,12 @@ Provided that the Minister may at any time revoke such an appointment.
 
 (d) generally to do all such matters and things as may be incidental to or consequential upon the exercise of its powers or the discharge of its functions under this Act.
 
+### Directions by Minister
+
+5A\. The Minister may give to the Institute any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 ### Quorum
 
 6\.—(1) Every question before the Board at any meeting shall be decided by a majority of the votes of the members present.
@@ -188,29 +196,21 @@ Provided that the Minister may at any time revoke such an appointment.
 
 10\. The common seal of the Board shall be in the custody of the Director. It shall not be affixed to any instrument except in the presence of the Chairman or a member of the Board designated by the Chairman and the Director or a member of the Executive Committee designated by the Director, and not until the Chairman or the member of the Board and the Director or the member of the Executive Committee have signed their names to the instrument in token of their presence.
 
-### Grants-in-aid and financial provisions
+### Grants-in-aid
 
 11\.—(1) The Minister may from time to time authorise the payment of grants-in-aid to the Institute.
 
 (2) All moneys provided for under subsection (1) may be applied or expended by the Institute for all or any of the purposes of the Institute.
 
-(3) The financial provisions set out in the Schedule are to have effect with respect to the Institute.
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018][Act 5 of 2018 wef 01/04/2018]
 
-[Act 23 of 2015 wef 01/11/2015]
-
-[Act 23 of 2015 wef 01/11/2015]
-
-### Annual report
-
-11A\.—(1) The Institute must, as soon as practicable after the close of each financial year, submit to the Minister an annual report on the activities of the Institute during that year.
-
-(2) The Minister must, as soon as practicable, cause a copy of the annual report to be presented to Parliament.
-
-[Act 23 of 2015 wef 01/11/2015]
+11A\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment, powers and duties of Director
 
-12\.—(1) There shall be a Director of the Institute who shall be appointed by the Board on such terms and conditions as the Board may determine.
+12\.—(1) There must be a chief executive of the Institute called the Director, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Director shall be the chief administrative and academic officer of the Institute and shall be responsible for —
 
@@ -223,6 +223,18 @@ Provided that the Minister may at any time revoke such an appointment.
 (d) the discipline of the fellows of the Institute,
 
 and for those purposes the Director shall, subject to the provisions of this Act, have all such powers as are necessary or advantageous and proper.
+
+(3) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Director during any period, or during all periods, when the Director —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(4) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Constitution of Executive Committee
 
@@ -310,11 +322,7 @@ and for those purposes the Director shall, subject to the provisions of this Act
 
 (3) All property, moneys or funds donated for any specific purposes shall be applied and administered in accordance with the purposes for which they have been donated and shall be separately accounted for.
 
-### Public servants
-
-17\. All employees of the Institute are deemed to be public servants for the purposes of the Penal Code (Cap. 224).
-
-[Act 23 of 2015 wef 01/11/2015]
+17\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Protection from personal liability
 
@@ -323,80 +331,6 @@ and for those purposes the Director shall, subject to the provisions of this Act
 (a) the exercise or purported exercise of any power under this Act; or
 
 (b) the performance or purported performance of any function or duty under this Act.
-
-[Act 23 of 2015 wef 01/11/2015]
-
-## THE SCHEDULE
-
-Section 11(3)
-
-Financial provisions
-
-Accounts of Institute
-
-1. The Institute must keep proper accounts and records of its transactions and affairs and must do all things necessary to ensure that —
-
-(a) all payments out of its moneys are correctly made and properly authorised; and
-
-(b) adequate control is maintained over the assets of, or in the custody of, the Institute and over the expenditure incurred by the Institute.
-
-Auditor
-
-2\. The accounts of the Institute must be audited by the Auditor-General or by an auditor appointed annually by the Minister in consultation with the Auditor-General.
-
-Appointment of auditor
-
-3\. A person does not qualify for appointment as an auditor under paragraph 2 unless the person is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
-
-Remuneration of auditor
-
-4\. The remuneration of the auditor is to be paid out of the moneys of the Institute.
-
-Annual financial statements
-
-5\. The Institute must, as soon as practicable after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who must audit and report on them.
-
-Duties of auditor
-
-6. The auditor must state in the auditor’s report —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Institute;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of, or in the custody of, the Institute whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Institute during the financial year were in accordance with the provisions of this Act; and
-
-(d) any other matters arising from the audit as the auditor considers necessary.
-
-Auditor’s report
-
-7.—(1) The auditor must, as soon as practicable after the accounts have been submitted for audit, send a report of the audit to the Institute.
-
-(2) The auditor must submit such periodical and special reports to the Minister and to the Institute as may appear to the auditor to be necessary or as the Minister or the Institute may require.
-
-Powers of auditor
-
-8.—(1) The auditor or any person authorised by the auditor is entitled at any reasonable time to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Institute.
-
-(2) The auditor or any person authorised by the auditor may make copies of, or take extracts from, any such accounting and other records.
-
-(3) The auditor or any person authorised by the auditor may require any person to furnish such information in the possession of that person or to which that person has access as the auditor or any duly authorised person considers necessary for the purposes of the auditor’s functions under this Act.
-
-Penalty for obstructing auditor
-
-9\. Any person who fails, without any reasonable cause, to comply with any requirement of the auditor or authorised person under paragraph 8 or who otherwise hinders, obstructs or delays the auditor or authorised person in the performance of the auditor’s functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of the day during which the offence continues after conviction.
-
-Presentation of audited financial statements and auditor’s report
-
-10\. The Institute must, as soon as its accounts and financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman of the Board, together with a copy of the auditor’s report.
-
-Copy of auditor’s report for Auditor-General
-
-11\. Where the Auditor-General is not appointed as the auditor, a copy of the audited financial statements and any report made by the auditor must be forwarded to the Auditor-General at the same time they are submitted to the Institute.
-
-Presentation to Parliament
-
-12. The Minister must, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
 
 [Act 23 of 2015 wef 01/11/2015]
 
@@ -460,3 +394,7 @@ This Legislative History is provided for the convenience of users of the Institu
 ||Date of Second and Third Readings|14 July 2015|
 ||Date of commencement|12 August 2015|
 |||1 November 2015|
+|12.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
