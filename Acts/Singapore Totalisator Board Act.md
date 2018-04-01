@@ -20,7 +20,11 @@
 
 - [5 Powers of Board](#Powers-of-Board)
 
+- [5A Directions by Minister](#Directions-by-Minister)
+
 - [6 Members of Board](#Members-of-Board)
+
+- [6A Chief executive](#Chief-executive)
 
 - [7 Appointment of officers, etc.](#Appointment-of-officers-etc)
 
@@ -32,7 +36,7 @@
 
 - [9B Power to borrow](#Power-to-borrow)
 
-- [10 Financial provisions](#Financial-provisions)
+- [10 Financial year](#Financial-year)
 
 [**Part III TOTALISATORS AND TOTALISATOR AGENCIES**](#Part-III)
 
@@ -68,7 +72,7 @@
 
 [**FIRST SCHEDULE Constitution and Proceedings of Board**](#FIRST-SCHEDULE-Constitution-and-Proceedings-of-Board)
 
-[**SECOND SCHEDULE Financial Provisions**](#SECOND-SCHEDULE-Financial-Provisions)
+[**SECOND SCHEDULE Repealed**](#SECOND-SCHEDULE-Repealed)
 
 [**Legislative History**](#Legislative-History)
 
@@ -117,6 +121,10 @@ PRELIMINARY
 (v) in any other manner whatsoever;
 
 “Board” means the Singapore Totalisator Board established under section 3;
+
+“chief executive” means the chief executive of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “gaming” means the playing of any game of chance or of mixed chance and skill for money or money’s worth;
 
@@ -202,6 +210,12 @@ SINGAPORE TOTALISATOR BOARD
 
 (b) the promotion of culture, art and sport generally in Singapore.
 
+### Directions by Minister
+
+5A\. The Minister may give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 ### Members of Board
 
 6\.—(1) The Board shall consist of —
@@ -214,9 +228,21 @@ SINGAPORE TOTALISATOR BOARD
 
 (2) The First Schedule shall have effect with respect to the Board, its members and proceedings.
 
+### Chief executive
+
+6A\.—(1) There must be a chief executive of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
+
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive during any period, or during all periods, when the chief executive —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 ### Appointment of officers, etc.
 
-7\.—(1) Subject to subsection (2), the Board may, from time to time, on such terms and conditions as it may determine —
+7\.—(1) Subject to subsection (2) and the Public Sector (Governance) Act 2018, the Board may, from time to time, on such terms and conditions as it may determine —
 
 (a) appoint and employ such officers, employees, consultants or agents; and
 
@@ -225,6 +251,8 @@ SINGAPORE TOTALISATOR BOARD
 as may be necessary for the effective performance of its functions.
 
 [12/2008]
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Board shall obtain the approval of the Minister for the appointment of —
 
@@ -270,9 +298,11 @@ as may be necessary for the effective performance of its functions.
 
 [14/2005]
 
-### Financial provisions
+### Financial year
 
-10\. The financial provisions set out in the Second Schedule shall have effect with respect to the Board.
+10\. The financial year of the Board begins on 1 April of each year and ends on 31 March of the succeeding year.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ## PART III
 
@@ -498,11 +528,7 @@ Disqualification from membership
 
 (b) has been sentenced to imprisonment for a term of not less than 6 months and has not received a free pardon.
 
-Disclosure of interest by members
-
-11.—(1) A member of the Board who is in any way, directly or indirectly, interested in a transaction or project of the Board shall disclose the nature of his interest at a meeting of the Board; and the disclosure shall be recorded in the minutes of the Board and the member shall not take part in any deliberation of the Board with respect to that transaction or project.
-
-(2) For the purpose of determining whether there is a quorum, a member shall be treated as being present at a meeting notwithstanding that under sub-paragraph (1) he cannot vote or has withdrawn from the meeting.
+11. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Fees, etc., payable to members of Board
 
@@ -528,7 +554,9 @@ Vacancies
 
 Procedure at meetings
 
-15\. Subject to the provisions of this Act, the Board may make rules to regulate its own procedure generally, and in particular, regarding the holding and proceedings of meetings, the notice to be given of such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
+15. Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may make rules to regulate its own procedure generally, and in particular, regarding the holding and proceedings of meetings, the notice to be given of such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 Validity of proceedings
 
@@ -538,53 +566,7 @@ Validity of proceedings
 
 SECOND SCHEDULE
 
-Section 10
-
-Financial Provisions
-
-1\. The financial year of the Board shall begin on 1st April of each year and end on 31st March of the succeeding year.
-
-2\. The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in custody of, the Board and over the expenditure incurred by the Board.
-
-3.—(1) The accounts of the Board shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
-
-(2) A person shall not be qualified for appointment as an auditor under sub-paragraph (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
-
-4\. The remuneration of the auditor shall be paid out of the funds of the Board.
-
-5\. The Board shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
-
-6. The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Board;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Board whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure, investment of moneys, and the acquisition and disposal of assets by the Board during the financial year have been in accordance with this Act; and
-
-(d) such other matters arising from the audit as he considers should be reported.
-
-7\. The auditor may at any other time report to the Minister and to the Board upon any matter arising out of the performance of his audit.
-
-8\. The auditor or any person authorised by him is entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Board.
-
-9\. The auditor or a person authorised by him may make copies of or extracts from any such accounting and other records.
-
-10\. The auditor may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-11\. Any person who fails without any reasonable cause to comply with any requirement of the auditor under paragraph 10 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-12\. As soon as the accounts of the Board and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
-
-13\. Where the Auditor-General is not the auditor of the Board, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Board.
-
-14\. The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
-
-15\. The Board shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Board during the preceding financial year and containing such information relating to the proceedings and policy of the Board as the Minister may, from time to time, direct.
-
-16. The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
-
-[4/91; 4/97; 12/2008]
+[Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -645,6 +627,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|27 December 2010|
 |11.|**2012 Revised Edition—Singapore Totalisator Board Act (Chapter 305A)**|
 ||Date of operation|31 July 2012|
+|12.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Singapore Totalisator Board Act
