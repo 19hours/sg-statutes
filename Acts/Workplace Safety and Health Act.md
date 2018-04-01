@@ -1470,9 +1470,11 @@ HEALTH COUNCIL
 
 [9/2008]
 
-(4) In determining for the purpose of any provision of this Act as to whether any machinery, equipment, plant, installation or article is of good construction, sound material, adequate strength or in accordance with the generally accepted principles of safe and sound practice, regard shall be had to any relevant Singapore Standards established and published by the Standards, Productivity and Innovation Board under section 7(2)(h) of the Standards, Productivity and Innovation Board Act (Cap. 303A) or such other standards, codes of practice or guidance acceptable to the Council.
+(4) In determining for the purpose of any provision of this Act as to whether any machinery, equipment, plant, installation or article is of good construction, sound material, adequate strength or in accordance with the generally accepted principles of safe and sound practice, regard shall be had to any relevant Singapore Standards established and published by the Enterprise Singapore Board under the Enterprise Singapore Board Act 2018 or such other standards, codes of practice or guidance acceptable to the Council.
 
 [9/2008]
+
+[Act 10 of 2018 wef 01/04/2018]
 
 ## PART IX
 
@@ -2437,6 +2439,10 @@ The Workplace Safety and Health Act 2006 repealed the Factories Act (Chapter 104
 ||Date of First Reading|2 October 2017 (Bill No. 38/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|6 November 2017|
 ||Date of commencement|1 January 2018|
+|12.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Workplace Safety and Health Act
