@@ -30,7 +30,7 @@
 
 - [4F Meetings and quorum of Board](#Meetings-and-quorum-of-Board)
 
-- [4G Decision-making outside of meeting](#Decision-making-outside-of-meeting)
+- [4G (Repealed)](#Repealed)
 
 - [5 Common seal of Board](#Common-seal-of-Board)
 
@@ -310,7 +310,9 @@ PRELIMINARY
 
 [Act 20 of 2017 wef 06/10/2017]
 
-“Registrar” means the Registrar of the Board appointed under section 9;
+“Registrar” means the Registrar of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “rules” means rules made by the Board under section 38;
 
@@ -456,45 +458,23 @@ BOARD OF ARCHITECTS
 
 4F\.—(1) At any meeting of the Board, 8 members shall form a quorum and no business shall be transacted at any meeting unless a quorum is present.
 
-(1A) A meeting of the Board may be held —
+(1A) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(a) by a quorum of the members, being assembled together at the place and time appointed for the meeting; or
-
-(b) by means of audio, audio and visual, or electronic communication provided that —
-
-(i) all of the members who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
-
-(ii) a quorum of members can simultaneously communicate with each other throughout the meeting.
-
-[Act 20 of 2017 wef 06/10/2017]
-
-(1B) For the purposes of this Act, a member participating in a meeting as permitted under subsection (1A)(b) is taken to be present at the meeting.
-
-[Act 20 of 2017 wef 06/10/2017]
+(1B) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (2) At any meeting of the Board, the President shall preside and in his absence the members present shall elect from among themselves one member to preside over the meeting.
 
 (3) If on any question to be determined by the Board there is an equality of votes, the President or the member presiding over that meeting shall have a casting vote.
 
-(4) Subject to the provisions of this Act, the Board may determine its own procedure.
+(4) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may determine its own procedure.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (5) The Board shall cause proper records of its proceedings to be kept.
 
 [28/2005 wef 01/10/2005]
 
-### Decision-making outside of meeting
-
-4G\.—(1) The Board may, in lieu of a meeting in accordance with section 4F, make a decision by written or electronic means, if —
-
-(a) all of the members are given (whether by post, personal delivery or electronic communication) the terms of the decision to be made; and
-
-(b) a majority of those members who are entitled to vote on the matter sign or approve a document containing the terms of the decision to be made and a statement that they are in favour of those terms.
-
-(2) A decision of the Board is taken to be made at a meeting of the Board on the date on which the document containing the terms of the decision to be made is signed or approved by the last member required to form the majority of the members in favour of the decision.
-
-(3) Any reference in any law to a decision of the Board includes a reference to a decision of the Board made in accordance with this section.
-
-[Act 20 of 2017 wef 06/10/2017]
+4G\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Common seal of Board
 
@@ -566,7 +546,7 @@ BOARD OF ARCHITECTS
 
 (5) [Deleted by Act 28/2005 wef 01/12/2005]
 
-(6) The Board may continue to exercise any power conferred upon it or perform any function under this Act notwithstanding the delegation of such power or function under this section.
+(6) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Registers
 
@@ -588,9 +568,19 @@ BOARD OF ARCHITECTS
 
 ### Appointment and duties of Registrar
 
-9\.—(1) The Minister may appoint a Registrar of the Board.
+9\.—(1) There must be a chief executive of the Board called the Registrar of the Board, whose appointment and removal must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Registrar shall —
+[Act 5 of 2018 wef 01/04/2018]
+
+(1A) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Registrar during any period, or during all periods, when the Registrar —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(2) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must —
 
 (a) be under the general direction of the Board;
 
@@ -599,6 +589,8 @@ BOARD OF ARCHITECTS
 (c) record all relevant entries in any register kept and maintained under section 8(1), including any suspension, cancellation or reinstatement of registration in any of the registers.
 
 [Act 20 of 2017 wef 06/10/2017]
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (3) The Registrar shall attend all meetings of the Board and record the proceedings thereof, and shall conduct the correspondence and deal with such matters as may be assigned to him from time to time by the President or the Board.
 
@@ -1782,11 +1774,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [45/2004 wef 15/12/2004]
 
-(5) The Board shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor approved by the Minister.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(6) The Board shall, as soon as practicable after the end of each accounting year, but not later than 6 months from the end of that year unless the Minister otherwise authorises in writing, submit to the Minister a report of its functions, proceedings and activities during the preceding year.
-
-[Act 20 of 2017 wef 06/10/2017]
+(6) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 33\. [Repealed by Act 28 of 2005 wef 01/12/2005]
 
@@ -2065,6 +2055,10 @@ This Legislative History is provided for the convenience of users of the Archite
 ||Date of First Reading|6 February 2017 (Bill No. 8/2017 published on 6 February 2017)|
 ||Date of Second and Third Readings|28 February 2017|
 ||Date of commencement|6 October 2017|
+|16.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Architects Act
