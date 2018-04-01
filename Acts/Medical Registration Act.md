@@ -454,7 +454,7 @@ MEDICAL COUNCIL
 
 (3) A committee appointed under this section may include persons who are not members of the Medical Council.
 
-(4) The Medical Council may continue to exercise any power conferred upon it or perform any function under this Act notwithstanding the delegation of such power or function under this section.
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Meetings and quorum of Medical Council
 
@@ -556,7 +556,7 @@ REGISTRATION OF MEDICAL PRACTITIONERS
 
 ### Registers
 
-19\.—(1) The Registrar shall maintain and keep the following registers:
+19\.—(1) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must maintain and keep the following registers:
 
 (a) a register to be called “The Register of Medical Practitioners” containing —
 
@@ -573,6 +573,8 @@ REGISTRATION OF MEDICAL PRACTITIONERS
 (d) a register to be called “The Register of Provisionally Registered Medical Practitioners” containing the names of persons registered provisionally under section 24.
 
 [46/2002; 1/2010]
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Each register shall contain —
 
@@ -2364,7 +2366,7 @@ GENERAL
 
 [1/2010]
 
-(5) The Medical Council shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor or auditors approved by the Minister.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Investigators
 
@@ -3821,6 +3823,10 @@ This Legislative History is provided for the convenience of users of the Medical
 ||Date of operation|31 December 2014|
 |21.|**G.N. No. S 252/2016—Medical Registration Act (Amendment of Second Schedule) Order 2016**|
 ||Date of commencement|1 June 2016|
+|22.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Medical Registration Act
