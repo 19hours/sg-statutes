@@ -16,6 +16,8 @@
 
 - [5 Constitution of Board](#Constitution-of-Board)
 
+- [5A Directions by Minister](#Directions-by-Minister)
+
 - [6 Meetings](#Meetings)
 
 - [7 Disclosure of interest](#Disclosure-of-interest)
@@ -28,7 +30,7 @@
 
 - [11 Execution of documents](#Execution-of-documents)
 
-- [12 Annual report](#Annual-report)
+- [12 (Repealed)](#Repealed)
 
 - [13 Bank accounts and application of funds](#Bank-accounts-and-application-of-funds)
 
@@ -37,6 +39,8 @@
 - [14 Accounts and audit](#Accounts-and-audit)
 
 - [15 Association’s symbols](#Association’s-symbols)
+
+- [16 Chief Executive](#Chief-Executive)
 
 [**THE SCHEDULE Member Organisations**](#THE-SCHEDULE)
 
@@ -132,6 +136,12 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 [5/93]
 
+### Directions by Minister
+
+5A\. The Minister may give to the Association any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 ### Meetings
 
 6\.—(1) The Board may meet as often as it considers necessary, but it shall in any case meet at least once in 3 months to discuss the management and affairs of the Association.
@@ -166,11 +176,13 @@ An Act to incorporate the People’s Association for promoting community recreat
 
 ### Disclosure of interest
 
-7\.—(1) If a member of the Association or of the Board is, directly or indirectly, interested in any contract, proposed contract or other matter and is present at a meeting of the Association or of the Board at which the contract, proposed contract or other matter is the subject of consideration, the member —
+7\.—(1) Division 1 of Part 4 of the Public Sector (Governance) Act 2018 applies as if —
 
-(a) shall, at the meeting and as soon as practicable after it commences, disclose the fact; and
+(a) a reference in that Division to a member of a public body includes a reference to a member of the Board; and
 
-(b) shall not thereafter be present during the consideration or discussion of, and shall not vote, on any question with respect to, that contract, proposed contract or other matter.
+(b) a reference in that Division to a meeting of a public body includes a reference to a meeting of the Board.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Subsection (1) shall also apply to any member of a committee appointed in accordance with section 9(b) when the member is present at a meeting of any committee.
 
@@ -238,11 +250,7 @@ for anything which is in good faith done or intended to be done in the execution
 
 (2) The signature of the Chairman, Deputy Chairman and the member of the Board referred to in subsection (1) is sufficient evidence that the seal was duly and properly affixed and that it is the lawful seal of the Association.
 
-### Annual report
-
-12\. The Secretary-Treasurer of the Board shall, as soon as practicable after the end of each financial year, submit to the Board a report of the activities of the Association during that financial year.
-
-[5/93]
+12\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Bank accounts and application of funds
 
@@ -280,45 +288,29 @@ for anything which is in good faith done or intended to be done in the execution
 
 [5/93]
 
-(2) The Board shall —
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(a) cause proper accounts and records of the transactions and affairs of the Association to be kept; and
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(b) do all things necessary to ensure that —
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(i) all payments out of its moneys are correctly made and properly authorised; and
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(ii) adequate control is maintained over the assets of, or in the custody of, the Association, and over the expenditure incurred by the Association.
+(6) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(3) The Board shall, as soon as practicable after the close of each financial year, prepare and submit to the auditor of the Association, financial statements in respect of that financial year.
+(7) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(4) The accounts of the Association shall be audited by the Auditor-General or by an auditor appointed annually by the Board in consultation with the Auditor-General.
+(8) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(5) A person shall not be qualified for appointment as an auditor under subsection (4) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
+(9) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(6) The remuneration of the auditor of the Association shall be paid out of the funds of the Association.
+(10) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(7) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Association.
+(11) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(8) The auditor shall in his report state —
+(12) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Association;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Association whether purchased, donated or otherwise;
-
-(c) whether the receipt, expenditure and investment of moneys, and the acquisition and disposal of assets by the Association during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers should be reported.
-
-(9) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Deputy Chairman, and shall also submit such periodical and special reports to the Deputy Chairman as may appear to the auditor to be necessary or as the Deputy Chairman may require.
-
-(10) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-(11) Any person who without reasonable excuse fails to comply with any requirement of the auditor under subsection (10) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
-
-(12) As soon as the accounts of the Association and the financial statements have been audited in accordance with the provisions of this Act, a copy of the audited financial statements signed by the Secretary-Treasurer of the Board, together with a copy of the auditor’s report, shall be submitted to the Deputy Chairman.
-
-(13) Where the Auditor-General is not the auditor of the Association, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Deputy Chairman.
+(13) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Association’s symbols
 
@@ -333,6 +325,18 @@ for anything which is in good faith done or intended to be done in the execution
 (3) Any person who uses a symbol identical with, or which so resembles, any of the Association’s symbols as to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [27/2002]
+
+### Chief Executive
+
+16\.—(1) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to be a Chief Executive of the Association, or to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+(2) The appointment, removal, discipline and promotion of the Chief Executive of the Association must be in accordance with the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ## THE SCHEDULE
 
@@ -869,6 +873,10 @@ This Legislative History is provided for the convenience of users of the People�
 ||Date of commencement|5 October 2015|
 |64.|**G.N. No. S 259/2017—Peopleâs Association Act (Amendment of Schedule) Notification 2017**|
 ||Date of commencement|26 May 2017|
+|65.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 People’s Association Act
