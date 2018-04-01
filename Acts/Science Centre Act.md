@@ -18,9 +18,9 @@
 
 - [6 Powers of Board](#Powers-of-Board)
 
-- [7 Appointment of officers and employees](#Appointment-of-officers-and-employees)
+- [7 Chief executive, officers and employees, etc.](#Chief-executive-officers-and-employees-etc)
 
-- [8 Members and officers of Board deemed to be public servants](#Members-and-officers-of-Board-deemed-to-be-public-servants)
+- [8 (Repealed)](#Repealed)
 
 - [9 Directions by Minister](#Directions-by-Minister)
 
@@ -38,11 +38,11 @@
 
 - [15 Purposes of Science Centre Fund](#Purposes-of-Science-Centre-Fund)
 
-- [16 Annual report](#Annual-report)
+- [16 (Repealed)](#Repealed)
 
-- [17 Accounts of Board](#Accounts-of-Board)
+- [17 (Repealed)](#Repealed)
 
-- [18 Annual estimates](#Annual-estimates)
+- [18 Minister’s approval of estimates](#Minister’s-approval-of-estimates)
 
 - [19 Power of investment](#Power-of-investment)
 
@@ -77,6 +77,10 @@ An Act to establish the Science Centre Board and for purposes incidental thereto
 “Board” means the Science Centre Board established under section 3;
 
 “Chairman” means the Chairman of the Board appointed under section 4 and includes any temporary Chairman so appointed;
+
+“chief executive” means the chief executive of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “Deputy Chairman” means the Deputy Chairman of the Board appointed under section 4 and includes any temporary Deputy Chairman so appointed;
 
@@ -162,21 +166,27 @@ all of whom shall be appointed by the Minister.
 
 (k) to enter into contracts, establish trusts and generally regulate transaction of all business connected with the Board.
 
-### Appointment of officers and employees
+### Chief executive, officers and employees, etc.
 
-7\.—(1) The Board may from time to time appoint and employ such officers and employees as may be necessary to assist the Board in carrying out its functions and may from time to time dismiss them:
+7\.—(1) There must be a chief executive of the Board, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-Provided that the approval of the Minister shall be obtained in respect of the appointment of the chief administrative officer of the Science Centre.
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the chief executive during any period, or during all periods, when the chief executive —
 
-(2) All officers and employees of the Board shall be under the administrative control of the Board and shall be appointed on such terms and conditions as may be determined by the Board.
+(a) is absent from duty or Singapore; or
 
-### Members and officers of Board deemed to be public servants
+(b) is, for any reason, unable to perform the duties of the office.
 
-8\. All members, officers and employees of the Board shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(3) The Board may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+8\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Directions by Minister
 
-9\.—(1) The Minister may give to the Board such directions, not inconsistent with the provisions of this Act, as he thinks fit, as to the exercise and performance by the Board of its powers, functions and duties under this Act, and the Board shall give effect to all such directions.
+9\.—(1) The Minister may give to the Board any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Board shall furnish the Minister with such information with respect to its property and activities as he may from time to time require.
 
@@ -184,9 +194,11 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 10\.—(1) The Board may, in its discretion, appoint from among its own members or other persons who are not members of the Board one or more committees consisting of persons who may or may not be members of the Board for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
 
-(2) The Board may, subject to such conditions or restriction as it thinks fit, delegate to any committee referred to in subsection (1) or the chairman thereof or any employee of the Board all or any of the powers, functions and duties by this Act vested in the Board (other than the power to delegate conferred by this section), and any power, function or duty so delegated may be exercised or performed by that committee or the chairman thereof or employee in the name and on behalf of the Board.
+(2) The Board may, subject to such conditions or restriction as it thinks fit, delegate to any committee referred to in subsection (1) or the chairman thereof or any employee of the Board all or any of the powers, functions and duties by this Act vested in the Board, and any power, function or duty so delegated may be exercised or performed by that committee or the chairman thereof or employee in the name and on behalf of the Board.
 
-(3) The Board may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of that power, function or duty under this section.
+[Act 5 of 2018 wef 01/04/2018]
+
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Protection from personal liability
 
@@ -220,21 +232,19 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 (b) the payment of all expenses necessary for carrying out the purposes of this Act.
 
-### Annual report
+16\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-16\. The Board shall as soon as possible after the close of each financial year, submit to the Minister an annual report on the activities of the Board during that financial year, and the Minister shall present a copy of the report to Parliament.
+17\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-### Accounts of Board
+### Minister’s approval of estimates
 
-17\.—(1) The Board shall keep proper accounts and other records of its own and shall prepare in respect of each financial year a statement of its accounts in a form approved by the Minister.
+18\.—(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Board, be sent without delay to the Minister.
 
-(2) The accounts of the Board shall be audited by a qualified auditor appointed annually by the Board with the approval of the Minister and the auditor shall make a report on the accounts examined by him.
+(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.
 
-(3) As soon as the accounts of the Board have been audited in accordance with subsection (2), a copy of the statement of accounts together with a copy of any report made by the auditor shall be submitted to the Minister, who shall present to Parliament a copy of every such statement and report.
+(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Board, and the Board is bound by the Minister’s decision.
 
-### Annual estimates
-
-18\. The Board shall obtain in advance the approval of the Minister for its annual estimates of expenditure and for any supplementary estimates of its expenditure.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Power of investment
 
@@ -246,7 +256,9 @@ Provided that the approval of the Minister shall be obtained in respect of the a
 
 20\.—(1) The Minister may make regulations for or in respect of —
 
-(a) the convening of meetings of the Board and the procedure to be followed;
+(a) the convening of meetings of the Board and the procedure to be followed, to the extent not inconsistent with the Public Sector (Governance) Act 2018;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (b) the management and control of the Science Centre and the premises of the Centre;
 
@@ -304,3 +316,7 @@ This Legislative History is provided for the convenience of users of the Science
 ||Date of commencement|15 December 2004|
 |8.|**2013 Revised Edition—Science Centre Act (Chapter 286)**|
 ||Date of operation|31 October 2013|
+|9.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
