@@ -34,7 +34,7 @@
 
 - [11 Meetings of Board](#Meetings-of-Board)
 
-- [12 Disclosure of interest by members](#Disclosure-of-interest-by-members)
+- [12 (Repealed)](#Repealed)
 
 - [13 Validity of acts of members](#Validity-of-acts-of-members)
 
@@ -58,13 +58,13 @@
 
 [**Part V PROVISIONS RELATING TO STAFF**](#Part-V)
 
-- [22 Appointment of Chief Executive Officer](#Appointment-of-Chief-Executive-Officer)
+- [22 Chief Executive Officer](#Chief-Executive-Officer)
 
 - [23 Employment of staff](#Employment-of-staff)
 
 - [24 Protection from personal liability](#Protection-from-personal-liability)
 
-- [25 Public servants](#Public-servants)
+- [25 (Repealed)](#Repealed)
 
 [**Part VI FINANCIAL PROVISIONS**](#Part-VI)
 
@@ -78,15 +78,15 @@
 
 - [29 Power of investment](#Power-of-investment)
 
-- [30 Accounts to be kept](#Accounts-to-be-kept)
+- [30 (Repealed)](#Repealed)
 
-- [31 Audit](#Audit)
+- [31 (Repealed)](#Repealed)
 
-- [32 Powers of auditor](#Powers-of-auditor)
+- [32 (Repealed)](#Repealed)
 
-- [33 Presentation of financial statements and audit reports](#Presentation-of-financial-statements-and-audit-reports)
+- [33 (Repealed)](#Repealed)
 
-- [34 Annual report](#Annual-report)
+- [34 (Repealed)](#Repealed)
 
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
@@ -144,7 +144,9 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Board appointed under section 7(3);
 
-“Chief Executive Officer” means the Chief Executive Officer of the Institute appointed under section 22 and includes any temporary Chief Executive Officer appointed as such under section 22(3);
+“Chief Executive Officer” means the Chief Executive Officer of the Institute, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “commerce or industry” includes any trade, manufacturing or service industry, business or other related activity;
 
@@ -308,19 +310,11 @@ CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS
 
 (5) The Board shall not be precluded from holding a meeting or acting in any matter merely by reason of any vacancy in its membership.
 
-(6) Subject to the provisions of this Act, the Board may make standing orders to regulate its own procedure and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
+(6) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may make standing orders to regulate its own procedure and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes and the custody, production and inspection of such minutes.
 
-### Disclosure of interest by members
+[Act 5 of 2018 wef 01/04/2018]
 
-12\.—(1) A member who is, directly or indirectly, interested in a contract made, or proposed to be made, by the Board or any other matter which is before any meeting of the Board, shall disclose the nature of his interest at the first meeting of the Board at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under subsection (1) shall be recorded in the minutes of the Board and, after the disclosure, that member —
-
-(a) shall not take part in any deliberation or discussion of, and shall not vote on any question with respect to, that contract or other matter; and
-
-(b) shall be disregarded for the purpose of constituting a quorum of the Board for such deliberation or discussion or vote, as the case may be.
-
-(3) No act or proceedings of the Board shall be questioned on the ground that a member has contravened this section.
+12\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Validity of acts of members
 
@@ -328,7 +322,9 @@ CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS
 
 ### Directions by Minister
 
-14\.—(1) The Minister may, after consultation with the Board, give such general directions not inconsistent with the provisions of this Act as to the policy to be followed by the Institute in the performance of its functions under this Act as appear to the Minister to be necessary and the Institute shall, as soon as practicable, give effect to any such direction.
+14\.—(1) The Minister may, after consulting the Board, give to the Institute any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Board shall give the Minister such information or facilities for obtaining information with regard to the exercise of its powers and functions in such manner and at such times as the Minister may reasonably require.
 
@@ -340,7 +336,7 @@ CONSTITUTION AND PROCEEDINGS OF BOARD OF GOVERNORS
 
 (3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Institute all or any of the powers, functions and duties by this Act vested in the Institute, and a power, function or duty so delegated may be exercised or performed by the employee in the name and on behalf of the Institute.
 
-(4) The Institute may continue to exercise a power conferred upon it, or perform a function or duty under this Act,notwithstanding the delegation of the power, function or duty under this section.
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## PART IV
 
@@ -386,31 +382,29 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES
 
 PROVISIONS RELATING TO STAFF
 
-### Appointment of Chief Executive Officer
+### Chief Executive Officer
 
-22\.—(1) The Board shall, with the approval of the Minister, appoint a Chief Executive Officer on such terms and conditions as it may determine.
+22\.—(1) There must be a Chief Executive Officer of the Institute, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive Officer shall —
+(2) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive Officer during any period, or during all periods, when the Chief Executive Officer —
 
-(a) be responsible to the Board for the proper administration and management of the Institute in accordance with the policy laid down by the Board;
+(a) is absent from duty or Singapore; or
 
-(b) be known by such designation as the Board thinks fit; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) not be removed from office without the consent of the Minister.
-
-(3) If the Chief Executive Officer is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for other reasons temporarily unable to perform his duties, any person may be appointed by the Board to act in the place of the Chief Executive Officer during any period of such absence from duty.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Employment of staff
 
-23\. The Institute may, from time to time and subject to such directions as may be given by the Minister, appoint such number of employees on such terms and conditions as the Institute may determine.
+23\. The Institute may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Protection from personal liability
 
 24\. No suit or other legal proceedings shall lie against any member or any employee of the Institute or other person acting under the direction of the Institute for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
 
-### Public servants
-
-25\. All members and employees of the Institute shall be deemed to be public servants within the meaning of the Penal Code [Cap. 224].
+25\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART VI
 
@@ -440,53 +434,15 @@ FINANCIAL PROVISIONS
 
 [45/2004 wef 15/12/2004]
 
-### Accounts to be kept
+30\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-30\. The Institute shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Institute and over the expenditure incurred by it.
+31\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-### Audit
+32\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-31\.—(1) The accounts of the Institute shall be audited by the Auditor-General or by an auditor appointed annually by the Minister in consultation with the Auditor-General.
+33\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act [Cap. 50].
-
-(3) The remuneration of the auditor shall be paid out of the funds of the Institute.
-
-(4) The Institute shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
-
-(5) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Institute;
-
-(b) whether proper accounting and other records have been kept including records of all assets of the Institute whether purchased, donated or otherwise;
-
-(c) whether the receipt, expenditure and investment of moneys and the acquisition and disposal of assets by the Institute during the year have been in accordance with the provisions of this Act; and
-
-(d) on such other matters arising from the audit as he considers should be reported.
-
-(6) The auditor may at any other time report to the Minister through the Board upon any matter arising out of the performance of his audit.
-
-### Powers of auditor
-
-32\.—(1) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Institute.
-
-(2) The auditor or a person authorised by him may make copies of, or make extracts from, any such accounting and other records.
-
-(3) The auditor or any person authorised by him may require any person to furnish him with such information which that person possesses or has access to as the auditor or any duly authorised person considers necessary for the purposes of the functions of the auditor under this Act.
-
-(4) Any person who refuses or fails without any reasonable cause to allow the auditor access to any accounting and other records of the Institute in his custody or power or to give any information possessed by him as and when required or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-### Presentation of financial statements and audit reports
-
-33\.—(1) As soon as the accounts of the Institute and the financial statements have been audited in accordance with this Act, a copy of the audited financial statements signed by the Chairman, together with a copy of any report made by the auditor, shall be submitted to the Minister.
-
-(2) Where the Auditor-General is not appointed to be the auditor, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time as they are submitted to the Board.
-
-(3) The Minister shall cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
-
-### Annual report
-
-34\. The Institute shall, as soon as practicable after the end of each financial year, submit to the Minister an annual report on the activities of the Institute during the preceding financial year, and the Minister shall cause a copy of every such annual report to be presented to Parliament.
+34\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART VII
 
@@ -641,3 +597,7 @@ This Legislative History is provided for the convenience of users of the Institu
 ||Date of First Reading|11 July 2016 (Bill No. 19/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|4 October 2016|
+|10.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
