@@ -3684,9 +3684,13 @@ shall be guilty of an offence and shall on conviction —
 
 [20/2010 wef 01/10/2010]
 
-(2) If any return is not made by a taxable person within the periods prescribed in regulations made under section 41, that taxable person shall be liable to pay a penalty of $200 for each completed month that he continues not to submit the return but the total penalty shall not exceed $10,000.
+(2) If any return is not made by a taxable person before the expiry of the period prescribed in regulations made under section 41 for the return, the taxable person must pay a penalty that is the sum total of the following amounts, not exceeding in any case $10,000:
 
-[Income Tax 1992 Ed., s. 88 (1)]
+(a) $200;
+
+(b) $200 for each completed month that the taxable person continues not to make the return, commencing from the expiry of the period prescribed.
+
+[Act 37 of 2017 wef 01/04/2018]
 
 ### Penalty for failure to register
 
@@ -5652,7 +5656,7 @@ as the case may be;
 
 (A) intends to be on the “Good Delivery” list of the London Bullion Market Association or the London Platinum and Palladium Market, as the case may be; and
 
-(B) is endorsed by the International Enterprise Singapore Board established under section 3 of the International Enterprise Singapore Board Act (Cap. 143B) at the following times:
+(B) is endorsed by the Enterprise Singapore Board established by section 3 of the Enterprise Singapore Board Act 2018 at the following times:
 
 (BA)
 
@@ -5661,6 +5665,8 @@ in the case of a supply of investment precious metals, at the time of the supply
 (BB)
 
 in the case of an import of investment precious metals, at the time the investment precious metals are removed from customs control; and
+
+[Act 10 of 2018 wef 01/04/2018]
 
 [S 396/2016 wef 01/09/2016]
 
@@ -6327,6 +6333,14 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|11 September 2017 (Bill No. 34/2017 published on 11 September 2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|1 January 2018|
+|65.|**Act 37 of 2017—Goods and Services Tax (Amendment) Act 2017**|
+||Date of First Reading|11 September 2017 (Bill No. 34/2017 published on 11 September 2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|1 April 2018|
+|66.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
