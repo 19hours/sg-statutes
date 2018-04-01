@@ -44,6 +44,10 @@ An Act to provide for the making of contracts on behalf of the Government and fo
 
 (2) In making an authorisation under subsection (1), it shall be sufficient for the Minister for Finance to name the office held by such public officer and the Minister may cause the authorisation to be published in theGazette.
 
+(3) For the purposes of this section, an individual who is an employee of a statutory body under a secondment arrangement making available temporarily to the Government the service of the individual is deemed to be a public officer during that secondment.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 ### Contracts made outside Singapore
 
 3\. All contracts made outside Singapore for or on behalf of the Government by a person either generally or specially authorised in writing in that behalf by the Minister for Finance shall, so far as they come within the jurisdiction of the courts in Singapore, be deemed to be Government contracts.
@@ -90,3 +94,7 @@ This Legislative History is provided for the convenience of users of the Governm
 ||Date of commencement|30 November 1991 (Item (11) of the Schedule –– Amendment of Government Contracts Act)|
 |5.|**2013 Revised Edition—Government Contracts Act (Chapter 118)**|
 ||Date of operation|31 August 2013|
+|6.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
