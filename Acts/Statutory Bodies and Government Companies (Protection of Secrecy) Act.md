@@ -50,7 +50,9 @@ An Act to protect the secrecy of information of statutory bodies and Government 
 
 (a) for the purpose of the performance of his duties or functions by any member, officer, employee or agent of a specified organisation; or
 
-(b) which is lawfully required or authorised to be disclosed by any court or under the provisions of any written law.
+(b) which is lawfully required or authorised to be disclosed by any court or where required or allowed by the provisions of any written law.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -118,9 +120,9 @@ Civil Aviation Authority of Singapore Act 2009
 
 4.
 
-Competition Commission of Singapore
+Competition and Consumer Commission of Singapore
 
-Competition Act 2004 (Act 46 of 2004)
+Competition Act (Chapter 50B)
 
 4A.
 
@@ -208,14 +210,9 @@ Intellectual Property Office of Singapore Act
 
 11.
 
-International Enterprise Singapore Board
+Enterprise Singapore Board
 
-International Enterprise Singapore Board Act
-
-
-
-
-(Chapter 143B).
+Enterprise Singapore Board Act 2018
 
 12.
 
@@ -361,14 +358,7 @@ Workforce Singapore Agency Act (Chapter 305D)
 
 25.
 
-Standards, Productivity and Innovation Board
-
-Standards, Productivity and Innovation Board Act
-
-
-
-
-(Chapter 303A)
+[Deleted by Act 10 of 2018 wef 01/04/2018]
 
 26.
 
@@ -380,6 +370,8 @@ Urban Redevelopment Authority Act
 
 
 (Chapter 340)
+
+[Act 10 of 2018 wef 01/04/2018]
 
 [Act 20 of 2016 wef 04/10/2016]
 
@@ -565,3 +557,11 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of First Reading|11 July 2016 (Bill No. 19/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|4 October 2016|
+|44.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
+|45.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
