@@ -1036,7 +1036,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 8E\.—(1) The Minister may, in writing, appoint any of the following individuals to be fire forensic specialists to assist the Commissioner, or any member of the Force authorised by the Commissioner under section 8B, exercising in Singapore a power under that section or section 8C:
 
-(a) a Division I, II or III public officer who is not a member of the Force but is employed in the offices of the Force;
+(a) a public officer (except an operations support officer at grade III, IV or V or other public officer at equivalent grade) who is not a member of the Force but is employed in the offices of the Force;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (b) an individual (who is not a public officer) with suitable qualifications or experience to properly exercise the powers of a fire forensic specialist.
 
@@ -2800,7 +2802,9 @@ MISCELLANEOUS
 
 55\.—(1) Any regulations made under section 61 may adopt (wholly or partially or as amended by the regulations or by reference) any code, standard, rule, specification or provision which relates to any matter with which the regulations deal and which is —
 
-(a) recommended, issued or adopted by the Singapore Productivity and Standards Board;
+(a) recommended, issued or adopted by the Enterprise Singapore Board;
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (b) recommended, issued or adopted by any other standards organisation or body of any place outside Singapore being an organisation or body approved by the Commissioner; or
 
@@ -3069,6 +3073,14 @@ This Legislative History is provided for the convenience of users of the Fire Sa
 ||Date of First Reading|10 October 2016 (Bill No. 31/2016 published on 10 October 2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|1 February 2017|
+|17.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
+|18.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Fire Safety Act
