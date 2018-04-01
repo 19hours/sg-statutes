@@ -290,7 +290,9 @@ PRELIMINARY
 
 “registered” means registered under section 15 and cognate expressions shall be construed accordingly;
 
-“Registrar” means the Registrar of the Board appointed under section 9;
+“Registrar” means the Registrar of the Board, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “rules” means rules made by the Board under section 36;
 
@@ -430,7 +432,9 @@ PROFESSIONAL ENGINEERS BOARD
 
 (3) If on any question to be determined by the Board there is an equality of votes, the President or the member presiding over that meeting shall have a casting vote.
 
-(4) Subject to the provisions of this Act, the Board may determine its own procedure.
+(4) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Board may determine its own procedure.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (5) The Board shall cause proper records of its proceedings to be kept.
 
@@ -496,9 +500,21 @@ PROFESSIONAL ENGINEERS BOARD
 
 ### Appointment and duties of Registrar
 
-9\.—(1) The Minister may appoint a Registrar of the Board.
+9\.—(1) There must be a chief executive of the Board called the Registrar of the Board, whose appointment and removal must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Registrar shall be under the general direction of the Board and shall sign all certificates of registration, practising certificates and licences, and shall record all entries of registration, cancellation and reinstatement in the register of professional engineers, register of practitioners or register of licensees, as the case may be.
+[Act 5 of 2018 wef 01/04/2018]
+
+(1A) The Board may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Registrar during any period, or during all periods, when the Registrar —
+
+(a) is absent from duty or Singapore; or
+
+(b) is, for any reason, unable to perform the duties of the office.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(2) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must be under the general direction of the Board and shall sign all certificates of registration, practising certificates and licences, and shall record all entries of registration, cancellation and reinstatement in the register of professional engineers, register of practitioners or register of licensees, as the case may be.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (3) The Registrar shall attend all meetings of the Board and record the proceedings thereof, and shall conduct the correspondence and deal with such matters as may be assigned to him from time to time by the President or the Board.
 
@@ -1492,13 +1508,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) All fees and other moneys payable to the Board under this Act shall be paid forthwith into a bank account approved by the Board.
 
-(4) The Board shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Board and over the expenditure incurred by the Board.
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (5) The Board may invest its moneys in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
-(6) The accounts of the Board shall be audited by an auditor approved by the Minister.
+(6) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(7) The Board shall, as soon as practicable after the end of each accounting year but not later than 6 months from the end of that year unless the Minister otherwise authorises in writing, submit to the Minister a report of its functions, proceedings and activities during the preceding year.
+(7) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 [Act 36 of 2017 wef 15/01/2018]
 
@@ -1824,3 +1840,8 @@ This Legislative History is provided for the convenience of users of the Profess
 |||(Bill No. 30/2017)|
 ||Date of Second and Third Readings|11 September 2017|
 ||Date of commencement|15 January 2018|
+|16.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017|
+|||(Bill No. 45/2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
