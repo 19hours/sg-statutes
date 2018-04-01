@@ -58,7 +58,7 @@
 
 [**Part V PROVISIONS RELATING TO STAFF**](#Part-V)
 
-- [22 Chief Executive Officer of Council](#Chief-Executive-Officer-of-Council)
+- [22 Chief Executive Officer](#Chief-Executive-Officer)
 
 - [23 Appointment of staff](#Appointment-of-staff)
 
@@ -68,27 +68,27 @@
 
 - [24A Issue of shares, etc.](#Issue-of-shares-etc)
 
-- [25 Estimates](#Estimates)
+- [25 (Repealed)](#Repealed)
 
 - [26 Financial year](#Financial-year)
 
-- [27 Accounts](#Accounts)
+- [27 (Repealed)](#Repealed)
 
 - [28 Financial statements](#Financial-statements)
 
-- [29 Appointment of auditor](#Appointment-of-auditor)
+- [29 (Repealed)](#Repealed)
 
-- [30 Remuneration of auditor](#Remuneration-of-auditor)
+- [30 (Repealed)](#Repealed)
 
-- [31 Powers of auditor](#Powers-of-auditor)
+- [31 (Repealed)](#Repealed)
 
-- [32 Duties of auditor](#Duties-of-auditor)
+- [32 (Repealed)](#Repealed)
 
-- [33 Failure to furnish information to auditor](#Failure-to-furnish-information-to-auditor)
+- [33 (Repealed)](#Repealed)
 
-- [34 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
+- [34 When audited financial statements must be given to Minister](#When-audited-financial-statements-must-be-given-to-Minister)
 
-- [35 Annual report](#Annual-report)
+- [35 (Repealed)](#Repealed)
 
 [**Part VII MISCELLANEOUS**](#Part-VII)
 
@@ -132,7 +132,9 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Community Chest;
 
-“Chief Executive Officer” means the Chief Executive Officer of the Council appointed under section 22(1);
+“Chief Executive Officer” means the Chief Executive Officer of the Council appointed under section 22(1) and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “Community Chest” means the Community Chest established under section 13(1);
 
@@ -256,17 +258,17 @@ shall act as the President and shall exercise the powers and perform the functio
 
 [23/2000]
 
-(2) Meetings of the Council and the Board and proceedings thereat shall be held in the prescribed manner.
+(2) Meetings of the Council and the Board and proceedings thereat shall, to the extent not inconsistent with the Public Sector (Governance) Act 2018, be held in the prescribed manner.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Disclosure of interest
 
-7\.—(1) If a Board member, Council member or official representative of a Council member is, directly or indirectly, interested in any contract or other matter and is present at a meeting of the Council or the Board or any committee thereof, at which the contract or other matter is the subject of consideration, such member or official representative, as the case may be, shall, at the meeting and as soon as practicable after it commences, disclose the fact and shall not thereafter be present during the consideration or discussion of, and shall not vote on, any question with respect to that contract or other matter.
+7\.—(1) Division 1 of Part 4 of the Public Sector (Governance) Act 2018 extends to an official representative of a Council member as if a reference in that Division to a member of a public body includes a reference to such an official representative.
 
-[23/2000]
+[Act 5 of 2018 wef 01/04/2018]
 
-(2) No act or proceedings of the Board or the Council shall be questioned on the ground that any Board member, Council member or official representative of a Council member has contravened this section.
-
-[23/2000]
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Validity of acts of Board members
 
@@ -390,7 +392,7 @@ FUNCTIONS AND POWERS OF COUNCIL
 
 (3) The Board may, subject to such conditions or restrictions as it thinks fit to impose, delegate to any employee of the Council all or any of the powers, functions and duties vested in the Council by this Act, and any power, function or duty so delegated may be exercised or performed by the employee in the name and on behalf of the Council.
 
-(4) The Council may continue to exercise any power conferred upon it, or perform any function or duty under this Act, notwithstanding the delegation of such power, function or duty under this section.
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ## PART IV
 
@@ -468,27 +470,23 @@ MEMBERSHIP OF COUNCIL
 
 PROVISIONS RELATING TO STAFF
 
-### Chief Executive Officer of Council
+### Chief Executive Officer
 
-22\.—(1) The Council shall appoint a Chief Executive Officer on such terms and conditions as the Board may determine.
+22\.—(1) There must be a Chief Executive Officer of the Council, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-[23/2000]
+(2) The Council may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive Officer during any period, or during all periods, when the Chief Executive Officer —
 
-(2) The Chief Executive Officer shall be responsible to the Board for the proper administration and management of the Council in accordance with the policy laid down by the Board.
+(a) is absent from duty or Singapore; or
 
-[23/2000]
+(b) is, for any reason, unable to perform the duties of the office.
 
-(3) If the Chief Executive Officer is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for other reasons temporarily unable to perform his duties, any person may be appointed by the Board to act in the place of the Chief Executive Officer during any such period of absence from duty.
-
-[23/2000]
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of staff
 
-23\. The Council may —
+23\. The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(a) appoint such number of employees on such terms as to remuneration or otherwise as the Board may determine and terminate their services or exercise disciplinary control over them in accordance with their terms of services; and
-
-(b) engage or remunerate for their services such persons as the Board considers necessary for carrying out the functions and duties of the Council.
+[Act 5 of 2018 wef 01/04/2018]
 
 ## PART VI
 
@@ -510,13 +508,7 @@ FINANCIAL PROVISIONS
 
 [5/2002 wef 15/07/2002]
 
-### Estimates
-
-25\.—(1) The Board shall in every year cause to be prepared and adopted annual estimates of income and expenditure of the Council for the ensuing year.
-
-(2) Supplementary estimates may be adopted by the Board.
-
-[28
+25\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Financial year
 
@@ -524,15 +516,7 @@ FINANCIAL PROVISIONS
 
 [29
 
-### Accounts
-
-27\. The Council shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
-
-(a) all payments out of its moneys are correctly made and properly authorised; and
-
-(b) adequate control is maintained over the assets of, or in the custody of, the Council and over the expenditure incurred by the Council.
-
-[30
+27\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Financial statements
 
@@ -540,67 +524,23 @@ FINANCIAL PROVISIONS
 
 [31
 
-### Appointment of auditor
+29\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-29\.—(1) The accounts of the Council shall be audited by an auditor appointed annually by the Minister in consultation with the Auditor-General.
+30\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is an approved company auditor under the Companies Act (Cap. 50).
+31\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-[32
+32\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-### Remuneration of auditor
+33\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-30\. The remuneration of the auditor shall be paid out of the funds of the Council.
+### When audited financial statements must be given to Minister
 
-[33
+34\. The Council must send the audited annual financial statements of the Council, signed by the President, to the Minister no later than 30 September in each year, together with a copy of any report made by the auditor of the Council.
 
-### Powers of auditor
+[Act 5 of 2018 wef 01/04/2018]
 
-31\. The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Council and may make copies of, or extracts from, any such accounting and other records.
-
-[34
-
-### Duties of auditor
-
-32\.—(1) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Council;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Council whether purchased, donated or otherwise;
-
-(c) whether receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Council during the financial year have been in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-(2) The auditor shall send a report of his audit to the Minister through the Council not later than 31st August in each year.
-
-(3) The auditor may at any other time report to the Minister through the Council upon any matter arising out of the performance of his audit.
-
-[35
-
-### Failure to furnish information to auditor
-
-33\.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or authorised person considers necessary for the purposes of his functions under this Act.
-
-(2) Any person who fails without reasonable excuse to comply with any requirement of the auditor or any authorised person or who otherwise hinders, obstructs or delays the auditor or the authorised person in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
-
-[36
-
-### Presentation of financial statements and auditor’s report to Parliament
-
-34\.—(1) As soon as the financial statements have been audited in accordance with the provisions of this Act but not later than 30th September in each year, the Council shall send to the Minister a copy of the audited financial statements, signed by the President, together with a copy of any report made by the auditor.
-
-(2) A copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Council.
-
-(3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the auditor’s report to be presented to Parliament.
-
-[37
-
-### Annual report
-
-35\. The Council shall as soon as practicable cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during the preceding financial year and the Minister shall cause a copy of every such report to be presented to Parliament.
-
-[38
+35\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART VII
 
@@ -644,6 +584,10 @@ MISCELLANEOUS
 
 [23/2000]
 
+(3) Regulations made under this section in relation to the procedure for the meetings of the Council and the Board must conform to the requirements of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
+
 ## LEGISLATIVE HISTORY
 
 National Council of Social Service Act
@@ -680,6 +624,10 @@ This Legislative History is provided for the convenience of users of the Nationa
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
+|7.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 National Council of Social Service Act
