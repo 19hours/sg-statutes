@@ -604,7 +604,9 @@ Research and Management Information Division of the Ministry of Education.
 
 5. 
 
-Health Information Division of the Ministry of Health.
+Research and Statistics Division of the Ministry of Health.
+
+[S 203/2018 wef 01/04/2018]
 
 6. 
 
@@ -748,6 +750,8 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|1 October 2016|
 |28.|**G.N. No. S 80/2017—Statistics Act (Amendment of Second Schedule) Order 2017**|
 ||Date of commencement|15 March 2017|
+|29.|**G.N. No. S 203/2018—Statistics Act (Amendment of Second Schedule) Order 2018**|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Statistics Act
