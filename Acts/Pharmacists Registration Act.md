@@ -32,9 +32,9 @@
 
 - [11 Appointment of committees](#Appointment-of-committees)
 
-- [12 Disclosure of interest](#Disclosure-of-interest)
+- [12 (Repealed)](#Repealed)
 
-- [13 Public servants](#Public-servants)
+- [13 (Repealed)](#Repealed)
 
 [**Part III REGISTRATION OF PHARMACISTS**](#Part-III)
 
@@ -344,7 +344,9 @@ SINGAPORE PHARMACY COUNCIL
 
 (4) Subject to subsection (2), the Council may act notwithstanding any vacancy in the membership of the Council.
 
-(5) Subject to the provisions of this Act, the Council may regulate its own procedure.
+(5) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council may regulate its own procedure.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (6) The Council shall keep minutes of its proceedings in such form or manner as it thinks fit.
 
@@ -360,25 +362,19 @@ SINGAPORE PHARMACY COUNCIL
 
 (b) delegate, with or without restrictions or conditions as it thinks fit, any of the powers or functions which may be exercised or performed by the Council to any committee so appointed.
 
-(2) The Council shall not delegate to a committee its power of delegation under subsection (1) or the power to make regulations under section 74.
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (3) The number and term of office of the members of a committee and the number of those members necessary to form a quorum shall be fixed by the Council.
 
 (4) A committee appointed under this section may include persons who are not Council members.
 
-(5) The Council may continue to exercise any power conferred upon it or perform any function under this Act notwithstanding the delegation of such power or function under subsection (1).
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (6) This section shall not apply to a Complaints Panel, a Disciplinary Committee, an Interim Orders Committee or a Health Committee.
 
-### Disclosure of interest
+12\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-12\.—(1) If a Council member is, directly or indirectly, interested in a matter under consideration by the Council and is present at a meeting of the Council at which the matter is the subject of consideration, such member shall, at the meeting and as soon as practicable after it commences, disclose his interest in that matter and may, with the permission of the Council, participate in its consideration of that matter, but shall not vote on any question with respect to that matter.
-
-(2) No act or proceedings of the Council shall be questioned on the ground that any Council member has contravened this section.
-
-### Public servants
-
-13\. Every Council member and officer of the Council and every inspector appointed under section 65 shall be deemed to be a public servant within the meaning of the Penal Code (Cap. 224).
+13\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ## PART III
 
@@ -392,7 +388,7 @@ REGISTRATION OF PHARMACISTS
 
 ### Registers
 
-15\.—(1) The Registrar shall keep and maintain the following registers:
+15\.—(1) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must keep and maintain the following registers:
 
 (a) a register to be called the “Register of Pharmacists” containing —
 
@@ -403,6 +399,8 @@ REGISTRATION OF PHARMACISTS
 (b) a register to be called the “Register of Specialists” containing the names of persons registered as specialists under section 18; and
 
 (c) a register to be called the “Register of Temporarily Registered Pharmacists” containing the names of persons who are registered temporarily as pharmacists under section 19.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The particulars to be included in any register referred to in subsection (1) in respect of a person are —
 
@@ -1368,7 +1366,7 @@ MISCELLANEOUS
 
 (4) The Minister may pay into the funds of the Council such sum of money out of moneys to be provided by Parliament as the Minister may determine.
 
-(5) The Council shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor or auditors approved by the Minister.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Fees payable to members of Council and members of committees
 
@@ -1617,6 +1615,10 @@ This Legislative History is provided for the convenience of users of the Pharmac
 ||Date of commencement|1 December 2010|
 |4.|**G.N. No. S 554/2016—Pharmacists Registration Act (Amendment of Schedule) Order 2016**|
 ||Date of commencement|1 November 2016|
+|5.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Pharmacists Registration Act
