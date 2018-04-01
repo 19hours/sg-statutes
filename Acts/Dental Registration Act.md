@@ -482,7 +482,7 @@ shall vote for the election of such members at such time and in such manner as m
 
 (3) A committee appointed under this section may include persons who are not members of the Council.
 
-(4) The Council may continue to exercise any power conferred upon it or perform any function under this Act notwithstanding the delegation of such power or function under this section.
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (5) This section shall not apply in relation to a Complaints Committee, a Disciplinary Committee or the Health Committee.
 
@@ -508,7 +508,7 @@ General
 
 ### Registers
 
-13\.—(1) The Registrar shall maintain and keep the following registers:
+13\.—(1) In addition to duties under the Public Sector (Governance) Act 2018, the Registrar must maintain and keep the following registers:
 
 (a) a register to be called the “Register of Dentists” containing —
 
@@ -537,6 +537,8 @@ General
 (ii) under Part II, the names of persons registered as oral health therapists under section 21A(2).
 
 [22/2007]
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Each register shall contain —
 
@@ -2210,7 +2212,7 @@ GENERAL
 
 (4) The Minister may pay into the funds of the Council such sum of money out of moneys to be provided by Parliament as the Minister may determine.
 
-(5) The Council shall keep full and proper accounts of all moneys received and expended by it and the accounts shall be audited by an auditor or auditors approved by the Minister.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 ### Fees payable for members of Council and members of committees
 
@@ -3089,6 +3091,10 @@ This Legislative History is provided for the convenience of users of the Dental 
 |||(Bill No. 22/2009 published on 19 October 2009)|
 ||Date of Second and Third Readings|11 January 2010|
 ||Date of commencement|1 December 2010 (Section 38 –– Amendment of Dental Registration Act)|
+|23.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
 ## COMPARATIVE TABLE
 
 Dental Registration Act
