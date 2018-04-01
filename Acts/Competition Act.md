@@ -12,11 +12,11 @@
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II COMPETITION COMMISSION OF SINGAPORE**](#Part-II)
+[**Part II COMPETITION AND CONSUMER COMMISSION OF SINGAPORE**](#Part-II)
 
 [**Division 1  Establishment, incorporation and constitution of Commission**](#Division-1--Establishment-incorporation-and-constitution-of-Commission)
 
-- [3 Establishment and incorporation of Competition Commission of Singapore](#Establishment-and-incorporation-of-Competition-Commission-of-Singapore)
+- [3 Establishment and incorporation of Competition and Consumer Commission of Singapore](#Establishment-and-incorporation-of-Competition-and-Consumer-Commission-of-Singapore)
 
 - [4 Common seal](#Common-seal)
 
@@ -34,13 +34,13 @@
 
 [**Division 3  Provisions relating to staff**](#Division-3--Provisions-relating-to-staff)
 
-- [10 Appointment of Chief Executive and other employees, etc.](#Appointment-of-Chief-Executive-and-other-employees-etc)
+- [10 Chief Executive, officers and employees, etc.](#Chief-Executive-officers-and-employees-etc)
 
 [**Division 4  Financial provisions**](#Division-4--Financial-provisions)
 
 - [11 Financial year](#Financial-year)
 
-- [12 Annual estimates](#Annual-estimates)
+- [12 Minister’s approval of estimates](#Minister’s-approval-of-estimates)
 
 - [13 Moneys recovered or collected by Commission](#Moneys-recovered-or-collected-by-Commission)
 
@@ -56,13 +56,13 @@
 
 - [19 Investment](#Investment)
 
-- [20 Accounts](#Accounts)
+- [20 (Repealed)](#Repealed)
 
 - [21 Audit of accounts](#Audit-of-accounts)
 
-- [22 Powers of auditor](#Powers-of-auditor)
+- [22 (Repealed)](#Repealed)
 
-- [23 Presentation of financial statements and auditor’s report to Parliament](#Presentation-of-financial-statements-and-auditor’s-report-to-Parliament)
+- [23 (Repealed)](#Repealed)
 
 [**Division 5  Transfer of property, assets, liabilities and employees**](#Division-5--Transfer-of-property-assets-liabilities-and-employees)
 
@@ -82,7 +82,7 @@
 
 [**Division 6  General**](#Division-6--General)
 
-- [31 Annual report](#Annual-report)
+- [31 (Repealed)](#Repealed)
 
 - [32 Symbol or representation of Commission](#Symbol-or-representation-of-Commission)
 
@@ -244,6 +244,22 @@
 
 - [94 Transitional provisions](#Transitional-provisions)
 
+[**Part VII**](#Part-VII)
+
+[**TRANSFER OF UNDERTAKINGS TO COMMISSION**](#TRANSFER-OF-UNDERTAKINGS-TO-COMMISSION)
+
+- [95 Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [96 Transfer of undertakings to Commission](#Transfer-of-undertakings-to-Commission)
+
+- [97 Transfer of employees to Commission](#Transfer-of-employees-to-Commission)
+
+- [98 General preservation of employment terms, etc.](#General-preservation-of-employment-terms-etc)
+
+- [99 Transfer of records](#Transfer-of-records)
+
+- [100 Confirmation of transfers](#Confirmation-of-transfers)
+
 [**FIRST SCHEDULE Constitution and proceedings of Commission**](#FIRST-SCHEDULE-Constitution-and-proceedings-of-Commission)
 
 [**SECOND SCHEDULE Powers of Commission**](#SECOND-SCHEDULE-Powers-of-Commission)
@@ -266,15 +282,17 @@ REVISED EDITION 2006
 
 (31st January 2006)
 
-An Act to make provision about competition and the abuse of a dominant position in the market; and to establish the Competition Commission of Singapore, to provide for its functions and powers and for matters connected therewith.
+An Act to make provision about competition and the abuse of a dominant position in the market; and to establish the Competition and Consumer Commission of Singapore, to provide for its functions and powers and for matters connected therewith.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 [1st January 2005: Parts I and II and First and Second Schedules ;
 
 1st September 2005: Part IV ;
 
-1st January 2006: Parts III (except Division 4)1, V and VI and Third Schedule
+Parts III (except Division 4)1, V and VI and Third Schedule
 
-1Division 4 of Part III and the Fourth Schedule were repealed by Act 23 of 2007 on 30th June 2007. New Divisions 4 and 4A of Part III and the new Fourth Schedule were inserted by Act 23 of 2007 and were brought into operation on 1st July 2007
+1Division 4 of Part III and the Fourth Schedule were repealed by Act 23 of 2007 on 30th June 2007. New Divisions 4 and 4A of Part III and the new Fourth Schedule were inserted by Act 23 of 2007 and were brought into operation on 1st January 20061st July 2007
 
 ]
 
@@ -302,9 +320,13 @@ PRELIMINARY
 
 “Chairman” means the Chairman of the Commission and includes any temporary Chairman of the Commission;
 
-“Chief Executive” means the Chief Executive of the Commission appointed under section 10 and includes any person acting in that capacity;
+“Chief Executive” means the Chief Executive of the Commission, and includes any individual acting in that capacity;
 
-“Commission” means the Competition Commission of Singapore established under section 3;
+[Act 5 of 2018 wef 01/04/2018]
+
+“Commission” means the Competition and Consumer Commission of Singapore established by section 3;
+
+[Act 10 of 2018 wef 01/04/2018]
 
 “Deputy Chairman” means the Deputy Chairman of the Commission and includes any temporary Deputy Chairman of the Commission;
 
@@ -368,21 +390,25 @@ but includes any vehicle;
 
 ## PART II
 
-COMPETITION COMMISSION OF SINGAPORE
+COMPETITION AND CONSUMER COMMISSION OF SINGAPORE
+
+[Act 10 of 2018 wef 01/04/2018]
 
 Division 1 —
 
 Establishment, incorporation and constitution of Commission
 
-### Establishment and incorporation of Competition Commission of Singapore
+### Establishment and incorporation of Competition and Consumer Commission of Singapore
 
-3\. There is hereby established a body to be known as the Competition Commission of Singapore which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
+3\. There is hereby established a body to be known as the Competition and Consumer Commission of Singapore which shall be a body corporate with perpetual succession and shall, by that name, be capable of —
 
 (a) suing and being sued;
 
 (b) acquiring, owning, holding and developing or disposing of property, both movable and immovable; and
 
 (c) doing and suffering such other acts or things as bodies corporate may lawfully do and suffer.
+
+[Act 10 of 2018 wef 01/04/2018]
 
 ### Common seal
 
@@ -418,9 +444,25 @@ Functions, duties and powers of Commission
 
 (d) to promote a strong competitive culture and environment throughout the economy in Singapore;
 
-(e) to act internationally as the national body representative of Singapore in respect of competition matters;
+(e) to act internationally as the national body representative of Singapore in respect of competition matters and consumer protection matters;
 
-(f) to advise the Government or other public authority on national needs and policies in respect of competition matters generally; and
+[Act 10 of 2018 wef 01/04/2018]
+
+(ea) to promote fair trading practices among suppliers and consumers and enable consumers to make informed purchasing decisions in Singapore;
+
+[Act 10 of 2018 wef 01/04/2018]
+
+(eb) to prevent suppliers in Singapore from engaging in unfair practices;
+
+[Act 10 of 2018 wef 01/04/2018]
+
+(ec) to administer and enforce the Consumer Protection (Fair Trading) Act (Cap. 52A);
+
+[Act 10 of 2018 wef 01/04/2018]
+
+(f) to advise the Government, any public authority or any consumer protection organisation on national needs and policies in respect of competition matters and consumer protection matters generally; and
+
+[Act 10 of 2018 wef 01/04/2018]
 
 (g) to perform such other functions and discharge such other duties as may be conferred on the Commission by or under any other written law.
 
@@ -446,39 +488,41 @@ Functions, duties and powers of Commission
 
 ### Directions by Minister
 
-8\. The Minister may give such general directions, not inconsistent with the provisions of this Act, relating to the policy the Commission is to observe in the exercise of its powers, the performance of its functions and the discharge of its duties as the Minister considers necessary, and the Commission shall give effect to any such directions.
+8\. The Minister may give to the Commission any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Appointment of committees and delegation of powers
 
 9\.—(1) The Commission may, in its discretion, appoint from among its own members or persons who are not members such number of committees as it thinks fit consisting of members or other persons or members and other persons for purposes which, in the opinion of the Commission, would be better regulated and managed by means of such committees.
 
-(2) The Commission may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman, all or any of the powers, functions and duties vested in the Commission by this Act or any other written law, except the powers to make regulations, prescribe or levy dues and rates and borrow money and the power of delegation conferred by this subsection.
+(2) The Commission may, subject to such conditions or restrictions as it thinks fit, delegate to any such committee or the Chairman, all or any of the powers, functions and duties vested in the Commission by this Act or any other written law, except the powers to prescribe or levy dues and rates and borrow money.
 
-(3) The Commission may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Commission or any person all or any of the powers, functions and duties vested in the Commission by this Act or any other written law, except the powers to make regulations, prescribe or levy dues and rates and borrow money and the power of delegation conferred by this subsection; and any power, function or duty so delegated may be exercised, performed or discharged by the employee or person in the name and on behalf of the Commission.
+[Act 5 of 2018 wef 01/04/2018]
 
-(4) The Commission may continue to exercise a power conferred upon it, perform a function or discharge a duty under this Act or any other written law, notwithstanding the delegation of the power, function or duty under this section.
+(3) The Commission may, subject to such conditions or restrictions as it thinks fit, delegate to any employee of the Commission or any person all or any of the powers, functions and duties vested in the Commission by this Act or any other written law, except the powers to prescribe or levy dues and rates and borrow money; and any power, function or duty so delegated may be exercised, performed or discharged by the employee or person in the name and on behalf of the Commission.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Division 3 —
 
 Provisions relating to staff
 
-### Appointment of Chief Executive and other employees, etc.
+### Chief Executive, officers and employees, etc.
 
-10\.—(1) The Commission shall, with the approval of the Minister, appoint a Chief Executive on such terms and conditions as the Commission may determine.
+10\.—(1) There must be a Chief Executive of the Commission, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The Chief Executive shall —
+(2) The Commission may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(a) be known by such designation as the Commission may determine;
+(a) is absent from duty or Singapore; or
 
-(b) be responsible to the Commission for the proper administration and management of the functions and affairs of the Commission in accordance with the policy laid down by the Commission; and
+(b) is, for any reason, unable to perform the duties of the office.
 
-(c) not be removed from office without the consent of the Minister.
+(3) The Commission may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
 
-(3) The Minister shall consult the Public Service Commission before granting his approval under subsection (1) or before giving his consent under subsection (2)(c).
-
-(4) If the Chief Executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for any other reason temporarily unable to discharge his duties, another person may be appointed by the Commission to act in the place of the Chief Executive during any such period of absence from duty.
-
-(5) The Commission may, from time to time, appoint and employ on such terms and conditions as the Commission may determine such officers, employees, consultants and agents as may be necessary for the effective performance of its functions and discharge of its duties.
+[Act 5 of 2018 wef 01/04/2018]
 
 Division 4 —
 
@@ -488,17 +532,17 @@ Financial provisions
 
 11\. The financial year of the Commission shall begin on 1st April of each year and end on 31st March of the succeeding year, except that the first financial year of the Commission shall begin on 1st January 2005 and end on 31st March of the succeeding year.
 
-### Annual estimates
+### Minister’s approval of estimates
 
-12\.—(1) The Commission shall, in every financial year, prepare or cause to be prepared and shall adopt annual estimates of income and expenditure of the Commission for the ensuing financial year.
+12\.—(1) A copy of all annual estimates of revenue and expenditure and supplementary estimates must, upon their adoption by the Commission, be sent without delay to the Minister.
 
-(2) Supplementary estimates may be adopted by the Commission at any of its meetings.
+(2) The Minister may approve or disallow any item or portion of any item shown in the annual estimates or supplementary estimates.
 
-(3) A copy of all annual estimates and supplementary estimates shall, upon their adoption by the Commission, be sent immediately to the Minister.
+(3) The Minister must return the annual estimates or supplementary estimates as amended under subsection (2) to the Commission, and the Commission is bound by the Minister’s decision.
 
-(4) The Minister may approve or disallow any item or portion of any item shown in the estimates, and shall return the estimates as amended by him to the Commission, and the Commission shall be bound thereby.
+(4) However, the Commission may transfer all or any part of moneys assigned to one item of expenditure to any item under the same head of expenditure in any estimates approved by the Minister.
 
-(5) Notwithstanding any provision of this section, the Commission may transfer all or any part of moneys assigned to one item of expenditure to any item under the same head of expenditure in any estimates approved by the Minister.
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Moneys recovered or collected by Commission
 
@@ -544,61 +588,27 @@ Financial provisions
 
 (b) engage in any financial activity or participate in any financial arrangement for the purpose of managing or hedging against any financial risk that arises or is likely to arise from such investment.
 
-### Accounts
-
-20\. The Commission shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that —
-
-(a) all payments out of its moneys are correctly made and properly authorised; and
-
-(b) adequate control is maintained over the assets of, or in the custody of, the Commission and over the expenditure incurred by the Commission.
+20\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Audit of accounts
 
-21\.—(1) The accounts of the Commission shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General (referred to in this Act as the auditor).
+21\. 
 
-(2) A person shall not be qualified for appointment as an auditor under subsection (1) unless he is a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2).
+—(1) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(3) The Commission shall, as soon as practicable after the close of each financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
+(2) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(4) The auditor shall in his report state —
+(3) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Commission;
+(4) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(b) whether proper accounting and other records have been kept, including records of all assets of the Commission whether purchased, donated or otherwise;
-
-(c) whether the receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Commission during the financial year were in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-(5) The auditor shall, as soon as practicable after the accounts have been submitted for audit, send a report of his audit to the Commission.
+(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 (6) The auditor shall submit such periodical and special reports to the Minister and to the Commission as may appear to him to be necessary or as the Minister or the Commission may require.
 
-### Powers of auditor
+22\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
-22\.—(1) The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Commission.
-
-(2) The auditor or any person authorised by him may make copies of, or take extracts from, any such accounting or other records.
-
-(3) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor or any duly authorised person considers necessary for the performance of his functions under this Act.
-
-(4) Any officer of the Commission who —
-
-(a) refuses or fails, without any reasonable cause, to allow the auditor or any person authorised by the auditor access to any accounting and other records of the Commission in his custody or power;
-
-(b) refuses or fails, without any reasonable cause, to give any information possessed by him as and when required by the auditor or person authorised by the auditor; or
-
-(c) hinders, obstructs or delays the auditor or any person authorised by the auditor in the performance of his functions,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
-
-### Presentation of financial statements and auditor’s report to Parliament
-
-23\.—(1) The Commission shall, as soon as its accounts and financial statements have been audited in accordance with the provisions of this Act, send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of the auditor’s report.
-
-(2) Where the Auditor-General is not the auditor of the Commission, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General at the same time they are submitted to the Commission.
-
-(3) The Minister shall, as soon as practicable, cause a copy of the audited financial statements and of the auditor’s report referred to in subsection (1) to be presented to Parliament.
+23\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 Division 5 —
 
@@ -672,11 +682,7 @@ Division 6 —
 
 General
 
-### Annual report
-
-31\.—(1) The Commission shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Commission during the preceding financial year and containing such information relating to the proceedings and policy of the Commission as the Minister may, from time to time, direct.
-
-(2) The Minister shall, as soon as practicable, cause a copy of every such report to be presented to Parliament.
+31\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Symbol or representation of Commission
 
@@ -2496,7 +2502,9 @@ that may come to his knowledge in the performance of his functions and discharge
 
 (i) is necessary for the performance of any such function or discharge of any such duty; or
 
-(ii) is lawfully required by any court or the Board, or lawfully required or permitted under this Act or any other written law.
+(ii) is lawfully required by any court or the Board, or lawfully required or allowed under this Act or any other written law.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) Any person who fails to comply with subsection (1) shall be guilty of an offence.
 
@@ -2576,7 +2584,9 @@ for anything done (including any statement made) or omitted to be done in good f
 
 ### Public servants
 
-91\. All members, officers and employees of the Commission, all inspectors and all members of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+91\. All inspectors and all members of the Board shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Proceedings conducted by officers of Commission
 
@@ -2654,6 +2664,168 @@ for anything done (including any statement made) or omitted to be done in good f
 
 (iii) that any provision of this Act shall not apply, or shall apply in a modified form, for the purpose of or in connection with the transitional period, whether generally or in relation to any specific activity, agreement or conduct or category of activity, agreement or conduct.
 
+## PART VII
+
+TRANSFER OF UNDERTAKINGS TO COMMISSION
+
+### Interpretation of this Part
+
+95\. In this Part, unless the context otherwise requires —
+
+“asset”, in relation to the transferor, means property of any kind (whether tangible or intangible, whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether actual or contingent) of the transferor on the eve of the transfer date and includes, without limitation, any —
+
+(a) legal or equitable interest in real or personal property, whether situated in Singapore or elsewhere;
+
+(b) chose in action;
+
+(c) money or securities;
+
+(d) plant and equipment, whether situated in Singapore or elsewhere;
+
+(e) intellectual property;
+
+(f) infrastructure, whether situated in Singapore or elsewhere;
+
+(g) records; and
+
+(h) right;
+
+“fair trading functions” means the following functions:
+
+(a) promoting fair trading among suppliers and consumers and enabling consumers to make informed purchasing decisions in Singapore;
+
+(b) preventing suppliers in Singapore from engaging in unfair trading practices;
+
+(c) advising the Government, any public authority or any consumer protection organisation on fair trading matters generally;
+
+(d) administering and enforcing the Consumer Protection (Fair Trading) Act (Cap. 52A);
+
+“liability”, in relation to the transferor, means any liability, duty or obligation (whether actual or contingent, liquidated or unliquidated, and whether owed alone or jointly and severally with any other person) of the transferor on the eve of the transfer date;
+
+“records”, in relation to the transferor, means registers, papers, documents, minutes, receipts, books of account and other records, however compiled, recorded or stored, of the transferor existing on the eve of the transfer date;
+
+“right”, in relation to the transferor, means any right, power, privilege or immunity of the transferor on the eve of the transfer date;
+
+“transfer date” means the date this Part comes into operation;
+
+“transferor” means the Standards, Productivity and Innovation Board established by the Standards, Productivity and Innovation Board Act (Cap. 303A).
+
+### Transfer of undertakings to Commission
+
+96\.—(1) On the transfer date, all the assets and liabilities of the transferor that relate solely or mainly to the fair trading functions are transferred to the Commission.
+
+(2) When any asset or liability of the transferor is transferred under subsection (1), the following provisions have effect:
+
+(a) the asset that is the subject of the transfer vests in the Commission by virtue of this section and without the need for any further conveyance, transfer, assignment or assurance;
+
+(b) the liability that is the subject of the transfer becomes by virtue of this section the liability of the Commission;
+
+(c) all legal or other proceedings relating to that asset or liability started before the transfer date by or against the transferor (or a predecessor of the transferor) and pending immediately before that date are taken to be proceedings pending by or against the Commission;
+
+(d) any legal or other proceedings relating to that asset or liability which could have been started immediately before the transfer date by or against the transferor (or a predecessor of the transferor) may be started by or against the Commission;
+
+(e) a judgment or order of a court or other tribunal obtained before the transfer date by or against the transferor (or a predecessor of the transferor) relating to that asset or liability may be enforced by or against the Commission;
+
+(f) any document relating to legal or other proceedings relating to that asset or liability that has been served on or by the transferor (or a predecessor of the transferor) before the transfer date is taken, where appropriate, to have been served on or by the Commission;
+
+(g) any act, matter or thing done or omitted to be done before the transfer date in relation to that asset or liability by, to or in respect of the transferor (or a predecessor of the transferor) is (to the extent to which that act, matter or thing has any force or effect) taken to have been done or omitted by, to or in respect of the Commission;
+
+(h) a reference to the transferor (or a predecessor of the transferor) in any written law, any instrument made under any Act, any contract, agreement, arrangement or undertaking, or any document of any kind, to the extent to which the reference relates to that asset or liability, is taken to be, or to include, a reference to the Commission;
+
+(i) any agreement relating to that asset or liability and to which the transferor (or a predecessor of the transferor) is a party becomes enforceable by or against the Commission.
+
+(3) The operation of this section does not —
+
+(a) constitute a breach of, or default under, any Act or other law or otherwise a civil wrong or criminal wrong;
+
+(b) constitute a breach of duty of confidence (whether arising by contract, in equity, by custom, or in any other way);
+
+(c) constitute a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets or liabilities or the disclosure of any information;
+
+(d) terminate an agreement or fulfil any condition that allows a person to terminate any agreement or obligation, or give rise to any right or remedy in respect of any agreement or obligation;
+
+(e) frustrate any contract or cause any contract or instrument to be void or otherwise unenforceable;
+
+(f) release any surety, other obligor or other obligee wholly or in part from any obligation; or
+
+(g) constitute an event of breach of, or default under, any contract or other instrument.
+
+### Transfer of employees to Commission
+
+97\.—(1) On the transfer date, every employee of the transferor in the Consumer Protection Weights & Measures Division who performs solely or mainly the fair trading functions —
+
+(a) stops being an employee of the transferor; and
+
+(b) is each transferred to the service, and becomes an employee, of the Commission on terms no less favourable than those enjoyed by the employee on the eve of the transfer date.
+
+(2) A certificate signed by the Minister certifying whether an individual named in the certificate has been transferred to the service of the Commission under subsection (1) is admissible in evidence in any proceedings as proof of the matters stated in the certificate.
+
+(3) The transfer of an employee of the transferor to the Commission under subsection (1) —
+
+(a) does not interrupt continuity of the employee’s service;
+
+(b) does not constitute a retrenchment or redundancy of the employee’s employment by the transferor; and
+
+(c) does not entitle the employee to any compensation or other payment or benefit merely because he or she stops being employed by the transferor.
+
+(4) Nothing in this section prevents —
+
+(a) any of the terms and conditions of employment of an individual transferred to the service of the Commission under subsection (1) from being altered by or under any law, award or agreement with effect from any time after the transfer date; and
+
+(b) an individual transferred to the service of the Commission under subsection (1) from resigning from such service any time after the transfer date, in accordance with the terms and conditions of his or her employment then applicable.
+
+(5) To avoid doubt, section 18A of the Employment Act (Cap. 91) does not apply to the transfer under this Part of any employee of the transferor to the Commission.
+
+### General preservation of employment terms, etc.
+
+98\.—(1) When an employee of the transferor is transferred to the service of the Commission under section 97 (called in this section a transferred employee), the transferred employee’s service with the Commission must be regarded for all purposes as having been continuous with his or her service with the transferor immediately before the transfer date.
+
+(2) On the transfer date —
+
+(a) a transferred employee retains all accrued rights as if his or her employment with the Commission were a continuation of employment with the transferor;
+
+(b) the liabilities of the transferor relating to the transferred employee’s accrued rights to leave and superannuation become the liabilities of the Commission; and
+
+(c) a reference in the contract of employment that had effect in relation to the transferred employee immediately before the transfer date is taken to be, or includes, a reference to the Commission.
+
+(3) Until such time as the Commission draws up the terms and conditions of employment for the transferred employee, the Commission is to be regarded as employing the transferred employee on the same terms and conditions of his or her employment with the transferor on the eve of the transfer date.
+
+(4) Any term or condition of employment drawn up by the Commission relating to the length of service of the transferred employee with the Commission must recognise the length of service of that employee with the transferor (including any previous service that is taken to be service with the transferor) to be service with the Commission.
+
+(5) For any conduct of the transferred employee when he or she was employed by the transferor which would have rendered that employee liable to be reprimanded, reduced in rank, retired, dismissed or punished by the transferor, the Commission may —
+
+(a) start any disciplinary proceedings against the employee;
+
+(b) carry on and complete any disciplinary proceedings started by the transferor against that employee if those proceedings are pending on the eve of the transfer date; and
+
+(c) reprimand, reduce in rank, retire, dismiss or otherwise punish the employee as if the Commission were the transferor.
+
+(6) Where on the eve of the transfer date, any matter about the conduct of the transferred employee during his or her employment with the transferor concerned —
+
+(a) was in the course of being heard or investigated by a committee of that transferor acting under due authority; or
+
+(b) had been heard or investigated, but no order, ruling or direction had been made, by that committee,
+
+that committee must complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date, and that order, ruling or direction is to be regarded as an order, ruling or direction of the Commission.
+
+### Transfer of records
+
+99\. On the transfer date, the records of the transferor that relate solely or mainly to the fair trading functions become the records of the Commission.
+
+### Confirmation of transfers
+
+100\.—(1) If any dispute arises —
+
+(a) as to whether an asset or a liability, or an employee or a record, is transferred under section 96, 97 or 99; or
+
+(b) as to whether any, or part of any, contract or document relates to an asset or a liability, or an employee or a record, transferred under section 96, 97 or 99,
+
+the Minister charged with the responsibility for finance may determine the matter and must provide the concerned parties with written notice of that determination.
+
+(2) The determination of the Minister charged with the responsibility for finance under subsection (1) is final and binding on the transferor and the Commission.
+
+[Act 10 of 2018 wef 01/04/2018]
+
 FIRST SCHEDULE
 
 Section 5(2)
@@ -2726,17 +2898,7 @@ Disqualification from membership
 
 (d) is otherwise unable or unfit to discharge the functions of a member.
 
-Disclosure of interest by members
-
-11.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Commission shall disclose the nature of his interest at the first meeting of the Commission at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Commission and, after the disclosure, that member —
-
-(a) shall not take part in any deliberation or decision of the Commission with respect to that transaction or project; and
-
-(b) shall be disregarded for the purpose of constituting a quorum of the Commission for such deliberation or decision.
-
-(3) For the purposes of this paragraph, a member whose spouse, parent, step-parent, son, adopted son, step-son, daughter, adopted daughter, step-daughter, brother, half-brother, step-brother, sister, half-sister or step-sister has an interest in the transaction or project referred to in sub-paragraph (1) shall be deemed to be interested in such transaction or project.
+11. [Deleted by Act 5 of 2018 wef 01/04/2018 wef 01/04/2018]
 
 Sealing of documents
 
@@ -2770,7 +2932,9 @@ Procedure at meetings
 
 16.—(1) The Chairman or any other officer authorised by him shall, subject to such standing orders as may be made by the Commission under sub-paragraph (2), summon all meetings of the Commission for the despatch of business.
 
-(2) Subject to the provisions of this Act, the Commission may make standing orders to regulate its own procedure generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
+(2) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Commission may make standing orders to regulate its own procedure generally and, in particular, regarding the holding of meetings, the notice to be given of such meetings, the proceedings thereat, the keeping of minutes, the custody, production and inspection of such minutes, and the opening, keeping, closing and auditing of accounts.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 Validity of act or proceeding
 
@@ -2778,11 +2942,15 @@ Validity of act or proceeding
 
 (a) of any vacancy in, or defect in the constitution of, the Commission;
 
-(b) of any defect in the appointment of any person acting as the Chairman or as a member;
+(b) of any defect in the appointment of any person acting as the Chairman or as a member; or
 
-(c) of any omission, defect or irregularity in the procedure of the Commission not affecting the merits of the case; or
+[Act 5 of 2018 wef 01/04/2018]
 
-(d) that any member has contravened paragraph 11.
+(c) of any omission, defect or irregularity in the procedure of the Commission not affecting the merits of the case.
+
+[Act 5 of 2018 wef 01/04/2018]
+
+(d) [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 SECOND SCHEDULE
 
@@ -3119,3 +3287,11 @@ This Legislative History is provided for the convenience of users of the Competi
 ||Date of First Reading|13 July 2015 (Bill No. 26/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|22 January 2016|
+|13.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
+|14.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
