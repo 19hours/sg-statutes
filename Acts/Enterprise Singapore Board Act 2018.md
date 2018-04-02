@@ -220,6 +220,8 @@ Date of Commencement: 1 April 2018 Parts 1 to 8, sections 66, 67(1), 68, 69, 71 
 
 Date of Commencement: 2 April 2018 Sections 64 and 65
 
+An Act to establish the Enterprise Singapore Board, to repeal the International Enterprise Singapore Board Act (Chapter 143B of the 2002 Revised Edition) and the Standards, Productivity and Innovation Board Act (Chapter 303A of the 2002 Revised Edition), and to make consequential and related amendments to certain other Acts.
+
 ## PART 1
 
 PRELIMINARY
