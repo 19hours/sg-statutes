@@ -12,11 +12,11 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Appointment of Registrar and Assistant Registrars](#Appointment-of-Registrar-and-Assistant-Registrars)
+- [3 Appointment of Registrar, etc.](#Appointment-of-Registrar-etc)
 
 [**Part II FORMATION AND REGISTRATION OF SOCIETIES**](#Part-II)
 
-- [4 Societies which may be registered](#Societies-which-may-be-registered)
+- [4 Characteristics required for registration, etc.](#Characteristics-required-for-registration-etc)
 
 - [5 Conditions of registration](#Conditions-of-registration)
 
@@ -27,6 +27,8 @@
 - [8 Requirements before registration](#Requirements-before-registration)
 
 - [9 Registration](#Registration)
+
+- [9A Modifying of terms and conditions of registration](#Modifying-of-terms-and-conditions-of-registration)
 
 - [10 Evidence of registration](#Evidence-of-registration)
 
@@ -56,7 +58,7 @@
 
 - [18 Register of members and shares](#Register-of-members-and-shares)
 
-- [19 Registration of officers of societies](#Registration-of-officers-of-societies)
+- [19 Relevant particulars of officers of society](#Relevant-particulars-of-officers-of-society)
 
 - [20 Copy of this Act, Rules, by-laws and list of members open to inspection](#Copy-of-this-Act-Rules-by-laws-and-list-of-members-open-to-inspection)
 
@@ -70,7 +72,7 @@
 
 - [25 Shares or interest not liable to attachment or sale](#Shares-or-interest-not-liable-to-attachment-or-sale)
 
-- [26 Transfer of shares or interest on death or permanent insanity of member](#Transfer-of-shares-or-interest-on-death-or-permanent-insanity-of-member)
+- [26 Transfer of shares or interest where member dies or lacks capacity](#Transfer-of-shares-or-interest-where-member-dies-or-lacks-capacity)
 
 - [27 Deposits by or on behalf of minors](#Deposits-by-or-on-behalf-of-minors)
 
@@ -80,11 +82,19 @@
 
 - [30 (Repealed)](#Repealed)
 
-- [31 Production of moneys and books of societies](#Production-of-moneys-and-books-of-societies)
+- [31 (Repealed)](#Repealed)
 
 - [32 Submission of minutes, returns and statements](#Submission-of-minutes-returns-and-statements)
 
+- [32A Documents, etc., to be in English](#Documents-etc-to-be-in-English)
+
+- [32B Keeping of records and documents, etc.](#Keeping-of-records-and-documents-etc)
+
+- [32C Duty to inform Registrar of certain developments, etc.](#Duty-to-inform-Registrar-of-certain-developments-etc)
+
 - [33 Audit of societies](#Audit-of-societies)
+
+- [33A Special audit of societies](#Special-audit-of-societies)
 
 - [34 Annual reports, accounts and financial statements](#Annual-reports-accounts-and-financial-statements)
 
@@ -142,7 +152,7 @@
 
 - [59 Constitution of committee of management of society](#Constitution-of-committee-of-management-of-society)
 
-- [60 Eligibility for membership of committee of management, or to be key employee of credit society](#Eligibility-for-membership-of-committee-of-management-or-to-be-key-employee-of-credit-society)
+- [60 Eligibility for membership of committee of management, or to be key employee](#Eligibility-for-membership-of-committee-of-management-or-to-be-key-employee)
 
 - [61 Functions of committee of management](#Functions-of-committee-of-management)
 
@@ -159,6 +169,10 @@
 [**Part VI PROPERTY AND FUNDS OF SOCIETIES**](#Part-VI)
 
 - [66 Capital](#Capital)
+
+- [66A Ordinary shares](#Ordinary-shares)
+
+- [66B Permanent shares](#Permanent-shares)
 
 - [67 Restrictions on loans](#Restrictions-on-loans)
 
@@ -184,17 +198,17 @@
 
 - [76 (Repealed)](#Repealed)
 
-- [77 Power of Registrar to inspect books of societies](#Power-of-Registrar-to-inspect-books-of-societies)
+- [77 Power to inspect materials, etc.](#Power-to-inspect-materials-etc)
 
 - [78 (Repealed)](#Repealed)
 
 - [79 Inquiry by Registrar](#Inquiry-by-Registrar)
 
-- [80 Examination of books of indebted society](#Examination-of-books-of-indebted-society)
+- [80 Examination of materials of indebted society on creditor’s application](#Examination-of-materials-of-indebted-society-on-creditor’s-application)
 
-- [81 Communication of defects in working of societies](#Communication-of-defects-in-working-of-societies)
+- [81 Communication of findings on working of societies](#Communication-of-findings-on-working-of-societies)
 
-- [82 Costs of inquiry and examination](#Costs-of-inquiry-and-examination)
+- [82 Costs of special audit, inquiry and examination](#Costs-of-special-audit-inquiry-and-examination)
 
 - [83 Dissolution of societies](#Dissolution-of-societies)
 
@@ -218,11 +232,13 @@
 
 - [93 Miscellaneous powers of Registrar](#Miscellaneous-powers-of-Registrar)
 
-- [93A Power to freeze bank accounts](#Power-to-freeze-bank-accounts)
+- [93A Conversion of credit society to non-credit society, etc., on failure to comply with prudential requirements](#Conversion-of-credit-society-to-non-credit-society-etc-on-failure-to-comply-with-prudential-requirements)
 
 - [93B Codes, guidelines, etc., by Registrar](#Codes-guidelines-etc-by-Registrar)
 
-- [94 Extraordinary powers of Registrar](#Extraordinary-powers-of-Registrar)
+- [94 Powers of Registrar where committee of management of society not performing duties properly, etc.](#Powers-of-Registrar-where-committee-of-management-of-society-not-performing-duties-properly-etc)
+
+- [94A Powers of Registrar to protect interests of members or property of society](#Powers-of-Registrar-to-protect-interests-of-members-or-property-of-society)
 
 [**Part IX MISCELLANEOUS**](#Part-IX)
 
@@ -238,6 +254,8 @@
 
 - [97B Amendment of Schedule](#Amendment-of-Schedule)
 
+- [97C Power to freeze bank accounts](#Power-to-freeze-bank-accounts)
+
 - [98 Recovery of sums due to Government](#Recovery-of-sums-due-to-Government)
 
 - [99 Prohibition on use of word "co-operative"](#Prohibition-on-use-of-word-"co-operative")
@@ -246,7 +264,13 @@
 
 - [100A False reports made by officer to member of committee of management, auditor or member of society](#False-reports-made-by-officer-to-member-of-committee-of-management-auditor-or-member-of-society)
 
+- [100AA Wilful falsification of book, etc., of society](#Wilful-falsification-of-book-etc-of-society)
+
+- [100AB Unlawful alteration, suppression, etc., of documents](#Unlawful-alteration-suppression-etc-of-documents)
+
 - [100B Fraudulently inducing persons to invest or deposit money with society](#Fraudulently-inducing-persons-to-invest-or-deposit-money-with-society)
+
+- [100BA False or misleading statement or information to induce person to join society, etc.](#False-or-misleading-statement-or-information-to-induce-person-to-join-society-etc)
 
 - [100C Fraud by officers against creditors of societies](#Fraud-by-officers-against-creditors-of-societies)
 
@@ -290,11 +314,21 @@ PRELIMINARY
 
 “allowance” means the remuneration paid to a member of the committee of management of a society in consideration of his voluntary services rendered to the society on a regular basis;
 
-“apex organisation” means an organisation established to facilitate the operations of all primary and secondary co-operative societies in Singapore;
+“apex organisation” means an organisation established to facilitate the operations of all primary and secondary societies in Singapore;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+“Assistant Registrar” means an Assistant Registrar of Co‑operative Societies appointed under section 3(1);
+
+[Act 3 of 2018 wef 10/04/2018]
 
 “audit committee”, in relation to a credit society, means the audit committee of the credit society referred to in section 36;
 
 “auditor”, in relation to a society, means any person referred to in section 33(1) or 36(4)(b);
+
+“authorised person”, in relation to a matter, means a person who is authorised by the Registrar in writing to act on behalf of the Registrar in relation to the matter;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 “body corporate” includes a limited liability partnership;
 
@@ -302,7 +336,9 @@ PRELIMINARY
 
 “Central Co-operative Fund” means the fund established under section 71;
 
-“committee of management” means the governing body of a society which is responsible for the management of the affairs of the society;
+“committee of management” means the governing body (by whatever name called) of a society which is responsible for the management of the affairs of the society;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 “credit society” means a society which is registered as a credit society;
 
@@ -320,15 +356,45 @@ PRELIMINARY
 
 (b) such other deposit as may be prescribed;
 
-“dividend” means a portion of the net surplus of a society distributed among the members in proportion to the paid-up share capital or subscription capital held by them in the society;
+“Deputy Registrar” means a Deputy Registrar of Co‑operative Societies appointed under section 3(1);
+
+[Act 3 of 2018 wef 10/04/2018]
+
+“dividend” means a portion of the net surplus of a society distributed among the members of the society in proportion to either or both of the following:
+
+(a) the paid‑up share capital held by the members in the society;
+
+(b) the subscription capital held by the members in the society;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+“electronic form” means the form of an electronic record as defined in section 2(1) of the Electronic Transactions Act (Cap. 88);
+
+[Act 3 of 2018 wef 10/04/2018]
 
 “financial service” means receiving deposits, granting loans, or such other service of a financial nature as may be prescribed, other than in relation to the carrying on of insurance business within the meaning of the Insurance Act (Cap. 142);
+
+“hard copy form” means a paper form or similar form capable of being read by a human being without using any other device;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 “honorarium” means a portion of the net surplus of a society distributed among some or all of the members of the committee of management in consideration of their services which would not otherwise be remunerated;
 
 “institutional member” means a society or a trade union;
 
-“key employee” means a chief executive officer, chief operating officer or chief financial officer, or a person holding a position analogous to that of chief executive officer, chief operating officer or chief financial officer, and includes a person purporting to act in any such capacity;
+“key employee” means an individual who holds any of the following appointments, or who purports to act in any of the following capacities, whether or not for reward:
+
+(a) a chief executive officer (whether called general manager or otherwise);
+
+(b) a chief operating officer;
+
+(c) a chief financial officer;
+
+(d) a chief investment officer;
+
+(e) an appointment analogous to any appointment mentioned in paragraph (a), (b), (c) or (d);
+
+[Act 3 of 2018 wef 10/04/2018]
 
 “limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
 
@@ -340,25 +406,45 @@ PRELIMINARY
 
 “officer” includes a chairman, vice-chairman, director, secretary, assistant secretary, treasurer, assistant treasurer, member of committee of management, employee, internal auditor, liquidator or other person empowered under this Act, the Rules or the by-laws, to give directives in regard to the business of a society or to supervise the business;
 
+“ordinary share” means an ordinary share issued under section 66A;
+
+[Act 3 of 2018 wef 10/04/2018]
+
 “parent society” means a society with one or more subsidiaries;
 
 “past officer”, in relation to any obligation imposed under this Act, means a person who at any time before the occurrence of the obligation was, or performed the duties of, an officer;
 
 “patronage refund” means a portion of the net surplus of a society distributed among its members in proportion to the volume of business done by them with the society from which the surplus of the society was derived;
 
-“primary society” means a registered society all of whose members are individual persons who, or institutions which, have the qualifications for membership set out in section 39;
+“permanent share” means a permanent share issued under section 66B;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+“primary society” means a society all of whose members are individual persons who, or institutions which, have the qualifications for membership set out in section 39;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+“proposed society” means an association of persons seeking registration as a society;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 “public accountant” means a person who is registered or deemed to be registered under the Accountants Act (Cap. 2) as a public accountant;
 
 “registered” means registered under this Act;
 
-“Registrar” means the Registrar of Co-operative Societies and the Assistant Registrars of Co-operative Societies appointed under section 3, and includes a person exercising such powers of the Registrar as may have been conferred upon him under that section;
+“Registrar” means the Registrar of Co‑operative Societies appointed under section 3(1), and includes a Deputy Registrar, an Assistant Registrar, or a public officer appointed under section 3(1), exercising such function, duty or power of the Registrar as is delegated to the Deputy Registrar, Assistant Registrar or public officer (as the case may be) under section 3(2);
+
+[Act 3 of 2018 wef 10/04/2018]
 
 “Rules” means rules made under section 95;
 
-“secondary society” means a registered society all of whose registered members are co-operative societies, trade unions, or co-operative societies and trade unions;
+“secondary society” means a society all of whose registered members are co-operative societies, trade unions, or co-operative societies and trade unions;
 
-“share” includes subscriptions payable by a member under the by-laws of a society;
+[Act 3 of 2018 wef 10/04/2018]
+
+“share” means a unit of the share capital or subscription capital of a society;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 “Singapore Labour Foundation” means the Singapore Labour Foundation established under the Singapore Labour Foundation Act (Cap. 303);
 
@@ -380,55 +466,67 @@ PRELIMINARY
 
 [23/2008]
 
-### Appointment of Registrar and Assistant Registrars
+(3) For the purposes of this Act, a society is insolvent if it has insufficient assets to cover its liabilities.
 
-3\.—(1) The Minister may appoint a Registrar of Co-operative Societies, Assistant Registrars of Co-operative Societies and such other officers as he thinks necessary for the administration of this Act.
+[Act 3 of 2018 wef 10/04/2018]
 
-(2) The Registrar may, subject to the provisions of this Act and to any general or special directions of the Minister, delegate any of his functions under this Act to an Assistant Registrar or to a co-operative officer.
+(4) In this Act, where there is a reference to a number of clear days between 2 events, that number of days is exclusive of the days on which those 2 events happen.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Appointment of Registrar, etc.
+
+3\.—(1) The Minister may appoint a Registrar of Co‑operative Societies, one or more Deputy Registrars of Co‑operative Societies and Assistant Registrars of Co‑operative Societies, and such other public officers as the Minister thinks necessary for the administration of this Act.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) The Registrar of Co‑operative Societies may, subject to the provisions of this Act and to any general or special directions of the Minister, delegate any of the Registrar’s functions, duties and powers under this Act to a Deputy Registrar, an Assistant Registrar or a public officer appointed under subsection (1), except the power of delegation conferred by this subsection.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (3) The Registrar shall have a seal of such device as may be approved by the Minister.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ## PART II
 
 FORMATION AND REGISTRATION OF SOCIETIES
 
-### Societies which may be registered
+### Characteristics required for registration, etc.
 
-4\.—(1) Subject to the provisions of this Act, a society —
+4\.—(1) Subject to the provisions of this Act, a proposed society may be registered as a society if —
 
-(a) which has as its object the promotion of the economic interests of its members in accordance with co-operative principles;
+(a) it has as its object the promotion of the economic interests of its members in accordance with co‑operative principles;
 
-(b) which, while having regard to the economic interests of its members in accordance with essential co-operative principles, has, as its object, the promotion of the economic interest of the public generally, or any section of the public; or
+(b) while it has regard to the economic interests of its members in accordance with essential co‑operative principles, it has as its object the promotion of the economic interests of the public generally, or of any section of the public; or
 
-(c) which is a society established with the object of facilitating the operations of a society referred to in paragraphs (a) and (b),
+(c) it is established with the object of facilitating the operations of a society to which either or both of paragraphs (a) and (b) apply.
 
-may be registered as a co-operative society under this Act.
+(2) Every society must have —
 
-(2) Every society which is registered under subsection (1) shall have the organisational and management structure laid down in Part V unless the Registrar, on registration of the society, considers that an organisational and management structure in the form referred to in subsection (3) is necessary or desirable for that society and should be so provided for in its by-laws.
+(a) the organisational and management structure set out in Part V; or
 
-[23/2008]
+(b) an organisational and management structure providing for both of the following — if the Registrar, when registering that society, considers that it is necessary or desirable for that society, and should be provided for in that society’s by‑laws:
 
-(3) The by-laws of a society referred to in subsection (2) may provide for —
+(i) a governing body to be a board of trustees;
 
-(a) a governing body to be a board of trustees; and
+(ii) a committee of management to be a board of directors.
 
-(b) a committee of management to be a board of directors,
+(3) The provisions of Part V apply to a board of directors of a society having an organisational and management structure in subsection (2)(b) as they apply to a committee of management of any other society.
 
-but the provisions of Part V shall apply to a board of directors of such a society as they apply to a committee of management of any other society registered under this Act.
-
-[23/2008]
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Conditions of registration
 
-5\. No society shall be registered under this Act unless —
+5\.—(1) A proposed society cannot be registered as a primary society unless it consists of at least 5 persons, each of whom qualifies for membership under section 39(1).
 
-(a) in the case of a primary society, it consists of at least 10 persons each of whom is qualified for membership under section 39; and
+(2) A proposed society cannot be registered as a secondary society unless it consists of 2 or more persons, each being a society or a trade union.
 
-(b) in the case of a secondary society, it consists of 2 or more societies or trade unions qualifying for membership under section 39.
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Name of society
 
-6\.—(1) No society shall be registered by a name which, in the opinion of the Registrar —
+6\.—(1) No society shall have a name which, in the opinion of the Registrar —
 
 (a) is likely to mislead members of the public as to the true character or purpose of the society;
 
@@ -440,21 +538,31 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 [23/2008]
 
+[Act 3 of 2018 wef 10/04/2018]
+
 (2) Every society shall have —
 
-(a) the word “co-operative” or its equivalent in the Malay, Chinese and Tamil languages as part of its name; and
+(a) as part of its name, the word “co‑operative” or “cooperative”, or its equivalent in the Malay, Chinese or Tamil language; and
 
-(b) the word “limited” or its equivalent in the Malay, Chinese and Tamil languages at the end of its name.
+[Act 3 of 2018 wef 10/04/2018]
+
+(b) at the end of its name, the word “limited” or its equivalent in the Malay, Chinese or Tamil language.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Application for registration
 
-7\.—(1) Every application for registration shall be submitted to the Registrar in the form and manner prescribed together with the prescribed information, and shall be signed —
+7\.—(1) Every application for registration —
 
-(a) in the case of a proposed primary society, by at least 10 persons all of whom qualify for membership; and
+(a) must be submitted to the Registrar in the prescribed manner together with the prescribed information; and
 
-(b) in the case of a proposed secondary society, by at least 2 persons duly authorised in that behalf by at least 2 societies qualifying for membership.
+(b) must be signed by the following (called in this Part the applicants):
 
-[23/2008]
+(i) in the case of an application for registration as a proposed primary society, by at least 5 persons, each of whom qualifies for membership under section 39(1);
+
+(ii) in the case of an application for registration as a proposed secondary society, by at least 2 persons, each of whom is duly authorised in that behalf by a society or a trade union.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (2) The application shall be accompanied by —
 
@@ -484,53 +592,117 @@ but the provisions of Part V shall apply to a board of directors of such a socie
 
 ### Registration
 
-9\.—(1) The Registrar may register a society and its by-laws if he is satisfied that —
+9\.—(1) The Registrar may register a proposed society and its by-laws if he is satisfied that —
 
-(a) the society has complied with the provisions of this Act and the Rules;
+(a) the proposed society has complied with the provisions of this Act and the Rules;
 
-(b) the proposed by-laws of the society are not contrary to this Act and the Rules; and
+[Act 3 of 2018 wef 10/04/2018]
 
-(c) the proposed by-laws of the society are sufficient to provide for its proper administration and management.
+(b) the proposed by-laws of the proposed society are not contrary to this Act and the Rules; and
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(c) the proposed by-laws of the proposed society are sufficient to provide for its proper administration and management.
+
+[23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(1A) For the purposes of subsection (1), the Registrar may accept a declaration made by the applicants for registration of the proposed society as to the matters specified in subsection (1)(a), (b) and (c) as sufficient evidence of those matters.
 
 [23/2008]
 
-(1A) For the purposes of subsection (1), the Registrar may accept a declaration made by the applicants for registration of the society as to the matters specified in subsection (1)(a), (b) and (c) as sufficient evidence of those matters.
+[Act 3 of 2018 wef 10/04/2018]
+
+(1B) Notwithstanding subsection (1), the Registrar may refuse to register a proposed society which proposes to provide any financial service, and its by-laws, if he is not satisfied that —
+
+(a) the proposed society is to be established in the interests of its members;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(b) the primary object of the proposed society is to provide the financial service;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(c) the proposed by‑laws of the proposed society are consistent with the criterion in section 39(3A) for membership in a credit society;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(d) there is available sufficient capital for the commencement and maintenance of the operations of the proposed society;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(e) the proposed society is able to meet such minimum financial or prudential requirements or such other requirements as may be prescribed, either generally or specifically; or
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(f) there are available officers capable of directing and managing the affairs of the proposed society and keeping the records and accounts of the proposed society, having regard to the reputation, character, financial integrity and reliability of the proposed officers.
 
 [23/2008]
 
-(1B) Notwithstanding subsection (1), the Registrar may refuse to register a society which proposes to provide any financial service, and its by-laws, if he is not satisfied that —
+[Act 3 of 2018 wef 10/04/2018]
 
-(a) the society is to be established in the interests of its members;
-
-(b) the primary object of the society is to provide the financial service;
-
-(c) the proposed by-laws of the society are consistent with the criterion for membership in the society prescribed in section 39(3A);
-
-(d) there is available sufficient capital for the commencement and maintenance of the operations of the society;
-
-(e) the society is able to meet such minimum financial or prudential requirements or such other requirements as may be prescribed, either generally or specifically; or
-
-(f) there are available officers capable of directing and managing the affairs of the society and keeping the records and accounts of the society, having regard to the reputation, character, financial integrity and reliability of the proposed officers.
-
-[23/2008]
+[Act 3 of 2018 wef 10/04/2018]
 
 (1C) The Registrar may —
 
-(a) register any society and its by-laws subject to such terms and conditions of registration as he thinks fit to impose; and
+(a) register any proposed society and its by-laws subject to such terms and conditions of registration as he thinks fit to impose; and
 
-(b) where the society is to provide any financial service, register the society as a credit society to provide the financial service.
+[Act 3 of 2018 wef 10/04/2018]
+
+(b) where the proposed society is to provide any financial service, register the proposed society as a credit society to provide the financial service.
 
 [23/2008]
 
-(2) In every case in which the Registrar refuses to register a society, he shall communicate his decision to the applicants.
+[Act 3 of 2018 wef 10/04/2018]
 
-(3) An appeal against the refusal of the Registrar to register a proposed society shall lie to the Minister within 2 months from the date of the refusal, and the decision of the Minister shall be final.
+(2) Despite anything in this section, the Registrar must not register a proposed society if the Registrar is satisfied that —
+
+(a) the proposed society is likely to be used for an unlawful purpose or for any purpose prejudicial to public peace, welfare or good order in Singapore; or
+
+(b) it would be contrary to the national security or interest for the proposed society to be registered.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(2A) Where the Registrar refuses to register a proposed society, the Registrar must inform the applicants of this fact.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(3) An appeal against the refusal of the Registrar to register a proposed society may be made to the Minister within 2 months after the date of the refusal, and the decision of the Minister shall be final.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Modifying of terms and conditions of registration
+
+9A\.—(1) The Registrar may at any time modify the terms and conditions of registration of a society imposed under section 9(1C).
+
+(2) The Registrar must, before modifying the terms and conditions of registration, give to the society concerned —
+
+(a) notice in writing of the Registrar’s intention to do so; and
+
+(b) an opportunity to make written representations, within the time specified in the notice (being at least 14 days after the date of service of the notice), as to why the terms and conditions should not be modified.
+
+(3) The Registrar must notify the society in writing of the Registrar’s decision whether to modify the terms and conditions of registration.
+
+(4) Where the Registrar decides to modify the terms and conditions of registration, the written notice in subsection (3) must specify a date (at least 14 days after the date of the notice) when the modification of the terms and conditions is to take effect.
+
+(5) A society that is aggrieved by the Registrar’s decision to modify the terms and conditions of registration may, within 14 days after the decision or such longer period as the Minister may allow in any particular case, appeal in writing to the Minister, whose decision is final.
+
+(6) If a society appeals to the Minister under subsection (5), the decision appealed against does not take effect unless the decision is confirmed by the Minister, or the appeal is withdrawn or is for any reason dismissed by the Minister.
+
+(7) In this section, “modify”, in relation to the terms and conditions of registration of a society, includes deleting or varying and substituting such a term or condition, and adding a term or condition of registration.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Evidence of registration
 
 10\.—(1) On the registration of a society, the Registrar shall issue to the society a notice of registration in such form as he thinks fit stating —
 
-(a) that the society is registered on and from the date specified in the notice; and
+(a) that the society is registered starting on the date specified in the notice; and
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (b) where the society is a credit society, that the society is registered as a credit society to provide such financial service as may be specified in the notice.
 
@@ -580,7 +752,13 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 ### Societies to be bodies corporate
 
-11\. A society on registration shall become a body corporate by the name under which it is registered, with perpetual succession and a common seal, and with power to hold movable and immovable property, to enter into contracts, to sue and be sued and to do all things necessary for the purposes of its constitution.
+11\.—(1) A society on registration shall become a body corporate by the name under which it is registered, with perpetual succession, and with power to hold movable and immovable property, to enter into contracts, to sue and be sued and to do all things necessary for the purposes of its constitution.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) A society may, but need not, have a common seal.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Acts of societies not to be invalidated by certain defects
 
@@ -590,15 +768,17 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 13\.—(1) Societies may form secondary societies and an apex organisation.
 
-(2) The apex organisation, when formed and registered, may —
+(2) The functions of an apex organisation are as follows:
 
-(a) give such assistance and advice in the formation, organisation and operation of societies as will enable the societies to comply with the provisions of this Act and the Rules;
+(a) to give such assistance and advice in the formation, organisation and operation of societies as will enable the societies to comply with the provisions of this Act and the Rules;
 
-(b) provide, organise and supervise effective centralised services for co-operative education and training, supplies, marketing, banking, transport, accounting, audit and such other services as may be necessary for its members; and
+(b) to provide, organise and supervise effective centralised services for co‑operative education and training, supplies, marketing, banking, transport, accounting, audit, consultancy and such other services as may be necessary for societies;
 
-(c) carry out such other functions or duties as may be conferred on the apex organisation by this Act or the rules made thereunder.
+(c) to promote good governance standards in societies;
 
-[23/2008]
+(d) to carry out such other functions or duties as may be conferred on the apex organisation by this Act or the Rules.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Power to make by-laws
 
@@ -642,7 +822,9 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 (7) If the Registrar refuses to register a by-law or an amendment to a by-law, he shall record in writing the reasons for his refusal and shall inform the society of his decision.
 
-(8) Where the Registrar refuses to register a by-law or an amendment to a by-law, an appeal shall lie to the Minister within 2 months of the Registrar informing the society under subsection (7) and the decision of the Minister shall be final.
+(8) Where the Registrar refuses to register a by-law or an amendment to a by-law, an appeal may be made to the Minister within 2 months after the Registrar informs the society of the Registrar’s decision under subsection (7) and the decision of the Minister shall be final.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (9) Where the Registrar registers a by-law or an amendment to a by-law, he shall send a copy of the by-law or the amendment thereto with a notice of registration to the society.
 
@@ -650,9 +832,23 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 ### By-laws to bind members
 
-16\.—(1) The by-laws of a society shall, when registered, bind the society and the members thereof to the same extent as if they were signed by each member and contained covenants on the part of each member for himself and his personal representatives to observe all the provisions of the by-laws.
+16\.—(1) Subject to subsection (2), the by‑laws and any amendment to the by‑laws of a society shall, when registered, bind the society and the members thereof to the same extent as if they were signed by each member and contained covenants on the part of each member for himself and his personal representatives to observe all the provisions of the by-laws.
 
-(2) A member of a society shall not, without his consent in writing having been first obtained, be bound by any amendment of the society’s by-laws registered after he became a member, if and so far as that amendment requires him to take or to subscribe for more shares than the number held by him at the date of registration of the amendment, or to pay upon the shares so held any sum exceeding the amount unpaid upon them at that date, or in any other way increases the liability of that member to contribute to the share, subscription or loan capital of the society.
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) An amendment of the by‑laws of a society that has any of the following effects does not bind anyone who becomes a member of the society before the registration of that amendment under section 15, unless that member consents in writing to that amendment binding that member:
+
+(a) that amendment requires that member —
+
+(i) to take or to subscribe for more shares than the number held by that member immediately before the date of registration of that amendment under section 15; or
+
+(ii) to pay upon the shares so held by that member any sum exceeding the amount unpaid upon those shares at that date;
+
+(b) that amendment increases (in any other way) the liability of that member at any time to contribute to the share, subscription or loan capital of the society;
+
+(c) that amendment will cause or require any shares of that member (being an institutional member) to be converted into permanent shares.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Conversion from non-credit society to credit society
 
@@ -730,9 +926,11 @@ the Registrar may, by a written direction, direct the society to change its name
 
 [23/2008]
 
-(3) Any society that is aggrieved by the written direction of the Registrar to change its name under subsection (1) may, within 2 months of the issue of the written direction, appeal to the Minister whose decision shall be final.
+(3) Any society that is aggrieved by the written direction of the Registrar to change its name under subsection (1) may, within 2 months after the issue of the written direction, appeal to the Minister whose decision shall be final.
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (4) A change of name of a society pursuant to this Act shall not affect the identity of the society or any right or obligation of the society or any of its members or past members, and any legal proceedings that might have been continued or commenced by or against it by its former name may be continued or commenced by or against it by its new name.
 
@@ -742,13 +940,25 @@ the Registrar may, by a written direction, direct the society to change its name
 
 17\.—(1) Every society shall have an address registered in accordance with this Act to which all notices and communications shall be sent.
 
-(2) The address declared in the application for registration shall be registered as the registered address until changed.
+(2) The Registrar will register, as the registered address of a society —
 
-(3) Every change of address shall be notified to the Registrar who will register the new address, and to any non-members who may be creditors of the society.
+(a) the address declared in the application for registration of the society to be the address of the society; or
+
+(b) if the society changes its address, the new address of which notice is given to the Registrar under subsection (3).
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(3) A society must give the Registrar, and every creditor of the society who is not a member of the society, notice of any change of the address of the society within 30 days after the date of the change.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Register of members and shares
 
 18\.—(1) Every society shall maintain a register of members, and where a society issues shares to its members, a register of shares held by each member.
+
+(1A) Where a society issues permanent shares to its institutional members, the number of permanent shares held by each institutional member must be recorded in the society’s register of shares.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (2) The register of members and shares shall be prima facie evidence of any of the following particulars entered therein:
 
@@ -758,13 +968,29 @@ the Registrar may, by a written direction, direct the society to change its name
 
 (c) the number of shares held by a member.
 
-### Registration of officers of societies
+### Relevant particulars of officers of society
 
-19\.—(1) The names, occupations and addresses of all officers of every society and any changes thereof shall be notified to the Registrar.
+19\.—(1) The Registrar may issue a written direction requiring a society to provide the relevant particulars of any officer of that society specified in the direction, whether that officer was appointed or elected before, on or after the date of commencement of section 16 of the Co‑operative Societies (Amendment) Act 2018.
 
-[23/2008]
+(2) A society must give the Registrar the relevant particulars of each officer mentioned in the direction under subsection (1) within such period (being not less than 30 days) as that direction may specify.
 
-(2) Notice of any change shall be given in writing within 14 days.
+(3) A society must give the Registrar notice of any change to any of the relevant particulars of an officer given under subsection (2) within 30 days after the date of that change.
+
+(4) In this section, “relevant particulars”, in relation to an officer of a society, means —
+
+(a) the name of the officer;
+
+(b) the occupation of the officer;
+
+(c) a residential or business address in Singapore at which —
+
+(i) the officer can be located; and
+
+(ii) the Registrar may correspond with the officer; and
+
+(d) any other particulars of the officer that the Registrar may, by a written direction, require that society to provide.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Copy of this Act, Rules, by-laws and list of members open to inspection
 
@@ -812,7 +1038,7 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 25\. Subject to section 24, the share or interest of a member in the capital of a society shall not be liable to attachment or sale under any decree or order of a court in respect of a debt or liability incurred by the member, and neither his assignee in insolvency nor a receiver duly appointed shall be entitled to, or have a claim on, that share or interest.
 
-### Transfer of shares or interest on death or permanent insanity of member
+### Transfer of shares or interest where member dies or lacks capacity
 
 26\.—(1) On the death of a member, a society may transfer the share or interest of the deceased member —
 
@@ -824,11 +1050,33 @@ the society shall have a first charge upon those things or, as the case may be, 
 
 (2) A society may pay all other moneys due to the deceased member from the society to such nominee or legal personal representative, as the case may be.
 
-(3) Where a member or person claiming through a member of a society is insane, and no committee of his estate or trustee of his property has been duly appointed, the society may, when it is proved to the satisfaction of the committee of management that it is just and expedient to do so, pay or transfer the share or interest of the member or the value of all other moneys due to the member from the society to a person whom they shall judge proper to receive the same on his behalf.
+(3) Where the committee of management of a society is satisfied that an individual (being a member or a person claiming through a member) lacks capacity to manage the individual’s property and affairs and that it is just and expedient to do so, the society may pay or transfer the individual’s share or interest, or the value of all the moneys due to the individual from the society, to a person whom the committee of management is of the view is the proper party to receive the same on the individual’s behalf.
 
-(4) The value of the share or interest of the deceased member or of the insane member or person claiming through a member shall be represented by the sum actually paid by the member to acquire the share or interest unless the by-laws provide the calculation thereof otherwise.
+[Act 3 of 2018 wef 10/04/2018]
+
+(3A) A payment or transfer cannot be made under subsection (3) where the individual lacks capacity to manage the individual’s property and affairs, and —
+
+(a) there is in force a lasting power of attorney conferring on a donee authority to make decisions about the individual’s property and affairs (either generally or for the purposes of this Act); or
+
+(b) a deputy is or is deemed appointed to make decisions on the individual’s behalf in relation to the individual’s property and affairs (either generally or for the purposes of this Act).
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4) The value of the share or interest of a member mentioned in subsection (1), or of an individual (being a member or a person claiming through a member) mentioned in subsection (3), shall be represented by the sum actually paid by the member to acquire the share or interest unless the by-laws provide the calculation thereof otherwise.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (5) All transfers and payments made by a society in accordance with this section shall be valid and effectual against a demand made upon the society by another person.
+
+(6) In this section —
+
+(a) “deputy”, “donee” and “lasting power of attorney” have the same meanings as in section 2(1) of the Mental Capacity Act (Cap. 177A); and
+
+(b) an individual lacks capacity in relation to a matter if the individual lacks capacity within the meaning of section 4 of the Mental Capacity Act in relation to that matter.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Deposits by or on behalf of minors
 
@@ -856,15 +1104,65 @@ Government assistance
 
 30\. [Repealed by Act 23 of 2008]
 
-### Production of moneys and books of societies
-
-31\. Every officer, agent, employee or member of a society who is required by the Registrar, or by a co-operative officer authorised in writing by the Registrar, to do so, shall, at such place and time as the Registrar or the co-operative officer may direct, produce all moneys, securities, books, accounts and documents belonging to or relating to the affairs of the society which are in the custody of the officer, agent, employee or member or which are under his control, and shall furnish such information relating to the affairs of the society as the Registrar or the person authorised by him may require.
+31\. [Repealed by Act 3 of 2018 wef 10/04/2018]
 
 ### Submission of minutes, returns and statements
 
 32\. Every society shall submit to the Registrar the minutes of meetings and such information, returns and statements as the Registrar may, by written directions, require.
 
 [23/2008]
+
+### Documents, etc., to be in English
+
+32A\.—(1) Every document that a society is required to furnish or submit to, or lodge with, the Registrar must be in the English language or, if the document or any part of it is not in the English language, be accompanied by an accurate translation in the English language of that document or part.
+
+(2) The committee of management of the society must ensure the accuracy of the translation mentioned in subsection (1).
+
+(3) Where any document or part of a document which a society is required to keep under this Act is not in the English language, the committee of management of the society must —
+
+(a) cause an accurate translation in the English language of that document or part (as the case may be) to be made not later than 30 days after the document is made or received by the society; and
+
+(b) cause the translation to be kept with that document for so long as that document is required under this Act to be kept by the society.
+
+(4) In this section, “document” includes an account, a book or a record.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Keeping of records and documents, etc.
+
+32B\.—(1) Every society must keep or cause to be kept every record or document relating to its constitution, general meetings, membership, accounts, financial position or financial affairs, or the meetings of its committee of management, for a period of at least 5 years after the end of the last financial year to which any matter in that record or document relates.
+
+(2) A society may keep any record or document of the society in hard copy form or in electronic form.
+
+(3) A society must ensure that any record or document kept in electronic form is capable of being reproduced in hard copy form.
+
+(4) Where a society keeps any record or document in electronic form, the society must take reasonable precautions —
+
+(a) to ensure the proper maintenance of the record or document;
+
+(b) to prevent any falsification of the record or document; and
+
+(c) to facilitate the discovery of any falsification of a record or document.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Duty to inform Registrar of certain developments, etc.
+
+32C\.—(1) Where a credit society becomes aware of any development or circumstance specified in subsection (2), whether occurring before, on or after the date of commencement of section 19 of the Co‑operative Societies (Amendment) Act 2018, the credit society must immediately inform the Registrar, in the manner specified by the Registrar, of that development or circumstance.
+
+(2) The developments and circumstances mentioned in subsection (1) are as follows:
+
+(a) a development or circumstance which is likely to cause the society to become insolvent, to be unable to meet its obligations, to suspend payments to its members or creditors, or to be wound up under section 83, at any time on or after the date of commencement of section 19 of the Co‑operative Societies (Amendment) Act 2018;
+
+(b) a development or circumstance which adversely affects, or is likely to adversely affect, either or both of the following, at any time on or after the date of commencement of section 19 of the Co‑operative Societies (Amendment) Act 2018:
+
+(i) the interests of all or any of the classes of members of the society;
+
+(ii) the reputation of the society;
+
+(c) the institution or resolution, at any time on or after the date of commencement of section 19 of the Co‑operative Societies (Amendment) Act 2018, of any legal proceedings against the society, or against a member of the society in connection with the member’s conduct in any matter relating to the society or its affairs.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Audit of societies
 
@@ -904,13 +1202,49 @@ Government assistance
 
 [23/2008]
 
+### Special audit of societies
+
+33A\.—(1) The Registrar or an authorised person may at any time conduct a special audit of a society that may cover one or more of the following matters:
+
+(a) the governance of the society;
+
+(b) the operations of the society;
+
+(c) the financial condition of the society;
+
+(d) the affairs of the society.
+
+(2) The Registrar or authorised person may, for the purpose of conducting the special audit, exercise all or any of the powers in section 77.
+
+[Act 3 of 2018 wef 10/04/2018]
+
 ### Annual reports, accounts and financial statements
 
 34\.—(1) A society shall, as soon as practicable but not later than 6 months after the close of each financial year, submit to the Registrar an annual report on its activities during the year together with a copy of the audited financial statements of the society and the audit report for that year.
 
 [23/2008]
 
-(2) The society shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in custody of, the society and over the expenditure incurred by the society.
+(1A) The annual report of a society must be prepared in such form and manner, and contain such information, as the Registrar may require.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) The society shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in custody of, the society and over the expenditure incurred by the society.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(2A) The society must —
+
+(a) keep such accounting and other records of its transactions and affairs as will sufficiently —
+
+(i) explain the transactions and financial position of the society; and
+
+(ii) enable the preparation from time to time of true and fair financial statements and any documents required to be attached to the financial statements;
+
+(b) cause the records to be kept in such manner as to enable them to be conveniently and properly audited; and
+
+(c) ensure that the financial statements give a true and fair view of the financial position and performance of the society.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (3) The society shall, as soon as practicable but not later than 6 months after the close of the financial year, prepare and submit the financial statements in respect of that year to the auditor who shall audit and report on them.
 
@@ -924,23 +1258,29 @@ Government assistance
 
 [23/2008]
 
-(6) The committee of management of a society shall cause to be attached to the audited financial statements of the society a report, which shall be prepared in such form and manner, and contain such information, as may be prescribed in the Rules.
+(6) The committee of management of a society must cause to be attached, to the audited financial statements of the society, such report (if any), in such form and manner and containing such information, as the Registrar may require.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(7) Where the financial statements prepared in accordance with any accounting standard or requirement referred to in subsection (5) would not give a true and fair view of the financial position and performance of the society as at the end of the period to which they relate, the financial statements need not be in compliance with that accounting standard or requirement to the extent that this is necessary for them to give a true and fair view of the financial position and performance of the society.
 
 [23/2008]
 
-(7) Where the financial statements prepared in accordance with any accounting standard or requirement referred to in subsection (5) would not give a true and fair view of the financial transactions and the state of affairs of the society as at the end of the period to which they relate, the financial statements need not be in compliance with that accounting standard or requirement to the extent that this is necessary for them to give a true and fair view of the financial transactions and the state of affairs of the society.
-
-[23/2008]
+[Act 3 of 2018 wef 10/04/2018]
 
 (8) In the event of any non-compliance with any accounting standard or requirement referred to in subsection (5), there shall be included in the financial statements —
 
-(a) a statement by the auditor of the society that he agrees that such non-compliance is necessary for the financial statements to give a true and fair view of the financial transactions and the state of affairs of the society;
+(a) a statement by the auditor of the society that he agrees that such non-compliance is necessary for the financial statements to give a true and fair view of the financial position and performance of the society;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (b) particulars of the departure, the reason therefor and its effect, if any; and
 
-(c) such further information and explanation as will give a true and fair view of the financial transactions and the state of affairs of the society.
+(c) such further information and explanation as will give a true and fair view of the financial position and performance of the society.
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (9) Any society which fails to comply with subsection (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
@@ -952,7 +1292,9 @@ Government assistance
 
 (2) The auditor shall report —
 
-(a) whether the financial statements give a true and fair view of the financial transactions and the state of affairs of the society; and
+(a) whether the financial statements give a true and fair view of the financial position and performance of the society; and
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (b) such other matters arising from the audit as he considers should be reported.
 
@@ -966,7 +1308,9 @@ Government assistance
 
 (4) The auditor may at any other time report to the Registrar and the society upon any matters arising out of the performance of the audit.
 
-(5) The audit of the accounts of a registered society shall include an examination of and report on overdue debts, if any, and an examination of and report on the valuation of the assets and liabilities of the society.
+(5) The audit of the accounts of a society shall include an examination of and report on overdue debts, if any, and an examination of and report on the valuation of the assets and liabilities of the society.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (6) The Registrar may impose additional duties on an auditor, including but not limited to the following:
 
@@ -1010,9 +1354,11 @@ the auditor shall immediately report the matter to the Registrar.
 
 [23/2008]
 
-(3) If a member of an audit committee resigns, dies or for any other reason ceases to be a member with the result that the number of members is reduced below 3, the committee of management of the credit society shall, within 3 months of that event, appoint such number of new members as may be required to make up the minimum number of 3 members.
+(3) If a member of an audit committee resigns, dies or for any other reason ceases to be a member with the result that the number of members is reduced below 3, the committee of management of the credit society shall, within 3 months after that event, appoint such number of new members as may be required to make up the minimum number of 3 members.
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (4) The functions of an audit committee shall be —
 
@@ -1026,7 +1372,9 @@ the auditor shall immediately report the matter to the Registrar.
 
 (iv) the scope and results of the audit procedures; and
 
-(v) the balance-sheet and income and expenditure statement of the credit society and, if the credit society is a parent society, the consolidated balance-sheet and income and expenditure statement, submitted to the audit committee by the credit society or the parent society, and thereafter to submit them to the members of the committee of management of the credit society or the parent society; and
+(v) the financial statements of the credit society and, if the credit society is a parent society, the consolidated financial statements, submitted to the audit committee by the credit society or the parent society, and thereafter to submit them to the members of the committee of management of the credit society or the parent society; and
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (b) to nominate a person or persons as auditor, notwithstanding anything contained in the by-laws or section 33(1),
 
@@ -1062,19 +1410,19 @@ RIGHTS AND LIABILITIES OF MEMBERS
 
 39\.—(1) The qualifications for membership in a primary society shall be —
 
-(a) in the case of an individual person, that he —
+(a) in the case of an individual, that the individual —
 
-(i) shall have attained the age of 16 years and in the case of a school co-operative shall have attained the age of 12 years;
+(i) has attained 16 years of age or, if the society is a school co‑operative, has attained 12 years of age;
 
-(ii) shall be a citizen of Singapore or resident in Singapore; and
+(ii) is a citizen of Singapore or is resident in Singapore; and
 
-(iii) meets such other requirements with regard to residence, employment, profession, etc., as prescribed by the by-laws,
+(iii) meets such other requirements with regard to residence, employment, profession and other matters as are prescribed by the by‑laws of the society; and
 
-except that no person shall be admitted to membership who is legally or mentally disabled or who is a bankrupt or against whom a conviction stands for an offence punishable with imprisonment; and
+[Act 3 of 2018 wef 10/04/2018]
 
-(b) in the case of an institution, that it is registered as a society under this Act or is a trade union.
+(b) in the case of an institution, that it is a society or is a trade union.
 
-[23/2008]
+[Act 3 of 2018 wef 10/04/2018]
 
 (2) Membership in a secondary society shall be restricted to registered co-operative societies and trade unions.
 
@@ -1096,9 +1444,11 @@ except that no person shall be admitted to membership who is legally or mentally
 
 [23/2008]
 
-(3C) Subsection (3A) shall not apply to any person who, immediately before 20th October 2008, is a member of any society which provides any financial service and which continues to provide such financial service from that date as a credit society, whether by virtue of paragraph 1 of the Schedule to the Co-operative Societies (Amendment) Act 2008 (Act 23 of 2008) or otherwise.
+(3C) Subsection (3A) shall not apply to any person who, immediately before 20th October 2008, is a member of any society which provides any financial service and which continues to provide such financial service on or after that date as a credit society, whether by virtue of paragraph 1 of the Schedule to the Co-operative Societies (Amendment) Act 2008 (Act 23 of 2008) or otherwise.
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (4) A member who may at any time be found to be disqualified for any of the reasons mentioned in this section shall cease to be a member of the society.
 
@@ -1118,9 +1468,31 @@ Restriction of membership
 
 (3) In a secondary society or in an apex organisation, each member shall have as many votes as may be provided by the by-laws of the secondary society or the apex organisation.
 
+(4) Despite subsection (1), where a member lacks capacity to manage the member’s property and affairs —
+
+(a) if the member had created a lasting power of attorney conferring on a donee authority to make decisions about the member’s property and affairs (either generally or for the purposes of this Act), that donee may vote on behalf of the member; or
+
+(b) if a deputy has been, or is deemed to have been, appointed to make decisions on the member’s behalf in relation to the member’s property and affairs (either generally or for the purposes of this Act), that deputy may vote on behalf of the member.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(5) In subsection (4) —
+
+(a) “deputy”, “donee” and “lasting power of attorney” have the same meanings as in section 2(1) of the Mental Capacity Act (Cap. 177A); and
+
+(b) a member lacks capacity in relation to a matter if the member lacks capacity within the meaning of section 4 of the Mental Capacity Act in relation to that matter.
+
+[Act 3 of 2018 wef 10/04/2018]
+
 ### Restriction on shareholding
 
-43\. No member, other than a society or trade union, shall hold more than 20% of the share capital of any society.
+43\.—(1) Except as provided in subsection (2), a member cannot hold more than 20% of the share capital of a society.
+
+(2) A member may hold more than 20% of the share capital of a society, if the Registrar grants written approval for that society to issue more than 20% of its share capital to that member.
+
+(3) This section does not apply to a member that is a society or a trade union.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Restriction on transfer of shares or interest
 
@@ -1160,9 +1532,13 @@ Restriction of membership
 
 ### Liability of past member and of estate of deceased member for debts of society
 
-47\.—(1) The liability of a past member for the debts of a society, within the limitations of section 46, as they existed on the date on which he ceased to be a member shall not continue for a period of more than 2 years reckoned from that date.
+47\.—(1) The liability of a past member for the debts of a society, within the limitations of section 46, as they existed on the date on which he ceased to be a member shall not continue for a period of more than 2 years after that date.
 
-(2) The estate of a deceased member, who is not a past member to whom subsection (1) applies, shall not be liable for debts of the society as they existed on the date of his death for a period of more than 2 years reckoned from the date of his death.
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) The estate of a deceased member, who is not a past member to whom subsection (1) applies, shall not be liable for debts of the society as they existed on the date of his death for a period of more than 2 years after the date of his death.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Right of member to withdraw from society
 
@@ -1208,9 +1584,29 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 ### Annual general meeting
 
-53\.—(1) Every society shall provide in its by-laws for an annual general meeting to be convened by the committee of management and to be held as soon as practicable, but not later than 6 months after the end of the financial year, unless the approval of the Registrar has, within that period of 6 months, been obtained to extend that period, and may also provide for other general meetings.
+53\.—(1) Every society must convene an annual general meeting within 6 months after the end of the society’s financial year or such longer period as the Registrar may allow in a particular case.
 
-(2) Unless the by-laws otherwise provide, a notice of every general meeting shall be sent to each member or delegate entitled to attend the meeting at least 15 clear days prior to the date of the meeting. The notice shall state the matters for discussion and the resolutions to be proposed and no other subject shall be discussed without the consent of the majority of the members present and voting at the general meeting.
+[Act 3 of 2018 wef 10/04/2018]
+
+(1A) Every society —
+
+(a) must provide in its by‑laws for an annual general meeting to be convened in accordance with subsection (1) by its committee of management, and to be held as soon as practicable; and
+
+(b) may also provide in its by‑laws for other general meetings.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) Unless the by-laws otherwise provide, a notice of every general meeting shall be sent to each member, and each delegate entitled to attend the general meeting, at least 15 clear days prior to the date of the meeting. The notice shall state the matters for discussion and the resolutions to be proposed and no other subject shall be discussed without the consent of the majority of the members present and voting at the general meeting.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(3) A copy of each of the following documents must be made available to every member, and to every delegate entitled to attend the general meeting, at least 15 clear days, or such longer period as may be provided for in the society’s by‑laws, before the date of the meeting:
+
+(a) the society’s annual report, audited financial statements and audit report mentioned in section 34(1), including every document required under this Act to be attached to those reports and statements;
+
+(b) such other document as the Registrar thinks necessary and directs to be made available.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Functions of annual general meeting
 
@@ -1228,7 +1624,9 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 (f) to elect or remove members of the committee of management;
 
-(g) to appoint, where necessary, the auditors of the society;
+(g) to appoint the auditors of the society;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (h) to consider and determine the maximum amount the society may borrow; and
 
@@ -1244,7 +1642,9 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 [23/2008]
 
-(3) If the committee of management fails to convene a meeting in accordance with subsection (2) within one month of receiving the requisition for the meeting, the members making the requisition shall have power to convene the meeting themselves by notice to all members of the society stating the objects of the meeting and the fact that the committee of management has failed to convene the meeting.
+(3) If the committee of management fails to convene a meeting in accordance with subsection (2) within one month after receiving the requisition for the meeting, the members making the requisition shall have power to convene the meeting themselves by notice to all members of the society stating the objects of the meeting and the fact that the committee of management has failed to convene the meeting.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (4) The Registrar or his representative may at any time convene a special general meeting of a society and may also direct what matters shall be discussed at the meeting.
 
@@ -1276,29 +1676,47 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 ### Minutes of general meeting
 
-58\.—(1) Minutes of the general meeting shall be entered in the minute book and shall contain —
+58\.—(1) The committee of management of a society must —
 
-(a) the number of members or delegates present at the meeting and the name of the chairman who presided;
+(a) endorse the minutes of each general meeting of the society within 60 days after the date on which that general meeting is held; and
 
-(b) the time the meeting commenced and ended; and
+(b) after the minutes of any general meeting of the society have been considered and confirmed at an annual general meeting of the society, cause those minutes to be entered in the minute book within 30 days after the date on which that annual general meeting is held.
 
-(c) all resolutions and decisions made at the meeting.
+[Act 3 of 2018 wef 10/04/2018]
+
+(1A) The minutes of the general meeting must contain —
+
+(a) the number of members and delegates present at the meeting;
+
+(b) the name of the chairman who presided at the meeting;
+
+(c) the time the meeting commenced and ended; and
+
+(d) all resolutions and decisions made at the meeting.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (2) The minutes of each meeting shall be read or shall be taken as read if previously circulated at the next meeting and, if confirmed or after amendment, signed by the chairman of that meeting and the secretary, and when so signed shall be evidence of anything contained therein.
 
 ### Constitution of committee of management of society
 
-59\.—(1) Every society shall have a committee of management consisting of not less than 5 and not more than 30 members, which number shall —
+59\.—(1) Every society shall have a committee of management consisting of not less than 5 and not more than 30 individuals (each of whom need not be a member of the society), and the members of the committee of management shall —
 
 (a) include the chairman, secretary and treasurer, who shall be elected by the members of the committee of management from among themselves or by the members of the society at a general meeting; and
 
-(b) where the society is a credit society, be composed of at least a majority of members who shall be independent of the credit society in the manner prescribed.
+(b) where the society is a credit society, comprise at least a majority of individuals who are independent of the credit society in the manner prescribed.
 
 [23/2008]
 
-(2) A motion for the election of 2 or more persons as members of the committee of management by a single resolution at a general meeting shall not be made unless a resolution that it shall be so made has first been agreed to by the meeting without any vote being given against it.
+[Act 3 of 2018 wef 10/04/2018]
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) A motion for the election of 2 or more individuals as members of the committee of management by a single resolution at a general meeting shall not be made unless a resolution that it shall be so made has first been agreed to by the meeting without any vote being given against it.
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (3) A resolution passed in pursuance of a motion made in contravention of subsection (2) shall be void, whether or not its being so moved was objected to at the time.
 
@@ -1308,25 +1726,29 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 [23/2008]
 
-(5) For the purposes of this section, a motion for approving a person’s election or for nominating a person for election shall be treated as a motion for his election.
+(5) For the purposes of this section, a motion for approving an individual’s election, or for nominating an individual for election, must be treated as a motion for the individual’s election.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(6) Where the committee of management of a society appoints an individual as a full time chief executive officer of the society —
+
+(a) all or any of the duties of the secretary or treasurer, or both, may be delegated to the chief executive officer; and
+
+(b) where all duties of the secretary or treasurer, or both, are so delegated, then despite subsection (1)(a), the society may operate without electing a secretary or a treasurer, or both.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(7) The offices of secretary and treasurer may be held by one and the same individual but not the other offices.
 
 [23/2008]
 
-(6) Where the committee of management of a society appoints a person as a full-time manager —
+[Act 3 of 2018 wef 10/04/2018]
 
-(a) all or any of the duties of the secretary or treasurer, or both, may be delegated to the manager; and
-
-(b) where all duties of the secretary or treasurer, or both, are so delegated, then notwithstanding subsection (1)(a), the society may operate without electing a secretary or a treasurer, or both.
+(8) The duties of the chairman, secretary, treasurer and chief executive officer shall be as provided in this Act, the Rules and the by-laws.
 
 [23/2008]
 
-(7) The offices of secretary and treasurer may be held by one and the same person but not the other offices.
-
-[23/2008]
-
-(8) The duties of the chairman, secretary, treasurer and manager shall be as provided in this Act, the Rules and the by-laws.
-
-[23/2008]
+[Act 3 of 2018 wef 10/04/2018]
 
 (9) Subject to this Act and the Rules —
 
@@ -1338,51 +1760,87 @@ shall be as provided in the by-laws of the society.
 
 [23/2008]
 
-(10) If, during the term of office of the committee of management of a society, a vacancy occurs in the committee of management, the committee of management may, and if the number of members falls below 5, shall, co-opt a member of the society to serve on the committee of management until the next general meeting of the society.
+(10) If, during the term of office of the committee of management of a society, a vacancy occurs in the committee of management, the committee of management may, and if the number of members falls below 5, shall, co-opt an individual (who need not be a member of the society) to serve on the committee of management until the next general meeting of the society.
 
 [23/2008]
 
-### Eligibility for membership of committee of management, or to be key employee of credit society
+[Act 3 of 2018 wef 10/04/2018]
 
-60\.—(1) No person shall be eligible for membership of the committee of management of a society, to be a key employee of a credit society, or to remain a member of the committee of management of a society or a key employee of a credit society, if —
+(11) Subject to subsection (1), the by‑laws of a society may provide for the committee of management of the society to appoint, at any time and whether or not there is any vacancy in the committee, up to 2 individuals (each of whom need not be a member of the society) to serve in the committee until the next general meeting of the society.
 
-(a) he is below 21 years of age, except in the case of a school co-operative society;
+[Act 3 of 2018 wef 10/04/2018]
 
-(b) he is not —
+(12) Where an individual’s appointment to the committee of management of a society is made under any by‑laws mentioned in subsection (11), the appointment must be approved by a majority of all of the existing members of the committee.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Eligibility for membership of committee of management, or to be key employee
+
+60\.—(1) An individual is not eligible for membership of the committee of management of a society, to be a key employee of a credit society, or to remain a member of the committee of management of a society or a key employee of a credit society —
+
+(a) if he is below —
+
+(i) 12 years of age, in the case of a school co‑operative society; or
+
+(ii) 18 years of age, in any other case;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(b) except with the Registrar’s written approval, if he is not —
 
 (i) a citizen of Singapore; or
 
-(ii) subject to subsection (2), resident in Singapore,
+(ii) subject to subsection (2), resident in Singapore;
 
-except with the approval of the Registrar;
+[Act 3 of 2018 wef 10/04/2018]
 
-(c) he is an undischarged bankrupt;
+(c) if he is an undischarged bankrupt (whether he was adjudicated bankrupt by a Singapore court or a foreign court having jurisdiction in bankruptcy);
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (d) [Deleted by Act 23 of 2008]
 
-(e) he has been convicted of an offence under this Act;
+(e) if he has been convicted of an offence under this Act;
 
-(f) he has been dismissed as an employee of a society; or
+[Act 3 of 2018 wef 10/04/2018]
 
-(g) he has been found to have previously misused or mismanaged the funds of a society.
+(f) if he has been dismissed as an employee of a society; or
 
-[23/2008]
+[Act 3 of 2018 wef 10/04/2018]
 
-(2) For the purposes of subsection (1)(b)(ii), the Registrar may, by written directions, stipulate the number or proportion of persons resident in Singapore who shall be eligible for membership of the committee of management of any society or class of societies, as the case may be.
+(g) except with the Registrar’s written approval, if he has previously been removed by the Registrar from the committee of management of any society, or suspended by the Registrar, under section 94(1) or 94A(1).
 
-[23/2008]
+[Act 3 of 2018 wef 10/04/2018]
 
-(3) Where a person has been convicted, whether in Singapore or elsewhere, of any offence (not being an offence under this Act) involving fraud or dishonesty, he shall not be eligible to be, or remain, a member of the committee of management of a non-credit society for the following periods except with the written approval of the Registrar:
+[Act 3 of 2018 wef 10/04/2018]
 
-(a) where he has been sentenced to imprisonment in respect of the offence, for a period commencing from the date of his conviction until 5 years after his release from prison; or
-
-(b) where he has not been sentenced to imprisonment in respect of the offence, for a period of 5 years commencing from the date of his conviction or such shorter period with the leave of the High Court.
+(2) For the purposes of subsection (1)(b)(ii), the Registrar may, by written directions, stipulate the number or proportion of individuals resident in Singapore who shall be eligible for membership of the committee of management of any society or class of societies, as the case may be.
 
 [23/2008]
 
-(4) No person shall be eligible to be, or remain, a key employee of a credit society or a member of the committee of management of a credit society, except with the written approval of the Registrar, where he has been convicted, whether in Singapore or elsewhere, of any offence (not being an offence under this Act) involving fraud or dishonesty.
+[Act 3 of 2018 wef 10/04/2018]
+
+(3) Where an individual has been convicted, whether in Singapore or elsewhere, of any offence (not being an offence under this Act) involving fraud or dishonesty, he shall not be eligible to be, or remain, a member of the committee of management of a non-credit society for the following periods except with the written approval of the Registrar:
+
+(a) where he has been sentenced to imprisonment in respect of the offence, for a period starting on the date of his conviction until 5 years after his release from prison; or
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(b) where he has not been sentenced to imprisonment in respect of the offence, for a period of 5 years starting on the date of his conviction or such shorter period with the leave of the High Court.
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4) An individual is not eligible to be, or remain, a key employee of a credit society or a member of the committee of management of a credit society, except with the written approval of the Registrar, where he has been convicted, whether in Singapore or elsewhere, of any offence (not being an offence under this Act) involving fraud or dishonesty.
+
+[23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Functions of committee of management
 
@@ -1398,7 +1856,9 @@ except with the approval of the Registrar;
 
 (d) to keep members informed of the progress of the society and encourage interest and a sense of ownership on the part of the members;
 
-(e) to present to the annual general meeting of the society an annual report on the activities of the society during the preceding financial year, together with the audited financial statements of the society and the auditor’s report for that year;
+(e) to present to the annual general meeting of the society an annual report on the activities of the society during the preceding financial year, together with the audited financial statements of the society and the auditor’s report for that year, and such other documents as the Registrar may direct;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (f) to prepare and present to the annual general meeting of the society a proposal for the distribution of any net surplus accrued during the preceding financial year, in accordance with this Act and the by-laws;
 
@@ -1410,7 +1870,9 @@ except with the approval of the Registrar;
 
 (3) A full and correct record shall be kept of all proceedings of the committee of management in carrying out its duties, and the records shall be available for inspection by the Registrar and by the auditor.
 
-(4) The committee of management may appoint, on such terms and conditions as it thinks fit, a manager to administer and manage the affairs of the society and may employ such other persons as the committee considers necessary to assist the manager in the discharge of his duties.
+(4) The committee of management may appoint, on such terms and conditions as it thinks fit, a chief executive officer to administer and manage the affairs of the society and may employ such other persons as the committee considers necessary to assist the chief executive officer in the discharge of his duties.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Meetings of committee of management
 
@@ -1420,13 +1882,15 @@ except with the approval of the Registrar;
 
 (3) Decisions shall be taken on a simple majority of votes and the chairman shall have no casting vote.
 
-(4) Minutes of committee meetings shall be recorded by the secretary in the minute book and shall include —
+(4) Minutes of every meeting of the committee of management must be recorded by the secretary in the minute book within 60 days after the date on which the meeting is held, and shall include —
 
 (a) the number and names of those present;
 
 (b) the name of the chairman of the meeting; and
 
 (c) a brief record of business done and decisions taken including whether each decision was taken unanimously or by a majority.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Liability of members of committee of management of society
 
@@ -1454,9 +1918,13 @@ except with the approval of the Registrar;
 
 [23/2008]
 
-(4) An officer or agent of a society shall not make improper use of any information acquired by virtue of his position as an officer or agent of the society to gain, directly or indirectly, an advantage for himself or for any other person or to cause detriment to the society.
+(4) An officer or agent of a society must not make improper use of either of the following to gain, directly or indirectly, an advantage for himself or for any other person, or to cause detriment to the society:
 
-[23/2008]
+(a) his position as an officer or agent of the society;
+
+(b) any information acquired by virtue of that position.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (5) Any member of the committee of management of a society who contravenes subsection (1), or any officer or agent of a society who contravenes subsection (4) —
 
@@ -1466,9 +1934,11 @@ except with the approval of the Registrar;
 
 [23/2008]
 
-(6) Where the committee of management of a society has appointed a person as a manager to administer and manage the affairs of the society, the appointment shall not absolve the committee of management from its responsibility for the proper direction of the affairs of the society.
+(6) Where the committee of management of a society has appointed a person as a chief executive officer to administer and manage the affairs of the society, the appointment shall not absolve the committee of management from its responsibility for the proper direction of the affairs of the society.
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (7) In this section, unless the context otherwise requires —
 
@@ -1568,9 +2038,11 @@ as the case requires.
 
 [23/2008]
 
-(3) A non-credit society that is, or a member of the committee of management of a non-credit society who is, aggrieved by the written direction issued by the Registrar under subsection (2) requiring the non-credit society to suspend the member may, within 30 days of the issue of the written direction, appeal to the Minister whose decision shall be final.
+(3) A non-credit society that is, or a member of the committee of management of a non-credit society who is, aggrieved by the written direction issued by the Registrar under subsection (2) requiring the non-credit society to suspend the member may, within 30 days after the issue of the written direction, appeal to the Minister whose decision shall be final.
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (4) Every member of the committee of management of a credit society which has contravened subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
 
@@ -1590,7 +2062,13 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 (a) entrance fees which shall not be refundable except in cases where an application for membership has been rejected;
 
-(b) shares subscribed and paid up by members, of which a minimum number prescribed in the by-laws shall only be withdrawable after termination of membership, while shares subscribed in excess of this minimum contribution may be withdrawable and transferable, or either withdrawable or transferable, subject to the provisions of this Act and to any limitation laid down in the by-laws;
+(b) ordinary shares subscribed and paid up by members;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(ba) permanent shares subscribed and paid up by institutional members;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (c) in the case of credit societies —
 
@@ -1609,6 +2087,46 @@ PROPERTY AND FUNDS OF SOCIETIES
 [23/2008]
 
 (2) The issue of bonds or debentures by a society shall be subject to the approval of the Registrar.
+
+### Ordinary shares
+
+66A\.—(1) A society may issue ordinary shares.
+
+(2) A member of a society must hold the minimum number of ordinary shares of the society specified in the by‑laws of the society.
+
+(3) The member may withdraw or transfer the ordinary shares which the member is required to hold under subsection (2) only when the member ceases to be a member of the society.
+
+(4) Where a member of a society holds ordinary shares of the society in excess of the minimum number the member is required to hold under subsection (2), the member may withdraw or transfer the excess shares in accordance with this Act and the by‑laws of the society.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Permanent shares
+
+66B\.—(1) A society may issue permanent shares only to an institutional member.
+
+(2) An institutional member of a society must obtain the written approval of the Registrar to be entitled to subscribe, in accordance with the by‑laws of the society, for permanent shares issued by the society, if the institutional member is a credit society.
+
+(3) A permanent share issued by a society to an institutional member of the society —
+
+(a) cannot be withdrawn by that institutional member, and cannot be converted to an ordinary share; but
+
+(b) may, with the approval of the committee of management of the society and in accordance with this Act and the by‑laws of the society, be transferred by that institutional member to another institutional member of the society.
+
+(4) A society —
+
+(a) may, with the written approval of the Registrar, buy back a permanent share issued by the society under this section; but
+
+(b) cannot be required to buy back that share.
+
+(5) A society that buys back a permanent share issued by the society under this section may —
+
+(a) hold that share;
+
+(b) with the approval of the committee of management of the society and in accordance with this Act and the by‑laws of the society, transfer that share to an institutional member of the society; or
+
+(c) cancel that share.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Restrictions on loans
 
@@ -1648,9 +2166,37 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 [23/2008]
 
-(4) The maximum liabilities determined under subsection (3)(a) and (b) shall be subject to the approval of the Registrar who may, at any time, reduce one or both of the maximum liabilities or impose such conditions as he thinks necessary.
+(4) Where the society is a credit society —
 
-[23/2008]
+(a) the maximum liability determined under subsection (3)(a) is subject to the Registrar’s approval; and
+
+(b) the Registrar may, at any time, reduce either or both of the maximum liabilities determined under subsection (3)(a) and (b) or impose such conditions (for either or both of those maximum liabilities) as the Registrar thinks necessary.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4A) The Registrar must, before reducing either or both of the maximum liabilities determined under subsection (3)(a) and (b) or imposing any condition, give the credit society concerned —
+
+(a) notice in writing of the Registrar’s intention to do so; and
+
+(b) an opportunity to make written representations, within the time specified in the notice (being at least 14 days after the date of service of the notice), as to why the Registrar should not reduce the maximum liabilities or impose the condition (as the case may be).
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4B) The Registrar must issue the credit society a written notice of the Registrar’s decision whether to reduce either or both of the maximum liabilities determined under subsection (3)(a) and (b) or to impose any condition.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4C) Where the Registrar decides to reduce either or both of the maximum liabilities determined under subsection (3)(a) and (b) or to impose any condition, the written notice in subsection (4B) must specify a date at least 14 days after the date of the notice upon which the Registrar’s decision or condition is to take effect.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4D) A credit society which is aggrieved by the Registrar’s decision under subsection (4B) may, within 14 days after the date of the decision or such longer period as the Minister may allow in any particular case, appeal in writing to the Minister, whose decision is final.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4E) If the credit society appeals to the Minister under subsection (4D), the decision appealed against does not take effect unless the decision is confirmed by the Minister, or the appeal is withdrawn or is for any reason dismissed by the Minister.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (5) In this section, unless the context otherwise requires —
 
@@ -1670,9 +2216,15 @@ PROPERTY AND FUNDS OF SOCIETIES
 
 [23/2008]
 
-(2) Notwithstanding section 63, any person who exercises any power of investment in relation to the funds of a society pursuant to subsection (1) shall, when exercising such power of investment, be subject to the same duty of care imposed on a trustee under section 3A of the Trustees Act (Cap. 337).
+(1A) Despite subsection (1), a credit society must invest or deposit its funds in accordance with any restrictions on investment contained in written directions issued by the Registrar.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) Notwithstanding section 63, any person who exercises any power of investment in relation to the funds of a society pursuant to subsection (1) or (1A) shall, when exercising such power of investment, be subject to the same duty of care imposed on a trustee under section 3A of the Trustees Act (Cap. 337).
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 Reserve Fund
 
@@ -1686,11 +2238,15 @@ Reserve Fund
 
 (2) Every society shall contribute —
 
-(a) 5% of the first $500,000 of the surplus resulting from the operations of the society during the preceding financial year to the Central Co-operative Fund; and
+(a) 5% (or such other rate as may be prescribed in substitution) of the first $500,000 of the surplus resulting from the operations of the society during the preceding financial year to the Central Co-operative Fund; and
 
-(b) 20% of any surplus in excess of $500,000 from the operations of the society during the preceding financial year either to the Central Co-operative Fund or to the Singapore Labour Foundation as the society may opt.
+[Act 3 of 2018 wef 10/04/2018]
+
+(b) 20% (or such other rate as may be prescribed in substitution) of any surplus in excess of $500,000 from the operations of the society during the preceding financial year either to the Central Co-operative Fund or to the Singapore Labour Foundation as the society may opt.
 
 [13/90; 23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (3) [Deleted by Act 23 of 2008]
 
@@ -1708,6 +2264,10 @@ Reserve Fund
 
 [13/90]
 
+(8) The Minister may, by order in theGazetteand subject to such conditions as the Minister may specify in the order, remit or refund, wholly or in part, any contribution mentioned in subsection (2)(a) or (b) paid or payable by a particular society or a particular class of societies.
+
+[Act 3 of 2018 wef 10/04/2018]
+
 ### Distribution of net surplus
 
 72\.—(1) The net surplus may be divided among the members by way of dividend or patronage refund or by way of honoraria to officers of the society, or allocated to any other funds constituted by the society to such extent and under such conditions as may be prescribed under this Act or in the by-laws.
@@ -1720,11 +2280,53 @@ Reserve Fund
 
 73\.—(1) A society may distribute a part of its net surplus among its members in the form of bonus certificates or bonus shares.
 
-(2) In the case of bonus certificates, the members holding the certificates shall only be entitled to claim payment out of the society’s funds after 5 years from the date when the bonus certificates were issued. No interest or dividend shall be paid on the bonus certificates.
+(1A) A society may distribute in the form of a bonus certificate only a part of its net surplus payable under ordinary shares.
 
-(3) In the case of bonus shares, shares shall be issued to members who shall be entitled to withdraw or transfer the shares only after 10 years from the date when the bonus shares were issued.
+[Act 3 of 2018 wef 10/04/2018]
 
-(4) The reference to a “member” in subsections (2) and (3) shall include a person who has resigned as a member.
+(2) In the case of bonus certificates, the members holding the certificates shall only be entitled to claim payment out of the society’s funds 5 years after the date when the bonus certificates were issued. No interest or dividend shall be paid on the bonus certificates.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(3) Where a society distributes a part of its net surplus payable under ordinary shares in the form of a bonus share —
+
+(a) the bonus share is to take the form of an ordinary share; but
+
+(b) a member is entitled to withdraw or transfer a bonus share only 10 years after the date when the bonus share was issued.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4) Where a society distributes a part of its net surplus payable under permanent shares in the form of a bonus share issued to an institutional member —
+
+(a) the bonus share is to take the form of a permanent share; and
+
+(b) the bonus share —
+
+(i) cannot be withdrawn by that institutional member, and cannot be converted to an ordinary share; but
+
+(ii) may, with the approval of the committee of management of the society and in accordance with this Act and the by‑laws of the society, be transferred by that institutional member to another institutional member of the society.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(5) Despite subsections (2) and (3), a member of a society who is a foreign worker is eligible to receive from the society the value stated on the member’s bonus certificate or bonus share if —
+
+(a) the member ceases employment in Singapore for any reason, including the completion of the member’s contract of service; and
+
+(b) the committee of management of the society is satisfied that the member —
+
+(i) has left or will soon leave Singapore permanently; and
+
+(ii) has no intention to resume employment in Singapore.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(6) In this section —
+
+“foreign worker” means an individual who is employed in Singapore but is neither a citizen nor a permanent resident of Singapore;
+
+“member” includes a person who has resigned as a member.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ## PART VII
 
@@ -1798,9 +2400,65 @@ Assistance in organisation of co-operatives and technical advice
 
 76\. [Repealed by Act 23 of 2008]
 
-### Power of Registrar to inspect books of societies
+### Power to inspect materials, etc.
 
-77\. The Registrar, or any person authorised by him in writing on his behalf, shall at all reasonable times have access to all books, accounts, papers and securities of a society and every officer, agent, employee or member of the society shall furnish such information in regard to the transactions and working of the society as the person making the inspection may require.
+77\.—(1) The Registrar or an authorised person may, for any of the purposes of this Act or in discharging the Registrar’s functions or duties under this Act, exercise all or any of the following powers in relation to a society:
+
+(a) at all reasonable times have full and free access to all materials and information belonging or relating to the society;
+
+(b) require the following persons to produce or furnish any relevant thing, in relation to the society, within such time and in such manner as the Registrar or authorised person may specify:
+
+(i) any officer, agent, employee or member of the society;
+
+(ii) any other person whom the Registrar or authorised person reasonably believes has possession or custody of the relevant thing.
+
+(2) The Registrar or an authorised person may, for an enforcement purpose, at all reasonable times and without warrant —
+
+(a) enter and search any of the following premises, if the Registrar reasonably believes that evidence of the commission of an offence under this Act can be found at those premises:
+
+(i) any premises of a society;
+
+(ii) any other premises at which the Registrar reasonably believes that any relevant thing, in relation to the society, is kept or stored; and
+
+(b) take any relevant thing, in relation to the society, from those premises, if the Registrar considers it necessary to do so for the purpose of obtaining evidence of an offence under this Act.
+
+(3) For the purposes of subsection (2), an authorised person must act under the supervision of the Registrar, unless the authorised person is a public officer.
+
+(4) The Registrar or authorised person may, without payment —
+
+(a) inspect, copy or make extracts from any material or information produced or furnished pursuant to a requirement under subsection (1)(b); and
+
+(b) retain the material or information for such period as the Registrar or authorised person determines to be necessary.
+
+(5) Where any material or information produced or furnished pursuant to a requirement under subsection (1)(b) is kept in electronic form —
+
+(a) the power of the Registrar or authorised person under subsection (1)(b) includes the power to require a copy of the material or information to be produced or furnished in legible form; and
+
+(b) subsection (4) applies to any copy of the material or information produced or furnished in legible form.
+
+(6) In this section and sections 79, 80 and 81 —
+
+“computer” has the same meaning as in section 2(1) of the Computer Misuse and Cybersecurity Act (Cap. 50A);
+
+“enforcement purpose” means —
+
+(a) ensuring that this Act, and the terms and conditions imposed or specified by the Registrar under this Act, are being complied with; or
+
+(b) investigating an offence under this Act, or a contravention of this Act;
+
+“material” means any document or record, whether kept in hard copy form or in electronic form, or any computer or other device;
+
+“relevant thing”, in relation to a society, means —
+
+(a) any moneys, securities or other assets belonging or relating to the society; or
+
+(b) any material or information —
+
+(i) belonging or relating to the society; or
+
+(ii) relating to any transaction of the society, or the management of the affairs of the society.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 Power of Registrar to audit accounts of societies
 
@@ -1824,23 +2482,37 @@ Power of Registrar to audit accounts of societies
 
 (a) conduct an inquiry under subsection (1) or (2) himself;
 
-(b) direct any person authorised by him in writing on his behalf to conduct the inquiry; or
+(b) direct an authorised person to conduct the inquiry; or
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (c) delegate the exercise of his power to hold an inquiry under this section, partly or totally, to an apex organisation.
 
 [23/2008]
 
-(4) For the purposes of an inquiry under subsection (1) or (2), the Registrar or any person authorised by him shall have power —
+(4) For the purposes of an inquiry under subsection (1) or (2), the Registrar or authorised person may by notice in writing require any person, whom the Registrar or authorised person reasonably believes is acquainted with any facts or circumstances concerning any matter in the inquiry, to attend at such place and at such reasonable time as the Registrar or authorised person may specify —
 
-(a) to have at all reasonable times free access to all books, accounts and other records relating directly or indirectly to the society;
+(a) to be examined, to answer any question to the best of the person’s knowledge, information and belief, and to provide a signed statement of the matters on which the person is examined containing a declaration by the person of the truth of the statement; and
 
-(b) to require the production of any book or document relating to the affairs of, or any property belonging to, the society by its officer, agent, employee or member in possession of the book, document or property;
+(b) to produce or furnish any material or information in the person’s possession or custody.
 
-(c) to require any officer, agent, employee or member of the society to furnish any information in regard to any transaction of the society or the management of its affairs; and
+[Act 3 of 2018 wef 10/04/2018]
 
-(d) to make copies of or extracts from accounting and other records, or retain possession of such records for such period as may be necessary to enable them to be inspected.
+(4A) The Registrar or authorised person may, without payment —
 
-[23/2008]
+(a) inspect, copy or make extracts from any material or information produced or furnished pursuant to a requirement under subsection (4); and
+
+(b) retain the material or information for such period as the Registrar or authorised person determines to be necessary.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4B) Where any material or information is kept in electronic form —
+
+(a) the power of the Registrar or authorised person under subsection (4)(b) includes the power to require a copy of the material or information to be produced or furnished in legible form; and
+
+(b) subsection (4A) applies to any copy of the material or information produced or furnished in legible form.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (5) Where the exercise of any inquiry power has been delegated to an apex organisation under subsection (3)(c), the Registrar shall have power to do all things necessary to ensure that the inquiry is effectively held and in accordance with the provisions of this Act.
 
@@ -1850,51 +2522,129 @@ Power of Registrar to audit accounts of societies
 
 [23/2008]
 
-### Examination of books of indebted society
+### Examination of materials of indebted society on creditor’s application
 
-80\.—(1) The Registrar shall, on the application of a creditor of the society, examine or direct any person authorised by him by order in writing on his behalf to examine the books of the society, if the applicant —
+80\.—(1) The Registrar shall, on the application of a creditor of the society, examine or direct an authorised person to examine the materials of the society, if the applicant —
 
-(a) proves to his satisfaction that an ascertained sum of money is then due to him and that he has demanded payment thereof and has not received satisfaction within a reasonable time; and
+(a) proves to the Registrar’s satisfaction that an ascertained sum of money is due to the applicant, and that the applicant has demanded payment of that sum and has not received satisfaction within a reasonable time;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (b) deposits with the Registrar, if this is considered necessary, such sum as security for the costs of the proposed examination as the Registrar may require.
 
-(2) The Registrar shall communicate the results of the examination to the creditor and to the society the books of which were examined.
+[Act 3 of 2018 wef 10/04/2018]
 
-### Communication of defects in working of societies
+(2) The Registrar shall communicate the results of the examination to the creditor and to the society the materials of which were examined.
 
-81\.—(1) If an audit, inquiry or examination of books made under this Act discloses any defects in the working of a society, the Registrar may bring the defects to the notice of the society and if the society is affiliated to a secondary society or an apex organisation, also to the notice of that other society.
+[Act 3 of 2018 wef 10/04/2018]
 
-(2) The Registrar may make an order directing the society or its officer to take such action as may be specified in the order within the time mentioned therein to remedy the defects disclosed in the audit, inquiry or examination of books.
+(3) For the purposes of an examination under this section, the Registrar or authorised person may by notice in writing require any person, whom the Registrar or authorised person reasonably believes is acquainted with any facts or circumstances concerning any matter in the examination, to attend at such place and at such reasonable time as the Registrar or authorised person may specify —
 
-### Costs of inquiry and examination
+(a) to be examined, to answer any question to the best of the person’s knowledge, information and belief, and to provide a signed statement of the matters on which the person is examined containing a declaration by the person of the truth of the statement; and
 
-82\.—(1) Where an inquiry is held under section 79 or an examination is made under section 80, the Registrar may, by certificate under his hand, make an award apportioning the costs, or such part of the costs, as he may think right, between the society, the members or creditor demanding the inquiry or examination and the officers or past officers of the society; and the decision of the Registrar shall be final.
+(b) to produce or furnish any material or information in the person’s possession or custody.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4) The Registrar or authorised person may, without payment —
+
+(a) inspect, copy or make extracts from any material or information produced or furnished pursuant to a requirement under subsection (3); and
+
+(b) retain the material or information for such period as the Registrar or authorised person determines to be necessary.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(5) Where any material or information is kept in electronic form —
+
+(a) the power of the Registrar or authorised person under subsection (3)(b) includes the power to require a copy of the material or information to be produced or furnished in legible form; and
+
+(b) subsection (4) applies to any copy of the material or information produced or furnished in legible form.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Communication of findings on working of societies
+
+81\.—(1) Where any findings on the working of a society are made in any audit, special audit or inquiry under this Act, or any inspection or examination under this Act of any material, the Registrar may bring those findings to the notice of —
+
+(a) the society; and
+
+(b) if the society is affiliated to a secondary society or an apex organisation, that secondary society or apex organisation.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) The Registrar may make an order directing the society or its officer to take such action as may be specified in the order within the time mentioned therein to address the findings made in the audit, special audit, inquiry, inspection or examination.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Costs of special audit, inquiry and examination
+
+82\.—(1) Where a special audit is conducted under section 33A, an inquiry is held under section 79 or an examination is made under section 80, the Registrar may, by certificate under his hand, make an award apportioning the costs, or such part of the costs, as he may think right, between the society, any applicant for the inquiry or examination and the officers or past officers of the society; and the decision of the Registrar shall be final.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (2) A sum awarded by way of costs under subsection (1) shall be a civil debt recoverable summarily on production of the certificate referred to in that subsection.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Dissolution of societies
 
 83\.—(1) If the Registrar, after holding an inquiry under section 79 or after making an examination under section 80 or on receipt of an application made by 75% of the members of a society present and voting at an extraordinary general meeting convened for the purpose, is of the opinion that the society ought to be wound up, he may issue an order directing it to be wound up.
 
-(2) The Registrar may, of his own motion, make a winding-up order in respect of a society —
+(2) The Registrar may, on the Registrar’s own initiative, issue an order directing a society to be wound up, if the Registrar is satisfied that —
 
-(a) which has ceased working;
+(a) the society has ceased working;
 
-(b) the membership of which is reduced to less than the minimum membership prescribed in section 5;
+(b) the membership of the society is reduced —
 
-(c) which has failed, for 2 or more consecutive years, to comply with the requirements of this Act with respect to the holding of annual general meetings or the submission of audited financial statements of the society; or
+(i) in the case of a primary society, to less than 5 persons (each of whom qualifies for membership under section 39); or
 
-(d) which provides any financial service in contravention of section 16A(1) or 16B(1).
+(ii) in the case of a secondary society, to less than 2 persons, each being a society or a trade union;
 
-[23/2008]
+(c) the society has breached any of its terms and conditions of registration mentioned in section 9(1C)(a) or varied or added under section 9A;
+
+(d) the society has contravened section 16A(1) or 16B(1);
+
+(e) the society has (whether before, on or after the date of commencement of section 49(a) of the Co‑operative Societies (Amendment) Act 2018) failed, for 2 or more consecutive years, to comply with section 34(1);
+
+(f) the society has failed, for 2 or more consecutive years, to comply with section 53(1);
+
+(g) the by‑laws of the society are insufficient, or are no longer sufficient, to provide for the proper administration and management of the society;
+
+(h) the society is or has been used for an unlawful purpose or for purposes prejudicial to public peace, welfare or good order in Singapore;
+
+(i) it would be contrary to the national security or interest for the society to continue to be registered;
+
+(j) the society —
+
+(i) is unable to meet its obligations, is insolvent, or suspends payments to its members or creditors; or
+
+(ii) informs the Registrar that it is or is likely to become insolvent, or to be unable to meet its obligations, or that it has suspended or is about to suspend payments to its members or creditors;
+
+(k) the society does not have any officer who is capable of doing both of the following:
+
+(i) directing and managing the affairs of the society;
+
+(ii) keeping the records and accounts of the society; or
+
+(l) it is not in the interests of the members of the society for the society to continue its operations.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (3) No society shall be wound up except by an order of the Registrar.
 
-(4) A member of a society may, within 2 months from the date of a winding-up order under subsection (1) or (2), appeal in writing against the order to the Minister and the decision of the Minister shall be final.
+(4) A member of a society may, within 2 months after the date of a winding-up order under subsection (1) or (2), appeal in writing against the order to the Minister and the decision of the Minister shall be final.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (5) When making a winding-up order under subsection (1) or (2), the Registrar may appoint a liquidator for this purpose and fix his remuneration.
 
-(6) A liquidator shall not wind up a society until any appeal instituted under subsection (4) has been determined or until 2 months have elapsed from the date of the winding-up order, as the case may be.
+(6) A liquidator shall not wind up a society until any appeal instituted under subsection (4) has been determined or until 2 months after the date of the winding-up order, as the case may be.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Powers of liquidator
 
@@ -1924,9 +2674,13 @@ Power of Registrar to audit accounts of societies
 
 (l) order by what persons and in what proportions the costs of the liquidation are to be borne.
 
-(2) Any person aggrieved by any order of the liquidator made under subsection (1)(f), (j) or (l) may appeal in writing to the Registrar within 30 days of the date of the order.
+(2) Any person aggrieved by any order of the liquidator made under subsection (1)(f), (j) or (l) may appeal in writing to the Registrar within 30 days after the date of the order.
 
-(3) A person aggrieved by a decision of the Registrar under subsection (2) may appeal in writing to the Minister within 30 days of the decision and the decision of the Minister shall be final and conclusive.
+[Act 3 of 2018 wef 10/04/2018]
+
+(3) A person aggrieved by a decision of the Registrar under subsection (2) may appeal in writing to the Minister within 30 days after the decision and the decision of the Minister shall be final and conclusive.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (4) A liquidator shall deposit the funds and other assets of a dissolved society which are collected by him or which come into his possession as liquidator in such manner and in such place as may from time to time be determined by the Registrar.
 
@@ -1964,7 +2718,9 @@ Power of Registrar to audit accounts of societies
 
 ### Limitation of jurisdiction of civil court
 
-87\. Subject to this Act, no civil court shall have any jurisdiction in respect of a matter concerned with the dissolution of a society under this Act, and no appeal shall lie to a civil court from an order of the liquidator.
+87\. Subject to this Act, no civil court shall have any jurisdiction in respect of a matter concerned with the dissolution of a society under this Act, and an appeal cannot be made to a civil court against an order of the liquidator.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Disposal of assets on liquidation
 
@@ -1974,21 +2730,75 @@ Power of Registrar to audit accounts of societies
 
 ### Cancellation of registration
 
-89\.—(1) When the affairs of a society, in respect of which a liquidator has been appointed, have been wound up or, where no liquidator has been appointed, after 2 months from the making of a winding-up order under section 83 by the Registrar or after confirmation of the order on appeal, the Registrar shall make an order cancelling the registration of the society and the society shall be dissolved and shall cease to exist as a body corporate from the date of the order.
+89\.—(1) When the affairs of a society, in respect of which a liquidator has been appointed, have been wound up or, where no liquidator has been appointed, either 2 months after the making of a winding-up order under section 83 by the Registrar or after confirmation of the order on appeal, the Registrar shall make an order cancelling the registration of the society and the society shall be dissolved and shall cease to exist as a body corporate starting on the date of the order.
 
-(2) The claim of a creditor or a member of the society who has not received what is due to him under the approved scheme of distribution shall be proscribed when 2 years have elapsed from the date of cancellation of registration, and a notice of closure of liquidation and cancellation of registration shall be published in theGazette.
+[Act 3 of 2018 wef 10/04/2018]
+
+(2) The claim of a creditor or a member of the society who has not received what is due to him under the approved scheme of distribution shall be proscribed 2 years after the date of cancellation of registration, and a notice of closure of liquidation and cancellation of registration shall be published in theGazette.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (3) Any moneys remaining after the application of the funds to the purposes specified in section 88 and any sums unclaimed after 2 years under subsection (2) shall not be divided among the members, except in the case of the liquidation of a secondary society or a co-operative apex organisation, but shall be carried to the Co-operative Societies Liquidation Account kept by the Registrar.
 
-(4) A sum carried to the Co-operative Societies Liquidation Account shall be kept in this Account for at least 2 years. Out of the Co-operative Societies Liquidation Account such sums may be transferred to the Central Co-operative Fund, or applied generally for the furtherance of co-operative principles in such manner, as the Minister may determine from time to time.
+(3A) Despite subsection (3) —
+
+(a) where the members of a society have approved at a general meeting prior to the winding up of the society that all or any part of the remaining moneys of the society and unclaimed sums (if any) mentioned in that subsection (collectively called the relevant surplus) be applied to one or more charitable purposes or donated to one or more charities; and
+
+(b) the Registrar has approved that the whole or part of the relevant surplus be applied to all or any of those charitable purposes or donated to all or any of those charities (as the case may be),
+
+the whole or part of the relevant surplus approved by the Registrar is not to be transferred to the Co‑operative Societies Liquidation Account, but must be applied or donated in accordance with the Registrar’s approval.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(4) Any moneys or sums transferred to the Co‑operative Societies Liquidation Account may be utilised for all or any of the following purposes as the Minister may from time to time direct:
+
+(a) for transfer to the Central Co‑operative Fund;
+
+(b) for the costs of engaging a statutory manager or statutory adviser appointed under section 94(1) or 94A(1), including (but not limited to) the remuneration or fee of the statutory manager or statutory adviser, and any disbursements reasonably incurred in the performance of the duties of the statutory manager or statutory adviser;
+
+(c) for the resolution of financial instability in, or an imminent serious threat to the financial stability of, a credit society or a class of credit societies;
+
+(d) for the costs of and in relation to the liquidation of a society in a particular case;
+
+(e) generally for the furtherance of co‑operative principles in such manner as the Minister may determine.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (5) The interest accruing in respect of any sum carried to the Co-operative Societies Liquidation Account in accordance with subsection (3) may be applied for such of the purposes specified in subsection (4) as the Minister may from time to time direct.
 
+(6) In this section —
+
+“charitable purpose” means a purpose which is exclusively charitable according to the law of Singapore;
+
+“charity” means a charity as defined in section 2(1) of the Charities Act (Cap. 37), whether or not registered under that Act.
+
+[Act 3 of 2018 wef 10/04/2018]
+
 ### Surcharge and attachment
 
-90\.—(1) Where in the course of an audit of a society held under this Act, in the course of an inquiry held under section 79, or in the case of an examination of books under section 80, or in the course of the winding up of a society it appears that a person who has taken part in the organisation and management of the society or any past or present officer of the society has misapplied or retained or become liable or accountable for any money or property of the society or has been guilty of misfeasance or breach of trust in relation to the society, the Registrar may, on his own motion, or on application of the liquidator or any creditor or contributor, examine the conduct of that person and make an order requiring him to repay or restore the money or property or any part thereof with interest at such rate as the Registrar thinks just or to contribute such sum to the assets of the society by way of compensation in regard to the misapplication, retainer, misfeasance, dishonesty or breach of trust and the order shall be enforced in the same manner as if the order had been a judgment of a District Court.
+90\.—(1) The Registrar may, on the Registrar’s own motion, or on the application of the liquidator, or any creditor or member, of a society —
 
-[23/2008]
+(a) examine the conduct of a person who —
+
+(i) has taken part in the organisation and management of the society, or is a past or present officer of the society; and
+
+(ii) appears, from the course of any relevant proceeding —
+
+(A) to have misapplied, retained or become liable or accountable for any money or property of the society; or
+
+(B) to be guilty of misfeasance or breach of trust in relation to the society; and
+
+(b) make an order requiring that person —
+
+(i) to repay or restore the whole or any part of the money or property, with interest at such rate as the Registrar thinks just; or
+
+(ii) to contribute such sum to the assets of the society by way of compensation for any matter mentioned in paragraph (a)(ii)(A) or (B).
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(1A) An order of the Registrar made under subsection (1) is enforceable in the same manner as a judgment of a District Court.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (2) This section shall apply notwithstanding that the act is one for which the offender may be criminally responsible.
 
@@ -2000,7 +2810,21 @@ Power of Registrar to audit accounts of societies
 
 the Registrar may, unless adequate security is furnished, direct the interim attachment of that property or such part thereof as he thinks necessary and the attachment shall have the same effect as if it has been made by a District Court.
 
-(4) A person aggrieved by an order of the Registrar made under subsection (1) or (3) may appeal to the Minister within 2 months from the date of the order and the decision of the Minister shall be final and conclusive.
+(4) A person aggrieved by an order of the Registrar made under subsection (1) or (3) may appeal to the Minister within 2 months after the date of the order and the decision of the Minister shall be final and conclusive.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(5) In this section, “relevant proceeding” means —
+
+(a) an audit of a society held under this Act (including a special audit under section 33A);
+
+(b) an inquiry held under section 79;
+
+(c) an examination of materials under section 80; or
+
+(d) the winding up of a society.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Settlement of disputes
 
@@ -2026,7 +2850,9 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 (b) to recommend to the parties to the dispute to refer it to arbitration in the same manner and subject to the same terms that an aggrieved party under subsection (4) may refer a dispute to arbitration.
 
-(4) Where the Registrar decides to settle the dispute himself and gives a decision thereon which aggrieves a party to the dispute, that party may, within 30 days of the date of the Registrar’s decision, refer the dispute to arbitration by a referee appointed by the Chief Justice, who shall not be an official of any Government department.
+(4) Where the Registrar decides to settle the dispute himself and gives a decision thereon which aggrieves a party to the dispute, that party may, within 30 days after the date of the Registrar’s decision, refer the dispute to arbitration by a referee appointed by the Chief Justice, who shall not be an official of any Government department.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (5) The relevant provisions of the Arbitration Act (Cap. 10) shall apply to any dispute referred to arbitration under subsections (3) and (4).
 
@@ -2072,9 +2898,21 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 (a) with respect to the standards to be maintained by a society in the conduct of its affairs;
 
-(b) with respect to the provision of any financial service by a credit society, including the establishment of any branch of the credit society and facilities for the provision of such financial service;
+(b) with respect to the provision of any service by a credit society, including the establishment of any branch of the credit society and facilities for the provision of such service;
 
-(c) with respect to the investment policies and procedures to be maintained by a society; or
+[Act 3 of 2018 wef 10/04/2018]
+
+(c) with respect to the investment policies and procedures to be maintained by a society;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(ca) with respect to the prudential requirements to be met by a credit society;
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(cb) to require a society to engage, for the purposes of preparing the books and accounts of the society in one or more financial years, a person who is chosen by the society and is approved by the Registrar in writing; or
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (d) for any purpose specified in this Act or the rules made thereunder.
 
@@ -2088,23 +2926,39 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 [23/2008]
 
-### Power to freeze bank accounts
+### Conversion of credit society to non-credit society, etc., on failure to comply with prudential requirements
 
-93A\.—(1) Where the Minister is satisfied that it is necessary to prevent the loss or misuse of the funds of a society, the Minister may, by order, direct any financial institution not to pay any money out or not to pay cheques drawn on the account of the society for a specified period not exceeding 3 months.
+93A\.—(1) If, in 2 or more consecutive financial years, a credit society fails to comply with any prudential requirement contained in a written direction issued under section 93(2) within the time specified in that direction, the Registrar may —
 
-[23/2008]
+(a) by a subsequent written direction issued under section 93(2), order the society to stop receiving any new deposits after the expiry of a period specified in that subsequent written direction; and
 
-(2) A financial institution which complies with an order of the Minister under subsection (1) shall be relieved of any liability to any other person in respect of the payment prohibited by the order.
+(b) cancel the registration of the society as a credit society.
 
-[23/2008]
+(2) Where the registration of a society as a credit society is cancelled under subsection (1) —
 
-(3) Any financial institution which contravenes an order of the Minister under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+(a) the society becomes a non‑credit society; and
 
-[23/2008]
+(b) the Registrar must notify the society in writing that its registration as a credit society is cancelled, starting on a date specified in the notice.
 
-(4) In this section, “financial institution”, in relation to a society, means a bank licensed under the Banking Act (Cap. 19), a finance company licensed under the Finance Companies Act (Cap. 108), or any other society that is a credit society.
+(3) A society that becomes a non‑credit society under this section —
 
-[23/2008]
+(a) must stop doing any of the following things, starting on such date as the Registrar may determine (being a date that may be different from the date mentioned in subsection (2)(b)):
+
+(i) make any new loan to any person;
+
+(ii) allow any new credit to any person;
+
+(iii) receive any new deposit from any person; and
+
+(b) must return, to every person from whom the society had received a deposit in accordance with section 68(2) while the society was a credit society, the deposit made by the person (including any interest accrued on the deposit) within 12 months after the date on which the registration of the society as a credit society is cancelled, or such shorter or longer period as the Registrar may determine in any particular case.
+
+(4) A society that becomes a non‑credit society may continue to receive repayments of existing loans made and credit allowed in accordance with section 67 while the society was a credit society.
+
+(5) A society that is aggrieved by any decision of the Registrar under subsection (1) may, within 2 months after the date of the Registrar’s decision, appeal in writing to the Minister, whose decision is final.
+
+(6) Any society that contravenes subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for each day or part of a day during which the offence continues after conviction.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Codes, guidelines, etc., by Registrar
 
@@ -2138,31 +2992,203 @@ the dispute may be referred to the Registrar for decision in accordance with sub
 
 [23/2008]
 
-### Extraordinary powers of Registrar
+### Powers of Registrar where committee of management of society not performing duties properly, etc.
 
-94\.—(1) If the Registrar is satisfied, after due inquiry by a person appointed by him or for any other reason, that the committee of management of a society is not performing its duties properly, he may by order published in theGazette—
+94\.—(1) If the Registrar is satisfied, after due inquiry by a person appointed by the Registrar or for any other reason, that the committee of management of a society, or any member of that committee, is not performing the duties of that committee or member (as the case may be) properly at any time on or after the date of commencement of section 54 of the Co‑operative Societies (Amendment) Act 2018, or that there has been any misconduct or mismanagement in the administration of a society at any time on or after that date, the Registrar may by order in theGazettedo one or more of the following:
 
-(a) suspend all or any of the activities of the society, for such period as he shall specify;
+(a) suspend all or any of the activities of the society, for such period as the Registrar may specify;
 
-(b) remove the committee of management of the society and order that the affairs of the society be managed and administered by a committee of not less than 2 persons and a manager, all appointed by him, for a period not exceeding one year or such longer period as he thinks fit; or
+(b) in any case where the Registrar is satisfied that the committee of management of the society is not performing its duties properly, or that there has been misconduct or mismanagement in the administration of the society —
 
-(c) remove one or more members from the committee of management of the society.
+(i) remove the committee of management of the society; and
 
-[23/2008]
+(ii) order that the affairs and property of the society be managed and administered by a committee of not less than 3 individuals, all of whom are appointed by the Registrar, on such terms and conditions and for such period as the Registrar may specify;
 
-(1A) The Registrar shall use the extraordinary powers under subsection (1) only after giving an opportunity to the committee of management of a society or the member thereof (as the case may be) to show cause why action should not be taken to suspend the activities of the society, or to remove the committee of management or the member thereof, and after considering the objections of the committee of management or the member thereof (as the case may be).
+(c) in any case where the Registrar is satisfied that the committee of management of the society is not performing its duties properly, or that there has been misconduct or mismanagement in the administration of the society —
 
-[23/2008]
+(i) remove the committee of management of the society; and
 
-(1B) Allowances of the committee, and the salary of the manager, appointed under subsection (1)(b) shall be paid out of the funds of the society.
+(ii) appoint one or more individuals as statutory manager, on such terms and conditions and for such period as the Registrar may specify, to manage and administer the affairs and property of the society;
 
-[23/2008]
+(d) remove one or more members of the committee of management of the society;
 
-(2) The persons appointed under subsection (1)(b) shall, prior to the date on which their appointment ceases to have effect, arrange for the election of a new committee of management in accordance with the by-laws.
+(e) appoint one or more individuals as statutory adviser, on such terms and conditions and for such period as the Registrar may specify, to advise the society on the proper management of such of its affairs and property as the Registrar may determine;
 
-(3) An appeal shall lie to the Minister from an order made by the Registrar under subsection (1) within 2 months of the date of the publication in theGazetteof the order appealed against and the decision of the Minister shall be final and shall not be subject to review in any court.
+(f) appoint such number of additional individuals to the committee of management of the society as the Registrar considers necessary for the proper management of the society, on such terms and conditions and for such period as the Registrar may specify;
 
-(4) Subject to the general direction and control of the Registrar, a person appointed under subsection (1)(b) to assume the functions of the committee of management of a society shall have all the powers and duties of a duly constituted committee of management of the society.
+(g) suspend, for a period not exceeding 24 months, any member of the committee of management of the society.
+
+(2) Where subsection (1) applies, the Registrar may, in addition to the powers under that subsection, order the society to take such action (including refraining from doing any act) within such period as may be specified in the order, being action which the Registrar considers necessary or desirable —
+
+(a) to ensure the proper performance of duties by the committee of management or by each member of that committee who has failed to perform that member’s duties properly (as the case may be); or
+
+(b) to remedy the misconduct or mismanagement in the administration of the society.
+
+(3) The Registrar must, before exercising any power under subsection (1) or (2) —
+
+(a) give to the committee of management of the society or the affected member of the committee (as the case may be) a reasonable opportunity to show cause why the Registrar should not exercise that power; and
+
+(b) consider the representations (if any) of the committee of management or that member (as the case may be).
+
+(4) The allowances of an individual appointed to a committee of management under subsection (1), and the remuneration or fee of a statutory manager or statutory adviser appointed under that subsection, are to be paid out of the society’s funds or borne by such person (including, in the case of the remuneration or fee of a statutory manager or statutory adviser, the Co‑operative Societies Liquidation Account) as the Registrar determines.
+
+(5) Subject to the general direction and control of the Registrar, a committee appointed under subsection (1)(b) or statutory manager appointed under subsection (1)(c) for a society has all the duties and powers of the committee of management of the society.
+
+(6) The committee appointed under subsection (1)(b), and every statutory manager appointed under subsection (1)(c), must arrange, before the date on which the appointment ends, for the election of a new committee of management in accordance with the by‑laws of the society.
+
+(7) Where the Registrar appoints 2 or more individuals as statutory manager of a society, the Registrar must specify, in the terms and conditions of the appointment, which of the duties, functions and powers of the statutory manager —
+
+(a) may be discharged or exercised jointly and severally;
+
+(b) must be discharged or exercised jointly; and
+
+(c) must be discharged or exercised by one or more specified individuals.
+
+(8) Where the Registrar has exercised the Registrar’s power under subsection (1) to appoint a statutory manager, a statutory adviser or any other individual, the Registrar may, by order in theGazette, do one or more of the following:
+
+(a) vary or revoke that appointment, on such terms and conditions as the Registrar may specify;
+
+(b) further exercise the Registrar’s power under subsection (1) to appoint another statutory manager, statutory adviser or individual;
+
+(c) add to, vary or revoke any term or condition specified by the Registrar for that appointment.
+
+(9) The Registrar must, before exercising any power under subsection (8) —
+
+(a) give the affected statutory manager, statutory adviser or individual (as the case may be) a reasonable opportunity to show cause why the Registrar should not exercise that power; and
+
+(b) consider the representations (if any) of that statutory manager, statutory adviser or individual (as the case may be).
+
+(10) However, subsections (3) and (9) do not apply if the Registrar considers, in the circumstances of a particular case, that it is necessary to immediately exercise a power under subsection (1) or (2) and a power under subsection (8), respectively, in order to protect the interests of the members, or to protect the property, of the society.
+
+(11) Where pursuant to subsection (10) the Registrar immediately exercises a power under subsection (1), (2) or (8), the committee of management of the society or the affected person (as the case may be) may, within one month after the Registrar makes the order under subsection (1), (2) or (8), apply to the Registrar to review that order.
+
+(12) The Registrar may, on reviewing an order under subsection (11) —
+
+(a) confirm the order;
+
+(b) vary the order; or
+
+(c) rescind the order.
+
+(13) A person aggrieved by any order of the Registrar made under subsection (1), (2) or (8), or by any variation of that order under subsection (12), may appeal in writing to the Minister —
+
+(a) in the case of an order made under subsection (1) after the Registrar complied with subsection (3) — within 2 months after the date of publication of that order in theGazette;
+
+(b) in the case of an order made under subsection (2) after the Registrar complied with subsection (3) — within 2 months after the date of that order;
+
+(c) in the case of an order made under subsection (8) after the Registrar complied with subsection (9) — within 2 months after the date of publication of that order in theGazette; or
+
+(d) in the case of an order made under subsection (1), (2) or (8) when, pursuant to subsection (10), the Registrar immediately exercised the power under subsection (1), (2) or (8) (as the case may be), or in the case of any variation of that order under subsection (12) — within 2 months after the date on which that order is confirmed or varied (as the case may be) under subsection (12).
+
+(14) The decision of the Minister on an appeal under subsection (13) is final.
+
+(15) Unless the Registrar directs otherwise in any particular case —
+
+(a) a review under subsection (11) of the Registrar’s order does not affect the operation or implementation of the order; and
+
+(b) the order must be complied with until it is rescinded by the Registrar.
+
+(16) Unless the Minister directs otherwise in any particular case —
+
+(a) an appeal under subsection (13) against the Registrar’s order does not affect the operation or implementation of the order; and
+
+(b) the order must be complied with until it is set aside by the Minister.
+
+(17) No liability shall lie personally against any statutory manager, statutory adviser or individual appointed under subsection (1) who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Powers of Registrar to protect interests of members or property of society
+
+94A\.—(1) If the Registrar is satisfied, after due inquiry by a person appointed by the Registrar or for any other reason, that it is necessary or desirable to protect the interests of the members, or to protect the property, of a society, the Registrar may by order in theGazettedo one or more of the following:
+
+(a) suspend all or any of the activities of the society, for such period as the Registrar may specify;
+
+(b) remove the committee of management of the society, and appoint one or more individuals as statutory manager, on such terms and conditions and for such period as the Registrar may specify, to manage and administer the affairs and property of the society;
+
+(c) appoint one or more individuals as statutory adviser, on such terms and conditions and for such period as the Registrar may specify, to advise the society on the proper management of such of its affairs and property as the Registrar may determine;
+
+(d) appoint such number of additional individuals to the committee of management of the society as the Registrar considers necessary for the proper administration of the society, on such terms and conditions and for such period as the Registrar may specify;
+
+(e) suspend, for a period not exceeding 24 months, any officer or employee of the society, and provide for arrangements during the period of suspension of that officer or employee (such as for the execution of any instrument, or the carrying out of any act, on behalf of that officer or employee);
+
+(f) prohibit the society from parting with the property without the Registrar’s approval.
+
+(2) Where subsection (1) applies, the Registrar may, in addition to the powers under that subsection, order the society to take such action (including refraining from doing any act) within such period as may be specified in the order, being action which the Registrar considers necessary or desirable to protect the interests of the members, or to protect the property, of the society.
+
+(3) The Registrar must, before exercising any power under subsection (1) or (2) —
+
+(a) give to the committee of management of the society or the affected officer or employee (as the case may be) a reasonable opportunity to show cause why the Registrar should not exercise that power; and
+
+(b) consider the objections (if any) of the committee of management or that officer or employee (as the case may be).
+
+(4) The allowances of an individual appointed to a committee of management under subsection (1), and the remuneration or fee of a statutory manager or statutory adviser appointed under that subsection, are to be paid out of the society’s funds or borne by such person (including, in the case of the remuneration or fee of a statutory manager or statutory adviser, the Co‑operative Societies Liquidation Account) as the Registrar determines.
+
+(5) Subject to the general direction and control of the Registrar, a statutory manager appointed under subsection (1)(b) for a society has all the duties and powers of the committee of management of the society.
+
+(6) Every statutory manager appointed under subsection (1)(b) must arrange, before the date on which the appointment ends, for the election of a new committee of management in accordance with the by‑laws of the society.
+
+(7) Where the Registrar appoints 2 or more individuals as statutory manager of a society, the Registrar must specify, in the terms and conditions of the appointment, which of the duties, functions and powers of the statutory manager —
+
+(a) may be discharged or exercised jointly and severally;
+
+(b) must be discharged or exercised jointly; and
+
+(c) must be discharged or exercised by one or more specified individuals.
+
+(8) Where the Registrar has exercised the Registrar’s power under subsection (1) to appoint a statutory manager, a statutory adviser or any other individual, the Registrar may, by order in theGazette, do one or more of the following:
+
+(a) vary or revoke that appointment, on such terms and conditions as the Registrar may specify;
+
+(b) further exercise the Registrar’s power under subsection (1) to appoint another statutory manager, statutory adviser or individual;
+
+(c) add to, vary or revoke any term or condition specified by the Registrar for that appointment.
+
+(9) The Registrar must, before exercising any power under subsection (8) —
+
+(a) give the affected statutory manager, statutory adviser or individual (as the case may be) a reasonable opportunity to show cause why the Registrar should not exercise that power; and
+
+(b) consider the representations (if any) of that statutory manager, statutory adviser or individual (as the case may be).
+
+(10) However, subsections (3) and (9) do not apply if the Registrar considers, in the circumstances of a particular case, that it is necessary to immediately exercise a power under subsection (1) or (2) and a power under subsection (8), respectively, in order to protect the interests of the members, or to protect the property, of the society.
+
+(11) Where pursuant to subsection (10) the Registrar immediately exercises a power under subsection (1), (2) or (8), the committee of management of the society or the affected person (as the case may be) may, within one month after the Registrar makes an order under subsection (1), (2) or (8), apply to the Registrar to review that order.
+
+(12) The Registrar may, on reviewing an order under subsection (11) —
+
+(a) confirm the order;
+
+(b) vary the order; or
+
+(c) rescind the order.
+
+(13) A person aggrieved by any order of the Registrar made under subsection (1), (2) or (8), or by any variation of that order under subsection (12), may appeal in writing to the Minister —
+
+(a) in the case of an order made under subsection (1) after the Registrar complied with subsection (3) — within 2 months after the date of publication of that order in theGazette;
+
+(b) in the case of an order made under subsection (2) after the Registrar complied with subsection (3) — within 2 months after the date of that order;
+
+(c) in the case of an order made under subsection (8) after the Registrar complied with subsection (9) — within 2 months after the date of publication of that order in theGazette; or
+
+(d) in the case of an order made under subsection (1), (2) or (8) when, pursuant to subsection (10), the Registrar immediately exercised the power under subsection (1), (2) or (8) (as the case may be), or in the case of any variation of that order under subsection (12) — within 2 months after the date on which that order is confirmed or varied (as the case may be) under subsection (12).
+
+(14) The decision of the Minister on an appeal under subsection (13) is final.
+
+(15) Unless the Registrar directs otherwise in any particular case —
+
+(a) a review under subsection (11) of the Registrar’s order does not affect the operation or implementation of the order; and
+
+(b) the order must be complied with until it is rescinded by the Registrar.
+
+(16) Unless the Minister directs otherwise in any particular case —
+
+(a) an appeal under subsection (13) against the Registrar’s order does not affect the operation or implementation of the order; and
+
+(b) the order must be complied with until it is set aside by the Minister.
+
+(17) No liability shall lie personally against any statutory manager, statutory adviser or individual appointed under subsection (1) who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ## PART IX
 
@@ -2176,17 +3202,29 @@ MISCELLANEOUS
 
 (a) any form to be used for any purpose under this Act;
 
-(b) the books and accounts to be kept by societies, including the preparation and submission of documents or information in compliance with governance requirements or best practices, and the disclosure of the level of such compliance by societies to the Registrar or an apex organisation;
+(b) the books, accounts and other documents to be kept by societies, including the preparation and submission of documents or information in compliance with governance requirements or best practices, and the disclosure of the level of such compliance by societies to the Registrar or an apex organisation;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (c) the preparation, submission or audit of financial statements of societies, including the procedure for applying for relief from compliance with any requirement of the accounting standards or requirements referred to in section 34(5);
 
+(ca) the conduct of a special audit of a society;
+
+[Act 3 of 2018 wef 10/04/2018]
+
 (d) the administration and use of the Central Co-operative Fund and the Co-operative Societies Liquidation Account;
+
+(da) the making and collection of contributions to the Central Co‑operative Fund and the Singapore Labour Foundation, including the payment of any shortfall in contributions paid, the imposition of a prescribed penalty for late payment of contributions, the waiver, refund or remission (whether wholly or in part) of any penalty, and the appointment of agents to collect contributions and late payment penalties;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (e) the maximum rate of dividend on share capital or subscription capital which may be paid by a society;
 
 (f) the governance of societies, and the appointment and removal of officers of societies;
 
-(g) the form and content of the annual reports of societies;
+(g) any officer of a society who may be required to undergo such training, or comply with such other requirements, as the Registrar may specify, and any matter relating to such training or such other requirements;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (h) other documents and information to be submitted by societies to the Registrar or an apex organisation;
 
@@ -2232,17 +3270,21 @@ MISCELLANEOUS
 
 ### Special power of Minister to grant exemption from requirements as to registration
 
-96\. Notwithstanding anything in this Act, the Minister may, by special order in each case and subject to such conditions, if any, as he may impose, exempt a proposed society from any of the requirements of this Act as to registration.
+96\. Notwithstanding anything in this Act, the Minister may, by special order in theGazettein each case and subject to such conditions, if any, as he may impose, exempt a proposed society from any of the requirements of this Act as to registration.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Special power of Minister to exempt societies from provisions of this Act
 
-97\. The Minister may, by general or special order, exempt a society or class of societies from any of the provisions of this Act or the Rules, or may direct that those provisions shall apply to a society or class of societies, with effect from such date or with such modifications as may be specified in the order.
+97\. The Minister may, by general or special order in theGazetteand subject to such conditions (if any) as the Minister may impose, exempt a society or class of societies from any of the provisions of this Act or the Rules, or may direct that those provisions shall apply to a society or class of societies, starting on such date or with such modifications as may be specified in the order.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### General exemption
 
-97A\. Notwithstanding anything in this Act, the Minister may, by order published in theGazette, exempt any person or class of persons from any of the provisions of this Act or the rules made thereunder.
+97A\. Despite anything in this Act, the Minister may, by order in theGazetteand subject to such conditions (if any) as the Minister may impose, exempt any person or class of persons from any of the provisions of this Act or the Rules.
 
-[23/2008]
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Amendment of Schedule
 
@@ -2250,13 +3292,39 @@ MISCELLANEOUS
 
 [23/2008]
 
-(2) The Minister may, in any order made under subsection (1), make such incidental, consequential or supplementary provisions as may be necessary or expedient.
+(2) The Minister may, in any order made under subsection (1), make such saving, transitional, incidental, consequential or supplementary provisions as may be necessary or expedient.
 
 [23/2008]
 
+[Act 3 of 2018 wef 10/04/2018]
+
+### Power to freeze bank accounts
+
+97C\.—(1) Where the Minister is satisfied that it is necessary to prevent the loss or misuse of the funds of a society, the Minister may, by order, direct a financial institution not to do either of the following for a specified period not exceeding 3 months:
+
+(a) pay any money out of the account of the society;
+
+(b) pay any cheque drawn on the account of the society.
+
+(2) A financial institution that complies with an order of the Minister under subsection (1) is not liable to any other person in respect of a payment prohibited by the order.
+
+(3) Any financial institution that contravenes an order of the Minister under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+(4) In this section, “financial institution” means —
+
+(a) a bank licensed under the Banking Act (Cap. 19);
+
+(b) a finance company licensed under the Finance Companies Act (Cap. 108); or
+
+(c) a society (other than the society mentioned in subsection (1)) that is a credit society.
+
+[Act 3 of 2018 wef 10/04/2018]
+
 ### Recovery of sums due to Government
 
-98\.—(1) All sums, due from a society or from an officer or past officer or member or past member of a registered society as such to the Government, may be recovered in the manner provided for the recovery of debts due to the Government under any written law for the time being in force.
+98\.—(1) All sums, due from a society or from an officer or past officer or member or past member of a society as such to the Government, may be recovered in the manner provided for the recovery of debts due to the Government under any written law for the time being in force.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (2) Sums due from a society to the Government and recoverable under subsection (1) may be recovered first, from the property of the society and, secondly, from the members subject to the limit of their liability.
 
@@ -2272,9 +3340,15 @@ MISCELLANEOUS
 
 100\.—(1) Subject to the provisions of this Act, it shall be an offence if —
 
-(a) a society, or any officer or member thereof, neglects or refuses to do an act or furnish information required for the purposes of this Act by the Minister, the Registrar or a person duly authorised in that behalf by the Minister or Registrar, as the case may be;
+(a) a society, or any officer or member thereof, or any other person, neglects or refuses to do an act or furnish information required for the purposes of this Act by the Minister, the Registrar or a person duly authorised in that behalf by the Minister or Registrar, as the case may be;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (b) a person makes a false return or declaration or furnishes false information under this Act;
+
+(ba) a person (called in this paragraph the provider) provides or furnishes, or causes to be provided or furnished, to the Registrar or a person duly authorised by the Registrar, any return, declaration, document or information that the provider knows, or is reckless as to whether, is false or misleading;
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (c) a person, without reasonable excuse, disobeys any summons, requisition, written direction or written order issued under this Act or does not furnish information required from him by a person authorised to do so under this Act;
 
@@ -2282,11 +3356,19 @@ MISCELLANEOUS
 
 (e) a society, or any officer or member thereof, performs any act which requires the consent or approval of the Registrar without first having obtained the consent or approval;
 
-(f) a society, or any officer or member thereof, neglects or refuses to do any act or thing which is required by or under this Act to be done; or
+(f) a society, or any officer or member thereof, neglects or refuses to do any act or thing which is required by or under this Act to be done;
 
-(g) a society, or any officer or member thereof, does or causes to be done any act or thing which is prohibited by this Act.
+[Act 3 of 2018 wef 10/04/2018]
+
+(g) a society, or any officer or member thereof, does or causes to be done any act or thing which is prohibited by this Act; or
 
 [23/2008]
+
+[Act 3 of 2018 wef 10/04/2018]
+
+(h) a person, without reasonable excuse, hinders, delays or obstructs the Registrar, or a person duly authorised by the Registrar, in the exercise of the Registrar’s powers or the discharge of the Registrar’s duties under this Act, or interferes with the exercise or discharge of the Registrar’s powers or duties.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 (2) Any society which fails to comply with a term or condition of its registration, or of any approval granted by the Registrar under section 16A, shall be guilty of an offence.
 
@@ -2312,11 +3394,51 @@ relating to the affairs of the society, shall be guilty of an offence and shall 
 
 [23/2008]
 
+### Wilful falsification of book, etc., of society
+
+100AA\. Any person who does any of the following shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both:
+
+(a) wilfully make, or cause to be made, a false entry in any book, record or other document of a society;
+
+(b) wilfully omit, or cause to be omitted, an entry in any book, record or other document of a society;
+
+(c) wilfully remove, conceal or destroy an entry in any book, record or other document of a society;
+
+(d) wilfully make, or cause to be made, an alteration, to an entry in any book, record or other document of a society, which causes the entry to be false or misleading in a material particular.
+
+[Act 3 of 2018 wef 10/04/2018]
+
+### Unlawful alteration, suppression, etc., of documents
+
+100AB\. A person shall be guilty of an offence, and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both, if the person intentionally alters, suppresses, conceals or destroys any document, information or property that the person is required, by or under this Act or the Rules, to produce or furnish to —
+
+(a) the Minister;
+
+(b) the Registrar; or
+
+(c) a person duly authorised by the Minister or Registrar to act on behalf of the Minister or Registrar (as the case may be).
+
+[Act 3 of 2018 wef 10/04/2018]
+
 ### Fraudulently inducing persons to invest or deposit money with society
 
 100B\. Whoever, being an officer or agent of any society, by any deceitful means or false promise and with intent to defraud, causes or procures any money to be paid to or deposited with that society or himself or any other person for the use or benefit or on account of that society shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $15,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 [23/2008]
+
+### False or misleading statement or information to induce person to join society, etc.
+
+100BA\. Any member or officer of a society shall be guilty of an offence, and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both, if that member or officer —
+
+(a) makes or disseminates any statement that is false or misleading in a material particular, with the intention of inducing another person —
+
+(i) to become a member of the society; or
+
+(ii) to enter into any contract, transaction or arrangement with the society for the benefit of the society or its members; and
+
+(b) at the time the statement is made or disseminated, knows that, or is reckless as to whether, the statement is false or misleading in a material particular.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 ### Fraud by officers against creditors of societies
 
@@ -2459,6 +3581,12 @@ The qualifications for membership, the terms of admission of members, the entran
 
 The manner of raising share capital, if any, and other funds and the terms of withdrawal or transfer of shares and/or subscription capital.
 
+8A. 
+
+The minimum number of ordinary shares of the society that a member of the society must hold.
+
+[Act 3 of 2018 wef 10/04/2018]
+
 9. 
 
 The rights and obligations of members and the extent of the liability of members for debts of the society.
@@ -2525,7 +3653,9 @@ In the case of a primary society where the general meeting of members is replace
 
 21. 
 
-The duties of the chairman, secretary, treasurer and manager of a society.
+The duties of the chairman, secretary, treasurer and chief executive officer of a society.
+
+[Act 3 of 2018 wef 10/04/2018]
 
 22. 
 
@@ -2574,3 +3704,7 @@ This Legislative History is provided for the convenience of users of the Co-oper
 |||(Bill No. 28/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 September 2009 (Sections 2, 5 to 11 and 13)|
+|8.|**Act 3 of 2018—Co-operative Societies (Amendment) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 50/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|9 January 2018|
+||Date of commencement|10 April 2018|
