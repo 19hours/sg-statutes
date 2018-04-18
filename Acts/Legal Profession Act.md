@@ -138,7 +138,7 @@
 
 - [36E Registration of solicitor to practise Singapore law in Joint Law Venture or its constituent foreign law practice, Qualifying Foreign Law Practice or licensed foreign law practice](#Registration-of-solicitor-to-practise-Singapore-law-in-Joint-Law-Venture-or-its-constituent-foreign-law-practice-Qualifying-Foreign-Law-Practice-or-licensed-foreign-law-practice)
 
-- [36F Registration of solicitor to practise foreign law in Joint Law Venture or foreign law practice](#Registration-of-solicitor-to-practise-foreign-law-in-Joint-Law-Venture-or-foreign-law-practice)
+- [36F (Repealed)](#Repealed)
 
 - [36G Registration of regulated non-practitioner](#Registration-of-regulated-non-practitioner)
 
@@ -312,7 +312,7 @@
 
 - [77 Solicitor not to act as agent for any unauthorised person](#Solicitor-not-to-act-as-agent-for-any-unauthorised-person)
 
-- [78 Solicitors’ clerks](#Solicitors’-clerks)
+- [78 Employment or remuneration of certain persons by solicitor](#Employment-or-remuneration-of-certain-persons-by-solicitor)
 
 - [79 Acting for housing developer and purchaser prohibited](#Acting-for-housing-developer-and-purchaser-prohibited)
 
@@ -1512,9 +1512,11 @@ ADMISSION OF ADVOCATES AND SOLICITORS
 
 ### Extension or abridgment of time
 
-17\. Without prejudice to the generality of section 18(2) of, and item 7 of the First Schedule to, the Supreme Court of Judicature Act (Cap. 322), the court may, at any time and on such terms as it thinks just, by order extend or abridge the time prescribed for any thing under any rules made under section 10(2)(g).
+17\. Without prejudice to the generality of section 18(2) of, and item 7 of the First Schedule to, the Supreme Court of Judicature Act, the court may, at any time and on such terms as it thinks just, by order extend or abridge the time prescribed for any thing under any rules made under section 10(2)(g).
 
 [8/2011 wef 03/05/2011]
+
+[Act 22 of 2018 wef 18/04/2018]
 
 18\. [Repealed by Act 8 of 2011 wef 03/05/2011]
 
@@ -2632,39 +2634,7 @@ AND NON-PRACTITIONERS, ETC.
 
 (8) The Attorney-General may transfer to the Director of Legal Services the particulars of and documents relating to any solicitor referred to in subsection (7).
 
-### Registration of solicitor to practise foreign law in Joint Law Venture or foreign law practice
-
-36F\.—(1) An application may be made no later than the prescribed date for a solicitor who does not have in force a practising certificate to be registered under this section, if the solicitor possesses such qualifications and satisfies such requirements as may be prescribed.
-
-(2) The Director of Legal Services may approve an application under subsection (1), and register a solicitor to practise foreign law in a Joint Law Venture or foreign law practice, subject to —
-
-(a) such conditions as may be prescribed; and
-
-(b) such conditions as the Director of Legal Services may think fit to impose in any particular case.
-
-(3) A solicitor who is registered under this section shall be entitled to such privileges as may be prescribed.
-
-(4) With effect from the prescribed date —
-
-(a) a solicitor who, immediately before that date, was or was deemed to be registered under the repealed section 130O as in force immediately before that date shall be deemed to be registered under this section, subject to —
-
-(i) the conditions referred to in subsection (2)(a);
-
-(ii) the conditions (if any) imposed by the Attorney‑General under the repealed section 130O(2)(b) or (4) or 130P(5)(b) as in force immediately before that date, subject to which the solicitor was or was deemed to be registered; and
-
-(iii) such conditions as the Director of Legal Services may think fit to impose in any particular case; and
-
-(b) any undertaking provided by that solicitor under the repealed section 130M or 130Q as in force immediately before that date shall be enforceable by the Director of Legal Services as if that undertaking was provided under section 177 or 36I (as the case may be).
-
-(5) The Attorney-General may transfer to the Director of Legal Services the particulars of any solicitor referred to in subsection (4), and the Director of Legal Services may, upon receiving those particulars, issue a certificate of registration to that solicitor, without any action on the part of that solicitor.
-
-(6) With effect from the prescribed date —
-
-(a) any application which was made before that date for a solicitor to be registered under the repealed section 130O as in force immediately before that date, and which is pending immediately before that date, shall be deemed to be an application for that solicitor to be registered under this section; and
-
-(b) any undertaking provided by that solicitor under the repealed section 130M or 130Q as in force immediately before that date shall be deemed to be an undertaking provided by that solicitor under section 177 or 36I (as the case may be).
-
-(7) The Attorney-General may transfer to the Director of Legal Services the particulars of and documents relating to any solicitor referred to in subsection (6).
+36F\. [Repealed by Act 22 of 2018 wef 18/04/2018]
 
 ### Registration of regulated non-practitioner
 
@@ -2718,9 +2688,9 @@ AND NON-PRACTITIONERS, ETC.
 
 (6) The Director of Legal Services may cancel or suspend any registration under this Part if that registration was obtained by fraud or misrepresentation.
 
-(7) With effect from the prescribed date, any application which was made before that date, under the repealed section 130P(4) as in force immediately before that date, to renew any registration referred to in the repealed section 130P(3) as in force immediately before that date (being a registration under the repealed section 130I, 130K, 130N or 130O as in force immediately before that date), and which is pending immediately before that date, shall be deemed to be an application under subsection (4) to renew the corresponding registration referred to in subsection (3) (being a registration under section 36B, 36C, 36E or 36F, as the case may be).
+(7) [Deleted by Act 22 of 2018 wef 18/04/2018]
 
-(8) The Attorney-General may transfer to the Director of Legal Services the particulars of and any documents relating to any application referred to in subsection (7).
+(8) [Deleted by Act 22 of 2018 wef 18/04/2018]
 
 ### Compliance with guidelines, directions, undertakings and conditions
 
@@ -2780,11 +2750,15 @@ then the rights of the foreign lawyer under or arising out of any contract in re
 
 (2) Where a solicitor —
 
-(a) is required to be registered under section 36E or 36F but —
+(a) is required to be registered under section 36E but —
 
 (i) fails to apply for such registration; and
 
-(ii) is not deemed under section 36E(5) or 36F(4) (as the case may be) to be so registered; or
+(ii) is not deemed under section 36E(5) to be so registered; or
+
+[Act 22 of 2018 wef 18/04/2018]
+
+[Act 22 of 2018 wef 18/04/2018]
 
 (b) fails to furnish any particulars or information required under this Part,
 
@@ -2941,7 +2915,9 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 “relevant proceedings” means such proceedings in the Singapore International Commercial Court as may be prescribed for the purposes of this definition;
 
-“Singapore International Commercial Court” means the division of the High Court constituted under section 18A of the Supreme Court of Judicature Act (Cap. 322).
+“Singapore International Commercial Court” means the division of the High Court constituted under section 18A of the Supreme Court of Judicature Act.
+
+[Act 22 of 2018 wef 18/04/2018]
 
 (2) For the purposes of sections 36S, 36T, 36U and 36Y, a reference to a foreign lawyer who is registered under section 36P includes a foreign lawyer whose registration under section 36P is cancelled or suspended, or lapses, after the commencement of proceedings under section 36S against the foreign lawyer.
 
@@ -3835,9 +3811,11 @@ Election of members of Council
 
 (a) satisfies the Registrar that he was not in Singapore at the time of the election or had a good and sufficient reason for not voting at the last election to the Council; or
 
-(b) pays a penalty of $500 which shall be credited to the Compensation Fund established under section 75.
+(b) pays a penalty of $500 to the Society.
 
 [35/2001]
+
+[Act 22 of 2018 wef 18/04/2018]
 
 ### Elections
 
@@ -4846,7 +4824,7 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (5) In this section, “unauthorised person” has the meaning assigned to it in section 32.
 
-### Solicitors’ clerks
+### Employment or remuneration of certain persons by solicitor
 
 78\.—(1) No solicitor shall in connection with his practice as such, without the consent of the court obtained on an application by originating summons served upon the Attorney-General and upon the Society, employ or remunerate any person who to his knowledge is an undischarged bankrupt or has been —
 
@@ -4858,11 +4836,13 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 
 (d) convicted of an offence under section 33 of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) or under any provision of this Act;
 
-(e) listed as a tout under section 39 of the Family Justice Act 2014, section 62 of the State Courts Act (Cap. 321) or section 73 of the Supreme Court of Judicature Act (Cap. 322); or
+(e) listed as a tout under section 39 of the Family Justice Act 2014, section 62 of the State Courts Act (Cap. 321) or section 73 of the Supreme Court of Judicature Act; or
 
 [Act 5 of 2014 wef 07/03/2014]
 
 [Act 27 of 2014 wef 01/10/2014]
+
+[Act 22 of 2018 wef 18/04/2018]
 
 (f) a person in respect of whom an order under subsection (4) has been made.
 
@@ -4895,6 +4875,8 @@ then subject to this section, the Society may, if the Council thinks fit, make a
 [40/96]
 
 (8) Disciplinary proceedings may be taken against any solicitor who acts in contravention of this section.
+
+[Act 22 of 2018 wef 18/04/2018]
 
 ### Acting for housing developer and purchaser prohibited
 
@@ -5062,7 +5044,9 @@ DISCIPLINARY PROCEEDINGS
 
 [19/2008]
 
-(14) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and in the absence of any rule dealing with any point of procedure or practice, the Rules of Court (Cap. 322, R 5) may be followed as nearly as the circumstances permit.
+(14) Subject to this section, the Rules Committee may make rules for regulating and prescribing the procedure and practice to be followed in connection with proceedings under this section and in the absence of any rule dealing with any point of procedure or practice, the Rules of Court may be followed as nearly as the circumstances permit.
+
+[Act 22 of 2018 wef 18/04/2018]
 
 (15) For the avoidance of doubt, nothing in this section shall prevent any Legal Service Officer from being subject to disciplinary action by the Legal Service Commission for any act or omission which constitutes a disciplinary offence under this section.
 
@@ -5890,9 +5874,15 @@ the Council shall, at the expense of the regulated legal practitioner, publish i
 
 90\.—(1) The Chief Justice may from time to time appoint one or more Disciplinary Tribunals, each comprising —
 
-(a) a president, who shall be an advocate and solicitor who is a Senior Counsel or who has at any time held office as a Judge of the Supreme Court or Judicial Commissioner of the Supreme Court; and
+(a) a president, who —
 
-[Act 40 of 2014 wef 01/01/2015]
+(i) is a Senior Judge of the Supreme Court;
+
+(ii) has at any time held office as a Judge of the Supreme Court or Judicial Commissioner of the Supreme Court; or
+
+(iii) is an advocate and solicitor who is a Senior Counsel; and
+
+[Act 22 of 2018 wef 18/04/2018]
 
 (b) such of the following as may be applicable:
 
@@ -6306,11 +6296,13 @@ and such order for the payment of costs as may be just.
 
 [Act 40 of 2014 wef 18/11/2015]
 
-(3) If the advocate and solicitor or regulated foreign lawyer named in the application under subsection (1) is or is believed to be within Singapore, the provisions of the Rules of Court (Cap. 322, R 5) for service of writs of summons shall apply to the service of the application.
+(3) If the advocate and solicitor or regulated foreign lawyer named in the application under subsection (1) is or is believed to be within Singapore, the provisions of the Rules of Court for service of writs of summons shall apply to the service of the application.
 
 [19/2008]
 
 [Act 40 of 2014 wef 18/11/2015]
+
+[Act 22 of 2018 wef 18/04/2018]
 
 (4) A copy of the affidavit or affidavits in support of the application under subsection (1) shall be served with the application upon the advocate and solicitor or regulated foreign lawyer named in the application.
 
@@ -6901,7 +6893,9 @@ RECOVERY AND TAXATION OF COSTS
 
 ### Preparation of bills of costs as between solicitor and client
 
-126\. Bills of costs for taxation as between solicitor and client shall be drawn in the manner provided by the Rules of Court (Cap. 322, R 5), and the taxation shall be governed by those Rules.
+126\. Bills of costs for taxation as between solicitor and client shall be drawn in the manner provided by the Rules of Court, and the taxation shall be governed by those Rules.
+
+[Act 22 of 2018 wef 18/04/2018]
 
 ### Interest in respect of disbursements and advances
 
@@ -8834,56 +8828,52 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||(Bill No. 57/66 published on 6 December 1966)|
 ||Date of Second and Third Readings|21 December 1966|
 ||Date of commencement|9 January 1967 (sections 1, 2, 141, 146 and 147)|
-|2.|**M. Ordinance 57 of 1966—Legal Profession Ordinance 1966**|
-||Date of First Reading|5 December 1966|
-|||(Bill No. 57/66 published on 6 December 1966)|
-||Date of Second and Third Readings|21 December 1966|
-||Date of commencement|11 February 1967 (remaining provisions of the Act)|
-|3.|**Act 16 of 1967—Legal Profession (Amendment) Act 1967**|
+|||11 February 1967 (remaining provisions of the Act)|
+|2.|**Act 16 of 1967—Legal Profession (Amendment) Act 1967**|
 ||Date of First Reading|24 May 1967|
 |||(Bill No. 11/67 published on 27 May 1967)|
 ||Date of Second and Third Readings|29 June 1967|
 ||Date of commencement|14 July 1967|
-|4.|**Act 16 of 1970—Legal Profession (Amendment) Act 1970**|
+|3.|**Act 16 of 1970—Legal Profession (Amendment) Act 1970**|
 ||Date of First Reading|9 March 1970|
 |||(Bill No. 6/70 published on 13 March 1970)|
 ||Date of Second and Third Readings|30 March 1970|
 ||Date of commencement|12 June 1970|
-|5.|**1970 Revised Edition—Legal Profession Act (Chapter 217)**|
+|4.|**1970 Revised Edition—Legal Profession Act (Chapter 217)**|
 ||Date of operation|31 July 1971|
-|6.|**Act 10 of 1972—Legal Profession (Amendment) Act 1972**|
+|5.|**Act 10 of 1972—Legal Profession (Amendment) Act 1972**|
 ||Date of First Reading|7 March 1972|
 |||(Bill No. 7/72 published on 10 March 1972)|
 ||Date of Second and Third Readings|23 March 1972|
 ||Date of commencement|12 May 1972|
-|7.|**Act 16 of 1976—Legal Profession (Amendment) Act 1976**|
+|6.|**Act 16 of 1976—Legal Profession (Amendment) Act 1976**|
 ||Date of First Reading|23 July 1976|
 |||(Bill No. 12/76 published on 26 July 1976)|
 ||Date of Second and Third Readings|3 September 1976|
 ||Date of commencement|24 September 1976|
-|8.|**Act 13 of 1978—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1978**|
+|7.|**Act 13 of 1978—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1978**|
 ||Date of First Reading|13 March 1978|
 |||(Bill No. 15/78 published on 14 March 1978)|
 ||Date of Second and Third Readings|23 March 1978|
 ||Date of commencement|1 April 1977|
-|9.|**Act 11 of 1979—Legal Profession (Amendment) Act 1979**|
+|8.|**Act 11 of 1979—Legal Profession (Amendment) Act 1979**|
 ||Date of First Reading|5 March 1979|
 |||(Bill No. 6/79 published on 12 March 1979)|
 ||Date of Second and Third Readings|30 March 1979|
 ||Date of commencement|15 October 1979|
-|10.|**Act 5 of 1981—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1981**|
+|9.|**Act 5 of 1981—Statutes of the Republic of Singapore (Miscellaneous Amendments) Act 1981**|
 ||Date of First Reading|17 February 1981|
 |||(Bill No. 1/81 published on 20 February 1981)|
 ||Date of Second and Third Readings|6 March 1981|
 ||Date of commencement|24 April 1981|
-|11.|**1982 Reprint—Legal Profession Act (Chapter 217)**|
+|10.|**1982 Reprint—Legal Profession Act (Chapter 217)**|
 ||Date of operation|1 November 1982|
-|12.|**Act 17 of 1984—Legal Profession (Amendment) Act 1984**|
+|11.|**Act 17 of 1984—Legal Profession (Amendment) Act 1984**|
 ||Date of First Reading|29 June 1984|
 |||(Bill No. 12/84 published on 9 July 1984)|
 ||Date of Second and Third Readings|25 July 1984|
 ||Date of commencement|17 August 1984|
-|13.|**Act 30 of 1986—Legal Profession (Amendment) Act 1986**|
+|12.|**Act 30 of 1986—Legal Profession (Amendment) Act 1986**|
 ||Date of First Reading|25 August 1986|
 |||(Bill No. 20/86 published on 29 August 1986)|
 ||Date of Second Reading|22 September 1986|
@@ -8891,39 +8881,39 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of Presentation of Select Committee Report|16 October 1986 (Parl 7 of 1986)|
 ||Date of Third Reading|27 October 1986|
 ||Date of commencement|31 October 1986|
-|14.|**1985 Revised Edition—Legal Profession Act (Chapter 161)**|
+|13.|**1985 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|30 March 1987|
-|15.|**Act 15 of 1989—Legal Profession (Amendment) Act 1989**|
+|14.|**Act 15 of 1989—Legal Profession (Amendment) Act 1989**|
 ||Date of First Reading|16 January 1989|
 |||(Bill No. 9/89 published on 16 January 1989)|
 ||Date of Second and Third Readings|17 February 1989|
 ||Date of commencement|21 April 1989|
-|16.|**1990 Revised Edition—Legal Profession Act (Chapter 161)**|
+|15.|**1990 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|20 December 1990|
-|17.|**Act 10 of 1991—Legal Profession (Amendment) Act 1991**|
+|16.|**Act 10 of 1991—Legal Profession (Amendment) Act 1991**|
 ||Date of First Reading|3 January 1991|
 |||(Bill No. 3/91 published on 4 January 1991)|
 ||Date of Second and Third Readings|14 January 1991|
 ||Date of commencement|1 February 1991|
-|18.|**Act 7 of 1992—Legal Profession (Amendment) Act 1992**|
+|17.|**Act 7 of 1992—Legal Profession (Amendment) Act 1992**|
 ||Date of First Reading|13 January 1992|
 |||(Bill No. 1/92 published on 14 January 1992)|
 ||Date of Second and Third Readings|27 February 1992|
 ||Date of commencement|27 March 1992|
-|19.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
+|18.|**Act 16 of 1993—Supreme Court of Judicature (Amendment) Act 1993**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 February 1993|
 |||(Bill No. 12/93 published on 27 February 1993)|
 ||Date of Second and Third Readings|12 April 1993|
 ||Date of commencement|1 July 1993|
-|20.|**Act 41 of 1993—Legal Profession (Amendment) Act 1993**|
+|19.|**Act 41 of 1993—Legal Profession (Amendment) Act 1993**|
 ||Date of First Reading|12 October 1993|
 |||(Bill No. 34/93 published on 13 October 1993)|
 ||Date of Second and Third Readings|12 November 1993|
 ||Date of commencement|1 January 1994|
-|21.|**1994 Revised Edition—Legal Profession Act (Chapter 161)**|
+|20.|**1994 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|15 March 1994|
-|22.|**Act 15 of 1995—Bankruptcy Act 1995**|
+|21.|**Act 15 of 1995—Bankruptcy Act 1995**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 July 1994|
 |||(Bill No. 16/94 published on 29 July 1994)|
@@ -8932,193 +8922,162 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of Presentation of Select Committee Report|7 March 1995 (Parl 1 of 1995)|
 ||Date of Third Reading|23 March 1995|
 ||Date of commencement|15 July 1995|
-|23.|**Act 40 of 1996—Legal Profession (Amendment) Act 1996**|
+|22.|**Act 40 of 1996—Legal Profession (Amendment) Act 1996**|
 ||Date of First Reading|1 October 1996|
 |||(Bill No. 31/96 published on 1 October 1996)|
 ||Date of Second and Third Readings|10 October 1996|
 ||Date of commencement|1 September 1996 (section 9)|
-|24.|**Act 40 of 1996—Legal Profession (Amendment) Act 1996**|
-||Date of First Reading|1 October 1996|
-|||(Bill No. 31/96 published on 1 October 1996)|
-||Date of Second and Third Readings|10 October 1996|
-||Date of commencement|1 January 1997 (except section 9)|
-|25.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+|||1 January 1997 (except section 9)|
+|23.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
 ||Date of First Reading|11 July 1997|
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Date of commencement|1 October 1997|
-|26.|**1997 Revised Edition—Legal Profession Act (Chapter 161)**|
+|24.|**1997 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|20 December 1997|
-|27.|**G. N. No. S 383/1998—Legal Profession Act (Appointed Day for purposes of section 75B) Notification 1998**|
+|25.|**G. N. No. S 383/1998—Legal Profession Act (Appointed Day for purposes of section 75B) Notification 1998**|
 ||Date of commencement|1 September 1998|
-|28.|**Act 4 of 2000—Legal Profession (Amendment) Act 2000**|
+|26.|**Act 4 of 2000—Legal Profession (Amendment) Act 2000**|
 ||Date of First Reading|23 November 1999|
 |||(Bill No. 41/99 published on 24 November 1999)|
 ||Date of Second and Third Readings|17 January 2000|
 ||Date of commencement|5 May 2000|
-|29.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
+|27.|**Act 28 of 2000—Statutes (Miscellaneous Amendments and Repeal) Act 2000**|
 ||Date of First Reading|25 August 2000|
 |||(Bill No. 22/2000 published on 26 August 2000)|
 ||Date of Second and Third Readings|9 October 2000|
 ||Date of commencement|1 November 2000|
-|30.|**2000 Revised Edition—Legal Profession Act (Chapter 161)**|
+|28.|**2000 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|30 December 2000|
-|31.|**Act 35 of 2001—Legal Profession (Amendment) Act 2001**|
+|29.|**Act 35 of 2001—Legal Profession (Amendment) Act 2001**|
 ||Date of First Reading|25 September 2001|
 |||(Bill No. 39/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 November 2001|
-|32.|**2001 Revised Edition—Legal Profession Act (Chapter 161)**|
+|30.|**2001 Revised Edition—Legal Profession Act (Chapter 161)**|
 ||Date of operation|31 December 2001|
-|33.|**Act 23 of 2004—Legal Profession (Amendment) Act 2004**|
+|31.|**Act 23 of 2004—Legal Profession (Amendment) Act 2004**|
 ||Date of First Reading|19 May 2004|
 |||(Bill No. 17/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
 ||Date of commencement|14 September 2004 (sections 5 and 6)|
-|34.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+|||1 April 2005 (sections 2, 3, 4, 7 and 8)|
+|32.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 September 2004|
 |||(Bill No. 43/2004 published on 22 September 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|15 December 2004|
-|35.|**Act 23 of 2004—Legal Profession (Amendment) Act 2004**|
-||Date of First Reading|19 May 2004|
-|||(Bill No. 17/2004 published on 20 May 2004)|
-||Date of Second and Third Readings|15 June 2004|
-||Date of commencement|1 April 2005 (sections 2, 3, 4, 7 and 8)|
-|36.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+|33.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006 (First Schedule — item (20); Fifth Schedule — item (13))|
-|37.|**Act 41 of 2005—Legal Profession (Amendment) Act 2005**|
+|34.|**Act 41 of 2005—Legal Profession (Amendment) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 31/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|4 December 2006|
-|38.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
+|35.|**Act 10 of 2007—Charities (Amendment) Act 2007**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 22/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|23 January 2007|
 ||Date of commencement|1 March 2007|
-|39.|**Act 20 of 2007—Legal Profession (Amendment) Act 2007**|
+|36.|**Act 20 of 2007—Legal Profession (Amendment) Act 2007**|
 ||Date of First Reading|9 March 2007|
 |||(Bill No. 10/2007 published on 10 March 2007)|
 ||Date of Second and Third Readings|12 April 2007|
 ||Date of commencement|1 April 2007 (section 24(1))|
-|40.|**Act 20 of 2007—Legal Profession (Amendment) Act 2007**|
-||Date of First Reading|9 March 2007|
-|||(Bill No. 10/2007 published on 10 March 2007)|
-||Date of Second and Third Readings|12 April 2007|
-||Date of commencement|1 June 2007|
-|41.|**Act 19 of 2008—Legal Profession (Amendment) Act 2008**|
+|||1 June 2007|
+|37.|**Act 19 of 2008—Legal Profession (Amendment) Act 2008**|
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 16/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|26 August 2008|
 ||Date of commencement|1 June 2007 (section 15(b))|
-|42.|**Act 19 of 2008—Legal Profession (Amendment) Act 2008**|
-||Date of First Reading|21 July 2008|
-|||(Bill No. 16/2008 published on 22 July 2008)|
-||Date of Second and Third Readings|26 August 2008|
-||Date of commencement|19 September 2008 (except sections 2(c) and (f), 4, 5, 6, 7(a) and (b), 8, 9, 11, 26 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56)|
-|43.|**Act 19 of 2008—Legal Profession (Amendment) Act 2008**|
-||Date of First Reading|21 July 2008|
-|||(Bill No. 16/2008 published on 22 July 2008)|
-||Date of Second and Third Readings|26 August 2008|
-||Date of commencement|15 October 2008 (sections 4, 5(c), (d) and (g), 7(a) and (b), 8(a) and (b), 26(d), 28, 29(a) and (c) to (o), 30(a) and (d) and 31(b) to (f))|
-|44.|**Act 19 of 2008—Legal Profession (Amendment) Act 2008**|
-||Date of First Reading|21 July 2008|
-|||(Bill No. 16/2008 published on 22 July 2008)|
-||Date of Second and Third Readings|26 August 2008|
-||Date of commencement|1 December 2008 (sections 2(c) and (f), 5(a), (b), (e) and (f), 6, 8(c) and (d), 9, 11, 26(a), (b), (c), (e) and (f), 27, 29(b), 30 (b) and (c), 31(a), 32 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56)|
-|45.|**2009 Revised Edition—Legal Profession Act**|
+|||19 September 2008 (except sections 2(c) and (f), 4, 5, 6, 7(a) and (b), 8, 9, 11, 26 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56)|
+|||15 October 2008 (sections 4, 5(c), (d) and (g), 7(a) and (b), 8(a) and (b), 26(d), 28, 29(a) and (c) to (o), 30(a) and (d) and 31(b) to (f))|
+|||1 December 2008 (sections 2(c) and (f), 5(a), (b), (e) and (f), 6, 8(c) and (d), 9, 11, 26(a), (b), (c), (e) and (f), 27, 29(b), 30 (b) and (c), 31(a), 32 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56)|
+|38.|**2009 Revised Edition—Legal Profession Act**|
 ||Date of operation|1 June 2009|
-|46.|**Act 20 of 2009—Legal Profession (Amendment) Act 2009**|
+|39.|**Act 20 of 2009—Legal Profession (Amendment) Act 2009**|
 ||Date of First Reading|20 July 2009|
 |||(Bill No. 13/2009 published on 20 July 2009)|
 ||Date of Second and Third Readings|18 August 2009|
 ||Date of commencement|9 October 2009|
-|47.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+|40.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
-|48.|**Act 27 of 2010—International Child Abduction Act 2010**|
+|41.|**Act 27 of 2010—International Child Abduction Act 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 August 2010|
 |||(Bill No. 22/2010 published on 16 August 2010)|
 ||Date of Second and Third Readings|16 September 2010|
 ||Date of commencement|1 March 2011|
-|49.|**Act 8 of 2011—Legal Profession (Amendment) Act 2011**|
+|42.|**Act 8 of 2011—Legal Profession (Amendment) Act 2011**|
 ||Date of First Reading|10 January 2011|
 |||(Bill No. 3/2011 published on 10 January 2011)|
 ||Date of Second and Third Readings|14 February 2011|
 ||Date of commencement|3 May 2011|
-|50.|**Act 17 of 2011—Conveyancing (Miscellaneous Amendments) Act 2011**|
+|43.|**Act 17 of 2011—Conveyancing (Miscellaneous Amendments) Act 2011**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|10 March 2011|
 |||(Bill No. 12/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 August 2011|
-|51.|**Act 3 of 2012—Legal Profession (Amendment) Act 2012**|
+|44.|**Act 3 of 2012—Legal Profession (Amendment) Act 2012**|
 ||Date of First Reading|16 January 2012 (Bill No. 1/2012 published on 16 January 2012)|
 ||Date of Second and Third Readings|14 February 2012|
 ||Date of commencement|1 April 2012 (except sections 10, 11, 12 and 14)|
-|52.|**Act 3 of 2012—Legal Profession (Amendment) Act 2012**|
-||Date of First Reading|16 January 2012 (Bill No. 1/2012 published on 16 January 2012)|
-||Date of Second and Third Readings|14 February 2012|
-||Date of commencement|1 June 2012 (sections 10. 11. 12 and 14)|
-|53.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+|||1 June 2012 (sections 10. 11. 12 and 14)|
+|45.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014 (item (16) of the Schedule)|
-|54.|**Act 27 of 2014—Family Justice Act 2014**|
+|46.|**Act 27 of 2014—Family Justice Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 July 2014 (Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014 (section 62)|
-|55.|**Act 40 of 2014—Legal Profession (Amendment) Act 2014**|
+|47.|**Act 40 of 2014—Legal Profession (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 36/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|1 January 2015|
-|56.|**Act 41 of 2014—Statutes (Miscellaneous Amendments — Deputy Attorney-General) Act 2014**|
+|||23 May 2015|
+|||18 November 2015|
+|48.|**Act 41 of 2014—Statutes (Miscellaneous Amendments — Deputy Attorney-General) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 37/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
 ||Date of commencement|1 January 2015|
-|57.|**Act 25 of 2014—Attorney-General (Additional Functions) Act 2014**|
+|49.|**Act 25 of 2014—Attorney-General (Additional Functions) Act 2014**|
 ||Date of First Reading|7 July 2014|
 |||(Bill No. 19/2014)|
 ||Date of Second and Third Readings|5 August 2014|
 ||Date of commencement|1 January 2015|
-|58.|**Act 40 of 2014—Legal Profession (Amendment) Act 2014**|
-||Date of First Reading|7 October 2014|
-|||(Bill No. 36/2014 published on 7 October 2014)|
-||Date of Second and Third Readings|4 November 2014|
-||Date of commencement|23 May 2015|
-|59.|**Act 40 of 2014—Legal Profession (Amendment) Act 2014**|
-||Date of First Reading|7 October 2014|
-|||(Bill No. 36/2014 published on 7 October 2014)|
-||Date of Second and Third Readings|4 November 2014|
-||Date of commencement|18 November 2015|
-|60.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+|50.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|1 August 2016|
-|61.|**Act 2 of 2017—Civil Law (Amendment) Act 2017**|
+|51.|**Act 2 of 2017—Civil Law (Amendment) Act 2017**|
 ||Date of First Reading|7 November 2016 (Bill No. 38/2016 published on 7 November 2016)|
 ||Date of Second and Third Readings|10 January 2017|
 ||Date of commencement|1 March 2017|
-|62.|**Act 30 of 2017—Singapore University of Social Sciences Act 2017**|
+|52.|**Act 30 of 2017—Singapore University of Social Sciences Act 2017**|
 ||Date of First Reading|3 April 2017 (Bill No. 24/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|11 July 2017|
-|63.|**Act 1 of 2017—Mediation Act 2017**|
+|53.|**Act 1 of 2017—Mediation Act 2017**|
 ||Date of First Reading|7 November 2016 (Bill No. 37/2016 published on 7 November 2016)|
 ||Date of Second and Third Readings|10 January 2017|
 ||Date of commencement|1 November 2017|
+|54.|**Act 22 of 2018—Legal Profession (Amendment) Act 2018**|
+||Date of First Reading|2 March 2018 (Bill No. 16/2018 published on 2 March 2018)|
+||Date of Second and Third Readings|20 March 2018|
+||Date of commencement|18 April 2018|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
