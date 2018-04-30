@@ -16,6 +16,8 @@
 
 - [5 Use of property as private parking place](#Use-of-property-as-private-parking-place)
 
+- [5A Power to require maintenance, etc., of parking place](#Power-to-require-maintenance-etc-of-parking-place)
+
 - [6 Adaptation of land for use as parking place](#Adaptation-of-land-for-use-as-parking-place)
 
 - [7 Authority not liable for loss or damage](#Authority-not-liable-for-loss-or-damage)
@@ -78,6 +80,10 @@ An Act relating to parking places.
 
 “Authority” means the Land Transport Authority of Singapore established under the Land Transport Authority of Singapore Act (Cap. 158A);
 
+“bicycle”, “power-assisted bicycle” and “personal mobility device” have the same meanings as in the Active Mobility Act 2017;
+
+[Act 3 of 2017 wef 30/04/2018]
+
 “driver” includes the person for the time being in charge or in control of a vehicle, and “drive” shall be construed accordingly;
 
 “heavy vehicle” means —
@@ -104,17 +110,31 @@ An Act relating to parking places.
 
 “private parking place” means any land or premises or part thereof owned or occupied by any person other than the Government and used for the parking or housing of —
 
-(a) one or more motor vehicles other than heavy vehicles; or
+(a) one or more motor vehicles other than heavy vehicles;
 
-(b) one or more heavy vehicles, whether or not in addition to any motor vehicle which is not a heavy vehicle,
+[Act 3 of 2017 wef 30/04/2018]
+
+(b) one or more heavy vehicles, whether or not in addition to any motor vehicle which is not a heavy vehicle; or
+
+[Act 3 of 2017 wef 30/04/2018]
+
+(c) one or more bicycles, power-assisted bicycles or personal mobility devices or a combination of such vehicles,
+
+[Act 3 of 2017 wef 30/04/2018]
 
 but does not include any parking place provided under section 4;
 
 “Superintendent” means the Superintendent of Car Parks or a Deputy or an Assistant Superintendent of Car Parks appointed under section 3;
 
-“trailer” means a vehicle drawn by a motor vehicle.
+“trailer” means a vehicle drawn by a motor vehicle;
+
+[Act 3 of 2017 wef 30/04/2018]
 
 [10/82; 6/91; 34/93; 28/95; 9/2005]
+
+“vehicle” means any vehicle whether mechanically propelled or otherwise, and includes a bicycle, a power-assisted bicycle or a personal mobility device.
+
+[Act 3 of 2017 wef 30/04/2018]
 
 ### Administration of this Act
 
@@ -142,9 +162,13 @@ but does not include any parking place provided under section 4;
 
 [44/99]
 
-(2) The Authority shall not permit any part of a road to be used as a parking place under subsection (1)(c) if the use of such part of the road as a parking place will unreasonably prevent access to any premises adjoining the road or to the use of the road by any person entitled to the use of the road, or will cause a nuisance to any person.
+(2) The Authority must not permit any part of a road to be used as a parking place under subsection (1)(c) if —
 
-[44/99]
+(a) the parking place is for the parking of personal mobility devices; or
+
+(b) the use of such part of the road as a parking place will unreasonably prevent access to any premises adjoining the road or to the use of the road by any person entitled to the use of the road, or will cause a nuisance to any person.
+
+[Act 3 of 2017 wef 30/04/2018]
 
 (3) The certificate of the Superintendent stating to the effect that any parking place named or described in the certificate is a parking place within the meaning of this Act shall be prima facie evidence for the purpose of any prosecution under this Act.
 
@@ -167,6 +191,36 @@ but does not include any parking place provided under section 4;
 (3) The Superintendent or any person authorised by him may manage and superintend any private parking place referred to in subsection (2)(a).
 
 (4) [Deleted by Act 9 of 2005]
+
+### Power to require maintenance, etc., of parking place
+
+5A\.—(1) Where, in the opinion of the Superintendent, any private parking place for the parking of bicycles, power-assisted bicycles or personal mobility devices on any land or premises —
+
+(a) has not been kept or maintained in a state of good and serviceable repair or in a proper and clean condition;
+
+(b) has been discontinued without the permission of the Superintendent; or
+
+(c) has been altered (whether by repair or otherwise) so as to render the parking place to be non-compliant with any rules made under section 8,
+
+the Superintendent may, by notice, require the owner or the occupier of the land or premises to carry out such repairs, work or alteration to the parking place, or to reinstate the parking place, as the case may be, as the Superintendent thinks fit to be carried out.
+
+(2) A notice under subsection (1) must specify —
+
+(a) the manner in which the repairs, work, alteration or reinstatement specified in the notice is to be carried out;
+
+(b) the time within which the repairs, work, alteration or reinstatement must be completed; and
+
+(c) that the repairs, work, alteration or reinstatement must be carried out with due diligence to the satisfaction of the Superintendent.
+
+(3) If a notice under subsection (1) is not complied with to his satisfaction, the Superintendent may —
+
+(a) carry out or cause to be carried out all or any of the repairs, work, alteration or reinstatement specified in that notice; and
+
+(b) recover all expenses reasonably incurred by him in the exercise of his powers under this section from the person in default.
+
+(4) Without prejudice to the right of the Superintendent to exercise the powers under subsection (3), if any person on whom a notice under subsection (1) is served fails, without reasonable excuse, to comply with the requirements of that notice, that person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence continues after conviction.
+
+[Act 3 of 2017 wef 30/04/2018]
 
 ### Adaptation of land for use as parking place
 
@@ -236,13 +290,19 @@ but does not include any parking place provided under section 4;
 
 ### Duty to give information
 
-13\.—(1) Where the driver or the conductor of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act or any rules made thereunder —
+13\.—(1) Where the driver or the conductor of a vehicle is alleged or is suspected to be guilty of an offence under this Act or any rules made thereunder —
 
-(a) the owner of the motor vehicle shall furnish such information as may be required by the Superintendent or an officer authorised by the Superintendent to act in that behalf as to the identity and address of the person who was the driver or conductor of that motor vehicle at or about the time of the alleged offence, and as to the driving licence held by that person (if necessary); and
+(a) the owner of the vehicle shall furnish such information as may be required by the Superintendent or an officer authorised by the Superintendent to act in that behalf as to the identity and address of the person who was the driver or conductor of that vehicle at or about the time of the alleged offence, and as to the driving licence held by that person (if necessary); and
 
-(b) any other person who was or should have been in charge of the motor vehicle shall, if so required under paragraph (a), give any information which it is in his power to give, and which may lead to the identification of the driver.
+[Act 3 of 2017 wef 30/04/2018]
 
-(2) Any owner of a motor vehicle or any other person who fails to furnish the information required from him under subsection (1)(a) or (b), as the case may be, within 7 days of the date on which the information was required from him shall be guilty of an offence unless he proves, to the satisfaction of the court, that he did not know and could not with reasonable diligence have ascertained the information required.
+(b) any other person who was or should have been in charge of the vehicle shall, if so required under paragraph (a), give any information which it is in his power to give, and which may lead to the identification of the driver.
+
+[Act 3 of 2017 wef 30/04/2018]
+
+(2) Any owner of a vehicle or any other person who fails to furnish the information required from him under subsection (1)(a) or (b), as the case may be, within 7 days of the date on which the information was required from him shall be guilty of an offence unless he proves, to the satisfaction of the court, that he did not know and could not with reasonable diligence have ascertained the information required.
+
+[Act 3 of 2017 wef 30/04/2018]
 
 (3) Any person who wilfully furnishes any false or misleading information under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
@@ -250,9 +310,13 @@ but does not include any parking place provided under section 4;
 
 (4) The Superintendent or any officer authorised by the Superintendent to act in that behalf may require any information to be furnished under subsection (1) to be in writing signed by the person required to furnish the information.
 
-(5) Notwithstanding any other written law to the contrary, any information given under this section by any person charged with an offence under this Act or any rules made thereunder or an offence in connection with the driving of a motor vehicle may be used as evidence without proof of signature at the hearing of the charge.
+(5) Notwithstanding any other written law to the contrary, any information given under this section by any person charged with an offence under this Act or any rules made thereunder or an offence in connection with the driving of a vehicle may be used as evidence without proof of signature at the hearing of the charge.
 
-(6) Notwithstanding any other written law to the contrary, any statement made by any person to the Superintendent or any officer authorised by the Superintendent under this section that a motor vehicle was on a particular occasion being driven by or belonged to that person or that it belonged to a firm in which that person also stated that he was a partner or to a corporation of which that person stated that he was a director, an officer or an employee shall be admissible in evidence without proof of signature for the purpose of determining by whom the motor vehicle was on that occasion being driven or who was in charge of it or to whom it belonged.
+[Act 3 of 2017 wef 30/04/2018]
+
+(6) Notwithstanding any other written law to the contrary, any statement made by any person to the Superintendent or any officer authorised by the Superintendent under this section that a vehicle was on a particular occasion being driven by or belonged to that person or that it belonged to a firm in which that person also stated that he was a partner or to a corporation of which that person stated that he was a director, an officer or an employee shall be admissible in evidence without proof of signature for the purpose of determining by whom the vehicle was on that occasion being driven or who was in charge of it or to whom it belonged.
+
+[Act 3 of 2017 wef 30/04/2018]
 
 ### Liability of owner of vehicles for parking offences
 
@@ -406,6 +470,34 @@ enter any private parking place between the hours of 8 a.m. and 6 p.m. to make a
 
 [9/2005]
 
+(4) The Superintendent or an authorised person may do any of the following, without involving any search of any property or individual, for the purposes of a survey or inspection under this section:
+
+(a) photograph or film, or make audio recordings or make sketches of, any part of the premises, or any vehicle or parts of a vehicle or other thing at the premises;
+
+(b) require any person on those premises to produce or grant access to, without charge, any document or information reasonably required for any purpose in subsection (1), which are in the possession or under the control of that person;
+
+(c) inspect and make copies of or take extracts from any such document;
+
+(d) take possession of such a document if, in the opinion of the Superintendent or authorised officer —
+
+(i) the inspection or copying of or extraction from the document cannot reasonably be performed without taking possession;
+
+(ii) the document may be interfered with or destroyed unless possession is taken; or
+
+(iii) the document may be required as evidence in any proceedings instituted or commenced for any of the purposes of, or in connection with, this Act.
+
+[Act 3 of 2017 wef 30/04/2018]
+
+(5) The power to require a person to furnish any document or information under subsection (4)(b) includes the power —
+
+(a) to require the person, or any person who is or was an officer or employee of that person, to provide an explanation of the document or information;
+
+(b) if the document or information is not furnished, to require the person to state, to the best of the person’s knowledge and belief, where it is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Superintendent or authorised officer in legible form.
+
+[Act 3 of 2017 wef 30/04/2018]
+
 ### Penalty
 
 16\. Any person who contravenes any of the provisions of this Act or any rules or orders made thereunder shall be guilty of an offence and shall be liable on conviction, where no special penalty is provided, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part thereof during which the offence continues after conviction.
@@ -515,3 +607,8 @@ This Legislative History is provided for the convenience of users of the Parking
 ||Date of commencement|1 April 2005|
 |12.|**2014 Revised Edition—Parking Places Act (Chapter 214)**|
 ||Date of operation|28 February 2014|
+|13.|**Act 3 of 2017—Active Mobility Act 2017**|
+||Date of First Reading|9 November 2016|
+|||(Bill No. 40/2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|30 April 2018|
