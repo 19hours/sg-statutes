@@ -218,6 +218,8 @@ Date of Commencement: 14 August 2017 Section 70(1)(a) and (c)
 
 Date of Commencement: 15 January 2018 Section 70(1)(b) and (2)
 
+Date of Commencement: 30 April 2018 Section 69(1), (2) and (4)
+
 An Act for the establishment of public paths for walking, cycling or other similar purposes, to regulate the use of these public paths, and to make consequential and related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -2035,17 +2037,9 @@ d
 
 ”;
 
-(b) by deleting the word “or” at the end of paragraph (
+(b) by deleting the word “or” at the end of paragraph (a) of the definition of “private parking place” in section 2;
 
-a
-
-) of the definition of “private parking place” in section 2;
-
-(c) by deleting the comma at the end of paragraph (
-
-b
-
-) of the definition of “private parking place” in section 2 and substituting the word “; or”, and by inserting immediately thereafter the following paragraph:
+(c) by deleting the comma at the end of paragraph (b) of the definition of “private parking place” in section 2 and substituting the word “; or”, and by inserting immediately thereafter the following paragraph:
 
 “
 
@@ -2065,11 +2059,7 @@ b
 
 “
 
-(2) The Authority must not permit any part of a road to be used as a parking place under subsection (1)(
-
-c
-
-) if —
+(2) The Authority must not permit any part of a road to be used as a parking place under subsection (1)(c) if —
 
 (a) the parking place is for the parking of personal mobility devices; or
 
@@ -2153,11 +2143,7 @@ Composition of offences
 
 (iii) the document may be required as evidence in any proceedings instituted or commenced for any of the purposes of, or in connection with, this Act.
 
-(5) The power to require a person to furnish any document or information under subsection (4)(
-
-b
-
-) includes the power —
+(5) The power to require a person to furnish any document or information under subsection (4)(b) includes the power —
 
 (a) to require the person, or any person who is or was an officer or employee of that person, to provide an explanation of the document or information;
 
