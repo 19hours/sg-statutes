@@ -322,6 +322,10 @@ PUBLIC STREETS
 
 (2) Notwithstanding subsection (1), the approval of the Minister shall not be required if the works to be carried out are confined within the existing width of any public street.
 
+(3) The exercise of any power under this Act for a purpose in subsection (1) is subject to Part 2 of the Active Mobility Act 2017 if the public street is or is to be a public path under that Act.
+
+[Act 3 of 2017 wef 01/05/2018]
+
 ### Public streets and bridges vested in Government
 
 6\. All public streets, public surface and storm water drains, public bridges, underpasses and tunnels and the road pavements and road related facilities thereon, shall be vested in the Government.
@@ -1350,6 +1354,10 @@ to remove the article or thing within such time as may be specified in the notic
 
 [6/2004 wef 08/03/2004]
 
+(13) This section does not apply in relation to any public path that is a footpath or shared path (within the meaning of the Active Mobility Act 2017) that is not on State land.
+
+[Act 3 of 2017 wef 01/05/2018]
+
 ### Wilful damage to Government’s property and hindrance of Authority’s use of such property
 
 33\. If any person —
@@ -1618,30 +1626,33 @@ Street Works Act
 |2.|**1996 Revised Edition—Street Works Act**|
 ||(G.N. No. S 92/1997 — Rectification Order)||
 ||Date of operation|30 April 1996|
-|3.|**G. N. No. S 92/1997—Revised Edition of the Laws (Rectification) Order 1997**|
-||Date of commencement|30 April 1996|
-|4.|**Act 3 of 1998—Planning Act 1998**|
+|3.|**Act 3 of 1998—Planning Act 1998**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|19 November 1997|
 |||(Bill No. 18/1997 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|1 April 1998|
-|5.|**Act 11 of 2003—Street Works (Amendment) Act 2003**|
+|4.|**Act 11 of 2003—Street Works (Amendment) Act 2003**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|24 April 2003|
 |||(Bill No. 9/2003 published on 25 April 2003)|
 ||Date of Second and Third Readings|30 June 2003|
 ||Date of commencement|1 August 2003|
-|6.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
+|5.|**Act 6 of 2004—Statutes (Miscellaneous Amendments) Act 2004**|
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 4/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|8 March 2004|
-|7.|**Act 12 of 2015—Land Acquisition (Amendment) Act 2015**|
+|6.|**Act 12 of 2015—Land Acquisition (Amendment) Act 2015**|
 ||Date of First Reading|12 February 2015 (Bill No. 7/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
-|8.|**Act 3 of 2017—Active Mobility Act 2017**|
+|7.|**Act 3 of 2017—Active Mobility Act 2017**|
 ||Date of First Reading|9 November 2016 (Bill No. 40/2016 published on 9 November 2016)|
 ||Date of Second and Third Readings|10 January 2017|
 ||Date of commencement|20 June 2017|
+|8.|**Act 3 of 2017—Active Mobility Act 2017**|
+||Date of First Reading|9 November 2016|
+|||(Bill No. 40/2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|1 May 2018|
