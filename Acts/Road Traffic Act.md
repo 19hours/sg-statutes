@@ -290,6 +290,8 @@
 
 - [95A Power to immobilise or seize and detain vehicle belonging to person against whom warrant of arrest is in force](#Power-to-immobilise-or-seize-and-detain-vehicle-belonging-to-person-against-whom-warrant-of-arrest-is-in-force)
 
+- [95B Forfeiture by Authority of seized non‑compliant power‑assisted bicycles, etc.](#Forfeiture-by-Authority-of-seized-non‑compliant-power‑assisted-bicycles-etc)
+
 - [96 Taking of motor vehicle without owner’s consent](#Taking-of-motor-vehicle-without-owner’s-consent)
 
 - [97 Restriction on persons taking hold of motor vehicle in motion](#Restriction-on-persons-taking-hold-of-motor-vehicle-in-motion)
@@ -2187,6 +2189,14 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 (da) to require any person to whom any vehicle is sold or disposed of or any person who sold or disposed of any vehicle to furnish such particulars of the sale or disposal as the Registrar may require;
 
 [4/2006 wef 27/02/2006]
+
+(db) to require any person who is, in the course of business, selling or supplying, or offering or exposing for sale or supply, by retail, any vehicle on any premises or place —
+
+(i) to display warning notices about prescribed vehicles or trailers which do not comply with the rules made under section 6 as to construction, weight and equipment applicable to the class or description of vehicles to which that vehicle or trailer belongs; or
+
+(ii) to display in a prescribed manner or not to display such vehicles or trailers mentioned in sub‑paragraph (i), or advertisements about such vehicles or trailers, at the premises or place;
+
+[Act 3 of 2017 wef 01/05/2018]
 
 (e) to prescribe the form of, and the particulars to be included in, the register with respect to vehicles for which a general licence has been taken out by a manufacturer, repairer or dealer and the identification marks to be carried by any such vehicle and to define the purposes for which the holder of a general licence may use a vehicle under such general licence;
 
@@ -4452,6 +4462,56 @@ and the surplus, if any, shall be paid to the person in whose name the vehicle i
 
 [Act 10 of 2017 wef 20/06/2017]
 
+### Forfeiture by Authority of seized non‑compliant power‑assisted bicycles, etc.
+
+95B\.—(1) Without affecting section 95 or 95A, an order for the forfeiture, or an order for the release of a vehicle liable to forfeiture, under this section may be made by the Authority if it is satisfied that —
+
+(a) the vehicle is a non‑compliant power‑assisted bicycle or a non‑compliant personal mobility device;
+
+(b) an offence under section 5, 5A, 5B or 10 or any rules made under section 6 has been committed and that the non‑compliant power‑assisted bicycle or the non‑compliant personal mobility device was the subject matter, or was used in the commission, of the offence; and
+
+(c) a person is convicted of the offence, or a person reasonably suspected of having committed the offence has that offence compounded under section 135.
+
+(2) If there is no prosecution with regard to an offence under section 5, 5A, 5B or 10 or any rules made under section 6, a vehicle seized under section 95 or 95A may be forfeited by the Authority at the end of 30 days after the date of the seizure —
+
+(a) if the vehicle is a non‑compliant power‑assisted bicycle or a non‑compliant personal mobility device; and
+
+(b) if no claim to the non‑compliant power‑assisted bicycle or the non‑compliant personal mobility device is made in the prescribed manner to the Authority before the end of that period.
+
+(3) Upon receipt of a claim mentioned in subsection (2)(b), the Authority may direct that the non‑compliant power‑assisted bicycle or non‑compliant personal mobility device be released or may refer the matter by information to a Magistrate.
+
+(4) The Magistrate must, on receipt of an information under subsection (3), or on the written application of the Public Prosecutor, hold an inquiry and proceed to determine the matter, and —
+
+(a) must order the non‑compliant power‑assisted bicycle or the non‑compliant personal mobility device, as the case may be, to be forfeited on proof that the non‑compliant power‑assisted bicycle or the non‑compliant personal mobility device was used in the commission of an offence under section 5, 5A, 5B or 10 or any rules made under section 6; or
+
+(b) may, in the absence of such proof, order the release of the non‑compliant power‑assisted bicycle or the non‑compliant personal mobility device, as the case may be.
+
+(5) In any proceedings under subsection (4), the burden of proof lies on the person asserting that the person is the owner of the non‑compliant power‑assisted bicycle or the non‑compliant personal mobility device concerned, and on the person from whom the non‑compliant power‑assisted bicycle or the non‑compliant personal mobility device was seized, as the case may be.
+
+(6) In any proceedings in any court under subsection (4) in respect of the forfeiture of any vehicle seized in the exercise or the purported exercise of any power conferred under section 95 or 95A, no person is entitled to the costs of the proceedings or to any damages or other relief except an order for the return of the vehicle, unless the seizure was made without reasonable or probable cause.
+
+(7) Where any non‑compliant power‑assisted bicycle or non‑compliant personal mobility device is forfeited by the Authority under this section, the Authority may, after giving one month’s notice in theGazetteof the Authority’s intention to do so —
+
+(a) sell by public auction or tender the non‑compliant power‑assisted bicycle or non‑compliant personal mobility device and any uncollected item left in or on it; and a purchaser of any vehicle, article, item or thing sold in accordance with this paragraph acquires good title to that vehicle, article, item or thing; or
+
+(b) destroy or otherwise dispose of the non‑compliant power‑assisted bicycle or non‑compliant personal mobility device, article, item or thing (as the case may be).
+
+(8) The proceeds of a sale by public auction or tender of any vehicle, article, item or thing under subsection (7) must be applied as follows:
+
+(a) firstly, in payment of the expenses occasioned by the sale;
+
+(b) secondly, in payment of storage or other expenses incurred by the Authority in relation to the vehicle, article, item or thing;
+
+(c) thirdly, by payment of the balance into the Consolidated Fund.
+
+(9) In this section —
+
+“non‑compliant personal mobility device” means a personal mobility device the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed under the Active Mobility Act 2017 either for all personal mobility devices generally or for the particular type of that personal mobility device;
+
+“non‑compliant power‑assisted bicycle” means a power‑assisted bicycle the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed under section 6 or the rules made under that section either for all power‑assisted bicycles generally or for the particular type of that power‑assisted bicycle.
+
+[Act 10 of 2017 wef 01/05/2018]
+
 ### Taking of motor vehicle without owner’s consent
 
 96\.—(1) Every person who takes and drives away any motor vehicle without having either the consent of the owner thereof or other lawful authority shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months.
@@ -5638,9 +5698,11 @@ and the surplus, if any, shall be paid to the owner of the vehicle or, if not cl
 
 “expressway” means any road which is prescribed by the Minister by order published in theGazetteto be an expressway for the purposes of this section;
 
-“parking charges” means the charges which are prescribed under section 9 of the Parking Places Act (Cap. 214) as being payable by the owner of a vehicle for the use of any parking place.
+“parking charges” means the charges which are fixed or deemed fixed under section 9 of the Parking Places Act (Cap. 214) as being payable by the owner of a vehicle for the use of any parking place.
 
 [28/2001]
+
+[Act 38 of 2018 wef 01/05/2018]
 
 ### Provisions with respect to stretching of ropes, etc., across roads
 
@@ -6914,6 +6976,20 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 40/2016 published on 9 November 2016)|
 ||Date of Second and Third Readings|10 January 2017|
 ||Date of commencement|15 January 2018|
+|80.|**Act 3 of 2017—Active Mobility Act 2017**|
+||Date of First Reading|9 November 2016|
+|||(Bill No. 40/2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|1 May 2018|
+|81.|**Act 10 of 2017—Road Traffic (Amendment) Act 2017**|
+||Date of First Reading|10 January 2017|
+|||(Bill No. 5/2017 published on 10 January 2017)|
+||Date of Second and Third Readings|7 February 2017|
+||Date of commencement|1 May 2018|
+|82.|**Act 38 of 2018—Land Transport (Enforcement Measures) Act 2018**|
+||Date of First Reading|6 August 2018 (Bill No. 29/2018 published on 6 August 2018)|
+||Date of Second and Third Readings|10 September 2018|
+||Date of commencement|1 May 2018|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
