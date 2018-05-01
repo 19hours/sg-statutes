@@ -220,6 +220,8 @@ Date of Commencement: 15 January 2018 Section 70(1)(b) and (2)
 
 Date of Commencement: 30 April 2018 Section 69(1), (2) and (4)
 
+Date of Commencement: 1 May 2018 Sections 2 to 67, 68(d) to (h), 70(3), 71(d) and (f) and 72
+
 An Act for the establishment of public paths for walking, cycling or other similar purposes, to regulate the use of these public paths, and to make consequential and related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -1987,23 +1989,11 @@ TO OTHER ACTS
 
 (c) by inserting, immediately after the words “any written law specified in the Fifth Schedule” in section 40(1), the words “, being a written law administered by the Authority,”;
 
-(d) by inserting the word “and” at the end of paragraph 17(
+(d) by inserting the word “and” at the end of paragraph 17(b) of the Second Schedule;
 
-b
+(e) by deleting the word “; and” at the end of paragraph 17(c) of the Second Schedule and substituting a full‑stop;
 
-) of the Second Schedule;
-
-(e) by deleting the word “; and” at the end of paragraph 17(
-
-c
-
-) of the Second Schedule and substituting a full‑stop;
-
-(f) by deleting sub‑paragraph (
-
-d
-
-) of paragraph 17 of the Second Schedule;
+(f) by deleting sub‑paragraph (d) of paragraph 17 of the Second Schedule;
 
 (g) by inserting, immediately after paragraph 23 of the Second Schedule, the following paragraph:
 
@@ -2103,25 +2093,7 @@ the Superintendent may, by notice, require the owner or the occupier of the land
 
 ”.
 
-(3) Section 12 of the Parking Places Act is repealed and the following section substituted therefor:
-
-“
-
-Composition of offences
-
-12\.—(1) The Superintendent, or an employee of the Authority authorised in writing by the Authority, may compound any offence under this Act that is prescribed under subsection (4) as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
-
-(a) one half of the amount of the maximum fine that is prescribed for the offence;
-
-(b) $2,000.
-
-(2) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
-
-(3) All sums collected under this section are to be paid into the Consolidated Fund.
-
-(4) The Minister may make rules to prescribe the offences under this Act or any subsidiary legislation made thereunder as offences that may be compounded under this section.
-
-”.
+(3) [Deleted by Act 24 of 2018 wef 01/05/2018]
 
 (4) Section 15B of the Parking Places Act is amended by inserting, immediately after subsection (3), the following subsections:
 
@@ -2249,11 +2221,7 @@ No riding of personal mobility devices on roads
 
 ”.
 
-(3) Section 34(1) of the Road Traffic Act is amended by inserting, immediately after paragraph (
-
-da
-
-), the following paragraph:
+(3) Section 34(1) of the Road Traffic Act is amended by inserting, immediately after paragraph (da), the following paragraph:
 
 “
 
