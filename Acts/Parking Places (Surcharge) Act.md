@@ -102,7 +102,9 @@ An Act to provide for the imposition of surcharge on parking places.
 
 ### Non-application
 
-8\.—(1) The provisions of this Act and of the Parking Places Act (Cap. 214) shall not apply to private parking places used exclusively in connection with any private dwelling-house for the housing or parking of vehicles kept for private use only.
+8\.—(1) The provisions of this Act shall not apply to private parking places used exclusively in connection with any private dwelling-house for the housing or parking of vehicles kept for private use only.
+
+[Act 24 of 2018 wef 01/05/2018]
 
 (2) For the purposes of this section, “dwelling-house” means any building or tenement, or any part thereof, which is used, constructed or adapted for use for human habitation.
 
@@ -125,10 +127,16 @@ This Legislative History is provided for the convenience of users of the Parking
 |||(Bill No. 29/75 published on 1 August 1975)|
 ||Date of Second and Third Readings|19 August 1975|
 ||Date of commencement|15 October 1975|
-|2.|**1993 Revised Edition—Parking Places (Surcharge) Act (Chapter 215)**|
+|2.|**1985 Revised Edition—Parking Places (Surcharge) Act**|
+||Date of operation|30 March 1987|
+|3.|**1993 Revised Edition—Parking Places (Surcharge) Act (Chapter 215)**|
 ||Date of operation|15 March 1993|
-|3.|**2014 Revised Edition—Parking Places (Surcharge) Act (Chapter 215)**|
+|4.|**2014 Revised Edition—Parking Places (Surcharge) Act (Chapter 215)**|
 ||Date of operation|30 April 2014|
+|5.|**Act 24 of 2018—Parking Places (Amendment) Act 2018**|
+||Date of First Reading|5 March 2018 (Bill No. 18/2018 published on 5 March 2018)|
+||Date of Second and Third Readings|20 March 2018|
+||Date of commencement|1 May 2018|
 ## COMPARATIVE TABLE
 
 Parking Places (Surcharge) Act
