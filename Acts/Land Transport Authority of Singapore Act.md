@@ -1328,11 +1328,15 @@ under the Parking Places Act [Cap. 214].
 
 (a) under the Rapid Transit Systems Act [Cap. 263A];
 
-(b) by the Registrar or any duly authorised employee of the Authority under the Road Traffic Act;
+(b) by the Registrar or any duly authorised employee of the Authority under the Road Traffic Act; and
 
-(c) under the Street Works Act [Cap. 320A]; and
+[Act 3 of 2017 wef 01/05/2018]
 
-(d) under the Parking Places Act [Cap. 214].
+(c) under the Street Works Act [Cap. 320A].
+
+[Act 3 of 2017 wef 01/05/2018]
+
+(d) [Deleted by Act 3 of 2017 wef 01/05/2018]
 
 18. All fines for offences under this Act and any written law specified in Part I of the Fifth Schedule.
 
@@ -1353,6 +1357,10 @@ under the Parking Places Act [Cap. 214].
 23. All fees prescribed under section 111J of the Road Traffic Act (Cap. 276).
 
 [Act 17 of 2015 wef 01/09/2015]
+
+24. All fees payable under the Active Mobility Act 2017.
+
+[Act 3 of 2017 wef 01/05/2018]
 
 THIRD SCHEDULE
 
@@ -1590,7 +1598,7 @@ Part I
 
 2\. Section 3 of the Motor Vehicles (Third-Party Risks and Compensation) Act (Cap. 189) and rules 9 and 10 of the Motor Vehicles (Third-Party Risks and Compensation) Rules (Cap. 189, R 1).
 
-3\. All provisions of the Parking Places Act [Cap. 214] and any subsidiary legislation made thereunder.
+3. [Deleted by Act 3 of 2017 wef 01/05/2018]
 
 4\. All provisions of the Rapid Transit Systems Act [Cap. 263A] and any subsidiary legislation made thereunder.
 
@@ -1641,6 +1649,14 @@ Part II
 3. Sections 11 and 22 of the Bus Services Industry Act 2015 (Act 30 of 2015).
 
 [S 151/2016 wef 04/04/2016]
+
+4. All provisions of the Active Mobility Act 2017 and its subsidiary legislation.
+
+[Act 24 of 2018 wef 01/05/2018]
+
+5. All provisions of the Parking Places Act (Cap. 214) and any subsidiary legislation made under that Act.
+
+[Act 24 of 2018 wef 01/05/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -1771,3 +1787,13 @@ This Legislative History is provided for the convenience of users of the Land Tr
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|31.|**Act 3 of 2017—Active Mobility Act 2017**|
+||Date of First Reading|9 November 2016|
+|||(Bill No. 40/2016)|
+||Date of Second and Third Readings|10 January 2017|
+||Date of commencement|1 May 2018|
+|32.|**Act 24 of 2018—Parking Places (Amendment) Act 2018**|
+||Date of First Reading|5 March 2018|
+|||(Bill No. 18/2018)|
+||Date of Second and Third Readings|20 March 2018|
+||Date of commencement|1 May 2018|
