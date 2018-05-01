@@ -44,7 +44,7 @@
 
 - [16 Powers in relation to vessels, aircraft and vehicles](#Powers-in-relation-to-vessels-aircraft-and-vehicles)
 
-- [17 Examination of packages](#Examination-of-packages)
+- [17 Examination of packages, etc.](#Examination-of-packages-etc)
 
 - [18 Powers in relation to examination of goods](#Powers-in-relation-to-examination-of-goods)
 
@@ -174,7 +174,7 @@ PRELIMINARY
 
 “goods” means any movable or personal property whatsoever but does not include choses in action and money (except for a collector’s piece, an investment article or item of numismatic interest and currency notes imported or exported in substantial quantities);
 
-“goods in transit” includes goods imported from a place outside Singapore for the sole purpose of conveyance through Singapore to any place outside Singapore;
+[Deleted by Act 16 of 2018 wef 01/05/2018]
 
 “import”, with its grammatical variations and cognate expressions, means to bring or cause to be brought into Singapore by land, water or air from any place which is outside Singapore but does not include the bringing into Singapore of goods which are to be taken out of Singapore on the same conveyance on which they were brought into Singapore without any landing or transhipment within Singapore;
 
@@ -189,6 +189,10 @@ PRELIMINARY
 “registered user” means a person who has been registered with and authorised by the Director-General to gain access to and use the computer service referred to in section 8;
 
 [6/2003 wef 01/04/2003]
+
+“relevant decision of the United Nations Security Council” means any decision of the United Nations Security Council in resolutions made under Chapter VII of the Charter of the United Nations signed at San Francisco on 26 June 1945;
+
+[Act 16 of 2018 wef 01/05/2018]
 
 “senior authorised officer” means —
 
@@ -208,7 +212,13 @@ PRELIMINARY
 
 “shipped as ships’ stores”, with its grammatical variations and cognate expressions, means loaded for use as stores on a voyage or flight to or from a destination outside Singapore or as merchandise for sale by retail to persons carried on such voyage or flight in a ship or an aircraft;
 
-“tranship” means to remove goods from one conveyance to another for the purpose of export;
+“tranship” means to remove goods from one conveyance to another for the purpose of taking them out of Singapore;
+
+[Act 16 of 2018 wef 01/05/2018]
+
+“transit” means to bring goods into Singapore from a place outside Singapore for the purpose of taking them out of Singapore on the same conveyance on which they were brought into Singapore;
+
+[Act 16 of 2018 wef 01/05/2018]
 
 “vehicle” includes any vehicle in which persons or goods can be carried by land however drawn or propelled or set or kept in motion;
 
@@ -547,31 +557,69 @@ shall be sufficient evidence that the electronic notice or the copy thereof has 
 
 (5) If any vessel or aircraft fails to comply with any lawful requisition or direction given or made under this section, a senior authorised officer may take all such steps as appear to him necessary to secure such compliance.
 
-(6) Where any goods are found concealed or in respect of which any document which ought to be produced is not produced in any vessel or aircraft or which are not shown on any manifest or list required to be produced being goods the import, export, carriage coastwise, shipment as ships’ stores, carriage as aircraft stores or transhipment of which is prohibited, either absolutely or conditionally by any regulations made under section 3, the goods may be seized by an authorised officer and shall be liable to forfeiture in the same manner as if an offence had been committed in respect thereof.
+(6) Where any goods are found concealed, or in respect of which any document which ought to be produced is not produced, in any vessel or aircraft or which are not shown on any manifest or list required to be produced, being goods —
+
+(a) the import, export, carriage coastwise, shipment as ships’ stores, carriage as aircraft stores or transhipment of which is prohibited, either absolutely or conditionally by any regulations made under section 3; or
+
+(b) the transit through Singapore of which —
+
+(i) a requirement to inspect goods on board the vessel or aircraft is imposed pursuant to any written law giving effect to any relevant decision of the United Nations Security Council; and
+
+(ii) is prohibited, either absolutely or conditionally by any regulations made under section 3,
+
+the goods may be seized by an authorised officer and shall be liable to forfeiture in the same manner as if an offence had been committed in respect of the goods.
+
+[Act 16 of 2018 wef 01/05/2018]
 
 (7) Any person who contravenes this section or who fails to comply with any lawful requisition or direction given or made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(8) An officer shall exercise the powers conferred by this section in respect of a vessel under way if he reasonably suspects that it is not in transit through Singapore or that any goods on board the vessel are intended to be landed or transhipped in Singapore.
+(8) An authorised officer may exercise the powers conferred by this section in respect of a vessel underway if —
 
-### Examination of packages
+(a) the authorised officer reasonably suspects that any goods on board the vessel are intended to be landed or transhipped in Singapore; or
 
-17\.—(1) Any package, box, chest or other article in regard to which a reasonable suspicion exists that it is being, or is about to be, or has recently been, imported, exported, carried coastwise, shipped as ships’ stores, carried as aircraft stores or transhipped in contravention of the provisions of any regulations made under section 3, and which is in Singapore —
+(b) the goods on board the vessel are in transit through Singapore and a requirement to inspect goods on board the vessel is imposed pursuant to any written law giving effect to any relevant decision of the United Nations Security Council.
 
-(a) may be examined and searched by any authorised officer and may be detained until any person in charge thereof has opened it for examination and search;
+[Act 16 of 2018 wef 01/05/2018]
 
-(b) may be forcibly opened by, or by order of, a senior authorised officer to facilitate the examination and search except that any person in charge of the package, box, chest or other article shall be afforded every reasonable facility for being present at the opening, examination and search; or
+### Examination of packages, etc.
+
+17\.—(1) Where any package, box, chest or other article is in Singapore and —
+
+(a) a reasonable suspicion exists that it is being, or is about to be, or has recently been imported, exported, carried coastwise, shipped as ships’ stores, carried as aircraft stores or transhipped in contravention of the provisions of any regulations made under section 3; or
+
+(b) is in transit through Singapore on board a vessel and a requirement to inspect goods on board the vessel is imposed pursuant to any written law giving effect to any relevant decision of the United Nations Security Council,
+
+the enforcement powers mentioned in subsection (2) may be exercised by the person conferred those powers under that subsection in relation to the package, box, chest or other article.
+
+(2) Any package, box, chest or other article mentioned in subsection (1) —
+
+(a) may be examined and searched by any authorised officer and may be detained until any person in charge of the package, box, chest or other article has opened it for examination and search;
+
+(b) may be forcibly opened by, or by order of, a senior authorised officer to facilitate the examination and search except that any person in charge of the package, box, chest or other article is to be afforded every reasonable facility for being present at the opening, examination and search; or
 
 (c) may be marked, locked, sealed or otherwise secured by any authorised officer pending examination and search.
 
-(2) Any person who removes, opens, breaks or tampers with any lock, seal or other means of securing any package, box, chest or other article, being a person not lawfully employed in accordance with subsection (1), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
+(3) Any person (not being an authorised officer) who removes, opens, breaks or tampers with any lock, seal or other means of securing any package, box, chest or other article shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 16 of 2018 wef 01/05/2018]
 
 ### Powers in relation to examination of goods
 
-18\. If any goods in respect of which there is reason to believe that they are being, or are about to be, or have recently been, imported, exported, carried coastwise, shipped as ships’ stores, carried as aircraft stores or transhipped in contravention of any regulations made under section 3, are found in Singapore —
+18\.—(1) If any goods are found in Singapore and —
 
-(a) any authorised officer may examine the goods; and
+(a) there is reason to believe that the goods are being, or are about to be, or have recently been imported, exported, carried coastwise, shipped as ships’ stores, carried as aircraft stores or transhipped in contravention of the provisions of any regulations made under section 3; or
 
-(b) any senior authorised officer may take samples of the goods and may submit the goods or samples, or cause them to be submitted, to such tests or analysis as he may think fit.
+(b) are in transit through Singapore on board a vessel and a requirement to inspect goods on board the vessel is imposed pursuant to any written law giving effect to any relevant decision of the United Nations Security Council,
+
+the enforcement powers mentioned in subsection (2) may be exercised by the person conferred those powers under that subsection in relation to those goods.
+
+(2) Any —
+
+(a) authorised officer may examine any goods mentioned in subsection (1); and
+
+(b) senior authorised officer may take samples of any goods mentioned in subsection (1) and may submit the goods or samples, or cause them to be submitted, to such tests or analysis as the senior authorised officer may think fit.
+
+[Act 16 of 2018 wef 01/05/2018]
 
 ### Power to remove packages and goods to police station or examination station
 
@@ -753,9 +801,17 @@ the purpose or effect of which is to avoid, evade, defeat or reduce any prohibit
 
 ### General powers to call for information as to goods
 
-30\.—(1) The Director-General may require any person by or on whose behalf goods have been, or are in the course of being, or are about to be, imported, exported, carried coastwise, shipped as ships’ stores, carried as aircraft stores, or transhipped, or any person who is or has been concerned or interested in those goods or in their importation, exportation, carriage coastwise, shipment as ships’ stores, carriage as aircraft stores or transhipment, to produce such documents and furnish such information as the Director-General may consider necessary for the effective exercise of his powers and performance of his duties under this Act or any regulations made thereunder.
+30\.—(1) The Director-General may require the following persons to produce any document and furnish any information the Director‑General considers necessary for the effective exercise of the Director‑General’s powers and performance of the Director‑General’s duties under this Act or the regulations made under this Act:
 
-[6/2003 wef 01/04/2003]
+(a) any person by or on whose behalf goods have been, or are in the course of being, or are about to be —
+
+(i) imported, exported, carried coastwise, shipped as ships’ stores, carried as aircraft stores, or transhipped; or
+
+(ii) brought in transit through Singapore on board a vessel and a requirement to inspect goods on board the vessel is imposed pursuant to any written law giving effect to any relevant decision of the United Nations Security Council;
+
+(b) any person who is or has been concerned or interested in those goods or in their import, export, carriage coastwise, shipment as ships’ stores, carriage as aircraft stores, transhipment, or transit through Singapore.
+
+[Act 16 of 2018 wef 01/05/2018]
 
 (2) Any such requisition under subsection (1) may be made verbally or in writing or by an electronic notice served on the person to whom it is addressed.
 
@@ -1069,3 +1125,7 @@ This Legislative History is provided for the convenience of users of the Regulat
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
+|12.|**Act 16 of 2018—Regulation of Imports and Exports (Amendment) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 9/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|1 May 2018|
