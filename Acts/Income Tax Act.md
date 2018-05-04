@@ -4266,7 +4266,13 @@ is the percentage which the value of equity interests of the second level entity
 
 (a) issued debentures of, or issued stocks or shares in, the company;
 
-(b) any right, option or derivative in respect of any such debentures, stocks or shares; or
+(b) any right, option or derivative in respect of any such debentures, stocks or shares;
+
+[Act 45 of 2018 wef 04/05/2018]
+
+(ba) any other instrument that confers or represents a legal or beneficial ownership interest in the company; or
+
+[Act 45 of 2018 wef 04/05/2018]
 
 (c) such other securities of the company as may be prescribed;
 
@@ -20232,7 +20238,7 @@ except that the Minister may extend the period so specified for such further per
 
 [Act 37 of 2014 wef 27/11/2014]
 
-[Act 45 o45.f 2018 wef 01/04/2018]
+[Act 45 of 2018 wef 01/04/2018]
 
 (5) In this section —
 
@@ -26743,6 +26749,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||26 October 2017|
 |||20 February 2018|
 |||1 April 2018|
+|||4 May 2018|
 ## COMPARATIVE TABLE
 
 Income Tax Act
