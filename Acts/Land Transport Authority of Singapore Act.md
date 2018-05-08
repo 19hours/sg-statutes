@@ -338,7 +338,9 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (ii) the surcharge imposed under the Parking Places (Surcharge) Act [Cap. 215];
 
-(iii) the charge imposed pursuant to the Parking Places Act [Cap. 214] for the waiver of requirements imposed by or under that Act in relation to car parks;
+(iii) the deficiency charge imposed under the Parking Places Act (Cap. 214) for the waiver of requirements under that Act in relation to private parking places;
+
+[Act 24 of 2018 wef 08/05/2018]
 
 (iv) the proposed sums of successful bids for particular index marks and registration numbers for any type or category of vehicle;
 
@@ -1222,7 +1224,7 @@ Disqualification from membership
 
 (b) has been sentenced to imprisonment for a term of 6 months or more and has not received a free pardon.
 
-10. [Deleted by Act 5 of 2018 wef 01/04/2018 wef 01/04/2018]
+10. [Deleted by Act 5 of 2018 wef 01/04/2018 wef 01/04/2018 wef 01/04/2018]
 
 Salaries, etc., payable to members of Authority
 
@@ -1264,13 +1266,15 @@ Section 12(1)(a).
 
 Revenue of Land Transport Revenue Account
 
-1. All fees for the grant, issue, renewal or replacement of —
+1\. All fees imposed under the Parking Places Act (Cap. 214) for —
 
-(a) a licence to maintain or operate a private parking place; and
+1.
 
-(b) a vehicle parking certificate,
+(a) the application for the grant or renewal of a licence or vehicle parking certificate under that Act; or
 
-under the Parking Places Act [Cap. 214].
+(b) the grant or renewal of a licence or vehicle parking certificate under that Act.
+
+[Act 24 of 2018 wef 08/05/2018]
 
 2\. All fees for the grant, issue or renewal of a licence to operate the railway or any part thereof under the Rapid Transit Systems Act [Cap. 263A].
 
@@ -1322,7 +1326,15 @@ under the Parking Places Act [Cap. 214].
 
 15\. All fees for the grant of an exemption under section 142 of the Road Traffic Act [Cap. 276].
 
-16\. All security deposits for the issue of a general licence forfeited under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules [Cap. 276, R 5].
+16\. All performance bonds, guarantees or security deposits furnished and forfeited in connection with any of the following:
+
+16.
+
+(a) a general licence issued under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5);
+
+(b) a licence under Part 3 of the Parking Places Act.
+
+[Act 24 of 2018 wef 08/05/2018]
 
 17. All composition sums collected —
 
@@ -1364,7 +1376,7 @@ under the Parking Places Act [Cap. 214].
 
 THIRD SCHEDULE
 
-[Deleted by Act 5 of 2018 wef 01/04/2018 wef 01/04/2018]
+[Deleted by Act 5 of 2018 wef 01/04/2018 wef 01/04/2018 wef 01/04/2018]
 
 FOURTH SCHEDULE
 
@@ -1797,3 +1809,8 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 18/2018)|
 ||Date of Second and Third Readings|20 March 2018|
 ||Date of commencement|1 May 2018|
+|33.|**Act 24 of 2018—Parking Places (Amendment) Act 2018**|
+||Date of First Reading|5 March 2018|
+|||(Bill No. 18/2018)|
+||Date of Second and Third Readings|20 March 2018|
+||Date of commencement|8 May 2018|
