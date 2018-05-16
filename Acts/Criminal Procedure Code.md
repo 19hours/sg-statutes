@@ -13952,7 +13952,9 @@ Public Entertainments Act (Cap. 257)
 
 20. 
 
-Public Order (Preservation) Act (Cap. 258)
+Public Order and Safety (Special Powers) Act 2018
+
+[Act 26 of 2018 wef 16/05/2018]
 
 21. 
 
@@ -17284,3 +17286,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|15 August 2016|
 ||Date of commencement|1 October 2017|
+|23.|**Act 26 of 2018—Public Order and Safety (Special Powers) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|16 May 2018|
