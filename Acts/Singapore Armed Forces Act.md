@@ -4074,19 +4074,41 @@ AID TO CIVILIAN AUTHORITIES
 
 [28/2009 wef 01/04/2010]
 
-(b) regulate, restrict, control or prohibit the use of any public road or public place;
+(b) regulate, restrict, control or prohibit the use of any public road or public place, where and to the extent that similar powers are not exercisable under paragraph (f) by a serviceman;
 
-(c) erect or place barriers in or across any public road or street or in any public place and take all reasonable steps to prevent any vehicle being driven or ridden past any such barrier;
+[Act 26 of 2018 wef 16/05/2018]
 
-(d) arrest, without warrant, any driver or rider of any vehicle who fails to comply with the signal of a police officer or serviceman requiring such person to stop the vehicle before reaching the barrier erected or placed under paragraph (c);
+(c) erect or place barriers in or across any public road or street or in any public place and take all reasonable steps to prevent any vehicle being driven or ridden past any such barrier, where and to the extent that similar powers are not exercisable under paragraph (f) by a serviceman;
 
-(e) stop and search any person or vehicle, or enter and search any premises, if the serviceman has reasonable grounds for believing that any evidence of the commission or of the preparation for the commission of an offence under the Arms and Explosives Act (Cap. 13), the Arms Offences Act (Cap. 14) or the Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65) is likely to be found on such person or premises or in such vehicle, and may ––
+[Act 26 of 2018 wef 16/05/2018]
+
+(d) arrest, without warrant, any driver or rider of any vehicle who fails to comply with the signal of a police officer or serviceman requiring such person to stop the vehicle before reaching the barrier erected or placed under paragraph (c), where and to the extent that similar powers are not exercisable under paragraph (f) by a serviceman;
+
+[Act 26 of 2018 wef 16/05/2018]
+
+(e) where and to the extent that similar powers are not exercisable under paragraph (f) by a serviceman, stop and search any person or vehicle, or enter and search any premises, if the serviceman has reasonable grounds for believing that any evidence of the commission or of the preparation for the commission of an offence under the Arms and Explosives Act (Cap. 13), the Arms Offences Act (Cap. 14) or the Corrosive and Explosive Substances and Offensive Weapons Act (Cap. 65) is likely to be found on such person or premises or in such vehicle, and may ––
 
 (i) disarm any such person;
 
 (ii) seize any such evidence so found, any weapon, explosive or other dangerous device or substance and any article or material or accumulation thereof capable of being used for causing hurt if he has reasonable grounds for believing that it is intended or likely to be used for the purpose of causing hurt; and
 
-(iii) seize any vehicle in which that evidence, weapon, explosive, dangerous device or substance, article or material is found.
+(iii) seize any vehicle in which that evidence, weapon, explosive, dangerous device or substance, article or material is found;
+
+[Act 26 of 2018 wef 16/05/2018]
+
+[Act 26 of 2018 wef 16/05/2018]
+
+(f) exercise any of the powers conferred on a police officer under any provision in Part 4 (except sections 17 and 24), or section 31 or 48, of the Public Order and Safety (Special Powers) Act 2018 as if references in that provision to a police officer were references to a serviceman, but only —
+
+(i) when an activation order is made and in effect under that Act in respect of a relevant event;
+
+(ii) to the extent as requested by the Commissioner of Police;
+
+(iii) after a police officer gives an order or a direction under section 19(1) or 21(1) of that Act, if the power under that provision is so requested; and
+
+(iv) within a target area within the meaning given by that Act unless it is a power in section 28 or 31 of that Act.
+
+[Act 26 of 2018 wef 16/05/2018]
 
 (10) In this section, “relevant event” means ––
 
@@ -4103,6 +4125,14 @@ AID TO CIVILIAN AUTHORITIES
 (f) such other event as the Prime Minister may, by notification in theGazette, specify.
 
 [25/2007 wef 01/08/2007]
+
+(11) A reference in subsection (9) to similar powers exercisable under paragraph (f) is a reference to the following powers described in the Public Order and Safety (Special Powers) Act 2018:
+
+(a) the powers conferred on a police officer under sections 16, 18, 19 and 20 of that Act, where subsection (9)(b), (c) or (d), as the case may be, is concerned;
+
+(b) the powers conferred on a police officer under sections 16, 22, 23, 25 and 26 of that Act, where subsection (9)(e) is concerned.
+
+[Act 26 of 2018 wef 16/05/2018]
 
 ### Powers of Singapore Armed Forces in vicinity of protected area or place
 
@@ -4148,7 +4178,13 @@ AID TO CIVILIAN AUTHORITIES
 
 (i) protect the life of, or to prevent serious injury to, another person (including himself); or
 
-(ii) protect infrastructure specified in an order made under section 201C(1) against damage or disruption to its operation; or
+(ii) protect infrastructure specified in an order made under section 201C(1) against damage or disruption to its operation;
+
+[Act 26 of 2018 wef 16/05/2018]
+
+(aa) do anything likely to cause the death of, or grievous hurt to, the person in exercising any power under section 201C(9)(f) unless the serviceman would have been authorised by the Public Order and Safety (Special Powers) Act 2018 to do so if he were a police officer acting in accordance with that Act; or
+
+[Act 26 of 2018 wef 16/05/2018]
 
 (b) subject the person to greater indignity than is reasonable and necessary in the circumstances.
 
@@ -4184,9 +4220,11 @@ AID TO CIVILIAN AUTHORITIES
 
 ### Obstruction of exercise of powers
 
-201H\. Any person who obstructs or resists, or fails to comply with any order of, a serviceman acting in the exercise of his powers under this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
+201H\. Any person who obstructs or resists, or fails to comply with any order of, a serviceman acting in the exercise of his powers under this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [25/2007 wef 01/08/2007]
+
+[Act 26 of 2018 wef 16/05/2018]
 
 ### Saving
 
@@ -4815,6 +4853,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|1 August 2016|
+|27.|**Act 26 of 2018—Public Order and Safety (Special Powers) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|16 May 2018|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
