@@ -62,7 +62,9 @@ An Act to give power to restrict the use of, stop and search road vehicles and t
 
 (b) upon the overtaking of a road vehicle on any occasion on which the person driving, or in control of, the road vehicle has in accordance with subsection (1) been required to stop but has failed to do so,
 
-any police officer has reasonable grounds for suspecting that there is to be found in the vehicle any article in respect of which a scheduled offence has been or is being committed, he may search the vehicle and any person found in such vehicle.
+any police officer may search the vehicle and any person found in such vehicle if the police officer suspects on reasonable grounds that there is to be found in the vehicle any article in respect of which a scheduled offence has been or is being committed, or that the vehicle, or a person in, on or near the vehicle, is the target of a special authorisation given under the Public Order and Safety (Special Powers) Act 2018 or that the vehicle is in an area that is the target of the special authorisation.
+
+[Act 26 of 2018 wef 16/05/2018]
 
 ### Court to order forfeiture of road vehicle
 
@@ -104,17 +106,33 @@ shall order the road vehicle to be forfeited or may in the absence of such proof
 
 (b) any other person who was or should have been in control of that road vehicle shall if required as aforesaid give any information which is in his power to give and which may lead to the identification of the driver.
 
-(2) No person shall be held to be guilty of a contravention of subsection (1) if he satisfies the court —
+(1A) When a special authorisation under the Public Order and Safety (Special Powers) Act 2018 has effect and it is reasonably suspected by a police officer that a road vehicle, or a person in, on or near the vehicle, is the target of the special authorisation or that any dangerous article, offensive weapon or subversive document (within the meaning of that Act) may be found in any road vehicle or on any person found in, on or near the vehicle —
+
+(a) the owner of the road vehicle must give such information as may be required by the police officer as to the identity and the address, driving licence number and identity card number of the person who was in control of or driving the road vehicle on any specified occasion; and
+
+(b) any other person who was or should have been in control of that road vehicle must, if required by the police officer, give any information which is in the person’s power to give and which may lead to the identification of the driver.
+
+[Act 26 of 2018 wef 16/05/2018]
+
+(2) No person shall be held to be guilty of a contravention of subsection (1) or (1A) if he satisfies the court —
 
 (a) that he did not know and could not with reasonable diligence have ascertained the information required; or
 
 (b) that owing to circumstances over which he had no control, it was impossible for him to give, before the date on which he was charged with such contravention, the information required of him.
 
+[Act 26 of 2018 wef 16/05/2018]
+
 (3) Notwithstanding anything in any other written law, any information given under this section by any person charged with any offence under this Act or with any scheduled offence may be used in evidence at the hearing of the charge.
 
 ### Penalty
 
-6\. Any person who contravenes or fails to comply with the provisions of this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+6\.—(1) Any person who contravenes or fails to comply with the provisions of this Act (except section 5(1A)) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 26 of 2018 wef 16/05/2018]
+
+(2) Any person who contravenes or fails to comply with section 5(1A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 26 of 2018 wef 16/05/2018]
 
 ## THE SCHEDULE
 
@@ -204,3 +222,7 @@ This Legislative History is provided for the convenience of users of the Road Ve
 |||(Bill No. 13/2010 published on 19 July 2010)|
 ||Date of Second and Third Readings|16 August 2010|
 ||Date of commencement|21 November 2010|
+|11.|**Act 26 of 2018—Public Order and Safety (Special Powers) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|16 May 2018|
