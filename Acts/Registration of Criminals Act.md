@@ -1406,6 +1406,10 @@ Public Order (Preservation) Act [Cap. 258]
 
 The whole.
 
+Public Order and Safety (Special Powers) Act 2018
+
+The whole.
+
 Public Trustee Act [Cap. 260]
 
 ...
@@ -1483,6 +1487,8 @@ Women’s Charter [Cap. 353]
 ...
 
 Sections 35 to 40 and the whole of Part X.
+
+[Act 26 of 2018 wef 16/05/2018]
 
 [S 424/2017 wef 31/07/2017]
 
@@ -2082,3 +2088,7 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|1 August 2016|
 |40.|**G.N. No. S 424/2017—Registration of Criminals Act (Amendment of First Schedule) Order 2017**|
 ||Date of commencement|31 July 2017|
+|41.|**Act 26 of 2018—Public Order and Safety (Special Powers) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|16 May 2018|
