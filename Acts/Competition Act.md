@@ -142,6 +142,8 @@
 
 - [55 Excluded mergers](#Excluded-mergers)
 
+- [55A Confidential advice by Commission on anticipated mergers](#Confidential-advice-by-Commission-on-anticipated-mergers)
+
 - [56 Requests for Commission to consider anticipated mergers and mergers](#Requests-for-Commission-to-consider-anticipated-mergers-and-mergers)
 
 - [57 Notification of anticipated merger](#Notification-of-anticipated-merger)
@@ -950,7 +952,15 @@ but which does not —
 
 (a) whether the section 34 prohibition has been infringed; and
 
-(b) if it has not been infringed, whether that is because of the effect of an exclusion or because the agreement is exempt from the prohibition.
+(b) if it has not been infringed, whether that is —
+
+(i) because of the effect of an exclusion;
+
+(ii) because the agreement is exempt from the prohibition; or
+
+(iii) because a commitment has been accepted pursuant to section 60A(1A).
+
+[Act 15 of 2018 wef 16/05/2018]
 
 (3) If an agreement to which the section 34 prohibition applies has been notified to the Commission under this section, no penalty shall be imposed under this Part in respect of any infringement of the prohibition by the agreement which occurs during the period —
 
@@ -1098,9 +1108,13 @@ Abuse of dominant position
 
 (a) whether the section 47 prohibition has been infringed; and
 
-(b) if it has not been infringed, whether that is because of the effect of an exclusion.
+(b) if it has not been infringed, whether that is —
 
-[UK Competition 1998, s. 22]
+(i) because of the effect of an exclusion; or
+
+(ii) because a commitment has been accepted pursuant to section 60A(1B).
+
+[Act 15 of 2018 wef 16/05/2018]
 
 ### Effect of guidance
 
@@ -1238,6 +1252,34 @@ Mergers
 
 [23/2007 wef 01/07/2007]
 
+### Confidential advice by Commission on anticipated mergers
+
+55A\.—(1) A party to an anticipated merger may apply to the Commission for its advice as to whether the view of the Commission is that the anticipated merger, if carried into effect, is likely to infringe the section 54 prohibition.
+
+(2) Subject to regulations made under subsection (5), the Commission may issue the advice under subsection (1) if the Commission is satisfied —
+
+(a) that all parties to the anticipated merger intend to carry into effect the anticipated merger;
+
+(b) that no information relating to the anticipated merger is in the public domain at the time that the application under subsection (1) is made; and
+
+(c) if information relating to the anticipated merger enters the public domain after the application under subsection (1) is made, that there are good reasons for the applicant not notifying the Commission of the anticipated merger and not applying to the Commission for its decision, under section 57.
+
+(3) Despite subsection (2), the Commission may refuse to issue the advice mentioned in subsection (1) if the Commission is of the view that, given the facts and circumstances of the anticipated merger, the parties to the anticipated merger are able to assess whether an application under section 57 in respect of the anticipated merger should be made without the advice.
+
+(4) Advice issued by the Commission under this section is not binding on the Commission.
+
+(5) The Minister may make regulations to provide —
+
+(a) that the Commission may issue advice under this section in relation to only such anticipated mergers as are prescribed; and
+
+(b) for the procedure to be followed —
+
+(i) by any party making an application under this section; and
+
+(ii) by the Commission, in considering such an application.
+
+[Act 15 of 2018 wef 16/05/2018]
+
 ### Requests for Commission to consider anticipated mergers and mergers
 
 56\.—(1) Section 57 provides for an anticipated merger to be considered by the Commission on the application of a party to that anticipated merger who thinks the anticipated merger, if carried into effect, may infringe the section 54 prohibition.
@@ -1264,7 +1306,7 @@ Mergers
 
 (b) apply to it for a decision.
 
-(2) Subject to subsections (3) and (5) and sections 60A and 60B, on an application under this section, the Commission may make a decision as to —
+(2) Subject to subsections (3) and (5) and sections 60A(1) and 60B(1), on an application under this section, the Commission may make a decision as to —
 
 (a) whether the section 54 prohibition will be infringed by the anticipated merger, if carried into effect; and
 
@@ -1274,7 +1316,11 @@ Mergers
 
 (ii) because the anticipated merger, if carried into effect, is exempted from the application of the prohibition under subsection (3); or
 
-(iii) because a commitment has been accepted pursuant to section 60A.
+(iii) because a commitment has been accepted pursuant to section 60A(1).
+
+[Act 15 of 2018 wef 16/05/2018]
+
+[Act 15 of 2018 wef 16/05/2018]
 
 (3) Where the Commission proposes to make a decision that the section 54 prohibition will be infringed by an anticipated merger, if carried into effect, the Commission shall give written notice to the party who applied for a decision on the anticipated merger and the party may, within 14 days of the date of the notice, apply to the Minister for the anticipated merger, if carried into effect, to be exempted from the section 54 prohibition on the ground of any public interest consideration.
 
@@ -1310,7 +1356,7 @@ Mergers
 
 (b) apply to it for a decision.
 
-(2) Subject to subsections (3) and (5) and sections 60A and 60B, on an application under this section, the Commission may make a decision as to —
+(2) Subject to subsections (3) and (5) and sections 60A(1) and 60B(1), on an application under this section, the Commission may make a decision as to —
 
 (a) whether the section 54 prohibition has been infringed; and
 
@@ -1320,7 +1366,11 @@ Mergers
 
 (ii) because the merger is exempted from the prohibition under subsection (3); or
 
-(iii) because a commitment has been accepted pursuant to section 60A.
+(iii) because a commitment has been accepted pursuant to section 60A(1).
+
+[Act 15 of 2018 wef 16/05/2018]
+
+[Act 15 of 2018 wef 16/05/2018]
 
 (3) Where the Commission proposes to make a decision that the section 54 prohibition has been infringed, the Commission shall give written notice to —
 
@@ -1474,6 +1524,14 @@ accept from such person as it thinks appropriate, a commitment to take or refrai
 
 (ii) has resulted or may be expected to result from the merger.
 
+(1A) The Commission may, at any time before making a decision pursuant to an application under section 44 or an investigation under section 62(1)(a) as to whether the section 34 prohibition has been infringed by an agreement, accept from such person as the Commission thinks appropriate, a commitment to take or refrain from taking such action as the Commission considers appropriate for the purpose of remedying, mitigating or preventing the prevention, restriction or distortion of competition which has resulted or may be expected to result from the agreement.
+
+[Act 15 of 2018 wef 16/05/2018]
+
+(1B) The Commission may, at any time before making a decision pursuant to an application under section 51 or an investigation under section 62(1)(b) as to whether the section 47 prohibition has been infringed by any conduct, accept from such person as the Commission thinks appropriate, a commitment to take or refrain from taking such action as the Commission considers appropriate for the purpose of remedying, mitigating or preventing the abuse of a dominant position in a market which has resulted or may be expected to result from the conduct.
+
+[Act 15 of 2018 wef 16/05/2018]
+
 (2) A commitment shall come into force on the date specified by the Commission when it is accepted.
 
 (3) The Commission may, at any time when a commitment is in force, accept —
@@ -1482,9 +1540,13 @@ accept from such person as it thinks appropriate, a commitment to take or refrai
 
 (b) another commitment in substitution,
 
-for the purpose referred to in subsection (1).
+for the purpose referred to in subsection (1), (1A) or (1B), whichever is applicable, and any reference to a commitment accepted under any of those subsections includes a reference to a commitment varied or substituted under this subsection.
 
-(4) A commitment may be released by the Commission where it has reasonable grounds for believing that the commitment is no longer necessary or appropriate for the purpose referred to in subsection (1).
+[Act 15 of 2018 wef 16/05/2018]
+
+(4) A commitment may be released by the Commission where it has reasonable grounds for believing that the commitment is no longer necessary or appropriate for the purpose referred to in subsection (1), (1A) or (1B), whichever is applicable.
+
+[Act 15 of 2018 wef 16/05/2018]
 
 (5) Before accepting, varying, substituting or releasing a commitment, the Commission shall, except in exceptional circumstances, consult with such person as it thinks appropriate.
 
@@ -1492,7 +1554,7 @@ for the purpose referred to in subsection (1).
 
 ### Effect of commitments
 
-60B\.—(1) Where the Commission has accepted a commitment under section 60A, and subject to subsection (2), the Commission shall make a decision that —
+60B\.—(1) Where the Commission has accepted a commitment under section 60A(1), and subject to subsection (2), the Commission shall make a decision that —
 
 (a) the section 54 prohibition will not be infringed by an anticipated merger, if carried into effect; or
 
@@ -1500,13 +1562,27 @@ for the purpose referred to in subsection (1).
 
 as the case may be.
 
-(2) Nothing in subsection (1) shall prevent the Commission from revoking the decision already made, commencing or continuing any investigation, or making a decision or giving a direction, where —
+[Act 15 of 2018 wef 16/05/2018]
+
+(1A) Where the Commission has accepted a commitment under section 60A(1A) in relation to an agreement, and subject to subsection (2), the Commission must make a decision that the section 34 prohibition has not been infringed by the agreement.
+
+[Act 15 of 2018 wef 16/05/2018]
+
+(1B) Where the Commission has accepted a commitment under section 60A(1B) in relation to any conduct, and subject to subsection (2), the Commission must make a decision that the section 47 prohibition has not been infringed by the conduct.
+
+[Act 15 of 2018 wef 16/05/2018]
+
+(2) Nothing in subsection (1), (1A) or (1B) shall prevent the Commission from revoking the decision already made, commencing or continuing any investigation, or making a decision or giving a direction, where —
 
 (a) it has reasonable grounds for suspecting that any information on the basis of which it accepted a commitment was incomplete, false or misleading in a material particular; or
 
 (b) it has reasonable grounds for suspecting that a party who provided a commitment has failed to adhere to one or more of the terms of the commitment.
 
-(3) If the Commission revokes a decision referred to in subsection (1), the commitment shall be treated, unless otherwise stated, as released from the date of that revocation.
+[Act 15 of 2018 wef 16/05/2018]
+
+(3) If the Commission revokes a decision referred to in subsection (1), (1A) or (1B), the commitment shall be treated, unless otherwise stated, as released from the date of that revocation.
+
+[Act 15 of 2018 wef 16/05/2018]
 
 (4) The Commission may review the effectiveness of commitments it has accepted under section 60A in such circumstances as it considers appropriate.
 
@@ -1630,6 +1706,26 @@ and, in this subsection, “conduct” includes any failure to act (whether or n
 
 (b) if the document is not produced, to require such person to state, to the best of his knowledge and belief, where it is.
 
+(4A) For the purposes of an investigation under section 62, a person who is empowered to enter any premises under section 64(1), or who is authorised under a warrant under section 65 to enter the premises specified in the warrant, may —
+
+(a) orally examine any individual on the premises who appears to be acquainted with the facts and circumstances relevant to the investigation that is being carried out; and
+
+(b) require the individual to answer any question relating to the investigation.
+
+[Act 15 of 2018 wef 16/05/2018]
+
+(4B) Any information provided verbally by an individual under subsection (1), or any answer given or statement made by an individual under subsection (4A), must —
+
+(a) be reduced to writing;
+
+(b) be read over to the individual;
+
+(c) if the individual does not understand English, be interpreted for the individual in a language that the individual understands; and
+
+(d) after correction (if any), be signed by the individual.
+
+[Act 15 of 2018 wef 16/05/2018]
+
 (5) In subsection (1), “specified” means —
 
 (a) specified, or described, in the notice; or
@@ -1702,11 +1798,15 @@ may enter any premises.
 
 (b) require any person on the premises —
 
-(i) to produce any document which he considers relates to any matter relevant to the investigation; and
+(i) to produce any document which the investigating officer, authorised person, inspector or person required by the inspector considers relates to any matter relevant to the investigation; and
+
+[Act 15 of 2018 wef 16/05/2018]
 
 (ii) if the document is produced, to provide an explanation of it;
 
-(c) require any person to state, to the best of his knowledge and belief, where any such document is to be found;
+(c) require any person to state, to the best of his knowledge and belief, where any document mentioned in paragraph (b)(i) is to be found;
+
+[Act 15 of 2018 wef 16/05/2018]
 
 (d) take copies of, or extracts from, any document which is produced;
 
@@ -1725,6 +1825,10 @@ may enter any premises.
 [23/2007 wef 01/07/2007]
 
 [UK Competition 1998, s. 27]
+
+(6) The power to require any person on the premises to produce any document under subsection (5)(b) includes the power to require that person to produce the document at such time and place, and in such form and manner, as may be required by the investigating officer, authorised person, inspector or person required by the inspector.
+
+[Act 15 of 2018 wef 16/05/2018]
 
 ### Power to enter premises under warrant
 
@@ -1769,6 +1873,10 @@ to do all or any of the following:
 (v) to take any other step which appears to be necessary for the purpose mentioned in paragraph (iv) (A);
 
 (vi) to require any person to provide an explanation of any document appearing to be of the relevant kind or to state, to the best of his knowledge and belief, where it may be found;
+
+(via) to require any person on the premises to produce any document of the relevant kind at the time and place, and in the form and manner, required by the named officer or other officer or person whom the Commission has authorised in writing to accompany the named officer, or by any other person required under paragraph (b) by an inspector;
+
+[Act 15 of 2018 wef 16/05/2018]
 
 (vii) to require any information which is stored in any electronic form and is accessible from the premises and which he considers relates to any matter relevant to the investigation, to be produced in a form —
 
@@ -2222,7 +2330,9 @@ OFFENCES
 
 (3) If a person is charged with an offence under subsection (1) in respect of a requirement —
 
-(a) to provide information;
+(a) to provide information or answer any question posed to him;
+
+[Act 15 of 2018 wef 16/05/2018]
 
 (b) to provide an explanation of a document; or
 
@@ -2560,27 +2670,21 @@ that may come to his knowledge in the performance of his functions and discharge
 
 ### Protection from personal liability
 
-90\. No action, suit or other legal proceedings shall lie personally against —
+90\. No liability shall lie personally against any of the following persons for anything done or purported to be done, or omitted to be done, in good faith and with reasonable care in the performance or purported performance of any function of the Commission or the exercise or purported exercise of any power of the Commission under this Act or any other written law:
 
-(a) the Commission;
+(a) the Chief Executive;
 
-(b) any member, officer, employee or an agent of the Commission;
+(b) any member, officer, employee or agent of the Commission;
 
 (c) any member of the Board or any person authorised, appointed or employed to assist the Board;
 
 (d) any person who is on secondment or attachment to the Commission;
 
-(e) any person authorised, appointed, employed or directed by the Commission to exercise the Commission’s powers, perform the Commission’s functions or discharge the Commission’s duties or to assist the Commission in the exercise of its powers, the performance of its functions or the discharge of its duties under this Act or any other written law; or
+(e) any person authorised, appointed, employed or directed by the Commission to exercise the Commission’s powers, perform the Commission’s functions or discharge the Commission’s duties or to assist the Commission in the exercise of the Commission’s powers, the performance of the Commission’s functions or the discharge of the Commission’s duties;
 
-(f) any inspector or any person authorised, appointed or employed to assist him in connection with any function or duty of the inspector under this Act,
+(f) any inspector or any person authorised, appointed or employed to assist the inspector in connection with any function or duty of the inspector.
 
-for anything done (including any statement made) or omitted to be done in good faith in the course of or in connection with —
-
-(i) the exercise or purported exercise of any power under this Act or any other written law;
-
-(ii) the performance or purported performance of any function or the discharge or purported discharge of any duty under this Act or any other written law; or
-
-(iii) the compliance or purported compliance with this Act or any other written law.
+[Act 15 of 2018 wef 16/05/2018]
 
 ### Public servants
 
@@ -3295,3 +3399,7 @@ This Legislative History is provided for the convenience of users of the Competi
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
+|15.|**Act 15 of 2018—Competition (Amendment) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 8/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|16 May 2018|
