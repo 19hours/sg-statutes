@@ -724,9 +724,11 @@ as are from time to time approved by the Minister.
 
 ### Delegation of powers
 
-17\.—(1) Except as otherwise specially provided in section 18 or 110A, any act or thing which may be done, ordered or performed by the Commissioner under this Act or any other written law may, subject to the orders and directions of the Commissioner, be done, ordered or performed by a police officer not below the rank of superintendent.
+17\.—(1) Except as otherwise specially provided in section 18 or 110A and the Public Order and Safety (Special Powers) Act 2018, any act or thing which may be done, ordered or performed by the Commissioner under this Act or any other written law may, subject to the orders and directions of the Commissioner, be done, ordered or performed by a police officer not below the rank of superintendent.
 
 [Act 10 of 2015 wef 01/06/2015]
+
+[Act 26 of 2018 wef 16/05/2018]
 
 (2) Except as otherwise specially provided in section 18 or any other written law, where a Deputy Commissioner is absent or incapable for any reason of performing or discharging any of his duties under any written law, the Commissioner may authorise any police officer not below the rank of assistant superintendent to exercise the powers conferred and perform the duties imposed on the Deputy Commissioner by any written law.
 
@@ -3821,6 +3823,10 @@ The Police Force Act 2004 repealed and re-enacted with amendments the Police For
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|12.|**Act 26 of 2018—Public Order and Safety (Special Powers) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|16 May 2018|
 ## COMPARATIVE TABLE
 
 Police Force Act
