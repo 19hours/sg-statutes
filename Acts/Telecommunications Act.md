@@ -2754,6 +2754,10 @@ the Minister may, after consultation with the Authority or any telecommunication
 
 (9) If any doubt arises as to the existence of a public emergency or as to whether any act done under this section was in the public interest or in the interests of public security, national defence or relations with the government of another country, a certificate signed by the Minister shall be conclusive evidence of the matters stated therein.
 
+(10) This section does not authorise the Minister to give any directions when an activation order (within the meaning of the Public Order and Safety (Special Powers) Act 2018) is in force, and for any of the purposes for which a direction under section 32 of that Act is or may be given.
+
+[Act 26 of 2018 wef 16/05/2018]
+
 ## PART VIII
 
 ENFORCEMENT POWERS AND PROCEDURES
@@ -3463,6 +3467,10 @@ This Legislative History is provided for the convenience of users of the Telecom
 ||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
 ||Date of Second and Third Readings|10 March 2017|
 ||Date of commencement|23 May 2017|
+|8.|**Act 26 of 2018—Public Order and Safety (Special Powers) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|16 May 2018|
 ## COMPARATIVE TABLE
 
 Telecommunications Act
