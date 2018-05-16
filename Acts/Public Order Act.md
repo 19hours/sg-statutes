@@ -394,6 +394,10 @@ ASSEMBLIES AND PROCESSIONS
 
 [Act 23 of 2017 wef 01/10/2017]
 
+(2A) During the period an activation order has effect under the Public Order and Safety (Special Powers) Act 2018, the Commissioner may refuse to issue any permit for or in respect of a public assembly or public procession to be held within or enter an area which is the target of a special authorisation granted under that Act as a result of the activation order.
+
+[Act 26 of 2018 wef 16/05/2018]
+
 (3) In this section —
 
 “directed towards a political end” means —
@@ -512,7 +516,17 @@ and the senior police officer may give directions to those organising or taking 
 
 (d) there is reasonable cause to believe that any condition of the permit has been contravened.
 
-(3) Every permit that is cancelled under subsection (1) shall thereupon be invalid and cease to be in force.
+(2A) A permit which is granted for or in respect of a public assembly or public procession is treated as cancelled immediately if —
+
+(a) a special authorisation is granted under section 11 of the Public Order and Safety (Special Powers) Act 2018 pursuant to the giving of an activation order under that Act; and
+
+(b) the public assembly or public procession is being or is to be held within, or enter or is to enter, an area which is the target area of that special authorisation.
+
+[Act 26 of 2018 wef 16/05/2018]
+
+(3) Every permit that is cancelled under subsection (1) or (2A) shall thereupon be invalid and cease to be in force.
+
+[Act 26 of 2018 wef 16/05/2018]
 
 ### Appeal to Minister
 
@@ -539,6 +553,10 @@ the person may, within 7 days after being notified of the decision (or such long
 (d) direct the Commissioner to reconsider his decision,
 
 and the appellant shall be notified in writing of the Minister’s decision in respect of his appeal accordingly.
+
+(3A) This section does not apply to or in relation to any cancellation of a permit in the circumstances mentioned in section 10(2A).
+
+[Act 26 of 2018 wef 16/05/2018]
 
 (4) In this section, any reference to the Minister shall include a reference to any Minister of State designated by the Minister to hear any appeal under this section in place of the Minister.
 
@@ -591,6 +609,14 @@ it is necessary in the public interest to do so, he may, with the concurrence of
 (a) provide that any contravention of any condition therein that is applicable to the organising of or taking part in any assembly or procession within the unrestricted area subject to the order shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 6 months or with both; and
 
 (b) provide for such transitional, savings and other consequential, incidental and supplemental provisions as the Minister considers necessary or expedient.
+
+(3A) However, an order under subsection (1) designating a public place as an unrestricted area immediately expires if —
+
+(a) a special authorisation is granted under section 11 of the Public Order and Safety (Special Powers) Act 2018 pursuant to the giving of an activation order under that Act; and
+
+(b) the public place, or any part of the public place, falls within the target area of the special authorisation.
+
+[Act 26 of 2018 wef 16/05/2018]
 
 (4) All orders made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1701,6 +1727,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|9 March 2017 (Bill No. 16/2017 published on 9 March 2017)|
 ||Date of Second and Third Readings|3 April 2017|
 ||Date of commencement|1 October 2017|
+|7.|**Act 26 of 2018—Public Order and Safety (Special Powers) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|16 May 2018|
 ## COMPARATIVE TABLE
 
 Public Order Act
