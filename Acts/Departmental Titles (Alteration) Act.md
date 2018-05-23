@@ -470,11 +470,17 @@ Chief Legislative Counsel.
 
 Chief Executive, Judiciary Administration and Operations of the Supreme Court
 
-Chief Executive, Office of the Chief Justice of the Supreme Court.
+Chief Executive, Office of the Chief Justice.
 
 Deputy Chief Executive, Judiciary Administration and Operations of the Supreme Court
 
 Deputy Chief Executive of the Supreme Court.
+
+Chief Executive, Office of the Chief Justice of the Supreme Court
+
+Chief Executive, Office of the Chief Justice.
+
+[S 314/2018 wef 23/05/2018]
 
 [S 83/2015 wef 01/02/2015]
 
@@ -566,3 +572,5 @@ This Legislative History is provided for the convenience of users of the Departm
 ||Date of commencement|1 July 2013|
 |29.|**G.N. No. S 83/2015—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2015**|
 ||Date of commencement|1 February 2015|
+|30.|**G.N. No. S 314/2018—Departmental Titles (Alteration) Act (Amendment of Schedule) Notification 2018**|
+||Date of commencement|23 May 2018|
