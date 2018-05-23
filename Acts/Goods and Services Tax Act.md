@@ -5320,15 +5320,21 @@ Investment Precious Metals
 
 (iii) Australia Lunar coin;
 
+(iiia) Australia RAM Kangaroo coin;
+
+[S 312/2018 wef 23/05/2018]
+
 (iv) Austria Philharmonic coin;
 
 [S 396/2016 wef 01/09/2016]
 
 (v) Canada Maple Leaf coin;
 
-(va) Canada Call of the Wild 4‑coin series coin;
+(va) Canada Call of the Wild series coin;
 
 [S 374/2017 wef 09/07/2017]
+
+[S 312/2018 wef 23/05/2018]
 
 (vi) China Panda coin;
 
@@ -5346,9 +5352,11 @@ Investment Precious Metals
 
 [S 396/2016 wef 01/09/2016]
 
-(xii) United Kingdom The Queen’s Beasts 10‑coin series coin;
+(xii) United Kingdom The Queen’s Beasts series coin;
 
 [S 396/2016 wef 01/09/2016]
+
+[S 312/2018 wef 23/05/2018]
 
 (e) any of the following silver coins which is or was legal tender in its country of origin, and is of a purity of at least 99.9%:
 
@@ -5357,6 +5365,10 @@ Investment Precious Metals
 (ia) Armenia Noah’s Ark coin;
 
 [S 396/2016 wef 01/09/2016]
+
+(iaa) Australia Funnel‑Web Spider coin;
+
+[S 312/2018 wef 23/05/2018]
 
 (ib) Australia Kangaroo coin;
 
@@ -5376,17 +5388,29 @@ Investment Precious Metals
 
 [S 396/2016 wef 01/09/2016]
 
-(via) Canada Birds of Prey 4‑coin series coin;
+(via) Canada Birds of Prey series coin;
 
 [S 396/2016 wef 01/09/2016]
+
+[S 312/2018 wef 23/05/2018]
 
 (vib) Canada Maple Leaf coin;
 
 [S 396/2016 wef 01/09/2016]
 
-(vic) Canada Wildlife 6‑coin series coin;
+(viba) Canada SupermanTMS‑Shield coin;
+
+[S 312/2018 wef 23/05/2018]
+
+(vibb) Canada Tree of Life coin;
+
+[S 312/2018 wef 23/05/2018]
+
+(vic) Canada Wildlife series coin;
 
 [S 396/2016 wef 01/09/2016]
+
+[S 312/2018 wef 23/05/2018]
 
 (vii) China Panda coin;
 
@@ -5400,9 +5424,11 @@ Investment Precious Metals
 
 [S 396/2016 wef 01/09/2016]
 
-(xi) United Kingdom The Queen’s Beasts 10‑coin series coin;
+(xi) United Kingdom The Queen’s Beasts series coin;
 
 [S 396/2016 wef 01/09/2016]
+
+[S 312/2018 wef 23/05/2018]
 
 (f) any of the following platinum coins which is or was legal tender in its country of origin, and is of a purity of at least 99%:
 
@@ -5416,11 +5442,25 @@ Investment Precious Metals
 
 [S 396/2016 wef 01/09/2016]
 
-(v) Canada Maple Leaf coin.
+(v) Canada Maple Leaf coin;
 
 [S 396/2016 wef 01/09/2016]
 
 [S 396/2016 wef 01/09/2016]
+
+[S 312/2018 wef 23/05/2018]
+
+(vi) United Kingdom Britannia coin;
+
+[S 312/2018 wef 23/05/2018]
+
+(vii) United Kingdom Lunar coin;
+
+[S 312/2018 wef 23/05/2018]
+
+(viii) United Kingdom The Queen’s Beasts series coin.
+
+[S 312/2018 wef 23/05/2018]
 
 1A. Paragraph 1(a), (b) and (c) shall not include any bar, ingot or wafer that is a decorative bar, ingot or wafer or a collector’s bar, ingot or wafer.
 
@@ -6341,6 +6381,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
+|67.|**G.N. No. S 312/2018—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2018**|
+||Date of commencement|23 May 2018|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
