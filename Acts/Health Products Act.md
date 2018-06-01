@@ -1753,37 +1753,57 @@ Exceptions and limitations
 
 Medical device
 
-“Medical device” means any instrument, apparatus, implement, machine, appliance, implant, in vitro reagent or calibrator, software, material or other similar or related article that is intended by its manufacturer to be used, whether alone or in combination, for humans for one or more of the specific purposes of —
+“Medical device” means —
 
 (a)
 
-diagnosis, prevention, monitoring, treatment or alleviation of any disease;
+any instrument, apparatus, implement, machine, appliance, implant, reagent forin vitrouse, software, material or other similar or related article that is intended by its manufacturer to be used, whether alone or in combination, for humans for one or more of the specific purposes of —
 
-(b)
+(i)
 
-diagnosis, monitoring, treatment, alleviation of or compensation for an injury;
+diagnosis, prevention, monitoring, treatment or alleviation of disease;
 
-(c)
+(ii)
 
-investigation, replacement, modification, or support of the anatomy or of a physiological process;
+diagnosis, monitoring, treatment or alleviation of, or compensation for, an injury;
 
-(d)
+(iii)
+
+investigation, replacement, modification or support of the anatomy or of a physiological process, mainly for medical purposes;
+
+(iv)
 
 supporting or sustaining life;
 
-(e)
+(v)
 
 control of conception;
 
-(f)
+(vi)
 
 disinfection of medical devices; or
 
-(g)
+(vii)
 
-providing information for medical or diagnostic purposes by means of in vitro examination of specimens derived from the human body,
+providing information by means ofin vitroexamination of specimens derived from the human body, for medical or diagnostic purposes,
 
-and which does not achieve its primary intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its intended function by such means.
+and which does not achieve its primary intended action in or on the human body by pharmacological, immunological or metabolic means, but which may be assisted in its intended function by such means; and
+
+(b)
+
+the following articles:
+
+(i)
+
+any implant for the modification or fixation of any body part;
+
+(ii)
+
+any injectable dermal filler or mucous membrane filler;
+
+(iii)
+
+any instrument, apparatus, implement, machine or appliance intended to be used for the removal or degradation of fat by invasive means.
 
 2.
 
@@ -2049,6 +2069,8 @@ Oral dental gum
 
 “Oral dental gum” means any chewing gum, or any like substance prepared from a gum base of vegetable or synthetic origin, and intended to be chewed for use in promoting dental health or oral hygiene, but does not include any such gum which is manufactured or imported into Singapore solely for research and development purposes by a person who is registered under the Control of Manufacture Act (Cap. 57) in respect of the manufacture of chewing gum.
 
+[S 320/2018 wef 01/06/2018]
+
 [S 328/2016 wef 01/11/2016]
 
 [S 564/2007; S 684/2007]
@@ -2168,3 +2190,5 @@ This Legislative History is provided for the convenience of users of the Health 
 ||Date of commencement|1 July 2016|
 |7.|**G.N. No. S 328/2016—Health Products Act (Amendment of First Schedule) Order 2016**|
 ||Date of commencement|1 November 2016|
+|8.|**G.N. No. S 320/2018—Health Products Act (Amendment of First Schedule) Order 2018**|
+||Date of commencement|1 June 2018|
