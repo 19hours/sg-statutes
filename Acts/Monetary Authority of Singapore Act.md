@@ -104,227 +104,225 @@
 
 [**Part IVA CONTROL OVER FINANCIAL INSTITUTIONS**](#Part-IVA)
 
-- [30AA Application and interpretation of this Part](#Application-and-interpretation-of-this-Part)
+- [31 Application and interpretation of this Part](#Application-and-interpretation-of-this-Part)
 
-- [30AAA Information of insolvency, etc.](#Information-of-insolvency-etc)
+- [32 Information of insolvency, etc.](#Information-of-insolvency-etc)
 
-- [30AAB Action by Authority if relevant financial institution unable to meet obligations, etc.](#Action-by-Authority-if-relevant-financial-institution-unable-to-meet-obligations-etc)
+- [33 Action by Authority if relevant financial institution unable to meet obligations, etc.](#Action-by-Authority-if-relevant-financial-institution-unable-to-meet-obligations-etc)
 
-- [30AAC Effect of assumption of control under section 30AAB](#Effect-of-assumption-of-control-under-section-30AAB)
+- [34 Effect of assumption of control under section 33](#Effect-of-assumption-of-control-under-section-33)
 
-- [30AAD Duration of control](#Duration-of-control)
+- [35 Duration of control](#Duration-of-control)
 
-- [30AAE Responsibilities of officers, member, etc., of relevant financial institution](#Responsibilities-of-officers-member-etc-of-relevant-financial-institution)
+- [36 Responsibilities of officers, member, etc., of relevant financial institution](#Responsibilities-of-officers-member-etc-of-relevant-financial-institution)
 
-- [30AAF Remuneration and expenses of Authority and others in certain cases](#Remuneration-and-expenses-of-Authority-and-others-in-certain-cases)
+- [37 Remuneration and expenses of Authority and others in certain cases](#Remuneration-and-expenses-of-Authority-and-others-in-certain-cases)
 
-- [30AAG Voluntary transfer of business of relevant financial institution](#Voluntary-transfer-of-business-of-relevant-financial-institution)
+- [38 Voluntary transfer of business of relevant financial institution](#Voluntary-transfer-of-business-of-relevant-financial-institution)
 
-- [30AAH Approval of transfer of business of relevant financial institution](#Approval-of-transfer-of-business-of-relevant-financial-institution)
+- [39 Approval of transfer of business of relevant financial institution](#Approval-of-transfer-of-business-of-relevant-financial-institution)
 
-- [30AAI Disqualification or removal of director or executive officer of relevant financial institution](#Disqualification-or-removal-of-director-or-executive-officer-of-relevant-financial-institution)
+- [40 Disqualification or removal of director or executive officer of relevant financial institution](#Disqualification-or-removal-of-director-or-executive-officer-of-relevant-financial-institution)
 
-- [30AAJ Power of Authority to make regulations for this Part](#Power-of-Authority-to-make-regulations-for-this-Part)
+- [41 Power of Authority to make regulations for this Part](#Power-of-Authority-to-make-regulations-for-this-Part)
 
 [**Part IVB RESOLUTION OF FINANCIAL INSTITUTIONS**](#Part-IVB)
 
 [**Division 1  General provisions**](#Division-1--General-provisions)
 
-- [30AAK Interpretation of this Part](#Interpretation-of-this-Part)
+- [49 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [30AAL Exercise of powers under Divisions 2, 3 and 4 of this Part](#Exercise-of-powers-under-Divisions-2-3-and-4-of-this-Part)
+- [50 Exercise of powers under Divisions 2, 3 and 4 of this Part](#Exercise-of-powers-under-Divisions-2-3-and-4-of-this-Part)
 
-- [30AAM Directions or regulations concerning persons that have ceased to be specified financial institutions](#Directions-or-regulations-concerning-persons-that-have-ceased-to-be-specified-financial-institutions)
+- [51 Directions or regulations concerning persons that have ceased to be specified financial institutions](#Directions-or-regulations-concerning-persons-that-have-ceased-to-be-specified-financial-institutions)
 
-- [30AAN Directions and notices issued under Act or written laws in Schedule to continue to apply to persons who cease to be specified financial institutions](#Directions-and-notices-issued-under-Act-or-written-laws-in-Schedule-to-continue-to-apply-to-persons-who-cease-to-be-specified-financial-institutions)
+- [52 Directions and notices issued under Act or written laws in Schedule to continue to apply to persons who cease to be specified financial institutions](#Directions-and-notices-issued-under-Act-or-written-laws-in-Schedule-to-continue-to-apply-to-persons-who-cease-to-be-specified-financial-institutions)
 
-- [30AAO Moratorium](#Moratorium)
+- [53 Moratorium](#Moratorium)
 
-- [30AAP General provisions as to winding up](#General-provisions-as-to-winding-up)
+- [54 General provisions as to winding up](#General-provisions-as-to-winding-up)
 
-- [30AAQ Power of Court to take action against directors and executive officers](#Power-of-Court-to-take-action-against-directors-and-executive-officers)
+- [55 Power of Court to take action against directors and executive officers](#Power-of-Court-to-take-action-against-directors-and-executive-officers)
 
 [**Division 2  Compulsory transfer of business of pertinent financial institution**](#Division-2--Compulsory-transfer-of-business-of-pertinent-financial-institution)
 
-- [30AAR Interpretation of this Division](#Interpretation-of-this-Division)
+- [56 Interpretation of this Division](#Interpretation-of-this-Division)
 
-- [30AAS Compulsory transfer of business](#Compulsory-transfer-of-business)
+- [57 Compulsory transfer of business](#Compulsory-transfer-of-business)
 
-- [30AAT Certificate of transfer](#Certificate-of-transfer)
+- [58 Certificate of transfer](#Certificate-of-transfer)
 
-- [30AAU Moratorium, avoidance of disposition of property, etc.](#Moratorium-avoidance-of-disposition-of-property-etc)
+- [59 Moratorium, avoidance of disposition of property, etc.](#Moratorium-avoidance-of-disposition-of-property-etc)
 
 [**Division 3  Compulsory transfer of shares of pertinent financial institution**](#Division-3--Compulsory-transfer-of-shares-of-pertinent-financial-institution)
 
-- [30AAV Interpretation of this Division](#Interpretation-of-this-Division)
+- [65 Interpretation of this Division](#Interpretation-of-this-Division)
 
-- [30AAW Compulsory transfer of shares](#Compulsory-transfer-of-shares)
+- [66 Compulsory transfer of shares](#Compulsory-transfer-of-shares)
 
-- [30AAX Certificate of transfer](#Certificate-of-transfer)
+- [67 Certificate of transfer](#Certificate-of-transfer)
 
 [**Division 4  Compulsory restructuring of share capital of pertinent financial institution**](#Division-4--Compulsory-restructuring-of-share-capital-of-pertinent-financial-institution)
 
-- [30AAY Interpretation of this Division](#Interpretation-of-this-Division)
+- [68 Interpretation of this Division](#Interpretation-of-this-Division)
 
-- [30AAZ Compulsory restructuring of share capital](#Compulsory-restructuring-of-share-capital)
+- [69 Compulsory restructuring of share capital](#Compulsory-restructuring-of-share-capital)
 
-- [30AAZA Certificate of restructuring of share capital](#Certificate-of-restructuring-of-share-capital)
+- [70 Certificate of restructuring of share capital](#Certificate-of-restructuring-of-share-capital)
 
 [**Division 5  Assistance to foreign resolution authorities and domestic authorities**](#Division-5--Assistance-to-foreign-resolution-authorities-and-domestic-authorities)
 
-- [30AAZB Interpretation of this Division](#Interpretation-of-this-Division)
+- [86 Interpretation of this Division](#Interpretation-of-this-Division)
 
-- [30AAZC Conditions for provision of assistance to foreign resolution authority](#Conditions-for-provision-of-assistance-to-foreign-resolution-authority)
+- [87 Conditions for provision of assistance to foreign resolution authority](#Conditions-for-provision-of-assistance-to-foreign-resolution-authority)
 
-- [30AAZD Other factors to consider for provision of assistance to foreign resolution authority](#Other-factors-to-consider-for-provision-of-assistance-to-foreign-resolution-authority)
+- [88 Other factors to consider for provision of assistance to foreign resolution authority](#Other-factors-to-consider-for-provision-of-assistance-to-foreign-resolution-authority)
 
-- [30AAZE Assistance that may be rendered to foreign resolution authority](#Assistance-that-may-be-rendered-to-foreign-resolution-authority)
+- [89 Assistance that may be rendered to foreign resolution authority](#Assistance-that-may-be-rendered-to-foreign-resolution-authority)
 
-- [30AAZF Assistance to domestic authority](#Assistance-to-domestic-authority)
+- [90 Assistance to domestic authority](#Assistance-to-domestic-authority)
 
-- [30AAZG Offences under this Division](#Offences-under-this-Division)
+- [91 Offences under this Division](#Offences-under-this-Division)
 
-- [30AAZH Immunity for furnishing material, etc.](#Immunity-for-furnishing-material-etc)
+- [92 Immunity for furnishing material, etc.](#Immunity-for-furnishing-material-etc)
 
 [**Division 6  Miscellaneous**](#Division-6--Miscellaneous)
 
-- [30AAZI Notices to significant associated entities of specified financial institutions](#Notices-to-significant-associated-entities-of-specified-financial-institutions)
+- [121 Notices to significant associated entities of specified financial institutions](#Notices-to-significant-associated-entities-of-specified-financial-institutions)
 
-- [30AAZJ Modification of law of insolvency](#Modification-of-law-of-insolvency)
+- [122 Modification of law of insolvency](#Modification-of-law-of-insolvency)
 
-- [30AAZK Power to obtain information under this Part](#Power-to-obtain-information-under-this-Part)
+- [123 Power to obtain information under this Part](#Power-to-obtain-information-under-this-Part)
 
-- [30AAZL Immunity for officer of specified financial institution or significant associated entity](#Immunity-for-officer-of-specified-financial-institution-or-significant-associated-entity)
+- [124 Immunity for officer of specified financial institution or significant associated entity](#Immunity-for-officer-of-specified-financial-institution-or-significant-associated-entity)
 
-- [30AAZM Cessation of moratorium, etc., under this Part](#Cessation-of-moratorium-etc-under-this-Part)
+- [125 Cessation of moratorium, etc., under this Part](#Cessation-of-moratorium-etc-under-this-Part)
 
-- [30AAZN Regulations for this Part](#Regulations-for-this-Part)
+- [126 Regulations for this Part](#Regulations-for-this-Part)
 
 [**Part V FINANCIAL SECTOR DEVELOPMENT FUND**](#Part-V)
 
-- [30A Establishment of Financial Sector Development Fund](#Establishment-of-Financial-Sector-Development-Fund)
+- [127 Establishment of Financial Sector Development Fund](#Establishment-of-Financial-Sector-Development-Fund)
 
-- [30B Objects of Fund and expenditure of moneys of Fund](#Objects-of-Fund-and-expenditure-of-moneys-of-Fund)
+- [128 Objects of Fund and expenditure of moneys of Fund](#Objects-of-Fund-and-expenditure-of-moneys-of-Fund)
 
-- [30C Investment](#Investment)
+- [129 Investment](#Investment)
 
-- [30D Financial provisions](#Financial-provisions)
+- [130 Financial provisions](#Financial-provisions)
 
 [**Part VA BOOK-ENTRY SECURITIES ISSUED BY AUTHORITY**](#Part-VA)
 
-- [30E Interpretation of this Part](#Interpretation-of-this-Part)
+- [133 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [30F Issue of book-entry MAS securities](#Issue-of-book-entry-MAS-securities)
+- [134 Issue of book-entry MAS securities](#Issue-of-book-entry-MAS-securities)
 
-- [30G Transfers and pledges effected by Authority under book-entry clearing system](#Transfers-and-pledges-effected-by-Authority-under-book-entry-clearing-system)
+- [135 Transfers and pledges effected by Authority under book-entry clearing system](#Transfers-and-pledges-effected-by-Authority-under-book-entry-clearing-system)
 
-- [30H Transfers and pledges effected by other means](#Transfers-and-pledges-effected-by-other-means)
+- [136 Transfers and pledges effected by other means](#Transfers-and-pledges-effected-by-other-means)
 
-- [30I Authority to be discharged by action on instructions](#Authority-to-be-discharged-by-action-on-instructions)
+- [137 Authority to be discharged by action on instructions](#Authority-to-be-discharged-by-action-on-instructions)
 
-- [30J Confirmation of transaction](#Confirmation-of-transaction)
+- [138 Confirmation of transaction](#Confirmation-of-transaction)
 
-- [30K Payment of interest](#Payment-of-interest)
+- [139 Payment of interest](#Payment-of-interest)
 
-- [30L Redemption of book-entry MAS securities](#Redemption-of-book-entry-MAS-securities)
+- [140 Redemption of book-entry MAS securities](#Redemption-of-book-entry-MAS-securities)
 
-- [30M Early redemption](#Early-redemption)
+- [141 Early redemption](#Early-redemption)
 
-- [30N Invitation to take up book-entry MAS securities and refusal of application](#Invitation-to-take-up-book-entry-MAS-securities-and-refusal-of-application)
+- [142 Invitation to take up book-entry MAS securities and refusal of application](#Invitation-to-take-up-book-entry-MAS-securities-and-refusal-of-application)
 
-- [30O Securities lending arrangements](#Securities-lending-arrangements)
+- [143 Securities lending arrangements](#Securities-lending-arrangements)
 
-- [30P Power of Authority to make regulations for this Part](#Power-of-Authority-to-make-regulations-for-this-Part)
+- [144 Power of Authority to make regulations for this Part](#Power-of-Authority-to-make-regulations-for-this-Part)
 
 [**Part VB PRIMARY DEALERS FOR SECURITIES ISSUED BY AUTHORITY**](#Part-VB)
 
-- [30Q Appointment as primary dealer](#Appointment-as-primary-dealer)
+- [145 Appointment as primary dealer](#Appointment-as-primary-dealer)
 
-- [30R Conditions of appointment as primary dealer](#Conditions-of-appointment-as-primary-dealer)
+- [146 Conditions of appointment as primary dealer](#Conditions-of-appointment-as-primary-dealer)
 
-- [30S Directions to primary dealers](#Directions-to-primary-dealers)
+- [147 Directions to primary dealers](#Directions-to-primary-dealers)
 
-- [30T Cancellation, etc., of appointment as primary dealer](#Cancellation-etc-of-appointment-as-primary-dealer)
+- [148 Cancellation, etc., of appointment as primary dealer](#Cancellation-etc-of-appointment-as-primary-dealer)
 
-- [30U Appeal to Minister](#Appeal-to-Minister)
+- [149 Appeal to Minister](#Appeal-to-Minister)
 
-- [30V Inspection of books](#Inspection-of-books)
+- [150 Inspection of books](#Inspection-of-books)
 
-- [30W Power of Authority to make regulations for this Part](#Power-of-Authority-to-make-regulations-for-this-Part)
+- [151 Power of Authority to make regulations for this Part](#Power-of-Authority-to-make-regulations-for-this-Part)
 
 [**Part VC ASSISTANCE TO FOREIGN AUTHORITIES AND DOMESTIC AUTHORITIES FOR THEIR SUPERVISORY AND OTHER ACTIONS IN RESPECT OF MONEY LAUNDERING, TERRORISM FINANCING AND OTHER OFFENCES**](#Part-VC)
 
 [**Division 1  General provisions**](#Division-1--General-provisions)
 
-- [30X Interpretation of this Part](#Interpretation-of-this-Part)
+- [152 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [30Y Purposes of this Part](#Purposes-of-this-Part)
+- [153 Purposes of this Part](#Purposes-of-this-Part)
 
 [**Division 2  Assistance to AML/CFT authorities**](#Division-2--Assistance-to-AML/CFT-authorities)
 
-- [30Z Conditions for provision of assistance to AML/CFT authority](#Conditions-for-provision-of-assistance-to-AML/CFT-authority)
+- [154 Conditions for provision of assistance to AML/CFT authority](#Conditions-for-provision-of-assistance-to-AML/CFT-authority)
 
-- [30ZA Assistance that may be rendered to AML/CFT authority](#Assistance-that-may-be-rendered-to-AML/CFT-authority)
+- [155 Assistance that may be rendered to AML/CFT authority](#Assistance-that-may-be-rendered-to-AML/CFT-authority)
 
 [**Division 3  Assistance to domestic authorities**](#Division-3--Assistance-to-domestic-authorities)
 
-- [30ZB Conditions for provision of assistance to domestic authority](#Conditions-for-provision-of-assistance-to-domestic-authority)
+- [156 Conditions for provision of assistance to domestic authority](#Conditions-for-provision-of-assistance-to-domestic-authority)
 
-- [30ZC Assistance that may be rendered to domestic authority](#Assistance-that-may-be-rendered-to-domestic-authority)
+- [157 Assistance that may be rendered to domestic authority](#Assistance-that-may-be-rendered-to-domestic-authority)
 
 [**Division 4  Additional provisions for Divisions 2 and 3**](#Division-4--Additional-provisions-for-Divisions-2-and-3)
 
-- [30ZD Offences under this Part](#Offences-under-this-Part)
+- [158 Offences under this Part](#Offences-under-this-Part)
 
-- [30ZE Immunities](#Immunities)
+- [159 Immunities](#Immunities)
 
-- [30ZF Authority may provide assistance](#Authority-may-provide-assistance)
+- [160 Authority may provide assistance](#Authority-may-provide-assistance)
 
 [**Division 5  Inspection by AML/CFT authority**](#Division-5--Inspection-by-AML/CFT-authority)
 
-- [30ZG Conditions for inspection by AML/CFT authority](#Conditions-for-inspection-by-AML/CFT-authority)
+- [161 Conditions for inspection by AML/CFT authority](#Conditions-for-inspection-by-AML/CFT-authority)
 
-- [30ZH Duty of financial institution under inspection](#Duty-of-financial-institution-under-inspection)
+- [162 Duty of financial institution under inspection](#Duty-of-financial-institution-under-inspection)
 
-- [30ZI Confidentiality of inspection reports](#Confidentiality-of-inspection-reports)
+- [163 Confidentiality of inspection reports](#Confidentiality-of-inspection-reports)
 
 [**Part VI MISCELLANEOUS**](#Part-VI)
 
-- [31 Statistics](#Statistics)
+- [164 Statistics](#Statistics)
 
-- [32 Authority’s financial year](#Authority’s-financial-year)
+- [165 Authority’s financial year](#Authority’s-financial-year)
 
-- [32A Budget](#Budget)
+- [166 Budget](#Budget)
 
-- [33 Audit](#Audit)
+- [167 Audit](#Audit)
 
-- [34 Preparation and publication of financial statements and annual report](#Preparation-and-publication-of-financial-statements-and-annual-report)
+- [168 Preparation and publication of financial statements and annual report](#Preparation-and-publication-of-financial-statements-and-annual-report)
 
-- [35 Borrowing from Authority by employees](#Borrowing-from-Authority-by-employees)
+- [169 Borrowing from Authority by employees](#Borrowing-from-Authority-by-employees)
 
-- [36 Power to appoint attorney](#Power-to-appoint-attorney)
+- [170 Power to appoint attorney](#Power-to-appoint-attorney)
 
-- [37 Validity of acts and transactions of Authority](#Validity-of-acts-and-transactions-of-Authority)
+- [171 Validity of acts and transactions of Authority](#Validity-of-acts-and-transactions-of-Authority)
 
-- [38 Guarantee by Government](#Guarantee-by-Government)
+- [172 Guarantee by Government](#Guarantee-by-Government)
 
-- [39 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
+- [173 Consent of Public Prosecutor](#Consent-of-Public-Prosecutor)
 
-- [39A Legal officer of Authority may act for Authority in civil proceedings](#Legal-officer-of-Authority-may-act-for-Authority-in-civil-proceedings)
+- [174 Legal officer of Authority may act for Authority in civil proceedings](#Legal-officer-of-Authority-may-act-for-Authority-in-civil-proceedings)
 
-- [40 (Repealed)](#Repealed)
+- [175 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
 
-- [41 Jurisdiction of District Court](#Jurisdiction-of-District-Court)
+- [176 Composition of offences](#Composition-of-offences)
 
-- [41A Composition of offences](#Composition-of-offences)
+- [177 Recovery of fees, expenses, etc.](#Recovery-of-fees-expenses-etc)
 
-- [41B Recovery of fees, expenses, etc.](#Recovery-of-fees-expenses-etc)
+- [178 Exemption](#Exemption)
 
-- [41C Exemption](#Exemption)
+- [179 Power of Authority to make regulations relating to objects and purposes of Act](#Power-of-Authority-to-make-regulations-relating-to-objects-and-purposes-of-Act)
 
-- [42 Power of Authority to make regulations relating to objects and purposes of Act](#Power-of-Authority-to-make-regulations-relating-to-objects-and-purposes-of-Act)
-
-- [43 Operation of Act not to affect Currency Act](#Operation-of-Act-not-to-affect-Currency-Act)
+- [180 Operation of Act not to affect Currency Act](#Operation-of-Act-not-to-affect-Currency-Act)
 
 [**THE SCHEDULE Written Laws**](#THE-SCHEDULE)
 
@@ -398,7 +396,9 @@ PRELIMINARY
 
 [Act 9 of 2013 wef 18/04/2013]
 
-“primary dealer” means a person appointed under section 30Q as a primary dealer for securities issued by the Authority.
+“primary dealer” means a person appointed under section 145 as a primary dealer for securities issued by the Authority.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
@@ -1138,11 +1138,17 @@ for the purpose of determining the extent of compliance by the financial institu
 
 (5) The Authority may, in its discretion, waive the payment of all or any part of the remuneration and expenses referred to in subsection (3).
 
-(6) Where, in the course of an inspection under subsection (1), the Authority obtains any protected information as defined in section 30X(1), and that information is not necessary for taking any action regarding non-compliance with any direction issued or regulation made under section 27A or 27B, then the Authority must treat that information as secret.
+(6) Where, in the course of an inspection under subsection (1), the Authority obtains any protected information as defined in section 152(1), and that information is not necessary for taking any action regarding non-compliance with any direction issued or regulation made under section 27A or 27B, then the Authority must treat that information as secret.
 
-(7) Subsection (6) does not prevent the transmission under section 27F, 30ZA, 30ZC or 30ZF by the Authority of any information to any authority referred to in the applicable section.
+[Act 31 of 2017 wef 04/06/2018]
 
-(8) In this section and section 27D, “book” has the same meaning as in section 30X(1).
+(7) Subsection (6) does not prevent the transmission under section 27F, 155, 157 or 160 by the Authority of any information to any authority referred to in the applicable section.
+
+[Act 31 of 2017 wef 04/06/2018]
+
+(8) In this section and section 27D, “book” has the same meaning as in section 152(1).
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (9) In this section and sections 27D, 27E and 27F, “financial institution” has the same meaning as in section 27A(6) read with section 27A(7).
 
@@ -1160,7 +1166,9 @@ for the purpose of determining the extent of compliance by the financial institu
 
 (d) procure a person who is in possession of such information (including information relating to the internal control systems of the financial institution) and facilities as the Authority may reasonably require to conduct the inspection, to provide the information and facilities to the Authority.
 
-(2) Subsection (1) has effect despite any obligation of confidentiality or other restrictions on the disclosure of information imposed on the financial institution or any of its officers, or on any person referred to in subsection (1)(b) or (d), by any prescribed written law as defined in section 30X(1) or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct.
+(2) Subsection (1) has effect despite any obligation of confidentiality or other restrictions on the disclosure of information imposed on the financial institution or any of its officers, or on any person referred to in subsection (1)(b) or (d), by any prescribed written law as defined in section 152(1) or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (3) A financial institution which refuses or neglects, without reasonable excuse, to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part of a day during which the offence continues after conviction.
 
@@ -1214,9 +1222,13 @@ for the purpose of determining the extent of compliance by the financial institu
 
 ### Authority may transmit information from inspection to corresponding authority
 
-27F\.—(1) The Authority or any person authorised by the Authority may, on the Authority’s own motion, and subject to the satisfaction of such conditions as the Authority may determine, transmit any information obtained by the Authority from an inspection under section 27C to a corresponding authority as defined in section 30X(1) of a foreign country that exercises consolidated supervision authority (whether or not for compliance with any AML/CFT requirement as defined in section 30X(1)) over the financial institution to which the inspection relates.
+27F\.—(1) The Authority or any person authorised by the Authority may, on the Authority’s own motion, and subject to the satisfaction of such conditions as the Authority may determine, transmit any information obtained by the Authority from an inspection under section 27C to a corresponding authority as defined in section 152(1) of a foreign country that exercises consolidated supervision authority (whether or not for compliance with any AML/CFT requirement as defined in section 30X(1)) over the financial institution to which the inspection relates.
 
-(2) Subsection (1) applies despite the provisions of any prescribed written law as defined in section 30X(1) or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, and is without prejudice to section 30ZF or any other written law or rule of law authorising the Authority, or a person authorised by the Authority, to disclose information in the Authority’s or the person’s possession to another person.
+[Act 31 of 2017 wef 04/06/2018]
+
+(2) Subsection (1) applies despite the provisions of any prescribed written law as defined in section 152(1) or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, and is without prejudice to section 160 or any other written law or rule of law authorising the Authority, or a person authorised by the Authority, to disclose information in the Authority’s or the person’s possession to another person.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 14 of 2015 wef 26/06/2015]
 
@@ -1476,7 +1488,7 @@ CONTROL OVER FINANCIAL INSTITUTIONS
 
 ### Application and interpretation of this Part
 
-30AA\.—(1) This Part shall apply to, and in relation to, every relevant financial institution.
+31\.—(1) This Part shall apply to, and in relation to, every relevant financial institution.
 
 (2) In this Part, unless the context otherwise requires —
 
@@ -1506,9 +1518,11 @@ CONTROL OVER FINANCIAL INSTITUTIONS
 
 (a) is approved by the Authority under section 28; and
 
-(b) belongs to a class of financial institutions that is prescribed by regulations made under section 30AAJ for the purposes of this definition.
+(b) belongs to a class of financial institutions that is prescribed by regulations made under section 41 for the purposes of this definition.
 
-(3) In this subsection and sections 30AAB to 30AAF, unless the context otherwise requires —
+[Act 31 of 2017 wef 04/06/2018]
+
+(3) In this subsection and sections 33 to 37, unless the context otherwise requires —
 
 “business” includes affairs and property;
 
@@ -1516,15 +1530,23 @@ CONTROL OVER FINANCIAL INSTITUTIONS
 
 “relevant business” means any business of a relevant financial institution —
 
-(a) which the Authority has assumed control of under section 30AAB; or
+(a) which the Authority has assumed control of under section33; or
 
-(b) in relation to which a statutory adviser or a statutory manager has been appointed under section 30AAB;
+[Act 31 of 2017 wef 04/06/2018]
 
-“statutory adviser” means a statutory adviser appointed under section 30AAB;
+(b) in relation to which a statutory adviser or a statutory manager has been appointed under section33;
 
-“statutory manager” means a statutory manager appointed under section 30AAB.
+[Act 31 of 2017 wef 04/06/2018]
 
-(4) In this subsection and sections 30AAG and 30AAH, unless the context otherwise requires —
+“statutory adviser” means a statutory adviser appointed under section 33;
+
+[Act 31 of 2017 wef 04/06/2018]
+
+“statutory manager” means a statutory manager appointed under section 33.
+
+[Act 31 of 2017 wef 04/06/2018]
+
+(4) In this subsection and sections 38 and 39, unless the context otherwise requires —
 
 “business” includes affairs, property, right, obligation and liability;
 
@@ -1536,23 +1558,29 @@ CONTROL OVER FINANCIAL INSTITUTIONS
 
 “significant business”, in relation to a relevant financial institution, means the usual business of a financial institution belonging to the same class of financial institutions as that relevant financial institution;
 
-“transferee” means any person (being a person who is, or who has applied or will be applying to be, approved, authorised, designated, recognised, registered, licensed or otherwise regulated, under this Act or any of the written laws set out in the Schedule, to carry on the significant business of the transferor) to which the whole or any part of a transferor’s business is, is to be, or is proposed to be transferred under section 30AAG(1);
+“transferee” means any person (being a person who is, or who has applied or will be applying to be, approved, authorised, designated, recognised, registered, licensed or otherwise regulated, under this Act or any of the written laws set out in the Schedule, to carry on the significant business of the transferor) to which the whole or any part of a transferor’s business is, is to be, or is proposed to be transferred under section 38(1);
 
-“transferor” means a relevant financial institution the whole or any part of the business of which is, is to be, or is proposed to be transferred under section 30AAG(1).
+[Act 31 of 2017 wef 04/06/2018]
+
+“transferor” means a relevant financial institution the whole or any part of the business of which is, is to be, or is proposed to be transferred under section 38(1).
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Information of insolvency, etc.
 
-30AAA\.—(1) Any relevant financial institution which is or is likely to become insolvent, which is or is likely to become unable to meet its obligations, or which has suspended or is about to suspend payments, shall immediately inform the Authority of that fact.
+32\.—(1) Any relevant financial institution which is or is likely to become insolvent, which is or is likely to become unable to meet its obligations, or which has suspended or is about to suspend payments, shall immediately inform the Authority of that fact.
 
 (2) Any relevant financial institution which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Action by Authority if relevant financial institution unable to meet obligations, etc.
 
-30AAB\.—(1) The Authority may exercise any one or more of the powers specified in subsection (2) as appears to it to be necessary, where —
+33\.—(1) The Authority may exercise any one or more of the powers specified in subsection (2) as appears to it to be necessary, where —
 
 (a) a relevant financial institution informs the Authority that it is or is likely to become insolvent, or that it is or is likely to become unable to meet its obligations, or that it has suspended or is about to suspend payments;
 
@@ -1560,7 +1588,9 @@ CONTROL OVER FINANCIAL INSTITUTIONS
 
 (c) the Authority is of the opinion that a relevant financial institution —
 
-(i) is carrying on its business in a manner likely to be detrimental to the interests of such persons as may be prescribed by regulations made under section 30AAJ in relation to the relevant financial institution;
+(i) is carrying on its business in a manner likely to be detrimental to the interests of such persons as may be prescribed by regulations made under section 41 in relation to the relevant financial institution;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (ii) is or is likely to become insolvent, or is or is likely to become unable to meet its obligations, or is about to suspend payments;
 
@@ -1610,11 +1640,13 @@ CONTROL OVER FINANCIAL INSTITUTIONS
 
 (7) Any relevant financial institution that fails to comply with a requirement imposed by the Authority under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
-### Effect of assumption of control under section 30AAB
+### Effect of assumption of control under section 33
 
-30AAC\.—(1) Upon assuming control of the relevant business of a relevant financial institution, the Authority or statutory manager, as the case may be, shall take custody or control of the relevant business.
+34\.—(1) Upon assuming control of the relevant business of a relevant financial institution, the Authority or statutory manager, as the case may be, shall take custody or control of the relevant business.
 
 (2) During the period when the Authority or statutory manager is in control of the relevant business of a relevant financial institution, the Authority or statutory manager —
 
@@ -1624,7 +1656,9 @@ CONTROL OVER FINANCIAL INSTITUTIONS
 
 (3) In managing the relevant business of a relevant financial institution, the Authority or statutory manager —
 
-(a) shall take into consideration the interests of such persons as may be prescribed by regulations made under section 30AAJ in relation to the relevant financial institution; and
+(a) shall take into consideration the interests of such persons as may be prescribed by regulations made under section 41 in relation to the relevant financial institution; and
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) shall have all the duties, powers and functions of the members of the board of directors of the relevant financial institution (collectively and individually) under this Act, the Companies Act (Cap. 50) and the constitution of the relevant financial institution, including powers of delegation, in relation to the relevant business of the relevant financial institution; but nothing in this paragraph shall require the Authority or statutory manager to call any meeting of the relevant financial institution under the Companies Act or the constitution of the relevant financial institution.
 
@@ -1684,15 +1718,19 @@ the direction or decision referred to in sub-paragraph (i) shall, to the extent 
 
 (11) In this section, “constitution”, in relation to a relevant financial institution, means the memorandum of association and articles of association of the relevant financial institution, or any other instrument under which the relevant financial institution is established or incorporated.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Duration of control
 
-30AAD\.—(1) The Authority shall cease to be in control of the relevant business of a relevant financial institution when the Authority is satisfied that —
+35\.—(1) The Authority shall cease to be in control of the relevant business of a relevant financial institution when the Authority is satisfied that —
 
 (a) the reasons for the Authority’s assumption of control of the relevant business have ceased to exist; or
 
-(b) it is no longer necessary for the protection of the persons prescribed by regulations made under section 30AAJ for the purposes of section 30AAB(1)(c)(i) in relation to the relevant financial institution.
+(b) it is no longer necessary for the protection of the persons prescribed by regulations made under section 41 for the purposes of section 33(1)(c)(i) in relation to the relevant financial institution.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) A statutory manager shall be deemed to have assumed control of the relevant business of a relevant financial institution on the date of his appointment as a statutory manager.
 
@@ -1702,7 +1740,9 @@ the direction or decision referred to in sub-paragraph (i) shall, to the extent 
 
 (i) the reasons for the appointment have ceased to exist; or
 
-(ii) it is no longer necessary for the protection of the persons prescribed by regulations made under section 30AAJ for the purposes of section 30AAB(1)(c)(i) in relation to the relevant financial institution; or
+(ii) it is no longer necessary for the protection of the persons prescribed by regulations made under section 41 for the purposes of section 33(1)(c)(i) in relation to the relevant financial institution; or
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) on any other ground,
 
@@ -1718,11 +1758,13 @@ and upon such revocation, the statutory manager shall cease to be in control of 
 
 (d) the revocation of a statutory manager’s appointment in relation to the relevant business of a relevant financial institution.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Responsibilities of officers, member, etc., of relevant financial institution
 
-30AAE\.—(1) During the period when the Authority or statutory manager is in control of the relevant business of a relevant financial institution —
+36\.—(1) During the period when the Authority or statutory manager is in control of the relevant business of a relevant financial institution —
 
 (a) the Court may, on an application by the Authority or statutory manager, direct any person who has ceased to be or who is still any chief executive, director, member, executive officer, employee, agent, banker, auditor or office holder of, or trustee for, the relevant financial institution to pay, deliver, convey, surrender or transfer to the Authority or statutory manager, within such period as the Court may specify, any property, book, accounts, record or other documents, whether in electronic, print or other form, of the relevant financial institution which is comprised in, forms part of or relates to the relevant business of the relevant financial institution, and which is in the person’s possession or control; and
 
@@ -1736,21 +1778,25 @@ and upon such revocation, the statutory manager shall cease to be in control of 
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Remuneration and expenses of Authority and others in certain cases
 
-30AAF\. The Authority may at any time fix the remuneration and expenses to be paid by a relevant financial institution —
+37\. The Authority may at any time fix the remuneration and expenses to be paid by a relevant financial institution —
 
 (a) to a statutory manager or statutory adviser appointed in relation to the relevant financial institution, whether or not the appointment has been revoked; and
 
 (b) where the Authority has assumed control of the relevant business of the relevant financial institution, to the Authority and any person appointed by the Authority under section 13B in relation to the Authority’s assumption of control of the relevant business, whether or not the Authority has ceased to be in control of the relevant business.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Voluntary transfer of business of relevant financial institution
 
-30AAG\.—(1) A transferor may transfer the whole or any part of its business (including any business that is not the significant business of the transferor) to a transferee, if —
+38\.—(1) A transferor may transfer the whole or any part of its business (including any business that is not the significant business of the transferor) to a transferee, if —
 
 (a) where the transferor is incorporated in Singapore, the Authority has consented to the transfer;
 
@@ -1774,7 +1820,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.
 
-(7) The Authority may require a person to furnish, within the period and in the manner specified by the Authority, any information or document that the Authority may reasonably require for the discharge of its duties or functions, or the exercise of its powers, under this section and section 30AAH.
+(7) The Authority may require a person to furnish, within the period and in the manner specified by the Authority, any information or document that the Authority may reasonably require for the discharge of its duties or functions, or the exercise of its powers, under this section and section 39.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (8) Any person who —
 
@@ -1786,21 +1834,29 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (9) Where a person claims, before furnishing the Authority with any information or document that he is required to furnish under subsection (7), that the information or document might tend to incriminate him, the information or document shall not be admissible in evidence against him in criminal proceedings other than proceedings under subsection (8).
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Approval of transfer of business of relevant financial institution
 
-30AAH\.—(1) A transferor shall apply to the Court for its approval of the transfer of the whole or any part of the business of the transferor to the transferee under section 30AAG(1).
+39\.—(1) A transferor shall apply to the Court for its approval of the transfer of the whole or any part of the business of the transferor to the transferee under section 38(1).
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) Before making an application under subsection (1) —
 
 (a) the transferor shall lodge with the Authority a report setting out such details of the transfer and furnish such supporting documents as the Authority may specify;
 
-(b) where the transferor is incorporated in Singapore, the transferor shall obtain the consent of the Authority under section 30AAG(1)(a);
+(b) where the transferor is incorporated in Singapore, the transferor shall obtain the consent of the Authority under section 38(1)(a);
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (c) the transferor and the transferee shall, if they intend to serve on their respective customers a summary of the transfer, obtain the Authority’s approval of the summary;
 
-(d) the transferor shall, at least 15 days before the application is made but not earlier than one month after the report referred to in paragraph (a) is lodged with the Authority, publish in theGazetteand in such newspaper or newspapers as the Authority may determine a notice of the transferor’s intention to make the application and containing such other particulars as may be prescribed by regulations made under section 30AAJ;
+(d) the transferor shall, at least 15 days before the application is made but not earlier than one month after the report referred to in paragraph (a) is lodged with the Authority, publish in theGazetteand in such newspaper or newspapers as the Authority may determine a notice of the transferor’s intention to make the application and containing such other particulars as may be prescribed by regulations made under section 41;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (e) the transferor and the transferee shall keep at their respective offices in Singapore, for inspection by any person who may be affected by the transfer, a copy of the report referred to in paragraph (a) for a period of 15 days after the publication of the notice referred to in paragraph (d) in theGazette; and
 
@@ -1812,7 +1868,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) may make any application to the Court in relation to the transfer.
 
-(4) Where the transferor is incorporated in Singapore, the Court shall not approve the transfer if the Authority has not consented under section 30AAG(1)(a) to the transfer.
+(4) Where the transferor is incorporated in Singapore, the Court shall not approve the transfer if the Authority has not consented under section 38(1)(a) to the transfer.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (5) The Court may, after taking into consideration the views, if any, of the Authority on the transfer —
 
@@ -1866,11 +1924,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) a liquidator of the transferor or transferee (as the case may be) appointed in a voluntary winding up.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Disqualification or removal of director or executive officer of relevant financial institution
 
-30AAI\.—(1) Notwithstanding the provisions of any other written law —
+40\.—(1) Notwithstanding the provisions of any other written law —
 
 (a) a relevant financial institution shall not, without the prior written consent of the Authority, permit a person to act as its executive officer; and
 
@@ -1908,9 +1968,13 @@ if the person —
 
 (c) has failed to discharge any of the duties of his office,
 
-the Authority may, if it thinks it necessary in the public interest or for the protection of such persons as may be prescribed by regulations made under section 30AAJ for the purposes of this subsection in relation to the relevant financial institution, by notice in writing to the relevant financial institution, direct the relevant financial institution to remove the director or executive officer, as the case may be, from his office or employment within such period as may be specified by the Authority in the notice, and the relevant financial institution shall comply with the notice.
+the Authority may, if it thinks it necessary in the public interest or for the protection of such persons as may be prescribed by regulations made under section 41 for the purposes of this subsection in relation to the relevant financial institution, by notice in writing to the relevant financial institution, direct the relevant financial institution to remove the director or executive officer, as the case may be, from his office or employment within such period as may be specified by the Authority in the notice, and the relevant financial institution shall comply with the notice.
 
-(3) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, when determining whether a director or an executive officer of a relevant financial institution has failed to discharge the duties of his office for the purposes of subsection (2)(c), have regard to such criteria as may be prescribed by regulations made under section 30AAJ.
+[Act 31 of 2017 wef 04/06/2018]
+
+(3) Without prejudice to any other matter that the Authority may consider relevant, the Authority shall, when determining whether a director or an executive officer of a relevant financial institution has failed to discharge the duties of his office for the purposes of subsection (2)(c), have regard to such criteria as may be prescribed by regulations made under section 41.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (4) Before directing a relevant financial institution to remove a person from his office or employment under subsection (2), the Authority shall —
 
@@ -1938,11 +2002,13 @@ the Authority may direct the relevant financial institution to remove the person
 
 “regulatory authority”, in relation to a foreign country or territory, means an authority of the foreign country or territory exercising any function that corresponds to a regulatory function of the Authority under this Act or any of the written laws set out in the Schedule.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Power of Authority to make regulations for this Part
 
-30AAJ\.—(1) The Authority may make regulations for the purposes of this Part, including regulations to prescribe anything which may be prescribed under this Part.
+41\.—(1) The Authority may make regulations for the purposes of this Part, including regulations to prescribe anything which may be prescribed under this Part.
 
 (2) Without prejudice to the generality of subsection (1), regulations made under this section may provide that any contravention of any specified provision of the regulations shall be an offence punishable —
 
@@ -1950,7 +2016,9 @@ the Authority may direct the relevant financial institution to remove the person
 
 (b) in any other case, with a fine not exceeding $250,000 and, in the case of a continuing offence, with a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
-(3) For the purposes of sections 30AAB(1)(c)(i) and 30AAC(3)(a), the Authority may prescribe different persons and different classes of persons in relation to different relevant financial institutions and different classes of relevant financial institutions.
+(3) For the purposes of sections 33(1)(c)(i) and 34(3)(a), the Authority may prescribe different persons and different classes of persons in relation to different relevant financial institutions and different classes of relevant financial institutions.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
@@ -1966,9 +2034,11 @@ General provisions
 
 ### Interpretation of this Part
 
-30AAK\. In this Part, unless the context otherwise requires —
+49\. In this Part, unless the context otherwise requires —
 
-“affected person”, in relation to a specified financial institution, means any person prescribed by regulations made under section 30AAZN as an affected person for that specified financial institution;
+“affected person”, in relation to a specified financial institution, means any person prescribed by regulations made under section 126 as an affected person for that specified financial institution;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “business” includes affairs and property;
 
@@ -1976,7 +2046,7 @@ General provisions
 
 “Court” means the High Court or a Judge thereof;
 
-“director”, in relation to a specified financial institution or a significant associated entity referred to in section 30AAZI, includes —
+“director”, in relation to a specified financial institution or a significant associated entity referred to in section 121, includes —
 
 (a) any person, by whatever name described, occupying the position of director of the specified financial institution or significant associated entity (as the case may be);
 
@@ -1984,17 +2054,25 @@ General provisions
 
 (c) an alternate director, or a substitute director, of the specified financial institution or significant associated entity (as the case may be);
 
-“excluded financial institution” means any person who is approved, authorised, designated, recognised, registered, licensed or otherwise regulated by the Authority under this Act or any of the written laws set out in the Schedule, and is prescribed by regulations made under section 30AAZN as an excluded financial institution;
+[Act 31 of 2017 wef 04/06/2018]
 
-“executive officer”, in relation to a specified financial institution or a significant associated entity referred to in section 30AAZI, means any person, by whatever name described, who —
+“excluded financial institution” means any person who is approved, authorised, designated, recognised, registered, licensed or otherwise regulated by the Authority under this Act or any of the written laws set out in the Schedule, and is prescribed by regulations made under section 126 as an excluded financial institution;
+
+[Act 31 of 2017 wef 04/06/2018]
+
+“executive officer”, in relation to a specified financial institution or a significant associated entity referred to in section 121, means any person, by whatever name described, who —
 
 (a) is in the direct employment of, or acting for or by arrangement with, the specified financial institution or significant associated entity (as the case may be); and
 
 (b) is concerned with or takes part in the management of the specified financial institution or significant associated entity (as the case may be) on a day-to-day basis;
 
+[Act 31 of 2017 wef 04/06/2018]
+
 “office holder”, in relation to a specified financial institution, means any person acting as the liquidator, the provisional liquidator, the receiver or the receiver and manager of the specified financial institution, or acting in an equivalent capacity in relation to the specified financial institution;
 
-“pertinent financial institution” means any person who is approved, authorised, designated, recognised, registered, licensed or otherwise regulated by the Authority under this Act or any of the written laws set out in the Schedule, and is prescribed by regulations made under section 30AAZN as a pertinent financial institution;
+“pertinent financial institution” means any person who is approved, authorised, designated, recognised, registered, licensed or otherwise regulated by the Authority under this Act or any of the written laws set out in the Schedule, and is prescribed by regulations made under section 126 as a pertinent financial institution;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “Registrar of Companies” means the Registrar of Companies appointed under the Companies Act (Cap. 50) and includes any Deputy or Assistant Registrar of Companies appointed under that Act;
 
@@ -2002,7 +2080,9 @@ General provisions
 
 “relevant Act”, in relation to a specified financial institution, means the Act under which that specified financial institution is approved, authorised, designated, recognised, registered, licensed or otherwise regulated;
 
-“relevant provisions”, in relation to any specified financial institution, or any person who is carrying on or has carried on the significant business of a specified financial institution, means such provisions of written law as may be prescribed by regulations made under section 30AAZN as relevant provisions for that specified financial institution or person, as the case may be;
+“relevant provisions”, in relation to any specified financial institution, or any person who is carrying on or has carried on the significant business of a specified financial institution, means such provisions of written law as may be prescribed by regulations made under section 126 as relevant provisions for that specified financial institution or person, as the case may be;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “significant business”, in relation to a specified financial institution, means the usual business of a financial institution belonging to the same class of financial institutions as that specified financial institution;
 
@@ -2010,11 +2090,13 @@ General provisions
 
 “Take-over Code” means the Singapore Code on Take-overs and Mergers which is referred to in section 139 of the Securities and Futures Act (Cap. 289) and is issued by the Authority under section 321(1) of that Act.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Exercise of powers under Divisions 2, 3 and 4 of this Part
 
-30AAL\. In determining whether to exercise its powers under Divisions 2, 3 and 4 of this Part in relation to a pertinent financial institution, the Authority may have regard to one or more of the following matters:
+50\. In determining whether to exercise its powers under Divisions 2, 3 and 4 of this Part in relation to a pertinent financial institution, the Authority may have regard to one or more of the following matters:
 
 (a) whether a failure of the pertinent financial institution would have a widespread adverse effect on the financial system in Singapore or the economy of Singapore, or both, whether or not that widespread adverse effect occurs directly or indirectly as a result of the impact of the failure on the financial system in Singapore, on the financial markets in Singapore or on other financial institutions in Singapore;
 
@@ -2022,11 +2104,13 @@ General provisions
 
 (c) any other matter that the Authority considers relevant.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Directions or regulations concerning persons that have ceased to be specified financial institutions
 
-30AAM\.—(1) The Authority may, from time to time, issue such directions or make such regulations concerning any person that has ceased to be a specified financial institution, or any class of persons that has ceased to be a class of specified financial institutions, as the Authority considers necessary —
+51\.—(1) The Authority may, from time to time, issue such directions or make such regulations concerning any person that has ceased to be a specified financial institution, or any class of persons that has ceased to be a class of specified financial institutions, as the Authority considers necessary —
 
 (a) in order to discharge, or to facilitate the discharge of, any binding obligation of the person or class of persons, as the case may be; or
 
@@ -2062,11 +2146,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (7) It shall not be necessary to publish any direction issued under subsection (1) in theGazette.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Directions and notices issued under Act or written laws in Schedule to continue to apply to persons who cease to be specified financial institutions
 
-30AAN\.—(1) Where a person ceases to be a specified financial institution, any direction or notice issued under this Act or any of the written laws set out in the Schedule (being a direction or notice which was in force, and which applied to that person, immediately before that person ceased to be a specified financial institution) shall, notwithstanding any rule of law or written law to the contrary, continue to apply to that person, until that direction or notice is cancelled by the Authority.
+52\.—(1) Where a person ceases to be a specified financial institution, any direction or notice issued under this Act or any of the written laws set out in the Schedule (being a direction or notice which was in force, and which applied to that person, immediately before that person ceased to be a specified financial institution) shall, notwithstanding any rule of law or written law to the contrary, continue to apply to that person, until that direction or notice is cancelled by the Authority.
 
 (2) Subsection (1) applies, to a person that has ceased to be a specified financial institution, regardless of whether the reason for the cessation is one or more of the following matters:
 
@@ -2082,11 +2168,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) Any person referred to in subsection (1) who, after ceasing to be a specified financial institution, fails to comply with a direction or notice referred to in that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million and, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part thereof during which the offence continues after conviction.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Moratorium
 
-30AAO\.—(1) The Authority may, if it considers it to be in the interests of the affected persons of a specified financial institution, make an order prohibiting that specified financial institution from carrying on its significant business or from doing or performing any act or function connected with its significant business or any aspect thereof that may be specified in the order.
+53\.—(1) The Authority may, if it considers it to be in the interests of the affected persons of a specified financial institution, make an order prohibiting that specified financial institution from carrying on its significant business or from doing or performing any act or function connected with its significant business or any aspect thereof that may be specified in the order.
 
 (2) The Authority may, if it considers it to be in the interests of the affected persons of a specified financial institution, apply to the High Court for, and the High Court may make, one or more of the following orders:
 
@@ -2108,11 +2196,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) So long as an order under subsection (1) remains in force, the Authority may, by notice in writing to that specified financial institution, suspend the approval, authorisation, designation, recognition, registration or licence of that specified financial institution under the relevant Act.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### General provisions as to winding up
 
-30AAP\.—(1) On the application of the Authority, the Court may, in addition to the grounds specified in section 254(1) of the Companies Act (Cap. 50), order under that Act the winding up of a company incorporated in Singapore which is carrying on or has carried on the significant business of a specified financial institution in Singapore, if —
+54\.—(1) On the application of the Authority, the Court may, in addition to the grounds specified in section 254(1) of the Companies Act (Cap. 50), order under that Act the winding up of a company incorporated in Singapore which is carrying on or has carried on the significant business of a specified financial institution in Singapore, if —
 
 (a) the Authority has exercised any power under the relevant provisions in relation to the company; or
 
@@ -2160,11 +2250,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “unregistered company” has the same meaning as in section 350 of the Companies Act.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Power of Court to take action against directors and executive officers
 
-30AAQ\.—(1) Without prejudice to any provision of this Act or any of the written laws set out in the Schedule, if, in the course of exercising the Authority’s powers under this Part or the relevant provisions, it appears to the Authority that any past or present director or executive officer of a specified financial institution has failed to discharge the duties of his office, has misapplied or retained, or become liable or accountable for, any money or property of the specified financial institution, or has been guilty of any misfeasance or breach of trust or duty in relation to the specified financial institution, the Authority may apply to the Court for, and the Court may make —
+55\.—(1) Without prejudice to any provision of this Act or any of the written laws set out in the Schedule, if, in the course of exercising the Authority’s powers under this Part or the relevant provisions, it appears to the Authority that any past or present director or executive officer of a specified financial institution has failed to discharge the duties of his office, has misapplied or retained, or become liable or accountable for, any money or property of the specified financial institution, or has been guilty of any misfeasance or breach of trust or duty in relation to the specified financial institution, the Authority may apply to the Court for, and the Court may make —
 
 (a) an order that any salary, remuneration or other benefits received by the director or executive officer from the specified financial institution during the relevant period be repaid or returned to the specified financial institution;
 
@@ -2180,6 +2272,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) In this section, “relevant period” means the period of 2 years immediately preceding the date on which the Authority began to exercise its powers under this Part or the date on which the Authority began to exercise its powers under the relevant provisions, whichever is the earlier.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 Division 2 —
@@ -2193,15 +2287,19 @@ of pertinent financial institution
 
 ### Interpretation of this Division
 
-30AAR\. In this Division, unless the context otherwise requires —
+56\. In this Division, unless the context otherwise requires —
 
 “business” includes affairs, property, right, obligation and liability;
 
-“certificate” means a certificate of transfer issued by the Minister under section 30AAT(1);
+“certificate” means a certificate of transfer issued by the Minister under section 58(1);
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “debenture” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“determination” means a determination made by the Authority under section 30AAS(1);
+“determination” means a determination made by the Authority under section 57(1);
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “property” includes property, right and power of every description;
 
@@ -2211,11 +2309,13 @@ of pertinent financial institution
 
 “transferor” means a pertinent financial institution the whole or any part of the business of which is, is to be, or is proposed to be transferred under this Division.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Compulsory transfer of business
 
-30AAS\.—(1) Subject to subsections (2) and (6), the Authority may make a determination that the whole or any part of the business of a transferor shall be transferred to a transferee, if —
+57\.—(1) Subject to subsections (2) and (6), the Authority may make a determination that the whole or any part of the business of a transferor shall be transferred to a transferee, if —
 
 (a) any ground exists for the Authority to exercise any power under the relevant provisions in relation to the transferor, whether or not the Authority has exercised the power;
 
@@ -2299,13 +2399,17 @@ of pertinent financial institution
 
 (14) A determination, an approval under subsection (12) of a determination or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act or the relevant Act applicable to the transferor.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Certificate of transfer
 
-30AAT\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of transfer, which shall come into effect on the date specified by him in the certificate.
+58\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of transfer, which shall come into effect on the date specified by him in the certificate.
 
-(2) The certificate shall specify such information as may be prescribed by regulations made under section 30AAZN.
+(2) The certificate shall specify such information as may be prescribed by regulations made under section 126.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (3) The certificate may make provision for all or any of the following matters:
 
@@ -2373,17 +2477,23 @@ of pertinent financial institution
 
 (c) a liquidator of the transferor or transferee (as the case may be) appointed in a voluntary winding up.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Moratorium, avoidance of disposition of property, etc.
 
-30AAU\.—(1) Notwithstanding section 30AAO(2) but subject to section 30AAZM, no resolution shall be passed, and no order shall be made, for the winding up of a transferor, and no judicial management order under Part VIIIA of the Companies Act (Cap. 50) shall be made in relation to a transferor, during the period —
+59\.—(1) Notwithstanding section 53(2) but subject to section 125, no resolution shall be passed, and no order shall be made, for the winding up of a transferor, and no judicial management order under Part VIIIA of the Companies Act (Cap. 50) shall be made in relation to a transferor, during the period —
 
 (a) beginning on —
 
-(i) the date on which the Minister publishes the notice under section 30AAS(8) in theGazetteon the transfer of the business (or any part thereof) of the transferor; or
+(i) the date on which the Minister publishes the notice under section 57(8) in theGazetteon the transfer of the business (or any part thereof) of the transferor; or
 
-(ii) where the notice is not published in theGazette, the date on which the Authority publishes the certificate under section 30AAT(5) in theGazetteon the transfer of the business (or any part thereof) of the transferor; and
+[Act 31 of 2017 wef 04/06/2018]
+
+(ii) where the notice is not published in theGazette, the date on which the Authority publishes the certificate under section 58(5) in theGazetteon the transfer of the business (or any part thereof) of the transferor; and
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) ending on —
 
@@ -2391,7 +2501,9 @@ of pertinent financial institution
 
 (ii) where the certificate specifies a different date for the coming into effect of the transfer of any specified business, the last day on which the transfer of every specified business has come into effect.
 
-(2) Notwithstanding section 30AAO(2) but subject to section 30AAZM, during the period beginning on the date on which the Minister publishes the notice under section 30AAS(8) in theGazetteon the transfer of a specified business of the transferor or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under section 30AAT(5) in theGazetteon the transfer of the specified business, and ending on the date on which the transfer of the specified business comes into effect —
+[Act 31 of 2017 wef 04/06/2018]
+
+(2) Notwithstanding section 53(2) but subject to section 125, during the period beginning on the date on which the Minister publishes the notice under section 57(8) in theGazetteon the transfer of a specified business of the transferor or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under section 58(5) in theGazetteon the transfer of the specified business, and ending on the date on which the transfer of the specified business comes into effect —
 
 (a) no proceedings shall be commenced or continued against the transferor in respect of the specified business;
 
@@ -2400,6 +2512,8 @@ of pertinent financial institution
 (c) no steps shall be taken to enforce any security over the specified business or to repossess from the transferor the specified business under any hire-purchase agreement, chattels leasing agreement or retention of title agreement; and
 
 (d) any sale, transfer, assignment or other disposition of the specified business shall be void.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
@@ -2414,29 +2528,39 @@ of pertinent financial institution
 
 ### Interpretation of this Division
 
-30AAV\. In this Division, unless the context otherwise requires —
+65\. In this Division, unless the context otherwise requires —
 
 “business” includes affairs, property, right, obligation and liability;
 
-“certificate” means a certificate of transfer issued by the Minister under section 30AAX(1);
+“certificate” means a certificate of transfer issued by the Minister under section 67(1);
 
-“determination” means a determination made by the Authority under section 30AAW(2);
+[Act 31 of 2017 wef 04/06/2018]
+
+“determination” means a determination made by the Authority under section 66(2);
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “property” includes property, right and power of every description;
 
-“significant shareholder”, in relation to a pertinent financial institution, means any person prescribed by regulations made under section 30AAZN as a significant shareholder for that pertinent financial institution;
+“significant shareholder”, in relation to a pertinent financial institution, means any person prescribed by regulations made under section 126 as a significant shareholder for that pertinent financial institution;
 
-“significant shareholder provisions”, in relation to any pertinent financial institution, means such provisions of written law as may be prescribed by regulations made under section 30AAZN as significant shareholder provisions for that pertinent financial institution;
+[Act 31 of 2017 wef 04/06/2018]
+
+“significant shareholder provisions”, in relation to any pertinent financial institution, means such provisions of written law as may be prescribed by regulations made under section 126 as significant shareholder provisions for that pertinent financial institution;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “transferee” means any person to whom a transferor’s shares are, are to be, or are proposed to be, transferred under this Division;
 
 “transferor” means a shareholder of a pertinent financial institution whose shares in the pertinent financial institution are, are to be, or are proposed to be, transferred under this Division.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Compulsory transfer of shares
 
-30AAW\.—(1) The Authority may make a determination that all or any of the shares held by a transferor in a pertinent financial institution incorporated in Singapore shall be transferred to a transferee, if —
+66\.—(1) The Authority may make a determination that all or any of the shares held by a transferor in a pertinent financial institution incorporated in Singapore shall be transferred to a transferee, if —
 
 (a) any ground exists for the Authority to exercise any power under the relevant provisions in relation to the pertinent financial institution, whether or not the Authority has exercised the power;
 
@@ -2530,13 +2654,17 @@ of pertinent financial institution
 
 (14) A determination, an approval under subsection (10) of a determination or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act or the relevant Act applicable to the pertinent financial institution.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Certificate of transfer
 
-30AAX\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of transfer, which shall come into effect on the date specified by him in the certificate.
+67\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of transfer, which shall come into effect on the date specified by him in the certificate.
 
-(2) The certificate shall specify such information as may be prescribed by regulations made under section 30AAZN.
+(2) The certificate shall specify such information as may be prescribed by regulations made under section 126.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (3) The certificate may make provision for all or any of the following matters:
 
@@ -2582,7 +2710,7 @@ of pertinent financial institution
 
 (12) Except as provided in subsection (11), it shall not be a defence for a person charged with an offence under subsection (10) that he did not intend to or did not knowingly contravene any provision in the certificate.
 
-(13) Notwithstanding section 30AAO(2) but subject to section 30AAZM, during the period beginning on the date on which the Minister publishes the notice under section 30AAW(6) in theGazetteon the transfer of any share in a pertinent financial institution or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under subsection (5) in theGazetteon the transfer of the share, and ending on the date on which the transfer of the share comes into effect —
+(13) Notwithstanding section 53(2) but subject to section 125, during the period beginning on the date on which the Minister publishes the notice under section 66(6) in theGazetteon the transfer of any share in a pertinent financial institution or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under subsection (5) in theGazetteon the transfer of the share, and ending on the date on which the transfer of the share comes into effect —
 
 (a) no execution or other legal process shall be commenced or continued against the share;
 
@@ -2608,6 +2736,8 @@ of pertinent financial institution
 
 (l) any sale, transfer, assignment or other disposition of any property of the pertinent financial institution shall be void.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 Division 4 —
@@ -2621,27 +2751,37 @@ of pertinent financial institution
 
 ### Interpretation of this Division
 
-30AAY\. In this Division, unless the context otherwise requires —
+68\. In this Division, unless the context otherwise requires —
 
 “business” includes affairs, property, right, obligation and liability;
 
-“certificate” means a certificate of restructuring of share capital issued by the Minister under section 30AAZA(1);
+“certificate” means a certificate of restructuring of share capital issued by the Minister under section 70(1);
 
-“determination” means a determination made by the Authority under section 30AAZ(1) or (2);
+[Act 31 of 2017 wef 04/06/2018]
+
+“determination” means a determination made by the Authority under section 69(1) or (2);
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “property” includes property, right and power of every description;
 
-“significant shareholder”, in relation to a pertinent financial institution, means any person prescribed by regulations made under section 30AAZN as a significant shareholder for that pertinent financial institution;
+“significant shareholder”, in relation to a pertinent financial institution, means any person prescribed by regulations made under section 126 as a significant shareholder for that pertinent financial institution;
 
-“significant shareholder provisions”, in relation to any pertinent financial institution, means such provisions of written law as may be prescribed by regulations made under section 30AAZN for that pertinent financial institution;
+[Act 31 of 2017 wef 04/06/2018]
+
+“significant shareholder provisions”, in relation to any pertinent financial institution, means such provisions of written law as may be prescribed by regulations made under section 126 for that pertinent financial institution;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “subscriber” means any person to whom shares in a pertinent financial institution incorporated in Singapore are, are to be, or are proposed to be, issued under this Division.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Compulsory restructuring of share capital
 
-30AAZ\.—(1) The Authority may make a determination that the share capital of a pertinent financial institution incorporated in Singapore shall be reduced by the cancellation of the whole or any part of any share capital not paid up, or of any paid-up share capital, if —
+69\.—(1) The Authority may make a determination that the share capital of a pertinent financial institution incorporated in Singapore shall be reduced by the cancellation of the whole or any part of any share capital not paid up, or of any paid-up share capital, if —
 
 (a) any ground exists for the Authority to exercise any power under the relevant provisions in relation to the pertinent financial institution, whether or not the Authority has exercised the power; and
 
@@ -2751,13 +2891,17 @@ of pertinent financial institution
 
 (15) A determination, an approval under subsection (11) of a determination or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act or the relevant Act applicable to the pertinent financial institution.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Certificate of restructuring of share capital
 
-30AAZA\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of restructuring of share capital, which shall come into effect on the date specified by him in the certificate.
+70\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of restructuring of share capital, which shall come into effect on the date specified by him in the certificate.
 
-(2) The certificate shall specify such information as may be prescribed by regulations made under section 30AAZN.
+(2) The certificate shall specify such information as may be prescribed by regulations made under section 126.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (3) The certificate may make provision for all or any of the following matters:
 
@@ -2811,7 +2955,7 @@ of pertinent financial institution
 
 (12) Any pertinent financial institution which contravenes subsection (8), and every officer of the pertinent financial institution who fails to take all reasonable steps to secure compliance by the pertinent financial institution with that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
 
-(13) Notwithstanding section 30AAO(2) but subject to section 30AAZM, during the period beginning on the date on which the Minister publishes the notice under section 30AAZ(7) in theGazetteon the restructuring of the share capital of a pertinent financial institution or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under subsection (5) in theGazetteon the restructuring of the share capital, and ending on the date on which the certificate comes into effect —
+(13) Notwithstanding section 53(2) but subject to section 125, during the period beginning on the date on which the Minister publishes the notice under section 69(7) in theGazetteon the restructuring of the share capital of a pertinent financial institution or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under subsection (5) in theGazetteon the restructuring of the share capital, and ending on the date on which the certificate comes into effect —
 
 (a) no resolution shall be passed, and no order shall be made, for the winding up of the pertinent financial institution;
 
@@ -2825,6 +2969,8 @@ of pertinent financial institution
 
 (f) any sale, transfer, assignment or other disposition of any property of the pertinent financial institution shall be void.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 (14) In subsection (12), “officer”, in relation to a pertinent financial institution, includes —
 
 (a) a director, a secretary or an executive officer of the pertinent financial institution;
@@ -2832,6 +2978,8 @@ of pertinent financial institution
 (b) a receiver or manager of any part of the undertaking of the pertinent financial institution appointed under a power contained in any instrument; and
 
 (c) a liquidator of the pertinent financial institution appointed in a voluntary winding up.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
@@ -2846,7 +2994,7 @@ and domestic authorities
 
 ### Interpretation of this Division
 
-30AAZB\. In this Division, unless the context otherwise requires —
+86\. In this Division, unless the context otherwise requires —
 
 “domestic authority” means any ministry or department of the Government, any Organ of State in Singapore and any statutory body (other than the Authority) established under a public Act for a public function, and includes the company designated to be the deposit insurance and policy owners’ protection fund agency under section 56 of the Deposit Insurance and Policy Owners’ Protection Schemes Act (Cap. 77B);
 
@@ -2874,7 +3022,9 @@ and domestic authorities
 
 (j) the Trust Companies Act (Cap. 336); and
 
-(k) such other Act or Acts as the Authority may prescribe by regulations made under section 30AAZN;
+(k) such other Act or Acts as the Authority may prescribe by regulations made under section 126;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “resolution” means any action by an authority (being an authority charged with responsibility for such action) to do either or both of the following:
 
@@ -2884,11 +3034,13 @@ and domestic authorities
 
 “resolution authority”, in relation to a foreign country or territory, means an authority of the foreign country or territory which, whether alone or together with one or more other authorities of the foreign country or territory, is responsible for the resolution, or for preparing plans for dealing with the resolution, of a financial institution.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Conditions for provision of assistance to foreign resolution authority
 
-30AAZC\.—(1) The Authority may provide the assistance referred to in section 30AAZE to a resolution authority of a foreign country or territory, if the Authority is satisfied that all of the following conditions are fulfilled:
+87\.—(1) The Authority may provide the assistance referred to in section 89 to a resolution authority of a foreign country or territory, if the Authority is satisfied that all of the following conditions are fulfilled:
 
 (a) the request by the resolution authority for assistance is received by the Authority on or after the date of commencement of section 10 of the Monetary Authority of Singapore (Amendment) Act 2013;
 
@@ -2906,17 +3058,21 @@ and domestic authorities
 
 (h) the rendering of assistance will not be contrary to the public interest or the interests of the affected persons of the financial institution.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 (2) For the purposes of subsection (1)(d) and (e), “designated third party”, in relation to a foreign country or territory, means such person in, or body or authority of, the foreign country or territory as the Authority may approve, upon an application to the Authority, if the Authority is satisfied that the disclosure —
 
 (a) is necessary, in the interests of the resolution of a financial institution; and
 
 (b) is necessary for the performance of the duties and functions of that person, body or authority, as the case may be.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Other factors to consider for provision of assistance to foreign resolution authority
 
-30AAZD\. In deciding whether to grant a request for assistance referred to in section 30AAZE from a resolution authority of a foreign country or territory, the Authority may also have regard to the following:
+88\. In deciding whether to grant a request for assistance referred to in section 89 from a resolution authority of a foreign country or territory, the Authority may also have regard to the following:
 
 (a) whether the resolution authority is preparing plans for dealing with the resolution of any financial institution, or is in the process of determining whether to exercise, or is exercising, any resolution powers in relation to the financial institution;
 
@@ -2924,11 +3080,13 @@ and domestic authorities
 
 (c) whether the resolution authority has given or is willing to give an undertaking to the Authority to contribute towards the costs of providing the assistance that the resolution authority has requested for.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Assistance that may be rendered to foreign resolution authority
 
-30AAZE\.—(1) Notwithstanding the provisions of any prescribed written law or any requirement imposed thereunder or any rule of law, the Authority or any person authorised by the Authority may, in relation to a request by a resolution authority of a foreign country or territory for assistance —
+89\.—(1) Notwithstanding the provisions of any prescribed written law or any requirement imposed thereunder or any rule of law, the Authority or any person authorised by the Authority may, in relation to a request by a resolution authority of a foreign country or territory for assistance —
 
 (a) transmit to the resolution authority any material in the possession of the Authority that is requested by the resolution authority or a copy thereof;
 
@@ -2944,13 +3102,15 @@ and domestic authorities
 
 (4) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act, who refuses to furnish or transmit any material or copy thereof that contains, or to disclose, any privileged communication shall nevertheless be obliged to give the name and address (if he knows them) of the person to whom, or by or on behalf of whom, the privileged communication was made.
 
-(5) A person is not excused from making an oral statement pursuant to an order made under subsection (1)(d) on the ground that the statement might tend to incriminate him but, where the person claims before making the statement that the statement might tend to incriminate him, that statement shall not be admissible in evidence against him in criminal proceedings other than proceedings for an offence under section 30AAZG.
+(5) A person is not excused from making an oral statement pursuant to an order made under subsection (1)(d) on the ground that the statement might tend to incriminate him but, where the person claims before making the statement that the statement might tend to incriminate him, that statement shall not be admissible in evidence against him in criminal proceedings other than proceedings for an offence under section 91.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Assistance to domestic authority
 
-30AAZF\.—(1) Notwithstanding any obligation as to secrecy or other restriction upon the disclosure of information imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct, the Authority may, on its own motion or upon receiving a written request from a domestic authority for any material in relation to the resolution of a specified financial institution, transmit to the domestic authority any such material that is in the possession of the Authority or a copy thereof.
+90\.—(1) Notwithstanding any obligation as to secrecy or other restriction upon the disclosure of information imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct, the Authority may, on its own motion or upon receiving a written request from a domestic authority for any material in relation to the resolution of a specified financial institution, transmit to the domestic authority any such material that is in the possession of the Authority or a copy thereof.
 
 (2) In deciding whether to transmit any material to a domestic authority under subsection (1), the Authority may have regard to the following:
 
@@ -2970,33 +3130,51 @@ and domestic authorities
 
 (c) whether the domestic authority has given a written undertaking not to disclose to a third party any material or copy thereof obtained pursuant to the request or transmitted by the Authority on its own motion, unless the domestic authority is compelled to do so by the law or the Court.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Offences under this Division
 
-30AAZG\. Any person who —
+91\. Any person who —
 
-(a) without reasonable excuse, refuses or fails to comply with an order under section 30AAZE(1)(b) or (c);
+(a) without reasonable excuse, refuses or fails to comply with an order under section 89(1)(b) or (c);
 
-(b) in purported compliance with an order under section 30AAZE(1)(b), furnishes to the Authority any material or copy thereof known to the person to be false or misleading in a material particular; or
+[Act 31 of 2017 wef 04/06/2018]
 
-(c) in purported compliance with an order made under section 30AAZE(1)(c), makes a statement to the Authority that is false or misleading in a material particular,
+(b) in purported compliance with an order under section 89(1)(b), furnishes to the Authority any material or copy thereof known to the person to be false or misleading in a material particular; or
+
+[Act 31 of 2017 wef 04/06/2018]
+
+(c) in purported compliance with an order made under section 89(1)(c), makes a statement to the Authority that is false or misleading in a material particular,
+
+[Act 31 of 2017 wef 04/06/2018]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Immunity for furnishing material, etc.
 
-30AAZH\.—(1) No liability, other than for an offence under section 30AAZG, shall lie against any person for —
+92\.—(1) No liability, other than for an offence under section 91, shall lie against any person for —
 
-(a) furnishing to the Authority any material or copy thereof, if he had furnished that material or copy with reasonable care and in good faith in compliance with an order made under section 30AAZE(1)(b);
+(a) furnishing to the Authority any material or copy thereof, if he had furnished that material or copy with reasonable care and in good faith in compliance with an order made under section 89(1)(b);
 
-(b) making a statement to the Authority with reasonable care and in good faith and in compliance with an order made under section 30AAZE(1)(c); or
+[Act 31 of 2017 wef 04/06/2018]
 
-(c) doing or omitting to do any act, if he had done or omitted to do the act with reasonable care and in good faith and as a result of complying with an order made under section 30AAZE(1)(b) or (c).
+(b) making a statement to the Authority with reasonable care and in good faith and in compliance with an order made under section 89(1)(c); or
 
-(2) Any person who complies with an order made under section 30AAZE(1)(b) or (c) shall not be treated as being in breach of any restriction upon the disclosure of information or thing imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct.
+[Act 31 of 2017 wef 04/06/2018]
+
+(c) doing or omitting to do any act, if he had done or omitted to do the act with reasonable care and in good faith and as a result of complying with an order made under section 89(1)(b) or (c).
+
+[Act 31 of 2017 wef 04/06/2018]
+
+(2) Any person who complies with an order made under section 89(1)(b) or (c) shall not be treated as being in breach of any restriction upon the disclosure of information or thing imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
@@ -3006,7 +3184,7 @@ Miscellaneous
 
 ### Notices to significant associated entities of specified financial institutions
 
-30AAZI\.—(1) The Authority may, if it thinks it necessary or expedient in the public interest, in the interests of any affected person or class of affected persons of a specified financial institution or in the interests of the financial system in Singapore, by notice in writing to a significant associated entity of the specified financial institution, give directions or impose requirements on or relating to the operations or activities of the significant associated entity, including directions that the significant associated entity —
+121\.—(1) The Authority may, if it thinks it necessary or expedient in the public interest, in the interests of any affected person or class of affected persons of a specified financial institution or in the interests of the financial system in Singapore, by notice in writing to a significant associated entity of the specified financial institution, give directions or impose requirements on or relating to the operations or activities of the significant associated entity, including directions that the significant associated entity —
 
 (a) take such action, or do or not do such act or thing, as the Authority may specify in the notice; or
 
@@ -3054,21 +3232,25 @@ Miscellaneous
 
 (B) all or any of the entities which are treated, for accounting purposes according to the Accounting Standards, as part of the group of companies of the specified financial institution.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Modification of law of insolvency
 
-30AAZJ\. Notwithstanding anything to the contrary in this Act, the Bankruptcy Act (Cap. 20) and the Companies Act (Cap. 50) —
+122\. Notwithstanding anything to the contrary in this Act, the Bankruptcy Act (Cap. 20) and the Companies Act (Cap. 50) —
 
 (a) any sale, transfer, assignment or other disposition of any property or business of a pertinent financial institution pursuant to section 30AAS shall not be reversed, repaid or set aside; and
 
 (b) no order shall be made by any court for the rectification or stay of any such sale, transfer, assignment or other disposition.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Power to obtain information under this Part
 
-30AAZK\.—(1) The Minister or the Authority may require a person to furnish, within the period and in the manner specified by the Minister or the Authority, any information or document that the Minister or the Authority may reasonably require for the discharge of his or its duties or functions, or the exercise of his or its powers, under this Part.
+123\.—(1) The Minister or the Authority may require a person to furnish, within the period and in the manner specified by the Minister or the Authority, any information or document that the Minister or the Authority may reasonably require for the discharge of his or its duties or functions, or the exercise of his or its powers, under this Part.
 
 (2) Any person who —
 
@@ -3080,13 +3262,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) Where a person claims, before furnishing the Minister or the Authority with any information or document that the person is required to furnish under subsection (1), that the information or document might tend to incriminate the person, the information or document shall not be admissible in evidence against the person in criminal proceedings other than proceedings under subsection (2).
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Immunity for officer of specified financial institution or significant associated entity
 
-30AAZL\.—(1) No criminal or civil liability shall be incurred by an officer of a specified financial institution, or of a significant associated entity referred to in section 30AAZI, for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in complying with any provision of this Part or any direction given, notice issued or requirement imposed by the Minister or the Authority under this Part.
+124\.—(1) No criminal or civil liability shall be incurred by an officer of a specified financial institution, or of a significant associated entity referred to in section 121, for anything done (including any statement made) or omitted to be done with reasonable care and in good faith in complying with any provision of this Part or any direction given, notice issued or requirement imposed by the Minister or the Authority under this Part.
 
-(2) In this section, “officer”, in relation to a specified financial institution or a significant associated entity referred to in section 30AAZI, includes —
+[Act 31 of 2017 wef 04/06/2018]
+
+(2) In this section, “officer”, in relation to a specified financial institution or a significant associated entity referred to in section 121, includes —
 
 (a) a director, a secretary or an executive officer of the specified financial institution or significant associated entity (as the case may be);
 
@@ -3094,23 +3280,29 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) a liquidator of the specified financial institution or significant associated entity (as the case may be) appointed in a voluntary winding up.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Cessation of moratorium, etc., under this Part
 
-30AAZM\.—(1) The Minister may, by order published in theGazette, direct that section 30AAU(1) or (2), 30AAX(13) or 30AAZA(13), or any provision thereof, shall cease to apply to any pertinent financial institution, any business (or any part thereof) of any pertinent financial institution or any share in any pertinent financial institution, and on the date specified by the Minister in the order, section 30AAU(1) or (2), 30AAX(13) or 30AAZA(13), or the provision thereof, as the case may be, shall cease to apply to the pertinent financial institution, the business (or the part thereof) of the pertinent financial institution or the share in the pertinent financial institution, as the case may be.
+125\.—(1) The Minister may, by order published in theGazette, direct that section 30AAU(1) or (2), 30AAX(13) or 30AAZA(13), or any provision thereof, shall cease to apply to any pertinent financial institution, any business (or any part thereof) of any pertinent financial institution or any share in any pertinent financial institution, and on the date specified by the Minister in the order, section 30AAU(1) or (2), 30AAX(13) or 30AAZA(13), or the provision thereof, as the case may be, shall cease to apply to the pertinent financial institution, the business (or the part thereof) of the pertinent financial institution or the share in the pertinent financial institution, as the case may be.
 
 (2) In this section, “business” includes affairs, property, right, obligation and liability.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Regulations for this Part
 
-30AAZN\.—(1) The Minister may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Part and for prescribing anything that may be required to be prescribed under this Part.
+126\.—(1) The Minister may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Part and for prescribing anything that may be required to be prescribed under this Part.
 
 (2) Without prejudice to the generality of subsection (1), regulations made under this section may —
 
-(a) restrict, or impose conditions on, any transfer of only part (but not the whole) of the business (as defined in section 30AAR) of a pertinent financial institution under Division 2;
+(a) restrict, or impose conditions on, any transfer of only part (but not the whole) of the business (as defined in section 56) of a pertinent financial institution under Division 2;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) provide for either or both of the following:
 
@@ -3136,9 +3328,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (f) exempt any person or class of persons from all or any of the provisions of this Part and the regulations, subject to such conditions or restrictions as may be prescribed.
 
-(3) For the purposes of the definition of “affected person” in section 30AAK, the Minister may prescribe, in relation to any specified institution, different persons for different purposes.
+(3) For the purposes of the definition of “affected person” in section 49, the Minister may prescribe, in relation to any specified institution, different persons for different purposes.
 
-(4) For the purposes of the definitions of “excluded financial institution” and “pertinent financial institution” in section 30AAK, the Minister may prescribe different financial institutions for different purposes.
+[Act 31 of 2017 wef 04/06/2018]
+
+(4) For the purposes of the definitions of “excluded financial institution” and “pertinent financial institution” in section 49, the Minister may prescribe different financial institutions for different purposes.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (5) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -3148,6 +3344,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 “set-off arrangement” means an arrangement under which 2 or more debts, claims or obligations can be set-off against each other.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ## PART V
@@ -3156,7 +3354,7 @@ FINANCIAL SECTOR DEVELOPMENT FUND
 
 ### Establishment of Financial Sector Development Fund
 
-30A\.—(1) There shall be established a fund to be called the Financial Sector Development Fund (referred to in this Part as the Fund) which shall, subject to the directions of the Minister, be controlled and administered by the Authority.
+127\.—(1) There shall be established a fund to be called the Financial Sector Development Fund (referred to in this Part as the Fund) which shall, subject to the directions of the Minister, be controlled and administered by the Authority.
 
 [27/99]
 
@@ -3172,13 +3370,15 @@ FINANCIAL SECTOR DEVELOPMENT FUND
 
 [27/99]
 
-(3) The Fund shall be used for the objects and purposes set out in section 30B and shall be deemed not to be a fund of the Authority for the purposes of any written law.
+(3) The Fund shall be used for the objects and purposes set out in section 128 and shall be deemed not to be a fund of the Authority for the purposes of any written law.
 
 [27/99]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Objects of Fund and expenditure of moneys of Fund
 
-30B\.—(1) The objects for which moneys of the Fund may be applied are as follows:
+128\.—(1) The objects for which moneys of the Fund may be applied are as follows:
 
 (a) the promotion of Singapore as a financial centre;
 
@@ -3206,7 +3406,9 @@ FINANCIAL SECTOR DEVELOPMENT FUND
 
 (b) all expenses incurred by the Authority or its employees or agents in the administration of the Fund; and
 
-(c) the fees referred to in section 30C(3).
+(c) the fees referred to in section 129(3).
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [27/99]
 
@@ -3214,9 +3416,11 @@ FINANCIAL SECTOR DEVELOPMENT FUND
 
 [27/99]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Investment
 
-30C\.—(1) The Authority may invest the moneys of the Fund in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+129\.—(1) The Authority may invest the moneys of the Fund in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
 [45/2004 wef 15/12/2004]
 
@@ -3228,11 +3432,15 @@ FINANCIAL SECTOR DEVELOPMENT FUND
 
 [27/99]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Financial provisions
 
-30D\. Sections 32, 33 and 34 shall apply, with the necessary modifications, to the Authority in relation to its administration of the Fund.
+130\. Sections 32, 33 and 34 shall apply, with the necessary modifications, to the Authority in relation to its administration of the Fund.
 
 [27/99]
+
+[Act 31 of 2017 wef 04/06/2018]
 
 ## PART VA
 
@@ -3242,7 +3450,7 @@ BOOK-ENTRY SECURITIES ISSUED BY AUTHORITY
 
 ### Interpretation of this Part
 
-30E\. In this Part, unless the context otherwise requires —
+133\. In this Part, unless the context otherwise requires —
 
 “book-entry MAS securities” means any securities issued by the Authority under this Part in the form of an entry in the records of the Authority;
 
@@ -3264,9 +3472,11 @@ BOOK-ENTRY SECURITIES ISSUED BY AUTHORITY
 
 [Act 9 of 2013 wef 18/04/2013]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Issue of book-entry MAS securities
 
-30F\.—(1) The Authority may —
+134\.—(1) The Authority may —
 
 (a) issue book-entry MAS securities upon such terms as may be prescribed by means of entries on its records which include the name of the depositor and the amount and description of the securities;
 
@@ -3284,9 +3494,11 @@ BOOK-ENTRY SECURITIES ISSUED BY AUTHORITY
 
 [Act 9 of 2013 wef 18/04/2013]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Transfers and pledges effected by Authority under book-entry clearing system
 
-30G\.—(1) A transfer or a pledge of book-entry MAS securities to the Authority or to any transferee or pledgee eligible to maintain an appropriate account in its name with the Authority shall be effected, notwithstanding any written law to the contrary, by the Authority making an appropriate entry in its records of the securities transferred or pledged.
+135\.—(1) A transfer or a pledge of book-entry MAS securities to the Authority or to any transferee or pledgee eligible to maintain an appropriate account in its name with the Authority shall be effected, notwithstanding any written law to the contrary, by the Authority making an appropriate entry in its records of the securities transferred or pledged.
 
 (2) The making of an entry in the records of the Authority under subsection (1) shall —
 
@@ -3302,15 +3514,23 @@ BOOK-ENTRY SECURITIES ISSUED BY AUTHORITY
 
 [Act 9 of 2013 wef 18/04/2013]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Transfers and pledges effected by other means
 
-30H\.—(1) Notwithstanding section 30G, a transfer or pledge of book-entry MAS securities, or any interest therein, which is maintained by the Authority in an account may be effected by any means that would be effective to effect a transfer or pledge of book-entry MAS securities, or any interest therein, if the securities were issued by the Authority in the form of engraved or printed certificates.
+136\.—(1) Notwithstanding section 135, a transfer or pledge of book-entry MAS securities, or any interest therein, which is maintained by the Authority in an account may be effected by any means that would be effective to effect a transfer or pledge of book-entry MAS securities, or any interest therein, if the securities were issued by the Authority in the form of engraved or printed certificates.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) The Authority shall be deemed not to be —
 
-(a) a bailee for the purposes of notification of pledges of book-entry MAS securities not effected in accordance with section 30G; and
+(a) a bailee for the purposes of notification of pledges of book-entry MAS securities not effected in accordance with section 135; and
 
-(b) a person in possession of book-entry MAS securities for the purposes of acknowledgment of transfers of such securities not effected in accordance with section 30G.
+[Act 31 of 2017 wef 04/06/2018]
+
+(b) a person in possession of book-entry MAS securities for the purposes of acknowledgment of transfers of such securities not effected in accordance with section 135.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (3) Where book-entry MAS securities are recorded on the books of a depositary institution for account of the pledgor or transferor thereof and such securities are on deposit with the Authority in an account, that depositary institution shall, for the purposes of effecting delivery of the securities to a purchaser or pledgee, be deemed to be —
 
@@ -3318,15 +3538,19 @@ BOOK-ENTRY SECURITIES ISSUED BY AUTHORITY
 
 (b) the person in possession from which acknowledgment of the holding of the securities may be obtained.
 
-(4) The Authority shall not accept any notice or advice of a transfer or pledge of any book-entry MAS securities not effected in accordance with section 30G and any such notice or advice shall be void.
+(4) The Authority shall not accept any notice or advice of a transfer or pledge of any book-entry MAS securities not effected in accordance with section 135 and any such notice or advice shall be void.
 
-(5) The Authority may continue to deal with its depositor in accordance with this Part notwithstanding any transfer or pledge not effected in accordance with section 30G.
+[Act 31 of 2017 wef 04/06/2018]
+
+(5) The Authority may continue to deal with its depositor in accordance with this Part notwithstanding any transfer or pledge not effected in accordance with section 135.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Authority to be discharged by action on instructions
 
-30I\.—(1) The Authority shall not be liable for conversion or for participation in any breach of fiduciary duty where the Authority has, in respect of book-entry MAS securities maintained in accounts maintained by the Authority —
+137\.—(1) The Authority shall not be liable for conversion or for participation in any breach of fiduciary duty where the Authority has, in respect of book-entry MAS securities maintained in accounts maintained by the Authority —
 
 (a) made entries regarding the securities; or
 
@@ -3336,45 +3560,59 @@ according to the instructions of its depositor, notwithstanding that the deposit
 
 (2) The Authority shall be fully discharged of its obligations under this Part by the transfer or delivery of book-entry MAS securities upon the instructions of its depositor.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Confirmation of transaction
 
-30J\.—(1) The Authority shall, following any transaction affecting book-entry MAS securities maintained for any depositor under this Part, issue to each depositor a confirmation thereof in the form of an advice (serially numbered or otherwise).
+138\.—(1) The Authority shall, following any transaction affecting book-entry MAS securities maintained for any depositor under this Part, issue to each depositor a confirmation thereof in the form of an advice (serially numbered or otherwise).
 
 (2) The advice referred to in subsection (1) shall specify the amount and description of the securities and any other pertinent transaction data.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Payment of interest
 
-30K\.—(1) Subject to subsection (2), the interest payable on any book-entry MAS securities issued under this Part, if any, shall be paid half-yearly at the office of the Authority as shall be prescribed in regulations made under section 30P relating to the issue of the securities.
+139\.—(1) Subject to subsection (2), the interest payable on any book-entry MAS securities issued under this Part, if any, shall be paid half-yearly at the office of the Authority as shall be prescribed in regulations made under section 144 relating to the issue of the securities.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) Where any book-entry MAS securities that are redeemable at the election of the holder thereof at any time are redeemed before the date of maturity of the securities, a portion of the half-yearly interest payable on the securities (calculated on a pro-rata basis) shall be payable on such date as may be specified as the redemption date in the duly served notice of intention to redeem the securities.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Redemption of book-entry MAS securities
 
-30L\.—(1) Subject to section 30M, book-entry MAS securities shall be redeemable at par —
+140\.—(1) Subject to section 141, book-entry MAS securities shall be redeemable at par —
 
-(a) on such date as may be prescribed in regulations made under section 30P relating to the issue of such book-entry MAS securities (referred to in this Part as the date of maturity); or
+(a) on such date as may be prescribed in regulations made under section 144 relating to the issue of such book-entry MAS securities (referred to in this Part as the date of maturity); or
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) in the case of book-entry MAS securities that are redeemable at the election of the holder thereof at any time, on the earlier of the following dates:
 
 (i) the date of maturity;
 
-(ii) such date as may be specified as the redemption date in any notice of intention to redeem that is duly served in the manner prescribed by regulations made under section 30P.
+(ii) such date as may be specified as the redemption date in any notice of intention to redeem that is duly served in the manner prescribed by regulations made under section 144.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) After the date of maturity of the book-entry MAS securities under subsection (1), all the interest on the principal sums payable on the securities shall cease and determine, whether or not payment of the principal sums has been demanded.
 
 (3) Redemption proceeds of book-entry MAS securities shall be disposed of in accordance with the instructions from the depositor for whose account the securities shall have been maintained by the Authority.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Early redemption
 
-30M\.—(1) The Authority may, from time to time, by public notice invite the public to apply to redeem any book-entry MAS securities specified in the public notice before the date of maturity of those securities.
+141\.—(1) The Authority may, from time to time, by public notice invite the public to apply to redeem any book-entry MAS securities specified in the public notice before the date of maturity of those securities.
 
 (2) The public notice referred to in subsection (1) may specify —
 
@@ -3384,27 +3622,33 @@ according to the instructions of its depositor, notwithstanding that the deposit
 
 (3) The Authority may refuse any application to redeem any book-entry MAS securities before the date of maturity of those securities without assigning any reason.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Invitation to take up book-entry MAS securities and refusal of application
 
-30N\.—(1) The Authority may, from time to time, by public notice invite the public to apply to take up book-entry MAS securities issued under this Part.
+142\.—(1) The Authority may, from time to time, by public notice invite the public to apply to take up book-entry MAS securities issued under this Part.
 
 (2) The Authority may refuse any application to take up book-entry MAS securities issued under this Part without assigning any reason.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Securities lending arrangements
 
-30O\.—(1) The Authority may, from time to time, enter into securities lending arrangements by lending book-entry MAS securities issued under this Part to primary dealers.
+143\.—(1) The Authority may, from time to time, enter into securities lending arrangements by lending book-entry MAS securities issued under this Part to primary dealers.
 
 (2) Lending book-entry MAS securities shall include an arrangement under which book-entry MAS securities are sold and repurchased.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Power of Authority to make regulations for this Part
 
-30P\.—(1) The Authority may make regulations for the purposes of this Part, including regulations to prescribe anything which may be prescribed under this Part.
+144\.—(1) The Authority may make regulations for the purposes of this Part, including regulations to prescribe anything which may be prescribed under this Part.
 
 (2) Without prejudice to the generality of subsection (1), regulations made under this section may prescribe —
 
@@ -3413,6 +3657,8 @@ according to the instructions of its depositor, notwithstanding that the deposit
 (b) the manner in which applications to take up book-entry MAS securities shall be made; and
 
 (c) the manner in which book-entry MAS securities shall be issued.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
@@ -3429,11 +3675,15 @@ SECURITIES ISSUED BY AUTHORITY
 
 ### Appointment as primary dealer
 
-30Q\.—(1) The Authority may, on application, appoint as a primary dealer any financial institution which carries on or intends to carry on, or holds itself out as carrying on or willing to carry on, the business of either or both of the following:
+145\.—(1) The Authority may, on application, appoint as a primary dealer any financial institution which carries on or intends to carry on, or holds itself out as carrying on or willing to carry on, the business of either or both of the following:
 
-(a) applying to the Authority to purchase securities issued by the Authority on behalf of another person in pursuance of any public invitation under section 30N;
+(a) applying to the Authority to purchase securities issued by the Authority on behalf of another person in pursuance of any public invitation under section 142;
 
-(b) offering to redeem any securities issued by the Authority on behalf of another person in pursuance of any public invitation under section 30M or otherwise.
+[Act 31 of 2017 wef 04/06/2018]
+
+(b) offering to redeem any securities issued by the Authority on behalf of another person in pursuance of any public invitation under section 141 or otherwise.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) In determining whether to appoint a financial institution as a primary dealer, the Authority shall consider the following:
 
@@ -3449,7 +3699,9 @@ SECURITIES ISSUED BY AUTHORITY
 
 (a) the applicant does not furnish the Authority with such information or document as is required under subsection (3);
 
-(b) in the opinion of the Authority, the applicant does not meet, or is unlikely to be able to continue to meet, such requirements as may be prescribed by regulations made under section 30W in relation to carrying on any business referred to in subsection (1); or
+(b) in the opinion of the Authority, the applicant does not meet, or is unlikely to be able to continue to meet, such requirements as may be prescribed by regulations made under section 151 in relation to carrying on any business referred to in subsection (1); or
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (c) the applicant makes any statement, or furnishes any information or document, in relation to its application that is false or misleading in any material particular, or omits to state any matter or thing without which its application is false or misleading in a material particular.
 
@@ -3459,7 +3711,9 @@ SECURITIES ISSUED BY AUTHORITY
 
 (a) to be appointed as a primary dealer under this section; and
 
-(b) to be subject, under section 30R, to the conditions and restrictions to which his appointment as a primary dealer under section 29A of the Government Securities Act is subject.
+(b) to be subject, under section 146, to the conditions and restrictions to which his appointment as a primary dealer under section 29A of the Government Securities Act is subject.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (7) If a person who is not a primary dealer carries on, or holds himself out as carrying on or willing to carry on, any business referred to in subsection (1), the person shall be guilty of an offence and shall be liable on conviction —
 
@@ -3467,11 +3721,13 @@ SECURITIES ISSUED BY AUTHORITY
 
 (b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Conditions of appointment as primary dealer
 
-30R\.—(1) The Authority may appoint any financial institution as a primary dealer subject to such conditions or restrictions as the Authority thinks fit.
+146\.—(1) The Authority may appoint any financial institution as a primary dealer subject to such conditions or restrictions as the Authority thinks fit.
 
 (2) Without prejudice to the generality of subsection (1), the Authority may impose such conditions or restrictions with respect to the type of services which may or may not be provided by the primary dealer as the Authority may consider appropriate.
 
@@ -3497,11 +3753,13 @@ SECURITIES ISSUED BY AUTHORITY
 
 (6) If no written representation is received by the Authority within the time specified under subsection (4)(c), or if any written representation made under that subsection is subsequently withdrawn, the modification shall take effect as specified in the notice given under that subsection.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Directions to primary dealers
 
-30S\.—(1) The Authority may give directions to be observed by any primary dealer or class of primary dealers —
+147\.—(1) The Authority may give directions to be observed by any primary dealer or class of primary dealers —
 
 (a) to ensure the continuity or reliability of the provision of services by the primary dealer or class of primary dealers to its customers; or
 
@@ -3509,7 +3767,9 @@ SECURITIES ISSUED BY AUTHORITY
 
 (2) A direction under subsection (1) —
 
-(a) shall require the primary dealer or every primary dealer in that class of primary dealers concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the direction or are of a description as specified therein, including but not limited to the manner in which the primary dealer conducts the business referred to in section 30Q(1) with its customers;
+(a) shall require the primary dealer or every primary dealer in that class of primary dealers concerned (according to the circumstances of the case) to do, or not to do, such things as are specified in the direction or are of a description as specified therein, including but not limited to the manner in which the primary dealer conducts the business referred to in section 145(1) with its customers;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) shall take effect at such time, being the earliest practicable time, as is determined by or under that direction; and
 
@@ -3519,11 +3779,13 @@ SECURITIES ISSUED BY AUTHORITY
 
 (4) It shall not be necessary to publish any direction under subsection (1) in theGazette.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Cancellation, etc., of appointment as primary dealer
 
-30T\.—(1) If the Authority is satisfied that —
+148\.—(1) If the Authority is satisfied that —
 
 (a) a primary dealer is contravening, is likely to contravene or has contravened —
 
@@ -3531,7 +3793,9 @@ SECURITIES ISSUED BY AUTHORITY
 
 (ii) any condition or restriction of its appointment as a primary dealer;
 
-(b) a primary dealer has not complied with any direction issued by the Authority under section 30S;
+(b) a primary dealer has not complied with any direction issued by the Authority under section 147;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (c) a primary dealer has gone or is likely to go into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction;
 
@@ -3543,9 +3807,13 @@ SECURITIES ISSUED BY AUTHORITY
 
 (g) a primary dealer has been convicted, whether in Singapore or elsewhere, of an offence committed before, on or after the date of commencement of section 11 of the Monetary Authority of Singapore (Amendment) Act 2013, involving fraud or dishonesty or the conviction for which involved a finding that it had acted fraudulently or dishonestly;
 
-(h) a primary dealer is no longer in a position to effectively carry out its duties or responsibilities as a primary dealer under this Act or under any regulations made under section 30W; or
+(h) a primary dealer is no longer in a position to effectively carry out its duties or responsibilities as a primary dealer under this Act or under any regulations made under section 151; or
 
-(i) a primary dealer is carrying on its business referred to in section 30Q(1) in a manner that is likely to be detrimental to its clients or contrary to the public interest,
+[Act 31 of 2017 wef 04/06/2018]
+
+(i) a primary dealer is carrying on its business referred to in section 145(1) in a manner that is likely to be detrimental to its clients or contrary to the public interest,
+
+[Act 31 of 2017 wef 04/06/2018]
 
 the Authority may by order cancel the appointment as a primary dealer.
 
@@ -3555,7 +3823,9 @@ the Authority may by order cancel the appointment as a primary dealer.
 
 (b) reprimand the primary dealer in writing.
 
-(3) In the case of a failure by a primary dealer to comply with any direction issued by the Authority under section 30S, the Authority may, in addition to any order that may be made under subsection (2), order the primary dealer to pay to the Authority, for every day or part thereof of such failure, a financial penalty in accordance with such formula as the Minister may, by notification published in theGazette, prescribe.
+(3) In the case of a failure by a primary dealer to comply with any direction issued by the Authority under section 147, the Authority may, in addition to any order that may be made under subsection (2), order the primary dealer to pay to the Authority, for every day or part thereof of such failure, a financial penalty in accordance with such formula as the Minister may, by notification published in theGazette, prescribe.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (4) A financial penalty collected by the Authority under subsection (3) shall be paid into the Consolidated Fund.
 
@@ -3575,23 +3845,33 @@ the Authority may by order cancel the appointment as a primary dealer.
 
 (10) The Authority may recover on behalf of the Government any financial penalty ordered under subsection (3) as though the financial penalty were a civil debt due to the Authority.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Appeal to Minister
 
-30U\.—(1) Any primary dealer who is aggrieved by —
+149\.—(1) Any primary dealer who is aggrieved by —
 
-(a) any notice of a condition or restriction of the appointment of any financial institution as a primary dealer under section 30R;
+(a) any notice of a condition or restriction of the appointment of any financial institution as a primary dealer under section 146;
 
-(b) any direction given by the Authority under section 30S or variation of any such direction; or
+[Act 31 of 2017 wef 04/06/2018]
 
-(c) any order of the Authority under section 30T(1), (2) or (3), except an order of reprimand,
+(b) any direction given by the Authority under section 147 or variation of any such direction; or
+
+[Act 31 of 2017 wef 04/06/2018]
+
+(c) any order of the Authority under section 148(1), (2) or (3), except an order of reprimand,
+
+[Act 31 of 2017 wef 04/06/2018]
 
 may, within 14 days after the receipt by the primary dealer of the notice of the condition or restriction, the direction (or variation thereof) or the order, as the case may be, appeal to the Minister whose decision shall be final.
 
 (2) Where an appeal is lodged under this section —
 
-(a) the order under section 30T cancelling the appointment as a primary dealer shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or withdrawn; and
+(a) the order under section 148 cancelling the appointment as a primary dealer shall not take effect unless the order is confirmed by the Minister or the appeal is for any reason dismissed by the Minister or withdrawn; and
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) every other notice, direction (or variation thereof) or order appealed against shall take effect and be complied with until the determination of the appeal.
 
@@ -3599,21 +3879,31 @@ may, within 14 days after the receipt by the primary dealer of the notice of the
 
 (4) If the Minister is satisfied that an appeal by a primary dealer is instituted or pursued without reasonable ground, the Minister may, without calling for a reply from the Authority, but after giving the primary dealer an opportunity to be heard, determine the appeal by confirming the notice, direction (or variation thereof) or order of the Authority that is appealed against.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Inspection of books
 
-30V\.—(1) The Authority may from time to time inspect, under conditions of secrecy, the books of a primary dealer relating to its business referred to in section 30Q(1) for the purposes of ensuring that —
+150\.—(1) The Authority may from time to time inspect, under conditions of secrecy, the books of a primary dealer relating to its business referred to in section 145(1) for the purposes of ensuring that —
 
-(a) any condition or restriction imposed by the Authority under section 30R on the primary dealer is complied with;
+(a) any condition or restriction imposed by the Authority under section 146 on the primary dealer is complied with;
 
-(b) any direction given by the Authority under section 30S to the primary dealer is complied with; or
+[Act 31 of 2017 wef 04/06/2018]
+
+(b) any direction given by the Authority under section 147 to the primary dealer is complied with; or
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (c) the primary dealer has satisfied or satisfies any of its obligations under or arising from this Part.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 (2) For the purposes of an inspection under this section —
 
-(a) a primary dealer, and any person who is in possession of the books of the primary dealer relating to its business referred to in section 30Q(1), shall produce such books (and afford the Authority access thereto) and provide such information and facilities as may be required by the Authority to conduct the inspection;
+(a) a primary dealer, and any person who is in possession of the books of the primary dealer relating to its business referred to in section 145(1), shall produce such books (and afford the Authority access thereto) and provide such information and facilities as may be required by the Authority to conduct the inspection;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) the primary dealer shall procure that any such person in paragraph (a) who is in possession of the primary dealer’s books produce the books to the Authority and give such information or facilities as may be required by the Authority; and
 
@@ -3637,11 +3927,13 @@ may, within 14 days after the receipt by the primary dealer of the notice of the
 
 (7) In this section, “books” includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any electronic form or otherwise.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Power of Authority to make regulations for this Part
 
-30W\.—(1) The Authority may make regulations for the purposes of this Part, including regulations to prescribe anything which may be prescribed under this Part.
+151\.—(1) The Authority may make regulations for the purposes of this Part, including regulations to prescribe anything which may be prescribed under this Part.
 
 (2) Without prejudice to the generality of subsection (1), regulations made under this section may —
 
@@ -3654,6 +3946,8 @@ may, within 14 days after the receipt by the primary dealer of the notice of the
 (i) in the case of an individual, with a fine not exceeding $12,500 or with imprisonment for a term not exceeding 12 months or with both and, in the case of a continuing offence, with a further fine not exceeding $1,250 for every day or part thereof during which the offence continues after conviction; or
 
 (ii) in any other case, with a fine not exceeding $25,000 and, in the case of a continuing offence, with a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
@@ -3684,7 +3978,7 @@ General provisions
 
 ### Interpretation of this Part
 
-30X\.—(1) In this Part, unless the context otherwise requires —
+152\.—(1) In this Part, unless the context otherwise requires —
 
 “agent” means an insurance agent in respect of policies which relate to general business within the meaning of section 2(1)(b) of the Insurance Act (Cap. 142);
 
@@ -3772,7 +4066,9 @@ General provisions
 
 (l) the Trust Companies Act (Cap. 336);
 
-(m) such other Act as the Authority may prescribe by regulations made under section 42;
+(m) such other Act as the Authority may prescribe by regulations made under section 179;
+
+[Act 31 of 2017 wef 04/06/2018]
 
 “protected information” means information that is protected from unauthorised disclosure under any prescribed written law;
 
@@ -3800,11 +4096,13 @@ General provisions
 
 (b) the AML/CFT authority carries out consolidated supervision of the foreign financial institution mentioned in paragraph (a)(i) or (ii) (as the case may be), and its subsidiaries, branches, agencies and offices outside that foreign country, for compliance with the AML/CFT requirements of that foreign country that are applicable to the foreign financial institution.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 ### Purposes of this Part
 
-30Y\. The purposes of this Part are —
+153\. The purposes of this Part are —
 
 (a) to enable the Authority to provide information to an AML/CFT authority of a foreign country in connection with the AML/CFT authority’s supervision of foreign financial institutions carrying on any financial activities in that country for compliance with the AML/CFT requirements of that country applicable to those institutions, including the taking of supervisory action against them for a contravention of those requirements;
 
@@ -3818,6 +4116,8 @@ General provisions
 
 (c) to enable an AML/CFT authority of a foreign country to carry out an inspection in Singapore of a financial institution over which the AML/CFT authority exercises consolidated supervision authority.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 Division 2 —
@@ -3826,7 +4126,7 @@ Assistance to AML/CFT authorities
 
 ### Conditions for provision of assistance to AML/CFT authority
 
-30Z\.—(1) The Authority may, on the request of an AML/CFT authority of a foreign country, provide the assistance referred to in section 30ZA to the AML/CFT authority, if the Authority is satisfied that all of the following conditions are fulfilled:
+154\.—(1) The Authority may, on the request of an AML/CFT authority of a foreign country, provide the assistance referred to in section 155 to the AML/CFT authority, if the Authority is satisfied that all of the following conditions are fulfilled:
 
 (a) the request is received by the Authority on or after the date of commencement of section 5 of the Monetary Authority of Singapore (Amendment) Act 2015;
 
@@ -3858,23 +4158,27 @@ Assistance to AML/CFT authorities
 
 (k) the rendering of assistance will not be contrary to the national interest or public interest.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 (2) Despite subsection (1)(c), (d), (e) and (f), the Authority may provide the assistance sought without any of the undertakings referred to in one or more of those provisions if —
 
 (a) none of the information requested for is protected information; and
 
 (b) the Authority considers it appropriate to provide the assistance in the circumstances of the case.
 
-(3) In considering whether to provide the assistance referred to in section 30ZA to an AML/CFT authority, the Authority may also have regard to the following:
+(3) In considering whether to provide the assistance referred to in section 155 to an AML/CFT authority, the Authority may also have regard to the following:
 
 (a) if the request concerns a contravention of an AML/CFT requirement of a foreign country, whether the act or omission that is alleged to constitute the contravention would, if it had occurred in Singapore, have constituted a contravention of any direction or regulation issued or made under section 27A or 27B;
 
 (b) whether the AML/CFT authority has given or is willing to give an undertaking to the Authority to contribute towards the costs of providing the assistance.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 ### Assistance that may be rendered to AML/CFT authority
 
-30ZA\.—(1) Despite the provisions of any prescribed written law or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, the Authority or any person authorised by the Authority may, in relation to a request by an AML/CFT authority for assistance, transmit to the AML/CFT authority any information in the possession of the Authority that is requested by the AML/CFT authority or a copy of the information.
+155\.—(1) Despite the provisions of any prescribed written law or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, the Authority or any person authorised by the Authority may, in relation to a request by an AML/CFT authority for assistance, transmit to the AML/CFT authority any information in the possession of the Authority that is requested by the AML/CFT authority or a copy of the information.
 
 (2) The Authority or any person authorised by the Authority may, in relation to a request by an AML/CFT authority for assistance —
 
@@ -3894,6 +4198,8 @@ a privileged communication made by or to the advocate and solicitor or legal cou
 
 (5) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act, who refuses to provide or transmit any information, or copy of any information, that contains, or to disclose, any privileged communication must nevertheless give the name and address (if known) of the person to whom, or by or on behalf of whom, the privileged communication was made.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 Division 3 —
@@ -3902,7 +4208,7 @@ Assistance to domestic authorities
 
 ### Conditions for provision of assistance to domestic authority
 
-30ZB\. The Authority may, on the request of a domestic authority, provide the assistance referred to in section 30ZC to the domestic authority, if the Authority is satisfied that all of the following conditions, and all such other conditions as the Authority may determine, are fulfilled:
+156\. The Authority may, on the request of a domestic authority, provide the assistance referred to in section 157 to the domestic authority, if the Authority is satisfied that all of the following conditions, and all such other conditions as the Authority may determine, are fulfilled:
 
 (a) the request is received by the Authority on or after the date of commencement of section 5 of the Monetary Authority of Singapore (Amendment) Act 2015;
 
@@ -3912,11 +4218,13 @@ Assistance to domestic authorities
 
 (d) the matter to which the request relates is of sufficient gravity.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 ### Assistance that may be rendered to domestic authority
 
-30ZC\.—(1) Despite the provisions of any prescribed written law or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, the Authority or any person authorised by the Authority may, in relation to a request by a domestic authority for assistance, transmit to the domestic authority any information in the possession of the Authority that is requested by the domestic authority or a copy of the information.
+157\.—(1) Despite the provisions of any prescribed written law or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, the Authority or any person authorised by the Authority may, in relation to a request by a domestic authority for assistance, transmit to the domestic authority any information in the possession of the Authority that is requested by the domestic authority or a copy of the information.
 
 (2) The Authority or any person authorised by the Authority may, in relation to a request by a domestic authority for assistance, order any financial institution or any person who is or used to be a chief executive or director, or an executive officer, employee, agent or office holder, of a financial institution to furnish to the Authority any information requested by the domestic authority which is in the possession or control of the financial institution or person (as the case may be), or a copy of that information, for transmission to the domestic authority.
 
@@ -3932,6 +4240,8 @@ a privileged communication made by or to the advocate and solicitor or legal cou
 
 (5) An advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act, who refuses to provide or transmit any information, or copy of any information, that contains, or to disclose, any privileged communication must nevertheless give the name and address (if known) of the person to whom, or by or on behalf of whom, the privileged communication was made.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 Division 4 —
@@ -3940,13 +4250,19 @@ Additional provisions for Divisions 2 and 3
 
 ### Offences under this Part
 
-30ZD\.—(1) A person shall be guilty of an offence if the person —
+158\.—(1) A person shall be guilty of an offence if the person —
 
-(a) without reasonable excuse, refuses or fails to comply with an order under section 30ZA(2)(a) or 30ZC(2);
+(a) without reasonable excuse, refuses or fails to comply with an order under section 155(2)(a) or 157(2);
 
-(b) without reasonable excuse, refuses or fails to comply with section 30ZA(5) or 30ZC(5); or
+[Act 31 of 2017 wef 04/06/2018]
 
-(c) in purported compliance with an order under section 30ZA(2)(a) or 30ZC(2) or with section 30ZA(5) or 30ZC(5), furnishes to the Authority any information, or copy of any information, known to the person to be false or misleading in a material particular.
+(b) without reasonable excuse, refuses or fails to comply with section 155(5) or 157(5); or
+
+[Act 31 of 2017 wef 04/06/2018]
+
+(c) in purported compliance with an order under section 155(2)(a) or 157(2) or with section 155(5) or 157(5), furnishes to the Authority any information, or copy of any information, known to the person to be false or misleading in a material particular.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) Any person who is guilty of an offence under subsection (1)(a) or (b) shall be liable on conviction —
 
@@ -3960,27 +4276,37 @@ Additional provisions for Divisions 2 and 3
 
 (b) in any other case, to a fine not exceeding $100,000.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 ### Immunities
 
-30ZE\.—(1) No civil or criminal liability is incurred by any person for —
+159\.—(1) No civil or criminal liability is incurred by any person for —
 
-(a) providing to the Authority any information or copy of any information, if the person had provided the information or copy with reasonable care and in good faith and in compliance with an order under section 30ZA(2)(a) or 30ZC(2) or with section 30ZA(5) or 30ZC(5); or
+(a) providing to the Authority any information or copy of any information, if the person had provided the information or copy with reasonable care and in good faith and in compliance with an order under section 155(2)(a) or 157(2) or with section 155(5) or 157(5); or
 
-(b) doing or omitting to do any act, if the person had done or omitted to do the act with reasonable care and in good faith and for the purpose of complying with an order under section 30ZA(2)(a) or 30ZC(2) or with section 30ZA(5) or 30ZC(5).
+[Act 31 of 2017 wef 04/06/2018]
 
-(2) A person does not breach any restriction upon the disclosure of information imposed by any prescribed written law or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, if the person makes the disclosure with reasonable care and in good faith and in compliance with an order made under section 30ZA(2)(a) or 30ZC(2) or with section 30ZA(5) or 30ZC(5).
+(b) doing or omitting to do any act, if the person had done or omitted to do the act with reasonable care and in good faith and for the purpose of complying with an order under section 155(2)(a) or 157(2) or with section 155(5) or 157(5).
+
+[Act 31 of 2017 wef 04/06/2018]
+
+(2) A person does not breach any restriction upon the disclosure of information imposed by any prescribed written law or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, if the person makes the disclosure with reasonable care and in good faith and in compliance with an order made under section 155(2)(a) or 157(2) or with section 155(5) or 157(5).
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 14 of 2015 wef 26/06/2015]
 
 ### Authority may provide assistance
 
-30ZF\. Despite the provisions of any prescribed written law or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, the Authority or any person authorised by the Authority may, on the Authority’s own motion, and subject to the satisfaction of such conditions as the Authority may determine, transmit any information in the possession of the Authority or a copy of the information, to —
+160\. Despite the provisions of any prescribed written law or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct, the Authority or any person authorised by the Authority may, on the Authority’s own motion, and subject to the satisfaction of such conditions as the Authority may determine, transmit any information in the possession of the Authority or a copy of the information, to —
 
 (a) an AML/CFT authority in connection with any supervision or supervisory action by the AML/CFT authority; or
 
 (b) a domestic authority in connection with an investigation, an enforcement action or a supervisory action by the domestic authority.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 14 of 2015 wef 26/06/2015]
 
@@ -3990,7 +4316,7 @@ Inspection by AML/CFT authority
 
 ### Conditions for inspection by AML/CFT authority
 
-30ZG\.—(1) An AML/CFT authority may, with the prior written approval of the Authority and under conditions of secrecy, conduct an inspection in Singapore of the books of a financial institution in accordance with this section, if all of the following conditions are satisfied:
+161\.—(1) An AML/CFT authority may, with the prior written approval of the Authority and under conditions of secrecy, conduct an inspection in Singapore of the books of a financial institution in accordance with this section, if all of the following conditions are satisfied:
 
 (a) the financial institution is one over which the AML/CFT authority exercises consolidated supervision authority, and the inspection is solely for the purpose of such consolidated supervision;
 
@@ -4016,7 +4342,9 @@ Inspection by AML/CFT authority
 
 (d) such other matters as the Authority may determine.
 
-(4) An AML/CFT authority may, with the prior written approval of the Authority, appoint any person to conduct the inspection under subsection (1), and in such event, this section (other than this subsection) and sections 30ZH and 30ZI apply to the person, as if a reference to the AML/CFT authority in those sections includes a reference to the person.
+(4) An AML/CFT authority may, with the prior written approval of the Authority, appoint any person to conduct the inspection under subsection (1), and in such event, this section (other than this subsection) and section 162 and 163 apply to the person, as if a reference to the AML/CFT authority in those sections includes a reference to the person.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (5) For the purposes of ensuring the confidentiality of any information obtained in the course of an inspection by an AML/CFT authority under this section, each provision set out in a paragraph below applies, with the necessary modifications, to any official of the AML/CFT authority, and any person referred to in subsection (4), as if the official or person were a person set out against that provision in that paragraph:
 
@@ -4028,17 +4356,21 @@ Inspection by AML/CFT authority
 
 (6) The Authority may, in relation to an inspection by an AML/CFT authority conducted or to be conducted under this section on a financial institution, at any time, by notice in writing to the financial institution impose such conditions or restrictions on the financial institution as the Authority may think fit, and the financial institution must comply with such conditions or restrictions.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 ### Duty of financial institution under inspection
 
-30ZH\.—(1) For the purposes of an inspection under section 30ZG, and subject to subsection (2), the financial institution must —
+162\.—(1) For the purposes of an inspection under section 161, and subject to subsection (2), the financial institution must —
 
 (a) give the AML/CFT authority access to such of the books of the financial institution; and
 
 (b) provide such information (including information relating to the internal control systems of the financial institution) and facilities,
 
 as the AML/CFT authority may require for the inspection.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) The financial institution need not give the AML/CFT authority access to the books of the financial institution, or provide information or facilities, at such times or at such places as would unduly interfere with the proper conduct of the normal daily business of the financial institution.
 
@@ -4050,15 +4382,19 @@ as the AML/CFT authority may require for the inspection.
 
 (6) A financial institution which or any of its officers who, with reasonable care and in good faith, does or omits to do any act for the purpose of complying with subsection (1) is not to be treated as being in breach of any obligation or restriction referred to in subsection (3).
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 ### Confidentiality of inspection reports
 
-30ZI\.—(1) Except as provided under subsection (2), where a written report has been produced by an AML/CFT authority in respect of a financial institution following an inspection under section 30ZG, and is provided by the AML/CFT authority to the financial institution, the report must not be disclosed to any person by —
+163\.—(1) Except as provided under subsection (2), where a written report has been produced by an AML/CFT authority in respect of a financial institution following an inspection under section 161, and is provided by the AML/CFT authority to the financial institution, the report must not be disclosed to any person by —
 
 (a) the financial institution; or
 
 (b) any officer or auditor of the financial institution.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) Disclosure of the report may be made —
 
@@ -4094,6 +4430,8 @@ as the AML/CFT authority may require for the inspection.
 
 (c) where the disclosure was made in an electronic form, the person had, as soon as practicable after receiving the report, taken all reasonable steps to ensure the deletion of all electronic copies of the report and the surrender of the report and all copies of the report in other forms to the Authority.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 14 of 2015 wef 26/06/2015]
 
 ## PART VI
@@ -4102,7 +4440,7 @@ MISCELLANEOUS
 
 ### Statistics
 
-31\.—(1) The Authority may, at any time, for the purpose of carrying out its functions under this Act request such persons or classes of persons as it may decide to collect and furnish such statistical information as the Authority may specify and those persons or classes of persons shall comply with that request.
+164\.—(1) The Authority may, at any time, for the purpose of carrying out its functions under this Act request such persons or classes of persons as it may decide to collect and furnish such statistical information as the Authority may specify and those persons or classes of persons shall comply with that request.
 
 (2) Statistical information received from the persons or classes of persons referred to in subsection (1) shall be regarded as secret between them and the Authority.
 
@@ -4110,13 +4448,17 @@ MISCELLANEOUS
 
 [26/84]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Authority’s financial year
 
-32\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year.
+165\. The financial year of the Authority shall begin on 1st April of each year and end on 31st March of the succeeding year.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 ### Budget
 
-32A\.—(1) The Authority shall, in every financial year, prepare a budget containing estimates of income and expenditure of the Authority for the ensuing financial year and a supplementary budget (if necessary) for any financial year and present them to the President for his approval under Article 22B of the Constitution.
+166\.—(1) The Authority shall, in every financial year, prepare a budget containing estimates of income and expenditure of the Authority for the ensuing financial year and a supplementary budget (if necessary) for any financial year and present them to the President for his approval under Article 22B of the Constitution.
 
 [11/91]
 
@@ -4124,13 +4466,17 @@ MISCELLANEOUS
 
 [11/91]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Audit
 
-33\. The accounts of the Authority shall be audited by the Auditor-General.
+167\. The accounts of the Authority shall be audited by the Auditor-General.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 ### Preparation and publication of financial statements and annual report
 
-34\.—(1) The Authority shall, within 6 months from the close of its financial year, transmit to the President —
+168\.—(1) The Authority shall, within 6 months from the close of its financial year, transmit to the President —
 
 (a) a copy of the financial statements certified by the Auditor-General and those statements shall then be published in theGazette; and
 
@@ -4148,37 +4494,49 @@ MISCELLANEOUS
 
 [24/2003 wef 01/01/2004]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Borrowing from Authority by employees
 
-35\. The Authority may grant loans to its employees for any purpose specifically approved by the Authority.
+169\. The Authority may grant loans to its employees for any purpose specifically approved by the Authority.
 
 [26/84]
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Power to appoint attorney
 
-36\.—(1) The Authority may, by instrument under its common seal, appoint a person (whether in Singapore or in a place outside Singapore) to be its attorney.
+170\.—(1) The Authority may, by instrument under its common seal, appoint a person (whether in Singapore or in a place outside Singapore) to be its attorney.
 
 (2) The person so appointed may, subject to the instrument, do any act or execute any power or function which he is authorised by the instrument to do or execute.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Validity of acts and transactions of Authority
 
-37\. The validity of an act or transaction of the Authority shall not be called in question in any court on the ground that any provision of this Act has not been complied with.
+171\. The validity of an act or transaction of the Authority shall not be called in question in any court on the ground that any provision of this Act has not been complied with.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 ### Guarantee by Government
 
-38\.—(1) The Government shall be responsible for the payment of all moneys due by the Authority.
+172\.—(1) The Government shall be responsible for the payment of all moneys due by the Authority.
 
 (2) Nothing in this section shall authorise a creditor or other person claiming against the Authority to sue the Government in respect of his claim.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 ### Consent of Public Prosecutor
 
-39\. No prosecution in respect of any offence under this Act shall be instituted without the consent in writing of the Public Prosecutor.
+173\. No prosecution in respect of any offence under this Act shall be instituted without the consent in writing of the Public Prosecutor.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [15/2010 wef 02/01/2011]
 
 ### Legal officer of Authority may act for Authority in civil proceedings
 
-39A\. Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) or a State Counsel may —
+174\. Notwithstanding the provisions of any written law, a legal officer of the Authority who has been admitted as an advocate and solicitor under the Legal Profession Act (Cap. 161) or a State Counsel may —
 
 (a) appear in any civil proceedings on behalf of the Authority under the Securities and Futures Act 2001, including proceedings referred to in section 232 of that Act; and
 
@@ -4188,15 +4546,17 @@ MISCELLANEOUS
 
 [42/2001 wef 01/10/2002]
 
-40\. [Deleted by Act 24/2003 wef 01/01/2004]
+[Act 31 of 2017 wef 04/06/2018]
 
 ### Jurisdiction of District Court
 
-41\. Notwithstanding the provisions of any other written law, a District Court shall have jurisdiction to try all offences under this Act and to impose the full penalty prescribed therefor.
+175\. Notwithstanding the provisions of any other written law, a District Court shall have jurisdiction to try all offences under this Act and to impose the full penalty prescribed therefor.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 ### Composition of offences
 
-41A\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence.
+176\.—(1) The Authority may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum of money not exceeding one half of the amount of the maximum fine prescribed for that offence.
 
 [13/2007 wef 30/06/2007]
 
@@ -4224,33 +4584,47 @@ by collecting from a person reasonably suspected of having committed the offence
 
 (4) All sums collected by the Authority under subsection (1) or (1A) shall be paid into the Consolidated Fund.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Recovery of fees, expenses, etc.
 
-41B\. There shall be recoverable as a civil debt due to the Authority from the financial institution concerned —
+177\. There shall be recoverable as a civil debt due to the Authority from the financial institution concerned —
 
 (a) the amount of any fees payable to the Authority under section 29 or under any rules issued under section 29A; and
 
 (b) any remuneration and expenses payable by the financial institution to —
 
-(i) a statutory adviser appointed under section 30AAB(2);
+(i) a statutory adviser appointed under section 33(2);
 
-(ii) a statutory manager appointed under section 30AAB(2);
+[Act 31 of 2017 wef 04/06/2018]
 
-(iii) the Authority or any person appointed by the Authority under section 13B in relation to the Authority’s assumption of control of any business of the financial institution under section 30AAB; and
+(ii) a statutory manager appointed under section 33(2);
+
+[Act 31 of 2017 wef 04/06/2018]
+
+(iii) the Authority or any person appointed by the Authority under section 13B in relation to the Authority’s assumption of control of any business of the financial institution under section 33; and
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (iv) any person appointed to perform any independent assessment under Part IVA or IVB.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Exemption
 
-41C\.—(1) The Authority may, by regulations, exempt any person or class of persons from all or any of the provisions of Parts IVA, VA and VB and any regulations made under section 27A, 27B, 28A, 30AAJ, 30AAM, 30P or 30W, subject to such conditions or restrictions as may be prescribed.
+178\.—(1) The Authority may, by regulations, exempt any person or class of persons from all or any of the provisions of Parts IVA, VA and VB and any regulations made under section 27A, 27B, 28A, 41, 51, 144 or 151, subject to such conditions or restrictions as may be prescribed.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (2) The Authority may, on the application of any person, by notice in writing exempt the person from —
 
-(a) all or any of the provisions of Parts IVA, VA and VB and any regulations made under section 27A, 27B, 28A, 30AAJ, 30AAM, 30P or 30W; and
+(a) all or any of the provisions of Parts IVA, VA and VB and any regulations made under section 27A, 27B, 28A, 41, 51, 144 or 151; and
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) all or any of the requirements specified in any direction made by the Authority under this Act,
 
@@ -4260,23 +4634,29 @@ subject to such conditions or restrictions as the Authority may specify by notic
 
 (4) It shall not be necessary to publish any exemption granted under subsection (2) in theGazette.
 
+[Act 31 of 2017 wef 04/06/2018]
+
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Power of Authority to make regulations relating to objects and purposes of Act
 
-42\. The Authority may, with the approval of the President, make regulations for the better carrying out of the objects and purposes of this Act.
+179\. The Authority may, with the approval of the President, make regulations for the better carrying out of the objects and purposes of this Act.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
 
 ### Operation of Act not to affect Currency Act
 
-43\. Nothing in this Act shall affect the operation of the Currency Act (Cap. 69).
+180\. Nothing in this Act shall affect the operation of the Currency Act (Cap. 69).
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [44
 
 ## THE SCHEDULE
 
-Sections 16(2), 23(8), (9) and (10), 30AA(4), 30AAH(6), 30AAI(2) and (9), 30AAK, 30AAM(2), 30AAN(1) and (2), 30AAP(1) and (2), 30AAQ(1), 30AAR, 30AAS(6), 30AAT(7) and 30AAZI(5)
+Sections 16(2), 23(8), (9) and (10), 31(4), 39(6), 40(2) and (9), 49, 51(2), 52(1) and (2), 54(1) and (2), 55(1), 56, 57(6), 58(7) and 121(5)
 
 Written Laws
 
@@ -4369,6 +4749,8 @@ Trust Companies Act (Cap. 336).
 [21/2010 wef 15/01/2010]
 
 [15/2011 wef 01/05/2011]
+
+[Act 31 of 2017 wef 04/06/2018]
 
 ## LEGISLATIVE HISTORY
 
@@ -4532,6 +4914,10 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|15 August 2017|
+|33.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|4 June 2018|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
