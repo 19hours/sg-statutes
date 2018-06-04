@@ -8212,7 +8212,9 @@ Directors and officers
 
 (a) if he has not within the period referred to in section 147(1) obtained his qualification;
 
-(b) by virtue of his disqualification or removal or the revocation of his appointment as a director, as the case may be, under section 148, 149, 149A, 154, 155, 155A or 155C of this Act, section 50 or 54 of the Banking Act (Cap. 19), section 47 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 62 or 63 of the Financial Holdings Companies Act 2013 (Act 13 of 2013), section 31, 31A, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 30AAI of the Monetary Authority of Singapore Act (Cap. 186), section 12A of the Money-changing and Remittance Businesses Act (Cap. 187), section 22 of the Payment Systems (Oversight) Act (Cap. 222A), section 44, 46Z, 81P, 81ZJ, 97 or 292A of the Securities and Futures Act (Cap. 289) and section 14 of the Trust Companies Act (Cap. 336); or
+(b) by virtue of his disqualification or removal or the revocation of his appointment as a director, as the case may be, under section 148, 149, 149A, 154, 155, 155A or 155C of this Act, section 50 or 54 of the Banking Act (Cap. 19), section 47 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 62 or 63 of the Financial Holdings Companies Act 2013 (Act 13 of 2013), section 31, 31A, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 40 of the Monetary Authority of Singapore Act (Cap. 186), section 12A of the Money-changing and Remittance Businesses Act (Cap. 187), section 22 of the Payment Systems (Oversight) Act (Cap. 222A), section 44, 46Z, 81P, 81ZJ, 97 or 292A of the Securities and Futures Act (Cap. 289) and section 14 of the Trust Companies Act (Cap. 336); or
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (c) if he, being a director of a Registered Fund Management Company as defined in the Securities and Futures (Licensing and Conduct of Business) Regulations (Cap. 289, Rg 10), has been removed by the company as director in accordance with those Regulations.
 
@@ -21546,29 +21548,33 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
-|111.|**G.N. No. S 382/2015—Companies Act (Amendment of Second Schedule) Notification 2015**|
-||Date of commencement|1 July 2015|
-|112.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
-||Date of commencement|1 July 2015|
-|113.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
-||Date of First Reading|28 February 2017|
-|||(Bill No. 13/2017)|
-||Date of Second and Third Readings|10 March 2017|
-||Date of commencement|31 March 2017|
-|||23 May 2017|
-|||11 October 2017|
-|114.|**Act 21 of 2016—Employment Claims Act 2016**|
-||Date of First Reading|11 July 2016|
-|||(Bill No. 20/2016)|
-||Date of Second and Third Readings|16 August 2016|
-||Date of commencement|1 April 2017|
-|115.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
+|111.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 25/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|1 July 2015|
 |||3 January 2016|
 |||20 April 2018|
+|112.|**G.N. No. S 382/2015—Companies Act (Amendment of Second Schedule) Notification 2015**|
+||Date of commencement|1 July 2015|
+|113.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
+||Date of commencement|1 July 2015|
+|114.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017|
+|||(Bill No. 13/2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|31 March 2017|
+|||23 May 2017|
+|||11 October 2017|
+|115.|**Act 21 of 2016—Employment Claims Act 2016**|
+||Date of First Reading|11 July 2016|
+|||(Bill No. 20/2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 April 2017|
+|116.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|4 June 2018|
 ## COMPARATIVE TABLE
 
 Companies Act
