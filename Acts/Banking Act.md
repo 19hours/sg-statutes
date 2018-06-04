@@ -4338,7 +4338,7 @@ Any —
 
 (a)
 
-transferor or transferee, defined in section 30AAR of the Monetary Authority of Singapore Act;
+transferor or transferee, defined in section 56 of the Monetary Authority of Singapore Act;
 
 (b)
 
@@ -4350,7 +4350,7 @@ professional adviser appointed by any person referred to in paragraph (a) or (b)
 
 (d)
 
-independent assessor appointed by the Authority under section 30AAS of the Monetary Authority of Singapore Act.
+independent assessor appointed by the Authority under section 57 of the Monetary Authority of Singapore Act.
 
 4C.
 
@@ -4360,7 +4360,7 @@ Any —
 
 (a)
 
-transferor or transferee, defined in section 30AAV of the Monetary Authority of Singapore Act;
+transferor or transferee, defined in section 65 of the Monetary Authority of Singapore Act;
 
 (b)
 
@@ -4368,7 +4368,7 @@ professional adviser appointed by the transferor or transferee; or
 
 (c)
 
-independent assessor appointed by the Authority under section 30AAW of the Monetary Authority of Singapore Act.
+independent assessor appointed by the Authority under section 66 of the Monetary Authority of Singapore Act.
 
 4D.
 
@@ -4382,7 +4382,7 @@ shareholder of the bank;
 
 (b)
 
-subscriber defined in section 30AAY of the Monetary Authority of Singapore Act;
+subscriber defined in section 68 of the Monetary Authority of Singapore Act;
 
 (c)
 
@@ -4390,7 +4390,7 @@ professional adviser appointed by the bank or any person referred to in paragrap
 
 (d)
 
-independent assessor appointed by the Authority under section 30AAZ of the Monetary Authority of Singapore Act.
+independent assessor appointed by the Authority under section 69 of the Monetary Authority of Singapore Act.
 
 5.
 
@@ -4499,6 +4499,8 @@ The disclosure by any person referred to in paragraph (a), (b) or (c) of the sec
 (c)
 
 The Public Trustee may disclose customer information to such persons or class of persons and subject to such conditions, as may be determined by the Minister.
+
+[Act 31 of 2017 wef 04/06/2018]
 
 [Act 26 of 2012 wef 02/01/2014]
 
@@ -4867,6 +4869,11 @@ This Legislative History is provided for the convenience of users of the Banking
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
+|38.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017|
+|||(Bill No. 25/2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|4 June 2018|
 ## COMPARATIVE TABLE
 
 Banking Act
