@@ -3400,7 +3400,9 @@ Inspection Powers of Foreign Regulatory Authority
 
 70B\. This Division does not apply to an inspection by a foreign regulatory authority of the books of a specified financial adviser in Singapore if —
 
-(a) the foreign regulatory authority is an AML/CFT authority as defined in section 30X of the Monetary Authority of Singapore Act (Cap. 186) and exercises consolidated supervision authority as defined in that section over that specified financial adviser; and
+(a) the foreign regulatory authority is an AML/CFT authority as defined in section 152 of the Monetary Authority of Singapore Act (Cap. 186) and exercises consolidated supervision authority as defined in that section over that specified financial adviser; and
+
+[Act 31 of 2017 wef 04/06/2018]
 
 (b) the inspection is solely for the purposes of such consolidated supervision.
 
@@ -4969,6 +4971,11 @@ This Legislative History is provided for the convenience of users of the Financi
 ||Date of commencement|3 January 2016|
 |19.|**G.N. No. S 445/2016—Financial Advisers Act (Amendment of First Schedule) Order 2016**|
 ||Date of commencement|30 September 2016|
+|20.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017|
+|||(Bill No. 25/2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|4 June 2018|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
