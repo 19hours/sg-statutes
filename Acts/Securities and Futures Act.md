@@ -948,6 +948,8 @@
 
 - [169 Interpretation of this Part](#Interpretation-of-this-Part)
 
+- [169A Application of this Part](#Application-of-this-Part)
+
 - [170 Conditions for provision of assistance](#Conditions-for-provision-of-assistance)
 
 - [171 Other factors to consider for provision of assistance](#Other-factors-to-consider-for-provision-of-assistance)
@@ -13060,6 +13062,14 @@ except a foreign regulatory authority with the prior written approval of the Aut
 
 (4) The Authority may, in relation to an inspection by a foreign regulatory authority conducted or to be conducted under this section on the holder of a capital markets services licence or a person exempted under section 99(1)(a), (b), (c), (d) or (h), at any time, by notice in writing to the holder or person exempted, impose such conditions or restrictions on the holder or person exempted as it may think fit, and the holder or person exempted shall comply with such conditions or restrictions.
 
+(4A) To avoid doubt, this section, and section 150C in relation to an inspection under this section, do not apply to any inspection by a foreign regulatory authority of the books of any person, if —
+
+(a) the foreign regulatory authority is an AML/CFT authority as defined in section 152 of the Monetary Authority of Singapore Act (Cap. 186), and exercises consolidated supervision authority as defined in that section over that person; and
+
+(b) the inspection is solely for the purpose of such consolidated supervision.
+
+[Act 31 of 2017 wef 05/06/2018]
+
 (5) For the purposes of this section and section 150C, a reference to a foreign regulatory authority is a reference to an authority of a country or territory other than Singapore, exercising any function that corresponds to a regulatory function of the Authority under the Monetary Authority of Singapore Act (Cap. 186).
 
 [2/2009 wef 26/11/2010]
@@ -13614,6 +13624,12 @@ FOREIGN REGULATORY AUTHORITIES
 (b) the issuance of or trading in securities, or the trading in futures contracts in the foreign country of the regulatory authority.
 
 [SIA, s. 96A; FTA, s. 49Q]
+
+### Application of this Part
+
+169A\. This Part does not apply to any request for assistance mentioned in section 154(1) of the Monetary Authority of Singapore Act.
+
+[Act 31 of 2017 wef 05/06/2018]
 
 ### Conditions for provision of assistance
 
@@ -25973,6 +25989,10 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of commencement|3 January 2016|
 |26.|**G.N. No. S 446/2016—Securities and Futures Act (Amendment of Third Schedule) Order 2016**|
 ||Date of commencement|30 September 2016|
+|27.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
