@@ -2244,6 +2244,10 @@ and in either event, the Authority shall thereupon issue a direction in writing 
 
 [23/2001]
 
+(3) To avoid doubt, this section, and sections 44A and 46 in relation to an inspection under this section, do not apply to any inspection by the Authority for a purpose mentioned in section 27C of the Monetary Authority of Singapore Act (Cap. 186).
+
+[Act 31 of 2017 wef 05/06/2018]
+
 ### Special investigation of banks
 
 44\. The Authority may at any time make an investigation, under conditions of secrecy, of the books of any bank in Singapore, if it has reason to believe that any bank —
@@ -2353,6 +2357,14 @@ to conduct the inspection under subsection (1) and in such event, this section (
 (6) Any bank which refuses or neglects, without reasonable excuse, to afford access to any book or provide any information or facility as may be required by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 [23/2001; 1/2007]
+
+(6A) To avoid doubt, this section, and section 46 in relation to an inspection under this section, do not apply to any inspection by a parent supervisory authority of the books of any branch or office of a bank in Singapore, if —
+
+(a) the parent supervisory authority is an AML/CFT authority as defined in section 152 of the Monetary Authority of Singapore Act, and exercises consolidated supervision authority as defined in that section over that bank; and
+
+(b) the inspection is solely for the purpose of such consolidated supervision.
+
+[Act 31 of 2017 wef 05/06/2018]
 
 (7) In this section, “parent bank”, in relation to a foreign-owned bank incorporated in Singapore, means a bank incorporated outside Singapore of which the foreign-owned bank is a subsidiary.
 
@@ -4874,6 +4886,11 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 25/2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|4 June 2018|
+|39.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017|
+|||(Bill No. 25/2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
 ## COMPARATIVE TABLE
 
 Banking Act
