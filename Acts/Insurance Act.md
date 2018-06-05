@@ -268,6 +268,8 @@
 
 - [49A Interpretation of this Part](#Interpretation-of-this-Part)
 
+- [49AA Application of this Part](#Application-of-this-Part)
+
 - [49B Conditions for provision of assistance](#Conditions-for-provision-of-assistance)
 
 - [49C Other factors to consider for provision of assistance](#Other-factors-to-consider-for-provision-of-assistance)
@@ -1000,6 +1002,8 @@ but does not include an advertisement issued outside Singapore that is made avai
 
 7\.—(1) Whenever the Authority has reason to believe that a person has contravened any of the provisions of this Act, it may call for or inspect the books, accounts and records of that person in order to ascertain whether or not that person has contravened or is contravening any of the provisions of this Act.
 
+[22/73; 11/86; 30/99]
+
 (2) Any person who wilfully refuses to submit such books, accounts and records or to allow the inspection thereof shall be guilty of an offence and shall be liable on conviction —
 
 (a) in the case of an individual, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction; or
@@ -1007,8 +1011,6 @@ but does not include an advertisement issued outside Singapore that is made avai
 (b) in any other case, to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
 [Act 11 of 2013 wef 18/04/2013]
-
-[22/73; 11/86; 30/99]
 
 Division 2 — Licensed insurers
 
@@ -4036,6 +4038,14 @@ Inspections and Investigations
 
 (5) Any licensed insurer which refuses or neglects, without reasonable excuse, to afford access to any book or provide any information or facility as may be required by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
+(5A) To avoid doubt, this section, and section 40C in relation to an inspection under this section, do not apply to any inspection by a parent supervisory authority of the books of a licensed insurer, if —
+
+(a) the parent supervisory authority is an AML/CFT authority as defined in section 152 of the Monetary Authority of Singapore Act (Cap. 186), and exercises consolidated supervision authority as defined in that section over the licensed insurer; and
+
+(b) the inspection is solely for the purpose of such consolidated supervision.
+
+[Act 31 of 2017 wef 05/06/2018]
+
 (6) In this section and section 40C, unless the context otherwise requires —
 
 “foreign-owned”, in relation to a licensed insurer incorporated in Singapore, means a licensed insurer whose parent is incorporated, formed or established in a foreign country;
@@ -4441,6 +4451,12 @@ ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 “supervision”, in relation to a regulatory authority, means the taking of any action for or in connection with the supervision of a subject-matter in the foreign country of the regulatory authority similar to that to which this Act pertains.
 
 [41/2001]
+
+### Application of this Part
+
+49AA\. This Part does not apply to any request for assistance mentioned in section 154(1) of the Monetary Authority of Singapore Act.
+
+[Act 31 of 2017 wef 05/06/2018]
 
 ### Conditions for provision of assistance
 
@@ -7411,6 +7427,10 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of First Reading|13 September 2016 (Bill No. 26/2016 published on 13 September 2016)|
 ||Date of Second and Third Readings|10 October 2016|
 ||Date of commencement|1 January 2017|
+|37.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
 ## COMPARATIVE TABLE
 
 Insurance Act
