@@ -1740,6 +1740,14 @@ DISCLOSURE OF INFORMATION
 
 (5) For the purposes of ensuring the confidentiality of any information obtained in the course of an inspection by a parent supervisory authority under this section, section 49(1) shall apply, with the necessary modifications, to any official of the parent supervisory authority as if the official were an officer of a licensed trust company.
 
+(5A) To avoid doubt, this section, and section 48 in relation to an inspection under this section, do not apply to any inspection by a parent supervisory authority of the books, accounts and transactions of any branch or office of a licensed trust company, if —
+
+(a) the parent supervisory authority is an AML/CFT authority as defined in section 152 of the Monetary Authority of Singapore Act (Cap. 186), and exercises consolidated supervision authority as defined in that section over that licensed trust company; and
+
+(b) the inspection is solely for the purpose of such consolidated supervision.
+
+[Act 31 of 2017 wef 05/06/2018]
+
 (6) Any licensed trust company which refuses or neglects, without reasonable excuse, to afford access to any book, account or document or provide any information or facility as may be required by this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $75,000 and, in the case of a continuing offence, to a further fine not exceeding $7,500 for every day or part thereof during which the offence continues after conviction.
 
 ### Confidentiality of inspection and investigation reports
@@ -2782,6 +2790,11 @@ The Trust Companies Act 2005 repealed and re-enacted with amendments the Trust C
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|20.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017|
+|||(Bill No. 25/2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
 ## COMPARATIVE TABLE
 
 Trust Companies Act
