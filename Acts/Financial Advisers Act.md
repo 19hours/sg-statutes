@@ -284,6 +284,8 @@
 
 - [77 Interpretation of this Part](#Interpretation-of-this-Part)
 
+- [77A Application of this Part](#Application-of-this-Part)
+
 - [78 Conditions for provision of assistance](#Conditions-for-provision-of-assistance)
 
 - [79 Other factors to consider for provision of assistance](#Other-factors-to-consider-for-provision-of-assistance)
@@ -3966,6 +3968,12 @@ ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 
 [SF Bill, Clause 169]
 
+### Application of this Part
+
+77A\. This Part does not apply to any request for assistance mentioned in section 154(1) of the Monetary Authority of Singapore Act (Cap. 186).
+
+[Act 31 of 2017 wef 05/06/2018]
+
 ### Conditions for provision of assistance
 
 78\.—(1) The Authority may provide the assistance referred to in section 80 to a regulatory authority of a foreign country if the Authority is satisfied that all of the following conditions are fulfilled:
@@ -4976,6 +4984,11 @@ This Legislative History is provided for the convenience of users of the Financi
 |||(Bill No. 25/2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|4 June 2018|
+|21.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017|
+|||(Bill No. 25/2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
