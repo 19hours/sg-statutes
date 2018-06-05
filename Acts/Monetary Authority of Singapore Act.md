@@ -104,6 +104,8 @@
 
 [**Part IVA CONTROL OVER FINANCIAL INSTITUTIONS**](#Part-IVA)
 
+[**Division 1  General provisions**](#Division-1--General-provisions)
+
 - [31 Application and interpretation of this Part](#Application-and-interpretation-of-this-Part)
 
 - [32 Information of insolvency, etc.](#Information-of-insolvency-etc)
@@ -125,6 +127,22 @@
 - [40 Disqualification or removal of director or executive officer of relevant financial institution](#Disqualification-or-removal-of-director-or-executive-officer-of-relevant-financial-institution)
 
 - [41 Power of Authority to make regulations for this Part](#Power-of-Authority-to-make-regulations-for-this-Part)
+
+[**Division 2  Recovery and resolution planning**](#Division-2--Recovery-and-resolution-planning)
+
+- [42 Notice concerning recovery and resolution plans](#Notice-concerning-recovery-and-resolution-plans)
+
+- [43 Direction for recovery plan and its implementation](#Direction-for-recovery-plan-and-its-implementation)
+
+- [44 Resolution planning](#Resolution-planning)
+
+- [45 Power to direct removal of impediments](#Power-to-direct-removal-of-impediments)
+
+- [46 Appeal against direction to remove impediment](#Appeal-against-direction-to-remove-impediment)
+
+- [47 Provisions concerning directions and notices under this Division](#Provisions-concerning-directions-and-notices-under-this-Division)
+
+- [48 Offences under this Division](#Offences-under-this-Division)
 
 [**Part IVB RESOLUTION OF FINANCIAL INSTITUTIONS**](#Part-IVB)
 
@@ -208,7 +226,11 @@
 
 - [129 Investment](#Investment)
 
-- [130 Financial provisions](#Financial-provisions)
+- [130 Financial year of Fund](#Financial-year-of-Fund)
+
+- [131 Audit](#Audit)
+
+- [132 Preparation and publication of financial statements and annual report of Fund](#Preparation-and-publication-of-financial-statements-and-annual-report-of-Fund)
 
 [**Part VA BOOK-ENTRY SECURITIES ISSUED BY AUTHORITY**](#Part-VA)
 
@@ -1486,6 +1508,10 @@ CONTROL OVER FINANCIAL INSTITUTIONS
 
 [Act 9 of 2013 wef 18/04/2013]
 
+Division 1 —
+
+General provisions
+
 ### Application and interpretation of this Part
 
 31\.—(1) This Part shall apply to, and in relation to, every relevant financial institution.
@@ -1513,6 +1539,10 @@ CONTROL OVER FINANCIAL INSTITUTIONS
 (a) is in the direct employment of, or acting for or by arrangement with, the relevant financial institution; and
 
 (b) is concerned with or takes part in the management of the relevant financial institution on a day-to-day basis;
+
+“pertinent financial institution” has the same meaning as in section 49;
+
+[Act 31 of 2017 wef 05/06/2018]
 
 “relevant financial institution” means a financial institution that —
 
@@ -1952,7 +1982,9 @@ if the person —
 
 (iv) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
 
-(v) has had a prohibition order under section 59 of the Financial Advisers Act (Cap. 110), section 35V of the Insurance Act (Cap. 142) or section 101A of the Securities and Futures Act (Cap. 289) made against him that remains in force; or
+(v) has had a prohibition order under section 59 of the Financial Advisers Act (Cap. 110), section 35V of the Insurance Act (Cap. 142) or section 101A or 123ZZC of the Securities and Futures Act (Cap. 289) made against him that remains in force; or
+
+[Act 31 of 2017 wef 05/06/2018]
 
 (vi) has been a director of, or directly concerned in the management of, a regulated financial institution, whether in Singapore or elsewhere —
 
@@ -2018,9 +2050,117 @@ the Authority may direct the relevant financial institution to remove the person
 
 (3) For the purposes of sections 33(1)(c)(i) and 34(3)(a), the Authority may prescribe different persons and different classes of persons in relation to different relevant financial institutions and different classes of relevant financial institutions.
 
+[Act 31 of 2017 wef 05/06/2018]
+
 [Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
+
+Division 2 —
+
+Recovery and resolution planning
+
+### Notice concerning recovery and resolution plans
+
+42\.—(1) The Authority may issue a notice to pertinent financial institutions requiring each pertinent financial institution to which a direction is issued under section 43(1) —
+
+(a) to prepare, in the form and manner and containing the information specified in the notice, a plan to restore the financial strength and viability of the financial institution in the event it suffers financial pressure or stress (called in this section and section 43 a recovery plan);
+
+(b) to review and keep up-to-date its recovery plan, at a frequency specified in the direction;
+
+(c) to adopt various procedures in preparing its recovery plan, including the oversight of the process and endorsement of the plan;
+
+(d) to notify the Authority of the occurrence of any event that may necessitate the implementation of its recovery plan;
+
+(e) to maintain information to enable it to prepare, review and keep up-to-date its recovery plan, and to comply with any direction of the Authority under section 44;
+
+(f) to have in place a management information system that is necessary for the maintenance and production of the information mentioned in paragraph (e);
+
+(g) to ensure that its outsourcing arrangements for its critical functions and critical shared services will continue in the event it comes under resolution; and
+
+(h) to take such other action as in the Authority’s opinion will facilitate compliance with any notice or direction issued by the Authority under this Division, or the effective implementation of the recovery plan of the pertinent financial institution or a plan of the Authority under section 44.
+
+(2) A notice under this section may make different provisions for different classes of pertinent financial institutions.
+
+[Act 31 of 2017 wef 05/06/2018]
+
+### Direction for recovery plan and its implementation
+
+43\.—(1) The Authority may issue a direction to a pertinent financial institution —
+
+(a) requiring it to comply with the requirements of a notice issued under section 42; and
+
+(b) specifying the dates for the submission of the recovery plan and the submission of any other document, and the frequency for the action mentioned in section 42(1)(b).
+
+(2) The Authority may issue a further direction to a pertinent financial institution to which a direction was issued under subsection (1) —
+
+(a) to make such amendment to the institution’s recovery plan as the Authority may reasonably require, including an amendment to address any deficiency in the plan; or
+
+(b) to remove any impediment to the implementation of the recovery plan.
+
+(3) Without affecting the generality of subsection (2)(b), the direction in that subsection may require the pertinent financial institution to make changes to its practices, organisation and structure (including its operational, legal and financial structures).
+
+(4) The Authority may issue a further direction to a pertinent financial institution to which a direction was issued under subsection (1) —
+
+(a) to implement a specified part of the institution’s recovery plan; and
+
+(b) to implement such other arrangements or measures as may be necessary to restore the institution’s financial strength and viability.
+
+[Act 31 of 2017 wef 05/06/2018]
+
+### Resolution planning
+
+44\. The Authority may prepare plans for the orderly resolution of a pertinent financial institution, and may for that purpose issue a direction to the pertinent financial institution requiring it to furnish, within the time and in the form and manner set out in the direction, any information or document that the Authority may reasonably require for that purpose.
+
+[Act 31 of 2017 wef 05/06/2018]
+
+### Power to direct removal of impediments
+
+45\.—(1) This section applies if the Authority is of the opinion that an impediment exists to the orderly resolution of a pertinent financial institution in accordance with a plan of the Authority under section 44.
+
+(2) The Authority may issue a direction to the pertinent financial institution, requiring the financial institution to take, within the time specified in the direction, measures specified in the direction for the purpose of addressing or removing the impediment.
+
+(3) Without affecting the generality of subsection (2), the direction may require the financial institution to make changes to its practices, organisation and structure (including its operational, legal and financial structures).
+
+[Act 31 of 2017 wef 05/06/2018]
+
+### Appeal against direction to remove impediment
+
+46\.—(1) A pertinent financial institution that is aggrieved by a direction to it under section 43(2)(b) or 45(2) may, within 30 days after receiving the direction, appeal to the Minister whose decision is final.
+
+(2) An appeal may only be made if the direction requires the pertinent financial institution to make a change that will significantly affect its practices, organisation or operations.
+
+(3) For the purposes of subsection (2), a change will significantly affect the practices, organisation or operations of a pertinent financial institution if it —
+
+(a) changes any part of its legal or financial structure; or
+
+(b) satisfies such other criterion as may be prescribed by regulations under subsection (7).
+
+(4) If an appeal is lodged, the pertinent financial institution need not comply with the direction until the appeal is determined.
+
+(5) The Minister may determine an appeal by confirming, varying or reversing the direction.
+
+(6) If the Minister is satisfied that an appeal is made without reasonable ground, the Minister may, without calling for a reply from the Authority, but after giving the pertinent financial institution an opportunity to be heard, determine the appeal by confirming the direction.
+
+(7) The Minister may make regulations to prescribe the criterion for the purposes of subsection (3)(b).
+
+[Act 31 of 2017 wef 05/06/2018]
+
+### Provisions concerning directions and notices under this Division
+
+47\.—(1) A direction or notice under this Division must be in writing.
+
+(2) It is not necessary to publish a direction or notice under this Division in theGazette.
+
+[Act 31 of 2017 wef 05/06/2018]
+
+### Offences under this Division
+
+48\.—(1) A pertinent financial institution that does not comply with a direction or notice of the Authority under this Division shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+(2) A pertinent financial institution that, in purported compliance with a direction or notice under this Division, knowingly or recklessly furnishes to the Authority any information or document that is false or misleading in a material particular, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000.
+
+[Act 31 of 2017 wef 05/06/2018]
 
 ## PART IVB
 
@@ -2196,6 +2336,14 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) So long as an order under subsection (1) remains in force, the Authority may, by notice in writing to that specified financial institution, suspend the approval, authorisation, designation, recognition, registration or licence of that specified financial institution under the relevant Act.
 
+(6) A specified financial institution that contravenes an order under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 05/06/2018]
+
+(7) It is not necessary to publish any order under subsection (1) in theGazette.
+
+[Act 31 of 2017 wef 05/06/2018]
+
 [Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
@@ -2240,9 +2388,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (6) Any approval of the Authority under subsection (4)(b) may be granted subject to such conditions as the Authority may determine, and the Authority may add to, vary or revoke any such condition.
 
+(6A) The specified financial institution or the liquidator, as the case may be, mentioned in subsection (4)(b) must comply with the conditions in subsection (6).
+
+[Act 31 of 2017 wef 05/06/2018]
+
 (7) Notwithstanding any written law or rule of law, where a company which is carrying on or has carried on the significant business of a specified financial institution in Singapore is being wound up under the Companies Act, the Authority shall, subject to such modifications as may be necessary, have the same powers and rights as a creditor of the company under that Act, including the right to appear and be heard before the Court in any proceedings in the winding up.
 
 (8) Without prejudice to subsections (6) and (7) and notwithstanding any written law or rule of law, where a company which is carrying on or has carried on the significant business in Singapore of a specified financial institution is being wound up, its liquidator (whether appointed under the Companies Act or, in the case of a foreign company, appointed at its place of incorporation or origin) shall give the Authority such information as the Authority may from time to time require about the affairs of the company and the winding up.
+
+(8A) Any liquidator who —
+
+(a) without reasonable excuse, fails to comply with subsection (6A) or (8); or
+
+(b) in purported compliance with subsection (8), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 05/06/2018]
 
 (9) In this section —
 
@@ -2998,6 +3160,10 @@ and domestic authorities
 
 “domestic authority” means any ministry or department of the Government, any Organ of State in Singapore and any statutory body (other than the Authority) established under a public Act for a public function, and includes the company designated to be the deposit insurance and policy owners’ protection fund agency under section 56 of the Deposit Insurance and Policy Owners’ Protection Schemes Act (Cap. 77B);
 
+“foreign resolution authority” means an authority of a foreign country or territory which, whether alone or together with one or more other authorities of the foreign country or territory, is responsible for the resolution, or for preparing plans for dealing with the resolution, of a financial institution;
+
+[Act 31 of 2017 wef 05/06/2018]
+
 “material” includes any information, book, document or other record in any form whatsoever, and any container or article relating thereto;
 
 “prescribed written law” means the following Acts and the subsidiary legislation made under those Acts:
@@ -3030,9 +3196,11 @@ and domestic authorities
 
 (a) to maintain financial stability;
 
-(b) to deal with any serious problem in a financial institution which affects the ability of the financial institution to continue its business or operations as a financial institution, and which, if not dealt with, may cause the financial institution to be no longer able to continue its business or operations as a financial institution;
+(b) to deal with any serious problem in a financial institution which affects the ability of the financial institution to continue its business or operations as a financial institution, and which, if not dealt with, may cause the financial institution to be no longer able to continue its business or operations as a financial institution.
 
-“resolution authority”, in relation to a foreign country or territory, means an authority of the foreign country or territory which, whether alone or together with one or more other authorities of the foreign country or territory, is responsible for the resolution, or for preparing plans for dealing with the resolution, of a financial institution.
+[Act 31 of 2017 wef 05/06/2018]
+
+[Deleted by Act 31 of 2017 wef 05/06/2018]
 
 [Act 31 of 2017 wef 04/06/2018]
 
@@ -3040,23 +3208,35 @@ and domestic authorities
 
 ### Conditions for provision of assistance to foreign resolution authority
 
-87\.—(1) The Authority may provide the assistance referred to in section 89 to a resolution authority of a foreign country or territory, if the Authority is satisfied that all of the following conditions are fulfilled:
+87\.—(1) The Authority may provide the assistance referred to in section 89 to a foreign resolution authority, if the Authority is satisfied that all of the following conditions are fulfilled:
 
-(a) the request by the resolution authority for assistance is received by the Authority on or after the date of commencement of section 10 of the Monetary Authority of Singapore (Amendment) Act 2013;
+(a) the request by the foreign resolution authority for assistance is received by the Authority on or after the date of commencement of section 10 of the Monetary Authority of Singapore (Amendment) Act 2013;
 
-(b) the assistance is intended to enable the resolution authority, or any other authority of the foreign country or territory, to deal with the resolution of a financial institution;
+[Act 31 of 2017 wef 05/06/2018]
 
-(c) the resolution authority has given a written undertaking that any material or copy thereof obtained pursuant to its request shall not be used for any purpose other than a purpose that is specified in the request and approved by the Authority;
+(b) the assistance is intended to enable the foreign resolution authority, or any other authority of the foreign country or territory, to deal with the resolution of a financial institution;
 
-(d) the resolution authority has given a written undertaking not to disclose to a third party (other than a designated third party of the foreign country or territory in accordance with paragraph (e)) any material or copy thereof obtained pursuant to the request, unless the resolution authority is compelled to do so by the law or a court of the foreign country or territory;
+[Act 31 of 2017 wef 05/06/2018]
 
-(e) the resolution authority has given a written undertaking to obtain the prior consent of the Authority before disclosing any material received pursuant to the request to a designated third party, and to make such disclosure only in accordance with such conditions as may be imposed by the Authority;
+(c) the foreign resolution authority has given a written undertaking that any material or copy thereof obtained pursuant to its request shall not be used for any purpose other than a purpose that is specified in the request and approved by the Authority;
+
+[Act 31 of 2017 wef 05/06/2018]
+
+(d) the foreign resolution authority has given a written undertaking not to disclose to a third party (other than a designated third party of the foreign country or territory in accordance with paragraph (e)) any material or copy thereof obtained pursuant to the request, unless the foreign resolution authority is compelled to do so by the law or a court of the foreign country or territory;
+
+[Act 31 of 2017 wef 05/06/2018]
+
+(e) the foreign resolution authority has given a written undertaking to obtain the prior consent of the Authority before disclosing any material received pursuant to the request to a designated third party, and to make such disclosure only in accordance with such conditions as may be imposed by the Authority;
+
+[Act 31 of 2017 wef 05/06/2018]
 
 (f) the material requested for is of sufficient importance to the resolution of a financial institution and cannot reasonably be obtained by any other means;
 
 (g) the matter to which the request relates is of sufficient gravity; and
 
 (h) the rendering of assistance will not be contrary to the public interest or the interests of the affected persons of the financial institution.
+
+[Act 31 of 2017 wef 05/06/2018]
 
 [Act 31 of 2017 wef 04/06/2018]
 
@@ -3072,13 +3252,19 @@ and domestic authorities
 
 ### Other factors to consider for provision of assistance to foreign resolution authority
 
-88\. In deciding whether to grant a request for assistance referred to in section 89 from a resolution authority of a foreign country or territory, the Authority may also have regard to the following:
+88\. In deciding whether to grant a request for assistance referred to in section 89 from a foreign resolution authority, the Authority may also have regard to the following:
 
-(a) whether the resolution authority is preparing plans for dealing with the resolution of any financial institution, or is in the process of determining whether to exercise, or is exercising, any resolution powers in relation to the financial institution;
+(a) whether the foreign resolution authority is preparing plans for dealing with the resolution of any financial institution, or is in the process of determining whether to exercise, or is exercising, any resolution powers in relation to the financial institution;
 
-(b) whether the resolution authority has given or is willing to give an undertaking to the Authority to comply with a future request by the Authority to the resolution authority for similar assistance;
+[Act 31 of 2017 wef 05/06/2018]
 
-(c) whether the resolution authority has given or is willing to give an undertaking to the Authority to contribute towards the costs of providing the assistance that the resolution authority has requested for.
+(b) whether the foreign resolution authority has given or is willing to give an undertaking to the Authority to comply with a future request by the Authority to the foreign resolution authority for similar assistance;
+
+[Act 31 of 2017 wef 05/06/2018]
+
+(c) whether the foreign resolution authority has given or is willing to give an undertaking to the Authority to contribute towards the costs of providing the assistance that the foreign resolution authority has requested for.
+
+[Act 31 of 2017 wef 05/06/2018]
 
 [Act 31 of 2017 wef 04/06/2018]
 
@@ -3086,15 +3272,23 @@ and domestic authorities
 
 ### Assistance that may be rendered to foreign resolution authority
 
-89\.—(1) Notwithstanding the provisions of any prescribed written law or any requirement imposed thereunder or any rule of law, the Authority or any person authorised by the Authority may, in relation to a request by a resolution authority of a foreign country or territory for assistance —
+89\.—(1) Notwithstanding the provisions of any prescribed written law or any requirement imposed thereunder or any rule of law, the Authority or any person authorised by the Authority may, in relation to a request by a foreign resolution authority for assistance —
 
-(a) transmit to the resolution authority any material in the possession of the Authority that is requested by the resolution authority or a copy thereof;
+(a) transmit to the foreign resolution authority any material in the possession of the Authority that is requested by the foreign resolution authority or a copy thereof;
 
-(b) order any person to furnish to the Authority any material that is requested by the resolution authority or a copy thereof, and transmit the material or copy to the resolution authority;
+[Act 31 of 2017 wef 05/06/2018]
 
-(c) order any person to make an oral statement to the Authority on any information requested by the resolution authority, record such statement, and transmit the recorded statement to the resolution authority; or
+(b) order any person to furnish to the Authority any material that is requested by the foreign resolution authority or a copy thereof, and transmit the material or copy to the foreign resolution authority;
 
-(d) request any ministry or department of the Government, or any statutory authority in Singapore, to furnish to the Authority any material that is requested by the resolution authority or a copy thereof, and transmit the material or copy to the resolution authority.
+[Act 31 of 2017 wef 05/06/2018]
+
+(c) order any person to make an oral statement to the Authority on any information requested by the foreign resolution authority, record such statement, and transmit the recorded statement to the foreign resolution authority; or
+
+[Act 31 of 2017 wef 05/06/2018]
+
+(d) request any ministry or department of the Government, or any statutory authority in Singapore, to furnish to the Authority any material that is requested by the foreign resolution authority or a copy thereof, and transmit the material or copy to the foreign resolution authority.
+
+[Act 31 of 2017 wef 05/06/2018]
 
 (2) An order under subsection (1)(b) or (c) shall have effect notwithstanding any obligation as to secrecy or other restriction upon the disclosure of information imposed by any prescribed written law or any requirement imposed thereunder, any rule of law, any contract or any rule of professional conduct.
 
@@ -3434,13 +3628,33 @@ FINANCIAL SECTOR DEVELOPMENT FUND
 
 [Act 31 of 2017 wef 04/06/2018]
 
-### Financial provisions
+### Financial year of Fund
 
-130\. Sections 32, 33 and 34 shall apply, with the necessary modifications, to the Authority in relation to its administration of the Fund.
+130\. The financial year of the Fund begins on 1 April of each year and ends on 31 March of the succeeding year.
 
-[27/99]
+[Act 31 of 2017 wef 05/06/2018]
 
-[Act 31 of 2017 wef 04/06/2018]
+### Audit
+
+131\. The accounts of the Fund are to be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
+
+[Act 31 of 2017 wef 05/06/2018]
+
+### Preparation and publication of financial statements and annual report of Fund
+
+132\.—(1) The Authority must, within 6 months from the close of the financial year of the Fund, send to the Minister —
+
+(a) a copy of the audited financial statements of the Fund, together with a copy of the auditor’s report; and
+
+(b) a report on the activities concerning the Fund during that financial year.
+
+(2) The Authority must publish the audited financial statements and the auditor’s report mentioned in subsection (1)(a) in theGazette.
+
+(3) The Authority must publish the report mentioned in subsection (1)(b) in such manner as the Authority may determine.
+
+(4) The Minister must, within 6 months from the close of the financial year of the Fund, cause a copy of the audited financial statements and a copy of the auditor’s report mentioned in subsection (1)(a), and a copy of the report mentioned in subsection (1)(b), to be presented to Parliament.
+
+[Act 31 of 2017 wef 05/06/2018]
 
 ## PART VA
 
@@ -4918,6 +5132,10 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|4 June 2018|
+|34.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
