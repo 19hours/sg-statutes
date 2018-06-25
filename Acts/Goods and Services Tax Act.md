@@ -4648,19 +4648,37 @@ Registration
 
 Liability to be registered
 
-1.—(1) Subject to sub-paragraphs (3) to (5), a person who makes taxable supplies but is not registered is liable to be registered —
+1.—(1) A person who makes taxable supplies but is not registered is liable to be registered in accordance with any of the following:
 
-(a) at the end of any quarter where the total value of all his taxable supplies made in Singapore in that quarter and the 3 quarters immediately preceding that quarter has exceeded $1 million; or
+(a) either —
+
+(i) at the end of any quarter the last day of which is a day before 1 January 2019, if the total value of all his taxable supplies made in Singapore in that quarter and the 3 quarters immediately preceding that quarter has exceeded $1 million; or
+
+(ii) at the end of the year 2019 or a subsequent calendar year, if the total value of all his taxable supplies made in Singapore in that calendar year has exceeded $1 million;
 
 (b) at any time, if there are reasonable grounds for believing that the total value of his taxable supplies in the period of 12 months then beginning will exceed $1 million.
 
-(2) Where a business carried on by a taxable person is transferred to another person as a going concern and the transferee is not registered at the time of the transfer, then, subject to sub-paragraphs (3) to (5), the transferee becomes liable to be registered at that time if —
+[S 415/2018 wef 25/06/2018]
 
-(a) the total value of all his taxable supplies made in Singapore in the quarter of the time of the transfer and the 3 quarters immediately preceding that quarter has exceeded $1 million; or
+(2) Where a business carried on by a taxable person is transferred to another person as a going concern and the transferee is not registered at the time of the transfer, then the transferee becomes liable to be registered at that time —
 
-(b) there are reasonable grounds for believing that the total value of his taxable supplies in the period of 12 months then beginning will exceed $1 million.
+(a) if —
 
-(3) A person is not liable to be registered by virtue of sub-paragraph (1)(a) or (2)(a) after the end of any quarter if the Comptroller is satisfied that the value of his taxable supplies in the next 4 quarters will not exceed $1 million.
+(i) for a business transferred before 1 January 2019, the total value of all the transferee’s taxable supplies made in Singapore in the quarter in which the time of the transfer falls and the 3 quarters immediately preceding that quarter exceeds $1 million; or
+
+(ii) for a business transferred on or after 1 January 2019, the total value of all the transferee’s taxable supplies made in Singapore in the calendar year immediately preceding the calendar year in which the time of transfer falls exceeds $1 million; or
+
+(b) if there are reasonable grounds for believing that the total value of his taxable supplies in the period of 12 months then beginning will exceed $1 million.
+
+[S 415/2018 wef 25/06/2018]
+
+(3) A person is not liable to be registered, as the case may be —
+
+(a) by virtue of sub‑paragraph (1)(a)(i) or (2)(a)(i) at the end of any quarter if the Comptroller is satisfied that the value of his taxable supplies in the next 4 quarters will not exceed $1 million; or
+
+(b) by virtue of sub‑paragraph (1)(a)(ii) or (2)(a)(ii) at the end of any calendar year if the Comptroller is satisfied that the value of his taxable supplies in the next calendar year will not exceed $1 million.
+
+[S 415/2018 wef 25/06/2018]
 
 (4) In determining the value of a person’s supplies for the purposes of sub-paragraph (1)(a) or (2)(a), supplies made at a time when he was previously registered shall be disregarded if —
 
@@ -4722,7 +4740,13 @@ End of liability to be registered
 
 Notification of liability and registration
 
-4.—(1) A person who by virtue of paragraph 1(1)(a) is liable to be registered after the end of any quarter shall notify the Comptroller in such form as the Comptroller may determine of that liability within 30 days of the end of that quarter.
+4.—(1) A person who by virtue of paragraph 1(1)(a)(i) is liable to be registered at the end of any quarter must notify the Comptroller in such form as the Comptroller may determine of that liability within 30 days after the end of that quarter.
+
+[S 415/2018 wef 25/06/2018]
+
+(1A) A person who by virtue of paragraph 1(1)(a)(ii) is liable to be registered at the end of any calendar year must notify the Comptroller in such form as the Comptroller may determine of that liability within 30 days after the end of that calendar year.
+
+[S 415/2018 wef 25/06/2018]
 
 (2) The Comptroller shall register any such person (whether or not he so notifies the Comptroller) with effect from the end of the month following the month in which the 30th day falls or from such earlier date as may be agreed between the Comptroller and him.
 
@@ -4736,7 +4760,15 @@ Notification of liability and registration
 
 (2) The Comptroller shall register any such person (whether or not that person so notifies the Comptroller) with effect from the time when the business is transferred.
 
-7\. Where a person becomes liable to be registered by virtue of paragraph 1(1)(a) and by virtue of paragraph 1(2) at the same time, the Comptroller shall register him in accordance with paragraph 6(2) rather than paragraph 4(2).
+7. Where a person becomes liable to be registered at the same time, as the case may be —
+
+(a) by virtue of sub‑paragraphs (1)(a)(i) and (2)(a)(i) of paragraph 1; or
+
+(b) by virtue of sub‑paragraphs (1)(a)(ii) and (2)(a)(ii) of paragraph 1,
+
+the Comptroller must register the person in accordance with paragraph 6(2) rather than paragraph 4(2).
+
+[S 415/2018 wef 25/06/2018]
 
 Voluntary registration
 
@@ -4750,9 +4782,11 @@ Voluntary registration
 
 (A) financial services specified in paragraph 1 of Part I of the Fourth Schedule, where the financial services are international services under section 21(3); or
 
-(B) investment precious metals referred to in paragraph 1A of Part I of the Fourth Schedule, where the supplies of the investment precious metals are supplies referred to in section 21(6), (6A) or (7); or
+(B) investment precious metals referred to in paragraph 1A of Part I of the Fourth Schedule, where the supplies of the investment precious metals are supplies referred to in section 21(6), (6AA), (6A) or (7); or
 
 [Act 19/2012 wef 01/10/2012]
+
+[S 415/2018 wef 25/06/2018]
 
 (b) is carrying on a business and intends to make such supplies in the course or furtherance of that business,
 
@@ -6186,29 +6220,21 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 19/2003 published on 29 August 2003)|
 ||Date of Second and Third Readings|16 October 2003|
 ||Date of commencement|1 July 2003 (section 4)|
-|17.|**Act 19 of 2003—Goods and Services Tax (Amendment) Act 2003**|
-||Date of First Reading|28 August 2003|
-|||(Bill No. 19/2003 published on 29 August 2003)|
-||Date of Second and Third Readings|16 October 2003|
-||Date of commencement|18 November 2003 (sections 1(1) and 7)|
-|18.|**Act 19 of 2003—Goods and Services Tax (Amendment) Act 2003**|
-||Date of First Reading|28 August 2003|
-|||(Bill No. 19/2003 published on 29 August 2003)|
-||Date of Second and Third Readings|16 October 2003|
-||Date of commencement|1 January 2004 (sections 2, 3, 5 and 6)|
-|19.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
+|||18 November 2003 (sections 1(1) and 7)|
+|||1 January 2004 (sections 2, 3, 5 and 6)|
+|17.|**Act 16 of 2004—Statistics (Amendment) Act 2004**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|19 April 2004|
 |||(Bill No. 15/2004 published on 20 April 2004)|
 ||Date of Second and Third Readings|19 May 2004|
 ||Date of commencement|1 July 2004|
-|20.|**Act 50 of 2004—Goods and Services Tax (Amendment) Act 2004**|
+|18.|**Act 50 of 2004—Goods and Services Tax (Amendment) Act 2004**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 59/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|17 November 2004|
 ||Date of commencement|8 December 2004|
-|21.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
+|19.|**Act 47 of 2004—Building Maintenance and Strata Management Act 2004**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|6 February 2004|
 |||(Bill No. 6/2004 published on 7 February 2004)|
@@ -6216,173 +6242,145 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Referred to Select Committee|Parl. 5 of 2004|
 ||Date of Third Reading|19 October 2004|
 ||Date of commencement|1 April 2005 (except for sections 11(2), (4) and (6), 12(2) and 33(8) and (9), Part VII, item (5) in the Third Schedule and items (9)(b), (11) and (12)(a) in the Fifth Schedule)|
-|22.|**2005 Revised Edition—Goods and Services Tax Act**|
+|20.|**2005 Revised Edition—Goods and Services Tax Act**|
 ||Date of operation|31 July 2005|
-|23.|**G. N. No. S 647/2005—Goods and Services Tax Act (Amendment of Second Schedule) Order 2005**|
+|21.|**G. N. No. S 647/2005—Goods and Services Tax Act (Amendment of Second Schedule) Order 2005**|
 ||Date of commencement|7 October 2005|
-|24.|**Act 38 of 2005—Goods and Services Tax (Amendment) Act 2005**|
+|22.|**Act 38 of 2005—Goods and Services Tax (Amendment) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 37/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1 January 2006|
-|25.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
+|23.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
 ||Date of First Reading|9 April 2007|
 |||(Bill No. 15/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|22 May 2007|
 ||Date of commencement|17 February 2006|
-|26.|**G. N. No. S 395/2006—Goods and Services Tax Act (Amendment of Third Schedule) Order 2006**|
+|||1 July 2007|
+|24.|**G. N. No. S 395/2006—Goods and Services Tax Act (Amendment of Third Schedule) Order 2006**|
 ||Date of commencement|1 July 2006|
-|27.|**G. N. No. S 328/2007—Goods and Services Tax Act (Amendment of Second Schedule) Order 2007**|
+|25.|**G. N. No. S 328/2007—Goods and Services Tax Act (Amendment of Second Schedule) Order 2007**|
 ||Date of commencement|1 July 2007|
-|28.|**Act 28 of 2007—Goods and Services Tax (Amendment) Act 2007**|
-||Date of First Reading|9 April 2007|
-|||(Bill No. 15/2007 published on 10 April 2007)|
-||Date of Second and Third Readings|22 May 2007|
-||Date of commencement|1 July 2007|
-|29.|**Act 3 of 2008—Customs (Amendment) Act 2008**|
+|26.|**Act 3 of 2008—Customs (Amendment) Act 2008**|
 ||Date of First Reading|12 November 2007|
 |||(Bill No. 48/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|4 April 2008|
-|30.|**Act 33 of 2008—Goods and Services Tax (Amendment) Act 2008**|
+|27.|**Act 33 of 2008—Goods and Services Tax (Amendment) Act 2008**|
 ||Date of First Reading|20 October 2008|
 |||(Bill No. 29/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|1 January 2009|
-|31.|**G. N. No. S 676/2008—Goods and Services Tax Act (Amendment of Third and Fourth Schedules) Order 2008**|
+|28.|**G. N. No. S 676/2008—Goods and Services Tax Act (Amendment of Third and Fourth Schedules) Order 2008**|
 ||Date of commencement|1 January 2009|
-|32.|**Act 37 of 2008—Limited Partnerships Act 2008**|
+|29.|**Act 37 of 2008—Limited Partnerships Act 2008**|
 ||Date of First Reading|20 October 2008|
 ||Date of Second and Third Readings|18 November 2008|
 ||Date of commencement|4 May 2009|
-|33.|**G. N. No. S 391/2009—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2009**|
+|30.|**G. N. No. S 391/2009—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2009**|
 ||Date of commencement|1 September 2009|
-|34.|**Act 19 of 2009—Goods and Services Tax (Amendment) Act 2009**|
+|31.|**Act 19 of 2009—Goods and Services Tax (Amendment) Act 2009**|
 ||Date of First Reading|20 July 2009|
 |||(Bill No. 12/2009 published on 20 July 2009)|
 ||Date of Second and Third Readings|18 August 2009|
 ||Date of commencement|1 January 2010|
-|35.|**Act 20 of 2010—Goods and Services Tax (Amendment) Act 2010**|
+|32.|**Act 20 of 2010—Goods and Services Tax (Amendment) Act 2010**|
 ||Date of First Reading|19 July 2010|
 |||(Bill No. 15/2010 published on 19 July 2010)|
 ||Date of Second and Third Readings|16 August 2010|
 ||Date of commencement|1 October 2010 (except sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
-|36.|**G. N. No. S 567/2010—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2010**|
+|||1 January 2011 (sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
+|33.|**G. N. No. S 567/2010—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2010**|
 ||Date of commencement|1 October 2010|
-|37.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
+|34.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 16/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|1 January 2011(Section 2)|
-|38.|**Act 20 of 2010—Goods and Services Tax (Amendment) Act 2010**|
-||Date of First Reading|19 July 2010|
-|||(Bill No. 15/2010 published on 19 July 2010)|
-||Date of Second and Third Readings|16 August 2010|
-||Date of commencement|1 January 2011 (sections 2, 3, 4, 6, 7, 9, 10, 11, 12, 13(a) and (b), 14, 17 and 18)|
-|39.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|||1 January 2012 (Except section 2)|
+|35.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|40.|**Act 7 of 2011—Private Lotteries Act 2011**|
+|36.|**Act 7 of 2011—Private Lotteries Act 2011**|
 ||Date of First Reading|10 January 2011|
 |||(Bill No. 2/2011 published on 10 January 2011)|
 ||Date of Second and Third Readings|14 February 2011|
 ||Date of commencement|1 April 2011|
-|41.|**Act 19 of 2012—Goods and Services Tax (Amendment) Act 2012**|
+|37.|**Act 19 of 2012—Goods and Services Tax (Amendment) Act 2012**|
 ||Date of First Reading|13 August 2012|
 |||(Bill No. 19/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
 ||Date of commencement|1 January 2012|
-|42.|**G.N. No. S 692/2011—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2011**|
+|||1 October 2012 (except sections 5(a) and (d) and 9)|
+|38.|**G.N. No. S 692/2011—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2011**|
 ||Date of commencement|1 January 2012|
-|43.|**Act 24 of 2011—Goods and Services Tax (Amendment) Act 2011**|
-||Date of First Reading|17 October 2011|
-|||(Bill No. 16/2011 published on 17 October 2011)|
-||Date of Second and Third Readings|22 November 2011|
-||Date of commencement|1 January 2012 (Except section 2)|
-|44.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+|39.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 November 2011|
 |||(Bill No. 22/2011 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (Except sections 26 and 29)|
-|45.|**G. N. No. S 129/2012—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2012**|
+|40.|**G. N. No. S 129/2012—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2012**|
 ||Date of commencement|1 April 2012|
-|46.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+|41.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
 ||Date of First Reading|21 October 2013|
 |||(Bill No. 17/2013 published on 17 December 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|1 October 2012 (section 6)|
-|47.|**Act 19 of 2012—Goods and Services Tax (Amendment) Act 2012**|
-||Date of First Reading|13 August 2012|
-|||(Bill No. 19/2012 published on 13 August 2012)|
-||Date of Second and Third Readings|10 September 2012|
-||Date of commencement|1 October 2012 (except sections 5(a) and (d) and 9)|
-|48.|**G. N. No. S 487/2012—Goods and Services Tax Act (Amendment of Second Schedule) Order 2012**|
+|||1 January 2014 (except section 6)|
+|42.|**G. N. No. S 487/2012—Goods and Services Tax Act (Amendment of Second Schedule) Order 2012**|
 ||Date of commencement|1 October 2012|
-|49.|**G. N. No. S 496/2012—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2012**|
-||Date of commencement|1 October 2012|
-|50.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
+|||1 October 2012|
+|43.|**Act 3 of 2013—Computer Misuse (Amendment) Act 2013**|
 ||Date of First Reading|12 November 2012 (Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
-|51.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
-||Date of First Reading|21 October 2013|
-|||(Bill No. 17/2013 published on 17 December 2013)|
-||Date of Second and Third Readings|11 November 2013|
-||Date of commencement|1 January 2014 (except section 6)|
-|52.|**G.N. No. S 828/2013—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2013**|
+|44.|**G.N. No. S 828/2013—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2013**|
 ||Date of commencement|1 January 2014|
-|53.|**G.N. No. S 119/2014—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2014**|
+|45.|**G.N. No. S 119/2014—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2014**|
 ||Date of commencement|3 March 2014|
-|54.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+|46.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
-|55.|**Act 31 of 2014—Goods and Services Tax (Amendment) Act 2014**|
+|47.|**Act 31 of 2014—Goods and Services Tax (Amendment) Act 2014**|
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 28/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|1 January 2015|
-|56.|**G. N. No. S 852/2014—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2014**|
+|48.|**G. N. No. S 852/2014—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2014**|
 ||Date of commencement|1 January 2015|
-|57.|**Act 1 of 2016—Goods and Services Tax (Amendment) Act 2016**|
+|49.|**Act 1 of 2016—Goods and Services Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 2/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|9 May 2016|
-|58.|**G.N. No. S 302/2016—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2016**|
+|||1 July 2016|
+|50.|**G.N. No. S 302/2016—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2016**|
 ||Date of commencement|1 July 2016|
-|59.|**Act 1 of 2016—Goods and Services Tax (Amendment) Act 2016**|
-||Date of First Reading|25 January 2016 (Bill No. 2/2016 published on 25 January 2016)|
-||Date of Second and Third Readings|29 February 2016|
-||Date of commencement|1 July 2016|
-|60.|**G.N. No. S 396/2016—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2016**|
+|51.|**G.N. No. S 396/2016—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2016**|
 ||Date of commencement|1 September 2016|
-|61.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+|52.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
 ||Date of First Reading|10 October 2016 (Bill No. 34/2016 published on 10 October 2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|29 December 2016|
-|62.|**G.N. No. S 374/2017—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2017**|
+|53.|**G.N. No. S 374/2017—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2017**|
 ||Date of commencement|9 July 2017|
-|63.|**Act 37 of 2017—Goods and Services Tax (Amendment) Act 2017**|
+|54.|**Act 37 of 2017—Goods and Services Tax (Amendment) Act 2017**|
 ||Date of First Reading|11 September 2017 (Bill No. 34/2017 published on 11 September 2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|27 October 2017|
-|64.|**Act 37 of 2017—Goods and Services Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017 (Bill No. 34/2017 published on 11 September 2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|1 January 2018|
-|65.|**Act 37 of 2017—Goods and Services Tax (Amendment) Act 2017**|
-||Date of First Reading|11 September 2017 (Bill No. 34/2017 published on 11 September 2017)|
-||Date of Second and Third Readings|2 October 2017|
-||Date of commencement|1 April 2018|
-|66.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+|||1 January 2018|
+|||1 April 2018|
+|55.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
-|67.|**G.N. No. S 312/2018—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2018**|
+|56.|**G.N. No. S 312/2018—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2018**|
 ||Date of commencement|23 May 2018|
+|57.|**G.N. No. S 415/2018—Goods and Services Tax Act (Amendment of First Schedule) Order 2018**|
+||Date of commencement|25 June 2018|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
