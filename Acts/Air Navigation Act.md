@@ -108,7 +108,15 @@
 
 - [11 Wreck and salvage](#Wreck-and-salvage)
 
-- [12 (Repealed)](#Repealed)
+[**Division 6  Protection of safety information**](#Division-6--Protection-of-safety-information)
+
+- [12 Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [12A Voluntary reporting rules](#Voluntary-reporting-rules)
+
+- [12B Limits to disclosure of aviation safety matter reported voluntarily](#Limits-to-disclosure-of-aviation-safety-matter-reported-voluntarily)
+
+- [12C Limits to disclosure of protected information](#Limits-to-disclosure-of-protected-information)
 
 [**Part IIA ACCIDENTS AND INCIDENTS INVESTIGATION**](#Part-IIA)
 
@@ -124,13 +132,13 @@
 
 - [13D Relationship with other laws](#Relationship-with-other-laws)
 
-[**Division 2  Reporting of accidents, serious incidents and aviation safety issues**](#Division-2--Reporting-of-accidents-serious-incidents-and-aviation-safety-issues)
+[**Division 2  Reporting of accidents and serious incidents**](#Division-2--Reporting-of-accidents-and-serious-incidents)
 
 - [13E Compulsory reporting of accidents and serious incidents](#Compulsory-reporting-of-accidents-and-serious-incidents)
 
-- [13F Voluntary reporting scheme](#Voluntary-reporting-scheme)
+- [13F (Repealed)](#Repealed)
 
-- [13G Protection for reporting aviation safety issues](#Protection-for-reporting-aviation-safety-issues)
+- [13G (Repealed)](#Repealed)
 
 [**Division 3  Investigations**](#Division-3--Investigations)
 
@@ -336,6 +344,10 @@ PRELIMINARY
 
 “damage or loss” includes, in relation to a person, loss of life and personal injury;
 
+“designated person” means a person designated in voluntary reporting rules for the purposes of the voluntary reporting scheme established by those rules;
+
+[Act 18 of 2018 wef 29/06/2018]
+
 “Director-General of Civil Aviation” means the Chief Executive of the Authority and includes any individual appointed by the Authority to act in the place of the Chief Executive;
 
 “erection of a structure” includes an addition or alteration to an existing structure;
@@ -427,6 +439,10 @@ PRELIMINARY
 “unmanned aircraft system” means an unmanned aircraft and its associated elements;
 
 [Act 16 of 2015 wef 01/06/2015]
+
+“voluntary reporting rules” means rules made under section 12A;
+
+[Act 18 of 2018 wef 29/06/2018]
 
 “working day” means any day except Saturday, Sunday or a public holiday.
 
@@ -633,7 +649,7 @@ General
 
 ### Regulations for this Part
 
-3A\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing matters necessary or convenient to be prescribed for the control and regulation of aviation in and over Singapore for the safety of air navigation or for public safety or both, and for carrying out the Chicago Convention and any other international aviation convention, agreement, or understanding to which the Government is a party, in relation to safety of civil aviation, including but not limited to —
+3A\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing matters necessary or convenient to be prescribed for the control and regulation of aviation in and over Singapore for the safety of air navigation or for public safety or both, and for carrying out the Chicago Convention and any other international aviation convention, agreement, or understanding to which the Government is a party, in relation to safety of civil aviation or mitigating specifically the environmental effect of international aviation emissions, including but not limited to —
 
 (a) the design and manufacture of aircraft and aeronautical products;
 
@@ -684,6 +700,8 @@ General
 [10/2014]
 
 [Act 16 of 2015 wef 01/06/2015]
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (2) Without prejudice to the generality of subsection (1), regulations may also provide for or with respect to —
 
@@ -2063,7 +2081,145 @@ the owner shall be entitled to be indemnified by that other person against any c
 
 (4) For the purposes of this section, any provisions of any written law which relate to vessels laid by or neglected as unfit for sea service shall be deemed to be provisions relating to wreck.
 
-12\. [Repealed by Act 12 of 2007]
+Division 6 —
+
+Protection of safety information
+
+### Interpretation of this Division
+
+12\. In this Division, unless the context otherwise requires —
+
+“aviation safety matter” means any information about any conduct, transaction, process, practice, occurrence, circumstance or matter that affects, or might affect, aviation safety, and includes —
+
+(a) safety matter within the meaning given by section 4O;
+
+(b) any facts, statistics or other data about any conduct, transaction, process, practice, occurrence, circumstance or matter affecting, or that might affect, aviation safety, and which is in a form that is capable of being communicated, analysed or processed (whether by an individual or a computer or other automated methods); and
+
+(c) data sets that are relevant to aviation safety management,
+
+but does not include excluded information;
+
+“competent authority” means the person designated by the voluntary reporting rules as the competent authority for the purpose of section 12C(4) in respect of each voluntary and confidential reporting scheme established by those rules;
+
+“excluded information” means —
+
+(a) all statements (whether oral or in writing) obtained from persons by an Inspector, or by a person acting under the authority of the Minister or Chief Inspector of Accidents, in the course of an investigation under Part IIA (including any record of any such statement);
+
+(b) all communications with any person having been involved in the operation of an aircraft that is being or has been investigated under Part IIA;
+
+(c) all medical or private information regarding persons (including deceased persons) involved in the accident or incident that is being or has been investigated under Part IIA;
+
+(d) records of the analysis of information or evidential material acquired in the course of an investigation under Part IIA (such as but not limited to flight recorder information), including any opinion expressed by a person in the analysis of such information or evidential material;
+
+(e) any information about any conduct, transaction, process, practice, occurrence, circumstance or matter that is prescribed by the voluntary reporting rules as excluded information;
+
+(f) any reportable safety matter within the meaning given by section 4O;
+
+(g) any information about any contravention of any provision of this Part which is not required by section 4O to be reported;
+
+(h) any matter showing a serious and imminent threat to a person’s health or life; or
+
+(i) an act of unlawful interference within the meaning of section 17;
+
+“protected information” means —
+
+(a) information that is contained in a report of an aviation safety matter made under any voluntary reporting rules;
+
+(b) information that is obtained or generated by a designated person in the course of considering a report of an aviation safety matter made under any voluntary reporting rules;
+
+(c) records of the analysis of information contained in a report of an aviation safety matter made under any voluntary reporting rules, including opinions expressed by a person in that analysis; or
+
+(d) information about any other aviation safety matter that is obtained or generated by the Authority in the performance of its functions or duties under this Act or any other written law.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Voluntary reporting rules
+
+12A\.—(1) The Minister may make rules in theGazetteproviding for the voluntary and confidential reporting of an aviation safety matter to one or more persons designated in the rules (called in this Act a designated person) —
+
+(a) to identify deficiencies and problems arising out of such reports; and
+
+(b) to provide data for safety improvements to the Singapore aviation system.
+
+(2) The voluntary reporting rules must provide for —
+
+(a) one or more schemes for the voluntary and confidential reporting of an aviation safety matter to a designated person;
+
+(b) the manner in which such reports are to be made;
+
+(c) the use and disclosure by a designated person for a scheme of —
+
+(i) information contained in such reports; or
+
+(ii) information the designated person obtains or generates in the course of considering any such report,
+
+only for a purpose in subsection (1) and in an anonymised form or as statistics which do not identify any particular person;
+
+(d) the designation for the purposes of section 12C(4) of a competent authority in respect of each scheme; and
+
+(e) any other matters necessary or incidental to the establishment or operation of such a scheme in accordance with subsection (1).
+
+(3) The voluntary reporting rules may provide that any contravention of any of the provisions of the rules shall be an offence punishable with a fine not exceeding $20,000.
+
+(4) All voluntary reporting rules made under this section must be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Limits to disclosure of aviation safety matter reported voluntarily
+
+12B\.—(1) Subject to subsection (4) —
+
+(a) a report of an aviation safety matter made by a person (called in this section the reporter) to any designated person in accordance with the voluntary reporting rules, or any evidence of the contents of such a report; and
+
+(b) the fact that such a report of an aviation safety matter was made by the reporter to any designated person,
+
+are not admissible in evidence against the reporter in any administrative proceedings before any tribunal in Singapore, any civil proceedings, or any criminal proceedings before any court other than criminal proceedings for an offence under section 29C.
+
+(2) A person is not entitled to take disciplinary action against the person’s employee by using information derived from a report of an aviation safety matter made by the employee to a designated person in accordance with the voluntary reporting rules.
+
+(3) A person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(4) A tribunal is not entitled to make a decision of an administrative character (whether or not in the exercise of a discretion) under any written law against a reporter using information derived from a report of an aviation safety matter made by the reporter to a designated person in accordance with the voluntary reporting rules.
+
+(5) To avoid doubt, this section does not prevent the use of information derived from a source that is not a report of an aviation safety matter made to any designated person in accordance with the voluntary reporting rules.
+
+(6) In this section, “tribunal” includes any person or body of persons constituted and vested by or under any written law to make a decision of an administrative character.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Limits to disclosure of protected information
+
+12C\.—(1) Subject to subsection (2), every designated person and any other person who has or has had access to any protected information must not disclose or make available any protected information to any other person or a court.
+
+(2) However, subsection (1) does not apply —
+
+(a) to anything done by a person in performing functions or exercising powers under, or in connection with, any voluntary reporting rules;
+
+(b) to disclosure to a court in civil proceedings where the High Court makes an order under subsection (3);
+
+(c) to disclosure authorised by a competent authority under subsection (4);
+
+(d) to disclosure to a court in criminal proceedings for an offence under section 29C; and
+
+(e) to disclosure in an anonymised form or as statistics which do not identify any person.
+
+(3) If the High Court is satisfied that any adverse domestic or international impact that the disclosure might have on any current or future collection and availability of aviation safety matter is outweighed by the public interest in the administration of justice, the High Court may order the disclosure of protected information.
+
+(4) If a competent authority is satisfied, having regard to the aviation safety matter in question, that any adverse domestic or international impact that the disclosure might have on any current or future collection and availability of aviation safety matter is outweighed by the need for maintaining or improving aviation safety, the competent authority may order the disclosure of protected information.
+
+(5) In making an order under subsection (3) or (4), the High Court or competent authority, as the case may be, may direct that the protected information, must not —
+
+(a) be published or communicated to any particular person or persons; or
+
+(b) be published or communicated except —
+
+(i) in an anonymised form or as statistics which do not identify any person; or
+
+(ii) in such other manner, and to such persons, as the High Court or competent authority specifies.
+
+(6) If a person is prohibited by this section from disclosing any protected information, then the person cannot be required by any court to disclose the information, and any information disclosed by the person in contravention of this section is not admissible in any civil proceedings or any criminal proceedings (other than proceedings against the person under this section).
+
+[Act 18 of 2018 wef 29/06/2018]
 
 ## PART IIA
 
@@ -2083,25 +2239,13 @@ General
 
 “Annex 13” means Annex 13 to the Chicago Convention as amended from time to time by the Council of the International Civil Aviation Organisation;
 
-“aviation safety issue” means any conduct, transaction, process, practice, occurrence, circumstance or matter that affects, or might affect, aviation safety, but not any of the following:
-
-(a) any accident or serious incident;
-
-(b) any conduct, transaction, process, practice, occurrence, circumstance or matter that may constitute such offence as may be prescribed by the voluntary reporting rules;
-
-(c) any reportable safety matter within the meaning of section 4O;
-
-(d) matters showing a serious and imminent threat to a person’s health or life;
-
-(e) any act of unlawful interference within the meaning of section 17;
-
-(f) any other conduct, transaction, process, practice, occurrence, circumstance or matter that is prescribed by the voluntary reporting rules to be excluded from this definition;
+[Deleted by Act 18 of 2018 wef 29/06/2018]
 
 “cause”, in relation to any accident or incident, means any action, omission, event, condition, or a combination of any action, omission, event or condition, which led to the accident or incident, the identification of which does not imply the assignment of fault or the determination of administrative, civil or criminal liability;
 
 “civil aircraft” means aircraft that is a Singapore registered aircraft and any other aircraft that is not military aircraft;
 
-“designated person” means a person designated by the Minister for the purposes of the voluntary reporting scheme established by the voluntary reporting rules;
+[Deleted by Act 18 of 2018 wef 29/06/2018]
 
 “flight recorder” means any type of recorder installed in the aircraft for the purpose of complementing accident or incident investigation;
 
@@ -2119,11 +2263,11 @@ General
 
 “State of Design” means the State having jurisdiction over the organisation responsible for the type design of the aircraft;
 
-“State of Manufacture” means the State having jurisdiction over the organisation responsible for the final assembly of the aircraft;
+“State of Manufacture” means the State having jurisdiction over the organisation responsible for the final assembly of the aircraft.
 
-“voluntary reporting rules” means rules made under section 13F.
+[Act 18 of 2018 wef 29/06/2018]
 
-[10/2014]
+[Deleted by Act 18 of 2018 wef 29/06/2018]
 
 ### Accidents, etc., to which this Part applies
 
@@ -2205,7 +2349,9 @@ General
 
 Division 2 —
 
-Reporting of accidents, serious incidents and aviation safety issues
+Reporting of accidents and serious incidents
+
+[Act 18 of 2018 wef 29/06/2018]
 
 ### Compulsory reporting of accidents and serious incidents
 
@@ -2237,61 +2383,9 @@ the relevant person must give notice of the accident or serious incident to the 
 
 [10/2014]
 
-### Voluntary reporting scheme
+13F\. [Repealed by Act 18 of 2018 wef 29/06/2018]
 
-13F\.—(1) Rules (referred to in this Act as the voluntary reporting rules) may be made by the Minister under this section to establish a scheme —
-
-(a) for the voluntary and confidential reporting of aviation safety issues;
-
-(b) to identify deficiencies and problems arising out of such reports; and
-
-(c) to provide data for safety improvements to the Singapore aviation system.
-
-[10/2014]
-
-(2) The voluntary reporting rules must prescribe for —
-
-(a) the voluntary and confidential reporting of aviation safety issues to one or more persons designated in the rules (referred to in this Part as a designated person);
-
-(b) the manner in which such reports are to be made;
-
-(c) the use and disclosure by a designated person of information contained in such reports and information the designated person obtains or generates in the course of considering any such report, which shall not be inconsistent with section 13G; and
-
-(d) any other matters necessary or incidental to the establishment or operation of a scheme in accordance with subsection (1).
-
-[10/2014]
-
-(3) All voluntary reporting rules made shall be presented to Parliament as soon as possible after publication in theGazette.
-
-[10/2014]
-
-### Protection for reporting aviation safety issues
-
-13G\.—(1) Subject to subsection (4) —
-
-(a) a report of an aviation safety issue made by a person (referred to in this section as the reporter) to a designated person in accordance with the voluntary reporting rules or any evidence of the contents of such a report; and
-
-(b) the fact that such a report of an aviation safety issue was made by the reporter to a designated person,
-
-shall not be admissible in evidence against the reporter in any administrative proceedings before any tribunal in Singapore, any civil proceedings or any criminal proceedings before any court other than criminal proceedings for an offence under section 29C.
-
-[10/2014]
-
-(2) A person is not entitled to take disciplinary action against his employee using information derived from a report of an aviation safety issue made by the employee to a designated person in accordance with the voluntary reporting rules.
-
-[10/2014]
-
-(3) A tribunal is not entitled to make a decision of an administrative character (whether or not in the exercise of a discretion) under any written law against a reporter using information derived from a report of an aviation safety issue made by the reporter to a designated person in accordance with the voluntary reporting rules.
-
-[10/2014]
-
-(4) For the avoidance of doubt, this section does not prevent the use of information derived from a source that is not a report of an aviation safety issue made to any designated person in accordance with the voluntary reporting rules.
-
-[10/2014]
-
-(5) In this section, “tribunal” includes any person or body of persons constituted and vested by or under any written law to make a decision of an administrative character.
-
-[10/2014]
+13G\. [Repealed by Act 18 of 2018 wef 29/06/2018]
 
 Division 3 —
 
@@ -2469,17 +2563,19 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 (e) any air traffic services recording and transcript from such recording;
 
-(f) any cockpit airborne image recording and any part or transcript from such recording;
+(f) any cockpit airborne image recording and any part or transcript from such recording; and
 
-(g) records of the analysis of information or evidential material acquired in the course of an investigation under this Part (such as but not limited to flight recorder information), including any opinion expressed by a person in the analysis of such information or evidential material;
+[Act 18 of 2018 wef 29/06/2018]
 
-(h) information that is contained in a report of an aviation safety issue made under the voluntary reporting rules;
+(g) records of the analysis of information or evidential material acquired in the course of an investigation under this Part (such as but not limited to flight recorder information), including any opinion expressed by a person in the analysis of such information or evidential material.
 
-(i) information that is obtained or generated by a designated person in the course of considering a report of an aviation safety issue made under the voluntary reporting rules; and
+[Act 18 of 2018 wef 29/06/2018]
 
-(j) records of the analysis of information contained in a report of an aviation safety issue made under the voluntary reporting rules, including opinions expressed by a person in that analysis.
+(h) [Deleted by Act 18 of 2018 wef 29/06/2018]
 
-[10/2014]
+(i) [Deleted by Act 18 of 2018 wef 29/06/2018]
+
+(j) [Deleted by Act 18 of 2018 wef 29/06/2018]
 
 (2) Subject to subsection (3), a person who is or has been an Inspector, a member of the staff of the AAIB, or an adviser, or who has or has had access to any restricted information, shall not disclose or make available any restricted information to any other person or a court.
 
@@ -2622,6 +2718,10 @@ AVIATION SECURITY
 (a) an airport operator who holds an airport licence under the Civil Aviation Authority of Singapore Act (Cap. 41) or who is exempted from holding such a licence under section 43 of that Act;
 
 (b) an aircraft operator;
+
+(ba) a consignor;
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (c) an air cargo agent;
 
@@ -3033,6 +3133,26 @@ and in such case, the National Civil Aviation Security Authority may issue a ver
 
 [10/2014]
 
+(2A) To avoid doubt, an aviation industry participant may at any one time be 2 or more of the following:
+
+(a) an airport operator who holds an airport licence under the Civil Aviation Authority of Singapore Act (Cap. 41) or who is exempted from holding such a licence under section 43 of that Act;
+
+(b) an aircraft operator;
+
+(c) a consignor;
+
+(d) an air cargo agent;
+
+(e) a person who occupies or controls an area of an airport (whether under a lease, sublease or other arrangement);
+
+(f) the Authority;
+
+(g) a contractor who provides services to any person mentioned in paragraphs (a) to (f),
+
+and this Part and the aviation security regulations may prescribe requirements and duties or liabilities on the aviation industry participant accordingly, and may at any one time impose the same duty or liability on 2 or more aviation industry participants, whether in the same capacity or in different capacities.
+
+[Act 18 of 2018 wef 29/06/2018]
+
 (3) All aviation security regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
 [10/2014]
@@ -3411,7 +3531,7 @@ the authorised person may, subject to subsection (3), exercise all or any of the
 
 (ii) needs to be seized to prevent its concealment, loss or destruction, or its use in committing, continuing or repeating an offence under this Act or any aviation safety subsidiary legislation.
 
-(3) In authorising any person under subsection (1), the Commissioner of Police or the Authority, as the case may be, may do all or any of the following:
+(3) In authorising any person under subsection (1), the Commissioner of Police, the Chief of Defence Force or the Authority, as the case may be, may do all or any of the following:
 
 (a) limit the powers in subsection (2) that the authorised person may exercise;
 
@@ -3422,6 +3542,8 @@ the authorised person may, subject to subsection (3), exercise all or any of the
 (d) limit the circumstances in which the authorised person may exercise his powers in subsection (2) or any of them;
 
 (e) limit the offences in respect of which the authorised person may exercise his powers in subsection (2) or any of them.
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (4) Any person who, without reasonable excuse, contravenes any direction under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -3436,6 +3558,10 @@ the authorised person may, subject to subsection (3), exercise all or any of the
 (7) In this section, an authorised person is —
 
 (a) a police officer, or an auxiliary police officer, of or above the rank of sergeant and authorised by the Commissioner of Police to exercise powers under this section;
+
+(aa) a member of the Singapore Armed Forces who is authorised by the Chief of Defence Force to exercise powers under this section;
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (b) a safety inspector authorised by the Authority to exercise powers under this section; or
 
@@ -3542,6 +3668,10 @@ This Legislative History is provided for the convenience of users of the Air Nav
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
+|15.|**Act 18 of 2018—Aviation (Miscellaneous Amendments) Act 2018**|
+||Date of First Reading|28 February 2018 (Bill No. 13/2018 published on 28 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|29 June 2018|
 ## COMPARATIVE TABLE
 
 Air Navigation Act
