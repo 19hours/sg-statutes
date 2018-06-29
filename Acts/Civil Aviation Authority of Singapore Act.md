@@ -114,6 +114,14 @@
 
 - [46 Advisory guidelines](#Advisory-guidelines)
 
+[**Division 2A  Reserve fund**](#Division-2A--Reserve-fund)
+
+- [46A Reserve fund](#Reserve-fund)
+
+- [46B Appeal to Minister](#Appeal-to-Minister)
+
+- [46C Section 46A duty not discharged by financial penalty](#Section-46A-duty-not-discharged-by-financial-penalty)
+
 [**Division 3  Airport development**](#Division-3--Airport-development)
 
 - [47 Master plan for each airport](#Master-plan-for-each-airport)
@@ -172,11 +180,51 @@
 
 - [68 By-laws](#By-laws)
 
+- [68A Powers to ensure compliance with by-laws, etc.](#Powers-to-ensure-compliance-with-by-laws-etc)
+
 - [69 Relocation of abandoned aircraft, etc.](#Relocation-of-abandoned-aircraft-etc)
+
+- [69A Disposal of unclaimed aircraft, vehicle, etc.](#Disposal-of-unclaimed-aircraft-vehicle-etc)
 
 - [70 Access to airport for defence-related purposes, etc.](#Access-to-airport-for-defence-related-purposes-etc)
 
 - [71 Compensation for access to airport for defence-related purposes, etc.](#Compensation-for-access-to-airport-for-defence-related-purposes-etc)
+
+[**Part VIA AIRPORT CAPACITY MANAGEMENT**](#Part-VIA)
+
+[**Division 1  General**](#Division-1--General)
+
+- [71A Purpose of this Part](#Purpose-of-this-Part)
+
+- [71B Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [71C Coordinated airport and schedules facilitated airport](#Coordinated-airport-and-schedules-facilitated-airport)
+
+- [71D Appointment of slots coordinator and schedules facilitator](#Appointment-of-slots-coordinator-and-schedules-facilitator)
+
+- [71E No unauthorised slots coordinator and schedules facilitator](#No-unauthorised-slots-coordinator-and-schedules-facilitator)
+
+- [71F Information gathering by slots coordinator and schedules facilitator](#Information-gathering-by-slots-coordinator-and-schedules-facilitator)
+
+[**Division 2  Coordinated airports**](#Division-2--Coordinated-airports)
+
+- [71G Slots management scheme](#Slots-management-scheme)
+
+- [71H Effect of slots allocation](#Effect-of-slots-allocation)
+
+- [71I Directions by slots coordinator](#Directions-by-slots-coordinator)
+
+- [71J Sanctions for non-compliance with slots allocation, etc.](#Sanctions-for-non-compliance-with-slots-allocation-etc)
+
+[**Division 3  Schedules facilitated airports**](#Division-3--Schedules-facilitated-airports)
+
+- [71K Sanctions for schedules facilitated airport](#Sanctions-for-schedules-facilitated-airport)
+
+[**Division 4  Appeals and enforcement of sanctions**](#Division-4--Appeals-and-enforcement-of-sanctions)
+
+- [71L Appeal against sanctions](#Appeal-against-sanctions)
+
+- [71M Recovery of pecuniary penalty, etc.](#Recovery-of-pecuniary-penalty-etc)
 
 [**Part VII SPECIAL ADMINISTRATION ORDERS**](#Part-VII)
 
@@ -215,6 +263,8 @@
 - [86 Levy](#Levy)
 
 - [87 Other provisions relating to levy](#Other-provisions-relating-to-levy)
+
+- [87A Airport development levy](#Airport-development-levy)
 
 - [88 Fees, charges and late payment penalties](#Fees-charges-and-late-payment-penalties)
 
@@ -320,6 +370,10 @@ PRELIMINARY
 
 “airport” means any defined area of land in Singapore declared under section 3 to be an airport;
 
+“airport development levy” means a tax of that name payable under section 87A;
+
+[Act 18 of 2018 wef 29/06/2018]
+
 “airport licence” means a licence granted under section 36;
 
 “airport licensee” means the holder of an airport licence;
@@ -390,6 +444,10 @@ but does not include air navigation services;
 
 “Chairman” means the Chairman of the Authority and includes any temporary Chairman of the Authority;
 
+“Changi Airport Development Fund” means the fund of that name established under section 25A;
+
+[Act 18 of 2018 wef 29/06/2018]
+
 “Chief Executive” means the Chief Executive of the Authority and includes any person acting in that capacity;
 
 “code of practice” or “standard of performance” means a code of practice or standard of performance issued or approved under section 44, and includes any such code of practice or standard of performance as amended from time to time under that section;
@@ -397,6 +455,10 @@ but does not include air navigation services;
 “company” means a body corporate;
 
 “Contracting State” means any country (including Singapore) which is a party to the Convention on International Civil Aviation concluded at Chicago on 7th December 1944;
+
+“coordinated airport” means an airport declared under section 71C(1)(a) as a coordinated airport;
+
+[Act 18 of 2018 wef 29/06/2018]
 
 “debenture” includes debenture stock;
 
@@ -446,6 +508,14 @@ and “operation” and “operating” shall be construed accordingly;
 
 “repealed Act” means the Civil Aviation Authority of Singapore Act (Cap. 41, 1985 Ed.) repealed by this Act;
 
+“schedules facilitated airport” means an airport declared under section 71C(1)(b) as a schedules facilitated airport;
+
+[Act 18 of 2018 wef 29/06/2018]
+
+“schedules facilitator” means a person who is appointed under section 71D(1)(b) as the schedules facilitator for a schedules facilitated airport, or the Authority if no such person is appointed;
+
+[Act 18 of 2018 wef 29/06/2018]
+
 “securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
 
 “service charge” means a charge under section 88 for air navigation services or other services or facilities provided by the Authority;
@@ -458,13 +528,23 @@ and “operation” and “operating” shall be construed accordingly;
 
 “Singapore Search and Rescue Region” means the Singapore Flight Information Region and any area within which search and rescue services are provided by the Government;
 
+“slots coordinator” means a person who is appointed under section 71D(1)(a) as the slots coordinator for a coordinated airport, or the Authority if no such person is appointed;
+
+[Act 18 of 2018 wef 29/06/2018]
+
 “statutory lien” means a statutory lien vested in the Authority under section 89;
 
 “successor company” means a company nominated by the Minister under section 27(1);
 
-“transfer date” has the meaning given in section 26.
+“transfer date” has the meaning given in section 26;
 
 [4/2010]
+
+[Act 18 of 2018 wef 29/06/2018]
+
+“vehicle” includes an autonomous motor vehicle within the meaning of the Road Traffic Act (Cap. 276).
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (2) For the purposes of this Act, a company shall be regarded as wholly owned by the Government at any time when all the issued shares in the company are held by or on behalf of the Government.
 
@@ -742,7 +822,13 @@ shall disclose any information relating to the affairs of the Authority or of an
 
 (a) all moneys from time to time appropriated from the Consolidated Fund or Development Fund and authorised to be paid into the Changi Airport Development Fund by a Supply law;
 
-(b) all moneys authorised by or under any other written law to be paid into the Changi Airport Development Fund;
+(b) all moneys authorised by or under section 46A or 87A or any other written law to be paid into the Changi Airport Development Fund;
+
+[Act 18 of 2018 wef 29/06/2018]
+
+(ba) all contributions by the Authority to the Changi Airport Development Fund, out of the excess of the revenue over expenditure of the Authority in any financial year;
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (c) any gifts or donations made by any person for the purposes of the Changi Airport Development Fund;
 
@@ -1070,7 +1156,13 @@ the Authority may do all or any of the following:
 
 whichever is applicable;
 
-(C) impose such other direction as the Authority considers appropriate restricting the airport licensee’s business of operating the airport.
+(C) impose such other direction as the Authority considers appropriate restricting the airport licensee’s business of operating the airport;
+
+[Act 18 of 2018 wef 29/06/2018]
+
+(D) where the ground for exercising any power under this subsection relates to non-compliance with section 46A(1), (2) or (3), require the payment of the contribution required to be paid into the reserve fund or the Changi Airport Development Fund (as the case may be) under that section, or the refund into the reserve fund of such sum of money withdrawn by the airport licensee without the approval of the Authority, as the case may be.
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (2) The Authority shall not exercise its powers under subsection (1) unless an opportunity of being heard by a representative in writing or by counsel had been given to the airport licensee against which the Authority intends to exercise its powers, being a period of at least 14 days but not more than 28 days.
 
@@ -1259,6 +1351,50 @@ and shall consider any representations or objections which are duly made.
 (b) the use, construction, design or performance of anything relating to airport services and facilities.
 
 (3) The Authority must give a copy of each advisory guideline to the Minister, and publish each advisory guideline in any way the Authority thinks fit; but failure to comply with this subsection in respect of any advisory guidelines shall not invalidate the advisory guidelines.
+
+Division 2A —
+
+Reserve fund
+
+### Reserve fund
+
+46A\.—(1) The airport licensee for an airport at Changi designated by the Minister for the purpose of this section must establish and maintain a reserve fund for the purpose of mitigating the effects of any condition or event of a significant nature which adversely affects the civil aviation system.
+
+(2) An airport licensee designated under subsection (1) must pay annually, within the time specified by the Authority, to —
+
+(a) the reserve fund, an annual contribution of an amount fixed by the Authority, out of the profit after tax that the licensee makes in a financial year; and
+
+(b) the Changi Airport Development Fund, a separate annual contribution of an amount fixed by the Authority, out of the profit after tax that the licensee makes in a financial year.
+
+(3) An airport licensee designated under subsection (1) must not withdraw any sum from the reserve fund it establishes and maintains under that subsection except with the approval of the Authority and for any purpose in that subsection.
+
+(4) For the purposes of subsection (2), the profit after tax that an airport licensee makes in any financial year must be determined in accordance with the Accounting Standards made or formulated under Part III of the Accounting Standards Act (Cap. 2B) and applicable to companies in respect of their operations in Singapore, and as applied by the airport licensee for that financial year.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Appeal to Minister
+
+46B\.—(1) An airport licensee designated under section 46A(1) who is aggrieved by the Authority’s decision under section 46A(2)(a) or (b) or (3) may appeal to the Minister against the decision.
+
+(2) Every appeal under this section must be made within the time and in the manner prescribed.
+
+(3) The decision of the Authority which is appealed against does not take effect until the appeal is determined.
+
+(4) The Minister may determine an appeal against the Authority’s decision under section 46A(2)(a) or (b) or (3) —
+
+(a) by confirming the decision in whole or varying it in part; or
+
+(b) by reversing the decision in question.
+
+(5) The Minister’s decision on an appeal under this section is final.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Section 46A duty not discharged by financial penalty
+
+46C\. Unless otherwise directed by the Minister, the payment by the airport licensee designated for the purpose of section 46A of a financial penalty imposed under section 39 in respect of the airport licensee failing to comply with section 46A(1), (2) or (3) does not absolve the airport licensee from the requirement to comply with section 46A(1), (2) or (3), as the case may be.
+
+[Act 18 of 2018 wef 29/06/2018]
 
 Division 3 —
 
@@ -1950,7 +2086,13 @@ AIRPORT OPERATIONS
 
 (a) providing for the proper management, operation, supervision, safety and security of the airport;
 
-(b) securing the safety of persons against injury and of the airport and aircraft against damage (including damage by fire);
+(b) securing the safety of, and preventing injury and damage to, aircraft, vehicles and persons using or within the airport, including —
+
+(i) measures (which may involve the use of reasonable force) to extinguish and prevent the spread of fire or for protecting life and property in case of fire; and
+
+(ii) measures that restrict entry into, egress from, or movement or conduct in any particular part of the airport;
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (c) providing for the restriction and control of any activity or the provision of services in the airport;
 
@@ -1964,11 +2106,13 @@ AIRPORT OPERATIONS
 
 (h) specifying the routes to be used by aircraft and vehicles;
 
-(i) the prohibition or restriction and control of the use of specified roads within the airport by persons or vehicles generally or during particular hours or at particular times or in particular circumstances;
+(i) the prohibition or restriction and control of the use of specified roads within the airport (except roads within the airport to which the Road Traffic Act (Cap. 276) applies) by persons or vehicles generally or during particular hours or at particular times or in particular circumstances;
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (j) regulating vehicular traffic generally on such roads including speed of traffic;
 
-(k) specifying the places in which vehicles, whether unattended or not, may remain stationary either indefinitely or for any period not exceeding a specified period and the period, purpose and conditions (including the parking fees payable) under which vehicles may remain stationary in other specified places in the airport;
+(k) [Deleted by Act 18 of 2018 wef 29/06/2018]
 
 (l) prohibiting the keeping or leaving of any vehicles stationary in any place in the airport for a purpose not permitted or not in accordance with the conditions (if any) prescribed by the by-laws;
 
@@ -1978,7 +2122,9 @@ AIRPORT OPERATIONS
 
 (o) regulating the admission and exclusion from the airport of persons, animals or vehicles;
 
-(p) prohibiting trespassing on the airport by persons or animals;
+(p) prohibiting trespassing on the airport by persons, vehicles or animals;
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (q) regulating the formation of queues of persons and vehicles within, or seeking admission to, the airport;
 
@@ -2010,13 +2156,121 @@ AIRPORT OPERATIONS
 
 (8) No by-law made under this section shall be inconsistent with any law for the time being in force in Singapore and any such by-law which is so inconsistent shall be void to the extent of that inconsistency.
 
+(9) In addition to subsection (8), no by-law made under this section is binding on the Authority to the extent (if any) to which the by-law would impede or affect the performance by the Authority or any of its employees of any function or duty or the exercise of any power conferred on the Authority or its employees under any other provision of this Act or the Air Navigation Act (Cap. 6) or any subsidiary legislation made under either Act.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Powers to ensure compliance with by-laws, etc.
+
+68A\.—(1) An authorised airport employee of an airport licensee or exempt airport operator for an airport may by written notice require any person using or who has used, or within, the airport (called a person of interest) to furnish, within a reasonable period and in the form and manner specified in the notice, any documents or information which —
+
+(a) relate to any matter which the airport licensee, exempt airport operator or authorised airport employee (as the case may be) considers necessary for an enforcement purpose concerning that airport; and
+
+(b) are within the knowledge, or in or under the custody or control of the person of interest.
+
+(2) The power to require a person of interest to furnish any document or information under subsection (1) includes the power —
+
+(a) to require the person of interest, or any individual who is or was an officer, agent or employee of the person of interest, to provide an explanation of the document or information;
+
+(b) if the document or information is not furnished, to require the person of interest, or that individual mentioned in paragraph (a), to state, to the best of the knowledge and belief of that person or individual, where the document or information is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the airport licensee, exempt airport operator or authorised airport employee (as the case may be) in legible form.
+
+(3) An authorised airport employee is entitled without payment to keep any document or information, or any copy or extract thereof, furnished to him under subsection (1).
+
+(4) For an enforcement purpose concerning an airport, an authorised airport employee of an airport licensee or exempt airport operator (as the case may be) for the airport is entitled, at all reasonable times —
+
+(a) to full and free access to any place or aircraft within the airport;
+
+(b) to examine or observe any activity conducted in or on the place or aircraft;
+
+(c) to inspect and examine any thing in or on the place or aircraft;
+
+(d) to make any still or moving image or any recording of the place or any thing in or on the place or aircraft;
+
+(e) to inspect any document in the place or aircraft and make copies of, or take extracts from, any such document;
+
+(f) to take onto the place or aircraft such equipment and materials as the authorised airport employee requires for the purpose of exercising powers in this subsection in relation to the place or aircraft;
+
+(g) to operate electronic equipment in or on the place or aircraft; and
+
+(h) to require any individual found in the place or aircraft to answer, or to attend before the authorised airport employee to answer, any question (to the best of that individual’s knowledge, information and belief) and to furnish any document or information.
+
+(5) The power under subsection (4)(g) to operate electronic equipment in or on any place or aircraft includes —
+
+(a) the power to use a disk, tape or other storage device that is in or on the place or aircraft and can be used with the equipment or in association with the equipment;
+
+(b) the power to operate electronic equipment in or on the place or aircraft to put the relevant data in documentary form and remove the documents so produced from the place or aircraft; and
+
+(c) the power to operate electronic equipment in or on the place or aircraft to transfer the relevant data to a disk, tape or other storage device that —
+
+(i) is brought to the place or aircraft for the exercise of the power; or
+
+(ii) is in or on the place or aircraft and the use of which for that purpose has been agreed in writing by the occupier of the place or aircraft,
+
+and remove the disk, tape or other storage device from that place or aircraft.
+
+(6) Any statement made by any individual in answer to a question under subsection (4)(h) must —
+
+(a) be reduced to writing;
+
+(b) be read over to the individual;
+
+(c) if the individual does not understand English, be interpreted for the person in a language that the individual understands; and
+
+(d) after correction, if necessary, be signed by that individual.
+
+(7) An individual or a person —
+
+(a) who intentionally alters, suppresses or destroys any document or information which the individual or person has been required by a notice under subsection (1) or under subsection (4)(h) to furnish; or
+
+(b) who, in furnishing any document or information required under subsection (1) or (4)(h) makes any statement which the individual or person knows or ought reasonably to know that, or is reckless as to whether, it is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(8) An individual or a person who, without reasonable excuse, fails to do anything required of the individual or person by notice under subsection (1) or (4)(h) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(9) However, an individual or a person is not subject to a requirement under subsection (1) or (4)(h) if —
+
+(a) the individual or person does not possess the document or information required; or
+
+(b) the individual or person has taken all reasonable steps available to the individual or person to obtain the document or information required and is unable to obtain it.
+
+(10) To avoid doubt, for the purposes of subsection (8), it is a reasonable excuse for an individual or a person to refuse or fail to furnish any information, produce any document or answer any question if doing so might tend to incriminate that individual or person.
+
+(11) In this section —
+
+“authorised airport employee”, for an airport, means —
+
+(a) an employee of an airport licensee for the airport who is authorised by the Authority to exercise a power under this section in connection with an enforcement purpose relating to that airport; or
+
+(b) an employee of an exempt airport operator for the airport who is authorised by the Authority to exercise a power under this section in connection with an enforcement purpose relating to that airport;
+
+“enforcement purpose”, in relation to an airport, means —
+
+(a) determining whether the provisions of the by-laws made under section 68 in relation to the airport, or any conditions imposed on any approval or permission granted under those by-laws, are being complied with;
+
+(b) investigating any offence under the provisions of the by-laws made under section 68 in relation to the airport; or
+
+(c) determining whether information furnished to the airport licensee or exempt airport operator for the airport under a provision of the by-laws made under section 68 in relation to the airport is correct.
+
+[Act 18 of 2018 wef 29/06/2018]
+
 ### Relocation of abandoned aircraft, etc.
 
 69\.—(1) If —
 
-(a) an aircraft at an airport is interfering, or is likely to interfere, with the operation of the airport; and
+(a) an aircraft at an airport is —
 
-(b) the aircraft is in a state of disrepair or is apparently abandoned,
+(i) in a state of disrepair; and
+
+(ii) interfering, or is likely to interfere, with the operation of the airport; or
+
+[Act 18 of 2018 wef 29/06/2018]
+
+(b) an aircraft at an airport is apparently abandoned,
+
+[Act 18 of 2018 wef 29/06/2018]
 
 the airport licensee or exempt airport operator for the airport may, with the approval of the Authority, cause the aircraft to be moved to another part of the airport, so long as that movement is carried out with reasonable care.
 
@@ -2027,6 +2281,84 @@ the airport licensee or exempt airport operator for the airport may, with the ap
 (4) Where the airport licensee or exempt airport operator for an airport has incurred any expenses in removing any aircraft under this section, all such expenses reasonably incurred by the airport licensee or exempt airport operator in removing any such aircraft shall be recoverable in a court of competent jurisdiction from the owner of the aircraft as if the expenses were a debt due to the airport licensee or exempt airport operator, as the case may be.
 
 (5) In this section, “aircraft” includes an object that was designed or adapted for use as an aircraft but is incapable of being so used because one or more parts have been removed from it, or it is in a wrecked or damaged condition.
+
+### Disposal of unclaimed aircraft, vehicle, etc.
+
+69A\.—(1) An aircraft or a vehicle, or an article or a thing, which is moved —
+
+(a) by an airport licensee or exempt airport operator for an airport, or an authorised airport employee, under the by-laws made under section 68 for the airport; or
+
+(b) with the approval of the Authority, by an airport licensee or exempt airport operator for an airport under section 69,
+
+must be detained in a holding area until the aircraft or vehicle, or article or thing is released by order of the airport licensee or exempt airport operator concerned, or is sold or disposed of in accordance with this section.
+
+(2) Subject to subsection (9), where an aircraft or a vehicle, or an article or a thing is moved to a holding area under subsection (1), it becomes unclaimed if, at the end of the prescribed period starting after the day on which the aircraft, vehicle, article or thing was so moved —
+
+(a) there is no person who appears, to the satisfaction of the airport licensee or exempt airport operator concerned, to be the owner of the aircraft, vehicle, article or thing, as the case may be; or
+
+(b) there is such a person but that person —
+
+(i) has not been located after reasonable inquiry by the airport licensee or exempt airport operator concerned; or
+
+(ii) has not exercised the person’s right to recover the aircraft, vehicle, article or thing by a claim.
+
+(3) Where an aircraft or a vehicle, or an article or a thing which is moved to a holding area under subsection (1) becomes unclaimed, an authorised airport employee of an airport licensee or exempt airport operator duly authorised for this purpose may, subject to subsection (9) and after giving notice in accordance with subsection (4) of his intention to do so and, in the case of an aircraft, with the approval of the Authority —
+
+(a) sell the aircraft, vehicle, article or thing (as the case may be) and any uncollected item left in or on the aircraft, vehicle, article or thing, as prescribed by regulations; or
+
+(b) destroy or otherwise dispose of the aircraft, vehicle, article or thing and any uncollected item left in or on the aircraft, vehicle, article or thing, as prescribed by regulations.
+
+(4) The notice required by subsection (3) is given —
+
+(a) by publishing a notice of the sale or disposal in theGazetteat least one month before taking any action under subsection (3); and
+
+(b) in the case of an aircraft, by taking other reasonable steps to give at least one month’s notice of the sale or disposal to the persons mentioned in section 92(3)(a), (b) and (c).
+
+(5) The proceeds of a sale or disposal under this section of any aircraft, and any uncollected item left in or on an aircraft, under subsection (3), must be applied successively as follows:
+
+(a) firstly, in the discharge of any levy under Part IX if a statutory lien on the aircraft is in effect at the time of sale or disposal;
+
+(b) secondly, in the discharge of services charges, penalties and interest under Part IX in the order in which they became payable;
+
+(c) thirdly, in payment of the expenses occasioned by the sale or disposal;
+
+(d) fourthly, in payment of storage or other expenses incurred respectively by the Authority and the airport licensee or exempt airport operator (as the case may be) in relation to the aircraft;
+
+(e) lastly, by payment of the balance to the airport licensee or exempt airport operator, as the case may be.
+
+(6) The proceeds of a sale or disposal under this section of any vehicle, article or thing, and any uncollected item left in or on the vehicle, article or thing, under subsection (3) must be applied successively as follows:
+
+(a) firstly, in payment of the expenses occasioned by the sale or disposal;
+
+(b) secondly, in payment of storage or other expenses incurred respectively by the Authority and the airport licensee or exempt airport operator (as the case may be) in relation to the vehicle, article, item or thing;
+
+(c) thirdly, in payment of all unpaid parking fees or other similar charges in relation to the vehicle, article, item or thing;
+
+(d) lastly, by payment of the balance to the airport licensee or exempt airport operator, as the case may be.
+
+(7) A purchaser of an aircraft or a vehicle, or an article, item or a thing sold in accordance with subsection (3) acquires good title to that aircraft, vehicle, article, item or thing, and the Authority may execute all documents necessary for effecting the sale or disposal of the aircraft, vehicle, article, item or thing, as the case may be.
+
+(8) Any person who, without the permission of an airport licensee or exempt airport operator (as the case may be), removes or causes to be removed from a holding area —
+
+(a) an aircraft, a vehicle, an article or a thing moved to the holding area under the circumstances in subsection (1) by the airport licensee or exempt airport operator; or
+
+(b) any uncollected item left in or on such an aircraft, vehicle, article or thing,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(9) This section —
+
+(a) does not authorise the moving, detention and sale or disposal of any aircraft, vehicle, article, item or thing belonging to the Government or the Authority; and
+
+(b) does not limit the operation of section 11 of the Air Navigation Act (Cap. 6) or the High Court (Admiralty Jurisdiction) Act (Cap. 123).
+
+(10) In this section, “authorised airport employee”, for an airport, means —
+
+(a) an employee of an airport licensee for the airport who is authorised by the airport licensee to exercise a power under this section in connection with that airport; or
+
+(b) an employee of an exempt airport operator for the airport who is authorised by the exempt airport operator to exercise a power under this section in connection with that airport.
+
+[Act 18 of 2018 wef 29/06/2018]
 
 ### Access to airport for defence-related purposes, etc.
 
@@ -2077,6 +2409,312 @@ the Government shall be liable to pay to the person an amount equal to the loss 
 (3) In determining the amount of any loss or damage mentioned in subsection (1), regard must be had to anything done in mitigation of the loss or damage (including any remedial work).
 
 (4) A payment under subsection (1) or (2) shall be made out of amounts appropriated by Parliament for the purposes of the Ministry, department or public authority designated in the direction.
+
+## PART VIA
+
+AIRPORT CAPACITY MANAGEMENT
+
+[Act 18 of 2018 wef 29/06/2018]
+
+Division 1 —
+
+General
+
+### Purpose of this Part
+
+71A\. This Part provides for limits on aircraft flight operations at any coordinated airport or schedules facilitated airport in Singapore to allow for optimal use of airport capacity.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Interpretation of this Part
+
+71B\. In this Part —
+
+“aircraft flight operation”, for an aircraft, means —
+
+(a) the landing of the aircraft on a runway;
+
+(b) the taking-off of the aircraft on a runway; and
+
+(c) the use of the full range of airport infrastructure (such as the runway, terminal, apron and gate) necessary for the purpose of paragraph (a) or (b) and in connection with operating the aircraft;
+
+“operator of an aircraft” means the person who, when an aircraft flight operation involving an aircraft occurs, is —
+
+(a) if the aircraft is under a lease at the time of the operation, the lessee of the aircraft; or
+
+(b) in any other case, the owner of the aircraft;
+
+“slot” means the permission to use the full range of airport infrastructure (such as the runway, terminal, apron and gate) necessary for any aircraft flight operation at a coordinated airport on a specific date and at a specific time;
+
+“slots committee”, for a coordinated airport, means a committee established under the slots management scheme for the coordinated airport to advise the slots coordinator for that airport about the capacity of the airport, such as the opportunities to increase the airport’s capacity, coordination parameters and methods of monitoring compliance with slots allocation;
+
+“slots management scheme” means the scheme set out in regulations made under section 71G for a coordinated airport, and includes that scheme as is amended from time to time.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Coordinated airport and schedules facilitated airport
+
+71C\.—(1) The Minister may, after consulting the Authority, declare an airport as —
+
+(a) a coordinated airport if the Minister is satisfied that the airport capacity at the airport is scarce and the establishment of a slot management scheme is necessary or expedient to allow for optimal use of airport capacity; or
+
+(b) a schedules facilitated airport if the Minister is of the opinion that measures under this Part are necessary to ensure that available capacity for aircraft flight operations at the airport is used efficiently.
+
+(2) Once such a declaration is made under subsection (1), the Minister must, within 7 days after the making of the declaration and before the date the declaration comes into force, cause to be published a notice of the making of the declaration, describing briefly the coordinated airport or schedules facilitated airport (as the case may be) in such manner as will secure adequate publicity for the declaration.
+
+(3) However, failure to publish a notice under subsection (2) in respect of any declaration by the Minister does not invalidate the declaration.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Appointment of slots coordinator and schedules facilitator
+
+71D\.—(1) Subject to subsection (2), the Authority may appoint a person as —
+
+(a) the slots coordinator for a coordinated airport; or
+
+(b) the schedules facilitator for a schedules facilitated airport.
+
+(2) The Authority may act as the slots coordinator for a coordinated airport, or as the schedules facilitator for a schedules facilitated airport, if no such person is appointed for that airport under subsection (1).
+
+(3) An appointment under subsection (1) of a person as a slots coordinator for a coordinated airport, or a schedules facilitator for a schedules facilitated airport, continues unless and until the Authority decides that the appointment must end and written notice of that end is served on the slots coordinator or schedules facilitator (as the case may be) for that airport.
+
+(4) In giving written notice under subsection (3), it is not necessary for the Authority to give any person who may be affected by the written notice a chance to be heard before giving the notice.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### No unauthorised slots coordinator and schedules facilitator
+
+71E\.—(1) A person other than the Authority must not act as a slots coordinator for a coordinated airport, or as a schedules facilitator for a schedules facilitated airport, unless the person —
+
+(a) is appointed under section 71D(1)(a) as a slots coordinator for the coordinated airport; or
+
+(b) is appointed under section 71D(1)(b) as a schedules facilitator for the schedules facilitated airport,
+
+as the case may be.
+
+(2) A person who contravenes subsection (1) shall be guilty of an offence.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Information gathering by slots coordinator and schedules facilitator
+
+71F\.—(1) A slots coordinator for a coordinated airport may, by written notice, require all or any of the following persons to provide, within a reasonable period specified in the notice, and in such form and manner as may be specified in the notice, all documents and information relating to any matter which the slots coordinator considers necessary to carry out the functions or duties of or assigned to it by or under this Part and the slots management scheme for the airport:
+
+(a) any operator of aircraft at the coordinated airport;
+
+(b) the airport licensee of that airport.
+
+(2) A schedules facilitator for a schedules facilitated airport may, by written notice, require all or any of the following persons to provide, within a reasonable period specified in the notice, and in such form and manner as may be specified in the notice, all documents and information relating to any matter which the schedules facilitator considers necessary to carry out the functions or duties of or assigned to it by or under this Part:
+
+(a) any operator of aircraft at the schedules facilitated airport;
+
+(b) the airport licensee of that airport.
+
+(3) However, an individual or person is not subject to a requirement under subsection (1) or (2) to provide documents or information if —
+
+(a) the individual or person does not possess the document or information required; or
+
+(b) the individual or person has taken all reasonable steps available to the individual or person to obtain the document or information required and is unable to obtain it.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+Division 2 —
+
+Coordinated airports
+
+### Slots management scheme
+
+71G\.—(1) The Authority, with the approval of the Minister, must establish, by regulations in theGazette, a slots management scheme for each coordinated airport where, in order to land or take-off, during the periods for which the airport is a coordinated airport, it is necessary for an operator of an aircraft to have a slot allocated by a slots coordinator.
+
+(2) A slots management scheme for a coordinated airport —
+
+(a) may prescribe the disqualifications to be appointed as a slots coordinator for the coordinated airport;
+
+(b) must provide for the allocation of slots by the slots coordinator for aircraft landing at or taking-off from the coordinated airport, and the conditions that may be imposed on the slots relating to aircraft flight operations at that airport;
+
+(c) may provide for the cancellation, suspension or variation of allocated slots by the slots coordinator, and the circumstances for doing so other than the circumstances in section 71J;
+
+(d) may specify the circumstances (generally or specially) under which the full range of airport infrastructure necessary for any aircraft flight operation at the airport may be used or take place regardless of slots allocation;
+
+(e) must provide for the establishment of a slots committee (the composition of which may include representatives of providers of air navigation services at the airport, the airport licensee of that airport and other aviation industry participants) and for the functions of the slots committee;
+
+(f) must provide for the reconsideration by the slots coordinator of decisions mentioned in paragraph (b), (c) or (d) made by the slots coordinator, and for appeals against any of these decisions to a slots committee;
+
+(g) may provide for the saving and transitional arrangements because of changes to the scheme; and
+
+(h) may provide for any other matters necessary or incidental to the establishment or operation of such a scheme.
+
+(3) All regulations made under this section must be presented to Parliament as soon as possible after publication in theGazette.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Effect of slots allocation
+
+71H\.—(1) A slot allocated under a slots management scheme for a coordinated airport permits a specified aircraft flight operation to take place at the coordinated airport at a specified time on a specified day.
+
+(2) A slot allocated under a slots management scheme for a coordinated airport —
+
+(a) is not transferable; and
+
+(b) does not create rights or obligations that are enforceable against any person.
+
+(3) To avoid doubt, the allocation of a slot for an aircraft flight operation under a slots management scheme does not limit the application of any other requirement or restriction to, or in relation to, aircraft flight operations by or under this Act, the Air Navigation Act (Cap. 6) or any other written law.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Directions by slots coordinator
+
+71I\.—(1) Subject to subsection (3), a slots coordinator for a coordinated airport may give written directions for the purpose of securing compliance by an operator of an aircraft at the coordinated airport to cause or allow its aircraft to arrive at or leave the coordinated airport in accordance with a slot allocated under the slots management scheme established for that airport.
+
+(2) A written direction may be given under subsection (1) to all or any of the following persons:
+
+(a) an operator of aircraft at the coordinated airport;
+
+(b) the airport licensee of that airport.
+
+(3) A written direction may be given under subsection (1) in relation to a coordinated airport only —
+
+(a) in the case of a direction given to the airport licensee of the coordinated airport, after the slots coordinator has first consulted the airport licensee; and
+
+(b) if the direction does not relate to an air traffic service required by an aircraft arriving at that airport or a departing aircraft which has started push back from its stand.
+
+(4) A person to whom a written direction is given under subsection (1) in relation to a coordinated airport must comply with the direction.
+
+(5) However, a person is not subject to a requirement under subsection (4) to comply with a written direction given under subsection (1) to the person if in that person’s reasonable opinion, compliance —
+
+(a) is or is likely to be inconsistent with any other requirement under any other written law, including a requirement under the by-laws made under section 68; or
+
+(b) is prejudicial to, or is likely to prejudice, aviation safety.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Sanctions for non-compliance with slots allocation, etc.
+
+71J\.—(1) If the slots coordinator for a coordinated airport is satisfied, on a balance of probabilities, that an operator of aircraft at the airport —
+
+(a) has repeatedly or intentionally caused or allowed aircraft flight operations involving its aircraft to take place at the coordinated airport —
+
+(i) at times different from the slot allocated for the aircraft to arrive at or leave that airport; and
+
+(ii) in circumstances which are not circumstances prescribed in the slots management scheme for that airport where aircraft flight operations do not have to be in accordance with allocated slots;
+
+(b) has repeatedly or intentionally used slots allocated for aircraft flight operations involving its aircraft —
+
+(i) in a different way from that indicated at the time of the allocation of the slot; and
+
+(ii) in circumstances which are not circumstances prescribed in the slots management scheme for that airport where aircraft flight operations do not have to be in accordance with allocated slots;
+
+(c) has —
+
+(i) failed to comply, without reasonable excuse, with the requirement for documents or information made by the slots coordinator under section 71F(1); or
+
+(ii) in response to the requirement under section 71F(1), given a document or information that is false in a material particular; or
+
+(d) has failed to comply with section 71I(4),
+
+the slots coordinator may, after giving the operator concerned a reasonable opportunity to be heard, by notice in writing impose a sanction mentioned in subsection (2) on that operator of aircraft.
+
+(2) The sanction which may be imposed under subsection (1) by a slots coordinator for a coordinated airport are all or any of the following:
+
+(a) cancel with effect from a date and time specified any slot allocated to the operator of aircraft in respect of that airport;
+
+(b) suspend with effect from a date and time specified any slot allocated to the operator of aircraft in respect of that airport;
+
+(c) with the approval of the Authority, order the operator of aircraft to pay a pecuniary penalty to the slots coordinator for the default in subsection (1)(a), (b), (c) or (d), within a time specified.
+
+(3) In deciding the sanction for a default in subsection (1)(a), (b), (c) or (d) by an operator of aircraft with respect to a coordinated airport, the slots coordinator for the coordinated airport must have regard to the following matters:
+
+(a) the nature and extent of the default;
+
+(b) the nature and extent of any loss or damage suffered by other operators of aircraft at that coordinated airport, and any other person, as a result of the default;
+
+(c) the circumstances in which the default took place;
+
+(d) whether the operator has previously been found to have defaulted similarly in Singapore, whether or not at that same airport.
+
+(4) The slots coordinator for a coordinated airport may also have regard to any other matters it considers relevant in making a decision under subsection (1).
+
+(5) However, a pecuniary penalty in respect of any default in subsection (1)(a), (b), (c) or (d) by an operator of aircraft must not exceed $100,000 for each such default.
+
+(6) In granting approval under subsection (2)(c), it is not necessary for the Authority to give any person who may be affected by the decision a chance to be heard before granting approval.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+Division 3 —
+
+Schedules facilitated airports
+
+### Sanctions for schedules facilitated airport
+
+71K\.—(1) If the schedules facilitator for a schedules facilitated airport is satisfied, on a balance of probabilities, that an operator of aircraft at the airport —
+
+(a) has failed to comply, without reasonable excuse, with the requirement for documents or information made by the schedules facilitator under section 71F(2); or
+
+(b) has, in response to the requirement under section 71F(2), given a document or information that is false in a material particular,
+
+the schedules facilitator may, after giving the operator concerned a reasonable opportunity to be heard, by notice in writing, and with the approval of the Authority, order the operator of aircraft to pay a pecuniary penalty to the schedules facilitator for the default in paragraph (a) or (b), within a time specified.
+
+(2) In deciding the sanction for a default in subsection (1)(a) or (b) by an operator of aircraft with respect to a schedules facilitated airport, the schedules facilitator for the airport must have regard to the following matters:
+
+(a) the nature and extent of the default;
+
+(b) the circumstances in which the default took place;
+
+(c) whether the operator has previously been found to have defaulted similarly in Singapore, whether or not at that same airport.
+
+(3) The schedules facilitator for a schedules facilitated airport may also have regard to any other matters it considers relevant in making a decision under subsection (1).
+
+(4) However, a pecuniary penalty in respect of any default in subsection (1)(a) or (b) by an operator of aircraft must not exceed $100,000 for each such default.
+
+(5) In granting approval under subsection (1), it is not necessary for the Authority to give any person who may be affected by the decision a chance to be heard before granting approval.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+Division 4 —
+
+Appeals and enforcement of sanctions
+
+### Appeal against sanctions
+
+71L\.—(1) Any operator of aircraft against whom a sanction is imposed under section 71J or 71K may, if aggrieved by that decision of the slots coordinator or schedules facilitator (as the case may be), appeal —
+
+(a) to the Minister —
+
+(i) against a sanction which is a pecuniary penalty imposed by a slots coordinator or schedules facilitator appointed under section 71D(1); or
+
+(ii) against any decision by the Authority acting as a slots coordinator or schedules facilitator; or
+
+(b) to the Authority against any other sanction imposed by a slots coordinator appointed under section 71D(1).
+
+(2) Every appeal under this section must be made within the time and in the manner prescribed.
+
+(3) A sanction under section 71J or 71K takes effect despite any appeal against the sanction, and remains in effect until the sanction is reversed on appeal.
+
+(4) The Minister or Authority (as the case may be) may determine an appeal against a sanction imposed under section 71J or 71K —
+
+(a) by confirming the sanction; or
+
+(b) by reversing the sanction in question and referring that decision to the slots coordinator or schedules facilitator (as the case may be) for another decision under section 71J or 71K.
+
+(5) The Minister’s decision or Authority’s decision (as the case may be) on an appeal under this section is final.
+
+[Act 18 of 2018 wef 29/06/2018]
+
+### Recovery of pecuniary penalty, etc.
+
+71M\.—(1) If any pecuniary penalty imposed under section 71J or 71K is not paid in full by the due date for payment, interest at the prescribed rate is payable by the operator of aircraft concerned on the outstanding amount of the pecuniary penalty.
+
+(2) The slots coordinator or schedules facilitator (as the case may be), or the Authority if no slots coordinator or schedules facilitator is appointed under section 71D(1), may recover, as a Government debt, in a court of competent jurisdiction any of the following amounts that has become due and payable but has not been paid:
+
+(a) any pecuniary penalty imposed under section 71J or 71K;
+
+(b) any interest imposed under subsection (1) or any part thereof,
+
+and the liability to pay is not affected by an operator of aircraft ceasing (for any reason) to operate its aircraft at the coordinated airport or schedules facilitated airport concerned or being an operator of aircraft.
+
+(3) All pecuniary penalties imposed under section 71J or 71K, and any interest imposed under subsection (1), must be paid into the Consolidated Fund.
+
+[Act 18 of 2018 wef 29/06/2018]
 
 ## PART VII
 
@@ -2374,7 +3012,9 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (2) On payment of such sum of money, no further proceedings shall be taken against that person in respect of the offence.
 
-(3) All sums collected under this section shall be paid to the Authority.
+(3) All sums collected under this section shall be paid into the Consolidated Fund.
+
+[Act 18 of 2018 wef 29/06/2018]
 
 ## PART IX
 
@@ -2425,6 +3065,56 @@ and prescribe conditions relating to the making of such returns;
 (b) if the amount of levy collected by the airport licensee or other agent is not paid by the airport licensee or agent within the time prescribed, such additional penalty on the amount outstanding as prescribed in the order shall be payable by the airport licensee or agent, as the case may be, to the Authority; and
 
 (c) the airport licensee or other agent shall not refund, remit or reimburse, directly or indirectly, any levy or penalty paid or payable by any person under section 86, except in accordance with the prior approval of the Authority.
+
+### Airport development levy
+
+87A\.—(1) A tax called an airport development levy is payable in respect of every air passenger ticket that covers at least one flight that takes off —
+
+(a) from an airport at Changi to a place outside Singapore; and
+
+(b) on or after a date specified by an order made under subsection (2), being no earlier than the date of commencement of section 22 of the Aviation (Miscellaneous Amendments) Act 2018.
+
+(2) The airport development levy —
+
+(a) is an amount or rate prescribed in an order in theGazettemade by the Minister;
+
+(b) is payable to the Authority; and
+
+(c) must be paid into the Changi Airport Development Fund.
+
+(3) An order made under subsection (2) may also —
+
+(a) specify the persons by whom an airport development levy is payable, the manner of payment and the place at which it is payable;
+
+(b) prescribe different amounts or rates of airport development levy in respect of different classes of persons or aircraft, or on the basis of different times of use or on any other differential basis;
+
+(c) prescribe a date by which an airport development levy is due, or authorise the Authority to fix the date by which the airport development levy must be paid;
+
+(d) designate an airport licensee or other agent to collect on behalf of the Authority an airport development levy that is payable and the method of such collection;
+
+(e) require returns to be made —
+
+(i) by persons by whom an airport development levy is payable; or
+
+(ii) by an airport licensee or other agent referred to in paragraph (d),
+
+and prescribe conditions relating to the making of such returns;
+
+(f) prescribe penalties for the late payment of any airport development levy by persons by whom the airport development levy is payable; and
+
+(g) impose interest for late payment of any airport development levy or penalty.
+
+(4) Any unpaid airport development levy, or penalty or interest imposed under this section may be recovered by the Authority as a debt in a court of competent jurisdiction.
+
+(5) Where an airport licensee or other agent is designated by an order under subsection (3)(d) to collect any airport development levy payable under this section —
+
+(a) all such airport development levies collected by the airport licensee or other agent must be paid to the Authority within the time prescribed in that order and must, if so unpaid, be recoverable from the airport licensee or agent, as the case may be, as a debt in a court of competent jurisdiction;
+
+(b) if the amount of airport development levy collected by the airport licensee or other agent is not paid by the airport licensee or agent within the time prescribed, such additional penalty on the amount outstanding as prescribed in the order is payable by the airport licensee or agent, as the case may be, to the Authority; and
+
+(c) the airport licensee or other agent must not refund, remit or reimburse, directly or indirectly, any airport development levy or penalty paid or payable by any person under this section, except in accordance with the prior approval of the Authority.
+
+[Act 18 of 2018 wef 29/06/2018]
 
 ### Fees, charges and late payment penalties
 
@@ -2654,9 +3344,15 @@ MISCELLANEOUS
 
 (e) the offences which may be compounded under section 85;
 
+(ea) the procedure for appeals against the decision of a slots coordinator or schedules facilitator under section 71J or 71K, respectively;
+
+[Act 18 of 2018 wef 29/06/2018]
+
 (f) the prescribing of anything that is required or permitted to be prescribed under this Act.
 
-(3) The regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 2 years or with both.
+(3) The regulations made under this section may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $100,000 or with imprisonment for a term not exceeding 5 years or with both.
+
+[Act 18 of 2018 wef 29/06/2018]
 
 (4) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -2828,6 +3524,10 @@ and to develop effective enforcement strategies to secure compliance with those 
 
 3C\. To conduct comprehensive safety education and training programmes and provide accurate and timely aviation safety advice.
 
+3D. To develop and issue appropriate, clear and concise standards, codes or other documents for the purpose of providing practical guidance or certainty to, or otherwise relating to airport capacity management under Part VIA.
+
+[Act 18 of 2018 wef 29/06/2018]
+
 4\. To provide information or issue notices relating to any matter in connection with the Authority’s functions and duties in such form or manner as the Authority may determine.
 
 5\. To impose such charges and fees as may in the Authority’s opinion be appropriate for the grant, validation or renewal of licences, permits, certificates, approvals, consents, concurrences, aviation safety instruments, exemptions and other services provided by the Authority under this Act or any other written law, and to remit or waive the whole or any part of any such charges or fees paid or payable to the Authority.
@@ -2916,7 +3616,6 @@ The Civil Aviation Authority of Singapore Act 2009 repealed and re‑enacted wit
 ||Date of Second and Third Readings|12 January 2010|
 ||Date of commencement|5 February 2010 (section 10 — amendment of Civil Aviation Authority of Singapore Act)|
 |4.|**Act 15 of 2010—Criminal Procedure Code 2010**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
@@ -2927,13 +3626,11 @@ The Civil Aviation Authority of Singapore Act 2009 repealed and re‑enacted wit
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012 (section 18 — amendment of Civil Aviation Authority of Singapore Act)|
 |6.|**Act 11 of 2012—Energy Conservation Act 2012**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 March 2012|
 |||(Bill No. 8/2012 published on 8 March 2012)|
 ||Date of Second and Third Readings|9 April 2012|
 ||Date of commencement|1 July 2012 (item 1 of Second Schedule — amendment of Civil Aviation Authority of Singapore Act)|
 |7.|**Act 10 of 2014—Air Navigation (Amendment) Act 2014**|
-||(Consequential amendments made to Act by)||
 ||Date of First Reading|20 January 2014|
 |||(Bill No. 6/2014 published on 20 January 2014)|
 ||Date of Second and Third Readings|17 February 2014|
@@ -2948,6 +3645,10 @@ The Civil Aviation Authority of Singapore Act 2009 repealed and re‑enacted wit
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|11.|**Act 18 of 2018—Aviation (Miscellaneous Amendments) Act 2018**|
+||Date of First Reading|28 February 2018 (Bill No. 13/2018 published on 28 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|29 June 2018|
 ## COMPARATIVE TABLE
 
 Civil Aviation Authority of Singapore Act
