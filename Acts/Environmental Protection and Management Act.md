@@ -2921,9 +2921,9 @@ Parathion
 
 Phosphamidon
 
-Tetrachlorvinphos;
+Trichlorfon
 
-Trichlorfon;
+Tetrachlorvinphos;
 
 Preparations containing not more than 0.5%, weight in weight, of chlorpyrifos and not containing any other phosphorus compound;
 
@@ -2959,6 +2959,8 @@ Controlled EEE containing polybrominated diphenyl ethers not exceeding 0.1% maxi
 
 Polychlorinated biphenyls
 
+Polychlorinated naphthalenes
+
 Polychlorinated terphenyls
 
 Potassium hydroxide
@@ -2976,6 +2978,16 @@ Pyrethroid compounds used as pesticides, the following:
 Fenvalerate
 
 Formulated products containing Fenvalerate approved for household use and belonging to Table 5 of the WHO Recommended Classification of Pesticides by Hazard.
+
+Short-chain chlorinated paraffins (chain lengths at least C
+
+10
+
+but not exceeding C
+
+13
+
+)
 
 Sodium azide
 
@@ -3024,6 +3036,8 @@ Titanium tetrachloride
 Tris (2, 3-dibromo-l-propyl) phosphate
 
 Tungsten hexafluoride
+
+[S 783/2017 wef 30/06/2018]
 
 [S 126/2017 wef 31/03/2018]
 
@@ -3147,7 +3161,7 @@ Part II
 
 General Exemptions
 
-Adhesives;
+Adhesives other than those containing any of the following substances as defined in Part I of this Schedule: polychlorinated naphthalenes or short-chain chlorinated paraffins;
 
 Anti-fouling compositions other than those containing tributyl tin compounds as defined in Part I of this Schedule;
 
@@ -3177,11 +3191,13 @@ Lacquer solvents;
 
 Loading materials;
 
+Lubricants other than those containing any of the following substances as defined in Part I of this Schedule: polychlorinated naphthalenes or short-chain chlorinated paraffins;
+
 Matches;
 
-Motor fuels and lubricants except diesel oil and petrol;
+Motor fuels other than diesel oil and petrol;
 
-Paints other than paints containing mercury compounds, paints containing lead compounds and paints containing asbestos as defined in Part I of this Schedule;
+Paints other than those containing any of the following substances as defined in Part I of this Schedule: asbestos, lead compounds, mercury compounds, polychlorinated naphthalenes, or short-chain chlorinated paraffins;
 
 Pharmaceutical aerosols;
 
@@ -3189,7 +3205,7 @@ Photographic paper;
 
 Pigments other than those containing tributyl tin compounds as defined in Part I of this Schedule;
 
-Plastics;
+Plastics other than those containing any of the following substances as defined in Part I of this Schedule: polychlorinated naphthalenes or short-chain chlorinated paraffins;
 
 Propellants other than those containing ozone depleting substances;
 
@@ -3198,6 +3214,8 @@ Rubber;
 Varnishes;
 
 Vascular plants and their seeds.
+
+[S 783/2017 wef 30/06/2018]
 
 [S 43/2008 wef 31/01/2008]
 
@@ -3439,6 +3457,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 January 2018|
 |27.|**G.N. No. S 126/2017—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 2) Order 2017**|
 ||Date of commencement|31 March 2018|
+|28.|**G.N. No. S 783/2017—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 3) Order 2017**|
+||Date of commencement|30 June 2018|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
