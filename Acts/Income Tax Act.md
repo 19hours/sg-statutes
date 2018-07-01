@@ -424,6 +424,8 @@
 
 - [43ZH Concessionary rate of tax for international growth company](#Concessionary-rate-of-tax-for-international-growth-company)
 
+- [43ZI Concessionary rate of tax for intellectual property income](#Concessionary-rate-of-tax-for-intellectual-property-income)
+
 [**Part XII DEDUCTION OF TAX AT SOURCE**](#Part-XII)
 
 - [44 (Repealed)](#Repealed)
@@ -3210,7 +3212,17 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 (iv) any income from any life insurance policy, except income referred to in section 10(3);
 
-(v) any distribution made by the trustee of any collective investment scheme constituted as a unit trust (excluding any real estate investment trust) authorised under section 286 of the Securities and Futures Act (Cap. 289) and the units of which are offered to the public for subscription, that is income or deemed to be income of the individual; and
+(v) any distribution made by the trustee of any collective investment scheme constituted as a unit trust (excluding any real estate investment trust and approved REIT exchange-traded fund) authorised under section 286 of the Securities and Futures Act (Cap. 289) and the units of which are offered to the public for subscription, that is income or deemed to be income of the individual;
+
+[Act 45 of 2018 wef 01/07/2018]
+
+(va) any distribution made by the trustee of a collective investment scheme constituted as a unit trust and authorised under section 286 of the Securities and Futures Act, that is an approved REIT exchange-traded fund and the units of which are offered to the public for subscription, where the distribution —
+
+(A) is not made out of a distribution that is in turn made out of income of the kinds mentioned in section 43(2A)(a)(i), (ii), (iii), (iv) and (v); and
+
+(B) is income or treated as income of the individual;
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (vi) any fee or compensatory payment from securities lending or repurchase arrangements,
 
@@ -3220,9 +3232,11 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zg) any distribution made by any trustee-manager of a registered business trust;
 
-(zh) any distribution made by any trustee of a real estate investment trust of any income of the kinds referred to in section 43(2A)(a)(i), (ii), (iii), (iv) and (v) to an individual, except where such distribution is derived by the individual through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
+(zh) any distribution made on or before 31 March 2020 by any trustee of a real estate investment trust of any income of the kinds referred to in section 43(2A)(a)(i), (ii), (iii), (iv) and (v) to an individual, except where such distribution is derived by the individual through a partnership in Singapore or is derived from the carrying on of a trade, business or profession;
 
 [Act 34 of 2016 wef 29/12/2016]
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (zi) the following income derived from Singapore on or after 17th February 2006 by any individual:
 
@@ -3264,13 +3278,21 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zp) any contribution to the Central Provident Fund in respect of an individual, and any cash payment to an individual, made by the Government under the Workfare Bonus Scheme, the Workfare Special Payment scheme, the Workfare Special Bonus scheme or such other similar scheme involving similar contributions or payments by the Government as the Minister may, by notification in theGazette, approve;
 
-(zq) any contribution to the Central Provident Fund in respect of an individual, and any cash payment to an individual, made by the Government under the Workfare Income Supplement Scheme established under Part VIA of the Central Provident Fund Act; and
+(zq) any contribution to the Central Provident Fund in respect of an individual, and any cash payment to an individual, made by the Government under the Workfare Income Supplement Scheme established under Part VIA of the Central Provident Fund Act;
 
-(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards.
+[Act 45 of 2018 wef 01/07/2018]
+
+(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards; and
+
+[Act 45 of 2018 wef 01/07/2018]
 
 [Act 39 of 2017 wef 01/04/2014]
 
 [26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
+
+(zs) any distribution made to an individual during the period from 1 July 2018 to 31 March 2020 (both dates inclusive) by a trustee of an approved REIT exchange-traded fund, out of a distribution from a real estate investment trust that is in turn made out of income of the kinds mentioned in section 43(2A)(a)(i), (ii), (iii), (iv) and (v), but not where the firstmentioned distribution is derived by the individual as a partner in a partnership which is in Singapore or is derived from the carrying on of a trade, business or profession.
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018 (both dates inclusive) where 50% or more of those securities which are outstanding at any time during the life of the issue is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities and where such interest is derived by —
 
@@ -3571,6 +3593,10 @@ applies on or after that date (and despite anything in the order) only to income
 “approved bank” means a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved as a financial institution under section 28 of the Monetary Authority of Singapore Act (Cap. 186);
 
 “approved bond intermediary” means a financial institution approved as such by the Minister or such person as he may appoint;
+
+“approved REIT exchange-traded fund” has the same meaning as in section 43(10);
+
+[Act 45 of 2018 wef 01/07/2018]
 
 “break cost”, in relation to debt securities, qualifying debt securities or qualifying project debt securities, means any fee payable by the issuer of the securities on the early redemption of the securities, the amount of which is determined by any loss or liability incurred by the holder of the securities in connection with such redemption;
 
@@ -7056,9 +7082,11 @@ does not exceed $100,000 for each year of assessment.
 
 (i) any part of its income for that year of assessment is exempt or partly exempt from tax under section 13A, 13F, 13S or 13V;
 
-(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC, 43ZF or 43ZG or the regulations made thereunder; or
+(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC, 43ZF, 43ZG or 43ZI or the regulations made thereunder; or
 
 [Act 2 of 2016 wef 01/04/2015]
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (iii) it is given tax relief under Part II, III or IIIB of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) for that year of assessment, or is given an investment allowance under Part X of that Act for that year of assessment; or
 
@@ -7208,11 +7236,13 @@ does not exceed $100,000 for each year of assessment.
 
 (a) any order made under section 13(12);
 
-(b) section 43C (in respect of those relating to general insurance business only), 43E, 43G, 43I, 43J, 43N, 43P, 43Q, 43R, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
+(b) section 43C (in respect of those relating to general insurance business only), 43E, 43G, 43I, 43J, 43N, 43P, 43Q, 43R, 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG, 43ZH or 43ZI, or the regulations made under any of them, as the case may be; or
 
 [Act 39 of 2017 wef 01/06/2017]
 
 [Act 39 of 2017 wef 26/10/2017]
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (c) section 19J(5C) or (5E) or 19KA(1)(b) (as the case may be) of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86);
 
@@ -7866,9 +7896,11 @@ must not exceed $1 million for each year of assessment.
 
 (i) any part of its income for that year of assessment is exempt or partly exempt from tax under section 13A, 13F, 13S or 13V;
 
-(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC, 43ZF or 43ZG or the regulations made thereunder; or
+(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC, 43ZF, 43ZG or 43ZI or the regulations made thereunder; or
 
 [Act 2 of 2016 wef 01/04/2015]
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (iii) it is given tax relief under Part II, III or IIIB of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) for that year of assessment, or is given an investment allowance under Part X of that Act for that year of assessment; or
 
@@ -7964,7 +7996,9 @@ must not exceed $1 million for each year of assessment.
 
 (i) any part of its income for that year of assessment is exempt or partly exempt from tax under section 13A, 13F, 13S or 13V;
 
-(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC, 43ZF or 43ZG or the regulations made under any of those sections; or
+(ii) any part of its income for that year of assessment is subject to tax at a concessionary rate of tax under section 43C, 43E, 43G, 43J, 43P, 43Q, 43W, 43ZA, 43ZB, 43ZC, 43ZF, 43ZG or 43ZI or the regulations made under any of those sections; or
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (iii) it is given tax relief under Part II, III or IIIB of the Economic Expansion Incentives (Relief from Income Tax) Act (Cap. 86) for that year of assessment, or is given an investment allowance under Part X of that Act for that year of assessment; or
 
@@ -14180,6 +14214,10 @@ ASCERTAINMENT OF STATUTORY INCOME
 
 [Act 37 of 2014 wef 01/09/2014]
 
+(12D) To avoid doubt, subsection (12) does not affect the operation of section 43(2) (read with section 43(2A)(ba)) in relation to a designated unit trust that is also an approved REIT exchange-traded fund within the meaning of section 43(10).
+
+[Act 45 of 2018 wef 01/07/2018]
+
 (13) No deduction under section 14 shall be allowed for any year of assessment in respect of any outgoings and expenses (including any expenses arising from the management of investments) incurred by the trustee of a designated unit trust for that year of assessment in respect of the unit trust, against any income derived by the trustee in respect of the unit trust from —
 
 (a) dividends paid by any company resident in Singapore; or
@@ -14302,9 +14340,19 @@ subsections (12), (13) and (13A) shall not apply to that trust for the year of a
 
 (15) The statutory income for any year of assessment of any beneficiary under a trust shall be that share of the statutory income of the trustee for that year of assessment which corresponds to the share of the trust income to which the beneficiary is entitled for the year preceding the year of assessment.
 
-(15A) Where a unitholder of a real estate investment trust is entitled to an amount, being a return of capital, from a trustee of the real estate investment trust, the cost of the units to the unitholder shall be reduced by the amount entitled.
+(15A) Despite subsection (15), the statutory income for any year of assessment of a beneficiary of a trust (called in this subsection the first trust), where the beneficiary is itself a trustee of an approved REIT exchange-traded fund, is that share of the statutory income of the trustee of the first trust that corresponds to the share of the income of the first trust to which the beneficiary is entitled for the year preceding the year of assessment.
+
+[Act 45 of 2018 wef 01/07/2018]
+
+(15B) To avoid doubt, section 43(2) (read with section 43(2A)(ba)) applies to the statutory income under subsection (15A) of the beneficiary.
+
+[Act 45 of 2018 wef 01/07/2018]
+
+(15C) Where a unitholder of a real estate investment trust is entitled to an amount, being a return of capital, from a trustee of the real estate investment trust, the cost of the units to the unitholder shall be reduced by the amount entitled.
 
 [27/2009]
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (16) In subsection (15), “statutory income of the trustee” does not include —
 
@@ -14312,9 +14360,15 @@ subsections (12), (13) and (13A) shall not apply to that trust for the year of a
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(b) in relation to a trustee of an approved sub-trust of a real estate investment trust within the meaning of section 43(10), any income from any trade or business carried on by the trustee other than income of the kinds referred to in section 43(2A)(b)(i), (ii) and (iii); or
+(b) in relation to a trustee of an approved sub-trust of a real estate investment trust within the meaning of section 43(10), any income from any trade or business carried on by the trustee other than income of the kinds referred to in section 43(2A)(b)(i), (ii) and (iii);
 
 [Act 34 of 2016 wef 29/12/2016]
+
+[Act 45 of 2018 wef 01/07/2018]
+
+(ba) in relation to a trustee of an approved REIT exchange-traded fund within the meaning of section 43(10), any income from a trade or business carried on by the trustee, other than a distribution received from a real estate investment trust that is in turn made out of income of the kinds mentioned in section 43(2A)(a)(i), (ii), (iii), (iv) and (v); or
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (c) in relation to a trustee of any other trust, any income from any trade or business carried on by the trustee.
 
@@ -15024,15 +15078,17 @@ is the lower rate of tax for that year of assessment;
 
 (a) any order made under section 13(12); or
 
-(b) section 43A, 43C (in respect of those relating to general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U (repealed), 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made thereunder, as the case may be;
+(b) section 43A, 43C (in respect of those relating to general insurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43M (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U (repealed), 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG, 43ZH or 43ZI, or the regulations made thereunder, as the case may be;
+
+[Act 2 of 2016 wef 01/04/2015]
+
+[Act 34 of 2016 wef 29/12/2016]
 
 [Act 39 of 2017 wef 01/06/2017]
 
 [Act 39 of 2017 wef 26/10/2017]
 
-[Act 2 of 2016 wef 01/04/2015]
-
-[Act 34 of 2016 wef 29/12/2016]
+[Act 45 of 2018 wef 01/07/2018]
 
 “losses” means losses which are deductible under section 37 including unabsorbed losses incurred in respect of any year of assessment before the year of assessment 1994;
 
@@ -15544,7 +15600,9 @@ is the concessionary rate of tax;
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(b) section 43A, 43C (in respect of those relating to general insurance business and life reinsurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U (repealed), 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG or 43ZH, or the regulations made under any of them, as the case may be; or
+(b) section 43A, 43C (in respect of those relating to general insurance business and life reinsurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U (repealed), 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG, 43ZH or 43ZI, or the regulations made under any of them, as the case may be; or
+
+[Act 45 of 2018 wef 01/07/2018]
 
 [Act 39 of 2017 wef 01/06/2017]
 
@@ -17862,7 +17920,7 @@ satisfies the conditions in subsection (16D); and
 
 [Act 2 of 2016 wef 01/04/2015]
 
-(16E) For the purposes of subsection (16)(c)(v) and (d)(v), the Minister may by regulations prescribe such conditions as the Minister considers necessary to ensure that the acquiring company or acquiring subsidiary is not merely a passive shareholder of the target company, including requiring the company or subsidiary to exert significant influence (within the meaning of FRS 28, SFRS(I) 1‑28, or SFRS for Small Entities) over the target company.
+(16E) For the purposes of subsection (16)(c)(v) and (d)(v), the Minister may by regulations prescribe such conditions as the Minister considers necessary to ensure that the acquiring company or acquiring subsidiary is not merely a passive shareholder of the target company, including requiring the company or subsidiary to exert significant influence (within the meaning of FRS 28, SFRS(I) 1-28, or SFRS for Small Entities) over the target company.
 
 [Act 2 of 2016 wef 01/04/2015]
 
@@ -19030,6 +19088,10 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 (2) Where any trustee proves to the satisfaction of the Comptroller that any beneficiary of the trust is entitled to a share of the trust income, a corresponding share of the statutory income of the trustee may be charged at a lower rate or not charged with any tax, as the Comptroller shall determine.
 
+(2AA) Subsection (2) does not apply to a trust that is a REIT exchange-traded fund unless it is an approved REIT exchange-traded fund.
+
+[Act 45 of 2018 wef 01/07/2018]
+
 (2A) Subsection (2) shall not apply to —
 
 (a) in the case of a real estate investment trust, any income from any trade or business carried on by the trustee, other than the following income distributed by the trustee in cash or, if the conditions specified in subsection (2B) are satisfied, in units in the trust:
@@ -19068,9 +19130,15 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 
 (B) a person who wholly owns (directly or indirectly)A; or
 
-(C) any other person approved by the Comptroller; or
+(C) any other person approved by the Comptroller;
 
 [Act 34 of 2016 wef 29/12/2016]
+
+[Act 45 of 2018 wef 01/07/2018]
+
+(ba) in the case of an approved REIT exchange-traded fund, any income from any trade or business carried on by its trustee, other than a distribution in cash received in the period between 1 July 2018 and 31 March 2020 (both dates inclusive) from a real estate investment trust, that is in turn made out of any income mentioned in paragraph (a)(i) to (v); or
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (c) in the case of any other trust, any income from any trade or business carried on by the trustee.
 
@@ -19087,6 +19155,10 @@ subsections (5), (6) and (7) shall only apply to any second, third or fourth chi
 (c) the trustee of the real estate investment trust has sufficient cash available on the date of such distribution to make the distribution fully in cash had no option been given to those unitholders to receive the distribution in units in the trust.
 
 [27/2009; 29/2012]
+
+(2C) To avoid doubt, subsection (2) (read with subsection (2A)(ba)) does not affect the operation of section 35(12) in relation to an approved REIT exchange-traded fund that is also a designated unit trust within the meaning of section 35(14).
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (3) Notwithstanding anything in this Act but subject to subsection (3A), tax at the rate of 15% shall be levied and paid on the gross amount of —
 
@@ -19116,7 +19188,19 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(3C) [Deleted by Act 19 of 2013]
+(3C) Despite anything in this Act, tax at the rate of 10% is levied and must be paid on the gross amount of any distribution by a trustee of an approved REIT exchange-traded fund that is —
+
+(a) made out of a distribution by a real estate investment trust that is in turn made out of income of the kinds mentioned in subsection (2A)(a)(i), (ii), (iii), (iv) and (v);
+
+(b) made during the period from 1 July 2018 to 31 March 2020 (both dates inclusive); and
+
+(c) made to a person (other than an individual) not resident in Singapore —
+
+(i) that does not have any permanent establishment in Singapore; or
+
+(ii) that carries on any operation in Singapore through a permanent establishment in Singapore, where the funds used by that person to acquire the units in that approved REIT exchange-traded fund are not obtained from that operation.
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (4) Notwithstanding anything in this Act but subject to subsection (5) and sections 13(1)(r), (ra) and (rb) and 40A, tax at the rate of 15% shall be levied and paid on the gross amount of any income accruing in or derived from Singapore on or after 3rd May 2002 from any profession or vocation carried on by —
 
@@ -19176,6 +19260,10 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 
 (10) In this section —
 
+“approved REIT exchange-traded fund” means a REIT exchange-traded fund that is approved by the Comptroller for the purposes of subsection (2);
+
+[Act 45 of 2018 wef 01/07/2018]
+
 “approved sub-trust”, in relation to a real estate investment trust, means any trust —
 
 (a) not listed on the Singapore Exchange or elsewhere;
@@ -19217,6 +19305,14 @@ tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeabl
 [28/96; 24/2001; 37/2002; 49/2004; 34/2005; 7/2007; 53/2007; 27/2009; 19/2013]
 
 [Act 34 of 2016 wef 29/12/2016]
+
+“REIT exchange-traded fund” means a collective investment scheme authorised under section 286 of the Securities and Futures Act and listed on the Singapore Exchange, and that invests or proposes to invest only in —
+
+(a) real estate investment trusts; and
+
+(b) any entity, trust or other arrangement that invests or proposes to invest in immovable property and immovable property-related assets, and is listed on a stock exchange outside Singapore;
+
+[Act 45 of 2018 wef 01/07/2018]
 
 “rental support payment”, in relation to immovable property, means any payment —
 
@@ -20834,6 +20930,76 @@ whether or not it also carries on or intends to carry on any other trade or busi
 
 [Act 2 of 2016 wef 01/04/2015]
 
+### Concessionary rate of tax for intellectual property income
+
+43ZI\.—(1) Despite section 43 and subject to this section, the concessionary rate of tax under subsection (5) applies for each year of assessment upon a percentage determined in accordance with regulations of qualifying intellectual property income of an approved company, that is derived —
+
+(a) from a qualifying IPR elected by the approved company for that year of assessment under subsections (7) and (8); and
+
+(b) in so much of the basis period for that year of assessment as falls within the tax relief period applicable to the approved company.
+
+(2) The Minister or a person appointed by the Minister may approve a company as an approved company (subject to such terms and conditions as the Minister or appointed person may specify), but not after 31 December 2023.
+
+(3) The Minister or the appointed person may —
+
+(a) specify an initial tax relief period for an approved company that does not exceed 10 years;
+
+(b) specify a commencement date for the initial tax relief period that is not earlier than 1 July 2018; and
+
+(c) extend the tax relief period for a further period or periods, not exceeding 10 years for each period, as the Minister or the appointed person may determine.
+
+(4) Where the commencement date for the initial tax relief period is a date before the company becomes an approved company, then for the purposes of subsection (1), the company is treated as an approved company beginning on the commencement date.
+
+(5) For the purpose of subsection (1), the concessionary rate of tax for an approved company is a rate determined in accordance with the formula A + B, where —
+
+(a) A is a base rate of 5% or 10% as the Minister may determine; and
+
+(b) B is the sum of every rate increase specified by the Minister or the appointed person to the approved company in accordance with subsection (6).
+
+(6) For the purposes of subsection (5)(b), the Minister or the appointed person must specify to an approved company, for every 5-year period beginning with the third 5-year period of its tax relief period and ending with the eighth 5-year period of its tax relief period, a rate increase of at least 0.5% that applies to the years of assessment of all the basis periods within that 5-year period.
+
+(7) Subject to subsection (8), an approved company must elect a qualifying IPR to which subsection (1) is to apply for any year of assessment —
+
+(a) in the form and manner determined by the Comptroller; and
+
+(b) at the time the approved company lodges its return of income for that year of assessment, or by such later time as the Comptroller may allow in any particular case.
+
+(8) An election of any qualifying IPR made under subsection (7) for a year of assessment is irrevocable, and the approved company is treated as making an election for the same qualifying IPR for each subsequent year of assessment.
+
+(9) To avoid doubt, subsections (7) and (8) do not prevent an approved company from electing for any year of assessment, any qualifying IPR not already elected or treated as elected under those subsections.
+
+(10) The approved company must, in such circumstances as the Comptroller may determine and in such form and manner as the Comptroller may require, provide the Comptroller with such information and documents as the Comptroller may require for the purposes of determining the applicability of subsection (1) in a particular case.
+
+(11) The Minister may make regulations to provide for any of the following:
+
+(a) the determination of the percentage of qualifying intellectual property income of an approved company for the purposes of subsection (1);
+
+(b) the intellectual property income that is qualifying intellectual property income for this section;
+
+(c) the deduction (otherwise than in accordance with this Act), from the qualifying intellectual property income of an approved company, of —
+
+(i) allowances attributable to the income; and
+
+(ii) expenses, losses and donations allowable under this Act,
+
+including deduction of these allowances, expenses, losses and donations in such manner and to such extent as the Comptroller may determine;
+
+(d) the circumstances under which a prescribed amount of qualifying intellectual property income that has been assessed to tax at the concessionary rate in subsection (1) may be deemed as income chargeable to tax at the rate of tax in section 43(1)(a) for a specified year of assessment;
+
+(e) the records to be kept by an approved company;
+
+(f) generally to give effect to or carry out the purposes of this section.
+
+(12) To avoid doubt, any regulations made under subsection (11)(e) do not affect the generality of section 67.
+
+(13) In this section —
+
+“qualifying intellectual property income” means any intellectual property income prescribed by the Minister in regulations made under this section;
+
+“qualifying intellectual property right” or “qualifying IPR” means any intellectual property right prescribed by the Minister in regulations made under this section.
+
+[Act 45 of 2018 wef 01/07/2018]
+
 ## PART XII
 
 DEDUCTION OF TAX AT SOURCE
@@ -21324,7 +21490,7 @@ as section 45 applies to any interest paid by a person to another person not kno
 
 ### Application of section 45 to distribution from any real estate investment trust
 
-45G\.—(1) Subject to subsections (2) and (3) and such conditions as the Comptroller may impose, section 45 shall apply in relation to any distribution by a trustee of any real estate investment trust —
+45G\.—(1) Subject to subsections (2) and (3) and such conditions as the Comptroller may impose, section 45 shall apply in relation to any distribution by a trustee of any real estate investment trust or by a trustee of any approved REIT exchange-traded fund —
 
 (a) to any person (other than an individual) not known to the trustee to be resident in Singapore to whom section 43(3B) applies; or
 
@@ -21342,33 +21508,43 @@ as that section applies to any interest paid by a person to another person not k
 
 [34/2005; 7/2007; 19/2013]
 
-(2) For the purpose of subsection (1)(a), the deduction of tax under section 45 shall be at the rate of 10% on every dollar of such distribution made during the period from 18 February 2005 to 31 March 2020 (both dates inclusive).
+[Act 45 of 2018 wef 01/07/2018]
 
-[Act 39 of 2017 wef 01/04/2015]
+(2) For the purpose of subsection (1)(a), the deduction of tax under section 45 is at the rate of 10% on —
 
-[34/2005; 29/2010]
+(a) every dollar of a distribution by the trustee of the real estate investment trust made during the period from 18 February 2005 to 31 March 2020 (both dates inclusive); and
 
-[Act 37 of 2014 wef 27/11/2014]
+(b) every dollar of a distribution made by the trustee of the approved REIT exchange-traded fund made during the period from 1 July 2018 to 31 March 2020 (both dates inclusive).
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (3) For the purpose of subsection (1)(b), the deduction of tax under section 45 shall be at the applicable rate specified under section 43(1) on every dollar of such distribution.
 
 [34/2005; 53/2007]
 
-(4) Subsection (1) shall not apply to any distribution made by the trustee of the real estate investment trust where tax has been paid by the trustee of the trust on the income from which the distribution is made.
+(4) Subsection (1) shall not apply to any distribution made by the trustee of the real estate investment trust or the trustee of the approved REIT exchange-traded fund, where tax has been paid by the trustee on the income from which the distribution is made.
 
 [34/2005]
 
-(4A) Subsection (1) shall not apply to any distribution made on or after 1st January 2015 by a trustee of a real estate investment trust to a branch in Singapore of a company incorporated outside Singapore and not known to the trustee to be resident in Singapore.
+[Act 45 of 2018 wef 01/07/2018]
+
+(4A) Subsection (1) shall not apply to any distribution made on or after 1st January 2015 by a trustee of a real estate investment trust or a trustee of an approved REIT exchange-traded fund to a branch in Singapore of a company incorporated outside Singapore and not known to the trustee to be resident in Singapore.
 
 [Act 37 of 2014 wef 01/01/2015]
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (4B) Subsection (1) does not apply to any distribution made to an organisation that is declared by an order under section 2(1) of the International Organisations (Immunities and Privileges) Act (Cap. 145) as an organisation of which the Government and the government or governments of one or more foreign sovereign Powers are members, if that distribution is exempt from tax by reason of that order.
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(5) In this section, “real estate investment trust” has the same meaning as in section 43(10).
+(5) Subsection (1) does not apply to any distribution made during the period from 1 July 2018 to 31 March 2020 (both dates inclusive) by a trustee of a real estate investment trust to a trustee of an approved REIT exchange-traded fund.
 
-[34/2005]
+[Act 45 of 2018 wef 01/07/2018]
+
+(6) In this section, “approved REIT exchange-traded fund” and “real estate investment trust” have the same meanings as in section 43(10).
+
+[Act 45 of 2018 wef 01/07/2018]
 
 ### Application of section 45 to income derived as public entertainer
 
@@ -21504,11 +21680,13 @@ ALLOWANCES FOR TAX CHARGED
 
 (c) which a person has deducted from any payment under section 45F in respect of income accrued to or derived by any person who has made an option under section 43(5); or
 
-(d) which a trustee of a real estate investment trust has deducted from any distribution to any person referred to in section 45G(1)(b),
+(d) which a trustee of a real estate investment trust or a trustee of an approved REIT exchange-traded fund has deducted from any distribution to any person referred to in section 45G(1)(b),
 
 shall, when the income from which the tax has been deducted or when the share referred to in paragraph (b) is included in the chargeable income of any person, be set-off for the purpose of collection against the tax charged on that chargeable income.
 
 [7/79; 23/90; 23/96; 24/2001; 37/2002; 34/2005; 10/2006; 7/2007; 53/2007; 19/2013]
+
+[Act 45 of 2018 wef 01/07/2018]
 
 (1A) [Deleted by Act 19 of 2013]
 
@@ -26750,6 +26928,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||20 February 2018|
 |||1 April 2018|
 |||4 May 2018|
+|||1 July 2018|
 ## COMPARATIVE TABLE
 
 Income Tax Act
