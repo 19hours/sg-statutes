@@ -3780,9 +3780,9 @@ The aggregate of the following (as applicable):
 
 (bf)
 
-on sale of residential property (whether or not any other type of property is also conveyed, transferred or assigned under the same instrument), executed on or after 12th January 2013
+on sale of residential property (whether or not any other type of property is also conveyed, transferred or assigned under the same instrument), executed on or after 12 January 2013
 
-In addition to duty under paragraph (a), and paragraph (ba), (bb), (be) or (bg) (as applicable)
+In addition to duty under paragraph (a), and either paragraph (ba), (bb), (be) or (bg) (as applicable)
 
 (i)
 
@@ -3796,7 +3796,13 @@ the grantee, transferee or lessee is a Singapore citizen owning one property, or
 
 one residential property is conveyed, transferred or assigned under the instrument
 
-7% of the amount of consideration of the residential property that is conveyed, assigned or transferred
+(a)
+
+7% of the amount of consideration of the residential property that is conveyed, assigned or transferred, if the instrument is executed before 6 July 2018; or
+
+(b)
+
+12% of the amount of consideration of the residential property that is conveyed, assigned or transferred, if the instrument is executed on or after 6 July 2018
 
 (ii)
 
@@ -3824,7 +3830,13 @@ the grantee, transferee or lessee is a Singapore citizen owning 2 or more proper
 
 one or more residential properties is or are conveyed, transferred or assigned under the instrument
 
-10% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred
+(a)
+
+10% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred, if the instrument is executed before 6 July 2018; or
+
+(b)
+
+15% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred, if the instrument is executed on or after 6 July 2018
 
 (iv)
 
@@ -3838,7 +3850,13 @@ the grantee, transferee or lessee is a Singapore citizen not owning property, or
 
 2 residential properties are conveyed, transferred or assigned under the instrument
 
-7% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty
+(a)
+
+7% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty, if the instrument is executed before 6 July 2018; or
+
+(b)
+
+12% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty, if the instrument is executed on or after 6 July 2018
 
 (v)
 
@@ -3852,15 +3870,29 @@ the grantee, transferee or lessee is a Singapore citizen not owning property, or
 
 3 or more residential properties are conveyed, transferred or assigned under the instrument
 
-The aggregate of —
-
 (a)
+
+if the instrument is executed before 6 July 2018, the aggregate of —
+
+(i)
 
 7% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty; and
 
+(ii)
+
+10% of the total amount of consideration of the other residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration of any one of those other residential properties, as elected by that person; or
+
 (b)
 
-10% of the total amount of consideration of the other residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration of any one of those other residential properties, as elected by that person
+if the instrument is executed on or after 6 July 2018, the aggregate of —
+
+(i)
+
+12% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty; and
+
+(ii)
+
+15% of the total amount of consideration of the other residential properties that are conveyed, assigned or transferred, after deducting the amount of consideration of any one of those other residential properties, as elected by that person
 
 (vi)
 
@@ -3874,15 +3906,29 @@ the grantee, transferee or lessee is a Singapore citizen owning one property, or
 
 2 or more residential properties are conveyed, transferred or assigned under the instrument
 
-The aggregate of —
-
 (a)
+
+if the instrument is executed before 6 July 2018, the aggregate of —
+
+(i)
 
 7% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty; and
 
+(ii)
+
+10% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred; or
+
 (b)
 
-10% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred
+if the instrument is executed on or after 6 July 2018, the aggregate of —
+
+(i)
+
+12% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty; and
+
+(ii)
+
+15% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred
 
 (vii)
 
@@ -3896,21 +3942,65 @@ the grantee, transferee or lessee is a Singapore permanent resident not owning p
 
 2 or more residential properties are conveyed, transferred or assigned under the instrument
 
-The aggregate of —
-
 (a)
+
+if the instrument is executed before 6 July 2018, the aggregate of —
+
+(i)
 
 5% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty; and
 
+(ii)
+
+10% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred; or
+
 (b)
 
-10% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred
+if the instrument is executed on or after 6 July 2018, the aggregate of —
+
+(i)
+
+5% of the amount of consideration of any one of the residential properties that are conveyed, assigned or transferred, as elected by the person paying the duty; and
+
+(ii)
+
+15% of the amount or the total amount of consideration of the other residential property or properties that is or are conveyed, assigned or transferred
 
 (viii)
 
-if the grantee, transferee or lessee, or any of 2 or more joint grantees, transferees or lessees is a foreigner or an entity
+if the grantee, transferee or lessee, or any of 2 or more joint grantees, transferees or lessees is a foreigner, and none of the other joint grantees, transferees or lessees is an entity
 
-15% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred
+(a)
+
+15% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred, if the instrument is executed before 6 July 2018; or
+
+(b)
+
+20% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred, if the instrument is executed on or after 6 July 2018
+
+(ix)
+
+if the grantee, transferee or lessee, or any of 2 or more joint grantees, transferees or lessees is an entity (other than a housing developer), and none of the other joint grantees, transferees or lessees is a housing developer
+
+(a)
+
+15% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred, if the instrument is executed before 6 July 2018; or
+
+(b)
+
+25% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred, if the instrument is executed on or after 6 July 2018
+
+(x)
+
+if the grantee, transferee or lessee, or any of 2 or more joint grantees, transferees or lessees is a housing developer
+
+(a)
+
+15% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred, if the instrument is executed before 6 July 2018; or
+
+(b)
+
+30% of the amount or the total amount of consideration of the residential property or properties that is or are conveyed, assigned or transferred, if the instrument is executed on or after 6 July 2018
 
 (bg)
 
@@ -4020,6 +4110,26 @@ The same duty as in paragraph (a) or (c), as the case may be
 
 “foreigner” means an individual who is not a citizen of Singapore and not a permanent resident of Singapore;
 
+“housing accommodation” includes a building or tenement wholly or principally constructed, adapted or intended for human habitation, or for human habitation and as business premises, but excludes a serviced apartment and a workers’ dormitory;
+
+“housing developer” means an entity —
+
+(a)
+
+that is a licensed housing developer within the meaning of the Housing Developers (Control and Licensing) Act (Cap. 130);
+
+(b)
+
+that is an applicant for a licence within the meaning of that Act and whose application is not refused, or that intends to apply for such licence; or
+
+(c)
+
+that engages or intends to engage in a business of housing development,
+
+but only if the residential property or properties is or are conveyed, assigned or transferred to the entity for the purpose of housing development by the entity;
+
+“housing development” means the construction of any number of units of housing accommodation, including any building operations in, on, over or under the land for the purpose of erecting such housing accommodation, and the sale of land which would be appurtenant to one or more such units of housing accommodation;
+
 “industrial property” means any specified immovable property (or part thereof) referred to in paragraph 8(1)(a) of the Stamp Duties (Section 22A) Order 2010 (G.N. No. S 209/2010), but excludes any “residential or mixed residential” property;
 
 “property” means any immovable property and any stock or shares;
@@ -4119,6 +4229,8 @@ vacant land; or
 immovable property comprising the land as well as all units or buildings within a development on the land,
 
 then the gross floor area of the property specified in the second column of the following table, that corresponds to the applicable zoning of the land under the Master Plan in the first column thereof, shall be deemed to be attributable to an industrial purpose; and the gross floor area of the property specified in the third column thereof, that corresponds to the applicable zoning of the land under the Master Plan in the first column thereof, shall be deemed to be attributable to a residential purpose:
+
+[S 452/2018 wef 06/07/2018]
 
 First column
 
@@ -4288,7 +4400,7 @@ the relevant individual is one of 2 or more joint grantees, transferees or lesse
 
 (b)
 
-without considering the status of the relevant individual, sub-paragraph (i), (ii), (iii), (iv), (v), (vi), (vii) or (viii) of paragraph (bf) of this Article applies to the instrument by virtue of the fact that the other joint grantee, transferee or lessee, or any of the other joint grantees, transferees or lessees, not being himself a relevant individual who satisfies paragraph (5)(b) in relation to that estate or interest, is —
+without considering the status of the relevant individual, sub-paragraph (i), (ii), (iii), (iv), (v), (vi), (vii), (viii), (ix) or (x) of paragraph (bf) of this Article applies to the instrument by virtue of the fact that the other joint grantee, transferee or lessee, or any of the other joint grantees, transferees or lessees, not being himself a relevant individual who satisfies paragraph (5)(b) in relation to that estate or interest, is —
 
 (i)
 
@@ -4316,7 +4428,15 @@ in the case of sub-paragraph (vii) of paragraph (bf) of this Article, a Singapor
 
 (vii)
 
-in the case of sub-paragraph (viii) of paragraph (bf) of this Article, a foreigner or an entity.
+in the case of sub-paragraph (viii) of paragraph (bf) of this Article, a foreigner;
+
+(viii)
+
+in the case of sub-paragraph (ix) of paragraph (bf) of this Article, an entity other than a housing developer; and
+
+(ix)
+
+in the case of sub-paragraph (x) of paragraph (bf) of this Article, a housing developer.
 
 (7A) In paragraphs (5), (6) and (7), “relevant individual” means —
 
@@ -4343,6 +4463,8 @@ where the property or any of the properties (as the case may be) is the property
 in the case of paragraph (bf) of this Article, an individual who is a Singapore citizen owning one property, being the property referred to in paragraph (5)(b).
 
 (8) In determining if a person beneficially owns (whether alone or jointly or in common with another) an estate or interest in any number of residential properties situated within Singapore, any ownership of property that is the subject of a notification under section 5 of the Land Acquisition Act (Cap. 152) shall be disregarded.
+
+[S 452/2018 wef 06/07/2018]
 
 [S 84/2017 wef 11/03/2017]
 
@@ -4446,6 +4568,8 @@ For every dollar exceeding $1,000,000
 
 +
 
+[S 452/2018 wef 06/07/2018]
+
 Where —
 
 (a)
@@ -4514,11 +4638,25 @@ W1 is the market value, at the time of execution of the conveyance, of the under
 
 (f)
 
-W2 is the market value, at the time of execution of the conveyance, of the underlying property of the PHE under paragraph (b)(ii) of the definition of “underlying property” in section 23(21); and
+W2 is the market value, at the time of execution of the conveyance, of the underlying property of the PHE under paragraph (b)(ii) of the definition of “underlying property” in section 23(21);
 
 (g)
 
-X is the percentage of the equity interests that the PHE (being a Type 2 PHE) beneficially owns (including indirectly by applying section 23(18)) in a Type 1 PHE.
+X is the percentage of the equity interests that the PHE (being a Type 2 PHE) beneficially owns (including indirectly by applying section 23(18)) in a Type 1 PHE; and
+
+(h)
+
+Z% is —
+
+(i)
+
+if the conveyance is executed before 6 July 2018, 15%; and
+
+(ii)
+
+if the conveyance is executed on or after 6 July 2018, 30%.
+
+[S 452/2018 wef 06/07/2018]
 
 (2)
 
@@ -4616,6 +4754,8 @@ For every dollar exceeding $1,000,000
 
 +
 
+[S 452/2018 wef 06/07/2018]
+
 Where —
 
 (a)
@@ -4708,7 +4848,7 @@ the lowest amount of equity interests beneficially owned in the 2nd entity by th
 
 (B)
 
-R and S have the same meanings as in sub‑paragraph (i); and
+R and S have the same meanings as in sub paragraph (i); and
 
 (iii)
 
@@ -4736,13 +4876,27 @@ W2 is the market value, at the time of execution of the conveyance, of the under
 
 (h)
 
-X is the percentage of the equity interests that the PHE (being a Type 2 PHE) beneficially owns (including indirectly by applying section 23(18)) in a Type 1 PHE; and
+X is the percentage of the equity interests that the PHE (being a Type 2 PHE) beneficially owns (including indirectly by applying section 23(18)) in a Type 1 PHE;
 
 (i)
 
-Y is the percentage of the equity interests that the target entity beneficially owns (including indirectly by applying section 23(18)) in the PHE at the time of the execution of the conveyance.
+Y is the percentage of the equity interests that the target entity beneficially owns (including indirectly by applying section 23(18)) in the PHE at the time of the execution of the conveyance; and
+
+(j)
+
+Z% is —
+
+(i)
+
+if the conveyance is executed before 6 July 2018, 15%; and
+
+(ii)
+
+if the conveyance is executed on or after 6 July 2018, 30%.
 
 In this Article, the market value of the underlying property of a PHE is the amount of the value of the part of the property that is attributable to a residential purpose, as defined in paragraphs (2A), (2B) and (2C) of Article 3.
+
+[S 452/2018 wef 06/07/2018]
 
 [Act 13 of 2017 wef 11/03/2017]
 
@@ -5530,6 +5684,7 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||4 August 1999)|
 ||Date of Second and Third Readings|18 August 1999|
 ||Date of commencement|1 September 1999 (except sections 2 (a), 36, 37 and 39 (2))|
+|||9 January 2012|
 |37.|**G. N. No. S 288/2000—Stamp Duties Act (Amendment of First Schedule) Notification 2000**|
 ||Date of commencement|30 June 2000|
 |38.|**Act 32 of 2000—Stamp Duties (Amendment) Act 2000**|
@@ -5592,126 +5747,97 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |||(Bill No. 24/2010 published on 15 September 2010)|
 ||Date of Second and Third Readings|18 October 2010|
 ||Date of commencement|20 February 2010|
+|||1 April 2010|
+|||15 July 2010|
+|||9 December 2010|
 |50.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011|
 |||(Bill No. 15/2010 published on 17 October 2011)|
 ||Date of Second and Third Readings|22 November 2011|
 ||Date of commencement|20 February 2010|
-|51.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
-||Date of First Reading|15 September 2010|
-|||(Bill No. 24/2010 published on 15 September 2010)|
-||Date of Second and Third Readings|18 October 2010|
-||Date of commencement|1 April 2010|
-|52.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
-||Date of First Reading|17 October 2011|
-|||(Bill No. 15/2011 published on 17 October 2011)|
-||Date of Second and Third Readings|22 November 2011|
-||Date of commencement|1 April 2010|
-|53.|**Act 13 of 2010—Land Titles (Strata) (Amendment) Act 2010**|
+|||1 April 2010|
+|||19 February 2011|
+|||1 January 2012|
+|51.|**Act 13 of 2010—Land Titles (Strata) (Amendment) Act 2010**|
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 9/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|18 May 2010|
 ||Date of commencement|15 July 2010|
-|54.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
-||Date of First Reading|15 September 2010|
-|||(Bill No. 24/2010 published on 15 September 2010)|
-||Date of Second and Third Readings|18 October 2010|
-||Date of commencement|15 July 2010|
-|55.|**G. N. No. S 474/2010—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2010**|
+|52.|**G. N. No. S 474/2010—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2010**|
 ||Date of commencement|30 August 2010|
-|56.|**Act 28 of 2010—Stamp Duties (Amendment No. 2) Act 2010**|
-||Date of First Reading|15 September 2010|
-|||(Bill No. 24/2010 published on 15 September 2010)|
-||Date of Second and Third Reading|18 October 2010|
-||Date of commencement|9 December 2010|
-|57.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|53.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|58.|**G. N. No. S 16/2011—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2011**|
+|54.|**G. N. No. S 16/2011—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2011**|
 ||Date of commencement|14 January 2011|
-|59.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
-||Date of First Reading|17 October 2011|
-|||(Bill No. 15/2011 published on 18 October 2011)|
-||Date of Second and Third Readings|22 November 2011|
-||Date of commencement|19 February 2011|
-|60.|**G.N. No. S 644/2011—Stamp Duties (Amendment of First Schedule) (No. 2) Notification 2011**|
+|55.|**G.N. No. S 644/2011—Stamp Duties (Amendment of First Schedule) (No. 2) Notification 2011**|
 ||Date of commencement|8 December 2011|
-|61.|**G. N. No. S 117/2012—Stamp Duties Act (Amendment of First Schedule) Notification 2012**|
+|56.|**G. N. No. S 117/2012—Stamp Duties Act (Amendment of First Schedule) Notification 2012**|
 ||Date of commencement|8 December 2011|
-|62.|**Act 23 of 2011—Stamp Duties (Amendment) Act 2011**|
-||Date of First Reading|17 October 2011|
-|||(Bill No. 15/2011 published on 18 October 2011)|
-||Date of Second and Third Readings|22 November 2011|
-||Date of commencement|1 January 2012|
-|63.|**Act 33 of 1999—Stamp Duties (Amendment) Act 1999**|
-||Date of First Reading|3 August 1999|
-|||(Bill No. 28/99 published on 4 August 1999)|
-||Date of Second and Third Readings|18 August 1999|
-||Date of commencement|9 January 2012|
-|64.|**G.N. No. S 134/2012—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2012**|
+|57.|**G.N. No. S 134/2012—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2012**|
 ||Date of commencement|1 April 2012|
-|65.|**G.N. No. S 253/2012—Stamp Duties Act (Amendment of First Schedule) (No. 2) Notification 2012**|
+|58.|**G.N. No. S 253/2012—Stamp Duties Act (Amendment of First Schedule) (No. 2) Notification 2012**|
 ||Date of commencement|1 June 2012|
-|66.|**G.N. No. S 12/2013—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2013**|
+|59.|**G.N. No. S 12/2013—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2013**|
 ||Date of commencement|12 January 2013|
-|67.|**Act 1 of 2013—Stamp Duties (Amendment) Act 2013**|
+|60.|**Act 1 of 2013—Stamp Duties (Amendment) Act 2013**|
 ||Date of First Reading|12 November 2012|
 |||(Bill No. 38/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|22 February 2013|
-|68.|**G.N. No. S 776/2013—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2013**|
+|61.|**G.N. No. S 776/2013—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2013**|
 ||Date of commencement|23 December 2013|
-|69.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
+|62.|**Act 21 of 2013—Goods and Services Tax (Amendment) Act 2013**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|21 October 2013|
 |||(Bill No. 17/2013 published on 17 December 2013)|
 ||Date of Second and Third Readings|11 November 2013|
 ||Date of commencement|1 January 2014|
-|70.|**G.N. No. S 96/2014—Stamp Duties Act (Amendment of First Schedule) Notification 2014**|
+|63.|**G.N. No. S 96/2014—Stamp Duties Act (Amendment of First Schedule) Notification 2014**|
 ||Date of commencement|22 February 2014|
-|71.|**Act 30 of 2014—Stamp Duties (Amendment) Act 2014**|
+|64.|**Act 30 of 2014—Stamp Duties (Amendment) Act 2014**|
 ||Date of First Reading|8 September 2014 (Bill No. 27/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|1 January 2015|
-|72.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
+|65.|**Act 2 of 2016—Income Tax (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016|
 |||(Bill No. 3/2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|1 April 2015|
-|73.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+|66.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 24/2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|3 January 2016|
-|74.|**Act 29 of 2014—Business Name Registration Act 2014**|
+|67.|**Act 29 of 2014—Business Name Registration Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
-|75.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
+|68.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
 ||Date of First Reading|10 October 2016 (Bill No. 34/2016 published on 10 October 2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|1 April 2016|
-|76.|**G.N. No. S 304/2016—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2016**|
+|||29 December 2016|
+|69.|**G.N. No. S 304/2016—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2016**|
 ||Date of commencement|1 July 2016|
-|77.|**Act 34 of 2016—Income Tax (Amendment No. 3) Act 2016**|
-||Date of First Reading|10 October 2016 (Bill No. 34/2016 published on 10 October 2016)|
-||Date of Second and Third Readings|10 November 2016|
-||Date of commencement|29 December 2016|
-|78.|**G.N. No. S 84/2017—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2017**|
+|70.|**G.N. No. S 84/2017—Stamp Duties Act (Amendment of First and Third Schedules) Notification 2017**|
 ||Date of commencement|11 March 2017|
-|79.|**Act 13 of 2017—Stamp Duties (Amendment) Act 2017**|
+|71.|**Act 13 of 2017—Stamp Duties (Amendment) Act 2017**|
 ||Date of First, Second and Third Readings|10 March 2017 (Bill No. 18/2017 published on 10 March 2017)|
 ||Date of commencement|11 March 2017|
-|80.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
+|72.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
 ||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
 ||Date of Second and Third Readings|7 October 2019|
 ||Date of commencement|1 January 2018|
-|81.|**G.N. No. S 87/2018—Stamp Duties Act (Amendment of First Schedule) Notification 2018**|
+|73.|**G.N. No. S 87/2018—Stamp Duties Act (Amendment of First Schedule) Notification 2018**|
 ||Date of commencement|20 February 2018|
+|74.|**G.N. No. S 452/2018—Stamp Duties Act (Amendment of First Schedule) (No. 2) Notification 2018**|
+||(G.N. No. S 460/2018 — Corrigendum)||
+||Date of commencement|6 July 2018|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
