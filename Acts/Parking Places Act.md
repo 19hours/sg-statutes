@@ -2026,11 +2026,13 @@ shall be guilty of that same offence as is the unincorporated association or the
 
 ### Power to exempt
 
-21\. The Minister may, by order in theGazette, exempt any private parking place or class of private parking places or any person or class of persons from the provisions of this Act or any rules made thereunder.
+21\. The Minister may, by order in theGazette, exempt any private parking place or class of private parking places or any person or class of persons from the provisions of this Act or any rules or regulations made thereunder.
 
 [10/82]
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 08/07/2018]
 
 ### Rules
 
@@ -2560,11 +2562,13 @@ shall be guilty of that same offence as is the unincorporated association or the
 
 ### Power to exempt
 
-21\. The Minister may, by order in theGazette, exempt any private parking place or class of private parking places or any person or class of persons from the provisions of this Act or any rules made thereunder.
+21\. The Minister may, by order in theGazette, exempt any private parking place or class of private parking places or any person or class of persons from the provisions of this Act or any rules or regulations made thereunder.
 
 [10/82]
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 08/07/2018]
 
 ### Rules
 
@@ -2684,3 +2688,7 @@ This Legislative History is provided for the convenience of users of the Parking
 ||Date of First Reading|5 March 2018 (Bill No. 18/2018 published on 5 March 2018)|
 ||Date of Second and Third Readings|20 March 2018|
 ||Date of commencement|8 May 2018|
+|16.|**Act 38 of 2018—Land Transport (Enforcement Measures) Act 2018**|
+||Date of First Reading|6 August 2018 (Bill No. 29/2018 published on 6 August 2018)|
+||Date of Second and Third Readings|10 September 2018|
+||Date of commencement|8 July 2018|
