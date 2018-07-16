@@ -710,15 +710,13 @@ REGISTRATION OF PROFESSIONAL ENGINEERS
 
 (b) any person who satisfies the Board that he is otherwise qualified by having proper and recognised academic qualifications in engineering and who satisfies such conditions as the Board may determine.
 
-[27/2005 wef 01/12/2005]
+(2) A person is not entitled to registration under subsection (1)(a) or (b) unless the person satisfies the Board that he has —
 
-(2) No person shall be entitled to registration under subsection (1)(a) or (b) unless he satisfies the Board that he has, after obtaining his qualifications —
+(a) passed such examination as may be prescribed by the Board; and
 
-(a) acquired not less than 4 years’ practical experience in such professional engineering work and at such level of responsibility as to be sufficiently competent for registration as a professional engineer under this Act; and
+(b) after obtaining the relevant qualifications mentioned in subsection (1), acquired practical experience of such nature and duration as may be prescribed by the Board.
 
-(b) sat and passed such examination as may be prescribed by the Board.
-
-[27/2005 wef 01/12/2005]
+[Act 36 of 2017 wef 16/07/2018]
 
 (3) The Minister may, after consultation with the Board, by order published in theGazette, exempt, subject to such conditions as he thinks fit, any person from the requirements of subsection (2).
 
@@ -1845,3 +1843,8 @@ This Legislative History is provided for the convenience of users of the Profess
 |||(Bill No. 45/2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|17.|**Act 36 of 2017—Professional Engineers (Amendment) Act 2017**|
+||Date of First Reading|1 August 2017|
+|||(Bill No. 30/2017)|
+||Date of Second and Third Readings|11 September 2017|
+||Date of commencement|16 July 2018|
