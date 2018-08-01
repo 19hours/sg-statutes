@@ -560,6 +560,12 @@
 
 - [184 Rules for this Division](#Rules-for-this-Division)
 
+[**Division 5  Group practices**](#Division-5--Group-practices)
+
+- [184A Formation of group practices](#Formation-of-group-practices)
+
+- [184B Rules for this Division](#Rules-for-this-Division)
+
 [**Part X MISCELLANEOUS**](#Part-X)
 
 - [185 General provision as to rules](#General-provision-as-to-rules)
@@ -8307,6 +8313,40 @@ in respect of the practice of Singapore law;
 
 [Act 40 of 2014 wef 18/11/2015]
 
+Division 5 —
+
+Group practices
+
+### Formation of group practices
+
+184A\.—(1) Two or more Singapore law practices may apply jointly to practise as a Singapore group practice.
+
+(2) Two or more foreign law practices may apply jointly to practise as a foreign group practice.
+
+(3) The Director of Legal Services may, after consulting such authorities as the Director of Legal Services thinks fit, grant or refuse an application under subsection (1) or (2).
+
+(4) An application under subsection (1) or (2) may be granted subject to such conditions as the Director of Legal Services thinks fit to impose in any particular case.
+
+[Act 22 of 2018 wef 01/08/2018]
+
+### Rules for this Division
+
+184B\.—(1) The Minister may make such rules as may be necessary or expedient for the purposes of this Division.
+
+(2) Without limiting subsection (1), the Minister may make rules to prescribe —
+
+(a) the types of Singapore law practice that may form a Singapore group practice and the requirements that any Singapore group practice, and any member of a Singapore group practice, must comply with;
+
+(b) the types of foreign law practice that may form a foreign group practice and the requirements that any foreign group practice, and any member of a foreign group practice, must comply with;
+
+(c) the manner of making an application to the Director of Legal Services under section 184A(1) or (2), and the fees payable for such an application;
+
+(d) the grounds for cancellation of an approval of the Director of Legal Services to practise as a Singapore group practice or foreign group practice; and
+
+(e) such saving and transitional provisions as the Minister considers necessary or expedient.
+
+[Act 22 of 2018 wef 01/08/2018]
+
 ## PART X
 
 MISCELLANEOUS
@@ -8926,7 +8966,7 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of First Reading|1 October 1996|
 |||(Bill No. 31/96 published on 1 October 1996)|
 ||Date of Second and Third Readings|10 October 1996|
-||Date of commencement|1 September 1996 (section 9)|
+||Dates of commencement|1 September 1996 (section 9)|
 |||1 January 1997 (except section 9)|
 |23.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
 ||Date of First Reading|11 July 1997|
@@ -8960,7 +9000,7 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of First Reading|19 May 2004|
 |||(Bill No. 17/2004 published on 20 May 2004)|
 ||Date of Second and Third Readings|15 June 2004|
-||Date of commencement|14 September 2004 (sections 5 and 6)|
+||Dates of commencement|14 September 2004 (sections 5 and 6)|
 |||1 April 2005 (sections 2, 3, 4, 7 and 8)|
 |32.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
 ||(Consequential amendments made to Act by)||
@@ -8988,13 +9028,13 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of First Reading|9 March 2007|
 |||(Bill No. 10/2007 published on 10 March 2007)|
 ||Date of Second and Third Readings|12 April 2007|
-||Date of commencement|1 April 2007 (section 24(1))|
+||Dates of commencement|1 April 2007 (section 24(1))|
 |||1 June 2007|
 |37.|**Act 19 of 2008—Legal Profession (Amendment) Act 2008**|
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 16/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|26 August 2008|
-||Date of commencement|1 June 2007 (section 15(b))|
+||Dates of commencement|1 June 2007 (section 15(b))|
 |||19 September 2008 (except sections 2(c) and (f), 4, 5, 6, 7(a) and (b), 8, 9, 11, 26 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56)|
 |||15 October 2008 (sections 4, 5(c), (d) and (g), 7(a) and (b), 8(a) and (b), 26(d), 28, 29(a) and (c) to (o), 30(a) and (d) and 31(b) to (f))|
 |||1 December 2008 (sections 2(c) and (f), 5(a), (b), (e) and (f), 6, 8(c) and (d), 9, 11, 26(a), (b), (c), (e) and (f), 27, 29(b), 30 (b) and (c), 31(a), 32 to 36, 37(a), (b), (c) and (e), 38 to 49, 55 and 56)|
@@ -9031,7 +9071,7 @@ This Legislative History is provided for the convenience of users of the Legal P
 |44.|**Act 3 of 2012—Legal Profession (Amendment) Act 2012**|
 ||Date of First Reading|16 January 2012 (Bill No. 1/2012 published on 16 January 2012)|
 ||Date of Second and Third Readings|14 February 2012|
-||Date of commencement|1 April 2012 (except sections 10, 11, 12 and 14)|
+||Dates of commencement|1 April 2012 (except sections 10, 11, 12 and 14)|
 |||1 June 2012 (sections 10. 11. 12 and 14)|
 |45.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
 ||(Consequential amendments made to Act by)||
@@ -9046,7 +9086,7 @@ This Legislative History is provided for the convenience of users of the Legal P
 |47.|**Act 40 of 2014—Legal Profession (Amendment) Act 2014**|
 ||Date of First Reading|7 October 2014 (Bill No. 36/2014 published on 7 October 2014)|
 ||Date of Second and Third Readings|4 November 2014|
-||Date of commencement|1 January 2015|
+||Dates of commencement|1 January 2015|
 |||23 May 2015|
 |||18 November 2015|
 |48.|**Act 41 of 2014—Statutes (Miscellaneous Amendments — Deputy Attorney-General) Act 2014**|
@@ -9077,7 +9117,8 @@ This Legislative History is provided for the convenience of users of the Legal P
 |54.|**Act 22 of 2018—Legal Profession (Amendment) Act 2018**|
 ||Date of First Reading|2 March 2018 (Bill No. 16/2018 published on 2 March 2018)|
 ||Date of Second and Third Readings|20 March 2018|
-||Date of commencement|18 April 2018|
+||Dates of commencement|18 April 2018|
+|||1 August 2018|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
