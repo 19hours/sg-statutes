@@ -136,9 +136,11 @@ PRELIMINARY
 
 “bring in transit” means to bring goods from any country into Singapore by land, water or air, where the goods are to be taken out from Singapore on the same conveyance on which they are brought into Singapore without any landing in Singapore, but does not include the passage through Singapore in accordance with international law of a foreign conveyance carrying goods;
 
-“computer” has the same meaning as in section 2(1) of the Computer Misuse and Cybersecurity Act (Cap. 50A);
+“computer” has the same meaning as in section 2(1) of the Computer Misuse Act (Cap. 50A);
 
 [Act 3 of 2013 wef 13/03/2013]
+
+[Act 9 of 2018 wef 31/08/2018]
 
 “conveyance” includes any vessel, train, vehicle, aircraft or other mode of transport;
 
@@ -853,6 +855,10 @@ This Legislative History is provided for the convenience of users of the Strateg
 ||Date of First Reading|12 November 2012 (Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
+|7.|**Act 9 of 2018—Cybersecurity Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|31 August 2018|
 ## COMPARATIVE TABLE
 
 Strategic Goods (Control) Act
