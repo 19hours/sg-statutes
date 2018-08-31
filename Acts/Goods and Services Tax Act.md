@@ -326,13 +326,17 @@ PRELIMINARY
 
 “Comptroller” means the Comptroller of Goods and Services Tax appointed under section 4 and includes for all purposes of this Act, except the exercise of the powers conferred upon the Comptroller by section 5(2), a Deputy Comptroller or an Assistant Comptroller;
 
-“computer” has the same meaning as in the Computer Misuse and Cybersecurity Act (Cap. 50A);
+“computer” has the same meaning as in the Computer Misuse Act (Cap. 50A);
 
 [Act 3 of 2013 wef 13/03/2013]
 
-“computer output” has the same meaning as in the Computer Misuse and Cybersecurity Act (Cap. 50A);
+[Act 9 of 2018 wef 31/08/2018]
+
+“computer output” has the same meaning as in the Computer Misuse Act (Cap. 50A);
 
 [Act 3 of 2013 wef 13/03/2013]
+
+[Act 9 of 2018 wef 31/08/2018]
 
 “customs duty” means customs duty imposed on goods imported into Singapore under the Customs Act (Cap. 70);
 
@@ -6381,6 +6385,10 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|23 May 2018|
 |57.|**G.N. No. S 415/2018—Goods and Services Tax Act (Amendment of First Schedule) Order 2018**|
 ||Date of commencement|25 June 2018|
+|58.|**Act 9 of 2018—Cybersecurity Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|31 August 2018|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
