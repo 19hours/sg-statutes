@@ -1118,9 +1118,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) In proceedings for an offence under subsection (1), it is a defence for the defendant to prove, on a balance of probabilities, that the defendant did not know, and could not reasonably have known, that the activity that caused the hindrance, obstruction or interference would cause the hindrance, obstruction or interference, as the case may be.
 
-(3) To avoid doubt, this section does not affect the operation of the Computer Misuse and Cybersecurity Act (Cap. 50A).
+(3) To avoid doubt, this section does not affect the operation of the Computer Misuse Act (Cap. 50A).
 
 [Act 10 of 2017 wef 24/08/2017]
+
+[Act 9 of 2018 wef 31/08/2018]
 
 ### Savings
 
@@ -6990,6 +6992,10 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of First Reading|6 August 2018 (Bill No. 29/2018 published on 6 August 2018)|
 ||Date of Second and Third Readings|10 September 2018|
 ||Date of commencement|1 May 2018|
+|83.|**Act 9 of 2018—Cybersecurity Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|31 August 2018|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
