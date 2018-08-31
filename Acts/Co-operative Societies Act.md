@@ -2438,7 +2438,9 @@ Assistance in organisation of co-operatives and technical advice
 
 (6) In this section and sections 79, 80 and 81 —
 
-“computer” has the same meaning as in section 2(1) of the Computer Misuse and Cybersecurity Act (Cap. 50A);
+“computer” has the same meaning as in section 2(1) of the Computer Misuse Act (Cap. 50A);
+
+[Act 9 of 2018 wef 31/08/2018]
 
 “enforcement purpose” means —
 
@@ -3708,3 +3710,7 @@ This Legislative History is provided for the convenience of users of the Co-oper
 ||Date of First Reading|6 November 2017 (Bill No. 50/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|9 January 2018|
 ||Date of commencement|10 April 2018|
+|9.|**Act 9 of 2018—Cybersecurity Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|31 August 2018|
