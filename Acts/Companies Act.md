@@ -626,7 +626,7 @@
 
 - [175 Annual general meeting](#Annual-general-meeting)
 
-- [175A Private company may dispense with annual general meetings](#Private-company-may-dispense-with-annual-general-meetings)
+- [175A When private company need not hold annual general meeting](#When-private-company-need-not-hold-annual-general-meeting)
 
 - [176 Convening of extraordinary general meeting on requisition](#Convening-of-extraordinary-general-meeting-on-requisition)
 
@@ -704,7 +704,7 @@
 
 - [197 Annual return by companies](#Annual-return-by-companies)
 
-- [198 (Repealed)](#Repealed)
+- [198 Financial year of company](#Financial-year-of-company)
 
 [**Part VI FINANCIAL STATEMENTS AND AUDIT**](#Part-VI)
 
@@ -724,7 +724,7 @@
 
 - [201B Audit committees](#Audit-committees)
 
-- [201C Directors need not lay financial statements before company if resolution under section 175A in force](#Directors-need-not-lay-financial-statements-before-company-if-resolution-under-section-175A-in-force)
+- [201C When directors need not lay financial statements before company](#When-directors-need-not-lay-financial-statements-before-company)
 
 - [202 Relief from requirements as to form and content of financial statements and directors’ statement](#Relief-from-requirements-as-to-form-and-content-of-financial-statements-and-directors’-statement)
 
@@ -1995,9 +1995,13 @@ such that it can (where particular conditions are met) be received in legible fo
 
 “filed” means filed under this Act or any corresponding previous written law;
 
-“financial year”, in relation to any corporation, means the period in respect of which the financial statements of the corporation is made up, whether that period is a year or not;
+“financial year” —
 
-[Act 36 of 2014 wef 01/07/2015]
+(a) in relation to a corporation, means the period in respect of which the financial statements of the corporation is made up, whether that period is a year or not; and
+
+(b) in relation to a company, is also to be determined in accordance with section 198;
+
+[Act 15 of 2017 wef 31/08/2018]
 
 “foreign company” means —
 
@@ -3229,7 +3233,9 @@ Incorporation
 
 [Act 36 of 2014 wef 03/01/2016]
 
-(b) furnish the Registrar with such information as may be prescribed; and
+(b) furnish the Registrar with the last day of the proposed company’s first financial year and such other information as may be prescribed; and
+
+[Act 15 of 2017 wef 31/08/2018]
 
 (c) pay the Registrar the prescribed fee.
 
@@ -10112,17 +10118,21 @@ Meetings and proceedings
 
 ### Annual general meeting
 
-175\.—(1) A general meeting of every company to be called the “annual general meeting” shall in addition to any other meeting be held once in every calendar year and not more than 15 months after the holding of the last preceding annual general meeting, but so long as a company holds its first annual general meeting within 18 months of its incorporation, it need not hold it in the year of its incorporation or in the following year.
+175\.—(1) Subject to this section and section 175A, a general meeting of every company to be called the “annual general meeting” must, in addition to any other meeting, be held after the end of each financial year within —
 
-[13/87]
+(a) 4 months in the case of a public company that is listed; or
 
-(2) Notwithstanding subsection (1), the Registrar may extend the period of 15 months or 18 months referred to in that subsection, notwithstanding that the period is so extended beyond the calendar year —
+(b) 6 months in the case of any other company.
+
+[Act 15 of 2017 wef 31/08/2018]
+
+(2) The Registrar may extend the period mentioned in subsection (1)(a) or (b) —
 
 (a) upon an application by the company, if the Registrar thinks there are special reasons to do so; or
 
 (b) in respect of any prescribed class of companies.
 
-[Act 36 of 2014 wef 01/07/2015]
+[Act 15 of 2017 wef 31/08/2018]
 
 (3) Subject to notice being given to all persons entitled to receive notice of the meeting, a general meeting may be held at any time and the company may resolve that any meeting held or summoned to be held shall be the annual general meeting of the company.
 
@@ -10132,25 +10142,41 @@ Meetings and proceedings
 
 (b) the Court may on the application of any member order a general meeting to be called.
 
+(5) The Minister may, by order in theGazette, specify such other period in substitution of the period mentioned in subsection (1)(a) or (b), or both.
+
+[Act 15 of 2017 wef 31/08/2018]
+
 [UK, 1948, s. 131; Aust., 1961, s. 136]
 
-### Private company may dispense with annual general meetings
+### When private company need not hold annual general meeting
 
-175A\.—(1) A private company may, by resolution passed in accordance with subsection (2), dispense with the holding of annual general meetings.
+175A\.—(1) A company need not hold an annual general meeting for a financial year —
+
+(a) if it is a private company in respect of which there is in force a resolution passed in accordance with subsection (2) to dispense with the holding of annual general meetings;
+
+(b) if, at the end of that financial year, it is a private company and has sent to all persons entitled to receive notice of general meetings of the company the documents mentioned in section 203(1) within the period specified in section 203(1)(b); or
+
+(c) if, at the end of that financial year, it is both a private company and a dormant relevant company the directors of which are, under section 201A, exempt from the requirements of section 201 for the financial year.
+
+[Act 15 of 2017 wef 31/08/2018]
+
+(2) Notwithstanding any other provision of this Act, a resolution referred to in subsection (1)(a) shall only be treated as passed at a general meeting if it has been passed by all of such members as, being entitled to do so, vote in person or, where proxies are allowed, by proxy present at the meeting.
+
+[8/2003]
+
+[Act 15 of 2017 wef 31/08/2018]
+
+(3) A resolution under subsection (1)(a) has effect for the year in which it is made and subsequent years, but does not affect any liability already incurred by reason of default in holding an annual general meeting.
 
 [8/2003]
 
-(2) Notwithstanding any other provision of this Act, a resolution referred to in subsection (1) shall only be treated as passed at a general meeting if it has been passed by all of such members as, being entitled to do so, vote in person or, where proxies are allowed, by proxy present at the meeting.
+[Act 15 of 2017 wef 31/08/2018]
+
+(4) In any year in which an annual general meeting would be required to be held but for this section, and in which no such meeting has been held, any member of the company may, by notice to the company not later than 14 days before the date by which an annual general meeting would have been required under section 175 to be held, require the holding of an annual general meeting in that year.
 
 [8/2003]
 
-(3) A resolution under subsection (1) has effect for the year in which it is made and subsequent years, but does not affect any liability already incurred by reason of default in holding an annual general meeting.
-
-[8/2003]
-
-(4) In any year in which an annual general meeting would be required to be held but for this section, and in which no such meeting has been held, any member of the company may, by notice to the company not later than 3 months before the end of the year, require the holding of an annual general meeting in that year.
-
-[8/2003]
+[Act 15 of 2017 wef 31/08/2018]
 
 (5) The power of a member under subsection (4) to require the holding of an annual general meeting is exercisable not only by the giving of a notice but also by the transmission to the company at such address as may for the time being be specified for the purpose by or on behalf of the company of an electronic communication containing the requirement.
 
@@ -10160,29 +10186,39 @@ Meetings and proceedings
 
 [8/2003]
 
-(7) A resolution referred to in subsection (1) shall cease to be in force if the company is converted to a public company.
+(7) A resolution referred to in subsection (1)(a) shall cease to be in force if the company is converted to a public company.
 
 [8/2003]
 
-(8) If the resolution referred to in subsection (1) ceases to be in force, the company shall not be obliged under section 175 to hold an annual general meeting in that year if, at the time the resolution ceases to have effect, less than 3 months of the year remains.
+[Act 15 of 2017 wef 31/08/2018]
 
-[8/2003]
+(8) If the resolution mentioned in subsection (1)(a) ceases to be in force but less than 3 months remain to the date on which the company is required under section 175 to hold an annual general meeting, the company need not hold that annual general meeting.
+
+[Act 15 of 2017 wef 31/08/2018]
 
 (9) Subsection (8) does not affect any obligation of the company to hold an annual general meeting in that year in pursuance of a notice given under subsection (4) or an electronic communication transmitted under subsection (5).
 
 [8/2003]
 
-(10) Unless the contrary intention appears —
+(10) Unless the contrary intention appears, if a company need not hold an annual general meeting for a financial year then for that financial year —
 
-(a) a reference in any provision of this Act to the doing of anything at an annual general meeting shall, in the case of a company that has dispensed with holding an annual general meeting in accordance with this section, be read as a reference to the doing of that thing by way of a resolution by written means under section 184A; and
+(a) a reference in any provision of this Act to the doing of anything at an annual general meeting is to be read as a reference to the doing of that thing by way of a resolution by written means under section 184A;
 
-(b) a reference in any provision of this Act to the date or conclusion of an annual general meeting of a company that has dispensed with holding an annual general meeting in accordance with this section shall, unless the meeting is held, be read as a reference to the date of expiry of the period within which the meeting is required by law to be held.
+(b) a reference in any provision of this Act to the date or conclusion of an annual general meeting is, unless the meeting is held, to be read as a reference to the date of expiry of the period by which an annual general meeting would have been required under section 175 to be held;
 
-[8/2003]
+(c) the reference in section 197(1) or (1A) to the lodging of a return with the Registrar after its annual general meeting is to be read as a reference to the lodging of that return —
+
+(i) in the case of a company mentioned in subsection (1)(a) or (b), after the company has sent to all persons entitled to receive notice of general meetings of the company the documents mentioned in section 203(1); or
+
+(ii) in the case of a company mentioned in subsection (1)(c), after the end of its financial year.
+
+[Act 15 of 2017 wef 31/08/2018]
 
 (11) In this section, an address of a person includes any number or address used for electronic communication.
 
 [5/2004]
+
+[Act 15 of 2017 wef 31/08/2018]
 
 [UK, 1985, s. 366A]
 
@@ -10560,9 +10596,11 @@ specifying the intention to propose the resolution as a special resolution has b
 
 [Act 36 of 2014 wef 03/01/2016]
 
-(2) Subsection (1) shall not apply to a resolution referred to in section 175A(1) or a resolution for which special notice is required.
+(2) Subsection (1) shall not apply to a resolution referred to in section 175A(1)(a) or a resolution for which special notice is required.
 
 [8/2003]
+
+[Act 15 of 2017 wef 31/08/2018]
 
 (3) A special resolution is passed by written means if the resolution indicates that it is a special resolution and if it has been formally agreed on any date by one or more members of the company who on that date represent —
 
@@ -10786,11 +10824,13 @@ as the case may be, give notice to the company requiring that a general meeting 
 
 (a) every special resolution; and
 
-(b) every resolution, including any resolution passed under section 175A(1), which effectively binds any class of shareholders whether agreed to by all the members of that class or not,
+(b) every resolution, including any resolution passed under section 175A(1)(a), which effectively binds any class of shareholders whether agreed to by all the members of that class or not,
 
 shall, except where otherwise expressly provided by this Act within 14 days after the passing or making thereof, be lodged by the company with the Registrar.
 
 [Act 36 of 2014 wef 03/01/2016]
+
+[Act 15 of 2017 wef 31/08/2018]
 
 (2) Where the constitution of a company has not been registered a printed copy of every resolution to which this section applies shall be forwarded to any member at his request on payment of $1 or such less sum as the company directs.
 
@@ -11186,13 +11226,31 @@ Annual return
 
 ### Annual return by companies
 
-197\.—(1) Every company shall lodge a return with the Registrar —
+197\.—(1) Every company, other than a company mentioned in subsection (1A), must lodge a return with the Registrar after its annual general meeting —
 
-(a) in the case of a company having a share capital and keeping a branch register in any place outside Singapore, within 60 days after its annual general meeting; and
+(a) in the case of a listed company, within 5 months after the end of its financial year; and
 
-(b) in any other case, within 30 days after its annual general meeting.
+(b) in any other case, within 7 months after the end of its financial year.
 
-(2) The return referred to in subsection (1) —
+[Act 15 of 2017 wef 31/08/2018]
+
+(1A) A company having a share capital and keeping a branch register in any place outside Singapore must lodge a return with the Registrar after its annual general meeting —
+
+(a) in the case of a listed company, within 6 months after the end of its financial year; and
+
+(b) in any other case, within 8 months after the end of its financial year.
+
+[Act 15 of 2017 wef 31/08/2018]
+
+(1B) The Registrar may, if the Registrar thinks there are special reasons to do so, extend any period within which a company must lodge a return under subsection (1) or (1A) —
+
+(a) upon an application by the company; or
+
+(b) in respect of any prescribed class of companies.
+
+[Act 15 of 2017 wef 31/08/2018]
+
+(2) The return referred to in subsections (1) and (1A) —
 
 (a) shall be in such form;
 
@@ -11204,33 +11262,65 @@ Annual return
 
 as may be prescribed.
 
+[Act 15 of 2017 wef 31/08/2018]
+
 (3) The particulars to be contained in, and the documents that are to accompany, the return referred to in subsection (1) may differ according to the class or description of company prescribed.
 
-(4) Notwithstanding subsection (1), if a company has dispensed with the holding of its annual general meeting under section 175A in relation to a calendar year, the annual return for that calendar year shall be lodged with the Registrar —
+(4) If a private company is required under section 175A(4) to hold an annual general meeting for a financial year after it has lodged its annual return for that financial year, the company must lodge a notice of the date on which the annual general meeting was held with the Registrar within 14 days after that date.
 
-(a) in the case of a company having a share capital and keeping a branch register in any place outside Singapore, within 60 days after the start date; or
+[Act 15 of 2017 wef 31/08/2018]
 
-(b) in any other case, within 30 days after the start date.
-
-(5) In subsection (4) —
-
-“balance-sheet”, “consolidated financial statements”, “financial statements” and “parent company” have the same meanings as in section 209A;
-
-“calendar year” includes such period beyond the calendar year as may be extended by the Registrar under section 175(2) for holding the annual general meeting;
-
-“start date” means the later of the following dates:
-
-(a) the date on which the company sent a copy of its financial statements or, in the case of a parent company, a copy of the consolidated financial statements and balance-sheet (including every document required by law to be attached thereto), to all persons entitled to receive notice of general meetings of the company under section 203(1); or
-
-(b) the date on which all resolutions of the company by written means (where such resolutions would have been passed at the annual general meeting if it had been held) were passed.
+(5) [Deleted by Act 15 of 2017 wef 31/08/2018]
 
 (6) If a company fails to comply with this section, the company and every officer of the company who is in default shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000 and also to a default penalty.
 
 [Act 36 of 2014 wef 03/01/2016]
 
-Exemption from filing list of members with annual return for certain public companies
+### Financial year of company
 
-198\. [Repealed by Act 12 of 2002]
+198\.—(1) Where a company is incorporated on or after the appointed day —
+
+(a) the company’s first financial year starts on the company’s date of incorporation and, subject to subsection (4), ends on the last day of the company’s first financial year as furnished under section 19(1)(b); and
+
+(b) each of the company’s subsequent financial years starts immediately after the end of the previous financial year and ends on the last day of a period of 12 months (or such other regular interval as the Registrar may allow).
+
+(2) A company’s first financial year must not be longer than 18 months unless the Registrar on the application of the company otherwise approves.
+
+(3) Where a company was incorporated before the appointed day —
+
+(a) the last day of the financial year for the company’s first financial year ending on or after the appointed day is —
+
+(i) where the company had, before the appointed day, lodged an annual return, or lodged a notification with the Registrar informing the Registrar of the end of the company’s financial year, the anniversary of the last day of the financial year as indicated by the company in the last annual return or last such notification with the Registrar; or
+
+(ii) where the company had not, before the appointed day, lodged an annual return, or lodged a notification with the Registrar informing the Registrar of the end of the company’s financial year, the anniversary of the date of incorporation of the company; and
+
+(b) each of the company’s subsequent financial years starts immediately after the end of the previous financial year and ends on the last day of a period of 12 months (or such other regular interval as the Registrar may allow).
+
+(4) Despite subsections (1) and (3), but subject to subsections (5) and (6), a company may by notice lodged with the Registrar in the prescribed form specify a new date as the last day of the company’s financial year to apply to its previous or current financial year.
+
+(5) The Registrar’s approval must be obtained if the notice mentioned in subsection (4) —
+
+(a) results in a financial year being longer than 18 months; or
+
+(b) is lodged less than 5 years after the end of an earlier financial year that ended on a date on or after the appointed day, if the end of that earlier financial year was changed under this section.
+
+(6) The notice under subsection (4) cannot specify a new date as the last day of the company’s financial year —
+
+(a) after the expiry of the period under section 175 within which an annual general meeting of the company must be held after that financial year;
+
+(b) after the expiry of the period under section 197 within which an annual return of the company must be lodged with the Registrar after that financial year; or
+
+(c) after the expiry of the period under section 203 within which a copy of the financial statements, or consolidated financial statements, balance‑sheet, and documents mentioned in section 203(1) are required to be sent to all persons entitled to receive notice of general meetings of the company.
+
+(7) For the purposes of —
+
+(a) subsection (3)(a)(i), where the last day of the financial year of a company as indicated in the last annual return or in the last notification with the Registrar informing the Registrar of the last day of the company’s financial year falls on 29 February, the anniversary of that date in a year that is not a leap year is to be taken as 28 February; and
+
+(b) subsection (3)(a)(ii), where the date of incorporation of a company falls on 29 February, the anniversary of that date in a year that is not a leap year is to be taken as 28 February.
+
+(8) In this section, “appointed day” means the date of commencement of section 15 of the Companies (Amendment) Act 2017.
+
+[Act 15 of 2017 wef 31/08/2018]
 
 ## PART VI
 
@@ -11292,35 +11382,27 @@ Financial statements
 
 ### Financial statements and consolidated financial statements
 
-201\.—(1) The directors of every company shall, at a date not later than 18 months after the incorporation of the company and subsequently at least once in every calendar year at intervals of not more than 15 months, lay before the company at its annual general meeting the financial statements for the period since the preceding financial statements (or in the case of the first financial statements, since the incorporation of the company) made up to a date —
+201\.—(1) The directors of every company must lay before the company at its annual general meeting the financial statements for the financial year in respect of which the annual general meeting is held.
 
-(a) in the case of a public company that is listed, not more than 4 months before the date of the meeting; or
-
-(b) in the case of any other company, not more than 6 months before the date of the meeting.
+[Act 15 of 2017 wef 31/08/2018]
 
 (2) Subject to subsections (12) to (15), the financial statements referred to in subsection (1) shall comply with the requirements of the Accounting Standards and give a true and fair view of the financial position and performance of the company.
 
-(3) The Minister may, by order published in theGazette, specify such other period in substitution of the period referred to in subsection (1)(a) or (b).
+(3) [Deleted by Act 15 of 2017 wef 31/08/2018]
 
-(4) Notwithstanding subsection (1), the Registrar may extend the periods of 18 months and 15 months referred to in that subsection and with respect to any year extend the period referred to in subsection (1)(a) or (b), notwithstanding that the period is so extended beyond the calendar year —
-
-(a) upon an application by the company, if the Registrar thinks there are special reasons to do so; or
-
-(b) in respect of any prescribed class of companies.
+(4) [Deleted by Act 15 of 2017 wef 31/08/2018]
 
 (5) Subject to subsections (12) to (15), the directors of a company that is a parent company at the end of its financial year need not comply with subsection (1) but must cause to be made out and laid before the company at its annual general meeting —
 
-(a) consolidated financial statements dealing with the financial position and performance of group for the period beginning from the date the preceding financial statements were made up to (or, in the case of first financial statements, since the incorporation of the company) and ending on a date —
+(a) consolidated financial statements dealing with the financial position and performance of the group for the financial year in respect of which the annual general meeting is held; and
 
-(i) in a case where the parent company is a public company that is listed, not more than 4 months before the date of the meeting; or
-
-(ii) in any other case, not more than 6 months before the date of the meeting; and
+[Act 15 of 2017 wef 31/08/2018]
 
 (b) a balance-sheet dealing with the state of affairs of the parent company at the end of its financial year,
 
 each of which complies with the requirements of the Accounting Standards and gives a true and fair view of the matters referred to in paragraph (a) or (b), as the case may be, so far as it concerns members of the parent company.
 
-(6) Subsections (3) and (4) shall, with the necessary modifications, apply to the periods referred to in subsection (5)(a)(i) and (ii) as they apply to the periods referred to in subsection (1)(a) and (b).
+(6) [Deleted by Act 15 of 2017 wef 31/08/2018]
 
 (7) The directors shall (before the financial statements referred to in subsection (1) and the balance-sheet referred to in subsection (5)(b) are made out) take reasonable steps —
 
@@ -11450,13 +11532,15 @@ each of which complies with the requirements of the Accounting Standards and giv
 
 (a) a copy of each of the documents that was laid before the company at its annual general meeting under section 201 for a period of not less than 5 years after the date of the annual general meeting, being a date on or after the date of commencement of section 117 of the Companies (Amendment) Act 2014; or
 
-(b) if the company has dispensed with the holding of its annual general meeting under section 175A —
+(b) in respect of any financial year for which the company need not hold an annual general meeting because of section 175A(1) —
 
 (i) a copy of the financial statements; or
 
 (ii) in the case of a parent company, a copy of the consolidated financial statements and balance-sheet (including every document required by law to be attached thereto),
 
 and a copy of the auditors’ report where such financial statements or consolidated financial statements are duly audited, that were sent to all persons entitled to receive notice of general meetings of the company in accordance with section 203(1) for a period of not less than 5 years after the date on which the documents were sent, being a date on or after the date of commencement of section 117 of the Companies (Amendment) Act 2014.
+
+[Act 15 of 2017 wef 31/08/2018]
 
 (2) If default is made in complying with subsection (1), the company and every officer of the company who is in default shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months and also to a default penalty.
 
@@ -11534,19 +11618,13 @@ together with such other functions as may be agreed to by the audit committee an
 
 [5/2004]
 
-### Directors need not lay financial statements before company if resolution under section 175A in force
+### When directors need not lay financial statements before company
 
-201C\. Subject to section 203(1), while a resolution by a private company under section 175A is in force —
+201C\.—(1) The directors of a private company need not comply with the requirement in section 201 to lay before the company at its annual general meeting financial statements or consolidated financial statements of the company if the company need not hold an annual general meeting because of section 175A(1).
 
-(a) the directors of the company need not comply with the requirement in section 201 to lay before the company at its annual general meeting financial statements or consolidated financial statements of the company; and
+(2) Where the financial statements or consolidated financial statements are not laid before the company at its annual general meeting under subsection (1), the reference in section 207(1) to financial statements required to be laid before the company in general meeting is to be read as a reference to the documents required to be sent to persons entitled to receive notice of general meetings of the company under section 203(1).
 
-[Act 36 of 2014 wef 01/07/2015]
-
-(b) the reference in section 207(1) to financial statements required to be laid before the company in general meeting shall be read as a reference to the documents required to be sent to persons entitled to receive notice of general meetings of the company under section 203(1).
-
-[8/2003]
-
-[Act 36 of 2014 wef 01/07/2015]
+[Act 15 of 2017 wef 31/08/2018]
 
 ### Relief from requirements as to form and content of financial statements and directors’ statement
 
@@ -11660,9 +11738,9 @@ shall be borne by any or all the directors who were directors of the company as 
 
 (a) unless subsection (2) applies, not less than 14 days before the date of the meeting; or
 
-(b) if a resolution under section 175A is in force, not less than 28 days before the end of the period allowed for the laying of those documents.
+(b) if the company is not required to hold an annual general meeting because of section 175A(1)(a), not later than 5 months after the end of the financial year to which the financial statements, or consolidated financial statements and balance‑sheet, relate.
 
-[Act 36 of 2014 wef 01/07/2015]
+[Act 15 of 2017 wef 31/08/2018]
 
 (2) The financial statements, or consolidated financial statements, balance-sheet and documents referred to in subsection (1) may be sent less than 14 days before the date of the meeting as required under subsection (1)(a) if all the persons entitled to receive notice of general meetings of the company so agree.
 
@@ -11682,15 +11760,23 @@ shall be borne by any or all the directors who were directors of the company as 
 
 [Act 36 of 2014 wef 01/07/2015]
 
-(5) Section 175A(5) shall apply, with the necessary modifications, to the giving of a notice under subsection (4).
+(4A) Where a company is not required to hold an annual general meeting because of section 175A(1)(b), any member or auditor of the company may, by notice to the company not later than 14 days after the day on which the documents mentioned in subsection (1) were sent out, require that a general meeting be held for the purpose of laying those documents before the company.
+
+[Act 15 of 2017 wef 31/08/2018]
+
+(5) Section 175A(5) shall apply, with the necessary modifications, to the giving of a notice under subsection (4) or (4A).
 
 [8/2003]
 
-(6) The directors of the company shall, within 14 days after the date of giving of the notice referred to in subsection (4), convene a meeting for the purpose referred to in that subsection.
+[Act 15 of 2017 wef 31/08/2018]
+
+(6) The directors of the company shall, within 14 days after the date of giving of the notice referred to in subsection (4) or (4A), convene a meeting for the purpose referred to in that subsection.
 
 [8/2003]
 
 [Act 36 of 2014 wef 01/07/2015]
+
+[Act 15 of 2017 wef 31/08/2018]
 
 (7) If default is made in convening the meeting under subsection (6) —
 
@@ -11850,7 +11936,7 @@ Audit
 
 [Act 36 of 2014 wef 01/07/2015]
 
-(12A) Where a resolution under section 175A is in force and the auditor or auditors of the company is or are to be appointed by a resolution by written means under section 184A by virtue of section 175A(10), references in subsections (11) and (12) to the date of an annual general meeting shall be read as references to the time —
+(12A) Where a company need not hold an annual general meeting for a financial year because of section 175A(1) and the auditor or auditors of the company is or are to be appointed by a resolution by written means under section 184A by virtue of section 175A(10), references in subsections (11) and (12) to the date of an annual general meeting shall be read as references to the time —
 
 (a) agreement to that resolution is sought in accordance with section 184C; or
 
@@ -11859,6 +11945,8 @@ Audit
 as the case may be.
 
 [8/2003]
+
+[Act 15 of 2017 wef 31/08/2018]
 
 (13) If, after notice of nomination of an accounting entity as an auditor of a company has been given to the company, the annual general meeting of the company is called for a date 21 days or less after the notice has been given, subsection (11) shall not apply in relation to the accounting entity and, if the annual general meeting is called for a date not more than 7 days after the notice has been given and a copy of the notice is, at the time notice of the meeting is given, sent to each person to whom, under subsection (12), it is required to be sent, the company shall be deemed to have complied with that subsection in relation to the notice.
 
@@ -19267,15 +19355,13 @@ that document may be given, sent or served using electronic communications to th
 
 (c) provides that the member shall agree to receive such notice or document by way of such electronic communications and shall not have a right to elect to receive a physical copy of such notice or document.
 
-(3) For the purposes of this section, a member shall be deemed to have consented if —
+(3) For the purposes of this section, but subject to regulations mentioned in subsection (4), a member is deemed to have consented if —
 
-(a) the constitution of the company provides for the use of electronic communications;
+(a) the member was by notice in writing given an opportunity to elect, within such period of time specified in the notice, whether to receive the notice or document by way of electronic communications or as a physical copy; and
 
-(b) the constitution of the company specifies the manner in which electronic communications is to be used;
+(b) the member failed to make an election within the time so specified.
 
-(c) the constitution of the company specifies that the member will be given an opportunity to elect within a specified period of time (the specified time), whether to receive such notice or document by way of electronic communications or as a physical copy; and
-
-(d) the member was given an opportunity to elect whether to receive such notice or document by way of such electronic communications or as a physical copy, and he failed to make an election within the specified time.
+[Act 15 of 2017 wef 31/08/2018]
 
 (4) The Minister may make regulations under section 411 —
 
@@ -21307,145 +21393,119 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
 ||Date of commencement|1 January 2002 (Parts I, VIII, IX, X and XV (except sections 314 and 342 (1) and (3)), First Schedule, Second Schedule and items (4)(o) and (q) and (7)(c) of Fourth Schedule)|
+|||1 July 2002|
+|||1 October 2002|
 |54.|**G. N. No. S 675/2001—Securities and Futures (Repeal of Provisions) Notification 2001**|
 ||Date of commencement|1 January 2002|
 |55.|**G. N. No. S 28/2002—Companies Act (Amendment of Second Schedule) Notification 2002**|
 ||Date of commencement|15 January 2002|
-|56.|**Act 42 of 2001—Securities and Futures Act 2001**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|25 September 2001|
-|||(Bill No. 33/2001 published on 26 September 2001)|
-||Date of Second and Third Readings|5 October 2001|
-||Date of commencement|1 July 2002 (Parts XIII and XIV, and items (1)(a), (3)(a), (4)(a)(i), (iii) to (ix), (b), (c), (f), (g), (h), (i), (l), (m), (t) and (u), (7)(b), (12) and (13) of Fourth Schedule)|
-|57.|**G. N. No. S 236/2002—Securities and Futures (Repeal of Provisions) Notification 2002**|
+|56.|**G. N. No. S 236/2002—Securities and Futures (Repeal of Provisions) Notification 2002**|
 ||Date of commencement|1 July 2002|
-|58.|**G. N. No. S 239/2002—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2002**|
+|57.|**G. N. No. S 239/2002—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2002**|
 ||Date of commencement|1 July 2002|
-|59.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
+|58.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
 ||Date of First Reading|23 May 2002|
 |||(Bill No. 16/2002 published on 24 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Dates of commencement|15 August 2002 (sections 2(a) and 36)|
-|60.|**Act 42 of 2001—Securities and Futures Act 2001**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|25 September 2001|
-|||(Bill No. 33/2001 published on 26 September 2001)|
-||Date of Second and Third Readings|5 October 2001|
-||Date of commencement|1 October 2002 (Parts II to VII, XI and XIII, sections 314 and 342(1) and (3), Third Schedule and items (1)(b), (2), (3)(b), (4)(a)(ii), (d), (e), (j), (k), (n), (p), (r), (s) and (v), (5), (6) and (7)(a) and (d) and (8) to (11) of Fourth Schedule).|
-|61.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
-||Date of First Reading|23 May 2002|
-|||(Bill No. 16/2002 published on 24 May 2002)|
-||Date of Second and Third Readings|8 July 2002|
-||Dates of commencement|1 January 2003 (sections 37 to 41, 55(b) and (c) and 61)|
-|62.|**G. N. No. S 684/2002—Companies (Accounts of Public Listed Companies) (Substitution of Period) Order 2002**|
+|||1 January 2003|
+|||13 January 2003|
+|59.|**G. N. No. S 684/2002—Companies (Accounts of Public Listed Companies) (Substitution of Period) Order 2002**|
 ||Date of commencement|1 January 2003|
-|63.|**G. N. No. S 19/2003—Companies Act (Amendment of Second Schedule) Notification 2003**|
+|60.|**G. N. No. S 19/2003—Companies Act (Amendment of Second Schedule) Notification 2003**|
 ||Date of commencement|13 January 2003|
-|64.|**G. N. No. S 20/2003—Companies Act (Amendment of Eighth Schedule) Notification 2003**|
+|61.|**G. N. No. S 20/2003—Companies Act (Amendment of Eighth Schedule) Notification 2003**|
 ||Date of commencement|13 January 2003|
-|65.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
-||Date of First Reading|23 May 2002|
-|||(Bill No. 16/2002 published on 24 May 2002)|
-||Date of Second and Third Readings|8 July 2002|
-||Dates of commencement|13 January 2003 (sections 2(b), 3 to 35, 42 to 54, 55(a), 56 to 60, 62, 63 and 64)|
-|66.|**G. N. No. S 213/2003—Companies (Accounts of Public Listed Companies) (Substitution of Period) Order 2003**|
+|62.|**G. N. No. S 213/2003—Companies (Accounts of Public Listed Companies) (Substitution of Period) Order 2003**|
 ||Date of commencement|28 April 2003|
-|67.|**Act 8 of 2003—Companies (Amendment) Act 2003**|
+|63.|**Act 8 of 2003—Companies (Amendment) Act 2003**|
 ||Date of First Reading|28 February 2003|
 |||(Bill No. 3/2003 published on 1 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|15 May 2003|
-|68.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+|64.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
 ||Date of First Reading|20 March 2003|
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
-|69.|**G. N. No. S 75/2004—Companies Act (Amendment of Second Schedule) Notification 2004**|
+|65.|**G. N. No. S 75/2004—Companies Act (Amendment of Second Schedule) Notification 2004**|
 ||Date of commencement|1 March 2004|
-|70.|**Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004**|
+|66.|**Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 1/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
-|71.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+|67.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 3/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Dates of commencement|1st April 2004|
-|72.|**Act 4 of 2004—Accountants Act 2004**|
+|||1st October 2004|
+|68.|**Act 4 of 2004—Accountants Act 2004**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 2/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
-|73.|**G. N. No. S 193/2004—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2004**|
+|69.|**G. N. No. S 193/2004—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2004**|
 ||Date of commencement|1 April 2004|
-|74.|**G. N. No. S 262/2004—Companies Act (Amendment of Second Schedule) (No. 3) Notification 2004**|
+|70.|**G. N. No. S 262/2004—Companies Act (Amendment of Second Schedule) (No. 3) Notification 2004**|
 ||Date of commencement|1 April 2004|
-|75.|**Act 28 of 2004—Statutes (Miscellaneous Amendments) (No. 2) Act 2004**|
+|71.|**Act 28 of 2004—Statutes (Miscellaneous Amendments) (No. 2) Act 2004**|
 ||Date of First Reading|15 June 2004|
 |||(Bill No. 27/2004 published on 16 June 2004)|
 ||Date of Second and Third Readings|20 July 2004|
 ||Date of commencement|1 April 2004 (section 3 only)|
-|76.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
-||Date of First Reading|5 January 2004|
-|||(Bill No. 3/2004 published on 6 January 2004)|
-||Date of Second and Third Readings|6 February 2004|
-||Dates of commencement|1st October 2004 (Section 28(a) and (c))|
-|77.|**G. N. No. S 57/2005—Companies Act (Amendment of Second Schedule) Notification 2005**|
+|72.|**G. N. No. S 57/2005—Companies Act (Amendment of Second Schedule) Notification 2005**|
 ||Date of commencement|1 February 2005|
-|78.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+|73.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
-|79.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+|74.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
 ||Date of First Reading|18 April 2005|
 |||(Bill No. 7/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
-|80.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+|75.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|30 January 2006 (sections 10, 12, 19 and 20(c))|
-|81.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+|||1 April 2006|
+|76.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
 ||Date of First Reading|18 April 2005|
 |||(Bill No. 11/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
-|82.|**G. N. No. S 880/2005—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2005**|
+|77.|**G. N. No. S 880/2005—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2005**|
 ||Date of commencement|30 January 2006|
-|83.|**G. N. No. S 55/2006—Companies Act (Amendment of Second Schedule) Notification 2006**|
+|78.|**G. N. No. S 55/2006—Companies Act (Amendment of Second Schedule) Notification 2006**|
 ||Date of commencement|30 January 2006|
-|84.|**G. N. No. S 56/2006—Companies Act (Amendment of Eighth Schedule) Notification 2006**|
+|79.|**G. N. No. S 56/2006—Companies Act (Amendment of Eighth Schedule) Notification 2006**|
 ||Date of commencement|30 January 2006|
-|85.|**Act 11 of 2005—Trust Companies Act 2005**|
+|80.|**Act 11 of 2005—Trust Companies Act 2005**|
 ||Date of First Reading|25 January 2005|
 |||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
-|86.|**Act 9 of 2006—Residential Property (Amendment) Act 2006**|
+|81.|**Act 9 of 2006—Residential Property (Amendment) Act 2006**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 January 2006|
 |||(Bill No. 1/2006 published on 17 January 2006)|
 ||Date of Second and Third Readings|14 February 2006|
 ||Date of commencement|31 March 2006|
-|87.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
-||Date of First Reading|17 October 2005|
-|||(Bill No. 30/2005 published on 18 October 2005)|
-||Date of Second and Third Readings|21 November 2005|
-||Dates of commencement|1 April 2006 (items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34)(a) and (36) in First Schedule; and Third Schedule)|
-|88.|**Act 1 of 2006—Payment Systems (Oversight) Act 2006**|
+|82.|**Act 1 of 2006—Payment Systems (Oversight) Act 2006**|
 ||Date of First Reading|21 November 2005|
 |||(Bill No. 39/2005 published on 22 November 2005)|
 ||Date of Second and Third Readings|16 January 2006|
 ||Date of commencement|23 June 2006|
-|89.|**2006 Revised Edition—Companies Act**|
+|83.|**2006 Revised Edition—Companies Act**|
 ||Date of operation|31 October 2006|
-|90.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+|84.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
@@ -21453,128 +21513,128 @@ This Legislative History is provided for the convenience of users of the Compani
 
 |
 (with the exception of Sections 6, 8 and 11)|
-|91.|**Act 1 of 2007—Banking (Amendment) Act 2007**|
+|85.|**Act 1 of 2007—Banking (Amendment) Act 2007**|
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 13/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|31 March 2007|
-|92.|**Act 39 of 2007—Accounting Standards Act 2007**|
+|86.|**Act 39 of 2007—Accounting Standards Act 2007**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 July 2007|
 |||(Bill No. 27/2007 published on 17 July 2007)|
 ||Date of Second and Third Readings|27 August 2007|
 ||Date of commencement|1 November 2007|
-|93.|**G. N. No. S 604/2007—Companies Act (Amendment of Second Schedule) Notification 2007**|
+|87.|**G. N. No. S 604/2007—Companies Act (Amendment of Second Schedule) Notification 2007**|
 ||Date of commencement|5 November 2007|
-|94.|**G. N. No. S 605/2007—Companies Act (Amendment of Eighth Schedule) Notification 2007**|
+|88.|**G. N. No. S 605/2007—Companies Act (Amendment of Eighth Schedule) Notification 2007**|
 ||Date of commencement|5 November 2007|
-|95.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+|89.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2007|
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
-|96.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+|90.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|17 November 2008|
 |||(Bill No. 38/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|1st March 2009|
-|97.|**Act 5 of 2009—International Interests in Aircraft Equipment Act 2009**|
+|91.|**Act 5 of 2009—International Interests in Aircraft Equipment Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|17 November 2008|
 |||(Bill No. 37/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 May 2009|
-|98.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+|92.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
-|99.|**Act 22 of 2008—Mental Capacity Act 2008**|
+|93.|**Act 22 of 2008—Mental Capacity Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 13/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
-|100.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|94.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|101.|**Act 34 of 2010—Charities (Amendment) Act 2010**|
+|95.|**Act 34 of 2010—Charities (Amendment) Act 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|18 October 2010|
 |||(Bill No. 29/2010 published on 18 October 2010)|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|1 March 2011|
-|102.|**Act 16 of 2011—Insurance (Amendment) Act 2011**|
+|96.|**Act 16 of 2011—Insurance (Amendment) Act 2011**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|10 March 2011|
 |||(Bill No. 11/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 May 2011|
-|103.|**G.N. No. S 718/2011—Companies Act (Amendment of Second Schedule) Notification 2011**|
+|97.|**G.N. No. S 718/2011—Companies Act (Amendment of Second Schedule) Notification 2011**|
 ||Date of commencement|1 January 2012|
-|104.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
+|98.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|15 September 2008|
 |||(Bill No. 23/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|19 November 2012 (Sections 2(p), (t), (u), (v) and (w), 42, 76, 113(b) and (c), 118(a) to (e) and (h) and 119)|
-|105.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+|99.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013 (Bill No. 4/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|106.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+|100.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013 (Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|107.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+|101.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|15 October 2012 (Bill No. 31/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|15 November 2012|
 ||Date of commencement|1 August 2013|
-|108.|**G.N. No. S 704/2013—Companies Act (Amendment of Eighth Schedule) Notification 2013**|
+|102.|**G.N. No. S 704/2013—Companies Act (Amendment of Eighth Schedule) Notification 2013**|
 ||Date of commencement|2 December 2013|
-|109.|**G.N. No. S 97/2014—Companies Act (Amendment of Eighth Schedule) Notification 2014**|
+|103.|**G.N. No. S 97/2014—Companies Act (Amendment of Eighth Schedule) Notification 2014**|
 ||Date of commencement|24 February 2014|
-|110.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+|104.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
-|111.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
+|105.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 25/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|1 July 2015|
 |||3 January 2016|
 |||20 April 2018|
-|112.|**G.N. No. S 382/2015—Companies Act (Amendment of Second Schedule) Notification 2015**|
+|106.|**G.N. No. S 382/2015—Companies Act (Amendment of Second Schedule) Notification 2015**|
 ||Date of commencement|1 July 2015|
-|113.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
+|107.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
 ||Date of commencement|1 July 2015|
-|114.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
-||Date of First Reading|28 February 2017|
-|||(Bill No. 13/2017)|
-||Date of Second and Third Readings|10 March 2017|
-||Date of commencement|31 March 2017|
-|||23 May 2017|
-|||11 October 2017|
-|115.|**Act 21 of 2016—Employment Claims Act 2016**|
+|108.|**Act 21 of 2016—Employment Claims Act 2016**|
 ||Date of First Reading|11 July 2016|
 |||(Bill No. 20/2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 April 2017|
-|116.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+|109.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
 ||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|4 June 2018|
+|110.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
+||Date of Second and Third Readings|10 March 2017|
+||Date of commencement|31 March 2017|
+|||23 May 2017|
+|||11 October 2017|
+|||31 August 2018|
 ## COMPARATIVE TABLE
 
 Companies Act
