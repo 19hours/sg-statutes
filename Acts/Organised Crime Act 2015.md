@@ -2358,7 +2358,7 @@ Section 6
 
 Advancing or furnishing money to establish or conduct the business of a common gaming house or for the purpose of a public lottery
 
-Computer Misuse and Cybersecurity Act (Cap\. 50A) 
+Computer Misuse Act (Cap\. 50A) 
 
 19.
 
@@ -3198,9 +3198,11 @@ Section 148
 
 Keeping, managing or assisting in management of brothels
 
+[Act 9 of 2018 wef 31/08/2018]
+
 [S 423/2017 wef 31/07/2017]
 
-var printViewUrl = 'https://sso.agc.gov.sg/Act/OCA2015/Historical/20170731?DocDate=20180312&ValidDate=20170731'; var printViewFilter = {"DocType":"Act","DocNo":"OCA2015","QueryDate1":"20170731","DocStatus":"Historical","ValidDate":"20170731","ValidDt":null,"TransactionDate":null,"DocDate":"20180312","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'yty/qpOYVu657ot0qmG2YnZiRJHtsk723gy2n+mhVAX/C+sC0ePRiY0mZcT6PEBDDTQEWcaHb7qN9Vz8XSe86jI4JR49OYX4aXeL/cXHxVgXZvsMvhdffRmU7PBRcfV2rq++XXwF3BP91zfzDCarPGqtUDp6Cf3eItJGDyo4EriGQe01/kQSjRDtLRZ7uI9nLFHXtxIQAc5OuS1QYJWKKQ==';
+var printViewUrl = 'https://sso.agc.gov.sg/Act/OCA2015/Historical/20180831?DocDate=20190731&ValidDate=20180831'; var printViewFilter = {"DocType":"Act","DocNo":"OCA2015","QueryDate1":"20180831","DocStatus":"Historical","ValidDate":"20180831","ValidDt":null,"TransactionDate":null,"DocDate":"20190731","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'yty/qpOYVu657ot0qmG2YsFj9HxuAzSazVUAl5wtOr6oX0Cq4QFLtchiUUYqDX9cg/2gW3CfUHugVXzzfwM6YOMYQeHmzqgXJyKX/OqYNm8w/8Sqn7XPB2aa1r+bVTtXZ/iQ4K4idWKFiOlXfKmJPcS0rh9VoJyqtKDVyT5Ex/aRrp2UFW4Elq2nu8ZbZfFRt1Yxre216P+LgxBX4hR4OQ==';
 
 $(function () { initPrintView(); });
 
