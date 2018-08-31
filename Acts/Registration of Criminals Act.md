@@ -1206,7 +1206,7 @@ Companies Act [Cap. 50]
 
 Sections 158(9), 338, 401(2), 402, 404 and 406.
 
-Computer Misuse and Cybersecurity Act [Cap. 50A]
+Computer Misuse Act [Cap. 50A]
 
 …
 
@@ -1434,11 +1434,11 @@ Road Traffic Act [Cap. 276]
 
 Sections 66(1) and 96(1).
 
-Secondhand Dealers Act [Cap. 288 of the 1985 Revised Edition]
+Secondhand Dealers Act
 
 …
 
-Section 10(3).
+Cap. 288 of the 1985 Revised Edition
 
 Secondhand Goods Dealers Act 2007
 
@@ -1487,6 +1487,8 @@ Women’s Charter [Cap. 353]
 ...
 
 Sections 35 to 40 and the whole of Part X.
+
+[Act 9 of 2018 wef 31/08/2018]
 
 [Act 26 of 2018 wef 16/05/2018]
 
@@ -2092,3 +2094,7 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
 ||Date of Second and Third Readings|21 March 2018|
 ||Date of commencement|16 May 2018|
+|42.|**Act 9 of 2018—Cybersecurity Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|31 August 2018|
