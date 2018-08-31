@@ -1864,7 +1864,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (11) In this section —
 
-“computer” and “computer output” have the same meanings as in section 2(1) of the Computer Misuse and Cybersecurity Act (Cap. 50A);
+“computer” and “computer output” have the same meanings as in section 2(1) of the Computer Misuse Act (Cap. 50A);
+
+[Act 9 of 2018 wef 31/08/2018]
 
 “demand for information” means a demand by the Comptroller, the Chief Assessor or an officer authorised by either of them in that behalf to answer a question when in attendance before the Comptroller, the Chief Assessor or the officer pursuant to a notice under subsection (3);
 
@@ -2318,6 +2320,10 @@ This Legislative History is provided for the convenience of users of the Propert
 ||Date of First Reading|11 September 2017 (Bill No. 35/2017 published on 11 September 2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|23 October 2017|
+|26.|**Act 9 of 2018—Cybersecurity Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|31 August 2018|
 ## COMPARATIVE TABLE
 
 Property Tax Act
