@@ -354,9 +354,11 @@ to provide him with such reasonable technical and other assistance as he may req
 
 (3) Any person who contravenes a requirement made under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(4) In this section, “computer” has the same meaning as in section 2(1) of the Computer Misuse and Cybersecurity Act (Cap. 50A).
+(4) In this section, “computer” has the same meaning as in section 2(1) of the Computer Misuse Act (Cap. 50A).
 
 [Act 3 of 2013 wef 13/03/2013]
+
+[Act 9 of 2018 wef 31/08/2018]
 
 ### Forfeiture of optical discs, etc.
 
@@ -557,3 +559,7 @@ This Legislative History is provided for the convenience of users of the Manufac
 |||(Bill No. 36/2012 published on 12 November 2012)|
 ||Date of Second and Third Readings|14 January 2013|
 ||Date of commencement|13 March 2013|
+|4.|**Act 9 of 2018—Cybersecurity Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|31 August 2018|
