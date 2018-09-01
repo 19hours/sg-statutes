@@ -66,6 +66,8 @@
 
 - [25 Restrictions on deputies](#Restrictions-on-deputies)
 
+- [25A Professional deputies](#Professional-deputies)
+
 [**Part VI EXCLUDED DECISIONS AND DECLARATORY PROVISIONS**](#Part-VI)
 
 - [26 Excluded decisions](#Excluded-decisions)
@@ -177,6 +179,22 @@ PRELIMINARY
 “lasting power of attorney” has the meaning given to it in section 11;
 
 “life-sustaining treatment”, in relation to a person, means treatment which, in the view of another person providing health care for that person, is necessary to sustain life;
+
+“professional deputy” means a person —
+
+(a) who offers or provides the services of a deputy for remuneration; and
+
+(b) who is registered with the Public Guardian as a professional deputy;
+
+[Act 10 of 2016 wef 01/09/2018]
+
+“professional donee” means a person —
+
+(a) who is a professional deputy or is within a class of persons prescribed as qualified to be a professional donee; and
+
+(b) who offers or provides the services of a donee for remuneration;
+
+[Act 10 of 2016 wef 01/09/2018]
 
 “property” includes any thing in action and any interest in real or personal property;
 
@@ -460,9 +478,21 @@ confers no authority.
 
 12\.—(1) A donee of a lasting power of attorney must be —
 
-(a) an individual who has attained the age of 21 years; or
+(a) where the power relates only to P’s property and affairs —
 
-(b) if the power relates only to P’s property and affairs, either such an individual, or a person other than an individual who is within a class of persons prescribed as being eligible to be appointed as donees.
+(i) an individual who has attained the age of 21 years and provides to P the services of a donee without remuneration;
+
+(ii) an individual who is a professional donee and is not related to P by blood or marriage; or
+
+(iii) a professional donee who is not an individual; and
+
+(b) in any other case —
+
+(i) an individual who has attained the age of 21 years and provides to P the services of a donee without remuneration; or
+
+(ii) an individual who is a professional donee and is not related to P by blood or marriage.
+
+[Act 10 of 2016 wef 01/09/2018]
 
 (2) A person who is an undischarged bankrupt may not be appointed as donee of a lasting power of attorney in relation to P’s property and affairs.
 
@@ -668,21 +698,53 @@ and in this section, references to revoking the power include revoking the instr
 
 (i) to execute an instrument for the purpose of creating a lasting power of attorney; or
 
-(ii) to create a lasting power of attorney; or
+(ii) to create a lasting power of attorney;
 
-(b) that the donee (or, if more than one, any of them) of a lasting power of attorney —
+[Act 10 of 2016 wef 01/09/2018]
 
-(i) has behaved, or is behaving, in a way that contravenes his authority or is not in P’s best interests; or
+(b) that the donee (or any of the donees, if more than one) of a lasting power of attorney —
 
-(ii) proposes to behave in a way that would contravene his authority or would not be in P’s best interests.
+(i) is convicted, on or after the date of commencement of section 5 of the Mental Capacity (Amendment) Act 2016 (but not before the donee’s appointment under the lasting power of attorney), of an offence (whenever committed) of criminal misappropriation, criminal breach of trust, cheating, theft or extortion or any other offence involving fraud or dishonesty, whether as against P or another person;
+
+(ii) engages or has engaged in conduct that contravenes the donee’s authority, or that is not in P’s best interests (whether or not the donee is acting under a lasting power of attorney); or
+
+(iii) proposes to engage in conduct that would contravene the donee’s authority, or that would not be in P’s best interests (whether or not the donee is acting under a lasting power of attorney); or
+
+[Act 10 of 2016 wef 01/09/2018]
+
+(c) where the donee (or any of the donees, if more than one) of a lasting power of attorney is a professional donee, that —
+
+(i) the registration of the donee as a professional deputy is cancelled or the donee is no longer within a class of persons prescribed as qualified to be a professional donee; and
+
+(ii) P lacks capacity.
+
+[Act 10 of 2016 wef 01/09/2018]
 
 (4) The court may —
 
-(a) direct that an instrument purporting to create the lasting power of attorney is not to be registered; or
+(a) direct that an instrument purporting to create the lasting power of attorney is not to be registered;
 
-(b) if P lacks capacity to do so, revoke the instrument or the lasting power of attorney.
+[Act 10 of 2016 wef 01/09/2018]
 
-(5) If there is more than one donee, the court may under subsection (4)(b) revoke the instrument or the lasting power of attorney so far as it relates to any of them.
+(b) if P lacks capacity to do so, revoke the instrument or the lasting power of attorney; or
+
+[Act 10 of 2016 wef 01/09/2018]
+
+(c) in a case referred to in subsection (3)(c), revoke the instrument or the lasting power of attorney so far as it relates to the donee whose registration as a professional deputy is cancelled or who is no longer within a class of persons prescribed as qualified to be a professional donee.
+
+[Act 10 of 2016 wef 01/09/2018]
+
+(5) If there is more than one donee, the court may under subsection (4)(b) revoke the instrument or the lasting power of attorney in respect of all or such of the matters to which the lasting power of attorney relates as the court thinks fit, so far as it relates to any of the donees.
+
+[Act 10 of 2016 wef 01/09/2018]
+
+(5A) The court may under subsection (4)(b) or (c) revoke the instrument or the lasting power of attorney in respect of all or such of the matters to which the lasting power of attorney relates as the court thinks fit.
+
+[Act 10 of 2016 wef 01/09/2018]
+
+(5B) The court may make further orders or give directions as the court thinks necessary or expedient for giving effect to, or otherwise in connection with, the revocation of the instrument or the lasting power of attorney.
+
+[Act 10 of 2016 wef 01/09/2018]
 
 (6) In this section, “donee” includes an intended donee.
 
@@ -764,11 +826,23 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (7) An order of the court may be varied or discharged by a subsequent order.
 
-(8) The court may, in particular, revoke the appointment of a deputy or vary the powers conferred on him if it is satisfied that the deputy —
+(8) The court may, in particular, revoke the appointment of a deputy or vary the powers conferred on him if it is satisfied that —
 
-(a) has behaved, or is behaving, in a way that contravenes the authority conferred on him by the court or is not in P’s best interests; or
+(a) the deputy is convicted, on or after the date of commencement of section 6 of the Mental Capacity (Amendment) Act 2016 (but not before the deputy’s appointment by the court), of an offence (whenever committed) of criminal misappropriation, criminal breach of trust, cheating, theft or extortion or any other offence involving fraud or dishonesty, whether as against P or another person;
 
-(b) proposes to behave in a way that would contravene that authority or would not be in P’s best interests.
+[Act 10 of 2016 wef 01/09/2018]
+
+(b) the deputy engages or has engaged in conduct that contravenes the deputy’s authority conferred by the court, or that is not in P’s best interests (whether or not the deputy is acting under a court order);
+
+[Act 10 of 2016 wef 01/09/2018]
+
+(c) the deputy proposes to engage in conduct that would contravene the deputy’s authority conferred by the court, or that would not be in P’s best interests (whether or not the deputy is acting under a court order); or
+
+[Act 10 of 2016 wef 01/09/2018]
+
+(d) where the deputy is a professional deputy, the registration of the deputy as a professional deputy is cancelled.
+
+[Act 10 of 2016 wef 01/09/2018]
 
 [UK MCA 2005, s. 16]
 
@@ -860,9 +934,21 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 24\.—(1) A deputy appointed by the court must be —
 
-(a) an individual who has attained the age of 21 years; or
+(a) where the appointment confers powers relating only to P’s property and affairs —
 
-(b) as respects powers in relation to property and affairs, either such an individual, or a person other than an individual who is within a class of persons prescribed as being eligible to be appointed as donees.
+(i) an individual who has attained the age of 21 years and provides to P the services of a deputy without remuneration;
+
+(ii) an individual who is a professional deputy and is not related to P by blood or marriage; or
+
+(iii) a professional deputy who is not an individual; and
+
+(b) in any other case —
+
+(i) an individual who has attained the age of 21 years and provides to P the services of a deputy without remuneration; or
+
+(ii) an individual who is a professional deputy and is not related to P by blood or marriage.
+
+[Act 10 of 2016 wef 01/09/2018]
 
 (2) The court may appoint an individual as a deputy by appointing the holder for the time being of a specified office or position.
 
@@ -886,11 +972,17 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 
 (7) A deputy is to be treated as P’s agent in relation to anything done or decided by him within the scope of his appointment and in accordance with this Part.
 
-(8) The deputy is entitled —
+(8) A deputy under subsection (1)(a)(i) or (b)(i) is entitled to be reimbursed out of P’s property for the deputy’s reasonable expenses in discharging the deputy’s functions, but is not entitled to remuneration.
 
-(a) to be reimbursed out of P’s property for his reasonable expenses in discharging his functions; and
+[Act 10 of 2016 wef 01/09/2018]
 
-(b) if the court so directs when appointing him, to remuneration out of P’s property for discharging them.
+(8A) A deputy under subsection (1)(a)(ii) or (iii) or (b)(ii) is entitled —
+
+(a) to be reimbursed out of P’s property for the deputy’s reasonable expenses in discharging the deputy’s functions; and
+
+(b) to such remuneration, as the court determines, out of P’s property for discharging the deputy’s functions.
+
+[Act 10 of 2016 wef 01/09/2018]
 
 (9) The court may confer on a deputy powers to —
 
@@ -965,6 +1057,34 @@ GENERAL POWERS OF COURT AND APPOINTMENT OF DEPUTIES
 or if he authorises another person to do any of those things.
 
 [UK MCA 2005, s. 20]
+
+### Professional deputies
+
+25A\.—(1) Any person who intends to offer and provide the services of a deputy for remuneration must register with the Public Guardian as a professional deputy.
+
+(2) The Public Guardian may register a person as a professional deputy upon being satisfied that the person meets all the prescribed criteria.
+
+(3) A professional deputy’s registration under this section may be subject to such terms and conditions as may be specified by the Public Guardian.
+
+(4) The Public Guardian may cancel the registration of a professional deputy at the professional deputy’s request or upon the occurrence of any prescribed event.
+
+(5) Before cancelling a professional deputy’s registration upon the occurrence of any prescribed event, the Public Guardian must give the professional deputy written notice of the intention to cancel the registration.
+
+(6) The professional deputy may make representations to the Public Guardian within the prescribed period after receiving the notice in subsection (5).
+
+(7) The Public Guardian must consider any representations made by the professional deputy under subsection (6) before making a decision.
+
+(8) The Public Guardian must inform the professional deputy in writing of the decision within the prescribed period after the end of the period in subsection (6) for making representations.
+
+(9) Any person who is aggrieved by the Public Guardian’s refusal to register the person as a professional deputy or cancellation of the person’s registration as a professional deputy may within the prescribed period appeal to the Minister, whose decision is final.
+
+(10) Where a person’s registration as a professional deputy is cancelled, the Public Guardian must within the prescribed period inform all the following persons of the cancellation:
+
+(a) where the person has been appointed as a donee in any lasting power of attorney, the donor of the lasting power of attorney;
+
+(b) the prescribed person or persons, if any.
+
+[Act 10 of 2016 wef 01/09/2018]
 
 ## PART VI
 
@@ -1079,6 +1199,10 @@ PUBLIC GUARDIAN AND BOARD OF VISITORS
 (a) establishing and maintaining a register of lasting powers of attorney;
 
 (b) establishing and maintaining a register of orders appointing deputies;
+
+(ba) establishing and maintaining a register of professional deputies;
+
+[Act 10 of 2016 wef 01/09/2018]
 
 (c) supervising deputies appointed by the court;
 
@@ -1618,7 +1742,17 @@ and P is 16 years of age or above.
 
 ### Regulations
 
-46\. The Minister may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Act and for prescribing anything that may be required or authorised to be prescribed by this Act.
+46\.—(1) The Minister may make such regulations as may be necessary or expedient for carrying out the purposes and provisions of this Act and for prescribing anything that may be required or authorised to be prescribed by this Act.
+
+[Act 10 of 2016 wef 01/09/2018]
+
+(2) The regulations made under subsection (1) may, in particular —
+
+(a) prescribe different classes of professional donees, and provide for matters relating to professional donees; and
+
+(b) provide for matters relating to professional deputies, including but not limited to their duties, the registration of professional deputies by the Public Guardian, applications for registration, exemptions from one or more criteria for registration and cancellation of registration.
+
+[Act 10 of 2016 wef 01/09/2018]
 
 ### Savings and transitional provisions
 
@@ -2298,3 +2432,7 @@ This Legislative History is provided for the convenience of users of the Mental 
 ||Date of First Reading|13 July 2015 (Bill No. 25/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|1 November 2017|
+|13.|**Act 10 of 2016—Mental Capacity (Amendment) Act 2016**|
+||Date of First Reading|29 February 2016 (Bill No. 11/2016 published on 29 February 2016)|
+||Date of Second and Third Readings|14 March 2016|
+||Date of commencement|1 September 2018|
