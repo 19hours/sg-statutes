@@ -10,19 +10,21 @@
 
 - [2 Interpretation](#Interpretation)
 
+- [2A Application of Act](#Application-of-Act)
+
 - [3 Delegation of functions](#Delegation-of-functions)
 
 - [4 Cess to be paid into Fund](#Cess-to-be-paid-into-Fund)
 
-- [5 Imposition of cess](#Imposition-of-cess)
+- [5 Cess payable](#Cess-payable)
 
-- [6 Person liable to pay cess](#Person-liable-to-pay-cess)
+- [6 Tourism event establishment liable to pay cess](#Tourism-event-establishment-liable-to-pay-cess)
 
 - [7 (Repealed)](#Repealed)
 
-- [8 Power of Chief Executive to obtain information](#Power-of-Chief-Executive-to-obtain-information)
+- [8 Power to enter premises, etc.](#Power-to-enter-premises-etc)
 
-- [9 Keeping of books of account and giving of receipts](#Keeping-of-books-of-account-and-giving-of-receipts)
+- [9 Keeping of records and giving of receipts](#Keeping-of-records-and-giving-of-receipts)
 
 - [10 Duty to inform](#Duty-to-inform)
 
@@ -34,9 +36,9 @@
 
 - [14 Suit for cess and penalty by Board](#Suit-for-cess-and-penalty-by-Board)
 
-- [15 Return of cess or penalty overpaid or erroneously paid](#Return-of-cess-or-penalty-overpaid-or-erroneously-paid)
+- [15 Refund or return of cess or penalty overpaid or erroneously paid](#Refund-or-return-of-cess-or-penalty-overpaid-or-erroneously-paid)
 
-- [16 Payment of cess short levied or erroneously refunded](#Payment-of-cess-short-levied-or-erroneously-refunded)
+- [16 Payment of underpaid cess or penalty, etc.](#Payment-of-underpaid-cess-or-penalty-etc)
 
 - [17 Incorrect return](#Incorrect-return)
 
@@ -44,7 +46,7 @@
 
 - [19 Obstructing officer of Board](#Obstructing-officer-of-Board)
 
-- [20 Power to remit and exempt](#Power-to-remit-and-exempt)
+- [20 Power to exempt and remit](#Power-to-exempt-and-remit)
 
 - [21 (Repealed)](#Repealed)
 
@@ -94,31 +96,91 @@ An Act for the collection of cess by the Singapore Tourism Board.
 
 “Fund” means the Tourism Fund established under section 15 of the Singapore Tourism Board Act;
 
-“licensed premises” and “liquor licence” have the same meanings as in section 2(1) of the Liquor Control (Supply and Consumption) Act 2015 (Act 5 of 2015);
+[Deleted by Act 28 of 2018 wef 06/09/2018]
 
-[Act 16 of 2016 wef 10/06/2016]
+“product” means any one or more of the following:
 
-“proprietor”, in relation to —
+(a) any travel product within the meaning of the Travel Agents Act (Cap. 334);
 
-(a) a tourist hotel, includes any person responsible for the management thereof and also includes any person who holds a licence granted under the Hotels Act (Cap. 127) in respect of that hotel;
+(b) any goods (including any food or beverage intended for human consumption);
 
-(b) a tourist food establishment, includes any person responsible for the management of the tourist food establishment and also includes any person who holds a licence issued under the Environmental Public Health Act (Cap. 95) in respect of that food establishment;
+[Act 28 of 2018 wef 06/09/2018]
 
-(c) a tourist public house, includes any person responsible for the management of the tourist public house and also includes any person who holds a licence issued under the Customs Act (Cap. 70) in respect of that public house;
+[Deleted by Act 28 of 2018 wef 06/09/2018]
 
-“tourist food establishment” means any place or any premises or part thereof used for the sale or for the preparation for sale of food and drink, whether cooked or not, intended for human consumption which is declared by the Minister, by notification in theGazette, to be a tourist food establishment;
+“record” means any record of information however recorded, and includes —
 
-“tourist hotel” means any premises registered as a hotel under the Hotels Act (Cap. 127) which are declared by the Minister, by notification in theGazette, to be a tourist hotel;
+(a) anything on which there is writing or Braille;
 
-“tourist public house” means any licensed premises —
+(b) a map, plan, chart, graph, picture or photograph;
 
-(a) in respect of which a Class 1A liquor licence has been granted under the Liquor Control (Supply and Consumption) Act 2015;
+(c) anything from which images, sounds or writing can be reproduced; and
 
-(b) in respect of which a Class 5 liquor licence (providing for the supply of liquor on the same terms as under a Class 1A liquor licence) has been granted under that Act for a continuous period of more than 6 days; or
+(d) anything on which information has been stored or recorded;
 
-(c) in respect of which a Class 1B liquor licence, or a Class 5 liquor licence (providing for the supply of liquor on the same terms as under a Class 1B liquor licence), has been granted under that Act, and which is declared by the Minister, by notification in theGazette, to be a tourist public house.
+[Act 28 of 2018 wef 06/09/2018]
 
-[Act 16 of 2016 wef 10/06/2016]
+“service” means any service relating to any one or more of the following:
+
+(a) arts or entertainment;
+
+(b) leisure, recreation or sports;
+
+(c) personal care, wellness or assistance;
+
+(d) transport, other than transport by use of a regular route service within the meaning of the Bus Services Industry Act 2015 (Act 30 of 2015) or a train service within the meaning of the Public Transport Council Act (Cap. 259B);
+
+(e) business meetings, incentive travel, conferences, conventions and exhibitions (commonly known as MICE);
+
+[Act 28 of 2018 wef 06/09/2018]
+
+“taxable transaction connected with a tourism event” has the meaning given by section 5(2);
+
+[Act 28 of 2018 wef 06/09/2018]
+
+“tourism event” means any event or series of related activities taking place in Singapore —
+
+(a) that promotes Singapore as a travel or tourist destination; or
+
+(b) that is intended wholly or partly for the benefit of, or for the purpose of attracting, visitors to Singapore;
+
+[Act 28 of 2018 wef 06/09/2018]
+
+“tourism event establishment” means a person prescribed in an order made under section 5;
+
+[Act 28 of 2018 wef 06/09/2018]
+
+“tourism event premises” means any premises used or to be used for the conduct of a tourism event by the organiser of that event;
+
+[Act 28 of 2018 wef 06/09/2018]
+
+[Deleted by Act 28 of 2018 wef 06/09/2018]
+
+[Deleted by Act 28 of 2018 wef 06/09/2018]
+
+[Deleted by Act 28 of 2018 wef 06/09/2018]
+
+“transaction” means any arrangement made by a person in the course of carrying on a business in Singapore —
+
+(a) for the provision, or to facilitate the provision, of the use of any tourism event premises, accommodation, products or services, to another person; or
+
+(b) where the use of any tourism event premises, accommodation, products or services in contemplation of which an arrangement in paragraph (a) was made does not take place,
+
+whether or not —
+
+(i) the other person is in Singapore;
+
+(ii) the arrangement is at the request of the other person; or
+
+(iii) any consideration is given for the arrangement.
+
+[Act 28 of 2018 wef 06/09/2018]
+
+### Application of Act
+
+2A\. This Act does not apply to any tourism event premises, accommodation, product or service provided or to be provided by the Government, or a body established by or under a public Act for a public purpose.
+
+[Act 28 of 2018 wef 06/09/2018]
 
 ### Delegation of functions
 
@@ -132,99 +194,181 @@ An Act for the collection of cess by the Singapore Tourism Board.
 
 4\. All moneys collected under this Act shall be paid into the Fund.
 
-### Imposition of cess
+### Cess payable
 
-5\.—(1) The Minister may from time to time, by order published in theGazette, declare a tourist event to which this section applies (hereinafter referred to as a declared tourist event) and the period of the declared tourist event.
+5\.—(1) Cess is payable at the amount prescribed by the Minister by order in theGazetteon every taxable transaction connected (in the manner provided in subsection (2)) with a tourism event to which the order relates.
 
-(2) There shall be levied under any order made under subsection (1) in respect of such descriptions of sales made, and of charges levied or collected, during the period of the declared tourist event by such tourist hotels, tourist food establishments and tourist public houses as shall be specified in the order, a cess at such rates as shall be specified in the order.
+(2) In this Act, a transaction is a taxable transaction connected with a tourism event if —
 
-(3) The Minister shall consult the Board before making an order under subsection (1).
+(a) the use of the tourism event premises, accommodation, product or service under the transaction is or is to be provided, or (where paragraph (b) of the definition of “transaction” in section 2 applies) could have been provided, during a period during which the tourism event is held, being a period which may include any time before or after the event is held (called in this section a taxable period); and
 
-(4) For the purposes of subsection (2), any sales or charges on which cess is levied shall exclude the amount of any goods and services tax charged on the supply to which the sales or charges relate.
+(b) the transaction, which satisfies paragraph (a), is prescribed in an order under subsection (1) to be a taxable transaction connected with that tourism event.
 
-(5) Any order made under subsection (1) may provide for different rates of cess in respect of —
+(3) A transaction is not to be treated as other than a taxable transaction by reason only that —
 
-(a) the same description of sales made, and of charges levied or collected, by tourist hotels, tourist food establishments and tourist public houses in different circumstances; and
+(a) the transaction is made with a person who is not a visitor to Singapore;
 
-(b) different descriptions of sales made, and of charges levied or collected, by tourist hotels, tourist food establishments and tourist public houses in the same circumstances.
+(b) the transaction is made for any purpose other than for purposes of any tourism event;
 
-(6) In this section, “tourist event” means any activity that —
+(c) the transaction is terminated for any reason; or
 
-(a) promotes Singapore as a travel or tourist destination; or
+(d) the tourism event premises, accommodation, product or service to be provided under the transaction, is not provided or used for any reason.
 
-(b) is intended wholly or partly for the benefit of, or for the purpose of attracting, visitors to Singapore.
+(4) An order under subsection (1) must specify or describe —
 
-[16/2008 wef 19/09/2008]
+(a) the tourism event to which the order relates;
 
-### Person liable to pay cess
+(b) the taxable transactions connected with a tourism event on which cess is payable;
 
-6\. The cess levied in respect of sales made, and charges levied or collected, by a tourist hotel, a tourist food establishment or a tourist public house as specified in any order under section 5 shall be accounted for and paid by the proprietor of the tourist hotel, the tourist food establishment or the tourist public house, as the case may be, to the Board within the time and in the manner prescribed by the Board.
+(c) the tourism event establishments making the taxable transactions connected with a tourism event;
 
-[16/2008 wef 19/09/2008]
+(d) the taxable period for the taxable transactions connected with a tourism event; and
+
+(e) the amount of the cess.
+
+(5) For the purposes of subsection (4)(e), the amount of cess payable on a taxable transaction connected with a tourism event may be prescribed in an order under subsection (1) as a rate based on —
+
+(a) the gross receipts derived from the taxable transaction; or
+
+(b) an amount treated as the gross receipts derived from the taxable transaction —
+
+(i) that is terminated; or
+
+(ii) for which no or partial consideration is given,
+
+and the order may further provide for the method by which such gross receipts or amount treated as the gross receipts are to be determined.
+
+(6) An order under subsection (1) may prescribe different taxable periods, different amounts of cess, or different methods of determining the gross receipts or amounts treated as the gross receipts —
+
+(a) for different taxable transactions connected with a tourism event;
+
+(b) for different tourism event premises, accommodation, products or services;
+
+(c) for different tourism events or tourism event establishments; or
+
+(d) on any other differential basis.
+
+(7) In determining the “gross receipts” or “an amount treated as the gross receipts”, there must be excluded the amount of any goods and services tax chargeable on any supply of goods or services comprised in that taxable transaction connected with a tourism event.
+
+(8) No person is relieved from liability to pay cess on a taxable transaction connected with a tourism event by reason of the fact that the person ceases during a taxable period to carry on business in Singapore.
+
+[Act 28 of 2018 wef 06/09/2018]
+
+### Tourism event establishment liable to pay cess
+
+6\.—(1) Cess payable on a taxable transaction connected with a tourism event is payable by the tourism event establishment making the taxable transaction.
+
+(2) Cess must be accounted for and paid within the time prescribed by regulations made under this Act.
+
+(3) Cess must be paid to the Board in the manner required by the Board.
+
+[Act 28 of 2018 wef 06/09/2018]
 
 7\. [Repealed by Act 16/2008 wef 19/09/2008]
 
-### Power of Chief Executive to obtain information
+### Power to enter premises, etc.
 
-8\.—(1) The Chief Executive or an officer or agent of the Board authorised by the Chief Executive shall at all times have full and free access to all buildings, places, books, documents and other papers to enable the Board to advise the Minister as to —
+8\.—(1) The Chief Executive, or an officer or agent of the Board authorised by the Chief Executive, is entitled, at all reasonable times, to full and free access to any premises that the Chief Executive, officer or agent (as the case may be) reasonably believes are relevant premises, to do all or any of the following for relevant purposes:
 
-(a) whether any tourist hotel, tourist food establishment or tourist public house should be specified in any order under section 5; or
+(a) to inspect the premises;
 
-(b) the amount of cess to be paid by any person under this Act,
+(b) without any fee or reward, to inspect, make copies of, or take extracts from, any record;
 
-and may, without fee or reward, inspect, copy or make extracts from any such books, documents or papers.
+(c) to take possession of any record if, in the opinion of the Chief Executive, officer or agent, as the case may be —
 
-[16/2008 wef 19/09/2008]
+(i) the inspection or copy of, or extract from, the record cannot reasonably be performed without taking possession;
 
-(2) The Chief Executive or an officer or agent of the Board authorised by the Chief Executive in that behalf may take possession of any such books, documents or papers where in his opinion —
+(ii) the record may be interfered with or destroyed unless possession is taken; or
 
-(a) the inspection, copying or extraction thereof cannot reasonably be performed without taking possession;
+(iii) the record may be required as evidence in proceedings for an offence under this Act or any regulations made under this Act, or in proceedings for the recovery of cess.
 
-(b) the books, documents or papers may be interfered with or destroyed unless possession is taken; or
+(2) In this section —
 
-(c) the books, documents or papers may be required as evidence in proceedings for an offence under this Act or in proceedings for the recovery of cess.
+“relevant premises” means —
 
-### Keeping of books of account and giving of receipts
+(a) any premises owned or occupied by a person who is, or could be prescribed as, a tourism event establishment; or
 
-9\.—(1) Subject to subsection (2), every person liable to pay cess under the provisions of this Act shall keep and retain for a minimum period of 2 years in safe custody —
+(b) any premises where any record relating to cess payable under this Act is or is likely to be kept;
 
-(a) records that had been provided to the Chief Executive or an officer or agent of the Board authorised by the Chief Executive under section 8(1); and
+“relevant purposes” means any one or both of the following purposes:
+
+(a) to administer or enforce this Act or any order or regulations made under this Act, including to enable the Board to ascertain the amount of cess payable by any person under this Act;
+
+(b) to enable the Board to provide its views to the Minister on any matter to be prescribed in an order to be made under section 5.
+
+[Act 28 of 2018 wef 06/09/2018]
+
+### Keeping of records and giving of receipts
+
+9\.—(1) Subject to subsection (2), every person liable to pay cess under the provisions of this Act shall keep and retain for a minimum period in safe custody —
+
+(a) records provided by the person under section 8(1) to the Chief Executive or an officer or agent of the Board authorised by the Chief Executive;
+
+[Act 28 of 2018 wef 06/09/2018]
+
+(aa) records of the information provided by the person under section 10(3) to the Chief Executive or an officer or agent of the Board authorised by the Chief Executive; and
+
+[Act 28 of 2018 wef 06/09/2018]
 
 (b) sufficient records to enable the amount of cess payable under any order made under section 5 to be readily ascertained by the Chief Executive or an officer or agent of the Board authorised by the Chief Executive.
 
 [16/2008 wef 19/09/2008]
 
-(1A) Where a machine is used for recording sales and charges collected, a receipt may be dispensed with if the Chief Executive or an officer or agent of the Board authorised by the Chief Executive in that behalf is satisfied that —
+[Act 28 of 2018 wef 06/09/2018]
 
-(a) such machine substantially records all sales made and all charges collected; and
+(1A) Where a machine is used for recording taxable transactions connected with a tourism event, receipts of those transactions may be dispensed with if the Chief Executive, or an officer or agent of the Board authorised by the Chief Executive, is satisfied that —
 
-(b) the total of all sales made and all charges collected in each day is transferred at the end of such day to a record of sales and of charges collected.
+(a) the machine records all of those transactions;
+
+(b) a record of all of those transactions for each day and (if applicable) the consideration given for each transaction, is made by the end of each day; and
+
+(c) the record mentioned in paragraph (b) fulfils the requirements of subsection (1)(b).
+
+[Act 28 of 2018 wef 06/09/2018]
 
 (2) The Chief Executive or an officer or agent of the Board duly authorised by the Chief Executive in that behalf may in respect of any class or description of persons who are liable to pay cess under this Act —
 
-(a) direct them to keep and retain the records referred to in subsection (1)(a) in the form and manner approved by the Chief Executive or an officer or agent of the Board, as the case may be;
+(a) direct them to keep and retain the records referred to in subsection (1)(a) and (aa) in the form and manner approved by the Chief Executive or an officer or agent of the Board, as the case may be;
+
+[Act 28 of 2018 wef 06/09/2018]
 
 (b) direct them to issue and retain the receipts and their duplicates referred to in subsection (1)(b) in the form and manner approved by the Chief Executive or an officer or agent of the Board, as the case may be.
 
 (3) The Chief Executive or an officer or agent of the Board duly authorised by the Chief Executive in that behalf may waive all or any of the provisions of subsection (1) or (1A) in respect of any person or records or any class of persons or records.
 
-(4) For the purposes of this section, “records” includes —
+(4) In this section, “minimum period”, in relation to the keeping and retention of a record, means —
 
-(a) books of account recording receipts or payments or income or expenditure; and
+(a) subject to paragraph (b), for every record provided or made before the date of commencement of section 6 of the Singapore Tourism (Cess Collection) (Amendment) Act 2018 — 2 years after the record was provided or made, as the case may be; and
 
-(b) invoices, vouchers, receipts and such other documents as in the opinion of the Chief Executive or an officer or agent of the Board, as the case may be, are necessary to verify the entries in any book of account.
+(b) for every record provided (whenever made) or made on or after the date of commencement of section 6 of the Singapore Tourism (Cess Collection) (Amendment) Act 2018 — 5 years (or such longer period as may be prescribed in substitution by regulations made under this Act) after the record was provided or made, as the case may be.
+
+[Act 28 of 2018 wef 06/09/2018]
 
 (5) Any person who contravenes or fails to comply with this section or any direction of the Chief Executive or an officer or agent of the Board issued pursuant to this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
+[Act 28 of 2018 wef 06/09/2018]
+
 ### Duty to inform
 
-10\.—(1) Every person liable to pay cess under this Act shall, within 7 days of the date of commencement or cessation of any business carried on by him in respect of which cess may be levied on any transaction relating thereto, inform the Board in writing of the business carried on by him.
+10\.—(1) Every person liable to pay cess under this Act shall, within 7 days of the date of commencement or cessation of any business carried on by him in respect of which cess is payable on any transaction relating thereto, inform the Board in writing of the business carried on by him.
+
+[Act 28 of 2018 wef 06/09/2018]
 
 (2) Every person liable to pay cess under this Act shall inform the Board in writing of any change of his place of business.
 
-(3) The Chief Executive may by written notice require any person to provide him with such information as he may require for the purpose of section 8(1) within the period specified in the written notice.
+(3) The Chief Executive, or an officer or agent of the Board authorised by the Chief Executive, may, by written notice under subsection (3A), require any person to provide the Chief Executive, officer or agent with information that the Chief Executive, officer or agent (as the case may be) considers necessary for any one or both of the relevant purposes mentioned in section 8(2).
 
-[16/2008 wef 19/09/2008]
+[Act 28 of 2018 wef 06/09/2018]
+
+(3A) The written notice may specify —
+
+(a) the form and manner in which the information must be provided;
+
+(b) the time by which the information must be provided; and
+
+(c) the frequency with which the information must be provided during a period specified in the written notice, which period must not exceed 5 years (or such longer period as may be prescribed in substitution by regulations made under this Act) after the date of the written notice.
+
+[Act 28 of 2018 wef 06/09/2018]
 
 (4) Any person who contravenes or fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
@@ -232,13 +376,17 @@ and may, without fee or reward, inspect, copy or make extracts from any such boo
 
 ### Recovery of cess
 
-11\. Without prejudice to any other remedy, any cess levied under this Act may be recovered as a debt due to the Board from the person accountable therefor.
+11\. Without prejudice to any other remedy, any cess payable under this Act may be recovered as a debt due to the Board from the person accountable therefor.
+
+[Act 28 of 2018 wef 06/09/2018]
 
 ### Recovery of cess on basis of Board’s estimate
 
 12\.—(1) Where an amount is due from any person on account of cess, and such cess is not accounted for and paid to the Board within the prescribed time, the Board may estimate the amount of cess due.
 
-(2) Where an amount is due from any person on account of cess, but by reason of his failure to keep or to produce or furnish to the Board the accounts, records or other documents required by this Act or any regulations made thereunder or to take or permit to be taken any other step which he is so required to take or permit to be taken or by reason of the accounts, records or other documents kept, produced or furnished being materially incomplete or inaccurate, the Board is unable to ascertain the amount of cess properly due from him, the Board may estimate the amount of cess due.
+(2) Where an amount is due from any person on account of cess, but by reason of his failure to keep or to produce or furnish to the Board the accounts or records required by this Act or any regulations made thereunder or to take or permit to be taken any other step which he is so required to take or permit to be taken or by reason of the accounts or records kept, produced or furnished being materially incomplete or inaccurate, the Board is unable to ascertain the amount of cess properly due from him, the Board may estimate the amount of cess due.
+
+[Act 28 of 2018 wef 06/09/2018]
 
 (3) Where an estimate of the amount of cess due from any person has been made under subsection (1) or (2), then (without prejudice to the recovery of the full amount due or to the making of a further estimate in that behalf) the amount estimated shall be recoverable as cess properly due unless in an action relating thereto the person liable proves the amount properly due and that amount is less than the amount estimated.
 
@@ -266,15 +414,29 @@ and may, without fee or reward, inspect, copy or make extracts from any such boo
 
 (2) In any suit under subsection (1), the production of a certificate signed by the Chief Executive giving the name and address of the defendant and the amount of cess and penalty due by him shall be sufficient evidence of the amount so due and sufficient authority for the court to give judgment for that amount.
 
-### Return of cess or penalty overpaid or erroneously paid
+### Refund or return of cess or penalty overpaid or erroneously paid
 
-15\.—(1) It shall be lawful for the Board, if it is proved to the satisfaction of the Board that any money has been over-paid or erroneously paid as cess or penalty under this Act, to order the refund of the money so over-paid or erroneously paid.
+15\.—(1) Except as provided in this section, no person is entitled to any refund of any money that was overpaid, or return of any money that was erroneously paid, as cess or penalty under this Act.
 
-(2) No such refund shall be allowed unless a claim in respect thereof is made in writing within one year after the over-payment or erroneous payment was made.
+(2) A person who overpaid or erroneously paid any money as cess or penalty under this Act may make a claim to the Board for the refund of the money overpaid or return of the money erroneously paid.
 
-### Payment of cess short levied or erroneously refunded
+(3) A refund or return to a person of any money that is the subject of a claim under subsection (2) may be made only if —
 
-16\. Whenever any cess or penalty under this Act has been short levied or erroneously refunded for any reason or owing to any cause, the person who should have paid the amount short levied or to whom the refund has been erroneously refunded shall pay the deficiency or repay the amount erroneously refunded to him on demand being made within one year of the date of the short levy or refund.
+(a) the person makes the claim within one year after the date of the overpayment or erroneous payment;
+
+(b) the claim is in the form and manner required by the Board; and
+
+(c) the Board is satisfied that there was an overpayment or erroneous payment.
+
+[Act 28 of 2018 wef 06/09/2018]
+
+### Payment of underpaid cess or penalty, etc.
+
+16\.—(1) This section applies where for any reason or owing to any cause, a person underpays any cess or penalty under this Act, or is refunded or returned any money under section 15 despite not being entitled to such refund or return.
+
+(2) The person mentioned in subsection (1) must, on demand being made by the Board within one year after the date of the underpayment, or erroneous refund or return, pay the deficiency or repay the money erroneously refunded or returned (as the case may be) to the Board.
+
+[Act 28 of 2018 wef 06/09/2018]
 
 ### Incorrect return
 
@@ -292,7 +454,9 @@ and may, without fee or reward, inspect, copy or make extracts from any such boo
 
 (c) gives any false answer whether verbally or in writing to any question or request for information asked or made in accordance with the provisions of this Act or any regulations made thereunder;
 
-(d) prepares or maintains or authorises the preparation or maintenance of any false book of accounts or other records or falsifies or authorises the falsification of any book of accounts or records; or
+(d) prepares or maintains or authorises the preparation or maintenance of any false book of accounts or other records or falsifies or authorises the falsification of any book of accounts or other records; or
+
+[Act 28 of 2018 wef 06/09/2018]
 
 (e) makes use of any fraud, art or contrivance whatsoever or authorises the use of any such fraud, art or contrivance,
 
@@ -304,11 +468,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 19\. Any person who obstructs or hinders any officer or agent of the Board acting in the discharge of his duty under this Act or any regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-### Power to remit and exempt
+### Power to exempt and remit
 
-20\.—(1) The Minister may, if he thinks fit, remit the whole or any part of the cess paid under this Act.
+20\.—(1) The Minister may, by order in theGazette, exempt any person or class of persons from all or any of the provisions of this Act, either generally or in a particular case and subject to such conditions as the Minister may impose.
 
-(2) The Minister may, if he thinks fit, and upon such conditions as he may impose, exempt any tourist hotel, tourist food establishment and tourist public house from payment of cess levied under this Act.
+(2) The Minister may remit the whole or any part of the cess payable by any person under this Act, if the Minister is satisfied that it is just and equitable to do so.
+
+(3) The Board must, following the Minister’s decision under subsection (2) and if the amount remitted has been paid to the Board by the person mentioned in that subsection, return that amount to the person.
+
+[Act 28 of 2018 wef 06/09/2018]
 
 21\. [Repealed by Act 16/2008 wef 19/09/2008]
 
@@ -412,3 +580,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|16.|**Act 28 of 2018—Singapore Tourism (Cess Collection) (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 25/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|6 September 2018|
