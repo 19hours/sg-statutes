@@ -466,7 +466,13 @@ PRELIMINARY
 
 (c) every holder of an aviation safety instrument while outside Singapore and exercising or purporting to exercise privileges accorded by that instrument;
 
-(d) every person in, or any of the crew of, any Singapore registered aircraft or aircraft operated by a Singapore operator, wherever they may be, in so far as this Act prohibits, requires or regulates the doing of anything by such persons in, or by any of the crew of, Singapore registered aircraft or aircraft operated by a Singapore operator; and
+(d) every person in, or any of the crew of, any Singapore registered aircraft or aircraft operated by a Singapore operator, wherever they may be, in so far as this Act prohibits, requires or regulates the doing of anything by such persons in, or by any of the crew of, Singapore registered aircraft or aircraft operated by a Singapore operator;
+
+[Act 32 of 2018 wef 15/09/2018]
+
+(da) every person in any aircraft (not being a Singapore registered aircraft or an aircraft operated by a Singapore operator) who commits any act or omission on board the aircraft while in flight elsewhere than in or over Singapore, insofar as this Act prohibits, requires or regulates the doing of anything by the person in the aircraft, and the aircraft subsequently lands in Singapore with the person who committed the act or omission still on board the aircraft; and
+
+[Act 32 of 2018 wef 15/09/2018]
 
 (e) every other person wherever they may be, in so far as any provision of this Act prohibits, requires or regulates the doing of anything in relation to any Singapore registered aircraft or aircraft operated by a Singapore operator, by such other persons.
 
@@ -1959,9 +1965,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [10/2014]
 
-(6) For the purposes of this section, an aircraft is in flight from the time when all its external doors are closed after embarkation until the time when any external door is opened for disembarkation.
+(6) For the purposes of this section, an aircraft is in flight —
 
-[10/2014]
+(a) from the time when all external doors of the aircraft are closed following embarkation for a flight until the time when any such door is opened for disembarkation;
+
+(b) if the aircraft makes a forced landing in any country or territory other than Singapore, from the time when all external doors of the aircraft are closed following embarkation for a flight until the time when the competent authorities of the country or territory in which the forced landing takes place take over responsibility for the aircraft and for the persons and property on board the aircraft; and
+
+(c) if the aircraft makes a forced landing in Singapore, from the time when all external doors of the aircraft are closed following embarkation for a flight until the time when a police officer arrives at the place of landing,
+
+and any reference in this Act to an aircraft in flight includes a reference to an aircraft during any period when the aircraft is on the surface of the sea or land but not within the territorial limits of any country.
+
+[Act 32 of 2018 wef 15/09/2018]
 
 ### Dangerous activity involving aircraft, aeronautical product, etc.
 
@@ -3672,6 +3686,10 @@ This Legislative History is provided for the convenience of users of the Air Nav
 ||Date of First Reading|28 February 2018 (Bill No. 13/2018 published on 28 February 2018)|
 ||Date of Second and Third Readings|19 March 2018|
 ||Date of commencement|29 June 2018|
+|16.|**Act 32 of 2018—Tokyo Convention (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 22/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|15 September 2018|
 ## COMPARATIVE TABLE
 
 Air Navigation Act
