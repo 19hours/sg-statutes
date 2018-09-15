@@ -10,7 +10,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Application of criminal law to aircraft](#Application-of-criminal-law-to-aircraft)
+- [3 Application of criminal law to certain act or omission on aircraft](#Application-of-criminal-law-to-certain-act-or-omission-on-aircraft)
 
 - [4 Provisions as to extradition](#Provisions-as-to-extradition)
 
@@ -32,7 +32,9 @@ REVISED EDITION 1985
 
 (30th March 1987)
 
-An Act to make provision with a view to the ratification on behalf of the Republic of Singapore of the Convention on Offences and certain other Acts Committed on board Aircraft, signed at Tokyo on 14th September 1963.
+An Act to give effect to the Convention on Offences and Certain Other Acts Committed on Board Aircraft, signed at Tokyo on 14 September 1963, and the Protocol to Amend the Convention on Offences and Certain Other Acts Committed on Board Aircraft, signed at Montreal on 4 April 2014, and for purposes connected with the Convention or Protocol.
+
+[Act 32 of 2018 wef 15/09/2018]
 
 [1st January 1972]
 
@@ -58,43 +60,63 @@ An Act to make provision with a view to the ratification on behalf of the Republ
 
 “military aircraft” means an aircraft of the naval, military or air forces of any country;
 
+“Montreal Protocol” means the Protocol to Amend the Convention on Offences and Certain Other Acts Committed on Board Aircraft, signed at Montreal on 4 April 2014;
+
+[Act 32 of 2018 wef 15/09/2018]
+
 “operator”, in relation to any aircraft at any time, means the person who at that time has the management of that aircraft;
 
 “pilot in command”, in relation to an aircraft, means a person who for the time being is in charge of the piloting of the aircraft without being under the direction of any other pilot in the aircraft;
+
+“Protocol country” means a country which has been declared by the Minister, by notification in theGazette, to have ratified or acceded to the Montreal Protocol, and has not been so declared to have denounced the Montreal Protocol;
+
+[Act 32 of 2018 wef 15/09/2018]
 
 “Singapore-controlled aircraft” means an aircraft —
 
 (a) which is for the time being registered in Singapore; or
 
-(b) which, being for the time being registered in some other country, is for the time being chartered by demise to a person who, or to persons each of whom, satisfies the following requirements:
+(b) which is leased without crew to a lessee whose principal place of business, or (if the lessee has no such place of business) whose permanent residence, is in Singapore;
 
-(i) that he is a person qualified to be the owner of a legal or beneficial interest in an aircraft registered in Singapore; and
-
-(ii) that he resides or has his principal place of business in Singapore;
+[Act 32 of 2018 wef 15/09/2018]
 
 “Tokyo Convention” means the Convention on Offences and certain other Acts Committed on board Aircraft, signed at Tokyo on 14th September 1963.
 
-(2) For the purposes of this Act, the period during which an aircraft is in flight shall be deemed to include —
+(2) For the purposes of this Act, an aircraft is in flight —
 
-(a) any period from the moment when power is applied for the purpose of the aircraft taking off on a flight until the moment when the landing run (if any) at the termination of that flight ends; and
+(a) from the time when all external doors of the aircraft are closed following embarkation for a flight until the time when any such door is opened for disembarkation;
 
-(b) for the purposes of section 5 —
+(b) if the aircraft makes a forced landing in any country or territory other than Singapore, from the time when all external doors of the aircraft are closed following embarkation for a flight until the time when the competent authorities of the country or territory in which the forced landing takes place take over responsibility for the aircraft and for the persons and property on board the aircraft; and
 
-(i) any further period from the moment when all external doors, if any, of the aircraft are closed following embarkation for a flight until the moment when any such door is opened for disembarkation after that flight; and
+(c) if the aircraft makes a forced landing in Singapore, from the time when all external doors of the aircraft are closed following embarkation for a flight until the time when a police officer arrives at the place of landing,
 
-(ii) if the aircraft makes a forced landing, any period thereafter until the time when competent authorities of the country in which the forced landing takes place take over the responsibility for the aircraft and for the persons and property on board the aircraft (being, if the forced landing takes place in Singapore, the time when a police officer arrives at the place of landing),
+and any reference in this Act to an aircraft in flight includes a reference to an aircraft during any period when the aircraft is on the surface of the sea or land but not within the territorial limits of any country.
 
-and any reference in this Act to an aircraft in flight shall include a reference to an aircraft during any period when it is on the surface of the sea or land but not within the territorial limits of any country.
+[Act 32 of 2018 wef 15/09/2018]
 
 (3) In this Act, unless the context otherwise requires, any reference to a country or the territorial limits thereof shall be construed as including a reference to the territorial waters, if any, of that country.
 
 (4) If the Minister is satisfied that the requirements of Article 18 of the Tokyo Convention have been satisfied (which Article makes provision as to the country which is to be treated as the country of registration of certain aircraft operated by joint air transport organisations or international operating agencies established by two or more Convention countries) the Minister may, by notification published in theGazette, provide that for the purposes of this Act such aircraft as may be specified in the notification shall be treated as registered in such Convention country as may be so specified.
 
-### Application of criminal law to aircraft
+### Application of criminal law to certain act or omission on aircraft
 
-3\.—(1) Any act or omission taking place on board a Singapore-controlled aircraft while in flight elsewhere than in or over Singapore which, if taking place in Singapore, would constitute an offence under the law in force in Singapore, shall constitute that offence:
+3\.—(1) Any act or omission taking place on board a Singapore-controlled aircraft while in flight elsewhere than in or over Singapore which, if taking place in Singapore, would constitute an offence under the law in force in Singapore, shall constitute that offence.
 
-Provided that this subsection shall not apply to any act or omission which is expressly or impliedly authorised by or under that law when taking place outside Singapore.
+[Act 32 of 2018 wef 15/09/2018]
+
+(1A) If —
+
+(a) any act or omission taking place on board any aircraft (not being a Singapore‑controlled aircraft) while in flight elsewhere than in or over Singapore which, if taking place in Singapore, would constitute an offence under the law in force in Singapore; and
+
+(b) the aircraft subsequently lands in Singapore with the person who committed the act or omission still on board the aircraft,
+
+the act or omission constitutes that offence.
+
+[Act 32 of 2018 wef 15/09/2018]
+
+(1B) Subsections (1) and (1A) do not apply to any act or omission which is expressly or impliedly authorised by or under the law in force in Singapore when taking place outside Singapore.
+
+[Act 32 of 2018 wef 15/09/2018]
 
 (2) No proceedings for any offence under the law in force in Singapore committed on board an aircraft while in flight elsewhere than in or over Singapore other than an offence under the Air Navigation Act [Cap. 6] or any subsidiary legislation made thereunder shall be instituted in Singapore except by or with the consent of the Public Prosecutor.
 
@@ -104,9 +126,21 @@ Provided that this subsection shall not apply to any act or omission which is ex
 
 (4) For the purpose of conferring jurisdiction, any offence under the law in force in Singapore committed on board an aircraft in flight shall be deemed to be committed in Singapore.
 
+[Act 32 of 2018 wef 15/09/2018]
+
 ### Provisions as to extradition
 
-4\. For the purposes of the application of the Extradition Act [Cap. 103] to crimes committed on board an aircraft in flight, any aircraft registered in a Convention country shall at any time while that aircraft is in flight be deemed to be within the jurisdiction of that country, whether or not it is for the time being also within the jurisdiction of any other country.
+4\.—(1) For the purposes of the application of the Extradition Act (Cap. 103) to crimes committed on board an aircraft in flight, any offence committed on board any aircraft in flight is to be treated as if it had been committed not only in the place at which the offence occurred, but also within the territory of —
+
+(a) a Convention country in which the aircraft is registered;
+
+(b) a Convention country (being also a Protocol country) in which the lessee of the aircraft leased without crew has its principal place of business or, if the lessee has no such place of business, has its permanent residence; or
+
+(c) a Convention country (being also a Protocol country) in which the aircraft lands, with the offender still on board.
+
+(2) For the purposes of subsection (1), it does not matter whether the aircraft mentioned in that subsection is for the time being also within the jurisdiction of any other country.
+
+[Act 32 of 2018 wef 15/09/2018]
 
 ### Powers of commander of aircraft
 
@@ -221,3 +255,7 @@ This Legislative History is provided for the convenience of users of the Tokyo C
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|4.|**Act 32 of 2018—Tokyo Convention (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 22/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|15 September 2018|
