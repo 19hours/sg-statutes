@@ -414,85 +414,19 @@
 
 - [175 Procedure for cases to be tried in High Court](#Procedure-for-cases-to-be-tried-in-High-Court)
 
-[**Division 2  Committal procedures for cases triable by High Court**](#Division-2--Committal-procedures-for-cases-triable-by-High-Court)
+[**Division 2  Repealed**](#Division-2--Repealed)
 
-- [176 Committal hearing](#Committal-hearing)
+[**Division 3  Repealed**](#Division-3--Repealed)
 
-- [177 Examining Magistrate to conduct committal hearing](#Examining-Magistrate-to-conduct-committal-hearing)
-
-- [178 Committal hearing where accused wishes to plead guilty](#Committal-hearing-where-accused-wishes-to-plead-guilty)
-
-- [179 Use of written statements](#Use-of-written-statements)
-
-- [180 When accused to be discharged](#When-accused-to-be-discharged)
-
-- [181 When charge to be framed](#When-charge-to-be-framed)
-
-- [182 Committal when defence reserved](#Committal-when-defence-reserved)
-
-- [183 Defence of accused](#Defence-of-accused)
-
-- [184 Addresses](#Addresses)
-
-- [185 Discharge or committal after defence](#Discharge-or-committal-after-defence)
-
-- [186 Bonds of witnesses](#Bonds-of-witnesses)
-
-- [187 Attendance at trial of person making report](#Attendance-at-trial-of-person-making-report)
-
-- [188 Procedure after committal of accused for trial](#Procedure-after-committal-of-accused-for-trial)
-
-- [189 Custody of accused pending trial](#Custody-of-accused-pending-trial)
-
-- [190 Restrictions on reports of committal hearing](#Restrictions-on-reports-of-committal-hearing)
-
-- [191 Certain provisions to prevail](#Certain-provisions-to-prevail)
-
-- [192 Procedure after case has been committed to High Court](#Procedure-after-case-has-been-committed-to-High-Court)
-
-- [193 When Case for the Defence is served](#When-Case-for-the-Defence-is-served)
-
-- [194 Court to explain to unrepresented accused certain matters](#Court-to-explain-to-unrepresented-accused-certain-matters)
-
-- [195 Contents of Case for the Defence](#Contents-of-Case-for-the-Defence)
-
-- [196 Time for service of other statements](#Time-for-service-of-other-statements)
-
-- [197 Fixing dates for trial](#Fixing-dates-for-trial)
-
-- [198 If co-accused charged subsequently](#If-co-accused-charged-subsequently)
-
-[**Division 3  Supplementary provisions to committal procedures**](#Division-3--Supplementary-provisions-to-committal-procedures)
-
-- [199 Persons to be deemed to have been brought before High Court in due course of law](#Persons-to-be-deemed-to-have-been-brought-before-High-Court-in-due-course-of-law)
-
-- [200 When Public Prosecutor may direct that accused be discharged](#When-Public-Prosecutor-may-direct-that-accused-be-discharged)
-
-- [201 Public Prosecutor may by fiat designate court of trial when criminal offence disclosed](#Public-Prosecutor-may-by-fiat-designate-court-of-trial-when-criminal-offence-disclosed)
-
-- [202 Procedure when court designated is High Court](#Procedure-when-court-designated-is-High-Court)
-
-- [203 Procedure when court designated is not High Court](#Procedure-when-court-designated-is-not-High-Court)
-
-- [204 Witnesses to be notified of change of court](#Witnesses-to-be-notified-of-change-of-court)
-
-- [205 Public Prosecutor may issue subsequent fiat](#Public-Prosecutor-may-issue-subsequent-fiat)
-
-- [206 Public Prosecutor may alter or redraw charge](#Public-Prosecutor-may-alter-or-redraw-charge)
-
-- [207 Public Prosecutor may order proceedings before Magistrate’s Court to be transmitted to him](#Public-Prosecutor-may-order-proceedings-before-Magistrate’s-Court-to-be-transmitted-to-him)
-
-- [208 Public Prosecutor may thereupon give instructions to Magistrate](#Public-Prosecutor-may-thereupon-give-instructions-to-Magistrate)
-
-[**Division 4  Non-compliance with certain requirements in Division 2**](#Division-4--Non-compliance-with-certain-requirements-in-Division-2)
-
-- [209 Consequences of non-compliance with certain requirements in Division 2](#Consequences-of-non-compliance-with-certain-requirements-in-Division-2)
+[**Division 4  Repealed**](#Division-4--Repealed)
 
 [**Division 5  Transmission proceedings**](#Division-5--Transmission-proceedings)
 
 - [210 Transmission of case to High Court](#Transmission-of-case-to-High-Court)
 
 - [211 Public Prosecutor may issue subsequent fiat](#Public-Prosecutor-may-issue-subsequent-fiat)
+
+- [211A When criminal case disclosure procedures apply](#When-criminal-case-disclosure-procedures-apply)
 
 - [212 Procedure after case has been transmitted to High Court](#Procedure-after-case-has-been-transmitted-to-High-Court)
 
@@ -512,6 +446,8 @@
 
 - [220 If co-accused charged subsequently](#If-co-accused-charged-subsequently)
 
+- [220A Pre-trial conference](#Pre-trial-conference)
+
 [**Division 6  Non-compliance with certain requirements in Division 5**](#Division-6--Non-compliance-with-certain-requirements-in-Division-5)
 
 - [221 Consequences of non-compliance with certain requirements in Division 5](#Consequences-of-non-compliance-with-certain-requirements-in-Division-5)
@@ -527,6 +463,10 @@
 - [224 Power of court to prohibit certain communication](#Power-of-court-to-prohibit-certain-communication)
 
 - [225 Restrictions on reports of restricted information](#Restrictions-on-reports-of-restricted-information)
+
+- [225A Restrictions on use of material disclosed by prosecution](#Restrictions-on-use-of-material-disclosed-by-prosecution)
+
+- [225B Mode of disclosing statement recorded in form of audiovisual recording](#Mode-of-disclosing-statement-recorded-in-form-of-audiovisual-recording)
 
 [**Division 2  When accused pleads guilty electronically**](#Division-2--When-accused-pleads-guilty-electronically)
 
@@ -630,6 +570,8 @@
 
 - [264 Conditioned statements](#Conditioned-statements)
 
+- [264A Statement recorded in form of audiovisual recording](#Statement-recorded-in-form-of-audiovisual-recording)
+
 - [265 When evidence of past possession of stolen property allowed](#When-evidence-of-past-possession-of-stolen-property-allowed)
 
 - [266 When evidence of previous conviction allowed](#When-evidence-of-previous-conviction-allowed)
@@ -680,7 +622,7 @@
 
 - [286 Manner of recording evidence](#Manner-of-recording-evidence)
 
-- [287 Reading over evidence and correction](#Reading-over-evidence-and-correction)
+- [287 (Repealed)](#Repealed)
 
 - [288 Interpretation of evidence to accused](#Interpretation-of-evidence-to-accused)
 
@@ -998,13 +940,15 @@
 
 - [428 Minister to make regulations](#Minister-to-make-regulations)
 
+- [428A Criminal Procedure Rules Committee and Criminal Procedure Rules](#Criminal-Procedure-Rules-Committee-and-Criminal-Procedure-Rules)
+
 - [429 Savings and transitional provisions](#Savings-and-transitional-provisions)
 
 [**FIRST SCHEDULE Tabular statement of offences under the Penal Code**](#FIRST-SCHEDULE-Tabular-statement-of-offences-under-the-Penal-Code)
 
 [**SECOND SCHEDULE Laws to which criminal case disclosure procedures apply**](#SECOND-SCHEDULE-Laws-to-which-criminal-case-disclosure-procedures-apply)
 
-[**THIRD SCHEDULE Offences to which transmission procedures apply**](#THIRD-SCHEDULE-Offences-to-which-transmission-procedures-apply)
+[**THIRD SCHEDULE Offences for which statements must be recorded in form of audiovisual recording**](#THIRD-SCHEDULE-Offences-for-which-statements-must-be-recorded-in-form-of-audiovisual-recording)
 
 [**FOURTH SCHEDULE Offences that may be compounded by victim**](#FOURTH-SCHEDULE-Offences-that-may-be-compounded-by-victim)
 
@@ -1042,7 +986,15 @@ PRELIMINARY
 
 “arrestable offence” and “arrestable case” mean, respectively, an offence for which and a case in which a police officer may ordinarily arrest without warrant according to the third column of the First Schedule or under any other written law;
 
+“audiovisual recording” means an aggregate of visual images and sounds embodied in a thing, so as to be capable, by the use of that thing, of being produced electronically and shown as a moving picture with associated sounds;
+
+[Act 19 of 2018 wef 17/09/2018]
+
 “bailable offence” means an offence shown as bailable in the fifth column of the First Schedule or which is made bailable by any other written law, and “non-bailable offence” means any offence other than a bailable offence;
+
+“child abuse offence” means an offence under section 5(1), 6, 7, 11(2), 12 or 13 of the Children and Young Persons Act (Cap. 38), and includes an abetment of, a conspiracy to commit, or an attempt to commit, such an offence;
+
+[Act 19 of 2018 wef 17/09/2018]
 
 “complaint” means any allegation made orally or in writing to a Magistrate with a view to his taking action under this Code that some person, whether known or unknown, has committed or is guilty of an offence;
 
@@ -1056,6 +1008,14 @@ PRELIMINARY
 
 [Act 27 of 2014 wef 01/10/2014]
 
+“Criminal Procedure Rules” —
+
+(a) means the Criminal Procedure Rules made under this Code and any other written law by the Criminal Procedure Rules Committee constituted under section 428A; and
+
+(b) includes any subsidiary legislation deemed under section 428A(15) to be Criminal Procedure Rules;
+
+[Act 19 of 2018 wef 17/09/2018]
+
 “criminal record” means the record of any —
 
 (a) conviction in any court, or subordinate military court established under section 80 of the Singapore Armed Forces Act (Cap. 295);
@@ -1068,9 +1028,17 @@ PRELIMINARY
 
 (e) order as may be prescribed by the Minister charged with the responsibility for home affairs to be a criminal record for the purposes of this Code;
 
+“data” has the same meaning as in the Computer Misuse Act;
+
+[Act 19 of 2018 wef 17/09/2018]
+
 “financial institution” has the same meaning as in section 2 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A);
 
 “fine” means any fine or financial penalty imposed by any court upon any conviction of any offence;
+
+“fine‑only offence” means an offence that is punishable only with a fine;
+
+[Act 19 of 2018 wef 17/09/2018]
 
 “Judge” means a Judge of the High Court and includes the Chief Justice and any person sitting in the High Court in accordance with section 9 of the Supreme Court of Judicature Act (Cap. 322);
 
@@ -1118,7 +1086,9 @@ PRELIMINARY
 
 “Postal Authority” and “public postal licensee” have the same meanings as in section 2 of the Postal Services Act (Cap. 237A);
 
-“proceeding” includes a committal hearing, criminal case disclosure conference and a pre-trial conference, held under Part IX or X, as the case may be;
+“proceeding” includes a criminal case disclosure conference and a pre-trial conference, held under Part IX or X, as the case may be;
+
+[Act 19 of 2018 wef 17/09/2018]
 
 “property” means money and all other property, movable or immovable, including things in action and other intangible or incorporeal property;
 
@@ -1128,13 +1098,29 @@ PRELIMINARY
 
 (b) any corporation, authority, board, council, commission, office or other body established by or under any public Act for a public purpose;
 
-“Registrar of the State Courts” includes a Deputy Registrar of the State Courts;
+[Deleted by Act 5 of 2014 wef 07/03/2014]
 
-[Act 5 of 2014 wef 07/03/2014]
+“Registrar of the Family Justice Courts” means the registrar of the Family Justice Courts, and includes the deputy registrar and an assistant registrar of the Family Justice Courts;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+“Registrar of the State Courts” means the registrar of the State Courts, and includes a deputy registrar of the State Courts;
+
+[Act 19 of 2018 wef 17/09/2018]
 
 “Registrar of the Supreme Court” includes the Deputy Registrar and an Assistant Registrar of the Supreme Court;
 
 “repealed Code” means the Criminal Procedure Code (Cap. 68, 1985 Ed.) repealed by this Code;
+
+“sexual offence” means —
+
+(a) an offence under section 354, 354A, 355, 356, 357, 358, 372, 373, 373A, 375, 376, 376A, 376B, 376C, 376D, 376E, 376F, 376G, 377(3), 377A or 377B(3) of the Penal Code (Cap. 224); or
+
+(b) an offence under section 140, 141, 142, 143, 144, 145, 146, 146A, 147 or 148 of the Women’s Charter (Cap. 353),
+
+and includes an abetment of, a conspiracy to commit, or an attempt to commit, such an offence;
+
+[Act 19 of 2018 wef 17/09/2018]
 
 “signed” or “signature” and its grammatical variations, in relation to documents signed by a person who is a Judge, the Registrar of the Supreme Court, the Registrar of the State Courts, a District Judge or a Magistrate, shall have the same meaning as defined in section 2 of the Electronic Transactions Act (Cap. 88);
 
@@ -1234,7 +1220,7 @@ PRELIMINARY
 
 ### Saving of powers of Supreme Court and law officers
 
-5\. Nothing in this Code shall derogate from the jurisdiction or powers of the Court of Appeal or the High Court or the Judges thereof, or the Attorney-General, a Deputy Attorney-General or the Solicitor-General.
+5\. Nothing in this Code shall derogate from the jurisdiction or powers of the Court of Appeal or the High Court or the Judges thereof, or the Attorney-General, a Deputy Attorney‑General or the Solicitor-General.
 
 [Act 41 of 2014 wef 01/01/2015]
 
@@ -1252,9 +1238,11 @@ CRIMINAL JURISDICTION OF STATE COURTS
 
 7\.—(1) Subject to this Code, Magistrates’ Courts shall have jurisdiction and power to —
 
-(a) try any offence for which the maximum term of imprisonment provided by law does not exceed 5 years or which is punishable with a fine only;
+(a) try any offence for which the maximum term of imprisonment provided by law does not exceed 5 years or which is a fine‑only offence;
 
-(b) conduct a committal hearing into any offence with a view to committal for trial by the High Court;
+[Act 19 of 2018 wef 17/09/2018]
+
+(b) [Deleted by Act 19 of 2018 wef 17/09/2018]
 
 (c) inquire into a complaint of any offence and summon and examine any witness who may give evidence relating to such offence;
 
@@ -1266,7 +1254,9 @@ CRIMINAL JURISDICTION OF STATE COURTS
 
 (g) do any other thing that Magistrates’ Courts are empowered to do under this Code or any other written law.
 
-(2) The jurisdiction and powers conferred on Magistrates’ Courts under subsection (1)(a) and (b) must be exercised by a Magistrate sitting in a court house of the Magistrate’s Court or at such other place as may be prescribed.
+(2) The jurisdiction and powers conferred on Magistrates’ Courts under subsection (1)(a) must be exercised by a Magistrate sitting in a court house of the Magistrate’s Court or at such other place as may be prescribed.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (3) The jurisdiction and powers conferred on Magistrates’ Courts under subsection (1)(c) to (g) may be exercised by a Magistrate at any place in Singapore.
 
@@ -1339,11 +1329,11 @@ AND PUBLIC PROSECUTOR
 
 11\.—(1) The Attorney-General shall be the Public Prosecutor and shall have the control and direction of criminal prosecutions and proceedings under this Code or any other written law.
 
-(2) The Deputy Attorney-General assigned by the Attorney-General to have control and direction of criminal prosecutions and proceedings under this Code or any other written law shall have all the powers of the Public Prosecutor, and any reference in this Code or any other written law to the Public Prosecutor shall, unless the context otherwise requires, include a reference to this Deputy Attorney-General.
+(2) The Deputy Attorney‑General assigned by the Attorney‑General to have control and direction of criminal prosecutions and proceedings under this Code or any other written law shall have all the powers of the Public Prosecutor, and any reference in this Code or any other written law to the Public Prosecutor shall, unless the context otherwise requires, include a reference to this Deputy Attorney‑General.
 
 [Act 41 of 2014 wef 01/01/2015]
 
-(3) Subject to this section, the Public Prosecutor may appoint the Solicitor-General, any officer or other person to act as a Deputy Public Prosecutor or an Assistant Public Prosecutor in carrying out any of the duties of the Public Prosecutor under this Code or under any other written law, and may assign any of those duties to a Deputy Public Prosecutor or an Assistant Public Prosecutor.
+(3) Subject to this section, the Public Prosecutor may appoint the Solicitor‑General, any officer or other person to act as a Deputy Public Prosecutor or an Assistant Public Prosecutor in carrying out any of the duties of the Public Prosecutor under this Code or under any other written law, and may assign any of those duties to a Deputy Public Prosecutor or an Assistant Public Prosecutor.
 
 [Act 41 of 2014 wef 01/01/2015]
 
@@ -1363,19 +1353,19 @@ on behalf of the Public Prosecutor that is required by this Code or any other wr
 
 as the case may be.
 
-(5) The Public Prosecutor, the Deputy Attorney-General referred to in subsection (2), the Solicitor-General or a Deputy Public Prosecutor may authorise any person, on such terms and conditions as he thinks fit, to act for the Public Prosecutor in the conduct of a case or prosecution in court or in any part of such conduct.
+(5) The Public Prosecutor, the Deputy Attorney‑General referred to in subsection (2), the Solicitor-General or a Deputy Public Prosecutor may authorise any person, on such terms and conditions as he thinks fit, to act for the Public Prosecutor in the conduct of a case or prosecution in court or in any part of such conduct.
 
 [Act 41 of 2014 wef 01/01/2015]
 
-(6) Any proceeding before the High Court must be conducted by the Public Prosecutor, the Deputy Attorney-General referred to in subsection (2), the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or a person authorised under subsection (5) who is an advocate.
+(6) Any proceeding before the High Court must be conducted by the Public Prosecutor, the Deputy Attorney‑General referred to in subsection (2), the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or a person authorised under subsection (5) who is an advocate.
 
 [Act 41 of 2014 wef 01/01/2015]
 
-(7) No person shall appear on behalf of the Public Prosecutor in any criminal appeal, or any case stated or criminal reference under Division 2 of Part XX, other than the Deputy Attorney-General referred to in subsection (2), the Solicitor-General, a Deputy Public Prosecutor, or a person authorised under subsection (5) who is an advocate.
+(7) No person shall appear on behalf of the Public Prosecutor in any criminal appeal, or any case stated or criminal reference under Division 2 of Part XX, other than the Deputy Attorney‑General referred to in subsection (2), the Solicitor-General, a Deputy Public Prosecutor, or a person authorised under subsection (5) who is an advocate.
 
 [Act 41 of 2014 wef 01/01/2015]
 
-(8) Subject to subsections (9) and (10), any proceeding relating to a criminal matter before a State Court must be conducted only by the Public Prosecutor, the Deputy Attorney-General referred to in subsection (2), the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or any other person authorised under subsection (5).
+(8) Subject to subsections (9) and (10), any proceeding relating to a criminal matter before a State Court must be conducted only by the Public Prosecutor, the Deputy Attorney‑General referred to in subsection (2), the Solicitor-General, a Deputy Public Prosecutor, an Assistant Public Prosecutor, or any other person authorised under subsection (5).
 
 [Act 5 of 2014 wef 07/03/2014]
 
@@ -1393,7 +1383,7 @@ as the case may be.
 
 ### Public Prosecutor’s power to take over conduct of prosecution, etc.
 
-13\. Where a prosecution is conducted by a person other than the Public Prosecutor, the Deputy Attorney-General referred to in section 11(2), the Solicitor-General, a Deputy Public Prosecutor or an Assistant Public Prosecutor, the Public Prosecutor may, if he thinks fit, take over the conduct of the prosecution at any stage of the proceedings and continue or discontinue the prosecution.
+13\. Where a prosecution is conducted by a person other than the Public Prosecutor, the Deputy Attorney‑General referred to in section 11(2), the Solicitor-General, a Deputy Public Prosecutor or an Assistant Public Prosecutor, the Public Prosecutor may, if he thinks fit, take over the conduct of the prosecution at any stage of the proceedings and continue or discontinue the prosecution.
 
 [Act 41 of 2014 wef 01/01/2015]
 
@@ -1518,25 +1508,117 @@ on receiving information about offences
 
 ### Power to order production of any document or other thing
 
-20\.—(1) Where a police officer of or above the rank of sergeant considers that a document or other thing (other than a document or thing in the custody of a Postal Authority or public postal licensee) is necessary or desirable for any investigation, inquiry, trial or other proceeding under this Code, he may issue a written order to the person in whose possession or power the document or thing is believed to be, to require that person —
+20\.—(1) Where a police officer of or above the rank of sergeant, or an authorised person, considers that any document or thing (other than a document or thing in the custody of a Postal Authority or public postal licensee) is necessary or desirable for any investigation, inquiry, trial or other proceeding under this Code, the police officer or authorised person may —
 
-(a) to produce the document or thing at the time and place stated in the order; or
+(a) issue a written order to require a person in whose possession or power the document or thing is believed to be —
 
-(b) to give a police officer access to such document or thing.
+(i) to produce the document or thing at the time and place stated in the order;
 
-(2) Notwithstanding subsection (1), a written order under that subsection for the production of customer information by a financial institution, or access to customer information kept by a financial institution —
+(ii) to give a police officer or an authorised person access to the document or thing; or
 
-(a) must only be made by a police officer of or above the rank of inspector; and
+(iii) in the case of a document or thing that is in electronic form —
+
+(A) to produce a copy of the document or thing, at the time and place stated in the order; or
+
+(B) to give a police officer or an authorised person access to a copy of the document or thing; or
+
+(b) in the case of a document or thing that is contained in or available to a computer — issue a written order to require a person who is believed to have power to access the document or thing from that computer —
+
+(i) to produce a copy of the document or thing, at the time and place stated in the order; or
+
+(ii) to give a police officer or an authorised person access to a copy of the document or thing.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(1A) Without limiting subsection (1), where a police officer of or above the rank of sergeant, or an authorised person, considers that any data (other than data in the custody of a Postal Authority or public postal licensee) is necessary or desirable for any investigation, inquiry, trial or other proceeding under this Code, the police officer or authorised person may —
+
+(a) issue a written order to require a person in whose possession or power the data is believed to be —
+
+(i) to authenticate the data; and
+
+(ii) to produce the data, at the time and place stated in the order; or
+
+(b) in the case of any data that is contained in or available to a computer — issue a written order to require a person who is believed to have power to access the data from that computer —
+
+(i) to authenticate a copy of the data; and
+
+(ii) to produce a copy of the data, at the time and place stated in the order.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(2) Despite subsections (1) and (1A), a written order under subsection (1) or (1A) for the production of customer information by a financial institution, or access to customer information kept by a financial institution —
+
+(a) must only be made by a police officer of or above the rank of inspector, or an authorised person; and
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (b) may require the financial institution to monitor any account of a customer of the financial institution for a period of time and provide such information relating to the transactions carried out in the account during that period.
 
-(3) If any document or thing in the custody of a Postal Authority or a public postal licensee is, in the opinion of the Public Prosecutor, required for any investigation, inquiry, trial or other proceeding under this Code, he may require the Postal Authority or public postal licensee to deliver that document or thing to the person whom the Public Prosecutor so requires it to be delivered.
+[Act 19 of 2018 wef 17/09/2018]
 
-(4) If a person is required merely to produce any document or thing, he may comply with such requirement by causing the document or thing to be produced instead of bringing it in person.
+(3) If any document or thing in the custody of a Postal Authority or public postal licensee is, in the opinion of the Public Prosecutor, required for any investigation, inquiry, trial or other proceeding under this Code, the Public Prosecutor may issue a written order to require the Postal Authority or public postal licensee —
 
-(5) A police officer may exercise the powers conferred under this section notwithstanding any provision in any other law relating to the production of, or the giving of any access to, any document or thing.
+(a) to deliver that document or thing, at the time and place stated in the order, to a person stated in the order; or
 
-(6) In this section, “customer information” has the same meaning as in section 40A of the Banking Act (Cap. 19).
+(b) in the case of a document or thing that is in electronic form or is contained in or available to a computer — to deliver a copy of that document or thing, at the time and place stated in the order, to a person stated in the order.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(3A) Without limiting subsection (3), if any data in the custody of a Postal Authority or public postal licensee is, in the opinion of the Public Prosecutor, required for any investigation, inquiry, trial or other proceeding under this Code, the Public Prosecutor may —
+
+(a) issue a written order to require the Postal Authority or public postal licensee —
+
+(i) to authenticate the data; and
+
+(ii) to produce the data, at the time and place stated in the order; or
+
+(b) in the case of any data that is contained in or available to a computer — issue a written order to require the Postal Authority or public postal licensee —
+
+(i) to authenticate a copy of the data; and
+
+(ii) to produce a copy of the data, at the time and place stated in the order.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(4) If a person is required merely to produce any document, thing, data or copy, he may comply with such requirement by causing the document, thing, data or copy to be produced instead of bringing it in person.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(5) A police officer, or an authorised person, may exercise the powers conferred under this section notwithstanding any provision in any other law relating to the production of, or the giving of any access to, any document or thing, or data.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(6) The cost incurred by a person in complying with any requirement or written order under this section, or any requirement under any regulations in respect of matter mentioned in section 428(2)(d), is to be borne by the person.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(7) Any person who fails to comply with a written order issued under subsection (1), (1A), (3) or (3A), shall be guilty of an offence and shall be liable on conviction —
+
+(a) in any case where the person is a body corporate, a limited liability partnership, a partnership or an unincorporated association — to a fine not exceeding $10,000;
+
+(b) in any case where the person is an individual, and the written order states that it is issued for the investigation or trial of an arrestable offence — to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; or
+
+(c) in any other case — to a fine not exceeding $1,500 or to imprisonment for a term not exceeding one month or to both.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(8) No liability shall lie against a person who, acting in good faith and with reasonable care, does or omits to do anything in complying with any written order issued under subsection (1), (1A), (3) or (3A), or with any requirement under any regulations in respect of matter mentioned in section 428(2)(d).
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(9) In this section —
+
+“authorised person” means —
+
+(a) any person who is authorised in writing by the Commissioner of Police for the purposes of this section; or
+
+(b) any officer of a prescribed law enforcement agency who is authorised in writing, by the head of that law enforcement agency, for the purposes of this section;
+
+“customer information” has the same meaning as in section 40A of the Banking Act (Cap. 19);
+
+“prescribed law enforcement agency” means a law enforcement agency prescribed, by order in theGazette, by the Minister charged with the responsibility for that law enforcement agency.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Power to require attendance of witnesses
 
@@ -1556,15 +1638,53 @@ on receiving information about offences
 
 (2) The person examined shall be bound to state truly what he knows of the facts and circumstances of the case, except that he need not say anything that might expose him to a criminal charge, penalty or forfeiture.
 
-(3) A statement made by any person examined under this section must —
+(3) Subject to subsection (5), a statement made by a person examined under this section must be recorded —
 
-(a) be in writing;
+(a) in writing; or
 
-(b) be read over to him;
+(b) in the form of an audiovisual recording.
 
-(c) if he does not understand English, be interpreted for him in a language that he understands; and
+[Act 19 of 2018 wef 17/09/2018]
 
-(d) be signed by him.
+(4) Where a statement made by a person examined under this section is recorded in writing, the statement must —
+
+(a) be read over to the person;
+
+(b) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(c) be signed by the person.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(5) Where, before a person makes a statement under this section, any police officer or forensic specialist examining the person reasonably suspects the person of having committed an offence specified in the Third Schedule, any statement made by the person during the examination must be recorded in the form of an audiovisual recording, unless any of the following applies:
+
+(a) due to an operational exigency, it is not feasible to record the statement in the form of an audiovisual recording;
+
+(b) the equipment designated for recording the statement in the form of an audiovisual recording —
+
+(i) does not work; and
+
+(ii) cannot be repaired or replaced within a reasonable time;
+
+(c) the person requests that the statement be recorded in writing instead of in the form of an audiovisual recording, and the police officer or forensic specialist examining the person reasonably believes that the granting of the request will facilitate the investigation.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(6) Despite subsection (5) —
+
+(a) a mere failure to comply with subsection (5) does not render a statement by a person examined under this section inadmissible if the statement is otherwise admissible; and
+
+(b) no inference is to be drawn by the court from a mere failure to comply with that subsection.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(7) Except as provided in subsection (5), any police officer or forensic specialist examining a person under this section may decide whether a statement made by the person during the examination is to be recorded —
+
+(a) in writing; or
+
+(b) in the form of an audiovisual recording.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Cautioned statements
 
@@ -1588,19 +1708,75 @@ Do you want to say anything about the charge that was just read to you? If you k
 
 the fact of his remaining silent or his refusal to give a statement or his other action must be recorded.
 
-(3) A statement made by an accused after the notice under subsection (1) is read to him must —
+(3) Subject to subsection (3B), a statement made by an accused in answer to a notice read to the accused under subsection (1) must be recorded —
 
-(a) be in writing;
+(a) in writing; or
 
-(b) be read over to him;
+(b) in the form of an audiovisual recording.
 
-(c) if he does not understand English, be interpreted for him in a language that he understands; and
+[Act 19 of 2018 wef 17/09/2018]
 
-(d) be signed by him.
+(3A) Where a statement made by an accused in answer to a notice read to the accused under subsection (1) is recorded in writing, the statement must —
+
+(a) be read over to the accused;
+
+(b) if the accused does not understand English, be interpreted for the accused in a language that the accused understands; and
+
+(c) be signed by the accused.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(3B) Where, before an accused makes a statement in answer to a notice read to the accused under subsection (1), the accused is charged with or informed that the accused may be prosecuted for an offence specified in the Third Schedule, the statement made by the accused must be recorded in the form of an audiovisual recording, unless any of the following applies:
+
+(a) due to an operational exigency, it is not feasible to record the statement in the form of an audiovisual recording;
+
+(b) the equipment designated for recording the statement in the form of an audiovisual recording —
+
+(i) does not work; and
+
+(ii) cannot be repaired or replaced within a reasonable time;
+
+(c) the accused requests that the statement be recorded in writing instead of in the form of an audiovisual recording, and the police officer or person to whom the accused intends to make the statement reasonably believes that the granting of the request will facilitate the investigation.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(3C) Despite subsection (3B) —
+
+(a) a mere failure to comply with subsection (3B) does not render a statement made by an accused in answer to a notice read to the accused under subsection (1) inadmissible, if the statement is otherwise admissible; and
+
+(b) no inference is to be drawn by the court from a mere failure to comply with subsection (3B).
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(3D) Except as provided in subsection (3B), the police officer or person to whom an accused intends to make a statement, in answer to a notice read to the accused under subsection (1), may decide whether the statement is to be recorded —
+
+(a) in writing; or
+
+(b) in the form of an audiovisual recording.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(3E) To avoid doubt, nothing in subsection (3) or (3B) prevents or prohibits a police officer or person to whom an accused intends to make a statement in answer to a notice read to the accused under subsection (1) from arranging for the statement to be recorded both —
+
+(a) in writing; and
+
+(b) in the form of an audiovisual recording.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (4) No statement made by an accused in answer to a notice read to him under subsection (1) shall be construed as a statement caused by any threat, inducement or promise as is described in section 258(3), if it is otherwise voluntary.
 
-(5) A copy of a statement recorded under this section must be given to the accused at the end of the recording of such statement.
+(5) Where a statement made by an accused, in answer to a notice read to the accused under subsection (1), is recorded in writing, a copy of the statement must be given to the accused at the end of the recording.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(6) Where a statement made by an accused, in answer to a notice read to the accused under subsection (1), is recorded in the form of an audiovisual recording —
+
+(a) if requested by the defence, arrangements must be made for the accused and the accused’s advocate (if any) to view the audiovisual recording of the statement, as soon as practicable after the audiovisual recording is made, at a police station or at any other prescribed place; and
+
+(b) if a transcript of the audiovisual recording is made, a copy of the transcript must be given to the accused as soon as practicable after the transcript is made.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 Division 2 —
 
@@ -1610,13 +1786,17 @@ Search and seizure
 
 24\.—(1) A court may issue a search warrant if —
 
-(a) the court has reason to believe that a person who has been or may be issued an order under section 20(1), or a requisition under section 20(3), or a summons under section 235(1), would not produce the document or other thing as required by the order, requisition or summons;
+(a) the court has reason to believe that a person who has been or may be issued an order under section 20(1), (1A), (3) or (3A), or a summons under section 235(1), would not produce any document or other thing (including data), or a copy of the document or thing, as required by the order or summons;
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (b) it is not known who possesses that document or thing; or
 
 (c) the court considers that a general or specific search or inspection will serve the purposes of justice or of any investigation, inquiry, trial or other proceeding under this Code.
 
-(2) Nothing in this section shall authorise any court other than the High Court to grant a warrant to search for a document in the custody of the Postal Authority or a public postal licensee.
+(2) Nothing in this section shall authorise any court other than the High Court to grant a warrant to search for any document or other thing (including data), or any copy of the document or thing, in the custody of the Postal Authority or a public postal licensee.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Search of house suspected to contain stolen property, forged documents, etc.
 
@@ -1848,27 +2028,89 @@ may, without warrant and with or without assistance, enter and search any place 
 
 ### Power to access computer
 
-39\.—(1) A police officer or an authorised person, investigating an arrestable offence, may at any time —
+39\.—(1) A police officer or an authorised person investigating an arrestable offence may, at any time —
 
-(a) access, inspect and check the operation of a computer that he has reasonable cause to suspect is or has been used in connection with the arrestable offence; or
+(a) access, inspect and check the operation in or from Singapore of a computer (whether in Singapore or elsewhere) that the police officer or authorised person has reasonable cause to suspect is or has been used in connection with, or contains or contained evidence relating to, the arrestable offence;
 
-(b) use or cause to be used any such computer to search any data contained in or available to such computer.
+(b) use any such computer in or from Singapore, or cause any such computer to be used in or from Singapore —
 
-(2) The police officer or authorised person may also require any assistance he needs to gain such access from —
+(i) to search any data contained in or available to such computer; and
 
-(a) any person whom he reasonably suspects of using the computer in connection with the arrestable offence or of having used it in this way; or
+(ii) to make a copy of any such data;
 
-(b) any person having charge of, or otherwise concerned with the operation of, such computer.
+(c) prevent any other person from gaining access to, or using, any such computer (including by changing any username, password or other authentication information required to gain access to the computer); or
 
-(3) Any person who obstructs the lawful exercise by a police officer or an authorised person of the powers under subsection (1), or who fails to comply with any requirement of the police officer or authorised person under subsection (2), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+(d) order any person —
+
+(i) to stop accessing or using or to not access or use any such computer; or
+
+(ii) to access or use any such computer only under such conditions as the police officer or authorised person may specify.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(2) The police officer or authorised person may also order any of the following persons to provide any assistance mentioned in subsection (2A):
+
+(a) any person whom the police officer or authorised person reasonably suspects of using, or of having used, the computer in connection with the arrestable offence;
+
+(b) any person having charge of, or otherwise concerned with the operation of, the computer;
+
+(c) any person whom the police officer or authorised person reasonably believes has knowledge of or access to any username, password or other authentication information required to gain access to the computer.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(2A) For the purposes of subsection (2), the types of assistance are as follows:
+
+(a) assistance to gain access to the computer (including assistance through the provision of any username, password or other authentication information required to gain access to the computer);
+
+(b) assistance to prevent a person (other than the police officer or authorised person) from gaining access to, or using, the computer, including assistance in changing any username, password or other authentication information required to gain access to the computer.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(2B) Without limiting subsection (1), where the police officer or authorised person knows that the computer mentioned in that subsection is located outside Singapore, or does not know whether that computer is located in or outside Singapore, the police officer or authorised person —
+
+(a) may exercise the powers under subsection (1) in relation to that computer, or any data contained in or available to that computer, if —
+
+(i) the owner of that computer consents to the exercise of those powers; or
+
+(ii) the police officer or authorised person obtains access to that computer through the exercise of any power of investigation under any written law, such as in any of the following circumstances:
+
+(A) the access is obtained with the assistance mentioned in subsection (2A)(a) provided under subsection (2) by a person having charge of, or otherwise concerned with the operation of, that computer;
+
+(B) the access is obtained through an active connection with, or through any username, password or other authentication information stored in, another computer, which has been seized under section 35 and accessed under subsection (1);
+
+(C) the access is obtained through any username, password or other authentication information contained in any document seized under section 35;
+
+(D) the access is obtained through any username, password or other authentication information provided in any statement made by any person examined under section 22; and
+
+(b) may exercise the powers under subsection (1)(b) in relation to any data contained in or available to that computer, if the owner of that data consents to the exercise of those powers.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(3) Any person who obstructs the lawful exercise by a police officer or an authorised person of any power under subsection (1)(a), (b) or (c), or who fails to comply with any order of the police officer or authorised person under subsection (1)(d) or (2), shall be guilty of an offence and shall be liable on conviction —
+
+(a) in any case where the person is a body corporate, a limited liability partnership, a partnership or an unincorporated association — to a fine not exceeding $10,000; or
+
+(b) in any other case — to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (4) An offence under subsection (3) shall be an arrestable offence.
 
-(5) A person who had acted in good faith under subsection (1) or in compliance with a requirement under subsection (2) shall not be liable in any criminal or civil proceedings for any loss or damage resulting from the act.
+(5) A person who had acted in good faith under subsection (1) or in compliance with a requirement under subsection (1)(d) or (2) shall not be liable in any criminal or civil proceedings for any loss or damage resulting from the act.
 
-(6) In this section and section 40, “authorised person” means a forensic specialist appointed under section 65A of the Police Force Act, or other person, authorised in writing by the Commissioner of Police for the purposes of this section or section 40 or both.
+[Act 19 of 2018 wef 17/09/2018]
 
-[Act 10 of 2015 wef 01/06/2015]
+(6) In this section and section 40 —
+
+“authorised person” means —
+
+(a) a forensic specialist appointed under section 65A of the Police Force Act (Cap. 235), or any other person, who is authorised in writing by the Commissioner of Police for the purposes of this section or section 40 or both; or
+
+(b) any officer of a prescribed law enforcement agency who is authorised in writing, by the head of that law enforcement agency, for the purposes of this section or section 40 or both;
+
+“prescribed law enforcement agency” means a law enforcement agency prescribed, by order in theGazette, by the Minister charged with the responsibility for that law enforcement agency.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Power to access decryption information
 
@@ -2553,17 +2795,25 @@ the person must be released on bail by a police officer in cases determined by t
 
 ### Conditions of bail or personal bond
 
-94\.—(1) A police officer or the court may impose such conditions as are necessary when granting bail or releasing the accused on personal bond under section 92 or 93.
+94\.—(1) All of the following conditions are imposed when a police officer or the court grants bail or releases the accused on personal bond under section 92 or 93, unless the police officer or the court (as the case may be) specifies otherwise:
 
-(2) The conditions imposed in relation to an accused under subsection (1) may include the following requirements:
+(a) the accused must surrender the accused’s travel document;
 
-(a) to surrender any travel document in his possession;
+(b) the accused must surrender to custody, be available for investigations, or attend court, on the day and at the time and place appointed for the accused to do so, as the case may be;
 
-(b) to surrender to custody or to make himself available for investigations or to attend court on the day and at the time and place appointed for him to do so;
+(c) the accused must not commit any offence while released on bail or on personal bond;
 
-(c) not to commit any offence while released on bail or on personal bond; and
+(d) the accused must not interfere with any witness or otherwise obstruct the course of justice, whether in relation to the accused or in relation to any other person;
 
-(d) not to interfere with any witness or otherwise obstruct the course of justice whether in relation to himself or any other person.
+(e) in the case of bail — any person offered as surety for an accused in a criminal matter must not be a co‑accused in the same matter.
+
+(2) A police officer or the court may impose such other conditions as are necessary when granting bail or releasing the accused on personal bond under section 92 or 93.
+
+(3) The conditions that may be imposed in relation to an accused under subsection (2) include a requirement for the electronic monitoring of the accused’s whereabouts.
+
+(4) However, if the prosecution applies to a police officer or the court to impose under subsection (2) the requirement under subsection (3), the police officer or court must do so.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Exceptions to bail or release on personal bond
 
@@ -2919,7 +3169,9 @@ and such statement in writing shall, for the purposes of this section, be admiss
 
 (2) The court may proceed against that person as though he had been arrested or summoned.
 
-(3) When the court proceeds against a person under this section during the course of a trial or a committal hearing, it must begin the proceeding against the person separately.
+(3) When the court proceeds against a person under this section during the course of a trial, it must begin the proceeding against the person separately.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ## PART VII
 
@@ -2939,16 +3191,6 @@ THE CHARGE
 
 (6) If the accused has been previously convicted of any offence and it is intended to prove that previous conviction for the purpose of affecting the punishment which the court is competent to award, the fact, date and place of the previous conviction shall be stated in the charge; but if the statement is omitted, the court may add it at any time before sentence is passed.
 
-(6A) If the accused is subject to a remission order made under the Prisons Act (Cap. 247) and it is intended to prove the remission order for the purpose of affecting the punishment the court is competent to award, the charge must state —
-
-(a) the fact of the remission order; and
-
-(b) the remaining duration of the remission order on the date of the offence stated in the charge,
-
-but if the statement is omitted, the court may add it at any time before sentence is passed.
-
-[Act 1 of 2014 wef 01/07/2014]
-
 Illustrations
 
 (a)
@@ -2966,6 +3208,16 @@ Ais accused of murder, cheating, theft, extortion, criminal intimidation or usin
 (d)
 
 Ais charged under section 184 of the Penal Code with intentionally obstructing a sale of property offered for sale by the lawful authority of a public servant. The charge should be in those words.
+
+(6A) If the accused is subject to a remission order made under the Prisons Act (Cap. 247) and it is intended to prove the remission order for the purpose of affecting the punishment the court is competent to award, the charge must state —
+
+(a) the fact of the remission order; and
+
+(b) the remaining duration of the remission order on the date of the offence stated in the charge,
+
+but if the statement is omitted, the court may add it at any time before sentence is passed.
+
+[Act 1 of 2014 wef 01/07/2014]
 
 (7) All charges upon which persons are tried before the High Court shall be —
 
@@ -3139,7 +3391,7 @@ Awrongfully strikesBwith a cane.Amay be separately charged with offences under s
 
 (b)
 
-Several stolen sacks of rice are passed toAandB, who know they are stolen property, so they can conceal them.AandBthen voluntarily help each other to conceal the sacks at the bottom of a grain-pit.AandBmay be separately charged with offences under sections 411 and 414 of the Penal Code.
+Several stolen sacks of rice are passed toAandB, who know they are stolen property, so they can conceal them.AandBthen voluntarily help each other to conceal the sacks at the bottom of a grain‑pit.AandBmay be separately charged with offences under sections 411 and 414 of the Penal Code.
 
 (c)
 
@@ -3311,7 +3563,9 @@ the court may order that he be charged and tried separately for any one or more 
 
 (2) If the outstanding offences referred to in subsection (1) were not begun by or on behalf of the Public Prosecutor, the court must first be satisfied that the person or authority by whom those proceedings were begun consents to that course of action.
 
-(3) The High Court may, under subsection (1), take into consideration any outstanding offences an accused admits to have committed when passing sentence, notwithstanding that no committal hearing under Division 2 of Part X or no transmission proceedings under Division 5 of Part X have been held in respect of those outstanding offences.
+(3) The High Court may, under subsection (1), take into consideration any outstanding offences an accused admits to have committed when passing sentence, notwithstanding that no transmission proceedings under Division 5 of Part X have been held in respect of those outstanding offences.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (4) When consent is given under subsection (1) or (2) and any outstanding offences are taken into consideration in determining and passing sentence, such fact must be entered in the court’s record.
 
@@ -3472,7 +3726,9 @@ General matters
 
 (b) is to be tried in a District Court.
 
-(2) The criminal case disclosure procedures shall not apply if the accused, on or before the date of the first criminal case disclosure conference fixed by a court under section 161(1), or such other date to which the first criminal case disclosure conference is adjourned under section 238, informs the court that he does not wish to have the criminal case disclosure procedures apply.
+(2) The criminal case disclosure procedures shall not apply if the defence, on or before the date of the first criminal case disclosure conference fixed by a court under section 161(1), or such other date to which the first criminal case disclosure conference is adjourned under section 238, informs the court that the accused does not wish to have the criminal case disclosure procedures apply.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (3) For any offence other than an offence referred to in subsection (1), the criminal case disclosure procedures shall not apply unless all parties consent to have the procedures apply.
 
@@ -3482,7 +3738,7 @@ Criminal case disclosure procedures
 
 ### Criminal case disclosure conference
 
-160\.—(1) The prosecution and the accused shall attend a criminal case disclosure conference as directed by a court in accordance with this Division for the purpose of settling the following matters:
+160\.—(1) The prosecution and the defence shall attend a criminal case disclosure conference as directed by a court in accordance with this Division for the purpose of settling the following matters:
 
 (a) the filing of the Case for the Prosecution and the Case for the Defence;
 
@@ -3494,25 +3750,33 @@ Criminal case disclosure procedures
 
 (e) the trial date.
 
+[Act 19 of 2018 wef 17/09/2018]
+
 (2) The Magistrate or District Judge who presides over a criminal case disclosure conference must not make any order in relation to any matter referred to in subsection (1) in the absence of any party if the order is prejudicial to that party.
 
 (3) Where an accused claims trial, the Magistrate or District Judge who had presided over the criminal case disclosure conference in relation to the accused’s case must not conduct the trial.
 
-(4) Where an accused informs the court during any criminal case disclosure conference conducted under this Division that he intends to plead guilty to the charge, the court must fix a date for his plea to be taken in accordance with Division 3 of Part XI.
+(4) Where the defence informs the court during any criminal case disclosure conference conducted under this Division that the accused intends to plead guilty to the charge, the court must fix a date for the accused’s plea to be taken in accordance with Division 3 of Part XI.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### When Case for the Prosecution is served
 
 161\.—(1) In a case where the criminal case disclosure procedures apply by virtue of section 159, and on the date the accused is asked by the court how he wishes to plead and the accused refuses to plead or does not plead or claims trial, the court must, unless there are good reasons, fix a first criminal case disclosure conference not earlier than 8 weeks from that date.
 
-(2) If, at the first criminal case disclosure conference, or such other date to which the first criminal case disclosure conference has been adjourned under section 238, the accused does not indicate that he wishes to plead guilty to the charge, the prosecution must file in court the Case for the Prosecution and serve a copy of this on the accused and every co-accused, if any, not later than 2 weeks from the date of the first criminal case disclosure conference or such date to which the first criminal case disclosure conference is adjourned.
+(2) If, at the first criminal case disclosure conference, or such other date to which the first criminal case disclosure conference has been adjourned under section 238, the defence does not indicate that the accused wishes to plead guilty to the charge, the prosecution must file in court the Case for the Prosecution and serve a copy of this on the accused and every co-accused, if any, not later than 2 weeks from the date of the first criminal case disclosure conference or such date to which the first criminal case disclosure conference is adjourned.
 
-(3) Where at a criminal case disclosure conference, the accused indicates that he wishes to claim trial to more than one charge, the Case for the Prosecution to be served under subsection (2) shall only relate to those charges that the prosecution intends to proceed with at the trial.
+[Act 19 of 2018 wef 17/09/2018]
+
+(3) Where at a criminal case disclosure conference, the defence indicates that the accused wishes to claim trial to more than one charge, the Case for the Prosecution to be served under subsection (2) shall only relate to those charges that the prosecution intends to proceed with at the trial.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (4) The court may at any time fix a date for a further criminal case disclosure conference not earlier than 7 days from the date the Case for the Prosecution is to be filed under this section.
 
 ### Contents of Case for the Prosecution
 
-162\. The Case for the Prosecution must contain —
+162\.—(1) The Case for the Prosecution must contain —
 
 (a) the charge which the prosecution intends to proceed with at the trial;
 
@@ -3520,9 +3784,19 @@ Criminal case disclosure procedures
 
 (c) a list of the names of the witnesses for the prosecution;
 
-(d) a list of the exhibits that are intended by the prosecution to be admitted at the trial; and
+(d) a list of the exhibits that are intended by the prosecution to be admitted at the trial;
 
-(e) any statement made by the accused at any time and recorded by an officer of a law enforcement agency under any law, which the prosecution intends to adduce in evidence as part of the case for the prosecution.
+[Act 19 of 2018 wef 17/09/2018]
+
+(e) any written statement made by the accused at any time and recorded by an officer of a law enforcement agency under any law, which the prosecution intends to adduce in evidence as part of the case for the prosecution;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(f) a list of every statement, made by the accused at any time to an officer of a law enforcement agency under any law, that is recorded in the form of an audiovisual recording, and that the prosecution intends to adduce in evidence as part of the case for the prosecution; and
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(g) for every statement mentioned in paragraph (f), a transcript (if any) of the audiovisual recording of that statement.
 
 Illustrations
 
@@ -3544,13 +3818,31 @@ who the known conspirators were and what they did.
 
 (c)
 
-Ais charged with robbery and 3 separate statements, X, Y and Z were recorded from him by the police at 3 different time periods. If the prosecution intends to adduce in evidence as part of the Case for the Prosecution statement Y, but not statements X and Z, the Case for the Prosecution must contain the entire statement Y. The Case for the Prosecution need not contain statements X and Z.
+Ais charged with robbery and 3 separate written statements, X, Y and Z were recorded from him by the police at 3 different time periods. If the prosecution intends to adduce in evidence as part of the Case for the Prosecution statement Y, but not statements X and Z, the Case for the Prosecution must contain the entire statement Y. The Case for the Prosecution need not contain statements X and Z.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(2) Where the Case for the Prosecution has been served on the defence, the prosecution must, if requested by the defence, arrange for the defence to view the audiovisual recording of each statement mentioned in subsection (1)(f) at a police station or at any other prescribed place.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### When Case for the Defence is served
 
-163\.—(1) At the further criminal case disclosure conference held on the date referred to in section 161(4), or such other date to which the further criminal case disclosure conference has been adjourned under section 238, if the accused does not indicate that he wishes to plead guilty, the defence must file in court the Case for the Defence and serve a copy thereof on the prosecution and on every co-accused who is claiming trial with him, if any, not later than 2 weeks from the date of the further criminal case disclosure conference or such date to which the further criminal case disclosure conference is adjourned.
+163\.—(1) At the further criminal case disclosure conference held on the date mentioned in section 161(4), or such other date to which the further criminal case disclosure conference has been adjourned under section 238, if the defence does not indicate that the accused wishes to plead guilty, the defence must —
 
-(2) The court may at any time fix a date for a further criminal case disclosure conference which is to be held after the Case for the Defence is to be filed under subsection (1) and after the prosecution is to serve on the accused copies of the statements, exhibits and records referred to in section 166(1).
+(a) file in court the Case for the Defence; and
+
+(b) serve a copy of that Case on the prosecution and on every co‑accused who is claiming trial with the accused (if any),
+
+not later than 2 weeks after the date on which the further criminal case disclosure conference is held.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(2) The court may at any time fix a date for a further criminal case disclosure conference which is to be held after the Case for the Defence is to be filed under subsection (1) and after the prosecution is to serve on the defence copies of the statements, exhibits and records referred to in section 166(1).
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Court to explain to unrepresented accused certain requirements and consequences
 
@@ -3590,23 +3882,51 @@ The accused,A, intends to challenge, at the trial, the voluntariness of his stat
 
 ### Time for service of other statements and exhibits
 
-166\.—(1) Where the Case for the Defence has been served on the prosecution, the prosecution must, within 2 weeks from the date of service, serve on the accused copies of —
+166\.—(1) Where the Case for the Defence has been served on the prosecution, the prosecution must, within 2 weeks after the date on which the Case for the Defence is served, serve on the defence copies of —
 
-(a) all other statements given by the accused and recorded by an officer of a law enforcement agency under any law in relation to the charge or charges which the prosecution intends to proceed with at the trial;
+(a) every other written statement given by the accused and recorded by an officer of a law enforcement agency under any law in relation to the charge or charges which the prosecution intends to proceed with at the trial;
 
-(b) the documentary exhibits referred to in section 162(d); and
+[Act 19 of 2018 wef 17/09/2018]
+
+(aa) for every other statement given by the accused and recorded, in the form of an audiovisual recording, by an officer of a law enforcement agency under any law in relation to the charge or charges that the prosecution intends to proceed with at the trial, a transcript (if any) of the audiovisual recording of that statement;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(b) each documentary exhibit mentioned in section 162(d); and
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (c) criminal records, if any, of the accused, upon payment of the prescribed fee.
 
-(2) Where the Case for the Defence has not been served on the prosecution, the prosecution —
+[Act 19 of 2018 wef 17/09/2018]
 
-(a) need not serve on the defence any of the statements, exhibits or records referred to in subsection (1); and
+(2) Where the documents mentioned in subsection (1) have been served on the defence, the prosecution must, if requested by the defence, arrange for the defence to view the audiovisual recording of each statement mentioned in subsection (1)(aa) at a police station or at any other prescribed place.
 
-(b) may use any such statements, exhibits or records at the trial.
+[Act 19 of 2018 wef 17/09/2018]
+
+(3) Where the Case for the Defence has not been served on the prosecution, the prosecution —
+
+(a) need not serve on the defence any written statement, exhibit, transcript or record mentioned in subsection (1);
+
+(b) need not arrange for the viewing mentioned in subsection (2) of the audiovisual recording of any statement mentioned in subsection (1)(aa); and
+
+(c) may use any such statement, exhibit, transcript, record or audiovisual recording at the trial.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(4) Where the Case for the Defence has been served on the prosecution, the defence must, within 2 weeks after the date on which the Case for the Defence is served, serve on the prosecution a copy of each documentary exhibit that is set out in the list mentioned in section 165(1)(c) and is in the possession, custody or power of the accused.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(5) The obligations of the prosecution under subsections (1) and (2) and the obligation of the defence under subsection (4) are independent of each other.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Fixing dates for trial
 
-167\. If, at the further criminal case disclosure conference held on the date referred to in section 163(2), the accused does not indicate that he wishes to plead guilty, the court may fix a date for trial.
+167\. If, at the further criminal case disclosure conference held on the date referred to in section 163(2), the defence does not indicate that the accused wishes to plead guilty, the court may fix a date for trial.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### If co-accused charged subsequently
 
@@ -3624,13 +3944,33 @@ Non-compliance with Division 2
 
 169\.—(1) The court may draw such inference as it thinks fit if —
 
-(a) the prosecution fails to serve the Case for the Prosecution on the accused or the defence fails to serve the Case for the Defence after the Case for the Prosecution has been served on the accused;
+(a) the prosecution fails to serve the Case for the Prosecution on the defence, or the defence fails to serve the Case for the Defence after the Case for the Prosecution has been served on the defence;
 
-(b) the Case for the Prosecution or the Case for the Defence does not contain any or any part of the items specified in section 162 or 165(1), respectively; or
+[Act 19 of 2018 wef 17/09/2018]
+
+(b) the Case for the Prosecution or the Case for the Defence does not contain any or any part of the items specified in section 162 or 165(1), respectively;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(ba) the prosecution fails to serve on the defence any copy of a statement, transcript, documentary exhibit or criminal record that the prosecution is required under section 166(1) to serve on the defence;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(bb) the defence fails to serve on the prosecution a copy of each documentary exhibit that is set out in the list mentioned in section 165(1)(c) and is in the possession, custody or power of the accused; or
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (c) the prosecution or the defence puts forward a case at the trial which differs from or is otherwise inconsistent with the Case for the Prosecution or the Case for the Defence, respectively, that has been filed.
 
-(2) If the prosecution fails to serve the Case for the Prosecution in respect of any charge which the prosecution intends to proceed with at trial within the time permitted under section 161 or the Case for the Prosecution does not contain any or any part of the items specified in section 162, a court may order a discharge not amounting to an acquittal in relation to the charge.
+(2) A court may order a discharge not amounting to an acquittal in relation to a charge that the prosecution intends to proceed with at trial, if —
+
+(a) the prosecution fails to serve the Case for the Prosecution in respect of that charge within the time permitted under section 161;
+
+(b) the Case for the Prosecution does not contain any or any part of the items specified in section 162; or
+
+(c) the prosecution fails to serve on the defence, within the time permitted under section 166(1), any copy of a statement, transcript, documentary exhibit or criminal record that the prosecution is required under that provision to serve on the defence.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 Division 4 —
 
@@ -3660,9 +4000,13 @@ General matters
 
 172\. In this Part —
 
-“Case for the Defence” means the document by that name referred to in sections 195 and 217;
+“Case for the Defence” means the document by that name referred to in section 217;
 
-“Case for the Prosecution” means the document by that name referred to in sections 176(4) and 214;
+[Act 19 of 2018 wef 17/09/2018]
+
+“Case for the Prosecution” means the document by that name referred to in section 214;
+
+[Act 19 of 2018 wef 17/09/2018]
 
 “co-accused” means any person who is to be tried jointly with an accused in the High Court.
 
@@ -3678,403 +4022,21 @@ General matters
 
 ### Procedure for cases to be tried in High Court
 
-175\.—(1) Before a case is to be tried in the High Court, the committal procedures under Division 2 or the transmission procedures under Division 5 shall apply in accordance with this section.
+175\. The transmission procedures under Division 5 apply to every offence that is to be tried in the High Court.
 
-(2) Subject to subsections (3), (4) and (5), the committal procedures under Division 2 shall be held for the purpose of committing an accused to stand trial in the High Court where the accused is to be tried in the High Court for an offence.
+[Act 19 of 2018 wef 17/09/2018]
 
-(3) The transmission procedures under Division 5 shall apply to any offence specified in the Third Schedule which is to be tried in the High Court.
+Division 2
 
-(4) Where an accused may be tried at the same trial in the High Court for an offence specified in the Third Schedule, together with an offence which is not specified in the Third Schedule and is not punishable with death, the transmission procedures under Division 5 shall apply to both offences.
+[Repealed by Act 19 of 2018 wef 17/09/2018]
 
-(5) Where an accused may be tried at the same trial in the High Court for an offence specified in the Third Schedule, together with an offence which is not specified in the Third Schedule and is punishable with death, the transmission procedures under Division 5 shall apply to the offence specified in the Third Schedule and the committal procedures under Division 2 shall apply to the other offence.
+Division 3
 
-Division 2 —
+[Repealed by Act 19 of 2018 wef 17/09/2018]
 
-Committal procedures for cases triable by High Court
+Division 4
 
-### Committal hearing
-
-176\.—(1) The prosecution and the accused shall attend a criminal case disclosure conference as directed by a court for the purpose of settling the following matters:
-
-(a) the charge that the prosecution intends to proceed with;
-
-(b) whether the accused intends to plead guilty or claim trial to the charge; and
-
-(c) the date for the holding of a committal hearing.
-
-(2) If the accused intends to plead guilty to an offence other than an offence punishable with death, the court shall fix a date for a committal hearing to be conducted in accordance with section 178(1).
-
-(3) If the accused intends to plead guilty to an offence punishable with death, or intends to claim trial —
-
-(a) the court shall fix a date for a committal hearing; and
-
-(b) the prosecution must file in court the Case for the Prosecution and serve a copy of this on the accused and every co-accused, if any, not less than 7 days before the date fixed for the committal hearing.
-
-(4) The Case for the Prosecution filed under subsection (3)(b) must contain the following:
-
-(a) the charge which the prosecution intends to proceed with at the trial;
-
-(b) a list of the names of the witnesses for the prosecution;
-
-(c) a list of exhibits that are intended by the prosecution to be admitted at the trial;
-
-(d) the statements of witnesses which are intended by the prosecution to be admitted under section 179(1); and
-
-(e) any statement made by the accused at any time and recorded by an officer of a law enforcement agency under any law, which the prosecution intends to adduce in evidence as part of the case for the prosecution.
-
-### Examining Magistrate to conduct committal hearing
-
-177\.—(1) A committal hearing under this Division shall be held before a Magistrate (referred to as the examining Magistrate).
-
-(2) Whenever from any cause an examining Magistrate conducting a committal hearing is unable to conveniently complete the proceedings of the hearing himself, another examining Magistrate may complete the hearing and proceed as if he had heard and recorded all the evidence himself.
-
-### Committal hearing where accused wishes to plead guilty
-
-178\.—(1) Subject to subsection (2), where an accused who is brought before an examining Magistrate states that he wishes to plead guilty to the charge preferred against him, the Magistrate shall record the facts of the case presented by the prosecution and if the facts disclose sufficient grounds for committing the accused, he shall satisfy himself that the accused understands the nature of the charge and intends to admit without qualification the offence alleged against him and, on being so satisfied, shall commit the accused for trial for the offence.
-
-(2) Where the accused wishes to plead guilty to an offence punishable with death, the examining Magistrate shall proceed to hear all the evidence tendered by the prosecution and the defence, which shall consist of the written statements referred to in section 179, and satisfy himself that the statements disclose sufficient evidence for him to commit the accused for trial for the offence.
-
-(3) After an accused has been committed for trial for any offence under this section, the Registrar of the Supreme Court may at any time fix a date for the plea of guilty by the accused to be taken in accordance with Division 3 of Part XI.
-
-### Use of written statements
-
-179\.—(1) Notwithstanding anything in this Code or in any other written law, in a committal hearing conducted under this Division, a written statement made by any person is admissible as evidence to the same extent and to the same effect as oral evidence by the person, if the following conditions are satisfied:
-
-(a) the statement appears to be signed by the person who made it;
-
-(b) the statement contains a declaration by the person to the effect that it is true to the best of his knowledge and belief and that he made the statement knowing that, if it were given in evidence, he would be liable to prosecution if he stated in it anything he knew to be false or did not believe to be true; and
-
-(c) before the statement is given in evidence, a copy of the statement is served, by or on behalf of the party proposing to give it, on each of the other parties to the committal hearing not less than 7 days before the date of the committal hearing.
-
-(2) The following provisions also apply to any written statement given in evidence under this section:
-
-(a) if the statement is by a person below the age of 21 years, it must state his age;
-
-(b) if it is made by a person who cannot read it, it must be read to him before he signs it and must be accompanied by a declaration by the person who read the statement to him, stating that it was so read; and
-
-(c) if it refers to any other document as an exhibit, the copy of the written statement served on any other party to the committal hearing under subsection (1)(c) must be accompanied by a copy of that document or by information that will enable the party on whom it is served to inspect that document or make a copy of it.
-
-(3) Where a written statement made by any person is admitted in evidence under this section, the examining Magistrate may, of his own motion or on the application of any party to the committal hearing, require the person to attend before the examining Magistrate and give evidence.
-
-(4) So much of any statement as is admitted in evidence under this section must, unless the examining Magistrate otherwise directs, be read aloud at the hearing and where the examining Magistrate so directs, an account shall be given orally of so much of any statement as is not read aloud.
-
-(5) A document or an object referred to as an exhibit and identified in a written statement given in evidence under this section must be treated as if it had been produced as an exhibit and identified in court by the maker of the statement.
-
-(6) Section 297 shall apply to any written statement tendered in evidence at a committal hearing under this section, as it applies to a deposition taken in the committal hearing.
-
-### When accused to be discharged
-
-180\.—(1) When the written statements and all the other evidence, if any, in support of the prosecution have been received in evidence, the examining Magistrate shall, if he finds that there are insufficient grounds for committing the accused for trial, discharge him.
-
-(2) Nothing in this section shall be deemed to prevent an examining Magistrate from discharging the accused at any previous stage of the case if for reasons to be recorded by the examining Magistrate, he considers the charge to be groundless.
-
-(3) When the examining Magistrate is of the opinion that there are peculiar difficulties or circumstances connected with the case or whenever he is so directed by the Public Prosecutor, he shall remand the accused or admit him to bail and shall forthwith forward the evidence before the court to the Public Prosecutor in order that he may give such instructions as to him appear requisite.
-
-### When charge to be framed
-
-181\. If after taking the written statements and all the other evidence, if any, in support of the prosecution, the examining Magistrate is of the opinion that, on the evidence as it stands, the accused should be committed for trial on the charge that the prosecution tenders to the examining Magistrate, the charge shall be read and explained to the accused and the examining Magistrate shall say to him these words or words to the like effect:
-
-“Having heard the evidence, do you wish to say anything in answer to the charge? You have nothing to hope from any promise of favour and nothing to fear from any threat which may have been held out to you to induce you to make any confession of your guilt. You are not bound to say anything unless you desire to do so but whatever you say will be taken down in writing and may be given in evidence at your trial.”.
-
-### Committal when defence reserved
-
-182\. If the accused elects to reserve his defence, he shall forthwith be committed for trial before the High Court.
-
-### Defence of accused
-
-183\.—(1) If the accused elects to make his defence before the examining Magistrate instead of making a written statement under section 179, the statement made by the accused, if any, shall be taken down in writing and read over to him and shall be signed by the examining Magistrate and kept with the written statements made under section 179 and depositions, if any, and forwarded with them as hereinafter mentioned.
-
-(2) The evidence of the accused if he tenders himself as a witness in his own behalf in lieu of making a statement under subsection (1) or section 179 and of any witnesses whom he may desire to call shall then be taken.
-
-(3) Notwithstanding anything in the Evidence Act (Cap. 97), the accused shall be a competent witness in his own behalf in a committal hearing under this Division.
-
-### Addresses
-
-184\. In a committal hearing under this Division, the accused or his advocate may at the end of the prosecution case and, if the accused has elected to make his defence, at the end of the defence case, address the examining Magistrate on a submission that there is insufficient evidence to put the accused on trial for the offence of which he is charged, and the person conducting the prosecution shall have the right of reply.
-
-### Discharge or committal after defence
-
-185\. When sections 183 and 184 have been complied with, the examining Magistrate shall —
-
-(a) if he finds that there are insufficient grounds for committing the accused for trial, discharge the accused; or
-
-(b) if he finds that there are sufficient grounds for committing the accused for trial, commit the accused for trial before the High Court.
-
-### Bonds of witnesses
-
-186\.—(1) Witnesses for the prosecution and the defence whose attendance before the High Court is necessary and who have appeared before the examining Magistrate pursuant to section 179(3) or whose written statements have been admitted by the examining Magistrate under that section shall execute bonds binding themselves to be in attendance when called upon at the High Court to give evidence.
-
-(2) If any witness refuses to execute such bond, the examining Magistrate may commit him to prison until the trial or until he gives satisfactory security that he will give evidence at the trial.
-
-### Attendance at trial of person making report
-
-187\.—(1) Where any report under section 20 of the Coroners Act 2010 (Act 14 of 2010) or any document under section 263(1) has been used as evidence in a committal hearing, the examining Magistrate shall then inform the accused that he has the right to require the attendance of the person under whose hand the report or document is made as a witness at the trial, and that he may, to this end, give notice at any time before the trial to the Registrar of the Supreme Court, or to the officer in charge of the prison in which he is kept, of his wish that that person be required to attend at the trial.
-
-(2) On receiving any such notice from the accused, the officer in charge of the prison shall notify the Registrar of the Supreme Court.
-
-(3) The Registrar of the Supreme Court on receipt of such notice from the accused or from the officer in charge of the prison shall forthwith issue a summons to compel the attendance of that person at the trial.
-
-(4) Nothing in this section shall render such report or document inadmissible in evidence when the person who made it is dead or cannot be found or is incapable of giving evidence, or if his presence cannot be obtained without an amount of delay or expense which under the circumstances of the case the court considers unreasonable.
-
-(5) At any committal hearing, any report made under section 20 of the Coroners Act 2010 shall be admissible as evidence, and shall be prima facie evidence of the facts stated therein.
-
-### Procedure after committal of accused for trial
-
-188\.—(1) When the accused is committed for trial, the examining Magistrate shall send a copy of the record of the committal hearing to the Public Prosecutor and to the accused and, when the Magistrate receives an order from the Public Prosecutor to do so, forward the original record and any document, weapon or other thing which is to be produced in evidence to the Registrar of the Supreme Court.
-
-(2) Any such thing which from its bulk or otherwise cannot conveniently be forwarded to the Registrar of the Supreme Court may remain in the custody of the police or any other law enforcement agency.
-
-(3) A list of all exhibits with a note of their distinguishing marks and showing which of those exhibits are forwarded with the record and which remain in the custody of the police or any other law enforcement agency shall be forwarded to the Registrar of the Supreme Court with the record.
-
-(4) The record shall comprise the following particulars:
-
-(a) the serial number;
-
-(b) the date of the commission of the offence;
-
-(c) the date of the complaint, if any;
-
-(d) the name and residence of the complainant, if any;
-
-(e) the name, residence, if known, and nationality of the accused;
-
-(f) the offence complained of and the offence, if any, proved and the value of the property, if any, in respect of which the offence has been committed;
-
-(g) the date of the summons or warrant and of the return day of the summons, if any, or on which the accused was first arrested;
-
-(h) the date on which the accused first appeared or was brought before the Magistrate’s Court;
-
-(i) the date of the making of each adjournment or postponement, if any, and the date to which the adjournment or postponement was made and the grounds of making the same;
-
-(j) the date on which the proceedings terminated;
-
-(k) the order made;
-
-(l) the written statements referred to in section 179;
-
-(m) the depositions;
-
-(n) the statement or evidence of the accused under section 183, if any; and
-
-(o) the charge.
-
-### Custody of accused pending trial
-
-189\.—(1) The Magistrate’s Court shall, subject to the provisions of this Code regarding the taking of bail, commit the accused by warrant to custody until and during the trial.
-
-(2) This section shall not apply where the accused is a corporation.
-
-### Restrictions on reports of committal hearing
-
-190\.—(1) Except as provided by subsections (2) and (3), it shall not be lawful to publish a report of any committal hearing containing any matter other than that permitted by subsection (4).
-
-(2) A Magistrate’s Court shall, on an application for the purpose made with reference to any committal hearing by the accused person or one of the accused persons, as the case may be, order that subsection (1) shall not apply to reports of those proceedings.
-
-(3) It shall not be unlawful under this section to publish a report of any committal hearing containing any matter other than that permitted by subsection (4) —
-
-(a) where the examining Magistrate determines not to commit the accused person or persons for trial, after he so determines; and
-
-(b) where an examining Magistrate commits the accused person or any of the accused persons for trial, after the conclusion of his trial or, as the case may be, the trial of the last to be tried.
-
-(4) The following matters may be contained in a report of a committal hearing published without an order under subsection (2) before the time authorised by subsection (3):
-
-(a) the identity of the court and the name of the examining Magistrate;
-
-(b) the names, and occupations of the parties and the ages of the accused person or persons;
-
-(c) the offence or offences, or a summary of them, with which the accused person or persons is or are charged;
-
-(d) the names of advocates engaged in the proceedings;
-
-(e) any decision of the court to commit the accused person or any of the accused persons for trial, and any decision of the court on the disposal of the case of any accused person not committed;
-
-(f) where the court commits the accused person or any of the accused persons for trial, the charge or charges, or a summary of them, on which he is committed;
-
-(g) where the committal hearing is adjourned, the date to which it is adjourned;
-
-(h) any arrangements as to bail on committal or adjournment.
-
-(5) If a report is published in contravention of this section, the following persons shall be liable on summary conviction to a fine not exceeding $5,000:
-
-(a) in the case of a publication of a report as part of a newspaper or periodical, any proprietor, editor or publisher of the newspaper or periodical;
-
-(b) in the case of a publication of a report otherwise than as part of a newspaper or periodical, the person who publishes it;
-
-(c) in the case of a broadcast of a report by a body corporate, limited liability partnership, partnership or unincorporated association, any person acting on behalf of the body corporate, limited liability partnership, partnership or unincorporated association, having functions in relation to the broadcast of the report corresponding to those of the editor of a newspaper or periodical.
-
-(6) Proceedings for an offence under this section shall not be instituted otherwise than by or with the consent of the Public Prosecutor.
-
-(7) Subsection (1) shall be in addition to, and not in derogation of, the provisions of any other written law with respect to the publication of reports and proceedings of a Magistrate’s Court and any other court.
-
-(8) In this section —
-
-“broadcast” means any transmission of signs or signals for general reception, using wireless telecommunications or any other means of delivery, whether or not the transmission is encrypted;
-
-“publish”, in relation to a report, means make the report available to the general public of Singapore, or any section thereof, in whatever form and by whatever means, including broadcasting and transmitting on what is commonly known as the Internet.
-
-### Certain provisions to prevail
-
-191\. If a conflict arises between sections 176 to 190 and any other provisions of this Code or of any other written law, sections 176 to 190 shall prevail.
-
-### Procedure after case has been committed to High Court
-
-192\.—(1) After the accused has been committed to stand trial in the High Court (not being a committal for trial under section 178), the Registrar of the Supreme Court shall hold a criminal case disclosure conference not earlier than 7 days from the date the record of the committal hearing has been served on the parties under section 188.
-
-(2) The accused and the prosecution shall attend a criminal case disclosure conference as directed by the Registrar of the Supreme Court in accordance with this Division for the purpose of settling the following matters:
-
-(a) the filing of the Case for the Defence;
-
-(b) any issues of fact or law which are to be tried by the trial judge at the trial proper;
-
-(c) the list of witnesses to be called by the parties to the trial;
-
-(d) the statements, documents or exhibits which the parties to the case intend to adduce at the trial; and
-
-(e) the trial date.
-
-(3) The court must not make any order in relation to any matter referred to in subsection (2) in the absence of any party if the order is prejudicial to that party.
-
-### When Case for the Defence is served
-
-193\.—(1) If, at the criminal case disclosure conference held on the date referred to in section 192(1), or on such other date to which the criminal case disclosure conference is adjourned under section 238, the accused does not indicate that he wishes to plead guilty, the defence may file in court the Case for the Defence and serve a copy on the prosecution and on every co-accused who is claiming trial with him, if any, not later than 2 weeks from the date of the criminal case disclosure conference.
-
-(2) If the accused indicates that he does not wish to file the Case for the Defence, the Registrar of the Supreme Court may fix a date for trial in the High Court.
-
-(3) The Registrar of the Supreme Court may at any time fix a date for a further criminal case disclosure conference which is to be held after the Case for the Defence is to be filed under subsection (1) and after the prosecution is to serve on the defence copies of the statements and records referred to in section 196(1).
-
-### Court to explain to unrepresented accused certain matters
-
-194\. If, at the criminal case disclosure conference held on the date referred to in section 192(1), the accused is not represented by an advocate, the Registrar of the Supreme Court must explain to him, in accordance with the prescribed form, what he may do under section 193(1), the effect of section 196 and the consequences provided under section 209.
-
-### Contents of Case for the Defence
-
-195\.—(1) The Case for the Defence must contain —
-
-(a) a summary of the defence to the charge and the facts in support of the defence;
-
-(b) a list of the names of witnesses for the defence;
-
-(c) a list of the exhibits that are intended by the defence to be admitted at the trial; and
-
-(d) if objection is made to any issue of fact or law in relation to any matter contained in the Case for the Prosecution —
-
-(i) a statement of the nature of the objection;
-
-(ii) the issue of fact on which evidence will be adduced; and
-
-(iii) the points of law in support of such objection.
-
-Illustration 1
-
-Ais charged with murder. The summary should state the nature of the defence, the facts on which it is based (for example, that the victim attackedAwith a knife first) and any issue of law (for example, that exceptions 2 (private defence) and 4 (sudden fight) to section 300 of the Penal Code (Cap. 224) apply).
-
-Illustration 2
-
-The accused,A, intends to challenge, at the trial, the voluntariness of his statements made to the police which statements are intended by the prosecution to be admitted as part of its case.Amust specify which of the statements he intends to challenge and the facts that he intends to rely on to support his challenge.
-
-(2) Notwithstanding subsection (1), an accused who is not represented by an advocate need not state any —
-
-(a) objection to any issue of law in relation to any matter contained in the Case for the Prosecution; or
-
-(b) point of law in support of any objection raised by the defence.
-
-### Time for service of other statements
-
-196\.—(1) After the Case for the Defence has been served on the prosecution, the prosecution must, within 2 weeks from the date of service, serve on the accused or his advocate copies of —
-
-(a) all other statements given by the accused and recorded by an officer of a law enforcement agency under any law in relation to the charge or charges which the prosecution intends to proceed with at the trial; and
-
-(b) criminal records, if any, of the accused, upon payment of the prescribed fee.
-
-(2) Where the Case for the Defence has not been served on the prosecution, the prosecution —
-
-(a) need not serve on the defence any statement or record referred to in subsection (1); and
-
-(b) may use any such statement or record at the trial.
-
-### Fixing dates for trial
-
-197\. If, at the further criminal case disclosure conference referred to in section 193(3), the accused does not indicate that he wishes to plead guilty, the Registrar of the Supreme Court may fix a date for trial.
-
-### If co-accused charged subsequently
-
-198\. If, subsequent to any criminal case disclosure conference held under this Division in relation to an accused, a co-accused is charged, the court may do all or any of the following:
-
-(a) order the prosecution to serve on the co-accused the Case for the Prosecution or the record of the committal hearing referred to in section 188(1) in relation to the accused;
-
-(b) order the accused to serve on the co-accused his Case for the Defence, if any.
-
-Division 3 —
-
-Supplementary provisions to committal procedures
-
-### Persons to be deemed to have been brought before High Court in due course of law
-
-199\. All persons appearing before the High Court (under a commitment for trial or in pursuance of bail so to appear) against whom charges are preferred by or at the instance of the Public Prosecutor shall, unless the contrary is shown, be deemed to have been brought before the Court in due course of law, and, subject to this Code, shall be tried upon the charges so preferred.
-
-### When Public Prosecutor may direct that accused be discharged
-
-200\.—(1) When a copy of the record of any committal hearing before a Magistrate’s Court has been transmitted to the Public Prosecutor as required by section 188, the Public Prosecutor, if he is of the opinion that no further proceedings should be taken in the case, may make an order in writing, signed by himself, directing the accused to be discharged from the matter of the charge and, if the accused is in custody, from further detention upon the charge.
-
-(2) The Public Prosecutor shall send such order to the Magistrate’s Court by which the accused was committed or held to bail and thereupon that Court shall cause the accused to be brought before it and discharged and shall record the order and the discharge made on it upon the proceedings.
-
-(3) The powers given to the Public Prosecutor by this section shall be exercised only by him.
-
-### Public Prosecutor may by fiat designate court of trial when criminal offence disclosed
-
-201\.—(1) Whenever the Public Prosecutor is of the opinion that a criminal offence is disclosed by the record and that further proceedings should be taken against the accused and that the evidence taken is sufficient to afford a foundation for a full and proper trial, he shall, by his fiat in writing signed by himself, designate the court, whether the High Court, a District Court or a Magistrate’s Court, before which the case shall be placed for trial and shall order the record of the case to be transmitted to the court so designated.
-
-(2) Such fiat shall be filed with and form part of the record of the case.
-
-### Procedure when court designated is High Court
-
-202\.—(1) If the court so designated is the High Court, the Public Prosecutor shall, with his fiat, send to the Magistrate’s Court a signed charge as required by section 123(7) which shall be annexed to and form part of the record.
-
-(2) The Magistrate’s Court shall forthwith serve a copy of that charge on the accused.
-
-### Procedure when court designated is not High Court
-
-203\.—(1) If the court so designated is other than the High Court, the accused and his sureties shall, if he is at large on bail, be served with a copy of the fiat and thereupon the bail of the accused shall be taken to refer to the court named in the fiat in the same manner as if that court had been the High Court.
-
-(2) If the accused is detained in prison, the court shall cause a copy of the fiat to be left with the officer in charge of the prison who shall make and deliver a copy of it to the accused and shall produce the prisoner for trial accordingly.
-
-(3) Any fiat made under this section shall be subject to any order made by the High Court under section 239.
-
-### Witnesses to be notified of change of court
-
-204\.—(1) If the court designated by the fiat of the Public Prosecutor for the trial of the accused is a court other than the High Court, that court shall cause notices to that effect to be served on the witnesses who have been bound over to appear and give evidence.
-
-(2) Thereupon the bail bond given by or for those witnesses shall be taken to refer to the court and time named in the notice in the same manner as if they had been bound over to appear and give evidence at that court and time, and the witnesses shall be legally bound to attend at the time appointed by that court for the trial of the case.
-
-### Public Prosecutor may issue subsequent fiat
-
-205\. If the Public Prosecutor has by his fiat designated the High Court for the trial of the accused, he may nevertheless by subsequent fiat addressed to the High Court designate some other court for the trial, and sections 201(2), 203 and 204 shall then take effect as if the previous fiat had not been issued.
-
-### Public Prosecutor may alter or redraw charge
-
-206\. Before ordering the record of the committal hearing to be forwarded to the court of trial, the Public Prosecutor shall, if it appears to him necessary or expedient to do so, alter or redraw the charge or frame an additional charge or additional charges against the accused having regard to the regulations made under this Code as to the form of charges.
-
-### Public Prosecutor may order proceedings before Magistrate’s Court to be transmitted to him
-
-207\. Every Magistrate’s Court shall, whenever required to do so by the Public Prosecutor, immediately transmit to the Public Prosecutor the proceedings in any case in which a committal hearing has been or is being held before the Court and thereupon the hearing shall be suspended in the like manner as upon an adjournment of it.
-
-### Public Prosecutor may thereupon give instructions to Magistrate
-
-208\.—(1) The Public Prosecutor, upon the proceedings in any case being transmitted to him under section 207, may give such instructions with regard to the committal hearing to which those proceedings relate as he considers requisite, and thereupon the Magistrate shall carry into effect, subject to this Code, those instructions and shall conduct and conclude the committal hearing in accordance with the terms of those instructions.
-
-(2) The powers given to the Public Prosecutor by section 207 and this section shall be exercised only by him.
-
-Division 4 —
-
-Non-compliance with certain requirements in Division 2
-
-### Consequences of non-compliance with certain requirements in Division 2
-
-209\. The court may draw such inference as it thinks fit if —
-
-(a) the Case for the Prosecution or the Case for the Defence does not contain any or any part of the items specified in section 176(4) or 195(1), respectively; or
-
-(b) the prosecution or the defence puts forward a case at the trial which differs from or is otherwise inconsistent with the Case for the Prosecution or the Case for the Defence, respectively, that has been filed.
+[Repealed by Act 19 of 2018 wef 17/09/2018]
 
 Division 5 —
 
@@ -4082,11 +4044,9 @@ Transmission proceedings
 
 ### Transmission of case to High Court
 
-210\.—(1) Whenever the Public Prosecutor is of the opinion that there is sufficient evidence to afford a foundation for a full and proper trial, he shall, by fiat in writing signed by himself, designate the High Court to try —
+210\.—(1) Where the Public Prosecutor is of the opinion that an offence must or ought to be tried in the High Court, the Public Prosecutor must, by fiat in writing signed by the Public Prosecutor, designate the High Court to try the offence.
 
-(a) an offence specified in the Third Schedule; or
-
-(b) the offences referred to in section 175(4) for which an accused may be tried at the same trial in the High Court.
+[Act 19 of 2018 wef 17/09/2018]
 
 (2) Upon receipt of the fiat referred to in subsection (1) together with the charge, the Magistrate’s Court shall cause the charge to be read and explained to the accused and thereafter —
 
@@ -4094,13 +4054,33 @@ Transmission proceedings
 
 (b) order that the accused shall be remanded in custody until and during the trial, unless he is released on bail.
 
+(3) To avoid doubt, a Magistrate’s Court can continue to exercise powers under Division 5 of Part VI in relation to a case that has been transmitted under subsection (2) to the High Court for the purpose of trial.
+
+[Act 19 of 2018 wef 17/09/2018]
+
 ### Public Prosecutor may issue subsequent fiat
 
 211\. If the Public Prosecutor has by his fiat designated the High Court for the trial of the accused, he may nevertheless by subsequent fiat addressed to the High Court designate a District Court or a Magistrate’s Court for the trial.
 
+### When criminal case disclosure procedures apply
+
+211A\.—(1) The criminal case disclosure procedures in this Division apply to any offence —
+
+(a) that must be tried in the High Court; or
+
+(b) that —
+
+(i) is set out in a written law specified in the Second Schedule; and
+
+(ii) the Public Prosecutor designates the High Court to try.
+
+(2) The criminal case disclosure procedures in this Division also apply to any offence that is to be tried in the High Court, but is not mentioned in subsection (1), if all parties consent to have those procedures apply to that offence.
+
+[Act 19 of 2018 wef 17/09/2018]
+
 ### Procedure after case has been transmitted to High Court
 
-212\.—(1) After the case has been transmitted to the High Court, the accused and the prosecution shall, unless the Registrar of the Supreme Court for good reason directs otherwise, attend a first criminal case disclosure conference, not earlier than 4 weeks from the date of transmission as directed by the Registrar of the Supreme Court for the purpose of settling the following matters:
+212\.—(1) Where the criminal case disclosure procedures in this Division apply by virtue of section 211A, after the case has been transmitted to the High Court, the prosecution and the defence shall, unless the Registrar of the Supreme Court for good reason directs otherwise, attend a first criminal case disclosure conference, not earlier than 4 weeks from the date of transmission as directed by the Registrar of the Supreme Court for the purpose of settling the following matters:
 
 (a) the filing of the Case for the Prosecution and the Case for the Defence;
 
@@ -4112,21 +4092,29 @@ Transmission proceedings
 
 (e) the trial date.
 
+[Act 19 of 2018 wef 17/09/2018]
+
 (2) The Registrar of the Supreme Court must not make any order in relation to any matter referred to in subsection (1) in the absence of any party if the order is prejudicial to that party.
 
-(3) Where an accused informs the Registrar of the Supreme Court during any criminal case disclosure conference conducted under this Division that he intends to plead guilty to the charge, the Registrar must fix a date for his plea to be taken in accordance with Division 3 of Part XI.
+(3) Where the defence informs the Registrar of the Supreme Court during any criminal case disclosure conference conducted under this Division that the accused intends to plead guilty to the charge, the Registrar must fix a date for the accused’s plea to be taken in accordance with Division 3 of Part XI.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### When Case for the Prosecution is served
 
-213\.—(1) If, at the first criminal case disclosure conference held on the date referred to in section 212(1), or on such other date to which the first criminal case disclosure conference has been adjourned under section 238, the accused does not indicate that he wishes to plead guilty to the charge, the prosecution must file in the High Court the Case for the Prosecution and serve a copy of this on the accused and every co-accused claiming trial with him, if any, not later than 2 weeks from the date of the first criminal case disclosure conference or such date to which the first criminal case disclosure conference is adjourned.
+213\.—(1) If, at the first criminal case disclosure conference held on the date referred to in section 212(1), or on such other date to which the first criminal case disclosure conference has been adjourned under section 238, the defence does not indicate that the accused wishes to plead guilty to the charge, the prosecution must file in the High Court the Case for the Prosecution and serve a copy of this on the accused and every co-accused claiming trial with him, if any, not later than 2 weeks from the date of the first criminal case disclosure conference or such date to which the first criminal case disclosure conference is adjourned.
 
-(2) Where at a criminal case disclosure conference, the accused indicates that he wishes to claim trial to more than one charge, the Case for the Prosecution to be served under subsection (1) shall only relate to those charges that the prosecution intends to proceed with at the trial.
+[Act 19 of 2018 wef 17/09/2018]
+
+(2) Where at a criminal case disclosure conference, the defence indicates that the accused wishes to claim trial to more than one charge, the Case for the Prosecution to be served under subsection (1) shall only relate to those charges that the prosecution intends to proceed with at the trial.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (3) The Registrar of the Supreme Court may at any time fix a date for a further criminal case disclosure conference not earlier than 7 days from the date the Case for the Prosecution is to be filed under this section.
 
 ### Contents of Case for the Prosecution
 
-214\. The Case for the Prosecution must contain the following:
+214\.—(1) The Case for the Prosecution must contain the following:
 
 (a) a copy of the charge which the prosecution intends to proceed with at the trial;
 
@@ -4134,17 +4122,39 @@ Transmission proceedings
 
 (c) a list of exhibits that are intended by the prosecution to be admitted at the trial;
 
-(d) the statements of the witnesses under section 264 that are intended by the prosecution to be admitted at the trial; and
+(d) the statements of the witnesses under section 264 that are intended by the prosecution to be admitted at the trial;
 
-(e) any statement made by the accused at any time and recorded by an officer of a law enforcement agency under any law, which the prosecution intends to adduce in evidence as part of the case for the prosecution.
+[Act 19 of 2018 wef 17/09/2018]
+
+(e) any written statement made by the accused at any time and recorded by an officer of a law enforcement agency under any law, which the prosecution intends to adduce in evidence as part of the case for the prosecution;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(f) a list of every statement, made by the accused at any time to an officer of a law enforcement agency under any law, that is recorded in the form of an audiovisual recording, and that the prosecution intends to adduce in evidence as part of the case for the prosecution;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(g) for every statement mentioned in paragraph (f), a transcript (if any) of the audiovisual recording of that statement.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(2) Where the Case for the Prosecution has been served on the defence, the prosecution must, if requested by the defence, arrange for the defence to view the audiovisual recording of each statement mentioned in subsection (1)(f) at a police station or at any other prescribed place.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### When Case for the Defence is served
 
 215\.—(1) If, at the further criminal case disclosure conference held on the date referred to in section 213(3) or on such other date to which the further criminal case disclosure conference has been adjourned under section 238 —
 
-(a) the accused does not indicate that he wishes to plead guilty, the defence may file in the High Court the Case for the Defence and serve a copy on the prosecution and on every co-accused claiming trial with him, if any, not later than 2 weeks from the date of the further criminal case disclosure conference; or
+(a) the defence does not indicate that the accused wishes to plead guilty, the defence may file in the High Court the Case for the Defence and serve a copy on the prosecution and on every co-accused claiming trial with the accused, if any, not later than 2 weeks from the date of the further criminal case disclosure conference; or
 
-(b) the accused indicates that he does not wish to file the Case for the Defence, the Registrar of the Supreme Court may fix a date for trial in the High Court.
+[Act 19 of 2018 wef 17/09/2018]
+
+(b) the defence indicates that the accused does not wish to file the Case for the Defence, the Registrar of the Supreme Court may fix a date for trial in the High Court.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (2) The Registrar of the Supreme Court may at any time fix a date for a further criminal case disclosure conference which is to be held after the Case for the Defence is to be filed under this section and after the prosecution is to serve on the defence copies of the statements and records referred to in section 218(1).
 
@@ -4186,21 +4196,47 @@ The accused,A, intends to challenge, at the trial, the voluntariness of his stat
 
 ### Time for service of other statements, etc.
 
-218\.—(1) After the Case for the Defence has been served on the prosecution, the prosecution must, within 2 weeks from the date of service, serve on the accused or his advocate copies of —
+218\.—(1) After the Case for the Defence has been served on the prosecution, the prosecution must, within 2 weeks after the date on which the Case for the Defence is served, serve on the defence copies of —
 
-(a) all other statements given by the accused and recorded by an officer of a law enforcement agency under any law in relation to the charge or charges which the prosecution intends to proceed with at the trial; and
+(a) every other written statement given by the accused and recorded by an officer of a law enforcement agency under any law in relation to the charge or charges which the prosecution intends to proceed with at the trial;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(aa) for every other statement given by the accused and recorded, in the form of an audiovisual recording, by an officer of a law enforcement agency under any law in relation to the charge or charges that the prosecution intends to proceed with at the trial, a transcript (if any) of the audiovisual recording of that statement; and
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (b) criminal records, if any, of the accused, upon payment of the prescribed fee.
 
-(2) Where the Case for the Defence has not been served on the prosecution, the prosecution —
+[Act 19 of 2018 wef 17/09/2018]
 
-(a) need not serve on the defence any statement or record referred to in subsection (1); and
+(2) Where the documents mentioned in subsection (1) have been served on the defence, the prosecution must, if requested by the defence, arrange for the defence to view the audiovisual recording of each statement mentioned in subsection (1)(aa) at a police station or at any other prescribed place.
 
-(b) may use any such statement or record at the trial.
+[Act 19 of 2018 wef 17/09/2018]
+
+(3) Where the Case for the Defence has not been served on the prosecution, the prosecution —
+
+(a) need not serve on the defence any written statement, transcript or record mentioned in subsection (1);
+
+(b) need not arrange for the viewing mentioned in subsection (2) of the audiovisual recording of any statement mentioned in subsection (1)(aa); and
+
+(c) may use any such statement, transcript, record or audiovisual recording at the trial.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(4) Where the Case for the Defence has been served on the prosecution, the defence must, within 2 weeks after the date on which the Case for the Defence is served, serve on the prosecution a copy of each documentary exhibit that is set out in the list mentioned in section 217(1)(c) and is in the possession, custody or power of the accused.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(5) The obligations of the prosecution under subsections (1) and (2) and the obligation of the defence under subsection (4) are independent of each other.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Fixing dates for trial
 
-219\. If, at the further criminal case disclosure conference held on the date referred to in section 215(2), the accused does not indicate that he wishes to plead guilty, the Registrar of the Supreme Court may fix a date for trial.
+219\. If, at the further criminal case disclosure conference held on the date referred to in section 215(2), the defence does not indicate that the accused wishes to plead guilty, the Registrar of the Supreme Court may fix a date for trial.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### If co-accused charged subsequently
 
@@ -4210,6 +4246,12 @@ The accused,A, intends to challenge, at the trial, the voluntariness of his stat
 
 (b) order the accused to serve on the co-accused his Case for the Defence, if any.
 
+### Pre-trial conference
+
+220A\. Regardless whether the criminal case disclosure procedures in this Division apply by virtue of section 211A, the Registrar of the Supreme Court may, at any time, fix the date for and conduct a pre‑trial conference to settle any administrative matter in relation to a trial.
+
+[Act 19 of 2018 wef 17/09/2018]
+
 Division 6 —
 
 Non-compliance with certain requirements in Division 5
@@ -4218,7 +4260,17 @@ Non-compliance with certain requirements in Division 5
 
 221\. The court may draw such inference as it thinks fit if —
 
-(a) the Case for the Prosecution or the Case for the Defence does not contain any or any part of the items specified in section 214 or 217(1), respectively; or
+(a) the Case for the Prosecution or the Case for the Defence does not contain any or any part of the items specified in section 214 or 217(1), respectively;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(aa) the prosecution fails to serve on the defence any copy of a statement, transcript or criminal record that the prosecution is required under section 218(1) to serve on the defence;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(ab) the defence fails to serve on the prosecution a copy of each documentary exhibit that is set out in the list mentioned in section 217(1)(c) and is in the possession, custody or power of the accused; or
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (b) the prosecution or the defence puts forward a case at the trial which differs from or is otherwise inconsistent with the Case for the Prosecution or the Case for the Defence, respectively, that has been filed.
 
@@ -4244,11 +4296,17 @@ General pre-trial procedures
 
 224\.—(1) A relevant judge may, if satisfied that it is expedient in the interests of public safety, public security or propriety, public order, national interest or national security of Singapore or any part thereof, or for other sufficient reason to do so, order that any information contained in —
 
-(a) the Case for the Prosecution referred to in sections 162, 176(4) and 214;
+(a) the Case for the Prosecution referred to in sections 162 and 214;
 
-(b) the Case for the Defence referred to in sections 165(1), 195(1) and 217(1); or
+[Act 19 of 2018 wef 17/09/2018]
 
-(c) the statements, exhibits or records referred to in section 166(1), 196(1) or 218(1),
+(b) the Case for the Defence referred to in sections 165(1) and 217(1); or
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(c) the statements, exhibits or records referred to in section 166(1) or 218(1),
+
+[Act 19 of 2018 wef 17/09/2018]
 
 shall not be communicated to any other person by the accused, and if the accused is represented by an advocate, by his advocate as well.
 
@@ -4266,11 +4324,17 @@ shall not be communicated to any other person by the accused, and if the accused
 
 225\.—(1) It shall not be lawful to publish a report of any information contained in —
 
-(a) the Case for the Prosecution referred to in sections 162, 176(4) and 214;
+(a) the Case for the Prosecution referred to in sections 162 and 214;
 
-(b) the Case for the Defence referred to in sections 165(1), 195(1) and 217(1); or
+[Act 19 of 2018 wef 17/09/2018]
 
-(c) the statements, exhibits or records referred to in section 166(1), 196(1) or 218(1),
+(b) the Case for the Defence referred to in sections 165(1) and 217(1); or
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(c) the statements, exhibits or records referred to in section 166(1) or 218(1),
+
+[Act 19 of 2018 wef 17/09/2018]
 
 other than the names, ages and occupations of the accused person or persons, and the offence or offences, or a summary of them, with which the accused person or persons is or are charged.
 
@@ -4291,6 +4355,46 @@ other than the names, ages and occupations of the accused person or persons, and
 “broadcast” means any transmission of signs or signals for general reception, using wireless telecommunications or any other means of delivery, and whether or not the transmission is encrypted;
 
 “publish”, in relation to a report, means make the report available to the general public of Singapore, or any section thereof, in whatever form and by whatever means, including broadcasting and transmitting on what is commonly known as the Internet.
+
+### Restrictions on use of material disclosed by prosecution
+
+225A\.—(1) Where the prosecution discloses (whether before, on or after the date of commencement of section 60 of the Criminal Justice Reform Act 2018) any material to the accused or the accused’s advocate (if any) for the purposes of any criminal proceedings —
+
+(a) that material may be disclosed, for the purposes of those criminal proceedings, to any co‑accused in those criminal proceedings, or to the advocate (if any) of any such co‑accused, by any of the following persons:
+
+(i) the accused;
+
+(ii) the accused’s advocate (if any);
+
+(iii) any other co‑accused or advocate to whom that material was disclosed under this paragraph; and
+
+(b) on and after the date of commencement of section 60 of the Criminal Justice Reform Act 2018, each of the following persons is deemed to give an undertaking to the court not to use that material for any purpose (other than the purposes of those criminal proceedings) without the permission of the Public Prosecutor:
+
+(i) the accused;
+
+(ii) the accused’s advocate (if any);
+
+(iii) any co‑accused or advocate to whom that material is disclosed under paragraph (a).
+
+(2) Subsection (1) applies regardless whether the material is disclosed by the prosecution voluntarily or pursuant to any written law or rule of law or any order of court.
+
+(3) The undertaking in subsection (1)(b) ceases to apply to that material after that material is adduced as evidence in court in those criminal proceedings.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+### Mode of disclosing statement recorded in form of audiovisual recording
+
+225B\.—(1) This section applies where any rule of law requires the prosecution to disclose to the defence any statement made by a person examined under section 22 that is recorded in the form of an audiovisual recording.
+
+(2) The prosecution is not required to produce either of the following to the defence:
+
+(a) the audiovisual recording of the statement;
+
+(b) a copy of that audiovisual recording.
+
+(3) The prosecution must, if requested by the defence, arrange for the defence to view the audiovisual recording of the statement at a police station or at any other prescribed place.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 Division 2 —
 
@@ -4364,17 +4468,23 @@ Plead guilty procedures
 
 (ii) intends to admit to the offence without qualification.
 
-(3) The High Court shall not record a plea of guilty in a case where the accused pleads guilty to an offence punishable with death unless the accused has been committed to stand trial in the High Court under Division 2 of Part X for the offence, and evidence is led by the prosecution to prove its case at the trial.
+(3) The High Court shall not record a plea of guilty in a case where the accused pleads guilty to an offence punishable with death unless evidence is led by the prosecution to prove its case at the trial.
 
-(4) Where —
+[Act 19 of 2018 wef 17/09/2018]
 
-(a) an accused has been committed for trial under section 178 or a case has been transmitted for trial in the High Court under Division 5 of Part X;
+(4) Where a case is transmitted for trial in the High Court under Division 5 of Part X, the court may order the parties to the case to attend a criminal case disclosure conference for the purpose of settling the matters mentioned in section 212, and the criminal case disclosure procedures in Division 5 of Part X apply, with the necessary modifications, in relation to the case, if —
 
-(b) a date is fixed for a plea of guilty to be taken from the accused who has been committed for trial or whose case has been so transmitted; and
+(a) either of the following applies:
 
-(c) on that date, the accused refuses to plead, does not plead or claims trial,
+(i) the accused is charged with an offence mentioned in section 211A(1);
 
-the court may order the parties to the case to attend a criminal case disclosure conference for the purpose of settling the matters referred to in section 212 and the procedure in Division 5 of Part X shall, with the necessary modifications, apply in relation to the case.
+(ii) the accused is charged with any other offence that is to be tried in the High Court, and all parties consent to have those procedures apply to that offence;
+
+(b) a date is fixed for a plea of guilty to be taken from the accused; and
+
+(c) on that date, the accused refuses to plead, does not plead or claims trial.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (5) Where —
 
@@ -4548,6 +4658,14 @@ the Public Prosecutor may, if he thinks fit, inform the court that he will not f
 
 (6) For the avoidance of doubt, the power of a court under subsection (1) shall not be exercisable by any court which presides or is to preside over any criminal case disclosure conference or pre-trial conference held under Part IX or X, as the case may be.
 
+(7) Despite subsection (1), where a statement made by a person is recorded in the form of an audiovisual recording, if a court considers that the production of the audiovisual recording is necessary or desirable for the purposes of any inquiry, trial or other proceeding under this Code by or before the court, the court may only order the prosecution to do either or both of the following:
+
+(a) to produce the audiovisual recording in court;
+
+(b) to arrange for the defence to view the audiovisual recording at a police station or at any other prescribed place.
+
+[Act 19 of 2018 wef 17/09/2018]
+
 ## PART XIII
 
 GENERAL PROVISIONS RELATING TO
@@ -4641,17 +4759,27 @@ the High Court may order —
 
 240\.—(1) In any trial before a Magistrate’s Court in which it appears at any stage of the proceedings that from any cause the case is one which the Magistrate’s Court is not competent to try or one which in the opinion of that Court ought to be tried by a District Court or by the High Court, or if before or during the trial an application is made by the Public Prosecutor, the Magistrate’s Court shall stay proceedings and —
 
-(a) transfer the case to a District Court;
+(a) transfer the case to a District Court; or
 
-(b) in a case where the committal procedures under Division 2 of Part X are to be held by virtue of section 175, arrange for a criminal case disclosure conference to be held in accordance with section 176, and that Division shall apply in relation to the case; or
+[Act 19 of 2018 wef 17/09/2018]
 
-(c) in a case where the transmission procedures under Division 5 of Part X are to be held by virtue of section 175, forward the case to the Public Prosecutor, and that Division shall apply in relation to the case.
+(b) forward the case to the Public Prosecutor, to enable the transmission procedures under Division 5 of Part X to be held.
 
-(2) In any trial before a District Court in which it appears at any stage of the proceedings that from any cause the case is one which the District Court is not competent to try or one which in the opinion of that Court ought to be tried by the High Court, or if before or during the trial an application is made by the Public Prosecutor, the District Court shall stay proceedings and —
+[Act 19 of 2018 wef 17/09/2018]
 
-(a) in a case where the committal procedures under Division 2 of Part X are to be held by virtue of section 175, arrange for a criminal case disclosure conference to be held in accordance with section 176 and that Division shall apply in relation to the case; or
+(c) [Deleted by Act 19 of 2018 wef 17/09/2018]
 
-(b) in a case where the transmission procedures under Division 5 of Part X are to be held by virtue of section 175, forward the case to the Public Prosecutor, and that Division shall apply in relation to the case.
+(2) In any trial before a District Court in which it appears at any stage of the proceedings that from any cause the case is one that the District Court is not competent to try or one that in the opinion of the District Court ought to be tried by the High Court, or if before or during the trial an application is made by the Public Prosecutor, the District Court must —
+
+(a) stay proceedings; and
+
+(b) forward the case to the Public Prosecutor, to enable the transmission procedures under Division 5 of Part X to be held.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(2A) Where the case is forwarded to the Public Prosecutor under subsection (1)(b) or (2)(b), Division 5 of Part X applies in relation to the case.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (3) The Magistrate’s Court and the District Court shall record its order on the proceedings made under subsections (1) and (2), respectively.
 
@@ -4733,7 +4861,7 @@ Previous acquittals or convictions
 
 (4) A person acquitted or convicted of any offence constituted by certain acts may, notwithstanding the acquittal or conviction, be charged later with and tried for any other offence constituted by the same acts which he may have committed if the court that first tried him was not competent to try the offence with which he is subsequently charged.
 
-Explanation— — The dismissal of a complaint or the discharge of the accused is not an acquittal for the purposes of this section.
+Explanation— The dismissal of a complaint or the discharge of the accused is not an acquittal for the purposes of this section.
 
 Illustrations
 
@@ -4933,29 +5061,47 @@ Admissibility of certain types of evidence
 
 (3) The court shall refuse to admit the statement of an accused or allow it to be used in the manner referred to in subsection (1) if the making of the statement appears to the court to have been caused by any inducement, threat or promise having reference to the charge against the accused, proceeding from a person in authority and sufficient, in the opinion of the court, to give the accused grounds which would appear to him reasonable for supposing that by making the statement he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him.
 
-Explanation1—If a statement is obtained from an accused by a person in authority who had acted in such a manner that his acts tend to sap and have in fact sapped the free will of the maker of the statement, and the court is of the opinion that such acts gave the accused grounds which would appear to the accused reasonable for supposing that by making the statement, he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him, such acts will amount to a threat, an inducement or a promise, as the case may be, which will render the statement inadmissible.
+Explanation 1— If a statement is obtained from an accused by a person in authority who had acted in such a manner that his acts tend to sap and have in fact sapped the free will of the maker of the statement, and the court is of the opinion that such acts gave the accused grounds which would appear to the accused reasonable for supposing that by making the statement, he would gain any advantage or avoid any evil of a temporal nature in reference to the proceedings against him, such acts will amount to a threat, an inducement or a promise, as the case may be, which will render the statement inadmissible.
 
-Explanations2—If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
+Explanation 2— If a statement is otherwise admissible, it will not be rendered inadmissible merely because it was made in any of the following circumstances:
 
-(a) under a promise of secrecy, or in consequence of a deception practised on the accused for the purpose of obtaining it;
+(a)
 
-(aa) where the accused is informed in writing by a person in authority of the circumstances in section 33B of the Misuse of Drugs Act (Cap. 185) under which life imprisonment may be imposed in lieu of death;
+under a promise of secrecy, or in consequence of a deception practised on the accused for the purpose of obtaining it;
+
+(aa)
+
+where the accused is informed in writing by a person in authority of the circumstances in section 33B of the Misuse of Drugs Act (Cap. 185) under which life imprisonment may be imposed in lieu of death;
+
+(b)
+
+when the accused was intoxicated;
+
+(c)
+
+in answer to questions which the accused need not have answered whatever may have been the form of those questions;
+
+(d)
+
+where the accused was not warned that he was not bound to make the statement and that evidence of it might be given against him;
+
+(e)
+
+where the recording officer or the interpreter of an accused’s statement recorded under section 22 or 23 did not fully comply with that section; or
+
+(f)
+
+where an accused’s statement under section 22 or 23 is in writing, when section 22(5) or 23(3B) (as the case may be) requires the statement to be recorded in the form of an audiovisual recording.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 [Act 30 of 2012 wef 01/01/2013]
-
-(b) when the accused was intoxicated;
-
-(c) in answer to questions which the accused need not have answered whatever may have been the form of those questions;
-
-(d) where the accused was not warned that he was not bound to make the statement and that evidence of it might be given against him; or
-
-(e) where the recording officer or the interpreter of an accused’s statement recorded under section 22 or 23 did not fully comply with that section.
 
 (4) If the statement referred to in subsection (3) is made after the impression caused by any such inducement, threat or promise referred to in that subsection has, in the opinion of the court, been fully removed, it shall be admissible.
 
 (5) When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession.
 
-Explanation— —“Offence” as used in this section includes the abetment of or attempt to commit the offence.
+Explanation— “Offence” as used in this section includes the abetment of or attempt to commit the offence.
 
 Illustrations
 
@@ -5043,7 +5189,7 @@ draw such inferences from the failure as appear proper; and the failure may, on 
 
 ### Conditioned statements
 
-264\.—(1) Notwithstanding anything in this Code or in any other written law, a written statement made by any person is admissible as evidence in any criminal proceeding (other than a committal hearing held under Division 2 of Part X), to the same extent and to the same effect as oral evidence given by the person, if the following conditions are satisfied:
+264\.—(1) Notwithstanding anything in this Code or in any other written law, a written statement made by any person is admissible as evidence in any criminal proceeding, to the same extent and to the same effect as oral evidence given by the person, if the following conditions are satisfied:
 
 (a) the statement appears to be signed by the person who made it;
 
@@ -5054,6 +5200,8 @@ draw such inferences from the failure as appear proper; and the failure may, on 
 (d) before or during the hearing, the parties agree to the statement being tendered in evidence under this section; and
 
 (e) the court is satisfied that the accused is aware of this section or is represented by an advocate during the criminal proceeding.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (2) The following provisions also apply to any written statement given in evidence under this section:
 
@@ -5069,9 +5217,103 @@ draw such inferences from the failure as appear proper; and the failure may, on 
 
 (b) the court may, of its own motion or on the application of any party to the proceeding, require the person to attend before the court and give evidence.
 
-(4) So much of any statement as is admitted in evidence under this section must, unless the court otherwise directs, be read aloud at the hearing and where the court so directs an account shall be given orally of so much of any statement as is not read aloud.
+(4) Unless the court directs otherwise, so much of any statement as is admitted in evidence under this section must be read aloud at the hearing.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(4A) Where the court directs under subsection (4) that any part of a statement admitted in evidence under this section need not be read aloud at the hearing, the court may also direct that an account be given orally of the part of that statement that is not read aloud.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (5) A document or an object referred to as an exhibit and identified in a written statement given in evidence under this section must be treated as if it had been produced as an exhibit and identified in court by the maker of the statement.
+
+### Statement recorded in form of audiovisual recording
+
+264A\.—(1) Despite anything in this Code or in any other written law, a statement made by a person that is recorded in the form of an audiovisual recording (called in this section a recorded statement) is admissible as evidence in a criminal proceeding, to the same extent and to the same effect as oral evidence given by the person, if —
+
+(a) the criminal proceeding relates to an offence alleged to have been committed against or in relation to the person;
+
+(b) any of the following conditions is satisfied:
+
+(i) the offence alleged to have been committed against or in relation to the person is —
+
+(A) a child abuse offence;
+
+(B) an offence under section 24(2) of the Children and Young Persons Act (Cap. 38), an abetment of, a conspiracy to commit, or an attempt to commit, that offence;
+
+(C) a sexual offence;
+
+(D) an offence under section 169(3) of the Women’s Charter (Cap. 353), an abetment of, a conspiracy to commit, or an attempt to commit, that offence; or
+
+(E) an offence under section 3(1) or (2) or 6(1) of the Prevention of Human Trafficking Act 2014 (Act 45 of 2014), an abetment of, a conspiracy to commit, or an attempt to commit, that offence;
+
+(ii) both of the following apply:
+
+(A) the offence alleged to have been committed against or in relation to the person is an offence under section 323, 324, 325, 326, 327, 328, 329, 330, 331, 334, 335, 336, 337 or 338 of the Penal Code (Cap. 224), an abetment of, a conspiracy to commit, or an attempt to commit, that offence;
+
+(B) any of the following applies:
+
+(BA)
+
+the person is below 16 years of age;
+
+(BB)
+
+the person is suffering from a mental disability;
+
+(BC)
+
+the person is a domestic maid, and the offence is alleged to have been committed by the employer of the person or by a member of the employer’s household;
+
+(iii) all of the following apply:
+
+(A) the offence alleged to have been committed against or in relation to the person is any other offence;
+
+(B) any of the following applies:
+
+(BA)
+
+the person is below 16 years of age;
+
+(BB)
+
+the person is suffering from a mental disability;
+
+(BC)
+
+the person is a domestic maid, and the offence is alleged to have been committed by the employer of the person or by a member of the employer’s household;
+
+(C) the court grants leave for the recorded statement to be admitted in evidence;
+
+(c) in a case where the person is below 21 years of age, the recorded statement states the person’s age; and
+
+(d) in a case where the recorded statement is to be used in lieu of oral evidence given by the person as evidence in chief in the criminal proceeding, the person has confirmed in the recorded statement that what the person states in the recorded statement is true.
+
+(2) Where a recorded statement is admissible as evidence in a criminal proceeding under subsection (1), a transcript of the audiovisual recording of the recorded statement is also admissible as evidence in the criminal proceeding, to the same extent and to the same effect as the recorded statement.
+
+(3) Where in any criminal proceeding a recorded statement of a person, or a transcript of the audiovisual recording of a recorded statement of a person, is admitted in evidence under this section, the court may, of its own motion or on the application of any party to the proceeding, require the person to attend before the court and give evidence.
+
+(4) Unless the court directs otherwise —
+
+(a) the audiovisual recording of so much of a recorded statement as is admitted in evidence under this section must be displayed at the hearing; and
+
+(b) so much of a transcript as is admitted in evidence under this section must be read aloud at the hearing.
+
+(5) Where the court directs under subsection (4) that any part of the audiovisual recording of a recorded statement admitted in evidence under this section need not be displayed at the hearing, the court may also direct that an account be given orally of the part of the audiovisual recording that is not displayed.
+
+(6) Where the court directs under subsection (4) that any part of a transcript admitted in evidence under this section need not be read aloud at the hearing, the court may also direct that an account be given orally of the part of the transcript that is not read aloud.
+
+(7) Where a document or an object is referred to as an exhibit and identified in a recorded statement of a person, or in a transcript of the audiovisual recording of a recorded statement of a person, and the recorded statement or transcript (as the case may be) is admitted in evidence under this section, the document or object must be treated as if the document or object had been produced as an exhibit and identified in court by the person.
+
+(8) Where a document is referred to as an exhibit in a recorded statement, or in a transcript of the audiovisual recording of a recorded statement, and the recorded statement or transcript (as the case may be) is admitted in evidence under this section, the prosecution must —
+
+(a) serve a copy of that document on the defence; or
+
+(b) allow the defence to inspect that document or a copy of that document.
+
+(9) In this section, “domestic maid” and “member of the employer’s household” have the same meanings as in section 73(4) of the Penal Code.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### When evidence of past possession of stolen property allowed
 
@@ -5117,23 +5359,23 @@ then, if he has been convicted of an offence involving fraud or dishonesty withi
 
 [4/2012]
 
-269\. [Repealed by Act 4 of 2012 wef 01/08/2012]
+269\. [Repealed by Act 4 of 2012]
 
-270\. [Repealed by Act 4 of 2012 wef 01/08/2012]
+270\. [Repealed by Act 4 of 2012]
 
-271\. [Repealed by Act 4 of 2012 wef 01/08/2012]
+271\. [Repealed by Act 4 of 2012]
 
-272\. [Repealed by Act 4 of 2012 wef 01/08/2012]
+272\. [Repealed by Act 4 of 2012]
 
-273\. [Repealed by Act 4 of 2012 wef 01/08/2012]
+273\. [Repealed by Act 4 of 2012]
 
-274\. [Repealed by Act 4 of 2012 wef 01/08/2012]
+274\. [Repealed by Act 4 of 2012]
 
-275\. [Repealed by Act 4 of 2012 wef 01/08/2012]
+275\. [Repealed by Act 4 of 2012]
 
-276\. [Repealed by Act 4 of 2012 wef 01/08/2012]
+276\. [Repealed by Act 4 of 2012]
 
-277\. [Repealed by Act 4 of 2012 wef 01/08/2012]
+277\. [Repealed by Act 4 of 2012]
 
 ### Notice of alibi
 
@@ -5392,15 +5634,7 @@ Witnesses
 
 (3) Evidence recorded under this section may be taken down in the form of question and answer or in the form of a narrative, as the court thinks fit.
 
-### Reading over evidence and correction
-
-287\.—(1) The evidence of each witness taken in committal hearings under Division 2 of Part X shall be read over to him and shall, after correction if necessary, be signed by him.
-
-(2) If the witness denies the correctness of any part of the evidence when it is read over to him, the Magistrate may, instead of correcting the evidence, make a memorandum on it of the objection made to it by the witness and shall add such remarks as the Magistrate thinks necessary.
-
-(3) If the witness does not understand English the evidence so taken down shall be interpreted for him in the language in which it was given or in a language which he understands.
-
-(4) The substance of any correction made and of any memorandum made by the Magistrate shall be explained to the accused.
+287\. [Repealed by Act 19 of 2018 wef 17/09/2018]
 
 ### Interpretation of evidence to accused
 
@@ -5430,7 +5664,9 @@ together with evidence as to the identity of the accused and the person so convi
 
 ### Accused not to give evidence except on oath or affirmation
 
-291\.—(1) In all criminal proceedings except a committal hearing, the accused may not give evidence except on oath or affirmation, and if he does so, he is liable to cross-examination.
+291\.—(1) In all criminal proceedings, the accused may not give evidence except on oath or affirmation, and if he does so, he is liable to cross-examination.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (2) An accused who is not represented by an advocate has the right to address the court without being sworn or affirmed in circumstances where, if he were so represented, the advocate could address the court on his behalf.
 
@@ -5454,15 +5690,21 @@ the court, in deciding whether the accused is guilty of the offence, may draw su
 
 ### Procedure when accused does not understand proceedings
 
-292\.—(1) If an accused, though not of unsound mind, cannot understand or be made to understand the proceedings, the court may proceed with the committal hearing or trial.
+292\.—(1) If an accused, though not of unsound mind, cannot understand or be made to understand the proceedings, the court may proceed with the trial.
 
-(2) For all courts other than the High Court, if the committal hearing results in a committal to stand trial in the High Court or if the trial results in a conviction, then the court must forward the proceedings to the High Court with a report of the circumstances of the case and the High Court must make such order or pass such sentence as it thinks fit.
+[Act 19 of 2018 wef 17/09/2018]
+
+(2) For all courts other than the High Court, if the trial results in a conviction, then the court must forward the proceedings to the High Court with a report of the circumstances of the case and the High Court must make such order or pass such sentence as it thinks fit.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Record of evidence in absence of accused
 
 293\.—(1) If it is proved that an accused has absented himself so that there is no immediate prospect of arresting him, the court competent to try the accused may, in his absence, examine any witnesses produced on the prosecution’s behalf and record their depositions.
 
-(2) These depositions may, on the arrest of the accused, be given in evidence against him at the committal hearing or trial for the relevant offence, if the deponent is dead or incapable of giving evidence or his attendance cannot be procured without unreasonable delay, expense or inconvenience.
+(2) These depositions may, on the arrest of the accused, be given in evidence against him at the trial for the relevant offence, if the deponent is dead or incapable of giving evidence or his attendance cannot be procured without unreasonable delay, expense or inconvenience.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 (3) If it appears that an offence punishable with death or with imprisonment for life has been committed by some person or persons unknown, a Magistrate’s Court may hold an inquiry and examine any witnesses who can give evidence concerning the offence.
 
@@ -5500,7 +5742,9 @@ the court, in deciding whether the accused is guilty of the offence, may draw su
 
 ### Deposition of certain other witnesses
 
-297\. Whenever at a committal hearing the evidence of any witness has been taken for the purpose of proving the custody or disposal of any matter or thing forwarded in the course of the inquiry to any public officer for examination or analysis or report, or of proving the custody or disposal of any instrument, weapon, matter or thing used in or for the commission of any offence, or of proving the accuracy of any plan or survey made or photograph taken by that witness for the purpose of the case, the High Court may, if it thinks fit, allow the deposition of that witness, taken and attested by an examining Magistrate in the presence of the accused to be given in evidence in any trial before the High Court although the deponent is not called as a witness.
+297\. Whenever, at a committal hearing under Division 2 of Part X as in force immediately before the date of commencement of section 47 of the Criminal Justice Reform Act 2018, the evidence of any witness has been taken for the purpose of proving the custody or disposal of any matter or thing forwarded in the course of the inquiry to any public officer for examination or analysis or report, or of proving the custody or disposal of any instrument, weapon, matter or thing used in or for the commission of any offence, or of proving the accuracy of any plan or survey made or photograph taken by that witness for the purpose of the case, the High Court may, if it thinks fit, allow the deposition of that witness, taken and attested by an examining Magistrate in the presence of the accused to be given in evidence in any trial before the High Court although the deponent is not called as a witness.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ## PART XV
 
@@ -5700,7 +5944,7 @@ AgivesZ50 strokes with a stick. HereAmay have committed the offence of voluntari
 
 (b)
 
-But if, whileAis beatingZ,Yinterferes andAintentionally strikesY, here, as the blow given toYis no part of the act wherebyAvoluntarily causes hurt toZ,Ais liable to one punishment for voluntarily causing hurt toZ, and to another for the blow given toY.
+But if, whileAis beatingZ,Yinterferes andAintentionally strikesY, here, as the blow given to Y is no part of the act wherebyAvoluntarily causes hurt toZ,Ais liable to one punishment for voluntarily causing hurt toZ, and to another for the blow given toY.
 
 ### Police supervision
 
@@ -7026,7 +7270,12 @@ and the Chief Justice consents to the request, the appeal must be heard by such 
 
 Division 1A —
 
-Review of sentence of death when no appeal filed
+Review of sentence of death
+
+
+
+
+when no appeal filed
 
 ### Public Prosecutor to file petition for confirmation
 
@@ -7204,8 +7453,6 @@ State Courts
 (a) against a failure by a court to impose the mandatory minimum sentence or any other sentence required by written law; or
 
 (b) against a sentence imposed by a court which the court is not competent to impose.
-
-[Act 5 of 2014 wef 07/03/2014]
 
 ### Powers of High Court on revision
 
@@ -7392,7 +7639,7 @@ shall, in the absence of reasonable excuse, the burden of proving which shall li
 
 426\.—(1) Any person (other than the Public Prosecutor) affected by any judgment, sentence or order made by a court may, on application to the court and upon payment of the prescribed fee, be furnished with a copy of any judgment, sentence, order, deposition or any other part of the record of proceedings.
 
-(2) Notwithstanding subsection (1), an accused committed to stand trial in the High Court shall receive free of charge a copy of the depositions of the witnesses recorded by the Magistrate.
+(2) [Deleted by Act 19 of 2018 wef 17/09/2018]
 
 (3) The court may, if it thinks fit, waive the payment of any fee under this section.
 
@@ -7412,17 +7659,107 @@ shall, in the absence of reasonable excuse, the burden of proving which shall li
 
 (2) Without prejudice to the generality of subsection (1), the Minister may make regulations for or with respect to all or any of the following matters:
 
-(a) the rates or scales of payment of the expenses and compensation to be ordered under section 363 and concerning the payment of them;
+(a) the treatment, training and detention of persons sentenced to reformative training, corrective training or preventive detention, including any matter relating to the supervision of such persons when they are released from their places of detention;
 
-(b) the treatment, training and detention of persons sentenced to reformative training, corrective training or preventive detention, including any matter relating to the supervision of such persons when they are released from their places of detention;
+[Act 19 of 2018 wef 17/09/2018]
 
-(c) any form which is to be used by any person in relation to any matter under this Code;
+(b) the recording of statements in the form of audiovisual recordings, and the prevention of the following:
 
-(d) for carrying into effect the purposes of Division 2 of Part X;
+(i) the making of any unauthorised copy of any such audiovisual recording;
 
-(da) in relation to documents being filed with, served on, delivered or otherwise conveyed to any court or any party to any criminal matter —
+(ii) the unauthorised possession of any recording device during the recording of any such statement or the viewing of any such audiovisual recording;
 
-(i) the establishment of any electronic filing service and any other matter which relates to the use or operation of the electronic filing service;
+(iii) the unauthorised use or distribution of any such audiovisual recording;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(c) the prescribing of any additional method mentioned in section 3(1)(j) for serving any notice, order or document (other than a summons or a notice to attend court issued under this Code) required or permitted to be served on a person under this Code, including —
+
+(i) prescribing different additional methods of service for different types of notices, orders or documents;
+
+(ii) restricting the application of a particular additional method of service to a particular type of notice, order or document; and
+
+(iii) prescribing the conditions for the application of any particular additional method of service, whether generally or to any particular type of notice, order or document;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(d) the prescribing of any matters relating to section 20(1), (1A), (3) and (3A), including prescribing —
+
+(i) the persons who must set up a system for receiving and responding automatically to a written order under section 20(1)(b), (1A), (3)(b) or (3A) and the operational details of the system;
+
+(ii) any matters concerning the service of a written order under section 20(1), (1A), (3) or (3A);
+
+(iii) the form and manner in which a person must produce, give access to or deliver a copy of a document or thing for the purposes of section 20(1)(a)(iii) or (b)(i) or (ii) or (3)(b);
+
+(iv) the manner in which a person must authenticate data, or a copy of data, for the purposes of section 20(1A)(a)(i) or (b)(i) or (3A)(a)(i) or (b)(i);
+
+(v) the form and manner in which a person must produce data, or a copy of data, for the purposes of section 20(1A)(a)(ii) or (b)(ii) or (3A)(a)(ii) or (b)(ii);
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(da) [Deleted by Act 19 of 2018 wef 17/09/2018]
+
+(e) the electronic monitoring of the whereabouts of an accused who is granted bail or released on personal bond, for the purposes of section 94;
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(f) the prescribing of anything that is required or permitted by this Code to be prescribed.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(3) The regulations made for or with respect to the matters in subsection (2)(b) —
+
+(a) may provide that a contravention of any specified provision of those regulations shall be an offence;
+
+(b) may provide for penalties not exceeding a fine of $2,000 or imprisonment for a term not exceeding 2 years or both for each offence; and
+
+(c) may provide for any offence under those regulations to be an arrestable offence.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+(4) The powers conferred by this section do not extend to any matter for which Criminal Procedure Rules may be made under section 428A.
+
+[Act 19 of 2018 wef 17/09/2018]
+
+### Criminal Procedure Rules Committee and Criminal Procedure Rules
+
+428A\.—(1) A committee called the Criminal Procedure Rules Committee is constituted by this section.
+
+(2) The Criminal Procedure Rules Committee consists of the following members:
+
+(a) the Chief Justice, who is the chairperson of the Committee;
+
+(b) 2 Judges of the Supreme Court (excluding the Presiding Judge of the State Courts), each of whom is appointed by the Chief Justice for such period as the Chief Justice may specify in writing;
+
+(c) the Presiding Judge of the State Courts;
+
+(d) the Registrar of the Supreme Court;
+
+(e) a District Judge, who is appointed by the Chief Justice for such period as the Chief Justice may specify in writing;
+
+(f) the Public Prosecutor, or a member appointed by the Public Prosecutor under this paragraph for such period as the Public Prosecutor may specify in writing;
+
+(g) 2 members, each of whom is appointed by the Public Prosecutor under this paragraph for such period as the Public Prosecutor may specify in writing;
+
+(h) 2 practising advocates and solicitors, each of whom is appointed by the Minister for such period as the Minister may specify in writing;
+
+(i) 2 public officers, each of whom is appointed by the Minister charged with the responsibility for home affairs for such period as that Minister may specify in writing.
+
+(3) The Criminal Procedure Rules Committee may make Criminal Procedure Rules regulating and prescribing the procedure and the practice to be followed in each court in all matters in or with respect to which that court for the time being exercises criminal jurisdiction and any matters incidental to or relating to any such procedure or practice.
+
+(4) Without limiting subsection (3), Criminal Procedure Rules may be made for or with respect to all or any of the following matters:
+
+(a) any form that is to be used by any person in relation to any matter under this Code;
+
+(b) the disclosure of and access to any document or material in the possession of the prosecution or the defence, including any statement recorded under section 22 or 23 in the form of an audiovisual recording;
+
+(c) for giving effect to Parts IX, X and XI;
+
+(d) the rates or scales of payment of the expenses and compensation that may be ordered under section 363, and any matter concerning the payment of the expenses and compensation;
+
+(e) in relation to documents being filed with, served on, delivered or otherwise conveyed to any court or any party to any criminal matter —
+
+(i) the establishment of any electronic filing service and any other matter that relates to the use or operation of the electronic filing service;
 
 (ii) the manner and form of any such filing, service, delivery or conveyance;
 
@@ -7432,11 +7769,55 @@ shall, in the absence of reasonable excuse, the burden of proving which shall li
 
 (v) the authentication of documents filed, served, delivered or conveyed by the use of the electronic filing service; and
 
-(vi) the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings which involve the use or operation of the electronic filing service;
+(vi) the means by which particular facts may be proved, and the mode in which evidence of those facts may be given, in any proceedings which involve the use or operation of the electronic filing service;
 
-(e) the prescribing of anything that is required or permitted to be prescribed under this Code.
+(f) the prescribing of anything that is required or permitted to be prescribed by Criminal Procedure Rules.
 
-[2/2012]
+(5) The quorum for a meeting of the Criminal Procedure Rules Committee is 7 members.
+
+(6) Each member has one vote.
+
+(7) A decision is adopted by the Criminal Procedure Rules Committee at a meeting if a majority of the votes cast on it are in favour of it.
+
+(8) A member present at a meeting of the Criminal Procedure Rules Committee is presumed to have agreed to, and to have cast a vote in favour of, a decision of the Committee, unless the member expressly votes against the decision at the meeting.
+
+(9) The members may, in place of the procedure described in subsections (7) and (8), adopt a decision by assenting to the decision in writing, if —
+
+(a) all of the members are given (whether by post, personal delivery or electronic communication) the terms of the decision to be made; and
+
+(b) a majority of those members who are entitled to vote on the matter sign or approve a document containing the terms of the decision to be made and a statement that they are in favour of those terms.
+
+(10) Where subsection (9) applies, the decision is deemed to have been adopted at a meeting of the Criminal Procedure Rules Committee on the date on which the document containing the terms of the decision to be made is signed or approved by the last member required to form the majority of members in favour of the decision.
+
+(11) For the purposes of subsections (9) and (10), the adoption of a decision by the Criminal Procedure Rules Committee may consist of several documents containing the same terms of the decision to be made, each signed or approved by one or more members.
+
+(12) Criminal Procedure Rules made under this section cannot come into operation unless they have been approved by the Chief Justice and the Minister.
+
+(13) All Criminal Procedure Rules made under this section must be presented to Parliament as soon as possible after publication in theGazette.
+
+(14) This section does not affect either of the following:
+
+(a) any other written law that confers power to make subsidiary legislation for regulating or prescribing the procedure and practice to be followed by any court when exercising criminal jurisdiction, or jurisdiction of a quasi‑criminal nature, in any proceedings;
+
+(b) any subsidiary legislation made under any such written law.
+
+(15) Until the Criminal Procedure Rules Committee makes Criminal Procedure Rules on any matter mentioned in subsection (3) or (4), or for any other purpose mentioned in this Code —
+
+(a) the Minister may make rules under this subsection for that matter or purpose; and
+
+(b) the following are deemed to be Criminal Procedure Rules:
+
+(i) any rules mentioned in paragraph (a);
+
+(ii) any regulations made, before the date of commencement of section 117 of the Criminal Justice Reform Act 2018, under section 428 as in force before that date, for that matter or purpose.
+
+(16) When the Criminal Procedure Rules Committee makes Criminal Procedure Rules on any matter mentioned in subsection (3) or (4), or for any other purpose mentioned in this Code —
+
+(a) any subsidiary legislation mentioned in subsection (15) that was made for that matter or purpose must be revoked; and
+
+(b) those Criminal Procedure Rules may contain such provisions of a saving or transitional nature consequent on the enactment of those Criminal Procedure Rules, or on the revocation of that subsidiary legislation, as the Criminal Procedure Rules Committee may consider necessary or expedient.
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Savings and transitional provisions
 
@@ -7504,7 +7885,7 @@ Tabular statement of offences under the Penal Code
 
 Explanatory Notes. (1) The entries in the second and sixth columns of this Schedule, headed respectively “Offence” and “Maximum punishment under the Penal Code” are not intended as definitions of the offences and punishments described in the several corresponding sections of the Penal Code, or even as abstracts of those sections, but merely as references to the subject of the section, the number of which is given in the first column. In the case of many offences punishable by fine the maximum fine is limited by the Penal Code; such offences are in the sixth column marked*.
 
-(2) The entries in the third column of this Schedule are not intended in any way to restrict the powers of arrest without warrant which may be lawfully exercised by police officers.
+(2)The entries in the third column of this Schedule are not intended in any way to restrict the powers of arrest without warrant which may be lawfully exercised by police officers.
 
 1
 
@@ -8665,8 +9046,6 @@ Ditto
 Imprisonment for one month, or fine*, or both
 
 District Court
-
-[Deleted by Act 19 of 2016 wef 01/10/2017]
 
 176
 
@@ -10371,10 +10750,6 @@ Ditto
 Ditto
 
 CHAPTER XIV — OFFENCES AFFECTING THE PUBLIC TRANQUILITY, PUBLIC HEALTH, SAFETY,
-
-
-
-
 CONVENIENCE, DECENCY AND MORALS
 
 267B
@@ -13303,7 +13678,7 @@ Imprisonment for 3 years, or fine, or both
 
 Ditto
 
-CHAPTER XVIII — OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS,AND TO CURRENCY NOTES AND BANK NOTES
+CHAPTER XVIII — OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS, AND TO CURRENCY NOTES AND BANK NOTES
 
 465
 
@@ -13855,15 +14230,15 @@ Ditto
 
 According to sections 7, 8 and 9 of this Code
 
-[S 664/2011]
+[Act 19 of 2016 wef 01/10/2017]
 
 [Act 5 of 2015 wef 01/04/2015]
 
-[Act 19 of 2016 wef 01/10/2017]
+[S 664/2011]
 
 SECOND SCHEDULE
 
-Section 159(1)
+Sections 159(1) and 211A(1)(b)
 
 Laws to which criminal case disclosure
 
@@ -13972,15 +14347,22 @@ Sedition Act (Cap. 290)
 
 Vandalism Act (Cap. 341).
 
+[Act 19 of 2018 wef 17/09/2018]
+
 THIRD SCHEDULE
 
-Sections 175(3), (4) and (5) and 210(1)
+Sections 22(5) and 23(3B)
 
-Offences to which transmission procedures apply
+Offences for which statements must be
 
-1. 
 
-Sections 375 to 377B of the Penal Code (Cap. 224).
+
+
+recorded in form of audiovisual recording
+
+1. Section 375(1)(a) of the Penal Code (Cap. 224).
+
+[Act 19 of 2018 wef 17/09/2018]
 
 FOURTH SCHEDULE
 
@@ -17298,3 +17680,8 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|31 August 2018|
+|25.|**Act 19 of 2018—Criminal Justice Reform Act 2018**|
+||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|17 September 2018|
+|||31 October 2018|
