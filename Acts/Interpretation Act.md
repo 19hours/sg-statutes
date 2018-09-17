@@ -226,6 +226,14 @@ GENERAL PROVISIONS OF INTERPRETATION
 
 “court” means any court of competent jurisdiction in Singapore;
 
+“Criminal Procedure Rules” —
+
+(a) means the Criminal Procedure Rules made under the Criminal Procedure Code (Cap. 68) and any other written law by the Criminal Procedure Rules Committee constituted under section 428A of that Code; and
+
+(b) includes any subsidiary legislation deemed under section 428A(15) to be Criminal Procedure Rules;
+
+[Act 19 of 2018 wef 17/09/2018]
+
 “Crown Agents” means the persons for the time being acting as Crown Agents for Overseas Governments and Administrations in the United Kingdom;
 
 “Deputy Attorney-General” means a Deputy Attorney-General appointed under Article 35A of the Constitution;
@@ -1274,6 +1282,10 @@ This Legislative History is provided for the convenience of users of the Interpr
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|27.|**Act 19 of 2018—Criminal Justice Reform Act 2018**|
+||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|17 September 2018|
 ## COMPARATIVE TABLE
 
 Interpretation Act
