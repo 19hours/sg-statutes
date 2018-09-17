@@ -1242,9 +1242,11 @@ The remarks of a crowd of spectators on these points may be proved.
 
 [Act 4 of 2012 wef 01/08/2012]
 
-(7) Notwithstanding paragraph (k) of subsection (1), an agreement under that paragraph shall be of no effect for the purposes of any proceedings before the High Court or any proceedings arising out of proceedings before the High Court if made during proceedings before an examining Magistrate conducting a committal hearing under Division 2 of Part X of the Criminal Procedure Code 2010.
+(7) Notwithstanding paragraph (k) of subsection (1), an agreement under that paragraph shall be of no effect for the purposes of any proceedings before the High Court or any proceedings arising out of proceedings before the High Court if made during proceedings before an examining Magistrate conducting a committal hearing under Division 2 of Part X of the Criminal Procedure Code 2010 as in force immediately before the date of commencement of section 47 of the Criminal Justice Reform Act 2018.
 
 [Act 4 of 2012 wef 01/08/2012]
+
+[Act 19 of 2018 wef 17/09/2018]
 
 ### Protest, greeting, etc., treated as stating fact that utterance implies
 
@@ -3560,3 +3562,7 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|45.|**Act 19 of 2018—Criminal Justice Reform Act 2018**|
+||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|17 September 2018|
