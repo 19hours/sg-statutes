@@ -368,6 +368,14 @@ PRELIMINARY
 
 “additional interest” means the interest referred to in section 6(4B);
 
+“approved annuity” means an annuity approved by the Board for the purposes of section 15(6C)(b) or the former section 15(6C)(b);
+
+[Act 43 of 2017 wef 01/10/2018]
+
+“approved bank” means a bank approved by the Board for the purposes of section 15(6C)(a) or the former section 15(6C)(b);
+
+[Act 43 of 2017 wef 01/10/2018]
+
 “approved corporation” means any company which —
 
 (a) is incorporated in Singapore;
@@ -453,6 +461,10 @@ PRELIMINARY
 “nominee account” means any nominee ordinary account, nominee medisave account, nominee special account or nominee retirement account maintained for a deceased member under section 20(1D);
 
 “ordinary account” means an ordinary account maintained under section 13;
+
+“payout benchmark applicable to the member” means the payout benchmark specified by the Minister in relation to the member under section 15(8CA)(a) or (c);
+
+[Act 43 of 2017 wef 01/10/2018]
 
 “prescribed age” means such age of a member as the Minister may prescribe by regulations made under section 77(1), and the Minister may prescribe different ages for different purposes and in respect of different classes of members;
 
@@ -1682,9 +1694,11 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 [23/2012]
 
-(6D) [Deleted by Act 26 of 2016 wef 01/01/2017][20/2011]
+(6D) [Deleted by Act 26 of 2016 wef 01/01/2017]
 
-(7) Where a member has deposited the amount referred to in subsection (6C)(a) with an approved bank or retained that amount in the member’s retirement account, the member is, on attaining the prescribed age, entitled to withdraw that amount or such part of that amount and any interest accruing on that amount, as the Board may determine, in accordance with any regulations made under section 77(1).
+(7) Where a member has deposited the amount referred to in subsection (6C)(a) with an approved bank or retained that amount in the member’s retirement account, the member is entitled, at any time on or after the entitlement date, to withdraw that amount or such part of that amount and any interest accruing on that amount, as the Board may determine, in accordance with any regulations made under section 77(1).
+
+[Act 43 of 2017 wef 01/10/2018]
 
 [Act 6 of 2016 wef 01/01/2017]
 
@@ -1702,13 +1716,15 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (d) is suffering from a terminal illness or disease; or
 
-(e) is receiving or will receive such pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister.
+(e) is receiving or will receive a pension, annuity or other benefit approved by the Board that provides the member with a monthly income, whether or not the monthly income is less in value than the payout benchmark applicable to the member.
 
 [22/2010]
 
 [Act 24 of 2013 wef 01/01/2014]
 
 [Act 6 of 2016 wef 01/01/2017]
+
+[Act 43 of 2017 wef 01/10/2018]
 
 (7B) Where a member of the Fund is entitled under subsection (7A)(a), (b) or (c) to withdraw the amount referred to in subsection (6C)(a) which is deposited with an approved bank or retained in the member’s retirement account or any part of that amount or surrender his approved annuity from an insurer, at the time of the withdrawal or surrender, as the case may be, and at such other times as the Minister may determine, and in accordance with such directions as the Minister may give in any particular case —
 
@@ -1750,9 +1766,9 @@ WITHDRAWAL OF CONTRIBUTIONS
 
 (d) is suffering from a terminal illness or disease;
 
-(e) is receiving or will receive such pension, annuity or other benefit as may be approved which will provide him with a monthly income of an amount that is not less in value than the amount prescribed by the Minister; or
+(e) is receiving or will receive a pension, annuity or other benefit approved by the Board that provides the member with a monthly income not less in value than the payout benchmark applicable to the member; or
 
-[Act 24 of 2013 wef 01/01/2014]
+[Act 43 of 2017 wef 01/10/2018]
 
 (f) has attained the age of 55 years before 1st January 1987.
 
@@ -1791,6 +1807,16 @@ WITHDRAWAL OF CONTRIBUTIONS
 (b) where any amount standing to the member’s credit in the member’s retirement account is used to purchase an approved annuity under subsection (6C)(b), to surrender the approved annuity.
 
 [Act 6 of 2016 wef 01/01/2017]
+
+(8CA) For the purposes of subsections (7A)(e) and (8)(e), the Minister —
+
+(a) may specify different amounts of payout benchmark for different classes of members, taking into account the life expectancy of the different classes of members;
+
+(b) must publish the payout benchmark applicable to each class of members in a manner accessible to the public; and
+
+(c) may, on the application of a member, specify a payout benchmark for that member that is less than the payout benchmark published under paragraph (b) for the class of members to which the member belongs.
+
+[Act 43 of 2017 wef 01/10/2018]
 
 (8D) Despite sections 14(2), 15(2), (2A), (6), (6C), (7), (7B) and (8A) and 27, where the Board has transferred or paid any amount into a member’s account in the Fund (called in this section the transferred amount), the Board may, on the member’s application, permit the member to withdraw an amount determined by the Board —
 
@@ -1972,9 +1998,13 @@ if the member and the person or persons, as the case may be, give an undertaking
 
 (16) In this section and section 15B —
 
-“approved”, in relation to a bank or an annuity from an insurer, means approved by the Board for the purposes of this section;
+[Deleted by Act 43 of 2017 wef 01/10/2018]
 
 “approved developer” means an approved developer under Part IVB of the Housing and Development Act (Cap. 129);
+
+“entitlement date”, in relation to a member, means a date specified by the Board, for the purposes of subsection (7), that falls in the month in which the member attains the prescribed age;
+
+[Act 43 of 2017 wef 01/10/2018]
 
 “Housing Authority” has the same meaning as in section 28;
 
@@ -3520,9 +3550,9 @@ DIVISION OF FUND-RELATED ASSETS IN MATRIMONIAL PROCEEDINGS
 
 27A\. In this Part and section 77(1)(ra) —
 
-“approved annuity” means an annuity approved by the Board for the purposes of section 15;
+[Deleted by Act 43 of 2017 wef 01/10/2018]
 
-“approved bank” means a bank approved by the Board for the purposes of section 15;
+[Deleted by Act 43 of 2017 wef 01/10/2018]
 
 “designated account” means such account maintained, or to be maintained, by the Board as may be prescribed by any regulations made under section 77(1);
 
@@ -4154,7 +4184,9 @@ LIFELONG INCOME SCHEME
 
 “premium” means a premium under section 27L(1) or (1A) for an annuity plan;
 
-“relevant age” means the age at which a relevant member becomes entitled to receive a monthly income under section 27K(6);
+“relevant age”, in relation to a relevant member, means the age prescribed in, or designated by the relevant member under, the relevant regulations for the purposes of section 27K(1) and (6) in relation to the relevant member’s annuity plan;
+
+[Act 43 of 2017 wef 01/10/2018]
 
 “relevant member” means a member of the Fund to whom the Scheme applies;
 
@@ -4166,9 +4198,9 @@ LIFELONG INCOME SCHEME
 
 ### Establishment of Lifelong Income Scheme
 
-27K\.—(1) The Board is hereby authorised to establish and maintain a Lifelong Income Scheme for the purpose of providing, to every relevant member who has an annuity plan that is in force and who has attained the relevant age applicable to him, a monthly income for the remainder of his life.
+27K\.—(1) The Board is authorised to establish and maintain a Lifelong Income Scheme for the purpose of providing, to every relevant member who has an annuity plan that is in force, a monthly income for the remainder of the relevant member’s life, starting in or after the month in which the relevant member attains the relevant age applicable to the relevant member.
 
-[18/2009; 23/2012]
+[Act 43 of 2017 wef 01/10/2018]
 
 (2) Subject to subsections (3) to (5A) and the relevant regulations, the Scheme applies to every member who —
 
@@ -4226,7 +4258,9 @@ LIFELONG INCOME SCHEME
 
 [Act 6 of 2016 wef 01/05/2016]
 
-(6) Subject to subsection (7), sections 27N and 27P and the relevant regulations, where a relevant member has paid a premium and an annuity plan has been issued to him, then for so long as the annuity plan remains in force and he is alive, the Board shall pay to him, after he has attained the relevant age applicable to him, such monthly income as the Minister may determine.
+(6) Subject to subsection (7), sections 27N and 27P and the relevant regulations, where a relevant member has paid a premium and an annuity plan has been issued to him, then for so long as the annuity plan remains in force and he is alive, the Board shall pay to him such monthly income as the Minister may determine, starting in or after the month in which he attains the relevant age applicable to him.
+
+[Act 43 of 2017 wef 01/10/2018]
 
 [18/2009; 23/2012]
 
@@ -6386,7 +6420,7 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (na) without prejudice to the generality of paragraph (n), for the purposes of sections 26 to 26D;
 
-(o) for the purposes of sections 15(6)(a), (6C), (6CA), (6CB), (7), (8D), (9), (9A), (10), (10A) and (11) to (11F), 18(1) and (1A) and 18A(1) and (1A) and, in particular, to —
+(o) for the purposes of sections 15, 18(1) and (1A) and 18A and, in particular, to —
 
 (i) prescribe the retirement sum referred to in section 15(6)(a), including different retirement sums for different classes of members;
 
@@ -6404,9 +6438,13 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (C) the person who will make the payment;
 
+[Act 43 of 2017 wef 01/10/2018]
+
 [Act 6 of 2016 wef 01/01/2017]
 
-(iii) prescribe the amount which may be withdrawn under section 15(7), and provide for the manner in which that amount may be withdrawn, after a member has attained the prescribed age;
+(iii) prescribe the amount which may be withdrawn under section 15(7), and provide for the manner in which that amount may be withdrawn;
+
+[Act 43 of 2017 wef 01/10/2018]
 
 (iv) without prejudice to the generality of sub‑paragraph (iii), provide for the Board to pay an amount withdrawn by a member under section 15(7) into the member’s account in the Fund, and for the circumstances in which payment will be made to a member in this manner;
 
@@ -6422,11 +6460,15 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 [Act 6 of 2016 wef 01/01/2017]
 
-(vii) in the case of a member who need not comply with section 15(6)(a) by reason of section 15(8)(e), provide for payment into the member’s retirement account of all or any part of the moneys deposited with an approved bank (including any interest on such moneys deposited) or of such sums when the member’s pension, annuity or other benefit is terminated or surrendered, the circumstances in which such payment is to be made and the person who will make such payment; and
+(vii) require the following members or persons to set aside or to top-up (as the case may be) in the member’s retirement account an amount determined by the Board (not exceeding the amount of the retirement sum applicable to the member and any interest payable on that amount as if it had been set aside in the member’s retirement account when the member attained 55 years of age) if the pension, annuity or other benefit mentioned in sub-paragraph (A), (B) or (C) (as the case may be) is surrendered or terminated after the member attained 55 years of age:
 
-[Act 6 of 2016 wef 01/05/2016]
+(A) a member who did not need to comply with section 15(6)(a) by reason of a pension, annuity or other benefit approved by the Board for the purposes of section 15(8)(e);
 
-[Act 6 of 2016 wef 01/01/2017]
+(B) a member who has a pension, annuity or other benefit approved by the Board that is taken into account in computing the amount of the retirement sum applicable to the member;
+
+(C) any other person, who has an obligation to pay the member mentioned in sub-paragraph (A) or (B) any amount in respect of the termination or surrender of that member’s pension, annuity or other benefit mentioned in that sub-paragraph; and
+
+[Act 43 of 2017 wef 01/10/2018]
 
 (viii) prescribe the types of transfer or payment that are made into a member’s account in the Fund for which a member may be permitted to withdraw an amount under section 15(8D), and provide for the whole or any part of the interest paid on the amount so withdrawn from the member’s account to be dealt with in all or any of the following manner:
 
@@ -9149,23 +9191,24 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of commencement|1 January 2018|
 |214.|**G.N. No. S 717/2017—Central Provident Fund Act (Amendment of First Schedule) Notification 2017**|
 ||Date of commencement|1 January 2018|
-|215.|**Act 43 of 2017—Central Provident Fund (Amendment) Act 2017**|
+|215.|**Act 45 of 2017—Massage Establishments Act 2017**|
+||Date of First Reading|2 October 2017 (Bill No. 39/2017 published on 2 October 2017)|
+||Date of Second and Third Readings|6 November 2017|
+||Date of commencement|1 March 2018|
+|216.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
+|217.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
+|218.|**Act 43 of 2017—Central Provident Fund (Amendment) Act 2017**|
 ||Date of First Reading|2 October 2017|
 |||(Bill No. 37/2017)|
 ||Date of Second and Third Readings|6 November 2017|
 ||Date of commencement|1 January 2018|
-|216.|**Act 45 of 2017—Massage Establishments Act 2017**|
-||Date of First Reading|2 October 2017 (Bill No. 39/2017 published on 2 October 2017)|
-||Date of Second and Third Readings|6 November 2017|
-||Date of commencement|1 March 2018|
-|217.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
-||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
-||Date of Second and Third Readings|8 January 2018|
-||Date of commencement|1 April 2018|
-|218.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
-||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
-||Date of Second and Third Readings|5 February 2018|
-||Date of commencement|1 April 2018|
+|||1 October 2018|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
