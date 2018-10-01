@@ -962,9 +962,9 @@ Terrorists and terrorist entities
 
 [S 669/2017 wef 25/11/2017]
 
-(zk) Munavar Baig Amina Begam (Singapore citizen) (Date of Birth: 3 January 1979).
+(zk) Ahmed Hussein Abdul Kadir s/o Sheik Uduman (Singapore citizen) (Date of Birth: 4 October 1984).
 
-[S 669/2017 wef 25/11/2017]
+[S 604/2018 wef 01/10/2018]
 
 2. In this Schedule, unless the context otherwise requires —
 
@@ -1192,6 +1192,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|27 October 2017|
 |26.|**G.N. No. S 669/2017—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 4) Order 2017**|
 ||Date of commencement|25 November 2017|
+|27.|**G.N. No. S 604/2018—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2018**|
+||Date of commencement|1 October 2018|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
