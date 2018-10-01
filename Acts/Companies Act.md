@@ -7906,6 +7906,20 @@ Registration of charges
 
 [Act 36 of 2014 wef 03/01/2016]
 
+(3AB) Despite subsection (3), a shipowner’s lien created by a company on or after the date of commencement of section 2 of the Companies (Amendment) Act 2018, whether as a charge on book debts of the company or a floating charge on the undertaking or property of the company, is not a charge to which this section applies.
+
+[Act 35 of 2018 wef 01/10/2018]
+
+(3AC) Despite subsection (3) or (3AA), a shipowner’s lien created by a company before the date of commencement of section 2 of the Companies (Amendment) Act 2018, whether as a charge on book debts of the company or a floating charge on the undertaking or property of the company, is a charge to which this section applies only if, as at that date —
+
+(a) an order for the winding up of the company has been made;
+
+(b) a resolution has been passed for the voluntary winding up of the company; or
+
+(c) a creditor of the company has acquired a proprietary right to or an interest in the subject matter of the lien.
+
+[Act 35 of 2018 wef 01/10/2018]
+
 (3A) The reference to a charge on book debts in subsection (3)(f) shall not include a reference to a charge on a negotiable instrument or on debentures issued by the Government.
 
 [40/89]
@@ -7945,6 +7959,18 @@ Registration of charges
 (10) Where a charge requiring registration under this section is created before the lapse of 30 days after the creation of a prior unregistered charge, and comprises all or any part of the property comprised in the prior charge, and the subsequent charge is given as a security for the same debt as is secured by the prior charge, or any part of that debt, then to the extent to which the subsequent charge is a security for the same debt or part thereof, and so far as respects the property comprised in the prior charge, the subsequent charge shall not be operative or have any validity unless it is proved to the satisfaction of the Court that it was given in good faith for the purpose of correcting some material error in the prior charge or under other proper circumstances and not for the purposes of avoiding or evading the provisions of this Division.
 
 [UK, 1948, s. 95; Aust., 1961, s. 100]
+
+(11) In this section, “shipowner’s lien” means a contractual lien on —
+
+(a) sub-freights;
+
+(b) sub-hires; or
+
+(c) bill of lading freight,
+
+created under a charter (or sub-charter) of a ship for any amount due under the charter (or sub-charter).
+
+[Act 35 of 2018 wef 01/10/2018]
 
 ### Duty to register charges
 
@@ -12531,7 +12557,17 @@ present and voting either in person or by proxy at the meeting.
 
 (3AA) If the conditions set out in subsection (3AB) are satisfied, a compromise or an arrangement shall be binding —
 
-(a) in the case of a company in the course of being wound up, on the liquidator and contributories of the company; or
+(a) in the case of a company in the course of being wound up, on the liquidator and contributories of the company, and on all —
+
+(i) the creditors or class of creditors;
+
+(ii) the members or class of members; or
+
+(iii) the holders of units of shares or class of holders of units of shares,
+
+as the case may be; or
+
+[Act 35 of 2018 wef 01/10/2018]
 
 (b) in the case of any other company, on the company and on all —
 
@@ -21619,22 +21655,26 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|1 July 2015|
 |107.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
 ||Date of commencement|1 July 2015|
-|108.|**Act 21 of 2016—Employment Claims Act 2016**|
-||Date of First Reading|11 July 2016|
-|||(Bill No. 20/2016)|
-||Date of Second and Third Readings|16 August 2016|
-||Date of commencement|1 April 2017|
-|109.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
-||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
-||Date of Second and Third Readings|4 July 2017|
-||Date of commencement|4 June 2018|
-|110.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+|108.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
 ||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
 ||Date of Second and Third Readings|10 March 2017|
 ||Date of commencement|31 March 2017|
 |||23 May 2017|
 |||11 October 2017|
 |||31 August 2018|
+|109.|**Act 21 of 2016—Employment Claims Act 2016**|
+||Date of First Reading|11 July 2016|
+|||(Bill No. 20/2016)|
+||Date of Second and Third Readings|16 August 2016|
+||Date of commencement|1 April 2017|
+|110.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|4 June 2018|
+|111.|**Act 35 of 2018—Companies (Amendment) Act 2018**|
+||Date of First Reading|9 July 2018 (Bill No. 27/2018 published on 9 July 2018)|
+||Date of Second and Third Readings|6 August 2018|
+||Date of commencement|1 October 2018|
 ## COMPARATIVE TABLE
 
 Companies Act
