@@ -842,6 +842,20 @@
 
 - [137ZG Rules of Court](#Rules-of-Court)
 
+[**Part VIIA SHORT SELLING**](#Part-VIIA)
+
+- [137ZH Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [137ZI Persons obliged to comply with this Part and power of Authority to grant exemptions or extensions](#Persons-obliged-to-comply-with-this-Part-and-power-of-Authority-to-grant-exemptions-or-extensions)
+
+- [137ZJ Disclosure of short sell orders](#Disclosure-of-short-sell-orders)
+
+- [137ZK Reporting of short position](#Reporting-of-short-position)
+
+- [137ZL Power of Authority to publish information](#Power-of-Authority-to-publish-information)
+
+- [137ZM Power of Authority to make regulations](#Power-of-Authority-to-make-regulations)
+
 [**Part VIII SECURITIES INDUSTRY COUNCIL AND TAKE-OVER OFFERS**](#Part-VIII)
 
 - [138 Securities Industry Council](#Securities-Industry-Council)
@@ -6363,8 +6377,6 @@ Matters requiring approval of Authority
 
 [Act 35 of 2014 wef 01/07/2015]
 
-(vi) [Deleted by Act 35 of 2014 wef 01/07/2015]
-
 (vii) Ais a body corporate in whichB, whether alone or together with other associates ofBas described in sub-paragraphs (ii), (iv) and (v), is in a position to control not less than 20% of the votes inA; or
 
 [Act 35 of 2014 wef 01/07/2015]
@@ -10841,9 +10853,9 @@ the onus of proving that, in so doing, he did not act with intent to prevent, de
 
 [1/2005]
 
-[SIA, s. 73; FTA, s. 33]
-
 [Act 34 of 2012 wef 01/08/2013]
+
+[SIA, s. 73; FTA, s. 33]
 
 ### Additional powers of Authority in respect of auditors
 
@@ -11193,7 +11205,7 @@ CLEARING OF DERIVATIVES CONTRACTS
 
 129B\. In this Part, unless the context otherwise requires —
 
-“bank in Singapore” has the same meaning as in section 2(1) of the Banking Act (Cap. 19);
+[Deleted by Act 4/2017 wef 01/10/2018]
 
 “clearing” means any arrangement, process, mechanism or service provided by a person in respect of transactions, by which parties to those transactions substitute, through novation or otherwise, the credit of such person for the credit of the parties;
 
@@ -11201,7 +11213,9 @@ CLEARING OF DERIVATIVES CONTRACTS
 
 “specified person” means —
 
-(a) any bank in Singapore licensed under the Banking Act;
+(a) any bank that is licensed under the Banking Act (Cap. 19);
+
+[Act 4 of 2017 wef 01/10/2018]
 
 (b) any merchant bank approved as a financial institution under the Monetary Authority of Singapore Act (Cap. 186);
 
@@ -11211,7 +11225,7 @@ CLEARING OF DERIVATIVES CONTRACTS
 
 [Act 10/2013 wef 01/11/2013]
 
-(e) any approved trustee referred to in section 289;
+(e) [Deleted by Act 4/2017 wef 01/10/2018]
 
 (f) any holder of a capital markets services licence; or
 
@@ -11243,7 +11257,9 @@ CLEARING OF DERIVATIVES CONTRACTS
 
 (3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
-(4) No person shall by virtue of this section be obliged to furnish any information or document as to which he is under any statutory obligation to observe secrecy.
+(4) A person who complies with a requirement imposed under subsection (1) is not to be treated as being in breach of any restriction upon the disclosure of information imposed by written law, any rule of law, any contract or otherwise.
+
+[Act 4 of 2017 wef 01/10/2018]
 
 (5) Nothing in this section shall compel an advocate and solicitor, or a legal counsel referred to in section 128A of the Evidence Act (Cap. 97), to furnish any information on, or any document containing, any privileged communication made by or to him in that capacity.
 
@@ -11257,11 +11273,15 @@ CLEARING OF DERIVATIVES CONTRACTS
 
 ### Directions on alternative clearing arrangements
 
-129E\.—(1) Where the Authority is of the opinion that any clearing facility operated by any approved clearing house or recognised clearing house is not available for the clearing of, or is incapable of clearing, any type of specified derivatives contract under section 129C(1), the Authority may issue directions, whether of a general or specific nature, by notice in writing, to any specified person who is a party to any specified derivatives contract of that type, or to any class of specified persons who are parties to specified derivatives contracts of that type, requiring the specified person or class of specified persons, as the case may be, to cause that specified derivatives contract or those specified derivatives contracts, as the case may be, to undergo clearing by such other person, in such manner, as the Authority may specify in that notice.
+129E\.—(1) Where the Authority is of the opinion that any clearing facility operated by any approved clearing house or recognised clearing house is not available for the clearing of, or is incapable of clearing, any specified derivatives contract or any class of specified derivatives contracts under section 129C(1), the Authority may issue directions, whether of a general or specific nature, by notice in writing, to any specified person who is a party to that specified derivatives contract, or any class of specified persons who are parties to that class of specified derivatives contracts, requiring the specified person or class of specified persons to cause that specified derivatives contract or that class of specified derivatives contracts to undergo clearing in the manner and within the time specified by the Authority in that notice.
+
+[Act 4 of 2017 wef 01/10/2018]
 
 (2) A specified person referred to in subsection (1) shall comply with every direction issued to him under that subsection.
 
-(3) A specified person shall be deemed to have complied with section 129C(1) in relation to a specified derivatives contract if, while a direction issued to him under subsection (1) remains in force, he complies with that direction in relation to that specified derivatives contract.
+(3) A specified person is treated to have complied with section 129C(1) in relation to a specified derivatives contract if, while a direction issued to him under subsection (1) remains in force, he complies with that direction in relation to that specified derivatives contract.
+
+[Act 4 of 2017 wef 01/10/2018]
 
 (4) The Authority may cancel a direction issued under subsection (1) in relation to any clearing facility operated by any approved clearing house or recognised clearing house, if the Authority is of the opinion that the grounds for the issue of the direction have ceased to apply.
 
@@ -11273,11 +11293,13 @@ CLEARING OF DERIVATIVES CONTRACTS
 
 ### Compliance with laws and practices of relevant clearing jurisdiction
 
-129F\.—(1) Subject to subsection (2), a specified person who is a party to a specified derivatives contract shall be deemed to have complied with section 129C(1) in relation to the specified derivatives contract, if —
+129F\.—(1) Subject to subsection (2), a specified person who is a party to a specified derivatives contract is treated to have complied with section 129C(1) in relation to the specified derivatives contract, if —
 
 (a) any other party to the specified derivatives contract is incorporated, formed or established under the laws of, or has a place of business in, a relevant clearing jurisdiction; and
 
 (b) every party to the specified derivatives contract is required to comply with, and has complied with, in relation to the specified derivatives contract, the requirements relating to the clearing of specified derivatives contracts under the laws and practices of the relevant clearing jurisdiction.
+
+[Act 4 of 2017 wef 01/10/2018]
 
 (2) Subsection (1) shall not apply to any specified derivatives contract that is, or that belongs to a class of specified derivatives contracts that is, prescribed by the Authority by regulations made under section 129G for the purposes of this subsection.
 
@@ -11317,11 +11339,17 @@ CLEARING OF DERIVATIVES CONTRACTS
 
 129H\.—(1) Without prejudice to section 337(1), the Authority may, by regulations made under section 129G, exempt any specified person or class of specified persons from all or any of the provisions of section 129C, subject to such conditions or restrictions as the Authority may prescribe in those regulations.
 
-(2) Without prejudice to section 337(3) and (4), the Authority may, by notice in writing, exempt any specified person from all or any of the provisions of section 129C, subject to such conditions or restrictions as the Authority may specify by notice in writing.
+(2) The Authority may, by notice in writing, exempt any specified person from all or any of the provisions of section 129C, subject to such conditions or restrictions as the Authority may specify by notice in writing.
+
+[Act 4 of 2017 wef 01/10/2018]
 
 (3) It shall not be necessary to publish any exemption granted under subsection (2) in theGazette.
 
 (4) Every specified person that is granted an exemption under subsection (1) or (2) shall satisfy every condition or restriction imposed on the specified person under the applicable subsection.
+
+(4A) The Authority may at any time add to, vary or revoke any condition or restriction imposed under this section.
+
+[Act 4 of 2017 wef 01/10/2018]
 
 (5) Any specified person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -12702,6 +12730,144 @@ the Authority may, with the consent of the Public Prosecutor, bring an action in
 (b) to provide for costs and fees of such proceedings, and for regulating any matter relating to the costs of such proceedings.
 
 [2/2009 wef 19/11/2012]
+
+## PART VIIA
+
+SHORT SELLING
+
+### Interpretation of this Part
+
+137ZH\.—(1) In this Part, unless the context otherwise requires —
+
+“securities lending arrangement” means an arrangement in writing where a person (called in this Part the lender) who has an interest in specified capital markets products is to transfer title to some or all of the specified capital markets products to another person (called in this Part the borrower) for an agreed period of time, after which the borrower is to transfer title to those specified capital markets products back to the lender;
+
+“short position” means the amount by which the quantity, volume or value of any specified capital markets products in which a person has an interest is less than the quantity, volume or value of the specified capital markets products which the person is under an obligation to deliver, where the quantity, volume or value of any specified capital markets products is determined in accordance with the criteria, methods or formulae prescribed by regulations made under section 137ZM;
+
+“short sell order” means an order to sell any specified capital markets products where the person who makes the order does not, at the time of the order, have an interest in the specified capital markets products;
+
+“specified capital markets products” means any capital markets products listed or to be listed on an approved exchange that is, or that belongs to a class of capital markets products that is, prescribed by regulations made under section 137ZM.
+
+(2) In this Part and subject to subsection (3), a person has an interest in specified capital markets products if —
+
+(a) the person is the legal owner of the specified capital markets products;
+
+(b) the person is the beneficial owner of the specified capital markets products;
+
+(c) the person has authority (whether formal or informal, or express or implied) to dispose of the specified capital markets products;
+
+(d) the person —
+
+(i) has purchased or entered into an unconditional agreement or arrangement to purchase the specified capital markets products, but has not received delivery of the specified capital markets products;
+
+(ii) has tendered the specified capital markets products for conversion or exchange, or has issued irrevocable instructions to convert or exchange capital markets products into the specified capital markets products, but has not received delivery of the specified capital markets products;
+
+(iii) has exercised an option to subscribe for the specified capital markets products, but has not received delivery of the specified capital markets products; or
+
+(iv) has exercised a right under a warrant to subscribe for the specified capital markets products, but has not received delivery of the specified capital markets products,
+
+and, under the agreement, arrangement, conversion, exchange, option or right (referred to in sub-paragraphs (i) to (iv)), the person is to receive delivery of the specified capital markets products before the time that the person is to deliver the specified capital markets products;
+
+(e) the person —
+
+(i) is the lender in a securities lending arrangement;
+
+(ii) has transferred title to the specified capital markets products to the borrower in the securities lending arrangement; and
+
+(iii) is to receive title from the borrower in the securities lending arrangement to the specified capital markets products before the time that the person is to deliver the specified capital markets products; or
+
+(f) the person is a party to an agreement or arrangement that is, or that belongs to a class of agreements or arrangements that is, prescribed by regulations made under section 137ZM for the purposes of this paragraph.
+
+(3) Despite subsection (2), a person does not have an interest in specified capital markets products if —
+
+(a) the person is a borrower under a securities lending arrangement and has obtained title to the specified capital markets products pursuant to the securities lending arrangement;
+
+(b) the person is the legal owner or the beneficial owner of the specified capital markets products but has sold, or entered into an unconditional agreement or arrangement to sell, the specified capital markets products; or
+
+(c) the person is the legal owner or the beneficial owner of the specified capital markets products, or has authority to dispose of the specified capital markets products, but is a party to an agreement or arrangement that is, or that belongs to a class of agreements or arrangements that is, prescribed by regulations made under section 137ZM for the purposes of this paragraph.
+
+(4) In the definition of “short position” in subsection (1), the following are the specified capital markets products which a person is under an obligation to deliver:
+
+(a) the specified capital markets products in respect of which the person has an obligation to deliver under a sale agreement, but has not delivered;
+
+(b) the specified capital markets products in respect of which the person has an obligation to vest title in a lender under a securities lending arrangement, but has not vested title;
+
+(c) the specified capital markets products in respect of which the person has any other non-contingent legal obligation to deliver, but has not delivered.
+
+[Act 4 of 2017 wef 01/10/2018]
+
+### Persons obliged to comply with this Part and power of Authority to grant exemptions or extensions
+
+137ZI\.—(1) The obligation to comply with this Part extends to all natural persons, whether resident in Singapore or not and whether citizens of Singapore or not, and to all entities, whether formed, constituted or carrying on business in Singapore or not.
+
+(2) This Part extends to acts done or omitted to be done outside Singapore.
+
+(3) Despite section 337(1), the Authority may by regulations made under section 137ZM exempt any person or class of persons from all or any provisions of this Part, subject to such conditions or restrictions as the Authority may prescribe in those regulations.
+
+(4) The Authority may, by notice in writing, exempt any person or class of persons from all or any provisions of this Part, subject to such conditions or restrictions as the Authority may specify in writing.
+
+(5) It is not necessary to publish any exemption granted under subsection (4) in theGazette.
+
+(6) Any person that is exempted under subsection (3) or (4) must satisfy every condition or restriction imposed on the person under the applicable subsection.
+
+(7) The Authority may at any time add to, vary or revoke any condition or restriction imposed under this section.
+
+(8) Any person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.
+
+[Act 4 of 2017 wef 01/10/2018]
+
+### Disclosure of short sell orders
+
+137ZJ\.—(1) Subject to subsection (2), a person (A) who makes a short sell order on any approved exchange must, before or at the time of the short sell order, disclose to the approved exchange —
+
+(a) thatAintends to make or is making a short sell order; and
+
+(b) the quantity, volume or value of the specified capital markets products in relation to whichAintends to make or is making an order to sell but in whichAdoes not have an interest.
+
+(2) Where another person (B) places the short sell order mentioned in subsection (1) onA’s behalf,Aneed not comply with subsection (1) if, before or at the time of the short sell order,Adiscloses toB—
+
+(a) thatAintends to make or is making a short sell order; and
+
+(b) the quantity, volume or value of the specified capital markets products in relation to whichAintends to make or is making an order to sell but in whichAdoes not have an interest.
+
+(3) WhereAhas made the disclosure mentioned in subsection (2) toB,Bmust, before or at the time of the short sell order, disclose to the approved exchange —
+
+(a) thatAintends to make or is making a short sell order; and
+
+(b) the quantity, volume or value of the specified capital markets products in relation to whichAintends to make or is making an order to sell but in whichAdoes not have an interest.
+
+(4) Any person who contravenes subsection (1) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000.
+
+[Act 4 of 2017 wef 01/10/2018]
+
+### Reporting of short position
+
+137ZK\.—(1) Where a person’s (A) short position in relation to any specified capital markets products is equivalent to or more than the short position threshold prescribed by regulations made under section 137ZM,Amust, at the time or times and in the form and manner prescribed by regulations made under section 137ZM, report to the Authority directly or through another person (B) —
+
+(a) information on —
+
+(i) the identity and business activities ofAand (if applicable)B; and
+
+(ii) A’s short position in relation to the specified capital markets products,
+
+prescribed by regulations made under section 137ZM; and
+
+(b) any change to the information mentioned in paragraph (a).
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part of a day during which the offence continues after conviction.
+
+[Act 4 of 2017 wef 01/10/2018]
+
+### Power of Authority to publish information
+
+137ZL\. Without prejudice to section 322, the Authority may, for the purpose of maintaining a fair, orderly or transparent market, publish in any form or manner the information or any part of the information reported to the Authority under section 137ZK(1).
+
+[Act 4 of 2017 wef 01/10/2018]
+
+### Power of Authority to make regulations
+
+137ZM\. Without prejudice to section 341, the Authority may make regulations for the purposes of this Part, including regulations to prescribe anything which may be prescribed under this Part.
+
+[Act 4 of 2017 wef 01/10/2018]
 
 ## PART VIII
 
@@ -23580,8 +23746,6 @@ provided that the first-mentioned publication does not contain any material info
 
 [1/2005]
 
-[Companies, s. 48; Aust. FSR Bill 2001, Clause 1018A]
-
 (13) In subsection (2B) —
 
 “exempt financial adviser” and “financial advisory service” have the same meanings as in section 2(1) of the Financial Advisers Act;
@@ -23593,6 +23757,8 @@ provided that the first-mentioned publication does not contain any material info
 (b) in relation to marketing of collective investment schemes under the Financial Advisers Act or an exempt financial adviser, has the same meaning as in section 2(1) of that Act.
 
 [Act 34 of 2012 wef 19/08/2016]
+
+[Companies, s. 48; Aust. FSR Bill 2001, Clause 1018A]
 
 ### Issue of units where prospectus indicates application to list on securities exchange
 
@@ -23962,8 +24128,6 @@ both persons shall be counted for the purposes of determining whether offers of 
 
 [1/2005]
 
-[Companies, s. 106B (1) (b)]
-
 (3) A person shall not advertise an offer or intended offer of any units in a collective investment scheme referred to in subsection (1), or publish a statement that directly or indirectly refers to the offer or intended offer, or that is reasonably likely to induce persons to subscribe for or purchase the units, unless the advertisement or publication complies with such requirements as may be prescribed by the Authority by regulations made under section 341.
 
 [Act 34 of 2012 wef 19/08/2016]
@@ -23971,6 +24135,8 @@ both persons shall be counted for the purposes of determining whether offers of 
 (4) Any person who contravenes subsection (3), or who knowingly authorises or permits the publication or dissemination of any advertisement or statement referred to in that subsection, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
 [Act 34 of 2012 wef 19/08/2016]
+
+[Companies, s. 106B (1) (b)]
 
 ### Offer made to institutional investors
 
@@ -25993,6 +26159,11 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|5 June 2018|
+|28.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|1 October 2018 (Sections 55 to 59 and 74)|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
