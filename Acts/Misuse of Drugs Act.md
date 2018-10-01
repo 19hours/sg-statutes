@@ -2560,6 +2560,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 233/2018 wef 01/05/2018]
 
+(6F) [1-(5-Bromopent-1-yl)-1H-indazol-3-yl](naphthalen-1-yl)methanone (also known as 5‑Bromo‑THJ‑018) and its bromo positional isomers in the pentyl group
+
+[S 587/2018 wef 01/10/2018]
+
 (7) 17-Carboxy-16,17-dihydromitragynine
 
 (8) 16-Carboxymitragynine
@@ -2575,6 +2579,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (8AB) 2-N-[2-(4-Chloro-2,5-dimethoxyphenylethyl)aminomethyl]phenol (also known as 25C-NBOH) and its chloro, dimethoxy and hydroxy positional isomers in the respective phenyl rings
 
 [S 233/2018 wef 01/05/2018]
+
+(8AC) [1-(5-Chloropent-1-yl)-1H-indazol-3-yl](naphthalen-1-yl)methanone (also known as 5-Chloro-THJ-018) and its chloro positional isomers in the pentyl group
+
+[S 587/2018 wef 01/10/2018]
 
 (8B) 1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine (also known as MT-45)
 
@@ -2622,6 +2630,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (19) 2-Diphenylmethylpiperidine (also known as desoxypipradrol)
 
+(19AAA) Ethyl 2-[1-(4-fluorobenzyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as EMB-FUBINACA or AEB-FUBINACA or FUB-AEB) and its pentanoate isomers and their respective fluoro positional isomers in the phenyl ring
+
+[S 587/2018 wef 01/10/2018]
+
 (19AA) Ethyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3, 3-dimethylbutanoate (also known as 5-Fluoro-EDMB-PINACA) and its hexanoate isomers and their respective fluoro positional isomers in the pentyl group
 
 [S 233/2018 wef 01/05/2018]
@@ -2629,6 +2641,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (19A) Ethylphenidate
 
 [S 200/2016 wef 01/05/2016]
+
+(19ABA) 2-[1-(4-Fluorobenzyl)-1H-indazole-3-carboxamido]-3-methylbutanoic acid and its 1-pentanoic acid and 2-methylbutanoic acid isomers and their respective fluoro positional isomers in the phenyl ring
+
+[S 587/2018 wef 01/10/2018]
 
 (19AB) 4-Fluoromethylphenidate and its fluoro positional isomers in the phenyl ring
 
@@ -2678,6 +2694,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (27) 7-Hydroxymitragynine
 
+(27AA) [1-(5-Hydroxypent-1-yl)-1H-indazol-3-yl](naphthalen-1-yl)methanone and its hydroxy positional isomers in the pentyl group
+
+[S 587/2018 wef 01/10/2018]
+
 (27A) 1-(1H-Indol-5-yl)propan-2-amine (also known as 5-IT) and its 4-yl, 6-yl and 7-yl isomers
 
 [S 200/2016 wef 01/05/2016]
@@ -2693,6 +2713,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (27D) 2-N-[2-(4-Iodo-2,5-dimethoxyphenylethyl)aminomethyl]phenol (also known as 25I-NBOH) and its dimethoxy, hydroxy and iodo positional isomers in the respective phenyl rings
 
 [S 233/2018 wef 01/05/2018]
+
+(27DA) [1-(5-Iodopent-1-yl)-1H-indazol-3-yl](naphthalen-1-yl)methanone (also known as 5-Iodo-THJ-018) and its iodo positional isomers in the pentyl group
+
+[S 587/2018 wef 01/10/2018]
 
 (27E) 3-Methoxy-2-(methylamino)-1-(4-methylphenyl)propan-1-one (also known as Mexedrone) and its methyl positional isomers in the phenyl ring
 
@@ -2764,7 +2788,9 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 233/2018 wef 01/05/2018]
 
-(32) (N-Methyl-4-phenylpiperidin-4-yl)propanoate (also known as desmethylprodine)
+(32) (N-Methyl-4-phenylpiperidin-4-yl)propanoate (also known as 1-Methyl-4-phenyl-4-piperidinol propionate, desmethylprodine or MPPP)
+
+[S 587/2018 wef 01/10/2018]
 
 (33) N-Methyl-1-(thiophen-2-yl)propan-2-amine (also known as methiopropamine) and its thiophen-3-yl isomer
 
@@ -2786,9 +2812,17 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 194/2017 wef 01/05/2017]
 
+(36C) 5-[3-(1-Naphthoyl)-1H-indazol-1-yl]-pentanoic acid
+
+[S 587/2018 wef 01/10/2018]
+
 (37) 5-[3-(1-Naphthoyl)-1H-indol-1-yl]pentanenitrile (also known as AM-2232)
 
 (38) (1-Pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone (also known as UR-144)
+
+(38AA) 4-Phenyl-N-(2-phenylethyl)piperidin-4-yl acetate (also known as 1-Phenethyl-4-phenyl-4-piperidinol acetate or PEPAP)
+
+[S 587/2018 wef 01/10/2018]
 
 (38A) Quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-carboxylate (also known as BB-22 or QUCHIC)
 
@@ -4362,6 +4396,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 November 2017|
 |58.|**G.N. No. S 233/2018—Misuse of Drugs Act (Amendment of First and Fifth Schedules) Order 2018**|
 ||Date of commencement|1 May 2018|
+|59.|**G.N. No. S 587/2018—Misuse of Drugs Act (Amendment of First Schedule) Order 2018**|
+||Date of commencement|1 October 2018|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
