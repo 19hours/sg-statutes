@@ -368,6 +368,8 @@
 
 - [97 Application for review of Disciplinary Tribunal’s decision](#Application-for-review-of-Disciplinary-Tribunal’s-decision)
 
+- [97A Remedial measures](#Remedial-measures)
+
 - [98 Application for order that solicitor be struck off roll, etc.](#Application-for-order-that-solicitor-be-struck-off-roll-etc)
 
 - [98A Provisions as to penalties ordered by court](#Provisions-as-to-penalties-ordered-by-court)
@@ -792,6 +794,10 @@ PRELIMINARY
 
 [20/2009 wef 09/10/2009]
 
+“remedial measure” means a remedial measure prescribed by rules made under section 97A for the purposes of Part VII;
+
+[Act 22 of 2018 wef 01/10/2018]
+
 “representative office” means an office set up in Singapore by a foreign law practice to carry out only liaison or promotional work for the foreign law practice, without providing legal services in Singapore;
 
 [Act 40 of 2014 wef 18/11/2015]
@@ -820,7 +826,11 @@ PRELIMINARY
 
 “Society” means the Law Society of Singapore established under section 37;
 
-“trust” and “trustee” extend to implied and constructive trusts and to cases where the trustee has a beneficial interest in the trust property and to the duties incident to the office of a personal representative, and “trustee”, where the context admits, includes a personal representative.
+“trust” and “trustee” extend to implied and constructive trusts and to cases where the trustee has a beneficial interest in the trust property and to the duties incident to the office of a personal representative, and “trustee”, where the context admits, includes a personal representative;
+
+“wholly-owned subsidiary of the Society” includes a company limited by guarantee the sole member of which is the Society.
+
+[Act 22 of 2018 wef 01/10/2018]
 
 [11/79; 5/81; 17/84; 30/86; 15/89; 16/93; 41/93; 4/2000; 23/2004; 41/2005; 42/2005; 20/2007; 19/2008]
 
@@ -1904,9 +1914,11 @@ and served on the Society; and
 
 (3) Subsection (1) shall not apply to —
 
-(a) a solicitor who is employed by the Society, the Institute or any statutory body or law office in the public service;
+(a) a solicitor who is employed by the Society or a wholly-owned subsidiary of the Society, the Institute or any statutory body or law office in the public service;
 
 [8/2011 wef 03/05/2011]
+
+[Act 22 of 2018 wef 01/10/2018]
 
 (b) a solicitor who is employed as a full-time member of the academic staff of any department of the National University of Singapore or of any department of law in any other institution of higher learning in Singapore and who has been so employed in either case for at least 3 continuous years; or
 
@@ -4602,9 +4614,17 @@ shall, while his registration or approval continues in force, pay to the Society
 
 (f) for payment of any other sums properly payable out of the Fund by virtue of this section.
 
-(10) If in any year no grant is made from the Fund, and there is no application for a grant from the Fund that is pending at the end of that year, the Council may, in its discretion, transfer from the Fund all interest, dividends and other accretions of capital arising from the Fund or any part thereof to a fund of the Society established for the purposes of purchasing or maintaining a library for the use of the members of the Society.
+(10) The Council may, in its discretion, transfer from the Fund the whole or any part of the interest, dividends and other accretions of capital arising from the Fund —
 
-[Act 16 of 2016 wef 01/08/2016]
+(a) to any other fund of the Society for —
+
+(i) the purpose of purchasing or maintaining a library for the use of the members of the Society; or
+
+(ii) such purposes as the Minister may specify by notification in theGazette; or
+
+(b) to any wholly-owned subsidiary of the Society, for such purposes as the Minister may specify by notification in theGazette.
+
+[Act 22 of 2018 wef 01/10/2018]
 
 (11) Where it is proved to the satisfaction of the Council that any person has sustained loss in consequence of dishonesty on the part of —
 
@@ -5696,21 +5716,17 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 (b) if the Inquiry Committee is of the view that no formal investigation by a Disciplinary Tribunal is required —
 
-(i) that the regulated legal practitioner should be ordered to pay a penalty under section 88, and a penalty sufficient and appropriate to the misconduct committed;
+(i) that the regulated legal practitioner should be ordered under section 88 to pay a penalty that is sufficient and appropriate to the misconduct committed;
 
-[Act 3 of 2012 wef 01/04/2012]
+(ii) that the regulated legal practitioner should be reprimanded or given a warning;
 
-[Act 40 of 2014 wef 18/11/2015]
+(iii) that the regulated legal practitioner should be ordered to comply with one or more remedial measures;
 
-(ii) that the regulated legal practitioner should be reprimanded or given a warning; or
+(iv) that the regulated legal practitioner should be subjected to the measure in sub-paragraph (iii) in addition to the measure in sub-paragraph (i) or (ii); or
 
-[Act 3 of 2012 wef 01/04/2012]
+(v) that the complaint be dismissed.
 
-[Act 40 of 2014 wef 18/11/2015]
-
-(iii) that the complaint be dismissed.
-
-[Act 3 of 2012 wef 01/04/2012]
+[Act 22 of 2018 wef 01/10/2018]
 
 (8) Where in the course of its inquiry an Inquiry Committee receives information touching on or evidence of the conduct of the regulated legal practitioner concerned which may give rise to proceedings under this Part, the Inquiry Committee may, after giving notice to him, decide on its own motion to inquire into that matter and report its findings to the Council.
 
@@ -5760,11 +5776,17 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 (a) that a formal investigation is not necessary;
 
-(b) that no cause of sufficient gravity exists for a formal investigation but that the regulated legal practitioner should be given a warning, reprimanded or ordered to pay a penalty under section 88;
+(b) that, while no cause of sufficient gravity exists for a formal investigation, the regulated legal practitioner should be —
 
-[8/2011 wef 03/05/2011]
+(i) ordered under section 88 to pay a penalty that is sufficient and appropriate to the misconduct committed;
 
-[Act 40 of 2014 wef 18/11/2015]
+(ii) reprimanded or given a warning;
+
+(iii) ordered to comply with one or more remedial measures; or
+
+(iv) subjected to the measure in sub-paragraph (iii) in addition to the measure in sub-paragraph (i) or (ii);
+
+[Act 22 of 2018 wef 01/10/2018]
 
 (c) that there should be a formal investigation by a Disciplinary Tribunal; or
 
@@ -5810,11 +5832,35 @@ the complainant may, within 14 days of being notified of that order, apply to a 
 
 ### Council’s power to give warning, reprimand or order penalty
 
-88\.—(1) If the Council determines under section 87 that no cause of sufficient gravity exists for a formal investigation, but that the regulated legal practitioner should be given a warning, reprimanded or ordered to pay a penalty, it may give him a warning, reprimand him or order him to pay a penalty of not more than $10,000, as the case may be.
+88\.—(1) If the Council determines under section 87 that no cause of sufficient gravity exists for a formal investigation, but that the regulated legal practitioner should be given a warning, reprimanded or ordered to pay a penalty, it must give him a warning, reprimand him or order him to pay a penalty of not more than $10,000, as the case may be.
 
 [8/2011 wef 03/05/2011]
 
 [Act 40 of 2014 wef 18/11/2015]
+
+[Act 22 of 2018 wef 01/10/2018]
+
+(1A) Where the Council determines under section 87 that, while no cause of sufficient gravity exists for a formal investigation, the regulated legal practitioner should be ordered to comply with one or more remedial measures —
+
+(a) the Council must order the regulated legal practitioner to comply with the remedial measure or remedial measures (as the case may be); and
+
+(b) if a regulated legal practitioner fails, within the time specified by the Council, to comply fully with the Council’s order under paragraph (a), the Council may —
+
+(i) give the regulated legal practitioner a warning;
+
+(ii) reprimand the regulated legal practitioner; or
+
+(iii) order the regulated legal practitioner to pay a penalty of not more than $10,000.
+
+[Act 22 of 2018 wef 01/10/2018]
+
+(1B) Where the Council makes a determination under section 87(1)(b)(iv) —
+
+(a) any action taken by the Council under subsection (1A)(b) is in addition to any action taken by the Council under subsection (1); but
+
+(b) the total amount of penalty ordered to be paid under subsections (1) and (1A)(b) must not exceed $10,000.
+
+[Act 22 of 2018 wef 01/10/2018]
 
 (2) Section 95 shall apply to any penalty ordered to be paid under subsection (1).
 
@@ -6026,9 +6072,17 @@ have regard to the evidence given, the arguments adduced and any orders made dur
 
 [Act 40 of 2014 wef 18/11/2015]
 
-(b) while no cause of sufficient gravity for disciplinary action exists under section 83 or 83A (as the case may be), the regulated legal practitioner should be reprimanded or ordered to pay a penalty sufficient and appropriate to the misconduct committed; or
+(b) while no cause of sufficient gravity for disciplinary action exists under section 83 or 83A (as the case may be), the regulated legal practitioner should be —
 
-[Act 40 of 2014 wef 18/11/2015]
+(i) ordered to pay a penalty that is sufficient and appropriate to the misconduct committed;
+
+(ii) reprimanded;
+
+(iii) ordered to comply with one or more remedial measures; or
+
+(iv) subjected to the measure in sub-paragraph (iii) in addition to the measure in sub-paragraph (i) or (ii); or
+
+[Act 22 of 2018 wef 01/10/2018]
 
 (c) cause of sufficient gravity for disciplinary action exists under section 83 or 83A (as the case may be).
 
@@ -6036,9 +6090,11 @@ have regard to the evidence given, the arguments adduced and any orders made dur
 
 [Act 40 of 2014 wef 18/11/2015]
 
-(2) Where a Disciplinary Tribunal makes a determination under subsection (1)(b) or (c), the Disciplinary Tribunal may make an order for payment by any party of costs, and may, in such order, specify the amount of those costs or direct that the amount be taxed by the Registrar.
+(2) Where a Disciplinary Tribunal makes a determination under subsection (1)(b)(i), (ii) or (iv) or (c), the Disciplinary Tribunal may make an order for payment by any party of costs, and may, in such order, specify the amount of those costs or direct that the amount be taxed by the Registrar.
 
 [19/2008]
+
+[Act 22 of 2018 wef 01/10/2018]
 
 (2A) Where a Disciplinary Tribunal makes a determination under subsection (1)(a) and further records the opinion that the complaint was frivolous or vexatious, the Disciplinary Tribunal may, after hearing the person who made the complaint (if he desires to be heard) —
 
@@ -6076,19 +6132,23 @@ have regard to the evidence given, the arguments adduced and any orders made dur
 
 ### Society to apply to court if cause of sufficient gravity exists
 
-94\.—(1) If the determination of the Disciplinary Tribunal under section 93 is that cause of sufficient gravity for disciplinary action exists under section 83 or 83A (as the case may be), the Society shall without further direction make an application under section 98 within one month from the date of the determination of the Disciplinary Tribunal.
+94\.—(1) If the Disciplinary Tribunal makes a determination under section 93(1)(c), the Society shall without further direction make an application under section 98 within one month from the date of the determination of the Disciplinary Tribunal.
 
 [19/2008]
 
 [Act 40 of 2014 wef 18/11/2015]
 
-(2) If the determination of the Disciplinary Tribunal under section 93 is that no cause of sufficient gravity for disciplinary action exists under section 83 or 83A (as the case may be), it shall not be necessary for the Society to take any further action in the matter unless so directed by the court.
+[Act 22 of 2018 wef 01/10/2018]
+
+(2) If the Disciplinary Tribunal makes a determination under section 93(1)(a), it shall not be necessary for the Society to take any further action in the matter unless so directed by the court.
 
 [19/2008]
 
 [Act 40 of 2014 wef 18/11/2015]
 
-(3) If the determination of the Disciplinary Tribunal under section 93 is that, while no cause of sufficient gravity for disciplinary action exists under section 83 or 83A (as the case may be), the regulated legal practitioner should be reprimanded or ordered to pay a penalty, the Council shall —
+[Act 22 of 2018 wef 01/10/2018]
+
+(3) If the Disciplinary Tribunal makes a determination under section 93(1)(b)(i), (ii) or (iv), the Council shall —
 
 (a) if it agrees with the determination, reprimand the regulated legal practitioner or order him to pay a penalty of not more than $20,000, as the case may be; or
 
@@ -6098,11 +6158,37 @@ have regard to the evidence given, the arguments adduced and any orders made dur
 
 [Act 40 of 2014 wef 18/11/2015]
 
+[Act 22 of 2018 wef 01/10/2018]
+
+(3A) Where the Disciplinary Tribunal makes a determination under section 93(1)(b)(iii) or (iv) —
+
+(a) the Council must —
+
+(i) if the Council agrees with the determination, order the regulated legal practitioner to comply with the remedial measure or remedial measures (as the case may be); or
+
+(ii) if the Council disagrees with the determination, without further direction make an application under section 98 within one month after the date of the determination of the Disciplinary Tribunal; and
+
+(b) if paragraph (a)(i) applies, and the regulated legal practitioner fails, within the time specified by the Council, to comply fully with the Council’s order under paragraph (a)(i), the Council must, if the determination so provides —
+
+(i) reprimand the regulated legal practitioner; or
+
+(ii) order the regulated legal practitioner to pay a penalty of not more than $20,000.
+
+[Act 22 of 2018 wef 01/10/2018]
+
+(3B) Where the Disciplinary Tribunal makes a determination under section 93(1)(b)(iv), and the Council agrees with that determination —
+
+(a) any action taken by the Council under subsection (3A)(b)(ii) is in addition to any action taken by the Council under subsection (3)(a); but
+
+(b) the total amount of penalty ordered to be paid under subsections (3)(a) and (3A)(b)(ii) must not exceed $20,000.
+
+[Act 22 of 2018 wef 01/10/2018]
+
 (4) The Council shall inform the regulated legal practitioner and the person who made the complaint of —
 
 (a) the determination of the Disciplinary Tribunal under section 93 within 14 days from the date the Society receives a copy of the report referred to in section 93(4); and
 
-(b) where subsection (3) applies, the Council’s decision —
+(b) where subsection (3) or (3A) applies, the Council’s decision —
 
 (i) as to whether it agrees with the determination of the Disciplinary Tribunal; and
 
@@ -6113,6 +6199,8 @@ within 14 days from the date of the decision.
 [19/2008]
 
 [Act 40 of 2014 wef 18/11/2015]
+
+[Act 22 of 2018 wef 01/10/2018]
 
 ### Society to apply to court for cases involving fraud or dishonesty, or under section 33
 
@@ -6265,6 +6353,16 @@ and such order for the payment of costs as may be just.
 (6) If the Judge makes an order directing the person who made the complaint or the Council to make an application under section 98, that person or the Society, as the case may be, shall make the application under that section within one month from the date of the order.
 
 [19/2008]
+
+### Remedial measures
+
+97A\. For the purposes of this Part, the Council may, with the approval of the Minister, make rules to prescribe —
+
+(a) the remedial measures to address any issue concerning the professional practice, etiquette, conduct or discipline of a regulated legal practitioner; and
+
+(b) any requirements that the Council may specify for compliance with an order of the Council under section 88(1A) or 94(3A).
+
+[Act 22 of 2018 wef 01/10/2018]
 
 ### Application for order that solicitor be struck off roll, etc.
 
@@ -6425,6 +6523,10 @@ and such order for the payment of costs as may be just.
 101\.—(1) The Society shall give the Registrar notice of every order made under this Part that is adverse to an advocate and solicitor, and the Registrar shall cause a note of the effect of that order to be entered on the roll against the name of the advocate and solicitor concerned.
 
 (2) An order as to costs only need not be so entered on the roll.
+
+(3) An order to comply with one or more remedial measures (whether or not in addition to an order to pay a penalty, a reprimand or a warning) need not be entered on the roll.
+
+[Act 22 of 2018 wef 01/10/2018]
 
 ### Replacement on roll of solicitor who has been struck off
 
@@ -9119,6 +9221,7 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Date of Second and Third Readings|20 March 2018|
 ||Dates of commencement|18 April 2018|
 |||1 August 2018|
+|||1 October 2018|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
