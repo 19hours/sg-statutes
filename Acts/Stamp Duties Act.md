@@ -178,9 +178,27 @@
 
 - [58 Allowance for duty paid or overpaid](#Allowance-for-duty-paid-or-overpaid)
 
-- [59 (Repealed)](#Repealed)
+[**Part VIIIA APPLICATION OF ACT TO ELECTRONIC INSTRUMENTS**](#Part-VIIIA)
 
-- [60 (Repealed)](#Repealed)
+- [59 Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [60 Application](#Application)
+
+- [60A Electronic instruments treated as instruments](#Electronic-instruments-treated-as-instruments)
+
+- [60B Application of Act to electronic instruments](#Application-of-Act-to-electronic-instruments)
+
+- [60C Execution of electronic instruments](#Execution-of-electronic-instruments)
+
+- [60D Meaning of "duly stamped" and denoting of duties for electronic instruments](#Meaning-of-"duly-stamped"-and-denoting-of-duties-for-electronic-instruments)
+
+- [60E No double duty](#No-double-duty)
+
+- [60F Other modifications of Act for electronic instruments](#Other-modifications-of-Act-for-electronic-instruments)
+
+- [60G Exempt electronic records and transactions](#Exempt-electronic-records-and-transactions)
+
+- [60H Rules](#Rules)
 
 [**Part IX OFFENCES AND PENALTIES**](#Part-IX)
 
@@ -294,7 +312,9 @@ PRELIMINARY
 
 “duty” means any stamp duty for the time being chargeable under this Act or any other Act;
 
-“E-Stamping system” means the computer service established under section 6B;
+“E-Stamping system” means the computer service mentioned in section 6B(1);
+
+[Act 37 of 2018 wef 04/10/2018]
 
 “equitable mortgage” means an agreement or a memorandum under hand only, relating to the deposit of any title deeds or instruments constituting or being evidence of the title to any property whatever (other than stock or marketable securities), or creating a charge on such property;
 
@@ -336,7 +356,7 @@ PRELIMINARY
 
 “proper officer” means the Commissioner and such other officer as may be authorised by him to impress stamps or to issue stamp certificates;
 
-“registered person” means a person approved under section 6B to be a registered user of the E-Stamping system;
+[Deleted by Act 37 of 2018 wef 04/10/2018]
 
 “residential property” means —
 
@@ -418,47 +438,29 @@ Payment of duty
 
 ### E-Stamping system
 
-6B\.—(1) The Commissioner may establish or operate a computer service known as the E-Stamping system that enables a registered person, in accordance with the arrangements made under this section —
+6B\.—(1) The computer service known as the E‑Stamping system and established under section 6B as in force immediately before the date of commencement of section 2 of the Stamp Duties (Amendment) Act 2018, may be used for the purposes mentioned in subsection (2).
 
-(a) to obtain an assessment of stamp duty (and any penalty) on an instrument;
+(2) The purposes are to enable any person, in accordance with the arrangements made under this section —
 
-(b) to pay stamp duty (and any penalty) on an instrument by electronic funds transfer in accordance with the assessment; and
+(a) to do the following without the need to present the instrument concerned to the Commissioner or a proper officer in charge of the stamp office:
 
-(c) to stamp the instrument by attaching a stamp certificate to it which bears an authorisation number issued for the instrument and such other particulars as are determined by the Commissioner,
+(i) obtain an assessment of stamp duty (and any penalty) on an instrument;
 
-without the need for the instrument to be presented to the Commissioner or a proper officer in charge of the stamp office.
+(ii) pay stamp duty (and any penalty) on the instrument by electronic funds transfer in accordance with the assessment;
 
-[33/99]
+(iii) stamp the instrument by attaching a stamp certificate to it or (in the case of an electronic instrument within the meaning of section 59) obtaining a stamp certificate for it, which bears an authorisation number issued for the instrument and such other particulars as are determined by the Commissioner; and
 
-(2) Any person may apply to the Commissioner to register to use the E-Stamping system.
+(b) to apply to the Commissioner for the adjudication of an instrument under section 37 and to obtain a certificate of adjudication from the Commissioner under section 38.
 
-[33/99]
+(3) The Commissioner may —
 
-(3) The Commissioner may refuse an application made under subsection (2) or approve the registration of the applicant subject to such terms as he thinks fit.
+(a) determine the information and particulars that may be electronically transmitted under the E‑Stamping system, including the form and manner they are to be transmitted;
 
-[33/99]
-
-(4) An approval may be amended at any time by agreement between the Commissioner and the registered person or by written notice given by the Commissioner to the registered person.
-
-[33/99]
-
-(5) An approval granted under subsection (3) shall remain in force until it is cancelled by the Commissioner or until the registered person surrenders the approval.
-
-[33/99]
-
-(6) The Commissioner may, by written notice, cancel an approval at any time for any reason.
-
-[33/99]
-
-(7) The Commissioner may, with the approval of the Minister —
-
-(a) determine the information and particulars that may be electronically transmitted under the E-Stamping system, including the form and manner they are to be transmitted;
-
-(b) determine the procedure for use of the E-Stamping system, including the procedure in circumstances where there is a breakdown or interruption in the computer service; and
+(b) determine the procedure for use of the E‑Stamping system, including the procedure in circumstances where there is a breakdown or an interruption in the computer service; and
 
 (c) generally do such other things for the better provision of the computer service.
 
-[33/99]
+[Act 37 of 2018 wef 04/10/2018]
 
 ### Electronic assessment and stamping of instruments
 
@@ -466,23 +468,31 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 [33/99]
 
-(2) A registered person must, on receipt of a stamp certificate issued for the instrument by the Commissioner, immediately attach the stamp certificate to the instrument.
+(2) A person must, on receipt of a stamp certificate issued for the instrument by the Commissioner, immediately attach the stamp certificate to the instrument.
 
 [33/99]
+
+[Act 37 of 2018 wef 04/10/2018]
 
 ### Electronic funds transfer of duty
 
-6D\.—(1) Every registered person shall, for the purposes of the E-Stamping system, open an electronic banking facility with a bank to enable the transfer of funds from his designated account with the bank to an account specified by the Commissioner.
+6D\.—(1) A person using the E‑Stamping system may maintain an electronic banking facility with a bank to enable the transfer of funds from his designated account with the bank to an account specified by the Commissioner.
 
 [33/99]
 
-(2) The Commissioner shall, on issuing to a registered person a stamp certificate in respect of any instrument that is chargeable with duty, immediately deduct through electronic funds transfer the full amount of duty chargeable from the designated account of the registered person.
+[Act 37 of 2018 wef 04/10/2018]
+
+(2) The Commissioner shall, on issuing to a person a stamp certificate in respect of any instrument that is chargeable with duty, immediately deduct through electronic funds transfer the full amount of duty chargeable from the designated account of the person.
 
 [33/99]
 
-(3) Nothing in subsection (2) shall require the Commissioner to deduct any money from the designated account of the registered person if the funds in that designated account are less than the full amount of duty chargeable on the instrument.
+[Act 37 of 2018 wef 04/10/2018]
+
+(3) Nothing in subsection (2) shall require the Commissioner to deduct any money from the designated account of the person if the funds in that designated account are less than the full amount of duty chargeable on the instrument.
 
 [33/99]
+
+[Act 37 of 2018 wef 04/10/2018]
 
 7\. [Repealed by Act 33/1999 wef 09/01/2012]
 
@@ -494,9 +504,11 @@ without the need for the instrument to be presented to the Commissioner or a pro
 
 (a) that the person delivers to the Commissioner accounts in respect of the instruments at a date to be specified by the Commissioner in such form and containing such particulars as the Commissioner may direct;
 
-(b) that, on delivery of the accounts required under paragraph (a), the person pays to the Commissioner the amount of duty due on all the instruments;
+(b) that, on delivery of the accounts required under paragraph (a), the person pays to the Commissioner the amount of duty due on all the instruments; and
 
-(c) that the person endorses on each of the instruments specified in the order the words “Stamp Duty Paid” together with such other particulars as the Commissioner may specify; and
+[Act 37 of 2018 wef 04/10/2018]
+
+(c) [Deleted by Act 37 of 2018 wef 04/10/2018]
 
 (d) that the person complies with such other requirements as the Commissioner may impose.
 
@@ -588,9 +600,11 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 
 [Act 30 of 2014 wef 01/01/2015]
 
-(1AA) Subsection (1) does not apply to an instrument that is executed for the purpose of or in connection with the transfer, conveyance or assignment of any equity interest in an entity that is chargeable with any duty under section 23.
+(1AA) Subsection (1) does not apply to an instrument that is executed for the purpose of or in connection with the transfer, conveyance or assignment of any equity interest in an entity that is chargeable with any duty under section 23, except where it is executed for the purposes of or in connection with a matter in subsection (1)(c).
 
 [Act 13 of 2017 wef 11/03/2017]
+
+[Act 37 of 2018 wef 04/10/2018]
 
 (1A) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, then ad valorem stamp duty under Articles 3(a), (b), (ba), (bb) and (c) and 9(c) in the First Schedule shall not be chargeable on any instrument executed on or after 19th February 2011 for the purposes of or in connection with the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act (Cap. 163A).
 
@@ -607,6 +621,18 @@ PROVISIONS APPLICABLE TO PARTICULAR INSTRUMENTS
 (d) the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act.
 
 [Act 30 of 2014 wef 01/01/2015]
+
+(1C) If it is shown to the satisfaction of the Commissioner that the prescribed conditions have been fulfilled, then ad valorem stamp duty under Article 3(bg) in the First Schedule is not chargeable on any instrument executed on or after 11 March 2017 for the purposes of or in connection with —
+
+(a) the transfer of the undertaking or shares in respect of a scheme for the reconstruction of any company or companies, or the amalgamation of companies;
+
+(b) the transfer, conveyance or assignment of any beneficial interest in any asset between such entities that are associated in such manner as may be prescribed;
+
+(c) the conversion of a firm to a limited liability partnership under section 20 of the Limited Liability Partnerships Act (Cap. 163A); or
+
+(d) the conversion of a private company to a limited liability partnership under section 21 of the Limited Liability Partnerships Act.
+
+[Act 37 of 2018 wef 04/10/2018]
 
 (2) No instrument referred to in this section shall be deemed to be duly stamped unless —
 
@@ -2500,9 +2526,15 @@ ADJUDICATION AS TO STAMPS
 
 ### Mode of adjudication as to proper stamp duty
 
-37\.—(1) Where any instrument, whether executed or not and whether previously stamped or not, is brought to the Commissioner and the person bringing it applies to the Commissioner as to whether the instrument is chargeable with any duty and, if so, the amount of duty chargeable, the Commissioner shall adjudicate and assess the duty with which, in his judgment, the instrument is chargeable.
+37\.—(1) Where —
 
-[33/99; 38/2002]
+(a) any instrument (whether executed or not and whether previously stamped or not) is brought to the Commissioner; or
+
+(b) a copy of any instrument (whether executed or not and whether previously stamped or not) is sent to the Commissioner using the E‑Stamping system or other means approved by the Commissioner,
+
+and the person bringing or sending it applies to the Commissioner for adjudication on whether the instrument is chargeable with duty and (if so) the amount chargeable, the Commissioner must adjudicate and assess the duty with which, in the Commissioner’s judgment, the instrument is chargeable.
+
+[Act 37 of 2018 wef 04/10/2018]
 
 (1A) Where the person seeks the opinion of the Commissioner under subsection (1) as to the amount of duty chargeable, he shall in making the application for adjudication set forth the value upon which in his opinion duty is chargeable.
 
@@ -2534,7 +2566,7 @@ ADJUDICATION AS TO STAMPS
 
 ### Certificate of adjudication by Commissioner
 
-38\.—(1) When an instrument brought to the Commissioner under section 37 is in his opinion one of a description chargeable with duty, and —
+38\.—(1) When an instrument brought to, or a copy of which sent to, the Commissioner under section 37 is in his opinion one of a description chargeable with duty, and —
 
 (a) the Commissioner determines that it is already fully stamped; or
 
@@ -2543,6 +2575,8 @@ ADJUDICATION AS TO STAMPS
 the Commissioner shall certify by issuing and attaching to the instrument a certificate of adjudication, stating that the full duty, with which it is chargeable, has been paid.
 
 [33/99]
+
+[Act 37 of 2018 wef 04/10/2018]
 
 (2) Subject to subsection (2A), when the instrument is in the opinion of the Commissioner not chargeable with duty or with full duty, the Commissioner shall certify in the manner mentioned in subsection (1) that the instrument is not so chargeable.
 
@@ -2676,9 +2710,11 @@ Promissory notes drawn outside Singapore
 
 [28/2010 wef 09/12/2010]
 
-(3) For the purposes of this section, an instrument shall be deemed to be unstamped or insufficiently stamped notwithstanding that a stamp certificate is attached thereto if, by reason of the circumstances mentioned in section 6D(3), the duty chargeable on the instrument was not deducted by the Commissioner from the designated account of a registered person.
+(3) For the purposes of this section, an instrument shall be deemed to be unstamped or insufficiently stamped notwithstanding that a stamp certificate is attached thereto if, by reason of the circumstances mentioned in section 6D(3), the duty chargeable on the instrument was not deducted by the Commissioner from the designated account of a person.
 
 [33/99]
+
+[Act 37 of 2018 wef 04/10/2018]
 
 ### Period of time for stamping to commence on day after execution
 
@@ -2868,9 +2904,147 @@ the Commissioner may, on his own initiative, make an allowance for the duty over
 
 [Act 30 of 2014 wef 01/01/2015]
 
-59\. [Repealed by Act 33/1999 wef 09/01/2012]
+## PART VIIIA
 
-60\. [Repealed by Act 33/1999 wef 09/01/2012]
+APPLICATION OF ACT TO ELECTRONIC INSTRUMENTS
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### Interpretation of this Part
+
+59\.—(1) In this Part —
+
+“electronic” and “electronic record” have the meanings given by section 2(1) of the Electronic Transactions Act (Cap. 88);
+
+Example
+
+Anything sent by e‑mail, SMS or any Internet‑based messaging service is an electronic record.
+
+“electronic instrument” means —
+
+(a) an electronic record, or a combination of an electronic record and a physical document, mentioned in section 60A(1)(a) or (b); or
+
+(b) an electronic record mentioned in section 60A(2);
+
+“electronic signature” means any electronic method used to identify a person and to indicate the person’s intention in respect of the information contained in an electronic record.
+
+(2) In this Part, a stamp certificate or certificate of adjudication is duly issued for an electronic instrument if it is issued by the Commissioner for the electronic instrument —
+
+(a) using the E-Stamping system in accordance with the provisions of this Act; or
+
+(b) in such other manner as the Commissioner may determine.
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### Application
+
+60\. This Part applies to electronic instruments that are executed, in accordance with section 60C, on or after the date of commencement of section 6 of the Stamp Duties (Amendment) Act 2018.
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### Electronic instruments treated as instruments
+
+60A\.—(1) For the purposes of this Act, a reference to an instrument or a description of instrument that effects a transaction includes —
+
+(a) an electronic record that effects, or an electronic record and a physical document that together effect, the same transaction, whether directly or indirectly; and
+
+(b) if the same transaction is effected whether directly or indirectly by a verbal communication and an electronic record, the electronic record but only if the transaction is concluded by means of the electronic record.
+
+(2) For the purposes of this Act, a reference to an instrument or a description of instrument that is evidence of, or that signifies any matter includes, in a case where the transaction concerned is effected by electronic means and there is no physical document that evidences or signifies such matter, any electronic record that evidences or signifies the same matter.
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### Application of Act to electronic instruments
+
+60B\. This Act applies in relation to an electronic instrument subject to the modifications set out in sections 60C to 60F and such other modifications as may be prescribed by rules under section 60H(2).
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### Execution of electronic instruments
+
+60C\.—(1) An electronic instrument that is an electronic record is treated as executed or signed when an electronic signature is applied to it.
+
+(2) An electronic instrument that comprises an electronic record and a physical document is treated as executed or signed —
+
+(a) if the transaction is concluded by means of an electronic record, when an electronic signature is applied to the electronic record; or
+
+(b) if the transaction is concluded by means of a physical document, when the physical document is signed.
+
+(3) In a case in subsection (1) or (2)(a), the time when and the place where the signing party does an act that results in the application of the electronic signature to the electronic record are treated respectively as the time and place of the execution or signing of the electronic instrument.
+
+Examples
+
+1.Asends an e-mail from a place in Malaysia offering to sell property toB.Bsends an e-mail from a place in Singapore acceptingA’s offer. If a contract is concluded by means of the second e-mail, the electronic instrument comprising the 2 e-mails is treated as executed in Singapore, and at the timeBsends the second e-mail.
+
+2.Amakes an offer to sell property on an Internet website.B, using a computer in a place in Singapore, transmits to the computer hosting the websiteB’s acceptance ofA’s offer. If a contract is thereby concluded, the electronic instrument comprising the electronic records of the offer and acceptance is treated as executed in Singapore and at the timeBtransmitsB’s acceptance.
+
+(4) In a case in subsection (2)(b), the time when and the place where the signing party signs the physical document are treated respectively as the time and place of the execution or signing of the electronic instrument.
+
+(5) The reference in subsection (3) to the signing party includes a person authorised by the signing party to apply the electronic signature on the signing party’s behalf, but excludes a person that merely provides any facility for the application of the electronic signature, such as an online intermediary.
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### Meaning of “duly stamped” and denoting of duties for electronic instruments
+
+60D\.—(1) An electronic instrument is duly stamped if a stamp certificate is duly issued for it.
+
+(2) All duties chargeable on an electronic instrument are paid and denoted by the due issue of a stamp certificate for it.
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### No double duty
+
+60E\. If there is more than one copy of an electronic instrument and any one of them has been duly stamped, then the other copy or copies is or are exempt from duty.
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### Other modifications of Act for electronic instruments
+
+60F\.—(1) A reference in this Act to the attachment or impression of a stamp certificate or certificate of adjudication to or on an instrument is, in the case of an electronic instrument, a reference to the due issue of such a certificate for the instrument.
+
+(2) A reference in this Act to a stamp certificate or certificate of adjudication that is attached to an instrument is, in the case of an electronic instrument, a reference to such a certificate that is duly issued for the instrument.
+
+(3) In this Act, an electronic instrument that is executed outside Singapore is received in Singapore if —
+
+(a) it is retrieved or accessed by a person in Singapore;
+
+(b) an electronic copy of it is stored on a device (including a computer) and brought into Singapore; or
+
+(c) an electronic copy of it is stored on a computer in Singapore.
+
+Examples
+
+1.AandBeffect outside Singapore a transaction by means of electronic records. The electronic records are saved on a server in a country outside Singapore.Bdownloads a copy of the electronic record in Singapore. The electronic instrument comprising those electronic records, having been retrieved by a person in Singapore, is received in Singapore.
+
+2.AandBeffect outside Singapore a transaction by means of electronic records. The electronic records are stored on a server in a country outside Singapore.Buses an electronic device to view a copy of those electronic records in Singapore. The electronic instrument comprising those electronic records, having been accessed by a person in Singapore, is received in Singapore.
+
+3.AandBeffect outside Singapore a transaction by means of electronic records. The electronic records are stored on a server in Singapore. The electronic instrument comprising those electronic records, having been stored on a computer in Singapore, is received in Singapore.
+
+(4) A reference in section 25(2) and (3) to the time a lease is presented for stamping is, if the lease is an electronic instrument, a reference to the time it is sent to the Commissioner for adjudication in accordance with section 37.
+
+(5) A reference in section 38(1) and (3) to the attachment of a certificate of adjudication to an instrument is to be disregarded in the case of an electronic instrument that is an electronic record.
+
+(6) Sections 51, 52(3) and 53 do not apply to an electronic instrument.
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### Exempt electronic records and transactions
+
+60G\. Sections 60B to 60F do not apply to any electronic record, or to any transaction effected (whether wholly or partly) by electronic means, that is prescribed by rules made under section 60H(1) as an exempt record or exempt transaction.
+
+[Act 37 of 2018 wef 04/10/2018]
+
+### Rules
+
+60H\.—(1) The Minister may make rules —
+
+(a) to prescribe anything that is authorised to be prescribed under this Part; and
+
+(b) to provide that any electronic record of a particular description is an electronic record that is evidence of or that signifies a particular transaction or matter for the purposes of section 60A(2).
+
+(2) For a period of 2 years starting on the date of commencement of section 6 of the Stamp Duties (Amendment) Act 2018, the Minister may make rules to prescribe further modifications to the provisions of this Act in their application to electronic instruments.
+
+[Act 37 of 2018 wef 04/10/2018]
 
 ## PART IX
 
@@ -2900,7 +3074,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) having drawn, made, executed or signed, otherwise than as a witness, any instrument that is chargeable with duty without the instrument being duly stamped and fails, without lawful excuse, to procure the due stamping of the instrument within the time within which the instrument may be stamped without penalty under this Act;
 
-(b) not being a person authorised under section 9(1) or an employee of such person, makes an endorsement on any instrument in the manner described in section 9(1)(c); or
+(b) not being a person authorised under section 9(1) or an employee of such person, represents himself to be such a person; or
+
+[Act 37 of 2018 wef 04/10/2018]
 
 (c) being a person authorised under section 9(1) —
 
@@ -2919,6 +3095,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 64\. Any person who —
 
 (a) sells or offers for sale a stamp certificate or certificate of adjudication;
+
+(aa) falsifies any part of a stamp certificate or certificate of adjudication;
+
+[Act 37 of 2018 wef 04/10/2018]
 
 (b) fraudulently attaches a stamp certificate or certificate of adjudication to an instrument other than the instrument for which the stamp certificate or certificate of adjudication was issued;
 
@@ -3298,6 +3478,20 @@ shall be guilty of an offence, and shall be liable on conviction to a fine not e
 
 [28/2010 wef 09/12/2010]
 
+(1A) The Minister may impose a condition under subsection (1) that a person who fails to comply with any condition imposed under that subsection, must pay interest on any amount recoverable under subsection (3) for the following period:
+
+(a) in a case where duty was paid on the instrument and then refunded, the period starting on the date on which the refund was made and ending on the expiry of the one month period mentioned in subsection (4) or earlier;
+
+(b) in any other case, the period starting on —
+
+(i) the date of execution of the instrument, if it is executed in Singapore; or
+
+(ii) the date the instrument is first received in Singapore, if it is executed outside Singapore,
+
+and ending on the expiry of the one month period mentioned in subsection (4) or earlier.
+
+[Act 37 of 2018 wef 04/10/2018]
+
 (2) A reduction or remission of duty in relation to a class of instruments, or any instrument belonging to such class, or any instrument when executed by or in favour of a class of persons, or by or in favour of members of such class, shall be made by rules, and the conditions (if any) shall be specified in the rules.
 
 [28/2010 wef 09/12/2010]
@@ -3314,9 +3508,11 @@ shall be guilty of an offence, and shall be liable on conviction to a fine not e
 
 [Act 1 of 2013 wef 22/02/2013]
 
-(3) Where the Minister is satisfied that a person to whom a remission or reduction of duty is granted fails to comply with any condition imposed under subsection (1) (whether a condition precedent or a condition subsequent), an amount equal to the amount of duty so remitted or reduced shall be recoverable as a debt due to the Government.
+(3) Where the Minister is satisfied that a person to whom a remission or reduction of duty is granted fails to comply with any condition imposed under subsection (1) (whether a condition precedent or a condition subsequent), an amount equal to the amount of duty so remitted or reduced, together with any interest that the person is to pay under a condition mentioned in subsection (1A), shall be recoverable as a debt due to the Government.
 
 [28/2010 wef 09/12/2010]
+
+[Act 37 of 2018 wef 04/10/2018]
 
 (3A) Subsection (3) does not apply to any condition which has been, or to the extent that it has been, waived in the person’s case under subsection (2B).
 
@@ -5838,6 +6034,10 @@ This Legislative History is provided for the convenience of users of the Stamp D
 |74.|**G.N. No. S 452/2018—Stamp Duties Act (Amendment of First Schedule) (No. 2) Notification 2018**|
 ||(G.N. No. S 460/2018 — Corrigendum)||
 ||Date of commencement|6 July 2018|
+|75.|**Act 37 of 2018—Stamp Duties (Amendment) Act 2018**|
+||Date of First Reading|6 August 2018 (Bill No. 30/2018 published on 6 August 2018)|
+||Date of Second and Third Readings|10 September 2018|
+||Date of commencement|4 October 2018|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
