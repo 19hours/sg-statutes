@@ -274,6 +274,10 @@ PRELIMINARY
 
 “book” includes any record, register, account, deed, writing and information, however compiled, recorded or stored, whether in written or printed form or on microfilm or in any other electronic form or otherwise;
 
+“capital markets products” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+[Act 4 of 2017 wef 08/10/2018]
+
 “chief executive”, in relation to a licensed trust company, means any person, by whatever name described, who —
 
 (a) is in the direct employment of, or acting for or by arrangement with, the licensed trust company; and
@@ -281,6 +285,10 @@ PRELIMINARY
 (b) is principally responsible for the management and conduct of the business of the licensed trust company;
 
 [Act 10 of 2013 wef 18/04/2013]
+
+“collective investment scheme” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 “controller”, in relation to a licensed trust company, means a 20% controller, a 50% controller or an indirect controller as defined in section 16(3);
 
@@ -318,6 +326,10 @@ PRELIMINARY
 
 “securities” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
+“specified securities-based derivatives contract” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
+
 “substantial shareholder” has the same meaning as in Division 4 of Part IV of the Companies Act;
 
 “trust business” means any business specified in the First Schedule;
@@ -325,6 +337,10 @@ PRELIMINARY
 “trust business licence” means a licence granted by the Authority under section 5 that authorises the holder thereof to carry on trust business;
 
 “trust business service” means any service in respect of any business specified in the First Schedule;
+
+“unit” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 “written directions” means written directions issued by the Authority under section 76.
 
@@ -648,7 +664,9 @@ in respect of anything done or omitted to be done with reasonable care and in go
 
 (iii) the provision of trust administration services which are procedural and non-discretionary;
 
-(c) any holder of a capital markets services licence, or any person who is exempt from holding a capital markets services licence, for providing fund management or custodial services for securities under the Securities and Futures Act (Cap. 289), in respect of the provision of fund management or custodial services for securities;
+(c) any holder of a capital markets services licence, or any person who is exempt from holding a capital markets services licence, for providing fund management or custodial services under the Securities and Futures Act (Cap. 289), in respect of the provision of fund management or custodial services;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (d) such other person or class of persons as may be prescribed; and
 
@@ -1292,7 +1310,9 @@ CONDUCT OF BUSINESS
 
 ### Priority to orders of protected parties
 
-27\.—(1) A licensed trust company or any of its employees involved in the management of the assets of an express trust shall not enter into any transaction for the purchase or sale of securities or futures contracts for its or his own account unless all instructions to purchase or sell securities or futures contracts of the same class for the account of the trust have been fulfilled.
+27\.—(1) A licensed trust company or any of its employees involved in the management of the assets of an express trust shall not enter into any transaction for the purchase or sale of any capital markets products for its or his own account unless all instructions to purchase or sell the capital markets products of the same class for the account of the trust have been fulfilled.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -1946,7 +1966,9 @@ MISCELLANEOUS
 
 ### Trust funds to be kept separate
 
-59\.—(1) Every licensed trust company shall ensure that all moneys, property and securities received or held by the licensed trust company in a fiduciary capacity are always kept distinct and in separate accounts from its own moneys, property and securities and marked in its books for each particular trust, so that they may be distinguished from any other assets shown in the registers and other books of account kept by it and so that the trust moneys do not form part of, or are not mixed with, its general assets.
+59\.—(1) Every licensed trust company shall ensure that all moneys, property, securities, specified securities-based derivatives contracts and units in a collective investment scheme received or held by the licensed trust company in a fiduciary capacity are always kept distinct and in separate accounts from its own moneys, property, securities, specified securities-based derivatives contracts and units in a collective investment scheme and marked in its books for each particular trust, so that they may be distinguished from any other assets shown in the registers and other books of account kept by it and so that the trust moneys do not form part of, or are not mixed with, its general assets.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (2) Every licensed trust company shall ensure that all investments made by it as trustee shall be designated so that the trusts to which the investments belong may be readily identified at any time.
 
@@ -2795,6 +2817,11 @@ The Trust Companies Act 2005 repealed and re-enacted with amendments the Trust C
 |||(Bill No. 25/2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|5 June 2018|
+|21.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
 ## COMPARATIVE TABLE
 
 Trust Companies Act
