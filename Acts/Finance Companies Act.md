@@ -208,6 +208,10 @@ PRELIMINARY
 
 [Act 10 of 2013 wef 18/04/2013]
 
+“collective investment scheme” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+[Act 4 of 2017 wef 08/10/2018]
+
 “company” means a company incorporated or registered under the Companies Act (Cap. 50) or pursuant to any corresponding previous written law;
 
 “credit facilities” means —
@@ -264,7 +268,21 @@ and includes the business of financing hire-purchase transactions arising out of
 
 “published reserves”, in relation to a finance company, means reserves which appear in the accounts of the finance company but does not include any reserves which are represented by the writing down of the value of assets or by provision for the depreciation of fixed assets or which are maintained for any specific purposes;
 
-“share”, in relation to a finance company, means a share in the share capital of the finance company and includes an interest in such a share.
+“securities” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
+
+“securities-based derivatives contract” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
+
+“share”, in relation to a finance company, means a share in the share capital of the finance company and includes an interest in such a share;
+
+[Act 4 of 2017 wef 08/10/2018]
+
+“unit” has the same meaning as in section 2(1) of the Securities and Futures Act.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [33/84; 27/94; 5/2005]
 
@@ -800,7 +818,9 @@ REGULATION OF BUSINESS
 
 (b) deal in any foreign currency, gold or any other precious metal;
 
-(c) acquire stocks, shares or debt or convertible securities of any financial, commercial, agricultural, industrial or other undertaking or government which are denominated in any foreign currency;
+(c) acquire securities, securities-based derivatives contracts or units in a collective investment scheme which are denominated in any foreign currency;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (d) grant or permit to be outstanding to any one person or to any group of persons under the control or influence of any one person, any credit facilities if the aggregate amount of such credit facilities exceeds 25% of its capital funds or such other percentage not exceeding 100% of its capital funds as the Authority may approve;
 
@@ -848,7 +868,9 @@ REGULATION OF BUSINESS
 
 (ba) any individual of whom, or firm or limited liability partnership of which, any of that finance company’s directors is a guarantor;
 
-(c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other securities exchange which the Authority may approve under the Securities and Futures Act (Cap. 289), and the subsidiaries of such public company; or
+(c) a company in which any of that finance company’s directors, whether legally or beneficially, owns more than 50% of the issued capital or in which any of that finance company’s directors controls the composition of the board of directors, but excluding any public company the securities of which are listed on the Singapore Exchange Securities Trading Limited or any other approved exchange which the Authority may approve under the Securities and Futures Act (Cap. 289), and the subsidiaries of such public company; or
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (d) a corporation that is deemed to be related to the finance company as described in section 6 of the Companies Act (Cap. 50).
 
@@ -856,7 +878,9 @@ REGULATION OF BUSINESS
 
 (6) In this section —
 
-(a) “aggregate amount of foreign currency exposure” means the aggregate value of investments in securities denominated in foreign currencies which are listed on exchanges recognised by the Authority and holdings of foreign currencies;
+(a) “aggregate amount of foreign currency exposure” means the aggregate value of investments in securities, securities-based derivatives contracts or units in a collective investment scheme, denominated in foreign currencies which are listed on exchanges recognised by the Authority and holdings of foreign currencies;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (b) the reference to “director” in subsection (5) includes the wife, husband, father, mother, son or daughter of a director;
 
@@ -1578,7 +1602,9 @@ but whose memorandum or articles of association do not include all or any of the
 
 (d) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
 
-(e) has had a prohibition order under section 59 of the Financial Advisers Act (Cap. 110), section 35V of the Insurance Act (Cap. 142) or section 101A of the Securities and Futures Act (Cap. 289) made against him that remains in force; or
+(e) has had a prohibition order under section 59 of the Financial Advisers Act (Cap. 110), section 35V of the Insurance Act (Cap. 142) or section 101A or 123ZZC of the Securities and Futures Act (Cap. 289) made against him that remains in force; or
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (f) has been a director of, or directly concerned in the management of, a regulated financial institution, whether in Singapore or elsewhere —
 
@@ -1908,6 +1934,11 @@ This Legislative History is provided for the convenience of users of the Finance
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
+|25.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
