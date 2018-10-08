@@ -272,7 +272,7 @@
 
 - [34H Tax credits for approved redomiciled companies](#Tax-credits-for-approved-redomiciled-companies)
 
-- [34I Adjustments arising from adoption of FRS 115](#Adjustments-arising-from-adoption-of-FRS-115)
+- [34I Adjustments arising from adoption of FRS 115 or SFRS(I) 15](#Adjustments-arising-from-adoption-of-FRS-115-or-SFRSI-15)
 
 [**Part VIII ASCERTAINMENT OF STATUTORY INCOME**](#Part-VIII)
 
@@ -1686,15 +1686,33 @@ which do not form part of the statutory income of the designated unit trust by v
 
 (v) a finance company licensed under the Finance Companies Act (Cap. 108);
 
-(vi) a holder of a capital markets services licence licensed to carry on business in the following regulated activities under the Securities and Futures Act (Cap. 289) or a company exempted under that Act from holding such a licence:
+(vi) a holder of a capital markets services licence licensed to carry on business in the following regulated activities under the Securities and Futures Act (Cap. 289) in force immediately before the date of commencement of section 204 of the Securities and Futures (Amendment) Act 2017, or a company exempted under that Act from holding such a licence:
 
 (A) dealing in securities (other than any person licensed under the Financial Advisers Act (Cap. 110));
 
 (B) fund management;
 
-(C) securities financing; or
+(C) securities financing;
 
-(D) providing custodial services for securities;
+(D) providing custodial services for securities,
+
+where the fees and compensatory payments are derived before the date of commencement of section 204 of the Securities and Futures (Amendment) Act 2017;
+
+[Act 4 of 2017 wef 08/10/2018]
+
+(via) a holder of a capital markets services licence licensed to carry on business in the following regulated activities under the Securities and Futures Act on or after the date of commencement of section 204 of the Securities and Futures (Amendment) Act 2017, or a company exempted under that Act from holding such a licence:
+
+(A) dealing in capital markets products (other than any person licensed under the Financial Advisers Act);
+
+(B) fund management;
+
+(C) product financing; or
+
+(D) providing custodial services,
+
+where the fees and compensatory payments are derived on or after the date of commencement of section 204 of the Securities and Futures (Amendment) Act 2017;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (vii) a collective investment scheme or closed-end fund as defined in the Securities and Futures Act that is constituted as a corporation;
 
@@ -3284,15 +3302,15 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards; and
 
-[Act 45 of 2018 wef 01/07/2018]
-
 [Act 39 of 2017 wef 01/04/2014]
 
-[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
+[Act 45 of 2018 wef 01/07/2018]
 
 (zs) any distribution made to an individual during the period from 1 July 2018 to 31 March 2020 (both dates inclusive) by a trustee of an approved REIT exchange-traded fund, out of a distribution from a real estate investment trust that is in turn made out of income of the kinds mentioned in section 43(2A)(a)(i), (ii), (iii), (iv) and (v), but not where the firstmentioned distribution is derived by the individual as a partner in a partnership which is in Singapore or is derived from the carrying on of a trade, business or profession.
 
 [Act 45 of 2018 wef 01/07/2018]
+
+[26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
 
 (2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018 (both dates inclusive) where 50% or more of those securities which are outstanding at any time during the life of the issue is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities and where such interest is derived by —
 
@@ -14018,6 +14036,132 @@ then an amount equal to the amount of tax credit so allowed is recoverable by th
 
 [Act 39 of 2017 wef 26/10/2017]
 
+### Adjustments arising from adoption of FRS 115 or SFRS(I) 15
+
+34I\.—(1) This section applies where —
+
+(a) a person prepares or maintains the person’s financial accounts for any basis period for a year of assessment in accordance with FRS 115 or SFRS(I) 15 for the first time (called in this section the initial year of assessment);
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(b) as a result of the application of FRS 115 or SFRS(I) 15 (as the case may be), an adjustment has to be made to the amount of revenue in the person’s financial accounts in any previous basis period (called in this section the adjusted revenue amount); and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(c) the amount W of the person (or, if the person is a partnership, a partner of the person) for the year of assessment for that previous basis period arrived at using an amount of profit that includes the adjusted revenue amount (called in this section amount A) as the starting point, is different from the amount arrived at using an amount of profit that does not include the adjusted revenue amount (called in this section amount B) as the starting point.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(1A) In subsection (1)(c), the amount W of a person or partner for a year of assessment is ascertained by the formula X + Y – Z, where —
+
+(a) X is the chargeable income of the person or partner for that year of assessment;
+
+(b) Y is all exempt income of the person or partner for that year of assessment; and
+
+(c) Z is the sum of each deduction or allowance for any expenditure, donation or loss, that remains unabsorbed after ascertaining the chargeable income or any exempt income.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(2) Despite any provision of this Act, if amount A exceeds amount B, the excess amount is treated as income of the person or partner (as the case may be) for the initial year of assessment and is subject to one or more tax treatments in accordance with subsection (3).
+
+(3) For the purposes of subsection (2) —
+
+(a) if the income amount C of the person or partner for the initial year of assessment is subject to a single tax treatment, then the excess amount is subject to that tax treatment;
+
+(b) if different parts of the income amount C of the person or partner for the initial year of assessment are subject to different tax treatments, then different parts of the excess amount are subject to the different tax treatments, and the part of the excess amount that is subject to each of those tax treatments is computed by the formula
+
+where —
+
+(i) D is the sum of —
+
+(A) the part of the income amount C of the person or partner for that year of assessment that is subject to that tax treatment; and
+
+(B) the deduction allowed or allowance made for each expenditure, donation or loss in ascertaining the chargeable income or any exempt income of the person or partner for that year of assessment, and attributable to the production of, or apportioned to, that part;
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(ii) E is the sum of —
+
+(A) the income amount C of the person or partner for that year of assessment; and
+
+(B) the deduction allowed or allowance made for each expenditure, donation or loss in ascertaining the chargeable income or any exempt income of the person or partner for that year of assessment, and attributable to the production of, or apportioned to, the income amount C or a part of it; and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(iii) F is the excess amount.
+
+(4) Despite any provision of this Act, if amount B exceeds amount A, a deduction of the excess amount must be made against the total income of the person or partner (as the case may be) or one or more parts of it for the initial year of assessment according to subsection (5).
+
+(5) For the purposes of subsection (4) —
+
+(a) if the income amount C of the person or partner for the initial year of assessment is subject to a single tax treatment, then the excess amount must be deducted against the income amount C;
+
+(b) if different parts of the income amount C of the person or partner for the initial year of assessment are subject to different tax treatments, then different parts of the excess amount must be deducted against the different parts of the income amount C, and the part of the excess amount that must be deducted against each part of the income amount C is computed by the formula
+
+where —
+
+(i) D is the sum of —
+
+(A) the part of the income amount C of the person or partner for that year of assessment that is subject to that tax treatment; and
+
+(B) the deduction allowed or allowance made for each expenditure, donation or loss in ascertaining the chargeable income or any exempt income of the person or partner for that year of assessment, and attributable to the production of, or apportioned to, that part;
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(ii) E is the sum of —
+
+(A) the income amount C of the person or partner for that year of assessment; and
+
+(B) the deduction allowed or allowance made for each expenditure, donation or loss in ascertaining the chargeable income or any exempt income of the person or partner for that year of assessment, and attributable to the production of, or apportioned to, the income amount C or a part of it; and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(iii) F is the excess amount.
+
+(5A) To avoid doubt, the deduction or allowance mentioned in subsection (3)(b)(i)(B) or (ii)(B), or subsection (5)(b)(i)(B) or (ii)(B), excludes any deduction or allowance (or any part of any deduction or allowance) that remains unabsorbed after ascertaining the chargeable income or exempt income mentioned in that provision.
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(6) In this section —
+
+(a) income is subject to a tax treatment if it is —
+
+(i) subject to tax at one rate of tax; or
+
+(ii) exempt from tax;
+
+(b) a reference to the income amount C of a person or partner for a year of assessment is a reference to the amount of income computed by the formula
+
+where —
+
+(i) G is the part of the chargeable income of the person or partner for the year of assessment that is of the type of income governed by FRS 115 or SFRS(I) 15 (as the case may be); and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(ii) H is the part of the exempt income of the person or partner for the year of assessment that is of the type of income governed by FRS 115 or SFRS(I) 15 (as the case may be); and
+
+[Act 45 of 2018 wef 26/10/2017]
+
+(c) a reference to deducting an amount against any income that is subject to a tax treatment is —
+
+(i) if the tax treatment is that mentioned in paragraph (a)(i), allowing that amount as a deduction against the income; or
+
+(ii) if the tax treatment is that mentioned in paragraph (a)(ii), reducing the income by that amount.
+
+(7) In this section —
+
+“FRS 115” means the financial reporting standard known as Financial Reporting Standard 115 (Revenue from Contracts with Customers) issued by the Accounting Standards Council under the Accounting Standards Act (Cap. 2B);
+
+“person” has the meaning given to that word in section 2(1), and includes a partnership;
+
+[Act 39 of 2017 wef 26/10/2017]
+
+[Act 45 of 2018 wef 26/10/2017]
+
+“SFRS(I) 15” means the financial reporting standard known as Singapore Financial Reporting Standards (International) 15 (Revenue from Contracts with Customers), issued by the Accounting Standards Council under the Accounting Standards Act.
+
+[Act 45 of 2018 wef 26/10/2017]
+
 ## PART VIII
 
 ASCERTAINMENT OF STATUTORY INCOME
@@ -21490,7 +21634,9 @@ as that section applies to any interest paid by a person to another person not k
 
 (c) a person who —
 
-(i) holds a capital markets services licence under the Securities and Futures Act (Cap. 289) for dealing in securities and advising on corporate finance;
+(i) holds a capital markets services licence under the Securities and Futures Act (Cap. 289) for dealing in capital markets products and advising on corporate finance;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (ii) is involved or will be involved in the underwriting of debt or equity issuances; and
 
@@ -21500,7 +21646,9 @@ as that section applies to any interest paid by a person to another person not k
 
 (3) Sections 45(1) to (8) and 45A(1) shall not apply to any income referred to in section 12(6) which is liable to be paid by a person who —
 
-(a) holds a capital markets services licence under the Securities and Futures Act for dealing in securities and advising on corporate finance;
+(a) holds a capital markets services licence under the Securities and Futures Act for dealing in capital markets products and advising on corporate finance;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (b) is involved or will be involved in the underwriting of debt or equity issuances; and
 
@@ -26809,6 +26957,11 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|31 August 2018|
+|202.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
 ## COMPARATIVE TABLE
 
 Income Tax Act
