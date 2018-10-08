@@ -2102,7 +2102,9 @@ if the person —
 
 (iv) has, whether in Singapore or elsewhere, entered into a compromise or scheme of arrangement with his creditors, being a compromise or scheme of arrangement that is still in operation;
 
-(v) has had a prohibition order under section 35V, or under section 59 of the Financial Advisers Act (Cap. 110) or section 101A of the Securities and Futures Act (Cap. 289), made against him that remains in force; or
+(v) has had a prohibition order under section 35V, or under section 59 of the Financial Advisers Act (Cap. 110) or section 101A or 123ZZC of the Securities and Futures Act (Cap. 289), made against him that remains in force; or
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (vi) has been a director of, or directly concerned in the management of, a regulated financial institution, whether in Singapore or elsewhere —
 
@@ -7431,6 +7433,11 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|5 June 2018|
+|38.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
 ## COMPARATIVE TABLE
 
 Insurance Act
