@@ -14,7 +14,7 @@
 
 - [3 Associated person](#Associated-person)
 
-- [4 Interest in securities](#Interest-in-securities)
+- [4 Interest in specified products](#Interest-in-specified-products)
 
 - [5 Amendment of Schedules](#Amendment-of-Schedules)
 
@@ -116,11 +116,11 @@
 
 - [34 Representations by licensed financial advisers](#Representations-by-licensed-financial-advisers)
 
-[**Division 3  Securities**](#Division-3--Securities)
+[**Division 3  Specified Products**](#Division-3--Specified-Products)
 
 - [35 Application of this Division](#Application-of-this-Division)
 
-- [36 Licensed financial adviser to disclose certain interests in securities](#Licensed-financial-adviser-to-disclose-certain-interests-in-securities)
+- [36 Licensed financial adviser to disclose certain interests in specified products](#Licensed-financial-adviser-to-disclose-certain-interests-in-specified-products)
 
 [**Division 4  Appointed and Provisional Representatives**](#Division-4--Appointed-and-Provisional-Representatives)
 
@@ -352,7 +352,7 @@
 
 - [104 Regulations](#Regulations)
 
-- [104A Regulations to apply Act to persons previously regulated under Commodity Trading Act](#Regulations-to-apply-Act-to-persons-previously-regulated-under-Commodity-Trading-Act)
+- [104A (Repealed)](#Repealed)
 
 - [105 Transitional and savings provisions](#Transitional-and-savings-provisions)
 
@@ -408,6 +408,10 @@ PRELIMINARY
 
 [1/2009 wef 26/11/2010]
 
+“approved exchange” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+[Act 4 of 2017 wef 08/10/2018]
+
 “approved holding company” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
 “auditor” means a public accountant who is registered or deemed to be registered under the Accountants Act (Cap. 2);
@@ -415,6 +419,10 @@ PRELIMINARY
 “Authority” means the Monetary Authority of Singapore established under the Monetary Authority of Singapore Act (Cap. 186);
 
 “book” includes any record, register, document or other record of information and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or by electronic process or otherwise;
+
+“capital markets products” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 “collective investment scheme” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
@@ -438,7 +446,11 @@ and a reference in this Act to a person connected to another person shall be con
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act;
 
-“dealing in securities” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
+[Deleted by Act 4 of 2017 wef 08/10/2018]
+
+“dealing in capital markets products” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 “director” has the same meaning as in section 4(1) of the Companies Act;
 
@@ -452,7 +464,9 @@ and a reference in this Act to a person connected to another person shall be con
 
 “financial advisory service” means all or any of the services specified in the Second Schedule;
 
-“financial journalist” means a person who contributes advice concerning securities, or prepares analyses or reports concerning securities, for publication in a newspaper, but does not include such person or a person belonging to such class of persons as may be prescribed;
+“financial journalist” means a person who contributes advice concerning specified products, or prepares analyses or reports concerning specified products, for publication in a newspaper, but does not include such person or a person belonging to such class of persons as may be prescribed;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [1/2009 wef 26/11/2010]
 
@@ -462,23 +476,11 @@ and a reference in this Act to a person connected to another person shall be con
 
 [Act 29 of 2014 wef 03/01/2016]
 
-“futures contract” means —
+“futures contract” has the same meaning as in section 2(1) of the Securities and Futures Act;
 
-(a) a contract the effect of which is that —
+[Act 4 of 2017 wef 08/10/2018]
 
-(i) one party agrees to deliver a specified commodity, or a specified quantity of a specified commodity, to another party at a specified future time and at a specified price payable at that time pursuant to the terms and conditions set out in the business rules or practices of a futures market; or
-
-(ii) the parties will discharge their obligations under the contract by settling the difference between the value of a specified quantity of a specified commodity agreed at the time of the making of the contract and at a specified future time, such difference being determined in accordance with the business rules or practices of a futures market at which the contract is made,
-
-and includes a futures option transaction within the meaning of section 2(1) of the Securities and Futures Act (Cap. 289); or
-
-(b) such other contract or class of contracts as the Authority may prescribe,
-
-but does not include such contract or class of contracts as the Authority may prescribe;
-
-[1/2009 wef 26/11/2010]
-
-“futures exchange” has the same meaning as in section 2(1) of the Securities and Futures Act;
+[Deleted by Act 4 of 2017 wef 08/10/2018]
 
 “independent sales audit unit”, in relation to a licensed financial adviser, means a unit of the licensed financial adviser which —
 
@@ -490,7 +492,13 @@ but does not include such contract or class of contracts as the Authority may pr
 
 “investment product” means —
 
-(a) any capital markets product as defined in section 2(1) of the Securities and Futures Act;
+(a) any capital markets products;
+
+[Act 4 of 2017 wef 08/10/2018]
+
+(aa) spot foreign exchange contracts other than for the purposes of leveraged foreign exchange trading;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (b) any life policy; or
 
@@ -513,6 +521,10 @@ but does not include such contract or class of contracts as the Authority may pr
 “newspaper” has the same meaning as in section 2(1) of the Newspaper and Printing Presses Act (Cap. 206);
 
 “officer” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+
+“organised market” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 “prescribed written law” means this Act, or any of the following written laws and any subsidiary legislation made thereunder:
 
@@ -560,9 +572,21 @@ but does not include such contract or class of contracts as the Authority may pr
 
 “securities” has the same meaning as in section 2(1) of the Securities and Futures Act;
 
-“securities exchange” has the same meaning as in section 2(1) of the Securities and Futures Act;
+“securities-based derivatives contract” has the same meaning as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
+
+[Deleted by Act 4 of 2017 wef 08/10/2018]
 
 “share” has the same meaning as in section 4(1) of the Companies Act;
+
+“specified products” means securities, specified securities‑based derivatives contracts or units in a collective investment scheme;
+
+[Act 4 of 2017 wef 08/10/2018]
+
+“specified securities-based derivatives contract” and “spot foreign exchange contract” have the same meanings as in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 “substantial shareholder” has the same meaning as in section 2(6) of the Securities and Futures Act;
 
@@ -576,11 +600,15 @@ but does not include such contract or class of contracts as the Authority may pr
 
 [Act 18 of 2015 wef 01/01/2016]
 
-“trading in futures contracts” has the same meaning as in section 2(1) of the Securities and Futures Act;
+[Deleted by Act 4 of 2017 wef 08/10/2018]
 
 “unit” means a group of individuals carrying out a common activity of a licensed financial adviser, each of whom is directly employed by, is acting for, or has an arrangement with the licensed financial adviser;
 
 [Act 18 of 2015 wef 01/01/2016]
+
+“unit in a collective investment scheme” or “units in a collective investment scheme” has the same meaning as “unit” in section 2(1) of the Securities and Futures Act;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 “voting share” has the same meaning as in section 4(1) of the Companies Act;
 
@@ -632,7 +660,9 @@ except that, in relation to a matter relating to shares in a corporation, a pers
 
 (a) that one of those persons furnishes advice to, or acts on behalf of, the other person in the proper performance of the functions attaching to his professional capacity or to his business relationship with the other person;
 
-(b) that one of those persons, a customer, gives specific instructions to the other, whose ordinary business includes dealing in securities, trading in futures contracts or leveraged foreign exchange trading, to acquire shares on the customer’s behalf in the ordinary course of that business;
+(b) that one of those persons, a customer, gives specific instructions to the other, whose ordinary business includes dealing in capital markets products, to acquire shares on the customer’s behalf in the ordinary course of that business;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (c) that one of those persons has sent, or proposes to send, to the other, a take-over offer, or has made, or proposes to make, offers under a take-over announcement, within the meaning of the Take-over Code issued under section 321(1) of the Securities and Futures Act (Cap. 289), in relation to shares held by the other;
 
@@ -640,23 +670,31 @@ except that, in relation to a matter relating to shares in a corporation, a pers
 
 [SIA, s. 3; SF Bill, Clause 3]
 
-### Interest in securities
+### Interest in specified products
 
-4\.—(1) Subject to this section, a person has an interest in securities if he has authority (whether formal or informal, or express or implied) to dispose of, or to exercise control over the disposal of, those securities.
+4\.—(1) Subject to this section, a person has an interest in specified products if he has authority (whether formal or informal, or express or implied) to dispose of, or to exercise control over the disposal of, those specified products.
 
-(2) For the purposes of subsection (1), it is immaterial that the authority of a person to dispose of, or to exercise control over the disposal of, particular securities is or is capable of being made subject to restraint or restriction.
+[Act 4 of 2017 wef 08/10/2018]
 
-(3) Where any property held in trust consists of or includes securities and a person knows, or has reasonable grounds for believing, that he has an interest under the trust, he shall be deemed to have an interest in those securities.
+(2) For the purposes of subsection (1), it is immaterial that the authority of a person to dispose of, or to exercise control over the disposal of, particular specified products is or is capable of being made subject to restraint or restriction.
 
-(4) Where a corporation has, or is by the provisions of this section deemed to have, an interest in a security and —
+[Act 4 of 2017 wef 08/10/2018]
+
+(3) Where any property held in trust consists of or includes specified products and a person knows, or has reasonable grounds for believing, that he has an interest under the trust, he shall be deemed to have an interest in those specified products.
+
+[Act 4 of 2017 wef 08/10/2018]
+
+(4) Where a corporation has, or is by the provisions of this section deemed to have, an interest in a specified product and —
 
 (a) the corporation is, or its directors are, accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes of a person; or
 
 (b) a person has a controlling interest in the corporation,
 
-that person shall be deemed to have an interest in that security.
+that person shall be deemed to have an interest in that specified product.
 
-(5) Where a corporation has, or is by the provisions of this section (apart from this subsection) deemed to have, an interest in a security and —
+[Act 4 of 2017 wef 08/10/2018]
+
+(5) Where a corporation has, or is by the provisions of this section (apart from this subsection) deemed to have, an interest in a specified product and —
 
 (a) a person is;
 
@@ -664,45 +702,71 @@ that person shall be deemed to have an interest in that security.
 
 (c) a person and his associates are,
 
-entitled to exercise or control the exercise of not less than 20% of the votes attached to the voting shares in the corporation, that person shall be deemed to have an interest in that security.
+entitled to exercise or control the exercise of not less than 20% of the votes attached to the voting shares in the corporation, that person shall be deemed to have an interest in that specified product.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (6) For the purposes of subsection (5), a person is an associate of another person if the first-mentioned person is —
 
 (a) a subsidiary of that other person;
 
-(b) a person who is accustomed or is under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to the security referred to in subsection (5); or
+(b) a person who is accustomed or is under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to the specified product referred to in subsection (5); or
 
-(c) a corporation that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to that security.
+[Act 4 of 2017 wef 08/10/2018]
+
+(c) a corporation that is, or a majority of the directors of which are, accustomed or under an obligation whether formal or informal to act in accordance with the directions, instructions or wishes of that other person in relation to that specified product.
 
 [Act 35 of 2014 wef 01/07/2015]
 
-(7) A person shall be deemed to have an interest in a security in any one or more of the following circumstances:
+[Act 4 of 2017 wef 08/10/2018]
 
-(a) where he has entered into a contract to purchase a security;
+(7) A person shall be deemed to have an interest in a specified product in any one or more of the following circumstances:
 
-(b) where he has a right, otherwise than by reason of having an interest under a trust, to have a security transferred to himself or to his order, whether the right is exercisable presently or in the future and whether on the fulfilment of a condition or not;
+(a) where he has entered into a contract to purchase a specified product;
 
-(c) where he has the right to acquire a security, or an interest in a security, under an option, whether the right is exercisable presently or in the future and whether on the fulfilment of a condition or not; or
+[Act 4 of 2017 wef 08/10/2018]
 
-(d) where he is entitled, otherwise than by reason of his having been appointed a proxy or representative to vote at a meeting of members of a corporation or of a class of its members, to exercise or control the exercise of a right attached to a security, not being a security of which he is the registered holder.
+(b) where he has a right, otherwise than by reason of having an interest under a trust, to have a specified product transferred to himself or to his order, whether the right is exercisable presently or in the future and whether on the fulfilment of a condition or not;
 
-(8) A person shall be deemed to have an interest in a security if that security is held jointly with another person.
+[Act 4 of 2017 wef 08/10/2018]
 
-(9) For the purpose of determining whether a person has an interest in a security, it is immaterial that the interest cannot be related to a particular security.
+(c) where he has the right to acquire a specified product, or an interest in a specified product, under an option, whether the right is exercisable presently or in the future and whether on the fulfilment of a condition or not; or
+
+[Act 4 of 2017 wef 08/10/2018]
+
+(d) where he is entitled, otherwise than by reason of his having been appointed a proxy or representative to vote at a meeting of members of a corporation or of a class of its members, to exercise or control the exercise of a right attached to a specified product, not being a specified product of which he is the registered holder.
+
+[Act 4 of 2017 wef 08/10/2018]
+
+(8) A person shall be deemed to have an interest in a specified product if that specified product is held jointly with another person.
+
+[Act 4 of 2017 wef 08/10/2018]
+
+(9) For the purpose of determining whether a person has an interest in a specified product, it is immaterial that the interest cannot be related to a particular specified product.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (10) There shall be disregarded —
 
-(a) an interest in a security if the interest is that of a person who holds the security as bare trustee;
+(a) an interest in a specified product if the interest is that of a person who holds the specified product as bare trustee;
 
-(b) an interest in a security if the interest is that of a person whose ordinary business includes the lending of money if he holds the interest only by way of security for the purposes of a transaction entered into in the ordinary course of business in connection with the lending of money;
+[Act 4 of 2017 wef 08/10/2018]
 
-(c) an interest of a person in a security if that interest is an interest held by him by reason of his holding a prescribed office;
+(b) an interest in a specified product if the interest is that of a person whose ordinary business includes the lending of money if he holds the interest only by way of security for the purposes of a transaction entered into in the ordinary course of business in connection with the lending of money;
+
+[Act 4 of 2017 wef 08/10/2018]
+
+(c) an interest of a person in a specified product if that interest is an interest held by him by reason of his holding a prescribed office;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (d) an interest of a company in its own securities if that interest is purchased or otherwise acquired in accordance with sections 76B to 76G of the Companies Act (Cap. 50); and
 
-(e) a prescribed interest in a security being an interest of such person, or of a person included in such class of persons, as may be prescribed.
+(e) a prescribed interest in a specified product being an interest of such person, or of a person included in such class of persons, as may be prescribed.
 
-(11) An interest in a security shall not be disregarded by reason only of —
+[Act 4 of 2017 wef 08/10/2018]
+
+(11) An interest in a specified product shall not be disregarded by reason only of —
 
 (a) its remoteness;
 
@@ -712,9 +776,13 @@ entitled to exercise or control the exercise of not less than 20% of the votes a
 
 [SIA, s. 4; SF Bill, Clause 4]
 
+[Act 4 of 2017 wef 08/10/2018]
+
 (12) In subsection (6)(a), “subsidiary” has the same meaning as in section 5 of the Companies Act (Cap. 50).
 
 [Act 35 of 2014 wef 01/07/2015]
+
+[Act 4 of 2017 wef 08/10/2018]
 
 ### Amendment of Schedules
 
@@ -1284,7 +1352,9 @@ and no such agreement or arrangement is taken to be brought to an end by frustra
 
 (e) a finance company which has been granted an exemption from section 25(2) of the Finance Companies Act (Cap. 108) to carry on a business of providing any financial advisory service;
 
-(ea) a securities exchange, a futures exchange, a recognised market operator, or an approved holding company, in respect of the provision of any financial advisory service that is solely incidental to its operation of a securities market, a futures market, or to its performance as an approved holding company, as the case may be; and
+(ea) an approved exchange, a recognised market operator, or an approved holding company, in respect of the provision of any financial advisory service that is solely incidental to its operation of an organised market, or to its performance as an approved holding company, as the case may be; and
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (f) such other persons or classes of persons as may be prescribed.
 
@@ -1294,9 +1364,11 @@ and no such agreement or arrangement is taken to be brought to an end by frustra
 
 (3) [Deleted by Act 2 of 2005]
 
-(4) Subject to the provisions of this Act, sections 25 to 29, 32, 33, 34 and 36 shall apply, with the necessary modifications, to an exempt financial adviser (other than a person referred to in subsection (1)(ea) or (f)) in respect of its business of providing any financial advisory service as if it is a licensed financial adviser.
+(4) Subject to the provisions of this Act, sections 25 to 29, 32, 33, 34, 36, 38 and 39 shall apply, with the necessary modifications, to an exempt financial adviser (other than a person referred to in subsection (1)(ea) or (f)) in respect of its business of providing any financial advisory service as if it is a licensed financial adviser.
 
 [2/2005]
+
+[Act 18 of 2015 wef 08/10/2018]
 
 (5) [Deleted by Act 1 of 2009 wef 26/11/2010]
 
@@ -2210,25 +2282,35 @@ shall, for the purposes of this section, establish and maintain a separate accou
 
 Division 3 —
 
-Securities
+Specified Products
+
+[Act 4 of 2017 wef 08/10/2018]
 
 ### Application of this Division
 
-35\. This Division shall apply to licensed financial advisers who provide any financial advisory service in respect of securities.
+35\. This Division shall apply to licensed financial advisers who provide any financial advisory service in respect of specified products.
 
 [1/2009 wef 26/11/2010]
 
-### Licensed financial adviser to disclose certain interests in securities
+[Act 4 of 2017 wef 08/10/2018]
 
-36\.—(1) Where a licensed financial adviser sends a circular or other similar written communication in which he makes a recommendation, whether expressly or by implication, with respect to any securities, he shall include in the circular or other communication, in type not less legible than that used in the remainder of the circular or other communication, a concise statement of the nature of any interest in, or any interest in the acquisition or disposal of, the securities that he, or a person associated with or connected to him, has at the date on which the circular or other communication is sent.
+### Licensed financial adviser to disclose certain interests in specified products
+
+36\.—(1) Where a licensed financial adviser sends a circular or other similar written communication in which he makes a recommendation, whether expressly or by implication, with respect to any specified products, he shall include in the circular or other communication, in type not less legible than that used in the remainder of the circular or other communication, a concise statement of the nature of any interest in, or any interest in the acquisition or disposal of, the specified products that he, or a person associated with or connected to him, has at the date on which the circular or other communication is sent.
 
 [1/2009 wef 26/11/2010]
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (2) Where a licensed financial adviser is charged with an offence in respect of a contravention of subsection (1), it shall be a defence for the licensed financial adviser to prove that, at the time the circular or other communication was sent, he was not aware and could not reasonably be expected to have been aware —
 
-(a) that he had an interest in, or an interest in the acquisition or disposal of, the securities; or
+(a) that he had an interest in, or an interest in the acquisition or disposal of, the specified products; or
 
-(b) that the person associated with or connected to him had an interest in, or an interest in the acquisition or disposal of, the securities,
+[Act 4 of 2017 wef 08/10/2018]
+
+(b) that the person associated with or connected to him had an interest in, or an interest in the acquisition or disposal of, the specified products,
+
+[Act 4 of 2017 wef 08/10/2018]
 
 as the case may be.
 
@@ -2236,9 +2318,13 @@ as the case may be.
 
 (3) For the purposes of subsections (1) and (2) —
 
-(a) an interest of a person in the disposal of any securities includes any financial benefit or advantage that will, or is likely to, accrue directly or indirectly to the person, upon or arising out of the disposal of the securities;
+(a) an interest of a person in the disposal of any specified products includes any financial benefit or advantage that will, or is likely to, accrue directly or indirectly to the person, upon or arising out of the disposal of the specified products;
 
-(b) without limiting the generality of paragraph (a), a person who has entered into an underwriting agreement in respect of any securities shall be deemed to have an interest in the acquisition or disposal of the securities; and
+[Act 4 of 2017 wef 08/10/2018]
+
+(b) without limiting the generality of paragraph (a), a person who has entered into an underwriting agreement in respect of any specified products shall be deemed to have an interest in the acquisition or disposal of the specified products; and
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (c) notwithstanding section 2(1) or 3, a person is not connected to or associated with another person unless the person and the other person are acting jointly, or otherwise acting under or in accordance with an arrangement made between them, in relation to the sending of the circular or other communication.
 
@@ -2252,11 +2338,15 @@ as the case may be.
 
 (6) For the purposes of this section, a circular or other communication sent to a person shall, if it is signed by an officer of a licensed financial adviser, be deemed to have been sent by the financial adviser.
 
-(7) The Authority may, by regulations, exempt any person or class of persons, or any securities or class of securities, from the application of this section, subject to such terms or conditions as the Authority considers appropriate.
+(7) The Authority may, by regulations, exempt any person or class of persons, or any specified products or class of specified products, from the application of this section, subject to such terms or conditions as the Authority considers appropriate.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (8) Any licensed financial adviser who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $25,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [1/2009 wef 26/11/2010]
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [SF Bill, Clause 120]
 
@@ -3960,9 +4050,13 @@ ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 
 “relevant day” means —
 
-(a) in relation to any financial advisory service in respect of securities or futures contracts, 6th March 2000; or
+(a) 6 March 2000, in relation to any financial advisory service in respect of securities or futures contracts as defined in section 2(1) in force immediately before the date of commencement of section 202 of the Securities and Futures (Amendment) Act 2017;
 
-(b) in relation to any other financial advisory service, 1st October 2002;
+(b) 1 October 2002, in relation to any financial advisory service in respect of investment products as defined in section 2(1) in force immediately before the date of commencement of section 202 of the Securities and Futures (Amendment) Act 2017 (other than securities or futures contracts mentioned in paragraph (a)); or
+
+(c) the date of commencement of section 202 of the Securities and Futures (Amendment) Act 2017, in relation to any other financial advisory service;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 “supervision”, in relation to a regulatory authority, means the taking of any action for or in connection with the supervision of a subject-matter in the foreign country of the regulatory authority, being a subject-matter relating to any financial advisory service.
 
@@ -4390,7 +4484,9 @@ the court may, without prejudice to any order it would be entitled to make other
 
 (c) an order prohibiting, either absolutely or subject to conditions, the taking or sending out of Singapore of moneys of the relevant person or of any person associated with the relevant person;
 
-(d) an order prohibiting, either absolutely or subject to conditions, the taking, sending or transfer of investment products or documents of title to investment products or other property of the relevant person or of any person who is associated with the relevant person, from a place or person in Singapore to a place or person outside Singapore (including the transfer of securities from a register in Singapore to a register outside Singapore);
+(d) an order prohibiting, either absolutely or subject to conditions, the taking, sending or transfer of investment products or documents of title to investment products or other property of the relevant person or of any person who is associated with the relevant person, from a place or person in Singapore to a place or person outside Singapore (including the transfer of specified products from a register in Singapore to a register outside Singapore);
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (e) an order appointing —
 
@@ -4640,13 +4736,17 @@ make an order requiring the first-mentioned person to do that act or thing.
 
 (k) the collection, from any licensed financial adviser or exempt financial adviser, by or on behalf of the Authority at such intervals or on such occasions as may be prescribed, of statistical information as to such matters relevant to investment products as may be prescribed, and for the collection and use of such information for any purpose, whether or not connected with the prescribed investment products;
 
-(l) the maintenance by a proprietor or publisher of a newspaper of the particulars of any financial journalist who has contributed any advice, analysis or report concerning any securities, that has been published in the newspaper, and the provision of such particulars to the Authority;
+(l) the maintenance by a proprietor or publisher of a newspaper of the particulars of any financial journalist who has contributed any advice, analysis or report concerning any specified products, that has been published in the newspaper, and the provision of such particulars to the Authority;
 
 [1/2009 wef 26/11/2010]
 
-(m) the maintenance by a licensed financial adviser, representative of a licensed financial adviser and applicant for a financial adviser’s licence of registers of their interests in securities and their duties relating to the registers, and matters relating thereto; and
+[Act 4 of 2017 wef 08/10/2018]
+
+(m) the maintenance by a licensed financial adviser, representative of a licensed financial adviser and applicant for a financial adviser’s licence of registers of their interests in specified products and their duties relating to the registers, and matters relating thereto; and
 
 [1/2009 wef 26/11/2010]
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (n) all matters and things which are required or permitted to be prescribed by this Act, or which may be necessary or expedient to be prescribed to give effect to this Act.
 
@@ -4680,17 +4780,13 @@ make an order requiring the first-mentioned person to do that act or thing.
 
 [1/2009 wef 26/11/2010]
 
-(6) For the purposes of subsection (5), a person shall, in the absence of proof to the contrary, be conclusively presumed to have been aware of a fact or occurrence at a particular time which an employee or agent of the person, being an employee or agent having duties or acting in relation to his employer’s or principal’s interest or interests in the securities concerned, was aware of at that time.
+(6) For the purposes of subsection (5), a person shall, in the absence of proof to the contrary, be conclusively presumed to have been aware of a fact or occurrence at a particular time which an employee or agent of the person, being an employee or agent having duties or acting in relation to his employer’s or principal’s interest or interests in the specified products concerned, was aware of at that time.
 
 [1/2009 wef 26/11/2010]
 
-### Regulations to apply Act to persons previously regulated under Commodity Trading Act
+[Act 4 of 2017 wef 08/10/2018]
 
-104A\.—(1) The Authority may by regulations prescribe such provisions as it may consider necessary or expedient for the purpose of applying this Act in relation to commodity futures trading advisers and commodity futures trading adviser’s representatives; and for this purpose this Act shall apply with such modifications as may be prescribed.
-
-(2) In subsection (1), “commodity futures trading adviser” and “commodity futures trading adviser’s representative” have the meanings given to those expressions in the Commodity Trading Act (Cap. 48A) in force immediately before the commencement of this provision.
-
-[35/2007 wef 27/08/2007]
+104A\. [Deleted by Act 4 of 2017 wef 08/10/2018]
 
 ### Transitional and savings provisions
 
@@ -4746,7 +4842,9 @@ whose carrying on of the business of providing any financial advisory service is
 
 (a) is issued or promulgated solely as incidental to the conduct of that person’s business of providing credit rating services; and
 
-(b) does not contain any specific recommendation with respect to the acquiring of, disposing of, subscribing for, or underwriting of, any securities.
+(b) does not contain any specific recommendation with respect to the acquiring of, disposing of, subscribing for, or underwriting of, any capital markets products.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 6\. Any public statutory corporation established under any Act in Singapore.
 
@@ -4780,7 +4878,7 @@ Types of Financial Advisory Service
 
 2\. Advising others by issuing or promulgating research analyses or research reports, whether in electronic, print or other form, concerning any investment product.
 
-3\. Marketing of any collective investment scheme.
+3\. [Deleted by S 658/2018 wef 08/10/2018]
 
 4. Arranging of any contract of insurance in respect of life policies, other than a contract of reinsurance.
 
@@ -4967,28 +5065,36 @@ This Legislative History is provided for the convenience of users of the Financi
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
-|17.|**Act 18 of 2015—Financial Advisers (Amendment) Act 2015**|
-||Date of First Reading|11 May 2015 (Bill No. 15/2015 published on 11 May 2015)|
-||Date of Second and Third Readings|13 July 2015|
-||Date of commencement|1 January 2016|
-|18.|**Act 29 of 2014—Business Names Registration Act 2014**|
+|17.|**Act 29 of 2014—Business Names Registration Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
-|19.|**G.N. No. S 445/2016—Financial Advisers Act (Amendment of First Schedule) Order 2016**|
+|18.|**G.N. No. S 445/2016—Financial Advisers Act (Amendment of First Schedule) Order 2016**|
 ||Date of commencement|30 September 2016|
-|20.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+|19.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
 ||Date of First Reading|8 May 2017|
 |||(Bill No. 25/2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|4 June 2018|
-|21.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+|20.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
 ||Date of First Reading|8 May 2017|
 |||(Bill No. 25/2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|5 June 2018|
+|21.|**Act 18 of 2015—Financial Advisers (Amendment) Act 2015**|
+||Date of First Reading|11 May 2015 (Bill No. 15/2015 published on 11 May 2015)|
+||Date of Second and Third Readings|13 July 2015|
+||Date of commencement|1 January 2016|
+|||8 October 2018|
+|22.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
+|23.|**G.N. No. S 658/2018—Financial Advisers Act (Amendment of Second Schedule) Order 2018**|
+||Date of commencement|8 October 2018|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
