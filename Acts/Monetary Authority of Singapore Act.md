@@ -398,9 +398,7 @@ PRELIMINARY
 
 “director” means a director appointed under section 8(1) and the chairman and the deputy chairman of the board;
 
-“financial instrument” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
-
-[13/2007 wef 30/06/2007]
+[Deleted by Act 4 of 2017 wef 08/10/2018]
 
 “managing director” means a director appointed under section 9(1);
 
@@ -1064,7 +1062,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (g) any licensed financial adviser under the Financial Advisers Act (Cap. 110);
 
-(h) any approved holding company, securities exchange, futures exchange, recognised market operator, licensed trade repository, licensed foreign trade repository, approved clearing house, recognised clearing house or holder of a capital markets services licence under the Securities and Futures Act (Cap. 289);
+(h) any approved holding company, approved exchange, recognised market operator, licensed trade repository, licensed foreign trade repository, approved clearing house, recognised clearing house or holder of a capital markets services licence under the Securities and Futures Act (Cap. 289);
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [Act 34 of 2012 wef 01/08/2013]
 
@@ -5136,6 +5136,11 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|5 June 2018|
+|35.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
