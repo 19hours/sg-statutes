@@ -1859,6 +1859,10 @@ sections 410-411.
 
 [Act 36 of 2014 wef 03/01/2016]
 
+“approved exchange in Singapore” means an approved exchange as defined in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+[Act 4 of 2017 wef 08/10/2018]
+
 “approved liquidator” means —
 
 (a) a person who falls within a class of persons declared as approved liquidators under section 9(1); or
@@ -2027,7 +2031,9 @@ such that it can (where particular conditions are met) be received in legible fo
 
 [Deleted by Act 36 of 2014 wef 01/07/2015]
 
-“listed”, in relation to a company or corporation, means a company or corporation that has been admitted to the official list of a securities exchange in Singapore and has not been removed from that official list;
+“listed”, in relation to a company or corporation, means a company or corporation that has been admitted to the official list of an approved exchange in Singapore and has not been removed from that official list;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [Act 36 of 2014 wef 01/07/2015]
 
@@ -2129,9 +2135,7 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 
 “Rules” means Rules of Court;
 
-“securities exchange in Singapore” means a securities exchange as defined in section 2(1) of the Securities and Futures Act;
-
-[Act 36 of 2014 wef 01/07/2015]
+[Deleted by Act 4 of 2017 wef 08/10/2018]
 
 “share” means share in the share capital of a corporation and includes stock except where a distinction between stocks and shares is expressed or implied;
 
@@ -5055,7 +5059,9 @@ file with the Registrar a notice in the prescribed form of its share capital.
 
 (e) the full name, identification, nationality (if such identification or nationality, as the case may be, is required by the Registrar) and address of, and the number and class of shares held by each of the 50 members who, following the allotment, hold the most number of shares in the company (excluding treasury shares).
 
-(2) A return of allotment referred to in subsection (1) by a public company, the shares of which are listed on a securities exchange in Singapore or any securities exchange outside Singapore, need not state the particulars referred to in subsection (1)(e).
+(2) A return of allotment referred to in subsection (1) by a public company, the shares of which are listed on an approved exchange in Singapore or any securities exchange outside Singapore, need not state the particulars referred to in subsection (1)(e).
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (3) If default is made in complying with this section, every officer of the public company who is in default shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $4,000 and to a default penalty of $250.
 
@@ -5585,7 +5591,9 @@ Notice of increase of share capital
 
 [Act 36 of 2014 wef 03/01/2016]
 
-(m) the payment of some or all of the costs by a company listed on a securities exchange in Singapore or any securities exchange outside Singapore associated with a scheme, an arrangement or a plan under which any shareholder of the company may purchase or sell shares for the sole purpose of rounding off any odd-lots which he owns,
+(m) the payment of some or all of the costs by a company listed on an approved exchange in Singapore or any securities exchange outside Singapore associated with a scheme, an arrangement or a plan under which any shareholder of the company may purchase or sell shares for the sole purpose of rounding off any odd-lots which he owns,
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [Act 36 of 2014 wef 03/01/2016]
 
@@ -6143,11 +6151,13 @@ the Court may make such order or orders as it thinks just and equitable (includi
 
 ### Authority for off-market acquisition on equal access scheme
 
-76C\.—(1) A company, whether or not it is listed on a securities exchange in Singapore or any securities exchange outside Singapore, may make a purchase or acquisition of its own shares otherwise than on a securities exchange in Singapore or any securities exchange outside Singapore (referred to in this section as an off-market purchase) if the purchase or acquisition is made in accordance with an equal access scheme authorised in advance by the company in general meeting.
+76C\.—(1) A company, whether or not it is listed on an approved exchange in Singapore or any securities exchange outside Singapore, may make a purchase or acquisition of its own shares otherwise than on an approved exchange in Singapore or any securities exchange outside Singapore (referred to in this section as an off-market purchase) if the purchase or acquisition is made in accordance with an equal access scheme authorised in advance by the company in general meeting.
 
 [38/98; 42/2001]
 
 [Act 36 of 2014 wef 01/07/2015]
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (2) The notice specifying the intention to propose the resolution to authorise an off-market purchase referred to in subsection (1) must —
 
@@ -6301,11 +6311,13 @@ as the case may be.
 
 ### Contingent purchase contract
 
-76DA\.—(1) A company may, whether or not it is listed on a securities exchange in Singapore or any securities exchange outside Singapore, make a purchase or acquisition of its own shares under a contingent purchase contract if the proposed contingent purchase contract is authorised in advance by a special resolution of the company.
+76DA\.—(1) A company may, whether or not it is listed on an approved exchange in Singapore or any securities exchange outside Singapore, make a purchase or acquisition of its own shares under a contingent purchase contract if the proposed contingent purchase contract is authorised in advance by a special resolution of the company.
 
 [8/2003]
 
 [Act 36 of 2014 wef 01/07/2015]
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (2) Subject to subsection (3), the authority under subsection (1) may, from time to time, be varied or revoked by a special resolution of the company.
 
@@ -8244,7 +8256,9 @@ Directors and officers
 
 (a) if he has not within the period referred to in section 147(1) obtained his qualification;
 
-(b) by virtue of his disqualification or removal or the revocation of his appointment as a director, as the case may be, under section 148, 149, 149A, 154, 155, 155A or 155C of this Act, section 50 or 54 of the Banking Act (Cap. 19), section 47 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 62 or 63 of the Financial Holdings Companies Act 2013 (Act 13 of 2013), section 31, 31A, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 40 of the Monetary Authority of Singapore Act (Cap. 186), section 12A of the Money-changing and Remittance Businesses Act (Cap. 187), section 22 of the Payment Systems (Oversight) Act (Cap. 222A), section 44, 46Z, 81P, 81ZJ, 97 or 292A of the Securities and Futures Act (Cap. 289) and section 14 of the Trust Companies Act (Cap. 336); or
+(b) by virtue of his disqualification or removal or the revocation of his appointment as a director, as the case may be, under section 148, 149, 149A, 154, 155, 155A or 155C of this Act, section 50 or 54 of the Banking Act (Cap. 19), section 47 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 62 or 63 of the Financial Holdings Companies Act 2013 (Act 13 of 2013), section 31, 31A, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 40 of the Monetary Authority of Singapore Act (Cap. 186), section 12A of the Money-changing and Remittance Businesses Act (Cap. 187), section 22 of the Payment Systems (Oversight) Act (Cap. 222A), section 43, 46Z, 81P, 81ZJ, 97, 123Y, 123ZU or 292A of the Securities and Futures Act (Cap. 289) and section 14 of the Trust Companies Act (Cap. 336); or
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [Act 31 of 2017 wef 04/06/2018]
 
@@ -8626,7 +8640,7 @@ and if a copy of the representations is not so sent because they were received t
 
 (i) any offence, whether in Singapore or elsewhere, involving fraud or dishonesty punishable with imprisonment for 3 months or more;
 
-(ii) any offence under Part XII of the Securities and Futures Act (Cap. 289) , where the conviction was on or after 1 July 2015; or
+(ii) any offence under Part XII of the Securities and Futures Act (Cap. 289), where the conviction was on or after 1 July 2015; or
 
 [Act 15 of 2017 wef 31/03/2017]
 
@@ -10460,7 +10474,9 @@ the corporation shall, for the purposes of subsection (1), be deemed to be perso
 
 (a) a banking corporation licensed under the Banking Act (Cap. 19) or a wholly-owned subsidiary of such a banking corporation, whose business includes the provision of nominee services and who holds shares in that capacity;
 
-(b) a person holding a capital markets services licence to provide custodial services for securities under the Securities and Futures Act (Cap. 289) and who holds shares in that capacity; or
+(b) a person holding a capital markets services licence to provide custodial services under the Securities and Futures Act (Cap. 289) and who holds shares in that capacity; or
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (c) the Central Provident Fund Board established by the Central Provident Fund Act (Cap. 36), in respect of shares purchased under the subsidiary legislation made under that Act providing for the making of investments from the contributions and interest standing to the credit of members of the Central Provident Fund, if the Board holds those shares in the capacity of an intermediary pursuant to or in accordance with that subsidiary legislation.
 
@@ -10698,7 +10714,9 @@ of the total voting rights of all the members who on that date would have the ri
 
 [UK, Bill, 2002, Clause 170]
 
-(9) In this section and sections 184B to 184F, “unlisted public company” means a public company the securities of which are not listed for quotation or quoted on a securities exchange in Singapore or any securities exchange outside Singapore.
+(9) In this section and sections 184B to 184F, “unlisted public company” means a public company the securities of which are not listed for quotation or quoted on an approved exchange in Singapore or any securities exchange outside Singapore.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [Act 36 of 2014 wef 03/01/2016]
 
@@ -12012,7 +12030,9 @@ as the case may be.
 
 “non-public interest company” means a company other than a public interest company;
 
-“public interest company” means a company which is listed or in the process of issuing its debt or equity instruments for trading on a securities exchange in Singapore, or such other company as the Minister may prescribe.
+“public interest company” means a company which is listed or in the process of issuing its debt or equity instruments for trading on an approved exchange in Singapore, or such other company as the Minister may prescribe.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [Act 36 of 2014 wef 01/07/2015]
 
@@ -15389,13 +15409,17 @@ the onus of proving that in so doing he had not acted with intent to defeat the 
 
 [62/70]
 
-(5) The Minister may by notification in theGazettedelegate his powers under this section either generally or in any particular case to a committee of a securities exchange that has been approved by him under any written law relating to the securities industry or to any body, panel or committee that has been established to advise him on matters connected with the securities industry.
+(5) The Minister may by notification in theGazettedelegate his powers under this section either generally or in any particular case to a committee of an approved exchange that has been approved by him under any written law relating to the securities industry or to any body, panel or committee that has been established to advise him on matters connected with the securities industry.
 
 [49/73; 42/2001]
 
-(6) A committee of a securities exchange or any body, panel or committee referred to in subsection (5) in the discharge of its powers under that subsection shall keep the Minister informed of any information obtained under this section.
+[Act 4 of 2017 wef 08/10/2018]
+
+(6) A committee of an approved exchange or any body, panel or committee referred to in subsection (5) in the discharge of its powers under that subsection shall keep the Minister informed of any information obtained under this section.
 
 [49/73; 42/2001]
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (7) Notwithstanding any delegation of his powers under this section, the Minister may exercise any of the powers conferred upon him under this section.
 
@@ -21675,6 +21699,11 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of First Reading|9 July 2018 (Bill No. 27/2018 published on 9 July 2018)|
 ||Date of Second and Third Readings|6 August 2018|
 ||Date of commencement|1 October 2018|
+|112.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
 ## COMPARATIVE TABLE
 
 Companies Act
