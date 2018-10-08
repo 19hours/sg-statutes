@@ -322,6 +322,10 @@ PRELIMINARY
 
 [Act 10 of 2013 wef 18/04/2013]
 
+“approved exchange” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+[Act 4 of 2017 wef 08/10/2018]
+
 “approved liquidator” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
 “audit committee”, in relation to a registered business trust, means the audit committee of the trustee-manager of a registered business trust established in accordance with section 15;
@@ -348,7 +352,9 @@ PRELIMINARY
 
 (A) the units in the trust that are issued are exclusively or primarily non-redeemable; or
 
-(B) the trust invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes referred to in section 284 of the Securities and Futures Act (Cap. 289) and is listed on a securities exchange; or
+(B) the trust invests only in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes referred to in section 284 of the Securities and Futures Act (Cap. 289) and is listed on an approved exchange; or
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (b) a class or description of trust that is declared by the Authority, by notice published in theGazette, to be a business trust for the purposes of this Act,
 
@@ -360,7 +366,9 @@ but does not include the types of trusts specified in the Schedule;
 
 “creditor”, in relation to a registered business trust, means a creditor of the trustee-manager of the registered business trust where the liability owing to such creditor was incurred by the trustee-manager on behalf of the registered business trust;
 
-“debenture” has the same meaning as in section 239(1) of the Securities and Futures Act and, in relation to a registered business trust, means a debenture issued by the trustee-manager of the registered business trust in its capacity as trustee-manager of the registered business trust;
+“debenture” has the same meaning as in section 2(1) of the Securities and Futures Act and, in relation to a registered business trust, means a debenture issued by the trustee-manager of the registered business trust in its capacity as trustee-manager of the registered business trust;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 “deed” means any deed which creates a trust or provides for the governance of the affairs of the trust and the conduct of its business and includes any instrument amending or affecting the deed;
 
@@ -400,7 +408,7 @@ but does not include the types of trusts specified in the Schedule;
 
 “resigning trustee-manager” means the trustee-manager of a registered business trust that, in accordance with this Act, proposes to resign, is removed or has resigned from the position of trustee-manager of the registered business trust;
 
-“securities exchange” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
+[Deleted by Act 4 of 2017 wef 08/10/2018]
 
 [Deleted by Act 2 of 2009 wef 19/11/2012]
 
@@ -736,7 +744,9 @@ whichever last occurs; and
 
 (b) of which an employee or agent of the person, being an employee or agent having duties or acting in relation to his employer’s or principal’s interest in units or derivatives of units in the registered business trust or debentures of the registered business trust, was aware or would, if he had acted with reasonable diligence in the conduct of his employer’s or principal’s affairs, have been aware at that time.
 
-(13) Where a person is required under subsection (8) to give notice to the trustee-manager of a registered business trust that is listed on a securities exchange, he shall also notify the securities exchange of that matter within the same period, and the securities exchange may publish, in such manner as it may determine, any information received by it under this subsection.
+(13) Where a person is required under subsection (8) to give notice to the trustee-manager of a registered business trust that is listed on an approved exchange, he shall also notify the approved exchange of that matter within the same period, and the approved exchange may publish, in such manner as it may determine, any information received by it under this subsection.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (14) For the purposes of this section, a director of the trustee-manager of a registered business trust is deemed to have an interest in units or derivatives of units in the registered business trust or debentures of the registered business trust, as the case may be, if that director is deemed to have an interest in the units, derivatives of units or debentures, as the case may be, under section 4 of the Securities and Futures Act (Cap. 289).
 
@@ -748,7 +758,9 @@ whichever last occurs; and
 
 (18) Subsections (8) to (15) shall not apply in respect of a registered business trust —
 
-(a) all or any of the units of which are listed for quotation on the official list of a securities exchange; and
+(a) all or any of the units of which are listed for quotation on the official list of an approved exchange; and
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (b) to which Subdivision (2) of Division 2 of Part VII of the Securities and Futures Act (Cap. 289) applies.
 
@@ -1290,11 +1302,9 @@ shall be treated as held or acquired by the transferee.
 
 “dissenting unitholder” includes a unitholder who has not assented to the arrangement or contract and any unitholder who has failed or refused to transfer his units to the transferee in accordance with the arrangement or contract;
 
-“real estate investment trust” means a collective investment scheme that is —
+“real estate investment trust” has the same meaning as in section 2(1) of the Securities and Futures Act.
 
-(a) authorised under section 286 of the Securities and Futures Act (Cap. 289) or recognised under section 287 of that Act; and
-
-(b) a trust that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes and all or any of the units of which are listed for quotation on a securities exchange.
+[Act 4 of 2017 wef 08/10/2018]
 
 [2/2009 wef 29/03/2010]
 
@@ -1576,7 +1586,15 @@ DEREGISTRATION
 
 (2) Where the Authority is satisfied that an application for deregistration of a registered business trust is in compliance with subsection (1) and the directors of the trustee-manager of the registered business trust have made a statutory declaration declaring that units in the business trust —
 
-(a) are no longer held by any person (other than a sophisticated investor within the meaning of section 282X(2) of the Securities and Futures Act (Cap. 289) or a person referred to in section 282W of that Act); or
+(a) are no longer held by any person other than —
+
+(i) a person who acquired units or derivatives of units in the business trust pursuant to an offer made in reliance on an exemption under section 274 of the Securities and Futures Act;
+
+(ii) a person who acquired the units or derivatives of units in the business trust pursuant to an offer mentioned in section 275(1A) of that Act; or
+
+(iii) a relevant person as defined under section 275(2) of that Act; or
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (b) are held by no more than 2 persons,
 
@@ -2002,7 +2020,9 @@ Accounts
 
 76\.—(1) The trustee-manager of a registered business trust shall, at a date not later than 18 months after the registration of the registered business trust and subsequently at least once in every calendar year at intervals of not more than 15 months, lay before the unitholders of the registered business trust at their annual general meeting a profit and loss account of the registered business trust for the period since the preceding account (or in the case of the first account, since the registration of the registered business trust) made up to a date —
 
-(a) in the case of a registered business trust listed or quoted on a securities exchange in Singapore, not more than 4 months before the date of the meeting; and
+(a) in the case of a registered business trust listed or quoted on an approved exchange in Singapore, not more than 4 months before the date of the meeting; and
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (b) in the case of any other registered business trust, not more than 6 months before the date of the meeting.
 
@@ -2140,7 +2160,9 @@ and if so, the report shall contain a statement explaining the effect of the arr
 
 ### Provision of summary financial statement to unitholders
 
-79\.—(1) Notwithstanding section 78 and anything in the trust deed of a registered business trust the units of which are listed on the securities exchange, the trustee-manager of the registered business trust may, in such cases as may be prescribed by the Authority and provided all the conditions imposed thereunder by the Authority are complied with, send a summary financial statement of the registered business trust complying with the requirements of subsections (4) and (5) instead of copies of the documents referred to in section 78(1) to the unitholders of the listed registered business trust.
+79\.—(1) Notwithstanding section 78 and anything in the trust deed of a registered business trust the units of which are listed on the approved exchange, the trustee-manager of the registered business trust may, in such cases as may be prescribed by the Authority and provided all the conditions imposed thereunder by the Authority are complied with, send a summary financial statement of the registered business trust complying with the requirements of subsections (4) and (5) instead of copies of the documents referred to in section 78(1) to the unitholders of the listed registered business trust.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (2) Where the trustee-manager of a listed registered business trust sends to the unitholders of the listed registered business trust a summary financial statement under subsection (1), any of the unitholders entitled to be furnished with a copy of the documents referred to in section 78(2) by the trustee-manager may instead request for a summary financial statement from the trustee-manager, and the trustee-manager shall send the summary financial statement to the requesting unitholder.
 
@@ -2164,7 +2186,9 @@ and if so, the report shall contain a statement explaining the effect of the arr
 
 (8) The Authority may make regulations to give effect to this section, including making provision as to the manner in which it is to be ascertained whether a unitholder of a listed registered business trust wishes to receive copies of the documents referred to in section 78(1) or does not wish to receive the summary financial statement under this section.
 
-(9) In this section, “listed registered business trust” means a registered business trust that has been admitted to the official list of a securities exchange in Singapore and has not been removed from that list.
+(9) In this section, “listed registered business trust” means a registered business trust that has been admitted to the official list of an approved exchange in Singapore and has not been removed from that list.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 [Companies 1994 Ed., s. 203A]
 
@@ -2787,17 +2811,23 @@ that document may be given, sent or served using electronic communications to th
 
 101\.—(1) Where —
 
-(a) on the application of the Authority, it appears to the court that a person has committed an offence under this Act or has contravened any condition or restriction imposed on him under this Act or the listing rules of a securities exchange; or
+(a) on the application of the Authority, it appears to the court that a person has committed an offence under this Act or has contravened any condition or restriction imposed on him under this Act or the listing rules of an approved exchange; or
 
-(b) on the application of a securities exchange, it appears to the court that a person has contravened the listing rules of the securities exchange,
+[Act 4 of 2017 wef 08/10/2018]
+
+(b) on the application of an approved exchange, it appears to the court that a person has contravened the listing rules of the approved exchange,
 
 the court may, without prejudice to any orders it would be entitled to make otherwise than under this section, make one or more of the following orders:
 
-(i) in the case of a persistent or continuing breach of this Act, any condition or restriction imposed under this Act or the listing rules of a securities exchange, an order directing a person to do or refrain from doing a specified act, including, but not limited to, directing the trustee-manager of a registered business trust to resign as the trustee-manager;
+(i) in the case of a persistent or continuing breach of this Act, any condition or restriction imposed under this Act or the listing rules of an approved exchange, an order directing a person to do or refrain from doing a specified act, including, but not limited to, directing the trustee-manager of a registered business trust to resign as the trustee-manager;
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (ii) any ancillary order deemed to be desirable in consequence of the making of any of these orders;
 
 (iii) an order for the reimbursement of costs of the application out of the trust property of a registered business trust to the person who made the application under this subsection.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (2) The court may, before making an order under subsection (1), direct that notice of the application be given to such person as it thinks fit or that notice of the application be published in such manner as it thinks fit, or both.
 
@@ -3182,3 +3212,8 @@ This Legislative History is provided for the convenience of users of the Busines
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
+|11.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
