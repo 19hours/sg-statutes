@@ -224,11 +224,9 @@ or who carries on any combination of such activities or services; or
 
 “principal”, in relation to a loan, means the amount actually lent by a moneylender under the contract for the loan;
 
-“real estate investment trust” means a collective investment scheme that is —
+“real estate investment trust” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
 
-(a) authorised under section 286 or recognised under section 287 of the Securities and Futures Act (Cap. 289); and
-
-(b) a trust that invests primarily in real estate and real estate-related assets specified by the Authority in the Code on Collective Investment Schemes and all or any of the units of which are listed for quotation on a securities exchange within the meaning of that Act;
+[Act 4 of 2017 wef 08/10/2018]
 
 “Registrar” means the Registrar of Moneylenders appointed under section 4 and includes a Deputy Registrar of Moneylenders and an Assistant Registrar of Moneylenders appointed under that section;
 
@@ -1552,3 +1550,8 @@ The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylende
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|9.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
