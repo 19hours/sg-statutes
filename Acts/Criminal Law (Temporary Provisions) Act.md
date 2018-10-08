@@ -836,7 +836,9 @@ Essential Services
 
 1. 
 
-Banking services, including services relating to transactions in securities and futures contracts.
+Banking services, including services relating to transactions in capital markets products.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 2. 
 
@@ -852,7 +854,9 @@ Civil defence services provided by the Singapore Civil Defence Force.
 
 5. 
 
-Clearing and settlement services relating to transactions in securities and futures contracts and transactions in the banking system.
+Clearing and settlement services relating to transactions in capital markets products and transactions in the banking system.
+
+[Act 4 of 2017 wef 08/10/2018]
 
 6. 
 
@@ -918,7 +922,9 @@ Services provided by the Immigration & Checkpoints Authority.
 
 21. 
 
-Services relating to dealings in securities, trading in futures contracts and leveraged foreign exchange trading provided by the holder of a capital markets services licence under the Securities and Futures Act (Cap. 289).
+Services relating to dealings in capital markets products provided by the holder of a capital markets services licence under the Securities and Futures Act (Cap. 289).
+
+[Act 4 of 2017 wef 08/10/2018]
 
 22. 
 
@@ -962,7 +968,9 @@ The following undertakings performed for the Singapore Armed Forces:
 
 All undertakings of whatever nature of —
 
-(a) a securities exchange, a futures exchange, a clearing house or an exchange holding company approved under the Securities and Futures Act (Cap. 289);
+(a) an approved exchange, an approved clearing house or an approved holding company, as defined in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+[Act 4 of 2017 wef 08/10/2018]
 
 (b) Singapore Customs;
 
@@ -1441,6 +1449,11 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of commencement|1 June 2015|
 |58.|**G.N. No. S 636/2015—Criminal Law (Temporary Provisions) Act (Amendment of First Schedule) Notification 2015**|
 ||Date of commencement|4 November 2015|
+|59.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
