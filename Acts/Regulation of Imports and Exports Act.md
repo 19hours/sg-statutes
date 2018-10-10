@@ -240,12 +240,7 @@ PRELIMINARY
 
 ## PART II
 
-REGULATION AND CONTROL OF IMPORTATION
-
-
-
-
-AND EXPORTATION, ETC.
+REGULATION AND CONTROL OF IMPORTATION AND EXPORTATION, ETC.
 
 ### Administration of Act and delegation of powers
 
@@ -863,6 +858,10 @@ except where it is necessary for the purposes of —
 
 [Act 3 of 2014 wef 01/04/2014]
 
+(viiia) satisfying a request for information under section 140EB or 140LA(2H) of the Copyright Act, or section 85B or 93A(2H) of the Trade Marks Act;
+
+[Act 34 of 2018 wef 10/10/2018]
+
 (ix) enabling a foreign government authority to investigate a suspected offence committed in a foreign country, where the conditions specified in subsection (4) are satisfied; or
 
 [Act 3 of 2014 wef 01/04/2014]
@@ -1129,3 +1128,7 @@ This Legislative History is provided for the convenience of users of the Regulat
 ||Date of First Reading|27 February 2018 (Bill No. 9/2018 published on 27 February 2018)|
 ||Date of Second and Third Readings|19 March 2018|
 ||Date of commencement|1 May 2018|
+|13.|**Act 34 of 2018—Intellectual Property (Border Enforcement) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|10 October 2018|
