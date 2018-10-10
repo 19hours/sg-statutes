@@ -232,13 +232,19 @@
 
 - [81 Interpretation of this Part](#Interpretation-of-this-Part)
 
+- [81A Delegation of Director-General’s powers](#Delegation-of-Director-General’s-powers)
+
 - [82 Restriction of importation of infringing goods](#Restriction-of-importation-of-infringing-goods)
 
-- [83 Security for liability or expense of seizure](#Security-for-liability-or-expense-of-seizure)
+- [83 Security for liability or expense of seizure, storage and disposal](#Security-for-liability-or-expense-of-seizure-storage-and-disposal)
 
 - [84 Secure storage of seized goods](#Secure-storage-of-seized-goods)
 
 - [85 Notice of seizure](#Notice-of-seizure)
+
+- [85A Persons bound to give information or produce documents](#Persons-bound-to-give-information-or-produce-documents)
+
+- [85B Information on import](#Information-on-import)
 
 - [86 Inspection, release, etc., of seized goods](#Inspection-release-etc-of-seized-goods)
 
@@ -252,7 +258,7 @@
 
 - [91 Retention of control of seized goods](#Retention-of-control-of-seized-goods)
 
-- [92 Disposal of seized goods ordered to be forfeited](#Disposal-of-seized-goods-ordered-to-be-forfeited)
+- [92 Disposal of seized goods](#Disposal-of-seized-goods)
 
 - [93 Insufficient security](#Insufficient-security)
 
@@ -2577,6 +2583,12 @@ Border enforcement measures
 
 [4/2003; 20/2004]
 
+### Delegation of Director-General’s powers
+
+81A\. The Director-General may delegate to a senior officer of customs (within the meaning of section 3(1) of the Customs Act (Cap. 70)) any of the powers of the Director-General under this Part (except the power of delegation conferred by this section), subject to such conditions or restrictions as the Director-General may determine.
+
+[Act 34 of 2018 wef 10/10/2018]
+
 ### Restriction of importation of infringing goods
 
 82\.—(1) A person who is the proprietor or a licensee of a registered trade mark may give the Director-General a written notice —
@@ -2629,19 +2641,23 @@ an authorised officer may seize the goods.
 
 [Copyright 1988 Ed., s. 140B]
 
-### Security for liability or expense of seizure
+### Security for liability or expense of seizure, storage and disposal
 
 83\. An authorised officer may refuse to seize goods under section 82 unless —
 
 (a) the objector has deposited with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to —
 
-(i) reimburse the Government for any liability or expense it is likely to incur as a result of the seizure of the goods; and
+(i) reimburse the Government for any liability or reasonable expense it is likely to incur in relation to the seizure, storage and disposal of the goods; and
+
+[Act 34 of 2018 wef 10/10/2018]
 
 (ii) pay such compensation as may be ordered by the Court under section 89(2) or 90(6); or
 
 (b) the objector has given security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense and the payment of such compensation.
 
 [Copyright 1988 Ed., s. 140C]
+
+[Act 34 of 2018 wef 10/10/2018]
 
 ### Secure storage of seized goods
 
@@ -2677,6 +2693,44 @@ the Director-General may extend the initial period by such period as is prescrib
 
 [Copyright 1988 Ed., s. 140E]
 
+### Persons bound to give information or produce documents
+
+85A\.—(1) At any time after goods have been seized under section 82(4), an authorised officer or a senior authorised officer who has reasonable cause to believe that a person has any information or document that the officer considers is relevant for any of the purposes in subsection (2), may require that person to provide to the officer that information or document at a time and place specified by the officer.
+
+(2) The purposes mentioned in subsection (1) are —
+
+(a) to enable the Director-General to satisfy a request under section 85B (whether or not such a request has actually been received);
+
+(b) to enable any action to be taken under this Part in relation to future shipments of goods; and
+
+(c) for a statistical or research purpose.
+
+(3) A person who —
+
+(a) without reasonable excuse, fails to comply with a requirement under subsection (1); or
+
+(b) in purported compliance with such requirement, knowingly or recklessly provides any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(4) A person is not excused from providing any information or document in compliance with a requirement under subsection (1) on the ground that it might tend to incriminate the person.
+
+(5) Where the person claims, before providing any information or document pursuant to a requirement under subsection (1), that it might tend to incriminate the person, then the information or document is not admissible in evidence against the person in criminal proceedings other than proceedings for an offence under subsection (3).
+
+(6) No information or document that is provided pursuant to a requirement under subsection (1) may be published, or communicated or disclosed to any person, except where and to the extent it is necessary for a purpose in subsection (2).
+
+(7) A person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+### Information on import
+
+85B\.—(1) After goods have been seized under section 82(4), the Director-General may, upon the request of the objector, and if the Director-General is satisfied that the information is necessary to enable the objector to institute an infringement action, give the objector the name and contact details of any person connected with the import of the seized goods.
+
+(2) Subsection (1) applies despite any duty of confidentiality imposed by the common law on the Director-General or a person to whom the Director-General has delegated the power under that subsection.
+
+[Act 34 of 2018 wef 10/10/2018]
+
 ### Inspection, release, etc., of seized goods
 
 86\.—(1) The Director-General may permit the objector or the importer to inspect the seized goods.
@@ -2701,17 +2755,21 @@ the Director-General may extend the initial period by such period as is prescrib
 
 ### Forfeiture of seized goods by consent
 
-87\.—(1) Subject to subsection (2), the importer may, by written notice to the Director-General, consent to the seized goods being forfeited to the Government.
+87\.—(1) Subject to subsection (2), the importer may, by written notice and the giving of the prescribed written undertakings to the Director-General, consent to the seized goods being forfeited to the Government.
+
+[Act 34 of 2018 wef 10/10/2018]
 
 (2) The notice shall be given before any infringement action in relation to the seized goods is instituted.
 
-(3) If the importer gives such a notice, the seized goods are forfeited to the Government and shall be disposed of —
+(3) If the importer satisfies the requirements of subsection (1), the seized goods are forfeited to the Government and shall be disposed of —
 
 (a) in the manner prescribed by rules made under this Act; or
 
 (b) if no manner of disposal is so prescribed, as the Director-General directs.
 
 [Copyright 1988 Ed., s. 140G]
+
+[Act 34 of 2018 wef 10/10/2018]
 
 ### Compulsory release of seized goods to importer
 
@@ -2775,15 +2833,31 @@ the Court may order the objector to pay compensation in such amount as the Court
 
 [Copyright 1988 Ed., s. 140J]
 
-### Disposal of seized goods ordered to be forfeited
+### Disposal of seized goods
 
-92\. If the Court orders that seized goods are to be forfeited to the Government, the goods shall be disposed of —
+92\.—(1) If the Court orders that seized goods are to be forfeited to the Government, the goods shall be disposed of —
 
 (a) in the manner prescribed by rules made under this Act; or
 
 (b) if no manner of disposal is so prescribed, as the Director-General directs.
 
-[Copyright 1988 Ed., s. 140K]
+[Act 34 of 2018 wef 10/10/2018]
+
+(2) If —
+
+(a) the Director-General gives to the importer a written notice of the release of seized goods; and
+
+(b) the importer fails to take custody of the seized goods within the period specified in the notice,
+
+the Director-General may dispose of the goods —
+
+(i) in the manner prescribed by rules made under this Act; or
+
+(ii) if no manner of disposal is so prescribed, as the Director-General directs.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+[Act 34 of 2018 wef 10/10/2018]
 
 ### Insufficient security
 
@@ -2819,6 +2893,66 @@ a written notice identifying the goods, stating that they have been detained and
 
 [20/2004]
 
+(2A) At any time after goods have been detained under subsection (1)(a), an authorised officer or a senior authorised officer who has reasonable cause to believe that a person has any information or document that the officer considers is relevant for any of the purposes in subsection (2B), may require that person to provide to the officer that information or document at a time and place specified by the officer.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2B) The purposes mentioned in subsection (2A) are —
+
+(a) to enable the Director-General to satisfy a request under subsection (2H) (whether or not such a request has actually been received);
+
+(b) to enable any action to be taken under this Part in relation to future shipments of goods; and
+
+(c) for a statistical or research purpose.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2C) A person who —
+
+(a) without reasonable excuse, fails to comply with a requirement under subsection (2A); or
+
+(b) in purported compliance with such requirement, knowingly or recklessly provides any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2D) A person is not excused from providing any information or document in compliance with a requirement under subsection (2A) on the ground that it might tend to incriminate the person.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2E) Where the person claims, before providing any information or document pursuant to a requirement under subsection (2A), that it might tend to incriminate the person, then the information or document is not admissible in evidence against the person in criminal proceedings other than proceedings for an offence under subsection (2C).
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2F) No information or document that is provided pursuant to a requirement under subsection (2A) may be published, or communicated or disclosed to any person, except where and to the extent it is necessary for a purpose in subsection (2B).
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2G) A person who contravenes subsection (2F) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2H) The Director-General may, upon the request of the proprietor of the registered trade mark, and if the Director-General is satisfied that the information is necessary to enable the proprietor to institute an infringement action, give the proprietor the name and contact details of any person connected with the import or proposed export (as the case may be) of the detained goods.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2I) However, no disclosure under subsection (2H) is permitted unless the proprietor of the registered trade mark to whom disclosure is to be made —
+
+(a) in the case of goods that are imported into Singapore and that are not goods in transit, has carried out the acts in subsection (3)(a)(i), (ii) and (iii); or
+
+(b) in the case of goods that are to be exported from Singapore or goods that are goods in transit and consigned to a person with a commercial or physical presence in Singapore —
+
+(i) satisfies the Director-General that the trade mark concerned is a registered trade mark and that he is the proprietor of it; and
+
+(ii) has carried out the act mentioned in subsection (3)(b)(iii).
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2J) Subsection (2H) applies despite any duty of confidentiality imposed by the common law on the Director-General or a person to whom the Director-General has delegated the power under that subsection.
+
+[Act 34 of 2018 wef 10/10/2018]
+
 (3) The detained goods shall be released to the importer, exporter or consignee, as the case may be, of the goods, unless, within the prescribed period, the proprietor of the registered trade mark —
 
 (a) in the case of goods that are imported into Singapore and that are not goods in transit —
@@ -2837,7 +2971,9 @@ a written notice identifying the goods, stating that they have been detained and
 
 (iii) deposits with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to —
 
-(A) reimburse the Government for any liability or expense it has incurred and is likely to further incur as a result of the detention of the goods; and
+(A) reimburse the Government for any liability or reasonable expense it has incurred and is likely to further incur in relation to the detention, storage and disposal of the goods; and
+
+[Act 34 of 2018 wef 10/10/2018]
 
 (B) pay such compensation to any person who suffers loss or damage as a result of the detention of the goods as may be ordered by the Court; or
 
@@ -3713,6 +3849,10 @@ This Legislative History is provided for the convenience of users of the Trade M
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|19.|**Act 34 of 2018—Intellectual Property (Border Enforcement) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|10 October 2018|
 ## COMPARATIVE TABLE
 
 Trade Marks Act
