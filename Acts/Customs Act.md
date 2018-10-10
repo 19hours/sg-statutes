@@ -1902,15 +1902,23 @@ except where it is necessary for the purposes of —
 
 [Act 25 of 2011 wef 01/01/2012]
 
-(viii) enabling a public agency to investigate such suspected offence under such written law (other than this Act and the Goods and Services Tax Act) as may be prescribed; or
+(viii) enabling a public agency to investigate such suspected offence under such written law (other than this Act and the Goods and Services Tax Act) as may be prescribed;
 
 [Act 25 of 2011 wef 01/01/2012]
 
-(ix) enabling a public agency to take steps to protect individuals and communities from risks or threats to public health or safety, or to protect against risks or threats to the security of Singapore (including her financial and economic security), provided the approval of the Minister has been given for the publication, communication or disclosure for such purpose.
+[Act 34 of 2018 wef 10/10/2018]
+
+(ix) enabling a public agency to take steps to protect individuals and communities from risks or threats to public health or safety, or to protect against risks or threats to the security of Singapore (including her financial and economic security), provided the approval of the Minister has been given for the publication, communication or disclosure for such purpose; or
 
 [Act 25 of 2011 wef 01/01/2012]
 
 [Act 3 of 2014 wef 01/04/2014]
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(x) satisfying a request for information under section 140EB or 140LA(2H) of the Copyright Act, or section 85B or 93A(2H) of the Trade Marks Act.
+
+[Act 34 of 2018 wef 10/10/2018]
 
 (1A) The approval of the Minister referred to in subsection (1)(ix) may be given in respect of —
 
@@ -3616,6 +3624,10 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|30 January 2015|
 ||Date of commencement|1 April 2015|
+|40.|**Act 34 of 2018—Intellectual Property (Border Enforcement) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|10 October 2018|
 ## COMPARATIVE TABLE
 
 Customs Act
