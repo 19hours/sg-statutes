@@ -390,13 +390,19 @@
 
 - [140A Interpretation of this Division and Division 7](#Interpretation-of-this-Division-and-Division-7)
 
+- [140AA Delegation of Director-General’s powers](#Delegation-of-Director-General’s-powers)
+
 - [140B Restriction of importation of copies of works, etc.](#Restriction-of-importation-of-copies-of-works-etc)
 
-- [140C Security for liability or expense of seizure](#Security-for-liability-or-expense-of-seizure)
+- [140C Security for liability or expense of seizure, storage and disposal](#Security-for-liability-or-expense-of-seizure-storage-and-disposal)
 
 - [140D Secure storage of seized copies](#Secure-storage-of-seized-copies)
 
 - [140E Notice of seizure](#Notice-of-seizure)
+
+- [140EA Persons bound to give information or produce documents](#Persons-bound-to-give-information-or-produce-documents)
+
+- [140EB Information on import](#Information-on-import)
 
 - [140F Inspection, release, etc., of seized copies](#Inspection-release-etc-of-seized-copies)
 
@@ -410,7 +416,7 @@
 
 - [140J Retention of control of seized copies](#Retention-of-control-of-seized-copies)
 
-- [140K Disposal of seized copies ordered to be forfeited](#Disposal-of-seized-copies-ordered-to-be-forfeited)
+- [140K Disposal of seized copies](#Disposal-of-seized-copies)
 
 - [140L Insufficient security](#Insufficient-security)
 
@@ -4713,6 +4719,12 @@ Border Enforcement Measures
 
 [Aust. 1968, s. 134B]
 
+### Delegation of Director-General’s powers
+
+140AA\. The Director-General may delegate to a senior officer of customs (within the meaning of section 3(1) of the Customs Act) any of the powers of the Director‑General under this Division (except the power of delegation conferred by this section), subject to such conditions or restrictions as the Director‑General may determine.
+
+[Act 34 of 2018 wef 10/10/2018]
+
 ### Restriction of importation of copies of works, etc.
 
 140B\.—(1) A person who is the owner of the copyright in any copyright material or a licensee thereof may give the Director-General a written notice —
@@ -4795,17 +4807,21 @@ an authorised officer may seize the copies.
 
 [Aust. 1968, s. 135]
 
-### Security for liability or expense of seizure
+### Security for liability or expense of seizure, storage and disposal
 
 140C\. An authorised officer may refuse to seize copies under section 140B(7) unless —
 
-(a) the objector has deposited with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to reimburse the Government for any liability or expense it is likely to incur as a result of the seizure of the copies and pay such compensation as may be ordered by the court under section 140I(7) or 140IA(2); or
+(a) the objector has deposited with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to reimburse the Government for any liability or reasonable expense it is likely to incur in relation to the seizure, storage and disposal of the copies, and pay such compensation as may be ordered by the court under section 140I(7) or 140IA(2); or
+
+[Act 34 of 2018 wef 10/10/2018]
 
 (b) the objector has given security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense.
 
 [6/98; 38/99]
 
 [Aust. 1968, s. 135AA]
+
+[Act 34 of 2018 wef 10/10/2018]
 
 ### Secure storage of seized copies
 
@@ -4857,6 +4873,44 @@ the Director-General may extend the retention period by such period as is prescr
 
 [Aust. 1968, s. 135AC]
 
+### Persons bound to give information or produce documents
+
+140EA\.—(1) At any time after copies of copyright material have been seized under section 140B(7), an authorised officer or a senior authorised officer who has reasonable cause to believe that a person has any information or document that the officer considers is relevant for any of the purposes in subsection (2), may require that person to provide to the officer that information or document at a time and place specified by the officer.
+
+(2) The purposes mentioned in subsection (1) are —
+
+(a) to enable the Director-General to satisfy a request under section 140EB (whether or not such a request has actually been received);
+
+(b) to enable any action to be taken under this Division in relation to future shipments of goods; and
+
+(c) for a statistical or research purpose.
+
+(3) A person who —
+
+(a) without reasonable excuse, fails to comply with a requirement under subsection (1); or
+
+(b) in purported compliance with such requirement, knowingly or recklessly provides any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(4) A person is not excused from providing any information or document in compliance with a requirement under subsection (1) on the ground that it might tend to incriminate the person.
+
+(5) Where the person claims, before providing any information or document pursuant to a requirement under subsection (1), that it might tend to incriminate the person, then the information or document is not admissible in evidence against the person in criminal proceedings other than proceedings for an offence under subsection (3).
+
+(6) No information or document that is provided pursuant to a requirement under subsection (1) may be published, or communicated or disclosed to any person, except where and to the extent it is necessary for a purpose in subsection (2).
+
+(7) A person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+### Information on import
+
+140EB\.—(1) After copies of copyright material have been seized under section 140B(7), the Director‑General may, upon the request of the objector, and if the Director‑General is satisfied that the information is necessary to enable the objector to institute an action for infringement of copyright, give the objector the name and contact details of any person connected with the import of the seized copies.
+
+(2) Subsection (1) applies despite any duty of confidentiality imposed by the common law on the Director‑General or a person to whom the Director‑General has delegated the power under that subsection.
+
+[Act 34 of 2018 wef 10/10/2018]
+
 ### Inspection, release, etc., of seized copies
 
 140F\.—(1) The Director-General may permit the objector or the importer to inspect the seized copies.
@@ -4891,15 +4945,17 @@ the Director-General may extend the retention period by such period as is prescr
 
 ### Forfeiture of seized copies by consent
 
-140G\.—(1) Subject to subsection (2), the importer may, by written notice to the Director-General, consent to the seized copies being forfeited to the Government.
+140G\.—(1) Subject to subsection (2), the importer may, by written notice and the giving of the prescribed written undertakings to the Director-General, consent to the seized copies being forfeited to the Government.
 
 [6/98]
+
+[Act 34 of 2018 wef 10/10/2018]
 
 (2) The notice shall be given before any action for infringement of copyright in relation to the copies is instituted.
 
 [6/98]
 
-(3) If the importer gives such a notice, the copies are forfeited to the Government and shall be disposed of —
+(3) If the importer satisfies the requirements of subsection (1), the copies are forfeited to the Government and shall be disposed of —
 
 (a) in the manner prescribed by the regulations; or
 
@@ -4908,6 +4964,8 @@ the Director-General may extend the retention period by such period as is prescr
 [6/98]
 
 [Aust. 1968, s. 135AE]
+
+[Act 34 of 2018 wef 10/10/2018]
 
 ### Compulsory release of seized copies to importer
 
@@ -5019,17 +5077,31 @@ the court may order the objector to pay compensation in such amount as the court
 
 [Aust. 1968, s. 135AH]
 
-### Disposal of seized copies ordered to be forfeited
+### Disposal of seized copies
 
-140K\. If a court orders that seized copies are to be forfeited to the Government, the copies shall be disposed of —
+140K\.—(1) If a court orders that seized copies are to be forfeited to the Government, the copies shall be disposed of —
 
 (a) in the manner prescribed by the regulations; or
 
 (b) if no manner of disposal is so prescribed, as the Director-General directs.
 
-[6/98]
+[Act 34 of 2018 wef 10/10/2018]
 
-[Aust. 1968, s. 135AI]
+(2) If —
+
+(a) the Director‑General gives to the importer a written notice of the release of seized copies; and
+
+(b) the importer fails to take custody of the seized copies within the period specified in the notice,
+
+the Director-General may dispose of the copies —
+
+(i) in the manner prescribed by regulations; or
+
+(ii) if no manner of disposal is so prescribed, as the Director‑General directs.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+[Act 34 of 2018 wef 10/10/2018]
 
 ### Insufficient security
 
@@ -5069,6 +5141,66 @@ a written notice identifying the copies, stating that they have been detained an
 
 [52/2004]
 
+(2A) At any time after copies of copyright material have been detained under subsection (1)(a), an authorised officer or a senior authorised officer who has reasonable cause to believe that a person has any information or document that the officer considers is relevant for any of the purposes in subsection (2B), may require that person to provide to the officer that information or document at a time and place specified by the officer.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2B) The purposes mentioned in subsection (2A) are —
+
+(a) to enable the Director‑General to satisfy a request under subsection (2H) (whether or not such a request has actually been received);
+
+(b) to enable any action to be taken under this Division in relation to future shipments of goods; and
+
+(c) for a statistical or research purpose.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2C) A person who —
+
+(a) without reasonable excuse, fails to comply with a requirement under subsection (2A); or
+
+(b) in purported compliance with such requirement, knowingly or recklessly provides any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2D) A person is not excused from providing any information or document in compliance with a requirement under subsection (2A) on the ground that it might tend to incriminate the person.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2E) Where the person claims, before providing any information or document pursuant to a requirement under subsection (2A), that it might tend to incriminate the person, then the information or document is not admissible in evidence against the person in criminal proceedings other than proceedings for an offence under subsection (2C).
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2F) No information or document that is provided pursuant to a requirement under subsection (2A) may be published, or communicated or disclosed to any person, except where and to the extent it is necessary for a purpose in subsection (2B).
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2G) A person who contravenes subsection (2F) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2H) The Director-General may, upon the request of the owner of the copyright in the copyright material, and if the Director‑General is satisfied that the information is necessary to enable the owner to institute an action for infringement of the copyright, give the owner the name and contact details of any person connected with the import or proposed export (as the case may be) of the detained copies.
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2I) However, no disclosure under subsection (2H) is permitted unless the owner of the copyright in the copyright material to whom disclosure is to be made —
+
+(a) in the case of copies that are imported into Singapore and that are not goods in transit, has carried out the acts in subsection (3)(a)(i), (ii) and (iii); or
+
+(b) in the case of copies that are to be exported from Singapore or copies that are goods in transit and consigned to a person with a commercial or physical presence in Singapore —
+
+(i) satisfies the Director‑General that copyright subsists in the copyright material and that he is the owner of the copyright; and
+
+(ii) has carried out the act mentioned in subsection (3)(b)(iii).
+
+[Act 34 of 2018 wef 10/10/2018]
+
+(2J) Subsection (2H) applies despite any duty of confidentiality imposed by the common law on the Director‑General or a person to whom the Director‑General has delegated the power under that subsection.
+
+[Act 34 of 2018 wef 10/10/2018]
+
 (3) The detained copies of copyright material shall be released to the importer, exporter or consignee, as the case may be, of the copies, unless, within the prescribed period, the owner of the copyright in the copyright material —
 
 (a) in the case of copies that are imported into Singapore and that are not goods in transit —
@@ -5087,7 +5219,9 @@ a written notice identifying the copies, stating that they have been detained an
 
 (iii) deposits with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to —
 
-(A) reimburse the Government for any liability or expense it has and is likely to further incur as a result of the detention of the copies; and
+(A) reimburse the Government for any liability or reasonable expense it has and is likely to further incur in relation to the detention, storage and disposal of the copies; and
+
+[Act 34 of 2018 wef 10/10/2018]
 
 (B) pay such compensation to any person who suffers loss or damage as a result of the detention of the copies as may be ordered by the court,
 
@@ -9658,6 +9792,10 @@ This Legislative History is provided for the convenience of users of the Copyrig
 ||Date of First Reading|3 April 2017 (Bill No. 23/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|30 October 2017|
+|26.|**Act 34 of 2018—Intellectual Property (Border Enforcement) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|10 October 2018|
 ## COMPARATIVE TABLE
 
 Copyright Act
