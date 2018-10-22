@@ -106,11 +106,19 @@
 
 - [43 Powers of Court](#Powers-of-Court)
 
+- [43A Court may refer parties for counselling, etc.](#Court-may-refer-parties-for-counselling-etc)
+
+- [43B Examination and assessment of child](#Examination-and-assessment-of-child)
+
 - [44 Adjournment](#Adjournment)
 
 - [45 Time](#Time)
 
 - [46 Sittings in camera, etc.](#Sittings-in-camera-etc)
+
+- [46A Activities to be attended before making application to Court for divorce](#Activities-to-be-attended-before-making-application-to-Court-for-divorce)
+
+- [46B Divorce by husband’s pronouncement](#Divorce-by-husband’s-pronouncement)
 
 - [47 Divorce at wife’s request](#Divorce-at-wife’s-request)
 
@@ -240,6 +248,10 @@
 
 - [94 Betrothal](#Betrothal)
 
+- [94A Marriage preparation programme](#Marriage-preparation-programme)
+
+- [94B Consent to application for solemnization of marriage of minor](#Consent-to-application-for-solemnization-of-marriage-of-minor)
+
 - [95 Solemnization of marriage](#Solemnization-of-marriage)
 
 - [96 Restriction on solemnization of marriage](#Restriction-on-solemnization-of-marriage)
@@ -264,7 +276,7 @@
 
 - [106 Where Appeal Board orders registration](#Where-Appeal-Board-orders-registration)
 
-- [107 Extended time for registration of marriage or revocation of divorce](#Extended-time-for-registration-of-marriage-or-revocation-of-divorce)
+- [107 Extended time for registration of revocation of divorce](#Extended-time-for-registration-of-revocation-of-divorce)
 
 - [108 Copy of entry to be given to parties](#Copy-of-entry-to-be-given-to-parties)
 
@@ -357,6 +369,8 @@
 [**SECOND SCHEDULE Financial provisions with respect to trust, wakaf, nazar and mosque**](#SECOND-SCHEDULE-Financial-provisions-with-respect-to-trust-wakaf-nazar-and-mosque)
 
 [**THIRD SCHEDULE Contributions to Mosque Building and Mendaki Fund**](#THIRD-SCHEDULE-Contributions-to-Mosque-Building-and-Mendaki-Fund)
+
+[**FOURTH SCHEDULE Consents required for marriage of minor**](#FOURTH-SCHEDULE-Consents-required-for-marriage-of-minor)
 
 [**Legislative History**](#Legislative-History)
 
@@ -918,15 +932,21 @@ THE SYARIAH COURT
 
 [Act 33 of 2017 wef 01/10/2017]
 
-(2) The registrar of the Court shall have such powers and duties as may be prescribed under this Act.
+(2) The registrar of the Court —
 
-[20/99]
+(a) may transact all of the business which may be transacted, and exercise all of the jurisdiction and powers which may be exercised, by a president of the Court under sections 40, 43A, 43B, 47(5) and 50; and
 
-(3) Subject to this Act, the powers and duties of the registrar of the Court may be exercised by a deputy registrar of the Court.
+(b) has such other jurisdiction, powers and duties as may be prescribed in this Act or under any rules made under section 145.
+
+[Act 33 of 2017 wef 22/10/2018]
+
+(3) Subject to this Act, the jurisdiction, powers and duties of the registrar of the Court may be exercised by a deputy registrar of the Court.
 
 [29/2008]
 
 [Act 33 of 2017 wef 01/10/2017]
+
+[Act 33 of 2017 wef 22/10/2018]
 
 ### Jurisdiction
 
@@ -934,7 +954,7 @@ THE SYARIAH COURT
 
 [20/99]
 
-(2) The Court shall have jurisdiction to hear and determine all actions and proceedings in which all the parties are Muslims or where the parties were married under the provisions of the Muslim law and which involve disputes relating to —
+(2) Subject to subsection (2A), the Court shall have jurisdiction to hear and determine all actions and proceedings in which all the parties are Muslims or where the parties were married under the provisions of the Muslim law and which involve disputes relating to —
 
 (a) marriage;
 
@@ -948,9 +968,23 @@ THE SYARIAH COURT
 
 [20/99; 29/2008]
 
+[Act 33 of 2017 wef 22/10/2018]
+
+(2A) Where any action or proceeding mentioned in subsection (2) is commenced on or after the date of commencement of section 5(b) of the Administration of Muslim Law (Amendment) Act 2017, the Court has jurisdiction under that subsection to hear and determine that action or proceeding only if either party to the marriage —
+
+(a) is domiciled in Singapore at the time that action or proceeding is commenced; or
+
+(b) is habitually resident in Singapore for a period of at least 3 years immediately before that action or proceeding is commenced.
+
+[Act 33 of 2017 wef 22/10/2018]
+
 (3) In all questions regarding betrothal, marriage, dissolution of marriage, including talak, cerai taklik, khuluk and fasakh, nullity of marriage or judicial separation, the appointment of hakam, the disposition or division of property on divorce or nullification of marriage, the payment of emas kahwin, marriage expenses (hantaran belanja) and consolatory gifts or mutaah and the payment of maintenance on divorce, the rule of decision where the parties are Muslims or were married under the provisions of the Muslim law shall, subject to the provisions of this Act, be the Muslim law, as varied where applicable by Malay custom.
 
 [20/99; 29/2008]
+
+(4) For the purposes of subsection (2A), a person who is a citizen of Singapore is presumed to be domiciled in Singapore, until the contrary is proved.
+
+[Act 33 of 2017 wef 22/10/2018]
 
 ### Leave to commence or to continue civil proceedings involving disposition or division of property on divorce or custody of children
 
@@ -1086,6 +1120,42 @@ THE SYARIAH COURT
 
 [Act 33 of 2017 wef 01/10/2017]
 
+### Court may refer parties for counselling, etc.
+
+43A\.—(1) The Court before which any matter mentioned in section 35(2), 46B, 47, 48, 49, 51 or 52 is heard may order or advise any of the parties or their children to do either or both of the following, if the Court considers that doing so is in the interests of any of the parties or their children:
+
+(a) attend counselling provided by a person the Court appoints;
+
+(b) participate in a family support programme or activity the Court specifies.
+
+(2) Where the Court has made an order under subsection (1), the parties must comply with the order.
+
+(3) Where a party fails to comply with an order made under subsection (1), the Court may make such further orders as the Court thinks fit.
+
+(4) The further orders that the Court may make under subsection (3) include the following:
+
+(a) an order that the proceedings be stayed until all of the parties or their children who have been ordered by the Court under subsection (1) to attend counselling, or to participate in a family support programme or activity, have done so;
+
+(b) such order as to costs as the Court thinks appropriate against the party who fails to comply with an order made by the Court under subsection (1).
+
+(5) Anything said, any document prepared, and any information provided, by any person for the purposes of or in the course of any counselling or any family support programme or activity under this section is not to be admitted in evidence in the Court or any court.
+
+(6) No liability shall lie personally against any person providing any counselling or conducting any family support programme or activity for the purposes of subsection (1), who, acting in good faith and with reasonable care, does or omits to do anything for the purposes of that counselling or family support programme or activity (as the case may be).
+
+(7) In this section, “family support programme or activity” means any programme or activity carried out for the purpose of addressing or resolving any relationship issue or relationship problem between spouses or former spouses, between siblings or between parent and child.
+
+[Act 33 of 2017 wef 22/10/2018]
+
+### Examination and assessment of child
+
+43B\.—(1) In any proceedings before the Court involving the custody or welfare of a child, the Court may, on the application of any party to those proceedings or on its own motion, appoint a registered medical practitioner, psychologist, counsellor, social worker or mental health professional to examine and assess the child for the purposes of preparing expert evidence for use in those proceedings.
+
+(2) Where a registered medical practitioner, psychologist, counsellor, social worker or mental health professional who is not appointed by the Court under subsection (1) examines or assesses the child, no evidence arising out of that examination or assessment may be adduced in those proceedings without the leave of the Court.
+
+(3) A registered medical practitioner, psychologist, counsellor, social worker or mental health professional appointed under subsection (1) may make such enquiries relevant to the examination and assessment of the child as may be provided for under rules made under section 145.
+
+[Act 33 of 2017 wef 22/10/2018]
+
 ### Adjournment
 
 44\.—(1) The Court may for sufficient reason adjourn any proceeding from time to time and from place to place.
@@ -1104,19 +1174,97 @@ THE SYARIAH COURT
 
 [Act 33 of 2017 wef 01/10/2017]
 
+### Activities to be attended before making application to Court for divorce
+
+46A\.—(1) A prescribed party in a prescribed circumstance must attend the applicable prescribed activity within the prescribed time.
+
+(2) For the purposes of subsection (1), rules made under section 145 may —
+
+(a) prescribe the applicable prescribed activity for a prescribed party in a prescribed circumstance; and
+
+(b) prescribe different times for different prescribed parties in different prescribed circumstances.
+
+(3) No application for a divorce in accordance with the Muslim law is to be made to the Court, and no cross‑application is to be made in proceedings for a divorce in accordance with the Muslim law, by a prescribed party in a prescribed circumstance, unless the prescribed party —
+
+(a) has attended the applicable prescribed activity;
+
+(b) is an excluded party; or
+
+(c) is allowed by the Court under subsection (4) to do so.
+
+(4) Despite subsection (3)(a) and (b), even though a prescribed party in a prescribed circumstance has not attended the applicable prescribed activity and is not an excluded party, the Court may, upon the application of the prescribed party, and on such terms as the Court thinks fit, allow the prescribed party to apply to the Court for a divorce in accordance with the Muslim law.
+
+(5) The Court hearing any proceedings for a divorce in accordance with the Muslim law may, if the Court considers that doing so is in the interests of the parties to the marriage or any child of the marriage, at any stage in those proceedings order either or both of the parties to the marriage to attend a prescribed activity.
+
+(6) Where any party who is required or ordered under this section to attend a prescribed activity fails to do so, the Court may make such orders as the Court thinks fit.
+
+(7) Without prejudice to the generality of subsection (6), the orders that the Court may make under that subsection include the following orders:
+
+(a) a stay of the proceedings for a divorce in accordance with the Muslim law until the defaulting party in that subsection attends the prescribed activity;
+
+(b) such order as to costs as the Court thinks appropriate against the defaulting party in that subsection.
+
+(8) Except as provided in subsection (9), anything said, any document prepared, and any information provided, by any person for the purposes of or in the course of attending a prescribed activity is not to be admitted in evidence in the Court or any court.
+
+(9) A parenting plan prepared during a prescribed activity may, with the consent of every party who prepared it, be admitted in evidence in the Court.
+
+(10) The Minister may appoint any person to conduct a prescribed activity.
+
+(11) No liability shall lie personally against any person appointed under subsection (10) to conduct a prescribed activity who, acting in good faith and with reasonable care, does or omits to do anything for the purposes of that prescribed activity.
+
+(12) In this section —
+
+“applicable prescribed activity”, in relation to a prescribed party in a prescribed circumstance, means the particular type of prescribed activity that the prescribed party is required under subsection (1) to attend;
+
+“application for a divorce in accordance with the Muslim law” includes an application under section 102(5)(b);
+
+“cross‑application”, in relation to proceedings for a divorce in accordance with the Muslim law, includes —
+
+(a) an application under section 102(5)(b) made while those proceedings are pending; or
+
+(b) if those proceedings are proceedings relating to an application under section 102(5)(b) — an application for a divorce in accordance with the Muslim law that is made while those proceedings are pending;
+
+“excluded party” means a prescribed party who is prescribed by rules made under section 145 as exempt from subsection (1);
+
+“parenting plan” means a proposal prepared by either party to a marriage, or an agreement prepared by both parties to a marriage, on the arrangements for the welfare of every dependent child of the marriage;
+
+“prescribed activity” means an activity (such as counselling) that is prescribed, by rules made under section 145, for the purposes of this section;
+
+“prescribed circumstance” means a circumstance, prescribed by rules made under section 145, in which a prescribed party is required under subsection (1) to attend a prescribed activity;
+
+“prescribed party” means a party to a marriage who is prescribed, by rules made under section 145, for the purposes of this section;
+
+“proceedings for a divorce in accordance with the Muslim law” includes any proceedings relating to an application under section 102(5)(b).
+
+[Act 33 of 2017 wef 22/10/2018]
+
+### Divorce by husband’s pronouncement
+
+46B\.—(1) A married man may apply to the Court for a divorce in accordance with the Muslim law.
+
+(2) Upon receiving an application under subsection (1), the Court must cause a summons to be served on the wife concerned.
+
+(3) If the man pronounces a divorce, and the Court is satisfied that the divorce is valid in accordance with the Muslim law, the Court must, on payment of the prescribed fees, cause the divorce to be registered.
+
+[Act 33 of 2017 wef 22/10/2018]
+
 ### Divorce at wife’s request
 
 47\.—(1) A married woman may apply to the Court for a divorce in accordance with the Muslim law.
 
-(2) In any such case, the Court shall summon the husband before the Court and enquire whether he consents to the divorce.
+(2) In any such case, the Court must cause a summons to be served on the husband and enquire whether he consents to the divorce.
+
+[Act 33 of 2017 wef 22/10/2018]
 
 (3) If the husband so consents, the Court shall cause the husband to pronounce a divorce and on payment of the prescribed fees cause the divorce to be registered.
 
 (4) If the husband does not agree to divorce the wife, but the parties agree to a divorce by redemption (khuluk), the Court may assess the amount of payment to be made by the wife in accordance with the status and means of the parties and shall thereupon cause the husband to pronounce a divorce by redemption and, on payment of the amount so assessed and the prescribed fees, cause the divorce to be registered.
 
-(5) If the husband does not agree to a divorce by khuluk, the Court or the registrar of the Court may appoint a hakam in accordance with section 50.
+(5) If the husband does not agree to a divorce by khuluk, the Court may appoint a hakam in accordance with section 50.
 
 [29/2008]
+
+[Act 33 of 2017 wef 22/10/2018]
 
 (6) For the purposes of this section and sections 48 and 49, “married woman” includes a woman against whom a talak has been pronounced by her husband.
 
@@ -1180,29 +1328,39 @@ THE SYARIAH COURT
 
 ### Appointment of hakam
 
-50\.—(1) Before the making of an order or decree for talak, fasakh, cerai taklik or khuluk, the Court or the registrar of the Court may appoint in accordance with the Muslim law 2 arbitrators, or hakam, to act for the husband and wife respectively.
+50\.—(1) Before the making of an order or decree for talak, fasakh, cerai taklik or khuluk, the Court may appoint in accordance with the Muslim law 2 arbitrators, or hakam, to act for the husband and wife respectively.
 
 [29/2008]
 
-(2) In making such appointment, the Court or the registrar of the Court, as the case may be, shall where possible give preference to close relatives of the parties having knowledge of the circumstances of the case.
+[Act 33 of 2017 wef 22/10/2018]
+
+(2) In making such appointment, the Court shall where possible give preference to close relatives of the parties having knowledge of the circumstances of the case.
 
 [29/2008]
 
-(3) The Court or the registrar of the Court may give directions to the hakam as to the conduct of the arbitration and they shall conduct it in accordance with such directions and according to the Muslim law.
+[Act 33 of 2017 wef 22/10/2018]
+
+(3) The Court may give directions to the hakam as to the conduct of the arbitration and they shall conduct it in accordance with such directions and according to the Muslim law.
 
 [29/2008]
 
-(4) If the hakam are unable to agree, or if the Court or the registrar of the Court is not satisfied with the conduct of the arbitration, the Court or the registrar may remove the hakam and appoint other hakam in their place.
+[Act 33 of 2017 wef 22/10/2018]
+
+(4) If the hakam are unable to agree, or if the Court is not satisfied with the conduct of the arbitration, the Court may remove the hakam and appoint other hakam in their place.
 
 [29/2008]
+
+[Act 33 of 2017 wef 22/10/2018]
 
 (5) The hakam shall endeavour to effect a reconciliation between the parties and shall report the result of their arbitration to the Court.
 
 (6) The hakam shall endeavour to obtain from their respective principals full authority, and may, if their authority extends so far, decree a divorce, and shall in such event report the same to the Court for registration.
 
-(7) If the hakam are of opinion that the parties should be divorced but are unable for any reason to decree a divorce, the Court or the registrar of the Court shall appoint other hakam and shall confer on them authority to effect a divorce and the hakam, if they do so, shall report the same to the Court for registration.
+(7) If the hakam are of opinion that the parties should be divorced but are unable for any reason to decree a divorce, the Court shall appoint other hakam and shall confer on them authority to effect a divorce and the hakam, if they do so, shall report the same to the Court for registration.
 
 [29/2008]
+
+[Act 33 of 2017 wef 22/10/2018]
 
 ### Maintenance of wife
 
@@ -1531,6 +1689,22 @@ but does not include any asset (not being a matrimonial home) that has been acqu
 (3) The officer or other person referred to in subsection (2) shall not be deemed to have acted knowingly in excess of his authority merely by reason of the existence of a dispute as to the ownership of any property seized under any writ or order of execution.
 
 [20/99]
+
+(4) A child representative appointed to represent the interests of a child in any proceedings involving the child, or the custody and welfare of the child, is not liable to be sued for an act done by the child representative for the purposes of those proceedings, or any mediation or other alternative dispute resolution process related to those proceedings, if the act —
+
+(a) was done in good faith; and
+
+(b) did not involve any fraud or wilful misconduct.
+
+[Act 33 of 2017 wef 22/10/2018]
+
+(5) Where an individual (being a registered medical practitioner, psychologist, counsellor, social worker or mental health professional) is appointed by the Court to examine or assess a child for the purposes of preparing expert evidence for use in any proceedings involving the custody or welfare of that child, the individual is not liable to be sued for an act done by the individual for the purposes of the examination or assessment, or the preparation of the expert evidence for use in those proceedings, if the act —
+
+(a) was done in good faith; and
+
+(b) did not involve any fraud or wilful misconduct.
+
+[Act 33 of 2017 wef 22/10/2018]
 
 ## PART IV
 
@@ -2426,13 +2600,59 @@ MARRIAGE AND DIVORCE
 
 (2) The payments and return of gifts mentioned in subsection (1) may be recovered by action in the Syariah Court.
 
+### Marriage preparation programme
+
+94A\.—(1) This section applies to every person within a class of persons prescribed by rules made under section 145 as persons who must attend a marriage preparation programme.
+
+(2) An application cannot be made to a Kadi or Naib Kadi for the solemnization of the marriage of a person to whom this section applies, unless the person satisfies the Kadi or Naib Kadi (as the case may be) that the person, and the other party to the proposed marriage, have attended together and completed a marriage preparation programme.
+
+(3) In this section, “marriage preparation programme” means a marriage preparation programme which satisfies the description specified in the rules made under section 145.
+
+[Act 33 of 2017 wef 22/10/2018]
+
+### Consent to application for solemnization of marriage of minor
+
+94B\.—(1) An application cannot be made to a Kadi or Naib Kadi for the solemnization of the marriage of a minor without the consent of the appropriate person or persons mentioned in the Fourth Schedule.
+
+(2) If a Kadi or Naib Kadi is satisfied that the consent of an appropriate person mentioned in the Fourth Schedule cannot be obtained by reason of that person being absent, inaccessible or under any disability, the Kadi or Naib Kadi —
+
+(a) must dispense with the consent of that person, if the consent of any other person is required; and
+
+(b) may dispense with the consent of that person, if the consent of no other person is required.
+
+(3) If an appropriate person mentioned in the Fourth Schedule refuses to give that person’s consent, a Kadi or Naib Kadi may, on an application to the Kadi or Naib Kadi, dispense with the consent of that person.
+
+(4) Before dispensing with the consent of a person mentioned in subsection (3), the Kadi or Naib Kadi must give that person an opportunity to show cause why that person’s consent should not be dispensed with.
+
+[Act 33 of 2017 wef 22/10/2018]
+
 ### Solemnization of marriage
 
-95\.—(1) Subject to the provisions of this Act, it shall be lawful for the wali of the woman to be wedded to solemnize the marriage according to the Muslim law.
+95\.—(1) Subject to the provisions of this Act, a marriage may be solemnized according to the Muslim law —
 
-(2) Subject to the provisions of this Act, any Kadi or Naib Kadi may at the request of the wali of the woman to be wedded perform the marriage ceremony, but before solemnizing such marriage he shall make full inquiry in order to satisfy himself that there is no lawful obstacle according to the Muslim law or this Act to the marriage and shall not perform the ceremony until he is so satisfied.
+(a) by the wali of the woman to be wedded;
 
-(3) Where there is no wali of the woman to be wedded or where a wali shall, on grounds which a Kadi does not consider satisfactory, refuse his consent to the marriage, the marriage may be solemnized by the Kadi, but before solemnizing such marriage the Kadi shall make inquiry as prescribed in subsection (2).
+(b) by a Kadi or Naib Kadi, at the request of the wali of the woman to be wedded; or
+
+(c) by a Kadi, where —
+
+(i) there is no wali of the woman to be wedded; or
+
+(ii) the wali of the woman to be wedded refuses his consent to the marriage, on grounds that the Kadi does not consider satisfactory.
+
+[Act 33 of 2017 wef 22/10/2018]
+
+(2) On or after the date of commencement of section 25 of the Administration of Muslim Law (Amendment) Act 2017, both of the following conditions must be satisfied before the wali of the woman to be wedded can solemnize the marriage:
+
+(a) the parties to be wedded have applied to a Kadi or Naib Kadi for, and he has given, his written consent to the solemnization of the marriage by the wali;
+
+(b) a Kadi or Naib Kadi is present during the solemnization of the marriage by the wali.
+
+[Act 33 of 2017 wef 22/10/2018]
+
+(3) Before solemnizing a marriage or giving his written consent to the solemnization of a marriage by a wali, a Kadi or Naib Kadi must satisfy himself after inquiry that there is no lawful obstacle, according to the Muslim law or this Act, to the marriage.
+
+[Act 33 of 2017 wef 22/10/2018]
 
 (4) For the purpose of any inquiry, a Kadi or Naib Kadi may issue a summons requiring any person to appear before him to give evidence or to produce a document.
 
@@ -2556,19 +2776,37 @@ Place of marriage
 
 ### Registration of marriage, divorce or revocation of divorce compulsory
 
-102\.—(1) Nothing in this section shall be construed as preventing a Kadi or Naib Kadi, at his option, from solemnizing and registering a marriage at his house or office or at the house of the parties or one of the parties thereto.
+102\.—(1) A Kadi or Naib Kadi —
 
-(2) In the case of every marriage or revocation of divorce effected in Singapore and which has not been registered in accordance with subsection (1), the husband and wife shall —
+(a) must register a marriage (which was solemnized by him or in his presence) immediately after the solemnization of the marriage; and
 
-(a) attend personally within 7 days beginning on the date of the marriage or revocation of divorce at the office of a Kadi;
+(b) may, at his option, register, or solemnize and register, a marriage —
+
+(i) at his house or office;
+
+(ii) at the house of the parties, or one of the parties, to the marriage; or
+
+(iii) at any other place proposed by the parties to the marriage.
+
+[Act 33 of 2017 wef 22/10/2018]
+
+(2) In the case of every revocation of divorce effected in Singapore, the husband and wife shall —
+
+(a) attend personally within 7 days beginning on the date of the revocation of divorce at the office of a Kadi;
 
 [Act 33 of 2017 wef 01/10/2017]
 
-(b) furnish such particulars as are required by the Kadi for the due registration of such marriage or revocation of divorce; and
+[Act 33 of 2017 wef 22/10/2018]
 
-(c) apply in the prescribed form for the registration of such marriage or revocation of divorce.
+(b) furnish such particulars as are required by the Kadi for the due registration of such revocation of divorce; and
+
+[Act 33 of 2017 wef 22/10/2018]
+
+(c) apply in the prescribed form for the registration of such revocation of divorce.
 
 [29/2008]
+
+[Act 33 of 2017 wef 22/10/2018]
 
 (3) A Kadi shall not register any revocation of divorce unless he is satisfied after inquiry that the parties have consented to the registration thereof.
 
@@ -2590,13 +2828,15 @@ Place of marriage
 
 ### Signing of register and inquiry by Kadi
 
-103\.—(1) Where a marriage has been solemnized by a Kadi or Naib Kadi, the Kadi or Naib Kadi shall register the marriage by entering the particulars thereof in the Register of Marriages and also in the certificate of marriage.
+103\.—(1) Where a marriage has been solemnized by a Kadi or Naib Kadi, or by the wali of the woman to be wedded in the presence of a Kadi or Naib Kadi, the Kadi or Naib Kadi shall register the marriage by entering the particulars thereof in the Register of Marriages and also in the certificate of marriage.
 
 [Act 33 of 2017 wef 01/10/2017]
 
-(2) Subject to section 102, a Kadi may, at any time within 7 days of a marriage which has not already been registered under subsection (1) or of a revocation of divorce, register the marriage or revocation of divorce by entering the particulars thereof in the appropriate register and also in the certificate of marriage or certificate of revocation of divorce (as the case may be) attached to the register.
+[Act 33 of 2017 wef 22/10/2018]
 
-[29/2008]
+(2) Subject to section 102, a Kadi may, at any time within 7 days after a revocation of divorce, register the revocation of divorce by entering the particulars of the revocation of divorce in the Register of Revocation of Divorces and in the certificate of revocation of divorce.
+
+[Act 33 of 2017 wef 22/10/2018]
 
 (3) The entry shall be signed by the Kadi or Naib Kadi and by such of the parties and by such number of witnesses as are prescribed.
 
@@ -2634,11 +2874,13 @@ Place of marriage
 
 [Act 33 of 2017 wef 01/10/2017]
 
-### Extended time for registration of marriage or revocation of divorce
+### Extended time for registration of revocation of divorce
 
-107\. Any marriage or revocation of divorce which has not been registered within the time prescribed by section 102 may, with the consent in writing of the Registrar, and subject to section 102(3) and (4) be registered by a Kadi within 3 months from the date of such marriage or revocation of divorce.
+107\. Any revocation of divorce which has not been registered within the time prescribed by section 102 may, with the consent in writing of the Registrar, and subject to section 102(3) and (4) be registered by a Kadi within 3 months from the date of such revocation of divorce.
 
 [29/2008]
+
+[Act 33 of 2017 wef 22/10/2018]
 
 ### Copy of entry to be given to parties
 
@@ -2964,7 +3206,17 @@ MISCELLANEOUS
 
 (a) regulating and prescribing the procedure and practice of the Syariah Court and the Appeal Board, including the manner of service of summons;
 
-(b) prescribing what part of the business which may be transacted and of the jurisdiction and powers which may be exercised by a president of the Syariah Court may be transacted or exercised by the registrar of the Syariah Court (including provisions for and concerning appeals from decisions of the registrar of the Syariah Court); and
+(b) prescribing the jurisdiction, powers and duties of the registrar of the Syariah Court mentioned in section 34B(2)(b);
+
+[Act 33 of 2017 wef 22/10/2018]
+
+(ba) providing for any matter concerning an appeal from a decision of the registrar of the Syariah Court;
+
+[Act 33 of 2017 wef 22/10/2018]
+
+(bb) providing for the appointment of a child representative to represent the interests of a child in any proceedings involving the child, or the custody and welfare of the child, and for the remuneration of the child representative; and
+
+[Act 33 of 2017 wef 22/10/2018]
 
 (c) prescribing the fees to be charged by the Syariah Court, the Appeal Board, and by the Registrar, Kadis and Naib Kadis and the incidence and application of such fees.
 
@@ -3145,6 +3397,105 @@ $26
 
 [S 144/2016 wef 01/06/2016]
 
+FOURTH SCHEDULE
+
+Section 94B
+
+Consents required for marriage of minor
+
+Part 1
+
+WHERE MINOR IS LEGITIMATE
+
+Circumstances
+
+Person or persons
+whose consent is required
+
+1.
+
+Where both parents are living:
+
+(a)
+
+if parents are living together
+
+both parents;
+
+(b)
+
+if parents are divorced or separated by order of court or by agreement
+
+(i)
+
+the parent to whom the custody of the minor is committed by order of any court or by the agreement; or
+
+(ii)
+
+if the custody of the minor is so committed to both parents, or to one parent during part of the year and to the other parent during the rest of the year, both parents;
+
+(c)
+
+if one parent has been deserted by the other
+
+the parent who has been deserted;
+
+(d)
+
+if both parents have been deprived of custody of the minor by order of court
+
+the person to whose custody the minor is committed by order of court.
+
+2.
+
+Where one parent is dead:
+
+(a)
+
+if there is no other guardian
+
+the surviving parent;
+
+(b)
+
+if a guardian has been appointed by the deceased parent
+
+(i)
+
+the surviving parent and the guardian, if acting jointly; or
+
+(ii)
+
+the surviving parent or the guardian, if the parent or guardian is the sole guardian of the minor.
+
+3.
+
+Where both parents are dead
+
+the guardian or guardians appointed by the deceased parents, or by the court, under the Guardianship of Infants Act (Cap. 122).
+
+Part 2
+
+WHERE MINOR IS ILLEGITIMATE
+
+Circumstances
+
+Person whose consent is required
+
+1.
+
+If the mother of the minor is alive
+
+the mother or, if she has by order of court been deprived of the custody of the minor, the person to whom the custody of the minor has been committed by order of court.
+
+2.
+
+If the mother of the minor is dead
+
+the guardian appointed by the mother, or by the court, under the Guardianship of Infants Act.
+
+[Act 33 of 2017 wef 22/10/2018]
+
 ## LEGISLATIVE HISTORY
 
 Administration of Muslim Law Act
@@ -3271,19 +3622,17 @@ This Legislative History is provided for the convenience of users of the Adminis
 ||Date of commencement|1 January 2015|
 |25.|**G.N. No. S 144/2016—Administration of Muslim Law Act (Variation of Schedule) Notification 2016**|
 ||Date of commencement|1 June 2016|
-|26.|**Act 33 of 2017—Administration of Muslim Law (Amendment) Act 2017**|
-||Date of First Reading|3 July 2017 (Bill No. 27/2017 published on 3 July 2017)|
-||Date of Second and Third Readings|1 August 2017|
-||Date of commencement|1 October 2017|
-|27.|**Act 33 of 2017—Administration of Muslim Law (Amendment) Act 2017**|
-||Date of First Reading|3 July 2017 (Bill No. 27/2017 published on 3 July 2017)|
-||Date of Second and Third Readings|1 August 2017|
-||Date of commencement|1 January 2018|
-|28.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+|26.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
 ||Date of First Reading|6 November 2017|
 |||(Bill No. 45/2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|27.|**Act 33 of 2017—Administration of Muslim Law (Amendment) Act 2017**|
+||Date of First Reading|3 July 2017 (Bill No. 27/2017 published on 3 July 2017)|
+||Date of Second and Third Readings|1 August 2017|
+||Date of commencement|1 October 2017|
+|||1 January 2018|
+|||22 October 2018|
 ## COMPARATIVE TABLE
 
 Administration of Muslim Law Act
