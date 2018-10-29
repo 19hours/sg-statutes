@@ -292,31 +292,11 @@
 
 - [49FD Documents to be filed when scheme confirmed](#Documents-to-be-filed-when-scheme-confirmed)
 
-[**Division 2  Compulsory transfer of business**](#Division-2--Compulsory-transfer-of-business)
+[**Division 2  Repealed**](#Division-2--Repealed)
 
-- [49FE Interpretation of this Division](#Interpretation-of-this-Division)
+[**Division 3  Repealed**](#Division-3--Repealed)
 
-- [49FF Compulsory transfer of business](#Compulsory-transfer-of-business)
-
-- [49FG Certificate of transfer](#Certificate-of-transfer)
-
-- [49FH Moratorium, avoidance of disposition of property, etc.](#Moratorium-avoidance-of-disposition-of-property-etc)
-
-[**Division 3  Compulsory transfer of shares**](#Division-3--Compulsory-transfer-of-shares)
-
-- [49FI Interpretation of this Division](#Interpretation-of-this-Division)
-
-- [49FJ Compulsory transfer of shares](#Compulsory-transfer-of-shares)
-
-- [49FK Certificate of transfer](#Certificate-of-transfer)
-
-[**Division 4  Power to restructure capital**](#Division-4--Power-to-restructure-capital)
-
-- [49FL Interpretation of this Division](#Interpretation-of-this-Division)
-
-- [49FM Compulsory restructure of capital](#Compulsory-restructure-of-capital)
-
-- [49FN Certificate of restructuring](#Certificate-of-restructuring)
+[**Division 4  Repealed**](#Division-4--Repealed)
 
 [**Division 5  Winding up**](#Division-5--Winding-up)
 
@@ -330,11 +310,11 @@
 
 [**Division 6  Miscellaneous**](#Division-6--Miscellaneous)
 
-- [49FS Modification of law of insolvency](#Modification-of-law-of-insolvency)
+- [49FS (Repealed)](#Repealed)
 
 - [49FT Power to obtain information under this Part](#Power-to-obtain-information-under-this-Part)
 
-- [49FU Cessation of moratorium, etc., under this Part](#Cessation-of-moratorium-etc-under-this-Part)
+- [49FU (Repealed)](#Repealed)
 
 - [49FV Recovery of fees, expenses, etc.](#Recovery-of-fees-expenses-etc)
 
@@ -4768,763 +4748,17 @@ Voluntary transfer of business
 
 [Act 11 of 2013 wef 18/04/2013]
 
-Division 2 —
+Division 2
 
-Compulsory transfer of business
+[Repealed by Act 31 of 2017 wef 29/10/2018]
 
-### Interpretation of this Division
+Division 3
 
-49FE\. In this Division, unless the context otherwise requires —
+[Repealed by Act 31 of 2017 wef 29/10/2018]
 
-“business” includes affairs, property, right, obligation and liability;
+Division 4
 
-“certificate” means a certificate of transfer issued by the Minister under section 49FG(1);
-
-“debenture” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
-
-“determination” means a determination of the Authority under section 49FF(1);
-
-“property” includes property, right and power of every description;
-
-“specified business” means that part of the business of a transferor which is specified or identified in a certificate;
-
-“transferee” means a licensed insurer, a company or a co-operative society which has applied for or will be applying for a licence to carry on the relevant class or classes of business to be transferred in Singapore, as the case may be, to which the whole or part of a transferor’s business is, or is to be, or is proposed to be, transferred under this Division;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-“transferor” means a licensed insurer, the whole or part of the business of which is, or is to be, or is proposed to be, transferred under this Division.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-### Compulsory transfer of business
-
-49FF\.—(1) Subject to subsections (2), (3) and (7), the Authority may make a determination that the whole or any part of the business of a transferor (including its non-insurance business) shall be transferred to a transferee which is licensed to carry on the relevant class or classes of insurance business to be transferred in Singapore if —
-
-(a) any ground exists under section 41(1) for the Authority to exercise any power under section 41(2) in relation to the transferor, whether or not the Authority has exercised the power;
-
-(b) the board of directors of the transferee has consented to the transfer;
-
-(c) the Authority is satisfied that the transfer is appropriate, having regard to —
-
-(i) the interests of the policy owners of the transferor given priority and the order of priority of each class of policy owners under section 49FR;
-
-(ii) the interests of the policy owners of the transferee given priority and the order of priority of each class of policy owners under section 49FR;
-
-(iii) the stability of the financial system in Singapore;
-
-(iv) whether the PPF Agency has to make a payout from any of the PPF Funds to the transferee and the amount of such payout, if any; and
-
-(v) any other matter that the Authority considers relevant; and
-
-(d) the transfer involves the whole or part of the insurance business of the transferor.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(2) Any determination made by the Authority for the purpose of subsection (1) may include a determination as to whether guaranteed policy moneys in relation to any policy should be adjusted after the proposed transfer.
-
-[16/2011 wef 01/05/2011]
-
-(3) Where the transferor is a licensed insurer incorporated or established outside Singapore, any determination shall only be in respect of the transferor’s business (or any part thereof) which is reflected in the books of the transferor in Singapore in relation to the transferor’s operations in Singapore and the reference to policy owners in subsection (1)(c)(i) shall be construed accordingly.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(4) The Authority may, before making a determination, appoint one or more persons to perform an independent assessment of the proposed transfer of the business (or any part thereof) of the transferor for the purpose of providing a report on the transfer to the Authority, including an assessment —
-
-(a) as to the compensation, if any, that should be paid by the transferee; and
-
-(b) as to whether guaranteed policy moneys in relation to any policy should be adjusted after the proposed transfer.
-
-[16/2011 wef 01/05/2011]
-
-(5) The remuneration and expenses of a person appointed under subsection (4) shall be borne by the transferor.
-
-[16/2011 wef 01/05/2011]
-
-(6) The Authority shall serve a copy of any report furnished under subsection (4) on the transferor and the transferee.
-
-[16/2011 wef 01/05/2011]
-
-(7) A determination may provide for the transfer of the business (or any part thereof) of the transferor to a transferee who is not licensed to carry on the relevant class or classes of insurance business in Singapore on terms that the transfer is to take effect only in the event of the transferee becoming so licensed.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(8) Upon making a determination, the Authority shall submit the determination to the Minister for his approval.
-
-[16/2011 wef 01/05/2011]
-
-(9) Before approving the determination, the Minister shall, unless he decides that it is not practicable or desirable to do so —
-
-(a) publish in theGazetteand in such newspaper or newspapers as the Minister may determine a notice of his intention to approve the determination, specifying such particulars as the Minister considers appropriate; and
-
-(b) cause to be given to the transferor notice in writing of his intention to approve the determination, specifying such particulars as the Minister considers appropriate and the date by which the transferor may make written representations to the Minister.
-
-[16/2011 wef 01/05/2011]
-
-(10) In determining the period within which written representations have to be made under subsection (9), the Minister shall take into account the need for the transfer to be effected expeditiously in the interest of the stability of the financial system in Singapore.
-
-[16/2011 wef 01/05/2011]
-
-(11) Upon receipt of any written representation, the Minister shall consider the representation for the purpose of deciding whether to approve the determination.
-
-[16/2011 wef 01/05/2011]
-
-(12) Where the transferor is a licensed insurer established or incorporated in Singapore, the Minister shall not approve the determination unless he is satisfied that it is in the public interest to do so.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(13) The Minister may —
-
-(a) approve the determination without modification;
-
-(b) approve the determination subject to any modification he considers appropriate if the transferee, or where the transferee is a corporation, its board of directors of the transferee has agreed to the modification; or
-
-(c) refuse to approve the determination.
-
-[16/2011 wef 01/05/2011]
-
-(14) An approval under subsection (13) shall be subject to such conditions as the Minister may determine and the Minister may add to, vary or revoke any such conditions.
-
-[16/2011 wef 01/05/2011]
-
-(15) The transferor or transferee, as the case may be, shall comply with the conditions referred to in subsection (14).
-
-[16/2011 wef 01/05/2011]
-
-(16) A determination, the approval of a determination under this section or the issue of a certificate shall not preclude the exercise of any other power by the Authority or the Minister under this Act.
-
-[16/2011 wef 01/05/2011]
-
-### Certificate of transfer
-
-49FG\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of transfer which shall come into effect on the date specified by the Minister in the certificate.
-
-[16/2011 wef 01/05/2011]
-
-(2) The certificate shall specify such information as may be prescribed.
-
-[16/2011 wef 01/05/2011]
-
-(3) The certificate may make provision for all or any of the following matters:
-
-(a) the transfer to the transferee of the whole or any part of the business of the transferor;
-
-(b) whether guaranteed policy moneys in relation to any policy should be adjusted after the proposed transfer;
-
-(c) the allotment or appropriation by the transferee of any share, debenture, policy or other interest in the transferee which under the transfer is to be allotted or appropriated by the transferee to or for any person;
-
-(d) any property which is held by the transferor as trustee;
-
-(e) any future or contingent right or liability of the transferor;
-
-(f) the coming into effect of the transfer of any specified business on a date other than the date on which the certificate comes into effect;
-
-(g) the compensation, if any, to be paid by the transferee to the transferor and the period within which the compensation is to be paid;
-
-(h) such incidental, consequential and supplementary matters as are, in the Minister’s opinion, necessary to secure that the transfer is fully effective, including conditions relating to the transfer.
-
-[16/2011 wef 01/05/2011]
-
-(4) The Minister may at any time before the certificate comes into effect add to, vary or revoke any matter specified in the certificate.
-
-[16/2011 wef 01/05/2011]
-
-(5) The Authority shall cause the certificate and any addition, variation or revocation referred to in subsection (4) to be served on the transferor and the transferee and published in theGazetteand in such newspaper or newspapers as the Minister may determine, on or before the date on which the certificate comes into effect.
-
-[16/2011 wef 01/05/2011]
-
-(6) Subject to subsection (7), unless otherwise specified in the certificate, the transfer of the business (or any part thereof) of the transferor under the certificate shall take effect on the date on which the certificate comes into effect.
-
-[16/2011 wef 01/05/2011]
-
-(7) Where the transferee is not licensed to carry on insurance business or the relevant class of business in Singapore, the transfer of the business (or any part thereof) of the transferor shall not come into effect unless the transferee becomes so licensed.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(8) Notwithstanding any written law or rule or law, upon the date on which the transfer of the business (or any part thereof) of the transferor comes into effect under the certificate —
-
-(a) subject to subsection (10), the business (or any part thereof) shall be transferred to and vest in the transferee without other or further assurance, act or deed and the certificate shall have effect according to its tenor and be binding on any person thereby affected;
-
-(b) all deeds, bonds, agreements and other arrangements subsisting immediately before that date which relate to the business (or any part thereof), and to which the transferor is a party shall, taking into account the adjustments as may be specified in the certificate to be made to guaranteed policy moneys payable under such agreements or arrangements, continue in full force and effect, and shall be enforceable by or against the transferee, as from that date as if the transferee had been named therein or had been a party thereto instead of the transferor; and
-
-(c) any proceedings or cause of action, by or against the transferor, pending or existing immediately before that date and relating to the business (or any part thereof) may be continued and shall be enforced by or against the transferee as from that date.
-
-[16/2011 wef 01/05/2011]
-
-(9) For the avoidance of doubt —
-
-(a) the business (or any part thereof) of the transferor shall be transferred to and vest in the transferee in accordance with subsection (8) notwithstanding any incapacity of the transferor; and
-
-(b) where guaranteed policy moneys under a policy has been adjusted (hereafter referred to as adjusted guaranteed policy moneys), the policy owner or claimant shall continue to have recourse against the transferor for the difference between the original guaranteed policy moneys and the adjusted guaranteed policy moneys.
-
-[16/2011 wef 01/05/2011]
-
-(10) The certificate shall not have any effect or operation in transferring or otherwise vesting land in Singapore until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.
-
-[16/2011 wef 01/05/2011]
-
-(11) Section 259 of the Companies Act (Cap. 50) shall not apply to the transfer of any property under the certificate.
-
-[16/2011 wef 01/05/2011]
-
-(12) If any specified business is governed by the law of any foreign country, the certificate may require the transferor, if the transferee so requires, to take all necessary steps for securing that the transfer of the specified business to the transferee is fully effective under the law of that country.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(13) The transferee and the transferor shall each lodge, within 7 days after being served with the certificate —
-
-(a) a copy of the certificate with the Registrar of Companies or, in the case of co-operative societies, with the Registrar of Co-operative Societies; and
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(b) where the certificate relates to land in Singapore, an office copy of the certificate with the appropriate authority concerned for the registration or recording of dealings in that land.
-
-[16/2011 wef 01/05/2011]
-
-(14) A transferor or a transferee which fails to comply with any provision in the certificate shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(15) A transferor which fails to comply with subsection (12) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(16) A transferor or a transferee which fails to comply with subsection (13) and every officer of the transferor or the transferee who fails to take all reasonable steps to secure compliance by the transferor or the transferee, as the case may be, with that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
-
-[16/2011 wef 01/05/2011]
-
-### Moratorium, avoidance of disposition of property, etc.
-
-49FH\.—(1) Notwithstanding section 41E and subject to section 49FQ, no resolution shall be passed, and no order shall be made, for the winding up of a transferor during the period —
-
-(a) beginning on —
-
-(i) the date on which the Minister publishes the notice under section 49FF(9) in theGazetteon the transfer of the business (or any part thereof) of the transferor; or
-
-(ii) where the notice is not published in theGazette, the date on which the Authority publishes the certificate under section 49FG(5) in theGazetteon the transfer of the business (or any part thereof) of the transferor; and
-
-(b) ending on —
-
-(i) the date on which the certificate comes into effect; or
-
-(ii) where the certificate specifies a different date for the coming into effect of the transfer of any specified business, the last date on which the transfer of every specified business has come into effect.
-
-[16/2011 wef 01/05/2011]
-
-(2) Notwithstanding section 41E and subject to section 49FU, during the period beginning with the date on which the Minister publishes the notice under section 49FF(9) in theGazetteon the transfer of a specified business of the transferor or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under section 49FG(5) in theGazetteon the transfer of the specified business and ending with the date on which the transfer of the specified business comes into effect —
-
-(a) no proceedings shall be commenced or continued against the transferor in respect of the specified business;
-
-(b) no execution, distress or other legal process shall be commenced, levied or continued against the specified business;
-
-(c) no steps shall be taken to enforce any security over the specified business or repossess from the transferor the specified business under any hire-purchase agreement, chattels leasing agreement or retention of title agreement; and
-
-(d) any sale, transfer, assignment or other disposition of the specified business shall be void, except for any payment of claims to policy owners or claimants (other than policy owners who are related corporations of the transferor).
-
-[16/2011 wef 01/05/2011]
-
-Division 3 —
-
-Compulsory transfer of shares
-
-### Interpretation of this Division
-
-49FI\.—(1) In this Division, unless the context otherwise requires —
-
-“business” includes affairs, property, right, obligation and liability;
-
-“certificate” means a certificate of transfer issued by the Minister under section 49FK(1);
-
-“determination” means a determination of the Authority under section 49FJ(1);
-
-“effective controller” means a person who has effective control as defined in section 28(7);
-
-[Act 11 of 2013 wef 18/04/2013]
-
-“property” includes property, right and power of every description;
-
-“transferee” means a person to whom a transferor’s shares are, or are to be, or are proposed to be, transferred under this Division;
-
-“transferor” means a shareholder of a licensed insurer incorporated in Singapore, whose shares in the licensed insurer are, or are to be, or are proposed to be, transferred under this Division.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(2) This Division shall not apply to a licensed insurer which is a co-operative society.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-### Compulsory transfer of shares
-
-49FJ\.—(1) The Authority may make a determination that all or any of the shares held by a transferor in a licensed insurer incorporated in Singapore shall be transferred to a transferee if —
-
-(a) any ground exists under section 41(1) for the Authority to exercise any power under section 41(2) in relation to the licensed insurer, whether or not the Authority has exercised the power;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(b) the transferee or, where the transferee is a corporation, its board of directors has consented to the transfer; and
-
-(c) the Authority is satisfied that the transfer is appropriate, having regard to —
-
-(i) the interests of the policy owners of the licensed insurer given priority and the order of priority of each class of its policy owners under section 49FR;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(ii) where the transferee is a licensed insurer in Singapore, the interests of the policy owners of the transferee given priority and the order of priority of each class of its policy owners under section 49FR;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(iii) the stability of the financial system in Singapore;
-
-(iv) whether the PPF Agency has to make a payout from any of the PPF Funds to the transferee and the amount of such payout, if any; and
-
-(v) any other matter that the Authority considers relevant.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(2) The Authority may, before making a determination, appoint one or more persons to perform an independent assessment of the proposed transfer of shares, including the compensation, if any, that should be paid by the transferee, and furnish a report on the transfer.
-
-[16/2011 wef 01/05/2011]
-
-(3) The remuneration and expenses of a person appointed under subsection (2) shall be borne by the licensed insurer.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(4) The Authority shall serve a copy of any report furnished under subsection (2) on the transferor and the transferee.
-
-[16/2011 wef 01/05/2011]
-
-(5) Upon making a determination, the Authority shall submit the determination to the Minister for his approval.
-
-[16/2011 wef 01/05/2011]
-
-(6) Before approving the determination, the Minister shall, unless he decides that it is not practicable or desirable to do so, cause to be given to the transferor notice of his intention to approve the determination by publication in theGazetteand in such newspaper or newspapers as the Minister may determine, specifying such particulars as the Minister considers appropriate and the date by which the transferor may make written representations to the Minister.
-
-[16/2011 wef 01/05/2011]
-
-(7) In determining the period within which written representations have to be made under subsection (6), the Minister shall take into account the need for the transfer to be effected expeditiously in the interest of the stability of the financial system in Singapore.
-
-[16/2011 wef 01/05/2011]
-
-(8) Upon receipt of any written representation, the Minister shall consider the representation for the purpose of deciding whether to approve the determination.
-
-[16/2011 wef 01/05/2011]
-
-(9) Where the determination, if approved, will result in the transferee becoming a substantial shareholder or an effective controller of the licensed insurer, the Minister shall not approve the determination unless —
-
-(a) the Authority is satisfied that —
-
-(i) the transferee is a fit and proper person; and
-
-(ii) having regard to the likely influence of the transferee, the licensed insurer will or will continue to conduct its business prudently and comply with the provisions of this Act; and
-
-(b) the Minister is satisfied that it is in the public interest to do so.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(10) The Minister may —
-
-(a) approve the determination without modification;
-
-(b) approve the determination subject to any modification he considers appropriate if the transferee or, where the transferee is a corporation, its board of directors has agreed to the modification; or
-
-(c) refuse to approve the determination.
-
-[16/2011 wef 01/05/2011]
-
-(11) Any approval under subsection (10) shall be subject to such conditions as the Minister may determine and the Minister may add to, vary or revoke any such conditions.
-
-[16/2011 wef 01/05/2011]
-
-(12) The transferor or transferee, as the case may be, shall comply with the conditions referred to in subsection (11).
-
-[16/2011 wef 01/05/2011]
-
-(13) A determination, the approval of a determination under this section or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act.
-
-[16/2011 wef 01/05/2011]
-
-### Certificate of transfer
-
-49FK\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of transfer which shall come into effect on the date specified by the Minister in the certificate.
-
-[16/2011 wef 01/05/2011]
-
-(2) The certificate shall specify such information as may be prescribed.
-
-[16/2011 wef 01/05/2011]
-
-(3) The certificate may make provision for all or any of the following matters:
-
-(a) the transfer to the transferee of all or any of the shares of the transferor;
-
-(b) any share which is held by the transferor as trustee;
-
-(c) the compensation, if any, to be paid by the transferee to the transferor and the period within which the compensation is to be paid;
-
-(d) such incidental, consequential and supplementary matters as are, in the Minister’s opinion, necessary to secure that the transfer is fully effective, including conditions relating to the transfer.
-
-[16/2011 wef 01/05/2011]
-
-(4) The Minister may at any time before the certificate comes into effect add to, vary or revoke any matter specified in the certificate.
-
-[16/2011 wef 01/05/2011]
-
-(5) The Authority shall cause the certificate and any addition, variation or revocation referred to in subsection (4), to be served on the licensed insurer and published in theGazetteand in such newspaper or newspapers as the Minister may determine, on or before the date on which the certificate comes into effect.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(6) Notwithstanding any written law or rule of law, upon the certificate coming into effect, any share of the transferor that is to be transferred under the certificate shall be transferred to and vest in the transferee, free from any claim or encumbrance, without other or further assurance, act or deed; and the certificate shall have effect according to its tenor and be binding on any person thereby affected.
-
-[16/2011 wef 01/05/2011]
-
-(7) For the avoidance of doubt, the shares of the transferor shall be transferred to and vest in the transferee in accordance with subsection (6) notwithstanding the death or dissolution, or the bankruptcy or winding up, or the mental or other incapacity, of the transferor.
-
-[16/2011 wef 01/05/2011]
-
-(8) Section 259 of the Companies Act (Cap. 50) shall not apply to the transfer of any share under the certificate.
-
-[16/2011 wef 01/05/2011]
-
-(9) Where the transfer of shares under the certificate results in the transferee becoming a substantial shareholder or an effective controller of the licensed insurer, the transferee shall, upon the coming into effect of the certificate —
-
-(a) be deemed to have obtained the approval of the Authority under section 28 or 29, as the case may be, in respect of the shares; and
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(b) not be required to make a take-over offer or be required to acquire the shares of the other shareholders of the licensed insurer notwithstanding the provisions of the Companies Act (Cap. 50) or the Take-over Code.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(10) A transferor or a transferee who contravenes any provision in the certificate shall be guilty of an offence and shall be liable on conviction —
-
-(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; and
-
-(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(11) Where a person is charged with an offence under subsection (10), it shall be a defence for the person to prove that —
-
-(a) he was not aware he had contravened any provision in the certificate; and
-
-(b) he has complied with the provision within a reasonable time after becoming aware of the contravention.
-
-[16/2011 wef 01/05/2011]
-
-(12) Except as provided in subsection (11), it shall not be a defence for a person charged with an offence under subsection (10) that he did not intend to or did not knowingly contravene any provision in the certificate.
-
-[16/2011 wef 01/05/2011]
-
-(13) Notwithstanding section 41E and subject to section 49FU, during the period beginning with the date on which the Minister publishes the notice under section 49FJ(6) in theGazetteon the transfer of any share in a licensed insurer or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under subsection (5) in theGazetteon the transfer of the share and ending with the date on which the transfer of the share comes into effect —
-
-(a) no execution or other legal process shall be commenced or continued against the share;
-
-(b) no steps shall be taken to enforce any security over the share;
-
-(c) any sale, transfer, assignment or other disposition of the share shall be void;
-
-(d) no voting rights shall be exercisable in respect of the share unless the Minister expressly permits such rights to be exercised;
-
-(e) no shares in the licensed insurer shall be issued or offered (whether by way of rights, bonus or otherwise) in respect of the share unless the Minister expressly permits such issue or offer;
-
-(f) no payment shall be made by the licensed insurer of any amount (whether by dividends or otherwise) in respect of the share unless the Minister expressly authorises such payment;
-
-(g) no resolution shall be passed, and no order shall be made, for the winding up of the licensed insurer;
-
-(h) no proceedings shall be commenced or continued against the licensed insurer in respect of any business of the licensed insurer;
-
-(i) no execution, distress or other legal process shall be commenced, levied or continued against any property of the licensed insurer;
-
-(j) no steps shall be taken to enforce any security over any property of the licensed insurer; and
-
-(k) any sale, transfer, assignment or other disposition of any property of the licensed insurer shall be void except for any payment of claims to policy owners or claimants (other than policy owners who are related corporations of the licensed insurer).
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-Division 4 —
-
-Power to restructure capital
-
-### Interpretation of this Division
-
-49FL\. In this Division, unless the context otherwise requires —
-
-“business” includes affairs, property, right, obligation and liability;
-
-“certificate” means a certificate of restructuring issued by the Minister under section 49FN(1);
-
-“determination” means a determination of the Authority under section 49FM(1) or (2);
-
-“effective controller” means a person who has effective control as defined in section 28(7);
-
-[Act 11 of 2013 wef 18/04/2013]
-
-“property” includes property, right and power of every description;
-
-“subscriber” means any person to whom shares in a licensed insurer incorporated in Singapore are, or are to be, or are proposed to be, issued under this Division.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-### Compulsory restructure of capital
-
-49FM\.—(1) If any ground exists under section 41(1) for the Authority to exercise any power under section 41(2) in relation to a licensed insurer incorporated or established in Singapore, whether or not the Authority has exercised the power, and the Authority is of the opinion that —
-
-(a) the liability on any of the shares of the licensed insurer in respect of share capital not paid up ought to be extinguished or reduced; or
-
-(b) any paid-up share capital of the licensed insurer is lost or unrepresented by the available assets of the licensed insurer,
-
-the Authority may make a determination that the share capital of the licensed insurer shall be reduced by the cancellation of the whole or any part of its share capital not paid up, or of its paid-up share capital which is lost or unrepresented by its available assets.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(2) The Authority may, in writing, make a determination that shares shall be issued by a licensed insurer incorporated in Singapore to a subscriber if —
-
-(a) any ground exists under section 41(1) for the Authority to exercise any power under section 41(2) in relation to the licensed insurer, whether or not the Authority has exercised the power;
-
-(b) the subscriber or, where the subscriber is a corporation, its board of directors has consented to subscribe for the shares; and
-
-(c) the Authority is satisfied that the issue of shares is appropriate, having regard to —
-
-(i) the interests of the policy owners of the licensed insurer given priority and the order of priority of each class of its policy owners under section 49FR;
-
-(ii) where the subscriber is a licensed insurer in Singapore, the interests of policy owners of the subscriber given priority and the order of priority of each class of its policy owners under section 49FR;
-
-(iii) the stability of the financial system in Singapore; and
-
-(iv) any other matter that the Authority considers relevant.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(3) The Authority may, before making a determination, appoint one or more persons to perform an independent assessment of the value of the assets of the licensed insurer and, in the case of a determination under subsection (2), the consideration, if any, that should be paid by the subscriber, and furnish a report on the restructuring.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(4) The remuneration and expenses of a person appointed under subsection (3) shall be borne by the licensed insurer.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(5) The Authority shall serve a copy of any report furnished under subsection (3) on the licensed insurer and, where the report is in relation to a determination to be made under subsection (2), on the subscriber.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(6) Upon making a determination, the Authority shall submit the determination to the Minister for his approval.
-
-[16/2011 wef 01/05/2011]
-
-(7) Before approving the determination, the Minister shall, unless he decides that it is not practicable or desirable to do so —
-
-(a) publish in theGazetteand in such newspaper or newspapers as may be determined by the Minister a notice of his intention to approve the determination, specifying such particulars as the Minister considers appropriate and the date by which any shareholder of the licensed insurer may make written representations to the Minister; and
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(b) cause to be given to the licensed insurer notice in writing of his intention to approve the determination, specifying such particulars as the Minister considers appropriate and the date by which the licensed insurer may make written representations to the Minister.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(8) In determining the period within which written representations have to be made under subsection (7), the Minister shall take into account the need for the restructuring to be effected expeditiously in the interest of the stability of the financial system in Singapore.
-
-[16/2011 wef 01/05/2011]
-
-(9) Upon receipt of any written representation, the Minister shall consider the representation for the purpose of deciding whether to approve the determination.
-
-[16/2011 wef 01/05/2011]
-
-(10) Where the determination under subsection (2), if approved, will result in the subscriber becoming a substantial shareholder or an effective controller of the licensed insurer, the Minister shall not approve the determination unless —
-
-(a) the Authority is satisfied that —
-
-(i) the subscriber is a fit and proper person; and
-
-(ii) having regard to the likely influence of the subscriber, the licensed insurer will or will continue to conduct its business prudently and comply with the provisions of this Act; and
-
-(b) the Minister is satisfied that it is in the public interest to do so.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(11) The Minister may —
-
-(a) approve the determination without modification;
-
-(b) approve the determination subject to any modification he considers appropriate if the subscriber or, where the subscriber is a corporation, its board of directors has agreed to the modification; or
-
-(c) refuse to approve the determination.
-
-[16/2011 wef 01/05/2011]
-
-(12) Any approval under subsection (11) shall be subject to such conditions as the Minister may determine and the Minister may add to, vary or revoke any such conditions.
-
-[16/2011 wef 01/05/2011]
-
-(13) The licensed insurer or subscriber, as the case may be, shall comply with the conditions referred to in subsection (12).
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(14) A determination, the approval of a determination under this section or the issue of a certificate shall not preclude the Authority or the Minister from exercising any power under this Act.
-
-[16/2011 wef 01/05/2011]
-
-### Certificate of restructuring
-
-49FN\.—(1) If the Minister approves a determination, he shall, as soon as practicable, issue a certificate of restructuring which shall come into effect on the date specified by the Minister in the certificate.
-
-[16/2011 wef 01/05/2011]
-
-(2) The certificate shall specify such information as may be prescribed.
-
-[16/2011 wef 01/05/2011]
-
-(3) The certificate may make provision for all or any of the following matters:
-
-(a) the cancellation of the whole or any part of the share capital of the licensed insurer not paid up;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(b) the cancellation of the whole or any part of the paid-up share capital of the licensed insurer lost or unrepresented by the available assets of the licensed insurer;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(c) the shares to be issued by the licensed insurer to the subscriber, the compensation, if any, to be paid by the subscriber for the shares and the period within which the compensation is to be paid;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(d) such incidental, consequential and supplementary matters as are, in the Minister’s opinion, necessary to secure that the restructuring is fully effective, including conditions relating to the restructuring.
-
-[16/2011 wef 01/05/2011]
-
-(4) The Minister may at any time before the certificate comes into effect add to, vary or revoke any matter specified in the certificate.
-
-(5) The Authority shall cause the certificate and any addition, variation or revocation referred to in subsection (4) to be served on the licensed insurer and published in theGazetteand in such newspaper or newspapers as the Minister may determine, on or before the date on which the certificate comes into effect.
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(6) Notwithstanding any written law or rule of law (including anything in the memorandum or articles of association of the licensed insurer) —
-
-(a) where the certificate provides for a reduction of the share capital of the licensed insurer, upon the certificate coming into effect, the reduction of the share capital shall take effect and the certificate shall have effect according to its tenor without other or further act by the licensed insurer and be binding on any person thereby affected; and
-
-(b) where the certificate provides for the issue of shares by the licensed insurer, the licensed insurer shall issue the shares in accordance with the certificate and the certificate shall have effect according to its tenor and be binding on any person thereby affected.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(7) Where the issue of shares under the certificate results in the subscriber becoming a substantial shareholder or an effective controller of the licensed insurer, the subscriber shall, upon the coming into effect of the certificate —
-
-(a) be deemed to have obtained the approval of the Authority under section 28 or 29, as the case may be, in respect of the shares; and
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(b) not be required to make a take-over offer or be required to acquire the shares of the other shareholders of the licensed insurer notwithstanding the provisions of the Companies Act (Cap. 50) or the Take-over Code.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(8) The licensed insurer shall lodge a copy of the certificate with the Registrar of Companies within 7 days after being served with the certificate.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(9) A licensed insurer or a subscriber which contravenes any provision in the certificate shall be guilty of an offence and shall be liable on conviction —
-
-(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; and
-
-(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction.
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(10) Where a subscriber is charged with an offence under subsection (9), it shall be a defence for the subscriber to prove that —
-
-(a) he was not aware he had contravened any provision in the certificate; and
-
-(b) he has complied with the provision within a reasonable time after becoming aware of the contravention.
-
-[16/2011 wef 01/05/2011]
-
-(11) Except as provided in subsection (10), it shall not be a defence for a subscriber charged with an offence under subsection (9) that he did not intend to or did not knowingly contravene any provision in the certificate.
-
-[16/2011 wef 01/05/2011]
-
-(12) Any licensed insurer which fails to comply with subsection (8) and every officer of the licensed insurer who fails to take all reasonable steps to secure compliance by the licensed insurer with that subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $200 for every day or part thereof during which the offence continues after conviction.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(13) Notwithstanding section 41E and subject to section 49FU, during the period beginning with the date on which the Minister publishes the notice under section 49FM(7) in theGazetteon the restructuring of the share capital of a licensed insurer or, where the notice is not published in theGazette, the date on which the Authority publishes the certificate under subsection (5) in theGazetteon the restructuring of the share capital and ending with the date on which the certificate comes into effect —
-
-(a) no resolution shall be passed, and no order shall be made, for the winding up of the licensed insurer;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(b) no proceedings shall be commenced or continued against the licensed insurer in respect of any business of the licensed insurer;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(c) no execution, distress or other legal process shall be commenced, levied or continued against any property of the licensed insurer;
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(d) no steps shall be taken to enforce any security over any property of the licensed insurer; and
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(e) any sale, transfer, assignment or other disposition of any property of the licensed insurer shall be void, except for any payment of claims to policy owners or claimants (other than policy owners who are related corporations of the licensed insurer).
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
+[Repealed by Act 31 of 2017 wef 29/10/2018]
 
 Division 5 —
 
@@ -5532,53 +4766,21 @@ Winding up
 
 ### General provisions as to winding up
 
-49FO\.—(1) On an application of the Authority, the Court may, in addition to the grounds specified in section 254(1) of the Companies Act (Cap. 50), order under that Act the winding up of a company incorporated in Singapore which is carrying on or has carried on insurance or insurance broking business in Singapore if —
+49FO\.—(1) This section is to be read together with section 54 of the Monetary Authority of Singapore Act.
 
-(a) the Authority has exercised any power under section 41(2) in relation to the company; or
+[Act 31 of 2017 wef 29/10/2018]
 
-(b) the company has contravened any of the provisions of this Act.
+(2) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-[16/2011 wef 01/05/2011]
+(3) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-(2) On an application of the Authority, the Court may, in addition to the grounds specified in section 351(1) of the Companies Act, order under that Act the winding up of an unregistered company which is carrying on or has carried on insurance or insurance broking business in Singapore if —
+(4) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-(a) the Authority has exercised any power under section 41(2) in relation to the company;
+(5) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-(b) the company has been licensed or registered under this Act or under any written law repealed by this Act, and that licence or registration has been revoked or has expired and has not been renewed; or
+(6) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-[Act 11 of 2013 wef 18/04/2013]
-
-(c) the company is carrying on or has carried on insurance or insurance broking business in Singapore in contravention of any provision of this Act.
-
-[16/2011 wef 01/05/2011]
-
-(3) Notwithstanding sections 254(2) and 351(2) of the Companies Act (Cap. 50), on an application of the Authority for the winding up, on the ground specified in section 254(1)(e) or 351(1)(c)(ii) of the Companies Act, of a company which is carrying on or has carried on insurance or insurance broking business in Singapore, any statement of account lodged by the company with the Authority at any time during the period beginning with the close of the last financial year of the company and ending with the making of the application for the winding up which shows that the company is insolvent shall be evidence that the company is unable to pay its debts unless the Court, in its discretion, calls for further evidence on this issue.
-
-[16/2011 wef 01/05/2011]
-
-(4) Notwithstanding any written law or rule of law —
-
-(a) no person shall be appointed as a liquidator under the Companies Act of a company which is carrying on or has carried on insurance business in Singapore, without the prior written approval of the Authority; and
-
-(b) in the case of a foreign company which is a licensed insurer which is carrying on or has carried on insurance business in Singapore, a liquidator appointed for its liquidation or dissolution at its place of incorporation or origin shall not have the powers and functions of a liquidator for Singapore unless the liquidator has been approved by the Authority, and the exercise of any power or function by the liquidator in contravention of this paragraph shall be invalid and of no effect.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(5) For the avoidance of doubt, subsection (4)(a) shall not affect the operation of section 263(a), (d), (da) or (e) of the Companies Act (Cap. 50).
-
-[16/2011 wef 01/05/2011]
-
-(6) Any approval of the Authority under subsection (4)(b) shall be subject to such conditions as the Authority may determine and the Authority may add to, vary or revoke any such conditions.
-
-[16/2011 wef 01/05/2011]
-
-(7) The licensed insurer or the liquidator, as the case may be, referred to in subsection (4)(b) shall comply with the conditions referred to in subsection (6).
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
+(7) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
 (8) Notwithstanding any written law or rule of law, a liquidator appointed in respect of a licensed insurer carrying on insurance business in Singapore shall, when winding up the licensed insurer —
 
@@ -5606,25 +4808,11 @@ Winding up
 
 [16/2011 wef 01/05/2011]
 
-(12) Notwithstanding any written law or rule of law, where a company which is carrying on or has carried on insurance or insurance broking business in Singapore is being wound up, the Authority shall, subject to such modifications as may be necessary, have the same powers and rights as a creditor of the company under the Companies Act (Cap. 50) including the right to appear and be heard before a Court in any proceedings in the winding up.
+(12) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-[16/2011 wef 01/05/2011]
+(13) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-(13) Without prejudice to subsection (12) and notwithstanding any written law or rule of law, where a company which is carrying on or has carried on insurance or insurance broking business in Singapore is being wound up, its liquidator (whether appointed under the Companies Act or, in the case of a foreign company, appointed at its place of incorporation or origin) shall give the Authority such information as the Authority may from time to time require about the affairs of the company or the winding up.
-
-[16/2011 wef 01/05/2011]
-
-(14) Any liquidator who —
-
-(a) without reasonable excuse, fails to comply with subsection (7) or (13); or
-
-(b) in purported compliance with subsection (13), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
-
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
+(14) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
 (15) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of an insurer licensed under this Act or an insurance broker registered under this Act, and the liquidator in such a winding up shall give the Authority such information as it may from time to time require about the affairs of the insurer or insurance broker, as the case may be.
 
@@ -5774,11 +4962,17 @@ and, subject to any such directions, the winding up shall, for all purposes conn
 
 (c) thirdly, any liabilities incurred by the licensed insurer in respect of direct policies which are not protected under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
 
-(d) fourthly, any liabilities incurred by the licensed insurer in respect of reinsurance policies.
+(d) fourthly, any liabilities incurred by the licensed insurer in respect of reinsurance policies;
 
-[16/2011 wef 01/05/2011]
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 11 of 2013 wef 18/04/2013]
+
+(e) fifthly, any sum claimed by the trustee of a resolution fund (within the meaning of section 98 of the Monetary Authority of Singapore Act) from the licensed insurer under section 103, 104, 105 or 106 of that Act.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+[16/2011 wef 01/05/2011]
 
 (4) The liabilities in each class specified in subsection (3) shall —
 
@@ -5798,13 +4992,7 @@ Division 6 —
 
 Miscellaneous
 
-### Modification of law of insolvency
-
-49FS\. Notwithstanding anything to the contrary contained in this Act, the Bankruptcy Act (Cap. 20) and the Companies Act (Cap. 50), any sale, transfer, assignment or other disposition of any property or business of the licensed insurer pursuant to section 49FF, shall not be reversed, repaid or set aside and no order shall be made by any court for the rectification or stay of such sale, transfer, assignment or other disposition.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
+49FS\. [Repealed by Act 31 of 2017 wef 29/10/2018]
 
 ### Power to obtain information under this Part
 
@@ -5822,17 +5010,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 11 of 2013 wef 18/04/2013]
 
-### Cessation of moratorium, etc., under this Part
-
-49FU\.—(1) The Minister may, by order published in theGazette, direct that section 49FH, 49FK(13) or 49FN(13), or any provision thereof, shall cease to apply to any licensed insurer, any business (or any part thereof) of any licensed insurer or any share in any licensed insurer and on the date specified by the Minister in the order, the relevant section, or the provision thereof, shall cease to apply to the licensed insurer, the business (or the part thereof) of the licensed insurer or the share in the licensed insurer, as the case may be.
-
-[16/2011 wef 01/05/2011]
-
-[Act 11 of 2013 wef 18/04/2013]
-
-(2) In this section, “business” includes affairs, property, right, obligation and liability.
-
-[16/2011 wef 01/05/2011]
+49FU\. [Repealed by Act 31 of 2017 wef 29/10/2018]
 
 ### Recovery of fees, expenses, etc.
 
@@ -5854,23 +5032,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) Without prejudice to the generality of subsection (1), regulations made under this section may —
 
-(a) restrict, or impose conditions on, any transfer of only part (but not the whole) of the business (as defined in section 49FE) of a transferor under Division 2;
+(a) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-(b) provide for either or both of the following:
+(b) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-(i) that any arrangement is exempted from any provision of this Part;
+(c) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
-(ii) that the Minister or the Authority shall not exercise any power under this Part in relation to any arrangement;
-
-(c) prescribe —
-
-(i) any set-off arrangement, netting arrangement or other type of arrangement as an arrangement referred to in paragraph (b)(i) or (ii);
-
-(ii) for any arrangement referred to in paragraph (b)(i), each provision of this Part which that arrangement is exempted from; and
-
-(iii) for any arrangement referred to in paragraph (b)(ii), each power which the Minister or the Authority shall not exercise in relation to that arrangement;
-
-(d) provide for any transaction to be void or voidable, or for any other consequence (including a consequence affecting any business, affairs, property, right, obligation, liability or power of any person under this Part, or affecting the operation of any provision of this Part) to arise, if any specified provision of the regulations is contravened;
+(d) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
 (e) provide that any contravention of any specified provision of the regulations shall be an offence punishable —
 
@@ -5886,13 +5054,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 11 of 2013 wef 18/04/2013]
 
-(4) In this section —
-
-“netting arrangement” means an arrangement under which 2 or more claims or obligations can be converted into a net claim or obligation, and includes a close-out netting arrangement (under which actual or theoretical debts are calculated during the course of a contract for the purpose of enabling them to be set-off against each other or to be converted into a net debt);
-
-“set-off arrangement” means an arrangement under which 2 or more debts, claims or obligations can be set-off against each other.
-
-[Act 11 of 2013 wef 18/04/2013]
+(4) [Deleted by Act 31 of 2017 wef 29/10/2018]
 
 ## PART IIIB
 
@@ -7429,15 +6591,16 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of First Reading|13 September 2016 (Bill No. 26/2016 published on 13 September 2016)|
 ||Date of Second and Third Readings|10 October 2016|
 ||Date of commencement|1 January 2017|
-|37.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
-||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
-||Date of Second and Third Readings|4 July 2017|
-||Date of commencement|5 June 2018|
-|38.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+|37.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
 ||Date of First Reading|7 November 2016|
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
+|38.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
+|||29 October 2018|
 ## COMPARATIVE TABLE
 
 Insurance Act
