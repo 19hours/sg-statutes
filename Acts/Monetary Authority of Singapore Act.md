@@ -150,7 +150,7 @@
 
 - [49 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [50 Exercise of powers under Divisions 2, 3 and 4 of this Part](#Exercise-of-powers-under-Divisions-2-3-and-4-of-this-Part)
+- [50 Exercise of powers under Divisions 2, 3, 4 and 4A of this Part](#Exercise-of-powers-under-Divisions-2-3-4-and-4A-of-this-Part)
 
 - [51 Directions or regulations concerning persons that have ceased to be specified financial institutions](#Directions-or-regulations-concerning-persons-that-have-ceased-to-be-specified-financial-institutions)
 
@@ -172,9 +172,21 @@
 
 - [59 Moratorium, avoidance of disposition of property, etc.](#Moratorium-avoidance-of-disposition-of-property-etc)
 
+[**Division 2A  Reverse transfer of business and onward transfer of business**](#Division-2A--Reverse-transfer-of-business-and-onward-transfer-of-business)
+
+- [60 Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [61 Reverse transfer of business](#Reverse-transfer-of-business)
+
+- [62 Reverse transfer certificate](#Reverse-transfer-certificate)
+
+- [63 Onward transfer of business](#Onward-transfer-of-business)
+
+- [64 Onward transfer certificate](#Onward-transfer-certificate)
+
 [**Division 3  Compulsory transfer of shares of pertinent financial institution**](#Division-3--Compulsory-transfer-of-shares-of-pertinent-financial-institution)
 
-- [65 Interpretation of this Division](#Interpretation-of-this-Division)
+- [65 General provisions](#General-provisions)
 
 - [66 Compulsory transfer of shares](#Compulsory-transfer-of-shares)
 
@@ -187,6 +199,40 @@
 - [69 Compulsory restructuring of share capital](#Compulsory-restructuring-of-share-capital)
 
 - [70 Certificate of restructuring of share capital](#Certificate-of-restructuring-of-share-capital)
+
+[**Division 4A  Bail-in powers**](#Division-4A--Bail-in-powers)
+
+- [71 Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [72 Exercise of powers under this Division](#Exercise-of-powers-under-this-Division)
+
+- [73 Determination by Authority](#Determination-by-Authority)
+
+- [74 Approval by Minister of determination](#Approval-by-Minister-of-determination)
+
+- [75 Bail-in certificate](#Bail-in-certificate)
+
+- [76 Effects of bail-in certificate](#Effects-of-bail-in-certificate)
+
+- [77 Moratorium](#Moratorium)
+
+- [78 Significant shareholder by reason of bail-in certificate](#Significant-shareholder-by-reason-of-bail-in-certificate)
+
+- [79 Directions for disposal](#Directions-for-disposal)
+
+- [80 Offence](#Offence)
+
+- [81 Restriction on eligible instruments](#Restriction-on-eligible-instruments)
+
+[**Division 4B  Termination rights**](#Division-4B--Termination-rights)
+
+- [82 Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [83 Effect of resolution measure on contracts where substantive obligations continue to be performed](#Effect-of-resolution-measure-on-contracts-where-substantive-obligations-continue-to-be-performed)
+
+- [84 Right to temporarily suspend termination right for contracts because of resolution measure](#Right-to-temporarily-suspend-termination-right-for-contracts-because-of-resolution-measure)
+
+- [85 When suspension takes effect](#When-suspension-takes-effect)
 
 [**Division 5  Assistance to foreign resolution authorities and domestic authorities**](#Division-5--Assistance-to-foreign-resolution-authorities-and-domestic-authorities)
 
@@ -203,6 +249,68 @@
 - [91 Offences under this Division](#Offences-under-this-Division)
 
 - [92 Immunity for furnishing material, etc.](#Immunity-for-furnishing-material-etc)
+
+[**Division 5A  Recognition of foreign resolutions**](#Division-5A--Recognition-of-foreign-resolutions)
+
+- [93 General provisions](#General-provisions)
+
+- [94 Determination over foreign resolution](#Determination-over-foreign-resolution)
+
+- [95 Order to give effect to foreign resolution](#Order-to-give-effect-to-foreign-resolution)
+
+- [96 Directions](#Directions)
+
+- [97 Offence](#Offence)
+
+[**Division 5B  Resolution funding**](#Division-5B--Resolution-funding)
+
+- [98 Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [99 Establishment of resolution fund](#Establishment-of-resolution-fund)
+
+- [100 Trustee of resolution fund](#Trustee-of-resolution-fund)
+
+- [101 Withdrawal from resolution fund](#Withdrawal-from-resolution-fund)
+
+- [102 Recovery of sums withdrawn](#Recovery-of-sums-withdrawn)
+
+- [103 Claim from financial institution under resolution](#Claim-from-financial-institution-under-resolution)
+
+- [104 Computation and notice of levy](#Computation-and-notice-of-levy)
+
+- [105 Payment of levy by similar financial institutions, participants of market infrastructure on lump sum basis, or participants of payment system operator](#Payment-of-levy-by-similar-financial-institutions-participants-of-market-infrastructure-on-lump-sum-basis-or-participants-of-payment-system-operator)
+
+- [106 Payment of levy by participants of market infrastructure on transaction basis](#Payment-of-levy-by-participants-of-market-infrastructure-on-transaction-basis)
+
+- [107 Recovery, refund and remission of levies and late payment fees, etc.](#Recovery-refund-and-remission-of-levies-and-late-payment-fees-etc)
+
+- [108 Disclosure of information on levy](#Disclosure-of-information-on-levy)
+
+- [109 Use of resolution fund to pay loan, etc., and balance in resolution fund](#Use-of-resolution-fund-to-pay-loan-etc-and-balance-in-resolution-fund)
+
+- [110 Priority of debt of financial institution to trustee](#Priority-of-debt-of-financial-institution-to-trustee)
+
+- [111 Regulations for this Division](#Regulations-for-this-Division)
+
+[**Division 5C  Compensation**](#Division-5C--Compensation)
+
+- [112 Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [113 Meaning of "worse off as a result of the resolution"](#Meaning-of-"worse-off-as-a-result-of-the-resolution")
+
+- [114 Eligibility for compensation](#Eligibility-for-compensation)
+
+- [115 Appointment of valuer](#Appointment-of-valuer)
+
+- [116 Valuation](#Valuation)
+
+- [117 Access to information by valuer](#Access-to-information-by-valuer)
+
+- [118 Confidentiality and use of information](#Confidentiality-and-use-of-information)
+
+- [119 Disclosure of valuation report](#Disclosure-of-valuation-report)
+
+- [120 Appeals](#Appeals)
 
 [**Division 6  Miscellaneous**](#Division-6--Miscellaneous)
 
@@ -913,6 +1021,14 @@ but only insofar as the subscription does not compromise the object of the Autho
 (b) underwrite any loan to any public authority.
 
 [13/2007 wef 30/06/2007]
+
+(7A) For the purposes of Part IVB, the Authority may (in addition to its other powers) —
+
+(a) grant a loan to a trustee of a resolution fund within the meaning of Division 5B of that Part; and
+
+(b) do all such things as are necessary or expedient to be done for the orderly resolution of a financial institution.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (8) The Authority may, in addition to the powers, duties and functions set out in this Part, exercise all powers and perform all functions and duties conferred or imposed on the Authority under this Act, the written laws set out in the Schedule, and any other written law.
 
@@ -2214,6 +2330,14 @@ General provisions
 
 [Act 31 of 2017 wef 04/06/2018]
 
+“PPF Agency” means the company designated as the deposit insurance and policy owners’ protection fund agency under section 56 of the Deposit Insurance and Policy Owners’ Protection Schemes Act (Cap. 77B);
+
+[Act 31 of 2017 wef 29/10/2018]
+
+“PPF Funds” means the Policy Owners’ Protection Life Fund and the Policy Owners’ Protection General Fund established under section 34 of the Deposit Insurance and Policy Owners’ Protection Schemes Act;
+
+[Act 31 of 2017 wef 29/10/2018]
+
 “Registrar of Companies” means the Registrar of Companies appointed under the Companies Act (Cap. 50) and includes any Deputy or Assistant Registrar of Companies appointed under that Act;
 
 “Registrar of Co-operative Societies” means the Registrar of Co-operative Societies appointed under the Co-operative Societies Act and includes any Assistant Registrar of Co-operative Societies appointed under that Act;
@@ -2234,15 +2358,17 @@ General provisions
 
 [Act 9 of 2013 wef 18/04/2013]
 
-### Exercise of powers under Divisions 2, 3 and 4 of this Part
+### Exercise of powers under Divisions 2, 3, 4 and 4A of this Part
 
-50\. In determining whether to exercise its powers under Divisions 2, 3 and 4 of this Part in relation to a pertinent financial institution, the Authority may have regard to one or more of the following matters:
+50\. In determining whether to exercise its powers under Divisions 2, 3, 4 and 4A of this Part in relation to a pertinent financial institution, the Authority may have regard to one or more of the following matters:
 
 (a) whether a failure of the pertinent financial institution would have a widespread adverse effect on the financial system in Singapore or the economy of Singapore, or both, whether or not that widespread adverse effect occurs directly or indirectly as a result of the impact of the failure on the financial system in Singapore, on the financial markets in Singapore or on other financial institutions in Singapore;
 
 (b) whether it is in the public interest to do so;
 
 (c) any other matter that the Authority considers relevant.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 31 of 2017 wef 04/06/2018]
 
@@ -2463,11 +2589,17 @@ of pertinent financial institution
 
 [Act 31 of 2017 wef 04/06/2018]
 
+“guaranteed policy moneys” has the same meaning as in section 1A of the Insurance Act (Cap. 142);
+
+[Act 31 of 2017 wef 29/10/2018]
+
 “property” includes property, right and power of every description;
 
 “specified business” means any part of the business of a transferor which is specified or identified in a certificate;
 
-“transferee” means any person (being a person who is, or who has applied or will be applying to be, approved, authorised, designated, recognised, registered, licensed or otherwise regulated, under this Act or any of the written laws set out in the Schedule, to carry on the significant business of the transferor) to which the whole or any part of a transferor’s business is, is to be, or is proposed to be transferred under this Division;
+“transferee” means any person to which the whole or any part of a transferor’s business is, is to be, or is proposed to be transferred under this Division;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 “transferor” means a pertinent financial institution the whole or any part of the business of which is, is to be, or is proposed to be transferred under this Division.
 
@@ -2477,7 +2609,7 @@ of pertinent financial institution
 
 ### Compulsory transfer of business
 
-57\.—(1) Subject to subsections (2) and (6), the Authority may make a determination that the whole or any part of the business of a transferor shall be transferred to a transferee, if —
+57\.—(1) Subject to subsections (2), (2A) and (6), the Authority may make a determination that the whole or any part of the business of a transferor shall be transferred to a transferee, if —
 
 (a) any ground exists for the Authority to exercise any power under the relevant provisions in relation to the transferor, whether or not the Authority has exercised the power;
 
@@ -2503,7 +2635,23 @@ of pertinent financial institution
 
 (C) the stability of the financial system in Singapore; and
 
-(D) any other matter that the Authority considers relevant; or
+(D) any other matter that the Authority considers relevant;
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(iia) in any case where the transferor is an insurer licensed under the Insurance Act (Cap. 142) —
+
+(A) the interests of the policy owners of the transferor given priority and the order of priority of each class of policy owners under section 49FR of the Insurance Act;
+
+(B) if the transferee is an insurer licensed under the Insurance Act, the interests of the policy owners of the transferee given priority and the order of priority of each class of policy owners under section 49FR of the Insurance Act;
+
+(C) the stability of the financial system in Singapore;
+
+(D) whether the PPF Agency has to make a payout from any of the PPF Funds to the transferee and the amount of such payout, if any; and
+
+(E) any other matter that the Authority considers relevant; or
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (iii) in any other case —
 
@@ -2513,19 +2661,39 @@ of pertinent financial institution
 
 (C) the stability of the financial system in Singapore; and
 
-(D) any other matter that the Authority considers relevant; and
+(D) any other matter that the Authority considers relevant;
 
-(d) the transfer involves the whole or part of the significant business of the transferor.
+[Act 31 of 2017 wef 29/10/2018]
 
-(2) Where the transferor is a pertinent financial institution incorporated or established outside Singapore, any determination shall only be in respect of the transferor’s business (or any part thereof) which is reflected in the books of the transferor in Singapore in relation to the transferor’s operations in Singapore, and the references to depositors and affected persons in subsection (1)(c) shall be construed accordingly.
+(d) the transfer involves the whole or part of the significant business of the transferor; and
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(e) where the transferee is to carry on the whole or part of the significant business of the transferor, the transferee is, or will be applying to be, approved, authorised, designated, recognised, registered, licensed or otherwise regulated, under this Act or any of the written laws set out in the Schedule, to carry on the significant business of the transferor.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(2) Where the transferor is a pertinent financial institution incorporated or established outside Singapore, any determination shall only be in respect of the transferor’s business (or any part thereof) which is reflected in the books of the transferor in Singapore in relation to the transferor’s operations in Singapore, and the references to depositors, policy owners and affected persons in subsection (1)(c) shall be construed accordingly.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(2A) Where the transferor is an insurer licensed under the Insurance Act, any determination made by the Authority for the purpose of subsection (1) may include a determination as to whether guaranteed policy moneys in relation to any policy should be adjusted upon the proposed transfer so as to achieve an orderly resolution of the transferor.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (3) The Authority may, before making a determination, appoint one or more persons —
 
 (a) to perform an independent assessment of —
 
-(i) the proposed transfer of the business (or any part thereof) of the transferor; and
+(i) the proposed transfer of the business (or any part thereof) of the transferor;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (ii) the consideration, if any, that should be paid by the transferee; and
+
+(iii) where the transferor is an insurer licensed under the Insurance Act, whether guaranteed policy moneys in relation to any policy should be adjusted upon the proposed transfer so as to achieve an orderly resolution of the transferor; and
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (b) to furnish to the Authority a report on the assessment and on the proposed transfer.
 
@@ -2533,7 +2701,9 @@ of pertinent financial institution
 
 (5) The Authority shall serve a copy of any report furnished under subsection (3) on the transferor and the transferee.
 
-(6) A determination may provide for the transfer of the business (or any part thereof) of the transferor to a transferee who is not approved, authorised, designated, recognised, registered, licensed or otherwise regulated under any of the written laws set out in the Schedule to carry on in Singapore the significant business of the transferor, on terms that the transfer shall take effect only in the event of the transferee becoming so approved, authorised, designated, recognised, registered, licensed or regulated, as the case may be.
+(6) A determination may provide for the transfer of the business (or any part thereof) of the transferor to a transferee for the purpose mentioned in subsection (1)(e), where the transferee is not approved, authorised, designated, recognised, registered, licensed or otherwise regulated under any of the written laws set out in the Schedule to carry on in Singapore the significant business of the transferor, on terms that the transfer shall take effect only in the event of the transferee becoming so approved, authorised, designated, recognised, registered, licensed or regulated, as the case may be.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (7) Upon making a determination, the Authority shall submit the determination to the Minister for his approval.
 
@@ -2553,11 +2723,23 @@ of pertinent financial institution
 
 (a) approve the determination without modification;
 
-(b) approve the determination subject to any modification he considers appropriate, if the board of directors of the transferee has agreed to the modification; or
+(b) approve the determination subject to any modification the Minister considers appropriate, if either the board of directors of the transferee (if it is a corporation) or the committee of management of the transferee (if it is a co-operative society) has agreed to the modification; or
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (c) refuse to approve the determination.
 
-(13) Any approval under subsection (12) shall be subject to such conditions as the Minister may determine, and the Minister may add to, vary or revoke any such condition.
+(13) Any approval under subsection (12) shall be subject to such conditions as the Minister may determine to give effect to the determination, and the Minister may add to, vary or revoke any such condition.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(13A) The transferor or transferee, as the case may be, must comply with every condition mentioned in subsection (13) that applies to it and of which it has been given written notice by the Authority.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(13B) A person that contravenes subsection (13A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (14) A determination, an approval under subsection (12) of a determination or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act or the relevant Act applicable to the transferor.
 
@@ -2587,6 +2769,10 @@ of pertinent financial institution
 
 (f) the consideration, if any, to be paid by the transferee to the transferor, and the period within which the consideration is to be paid;
 
+(fa) where the transferor is an insurer licensed under the Insurance Act (Cap. 142), whether guaranteed policy moneys in relation to any policy should be adjusted upon the proposed transfer so as to achieve an orderly resolution of the transferor;
+
+[Act 31 of 2017 wef 29/10/2018]
+
 (g) such incidental, consequential and supplementary matters as are, in the Minister’s opinion, necessary to secure that the transfer is fully effective, including conditions relating to the transfer.
 
 (4) The Minister may at any time before the certificate comes into effect add to, vary or revoke any matter specified in the certificate.
@@ -2595,7 +2781,9 @@ of pertinent financial institution
 
 (6) Subject to subsection (7), unless otherwise specified in the certificate, the transfer of the business (or any part thereof) of the transferor under the certificate shall take effect on the date on which the certificate comes into effect.
 
-(7) Where the transferee is not approved, authorised, designated, recognised, registered, licensed or otherwise regulated, under this Act or any of the written laws set out in the Schedule, to carry on in Singapore the significant business of the transferor, the transfer of the business (or any part thereof) shall not come into effect unless the transferee becomes so approved, authorised, designated, recognised, registered, licensed or regulated, as the case may be.
+(7) Where the transferee is to carry on the whole or part of the significant business of the transferor, and is not approved, authorised, designated, recognised, registered, licensed or otherwise regulated, under this Act or any of the written laws set out in the Schedule, to carry on in Singapore the significant business of the transferor, the transfer of the business (or any part thereof) shall not come into effect unless the transferee becomes so approved, authorised, designated, recognised, registered, licensed or regulated, as the case may be.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (8) Notwithstanding any written law or rule of law, upon the date on which the transfer of the business (or any part thereof) of the transferor comes into effect under the certificate —
 
@@ -2605,11 +2793,35 @@ of pertinent financial institution
 
 (ii) the certificate shall have effect according to its tenor and be binding on any person thereby affected;
 
-(b) all deeds, bonds, agreements and other arrangements subsisting immediately before that date which relate to the business (or any part thereof) and to which the transferor is a party shall continue in full force and effect, and shall be enforceable by or against the transferee, as from that date, as if the transferee had been named therein or had been a party thereto instead of the transferor; and
+(b) no deed, bond, agreement or other arrangement subsisting immediately before that date —
+
+(i) which relates to the business (or any part of the business); and
+
+(ii) to which the transferor is a party,
+
+is considered terminated by reason only of the transfer, but each of these continues in full force and effect, and is enforceable by or against the transferee (as the case may be), as from that date, as if the transferee had been named in it or had been a party to it instead of the transferor; and
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (c) any proceedings or cause of action, by or against the transferor, pending or existing immediately before that date and relating to the business (or any part thereof) may be continued and shall be enforced by or against the transferee as from that date.
 
+(8A) Subsection (8)(b) does not apply to a contract of employment.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(8B) To avoid doubt, this section does not affect the operation of section 18A of the Employment Act (Cap. 91).
+
+[Act 31 of 2017 wef 29/10/2018]
+
 (9) For the avoidance of doubt, the business (or any part thereof) of the transferor shall be transferred to and vest in the transferee in accordance with subsection (8), notwithstanding any incapacity of the transferor.
+
+(9A) Where the transferor is an insurer licensed under the Insurance Act and guaranteed policy moneys under a policy have been adjusted under the certificate —
+
+(a) the policy owner or claimant continue to have recourse against the transferor for the difference between the original guaranteed policy moneys and the adjusted guaranteed policy moneys; and
+
+(b) any agreement or other arrangement mentioned in subsection (8)(b) has effect as if the guaranteed policy moneys have been so adjusted.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (10) The certificate shall not have any effect or operation in transferring or otherwise vesting land in Singapore until the appropriate entries are made with respect to the transfer or vesting of that land by the appropriate authority.
 
@@ -2673,11 +2885,224 @@ of pertinent financial institution
 
 (c) no steps shall be taken to enforce any security over the specified business or to repossess from the transferor the specified business under any hire-purchase agreement, chattels leasing agreement or retention of title agreement; and
 
-(d) any sale, transfer, assignment or other disposition of the specified business shall be void.
+(d) any sale, transfer, assignment or other disposition of the specified business shall be void, except for (where the transferor is an insurer licensed under the Insurance Act (Cap. 142)) any payment of claims to policy owners or claimants, other than policy owners who are related corporations of the transferor.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
+
+Division 2A —
+
+Reverse transfer of business and
+
+
+
+
+onward transfer of business
+
+### Interpretation of this Division
+
+60\. In this Division —
+
+“2nd transferee” means the person to which the whole or part of a transferor’s business that was transferred to a transferee by a certificate of transfer, is or is to be transferred from the transferee in accordance with an onward transfer certificate under section 64;
+
+“business” includes affairs, property, right, obligation and liability;
+
+“certificate of transfer” means a certificate of transfer issued under section 58;
+
+“onward transfer” means the transfer by the transferee to the 2nd transferee, in accordance with an onward transfer certificate under section 64, of the whole or part of the business transferred to the transferee by a certificate of transfer;
+
+“reverse transfer” means the transfer by the transferee to the transferor in accordance with a reverse transfer certificate under section 62, of the whole or part of the transferor’s business that was transferred to the transferee by a certificate of transfer;
+
+“transferee” means the person to which the whole or part of a transferor’s business has been transferred by a certificate of transfer;
+
+“transferor” means a pertinent financial institution the whole or part of the business of which has been transferred by a certificate of transfer.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Reverse transfer of business
+
+61\.—(1) Subject to this section, the Authority may, at any time after the transfer of any business under a certificate of transfer, make a determination that the whole or any part of the business transferred to the transferee by the certificate be transferred back to the transferor.
+
+(2) The Authority may make such determination if —
+
+(a) the board of directors of the transferee (if it is a corporation), or the committee of management of the transferee (if it is a co-operative society), consents to the reverse transfer; and
+
+(b) the conditions prescribed by regulations made under section 126 are met.
+
+(3) The Authority must submit every determination under subsection (1) to the Minister for approval.
+
+(4) The Minister may —
+
+(a) approve a determination under subsection (1) without modification;
+
+(b) approve a determination under subsection (1) subject to any modification the Minister considers appropriate, if the board of directors of the transferee (if it is a corporation), or the committee of management of the transferee (if it is a co-operative society), agrees to the modification; or
+
+(c) refuse to approve the determination.
+
+(5) An approval under subsection (4) is subject to such conditions as the Minister may determine to be necessary to give effect to the determination, and the Minister may add to, vary or revoke any such condition.
+
+(6) The transferor or transferee, as the case may be, must comply with every condition mentioned in subsection (5) that applies to it and of which it has been given written notice by the Authority.
+
+(7) A person that contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+(8) A determination under subsection (1) or an approval under subsection (4) of the determination does not prevent the exercise of any power by the Authority or the Minister under this Act or the relevant Act applicable to the transferor.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Reverse transfer certificate
+
+62\.—(1) If the Minister approves a determination under section 61, the Minister must, as soon as practicable, issue a certificate (called in this section the reverse transfer certificate), which is to come into effect on the date specified in the certificate.
+
+(2) The reverse transfer certificate must specify such information as may be prescribed by regulations made under section 126.
+
+(3) The reverse transfer certificate may make provision for one or more of the following matters:
+
+(a) the reverse transfer approved by the Minister;
+
+(b) the effective date of the reverse transfer, if different from the date on which the reverse transfer certificate comes into effect;
+
+(c) the consideration, if any, to be returned by the transferee to the transferor and the period within which the consideration is to be returned;
+
+(d) the rescission of provisions made for any of the matters mentioned in section 58(3)(c) and (d) in the certificate of transfer concerned;
+
+(e) such incidental, consequential and supplementary matters as are, in the Minister’s opinion, necessary to secure that the reverse transfer is fully effective, including any condition mentioned in section 61(5).
+
+(4) The Minister may, at any time before the reverse transfer certificate comes into effect, add to, vary or revoke any matter specified in the reverse transfer certificate.
+
+(5) On or before the date on which the reverse transfer certificate comes into effect, the Authority must cause the reverse transfer certificate, and any addition, variation or revocation mentioned in subsection (4) to be —
+
+(a) served on the transferor and the transferee; and
+
+(b) published in theGazetteand in such newspaper or newspapers as the Minister may determine.
+
+(6) Subject to subsection (7), unless otherwise specified in the reverse transfer certificate, the effective date of the reverse transfer is the date on which the reverse transfer certificate comes into effect.
+
+(7) Despite any written law or rule of law (including section 58 as it applies to the certificate of transfer in question), on the effective date of the reverse transfer —
+
+(a) subject to subsection (10) —
+
+(i) the business that is the subject of the reverse transfer is transferred back to and vests in the transferor without other or further assurance, act or deed; and
+
+(ii) the reverse transfer certificate has effect according to its tenor and is binding on any person affected by it;
+
+(b) no deed, bond, agreement or other arrangement mentioned in section 58(8)(b) which relates to the business that is the subject of the reverse transfer is considered terminated by reason only of the reverse transfer, but each of these continues in full force and effect and is once again enforceable by or against the transferor (as the case may be);
+
+(c) no deed, bond, agreement or other arrangement —
+
+(i) that is entered into by the transferee after the transfer of business under the certificate of transfer under section 58, but before the effective date of the reverse transfer; and
+
+(ii) which relates to the business that is the subject of the reverse transfer,
+
+is considered terminated by reason only of the reverse transfer, but each of these continues in full force and effect, and is enforceable by or against the transferor (as the case may be), as if the transferor had been named in it or had been a party to it instead of the transferee; and
+
+(d) any proceedings or cause of action, by or against the transferee, pending or existing immediately before the effective date of the reverse transfer (including those mentioned in section 58(8)(c)), and relating to the business that is the subject of the reverse transfer may be continued and enforced by or against the transferor as from that date.
+
+(8) Subsection (7)(b) and (c) does not apply to a contract of employment.
+
+(9) To avoid doubt, this section does not affect the operation of section 18A of the Employment Act (Cap. 91).
+
+(10) Section 58(9) to (17) applies in relation to a reverse transfer as it applies to a transfer of business under that section as if —
+
+(a) a reference to the business to be transferred is a reference to the business that is the subject of the reverse transfer;
+
+(b) a reference to the transferor is a reference to the transferee;
+
+(c) a reference to the transferee is a reference to the transferor; and
+
+(d) a reference to the certificate of transfer is a reference to the reverse transfer certificate.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Onward transfer of business
+
+63\.—(1) Subject to this section, the Authority may, at any time after the transfer of any business under a certificate of transfer, make a determination that the whole or any part of the business transferred to the transferee by the certificate be transferred to another transferee.
+
+(2) The Authority may make such determination if —
+
+(a) the board of directors of the 2nd transferee (if it is a corporation), or the committee of management of the 2nd transferee (if it is a co-operative society), consents to the transfer; and
+
+(b) the transferee is an entity established or incorporated to do one or both of the following:
+
+(i) temporarily hold and manage the assets and liabilities of the transferor;
+
+(ii) do any other act for the orderly resolution of the transferor.
+
+(3) The Authority must submit every determination under subsection (1) to the Minister for approval.
+
+(4) The Minister may —
+
+(a) approve a determination under subsection (1) without modification;
+
+(b) approve a determination under subsection (1) subject to any modification the Minister considers appropriate, if the board of directors of the 2nd transferee (if it is a corporation), or the committee of management of the 2nd transferee (if it is a co-operative society), agrees to the modification; or
+
+(c) refuse to approve the determination.
+
+(5) An approval under subsection (4) is subject to such conditions as the Minister may determine to be necessary to give effect to the determination, and the Minister may add to, vary or revoke any such condition.
+
+(6) The transferee or 2nd transferee, as the case may be, must comply with every condition mentioned in subsection (5) that applies to it and of which it has been given written notice by the Authority.
+
+(7) A person that contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+(8) A determination under subsection (1) or an approval under subsection (4) of the determination does not prevent the exercise of any power by the Authority or the Minister under this Act or the relevant Act applicable to the transferor.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Onward transfer certificate
+
+64\.—(1) If the Minister approves a determination under section 63, the Minister must, as soon as practicable, issue a certificate (called in this section the onward transfer certificate), which is to come into effect on the date specified in the certificate.
+
+(2) The onward transfer certificate must specify such information as may be prescribed by regulations made under section 126.
+
+(3) The onward transfer certificate may make provision for all or any of the following matters:
+
+(a) the onward transfer approved by the Minister;
+
+(b) the effective date of the onward transfer, if different from the date on which the onward transfer certificate comes into effect;
+
+(c) the consideration, if any, to be paid by the 2nd transferee to the transferee and the period within which the consideration is to be paid;
+
+(d) such incidental, consequential and supplementary matters as are, in the Minister’s opinion, necessary to secure that the onward transfer is fully effective, including any condition mentioned in section 63(5).
+
+(4) The Minister may, at any time before the onward transfer certificate comes into effect, add to, vary or revoke any matter specified in the onward transfer certificate.
+
+(5) On or before the date on which the onward transfer certificate comes into effect, the Authority must cause the onward transfer certificate and any addition, variation or revocation mentioned in subsection (4) —
+
+(a) to be served on the transferee and the 2nd transferee; and
+
+(b) to be published in theGazetteand in such newspaper or newspapers as the Minister may determine.
+
+(6) Subject to subsection (7), unless otherwise specified in the onward transfer certificate, the effective date of the onward transfer is the date on which the onward transfer certificate comes into effect.
+
+(7) Despite any written law or rule of law (including section 58 as it applies to the certificate of transfer in question), on the effective date of the onward transfer —
+
+(a) subject to subsection (10) —
+
+(i) the business that is the subject of the onward transfer is transferred to and vests in the 2nd transferee without other or further assurance, act or deed; and
+
+(ii) the onward transfer certificate has effect according to its tenor and is binding on any person affected by it;
+
+(b) no deed, bond, agreement or other arrangement (including any deed, bond, agreement or other arrangement mentioned in section 58(8)(b)) which relates to the business that is the subject of the onward transfer, is considered terminated by reason only of the onward transfer, but each of these continues in full force and effect and is enforceable by or against the 2nd transferee (as the case may be) as if the 2nd transferee had been named in it or had been a party to it instead of the transferee; and
+
+(c) any proceedings or cause of action, by or against the transferee, pending or existing immediately before the effective date of the onward transfer (including those mentioned in section 58(8)(c)) and relating to the business that is the subject of the onward transfer may be continued and enforced by or against the 2nd transferee as from that date.
+
+(8) Subsection (7)(b) does not apply to a contract of employment.
+
+(9) To avoid doubt, this section does not affect the operation of section 18A of the Employment Act (Cap. 91).
+
+(10) Section 58(9) to (17) applies in relation to an onward transfer as it applies to a transfer of business under this section as if —
+
+(a) a reference to the business to be transferred is a reference to the business that is the subject of the onward transfer;
+
+(b) a reference to the transferor is a reference to the transferee;
+
+(c) a reference to the transferee is a reference to the 2nd transferee; and
+
+(d) a reference to the certificate of transfer is a reference to the onward transfer certificate.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 Division 3 —
 
@@ -2688,9 +3113,9 @@ Compulsory transfer of shares
 
 of pertinent financial institution
 
-### Interpretation of this Division
+### General provisions
 
-65\. In this Division, unless the context otherwise requires —
+65\.—(1) In this Division, unless the context otherwise requires —
 
 “business” includes affairs, property, right, obligation and liability;
 
@@ -2716,9 +3141,15 @@ of pertinent financial institution
 
 “transferor” means a shareholder of a pertinent financial institution whose shares in the pertinent financial institution are, are to be, or are proposed to be, transferred under this Division.
 
+[Act 31 of 2017 wef 29/10/2018]
+
 [Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
+
+(2) This Division does not apply where the pertinent financial institution is a co-operative society.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 ### Compulsory transfer of shares
 
@@ -2748,7 +3179,23 @@ of pertinent financial institution
 
 (C) the stability of the financial system in Singapore; and
 
-(D) any other matter that the Authority considers relevant; or
+(D) any other matter that the Authority considers relevant;
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(iia) in any case where the pertinent financial institution is an insurer licensed under the Insurance Act (Cap. 142) —
+
+(A) the interests of the policy owners of the insurer given priority and the order of priority of each class of policy owners under section 49FR of the Insurance Act;
+
+(B) if the transferee is an insurer licensed under the Insurance Act, the interests of the policy owners of the transferee given priority and the order of priority of each class of policy owners under section 49FR of the Insurance Act;
+
+(C) the stability of the financial system in Singapore;
+
+(D) whether the PPF Agency has to make a payout from any of the PPF Funds to the transferee and the amount of such payout, if any; and
+
+(E) any other matter that the Authority considers relevant; or
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (iii) in any other case —
 
@@ -2810,9 +3257,17 @@ of pertinent financial institution
 
 (11) Any approval under subsection (10) shall be subject to such conditions as the Minister may determine, and the Minister may add to, vary or revoke any such condition.
 
-(12) The transferor shall comply with every condition referred to in subsection (11) that applies to the transferor.
+(12) The transferor shall comply with every condition referred to in subsection (11) that applies to the transferor and of which it has been given written notice by the Authority.
 
-(13) The transferee shall comply with every condition referred to in subsection (11) that applies to the transferee.
+[Act 31 of 2017 wef 29/10/2018]
+
+(13) The transferee shall comply with every condition referred to in subsection (11) that applies to the transferee and of which it has been given written notice by the Authority.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(13A) A person that contravenes subsection (12) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (14) A determination, an approval under subsection (10) of a determination or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act or the relevant Act applicable to the pertinent financial institution.
 
@@ -2896,7 +3351,9 @@ of pertinent financial institution
 
 (k) no steps shall be taken to enforce any security over any property of the pertinent financial institution; and
 
-(l) any sale, transfer, assignment or other disposition of any property of the pertinent financial institution shall be void.
+(l) any sale, transfer, assignment or other disposition of any property of the pertinent financial institution shall be void, except for (where the pertinent financial institution is an insurer licensed under the Insurance Act (Cap. 142)) any payment of claims to policy owners or claimants, other than policy owners who are related corporations of the pertinent financial institution.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 31 of 2017 wef 04/06/2018]
 
@@ -2979,7 +3436,21 @@ of pertinent financial institution
 
 (C) the stability of the financial system in Singapore; and
 
+(D) any other matter that the Authority considers relevant;
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(iia) in any case where the pertinent financial institution is an insurer licensed under the Insurance Act (Cap. 142) —
+
+(A) the interests of the policy owners of the insurer given priority and the order of priority of each class of policy owners under section 49FR of the Insurance Act;
+
+(B) if the subscriber is an insurer licensed under the Insurance Act, the interests of the policy owners of the subscriber given priority and the order of priority of each class of policy owners under section 49FR of the Insurance Act;
+
+(C) the stability of the financial system in Singapore; and
+
 (D) any other matter that the Authority considers relevant; or
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (iii) in any other case —
 
@@ -2995,17 +3466,23 @@ of pertinent financial institution
 
 (a) to perform an independent assessment of —
 
-(i) the value of the assets of the pertinent financial institution in which the shares are proposed to be issued; and
+(i) in the case of a determination to be made under subsection (1), the value of the assets of the pertinent financial institution and the extent to which the whole or any part of any share capital not paid up, or of any paid-up share capital, should be cancelled; and
 
-(ii) in the case of a determination to be made under subsection (2), the consideration, if any, that should be paid by the subscriber; and
+(ii) in the case of a determination to be made under subsection (2), the value of the assets of the pertinent financial institution in which the shares are proposed to be issued and the consideration, if any, that should be paid by the subscriber; and
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (b) to furnish to the Authority a report on the assessment and on the proposed restructuring of share capital.
 
-(4) The remuneration and expenses of any person appointed under subsection (3) shall be paid by the pertinent financial institution in which the shares are proposed to be issued.
+(4) The remuneration and expenses of any person appointed under subsection (3) shall be paid by the pertinent financial institution in which the shares are proposed to be cancelled or issued, as the case may be.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (5) The Authority shall serve a copy of any report furnished under subsection (3) on —
 
-(a) the pertinent financial institution in which the shares are proposed to be issued; and
+(a) the pertinent financial institution in which the shares are proposed to be cancelled or issued, as the case may be; and
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (b) where the report is in relation to a determination to be made under subsection (2), on the subscriber.
 
@@ -3013,7 +3490,9 @@ of pertinent financial institution
 
 (7) Before approving the determination, the Minister shall, unless he decides that it is not practicable or desirable to do so —
 
-(a) publish in theGazetteand in such newspaper or newspapers as he may determine a notice of his intention to approve the determination, specifying such particulars as he considers appropriate and the date by which any shareholder of the pertinent financial institution in which the shares are proposed to be issued may make written representations to him; and
+(a) publish in theGazetteand in such newspaper or newspapers as he may determine a notice of his intention to approve the determination, specifying such particulars as he considers appropriate and the date by which any shareholder of the pertinent financial institution in which the shares are proposed to be cancelled or issued, as the case may be, may make written representations to him; and
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (b) cause to be given to the pertinent financial institution notice in writing of his intention to approve the determination, specifying such particulars as he considers appropriate and the date by which the pertinent financial institution may make written representations to him.
 
@@ -3047,9 +3526,17 @@ of pertinent financial institution
 
 (12) Any approval under subsection (11) shall be subject to such conditions as the Minister may determine, and the Minister may add to, vary or revoke any such condition.
 
-(13) The pertinent financial institution shall comply with every condition referred to in subsection (12) that applies to it.
+(13) The pertinent financial institution shall comply with every condition referred to in subsection (12) that applies to it and of which it has been given written notice by the Authority.
 
-(14) The subscriber shall comply with every condition referred to in subsection (12) that applies to the subscriber.
+[Act 31 of 2017 wef 29/10/2018]
+
+(14) The subscriber shall comply with every condition referred to in subsection (12) that applies to the subscriber and of which the subscriber has been given written notice by the Authority.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(14A) A person that contravenes subsection (13) or (14) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (15) A determination, an approval under subsection (11) of a determination or the issue of a certificate shall not preclude the exercise of any power by the Authority or the Minister under this Act or the relevant Act applicable to the pertinent financial institution.
 
@@ -3093,11 +3580,13 @@ of pertinent financial institution
 
 (ii) the certificate shall have effect according to its tenor and be binding on any person thereby affected.
 
-(7) Where the issue of shares under the certificate results in the subscriber becoming a significant shareholder of the pertinent financial institution, upon the coming into effect of the certificate, the transferee —
+(7) Where the issue of shares under the certificate results in the subscriber becoming a significant shareholder of the pertinent financial institution, upon the coming into effect of the certificate, the subscriber —
 
 (a) shall be deemed to have obtained the approval of the Minister or the Authority, as the case may be, under the significant shareholder provisions applicable to the pertinent financial institution, in respect of the shares; and
 
 (b) shall not be required to make a take-over offer or be required to acquire the shares of the other shareholders of the pertinent financial institution, notwithstanding the provisions of the Companies Act (Cap. 50) or the Take-over Code.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (8) The pertinent financial institution shall lodge a copy of the certificate with the Registrar of Companies within 7 days after being served the certificate.
 
@@ -3129,7 +3618,9 @@ of pertinent financial institution
 
 (e) no steps shall be taken to enforce any security over any property of the pertinent financial institution; and
 
-(f) any sale, transfer, assignment or other disposition of any property of the pertinent financial institution shall be void.
+(f) any sale, transfer, assignment or other disposition of any property of the pertinent financial institution shall be void, except for (where the pertinent financial institution is an insurer licensed under the Insurance Act (Cap. 142)) any payment of claims to policy owners or claimants, other than policy owners who are related corporations of the pertinent financial institution.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 31 of 2017 wef 04/06/2018]
 
@@ -3144,6 +3635,504 @@ of pertinent financial institution
 [Act 31 of 2017 wef 04/06/2018]
 
 [Act 9 of 2013 wef 18/04/2013]
+
+Division 4A —
+
+Bail-in powers
+
+### Interpretation of this Division
+
+71\.—(1) In this Division, unless the context otherwise requires —
+
+“appointed date”, in relation to a bail-in certificate, means the date appointed for it to take effect, as specified in the notification under section 75(2);
+
+“bail-in certificate” means a bail-in certificate issued under section 75(1);
+
+“determination” means a determination made by the Authority under section 73(1);
+
+“Division 4A FI” or “Division 4A financial institution”, means a pertinent financial institution that belongs to a class of pertinent financial institutions prescribed by regulations made under section 126 as Division 4A financial institutions;
+
+“eligible instrument” means an instrument or a liability within a class of instruments or liabilities that are prescribed by regulations made under section 126 as eligible instruments;
+
+“pre-resolution creditor” means any person who was a creditor of a Division 4A FI immediately before the date of publication in theGazetteof the bail-in certificate;
+
+“pre-resolution shareholder” means any person who, immediately before the date of publication in theGazetteof the bail-in certificate, held shares or other instrument conferring or representing a legal or beneficial ownership interest in a Division 4A FI;
+
+“resulting FI” or “resulting financial institution”, in relation to a Division 4A FI, means an entity established or incorporated to do one or both of the following:
+
+(a) temporarily hold and manage the assets and liabilities of the Division 4A FI;
+
+(b) do any act for the orderly resolution of the Division 4A FI,
+
+and which issued or must issue a share or other similar instrument representing a legal or beneficial ownership interest, pursuant to a provision of a bail-in certificate issued for that Division 4A FI;
+
+“significant shareholder”, in relation to a Division 4A FI or resulting FI, means any person falling within a description of shareholders of the Division 4A FI or resulting FI prescribed by regulations made under section 126 as its significant shareholders;
+
+“significant shareholder provision” means a provision of any written law that is prescribed by regulations made under section 126 as a significant shareholder provision.
+
+(2) For the purposes of this Division, a reference to cancelling an eligible instrument includes cancelling it in whole or in part.
+
+(3) For the purposes of this Division, a reference to modifying, converting, or changing the form of an eligible instrument is a reference to —
+
+(a) converting the whole or a part of the eligible instrument from one form or class to another;
+
+(b) replacing the whole or a part of the eligible instrument with another instrument or liability of a different form or class;
+
+(c) creating a new instrument (of any form or class) or liability in connection with the modification of the eligible instrument; or
+
+(d) converting the whole or a part of the eligible instrument into shares or other similar instrument issued by a resulting FI.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Exercise of powers under this Division
+
+72\.—(1) In exercising any power under this Division, the Authority must have regard to the desirability of giving each pre-resolution creditor or pre-resolution shareholder of a Division 4A FI the priority and treatment the pre-resolution creditor or pre-resolution shareholder would have enjoyed had the Division 4A FI been wound up.
+
+(2) In determining whether to exercise its powers in accordance with the priority and treatment a pre-resolution creditor or pre-resolution shareholder of a Division 4A FI would have enjoyed had the Division 4A FI been wound up, the Authority may consider the following:
+
+(a) any widespread adverse impact that the Division 4A FI’s failure would have on the financial system in Singapore or the economy of Singapore, or both;
+
+(b) the need to maximise value for the benefit of all creditors of the Division 4A FI as a whole;
+
+(c) the public interest;
+
+(d) any other matter that the Authority considers relevant.
+
+(3) Any exercise of a power under this Division does not prevent the exercise of any other power of the Authority or the Minister under this Act or the relevant Act applicable to the Division 4A FI or resulting FI.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Determination by Authority
+
+73\.—(1) Subject to subsection (2), the Authority may make one or more of the following determinations concerning one or more eligible instruments issued by a Division 4A FI, or to which it is a party or is subject:
+
+(a) that the eligible instrument or instruments should be cancelled;
+
+(b) that the eligible instrument or instruments should be modified, converted or changed in form;
+
+(c) that the eligible instrument or instruments should have effect as if a right of modification, conversion or change of its or their form had been exercised.
+
+(2) The Authority may make the determination in subsection (1) if —
+
+(a) any ground exists for the Authority to exercise any power under the relevant provisions applicable to the Division 4A FI, whether or not the Authority has exercised the power; and
+
+(b) the Authority is of the opinion that —
+
+(i) the eligible instrument or instruments ought to be bailed in to facilitate the orderly resolution of the Division 4A FI; or
+
+(ii) the Division 4A FI’s available assets do not or are unlikely to support payment of its liabilities, as they become due and payable.
+
+(3) The Authority may, before making a determination, appoint one or more persons —
+
+(a) to perform an independent assessment of the extent to which the acts mentioned in subsection (1)(a), (b) and (c) should be carried out for all or any eligible instruments; and
+
+(b) to furnish to the Authority a report on the assessment.
+
+(4) The remuneration and expenses of any person appointed under subsection (3) are to be paid by the Division 4A FI.
+
+(5) The Authority must serve a copy of any report furnished under subsection (3) on the Division 4A FI.
+
+(6) Upon making a determination, the Authority must submit the determination to the Minister for approval.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Approval by Minister of determination
+
+74\.—(1) Before approving a determination of the Authority, the Minister must, unless the Minister decides that it is not practicable or desirable to do so —
+
+(a) publish in theGazetteand in such newspaper or newspapers as the Minister determines, a notice specifying —
+
+(i) the Minister’s intention to approve the determination;
+
+(ii) the date by which the holder of an eligible instrument that is the subject of the determination may make written representations to the Minister; and
+
+(iii) such other particulars as the Minister considers appropriate; and
+
+(b) give to the Division 4A FI written notice specifying —
+
+(i) the Minister’s intention to approve the determination;
+
+(ii) the date by which the Division 4A FI may make written representations to the Minister; and
+
+(iii) such other particulars as the Minister considers appropriate.
+
+(2) In determining the period within which written representations have to be made under subsection (1), the Minister must take into account the need for the measures proposed by the determination to be effected expeditiously in the interest of the stability of the financial system in Singapore.
+
+(3) The Minister must consider all written representations for the purpose of deciding whether to approve the determination.
+
+(4) The Minister may —
+
+(a) approve the determination without modification;
+
+(b) approve the determination subject to any modification the Minister considers appropriate; or
+
+(c) refuse to approve the determination.
+
+(5) Any approval under subsection (4) may be subject to such conditions as the Minister may determine to be necessary to give effect to the determination, and the Minister may add to, vary or revoke any such condition.
+
+(6) The Division 4A FI must comply with every condition mentioned in subsection (5) that applies to it and of which it has been given written notice by the Authority.
+
+(7) A person that contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Bail-in certificate
+
+75\.—(1) If the Minister approves a determination, the Minister must, as soon as practicable, issue a bail-in certificate.
+
+(2) The bail-in certificate comes into effect on such date as the Minister appoints by notification in theGazette.
+
+(3) The bail-in certificate may make provision for one or more of the following:
+
+(a) the cancellation of one or more eligible instruments;
+
+(b) the modification, conversion, or change in form of one or more eligible instruments;
+
+(c) that one or more eligible instruments is or are to have effect as if a right of modification, conversion or change of its or their form had been exercised under it or them;
+
+(d) where provision under paragraph (c) is made, the details of the modification, conversion or change of the form of the eligible instrument or instruments;
+
+(e) incidental, consequential and supplementary matters, including a requirement that the Division 4A FI or any other person must comply with a general or specific direction set out in the certificate.
+
+(4) The bail-in certificate must include such information as may be prescribed by regulations made under section 126.
+
+(5) The bail-in certificate may —
+
+(a) make provision generally or only for specified purposes, cases or circumstances; and
+
+(b) make different provision for different purposes, cases or circumstances.
+
+(6) The Minister may, at any time before the appointed date, add to, vary or revoke any matter specified in the bail-in certificate.
+
+(7) On or before the appointed date, the Authority must cause the bail-in certificate and every addition, variation or revocation mentioned in subsection (6) to be —
+
+(a) served on the Division 4A FI; and
+
+(b) published in theGazetteand in such newspaper or newspapers as the Minister may determine.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Effects of bail-in certificate
+
+76\.—(1) A provision in a bail-in certificate has effect despite any restriction arising by reason of contract, any written law or rule of law in force before the appointed date of the bail-in certificate, or the constitution of the Division 4A FI.
+
+(2) Where a bail-in certificate provides for the cancellation of an eligible instrument —
+
+(a) the cancellation takes effect without other or further act by the Division 4A FI; and
+
+(b) the certificate has effect according to its tenor and is binding on any person affected by it.
+
+(3) Where a bail-in certificate provides for the modification, conversion, or change in form of an eligible instrument —
+
+(a) the modification, conversion, or change in form takes effect without other or further act by the Division 4A FI or resulting FI; and
+
+(b) the certificate has effect according to its tenor and is binding on any person affected by it.
+
+(4) Where a bail-in certificate provides that an eligible instrument is to have effect as if a specified right had been exercised under it —
+
+(a) the eligible instrument has effect as if the specified right had been exercised under it without other or further act by the Division 4A FI or resulting FI; and
+
+(b) the certificate has effect according to its tenor and is binding on any person affected by it.
+
+(5) A reference in subsections (1) to (4) to anything taking or having effect is a reference to that thing taking or having effect from (and including) the appointed date.
+
+(6) A person that fails to comply with any direction given to the person in the bail-in certificate shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+(7) Where a person is charged with an offence under subsection (6), it is a defence for the person to prove that —
+
+(a) the person was not aware of the contravention of the direction; and
+
+(b) the person complied with the direction within a reasonable time after becoming aware of the contravention.
+
+(8) Except as provided in subsection (7), it is not a defence for the person mentioned in that subsection that the person did not intend to or did not knowingly contravene the direction.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Moratorium
+
+77\.—(1) Despite section 53(2) but subject to section 125, during the period beginning on the date of publication of the notice in section 74(1)(a) in theGazetteor, where the notice is not published in theGazette, the date of publication of the bail-in certificate in theGazetteunder section 75(7), and ending on the appointed date of the certificate —
+
+(a) no resolution may be passed, and no order may be made, for the winding up of the Division 4A FI;
+
+(b) no judicial management order under Part VIIIA of the Companies Act (Cap. 50) may be made in relation to the Division 4A FI;
+
+(c) no civil proceedings may be commenced or continued against the Division 4A FI in respect of any business of the Division 4A FI;
+
+(d) no execution, distress or other legal process may be commenced, levied or continued against any property of the Division 4A FI;
+
+(e) no steps may be taken to enforce any security over any property of the Division 4A FI; and
+
+(f) any sale, transfer, assignment or other disposition of any property of the Division 4A FI is void, except for (where the pertinent financial institution is an insurer licensed under the Insurance Act (Cap. 142)) any payment of claims to policy owners or claimants, other than policy owners who are related corporations of the Division 4A FI.
+
+(2) No shareholder of a Division 4A FI or resulting FI may exercise any voting power in the Division 4A FI or resulting FI during the period beginning on —
+
+(a) the date the notice in section 74(1)(a) is published in theGazette; or
+
+(b) where that notice is not published in theGazette, the date the bail-in certificate is published in theGazetteunder section 75(7),
+
+and ending on the date on which the Minister publishes a notice in theGazettethat this subsection ceases to apply.
+
+(3) Subsection (2) has effect despite anything in the Companies Act or the constitution of the Division 4A FI or resulting FI.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Significant shareholder by reason of bail-in certificate
+
+78\.—(1) Where any person becomes a significant shareholder of a Division 4A FI or resulting FI as a result of a provision of a bail-in certificate, that person —
+
+(a) is treated as having obtained the approval of the Minister or the Authority, as the case may be, under the significant shareholder provisions applicable to the Division 4A FI or the resulting FI, in respect of the person becoming a significant shareholder; and
+
+(b) is not required to make a take-over offer or to acquire the shares of the other shareholders of the Division 4A FI or resulting FI (as the case may be), despite anything in the Companies Act (Cap. 50) or the Take-over Code.
+
+(2) The person mentioned in subsection (1) must comply with such conditions as the Minister may reasonably impose on the person, including but not limited to the following:
+
+(a) a condition restricting the person’s disposal or further acquisition of shares or voting power in the Division 4A FI or resulting FI, as the case may be;
+
+(b) a condition restricting the person’s exercise of voting power in the Division 4A FI or resulting FI, as the case may be.
+
+(3) The Minister may, at any time, add to, vary or revoke any condition imposed under subsection (2).
+
+(4) Any condition imposed under subsection (2) has effect despite anything in the Companies Act or the constitution of the Division 4A FI or resulting FI.
+
+(5) Despite subsection (1)(a), the Minister may serve a written notice on the person mentioned in subsection (1) if —
+
+(a) the Authority is not satisfied that —
+
+(i) the person is, in accordance with the Guidelines on Fit and Proper Criteria, a fit and proper person to be a significant shareholder; and
+
+(ii) having regard to the likely influence of the person on it, the Division 4A FI or resulting FI will or will continue to conduct its business prudently and comply with the provisions of this Act and the relevant Act applicable to it; or
+
+(b) the Minister is not satisfied that —
+
+(i) in a case where the Division 4A FI or resulting FI is a bank incorporated in Singapore, it is in the national interest for the person to remain a significant shareholder of the Division 4A FI or resulting FI, as the case may be; or
+
+(ii) in any other case, it is in the public interest for the person to remain a significant shareholder of the Division 4A FI or resulting FI, as the case may be.
+
+(6) The written notice in subsection (5) is one that requires the person to take such steps within a reasonable time as are necessary to cease to be a significant shareholder of the Division 4A FI or resulting FI, as the case may be.
+
+(7) Before serving the notice in subsection (5), the Minister must (unless the Minister decides that it is not practicable or desirable to do so) cause to be given to the person a written notice of the Minister’s intention to serve the notice in that subsection, and specifying a date by which the person may make written representations.
+
+(8) Upon receipt of any written representation, the Minister must consider it for the purpose of determining whether to serve the notice in subsection (5).
+
+(9) Where the Minister has served a notice in subsection (5) on a person, then, until the person has disposed of or transferred the shares specified in the notice and in accordance with the notice —
+
+(a) no voting rights are exercisable in respect of the specified shares except with the permission of the Minister, whether or not a notice under section 77(2) is published that the provision has ceased to apply;
+
+(b) no shares of the Division 4A FI or resulting FI (as the case may be) may be issued or offered (whether by way of rights, bonus or otherwise) in respect of the specified shares except with the permission of the Minister; and
+
+(c) except in a liquidation of the Division 4A FI or resulting FI (as the case may be), the Division 4A FI or resulting FI may not make any payment (whether by way of dividends or otherwise) in respect of the specified shares except with the permission of the Minister.
+
+(10) Subsection (9) has effect despite anything in the Companies Act or the constitution of the Division 4A FI or resulting FI.
+
+(11) In this section, “Guidelines on Fit and Proper Criteria” means the document by that title issued by the Authority and published on its website, as revised from time to time.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Directions for disposal
+
+79\.—(1) If the Minister is satisfied that any person has failed to comply with a condition imposed on the person in section 78(2), or if the Minister has served a notice on the person in section 78(5), the Minister may, by notice in writing —
+
+(a) direct the transfer or disposal of all or any of the shares in the Division 4A FI or resulting FI held by the person within such time and in such manner as the Minister considers appropriate;
+
+(b) restrict the transfer or disposal of those shares; or
+
+(c) make such other direction as the Minister considers appropriate.
+
+(2) Any person to whom a notice is given under subsection (1) must comply with each direction specified in the notice.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Offence
+
+80\. A person that fails to comply with a condition imposed on the person in section 78(2), or a notice served on the person in section 78(5) or 79(1), shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Restriction on eligible instruments
+
+81\.—(1) To ensure the effective operation of the provisions of this Division on an eligible instrument, the Authority may make regulations under section 126 to impose a requirement on a Division 4A FI to ensure that the contract governing the eligible instrument contains a provision to the effect that the parties to the contract agree for the eligible instrument to be the subject of a bail-in certificate.
+
+(2) The regulations may —
+
+(a) specify the eligible instruments or class of eligible instruments, and Division 4A FI or class of Division 4A FIs, to which the requirement applies;
+
+(b) require a Division 4A FI bound by the requirement to provide a legal opinion as to the enforceability of the provision required to be included in the contract in a specified jurisdiction; and
+
+(c) provide for incidental, consequential or transitional matters.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+Division 4B —
+
+Termination rights
+
+### Interpretation of this Division
+
+82\. In this Division, unless the context otherwise requires —
+
+“approved clearing house” has the same meaning as in section 2(1) of the Securities and Futures Act (Cap. 289);
+
+“basic substantive obligation”, in relation to a contract, means an obligation provided by the contract for payment, delivery or the provision of collateral;
+
+“business day” has the same meaning as in section 2(1) of the Banking Act (Cap. 19);
+
+“designated payment system” means a payment system within the meaning of the Payment Systems (Oversight) Act (Cap. 222A) that is designated under section 7 of that Act;
+
+“foreign resolution” means any action by a foreign resolution authority of a foreign country or territory to do either or both of the following:
+
+(a) to maintain financial stability;
+
+(b) to deal with any serious problem in a financial institution of that country or territory which affects the ability of the financial institution to continue its business or operations as a financial institution, and which, if not dealt with, may cause the financial institution to be no longer able to continue its business or operations as a financial institution;
+
+“foreign resolution authority”, in relation to a foreign country or territory, means an authority of the foreign country or territory which, whether alone or together with one or more other authorities of the foreign country or territory, is responsible for a foreign resolution, or for preparing plans for a foreign resolution;
+
+“group of companies”, in relation to a pertinent financial institution, means —
+
+(a) the pertinent financial institution;
+
+(b) the entities that are subsidiaries of the pertinent financial institution; and
+
+(c) the entity that is the holding company of the pertinent financial institution, and the entities that are subsidiaries of that holding company;
+
+“operator” and “settlement institution” have the meanings given to those terms in section 2(1) of the Payment Systems (Oversight) Act;
+
+“reinsurance contract” means any contract or arrangement involving the reinsurance of liabilities under insurance policies;
+
+“resolution measure” means —
+
+(a) the making of a determination under Division 2, 3, 4, 4A or 5A, the issue of any certificate under Division 2, 3, 4 or 4A, the making of an order under Division 5A, or the exercise of any power under any such certificate or order; or
+
+(b) the exercise of any power under any relevant provision applicable to the pertinent financial institution concerned;
+
+“termination right” means —
+
+(a) a right to terminate a contract;
+
+(b) a right to accelerate, close out, set off or net an obligation under a contract that would result in a suspension or modification or the extinguishment of the obligation;
+
+(c) a right to suspend, modify or extinguish an obligation of a party to a contract; or
+
+(d) in the case of a reinsurance contract, a right of the reinsurer to terminate or not to reinstate coverage under the contract.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Effect of resolution measure on contracts where substantive obligations continue to be performed
+
+83\.—(1) This section applies to a contract that satisfies both of the following:
+
+(a) one of the parties to the contract is —
+
+(i) a pertinent financial institution that is the subject of a resolution measure; or
+
+(ii) an entity that is part of the same group of companies as that of a pertinent financial institution where —
+
+(A) the pertinent financial institution is the subject of a resolution measure; and
+
+(B) the obligations of the entity under the contract are guaranteed or otherwise supported by the pertinent financial institution;
+
+(b) the substantive obligations of the contract (including all applicable basic substantive obligations) continue to be performed by the parties to the contract.
+
+(2) Despite any provision of any rule of law, written law or contract —
+
+(a) the resolution measure, and the occurrence of any event directly linked to it, are to be disregarded in determining the applicability of a provision in the contract enabling a party to exercise a termination right; and
+
+(b) any purported exercise of that termination right in reliance on that provision in the contract on the basis of either of those grounds in paragraph (a) has no effect.
+
+(3) For the purposes of subsection (1)(b), a basic substantive obligation of a pertinent financial institution (being an approved clearing house or an operator or a settlement institution of a designated payment system) under a contract is not considered to be no longer performed, by reason only that the institution allocates any loss to its participants, or uses collateral provided by or on behalf of its participants —
+
+(a) under its margin rules or default arrangements; or
+
+(b) pursuant to a resolution measure.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Right to temporarily suspend termination right for contracts because of resolution measure
+
+84\.—(1) This section applies to a contract one of the parties to which is —
+
+(a) a pertinent financial institution that is the subject or proposed subject of a resolution measure;
+
+(b) a pertinent financial institution in respect of which a foreign resolution authority of a foreign country or territory has carried out, or has informed the Authority that it has grounds to carry out, a foreign resolution; or
+
+(c) an entity that is part of the same group of companies as that of a pertinent financial institution where —
+
+(i) the pertinent financial institution is the subject or proposed subject of a resolution measure;
+
+(ii) the contract has a termination right that is exercisable if the pertinent financial institution becomes insolvent or is in a certain financial condition; and
+
+(iii) the obligations of the entity under the contract are guaranteed or otherwise supported by the pertinent financial institution.
+
+(2) The Authority may, by notice in writing to the parties to the contract, suspend the exercise of any termination right in the contract for a specified period.
+
+(3) The notice under subsection (2) does not apply to —
+
+(a) a termination right under the contract which becomes exercisable for a breach of a basic substantive obligation only;
+
+(b) a termination right under a contract between the pertinent financial institution and a person prescribed for the purposes of this paragraph by regulations made under section 126; or
+
+(c) a termination right under a contract, or a contract within a class of contracts, prescribed for the purposes of this paragraph by regulations made under section 126.
+
+(4) When exercising a power under subsection (2), the Authority must have regard to its impact on the safe and orderly functioning of the financial market and financial market infrastructures operating in Singapore.
+
+(5) The notice under subsection (2) —
+
+(a) may relate to all or any class or description of parties to a contract;
+
+(b) may make different provisions for different classes or descriptions of parties to a contract; and
+
+(c) may be of general or specific application.
+
+(6) A copy of the notice under subsection (2) must be published —
+
+(a) by the Authority in theGazetteand on its website; and
+
+(b) by the pertinent financial institution on its website.
+
+(7) In this section, a pertinent financial institution is a proposed subject of a resolution measure if the Authority is satisfied that there is a basis for that action under section 50 in relation to that pertinent financial institution.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### When suspension takes effect
+
+85\.—(1) A suspension by a notice under section 84 takes effect from (and including) the time of publication of the notice under that section in theGazetteor a time on another date specified in the notice, and —
+
+(a) if the contract is not a reinsurance contract, expires no later than the same time on the second business day after —
+
+(i) the date of publication of the notice; or
+
+(ii) the other date specified in the notice,
+
+as the case may be; or
+
+(b) if the contract is a reinsurance contract, expires no later than the time and date prescribed for the purposes of this paragraph by regulations made under section 126.
+
+(2) During the period of suspension of a termination right under a contract and despite any provision of any rule of law, written law or contract, any purported exercise of that right has no effect.
+
+(3) A person whose termination right under a contract is suspended under section 84 may (in accordance with the terms of the contract) exercise that right before the expiry of the suspension if the Authority gives the person written notice that the person may exercise that right because —
+
+(a) the contract does not or will not form part of the business of the pertinent financial institution to be transferred under section 58; or
+
+(b) the Authority has decided not to make a determination under Division 4A in relation to the pertinent financial institution.
+
+(4) On the expiry of the period of suspension under section 84 of a termination right under a contract, the person who holds that right may (if it had not already been exercised under subsection (3)) exercise that right in accordance with the terms of the contract, but not on any of the following grounds:
+
+(a) a resolution measure taken in relation to the pertinent financial institution;
+
+(b) the occurrence of an event directly linked to such resolution measure;
+
+(c) if the contract forms part of any business of the pertinent financial institution that has been transferred to another person pursuant to a certificate of transfer under section 58 or an onward transfer certificate under section 64, any act of the pertinent financial institution before the transfer;
+
+(d) the suspension itself.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 Division 5 —
 
@@ -3372,6 +4361,812 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 9 of 2013 wef 18/04/2013]
 
+Division 5A —
+
+Recognition of foreign resolutions
+
+### General provisions
+
+93\.—(1) In this Division, unless the context otherwise requires —
+
+“determination” means a determination made under section 94;
+
+“foreign financial institution” means a financial institution incorporated, formed or established in a foreign country or territory that has —
+
+(a) a branch located in Singapore; or
+
+(b) a subsidiary incorporated in Singapore,
+
+that is approved, authorised, designated, recognised, registered, licensed or otherwise regulated by the Authority under this Act or any of the written laws set out in the Schedule;
+
+“foreign resolution” means any action by a foreign resolution authority of a foreign country or territory to do either or both of the following:
+
+(a) to maintain financial stability;
+
+(b) to deal with any serious problem in a foreign financial institution of that country or territory which affects the ability of the financial institution to continue its business or operations as a financial institution, and which, if not dealt with, may cause the financial institution to be no longer able to continue its business or operations as a financial institution;
+
+“foreign resolution authority”, in relation to a foreign country or territory, means an authority of that country or territory which, whether alone or together with one or more other authorities of that country or territory, is responsible for a foreign resolution, or for preparing plans for a foreign resolution;
+
+“Singapore creditor”, in relation to a foreign financial institution, means —
+
+(a) a creditor of the foreign financial institution, in respect of a liability incurred by the operations of its branch located in Singapore; or
+
+(b) a creditor of a subsidiary incorporated in Singapore of the foreign financial institution;
+
+“Singapore shareholder”, in relation to a foreign financial institution, means the holder of shares or similar instruments of a subsidiary incorporated in Singapore of the foreign financial institution.
+
+(2) The exercise of any power under this Division does not prevent the exercise of any other power of the Minister or the Authority under this Act or the relevant Act applicable to the foreign financial institution or to the subsidiary incorporated in Singapore of a foreign financial institution, as the case may be.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Determination over foreign resolution
+
+94\.—(1) This section applies where a foreign resolution authority of a foreign country or territory makes a request to the Authority to recognise a foreign resolution in relation to a foreign financial institution by the foreign resolution authority.
+
+(2) The Authority must make a determination that —
+
+(a) the foreign resolution should be recognised in whole or in part; or
+
+(b) the foreign resolution should not be recognised.
+
+(3) The Authority may make a determination that the foreign resolution should be recognised in whole or in part if it is satisfied that all of the following conditions are fulfilled:
+
+(a) recognition of the foreign resolution or part would not have a widespread adverse effect on the financial system in Singapore or the economy of Singapore, whether or not that effect occurs directly or indirectly as a result of the effects of recognising the resolution or part;
+
+(b) recognition of the foreign resolution or part would not result in inequitable treatment of any Singapore creditor relative to any other creditor of the foreign financial institution with similar rights, or of any Singapore shareholder relative to any shareholder of the foreign financial institution;
+
+(c) recognition of the foreign resolution or part would not be contrary to the national interest or public interest;
+
+(d) recognition of the foreign resolution or part would not have material fiscal implications for Singapore;
+
+(e) any other condition that is prescribed by regulations made under section 126 for the purposes of this paragraph.
+
+(4) Upon making a determination, the Authority must submit the determination to the Minister for approval.
+
+(5) The Minister may —
+
+(a) approve the determination without modification;
+
+(b) approve the determination subject to any modification the Minister considers appropriate; or
+
+(c) refuse to approve the determination.
+
+(6) The Minister must not approve the determination under subsection (5)(a) or (b) unless satisfied that all of the conditions mentioned in subsection (3) are fulfilled.
+
+(7) An approval under subsection (5) is subject to such conditions as the Minister may determine, and the Minister may add to, vary or revoke any condition.
+
+(8) Any person to which a condition mentioned in subsection (7) applies, and who has been given written notice of that condition by the Authority, must comply with the condition.
+
+(9) A person that contravenes subsection (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Order to give effect to foreign resolution
+
+95\.—(1) If the Minister approves a determination that a foreign resolution should be recognised in whole or in part, the Minister must, as soon as practicable, by order in theGazette, declare that the foreign resolution is to be recognised.
+
+(2) The order may make provision for any of the following matters, to take effect from a date specified in the order:
+
+(a) matters that may be set out in a certificate of transfer pursuant to section 58(3);
+
+(b) matters that may be set out in a certificate of transfer of shares pursuant to section 67(3);
+
+(c) matters that may be set out in a certificate of restructuring of share capital pursuant to section 70(3);
+
+(d) matters that may be set out in a bail-in certificate pursuant to section 75(3).
+
+(3) The matters mentioned in paragraphs (a) to (d) of subsection (2) may be modified for the purposes of giving effect to the foreign resolution.
+
+(4) To avoid doubt, provision may be made in the order for matters mentioned in subsection (2)(d) affecting instruments or liabilities entered into or accruing before the effective date of the order.
+
+(5) With effect from the effective date of the order, sections 58(8) to (17) and 59, section 67(6) to (13), section 70(6) to (14), or sections 76 to 80 (as the case may be), together with the regulations that are made under section 126 for the purpose of implementing those provisions, apply in relation to an order that provides for the matters mentioned in paragraph (a), (b), (c) or (d) of subsection (2), as they apply in relation to the certificate mentioned in that paragraph.
+
+(6) The provisions of this Act mentioned in subsection (5) apply subject to such modifications as the order may prescribe.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Directions
+
+96\. The Authority may, from time to time, issue such directions to any person who is approved, authorised, designated, recognised, registered, licensed or otherwise regulated by the Authority under this Act or any of the written laws set out in the Schedule, as the Authority considers necessary for the purposes of giving full effect to the order mentioned in section 95.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Offence
+
+97\.—(1) A person that refuses or fails to comply with a provision of the order under section 95 that applies to the person, or a direction issued to the person under section 96, shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction; or
+
+(b) in any other case, to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+(2) Where a person is charged with an offence under subsection (1), it is a defence for the person to prove that —
+
+(a) the person was not aware of the contravention of the provision of the order or the direction; and
+
+(b) the person has complied with the provision of the order or the direction within a reasonable time after becoming aware of the contravention.
+
+(3) Except as provided in subsection (2), it is not a defence for a person charged with an offence under subsection (1) that the person did not intend to or did not knowingly contravene the provision of the order or the direction.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+Division 5B —
+
+Resolution funding
+
+### Interpretation of this Division
+
+98\. In this Division, unless the context otherwise requires —
+
+“Agency” means the company designated by the Minister under section 56 of the Deposit Insurance and Policy Owners’ Protection Schemes Act (Cap. 77B) as the deposit insurance and policy owners’ protection fund agency;
+
+“DI Fund” means the Deposit Insurance Fund reconstituted under section 9 of the Deposit Insurance and Policy Owners’ Protection Schemes Act;
+
+“financial institution” means any person that is approved, authorised, designated, recognised, registered, licensed or otherwise regulated by the Authority under this Act or any of the written laws set out in the Schedule;
+
+“financial institution under resolution” means the pertinent financial institution that is the subject of a resolution measure and, in relation to a resolution fund, means the pertinent financial institution that is the subject of the resolution measure for which the fund is established;
+
+“market infrastructure” means a pertinent financial institution that performs the functions of a market, a central clearing counterparty, a trade repository, a central securities depository, or a securities settlement system;
+
+“participant” —
+
+(a) in relation to a market infrastructure, means a participant of the market infrastructure, and includes a client of such participant; and
+
+(b) in relation to a payment system operator, means a participant of the payment system (within the meaning of the Payment Systems (Oversight) Act (Cap. 222A)) operated by the payment system operator;
+
+“payment system operator” means a person who operates a payment system within the meaning of the Payment Systems (Oversight) Act;
+
+“provisional entity”, in relation to a resolution fund, means an entity established or incorporated to do one or more of the following:
+
+(a) temporarily hold and manage the assets and liabilities of the financial institution under resolution;
+
+(b) to be the transferee of any part of the business of the financial institution under resolution under Division 2;
+
+(c) do any other act for the orderly resolution of the financial institution under resolution;
+
+“resolution fund” means a fund established under section 99;
+
+“resolution measure” means —
+
+(a) the making of a determination under Division 2, 2A, 3, 4, 4A or 5A, the issue of any certificate under Division 2, 2A, 3, 4 or 4A, the making of an order under Division 5A, or the exercise of any power under any such certificate or order; or
+
+(b) the exercise of any power under any relevant provision applicable to the financial institution concerned;
+
+“resolution measure”, in relation to a resolution fund, means the resolution measure or measures for which the fund was established;
+
+“similar financial institution” means a financial institution that is prescribed by regulations made under section 126 for the purposes of section 102(1)(b)(i), as belonging to the same category as the financial institution under resolution;
+
+“trustee”, in relation to a resolution fund, means the entity appointed under section 99(2) as the trustee of the fund.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Establishment of resolution fund
+
+99\.—(1) For the purposes of supporting a resolution measure undertaken for a financial institution and other matters relating to the measure, the Minister may, on the recommendation of the Authority, establish a resolution fund.
+
+(2) The Minister must appoint a body corporate or unincorporate established or incorporated in Singapore, or established under any Act, to be the trustee of the resolution fund.
+
+(3) The Authority must publish a notification in theGazetteand in such newspaper or newspapers as the Minister determines, of the establishment of a resolution fund and the trustee of the fund.
+
+(4) The trustee of a resolution fund may obtain a loan from the Authority for the purpose of constituting the fund.
+
+(5) In addition to the loan in subsection (4), the following are to be paid into a resolution fund:
+
+(a) all payments, levies and late payment fees collected or recovered under sections 103, 105, 106 and 107;
+
+(b) any interest from a loan made out of moneys withdrawn from the fund;
+
+(c) any other income from the use of moneys withdrawn from the fund;
+
+(d) any proceeds from the exercise of the resolution measure;
+
+(e) any moneys paid out of the DI Fund under section 29A of the Deposit Insurance and Policy Owners’ Protection Schemes Act (Cap. 77B) and given to the trustee of the fund;
+
+(f) any additional loan obtained from the Authority.
+
+(6) The moneys mentioned in subsection (5)(e) must be put in a separate account of the resolution fund from the other moneys, and moneys from that separate account may not be used to make any payment of compensation and associated costs under Division 5C.
+
+(7) The trustee of a resolution fund must keep proper accounts and records of transactions in respect of the fund.
+
+(8) The accounts and records of the resolution fund are to be audited by an auditor appointed by the trustee in consultation with the Minister.
+
+(9) The first audit of the resolution fund must take place as soon as practicable after the end of the first year in which the first withdrawal from the fund is made, and the fund must be audited every year thereafter until it is dissolved.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Trustee of resolution fund
+
+100\.—(1) The duty of the trustee of a resolution fund is to administer and manage the fund, and in particular —
+
+(a) to make withdrawals from the fund in accordance with sections 101 and 109(1) and to apply the moneys withdrawn for the purposes mentioned in those provisions;
+
+(b) to collect and recover payments, levies and late payment fees under sections 103, 105, 106 and 107 and pay these into the fund;
+
+(c) to collect proceeds in relation to the resolution measure and pay these into the fund;
+
+(d) at the direction of the Minister (being one made on the Authority’s recommendation), to give a guarantee to any person for, or enter into any agreement with any person to share, any liability of the financial institution under resolution, a provisional entity, or a person to whom any asset or business of the financial institution under resolution is transferred;
+
+(e) to deal with the balance in the resolution fund after the fund is no longer needed for the purposes in section 101(1) or 109(1), in accordance with the regulations made for the purposes of section 109(2); and
+
+(f) do any other thing that is incidental or conducive to the discharge of its duties under paragraphs (a) to (e).
+
+(2) The trustee of a resolution fund may be paid such fees for carrying out its duties and exercising its powers under this Division as the Minister may determine, and such fees are to be paid out of the fund.
+
+(3) The expenses incurred by the trustee of a resolution fund in carrying out its duties and exercising its powers under this Division are, with the Minister’s approval, to be paid out of the fund.
+
+(4) The trustee of a resolution fund may, with the Minister’s approval and subject to such conditions as the Minister may impose, appoint any person to discharge any part of its duties or exercise any part of its powers.
+
+(5) No action, suit or other legal proceedings lie against —
+
+(a) any current or former trustee of a resolution fund;
+
+(b) any current or former director, officer, employee or agent of the trustee; or
+
+(c) any person acting under the direction of the trustee,
+
+as a result of anything done (including any statement made) or omitted to be done in good faith in carrying out any of the trustee’s duties or exercising any of the trustee’s powers under this Division.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Withdrawal from resolution fund
+
+101\.—(1) The trustee of a resolution fund must, at the Minister’s direction, make one or more withdrawals from the fund and apply the moneys withdrawn for one or more of the following purposes:
+
+(a) to pay the operating costs of a provisional entity;
+
+(b) to discharge a guarantee for, or an obligation under an agreement to share, a liability of the financial institution under resolution, a provisional entity or a person to whom any asset or business of the financial institution has been transferred;
+
+(c) to pay the costs of transferring the whole or any part of the business of the financial institution under resolution pursuant to the resolution measure;
+
+(d) to make or provide a loan, advance, overdraft or other credit facility to the financial institution under resolution or a provisional entity;
+
+(e) to pay any other costs reasonably incurred in the resolution measure, such as interest costs, legal cost, cost of any advisory services, and the cost of an independent valuation of the financial institution under resolution;
+
+(f) to make any payment of compensation and associated costs under Division 5C;
+
+(g) to pay the remuneration and expenses of a valuer mentioned in section 115(9);
+
+(h) to provide capital to the financial institution under resolution or the provisional entity;
+
+(i) such other purposes in support of the resolution measure as may be prescribed by regulations made under section 126.
+
+(2) The Minister may only give a direction to the trustee under subsection (1) on a recommendation of the Authority.
+
+(3) In determining whether to make a recommendation to the Minister to direct a trustee of a resolution fund to make a withdrawal under subsection (1), the Authority must have regard to all of the following:
+
+(a) whether losses are imposed on shareholders and unsecured creditors of the financial institution under resolution under Division 4 or 4A;
+
+(b) whether funding from the private sector can be obtained for the resolution measure;
+
+(c) such other factors as may be prescribed by regulations made under section 126.
+
+(4) The Authority may only make a recommendation to the Minister under subsection (1)(h) to make a withdrawal to provide capital to the financial institution under resolution —
+
+(a) if the Authority is of the view that the provision of the capital is necessary for the orderly resolution of the financial institution under resolution; and
+
+(b) after the Authority has taken into account whether appropriate losses have been imposed on shareholders and unsecured creditors of the financial institution under resolution under Division 4 or 4A.
+
+(5) Where a direction has been made to the trustee under subsection (1), the Authority must, as soon as practicable, publish a notice of that fact in theGazetteand in such newspaper or newspapers as the Minister determines.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Recovery of sums withdrawn
+
+102\.—(1) Where one or more withdrawals have been made from a resolution fund under section 101, the Minister may direct the trustee of the resolution fund to recover the sum or sums withdrawn in one or both of the following ways:
+
+(a) by making a claim for all or part of that sum or those sums from the financial institution under resolution;
+
+(b) by imposing a levy, in accordance with section 104 and the regulations made under section 126 for that section, on the following persons (called in this Part levy payers):
+
+(i) financial institutions that have been prescribed by regulations made under section 126 as belonging to the same category as the financial institution under resolution;
+
+(ii) if the financial institution under resolution is a market infrastructure, those participants of the market infrastructure and of other market infrastructures, that have been prescribed by regulations made under section 126 as levy payers;
+
+(iii) if the financial institution under resolution is a payment system operator, those participants of the payment system operator that have been prescribed by regulations made under section 126 as levy payers.
+
+(2) In addition to the purpose in subsection (1), the Minister may direct the trustee of a resolution fund to impose a levy, in accordance with section 104 and the regulations made under section 126 for section 104, on levy payers for the purpose of meeting any shortfall in the amount of the levy collected to make good the amount withdrawn from the account, or for any other prescribed purpose.
+
+(3) The Minister may only give a direction under subsection (1) or (2) on a recommendation of the Authority.
+
+(4) The Authority must, as soon as practicable after the Minister has given a direction under subsection (1) or (2), publish a notice in theGazetteand in such newspaper or newspapers as the Minister determines, of the direction.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Claim from financial institution under resolution
+
+103\.—(1) Where a direction has been given under section 102(1)(a), the trustee of the resolution fund must make a claim mentioned in that provision on the financial institution under resolution to pay the sum mentioned in the direction, at such time and in such manner as the trustee determines, and the sum claimed is recoverable as a debt due from the financial institution under resolution to the trustee.
+
+(2) Any sum recovered from the financial institution under resolution must be paid into the resolution fund.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Computation and notice of levy
+
+104\.—(1) After the Minister has given a direction under section 102(1)(b) or (2), the Authority must, in accordance with the regulations made under section 126 for the purpose of this section —
+
+(a) compute the amount of levy payable by every levy payer; and
+
+(b) give a written notice to the trustee of the amount of levy payable by every levy payer.
+
+(2) After receipt of the notice mentioned in subsection (1)(b), the trustee must give the notices mentioned in subsection (3), (4), (5) or (6) (whichever is applicable) to the levy payers and in the manner set out in that subsection.
+
+(3) Where the levy is to be imposed on a similar financial institution, the trustee must give each similar financial institution a notice in writing stating —
+
+(a) the amount of the levy;
+
+(b) the date by which the levy is to be paid;
+
+(c) the manner of payment of the levy; and
+
+(d) such other matters as may be prescribed by regulations made under section 126.
+
+(4) Where the levy is to be imposed on participants of a market infrastructure on a transaction basis, the trustee must give —
+
+(a) a notice to the market infrastructure stating —
+
+(i) the description of the participants on which the levy is imposed;
+
+(ii) the amount of the levy it is to collect from each participant, or the rate of computation of that amount;
+
+(iii) the period and manner of collection;
+
+(iv) the date by which the market infrastructure is to pay the total amount of the levy imposed on the participants to the trustee;
+
+(v) the information and documents it is to provide to the trustee when making the payment under sub-paragraph (iv); and
+
+(vi) such other matters as may be prescribed by regulations made under section 126; and
+
+(b) a general notice to those participants, to be published on such medium as may be determined by the trustee, stating —
+
+(i) the matters in paragraph (a)(i), (ii) and (iii); and
+
+(ii) such other matters as may be prescribed by regulations made under section 126.
+
+(5) Where the levy is to be imposed on participants of a market infrastructure on a lump sum basis, the trustee must give to each participant of the market infrastructure a notice in writing stating —
+
+(a) the amount of the levy;
+
+(b) the date by which the levy is to be paid;
+
+(c) the manner of payment of the levy; and
+
+(d) such other matters as may be prescribed by regulations made under section 126.
+
+(6) Where the levy is to be imposed on participants of a payment system operator, the trustee must give to each participant a notice in writing stating —
+
+(a) the amount of the levy;
+
+(b) the date by which the levy is to be paid;
+
+(c) the manner of payment of the levy; and
+
+(d) such other matters as may be prescribed by regulations made under section 126.
+
+(7) The notice under subsection (3), (5) or (6) may require the levy payer to pay an amount of levy regularly over a period of time.
+
+(8) The trustee may, at any time, vary a notice mentioned in subsection (3), (4), (5) or (6), and give the notice of the variation to every person to whom the initial notice was given, and each reference in section 105 or 106 to a notice given to a person under this section includes a reference to the notice of the variation given to the person under this subsection.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Payment of levy by similar financial institutions, participants of market infrastructure on lump sum basis, or participants of payment system operator
+
+105\.—(1) This section applies where a notice under section 104(3), (5) or (6) is given to a levy payer that is a similar financial institution or a participant of a market infrastructure or payment system operator.
+
+(2) The levy payer must pay to the trustee of the resolution fund on or before the date of payment specified in the notice, the amount of the levy specified in the notice.
+
+(3) If the levy payer fails to comply with subsection (2) —
+
+(a) the trustee may, by notice in writing to the levy payer, impose on it such late payment fee as may be prescribed by regulations made under section 126; and
+
+(b) the levy payer must pay to the trustee the late payment fee together with the amount of the unpaid levy on or before the date specified in the notice under paragraph (a), and in the manner specified in the notice.
+
+(4) The late payment fee under subsection (3) must not exceed the amount of the unpaid levy.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Payment of levy by participants of market infrastructure on transaction basis
+
+106\.—(1) This section applies where a notice under section 104(4) is given to a market infrastructure.
+
+(2) The market infrastructure must —
+
+(a) during the period of collection specified in the notice, collect from each participant on whom the levy is imposed under the notice and in the manner specified in the notice, an amount equal to the levy so imposed;
+
+(b) pay to the trustee of the resolution fund the total amount of the levy it is to collect from its participants by the date of payment specified in the notice; and
+
+(c) together with the payment, give a notice to the trustee setting out how the amount of levy is arrived at and providing such other details as the trustee may reasonably require.
+
+(3) A market infrastructure does not incur any civil liability for doing anything with reasonable care and in good faith in compliance with subsection (2).
+
+(4) If a market infrastructure fails to comply with subsection (2)(b) —
+
+(a) the trustee may, by notice in writing to the market infrastructure, impose on it such late payment fee as may be prescribed by regulations made under section 126; and
+
+(b) the market infrastructure must pay to the trustee the late payment fee, together with the amount of the unpaid levy, on or before the date specified in the notice under paragraph (a), and in the manner specified in the notice.
+
+(5) A market infrastructure that —
+
+(a) fails to comply with subsection (2)(c); or
+
+(b) in purported compliance with that provision, provides to the trustee of the resolution fund any information that the market infrastructure knows or has reason to believe is false or misleading,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+(6) The late payment fee under subsection (4) must not exceed the amount of the unpaid levy.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Recovery, refund and remission of levies and late payment fees, etc.
+
+107\.—(1) The levy imposed on a person under section 104(3), (5) or (6), and any late payment fee imposed on the person under section 105(3), are both recoverable as a debt due from that person to the trustee of the resolution fund concerned.
+
+(2) The amount of levy that a market infrastructure is required to collect from its participants under section 106(2), and any late payment fee imposed on the market infrastructure under section 106(4), are both recoverable as a debt due from the market infrastructure to the trustee of the resolution fund concerned.
+
+(3) Where the trustee of a resolution fund has commenced any legal proceedings in a court in Singapore to recover any levy or late payment fee from a person, the trustee is entitled to claim costs on a full indemnity basis from that person.
+
+(4) All levies and late payment fees collected or recovered are to be paid into the resolution fund concerned.
+
+(5) Where a levy payer has paid an amount of levy that is in excess of the amount imposed on the levy payer under a notice under section 105, the trustee of the resolution fund concerned must make a withdrawal from the fund to refund the excess amount to the levy payer.
+
+(6) In any particular case other than the one to which subsection (5) applies, the trustee of a resolution fund may, with the approval of the Minister —
+
+(a) make a withdrawal from the fund to refund in whole or in part any levy paid by a levy payer; or
+
+(b) remit in whole or in part any levy payable by a levy payer.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Disclosure of information on levy
+
+108\.—(1) This section applies to a notice given under section 104(3), (5) or (6) to a levy payer that is a similar financial institution or a participant of a market infrastructure or payment system operator.
+
+(2) Subject to subsections (3) and (4), the levy payer, and any of its officers, must not disclose to any person —
+
+(a) the amount of the levy specified in the notice; and
+
+(b) any information which, if disclosed, would enable the amount of the levy to be identified or deduced.
+
+(3) Despite subsection (2), the levy payer and any of its officers may disclose any information mentioned in subsection (4) to —
+
+(a) any officer of the levy payer;
+
+(b) where the levy payer is one that is established or incorporated in a foreign country or territory, its head office, parent corporation, parent supervisory authority, resolution authority, deposit insurance authority or policy owners’ protection scheme authority, as the case may be;
+
+(c) where the levy payer is a financial institution that is a subsidiary of a foreign corporation, that corporation or the corporation’s parent supervisory authority, resolution authority, deposit insurance authority or policy owners’ protection scheme authority, as the case may be; or
+
+(d) such other person or class of persons as the Authority may approve in writing.
+
+(4) The information that may be disclosed under subsection (3) is such information that is necessary for the performance of the duties of the person or authority mentioned in subsection (3)(a), (b), (c) or (d), as the case may be.
+
+(5) A person to whom information is disclosed under subsection (3) must not disclose the information to any other person except as approved by the Authority.
+
+(6) Any person who contravenes subsection (2) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(7) This section does not apply to any information that is public information.
+
+(8) In this section —
+
+“deposit insurance authority”, in relation to a levy payer or foreign corporation, means an authority of the foreign country or territory in which the levy payer or foreign corporation is incorporated or established that, whether alone or together with one or more other authorities, is responsible for administering a deposit insurance scheme for deposits of the levy payer or foreign corporation;
+
+“foreign corporation” means a corporation incorporated in a foreign country or territory;
+
+“officer”, in relation to a levy payer, includes —
+
+(a) a director, secretary or an employee of the levy payer;
+
+(b) a receiver or manager of any part of the undertaking of the levy payer appointed under a power contained in any instrument; and
+
+(c) the liquidator of the levy payer appointed in a voluntary winding up;
+
+“parent corporation”, in relation to a levy payer, means a corporation that is able to exercise a significant influence over the direction and management of the levy payer or that has a controlling interest in the levy payer;
+
+“parent supervisory authority”, in relation to a levy payer or a foreign corporation, means the supervisory authority that is responsible, under the laws of the country or territory in which the levy payer or foreign corporation is incorporated or established, for supervising the levy payer or foreign corporation (as the case may be);
+
+“policy owners’ protection scheme authority”, in relation to a levy payer or a foreign corporation, means an authority of the foreign country or territory in which the levy payer or foreign corporation is incorporated or established that, whether alone or together with one or more authorities, is responsible for administering a protection scheme for the policy owners of insurance policies of the levy payer or foreign corporation (as the case may be);
+
+“resolution authority”, in relation to a levy payer or a foreign corporation, means an authority of the foreign country or territory in which the levy payer or foreign corporation is incorporated or established that, whether alone or together with one or more other authorities, is responsible for the resolution, or for preparing plans for dealing with the resolution of, the levy payer or foreign corporation (as the case may be).
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Use of resolution fund to pay loan, etc., and balance in resolution fund
+
+109\.—(1) The Minister may, from time to time, direct the trustee of a resolution fund to make a withdrawal from the resolution fund for any of the following purposes:
+
+(a) to repay the Authority all or any part of the loan made under section 23(7A), together with any interest on such loan;
+
+(b) to reimburse the Agency for any payment the trustee received under section 29A of the Deposit Insurance and Policy Owners’ Protection Schemes Act (Cap. 77B).
+
+(2) The Minister may by regulations made under section 126 provide for —
+
+(a) how the balance in a resolution fund is to be dealt with after the fund is no longer needed for any of the purposes mentioned in section 101(1) or subsection (1); and
+
+(b) the dissolution of the resolution fund after the balance of the fund has been dealt with in accordance with the regulations, and the publication of a notice of such dissolution.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Priority of debt of financial institution to trustee
+
+110\. Despite the provisions of any written law or rule of law relating to the winding up of companies, in the event of a winding up of a financial institution (other than one that is a bank, a finance company or a licensed insurer) —
+
+(a) any sum claimed by the trustee of a resolution fund from the financial institution under section 103; and
+
+(b) any levy and late payment imposed on the financial institution under section 104, 105 or 106 and due from the institution, and any levy which the financial institution is liable to collect under section 106(2) and due from the institution,
+
+have priority over all unsecured liabilities of the financial institution other than preferential debts specified in section 328(1) of the Companies Act (Cap. 50).
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Regulations for this Division
+
+111\.—(1) Regulations may be made under section 126 for the purposes of this Division.
+
+(2) Without affecting the generality of subsection (1), regulations may be made in relation to the imposition and recovery of a levy and late payment fee under sections 104, 105, 106 and 107, and in particular in relation to one or more of the following:
+
+(a) the levy payers on and from whom the trustee of the resolution fund may impose and recover the levy;
+
+(b) the classification of the levy payers mentioned in paragraph (a) for the purpose of imposing different amounts of the levy;
+
+(c) the manner in which the amount of the levy for each class of levy payers is to be determined;
+
+(d) the amount of the late payment fee;
+
+(e) the manner and date of payment of the levy and late payment fee;
+
+(f) a duty of a financial institution under resolution, a levy payer, a market infrastructure or a payment system operator to provide such information as the Authority or trustee may reasonably require for the purposes of computing the levy or late payment fee or preparing a notice under section 104;
+
+(g) such other matters as the Authority considers necessary for the computation, imposition and recovery of the levy or late payment fees.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+Division 5C —
+
+Compensation
+
+### Interpretation of this Division
+
+112\. In this Division, unless the context otherwise requires —
+
+“2nd transferee” has the same meaning as in section 60;
+
+“Division 5C FI” or “Division 5C financial institution” means a pertinent financial institution within a class of pertinent financial institutions prescribed by regulations made under section 126 for the purposes of this Division;
+
+“Division 5C FI under resolution” means a Division 5C FI that is the subject of a resolution action;
+
+“pre-resolution creditor”, in relation to a Division 5C FI under resolution, means any person who was a creditor of the Division 5C FI immediately before the resolution date;
+
+“pre-resolution shareholder”, in relation to a Division 5C FI under resolution, means any person who held shares or instruments conferring or representing a legal or beneficial ownership interest in the Division 5C FI, immediately before the resolution date;
+
+“prescribed written law” has the same meaning as in section 86;
+
+“resolution action” means —
+
+(a) the issue of a certificate of transfer under section 58 or any action to be taken under that certificate;
+
+(b) the issue of a certificate of transfer under section 67 or any action to be taken under that certificate;
+
+(c) the issue of a certificate of restructuring of share capital under section 70 or any action to be taken under that certificate;
+
+(d) the issue of a bail-in certificate under section 75 or any action to be taken under that certificate; or
+
+(e) the making of an order under section 95 that provides for any of the matters mentioned in section 95(2);
+
+“resolution date”, in relation to a Division 5C FI under resolution, means —
+
+(a) if the Division 5C FI is the subject of the issue of a certificate of transfer under section 58, a certificate of transfer under section 67, a certificate of restructuring of share capital under section 70, or a bail-in certificate under section 75, the date the certificate is published in theGazette;
+
+(b) if the Division 5C FI is the subject of 2 or more actions mentioned in paragraphs (a) to (d) of the definition of “resolution action”, the earlier or earliest of the dates of publication of the relevant certificates in theGazette;
+
+(c) if the Division 5C FI is the subject of an action mentioned in paragraph (e) of the definition of “resolution action”, the date of publication of the order in theGazette; or
+
+(d) if the Division 5C FI is the subject of one or more actions mentioned in paragraphs (a) to (d) of the definition of “resolution action”, as well as the action mentioned in paragraph (e) of that definition, the earlier of the following dates:
+
+(i) the date of publication in theGazetteof the relevant certificate or, if there is more than one relevant certificate, the earlier or earliest of the dates of publication in theGazetteof the relevant certificates;
+
+(ii) the date of publication in theGazetteof the order;
+
+“transferee” has the same meaning as in section 56;
+
+“valuation report” means a report issued by a valuer under section 116(3);
+
+“valuer” means a person appointed under section 115 as a valuer.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Meaning of “worse off as a result of the resolution”
+
+113\.—(1) In this Division, a pre-resolution creditor or pre-resolution shareholder of a Division 5C FI under resolution is worse off as a result of the resolution if, by reason of one or more of the actions mentioned in subsection (2) taken in relation to the Division 5C FI, the pre-resolution creditor or pre-resolution shareholder has received, is receiving or is likely to receive less favourable treatment than what the pre-resolution creditor or pre-resolution shareholder would have received had winding up proceedings been commenced against the Division 5C FI immediately before the resolution date.
+
+(2) In subsection (1), the actions are —
+
+(a) any resolution action;
+
+(b) the issue of a reverse transfer certificate under section 62 or any action taken under that certificate; and
+
+(c) the issue of an onward transfer certificate under section 64 or any action taken under that certificate.
+
+(3) In any of the following cases, it is a rebuttable presumption that a pre-resolution creditor or pre-resolution shareholder of a Division 5C FI under resolution is not worse off as a result of the resolution:
+
+(a) the liability or instrument concerned is transferred to a transferee under section 58 and the transferee is subject to the same terms for that liability or instrument as those to which the Division 5C FI under resolution was subject;
+
+(b) the liability or instrument concerned is transferred under section 58 and is then transferred back to the Division 5C FI under section 62, and the Division 5C FI is subject to the same terms for that liability or instrument as it was subject to immediately before the transfer under section 58;
+
+(c) the liability or instrument concerned is transferred under section 58 and is then transferred to a 2nd transferee under section 64, and the 2nd transferee is subject to the same terms for that liability or instrument as those to which the Division 5C FI under resolution was subject;
+
+(d) the only resolution action to which the Division 5C FI is subject is the issue of a bail-in certificate within the meaning of Division 4A or any action under the certificate, and the instrument or liability concerned is not one to be bailed in under that certificate;
+
+(e) the only resolution action to which the Division 5C FI is subject is the making of an order under Division 5A, and the pre-resolution creditor or pre-resolution shareholder is eligible for compensation under the law of a foreign country or territory by reason of the resolution to which the order gives effect.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Eligibility for compensation
+
+114\.—(1) A pre-resolution creditor or pre-resolution shareholder of a Division 5C FI under resolution that is worse off as a result of the resolution, is eligible for compensation of the amount mentioned in subsection (2).
+
+(2) The amount of compensation that the pre-resolution creditor or pre-resolution shareholder is eligible for is the difference between —
+
+(a) what the pre-resolution creditor or pre-resolution shareholder would have received had winding up proceedings been commenced against the Division 5C FI under resolution immediately before the resolution date; and
+
+(b) what the pre-resolution creditor or pre-resolution shareholder has received, is receiving, or is likely to receive —
+
+(i) as a result of one or more of the actions mentioned in section 113(2); and
+
+(ii) as compensation under the law of a foreign country or territory governing the foreign resolution (if applicable).
+
+(3) Subject to section 120, the Authority must recommend to the Minister to make a direction to the trustee of the resolution fund established under Division 5B in relation to the resolution of the Division 5C FI, to make a withdrawal from the fund to pay to the pre-resolution creditor or pre-resolution shareholder, the amount set out in the valuation report as the amount mentioned in subsection (2).
+
+(4) Payment of the compensation to the pre-resolution creditor or pre-resolution shareholder is to be made in the form and manner, and within the time, prescribed by regulations made under section 126.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Appointment of valuer
+
+115\.—(1) The Minister must, as soon as practicable, after the resolution date of a Division 5C FI under resolution, appoint a valuer for the Division 5C FI.
+
+(2) The role of a valuer appointed under this section is to make a valuation in relation to the Division 5C FI in accordance with section 116, and decide whether any pre-resolution creditor or pre-resolution shareholder of the Division 5C FI is eligible for compensation and the amount of the compensation.
+
+(3) The Minister may only appoint a person as a valuer if the Minister is satisfied that the person satisfies the criteria prescribed by regulations made for the purposes of this subsection under section 126.
+
+(4) The appointment of a valuer is to be made on such conditions as the Minister may determine, and the Minister may at any time add to, vary or revoke any such condition.
+
+(5) The Minister may on any prescribed ground revoke the appointment of a valuer, and may, subject to subsections (3) and (4), appoint a new valuer.
+
+(6) Where the appointment of a valuer is revoked and a new valuer appointed under subsection (5), the Authority may direct the previous valuer to provide such information and documents to the new valuer as the Authority considers necessary for the new valuer to conduct the valuation.
+
+(7) A valuer that does not comply with a direction issued under subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+(8) The Authority may at any time fix the remuneration and expenses to be paid to a valuer.
+
+(9) The remuneration and expenses of a valuer may be paid out of the resolution fund established under Division 5B in relation to the resolution of the Division 5C FI.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Valuation
+
+116\.—(1) A valuer for a Division 5C FI under resolution must conduct the valuation of the Division 5C FI in accordance with the valuation principles that are prescribed by regulations made under section 126, and any other valuation principles specified by the Authority by written notice to the valuer.
+
+(2) The valuer must determine the amount of compensation to be paid to each pre-resolution creditor or pre-resolution shareholder of the Division 5C FI, or each one that is within a class of pre-resolution creditors or pre-resolution shareholders of the Division 5C FI, by reference to the difference between —
+
+(a) the valuer’s assessment of what the pre-resolution creditor or pre-resolution shareholder would have received had winding up proceedings been commenced against the Division 5C FI immediately before the resolution date; and
+
+(b) the valuer’s assessment of what the pre-resolution creditor or pre-resolution shareholder has received, is receiving, or is likely to receive —
+
+(i) as a result of one or more of the actions mentioned in section 113(2); and
+
+(ii) as compensation under the law of a foreign country or territory governing the foreign resolution (if applicable).
+
+(3) After conducting the valuation, the valuer for a Division 5C FI under resolution must issue a report setting out the valuer’s decision on —
+
+(a) whether each pre-resolution creditor or pre-resolution shareholder of the Division 5C FI is eligible for compensation; and
+
+(b) the amount of compensation to be paid to each pre-resolution creditor or pre-resolution shareholder.
+
+(4) The valuation report must specify the information that is prescribed by regulations made under section 126 and any other valuation principles specified by the Authority by written notice to the valuer.
+
+(5) The valuer must provide the valuation report to the Minister and the Authority by such date as may be determined by the Minister.
+
+(6) On receiving a copy of the valuation report, where the Authority is of the view that —
+
+(a) the valuation report was not prepared in accordance with this section; or
+
+(b) the valuer should have had regard to any additional circumstances not taken into account in the valuation report,
+
+the Authority may, by notice in writing, request the valuer to reconsider the valuation report or any aspect of the report by such date as the Authority may specify in the notice.
+
+(7) The Authority may cause the valuation report or any part of it to be published in the manner determined by the Authority.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Access to information by valuer
+
+117\.—(1) A Division 5C FI under resolution for which a valuer is appointed must —
+
+(a) give the valuer access to such of its records and documents as the valuer may reasonably require to conduct the valuation;
+
+(b) procure a person who is in possession of such records and documents to give the valuer access to them;
+
+(c) provide such information and facilities as the valuer may reasonably require to conduct the valuation; and
+
+(d) procure a person who is in possession of such information or facilities to provide the information or facilities to the valuer.
+
+(2) Subsection (1) has effect despite any obligation of confidentiality or other restrictions on the disclosure of information imposed on the Division 5C FI under resolution or any of its officers, or on any person mentioned in subsection (1)(b) or (d), by any prescribed written law or any requirement imposed under any such written law, any rule of law, any contract or any rule of professional conduct.
+
+(3) A Division 5C FI under resolution that refuses or neglects, without reasonable excuse, to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 and, in the case of a continuing offence, to a further fine not exceeding $25,000 for every day or part of a day during which the offence continues after conviction.
+
+(4) No civil or criminal liability is incurred by a Division 5C FI under resolution or any of its officers, or by any person mentioned in subsection (1)(b) or (d) or any of the person’s officers, in respect of any obligation or restriction mentioned in subsection (2), for doing or omitting to do any act, if the act is done or omitted to be done with reasonable care and in good faith and for the purpose of complying with or giving effect to subsection (1).
+
+(5) A Division 5C FI under resolution or any of its officers, or any person mentioned in subsection (1)(b) or (d), that, with reasonable care and in good faith, does or omits to do any act for the purpose of complying with or giving effect to subsection (1) is not to be treated as being in breach of any obligation or restriction mentioned in subsection (2).
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Confidentiality and use of information
+
+118\.—(1) A valuer must not use or disclose any information obtained under this Division other than for the performance of its functions under this Division.
+
+(2) Any person who comes to know of any information in the course of assisting another person to perform a function under this Division must not use or disclose the information for any purpose other than for such assistance.
+
+(3) Except as provided under sections 116(5) and 119, a valuer must not disclose any part of the valuation report issued by the valuer to any person.
+
+(4) The duties of a valuer under subsections (1) and (3) continue after the revocation or cessation of the valuer’s appointment.
+
+(5) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both; or
+
+(b) in any other case, to a fine not exceeding $250,000.
+
+(6) Any person to whom any information is disclosed, who knows or has reasonable grounds for believing at the time of the disclosure, that the information was disclosed to the person in contravention of subsection (1), (2) or (3), shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both; or
+
+(b) in any other case, to a fine not exceeding $250,000.
+
+(7) Where a person is charged with an offence under subsection (6), it is a defence for the person to prove that —
+
+(a) the disclosure was made contrary to the person’s desire;
+
+(b) where the disclosure was made in any written or printed form, the person had as soon as practicable after receiving the information, surrendered, or taken all reasonable steps to surrender, the information and all copies of the information to the Authority; and
+
+(c) where the disclosure was made in an electronic form, the person had, as soon as practicable after receiving the information, taken all reasonable steps to ensure the deletion of all electronic copies of the information and the surrender of the information and all copies of the information in other forms to the Authority.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Disclosure of valuation report
+
+119\.—(1) A valuer of a Division 5C FI under resolution may, with the Authority’s approval, disclose the whole or any part of the valuation report of the Division 5C FI to the Division 5C FI, any pre-resolution creditor or pre-resolution shareholder of the Division 5C FI, or the public.
+
+(2) In granting approval for a disclosure, the Authority may impose such conditions or restrictions as it thinks fit on the valuer as to the form or content of the valuation report or part of it to be disclosed.
+
+(3) The Authority may also impose such conditions or restrictions as it thinks fit on the Division 5C FI under resolution or any pre-resolution creditor or pre-resolution shareholder of the Division 5C FI that the valuer discloses the valuation report to.
+
+(4) Any person who contravenes any of the provisions of this section, or any condition or restriction imposed under subsection (2) or (3), shall be guilty of an offence and shall be liable on conviction —
+
+(a) in the case of an individual, to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both; or
+
+(b) in any other case, to a fine not exceeding $250,000.
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Appeals
+
+120\.—(1) The Authority may appeal to the Court against a valuation report if it is dissatisfied with —
+
+(a) the valuer’s decision on any person’s eligibility for compensation; or
+
+(b) the amount of compensation to be paid to any person pursuant to the valuation report.
+
+(2) A person may appeal to the Court against a valuation report if the person is dissatisfied with —
+
+(a) the valuer’s decision on the person’s eligibility for compensation; or
+
+(b) the amount of compensation to be paid to the person pursuant to the valuation report.
+
+(3) The Court may make an order that confirms or varies the valuation report in respect of the eligibility of a person for compensation or the amount of compensation to be paid to the person.
+
+(4) No person may lodge an appeal after the resolution fund established under Division 5B in relation to the resolution of the Division 5C FI has been dissolved in accordance with regulations made for the purposes of section 109(2).
+
+(5) Rules of Court may provide for the manner in which appeals under this section may be made and the procedure for the appeal.
+
+[Act 31 of 2017 wef 29/10/2018]
+
 Division 6 —
 
 Miscellaneous
@@ -3434,7 +5229,9 @@ Miscellaneous
 
 122\. Notwithstanding anything to the contrary in this Act, the Bankruptcy Act (Cap. 20) and the Companies Act (Cap. 50) —
 
-(a) any sale, transfer, assignment or other disposition of any property or business of a pertinent financial institution pursuant to section 30AAS shall not be reversed, repaid or set aside; and
+(a) any sale, transfer, assignment or other disposition of any property or business of a pertinent financial institution pursuant to section 58 or 64 must not be reversed, repaid or set aside, except where a certificate has been issued under section 62 to reverse such sale, transfer, assignment or other disposition; and
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (b) no order shall be made by any court for the rectification or stay of any such sale, transfer, assignment or other disposition.
 
@@ -3444,7 +5241,13 @@ Miscellaneous
 
 ### Power to obtain information under this Part
 
-123\.—(1) The Minister or the Authority may require a person to furnish, within the period and in the manner specified by the Minister or the Authority, any information or document that the Minister or the Authority may reasonably require for the discharge of his or its duties or functions, or the exercise of his or its powers, under this Part.
+123\.—(1) The Minister or the Authority may require a person to furnish, within the period and in the manner specified by the Minister or the Authority, any information or document that the Minister or the Authority may reasonably require —
+
+(a) for the discharge or exercise of the Minister’s or the Authority’s duties, functions or powers under this Part; or
+
+(b) for transmission to a valuer appointed under section 115 in connection with the valuer’s role under Division 5C.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (2) Any person who —
 
@@ -3480,7 +5283,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Cessation of moratorium, etc., under this Part
 
-125\.—(1) The Minister may, by order published in theGazette, direct that section 30AAU(1) or (2), 30AAX(13) or 30AAZA(13), or any provision thereof, shall cease to apply to any pertinent financial institution, any business (or any part thereof) of any pertinent financial institution or any share in any pertinent financial institution, and on the date specified by the Minister in the order, section 30AAU(1) or (2), 30AAX(13) or 30AAZA(13), or the provision thereof, as the case may be, shall cease to apply to the pertinent financial institution, the business (or the part thereof) of the pertinent financial institution or the share in the pertinent financial institution, as the case may be.
+125\.—(1) The Minister may, by order in theGazette, direct that section 59(1) or (2), 67(13), 70(13) or 77, or any part of that provision, ceases to apply to a pertinent financial institution, any business (or any part of the business) of a pertinent financial institution, any share in a pertinent financial institution or any eligible instrument issued by a Division 4A FI or to which it is a party or is subject, and the order has effect according to its terms on the date specified by the Minister in the order.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (2) In this section, “business” includes affairs, property, right, obligation and liability.
 
@@ -3500,17 +5305,27 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) provide for either or both of the following:
 
-(i) that any arrangement is exempted from any provision of this Part;
+(i) that any arrangement, transaction or action is exempt from any provision of this Part;
 
-(ii) that the Minister or the Authority shall not exercise any power under this Part in relation to any arrangement;
+(ii) that the Minister or the Authority must not exercise any power under this Part in relation to any arrangement, transaction or action, or any matter for which any arrangement has been entered into, either in all circumstances or if specified conditions are not satisfied;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (c) prescribe —
 
 (i) any set-off arrangement, netting arrangement or other type of arrangement as an arrangement referred to in paragraph (b)(i) or (ii);
 
-(ii) for any arrangement referred to in paragraph (b)(i), each provision of this Part which that arrangement is exempted from; and
+(ia) any transaction or action as a transaction or action in paragraph (b)(i) or (ii);
 
-(iii) for any arrangement referred to in paragraph (b)(ii), each power which the Minister or the Authority shall not exercise in relation to that arrangement;
+[Act 31 of 2017 wef 29/10/2018]
+
+(ii) for any arrangement, transaction or action referred to in paragraph (b)(i), each provision of this Part which that arrangement, transaction or action is exempted from; and
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(iii) for any arrangement, transaction, action or matter referred to in paragraph (b)(ii), each power which the Minister or the Authority shall not exercise in relation to that arrangement, transaction, action or matter;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (d) provide for any transaction to be void or voidable, or for any other consequence (including a consequence affecting any business, affairs, property, right, obligation, liability or power of any person under this Part, or affecting the operation of any provision of this Part) to arise, if any specified provision of the regulations is contravened;
 
@@ -3518,9 +5333,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (i) in the case of an individual, with a fine not exceeding $125,000 or with imprisonment for a term not exceeding 3 years or with both and, in the case of a continuing offence, with a further fine not exceeding $12,500 for every day or part thereof during which the offence continues after conviction; or
 
-(ii) in any other case, with a fine not exceeding $250,000 and, in the case of a continuing offence, with a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction; and
+(ii) in any other case, with a fine not exceeding $250,000 and, in the case of a continuing offence, with a further fine not exceeding $25,000 for every day or part thereof during which the offence continues after conviction;
 
-(f) exempt any person or class of persons from all or any of the provisions of this Part and the regulations, subject to such conditions or restrictions as may be prescribed.
+[Act 31 of 2017 wef 29/10/2018]
+
+(f) exempt any person or class of persons from all or any of the provisions of this Part and the regulations, subject to such conditions or restrictions as may be prescribed; and
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(g) provide that a pertinent financial institution, any of its subsidiaries or any subsidiary within a class of its subsidiaries, must include a provision in a specified contract to which the pertinent financial institution or subsidiary is a party, the effect of which is that the parties to the contract agree to be bound by section 83 and by any suspension of a termination right in the contract by the Authority under section 84.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (3) For the purposes of the definition of “affected person” in section 49, the Minister may prescribe, in relation to any specified institution, different persons for different purposes.
 
@@ -5124,23 +6947,18 @@ This Legislative History is provided for the convenience of users of the Monetar
 ||Date of First Reading|13 April 2015 (Bill No. 11/2015 published on 13 April 2015)|
 ||Date of Second and Third Readings|11 May 2015|
 ||Date of commencement|26 June 2015|
-|32.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
-||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
-||Date of Second and Third Readings|4 July 2017|
-||Date of commencement|15 August 2017|
-|33.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
-||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
-||Date of Second and Third Readings|4 July 2017|
-||Date of commencement|4 June 2018|
-|34.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
-||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
-||Date of Second and Third Readings|4 July 2017|
-||Date of commencement|5 June 2018|
-|35.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+|32.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
 ||Date of First Reading|7 November 2016|
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
+|33.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|15 August 2017|
+|||4 June 2018|
+|||5 June 2018|
+|||29 October 2018|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
