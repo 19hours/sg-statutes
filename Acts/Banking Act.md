@@ -1414,11 +1414,13 @@ shall be guilty of an offence.
 
 [15/2011 wef 01/05/2011]
 
-(b) if, upon the Authority exercising any power under section 49(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the bank, the Authority considers that it is in the public interest to revoke the licence.
+(b) if, upon the Authority exercising any power under section 49(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the bank, the Authority considers that it is in the public interest to revoke the licence.
 
 [2/84; 23/2001; 31/2005; 1/2007]
 
 [Act 10 of 2013 wef 18/04/2013]
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (2) The Authority shall before revoking any licence under subsection (1) —
 
@@ -1434,11 +1436,13 @@ shall be guilty of an offence.
 
 (6) If within that period the bank concerned gives due notice of appeal to the High Court, the order shall not take effect unless the order is confirmed by the Court or the appeal is for any reason dismissed by that Court.
 
-(7) The making of an appeal by a bank under this section shall in no way affect the exercise of any power by the Authority under section 49, 50, 51, 52 or 53, or the exercise of any power by the Minister under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186), in relation to the bank.
+(7) The making of an appeal by a bank under this section shall in no way affect the exercise of any power by the Authority under section 49, 50, 51, 52 or 53, or the exercise of any power by the Minister under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186), in relation to the bank.
 
 [1/2007]
 
 [Act 10 of 2013 wef 18/04/2013]
+
+[Act 31 of 2017 wef 29/10/2018]
 
 ### Effect of revocation of licence
 
@@ -3440,7 +3444,13 @@ he shall immediately report the matter to the Authority.
 
 (c) thirdly, deposit liabilities incurred by the bank with non-bank customers other than those specified in paragraphs (b) and (d);
 
-(d) fourthly, deposit liabilities incurred by the bank with non-bank customers when operating an Asian Currency Unit approved under section 77.
+(d) fourthly, deposit liabilities incurred by the bank with non-bank customers when operating an Asian Currency Unit approved under section 77;
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(e) fifthly, any sum claimed by the trustee of a resolution fund (within the meaning of section 98 of the Monetary Authority of Singapore Act) from the bank under section 103, 104, 105 or 106 of that Act.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [31/2005; 1/2007]
 
@@ -4888,16 +4898,17 @@ This Legislative History is provided for the convenience of users of the Banking
 |||(Bill No. 25/2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|4 June 2018|
-|39.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
-||Date of First Reading|8 May 2017|
-|||(Bill No. 25/2017)|
-||Date of Second and Third Readings|4 July 2017|
-||Date of commencement|5 June 2018|
-|40.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+|39.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
 ||Date of First Reading|7 November 2016|
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
+|40.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017|
+|||(Bill No. 25/2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
+|||29 October 2018|
 ## COMPARATIVE TABLE
 
 Banking Act
