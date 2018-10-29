@@ -520,9 +520,11 @@ the licensed trust company shall, not later than 14 days after the occurrence of
 
 (iii) any provision of this Act;
 
-(da) upon the Authority exercising any power under section 21C(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the licensed trust company, the Authority considers that it is in the public interest to revoke or suspend the trust business licence;
+(da) upon the Authority exercising any power under section 21C(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the licensed trust company, the Authority considers that it is in the public interest to revoke or suspend the trust business licence;
 
 [Act 10 of 2013 wef 18/04/2013]
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (e) any information or document that is furnished by the licensed trust company to the Authority is false or misleading; or
 
@@ -2812,16 +2814,17 @@ The Trust Companies Act 2005 repealed and re-enacted with amendments the Trust C
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
-|20.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
-||Date of First Reading|8 May 2017|
-|||(Bill No. 25/2017)|
-||Date of Second and Third Readings|4 July 2017|
-||Date of commencement|5 June 2018|
-|21.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+|20.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
 ||Date of First Reading|7 November 2016|
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
+|21.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017|
+|||(Bill No. 25/2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
+|||29 October 2018|
 ## COMPARATIVE TABLE
 
 Trust Companies Act
