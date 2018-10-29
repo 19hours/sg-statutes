@@ -74,6 +74,12 @@
 
 - [29 Powers of liquidator in respect of claims against insured depositor](#Powers-of-liquidator-in-respect-of-claims-against-insured-depositor)
 
+[**Part VA WITHDRAWAL IN SUPPORT OF RESOLUTION MEASURE FOR DI SCHEME MEMBER**](#Part-VA)
+
+- [29A Determination of Authority](#Determination-of-Authority)
+
+- [29B Regulations for this Part](#Regulations-for-this-Part)
+
 [**Part VI POLICY OWNERS’ PROTECTION SCHEME**](#Part-VI)
 
 - [30 Establishment of Policy Owners’ Protection Scheme](#Establishment-of-Policy-Owners’-Protection-Scheme)
@@ -474,6 +480,14 @@ as specified under the terms of the insured policy;
 
 “repealed Act” means the Deposit Insurance Act (Cap. 77A, 2006 Ed.) repealed by this Act;
 
+“resolution fund” means a fund established under section 99 of the Monetary Authority of Singapore Act (Cap. 186);
+
+[Act 31 of 2017 wef 29/10/2018]
+
+“resolution measure” has the meaning given to that term in section 98 of the Monetary Authority of Singapore Act;
+
+[Act 31 of 2017 wef 29/10/2018]
+
 “Rules” means any rules issued by the Agency under section 63;
 
 “Singapore policy” has the same meaning as in the First Schedule to the Insurance Act;
@@ -503,6 +517,10 @@ as specified under the terms of the insured policy;
 (d) a policy of insurance which provides cover in connection with the employment of a foreign domestic worker;
 
 “Supplementary Retirement Scheme” has the same meaning as in section 2(1) of the Income Tax Act (Cap. 134);
+
+“trustee”, in relation to a resolution fund, means the entity appointed under section 99(2) of the Monetary Authority of Singapore Act as the trustee of the resolution fund;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 “unclaimed moneys”, in relation to an insured policy issued by a failed PPF Scheme member, means any policy moneys which, as a result of a contingency happening, have been ascertained by the failed PPF Scheme member to be due and payable under that insured policy before the quantification date but which have not been paid to or have been paid but not yet received by the person entitled to payment of the policy moneys.
 
@@ -684,6 +702,10 @@ DEPOSIT INSURANCE FUND
 
 (3) The DI Fund shall be used for the objects and purposes of the DI Scheme as provided in this Act.
 
+(3A) The DI Fund may also be used to support a resolution measure in relation to a DI Scheme member.
+
+[Act 31 of 2017 wef 29/10/2018]
+
 (4) The DI Fund shall, subject to the directions of the Minister, be controlled and administered by the Agency, and shall be maintained by the Agency separately and apart from the PPF Life Fund and the PPF General Fund.
 
 (5) For the avoidance of doubt, the DI Fund shall not be a fund of the Agency or the Authority.
@@ -705,6 +727,10 @@ DEPOSIT INSURANCE FUND
 (b) the payment of any fees to agents appointed by the Agency for the purposes of carrying out any services in respect of the DI Scheme under this Act;
 
 (c) the withdrawal of all other moneys authorised or determined to be paid out of the DI Fund in accordance with this Act.
+
+(1A) The Agency may also withdraw moneys in the DI Fund in accordance with Part VA to pay to the trustee of a resolution fund that is established under Division 5B of Part IVB of the Monetary Authority of Singapore Act to support a resolution measure undertaken in relation to a DI Scheme member.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (2) Notwithstanding subsection (1), the Authority may recover from the Agency out of the DI Fund all expenses incurred by the Authority in connection with the discharge of the functions and responsibilities of the Authority under sections 8, 13, 14 and 15.
 
@@ -1102,6 +1128,39 @@ the liquidator may bring legal proceedings with respect to those claims in the n
 
 (3) This section shall not apply to any moneys held by the Public Trustee pursuant to any payment of compensation by the Agency under section 27(3).
 
+## PART VA
+
+WITHDRAWAL IN SUPPORT OF RESOLUTION
+
+
+
+
+MEASURE FOR DI SCHEME MEMBER
+
+### Determination of Authority
+
+29A\.—(1) For the purposes of supporting a resolution measure undertaken for a DI Scheme member and other matters relating to the measure, the Authority may, with the Minister’s approval, make a determination that an amount is to be paid out of the DI Fund and given to the trustee of the resolution fund for which the resolution measure was established.
+
+(2) The amount to be paid out of the DI Fund must not exceed the amount of compensation that would have been paid out of the DI Fund to the insured depositors of the DI Scheme member under Part V if a determination for such compensation had been made under section 21, after taking into account any amounts that the Agency would have been repaid from or out of the assets of the DI Scheme member under section 27.
+
+(3) Where the Authority determines that an amount is to be paid out of the DI Fund for the purpose mentioned in subsection (1), the Authority must immediately give a notice in writing to the Agency of its determination.
+
+(4) The notice mentioned in subsection (3) must be in such form and contain such information as may be agreed between the Authority and the Agency.
+
+(5) The Agency must, as soon as practicable upon receiving the notice mentioned in subsection (3), publish a notice in theGazetteto the effect that a payment is to be made from the DI Fund for the purpose mentioned in subsection (1).
+
+[Act 31 of 2017 wef 29/10/2018]
+
+### Regulations for this Part
+
+29B\. The Authority may, in consultation with the Agency and with the approval of the Minister, make regulations for the purpose of section 29A, including for the following matters:
+
+(a) the procedure for making payments out of or to the DI Fund;
+
+(b) the manner of determining, for the purposes of section 29A(2), the amounts that the Agency would have been repaid from or out of the assets of the DI Scheme member under section 27.
+
+[Act 31 of 2017 wef 29/10/2018]
+
 ## PART VI
 
 POLICY OWNERS’ PROTECTION SCHEME
@@ -1456,7 +1515,9 @@ COMPENSATION AND USE OF PPF LIFE FUND AND PPF GENERAL FUND
 
 (b) the Authority is of the opinion that a PPF Scheme member is insolvent, unable or likely to become unable to meet its obligations, or about to suspend payments; or
 
-(c) the Authority is exercising or is likely to exercise, or has exercised its powers under Part IIIAA of the Insurance Act (Cap. 142),
+(c) the Authority is exercising or is likely to exercise, or has exercised its powers under Part IVB of the Monetary Authority of Singapore Act in relation to a PPF Scheme member,
+
+[Act 31 of 2017 wef 29/10/2018]
 
 the Authority may determine —
 
@@ -1733,6 +1794,10 @@ DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 (c) make payments of compensation in respect of protected liabilities to insured policy owners and beneficiaries of insured policies covered under the PPF General Fund which provide third party benefits out of the PPF Life Fund and the PPF General Fund after the Agency has determined their eligibility and entitlement;
 
 (d) make interim payments of compensation out of the DI Fund to insured depositors of such amounts as the Agency considers appropriate;
+
+(da) make payments to a trustee of a resolution fund established for a resolution measure undertaken for a DI Scheme member;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (e) make interim payments of compensation out of the PPF Life Fund and the PPF General Fund to insured policy owners and make interim payment of compensation out of the PPF General Fund to beneficiaries of insured policies which are covered under the PPF General Fund and provide third party benefits of such amounts as the Agency considers appropriate;
 
@@ -2716,6 +2781,11 @@ The Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 repealed 
 ||Date of First Reading|13 September 2016 (Bill No. 26/2016 published on 13 September 2016)|
 ||Date of Second and Third Readings|10 October 2016|
 ||Date of commencement|1 January 2017|
+|9.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017|
+|||(Bill No. 25/2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|29 October 2018|
 ## COMPARATIVE TABLE
 
 Deposit Insurance and Policy Owners’ Protection Schemes Act
