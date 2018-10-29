@@ -614,7 +614,9 @@ and the finance company shall comply with that direction within such time as is 
 
 (i) if the finance company or any of its directors or officers holding a managerial or executive position in that finance company has been convicted of any offence under this Act; or
 
-(ii) if, upon the Authority exercising any power under section 35(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the finance company, the Authority considers that it is in the public interest to revoke the licence.
+(ii) if, upon the Authority exercising any power under section 35(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the finance company, the Authority considers that it is in the public interest to revoke the licence.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 10 of 2013 wef 18/04/2013]
 
@@ -1552,7 +1554,13 @@ MISCELLANEOUS
 
 (a) firstly, any premium contributions due and payable by the finance company under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 (Act 15 of 2011);
 
-(b) secondly, liabilities incurred by the finance company under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of insured deposits, up to the amount of compensation paid or payable out of the DI Fund by the Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of such insured deposits.
+(b) secondly, liabilities incurred by the finance company under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of insured deposits, up to the amount of compensation paid or payable out of the DI Fund by the Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of such insured deposits;
+
+[Act 31 of 2017 wef 29/10/2018]
+
+(c) thirdly, any sum claimed by the trustee of a resolution fund (within the meaning of section 98 of the Monetary Authority of Singapore Act (Cap. 186)) from the finance company under section 103, 104, 105 or 106 of that Act.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [31/2005; 15/2011]
 
@@ -1939,6 +1947,11 @@ This Legislative History is provided for the convenience of users of the Finance
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
+|26.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017|
+|||(Bill No. 25/2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|29 October 2018|
 ## COMPARATIVE TABLE
 
 Finance Companies Act
