@@ -3336,7 +3336,9 @@ Establishment of Organised Markets
 
 (iii) any provision of this Act;
 
-(e) upon the Authority exercising any power under section 46AAB(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval or recognition, as the case may be;
+(e) upon the Authority exercising any power under section 46AAB(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval or recognition, as the case may be;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 (f) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public; or
 
@@ -4829,7 +4831,9 @@ Licensing of Trade Repositories
 
 (iii) any provision in this Act;
 
-(da) upon the Authority exercising any power under section 46ZIB(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the trade repository licence or foreign trade repository licence, as the case may be;
+(da) upon the Authority exercising any power under section 46ZIB(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the trade repository licence or foreign trade repository licence, as the case may be;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 10 of 2013 wef 02/08/2013]
 
@@ -6225,7 +6229,9 @@ Establishment of Clearing Facilities
 
 (iii) any provision in this Act;
 
-(da) upon the Authority exercising any power under section 81SAA(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval or recognition, as the case may be;
+(da) upon the Authority exercising any power under section 81SAA(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval or recognition, as the case may be;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 10 of 2013 wef 02/08/2013]
 
@@ -8231,7 +8237,9 @@ Establishment of Approved Holding Companies
 
 (d) the corporation operates in a manner that is, in the opinion of the Authority, contrary to the interests of the public;
 
-(da) upon the Authority exercising any power under section 81ZGC(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval;
+(da) upon the Authority exercising any power under section 81ZGC(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the corporation, the Authority considers that it is in the public interest to revoke the approval;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 10 of 2013 wef 18/04/2013]
 
@@ -9414,7 +9422,9 @@ the holder shall, not later than 14 days after the occurrence of the event, furn
 
 (e) the Authority has reason to believe that the holder is carrying on business in any regulated activity for which it was licensed in a manner that is contrary to the interests of the public;
 
-(ea) upon the Authority exercising any power under section 97E(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the holder, the Authority considers that it is in the public interest to revoke the licence;
+(ea) upon the Authority exercising any power under section 97E(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to the holder, the Authority considers that it is in the public interest to revoke the licence;
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 10 of 2013 wef 18/04/2013]
 
@@ -23243,11 +23253,13 @@ the Authority may —
 
 (iii) issue such direction as it deems fit.
 
-(4A) Where, upon the Authority exercising any power under section 292D(2) or the Minister exercising any power under Division 2, 3 or 4 of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to an approved trustee, the Authority considers that it is in the public interest to do so, the Authority may —
+(4A) Where, upon the Authority exercising any power under section 292D(2) or the Minister exercising any power under Division 2, 3, 4 or 4A of Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to an approved trustee, the Authority considers that it is in the public interest to do so, the Authority may —
 
 (a) revoke the approval granted to the approved trustee under this section; and
 
 (b) direct the manager for the collective investment scheme or schemes, which the approved trustee was acting for, to appoint a new trustee for the scheme or schemes.
+
+[Act 31 of 2017 wef 29/10/2018]
 
 [Act 10 of 2013 wef 18/04/2013]
 
@@ -27214,54 +27226,62 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of First Reading|25 September 2001|
 |||(Bill No. 33/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
-||Dates of commencement|1 January 2002|
-|||1 July 2002|
-|||1 October 2002|
+||Date of commencement|1 January 2002|
 |2.|**G. N. No. S 674/2001—Securities and Futures Act (Amendment of Second Schedule) Order 2001**|
 ||Date of commencement|1 January 2002|
-|3.|**Act 39 of 2002—Payments and Settlement Systems (Finality and Netting) Act 2002**|
+|3.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 July 2002|
+|4.|**Act 42 of 2001—Securities and Futures Act 2001**|
+||Date of First Reading|25 September 2001|
+|||(Bill No. 33/2001 published on 26 September 2001)|
+||Date of Second and Third Readings|5 October 2001|
+||Date of commencement|1 October 2002|
+|5.|**Act 39 of 2002—Payments and Settlement Systems (Finality and Netting) Act 2002**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|31 October 2002|
 |||(Bill No. 41/2002 published on 1 November 2002)|
 ||Date of Second and Third Readings|25 November 2002|
 ||Date of commencement|9 December 2002|
-|4.|**2002 Revised Edition—Securities and Futures Act**|
+|6.|**2002 Revised Edition—Securities and Futures Act**|
 ||Date of operation|31 December 2002|
-|5.|**Act 16 of 2003—Securities and Futures (Amendment) Act 2003**|
+|7.|**Act 16 of 2003—Securities and Futures (Amendment) Act 2003**|
 ||Date of First Reading|14 August 2003|
 |||(Bill No. 15/2003 published on 15 August 2003)|
 ||Date of Second and Third Readings|2 September 2003|
 ||Date of commencement|22 December 2003|
-|6.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+|8.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 21/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
-|7.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+|9.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 3/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
-|8.|**Act 31 of 2004—Securities and Futures (Amendment) Act 2004**|
+|10.|**Act 31 of 2004—Securities and Futures (Amendment) Act 2004**|
 ||Date of First Reading|20 July 2004|
 |||(Bill No. 29/2004 published on 21 July 2004)|
 ||Date of Second and Third Readings|1 September 2004|
 ||Date of commencement|12 October 2004|
-|9.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+|11.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
-|10.|**Act 1 of 2005—Securities and Futures (Amendment) Act 2005**|
+|12.|**Act 1 of 2005—Securities and Futures (Amendment) Act 2005**|
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 46/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|1 July 2005|
 |||15 October 2005|
-|11.|**Act 42 of 2005—Statutes (Miscellaneous Amendment No. 2) Act 2005**|
+|13.|**Act 42 of 2005—Statutes (Miscellaneous Amendment No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
@@ -27269,29 +27289,29 @@ This Legislative History is provided for the convenience of users of the Securit
 |||1 January 2006|
 |||30 January 2006|
 |||1 April 2006|
-|12.|**Act 11 of 2005—Trust Companies Act 2005**|
+|14.|**Act 11 of 2005—Trust Companies Act 2005**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 January 2005|
 |||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
-|13.|**2006 Revised Edition—Securities and Futures Act**|
+|15.|**2006 Revised Edition—Securities and Futures Act**|
 ||Date of operation|1 April 2006|
-|14.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+|16.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|1 March 2007|
-|15.|**Act 35 of 2007—Commodity Trading (Amendment) Act 2007**|
+|17.|**Act 35 of 2007—Commodity Trading (Amendment) Act 2007**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 May 2007|
 |||(Bill No. 23/2007 published on 22 May 2007)|
 ||Date of Second and Third Readings|17 July 2007|
 ||Date of commencement|27 August 2007|
 |||27 February 2008|
-|16.|**G. N. No. S 376/2008—Securities and Futures Act (Amendment of Second Schedule and Other Provisions to Act for REIT Management) Order 2008**|
+|18.|**G. N. No. S 376/2008—Securities and Futures Act (Amendment of Second Schedule and Other Provisions to Act for REIT Management) Order 2008**|
 ||Date of commencement|1 August 2008|
-|17.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
+|19.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
 ||Date of First Reading|15 September 2008|
 |||(Bill No. 23/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|19 January 2009|
@@ -27301,15 +27321,15 @@ This Legislative History is provided for the convenience of users of the Securit
 |||26 November 2010|
 |||1 October 2012|
 |||19 November 2012|
-|18.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|20.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|19.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
+|21.|**G. N. No. S 20/2012—Securities and Futures Act (Amendment of Second Schedule and Other Provisions for Provision of Credit Rating Services) Order 2012**|
 ||Date of commencement|17 January 2012|
-|20.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+|22.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
 ||Date of First Reading|15 October 2012|
 |||(Bill No. 31/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|15 November 2012|
@@ -27318,47 +27338,48 @@ This Legislative History is provided for the convenience of users of the Securit
 |||31 October 2013|
 |||1 May 2014|
 |||19 August 2016|
-|21.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+|23.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 4/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
 |||2 August 2013|
 |||1 November 2013|
-|22.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+|24.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|23.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+|25.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
 |||3 January 2016|
-|24.|**Act 29 of 2014—Business Names Registration Act 2014**|
+|26.|**Act 29 of 2014—Business Names Registration Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
-|25.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
+|27.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 25/2014)|
 ||Date of Second and Third Readings|8 October 2015|
 ||Date of commencement|3 January 2016|
-|26.|**G.N. No. S 446/2016—Securities and Futures Act (Amendment of Third Schedule) Order 2016**|
+|28.|**G.N. No. S 446/2016—Securities and Futures Act (Amendment of Third Schedule) Order 2016**|
 ||Date of commencement|30 September 2016|
-|27.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
-||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
-||Date of Second and Third Readings|4 July 2017|
-||Date of commencement|5 June 2018|
-|28.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+|29.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
 ||Date of First Reading|7 November 2016|
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|1 October 2018 (Sections 55 to 59 and 74)|
 |||8 October 2018 (Sections 2 to 54, 60 to 73, 75 to 197, 199 to 202 and 204 to 212)|
+|30.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
+||Date of Second and Third Readings|4 July 2017|
+||Date of commencement|5 June 2018|
+|||29 October 2018|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
