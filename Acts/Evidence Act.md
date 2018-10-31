@@ -378,6 +378,8 @@
 
 - [154 Questions intended to insult or annoy](#Questions-intended-to-insult-or-annoy)
 
+- [154A Restrictions on questions and evidence in criminal proceedings involving sexual offence or child abuse offence](#Restrictions-on-questions-and-evidence-in-criminal-proceedings-involving-sexual-offence-or-child-abuse-offence)
+
 - [155 Exclusion of evidence to contradict answers to questions testing veracity](#Exclusion-of-evidence-to-contradict-answers-to-questions-testing-veracity)
 
 - [156 Questions by party to his own witness](#Questions-by-party-to-his-own-witness)
@@ -428,7 +430,13 @@
 
 - [176 Costs](#Costs)
 
-[**THE SCHEDULE**](#THE-SCHEDULE)
+[**Part V MISCELLANEOUS**](#Part-V)
+
+- [177 Amendment of Schedules](#Amendment-of-Schedules)
+
+[**FIRST SCHEDULE Child abuse offences and sexual offences**](#FIRST-SCHEDULE-Child-abuse-offences-and-sexual-offences)
+
+[**SECOND SCHEDULE**](#SECOND-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -469,6 +477,10 @@ Preliminary
 [Deleted by Act 4 of 2012 wef 01/08/2012]
 
 [Deleted by Act 4 of 2012 wef 01/08/2012]
+
+“child abuse offence” means any offence specified in Part 1 of the First Schedule, and includes attempting to commit, abetting the commission of, or being a party to a criminal conspiracy to commit, such an offence;
+
+[Act 20 of 2018 wef 31/10/2018]
 
 “copy of a document” includes —
 
@@ -534,7 +546,7 @@ Illustrations
 
 (e) That a man has a certain reputation is a fact.
 
-“fact in issue” includes any fact from which either by itself or in connection with other facts the existence, non-existence, nature or extent of any right, liability or disability asserted or denied in any suit or proceeding necessarily follows.
+“fact in issue” includes any fact from which either by itself or in connection with other facts the existence, non-existence, nature or extent of any right, liability or disability asserted or denied in any suit or proceeding necessarily follows;
 
 Illustrations
 
@@ -549,6 +561,12 @@ thatAintended to causeB’s death;
 thatAhad received grave and sudden provocation fromB;
 
 thatAat the time of doing the act which causedB’s death was by reason of unsoundness of mind incapable of knowing its nature.
+
+[Act 20 of 2018 wef 31/10/2018]
+
+“sexual offence” means any offence specified in Part 2 of the First Schedule, and includes attempting to commit, abetting the commission of, or being a party to a criminal conspiracy to commit, such an offence.
+
+[Act 20 of 2018 wef 31/10/2018]
 
 ### “Relevant”
 
@@ -2024,7 +2042,7 @@ by the original or by a copy certified by the legal keeper thereof, with a certi
 
 ### Prints from films in the possession of the Government and statutory body
 
-80A\.—(1) A print, whether enlarged or not, purporting to be made from a film of any document in the possession of the Government or any statutory body specified in the Schedule may be produced in proof of the contents of the document or such part of the document to which the print purports to be a copy upon proof that —
+80A\.—(1) A print, whether enlarged or not, purporting to be made from a film of any document in the possession of the Government or any statutory body specified in the Second Schedule may be produced in proof of the contents of the document or such part of the document to which the print purports to be a copy upon proof that —
 
 (a) while the document was in the custody or control of the Government or specified statutory body the film was taken in order to keep a permanent record thereof; and
 
@@ -2037,6 +2055,8 @@ by the original or by a copy certified by the legal keeper thereof, with a certi
 (iii) was lost; or
 
 (iv) had passed out of the custody or control of the Government or specified statutory body.
+
+[Act 20 of 2018 wef 31/10/2018]
 
 (2) Proof —
 
@@ -2058,9 +2078,11 @@ may be given in respect of any document or groups of documents by a public offic
 
 “film” includes a photographic plate, microfilm and photostatic negative;
 
-“specified statutory body” means a statutory body specified in the Schedule.
+“specified statutory body” means a statutory body specified in the Second Schedule.
 
-(6) The Minister may, by order published in theGazette, amend the Schedule.
+[Act 20 of 2018 wef 31/10/2018]
+
+(6) [Deleted by Act 20 of 2018 wef 31/10/2018]
 
 Presumptions as to documents
 
@@ -2884,13 +2906,15 @@ Cdeposes that he heardAsay toD: “Bwrote a letter accusing me of theft and I wi
 
 ### Questions lawful in cross-examination
 
-148\. When a witness may be cross-examined, he may, in addition to the questions hereinbefore referred to, be asked any questions which tend —
+148\. Subject to section 154A, when a witness may be cross-examined, he may, in addition to the questions hereinbefore referred to, be asked any questions which tend —
 
 (a) to test his accuracy, veracity or credibility;
 
 (b) to discover who he is and what is his position in life; or
 
 (c) to shake his credit by injuring his character, although the answer to such questions might tend, directly or indirectly, to criminate him, or might expose or tend, directly or indirectly, to expose him to a penalty or forfeiture.
+
+[Act 20 of 2018 wef 31/10/2018]
 
 ### When witness to be compelled to answer
 
@@ -2935,6 +2959,24 @@ Illustrations
 ### Questions intended to insult or annoy
 
 154\. The court shall forbid any question which appears to it to be intended to insult or annoy, or which though proper in itself, appears to the court needlessly offensive in form.
+
+### Restrictions on questions and evidence in criminal proceedings involving sexual offence or child abuse offence
+
+154A\.—(1) In criminal proceedings where the accused is charged with committing a sexual offence or child abuse offence, the following are subject to such restrictions as may be provided for in rules made under subsection (2):
+
+(a) the questions that may be asked of the alleged victim of the offence in cross-examination;
+
+(b) the evidence that may be adduced about the alleged victim.
+
+(2) The Minister may make rules to provide for —
+
+(a) the restrictions mentioned in subsection (1);
+
+(b) any exceptions to those restrictions; and
+
+(c) any application concerning any such restriction or exception.
+
+[Act 20 of 2018 wef 31/10/2018]
 
 ### Exclusion of evidence to contradict answers to questions testing veracity
 
@@ -3158,9 +3200,54 @@ BANKERS’ BOOKS
 
 (2) Any such order against a bank may be enforced as if the bank were a party to the proceeding.
 
-## THE SCHEDULE
+## PART V
 
-Section 80A
+MISCELLANEOUS
+
+[Act 20 of 2018 wef 31/10/2018]
+
+### Amendment of Schedules
+
+177\. The Minister may, by order in theGazette, amend the First and Second Schedules.
+
+[Act 20 of 2018 wef 31/10/2018]
+
+FIRST SCHEDULE
+
+Sections 3(1) and 177
+
+Child abuse offences and
+
+
+
+
+sexual offences
+
+Part 1
+
+CHILD ABUSE OFFENCES
+
+1. 
+
+Any offence under section 5(1), 6, 7, 11(2), 12 or 13 of the Children and Young Persons Act (Cap. 38).
+
+Part 2
+
+SEXUAL OFFENCES
+
+1. 
+
+Any offence under section 354, 354A, 355, 356, 357, 358, 372, 373, 373A, 375, 376, 376A, 376B, 376C, 376D, 376E, 376F, 376G, 377(3), 377A or 377B(3) of the Penal Code (Cap. 224).
+
+2. 
+
+Any offence under section 140, 141, 142, 143, 144, 145, 146, 146A, 147 or 148 of the Women’s Charter (Cap. 353).
+
+[Act 20 of 2018 wef 31/10/2018]
+
+SECOND SCHEDULE
+
+Sections 80A and 177
 
 Statutory Body
 
@@ -3345,6 +3432,8 @@ Urban Redevelopment Authority Act (Chapter 340).
 
 [17/2009 wef 01/07/2009]
 
+[Act 20 of 2018 wef 31/10/2018]
+
 ## LEGISLATIVE HISTORY
 
 Evidence Act
@@ -3397,7 +3486,7 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Referred to Select Committee|L.A. 2 of 1960|
 ||Date of Third Reading|13 February 1960|
 ||Date of commencement|26 February 1960|
-|12.|**LN 71/1965**|
+|12.|**LN 71/1965—validated=no**|
 ||Date of commencement|4 March 1965|
 |13.|**G. N. No. S 39/1966—The Modification of Laws (Evidence) Order 1966**|
 ||Date of commencement|4 March 1966|
@@ -3566,3 +3655,7 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
 ||Date of Second and Third Readings|19 March 2018|
 ||Date of commencement|17 September 2018|
+|46.|**Act 20 of 2018—Evidence (Amendment) Act 2018**|
+||Date of First Reading|28 February 2018 (Bill No. 15/2018 published on 28 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|31 October 2018|
