@@ -348,9 +348,11 @@ CONSTITUTION
 
 [Act 5 of 2014 wef 07/03/2014]
 
-(2) A State Court shall have power to hear any proceedings or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public security or propriety, or for other sufficient reason to do so.
+(2) A State Court shall have power to hear any matter or proceeding or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so.
 
 [Act 5 of 2014 wef 07/03/2014]
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2A) A State Court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so, order that —
 
@@ -377,6 +379,38 @@ which is contained in any court document intended to be produced before the cour
 (4) Any person who acts in contravention of any order under subsection (2A) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [15/2010 wef 02/01/2011]
+
+(5) A State Court that hears the whole or any part of any matter or proceeding in camera may, in its discretion, permit any of the following individuals to be present in the courtroom while that matter or proceeding is heard in camera:
+
+(a) any journalist who reports news for a newspaper or a broadcasting service;
+
+(b) any individual whom the court determines has a sufficient interest in that matter or proceeding;
+
+(c) any other individual that the court specifies in any particular case.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(6) For the purposes of subsection (2), the matters that a State Court may consider, when deciding whether it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason, to hear the whole or any part of any matter or proceeding in camera, include the following matters:
+
+(a) whether the defence of any accused person in that matter or proceeding will be prejudiced by the presence of any member of the public in the courtroom;
+
+(b) whether any accused person or witness in that matter or proceeding has any legitimate interest in privacy that needs to be protected;
+
+(c) whether the object of that matter or proceeding will be defeated by publicity if that matter or proceeding is heard in open court;
+
+(d) whether any accused person or witness in that matter or proceeding has any legitimate interest in protecting the confidentiality of any information that may be disclosed during the hearing of that matter or proceeding;
+
+(e) whether any information that may be disclosed during the hearing of that matter or proceeding will be prejudicial to the interests of Singapore.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(7) In this section —
+
+“broadcasting service” has the same meaning as in section 2(1) of the Broadcasting Act (Cap. 28);
+
+“newspaper” has the same meaning as in section 2(1) of the Newspaper and Printing Presses Act (Cap. 206).
+
+[Act 19 of 2018 wef 31/10/2018]
 
 8\. [Repealed by Act 19 of 2016 wef 01/10/2017]
 
@@ -1617,6 +1651,10 @@ This Legislative History is provided for the convenience of users of the Subordi
 ||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|15 August 2016|
 ||Date of commencement|1 October 2017|
+|31.|**Act 19 of 2018—Criminal Justice Reform Act 2018**|
+||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|31 October 2018|
 ## COMPARATIVE TABLE
 
 State Courts Act
