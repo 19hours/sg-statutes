@@ -222,7 +222,7 @@
 
 - [91 Interpretation of this Division](#Interpretation-of-this-Division)
 
-- [92 When person must be released on bail or personal bond](#When-person-must-be-released-on-bail-or-personal-bond)
+- [92 When person must normally be released on bail or personal bond, or on both](#When-person-must-normally-be-released-on-bail-or-personal-bond-or-on-both)
 
 - [93 When person accused of non-bailable offence may be released on bail](#When-person-accused-of-non-bailable-offence-may-be-released-on-bail)
 
@@ -232,7 +232,7 @@
 
 - [96 Amount of bond](#Amount-of-bond)
 
-- [97 High Court’s powers to grant or vary bail](#High-Court’s-powers-to-grant-or-vary-bail)
+- [97 Powers of High Court regarding bail](#Powers-of-High-Court-regarding-bail)
 
 - [98 Application for bail or release on personal bond in High Court](#Application-for-bail-or-release-on-personal-bond-in-High-Court)
 
@@ -244,7 +244,7 @@
 
 - [102 Withdrawal, change of conditions, etc., of bail](#Withdrawal-change-of-conditions-etc-of-bail)
 
-- [103 Liability to arrest for absconding or breaking conditions of bail or personal bond](#Liability-to-arrest-for-absconding-or-breaking-conditions-of-bail-or-personal-bond)
+- [103 Absconding or breaking conditions of bail or personal bond, etc.](#Absconding-or-breaking-conditions-of-bail-or-personal-bond-etc)
 
 - [104 Duties of surety](#Duties-of-surety)
 
@@ -252,7 +252,11 @@
 
 - [106 Security instead of surety](#Security-instead-of-surety)
 
-- [107 Procedure on forfeiture of bond](#Procedure-on-forfeiture-of-bond)
+- [106A Prohibition against agreements to indemnify surety, etc.](#Prohibition-against-agreements-to-indemnify-surety-etc)
+
+- [107 Procedure on forfeiture of personal bond without sureties](#Procedure-on-forfeiture-of-personal-bond-without-sureties)
+
+- [107A Procedure on forfeiture of bond with sureties](#Procedure-on-forfeiture-of-bond-with-sureties)
 
 - [108 Appeal from orders](#Appeal-from-orders)
 
@@ -280,7 +284,7 @@
 
 - [117 Proceedings against body corporate, limited liability partnership, etc.](#Proceedings-against-body-corporate-limited-liability-partnership-etc)
 
-- [118 Service for offences punishable with fine only](#Service-for-offences-punishable-with-fine-only)
+- [118 Service for fine-only offence](#Service-for-fine-only-offence)
 
 - [119 Proof of service](#Proof-of-service)
 
@@ -345,6 +349,34 @@
 - [148 Outstanding offences](#Outstanding-offences)
 
 - [149 Death of accused](#Death-of-accused)
+
+[**Part VIIA DEFERRED PROSECUTION AGREEMENTS**](#Part-VIIA)
+
+- [149A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [149B Entering into DPA, etc.](#Entering-into-DPA-etc)
+
+- [149C Effect of DPA on court proceedings while DPA is in force](#Effect-of-DPA-on-court-proceedings-while-DPA-is-in-force)
+
+- [149D Persons who may enter into DPA with Public Prosecutor](#Persons-who-may-enter-into-DPA-with-Public-Prosecutor)
+
+- [149E Content of DPA](#Content-of-DPA)
+
+- [149F Court approval of DPA](#Court-approval-of-DPA)
+
+- [149G Breach of DPA](#Breach-of-DPA)
+
+- [149H Variation of terms of DPA](#Variation-of-terms-of-DPA)
+
+- [149I Expiry of DPA](#Expiry-of-DPA)
+
+- [149J Publication of information](#Publication-of-information)
+
+- [149K Use of material in criminal proceedings](#Use-of-material-in-criminal-proceedings)
+
+- [149L Money received by prosecutor under DPA](#Money-received-by-prosecutor-under-DPA)
+
+- [149M Appeals from certain decisions under this Part](#Appeals-from-certain-decisions-under-this-Part)
 
 [**Part VIII INITIATION OF CRIMINAL PROCEEDINGS AND COMPLAINT TO MAGISTRATE**](#Part-VIII)
 
@@ -558,6 +590,10 @@
 
 - [258 Admissibility of accused’s statements](#Admissibility-of-accused’s-statements)
 
+- [258A Admissibility of Case for the Defence](#Admissibility-of-Case-for-the-Defence)
+
+- [258B Reference to certain documents in Case for the Prosecution](#Reference-to-certain-documents-in-Case-for-the-Prosecution)
+
 - [259 Witness’s statement inadmissible except in certain circumstances](#Witness’s-statement-inadmissible-except-in-certain-circumstances)
 
 - [260 Admissibility of report on first information made under section 14 or 15](#Admissibility-of-report-on-first-information-made-under-section-14-or-15)
@@ -604,11 +640,15 @@
 
 - [279 Procedure to determine admissibility of evidence](#Procedure-to-determine-admissibility-of-evidence)
 
-[**Division 4  Special provisions relating to recording of evidence**](#Division-4--Special-provisions-relating-to-recording-of-evidence)
+[**Division 4  Special provisions relating to recording or giving of evidence**](#Division-4--Special-provisions-relating-to-recording-or-giving-of-evidence)
 
 - [280 Power of Magistrate to record statements](#Power-of-Magistrate-to-record-statements)
 
 - [281 Evidence through video or television links](#Evidence-through-video-or-television-links)
+
+- [281A Measures to prevent witness from seeing accused](#Measures-to-prevent-witness-from-seeing-accused)
+
+- [281B Evidence to be given in camera in certain cases](#Evidence-to-be-given-in-camera-in-certain-cases)
 
 [**Division 5  Witnesses**](#Division-5--Witnesses)
 
@@ -772,7 +812,7 @@
 
 [**Part XVIII COMPENSATION AND COSTS**](#Part-XVIII)
 
-- [355 Order for payment of costs of prosecution against accused and order for payment of costs incurred by accused in his defence](#Order-for-payment-of-costs-of-prosecution-against-accused-and-order-for-payment-of-costs-incurred-by-accused-in-his-defence)
+- [355 Order for payment of costs by accused and order for payment of costs incurred by accused in his defence](#Order-for-payment-of-costs-by-accused-and-order-for-payment-of-costs-incurred-by-accused-in-his-defence)
 
 - [356 Costs ordered by Court of Appeal or High Court](#Costs-ordered-by-Court-of-Appeal-or-High-Court)
 
@@ -870,6 +910,20 @@
 
 - [394E Orders on review](#Orders-on-review)
 
+[**Division 1B  Review of earlier decision of appellate court**](#Division-1B--Review-of-earlier-decision-of-appellate-court)
+
+- [394F Interpretation of this Division](#Interpretation-of-this-Division)
+
+- [394G Conditions for making review application](#Conditions-for-making-review-application)
+
+- [394H Application for leave to make review application](#Application-for-leave-to-make-review-application)
+
+- [394I Hearing of review application](#Hearing-of-review-application)
+
+- [394J Requirements for exercise of power of review under this Division](#Requirements-for-exercise-of-power-of-review-under-this-Division)
+
+- [394K Other matters concerning review applications and leave applications](#Other-matters-concerning-review-applications-and-leave-applications)
+
 [**Division 2  Points reserved**](#Division-2--Points-reserved)
 
 - [395 Power of court to state case](#Power-of-court-to-state-case)
@@ -906,6 +960,10 @@
 
 - [408 Adjournment of hearing](#Adjournment-of-hearing)
 
+- [408A Dealing with motion in absence of parties, etc.](#Dealing-with-motion-in-absence-of-parties-etc)
+
+- [408B Decision or order affecting lower court](#Decision-or-order-affecting-lower-court)
+
 - [409 Costs](#Costs)
 
 [**Part XXI SPECIAL PROCEEDINGS**](#Part-XXI)
@@ -934,6 +992,8 @@
 
 - [425 Irregularity in attachment](#Irregularity-in-attachment)
 
+- [425A Prohibition against publication, etc., that identifies complainant or alleged victim of sexual offence or child abuse offence](#Prohibition-against-publication-etc-that-identifies-complainant-or-alleged-victim-of-sexual-offence-or-child-abuse-offence)
+
 - [426 Copies of proceedings](#Copies-of-proceedings)
 
 - [427 Amendment of Schedules](#Amendment-of-Schedules)
@@ -953,6 +1013,8 @@
 [**FOURTH SCHEDULE Offences that may be compounded by victim**](#FOURTH-SCHEDULE-Offences-that-may-be-compounded-by-victim)
 
 [**FIFTH SCHEDULE Types of work**](#FIFTH-SCHEDULE-Types-of-work)
+
+[**SIXTH SCHEDULE Offences in respect of which deferred prosecution agreements may be entered into**](#SIXTH-SCHEDULE-Offences-in-respect-of-which-deferred-prosecution-agreements-may-be-entered-into)
 
 [**Legislative History**](#Legislative-History)
 
@@ -1122,11 +1184,9 @@ and includes an abetment of, a conspiracy to commit, or an attempt to commit, su
 
 [Act 19 of 2018 wef 17/09/2018]
 
-“signed” or “signature” and its grammatical variations, in relation to documents signed by a person who is a Judge, the Registrar of the Supreme Court, the Registrar of the State Courts, a District Judge or a Magistrate, shall have the same meaning as defined in section 2 of the Electronic Transactions Act (Cap. 88);
+“signed” or “signature” and its grammatical variations has the same meaning as in section 2(1) of the Electronic Transactions Act (Cap. 88);
 
-[Act 5 of 2014 wef 07/03/2014]
-
-[Act 42 of 2014 wef 01/01/2015]
+[Act 19 of 2018 wef 31/10/2018]
 
 “State Court” means any court constituted under the State Courts Act (Cap. 321) for the administration of criminal justice;
 
@@ -1136,15 +1196,23 @@ and includes an abetment of, a conspiracy to commit, or an attempt to commit, su
 
 [Deleted by Act 5 of 2014 wef 07/03/2014]
 
+“terrorist act” has the meaning given by section 2(2) and (3) of the Terrorism (Suppression of Financing) Act (Cap. 325);
+
+[Act 19 of 2018 wef 31/10/2018]
+
 “travel document” means a passport and includes any document issued by any State (including Singapore) or territory for the purpose of facilitating travel by the holder thereof;
 
 “writing” includes any mode of representing or reproducing words, figures, drawings or symbols in a visible form, whether permanent or otherwise.
+
+(1A) Any power conferred on a court by this Code to make an order for the disposal of any property includes a power to make an order for the forfeiture, confiscation or destruction of the property, or for the delivery of the property to any person, but must be exercised subject to any provisions on forfeiture, confiscation, destruction or delivery in any other written law that is applicable to the case.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Words and expressions used in this Code which are defined in the Penal Code but not defined in this section shall have the same meanings given to them by the Penal Code.
 
 ### Service of notices, orders and documents
 
-3\.—(1) Any notice, order or document (other than a summons or a notice to attend court issued under this Code) required or permitted to be served on a person under this Code may be served on that person —
+3\.—(1) Subject to this section, any notice, order or document (other than a summons or a notice to attend court issued under this Code) required or permitted to be served on a person under this Code may be served on that person —
 
 (a) by delivering it personally to that person;
 
@@ -1155,6 +1223,14 @@ and includes an abetment of, a conspiracy to commit, or an attempt to commit, su
 (d) by sending it by registered post addressed to that person at his last known residential or business address, or sending it by registered post addressed to his advocate (if any) at the advocate’s office;
 
 (e) by addressing it to that person and transmitting it by facsimile to his last known facsimile number, or addressing it to his advocate (if any) and transmitting it by facsimile to the advocate’s office facsimile number;
+
+(ea) by addressing it to that person, and transmitting it to an electronic mail address specified by that person in accordance with subsection (4A);
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(eb) by addressing it to that person’s advocate (if any), and transmitting it to an electronic mail address specified by the advocate in accordance with subsection (4B);
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (f) by leaving it at his last known residential or business address, if service cannot be effected under paragraphs (a) to (e);
 
@@ -1168,9 +1244,19 @@ and includes an abetment of, a conspiracy to commit, or an attempt to commit, su
 
 (iv) by sending it by registered post addressed to the advocate (if any) of the body corporate or limited liability partnership at the advocate’s office;
 
-(v) by addressing it to that body corporate or limited liability partnership and transmitting it to the last known facsimile number of the body corporate or limited liability partnership; or
+(v) by addressing it to that body corporate or limited liability partnership and transmitting it to the last known facsimile number of the body corporate or limited liability partnership;
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (vi) by addressing it to the advocate (if any) of the body corporate or limited liability partnership and transmitting it by facsimile to the advocate’s office facsimile number;
+
+(vii) by addressing it to that body corporate or limited liability partnership, and transmitting it to an electronic mail address specified by that body corporate or limited liability partnership in accordance with subsection (4A); or
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(viii) by addressing it to the advocate (if any) of the body corporate or limited liability partnership, and transmitting it to an electronic mail address specified by the advocate in accordance with subsection (4B);
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (h) in the case of a partnership other than a limited liability partnership —
 
@@ -1182,9 +1268,19 @@ and includes an abetment of, a conspiracy to commit, or an attempt to commit, su
 
 (iv) by sending it by registered post addressed to the advocate (if any) of the partnership at the advocate’s office;
 
-(v) by addressing it to that partnership and transmitting it to the last known facsimile number of the partnership; or
+(v) by addressing it to that partnership and transmitting it to the last known facsimile number of the partnership;
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (vi) by addressing it to the advocate (if any) of the partnership and transmitting it by facsimile to the advocate’s office facsimile number;
+
+(vii) by addressing it to that partnership, and transmitting it to an electronic mail address specified by that partnership in accordance with subsection (4A); or
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(viii) by addressing it to the advocate (if any) of the partnership, and transmitting it to an electronic mail address specified by the advocate in accordance with subsection (4B);
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (i) in the case of an unincorporated association —
 
@@ -1196,17 +1292,47 @@ and includes an abetment of, a conspiracy to commit, or an attempt to commit, su
 
 (iv) by sending it by registered post addressed to the advocate (if any) of the unincorporated association at the advocate’s office;
 
-(v) by addressing it to that unincorporated association and transmitting it to the last known facsimile number of the unincorporated association; or
+(v) by addressing it to that unincorporated association and transmitting it to the last known facsimile number of the unincorporated association;
 
-(vi) by addressing it to the advocate (if any) of the unincorporated association and transmitting it by facsimile to the advocate’s office facsimile number; or
+[Act 19 of 2018 wef 31/10/2018]
+
+(vi) by addressing it to the advocate (if any) of the unincorporated association and transmitting it by facsimile to the advocate’s office facsimile number;
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(vii) by addressing it to that unincorporated association, and transmitting it to an electronic mail address specified by that unincorporated association in accordance with subsection (4A); or
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(viii) by addressing it to the advocate (if any) of the unincorporated association, and transmitting it to an electronic mail address specified by the advocate in accordance with subsection (4B); or
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (j) by any other prescribed method.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) In the case of service under subsection (1)(a), the person to whom the notice, order or document is served must, if so required by the serving officer, acknowledge its receipt by signing on an acknowledgment slip.
 
 (3) In the case of service under subsection (1)(b) and (c), the family member or employee to whom the notice, order or document is delivered must, if so required by the serving officer, acknowledge its receipt by signing on an acknowledgment slip and writing down his name, age, identity card or passport number, contact details and relationship to the person on whom the notice, order or document is intended to be served.
 
 (4) In the case of service under subsection (1)(g)(i), (h)(i) and (i)(i), the person to whom the notice, order or document is delivered must, if so required by the serving officer, acknowledge its receipt by signing on an acknowledgment slip and writing down his name, age, identity card or passport number, contact details and position in the body corporate, limited liability partnership, partnership or unincorporated association, as the case may be, on which the notice, order or document is intended to be served.
+
+(4A) The notice, order or document may be served in a manner specified in subsection (1)(ea), (g)(vii), (h)(vii) or (i)(vii) only if both of the following conditions are satisfied:
+
+(a) the person to whom the notice, order or document is to be served gives that person’s prior written consent for the notice, order or document to be served in that manner;
+
+(b) that person specifies, in that written consent, the electronic mail address to which the notice, order or document is to be transmitted.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(4B) The notice, order or document may be served in a manner specified in subsection (1)(eb), (g)(viii), (h)(viii) or (i)(viii) only if both of the following conditions are satisfied:
+
+(a) the advocate (if any) of the person to whom the notice, order or document is to be served gives the advocate’s prior written consent for the notice, order or document to be served in that manner;
+
+(b) the advocate specifies, in that written consent, the electronic mail address to which the notice, order or document is to be transmitted.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (5) A reference in this Code to service by registered post is a reference to a postal service that records the posting and delivery of mail by the Postal Authority or public postal licensee.
 
@@ -1262,7 +1388,9 @@ CRIMINAL JURISDICTION OF STATE COURTS
 
 ### Criminal jurisdiction of District Courts
 
-8\.—(1) District Courts shall have jurisdiction and power to try any offence for which the maximum term of imprisonment provided by law does not exceed 10 years or which is punishable with a fine only.
+8\.—(1) District Courts shall have jurisdiction and power to try any offence for which the maximum term of imprisonment provided by law does not exceed 10 years or which is a fine-only offence.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Every District Court shall have in the exercise of its jurisdiction all the powers of a Magistrate’s Court.
 
@@ -1373,7 +1501,9 @@ as the case may be.
 
 (9) An officer of a public body, or an advocate acting on behalf of that public body, may with the authorisation of the Public Prosecutor, conduct any prosecution in summary cases before a Magistrate’s Court.
 
-(10) A private person may appear in person or by an advocate to prosecute in summary cases before a Magistrate’s Court for any offence for which the maximum term of imprisonment provided by law does not exceed 3 years or which is punishable with a fine only.
+(10) A private person may appear in person or by an advocate to prosecute in summary cases before a Magistrate’s Court for any offence for which the maximum term of imprisonment provided by law does not exceed 3 years or which is a fine-only offence.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Public Prosecutor’s fiat
 
@@ -2385,17 +2515,21 @@ Unlawful assemblies
 
 ### Minister or Commissioner of Police or Deputy Commissioner of Police may require any officer in command of troops to disperse unlawful assembly
 
-60\.—(1) When the Minister or the Commissioner of Police or a Deputy Commissioner of Police determines to disperse any such assembly by military force, he may require any commissioned or non-commissioned officer in command of any sailors, soldiers or airmen in the Singapore Armed Forces or in any visiting force lawfully present in Singapore to disperse the assembly by military force and to arrest and confine the persons forming part of it as the Minister or Commissioner of Police or the Deputy Commissioner of Police directs or as it may be necessary to arrest and confine in order to disperse the assembly or to have them punished according to law.
+60\.—(1) When the Minister or the Commissioner of Police or a Deputy Commissioner of Police determines to disperse any such assembly by military force, he may require any commissioned or non-commissioned officer in command of any sailors, soldiers or airmen in the Singapore Armed Forces to disperse the assembly by military force and to arrest and confine the persons forming part of it as the Minister or Commissioner of Police or the Deputy Commissioner of Police directs or as it may be necessary to arrest and confine in order to disperse the assembly or to have them punished according to law.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Every such officer shall obey such requisition in such manner as he thinks fit, but in so doing he shall use as little force and do as little injury to person and property as is consistent with dispersing the assembly and arresting and confining those persons.
 
 ### When commissioned officer may disperse unlawful assembly by military force
 
-61\. When the public security is manifestly endangered by any such assembly and when neither the Minister nor the Commissioner of Police nor a Deputy Commissioner of Police can be communicated with, any commissioned officer in the Singapore Armed Forces or in any visiting force lawfully present in Singapore may disperse such assembly by military force and may arrest and confine the persons forming part of it as it may be necessary to arrest and confine in order to disperse the assembly or to have them punished according to law, but if while he is acting under this section it becomes practicable for him to communicate with the Minister, the Commissioner of Police or a Deputy Commissioner of Police, he shall do so and thereafter obey the instructions of the Minister, the Commissioner of Police or the Deputy Commissioner of Police as to whether he shall or shall not continue the action.
+61\. When the public security is manifestly endangered by any such assembly and when neither the Minister nor the Commissioner of Police nor a Deputy Commissioner of Police can be communicated with, any commissioned officer in the Singapore Armed Forces may disperse such assembly by military force and may arrest and confine the persons forming part of it as it may be necessary to arrest and confine in order to disperse the assembly or to have them punished according to law, but if while he is acting under this section it becomes practicable for him to communicate with the Minister, the Commissioner of Police or a Deputy Commissioner of Police, he shall do so and thereafter obey the instructions of the Minister, the Commissioner of Police or the Deputy Commissioner of Police as to whether he shall or shall not continue the action.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Protection against prosecution for acts done under this Division
 
-62\. No prosecution against the Minister or any police officer or officer, sailor, soldier or airman in the Singapore Armed Forces or in any visiting force lawfully present in Singapore for any act purporting to be done under this Division shall be instituted in any criminal court except with the sanction of the President, and —
+62\. No prosecution against the Minister or any police officer or officer, sailor, soldier or airman in the Singapore Armed Forces for any act purporting to be done under this Division shall be instituted in any criminal court except with the sanction of the President, and —
 
 (a) no police officer acting under this Division in good faith;
 
@@ -2403,9 +2537,11 @@ Unlawful assemblies
 
 (c) no person doing any act in good faith in compliance with a requisition under section 58 or 60; and
 
-(d) no inferior officer, sailor, soldier or airman or member of any of the Singapore Armed Forces or of any visiting force lawfully present in Singapore doing any act in obedience to any order which under naval, military or air force law he was bound to obey,
+(d) no inferior officer, sailor, soldier or airman or member of the Singapore Armed Forces doing any act in obedience to any order which under naval, military or air force law he was bound to obey,
 
 shall be deemed thereby to have committed an offence.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 Division 4 —
 
@@ -2421,35 +2557,13 @@ Preventive action of police
 
 (b) such act by the police officer is necessary to apprehend the person.
 
-(3) In this section —
+(3) In this section, “lawful means” includes —
 
-“lawful means” includes removing a person from any place and taking away any thing which the person has in his possession which the police officer reasonably suspects is intended to be used in the commission of the offence;
+(a) removing a person from any place; and
 
-“terrorist act” means the use or threat of action —
+(b) taking away any thing, which a person has in the person’s possession, that the police officer reasonably suspects is intended to be used in the commission of the offence.
 
-(a) where the action —
-
-(i) involves serious violence against a person or which endangers a person’s life;
-
-(ii) involves serious damage to any building or structure;
-
-(iii) creates a serious risk to the health or the safety of the public or a section of the public;
-
-(iv) involves the use of firearms or explosives; or
-
-(v) involves releasing into the environment or any part thereof, or distributing or otherwise exposing the public or any part thereof to —
-
-(A) any dangerous, hazardous, radioactive or harmful substance;
-
-(B) any toxic chemical; or
-
-(C) any microbial or other biological agent, or toxin; and
-
-(b) where the use or threat of action is intended or reasonably regarded as intending to —
-
-(i) influence or compel the Government, any other government, or any international organisation to do or refrain from doing any act; or
-
-(ii) intimidate the public or a section of the public.
+[Act 19 of 2018 wef 31/10/2018]
 
 ## PART VI
 
@@ -2544,7 +2658,9 @@ be apprehended by the victim, employee or such person referred to in paragraph (
 
 ### Person arrested not to be detained more than 48 hours
 
-68\.—(1) No police officer shall detain in custody a person who has been arrested without a warrant for a longer period than under all the circumstances of the case is reasonable.
+68\.—(1) Unless the court orders otherwise under section 92(3)(a) or 93(3B)(a), no police officer shall detain in custody a person who has been arrested without a warrant for a longer period than under all the circumstances of the case is reasonable.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Such period shall not exceed 48 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court.
 
@@ -2554,13 +2670,17 @@ Arrest with warrant
 
 ### Warrant to whom directed
 
-69\.—(1) An arrest warrant must ordinarily be directed to the Commissioner of Police or to the head or director of any law enforcement agency, or any person of a similar rank in such law enforcement agency.
+69\.—(1) An arrest warrant must ordinarily be directed to the Commissioner of Police or to the head of any law enforcement agency, or any person of a similar rank in such law enforcement agency.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) An arrest warrant —
 
 (a) if directed to the Commissioner of Police, may be executed by any police officer or any person appointed by the Commissioner of Police; or
 
-(b) if directed to the head or director of any law enforcement agency, or any person of a similar rank in such law enforcement agency, may be executed by any person appointed by the head, director or any person of a similar rank.
+(b) if directed to the head of any law enforcement agency, or any person of a similar rank in such law enforcement agency, may be executed by any person appointed by the head or person of a similar rank.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (3) The court issuing an arrest warrant may direct it to any person or persons by name or office and such person or persons may execute the warrant.
 
@@ -2667,7 +2787,21 @@ the police officer making the arrest or, when the arrest is made by a private pe
 
 ### Mode of searching women
 
-83\. Whenever it is necessary to cause a woman to be searched, the search shall be made by another woman with strict regard to decency.
+83\.—(1) Except as provided in subsection (2), whenever it is necessary to cause a woman to be searched, the search must be made by a relevant officer who is a woman.
+
+(2) A search of a woman may be made by a relevant officer who is a man, if (and only if) all of the following conditions are satisfied:
+
+(a) the relevant officer reasonably suspects the woman of committing, attempting to commit, abetting the commission of, or being a party to a criminal conspiracy to commit, a terrorist act;
+
+(b) the relevant officer believes in good faith that the terrorist act is imminent;
+
+(c) the relevant officer believes in good faith that the search cannot be made within a reasonable time by a relevant officer who is a woman.
+
+(3) Every search mentioned in subsection (1) or (2) must be made with strict regard to decency.
+
+(4) In this section, “relevant officer” means a police officer or an officer of the Immigration & Checkpoints Authority.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Power to pursue and arrest after escape or rescue
 
@@ -2767,7 +2901,7 @@ Bails and bonds
 
 “surrender to custody”, in relation to a released person, means to surrender himself into the custody of the court or a police officer, as the case may be, according to the bail or bond conditions at the time and place appointed for him to do so.
 
-### When person must be released on bail or personal bond
+### When person must normally be released on bail or personal bond, or on both
 
 92\.—(1) When any person, except a person accused of a non-bailable offence —
 
@@ -2777,7 +2911,31 @@ Bails and bonds
 
 the person must be released on bail by a police officer in cases determined by the Commissioner of Police or by that court.
 
-(2) Instead of taking bail from the person, the police officer or the court may release him if he signs a personal bond without sureties.
+(2) Despite subsection (1) —
+
+(a) the police officer or the court may, instead of taking bail from the person, release the person if the person signs a personal bond without sureties; and
+
+(b) the court may, instead of releasing the person on bail, release the person on bail and on personal bond by requiring the person to sign a personal bond without sureties, in addition to taking bail from the person.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(3) Despite subsections (1) and (2), where the person is accused of an offence that is not a fine-only offence, and a court believes, on any ground prescribed in the Criminal Procedure Rules, that the person, if released, will not surrender to custody, be available for investigations or attend court, the court may order as follows:
+
+(a) if the person is arrested or detained without warrant by a police officer — order the police officer not to release the person on bail or on personal bond;
+
+(b) if the person appears or is brought before the court — refuse to release the person, whether on bail, on personal bond, or on bail and on personal bond.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(4) Where —
+
+(a) a State Court orders the release of a person under this section on bail, on personal bond, or on bail and on personal bond; and
+
+(b) the prosecution applies to the State Court to stay execution on the order pending a review of the order by the High Court,
+
+the State Court may stay execution on the order pending a review of the order.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### When person accused of non-bailable offence may be released on bail
 
@@ -2788,6 +2946,28 @@ the person must be released on bail by a police officer in cases determined by t
 [2/2012]
 
 (3) Notwithstanding subsection (2), if there are grounds for further investigations as to whether the accused has committed some other bailable offence, then, pending the investigations, the accused must be released on bail or, at the discretion of the police officer or court, on his own personal bond.
+
+(3A) Despite subsections (2) and (3), the court may, instead of releasing the accused on bail or on the accused’s own personal bond, release the accused on bail and on personal bond by requiring the accused to sign a personal bond without sureties, in addition to taking bail from the accused.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(3B) Despite subsections (2), (3) and (3A), where there are grounds for further investigations as to whether the accused has committed a bailable offence that is not a fine-only offence, and a court believes, on any ground prescribed in the Criminal Procedure Rules, that the accused, if released, will not surrender to custody, be available for investigations or attend court, the court may —
+
+(a) order the police officer not to release the accused on bail or on personal bond; or
+
+(b) refuse to release the accused, whether on bail, on personal bond, or on bail and on personal bond.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(3C) Where —
+
+(a) a State Court orders the release on bail, on personal bond, or on bail and on personal bond, of a person accused of a non-bailable offence; and
+
+(b) the prosecution applies to the State Court to stay execution on the order pending a review of the order by the High Court,
+
+the State Court must stay execution on the order pending a review of the order.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (4) A police officer or a court releasing any person under this section must record in writing the reasons for so doing.
 
@@ -2821,7 +3001,9 @@ the person must be released on bail by a police officer in cases determined by t
 
 (a) he is charged for an offence punishable with death or imprisonment for life;
 
-(b) having been previously released on bail or personal bond in any criminal proceedings, he had not surrendered to custody or made himself available for investigations or attended court, and the court believes that in view of this failure, he would not surrender to custody, or make himself available for investigations or attend court if released; or
+(b) the accused is accused of any non-bailable offence, and the court believes, on any ground prescribed in the Criminal Procedure Rules, that the accused, if released, will not surrender to custody, be available for investigations or attend court; or
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (c) he has been arrested or taken into custody under a warrant issued under section 10, 24 or 34 of the Extradition Act (Cap. 103) or endorsed under section 33 of that Act.
 
@@ -2829,15 +3011,23 @@ the person must be released on bail by a police officer in cases determined by t
 
 (2) Notwithstanding subsection (1), the court may —
 
-(a) direct that any juvenile or any sick or infirm person accused of such an offence be released on bail; or
+(a) direct that any juvenile or any sick or infirm person accused of such an offence be released on bail;
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (b) release on bail an accused charged with an offence referred to in subsection (1)(a), if —
 
 (i) the offence is also punishable with an alternative punishment other than death or life imprisonment; and
 
-(ii) the offence is to be tried before a District Court or a Magistrate’s Court.
+(ii) the offence is to be tried before a District Court or a Magistrate’s Court; or
 
 [2/2012]
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(c) release on bail an accused who has been arrested or taken into custody under a warrant mentioned in subsection (1)(c), if the conditions prescribed in the Criminal Procedure Rules for such release are satisfied.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (3) In this section, “accused” includes a “fugitive” as defined in the Extradition Act.
 
@@ -2845,13 +3035,27 @@ the person must be released on bail by a police officer in cases determined by t
 
 96\. The amount of every bond executed under this Division must be fixed with due regard to the circumstances of the case as being sufficient to secure the attendance of the person arrested or charged.
 
-### High Court’s powers to grant or vary bail
+### Powers of High Court regarding bail
 
-97\.—(1) Whether there is an appeal against conviction or not, the High Court may grant bail to any accused before it, release him on personal bond or vary the amount or conditions of the bail or personal bond required by a police officer or a State Court, and impose such other conditions for the bail or personal bond as it thinks fit.
+97\.—(1) Subject to section 95(1) and subsection (2), at any stage of any proceeding under this Code, the High Court may —
 
-[Act 5 of 2014 wef 07/03/2014]
+(a) release any accused before the High Court on bail, on personal bond, or on bail and on personal bond;
 
-(2) At any stage of any proceeding under this Code, the High Court may cause any person released under this section to be arrested and may commit him to custody.
+(b) vary the amount or conditions of the bail or personal bond required by a police officer or a State Court, or impose such other conditions for the bail or personal bond as the High Court thinks fit;
+
+(c) where a State Court orders the release of a person on bail, on personal bond, or on bail and on personal bond, stay execution on the order pending a review of the order by the High Court; or
+
+(d) direct that any person who has been released on bail, on personal bond, or on bail and on personal bond, under this Division be arrested, and commit that person to custody.
+
+(2) Where —
+
+(a) a State Court orders the release on bail, on personal bond, or on bail and on personal bond, of a person accused of a non-bailable offence; and
+
+(b) the prosecution applies to the High Court to stay execution on the order pending a review of the order by the High Court,
+
+the High Court must stay execution on the order pending a review of the order.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Application for bail or release on personal bond in High Court
 
@@ -2901,7 +3105,7 @@ the court may vary the conditions of the bail or personal bond, or impose furthe
 
 (3) If the released person fails to provide sufficient sureties, the court may commit him to custody.
 
-### Liability to arrest for absconding or breaking conditions of bail or personal bond
+### Absconding or breaking conditions of bail or personal bond, etc.
 
 103\.—(1) If a released person under a duty to surrender to custody, or to make himself available for investigations or to attend court, does not do so, he may be arrested without a warrant.
 
@@ -2923,6 +3127,24 @@ the court may vary the conditions of the bail or personal bond, or impose furthe
 
 the court may remand him in custody or grant him bail subject to such conditions as it thinks fit.
 
+(5) A released person shall be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 3 years or to both, if the released person knowingly, and without reasonable excuse, fails to comply with any duty imposed on the released person —
+
+(a) to surrender to custody;
+
+(b) to be available for investigations; or
+
+(c) to attend court on the day and at the time and place appointed for the released person to do so.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(6) For the purposes of subsection (5), a released person is presumed, until the contrary is proved, to have no reasonable excuse if —
+
+(a) on or before the date of the failure to comply with the duty, the released person left Singapore without the permission of a police officer or the court, as the case may be, and has not returned to Singapore; or
+
+(b) on the date of the failure to comply with the duty, the released person, being outside Singapore, remains outside Singapore without the permission of the police officer or the court, as the case may be.
+
+[Act 19 of 2018 wef 31/10/2018]
+
 ### Duties of surety
 
 104\.—(1) A surety must —
@@ -2935,9 +3157,9 @@ the court may remand him in custody or grant him bail subject to such conditions
 
 [2/2012]
 
-(2) If the surety is in breach of any of his duties, the court may, having regard to all the circumstances of the case, forfeit the whole or any part of the amount of the bond.
+(2) [Deleted by Act 19 of 2018 wef 31/10/2018]
 
-(3) The court may order that any amount forfeited under subsection (2) be paid by instalments.
+(3) [Deleted by Act 19 of 2018 wef 31/10/2018]
 
 ### Surety may apply to have bond discharged
 
@@ -2955,43 +3177,115 @@ the court may remand him in custody or grant him bail subject to such conditions
 
 106\. When a court or police officer requires a person to sign a bond with one or more sureties, the court or officer may (except in the case of a bond for good behaviour) instead permit him to enter into his own personal bond and provide security acceptable to the court or officer.
 
-### Procedure on forfeiture of bond
+### Prohibition against agreements to indemnify surety, etc.
 
-107\.—(1) If it is proved to a court’s satisfaction that a bond taken under this Code has been forfeited, the court —
+106A\.—(1) Any agreement (whether made before, on or after the date of commencement of section 24 of the Criminal Justice Reform Act 2018) indemnifying or purporting to indemnify any person against any liability which that person may incur as a surety to a bail bond is void.
+
+(2) Any person who, on or after the date of commencement of section 24 of the Criminal Justice Reform Act 2018, knowingly enters into an agreement mentioned in subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 3 years or to both.
+
+(3) An offence under subsection (2) is committed —
+
+(a) whether the agreement is entered into before or after the person to be indemnified becomes a surety;
+
+(b) whether or not the person to be indemnified becomes a surety; and
+
+(c) whether the agreement contemplates compensation in money or money’s worth.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Procedure on forfeiture of personal bond without sureties
+
+107\.—(1) This section provides for the forfeiture of a personal bond without sureties.
+
+(2) If it is proved to a court’s satisfaction that the released person bound by the bond has failed, without reasonable excuse, to comply with any duty imposed on the released person to surrender to custody, to be available for investigations, or to attend court on the day and at the time and place appointed for the released person to do so, the court —
 
 (a) must record the basis of such proof;
 
-(b) may summon before it the person bound by the bond; and
+(b) must forfeit the bond;
 
-(c) may call on him to pay the amount of the bond or to explain why he should not pay it.
+(c) may summon before the court the released person;
 
-(2) If his explanation is inadequate and the amount of the bond is not paid, the court may recover the amount by issuing an order for the attachment of any property, movable or immovable, belonging to him —
+(d) may call upon the released person to pay a sum, being the whole or any part of the amount of the bond, or to explain why the released person should not pay that sum; and
 
-(a) by seizure of such property which may be sold and the proceeds applied towards the payment of the amount of the bond; or
+(e) may order that the sum mentioned in paragraph (d) be paid by instalments.
 
-(b) by appointing a receiver who shall be at liberty to take possession of and sell such property and apply the proceeds towards the payment of the amount of the bond.
+(3) If the explanation is inadequate, and the sum mentioned in subsection (2)(d) is not paid in full, the court may recover the amount unpaid by issuing an order for the attachment of any property, movable or immovable, belonging to the released person —
 
-[Act 33 of 2012 wef 01/01/2013]
+(a) by seizure of such property, which may be sold and the proceeds applied towards the payment of the amount; or
 
-(2A) Any person may, not later than 7 days after the date of the seizure of any property under subsection (2)(a) or the taking of possession of any property by the receiver under subsection (2)(b), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (2) and the court shall make such order as it sees fit.
+(b) by appointing a receiver, who may take possession of and sell such property, and apply the proceeds towards the payment of the amount.
 
-[Act 33 of 2012 wef 01/01/2013]
+(4) Any person may, not later than 7 days after the date any property is seized under subsection (3)(a) or taken possession of by the receiver under subsection (3)(b), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (3), and the court may make such order as it sees fit.
 
-(3) If immovable property attached under subsection (2) is sold, the officer under whose direction the attachment and sale was carried out may do any thing or act to transfer the title to the purchaser.
+(5) If immovable property attached under subsection (3) is sold, the officer under whose direction the attachment and sale was carried out may do any thing or act to transfer the title to the purchaser.
 
-(4) If the amount of the bond is not paid or cannot be recovered by such attachment and sale, the court may commit to prison the person bound by the bond for a term not exceeding 12 months.
+(6) If the sum mentioned in subsection (2)(d) is not paid in full and cannot be fully recovered by such attachment and sale, the court may commit to prison the released person for a term not exceeding 12 months.
 
-(5) Any unsatisfied amount of the bond shall constitute a judgment debt in favour of the Government and nothing in this section shall prevent the Government from recovering it as such.
+(7) Any unsatisfied part of the sum mentioned in subsection (2)(d) constitutes a judgment debt in favour of the Government, and nothing in this section prevents the Government from recovering it as such.
 
-(6) The court may reduce the amount of the bond and enforce part-payment only.
+(8) The court may, on the application of the released person at any time after the released person is called upon to pay the sum mentioned in subsection (2)(d), reduce that sum and enforce part-payment only.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Procedure on forfeiture of bond with sureties
+
+107A\.—(1) This section provides for the forfeiture of a bond with one or more sureties.
+
+(2) If it is proved to a court’s satisfaction that the released person for whose appearance the bond was executed has failed, without reasonable excuse, to comply with any duty imposed on the released person to surrender to custody, to be available for investigations, or to attend court on the day and at the time and place appointed for the released person to do so, the court —
+
+(a) must record the basis of such proof;
+
+(b) must forfeit the bond, as far as it relates to the released person;
+
+(c) may summon before the court each person bound by the bond;
+
+(d) may call upon each surety bound by the bond to explain why the bond, as far as it relates to that surety, should not be forfeited; and
+
+(e) may call upon the released person to pay a sum, being the whole or any part of the amount of the bond, or to explain why the released person should not pay that sum.
+
+(3) If the court calls upon the released person to pay the sum mentioned in subsection (2)(e), or to explain why the released person should not pay that sum, section 107(3) to (8) applies to the released person as it applies to a released person bound by a personal bond without sureties.
+
+(4) If the explanation given by a surety is inadequate, and it is proved to the court’s satisfaction that the surety is in breach of any of the surety’s duties mentioned in section 104, the court —
+
+(a) must record the basis of such proof; and
+
+(b) may, having regard to all the circumstances of the case —
+
+(i) forfeit the whole or any part of the amount of the bond, as far as it relates to the surety; and
+
+(ii) order the surety to pay the amount forfeited.
+
+(5) The court may order that any amount forfeited under subsection (4)(b) be paid by instalments.
+
+(6) If any amount forfeited under subsection (4)(b) is not paid in full, the court may recover the amount unpaid by issuing an order for the attachment of any property, movable or immovable, belonging to the surety —
+
+(a) by seizure of such property, which may be sold and the proceeds applied towards the payment of the amount forfeited; or
+
+(b) by appointing a receiver, who may take possession of and sell such property, and apply the proceeds towards the payment of the amount forfeited.
+
+(7) Any person may, not later than 7 days after the date any property is seized under subsection (6)(a) or taken possession of by the receiver under subsection (6)(b), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (6), and the court may make such order as it sees fit.
+
+(8) If immovable property attached under subsection (6) is sold, the officer under whose direction the attachment and sale was carried out may do any thing or act to transfer the title to the purchaser.
+
+(9) If the amount forfeited under subsection (4)(b) is not paid in full and cannot be fully recovered by such attachment and sale, the court may commit to prison the surety for a term not exceeding 12 months.
+
+(10) Any unsatisfied part of the amount forfeited under subsection (4)(b) constitutes a judgment debt in favour of the Government, and nothing in this section prevents the Government from recovering it as such.
+
+(11) The court may, on the application of a surety at any time after the surety is ordered to pay the amount forfeited under subsection (4)(b), reduce that amount and enforce part-payment only.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Appeal from orders
 
-108\. All orders made under section 107 by any Magistrate’s Court or District Court are appealable.
+108\. Every order made under section 107 or 107A by any Magistrate’s Court or District Court is appealable.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Power to direct levy of amount due on bond
 
-109\. The High Court or a District Court may direct any Magistrate’s Court to exercise the court’s power of forfeiture under section 107 in respect of a bond to appear before the High Court or District Court.
+109\. The High Court or a District Court may direct any Magistrate’s Court to exercise the court’s power of forfeiture under section 107 or 107A in respect of a bond to appear before the High Court or District Court.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 Division 6 —
 
@@ -3033,21 +3327,43 @@ to remain in Singapore
 
 (a) a police officer of or above the rank of sergeant, with the written consent of an authorised officer;
 
-(b) the head or director of any other law enforcement agency or a person of a similar rank; or
+(b) the head or an authorised director of any other law enforcement agency or a person of a similar rank; or
 
-(c) any officer of a prescribed law enforcement agency, with the written consent of the head or director of that law enforcement agency or a person of a similar rank,
+[Act 19 of 2018 wef 31/10/2018]
+
+(c) any officer of a prescribed law enforcement agency, with the written consent of the head or an authorised director of that law enforcement agency or a person of a similar rank,
 
 may require a person whom he has reasonable grounds for believing has committed any offence to surrender his travel document.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Any person who fails to surrender his travel document as required under subsection (1) may be arrested and taken before a Magistrate.
 
 (3) If the person arrested and taken before the Magistrate under subsection (2) is unable to show good reasons for not surrendering his travel document, the Magistrate may commit him to prison until he surrenders his travel document.
 
-(4) For the purposes of subsection (3), a certificate signed by an authorised officer, or the head or director of any law enforcement agency or a person of a similar rank, or the head or director of any prescribed law enforcement agency or a person of a similar rank, as the case may be, to the effect that the prisoner has complied with the requirements to surrender his travel document is sufficient warrant for the Commissioner of Prisons to release the prisoner.
+(4) For the purposes of subsection (3), a certificate signed by an authorised officer, or the head or an authorised director of any law enforcement agency or a person of a similar rank, or the head or an authorised director of any prescribed law enforcement agency or a person of a similar rank, as the case may be, to the effect that the prisoner has complied with the requirements to surrender his travel document is sufficient warrant for the Commissioner of Prisons to release the prisoner.
 
 [Act 1 of 2014 wef 01/07/2014]
 
+[Act 19 of 2018 wef 31/10/2018]
+
+(4A) Any person who has surrendered that person’s travel document under this section must not leave, or attempt to leave, Singapore unless —
+
+(a) that person has applied under section 113 for the return of that travel document; and
+
+(b) that travel document is returned to that person.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(4B) Any person who knowingly contravenes subsection (4A) shall be guilty of an offence and shall be liable on conviction to a fine or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 19 of 2018 wef 31/10/2018]
+
 (5) In this section and section 113 —
+
+“authorised director”, in relation to a law enforcement agency, means a director of that law enforcement agency who is authorised to perform the duties, and exercise the powers, under this section and section 113 of the head of that law enforcement agency;
+
+[Act 19 of 2018 wef 31/10/2018]
 
 “authorised officer” means a police officer of or above the rank of Deputy Superintendent of Police who is authorised by the Commissioner of Police to give a written consent referred to in subsection (1)(a);
 
@@ -3055,7 +3371,9 @@ may require a person whom he has reasonable grounds for believing has committed 
 
 ### Return of travel document
 
-113\.—(1) A person who has surrendered his travel document under section 112 may apply to the authorised officer, or the head or director of the law enforcement agency or a person of similar rank, or the head or director of the prescribed law enforcement agency or a person of a similar rank, as the case may be, for the return of the travel document.
+113\.—(1) A person who has surrendered his travel document under section 112 may apply to the authorised officer, or the head or an authorised director of the law enforcement agency or a person of similar rank, or the head or an authorised director of the prescribed law enforcement agency or a person of a similar rank, as the case may be, for the return of the travel document.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Where an application under subsection (1) has been refused, the person may apply to a District Judge for the return of his travel document, stating the reasons for the application.
 
@@ -3123,6 +3441,10 @@ Summons to appear in court
 
 (4) Any failure on the part of a body corporate, limited liability partnership, partnership or unincorporated association to comply with the legal formalities relating to the appointment of a representative does not affect the validity of the court proceedings.
 
+(4A) Subsections (3) and (4) do not apply to any proceeding under Part VIIA.
+
+[Act 19 of 2018 wef 31/10/2018]
+
 (5) In this section, “representative”, in relation to a body corporate, limited liability partnership, partnership or unincorporated association, means a person duly appointed by the body corporate, limited liability partnership, partnership or unincorporated association, as the case may be, to represent it at the court proceedings.
 
 (6) A representative for the purposes of this section may be appointed by a statement in writing which is to be signed —
@@ -3135,9 +3457,11 @@ Summons to appear in court
 
 and such statement in writing shall, for the purposes of this section, be admissible without further proof as prima facie evidence that the person has been duly appointed as representative.
 
-### Service for offences punishable with fine only
+### Service for fine-only offence
 
-118\. Notwithstanding section 116, a summons for an offence punishable with a fine only may be served by sending a copy of the summons by registered post to the last known address of the person to be summoned.
+118\. Notwithstanding section 116, a summons for a fine-only offence may be served by sending a copy of the summons by registered post to the last known address of the person to be summoned.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Proof of service
 
@@ -3231,13 +3555,119 @@ but if the statement is omitted, the court may add it at any time before sentenc
 
 124\.—(1) The charge must contain details of the time and place of the alleged offence and the person, if any, against whom or the thing, if any, in respect of which it was committed, as are reasonably sufficient to give the accused notice of what he is charged with.
 
-(2) If the accused is charged with criminal breach of trust or dishonest misappropriation of money or other movable property, it shall be sufficient to specify —
+(2) Despite subsection (1), where the accused is charged with any offence mentioned in subsection (3) —
 
-(a) the gross sum in respect of which the offence is alleged to have been committed; and
+(a) it is sufficient for the charge —
 
-(b) the dates between which the offence is alleged to have been committed, which period shall not exceed 12 months,
+(i) to specify the gross sum in respect of which the offence is alleged to have been committed without specifying particular items; and
 
-without specifying particular items or exact dates, and the charge so framed shall be deemed to be a charge of one offence.
+(ii) to specify the dates between which the offence is alleged to have been committed (being a period that does not exceed 12 months) without specifying exact dates; and
+
+(b) the charge so framed is deemed to be a charge of one offence.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(3) For the purposes of subsection (2), the offences are as follows:
+
+(a) any offence under section 403, 404, 406, 407, 408, 409, 411, 412, 413 or 414 of the Penal Code (Cap. 224);
+
+(b) any offence under section 43, 44, 46 or 47 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A);
+
+(c) any other offence (being an offence involving property) that is prescribed.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(4) Despite subsections (1) and (2) and section 132, where 2 or more incidents of the commission of the same offence by the accused are alleged, and those alleged incidents taken together amount to a course of conduct (having regard to the time, place or purpose of each alleged incident) —
+
+(a) it is sufficient to frame one charge for all of those alleged incidents, if all of the following conditions are satisfied:
+
+(i) the charge —
+
+(A) contains a statement that the charge is amalgamated under this subsection;
+
+(B) either —
+
+(BA)
+
+specifies the number of separate incidents of the commission of that offence that are alleged, without specifying each particular alleged incident; or
+
+(BB)
+
+if the causing of a particular outcome is an element of that offence, contains details of the aggregate outcome caused by all of those alleged incidents, without specifying the particular outcome caused by each particular alleged incident;
+
+(C) contains a statement that all of those alleged incidents taken together amount to a course of conduct; and
+
+(D) specifies the dates between which all of those incidents are alleged to have occurred, without specifying the exact date for each particular alleged incident;
+
+(ii) if a separate charge had been framed in respect of each of those incidents, the maximum punishment for the offence specified in each separate charge would be the same maximum punishment;
+
+(iii) the charge so framed does not specify any offence punishable with death; and
+
+(b) the charge so framed is deemed to be a charge of one offence.
+
+Illustrations
+
+(a)
+
+Ais charged under section 465 of the Penal Code (Cap. 224) with committing forgery by making a false document. By virtue of section 463 of that Code,A’s conduct in making the false document is conduct that is an element of the offence thatAis charged with.
+
+(b)
+
+Ais charged under section 325 of the Penal Code with voluntarily causing grievous hurt toB.A’s conduct in causing grievous hurt toBis conduct that is an element of the offence thatAis charged with.
+
+(c)
+
+Ais charged under section 426 of the Penal Code with committing mischief by setting fire to a dustbin, and thereby causing the destruction of the dustbin. By virtue of section 425 of that Code, the destruction of the dustbin is an outcome (caused byA’s conduct of setting fire to the dustbin) that is an element of the offence thatAis charged with.
+
+(d)
+
+Ais charged under section 417 of the Penal Code with cheatingBby deceivingB, and thereby intentionally inducingBto do a thing whichBwould not do ifBwere not so deceived. By virtue of section 415 of that Code, the thing thatBis induced to do is an outcome (caused byA’s conduct of deceivingB) that is an element of the offence thatAis charged with.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(5) For the purposes of subsection (4), 2 or more alleged incidents of the commission of an offence, taken together, may amount to a course of conduct, if one or more of the following circumstances exist:
+
+(a) where the offence is one that has an identifiable victim, the victim in each alleged incident is the same person or belongs to the same class of persons;
+
+(b) all of the alleged incidents involve the employment of the same method or similar methods;
+
+(c) all of the alleged incidents occurred in the same place, in similar places, or in places that are located near to each other;
+
+(d) all of the alleged incidents occurred within a defined period that does not exceed 12 months.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(6) To avoid doubt, subsection (5) does not contain an exhaustive list of the circumstances where 2 or more alleged incidents of the commission of an offence, taken together, may amount to a course of conduct.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(7) Subsection (4) ceases to apply to 2 or more alleged incidents of the commission of the same offence by the accused, if the accused indicates that the accused intends to rely on a different defence in relation to each of those alleged incidents.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(8) Subject to subsection (7), where a charge is framed under subsection (2) or (4), and a person is convicted of the offence specified in that charge —
+
+(a) the court may sentence that person —
+
+(i) in any case where the charge is framed under subsection (2) — to 2 times the amount of punishment to which that person would otherwise have been liable for that offence; or
+
+(ii) in any case where the charge is framed under subsection (4) — to 2 times the amount of punishment to which that person would otherwise have been liable if that person had been charged with and convicted of any one of the incidents of commission of the offence mentioned in that subsection; but
+
+(b) any sentence of caning imposed by the court in respect of that offence must not exceed the specified limit in section 328.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(9) Despite anything to the contrary in this Code, where a Magistrate’s Court or District Court would (apart from this section) have jurisdiction and power to try a particular type of offence, and a charge specifying an offence of that type is framed under subsection (2) or (4) — the Magistrate’s Court or District Court (as the case may be) —
+
+(a) has jurisdiction to hear and determine all proceedings for the offence specified in that charge; and
+
+(b) has power to award the full punishment provided under subsection (8) in respect of the offence specified in that charge.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(10) Subsections (8) and (9) do not apply to a charge framed under subsection (2) or (4) in respect of any act or omission that took place before the date of commencement of section 32 of the Criminal Justice Reform Act 2018.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### When manner of committing offence must be stated
 
@@ -3501,13 +3931,17 @@ AandBare accused of giving false evidence in the same proceedings. They should b
 
 ### Joint trials for connected offences
 
-144\. Notwithstanding section 143, a person may be separately charged and tried together with any other person accused of another offence under the same written law, if both offences arise from the same series of acts, whether or not they form the same transaction.
+144\. Despite section 143, persons accused of different offences, whether under the same written law or under different written laws, may be charged separately and tried together, if either or both of the following apply:
+
+(a) those offences arise from the same series of acts, whether or not those acts form the same transaction;
+
+(b) there is any agreement between those persons for each person to engage in conduct from which arises the offence that person is charged with.
 
 Illustrations
 
 (a)
 
-Aagrees to letBkeep his benefits of drug trafficking inA’s bank account to avoid detection.AandBmay be separately charged and tried together for offences under sections 43(1)(a) and 46(1)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A) respectively as the offences arise from the same series of acts.
+Aagrees to letBkeep his benefits of drug trafficking inA’s bank account to avoid detection.AandBmay be separately charged and tried together for offences under sections 43(1)(a) and 46(1)(a) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A), respectively, as the offences arise from the same series of acts.
 
 (b)
 
@@ -3515,15 +3949,25 @@ Asells 10 grams of diamorphine toB. Out of the 10 grams of diamorphine,Bsells 5 
 
 (c)
 
-Ahas in his possession a secret official code word which has been entrusted in confidence to him by a person holding office under the Government and fails to take reasonable care of the secrecy of the information. As a result ofA’s failure,Bcomes into possession of the secret official code word and retains it for a purpose prejudicial to the safety of Singapore when he has no right to retain it.AandBmay be separately charged and tried together for offences under sections 5(1)(d)(iv) and 6(2)(a) of the Official Secrets Act (Cap. 213) respectively as the offences arise from the same series of acts.
+Ahas in his possession a secret official code word which has been entrusted in confidence to him by a person holding office under the Government and fails to take reasonable care of the secrecy of the information. As a result ofA’s failure,Bcomes into possession of the secret official code word and retains it for a purpose prejudicial to the safety of Singapore when he has no right to retain it.AandBmay be separately charged and tried together for offences under sections 5(1)(iv) and 6(2)(a) of the Official Secrets Act (Cap. 213), respectively, as the offences arise from the same series of acts.
 
 (d)
 
-AgivesBa gratification as an inducement for awarding a contract byB’s company toA.AandBmay be separately charged and tried together for offences under section 6(b) and (a) of the Prevention of Corruption Act (Cap. 241) respectively as the offences arise from the same series of acts.
+AgivesBa gratification as an inducement for awarding a contract byB’s company toA.AandBmay be separately charged and tried together for offences under section 6(b) and (a), respectively, of the Prevention of Corruption Act (Cap. 241) as the offences arise from the same series of acts.
 
 (e)
 
 Members of opposing factions in an unlawful assembly or a riot may be separately charged and tried jointly as the offence of unlawful assembly or rioting arises from the same series of acts.
+
+(f)
+
+A,BandCare present when officers from the Corrupt Practices Investigation Bureau conduct a search of certain premises during an investigation into an offence under the Prevention of Corruption Act.Astates to the officers that there is no evidence of the offence in those premises, whenAknows the statement is false.BoverhearsA’s statement and, knowingA’s statement is false, tellsCto repeat the same false account to the officers.AandBare charged separately with an offence under section 28(b) of the Prevention of Corruption Act and an offence under section 204A of the Penal Code (Cap. 224), respectively.AandBmay be tried together for those offences, as those offences arise from the same series of acts.
+
+(g)
+
+A,BandCenter into an agreement forAto traffic in a controlled drug,Bto manage a brothel andCto import uncustomed goods, with the profits from these activities to be shared among them.A,BandCare charged separately for an offence under section 5(1)(a) of the Misuse of Drugs Act, an offence under section 148(1) of the Women’s Charter (Cap. 353) and an offence under section 128F of the Customs Act (Cap. 70), respectively.A,BandCmay be tried together for those offences, as there was an agreement between those persons for each person to engage in conduct from which arose the offence that person is charged with.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Joint trials with consent
 
@@ -3574,6 +4018,362 @@ the court may order that he be charged and tried separately for any one or more 
 ### Death of accused
 
 149\. Every charge or criminal proceeding abates on the death of the accused, and the court must so order if it is satisfied that he is dead.
+
+## PART VIIA
+
+DEFERRED PROSECUTION AGREEMENTS
+
+### Interpretation of this Part
+
+149A\. In this Part —
+
+“alleged offence” means an offence specified in the Sixth Schedule;
+
+“deferred prosecution agreement” or “DPA” means an agreement entered into between the Public Prosecutor and a person who has been charged with, or whom the Public Prosecutor is considering prosecuting for, an alleged offence, under which —
+
+(a) the person agrees to comply with the requirements imposed on the person by the agreement; and
+
+(b) the Public Prosecutor agrees that, upon the approval of the agreement by the High Court under section 149F, sections 149C and 149I apply in relation to the prosecution of the person for the alleged offence;
+
+“give public notice”, in relation to a matter, means to cause a notice of the matter to be published in theGazette;
+
+“subject” means a person who enters into a DPA with the Public Prosecutor.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Entering into DPA, etc.
+
+149B\.—(1) A DPA may be entered into in respect of any alleged offence, whether alleged to have been committed before, on or after the date of commencement of section 35 of the Criminal Justice Reform Act 2018.
+
+(2) A DPA in respect of an alleged offence —
+
+(a) may be entered into before, on or after the date on which a subject is charged with the alleged offence; but
+
+(b) cannot be entered into after the commencement of the trial for that alleged offence.
+
+(3) One DPA may be entered into in respect of 2 or more different alleged offences.
+
+(4) A person may choose whether to enter into a DPA with the Public Prosecutor.
+
+(5) Before a DPA is in force, any party to the DPA may withdraw from any negotiation concerning the DPA, from the DPA itself, and from any proceeding under section 149F relating to the DPA, without giving any reason for the withdrawal.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Effect of DPA on court proceedings while DPA is in force
+
+149C\. After a DPA is entered into between the Public Prosecutor and a subject in respect of an alleged offence, the following apply:
+
+(a) if the subject has been charged with the alleged offence, the subject is deemed to have been granted a discharge not amounting to an acquittal in relation to the alleged offence, when the DPA comes into force;
+
+(b) while the DPA is in force, the subject cannot be prosecuted for the alleged offence in any criminal proceedings;
+
+(c) while the DPA is in force, any limitation period or time limit for the commencement of any of the following matters is suspended:
+
+(i) the prosecution of the alleged offence;
+
+(ii) any civil penalty action in respect of the alleged offence;
+
+(iii) any proceedings for an order for disgorgement of a benefit derived from the alleged offence;
+
+(iv) any proceedings for the confiscation of any property that —
+
+(A) is used, or intended to be used, for the commission of the alleged offence; or
+
+(B) constitutes a benefit derived from the alleged offence;
+
+(v) any disciplinary proceedings, or other proceedings relating to the imposition of any regulatory measure, under any written law, that arise from the facts of the alleged offence.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Persons who may enter into DPA with Public Prosecutor
+
+149D\.—(1) A subject may be a body corporate, a limited liability partnership, a partnership or an unincorporated association, but cannot be an individual.
+
+(2) In the case of a DPA between the Public Prosecutor and a partnership —
+
+(a) the DPA must be entered into in the name of the partnership (and not in the name of any of the partners); and
+
+(b) any money payable under the DPA must be paid out of the funds of the partnership.
+
+(3) In the case of a DPA between the Public Prosecutor and an unincorporated association —
+
+(a) the DPA must be entered into in the name of the association (and not in the name of any of its members); and
+
+(b) any money payable under the DPA must be paid out of the funds of the association.
+
+(4) A subject must be represented by an advocate at the time the subject enters into a DPA.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Content of DPA
+
+149E\.—(1) A DPA must contain —
+
+(a) a charge or draft charge (prepared by the Public Prosecutor) relating to the alleged offence; and
+
+(b) a statement of facts relating to the alleged offence, which may include admissions made by the subject that enters into the DPA.
+
+(2) A DPA must specify a date (called in this Part the expiry date) on which the DPA ceases to have effect if the DPA is not already terminated under section 149G.
+
+(3) The requirements that a DPA may impose on the subject that enters into the DPA include, but are not limited to, the following requirements:
+
+(a) to pay to the Public Prosecutor a financial penalty;
+
+(b) to compensate victims of the alleged offence;
+
+(c) to donate money to a charity or any other third party;
+
+(d) to disgorge any profits made by the subject from the alleged offence;
+
+(e) to implement a compliance programme, or make changes to an existing compliance programme, relating to the subject’s policies or to the training of the subject’s employees or both;
+
+(f) to appoint a person —
+
+(i) to assess and monitor the subject’s internal controls;
+
+(ii) to advise the subject, and the Public Prosecutor, of any improvements to the subject’s compliance programme that are necessary, or that will reduce the risk of a recurrence of any conduct prohibited by the DPA; and
+
+(iii) to report to the Public Prosecutor any misconduct in the implementation of the subject’s compliance programme or internal controls;
+
+(g) to cooperate in —
+
+(i) any investigation relating to the alleged offence; and
+
+(ii) any investigation relating to any possible offence, committed by any officer, employee or agent of the subject, that arises from the same or substantially the same facts as the alleged offence;
+
+(h) to pay any reasonable costs of the Public Prosecutor in relation to the alleged offence or the DPA.
+
+(4) A DPA may impose time limits within which the subject of the DPA must comply with the requirements imposed on the subject.
+
+(5) A DPA may include a term setting out the consequences of a failure by the subject of the DPA to comply with any of its terms.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Court approval of DPA
+
+149F\.—(1) When the Public Prosecutor and the subject have agreed on the terms of a DPA, the Public Prosecutor must apply by criminal motion to the High Court for a declaration (called in this section the relevant declaration) that —
+
+(a) the DPA is in the interests of justice; and
+
+(b) the terms of the DPA are fair, reasonable and proportionate.
+
+(2) At the hearing of an application under subsection (1) —
+
+(a) the Public Prosecutor and the subject may submit on the application jointly or separately; and
+
+(b) the High Court may —
+
+(i) make the relevant declaration;
+
+(ii) refuse the application; or
+
+(iii) adjourn the hearing of the application —
+
+(A) for the Public Prosecutor and the subject to amend the DPA; or
+
+(B) for any other reason.
+
+(3) A DPA comes into force only when the High Court approves the DPA by making the relevant declaration.
+
+(4) An application under subsection (1) must be heard and dealt with in camera.
+
+(5) Upon the High Court making a relevant declaration, the Public Prosecutor must give public notice of the following, unless the Public Prosecutor is prohibited from doing so by or under any written law or by an order of the High Court under section 149J(1) or (2):
+
+(a) the DPA to which the relevant declaration relates;
+
+(b) the relevant declaration;
+
+(c) if any reasons are given by the High Court for its decision to make the relevant declaration, those reasons.
+
+(6) A refusal by the High Court of an application under subsection (1) in respect of a DPA entered into between the Public Prosecutor and a subject in respect of an alleged offence, does not prevent the Public Prosecutor from making another application under that subsection, for a relevant declaration in respect of a different DPA entered into with the same subject in respect of the same alleged offence.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Breach of DPA
+
+149G\.—(1) If the Public Prosecutor believes that the subject that entered into a DPA has failed to comply with the terms of the DPA, the Public Prosecutor may make an application to the High Court under this section.
+
+(2) On an application under subsection (1), the Public Prosecutor must prove, on a balance of probabilities, that the subject that entered into a DPA has failed to comply with the terms of the DPA.
+
+(3) If the High Court is satisfied that the subject that entered into a DPA has failed to comply with the terms of the DPA, the High Court must terminate the DPA.
+
+(4) Where the High Court decides that the subject that entered into a DPA did not fail to comply with the terms of the DPA, the Public Prosecutor must give public notice of the following, unless the Public Prosecutor is prohibited from doing so by or under any written law or by an order of the High Court under section 149J(1) or (2):
+
+(a) the decision of the High Court;
+
+(b) if any reasons are given by the High Court for that decision, those reasons.
+
+(5) Where the High Court terminates a DPA under subsection (3), the Public Prosecutor must give public notice of the following, unless the Public Prosecutor is prohibited from doing so by or under any written law or by an order of the High Court under section 149J(1) or (2):
+
+(a) the fact that the DPA has been terminated by the High Court following a failure by the subject that entered into the DPA to comply with the terms of the DPA;
+
+(b) if any reasons are given by the High Court for its decisions under subsections (2) and (3), those reasons.
+
+(6) Where the High Court terminates a DPA under subsection (3), the subject —
+
+(a) is not entitled to recover any money that the subject had paid, before the termination, pursuant to any requirement imposed by the DPA; and
+
+(b) is not entitled to any relief for any detriment caused to the subject by the subject’s compliance with the terms of the DPA before the termination.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Variation of terms of DPA
+
+149H\.—(1) At any time when a DPA is in force, the Public Prosecutor and the subject that entered into the DPA may agree to vary the terms of the DPA.
+
+(2) When the Public Prosecutor and the subject that entered into a DPA have agreed to vary the terms of the DPA, the Public Prosecutor must apply by criminal motion to the High Court for a declaration (called in this section the relevant declaration) that —
+
+(a) the variation is in the interests of justice; and
+
+(b) the terms of the DPA as varied are fair, reasonable and proportionate.
+
+(3) A variation of the terms of a DPA only takes effect when the High Court approves the variation by making the relevant declaration.
+
+(4) Where the High Court decides to approve the variation, the Public Prosecutor must give public notice of the following, unless the Public Prosecutor is prohibited from doing so by or under any written law or by an order of the High Court under section 149J(1) or (2):
+
+(a) the DPA as varied;
+
+(b) the relevant declaration;
+
+(c) if any reasons are given by the High Court for its decision to make the relevant declaration, those reasons.
+
+(5) Where the High Court decides not to approve the variation, the Public Prosecutor must give public notice of the following, unless the Public Prosecutor is prohibited from doing so by or under any written law or by an order of the High Court under section 149J(1) or (2):
+
+(a) the decision of the High Court;
+
+(b) if any reasons are given by the High Court for that decision, those reasons.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Expiry of DPA
+
+149I\.—(1) If a DPA in respect of an alleged offence remains in force until its expiry date, then after the DPA has expired —
+
+(a) the Public Prosecutor must —
+
+(i) give written notice to the High Court that the Public Prosecutor does not intend to prosecute the subject for the alleged offence; and
+
+(ii) give public notice that the Public Prosecutor has given that written notice to the High Court, unless the Public Prosecutor is prohibited from doing so by or under any written law or by an order of the High Court under section 149J(1) or (2); and
+
+(b) except as provided in subsection (2), the subject cannot be prosecuted for the alleged offence after the Public Prosecutor gives that written notice to the High Court.
+
+(2) Despite subsection (1), the Public Prosecutor may initiate new criminal proceedings against the subject that entered into a DPA in respect of the alleged offence in that DPA, if the Public Prosecutor finds (whether before, on or after the expiry date of the DPA) that during the course of the negotiations for the DPA (including any variation of the terms of the DPA that is approved by the High Court under section 149H) —
+
+(a) the subject provided inaccurate, misleading or incomplete information to the Public Prosecutor; and
+
+(b) the subject knew or ought to have known that the information was inaccurate, misleading or incomplete.
+
+(3) Where —
+
+(a) a DPA is entered into between the Public Prosecutor and a subject in respect of an alleged offence;
+
+(b) the subject is deemed under section 149C(a) to have been granted a discharge not amounting to an acquittal in relation to the alleged offence; and
+
+(c) the DPA remains in force until its expiry date,
+
+after the DPA has expired, the High Court may, on the application of the Public Prosecutor, grant the subject a discharge amounting to an acquittal in relation to the alleged offence.
+
+(4) For the purposes of subsections (1) and (3), a DPA is not to be treated as having expired if an application by the Public Prosecutor under section 149G, about an alleged failure by the subject that entered into the DPA to comply with the terms of the DPA, is pending on the expiry date of the DPA.
+
+(5) In the case mentioned in subsection (4) —
+
+(a) if the High Court decides that the subject did not fail to comply with the terms of the DPA, the DPA is to be treated as expiring when the application under section 149G is decided; or
+
+(b) if the High Court terminates the DPA —
+
+(i) the DPA is to be treated as not having remained in force until its expiry date; and
+
+(ii) therefore, subsections (1) and (3) do not apply.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Publication of information
+
+149J\.—(1) The High Court may postpone the giving of public notice under section 149F(5), 149G(4) or (5), 149H(4) or (5) or 149I(1)(a)(ii) for such period as the High Court considers necessary, if it appears to the High Court that the postponement is necessary to avoid substantial risk of prejudice to the administration of justice in —
+
+(a) any legal proceedings;
+
+(b) any investigation under this Code; or
+
+(c) any criminal investigation under any other written law.
+
+(2) In any proceedings under this Part, the High Court may, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason, to do so, make either or both of the following orders:
+
+(a) an order that any information, which is contained in any court document intended to be produced before the court, be removed or be sufficiently redacted;
+
+(b) an order that no person is to publish any such information, or do any other act that is likely to lead to the publication of any such information.
+
+(3) Any person who does any act in contravention of an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Use of material in criminal proceedings
+
+149K\.—(1) Subsections (2) and (3) apply where a DPA in respect of an alleged offence is approved by the High Court under section 149F.
+
+(2) The statement of facts contained in the DPA is, in any criminal proceedings brought against the subject for the alleged offence, to be treated as an admission by the subject under section 267.
+
+(3) However, the admission mentioned in subsection (2) cannot be withdrawn by the subject under section 267(4).
+
+(4) Subsections (5) and (6) apply where the Public Prosecutor and a subject have entered into negotiations for a DPA in respect of an alleged offence, but the DPA has not been approved by the High Court under section 149F.
+
+(5) The material described in subsection (6) may be used in evidence against the subject only —
+
+(a) on a prosecution for an offence consisting of the provision of inaccurate, misleading or incomplete information; or
+
+(b) on a prosecution for some other offence, if both of the following apply:
+
+(i) in giving evidence, the subject makes a statement that is not consistent with the material;
+
+(ii) evidence relating to the material is adduced, or a question relating to the material is asked, by or on behalf of the subject in the proceedings arising out of the prosecution.
+
+(6) For the purposes of subsection (5), the material is either or both of the following:
+
+(a) material that shows that the subject entered into negotiations for a DPA, including, in particular —
+
+(i) any draft of the DPA;
+
+(ii) any draft of a statement of facts intended to be included within the DPA; and
+
+(iii) any statement indicating that the subject entered into such negotiations;
+
+(b) material that was created solely for the purpose of preparing the DPA or statement of facts.
+
+(7) Any material or information obtained by the Public Prosecutor in the course of negotiations for a DPA or proceedings under this Part (other than the material described in subsection (6)) may, if determined (in accordance with the rules of evidence under written law and any relevant rules of law) to be admissible in evidence, be used against the subject that enters into the DPA or any other person in any criminal proceedings relating to any offence.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Money received by prosecutor under DPA
+
+149L\. Any money received by the Public Prosecutor under any of the following terms of a DPA must be paid into the Consolidated Fund:
+
+(a) a term requiring the subject that enters into the DPA to pay a financial penalty to the Public Prosecutor;
+
+(b) a term requiring the subject that enters into the DPA to disgorge any profits made by the subject from the alleged offence.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Appeals from certain decisions under this Part
+
+149M\.—(1) The following decisions of the High Court under this Part are appealable:
+
+(a) a decision, on an application under section 149F(1), not to approve a DPA;
+
+(b) a decision, on an application under section 149G(1), that the subject that entered into a DPA has failed to comply with the terms of the DPA;
+
+(c) a decision, on an application under section 149G(1), that the subject that entered into a DPA did not fail to comply with the terms of the DPA;
+
+(d) a decision, on an application under section 149H(2), not to approve a variation of the terms of a DPA.
+
+(2) An appeal against a decision mentioned in subsection (1)(a) or (d) may only be made by the Public Prosecutor.
+
+(3) An appeal against a decision mentioned in subsection (1)(b) or (c) may be made by the Public Prosecutor or the subject concerned.
+
+(4) An appeal against a decision mentioned in subsection (1)(a) must be heard and dealt with in camera.
+
+(5) A refusal by the Court of Appeal, on an appeal against a decision mentioned in subsection (1)(a), to approve a DPA entered into between the Public Prosecutor and a subject in respect of an alleged offence, does not prevent the Public Prosecutor from making another application under section 149F(1), for the approval of a different DPA entered into with the same subject in respect of the same alleged offence.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ## PART VIII
 
@@ -3668,13 +4468,47 @@ and the case appears to be one in which, according to the fourth column of the F
 
 ### Absence of accused
 
-156\. If ––
+156\.—(1) The following apply where an accused does not appear at the time and place mentioned in the summons or notice to attend court:
 
-(a) an accused does not appear at the time and place mentioned in the summons or notice to attend court and it appears to the court on oath that the summons or notice was duly served a reasonable time before the time appointed in it for appearing; and
+(a) the court may proceed ex parte to hear and determine the complaint if —
 
-(b) no sufficient ground is shown for an adjournment,
+(i) the court is satisfied on oath that —
 
-the court may either proceed ex parte to hear and determine the complaint or may postpone the hearing to a future day.
+(A) the summons or notice was duly served on the accused at least 7 days (or such shorter period as the court may consider reasonable in a particular case) before the time appointed in the summons or notice for appearing; and
+
+(B) the accused was notified, when the summons or notice was served on the accused, that the court may hear and determine the complaint in the absence of the accused, if the accused fails to appear at the time and place mentioned in the summons or notice; and
+
+(ii) no sufficient ground is shown for an adjournment;
+
+(b) unless the court proceeds ex parte under paragraph (a) to hear and determine the complaint, the court must postpone the hearing to a future day.
+
+(2) Where the court has proceeded ex parte under subsection (1)(a) to hear and determine the complaint, the accused may apply to the court to declare the ex parte proceedings to be void.
+
+(3) The court can and must make a declaration that the ex parte proceedings are void only if the accused proves, on a balance of probabilities, that —
+
+(a) the accused was unaware of both of the following until after the ex parte proceedings began:
+
+(i) the summons or notice to attend court;
+
+(ii) the ex parte proceedings; and
+
+(b) the accused made the application under subsection (2) within 21 days after the date on which the accused first knew of either of the following:
+
+(i) the summons or notice to attend court;
+
+(ii) the ex parte proceedings.
+
+(4) Subsections (2) and (3) do not apply to an accused body corporate, limited liability partnership, partnership or unincorporated association that —
+
+(a) does not appear at the time and place mentioned in the summons or notice to attend court; or
+
+(b) fails to comply with the legal formalities relating to the appointment of a representative who purports to appear for the accused body corporate, limited liability partnership, partnership or unincorporated association at the time and place mentioned in the summons or notice to attend court.
+
+(5) The accused is not discharged by a declaration made under subsection (3).
+
+(6) Subsections (2) and (3) do not affect any right to appeal against any decision made by the court in the ex parte proceedings.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ## PART IX
 
@@ -5099,9 +5933,31 @@ where an accused’s statement under section 22 or 23 is in writing, when sectio
 
 (4) If the statement referred to in subsection (3) is made after the impression caused by any such inducement, threat or promise referred to in that subsection has, in the opinion of the court, been fully removed, it shall be admissible.
 
-(5) When more persons than one are being tried jointly for the same offence, and a confession made by one of such persons affecting himself and some other of such persons is proved, the court may take into consideration the confession as against the other person as well as against the person who makes the confession.
+(4A) For the purposes of subsection (3), the making of a statement by an accused is not to be regarded as caused by any inducement, threat or promise merely because a person in authority had earlier informed the accused that the accused was required or legally bound to give information under section 27 of the Prevention of Corruption Act (Cap. 241), if that person believed in good faith, when so informing the accused, that —
 
-Explanation— “Offence” as used in this section includes the abetment of or attempt to commit the offence.
+(a) the accused was concerned in an offence under that Act; or
+
+(b) a reasonable complaint has been made, or credible information has been received, or a reasonable suspicion exists, that the accused was concerned in an offence under that Act.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(5) When 2 or more persons are tried jointly in any of the following circumstances, and a confession made by one such person affecting that person and any other such person is proved, the court may take into consideration the confession as against the other person as well as against the person who made the confession:
+
+(a) all of those persons are tried jointly for the same offence;
+
+(b) the proof of the facts alleged in the charge for the offence for which one of those persons (A) is tried (excluding any fact relating to any intent or state of mind on the part ofAnecessary to constitute the offence for whichAis tried) would, for each of the rest of those persons, result in the proof of the facts alleged in the charge for the offence for which that person is tried (excluding any fact relating to any intent or state of mind on the part of that person necessary to constitute the offence for which that person is tried);
+
+(c) at least one of those persons is tried for an offence under section 411, 412, 413 or 414 of the Penal Code (Cap. 224) in respect of any property, and the rest of those persons are tried for one or more of the offences of theft, extortion, robbery, criminal misappropriation, criminal breach of trust or cheating under Chapter XVII of the Penal Code in respect of the same property.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(5A) Despite subsection (5), the court may refuse to take into consideration a confession as against a person (other than the maker of the confession), if the prejudicial effect of the confession on that person outweighs the probative value of the confession.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(5B) In subsection (5), “offence” includes an abetment of, a conspiracy to commit, or an attempt to commit, the offence.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 Illustrations
 
@@ -5113,6 +5969,12 @@ AandBare jointly tried for the murder ofC. It is proved thatAsaid “Band I murd
 
 Ais on trial for the murder ofC. There is evidence to show thatCwas murdered byAandBand thatBsaid “Aand I murderedC”. This statement may not be taken into consideration by the court againstAasBis not being jointly tried.
 
+(c)
+
+Ais charged with an offence of corruptly giving a gratification toBunder section 5(b) of the Prevention of Corruption Act (Cap. 241).Bis charged with an offence of corruptly receiving the same gratification fromAunder section 5(a) of the Prevention of Corruption Act.AandBare jointly tried for those offences. If a confession made byAaffecting bothAandBis proved, and the same facts are alleged in the charges againstAandB, the court may take into consideration the confession as againstB, even thoughAandBare charged with offences that have different elements.
+
+[Act 19 of 2018 wef 31/10/2018]
+
 (6) Notwithstanding any other provision in this section —
 
 (a) where a person is charged with any offence in relation to the making or contents of any statement made by him to any officer of a law enforcement agency in the course of any investigation carried out by the agency, that statement may be used as evidence in the prosecution;
@@ -5122,6 +5984,34 @@ Ais on trial for the murder ofC. There is evidence to show thatCwas murdered byA
 (c) when any fact or thing is discovered in consequence of information received from a person accused of any offence in the custody of any officer of a law enforcement agency, so much of such information as relates distinctly to the fact or thing thereby discovered may be proved.
 
 (7) In this section, “confession”, in relation to any person who is tried for an offence, means any statement made at any time by him stating or suggesting the inference that he committed that offence.
+
+### Admissibility of Case for the Defence
+
+258A\.—(1) Where any person is charged with an offence, the Case for the Defence filed under section 163(1) or 215(1) by or on behalf of that person —
+
+(a) is admissible in evidence at that person’s trial (including during the presentation of the prosecutor’s statement under section 230(1)(d)); and
+
+(b) if that person tenders himself as a witness, may be used in cross-examination and for the purpose of impeaching that person’s credit.
+
+(2) When 2 or more persons are tried jointly in any of the following circumstances, and the Case for the Defence filed under section 163(1) or 215(1) by or on behalf of any such person affects that person and any other such person, the court may take into consideration that Case for the Defence as against the other person as well as against the person by or on behalf of whom that Case for the Defence was filed:
+
+(a) all of those persons are tried jointly for the same offence;
+
+(b) the proof of the facts alleged in the charge for the offence for which one of those persons (A) is tried (excluding any fact relating to any intent or state of mind on the part ofAnecessary to constitute the offence for whichAis tried) would, for each of the rest of those persons, result in the proof of the facts alleged in the charge for the offence for which that person is tried (excluding any fact relating to any intent or state of mind on the part of that person necessary to constitute the offence for which that person is tried);
+
+(c) at least one of those persons is tried for an offence under section 411, 412, 413 or 414 of the Penal Code (Cap. 224) in respect of any property, and the rest of those persons are tried for one or more of the offences of theft, extortion, robbery, criminal misappropriation, criminal breach of trust or cheating under Chapter XVII of the Penal Code in respect of the same property.
+
+(3) Despite subsection (2), the court may refuse to take into consideration a Case for the Defence as against a person (other than the person by or on behalf of whom that Case for the Defence was filed), if the prejudicial effect of that Case for the Defence on that person outweighs the probative value of that Case for the Defence.
+
+(4) In subsection (2), “offence” includes an abetment of, a conspiracy to commit, or an attempt to commit, the offence.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Reference to certain documents in Case for the Prosecution
+
+258B\. Where any person is charged with an offence, any document mentioned in section 162(a), (b), (c) or (d) or 214(a), (b) or (c), which is contained in the Case for the Prosecution filed under section 161(2) or 213(1) for the purposes of the trial of that person, may be referred to during that trial as if that document is part of the prosecutor’s statement under section 230(1)(d).
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Witness’s statement inadmissible except in certain circumstances
 
@@ -5486,7 +6376,9 @@ Special provisions relating to
 
 
 
-recording of evidence
+recording or giving of evidence
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Power of Magistrate to record statements
 
@@ -5528,25 +6420,45 @@ Magistrate”.
 
 (a) an offence that involves an assault on or injury or a threat of injury to persons, including an offence under sections 319 to 338 of the Penal Code (Cap. 224);
 
-(b) an offence under Part II of the Children and Young Persons Act (Cap. 38) (relating to protection of children and young persons);
+(b) a child abuse offence;
 
-(c) an offence under sections 354 to 358 and sections 375 to 377B of the Penal Code;
+[Act 19 of 2018 wef 31/10/2018]
+
+(c) an offence under section 24(2) of the Children and Young Persons Act (Cap. 38);
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (ca) an offence punishable under the Organised Crime Act 2015;
 
 [Act 26 of 2015 wef 01/06/2016]
 
-(d) an offence under Part XI of the Women’s Charter (Cap. 353) (relating to offences against women and girls); and
+(d) a sexual offence;
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(da) an offence under section 169(3) of the Women’s Charter (Cap. 353); and
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (e) any other offence that the Minister may, after consulting the Chief Justice, prescribe.
 
-(3) Notwithstanding any provision of this Code or of any other written law, the court may order an accused to appear before it through a live video or live television link while in remand in Singapore in proceedings for any of the following matters:
+(2A) Where a psychiatrist or psychologist has prepared a report on how a witness may be affected if the witness is required to give evidence in the presence of the accused, and that report is placed before the court, the court must consider that report before deciding whether to allow under subsection (1) the evidence of the witness to be given through a live video or live television link.
 
-(a) an application for bail or release on personal bond at any time after an accused is first produced before a Magistrate pursuant to Article 9(4) of the Constitution;
+[Act 19 of 2018 wef 31/10/2018]
 
-(b) an extension of the remand of an accused under section 238; and
+(3) Despite any provision of this Code or of any other written law, unless the court directs otherwise, while an accused is in remand in Singapore, the accused is to appear before the court through a live video or live television link in any of the following proceedings:
 
-(c) any other matters that the Minister may, after consulting the Chief Justice, prescribe.
+(a) proceedings for an application for bail or release on personal bond at any time after the accused is first produced before a Magistrate pursuant to Article 9(4) of the Constitution;
+
+(b) proceedings for an extension of the remand of the accused under section 238;
+
+(c) proceedings for a State Court to record a plea of guilty from the accused, and to convict the accused;
+
+(d) proceedings in a State Court for the sentencing of the accused, after the conviction of the accused in earlier proceedings;
+
+(e) any other proceedings that the Minister may prescribe by regulations under this section, after consulting the Chief Justice.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (4) Notwithstanding any provision of this Code or of any other written law but subject to subsection (5), an accused who is not a juvenile may appear before the court through a live video or live television link while in remand in Singapore in proceedings for an application for remand or for bail or for release on personal bond when he is first produced before a Magistrate pursuant to Article 9(4) of the Constitution.
 
@@ -5593,6 +6505,58 @@ Magistrate”.
 (12) In subsections (6), (10) and (11), a reference to “witness” includes a reference to an accused who appears before a court through a live video or live television link under subsection (3) or (4).
 
 (13) The Chief Justice may make such rules as appear to him to be necessary or expedient to give effect to this section and for prescribing anything that may be prescribed under this section.
+
+### Measures to prevent witness from seeing accused
+
+281A\.—(1) Despite any provision of this Code or any other written law, but subject to this section, the court may make an order allowing a witness to give evidence while prevented by a shielding measure from seeing the accused, if —
+
+(a) the witness is below 16 years of age;
+
+(b) the witness is the alleged victim of a sexual offence or child abuse offence that the accused is charged with; or
+
+(c) the court is satisfied that —
+
+(i) either or both of the following apply:
+
+(A) the witness is afraid of the accused, or of giving evidence in the presence of the accused;
+
+(B) the witness will be distressed if the witness is required to give evidence in the presence of the accused; and
+
+(ii) the reliability of the witness’ evidence will be diminished by such fear or distress (as the case may be).
+
+(2) The shielding measure must not prevent the witness from being able to see, and to be seen by, any of the following:
+
+(a) the court;
+
+(b) the prosecutor;
+
+(c) any advocate representing the accused;
+
+(d) any interpreter or other person appointed to assist the witness.
+
+(3) An order under subsection (1) does not cease to apply merely because the witness in respect of whom the order was made reaches 16 years of age before the proceedings in which the order was made are finally concluded.
+
+(4) If a witness gives evidence in accordance with this section, for the purposes of this Code and the Evidence Act (Cap. 97), the witness is regarded as giving evidence in the presence of the accused.
+
+(5) In this section, “shielding measure” means a screen or any other arrangement in a courtroom that prevents a witness from seeing the accused.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Evidence to be given in camera in certain cases
+
+281B\.—(1) Despite any provision of any other written law but subject to subsection (2), in any case where the accused is charged with a sexual offence or child abuse offence, the court must order that the evidence of a witness be given in camera, if —
+
+(a) the witness is the alleged victim of that offence; and
+
+(b) the witness does not elect to give evidence in an open and public court to which the public generally may have access.
+
+(2) Subsection (1) does not apply to a matter or proceeding if —
+
+(a) any other written law requires the matter or proceeding to be heard in camera; or
+
+(b) the court has ordered, under any other written law, that the matter or proceeding be heard in camera.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 Division 5 —
 
@@ -5856,7 +6820,9 @@ Sentences in general
 
 (b) is convicted at one trial before the High Court or a District Court of 3 or more distinct offences punishable with imprisonment for 2 years or more, and has been convicted and sentenced in Singapore or elsewhere to imprisonment for at least one month since he reached the age of 16 years for an offence punishable with imprisonment for 2 years or more,
 
-then, if the court is satisfied that it is expedient with a view to his reformation and the prevention of crime that he should receive training of a corrective character for a substantial period of time, followed by a period of supervision if released before the expiration of his sentence, the court, unless it has special reasons for not doing so, shall sentence him to corrective training for a period of 5 to 14 years in lieu of any sentence of imprisonment.
+then, if the court is satisfied that it is expedient with a view to his reformation and the prevention of crime that he should receive training of a corrective character for a substantial period of time, followed by a period of supervision if released before the expiration of his sentence, the court, unless it has special reasons for not doing so, shall sentence him to corrective training for a period of 5 to 14 years in lieu of any sentence of imprisonment, or any sentence of imprisonment and fine.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Where a person of the age of 30 years or above —
 
@@ -5864,7 +6830,9 @@ then, if the court is satisfied that it is expedient with a view to his reformat
 
 (b) is convicted at one trial before the High Court or a District Court of 3 or more distinct offences punishable with imprisonment for 2 years or more, and has been convicted and sentenced in Singapore or elsewhere to imprisonment for at least one month since he reached the age of 16 years for an offence punishable with imprisonment for 2 years or more,
 
-then, if the court is satisfied that it is expedient for the protection of the public that he should be detained in custody for a substantial period of time, followed by a period of supervision if released before the expiration of his sentence, the court, unless it has special reasons for not doing so, shall sentence him to preventive detention for a period of 7 to 20 years in lieu of any sentence of imprisonment.
+then, if the court is satisfied that it is expedient for the protection of the public that he should be detained in custody for a substantial period of time, followed by a period of supervision if released before the expiration of his sentence, the court, unless it has special reasons for not doing so, shall sentence him to preventive detention for a period of 7 to 20 years in lieu of any sentence of imprisonment, or any sentence of imprisonment and fine.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (3) Before sentencing any offender to corrective training or preventive detention, the court must call for and consider any report submitted by the Commissioner of Prisons, or any person authorised by the Commissioner of Prisons to submit the report on his behalf, on the offender’s physical and mental condition and his suitability for such a sentence; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
 
@@ -5898,15 +6866,49 @@ the court may impose a sentence of reformative training in lieu of any other sen
 
 [Act 27 of 2014 wef 01/10/2014]
 
-(3) Before imposing any sentence of reformative training, the court must call for and consider any report submitted by the Commissioner of Prisons, or any person authorised by the Commissioner of Prisons to submit the report on his behalf, on the offender’s physical and mental condition and his suitability for the sentence; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
+(3) Before imposing any sentence of reformative training, the court must call for and consider any report submitted by the Commissioner of Prisons, or any person authorised by the Commissioner of Prisons to submit the report on his behalf, on the offender’s physical and mental condition, the offender’s suitability for the sentence, and the nature of the rehabilitation that is recommended for the offender; and if the court has not received such a report, it must remand the offender in custody for a period or periods, not exceeding one month in the case of any single period, to enable the report to be submitted.
 
 [Act 1 of 2014 wef 01/07/2014]
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (4) The court must give a copy of any report submitted by the Commissioner of Prisons to the offender or his advocate and to the Public Prosecutor.
 
 [Act 1 of 2014 wef 01/07/2014]
 
 (5) A person sentenced to reformative training must be detained in accordance with the regulations made under section 428.
+
+(6) A sentence of reformative training must specify, as the minimum period of detention, such of the following periods as the court may determine to be the most appropriate for the rehabilitation of the offender:
+
+(a) 6 months beginning on the date the sentence takes effect;
+
+(b) 12 months beginning on the date the sentence takes effect.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(7) A sentence of reformative training (including any period of supervision under the sentence) must not extend beyond 54 months after the date the sentence takes effect.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(8) The period of detention under a sentence of reformative training must not extend beyond —
+
+(a) 54 months after the date the sentence takes effect, in any case that may be prescribed; or
+
+(b) 36 months after the date the sentence takes effect, in any other case.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(9) A sentence of reformative training (including any period of supervision under the sentence) that is imposed on a person expires if, while the person is serving the sentence —
+
+(a) a sentence of corrective training, or another sentence of reformative training, is imposed on the person; or
+
+(b) the person is detained under an order made under section 30(1) of the Criminal Law (Temporary Provisions) Act (Cap. 67).
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(10) Where a person, while serving a sentence of reformative training (including any period of supervision under the sentence), is sentenced to imprisonment, the sentence of reformative training does not expire, but runs concurrently with the sentence of imprisonment.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Sentence in case of conviction for several offences at one trial
 
@@ -6002,9 +7004,11 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 [Act 1 of 2014 wef 01/07/2014]
 
-(c) the trial Judge who tried the accused must, within a reasonable time after sentence has been pronounced, prepare a copy of the notes of evidence taken at the trial and a report in writing signed by him stating whether, in his opinion, there is any reason (and, if so, particulars of the reason) why the death sentence should be carried out;
+(c) the trial Judge who tried the accused must, within a reasonable time after sentence has been pronounced, prepare a copy of the notes of evidence taken at the trial and a report in writing signed by him stating whether, in his opinion, there is any reason (and, if so, particulars of the reason) why the death sentence should not be carried out;
 
 [Act 33 of 2012 wef 01/01/2013]
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (d) the trial Judge must forward to the Court of Appeal the notes of evidence and report referred to in paragraph (c), within a reasonable time after being notified by the Registrar of the Supreme Court that a notice of appeal has been given or petition for confirmation has been lodged, as the case may be;
 
@@ -6084,7 +7088,37 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 ### Date that sentence begins
 
-318\. Subject to this Code and any other written law, a sentence of imprisonment shall take effect from the date it was passed, unless the court passing the sentence or, when there has been an appeal, the appellate court, otherwise directs.
+318\.—(1) Subject to this Code and any other written law, a sentence of imprisonment, reformative training, corrective training or preventive detention shall take effect from the date it was passed, unless the court passing the sentence or, when there has been an appeal, the appellate court, otherwise directs.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(2) To avoid doubt, where a court has directed under subsection (1) that a sentence of imprisonment, reformative training, corrective training or preventive detention is to take effect on a date later than the date the sentence was passed —
+
+(a) the court may under that subsection further direct that the sentence is to take effect on another date; and
+
+(b) the court may release the offender, during the period before the sentence is to take effect, on bail or on the offender’s personal bond.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(3) To avoid doubt, a court may under subsection (1) direct that a sentence of imprisonment, reformative training, corrective training or preventive detention is to take effect on a date earlier than the date the sentence is passed.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(4) Where an offender has been remanded in custody, or remanded in a psychiatric institution (whether for observation or otherwise) under Division 5 of Part XIII, for an offence, a court must consider directing that a sentence of imprisonment, reformative training, corrective training or preventive detention, which is to be imposed for that offence, is to take effect on a date earlier than the date the sentence is passed.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(5) Before directing the date on which a sentence of imprisonment, reformative training, corrective training or preventive detention, which is to be imposed for an offence, is to take effect, a court must consider all the circumstances of the case, including the following matters:
+
+(a) the date on which the offender was arrested for the offence;
+
+(b) the length of the period (if any) during which the offender was remanded in custody in relation to the offence;
+
+(c) the length of the period (if any) during which the offender was remanded in a psychiatric institution (whether for observation or otherwise) under Division 5 of Part XIII in relation to the offence;
+
+(d) the length of the period (if any), after the offender was arrested for the offence, during which the offender was not in custody.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Provisions as to sentence of fine
 
@@ -6329,37 +7363,115 @@ COMMUNITY SENTENCES
 
 (a) an offence for which the sentence is fixed by law;
 
-(b) an offence for which a specified minimum sentence or mandatory minimum sentence of imprisonment or fine or caning is prescribed by law;
+(b) an offence for which any of the following is prescribed by law:
+
+(i) a specified minimum sentence of imprisonment or caning;
+
+(ii) a mandatory minimum sentence of imprisonment, fine or caning;
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (c) an offence which is specified in the Third Schedule to the Registration of Criminals Act (Cap. 268);
 
-(d) a person who had previously been sentenced to a term of imprisonment, other than a term of imprisonment served by him in default of payment of a fine;
+(d) a person who had previously been sentenced to a term of imprisonment exceeding 3 months, other than a term of imprisonment served by him in default of payment of a fine;
 
-(e) a person who had previously been sentenced to reformative training, corrective training or preventive detention;
+[Act 19 of 2018 wef 31/10/2018]
+
+(e) a person who had previously been sentenced to corrective training or preventive detention;
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (f) a person who had previously been detained or subject to police supervision under section 30 of the Criminal Law (Temporary Provisions) Act (Cap. 67);
 
-(g) a person who had previously been admitted to an approved institution under section 34 of the Misuse of Drugs Act (Cap. 185) or to an approved centre under section 17 of the Intoxicating Substances Act (Cap. 146A);
+(g) a person who has been admitted —
 
-(h) an offence which is punishable with a fine only; or
+(i) at least twice to an approved institution under section 34 of the Misuse of Drugs Act (Cap. 185) (called in this section an approved institution);
+
+(ii) at least twice to an approved centre under section 17 of the Intoxicating Substances Act (Cap. 146A) (called in this section an approved centre); or
+
+(iii) at least once to an approved institution, and at least once to an approved centre;
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(ga) an offence under the Misuse of Drugs Act, the Misuse of Drugs Regulations (Cap. 185, Rg 1) or the Intoxicating Substances Act, if the offender had previously been admitted to an approved institution or an approved centre;
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(h) a fine-only offence; or
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (i) an offence which is punishable with a term of imprisonment which exceeds 3 years.
 
 (2) A court may not make a mandatory treatment order in respect of any case referred to in subsection (1) except that it may do so under section 339 even if the offender —
 
-(a) had previously been sentenced to a term of imprisonment, whether or not it is a term of imprisonment served by him in default of payment of a fine; or
+(a) is a person mentioned in subsection (1)(d) or (g);
 
-(b) had previously been admitted to an approved institution under section 34 of the Misuse of Drugs Act or to an approved centre under section 17 of the Intoxicating Substances Act.
+[Act 19 of 2018 wef 31/10/2018]
+
+(b) is convicted of an offence under the Misuse of Drugs Act, the Misuse of Drugs Regulations or the Intoxicating Substances Act, after having previously been admitted to an approved institution or an approved centre; or
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(c) is convicted of an offence that is punishable with imprisonment for a term exceeding 3 years but not exceeding 7 years, and is prescribed.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (3) A court may not make a community work order in respect of any case referred to in subsection (1) except that it may do so under section 344 even if the offender is convicted of ––
 
-(a) an offence which is punishable with a fine only; or
+(a) a fine-only offence; or
 
-(b) an offence for which a specified minimum sentence of fine or a mandatory minimum sentence of fine is prescribed by law.
+[Act 19 of 2018 wef 31/10/2018]
+
+(b) an offence for which a mandatory minimum sentence of fine is prescribed by law.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (4) If an offender convicted of 2 or more offences is sentenced at the same court proceeding for those offences, a court shall not pass a community sentence if any of those offences relate to an offence in respect of which the powers to make community orders conferred by this Part cannot be exercised by the court.
 
 (5) Subject to section 344(11)(b), a community sentence passed by a court in respect of any offence shall be in lieu of any sentence of imprisonment, caning and fine which the court may impose for that offence.
+
+(6) Despite subsection (5), before a court passes a community sentence in respect of any offence, the court may —
+
+(a) impose on the offender any sentence of imprisonment that is provided for that offence; and
+
+(b) suspend, for the period when any community order made in respect of that offence is in force, the sentence of imprisonment that is imposed for that offence.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(7) Where the court sentences an offender under subsection (6)(a) to imprisonment for at least 3 distinct offences, the court must, in accordance with section 307(1), order the sentences for at least 2 of those offences to run consecutively, before the court —
+
+(a) passes a community sentence in respect of all of those offences; and
+
+(b) suspends under subsection (6)(b) all of those sentences of imprisonment.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(8) Subject to subsection (7), where the court sentences an offender under subsection (6)(a) to imprisonment for 2 or more distinct offences, the court may, in accordance with section 306, direct the sentences for those offences to run consecutively or concurrently, before the court —
+
+(a) passes a community sentence in respect of all of those offences; and
+
+(b) suspends under subsection (6)(b) all of those sentences of imprisonment.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(9) Where a sentence of imprisonment imposed on an offender for an offence is suspended under subsection (6)(b) for the period when a community order made in respect of that offence is in force, the court must lift the suspension and direct that the sentence of imprisonment be carried out, if that community order is revoked under section 352(5)(c) or 354(6)(a) or (7)(a).
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(10) Despite section 377(2), where —
+
+(a) a court directs under subsection (9) that a sentence of imprisonment, which was suspended under subsection (6)(b), be carried out; and
+
+(b) no notice of appeal was lodged by any party against the sentence of imprisonment when the sentence was imposed under subsection (6)(a),
+
+a party who is not satisfied with the sentence of imprisonment may lodge with the Registrar of the Supreme Court (if the sentence was imposed by the High Court) or the Registrar of the State Courts (if the sentence was imposed by a State Court) a notice of appeal against the sentence of imprisonment within 14 days after the date of the court’s direction under subsection (9).
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(11) Except as provided in subsection (10), Division 1 of Part XX applies to an appeal commenced under that subsection as if the notice of appeal had been lodged in accordance with section 377(2).
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Combination of community orders
 
@@ -6367,7 +7479,13 @@ COMMUNITY SENTENCES
 
 ### Mandatory treatment orders
 
-339\.—(1) Subject to subsections (2), (3) and (4), where an offender is convicted of an offence, and if the court by or before which he is convicted is satisfied that having regard to the circumstances, including the nature of the offence and the character of the offender, it is expedient to do so, the court may make a mandatory treatment order requiring the offender to undergo psychiatric treatment for a period not exceeding 24 months.
+339\.—(1) Subject to subsections (2), (3) and (4), where an offender is convicted of an offence, and if the court by or before which he is convicted is satisfied that having regard to the circumstances, including the nature of the offence and the character of the offender, it is expedient to do so, the court may make a mandatory treatment order requiring the offender to undergo psychiatric treatment for a period not exceeding 36 months.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(1A) A mandatory treatment order may also require an offender to reside in a psychiatric institution during the whole or a specified part of the period that the offender is required to undergo psychiatric treatment.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Before making a mandatory treatment order, the court must call for a report to be submitted by an appointed psychiatrist.
 
@@ -6380,6 +7498,10 @@ COMMUNITY SENTENCES
 (c) the psychiatric condition of the offender is one of the contributing factors for his committing the offence.
 
 (4) A court must not make a mandatory treatment order in respect of an offender if the report submitted by the appointed psychiatrist states that he is not satisfied with any of the matters referred to in subsection (3)(a) to (c).
+
+(4A) A court may include the requirement mentioned in subsection (1A) in a mandatory treatment order only upon the recommendation of the appointed psychiatrist.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (5) In assessing whether an offender is a person suitable for treatment for his psychiatric condition, the appointed psychiatrist may take into account the following factors:
 
@@ -6671,17 +7793,25 @@ the offender shall serve the sentence under the community work order, unless it 
 
 (4) Where an offender served with a summons issued under subsection (3)(a) fails to attend before the court, the court may issue a warrant for the arrest of the offender.
 
-(5) Subject to subsection (7), if it is proved to the satisfaction of a court that an offender in respect of whom a mandatory treatment order, day reporting order, community work order or community service order is in force is in breach of the order, the court may —
+(5) Subject to subsection (7), if it is proved to the satisfaction of a court that an offender in respect of whom a mandatory treatment order, day reporting order, community work order or community service order is in force is in breach of the order —
 
-(a) without prejudice to the continuance of the order —
+(a) the court may, without prejudice to the continuance of the order —
 
 (i) issue a warning to the offender;
 
 (ii) vary the order (including reducing or extending the period that the offender has to undergo psychiatric treatment, report to a day reporting officer or perform community work or community service) or the conditions or obligations thereof in such manner as the court thinks just and expedient in the circumstances; or
 
-(iii) impose on him a fine not exceeding $1,000; or
+(iii) impose on him a fine not exceeding $1,000;
 
-(b) taking into account the extent to which the offender has complied with the order, revoke the order and impose such sentence which is provided for the offence or offences in respect of which the order has been made.
+[Act 19 of 2018 wef 31/10/2018]
+
+(b) subject to paragraph (c), the court may, taking into account the extent to which the offender has complied with the order, revoke the order and impose such sentence which is provided for the offence or offences in respect of which the order has been made; or
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(c) where the order was made in respect of an offence after the court had imposed and suspended under section 337(6) a sentence of imprisonment for that offence, the court must revoke the order.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (6) Where an offender is in breach of a short detention order, a court may, on the application of the Commissioner of Prisons or any person authorised by the Commissioner of Prisons, revoke the order and, taking into account the period the offender has been detained under that order, impose such sentence which is provided for the offence or offences in respect of which the order has been made.
 
@@ -6691,7 +7821,9 @@ the offender shall serve the sentence under the community work order, unless it 
 
 (8) Sections 317 and 318 shall apply to an order made under subsection (7) as if the order were a sentence of imprisonment passed by the court.
 
-(9) Where a court varies a mandatory treatment order under subsection (5)(a)(ii) by extending the period the offender has to undergo psychiatric treatment under the order, the period so extended shall not exceed 24 months from the date the order is first in force.
+(9) Where a court varies a mandatory treatment order under subsection (5)(a)(ii) by extending the period the offender has to undergo psychiatric treatment under the order, the period so extended shall not exceed 36 months from the date the order is first in force.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (10) Where a court varies a day reporting order under subsection (5)(a)(ii) by extending the period the offender has to report to a day reporting officer under the order, the period so extended shall not exceed 12 months from the date the order is first in force.
 
@@ -6747,19 +7879,35 @@ the court shall sentence him to any punishment which is prescribed for that offe
 
 (4) A summons or warrant issued under this section shall direct the offender so convicted to appear or be brought before the court which made the community order.
 
-(5) If an offender in respect of whom a community order has been made by the High Court or District Court is convicted and dealt with by any Magistrate’s Court in respect of any offence or offences committed during the period when the community order is in force in respect of the offender, the Magistrate’s Court may commit him to custody or release him on bail (with or without sureties) until he can be brought or appears before the court by which the community order has been made; and if he does so the Magistrate’s Court shall send to the High Court or the District Court, as the case may be, a copy of the minute or memorandum of the conviction entered in the register, signed by the Magistrate.
+(5) If an offender in respect of whom a community order has been made by the High Court or District Court is convicted and dealt with by any Magistrate’s Court in respect of any offence or offences committed during the period when the community order is in force in respect of the offender, the Magistrate’s Court may commit him to custody or release him on bail or personal bond until he can be brought or appears before the court by which the community order has been made; and if he does so the Magistrate’s Court shall send to the High Court or the District Court, as the case may be, a copy of the minute or memorandum of the conviction entered in the register, signed by the Magistrate.
 
-(6) Where it is proved to the satisfaction of the court by which a community order has been made that the offender in respect of whom the community order has been made has been convicted and dealt with in respect of an offence or offences committed during the period when the community order is in force in respect of the offender, that court may, taking into account the extent to which the offender has complied with the order, revoke the order made and impose such sentence which is prescribed for the offence or offences in respect of which the order has been made.
+[Act 19 of 2018 wef 31/10/2018]
 
-(7) If an offender in respect of whom a community order has been made by a Magistrate’s Court is convicted before the High Court or a District Court or another Magistrate’s Court of an offence committed during the period when the community order is in force in respect of the offender, the High Court or the District Court or such other Magistrate’s Court (as the case may be) may, taking into account the extent to which the offender has complied with the order, revoke the order made and impose such sentence which is prescribed for the offence or offences in respect of which the order has been made.
+(6) Where a community order has been made by a court in respect of an offender, and it is proved to the satisfaction of the court that the offender has been convicted and dealt with in respect of any offence committed during the period when the community order is in force, the court —
+
+(a) in any case where the community order was made in respect of an offence after the court had imposed and suspended under section 337(6) a sentence of imprisonment for that offence — must revoke the community order; or
+
+(b) in any other case — may, taking into account the extent to which the offender has complied with the community order, revoke the community order and impose any sentence that is prescribed for the offence in respect of which the community order has been made.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(7) If a Magistrate’s Court has made a community order in respect of an offender, and the offender is convicted before the High Court, a District Court or any other Magistrate’s Court of an offence committed during the period when the community order is in force, the High Court, District Court or other Magistrate’s Court (as the case may be) —
+
+(a) in any case where the community order was made in respect of an offence after the firstmentioned Magistrate’s Court had imposed and suspended under section 337(6) a sentence of imprisonment for that offence — must revoke the community order; or
+
+(b) in any other case — may, taking into account the extent to which the offender has complied with the community order, revoke the community order and impose any sentence that is prescribed for the offence in respect of which the community order has been made.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ## PART XVIII
 
 COMPENSATION AND COSTS
 
-### Order for payment of costs of prosecution against accused and order for payment of costs incurred by accused in his defence
+### Order for payment of costs by accused and order for payment of costs incurred by accused in his defence
 
-355\.—(1) The court before which a person is convicted of an offence may, in its discretion and if satisfied that the defence of the person was conducted in an extravagant and unnecessary manner, order that person to pay a sum to be fixed by the court by way of costs of his prosecution.
+355\.—(1) The court before which a person is convicted of an offence may, in its discretion and if satisfied that the defence of the person was conducted in an extravagant and unnecessary manner, make an order for costs, of an amount fixed by the court, to be paid by the person to any other party to the proceedings in which the person is convicted of the offence.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) If an accused is acquitted of any charge for any offence, and if it is proved to the satisfaction of the court that the prosecution was frivolous or vexatious, the court may order the prosecution or the complainant or the person on whose information the prosecution was instituted to pay full costs, charges and expenses incurred by the accused in and for his defence, to be taxed by the Registrar of the Supreme Court or the Registrar of the State Courts, as the case may be.
 
@@ -6767,21 +7915,45 @@ COMPENSATION AND COSTS
 
 (3) The court may direct that either an order for payment of costs under subsection (1) or an order for payment of compensation under section 359(1) be paid in priority to the other, and if no direction is given, the order for payment of costs takes priority over the order for payment of compensation.
 
+[Act 19 of 2018 wef 31/10/2018]
+
 ### Costs ordered by Court of Appeal or High Court
 
-356\.—(1) The Court of Appeal or the High Court in the exercise of its powers under Part XX may award costs to be paid by or to the parties as it thinks fit.
+356\.—(1) The Court of Appeal or the High Court, in the exercise of its powers under Part XX, may —
+
+(a) on its own motion, make an order for costs to be paid by any party to any other party as the Court thinks fit; or
+
+(b) on the application of any party, make an order for costs, of such amount as the Court thinks fit, to be paid to that party by any other party.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Where the Court of Appeal or the High Court makes any order for costs to be paid by the prosecution to an accused, the Court must be satisfied that the conduct of the matter under Part XX by the prosecution was frivolous or vexatious.
 
-(3) Where the Court of Appeal or the High Court makes any order for costs to be paid by an accused to the prosecution, the Court must be satisfied that the conduct of the matter under Part XX by the accused was done in an extravagant and unnecessary manner.
+(3) Before the Court of Appeal or the High Court makes any order for costs to be paid by an accused to the prosecution, the Court must be satisfied that —
+
+(a) the commencement, continuation or conduct of the matter under Part XX by the accused was an abuse of the process of the Court; or
+
+(b) the conduct of the matter under Part XX by the accused was done in an extravagant and unnecessary manner.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(4) If the prosecution applies to the Court of Appeal or the High Court for an order for the costs of any matter under Division 1B of Part XX to be paid by an accused to the prosecution on the ground that the commencement, continuation or conduct of that matter by the accused was an abuse of the process of the Court, the Court must state whether it is satisfied that the commencement, continuation or conduct of that matter by the accused was an abuse of the process of the Court.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Costs against defence counsel
 
-357\.—(1) Where it appears to a court that costs have been incurred unreasonably or improperly in any proceedings or have been wasted by a failure to conduct proceedings with reasonable competence and expedition, the court may make against any advocate whom it considers responsible (whether personally or through an employee or agent) an order —
+357\.—(1) Where it appears to a court that costs have been incurred unreasonably or improperly in any proceedings (for example, by commencing, continuing or conducting a matter the commencement, continuation or conduct of which is an abuse of the process of the Court) or have been wasted by a failure to conduct proceedings with reasonable competence and expedition, the court may make against any advocate whom it considers responsible (whether personally or through an employee or agent) an order —
 
 (a) disallowing the costs as between the advocate and his client; or
 
 (b) directing the advocate to repay to his client costs which the client has been ordered to pay to any person.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(1A) If the Court of Appeal or the High Court makes an order under subsection (1)(a) or (b) in respect of any proceedings for a matter under Division 1B of Part XX, and the prosecution has applied to the Court for an order for the costs of that matter to be paid to the prosecution on the ground that the commencement, continuation or conduct of that matter was an abuse of the process of the Court, the Court must state whether it is satisfied that the commencement, continuation or conduct of that matter was an abuse of the process of the Court.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) No order under this section shall be made against an advocate unless he has been given a reasonable opportunity to appear before the court and show cause why the order should not be made.
 
@@ -6867,7 +8039,9 @@ COMPENSATION AND COSTS
 
 ### Court may order payment of expenses of witnesses
 
-363\. A court holding any inquiry or trial under this Code which is conducted by the Public Prosecutor or by any officer of a public body, may, at its discretion, order payment out of the Consolidated Fund to any of the witnesses of the expenses they have incurred individually in attending that court, and compensation for their trouble and loss of time, subject to such regulations as may be prescribed by the Minister.
+363\. A court holding any inquiry or trial under this Code which is conducted by the Public Prosecutor or by any officer of a public body, may, at its discretion, order payment out of the Consolidated Fund to any of the witnesses of the expenses they have incurred individually in attending that court, and compensation for their trouble and loss of time, subject to the Criminal Procedure Rules.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ## PART XIX
 
@@ -6915,31 +8089,97 @@ DISPOSAL OF PROPERTY
 
 ### Procedure governing seizure of property
 
-370\.—(1) If a police officer seizes property which is taken under section 35 or 78, or alleged or suspected to have been stolen, or found under circumstances that lead him to suspect an offence, he must make a report of the seizure to a Magistrate’s Court at the earlier of the following times:
+370\.—(1) If a law enforcement officer seizes any property in the exercise of any power under section 35 or 78, the law enforcement officer must make a report of the seizure to the relevant court at the earlier of the following times:
 
-(a) when the police officer considers that such property is no longer relevant for the purposes of any investigation, inquiry, trial or other proceeding under this Code; or
+(a) when the law enforcement officer considers that the property is not relevant for the purposes of any investigation, inquiry, trial or other proceeding under any written law;
 
-(b) one year from the date of seizure of the property.
+(b) one year after the date of seizure of the property.
 
-(2) Subject to subsection (3), the Magistrate’s Court must, upon the receipt of such report referred to in subsection (1), make such order as it thinks fit respecting the delivery of the property to the person entitled to the possession of it or, if that person cannot be ascertained, respecting the custody and production of the property.
+(2) Subject to subsection (3), and to any provisions on forfeiture, confiscation, destruction or delivery in any other written law under which property may be seized, the relevant court must, upon receiving a report mentioned in subsection (1), make such of the following orders as may be applicable:
 
-(3) The Magistrate’s Court must not dispose of any property if there is any pending court proceeding under any written law in relation to the property in respect of which the report referred to in subsection (1) is made, or if it is satisfied that such property is relevant for the purposes of any investigation, inquiry, trial or other proceeding under this Code.
+(a) in any case where the property consists of a computer and any data stored in the computer, and the relevant court is satisfied that an offence was committed in respect of the data, or that the data was used or intended to be used to commit an offence — an order for —
+
+(i) the deletion of the data from the computer, and the delivery of the computer (after the deletion of the data) to the person entitled to possession of the computer; or
+
+(ii) if that person cannot be ascertained, the deletion of the data from the computer, and the custody and production of the computer (after the deletion of the data);
+
+(b) in any case where the relevant court is satisfied that an offence was committed in respect of the property, or that the property was used or intended to be used to commit an offence — such order as the relevant court thinks fit for the disposal of the property;
+
+(c) in any case where the relevant court is satisfied that the property consists of anything into which any property mentioned in paragraph (b) has been converted, anything for which any property mentioned in paragraph (b) has been exchanged, or anything acquired (whether immediately or later) by this conversion or exchange — such order as the relevant court thinks fit for the disposal of the property;
+
+(d) in any case where the relevant court is satisfied that the property does not consist of any property mentioned in paragraph (a), (b) or (c), and the person entitled to possession of the property consents to the use of the property for compensation or restitution, or to the forfeiture of the property — such order as the relevant court thinks fit for the disposal of the property;
+
+(e) in any other case, an order relating to —
+
+(i) the delivery of the property to the person entitled to possession of the property; or
+
+(ii) if that person cannot be ascertained, the custody and production of the property.
+
+(3) The relevant court must not dispose of the property if —
+
+(a) there is any pending court proceeding under any written law in relation to the property; or
+
+(b) the relevant court is satisfied that the property is relevant for the purposes of any investigation, inquiry, trial or other proceeding under any written law.
+
+(4) Where the relevant court is not a Magistrate’s Court, the relevant court may, instead of making an order under subsection (2), direct that the property be delivered to a Magistrate, who must deal with the property in accordance with subsection (2) as if the report mentioned in subsection (1) was made to a Magistrate’s Court.
+
+(5) On and after the date of commencement of section 100 of the Criminal Justice Reform Act 2018 —
+
+(a) this section applies to any property seized or taken before that date, under section 370(1) of this Code as in force immediately before that date, or under section 35 or 78 — if no Magistrate’s Court has exercised, in relation to that property, any power under section 370 of this Code as in force immediately before that date;
+
+(b) this section applies to any report made before that date, under section 370(1) of this Code as in force immediately before that date, of the seizure of any property, as if that report had been made under subsection (1) — if no Magistrate’s Court has exercised, in relation to that property, any power under section 370 of this Code as in force immediately before that date; and
+
+(c) section 370 of this Code as in force immediately before that date continues to apply, in every case where a Magistrate’s Court has exercised before that date any power under that section, as if this section had not been enacted.
+
+(6) In this section and sections 371 and 372 —
+
+“law enforcement officer” means —
+
+(a) a police officer;
+
+(b) an officer of the Central Narcotics Bureau;
+
+(c) an immigration officer appointed under section 3 of the Immigration Act (Cap. 133);
+
+(d) a Commercial Affairs Officer appointed under section 64 of the Police Force Act (Cap. 235);
+
+(e) a public officer appointed as the Director, a deputy director, an assistant director or a special investigator of the Corrupt Practices Investigation Bureau; or
+
+(f) any other officer, of a prescribed law enforcement agency;
+
+“relevant court” means —
+
+(a) in any case where the property was seized for the purposes of a particular inquiry, trial or proceeding — the court before which that inquiry, trial or proceeding is held; or
+
+(b) in any other case, a Magistrate’s Court.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Procedure when person entitled to property is known
 
-371\.—(1) If the person entitled to the property referred to in section 370 is known, the Magistrate’s Court must cause a notice to be served on that person instructing him to take delivery of the property within the period specified in the notice which must be at least 48 hours after the date of service of the notice.
+371\.—(1) If the person entitled to the property referred to in section 370 is known, the relevant court must cause a notice to be served on that person instructing him to take delivery of the property within the period specified in the notice which must be at least 48 hours after the date of service of the notice.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Section 116 shall apply as nearly as may be practicable to the procedure governing the service of the notice referred to in subsection (1) as if a summons were a notice.
 
-(3) If the person entitled to the property referred to in section 370 fails to take delivery of the property within the period specified in the notice referred to in subsection (1), the Magistrate’s Court may, after one month from the expiry of that period, cause the property to be sold.
+(3) If the person entitled to the property referred to in section 370 fails to take delivery of the property within the period specified in the notice referred to in subsection (1), the relevant court may, after one month from the expiry of that period, cause the property to be sold.
 
-(4) Notwithstanding the other provisions in this section, if the property is perishable or if, in the opinion of the Magistrate’s Court, its value is less than $500, the Magistrate’s Court may cause the property to be sold at any time.
+[Act 19 of 2018 wef 31/10/2018]
 
-(5) The Magistrate’s Court must pay the net proceeds of the sale under subsections (3) and (4) on demand to the person entitled.
+(4) Notwithstanding the other provisions in this section, if the property is perishable or if, in the opinion of the relevant court, its value is less than $500, the relevant court may cause the property to be sold at any time.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(5) The relevant court must cause the net proceeds of the sale under subsection (3) or (4) to be paid, on demand, to the person entitled.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Procedure when person entitled to property is unknown or cannot be found
 
-372\.—(1) If the person entitled to the property referred to in section 370 is unknown or cannot be found, the Magistrate’s Court may direct that it be detained in police custody and the Commissioner of Police must, in that case, issue a public notice, specifying the articles of which the property consists and requiring any person who has a claim to it to appear before him and establish his claim within 6 months from the date of the public notice.
+372\.—(1) If the person entitled to the property referred to in section 370 is unknown or cannot be found, the relevant court may direct that it be detained in police custody and the Commissioner of Police must, in that case, issue a public notice, specifying the articles of which the property consists and requiring any person who has a claim to it to appear before him and establish his claim within 6 months from the date of the public notice.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Every notice under subsection (1) must be published in theGazetteor any daily newspaper if, in the opinion of the Commissioner of Police, the value of the property is at least $1,000.
 
@@ -6951,7 +8191,7 @@ DISPOSAL OF PROPERTY
 
 (6) If a person establishes his claim to the property within 6 months from the publication of the notice referred to in subsection (1), and the property has already been sold by the Commissioner of Police, that person shall only be entitled to the net proceeds.
 
-(7) In respect of property to which the person entitled is unknown or cannot be found, the Magistrate’s Court may order the property to be destroyed or otherwise disposed of at any time if in its opinion —
+(7) In respect of property to which the person entitled is unknown or cannot be found, the relevant court may order the property to be destroyed or otherwise disposed of at any time if in its opinion —
 
 (a) the property is of no appreciable value; or
 
@@ -6960,6 +8200,8 @@ DISPOSAL OF PROPERTY
 (i) make its sale impracticable; or
 
 (ii) make the keeping of it in police custody unreasonably expensive or inconvenient.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ## PART XX
 
@@ -6978,13 +8220,21 @@ Appeals
 
 373\. In this Part —
 
-“appellate court” means any court when exercising its appellate criminal jurisdiction;
+“appellate court” —
+
+(a) means any court when exercising its appellate criminal jurisdiction; and
+
+(b) includes, for the purposes only of Division 1B, the Court of Appeal when exercising its jurisdiction under Division 1A or section 397;
+
+[Act 19 of 2018 wef 31/10/2018]
 
 “trial court” means any court when exercising its original criminal jurisdiction.
 
 ### When appeal may be made
 
-374\.—(1) An appeal against any judgment, sentence or order of a court may only be made as provided for by this Code or by any other written law.
+374\.—(1) An appeal against any judgment, sentence or order of a court, or any decision of the High Court mentioned in section 149M(1), may only be made as provided for by this Code or by any other written law.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) An appeal may lie on a question of fact or a question of law or on a question of mixed fact and law.
 
@@ -7073,6 +8323,10 @@ there shall be no appeal against the acquittal or the sentence, as the case may 
 [Act 5 of 2014 wef 07/03/2014]
 
 (5) The appellant may, after he had lodged a petition of appeal within the time provided under this section, in a notice in writing to the Registrar of the Supreme Court seek leave of court to withdraw the appeal.
+
+(5A) Where every party to the appeal consents to the withdrawal of the appeal, the court may summarily give leave to withdraw the appeal by an order under the hand of a Judge of Appeal or a Judge, without the appeal being set down for hearing.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (6) Except with the leave of the appellate court, the appellant shall not be permitted, on the hearing of the appeal, to rely on any ground of appeal other than those set out in the petition of appeal.
 
@@ -7222,6 +8476,10 @@ and the Chief Justice consents to the request, the appeal must be heard by such 
 
 (10) The sentencing powers of the appellate court in the exercise of its appellate jurisdiction shall not exceed the sentencing power of the trial court whose judgment, sentence or order is appealed against.
 
+(11) To avoid doubt, everything done by the appellate court under this section is done in the exercise of its appellate jurisdiction.
+
+[Act 19 of 2018 wef 31/10/2018]
+
 ### Omission to frame charge
 
 391\.—(1) A judgment, sentence or order pronounced or passed shall not be invalid merely because no charge was framed, unless the appellate court is of the opinion that it has caused a failure of justice.
@@ -7279,7 +8537,21 @@ when no appeal filed
 
 ### Public Prosecutor to file petition for confirmation
 
-394A\.—(1) Where the High Court passes a sentence of death on an accused and no appeal is filed by the accused within the time allowed under this Code for an appeal, the Public Prosecutor shall, on the expiry of 90 days after the time allowed under this Code for appeal, lodge a petition for confirmation with the Registrar of the Supreme Court and serve the petition on the accused.
+394A\.—(1) Where the High Court passes a sentence of death on an accused —
+
+(a) if there is no appeal by the accused pending immediately after the expiry of the time allowed under this Code for an appeal — the Public Prosecutor must, on the expiry of 90 days after the time allowed under this Code for an appeal —
+
+(i) lodge a petition for confirmation with the Registrar of the Supreme Court; and
+
+(ii) serve the petition on the accused; or
+
+(b) if there is an appeal by the accused pending immediately after the expiry of the time allowed under this Code for an appeal, but the accused subsequently withdraws that appeal — the Public Prosecutor must, on the expiry of 90 days after the date of the withdrawal of that appeal —
+
+(i) lodge a petition for confirmation with the Registrar of the Supreme Court; and
+
+(ii) serve the petition on the accused.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) When a petition for confirmation has been lodged, the trial court shall transmit to the Court of Appeal, the Public Prosecutor, and the accused or his advocate, a signed copy of the record of the proceedings and the grounds of decision free of charge.
 
@@ -7328,6 +8600,198 @@ it shall issue a certificate to the Public Prosecutor and the accused or his adv
 it shall set aside the sentence of death, and may make such further order as it deems fit.
 
 [Act 33 of 2012 wef 01/01/2013]
+
+Division 1B —
+
+Review of earlier decision of appellate court
+
+### Interpretation of this Division
+
+394F\.—(1) In this Division, unless the context otherwise requires —
+
+“civil application” means an application to a court when exercising its civil jurisdiction, and includes, where the court is the Court of Appeal, an appeal to the Court of Appeal from any judgment or order of the High Court in such an application;
+
+“leave application” means an application for leave to make a review application;
+
+“review application” means an application to review an earlier decision of an appellate court.
+
+(2) In this Division, unless the context otherwise requires, a civil application is related to a review application made in respect of an earlier decision if —
+
+(a) any common question of law or fact arises in both applications; or
+
+(b) any relief claimed in the civil application —
+
+(i) may affect the review application in any way; or
+
+(ii) may affect the outcome of the criminal matter in respect of which the earlier decision was made.
+
+(3) In this Division, unless the context otherwise requires, a reference to a decision of a court is a reference to everything decided by the court, and everything comprised in the judgment, sentence or order (if any) of the court, when the court —
+
+(a) delivers judgment in a criminal trial, criminal appeal, case stated, criminal revision or criminal reference; or
+
+(b) issues a certificate under section 394E(1) confirming the imposition of the sentence of death on the accused.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Conditions for making review application
+
+394G\.—(1) A review application cannot be made in respect of an earlier decision of an appellate court unless any of the following applies:
+
+(a) the earlier decision is a decision of the appellate court on the merits of an appeal;
+
+(b) the earlier decision is a decision of the appellate court to dismiss an appeal under section 387(3) after the appellant fails to appear at the hearing of the appeal, and the appellate court does not reinstate the appeal under section 387(3);
+
+(c) where the appellate court is the Court of Appeal — the earlier decision is a decision of the Court of Appeal to issue a certificate under section 394E(1) confirming the imposition of the sentence of death on the accused;
+
+(d) where the appellate court is the Court of Appeal — the earlier decision is —
+
+(i) a determination by the Court of Appeal of any question of law of public interest referred to the Court of Appeal under section 397; or
+
+(ii) an order made by the Court of Appeal under section 397(5).
+
+(2) A review application cannot be made by the Public Prosecutor, unless the Public Prosecutor alleges that the earlier decision is tainted by fraud or a breach of the rules of natural justice, and that the integrity of the judicial process is thereby compromised.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Application for leave to make review application
+
+394H\.—(1) Before making a review application, the applicant must apply to the appellate court for, and obtain, the leave of that court to do so.
+
+(2) A leave application must be fixed for hearing within such period as is prescribed by the Criminal Procedure Rules.
+
+(3) The applicant in a leave application must file written submissions in support of that application, and such other documents as are prescribed in the Criminal Procedure Rules, within such periods as are prescribed in the Criminal Procedure Rules.
+
+(4) The respondent in a leave application may file written submissions in relation to that application within such period as is prescribed in the Criminal Procedure Rules.
+
+(5) The appellate court may extend any period mentioned in subsection (2), (3) or (4).
+
+(6) A leave application is to be heard —
+
+(a) in any case where the appellate court is the Court of Appeal — by a single Judge of Appeal; or
+
+(b) in any case where the appellate court is the High Court — by the Judge who made the decision to be reviewed or, if that Judge is not available, by any Judge.
+
+(7) A leave application may, without being set down for hearing, be summarily dealt with by a written order of the appellate court.
+
+(8) Before summarily refusing a leave application, the appellate court —
+
+(a) must consider the applicant’s written submissions (if any); and
+
+(b) may, but is not required to, consider the respondent’s written submissions (if any).
+
+(9) Before summarily granting leave to make a review application, the appellate court —
+
+(a) must consider the applicant’s written submissions (if any); and
+
+(b) must consider the respondent’s written submissions (if any).
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Hearing of review application
+
+394I\.—(1) Where the appellate court grants leave to make a review application, the review application must be made to the appellate court, and fixed for hearing, within such period as is prescribed by the Criminal Procedure Rules.
+
+(2) The applicant in a review application must file such documents in support of that application, within such period, as are prescribed in the Criminal Procedure Rules.
+
+(3) The respondent in a review application must file such documents in relation to that application, within such period, as are prescribed in the Criminal Procedure Rules.
+
+(4) The appellate court may extend any period mentioned in subsection (1), (2) or (3).
+
+(5) A review application is to be heard —
+
+(a) in any case where the appellate court is the Court of Appeal — by 3 Judges of Appeal or, if the Chief Justice so directs, by 5 or any greater uneven number of Judges of Appeal; or
+
+(b) in any case where the appellate court is the High Court — by a single Judge or, if the Chief Justice so directs, by 3 or any greater uneven number of Judges.
+
+(6) The appellate court may hear a review application and any related civil application at the same time or one immediately after another.
+
+(7) Despite subsections (1), (5) and (6) —
+
+(a) the Court of Appeal may hear a review application made to the High Court in respect of an earlier decision of the High Court;
+
+(b) the Court of Appeal may hear a civil application, made to the High Court, that is related to a review application (whether made to the Court of Appeal or to the High Court);
+
+(c) where the Court of Appeal so orders, the Court of Appeal may hear a review application (whether made to the Court of Appeal or to the High Court) and any related civil application (whether made to the Court of Appeal or to the High Court) at the same time or one immediately after another; and
+
+(d) every review application or civil application heard by the Court of Appeal under this subsection is to be heard by 3 Judges of Appeal or, if the Chief Justice so directs, by 5 or any greater uneven number of Judges of Appeal.
+
+(8) An appellate court, which hears a review application in respect of an earlier decision of that court, may exercise any power and make any order that could have been exercised and made, respectively, by the court that made the earlier decision.
+
+(9) Where the appellate court is the High Court, but a review application made in respect of an earlier decision of the appellate court is heard by the Court of Appeal —
+
+(a) the Court of Appeal may exercise any power and make any order that could have been exercised and made, respectively, by the appellate court that made the earlier decision; and
+
+(b) any reference in this Division to the exercise of a power, or the doing of a thing, by the appellate court in relation to the review application includes a reference to the exercise of that power, or the doing of that thing, by the Court of Appeal.
+
+(10) A review application may, without being set down for hearing, be summarily dealt with by a written order of the appellate court.
+
+(11) Before summarily refusing a review application, the appellate court —
+
+(a) must consider the applicant’s written submissions (if any); and
+
+(b) may, but is not required to, consider the respondent’s written submissions (if any).
+
+(12) Except where subsection (11) applies, before summarily deciding a review application on its merits, the appellate court —
+
+(a) must consider the applicant’s written submissions (if any); and
+
+(b) must consider the respondent’s written submissions (if any).
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Requirements for exercise of power of review under this Division
+
+394J\.—(1) This section —
+
+(a) sets out the requirements that must be satisfied by an applicant in a review application before an appellate court will exercise its power of review under this Division; and
+
+(b) does not affect the inherent power of an appellate court to review, on its own motion, an earlier decision of the appellate court.
+
+(2) The applicant in a review application must satisfy the appellate court that there is sufficient material (being evidence or legal arguments) on which the appellate court may conclude that there has been a miscarriage of justice in the criminal matter in respect of which the earlier decision was made.
+
+(3) For the purposes of subsection (2), in order for any material to be “sufficient”, that material must satisfy all of the following requirements:
+
+(a) before the filing of the application for leave to make the review application, the material has not been canvassed at any stage of the proceedings in the criminal matter in respect of which the earlier decision was made;
+
+(b) even with reasonable diligence, the material could not have been adduced in court earlier;
+
+(c) the material is compelling, in that the material is reliable, substantial, powerfully probative, and capable of showing almost conclusively that there has been a miscarriage of justice in the criminal matter in respect of which the earlier decision was made.
+
+(4) For the purposes of subsection (2), in order for any material consisting of legal arguments to be “sufficient”, that material must, in addition to satisfying all of the requirements in subsection (3), be based on a change in the law that arose from any decision made by a court after the conclusion of all proceedings relating to the criminal matter in respect of which the earlier decision was made.
+
+(5) For the purposes of subsection (2), the appellate court may conclude that there has been a miscarriage of justice in the criminal matter in respect of which the earlier decision was made, only if —
+
+(a) the earlier decision (being a decision on conviction or sentence) is demonstrably wrong; or
+
+(b) the earlier decision is tainted by fraud or a breach of the rules of natural justice, such that the integrity of the judicial process is compromised.
+
+(6) For the purposes of subsection (5)(a), in order for an earlier decision on conviction to be “demonstrably wrong” —
+
+(a) it is not sufficient that there is a real possibility that the earlier decision is wrong; and
+
+(b) it must be apparent, based only on the evidence tendered in support of the review application and without any further inquiry, that there is a powerful probability that the earlier decision is wrong.
+
+(7) For the purposes of subsection (5)(a), in order for an earlier decision on sentence to be “demonstrably wrong”, it must be shown that the decision was based on a fundamental misapprehension of the law or the facts, thereby resulting in a decision that is blatantly wrong on the face of the record.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Other matters concerning review applications and leave applications
+
+394K\.—(1) An applicant cannot make more than one review application in respect of any decision of an appellate court.
+
+(2) An applicant cannot make a review application in respect of an earlier decision of an appellate court after —
+
+(a) in any case where a court hears a related civil application made by the same applicant and reserves judgment in that related civil application — the time that court reserves judgment in that related civil application; or
+
+(b) in any other case where a court hears a related civil application made by the same applicant — the time that court delivers judgment in that related civil application.
+
+(3) Where the appellate court is the High Court, no appeal may lie against a decision of the appellate court on a leave application or a review application.
+
+(4) Where the appellate court is the High Court, no application under section 397(1), and no reference under section 397(2), may be made in respect of a decision of the appellate court on a leave application or a review application.
+
+(5) No leave application, and no review application, may be made in respect of a decision of an appellate court on a leave application or a review application.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 Division 2 —
 
@@ -7403,11 +8867,49 @@ Points reserved
 
 (3) An application under subsection (1) or a reference under subsection (2) shall be made within one month, or such longer time as the Court of Appeal may permit, of the determination of the matter to which it relates, and in the case of an application by the Public Prosecutor shall be made by him or with his written consent.
 
+(3A) Where an application under subsection (1) or a reference under subsection (2) is made, the High Court must send to the Court of Appeal a signed copy of the record of the proceedings, and the grounds of decision, for the matter to which the application or reference relates.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(3B) Where —
+
+(a) a party applies under subsection (1) for leave to refer a question to the Court of Appeal; and
+
+(b) it appears to the Court of Appeal that the question is not a question of law of public interest which has arisen in the matter, and the determination of which has affected the case, to which the application relates,
+
+the application may, without being set down for hearing, be summarily refused by an order, under the hand of a presiding Judge of Appeal, certifying that the Court of Appeal is satisfied that the application was made without any sufficient ground.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(3C) A decision of the Court of Appeal to summarily refuse under subsection (3B) an application under subsection (1) can only be made by a unanimous decision of all the Judges of Appeal.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(3D) Notice of a refusal under subsection (3B) of an application under subsection (1) must be served on the applicant.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(3E) Where, after the Court of Appeal has summarily refused under subsection (3B) an application under subsection (1) (called in this subsection the leave application), the applicant gives, within 14 days after the service of the notice of the refusal on the applicant, to the Registrar of the Supreme Court —
+
+(a) notice of an application to amend the leave application, so as to raise a question of law of public interest which has arisen in the matter, and the determination of which has affected the case, to which the leave application relates; and
+
+(b) a certificate signed by an advocate specifying the question to be raised and undertaking to argue it,
+
+the Chief Justice may allow the applicant to amend the leave application accordingly, and must restore the leave application for hearing.
+
+[Act 19 of 2018 wef 31/10/2018]
+
 (4) In granting leave to refer any question of law of public interest under subsection (1), or where the Public Prosecutor refers any question of law of public interest under subsection (2), the Court of Appeal may reframe the question or questions to reflect the relevant issue of law of public interest, and may make such orders as the Court of Appeal may see fit for the arrest, custody or release on bail of any party in the case.
 
 (5) The Court of Appeal, in hearing and determining any questions referred, may make such orders as the High Court might have made as the Court of Appeal considers just for the disposal of the case.
 
-(6) For the purposes of this section, any question of law which any party applies to be referred regarding which there is a conflict of judicial authority shall be deemed to be a question of public interest.
+(6) For the purposes of this section, each of the following is deemed to be a question of public interest:
+
+(a) any question of law regarding which there is a conflict of judicial authority;
+
+(b) any question of law that the Public Prosecutor refers.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Determination and order
 
@@ -7509,13 +9011,23 @@ Criminal motions
 
 ### Motion
 
-405\. A motion to the High Court in respect of any criminal matter must be made in accordance with this Division.
+405\.—(1) A motion to the High Court or the Court of Appeal in respect of any criminal matter must be made in accordance with this Division.
+
+(2) In this Division, the relevant court is the court to which the motion is made.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Notice of motion
 
 406\.—(1) No motion shall be made without previous notice to the other party to the proceedings.
 
-(2) Unless the High Court gives leave to the contrary, there must be at least 7 clear days between the service of the notice of a criminal motion and the day named in the notice for hearing the motion.
+(2) There must be at least 7 clear days between the service of the notice of a criminal motion and the day named in the notice for hearing the motion, unless —
+
+(a) the relevant court gives leave to the contrary; or
+
+(b) each party required to be served with the notice consents to the relief or remedy that is sought under the motion.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Form and issue of notice of motion
 
@@ -7529,11 +9041,49 @@ Criminal motions
 
 ### Adjournment of hearing
 
-408\. The hearing of any criminal motion may be adjourned from time to time on such terms as the High Court thinks fit.
+408\. The hearing of a criminal motion may be adjourned from time to time by the relevant court on such terms as the relevant court thinks fit.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Dealing with motion in absence of parties, etc.
+
+408A\.—(1) The relevant court may deal with a criminal motion in the absence of the parties to the proceedings, if —
+
+(a) the respondent is —
+
+(i) the prosecution; or
+
+(ii) an accused who is represented by an advocate; and
+
+(b) each party —
+
+(i) consents to the motion being dealt with in the absence of that party; and
+
+(ii) consents to the relief or remedy that is sought under the motion.
+
+(2) Where subsection (1) applies, but the relevant court is not inclined to grant the relief or remedy that is sought under the motion —
+
+(a) the motion must be set down for hearing; and
+
+(b) each party to the proceedings must be informed of the date and time appointed for the hearing.
+
+(3) The relevant court may, after hearing every party that attends the hearing mentioned in subsection (2), make such order as the relevant court thinks fit.
+
+(4) Where every party to the proceedings consents to the withdrawal of the motion, the relevant court may summarily give leave to withdraw the motion by an order under the hand of a Judge of Appeal or a Judge, without the motion being set down for hearing.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+### Decision or order affecting lower court
+
+408B\. Where, on hearing or dealing with a criminal motion, the relevant court makes a decision or an order that affects a lower court, the relevant court must certify its decision or order to the lower court.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Costs
 
-409\. If the High Court dismisses a criminal motion and is of the opinion that the motion was frivolous or vexatious or otherwise an abuse of the process of the Court, it may, either on the application of the respondent or on its own motion, order the applicant of the criminal motion to pay to the respondent costs on an indemnity basis or otherwise fixed by the Court.
+409\. If the relevant court dismisses a criminal motion and is of the opinion that the motion was frivolous or vexatious or otherwise an abuse of the process of the relevant court, it may, either on the application of the respondent or on its own motion, order the applicant of the criminal motion to pay to the respondent costs on an indemnity basis or otherwise fixed by the relevant court.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ## PART XXI
 
@@ -7635,6 +9185,28 @@ shall, in the absence of reasonable excuse, the burden of proving which shall li
 
 (2) The person referred to in subsection (1) shall not be considered to have done wrong from the start on account of any irregularity that he afterwards commits, but anyone wronged by the irregularity may take such proceedings in a civil court as he thinks fit to recover damages for any loss or harm he might have suffered.
 
+### Prohibition against publication, etc., that identifies complainant or alleged victim of sexual offence or child abuse offence
+
+425A\.—(1) Subject to subsection (2), where any person knows that an individual is a complainant, or an alleged victim, of a sexual offence or child abuse offence, that person must not do any of the following things:
+
+(a) publish the name, address or photograph of the individual;
+
+(b) publish any evidence, or any other thing, that is likely to lead to the identification of the individual as a complainant, or an alleged victim, of a sexual offence or child abuse offence;
+
+(c) do any other act that is likely to lead to the identification of the individual as a complainant, or an alleged victim, of a sexual offence or child abuse offence.
+
+(2) Subsection (1) ceases to apply to an individual who is a complainant of a sexual offence or child abuse offence, if —
+
+(a) the individual is convicted of any offence under section 182, 193, 194, 195, 196, 199, 200, 201, 202, 203, 204, 204A, 204B, 209, 211, 213 or 214 of the Penal Code (Cap. 224); and
+
+(b) the conviction involves a finding by the court that the individual’s complaint of the sexual offence or child abuse offence was false in any material point.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(4) To avoid doubt, this section does not affect any other written law that may prohibit a person from doing any thing mentioned in subsection (1)(a), (b) or (c).
+
+[Act 19 of 2018 wef 31/10/2018]
+
 ### Copies of proceedings
 
 426\.—(1) Any person (other than the Public Prosecutor) affected by any judgment, sentence or order made by a court may, on application to the court and upon payment of the prescribed fee, be furnished with a copy of any judgment, sentence, order, deposition or any other part of the record of proceedings.
@@ -7644,6 +9216,16 @@ shall, in the absence of reasonable excuse, the burden of proving which shall li
 (3) The court may, if it thinks fit, waive the payment of any fee under this section.
 
 (4) The Public Prosecutor may apply to the court and must be furnished, free of charge, with a copy of any judgment, sentence, order, deposition or any other part of the record of proceedings.
+
+(5) Every application to the court under subsection (1) or (4) may be dealt with, and the power of the court under subsection (3) may be exercised, by —
+
+(a) the Registrar of the Supreme Court, if the court is the Court of Appeal or the High Court;
+
+(b) the Registrar of the Family Justice Courts, if the court is a Family Court or a Youth Court; or
+
+(c) the Registrar of the State Courts, if the court is a District Court or a Magistrate’s Court.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ### Amendment of Schedules
 
@@ -7885,7 +9467,7 @@ Tabular statement of offences under the Penal Code
 
 Explanatory Notes. (1) The entries in the second and sixth columns of this Schedule, headed respectively “Offence” and “Maximum punishment under the Penal Code” are not intended as definitions of the offences and punishments described in the several corresponding sections of the Penal Code, or even as abstracts of those sections, but merely as references to the subject of the section, the number of which is given in the first column. In the case of many offences punishable by fine the maximum fine is limited by the Penal Code; such offences are in the sixth column marked*.
 
-(2)The entries in the third column of this Schedule are not intended in any way to restrict the powers of arrest without warrant which may be lawfully exercised by police officers.
+(2) The entries in the third column of this Schedule are not intended in any way to restrict the powers of arrest without warrant which may be lawfully exercised by police officers.
 
 1
 
@@ -9046,6 +10628,8 @@ Ditto
 Imprisonment for one month, or fine*, or both
 
 District Court
+
+[Deleted by Act 19 of 2016 wef 01/10/2017]
 
 176
 
@@ -10750,6 +12334,10 @@ Ditto
 Ditto
 
 CHAPTER XIV — OFFENCES AFFECTING THE PUBLIC TRANQUILITY, PUBLIC HEALTH, SAFETY,
+
+
+
+
 CONVENIENCE, DECENCY AND MORALS
 
 267B
@@ -13678,7 +15266,7 @@ Imprisonment for 3 years, or fine, or both
 
 Ditto
 
-CHAPTER XVIII — OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS, AND TO CURRENCY NOTES AND BANK NOTES
+CHAPTER XVIII — OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS,AND TO CURRENCY NOTES AND BANK NOTES
 
 465
 
@@ -14230,11 +15818,13 @@ Ditto
 
 According to sections 7, 8 and 9 of this Code
 
-[Act 19 of 2016 wef 01/10/2017]
+[S 664/2011]
 
 [Act 5 of 2015 wef 01/04/2015]
 
-[S 664/2011]
+[Act 19 of 2016 wef 01/10/2017]
+
+[Act 19 of 2018 wef 31/10/2018]
 
 SECOND SCHEDULE
 
@@ -14255,9 +15845,23 @@ Arms and Explosives Act (Cap. 13)
 
 Arms Offences Act (Cap. 14)
 
-3. 
+2A. 
 
 Banishment Act (Cap. 18)
+
+[S 724/2018 wef 31/10/2018]
+
+3. 
+
+Banking Act (Cap. 19)
+
+[S 724/2018 wef 31/10/2018]
+
+3A. 
+
+Casino Control Act (Cap. 33A)
+
+[Act 19 of 2018 wef 31/10/2018]
 
 4. 
 
@@ -14299,6 +15903,12 @@ Maintenance of Religious Harmony Act (Cap. 167A)
 
 Misuse of Drugs Act (Cap. 185)
 
+12A. 
+
+Moneylenders Act (Cap. 188)
+
+[Act 19 of 2018 wef 31/10/2018]
+
 13. 
 
 Oaths and Declarations Act (Cap. 211)
@@ -14314,6 +15924,18 @@ Passports Act (Cap. 220)
 16. 
 
 Penal Code (Cap. 224)
+
+16A. 
+
+Prevention of Corruption Act (Cap. 241)
+
+[Act 19 of 2018 wef 31/10/2018]
+
+16B. 
+
+Prevention of Human Trafficking Act 2014 (Act 45 of 2014)
+
+[Act 19 of 2018 wef 31/10/2018]
 
 17. 
 
@@ -14334,6 +15956,12 @@ Public Entertainments Act (Cap. 257)
 Public Order and Safety (Special Powers) Act 2018
 
 [Act 26 of 2018 wef 16/05/2018]
+
+20A. 
+
+Remote Gambling Act 2014 (Act 34 of 2014)
+
+[Act 19 of 2018 wef 31/10/2018]
 
 21. 
 
@@ -14911,6 +16539,56 @@ The type of work under a community service order includes general cleaning, repa
 (a) any hospital or any charitable, educational, cultural, or recreational institution or organisation, or any other organisation that contributes to a social cause;
 
 (b) any land of which the Government or any public body is the owner or lessee or occupier, or any land that is administered, maintained or kept clean by the Government or any public body.
+
+SIXTH SCHEDULE
+
+Section 149A
+
+Offences in respect of which
+
+
+
+
+deferred prosecution agreements
+
+
+
+
+may be entered into
+
+1. 
+
+Any offence under section 39, 43, 44, 45, 46, 47, 48, 48C, 48E, 48F, 48I, 48J or 48K of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A).
+
+2. 
+
+Any offence under section 59, read with section 39, 43, 44, 45, 46, 47, 48, 48C, 48E, 48F, 48I, 48J or 48K, of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act.
+
+3. 
+
+Any offence under section 27B(2) of the Monetary Authority of Singapore Act (Cap. 186).
+
+4. 
+
+Any offence under section 411 or 477A of the Penal Code (Cap. 224).
+
+5. 
+
+Any offence under section 5, 6, 10 or 12 of the Prevention of Corruption Act (Cap. 241).
+
+6. 
+
+Any offence under section 82, 204, 212 or 221 of the Securities and Futures Act (Cap. 289).
+
+7. 
+
+Any offence under section 331, read with section 82, 204, 212 or 221, of the Securities and Futures Act.
+
+8. 
+
+Any offence of attempting to commit, abetting the commission of, or being a party to a criminal conspiracy to commit, any other offence specified in this Schedule.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 TABLE OF DERIVATIONS
 
@@ -17685,3 +19363,5 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of Second and Third Readings|19 March 2018|
 ||Date of commencement|17 September 2018|
 |||31 October 2018|
+|26.|**G. N. No. S 724/2018—Criminal Procedure Code (Amendment of Second Schedule) Order 2018**|
+||Date of commencement|31 October 2018|
