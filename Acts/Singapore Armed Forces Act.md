@@ -2332,7 +2332,7 @@ subject to the same right of the accused to object.
 
 ### Application of Criminal Procedure Code
 
-94\.—(1) Without prejudice to section 93 of this Act, sections 123 to 148, 244 to 256, 262 to 268, 282, 283, 284, 290, 293, 294, 296, 297, 319 (other than subsection (1)(e) thereof), 320, 326 to 332, 359, 360, 364, 365, 366, 368 to 372, 391, 423 and 426 of the Criminal Procedure Code 2010, in so far as they are not inconsistent with the provisions of this Act or any regulations made thereunder, shall apply, with the necessary modification, to proceedings before and punishments awarded by subordinate military courts.
+94\.—(1) Without prejudice to section 93 of this Act, sections 123 to 148, 244 to 256, 262 to 268, 282, 283, 284, 290, 293, 294, 296, 297, 319 (other than subsection (1)(e) thereof), 320, 326 to 332, 359, 360, 364, 365, 366, 368 to 372, 391, 423 and 426 of the Criminal Procedure Code (Cap. 68) (as in force immediately before the date of commencement of section 125 of the Criminal Justice Reform Act 2018), in so far as they are not inconsistent with the provisions of this Act or any regulations made thereunder, shall apply, with the necessary modification, to proceedings before and punishments awarded by subordinate military courts.
 
 [20/75; 1/94]
 
@@ -2340,17 +2340,25 @@ subject to the same right of the accused to object.
 
 [15/2010 wef 02/01/2011]
 
-(2) A subordinate military court when invoking section 319 of the Criminal Procedure Code 2010 (other than subsection (1)(e) thereof) may award detention or special detention in a disciplinary barrack instead of imprisonment.
+[Act 19 of 2018 wef 31/10/2018]
+
+(2) A subordinate military court when invoking section 319 of the Criminal Procedure Code (as in force immediately before the date of commencement of section 125 of the Criminal Justice Reform Act 2018) (other than subsection (1)(e) thereof) may award detention or special detention in a disciplinary barrack instead of imprisonment.
 
 [15/2010 wef 02/01/2011]
 
-(3) Section 328 of the Criminal Procedure Code 2010 shall apply to any sentence of caning awarded or imposed under this Act notwithstanding any other provisions of this Act or any regulations made thereunder.
+[Act 19 of 2018 wef 31/10/2018]
+
+(3) Section 328 of the Criminal Procedure Code (as in force immediately before the date of commencement of section 125 of the Criminal Justice Reform Act 2018) shall apply to any sentence of caning awarded or imposed under this Act notwithstanding any other provisions of this Act or any regulations made thereunder.
 
 [15/2010 wef 02/01/2011]
 
-(4) In exercising the powers under section 331 of the Criminal Procedure Code 2010, a subordinate military court may award any less punishment authorised by this Act instead of imprisonment.
+[Act 19 of 2018 wef 31/10/2018]
+
+(4) In exercising the powers under section 331 of the Criminal Procedure Code (as in force immediately before the date of commencement of section 125 of the Criminal Justice Reform Act 2018), a subordinate military court may award any less punishment authorised by this Act instead of imprisonment.
 
 [15/2010 wef 02/01/2011]
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (5) The Minister may, by order published in theGazette, provide for the application of such other provisions of the Criminal Procedure Code as he thinks fit for the purposes of investigation, trial and punishment of offences punishable under this Act, subject to any modifications as may be specified in the order.
 
@@ -4060,9 +4068,7 @@ AID TO CIVILIAN AUTHORITIES
 
 (9) Subject to sections 201E and 201F, any serviceman deployed for duty in accordance with any order made under subsection (1) which is in force may, for the purposes of the relevant event for which he is deployed, do one or more of the following:
 
-(a) exercise any of the powers conferred on a police officer by sections 63 to 68 and 75 to 85 of the Criminal Procedure Code 2010 in like manner as if references in those provisions to ––
-
-[15/2010 wef 02/01/2011]
+(a) exercise any of the powers conferred on a police officer by sections 63 to 68 and 75 to 85 of the Criminal Procedure Code (Cap. 68) in like manner as if references in those provisions to ––
 
 (i) a police officer were references to a serviceman;
 
@@ -4073,6 +4079,10 @@ AID TO CIVILIAN AUTHORITIES
 (iii) the rank of “inspector” were references to the rank of second lieutenant or ME4 (depending on whether the holder of that rank is an officer or a senior military expert);
 
 [28/2009 wef 01/04/2010]
+
+[15/2010 wef 02/01/2011]
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (b) regulate, restrict, control or prohibit the use of any public road or public place, where and to the extent that similar powers are not exercisable under paragraph (f) by a serviceman;
 
@@ -4194,9 +4204,11 @@ AID TO CIVILIAN AUTHORITIES
 
 ### Procedure on arrest of persons, seizure of property or detention of aircraft and vessels
 
-201G\.—(1) Any person arrested or detained by a serviceman in exercise of his powers under section 201B(3) or (4) or 201C(9) shall be handed over to a police officer as soon as practicable, and section 66(3), (4) and (5) of the Criminal Procedure Code 2010 shall apply to that person as if he were handed over to the police officer under section 66(1) and (2) of that Code.
+201G\.—(1) Any person arrested or detained by a serviceman in exercise of his powers under section 201B(3) or (4) or 201C(9) shall be handed over to a police officer as soon as practicable, and section 66(3), (4) and (5) of the Criminal Procedure Code (Cap. 68) shall apply to that person as if he were handed over to the police officer under section 66(1) and (2) of that Code.
 
 [15/2010 wef 02/01/2011]
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2) Where a serviceman has seized any thing or vehicle in exercise of his powers under section 201B(3) or (4) or 201C(9), the serviceman shall —
 
@@ -4857,6 +4869,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
 ||Date of Second and Third Readings|21 March 2018|
 ||Date of commencement|16 May 2018|
+|28.|**Act 19 of 2018—Criminal Justice Reform Act 2018**|
+||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|31 October 2018|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
