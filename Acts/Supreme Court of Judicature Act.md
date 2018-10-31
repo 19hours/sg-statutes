@@ -400,7 +400,9 @@ THE SUPREME COURT
 
 8\.—(1) The place in which any court is held for the purpose of trying any cause or matter, civil or criminal, shall be deemed an open and public court to which the public generally may have access.
 
-(2) The court shall have power to hear any matter or proceedings or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so.
+(2) The court shall have power to hear any matter or proceeding or any part thereof in camera if the court is satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (2A) A court may, in any matter or proceeding or any part thereof tried or held or to be tried or held before it, if satisfied that it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason to do so, order that —
 
@@ -423,6 +425,38 @@ which is contained in any court document intended to be produced before the cour
 (4) Any person who acts in contravention of any order under subsection (2A) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [15/2010 wef 02/01/2011]
+
+(5) A court that hears the whole or any part of any matter or proceeding in camera may, in its discretion, permit any of the following individuals to be present in the courtroom while that matter or proceeding is heard in camera:
+
+(a) any journalist who reports news for a newspaper or a broadcasting service;
+
+(b) any individual whom the court determines has a sufficient interest in that matter or proceeding;
+
+(c) any other individual that the court specifies in any particular case.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(6) For the purposes of subsection (2), the matters that the court may consider, when deciding whether it is expedient in the interests of justice, public safety, public security or propriety, or for other sufficient reason, to hear the whole or any part of any matter or proceeding in camera, include the following matters:
+
+(a) whether the defence of any accused person in that matter or proceeding will be prejudiced by the presence of any member of the public in the courtroom;
+
+(b) whether any accused person or witness in that matter or proceeding has any legitimate interest in privacy that needs to be protected;
+
+(c) whether the object of that matter or proceeding will be defeated by publicity if that matter or proceeding is heard in open court;
+
+(d) whether any accused person or witness in that matter or proceeding has any legitimate interest in protecting the confidentiality of any information that may be disclosed during the hearing of that matter or proceeding;
+
+(e) whether any information that may be disclosed during the hearing of that matter or proceeding will be prejudicial to the interests of Singapore.
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(7) In this section —
+
+“broadcasting service” has the same meaning as in section 2(1) of the Broadcasting Act (Cap. 28);
+
+“newspaper” has the same meaning as in section 2(1) of the Newspaper and Printing Presses Act (Cap. 206).
+
+[Act 19 of 2018 wef 31/10/2018]
 
 ## PART III
 
@@ -1080,13 +1114,37 @@ THE COURT OF APPEAL
 
 ### Jurisdiction of Court of Appeal
 
-29A\.—(1) The civil jurisdiction of the Court of Appeal shall consist of appeals from any judgment or order of the High Court in any civil cause or matter whether made in the exercise of its original or of its appellate jurisdiction, subject nevertheless to the provisions of this Act or any other written law regulating the terms and conditions upon which such appeals may be brought.
+29A\.—(1) The civil jurisdiction of the Court of Appeal consists of the following matters, subject to the provisions of this Act or any other written law regulating the terms and conditions upon which those matters may be brought:
 
-[16/93]
+(a) any appeal from any judgment or order of the High Court in any civil cause or matter, whether made in the exercise of its original civil jurisdiction or made in the exercise of its appellate civil jurisdiction;
 
-(2) The criminal jurisdiction of the Court of Appeal shall consist of appeals against any decision made by the High Court in the exercise of its original criminal jurisdiction, subject nevertheless to the provisions of this Act or any other written law regulating the terms and conditions upon which such appeals may be brought.
+(b) any application (whether made to the Court of Appeal or to the High Court) to which either or both of the following apply:
 
-[16/93]
+(i) any common question of law or fact arises in both that application and any matter mentioned in subsection (2);
+
+(ii) any relief claimed in that application —
+
+(A) may affect any matter mentioned in subsection (2) in any way; or
+
+(B) may affect the outcome of any matter mentioned in subsection (2).
+
+[Act 19 of 2018 wef 31/10/2018]
+
+(2) The criminal jurisdiction of the Court of Appeal consists of the following matters, subject to the provisions of this Act or any other written law regulating the terms and conditions upon which those matters may be brought:
+
+(a) any appeal against any decision made by the High Court in the exercise of its original criminal jurisdiction;
+
+(b) any petition for confirmation under Division 1A of Part XX of the Criminal Procedure Code (Cap. 68);
+
+(c) any review of a decision of the Court of Appeal, or a decision of the High Court, under Division 1B of Part XX of the Criminal Procedure Code;
+
+(d) any case stated to the Court of Appeal under section 395 or 396 of the Criminal Procedure Code;
+
+(e) any reference to the Court of Appeal under section 397 of the Criminal Procedure Code;
+
+(f) any motion to the Court of Appeal under Division 5 of Part XX of the Criminal Procedure Code.
+
+[Act 19 of 2018 wef 31/10/2018]
 
 (3) For the purposes of and incidental to —
 
@@ -1132,17 +1190,27 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 [30/2010 wef 01/01/2011]
 
+(2A) Despite subsection (1), the Court of Appeal in the exercise of its criminal jurisdiction is, if it consists of one Judge of Appeal, duly constituted for the purpose of hearing and determining an application under section 394H of the Criminal Procedure Code (Cap. 68) for leave to apply to the Court of Appeal to review an earlier decision of the Court of Appeal.
+
+[Act 19 of 2018 wef 31/10/2018]
+
 (3) No Judge of Appeal shall sit as a member of the Court of Appeal on the hearing of, or shall determine any application in proceedings incidental or preliminary to —
 
 (a) an appeal from a judgment or an order made by him;
 
 (b) an appeal against a conviction before him or a sentence passed by him; or
 
-(c) the consideration of any case stated by him under section 395 of the Criminal Procedure Code 2010.
+(c) the consideration of any of the following matters:
+
+(i) any petition for confirmation under Division 1A of Part XX of the Criminal Procedure Code lodged in respect of a sentence of death passed by him on an accused;
+
+(ii) any case stated by him under section 395 of the Criminal Procedure Code;
+
+(iii) any reference under section 397 of the Criminal Procedure Code of a question of law of public interest which has arisen in a criminal matter determined by him.
 
 [16/93]
 
-[15/2010 wef 02/01/2011]
+[Act 19 of 2018 wef 31/10/2018]
 
 (3A) No Judge of Appeal shall sit as a member of the Court of Appeal on the hearing of an application to discharge or vary any direction or order made by him under section 36(1).
 
@@ -2266,6 +2334,10 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of First Reading|7 November 2016 (Bill No. 37/2016 published on 7 November 2016)|
 ||Date of Second and Third Readings|10 January 2017|
 ||Date of commencement|1 November 2017|
+|37.|**Act 19 of 2018—Criminal Justice Reform Act 2018**|
+||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
+||Date of Second and Third Readings|19 March 2018|
+||Date of commencement|31 October 2018|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
