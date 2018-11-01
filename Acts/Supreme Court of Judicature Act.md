@@ -70,7 +70,7 @@
 
 - [18D Jurisdiction of Singapore International Commercial Court](#Jurisdiction-of-Singapore-International-Commercial-Court)
 
-- [18E Pre-action certificate](#Pre-action-certificate)
+- [18E (Repealed)](#Repealed)
 
 - [18F Effect of jurisdiction agreement](#Effect-of-jurisdiction-agreement)
 
@@ -86,7 +86,7 @@
 
 - [18L Determination of foreign law on submissions](#Determination-of-foreign-law-on-submissions)
 
-- [18M Representation by foreign lawyers](#Representation-by-foreign-lawyers)
+- [18M Representation by foreign lawyers and law experts](#Representation-by-foreign-lawyers-and-law-experts)
 
 [**Appellate Jurisdiction of the High Court**](#Appellate-Jurisdiction-of-the-High-Court)
 
@@ -770,7 +770,7 @@ Singapore International Commercial Court
 
 ### Jurisdiction of Singapore International Commercial Court
 
-18D\. The Singapore International Commercial Court shall have jurisdiction to hear and try any action that satisfies all of the following conditions:
+18D\.—(1) The Singapore International Commercial Court shall have jurisdiction to hear and try any action that satisfies all of the following conditions:
 
 (a) the action is international and commercial in nature;
 
@@ -778,27 +778,13 @@ Singapore International Commercial Court
 
 (c) the action satisfies such other conditions as the Rules of Court may prescribe.
 
-[Act 42 of 2014 wef 01/01/2015]
+[Act 1 of 2018 wef 01/11/2018]
 
-### Pre-action certificate
+(2) Without limiting subsection (1), the Singapore International Commercial Court (being a division of the High Court) has jurisdiction to hear any proceedings relating to international commercial arbitration that the High Court may hear and that satisfy such conditions as the Rules of Court may prescribe.
 
-18E\.—(1) A party intending to bring an action in the Singapore International Commercial Court may apply for a certificate stating all or any of the following matters:
+[Act 1 of 2018 wef 01/11/2018]
 
-(a) that the intended action is international and commercial in nature for the purposes of section 18D(a);
-
-(b) such other matters as the Rules of Court may prescribe.
-
-(2) An application under subsection (1) —
-
-(a) shall be made by an originating process or such other process as the Rules of Court may prescribe;
-
-(b) shall be determined by a Judge or the Registrar; and
-
-(c) may be determined summarily or otherwise in accordance with such procedure as the Rules of Court may prescribe.
-
-(3) A certificate issued under this section is conclusive as to the matters certified in such circumstances as the Rules of Court may prescribe.
-
-[Act 42 of 2014 wef 01/01/2015]
+18E\. [Repealed by Act 1 of 2018 wef 01/11/2018]
 
 ### Effect of jurisdiction agreement
 
@@ -888,11 +874,13 @@ Singapore International Commercial Court
 
 [Act 42 of 2014 wef 01/01/2015]
 
-### Representation by foreign lawyers
+### Representation by foreign lawyers and law experts
 
-18M\. A party to a case in the Singapore International Commercial Court, or to an appeal from that Court, may in accordance with the Rules of Court be represented by a foreign lawyer who is registered in accordance with Part IVB of the Legal Profession Act (Cap. 161).
+18M\. A party to a case in the Singapore International Commercial Court, or to an appeal from that Court, may in accordance with the Rules of Court be represented by a foreign lawyer or law expert who is registered in accordance with Part IVB of the Legal Profession Act (Cap. 161).
 
 [Act 42 of 2014 wef 01/01/2015]
+
+[Act 22 of 2018 wef 01/11/2018]
 
 Appellate Jurisdiction of the High Court
 
@@ -1208,9 +1196,9 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 (iii) any reference under section 397 of the Criminal Procedure Code of a question of law of public interest which has arisen in a criminal matter determined by him.
 
-[16/93]
-
 [Act 19 of 2018 wef 31/10/2018]
+
+[16/93]
 
 (3A) No Judge of Appeal shall sit as a member of the Court of Appeal on the hearing of an application to discharge or vary any direction or order made by him under section 36(1).
 
@@ -1780,17 +1768,25 @@ Rules of Court
 
 (a) to provide for different procedures and practices to be followed in respect of proceedings in that Court and in appeals from that Court;
 
-(b) to prescribe, for the purposes of section 18D, what constitutes an action of an international and commercial nature, and any other conditions that an action must satisfy before that Court may hear and try the action;
+(b) to prescribe, for the purposes of section 18D(1), what constitutes an action of an international and commercial nature, and any other conditions that an action must satisfy before that Court may hear and try the action;
 
-(c) to prescribe, for the purposes of section 18E, the matters which can be certified under that section, the conditions to be satisfied before an application can be made under that section, the procedure to be followed in such an application, and the circumstances in which the certified matters are conclusive;
+[Act 1 of 2018 wef 01/11/2018]
 
-(d) to prescribe, for the purposes of section 18J, the conditions to be satisfied before an action can be transferred to or from that Court, and to provide for the making of, and other matters related to, any consequential order referred to in section 18J(3)(b);
+(c) to prescribe, for the purposes of section 18D(2), what constitutes an international commercial arbitration, and any conditions that any proceedings must satisfy before that Court may hear those proceedings;
+
+[Act 1 of 2018 wef 01/11/2018]
+
+(d) to prescribe, for the purposes of section 18J, the conditions to be satisfied before a case can be transferred to or from that Court, and to provide for the making of, and other matters related to, any consequential order referred to in section 18J(3)(b);
+
+[Act 1 of 2018 wef 01/11/2018]
 
 (e) to prescribe, for the purposes of section 18K, the cases in which and the extent to which that Court is not bound to apply any rule of evidence under Singapore law, and the rules of evidence (if any) to be applied in those cases;
 
 (f) to prescribe, for the purposes of section 18L, any conditions to be satisfied before an order can be made under section 18L(1), and the matters which that Court may have regard to in determining any question of foreign law on the basis of submissions;
 
-(g) to prescribe, for the purposes of section 18M, any conditions to be satisfied before a party can be represented by a foreign lawyer in that Court or in an appeal from that Court;
+(g) to prescribe, for the purposes of section 18M, any conditions to be satisfied before a party can be represented by a foreign lawyer or law expert in that Court or in an appeal from that Court;
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (h) to prescribe the circumstances where that Court may make a judgment or an order without hearing oral arguments;
 
@@ -2338,6 +2334,14 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
 ||Date of Second and Third Readings|19 March 2018|
 ||Date of commencement|31 October 2018|
+|38.|**Act 1 of 2018—Supreme Court of Judicature (Amendment) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 47/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|9 January 2018|
+||Date of commencement|1 November 2018|
+|39.|**Act 22 of 2018—Legal Profession (Amendment) Act 2018**|
+||Date of First Reading|2 March 2018 (Bill No. 16/2018 published on 2 March 2018)|
+||Date of Second and Third Readings|20 March 2018|
+||Dates of commencement|1 November 2018|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
