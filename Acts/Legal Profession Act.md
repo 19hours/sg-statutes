@@ -156,21 +156,23 @@
 
 - [36N Powers of Minister in relation to registration requirements](#Powers-of-Minister-in-relation-to-registration-requirements)
 
-[**Part IVB FOREIGN REPRESENTATION IN SINGAPORE INTERNATIONAL COMMERCIAL COURT**](#Part-IVB)
+[**Part IVB REPRESENTATION IN SINGAPORE INTERNATIONAL COMMERCIAL COURT**](#Part-IVB)
 
 - [36O Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [36P Registration of foreign lawyer to act in relation to relevant proceedings](#Registration-of-foreign-lawyer-to-act-in-relation-to-relevant-proceedings)
 
+- [36PA Registration of law expert to act in relation to relevant proceedings](#Registration-of-law-expert-to-act-in-relation-to-relevant-proceedings)
+
 - [36Q Appointing committee](#Appointing-committee)
 
 - [36R Instructing authority](#Instructing-authority)
 
-- [36S Complaints against foreign lawyers registered under section 36P](#Complaints-against-foreign-lawyers-registered-under-section-36P)
+- [36S Complaints against foreign lawyers registered under section 36P and law experts registered under section 36PA](#Complaints-against-foreign-lawyers-registered-under-section-36P-and-law-experts-registered-under-section-36PA)
 
 - [36T Application for review of decision of complaints committee](#Application-for-review-of-decision-of-complaints-committee)
 
-- [36U Application for cancellation of registration under section 36P, etc.](#Application-for-cancellation-of-registration-under-section-36P-etc)
+- [36U Application for cancellation of registration under section 36P or 36PA, etc.](#Application-for-cancellation-of-registration-under-section-36P-or-36PA-etc)
 
 - [36V Restriction of judicial review](#Restriction-of-judicial-review)
 
@@ -2910,12 +2912,14 @@ in respect of the practice of Singapore law;
 
 ## PART IVB
 
-FOREIGN REPRESENTATION IN
+REPRESENTATION IN
 
 
 
 
 SINGAPORE INTERNATIONAL COMMERCIAL COURT
+
+[Act 22 of 2018 wef 01/11/2018]
 
 ### Interpretation of this Part
 
@@ -2929,6 +2933,24 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 “Judge” means a Judge of the Supreme Court, a Judicial Commissioner of the Supreme Court or a Senior Judge of the Supreme Court;
 
+“law expert” —
+
+(a) means an individual —
+
+(i) who has specialised knowledge, based on training, study or experience, on matters of foreign law, or is otherwise qualified to submit on matters of foreign law; and
+
+(ii) whom the Singapore International Commercial Court or the Court of Appeal specifies, in an order that a question of foreign law be determined on the basis of submissions instead of proof, may make submissions on that question of law; but
+
+(b) excludes all of the following:
+
+(i) an advocate and solicitor who has in force a practising certificate;
+
+(ii) a person who is admitted under section 15;
+
+(iii) a foreign lawyer who is registered under section 36P;
+
+[Act 22 of 2018 wef 01/11/2018]
+
 “relevant appeal” means such appeal, from any judgment given or order made by the Singapore International Commercial Court, as may be prescribed for the purposes of this definition;
 
 “relevant proceedings” means such proceedings in the Singapore International Commercial Court as may be prescribed for the purposes of this definition;
@@ -2941,9 +2963,13 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 [Act 40 of 2014 wef 01/01/2015]
 
+(3) For the purposes of sections 36S, 36T, 36U and 36Y, a reference to a law expert who is registered under section 36PA includes a law expert whose registration under section 36PA is cancelled or suspended, or lapses, after the commencement of proceedings under section 36S against the law expert.
+
+[Act 22 of 2018 wef 01/11/2018]
+
 ### Registration of foreign lawyer to act in relation to relevant proceedings
 
-36P\.—(1) Notwithstanding anything to the contrary in this Act, but without prejudice to section 15, a foreign lawyer who is registered under this section may, if granted full registration under this section, do all or any of the following:
+36P\.—(1) Despite anything to the contrary in this Act, but without prejudice to section 15, a foreign lawyer who is registered under this section may, if granted full registration under this section, do all or any of the following:
 
 (a) appear and plead in any relevant proceedings;
 
@@ -2953,13 +2979,17 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 (d) give advice, prepare documents and provide any other assistance in relation to or arising out of any relevant proceedings or relevant appeal.
 
-(2) Notwithstanding anything to the contrary in this Act, but without prejudice to section 15, a foreign lawyer who is registered under this section may, if granted restricted registration under this section, do all or any of the following:
+[Act 22 of 2018 wef 01/11/2018]
+
+(2) Despite anything to the contrary in this Act, but without prejudice to section 15, a foreign lawyer who is registered under this section may, if granted restricted registration under this section, do all or any of the following:
 
 (a) appear in any relevant proceedings, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court, or the Court of Appeal, in accordance with the Rules of Court;
 
 (b) appear in the Court of Appeal in any relevant appeal, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court, or the Court of Appeal, in accordance with the Rules of Court;
 
 (c) give advice and prepare documents, solely for the purposes of making submissions, in any relevant proceedings or relevant appeal, on such matters of foreign law as are permitted by the Singapore International Commercial Court, or the Court of Appeal, in accordance with the Rules of Court.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (3) An application may be made for a foreign lawyer to be registered under this section, if the foreign lawyer possesses such qualifications and satisfies such requirements as may be prescribed.
 
@@ -3008,6 +3038,58 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 (b) any order made by an International Judge of the Supreme Court under subsection (9).
 
 [Act 40 of 2014 wef 01/01/2015]
+
+### Registration of law expert to act in relation to relevant proceedings
+
+36PA\.—(1) Despite anything to the contrary in this Act, a law expert who is registered under this section may do all or any of the following:
+
+(a) appear in any relevant proceedings, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court, or the Court of Appeal, in accordance with the Rules of Court;
+
+(b) appear in the Court of Appeal in any relevant appeal, solely for the purposes of making submissions on such matters of foreign law as are permitted by the Singapore International Commercial Court, or the Court of Appeal, in accordance with the Rules of Court;
+
+(c) give advice and prepare documents, solely for the purposes of making submissions, in any relevant proceedings or relevant appeal, on such matters of foreign law as are permitted by the Singapore International Commercial Court, or the Court of Appeal, in accordance with the Rules of Court.
+
+(2) An application may be made for a law expert to be registered under this section, if the law expert possesses such qualifications and satisfies such requirements as may be prescribed.
+
+(3) An application for a law expert to be registered under this section must be —
+
+(a) made to the Registrar in such form and manner as may be prescribed; and
+
+(b) accompanied by such fee, undertakings, documents and information as may be prescribed.
+
+(4) The Registrar may register a law expert under this section subject to such conditions as the Registrar thinks fit to impose in any particular case.
+
+(5) A Judge may, of the Judge’s own motion or on the application of any interested party, order the cancellation of a law expert’s registration under this section, if —
+
+(a) the law expert does not possess any qualification mentioned in subsection (2) for registration under this section;
+
+(b) the law expert does not satisfy any requirement mentioned in subsection (2) for registration under this section;
+
+(c) the law expert fails to comply with any condition imposed under subsection (4); or
+
+(d) the Judge is satisfied that the law expert should not have been registered under this section.
+
+(6) The Judge must, before making an order under subsection (5), give the law expert a reasonable opportunity to be heard by the Judge.
+
+(7) An International Judge of the Supreme Court may, in the course of any relevant proceedings before the International Judge, of the International Judge’s own motion or on the application of any interested party, order the cancellation of the registration under this section of a law expert who appears in those proceedings, if —
+
+(a) the law expert does not possess any qualification mentioned in subsection (2) for registration under this section;
+
+(b) the law expert does not satisfy any requirement mentioned in subsection (2) for registration under this section;
+
+(c) the law expert fails to comply with any condition imposed under subsection (4); or
+
+(d) the International Judge is satisfied that the law expert should not have been registered under this section.
+
+(8) The International Judge of the Supreme Court must, before making an order under subsection (7), give the law expert a reasonable opportunity to be heard by the International Judge.
+
+(9) No appeal lies from —
+
+(a) any order made by a Judge under subsection (5); or
+
+(b) any order made by an International Judge of the Supreme Court under subsection (7).
+
+[Act 22 of 2018 wef 01/11/2018]
 
 ### Appointing committee
 
@@ -3059,11 +3141,13 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 [Act 40 of 2014 wef 01/01/2015]
 
-### Complaints against foreign lawyers registered under section 36P
+### Complaints against foreign lawyers registered under section 36P and law experts registered under section 36PA
 
-36S\.—(1) Every foreign lawyer who is registered under section 36P shall be subject to the control of the Supreme Court and shall be liable on due cause shown —
+36S\.—(1) Every foreign lawyer who is registered under section 36P, and every law expert who is registered under section 36PA, shall be subject to the control of the Supreme Court and shall be liable on due cause shown —
 
-(a) to have his registration under section 36P cancelled or suspended (for such period as the court may think fit);
+(a) to have his registration under section 36P or 36PA (as the case may be) cancelled or suspended (for such period as the court may think fit);
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (b) to pay a penalty of not more than $100,000;
 
@@ -3071,19 +3155,27 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 (d) to suffer the punishment referred to in paragraph (b) in addition to the punishment referred to in paragraph (a) or (c).
 
-(2) Any complaint of the conduct of a foreign lawyer who is registered under section 36P —
+[Act 22 of 2018 wef 01/11/2018]
+
+(2) Any complaint of the conduct of a foreign lawyer who is registered under section 36P, or the conduct of a law expert who is registered under section 36PA —
 
 (a) shall be made to the Registrar in writing; and
 
 (b) subject to subsection (3), shall be supported by such statutory declaration as the Registrar may require.
 
+[Act 22 of 2018 wef 01/11/2018]
+
 (3) No statutory declaration shall be required if the complaint is made by a Judge, by an International Judge of the Supreme Court, by the Attorney‑General, by the Council or by any public officer acting in the course of the public officer’s duties.
 
-(4) Where any complaint is made to the Registrar of the conduct of a foreign lawyer registered under section 36P, the Registrar shall, within one week after the date on which the Registrar receives the complaint —
+(4) Where any complaint is made to the Registrar of the conduct of a foreign lawyer registered under section 36P, or the conduct of a law expert registered under section 36PA, the Registrar shall, within one week after the date on which the Registrar receives the complaint —
 
-(a) furnish the foreign lawyer a copy of the complaint; and
+(a) furnish the foreign lawyer or law expert a copy of the complaint; and
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (b) make a request to the Chief Justice to appoint a complaints committee to hear and investigate the complaint.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (5) The Chief Justice may appoint one or more complaints committees, each comprising —
 
@@ -3105,11 +3197,13 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 (8) A complaints committee appointed to hear and investigate a complaint of the conduct of a foreign lawyer who is registered under section 36P —
 
-(a) shall, within 4 weeks after the date of its appointment —
+(a) must, within 4 weeks after the date of its appointment —
 
 (i) determine whether there is a prima facie case for an investigation into the complaint; and
 
 (ii) if it is of the opinion that there is no prima facie case for an investigation into the complaint, determine that no cause of sufficient gravity for disciplinary action exists against the foreign lawyer; and
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (b) may, in any event, invite the complainant to make a complaint of the conduct of the foreign lawyer to either or both of the following:
 
@@ -3117,61 +3211,99 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 (ii) any relevant professional disciplinary body of the state or territory in which the foreign lawyer is duly authorised or registered to practise law.
 
-(9) If a complaints committee is of the opinion that there is a prima facie case for an investigation into a complaint of the conduct of a foreign lawyer who is registered under section 36P —
+(8A) A complaints committee appointed to hear and investigate a complaint of the conduct of a law expert who is registered under section 36PA must, within 4 weeks after the date of its appointment —
 
-(a) the secretary of the complaints committee shall notify in writing the Chief Justice, the Registrar, the complainant and the foreign lawyer of the opinion of the complaints committee;
+(a) determine whether there is a prima facie case for an investigation into the complaint; and
+
+(b) if it is of the opinion that there is no prima facie case for an investigation into the complaint, determine that no cause of sufficient gravity for disciplinary action exists against the law expert.
+
+[Act 22 of 2018 wef 01/11/2018]
+
+(9) If a complaints committee is of the opinion that there is a prima facie case for an investigation into a complaint of the conduct of a foreign lawyer who is registered under section 36P, or the conduct of a law expert who is registered under section 36PA —
+
+(a) the secretary of the complaints committee shall notify in writing the Chief Justice, the Registrar, the complainant and the foreign lawyer or law expert of the opinion of the complaints committee;
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (b) the Registrar shall, within one week after the date on which the Registrar receives the notification under paragraph (a), notify the appointing committee and the instructing authority of the opinion of the complaints committee;
 
-(c) the appointing committee shall, within 3 weeks after the date on which it receives the notification under paragraph (b), appoint a solicitor to conduct the subsequent proceedings before the complaints committee and to frame the charge or charges to be preferred against the foreign lawyer; and
+(c) the appointing committee shall, within 3 weeks after the date on which it receives the notification under paragraph (b), appoint a solicitor to conduct the subsequent proceedings before the complaints committee and to frame the charge or charges to be preferred against the foreign lawyer or law expert; and
 
-(d) the solicitor appointed to conduct those proceedings shall frame the charge or charges preferred against the foreign lawyer, and submit the charge or charges to the complaints committee, within 2 weeks after the date on which the solicitor is appointed, or such longer period as the complaints committee may allow.
+[Act 22 of 2018 wef 01/11/2018]
 
-(10) If a complaints committee is directed by a Judge under section 36T(5) to hear and investigate a complaint of the conduct of a foreign lawyer who is registered under section 36P on the basis that there is a prima facie case for an investigation into the complaint —
+(d) the solicitor appointed to conduct those proceedings shall frame the charge or charges preferred against the foreign lawyer or law expert, and submit the charge or charges to the complaints committee, within 2 weeks after the date on which the solicitor is appointed, or such longer period as the complaints committee may allow.
 
-(a) the Registrar shall notify in writing the Chief Justice, the complaints committee, the appointing committee, the instructing authority, the complainant and the foreign lawyer of the direction of the Judge;
+[Act 22 of 2018 wef 01/11/2018]
 
-(b) the appointing committee shall, within 3 weeks after the date on which it receives the notification under paragraph (a), appoint a solicitor to conduct the subsequent proceedings before the complaints committee and to frame the charge or charges to be preferred against the foreign lawyer; and
+(10) If a complaints committee is directed by a Judge under section 36T(5) to hear and investigate a complaint of the conduct of a foreign lawyer who is registered under section 36P, or the conduct of a law expert who is registered under section 36PA, on the basis that there is a prima facie case for an investigation into the complaint —
 
-(c) the solicitor appointed to conduct those proceedings shall frame the charge or charges preferred against the foreign lawyer, and submit the charge or charges to the complaints committee, within 2 weeks after the date on which the solicitor is appointed, or such longer period as the complaints committee may allow.
+(a) the Registrar shall notify in writing the Chief Justice, the complaints committee, the appointing committee, the instructing authority, the complainant and the foreign lawyer or law expert of the direction of the Judge;
 
-(11) Where subsection (9) or (10) applies, the complaints committee shall give the foreign lawyer a reasonable opportunity to be heard by the complaints committee, and shall, within 16 weeks after the date on which the charge or charges preferred against the foreign lawyer are submitted to the complaints committee —
+[Act 22 of 2018 wef 01/11/2018]
 
-(a) record the complaints committee’s findings in relation to the charge or charges preferred against the foreign lawyer; and
+(b) the appointing committee shall, within 3 weeks after the date on which it receives the notification under paragraph (a), appoint a solicitor to conduct the subsequent proceedings before the complaints committee and to frame the charge or charges to be preferred against the foreign lawyer or law expert; and
+
+[Act 22 of 2018 wef 01/11/2018]
+
+(c) the solicitor appointed to conduct those proceedings shall frame the charge or charges preferred against the foreign lawyer or law expert, and submit the charge or charges to the complaints committee, within 2 weeks after the date on which the solicitor is appointed, or such longer period as the complaints committee may allow.
+
+[Act 22 of 2018 wef 01/11/2018]
+
+(11) Where subsection (9) or (10) applies, the complaints committee shall give the foreign lawyer or law expert a reasonable opportunity to be heard by the complaints committee, and shall, within 16 weeks after the date on which the charge or charges preferred against the foreign lawyer or law expert are submitted to the complaints committee —
+
+(a) record the complaints committee’s findings in relation to the charge or charges preferred against the foreign lawyer or law expert; and
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (b) determine that —
 
-(i) no cause of sufficient gravity for disciplinary action exists against the foreign lawyer;
+(i) no cause of sufficient gravity for disciplinary action exists against the foreign lawyer or law expert;
 
-(ii) while no cause of sufficient gravity for disciplinary action exists against the foreign lawyer, the foreign lawyer should be given a warning, reprimanded or ordered to pay a penalty sufficient and appropriate to the misconduct committed; or
+[Act 22 of 2018 wef 01/11/2018]
 
-(iii) cause of sufficient gravity for disciplinary action exists against the foreign lawyer.
+(ii) while no cause of sufficient gravity for disciplinary action exists against the foreign lawyer or law expert, the foreign lawyer or law expert should be given a warning, reprimanded or ordered to pay a penalty sufficient and appropriate to the misconduct committed; or
+
+[Act 22 of 2018 wef 01/11/2018]
+
+(iii) cause of sufficient gravity for disciplinary action exists against the foreign lawyer or law expert.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (12) The Chief Justice may, on the application of a complaints committee, grant to the complaints committee either or both of the following:
 
-(a) an extension of the period specified in subsection (8)(a) not extending beyond a period of 6 weeks after the date of the appointment of the complaints committee;
+(a) an extension of the period specified in subsection (8)(a) or (8A) not extending beyond a period of 6 weeks after the date of the appointment of the complaints committee;
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (b) an extension of the period specified in subsection (11).
 
-(13) The opinion and determination of a complaints committee under subsection (8)(a)(ii), and the findings and determination of a complaints committee under subsection (11), shall be in the form of a report, of which the secretary of the complaints committee shall —
+(13) The opinion and determination of a complaints committee under subsection (8)(a)(ii) or (8A)(b), and the findings and determination of a complaints committee under subsection (11), shall be in the form of a report, of which the secretary of the complaints committee shall —
 
 (a) submit a copy to each of the Chief Justice and the Registrar; and
 
-(b) supply a copy to each of the complainant, the foreign lawyer concerned and the instructing authority.
+(b) supply a copy to each of the complainant, the foreign lawyer or law expert concerned and the instructing authority.
 
-(14) Where a complaints committee makes a determination under subsection (11)(b)(ii), it may give the foreign lawyer concerned a warning, reprimand the foreign lawyer or order the foreign lawyer to pay a penalty of not more than $20,000.
+[Act 22 of 2018 wef 01/11/2018]
+
+(14) Where a complaints committee makes a determination under subsection (11)(b)(ii), it may give the foreign lawyer or law expert concerned a warning, reprimand the foreign lawyer or law expert, or order the foreign lawyer or law expert to pay a penalty of not more than $20,000.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (15) Where a complaints committee makes a determination under subsection (11)(b)(iii) —
 
 (a) the Registrar shall, within one week after the date on which the Registrar receives a copy of the report submitted under subsection (13)(a), notify the appointing committee in writing of the determination of the complaints committee;
 
-(b) the appointing committee shall, within 3 weeks after the date on which it is notified under paragraph (a) of the determination of the complaints committee, appoint a solicitor to act for the instructing authority in an application under section 36U(1) against the foreign lawyer concerned and to conduct all proceedings relating to the application; and
+(b) the appointing committee shall, within 3 weeks after the date on which it is notified under paragraph (a) of the determination of the complaints committee, appoint a solicitor to act for the instructing authority in an application under section 36U(1) against the foreign lawyer or law expert concerned and to conduct all proceedings relating to the application; and
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (c) the solicitor appointed to act for the instructing authority in the application shall file the application on behalf of the instructing authority within one month after the date on which the solicitor is appointed.
 
 (16) Where a complaints committee makes a determination under subsection (11)(b)(i), (ii) or (iii), the complaints committee may —
 
-(a) make an order for the payment of costs by the complainant or the foreign lawyer concerned; and
+(a) make an order for the payment of costs by the complainant or the foreign lawyer or law expert concerned; and
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (b) in such order, specify the amount of those costs or direct that the amount be taxed by the Registrar.
 
@@ -3193,13 +3325,17 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 (23) A complaints committee may require the complainant to deposit with the Registrar a sum not exceeding $1,000 to cover costs.
 
-(24) A complaints committee may, for the purposes of hearing and investigating a complaint, require the complainant or the foreign lawyer concerned to answer any question or furnish any document that the complaints committee considers relevant.
+(24) A complaints committee may, for the purposes of hearing and investigating a complaint, require the complainant or the foreign lawyer or law expert concerned to answer any question or furnish any document that the complaints committee considers relevant.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (25) For the purposes of any complaint heard and investigated by a complaints committee —
 
 (a) the complaints committee may administer oaths; and
 
-(b) the instructing authority, the foreign lawyer concerned and the secretary of the complaints committee may sue out subpoenas to testify or to produce documents.
+(b) the instructing authority, the foreign lawyer or law expert concerned and the secretary of the complaints committee may sue out subpoenas to testify or to produce documents.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (26) No person shall be compelled under any subpoena referred to in subsection (25)(b) to produce any document which the person could not be compelled to produce at the trial of an action.
 
@@ -3213,13 +3349,19 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 [Act 40 of 2014 wef 01/01/2015]
 
+[Act 22 of 2018 wef 01/11/2018]
+
 ### Application for review of decision of complaints committee
 
-36T\.—(1) Where a complaints committee has made a determination under section 36S(8)(a)(ii) or (11)(b)(i) or (ii), the complainant, the foreign lawyer concerned or the instructing authority may, within 10 weeks after being supplied under section 36S(13)(b) a copy of the report containing the determination, apply to a Judge for a review of that determination.
+36T\.—(1) Where a complaints committee has made a determination under section 36S(8)(a)(ii), (8A)(b) or (11)(b)(i) or (ii), the complainant, the foreign lawyer or law expert concerned or the instructing authority may, within 10 weeks after being supplied under section 36S(13)(b) a copy of the report containing the determination, apply to a Judge for a review of that determination.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (2) Where the instructing authority intends to make an application under subsection (1) —
 
-(a) the instructing authority shall, within 14 days after being supplied under section 36S(13)(b) a copy of the report containing the determination of the complaints committee under section 36S(8)(a)(ii) or (11)(b)(i) or (ii), notify the appointing committee in writing of the intention;
+(a) the instructing authority shall, within 14 days after being supplied under section 36S(13)(b) a copy of the report containing the determination of the complaints committee under section 36S(8)(a)(ii), (8A)(b) or (11)(b)(i) or (ii), notify the appointing committee in writing of the intention;
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (b) the appointing committee shall, within 3 weeks after the date on which it receives the notification under paragraph (a), appoint a solicitor to act for the instructing authority in the application and to conduct all proceedings relating to the application; and
 
@@ -3233,7 +3375,9 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 (i) the complainant, if the complainant is not the applicant;
 
-(ii) the foreign lawyer concerned, if the foreign lawyer is not the applicant;
+(ii) the foreign lawyer or law expert concerned, if the foreign lawyer or law expert is not the applicant;
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (iii) the instructing authority, if the instructing authority is not the applicant; and
 
@@ -3249,7 +3393,9 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 (i) an order —
 
-(A) authorising or directing the instructing authority to make an application under section 36U(1) against the foreign lawyer concerned; and
+(A) authorising or directing the instructing authority to make an application under section 36U(1) against the foreign lawyer or law expert concerned; and
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (B) directing the appointing committee to appoint a solicitor to act for the instructing authority in the application under section 36U(1) and to conduct all proceedings relating to the application;
 
@@ -3273,11 +3419,13 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 
 [Act 40 of 2014 wef 01/01/2015]
 
-### Application for cancellation of registration under section 36P, etc.
+### Application for cancellation of registration under section 36P or 36PA, etc.
 
-36U\.—(1) An application for an order that a foreign lawyer who is registered under section 36P —
+36U\.—(1) An application for an order that a foreign lawyer who is registered under section 36P, or a law expert who is registered under section 36PA —
 
-(a) have his registration under section 36P cancelled or suspended (for such period as the court may think fit);
+(a) have his registration under section 36P or 36PA (as the case may be) cancelled or suspended (for such period as the court may think fit);
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (b) pay a penalty of not more than $100,000;
 
@@ -3286,6 +3434,8 @@ SINGAPORE INTERNATIONAL COMMERCIAL COURT
 (d) suffer the punishment referred to in paragraph (b) in addition to the punishment referred to in paragraph (a) or (c),
 
 shall be made by originating summons.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (2) An application under subsection (1) shall be heard by a court of 3 Judges of the Supreme Court, and there shall be no appeal from the decision of that court.
 
@@ -3301,11 +3451,13 @@ shall be made by originating summons.
 
 (c) may make an order setting aside or varying any order of the complaints committee under section 36S(16);
 
-(d) may direct the Registrar to inform either or both of the following of the decision of the court of 3 Judges:
+(d) may, in the case of a foreign lawyer who is registered under section 36P, direct the Registrar to inform either or both of the following of the decision of the court of 3 Judges:
 
 (i) the foreign authority having the function conferred by law of authorising or registering persons to practise law in the state or territory in which the foreign lawyer is duly authorised or registered to practise law;
 
 (ii) any relevant professional disciplinary body of the state or territory in which the foreign lawyer is duly authorised or registered to practise law; and
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (e) may make such order as to the costs of and incidental to the proceedings under this section as the court of 3 Judges thinks fit.
 
@@ -3313,11 +3465,19 @@ shall be made by originating summons.
 
 (5) Where a foreign lawyer’s registration under section 36P has been cancelled pursuant to an order of the court of 3 Judges —
 
-(a) in any case where the order prohibits the foreign lawyer from reapplying for registration under section 36P until after a date specified in the order, the foreign lawyer shall be prohibited from reapplying for such registration until after that date; or
+(a) in any case where the order prohibits the foreign lawyer from reapplying for registration under section 36P until after a date specified in the order, the foreign lawyer cannot reapply for such registration, and cannot apply as a law expert for registration under section 36PA, until after that date; or
 
-(b) in any other case, the foreign lawyer shall be permanently prohibited from reapplying for registration under section 36P.
+(b) in any other case, the foreign lawyer is permanently prohibited from reapplying for registration under section 36P, and is permanently prohibited from applying as a law expert for registration under section 36PA.
 
-[Act 40 of 2014 wef 01/01/2015]
+[Act 22 of 2018 wef 01/11/2018]
+
+(6) Where a law expert’s registration under section 36PA has been cancelled pursuant to an order of the court of 3 Judges —
+
+(a) in any case where the order prohibits the law expert from reapplying for registration under section 36PA until after a date specified in the order, the law expert cannot reapply for such registration, and cannot apply as a foreign lawyer for registration under section 36P, until after that date; or
+
+(b) in any other case, the law expert is permanently prohibited from reapplying for registration under section 36PA, and is permanently prohibited from applying as a foreign lawyer for registration under section 36P.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 ### Restriction of judicial review
 
@@ -3333,7 +3493,9 @@ shall be made by originating summons.
 
 ### Provisions as to penalties payable under this Part
 
-36W\.—(1) Where the court or a complaints committee has ordered a foreign lawyer to pay a penalty under this Part, the foreign lawyer shall pay the penalty to the Registrar.
+36W\.—(1) Where the court or a complaints committee has ordered a foreign lawyer or law expert to pay a penalty under this Part, the foreign lawyer or law expert shall pay the penalty to the Registrar.
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (2) Any penalty payable under subsection (1) which is not paid may be recoverable by the Government as a judgment debt.
 
@@ -3369,29 +3531,49 @@ shall be made by originating summons.
 
 (b) to prescribe the qualifications, experience and expertise required of a foreign lawyer, and any other requirement, for eligibility to apply for registration under section 36P;
 
+(ba) to prescribe the qualifications, experience and expertise required of a law expert, and any other requirement, for eligibility to apply for registration under section 36PA;
+
+[Act 22 of 2018 wef 01/11/2018]
+
 (c) to provide, without prejudice to the generality of section 36P, for the making of any application for registration under that section, or for the renewal of any such registration, and for all other related matters;
+
+(ca) to provide, without prejudice to the generality of section 36PA, for the making of any application for registration under that section, or for the renewal of any such registration, and for all other related matters;
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (d) to provide for —
 
 (i) the payment of fees (including administrative fees and processing fees) and other charges for —
 
-(A) any application for or renewal of any registration under section 36P; and
+(A) any application for or renewal of any registration under section 36P or 36PA; and
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (B) any matter related or incidental to any such application or renewal; and
 
 (ii) all other related matters;
 
-(e) to provide for the cancellation, suspension or lapsing of any registration under section 36P;
+(e) to provide for the cancellation, suspension or lapsing of any registration under section 36P or 36PA;
 
-(f) to require the submission of information and particulars relating to any foreign lawyer registered under section 36P;
+[Act 22 of 2018 wef 01/11/2018]
 
-(g) to provide for the form and manner in which the register of foreign lawyers registered under section 36P is to be kept;
+(f) to require the submission of information and particulars relating to any foreign lawyer registered under section 36P or law expert registered under section 36PA;
+
+[Act 22 of 2018 wef 01/11/2018]
+
+(g) to provide for the form and manner in which the register of foreign lawyers registered under section 36P and law experts registered under section 36PA is to be kept;
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (h) to provide for the issuance and amendment of certificates of registration and certified true copies of such certificates, and for the payment of fees in relation to such certificates;
 
-(i) for regulating foreign lawyers registered under section 36P;
+(i) for regulating foreign lawyers registered under section 36P and law experts registered under section 36PA;
 
-(j) for regulating the professional practice, etiquette and conduct of foreign lawyers registered under section 36P;
+[Act 22 of 2018 wef 01/11/2018]
+
+(j) for regulating the professional practice, etiquette and conduct of foreign lawyers registered under section 36P and law experts registered under section 36PA;
+
+[Act 22 of 2018 wef 01/11/2018]
 
 (k) for regulating the hearing and investigation of a complaint by a complaints committee;
 
@@ -9222,6 +9404,7 @@ This Legislative History is provided for the convenience of users of the Legal P
 ||Dates of commencement|18 April 2018|
 |||1 August 2018|
 |||1 October 2018|
+|||1 November 2018|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
