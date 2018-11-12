@@ -182,6 +182,8 @@
 
 - [14W Deduction for expenditure on licensing intellectual property rights](#Deduction-for-expenditure-on-licensing-intellectual-property-rights)
 
+- [14WA Enhanced deduction for expenditure on licensing intellectual property rights](#Enhanced-deduction-for-expenditure-on-licensing-intellectual-property-rights)
+
 - [14X Deduction for expenditure incurred to comply with statutory and regulatory requirements](#Deduction-for-expenditure-incurred-to-comply-with-statutory-and-regulatory-requirements)
 
 - [14Y Deduction for expenditure incurred by individual in deriving passive rental income in Singapore](#Deduction-for-expenditure-incurred-by-individual-in-deriving-passive-rental-income-in-Singapore)
@@ -191,6 +193,8 @@
 - [14ZA Further or double deduction for qualifying expenditure on issue of debentures and making available debentures for secondary trading](#Further-or-double-deduction-for-qualifying-expenditure-on-issue-of-debentures-and-making-available-debentures-for-secondary-trading)
 
 - [14ZB Deduction for expenditure for services or secondment to institutions of a public character](#Deduction-for-expenditure-for-services-or-secondment-to-institutions-of-a-public-character)
+
+- [14ZC Deduction for expenditure incurred in deriving income from driving chauffeured private hire car or taxi](#Deduction-for-expenditure-incurred-in-deriving-income-from-driving-chauffeured-private-hire-car-or-taxi)
 
 - [15 Deductions not allowed](#Deductions-not-allowed)
 
@@ -256,7 +260,9 @@
 
 - [34A Adjustment on change of basis of computing profits of financial instruments resulting from FRS 39 or SFRS for Small Entities](#Adjustment-on-change-of-basis-of-computing-profits-of-financial-instruments-resulting-from-FRS-39-or-SFRS-for-Small-Entities)
 
-- [34AA Adjustment on change of basis of computing profits of financial instruments resulting from FRS 109](#Adjustment-on-change-of-basis-of-computing-profits-of-financial-instruments-resulting-from-FRS-109)
+- [34AA Adjustment on change of basis of computing profits of financial instruments resulting from FRS 109 or SFRS(I) 9](#Adjustment-on-change-of-basis-of-computing-profits-of-financial-instruments-resulting-from-FRS-109-or-SFRSI-9)
+
+- [34AB Chargeability of profit or loss from foreign exchange differences](#Chargeability-of-profit-or-loss-from-foreign-exchange-differences)
 
 - [34B Islamic financing arrangements](#Islamic-financing-arrangements)
 
@@ -462,7 +468,7 @@
 
 - [46 Tax deducted from interests, etc.](#Tax-deducted-from-interests-etc)
 
-- [47 Special allowance for interest received as trading receipts](#Special-allowance-for-interest-received-as-trading-receipts)
+- [47 (Repealed)](#Repealed)
 
 [**Part XIV RELIEF AGAINST DOUBLE TAXATION**](#Part-XIV)
 
@@ -529,6 +535,18 @@
 - [65D Section 65B notice applies notwithstanding duty of secrecy under Banking Act or Trust Companies Act](#Section-65B-notice-applies-notwithstanding-duty-of-secrecy-under-Banking-Act-or-Trust-Companies-Act)
 
 - [65E Section 65B notice may be subject to confidentiality duty](#Section-65B-notice-may-be-subject-to-confidentiality-duty)
+
+- [65F Arrest of person](#Arrest-of-person)
+
+- [65G No unnecessary restraint](#No-unnecessary-restraint)
+
+- [65H Arresting officer to be armed](#Arresting-officer-to-be-armed)
+
+- [65I Search of place entered by person sought to be arrested](#Search-of-place-entered-by-person-sought-to-be-arrested)
+
+- [65J Arrested person may be orally examined](#Arrested-person-may-be-orally-examined)
+
+- [65K Disposal of item furnished or seized](#Disposal-of-item-furnished-or-seized)
 
 - [66 Returns to be deemed to be furnished by due authority](#Returns-to-be-deemed-to-be-furnished-by-due-authority)
 
@@ -610,6 +628,8 @@
 
 - [92G Remission of tax of companies for year of assessment 2018](#Remission-of-tax-of-companies-for-year-of-assessment-2018)
 
+- [92H Remission of tax of companies for year of assessment 2019](#Remission-of-tax-of-companies-for-year-of-assessment-2019)
+
 - [93 Repayment of tax](#Repayment-of-tax)
 
 - [93A Relief in respect of error or mistake](#Relief-in-respect-of-error-or-mistake)
@@ -628,7 +648,7 @@
 
 - [97 Penalties for offences by authorised and unauthorised persons](#Penalties-for-offences-by-authorised-and-unauthorised-persons)
 
-- [98 Penalty for obstructing officers](#Penalty-for-obstructing-officers)
+- [98 Penalty for obstructing Comptroller or officers](#Penalty-for-obstructing-Comptroller-or-officers)
 
 - [99 Tax to be payable notwithstanding any proceedings for penalties](#Tax-to-be-payable-notwithstanding-any-proceedings-for-penalties)
 
@@ -706,7 +726,7 @@
 
 [**THIRD SCHEDULE Repealed**](#THIRD-SCHEDULE-Repealed)
 
-[**FOURTH SCHEDULE Name of bond, securities, stock or fund**](#FOURTH-SCHEDULE-Name-of-bond-securities-stock-or-fund)
+[**FOURTH SCHEDULE Repealed**](#FOURTH-SCHEDULE-Repealed)
 
 [**FIFTH SCHEDULE Child relief**](#FIFTH-SCHEDULE-Child-relief)
 
@@ -894,6 +914,14 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 “prescribed minimum retirement age” has the same meaning as in the Retirement and Re-employment Act (Cap. 274A);
 
+“private hire car” means a motor car —
+
+(a) that is used as a private hire car within the meaning of the Road Traffic Act (Cap. 276); and
+
+(b) in respect of which a licence is issued under Part V of that Act for such use;
+
+[Act 45 of 2018 wef 12/11/2018]
+
 “professional visit pass” means a professional visit pass issued by the Controller of Immigration under the Immigration Regulations (Cap. 133, Rg 1);
 
 “replanting” means the replacement of the crop of any product on any area of land by the planting on the same area —
@@ -927,6 +955,10 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 (a) in relation to an individual, means a person who, in the year preceding the year of assessment, resides in Singapore except for such temporary absences therefrom as may be reasonable and not inconsistent with a claim by such person to be resident in Singapore, and includes a person who is physically present or who exercises an employment (other than as a director of a company) in Singapore for 183 days or more during the year preceding the year of assessment; and
 
 (b) in relation to a company or body of persons, means a company or body of persons the control and management of whose business is exercised in Singapore;
+
+“specially authorised officer” means an officer authorised under section 4(5) to exercise the powers mentioned in that provision;
+
+[Act 45 of 2018 wef 12/11/2018]
 
 “SRS account” means an account opened with an SRS operator by an SRS member;
 
@@ -987,6 +1019,10 @@ ADMINISTRATION
 (3) The Comptroller shall be responsible for the assessment and collection of tax and shall pay all amounts collected in respect thereof into the Consolidated Fund.
 
 (4) The Comptroller may specify the form of any return, claim, statement or notice to be made or given under this Act.
+
+(5) The Comptroller may further authorise a person authorised under subsection (1) to investigate offences under this Act, to exercise any power in sections 65B(1A), (1B), (1C) and (1D), 65F, 65G, 65H and 65I.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 ### Approved pension or provident fund or society
 
@@ -1050,23 +1086,25 @@ shall be guilty of an offence.
 
 [16/2004]
 
-(10B) Notwithstanding anything in this section, the Comptroller may furnish to any person specified in subsection (10C) any information —
+(10B) Despite anything in this section, the Comptroller may furnish to the head of a law enforcement agency any information —
 
-(a) which may be required for the purpose of investigating or prosecuting a person for an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A), the predicate offence of which is an offence under this Act; or
+(a) that may be required by the law enforcement agency for the purpose of an investigation or prosecution of a person for an offence specified in the First or Second Schedule to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A); or
 
-(b) which the Comptroller has reasonable grounds to suspect affords evidence of the commission of an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the predicate offence of which is an offence under this Act,
+(b) that the Comptroller has reasonable grounds to suspect affords evidence of the commission of such an offence.
 
-and the specified person and persons under his command shall not further disclose such information except for the purpose of any investigation or prosecution referred to in paragraph (a).
+[Act 45 of 2018 wef 12/11/2018]
 
-[21/2013]
+(10C) The following persons, namely:
 
-(10C) The persons specified for the purposes of subsection (10B) are as follows:
+(a) the head of a law enforcement agency to whom any information is furnished under subsection (10B) for the purpose mentioned in subsection (10B)(a);
 
-(a) the Commissioner of Police;
+(b) any person under the command of the head of the law enforcement agency;
 
-(b) the Director of the Commercial Affairs Department.
+(c) any person to whom information is disclosed in compliance with this subsection,
 
-[21/2013]
+must not disclose to any other person such information except where it is necessary for that same purpose, and any person in paragraph (a), (b) or (c) who contravenes this subsection shall be guilty of an offence.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (11) Notwithstanding anything in this section, the Comptroller may lay a complaint of professional misconduct against any person in his professional dealings with the Comptroller to the appropriate authority empowered to take disciplinary action against the person and may in connection with the complaint furnish any relevant documents or information.
 
@@ -1097,6 +1135,34 @@ any information required for the performance of the official duties of the chief
 (13) Notwithstanding anything in this section, the Comptroller may furnish to the Government or any statutory board for any statistical or research purpose any information relating to any person in a manner that does not identify, and is not reasonably capable of being used to identify, that person.
 
 [53/2007]
+
+(14) In this section —
+
+“head of a law enforcement agency” means —
+
+(a) in relation to the Singapore Police Force, the Commissioner of Police;
+
+(b) in relation to the Commercial Affairs Department, the Director;
+
+(c) in relation to the Central Narcotics Bureau, the Director;
+
+(d) in relation to the Corrupt Practices Investigation Bureau, the Director; and
+
+(e) in relation to any other law enforcement agency, its head or equivalent;
+
+“law enforcement agency” means —
+
+(a) the Singapore Police Force;
+
+(b) the Commercial Affairs Department;
+
+(c) the Central Narcotics Bureau;
+
+(d) the Corrupt Practices Investigation Bureau; and
+
+(e) any other department of the Government charged with the responsibility of investigating any offence specified in the First or Second Schedule to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 ### Rules
 
@@ -1394,15 +1460,49 @@ IMPOSITION OF INCOME TAX
 
 (iii) where the premises are shared, “place of residence” means the part of the premises occupied by the person chargeable;
 
-(ca) for the year of assessment 2015 and subsequent years of assessment, the annual value of any place of residence provided by the employer (or the part thereof occupied by the employee if the premises are shared with another) less the rent (if any) paid by the employee for the use of the premises;
+(ca) for any year of assessment between the years of assessment 2015 and 2019 (both years inclusive), the annual value of any place of residence provided by the employer (or the part thereof occupied by the employee if the premises are shared with another) less the rent (if any) paid by the employee for the use of the premises;
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(cb) for the year of assessment 2020 and subsequent years of assessment, either —
+
+(i) the rent paid by the employer for any place of residence provided by the employer (or the part of such place of residence occupied by the employee if the premises are shared with another), including for any furniture and fittings in that place or part; or
+
+(ii) if no such rent is paid, the annual value of such place or part, less any rent paid by the employee for the place or part;
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (d) any sum standing to the account of any individual in any pension or provident fund or society which the individual is entitled to withdraw upon retirement or which is withdrawn therefrom.
 
 [26/73; 26/93; 28/96; 49/2004; 19/2013]
 
-(2A) For the purposes of subsection (2)(ca), in a case where no annual value or separate annual value is ascribed to any place of residence in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254), the annual value shall be ascertained in accordance with the definition of that term in section 2 of that Act.
+(2A) For the purposes of subsection (2)(ca) and (cb)(ii), in a case where no annual value or separate annual value is ascribed to any place of residence in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254), the annual value shall be ascertained in accordance with the definition of that term in section 2 of that Act.
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2AA) Where the Comptroller is not satisfied that the rent mentioned in subsection (2)(cb)(i) is reasonable after having regard to the rent that a lessee might reasonably be expected to pay under a lease of the place or part (including the furniture and fittings) if it were unoccupied and offered for renting, the Comptroller may adopt either —
+
+(a) the annual value of the place of residence provided by the employer (or the part of such place of residence occupied by the employee if the premises are shared with another), less any rent paid by the employee for the place or part; or
+
+(b) in a case where no annual value or separate annual value is ascribed to such place of residence in the Valuation List prepared under section 10 of the Property Tax Act, such other value as appears to the Comptroller to be reasonable in the circumstances.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2AB) In a case where —
+
+(a) subsection (2)(cb)(i) applies; and
+
+(b) the rent paid by the employer under that provision includes rent for any furniture and fittings in the place or part,
+
+then, despite subsection (2)(a), no further account is to be taken of those furniture and fittings in determining the gains or profits of the employee from the employment.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2AC) However (and to avoid doubt), subsection (2AB) does not apply in a case where the Comptroller exercises his power under subsection (2AA).
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (2B) For the purposes of subsection (2), the Minister may, for the purposes of such year of assessment as he may specify, by regulations prescribe the value of any furniture and fittings in any place of residence.
 
@@ -1732,25 +1832,31 @@ where the fees and compensatory payments are derived on or after the date of com
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018 (both dates inclusive);
+(ii) qualifying debt securities issued during the period from 17th February 2006 to 31st December 2023 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (g) gains or profits derived on or after 27th February 2004 from the disposal of debentures, stocks, shares, bonds or notes issued by supranational bodies;
 
-(h) prepayment fee, redemption premium and break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018 (both dates inclusive); and
+(h) prepayment fee, redemption premium and break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2023 (both dates inclusive); and
 
 [Act 37 of 2014 wef 27/11/2014]
 
+[Act 45 of 2018 wef 12/11/2018]
+
 (i) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
-which do not form part of the statutory income of the designated unit trust by virtue of section 35(12A) shall be deemed to be income of the unit holder if he is not a foreign investor.
+which do not form part of the statutory income of the designated unit trust by virtue of section 35(12) shall be deemed to be income of the unit holder if he is not a foreign investor.
 
 [49/2004; 11/2005; 7/2007; 53/2007; 34/2008; 11/2013; 19/2013]
 
 [Act 37 of 2014 wef 01/09/2014]
 
 [Act 2 of 2016 wef 01/06/2015]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (20B) If —
 
@@ -2156,6 +2262,14 @@ whichever is less;
 
 [1/98; 37/2002; 49/2004; 34/2005; 53/2007]
 
+(2A) The income of a lessor during any basis period from the finance leasing of any machinery or plant that is treated as sold by the lessor to the lessee pursuant to regulations made under subsection (1), is determined by the formula A – B, where —
+
+(a) A is the total of all payments liable to be made during the basis period by the lessee to the lessor under the finance lease; and
+
+(b) B is that part of those payments that is attributable to the repayment of principal.
+
+[Act 45 of 2018 wef 12/11/2018]
+
 (3) In this section —
 
 “finance lease” means a lease of any machinery or plant (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such machinery or plant to the lessee;
@@ -2208,7 +2322,9 @@ whichever is less;
 
 (a) a contract is entered into on or after 29th December 2009 between the Government or any approved statutory body and any person under a public-private partnership arrangement; and
 
-(b) the contract is or contains a finance lease recognised as such by the lessor in accordance with FRS 17 read with INT FRS 104, the Government or the approved statutory body being the lessee and the person being the lessor,
+(b) the contract is or contains a finance lease recognised as such by the lessor in accordance with FRS 17 read with INT FRS 104, FRS 116, SFRS(I) 1-17 read with SFRS(I) INT 4, or SFRS(I) 16, the Government or the approved statutory body being the lessee and the person being the lessor,
+
+[Act 45 of 2018 wef 12/11/2018]
 
 then —
 
@@ -2224,25 +2340,33 @@ then —
 
 (i) that is the subject of a contract entered into between him and the Government or any approved statutory body; and
 
-(ii) to which INT FRS 112 applies; and
+(ii) to which INT FRS 112 or SFRS(I) INT 12 applies; and
 
-(b) the person recognises in his financial statements, prepared in accordance with INT FRS 112, that income of a certain amount has been derived from such services,
+[Act 45 of 2018 wef 12/11/2018]
+
+(b) the person recognises in his financial statements, prepared in accordance with INT FRS 112 or SFRS(I) INT 12 (as the case may be), that income of a certain amount has been derived from such services,
 
 then that amount shall be deemed as income derived by that person from those services for that basis period.
 
 [19/2013]
 
-(1B) Notwithstanding subsection (1A), the person referred to in that subsection may elect in accordance with subsection (1D) for the Comptroller to assess to tax any deemed income referred to in subsection (1A) from providing any FRS 11 construction or upgrade services, or FRS 115 construction or upgrade services, under the public-private partnership arrangement, as income derived by him in the basis period in which those services are completed.
+[Act 45 of 2018 wef 12/11/2018]
+
+(1B) Notwithstanding subsection (1A), the person referred to in that subsection may elect in accordance with subsection (1D) for the Comptroller to assess to tax any deemed income referred to in subsection (1A) from providing any FRS 11 construction or upgrade services, FRS 115 construction or upgrade services, or SFRS(I) 15 construction or upgrade services, under the public-private partnership arrangement, as income derived by him in the basis period in which those services are completed.
 
 [Act 39 of 2017 wef 26/10/2017]
 
 [19/2013]
 
+[Act 32 of 2019 wef 12/11/2018]
+
 (1C) Where an election has been made in accordance with subsection (1D), then, notwithstanding any other provision of this Act —
 
-(a) the income referred to in subsection (1B) shall be deemed as income derived by the person in the basis period in which the FRS 11 construction or upgrade services, or FRS 115 construction or upgrade services (as the case may be) are completed; and
+(a) the income referred to in subsection (1B) shall be deemed as income derived by the person in the basis period in which the FRS 11 construction or upgrade services, FRS 115 construction or upgrade services, or SFRS(I) 15 construction or upgrade services (as the case may be) are completed; and
 
 [Act 39 of 2017 wef 26/10/2017]
+
+[Act 32 of 2019 wef 12/11/2018]
 
 (b) any expenditure for which a deduction or an allowance may be allowed or made to him under Parts V and VI in respect of those services shall be treated as having been incurred in that basis period.
 
@@ -2250,9 +2374,11 @@ then that amount shall be deemed as income derived by that person from those ser
 
 (1D) The election shall be made by notice in writing to the Comptroller —
 
-(a) at the time of lodgment of the return of income for the year of assessment relating to the basis period in which the person first provides the FRS 11 construction or upgrade services, or FRS 115 construction or upgrade services (as the case may be), being the year of assessment 2012 or any subsequent year of assessment; or
+(a) at the time of lodgment of the return of income for the year of assessment relating to the basis period in which the person first provides the FRS 11 construction or upgrade services, FRS 115 construction or upgrade services, or SFRS(I) 15 construction or upgrade services (as the case may be), being the year of assessment 2012 or any subsequent year of assessment; or
 
 [Act 39 of 2017 wef 26/10/2017]
+
+[Act 32 of 2019 wef 12/11/2018]
 
 (b) at such later time as the Comptroller may allow.
 
@@ -2270,7 +2396,7 @@ then that amount shall be deemed as income derived by that person from those ser
 
 “FRS 115 construction or upgrade services” means any construction or upgrade services (as the case may be) to which FRS 115 applies;
 
-“FRS 11”, “FRS 17”, “FRS 115”, “INT FRS 104” and “INT FRS 112” mean the financial reporting standards issued by the Accounting Standards Council under the Accounting Standards Act (Cap. 2B) and known, respectively, as —
+“FRS 11”, “FRS 17”, “FRS 115”, “FRS 116”, “INT FRS 104”, “INT FRS 112”, “SFRS(I) 1‑17”, “SFRS(I) 15”, “SFRS(I) 16”, “SFRS(I) INT 4” and “SFRS(I) INT 12” mean the financial reporting standards known respectively as —
 
 (a) Financial Reporting Standard 11 (Construction Contracts);
 
@@ -2278,13 +2404,29 @@ then that amount shall be deemed as income derived by that person from those ser
 
 (c) Financial Reporting Standard 115 (Revenue from Contracts with Customers);
 
-(d) Interpretation of Financial Reporting Standard 104 (Determining whether an arrangement contains a lease); and
+(d) Financial Reporting Standard 116 (Leases);
 
-(e) Interpretation of Financial Reporting Standard 112 (Service Concession Arrangements).
+(e) Interpretation of Financial Reporting Standard 104 (Determining whether an Arrangement contains a Lease);
 
-[Act 39 of 2017 wef 26/10/2017]
+(f) Interpretation of Financial Reporting Standard 112 (Service Concession Arrangements);
 
-[27/2009; 19/2013]
+(g) Singapore Financial Reporting Standard (International) 1‑17 (Leases);
+
+(h) Singapore Financial Reporting Standard (International) 15 (Revenue from Contracts with Customers);
+
+(i) Singapore Financial Reporting Standard (International) 16 (Leases);
+
+(j) Singapore Financial Reporting Standard (International) Interpretation 4 (Determining whether an Arrangement contains a Lease); and
+
+(k) Singapore Financial Reporting Standard (International) Interpretation 12 (Service Concession Arrangements),
+
+that are made by the Accounting Standards Council under Part III of the Accounting Standards Act (Cap. 2B), as amended from time to time;
+
+[Act 32 of 2019 wef 12/11/2018]
+
+“SFRS(I) 15 construction or upgrade services” means any construction or upgrade services (as the case may be) to which SFRS(I) 15 applies.
+
+[Act 32 of 2019 wef 12/11/2018]
 
 10G\. [Repealed by Act 37 of 2002]
 
@@ -2852,6 +2994,10 @@ and any ship or aircraft owned or chartered by him calls at a port, an aerodrome
 
 [5/77]
 
+(6AA) To avoid doubt, the reference to interest in subsection (6) is, in the case of an arrangement that is a finance lease of any machinery or plant that is treated as sold by the lessor to the lessee pursuant to regulations made under section 10D(1), a reference to the part of any payment by the lessee that is income of the lessor under section 10D(2A).
+
+[Act 45 of 2018 wef 12/11/2018]
+
 (6A) Subsection (6) shall not apply to any payment for —
 
 (a) any arrangement, management or service relating to any loan or indebtedness, where such arrangement, management or service is performed outside Singapore for or on behalf of a person resident in Singapore or a permanent establishment in Singapore by a non-resident person who —
@@ -2891,6 +3037,10 @@ and any ship or aircraft owned or chartered by him calls at a port, an aerodrome
 which are borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore) or which are deductible against any income accruing in or derived from Singapore.
 
 [5/77]
+
+(7AA) Any payment by the lessee to the lessor under a finance lease of any machinery or plant that is not treated as sold by the lessor to the lessee pursuant to regulations made under section 10D(1), is treated as a payment under an agreement or arrangement for the use of movable property under subsection (7)(d).
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (7A) Subsection (7) shall not apply to any payment for —
 
@@ -2954,6 +3104,10 @@ which are borne, directly or indirectly, by a person resident in Singapore or a 
 
 [36/2012]
 
+(10) In this section, “finance lease” has the same meaning as in section 10D.
+
+[Act 45 of 2018 wef 12/11/2018]
+
 ## PART IV
 
 EXEMPTION FROM INCOME TAX
@@ -2964,13 +3118,17 @@ EXEMPTION FROM INCOME TAX
 
 (a) subject to subsection (2) and such conditions as may be prescribed by regulations, the interest derived from —
 
-(i) any qualifying debt securities issued during the period from 28th February 1998 to 31st December 2018 (both dates inclusive) by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
+(i) any qualifying debt securities issued during the period from 28th February 1998 to 31st December 2023 (both dates inclusive) by any person who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2018 (both dates inclusive) by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
+[Act 45 of 2018 wef 12/11/2018]
+
+(ii) any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2023 (both dates inclusive) by any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (aa) subject to subsection (2A) and such conditions as may be prescribed by regulations, the discount from any qualifying debt securities —
 
@@ -2978,9 +3136,11 @@ EXEMPTION FROM INCOME TAX
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ii) issued during the period from 17th February 2006 to 31st December 2018 (both dates inclusive),
+(ii) issued during the period from 17th February 2006 to 31st December 2023 (both dates inclusive),
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 by —
 
@@ -2988,13 +3148,15 @@ by —
 
 (B) any person who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
-(ab) subject to subsection (2B) and such conditions as may be prescribed by regulations, any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018 (both dates inclusive), to any person —
+(ab) subject to subsection (2B) and such conditions as may be prescribed by regulations, any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2023 (both dates inclusive), to any person —
 
 (i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
 (ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (b) subject to subsections (2C) and (2D) and such conditions as may be prescribed by regulations —
 
@@ -3012,13 +3174,15 @@ by —
 
 (iii) such other income derived by any person that is directly attributable to qualifying project debt securities issued on or after a prescribed date, as may be prescribed by regulations;
 
-(ba) subject to subsection (2F) and such conditions as may be prescribed by regulations, the prepayment fee, redemption premium and break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018 (both dates inclusive) that is derived by any person —
+(ba) subject to subsection (2F) and such conditions as may be prescribed by regulations, the prepayment fee, redemption premium and break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2023 (both dates inclusive) that is derived by any person —
 
 (i) who is not resident in Singapore and who does not have any permanent establishment in Singapore; and
 
 (ii) who is not resident in Singapore and who carries on any operation in Singapore through a permanent establishment in Singapore where the funds used by that person to acquire the qualifying debt securities are not obtained from the operation;
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (bb) subject to subsection (2G) and such conditions as may be prescribed by regulations, such other income directly attributable to qualifying debt securities issued on or after a prescribed date as may be prescribed by regulations, that is derived by any person —
 
@@ -3194,11 +3358,13 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 (ua) [Deleted by Act 34 of 2016 wef 29/12/2016]
 
-(v) the interest received from such Asian Dollar Bonds as may be approved in writing by the Minister or such person as he may appoint if the interest is received by —
+(v) the interest received from such Asian Dollar Bonds issued on or before 31 December 2018 as may be approved in writing by the Minister or such person as he may appoint if the interest is received by —
 
 (i) a non-resident individual; and
 
 (ii) a person, other than an individual, if that person does not, by himself or in association with others, carry on a business in Singapore and does not have a permanent establishment in Singapore;
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (w) the income derived from an employment exercised on board a Singapore ship, as defined in the Merchant Shipping Act (Cap. 179), if the employment is exercised substantially outside Singapore;
 
@@ -3300,19 +3466,35 @@ except where such income is derived through a partnership in Singapore or is der
 
 [Act 45 of 2018 wef 01/07/2018]
 
-(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards; and
+(zr) any contribution by the Government to the PSE account, or an account in the Central Provident Fund, of an individual who is or was a national serviceman, as part of the National Service Housing, Medical and Education Awards;
 
 [Act 39 of 2017 wef 01/04/2014]
 
 [Act 45 of 2018 wef 01/07/2018]
 
-(zs) any distribution made to an individual during the period from 1 July 2018 to 31 March 2020 (both dates inclusive) by a trustee of an approved REIT exchange-traded fund, out of a distribution from a real estate investment trust that is in turn made out of income of the kinds mentioned in section 43(2A)(a)(i), (ii), (iii), (iv) and (v), but not where the firstmentioned distribution is derived by the individual as a partner in a partnership which is in Singapore or is derived from the carrying on of a trade, business or profession.
-
-[Act 45 of 2018 wef 01/07/2018]
+[Act 45 of 2018 wef 12/11/2018]
 
 [26/73; 4/75; 5/77; 1/82; 15/83; 13/84; 3/89; 2/92; 28/92; 26/93; 11/94; 32/95; 1/98; 31/98; 37/98; 32/99; 24/2000; 24/2001; 37/2002; 21/2003; 49/2004; 8/2005; 34/2005; 7/2007; 53/2007; 34/2008; 27/2009; 29/2010; 22/2011; 29/2012; 19/2013]
 
-(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018 (both dates inclusive) where 50% or more of those securities which are outstanding at any time during the life of the issue is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities and where such interest is derived by —
+(zs) any distribution made to an individual during the period from 1 July 2018 to 31 March 2020 (both dates inclusive) by a trustee of an approved REIT exchange-traded fund, out of a distribution from a real estate investment trust that is in turn made out of income of the kinds mentioned in section 43(2A)(a)(i), (ii), (iii), (iv) and (v), but not where the firstmentioned distribution is derived by the individual as a partner in a partnership which is in Singapore or is derived from the carrying on of a trade, business or profession; and
+
+[Act 45 of 2018 wef 01/07/2018]
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(zt) subject to subsection (2J), income of an entity (called in this section a sovereign risk pooling entity) that is established and operated for the sole object of insuring against risks faced by one or more governments (called in this section the insured governments) that arise directly or indirectly from a disaster (whether natural or man-made), subject to the following conditions:
+
+(i) the sovereign risk pooling entity is not established or operated for the object of deriving a profit and its income and capital may only be applied towards its sole object;
+
+(ii) its capital is provided only by governments, entities wholly-owned by governments, and organisations that are not established or operated for the object of deriving a profit;
+
+(iii) a government (not being an insured government) or an entity or organisation mentioned in sub-paragraph (ii) does not enjoy any risk coverage or receive any benefit in any form (including dividends) from the sovereign risk pooling entity;
+
+(iv) benefits of any insurance provided by the sovereign risk pooling entity, as well as any distribution of the entity’s property if it ceases operation, accrue only to the insured governments.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2) Subsection (1)(a) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2023 (both dates inclusive) where 50% or more of those securities which are outstanding at any time during the life of the issue is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities and where such interest is derived by —
 
 (a) any related party of the issuer of those securities; or
 
@@ -3321,6 +3503,8 @@ except where such income is derived through a partnership in Singapore or is der
 [32/99; 21/2003; 34/2008; 19/2013]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (2A) Subsection (1)(aa) shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to any discount derived from any qualifying debt securities where 50% or more of those securities which are outstanding at any time during the life of the issue is beneficially held or funded, directly or indirectly, by related parties of the issuer of those securities and where such discount is derived by —
 
@@ -3457,6 +3641,14 @@ that is derived on or after the date on which the tenure of any portion of those
 [34/2008]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+(2J) Despite any other provisions of this Act, in determining for any year of assessment the income of a sovereign risk pooling entity whose income is exempt under subsection (1)(zt) —
+
+(a) any outgoings and expenses incurred by the entity in the production of its income for any year of assessment, and allowable under this Act, may only be deducted against its income for that year of assessment, and any excess of such outgoings and expenses over the income must be disregarded; and
+
+(b) the allowances under sections 19, 19A, 20, 21 and 22 relating to the production of its income for a year of assessment may only be deducted against that income, and any excess of such allowances over the income must be disregarded.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (3) Nothing in subsection (1) shall be construed to exempt in the hands of the recipients any dividends, interest, bonuses, salaries or wages paid wholly or in part out of income so exempted.
 
@@ -3624,11 +3816,7 @@ applies on or after that date (and despite anything in the order) only to income
 
 “deposit” means —
 
-(a) in relation to any standard savings, current or fixed deposit account referred to in subsection (1)(zc), any deposit of moneys, but does not include —
-
-(i) any deposit of moneys the interest from which is determined by the performance of any securities or by the fluctuations in currency exchange rates or by any combination thereof; or
-
-(ii) any other prescribed deposit; or
+(a) [Deleted by Act 45 of 2018 wef 12/11/2018]
 
 (b) in relation to any deposit of moneys referred to in subsection (1)(t), (ta) or (zd) which is made on or after 7th October 2004 and which matures on or after 2nd June 2005, a deposit which falls within the meaning of deposit in section 4B of the Banking Act and is treated as such by the Monetary Authority of Singapore for the purposes of that section;
 
@@ -3656,9 +3844,11 @@ applies on or after that date (and despite anything in the order) only to income
 
 “qualifying debt securities” means —
 
-(a) Singapore Government securities issued during the period from 28th February 1998 to 31st December 2018 (both dates inclusive);
+(a) Singapore Government securities issued during the period from 28th February 1998 to 31st December 2023 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (b) bonds, notes, commercial papers, certificates of deposits and AT1 instruments within the meaning of section 10O(2), which are arranged in accordance with regulations made for this purpose —
 
@@ -3668,9 +3858,11 @@ applies on or after that date (and despite anything in the order) only to income
 
 (ii) by any approved bond intermediary and issued —
 
-(A) during the period from 27th February 1999 to 31st December 2018 (both dates inclusive) under any prescribed programme the arrangement of which is completed on or before 31st December 2003; or
+(A) during the period from 27th February 1999 to 31st December 2023 (both dates inclusive) under any prescribed programme the arrangement of which is completed on or before 31st December 2003; or
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (B) during the period from 27th February 1999 to 31st December 2003 (both dates inclusive) in any other case;
 
@@ -3680,11 +3872,13 @@ applies on or after that date (and despite anything in the order) only to income
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(iv) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2018 (both dates inclusive);
+(iv) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2023 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
 
 [Act 37 of 2014 wef Y/A 2015 and sub Ys/A]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (c) Islamic debt securities which are arranged in accordance with regulations made for this purpose —
 
@@ -3696,9 +3890,11 @@ applies on or after that date (and despite anything in the order) only to income
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(iii) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2018 (both dates inclusive),
+(iii) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2023 (both dates inclusive),
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 but, unless otherwise approved by the Minister or such person as he may appoint, excludes any debt securities issued on or after 10th May 1999 and any Islamic debt securities issued on or after 1st January 2005 which, during its primary launch —
 
@@ -5468,9 +5664,11 @@ as the Minister may by regulations prescribe.
 
 ### Exemption of income derived from asset securitisation transaction
 
-13P\.—(1) There shall be exempt from tax, subject to such conditions as may be prescribed by regulations, income derived by an approved securitisation company resident in Singapore from asset securitisation transaction entered into during the period from 27th February 2004 to 31st December 2018 (both dates inclusive).
+13P\.—(1) There shall be exempt from tax, subject to such conditions as may be prescribed by regulations, income derived by an approved securitisation company resident in Singapore from asset securitisation transaction entered into during the period from 27th February 2004 to 31st December 2023 (both dates inclusive).
 
 [34/2005; 34/2008; 19/2013]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (2) Regulations made under subsection (1) may provide for the deduction of expenses, allowances and losses of an approved securitisation company otherwise than in accordance with this Act.
 
@@ -6032,9 +6230,11 @@ except that the Minister may extend the period so specified for such further per
 
 [29/2012]
 
-(7) Where an approved law practice is a law corporation, the exemption under section 43(6) or (6A), as the case may be, shall not apply to the balance of the qualifying income exceeding the base income of the approved law practice that is not exempt under subsection (6).
+(7) Where an approved law practice is a law corporation, the exemption under section 43(6) or (6C), as the case may be, shall not apply to the balance of the qualifying income exceeding the base income of the approved law practice that is not exempt under subsection (6).
 
 [53/2007]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (8) The base income referred to in subsection (5) is —
 
@@ -6484,19 +6684,23 @@ then the amounts in paragraph (b) shall be regarded as income of the divesting c
 
 (c) any impairment loss for the shares;
 
-(d) any loss recognised in accordance with FRS 39, SFRS for Small Entities or FRS 109 (as the case may be), in determining the profit or loss or expense in respect of the shares.
+(d) any loss recognised in accordance with FRS 39, SFRS for Small Entities, FRS 109 or SFRS(I) 9 (as the case may be), in determining the profit or loss or expense in respect of the shares.
 
 [Act 39 of 2017 wef 26/10/2017]
 
 [29/2012]
 
+[Act 32 of 2019 wef 12/11/2018]
+
 (7) Where —
 
 (a) gains or profits derived from the disposal of ordinary shares by the divesting company is exempt from tax under subsection (1); and
 
-(b) any write-back for a diminution in the value of the shares, or profit recognised in accordance with FRS 39, SFRS for Small Entities or FRS 109 (as the case may be), which is attributable to any of the shares, has been charged to tax as income of the divesting company for any year of assessment prior to the year of assessment relating to the basis period in which the shares are disposed of,
+(b) any write-back for a diminution in the value of the shares, or profit recognised in accordance with FRS 39, SFRS for Small Entities, FRS 109 or SFRS(I) 9 (as the case may be), which is attributable to any of the shares, has been charged to tax as income of the divesting company for any year of assessment prior to the year of assessment relating to the basis period in which the shares are disposed of,
 
 [Act 39 of 2017 wef 26/10/2017]
+
+[Act 32 of 2019 wef 12/11/2018]
 
 then the write-back or profit referred to in paragraph (b) shall be regarded as an expense allowable under this Act to the divesting company for the second-mentioned year of assessment.
 
@@ -6520,11 +6724,13 @@ then the write-back or profit referred to in paragraph (b) shall be regarded as 
 
 “FRS 39” and “SFRS for Small Entities” have the meanings given to those expressions in section 34A(10);
 
-“FRS 109” has the meaning given to that expression in section 34AA(15).
+“FRS 109” and “SFRS(I) 9” have the meanings given to those expressions in section 34AA(15).
 
 [29/2012]
 
 [Act 39 of 2017 wef 26/10/2017]
+
+[Act 32 of 2019 wef 12/11/2018]
 
 ## PART V
 
@@ -6832,9 +7038,11 @@ for every calendar month or part thereof in the basis period that the employees 
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(b) qualifying intellectual property registration costs during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2020 (both years inclusive),
+(b) qualifying intellectual property registration costs during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2025 (both years inclusive),
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 for the purposes of that trade or business, there shall be allowed to him a deduction of the amount of such costs.
 
@@ -6908,6 +7116,10 @@ where A is —
 
 [Act 37 of 2014 wef 27/11/2014]
 
+(1BB) Subject to this section, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for any year of assessment between the years of assessment 2019 and 2025 (both years inclusive), there is to be allowed in respect of all the person’s trades and businesses, in addition to the deduction allowed under subsection (1), a deduction of the amount of qualifying intellectual property registration costs incurred during the basis period for the purposes of those trades and businesses, up to $100,000.
+
+[Act 45 of 2018 wef 12/11/2018]
+
 (1C) In subsection (1A), the amount under paragraph (a)(ii) shall be substituted with “$400,000” if the person does not carry on any trade or business during the basis period for the year of assessment 2012, and the balance under paragraph (b)(ii) shall be substituted with “$400,000” if the person does not carry on any trade or business during the basis period for the year of assessment 2011.
 
 [22/2011]
@@ -6932,19 +7144,15 @@ where A is —
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(1E) For the purposes of subsections (1A), (1B) and (1BA), where an individual carrying on a trade or business through 2 or more firms (excluding partnerships) has, during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2018 (both years inclusive), incurred qualifying intellectual property registration costs in respect of such firms for the purposes of his trade or business, the deduction that may be allowed to him for those costs in respect of all his trades and businesses shall not exceed the amount computed in accordance with subsection (1A), (1B) or (1BA) (as the case may be) for that year of assessment.
+(1E) For the purposes of subsections (1A), (1B), (1BA) and (1BB), where an individual carrying on a trade or business through 2 or more firms (excluding partnerships) has, during the basis period for any year of assessment between the years of assessment 2011 and 2025 (both years inclusive), incurred qualifying intellectual property registration costs in respect of such firms for the purposes of the individual’s trade or business, the deduction that may be allowed to the individual for those costs in respect of all the individual’s trades and businesses must not exceed the amount computed in accordance with subsection (1A), (1B), (1BA) or (1BB) (as the case may be) for that year of assessment.
 
-[22/2011]
+[Act 45 of 2018 wef 12/11/2018]
 
-[Act 37 of 2014 wef 27/11/2014]
+(1F) For the purposes of subsections (1A), (1B), (1BA) and (1BB), where a partnership carrying on a trade or business has, during the basis period for any year of assessment between the years of assessment 2011 and 2025 (both years inclusive), incurred qualifying intellectual property registration costs for the purposes of the partnership’s trade or business, the aggregate of the deductions that may be allowed to all the partners of the partnership for those costs in respect of all the trades and businesses of the partnership must not exceed the amount computed in accordance with subsection (1A), (1B), (1BA) or (1BB) (as the case may be) for that year of assessment.
 
-(1F) For the purposes of subsections (1A), (1B) and (1BA), where a partnership carrying on a trade or business has, during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2018 (both years inclusive), incurred qualifying intellectual property registration costs for the purposes of its trade or business, the aggregate of the deductions that may be allowed to all the partners of the partnership for those costs in respect of all the trades and businesses of the partnership shall not exceed the amount computed in accordance with subsection (1A), (1B) or (1BA) (as the case may be) for that year of assessment.
+[Act 45 of 2018 wef 12/11/2018]
 
-[22/2011]
-
-[Act 37 of 2014 wef 27/11/2014]
-
-(2) The claim for deduction under subsection (1), (1A), (1B) or (1BA) shall be allowed to a person only if —
+(2) The claim for deduction under subsection (1), (1A), (1B), (1BA) or (1BB) shall be allowed to a person only if —
 
 (a) there is an undertaking by the person that he would be the proprietor of the patent or registered trade mark, the registered owner of the registered design or the grantee of the plant variety, as the case may be, when the patent is granted, the trade mark or design is registered or the plant variety is granted protection; and
 
@@ -6953,6 +7161,8 @@ where A is —
 [29/2010]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (3) For the purposes of this section, any patenting costs or qualifying intellectual property registration costs, as the case may be, incurred by a person prior to the commencement of his trade or business shall be deemed to have been incurred by that person on the first day he carries on that trade or business but a deduction for these is subject to section 14Z.
 
@@ -6970,17 +7180,21 @@ where A is —
 
 (5A) Where —
 
-(a) a deduction has been made to any person under subsection (1A), (1B) or (1BA) in respect of any qualifying intellectual property registration costs; and
+(a) a deduction has been made to any person under subsection (1A), (1B), (1BA) or (1BB) in respect of any qualifying intellectual property registration costs; and
 
 [Act 37 of 2014 wef 27/11/2014]
 
+[Act 45 of 2018 wef 12/11/2018]
+
 (b) the person sells, transfers or assigns all or any part of the qualifying intellectual property rights or the application for the registration or grant of the qualifying intellectual property rights for which such costs were incurred, within a period of one year from the date of filing of the application,
 
-the deduction allowed under subsection (1A), (1B) or (1BA) (as the case may be) shall be deemed as income of the person for the year of assessment relating to the basis period in which the sale, transfer or assignment occurs.
+the deduction allowed under subsection (1A), (1B), (1BA) or (1BB) (as the case may be) shall be deemed as income of the person for the year of assessment relating to the basis period in which the sale, transfer or assignment occurs.
 
 [29/2010]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (6) In this section —
 
@@ -7058,17 +7272,17 @@ there shall be allowed a further deduction of the amount of such expenses in add
 
 [31/98; 29/2012]
 
-(2A) For the purposes of subsection (1), the firm or company need not be an approved firm or approved company to be allowed a deduction under that subsection in respect of expenses referred to in subsection (2)(a) which are incurred at any time from 1st April 2012 to 31st March 2020 (both dates inclusive) for the primary purpose of promoting the trading of goods or the provision of services, provided that the aggregate of —
+(2A) For the purposes of subsection (1) and subject to subsection (2B), the firm or company need not be an approved firm or approved company to be allowed a deduction under subsection (1) in respect of expenses mentioned in subsection (2)(a) that are incurred at any time between 1 April 2012 and 31 March 2020 (both dates inclusive) for the primary purpose of promoting the trading of goods or the provision of services.
 
-(a) the expenses for which the deduction is so allowed; and
+[Act 45 of 2018 wef 12/11/2018]
 
-(b) the expenditure for which a deduction is allowed to the firm or company under section 14K(1A),
+(2B) The amount of the expenses for which the deduction may be allowed under subsection (2A), after adding the expenditure for which a deduction is allowed to the firm or company under section 14K(1A), must not exceed —
 
-does not exceed $100,000 for each year of assessment.
+(a) for a year of assessment before the year of assessment 2019 — $100,000; or
 
-[29/2012]
+(b) for the year of assessment 2019 or a subsequent year of assessment — $150,000.
 
-[Act 34 of 2016 wef 01/04/2016]
+[Act 45 of 2018 wef 12/11/2018]
 
 (3) The Minister or such person as he may appoint may specify the maximum amount of expenditure (or any item thereof) to be allowed under subsection (1), other than expenses that are the subject of a claim for deduction under subsection (2A).
 
@@ -7210,6 +7424,10 @@ does not exceed $100,000 for each year of assessment.
 
 [Act 34 of 2016 wef 25/03/2016]
 
+(2A) Subsection (2) does not apply to any expenditure if a deduction has already been allowed for that expenditure under subsection (1) in a previous year of assessment.
+
+[Act 45 of 2018 wef 12/11/2018]
+
 (3) For the purposes of subsection (1)(ba) or (d), a claim for deduction shall be allowed to a person only if —
 
 (a) there is an undertaking by the person that any benefit which may arise from the conduct of the research and development shall accrue to the person; and
@@ -7310,7 +7528,7 @@ in a case where the concessionary income derived by the person from the trade or
 
 where U
 
-is the amount of qualifying expenditure incurred during the basis period on any local research and development undertaken directly by the person, including on that part undertaken in Singapore of any mixed research and development undertaken directly by that person, but excluding any capital expenditure on plant, machinery, land or buildings or on alterations, additions or extensions to buildings or in the acquisition of rights in or arising out of research and development; and
+is the amount of qualifying expenditure incurred during the basis period on any local research and development undertaken directly by the person, including on that part undertaken in Singapore of any mixed research and development undertaken directly by that person, but excluding any capital expenditure on plant, machinery, land or buildings or on alterations, additions or extensions to buildings or in the acquisition of rights in or arising out of research and development;
 
 V
 
@@ -7348,13 +7566,27 @@ qualifying expenditure incurred by that person in undertaking a local research a
 
 (B)
 
-the amount mentioned in subsection (2AB) of payments made by that person to a research and development organisation for undertaking a local research and development, or a part of a mixed research and development in Singapore, on that person’s behalf.
+the amount mentioned in subsection (2AB) of payments made by that person to a research and development organisation for undertaking a local research and development, or a part of a mixed research and development in Singapore, on that person’s behalf; and
+
+A
+
+is —
+
+(a)
+
+for a year of assessment between the years of assessment 2009 and 2018 (both years inclusive) — 50%; or
+
+(b)
+
+for a year of assessment between the years of assessment 2019 and 2025 (both years inclusive) — 150%.
 
 [Act 39 of 2017 wef 26/10/2017]
 
 [22/2011; 29/2012]
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (2) Subject to this section and section 37IC, for the purpose of ascertaining the income of a person carrying on any trade or business during the basis period for any year of assessment between the year of assessment 2011 and the year of assessment 2018 (both years inclusive), there shall be allowed in respect of all his trades and businesses, in addition to the deductions allowed under subsection (1) and section 14D, a deduction for expenditure or payments for research and development undertaken by him, of —
 
@@ -7640,9 +7872,9 @@ there shall be allowed to that person or research and development organisation a
 
 (3) No deduction shall be allowed under this section in respect of any expenditure which is not allowed under section 14 or 14D.
 
-(3A) The total amount of deduction allowed under this section and sections 14, 14D and 14DA in respect of any expenditure incurred by a person for an approved research and development project in Singapore shall not exceed 200% of such expenditure incurred.
+(3A) The total amount of deduction allowed under this section for any expenditure incurred by a person for an approved research and development project in Singapore must not, after adding the total amount of deductions allowed under sections 14, 14D and 14DA for the same expenditure, result in the total amount of deductions for that expenditure exceeding 200% of that expenditure; and if it so exceeds then no deduction is allowed under this section for that expenditure.
 
-[34/2008]
+[Act 45 of 2018 wef 12/11/2018]
 
 (3AA) No deduction shall be allowed to any person under this section in respect of any expenditure for which a deduction has been allowed under section 14DA(2).
 
@@ -7746,7 +7978,75 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 [28/96]
 
-(3) The total amount deemed as trading receipts under subsection (2) shall not exceed the total amount of all deductions previously allowed under this section.
+(2A) If, for a basis period beginning on or after 1 January 2018, the relevant amount for the bank or qualifying finance company is a negative amount, then, for the purpose of subsection (1), the bank or qualifying finance company is treated as having made in that basis period provisions for doubtful debts arising from its loans and for the diminution in the value of its investments in securities, of an amount equal to that amount expressed as a positive amount.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2B) If, for a basis period beginning on or after 1 January 2018, the relevant amount for the bank or qualifying finance company is a positive amount, then, for the purpose of subsection (2)(a), the bank or qualifying finance company is treated as having written back in that basis period an amount of its provisions that is equal to that amount.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2C) The relevant amount for the bank or qualifying finance company in subsections (2A) and (2B) is an amount computed using the formula A + B + C, where —
+
+(a) A is —
+
+(i) if a loss is recognised, in accordance with FRS 109 or SFRS(I) 9 (as the case may be), in the profit and loss account of the bank or qualifying finance company for that basis period in respect of its loans that are not credit-impaired, owing to any provisions made for expected credit losses arising from those loans, the amount of that loss expressed as a negative amount; or
+
+(ii) if a gain is recognised, in accordance with FRS 109 or SFRS(I) 9 (as the case may be), in the profit and loss account of the bank or qualifying finance company for that basis period in respect of its loans that are not credit-impaired, owing to a write back of any provisions made for expected credit losses arising from those loans, the amount of that gain expressed as a positive amount;
+
+(b) B is —
+
+(i) if a loss is recognised, in accordance with FRS 109 or SFRS(I) 9 (as the case may be), in the profit and loss account of the bank or qualifying finance company for that basis period in respect of its investments in securities that are not credit-impaired, owing to any provisions made for expected credit losses arising from those securities, the amount of that loss expressed as a negative amount; or
+
+(ii) if a gain is recognised, in accordance with FRS 109 or SFRS(I) 9 (as the case may be), in the profit and loss account of the bank or qualifying finance company for that basis period in respect of its investments in securities that are not credit-impaired, owing to a write back of any provisions made for expected credit losses arising from those securities, the amount of that gain expressed as a positive amount; and
+
+(c) C is —
+
+(i) if an MAS notice mentioned in subsection (6A) requires the bank or qualifying finance company to make for that basis period an amount of allowance for loans or investments in securities that are not credit-impaired, and that amount is recognised in the retained earnings account of the bank or qualifying finance company as required by that MAS notice, that amount expressed as a negative amount; or
+
+(ii) if an MAS notice mentioned in subsection (6A) requires the bank or qualifying finance company to reverse an amount of any allowance mentioned in sub-paragraph (i) for a basis period, and that amount is recognised in the retained earnings account of the bank or qualifying finance company as required by that MAS notice, that amount expressed as a positive amount.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2D) For the purpose of subsection (2)(b), if the bank or qualifying finance company permanently ceases to carry on business in Singapore in a basis period beginning on or after 1 January 2018, then the amount that is deemed as its trading receipts for that basis period is the sum of —
+
+(a) any provisions in its expected credit loss allowance account in respect of loans and securities that are not credit-impaired at the date of the cessation; and
+
+(b) any provisions at that date in the reserve account that it is required to maintain by an MAS notice.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2E) Where, in any basis period that begins on a day before 1 January 2018 —
+
+(a) the bank or qualifying finance company prepares or maintains financial accounts in accordance with FRS 109 or SFRS(I) 9 (as the case may be), even though it is only required to do so in a later basis period; and
+
+(b) the relevant amount for it is a negative amount,
+
+then, for the purpose of subsection (1), the bank or qualifying finance company is treated as having made in that basis period provisions for doubtful debts arising from its loans and for the diminution in the value of its investments in securities, of an amount equal to that amount expressed as a positive amount.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2F) Where, in any basis period that begins on a day before 1 January 2018 —
+
+(a) the bank or qualifying finance company prepares or maintains financial accounts in accordance with FRS 109 or SFRS(I) 9 (as the case may be), even though it is only required to do so in a later basis period; and
+
+(b) the relevant amount for it is a positive amount,
+
+then, for the purpose of subsection (2)(a), the bank or qualifying finance company is treated as having written back in that basis period an amount of its provisions that is equal to that amount.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2G) The relevant amount for the bank or qualifying finance company in subsections (2E) and (2F) is an amount computed using the formula A + B, where A and B have the meanings given to them in subsection (2C).
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2H) The Minister may make regulations to provide for any transitional matter in connection with the application of subsections (2A) to (2G) to a bank or qualifying finance company for the year in which it first becomes a qualifying person within the meaning of section 34AA, including substituting a provision in place of subsection (5).
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(3) The total amount deemed as trading receipts under subsection (2), (2B), (2D), (2F) or (4A)(ii) shall not exceed the total amount of all deductions previously allowed under this section.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (4) Where in a scheme of amalgamation involving 2 or more banks or finance companies whereby the whole or substantially the whole of the undertaking of any bank or finance company is transferred to another bank or finance company, the Minister may, if he thinks fit and on such conditions as he may impose, by order declare that any provisions in the account of the transferor bank or transferor finance company which have been transferred to the transferee bank or transferee finance company shall not be deemed under subsection (2)(b) to be a trading receipt of the transferor bank or transferor finance company; and the provisions so declared shall for the purposes of this section be treated as having been allowed to the transferee bank or transferee finance company as a deduction under this section.
 
@@ -7758,7 +8058,9 @@ is the total investment income (whether chargeable to tax or not) for that basis
 
 (b) the transfer is not pursuant to a scheme of amalgamation;
 
-(c) provision for doubtful debts arising from those loans, or for diminution in the value of investments in those securities, is also transferred by the transferor to the transferee; and
+(c) provision for doubtful debts arising from those loans, or provision for diminution in the value of investments in those securities, is also transferred by the transferor to the transferee; and
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (d) a deduction of an amount in respect of that provision was previously allowed under this section to the transferor,
 
@@ -7780,35 +8082,43 @@ then —
 
 % of the prescribed value of the loans and investments in securities in the basis period for that year of assessment; and
 
-(c) 3% of the prescribed value of the loans and investments in securities in the basis period for that year of assessment, less the total amount of all deductions previously allowed under this section which have not been deemed to be trading receipts under subsections (2) and (3).
+(c) 3% of the prescribed value of the loans and investments in securities in the basis period for that year of assessment, less the total amount of all deductions previously allowed under this section which have not been deemed to be trading receipts under subsections (2), (2B), (2D), (2F) and (4A)(ii).
 
 [32/95; 1/98; 32/99]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (6) No deduction shall be allowed for any year of assessment —
 
 (a) where there are no qualifying profits in the basis period for that year of assessment; or
 
-(b) where the total amount of all deductions previously allowed under this section, which have not been deemed to be trading receipts under subsections (2) and (3), is in excess of 3% of the prescribed value of the loans and investments in securities for the relevant basis period for that year of assessment.
+(b) where the total amount of all deductions previously allowed under this section, which have not been deemed to be trading receipts under subsections (2), (2B), (2D), (2F) and (4A)(ii), is in excess of 3% of the prescribed value of the loans and investments in securities for the relevant basis period for that year of assessment.
 
 [1/98; 32/99]
 
-(6A) The provisions in this section apply, for such period as may be prescribed by rules made under section 7, to any allowance made by a bank or qualifying finance company for loans or securities as required by a notice or direction of the Monetary Authority of Singapore given under —
+[Act 45 of 2018 wef 12/11/2018]
 
-(a) section 55 of the Banking Act (Cap. 19);
+(6A) The provisions in this section apply to any allowance made by a bank or qualifying finance company for loans or securities as required by an MAS notice, as they apply in relation to a provision for doubtful debts arising from loans, or for diminution in the value of investments in securities, of the bank or qualifying finance company.
 
-(b) section 30 of the Finance Companies Act (Cap. 108); or
+[Act 45 of 2018 wef 12/11/2018]
 
-(c) section 28(3) of the Monetary Authority of Singapore Act (Cap. 186),
+(6B) No deduction is allowed under subsection (1) starting from the year of assessment for a basis period that begins on or after 1 January 2024.
 
-as they apply in relation to a provision for doubtful debts arising from loans, or for diminution in the value of investments in securities, of the bank or qualifying finance company.
-
-[Act 39 of 2017 wef 26/10/2017]
+[Act 45 of 2018 wef 12/11/2018]
 
 (7) In this section —
 
 “bank” means a bank licensed under the Banking Act (Cap. 19) or a merchant bank approved by the Monetary Authority of Singapore;
 
 “capital funds” has the same meaning as in the Finance Companies Act (Cap. 108);
+
+“credit-impaired” and “expected credit loss” have the same meanings as in FRS 109 or SFRS(I) 9, as the case may be;
+
+[Act 45 of 2018 wef 12/11/2018]
+
+“FRS 109” and “SFRS(I) 9” have the same meanings as in section 34AA(15);
+
+[Act 45 of 2018 wef 12/11/2018]
 
 “loan” means any loan, advance or credit facility made or granted by a bank or qualifying finance company, including an overdraft except for —
 
@@ -7822,6 +8132,16 @@ as they apply in relation to a provision for doubtful debts arising from loans, 
 
 (e) such other loans or advances as may be prescribed;
 
+“MAS notice” means a notice or direction of the Monetary Authority of Singapore given under —
+
+(a) section 55 of the Banking Act;
+
+(b) section 30 of the Finance Companies Act; or
+
+(c) section 28(3) of the Monetary Authority of Singapore Act (Cap. 186);
+
+[Act 45 of 2018 wef 12/11/2018]
+
 “Monetary Authority of Singapore” means the Monetary Authority of Singapore established under section 3 of the Monetary Authority of Singapore Act;
 
 [Act 39 of 2017 wef 26/10/2017]
@@ -7830,29 +8150,45 @@ as they apply in relation to a provision for doubtful debts arising from loans, 
 
 “provisions” means the provision for doubtful debts arising from the loans of a bank or qualifying finance company and the provision for diminution in the value of its investments in securities;
 
-“qualifying finance company” means a company licensed under the Finance Companies Act to carry on financing business which has, in the basis period for any year of assessment for which the deduction under this section is first allowed, capital funds of not less than $50 million and a capital adequacy ratio of not less than 12% as determined under that Act;
+“qualifying finance company” means a company licensed under the Finance Companies Act to carry on financing business;
 
-“qualifying profit” means the net profit (excluding any extraordinary gain which is not subject to tax) as shown in the audited accounts of the bank or qualifying finance company before deducting provision for taxation, tax paid, any extraordinary loss not allowed as a deduction, provision for doubtful debts arising from loans and provision for diminution in value of investments in securities;
+[Act 45 of 2018 wef 12/11/2018]
 
-“securities” means —
+“qualifying profit” means the net profit (excluding any extraordinary gain which is not subject to tax) as shown in the audited accounts of the bank or qualifying finance company before deducting provision for taxation, tax paid, any extraordinary loss not allowed as a deduction, provision for doubtful debts arising from loans and provision for diminution in value of investments in securities.
 
-(a) debentures, stocks, shares, bonds or notes excluding —
+[Act 45 of 2018 wef 12/11/2018]
 
-(i) those issued or guaranteed by the Government of Singapore or the government of any other country; and
+[Deleted by Act 45 of 2018 wef 12/11/2018]
 
-(ii) stocks and shares held by a bank or qualifying finance company and issued by any company in which 5% or more of the total number of its issued shares are beneficially owned, directly or indirectly, by the bank or qualifying finance company at any time during the basis period for the relevant year of assessment;
+(8) In this section, “securities” means —
 
-(b) any right or option in respect of any debentures, stocks, shares, bonds or notes referred to in paragraph (a);
+(a) in a case where the bank or qualifying finance company —
 
-(c) units in any unit trust within the meaning of section 10B;
+(i) is required to prepare or maintain financial accounts in accordance with FRS 109 or SFRS(I) 9; or
 
-(d) units in a registered business trust within the meaning of section 36B;
+(ii) prepares or maintains financial accounts in accordance with FRS 109 or SFRS(I) 9 even though it is only required to do so in a later basis period,
 
-(e) any right or option in respect of any unit in a registered business trust within the meaning of section 36B; or
+debentures, bonds or notes, but not those that are issued or guaranteed by the Government or the government of any other country; or
 
-(f) units in a real estate investment trust within the meaning of section 43(10).
+(b) in any other case —
 
-[28/96; 34/2005; 29/2010]
+(i) debentures, stocks, shares, bonds or notes excluding —
+
+(A) those issued or guaranteed by the Government or the government of any other country; and
+
+(B) stocks and shares held by a bank or qualifying finance company and issued by any company in which 5% or more of the total number of its issued shares are beneficially owned, directly or indirectly, by the bank or qualifying finance company at any time during the basis period for the relevant year of assessment;
+
+(ii) any right or option in respect of any debentures, stocks, shares, bonds or notes mentioned in sub-paragraph (i);
+
+(iii) units in any unit trust within the meaning of section 10B;
+
+(iv) units in a registered business trust within the meaning of section 36B;
+
+(v) any right or option in respect of any unit in a registered business trust within the meaning of section 36B; or
+
+(vi) units in a real estate investment trust within the meaning of section 43(10).
+
+[Act 45 of 2018 wef 12/11/2018]
 
 14J\. [Repealed by Act 19 of 2013]
 
@@ -7866,23 +8202,21 @@ as they apply in relation to a provision for doubtful debts arising from loans, 
 
 [26/93; 22/2011]
 
-(1A) For the purposes of subsection (1) —
+(1A) For the purposes of subsection (1) and subject to subsection (1B), the firm or company —
 
-(a) the firm or company need not be an approved firm or approved company to be allowed a deduction under that subsection in respect of expenditure incurred at any time from 1st April 2012 to 31st March 2020 (both dates inclusive) that is directly attributable to the carrying out of any study to identify investment overseas; and
+(a) need not be an approved firm or approved company to be allowed a deduction under subsection (1) in respect of expenditure that is incurred at any time between 1 April 2012 and 31 March 2020 (both dates inclusive) that is directly attributable to the carrying out of any study to identify investment overseas; and
 
-[Act 34 of 2016 wef 01/04/2016]
+(b) need not seek approval for the investment project to which the expenditure relates.
 
-(b) the firm or company need not seek approval for the investment project to which the expenditure relates,
+[Act 45 of 2018 wef 12/11/2018]
 
-provided that the aggregate of —
+(1B) The amount of the expenditure for which the deduction may be allowed under subsection (1A), after adding the expenditure for which a deduction is allowed to the firm or company under section 14B(2A), must not exceed —
 
-(i) the expenditure for which the deduction is so allowed; and
+(a) for a year of assessment before the year of assessment 2019 — $100,000; or
 
-(ii) the expenses for which a deduction is allowed to the firm or company under section 14B(2A),
+(b) for the year of assessment 2019 or a subsequent year of assessment — $150,000.
 
-does not exceed $100,000 for each year of assessment.
-
-[29/2012]
+[Act 45 of 2018 wef 12/11/2018]
 
 (2) The Minister or such person as he may appoint may —
 
@@ -9284,25 +9618,31 @@ shall be allowed the deduction or further deduction for the previous expense und
 
 (i) that is the subject of a contract entered into between the Government or any approved statutory body and any person; and
 
-(ii) to which INT FRS 112 applies;
+(ii) to which INT FRS 112 or SFRS(I) INT 12 applies;
 
 (b) section 10F(1A) or (1C) applies to him in respect of those services;
 
-(c) the person recognises in his financial statements, prepared in accordance with INT FRS 112, an intangible asset as having been created in the course of providing the services; and
+(c) the person recognises in his financial statements, prepared in accordance with INT FRS 112 or SFRS(I) INT 12 (as the case may be), an intangible asset as having been created in the course of providing the services; and
 
-(d) in accordance with FRS 38, amortisation of the asset is recognised in the person’s financial statements for the basis period for the year of assessment 2012 or any subsequent year of assessment,
+(d) in accordance with FRS 38 or SFRS(I) 1-38 (as the case may be), amortisation of the asset is recognised in the person’s financial statements for the basis period for the year of assessment 2012 or any subsequent year of assessment,
 
-then the amount of the amortisation that is recognised in the person’s financial statements as an expense in accordance with FRS 38, shall be allowed to the person as a deduction against an amount that is deemed as income derived by that person for that basis period under section 10F(1A) or (1C).
+then the amount of the amortisation that is recognised in the person’s financial statements as an expense in accordance with FRS 38 or SFRS(I) 1-38 (as the case may be), shall be allowed to the person as a deduction against an amount that is deemed as income derived by that person for that basis period under section 10F(1A) or (1C).
 
 [19/2013]
 
 (2) In this section —
 
-“FRS 38” means the financial reporting standard known as Financial Reporting Standard 38 (Intangible Assets) issued by the Accounting Standards Council under the Accounting Standards Act (Cap. 2B);
+“FRS 38” and “SFRS(I) 1-38” mean the financial reporting standards known respectively as —
 
-“INT FRS 112” has the same meaning as in section 10F.
+(a) Financial Reporting Standard 38 (Intangible Assets); and
 
-[19/2013]
+(b) Singapore Financial Reporting Standard (International) 1‑38 (Intangible Assets),
+
+that are made by the Accounting Standards Council under Part III of the Accounting Standards Act, as amended from time to time;
+
+“INT FRS 112” and “SFRS(I) INT 12” have the meanings given to those expressions in section 10F(2).
+
+[Act 32 of 2019 wef 12/11/2018]
 
 ### Deduction for expenditure on licensing intellectual property rights
 
@@ -9477,6 +9817,40 @@ where A is —
 (b) legal fees and other costs related to the licensing of such rights.
 
 [19/2013]
+
+### Enhanced deduction for expenditure on licensing intellectual property rights
+
+14WA\.—(1) Subject to this section, for the purpose of ascertaining the income of a person carrying on a trade or business during the basis period for any year of assessment between the years of assessment 2019 and 2025 (both years inclusive), there is to be allowed in respect of all of the person’s trades and businesses, in addition to the deduction allowed under section 14 or 14D (as the case may be), a deduction of the amount of the expenditure incurred during the basis period for the purposes of those trades and businesses on the licensing from another person of any qualifying intellectual property rights, up to $100,000.
+
+(2) For the purposes of subsection (1), where an individual carrying on a trade or business through 2 or more firms (excluding partnerships) has, during the basis period for any year of assessment between the years of assessment 2019 and 2025 (both years inclusive), incurred expenditure on the licensing from another person of any qualifying intellectual property rights in respect of such firms for the purposes of the individual’s trade or business, the deductions that may be allowed to the individual for that expenditure in respect of all of the individual’s trades and businesses must not exceed the maximum amount mentioned in subsection (1).
+
+(3) For the purposes of subsection (1), where a partnership carrying on a trade or business has, during the basis period for any year of assessment between the years of assessment 2019 and 2025 (both years inclusive), incurred expenditure on the licensing from another person of any qualifying intellectual property rights for the purposes of the partnership’s trade or business, the deductions that may be allowed to all the partners of the partnership for that expenditure in respect of all the trades and businesses of the partnership must not exceed the maximum amount mentioned in subsection (1).
+
+(4) No deduction may be allowed to a person under this section in respect of —
+
+(a) any expenditure that is not allowed as a deduction under section 14 or 14D (as the case may be);
+
+(b) any expenditure incurred by that person on licensing from its related party, of any qualifying intellectual property rights, where such rights were acquired or developed (in whole or in part) by the related party; or
+
+(c) any qualifying intellectual property rights for which a writing-down allowance has been previously made to that person under section 19B.
+
+(5) The Minister may by order exempt a person from subsection (4)(b) in respect of such transaction as may be specified in the order.
+
+(6) In this section —
+
+“qualifying intellectual property rights” has the same meaning as in section 14W(8);
+
+“related party” has the same meaning as in section 13(16).
+
+(7) In this section, a reference to expenditure incurred on the licensing from another person of qualifying intellectual property rights excludes any such expenditure to the extent that it is or is to be subsidised by grants or subsidies from the Government or a statutory board.
+
+(8) In this section, “expenditure incurred on the licensing from another person of qualifying intellectual property rights” means the licence fees but excludes —
+
+(a) expenditure for the transfer of ownership of any of those rights; and
+
+(b) legal fees and other costs related to the licensing of such rights.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 ### Deduction for expenditure incurred to comply with statutory and regulatory requirements
 
@@ -9716,7 +10090,7 @@ but excludes trustee fees, agency fees and Central Depository fees;
 
 ### Deduction for expenditure for services or secondment to institutions of a public character
 
-14ZB\.—(1) Subject to this section, where the Comptroller is satisfied that a qualifying person has incurred, during the period between 1 July 2016 and 31 December 2018 (both dates inclusive), qualifying expenditure in respect of —
+14ZB\.—(1) Subject to this section, where the Comptroller is satisfied that a qualifying person has incurred, during the period between 1 July 2016 and 31 December 2021 (both dates inclusive), qualifying expenditure in respect of —
 
 (a) the provision during that period by a qualifying employee of the qualifying person, of services that satisfy subsection (2) to an IPC; or
 
@@ -9728,6 +10102,8 @@ then there is to be allowed to the qualifying person —
 
 (ii) where such expenditure is not allowable as a deduction under section 14, a deduction equal to 250% of the endorsed amount of the expenditure.
 
+[Act 45 of 2018 wef 12/11/2018]
+
 (2) The services mentioned in subsection (1)(a) must be —
 
 (a) the subject of an arrangement between the qualifying person and the IPC; and
@@ -9736,7 +10112,9 @@ then there is to be allowed to the qualifying person —
 
 (3) The maximum amount of qualifying expenditure for which a qualifying person may be allowed the deduction under subsection (1) is $250,000 for each year of assessment.
 
-(4) The maximum amount of qualifying expenditure for which deductions may be allowed under subsection (1) in relation to each IPC is $25,000 for the period between 1 July 2016 and 31 December 2016 (both dates inclusive) and $50,000 for each of the calendar years 2017 and 2018, and this is irrespective of the number of qualifying persons claiming the deduction.
+(4) The maximum amount of qualifying expenditure for which deductions may be allowed under subsection (1) in relation to each IPC is $25,000 for the period between 1 July 2016 and 31 December 2016 (both dates inclusive) and $50,000 for each of the calendar years between 2017 and 2021 (both years inclusive), and this is irrespective of the number of qualifying persons claiming the deduction.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (5) Where 2 or more qualifying persons —
 
@@ -9832,6 +10210,60 @@ the deduction is to be allowed for such part or parts of the expenditure incurre
 
 [Act 34 of 2016 wef 01/07/2016]
 
+### Deduction for expenditure incurred in deriving income from driving chauffeured private hire car or taxi
+
+14ZC\.—(1) Subsection (2) applies for the purpose of ascertaining an individual’s income from driving a chauffeured private hire car or taxi for an authorised purpose that is chargeable to tax under section 10(1)(a) (called in this section specified income), for the basis period for the year of assessment 2019 or a subsequent year of assessment.
+
+(2) Despite any other provisions in this Part, if there are any outgoings or expenses that are deductible against the specified income derived in the basis period, then there is to be deducted, in lieu of those outgoings or expenses, an amount computed in accordance with the formula A × B, where —
+
+(a) A is 60% or such other percentage as may be prescribed by rules made under section 7; and
+
+(b) B is the gross amount of the specified income derived in the basis period.
+
+(3) However, subsection (2) —
+
+(a) only applies if, at the time the specified income is derived, the individual —
+
+(i) holds a vocational licence granted under section 110 of the Road Traffic Act (Cap. 276) authorising the individual to drive; or
+
+(ii) is otherwise permitted under that Act to drive,
+
+a chauffeured private hire car or taxi, as the case may be; and
+
+(b) does not apply if the individual has made an election under subsection (5) to disapply subsection (2) to the individual’s specified income derived in the basis period.
+
+(4) Subsection (2) also does not apply to any specified income derived by an individual as a partner in a partnership.
+
+(5) An individual may, in such form and manner and within such time as the Comptroller may determine, make an election to the Comptroller to disapply subsection (2) to all of the individual’s specified income derived in the basis period for a particular year of assessment.
+
+(6) If an individual derives specified income (other than income mentioned in subsection (4)) from driving more than one vehicle in a basis period, the individual may not make an election under subsection (5) in respect of only one or some of those vehicles.
+
+(7) Where an individual makes an election under subsection (5) to disapply subsection (2) to all of the individual’s specified income derived in the basis period for a particular year of assessment, then (despite anything in this Act) —
+
+(a) any outgoings or expenses incurred in that basis period and deductible against the specified income under any provision of this Part, that is in excess of the specified income, is not available as a deduction against any other income of the individual for that year of assessment; and
+
+(b) section 37 or 37E applies with the necessary modifications to such excess, except that the excess may only be deducted against the individual’s specified income that is derived in the basis period for a subsequent or preceding year of assessment, as the case may be.
+
+(8) In this section —
+
+“authorised purpose” means —
+
+(a) the carriage of passengers; or
+
+(b) the collection, conveyance and delivery, for reward, of any cargo not incidental to the carriage of any passenger in a motor vehicle, and any goods, article, food or baggage which is unaccompanied by any passenger travelling in the motor vehicle must be treated as cargo, but only if such collection, conveyance and delivery is approved by the Registrar pursuant to rules made under the Road Traffic Act;
+
+“chauffeured private hire car” means a motor car that —
+
+(a) does not ply for hire on any road;
+
+(b) is hired, or made available for hire, under a contract (express or implied) for use as a whole with a driver for the purpose of conveying the hirer, and one or more passengers (if any), in that car; and
+
+(c) in respect of which a licence is issued under Part V of the Road Traffic Act for its use as a chauffeured private hire car;
+
+“Registrar” has the meaning given by section 2(1) of the Road Traffic Act.
+
+[Act 45 of 2018 wef 12/11/2018]
+
 ### Deductions not allowed
 
 15\.—(1) Notwithstanding the provisions of this Act, for the purpose of ascertaining the income of any person, no deduction shall be allowed in respect of —
@@ -9866,15 +10298,25 @@ the deduction is to be allowed for such part or parts of the expenditure incurre
 
 (k) any outgoings and expenses, whether directly or in the form of reimbursements, and any claim for the cost of renewal incurred on or after 1st April 1998 in respect of a motor car (whether owned by him or any other person) which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
 
-(i) a taxi;
+(i) a taxi, but subject to subsection (2D);
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (ii) a motor car registered outside Singapore and used exclusively outside Singapore;
 
 (iii) a private hire car if the person is carrying on the business of hiring out cars and the private hire car is used by the person principally for hiring;
 
-(iv) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276); and
+(iv) a motor car which was registered before 1st April 1998 as a business service passenger vehicle for the purposes of the Road Traffic Act (Cap. 276);
 
-(v) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes if the person is carrying on the business of providing driving instruction and holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act;
+[Act 45 of 2018 wef 12/11/2018]
+
+(v) a motor car registered on or after 1st April 1998 which is used principally for instructional purposes if the person is carrying on the business of providing driving instruction and holds a driving school licence or driving instructor’s licence issued under the Road Traffic Act; and
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(vi) a chauffeured private hire car used by the person (being an individual who holds a vocational licence granted under section 110 of the Road Traffic Act authorising the individual to drive, or who is otherwise permitted under that Act to drive, a chauffeured private hire car) other than as an employee of another, but subject to subsection (2E);
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (l) any outgoings and expenses incurred in respect of any designated unit trust within the meaning of section 35(14) if the person is a unit holder of such trust;
 
@@ -9914,9 +10356,29 @@ the deduction is to be allowed for such part or parts of the expenditure incurre
 
 [Act 39 of 2017 wef 26/10/2017]
 
+(2D) For the purposes of subsection (1)(k)(i) —
+
+(a) outgoings and expenses incurred on or after the date the Income Tax (Amendment) Act 2018 is published in theGazetteare only deductible if they are attributable to the use of the taxi for an authorised purpose; and
+
+(b) the cost of renewal in respect of the taxi incurred on or after that date is only deductible if the person is one to whom an allowance under section 19 may be made in respect of the taxi by reason of that person being one mentioned in section 19(5)(a)(i), (ii) or (iii).
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(2E) Subsection (1)(k)(vi) —
+
+(a) only applies to outgoings and expenses incurred in the basis period for the year of assessment 2019 or a subsequent year of assessment and that are attributable to the use of the chauffeured private hire car for an authorised purpose; and
+
+(b) does not apply to the cost of renewal in respect of the car.
+
+[Act 45 of 2018 wef 12/11/2018]
+
 (3) In this section, “holding company” has the same meaning as in section 5 of the Companies Act (Cap. 50).
 
 [7/2007]
+
+(4) In this section, “authorised purpose” and “chauffeured private hire car” have the same meanings as in section 14ZC(8).
+
+[Act 45 of 2018 wef 12/11/2018]
 
 ## PART VI
 
@@ -10728,7 +11190,19 @@ as the case may be;
 
 (5) No allowance under this section or section 19A shall be made in respect of a motor car which is constructed or adapted for the carriage of not more than 7 passengers (exclusive of the driver) and the weight of which unladen does not exceed 3,000 kilograms except —
 
-(a) a taxi;
+(a) a taxi, and then only to the following:
+
+(i) a person that is not an individual and that holds a licence under section 111B of the Road Traffic Act (called in this paragraph a taxi service operator licence);
+
+(ii) an individual who is a partner of the partnership that acquired the taxi and holds a taxi service operator licence;
+
+(iii) an individual who —
+
+(A) acquired the taxi as a replacement or a subsequent replacement of a taxi acquired by him any time before 1 January 1975; and
+
+(B) holds a vocational licence granted under section 110 of the Road Traffic Act authorising him to drive a taxi;
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (b) a motor car registered outside Singapore and used exclusively outside Singapore;
 
@@ -13078,7 +13552,9 @@ such part of the outgoing that is attributable to the embedded derivative shall 
 
 (c) a person who is treated as a qualifying person under subsection (5) or (7) for that year of assessment,
 
-as the case may be;
+as the case may be, but excludes a person who is treated under section 34AA(6) as a qualifying person for that year of assessment for the purposes of section 34AA;
+
+[Act 45 of 2018 wef 12/11/2018]
 
 “SFRS for Small Entities” means the financial reporting standard known as Singapore Financial Reporting Standard for Small Entities made by the Accounting Standards Council under Part III of the Accounting Standards Act, as amended from time to time.
 
@@ -13090,11 +13566,15 @@ as the case may be;
 
 [7/2007; 29/2012]
 
-### Adjustment on change of basis of computing profits of financial instruments resulting from FRS 109
+### Adjustment on change of basis of computing profits of financial instruments resulting from FRS 109 or SFRS(I) 9
 
-34AA\.—(1) Despite the provisions of this Act but subject to section 34G(3), (4) and (5), the amount of any profit, loss or expense to be brought into account for the basis period for any year of assessment in respect of any financial instrument of a qualifying person for the purposes of sections 10, 14, 14I and 37, respectively, is that which, in accordance with FRS 109, is recognised in determining any profit, loss or expense in respect of that financial instrument for that year of assessment.
+34AA\.—(1) Despite the provisions of this Act but subject to section 34G(3), (4) and (5), the amount of any profit, loss or expense to be brought into account for the basis period for any year of assessment in respect of any financial instrument of a qualifying person for the purposes of sections 10, 14, 14I and 37, respectively, is that which, in accordance with FRS 109 or SFRS(I) 9 (as the case may be), is recognised in determining any profit, loss or expense in respect of that financial instrument for that year of assessment.
 
-(2) To avoid doubt, subsection (1) does not apply to anything recognised in accordance with FRS 109, that is capital in nature.
+[Act 45 of 2018 wef 12/11/2018]
+
+(2) To avoid doubt, subsection (1) does not apply to anything recognised in accordance with FRS 109 or SFRS(I) 9 (as the case may be), that is capital in nature.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (3) Despite subsection (1), for the purposes of sections 10, 14, 14I and 37, the profit, loss or expense in respect of a financial instrument mentioned in each of the following paragraphs must be dealt with in accordance with that paragraph:
 
@@ -13110,9 +13590,13 @@ as the case may be;
 
 (f) any amount of profit or loss in respect of a hedging instrument acquired under a bona fide commercial arrangement for the sole purpose of hedging against any risk associated with the underlying asset or liability must be disregarded, if the underlying asset or liability is employed or intended to be employed as capital;
 
-(g) any amount of expected credit losses of a financial instrument that is not credit-impaired, being losses that are recognised in accordance with FRS 109 in determining the profit or loss of such instrument, must be disregarded;
+(g) any amount of expected credit losses of a financial instrument that is not credit-impaired, being losses that are recognised in accordance with FRS 109 or SFRS(I) 9 (as the case may be) in determining the profit or loss of such instrument, must be disregarded;
 
-(h) in a case where the qualifying person is a bank or qualifying finance company, the provisions in section 14I apply (subject to the regulations made under subsection (13)(a)) in relation to a provision made by the qualifying person for an expected credit loss arising from loans or securities that are not credit-impaired, as those provisions apply in relation to a provision for doubtful debts arising from the person’s loans or for diminution in the value of the person’s investments in securities;
+[Act 45 of 2018 wef 12/11/2018]
+
+(h) in a case where the qualifying person is a bank or qualifying finance company, the provisions in section 14I apply in relation to a provision made by the qualifying person for an expected credit loss arising from loans or securities that are not credit-impaired, as those provisions apply in relation to a provision for doubtful debts arising from the person’s loans or for diminution in the value of the person’s investments in securities;
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (i) where an equity instrument on revenue account of a qualifying person that is measured at fair value through other comprehensive income is disposed of, an amount prescribed as the gain or loss to the qualifying person on such disposal, is chargeable to tax, or is to be allowed as a deduction;
 
@@ -13138,7 +13622,9 @@ as the case may be;
 
 such part of the outgoing that is attributable to the embedded derivative is not deductible;
 
-(m) where a financial instrument on revenue account of a qualifying person (being a financial liability measured at fair value through profit or loss) matures or is sold, bought back or redeemed, any gain or loss to the qualifying person that is realised on such maturity or from such sale, buy back or redemption (being a gain or loss that is recognised in other comprehensive income in accordance with FRS 109) is chargeable to tax, or is to be allowed as a deduction.
+(m) where a financial instrument on revenue account of a qualifying person (being a financial liability measured at fair value through profit or loss) matures or is sold, bought back or redeemed, any gain or loss to the qualifying person that is realised on such maturity or from such sale, buy back or redemption (being a gain or loss that is recognised in other comprehensive income in accordance with FRS 109 or SFRS(I) 9 (as the case may be)) is chargeable to tax, or is to be allowed as a deduction.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (4) To avoid doubt, subsection (3)(d) does not affect the operation of section 34D.
 
@@ -13148,7 +13634,9 @@ such part of the outgoing that is attributable to the embedded derivative is not
 
 (b) the transfer is not pursuant to a qualifying amalgamation within the meaning of section 34C(2) in relation to which an election is made under section 34C(4);
 
-(c) a provision for an expected credit loss arising from that loan that is credit-impaired, being a loss that is recognised in accordance with FRS 109 in determining the profit or loss of such loan, is also transferred by the transferor to the transferee; and
+(c) a provision for an expected credit loss arising from that loan that is credit-impaired, being a loss that is recognised in accordance with FRS 109 or SFRS(I) 9 (as the case may be) in determining the profit or loss of such loan, is also transferred by the transferor to the transferee; and
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (d) a deduction of an amount in respect of a provision for a doubtful debt arising from that loan was previously allowed under section 14 (read with this section or section 34A) to the transferor,
 
@@ -13162,7 +13650,9 @@ then, despite any provision in this Act —
 
 (7) If —
 
-(a) any gain, loss or expense in respect of a financial instrument of a qualifying person to which subsection (1) applies is recognised under FRS 109 on a certain date;
+(a) any gain, loss or expense in respect of a financial instrument of a qualifying person to which subsection (1) applies is recognised under FRS 109 or SFRS(I) 9 (as the case may be) on a certain date;
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (b) it is not possible to determine, on the date the Comptroller makes an assessment of the amount of chargeable income of that person for the year of assessment of the basis period in which the date mentioned in paragraph (a) falls, whether that gain, loss or expense is capital or revenue in nature;
 
@@ -13182,7 +13672,9 @@ then, and despite anything in this Act but subject to subsection (9), the amount
 
 (10) If —
 
-(a) any gain, loss or expense in respect of a financial instrument of a qualifying person to which subsection (1) applies is recognised under FRS 109 on a certain date;
+(a) any gain, loss or expense in respect of a financial instrument of a qualifying person to which subsection (1) applies is recognised under FRS 109 or SFRS(I) 9 (as the case may be) on a certain date;
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (b) it is not possible to determine, on the date the Comptroller makes an assessment of the amount of chargeable income of that person for the year of assessment of the basis period in which the date mentioned in paragraph (a) falls, whether that gain, loss or expense is capital or revenue in nature;
 
@@ -13202,15 +13694,19 @@ then, and despite anything in this Act but subject to subsection (12), the amoun
 
 (13) For the purposes of this section, the Minister may make regulations to give effect to this section, including —
 
-(a) providing that section 14I applies to an allowance mentioned in subsection (3)(h) for a prescribed period;
+(a) [Deleted by Act 45 of 2018 wef 12/11/2018]
 
 (b) providing for the computation of the additional amounts mentioned in subsections (8) and (11); and
 
 (c) providing for any transitional, supplementary or consequential matter, including —
 
-(i) treating a specified amount of any profit in respect of a financial instrument of a person, being an amount recognised under FRS 109 as such profit as of a date before the date the person becomes a qualifying person, as the person’s income for a specified year of assessment; and
+(i) treating a specified amount of any profit in respect of a financial instrument of a person, being an amount recognised under FRS 109 or SFRS(I) 9 (as the case may be) as such profit as of a date before the date the person becomes a qualifying person, as the person’s income for a specified year of assessment; and
 
-(ii) allowing a specified amount of any loss or expense in respect of a financial instrument of a person, being an amount recognised under FRS 109 as such loss or expense as of a date before the date the person becomes a qualifying person, as a deduction against the person’s income for a specified year of assessment.
+[Act 45 of 2018 wef 12/11/2018]
+
+(ii) allowing a specified amount of any loss or expense in respect of a financial instrument of a person, being an amount recognised under FRS 109 or SFRS(I) 9 (as the case may be) as such loss or expense as of a date before the date the person becomes a qualifying person, as a deduction against the person’s income for a specified year of assessment.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (14) The regulations under subsection (13) may prescribe different amounts for the purposes of subsection (3)(i) for different descriptions of instruments.
 
@@ -13226,15 +13722,51 @@ then, and despite anything in this Act but subject to subsection (12), the amoun
 
 “qualifying person”, in relation to any year of assessment, means —
 
-(a) in the case of a year of assessment for a basis period beginning on or after 1 January 2018, a person who is required to prepare or maintain financial accounts in accordance with FRS 109 for that basis period;
+(a) in the case of a year of assessment for a basis period beginning on or after 1 January 2018, a person who is required to prepare or maintain financial accounts in accordance with FRS 109 or SFRS(I) 9 for that basis period;
 
-(b) in the case of a year of assessment for a basis period beginning on a date before 1 January 2018, a person mentioned in paragraph (a) who prepares or maintains financial accounts in accordance with FRS 109 for that basis period; or
+[Act 45 of 2018 wef 12/11/2018]
 
-(c) in any case, a person who is treated as a qualifying person under subsection (6).
+(b) in the case of a year of assessment for a basis period beginning on a date before 1 January 2018, a person mentioned in paragraph (a) who prepares or maintains financial accounts in accordance with FRS 109 or SFRS(I) 9 (as the case may be) for that basis period; or
 
-(16) Any term used in this section and not defined in this section but defined in FRS 109, has the same meaning as in FRS 109.
+[Act 45 of 2018 wef 12/11/2018]
 
-[Act 39 of 2017 wef 26/10/2017]
+(c) in any case, a person who is treated as a qualifying person under subsection (6);
+
+[Act 45 of 2018 wef 12/11/2018]
+
+“SFRS(I) 9” means the financial reporting standard known as Singapore Financial Reporting Standard (International) 9 (Financial Instruments) that is made, and amended from time to time, under Part III of the Accounting Standards Act.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(16) Any term used in this section and not defined in this section but defined in FRS 109 or SFRS(I) 9, has the same meaning as in FRS 109 or SFRS(I) 9, as the case may be.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+### Chargeability of profit or loss from foreign exchange differences
+
+34AB\.—(1) This section applies where a person is a party to a transaction that is or is to be settled in a currency that is different from the functional currency in which the person’s financial statements are kept.
+
+(2) Despite the provisions of this Act, for the purpose of sections 10 and 14, any change in the value of any receivable or payable from the transaction that is reflected in the person’s financial statements, being a change arising from movements in the rates of the 2 currencies, is treated as —
+
+(a) a gain accruing to the person; or
+
+(b) a deductible expense,
+
+(as the case may be) in the basis period in which the change is recognised as a gain or loss (as the case may be) in the profit and loss account that is part of those financial statements.
+
+(3) To avoid doubt, subsection (2) —
+
+(a) applies whether or not the gain or loss is realised; and
+
+(b) does not apply to a transaction the gain or loss from which is capital in nature.
+
+(4) Subsection (2) does not apply to a transaction to which section 34A or 34AA applies.
+
+(5) This section does not apply to a person who made an election to the Comptroller, at the time of lodgment of the person’s return of income for the year of assessment 2004, for any of the person’s recognised gains or losses mentioned in subsection (2) that were unrealised, not to be treated as the person’s gain or loss for that year of assessment and every subsequent year of assessment, for the purposes of this Act.
+
+(6) However, the person mentioned in subsection (5) may in the person’s return of income for any year of assessment, make an irrevocable election to the Comptroller to be subject to this section, and, if the election is approved by the Comptroller, this section applies to that person for that year of assessment and every subsequent year of assessment.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 ### Islamic financing arrangements
 
@@ -13522,15 +14054,19 @@ sections 23 and 37 shall apply, with the necessary modifications, as if the amal
 
 [27/2009]
 
-### Amalgamated company as qualifying company under section 43(6A)
+### Amalgamated company as qualifying company undersection 43(6C)
 
-(27) Where all the amalgamating companies cease to exist on the date of amalgamation, and the amalgamated company is a qualifying company for the purpose of section 43(6A) in any year of assessment, then, for that year of assessment —
+(27) Where all the amalgamating companies cease to exist on the date of amalgamation, and the amalgamated company is a qualifying company for the purpose of section 43(6C) in any year of assessment, then, for that year of assessment —
 
-(a) in a case where the date of amalgamation does not fall within either of the basis periods of the first 2 years of assessment of any of the amalgamating companies, section 43(6) rather than section 43(6A) shall apply to the amalgamated company; and
+(a) in a case where the date of amalgamation does not fall within either of the basis periods of the first 2 years of assessment of any of the amalgamating companies, section 43(6) rather than section 43(6C) shall apply to the amalgamated company; and
 
-(b) in a case where the date of amalgamation falls within either of the basis periods of the first 2 years of assessment of any of the amalgamating companies, section 43(6A) shall apply to the amalgamated company if, and only if, the first‑mentioned year of assessment falls within such period as may be prescribed by the Minister, and if it does not, then section 43(6) shall apply to the amalgamated company.
+[Act 45 of 2018 wef 12/11/2018]
+
+(b) in a case where the date of amalgamation falls within either of the basis periods of the first 2 years of assessment of any of the amalgamating companies, section 43(6C) shall apply to the amalgamated company if, and only if, the first‑mentioned year of assessment falls within such period as may be prescribed by the Minister, and if it does not, then section 43(6) shall apply to the amalgamated company.
 
 [27/2009]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (28) The Minister may, for different descriptions of amalgamations or companies, prescribe different periods for the purposes of subsection (27)(b).
 
@@ -13712,7 +14248,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) In this section —
 
-“FRS 109” has the same meaning as in section 34AA(15);
+“FRS 109” and “SFRS(I) 9” have the meanings given to those expressions in section 34AA(15);
+
+[Act 32 of 2019 wef 12/11/2018]
 
 “registration” means registration under section 359(1) of the Companies Act;
 
@@ -13736,7 +14274,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (5) Where a redomiciled company incurs on or after its registration date any impairment loss, in the course of carrying on a trade or business in Singapore, from any financial asset on revenue account that was acquired by the company for the purpose of any trade or business outside Singapore before that date —
 
-(a) the company is allowed a deduction for that loss to the extent that it becomes credit-impaired within the meaning of FRS 109; and
+(a) the company is allowed a deduction for that loss to the extent that it becomes credit-impaired within the meaning of FRS 109 or SFRS(I) 9, as the case may be; and
+
+[Act 32 of 2019 wef 12/11/2018]
 
 (b) any amount of that loss that is subsequently reversed is chargeable to tax to the extent of the deduction allowed under paragraph (a).
 
@@ -13934,9 +14474,11 @@ the policies which it assumed the risks or undertook the liabilities of, or for 
 
 [Act 45 of 2018 wef 26/10/2017]
 
-### Section 43(6A) inapplicable
+### Section 43(6C)inapplicable
 
-(21) Section 43(6A) does not apply to a redomiciled company.
+(21) Section 43(6C) does not apply to a redomiciled company.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 ### Regulations
 
@@ -14796,9 +15338,11 @@ made by an individual in the year preceding the year of assessment to any instit
 
 (i) from 1 January 2009 to 31 December 2014 (both dates inclusive);
 
-(ii) from 1 January 2016 to 31 December 2018 (both dates inclusive),
+(ii) from 1 January 2016 to 31 December 2021 (both dates inclusive),
 
 2.5 times the value or 2.5 times the amount, as the case may be; or
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (b) in the case of a donation made during the period from 1 January 2015 to 31 December 2015 (both dates inclusive), 3 times the value or 3 times the amount, as the case may be.
 
@@ -15450,11 +15994,11 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 [34/2005]
 
-(1A) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
+(1A) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
-(1B) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
+(1B) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
-(1C) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
+(1C) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
 (2) Qualifying deductions shall be deducted in the following order:
 
@@ -15472,7 +16016,7 @@ and where the company has no residual profit, a notional amount of $100 is deeme
 
 [34/2005]
 
-(3A) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
+(3A) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
 (4) Subject to the provisions of this section, section 37B shall apply, with the necessary modifications, to the deduction of any qualifying deduction by any company for any year of assessment against its assessable income for the immediate preceding year of assessment, where applicable, as if the income for the immediate preceding year of assessment is income for that year of assessment, and for the purpose of such application, any reference in section 37B(2) and (3) to —
 
@@ -15510,7 +16054,7 @@ is any amount deducted against assessable income subject to tax at any concessio
 
 [34/2005]
 
-(5A) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
+(5A) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
 (6) Any person deducting any qualifying deduction for any year of assessment against his assessable income for the immediate preceding year of assessment under this section shall notify the Comptroller and make an election to make such deduction —
 
@@ -15530,7 +16074,7 @@ or within such further time as the Comptroller may allow.
 
 [34/2005; 53/2007]
 
-(8A) [Deleted by Act 39 of 2017 wef 26/10/2017][27/2009]
+(8A) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
 (9) For the purposes of this section, subject to sections 35, 37 and 37B, qualifying deductions, in relation to any person, for each year of assessment, are —
 
@@ -15550,13 +16094,9 @@ or within such further time as the Comptroller may allow.
 
 [Act 39 of 2017 wef 26/10/2017]
 
-[Act 39 of 2017 wef 26/10/2017]
-
 [34/2005; 27/2009]
 
 (12) Notwithstanding subsection (9), any allowance specified in subsection (9)(a) made to or any loss specified in subsection (9)(b) incurred by a company for any year of assessment shall not be deductible against income for the immediate preceding year of assessment unless the Comptroller is satisfied that the shareholders of the company on the first day of the year in which the allowances arose or in which the loss was incurred, as the case may be, were substantially the same as the shareholders of the company on the last day of the immediate preceding year of assessment.
-
-[Act 39 of 2017 wef 26/10/2017]
 
 [Act 39 of 2017 wef 26/10/2017]
 
@@ -15620,11 +16160,11 @@ is the concessionary rate of tax;
 
 (b) section 43A, 43C (in respect of those relating to general insurance business and life reinsurance business only), 43D (repealed), 43E, 43F (repealed), 43G, 43H (repealed), 43I, 43J, 43K (repealed), 43L (repealed), 43N, 43P, 43Q, 43R, 43S (repealed), 43T (repealed), 43U (repealed), 43V (repealed), 43W, 43X, 43Y, 43Z, 43ZA, 43ZB, 43ZC, 43ZD, 43ZE, 43ZF, 43ZG, 43ZH or 43ZI, or the regulations made under any of them, as the case may be; or
 
-[Act 45 of 2018 wef 01/07/2018]
+[Act 34 of 2016 wef 29/12/2016]
 
 [Act 39 of 2017 wef 01/06/2017]
 
-[Act 34 of 2016 wef 29/12/2016]
+[Act 45 of 2018 wef 01/07/2018]
 
 (c) section 19J(5C) or (5E) or 19KA(1)(b) (as the case may be) of the Economic Expansion Incentives (Relief from Income Tax) Act.
 
@@ -15802,9 +16342,11 @@ is the amount of qualifying deduction transferred to the company under section 3
 
 E
 
-is the amount of income of the company not charged to tax under section 43(6) or (6A) for the year of assessment.
+is the amount of income of the company not charged to tax under section 43(6) or (6C) for the year of assessment.
 
 [34/2008]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (5) Where on the first day of the basis period for any year of assessment between the year of assessment 2010 and the year of assessment 2016 (both years inclusive), the research and development account of the company is in credit, and —
 
@@ -19234,27 +19776,51 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [19/2013]
 
-(6) Notwithstanding subsection (1) but subject to subsection (6A), there shall be levied and paid for each year of assessment upon the chargeable income of every company or body of persons —
+(6) Despite subsection (1) but subject to subsection (6C), tax as described in subsection (6A) or (6B) (as the case may be) is levied and must be paid for each year of assessment upon the chargeable income of every company or body of persons.
 
-(a) in the case of a company, for the year of assessment 2008 and subsequent years of assessment; and
+[Act 45 of 2018 wef 12/11/2018]
 
-(b) in the case of a body of persons, for the year of assessment 2010 and subsequent years of assessment,
+(6A) For the purposes of subsection (6), the tax that is levied —
 
-tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that —
+(a) in the case of a company, for the years of assessment 2008 to 2019 (both years inclusive); and
 
-(i) for every dollar of the first $10,000 of the chargeable income, only 25% shall be charged with tax; and
+(b) in the case of a body of persons, for the years of assessment 2010 to 2019 (both years inclusive),
 
-(ii) for every dollar of the next $290,000 of the chargeable income, only 50% shall be charged with tax.
+is tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income, except that —
 
-[27/2009; 19/2013]
+(c) for every dollar of the first $10,000 of the chargeable income, only 25% is chargeable with tax; and
 
-(6A) Notwithstanding subsections (1) and (6), where, in any of the first 3 years of assessment, falling in or after the year of assessment 2008, of a company, the company is a qualifying company, then for that year of assessment there shall be levied and paid upon the chargeable income of the company tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income thereof except that —
+(d) for every dollar of the next $290,000 of the chargeable income, only 50% is chargeable with tax.
 
-(a) every dollar of the first $100,000 of the chargeable income shall be exempt from tax; and
+[Act 45 of 2018 wef 12/11/2018]
 
-(b) for every dollar of the next $200,000 of the chargeable income, only 50% shall be charged with tax.
+(6B) For the purposes of subsection (6), the tax that is levied for the year of assessment 2020 and subsequent years of assessment, is tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income, except that —
 
-[53/2007; 27/2009; 19/2013]
+(a) for every dollar of the first $10,000 of the chargeable income, only 25% is chargeable with tax; and
+
+(b) for every dollar of the next $190,000 of the chargeable income, only 50% is chargeable with tax.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(6C) Despite subsections (1) and (6), where, in any of the first 3 years of assessment falling in or after the year of assessment 2008 of a company, the company is a qualifying company, then for that year of assessment tax as described in subsection (6D) is levied and must be paid upon the chargeable income of the company.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(6D) For the purposes of subsection (6C), the tax that is levied is tax at the rate prescribed in subsection (1)(a) on every dollar of the chargeable income, except that —
+
+(a) for the years of assessment 2008 to 2019 (both years inclusive) —
+
+(i) every dollar of the first $100,000 of the chargeable income is exempt from tax; and
+
+(ii) for every dollar of the next $200,000 of the chargeable income, only 50% is chargeable with tax; and
+
+(b) for the year of assessment 2020 and subsequent years of assessment —
+
+(i) for every dollar of the first $100,000 of the chargeable income, only 25% is chargeable with tax; and
+
+(ii) for every dollar of the next $100,000 of the chargeable income, only 50% is chargeable with tax.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (7) The incomes excluded under subsections (3)(b) and (3A) are —
 
@@ -19406,9 +19972,11 @@ derived by it from any approved syndicated offshore credit or guarantee facility
 
 (c) deduction of losses, capital allowances and donations otherwise than in accordance with this Act;
 
-(d) circumstances in which any losses (including impairment loss recognised under FRS 39, as defined in section 34A, and expected credit loss recognised under FRS 109, as defined in section 34AA) incurred in respect of any facility referred to in paragraph (b), and capital allowances and donations attributable to income from such facility which has been allowed as a deduction against any income chargeable to tax, may be deemed as income chargeable to tax (at such rate as may be prescribed) for a specified basis period;
+(d) circumstances in which any losses (including impairment loss recognised under FRS 39, as defined in section 34A, and expected credit loss recognised under FRS 109 or SFRS(I) 9, as defined in section 34AA) incurred in respect of any facility referred to in paragraph (b), and capital allowances and donations attributable to income from such facility which has been allowed as a deduction against any income chargeable to tax, may be deemed as income chargeable to tax (at such rate as may be prescribed) for a specified basis period;
 
 [Act 39 of 2017 wef 26/10/2017]
+
+[Act 32 of 2019 wef 12/11/2018]
 
 (e) adjustment of any amount deemed as income chargeable to tax referred to in paragraph (d) for the specified basis period;
 
@@ -19780,17 +20348,23 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018 (both dates inclusive);
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2023 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ab) any amount payable to any company from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018 (both dates inclusive);
+[Act 45 of 2018 wef 12/11/2018]
+
+(ab) any amount payable to any company from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2023 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ac) any prepayment fee, redemption premium or break cost derived by any company from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018 (both dates inclusive);
+[Act 45 of 2018 wef 12/11/2018]
+
+(ac) any prepayment fee, redemption premium or break cost derived by any company from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2023 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (ad) such other income derived by any company that is directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations;
 
@@ -19812,9 +20386,11 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 (2) Subsection (1)(a), (aa), (ab), (ac) or (ad), as the case may be, shall not, unless otherwise approved by the Minister or such person as he may appoint, apply to —
 
-(a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2018 (both dates inclusive);
+(a) any interest derived from any qualifying debt securities issued during the period from 10th May 1999 to 31st December 2023 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (b) any discount from —
 
@@ -19822,15 +20398,21 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018 (both dates inclusive);
+(ii) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2023 (both dates inclusive);
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018;
+[Act 45 of 2018 wef 12/11/2018]
 
-(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018 (both dates inclusive); and
+(c) any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2023;
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(d) any prepayment fee, redemption premium or break cost from qualifying debt securities issued during the period from 15th February 2007 to 31st December 2023 (both dates inclusive); and
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (e) such other income directly attributable to qualifying debt securities issued on or after a prescribed date, as may be prescribed by regulations,
 
@@ -19856,13 +20438,15 @@ where 50% or more of those securities which are outstanding at any time during t
 
 (a) income derived before 1st January 2004 by any financial institution from arranging, underwriting or distributing any qualifying debt securities; and
 
-(b) income derived by a primary dealer from trading in any Singapore Government securities during the period from 27th February 1999 to 31st December 2018 (both dates inclusive),
-
-[Act 37 of 2014 wef 27/11/2014]
+(b) income derived by a primary dealer from trading in any Singapore Government securities during the period from 27th February 1999 to 31st December 2023 (both dates inclusive),
 
 and for deduction of losses otherwise than in accordance with section 37(3).
 
 [32/99; 21/2003; 34/2008; 19/2013]
+
+[Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (3A) A primary dealer referred to in subsection (3)(b) may elect in accordance with subsection (3B) not to be subject to the regulations made under subsection (1); and if the primary dealer so elects, the regulations shall cease to apply to the income of that primary dealer for the year of assessment for which the election is made and for subsequent years of assessment.
 
@@ -20113,6 +20697,36 @@ which has given notice within a specified period to the Monetary Authority of Si
 [Act 39 of 2017 wef 01/04/2017]
 
 [53/2007]
+
+(1A) Despite subsection (1), where —
+
+(a) a company was approved as an approved aircraft leasing company on or before 31 March 2017;
+
+(b) the company is approved again as an approved aircraft leasing company at any time on or after 1 April 2017;
+
+(c) the period of approval in paragraph (b) (called in this subsection the current approval period) starts immediately upon the expiry of the period of the approval in paragraph (a) (called in this subsection the previous approval period); and
+
+(d) the company elects to apply the concessionary rate of tax specified to it under subsection (1)(a) for the previous approval period, to the company’s income that accrues in or is derived from Singapore between the date of commencement of the current approval period and 31 December 2027 (both dates inclusive), in respect of an aircraft or aircraft engine to which this subsection applies,
+
+then that concessionary rate of tax applies to such income if the company remains an approved aircraft leasing company at the time the income accrues to or is derived by the company.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(1B) Subsection (1A) —
+
+(a) applies to an aircraft or aircraft engine that the company either owned (whether legally or beneficially) or of which it was a lessee under a finance lease treated as a sale under section 10D, as at the last day of the previous approval period; and
+
+(b) does not apply to any aircraft or aircraft engine that —
+
+(i) has been disposed of by the company after that day and then re-acquired by or leased back to the company; or
+
+(ii) has not been delivered to the company as of that day.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(1C) The election under subsection (1A) must be made by written notice to the Comptroller at the time of lodgment of the return of income for the year of assessment relating to the basis period in which the approval in subsection (1A)(b) is given or within such extended time as the Comptroller may allow.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (2) The concessionary rate of tax referred to in subsection (1) shall apply to an approved aircraft leasing company subject to such conditions as the Minister or such person as he may appoint may impose.
 
@@ -21120,9 +21734,11 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 (9) This section shall not apply to —
 
-(a) any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2018 (both dates inclusive), subject to such conditions as the Minister may impose;
+(a) any interest derived from any qualifying debt securities issued during the period from 27th February 1999 to 31st December 2023 (both dates inclusive), subject to such conditions as the Minister may impose;
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (b) any interest derived from any qualifying project debt securities issued during the period from 1 November 2006 to 31 December 2022 (both dates inclusive), subject to such conditions as the Minister may impose;
 
@@ -21142,6 +21758,10 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [53/2007]
 
+(11) To avoid doubt, in this section, “interest” includes the part of any payment liable to be made by a lessee to a lessor under a finance lease of any machinery or plant treated as sold by the lessor to the lessee pursuant to regulations made under section 10D(1), that is income of the lessor under section 10D(2A).
+
+[Act 45 of 2018 wef 12/11/2018]
+
 ### Application of section 45 to royalties, management fees, etc.
 
 45A\.—(1) Section 45(1) to (8) shall apply in relation to the payment of any income referred to in section 12(6) or (7) by any person to another person not known to him to be resident in Singapore as those provisions apply to any interest paid by a person to another person not known to him to be resident in Singapore and, for the purpose of such application, any reference in those provisions to interest shall be construed as a reference to the income referred to in section 12(6) or (7).
@@ -21154,23 +21774,29 @@ and every such amount deducted shall be a debt due from him to the Government an
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(b) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2018 (both dates inclusive).
+(b) any qualifying debt securities issued during the period from 17th February 2006 to 31st December 2023 (both dates inclusive).
 
 [7/2007; 34/2008; 19/2013]
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(2A) Subsection (1) shall not apply to any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2018 (both dates inclusive), subject to such conditions as the Minister may impose.
+[Act 45 of 2018 wef 12/11/2018]
+
+(2A) Subsection (1) shall not apply to any amount payable from any Islamic debt securities which are qualifying debt securities, and issued during the period from 1st January 2005 to 31st December 2023 (both dates inclusive), subject to such conditions as the Minister may impose.
 
 [34/2005; 34/2008; 19/2013]
 
 [Act 37 of 2014 wef 27/11/2014]
 
+[Act 45 of 2018 wef 12/11/2018]
+
 (2B) Subject to such conditions as the Minister may impose, subsection (1) shall not apply to —
 
-(a) any prepayment fee, redemption premium or break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2018 (both dates inclusive); or
+(a) any prepayment fee, redemption premium or break cost from any qualifying debt securities issued during the period from 15th February 2007 to 31st December 2023 (both dates inclusive); or
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (b) any discount, prepayment fee, redemption premium or break cost from any qualifying project debt securities issued during the period from 15 February 2007 to 31 December 2022 (both dates inclusive).
 
@@ -21738,11 +22364,7 @@ as the case may be.
 
 (6) [Deleted by Act 19 of 2013]
 
-### Special allowance for interest received as trading receipts
-
-47\.—(1) A person who receives as trading receipts interest on any bond, securities, stock or fund specified in the Fourth Schedule shall be entitled to a credit of one-half of the tax chargeable on the gross amount of such interest.
-
-(2) The credit under subsection (1) shall not exceed the total amount of tax payable by him for that year of assessment on the gross amount of such interest which has been brought to charge.
+47\. [Repealed by Act 45 of 2018 wef 12/11/2018]
 
 ## PART XIV
 
@@ -22200,9 +22822,11 @@ RETURNS
 
 [49/2004]
 
-(2) The amount of chargeable income (after deducting the amount not charged to tax under section 43(6) or (6A)) of any company for any year of assessment shall be converted to an equivalent amount in Singapore dollar, and the amount of tax which has been deducted or is deductible from any interest under section 45 derived by the company shall remain denominated in Singapore dollar.
+(2) The amount of chargeable income (after deducting the amount not charged to tax under section 43(6) or (6C)) of any company for any year of assessment shall be converted to an equivalent amount in Singapore dollar, and the amount of tax which has been deducted or is deductible from any interest under section 45 derived by the company shall remain denominated in Singapore dollar.
 
 [49/2004; 19/2013]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (3) The amount of statutory income from any trade, business, profession or vocation carried on by any individual for any basis period and the amount of donation made by him during any year shall be converted to an equivalent amount in Singapore dollar, and any amount of allowances, losses or donations which remains unabsorbed at the end of any basis period or at the end of any year, as the case may be, shall be carried forward to the next basis period or next year denominated in Singapore dollar.
 
@@ -22340,13 +22964,53 @@ RETURNS
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(f) shall be entitled to require a person in or at the building or place and who appears to the Comptroller or officer to be acquainted with any facts or circumstances concerning the person’s or another person’s income, assets or liabilities —
+(f) shall be entitled to require a person in or at the building or place, and who appears to the Comptroller or officer to be acquainted with —
 
-(i) to answer any question to the best of that person’s knowledge, information and belief; or
+(i) any facts or circumstances concerning the person’s or another person’s income, assets or liabilities; or
 
-(ii) to take reasonable steps to produce a document for inspection.
+(ii) any facts or circumstances that are relevant to an investigation of, or the prosecution of a person for, an offence under this Act,
 
-[Act 34 of 2016 wef 29/12/2016]
+to do either or both of the following:
+
+(iii) answer any question to the best of that person’s knowledge, information and belief;
+
+(iv) take reasonable steps to produce a document for inspection.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(1A) The Comptroller or a specially authorised officer may, for the purpose of investigating an offence under section 37J(3) or (4), 96 or 96A, break open any outer or inner door or window, or use any other reasonable means, to gain entry to a building or place.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(1B) The Comptroller or a specially authorised officer may only exercise the power under subsection (1A) if —
+
+(a) he has reason to believe that there is in that building or place any document or thing that may be, or that contains information that may be —
+
+(i) relevant to the investigation; or
+
+(ii) required as evidence in proceedings for the offence being investigated;
+
+(b) he has reason to believe that the document or thing is likely to be concealed, removed or destroyed, or the information is likely to be deleted, by any person; and
+
+(c) he is unable to gain entry to that building or place after stating his authority and purpose and demanding such entry.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(1C) To avoid doubt, the Comptroller or a specially authorised officer who has gained entry to a building or place by exercising his power under subsection (1A), may exercise any of his powers under subsection (1) after such entry.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(1D) The Comptroller or a specially authorised officer may, after gaining entry into a building or place under subsection (1) or (1A) for the purpose of investigating an offence under this Act, search or cause to be searched a person found in the building or place for any document or thing which may be relevant for the investigation, or is required as evidence in proceedings for that offence.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(1E) A reference in subsection (1D) to an offence under this Act excludes an offence under section 65C as applied by section 105F or by section 105N, or an offence under section 105M.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(1F) A woman must not be searched except by a woman.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (2) A person shall not be obliged under this section to disclose (including through the production of a document) —
 
@@ -22358,23 +23022,33 @@ RETURNS
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(3) The Comptroller may by notice require any person to give orally, in writing, or through the electronic service, as may be required, all such information concerning his or any other person’s income or assets or liabilities as may be demanded of him by the Comptroller for the purposes of this Act.
+(3) The Comptroller may by notice require any person to give orally, in writing, or through the electronic service —
 
-[19/2013]
+(a) any information concerning the person’s or any other person’s income, assets or liabilities that is relevant for the purposes of this Act; or
 
-[Act 2 of 2016 wef 11/04/2016]
+(b) any information that is relevant for an investigation of, or the prosecution of a person for, an offence under this Act.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (3A) The time for compliance with a notice under subsection (3) shall be 21 days from the date of service of the notice or such other period as the Comptroller considers appropriate.
 
 [19/2013]
 
-(3B) For the purposes of this Act, the Comptroller may by notice require any person to attend personally before the Comptroller or an officer authorised by the Comptroller, at the place and time specified in the notice, to do one or both of the following:
+(3B) The Comptroller may by notice require any person to attend personally before the Comptroller or an officer authorised by the Comptroller, at the place and time specified in the notice, to do one or both of the following:
 
-(a) provide, to the best of that person’s knowledge, information and belief, any information concerning the person’s or any other person’s income, assets or liabilities;
+(a) provide, to the best of that person’s knowledge, information and belief —
 
-(b) take reasonable steps to produce for inspection any document concerning any of those matters.
+(i) any information concerning the person’s or any other person’s income, assets or liabilities that is relevant for the purposes of this Act; or
+
+(ii) any information that is relevant for an investigation of, or the prosecution of a person for, an offence under this Act; or
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(b) take reasonable steps to produce for inspection any document concerning such income, assets or liabilities, or that contains such information.
 
 [Act 34 of 2016 wef 29/12/2016]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (3C) The power to require a person to provide information or produce a document under subsection (1)(f) or (3), or when in attendance before the Comptroller or an authorised officer pursuant to a notice under subsection (3B), includes the power —
 
@@ -22569,6 +23243,154 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (6) A person who in good faith complies with subsection (1) shall not be treated as being in breach of any duty to disclose the information to any person, whether imposed by written law, rule of law, any contract or any rule of professional conduct; and no criminal or civil action for a breach of such duty shall lie against the first‑mentioned person.
 
 [19/2013]
+
+### Arrest of person
+
+65F\.—(1) The Comptroller or a specially authorised officer (called in this section and sections 65G, 65H and 65I an arresting officer) may arrest without warrant any person whom the arresting officer reasonably believes —
+
+(a) has committed an offence under section 37J(3) or (4), 96 or 96A; or
+
+(b) is doing any of the following:
+
+(i) destroying or attempting to destroy any document or thing with a view to hindering or obstructing the Comptroller, or an officer authorised under section 4(1) to investigate offences under this Act, in the exercise of his powers;
+
+(ii) deleting or attempting to delete any information contained in any thing with a view to hindering or obstructing the Comptroller or an officer mentioned in sub-paragraph (i), in the exercise of his powers;
+
+(iii) resisting or attempting to resist, without reasonable excuse, the taking of any document or thing by the Comptroller or an officer mentioned in sub-paragraph (i),
+
+being any document, thing or information that may be relevant to an investigation of an offence under this Act, or that may be required as evidence in proceedings for an offence under this Act.
+
+(2) A reference in subsection (1)(b) to an offence under this Act excludes an offence under section 65C as applied by section 105F or by section 105N, and an offence under section 105M.
+
+(3) An arresting officer may search or cause to be searched an arrested person.
+
+(4) A woman must not be searched except by a woman.
+
+(5) An arresting officer making an arrest must, without unnecessary delay and subject to subsection (8) and the rules mentioned in subsection (10), take or send an arrested person before a Magistrate’s Court.
+
+(6) An arresting officer must not detain in custody an arrested person for a longer period than under the circumstances of the case is reasonable.
+
+(7) Such period must not exceed 48 hours, excluding the time necessary for the journey from the place of arrest to the Magistrate’s Court.
+
+(8) An arrested person must not be released except —
+
+(a) on the person’s own bond;
+
+(b) on bail by a Magistrate or an arresting officer; or
+
+(c) under the special order in writing by a Magistrate or an arresting officer.
+
+(9) If any arrested person escapes, he may, at any time afterwards, be arrested in accordance with this section and section 65G.
+
+(10) The Minister may make rules under section 7 to provide for —
+
+(a) any matter relating to the release of any person on any bond, bail or special order under subsection (8); and
+
+(b) the arrest of any person with or without warrant by an arresting officer for a breach of the conditions of a bond, bail or special order or other specified circumstances.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+### No unnecessary restraint
+
+65G\.—(1) In making an arrest, an arresting officer must touch or confine the body of a person to be arrested unless the person submits to arrest by word or action.
+
+(2) If the person forcibly resists, or tries to evade arrest, the arresting officer may use all reasonable means necessary to make the arrest.
+
+(3) An arrested person must not be subject to more restraint than is necessary to prevent the person’s escape.
+
+(4) An arresting officer may use handcuffs or any similar means of restraint on an arrested person to prevent the person from —
+
+(a) inflicting any bodily injury to himself or others;
+
+(b) damaging any property;
+
+(c) creating any disturbance; or
+
+(d) escaping from custody.
+
+(5) The handcuffs or means of restraint must not be used for the purpose of punishment.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+### Arresting officer to be armed
+
+65H\. An arresting officer may be provided with such batons and accoutrements as may be necessary for the effective discharge of his duties under sections 65F and 65G.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+### Search of place entered by person sought to be arrested
+
+65I\.—(1) If an arresting officer has reason to believe that a person to be arrested under section 65F(1) is inside any building or place and demands entry to that building or place, any person who resides in or is in charge of the building or place must allow the arresting officer free entry and provide all reasonable facilities for a search in it.
+
+(2) If entry to that building or place cannot be gained under subsection (1), it is lawful for the arresting officer to enter and search the building or place.
+
+(3) After stating his authority and purpose and demanding entry to a building or place, the arresting officer who is unable to obtain entry may, for the purposes of subsection (2), break open any outer or inner door or window or use any other reasonable means to gain such entry.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+### Arrested person may be orally examined
+
+65J\.—(1) The Comptroller or an officer authorised under section 4(1) to investigate offences under this Act (called in this section an investigation officer), may examine orally a person arrested under section 65F(1).
+
+(2) A person examined by an investigation officer need not state anything which —
+
+(a) the person is under any statutory obligation (other than sections 128, 128A, 129 and 131 of the Evidence Act (Cap. 97)) to observe secrecy; or
+
+(b) is subject to legal privilege.
+
+(3) A statement made by an arrested person must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) be signed by the person.
+
+(4) Any person who, without reasonable excuse, fails or refuses to answer any question when examined under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) The Comptroller may compound any offence under subsection (4).
+
+(6) The generality of the term “reasonable excuse” in subsection (4) is not affected by subsection (2).
+
+(7) Except as provided under subsection (2), it is not a defence to a charge under subsection (4) for a failure to provide any information demanded by an investigation officer that the person is under a duty of secrecy in respect of that information (called in this section a displaced duty of secrecy).
+
+(8) A person who in good faith provides information demanded by an investigation officer under subsection (1) is not treated as being in breach of a displaced duty of secrecy.
+
+(9) No civil or criminal action for a breach of a displaced duty of secrecy, other than a criminal action for an offence under subsection (10), lies against the person mentioned in subsection (8) for providing any information if he had done so in good faith in compliance with a demand of an investigation officer under subsection (1).
+
+(10) Any person who, in purported compliance with a demand of an investigation officer under subsection (1), provides any information known to the person to be false or misleading in a material particular —
+
+(a) without indicating to the investigation officer that the information is false or misleading and the part that is false or misleading; and
+
+(b) without providing correct information to the investigation officer if the person is in possession of, or can reasonably acquire, the correct information,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 45 of 2018 wef 12/11/2018]
+
+### Disposal of item furnished or seized
+
+65K\.—(1) Any item furnished to or seized by the Comptroller or an officer authorised by the Comptroller under section 65A or 65B must —
+
+(a) where the item is produced in any criminal proceedings, be dealt with in accordance with section 364 of the Criminal Procedure Code (Cap. 68); or
+
+(b) in any other case, be dealt with in accordance with subsections (2), (3) and (4).
+
+(2) The Comptroller or an officer authorised by the Comptroller must serve a notice on the owner of the item instructing the owner to take custody of it within the period specified in the notice, which must be at least 5 days after the date of service of the notice.
+
+(3) If the owner fails to take custody of the item within the period specified in the notice, or where the owner is unknown or cannot be found, then —
+
+(a) if the item is a document (other than one specified in paragraph (d) or (e) of the definition of “document” in section 65B(3E)), the item may be disposed of in such manner as the Comptroller directs; or
+
+(b) if the item is anything not specified in paragraph (a), the Comptroller must make a report of this to a Magistrate.
+
+(4) The Magistrate to whom a report is made under subsection (3)(b) may order the item to be forfeited or disposed of in such manner as the Magistrate thinks fit.
+
+(5) Nothing in this section affects any right to retain or dispose of any item which may exist in law apart from this section.
+
+[Act 45 of 2018 wef 12/11/2018]
 
 ### Returns to be deemed to be furnished by due authority
 
@@ -23634,11 +24456,25 @@ but excluding any employee who is also a unitholder of the trust.
 
 92G\. Where the Comptroller is satisfied that the remission of tax would be beneficial to a company, then there is to be remitted the tax payable for the year of assessment 2018 by the company of an amount equal to the lower of the following:
 
+(a) 40% of the tax payable for that year of assessment (excluding any tax levied and paid or payable pursuant to section 43(3), (3A) and (3B));
+
+[Act 45 of 2018 wef 12/11/2018]
+
+(b) $15,000.
+
+[Act 39 of 2017 wef 26/10/2017]
+
+[Act 45 of 2018 wef 12/11/2018]
+
+### Remission of tax of companies for year of assessment 2019
+
+92H\. Where the Comptroller is satisfied that the remission of tax would be beneficial to a company, then there is to be remitted the tax payable for the year of assessment 2019 by the company of an amount equal to the lower of the following:
+
 (a) 20% of the tax payable for that year of assessment (excluding any tax levied and paid or payable pursuant to section 43(3), (3A) and (3B));
 
 (b) $10,000.
 
-[Act 39 of 2017 wef 26/10/2017]
+[Act 45 of 2018 wef 12/11/2018]
 
 ### Repayment of tax
 
@@ -23958,9 +24794,13 @@ the imprisonment he shall be liable to shall not be less than 6 months.
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-### Penalty for obstructing officers
+### Penalty for obstructing Comptroller or officers
 
-98\. Any person who obstructs or hinders any officer acting in the discharge of his duty under this Act shall be guilty of an offence.
+98\.—(1) Any person who obstructs or hinders the Comptroller or any officer in the discharge of his duties or the exercise of his powers under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(2) The Comptroller may compound an offence under subsection (1).
+
+[Act 45 of 2018 wef 12/11/2018]
 
 ### Tax to be payable notwithstanding any proceedings for penalties
 
@@ -24226,9 +25066,11 @@ EXCHANGE OF INFORMATION ARRANGEMENTS
 
 ### Power of Comptroller to obtain information
 
-105F\.—(1) Sections 65 to 65D shall have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of complying with a request under section 105D; and section 65E shall also have effect in relation to a notice issued under section 65B for the purpose of complying with such a request.
+105F\.—(1) Sections 65 to 65D (except Section 65B(1D)) shall have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of complying with a request under section 105D; and section 65E shall also have effect in relation to a notice issued under section 65B for the purpose of complying with such a request.
 
 [19/2013]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (2) For the purpose of subsection (1) —
 
@@ -24543,7 +25385,7 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 
 ### Power of Comptroller to obtain information
 
-105N\.—(1) Sections 65 to 65D have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of —
+105N\.—(1) Sections 65 to 65D (except section 65B(1D)) have effect for the purpose of enabling the Comptroller to obtain any information for the purpose of —
 
 (a) complying with any provision of an international tax compliance agreement;
 
@@ -24552,6 +25394,8 @@ then the Comptroller may in writing direct a relevant person that section 105L o
 (c) determining whether a person has complied with any regulation made under section 105P.
 
 [Act 15 of 2016 wef 20/07/2016]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 (2) For the purpose of subsection (1) —
 
@@ -24593,15 +25437,9 @@ under section 4(1) to perform or assist in the performance of a duty of the Comp
 
 [Act 15 of 2016 wef 20/07/2016]
 
-(1A) The Minister may also make regulations to enable the Comptroller to obtain a country-by-country report or its equivalent in a case where the Comptroller is unable to obtain the report or its equivalent from the tax authority of a country in accordance with the Action 13 Report because —
+(1A) The Minister may also make regulations to enable the Comptroller to obtain a country-by-country report or its equivalent from a prescribed person who is resident in Singapore or has a permanent establishment in Singapore in prescribed circumstances.
 
-(a) the Government or the Minister or the Minister’s authorised representative does not have a CbCR exchange agreement with the government or an authority of that country; or
-
-(b) the Government or the Minister or the Minister’s authorised representative has a CbCR exchange agreement with the government or an authority of that country, but the Minister is of the opinion that the agreement is not operating effectively.
-
-[Act 39 of 2017 wef 26/10/2017]
-
-[Act 34 of 2016 wef 29/12/2016]
+[Act 45 of 2018 wef 12/11/2018]
 
 (2) Without prejudice to the generality of subsection (1), regulations under subsection (1) may —
 
@@ -24743,9 +25581,11 @@ MISCELLANEOUS
 
 (2) Parliament may, by resolution, exempt any person or class of persons from all or any of the provisions of this Act.
 
-(3) The Minister may, by order published in theGazette, amend, add to or revoke the whole or any part of the First, Fourth, Sixth, Seventh and Eighth Schedules.
+(3) The Minister may, by order published in theGazette, amend, add to or revoke the whole or any part of the First, Sixth, Seventh and Eighth Schedules.
 
 [4/75; 28/80; 34/2005; 24/2009]
+
+[Act 45 of 2018 wef 12/11/2018]
 
 107\. [Repealed by Act 19 of 2013]
 
@@ -25319,63 +26159,7 @@ THIRD SCHEDULE
 
 FOURTH SCHEDULE
 
-Sections 47(1) and 106(3)
-
-Name of bond, securities, stock or fund
-
-1. 
-
-Singapore Government Tax Free 6¼% Registered Stock 1976 (1993) Loan No. 3.
-
-2. 
-
-Singapore Government Tax Free 6¼% Registered Stock 1977 (1997) Loan No. 1.
-
-3. 
-
-Singapore Government Tax Free 6¼% Registered Stock 1977 (1995/97) Loan No. 2.
-
-4. 
-
-Singapore Government Tax Free 6¼% Registered Stock 1978 (1998) Loan No. 1.
-
-5. 
-
-Singapore Government Tax Free 6¼% Registered Stock 1978 (1998) Loan No. 2.
-
-6. 
-
-Singapore Government Tax Free 6¼% Registered Stock (Maturing 1st March 1999).
-
-7. 
-
-Singapore Government Tax Free 6¼% Registered Stock (Maturing 15th June 1999).
-
-8. 
-
-Singapore Government Tax Free 6¼% Registered Stock (Maturing 15th October 1999).
-
-9. 
-
-Singapore Government Tax Free 6¼% Registered Stock 1980 (Maturing 1st March 2000) Loan No. 1.
-
-10. 
-
-Singapore Government Tax Free 6¼% Registered Stocks 1980 (Maturing 15th July 2000) Loan No. 2.
-
-11. 
-
-Singapore Government Tax Free 6¼% Registered Stocks 1980 (Maturing 15th November 2000) Loan No. 3.
-
-12. 
-
-Singapore Government Tax Free 6¼% Registered Stocks 1982 (Maturing 15th April 2002) Loan No. 1.
-
-13. 
-
-Singapore Government Tax Free 6¼% Registered Stocks 1983 (Maturing 15th May 2003) Loan No. 1.
-
-[S 169/71; S 84/72; S 85/72; S 168/72; S 239/72; S 22/73; S 176/73; S 340/73; S 238/74; S 171/75; S 238/75; S 4/76; S 101/76; S 159/76; S 226/76; S 87/77; S 257/77; S 258/77; S 113/78; S 185/78; S 275/78; S 63/79; S 148/79; S 234/79; S 103/80; S 251/80; S 336/80; S 129/82; S 168/83]
+[Repealed by Act 45 of 2018 wef 12/11/2018]
 
 FIFTH SCHEDULE
 
@@ -26939,11 +27723,16 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 April 2017|
 |||1 June 2017|
 |||26 October 2017|
-|199.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
-||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
-||Date of Second and Third Readings|7 October 2019|
-||Date of commencement|1 January 2018|
-|200.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
+|199.|**Act 9 of 2018—Cybersecurity Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|31 August 2018|
+|200.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+||Date of First Reading|7 November 2016|
+|||(Bill No. 35/2016)|
+||Date of Second and Third Readings|9 January 2017|
+||Date of commencement|8 October 2018|
+|201.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
 ||Date of First Reading|10 September 2018|
 |||(Bill No. 37/2018)|
 ||Date of Second and Third Readings|2 October 2018|
@@ -26953,15 +27742,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 April 2018|
 |||4 May 2018|
 |||1 July 2018|
-|201.|**Act 9 of 2018—Cybersecurity Act 2018**|
-||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
-||Date of Second and Third Readings|5 February 2018|
-||Date of commencement|31 August 2018|
-|202.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
-||Date of First Reading|7 November 2016|
-|||(Bill No. 35/2016)|
-||Date of Second and Third Readings|9 January 2017|
-||Date of commencement|8 October 2018|
+|||12 November 2018|
+|202.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
+||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
+||Date of Second and Third Readings|7 October 2019|
+||Date of commencement|1 January 2018|
+|||12 November 2018|
 ## COMPARATIVE TABLE
 
 Income Tax Act
