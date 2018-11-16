@@ -195,6 +195,12 @@ SkillsFuture Singapore Agency
 
 Urban Redevelopment Authority
 
+23. 
+
+Agri-Food and Veterinary Authority
+
+[S 753/2018 wef 16/11/2018]
+
 ## LEGISLATIVE HISTORY
 
 Attorney-General (Additional Functions) Act
@@ -236,3 +242,5 @@ This Legislative History is provided for the convenience of users of the Attorne
 ||Date of commencement|1 June 2017|
 |10.|**2017 Revised Edition—Attorney-General (Additional Functions) Act (Chapter 16A)**|
 ||Date of operation|30 November 2017|
+|11.|**G.N. No. S 753/2018—Attorney-General (Additional Functions) Act (Amendment of Schedule) Order 2018**|
+||Date of commencement|16 November 2018|
