@@ -2910,9 +2910,11 @@ made under a securities lending or repurchase arrangement by a Singapore-based t
 
 “full banking licence” has the same meaning as in the Banking (Licence Fees) Notification (Cap. 19, N 1);
 
-“MAS Notice 637” means the notice commonly known as MAS Notice 637 that is issued by the Monetary Authority of Singapore pursuant to sections 10(2), 36(2) and 55 of the Banking Act, and includes any notice that replaces it.
+“MAS Notice 637” means the notice commonly known as MAS Notice 637 that is issued by the Monetary Authority of Singapore pursuant to sections 10(2), 55 and 65(2) of the Banking Act, and includes any notice that replaces it.
 
 [Act 37 of 2014 wef 27/11/2014]
+
+[Act 5 of 2016 wef 30/11/2018]
 
 ### Ascertainment of income of clubs, trade associations, etc.
 
@@ -6728,8 +6730,6 @@ then the write-back or profit referred to in paragraph (b) shall be regarded as 
 
 [29/2012]
 
-[Act 39 of 2017 wef 26/10/2017]
-
 [Act 32 of 2019 wef 12/11/2018]
 
 ## PART V
@@ -9620,15 +9620,21 @@ shall be allowed the deduction or further deduction for the previous expense und
 
 (ii) to which INT FRS 112 or SFRS(I) INT 12 applies;
 
+[Act 32 of 2019 wef 12/11/2018]
+
 (b) section 10F(1A) or (1C) applies to him in respect of those services;
 
 (c) the person recognises in his financial statements, prepared in accordance with INT FRS 112 or SFRS(I) INT 12 (as the case may be), an intangible asset as having been created in the course of providing the services; and
+
+[Act 32 of 2019 wef 12/11/2018]
 
 (d) in accordance with FRS 38 or SFRS(I) 1-38 (as the case may be), amortisation of the asset is recognised in the person’s financial statements for the basis period for the year of assessment 2012 or any subsequent year of assessment,
 
 then the amount of the amortisation that is recognised in the person’s financial statements as an expense in accordance with FRS 38 or SFRS(I) 1-38 (as the case may be), shall be allowed to the person as a deduction against an amount that is deemed as income derived by that person for that basis period under section 10F(1A) or (1C).
 
 [19/2013]
+
+[Act 32 of 2019 wef 12/11/2018]
 
 (2) In this section —
 
@@ -27732,7 +27738,12 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
-|201.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
+|201.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
+||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
+||Date of Second and Third Readings|7 October 2019|
+||Date of commencement|1 January 2018|
+|||12 November 2018|
+|202.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
 ||Date of First Reading|10 September 2018|
 |||(Bill No. 37/2018)|
 ||Date of Second and Third Readings|2 October 2018|
@@ -27743,11 +27754,10 @@ This Legislative History is provided for the convenience of users of the Income 
 |||4 May 2018|
 |||1 July 2018|
 |||12 November 2018|
-|202.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
-||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
-||Date of Second and Third Readings|7 October 2019|
-||Date of commencement|1 January 2018|
-|||12 November 2018|
+|203.|**Act 5 of 2016—Banking (Amendment) Act 2016**|
+||Date of First Reading|25 January 2016 (Bill No. 1/2016 published on 25 January 2016)|
+||Date of Second and Third Readings|29 February 2016|
+||Date of commencement|30 November 2018|
 ## COMPARATIVE TABLE
 
 Income Tax Act
