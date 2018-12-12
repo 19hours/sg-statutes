@@ -280,6 +280,8 @@
 
 - [34I Adjustments arising from adoption of FRS 115 or SFRS(I) 15](#Adjustments-arising-from-adoption-of-FRS-115-or-SFRSI-15)
 
+- [34J Tax treatment arising from adoption of FRS 116 or SFRS(I) 16](#Tax-treatment-arising-from-adoption-of-FRS-116-or-SFRSI-16)
+
 [**Part VIII ASCERTAINMENT OF STATUTORY INCOME**](#Part-VIII)
 
 - [35 Basis for computing statutory income](#Basis-for-computing-statutory-income)
@@ -4710,15 +4712,35 @@ where the mobilisation, holding or demobilisation is undertaken by the approved 
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(p) on or after 25 March 2016 from foreign exchange and risk management activities which are carried out in connection with and incidental to an activity described in paragraph (l), (n) or (o); and
+(p) on or after 25 March 2016 from foreign exchange and risk management activities which are carried out in connection with and incidental to an activity described in paragraph (l), (n) or (o);
 
 [Act 34 of 2016 wef 25/03/2016]
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(q) on or after the date the Income Tax (Amendment No. 3) Act 2016 is published in theGazette, from foreign exchange and risk management activities that are carried out in connection with and incidental to an activity mentioned in subsection (1)(f), (h), (i) or (j).
+[Act 32 of 2019 wef 12/12/2018]
+
+(q) on or after the date the Income Tax (Amendment No. 3) Act 2016 is published in theGazette, from foreign exchange and risk management activities that are carried out in connection with and incidental to an activity mentioned in subsection (1)(f), (h), (i) or (j);
 
 [Act 34 of 2016 wef 29/12/2016]
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(r) on or after 12 December 2018 from —
+
+(i) the finance leasing of any foreign ship to any person where the ship is used by the person for the carriage of passengers, mail, livestock or goods outside the limits of the port of Singapore;
+
+(ii) the finance leasing of any foreign dredger, foreign seismic ship, or any foreign ship used for offshore oil or gas activity to any person where the dredger, seismic ship or ship is used by the person for the person’s operation outside the limits of the port of Singapore;
+
+(iii) the finance leasing of any foreign ship to any person where the ship is used by the person for towage and salvage operations carried out outside the limits of the port of Singapore; and
+
+(iv) the finance leasing of any foreign ship for offshore renewable energy activity or offshore mineral activity to any person, where the ship is used by the person for the person’s operation outside the limits of the port of Singapore; and
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(s) on or after 12 December 2018 from foreign exchange and risk management activities which are carried out in connection with and incidental to an activity mentioned in paragraph (r).
+
+[Act 32 of 2019 wef 12/12/2018]
 
 (1A) Unless the Minister or such person as he may appoint permits in a particular case, subsection (1)(e) does not apply to the provision by an approved international shipping enterprise of ship management services to a qualifying special purpose vehicle if at least 50% of the total number of the issued ordinary shares of the enterprise are beneficially owned, whether directly or indirectly, by another approved international shipping enterprise.
 
@@ -4778,7 +4800,7 @@ to be approved as an approved international shipping enterprise, and the company
 
 [29/2010]
 
-(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in paragraphs (a) to (f), (h) to (l) and (n) to (q) of subsection (1), that loss —
+(4) Where an approved international shipping enterprise incurs a loss during the tax exempt period in respect of any operation, activity or service referred to in paragraphs (a) to (f), (h) to (l) and (n) to (s) of subsection (1), that loss —
 
 (a) shall be deducted in accordance with section 37; and
 
@@ -4791,6 +4813,8 @@ to be approved as an approved international shipping enterprise, and the company
 [Act 34 of 2016 wef 25/03/2016]
 
 [Act 34 of 2016 wef 29/12/2016]
+
+[Act 32 of 2019 wef 12/12/2018]
 
 (4A) Where an approved international shipping enterprise incurs a loss on any sale or assignment referred to in subsection (1)(g) or (m) in any basis period falling, in whole or in part, within the tax exempt period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in either subsection (1)(g) or (m) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
 
@@ -5942,7 +5966,7 @@ is the percentage which the value of equity interests of the second level entity
 
 ### Exemption of income of shipping investment enterprise
 
-13S\.—(1) Subject to subsections (1B) and (4), there shall be exempt from tax the income derived by an approved shipping investment enterprise —
+13S\.—(1) Subject to subsections (1G) and (4), there shall be exempt from tax the income derived by an approved shipping investment enterprise —
 
 (a) before 25 March 2016 from the chartering or finance leasing of any sea-going ship, acquired by the approved shipping investment enterprise before or during the period of its approval referred to in subsection (3), to —
 
@@ -5966,9 +5990,23 @@ for use outside the limits of the port of Singapore;
 
 [Act 34 of 2016 wef 25/03/2016]
 
-(cb) on or after 25 March 2016 from foreign exchange and risk management activities which are carried out in connection with and incidental to any activity mentioned in paragraph (ca); and
+(cb) on or after 25 March 2016 from foreign exchange and risk management activities which are carried out in connection with and incidental to any activity mentioned in paragraph (ca);
 
 [Act 34 of 2016 wef 25/03/2016]
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(cc) on or after 12 December 2018 from the chartering or finance leasing by the approved shipping investment enterprise of any sea‑going ship, for use by the lessee outside the limits of the port of Singapore, if the ship was —
+
+(i) acquired by an approved related party before or during the period of its approval under subsection (3); and
+
+(ii) chartered, or leased under a finance lease, by the approved related party to the approved shipping investment enterprise;
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(cd) on or after 12 December 2018 from foreign exchange and risk management activities that are carried out in connection with and incidental to an activity mentioned in paragraph (cc); and
+
+[Act 32 of 2019 wef 12/12/2018]
 
 (d) on or after 1st June 2011 from —
 
@@ -5980,13 +6018,31 @@ for use outside the limits of the port of Singapore;
 
 [34/2008; 29/2012]
 
+[Act 32 of 2019 wef 12/12/2018]
+
 (1A) Subsection (1), in relation to income referred to in paragraph (a), (b), (c), (ca) or (cb) of that subsection, shall continue to apply to a shipping investment enterprise the approval of which has expired or been withdrawn, but which continues to derive such income in relation to a sea-going ship acquired before or during the period of the approval, provided that the enterprise has by the date of the expiry or before the withdrawal, fulfilled all the conditions referred to in subsection (3); and any reference in this section to an approved shipping investment enterprise shall be construed accordingly.
 
 [34/2008; 29/2012]
 
 [Act 34 of 2016 wef 25/03/2016]
 
-(1AA) Subsection (1)(d) does not apply to —
+(1B) In relation to income mentioned in subsection (1)(cc) or (cd), subsection (1) continues to apply to a shipping investment enterprise the approval of which has expired or been withdrawn, but that continues to derive such income, if both the shipping investment enterprise and the related party mentioned in subsection (1)(cc) have, by the date of the expiry or before the withdrawal, fulfilled all the conditions of their respective approvals under subsection (3).
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(1C) For the purpose of subsection (1B), the shipping investment enterprise is treated under this section as an approved shipping investment enterprise.
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(1D) Subsection (1)(ca) and (cc) does not apply to income derived on or after 12 December 2018 from the chartering or finance leasing of a sea‑going ship that is acquired by the approved shipping investment enterprise or the approved related party by way of a finance lease entered into with an entity that was not an approved related party.
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(1E) Subsections (1)(cc) and (cd) and (1B) apply to income derived by an approved shipping investment enterprise in relation to a ship acquired by the related party before the period of the approval of the related party, if and only if the approved shipping investment enterprise is approved on or after 1 April 2008.
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(1F) Subsection (1)(d) does not apply to —
 
 (a) any income of an approved shipping investment enterprise as a lessor of a sea-going ship under a finance lease that is treated as a sale under section 10D; or
 
@@ -5994,17 +6050,23 @@ for use outside the limits of the port of Singapore;
 
 [29/2012]
 
-(1B) Subsections (1) and (1A) shall apply to income derived by an approved shipping investment enterprise in relation to a sea-going ship acquired before the period of its approval, if and only if the enterprise is approved on or after 1st April 2008.
+[Act 32 of 2019 wef 12/12/2018]
+
+(1G) Subsections (1) and (1A) shall apply to income derived by an approved shipping investment enterprise in relation to a sea-going ship acquired before the period of its approval, if and only if the enterprise is approved on or after 1st April 2008.
 
 [34/2008]
 
-(2) The Minister or such person as he may appoint may, at any time between 1st March 2006 and 31st May 2021 (both dates inclusive), approve a shipping investment enterprise for the purposes of subsection (1).
+[Act 32 of 2019 wef 12/12/2018]
+
+(2) The Minister or such person as he may appoint may, at any time between 1st March 2006 and 31st May 2021 (both dates inclusive), approve a shipping investment enterprise or a related party of an approved shipping investment enterprise for the purposes of subsection (1).
 
 [7/2007; 29/2010; 22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
 
 [Act 2 of 2016 wef 11/04/2016]
+
+[Act 32 of 2019 wef 12/12/2018]
 
 (3) The approval under subsection (2) shall be subject to such conditions as the Minister may specify, and shall —
 
@@ -6040,7 +6102,7 @@ except that the Minister may extend the period so specified for such further per
 
 [7/2007; 34/2008; 29/2010]
 
-(6) Where an approved shipping investment enterprise incurs a loss during the tax exempt period in respect of any activity referred to in paragraphs (a), (b), (c), (ca) and (cb) of subsection (1), that loss —
+(6) Where an approved shipping investment enterprise incurs a loss during the tax exempt period in respect of any activity referred to in paragraphs (a), (b), (c), (ca), (cb), (cc) and (cd) of subsection (1), that loss —
 
 (a) shall be deducted in accordance with section 37; and
 
@@ -6049,6 +6111,8 @@ except that the Minister may extend the period so specified for such further per
 [29/2012]
 
 [Act 34 of 2016 wef 25/03/2016]
+
+[Act 32 of 2019 wef 12/12/2018]
 
 (6A) Where an approved shipping investment enterprise incurs a loss on any sale or assignment referred to in subsection (1)(d) in any basis period falling, in whole or in part, within the tax exempt period, that loss shall only be deducted against the gains derived from another sale or assignment referred to in subsection (1)(d) in that same basis period, and the balance of the loss shall not be available as a deduction against any other income.
 
@@ -6096,11 +6160,17 @@ except that the Minister may extend the period so specified for such further per
 
 “approved international shipping enterprise” means an international shipping enterprise approved by the Minister or such person as he may appoint, subject to such conditions as he may impose;
 
-“finance leasing” means the leasing of any sea-going ship which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of the sea-going ship to the lessee;
+“finance leasing” means the leasing of any sea-going ship (including any arrangement or agreement in connection with such leasing) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of the sea-going ship to the lessee;
+
+[Act 32 of 2019 wef 12/12/2018]
 
 “international shipping enterprise” has the same meaning as in section 13F(6);
 
 “registered business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
+
+“related party”, in relation to an approved shipping investment enterprise, means any entity that is related to the approved shipping investment enterprise in such manner as may be prescribed by rules made under section 7;
+
+[Act 32 of 2019 wef 12/12/2018]
 
 [Deleted by Act 2 of 2016 wef 11/04/2016]
 
@@ -6118,13 +6188,29 @@ except that the Minister may extend the period so specified for such further per
 
 “special purpose company”, in relation to an approved shipping investment enterprise, means a company that is wholly owned by the enterprise and whose only business or intended business is the chartering or finance leasing of sea-going ships;
 
-“tax exempt period”, in relation to an approved shipping investment enterprise, means ––
+“tax exempt period”, in relation to an approved shipping investment enterprise, means —
 
-(a) in a case where the enterprise is approved on or after 1st April 2008 and has acquired a sea-going ship for use outside the limits of the port of Singapore before the date of its approval, the period from the date of its approval to the date where no income of any sea-going ship of the enterprise is eligible for exemption from tax under subsection (1); or
+(a) in a case where the enterprise is approved on or after 1 April 2008 and —
 
-(b) in any other case, the period from the date the enterprise first acquires, during the period of its approval, a sea‑going ship for use outside the limits of the port of Singapore to the date where no income of any sea‑going ship of the enterprise is eligible for exemption from tax under subsection (1).
+(i) acquired; or
 
-[7/2007; 34/2008; 29/2012]
+(ii) chartered, or leased under a finance lease, from a related party,
+
+a sea-going ship for use outside the limits of the port of Singapore before the date of approval of the enterprise — the period from the date of that approval to the date where no income of any sea‑going ship of that enterprise is eligible for exemption from tax under subsection (1) (both dates inclusive); or
+
+(b) in any other case — the period from the date the enterprise —
+
+(i) first acquired; or
+
+(ii) first chartered, or leased under a finance lease, from a related party,
+
+during the period of approval of the enterprise, a sea‑going ship for use outside the limits of the port of Singapore, to the date where no income of any sea‑going ship of that enterprise is eligible for exemption from tax under subsection (1) (both dates inclusive).
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(21) Rules made for the purpose of the definition of “related party” in subsection (20) may be made to take effect from (and including) 12 December 2018.
+
+[Act 32 of 2019 wef 12/12/2018]
 
 ### Exemption of trust income to which beneficiary is entitled
 
@@ -14710,6 +14796,184 @@ where —
 
 [Act 45 of 2018 wef 26/10/2017]
 
+### Tax treatment arising from adoption of FRS 116 or SFRS(I) 16
+
+34J\.—(1) Where an MSI recipient (called in this section an electing recipient) makes an election in accordance with subsection (10) to adopt the tax treatment under this section, then, despite any other provision of this Act, that tax treatment applies in relation to the electing recipient in accordance with this section.
+
+(2) If, in any applicable period, a sublease by the electing recipient of a sublease asset is recognised by the electing recipient as a finance lease in accordance with FRS 116 or SFRS(I) 16, any income of the electing recipient derived under that sublease in that applicable period is taken as having been derived from a finance lease for the purpose of section 10D.
+
+(3) If, in any applicable period, a sublease by the electing recipient of a sublease asset is recognised by the electing recipient as an operating lease in accordance with FRS 116 or SFRS(I) 16, any income of the electing recipient derived under that sublease in that applicable period is taken as not having been derived from a finance lease for the purpose of section 10D.
+
+(4) The electing recipient is not entitled to any deduction under Part V in a year of assessment for any outgoing or expense incurred during an applicable period in relation to a qualifying asset of which it is a lessee, against any income derived by it from any use of that qualifying asset.
+
+(5) Where the electing recipient makes an election under subsection (10) at the time of lodgment of the return of income for the year of assessment for the basis period in which 12 December 2018 falls, then —
+
+(a) for the year of assessment for the basis period in which that date falls — the capital allowances to be made to it under section 19, 19A or 22 for any qualifying asset of which it is a lessee, are to be reduced by an amount computed by the formula
+
+where —
+
+(i) A is the number of days between 12 December 2018 and the last day of the basis period for that year of assessment (both days inclusive); and
+
+(ii) B is the amount of the capital allowances for that year of assessment for that qualifying asset;
+
+(b) for the year of assessment for the basis period in which that date falls — no allowance may be made to, and no charge may be made on, the electing recipient under section 20 or 21 for any event mentioned in section 20(1) that occurs in the period between 12 December 2018 and the last day of the basis period for that year of assessment (both days inclusive), in relation to any qualifying asset of which it is a lessee; and
+
+(c) for any subsequent year of assessment other than the last year of assessment —
+
+(i) the electing recipient is not entitled to any allowance under section 19, 19A or 22; and
+
+(ii) no allowance may be made to, and no charge may be made on, the electing recipient under section 20 or 21 for any event mentioned in section 20(1) that occurs in the basis period for that year of assessment,
+
+in relation to any qualifying asset of which it is a lessee.
+
+(6) Where the electing recipient makes the election under subsection (10) at the time of lodgment of the return of income for the year of assessment for any basis period other than that in which 12 December 2018 falls, then, for every year of assessment beginning with the basis period in which it makes the election and before the last year of assessment —
+
+(a) the electing recipient is not entitled to any allowance under section 19, 19A or 22; and
+
+(b) no allowance may be made to, and no charge may be made on, the electing recipient under section 20 or 21 for any event mentioned in section 20(1) that occurs in the basis period for that year of assessment,
+
+in relation to any qualifying asset of which it is a lessee.
+
+(7) For the last year of assessment, the capital allowances under section 19, 19A or 22 for any qualifying asset of which the electing recipient is a lessee, and which was leased for its trade or business before the date it ceases to be an MSI recipient, are to be —
+
+(a) computed on the residue of the capital expenditure or reducing value of the qualifying asset (as the case may be) after deducting all such allowances (including initial and annual allowances) that have or would (but for subsection (5) or (6)) have been made to the electing recipient for all past years of assessment, even if no such allowance was made; and
+
+(b) reduced by an amount computed by the formula
+
+where —
+
+(i) A is the number of days between the first day of the basis period of the last year of assessment and the day before the day the electing recipient ceases to be an MSI recipient (both days inclusive); and
+
+(ii) B is the amount of the capital allowances for the last year of assessment as computed in accordance with paragraph (a).
+
+(8) For the last year of assessment, no allowance may be made to, and no charge may be made on, the electing recipient under section 20 or 21 for any event mentioned in section 20(1) that occurs between the first day of the basis period of that year of assessment and the day before the day it ceases to be an MSI recipient (both days inclusive), in relation to any qualifying asset of which it is a lessee.
+
+(9) For each subsequent year of assessment after the last year of assessment, the capital allowances under section 19, 19A or 22 for any qualifying asset of which the electing recipient is a lessee, and which was leased for its trade or business before the day it ceases to be an MSI recipient, are to be computed on the residue of the capital expenditure or reducing value of the qualifying asset (as the case may be) after deducting —
+
+(a) all such allowances (including initial and annual allowances) that have or would (but for subsection (5) or (6)) have been made to the electing recipient for all past years of assessment, even if no such allowance was made; and
+
+(b) the total amount of such allowances that would have been made to the electing recipient for the last year of assessment without the reduction under subsection (7)(b).
+
+(10) An MSI recipient may make an election to adopt the tax treatment under this section by providing a written notice to the Comptroller of this —
+
+(a) at the time of lodgment of the return of income for the year of assessment relating to a basis period during which its financial accounts are prepared in accordance with FRS 116 or SFRS(I) 16; or
+
+(b) within such further time as the Comptroller may allow.
+
+(11) An election made under subsection (10) is irrevocable.
+
+(12) If —
+
+(a) the tax treatment under this section has been applied in relation to a ship that is provisionally registered under the Merchant Shipping Act (Cap. 179), and that is operated by an electing recipient that is a shipping enterprise (called in this subsection and subsection (13) the provisionally‑registered ship); and
+
+(b) the electing recipient subsequently fails to obtain a permanent certificate of registry under that Act in respect of that ship,
+
+then the Comptroller must, in relation to every year of assessment for which the tax treatment under this section has already been applied in relation to the provisionally‑registered ship —
+
+(c) make an assessment or additional assessment under section 74 on the electing recipient; or
+
+(d) revise an assessment already made and give a refund to the electing recipient for any tax overpaid,
+
+as the case may be, as if the tax treatment had not been applied for that year of assessment in relation to both the provisionally‑registered ship and relevant assets.
+
+(13) In subsection (12), “relevant assets” means —
+
+(a) if, at the end of the basis period for the year of assessment mentioned in that subsection, the electing recipient operates only the provisionally‑registered ship and no other Singapore ship, all sublease assets and qualifying assets of the electing recipient; or
+
+(b) if, at the end of the basis period for the year of assessment mentioned in that subsection, the electing recipient operates one or more other Singapore ships in addition to the provisionally‑registered ship, any on‑board equipment integral to the operation of the provisionally‑registered ship but no other ship.
+
+(14) In this section —
+
+“applicable period” means —
+
+(a) the later of the following:
+
+(i) the period between 12 December 2018 and the last day of the basis period in which that date falls (both days inclusive);
+
+(ii) the basis period in which the electing recipient makes the election under subsection (10);
+
+(b) each basis period that is subsequent to the period mentioned in paragraph (a) and before the period mentioned in paragraph (c); or
+
+(c) the period starting on the first day of the basis period in which the electing recipient ceases to be an MSI recipient, and ending on (and including) the day before the day of such cessation;
+
+“approved container investment enterprise” means an approved container investment enterprise mentioned in section 43ZA;
+
+“approved international shipping enterprise” means an approved international shipping enterprise mentioned in section 13F;
+
+“approved shipping investment enterprise” means an approved shipping investment enterprise mentioned in section 13S;
+
+“container” has the meaning given by section 43ZA(7);
+
+“FRS 116” means the financial reporting standard issued by the Accounting Standards Council under Part III of the Accounting Standards Act and known as Financial Reporting Standard 116 (Leases);
+
+“intermodal equipment” has the meaning given by section 43ZA(7);
+
+“last year of assessment” means the year of assessment for the basis period in which the electing recipient ceases to be an MSI recipient;
+
+“Maritime Sector Incentive recipient” or “MSI recipient” means a shipping enterprise, an approved international shipping enterprise, an approved shipping investment enterprise, or an approved container investment enterprise;
+
+“qualifying asset” means —
+
+(a) in the case of an electing recipient that is a shipping enterprise, any of the following:
+
+(i) any Singapore ship;
+
+(ii) any on-board equipment integral to the operation of Singapore ships;
+
+(iii) any container;
+
+(iv) any intermodal equipment or any other equipment integral to the operation of containers;
+
+(b) in the case of an electing recipient that is an approved international shipping enterprise, any of the following:
+
+(i) any ship;
+
+(ii) any on-board equipment integral to the operation of ships;
+
+(iii) any container;
+
+(iv) any intermodal equipment or any other equipment integral to the operation of containers;
+
+(c) in the case of an electing recipient that is an approved shipping investment enterprise, any of the following:
+
+(i) any ship;
+
+(ii) any on-board equipment integral to the operation of ships; and
+
+(d) in the case of an electing recipient that is an approved container investment enterprise, any of the following:
+
+(i) any container;
+
+(ii) any intermodal equipment or any other equipment integral to the operation of containers,
+
+but excludes anything that is used solely in the basis period concerned to derive income that is not income that is subject to exemption or a concessionary rate of tax under section 13A, 13F, 13S or 43ZA;
+
+“SFRS(I) 16” means the financial reporting standard issued by the Accounting Standards Council under Part III of the Accounting Standards Act and known as Singapore Financial Reporting Standard (International) 16 (Leases);
+
+“ship” has the meaning given by section 2(1) of the Merchant Shipping Act;
+
+“shipping enterprise” means a company that owns or operates one or more Singapore ships;
+
+“Singapore ship” means —
+
+(a) a ship in respect of which a permanent certificate of registry has been issued under the Merchant Shipping Act and whose registry is not closed or deemed to be closed or suspended; or
+
+(b) a ship that is provisionally registered under that Act;
+
+“sublease asset” means —
+
+(a) in the case of an electing recipient that is a shipping enterprise, any Singapore ship or container;
+
+(b) in the case of an electing recipient that is an approved international shipping enterprise, any ship or container;
+
+(c) in the case of an electing recipient that is an approved shipping investment enterprise, any ship; and
+
+(d) in the case of an electing recipient that is an approved container investment enterprise, any container or intermodal equipment,
+
+but excludes anything that is used solely in the basis period concerned to derive income that is not income that is subject to exemption or a concessionary rate of tax under section 13A, 13F, 13S or 43ZA.
+
+[Act 32 of 2019 wef 12/12/2018]
+
 ## PART VIII
 
 ASCERTAINMENT OF STATUTORY INCOME
@@ -20828,23 +21092,67 @@ then that concessionary rate of tax applies to such income if the company remain
 
 (b) foreign exchange and risk management activities which are carried out in connection with and incidental to the leasing referred to in paragraph (a);
 
-(c) for the year of assessment 2013 and subsequent years of assessment, the leasing of any intermodal equipment owned by the enterprise acquired before or during the period of approval of the enterprise referred to in subsection (4), which is incidental to the leasing referred to in paragraph (a); and
+(c) for the year of assessment 2013 and subsequent years of assessment, the leasing of any intermodal equipment owned by the enterprise acquired before or during the period of approval of the enterprise referred to in subsection (4), which is incidental to the leasing referred to in paragraph (a);
 
-(d) for the year of assessment 2013 and subsequent years of assessment, foreign exchange and risk management activities which are carried out in connection with and incidental to the leasing referred to in paragraph (c).
+[Act 32 of 2019 wef 12/12/2018]
 
-[34/2008; 29/2012]
-
-(2) Subsection (1) shall continue to apply to a container investment enterprise the approval of which has expired or been withdrawn, but which continues to derive income of the type referred to in subsection (1) in relation to a container or an intermodal equipment acquired before or during the period of approval of the enterprise, provided that the enterprise has by the date of the expiry or before the withdrawal of its approval fulfilled all the conditions referred to in subsection (4), and any reference in this section to an approved container investment enterprise shall be construed accordingly.
+(d) for the year of assessment 2013 and subsequent years of assessment, foreign exchange and risk management activities which are carried out in connection with and incidental to the leasing referred to in paragraph (c);
 
 [34/2008; 29/2012]
 
-(3) The Minister or such person as he may appoint may, at any time between 1st April 2008 and 31st May 2021 (both dates inclusive), approve a container investment enterprise for the purposes of subsection (1).
+[Act 32 of 2019 wef 12/12/2018]
+
+(e) the leasing of any container used for international transportation of goods, if the container was —
+
+(i) acquired by an approved related party before or during the period of the approval of the related party under subsection (4); and
+
+(ii) leased by the approved related party to the approved container investment enterprise;
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(f) the leasing of any intermodal equipment that is incidental to the lease mentioned in paragraph (e), if the intermodal equipment was —
+
+(i) acquired by an approved related party before or during the period of the approval of the related party under subsection (4); and
+
+(ii) leased by the approved related party to the approved container investment enterprise; and
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(g) foreign exchange and risk management activities that are carried out in connection with and incidental to the leases mentioned in paragraphs (e) and (f).
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(1A) Subsection (1)(e), (f) and (g) only applies to income derived on or after 12 December 2018.
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(2) Subsection (1)(a), (b), (c) or (d) shall continue to apply to a container investment enterprise the approval of which has expired or been withdrawn, but which continues to derive income of the type mentioned in that provision in relation to a container or an intermodal equipment acquired before or during the period of approval of the enterprise, provided that the enterprise has by the date of the expiry or before the withdrawal of its approval fulfilled all the conditions referred to in subsection (4), and any reference in this section to an approved container investment enterprise shall be construed accordingly.
+
+[34/2008; 29/2012]
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(2A) Subsection (1)(e), (f) or (g) continues to apply to a container investment enterprise the approval of which has expired or been withdrawn, but that continues to derive income of the type mentioned in that provision if both the container investment enterprise and the approved related party have by the date of the expiry or before the withdrawal, fulfilled all the conditions of their respective approvals under subsection (4).
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(2B) For the purpose of subsection (2A), the container investment enterprise is treated under this section as an approved container investment enterprise.
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(2C) Subsection (1)(a), (c), (e) and (f) does not apply to income derived on or after 12 December 2018 from the leasing of a container or intermodal equipment that is acquired by the approved container investment enterprise or the approved related party by way of a finance lease entered into with an entity that is not an approved related party.
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(3) The Minister or such person as he may appoint may, at any time between 1st April 2008 and 31st May 2021 (both dates inclusive), approve a container investment enterprise or a related party of an approved container investment enterprise for the purposes of subsection (1).
 
 [34/2008; 29/2010; 22/2011]
 
 [Act 37 of 2014 wef 27/11/2014]
 
 [Act 2 of 2016 wef 11/04/2016]
+
+[Act 32 of 2019 wef 12/12/2018]
 
 (4) The approval under subsection (3) shall be subject to such conditions as the Minister may specify, and shall —
 
@@ -20902,11 +21210,19 @@ except that the Minister may extend the period so specified for such further per
 
 “intermodal equipment” means any trailer, flatcar, car rack or other equipment, which facilitates the transportation of containers from one mode of transport to another;
 
-“registered business trust” has the same meaning as in the Business Trusts Act (Cap. 31A).
+“registered business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
 
 [34/2008; 29/2012]
 
-(8) [Deleted by Act 2 of 2016 wef 24/02/2015]
+[Act 32 of 2019 wef 12/12/2018]
+
+“related party”, in relation to an approved container investment enterprise, means any entity that is related to the approved container investment enterprise in such manner as may be prescribed by rules made under section 7.
+
+[Act 32 of 2019 wef 12/12/2018]
+
+(8) Rules made for the purpose of the definition of “related party” in subsection (7) may be made to take effect from (and including) 12 December 2018.
+
+[Act 32 of 2019 wef 12/12/2018]
 
 ### Concessionary rate of tax for container investment manager
 
@@ -27738,12 +28054,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
-|201.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
-||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
-||Date of Second and Third Readings|7 October 2019|
-||Date of commencement|1 January 2018|
-|||12 November 2018|
-|202.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
+|201.|**Act 45 of 2018—Income Tax (Amendment) Act 2018**|
 ||Date of First Reading|10 September 2018|
 |||(Bill No. 37/2018)|
 ||Date of Second and Third Readings|2 October 2018|
@@ -27754,10 +28065,16 @@ This Legislative History is provided for the convenience of users of the Income 
 |||4 May 2018|
 |||1 July 2018|
 |||12 November 2018|
-|203.|**Act 5 of 2016—Banking (Amendment) Act 2016**|
+|202.|**Act 5 of 2016—Banking (Amendment) Act 2016**|
 ||Date of First Reading|25 January 2016 (Bill No. 1/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|30 November 2018|
+|203.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
+||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
+||Date of Second and Third Readings|7 October 2019|
+||Date of commencement|1 January 2018|
+|||12 November 2018|
+|||12 December 2018|
 ## COMPARATIVE TABLE
 
 Income Tax Act
