@@ -4146,9 +4146,11 @@ AID TO CIVILIAN AUTHORITIES
 
 ### Powers of Singapore Armed Forces in vicinity of protected area or place
 
-201D\. The Minister may authorise any serviceman to exercise one or more of the powers under section 201C(9) in the immediate vicinity of any Singapore Armed Forces property which has been declared a protected area or a protected place under the Protected Areas and Protected Places Act (Cap. 256), for the protection of persons and property therein.
+201D\. The Minister may authorise any serviceman to exercise one or more of the powers under section 201C(9) in the immediate vicinity of any Singapore Armed Forces property which has been declared a protected area or a protected place under the Infrastructure Protection Act 2017, for the protection of persons and property therein.
 
 [25/2007 wef 01/08/2007]
+
+[Act 41 of 2017 wef 18/12/2018]
 
 ### Serviceman to act on Minister’s authorisation or superior order
 
@@ -4873,6 +4875,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
 ||Date of Second and Third Readings|19 March 2018|
 ||Date of commencement|31 October 2018|
+|29.|**Act 41 of 2017—Infrastructure Protection Act 2017**|
+||Date of First Reading|11 September 2017 (Bill No. 32/2017 published on 11 September 2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|18 December 2018|
 ## COMPARATIVE TABLE
 
 Singapore Armed Forces Act
