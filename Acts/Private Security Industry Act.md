@@ -382,7 +382,9 @@ to carry out any security assignment referred to in subsection (2) except with t
 
 (c) any activity which involves the gathering of information on or surveillance of any of the following premises in Singapore or part thereof or any person residing or working therein:
 
-(i) any protected area or protected place within the meaning of the Protected Areas and Protected Places Act (Cap. 256);
+(i) any protected area or protected place within the meaning of the Infrastructure Protection Act 2017;
+
+[Act 41 of 2017 wef 18/12/2018]
 
 (ii) any foreign diplomatic mission or foreign consulate in Singapore;
 
@@ -1271,3 +1273,7 @@ This Legislative History is provided for the convenience of users of the Private
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|7.|**Act 41 of 2017—Infrastructure Protection Act 2017**|
+||Date of First Reading|11 September 2017 (Bill No. 32/2017 published on 11 September 2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|18 December 2018|
