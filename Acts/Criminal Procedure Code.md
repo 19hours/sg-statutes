@@ -2290,7 +2290,9 @@ to provide him with such reasonable technical and other assistance as he may req
 
 (j) the Official Secrets Act (Cap. 213);
 
-(k) the Protected Areas and Protected Places Act (Cap. 256);
+(k) the Infrastructure Protection Act 2017;
+
+[Act 41 of 2017 wef 18/12/2018]
 
 (l) the Statutory Bodies and Government Companies (Protection of Secrecy) Act (Cap. 319);
 
@@ -15891,6 +15893,12 @@ Hijacking of Aircraft and Protection of Aircraft and International Airports Act 
 
 Immigration Act (Cap. 133) (other than sections 6 and 15)
 
+9A. 
+
+Infrastructure Protection Act 2017 (Act 41 of 2017)
+
+[S 820/2018 wef 18/12/2018]
+
 10. 
 
 Internal Security Act (Cap. 143)
@@ -19365,3 +19373,10 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 |||31 October 2018|
 |26.|**G. N. No. S 724/2018—Criminal Procedure Code (Amendment of Second Schedule) Order 2018**|
 ||Date of commencement|31 October 2018|
+|27.|**Act 41 of 2017—Infrastructure Protection Act 2017**|
+||Date of First Reading|11 September 2017|
+|||(Bill No. 32/2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|18 December 2018|
+|28.|**G. N. No. S 820/2018—Criminal Procedure Code (Amendment of Second Schedule) (No. 2) Order 2018**|
+||Date of commencement|18 December 2018|
