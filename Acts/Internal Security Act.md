@@ -1339,7 +1339,9 @@ MISCELLANEOUS PROVISIONS
 
 (5) Any officer giving any authorisation under subsection (4) shall forthwith report the circumstances thereof to the Commissioner of Police; and where such authorisation authorises detention for any period exceeding 14 days the Commissioner of Police shall forthwith report the circumstances thereof to the Minister.
 
-(6) The powers conferred upon a police officer by subsections (1) and (2) may be exercised by any member of the security forces, by any person performing the duties of a guard or watchman in a protected place, and by any other person generally authorised in that behalf under section 3 of the Protected Areas and Protected Places Act [Cap. 256].
+(6) The powers of a police officer under subsections (1) and (2) may be exercised by any member of the security forces, and (in the case of a protected place) any authorised officer of that protected place (within the meaning of the Infrastructure Protection Act 2017).
+
+[Act 41 of 2017 wef 18/12/2018]
 
 (7) Any person detained under the powers conferred by this section shall be deemed to be in lawful custody, and may be detained in any prison, or in any police station, or in any other similar place authorised generally or specially by the Minister.
 
@@ -1625,3 +1627,7 @@ This Legislative History is provided for the convenience of users of the Interna
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
+|20.|**Act 41 of 2017—Infrastructure Protection Act 2017**|
+||Date of First Reading|11 September 2017 (Bill No. 32/2017 published on 11 September 2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|18 December 2018|
