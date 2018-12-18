@@ -314,7 +314,9 @@ that is capable of causing death, disease or other biological malfunction in a h
 
 “permit” means a permit granted by the Director under this Act;
 
-“protected place” means any premises declared to be a protected place under the Protected Areas and Protected Places Act (Cap. 256);
+“protected place” means any premises declared to be a protected place under the Infrastructure Protection Act 2017;
+
+[Act 41 of 2017 wef 18/12/2018]
 
 “public transportation” means transportation by bus, taxi, rail or any other conveyance, whether publicly or privately operated, which provides general or special service to the general public on a regular and continuing basis, and includes such other means of transportation as may be prescribed as a type of public transportation for the purposes of this Act;
 
@@ -2554,3 +2556,7 @@ This Legislative History is provided for the convenience of users of the Biologi
 ||Date of commencement|1 July 2015|
 |10.|**G.N. No. S 652/2017—Biological Agents and Toxins Act (Amendment of First Schedule) Order 2017**|
 ||Date of commencement|1 December 2017|
+|11.|**Act 41 of 2017—Infrastructure Protection Act 2017**|
+||Date of First Reading|11 September 2017 (Bill No. 32/2017 published on 11 September 2017)|
+||Date of Second and Third Readings|2 October 2017|
+||Date of commencement|18 December 2018|
