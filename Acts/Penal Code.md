@@ -126,6 +126,8 @@
 
 - [74 Enhanced penalties for racially or religiously aggravated offences](#Enhanced-penalties-for-racially-or-religiously-aggravated-offences)
 
+- [74A Enhanced penalties for offences against vulnerable adults](#Enhanced-penalties-for-offences-against-vulnerable-adults)
+
 - [75 Punishment of persons convicted, after a previous conviction, of an offence punishable with 3 years’ imprisonment](#Punishment-of-persons-convicted-after-a-previous-conviction-of-an-offence-punishable-with-3-years’-imprisonment)
 
 [**Chapter IV  General Exceptions**](#Chapter-IV--General-Exceptions)
@@ -1733,6 +1735,28 @@ Fractions of terms of punishment
 [51/2007]
 
 [UK CDA 1998, s. 28(1) to (3)]
+
+### Enhanced penalties for offences against vulnerable adults
+
+74A\.—(1) This section applies where a person is convicted on or after the date of commencement of the Vulnerable Adults Act 2018 of an offence specified in subsection (3) (called in this section the offender) against a vulnerable adult.
+
+(2) The court may sentence the offender to punishment not exceeding one and a half times the maximum punishment that the court could, but for this section, impose for the offence, if at the time of committing the offence the offender knew or ought reasonably to have known that the victim was a vulnerable adult.
+
+(3) The offence mentioned in subsection (1) is any of the following offences:
+
+(a) an offence under section 304A, 323, 324, 325, 334, 335, 336, 337, 338, 341, 342, 343, 344, 346, 347, 352, 354(1), 355, 357, 358, 376G, 508 or 509;
+
+(b) an offence of criminal intimidation which is punishable with imprisonment for a term which may extend to 2 years, or with fine, or with both, under section 506.
+
+(4) Despite anything to the contrary in the Criminal Procedure Code (Cap. 68) —
+
+(a) a Magistrate’s Court has jurisdiction to try the offences punishable under sections 304A(a), 338(a) and 376G, and power to impose the full punishment provided under subsection (2) in respect of those offences; and
+
+(b) a District Court has jurisdiction to try the offences punishable under sections 324 and 325, and power to impose the full punishment provided under subsection (2) in respect of those offences.
+
+(5) In this section, “vulnerable adult” has the meaning given by section 2 of the Vulnerable Adults Act 2018.
+
+[Act 27 of 2018 wef 19/12/2018]
 
 ### Punishment of persons convicted, after a previous conviction, of an offence punishable with 3 years’ imprisonment
 
@@ -5263,9 +5287,11 @@ shall be guilty of an offence.
 
 [51/2007]
 
-(2) Subject to subsection (3), a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+(2) Subject to subsection (3), a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with caning, or with any combination of such punishments.
 
 [51/2007]
+
+[Act 27 of 2018 wef 19/12/2018]
 
 (3) If the touching involved —
 
@@ -5273,9 +5299,11 @@ shall be guilty of an offence.
 
 (b) penetration of the mouth with the penis,
 
-a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to a fine or to caning.
 
 [51/2007]
+
+[Act 27 of 2018 wef 19/12/2018]
 
 (4) No person shall be guilty of an offence under this section for any act with that person’s spouse.
 
@@ -7296,3 +7324,7 @@ This Ordinance was deemed to have come into operation on the same date as the St
 |||(Bill No. 23/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|15 August 2016|
 ||Date of commencement|1 October 2017|
+|55.|**Act 27 of 2018—Vulnerable Adults Act 2018**|
+||Date of First Reading|20 March 2018 (Bill No. 20/2018 published on 20 March 2018)|
+||Date of Second and Third Readings|18 May 2018|
+||Date of commencement|19 December 2018|
