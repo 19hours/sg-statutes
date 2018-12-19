@@ -224,13 +224,35 @@ An Act to make provision for the maintenance of parents by their children and fo
 
 ### Applications on behalf of incapacitated applicants
 
-11\. Where an applicant is unable to make an application under this Act (whether by reason of physical or mental infirmity or for any other reason), such application may be made on his behalf by —
+11\.—(1) Where an applicant is unable to make an application under this Act (whether by reason of physical or mental infirmity or for any other reason), such application may be made on his behalf by —
 
 (a) any member of his family;
 
 (b) any person in whose care he resides; or
 
 (c) any other person whom the applicant has authorised to make such application.
+
+[Act 27 of 2018 wef 19/12/2018]
+
+(2) Without prejudice to subsection (1), if an applicant mentioned in that subsection is a vulnerable adult in respect of whom —
+
+(a) there is an order made by a court under section 14 or 15 of the Vulnerable Adults Act 2018; or
+
+(b) the Director of Social Welfare or a protector has exercised any power under Division 1 or 2 of Part 2 of that Act,
+
+the application may be made on the applicant’s behalf by the Director of Social Welfare or a protector.
+
+[Act 27 of 2018 wef 19/12/2018]
+
+(3) In this section —
+
+“Director of Social Welfare” means the Director of Social Welfare appointed under section 3(1) of the Children and Young Persons Act (Cap. 38);
+
+“protector” means a protector appointed under section 3(2) of the Vulnerable Adults Act 2018;
+
+“vulnerable adult” has the meaning given by section 2 of the Vulnerable Adults Act 2018.
+
+[Act 27 of 2018 wef 19/12/2018]
 
 ### Appointment of and applications by Commissioner for the Maintenance of Parents
 
@@ -574,3 +596,7 @@ This Legislative History is provided for the convenience of users of the Mainten
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 January 2015|
+|9.|**Act 27 of 2018—Vulnerable Adults Act 2018**|
+||Date of First Reading|20 March 2018 (Bill No. 20/2018 published on 20 March 2018)|
+||Date of Second and Third Readings|18 May 2018|
+||Date of commencement|19 December 2018|
