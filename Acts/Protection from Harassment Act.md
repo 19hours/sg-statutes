@@ -26,6 +26,8 @@
 
 - [8 Enhanced penalty for subsequent offence](#Enhanced-penalty-for-subsequent-offence)
 
+- [8A Enhanced penalty for offence against vulnerable adult](#Enhanced-penalty-for-offence-against-vulnerable-adult)
+
 - [9 Community order](#Community-order)
 
 - [10 Contravention of certain orders](#Contravention-of-certain-orders)
@@ -304,6 +306,20 @@ Y surreptitiously plants a camera in X’s apartment. Unknown to X, the camera c
 
 (e) for an offence under section 7, be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
+### Enhanced penalty for offence against vulnerable adult
+
+8A\.—(1) This section applies where —
+
+(a) a person is convicted on or after the date of commencement of the Vulnerable Adults Act 2018 of an offence under section 3, 4, 5 or 7 (called in this section the offender) against a vulnerable adult; and
+
+(b) the offender has no prior conviction (whether before, on or after that date) of the offence under section 3, 4, 5 or 7 (as the case may be), whether or not the prior conviction is for an offence against a vulnerable adult.
+
+(2) The court may sentence the offender to punishment not exceeding one and a half times the maximum punishment that the court could, but for this section, impose for the offence, if at the time of committing the offence the offender knew or ought reasonably to have known that the victim was a vulnerable adult.
+
+(3) In this section, “vulnerable adult” has the meaning given by section 2 of the Vulnerable Adults Act 2018.
+
+[Act 27 of 2018 wef 19/12/2018]
+
 ### Community order
 
 9\. A court shall, upon the conviction of any person for any offence under section 3, 4, 5, 6 or 7, have the power to make a community order under Part XVII of the Criminal Procedure Code (Cap. 68) despite any provision to the contrary in section 337(1)(h) of that Code.
@@ -566,3 +582,7 @@ This Legislative History is provided for the convenience of users of the Protect
 ||Date of commencement|15 November 2014|
 |2.|**2015 Revised Edition—Protection from Harassment Act (Chapter 256A)**|
 ||Date of operation|31 May 2015|
+|3.|**Act 27 of 2018—Vulnerable Adults Act 2018**|
+||Date of First Reading|20 March 2018 (Bill No. 20/2018 published on 20 March 2018)|
+||Date of Second and Third Readings|18 May 2018|
+||Date of commencement|19 December 2018|
