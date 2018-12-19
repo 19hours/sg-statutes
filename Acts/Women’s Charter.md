@@ -1622,13 +1622,23 @@ but does not include any force lawfully used in self-defence, or by way of corre
 
 [30/96]
 
-(9) [Deleted by Act 19 of 2016 wef 01/10/2017]
+(9) Subsection (10) applies to a protection order or an expedited order or an order made by virtue of subsection (5), except an order made by virtue of subsection (5)(b), if such an order relates to a vulnerable adult.
 
-(10) [Deleted by Act 7 of 2016 wef 01/07/2016]
+[Act 27 of 2018 wef 19/12/2018]
 
-(11) An offence under subsection (8) shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+(10) Any person who wilfully contravenes an order mentioned in subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and; in the case of a second or subsequent conviction, to a fine not exceeding $8,000 or to imprisonment for a term not exceeding 18 months or to both.
+
+[Act 27 of 2018 wef 19/12/2018]
+
+(11) An offence under subsection (8) or (10) shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
 [30/96]
+
+[Act 27 of 2018 wef 19/12/2018]
+
+(12) In this section, “vulnerable adult” has the meaning given by section 2 of the Vulnerable Adults Act 2018.
+
+[Act 27 of 2018 wef 19/12/2018]
 
 ### Expedited order
 
@@ -4516,3 +4526,7 @@ This Legislative History is provided for the convenience of users of the Women�
 ||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|15 August 2016|
 ||Date of commencement|1 October 2017|
+|32.|**Act 27 of 2018—Vulnerable Adults Act 2018**|
+||Date of First Reading|20 March 2018 (Bill No. 20/2018 published on 20 March 2018)|
+||Date of Second and Third Readings|18 May 2018|
+||Date of commencement|19 December 2018|
