@@ -278,6 +278,10 @@ PRELIMINARY
 
 (o) any civil proceedings under the Voluntary Sterilization Act (Cap. 347);
 
+(oa) any civil or quasi‑criminal proceedings under the Vulnerable Adults Act 2018;
+
+[Act 27 of 2018 wef 19/12/2018]
+
 (p) any civil or quasi-criminal proceedings under the Women’s Charter (Cap. 353);
 
 [Act 16 of 2016 wef 01/12/2016]
