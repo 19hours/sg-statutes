@@ -3894,11 +3894,17 @@ applies on or after that date (and despite anything in the order) only to income
 
 [Act 37 of 2014 wef 27/11/2014]
 
-(iii) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2023 (both dates inclusive),
+(iii) by any financial sector incentive (standard tier) company or financial sector incentive (capital market) company and issued during the period from 1st January 2014 to 31st December 2023 (both dates inclusive); or
 
 [Act 37 of 2014 wef 27/11/2014]
 
 [Act 45 of 2018 wef 12/11/2018]
+
+[Act 32 of 2019 wef 20/12/2018]
+
+(d) debt securities whose values are derived from insured loss events underlying them, that are issued by a Special Purpose Reinsurance Vehicle during the period from 20 December 2018 to 31 December 2023 (both dates inclusive), where at least 20% of the issue costs for the issue are required to be paid to persons or partnerships carrying on any trade, business or profession in Singapore,
+
+[Act 32 of 2019 wef 20/12/2018]
 
 but, unless otherwise approved by the Minister or such person as he may appoint, excludes any debt securities issued on or after 10th May 1999 and any Islamic debt securities issued on or after 1st January 2005 which, during its primary launch —
 
@@ -3969,6 +3975,14 @@ but does not include any sum paid in respect of any debt securities, units of a 
 “unit trust” has the same meaning as in section 10B.
 
 [31/98; 32/99; 21/2003; 49/2004; 34/2005; 7/2007; 53/2007; 34/2008; 22/2011; 29/2012; 19/2013]
+
+(16A) In paragraph (d) of the definition of “qualifying debt securities” in subsection (16) —
+
+“issue costs”, in relation to an issue of debt securities, means legal fees, modelling fees, arranger or underwriting fees, rating agency fees, audit fees, claim review fees, indenture trustee fees, listing or trustee fees, loss reserve specialist and administrator fees, and other fees that are connected with or incidental to the issue;
+
+“Special Purpose Reinsurance Vehicle” has the meaning given by regulation 2 of the Insurance (General Provisions and Exemptions for Special Purpose Reinsurance Vehicles) Regulations 2018 (G.N. No. S 837/2018).
+
+[Act 32 of 2019 wef 20/12/2018]
 
 (17) For the purposes of the definitions of “qualifying mediation” and “qualifying mediator” in subsection (16), the Minister may prescribe a description of mediation service providers and a description of mediator certification or accreditation schemes that are set out on a specified website of the Ministry of Law, as amended from time to time.
 
@@ -28075,6 +28089,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of commencement|1 January 2018|
 |||12 November 2018|
 |||12 December 2018|
+|||20 December 2018|
 ## COMPARATIVE TABLE
 
 Income Tax Act
