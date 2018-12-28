@@ -201,6 +201,12 @@ Agri-Food and Veterinary Authority
 
 [S 753/2018 wef 16/11/2018]
 
+24. 
+
+Accounting and Corporate Regulatory Authority
+
+[S 871/2018 wef 28/12/2018]
+
 ## LEGISLATIVE HISTORY
 
 Attorney-General (Additional Functions) Act
@@ -244,3 +250,5 @@ This Legislative History is provided for the convenience of users of the Attorne
 ||Date of operation|30 November 2017|
 |11.|**G.N. No. S 753/2018—Attorney-General (Additional Functions) Act (Amendment of Schedule) Order 2018**|
 ||Date of commencement|16 November 2018|
+|12.|**G.N. No. S 871/2018—Attorney-General (Additional Functions) Act (Amendment of Schedule) (No. 2) Order 2018**|
+||Date of commencement|28 December 2018|
