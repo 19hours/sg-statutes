@@ -10312,9 +10312,11 @@ the deduction is to be allowed for such part or parts of the expenditure incurre
 
 (a) it directly incurs that expenditure for which it is not reimbursed; or
 
-(b) another person directly incurs that expenditure and the qualifying person is liable to reimburse the other person for it, and the incurring of the expenditure and of the liability both occur in the period between 1 July 2016 and 31 December 2018 (both dates inclusive).
+(b) another person directly incurs that expenditure and the qualifying person is liable to reimburse the other person for it, and the incurring of the expenditure and of the liability both occur in the period between 1 July 2016 and 31 December 2021 (both dates inclusive).
 
 [Act 34 of 2016 wef 01/07/2016]
+
+[Act 32 of 2019 wef 31/12/2018]
 
 ### Deduction for expenditure incurred in deriving income from driving chauffeured private hire car or taxi
 
@@ -28090,6 +28092,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||12 November 2018|
 |||12 December 2018|
 |||20 December 2018|
+|||31 December 2018|
 ## COMPARATIVE TABLE
 
 Income Tax Act
