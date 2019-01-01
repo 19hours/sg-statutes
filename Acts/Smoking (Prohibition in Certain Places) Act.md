@@ -10,9 +10,21 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Prohibition of smoking in specified places and vehicles](#Prohibition-of-smoking-in-specified-places-and-vehicles)
+- [3 No smoking in specified places and specified vehicles](#No-smoking-in-specified-places-and-specified-vehicles)
+
+- [3A Specified places, specified vehicles and no‑smoking zones](#Specified-places-specified-vehicles-and-no‑smoking-zones)
+
+- [3B Exceptions to smoking prohibition](#Exceptions-to-smoking-prohibition)
+
+- [3C Requirements for smoking facilities](#Requirements-for-smoking-facilities)
+
+- [3D Appeal to Minister](#Appeal-to-Minister)
 
 - [4 Powers of police and authorised officers](#Powers-of-police-and-authorised-officers)
+
+- [4A Powers of entry, etc.](#Powers-of-entry-etc)
+
+- [4B Offence of obstructing, etc., Director‑General or authorised officer in exercise of powers, etc.](#Offence-of-obstructing-etc-Director‑General-or-authorised-officer-in-exercise-of-powers-etc)
 
 - [5 Notices](#Notices)
 
@@ -20,7 +32,7 @@
 
 - [7 Composition of offences](#Composition-of-offences)
 
-- [8 Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
+- [8 Fees, etc., payable to Agency, etc.](#Fees-etc-payable-to-Agency-etc)
 
 - [9 Forms](#Forms)
 
@@ -60,47 +72,189 @@ An Act to prohibit smoking in specified places and vehicles, and to provide for 
 
 “authorised officer” means any person appointed by the Director-General of Public Health under section 3(2) of the Environmental Public Health Act (Cap. 95);
 
+“common property” has the meaning given by section 2(1) of the Building Maintenance and Strata Management Act (Cap. 30C) and includes limited common property (within the meaning given by that Act), if any;
+
+[Act 39 of 2018 wef 01/01/2019]
+
 “Director-General” means the Director-General of Public Health appointed under section 3(1) of the Environmental Public Health Act;
 
-“manager”, in relation to a specified building, includes any owner, occupier, lessee or person who is responsible for the management of the specified building or is in charge or control thereof, and includes an assistant manager or supervisor or any person holding an appointment analogous to that of manager, assistant manager or supervisor;
+“manager”, in relation to a specified place, means the occupier of the specified place, and where there is no occupier, the owner of the specified place;
+
+[Act 39 of 2018 wef 01/01/2019]
+
+“occupier” means —
+
+(a) in relation to a specified place — the person in occupation of the specified place or having the charge, management or control of the specified place; and
+
+(b) in relation to any part of any specified place, different parts of which are occupied by different persons — the person in occupation or having the charge, management or control of that part,
+
+but does not include a lodger;
+
+[Act 39 of 2018 wef 01/01/2019]
 
 “operator”, in relation to a specified vehicle, means any owner, ticket or tour conductor, driver, ticket inspector or person who is in charge or control of the specified vehicle;
 
+“owner”, in relation to any place, has the meaning given by section 2 of the Environmental Public Health Act;
+
+[Act 39 of 2018 wef 01/01/2019]
+
+“place” means any premises, structure or building, or any unenclosed area (including a road, pavement, wetland and any body of water), but not a vehicle, and includes part of a place;
+
+[Act 39 of 2018 wef 01/01/2019]
+
 “public service vehicle” has the same meaning as in the Road Traffic Act (Cap. 276);
+
+“publicly accessible place” means any place to which the public or a section of the public has access as of right, or by virtue of express or implied permission with or without payment of a fee;
+
+[Act 39 of 2018 wef 01/01/2019]
 
 “residential premises or building” means any premises or building which is permitted to be used under the Planning Act (Cap. 232) or any other written law as a dwelling-house or which is lawfully so used;
 
 “smoking”, with its grammatical variations, means inhaling and expelling the smoke of tobacco or any other substance and includes the holding of any cigar, cigarette, pipe or any other form of tobacco product which is alight or emitting smoke;
 
-“specified place” means any premises or building or part thereof specified in a notification made under section 3;
+“smoking facility” means an area or a room in a specified place that is designated under section 3C(3) by the manager of the specified place or the Director‑General as an area or a room within which smoking is permitted;
 
-“specified vehicle” means any public service vehicle or part thereof specified in a notification made under section 3.
+[Act 39 of 2018 wef 01/01/2019]
 
-[13/94; 4/2002]
+“specified place” has the meaning given by section 3A(3) and includes every place prescribed as a specified place under section 3A(1);
 
-### Prohibition of smoking in specified places and vehicles
+[Act 39 of 2018 wef 01/01/2019]
 
-3\.—(1) The Agency may, with the approval of the Minister, by notification in theGazetteand subject to such conditions as the Agency may think fit, specify —
+“specified vehicle” means a public service vehicle prescribed as a specified vehicle under section 3A(4), and includes any part of a specified vehicle;
 
-(a) any premises or building or such part thereof or any class of premises or buildings or such parts thereof —
+[Act 39 of 2018 wef 01/01/2019]
 
-(i) being used for commercial, industrial or recreational purposes; or
+“statutory body” means a body corporate established by or under a public Act for a public purpose.
 
-(ii) to which members of the public or a section of the public have or ordinarily would have access whether on payment of a fee or otherwise;
+[Act 39 of 2018 wef 01/01/2019]
 
-(b) any common property or limited common property of any residential premises or building; or
+### No smoking in specified places and specified vehicles
 
-[47/2004 wef 01/04/2005]
+3\.—(1) Subject to section 3B, a person must not smoke in a specified place or specified vehicle.
 
-(c) any public service vehicle or part thereof or any class of public service vehicles or parts thereof,
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
-as being a place or places or a vehicle or vehicles in which smoking shall not be permitted either permanently or during such time or for such period or periods or under such circumstances as the Agency may, with the approval of the Minister, prescribe.
+[Act 39 of 2018 wef 01/01/2019]
 
-[4/2002]
+### Specified places, specified vehicles and no‑smoking zones
 
-(2) Any person who smokes in any specified place or specified vehicle in contravention of any notification made under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+3A\.—(1) The Agency may, with the approval of the Minister, prescribe any of the following as a specified place:
 
-[13/94]
+(a) any publicly accessible place;
+
+(b) any of the following that is not a publicly accessible place:
+
+(i) any place owned, managed or occupied by the Government or a statutory body;
+
+(ii) any common property of any residential premises or building;
+
+(iii) any place used, or intended to be used, for a commercial or an industrial purpose, or for mixed purposes the predominant purpose of which is either a commercial or an industrial purpose, or any common property of such a place;
+
+(iv) any recreational facility;
+
+(c) any ship, boat, air‑cushioned vehicle or other similar craft used in navigation by water, however propelled or moved, for the carriage of passengers.
+
+(2) The Agency may, with the approval of the Minister, prescribe an area in Singapore as a no‑smoking zone.
+
+(3) Every publicly accessible place —
+
+(a) within an area prescribed under subsection (2) as a no‑smoking zone; and
+
+(b) not prescribed as a specified place under subsection (1),
+
+is a specified place from the date the area is prescribed as a no‑smoking zone.
+
+(4) The Agency may, with the approval of the Minister, prescribe any particular public service vehicle or any class of public service vehicles as a specified vehicle or specified vehicles.
+
+[Act 39 of 2018 wef 01/01/2019]
+
+### Exceptions to smoking prohibition
+
+3B\.—(1) A person is permitted to smoke in a specified place only —
+
+(a) when within a smoking facility in the specified place; or
+
+(b) in such other circumstances, or under such conditions, as may be prescribed.
+
+(2) A person is permitted to smoke in a specified vehicle only in such circumstances, or under such conditions, as may be prescribed.
+
+[Act 39 of 2018 wef 01/01/2019]
+
+### Requirements for smoking facilities
+
+3C\.—(1) The Agency may, with the approval of the Minister, prescribe the specified places in which a smoking facility may be located and the requirements for a smoking facility in such specified places.
+
+(2) For the purposes of subsection (1), different requirements may be prescribed —
+
+(a) in relation to different specified places;
+
+(b) in relation to different classes of specified places; or
+
+(c) in relation to specified places within and outside a no-smoking zone.
+
+(3) Where a specified place is prescribed as a specified place in which a smoking facility may be located, the manager of the specified place, or the Director‑General (in accordance with subsection (4)), may designate an area or a room in the specified place as a smoking facility.
+
+(4) Before designating a smoking facility in a specified place, the Director-General must —
+
+(a) give written notice to the manager of the specified place of the Director‑General’s intention to designate a smoking facility in the specified place and when the designation is to take effect; and
+
+(b) give the manager of the specified place an opportunity to submit reasons, within the period specified in the notice, why the Director‑General should not designate a smoking facility in the specified place.
+
+(5) The manager of a specified place must ensure that every smoking facility within the specified place complies with the requirements prescribed for a smoking facility in such a specified place.
+
+(6) A manager of a specified place who contravenes subsection (5) shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence continues after conviction; and
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence continues after conviction.
+
+(7) In proceedings for an offence under subsection (6), it is a defence for the manager of the specified place to prove that —
+
+(a) it was not reasonably practicable to do more than what was in fact done to comply with subsection (5); or
+
+(b) there was no better practicable means than was in fact used to comply with subsection (5).
+
+[Act 39 of 2018 wef 01/01/2019]
+
+### Appeal to Minister
+
+3D\.—(1) The manager of a specified place who is aggrieved by any designation by the Director‑General under section 3C(3) may appeal to the Minister against the designation.
+
+(2) Every appeal under this section must —
+
+(a) be in writing;
+
+(b) specify the grounds on which it is made; and
+
+(c) be made within a prescribed period after the date of receipt of the written notice mentioned in section 3C(4).
+
+(3) The Minister may reject the appeal of an appellant who fails to comply with subsection (2).
+
+(4) After considering an appeal under this section, the Minister may —
+
+(a) reject the appeal and confirm the Director‑General’s designation; or
+
+(b) allow the appeal.
+
+(5) The Minister’s decision on appeal is final.
+
+(6) Every appellant must be notified of the Minister’s decision under subsection (4).
+
+(7) A designation by the Director‑General that is appealed against does not take effect until the appeal is determined or earlier withdrawn.
+
+(8) The Minister may designate any of the following persons to hear and determine, in the Minister’s place, any appeal under subsection (1):
+
+(a) the Second Minister, if any, for his Ministry;
+
+(b) any Minister of State, or Senior Minister of State, for his Ministry;
+
+(c) any Parliamentary Secretary, or Senior Parliamentary Secretary, for his Ministry;
+
+(d) any public officer in his Ministry not subordinate to the Director‑General whose designation is appealed against.
+
+(9) Any reference to the Minister in subsections (1) to (7) includes a reference to a person designated under subsection (8).
+
+[Act 39 of 2018 wef 01/01/2019]
 
 ### Powers of police and authorised officers
 
@@ -132,6 +286,72 @@ as being a place or places or a vehicle or vehicles in which smoking shall not b
 
 and if due cause is not shown, the Court may order him to pay a penalty not exceeding $1,000 or may commit him to prison for a term not exceeding one month.
 
+### Powers of entry, etc.
+
+4A\.—(1) The Director‑General or an authorised officer may, for the purpose of ascertaining whether there is or has been any contravention of this Act, do all or any of the following in relation to a specified place or specified vehicle without a warrant:
+
+(a) subject to subsection (2), enter, inspect and search the specified place or specified vehicle;
+
+(b) inspect and make copies of, or take extracts from, any document or material kept at the specified place or in the specified vehicle;
+
+(c) take possession of any thing found at the specified place or in the specified vehicle that is reasonably believed to be connected to any contravention of this Act;
+
+(d) require any person whom the Director‑General or authorised officer reasonably believes is in possession of a document or information relevant to any contravention of this Act to take reasonable steps to produce the document or provide the information;
+
+(e) require any person whom the Director‑General or authorised officer reasonably believes is acquainted with any facts or circumstances relevant to any contravention of this Act —
+
+(i) to answer any question to the best of the person’s knowledge, information and belief, immediately or at such place and time specified in writing; or
+
+(ii) to take reasonable steps to provide information or produce a document, immediately or at such place and time specified in writing;
+
+(f) photograph or film, or make audio recordings or make sketches, of any part of the specified place or specified vehicle or any thing at the specified place or in the specified vehicle or of any person whom the Director‑General or authorised officer reasonably believes is acquainted with any facts or circumstances relevant to any contravention of this Act.
+
+(2) The Director‑General or an authorised officer may exercise the power of entry under subsection (1)(a) —
+
+(a) in relation to a specified place that is common property of any residential premises or building which is not a publicly accessible place — only if the condition mentioned in subsection (3) is satisfied; and
+
+(b) in relation to any other specified place or any specified vehicle —
+
+(i) at all reasonable times; or
+
+(ii) at any time if the condition mentioned in subsection (3) is satisfied.
+
+(3) For the purposes of subsection (2), the condition is that the Director‑General or authorised officer reasonably believes that —
+
+(a) an offence under this Act has been or is being committed in that place or vehicle; or
+
+(b) evidence of the commission of an offence under this Act can be found in that place or vehicle.
+
+(4) A statement made by a person examined under subsection (1)(e) must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted in a language that the person understands; and
+
+(d) after correction (if necessary), be signed by the person.
+
+[Act 39 of 2018 wef 01/01/2019]
+
+### Offence of obstructing, etc., Director‑General or authorised officer in exercise of powers, etc.
+
+4B\.—(1) A person who, without reasonable excuse —
+
+(a) obstructs, hinders or delays the Director‑General or an authorised officer in the exercise of any power under section 4 or 4A;
+
+(b) neglects or refuses to produce a document, material or thing or to provide any information as required under section 4A;
+
+(c) produces any document, material or thing, or provides any information, as required under section 4A, that is false or misleading in any material particular; or
+
+(d) neglects or refuses to attend before the Director‑General or authorised officer as required under section 4A,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent offence, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(2) To avoid doubt, for the purposes of subsection (1)(a) or (b), it is a reasonable excuse for a person to refuse or fail to provide any information, produce any document or answer any question if doing so might tend to incriminate that person.
+
+[Act 39 of 2018 wef 01/01/2019]
+
 ### Notices
 
 5\.—(1) The manager of every specified place and the operator of every specified vehicle shall —
@@ -152,11 +372,13 @@ and if due cause is not shown, the Court may order him to pay a penalty not exce
 
 ### Duties of managers or operators of specified places and vehicles
 
-6\.—(1) The manager of any specified place or the operator of any specified vehicle shall inform any person who smokes in the specified place or specified vehicle in contravention of any notification made under section 3(1) —
+6\.—(1) The manager of any specified place or the operator of any specified vehicle shall inform any person who smokes in the specified place or specified vehicle in contravention of section 3(1) —
 
 (a) to cease smoking immediately, indicating the penalty provided under section 3(2); and
 
 (b) if the person refuses, neglects or fails to cease smoking, he shall request the person to leave the specified place or specified vehicle immediately.
+
+[Act 39 of 2018 wef 01/01/2019]
 
 (2) If any such person refuses to leave the specified place or specified vehicle or to cease smoking, the manager or operator referred to in subsection (1) shall —
 
@@ -166,7 +388,7 @@ and if due cause is not shown, the Court may order him to pay a penalty not exce
 
 [4/2002]
 
-(3) Where any person smokes in a specified place in contravention of any notification made under section 3(1), any other person who is aggrieved by the smoking of that person may lodge a complaint to the manager of the specified place and it shall be the duty of the manager of the specified place —
+(3) Where any person contravenes section 3(1), any other person may lodge a complaint to the manager of the specified place and it shall be the duty of the manager of the specified place —
 
 (a) to take all reasonable steps to investigate into the complaint; and
 
@@ -174,17 +396,27 @@ and if due cause is not shown, the Court may order him to pay a penalty not exce
 
 [13/94]
 
+[Act 39 of 2018 wef 01/01/2019]
+
 (4) If the manager of any specified place or the operator of any specified vehicle, as the case may be, fails or neglects to comply with the provisions of —
 
-(a) subsection (1) or (2) in relation to any person whom he knows or ought reasonably to know is smoking in the specified place or specified vehicle; or
+(a) subsection (1) or (2) in relation to any person whom he knows or ought reasonably to know is smoking in the specified place or specified vehicle in contravention of section 3(1); or
 
-(b) subsection (3) in relation to any complaint received by him that a person is smoking in the specified place,
+[Act 39 of 2018 wef 01/01/2019]
 
-in contravention of any notification made under section 3(1), that manager or operator shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000.
+(b) subsection (3) in relation to any complaint received by him that a person is smoking in the specified place in contravention of section 3(1),
+
+[Act 39 of 2018 wef 01/01/2019]
+
+that manager or operator shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000.
 
 [13/94]
 
-(5) For the purposes of subsection (4), a manager of a specified place shall be presumed, until the contrary is proved, to have the knowledge referred to in that subsection where a person who is under his charge or supervision and who is employed at the specified place knows that a person is smoking in that place in contravention of a notification made under section 3(1).
+[Act 39 of 2018 wef 01/01/2019]
+
+(5) For the purposes of subsection (4), a manager of a specified place shall be presumed, until the contrary is proved, to have the knowledge referred to in that subsection where a person who is under his charge or supervision and who is employed at the specified place knows that a person is smoking in that place in contravention of section 3(1).
+
+[Act 39 of 2018 wef 01/01/2019]
 
 (6) Any person who hinders, obstructs, threatens, abuses, molests or assaults any manager or operator in the performance of his duties under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -204,13 +436,13 @@ in contravention of any notification made under section 3(1), that manager or op
 
 [4/2002]
 
-### Fees, etc., payable to Agency
+### Fees, etc., payable to Agency, etc.
 
-8\. All fees, charges, composition fines and moneys collected under this Act shall be paid to the Agency.
+8\.—(1) All fees, charges and moneys collected under this Act, other than composition sums, must be paid to the Agency.
 
-[7A
+(2) All composition sums collected under this Act must be paid into the Consolidated Fund.
 
-[4/2002]
+[Act 39 of 2018 wef 01/01/2019]
 
 ### Forms
 
@@ -222,17 +454,17 @@ in contravention of any notification made under section 3(1), that manager or op
 
 ### Exemption
 
-10\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any specified place or specified vehicle from all or any of the provisions of this Act.
+10\. The Agency may, with the approval of the Minister and by order in theGazette, exempt any person or place from all or any of the provisions of this Act either generally or in a particular case and subject to such conditions as the Agency may impose in the order.
 
-[9
-
-[4/2002]
+[Act 39 of 2018 wef 01/01/2019]
 
 ### Regulations
 
-11\.—(1) The Agency may, with the approval of the Minister, make such regulations as seem to the Agency necessary or expedient for the purpose of carrying out the provisions of this Act.
+11\.—(1) The Agency may, with the approval of the Minister, make such regulations as seem to the Agency necessary or expedient for the purpose of carrying out the provisions of this Act and for prescribing anything that is to be prescribed.
 
 [4/2002]
+
+[Act 39 of 2018 wef 01/01/2019]
 
 (2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -300,6 +532,10 @@ This Legislative History is provided for the convenience of users of the Smoking
 |||(Bill No. 6/2004 published on 7 February 2004)|
 ||Date of Second and Third Readings|19 October 2004|
 ||Date of commencement|1 April 2005|
+|12.|**Act 39 of 2018—Smoking (Prohibition in Certain Places) (Amendment) Act 2018**|
+||Date of First Reading|6 August 2018 (Bill No. 31/2018 published on 6 August 2018)|
+||Date of Second and Third Readings|10 September 2018|
+||Date of commencement|1 January 2019|
 ## COMPARATIVE TABLE
 
 Smoking (Prohibition in Certain Places) Act
