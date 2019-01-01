@@ -2417,6 +2417,46 @@ Hydrofluoric acid
 
 Preparations or solutions containing not more than 2%, weight in weight, of hydrofluoric acid.
 
+The following hydrofluorocarbons, including any mixture containing any such hydrofluorocarbons:
+
+1,1,1,2,2,3,4,5,5,5-decafluoropentane
+
+1,1,1,2,2,3-hexafluoropropane
+
+1,1,1,2,3,3,3-heptafluoropropane
+
+1,1,1,2,3,3-hexafluoropropane
+
+1,1,1,2-tetrafluoroethane
+
+1,1,1,3,3,3-hexafluoropropane
+
+1,1,1,3,3-pentafluorobutane
+
+1,1,1,3,3-pentafluoropropane
+
+1,1,1-trifluoroethane
+
+1,1,2,2,3-pentafluoropropane
+
+1,1,2,2-tetrafluoroethane
+
+1,1,2-trifluoroethane
+
+1,1-difluoroethane
+
+1,2-difluoroethane
+
+Difluoromethane
+
+Fluoromethane (methyl fluoride)
+
+Pentafluoroethane
+
+Trifluoromethane
+
+Any manufactured product containing any substance mentioned in the opposite column, not being a container containing such a substance.
+
 Hydrogen chloride
 
 Hydrogen cyanide; Hydrocyanic acid
@@ -3037,6 +3077,8 @@ Tris (2, 3-dibromo-l-propyl) phosphate
 
 Tungsten hexafluoride
 
+[S 359/2018 wef 01/01/2019]
+
 [S 783/2017 wef 30/06/2018]
 
 [S 126/2017 wef 31/03/2018]
@@ -3459,6 +3501,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|31 March 2018|
 |28.|**G.N. No. S 783/2017—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 3) Order 2017**|
 ||Date of commencement|30 June 2018|
+|29.|**G.N. No. S 359/2018—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2018**|
+||Date of commencement|1 January 2019|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
