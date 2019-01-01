@@ -28,6 +28,8 @@
 
 - [8 Sittings in camera](#Sittings-in-camera)
 
+- [8A Court may conduct hearing through electronic means of communication](#Court-may-conduct-hearing-through-electronic-means-of-communication)
+
 [**Part III THE HIGH COURT**](#Part-III)
 
 [**General**](#General)
@@ -140,7 +142,9 @@
 
 - [34 Matters that are non-appealable or appealable only with leave](#Matters-that-are-non-appealable-or-appealable-only-with-leave)
 
-- [34A Court of Appeal may decide application for leave to appeal without hearing oral arguments](#Court-of-Appeal-may-decide-application-for-leave-to-appeal-without-hearing-oral-arguments)
+- [34A Court of Appeal may decide certain matters without hearing oral arguments](#Court-of-Appeal-may-decide-certain-matters-without-hearing-oral-arguments)
+
+- [34B Summary dismissal of certain matters](#Summary-dismissal-of-certain-matters)
 
 - [35 Applications](#Applications)
 
@@ -240,6 +244,16 @@
 
 - [73 List of touts](#List-of-touts)
 
+[**Measures for dealing with unmeritorious or vexatious proceedings and vexatious litigants**](#Measures-for-dealing-with-unmeritorious-or-vexatious-proceedings-and-vexatious-litigants)
+
+- [73A Measures for dealing with unmeritorious or vexatious proceedings](#Measures-for-dealing-with-unmeritorious-or-vexatious-proceedings)
+
+- [73B Limited civil restraint orders](#Limited-civil-restraint-orders)
+
+- [73C Extended civil restraint orders](#Extended-civil-restraint-orders)
+
+- [73D General civil restraint orders](#General-civil-restraint-orders)
+
 - [74 Vexatious litigants](#Vexatious-litigants)
 
 [**Disabilities of Registrar and other officers**](#Disabilities-of-Registrar-and-other-officers)
@@ -252,9 +266,9 @@
 
 - [78 Misconduct of officers](#Misconduct-of-officers)
 
-[**Protection of Registrar and other officers**](#Protection-of-Registrar-and-other-officers)
+[**Protection of Registrar and other persons**](#Protection-of-Registrar-and-other-persons)
 
-- [79 Protection of Registrar and other officers](#Protection-of-Registrar-and-other-officers)
+- [79 Protection of Registrar and other persons](#Protection-of-Registrar-and-other-persons)
 
 [**Rules of Court**](#Rules-of-Court)
 
@@ -268,7 +282,7 @@
 
 - [82 Conversion of pending petitions and motions to writs of summons, originating summonses and summonses](#Conversion-of-pending-petitions-and-motions-to-writs-of-summons-originating-summonses-and-summonses)
 
-- [83 Amendment of Third, Fourth and Fifth Schedules](#Amendment-of-Third-Fourth-and-Fifth-Schedules)
+- [83 Amendment of Third to Sixth Schedules](#Amendment-of-Third-to-Sixth-Schedules)
 
 [**FIRST SCHEDULE Additional powers of the High Court**](#FIRST-SCHEDULE-Additional-powers-of-the-High-Court)
 
@@ -276,9 +290,11 @@
 
 [**THIRD SCHEDULE Orders Made by District Court or Magistrate’s Court That Are Non-appealable**](#THIRD-SCHEDULE-Orders-Made-by-District-Court-or-Magistrate’s-Court-That-Are-Non-appealable)
 
-[**FOURTH SCHEDULE Orders Made by Judge That Are Non-appealable**](#FOURTH-SCHEDULE-Orders-Made-by-Judge-That-Are-Non-appealable)
+[**FOURTH SCHEDULE Cases that are non‑appealable**](#FOURTH-SCHEDULE-Cases-that-are-non‑appealable)
 
-[**FIFTH SCHEDULE Orders Made by Judge That Are Appealable Only With Leave**](#FIFTH-SCHEDULE-Orders-Made-by-Judge-That-Are-Appealable-Only-With-Leave)
+[**FIFTH SCHEDULE Cases that are appealable only with leave**](#FIFTH-SCHEDULE-Cases-that-are-appealable-only-with-leave)
+
+[**SIXTH SCHEDULE Composition of court of appeal when exercising civil jurisdiction in certain matters**](#SIXTH-SCHEDULE-Composition-of-court-of-appeal-when-exercising-civil-jurisdiction-in-certain-matters)
 
 [**Legislative History**](#Legislative-History)
 
@@ -457,6 +473,14 @@ which is contained in any court document intended to be produced before the cour
 “newspaper” has the same meaning as in section 2(1) of the Newspaper and Printing Presses Act (Cap. 206).
 
 [Act 19 of 2018 wef 31/10/2018]
+
+### Court may conduct hearing through electronic means of communication
+
+8A\.—(1) Without limiting section 8, the court may conduct the hearing of any matter or proceeding through a live video link, a live television link or any other electronic means of communication.
+
+(2) Subsection (1) does not affect the operation of section 62A of the Evidence Act (Cap. 97) and section 281 of the Criminal Procedure Code (Cap. 68).
+
+[Act 46 of 2018 wef 01/01/2019]
 
 ## PART III
 
@@ -922,7 +946,9 @@ Appellate Jurisdiction of the High Court
 
 21\.—(1) Subject to the provisions of this Act and any other written law, an appeal shall lie to the High Court from a decision of a District Court or Magistrate’s Court —
 
-(a) in any case where the amount in dispute, or the value of the subject-matter, at the hearing before that District Court or Magistrate’s Court (excluding interest and costs) exceeds $50,000 or such other amount as may be specified by an order made under subsection (3); or
+(a) in any case where the amount in dispute, or the value of the subject-matter, at the hearing before that District Court or Magistrate’s Court (excluding interest and costs) exceeds $60,000 or such other amount as may be specified by an order made under subsection (3); or
+
+[Act 46 of 2018 wef 01/01/2019]
 
 (b) with the leave of that District Court or Magistrate’s Court or the High Court, in any other case.
 
@@ -1154,29 +1180,9 @@ the Court of Appeal shall have all the authority and jurisdiction of the court o
 
 [16/93]
 
-(2) Notwithstanding subsection (1), the Court of Appeal in the exercise of its civil jurisdiction shall, if it consists of 2 Judges of Appeal, be duly constituted for the purpose of hearing and determining —
+(2) Despite subsection (1), the Court of Appeal in the exercise of its civil jurisdiction is duly constituted for the purpose of hearing and determining a matter specified in the Sixth Schedule, if it consists of the number of Judges of Appeal specified for that matter in that Schedule.
 
-(a) an application to extend the time for filing and serving a notice of appeal;
-
-(b) an application to discharge or vary any direction or order made under section 36(1);
-
-(ba) an application for leave to appeal to the Court of Appeal, whether under this Act or any other written law;
-
-[Act 42 of 2014 wef 01/01/2015]
-
-(c) an appeal against an interlocutory judgment;
-
-(ca) an appeal against any judgment or order obtained after the hearing of an application for the admission of a person under section 15 of the Legal Profession Act (Cap. 161);
-
-[Act 3 of 2012 wef 01/04/2012]
-
-(d) an appeal against any judgment or order obtained after the hearing of an assessment of damages;
-
-(e) an appeal against any judgment or order obtained after the hearing of a taking of accounts between parties; or
-
-(f) an appeal against any judgment or order obtained after any proceedings other than the trial or hearing of any action or matter commenced by any originating process.
-
-[30/2010 wef 01/01/2011]
+[Act 46 of 2018 wef 01/01/2019]
 
 (2A) Despite subsection (1), the Court of Appeal in the exercise of its criminal jurisdiction is, if it consists of one Judge of Appeal, duly constituted for the purpose of hearing and determining an application under section 394H of the Criminal Procedure Code (Cap. 68) for leave to apply to the Court of Appeal to review an earlier decision of the Court of Appeal.
 
@@ -1250,55 +1256,21 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 ### Matters that are non-appealable or appealable only with leave
 
-34\.—(1) No appeal shall be brought to the Court of Appeal in any of the following cases:
+34\.—(1) An appeal cannot be brought to the Court of Appeal in any case specified in paragraph 1 of the Fourth Schedule except where provided in that Schedule.
 
-(a) where a Judge makes an order specified in the Fourth Schedule, except in such circumstances as may be specified in that Schedule;
+[Act 46 of 2018 wef 01/01/2019]
 
-[30/2010 wef 01/01/2011]
+(2) An appeal may be brought to the Court of Appeal in any of the following cases only with the leave of the High Court or the Court of Appeal unless otherwise provided in the Fifth Schedule:
 
-(b) [Deleted by Act 30/2010 wef 01/01/2011]
+(a) any case where the amount in dispute, or the value of the subject‑matter, at the hearing before the High Court (excluding interest and costs) does not exceed $250,000 or such other amount as may be specified by an order made under subsection (3);
 
-(c) [Deleted by Act 30/2010 wef 01/01/2011]
+(b) any case specified in paragraph 1 of the Fifth Schedule.
 
-(d) where the judgment or order is made by consent of the parties; or
+[Act 46 of 2018 wef 01/01/2019]
 
-(e) where, by any written law for the time being in force, the judgment or order of the High Court is expressly declared to be final.
+(2A) In addition, an appeal may be brought to the Court of Appeal in any case set out in section 73A(9), 73B(5), 73C(6), 73D(6) or 74(2A) only with the leave of the High Court or the Court of Appeal.
 
-[16/93]
-
-(2) Except with the leave of the High Court or the Court of Appeal, no appeal shall be brought to the Court of Appeal in any of the following cases:
-
-(a) where the amount in dispute, or the value of the subject-matter, at the hearing before the High Court (excluding interest and costs) does not exceed $250,000 or such other amount as may be specified by an order made under subsection (3);
-
-[30/2010 wef 01/01/2011]
-
-(b) where the only issue in the appeal relates to costs or fees for hearing dates;
-
-(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute; or
-
-[Act 27 of 2014 wef 01/01/2015]
-
-(d) where a Judge makes an order specified in the Fifth Schedule, except in such circumstances as may be specified in that Schedule.
-
-[30/2010 wef 01/01/2011]
-
-[Act 27 of 2014 wef 01/01/2015]
-
-(e) [Deleted by Act 27 of 2014 wef 01/01/2015]
-
-[Act 42 of 2014 wef 01/01/2015]
-
-(2A) Subsection (2)(a) does not apply to any of the following cases:
-
-(a) any case heard and determined by the High Court in the exercise of its original jurisdiction under any written law which requires that case to be heard and determined by the High Court in the exercise of its original jurisdiction;
-
-(b) any case heard and determined by the Family Division of the High Court in the exercise of its original jurisdiction;
-
-(c) any family proceedings (not being probate proceedings) commenced in the High Court before 1 October 2014 and heard and determined by the High Court in the exercise of its original jurisdiction;
-
-(d) any contentious probate proceedings commenced in the High Court before 1 January 2015 and heard and determined by the High Court in the exercise of its original jurisdiction.
-
-[Act 16 of 2016 wef 10/06/2016]
+[Act 46 of 2018 wef 01/01/2019]
 
 (2B) [Deleted by Act 42 of 2014 wef 01/01/2015]
 
@@ -1306,49 +1278,53 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 [43/98]
 
-(4) Subsections (1) and (2) do not apply to any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction referred to in section 23 of the Family Justice Act 2014 (Act 27 of 2014).
+(4) An appeal may be brought to the Court of Appeal in any case specified in paragraph 2 of the Fifth Schedule only with the leave of a Judge of the Family Division of the High Court, or of the Court of Appeal unless otherwise provided in that Schedule.
 
-[Act 16 of 2016 wef 10/06/2016]
+[Act 46 of 2018 wef 01/01/2019]
 
-(5) Except with the leave of the Court of Appeal, or of a Judge of the Family Division of the High Court, no appeal shall be brought to the Court of Appeal from any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction referred to in section 23 of the Family Justice Act 2014.
+(5) [Deleted by Act 46 of 2018 wef 01/01/2019]
 
-[Act 27 of 2014 wef 01/10/2014]
+(6) [Deleted by Act 46 of 2018 wef 01/01/2019]
 
-(6) Subsections (1) and (2) do not apply to any decision, judgment or order of the High Court involving the exercise of the appellate civil jurisdiction of the High Court in any of the following circumstances:
+(7) [Deleted by Act 46 of 2018 wef 01/01/2019]
 
-(a) the hearing of any appeal from a District Court or Magistrate’s Court when exercising jurisdiction of a quasi-criminal or civil nature in any family proceedings (not being probate proceedings), being an appeal commenced in the High Court before 1 October 2014;
+(8) [Deleted by Act 46 of 2018 wef 01/01/2019]
 
-(b) the hearing of any appeal or special case from the Tribunal for the Maintenance of Parents, being an appeal or a special case commenced in the High Court before 1 October 2014;
+### Court of Appeal may decide certain matters without hearing oral arguments
 
-(c) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before 1 January 2015.
+34A\.—(1) The Court of Appeal may, without hearing oral arguments, decide any application to that Court, whether under this Act or any other written law.
 
-[Act 16 of 2016 wef 10/06/2016]
+(2) The Court of Appeal may, with the consent of every party to an appeal from any judgment or order of the Singapore International Commercial Court, decide that appeal without hearing oral arguments.
 
-(7) Except with the leave of the High Court or the Court of Appeal, no appeal shall be brought to the Court of Appeal from any decision, judgment or order of the High Court involving the exercise of the appellate civil jurisdiction of the High Court in any of the following circumstances:
+(3) To avoid doubt, this section does not affect the power of the Court of Appeal to hear oral arguments before deciding —
 
-(a) the hearing of any appeal from a District Court or Magistrate’s Court when exercising jurisdiction of a quasi‑criminal or civil nature in any family proceedings (not being probate proceedings), being an appeal commenced in the High Court before 1 October 2014;
+(a) any application mentioned in subsection (1); or
 
-(b) the hearing of any appeal or special case from the Tribunal for the Maintenance of Parents, being an appeal or a special case commenced in the High Court before 1 October 2014;
+(b) any appeal mentioned in subsection (2).
 
-(c) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before 1 January 2015.
+[Act 46 of 2018 wef 01/01/2019]
 
-[Act 42 of 2014 wef 01/01/2015]
+### Summary dismissal of certain matters
 
-[Act 16 of 2016 wef 10/06/2016]
+34B\.—(1) The Court of Appeal may, on its own motion, summarily dismiss any appeal or application, or any part of an appeal or application.
 
-(8) In this section —
+(2) The Court of Appeal may exercise its power under subsection (1) only if it is satisfied of either or both of the following matters:
 
-“family proceedings” has the same meaning as in section 2(1) of the Family Justice Act 2014;
+(a) the Court of Appeal does not have jurisdiction to hear and determine the appeal, application or part of an appeal or application mentioned in subsection (1);
 
-“probate proceedings” has the same meaning as in section 47(13) of the Family Justice Act 2014.
+(b) there is no merit in the appeal, application or part of an appeal or application mentioned in subsection (1), because every issue in that appeal, application or part of an appeal or application has already been decided by the Court of Appeal, in an earlier matter in which the appellant or applicant was involved.
 
-[Act 42 of 2014 wef 01/01/2015]
+(3) The requirement under subsection (2) does not apply to any appeal or application, or any part of an appeal or application, that is prescribed by Rules of Court.
 
-### Court of Appeal may decide application for leave to appeal without hearing oral arguments
+(4) Before summarily dismissing any appeal, application or part of an appeal or application under subsection (1), the Court of Appeal must —
 
-34A\. The Court of Appeal may, without hearing oral arguments, decide any application for leave to appeal to that Court, whether under this Act or any other written law.
+(a) give the appellant or applicant a reasonable opportunity to show cause why that appeal, application or part of an appeal or application should not be dismissed; and
 
-[Act 42 of 2014 wef 01/01/2015]
+(b) consider the representations (if any) of the appellant or applicant.
+
+(5) The Court of Appeal may exercise its powers under this section without hearing oral arguments.
+
+[Act 46 of 2018 wef 01/01/2019]
 
 ### Applications
 
@@ -1356,13 +1332,29 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 ### Incidental directions and interim orders
 
-36\.—(1) In any proceeding pending before the Court of Appeal, any direction incidental thereto not involving the decision of the appeal, any interim order to prevent prejudice to the claims of parties pending the appeal, and any order for security for costs and for the dismissal of an appeal for default in furnishing security so ordered, may at any time be made by a Judge.
+36\.—(1) In any appeal or application pending before the Court of Appeal (called in this section the pending matter), the Court of Appeal may, on its own motion or on the application of any party, at any time make one or more of the following directions and orders:
 
-(2) Every application under subsection (1) shall be deemed to be a proceeding in the Court of Appeal.
+(a) any direction incidental to the pending matter not involving the decision of the pending matter;
 
-(3) Every direction or order so made may be discharged or varied by the Court of Appeal.
+(b) any interim order to prevent prejudice to the claims of the parties pending the determination of the pending matter;
 
-[30/2010 wef 01/01/2011]
+(c) any order for security for costs, and for the dismissal of the pending matter for default in furnishing security so ordered.
+
+(2) Despite section 30(1), the Court of Appeal is duly constituted to make any direction or order mentioned in subsection (1) if it consists of —
+
+(a) one Judge of Appeal; or
+
+(b) 2 Judges of Appeal.
+
+(3) The Court of Appeal may discharge or vary any direction or order made under subsection (1) by a Court of Appeal consisting of one Judge of Appeal.
+
+(4) Despite section 30(1), the Court of Appeal is duly constituted to discharge or vary any direction or order mentioned in subsection (3) if it consists of 2 Judges of Appeal.
+
+(5) An application to discharge or vary any direction or order mentioned in subsection (3) may be made only with the leave of a Judge of Appeal.
+
+(6) An order of a Judge of Appeal giving or refusing leave under subsection (5) is final.
+
+[Act 46 of 2018 wef 01/01/2019]
 
 ### Hearing of appeals
 
@@ -1370,9 +1362,13 @@ CIVIL JURISDICTION OF COURT OF APPEAL
 
 (2) In relation to such appeals, the Court of Appeal shall have all the powers and duties, as to amendment or otherwise, of the High Court, together with full discretionary power to receive further evidence by oral examination in court, by affidavit, or by deposition taken before an examiner or a commissioner.
 
-(3) Such further evidence may be given without leave on interlocutory applications, or in any case as to matters which have occurred after the date of the decision from which the appeal is brought.
+(3) Such further evidence may be given without leave in any case as to matters which have occurred after the date of the decision from which the appeal is brought.
 
-(4) Upon appeals from a judgment, after trial or hearing of any cause or matter upon the merits, such further evidence, except as to matters subsequent as specified in subsection (3), shall be admitted on special grounds only, and not without leave of the Court of Appeal.
+[Act 46 of 2018 wef 01/01/2019]
+
+(4) Except as provided in subsection (3), such further evidence may be given only on special grounds and with the leave of the Court of Appeal.
+
+[Act 46 of 2018 wef 01/01/2019]
 
 (5) The Court of Appeal may draw inferences of facts, and give any judgment, and make any order which ought to have been given or made, and make such further or other orders as the case requires.
 
@@ -1616,6 +1612,156 @@ List of Touts
 
 [Act 27 of 2014 wef 01/10/2014]
 
+Measures for dealing with
+
+
+
+
+unmeritorious or vexatious proceedings
+
+
+
+
+and vexatious litigants
+
+### Measures for dealing with unmeritorious or vexatious proceedings
+
+73A\.—(1) A court may, in respect of any legal proceedings in the court —
+
+(a) make a limited civil restraint order in accordance with section 73B;
+
+(b) make an extended civil restraint order in accordance with section 73C; or
+
+(c) make a general civil restraint order in accordance with section 73D.
+
+(2) A court may, if satisfied that a party is conducting any legal proceedings in the court in a vexatious manner, order that those proceedings be stayed on such terms as the court considers appropriate.
+
+(3) A court may, if satisfied that the filing of further documents by a party in any legal proceedings in the court would be vexatious or for an improper purpose, order that no further documents be filed by that party in relation to those proceedings.
+
+(4) The High Court may, in respect of any legal proceedings in any subordinate court —
+
+(a) make a limited civil restraint order in accordance with section 73B;
+
+(b) make an extended civil restraint order in accordance with section 73C; or
+
+(c) make a general civil restraint order in accordance with section 73D.
+
+(5) The High Court may, if satisfied that a party is conducting any legal proceedings in any subordinate court in a vexatious manner, order that those proceedings be stayed on such terms as the High Court considers appropriate.
+
+(6) The High Court may, if satisfied that the filing of further documents by a party in any legal proceedings in any subordinate court would be vexatious or for an improper purpose, order that no further documents be filed by that party in relation to those proceedings.
+
+(7) A court may, on the court’s own motion, or on the application of —
+
+(a) the Attorney‑General; or
+
+(b) any party in any legal proceedings in the court,
+
+make an order mentioned in subsection (1)(a), (b) or (c), (2) or (3) against another party in those legal proceedings after giving the other party an opportunity to be heard.
+
+(8) The High Court may, on the application of —
+
+(a) the Attorney‑General; or
+
+(b) any party in any legal proceedings in a subordinate court,
+
+make an order mentioned in subsection (4)(a), (b) or (c), (5) or (6) against another party in those legal proceedings after giving the other party an opportunity to be heard.
+
+(9) Subject to section 34(2A), a party against whom the High Court makes an order mentioned in subsection (1)(a), (b) or (c), (2), (3), (4)(a), (b) or (c), (5) or (6) may bring an appeal from the order to the Court of Appeal.
+
+(10) In this section and sections 73B and 73C, “legal proceedings” includes any proceedings, process, action, application or appeal in any civil matter or quasi‑criminal matter.
+
+[Act 46 of 2018 wef 01/01/2019]
+
+### Limited civil restraint orders
+
+73B\.—(1) A court may, if satisfied that a party has made 2 or more applications that are totally without merit, make a limited civil restraint order against the party.
+
+(2) Where a court makes a limited civil restraint order, the party against whom the order is made —
+
+(a) is restrained from making any further application in the legal proceedings in respect of which the order is made without the leave of that court; and
+
+(b) may apply to amend, vary or discharge the order, only if the party has the leave of that court to make that application.
+
+(3) Where a party, who is subject to a limited civil restraint order, makes an application (other than for the leave of the court under subsection (2)) in the legal proceedings in respect of which the order is made without the leave of the court under subsection (2), that application is to be treated as dismissed —
+
+(a) without the court having to make any further order; and
+
+(b) without the need for any other party to be heard on the merits of that application.
+
+(4) A limited civil restraint order —
+
+(a) is limited to the particular legal proceedings in respect of which the order is made; and
+
+(b) remains in effect for the duration of the legal proceedings in respect of which the order is made, unless the court orders otherwise.
+
+(5) Where a party, who is subject to a limited civil restraint order made by the High Court, applies for the leave of the court under subsection (2), and the High Court refuses such leave, the party may, subject to section 34(2A), bring an appeal from the order refusing such leave to the Court of Appeal.
+
+[Act 46 of 2018 wef 01/01/2019]
+
+### Extended civil restraint orders
+
+73C\.—(1) A court may, if satisfied that a party has persistently commenced actions or made applications that are totally without merit, make an extended civil restraint order against the party.
+
+(2) Where a court makes an extended civil restraint order, the party against whom the order is made —
+
+(a) is restrained from commencing any action or making any application, in any court or subordinate court specified in the order, concerning any matter involving, relating to, touching upon or leading to the legal proceedings in respect of which the order is made, without the leave of the court that made the order; and
+
+(b) may apply to amend, vary or discharge the order, only if the party has the leave of the court that made the order to make that application.
+
+(3) Where a party, who is subject to an extended civil restraint order, commences an action or makes an application (other than for the leave of the court under subsection (2)), in any court or subordinate court specified in the order, concerning any matter involving, relating to, touching upon or leading to the legal proceedings in respect of which the order is made, without the leave of the court under subsection (2), that action or application is to be treated as struck out or dismissed —
+
+(a) without the court having to make any further order; and
+
+(b) without the need for any other party to be heard on the merits of that action or application.
+
+(4) An extended civil restraint order —
+
+(a) remains in effect for a period (not exceeding 2 years) that is specified in the order; and
+
+(b) must specify every court or subordinate court in which the party against whom the order is made is restrained from commencing any action or making any application.
+
+(5) The court —
+
+(a) may extend the period for which an extended civil restraint order remains in effect, if the court considers it appropriate to do so; but
+
+(b) must not extend that period for more than 2 years on any given occasion.
+
+(6) Where a party, who is subject to an extended civil restraint order made by the High Court, applies for the leave of the court under subsection (2), and the High Court refuses such leave, the party may, subject to section 34(2A), bring an appeal from the order refusing such leave to the Court of Appeal.
+
+[Act 46 of 2018 wef 01/01/2019]
+
+### General civil restraint orders
+
+73D\.—(1) A court may, if satisfied that a party has persisted in commencing actions or making applications that are totally without merit, in circumstances where an extended civil restraint order would not be sufficient or appropriate, make a general civil restraint order against the party.
+
+(2) Where a court makes a general civil restraint order, the party against whom the order is made —
+
+(a) is restrained from commencing any action or making any application, in any court or subordinate court specified in the order, without the leave of the court that made the order; and
+
+(b) may apply to amend, vary or discharge the order, only if the party has the leave of the court that made the order to make that application.
+
+(3) Where a party, who is subject to a general civil restraint order, commences an action or makes an application (other than for the leave of the court under subsection (2)), in any court or subordinate court specified in the order, without the leave of the court under subsection (2), that action or application is to be treated as struck out or dismissed —
+
+(a) without the court having to make any further order; and
+
+(b) without the need for any other party to be heard on the merits of that action or application.
+
+(4) A general civil restraint order —
+
+(a) remains in effect for a period (not exceeding 2 years) that is specified in the order; and
+
+(b) must specify every court or subordinate court in which the party against whom the order is made is restrained from commencing any action or making any application.
+
+(5) The court —
+
+(a) may extend the period for which a general civil restraint order remains in effect, if the court considers it appropriate to do so; but
+
+(b) must not extend that period for more than 2 years on any given occasion.
+
+(6) Where a party, who is subject to a general civil restraint order made by the High Court, applies for the leave of the court under subsection (2), and the High Court refuses such leave, the party may, subject to section 34(2A), bring an appeal from the order refusing such leave to the Court of Appeal.
+
+[Act 46 of 2018 wef 01/01/2019]
+
 ### Vexatious litigants
 
 74\.—(1) If, on an application made by the Attorney-General, the High Court is satisfied that any person has habitually and persistently and without any reasonable ground instituted vexatious legal proceedings in any court or subordinate court, whether against the same person or against different persons, the High Court may, after hearing that person or giving him an opportunity of being heard, order that —
@@ -1630,13 +1776,21 @@ List of Touts
 
 [30/2010 wef 01/01/2011]
 
-(3) No appeal shall lie from an order under subsection (1) refusing leave for institution or continuance of legal proceedings.
+(2A) A person against whom the High Court makes an order under subsection (1) may bring an appeal from the order to the Court of Appeal only with the leave of the High Court or the Court of Appeal.
+
+[Act 46 of 2018 wef 01/01/2019]
+
+(3) No appeal shall lie from an order refusing leave under subsection (1) for institution or continuance of legal proceedings.
+
+[Act 46 of 2018 wef 01/01/2019]
 
 (4) A copy of any order under subsection (1) shall be published in theGazette.
 
-(5) In this section, “legal proceedings” includes any proceedings, process, action, application or appeal in any civil matter or criminal matter.
+(5) In this section, “legal proceedings” includes any proceedings, process, action, application or appeal in any civil matter, quasi‑criminal matter or criminal matter.
 
 [30/2010 wef 01/01/2011]
+
+[Act 46 of 2018 wef 01/01/2019]
 
 Disabilities of Registrar and other officers
 
@@ -1692,9 +1846,11 @@ it shall be lawful for the Registrar to inquire into the matter in a summary way
 
 (6) The decision of the Chief Justice shall be final.
 
-Protection of Registrar and other officers
+Protection of Registrar and other persons
 
-### Protection of Registrar and other officers
+[Act 46 of 2018 wef 01/01/2019]
+
+### Protection of Registrar and other persons
 
 79\.—(1) The Registrar, the Deputy Registrar or an Assistant Registrar or other person acting judicially shall not be liable to be sued in any court exercising civil jurisdiction for any act done by him in the discharge of his judicial duty whether or not within the limits of his jurisdiction, provided that he at the time in good faith believed himself to have jurisdiction to do or order the act complained of.
 
@@ -1711,6 +1867,8 @@ Protection of Registrar and other officers
 (b) did not involve any fraud or wilful misconduct on his part.
 
 [Act 16 of 2016 wef 10/06/2016]
+
+[Act 46 of 2018 wef 01/01/2019]
 
 Rules of Court
 
@@ -1742,7 +1900,9 @@ Rules of Court
 
 (iii) commenced or treated as commenced in the High Court by or against the estate of a deceased person to be maintained (whether by substitution of parties, amendment or otherwise) by or against, as the case may be, a person appointed to represent the estate or, if a grant of probate or letters of administration is or has been made, by or against the personal representatives;
 
-(h) regulating the means by which particular facts may be proved, and the mode in which evidence thereof may be given, in any proceedings or on any application in connection with or at any stage of any proceedings;
+(h) regulating the means by which particular facts may be proved, and the manner in which any factual, expert or opinion evidence may be adduced, in any proceedings or on any application in connection with or at any stage of any proceedings;
+
+[Act 46 of 2018 wef 01/01/2019]
 
 (i) regulating the joinder of parties and for prescribing in what cases persons absent, but having an interest in a cause or matter, shall be bound by any order made therein, and in what cause or matter orders may be made for the representation of absent persons by one or more parties to a cause or matter;
 
@@ -1758,11 +1918,11 @@ Rules of Court
 
 (o) prescribing in what cases and on what conditions a court may act upon the certificate of accountants, actuaries or other scientific persons;
 
-(p) prescribing the duties of the Accountant in respect of funds or property in the custody of the court, and in particular prescribing the mode of transfer of securities into the name of the Accountant, and the method of investment of any such funds, and the rate of interest to be charged thereon, and the manner in which unclaimed funds may be dealt with; and
+(p) prescribing the duties of the Accountant in respect of funds or property in the custody of the court, and in particular prescribing the mode of transfer of securities into the name of the Accountant, and the method of investment of any such funds, and the rate of interest to be charged thereon, and the manner in which unclaimed funds may be dealt with.
 
-(q) amending, altering or adding to the forms set out in any written law relating to criminal procedure.
+[Act 46 of 2018 wef 01/01/2019]
 
-[16/93; 2/94]
+(q) [Deleted by Act 46 of 2018 wef 01/01/2019]
 
 (2A) Without prejudice to the generality of subsection (1), Rules of Court may be made in relation to the Singapore International Commercial Court for the following purposes:
 
@@ -1790,7 +1950,9 @@ Rules of Court
 
 (h) to prescribe the circumstances where that Court may make a judgment or an order without hearing oral arguments;
 
-(i) to declare to be final, for the purposes of section 34(1)(e), any judgment or order of that Court (not being a judgment or an order that finally disposes of an action on its merits);
+(i) to declare to be final, for the purposes of paragraph 1 of the Fourth Schedule, any judgment or order of that Court (not being a judgment or an order that finally disposes of an action on its merits);
+
+[Act 46 of 2018 wef 01/01/2019]
 
 (j) to prescribe the fees and deposits payable for proceedings in that Court and in appeals from that Court;
 
@@ -1864,15 +2026,19 @@ then, if any such action or application that has been commenced or made before t
 
 [42/2005]
 
-### Amendment of Third, Fourth and Fifth Schedules
+### Amendment of Third to Sixth Schedules
 
-83\.—(1) The Minister may, after consulting the Chief Justice, by order published in theGazette, amend the Third, Fourth or Fifth Schedule.
+83\.—(1) The Minister may, after consulting the Chief Justice, by order published in theGazette, amend the Third, Fourth, Fifth or Sixth Schedule.
 
 [30/2010 wef 01/01/2011]
+
+[Act 46 of 2018 wef 01/01/2019]
 
 (2) An order under subsection (1) may contain such transitional and savings provisions as may appear to the Minister, after consulting the Chief Justice, to be necessary or expedient.
 
 [30/2010 wef 01/01/2011]
+
+[Act 46 of 2018 wef 01/01/2019]
 
 FIRST SCHEDULE
 
@@ -2000,6 +2166,12 @@ Ordering mediation, counselling or participation in family support programme or 
 
 [Act 27 of 2014 wef 01/10/2014]
 
+Late filing charge
+
+22. Power, in any case where a person fails to file any document within the period (for the filing of that document) specified in any order or direction of a court, any Rules of Court or any practice directions issued by the Registrar, to require the person to pay a late filing charge, of such amount as may be prescribed in the Rules of Court, for each day, after the expiry of that period, that that document remains unfiled.
+
+[Act 46 of 2018 wef 01/01/2019]
+
 SECOND SCHEDULE
 
 Section 69
@@ -2055,71 +2227,89 @@ No appeal shall be brought to the High Court in any of the following cases:
 
 FOURTH SCHEDULE
 
-Sections 34(1)(a) and 83
+Sections 34(1), 80(2A)(i) and 83
 
-Orders Made by Judge
+Cases that are non‑appealable
 
+1. Subject to paragraph 2, an appeal cannot be brought to the Court of Appeal in any of the following cases:
 
+(a) where, by any written law for the time being in force, it is expressly declared that the judgment or order of the High Court is final or that no appeal lies from the judgment or order of the High Court;
 
+(b) where the judgment or order is made by consent of the parties;
 
-That Are Non-appealable
+(c) where a Judge makes an order giving unconditional leave to defend any proceedings;
 
-No appeal shall be brought to the Court of Appeal in any of the following cases:
+(d) where a Judge makes an order giving leave to defend any proceedings on condition that the party defending those proceedings pays into court or gives security for the sum claimed, except if the appellant is that party;
 
-(a) where a Judge makes an order giving unconditional leave to defend any proceedings;
+(e) where a Judge makes an order setting aside unconditionally a default judgment, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise);
 
-(b) where a Judge makes an order giving leave to defend any proceedings on condition that the party defending those proceedings pays into court or gives security for the sum claimed, except if the appellant is that party;
+(f) where a Judge makes an order setting aside a default judgment on condition that the party against whom the judgment had been entered pays into court or gives security for the sum claimed, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise), except if the appellant is that party;
 
-(c) where a Judge makes an order setting aside unconditionally a default judgment, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise);
-
-(d) where a Judge makes an order setting aside a default judgment on condition that the party against whom the judgment had been entered pays into court or gives security for the sum claimed, regardless of how the default judgment was obtained (including whether by reason of a breach of an order of court or otherwise), except if the appellant is that party;
-
-(e) where a Judge makes an order refusing to strike out —
+(g) where a Judge makes an order refusing to strike out —
 
 (i) an action or a matter commenced by a writ of summons or by any other originating process; or
 
 (ii) a pleading or a part of a pleading;
 
-(f) where a Judge makes an order giving or refusing further and better particulars;
+(h) where a Judge makes an order giving or refusing further and better particulars;
 
-(g) where a Judge makes an order giving leave to amend a pleading, except if —
+(i) where a Judge makes an order giving leave to amend a pleading, except if —
 
 (i) the application for such leave is made after the expiry of any relevant period of limitation current at the date of issue of the writ of summons; and
 
 (ii) the amendment is an amendment to correct the name of a party or to alter the capacity in which a party sues, or the effect of the amendment will be to add or substitute a new cause of action;
 
-(h) where a Judge makes an order refusing security for costs;
+(j) where a Judge makes an order refusing security for costs;
 
-(i) where a Judge makes an order giving or refusing interrogatories.
+(k) where a Judge makes an order giving or refusing interrogatories.
 
-[30/2010 wef 01/01/2011]
+2. Paragraph 1 does not apply to the following decisions, judgments or orders:
+
+(a) any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction mentioned in section 23 of the Family Justice Act 2014 (Act 27 of 2014);
+
+(b) any decision, judgment or order of the High Court involving the exercise of the appellate civil jurisdiction of the High Court in any of the following circumstances:
+
+(i) the hearing of any appeal from a District Court or Magistrate’s Court when exercising jurisdiction of a quasi‑criminal or civil nature in any family proceedings (not being probate proceedings), being an appeal commenced in the High Court before 1 October 2014;
+
+(ii) the hearing of any appeal or special case from the Tribunal for the Maintenance of Parents, being an appeal or a special case commenced in the High Court before 1 October 2014;
+
+(iii) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before 1 January 2015.
+
+3. In this Schedule —
+
+“family proceedings” has the meaning given by section 2(1) of the Family Justice Act 2014;
+
+“probate proceedings” has the meaning given by section 47(13) of the Family Justice Act 2014.
+
+[Act 46 of 2018 wef 01/01/2019]
 
 FIFTH SCHEDULE
 
-Sections 34(2)(d) and 83
+Sections 34(2) and (4) and 83
 
-Orders Made by Judge
+Cases that are appealable only with leave
 
+1. Subject to paragraphs 4 and 5, an appeal may be brought to the Court of Appeal only with the leave of the High Court or the Court of Appeal, in any of the following cases:
 
+(a) where by any written law for the time being in force, it is expressly declared that the appeal may be brought only with the leave of the High Court or the Court of Appeal, or that no such appeal is to be brought except with the leave of the High Court or the Court of Appeal;
 
+(b) where the only issue in the appeal relates to costs or fees for hearing dates;
 
-That Are Appealable Only With Leave
+(c) where a Judge in chambers makes a decision in a summary way on an interpleader summons where the facts are not in dispute;
 
-Except with the leave of the High Court or the Court of Appeal, no appeal shall be brought to the Court of Appeal in any of the following cases:
-
-(a) where a Judge makes an order refusing leave to amend a pleading, except if —
+(d) where a Judge makes an order refusing leave to amend a pleading, except if —
 
 (i) the application for such leave is made after the expiry of any relevant period of limitation current at the date of issue of the writ of summons; and
 
 (ii) the amendment is an amendment to correct the name of a party or to alter the capacity in which a party sues, or the effect of the amendment will be to add or substitute a new cause of action;
 
-(b) where a Judge makes an order giving security for costs;
+(e) where a Judge makes an order giving security for costs;
 
-(c) where a Judge makes an order giving or refusing discovery or inspection of documents;
+(f) where a Judge makes an order giving or refusing discovery or inspection of documents;
 
-(d) where a Judge makes an order refusing a stay of proceedings;
+(g) where a Judge makes an order refusing a stay of proceedings;
 
-(e) where a Judge makes an order at the hearing of any interlocutory application other than an application for any of the following matters:
+(h) where a Judge makes an order at the hearing of any interlocutory application other than an application for any of the following matters:
 
 (i) for summary judgment;
 
@@ -2139,11 +2329,101 @@ Except with the leave of the High Court or the Court of Appeal, no appeal shall 
 
 (ix) for interrogatories to be varied or withdrawn, or for leave to serve interrogatories;
 
-(x) for a stay of proceedings.
+(x) for a stay of proceedings;
 
-[30/2010 wef 01/01/2011]
+(i) where the appeal is from any decision, judgment or order of the High Court involving the exercise of its appellate civil jurisdiction in any of the following circumstances:
 
-[Act 42 of 2014 wef 01/01/2015]
+(i) the hearing of any appeal from a District Court or Magistrate’s Court when exercising jurisdiction of a quasi‑criminal or civil nature in any family proceedings (not being probate proceedings), being an appeal commenced in the High Court before 1 October 2014;
+
+(ii) the hearing of any appeal or special case from the Tribunal for the Maintenance of Parents, being an appeal or a special case commenced in the High Court before 1 October 2014;
+
+(iii) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before 1 January 2015.
+
+2\. An appeal may be brought to the Court of Appeal only with the leave of a Judge of the Family Division of the High Court, or of the Court of Appeal, from any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction mentioned in section 23 of the Family Justice Act 2014 (Act 27 of 2014).
+
+3. Section 34(2)(a) does not apply to any of the following cases:
+
+(a) any case heard and determined by the High Court in the exercise of its original jurisdiction under any written law which requires that case to be heard and determined by the High Court in the exercise of its original jurisdiction;
+
+(b) any case heard and determined by the Family Division of the High Court in the exercise of its original jurisdiction;
+
+(c) any family proceedings (not being probate proceedings) commenced in the High Court before 1 October 2014 and heard and determined by the High Court in the exercise of its original jurisdiction;
+
+(d) any contentious probate proceedings commenced in the High Court before 1 January 2015 and heard and determined by the High Court in the exercise of its original jurisdiction.
+
+4. Section 34(2)(a) and section 34(2)(b) read with paragraph 1(b) to (h) do not apply to any decision, judgment or order of the High Court involving the exercise of its appellate civil jurisdiction in any of the following circumstances:
+
+(a) the hearing of any appeal from a District Court or Magistrate’s Court when exercising jurisdiction of a quasi-criminal or civil nature in any family proceedings (not being probate proceedings), being an appeal commenced in the High Court before 1 October 2014;
+
+(b) the hearing of any appeal or special case from the Tribunal for the Maintenance of Parents, being an appeal or a special case commenced in the High Court before 1 October 2014;
+
+(c) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before 1 January 2015.
+
+5\. Section 34(2)(a) and section 34(2)(b) read with paragraph 1(b) to (h) do not apply to any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction mentioned in section 23 of the Family Justice Act 2014.
+
+6. In this Schedule —
+
+“family proceedings” has the meaning given by section 2(1) of the Family Justice Act 2014;
+
+“probate proceedings” has the meaning given by section 47(13) of the Family Justice Act 2014.
+
+[Act 46 of 2018 wef 01/01/2019]
+
+SIXTH SCHEDULE
+
+Sections 30(2) and 83
+
+Composition of court of appeal
+
+
+
+
+when exercising civil jurisdiction
+
+
+
+
+in certain matters
+
+1. Despite section 30(1), the Court of Appeal in the exercise of its civil jurisdiction is duly constituted for the purpose of hearing and determining any of the following matters if it consists of one Judge of Appeal:
+
+(a) an application —
+
+(i) to record a judgment, or an order, that is made by consent of the parties; or
+
+(ii) to make an order that is incidental to any such judgment or order;
+
+(b) an application to adduce further evidence in proceedings before the Court of Appeal;
+
+(c) an application for costs, or any other matter that remains to be dealt with, after an application or appeal to the Court of Appeal is withdrawn.
+
+2. Despite section 30(1), the Court of Appeal in the exercise of its civil jurisdiction is duly constituted for the purpose of hearing and determining an application for any direction or order mentioned in section 36(1) if it consists of —
+
+(a) one Judge of Appeal; or
+
+(b) 2 Judges of Appeal.
+
+3. Despite section 30(1), the Court of Appeal in the exercise of its civil jurisdiction is duly constituted for the purpose of hearing and determining any of the following matters if it consists of 2 Judges of Appeal:
+
+(a) an application to extend the time for filing and serving a notice of appeal;
+
+(b) an application to discharge or vary any direction or order made under section 36(1) by a Court of Appeal consisting of one Judge of Appeal;
+
+(c) an application for leave to appeal to the Court of Appeal, whether under this Act or any other written law, or to extend time for applying for such leave;
+
+(d) an application to the Court of Appeal for a stay of execution (whether pending or after the appeal) or a stay of proceedings under the decision appealed from;
+
+(e) an appeal against an interlocutory judgment;
+
+(f) an appeal against any judgment or order obtained after the hearing of an application for the admission of a person under section 15 of the Legal Profession Act (Cap. 161);
+
+(g) an appeal against any judgment or order obtained after the hearing of an assessment of damages;
+
+(h) an appeal against any judgment or order obtained after the hearing of a taking of accounts between parties;
+
+(i) an appeal against any judgment or order obtained after any proceedings other than the trial or hearing of any action or matter commenced by any originating process.
+
+[Act 46 of 2018 wef 01/01/2019]
 
 ## LEGISLATIVE HISTORY
 
@@ -2342,6 +2622,10 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of First Reading|2 March 2018 (Bill No. 16/2018 published on 2 March 2018)|
 ||Date of Second and Third Readings|20 March 2018|
 ||Dates of commencement|1 November 2018|
+|40.|**Act 46 of 2018—Supreme Court of Judicature (Amendment No. 2) Act 2018**|
+||Date of First Reading|10 September 2018 (Bill No. 33/2018 published on 10 September 2018)|
+||Date of Second and Third Readings|20 October 2018|
+||Date of commencement|1 January 2019|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
