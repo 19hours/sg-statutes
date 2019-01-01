@@ -2968,7 +2968,9 @@ and nothing in this subsection shall limit the operation of section 26 of the El
 
 (a) attending a primary or secondary school as a student;
 
-(b) against whom an order of supervision has been made under section 30 (b) of the Criminal Law (Temporary Provisions) Act (Cap. 67);
+(b) against whom an order of supervision has been made under section 30(1)(b) of the Criminal Law (Temporary Provisions) Act (Cap. 67);
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (c) who is an undischarged bankrupt; or
 
@@ -2988,13 +2990,17 @@ shall take part in any election activity.
 
 (3) Every candidate and election agent shall supply particulars in duplicate of all written authorities issued by them under subsection (2) to the Returning Officer, who shall on receipt thereof forward a copy of those particulars to the Commissioner of Police.
 
-(4) Any candidate or election agent shall, if so required by the Commissioner of Police, immediately withdraw and deliver to the Returning Officer the written authority given by the candidate or election agent to any person who is stated by the Commissioner of Police to be a person in respect of whom an order of supervision has been made under section 30(b) of the Criminal Law (Temporary Provisions) Act.
+(4) Any candidate or election agent shall, if so required by the Commissioner of Police, immediately withdraw and deliver to the Returning Officer the written authority given by the candidate or election agent to any person who is stated by the Commissioner of Police to be a person in respect of whom an order of supervision has been made under section 30(1)(b) of the Criminal Law (Temporary Provisions) Act.
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (5) Any person who contravenes any of the provisions of this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [11/2010]
 
-(6) No candidate or election agent shall authorise any person to conduct an election activity, knowing or having reason to believe that the person is attending a primary or secondary school as a student or that an order of supervision has been made in respect of the person under section 30(b) of the Criminal Law (Temporary Provisions) Act.
+(6) No candidate or election agent shall authorise any person to conduct an election activity, knowing or having reason to believe that the person is attending a primary or secondary school as a student or that an order of supervision has been made in respect of the person under section 30(1)(b) of the Criminal Law (Temporary Provisions) Act.
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (7) Every offence under this section for contravening subsection (1), (1A) or (2) shall be an arrestable offence within the meaning of the Criminal Procedure Code 2010 (Act 15 of 2010).
 
@@ -3615,6 +3621,10 @@ This Legislative History is provided for the convenience of users of the Preside
 ||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|15 August 2016|
 ||Date of commencement|1 October 2017|
+|23.|**Act 12 of 2018—Criminal Law (Temporary Provisions) (Amendment) Act 2018**|
+||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|1 January 2019|
 ## COMPARATIVE TABLE
 
 Presidential Elections Act
