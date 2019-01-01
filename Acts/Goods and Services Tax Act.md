@@ -42,6 +42,8 @@
 
 - [11B Time of supply: exceptions to section 11(2)](#Time-of-supply:-exceptions-to-section-112)
 
+- [11C Time of supply: reverse charge supplies](#Time-of-supply:-reverse-charge-supplies)
+
 - [12 Time of supply: directions and regulations](#Time-of-supply:-directions-and-regulations)
 
 - [12A Time of supply: transitional provision](#Time-of-supply:-transitional-provision)
@@ -91,6 +93,8 @@
 [**Part VI SPECIAL CASES**](#Part-VI)
 
 - [28 Application to Government](#Application-to-Government)
+
+- [28A Application to persons registered by virtue of Seventh Schedule supplies](#Application-to-persons-registered-by-virtue-of-Seventh-Schedule-supplies)
 
 - [29 Input tax deemed incurred in relation to insurance cash payments](#Input-tax-deemed-incurred-in-relation-to-insurance-cash-payments)
 
@@ -182,9 +186,11 @@
 
 - [63 Improperly obtaining refund](#Improperly-obtaining-refund)
 
-- [64 Offences in relation to goods and invoices](#Offences-in-relation-to-goods-and-invoices)
+- [64 Offences in relation to goods and services](#Offences-in-relation-to-goods-and-services)
 
-- [65 Penalties for offences by authorised and unauthorised persons](#Penalties-for-offences-by-authorised-and-unauthorised-persons)
+- [64A Offences in relation to unauthorised collections of tax or amounts attributable to tax](#Offences-in-relation-to-unauthorised-collections-of-tax-or-amounts-attributable-to-tax)
+
+- [65 Penalties for offences by persons administering Act, etc.](#Penalties-for-offences-by-persons-administering-Act-etc)
 
 - [66 Penalty for obstructing Comptroller in carrying out his duties](#Penalty-for-obstructing-Comptroller-in-carrying-out-his-duties)
 
@@ -236,6 +242,16 @@
 
 - [83E Arrest of persons](#Arrest-of-persons)
 
+- [83F No unnecessary restraint](#No-unnecessary-restraint)
+
+- [83G Arresting officer to be armed](#Arresting-officer-to-be-armed)
+
+- [83H Search of place entered by person sought to be arrested](#Search-of-place-entered-by-person-sought-to-be-arrested)
+
+- [83I Arrested person may be orally examined](#Arrested-person-may-be-orally-examined)
+
+- [83J Disposal of item furnished or seized](#Disposal-of-item-furnished-or-seized)
+
 - [84 Power of Comptroller to obtain information and furnishing of information](#Power-of-Comptroller-to-obtain-information-and-furnishing-of-information)
 
 [**Part XII GENERAL PROVISIONS**](#Part-XII)
@@ -254,7 +270,11 @@
 
 - [90A Advance rulings](#Advance-rulings)
 
-- [91 Transitional provisions](#Transitional-provisions)
+- [91 Temporary arrangements for Seventh Schedule supplies and reverse charge supplies: registration](#Temporary-arrangements-for-Seventh-Schedule-supplies-and-reverse-charge-supplies:-registration)
+
+- [92 Temporary arrangements for Seventh Schedule supplies: scope of tax and time of supply](#Temporary-arrangements-for-Seventh-Schedule-supplies:-scope-of-tax-and-time-of-supply)
+
+- [93 Temporary arrangements for reverse charge supplies: scope of tax and time of supply](#Temporary-arrangements-for-reverse-charge-supplies:-scope-of-tax-and-time-of-supply)
 
 [**FIRST SCHEDULE Registration**](#FIRST-SCHEDULE-Registration)
 
@@ -267,6 +287,10 @@
 [**FIFTH SCHEDULE Advance Rulings**](#FIFTH-SCHEDULE-Advance-Rulings)
 
 [**SIXTH SCHEDULE Disclosure of names and particulars of persons and places**](#SIXTH-SCHEDULE)
+
+[**SEVENTH SCHEDULE Supplies for the purposes of section 8(1A)**](#SEVENTH-SCHEDULE-Supplies-for-the-purposes-of-section-81A)
+
+[**EIGHTH SCHEDULE Services excluded for purposes of section 14**](#EIGHTH-SCHEDULE-Services-excluded-for-purposes-of-section-14)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -376,6 +400,50 @@ PRELIMINARY
 
 “quarter” means a period of 3 months ending at the end of March, June, September or December;
 
+“registered person” means a person registered under this Act;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+“registered (Seventh Schedule — full) person” means a taxable person who —
+
+(a) belongs in a country other than Singapore and is registered under this Act by virtue of —
+
+(i) paragraph 1A of the First Schedule; or
+
+(ii) paragraph 8(1)(c) of the First Schedule; and
+
+(b) is an approved person under section 28A;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+“registered (Seventh Schedule — pay only) person” means a taxable person who —
+
+(a) belongs in a country other than Singapore and is registered under this Act by virtue of —
+
+(i) paragraph 1A of the First Schedule; or
+
+(ii) paragraph 8(1)(c) of the First Schedule; and
+
+(b) is not an approved person under section 28A;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+“reverse charge supply” means a supply of services treated as having been made by the recipient of those services under section 14(2);
+
+[Act 52 of 2018 wef 01/01/2019]
+
+“Seventh Schedule supply” means any supply of services of a type, and made (whether or not in Singapore) in the circumstances, described in the Seventh Schedule;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+“specially authorised customs officer” means an officer of customs authorised under section 5(3)(b) to exercise the powers mentioned in that provision;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+“specially authorised officer” means an officer authorised under section 5(3)(a) to exercise the powers mentioned in that provision;
+
+[Act 52 of 2018 wef 01/01/2019]
+
 “supply” has the meaning given to it by section 10;
 
 “tax” means goods and services tax;
@@ -383,6 +451,14 @@ PRELIMINARY
 “tax invoice” means such an invoice as is required under section 41;
 
 “taxable person” has the meaning given to it by section 8(2);
+
+“taxable (Seventh Schedule) person” means a person who —
+
+(a) is a taxable person by virtue of paragraph 1A of the First Schedule; or
+
+(b) is registered under this Act by virtue of paragraph 8(1)(c) of the First Schedule;
+
+[Act 52 of 2018 wef 01/01/2019]
 
 “taxable supply” has the meaning given to it by section 8(2A);
 
@@ -444,6 +520,14 @@ ADMINISTRATION
 
 [Property Tax 1985 Ed., ss. 4 (1) and 5]
 
+(3) The Comptroller may —
+
+(a) authorise any suitably qualified officer of the Inland Revenue Authority of Singapore charged with duties of investigation to exercise any power in sections 83E, 83F, 83G, 83H, 83J and 84(1A), (1B), (1C) and (1D); and
+
+(b) authorise any officer of customs under the Customs Act (Cap. 70) to exercise any power in sections 83E (except subsection (2)), 83F and 83G.
+
+[Act 52 of 2018 wef 01/01/2019]
+
 ### Official secrecy
 
 6\.—(1) Every person having any official duty or being employed in the administration of this Act —
@@ -490,23 +574,25 @@ shall be guilty of an offence.
 
 [16/2004]
 
-(6A) Notwithstanding anything in this section, the Comptroller may furnish to any person specified in subsection (6B) any information —
+(6A) Despite anything in this section, the Comptroller may furnish to the head of a law enforcement agency any information —
 
-(a) which may be required for the purpose of investigating or prosecuting a person for an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A), the predicate offence of which is an offence under this Act; or
+(a) that may be required by the law enforcement agency for the purpose of an investigation or prosecution of a person for an offence specified in the First or Second Schedule to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A); or
 
-(b) which the Comptroller has reasonable grounds to suspect affords evidence of the commission of an offence under Part VI of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act, the predicate offence of which is an offence under this Act,
+(b) that the Comptroller has reasonable grounds to suspect affords evidence of the commission of such an offence.
 
-and the specified person and persons under his command shall not further disclose such information except for the purpose of any investigation or prosecution referred to in paragraph (a), and any person who makes a further disclosure in contravention of this provision shall be guilty of an offence.
+[Act 52 of 2018 wef 01/01/2019]
 
-[Act 21 of 2013 wef 01/01/2014]
+(6B) The following persons, namely:
 
-(6B) The persons specified for the purposes of subsection (6A) are as follows:
+(a) the head of a law enforcement agency to whom any information is furnished under subsection (6A) for the purpose mentioned in subsection (6A)(a);
 
-(a) the Commissioner of Police;
+(b) any person under the command of the head of the law enforcement agency;
 
-(b) the Director of the Commercial Affairs Department.
+(c) any person to whom information is disclosed in compliance with this subsection,
 
-[Act 21 of 2013 wef 01/01/2014]
+must not disclose to any other person such information except where it is necessary for that same purpose, and any person in paragraph (a), (b) or (c) who contravenes this subsection shall be guilty of an offence.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (7) Notwithstanding anything in this section, the Comptroller may publish the names and such other particulars of the persons and places specified in the Sixth Schedule, in such form or manner, as he thinks fit.
 
@@ -520,27 +606,67 @@ and the specified person and persons under his command shall not further disclos
 
 [Act 21 of 2013 wef 01/01/2014]
 
+(10) In this section —
+
+“head of a law enforcement agency” means —
+
+(a) in relation to the Singapore Police Force, the Commissioner of Police;
+
+(b) in relation to the Commercial Affairs Department, the Director;
+
+(c) in relation to the Central Narcotics Bureau, the Director;
+
+(d) in relation to the Corrupt Practices Investigation Bureau, the Director; and
+
+(e) in relation to any other law enforcement agency, its head or equivalent;
+
+“law enforcement agency” means —
+
+(a) the Singapore Police Force;
+
+(b) the Commercial Affairs Department;
+
+(c) the Central Narcotics Bureau;
+
+(d) the Corrupt Practices Investigation Bureau; and
+
+(e) any other department of the Government charged with the responsibility of investigating any offence specified in the First or Second Schedule to the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act.
+
+[Act 52 of 2018 wef 01/01/2019]
+
 ## PART III
 
 IMPOSITION AND EXTENT OF TAX
 
 ### Goods and services tax
 
-7\. A tax to be known as Goods and Services Tax shall be charged in accordance with the provisions of this Act on the supply of goods and services in Singapore (including anything treated as such a supply) and on the importation of goods into Singapore.
+7\. A tax to be known as Goods and Services Tax shall be charged in accordance with the provisions of this Act on the supply of goods and services (including anything treated as such a supply) and on the importation of goods.
 
 [UK VAT Act 1983, s. 1]
+
+[Act 52 of 2018 wef 01/01/2019]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 ### Scope of tax
 
 8\.—(1) Tax shall be charged on any supply of goods or services made in Singapore where it is a taxable supply made by a taxable person in the course or furtherance of any business carried on by him.
 
+(1A) Without affecting subsection (1), tax shall be charged on any Seventh Schedule supply where it is a taxable supply made by a taxable person in the course or furtherance of any business carried on by him.
+
+[Act 52 of 2018 wef 01/01/2019]
+
 (2) A person is a taxable person for the purposes of this Act while he is or is required to be registered under this Act.
 
 [25/96]
 
-(2A) A taxable supply is a supply of goods or services made in Singapore other than an exempt supply.
+(2A) A taxable supply is —
 
-[25/96]
+(a) for subsection (1), a supply of goods or services made in Singapore other than an exempt supply; and
+
+(b) for subsection (1A), a Seventh Schedule supply other than an exempt supply.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (3) Tax on any supply of goods or services is a liability of the person making the supply and (subject to provisions on accounting and payment) becomes due at the time of supply.
 
@@ -566,7 +692,9 @@ IMPOSITION AND EXTENT OF TAX
 
 (2) Subject to any provision made by the Second Schedule and to orders made under subsection (3) —
 
-(a) “supply” in this Act includes all forms of supply, but not anything done otherwise than for a consideration;
+(a) “supply” in this Act includes all forms of supply and reverse charge supplies, but not anything done otherwise than for a consideration;
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (b) anything which is not a supply of goods but is done for a consideration (including, if so done, the granting, assignment or surrender of any right) is a supply of services.
 
@@ -592,11 +720,13 @@ IMPOSITION AND EXTENT OF TAX
 
 ### Time of supply: general provisions
 
-11\.—(1) This section and sections 11A, 11B, 12 and 12A shall apply for determining the time when a supply of goods or services is to be treated as taking place for the purposes of this Act.
+11\.—(1) This section and sections 11A, 11B, 11C, 12 and 12A shall apply for determining the time when a supply of goods or services is to be treated as taking place for the purposes of this Act.
 
 [20/2010 wef 01/01/2011]
 
-(2) A supply of goods or services shall be treated for the purposes of this Act as taking place at the time when —
+[Act 52 of 2018 wef 01/01/2019]
+
+(2) A supply of goods or services (other than a reverse charge supply) shall be treated for the purposes of this Act as taking place at the time when —
 
 (a) the person making the supply issues an invoice or receives any consideration in respect of it; or
 
@@ -605,6 +735,8 @@ IMPOSITION AND EXTENT OF TAX
 to the extent that the supply is covered by the invoice or consideration.
 
 [20/2010 wef 01/01/2011]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (3) Notwithstanding subsection (2), where a supply is —
 
@@ -642,9 +774,11 @@ to the extent that the supply is covered by the invoice or consideration.
 
 [20/2010 wef 01/01/2011]
 
-(5) For the purpose of determining the time when a supply of goods or services is to be treated as taking place for the purposes of this Act, where a person provides a document to himself which purports to be an invoice in respect of a supply of goods or services to him by another person, the Comptroller may treat that invoice as an invoice issued by the other person as the supplier.
+(5) For the purpose of determining the time when a supply of goods or services (other than a reverse charge supply) is to be treated as taking place for the purposes of this Act, where a person provides a document to himself which purports to be an invoice in respect of a supply of goods or services to him by another person, the Comptroller may treat that invoice as an invoice issued by the other person as the supplier.
 
 [20/2010 wef 01/01/2011]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 ### Time of supply: exceptions to section 11(2) and (3)
 
@@ -652,7 +786,7 @@ to the extent that the supply is covered by the invoice or consideration.
 
 [20/2010 wef 01/01/2011]
 
-(2) For the purposes of paragraphs 1(1) and (2) and 2 of the First Schedule, the supply shall be treated as taking place at the time when —
+(2) For the purposes of paragraphs 1(1) and (2), 1A(1) and (2), and 2 (in relation to sub‑paragraph (2)(a)(i) of that paragraph) of the First Schedule, the supply shall be treated as taking place at the time when —
 
 (a) the person making the supply issues an invoice or receives any consideration in respect of it; or
 
@@ -661,6 +795,8 @@ to the extent that the supply is covered by the invoice or consideration.
 to the extent that the supply is covered by the invoice or consideration.
 
 [20/2010 wef 01/01/2011]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (3) For the purposes of regulations made under section 19(13)(b) and (c) in respect of tax on a supply of goods or services made to a taxable person that he may count as his input tax, the supply shall be treated as taking place at the time when —
 
@@ -720,7 +856,7 @@ then the person making the supply shall, if the other person so requests, treat 
 
 [20/2010 wef 01/01/2011]
 
-(3) Subject to subsection (7), where a person who makes a supply of goods or services is connected within the meaning of paragraph 3 of the Third Schedule with the person to whom the supply is made, and —
+(3) Subject to subsection (7) and section 11C(4), where a person who makes a supply of goods or services is connected within the meaning of paragraph 3 of the Third Schedule with the person to whom the supply is made, and —
 
 (a) in the case of a supply of goods —
 
@@ -733,6 +869,8 @@ then the person making the supply shall, if the other person so requests, treat 
 then the supply shall be treated as taking place at the end of 12 months after the goods have been removed or made available, or the services have been performed, as the case may be, to the extent that it is not covered by any invoice already issued or consideration already received.
 
 [20/2010 wef 01/01/2011]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (4) The Minister may by regulations prescribe supplies of goods or services which shall be excluded from subsection (3).
 
@@ -784,9 +922,77 @@ the supply of goods or services shall be treated as taking place on the day imme
 
 [20/2010 wef 01/01/2011]
 
+### Time of supply: reverse charge supplies
+
+11C\.—(1) This section applies to determine when a reverse charge supply of a recipient mentioned in section 14 takes place for the purposes of this Act (including for the purposes of paragraph 1B of the First Schedule).
+
+(2) Subject to subsections (3), (4), (6) and (7), the reverse charge supply takes place when —
+
+(a) the person or branch mentioned in section 14(1) that in fact supplies the services to the recipient issues an invoice, or the recipient pays any consideration for those services; or
+
+(b) where both events occur, the first of the 2 events occurs,
+
+to the extent that the supply of services is covered by the invoice or consideration.
+
+(3) Where the recipient is registered under this Act, the recipient may, for any period during which the recipient receives services that are the subject of the recipient’s reverse charge supplies, treat each of those reverse charge supplies as taking place at the earlier of —
+
+(a) the date on which the supply in fact made to the recipient and giving rise to that reverse charge supply is entered into the books of account or other records of the recipient; and
+
+(b) the date on which the recipient pays any consideration for that supply,
+
+to the extent that the supply of services is covered by the entry or consideration.
+
+(4) Where the reverse charge supply arises from —
+
+(a) a supply of services mentioned in section 14(1)(a)(i) that is between connected persons within the meaning of paragraph 3 of the Third Schedule;
+
+(b) a supply of services mentioned in section 14(1)(a)(ii); or
+
+(c) a supply of services mentioned in section 30(1A),
+
+then the reverse charge supply takes place at the end of 12 months after the services have been performed, to the extent that it is not covered by any invoice already issued or consideration already paid.
+
+(5) The Minister may by regulations prescribe services that are excluded from subsection (4).
+
+(6) Where —
+
+(a) the recipient is a taxable person receiving services mentioned in section 14(1);
+
+(b) but for this subsection, the reverse charge supply would be treated under this section as taking place after the date on which he becomes a taxable person; and
+
+(c) the Comptroller is satisfied that the services had been performed prior to that date,
+
+then the recipient may treat the reverse charge supply as taking place when the services in paragraph (a) were performed (to the extent of the performance), and the reverse charge supply is so treated for the purposes of this Act.
+
+(7) Where —
+
+(a) services are in fact performed by the person or branch mentioned in section 14(1)(a), whether on a single occasion or on different occasions;
+
+(b) the recipient then ceases to be a taxable person; and
+
+(c) no invoice or consideration covering the whole of the supply has been issued or paid (as the case may be) before the recipient ceases to be a taxable person,
+
+the reverse charge supply is treated as taking place on the day immediately before the day the recipient ceases to be a taxable person, to the extent that it is not covered by any invoice already issued or consideration already paid.
+
+(8) Despite subsections (2), (3), (4), (6) and (7), where —
+
+(a) a longer period (mentioned in section 20(4) for the purposes of the adjustment of input tax claims of the recipient) is applicable under this Act to a recipient; and
+
+(b) the recipient satisfies such other criteria as the Comptroller may specify,
+
+then —
+
+(c) the recipient may elect to treat its reverse charge supplies that would (but for this subsection) take place in the longer period, as taking place on the day immediately after the last day of the longer period; and
+
+(d) if the recipient makes such an election and ceases on any day in a longer period to be a taxable person (called in this paragraph the day of cessation), the reverse charge supplies of the recipient that would (but for this subsection) take place in the longer period but before the day of cessation, are treated as taking place on the day immediately before the day of cessation.
+
+(9) An election under subsection (8)(c) must be made in the form and manner, and within the time, required by the Comptroller.
+
+[Act 52 of 2018 wef 01/01/2019]
+
 ### Time of supply: directions and regulations
 
-12\.—(1) Notwithstanding sections 11, 11A and 11B, the Comptroller may, at the request of a taxable person, by direction in writing alter the time at which supplies made by the taxable person (or such supplies made by him as may be specified in the direction) are to be treated as taking place, either —
+12\.—(1) Notwithstanding sections 11, 11A, 11B and 11C, the Comptroller may, at the request of a taxable person, by direction in writing alter the time at which supplies made or received by the taxable person (or such supplies made or received by him as may be specified in the direction) are to be treated as taking place, either —
 
 (a) by directing that those supplies be treated as taking place —
 
@@ -796,7 +1002,7 @@ the supply of goods or services shall be treated as taking place on the day imme
 
 the resulting times or dates being in every case earlier than would otherwise apply; or
 
-(b) by directing that those supplies shall (to the extent that they are not treated as taking place at the time any invoice is issued or any consideration is received in respect thereof) be treated as taking place —
+(b) by directing that those supplies shall (to the extent that they are not treated as taking place at the time any invoice is issued or any consideration is received or paid in respect thereof) be treated as taking place —
 
 (i) at the beginning of the relevant working period (as defined in his case in and for the purposes of the direction); or
 
@@ -804,9 +1010,13 @@ the resulting times or dates being in every case earlier than would otherwise ap
 
 [20/2010 wef 01/01/2011]
 
-(2) Notwithstanding sections 11, 11A and 11B, the Minister may by regulations —
+[Act 52 of 2018 wef 01/01/2019]
 
-(a) make provision with respect to the time at which (notwithstanding sections 11, 11A, 11B and 38(4)) a supply is to be treated as taking place in cases where —
+[Act 52 of 2018 wef 01/01/2019]
+
+(2) Notwithstanding sections 11, 11A, 11B and 11C, the Minister may by regulations —
+
+(a) make provision with respect to the time at which (notwithstanding sections 11, 11A, 11B, 11C and 38(4)) a supply is to be treated as taking place in cases where —
 
 (i) it is a supply of goods or services for a consideration the whole or part of which is determined or payable periodically, or from time to time, or at the end of any period;
 
@@ -816,9 +1026,15 @@ the resulting times or dates being in every case earlier than would otherwise ap
 
 [Act 37 of 2017 wef 01/01/2018]
 
-(b) prescribe when consideration for a supply of goods or services of a specified type, or provided in a specified manner, is to be regarded as having been received.
+[Act 52 of 2018 wef 01/01/2019]
+
+(b) prescribe when consideration for a supply of goods or services of a specified type, or provided in a specified manner, is to be regarded as having been received or paid.
 
 [20/2010 wef 01/01/2011]
+
+[Act 52 of 2018 wef 01/01/2019]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (3) Regulations made under subsection (2)(a) may provide for goods or services to be treated as separately and successively supplied at prescribed times or intervals.
 
@@ -856,37 +1072,43 @@ other than any supply to which regulations made under subsection (8) of that rep
 
 ### Reverse charge on supplies received from abroad
 
-14\.—(1) Subject to subsection (2), where any supply of prescribed services, not being services within any of the descriptions specified in Part I of the Fourth Schedule, are —
+14\.—(1) This section applies in the following circumstances:
 
-(a) supplied by a person who belongs in a country other than Singapore; and
+(a) services are —
 
-(b) received by a person (referred to in this section as the recipient) who belongs in Singapore for the purposes of any business carried on by him,
+(i) supplied by a person who belongs in a country other than Singapore, and received by a person (called in this section the recipient) who belongs in Singapore for the purposes of any business carried on by the recipient; or
 
-then all the same consequences shall follow under this Act (and particularly so much as charges tax on a supply and entitles a taxable person to credit for input tax) as if the recipient had himself supplied the services in Singapore in the course or furtherance of his business, and that supply were a taxable supply.
+(ii) supplied by a branch of a person in a country other than Singapore through which the person carries on any business, and received by a branch of the person in Singapore through which the person (called in this section the recipient) carries on any business;
 
-[Act 19/2012 wef 01/10/2012]
+(b) the recipient is not entitled to claim the full amount of input tax credit under sections 19 and 20 for the prescribed accounting period or longer period mentioned in section 20(4)(b) in which the services are received.
 
-(2) Supplies which are treated as made by the recipient under subsection (1) are not to be taken into account as supplies made by him when determining the allowance of input tax in his case under section 20(1).
+(2) Subject to subsections (3) and (4), all the same consequences follow under this Act (and particularly so much as charges tax on a supply and entitles a taxable person to credit for input tax) as if the recipient had himself supplied the service in Singapore in the course or furtherance of his business, and that supply were a taxable supply.
 
-(3) For the purposes of subsection (1) —
+(3) Subsection (2) applies to the extent that the services are not excluded under the Eighth Schedule (for the purposes of subsection (1)(a)(i) and (ii), or (1)(a)(i), or (1)(a)(ii), as the case may be).
 
-(a) the supply of services treated as made by the recipient shall be assumed to have been made at the time when the supplies are paid for or on the last day of the prescribed accounting period in which the services are performed, whichever is the earlier; and
+(4) Reverse charge supplies are not to be taken into account as supplies made by the recipient when determining the allowance of input tax in his case under section 20(1).
 
-(b) notwithstanding section 17(2), the value of the supply of services treated as made by the recipient shall be taken to be such amount as is equal to whatever consideration the services were in fact supplied to him.
+(5) A recipient that is not within subsection (1)(b) may elect to be treated as a recipient to whom subsection (2) applies.
 
-(4) The Minister may make regulations —
+(6) Where a recipient under subsection (2) also receives any service that is excluded or that is to any extent excluded under the Eighth Schedule, which services are supplied to the recipient by a person or branch mentioned in subsection (1)(a), the recipient may elect for the supply of the service to be a supply of services to the recipient under subsection (1)(a).
 
-(a) to prescribe the services for the purposes of subsection (1); and
+(7) An election under subsection (5) or (6) must be made in the form and manner, and within the time, required by the Comptroller.
 
-(b) to exempt all or any class of persons from the provisions of this section.
+(8) For the purposes of this section, a head office of a taxable person is treated as a branch of that taxable person.
 
-[UK VAT Act 1983, s. 7]
+(9) The Minister may make regulations to provide for the circumstances in which subsection (2) does not apply despite subsection (1)(a)(ii) and (b) being satisfied.
+
+(10) The Minister may by order amend the Eighth Schedule.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 ### Place where supplier or recipient of services belongs
 
 15\.—(1) Subsection (3) shall apply for determining, in relation to any supply of services, whether the supplier belongs in one country or another.
 
-(2) Subsections (4) and (5) shall apply for determining, in relation to any supply of services, whether the recipient belongs in one country or another.
+(2) Subsections (4) and (5) shall apply for determining, in relation to any supply of services, whether the recipient (including a recipient mentioned in section 14(1) or a recipient who has elected to have section 14(2) applied to him) belongs in one country or another.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (3) The supplier of services shall be treated as belonging in a country if —
 
@@ -912,6 +1134,10 @@ then all the same consequences shall follow under this Act (and particularly so 
 
 [UK VAT Act 1983, s. 8]
 
+(7) The Minister may make regulations to provide for the matters for determining whether a customer receiving a Seventh Schedule supply belongs in Singapore.
+
+[Act 52 of 2018 wef 01/01/2019]
+
 ### Rate of tax
 
 16\. Tax shall be charged at the rate of —
@@ -934,11 +1160,41 @@ and shall be charged on —
 
 17\.—(1) For the purposes of this Act and subject to the Third Schedule, the value of any supply of goods or services shall be determined in accordance with this section.
 
-(2) If the supply is for a consideration in money, its value shall be taken to be such amount as, with the addition of the tax chargeable, is equal to the consideration.
+(2) If the supply (other than one from which a reverse charge supply arises) is for a consideration in money, its value shall be taken to be such amount as, with the addition of the tax chargeable, is equal to the consideration.
 
-(3) If the supply is not for a consideration or is for a consideration not consisting or not wholly consisting of money, the value of the supply shall be taken to be its open market value.
+[Act 52 of 2018 wef 01/01/2019]
 
-(4) Where a supply of any goods or services is not the only matter to which a consideration in money relates, the supply shall be deemed to be for such part of the consideration as is properly attributable to it.
+(3) If the supply (including one from which a reverse charge supply arises) is not for a consideration or is for a consideration not consisting or not wholly consisting of money, the value of the supply shall be taken to be its open market value.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(3A) A reverse charge supply has a value that is of an amount equal to the consideration for the services supplied by the person or branch mentioned in section 14(1)(a) or member of the group mentioned in section 30(1A), without any deduction of any amount required to be withheld as tax under the Income Tax Act (Cap. 134) (if applicable).
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(3B) Where the reverse charge supply of a recipient arises from —
+
+(a) a supply of services mentioned in section 14(1)(a)(ii); or
+
+(b) a supply of services mentioned in section 30(1A),
+
+the recipient may deduct from the value of the reverse charge supply an amount equal to any cost that relates to any of the following that is included as part of the consideration for the services in fact supplied:
+
+(c) any salary or wages relating to the employees of (as the case may be) the branch or member of the group outside Singapore making the supply of services;
+
+(d) interest;
+
+(e) any proportionate amount of mark-up in respect of such salary or wages and interest in paragraphs (c) and (d), respectively.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(3C) For the purposes of the application of the Third Schedule, where the reverse charge supply arises from a supply of services mentioned in section 14(1)(a)(ii), the branches mentioned in section 14(1)(a)(ii) are treated as persons connected with each other.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(4) Where a supply of any goods or services (including one from which a reverse charge supply arises) is not the only matter to which a consideration in money relates, the supply shall be deemed to be for such part of the consideration as is properly attributable to it.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (5) For the purposes of this Act, the open market value of a supply of goods or services shall be taken to be the amount that would fall to be taken as its value under subsection (2) if the supply were for such consideration in money as would be payable by a person who has no relationship with any person which would affect that consideration.
 
@@ -994,21 +1250,37 @@ CREDIT FOR INPUT TAX AGAINST OUTPUT TAX
 
 (3) Subject to subsection (4) —
 
-(a) “input tax”, in relation to a taxable person, means the following tax:
+(a) “input tax”, in relation to a taxable person, means the following:
 
-(i) tax on the supply to him of any goods or services; and
+(i) tax on the supply to him of any goods or services;
 
-(ii) tax paid or payable by him on the importation of any goods,
+(ii) tax on the reverse charge supply treated as made by him (as a recipient) to himself under section 14(2);
 
-being (in either case) goods or services used or to be used for the purpose of any business carried on or to be carried on by him; and
+(iii) tax paid or payable by him on the importation of any goods,
+
+being (in any such case) goods or services used or to be used for the purpose of any business carried on or to be carried on by him; and
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (b) “output tax” means tax on supplies which a taxable person makes.
 
-(3A) For the purpose of subsection (3)(a)(ii), tax payable by a taxable person on the importation of goods shall not include any tax that is accountable pursuant to regulations made under section 27A until such time as the tax has in fact been accounted for in accordance with those regulations.
+(3A) For the purpose of subsection (3)(a)(iii), tax payable by a taxable person on the importation of goods shall not include any tax that is accountable pursuant to regulations made under section 27A until such time as the tax has in fact been accounted for in accordance with those regulations.
 
 [20/2010 wef 01/10/2010]
 
-(4) Where goods or services supplied to a taxable person, or goods imported by him, are used or to be used partly for the purposes of a business carried on or to be carried on by him and partly for other purposes, tax on supplies and importations shall be apportioned so that only so much as is referable to his business purposes is counted as his input tax.
+[Act 52 of 2018 wef 01/01/2019]
+
+(4) Where —
+
+(a) goods or services supplied to a taxable person;
+
+(b) services that are the subject of a reverse charge supply of a taxable person; or
+
+(c) goods imported by a taxable person,
+
+are used or to be used partly for the purposes of a business carried on or to be carried on by him and partly for other purposes, tax on supplies and importations must be apportioned so that only so much as is referable to his business purposes is counted as his input tax.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (5) Subject to subsections (5A), (6) and (7), if either no output tax is due at the end of the period, or the amount of the credit exceeds that of the tax, then, the amount of the credit or, as the case may be, the amount of the excess shall be paid to the taxable person by the Comptroller.
 
@@ -1035,6 +1307,10 @@ being (in either case) goods or services used or to be used for the purpose of a
 (9) In the case of a person who has made no taxable supplies in the period concerned or any previous period, payment under subsection (5) shall be made subject to such conditions (if any) imposed by the Comptroller as he thinks fit, including conditions as to repayment in specified circumstances.
 
 (10) Subject to subsections (8) and (9), any payment due under subsection (5) shall be paid within such time as may be prescribed by regulations.
+
+(10A) Where the Comptroller makes any payment under subsection (5), the Comptroller may deduct from the payment any expenses that the Comptroller may incur in making the payment.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (11) If the Comptroller fails to make payment within the prescribed time, interest on such amount as is outstanding shall, subject to such conditions as may be prescribed, be paid to the taxable person at such rate as may be prescribed and calculated in accordance with the regulations.
 
@@ -1570,9 +1846,11 @@ and the presence of the goods in Singapore after that date or the failure to com
 
 (c) any prototype of such tool or machinery,
 
-to a person who belongs in a country outside Singapore and who is not a registered person, shall be zero-rated where such tool or machinery is used in Singapore for the manufacture of goods for the person who belongs in a country outside Singapore.
+to a person who belongs in a country outside Singapore and who is not a registered person or is a registered (Seventh Schedule — pay only) person, shall be zero-rated where such tool or machinery is used in Singapore for the manufacture of goods for the person who belongs in a country outside Singapore.
 
 [33/2008 wef 01/01/2009]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) Where a supply of goods or services by a taxable person is zero-rated under subsection (1), then, whether or not tax would be chargeable on the supply apart from this section —
 
@@ -1583,6 +1861,10 @@ to a person who belongs in a country outside Singapore and who is not a register
 and accordingly the rate at which tax is treated as charged on the supply shall be nil.
 
 [28/2007 wef 01/07/2007]
+
+(3) This section does not apply to Seventh Schedule supplies.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 ### Zero-rating of sale or letting on hire of goods to approved taxable person in shipping or marine industry
 
@@ -1608,7 +1890,9 @@ and accordingly the rate at which tax is treated as charged on the supply shall 
 
 [24/2011 wef 01/01/2012]
 
-(5) [Deleted by Act 19/2012 wef 01/10/2012][Act 31 of 2014 wef 01/01/2015]
+(5) This section does not apply to Seventh Schedule supplies.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 ### Zero-rating of grant or assignment of lease, tenancy or licence to occupy land
 
@@ -1752,6 +2036,18 @@ this Act shall have effect as if, on the date of the transfer of the goods (and 
 
 (d) provide for the apportionment of tax attributable to the supply of goods or services for the purposes of carrying on the business or of exempt supplies or of any other purpose;
 
+(da) provide for the circumstances in which, instead of a refund of any amount being made to a person, the amount may or is to be used to reduce the whole or any part of any tax due or which may become due from the person under this Act, by the whole or any part of such amount and to further provide that —
+
+(i) the amount of the tax due from the person is reduced by the amount of the reduction; and
+
+(ii) the amount of the reduction is, to the extent of that amount, deemed to have been refunded to the person by the Comptroller;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(db) provide that, where the Comptroller makes any refund to a person, the Comptroller may deduct from the refund any expenses that the Comptroller may incur in making the refund;
+
+[Act 52 of 2018 wef 01/01/2019]
+
 (e) require the repayment or recovery of a refund or remission under this section where any requirement of the regulations is not complied with or in such other circumstances as may be prescribed;
 
 (f) prohibit the selling, giving or receiving in prescribed circumstances of goods in respect of which a claim for refund has been submitted and approved through the prescribed means;
@@ -1890,6 +2186,32 @@ SPECIAL CASES
 
 [UK VAT Act 1983, s. 27]
 
+(3) Section 38A applies to relevant supplies of goods and services made by, and made to, the Government in the course or furtherance of a business, as if the Government were a taxable person registered under this Act at the time the supplies are made.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+### Application to persons registered by virtue of Seventh Schedule supplies
+
+28A\.—(1) Subject to subsections (2) and (5), the following do not apply to a registered (Seventh Schedule — pay only) person:
+
+(a) Part IV;
+
+(b) sections 30 and 32(1);
+
+(c) section 44 in relation to the Seventh Schedule supplies of the person;
+
+(d) any regulations relating to invoices and receipts, and the display of prices, for the Seventh Schedule supplies of the person.
+
+(2) The person may apply to the Comptroller for all provisions mentioned in subsection (1) to apply to the person.
+
+(3) The application must be in such form and manner, and be made within such time, as the Comptroller may require.
+
+(4) The Comptroller may approve the application subject to such conditions as the Comptroller may impose.
+
+(5) Upon approval of the application, the provisions mentioned in subsection (1) apply to the person subject to such modifications as may be prescribed by regulations made under section 86.
+
+[Act 52 of 2018 wef 01/01/2019]
+
 ### Input tax deemed incurred in relation to insurance cash payments
 
 29\.—(1) The Minister may by regulations provide —
@@ -1914,7 +2236,7 @@ SPECIAL CASES
 
 ### Persons treated as a group
 
-30\.—(1) Where, under the provisions of any regulations made under subsection (3), any 2 or more persons are treated as members of a group and registered in the name of a representative member —
+30\.—(1) Subject to subsection (1A), where, under the provisions of any regulations made under subsection (3), any 2 or more persons are treated as members of a group and registered in the name of a representative member —
 
 (a) any supply of goods or services by a member of the group to another member of the group shall be disregarded;
 
@@ -1923,6 +2245,16 @@ SPECIAL CASES
 (c) any other supply of goods or services by or to a member of the group shall be treated as a supply by or to the representative member; and
 
 (d) any tax paid or payable by a member of the group on the importation of any goods shall be treated as paid or payable by the representative member and the goods to be treated for the purposes of sections 26 and 45(6) and (6A) as imported by the representative member.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(1A) Where a supply made by one member of the group to another member of the group is a supply of services that would, but for subsection (1)(a), give rise to a reverse charge supply under section 14(2), the supply —
+
+(a) is not disregarded; and
+
+(b) is treated as made to the representative member as the recipient mentioned in section 14.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) All members of the group shall be liable jointly and severally for any tax due from the representative member.
 
@@ -2004,19 +2336,47 @@ SPECIAL CASES
 
 [31/2000]
 
-(2) For the purposes of this Act, goods imported by a taxable person and supplied by him as agent for a person who is not a taxable person may be treated as imported and supplied by the taxable person as principal.
+(2) For the purposes of this Act, where goods are imported by a taxable person and supplied by him as agent for a person that —
 
-(2A) For the purposes of subsection (2), goods imported by a taxable person and supplied by him as agent for a person who is not a taxable person shall be deemed to include goods which, following their import, undergo a treatment or process for the purposes of the supply.
+(a) is not a taxable person; or
 
-[24/2011 wef 01/01/2012]
+(b) is a taxable (Seventh Schedule) person other than a registered (Seventh Schedule — full) person,
 
-(2B) For the purposes of this Act, goods imported by a taxable person as agent for a person who is not a taxable person and supplied by a substituted agent as agent for the person who is not a taxable person may be treated as imported by the taxable person as principal and supplied by the substituted agent as principal.
+then the goods are treated as imported and supplied by the taxable person as principal.
 
-[Act 21 of 2013 wef 01/01/2014]
+[Act 52 of 2018 wef 01/01/2019]
 
-(2C) For the purposes of subsection (2B), unless the Comptroller otherwise allows, goods supplied by the substituted agent for a person who is not a taxable person shall not include goods which, following their import, undergo a treatment or process.
+(2A) For the purposes of subsection (2), goods imported by a taxable person and supplied by him as agent for a person that —
 
-[Act 21 of 2013 wef 01/01/2014]
+(a) is not a taxable person; or
+
+(b) is a taxable (Seventh Schedule) person other than a registered (Seventh Schedule — full) person,
+
+are deemed to include goods which, following their import, undergo a treatment or process for the purposes of the supply.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(2B) For the purposes of this Act, where goods are —
+
+(a) imported by an agent (A) that is a taxable person, for a person (P) that —
+
+(i) is not a taxable person; or
+
+(ii) is a taxable (Seventh Schedule) person other than a registered (Seventh Schedule — full) person; and
+
+(b) supplied forPby another agent (called in this section a substituted agent) that is a taxable person, appointed byPto take custody of the goods imported byA,
+
+then the goods are treated as imported byAas principal and supplied by the substituted agent as principal.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(2BA) A person is not a substituted agent for the purposes of subsection (2B) unless the Comptroller has been informed, in such form and manner as the Comptroller may require, of the person’s appointment as such.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(2C) For the purposes of subsection (2B), unless the Comptroller otherwise allows, goods supplied by the substituted agent forP(as described in that subsection) do not include goods which, following their import, undergo a treatment or process.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2D) For the purposes of subsections (2) and (2B), where the taxable person or the substituted agent, as the case may be, ceases to be a taxable person before making a supply of the goods, and any credit for input tax has been allowed to the taxable person on the importation of the goods —
 
@@ -2026,11 +2386,9 @@ SPECIAL CASES
 
 [Act 21 of 2013 wef 01/01/2014]
 
-(3) For the purposes of subsections (2) and (2B), a person who does not belong in Singapore may be treated as not being a taxable person if as a result he will not be required to be registered under this Act.
+(3) For the purposes of subsections (2)(a) and (2B)(a)(i), a person who does not belong in Singapore may be treated as not being a taxable person if as a result he will not be required to be registered by virtue of paragraph 1 of the First Schedule.
 
-[31/2000]
-
-[Act 21 of 2013 wef 01/01/2014]
+[Act 52 of 2018 wef 01/01/2019]
 
 (3A) For the purpose of subsection (3), a person shall be treated as belonging in Singapore if —
 
@@ -2046,31 +2404,31 @@ SPECIAL CASES
 
 (5) For the purposes of this section —
 
-(a) a person carrying on a business through a branch or an agency in any country shall be treated as having a business establishment there;
+(a) a person carrying on a business through a branch or an agency in any country shall be treated as having a business establishment there; and
 
 [Act 21 of 2013 wef 01/01/2014]
 
-(b) “usual place of residence”, in relation to a body corporate, means the place where it is incorporated or otherwise legally constituted; and
+[Act 52 of 2018 wef 01/01/2019]
+
+(b) “usual place of residence”, in relation to a body corporate, means the place where it is incorporated or otherwise legally constituted.
 
 [UK VAT Act 1983, s. 32]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 [Act 21 of 2013 wef 01/01/2014]
 
 [31/2000]
 
-(c) “substituted agent” means a taxable person who —
-
-(i) is appointed as agent by the person referred to in subsection (2B) who is not a taxable person, to take custody of the goods imported by the taxable person referred to in that subsection; and
-
-(ii) has informed the Comptroller, in such form and manner as the Comptroller may require, of his appointment.
-
-[Act 21 of 2013 wef 01/01/2014]
+(c) [Deleted by Act 52 of 2018 wef 01/01/2019]
 
 ### Repayment of tax to persons in business overseas
 
-33A\.—(1) The Minister may by regulations provide for the repayment, to persons carrying on business in countries other than Singapore, of tax on the importation of goods by them which would be their input tax if they had been taxable persons in Singapore.
+33A\.—(1) The Minister may by regulations provide for the repayment, to persons carrying on business in countries other than Singapore, not being any registered (Seventh Schedule — full) person, of tax on the importation of goods by them which would be their input tax if they had been taxable persons in Singapore.
 
 [25/96]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) Repayment shall be made in such cases only, and subject to such conditions as the regulations may prescribe or as the Comptroller may impose (either generally or in particular cases).
 
@@ -2092,19 +2450,31 @@ SPECIAL CASES
 
 ### Claiming of input tax on import of processed goods
 
-33B\.—(1) The Minister may by regulations make provision for a taxable person to claim any tax paid or payable by the taxable person on the importation of goods as input tax under section 19 (as if the whole of the input tax were allowable under section 20), where the importation occurs in the following circumstances:
+33B\.—(1) The Minister may by regulations make provision for a taxable person other than a registered (Seventh Schedule — pay only) person to claim any tax paid or payable by such taxable person on the importation of goods as input tax under section 19 (as if the whole of the input tax were allowable under section 20), where the importation occurs in the following circumstances:
 
-(a) the taxable person makes a supply to his customer who is —
+(a) such taxable person makes a supply to his customer who is —
 
 (i) a person who belongs in Singapore; or
 
-(ii) a taxable person who does not belong in Singapore;
+(ii) a taxable person who does not belong in Singapore other than a registered (Seventh Schedule — pay only) person;
 
-(b) the supply comprises the application of any process to, or the carrying out of any process on, goods which the taxable person’s customer consigns to the taxable person in Singapore;
+[Act 52 of 2018 wef 01/01/2019]
 
-(c) in connection with the supply, the taxable person removes the goods to a country outside Singapore for a process to be applied to or carried out on the goods; and
+[Act 52 of 2018 wef 01/01/2019]
 
-(d) the taxable person then imports the goods back into Singapore after the process in paragraph (c) has been applied to or carried out on the goods.
+(b) the supply comprises the application of any process to, or the carrying out of any process on, goods which such taxable person’s customer consigns to the taxable person in Singapore;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(c) in connection with the supply, such taxable person removes the goods to a country outside Singapore for a process to be applied to or carried out on the goods; and
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(d) such taxable person then imports the goods back into Singapore after the process in paragraph (c) has been applied to or carried out on the goods.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) Regulations made under subsection (1) may —
 
@@ -2390,9 +2760,25 @@ those supplies shall not be disregarded for the purpose of this Act and shall be
 
 37A\.—(1) The Minister may by regulations make provisions for a supply, made by a taxable person approved by the Comptroller, which involves any process (including but not limited to any treatment) being applied to or carried out on goods —
 
-(a) under a contract with a person who belongs in a country outside Singapore and is not registered under this Act (referred to in this section as an overseas person); and
+(a) under a contract with a person who —
 
-(b) which directly benefits a person who belongs in a country outside Singapore and is not registered under this Act (referred to in this section as an overseas person),
+(i) belongs in a country outside Singapore and is not a registered person; or
+
+(ii) is a registered (Seventh Schedule — pay only) person,
+
+(called in this section an overseas person); and
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(b) which directly benefits a person who —
+
+(i) belongs in a country outside Singapore and is not a registered person; or
+
+(ii) is a registered (Seventh Schedule — pay only) person,
+
+(called in this section an overseas person),
+
+[Act 52 of 2018 wef 01/01/2019]
 
 to be disregarded for the purposes of this Act (other than for the purposes of section 27(2)(a)) subject to such conditions or restrictions as may be prescribed or as the Comptroller may impose for the protection of the revenue.
 
@@ -2470,7 +2856,15 @@ as the case may be.
 
 (b) where —
 
-(i) goods are consigned by a person who belongs in a country outside Singapore and is not registered under this Act (referred to in this section as an overseas person) to an approved person for refining into any investment precious metal by an approved refiner (including where the approved person is also the approved refiner); and
+(i) goods are consigned by a person who —
+
+(A) belongs in a country outside Singapore and is not a registered person; or
+
+(B) is a registered (Seventh Schedule — pay only) person,
+
+(called in this section an overseas person) to an approved person for refining into any investment precious metal by an approved refiner (including where the approved person is also the approved refiner); and
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (ii) the approved person delivers the investment precious metal obtained through the refining to another person pursuant to a supply of the investment precious metal by the overseas person to the other person,
 
@@ -3184,9 +3578,49 @@ make a supplementary assessment of the amount of the excess and shall notify the
 
 (g) such other records as may be prescribed.
 
-(1A) Without affecting subsection (1), the Comptroller may, for the protection of revenue, direct in writing any taxable person to keep records of the models and serial numbers of any goods supplied to or by the taxable person; and the taxable person must comply with the direction.
+(1AA) Any person who is required to account for tax on a reverse charge supply must, in addition to the records mentioned in subsection (1), maintain the following:
+
+(a) sufficient records of the reverse charge supply to enable the following particulars to be ascertained:
+
+(i) the name and address of the person or branch mentioned in section 14(1)(a) or member of the group mentioned in section 30(1A) whose supply gave rise to the reverse charge supply (called in this section the overseas supplier);
+
+(ii) the date on which, or the period during which, the services under the supply made by the overseas supplier were in fact received;
+
+(iii) a description of the services in fact supplied;
+
+(iv) the consideration for the supply made by the overseas supplier;
+
+(v) the time by which payment of the consideration for the supply made by the overseas supplier is required;
+
+(vi) the reference number of any invoice relating to the supply made by the overseas supplier;
+
+(vii) any contract, agreement or arrangement entered into in respect of the supply made by the overseas supplier;
+
+(viii) where any invoice, contract, agreement or arrangement is in a foreign language, a translation of the same into English, if the Comptroller requires;
+
+(ix) such other records as may be prescribed;
+
+(b) where an election under section 11C(8)(c) or 14(5) or (6) has been made, a record of the election and such information and supporting documents relating to the election, in such form and manner, as required by the Comptroller.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(1A) Without affecting subsection (1) or (1AA), the Comptroller may, for the protection of revenue, direct in writing any taxable person to keep records of the models and serial numbers of any goods supplied to or by the taxable person; and the taxable person must comply with the direction.
 
 [Act 37 of 2017 wef 01/01/2018]
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(1B) Where the taxable person is an operator of an electronic marketplace mentioned in the Seventh Schedule, the duty of the operator to keep records under this section includes records relating to —
+
+(a) where paragraph 3(2)(b)(ii) of the Seventh Schedule applies, all supplies of digital services of the relevant overseas underlying supplier made to any person belonging in Singapore; and
+
+(b) where the operator makes an election under paragraph 5 of the Seventh Schedule, all supplies of digital services of any local underlying supplier (that are treated as made to the operator) in fact made to any person belonging in Singapore.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(1C) Despite subsection (1), a registered (Seventh Schedule — pay only) person need not keep records of supplies of goods or services made to the person or imports of goods by the person.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) Any records kept in pursuance of this section shall be preserved —
 
@@ -3198,9 +3632,11 @@ make a supplementary assessment of the amount of the excess and shall notify the
 
 (3) The duty under this section to preserve records may be discharged by the preservation of the information contained therein by such means as the Comptroller may approve.
 
-(3AA) Without affecting subsection (3), the Comptroller may direct in writing any taxable person to keep or preserve, or both keep and preserve, by any electronic means specified in the direction, any records under subsection (1) or (1A) of the taxable person as the Minister may prescribe; and the taxable person must comply with the direction.
+(3AA) Without affecting subsection (3), the Comptroller may direct in writing any taxable person to keep or preserve, or both keep and preserve, by any electronic means specified in the direction, any records under subsection (1), (1AA), (1A) or (1B) of the taxable person as the Minister may prescribe; and the taxable person must comply with the direction.
 
 [Act 37 of 2017 wef 01/01/2018]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (3A) Where the information is preserved in accordance with subsection (3) or (3AA), a copy of any document forming part of the records shall, subject to subsections (4) and (5), be admissible in evidence in any proceedings, whether civil or criminal, to the same extent as the records themselves.
 
@@ -3792,11 +4228,51 @@ the refund to that person by the Comptroller of any amount in excess of the amou
 
 [25/96]
 
-### Offences in relation to goods and invoices
+### Offences in relation to goods and services
 
 64\.—(1) If any person acquires possession of or deals with any goods, or accepts the supply of any services, having reason to believe that tax on the supply of the goods or services or on the importation of the goods has been or will be evaded, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and to a penalty of 3 times the amount of the tax.
 
-(2) If a person other than —
+(2) [Deleted by Act 52 of 2018 wef 01/01/2019][Act 52 of 2018 wef 01/01/2019]
+
+### Offences in relation to unauthorised collections of tax or amounts attributable to tax
+
+64A\.—(1) Subject to subsection (3), where any person collects or attempts to collect from any other person any amount as tax or as being attributable to tax, the person shall be guilty of an offence and shall on conviction —
+
+(a) pay a penalty equal to 3 times the amount which the person collected or attempted to collect; and
+
+(b) be liable to a fine not exceeding $10,000.
+
+(2) Where any person, without reasonable excuse or through negligence, collects or attempts to collect from any other person any amount as tax or as being attributable to tax, the person shall be guilty of an offence and shall on conviction —
+
+(a) pay a penalty equal to 3 times the amount which the person collected or attempted to collect; and
+
+(b) be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(3) Subsections (1) and (2) do not apply to —
+
+(a) a specified person;
+
+(b) a person who is appointed for the due administration of this Act or any assistant employed in connection with the assessment and collection of tax; or
+
+(c) a person who is not mentioned in paragraph (b), but represents or holds himself out as such.
+
+(4) Where any specified person, without reasonable excuse or through negligence, collects or attempts to collect from any other person —
+
+(a) any amount as tax or as being attributable to tax, where no tax is chargeable under this Act; or
+
+(b) any amount in excess of the tax chargeable under this Act that the specified person is permitted to collect under this Act,
+
+the specified person shall be guilty of an offence and shall on conviction —
+
+(c) pay a penalty equal to —
+
+(i) for an offence under paragraph (a), 3 times the amount which the person collected or attempted to collect; and
+
+(ii) for an offence under paragraph (b), 3 times the amount which the person collected or attempted to collect, that is in excess of the amount the specified person was permitted to collect under this Act; and
+
+(d) be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(5) In this section, “specified person” means any of the following:
 
 (a) a person registered under this Act;
 
@@ -3804,17 +4280,13 @@ the refund to that person by the Comptroller of any amount in excess of the amou
 
 (c) a person treated as a taxable person under this Act;
 
-(d) a person authorised to do so under any subsidiary legislation made under this Act; or
+(d) an agent appointed under section 79;
 
-(e) a person acting on behalf of the Government,
+(e) a person authorised under any subsidiary legislation made under this Act to issue an invoice or a receipt showing an amount of tax.
 
-issues an invoice or receipt showing an amount as being tax or as being attributable to tax, he shall be guilty of an offence and shall on conviction pay a penalty of 3 times the amount of tax so shown, and shall also be liable to a fine not exceeding $10,000.
+[Act 52 of 2018 wef 01/01/2019]
 
-[UK VAT Act 1983, s. 39 (4); UK FA 1985, s. 15 (2)]
-
-[25/96]
-
-### Penalties for offences by authorised and unauthorised persons
+### Penalties for offences by persons administering Act, etc.
 
 65\. Any person who —
 
@@ -3828,11 +4300,15 @@ issues an invoice or receipt showing an amount as being tax or as being attribut
 
 (iv) defrauds any person, embezzles any money or otherwise uses his position so as to deal wrongfully either with the Comptroller or any other individual; or
 
-(b) not being authorised under this Act to do so, collects or attempts to collect tax under this Act,
+(b) not being a person appointed for the due administration of this Act or any assistant employed in connection with the assessment and collection of tax but represents or holds himself out as such, collects or attempts to collect tax under this Act,
+
+[Act 52 of 2018 wef 01/01/2019]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
 
 [Income Tax 1992 Ed., s. 97]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 ### Penalty for obstructing Comptroller in carrying out his duties
 
@@ -4266,27 +4742,157 @@ then the Comptroller may issue a certificate containing particulars of such tax 
 
 ### Arrest of persons
 
-83E\.—(1) The Minister may by regulations provide that the Comptroller or an authorised person may, in accordance with this section, arrest without warrant any of the following persons, and may search or cause to be searched, any person so arrested:
+83E\.—(1) The Comptroller, a specially authorised officer or a specially authorised customs officer (called in this section and sections 83F, 83G and 83H an arresting officer) may arrest without warrant any person whom the arresting officer reasonably believes —
 
-(a) any person found committing or attempting to commit, or employing or aiding any person to commit, or abetting the commission of, any offence under section 62 or 63 in connection with any refund sought or obtained pursuant to regulations made under section 25;
+(a) is committing or attempting to commit, or employing or aiding any person to commit, or is abetting the commission of, any offence under section 62 or 63 in connection with any refund sought or obtained pursuant to regulations made under section 25;
 
-(b) any person whom he may reasonably suspect to have in his possession any goods liable to seizure pursuant to regulations made under section 25(2)(g)(i);
+(b) has in his possession any goods liable to seizure pursuant to regulations made under section 25(2)(g)(i); or
 
-(c) any person against whom a reasonable suspicion exists that he has been guilty of any offence under section 62 or 63 in connection with any refund sought or obtained pursuant to regulations made under section 25.
+(c) has committed an offence under section 62 or 63 in connection with any refund sought or obtained pursuant to regulations made under section 25.
 
-(2) No woman shall be searched except by a woman.
+(2) Without affecting subsection (1), an arresting officer (other than a specially authorised customs officer) may arrest without warrant any person whom the arresting officer reasonably believes —
 
-(3) The Comptroller or an authorised person making an arrest without warrant shall, without unnecessary delay and subject to this section as to bail or previous release, take or send the person arrested before a Magistrate’s Court.
+(a) has committed any offence under section 62 or 63; or
 
-(4) The Comptroller or an authorised person shall not detain in custody a person arrested without a warrant for a longer period than under the circumstances of the case is reasonable.
+(b) is doing any of the following:
 
-(5) Such period shall not exceed 48 hours exclusive of the time necessary for the journey from the place of arrest to the Magistrate’s Court.
+(i) destroying or attempting to destroy any document or thing with a view to hindering or obstructing the Comptroller, or an officer of the Inland Revenue Authority of Singapore charged with duties of investigation, in the exercise of his powers;
 
-(6) A person who has been arrested by the Comptroller or an authorised person shall not be released except on his own bond or on bail or under the special order in writing of a Magistrate or the Comptroller or authorised person.
+(ii) deleting or attempting to delete any information contained in any thing with a view to hindering or obstructing the Comptroller or an officer mentioned in sub‑paragraph (i), in the exercise of his powers;
 
-(7) If any person liable to arrest under this Act is not arrested at the time of committing the offence for which he is so liable, or after arrest makes his escape, he may, at any time afterwards, be arrested and be dealt with as if he had been arrested at the time of committing the offence.
+(iii) resisting or attempting to resist, without reasonable excuse, the taking of any document or thing by the Comptroller or an officer mentioned in sub-paragraph (i),
 
-[Act 21 of 2013 wef 01/01/2014]
+being any document, thing or information that may be relevant to an investigation of an offence under this Act, or that may be required as evidence in proceedings for an offence under this Act.
+
+(3) An arresting officer may search or cause to be searched an arrested person.
+
+(4) A woman must not be searched except by a woman.
+
+(5) An arresting officer making an arrest must, without unnecessary delay and subject to subsection (8) and the regulations mentioned in subsection (10), take or send an arrested person before a Magistrate’s Court.
+
+(6) An arresting officer must not detain in custody an arrested person for a longer period than under the circumstances of the case is reasonable.
+
+(7) Such period must not exceed 48 hours, excluding the time necessary for the journey from the place of arrest to the Magistrate’s Court.
+
+(8) An arrested person must not be released except —
+
+(a) on the person’s own bond;
+
+(b) on bail by a Magistrate or an arresting officer; or
+
+(c) under the special order in writing by a Magistrate or an arresting officer.
+
+(9) If any arrested person escapes, he may, at any time afterwards, be arrested in accordance with this section and section 83F.
+
+(10) The Minister may make regulations under section 86 to provide for —
+
+(a) any matter relating to the release of any person on any bond, bail or special order under subsection (8); and
+
+(b) the arrest of any person with or without warrant by an arresting officer for a breach of the conditions of a bond, bail or special order or other specified circumstances.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+### No unnecessary restraint
+
+83F\.—(1) In making an arrest, an arresting officer must touch or confine the body of a person to be arrested unless the person submits to arrest by word or action.
+
+(2) If the person forcibly resists or tries to evade arrest, the arresting officer may use all reasonable means necessary to make the arrest.
+
+(3) An arrested person must not be subject to more restraint than is necessary to prevent the person’s escape.
+
+(4) An arresting officer may use handcuffs or any similar means of restraint on an arrested person to prevent the person from —
+
+(a) inflicting any bodily injury to himself or others;
+
+(b) damaging any property;
+
+(c) creating any disturbance; or
+
+(d) escaping from custody.
+
+(5) The handcuffs or means of restraint must not be used for the purpose of punishment.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+### Arresting officer to be armed
+
+83G\. An arresting officer may be provided with such batons and accoutrements as may be necessary for the effective discharge of his duties under sections 83E and 83F.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+### Search of place entered by person sought to be arrested
+
+83H\.—(1) This section does not apply to a specially authorised customs officer.
+
+(2) If an arresting officer has reason to believe that a person to be arrested under section 83E is inside any building or place and demands entry to that building or place, any person who resides in or is in charge of the building or place must allow the arresting officer free entry and provide all reasonable facilities for a search in it.
+
+(3) If entry to that building or place cannot be gained under subsection (2), it is lawful for the arresting officer to enter and search the building or place.
+
+(4) After stating his authority and purpose and demanding entry to a building or place, the arresting officer who is unable to obtain entry may, for the purposes of subsection (3), break open any outer or inner door or window or use any other reasonable means to gain such entry.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+### Arrested person may be orally examined
+
+83I\.—(1) The Comptroller or any suitably qualified officer of the Inland Revenue Authority of Singapore charged with duties of investigation (called in this section an investigation officer), may examine orally a person arrested under section 83E(1).
+
+(2) A person examined by an investigation officer need not state anything which —
+
+(a) the person is under any statutory obligation (other than sections 128, 128A, 129 and 131 of the Evidence Act (Cap. 97)) to observe secrecy; or
+
+(b) is subject to legal privilege.
+
+(3) A statement made by an arrested person must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) after correction (if necessary), be signed by the person.
+
+(4) Any person who, without reasonable excuse, fails or refuses to answer any question when examined under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) The generality of the term “reasonable excuse” in subsection (4) is not affected by subsection (2).
+
+(6) Except as provided under subsection (2), it is not a defence to a charge under subsection (4) for a failure or refusal to provide any information demanded by an investigation officer that the person is under a duty of secrecy in respect of that information (called in this section a displaced duty of secrecy).
+
+(7) A person who in good faith provides information demanded by an investigation officer under subsection (1) is not treated as being in breach of a displaced duty of secrecy.
+
+(8) No civil or criminal action for a breach of a displaced duty of secrecy, other than a criminal action for an offence under subsection (9), shall lie against the person mentioned in subsection (7) for providing any information if he had done so in good faith in compliance with a demand of an investigation officer under subsection (1).
+
+(9) Any person who, in purported compliance with a demand of an investigation officer under subsection (1), provides any information known to the person to be false or misleading in a material particular —
+
+(a) without indicating to the investigation officer that the information is false or misleading and the part that is false or misleading; and
+
+(b) without providing correct information to the investigation officer if the person is in possession of, or can reasonably acquire, the correct information,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+### Disposal of item furnished or seized
+
+83J\.—(1) Any item furnished to or seized by the Comptroller or an officer authorised by the Comptroller under section 81 or 84 must —
+
+(a) where the item is produced in any criminal proceedings, be dealt with in accordance with section 364 of the Criminal Procedure Code (Cap. 68); or
+
+(b) in any other case, be dealt with in accordance with subsections (2), (3) and (4).
+
+(2) The Comptroller or an officer authorised by the Comptroller must serve a notice on the owner of the item instructing the owner to take custody of it within the period specified in the notice, which must be at least 5 days after the date of service of the notice.
+
+(3) If the owner fails to take custody of the item within the period specified in the notice, or where the owner is unknown or cannot be found —
+
+(a) if the item is a document (other than one specified in paragraph (d) or (e) of the definition of “document” in section 81(5)), the item may be disposed of in such manner as the Comptroller directs; or
+
+(b) if the item is anything not specified in paragraph (a), the Comptroller must make a report of this to a Magistrate.
+
+(4) The Magistrate to whom a report is made under subsection (3)(b) may order the item to be forfeited or disposed of in such manner as the Magistrate thinks fit.
+
+(5) Nothing in this section affects any right to retain or dispose of any item which may exist in law apart from this section.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 ### Power of Comptroller to obtain information and furnishing of information
 
@@ -4322,25 +4928,73 @@ then the Comptroller may issue a certificate containing particulars of such tax 
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(f) shall be entitled to require a person in or at the building or place and who appears to the Comptroller or officer to be acquainted with any facts or circumstances concerning the person’s or another person’s transactions made in the course of a business —
+(f) shall be entitled to require a person in or at the building or place, and who appears to the Comptroller or officer to be acquainted with —
 
-(i) to answer any question to the best of that person’s knowledge, information and belief; or
+(i) any facts or circumstances concerning the person’s or another person’s transactions made in the course or furtherance of a business; or
 
-(ii) to take reasonable steps to produce a document for inspection.
+(ii) any facts or circumstances that are relevant to an investigation of, or the prosecution of a person for, an offence under this Act,
 
-[Act 34 of 2016 wef 29/12/2016]
+to do any or both of the following:
 
-(2) The Comptroller may by notice require any person to give orally or in writing, as may be required, all such information concerning his or any other person’s transactions made in the course of a business as may be demanded of him by the Comptroller for the purposes of this Act.
+(iii) answer any question to the best of that person’s knowledge, information and belief;
 
-[Act 34 of 2016 wef 29/12/2016]
+(iv) take reasonable steps to produce a document for inspection.
 
-(2A) For the purposes of this Act, the Comptroller may by notice require any person to attend personally before the Comptroller or an officer authorised by the Comptroller, at a place and time specified in the notice, to do one or both of the following:
+[Act 52 of 2018 wef 01/01/2019]
 
-(a) provide, to the best of that person’s knowledge, information and belief, any information concerning the person’s or any other person’s transactions made in the course of a business;
+(1A) The Comptroller or a specially authorised officer may, for the purpose of investigating an offence under section 62 or 63, break open any outer or inner door or window, or use any other reasonable means, to gain entry to a building or place.
 
-(b) take reasonable steps to produce for inspection a document concerning those transactions.
+[Act 52 of 2018 wef 01/01/2019]
 
-[Act 34 of 2016 wef 29/12/2016]
+(1B) The Comptroller or a specially authorised officer may only exercise the power under subsection (1A) if —
+
+(a) he has reason to believe that there is in that building or place any document or thing that may be, or that contains information that may be —
+
+(i) relevant to the investigation; or
+
+(ii) required as evidence in proceedings for the offence being investigated;
+
+(b) he has reason to believe that the document or thing is likely to be concealed, removed or destroyed, or the information is likely to be deleted, by any person; and
+
+(c) he is unable to gain entry to that building or place after stating his authority and purpose and demanding such entry.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(1C) To avoid doubt, the Comptroller or a specially authorised officer who has gained entry to a building or place by exercising his power under subsection (1A), may exercise any of his powers under subsection (1) after such entry.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(1D) The Comptroller or a specially authorised officer may, after gaining entry into a building or place under subsection (1) or (1A) for the purpose of investigating an offence under this Act, search or caused to be searched a person found in the building or place for any document or thing which may be relevant for the investigation, or is required as evidence in proceedings for that offence.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(1E) A woman must not be searched except by a woman.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(2) The Comptroller may by notice require any person to give orally, in writing, or through the electronic service —
+
+(a) any information concerning his or any other person’s income, assets or liability that is relevant for the purposes of this Act or concerning his or any other person’s transactions made in the course or furtherance of a business; or
+
+(b) any information that is relevant for an investigation of, or the prosecution of a person for, an offence under this Act.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(2A) The Comptroller may by notice require any person to attend personally before the Comptroller or an officer authorised by the Comptroller, at a place and time specified in the notice, to do one or both of the following:
+
+(a) provide, to the best of that person’s knowledge, information and belief —
+
+(i) any information concerning the person’s or any other person’s transactions made in the course or furtherance of a business; or
+
+(ii) any information that is relevant for an investigation of, or the prosecution of a person for, an offence under this Act;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(b) take reasonable steps to produce for inspection any document concerning such transactions, or that contains such information.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2B) The power to require a person to provide information or produce a document under subsection (1)(f) or (2), or when in attendance before the Comptroller or an authorised officer pursuant to a notice under subsection (2A), includes the power —
 
@@ -4506,13 +5160,21 @@ GENERAL PROVISIONS
 
 (i) which, if he or they were taxable persons, would be his or their input tax; or
 
-(ii) for which, as a taxable person or as taxable persons, he or they would not be entitled to any credit as input tax under this Act; or
+(ii) for which, as a taxable person or as taxable persons, he or they would not be entitled to any credit as input tax under this Act;
 
-(c) relief or remission from the whole or part of any penalty payable by that person or class of persons.
+[Act 52 of 2018 wef 01/01/2019]
+
+(c) relief or remission from the whole or part of any penalty payable by that person or class of persons; or
 
 [Act 19/2012 wef 01/10/2012]
 
 [50/2004]
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(d) relief from, or a remission or refund of, the whole or part of any tax on a reverse charge supply.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) The Minister may, if he thinks fit, and upon such conditions as he may impose, give to any person or class of persons —
 
@@ -4522,13 +5184,21 @@ GENERAL PROVISIONS
 
 (i) which, if he or they were taxable persons, would be his or their input tax; or
 
-(ii) for which, as a taxable person or as taxable persons, he or they would not be entitled to any credit as input tax under this Act; or
+(ii) for which, as a taxable person or as taxable persons, he or they would not be entitled to any credit as input tax under this Act;
 
-(c) relief or remission from the whole or part of any penalty payable by that person or class of persons.
+[Act 52 of 2018 wef 01/01/2019]
+
+(c) relief or remission from the whole or part of any penalty payable by that person or class of persons; or
 
 [Act 19/2012 wef 01/10/2012]
 
 [50/2004]
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(d) relief from, or a remission or refund of, the whole or part of any tax on a reverse charge supply.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2A) Where —
 
@@ -4572,9 +5242,11 @@ an amount equal to the amount of tax to which the relief, remission or refund re
 
 (b) that any money is due to him under this Act in respect of a prescribed accounting period ending on or after 1st January 2007,
 
-it shall be lawful for the Comptroller to refund or pay such money to the person if it is proved to the satisfaction of the Comptroller that the money was overpaid or erroneously paid as tax or penalty by, or the money is due to, the person.
+it shall be lawful for the Comptroller to refund or pay such money to the claimant if it is proved to the satisfaction of the Comptroller that the money was overpaid or erroneously paid as tax or penalty by, or the money is due to, the claimant.
 
 [28/2007 wef 01/07/2007]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (1B) A claim referred to in subsection (1A) shall be made —
 
@@ -4592,11 +5264,25 @@ it shall be lawful for the Comptroller to refund or pay such money to the person
 
 [28/2007 wef 01/07/2007]
 
-(2) The Comptroller may reduce or altogether withhold any refund due under this section to the extent that the refund would unjustly enrich the claimant.
+(2) The Comptroller may reduce or altogether withhold any refund or payment due under this section to the extent that the refund or payment would unjustly enrich the claimant.
 
-(3) Except as provided in this section, the Comptroller shall not be liable to repay any money which has been overpaid or erroneously paid as tax or penalty under this Act.
+[Act 52 of 2018 wef 01/01/2019]
 
-[UK FA 1989, s. 24]
+(3) The Comptroller may, instead of making a refund or payment of any amount to a claimant under this section, reduce the whole or any part of any tax due or which may become due from the claimant under this Act, by the whole or any part of such amount and —
+
+(a) the amount of the tax due from the claimant is reduced by the amount of the reduction; and
+
+(b) the amount of the reduction is, to the extent of that amount, deemed to have been refunded or paid to the claimant by the Comptroller.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(4) Where the Comptroller makes any refund or payment to a claimant, the Comptroller may deduct from the refund or payment any expenses that the Comptroller may incur in making the refund or payment.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(5) Except as provided in this section, a person is not entitled to any refund or payment of any money which has been overpaid or erroneously paid by the person as tax or penalty under this Act.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 ### Advance rulings
 
@@ -4624,25 +5310,91 @@ it shall be lawful for the Comptroller to refund or pay such money to the person
 
 [28/2007 wef 01/07/2007]
 
-### Transitional provisions
+### Temporary arrangements for Seventh Schedule supplies and reverse charge supplies: registration
 
-91\.—(1) Tax shall not be charged on any supply or importation taking place before 1st April 1994.
+91\.—(1) Where, on or before 22 October 2019, a person has reasonable grounds for believing that he will be liable on 1 January 2020 to be registered —
 
-(2) Notwithstanding anything in section 11 of this Act or in section 28 of the Customs Act (Cap. 70) as applied by section 26 of this Act —
+(a) by virtue of paragraph 1A(1)(b) of the First Schedule; or
 
-(a) a payment made or invoice issued before 1st April 1994 may be disregarded in determining for the purposes of this section whether a supply takes place before that date if, or to the extent that, it appears to the Comptroller that it would not have been so made or issued but for the tax;
+(b) by virtue of paragraph 1B(1)(b) of the First Schedule,
 
-(b) goods which on 1st April 1994 have not been released from customs control and in respect of which the rate of the customs duty and the valuation thereof are determined under section 21 of the Customs Act shall be treated for the purposes of this section as imported on the date on which such rate and valuation are determined under that section; and
+the person must notify the Comptroller of that fact within the period between 1 October 2019 and 1 November 2019 (both dates inclusive), or within such longer time as the Comptroller may allow, and the Comptroller must register the person with effect from 1 January 2020.
 
-(c) goods, other than goods referred to in paragraph (b), which have been deemed to be imported under section 28 of the Customs Act shall be treated for the purposes of this section as imported on the date on which they are deemed to be imported under that section.
+(2) Where, during the period from 23 October 2019 to 31 December 2019 (both dates inclusive), a person has reasonable grounds for believing that he will be liable on 1 January 2020 to be registered —
 
-(3) A person who, on 1st April 1994, will be liable to be registered shall notify the Comptroller of that fact within 10 days of the earliest date after 26th November 1993 on which he knows or could with reasonable diligence have known that he will be so liable or within such longer time as the Comptroller may allow, and the Comptroller shall register any such person with effect from 1st April 1994.
+(a) by virtue of paragraph 1A(1)(b) of the First Schedule; or
 
-(4) The Minister may by regulations make such further transitional provisions as he may consider necessary and expedient including but not limited to modifying the provisions of this Act in its application to the time and value of any supply of goods or services, for zero-rating or exempting supplies of goods or services the contracts in respect of which were made before 1st April 1994 and for the adjustment of the consideration under such contracts.
+(b) by virtue of paragraph 1B(1)(b) of the First Schedule,
 
-(5) In this section, “customs control” has the same meaning as in section 3(2) of the Customs Act.
+the person must notify the Comptroller of that fact no later than 31 January 2020, or within such longer time as the Comptroller may allow, and the Comptroller must register the person with effect from 1 February 2020 or from such earlier date as may be agreed between the Comptroller and that person.
 
-[UK VAT Act 1983, Sch. 10 Para. 4; UK FA 1972, Sch. 1 Para. 3]
+[Act 52 of 2018 wef 01/01/2019]
+
+### Temporary arrangements for Seventh Schedule supplies: scope of tax and time of supply
+
+92\.—(1) Tax is not charged on any Seventh Schedule supply that takes place before 1 January 2020.
+
+(2) Despite subsection (1), tax is charged on any Seventh Schedule supply to the extent the services are performed on or after 1 January 2020 pursuant to an agreement —
+
+(a) made on or after 19 February 2018 and before 1 January 2020; and
+
+(b) that provides (expressly or impliedly) for the supply of services to be performed progressively and continuously over a period that begins before, on or after 1 January 2020.
+
+(3) Where subsection (2) applies, the supply of services is treated as taking place on the later of —
+
+(a) 1 January 2020; and
+
+(b) the day on which the person making the supply is registered in accordance with the First Schedule,
+
+to the extent the services are performed on or after that day and are covered by any invoice issued or consideration received before that day.
+
+(4) Despite subsection (1) and subject to subsection (2), where, before 1 January 2020, an invoice is issued for a Seventh Schedule supply and before 1 January 2020 —
+
+(a) no consideration or only a part of the consideration for the supply is paid; or
+
+(b) no services are performed or only a part of the services is performed,
+
+tax is chargeable on the supply of services on the amount of the invoice less the higher of the following amounts:
+
+(c) any part of the consideration paid before 1 January 2020;
+
+(d) the value of any services performed before 1 January 2020.
+
+(5) The supply of services in subsection (4) is treated as taking place on the later of —
+
+(a) 1 January 2020; and
+
+(b) the day on which the person making the supply is registered in accordance with the First Schedule.
+
+(6) For the purposes of this section, where only a part of the services is performed, the value of the part of the supply so made is such value as is, in the opinion of the Comptroller, reasonably attributable to the part.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+### Temporary arrangements for reverse charge supplies: scope of tax and time of supply
+
+93\.—(1) Tax is not charged on any reverse charge supply that takes place before 1 January 2020.
+
+(2) Despite subsection (1), where, before 1 January 2020, an invoice is issued for a supply of services that gives rise to a reverse charge supply under section 14(2) and before 1 January 2020 —
+
+(a) no consideration or only a part of the consideration for the supply is paid; or
+
+(b) no services are performed or only a part of the services is performed,
+
+tax is chargeable on the reverse charge supply on the amount of the invoice less the higher of the following amounts:
+
+(c) any part of the consideration paid before 1 January 2020;
+
+(d) the value of any services performed before 1 January 2020.
+
+(3) The reverse charge supply in subsection (2) is treated as taking place on the later of —
+
+(a) 1 January 2020; and
+
+(b) the day on which the recipient is registered in accordance with the First Schedule.
+
+(4) For the purposes of this section, where only a part of the services is performed, the value of the part of the supply so made is such value as is, in the opinion of the Comptroller, reasonably attributable to the part.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 FIRST SCHEDULE
 
@@ -4660,9 +5412,11 @@ Liability to be registered
 
 (ii) at the end of the year 2019 or a subsequent calendar year, if the total value of all his taxable supplies made in Singapore in that calendar year has exceeded $1 million;
 
-(b) at any time, if there are reasonable grounds for believing that the total value of his taxable supplies in the period of 12 months then beginning will exceed $1 million.
+(b) at any time, if there are reasonable grounds for believing that the total value of his taxable supplies made in Singapore in the period of 12 months then beginning will exceed $1 million.
 
 [S 415/2018 wef 25/06/2018]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) Where a business carried on by a taxable person is transferred to another person as a going concern and the transferee is not registered at the time of the transfer, then the transferee becomes liable to be registered at that time —
 
@@ -4672,51 +5426,141 @@ Liability to be registered
 
 (ii) for a business transferred on or after 1 January 2019, the total value of all the transferee’s taxable supplies made in Singapore in the calendar year immediately preceding the calendar year in which the time of transfer falls exceeds $1 million; or
 
-(b) if there are reasonable grounds for believing that the total value of his taxable supplies in the period of 12 months then beginning will exceed $1 million.
+(b) if there are reasonable grounds for believing that the total value of his taxable supplies made in Singapore in the period of 12 months then beginning will exceed $1 million.
 
 [S 415/2018 wef 25/06/2018]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (3) A person is not liable to be registered, as the case may be —
 
-(a) by virtue of sub‑paragraph (1)(a)(i) or (2)(a)(i) at the end of any quarter if the Comptroller is satisfied that the value of his taxable supplies in the next 4 quarters will not exceed $1 million; or
+(a) by virtue of sub‑paragraph (1)(a)(i) or (2)(a)(i) at the end of any quarter if the Comptroller is satisfied that the value of his taxable supplies made in Singapore in the next 4 quarters will not exceed $1 million; or
 
-(b) by virtue of sub‑paragraph (1)(a)(ii) or (2)(a)(ii) at the end of any calendar year if the Comptroller is satisfied that the value of his taxable supplies in the next calendar year will not exceed $1 million.
+[Act 52 of 2018 wef 01/01/2019]
+
+(b) by virtue of sub‑paragraph (1)(a)(ii) or (2)(a)(ii) at the end of any calendar year if the Comptroller is satisfied that the value of his taxable supplies made in Singapore in the next calendar year will not exceed $1 million.
 
 [S 415/2018 wef 25/06/2018]
 
-(4) In determining the value of a person’s supplies for the purposes of sub-paragraph (1)(a) or (2)(a), supplies made at a time when he was previously registered shall be disregarded if —
+[Act 52 of 2018 wef 01/01/2019]
+
+(4) In determining the liability of a person to register by virtue of this paragraph, the taxable supplies mentioned in this paragraph exclude any reverse charge supplies of the person.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(5) [Deleted by Act 52 of 2018 wef 01/01/2019]
+
+1A.—(1) A person who belongs in a country other than Singapore and makes any Seventh Schedule supply is liable to be registered —
+
+(a) at the end of the year 2019 or any subsequent calendar year, if in that year —
+
+(i) the total value of all his taxable supplies, and supplies outside Singapore which would have been taxable supplies if made in Singapore, has exceeded $1 million; and
+
+(ii) the total value of his Seventh Schedule supplies has exceeded $100,000; or
+
+(b) at any time on or after 1 January 2020, if there are reasonable grounds for believing that, in the period of 12 months then beginning —
+
+(i) the total value of all his taxable supplies, and supplies outside Singapore which would have been taxable supplies if made in Singapore, will exceed $1 million; and
+
+(ii) the total value of his Seventh Schedule supplies will exceed $100,000.
+
+(2) Where a business carried on by a taxable person who belongs in a country other than Singapore and who makes any Seventh Schedule supply, is transferred on or after 1 January 2020 as a going concern to another person who belongs in a country other than Singapore and the transferee is not registered at the time of the transfer, then the transferee becomes liable to be registered at that time if —
+
+(a) in the calendar year immediately preceding the calendar year in which the time of transfer falls —
+
+(i) the total value of all his taxable supplies, and supplies outside Singapore which would have been taxable supplies if made in Singapore, has exceeded $1 million; and
+
+(ii) the total value of his Seventh Schedule supplies has exceeded $100,000; or
+
+(b) there are reasonable grounds for believing that, in the period of 12 months then beginning —
+
+(i) the total value of all his taxable supplies, and supplies outside Singapore which would have been taxable supplies if made in Singapore, will exceed $1 million; and
+
+(ii) the total value of his Seventh Schedule supplies will exceed $100,000.
+
+(3) A person is not liable to be registered by virtue of sub‑paragraph (1)(a)(i) or (2)(a)(i) at the end of any calendar year if the Comptroller is satisfied that, in the next calendar year —
+
+(a) the total value of his taxable supplies, and supplies outside Singapore which would be taxable supplies if made in Singapore, will not exceed $1 million; or
+
+(b) the value of his Seventh Schedule supplies will not exceed $100,000.
+
+(4) Where a person is liable to be registered by virtue of this paragraph and paragraph 1, the Comptroller must register the person in accordance with paragraph 1 rather than this paragraph.
+
+(5) If a person registered by virtue of this paragraph subsequently becomes liable to be registered by virtue of paragraph 1, the person must inform the Comptroller —
+
+(a) within 30 days after the date on which the person becomes so liable; or
+
+(b) if no particular day is identifiable as the day on which the person becomes so liable, within 30 days after the end of the quarter in which the person becomes so liable.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+1B.—(1) A person who receives services mentioned in section 14(1)(a), but is not registered is liable to be registered —
+
+(a) at the end of the year 2019 or any subsequent calendar year, if in that year the total value of the supply of all such services received by him in Singapore has exceeded $1 million, and the person is not entitled to claim the full amount of input tax credit under sections 19 and 20 in that calendar year; or
+
+(b) at any time on or after 1 January 2020, if there are reasonable grounds for believing that the total value of the supply of such services received by him in Singapore in the period of 12 months then beginning will exceed $1 million, and the person is not entitled to claim the full amount of input tax credit under sections 19 and 20 in that period of 12 months.
+
+(2) Where a business carried on by a taxable person who received services mentioned in section 14(1)(a) is transferred on or after 1 January 2020 as a going concern to another person and the transferee is not registered at the time of the transfer, the transferee becomes liable to be registered at that time if —
+
+(a) the total value of all supplies of services received by him in Singapore in the calendar year immediately preceding the year of the time of transfer has exceeded $1 million, and the person is not entitled to claim the full amount of input tax credit under sections 19 and 20 in that calendar year; or
+
+(b) there are reasonable grounds for believing that the total value of all supplies of services received by him in Singapore in the period of 12 months then beginning will exceed $1 million, and the person is not entitled to claim the full amount of input tax credit under sections 19 and 20 in that period of 12 months.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+1C.—(1) In determining the value of a person’s supplies for the purposes of paragraph 1(1)(a) or (2)(a), 1A(1)(a) or (2)(a) or 1B(1)(a) or (2)(a), supplies made at a time when he was previously registered must be disregarded if —
 
 (a) his registration was cancelled otherwise than under paragraph 14; and
 
 (b) the Comptroller is satisfied that before his registration was cancelled he had given the Comptroller all the information the Comptroller needed in order to determine whether to cancel the registration.
 
-(5) In determining the value of a person’s supplies for the purpose of sub-paragraph (1) or (2), supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
+(2) In determining the value of a person’s supplies for the purpose of paragraphs 1 and 1A, supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied must be disregarded.
 
-2.—(1) Without prejudice to section 47 and to paragraph 1, if the Comptroller makes a direction under this paragraph, the persons named in the direction shall be treated as a single taxable person carrying on the activities of a business described in the direction and that taxable person shall be liable to be registered with effect from the date of the direction or, if the direction so provides, from such later date as may be specified therein.
+[Act 52 of 2018 wef 01/01/2019]
+
+2.—(1) Without prejudice to section 47 and to paragraphs 1, 1A and 1B, if the Comptroller makes a direction under this paragraph, the persons named in the direction shall be treated as a single taxable person carrying on the activities of a business described in the direction and that taxable person shall be liable to be registered with effect from the date of the direction or, if the direction so provides, from such later date as may be specified therein.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) The Comptroller may make a direction under this paragraph naming any person where the Comptroller is satisfied —
 
-(a) that he is making or has made taxable supplies;
+(a) that he —
 
-(b) that the activities in the course of which he makes or made those taxable supplies form only part of certain activities which should properly be regarded as those of the business described in the direction, the other activities being carried on concurrently or previously (or both) by one or more other persons;
+(i) is making or has made taxable supplies; or
 
-(c) that, if all the taxable supplies of that business were taken into account, a person carrying on that business would, at the time of the direction, be liable to be registered by virtue of paragraph 1; and
+(ii) is a recipient within section 14(1);
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(b) that the activities in the course of which he makes or made those taxable supplies or receives services mentioned in section 14(1)(a) (as the case may be) form only part of certain activities which should properly be regarded as those of the business described in the direction, the other activities being carried on concurrently or previously (or both) by one or more other persons;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(c) that, if all the taxable supplies of or the services mentioned in section 14(1)(a) received for (as the case may be) that business were taken into account, a person carrying on that business would, at the time of the direction, be liable to be registered by virtue of paragraph 1, 1A or 1B; and
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (d) that the main reason or one of the main reasons for the person concerned carrying on the activities first referred to in sub-paragraph (b) in the way he does is the avoidance of a liability to be registered (whether that liability would be his, another person’s or that of 2 or more persons jointly).
 
 (3) A direction made under this paragraph shall be served on each of the persons named in it.
 
-(4) Where, after a direction has been given under this paragraph specifying a description of business, it appears to the Comptroller that a person who has not been named in that direction is making taxable supplies in the course of activities which should properly be regarded as part of the activities of that business, the Comptroller may make and serve on him a supplementary direction referring to the earlier direction and the description of business specified in it and adding that person’s name to those of the persons named in the earlier direction with effect from —
+(4) Where, after a direction has been given under this paragraph specifying a description of business, it appears to the Comptroller that a person who has not been named in that direction is making taxable supplies or receiving services mentioned in section 14(1)(a) (as the case may be) in the course of activities which should properly be regarded as part of the activities of that business, the Comptroller may make and serve on him a supplementary direction referring to the earlier direction and the description of business specified in it and adding that person’s name to those of the persons named in the earlier direction with effect from —
 
-(a) the date on which he began to make those taxable supplies; or
+(a) the date on which he began to make those taxable supplies or receives the services mentioned in section 14(1)(a) (as the case may be); or
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (b) if it was later, the date on which the single taxable person referred to in the earlier direction became liable to be registered.
 
-(5) If, immediately before a direction (including a supplementary direction) is made under this paragraph, any person named in the direction is registered in respect of the taxable supplies made by him as mentioned in sub-paragraph (2) or (4), he shall cease to be liable to be so registered with effect from whichever is the later of —
+[Act 52 of 2018 wef 01/01/2019]
+
+(5) If, immediately before a direction (including a supplementary direction) is made under this paragraph, any person named in the direction is registered in respect of the taxable supplies made or services mentioned in section 14(1)(a) received (as the case may be) by him as mentioned in sub-paragraph (2) or (4), he shall cease to be liable to be so registered with effect from whichever is the later of —
 
 (a) the date with effect from which the single taxable person concerned became liable to be registered; and
 
 (b) the date of the direction.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (6) In relation to a business specified in a direction under this paragraph, the persons named in the direction, together with any person named in a supplementary direction relating to that business (being the persons who together are to be treated as the taxable person), are in sub-paragraphs (7) and (8) referred to as “the constituent members”.
 
@@ -4736,11 +5580,37 @@ Liability to be registered
 
 End of liability to be registered
 
-3.—(1) Subject to sub-paragraph (2), a registered person who makes taxable supplies shall cease to be liable to be registered at any time if the Comptroller is satisfied that the value of his taxable supplies in the period of 12 months then beginning will not exceed $1 million.
+3. A person that is registered by virtue of paragraph 1 ceases to be liable to be so registered at any time if the Comptroller is satisfied that —
 
-(2) A person shall not cease to be liable to be registered by virtue of sub-paragraph (1) if the Comptroller is satisfied that the reason the value of his taxable supplies will not exceed $1 million is that in the period in question he will cease making taxable supplies, or will suspend making them for a period of 30 days or more.
+(a) in the period of 12 months then beginning, the value of the person’s taxable supplies will not exceed $1 million; and
 
-(3) In determining the value of a person’s supplies for the purposes of sub-paragraph (1), supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied shall be disregarded.
+(b) sub-paragraph (a) applies for a reason other than that the person will cease making taxable supplies, or will suspend making them for a period of 30 days or more.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+3A. A person that is registered by virtue of paragraph 1A ceases to be liable to be so registered at any time if the Comptroller is satisfied that —
+
+(a) in the period of 12 months then beginning —
+
+(i) the total value of his taxable supplies, and supplies outside Singapore which would be taxable supplies if made in Singapore, will not exceed $1 million; or
+
+(ii) the value of his Seventh Schedule supplies will not exceed $100,000; and
+
+(b) sub-paragraph (a) applies for a reason other than that the person will cease making taxable supplies or supplies which would be taxable supplies if made in Singapore, or will suspend making them for a period of 30 days or more.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+3B. A person that is registered under paragraph 1B ceases to be liable to be so registered at any time if —
+
+(a) the Comptroller is satisfied that the value of his supplies mentioned in section 14(1) that will be so received in the period of 12 months then beginning will not exceed $1 million; or
+
+(b) the person is entitled to claim the full amount of input tax credit under sections 19 and 20 in the period of 12 months mentioned in sub-paragraph (a).
+
+[Act 52 of 2018 wef 01/01/2019]
+
+3C. In determining the value of a person’s supplies for the purposes of paragraphs 3 and 3A, supplies of goods or services that are capital assets of the business in the course or furtherance of which they are supplied must be disregarded.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 Notification of liability and registration
 
@@ -4748,27 +5618,59 @@ Notification of liability and registration
 
 [S 415/2018 wef 25/06/2018]
 
-(1A) A person who by virtue of paragraph 1(1)(a)(ii) is liable to be registered at the end of any calendar year must notify the Comptroller in such form as the Comptroller may determine of that liability within 30 days after the end of that calendar year.
+(1A) A person who by virtue of paragraph 1(1)(a)(ii), 1A(1)(a) or 1B(1)(a) is liable to be registered at the end of any calendar year must notify the Comptroller in such form as the Comptroller may determine of that liability within 30 days after the end of that calendar year.
 
 [S 415/2018 wef 25/06/2018]
 
+[Act 52 of 2018 wef 01/01/2019]
+
 (2) The Comptroller shall register any such person (whether or not he so notifies the Comptroller) with effect from the end of the month following the month in which the 30th day falls or from such earlier date as may be agreed between the Comptroller and him.
 
-5.—(1) A person who by virtue of paragraph 1(1)(b) is liable to be registered by reason of the value of his taxable supplies in any period shall notify the Comptroller in such form as the Comptroller may determine of that liability within 30 days of the beginning of that period.
+5.—(1) Subject to section 91(1) or (2) (as applicable), a person who by virtue of paragraph 1(1)(b), 1A(1)(b) or 1B(1)(b) is liable to be registered by reason of his supplies in any period shall notify the Comptroller in such form as the Comptroller may determine of that liability within 30 days of the beginning of that period.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) Subject to sub-paragraph (3), the Comptroller shall register any such person (whether or not he so notifies the Comptroller) with effect from the end of the 30 days or from such earlier date as may be agreed between the Comptroller and him.
 
-(3) Where there are reasonable grounds for believing that the value of such a person’s taxable supplies in the first 30 days of the period will exceed $1 million, the Comptroller may, if he thinks fit, register him with effect from the beginning of the period.
+(3) Where there are reasonable grounds for believing that, in the first 30 days of the period —
 
-6.—(1) A person who becomes liable to be registered by virtue of paragraph 1(2) shall notify the Comptroller of the liability within 30 days of the time when the business is transferred.
+(a) for a person liable to be registered by virtue of paragraph 1(1)(b), the value of such a person’s taxable supplies will exceed $1 million;
+
+(b) for a person liable to be registered by virtue of paragraph 1A(1)(b) —
+
+(i) the total value of all his taxable supplies, and supplies outside Singapore which would have been taxable supplies if made in Singapore, will exceed $1 million; and
+
+(ii) the total value of his Seventh Schedule supplies will exceed $100,000; or
+
+(c) for a person liable to be registered by virtue of paragraph 1B(1)(b), the total value of services mentioned in section 14(1)(a) received by him in Singapore will exceed $1 million,
+
+the Comptroller may, if he thinks fit, register the person with effect from the beginning of the period.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+6.—(1) A person who becomes liable to be registered by virtue of paragraph 1(2), 1A(2) or 1B(2) shall notify the Comptroller of the liability within 30 days of the time when the business is transferred.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) The Comptroller shall register any such person (whether or not that person so notifies the Comptroller) with effect from the time when the business is transferred.
 
 7. Where a person becomes liable to be registered at the same time, as the case may be —
 
-(a) by virtue of sub‑paragraphs (1)(a)(i) and (2)(a)(i) of paragraph 1; or
+(a) by virtue of sub‑paragraphs (1)(a)(i) and (2)(a)(i) of paragraph 1;
 
-(b) by virtue of sub‑paragraphs (1)(a)(ii) and (2)(a)(ii) of paragraph 1,
+[Act 52 of 2018 wef 01/01/2019]
+
+(b) by virtue of sub‑paragraphs (1)(a)(ii) and (2)(a)(ii) of paragraph 1;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(c) by virtue of sub-paragraphs (1)(a) and (2)(a) of paragraph 1A; or
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(d) by virtue of sub-paragraphs (1)(a) and (2)(a) of paragraph 1B,
+
+[Act 52 of 2018 wef 01/01/2019]
 
 the Comptroller must register the person in accordance with paragraph 6(2) rather than paragraph 4(2).
 
@@ -4792,7 +5694,17 @@ Voluntary registration
 
 [S 415/2018 wef 25/06/2018]
 
-(b) is carrying on a business and intends to make such supplies in the course or furtherance of that business,
+(b) is carrying on a business and intends to make such supplies in the course or furtherance of that business;
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(c) is a person not belonging in Singapore and makes or is treated as making Seventh Schedule supplies; or
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(d) is a recipient within section 14(1),
+
+[Act 52 of 2018 wef 01/01/2019]
 
 the Comptroller may, subject to such conditions as the Comptroller may think fit to impose, and if that person so requests, register him with effect from such date as may be agreed between the Comptroller and him.
 
@@ -4804,7 +5716,9 @@ the Comptroller may, subject to such conditions as the Comptroller may think fit
 
 (b) may (whenever imposed) be subsequently varied by the Comptroller.
 
-(4) The Comptroller may cancel the registration of a person under this paragraph if he does not begin to make taxable supplies by the date specified in his request or if he is in breach of any condition imposed under sub-paragraph (1).
+(4) The Comptroller may cancel the registration of a person under this paragraph if he does not begin to make taxable supplies or receive services mentioned in section 14(1)(a) (as the case may be) by the date specified in his request or if he is in breach of any condition imposed under sub-paragraph (1).
+
+[Act 52 of 2018 wef 01/01/2019]
 
 9.—(1) Where a person who is not liable to be registered under this Act and is not already so registered satisfies the Comptroller that he —
 
@@ -4836,7 +5750,15 @@ and (in either case) is within sub-paragraph (2), the Comptroller may, subject t
 
 Notification of end of liability, etc.
 
-10\. A person registered under paragraph 4, 5, 6 or 8 who ceases to make or have the intention of making taxable supplies shall notify the Comptroller in writing of that fact and the date thereof within 30 days of the day on which he does so.
+10. A person registered under paragraph 4, 5, 6 or 8 who (as the case may be) —
+
+(a) ceases to make or have the intention of making taxable supplies; or
+
+(b) ceases to receive or have the intention of receiving services mentioned in section 14(1)(a),
+
+must notify the Comptroller in writing of that fact and the date of the cessation, within 30 days after that date.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 11. A person registered under paragraph 9 who —
 
@@ -4850,7 +5772,9 @@ Cancellation of registration
 
 12.—(1) Subject to sub-paragraph (2), where a registered person satisfies the Comptroller that he is not liable to be registered, the Comptroller shall, if that person so requests, cancel his registration with effect from the day on which the request is made or from such later date as may be agreed between the Comptroller and him.
 
-(2) The Comptroller may refuse to cancel the registration of any person registered under paragraph 8 where the Comptroller is not satisfied that that person has ceased to make taxable supplies and if he thinks it necessary for the protection of the revenue.
+(2) The Comptroller may refuse to cancel the registration of any person registered under paragraph 8 where the Comptroller is not satisfied that that person has ceased to make taxable supplies or receive services mentioned in section 14(1)(a) (as the case may be) and if he thinks it necessary for the protection of the revenue.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 13.—(1) Where the Comptroller is satisfied that a registered person has ceased to be registrable, the Comptroller may cancel his registration with effect from the day on which he so ceased or from such later date as may be agreed between the Comptroller and him.
 
@@ -4861,6 +5785,10 @@ Cancellation of registration
 Exemption from registration
 
 15.—(1) Notwithstanding the preceding provisions of this Schedule, where a person who makes or intends to make taxable supplies satisfies the Comptroller that any such supply is zero-rated or would be zero-rated if he were a taxable person, the Comptroller may, if he thinks fit and on that person’s request, exempt him from registration until it appears to the Comptroller that the request should no longer be acted upon or is withdrawn.
+
+(1A) Despite the preceding provisions of this Schedule, where a person who is or intends to be a recipient under section 14(2), satisfies the Comptroller that the person makes substantial zero‑rated supplies out of his total taxable supplies (excluding any reverse charge supplies), the Comptroller may, if the Comptroller thinks fit and on that person’s request, exempt that person from registration until it appears to the Comptroller that the request should no longer be acted upon or is withdrawn.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) Where there is a material change in the nature of the supplies made by a person exempted from registration under this paragraph, he shall notify the Comptroller of the change —
 
@@ -4882,15 +5810,19 @@ Supplementary
 
 (4) Every registered person except one to whom paragraph 10, 11, 12, 13 or 14 applies shall, within 30 days after any change has been made in the name, constitution or ownership of his business, or after any other event has occurred which may necessitate the variation of the register or cancellation of his registration, notify the Comptroller in writing of such change or event and furnish him with the full particulars thereof.
 
-18.—(1) References in this Schedule to registration are references to registration in a register kept with the Comptroller in such form as he may determine for the purposes of this Act and references in this Schedule to supplies are references to supplies made in the course or furtherance of a business.
+18.—(1) References in this Schedule to registration are references to registration in a register kept with the Comptroller in such form as he may determine for the purposes of this Act and references in this Schedule to supplies are references to supplies made or, for services mentioned in section 14(1)(a), received in the course or furtherance of a business.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (2) The Comptroller may allow inspection of the register referred to in sub-paragraph (1) under such circumstances and on such terms as he may impose.
 
 [S 107/94]
 
-19. References in this Schedule to a person making taxable supplies shall include a reference to all the members of a partnership where such persons are carrying on business in partnership.
+19. References in this Schedule to a person making taxable supplies or receiving services mentioned in section 14(1)(a) (as the case may be) shall include a reference to all the members of a partnership where such persons are carrying on business in partnership.
 
 [UK VAT Act 1983, Sch. 1]
+
+[Act 52 of 2018 wef 01/01/2019]
 
 SECOND SCHEDULE
 
@@ -5152,13 +6084,33 @@ Foreign exchange
 
 [4/2003]
 
+(1A) Where any sum relevant for determining the value of a Seventh Schedule supply is expressed in a currency other than Singapore currency, it is to be converted into Singapore currency at the selling rate of exchange prevailing in Singapore at one of the following times at the option of the taxable person:
+
+(a) the time of the supply;
+
+(b) the last day of the prescribed accounting period applicable to the supply;
+
+(c) the time of the filing of the return in relation to the supply.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+(1B) An option chosen by the taxable person under sub‑paragraph (1A) must be applied —
+
+(a) in relation to all Seventh Schedule supplies made by the taxable person; and
+
+(b) unless the Comptroller otherwise allows, for at least one year after the first time the option is used.
+
+[Act 52 of 2018 wef 01/01/2019]
+
 (2) Where the Comptroller has issued a notice in writing which, for the purposes of this paragraph, specifies —
 
 (a) rates of exchange; or
 
 (b) methods of determining rates of exchange,
 
-a rate specified in or determined in accordance with the notice, as for the time being in force, shall apply (instead of the rate for which sub-paragraph (1) provides) in the case of any supply by a person who opts, in such manner as may be allowed by the Comptroller, for the use of that rate in relation to that supply.
+a rate specified in or determined in accordance with the notice, as for the time being in force, shall apply (instead of the rate for which sub-paragraph (1) or (1A) provides) in the case of any supply by a person who opts, in such manner as may be allowed by the Comptroller, for the use of that rate in relation to that supply.
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (3) An option for the purposes of sub-paragraph (2) for the use of a particular rate or method of determining a rate —
 
@@ -6060,6 +7012,174 @@ Refiners referred to in paragraph 2(a)(iii)(B) of Part III of the Fourth Schedul
 
 [Act 19/2012 wef 01/10/2012]
 
+SEVENTH SCHEDULE
+
+Sections 2(1) and 46(1B)
+
+Supplies for the purposes of section 8(1A)
+
+Definitions
+
+1.—(1) In this Schedule —
+
+“customer”, in relation to a supply of digital services, means a person who receives the supply other than —
+
+(a) as a person registered under this Act; and
+
+(b) in the course or furtherance of any business carried on by the person;
+
+“electronic marketplace” means a medium that —
+
+(a) allows suppliers to make supplies available to customers by electronic means; and
+
+(b) is operated by electronic means,
+
+but not any medium that is solely for processing any payment for any supply;
+
+“local underlying supplier”, in relation to a supply of digital services, means a supplier of any digital service that belongs in Singapore and makes the supply through an electronic marketplace;
+
+“overseas underlying supplier”, in relation to a supply of digital services, means a supplier of any digital service that belongs in a country other than Singapore and makes the supply through an electronic marketplace.
+
+(2) To avoid doubt, in this Schedule, a person that is only the Internet service provider for an electronic marketplace, is not an operator of the electronic marketplace.
+
+Meaning of “digital services”
+
+2.—(1) For the purposes of this Schedule, “digital services” means any service supplied over the Internet or other electronic network and the nature of which renders its supply essentially automated with minimal or no human intervention, and impossible without the use of information technology, and —
+
+(a) includes any of the following:
+
+(i) any digital product;
+
+(ii) any software or software update;
+
+(iii) any image, text or information, or the making available of any database;
+
+(iv) any music, film or game;
+
+(v) any distance teaching through any pre-recorded medium or e‑learning;
+
+(vi) any website supply, web hosting, or automated or digital maintenance of any programme;
+
+(vii) any service providing or supporting a business or personal presence on any electronic network;
+
+(viii) any search engine or automated helpdesk service;
+
+(ix) any listing service for the right to put goods or services for sale on any online market or auction house;
+
+(x) any live streaming service;
+
+(xi) any advertising service on any intangible media platform, where the Comptroller is satisfied that the advertisement is intended to be substantially promulgated in Singapore;
+
+(xii) any support service performed, through electronic means, for arranging or facilitating the completion of underlying transactions; but
+
+(b) does not include any of the following (except to the extent included under sub‑paragraph (a)):
+
+(i) any telecommunication service as defined in the Fifth Schedule to the Goods and Services Tax (International Services) Order (O 1);
+
+(ii) any advertising service on any intangible media platform, where the Comptroller is satisfied that the advertisement is intended to be substantially promulgated outside Singapore.
+
+(2) The Minister may by order in theGazetteamend sub-paragraph (1).
+
+Supplies for purposes of section 8(1A)
+
+3.—(1) For the purpose of section 8(1A), the supply of services is any of the following:
+
+(a) a supply of digital services made or treated as made in the circumstances in sub‑paragraph (2);
+
+(b) a supply of services other than digital services (called in this paragraph non‑digital services), made in the circumstances in sub-paragraph (3).
+
+(2) The circumstances for a supply of digital services are any of the following:
+
+(a) the supply is made to a customer who belongs in Singapore, and the taxable person belongs in a country other than Singapore;
+
+(b) the supply is made to a customer who belongs in Singapore, and the taxable person is —
+
+(i) an overseas underlying supplier; or
+
+(ii) the operator of an electronic marketplace treated under paragraph 4 as making the supply instead of an overseas underlying supplier;
+
+(c) the supply is a supply mentioned in paragraph 5(3)(b).
+
+(3) The circumstances for a supply of non‑digital services are —
+
+(a) the supplier makes or is treated as making a supply of digital services in any of the circumstances in sub‑paragraph (2);
+
+(b) in the course of making the supply of digital services, the supplier makes a separate supply of non‑digital services and that would, but for this sub‑paragraph, not be chargeable to tax;
+
+(c) the supply of non-digital services is ancillary to the supply of digital services; and
+
+(d) upon an application by the supplier, the Comptroller notifies the supplier that the Comptroller is satisfied that the supply of non‑digital services is within sub‑paragraphs (b) and (c).
+
+(4) A supplier of digital services or non-digital services under this paragraph must treat a person to whom any such service is supplied as being a customer, unless the person provides to the supplier the registration number allocated by the Comptroller to the person upon the registration of the person under this Act.
+
+Supply treated as that of operator of electronic marketplace
+
+4.—(1) For the purpose of paragraph 3(2)(b)(ii), an operator of an electronic marketplace is treated as making the supply of digital services to a customer instead of the overseas underlying supplier making the supply through the electronic marketplace of the operator, if any of the following conditions is satisfied:
+
+(a) the operator authorises the consideration for the supply to be charged to the customer;
+
+(b) the operator authorises the delivery of the supply to the customer;
+
+(c) the operator sets the terms and conditions under which the supply is made;
+
+(d) the documentation provided to the customer identifies the supply as being made by the operator;
+
+(e) the operator and the overseas underlying supplier have agreed in writing that the operator is chargeable to tax on such supply.
+
+(2) If more than one operator of an electronic marketplace is treated under sub‑paragraph (1) as making the supply of digital services —
+
+(a) the first operator that authorises the charging of or receives consideration for the supply is treated as making the supply; and
+
+(b) if no operator exists that meets the requirement in sub‑paragraph (a), then the first operator that authorises delivery of the supply is treated as making the supply.
+
+(3) For the purposes of this paragraph —
+
+(a) an operator authorises the charging of consideration for a supply of digital services where it influences whether, at what time, or under which preconditions the customer can make payment for the supply of digital services; and
+
+(b) an operator authorises the delivery of a supply of digital services where it influences whether, at what time, or under which preconditions the delivery is made.
+
+(4) This paragraph applies whether or not the operator of the electronic marketplace is a supplier of digital services that belongs in Singapore.
+
+Elected supplies of operator of electronic marketplace
+
+5.—(1) Subject to such conditions as the Comptroller may impose, an operator of an electronic marketplace to which paragraph 4 applies may elect to also be chargeable to tax on all supplies of digital services made by local underlying suppliers through the electronic marketplace to customers who belong in Singapore.
+
+(2) An election made under sub-paragraph (1) must be made by notifying the Comptroller in such form and manner and within such time as the Comptroller may require.
+
+(3) Where an election under sub-paragraph (1) has been made in accordance with sub‑paragraph (2), then a supply of digital services made by a local underlying supplier through the electronic marketplace to a customer who belongs in Singapore is treated as being 2 supplies, namely —
+
+(a) a supply of services from the local underlying supplier to the operator of the electronic marketplace; and
+
+(b) a supply of digital services by the operator of the electronic marketplace to the customer who belongs in Singapore.
+
+(4) Where the operator of an electronic marketplace belongs in a country other than Singapore, then the supply of services mentioned in sub-paragraph (3)(a) is treated as a supply of services that are international services under section 21.
+
+[Act 52 of 2018 wef 01/01/2019]
+
+EIGHTH SCHEDULE
+
+Section 14(3), (6) and (9)
+
+Services excluded for purposes of section 14
+
+1. The following services are excluded for the purpose of section 14(1)(a)(i) and (ii):
+
+(a) any services the supply of which would, if the supply of the services were made by a taxable person in Singapore, be an exempt supply under section 22 and the Fourth Schedule;
+
+(b) any services the supply of which would, if the supply of the services were made by a taxable person in Singapore, be a supply of international services which is zero‑rated under section 21(1);
+
+(c) any services the supply of which is attributable to taxable supplies under regulations made under section 20, unless the taxable person claiming input tax in respect of the firstmentioned supply may apply a fixed input tax recovery rate or formula for all input tax claimed by him;
+
+(d) any services the supply of which is provided by a government of a country other than Singapore, where the supply of those services would, if made by the Government, be a supply prescribed under section 28(1).
+
+2. Without affecting paragraph 1, services are excluded for the purpose of section 14(1)(a)(i) and (ii) to the extent that —
+
+(a) such services were previously supplied by a taxable person who belongs in Singapore to the overseas supplier who subsequently supplied such services to the recipient; and
+
+(b) tax was charged on such previous supply to the overseas supplier, where such supply was not zero‑rated under section 21 or exempt under section 22.
+
+[Act 52 of 2018 wef 01/01/2019]
+
 ## LEGISLATIVE SOURCE KEY
 
 Goods and Services Tax Act
@@ -6389,6 +7509,10 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|31 August 2018|
+|59.|**Act 52 of 2018—Goods and Services Tax (Amendment) Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 46/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|19 November 2018|
+||Date of commencement|1 January 2019|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
