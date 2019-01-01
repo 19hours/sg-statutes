@@ -86,17 +86,19 @@
 
 - [32 Power to substitute order for police supervision](#Power-to-substitute-order-for-police-supervision)
 
-- [33 Restrictions on person subject to supervision](#Restrictions-on-person-subject-to-supervision)
+- [33 Obligations on person subject to supervision](#Obligations-on-person-subject-to-supervision)
 
-- [34 Person subject to supervision not to consort with other persons subject to supervision](#Person-subject-to-supervision-not-to-consort-with-other-persons-subject-to-supervision)
+- [34 (Repealed)](#Repealed)
 
 - [35 Double penalties for crimes of violence](#Double-penalties-for-crimes-of-violence)
 
-- [36 Loitering by person subject to supervision in public place, etc.](#Loitering-by-person-subject-to-supervision-in-public-place-etc)
+- [36 (Repealed)](#Repealed)
 
 - [37 (Repealed)](#Repealed)
 
 - [38 Extension of orders](#Extension-of-orders)
+
+- [38A Revocation of orders](#Revocation-of-orders)
 
 - [39 Constitution of advisory committees](#Constitution-of-advisory-committees)
 
@@ -114,7 +116,7 @@
 
 - [46 Power to enter and search](#Power-to-enter-and-search)
 
-- [47 Officers of Central Narcotics Bureau to exercise powers conferred on police officers under sections 44, 45 and 46](#Officers-of-Central-Narcotics-Bureau-to-exercise-powers-conferred-on-police-officers-under-sections-44-45-and-46)
+- [47 Officers of Central Narcotics Bureau to exercise powers conferred on police officers under sections 44, 45 and 46, etc.](#Officers-of-Central-Narcotics-Bureau-to-exercise-powers-conferred-on-police-officers-under-sections-44-45-and-46-etc)
 
 - [48 Powers of Public Prosecutor](#Powers-of-Public-Prosecutor)
 
@@ -125,6 +127,8 @@
 [**SECOND SCHEDULE Reportable Offences**](#SECOND-SCHEDULE-Reportable-Offences)
 
 [**THIRD SCHEDULE Specified Laws**](#THIRD-SCHEDULE-Specified-Laws)
+
+[**FOURTH SCHEDULE Activities of a criminal nature**](#FOURTH-SCHEDULE-Activities-of-a-criminal-nature)
 
 [**Legislative History**](#Legislative-History)
 
@@ -478,7 +482,9 @@ given to a police officer or officer of the Central Narcotics Bureau in charge o
 
 [22/2007 wef 01/01/2008]
 
-“registrable particulars” means the particulars of any detention or supervision order made under section 30, 32 or 38 and any name, description, photograph or finger impression of, or document relating to, any person so detained or placed under supervision, as the case may be.
+“registrable particulars” means the particulars of any detention or supervision order made under section 30(1), 32 or 38 and any name, description, photograph or finger impression of, or document relating to, any person so detained or placed under supervision, as the case may be.
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (2) Subject to subsection (3), the Minister may prescribe additional types of body samples that may be taken under section 27A.
 
@@ -508,7 +514,9 @@ given to a police officer or officer of the Central Narcotics Bureau in charge o
 
 (a) a person who, on 21st October 2004, is under arrest and detained under section 44 or 45;
 
-(b) a person who, on 21st October 2004, is under detention or subject to supervision under section 30, 32 or 38;
+(b) a person who, on 21st October 2004, is under detention or subject to supervision under section 30(1), 32 or 38;
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (c) a person who, on or after 21st October 2004, is arrested, detained or placed under police supervision under any of the provisions of this Act.
 
@@ -620,15 +628,27 @@ DETENTION
 
 ### Power of Minister to make orders
 
-30\. Whenever the Minister is satisfied with respect to any person, whether the person is at large or in custody, that the person has been associated with activities of a criminal nature, the Minister may, with the consent of the Public Prosecutor —
+30\.—(1) Whenever the Minister is satisfied with respect to any person, whether the person is at large or in custody, that the person has been associated with activities of a criminal nature, the Minister may, with the consent of the Public Prosecutor —
 
 (a) if he is satisfied that it is necessary that the person be detained in the interests of public safety, peace and good order, by order under his hand direct that the person be detained for any period not exceeding 12 months from the date of the order; or
 
 (b) if he is satisfied that it is necessary that the person be subject to the supervision of the police, by order direct that the person be subject to the supervision of the police for any period not exceeding 3 years from the date of the order.
 
+[Act 12 of 2018 wef 01/01/2019]
+
+(2) Every decision of the Minister on a matter in subsection (1) is final.
+
+[Act 12 of 2018 wef 01/01/2019]
+
+(3) In this section, “activities of a criminal nature” means any activity specified in the Fourth Schedule.
+
+[Act 12 of 2018 wef 01/01/2019]
+
 ### Orders to be referred to advisory committee and subject to confirmation by President
 
-31\.—(1) Every order made by the Minister under section 30 shall, together with a written statement of the grounds upon which the Minister made the order, be referred by the Minister to an advisory committee constituted as provided in section 39, within 28 days of the making of the order.
+31\.—(1) Every order made by the Minister under section 30(1) shall, together with a written statement of the grounds upon which the Minister made the order, be referred by the Minister to an advisory committee constituted as provided in section 39, within 28 days of the making of the order.
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (2) The advisory committee shall submit to the President a written report on the making of the order and may make therein such recommendations as it shall think fit.
 
@@ -636,61 +656,43 @@ DETENTION
 
 ### Power to substitute order for police supervision
 
-32\.—(1) At any time after an order of detention in respect of a person has been made under section 30 or confirmed under section 31(3) or after the expiry of the validity of the order, the Minister may by order direct that the person be subject to the supervision of the police for any period not exceeding 3 years from the date of the order and thereupon any detention order made or confirmed in respect of that person shall be deemed to be cancelled and that person if under detention shall be released.
+32\.—(1) At any time after an order of detention in respect of a person has been made under section 30(1) or confirmed under section 31(3) or after the expiry of the validity of the order, the Minister may by order direct that the person be subject to the supervision of the police for any period not exceeding 3 years from the date of the order and thereupon any detention order made or confirmed in respect of that person shall be deemed to be cancelled and that person if under detention shall be released.
 
-(2) Section 31 shall apply to any order made by the Minister under subsection (1) as it applies to an order made by the Minister under section 30.
+[Act 12 of 2018 wef 01/01/2019]
 
-### Restrictions on person subject to supervision
+(2) Section 31 shall apply to any order made by the Minister under subsection (1) as it applies to an order made by the Minister under section 30(1).
 
-33\.—(1) Any person directed to be subject to the supervision of the police under section 30 or 32 (referred to in this Act as a person subject to supervision under this Act) shall be subject to —
+[Act 12 of 2018 wef 01/01/2019]
 
-(a) the obligations imposed upon persons subject to police supervision under section 310 of the Criminal Procedure Code 2010; and
+### Obligations on person subject to supervision
 
-(b) all or any of the following restrictions as the Minister may by order direct:
+33\.—(1) The Minister may, by order in writing served on a person directed to be subject to the supervision of the police under section 30(1) or 32 (called in this Act a person subject to supervision), direct the person to comply with all or any of the obligations prescribed by rules made under section 49 for the purposes of this section.
 
-(i) he shall be required to reside within the limits of any police division specified in the order;
+(2) The Minister may, from time to time, by order in writing served on the person subject to supervision —
 
-(ii) he shall not be permitted to change his residence without the written authority of a police officer not below the rank of inspector;
+(a) cancel any of the obligations imposed on that person by an order under subsection (1) or this subsection; or
 
-(iii) except in so far as may be otherwise provided by the order, he shall not leave Singapore without the written authority of a police officer not below the rank of inspector;
+(b) direct that person to comply with any obligation prescribed by rules made under section 49 for the purposes of this section.
 
-(iv) he shall at all times keep the commander of the police division in which he resides notified of the house or place in which he resides;
+(3) A person subject to supervision who contravenes or fails to comply with any obligation imposed on that person by an order under subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than one year and not more than 3 years.
 
-(v) he shall be liable, at such time or times as may be specified in the order, to present himself at the nearest police station;
+(4) A person subject to supervision is not required to comply with any obligation imposed on that person by an order under subsection (1) or (2) —
 
-(vi) he shall remain within doors or within such area as may be defined in the order, between such hours as may be specified in the order, unless he obtains special permission to the contrary from the commander of the police division in which he resides;
+(a) while that person is imprisoned or otherwise in custody, or detained, under any other written law; or
 
-(vii) except in so far as may be otherwise provided by the order, he shall not be permitted to enter any area specified in the order.
+(b) if, and only to the extent that, the obligation is inconsistent with any order or direction made by a court in respect of that person, such as an order or a direction to attend any court proceeding despite the obligation.
 
-[21/73]
+[Act 12 of 2018 wef 01/01/2019]
 
-[15/2010 wef 02/01/2011]
-
-(2) The Minister may, from time to time, by order in writing served on the person subject to supervision under this Act, vary, cancel or add to any restrictions imposed under this section.
-
-(3) A person subject to supervision under this Act who contravenes or fails to comply with any order or restriction imposed on him under this section shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than one year and not more than 3 years.
-
-### Person subject to supervision not to consort with other persons subject to supervision
-
-34\.—(1) No person subject to supervision under this Act shall consort or habitually associate with any other person subject to supervision under this Act without the permission of the commander of the police division in which he resides, unless he proves that he did not know and had no reason to suspect that that other person was a person subject to supervision under this Act.
-
-(2) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than one year and not more than 3 years.
+34\. [Repealed by Act 12 of 2018 wef 01/01/2019]
 
 ### Double penalties for crimes of violence
 
-35\. Any person subject to supervision under this Act who is convicted of an offence, committed after the date of the order directing him to be subject to supervision, under the provisions of any law specified in the Third Schedule shall, notwithstanding any other written law to the contrary, be liable to imprisonment for a term twice as long as the maximum term for which he would otherwise have been liable on conviction for that offence, and also to caning.
+35\. Any person subject to supervision who is convicted of an offence, committed after the date of the order directing him to be subject to supervision, under the provisions of any law specified in the Third Schedule shall, notwithstanding any other written law to the contrary, be liable to imprisonment for a term twice as long as the maximum term for which he would otherwise have been liable on conviction for that offence, and also to caning.
 
-### Loitering by person subject to supervision in public place, etc.
+[Act 12 of 2018 wef 01/01/2019]
 
-36\. Any person subject to supervision under this Act who —
-
-(a) is found between the hours of sunset and sunrise frequenting or loitering in or about any public place or in the neighbourhood of any place of public entertainment;
-
-(b) at any time is found in the company of 2 or more persons subject to supervision under this Act; or
-
-(c) at any time is found in or near any place in which any act of violence or breach of the peace is being or has just been committed,
-
-and who is unable satisfactorily to account for his presence at that place or time or in that company shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than one year and not more than 3 years.
+36\. [Repealed by Act 12 of 2018 wef 01/01/2019]
 
 37\. [Deleted by Act 32/2004 wef 21/10/2004]
 
@@ -699,6 +701,12 @@ and who is unable satisfactorily to account for his presence at that place or ti
 38\.—(1) The President may, from time to time, extend the validity of any order of detention confirmed under section 31(3) for periods not exceeding 12 months at any one time and may at any time refer any such order for further consideration by an advisory committee.
 
 (2) The President may, from time to time, extend the period for which a person is directed to be under the supervision of the police by any order confirmed under section 31(3) and may at any time refer any such order for further consideration by an advisory committee.
+
+### Revocation of orders
+
+38A\. The Minister may, at any time, revoke an order made under section 30(1) or 32, whether or not the order has been confirmed under section 31(3) or extended under section 38.
+
+[Act 12 of 2018 wef 01/01/2019]
 
 ### Constitution of advisory committees
 
@@ -718,11 +726,17 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 ### Manner of detention and powers to order removal
 
-42\.—(1) Every person detained in pursuance of an order made under section 30 shall be detained in such place as the Minister may direct and in accordance with instructions issued by the Minister.
+42\.—(1) Every person detained in pursuance of an order made under section 30(1) shall be detained in such place as the Minister may direct and in accordance with instructions issued by the Minister.
 
-(2) The Minister may by order direct the removal from any place of detention to another place of detention to be specified in the order of any person detained in pursuance of an order made under section 30.
+[Act 12 of 2018 wef 01/01/2019]
 
-(3) On proof to his satisfaction that the presence at any place of any person detained in pursuance of an order made under section 30 is required in the interests of justice, or for the purpose of any inquiry, or in the public interest or in the interest of the person detained, the Minister may order that the person be taken to that place.
+(2) The Minister may by order direct the removal from any place of detention to another place of detention to be specified in the order of any person detained in pursuance of an order made under section 30(1).
+
+[Act 12 of 2018 wef 01/01/2019]
+
+(3) On proof to his satisfaction that the presence at any place of any person detained in pursuance of an order made under section 30(1) is required in the interests of justice, or for the purpose of any inquiry, or in the public interest or in the interest of the person detained, the Minister may order that the person be taken to that place.
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (4) Any person in the course of removal under subsection (2) or in the course of being taken to any place in pursuance of subsection (3) and when so removed or while at that place shall be kept in such custody as the Minister may direct and while in that custody shall be deemed to be in lawful custody.
 
@@ -746,11 +760,15 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 (8) Every person released under this section shall continue to be in the legal custody of the superintendent of the place of detention from which he is released during every period for which he is so released.
 
-(9) For the purposes of this section, “detainee” means any person who is detained in pursuance of an order made under section 30.
+(9) For the purposes of this section, “detainee” means any person who is detained in pursuance of an order made under section 30(1).
+
+[Act 12 of 2018 wef 01/01/2019]
 
 ### Power to detain suspected persons
 
-44\.—(1) Any police officer may, without warrant, arrest and detain pending enquiries any person in respect of whom he has reason to believe there are grounds which would justify the detention of the person under section 30.
+44\.—(1) Any police officer may, without warrant, arrest and detain pending enquiries any person in respect of whom he has reason to believe there are grounds which would justify the detention of the person under section 30(1).
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (2) No person shall be detained under this section for a period exceeding 24 hours except with the authority of a police officer of or above the rank of assistant superintendent or for a period of 48 hours in all.
 
@@ -760,7 +778,9 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 ### Duty to arrest persons ordered to be detained
 
-45\.—(1) Any police officer may, without warrant, arrest any person found at large in respect of whom there is in existence a detention order made by the Minister under section 30 and shall forthwith report the arrest to the Commissioner of Police.
+45\.—(1) Any police officer may, without warrant, arrest any person found at large in respect of whom there is in existence a detention order made by the Minister under section 30(1) and shall forthwith report the arrest to the Commissioner of Police.
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (2) Any person arrested under subsection (1) shall be deemed to be in lawful custody and may be detained for a period not exceeding 48 hours in any prison or in any police station pending the issuing of instructions by the Minister for his further detention.
 
@@ -768,17 +788,19 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 46\. Notwithstanding anything to the contrary in any written law, it shall be lawful for any police officer of or above the rank of assistant superintendent, or a police officer of any rank specially authorised by a police officer of or above the rank of assistant superintendent, in order to effect the arrest of any person in pursuance of the provisions of this Part, to enter and search any place and in order to effect an entrance into that place to break open any outer or inner door or window of that place if he cannot otherwise obtain admittance thereto.
 
-### Officers of Central Narcotics Bureau to exercise powers conferred on police officers under sections 44, 45 and 46
+### Officers of Central Narcotics Bureau to exercise powers conferred on police officers under sections 44, 45 and 46, etc.
 
 47\.—(1) Subject to this section, the powers conferred upon a police officer under sections 44, 45 and 46 may be exercised by an officer of the Central Narcotics Bureau.
 
 [17/99]
 
-(2) The powers conferred upon a police officer of or above the rank of assistant superintendent under sections 44(2) and 46 may be exercised by the Director, a Deputy Director or an Assistant Director of the Central Narcotics Bureau.
+(2) The powers conferred upon a police officer of or above the rank of assistant superintendent under sections 44(2) and 46 may be exercised by the Director, a Deputy Director or a Divisional Director of the Central Narcotics Bureau.
 
 [17/99]
 
 [2/2006 wef 01/03/2006]
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (3) The power conferred upon an officer of or above the rank of superintendent of police under section 44(3) may be exercised by the Director or a Deputy Director of the Central Narcotics Bureau.
 
@@ -794,17 +816,23 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 [17/99]
 
-(6) For the purposes of this section —
+(5A) In any case relating to the commission of an offence under section 33(3), an officer of the Central Narcotics Bureau —
 
-“Director of the Central Narcotics Bureau”, “Deputy Director of the Central Narcotics Bureau” and “Assistant Director of the Central Narcotics Bureau” mean, respectively, the Director, a Deputy Director and an Assistant Director of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
+(a) has all the powers of a police officer under the Criminal Procedure Code (Cap. 68) in relation to an investigation into an arrestable offence; and
 
-“officer of the Central Narcotics Bureau” means the Director, the Deputy Directors, the Assistant Directors and any other officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185).
+(b) for the purposes of exercising such powers, is deemed to be a police officer not below the rank of inspector of police.
 
-[46A
+[Act 12 of 2018 wef 01/01/2019]
 
-[17/99]
+(6) In this section —
 
-[2/2006 wef 01/03/2006]
+“Director”, “Deputy Director” and “Divisional Director”, in relation to the Central Narcotics Bureau, mean the Director, a Deputy Director and a Divisional Director, respectively, of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act (Cap. 185);
+
+“officer of the Central Narcotics Bureau” means the Director, a Deputy Director, a Divisional Director or any other officer of the Central Narcotics Bureau appointed under section 3 of the Misuse of Drugs Act.
+
+[Act 12 of 2018 wef 01/01/2019]
+
+[Act 12 of 2018 wef 01/01/2019]
 
 ### Powers of Public Prosecutor
 
@@ -818,7 +846,9 @@ and who is unable satisfactorily to account for his presence at that place or ti
 
 (2) Without prejudice to the generality of the powers conferred by subsection (1), such rules may provide for —
 
-(a) the issue by the Commissioner of National Registration appointed under the National Registration Act (Cap. 201) of special identity cards to all or any class of persons subject to supervision under this Act;
+(a) the issue by the Commissioner of National Registration appointed under the National Registration Act (Cap. 201) of special identity cards to all or any class of persons subject to supervision;
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (b) the form, custody, production, inspection, cancellation, alteration, endorsement on and replacement of those cards and the substitution thereof for identity cards issued to those persons under any written law; and
 
@@ -1198,6 +1228,54 @@ Sections 14 and 15 of the Societies Act (Cap. 311).
 
 [51/2007 wef 01/02/2008]
 
+FOURTH SCHEDULE
+
+Section 30(3)
+
+Activities of a criminal nature
+
+1. 
+
+Unlicensed moneylending
+
+2. 
+
+Drug trafficking
+
+3. 
+
+Involvement in a secret society, or as a gangster
+
+4. 
+
+Human trafficking
+
+5. 
+
+Robbery with firearms
+
+6. 
+
+Murder
+
+7. 
+
+Gang rape
+
+8. 
+
+Kidnapping
+
+9. 
+
+Participating in, or facilitating, any organised crime activity as defined in section 48(1) of the Organised Crime Act 2015 (Act 26 of 2015)
+
+10. 
+
+Attempting to carry out, abetting, or being a party to a criminal conspiracy to carry out, any activity listed in items 1 to 9.
+
+[Act 12 of 2018 wef 01/01/2019]
+
 ## LEGISLATIVE HISTORY
 
 Criminal Law (Temporary Provisions) Act
@@ -1454,6 +1532,10 @@ This Legislative History is provided for the convenience of users of the Crimina
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
+|60.|**Act 12 of 2018—Criminal Law (Temporary Provisions) (Amendment) Act 2018**|
+||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|1 January 2019|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
