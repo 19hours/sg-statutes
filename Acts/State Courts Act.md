@@ -26,7 +26,7 @@
 
 - [7 Sittings in camera, etc.](#Sittings-in-camera-etc)
 
-- [8 (Repealed)](#Repealed)
+- [8 State Court may conduct hearing through electronic means of communication](#State-Court-may-conduct-hearing-through-electronic-means-of-communication)
 
 [**Part III APPOINTMENTS, POWERS AND DUTIES**](#Part-III)
 
@@ -412,7 +412,13 @@ which is contained in any court document intended to be produced before the cour
 
 [Act 19 of 2018 wef 31/10/2018]
 
-8\. [Repealed by Act 19 of 2016 wef 01/10/2017]
+### State Court may conduct hearing through electronic means of communication
+
+8\.—(1) Without limiting section 7, a State Court may conduct the hearing of any matter or proceeding through a live video link, a live television link or any other electronic means of communication.
+
+(2) Subsection (1) does not affect the operation of section 62A of the Evidence Act (Cap. 97) and section 281 of the Criminal Procedure Code (Cap. 68).
+
+[Act 46 of 2018 wef 01/01/2019]
 
 ## PART III
 
@@ -1655,6 +1661,10 @@ This Legislative History is provided for the convenience of users of the Subordi
 ||Date of First Reading|28 February 2018 (Bill No. 14/2018 published on 28 February 2018)|
 ||Date of Second and Third Readings|19 March 2018|
 ||Date of commencement|31 October 2018|
+|32.|**Act 46 of 2018—Supreme Court of Judicature (Amendment No. 2) Act 2018**|
+||Date of First Reading|10 September 2018 (Bill No. 33/2018 published on 10 September 2018)|
+||Date of Second and Third Readings|20 October 2018|
+||Date of commencement|1 January 2019|
 ## COMPARATIVE TABLE
 
 State Courts Act
