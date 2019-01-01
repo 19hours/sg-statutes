@@ -32,9 +32,9 @@
 
 - [9A Prohibition on shopper loyalty programmes involving tobacco products](#Prohibition-on-shopper-loyalty-programmes-involving-tobacco-products)
 
-- [10 Prohibition on supply to persons below age of 18 years](#Prohibition-on-supply-to-persons-below-age-of-18-years)
+- [10 Prohibition on supply to under-aged persons](#Prohibition-on-supply-to-under-aged-persons)
 
-- [11 Control of use of tobacco products by young persons](#Control-of-use-of-tobacco-products-by-young-persons)
+- [11 Control of use of tobacco products by under-aged persons](#Control-of-use-of-tobacco-products-by-under-aged-persons)
 
 - [12 Number of cigarettes in package](#Number-of-cigarettes-in-package)
 
@@ -485,15 +485,21 @@ any free sample of a tobacco product to the public or any section of the public 
 
 [Act 9 of 2016 wef 01/08/2016]
 
-### Prohibition on supply to persons below age of 18 years
+### Prohibition on supply to under-aged persons
 
 10\.—(1) Any person who, directly or indirectly, does any of the following in Singapore:
 
-(a) sells any tobacco product to a person below the age of 18 years;
+(a) sells any tobacco product to an under-aged person;
 
-(b) buys or acquires any tobacco product for the purpose of giving it, whether or not for a consideration, to a person below the age of 18 years; or
+[Act 46 of 2017 wef 01/01/2019]
 
-(c) gives or furnishes any tobacco product to a person below the age of 18 years,
+(b) buys or acquires any tobacco product for the purpose of giving it, whether or not for a consideration, to an under-aged person; or
+
+[Act 46 of 2017 wef 01/01/2019]
+
+(c) gives or furnishes any tobacco product to an under-aged person,
+
+[Act 46 of 2017 wef 01/01/2019]
 
 shall be guilty of an offence and shall be liable on conviction for —
 
@@ -507,13 +513,19 @@ shall be guilty of an offence and shall be liable on conviction for —
 
 (2) It shall be a defence to any prosecution for an offence under subsection (1) if a person proves that he —
 
-(a) had reasonable grounds to believe and did make reasonable inquiries to ascertain that the person to whom the tobacco product was sold, given or furnished was not below the age of 18 years; or
+(a) had reasonable grounds to believe and did make reasonable inquiries to ascertain that the person to whom the tobacco product was sold, given or furnished was not an under-aged person; or
 
-(b) had received from the person to whom the tobacco product was sold, given or furnished evidence purporting to show that that person was not below the age of 18 years, and that it was reasonable to and he did accept that evidence as correct.
+[Act 46 of 2017 wef 01/01/2019]
 
-### Control of use of tobacco products by young persons
+(b) had received from the person to whom the tobacco product was sold, given or furnished evidence purporting to show that that person was not an under-aged person, and that it was reasonable to and he did accept that evidence as correct.
 
-11\.—(1) A person who, being below the age of 18 years —
+[Act 46 of 2017 wef 01/01/2019]
+
+[Act 46 of 2017 wef 01/01/2019]
+
+### Control of use of tobacco products by under-aged persons
+
+11\.—(1) A person who, being an under-aged person —
 
 (a) uses or has in the person’s possession, in a public place or on a road in Singapore, any tobacco product; or
 
@@ -523,15 +535,19 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 9 of 2016 wef 01/08/2016]
 
+[Act 46 of 2017 wef 01/01/2019]
+
 (1A) For the purposes of subsection (1), it does not matter whether the possession or the buying of the tobacco product by the person is for the person’s own use or for someone else to use.
 
 [Act 9 of 2016 wef 01/08/2016]
 
-(2) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being below the age of 18 years, using or about to use any tobacco product or in possession of any tobacco product, the officer may seize the tobacco product.
+(2) Where a police officer or an authorised officer finds in any public place or on a road a person, whom the officer reasonably suspects as being an under-aged person, using or about to use any tobacco product or in possession of any tobacco product, the officer may seize the tobacco product.
 
 [17/2010]
 
 [Act 9 of 2016 wef 01/08/2016]
+
+[Act 46 of 2017 wef 01/01/2019]
 
 (3) In this section —
 
@@ -540,6 +556,8 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 “road” has the same meaning as in the Road Traffic Act (Cap. 276).
 
 [17/2010]
+
+[Act 46 of 2017 wef 01/01/2019]
 
 ### Number of cigarettes in package
 
@@ -643,9 +661,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) in the case of a second or subsequent conviction, to a fine not exceeding $10,000.
 
-(4) In this section, “warning notice” means a notice stating to the effect that the sale of any tobacco product to persons below the age of 18 years is prohibited by law.
+(4) In this section, “warning notice” means a notice stating to the effect that the sale of any tobacco product to under-aged persons is prohibited by law.
 
 [Act 9 of 2016 wef 01/08/2017]
+
+[Act 46 of 2017 wef 01/01/2019]
 
 14\. [Repealed by Act 9 of 2016 wef 30/12/2017]
 
@@ -1203,9 +1223,11 @@ whichever is the lower.
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
-(3) Where the person reasonably suspected of having committed an offence under this Act was below the age of 18 years at the time of the alleged offence, a condition that may be imposed under subsection (1) in compounding the offence includes requiring the person and his parents or guardian to attend at such place as the Chief Executive may specify for the purpose of counselling.
+(3) Where the person reasonably suspected of having committed an offence under this Act was an under‑aged person at the time of the alleged offence, a condition that may be imposed under subsection (1) in compounding the offence includes requiring the person and his parents or guardian to attend at such place as the Chief Executive may specify for the purpose of counselling.
 
 [35/2002]
+
+[Act 46 of 2017 wef 01/01/2019]
 
 ### Fees, charges, etc., collected by Chief Executive or authorised officer
 
@@ -1351,6 +1373,10 @@ This Legislative History is provided for the convenience of users of the Tobacco
 ||Date of First Reading|2 October 2017 (Bill No. 40/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|7 November 2017|
 ||Date of commencement|1 February 2018|
+|18.|**Act 46 of 2017—Tobacco (Control of Advertisements and Sale) (Amendment) Act 2017**|
+||Date of First Reading|2 October 2017 (Bill No. 40/2017 published on 2 October 2017)|
+||Date of Second and Third Readings|7 November 2017|
+||Date of commencement|1 January 2019|
 ## COMPARATIVE TABLE
 
 Tobacco (Control of Advertisements and Sale) Act
