@@ -1120,7 +1120,9 @@ including by virtue of a previous application of this subsection.
 
 15C\.—(1) Where —
 
-(a) the Minister is satisfied that a person has been associated with activities which contravene section 5(1) and the person is detained under an order made under section 30(a) of the Criminal Law (Temporary Provisions) Act (Cap. 67) in connection with such activities; and
+(a) the Minister is satisfied that a person has been associated with activities which contravene section 5(1) and the person is detained under an order made under section 30(1)(a) of the Criminal Law (Temporary Provisions) Act (Cap. 67) in connection with such activities; and
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (b) the Minister has reasonable cause to believe that any property owned or held by any person is proceeds of unlicensed moneylending by reason of the activities referred to in paragraph (a),
 
@@ -1166,9 +1168,11 @@ the Minister may by order specify —
 
 [5/2010]
 
-(6) The correctness, validity or legality of the order made under section 30 or 32 (as the case may be) of the Criminal Law (Temporary Provisions) Act (Cap. 67), or of any ground upon which such order is made, shall not be raised as an issue or called into question in the course of an application under subsection (3) or during any proceedings relating to such application.
+(6) The correctness, validity or legality of the order made under section 30(1) or 32 (as the case may be) of the Criminal Law (Temporary Provisions) Act (Cap. 67), or of any ground upon which such order is made, shall not be raised as an issue or called into question in the course of an application under subsection (3) or during any proceedings relating to such application.
 
 [5/2010]
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (7) A person who makes an application under subsection (3) shall serve a copy of the application on the Attorney-General not later than 7 days before the date fixed for the hearing of the application.
 
@@ -3183,3 +3187,7 @@ The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylende
 ||Date of First Reading|6 November 2017 (Bill No. 48/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|30 November 2018|
+|11.|**Act 12 of 2018—Criminal Law (Temporary Provisions) (Amendment) Act 2018**|
+||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|1 January 2019|
