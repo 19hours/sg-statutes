@@ -86,9 +86,9 @@
 
 - [26B Minimum energy efficiency standards for energy-consuming systems](#Minimum-energy-efficiency-standards-for-energy-consuming-systems)
 
-- [26C Monitoring plans of registered corporations](#Monitoring-plans-of-registered-corporations)
+- [26C (Repealed)](#Repealed)
 
-- [27 Periodic reporting of energy use, greenhouse gas emissions, etc., by registered corporations](#Periodic-reporting-of-energy-use-greenhouse-gas-emissions-etc-by-registered-corporations)
+- [27 Periodic reporting of energy use and production by registered corporations](#Periodic-reporting-of-energy-use-and-production-by-registered-corporations)
 
 - [27A Energy management systems of registered corporations](#Energy-management-systems-of-registered-corporations)
 
@@ -881,7 +881,9 @@ Registration of corporations
 
 (ii) furnish to the Director-General such reports, documents or information as he may require in respect of any business activity or premises of the corporation;
 
-(b) enter the premises of the corporation at reasonable hours and carry out such tests or inspections as the Director-General may think necessary.
+(b) enter the premises of the corporation during normal business hours and carry out such tests or inspections as the Director-General may think necessary.
+
+[Act 23 of 2018 wef 01/01/2019]
 
 (2) Any person who, without reasonable excuse, fails to comply with any requirement of the Director-General under subsection (1)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -955,47 +957,35 @@ and the person must comply with the direction.
 
 [Act 24 of 2017 wef 01/01/2018]
 
-### Monitoring plans of registered corporations
+26C\. [Repealed by Act 23 of 2018 wef 01/01/2019]
 
-26C\.—(1) This section applies to a registered corporation where the greenhouse gas emissions of any business activity or premises, or any part of any business activity or premises, under the operational control of the registered corporation exceeds the threshold prescribed for the purposes of this section.
-
-(2) Section 26 applies for the purpose of ascertaining whether a registered corporation is a registered corporation mentioned in subsection (1), as it applies for the purpose of determining whether a corporation qualifies as a registrable corporation.
-
-(3) The registered corporation must submit to the Director-General, for the Director-General’s approval, a monitoring plan for each business activity or premises or part mentioned in subsection (1), setting out the basis on which the registered corporation ensures the quality of the data required for the computations necessary for its enhanced emissions report under section 27(2).
-
-(4) The registered corporation must, in the prescribed circumstances, revise the monitoring plan and submit the revised monitoring plan to the Director-General, for the Director-General’s approval.
-
-(5) For the purpose of ascertaining the accuracy of a monitoring plan (including a revised monitoring plan) and compliance with this section, the Director-General may in writing direct the registered corporation to, within the time period specified in the direction (or such longer time as the Director-General may allow in the particular case) —
-
-(a) have the plan assessed by an independent third party; and
-
-(b) submit a report on the assessment of the independent third party to the Director-General, in the form and manner specified in the direction,
-
-and the registered corporation must comply with the direction.
-
-(6) Any registered corporation that contravenes subsection (3), (4) or (5) shall be guilty of an offence.
-
-[Act 24 of 2017 wef 01/01/2018]
-
-### Periodic reporting of energy use, greenhouse gas emissions, etc., by registered corporations
+### Periodic reporting of energy use and production by registered corporations
 
 27\.—(1) A registered corporation must submit to the Director-General a report for each prescribed period specifying —
 
-(a) the energy consumption;
+(a) the energy consumption; and
 
-(b) the energy production; and
+[Act 23 of 2018 wef 01/01/2019]
 
-(c) the greenhouse gas emissions,
+(b) the energy production,
+
+[Act 23 of 2018 wef 01/01/2019]
+
+(c) [Deleted by Act 23 of 2018 wef 01/01/2019]
 
 in that period from the operation of each prescribed business activity or premises, or any part of each prescribed business activity or premises, under the operational control of the registered corporation.
 
-(2) Without affecting subsection (1), where the greenhouse gas emissions of any business activity or premises, or any part of the business activity or premises, under the operational control of a registered corporation exceeds the threshold prescribed under section 26C(1), the registered corporation must submit to the Director-General, for the Director-General’s approval, an enhanced emissions report for each prescribed period specifying its greenhouse gas emissions in that period for each such business activity or premises or part.
+(2) [Deleted by Act 23 of 2018 wef 01/01/2019]
 
-(3) The enhanced emissions report of a registered corporation for any prescribed period mentioned in subsection (2) must be prepared based on a monitoring plan (as may be revised) approved under section 26C applicable to that period.
+(3) [Deleted by Act 23 of 2018 wef 01/01/2019]
 
-(4) Any registered corporation that contravenes subsection (1), (2) or (3) shall be guilty of an offence.
+(4) Any registered corporation that contravenes subsection (1) shall be guilty of an offence.
 
 [Act 24 of 2017 wef 01/01/2018]
+
+[Act 23 of 2018 wef 01/01/2019]
+
+[Act 23 of 2018 wef 01/01/2019]
 
 ### Energy management systems of registered corporations
 
@@ -1161,17 +1151,21 @@ and the person must comply with the direction.
 
 (3) Without affecting subsection (2), a person that, in any particular case, is unable to comply with a prescribed minimum energy efficiency standard under section 26B for a prescribed energy-consuming system, may apply in writing to the Director-General for a modification of the standard and the Director-General may, upon being satisfied that there are good reasons to do so, modify the standard, subject to such conditions as the Director-General may impose; and the modified standard applies to the person in lieu of the prescribed standard accordingly.
 
-(4) A person that, in any particular case, is unable to comply with section 26C, 27 or 30 may apply in writing to the Director-General for a waiver and the Director-General may, upon being satisfied that there are good reasons to do so, waive the application of that provision for a specified period of time.
+(4) A person that, in any particular case, is unable to comply with section 27 or 30 may apply in writing to the Director-General for a waiver and the Director-General may, upon being satisfied that there are good reasons to do so, waive the application of that provision for a specified period of time.
 
 [Act 24 of 2017 wef 01/01/2018]
 
+[Act 23 of 2018 wef 01/01/2019]
+
 ### Penalties for non-compliance
 
-32\.—(1) Any person guilty of an offence under section 26A(3) (in relation to a contravention of section 26A(1)(b)), 26B(4) (in relation to a contravention of section 26B(2)(b) or (3)(b)), 26C(6), 27(4), 27A(2), 27B(2), 28(3), 29(3), 30(6) or 31A(3) shall be liable —
+32\.—(1) Any person guilty of an offence under section 26A(3) (in relation to a contravention of section 26A(1)(b)), 26B(4) (in relation to a contravention of section 26B(2)(b) or (3)(b)), 27(4), 27A(2), 27B(2), 28(3), 29(3), 30(6) or 31A(3) shall be liable —
 
 (a) on the first conviction of that offence, to a fine not exceeding $10,000; and
 
 (b) on a second or subsequent conviction of an offence under the same provision (and the same contravention where applicable) or if the person was previously convicted of an offence under a related provision, to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after that second or subsequent conviction.
+
+[Act 23 of 2018 wef 01/01/2019]
 
 (2) The following apply for the purpose of subsection (1)(b):
 
@@ -1442,7 +1436,9 @@ facility operators
 
 (ii) furnish to the sector regulator such reports, documents or information as it may require in respect of any business activity or premises of the airport service operator, land transport operator or port service operator;
 
-(b) enter the premises of the airport service operator, land transport operator or port service operator, as the case may be, at reasonable hours and carry out such tests or inspections as a transport sector authorised officer of the sector regulator may think necessary.
+(b) enter the premises of the airport service operator, land transport operator or port service operator, as the case may be, during normal business hours and carry out such tests or inspections as a transport sector authorised officer of the sector regulator may think necessary.
+
+[Act 23 of 2018 wef 01/01/2019]
 
 (2) Any person who, without reasonable excuse, fails to comply with any requirement of the sector regulator under subsection (1)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
@@ -2028,13 +2024,19 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (iii) registrable corporations;
 
-(b) the form of any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV);
+(b) the form of any application, report, plan or other document mentioned in this Act (except Part IV);
 
-(c) the preparation of any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV), including the person that should prepare the same and any criteria that the person must satisfy;
+[Act 23 of 2018 wef 01/01/2019]
 
-(d) the information and documents to be included in or to accompany any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV);
+(c) the preparation of any application, report, plan or other document mentioned in this Act (except Part IV), including the person that should prepare the same and any criteria that the person must satisfy;
 
-(e) without affecting paragraph (d), in relation to any report or plan mentioned in this Act (except Part IV), the methods, or criteria for the methods, by which the amounts of emissions, reductions, removals, offsets, energy production, energy consumption or any other matters are to be measured or determined, including any one or more of the following:
+[Act 23 of 2018 wef 01/01/2019]
+
+(d) the information and documents to be included in or to accompany any application, report, plan or other document mentioned in this Act (except Part IV);
+
+[Act 23 of 2018 wef 01/01/2019]
+
+(e) without affecting paragraph (d), in relation to any report or plan mentioned in this Act (except Part IV), the methods, or criteria for the methods, by which the amounts of reductions, removals, offsets, energy production, energy consumption or any other matters are to be measured or determined, including any one or more of the following:
 
 (i) conditions relating to the use of different methods or criteria;
 
@@ -2042,13 +2044,21 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (iii) the particular rating given to each of those methods;
 
-(f) the period within which any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV) is to be submitted (including at prescribed intervals);
+[Act 23 of 2018 wef 01/01/2019]
 
-(g) the manner in which any application, report (including a report under section 26C(5)(b)), plan or other document mentioned in this Act (except Part IV) is to be submitted, including the person that should submit the same and any criteria that the person must satisfy;
+(f) the period within which any application, report, plan or other document mentioned in this Act (except Part IV) is to be submitted (including at prescribed intervals);
+
+[Act 23 of 2018 wef 01/01/2019]
+
+(g) the manner in which any application, report, plan or other document mentioned in this Act (except Part IV) is to be submitted, including the person that should submit the same and any criteria that the person must satisfy;
+
+[Act 23 of 2018 wef 01/01/2019]
 
 (h) the implementation of energy efficiency measures proposed in any energy efficiency improvement plan under section 28;
 
-(i) the criteria which any person (including an independent third party under section 26C(5)(a)) carrying out any assessment required under this Act (except Part IV) must satisfy;
+(i) the criteria which any person carrying out any assessment required under this Act (except Part IV) must satisfy;
+
+[Act 23 of 2018 wef 01/01/2019]
 
 (j) in relation to an energy manager under Part III —
 
@@ -2068,9 +2078,11 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (a) for different classes, descriptions or types of goods, persons or industry sectors; and
 
-(b) for different circumstances (including, in relation to subsection (2)(e), the circumstances in which the emissions, reductions, removals, offsets, energy production, energy consumption or other matters occur).
+(b) for different circumstances (including, in relation to subsection (2)(e), the circumstances in which the reductions, removals, offsets, energy production, energy consumption or other matters occur).
 
 [Act 24 of 2017 wef 01/01/2018]
+
+[Act 23 of 2018 wef 01/01/2019]
 
 (3) The Minister may make regulations for the purpose of coordinating the exercise of powers by the Director-General under this Act and the exercise of powers by any other sector regulator referred to in Part IV, and may, in particular, make regulations to provide for the procedure to be followed —
 
@@ -2182,3 +2194,7 @@ This Legislative History is provided for the convenience of users of the Energy 
 ||Date of First Reading|9 March 2017 (Bill No. 17/2017 published on 9 March 2017)|
 ||Date of Second and Third Readings|3 April 2017|
 ||Date of commencement|1 January 2018|
+|5.|**Act 23 of 2018—Carbon Pricing Act 2018**|
+||Date of First Reading|2 March 2018 (Bill No. 17/2018 published on 2 March 2018)|
+||Date of Second and Third Readings|20 March 2018|
+||Date of commencement|1 January 2019|
