@@ -1086,7 +1086,9 @@ PRELIMINARY
 
 (c) supervision order made under section 16 of the Intoxicating Substances Act (Cap. 146A);
 
-(d) order made under section 30 of the Criminal Law (Temporary Provisions) Act (Cap. 67); and
+(d) order made under section 30(1) of the Criminal Law (Temporary Provisions) Act (Cap. 67); and
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (e) order as may be prescribed by the Minister charged with the responsibility for home affairs to be a criminal record for the purposes of this Code;
 
@@ -7383,7 +7385,9 @@ COMMUNITY SENTENCES
 
 [Act 19 of 2018 wef 31/10/2018]
 
-(f) a person who had previously been detained or subject to police supervision under section 30 of the Criminal Law (Temporary Provisions) Act (Cap. 67);
+(f) a person who had previously been detained or subject to police supervision under section 30(1) of the Criminal Law (Temporary Provisions) Act (Cap. 67);
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (g) a person who has been admitted —
 
@@ -19380,3 +19384,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of commencement|18 December 2018|
 |28.|**G. N. No. S 820/2018—Criminal Procedure Code (Amendment of Second Schedule) (No. 2) Order 2018**|
 ||Date of commencement|18 December 2018|
+|29.|**Act 12 of 2018—Criminal Law (Temporary Provisions) (Amendment) Act 2018**|
+||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|1 January 2019|
