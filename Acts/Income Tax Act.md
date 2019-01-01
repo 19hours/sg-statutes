@@ -6828,8 +6828,6 @@ then the write-back or profit referred to in paragraph (b) shall be regarded as 
 
 “FRS 109” and “SFRS(I) 9” have the meanings given to those expressions in section 34AA(15).
 
-[29/2012]
-
 [Act 32 of 2019 wef 12/11/2018]
 
 ## PART V
@@ -9730,6 +9728,8 @@ shall be allowed the deduction or further deduction for the previous expense und
 
 (d) in accordance with FRS 38 or SFRS(I) 1-38 (as the case may be), amortisation of the asset is recognised in the person’s financial statements for the basis period for the year of assessment 2012 or any subsequent year of assessment,
 
+[Act 32 of 2019 wef 12/11/2018]
+
 then the amount of the amortisation that is recognised in the person’s financial statements as an expense in accordance with FRS 38 or SFRS(I) 1-38 (as the case may be), shall be allowed to the person as a deduction against an amount that is deemed as income derived by that person for that basis period under section 10F(1A) or (1C).
 
 [19/2013]
@@ -10430,7 +10430,9 @@ a chauffeured private hire car or taxi, as the case may be; and
 
 [Act 37 of 2014 wef 01/09/2014]
 
-(m) any amount of output tax paid or payable under the Goods and Services Tax Act which is borne by the person if he is registered as a taxable person under that Act;
+(m) any amount of output tax paid or payable under the Goods and Services Tax Act which is borne by the person if he is registered as a taxable person under that Act, but not any amount of output tax paid or payable on a reverse charge supply under section 14(2) of that Act, to the extent that credit of such amount as input tax is not allowed under that Act;
+
+[Act 52 of 2018 wef 01/01/2019]
 
 (n) [Deleted by Act 37 of 2014 wef 01/09/2014]
 
@@ -12996,11 +12998,15 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (b) either —
 
-(i) deducting from the balance so arrived at the net increase between the beginning and ending values of the period for which the gains or profits are ascertained, of the liabilities of the insurer in respect of policies other than life policies, both values being determined in accordance with the Insurance Act (Cap. 142); or
+(i) deducting from the balance so arrived at the net increase between the beginning and ending values of the period for which the gains or profits are ascertained, of the liabilities of the insurer in respect of policies other than life policies, both values being determined in accordance with the Insurance Act (Cap. 142) after deducting any liability in respect of reinsurance ceded to a reinsurer; or
 
-(ii) adding to the balance so arrived at the net decrease between the beginning and ending values of the period for which the gains or profits are ascertained, of the liabilities of the insurer in respect of policies other than life policies, both values being determined in accordance with the Insurance Act; and
+[Act 32 of 2019 wef 01/01/2019]
+
+(ii) adding to the balance so arrived at the net decrease between the beginning and ending values of the period for which the gains or profits are ascertained, of the liabilities of the insurer in respect of policies other than life policies, both values being determined in accordance with the Insurance Act after deducting any liability in respect of reinsurance ceded to a reinsurer; and
 
 [Act 39 of 2017 wef 26/10/2017]
+
+[Act 32 of 2019 wef 01/01/2019]
 
 (c) [Deleted by Act 39 of 2017 wef 26/10/2017]
 
@@ -13194,9 +13200,11 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 [Act 39 of 2017 wef 01/06/2017]
 
-(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act; and
+(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act and after deducting any liability in respect of reinsurance ceded to a reinsurer; and
 
 [Act 39 of 2017 wef 01/06/2017]
+
+[Act 32 of 2019 wef 01/01/2019]
 
 (iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies; and
 
@@ -13210,9 +13218,11 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (iii) moneys paid or payable on the surrender of offshore non‑participating and offshore investment‑linked policies; and
 
-(iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+(iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund relating to offshore non‑participating and offshore investment‑linked policies of the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act and after deducting any liability in respect of reinsurance ceded to a reinsurer;
 
 [Act 39 of 2017 wef 01/06/2017]
+
+[Act 32 of 2019 wef 01/01/2019]
 
 “offshore life insurance surplus”, in relation to an insurer under subsection (7A)(a)(i), means the amount ascertained by taking the following steps:
 
@@ -13220,7 +13230,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (i) the gross premiums (including consideration paid or payable for the purchase of annuities) from its offshore non-participating reinsurance policies of any life insurance fund (less any premiums returned to the insured and premiums paid or payable on reinsurance);
 
-(ii) the net decrease between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its offshore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+(ii) the net decrease between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its offshore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act and after deducting any liability in respect of reinsurance ceded to a reinsurer;
+
+[Act 32 of 2019 wef 01/01/2019]
 
 (iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of the part of any life insurance fund relating to its offshore non-participating reinsurance policies;
 
@@ -13232,9 +13244,11 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (iii) moneys paid or payable on the surrender of its offshore non-participating reinsurance policies;
 
-(iv) the net increase between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its offshore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+(iv) the net increase between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its offshore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act and after deducting any liability in respect of reinsurance ceded to a reinsurer;
 
 [Act 39 of 2017 wef 01/06/2017]
+
+[Act 32 of 2019 wef 01/01/2019]
 
 “offshore life reinsurance business” means the business of reinsuring the liability of a life policy, or an accident and health policy, of any life insurance fund, not being a Singapore policy within the meaning of the Insurance Act;
 
@@ -13256,7 +13270,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (i) the gross premiums (including consideration paid or payable for the purchase of annuities) from its Singapore non-participating reinsurance policies of any life insurance fund (less any premiums returned to the insured and premiums paid or payable on reinsurance);
 
-(ii) the net decrease between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its Singapore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+(ii) the net decrease between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its Singapore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act and after deducting any liability in respect of reinsurance ceded to a reinsurer;
+
+[Act 32 of 2019 wef 01/01/2019]
 
 (iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of the part of any life insurance fund relating to its Singapore non-participating reinsurance policies;
 
@@ -13268,9 +13284,11 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (iii) moneys paid or payable on the surrender of its Singapore non-participating reinsurance policies;
 
-(iv) the net increase between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its Singapore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+(iv) the net increase between the beginning and ending values of the policy liabilities of the part of any life insurance fund relating to its Singapore non-participating reinsurance policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act and after deducting any liability in respect of reinsurance ceded to a reinsurer;
 
 [Act 39 of 2017 wef 01/06/2017]
+
+[Act 32 of 2019 wef 01/01/2019]
 
 “onshore life insurance surplus”, in relation to the non-participating fund and the investment-linked fund of an insurer, means the amount ascertained by taking the following steps:
 
@@ -13278,7 +13296,9 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (i) the gross premiums (including consideration paid or payable for the purchase of annuities) from Singapore non-participating and Singapore investment-linked policies of any life insurance fund (less any premiums returned to the insured and premiums paid or payable on reinsurance);
 
-(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund relating to Singapore non-participating and Singapore investment-linked policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+(ii) the net decrease between the beginning and ending values of the policy liabilities of any life insurance fund relating to Singapore non-participating and Singapore investment-linked policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act and after deducting any liability in respect of reinsurance ceded to a reinsurer;
+
+[Act 32 of 2019 wef 01/01/2019]
 
 (iii) the investment income and gains or profits derived from the sale of investments and other income, whether derived from Singapore or elsewhere, of any life insurance fund relating to Singapore non-participating and Singapore investment-linked policies;
 
@@ -13290,9 +13310,11 @@ ASCERTAINMENT OF CERTAIN INCOME
 
 (iii) moneys paid or payable on the surrender of Singapore non-participating and Singapore investment-linked policies;
 
-(iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund relating to Singapore non-participating and Singapore investment-linked policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act;
+(iv) the net increase between the beginning and ending values of the policy liabilities of any life insurance fund relating to Singapore non-participating and Singapore investment-linked policies for the period for which the gains or profits are ascertained, both values being determined in accordance with the Insurance Act and after deducting any liability in respect of reinsurance ceded to a reinsurer;
 
 [Act 39 of 2017 wef 01/06/2017]
+
+[Act 32 of 2019 wef 01/01/2019]
 
 “onshore life reinsurance business” means the business of reinsuring the liability of —
 
@@ -13310,9 +13332,15 @@ being a Singapore policy within the meaning of the Insurance Act;
 
 “participating fund” means an insurance fund established and maintained under section 17(2) of the Insurance Act which comprises wholly or partly of participating policies;
 
-“policy liabilities”, in relation to the non-participating fund and the investment-linked fund of an insurer, means liabilities in respect of policies for which the non-participating fund and investment-linked fund are established and maintained under section 17 of the Insurance Act;
+“policy liabilities”, in relation to the non-participating fund and the investment-linked fund of an insurer, means liabilities in respect of policies for which the non-participating fund and investment-linked fund are established and maintained under section 17 of the Insurance Act, but excludes liabilities ceded to a reinsurer;
+
+[Act 32 of 2019 wef 01/01/2019]
 
 “policy moneys” has the same meaning as in the Insurance Act;
+
+“reinsurer” has the meaning given by section 1A of the Insurance Act;
+
+[Act 32 of 2019 wef 01/01/2019]
 
 [Deleted by Act 19 of 2013 wef Y/A 2015]
 
@@ -21114,8 +21142,6 @@ then that concessionary rate of tax applies to such income if the company remain
 
 (d) for the year of assessment 2013 and subsequent years of assessment, foreign exchange and risk management activities which are carried out in connection with and incidental to the leasing referred to in paragraph (c);
 
-[34/2008; 29/2012]
-
 [Act 32 of 2019 wef 12/12/2018]
 
 (e) the leasing of any container used for international transportation of goods, if the container was —
@@ -21135,6 +21161,8 @@ then that concessionary rate of tax applies to such income if the company remain
 [Act 32 of 2019 wef 12/12/2018]
 
 (g) foreign exchange and risk management activities that are carried out in connection with and incidental to the leases mentioned in paragraphs (e) and (f).
+
+[34/2008; 29/2012]
 
 [Act 32 of 2019 wef 12/12/2018]
 
@@ -21228,13 +21256,13 @@ except that the Minister may extend the period so specified for such further per
 
 “registered business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
 
-[34/2008; 29/2012]
-
 [Act 32 of 2019 wef 12/12/2018]
 
 “related party”, in relation to an approved container investment enterprise, means any entity that is related to the approved container investment enterprise in such manner as may be prescribed by rules made under section 7.
 
 [Act 32 of 2019 wef 12/12/2018]
+
+[34/2008; 29/2012]
 
 (8) Rules made for the purpose of the definition of “related party” in subsection (7) may be made to take effect from (and including) 12 December 2018.
 
@@ -28085,7 +28113,11 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of First Reading|25 January 2016 (Bill No. 1/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|30 November 2018|
-|203.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
+|203.|**Act 52 of 2018—Goods and Services Tax (Amendment) Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 46/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|19 November 2018|
+||Date of commencement|1 January 2019|
+|204.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
 ||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
 ||Date of Second and Third Readings|7 October 2019|
 ||Date of commencement|1 January 2018|
@@ -28093,6 +28125,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||12 December 2018|
 |||20 December 2018|
 |||31 December 2018|
+|||1 January 2019|
 ## COMPARATIVE TABLE
 
 Income Tax Act
