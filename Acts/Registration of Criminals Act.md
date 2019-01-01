@@ -340,7 +340,9 @@ and the registrable particulars related thereto;
 
 (b) has not been unlawfully at large in relation to any crime;
 
-(c) has not been detained or subject to police supervision under section 30 of the Criminal Law (Temporary Provisions) Act (Cap. 67); and
+(c) has not been detained or subject to police supervision under section 30(1) of the Criminal Law (Temporary Provisions) Act (Cap. 67); and
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (d) has not been subject to a supervision order or admitted to an approved institution under the Misuse of Drugs Act (Cap. 185) or admitted to an approved centre under the Intoxicating Substances Act (Cap. 146A);
 
@@ -372,7 +374,9 @@ and the registrable particulars related thereto;
 
 (ii) an approved centre under the Intoxicating Substances Act (Cap. 146A);
 
-(d) he has been detained or subject to police supervision under section 30 of the Criminal Law (Temporary Provisions) Act (Cap. 67) at any time before that conviction;
+(d) he has been detained or subject to police supervision under section 30(1) of the Criminal Law (Temporary Provisions) Act (Cap. 67) at any time before that conviction;
+
+[Act 12 of 2018 wef 01/01/2019]
 
 (e) for the time being, he has a warrant of arrest for any offence issued against him which remains unexecuted;
 
@@ -1434,11 +1438,11 @@ Road Traffic Act [Cap. 276]
 
 Sections 66(1) and 96(1).
 
-Secondhand Dealers Act
+Secondhand Dealers Act [Cap. 288 of the 1985 Revised Edition]
 
 …
 
-Cap. 288 of the 1985 Revised Edition
+Section 10(3).
 
 Secondhand Goods Dealers Act 2007
 
@@ -2098,3 +2102,7 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|31 August 2018|
+|43.|**Act 12 of 2018—Criminal Law (Temporary Provisions) (Amendment) Act 2018**|
+||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|1 January 2019|
