@@ -100,9 +100,9 @@
 
 - [32A Obstruction of public streets, five-footways and private footways](#Obstruction-of-public-streets-five-footways-and-private-footways)
 
-- [33 Wilful damage to Government’s property and hindrance of Authority’s use of such property](#Wilful-damage-to-Government’s-property-and-hindrance-of-Authority’s-use-of-such-property)
+- [33 Damaging public streets, etc.](#Damaging-public-streets-etc)
 
-- [34 Accidental removal, destruction or damage to Government’s property](#Accidental-removal-destruction-or-damage-to-Government’s-property)
+- [34 (Repealed)](#Repealed)
 
 - [35 Mandatory order](#Mandatory-order)
 
@@ -131,6 +131,8 @@
 - [47 Service of notices](#Service-of-notices)
 
 - [48 Receipts and notices may be given by authorised officer](#Receipts-and-notices-may-be-given-by-authorised-officer)
+
+- [48A Protection from personal liability](#Protection-from-personal-liability)
 
 - [49 General penalties](#General-penalties)
 
@@ -210,9 +212,9 @@ PRELIMINARY
 
 “Chief Executive” means the Chief Executive of the Authority;
 
-“competent authority” means any competent authority appointed under section 5 of the Planning Act 1998;
+“competent authority” means any person who is appointed under section 5 of the Planning Act (Cap. 232) for the purposes of Part III of that Act;
 
-[3/98 wef 01/04/1998]
+[Act 38 of 2018 wef 02/01/2019]
 
 “dwelling-house” includes a building or tenement wholly or principally used, constructed or adapted for use for human habitation;
 
@@ -225,6 +227,16 @@ PRELIMINARY
 “key structural elements” means culverts, retaining walls, bridges and such other parts of a street which are essential for the stability or safety of the street;
 
 “occupier”, in relation to any premises, means the person in occupation of the premises or having the charge, management or control thereof either on his own account or as agent of another person, but does not include a lodger;
+
+“outsourced enforcement officer”, in relation to any provision of this Act or regulations made under this Act, means an individual who —
+
+(a) is appointed under section 11 of the Land Transport Authority of Singapore Act;
+
+(b) is authorised by or under that Act to exercise any powers under any provision of this Act or regulations made under this Act, as the case may be; and
+
+(c) is acting within that authorisation;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “owner”, in relation to any premises, means the person for the time being receiving the rent of the premises whether on his own account or as agent or trustee for any other person or as receiver or who would receive the rent if the premises were let to a tenant, and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act [Cap. 254];
 
@@ -300,7 +312,9 @@ and all channels, drains, ditches and reserves that are deemed to be part of the
 
 ### Authority to manage, maintain and repair public streets and administer this Act
 
-4\.—(1) The Authority shall be responsible for the management, maintenance and repair of all public streets, including the footways and road related facilities thereof, and for the general administration of this Act.
+4\.—(1) The Authority shall be responsible for the management, maintenance and repair of all public streets, including the footways and road related facilities thereof (but not channels, drains, ditches and reserves abutting a street), and for the general administration of this Act.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (2) The Authority may, subject to such conditions or restrictions as it thinks fit, appoint public officers and officers employed by other statutory bodies to carry out any of its powers, functions and duties under this Act.
 
@@ -1280,45 +1294,51 @@ so as to create any obstruction or inconvenience to the passage of the public on
 
 [11/2003 wef 01/08/2003]
 
-(3) Where an authorised officer finds on any public street, five-footway or private footway any article or thing which has been deposited or left to remain there in contravention of subsection (1), he may, by notice in writing, direct —
+(3) If any article or thing is deposited or left on any public street, five‑footway or private footway in contravention of subsection (1), an authorised officer may move that article or thing, or cause it to be so removed, so that it is no longer an obstruction or inconvenience to the passage of the public on the public street, five‑footway or private footway.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(3A) An authorised officer must not exercise a power under subsection (3) unless the officer has taken reasonable steps to inform the following persons (if known), whoever is relevant, of the officer’s intention to exercise that power, and allowed or directed the person to move the article or thing:
 
 (a) the owner of the article or thing;
 
-(b) the person who caused the article or thing to be deposited or to remain on the public street, five-footway or private footway; or
+(b) the person who caused the article or thing to be deposited or to remain on the public street, five‑footway or private footway;
 
-(c) the owner or occupier of any land or building fronting, adjoining or abutting on the public street, five-footway or private footway,
+(c) the owner or occupier of any land or building fronting, adjoining or abutting on the public street, five‑footway or private footway.
 
-to remove the article or thing within such time as may be specified in the notice.
+[Act 38 of 2018 wef 02/01/2019]
+
+(4) For the purpose of exercising a power under subsection (3), an authorised officer may, with such assistance as the officer considers necessary —
+
+(a) move the article or thing by any reasonable means (including by towing it) to store at a place of safety; and
+
+(b) use reasonable force, including cutting or breaking open any lock, seal, fastener or other device on or connected to the article or thing.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(4A) A person must remove any article or thing where allowed or directed to do so by an authorised officer under subsection (3A).
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(4B) A person who, without reasonable excuse, fails to comply with subsection (4A) shall be guilty of an offence.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5) Where any article or thing has been removed from a public street, five-footway or private footway under subsection (3), the Authority may recover any costs reasonably incurred by it in connection with such removal and the storage of the article or thing by the Authority, from the owner of the article or thing or from the person who caused the article or thing to be deposited or to remain on the public street, five-footway or private footway.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [11/2003 wef 01/08/2003]
 
-[6/2004 wef 08/03/2004]
-
-(4) Where any person on whom a notice under subsection (3) has been served fails, without reasonable excuse, to comply with it —
-
-(a) he shall be guilty of an offence; and
-
-(b) an authorised officer may remove or cause the article or thing to be removed and detain the article or thing, at the risk of its owner, at such place as the authorised officer may determine.
-
-[11/2003 wef 01/08/2003]
-
-[6/2004 wef 08/03/2004]
-
-(4A) For the purpose of exercising his power under subsection (4)(b) of removing an article or thing or causing an article or thing to be removed, an authorised officer may, with such assistance as he considers necessary, cut or break open any lock, seal, fastener or other device on or connected to the article or thing.
-
-[Act 3 of 2017 wef 20/06/2017]
-
-(5) Where any article or thing has been removed from a public street, five-footway or private footway under subsection (4)(b), the Authority may recover any costs reasonably incurred by it in connection with such removal from the owner of the article or thing or from the person who caused the article or thing to be deposited or to remain on the public street, five-footway or private footway.
-
-[11/2003 wef 01/08/2003]
-
-(6) Where an authorised officer has removed any article or thing under subsection (4)(b), he shall cause a notice in writing to be sent to the owner of the article or thing to inform such owner of —
+(6) Where an authorised officer has removed any article or thing under subsection (3), he shall cause a notice in writing to be sent to the owner of the article or thing (if known) to inform such owner of —
 
 (a) the removal of the article or thing;
 
 (b) the manner by which and the time within which such owner may procure the release of the article or thing; and
 
 (c) the consequences that may follow under subsections (7) and (8) if the article or thing is not claimed within the time specified in the notice.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [11/2003 wef 01/08/2003]
 
@@ -1328,13 +1348,17 @@ to remove the article or thing within such time as may be specified in the notic
 
 [11/2003 wef 01/08/2003]
 
-(8) Where any article or thing has been sold under subsection (7), the proceeds of the sale shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any regulations made thereunder and the surplus, if any, shall be paid to the owner of the article or thing, or if not claimed by such owner within 12 months of the date of the sale, shall be forfeited to the Authority.
+(8) Where any article or thing has been sold under subsection (7), the proceeds of the sale shall be applied in payment of any expenses incurred in removing, storing and disposing of the article or thing under this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any regulations made thereunder and the surplus, if any, shall be paid to the owner of the article or thing, or if not claimed by such owner within 12 months of the date of the sale, shall be forfeited to the Authority.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [11/2003 wef 01/08/2003]
 
 (9) In addition to the methods of service under section 47 —
 
-(a) a notice referred to in subsection (3) may be served by affixing it to the article or thing in respect of which it applies; and
+(a) information required under subsection (3A) may be given by affixing it to the article or thing in respect of which it applies; and
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) a notice referred to in subsection (6) may be served by posting it conspicuously at or near the part of the public street, five-footway or private footway from which the article or thing was removed, if the name and address of the owner of the article or thing are unknown or cannot be ascertained despite reasonable diligence.
 
@@ -1346,33 +1370,65 @@ to remove the article or thing within such time as may be specified in the notic
 
 [6/2004 wef 08/03/2004]
 
-(11) Any person who is guilty of an offence under subsection (2) or (4)(a) shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+(11) Any person who is guilty of an offence under subsection (2) or (4B) shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [11/2003 wef 01/08/2003]
 
-(12) In this section, “authorised officer” means any employee of the Authority and any other person appointed by the Authority under section 4 to assist in the enforcement of this section.
+(12) In this section, “authorised officer” means any employee of the Authority, any outsourced enforcement officer and any other person appointed by the Authority under section 4 to assist in the enforcement of this section.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [6/2004 wef 08/03/2004]
 
-(13) This section does not apply in relation to any public path that is a footpath or shared path (within the meaning of the Active Mobility Act 2017) that is not on State land.
+(13) This section does not apply in relation to any public path (within the meaning of the Active Mobility Act 2017) that is not on State land.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [Act 3 of 2017 wef 01/05/2018]
 
-### Wilful damage to Government’s property and hindrance of Authority’s use of such property
+### Damaging public streets, etc.
 
-33\. If any person —
+33\.—(1) A person commits an offence if —
 
-(a) wilfully removes, destroys or damages any property belonging to the Government by virtue of this Act or acquired by the Government for the purposes thereof; or
+(a) the person intentionally, recklessly or negligently engages in conduct that causes damage to —
 
-(b) hinders or prevents such property from being used or operated in the manner in which it is intended to be used or operated,
+(i) a public street; or
 
-he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both and the court may order him to pay compensation to the Government for any damage done by him.
+(ii) any property belonging to the Government by virtue of this Act, or acquired by the Government under this Act, which is in, on or under a public street;
 
-### Accidental removal, destruction or damage to Government’s property
+(b) the person does not have the prior written approval of the Authority to engage in such conduct; and
 
-34\.—(1) Any person who carelessly or accidentally removes, destroys or damages any property belonging to the Government by virtue of this Act or acquired by the Government for purposes thereof shall pay by way of compensation to the Government such sum of money not exceeding $10,000 as the court thinks reasonable.
+(c) the damage —
 
-(2) Nothing in subsection (1) shall prevent the Government from taking legal proceedings for the recovery of the full amount of the damage caused by such person.
+(i) to the public street prevents or substantially prevents the passage of pedestrians or vehicular traffic on or other use of the public street; or
+
+(ii) to the property belonging to or acquired by the Government prevents or substantially prevents the property from being used or operated in the manner in which it is intended to be used or operated.
+
+(2) A person who commits an offence under subsection (1) shall be guilty of an offence and shall be liable on conviction as follows:
+
+(a) for intentionally engaging in conduct which is the offence, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 6 months or to both;
+
+(b) for any other case, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(3) Whether or not any proceedings for an offence under subsection (1) is instituted or results in a conviction, the Authority may recover from any person who engaged in conduct that caused damage to —
+
+(a) any public street; or
+
+(b) any property belonging to the Government by virtue of this Act, or acquired by the Government under this Act, which is in, on or under a public street,
+
+the full amount of the damage caused.
+
+(4) In this section —
+
+“conduct” means any act or omission, any series of acts or omissions, or both;
+
+“engage in conduct” means engage, whether directly or indirectly, in conduct either alone or together with any other person or persons.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+34\. [Deleted by Act 38 of 2018 wef 02/01/2019]
 
 ### Mandatory order
 
@@ -1508,6 +1564,12 @@ at any time before such notice of transfer as is required by section 19 of the P
 
 (2) Any such notice, order, warrant, receipt or document given by the Authority under this Act or any regulations made thereunder may be given electronically, in writing or otherwise, as the Authority may determine, and it shall not be a requirement that such notice, order, warrant, receipt or document must contain the signature of the Authority or any authorised officer.
 
+### Protection from personal liability
+
+48A\. No liability shall lie against any member, officer or employee of the Authority or any other person acting under the direction of the Authority for anything done or intended to be done with reasonable care and in good faith in the execution or purported execution of this Act.
+
+[Act 38 of 2018 wef 02/01/2019]
+
 ### General penalties
 
 49\. Any person guilty of an offence under this Act or any regulations made thereunder for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $2,000.
@@ -1530,11 +1592,21 @@ at any time before such notice of transfer as is required by section 19 of the P
 
 ### Composition of offences
 
-52\.—(1) The Authority may, in its discretion, compound any offence under this Act or any regulations made thereunder which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
+52\.—(1) The Authority may compound any offence under this Act or any regulations made thereunder that is prescribed as being an offence which may be compounded by doing one or both of the following:
 
-(2) The Authority may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
+(a) by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(3) All sums collected under this section shall be paid to the Authority.
+(i) one half of the amount of the maximum fine that is prescribed for the offence;
+
+(ii) $5,000;
+
+(b) by requiring the person reasonably suspected of having committed the offence to do, or to refrain from doing, such things as are specified in an offer of composition (called conditions of composition) by the Authority, with the concurrence (general or specific) of the Public Prosecutor.
+
+(2) On payment of such sum of money and on full compliance with the conditions of composition, no further proceedings are to be taken against that person in respect of the offence.
+
+(3) All sums collected under this section must be paid into the Consolidated Fund.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Regulations
 
@@ -1656,3 +1728,8 @@ Street Works Act
 |||(Bill No. 40/2016)|
 ||Date of Second and Third Readings|10 January 2017|
 ||Date of commencement|1 May 2018|
+|9.|**Act 38 of 2018—Land Transport (Enforcement Measures) Act 2018**|
+||Date of First Reading|6 August 2018|
+|||(Bill No. 29/2018)|
+||Date of Second and Third Readings|10 September 2018|
+||Date of commencement|2 January 2019|
