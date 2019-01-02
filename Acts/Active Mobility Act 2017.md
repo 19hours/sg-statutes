@@ -56,11 +56,13 @@
 
 - [17 No motor cars, etc., on shared paths](#No-motor-cars-etc-on-shared-paths)
 
-- [18 Vehicle banned for specific public path](#Vehicle-banned-for-specific-public-path)
+- [18 Vehicle banned for public path](#Vehicle-banned-for-public-path)
 
 - [19 Non‑compliant personal mobility devices, etc.](#Non‑compliant-personal-mobility-devices-etc)
 
 - [20 Excepted use of non‑compliant personal mobility devices, etc.](#Excepted-use-of-non‑compliant-personal-mobility-devices-etc)
+
+- [20A Riding without displaying registration marks, etc.](#Riding-without-displaying-registration-marks-etc)
 
 - [21 Speeding on public paths](#Speeding-on-public-paths)
 
@@ -76,11 +78,27 @@
 
 [**Division 4  Wayfinding and maintaining clear public paths**](#Division-4--Wayfinding-and-maintaining-clear-public-paths)
 
-- [26 Wayfinding signs for public paths](#Wayfinding-signs-for-public-paths)
+- [26 Signs for public paths](#Signs-for-public-paths)
 
 - [27 Maintaining wayfinding signs for public paths](#Maintaining-wayfinding-signs-for-public-paths)
 
 - [28 Obstructing public paths, etc.](#Obstructing-public-paths-etc)
+
+[**Part 3A REGISTRATION OF REGISTRABLE PERSONAL MOBILITY DEVICES**](#Part-3A)
+
+- [28A Purpose of this Part](#Purpose-of-this-Part)
+
+- [28B Mandatory registration of registrable personal mobility devices](#Mandatory-registration-of-registrable-personal-mobility-devices)
+
+- [28C Registration marks](#Registration-marks)
+
+- [28D Cancellation of registration](#Cancellation-of-registration)
+
+- [28E Registrable PMD register](#Registrable-PMD-register)
+
+- [28F Registrable PMD register as evidence](#Registrable-PMD-register-as-evidence)
+
+- [28G General obligations of registered responsible persons](#General-obligations-of-registered-responsible-persons)
 
 [**Part 4 DEALING IN PERSONAL MOBILITY DEVICES, ETC.**](#Part-4)
 
@@ -112,7 +130,7 @@
 
 - [40 Volunteer public path wardens](#Volunteer-public-path-wardens)
 
-- [41 Powers of public path wardens and volunteer public path wardens](#Powers-of-public-path-wardens-and-volunteer-public-path-wardens)
+- [41 Powers of public path wardens and volunteer public path wardens, etc.](#Powers-of-public-path-wardens-and-volunteer-public-path-wardens-etc)
 
 - [42 Identification cards and equipment](#Identification-cards-and-equipment)
 
@@ -120,7 +138,7 @@
 
 [**Division 2  Enforcement powers**](#Division-2--Enforcement-powers)
 
-- [44 Powers to inspect premises, etc., for Part 4 matters](#Powers-to-inspect-premises-etc-for-Part-4-matters)
+- [44 Powers to inspect premises, etc., for Part 3A or 4 matters](#Powers-to-inspect-premises-etc-for-Part-3A-or-4-matters)
 
 - [45 Power to move vehicles](#Power-to-move-vehicles)
 
@@ -154,6 +172,8 @@
 
 - [59 Strict liability](#Strict-liability)
 
+- [59A Presumption of vehicle owner riding or driving](#Presumption-of-vehicle-owner-riding-or-driving)
+
 - [60 Offences by corporations](#Offences-by-corporations)
 
 - [61 Offences by unincorporated associations or partnerships](#Offences-by-unincorporated-associations-or-partnerships)
@@ -171,6 +191,8 @@
 - [66 General exemption](#General-exemption)
 
 - [67 Regulations](#Regulations)
+
+- [67A Incorporation by reference](#Incorporation-by-reference)
 
 [**Part 7 CONSEQUENTIAL AND RELATED AMENDMENTS TO OTHER ACTS**](#Part-7)
 
@@ -314,13 +336,49 @@ PRELIMINARY
 
 (b) is propelled by a motor that forms part of the wheelchair;
 
-“non‑compliant bicycle” means a bicycle the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed under the Road Traffic Act (Cap. 276) either for all bicycles generally or for the particular type of that bicycle;
+“non‑compliant bicycle” means a bicycle the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed either for all bicycles generally or for the particular type of that bicycle;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “non‑compliant personal mobility device” means a personal mobility device the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed either for all personal mobility devices generally or for the particular type of that personal mobility device;
 
-“non‑compliant power‑assisted bicycle” means a power‑assisted bicycle the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed under the Road Traffic Act either for all power‑assisted bicycles generally or for the particular type of that power‑assisted bicycle;
+“non‑compliant power‑assisted bicycle” means a power‑assisted bicycle the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed either for all power‑assisted bicycles generally or for the particular type of that power‑assisted bicycle;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “notice” does not include giving notice orally;
+
+“outsourced enforcement officer”, in relation to any provision of this Act or the regulations, means an individual who —
+
+(a) is appointed under section 11 of the Land Transport Authority of Singapore Act;
+
+(b) is authorised by or under that Act to exercise any powers under any provision of this Act or regulations made under this Act, as the case may be; and
+
+(c) is acting within that authorisation;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+“owner”, in relation to a bicycle, PAB, personal mobility device, motorised wheelchair or mobility scooter, means —
+
+(a) for a registrable personal mobility device — the person who is recorded in the registrable PMD register as the registered responsible person for that device at the relevant time;
+
+(b) for a PAB — the person who is registered as the owner of the PAB under the Road Traffic Act (Cap. 276) at the relevant time;
+
+(c) for a registrable personal mobility device the registration of which under Part 3A is cancelled, or a PAB the registration of which under the Road Traffic Act is cancelled — the following person, as applicable:
+
+(i) the person who is last recorded in the registrable PMD register as the registered responsible person for that device;
+
+(ii) the person who is last recorded as the owner for that PAB under the Road Traffic Act; and
+
+(d) for any other vehicle — the person who is —
+
+(i) a sole or joint owner of the vehicle;
+
+(ii) a person who solely, or jointly or in common with any other person, is entitled to the immediate possession of the vehicle; or
+
+(iii) for a vehicle which is the subject of a hiring agreement or hire-purchase agreement, the person in possession or entitled to possession of the vehicle under that agreement;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “path” does not include the following, whether or not contiguous with another path or a road:
 
@@ -406,6 +464,26 @@ and includes a skateboard, but does not include a bicycle, power‑assisted bicy
 
 “public path warden” means an individual who is appointed under section 39 as a public path warden, and includes any authorised officer;
 
+“registered responsible person”, in relation to a registrable personal mobility device, means any person recorded in the registrable PMD register as the responsible person for the registrable personal mobility device;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+“registrable personal mobility device” means a personal mobility device of the description prescribed by the Minister by order in theGazette;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+“registrable PMD register” means the register of registrable personal mobility devices required by section 28E to be established and maintained by the Authority;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+“registration”, in relation to a personal mobility device, means registration of the personal mobility device in the registrable PMD register, and “registered” has a corresponding meaning;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+“registration code” means a series of numbers or alphanumeric characters;
+
+[Act 38 of 2018 wef 02/01/2019]
+
 “regulations” means regulations made under this Act;
 
 “repair” includes examine, detect faults in, adjust, carry out maintenance on, overhaul, replace, alter and paint;
@@ -470,9 +548,25 @@ and includes a skateboard, but does not include a bicycle, power‑assisted bicy
 
 “Town Council”, for a Town, means a Town Council established under the Town Councils Act (Cap. 329A) for a Town within the meaning of that Act;
 
+“unregistered”, in relation to a registrable personal mobility device, means a registrable personal mobility device —
+
+(a) that is not registered under Part 3A; or
+
+(b) whose registration is cancelled under that Part;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+“use-incompatible signage”, in relation to any public path, means a sign signifying or prohibiting a use of the public path which is inconsistent with the permitted use of that path under Division 1 or 2 of Part 3;
+
+[Act 38 of 2018 wef 02/01/2019]
+
 “vehicle” means any means of conveyance that runs on wheels, other than a train;
 
 “volunteer public path warden” means an individual who is appointed a volunteer public path warden under section 40;
+
+“wayfinding signage” includes a directional sign for the purpose of directing vehicular or pedestrian traffic to, or advising the public of, the location of any event, amenity, facility or place;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “wheelchair” means a chair mounted on 2 or more wheels that is built to transport a person who is unable to walk or has difficulty in walking, but does not include a pram, stroller or trolley;
 
@@ -770,23 +864,35 @@ Conduct of users of public paths
 
 (b) if the individual is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-### Vehicle banned for specific public path
+### Vehicle banned for public path
 
 18\.—(1) Subject to this Act, an individual must not —
 
-(a) ride on a public path that is a shared path a bicycle, a PAB or a personal mobility device which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path; or
+(a) ride on a public path that is a shared path a bicycle, a PAB or a personal mobility device which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all shared paths generally; or
 
-(b) ride on a public path that is a footpath a bicycle or a personal mobility device which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path,
+[Act 38 of 2018 wef 02/01/2019]
+
+(b) ride on a public path that is a footpath a bicycle or a personal mobility device which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all footpaths generally,
 
 knowing that, or reckless as to whether, it is so banned.
 
-(2) To avoid doubt, a bicycle, a PAB or a personal mobility device may be prescribed as banned for use on a specific footpath or shared path even if it is not non‑compliant.
+[Act 38 of 2018 wef 02/01/2019]
 
-(3) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+(1A) Subject to this Act, an individual must not ride on a public path that is a shared path, a PAB that is not registered under the Road Traffic Act, knowing that, or reckless as to whether, it is so not registered.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(2) To avoid doubt, a bicycle, a PAB or a personal mobility device may be prescribed as banned for use on a specific footpath or shared path or generally on all footpaths or shared paths (as the case may be), even if it is not non‑compliant.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(3) An individual who contravenes subsection (1) or (1A) shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
 (b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Non‑compliant personal mobility devices, etc.
 
@@ -824,6 +930,26 @@ subject to such conditions as are prescribed in relation to that vehicle.
 
 (b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+### Riding without displaying registration marks, etc.
+
+20A\.—(1) A rider of a registrable personal mobility device must, when riding the device on a public path, ensure that the following are installed and displayed on the device in accordance with the regulations:
+
+(a) any registration mark issued by the Authority under section 28C for that device;
+
+(b) a label or other mark required under section 28G(1)(b) in relation to that device.
+
+(2) A rider of a PAB must, when riding the PAB on a public path, ensure that any identification mark required under the Road Traffic Act for the use of the PAB on a road is installed and displayed on the PAB in accordance with the requirements under that Act.
+
+(3) A rider of a registrable personal mobility device or PAB who, without reasonable excuse, contravenes subsection (1) or (2) (as the case may be) commits an offence.
+
+(4) A person who is guilty of an offence under subsection (3) shall be liable on conviction as follows:
+
+(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both;
+
+(b) if the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 38 of 2018 wef 02/01/2019]
+
 ### Speeding on public paths
 
 21\.—(1) Subject to this Act, an individual must not —
@@ -852,7 +978,9 @@ on any public path that is a footpath or shared path in excess of the maximum sp
 
 (c) drive or operate a mechanised sweeper,
 
-on any public path that is a footpath or shared path recklessly, or in a manner which is dangerous to the public, having regard to all the circumstances of the case.
+on any public path recklessly, or in a manner which is dangerous to the public, having regard to all the circumstances of the case.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (2) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -970,19 +1098,53 @@ Division 4 —
 
 Wayfinding and maintaining clear public paths
 
-### Wayfinding signs for public paths
+### Signs for public paths
 
-26\.—(1) The Authority may, for the purpose of enhancing connectivity and supporting development that promotes walking and cycling and patronage of public transport, give an order to any proprietor or occupier of any land, requiring the proprietor or occupier to install, erect or relocate, or cause to be installed, erected or relocated, on the land, at the proprietor’s or occupier’s cost, any permanent directional or wayfinding signage in relation to all or any public paths leading to or away from, or on, under or over, the land.
+26\.—(1) The Authority may, for a purpose in subsection (1A), give an order to any proprietor or occupier of any land, requiring the proprietor or occupier to do all or any of the following, at the proprietor’s or occupier’s cost:
+
+(a) to install, erect or relocate, or cause to be installed, erected or relocated, on the land, any permanent wayfinding signage in relation to all or any public paths —
+
+(i) which lead to or away from the land;
+
+(ii) which front, adjoin or abut on the land; or
+
+(iii) on, under or over the land;
+
+(b) to remove or cause to be removed from the land any use-incompatible signage in relation to all or any public paths —
+
+(i) which lead to or away from the land;
+
+(ii) which front, adjoin or abut on the land; or
+
+(iii) on, under or over the land.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(1A) An order under subsection (1) may be given only for either or both of the following purposes:
+
+(a) enhancing connectivity and supporting development that promotes walking and cycling and patronage of public transport;
+
+(b) supporting the right of members of the public to use a public path in accordance with this Act.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (2) An order under subsection (1) must specify —
 
-(a) the type and description of the permanent directional or wayfinding signage to be erected, installed or relocated;
+(a) the type and description of the signage to be installed, removed, erected or relocated, as the case may be;
 
-(b) the locations on the land where the permanent directional or wayfinding signage are to be erected, installed or relocated;
+[Act 38 of 2018 wef 02/01/2019]
 
-(c) the time by which the work for installing, erecting or relocating the signage must start; and
+(b) the locations on the land where the signage are to be installed, removed, erected or relocated;
 
-(d) the time within which the work for installing, erecting or relocating the signage must be completed.
+[Act 38 of 2018 wef 02/01/2019]
+
+(c) the time by which the work for installing, removing, erecting or relocating (as the case may be) the signage must start; and
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(d) the time within which the work for installing, removing, erecting or relocating (as the case may be) the signage must be completed.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (3) However, no order under subsection (1) may be given to any proprietor or occupier of any land unless the Authority has given to the proprietor or occupier of the land concerned —
 
@@ -1002,13 +1164,17 @@ Wayfinding and maintaining clear public paths
 
 (6) This section does not affect the duty of the Authority in relation to road related facilities under the Street Works Act (Cap. 320A).
 
+[Act 38 of 2018 wef 02/01/2019]
+
 ### Maintaining wayfinding signs for public paths
 
-27\.—(1) A proprietor or occupier of any land on which any permanent directional or wayfinding signage in relation to all or any public paths leading to or away from, or on, under or over, the land is erected or installed, or relocated (whether by the proprietor or occupier or a predecessor) pursuant to an order under section 26(1) —
+27\.—(1) A proprietor or occupier of any land on which any permanent wayfinding signage in relation to all or any public paths leading to or away from, fronting, adjoining or abutting on, or on, under or over, the land is erected or installed, or relocated (whether by the proprietor or occupier or a predecessor) pursuant to an order under section 26(1) —
 
 (a) must maintain the signage in a reasonably good and clean condition, allowing for reasonable wear and tear; and
 
 (b) must not intentionally or negligently cause or permit damage to the signage, or the signage to be obscured from view.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (2) A person who fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence continues after conviction.
 
@@ -1020,11 +1186,15 @@ Wayfinding and maintaining clear public paths
 
 (c) lightning, earthquake, storm, fire, flood, subsidence, landslide, mudslide or other natural disaster.
 
-(4) Where, in the opinion of the Authority, any permanent directional or wayfinding signage that relates to all or any public paths leading to or away from, or on, under or over, any land is not kept or maintained in a state of good repair or in a proper and clean condition or is obscured, the Authority may give an order to the proprietor or occupier of the land requiring the proprietor or occupier of the land to repair, clean or uncover, or cause to be repaired, cleaned or uncovered, the signage at the proprietor’s or occupier’s cost.
+(4) Where, in the opinion of the Authority, any permanent wayfinding signage that relates to all or any public paths leading to or away from, fronting, adjoining or abutting on, or on, under or over, any land is not kept or maintained in a state of good repair or in a proper and clean condition or is obscured, the Authority may give an order to the proprietor or occupier of the land requiring the proprietor or occupier of the land to repair, clean or uncover, or cause to be repaired, cleaned or uncovered, the signage at the proprietor’s or occupier’s cost.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (5) An order under subsection (4) must specify —
 
-(a) the permanent directional or wayfinding signage to be repaired, cleaned or uncovered;
+(a) the permanent wayfinding signage to be repaired, cleaned or uncovered;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) the time by which the work for repairing, cleaning or uncovering the signage must start; and
 
@@ -1042,11 +1212,158 @@ Wayfinding and maintaining clear public paths
 
 ### Obstructing public paths, etc.
 
-28\.—(1) Subject to subsection (2), a person must not obstruct the use of a public path not on State land that is a footpath or a shared path, by pedestrians or individuals on vehicles lawfully authorised under this Act to use such a public path.
+28\.—(1) Subject to subsection (2), a person must not cause or permit any vehicle, article or thing to remain on any public path that is not on State land so as to —
 
-(2) Subsection (1) does not apply if the obstruction is authorised or permitted by or under this Act or any other Act, or arises out of a lawful and reasonable use of the public path.
+(a) obstruct the use of the public path by pedestrians or individuals on vehicles lawfully authorised under this Act to use such a public path; or
+
+(b) create any inconvenience to the exercise of any right by any person under section 12 or 13.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(2) Subsection (1) does not apply if the obstruction or inconvenience is authorised or permitted by or under this Act or any other Act, or arises out of a lawful and reasonable use of the public path.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+## PART 3A
+
+REGISTRATION OF REGISTRABLE
+
+
+
+
+PERSONAL MOBILITY DEVICES
+
+### Purpose of this Part
+
+28A\. The purpose of this Part is to provide for the registration of personal mobility devices —
+
+(a) to enable the use of personal mobility devices on public paths to be regulated for reasons of safety and law enforcement; and
+
+(b) to provide a method of establishing the identity of each personal mobility device which is used on a public path and of the person who is responsible for it.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+### Mandatory registration of registrable personal mobility devices
+
+28B\.—(1) Except as otherwise provided by or under this Act, an individual must not ride an unregistered registrable personal mobility device on any footpath or shared path, knowing that, or reckless as to whether, the registrable personal mobility device is unregistered.
+
+(2) Except as otherwise provided by or under this Act, a person must not cause or permit an individual to ride an unregistered registrable personal mobility device on any footpath or shared path, knowing that, or reckless as to whether, the registrable personal mobility device is unregistered.
+
+(3) A person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction as follows:
+
+(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both;
+
+(b) if the person is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+(4) This section applies to the riding of a registrable personal mobility device only on or after a date specified by the Minister by order in theGazettein relation to the type of that registrable personal mobility device.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+### Registration marks
+
+28C\.—(1) Registration of registrable personal mobility devices, and transfer of such registration, may be applied for, and granted or refused by the Authority, only in accordance with the regulations.
+
+(2) On registering a registrable personal mobility device, the Authority must —
+
+(a) assign a unique registration code to the registrable personal mobility device so registered; and
+
+(b) issue to the registered responsible person for the registrable personal mobility device a registration mark indicating the unique registration code.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+### Cancellation of registration
+
+28D\. The Authority may cancel the registration of a registrable personal mobility device if —
+
+(a) the Authority is satisfied that the personal mobility device —
+
+(i) has ceased to be used on any footpath or shared path in Singapore;
+
+(ii) has become wholly unfit for further use;
+
+(iii) has been forfeited pursuant to this Act or any written law;
+
+(iv) is unclaimed for the purposes of section 53 and is disposed of in accordance with that section; or
+
+(v) is a non-compliant personal mobility device;
+
+(b) the Authority becomes aware of a circumstance that would have required or permitted the Authority to refuse to register the personal mobility device, had it been aware of the circumstance immediately before registering the device; or
+
+(c) the registered responsible person for the registrable personal mobility device applies for the registration of the device to be cancelled.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+### Registrable PMD register
+
+28E\.—(1) Subject to this section, the Authority must establish and maintain a register of registrable personal mobility devices (called the registrable PMD register) in accordance with the regulations.
+
+(2) The registrable PMD register may be established and maintained in such form as the Authority thinks appropriate for the purposes of this Part.
+
+(3) The registrable PMD register must contain —
+
+(a) the prescribed information about each registrable personal mobility device registered under this Part, and its registered responsible person; and
+
+(b) such other prescribed information relating to the registrable personal mobility device.
+
+(4) Except as permitted under subsection (5) or when lawfully required to do so by any court, the Authority must not supply to, or allow the inspection by, any person any information contained in the registrable PMD register.
+
+(5) The Authority may, upon application made to it in writing by a person and on payment of the prescribed fee (if any), do any one or more of the following things as are required in the application:
+
+(a) inform the applicant (or the applicant’s authorised agent) whether a registrable personal mobility device is registered and whether the registration of the device is cancelled;
+
+(b) provide an applicant who belongs to a prescribed class of persons (or the applicant’s authorised agent) all or any of the following:
+
+(i) information about the identity of the registered responsible person for a registrable personal mobility device;
+
+(ii) an extract of any entry in the registrable PMD register relating to a registrable personal mobility device;
+
+(c) certify to an applicant who belongs to a prescribed class of persons (or the applicant’s authorised agent), as at the date of the certificate, in respect of the registrable personal mobility device to which the application relates all or any of the following:
+
+(i) the registration code of the personal mobility device and other particulars in the registrable PMD register relating to that device;
+
+(ii) the registered responsible person for the personal mobility device;
+
+(iii) whether the registration of the device is cancelled.
+
+(6) The Authority may correct any mistake, error or omission in the registrable PMD register subject to the requirements in the regulations.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+### Registrable PMD register as evidence
+
+28F\.—(1) A certificate signed or purporting to be signed by an authorised officer and stating that —
+
+(a) a personal mobility device described or specified in the certificate was or was not registered at a specified time; or
+
+(b) any other particulars or information was recorded in the registrable PMD register at a specified time,
+
+is admissible in any legal proceedings and is prima facie evidence of the facts stated in the certificate.
+
+(2) However, the registrable PMD register does not provide evidence of title to any registrable personal mobility device.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+### General obligations of registered responsible persons
+
+28G\.—(1) A registered responsible person for a registrable personal mobility device must —
+
+(a) ensure that any registration mark issued by the Authority under section 28C is installed or displayed on the device in accordance with the regulations;
+
+(b) make and affix (at the registered responsible person’s expense) on the registrable personal mobility device a label or other mark of a description prescribed (called for the purposes of this Act an identification mark), and ensure that that identification mark is displayed on the device, in accordance with the regulations; and
+
+(c) comply with any other directions given by the Authority to ensure compliance with any conditions imposed about the registration of the device.
+
+(2) A registered responsible person for a registrable personal mobility device who, without reasonable excuse, contravenes subsection (1) commits an offence.
+
+(3) A person who is guilty of an offence under subsection (2) shall be liable on conviction as follows:
+
+(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both;
+
+(b) if the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ## PART 4
 
@@ -1055,6 +1372,18 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 ### Interpretation of this Part
 
 29\. In this Part, unless the context otherwise requires —
+
+“advertisement” means an advertisement that is —
+
+(a) any writing;
+
+(b) any still or moving picture, sign, symbol or other visual image;
+
+(c) any audible message; or
+
+(d) any combination of 2 or more of those things in paragraphs (a), (b) and (c);
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “buy” or “buying”, in relation to any thing, includes buying that thing as a principal or agent;
 
@@ -1160,11 +1489,15 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 
 (a) the person sells, at any premises or place and in the course of business, any personal mobility device, PAB or bicycle;
 
-(b) at the time the personal mobility device, PAB or bicycle is sold or offered for sale, the personal mobility device, PAB or bicycle is a non‑compliant personal mobility device, non‑compliant PAB or non‑compliant bicycle (as the case may be);
+(b) at the time the personal mobility device, PAB or bicycle is sold or offered for sale, the personal mobility device, PAB or bicycle is a non‑compliant personal mobility device, non‑compliant PAB or non‑compliant bicycle (as the case may be); and
 
-(c) at the time the personal mobility device, PAB or bicycle is sold or offered for sale, the person knows that, or is reckless as to whether or not, the buyer intends to ride the personal mobility device, non‑compliant PAB or non‑compliant bicycle on a public path; and
+[Act 38 of 2018 wef 02/01/2019]
 
-(d) that buyer does ride the personal mobility device, PAB or bicycle on a public path.
+(c) at the time the personal mobility device, PAB or bicycle is sold or offered for sale, the person knows that, or is reckless as to whether or not, the buyer intends to ride the personal mobility device, non‑compliant PAB or non‑compliant bicycle on a public path.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(d) [Deleted by Act 38 of 2018 wef 02/01/2019]
 
 (2) In any proceedings for an offence under this section, it is not a defence for the accused to prove that warning notices were displayed in compliance with section 31 on the premises or place at which and when the sale took place.
 
@@ -1294,17 +1627,23 @@ to be a volunteer public path warden for the purposes of that provision.
 
 (3) An individual who is appointed as a volunteer public path warden under subsection (1) does not, by virtue only of the appointment, become an employee or agent of the Authority.
 
-### Powers of public path wardens and volunteer public path wardens
+### Powers of public path wardens and volunteer public path wardens, etc.
 
 41\.—(1) The Authority must issue to every public path warden and volunteer public path warden a written authorisation specifying such power as is specified in subsection (2) or (3) that the public path warden and volunteer public path warden, respectively, may exercise.
 
 (2) The powers that a public path warden may be authorised under this section to exercise are all or any of the following:
 
-(a) to ask an individual suspected of committing an offence under Part 3 to state the individual’s name and residential address;
+(a) to ask an individual suspected of committing an offence under Part 3 or 3A to state the individual’s name and residential address;
 
-(b) to advise the individual to stop engaging in conduct that is an offence under Part 3;
+[Act 38 of 2018 wef 02/01/2019]
 
-(c) to photograph or film, or otherwise record the place where, or in respect of which, an offence under Part 3 was committed or is reasonably suspected to have been committed, and any individual or vehicle in that place;
+(b) to advise the individual to stop engaging in conduct that is an offence under Part 3 or 3A;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(c) to photograph or film, or otherwise record the place where, or in respect of which, an offence under Part 3 or 3A was committed or is reasonably suspected to have been committed, and any individual or vehicle in that place;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (d) to take statements —
 
@@ -1326,6 +1665,18 @@ and to require such an individual to make and sign a declaration of the truth of
 
 (d) to exercise powers expressly conferred on a volunteer public path warden under this Act.
 
+(3A) Subject to section 11A of the Land Transport Authority of Singapore Act, the powers that an outsourced enforcement officer may exercise under this Act are all or any of the following:
+
+(a) to ask an individual suspected of committing an offence under Part 3 or 3A to state the individual’s name and residential address;
+
+(b) to advise the individual to stop engaging in conduct that is an offence under Part 3 or 3A;
+
+(c) to photograph or film, or otherwise record the place where, or in respect of which, an offence under Part 3 or 3A was committed or is reasonably suspected to have been committed, and any individual or vehicle in that place;
+
+(d) to exercise powers expressly conferred on an outsourced enforcement officer under this Act.
+
+[Act 38 of 2018 wef 02/01/2019]
+
 (4) However, to avoid doubt, the Authority cannot authorise under subsection (1) a volunteer public path warden to arrest any individual.
 
 (5) The written authorisation under subsection (1) for a public path warden or volunteer public path warden may also do all or any of the following:
@@ -1340,7 +1691,9 @@ and to require such an individual to make and sign a declaration of the truth of
 
 (6) The powers that a public path warden or a volunteer public path warden may be authorised under this Act to exercise may be exercised only to the extent authorised by the Authority under this section.
 
-(7) To avoid doubt, in this section, a reference to an offence under Part 3 includes a reference to an offence under any regulations made for the purposes of Part 3.
+(7) To avoid doubt, in this section, a reference to an offence under Part 3 or 3A includes a reference to an offence under any regulations made for the purposes of Part 3 or 3A.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Identification cards and equipment
 
@@ -1364,13 +1717,17 @@ Division 2 —
 
 Enforcement powers
 
-### Powers to inspect premises, etc., for Part 4 matters
+### Powers to inspect premises, etc., for Part 3A or 4 matters
 
 44\.—(1) An authorised officer may exercise all or any of the powers in this section for the purpose of —
 
-(a) ascertaining whether the provisions of Part 4 are being complied with or have been contravened; or
+(a) ascertaining whether the provisions of Part 3A or 4 are being complied with or have been contravened; or
 
-(b) investigating any offence under Part 4.
+[Act 38 of 2018 wef 02/01/2019]
+
+(b) investigating any offence under Part 3A or 4.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (2) An authorised officer may, at any reasonable time, do any of the following, without involving any search of any property or individual:
 
@@ -1388,7 +1745,9 @@ Enforcement powers
 
 (ii) the document or material may be interfered with or destroyed unless possession is taken; or
 
-(iii) the document or material may be required as evidence in any proceedings instituted or commenced for any of the purposes of, or in connection with, Part 4.
+(iii) the document or material may be required as evidence in any proceedings instituted or commenced for any of the purposes of, or in connection with, Part 3A or 4.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (3) The power to require a person to furnish any document or material under subsection (2)(c) includes the power —
 
@@ -1414,11 +1773,15 @@ Enforcement powers
 
 (5) If an authorised officer is unable to make copies of the document or material, or transfer the information from the document or material, under subsection (4)(b), the authorised officer may —
 
-(a) seize the computer or other equipment (including a mobile telephone) in which the document or material is stored, as evidence in proceedings for an offence under Part 4; and
+(a) seize the computer or other equipment (including a mobile telephone) in which the document or material is stored, as evidence in proceedings for an offence under Part 3A or 4; and
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) require any person having charge of, or otherwise concerned with the operation of, the computer or equipment to disclose any password or access code for gaining access to the document or material held in the computer or equipment.
 
-(6) To avoid doubt, in this section, a reference to an offence under Part 4 includes a reference to an offence under any regulations made for the purposes of Part 4.
+(6) To avoid doubt, in this section, a reference to an offence under Part 3A or 4 includes a reference to an offence under any regulations made for the purposes of Part 3A or 4.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Power to move vehicles
 
@@ -1426,57 +1789,81 @@ Enforcement powers
 
 (a) is parked or left on a public path contrary to this Act; or
 
-(b) is, in the opinion of an authorised officer or a public path warden, as the case may be, a danger to other users of a public path or is causing or likely to cause an obstruction on a public path,
+(b) is, in the opinion of an authorised officer, an outsourced enforcement officer or a public path warden, as the case may be, a danger to other users of a public path or is causing or likely to cause an obstruction or inconvenience on a public path,
 
-the authorised officer or public path warden may move, or cause to be moved, the vehicle to a holding yard, or to another place to avoid further danger or obstruction or a danger or obstruction arising, as the case may be.
+the authorised officer, outsourced enforcement officer or public path warden may move, or cause to be moved, the vehicle to a holding yard, or to another place to avoid further danger, obstruction or inconvenience or a danger, obstruction or inconvenience arising, as the case may be.
 
-(2) If a vehicle is left on a public path and it appears to an authorised officer or a public path warden that the vehicle has been left for 2 or more consecutive days, the authorised officer or a public path warden may move, or cause to be moved, the vehicle to a holding yard.
+[Act 38 of 2018 wef 02/01/2019]
 
-(3) When a vehicle is moved to a holding yard under this section by an authorised officer or a public path warden, the authorised officer or public path warden must as soon as practicable give notice of the move to the owner of the vehicle, if known.
+(2) If a vehicle is left on a public path and it appears to an authorised officer, an outsourced enforcement officer or a public path warden that the vehicle has been left for 2 or more consecutive days, the authorised officer, outsourced enforcement officer or a public path warden may move, or cause to be moved, the vehicle to a holding yard.
 
-(4) For the purpose of exercising a power under subsection (1) or (2), an authorised officer or public path warden may, with such assistance as he or she considers necessary —
+[Act 38 of 2018 wef 02/01/2019]
+
+(3) When a vehicle is moved to a holding yard under this section by an authorised officer, an outsourced enforcement officer or a public path warden, the authorised officer, outsourced enforcement officer or public path warden must as soon as practicable give notice of the move to the owner of the vehicle, if known.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(4) For the purpose of exercising a power under subsection (1) or (2), an authorised officer, an outsourced enforcement officer or public path warden may, with such assistance as he or she considers necessary —
 
 (a) move the vehicle by any reasonable means (including by driving, riding or towing it); and
 
 (b) use reasonable force (including cutting or breaking open any lock, seal, fastener or other device on or connected to the vehicle).
 
+[Act 38 of 2018 wef 02/01/2019]
+
 ### Power to remove obstructing article, etc., on public path
 
-46\.—(1) If any article or thing (other than a vehicle) is obstructing the use of a footpath or shared path in contravention of section 28(1), an authorised officer or a public path warden may move that article or thing, or cause it to be so removed, so that it is no longer an obstruction.
+46\.—(1) If any article or thing (other than a vehicle) is obstructing the use of, or is causing inconvenience to the exercise of any right by any person under section 12 or 13 on, a public path in contravention of section 28(1), an authorised officer, an outsourced enforcement officer or a public path warden may move that article or thing, or cause it to be so removed, so that it is no longer an obstruction or inconvenience.
 
-(2) An authorised officer or a public path warden must not exercise a power under subsection (1) unless he or she has —
+[Act 38 of 2018 wef 02/01/2019]
+
+(2) An authorised officer, an outsourced enforcement officer or a public path warden must not exercise a power under subsection (1) unless he or she has —
 
 (a) taken reasonable steps to inform the owner of the article or thing (if known) of his or her intention to exercise that power; and
 
 (b) allowed or directed the owner of the article or thing to move it.
 
-(3) For the purpose of exercising a power under subsection (1), an authorised officer or a public path warden may, with such assistance as he or she considers necessary —
+[Act 38 of 2018 wef 02/01/2019]
+
+(3) For the purpose of exercising a power under subsection (1), an authorised officer, an outsourced enforcement officer or a public path warden may, with such assistance as he or she considers necessary —
 
 (a) move the article or thing by any reasonable means (including by towing it) to a holding yard; and
 
 (b) use reasonable force (including cutting or breaking open any lock, seal, fastener or other device on or connected to the article or thing).
 
-(4) A person must remove any article or thing where requested to do so by an authorised officer or a public path warden under subsection (2)(b).
+[Act 38 of 2018 wef 02/01/2019]
+
+(4) A person must remove any article or thing where requested to do so by an authorised officer, an outsourced enforcement officer or a public path warden under subsection (2)(b).
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (5) A person who contravenes subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
-(6) When an article or thing is moved to a holding yard under this section by an authorised officer or a public path warden, the authorised officer or public path warden must as soon as practicable give notice of the move to the owner of the article or thing, if known.
+(6) When an article or thing is moved to a holding yard under this section by an authorised officer, an outsourced enforcement officer or a public path warden, the authorised officer, outsourced enforcement officer or public path warden must as soon as practicable give notice of the move to the owner of the article or thing, if known.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Powers to examine and weigh vehicle
 
-47\.—(1) An authorised officer or a public path warden may, for the purpose of ensuring that any vehicle that is being or may be used on a public path complies with this Act, at any time —
+47\.—(1) An authorised officer, an outsourced enforcement officer or a public path warden may, for the purpose of ensuring that any vehicle that is being or may be used on a public path complies with this Act, at any time —
 
 (a) examine the vehicle; or
 
-(b) order the owner or rider of the vehicle to deliver the vehicle (in the state on the date of the order) for an inspection by such person and at such time and place as the authorised officer or public path warden may specify.
+(b) order the owner or rider of the vehicle to deliver the vehicle (in the state on the date of the order) for an inspection by such person and at such time and place as the authorised officer, outsourced enforcement officer or public path warden may specify.
 
-(2) Subject to this Act, an authorised officer or a public path warden may require an owner or a rider of any vehicle —
+[Act 38 of 2018 wef 02/01/2019]
+
+(2) Subject to this Act, an authorised officer, an outsourced enforcement officer or a public path warden may require an owner or a rider of any vehicle —
 
 (a) to allow the vehicle to be weighed laden or unladen; or
 
 (b) to immediately proceed to a weighbridge or other machine for weighing vehicles.
 
-(3) Subject to this Act, an authorised officer or a public path warden may, require an owner or a rider of any vehicle to unload the vehicle for the purpose of being weighed unladen.
+[Act 38 of 2018 wef 02/01/2019]
+
+(3) Subject to this Act, an authorised officer, an outsourced enforcement officer or a public path warden may, require an owner or a rider of any vehicle to unload the vehicle for the purpose of being weighed unladen.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (4) Where a vehicle is weighed under this section, a certificate of weight must be given by the person who carried out the weighing of the vehicle to the owner or rider who delivered the vehicle for weighing.
 
@@ -1488,23 +1875,41 @@ the authorised officer or public path warden may move, or cause to be moved, the
 
 ### Powers to demand information about driver
 
-48\.—(1) An authorised officer or a public path warden who is acting in the execution of duty may require any person whom the authorised officer or public path warden believes on reasonable grounds to have had possession or control of a vehicle on a particular occasion to give any information which may lead to the identification of an individual —
+48\.—(1) An authorised officer or outsourced enforcement officer, or a police officer or public path warden who is acting in the execution of duty may require any person whom the authorised officer, outsourced enforcement officer, police officer or public path warden believes on reasonable grounds to have had possession or control of a vehicle on a particular occasion to give any information which may lead to the identification of an individual —
 
 (a) who was the driver or rider of the vehicle on any occasion that the driver or rider is alleged or is suspected to be guilty of an offence under this Act; or
 
 (b) who had possession or control of the vehicle on any occasion that the driver or rider is alleged or is suspected to be guilty of an offence under this Act.
 
-(2) The person, when required by an authorised officer or a public path warden to do so under subsection (1), must give to the authorised officer or public path warden (as the case may be), within 14 days after being so required, the information required under that subsection.
+[Act 38 of 2018 wef 02/01/2019]
+
+(2) The person, when required by an authorised officer or outsourced enforcement officer, or a police officer or public path warden to do so under subsection (1), must give to the authorised officer, outsourced enforcement officer, police officer or public path warden (as the case may be), within 14 days after being so required, the information required under that subsection.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (3) A requirement under subsection (1) may be made orally or in writing, and require any information to be furnished under that subsection to be in writing signed by the person required to furnish the information.
 
-(4) A person who fails to give the information required of the person under subsection (1) shall be guilty of an offence and shall be liable on conviction —
+(4) A person who fails to give in accordance with subsection (2) the information required of the person under subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
 (b) if the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[Act 38 of 2018 wef 02/01/2019]
+
 (5) However, it is a defence in any proceedings for an offence under subsection (4) where the accused proves, on a balance of probabilities, that the accused did not know, and could not with reasonable diligence have ascertained, the information required under subsection (1).
+
+(6) In any proceedings for an offence under subsection (4), an accused which is a company, a partnership or an unincorporated body is not to be treated as having proved that the accused did not know and could not with reasonable diligence have ascertained the information required unless the accused also proves, on a balance of probabilities, that —
+
+(a) it had kept a proper and accurate record containing prescribed particulars of each occasion on which it permits any individual to ride or drive a vehicle —
+
+(i) whether or not the individual is a director, member, partner, officer, employee or agent of the accused or otherwise; and
+
+(ii) whether or not the individual is permitted to ride or drive the vehicle in the course of the individual’s employment with the accused or otherwise; but
+
+(b) the record shows no individual having been permitted by the accused to ride or drive the vehicle at or about the time of the alleged offence.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Powers of arrest
 
@@ -1540,15 +1945,21 @@ the authorised officer or public path warden may move, or cause to be moved, the
 
 ### Power to seize vehicles
 
-50\.—(1) Where an authorised officer or a public path warden has reason to believe that a vehicle is a vehicle in connection with which an offence under Part 3 or 4 has been or is being committed, the authorised officer or public path warden may —
+50\.—(1) Where an authorised officer, an outsourced enforcement officer or a public path warden has reason to believe that a vehicle is a vehicle in connection with which an offence under Part 3, 3A or 4 has been or is being committed, the authorised officer, outsourced enforcement officer or public path warden may —
 
 (a) seize the vehicle and take it to a holding yard; or
 
 (b) require the owner, driver, rider or person in charge of the vehicle to take the vehicle to and surrender it at a specified holding yard.
 
-(2) The power conferred on an authorised officer or a public path warden under subsection (1)(a) may be exercised whether or not the owner, driver, rider or person in charge of the vehicle is present at the time of its seizure.
+[Act 38 of 2018 wef 02/01/2019]
 
-(3) When a vehicle is seized under this section by an authorised officer or a public path warden, the authorised officer or public path warden concerned must as soon as practicable give notice of the seizure and the grounds of doing so to the owner of the vehicle, if known, except that the notice is not required to be given where the seizure is made in the presence of the owner or the owner’s agent.
+(2) The power conferred on an authorised officer, an outsourced enforcement officer or a public path warden under subsection (1)(a) may be exercised whether or not the owner, driver, rider or person in charge of the vehicle is present at the time of its seizure.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(3) When a vehicle is seized under this section by an authorised officer, an outsourced enforcement officer or a public path warden, the authorised officer, outsourced enforcement officer or public path warden concerned must as soon as practicable give notice of the seizure and the grounds of doing so to the owner of the vehicle, if known, except that the notice is not required to be given where the seizure is made in the presence of the owner or the owner’s agent.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (4) Any person who, without reasonable excuse, refuses or neglects to comply with any requirement under subsection (1)(b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months.
 
@@ -1596,7 +2007,9 @@ the authorised officer or public path warden may move, or cause to be moved, the
 
 (a) there is no person who appears, to the satisfaction of the Authority, to be the owner of the vehicle, article or thing, as the case may be; or
 
-(b) there is such a person but that person has not been located after reasonable inquiry or that person has not exercised his or her right to recover the vehicle, article or thing by a claim.
+(b) there is such a person but that person has not exercised his or her right to recover the vehicle, article or thing by a claim.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (3) Where a vehicle, article or thing which is moved to or surrendered at a holding yard under section 45, 46 or 50 becomes unclaimed, an authorised officer may, after giving one month’s notice in theGazetteof his or her intention to do so —
 
@@ -1666,29 +2079,47 @@ Offences and general provisions
 
 (a) an authorised officer;
 
-(b) a public path warden; or
+(b) a public path warden;
 
-(c) a volunteer public path warden,
+[Act 38 of 2018 wef 02/01/2019]
+
+(c) a volunteer public path warden; or
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(d) an outsourced enforcement officer in uniform,
 
 in the discharge of his or her duties under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(2) However, it is not an offence under subsection (1) for any person to refuse to comply with any request, demand or order made or given by an authorised officer, public path warden or volunteer public path warden who —
+[Act 38 of 2018 wef 02/01/2019]
+
+(2) However, it is not an offence under subsection (1) for any person to refuse to comply with any request, demand or order made or given by an authorised officer, public path warden, volunteer public path warden or outsourced enforcement officer who —
 
 (a) fails to declare his or her office; and
 
 (b) refuses to produce his or her identification card on demand being made by that person.
 
+[Act 38 of 2018 wef 02/01/2019]
+
 ### Offence of providing false information, etc.
 
 57\.—(1) If —
 
-(a) a person furnishes a document, or makes a statement (whether orally, in writing or any other way) or gives information, to the Authority, an authorised officer, a police officer, public path warden or volunteer public path warden;
+(a) a person furnishes a document, or makes a statement (whether orally, in writing or any other way) or gives information, to the Authority, an authorised officer or outsourced enforcement officer, a police officer, public path warden or volunteer public path warden;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) the document, statement or information is false or misleading, or the statement or information omits any matter or thing without which the statement or information, as the case may be, is misleading;
 
 (c) the person knows, or ought reasonably to know, that the document is false or misleading, or that the statement or information is as described in paragraph (b); and
 
-(d) the document is furnished, or the statement is made or the information is given, for or in connection with a question or request of the Authority, an authorised officer, a police officer, public path warden or volunteer public path warden under this Act,
+(d) the document is furnished, or the statement is made or the information is given, for or in connection with —
+
+(i) an application in connection with the registration of a registrable personal mobility device under Part 3A; or
+
+(ii) a question or request by the Authority, an authorised officer or outsourced enforcement officer, a police officer, public path warden or volunteer public path warden under this Act,
+
+[Act 38 of 2018 wef 02/01/2019]
 
 the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -1712,7 +2143,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Strict liability
 
-59\. In proceedings for an offence under Part 3, it is not necessary for the prosecution to prove that an accused knew or had reason to believe that the path was a pedestrian‑only path, footpath or shared path, but it is a defence to the charge for the accused to prove, on a balance of probabilities, that the accused did not know, and could not reasonably have been expected to know, that the path was a pedestrian‑only path, footpath or shared path, as the case may be.
+59\. In proceedings for an offence under Part 3 or 3A, it is not necessary for the prosecution to prove that an accused knew or had reason to believe that the path was a pedestrian‑only path, footpath or shared path, but it is a defence to the charge for the accused to prove, on a balance of probabilities, that the accused did not know, and could not reasonably have been expected to know, that the path was a pedestrian‑only path, footpath or shared path, as the case may be.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+### Presumption of vehicle owner riding or driving
+
+59A\.—(1) An owner of a bicycle, PAB, personal mobility device, motorised wheelchair or mobility scooter who is an individual is presumed, until the contrary is proved, to be riding or driving the bicycle, PAB, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) at the time of the commission (on or after the date of commencement of section 31 of the Land Transport (Enforcement Measures) Act 2018) of an offence under Part 3 or 3A that —
+
+(a) involves the riding or driving of the bicycle, PAB, personal mobility device, motorised wheelchair or mobility scooter; and
+
+(b) is prescribed,
+
+if the owner fails to give the information required of the owner under section 48 about that offence and the owner knew or ought reasonably to have known the information required.
+
+(2) To avoid doubt, a reference in subsection (1) to an offence under Part 3 or 3A includes a reference to an offence under any regulations made for the purposes of Part 3 or 3A, as the case may be.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Offences by corporations
 
@@ -1832,11 +2279,13 @@ MISCELLANEOUS
 
 ### Preservation of secrecy
 
-62\.—(1) An individual who is or has been an authorised officer, a public path warden or volunteer public path warden must not disclose any information relating to the affairs of the Authority or of any other person which has been obtained by the individual in the performance of his or her duties or the exercise of his or her functions under this Act, except —
+62\.—(1) An individual who is or has been an authorised officer or outsourced enforcement officer, a public path warden or volunteer public path warden must not disclose any information relating to the affairs of the Authority or of any other person which has been obtained by the individual in the performance of his or her duties or the exercise of his or her functions under this Act, except —
 
 (a) for the purpose of the performance of his or her duties or the exercise of his or her functions under this Act; or
 
-(b) when lawfully required to do so by any court or under the provisions of any written law.
+(b) when lawfully required to do so by any court or where required or allowed by the provisions of any written law.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (2) Any individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -1906,11 +2355,15 @@ MISCELLANEOUS
 
 (2) In particular, the Authority may make regulations for any of the following matters:
 
-(a) the construction, equipment and accessories of personal mobility devices, motorised wheelchairs and mobility scooters for use on public paths, including —
+(a) the construction, equipment and accessories of bicycles, PABs, personal mobility devices, motorised wheelchairs and mobility scooters for use on public paths or for registration under Part 3A, including —
 
-(i) the lights to be carried by personal mobility devices, motorised wheelchairs and mobility scooters including the nature of such lights, the positions in which they must be fixed and the periods during which they must be lighted or otherwise; and
+(i) the lights to be carried by bicycles, PABs, personal mobility devices, motorised wheelchairs and mobility scooters including the nature of such lights, the positions in which they must be fixed and the periods during which they must be lighted or otherwise; and
 
-(ii) the number and kind of brakes, bells, horns or other warning instruments to be fitted to personal mobility devices, motorised wheelchairs and mobility scooters of any particular type or description;
+[Act 38 of 2018 wef 02/01/2019]
+
+(ii) the number and kind of brakes, bells, horns or other warning instruments to be fitted to bicycles, PABs, personal mobility devices, motorised wheelchairs and mobility scooters of any particular type or description;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) a ban on the use on public paths of bicycles, PABs, personal mobility devices, motorised wheelchairs and mobility scooters in prescribed circumstances, being circumstances which may cause annoyance or danger to users of public paths;
 
@@ -1926,7 +2379,29 @@ MISCELLANEOUS
 
 (h) the form and minimum dimensions of a warning notice for the purposes of section 31, the text of such a notice and the manner of the display in premises;
 
-(i) the fees to be paid in connection with the administration of this Act, and the waiver, reduction or refund of fees charged.
+(i) the fees to be paid in connection with the administration of this Act, and the waiver, reduction or refund of fees charged;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(j) the requirements and procedure for the registration of a registrable personal mobility device and the maintenance of the registrable PMD register, including —
+
+(i) the qualifications for a person to be registered as a responsible person for a registrable personal mobility device, which may include a minimum age; and
+
+(ii) the circumstances and procedure for transferring the registration of a registrable personal mobility device to another registered responsible person;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(k) the procedure for applying to cancel the registration of a registrable personal mobility device;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(l) the size, shape and character of the registration marks and identification marks required to be fixed on any registrable personal mobility device, and the manner in which those marks must be secured, sealed or displayed on a registrable personal mobility device;
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(m) prohibitions or restrictions against forging, tampering or unauthorised alteration of any registration mark or identification mark required by this Act to be fixed or displayed on a registrable personal mobility device.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (3) Regulations made under this section may —
 
@@ -1937,6 +2412,40 @@ MISCELLANEOUS
 (c) provide for such saving, transitional and other consequential, incidental and supplemental provisions as is necessary or expedient.
 
 (4) All regulations made under this section are to be presented to Parliament as soon as possible after publication in theGazette.
+
+### Incorporation by reference
+
+67A\.—(1) Any regulation made in respect of the construction, equipment or accessories of bicycles, PABs, personal mobility devices, motorised wheelchairs and mobility scooters for use on public paths may apply, adopt or incorporate by reference —
+
+(a) either wholly or partially;
+
+(b) with or without modification; or
+
+(c) either specifically or by reference,
+
+any matter contained in any code, standard, rule, requirement, specification or other document, as in force or published at a particular time or as in force or published from time to time, which relates to any matter that the regulation deals with.
+
+(2) Any material applied, adopted or incorporated in any regulation by reference under subsection (1) is to be treated for all purposes as forming part of the regulation.
+
+(3) Unless otherwise provided in a regulation, every amendment to any material applied, adopted or incorporated by reference under subsection (1) that is made by the person or organisation originating the material is, subject to subsections (4) and (5), to be treated as being a part of that regulation.
+
+(4) Where any material referred to in subsection (1) is applied, adopted or incorporated by reference in any regulation, the Authority must give notice in theGazettestating —
+
+(a) that the material is applied, adopted or incorporated in the regulation, and the date on which the relevant provision in the regulation was made;
+
+(b) that the material is available for inspection during working hours, free of charge;
+
+(c) the place where the material can be inspected;
+
+(d) that copies of the material can be purchased, and the place where the material can be purchased; and
+
+(e) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
+
+(5) In addition, the Authority must cause a copy of every material applied, adopted or incorporated in that regulation by reference under subsection (1), to be made available for inspection by members of the public without charge at any of its offices during normal office hours.
+
+(6) In this section, “modification” includes omissions, additions and substitutions.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ## PART 7
 
@@ -2005,15 +2514,7 @@ TO OTHER ACTS
 
 (h) by deleting item 3 of Part I of the Fifth Schedule; and
 
-(i) by inserting, immediately after item 3 of Part II of the Fifth Schedule, the following items:
-
-“
-
-4. All provisions of the Active Mobility Act 2017 and its subsidiary legislation.
-
-5. All provisions of the Parking Places Act (Cap. 214) and any subsidiary legislation made under that Act.
-
-”.
+(i) [Deleted by Act 38 of 2018 wef 02/01/2019]
 
 ### Related amendments to Parking Places Act
 
@@ -2125,7 +2626,7 @@ the Superintendent may, by notice, require the owner or the occupier of the land
 
 ”.
 
-(5) Section 20 of the Parking Places Act is amended by deleting the words “and all fines imposed for an offence under this Act or any rules made thereunder”.
+(5) [Deleted by Act 38 of 2018 wef 02/01/2019]
 
 ### Related amendments to Road Traffic Act
 
