@@ -252,11 +252,19 @@ GENERAL
 
 4\. This Act shall not apply —
 
-(a) to or in relation to the Institute of Technical Education, Singapore established under the Institute of Technical Education Act (Cap. 141A); and
+(a) to or in relation to the Institute of Technical Education, Singapore established under the Institute of Technical Education Act (Cap. 141A);
 
-(b) to any private education institution within the meaning of the Private Education Act 2009.
+[Act 19 of 2017 wef 02/01/2019]
+
+(b) to any private education institution within the meaning of the Private Education Act 2009; and
 
 [21/2009 wef 21/12/2009]
+
+[Act 19 of 2017 wef 02/01/2019]
+
+(c) to or in relation to any early childhood development centre licensed under the Early Childhood Development Centres Act 2017.
+
+[Act 19 of 2017 wef 02/01/2019]
 
 ### Restriction on use of “school”, etc.
 
@@ -1267,10 +1275,6 @@ Section 22(3).
 FORM 1
 
 The Education Act
-
-
-
-
 (Chapter 87)
 
 Application for Registration of a School
@@ -1485,10 +1489,6 @@ FORM 2
 Section 23(3)
 
 The Education Act
-
-
-
-
 (Chapter 87)
 
 CERTIFICATE OF REGISTRATION OF SCHOOL
@@ -1513,10 +1513,6 @@ Singapore, ……………… 19….
 FORM 3
 
 The Education Act
-
-
-
-
 (Chapter 87)
 
 APPLICATION FOR REGISTRATION AS A MANAGER OF A SCHOOL
@@ -1576,10 +1572,6 @@ FORM 4
 Section 36
 
 The Education Act
-
-
-
-
 (Chapter 87)
 
 APPLICATION FOR REGISTRATION AS A TEACHER
@@ -1657,10 +1649,6 @@ FORM 5
 Section 37
 
 The Education Act
-
-
-
-
 (Chapter 87)
 
 CERTIFICATE OF REGISTRATION OF TEACHER
@@ -1679,10 +1667,6 @@ FORM 6
 Section 41(1)
 
 The Education Act
-
-
-
-
 (Chapter 87)
 
 APPLICATION FOR AUTHORITY TO EMPLOY AN UNREGISTERED TEACHER
@@ -1812,10 +1796,6 @@ FORM 7
 Section 41(2)
 
 The Education Act
-
-
-
-
 (Chapter 87)
 
 AUTHORITY TO EMPLOY AN UNREGISTERED TEACHER
@@ -1892,3 +1872,7 @@ This Legislative History is provided for the convenience of users of the Educati
 |||(Bill No. 15/2009 published on 18 August 2009)|
 ||Date of Second and Third Readings|15 September 2009|
 ||Date of commencement|1 December 2009|
+|14.|**Act 19 of 2017—Early Childhood Development Centres Act 2017**|
+||Date of First Reading|6 February 2017 (Bill No. 7/2017 published on 6 February 2017)|
+||Date of Second and Third Readings|28 February 2017|
+||Date of commencement|2 January 2019|
