@@ -78,6 +78,8 @@
 
 - [23A Passenger searches](#Passenger-searches)
 
+- [23B Obstructing railway premises, etc.](#Obstructing-railway-premises-etc)
+
 - [24 Minister may order defects to be remedied](#Minister-may-order-defects-to-be-remedied)
 
 - [25 Offence of wilfully endangering safety](#Offence-of-wilfully-endangering-safety)
@@ -126,7 +128,9 @@
 
 - [40 Powers of arrest](#Powers-of-arrest)
 
-- [41 Authorised employees of licensee to exercise certain powers of Authority’s employees](#Authorised-employees-of-licensee-to-exercise-certain-powers-of-Authority’s-employees)
+- [41 Authorised employees of licensee, etc., to exercise certain powers of Authority’s employees](#Authorised-employees-of-licensee-etc-to-exercise-certain-powers-of-Authority’s-employees)
+
+- [41A Protection from personal liability](#Protection-from-personal-liability)
 
 - [42 Jurisdiction of courts](#Jurisdiction-of-courts)
 
@@ -204,6 +208,16 @@ and any associated investigative and engineering studies, but does not include t
 
 [21/2010 wef 13/09/2010]
 
+“outsourced enforcement officer”, in relation to any provision of this Act or regulations made under this Act, means an individual who —
+
+(a) is appointed under section 11 of the Land Transport Authority of Singapore Act;
+
+(b) is authorised by or under that Act to exercise any powers under any provision of this Act or regulations made under this Act, as the case may be; and
+
+(c) is acting within that authorisation;
+
+[Act 38 of 2018 wef 02/01/2019]
+
 “railway” means a network or system of fixed horizontal rails, tracks, grooves or other guide-ways on, under or above the ground along which a train moves or runs, and includes all tunnels, viaducts, bridges, crossings, stabling yards, depots, stations and other infrastructures constructed or intended to be constructed for any railway and any extensions thereto;
 
 “railway area” means the land delineated as such in plans and maps prepared under section 3(1) or (3);
@@ -218,9 +232,11 @@ and any associated investigative and engineering studies, but does not include t
 
 [Act 9 of 2014 wef 25/03/2014]
 
-“railway premises” means any area, space or building owned or occupied by the Authority which is designed, equipped or set apart for the carriage of passengers by train or for affording facilities incidental to the carriage of passengers by train (but not any railway commuter facility) and includes any train on such premises;
+“railway premises” means any area, space or building owned or occupied by the Authority which is designed, equipped or set apart for the carriage of passengers by train or for affording facilities incidental to the carriage of passengers by train (but not any railway commuter facility unless expressly included) and includes any train on such premises;
 
 [Act 9 of 2014 wef 25/03/2014]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “rapid transit system” means any railway line, or a combination of 2 or more railway lines, and any part thereof comprised in that line or those lines set up or intended to be set up under this Act to meet the transport requirements of the public and includes the Mass Rapid Transit system set up under the repealed Act;
 
@@ -1114,6 +1130,74 @@ who is authorised by the Authority in writing to exercise the power to search un
 
 [21/2010 wef 13/09/2010]
 
+### Obstructing railway premises, etc.
+
+23B\.—(1) Subject to subsection (2), a person must not cause or allow any small vehicle, article or thing to remain on —
+
+(a) any part of the railway premises; or
+
+(b) any part of a bicycle parking facility or vehicle set down facility adjoining the railway premises,
+
+so as to create any obstruction or inconvenience to the passage of the public to, from or within the railway premises.
+
+(2) Subsection (1) does not apply if the obstruction or inconvenience is authorised or permitted by or under this Act or any other Act, or arises out of a lawful and reasonable use of the railway premises, bicycle parking facility or vehicle set down facility, as the case may be.
+
+(3) Where an approved person finds on any part of any railway premises or a bicycle parking facility or vehicle set down facility adjoining the railway premises, any small vehicle, article or thing which has been abandoned, or deposited or left to remain there in contravention of subsection (1), the approved person may move the small vehicle, article or thing, or cause it to be so removed, so that it is no longer an obstruction or inconvenience to other persons on the railway premises.
+
+(4) Subject to subsection (5), an approved person must not exercise a power under subsection (3) unless the approved person has taken reasonable steps to inform the owner of the small vehicle, article or thing (if known), of the approved person’s intention to exercise that power, and allowed or directed the owner to move the small vehicle, article or thing.
+
+(5) An approved person may immediately exercise a power under subsection (3) and move a small vehicle, article or thing, or cause it to be so removed, where the small vehicle, article or thing which has been abandoned, or deposited or left to remain in contravention of subsection (1), is causing obstruction or inconvenience to other persons on the railway premises.
+
+(6) For the purpose of exercising a power under subsection (3), an approved person may, with such assistance as the approved person considers necessary —
+
+(a) move the small vehicle, article or thing by any reasonable means (including by towing it) to a holding yard and detain it there at the risk of its owner; and
+
+(b) use reasonable force, including cutting or breaking open any lock, seal, fastener or other device on or connected to the small vehicle, article or thing, as the case may be.
+
+(7) A person must remove any small vehicle, article or thing where directed to do so by an approved person under subsection (4).
+
+(8) When a small vehicle, article or thing is moved to a holding yard under this section by an approved person, the approved person must as soon as practicable give to the owner of the small vehicle, article or thing (if known) notice of —
+
+(a) the move;
+
+(b) the manner by which and the time within which such owner may procure the release of the small vehicle, article or thing, which includes paying to the Authority all expenses incurred by the Authority, the licensee concerned or an approved person in moving and detaining the small vehicle, article or thing; and
+
+(c) the consequences that may follow under subsection (10) if the small vehicle, article or thing is not claimed within the time specified in the notice.
+
+(9) Without limiting section 37, a notice required under subsection (8) to be given to the owner of a small vehicle, article or thing may be given —
+
+(a) by affixing it to the small vehicle, article or thing in respect of which it applies; or
+
+(b) by posting it conspicuously at or near the part of the railway premises or a bicycle parking facility or vehicle set down facility adjoining the railway premises from which the small vehicle, article or thing was removed, if the name and address of the owner of the small vehicle, article or thing are unknown or cannot be ascertained despite reasonable diligence.
+
+(10) If the small vehicle, article or thing is not claimed by its owner within the reasonable time specified in the notice mentioned in subsection (8), the Authority may dispose of the small vehicle, article or thing in such manner as the Authority thinks fit (including selling it).
+
+(11) A person —
+
+(a) who contravenes subsection (1) or (7); or
+
+(b) who, without the authority of an approved person, removes or tampers with any notice required under subsection (8) that has been —
+
+(i) affixed to any small vehicle, article or thing under subsection (9)(a); or
+
+(ii) posted at any part of, or at or near the part of, the railway premises or a bicycle parking facility or vehicle set down facility adjoining the railway premises under subsection (9)(b),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+
+(12) In this section —
+
+“approved person”, in relation to any railway premises, means any of the following individuals who is authorised by the Authority in writing to exercise any power under this section at or in relation to those railway premises:
+
+(a) an officer or employee of the Authority;
+
+(b) an employee of a licensee;
+
+(c) an outsourced enforcement officer;
+
+“small vehicle” means a bicycle, power-assisted bicycle, personal mobility device, mobility scooter or wheelchair.
+
+[Act 38 of 2018 wef 02/01/2019]
+
 ### Minister may order defects to be remedied
 
 24\.—(1) Where in the opinion of the Minister —
@@ -1396,11 +1480,23 @@ which is authorised by or under this Act or arises from any act or omission so a
 
 [37
 
-### Authorised employees of licensee to exercise certain powers of Authority’s employees
+### Authorised employees of licensee, etc., to exercise certain powers of Authority’s employees
 
-41\. The Authority may, with the approval of the Minister, in writing authorise any licensee or employee of a licensee to exercise all or any of the powers of an employee of the Authority under this Act subject to such conditions or limitations as the Authority may specify.
+41\.—(1) The Authority may, with the approval of the Minister, in writing authorise any licensee or employee of a licensee to exercise all or any of the powers of an employee of the Authority under this Act subject to such conditions or limitations as the Authority may specify.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(2) This section does not affect the operation of sections 11 and 11A of the Land Transport Authority of Singapore Act, and the authorisation under those sections of outsourced enforcement officers to exercise all or any of the powers of an employee of the Authority under this Act (but not powers under section 23B).
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [38
+
+### Protection from personal liability
+
+41A\. No liability shall lie against any member, officer or employee of the Authority or any other person acting under the direction of the Authority for anything done or intended to be done with reasonable care and in good faith in the execution or purported execution of this Act.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Jurisdiction of courts
 
@@ -1470,7 +1566,13 @@ whichever is the lower.
 
 (f) prescribing the powers and duties of inspectors appointed for the purposes of Part IV for the administration and enforcement of that Part; and
 
-(g) prescribing the fees for services rendered by the Authority.
+(g) prescribing the fees to be paid in connection with the administration of this Act, and the waiver, reduction or refund of fees charged.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(2A) In subsection (2)(a)(iii), (v), (vi) and (vii), (c) and (d), “railway premises” includes a bicycle parking facility or vehicle set down facility adjoining those railway premises.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (3) The Authority may, in making any regulations, provide that any contravention of, or failure or neglect to comply with, any regulations shall be an offence and may prescribe the fine with which such offence shall be punishable but so that no such fine shall exceed for any one offence the sum of $5,000 and, in the case of a continuing offence, a further sum of $100 for every day or part thereof during which the offence continues after conviction.
 
@@ -1490,9 +1592,7 @@ whichever is the lower.
 
 ### Transitional provisions
 
-47\.—(1) Any railway set up under the repealed Act\*shall be deemed to constitute or form part of a rapid transit system set up under this Act.
-
-\*The Mass Rapid Transit Corporation Act (Cap. 172, 1988 Rev Ed.) was repealed by the Rapid Transit Systems Act 1995 (Act 29/1995) w.e.f 1.9.1995.
+47\.—(1) Any railway set up under the repealed Act shall be deemed to constitute or form part of a rapid transit system set up under this Act.
 
 (2) Any scheme, contract, document, licence, permission or resolution prepared, made, granted or approved under the repealed Act shall, so far as it is not inconsistent with the provisions of this Act and except as otherwise expressly provided in this Act or in any other written law, continue and be deemed to have been prepared, made, granted or approved by the Authority under the corresponding provisions of this Act.
 
@@ -1562,6 +1662,11 @@ This Legislative History is provided for the convenience of users of the Rapid T
 |||(Bill No. 27/2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|1 April 2016|
+|12.|**Act 38 of 2018—Land Transport (Enforcement Measures) Act 2018**|
+||Date of First Reading|6 August 2018|
+|||(Bill No. 29/2018)|
+||Date of Second and Third Readings|10 September 2018|
+||Date of commencement|2 January 2019|
 ## COMPARATIVE TABLE
 
 Rapid Transit Systems Act
