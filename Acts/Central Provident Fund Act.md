@@ -8205,7 +8205,9 @@ Business Names Registration Act 2014.
 
 5. 
 
-Child Care Centres Act (Cap. 37A).
+Early Childhood Development Centres Act 2017.
+
+[Act 19 of 2017 wef 02/01/2019]
 
 6. 
 
@@ -9209,6 +9211,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of Second and Third Readings|6 November 2017|
 ||Date of commencement|1 January 2018|
 |||1 October 2018|
+|219.|**Act 19 of 2017—Early Childhood Development Centres Act 2017**|
+||Date of First Reading|6 February 2017 (Bill No. 7/2017 published on 6 February 2017)|
+||Date of Second and Third Readings|28 February 2017|
+||Date of commencement|2 January 2019|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
