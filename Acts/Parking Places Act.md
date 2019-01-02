@@ -188,6 +188,16 @@ PRELIMINARY
 
 “officer” means a public officer or an employee of a statutory body;
 
+“outsourced enforcement officer”, in relation to any provision of this Act or any subsidiary legislation made under this Act, means an individual who —
+
+(a) is appointed under section 11 of the Land Transport Authority of Singapore Act;
+
+(b) is authorised by or under that Act to exercise any powers under any provision of this Act or subsidiary legislation made under this Act, as the case may be; and
+
+(c) is acting within that authorisation;
+
+[Act 38 of 2018 wef 02/01/2019]
+
 “park”, with its grammatical variations, means, in respect of a vehicle, to bring the vehicle to a stationary position and cause it to wait for any purpose;
 
 “parking lot” means an area within a parking place which is marked out for parking of a single vehicle in that area;
@@ -1704,21 +1714,27 @@ the Superintendent or authorised officer may —
 
 (1A) Where a vehicle (within the meaning given by Part 3) has been permitted to remain at rest in a public place (also within the meaning given by that Part) —
 
-(a) in such a position or in such condition or circumstances as to appear to the Authority or an enforcement officer to have been abandoned;
+(a) in such a position or in such condition or circumstances as to appear to the Authority or an enforcement officer or outsourced enforcement officer to have been abandoned;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) is evidence of the commission of an offence under section 8C or any regulations made under section 8S; or
 
 (c) is parked in contravention of any provision of this Act or any subsidiary legislation made under this Act, or any other written law,
 
-an enforcement officer may remove the vehicle to a place of safety or any other place and detain it thereat.
+an enforcement officer or outsourced enforcement officer may remove the vehicle to a place of safety or any other place and detain it thereat.
 
 [Act 24 of 2018 wef 08/05/2018]
 
-(2) Where the Superintendent or an authorised officer or enforcement officer has removed any vehicle to a place of safety or any other place under subsection (1)(i) or (1A) or fixed an immobilisation device to the vehicle under subsection (1)(ii), the Superintendent, authorised officer or enforcement officer, as the case may be, must, with all reasonable despatch, give notice in writing to the owner of the vehicle as to the procedure by which he may secure the release of the vehicle, and such notice shall be served on the owner of the vehicle —
+[Act 38 of 2018 wef 02/01/2019]
 
-(a) in the case where the Superintendent or an authorised officer or enforcement officer has removed the vehicle to a place of safety or any other place, in accordance with section 18; or
+(2) Where the Superintendent or an authorised officer, enforcement officer or outsourced enforcement officer has removed any vehicle to a place of safety or any other place under subsection (1)(i) or (1A) or fixed an immobilisation device to the vehicle under subsection (1)(ii), the Superintendent, authorised officer, enforcement officer or outsourced enforcement officer, as the case may be, must, with all reasonable despatch, give notice in writing to the owner of the vehicle (if known) as to the procedure by which he may secure the release of the vehicle, and such notice shall be served on the owner of the vehicle —
+
+(a) in the case where the Superintendent or an authorised officer, enforcement officer or outsourced enforcement officer has removed the vehicle to a place of safety or any other place, in accordance with section 18; or
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) in the case where the Superintendent or authorised officer has fixed an immobilisation device to the vehicle, by affixing the notice onto the windscreen or any other conspicuous part of the vehicle.
 
@@ -1728,15 +1744,19 @@ an enforcement officer may remove the vehicle to a place of safety or any other 
 
 [Act 24 of 2018 wef 08/05/2018]
 
+[Act 38 of 2018 wef 02/01/2019]
+
 (3) No vehicle which has been removed and detained or to which an immobilisation device has been fixed in accordance with this section shall be released to the owner of the vehicle except —
 
 (a) by or under the direction of the Superintendent or an authorised officer or enforcement officer; and
 
 [Act 24 of 2018 wef 01/05/2018]
 
-(b) upon the owner of the vehicle having paid all expenses incurred by the Superintendent or the authorised officer or enforcement officer, and such other charges as may be imposed under this Act or any rules made thereunder,
+(b) upon the owner of the vehicle having paid all expenses incurred by the Superintendent or the authorised officer, enforcement officer or outsourced enforcement officer, and such other charges as may be imposed under this Act or any rules made thereunder,
 
 [Act 24 of 2018 wef 08/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 and the vehicle shall remain at the risk of the owner of the vehicle until all such expenses and charges have been paid.
 
@@ -1766,11 +1786,47 @@ shall be guilty of an offence.
 
 [34/93]
 
-(6) Where any vehicle which has been removed and detained or to which an immobilisation device has been fixed in accordance with this section is not claimed by its owner within one month of the date of its detention or immobilisation, the Superintendent or an authorised officer or enforcement officer may, after giving one month’s notice in theGazetteof his intention to do so, sell the vehicle by public auction or otherwise dispose of the vehicle in any manner as he thinks fit.
+(5A) Subject to this section, every vehicle that is removed to a place of safety or any other place under subsection (1A)(a) or (b) is liable to forfeiture under this section.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5B) An order for the forfeiture under this section may be made by the Authority if it is satisfied —
+
+(a) for a vehicle which is removed to a place of safety or any other place under subsection (1A)(a), that at the end of 30 days after the date of the removal, no claim to the vehicle is made in the prescribed manner to the Authority before the end of that period and there is no prosecution with regard to any offence involving that vehicle; and
+
+(b) for a vehicle which is removed to a place of safety or any other place under subsection (1A)(b), that the vehicle was the subject matter, or was used in the commission, of an offence under section 8C or any regulations made under section 8S, and —
+
+(i) a person is convicted of the offence;
+
+(ii) a person who is reasonably suspected of having committed the offence has that offence compounded under section 12; or
+
+(iii) at the end of 30 days after the date of the removal, no claim to the vehicle is made in the prescribed manner to the Authority before the end of that period and there is no prosecution with regard to that offence.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5C) Upon receipt of a claim mentioned in subsection (5B)(a) or (b)(iii), the Authority may direct that the vehicle be released or may refer the matter by information to a Magistrate.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5D) The Magistrate must, on receipt of any information under subsection (5C), or on the written application of the Public Prosecutor, hold an inquiry and proceed to determine the matter and must, on proof that the vehicle was used in the commission of an offence under section 8C or any regulations made under section 8S, order the vehicle to be forfeited, or may in the absence of such proof order its release.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5E) In any proceedings under subsection (5D), the burden of proof lies on the person asserting that the person is the owner of the vehicle concerned, and on the person from whom the vehicle was seized, as the case may be.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5F) In any proceedings in any court in respect of the forfeiture of any vehicle removed in exercise or the purported exercise of any power conferred under subsection (1A)(a) or (b), no person is entitled to the costs of such proceedings or to any damages or other relief except an order for the return of the vehicle, unless the removal was made without reasonable or probable cause.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(6) Where any vehicle which has been removed and detained or to which an immobilisation device has been fixed in accordance with this section is not earlier forfeited under this section and is not claimed by its owner within one month of the date of its detention or immobilisation, the Superintendent or an authorised officer or enforcement officer may, after giving one month’s notice in theGazetteof his intention to do so, sell the vehicle by public auction or otherwise dispose of the vehicle in any manner as he thinks fit.
 
 [34/93]
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (7) Where a vehicle has been sold or otherwise disposed of under subsection (6), the proceeds of the sale or disposal of the vehicle shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle, or if not claimed by the owner of the vehicle within 12 months of the date of the sale or disposal, shall be forfeited to the Authority.
 
@@ -1782,9 +1838,11 @@ shall be guilty of an offence.
 
 (9) In this section —
 
-“authorised officer” means an officer of a statutory body authorised by the Superintendent for the purpose of this section and, in relation to a vehicle moved under subsection (1A);
+“authorised officer” means an officer of a statutory body authorised by the Superintendent for the purpose of this section;
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “immobilisation device” means any device or appliance designed or adapted to be fixed to any part of a vehicle for the purpose of preventing the vehicle from being driven or otherwise put in motion, being a device or an appliance of a type approved by the Superintendent for use for that purpose in accordance with this section;
 
@@ -2012,17 +2070,21 @@ shall be guilty of that same offence as is the unincorporated association or the
 
 ### Obstruction of Authority, Superintendent, etc.
 
-19\. Any person who obstructs or hinders the Authority, the Superintendent, any enforcement officer or any person acting in the discharge of his duty under this Act or any rules or regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+19\. Any person who obstructs or hinders the Authority, the Superintendent, any enforcement officer, outsourced enforcement officer or any person acting in the discharge of his duty under this Act or any rules or regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [6/91; 28/95]
 
 [Act 24 of 2018 wef 08/05/2018]
 
+[Act 38 of 2018 wef 02/01/2019]
+
 ### Protection from personal liability
 
-20\. No liability shall lie personally against the Superintendent of Car Parks, any Deputy Superintendents and Assistant Superintendents of Car Parks and any enforcement officers for anything which is done or purported to be done, or omitted to be done, in good faith and with reasonable care in the execution or purported execution of this Act and any rules or regulations made under this Act.
+20\. No liability shall lie personally against the Superintendent of Car Parks, any Deputy Superintendents and Assistant Superintendents of Car Parks, an enforcement officer, an outsourced enforcement officer, any person acting under the direction of the Superintendent of Car Parks, a Deputy Superintendent or Assistant Superintendent of Car Parks, or an authorised officer within the meaning given by section 15 for anything which is done or purported to be done, or omitted to be done, in good faith and with reasonable care in the execution or purported execution of this Act and any rules or regulations made under this Act.
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Power to exempt
 
@@ -2240,21 +2302,27 @@ the Superintendent or authorised officer may —
 
 (1A) Where a vehicle (within the meaning given by Part 3) has been permitted to remain at rest in a public place (also within the meaning given by that Part) —
 
-(a) in such a position or in such condition or circumstances as to appear to the Authority or an enforcement officer to have been abandoned;
+(a) in such a position or in such condition or circumstances as to appear to the Authority or an enforcement officer or outsourced enforcement officer to have been abandoned;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) is evidence of the commission of an offence under section 8C or any regulations made under section 8S; or
 
 (c) is parked in contravention of any provision of this Act or any subsidiary legislation made under this Act, or any other written law,
 
-an enforcement officer may remove the vehicle to a place of safety or any other place and detain it thereat.
+an enforcement officer or outsourced enforcement officer may remove the vehicle to a place of safety or any other place and detain it thereat.
 
 [Act 24 of 2018 wef 08/05/2018]
 
-(2) Where the Superintendent or an authorised officer or enforcement officer has removed any vehicle to a place of safety or any other place under subsection (1)(i) or (1A) or fixed an immobilisation device to the vehicle under subsection (1)(ii), the Superintendent, authorised officer or enforcement officer, as the case may be, must, with all reasonable despatch, give notice in writing to the owner of the vehicle as to the procedure by which he may secure the release of the vehicle, and such notice shall be served on the owner of the vehicle —
+[Act 38 of 2018 wef 02/01/2019]
 
-(a) in the case where the Superintendent or an authorised officer or enforcement officer has removed the vehicle to a place of safety or any other place, in accordance with section 18; or
+(2) Where the Superintendent or an authorised officer, enforcement officer or outsourced enforcement officer has removed any vehicle to a place of safety or any other place under subsection (1)(i) or (1A) or fixed an immobilisation device to the vehicle under subsection (1)(ii), the Superintendent, authorised officer, enforcement officer or outsourced enforcement officer, as the case may be, must, with all reasonable despatch, give notice in writing to the owner of the vehicle (if known) as to the procedure by which he may secure the release of the vehicle, and such notice shall be served on the owner of the vehicle —
+
+(a) in the case where the Superintendent or an authorised officer, enforcement officer or outsourced enforcement officer has removed the vehicle to a place of safety or any other place, in accordance with section 18; or
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) in the case where the Superintendent or authorised officer has fixed an immobilisation device to the vehicle, by affixing the notice onto the windscreen or any other conspicuous part of the vehicle.
 
@@ -2264,15 +2332,19 @@ an enforcement officer may remove the vehicle to a place of safety or any other 
 
 [Act 24 of 2018 wef 08/05/2018]
 
+[Act 38 of 2018 wef 02/01/2019]
+
 (3) No vehicle which has been removed and detained or to which an immobilisation device has been fixed in accordance with this section shall be released to the owner of the vehicle except —
 
 (a) by or under the direction of the Superintendent or an authorised officer or enforcement officer; and
 
 [Act 24 of 2018 wef 01/05/2018]
 
-(b) upon the owner of the vehicle having paid all expenses incurred by the Superintendent or the authorised officer or enforcement officer, and such other charges as may be imposed under this Act or any rules made thereunder,
+(b) upon the owner of the vehicle having paid all expenses incurred by the Superintendent or the authorised officer, enforcement officer or outsourced enforcement officer, and such other charges as may be imposed under this Act or any rules made thereunder,
 
 [Act 24 of 2018 wef 08/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 and the vehicle shall remain at the risk of the owner of the vehicle until all such expenses and charges have been paid.
 
@@ -2302,11 +2374,47 @@ shall be guilty of an offence.
 
 [34/93]
 
-(6) Where any vehicle which has been removed and detained or to which an immobilisation device has been fixed in accordance with this section is not claimed by its owner within one month of the date of its detention or immobilisation, the Superintendent or an authorised officer or enforcement officer may, after giving one month’s notice in theGazetteof his intention to do so, sell the vehicle by public auction or otherwise dispose of the vehicle in any manner as he thinks fit.
+(5A) Subject to this section, every vehicle that is removed to a place of safety or any other place under subsection (1A)(a) or (b) is liable to forfeiture under this section.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5B) An order for the forfeiture under this section may be made by the Authority if it is satisfied —
+
+(a) for a vehicle which is removed to a place of safety or any other place under subsection (1A)(a), that at the end of 30 days after the date of the removal, no claim to the vehicle is made in the prescribed manner to the Authority before the end of that period and there is no prosecution with regard to any offence involving that vehicle; and
+
+(b) for a vehicle which is removed to a place of safety or any other place under subsection (1A)(b), that the vehicle was the subject matter, or was used in the commission, of an offence under section 8C or any regulations made under section 8S, and —
+
+(i) a person is convicted of the offence;
+
+(ii) a person who is reasonably suspected of having committed the offence has that offence compounded under section 12; or
+
+(iii) at the end of 30 days after the date of the removal, no claim to the vehicle is made in the prescribed manner to the Authority before the end of that period and there is no prosecution with regard to that offence.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5C) Upon receipt of a claim mentioned in subsection (5B)(a) or (b)(iii), the Authority may direct that the vehicle be released or may refer the matter by information to a Magistrate.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5D) The Magistrate must, on receipt of any information under subsection (5C), or on the written application of the Public Prosecutor, hold an inquiry and proceed to determine the matter and must, on proof that the vehicle was used in the commission of an offence under section 8C or any regulations made under section 8S, order the vehicle to be forfeited, or may in the absence of such proof order its release.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5E) In any proceedings under subsection (5D), the burden of proof lies on the person asserting that the person is the owner of the vehicle concerned, and on the person from whom the vehicle was seized, as the case may be.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(5F) In any proceedings in any court in respect of the forfeiture of any vehicle removed in exercise or the purported exercise of any power conferred under subsection (1A)(a) or (b), no person is entitled to the costs of such proceedings or to any damages or other relief except an order for the return of the vehicle, unless the removal was made without reasonable or probable cause.
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(6) Where any vehicle which has been removed and detained or to which an immobilisation device has been fixed in accordance with this section is not earlier forfeited under this section and is not claimed by its owner within one month of the date of its detention or immobilisation, the Superintendent or an authorised officer or enforcement officer may, after giving one month’s notice in theGazetteof his intention to do so, sell the vehicle by public auction or otherwise dispose of the vehicle in any manner as he thinks fit.
 
 [34/93]
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (7) Where a vehicle has been sold or otherwise disposed of under subsection (6), the proceeds of the sale or disposal of the vehicle shall be applied in payment of any expenses incurred in carrying out the provisions of this section and thereafter shall be applied in payment of all charges and fines payable under this Act and any rules made thereunder and the surplus, if any, shall be paid to the owner of the vehicle, or if not claimed by the owner of the vehicle within 12 months of the date of the sale or disposal, shall be forfeited to the Authority.
 
@@ -2318,9 +2426,11 @@ shall be guilty of an offence.
 
 (9) In this section —
 
-“authorised officer” means an officer of a statutory body authorised by the Superintendent for the purpose of this section and, in relation to a vehicle moved under subsection (1A);
+“authorised officer” means an officer of a statutory body authorised by the Superintendent for the purpose of this section;
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “immobilisation device” means any device or appliance designed or adapted to be fixed to any part of a vehicle for the purpose of preventing the vehicle from being driven or otherwise put in motion, being a device or an appliance of a type approved by the Superintendent for use for that purpose in accordance with this section;
 
@@ -2548,17 +2658,21 @@ shall be guilty of that same offence as is the unincorporated association or the
 
 ### Obstruction of Authority, Superintendent, etc.
 
-19\. Any person who obstructs or hinders the Authority, the Superintendent, any enforcement officer or any person acting in the discharge of his duty under this Act or any rules or regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+19\. Any person who obstructs or hinders the Authority, the Superintendent, any enforcement officer, outsourced enforcement officer or any person acting in the discharge of his duty under this Act or any rules or regulations made thereunder shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
 [6/91; 28/95]
 
 [Act 24 of 2018 wef 08/05/2018]
 
+[Act 38 of 2018 wef 02/01/2019]
+
 ### Protection from personal liability
 
-20\. No liability shall lie personally against the Superintendent of Car Parks, any Deputy Superintendents and Assistant Superintendents of Car Parks and any enforcement officers for anything which is done or purported to be done, or omitted to be done, in good faith and with reasonable care in the execution or purported execution of this Act and any rules or regulations made under this Act.
+20\. No liability shall lie personally against the Superintendent of Car Parks, any Deputy Superintendents and Assistant Superintendents of Car Parks, an enforcement officer, an outsourced enforcement officer, any person acting under the direction of the Superintendent of Car Parks, a Deputy Superintendent or Assistant Superintendent of Car Parks, or an authorised officer within the meaning given by section 15 for anything which is done or purported to be done, or omitted to be done, in good faith and with reasonable care in the execution or purported execution of this Act and any rules or regulations made under this Act.
 
 [Act 24 of 2018 wef 01/05/2018]
+
+[Act 38 of 2018 wef 02/01/2019]
 
 ### Power to exempt
 
@@ -2692,3 +2806,8 @@ This Legislative History is provided for the convenience of users of the Parking
 ||Date of First Reading|6 August 2018 (Bill No. 29/2018 published on 6 August 2018)|
 ||Date of Second and Third Readings|10 September 2018|
 ||Date of commencement|8 July 2018|
+|17.|**Act 38 of 2018—Land Transport (Enforcement Measures) Act 2018**|
+||Date of First Reading|6 August 2018|
+|||(Bill No. 29/2018)|
+||Date of Second and Third Readings|10 September 2018|
+||Date of commencement|2 January 2019|
