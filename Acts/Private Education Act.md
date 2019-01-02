@@ -1576,7 +1576,7 @@ whichever is the lower.
 
 ### Non-application to certain education institutions
 
-72\. This Act shall not apply to the following persons, all of whom shall not be regarded as private education institutions, or managers or teachers of private education institutions, as the case may be:
+72\.—(1) This Act shall not apply to the following persons, all of whom shall not be regarded as private education institutions, or managers or teachers of private education institutions, as the case may be:
 
 (a) the Government or any entity owned or controlled by the Government and the teachers of a Government school;
 
@@ -1608,13 +1608,13 @@ whichever is the lower.
 
 (i) the Nanyang Technological University, the National University of Singapore, the Singapore Management University, the Singapore University of Technology and Design, the Singapore Institute of Technology, the Singapore University of Social Sciences and any other person whose function of providing university education is determined by written law, any entity owned (wholly or partly) or controlled by any such University or person, and the teachers of the respective Universities and entities; and
 
-[Act 11 of 2014 wef 28/03/2014]
-
-[Act 30 of 2017 wef 11/07/2017]
-
 (j) any place of safety or juvenile rehabilitation centre approved, appointed or established under the Children and Young Persons Act (Cap. 38) or any approved institution approved under section 12 of the Probation of Offenders Act (Cap. 252), respectively, and the respective managers thereof.
 
-[3/2011; 14/2011]
+[Act 19 of 2017 wef 02/01/2019]
+
+(2) This Act does not apply to, or in relation to, any early childhood development centre licensed under the Early Childhood Development Centres Act 2017, the key appointment holders (as defined in that Act) of the licensee of the centre, and the teachers of the centre.
+
+[Act 19 of 2017 wef 02/01/2019]
 
 ### Saving and transitional provisions
 
@@ -1763,6 +1763,10 @@ This Legislative History is provided for the convenience of users of the Private
 ||Date of First Reading|3 April 2017 (Bill No. 24/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|11 July 2017|
+|11.|**Act 19 of 2017—Early Childhood Development Centres Act 2017**|
+||Date of First Reading|6 February 2017 (Bill No. 7/2017 published on 6 February 2017)|
+||Date of Second and Third Readings|28 February 2017|
+||Date of commencement|2 January 2019|
 ## COMPARATIVE TABLE
 
 Private Education Act
