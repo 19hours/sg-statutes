@@ -3380,7 +3380,9 @@ except for any payment attributable to the carriage of passengers, mail, livesto
 
 (za) any dividends paid on or after 1st January 2008 by any company resident in Singapore;
 
-(zb) any subsidy, allowance or benefit provided by an employer to an employee for the attendance by any child of the employee at a child care centre licensed under the Child Care Centres Act (Cap. 37A);
+(zb) any subsidy, allowance or benefit provided by an employer to an employee for the attendance by any child of the employee at an early childhood development centre licensed under the Early Childhood Development Centres Act 2017;
+
+[Act 19 of 2017 wef 02/01/2019]
 
 (zc) [Deleted by Act 34 of 2016 wef 29/12/2016]
 
@@ -4736,8 +4738,6 @@ where the mobilisation, holding or demobilisation is undertaken by the approved 
 
 (q) on or after the date the Income Tax (Amendment No. 3) Act 2016 is published in theGazette, from foreign exchange and risk management activities that are carried out in connection with and incidental to an activity mentioned in subsection (1)(f), (h), (i) or (j);
 
-[Act 34 of 2016 wef 29/12/2016]
-
 [Act 32 of 2019 wef 12/12/2018]
 
 (r) on or after 12 December 2018 from —
@@ -4753,6 +4753,8 @@ where the mobilisation, holding or demobilisation is undertaken by the approved 
 [Act 32 of 2019 wef 12/12/2018]
 
 (s) on or after 12 December 2018 from foreign exchange and risk management activities which are carried out in connection with and incidental to an activity mentioned in paragraph (r).
+
+[Act 34 of 2016 wef 29/12/2016]
 
 [Act 32 of 2019 wef 12/12/2018]
 
@@ -6788,9 +6790,9 @@ then the amounts in paragraph (b) shall be regarded as income of the divesting c
 
 (d) any loss recognised in accordance with FRS 39, SFRS for Small Entities, FRS 109 or SFRS(I) 9 (as the case may be), in determining the profit or loss or expense in respect of the shares.
 
-[Act 39 of 2017 wef 26/10/2017]
-
 [29/2012]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 32 of 2019 wef 12/11/2018]
 
@@ -6827,6 +6829,10 @@ then the write-back or profit referred to in paragraph (b) shall be regarded as 
 “FRS 39” and “SFRS for Small Entities” have the meanings given to those expressions in section 34A(10);
 
 “FRS 109” and “SFRS(I) 9” have the meanings given to those expressions in section 34AA(15).
+
+[29/2012]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 32 of 2019 wef 12/11/2018]
 
@@ -9727,8 +9733,6 @@ shall be allowed the deduction or further deduction for the previous expense und
 [Act 32 of 2019 wef 12/11/2018]
 
 (d) in accordance with FRS 38 or SFRS(I) 1-38 (as the case may be), amortisation of the asset is recognised in the person’s financial statements for the basis period for the year of assessment 2012 or any subsequent year of assessment,
-
-[Act 32 of 2019 wef 12/11/2018]
 
 then the amount of the amortisation that is recognised in the person’s financial statements as an expense in accordance with FRS 38 or SFRS(I) 1-38 (as the case may be), shall be allowed to the person as a deduction against an amount that is deemed as income derived by that person for that basis period under section 10F(1A) or (1C).
 
@@ -21142,6 +21146,8 @@ then that concessionary rate of tax applies to such income if the company remain
 
 (d) for the year of assessment 2013 and subsequent years of assessment, foreign exchange and risk management activities which are carried out in connection with and incidental to the leasing referred to in paragraph (c);
 
+[34/2008; 29/2012]
+
 [Act 32 of 2019 wef 12/12/2018]
 
 (e) the leasing of any container used for international transportation of goods, if the container was —
@@ -21161,8 +21167,6 @@ then that concessionary rate of tax applies to such income if the company remain
 [Act 32 of 2019 wef 12/12/2018]
 
 (g) foreign exchange and risk management activities that are carried out in connection with and incidental to the leases mentioned in paragraphs (e) and (f).
-
-[34/2008; 29/2012]
 
 [Act 32 of 2019 wef 12/12/2018]
 
@@ -21256,13 +21260,13 @@ except that the Minister may extend the period so specified for such further per
 
 “registered business trust” has the same meaning as in the Business Trusts Act (Cap. 31A);
 
+[34/2008; 29/2012]
+
 [Act 32 of 2019 wef 12/12/2018]
 
 “related party”, in relation to an approved container investment enterprise, means any entity that is related to the approved container investment enterprise in such manner as may be prescribed by rules made under section 7.
 
 [Act 32 of 2019 wef 12/12/2018]
-
-[34/2008; 29/2012]
 
 (8) Rules made for the purpose of the definition of “related party” in subsection (7) may be made to take effect from (and including) 12 December 2018.
 
@@ -28113,11 +28117,7 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of First Reading|25 January 2016 (Bill No. 1/2016 published on 25 January 2016)|
 ||Date of Second and Third Readings|29 February 2016|
 ||Date of commencement|30 November 2018|
-|203.|**Act 52 of 2018—Goods and Services Tax (Amendment) Act 2018**|
-||Date of First Reading|1 October 2018 (Bill No. 46/2018 published on 1 October 2018)|
-||Date of Second and Third Readings|19 November 2018|
-||Date of commencement|1 January 2019|
-|204.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
+|203.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
 ||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
 ||Date of Second and Third Readings|7 October 2019|
 ||Date of commencement|1 January 2018|
@@ -28126,6 +28126,14 @@ This Legislative History is provided for the convenience of users of the Income 
 |||20 December 2018|
 |||31 December 2018|
 |||1 January 2019|
+|204.|**Act 52 of 2018—Goods and Services Tax (Amendment) Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 46/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|19 November 2018|
+||Date of commencement|1 January 2019|
+|205.|**Act 19 of 2017—Early Childhood Development Centres Act 2017**|
+||Date of First Reading|6 February 2017 (Bill No. 7/2017 published on 6 February 2017)|
+||Date of Second and Third Readings|28 February 2017|
+||Date of commencement|2 January 2019|
 ## COMPARATIVE TABLE
 
 Income Tax Act
