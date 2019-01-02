@@ -18,9 +18,9 @@
 
 - [5 Prohibition of vehicles not complying with rules as to construction, etc.](#Prohibition-of-vehicles-not-complying-with-rules-as-to-construction-etc)
 
-- [5A No riding of personal mobility devices on roads](#No-riding-of-personal-mobility-devices-on-roads)
+- [5A No riding of personal mobility devices, etc., on roads](#No-riding-of-personal-mobility-devices-etc-on-roads)
 
-- [5B No riding of personal mobility device when towed by motor vehicle](#No-riding-of-personal-mobility-device-when-towed-by-motor-vehicle)
+- [5B No riding of personal mobility device, etc., when towed by motor vehicle](#No-riding-of-personal-mobility-device-etc-when-towed-by-motor-vehicle)
 
 - [6 Rules as to use and construction of vehicles](#Rules-as-to-use-and-construction-of-vehicles)
 
@@ -446,7 +446,7 @@
 
 - [144 Property left in public service vehicles](#Property-left-in-public-service-vehicles)
 
-- [145 Savings](#Savings)
+- [145 Protection from personal liability](#Protection-from-personal-liability)
 
 [**FIRST SCHEDULE Specified Acts**](#FIRST-SCHEDULE-Specified-Acts)
 
@@ -580,6 +580,10 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 
 [Act 10 of 2017 wef 20/06/2017]
 
+“mobility scooter” and “motorised wheelchair” have the same meanings as in the Active Mobility Act 2017 (Act 3 of 2017);
+
+[Act 38 of 2018 wef 02/01/2019]
+
 [Deleted by Act 25 of 2011 wef 01/01/2012]
 
 “motor fuel” has the same meaning as in the Customs Act (Cap. 70);
@@ -593,6 +597,16 @@ An Act for the regulation of road traffic and the use of vehicles and the user o
 (b) is used or intended to be used on any road;
 
 [Act 10 of 2017 wef 14/08/2017]
+
+“outsourced enforcement officer”, in relation to any provision of this Act or subsidiary legislation made under this Act, means an individual who —
+
+(a) is appointed under section 11 of the Land Transport Authority of Singapore Act;
+
+(b) is authorised by or under that Act to exercise any powers under any provision of this Act or subsidiary legislation made under this Act, as the case may be; and
+
+(c) is acting within that authorisation;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 “owner”, in relation to a vehicle which is the subject of a hiring agreement or hire purchase agreement, means the person in possession of the vehicle under that agreement;
 
@@ -864,21 +878,27 @@ and the surplus, if any, shall be paid to the person in whose name the vehicle o
 
 [Act 3 of 2017 wef 20/06/2017]
 
-### No riding of personal mobility devices on roads
+### No riding of personal mobility devices, etc., on roads
 
-5A\.—(1) An individual must not ride a personal mobility device on a road at any time.
+5A\.—(1) An individual must not ride a personal mobility device or drive a mobility scooter or motorised wheelchair on a road at any time.
 
-(2) However, subsection (1) does not apply to an individual who is crossing a road in or on a personal mobility device —
+[Act 38 of 2018 wef 02/01/2019]
+
+(2) However, subsection (1) does not apply to an individual who is crossing a road in or on a personal mobility device, a mobility scooter or a motorised wheelchair —
 
 (a) if the individual crosses the road by the shortest safe route, and does not stay on the road longer than necessary to cross the road safely; or
 
 (b) if —
 
-(i) there is an obstruction on a shared path or footpath (within the meaning of the Active Mobility Act 2017) adjacent to the road (called an adjacent area);
+(i) there is, in the case of a rider of a personal mobility device, an obstruction on a shared path or footpath (within the meaning of the Active Mobility Act 2017) adjacent to the road (called an adjacent area), or there is an obstruction on any public path (within the meaning of that Act) adjacent to the road (also called an adjacent area) in the case of a driver of a mobility scooter or a motorised wheelchair;
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (ii) it is impracticable to travel on the adjacent area; and
 
 (iii) the individual travels no more than reasonably necessary along the road to avoid the obstruction.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (3) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
@@ -886,11 +906,15 @@ and the surplus, if any, shall be paid to the person in whose name the vehicle o
 
 (b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[Act 38 of 2018 wef 02/01/2019]
+
 [Act 3 of 2017 wef 15/01/2018]
 
-### No riding of personal mobility device when towed by motor vehicle
+### No riding of personal mobility device, etc., when towed by motor vehicle
 
-5B\.—(1) An individual must not ride a personal mobility device on a road at any time while the individual riding the device is towed by a motor vehicle or is otherwise holding on to a motor vehicle.
+5B\.—(1) An individual must not ride a personal mobility device or drive a mobility scooter or motorised wheelchair on a road at any time while the individual riding the personal mobility device, or driving the mobility scooter or motorised wheelchair, is towed by a motor vehicle or is otherwise holding on to a motor vehicle.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (2) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
@@ -1790,9 +1814,17 @@ shall be guilty of an offence and shall be liable on conviction —
 
 (m) empower the Registrar and any officer authorised by him to prohibit the entry by driving into, or exit by driving from, Singapore of any vehicle —
 
-(i) if any charge, fee or tax payable in respect of the vehicle under this Act or any of its subsidiary legislation is in arrears; or
+(i) if any charge, fee or tax payable in respect of the vehicle under this Act or any of its subsidiary legislation is in arrears;
 
-(ii) if any charge or fee payable in respect of the vehicle under the Parking Places Act (Cap. 214) or any of its subsidiary legislation is in arrears.
+[Act 38 of 2018 wef 02/01/2019]
+
+(ii) if any charge or fee payable in respect of the vehicle under the Parking Places Act (Cap. 214) or any of its subsidiary legislation is in arrears; or
+
+[Act 38 of 2018 wef 02/01/2019]
+
+(iii) which the Registrar or officer so authorised reasonably believes has been used in the commission of an offence under this Act or the Parking Places Act (Cap. 214) or any subsidiary legislation made under either Act, or under the Environmental Protection and Management (Vehicular Emissions) Regulations (Cap. 94A, Rg 6).
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [Act 10 of 2017 wef 20/07/2017]
 
@@ -3898,11 +3930,13 @@ by means of a breath analysing device of a type approved by the Deputy Commissio
 
 ### Duty to give information
 
-81\.—(1) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act or the rules, the owner of the motor vehicle, when required by a police officer or an employee of the Authority to do so, must give to the police officer or the Authority’s employee, within 14 days after being so required, such information as to —
+81\.—(1) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act or the rules, the owner of the motor vehicle, when required by a police officer, an employee of the Authority or an outsourced enforcement officer to do so, must give to the police officer, Authority’s employee or outsourced enforcement officer (as the case may be), within 14 days after being so required, such information as to —
 
 (a) the identity and address of the person who was driving the motor vehicle at or about the time of the alleged offence; and
 
 (b) the driving licence held by that person.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [Act 10 of 2017 wef 20/06/2017]
 
@@ -3916,25 +3950,31 @@ by means of a breath analysing device of a type approved by the Deputy Commissio
 
 (b) the record shows no person having been permitted by the owner to drive the motor vehicle at or about the time of the alleged offence.
 
-(2) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act or the rules, any other person who was or should have been in charge of the motor vehicle, when required by a police officer or an employee of the Authority to do so, must give to the police officer or the Authority’s employee, within 14 days after being so required, any information which the person has power to give, and which may lead to the identification of the driver, and if that person fails to do so, that person is guilty of an offence.
+(2) Where the driver of a motor vehicle is alleged or is suspected to be guilty of an offence under this Act or the rules, any other person who was or should have been in charge of the motor vehicle, when required by a police officer, an employee of the Authority or an outsourced enforcement officer to do so, must give to the police officer, Authority’s employee or outsourced enforcement officer (as the case may be), within 14 days after being so required, any information which the person has power to give, and which may lead to the identification of the driver, and if that person fails to do so, that person is guilty of an offence.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [Act 10 of 2017 wef 20/06/2017]
 
 (3) Any person who wilfully or recklessly furnishes any false or misleading information under subsection (1) or (2) shall be guilty of an offence.
 
-(4) A police officer or an employee of the Authority may require any information to be furnished under subsection (1) or (2) to be in writing signed by the person required to furnish such information.
+(4) A police officer, an employee of the Authority or an outsourced enforcement officer may require any information to be furnished under subsection (1) or (2) to be in writing signed by the person required to furnish such information.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (5) Notwithstanding any other written law to the contrary, any information given under this section by any person charged with any offence under this Act or the rules or any offence in connection with the driving of a motor vehicle may be used as evidence without proof of signature at the hearing of the charge.
 
 [Act 10 of 2017 wef 20/06/2017]
 
-(6) Notwithstanding any other written law to the contrary, any statement made by any person to any police officer or an employee of the Authority —
+(6) Notwithstanding any other written law to the contrary, any statement made by any person to any police officer, an employee of the Authority or an outsourced enforcement officer —
 
 (a) that a motor vehicle was on a particular occasion being driven by or belonged to that person; or
 
 (b) that it belonged to a firm in which that person also stated that he was a partner or to a corporation of which that person stated that he was a director, officer or employee,
 
 shall be admissible in evidence without proof of signature for the purpose of determining by whom the motor vehicle was on that occasion being driven or who was in charge of it or to whom it belonged.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (7) Any person who is guilty of an offence under subsection (1A) or (2) shall be liable on conviction —
 
@@ -4244,17 +4284,21 @@ Miscellaneous
 
 ### Power to examine vehicles
 
-93\.—(1) Any police officer in uniform may, for the purpose of ensuring that any vehicle or trailer that is being used on a road complies with this Act or the rules, at any time —
+93\.—(1) Any police officer in uniform or an outsourced enforcement officer may, for the purpose of ensuring that any vehicle or trailer that is being used on a road complies with this Act or the rules, at any time —
 
 (a) examine the vehicle or trailer or the licence relating thereto; or
 
-(b) order the owner or driver of the vehicle or trailer to deliver the same for an inspection by such person and at such time and place as the police officer may specify.
+(b) order the owner or driver of the vehicle or trailer to deliver the same for an inspection by such person and at such time and place as the police officer or outsourced enforcement officer (as the case may be) may specify.
 
 [1/2003]
 
 [Act 10 of 2017 wef 20/06/2017]
 
-(2) Any person who obstructs a police officer in the exercise of his powers under subsection (1)(a) or fails to comply with any order given by the police officer under subsection (1)(b) shall be guilty of an offence.
+[Act 38 of 2018 wef 02/01/2019]
+
+(2) Any person who obstructs a police officer or an outsourced enforcement officer (as the case may be) in the exercise of his powers under subsection (1)(a) or fails to comply with any order given by the police officer or outsourced enforcement officer (as the case may be) under subsection (1)(b) shall be guilty of an offence.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [1/2003]
 
@@ -4308,23 +4352,23 @@ Miscellaneous
 
 (6) Any unauthorised person removing or causing to be removed such vehicle or trailer from the place of safety pending the order of a Magistrate or the Deputy Commissioner of Police or the Registrar shall be guilty of an offence.
 
-(7) If the owner of the vehicle or trailer is convicted of or has been permitted to compound an offence under this Act or the rules, the expenses incurred by the Deputy Commissioner of Police or the Registrar in carrying out the provisions of this section shall be recoverable by or on behalf of the Deputy Commissioner of Police or the Registrar and, in case of dispute or neglect to pay, be summarily ascertained by a Magistrate’s Court and may be recovered in the same manner as if they were fines imposed by that Court.
+(7) If the owner of the vehicle or trailer is convicted of or has been permitted to compound an offence under this Act or the rules, the expenses incurred by the Deputy Commissioner of Police or the Registrar in removing, seizing, detaining, storing and disposing the vehicle under this section shall be recoverable by or on behalf of the Deputy Commissioner of Police or the Registrar and, in case of dispute or neglect to pay, be summarily ascertained by a Magistrate’s Court and may be recovered in the same manner as if they were fines imposed by that Court.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 [Act 10 of 2017 wef 20/06/2017]
 
-(8) Where any vehicle or trailer is detained under this section, the Deputy Commissioner of Police or the Registrar shall with all reasonable despatch notify the owner of the seizure, and such notification may be given —
+(8) Where any vehicle or trailer is detained under this section, the Deputy Commissioner of Police or the Registrar must with all reasonable despatch give notice to the owner (if known) of the seizure in a manner allowed under section 131A.
 
-(a) by posting a notice in writing to the owner of the vehicle at his usual or last known place of residence or business in Singapore; or
-
-(b) in such other manner as the Deputy Commissioner of Police or the Registrar thinks expedient.
-
-[24/2010 wef 01/11/2010]
+[Act 38 of 2018 wef 02/01/2019]
 
 (9) If the vehicle or trailer is not claimed by its owner within one month of the date of its detention, the Deputy Commissioner of Police or the Registrar thereafter and after giving one month’s notice in theGazetteof his intention to do so may sell by public auction or otherwise dispose of the vehicle or trailer.
 
 (10) The proceeds, if any, from the sale or disposal of any such vehicle or trailer shall be applied in payment of —
 
-(a) firstly, any licence fees which may be due in respect of the vehicle and of any charges incurred in carrying out the provisions of this section; and
+(a) firstly, any licence fees which may be due in respect of the vehicle and of any charges incurred in removing, seizing, detaining, storing and disposing the vehicle under this section; and
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) secondly, any damage caused to property of the Government by the unlawful use of the vehicle or trailer,
 
@@ -4392,11 +4436,9 @@ and the vehicle shall remain so immobilised or detained at the risk of the owner
 
 (a) where the vehicle has been immobilised, by affixing a notice onto the windscreen or any other conspicuous part of the vehicle; or
 
-(b) where the vehicle has been seized and detained —
+(b) where the vehicle has been seized and detained, in a manner allowed under section 131A.
 
-(i) by posting a notice in writing to the person in whose name the vehicle is registered at his usual or last known place of residence or business in Singapore; or
-
-(ii) in such other manner as the police officer or employee of the Authority thinks expedient.
+[Act 38 of 2018 wef 02/01/2019]
 
 [24/2010 wef 01/11/2010]
 
@@ -5592,15 +5634,15 @@ an enforcement officer who is in uniform may —
 
 (iii) immobilise the vehicle.
 
-(2) Where an enforcement officer has removed and detained, or has immobilised, any vehicle under subsection (1), the enforcement officer shall, with all reasonable despatch, notify the owner of the vehicle as to the procedure by which such owner may secure the release of the vehicle.
+(2) Where an enforcement officer has removed and detained, or has immobilised, any vehicle under subsection (1), the enforcement officer shall, with all reasonable despatch, notify the owner of the vehicle (if known) as to the procedure by which such owner may secure the release of the vehicle.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (3) The notification under subsection (2) may be given —
 
-(a) where the vehicle has been removed and detained —
+(a) where the vehicle has been removed and detained, in such manner as the enforcement officer thinks expedient; or
 
-(i) by posting a notice in writing to the owner of the vehicle at his usual or last known place of residence or business in Singapore; or
-
-(ii) in such other manner as the enforcement officer thinks expedient; or
+[Act 38 of 2018 wef 02/01/2019]
 
 (b) where the vehicle has been immobilised, by affixing a notice onto the windscreen or any other conspicuous part of the vehicle.
 
@@ -5624,7 +5666,9 @@ and the vehicle shall remain at the risk of the owner of the vehicle until all s
 
 (iii) the immobilisation device that has been fixed to a vehicle under this section.
 
-(6) Where the owner or driver of a vehicle which has been immobilised under this section does not appear to secure the release of the vehicle within the time stipulated in the notice referred to in subsection (3)(b), an enforcement officer may remove the vehicle (including any trailer drawn or any load carried thereby) to such place as he thinks fit and detain it thereat, and shall give notice to the owner of the vehicle in accordance with subsection (3)(a) as to the procedure by which such owner may secure the release of the vehicle.
+(6) Where the owner or driver of a vehicle which has been immobilised under this section does not appear to secure the release of the vehicle within the time stipulated in the notice referred to in subsection (3)(b), an enforcement officer may remove the vehicle (including any trailer drawn or any load carried thereby) to such place as he thinks fit and detain it thereat, and shall give notice to the owner of the vehicle (if known) in accordance with subsection (3)(a) as to the procedure by which such owner may secure the release of the vehicle.
+
+[Act 38 of 2018 wef 02/01/2019]
 
 (7) Where any vehicle which has been removed and detained, or immobilised, under this section is not claimed by its owner within 3 months from the date on which it was so removed and detained or immobilised (as the case may be), the Deputy Commissioner of Police or the Registrar may, after giving due notice in theGazetteand after giving not less than one month’s notice in writing to the owner (if the name and address of such owner are known to the Deputy Commissioner of Police or the Registrar), sell the vehicle by public auction or otherwise dispose of the vehicle.
 
@@ -6414,11 +6458,11 @@ that is to be conducted mainly or partly on a road or any part thereof, and incl
 
 [4/2006 wef 01/04/2006]
 
-### Savings
+### Protection from personal liability
 
-145\. The Road Traffic (Amendment) Act 2002 (Act 21 of 2002) shall not affect any driving licence which was granted or renewed before 16th December 2002 and which, on that date remains in force, and the relevant provisions of this Act in force immediately before 16th December 2002 shall continue to apply to such a driving licence until its expiration, as if the Road Traffic (Amendment) Act 2002 had not been enacted.
+145\. No liability shall lie against any member, officer or employee of the Authority or any other person acting under the direction of the Authority for anything done or intended to be done with reasonable care and in good faith in the execution or purported execution of this Act.
 
-[21/2002]
+[Act 38 of 2018 wef 02/01/2019]
 
 FIRST SCHEDULE
 
@@ -6988,14 +7032,15 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 5/2017 published on 10 January 2017)|
 ||Date of Second and Third Readings|7 February 2017|
 ||Date of commencement|1 May 2018|
-|82.|**Act 38 of 2018—Land Transport (Enforcement Measures) Act 2018**|
-||Date of First Reading|6 August 2018 (Bill No. 29/2018 published on 6 August 2018)|
-||Date of Second and Third Readings|10 September 2018|
-||Date of commencement|1 May 2018|
-|83.|**Act 9 of 2018—Cybersecurity Act 2018**|
+|82.|**Act 9 of 2018—Cybersecurity Act 2018**|
 ||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|31 August 2018|
+|83.|**Act 38 of 2018—Land Transport (Enforcement Measures) Act 2018**|
+||Date of First Reading|6 August 2018 (Bill No. 29/2018 published on 6 August 2018)|
+||Date of Second and Third Readings|10 September 2018|
+||Date of commencement|1 May 2018|
+|||2 January 2019|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
