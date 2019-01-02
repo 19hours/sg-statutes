@@ -2181,7 +2181,9 @@ he may, by order in writing, direct the immediate closure of the home for childr
 
 [Act 2 of 2012 wef 01/03/2012]
 
-(b) any child care centre licensed under the Child Care Centres Act (Cap. 37A);
+(b) any early childhood development centre licensed under the Early Childhood Development Centres Act 2017;
+
+[Act 19 of 2017 wef 02/01/2019]
 
 (c) any school which is registered under the Education Act (Cap. 87);
 
@@ -3005,6 +3007,10 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|1 August 2017|
+|15.|**Act 19 of 2017—Early Childhood Development Centres Act 2017**|
+||Date of First Reading|6 February 2017 (Bill No. 7/2017 published on 6 February 2017)|
+||Date of Second and Third Readings|28 February 2017|
+||Date of commencement|2 January 2019|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
