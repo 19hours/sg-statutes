@@ -1006,6 +1006,12 @@ An offence against the law relating to the securing of computer material against
 
 [S 48/2018 wef 30/01/2018]
 
+34. 
+
+An offence of absconding while on bail or personal bond.
+
+[S 18/2019 wef 08/01/2019]
+
 Part II
 
 Aiding and abetting, or counselling or procuring the commission of, or being an accessory before or after the fact to, or attempting or conspiring to commit, any of the offences listed in Part I.
@@ -1366,6 +1372,8 @@ This Legislative History is provided for the convenience of users of the Extradi
 ||Date of commencement|1 September 2017|
 |18.|**G.N. No. S 48/2018—Extradition Act (Amendment of First Schedule) Notification 2018**|
 ||Date of commencement|30 January 2018|
+|19.|**G.N. No. S 18/2019—Extradition Act (Amendment of First Schedule) Notification 2019**|
+||Date of commencement|8 January 2019|
 ## COMPARATIVE TABLE
 
 Extradition Act
