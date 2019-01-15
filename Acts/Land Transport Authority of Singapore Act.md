@@ -52,6 +52,10 @@
 
 - [13B Bus Service Enhancement Fund](#Bus-Service-Enhancement-Fund)
 
+- [13C Rail Infrastructure Fund](#Rail-Infrastructure-Fund)
+
+- [13D Purposes of Rail Infrastructure Fund](#Purposes-of-Rail-Infrastructure-Fund)
+
 - [14 Funds for construction, etc., projects](#Funds-for-construction-etc-projects)
 
 - [14A Issue of shares, etc.](#Issue-of-shares-etc)
@@ -218,6 +222,10 @@ and any associated investigative and engineering studies, but does not include t
 
 “President” means the President of the Compensation Board appointed under section 26;
 
+“Rail Infrastructure Fund” means the fund of that name established under section 13C;
+
+[Act 49 of 2018 wef 15/01/2019]
+
 “railway” has the same meaning as in the Rapid Transit Systems Act [Cap. 263A];
 
 “road” includes —
@@ -254,7 +262,9 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF AUTHORITY
 
 (a) a Chairman; and
 
-(b) not less than 2 nor more than 14 other members as the Minister may from time to time determine.
+(b) not less than 2 other members as the Minister may from time to time determine.
+
+[Act 49 of 2018 wef 15/01/2019]
 
 (2) The First Schedule shall have effect with respect to the Authority, its members and proceedings.
 
@@ -376,6 +386,10 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 (u) to establish and maintain a Land Transport Revenue Account in accordance with the provisions of this Act;
 
+(ua) to manage and administer the Rail Infrastructure Fund in accordance with this Act subject to the directions of the Minister;
+
+[Act 49 of 2018 wef 15/01/2019]
+
 (v) to undertake any other activity considered necessary or desirable to achieve a safe and efficient land transport system that maximises national economic and social benefits; and
 
 (w) to perform such other functions as are conferred on the Authority by any other written law.
@@ -392,7 +406,9 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 [Act 17 of 2012 wef 12/09/2012]
 
-(3) In addition to the functions and duties imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority and in so doing the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
+(3) In addition to the functions and duties imposed by this section, the Authority may undertake such other functions as the Minister may assign to the Authority, by notification in theGazette, and in so doing the Authority shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Authority in respect of such functions.
+
+[Act 49 of 2018 wef 15/01/2019]
 
 ### Powers of Authority
 
@@ -706,17 +722,25 @@ after deducting such proportion of those fees, rental or other revenue as the Mi
 
 (2) No moneys shall be withdrawn by the Authority from the Railway Sinking Fund except for all or any of the following purposes:
 
-(a) to meet all expenditure —
+(a) to meet any of the following expenditure to the extent not expressly provided as may be met from the Rail Infrastructure Fund:
 
-(i) for the cost (or part thereof) of any capital equipment including new works, plant, equipment, trains, vessels or appliances related to the operation and maintenance of the railway network under the Rapid Transit Systems Act (Cap. 263A); or
+(i) for the cost (or part thereof) of any capital equipment including new works, plant, equipment, trains, vessels or appliances related to the operation and maintenance of the railway network under the Rapid Transit Systems Act (Cap. 263A);
+
+[Act 49 of 2018 wef 15/01/2019]
 
 (ii) for the cost of acquiring any estate or interest in any area or space within a station, or any area or space abutting a station the access to which is limited to an entrance or exit to the station;
+
+[Act 49 of 2018 wef 15/01/2019]
 
 (b) to pay insurance premiums on capital equipment, area, space or other investment acquired using moneys of the Railway Sinking Fund;
 
 (c) to pay any principal or interest on moneys borrowed or raised by the Authority for purposes of the Railway Sinking Fund;
 
 (d) to pay any expenses properly attributable to setting up of the Railway Sinking Fund, the administration and management of moneys in the Railway Sinking Fund, or the borrowing or raising of moneys for the purposes of the Railway Sinking Fund;
+
+(da) to refund any sums collected as charges or cash‑bids that are in excess of what is payable under section 13A of the Rapid Transit Systems Act;
+
+[Act 49 of 2018 wef 15/01/2019]
 
 (e) for investment of moneys in the Railway Sinking Fund in accordance with section 17;
 
@@ -730,7 +754,9 @@ after deducting such proportion of those fees, rental or other revenue as the Mi
 
 [Act 31 of 2015 wef 01/04/2016]
 
-(3) For the purposes of subsection (1)(i), the net income from investments shall be the amount ascertained by adding to, or deducting from, the income received from investments or moneys in the Railway Sinking Fund any gain derived or loss sustained, realised or unrealised, as the case may be, from such investments.
+(3) For the purposes of subsection (1)(i), the net income from investments shall be the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Railway Sinking Fund any gain derived or loss sustained, realised or unrealised, as the case may be, from such investments.
+
+[Act 49 of 2018 wef 15/01/2019]
 
 (4) The Railway Sinking Fund shall be managed and administered by the Authority subject to the directions of the Minister.
 
@@ -790,6 +816,58 @@ after deducting such proportion of those fees, rental or other revenue as the Mi
 
 [Act 17 of 2012 wef 12/09/2012]
 
+### Rail Infrastructure Fund
+
+13C\.—(1) The Rail Infrastructure Fund is established consisting of —
+
+(a) all moneys from time to time appropriated from the Consolidated Fund or Development Fund and authorised to be paid into the Rail Infrastructure Fund by Supply law;
+
+(b) all moneys authorised by or under any other written law to be paid into the Rail Infrastructure Fund;
+
+(c) any gifts or donations made by any person for the purposes of the Rail Infrastructure Fund; and
+
+(d) all investments of moneys in the Rail Infrastructure Fund authorised to be made by this Act and the proceeds of any such investment, including the net income from such investments.
+
+(2) Upon the date of commencement of section 6 of the Land Transport Authority of Singapore (Amendment) Act 2018, the Government must pay into the Rail Infrastructure Fund such sum as the Minister for Finance may determine out of moneys to be provided by Parliament for the Rail Infrastructure Fund.
+
+(3) For the purposes of subsection (1)(d), the net income from investments is the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Rail Infrastructure Fund, any gain derived or loss sustained, realised or unrealised (as the case may be) from such investments.
+
+(4) Upon the dissolution of the Rail Infrastructure Fund during any term of office of the Government (within the meaning of the Constitution), the balance then remaining in that Fund must be transferred to the Consolidated Fund and added to the reserves of the Government not accumulated by it during that term of office.
+
+[Act 49 of 2018 wef 15/01/2019]
+
+### Purposes of Rail Infrastructure Fund
+
+13D\.—(1) The moneys in the Rail Infrastructure Fund may be withdrawn by the Authority only for the following purposes:
+
+(a) for the Authority to carry on any construction, improvement or extension, or any demolition and replacement, of any railway (in whole or part), the operation of which is or is to be subject to the Rapid Transit Systems Act;
+
+(b) for the acquisition by the Authority of capital machinery or equipment required for or in connection with the start of operations of —
+
+(i) a railway (or a part of a railway) the construction, or demolition and replacement, of which (as the case may be) was paid for with money from the Rail Infrastructure Fund; or
+
+(ii) an improved or extended railway (or an improved or extended part of a railway) the improvement or extension of which was paid for with money from the Rail Infrastructure Fund;
+
+(c) for the Authority to carry on any associated design, investigative and engineering studies, survey or research preparatory to the undertaking of any work or acquisition mentioned in paragraph (a) or (b);
+
+(d) to pay any of the following which is incurred or payable (as the case may be) for the purposes of the construction, improvement or extension, or the demolition and replacement (as the case may be) by the Authority of a railway, the operation of which is or is to be subject to the Rapid Transit Systems Act:
+
+(i) the costs incurred by the Collector of Land Revenue in the acquisition under the Land Acquisition Act (Cap. 152) of any land;
+
+(ii) the compensation payable for the acquisition under the Land Acquisition Act of any land that is the subject of a notice under section 7 of the Rapid Transit Systems Act;
+
+(e) to pay insurance premiums on capital equipment or other investments acquired, and land (including structures) acquired and constructed, using money from the Rail Infrastructure Fund;
+
+(f) to pay all amounts relating to the sale, disposal or write-off of any investments paid for with money from the Rail Infrastructure Fund;
+
+(g) to invest in accordance with section 17;
+
+(h) to pay any expenses properly attributable to the setting up of the Rail Infrastructure Fund and the administration, management and investment of moneys in that Fund.
+
+(2) However, no investment paid for with money from the Rail Infrastructure Fund may be written off by the Authority without the prior approval of the Minister.
+
+[Act 49 of 2018 wef 15/01/2019]
+
 ### Funds for construction, etc., projects
 
 14\.—(1) For the purpose of enabling the Authority to carry out its function and duty of constructing any railway or roads or other related facilities, the Minister for Finance shall, from time to time, provide funds by way of grants, subject to such conditions as he may impose, to the Authority out of moneys provided by Parliament.
@@ -826,13 +904,15 @@ the payment of which shall be met from funds provided by the Minister for Financ
 
 ### Power of investment
 
-17\. The Authority may invest its funds in the Land Transport Revenue Account, the Railway Sinking Fund or the Bus Service Enhancement Fund in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
+17\. The Authority may invest its funds in the Land Transport Revenue Account, the Railway Sinking Fund, the Rail Infrastructure Fund or the Bus Service Enhancement Fund in accordance with the standard investment power of statutory bodies as defined in section 33A of the Interpretation Act (Cap. 1).
 
 [45/2004 wef 15/12/2004]
 
 [21/2010 wef 13/09/2010]
 
 [Act 17 of 2012 wef 12/09/2012]
+
+[Act 49 of 2018 wef 15/01/2019]
 
 ### Financial year
 
@@ -1318,7 +1398,7 @@ Disqualification from membership
 
 (b) has been sentenced to imprisonment for a term of 6 months or more and has not received a free pardon.
 
-10. [Deleted by Act 5 of 2018 wef 01/04/2018 wef 01/04/2018 wef 01/04/2018]
+10. [Deleted by Act 5 of 2018 wef 01/04/2018 wef 01/04/2018 wef 01/04/2018 wef 01/04/2018]
 
 Salaries, etc., payable to members of Authority
 
@@ -1466,7 +1546,7 @@ Revenue of Land Transport Revenue Account
 
 THIRD SCHEDULE
 
-[Deleted by Act 5 of 2018 wef 01/04/2018 wef 01/04/2018]
+[Deleted by Act 5 of 2018 wef 01/04/2018 wef 01/04/2018 wef 01/04/2018]
 
 FOURTH SCHEDULE
 
@@ -1902,3 +1982,7 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 29/2018)|
 ||Date of Second and Third Readings|10 September 2018|
 ||Date of commencement|2 January 2019|
+|33.|**Act 49 of 2018—Land Transport Authority of Singapore (Amendment) Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 41/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|19 November 2018|
+||Date of commencement|15 January 2019|
