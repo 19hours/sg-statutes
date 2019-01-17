@@ -6406,6 +6406,10 @@ Investment Precious Metals
 
 (viii) Mexico Libertad coin;
 
+(viiia) South Africa Krugerrand coin;
+
+[S 35/2019 wef 17/01/2019]
+
 (ix) United Kingdom Britannia coin;
 
 [S 828/2013 wef 01/01/2014]
@@ -7513,6 +7517,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|1 October 2018 (Bill No. 46/2018 published on 1 October 2018)|
 ||Date of Second and Third Readings|19 November 2018|
 ||Date of commencement|1 January 2019|
+|60.|**G.N. No. S 35/2019—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2019**|
+||Date of commencement|17 January 2019|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
