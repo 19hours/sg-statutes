@@ -136,6 +136,8 @@
 
 - [49 Publication of unpublished works kept in libraries](#Publication-of-unpublished-works-kept-in-libraries)
 
+- [49A Copying of online material for National Library Board collection](#Copying-of-online-material-for-National-Library-Board-collection)
+
 - [50 Application of Division to illustrations accompanying articles and other works](#Application-of-Division-to-illustrations-accompanying-articles-and-other-works)
 
 [**Division 6  Copying of Works for Educational Purposes**](#Division-6--Copying-of-Works-for-Educational-Purposes)
@@ -307,6 +309,10 @@
 - [112 Copying of unpublished sound recordings and cinematograph films in libraries or archives](#Copying-of-unpublished-sound-recordings-and-cinematograph-films-in-libraries-or-archives)
 
 - [113 Copying of sound recordings and cinematograph films for preservation and other purposes](#Copying-of-sound-recordings-and-cinematograph-films-for-preservation-and-other-purposes)
+
+- [113A Copying of online material for National Library Board collection](#Copying-of-online-material-for-National-Library-Board-collection)
+
+- [113B Access to cinematograph film and sound recording by users of libraries and archives](#Access-to-cinematograph-film-and-sound-recording-by-users-of-libraries-and-archives)
 
 - [114 Filming or recording broadcasts or programmes for private and domestic use](#Filming-or-recording-broadcasts-or-programmes-for-private-and-domestic-use)
 
@@ -1156,6 +1162,10 @@ that has as its principal function, or one of its principal functions, the provi
 
 “minimum royalty”, in relation to a record, means the amounts applicable in respect of the record under sections 57(3) and 58(b)(i) or, if those provisions are affected by regulations made for the purposes of section 59, under those provisions as so affected;
 
+“National Library Board” means the National Library Board established by the National Library Board Act;
+
+[Act 30 of 2018 wef 31/01/2019]
+
 “non‑physical product” has the same meaning as in section 2(1) of the Registered Designs Act (Cap. 266);
 
 [Act 29 of 2017 wef 30/10/2017]
@@ -1163,6 +1173,10 @@ that has as its principal function, or one of its principal functions, the provi
 “non-profit organisation” means an organisation or association or persons, whether corporate or unincorporate, that is not operated or conducted for profit;
 
 “Office” means the Intellectual Property Office of Singapore incorporated under the Intellectual Property Office of Singapore Act (Cap. 140);
+
+“online material” has the same meaning as in section 2 of the National Library Board Act;
+
+[Act 30 of 2018 wef 31/01/2019]
 
 “person with a reading disability” means —
 
@@ -1201,6 +1215,10 @@ that has as its principal function, or one of its principal functions, the provi
 “sculpture” includes a cast or model made for purposes of sculpture;
 
 “simulcasting”, in relation to a work, an adaptation of a work, a sound recording or a cinematograph film, means simultaneously broadcasting the work, adaptation, recording or film in both analogue form and digital form;
+
+“Singapore website” has the same meaning as in section 2 of the National Library Board Act;
+
+[Act 30 of 2018 wef 31/01/2019]
 
 “sound broadcast” means sounds broadcast otherwise than as part of a television broadcast;
 
@@ -2354,13 +2372,19 @@ Copying of Works in Libraries
 
 (7) The copyright in a published literary, dramatic or musical work other than an article contained in a periodical publication is not infringed by the making, in relation to a request under subsection (1), of a copy of the work, or of a part of the work, in accordance with subsection (2) unless the copy is supplied to a person other than the person who made the request.
 
-(7A) If an article contained in a periodical publication or a published work (other than an article contained in a periodical publication) is acquired, in electronic form, as part of the collection of a library or archives, the copyright in the article or published work is not infringed by the officer-in-charge of the library or archives making it available online within the premises of the library or archives in such a manner that users cannot, by using any equipment supplied by the library or archives —
+(7A) If any of the following is acquired as part of the collection of a library or archives:
 
-(a) make an electronic copy of the article or work; or
+(a) an article contained in a periodical publication or a published work (other than an article contained in a periodical publication) acquired in electronic form;
 
-(b) communicate the article or work.
+(b) any work that is or is part of online material acquired under section 49A,
 
-[52/2004]
+the copyright in the article, published work or work is not infringed by the officer‑in‑charge of the library or archives making it available online within the premises of the library or archives in such a manner that users cannot, by using any equipment supplied by the library or archives —
+
+(i) make an electronic copy of the article, published work or work; or
+
+(ii) communicate the article, published work or work.
+
+[Act 30 of 2018 wef 31/01/2019]
 
 (8) The regulations may exclude the application of subsection (6) or (7) in such cases as are specified in the regulations.
 
@@ -2485,6 +2509,12 @@ then, for the purposes of this Act, the first publication of the new work, and a
 (3) Where a work, or part of a work, has been published and, by virtue of this section, the publication is to be deemed not to be an infringement of the copyright in the work, the copyright in the work is not infringed by a person who, after that publication took place, broadcasts the work or that part of the work, as the case may be, or includes it in a cable programme or performs it in public, or makes a record of it.
 
 [Aust. 1968, s. 52]
+
+### Copying of online material for National Library Board collection
+
+49A\. The copyright in a work that is or is part of online material made available on a Singapore website is not infringed by the making of a copy of the online material, by or on behalf of the National Library Board, in the performance of its functions under section 6(d) of the National Library Board Act (Cap. 197).
+
+[Act 30 of 2018 wef 31/01/2019]
 
 ### Application of Division to illustrations accompanying articles and other works
 
@@ -3985,6 +4015,22 @@ the making of the copy does not infringe copyright in the cinematograph film or 
 
 [Aust. 1968, s. 110B]
 
+### Copying of online material for National Library Board collection
+
+113A\. The copyright in any cinematograph film or sound recording that is or is part of online material made available on a Singapore website is not infringed by the making of a copy of the online material, by or on behalf of the National Library Board, in the performance of its functions under section 6(d) of the National Library Board Act (Cap. 197).
+
+[Act 30 of 2018 wef 31/01/2019]
+
+### Access to cinematograph film and sound recording by users of libraries and archives
+
+113B\. If any cinematograph film or sound recording is acquired, or is or is part of online material acquired under section 113A, as part of the collection of a library or archives, the copyright in the cinematograph film or sound recording is not infringed by the officer‑in‑charge of the library or archives making it available online within the premises of the library or archives in such a manner that users cannot, by using any equipment supplied by the library or archives —
+
+(a) make an electronic copy of the cinematograph film or sound recording; or
+
+(b) communicate the cinematograph film or sound recording.
+
+[Act 30 of 2018 wef 31/01/2019]
+
 ### Filming or recording broadcasts or programmes for private and domestic use
 
 114\.—(1) The copyright in a television broadcast or a cable programme, or in a literary, artistic, dramatic or musical work or a cinematograph film included in the broadcast or programme, insofar as it consists of visual images, is not infringed by the making of a cinematograph film of the broadcast or the cable programme for the private and domestic use of the person by whom the cinematograph film is made.
@@ -4055,19 +4101,23 @@ in the course of instruction, or preparation for instruction, in the making of a
 
 (i) a dealing with that work, being a dealing that does not, by virtue of section 35, 36, 37, 38 or 40, infringe copyright in that work; or
 
-(ii) the making of a copy (including a copy for a person with a reading disability or an intellectually handicapped reader’s copy) of the whole or a part of that work, being a copy the making of which does not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work; or
+(ii) the making of a copy (including a copy for a person with a reading disability or an intellectually handicapped reader’s copy) of the whole or a part of that work, being a copy the making of which does not, by virtue of section 45, 46, 48, 49A, 51, 52, 54 or 54A, infringe copyright in that work; or
 
 [Act 22 of 2014 wef 31/03/2015]
+
+[Act 30 of 2018 wef 31/01/2019]
 
 (b) where the edition contains more than one work —
 
 (i) a dealing with one of those works or dealings with some or all of those works, being a dealing that does not, or dealings that do not, by virtue of section 35, 36, 37, 38 or 40, infringe copyright in that work or those works; or
 
-(ii) the making of a copy (including a copy for a person with a reading disability or an intellectually handicapped reader’s copy) of the whole or a part of one of those works or the making of copies (including the copies for persons with reading disabilities or the intellectually handicapped reader’s copies) of the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 51, 52, 54 or 54A, infringe copyright in that work or in those works.
+(ii) the making of a copy (including a copy for a person with a reading disability or an intellectually handicapped reader’s copy) of the whole or a part of one of those works or the making of copies (including the copies for persons with reading disabilities or the intellectually handicapped reader’s copies) of the whole or parts of some or all of those works, being a copy the making of which does not, or copies the making of which do not, by virtue of section 45, 46, 48, 49A, 51, 52, 54 or 54A, infringe copyright in that work or in those works.
 
 [6/98]
 
 [Aust. 1968, s. 112]
+
+[Act 30 of 2018 wef 31/01/2019]
 
 [Act 22 of 2014 wef 31/03/2015]
 
@@ -8315,15 +8365,23 @@ if —
 
 (B) the network service provider expeditiously notifies the person who furnished the notice referred to in section 252C(2)(b)(iii) or (4)(b)(iii) that the network service provider will take reasonable steps to restore the electronic recording of the performance to the network or to restore access to that electronic recording, as the case may be, if it is technically and practically feasible to do so, unless, within 10 working days after the date of such notification —
 
-(BA) court proceedings are commenced by the performer of the performance, or under the performer’s authority, to prevent that electronic recording or the access to that electronic recording, as the case may be, from being restored; and
+(BA)
 
-(BB) the network service provider is informed in writing of the court proceedings; and
+court proceedings are commenced by the performer of the performance, or under the performer’s authority, to prevent that electronic recording or the access to that electronic recording, as the case may be, from being restored; and
+
+(BB)
+
+the network service provider is informed in writing of the court proceedings; and
 
 (C) the network service provider takes reasonable steps to restore the electronic recording of the performance to the network or to restore access to that electronic recording, as the case may be, if it is technically and practically feasible to do so, not less than 10, nor more than 14, working days after the date of the notification referred to in sub-paragraph (B), unless, within 10 working days after that date —
 
-(CA) court proceedings are commenced by the performer of the performance, or under the performer’s authority, to prevent that electronic recording or the access to that electronic recording, as the case may be, from being restored; and
+(CA)
 
-(CB) the network service provider is informed in writing of the court proceedings; or
+court proceedings are commenced by the performer of the performance, or under the performer’s authority, to prevent that electronic recording or the access to that electronic recording, as the case may be, from being restored; and
+
+(CB)
+
+the network service provider is informed in writing of the court proceedings; or
 
 (ii) in the case of any removal or disabling done in reliance on any knowledge referred to in section 252C(2)(b)(i) or (ii) or (4)(b)(i) or (ii), the network service provider takes reasonable steps to restore the electronic recording of the performance to the network or to restore access to that electronic recording, as the case may be, if it is technically and practically feasible to do so, not less than 10, nor more than 14, working days after the date the network service provider is furnished with the counter notice, unless, within 10 working days after that date —
 
@@ -9796,6 +9854,10 @@ This Legislative History is provided for the convenience of users of the Copyrig
 ||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|10 October 2018|
+|27.|**Act 30 of 2018—National Library Board (Amendment) Act 2018**|
+||Date of First Reading|19 March 2018 (Bill No. 19/2018 published on 19 March 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|31 January 2019|
 ## COMPARATIVE TABLE
 
 Copyright Act
