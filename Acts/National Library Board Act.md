@@ -112,6 +112,8 @@
 
 - [33 Board’s symbol](#Board’s-symbol)
 
+- [33A Composition of offences](#Composition-of-offences)
+
 - [34 Protection from personal liability](#Protection-from-personal-liability)
 
 - [35 Regulations](#Regulations)
@@ -166,9 +168,17 @@ PRELIMINARY
 
 “library materials” means —
 
-(a) any printed book, periodical, newspaper, pamphlet, musical score, map, chart, plan, picture, photograph, print and any other printed matter; and
+(a) any book, periodical, newspaper, pamphlet, musical score, map, chart, plan, picture, photograph or matter, in printed or electronic form;
 
-(b) any film (including a microfilm and a microfiche), negative, tape, disc, sound track and any other device in which one or more visual images, sounds or other data are embodied so as to be capable (with or without the aid of some other equipment) of being reproduced from it;
+(b) any visual image (including a computer generated image) or sound, or aggregate of visual images or sounds or both, or data —
+
+(i) embodied in or recorded on a film (including a microfilm or a microfiche), negative, tape, disc, sound track or other device or thing, so as to be capable (with or without the aid of some other equipment) of being reproduced from it; or
+
+(ii) transmitted by electronic means; and
+
+(c) any online material made available on a Singapore website;
+
+[Act 30 of 2018 wef 31/01/2019]
 
 “member” means a member of the Board;
 
@@ -176,7 +186,13 @@ PRELIMINARY
 
 “National Heritage Board” means the National Heritage Board established under section 3 of the National Heritage Board Act (Cap. 196A);
 
-“printed”, in relation to books, means produced by printing, lithography, duplication or any other like process, and “printer” has a corresponding meaning;
+“online material” means any writing, visual image, video, sound recording or data accessible to the public generally, through the Internet on a website;
+
+[Act 30 of 2018 wef 31/01/2019]
+
+“printed”, in relation to books or other materials, means produced by printing, lithography, duplication or any other like process, and “printer” has a corresponding meaning;
+
+[Act 30 of 2018 wef 31/01/2019]
 
 “public archives” means those public records that —
 
@@ -192,11 +208,23 @@ PRELIMINARY
 
 “publicly-funded libraries” means all libraries owned by the Government or any statutory body and such other libraries which are, directly or indirectly, funded by the Government (whether fully or partially) as the Board may determine;
 
-“published in Singapore” means produced and released in Singapore for sale or public distribution;
+“published in Singapore”, in relation to library materials other than online material, means produced and released in Singapore for sale or public distribution;
 
-“publisher” means any person who arranges for any library material to be published in Singapore.
+[Act 30 of 2018 wef 31/01/2019]
+
+“publisher” means any person who arranges for any library material to be published in Singapore;
 
 [25/2012]
+
+[Act 30 of 2018 wef 31/01/2019]
+
+“Singapore website” means —
+
+(a) any website, the country code top level domain of which is associated with Singapore; or
+
+(b) any prescribed website or electronic service associated with Singapore.
+
+[Act 30 of 2018 wef 31/01/2019]
 
 ## PART 2
 
@@ -276,7 +304,13 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 (e) to obtain and provide information on the resources and services of libraries in Singapore;
 
-(f) to take appropriate measures to maintain and preserve library materials deposited with the Board under section 10;
+(f) to take appropriate measures to maintain and preserve library materials deposited with the Board under section 10 or otherwise acquired by the Board;
+
+[Act 30 of 2018 wef 31/01/2019]
+
+(fa) to make copies of any online material made available on a Singapore website, at the times and in the manner the Board considers appropriate;
+
+[Act 30 of 2018 wef 31/01/2019]
 
 (g) to establish liaison with other library authorities and information providers and other archives and oral history centres (foreign or otherwise) to secure maximum collaboration of all activities relevant to the Board’s functions;
 
@@ -316,27 +350,39 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF BOARD
 
 ### Deposit of library materials
 
-10\.—(1) The publisher of every library material published in Singapore shall, at the publisher’s own expense and within 4 weeks after the date of publication, deposit 2 copies (except as otherwise provided by regulations) of that library material with the Board at such place as the Board may determine.
+10\.—(1) Except as otherwise provided by regulations, the publisher of every library material (other than online material) published in Singapore must, at the publisher’s own expense —
 
-(2) The Board may by regulations prescribe —
+(a) subject to paragraph (b), deposit 2 copies of that library material with the Board at a place determined by the Board within 4 weeks after the date of first publication; and
+
+(b) where the library material is in electronic form, deposit a copy of that library material with the Board in the form and manner determined by the Board, free of any technological or other restriction on access, within 4 weeks after the date of first publication.
+
+[Act 30 of 2018 wef 31/01/2019]
+
+(2) The Board may by regulations made under section 35 prescribe —
 
 (a) the library materials which are not required to be deposited with the Board; and
 
-(b) the quality and the format of the copies of library materials required to be deposited.
+(b) the quality and the format of the copies of library materials required to be deposited, and the manner in which they must be deposited.
+
+[Act 30 of 2018 wef 31/01/2019]
+
+[Act 30 of 2018 wef 31/01/2019]
 
 (3) Every publisher of any library material who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(4) The Board may, in its discretion, compound any offence under this section by collecting from the person reasonably suspected of having committed the offence a sum not exceeding $500.
+(4) [Deleted by Act 30 of 2018 wef 31/01/2019]
 
 ### Establishment of national union catalogue
 
 11\.—(1) All publicly-funded libraries shall contribute their cataloguing and holding records, whether original or derived from other sources, towards the establishment of an up-to-date national union catalogue.
 
-(2) The Board may by regulations prescribe —
+(2) The Board may by regulations made under section 35 prescribe —
 
 (a) the standard and the format of the cataloguing and holding records required to be sent to the Board; and
 
 (b) the frequency of updating the cataloguing and holding records in the national union catalogue.
+
+[Act 30 of 2018 wef 31/01/2019]
 
 ### Participation in interlibrary loan scheme
 
@@ -801,6 +847,16 @@ MISCELLANEOUS PROVISIONS
 
 (2) A person who, without the permission of the Board, uses a symbol or representation identical with that of the Board or which so resembles the Board’s symbol or representation as to deceive or cause confusion, or to be likely to deceive or cause confusion, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+### Composition of offences
+
+33A\.—(1) The chief executive officer, or an officer or employee of the Board authorised in writing by the Board, may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $500.
+
+(2) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
+
+(3) All sums collected under this section must be paid into the Consolidated Fund.
+
+[Act 30 of 2018 wef 31/01/2019]
+
 ### Protection from personal liability
 
 34\. No suit or other legal proceedings shall lie personally against any member, officer or employee of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
@@ -827,7 +883,9 @@ MISCELLANEOUS PROVISIONS
 
 (f) provide for the admission of vehicles to the grounds of its libraries and the regulation of traffic in those grounds;
 
-(g) prescribe the amount of fines that may be levied for the damage, loss or late return of borrowed library materials and for the waiving or refund of such fines; and
+(g) prescribe the charges for the damage, loss or late return of borrowed library materials and for the waiving or refund of such charges; and
+
+[Act 30 of 2018 wef 31/01/2019]
 
 (h) prescribe that any act or omission in contravention of the provisions of any regulations made under this Act shall be an offence and imposing penalties for those offences, which penalties shall not exceed a fine of $5,000.
 
@@ -997,6 +1055,10 @@ The National Library Board Act 1995 repealed and re-enacted with amendments the 
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|16.|**Act 30 of 2018—National Library Board (Amendment) Act 2018**|
+||Date of First Reading|19 March 2018 (Bill No. 19/2018 published on 19 March 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|31 January 2019|
 ## COMPARATIVE TABLE
 
 National Library Board Act
