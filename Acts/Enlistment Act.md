@@ -410,9 +410,11 @@ DUTY OF EMPLOYER
 
 (a) to report for or actually perform full-time service, operationally ready national service or mobilised service; or
 
-(b) to report for mobilised service under section 73 or 97 of the Police Force Act 2004,
+(b) to report for mobilised service under section 73 or 97 of the Police Force Act or section 113(1)(a) of the Civil Defence Act,
 
 [24/2004 wef 12/10/2004]
+
+[Act 53 of 2018 wef 01/02/2019]
 
 shall reinstate that person in his employment at the termination of such service.
 
@@ -438,9 +440,11 @@ shall reinstate that person in his employment at the termination of such service
 
 (a) service under this Act;
 
-(b) mobilised service under section 73 of the Police Force Act 2004; or
+(b) mobilised service under section 73 of the Police Force Act or section 113(1)(a) of the Civil Defence Act; or
 
 [24/2004 wef 12/10/2004]
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (c) voluntary service in the division of the Singapore Armed Forces known as the People’s Defence Force under the Singapore Armed Forces Act (Cap. 295) or in the Special Constabulary under the Police Force Act,
 
@@ -466,9 +470,11 @@ unless that person —
 
 (a) national service;
 
-(b) mobilised service under section 73 of the Police Force Act 2004; or
+(b) mobilised service under section 73 of the Police Force Act or section 113(1)(a) of the Civil Defence Act; or
 
 [24/2004 wef 12/10/2004]
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (c) voluntary service in the division of the Singapore Armed Forces known as the People’s Defence Force under the Singapore Armed Forces Act (Cap. 295) or in the Special Constabulary under the Police Force Act (Cap. 235),
 
@@ -554,9 +560,11 @@ but does not include ex gratia payments or allowances paid to reimburse the pers
 
 “designated authority” means any person designated by the Minister for the purposes of this Act;
 
-“mobilised service” includes mobilised service under section 73 or 97 of the Police Force Act 2004;
+“mobilised service” includes mobilised service under section 73 or 97 of the Police Force Act or section 113(1)(a) of the Civil Defence Act;
 
 [24/2004 wef 12/10/2004]
+
+[Act 53 of 2018 wef 01/02/2019]
 
 “relevant service” means —
 
@@ -1007,6 +1015,10 @@ This Legislative History is provided for the convenience of users of the Enlistm
 ||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|1 June 2015|
+|24.|**Act 53 of 2018—Civil Defence and Other Matters Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 44/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|20 November 2018|
+||Date of commencement|1 February 2019|
 ## COMPARATIVE TABLE
 
 Enlistment Act
