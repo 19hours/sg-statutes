@@ -156,7 +156,7 @@ who or which engages in or undertakes housing development, but does not include 
 
 [26/2001 wef 01/09/2001]
 
-(ii) insurer licensed under section 8 of the Insurance Act [Cap. 142],
+(ii) insurer licensed under section 8 of the Insurance Act [Cap. 142&#93;,
 
 [Act 11 of 2013 wef 18/04/2013]
 
@@ -742,9 +742,9 @@ the Minister may, in his discretion, take such action as he may consider necessa
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and to a further fine not exceeding $5,000 for every day during which the offence continues after conviction.
 
-[42/2005 wef 01/04/2006]
-
 [19
+
+[42/2005 wef 01/04/2006]
 
 [Act 15 of 2013 wef 25/05/2015]
 
@@ -788,9 +788,7 @@ POWER TO MAKE RULES AND TO ISSUE DIRECTIONS
 
 [47/2004 wef 01/04/2005]
 
-(cb) any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;
-
-[47/2004 wef 01/04/2005]
+(cb) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (d) the form or forms of the contract that shall be used by a licensed housing developer, his agent or nominee and a purchaser as a condition of the grant of a licence under this Act;
 
@@ -1072,3 +1070,7 @@ This Legislative History is provided for the convenience of users of the Housing
 ||Date of First Reading|6 February 2013 (Bill No. 7/2013 published on 6 February 2013)|
 ||Date of Second and Third Readings|8 April 2013|
 ||Date of commencement|25 May 2015|
+|13.|**Act 35 of 2017—Building Maintenance and Strata Management (Amendment) Act 2017**|
+||Date of First Reading|1 August 2017 (Bill No. 29/2017 published on 1 August 2017)|
+||Date of Second and Third Readings|11 September 2017|
+||Date of commencement|1 February 2019|
