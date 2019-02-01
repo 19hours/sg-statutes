@@ -1549,6 +1549,10 @@ for the purpose or purposes specified in the Minister’s authorisation.
 
 [Act 18 of 2012 wef 19/12/2012]
 
+(ib) identifying an individual who is unconscious or otherwise unable to communicate, for the purposes of providing urgent medical care to the individual;
+
+[Act 53 of 2018 wef 01/02/2019]
+
 (j) any other purpose the disclosure of which is required or authorised by or under any written law.
 
 [33/2007]
@@ -2664,3 +2668,7 @@ This Legislative History is provided for the convenience of users of the Immigra
 ||Date of First Reading|6 November 2017 (Bill No. 46/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|35.|**Act 53 of 2018—Civil Defence and Other Matters Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 44/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|20 November 2018|
+||Date of commencement|1 February 2019|
