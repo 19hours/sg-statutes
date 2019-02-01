@@ -104,13 +104,13 @@
 
 - [29 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [30 Ban on display of non‑compliant personal mobility devices](#Ban-on-display-of-non‑compliant-personal-mobility-devices)
+- [30 Ban on display of non‑compliant personal mobility devices, etc.](#Ban-on-display-of-non‑compliant-personal-mobility-devices-etc)
 
 - [31 Warning notices](#Warning-notices)
 
-- [32 Advertisements of non‑compliant personal mobility device](#Advertisements-of-non‑compliant-personal-mobility-device)
+- [32 Advertisements of non‑compliant personal mobility device or mobility vehicle](#Advertisements-of-non‑compliant-personal-mobility-device-or-mobility-vehicle)
 
-- [33 Selling personal mobility devices for use on roads](#Selling-personal-mobility-devices-for-use-on-roads)
+- [33 Selling personal mobility devices, etc., for use on roads](#Selling-personal-mobility-devices-etc-for-use-on-roads)
 
 - [34 Selling non‑compliant vehicles for use on public paths](#Selling-non‑compliant-vehicles-for-use-on-public-paths)
 
@@ -339,6 +339,14 @@ PRELIMINARY
 “non‑compliant bicycle” means a bicycle the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed either for all bicycles generally or for the particular type of that bicycle;
 
 [Act 38 of 2018 wef 02/01/2019]
+
+“non-compliant mobility vehicle” means —
+
+(a) a mobility scooter the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed under this Act either for all mobility scooters generally or for the particular type of that mobility scooter; or
+
+(b) a motorised wheelchair the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed under this Act either for all motorised wheelchairs generally or for the particular type of that motorised wheelchair;
+
+[Act 38 of 2018 wef 01/02/2019]
 
 “non‑compliant personal mobility device” means a personal mobility device the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed either for all personal mobility devices generally or for the particular type of that personal mobility device;
 
@@ -868,15 +876,23 @@ Conduct of users of public paths
 
 18\.—(1) Subject to this Act, an individual must not —
 
-(a) ride on a public path that is a shared path a bicycle, a PAB or a personal mobility device which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all shared paths generally; or
+(a) ride or drive on a public path that is a shared path a bicycle, a PAB, a personal mobility device, a mobility scooter or a motorised wheelchair which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all shared paths generally;
 
 [Act 38 of 2018 wef 02/01/2019]
 
-(b) ride on a public path that is a footpath a bicycle or a personal mobility device which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all footpaths generally,
+[Act 38 of 2018 wef 01/02/2019]
+
+(b) ride or drive on a public path that is a footpath a bicycle, a personal mobility device, a mobility scooter or a motorised wheelchair which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all footpaths generally; or
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(c) drive on a public path that is a pedestrian-only path a mobility scooter or a motorised wheelchair which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all pedestrian-only paths generally,
 
 knowing that, or reckless as to whether, it is so banned.
 
 [Act 38 of 2018 wef 02/01/2019]
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (1A) Subject to this Act, an individual must not ride on a public path that is a shared path, a PAB that is not registered under the Road Traffic Act, knowing that, or reckless as to whether, it is so not registered.
 
@@ -885,6 +901,10 @@ knowing that, or reckless as to whether, it is so banned.
 (2) To avoid doubt, a bicycle, a PAB or a personal mobility device may be prescribed as banned for use on a specific footpath or shared path or generally on all footpaths or shared paths (as the case may be), even if it is not non‑compliant.
 
 [Act 38 of 2018 wef 02/01/2019]
+
+(2A) To avoid doubt, a mobility scooter or a motorised wheelchair may be prescribed as banned for use on a specific pedestrian-only path, footpath or shared path, or generally on all pedestrian-only paths, footpaths or shared paths (as the case may be), even if it is not non-compliant.
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (3) An individual who contravenes subsection (1) or (1A) shall be guilty of an offence and shall be liable on conviction —
 
@@ -896,39 +916,79 @@ knowing that, or reckless as to whether, it is so banned.
 
 ### Non‑compliant personal mobility devices, etc.
 
-19\.—(1) Subject to this Act, an individual must not, without reasonable excuse, ride on a public path that is a footpath or shared path —
+19\.—(1) Subject to this Act, an individual must not, without reasonable excuse, ride or drive on a public path that is a footpath or shared path —
 
 (a) a non‑compliant bicycle;
 
-(b) a non‑compliant PAB; or
+(b) a non‑compliant PAB;
 
-(c) a non‑compliant personal mobility device,
+[Act 38 of 2018 wef 01/02/2019]
+
+(c) a non‑compliant personal mobility device; or
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(d) a non-compliant mobility vehicle,
 
 knowing that, or reckless as to whether, it is non‑compliant.
 
-(2) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
+[Act 38 of 2018 wef 01/02/2019]
+
+(1A) Subject to this Act, an individual must not, without reasonable excuse, drive on a public path that is a pedestrian-only path, a non-compliant mobility vehicle knowing that, or reckless as to whether, the mobility scooter or motorised wheelchair (as the case may be) is non-compliant.
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(2) An individual who contravenes subsection (1) or (1A) shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
 (b) if the individual is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[Act 38 of 2018 wef 01/02/2019]
+
+(3) Despite subsections (1) and (1A), where any requirement is prescribed in regulations as to construction, weight or accessories for any bicycle, PAB, personal mobility device, mobility scooter or motorised wheelchair, an individual may, if a grace period is prescribed, ride or drive on a public path during the grace period a bicycle, PAB, personal mobility device, mobility scooter or motorised wheelchair (as the case may be), the riding or driving of which is otherwise unlawful under this section by virtue only of that requirement, if the individual proves, on a balance of probabilities, that the bicycle, PAB, personal mobility device, mobility scooter or motorised wheelchair (as the case may be) was sold before the date mentioned in subsection (4)(a).
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(4) A grace period, for any requirement prescribed in regulations as to the construction, weight or accessories for any bicycle, PAB, personal mobility device, mobility scooter or motorised wheelchair, means a period —
+
+(a) starting on the date the requirement in those regulations comes into force; and
+
+(b) prescribed in those regulations for the purpose of subsection (3).
+
+[Act 38 of 2018 wef 01/02/2019]
+
 ### Excepted use of non‑compliant personal mobility devices, etc.
 
-20\.—(1) Despite section 19 but not affecting section 18, an individual may ride on a public path that is a footpath or shared path —
+20\.—(1) Despite section 19 but not affecting section 18, an individual may ride or drive on a public path that is a footpath or shared path —
 
 (a) a non‑compliant bicycle of a prescribed model or description;
 
-(b) a non‑compliant PAB of a prescribed model or description; or
+(b) a non‑compliant PAB of a prescribed model or description;
 
-(c) a non‑compliant personal mobility device of a prescribed model or description,
+[Act 38 of 2018 wef 01/02/2019]
+
+(c) a non‑compliant personal mobility device of a prescribed model or description; or
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(d) a non-compliant mobility vehicle of a prescribed model or description,
 
 subject to such conditions as are prescribed in relation to that vehicle.
 
-(2) An individual who, when riding any vehicle mentioned in subsection (1) on a public path that is a footpath or shared path, fails to comply with the conditions prescribed for the purposes of that subsection and in relation to that vehicle, shall be guilty of an offence and shall be liable on conviction —
+[Act 38 of 2018 wef 01/02/2019]
+
+(1A) Despite section 19 but not affecting section 18, an individual may drive on a public path that is a pedestrian-only path, a non-compliant mobility vehicle of a prescribed model or description subject to such conditions as are prescribed in relation to that vehicle.
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(2) An individual who, when riding or driving any vehicle mentioned in subsection (1) or (1A) on a public path that is a pedestrian-only path, footpath or shared path, fails to comply with the conditions prescribed for the purposes of that subsection and in relation to that vehicle, shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
 (b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 38 of 2018 wef 01/02/2019]
 
 ### Riding without displaying registration marks, etc.
 
@@ -1389,29 +1449,31 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 “buyer” includes a person by whom or on whose behalf an offer is made to buy;
 
-“non‑compliant PMD advertisement” means —
+“non-compliant mobility vehicle advertisement” means an advertisement that gives publicity to, or otherwise promotes or is intended to promote the purchase or use of a non-compliant mobility vehicle or a range of non-compliant mobility vehicles;
 
-(a) any writing;
+[Act 38 of 2018 wef 01/02/2019]
 
-(b) any still or moving picture, sign, symbol or other visual image;
+“non-compliant PMD advertisement” means an advertisement that gives publicity to, or otherwise promotes or is intended to promote the purchase or use of a non-compliant personal mobility device or a range of non-compliant personal mobility devices.
 
-(c) any audible message; or
+[Act 38 of 2018 wef 01/02/2019]
 
-(d) any combination of 2 or more of those things in paragraphs (a), (b) and (c),
+### Ban on display of non‑compliant personal mobility devices, etc.
 
-that gives publicity to, or otherwise promotes or is intended to promote the purchase or use of a non‑compliant personal mobility device or a range of non‑compliant personal mobility devices.
+30\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises or place, must not display or cause to be displayed any non‑compliant personal mobility device or non-compliant mobility vehicle on the premises or place —
 
-### Ban on display of non‑compliant personal mobility devices
+(a) when so selling, or offering or exposing for sale any personal mobility device, mobility scooter or motorised wheelchair; and
 
-30\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device on any premises or place, must not display or cause to be displayed any non‑compliant personal mobility device on the premises or place —
-
-(a) when so selling, or offering or exposing for sale any personal mobility device; and
+[Act 38 of 2018 wef 01/02/2019]
 
 (b) knowing that, or reckless as to whether, it is non‑compliant.
 
-(2) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device on any premises, must ensure that no customer or member of the public can see any non‑compliant personal mobility device from inside or outside the premises.
+[Act 38 of 2018 wef 01/02/2019]
 
-(3) This section does not apply to the display of non‑compliant personal mobility devices on any premises or place —
+(2) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises, must ensure that no customer or member of the public can see any non‑compliant personal mobility device or non-compliant mobility vehicle from inside or outside the premises.
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(3) This section does not apply to the display of non‑compliant personal mobility devices or non-compliant mobility vehicles on any premises or place —
 
 (a) to a customer of the business concerned at the customer’s request;
 
@@ -1419,15 +1481,21 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 
 (c) in such other circumstances as may be prescribed.
 
+[Act 38 of 2018 wef 01/02/2019]
+
 (4) A person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —
 
 (a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
 (b) if the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+[Act 38 of 2018 wef 01/02/2019]
+
 ### Warning notices
 
-31\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device on any premises or place, must display or cause to be displayed within the premises or place a prescribed number of warning notices for those premises or that place (as the case may be).
+31\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises or place, must display or cause to be displayed within the premises or place a prescribed number of warning notices for personal mobility devices, mobility scooters or motorised wheelchairs to be sold, or offered or exposed for sale at those premises or that place (as the case may be).
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
@@ -1435,21 +1503,35 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 
 (b) if the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(3) In this section, a warning notice is a notice stating to the effect that —
+(3) In this section —
 
-(a) the riding of personal mobility devices on any road is unlawful;
+(a) a warning notice relating to a personal mobility device is a notice stating to the effect that —
 
-(b) the riding of non‑compliant personal mobility devices, non‑compliant power‑assisted bicycles and non‑compliant bicycles on any public path is ordinarily unlawful; and
+(i) the riding of personal mobility devices on any road is unlawful;
 
-(c) the riding of personal mobility devices, PABs or bicycles may be banned on certain footpaths or shared paths even if not non‑compliant.
+(ii) the riding of non-compliant personal mobility devices, non-compliant power-assisted bicycles and non-compliant bicycles on any public path is ordinarily unlawful; and
 
-### Advertisements of non‑compliant personal mobility device
+(iii) the riding of personal mobility devices, PABs or bicycles may be banned on certain footpaths or shared paths even if not non-compliant; and
 
-32\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device on any premises or place, must not —
+(b) a warning notice relating to a mobility scooter or motorised wheelchair is a notice stating to the effect that —
 
-(a) publish a non‑compliant PMD advertisement at the premises or place; or
+(i) the driving of mobility scooters or motorised wheelchairs on any road is unlawful;
 
-(b) authorise or cause a non‑compliant PMD advertisement to be so published.
+(ii) the driving of non-compliant mobility vehicles on any public path is ordinarily unlawful; and
+
+(iii) the driving of mobility scooters or motorised wheelchairs may be banned on certain public paths even if not non-compliant.
+
+[Act 38 of 2018 wef 01/02/2019]
+
+### Advertisements of non‑compliant personal mobility device or mobility vehicle
+
+32\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises or place, must not —
+
+(a) publish a non-compliant PMD advertisement or a non-compliant mobility vehicle advertisement at the premises or place; or
+
+(b) authorise or cause a non-compliant PMD advertisement or a non-compliant mobility vehicle advertisement to be so published.
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
@@ -1457,19 +1539,29 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 
 (b) if the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-(3) For the purposes of this section, a person publishes a non‑compliant PMD advertisement if the person does any of the following things:
+(3) For the purposes of this section, a person publishes a non‑compliant PMD advertisement or a non-compliant mobility vehicle advertisement if the person does any of the following things:
 
 (a) includes the advertisement in a document (including a leaflet, ticket or brochure) and makes the document available, or distributes the document, to the public or a section of the public at the premises or place mentioned in subsection (1);
 
 (b) includes the advertisement in a film or video and displays, screens or plays the advertisement so that it can be seen or heard in the premises or at the place mentioned in subsection (1).
 
-### Selling personal mobility devices for use on roads
+[Act 38 of 2018 wef 01/02/2019]
+
+### Selling personal mobility devices, etc., for use on roads
 
 33\.—(1) Subject to this Act, a person shall be guilty of an offence if —
 
-(a) the person sells, at any premises or place and in the course of business, any personal mobility device; and
+(a) the person sells, at any premises or place and in the course of business, any personal mobility device, mobility scooter or motorised wheelchair; and
 
-(b) at the time the personal mobility device is sold or offered for sale, the person knows that, or is reckless as to whether or not, the buyer intends to ride the personal mobility device on a public road.
+[Act 38 of 2018 wef 01/02/2019]
+
+(b) at the time the personal mobility device or the mobility scooter or motorised wheelchair (as the case may be) is sold or offered for sale, the person knows that, or is reckless as to whether or not, the buyer intends whichever as follows that is applicable:
+
+(i) to ride the personal mobility device on a public road;
+
+(ii) to drive the mobility scooter or motorised wheelchair on a public road.
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (2) A person who is guilty of an offence under this section shall be liable on conviction —
 
@@ -1482,6 +1574,8 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 (4) In this section, “sell” includes causing or authorising a person to sell.
 
 (5) To avoid doubt, this section is without prejudice to the generality of the term “abetment” under the Penal Code (Cap. 224).
+
+[Act 38 of 2018 wef 01/02/2019]
 
 ### Selling non‑compliant vehicles for use on public paths
 
@@ -1499,19 +1593,37 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 
 (d) [Deleted by Act 38 of 2018 wef 02/01/2019]
 
+(1A) Subject to this Act, a person shall be guilty of an offence if —
+
+(a) the person sells, at any premises or place and in the course of business, any mobility scooter or motorised wheelchair;
+
+(b) at the time the mobility scooter or motorised wheelchair is sold or offered for sale, the mobility scooter or motorised wheelchair (as the case may be) is a non-compliant mobility vehicle; and
+
+(c) at the time the mobility scooter or motorised wheelchair is sold or offered for sale, the person knows that, or is reckless as to whether or not, the buyer intends to drive the mobility scooter or motorised wheelchair (as the case may be) on a public path.
+
+[Act 38 of 2018 wef 01/02/2019]
+
 (2) In any proceedings for an offence under this section, it is not a defence for the accused to prove that warning notices were displayed in compliance with section 31 on the premises or place at which and when the sale took place.
 
 (3) However, it is a defence to any prosecution for an offence under this section, if the accused proves, on a balance of probabilities, that —
 
-(a) a contract or arrangement has been entered into, or an understanding has been arrived at, for the non‑compliant personal mobility device, non‑compliant PAB or non‑compliant bicycle (as the case may be) to be exported (whether or not the accused is a party to that contract, arrangement or understanding);
+(a) a contract or arrangement has been entered into, or an understanding has been arrived at, for the non‑compliant personal mobility device, non-compliant mobility vehicle, non‑compliant PAB or non‑compliant bicycle (as the case may be) to be exported (whether or not the accused is a party to that contract, arrangement or understanding);
 
-(b) the accused sells the non‑compliant personal mobility device, non‑compliant PAB or non‑compliant bicycle in the course of, or for the purpose of, that personal mobility device, PAB or bicycle (as the case may be) being exported; and
+[Act 38 of 2018 wef 01/02/2019]
 
-(c) the accused does not offer that non‑compliant personal mobility device, non‑compliant PAB or non‑compliant bicycle (as the case may be) for sale in Singapore and the sale is not a retail sale.
+(b) the accused sells the non‑compliant personal mobility device, non-compliant mobility vehicle, non‑compliant PAB or non‑compliant bicycle in the course of, or for the purpose of, that personal mobility device, mobility scooter, motorised wheelchair, PAB or bicycle (as the case may be) being exported; and
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(c) the accused does not offer that non‑compliant personal mobility device, non-compliant mobility vehicle, non‑compliant PAB or non‑compliant bicycle (as the case may be) for sale in Singapore and the sale is not a retail sale.
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (4) It is also a defence to any prosecution for an offence under this section, if the accused proves, on a balance of probabilities, that —
 
-(a) the accused had received from the person to whom the non‑compliant personal mobility device, non‑compliant PAB or non‑compliant bicycle was sold, evidence purporting to show that the person does not intend to ride the device, PAB or bicycle (as the case may be) on any public path; and
+(a) the accused had received from the person to whom the non-compliant personal mobility device, non-compliant mobility vehicle, non-compliant PAB or non-compliant bicycle was sold, evidence purporting to show that the person does not intend to ride the personal mobility device, PAB or bicycle or drive the mobility scooter or motorised wheelchair (as the case may be) on any public path; and
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (b) it was reasonable to, and the accused did accept, that evidence as correct.
 
@@ -1527,7 +1639,9 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 
 (8) In this section —
 
-(a) a reference to an excepted non‑compliant vehicle is a reference to a non‑compliant bicycle, a non‑compliant PAB or a non‑compliant personal mobility device of a prescribed model or description; and
+(a) a reference to an excepted non‑compliant vehicle is a reference to a non‑compliant bicycle, a non‑compliant PAB, a non-compliant personal mobility device or a non-compliant mobility vehicle of a prescribed model or description; and
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (b) “sell” includes causing or authorising a person to sell.
 
@@ -1537,11 +1651,15 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 
 35\.—(1) A person shall be guilty of an offence if —
 
-(a) the person, at any premises or place and in the course of business, alters (whether in the course of repair or otherwise) a personal mobility device, PAB or bicycle belonging to another person (in this section called the owner) so as to render it a non‑compliant personal mobility device, non‑compliant PAB or non‑compliant bicycle;
+(a) the person, at any premises or place and in the course of business, alters (whether in the course of repair or otherwise) a personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair belonging to another person (called in this section the owner) so as to render it a non-compliant personal mobility device, non-compliant PAB, non-compliant bicycle or non-compliant mobility vehicle; and
 
-(b) at the time the personal mobility device, PAB or bicycle is altered, the person knows that, or is reckless as to whether or not, the owner of the personal mobility device, PAB or bicycle intends to ride the altered personal mobility device, PAB or bicycle on a public path; and
+[Act 38 of 2018 wef 01/02/2019]
 
-(c) the owner of the personal mobility device, PAB or bicycle does ride the altered personal mobility device, PAB or bicycle on a public path.
+(b) at the time the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair (as the case may be) is altered, the person knows that, or is reckless as to whether or not, the owner of the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair intends to ride the altered personal mobility device, PAB or bicycle or to drive the altered mobility scooter or motorised wheelchair (as the case may be) on a public path.
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(c) [Deleted by Act 38 of 2018 wef 01/02/2019]
 
 (2) A person who is guilty of an offence under this section shall be liable on conviction —
 
@@ -1553,11 +1671,17 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 
 (4) However, in any proceedings for an offence under this section, it is a defence for the accused to prove, on a balance of probabilities, that —
 
-(a) a contract or arrangement has been entered into, or an understanding has been arrived at, for the personal mobility device, PAB or bicycle to be exported (whether or not the accused is a party to that contract, arrangement or understanding);
+(a) a contract or arrangement has been entered into, or an understanding has been arrived at, for the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair to be exported (whether or not the accused is a party to that contract, arrangement or understanding);
 
-(b) the accused alters the personal mobility device, PAB or bicycle in the course of, or for the purpose of, the altered personal mobility device, PAB or bicycle (as the case may be) being exported; and
+[Act 38 of 2018 wef 01/02/2019]
 
-(c) the accused does not offer that non‑compliant personal mobility device, non‑compliant PAB or non‑compliant bicycle (as the case may be) for sale in Singapore and the sale is not a retail sale to another.
+(b) the accused alters the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair in the course of, or for the purpose of, the altered personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair (as the case may be) being exported; and
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(c) the accused does not offer that non‑compliant personal mobility device, non‑compliant PAB, non-compliant bicycle or non-compliant mobility vehicle (as the case may be) for sale in Singapore and the sale is not a retail sale to another.
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (5) In this section, “alter” includes causing or authorising a person to alter.
 
@@ -1565,17 +1689,23 @@ that gives publicity to, or otherwise promotes or is intended to promote the pur
 
 ### Presumptions for this Part
 
-36\.—(1) It is presumed, until the contrary is proved, that a person alters (whether in the course of repair or otherwise) any personal mobility device, PAB or bicycle as to render it a non‑compliant personal mobility device, PAB or bicycle if it is proved —
+36\.—(1) It is presumed, until the contrary is proved, that a person alters (whether in the course of repair or otherwise) any personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair so as to render it a non-compliant personal mobility device, non-compliant PAB, non-compliant bicycle or a non-compliant mobility vehicle (as the case may be) if it is proved —
 
-(a) that the accused had possession of the personal mobility device, PAB or bicycle;
+(a) that the accused had possession of the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair;
 
-(b) that the personal mobility device, PAB or bicycle, as the case may be, was not a non‑compliant personal mobility device, PAB or bicycle when the accused acquired possession of it; and
+(b) that the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair (as the case may be) was not a non-compliant personal mobility device, non-compliant PAB, non-compliant bicycle or non-compliant mobility vehicle, when the accused acquired possession of it; and
 
-(c) that at the time or soon after the personal mobility device, PAB or bicycle (as the case may be) ceased to be in the accused’s possession, the personal mobility device, PAB or bicycle is non‑compliant.
+(c) that at the time or soon after the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair (as the case may be) ceased to be in the accused’s possession, the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair is non-compliant.
 
-(2) If in any proceedings for an offence under this Part it is proved that a person sold, or offered or displayed for sale, more than 4 personal mobility devices, power‑assisted bicycles or bicycles within a 12‑month period to any other person or persons, it is presumed in the absence of evidence to the contrary that the person was selling personal mobility devices, power‑assisted bicycles or bicycles (as the case may be) in the course of business during that period.
+[Act 38 of 2018 wef 01/02/2019]
 
-(3) However, nothing in subsection (2) precludes a person who sells, or offers or displays for sale, 4 or fewer personal mobility devices, power‑assisted bicycles or bicycles within a 12‑month period to any other person or persons from being found to be selling such devices or bicycles in the course of business.
+(2) If in any proceedings for an offence under this Part it is proved that a person sold, or offered or displayed for sale, more than 4 personal mobility devices, power‑assisted bicycles or bicycles, or mobility scooters or motorised wheelchairs within a 12‑month period to any other person or persons, it is presumed in the absence of evidence to the contrary that the person was selling personal mobility devices, power‑assisted bicycles or bicycles, or mobility scooters or motorised wheelchairs (as the case may be) in the course of business during that period.
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(3) However, nothing in subsection (2) precludes a person who sells, or offers or displays for sale, 4 or fewer personal mobility devices, power‑assisted bicycles or bicycles, or mobility scooters or motorised wheelchairs within a 12‑month period to any other person or persons from being found to be selling such devices or bicycles, or such mobility scooters or motorised wheelchairs (as the case may be) in the course of business.
+
+[Act 38 of 2018 wef 01/02/2019]
 
 ## PART 5
 
@@ -2317,13 +2447,19 @@ MISCELLANEOUS
 
 (c) where the partnership’s business address cannot, with reasonable diligence, be ascertained, by publishing the summons in theGazette.
 
-(4) A summons, or a document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) may be served —
+(4) A summons, or a document permitted or required by this Act to be served on a body corporate (including a limited liability partnership) or an unincorporated association may be served —
 
-(a) by giving it to the body corporate’s secretary or other like officer, or the limited liability partnership’s manager;
+(a) by giving it to the secretary or other like officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;
 
-(b) by leaving it at, or by sending it by post to, the body corporate’s registered office or principal office in Singapore; or
+[Act 38 of 2018 wef 01/02/2019]
 
-(c) where the body corporate’s registered office or principal office cannot, with reasonable diligence, be ascertained, by publishing the summons in theGazette.
+(b) by leaving it at, or by sending it by post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore; or
+
+[Act 38 of 2018 wef 01/02/2019]
+
+(c) where the body corporate’s or unincorporated association’s registered office or principal office cannot, with reasonable diligence, be ascertained, by publishing the summons in theGazette.
+
+[Act 38 of 2018 wef 01/02/2019]
 
 (5) Service of a summons or a document sent by post under subsection (2), (3) or (4) takes effect 2 days (not including any Sunday or public holiday) after the day the summons or document (as the case may be) was posted (even if it is returned undelivered).
 
