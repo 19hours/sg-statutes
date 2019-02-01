@@ -106,6 +106,44 @@
 
 - [31D Restrictions on voluntary winding up, etc.](#Restrictions-on-voluntary-winding-up-etc)
 
+[**Part IIIA DISTRICT PNEUMATIC WASTE CONVEYANCE SYSTEM**](#Part-IIIA)
+
+- [31E Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [31F Application of this Part](#Application-of-this-Part)
+
+- [31G Declaration of DPWCS areas](#Declaration-of-DPWCS-areas)
+
+- [31H Changes affecting DPWCS areas](#Changes-affecting-DPWCS-areas)
+
+- [31I Notice of declaration, etc.](#Notice-of-declaration-etc)
+
+- [31J No collection of waste or waste through DPWCS, etc., without licence](#No-collection-of-waste-or-waste-through-DPWCS-etc-without-licence)
+
+- [31K Works by DPWCS licensee](#Works-by-DPWCS-licensee)
+
+- [31L Director-General may require owner or occupier to connect to DPWCS](#Director-General-may-require-owner-or-occupier-to-connect-to-DPWCS)
+
+- [31M Connection charge](#Connection-charge)
+
+- [31N Tariff](#Tariff)
+
+- [31O Recovery of connection charge and tariff](#Recovery-of-connection-charge-and-tariff)
+
+- [31P Duty to enquire before excavation](#Duty-to-enquire-before-excavation)
+
+- [31Q Damage to DPWCS](#Damage-to-DPWCS)
+
+- [31R Relocation, etc., of pneumatic waste conveyance system](#Relocation-etc-of-pneumatic-waste-conveyance-system)
+
+- [31S DPWCS connections not fixtures](#DPWCS-connections-not-fixtures)
+
+- [31T Exemption from distress and attachment, etc.](#Exemption-from-distress-and-attachment-etc)
+
+- [31U Exclusion from requirement for waste collector licence](#Exclusion-from-requirement-for-waste-collector-licence)
+
+- [31V Application of sections 31A to 31D in relation to DPWCS licensee](#Application-of-sections-31A-to-31D-in-relation-to-DPWCS-licensee)
+
 [**Part IV FOOD ESTABLISHMENTS, MARKETS AND HAWKERS**](#Part-IV)
 
 - [32 Food establishments to be licensed](#Food-establishments-to-be-licensed)
@@ -188,7 +226,7 @@
 
 - [64 Closure of swimming pools](#Closure-of-swimming-pools)
 
-- [65 Penalty for offence under this Part](#Penalty-for-offence-under-this-Part)
+- [65 (Repealed)](#Repealed)
 
 - [66 Application to Government swimming pools](#Application-to-Government-swimming-pools)
 
@@ -196,7 +234,7 @@
 
 - [67 Licensing of funeral parlours, cemeteries and crematoria](#Licensing-of-funeral-parlours-cemeteries-and-crematoria)
 
-- [68 Corpse of person dying of infectious diseases](#Corpse-of-person-dying-of-infectious-diseases)
+- [68 (Repealed)](#Repealed)
 
 - [69 Corpse not to be retained beyond 48 hours unless encoffined](#Corpse-not-to-be-retained-beyond-48-hours-unless-encoffined)
 
@@ -214,7 +252,7 @@
 
 - [76 Exhumation](#Exhumation)
 
-- [77 Penalty for offence under this Part](#Penalty-for-offence-under-this-Part)
+- [77 (Repealed)](#Repealed)
 
 [**Part IX CONTROL OF PURITY OF WATER SUPPLIES**](#Part-IX)
 
@@ -330,7 +368,7 @@
 
 [**FIRST SCHEDULE Description of purposes for use of Food Establishments to which section 32 applies**](#FIRST-SCHEDULE-Description-of-purposes-for-use-of-Food-Establishments-to-which-section-32-applies)
 
-[**SECOND SCHEDULE Infectious diseases**](#SECOND-SCHEDULE-Infectious-diseases)
+[**SECOND SCHEDULE Repealed**](#SECOND-SCHEDULE-Repealed)
 
 [**THIRD SCHEDULE Subject matters of regulations**](#THIRD-SCHEDULE-Subject-matters-of-regulations)
 
@@ -516,6 +554,18 @@ and includes any individual who is declared by the Minister, by notification in 
 
 “private street” means any street not being a public street;
 
+“progressive wage model bonus” means a discretionary amount of money payable to a cleaner that is in addition to all of the following paid to the cleaner:
+
+(a) any basic wage;
+
+(b) any overtime payment;
+
+(c) any sum to reimburse the cleaner for special expenses incurred during the cleaner’s employment;
+
+(d) any allowance however described;
+
+[Act 48 of 2018 wef 01/02/2019]
+
 “public market” means a market owned, leased or maintained by the Government;
 
 “public park” has the same meaning as in section 2 of the Parks and Trees Act (Cap. 216);
@@ -542,9 +592,11 @@ and includes any individual who is declared by the Minister, by notification in 
 
 “showboard” includes showcase and any description of container used for the display of any article or thing;
 
-“specified amount” means the amount that is specified in an order made by the Commissioner for Labour under section 80H(2);
+“specified amount” means the amount that is specified in an order made by the Commissioner for Labour under section 80H(2)(a);
 
 [Act 15 of 2014 wef 01/04/2014]
+
+[Act 48 of 2018 wef 01/02/2019]
 
 “stable refuse” means the dung or urine of birds, poultry or animals and the sweepings or refuse or drainage from any stables or cattle-sheds or places for keeping animals, birds or poultry;
 
@@ -758,6 +810,10 @@ shall be guilty of an offence.
 
 [4/2002]
 
+(1A) Despite subsection (1), any refuse, waste and filth of every sort, and any other matter or thing, that is conveyed within the refuse pipeline networks of any DPWCS established under Part IIIA is also the property of the Agency which the Agency may sell or dispose of as the Agency thinks fit.
+
+[Act 48 of 2018 wef 01/02/2019]
+
 (2) No person shall, without the written permission of the Director-General, remove any refuse, waste or filth or any other matter or thing brought into any disposal facility for disposal or treatment.
 
 [2/96; 4/2002]
@@ -768,9 +824,13 @@ Offences in respect of Uncleanliness in Public Places
 
 17\.—(1) No person shall —
 
-(a) deposit, drop, place or throw any dust, dirt, paper, ash, carcase, refuse, box, barrel, bale or any other article or thing in any public place;
+(a) deposit, drop, place or throw any dust, dirt, paper, ash, carcase, refuse, box, barrel, bale or any other article or thing in any public place, except in a dustbin or other receptacle provided for the deposit of refuse and rubbish;
 
-(b) keep or leave any article or thing in any place where it or particles therefrom have passed or are likely to pass into any public place;
+[Act 48 of 2018 wef 01/02/2019]
+
+(b) keep or leave any article or thing in any place where it or particles therefrom have passed or are likely to pass into any public place, except in a dustbin or other receptacle provided for the deposit of refuse and rubbish;
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (c) dry any article of food or any other article or thing in any public place;
 
@@ -778,9 +838,13 @@ Offences in respect of Uncleanliness in Public Places
 
 (e) beat, clean, shake, sieve or otherwise agitate any ash, hair, feathers, lime, sand, waste paper or other substance in such manner that it is carried or likely to be carried by the wind to any public place;
 
-(f) throw or leave behind any bottle, can, food container, food wrapper, glass, particles of food or any other article or thing in any public place;
+(f) throw or leave behind any bottle, can, food container, food wrapper, glass, particles of food or any other article or thing in any public place, except in a dustbin or other receptacle provided for the deposit of refuse and rubbish;
 
-(g) spit any substance or expel mucus from the nose upon or onto any street or any public place; or
+[Act 48 of 2018 wef 01/02/2019]
+
+(g) spit any substance or expel mucus from the nose upon or onto any street or any public place, except in a dustbin or other receptacle provided for the deposit of refuse and rubbish; or
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (h) discard or abandon in any public place any motor vehicle whose registration has been cancelled under section 27 of the Road Traffic Act (Cap. 276), any furniture or any other bulky article.
 
@@ -1349,6 +1413,328 @@ General
 (2) The Agency shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of a public waste collector licensee.
 
 [Act 15 of 2014 wef 01/04/2014]
+
+## PART IIIA
+
+DISTRICT PNEUMATIC WASTE CONVEYANCE SYSTEM
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Interpretation of this Part
+
+31E\. In this Part, unless the context otherwise requires —
+
+“air and ventilation networks” means —
+
+(a) all air and ventilation transmission pipelines or interconnected transmission pipelines; and
+
+(b) other devices and equipment (including pressure regulating and control valves),
+
+used or intended for, or for purposes connected with, conveying or transporting refuse or waste by air suction;
+
+“connection point” means a point situated in, or in immediate proximity to, any premises in a DPWCS area where the refuse pipeline networks are connected to the related internal assets;
+
+“District Pneumatic Waste Conveyance System” or “DPWCS” means a pneumatic waste conveyance system that is established, or required to be established, for a DPWCS area;
+
+“DPWCS area” means an area declared under section 31G(1);
+
+“DPWCS licence” means a licence granted under section 31J to —
+
+(a) establish, operate or maintain a pneumatic waste conveyance system for a DPWCS area; or
+
+(b) do any combination of 2 or more things in paragraph (a);
+
+“DPWCS licensee” means a person to whom a DPWCS licence is granted under this Act;
+
+“pneumatic waste conveyance system” means an automated waste collection system that conveys or transports refuse or waste by air suction from individual premises through a network of pipes to a central location for collection and that consists of —
+
+(a) air and ventilation networks;
+
+(b) refuse pipeline networks; and
+
+(c) related internal assets,
+
+but does not include any disposal facility;
+
+“refuse pipeline networks” —
+
+(a) means all valves, cables, pipes, regulators, apparatus, equipment or plant or station used for, or for purposes connected with, conveying or transporting refuse or waste by air suction; and
+
+(b) includes any connection point, but does not include any related internal assets;
+
+“related internal assets” means all receptacles, refuse chutes, chute chambers, pipes, valves, control cables and sensors within any premises up to but not including any connection point, that are used for, or for purposes connected with, conveying or transporting refuse or waste by air suction from within any premises to the refuse pipeline networks.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Application of this Part
+
+31F\. This Part does not apply to any premises controlled or managed by a Town Council constituted under the Town Councils Act (Cap. 329A).
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Declaration of DPWCS areas
+
+31G\.—(1) The Minister may, from time to time, by notice in theGazette, declare an area to be a DPWCS area where a pneumatic waste conveyance system is established, and operated or maintained, for that area under this Part.
+
+(2) A notice under subsection (1) must —
+
+(a) define the limits of the DPWCS area; or
+
+(b) state that a plan of the DPWCS area may be inspected at a place and within such time as is specified in the notice.
+
+(3) The owner or occupier of every premises within a DPWCS area declared under subsection (1) must use the pneumatic waste conveyance system established, and operated or maintained by the DPWCS licensee for the area.
+
+(4) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction.
+
+(5) In proceedings for an offence under subsection (4), it is a defence for the accused to prove, on a balance of probabilities, that the accused had a reasonable excuse for failing to comply.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Changes affecting DPWCS areas
+
+31H\.—(1) The Minister may, by notice in theGazette—
+
+(a) revoke any declaration made under section 31G; or
+
+(b) modify an area declared as a DPWCS area under section 31G.
+
+(2) A notice under subsection (1)(b) modifying an area declared as a DPWCS area must —
+
+(a) define the part of the DPWCS area that is modified; or
+
+(b) state that a plan of the modification of the DPWCS area may be inspected at a place and within such time as is specified in the notice.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Notice of declaration, etc.
+
+31I\.—(1) Before making any declaration under section 31G(1) or revoking or modifying a declaration under section 31H, the Minister must give advance notice in theGazetteof the Minister’s intention to make, revoke or modify (as the case may be) the declaration.
+
+(2) The notice mentioned in subsection (1) must —
+
+(a) contain either of the following unless the declaration relates to the revocation of a declaration under section 31H:
+
+(i) a definition of the area that is proposed to be declared as a DPWCS area or the part of the DPWCS area that is proposed to be modified; or
+
+(ii) particulars as to where and when a plan of the proposed DPWCS area or of the part of the DPWCS area proposed to be modified may be inspected; and
+
+(b) specify the time (not being less than 28 days after the publication of the notice in theGazette) within which written representations with respect to the intended declaration, or intended revocation or modification of the declaration, may be made.
+
+(3) The decision of the Minister after considering any written representation made within the time specified in the notice under subsection (2)(b) is final.
+
+(4) If no written representation is received by the Minister within the time specified under subsection (2)(b), or if a written representation made under that subsection is subsequently withdrawn, the Minister may immediately carry out the proposed matters specified in the notice under subsection (1).
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### No collection of waste or waste through DPWCS, etc., without licence
+
+31J\.—(1) A person must not —
+
+(a) establish, operate or maintain; or
+
+(b) convey or transport refuse or waste through,
+
+any DPWCS without a DPWCS licence.
+
+(2) Without limiting section 99 —
+
+(a) a DPWCS licence may be granted following a public tender or in such other manner as the Director‑General thinks fit;
+
+(b) the Director‑General may require any DPWCS licensee to render a payment on the grant of a DPWCS licence or such periodic payments during the currency of the licence or both of such amount or amounts as the Director‑General may determine by or under the licence; and
+
+(c) the conditions attached to a DPWCS licence may include —
+
+(i) a condition requiring the DPWCS licensee to connect, at its own cost, any premises or part thereof within the DPWCS area covered by its DPWCS licence to the DPWCS in accordance with such specifications as the Director‑General may specify;
+
+(ii) a condition requiring the DPWCS licensee to comply with such code of practice, standard of service and level of performance as the Director‑General may specify;
+
+(iii) a condition requiring the DPWCS licensee to enter into interconnection or sharing agreements in respect of any infrastructure and facilities relating to the DPWCS upon such terms and conditions as the Director‑General may consider necessary; and
+
+(iv) the right of the Director‑General in the public interest to make modifications to any condition of the DPWCS licence or add new conditions during the period to which the licence relates.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Works by DPWCS licensee
+
+31K\.—(1) Subject to the provisions of this Part, a DPWCS licensee may, in order to carry out the activities which it is authorised or required by its DPWCS licence to do —
+
+(a) install in, on, over, under, along or across any premises or street and inspect, maintain, adjust, repair, alter, restore, replace or remove any valve, cable, pipe, regulator, apparatus, equipment, plant or station which is or is to be part of the DPWCS; and
+
+(b) carry out such activities as are necessary or incidental to the activities falling within paragraph (a), including —
+
+(i) excavating any premises, street, sewer or drain;
+
+(ii) tunnelling or boring under any premises, street, sewer or drain;
+
+(iii) removing or using all earth and materials in or under any premises, street, sewer or drain;
+
+(iv) erecting or placing any valve, cable, pipe, regulator, apparatus, equipment, plant or station in or under any land or street; and
+
+(v) taking such other action as may be necessary to render any valve, cable, pipe, regulator, apparatus, equipment, plant or station safe and efficient.
+
+(2) A DPWCS licensee must pay to any person who has suffered damage or loss of value to the person’s property caused by any activity of the DPWCS licensee mentioned in subsection (1) such sum as may be agreed by between the DPWCS licensee and the person by way of compensation.
+
+(3) Any person who —
+
+(a) hinders, obstructs or delays a DPWCS licensee in the performance of its duties or anything which the DPWCS licensee is authorised, empowered or required to do under subsection (1); or
+
+(b) interferes with any works authorised, empowered or required to be done by a DPWCS licensee under subsection (1),
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(4) Except in the case of an emergency arising from any fault in the DPWCS, a DPWCS licensee must not carry out or cause to be carried out works mentioned in subsection (1) without first giving 14 days’ notice to the owner or occupier of the premises stating as fully and accurately as possible the nature and extent of the acts intended to be done.
+
+(5) In this section, a reference to a DPWCS licensee includes a reference to any employee, agent or contractor authorised by the DPWCS licensee for the purposes of this section.
+
+(6) To avoid doubt, nothing in subsection (1) derogates from any requirement imposed on the DPWCS licensee by or under any written law to obtain approval from the Government or a statutory authority to carry out any activity mentioned in that subsection.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Director-General may require owner or occupier to connect to DPWCS
+
+31L\.—(1) The Director‑General may, by written notice, require the owner or occupier of any premises within a DPWCS area to —
+
+(a) reconstruct, rebuild, retrofit or modify, at the owner’s or occupier’s expense, any refuse lift, refuse chute, refuse chamber, refuse bin centre or refuse bin compartment (or any part or component of the foregoing) within the premises to conform to such specifications of the related internal assets as may be prescribed, or if not prescribed, as the Director‑General may require for the good working of the DPWCS;
+
+(b) maintain or operate, at the owner’s or occupier’s expense, any related internal assets according to such specifications as the Director‑General may require;
+
+(c) make or maintain, at the owner’s or occupier’s expense, the connection of the related internal assets to the refuse pipeline networks according to such specifications, and for such period as the Director‑General may require; and
+
+(d) employ or engage only such persons as the Director‑General may approve to construct, reconstruct, connect, maintain the connection of, maintain or operate any related internal assets.
+
+(2) An owner or occupier who fails to comply with a notice of the Director-General under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction.
+
+(3) In proceedings for an offence under subsection (2), it is a defence for the accused to prove, on a balance of probabilities, that the accused had a reasonable excuse for failing to comply.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Connection charge
+
+31M\.—(1) The owner of any premises within a DPWCS area which is connected to the DPWCS for that DPWCS area must pay to the Agency a charge known as a connection charge of such amount and payable at such time or times as the Agency may, with the approval of the Minister, by order in theGazette, prescribe.
+
+(2) For the purpose of determining the amount of the connection charge under subsection (1), all the costs incurred in the construction of the DPWCS for the DPWCS area, including (but not limited to) the cost of constructing the air and ventilation networks and refuse pipeline networks, but excluding the cost of constructing the related internal assets, may be taken into consideration.
+
+(3) For the purposes of subsection (1), the Agency may, with the Minister’s approval, prescribe different amounts of connection charge and different times of payment for persons differently situated, including different amounts of connection charge for premises with different gross floor areas and generating different amounts of refuse.
+
+(4) Where the premises mentioned in subsection (1) are comprised in a strata title plan under the Land Titles (Strata) Act (Cap. 158), a reference in that subsection to the owner or occupier of the premises is deemed to refer to the management corporation constituted under that strata title plan under that Act.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Tariff
+
+31N\.—(1) The owner or occupier of any premises within a DPWCS area which is connected to the DPWCS for that DPWCS area must pay to the DPWCS licensee a tariff for, or in respect of, operating or maintaining the DPWCS.
+
+(2) The tariff mentioned in subsection (1) —
+
+(a) is of such amount; and
+
+(b) is payable at such time or times,
+
+as the Agency may, with the approval of the Minister, by order in theGazette, prescribe.
+
+(3) For the purpose of determining the amount of the tariff under subsection (2)(a), the following factors may be taken into consideration:
+
+(a) the amount of refuse conveyed from the premises;
+
+(b) the cost of storage of the refuse conveyed from the premises;
+
+(c) the cost of operating, maintaining and replacing the air and ventilation networks and refuse pipeline networks of the DPWCS;
+
+(d) the cost of treatment of exhaust air generated by the pneumatic waste conveyance system to minimise any environmental nuisance.
+
+(4) For the purposes of subsection (2), the Agency may, with the approval of the Minister, prescribe different amounts of tariffs and different times of payment for persons differently situated, including different amounts of tariff for premises with different gross floor areas and generating different amounts of refuse.
+
+(5) Where the premises mentioned in subsection (1) are comprised in a strata title plan under the Land Titles (Strata) Act, a reference to the owner or occupier of the premises is deemed to refer to the management corporation constituted under that strata title plan under that Act.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Recovery of connection charge and tariff
+
+31O\.—(1) The connection charge that is payable under section 31M may be recovered by the Agency as a civil debt due to the Agency.
+
+(2) The tariff that is payable under section 31N may be recovered as a civil debt due to the DPWCS licensee mentioned in that section.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Duty to enquire before excavation
+
+31P\. Any person who digs, bores, trenches, grades, excavates, tunnels or breaks any ground with any mechanical equipment, tool or explosive within a DPWCS area or allows the person’s employee or agent to do so, without first ascertaining the location of any refuse pipeline networks that may be interfered with, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Damage to DPWCS
+
+31Q\.—(1) Any person who, whether wilfully or otherwise —
+
+(a) removes, destroys or damages or causes or permits to be removed, destroyed or damaged, any part of a DPWCS; or
+
+(b) hinders or prevents a DPWCS from being used or operated in the manner in which it is intended to be used or operated,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+(2) In any proceedings for an offence under subsection (1), it is a defence for the accused to prove, on a balance of probabilities, that the person took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+(3) If it appears to the Agency that there has been a contravention of subsection (1), the Agency may, by written notice, require any person who has done any of the acts mentioned in that subsection or such other person who may be liable under that subsection by virtue of section 103A (called in this section the person in default) to carry out such works as may be necessary to restore the DPWCS to its original condition, use or operation, or to replace it, within such time as may be specified in the notice.
+
+(4) If the Agency is of the opinion that immediate action is necessary or expedient, or that the DPWCS cannot be restored by the person in default, the Agency may, instead of issuing the notice under subsection (3) —
+
+(a) carry out such works as are necessary to restore the DPWCS to its original condition, use or operation, or to replace it; and
+
+(b) recover in a court of competent jurisdiction as a debt due to the Agency all expenses reasonably incurred in doing so from the person in default.
+
+(5) If the person to whom a notice is given under subsection (3) fails to comply with the notice within the time specified, the Agency may carry out the works specified in the notice in such manner as the Agency thinks fit and recover in a court of competent jurisdiction as a debt due to it all expenses reasonably incurred in doing so from the person in default.
+
+(6) Without affecting the right of the Agency to exercise its powers under subsection (5), any person who fails to comply with a notice given to him under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+(7) In proceedings for an offence under subsection (6), it is a defence for the accused to prove, on a balance of probabilities, that the accused had a reasonable excuse for failing to comply.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Relocation, etc., of pneumatic waste conveyance system
+
+31R\.—(1) Where a pneumatic waste conveyance system has been laid in, on, over, under, along or across any land within a DPWCS area and the owner or occupier of the land desires to use the land in a manner which renders it necessary or convenient that the pneumatic waste conveyance system should be moved, the owner or occupier may request the Agency to move, or cause to be moved, the pneumatic waste conveyance system accordingly.
+
+(2) The Agency may, at the request of the owner or occupier under subsection (1), relocate the pneumatic waste conveyance system, or cause the pneumatic waste conveyance system to be relocated, if —
+
+(a) the Agency is satisfied that such relocation is reasonable; and
+
+(b) the owner or occupier complies with such terms and conditions as the Agency may impose, including terms and conditions relating to the payment by the owner or occupier of all reasonable costs and expenses (including compensation for any loss that may be incurred by the DPWCS licensee) necessary for the relocation.
+
+(3) Where a pneumatic waste conveyance system has been laid in, on, over, under, upon, along or across any land within a DPWCS area and the pneumatic waste conveyance system is no longer in use by the occupier or any other person for the purposes of conveying or transporting refuse or waste by air suction, the DPWCS licensee may of its own volition or must at the reasonable request of the owner, remove the pneumatic waste conveyance system from the land at its own expense.
+
+(4) In this section —
+
+“owner” includes any person having a leasehold interest with an unexpired term of not less than 7 years;
+
+“pneumatic waste conveyance system” means any part or section of the pneumatic waste conveyance system, other than the related internal assets.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### DPWCS connections not fixtures
+
+31S\. No works, apparatus, fixture, fitting or other equipment used for, for the purposes of, or in connection with, connecting, affixing or fastening the refuse pipeline networks or any part of the refuse pipeline networks to the related internal assets is deemed to be a fixture or vest in the owner of the premises on or within which the related internal assets are constructed or placed.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Exemption from distress and attachment, etc.
+
+31T\. The air and ventilation networks and refuse pipeline networks of a DPWCS licensee are not subject to distress and are not liable to be taken in execution under any process of a court in any bankruptcy or insolvency proceedings against any person without the prior written approval of the Minister.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Exclusion from requirement for waste collector licence
+
+31U\. A DPWCS licensee is not, by reason only of the fact that the DPWCS licensee is in the business of conveying or transporting refuse or waste through the DPWCS under a DPWCS licence, required to hold a waste collector licence under section 31.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+### Application of sections 31A to 31D in relation to DPWCS licensee
+
+31V\. Sections 31A to 31D apply in relation to a DPWCS licensee in the same manner as those sections apply in relation to a public waste collector licensee.
+
+[Act 48 of 2018 wef 01/02/2019]
 
 ## PART IV
 
@@ -1980,9 +2366,7 @@ SWIMMING POOLS
 
 [4/2002]
 
-### Penalty for offence under this Part
-
-65\. Any person who contravenes any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
+65\. [Repealed by Act 48 of 2018 wef 01/02/2019]
 
 ### Application to Government swimming pools
 
@@ -1998,11 +2382,7 @@ FUNERAL PARLOURS, CEMETERIES AND CREMATORIA
 
 [4/2002]
 
-### Corpse of person dying of infectious diseases
-
-68\. No licensee of any funeral parlour shall receive the corpse of any person who has died of any of the infectious diseases set out in the Second Schedule without the permission in writing of the Director-General who may grant permission for such corpse to be so received subject to such terms and conditions as he may think fit.
-
-[4/2002]
+68\. [Repealed by Act 48 of 2018 wef 01/02/2019]
 
 ### Corpse not to be retained beyond 48 hours unless encoffined
 
@@ -2092,9 +2472,7 @@ the Director-General may order the cemetery or crematorium or any part thereof t
 
 (2) Any person who exhumes or causes to be exhumed or, being the owner, trustee or person in charge of any burial ground, permits to be exhumed any corpse in contravention of this section shall be guilty of an offence.
 
-### Penalty for offence under this Part
-
-77\. Any person who contravenes any of the provisions of this Part shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 and, in the case of a second or subsequent conviction, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both.
+77\. [Repealed by Act 48 of 2018 wef 01/02/2019]
 
 ## PART IX
 
@@ -2228,9 +2606,17 @@ then, whether or not any criminal proceedings are instituted against B, A shall 
 
 (a) relate to every citizen or permanent resident of Singapore the licensee or applicant employs or proposes to employ as a cleaner in its cleaning business;
 
-(b) specify the basic wage payable to every cleaner in paragraph (a) that is on an increasing scale depending on seniority, responsibilities, cleaning work experience and training received; and
+(b) specify the basic wage payable to every cleaner in paragraph (a) that is on an increasing scale depending on seniority, responsibilities, cleaning work experience and training received;
 
-(c) specify an amount as the basic wage for each class of cleaners in paragraph (a) that is not less than the amount specified under section 80H(2) for that class.
+[Act 48 of 2018 wef 01/02/2019]
+
+(c) specify an amount as the basic wage for each class of cleaners in paragraph (a) that is not less than the amount specified under section 80H(2)(a) for that class; and
+
+[Act 48 of 2018 wef 01/02/2019]
+
+(d) specify that where the cleaner belongs to a class of cleaners specified as eligible for a progressive wage model bonus under section 80H(2)(b), the cleaner will be paid a progressive wage model bonus.
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (6) The Director-General may, if he thinks fit, in any particular case waive any (but not all) of the requirements of subsection (4).
 
@@ -2264,15 +2650,33 @@ then, whether or not any criminal proceedings are instituted against B, A shall 
 
 (d) for every contract of service entered into between the licensee and a cleaner who is a citizen or permanent resident of Singapore, the contract must —
 
-(i) provide for payment to that cleaner of a basic wage that is not less than the amount specified under subsection (2) for the class of cleaners to which that cleaner belongs; and
+(i) provide for payment to that cleaner of a basic wage that is not less than the minimum amount specified under subsection (2) for the class of cleaners to which that cleaner belongs;
 
-(ii) contain terms not inconsistent with the requirements in section 80G(5) for the progressive wage plan in respect of that licensee’s cleaning business;
+[Act 48 of 2018 wef 01/02/2019]
+
+(ii) provide for payment to that cleaner of a progressive wage model bonus that is not less than the minimum amount, and at the frequency, specified under subsection (2) if the cleaner belongs to the eligible class of cleaners specified under that subsection; and
+
+[Act 48 of 2018 wef 01/02/2019]
+
+(iii) contain terms not inconsistent with the requirements in section 80G(5) for the progressive wage plan in respect of that licensee’s cleaning business;
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (e) the licensee shall issue to each cleaner the licensee employs a pay slip containing such particulars of that cleaner’s basic wage and such other payment received by that cleaner from the licensee, and at such frequency, as may be prescribed; and
 
 (f) in the case where the licensee was required to satisfy the requirement in section 80G(4)(b)(ii) in respect of the grant of the cleaning business licence, the licensee shall ensure that at all times at least one of the licensee’s officers or employees has the practical experience, qualification or certificate referred to in section 80G(4)(b)(ii).
 
-(2) The Commissioner for Labour shall, by order, specify the amount for the purposes of subsection (1)(d) and when the specified amount takes effect, and he may specify different specified amounts for or in respect of different classes of cleaners and may, from time to time, vary any amount so specified.
+(2) The Commissioner for Labour must, by order, specify —
+
+(a) the minimum amount for the purposes of subsection (1)(d)(i) and when the specified amount takes effect; and
+
+(b) the minimum amount, the frequency of payment, and the eligible class of cleaners for the purposes of subsection (1)(d)(ii).
+
+[Act 48 of 2018 wef 01/02/2019]
+
+(2A) An order under subsection (2) may specify different minimum amounts for different classes of cleaners, and may be varied from time to time.
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (3) In making an order under subsection (2), the Commissioner for Labour shall consider the recommendations by the Tripartite Cluster for Cleaners on remuneration for cleaners, if any.
 
@@ -2280,11 +2684,17 @@ then, whether or not any criminal proceedings are instituted against B, A shall 
 
 (5) A specified amount shall take effect for the purposes of this Part notwithstanding that the basic wage that would have been payable to a cleaner under any collective agreement as defined in section 2 of the Industrial Relations Act (Cap. 136) is lower than the specified amount.
 
-(6) The Director-General may, by notice in writing to licensees, postpone the effective date of any specified amount (or any variation of that amount) —
+(6) The Director-General may, by notice in writing to licensees, postpone the effective date of any specified amount or any minimum amount specified under subsection (2) for the purposes of subsection (1)(d)(ii) (or any variation of that amount) —
 
-(a) in relation to cleaners employed (whether or not exclusively) to carry out or supervise the carrying out of cleaning work under any cleaning contract entered into by licensees before the date on which the specified amount otherwise takes effect; and
+(a) in relation to cleaners employed (whether or not exclusively) to carry out or supervise the carrying out of cleaning work under any cleaning contract entered into by licensees before the date on which the specified amount or minimum amount (as the case may be) otherwise takes effect; and
 
-(b) in any case where the Commissioner for Labour varies the specified amount, in relation to cleaners employed (whether or not exclusively) to carry out or supervise the carrying out of cleaning work under any cleaning contract entered into by licensees before the variation otherwise takes effect.
+[Act 48 of 2018 wef 01/02/2019]
+
+(b) in any case where the Commissioner for Labour varies the specified amount or minimum amount (as the case may be), in relation to cleaners employed (whether or not exclusively) to carry out or supervise the carrying out of cleaning work under any cleaning contract entered into by licensees before the variation otherwise takes effect.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (7) The Director-General may, if he thinks fit, waive any (but not all) of the conditions specified in subsection (1) in any particular case.
 
@@ -2468,7 +2878,9 @@ ENFORCEMENT
 
 82\. No person shall at any time —
 
-(a) hinder, obstruct or molest the Director-General, any authorised officer or other person in the performance and execution of his duty or of anything which he is respectively empowered, employed or required to do by virtue or in consequence of or under this Act; or
+(a) hinder, obstruct or delay the Director-General, any authorised officer or other person in the performance and execution of his duty or of anything which he is respectively empowered, employed or required to do by virtue or in consequence of or under this Act; or
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (b) remove any mark, line, sign or other direction drawn or set up for the purpose of this Act.
 
@@ -2526,9 +2938,11 @@ ENFORCEMENT
 
 [4/2002]
 
-(3) Any person who contravenes this section or wilfully mis-states his name and address or the name and address of the owner of any premises shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $300.
+(3) Any person who contravenes this section or wilfully mis-states his name and address or the name and address of the owner of any premises shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [96
+
+[Act 48 of 2018 wef 01/02/2019]
 
 ### Power of investigating offences under sections 20 and 23
 
@@ -2610,7 +3024,9 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 ### Payment of fees, etc.
 
-91\.—(1) Subject to subsection (2), all fees, charges and moneys collected under this Act are payable to the Agency.
+91\.—(1) Subject to subsection (2) and section 31N, all fees, charges and moneys collected under this Act are payable to the Agency.
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (2) Any fee, charge or money collected under this Act may be paid to a person other than the Agency where the Agency has, with the approval of the Minister, made regulations under section 111 providing for that fee, charge or money to be payable to that person instead.
 
@@ -2704,9 +3120,21 @@ MISCELLANEOUS PROVISIONS
 
 (2) When any summons, notice, order or document is to be served on any incorporated company or body, it may be served by —
 
-(a) delivering it to the secretary of the company or body at its registered or principal office; or
+(a) delivering it to the secretary or other like officer of the company or body; or
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (b) sending it by registered post addressed to the company or body at its registered or principal office.
+
+(2A) In addition, any notice, order or document (other than a notice, order or document to be served in proceedings in court) required or authorised by this Act to be served on an individual, a partnership, a body corporate or an unincorporated association may be served by sending it by fax to whichever of the following is applicable:
+
+(a) the fax number last known as the fax number for the service of notices, orders or documents on the individual;
+
+(b) the fax number used at the partnership’s business address;
+
+(c) the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore.
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (3) A summons, notice, order or document required or authorised by this Act to be served on the owner or occupier of any premises may be served by delivering it or a true copy thereof to some adult person on the premises or, if there is no such person on the premises to whom it can with reasonable diligence be delivered, by affixing the summons, notice, order or document to some conspicuous part of the premises.
 
@@ -2715,6 +3143,22 @@ MISCELLANEOUS PROVISIONS
 [86
 
 [2/96]
+
+(5) Service of any notice, order or document (other than a notice, order or document to be served in proceedings in court) takes effect —
+
+(a) if the notice, order or document is sent by prepaid registered post, on the second day after the day the notice, order or document was posted (even if it is returned undelivered); or
+
+(b) if the notice, order or document is sent by fax and a notification of successful transmission is received, on the day of the transmission.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+(6) In this section, “business address” or “place of business” means —
+
+(a) in the case of an individual, the individual’s usual or last known place of business in Singapore; and
+
+(b) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore.
+
+[Act 48 of 2018 wef 01/02/2019]
 
 ### Licences
 
@@ -3014,21 +3458,7 @@ except a catering establishment that is part of a non-retail food business withi
 
 SECOND SCHEDULE
 
-Section 68
-
-Infectious diseases
-
-1\. Anthrax.
-
-2\. Cholera.
-
-3\. Enteric fever (typhoid).
-
-4\. Plague.
-
-5\. Smallpox.
-
-6\. Yellow fever.
+[Deleted by Act 48 of 2018 wef 01/02/2019 wef 01/02/2019]
 
 THIRD SCHEDULE
 
@@ -3037,6 +3467,30 @@ Section 111(1)
 Subject matters of regulations
 
 1\. Public cleansing, conservancy and the depositing, collection, removal and disposal of dust, dirt, ashes, rubbish, nightsoil, dung, trade refuse, garden refuse, stable refuse, trade effluent and other filth; and matters relating to the receptacles used or provided in connection therewith.
+
+1A. The control, regulation and supervision of —
+
+(a) the establishment, operation and maintenance of a DPWCS; and
+
+(b) the conveyance or transportation of refuse and waste through a DPWCS.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+1B. The duties of owners and occupiers of premises in connection with the use, operation and maintenance of a DPWCS.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+1C. The specifications, dimensions and other standards to which the related internal assets must conform.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+1D. The control, regulation and restriction of the types of refuse and waste that may be disposed of through a DPWCS.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+1E. The conditions under which refuse and waste may be disposed of through a DPWCS.
+
+[Act 48 of 2018 wef 01/02/2019]
 
 2\. The seizure and disposal of unwholesome meat, fish, fruit, vegetables or other food or drink exposed or intended for sale.
 
@@ -3372,6 +3826,10 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of First Reading|2 October 2017 (Bill No. 42/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|7 November 2017|
 ||Date of commencement|1 February 2018|
+|24.|**Act 48 of 2018—Environmental Public Health (Amendment) Act 2018**|
+||Date of First Reading|10 September 2018 (Bill No. 39/2018 published on 10 September 2018)|
+||Date of Second and Third Readings|2 October 2018|
+||Date of commencement|1 February 2019|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
