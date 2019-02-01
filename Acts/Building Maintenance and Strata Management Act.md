@@ -20,9 +20,13 @@
 
 [**Part III MAINTENANCE OF BUILDINGS**](#Part-III)
 
+- [4A Interpretation of this Part](#Interpretation-of-this-Part)
+
 - [5 Application of this Part](#Application-of-this-Part)
 
 - [6 Commissioner may require building owner, etc., to carry out repairs, etc.](#Commissioner-may-require-building-owner-etc-to-carry-out-repairs-etc)
+
+- [6A Recovery of expenses](#Recovery-of-expenses)
 
 - [7 Deposit by building owner, etc.](#Deposit-by-building-owner-etc)
 
@@ -94,6 +98,8 @@
 
 - [37 Improvements and additions to lots](#Improvements-and-additions-to-lots)
 
+- [37A Installation of safety equipment permitted](#Installation-of-safety-equipment-permitted)
+
 - [38 Management funds and sinking funds](#Management-funds-and-sinking-funds)
 
 - [39 Management corporation to determine contributions by subsidiary proprietors](#Management-corporation-to-determine-contributions-by-subsidiary-proprietors)
@@ -129,6 +135,10 @@
 [**Division 3  Councils**](#Division-3--Councils)
 
 - [53 Council of management corporation](#Council-of-management-corporation)
+
+- [53A Councils for mixed‑use developments](#Councils-for-mixed‑use-developments)
+
+- [53B Nomination of candidates for election as member](#Nomination-of-candidates-for-election-as-member)
 
 - [54 Vacation of office of member of council](#Vacation-of-office-of-member-of-council)
 
@@ -208,7 +218,7 @@
 
 - [85A Limited right to representation by management corporation in non‑lot acquisition](#Limited-right-to-representation-by-management-corporation-in-non‑lot-acquisition)
 
-- [86 Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of structural defects](#Management-corporation’s-power-to-take-proceedings-as-agent-for-subsidiary-proprietor-in-case-of-structural-defects)
+- [86 Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of certain structural defects](#Management-corporation’s-power-to-take-proceedings-as-agent-for-subsidiary-proprietor-in-case-of-certain-structural-defects)
 
 - [87 Costs in proceedings by subsidiary proprietors against management corporation, etc.](#Costs-in-proceedings-by-subsidiary-proprietors-against-management-corporation-etc)
 
@@ -286,11 +296,7 @@
 
 - [120 Enforcement and penalty for contravention of orders](#Enforcement-and-penalty-for-contravention-of-orders)
 
-[**Part VII STAGED DEVELOPMENTS**](#Part-VII)
-
-- [121 Staged development contracts](#Staged-development-contracts)
-
-- [122 Staged development regulations](#Staged-development-regulations)
+[**Part VII (Repealed)**](#Part-VII)
 
 [**Part VIII GENERAL**](#Part-VIII)
 
@@ -307,6 +313,8 @@
 - [128 General penalties](#General-penalties)
 
 - [129 Service of notices](#Service-of-notices)
+
+- [129A Inaccuracies in notices, etc.](#Inaccuracies-in-notices-etc)
 
 - [130 Jurisdiction of court](#Jurisdiction-of-court)
 
@@ -334,7 +342,7 @@
 
 [**SECOND SCHEDULE Proceedings of councils and executive committees**](#SECOND-SCHEDULE-Proceedings-of-councils-and-executive-committees)
 
-[**THIRD SCHEDULE Consequential amendments to Land Titles (Strata) Act (Chapter 158, 1999 Edition)**](#THIRD-SCHEDULE-Consequential-amendments-to-Land-Titles-Strata-Act-Chapter-158-1999-Edition)
+[**THIRD SCHEDULE Consequential amendments to land titles (strata) act (chapter 158, 1999 edition)**](#THIRD-SCHEDULE-Consequential-amendments-to-land-titles-strata-act-chapter-158-1999-edition)
 
 [**FOURTH SCHEDULE Transitional and savings provisions**](#FOURTH-SCHEDULE-Transitional-and-savings-provisions)
 
@@ -377,7 +385,7 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“authorised proposal” means any proposed development in a staged development that the owner developer thereof will be authorised but cannot be compelled to carry out under the staged development contract for that staged development;
+[Deleted by Act 35 of 2017 wef 01/02/2019]
 
 “Board” means any Strata Titles Board constituted under Part VI;
 
@@ -413,13 +421,51 @@ PRELIMINARY
 
 (i) not comprised in any lot or proposed lot in that strata title plan; and
 
-(ii) used or capable of being used or enjoyed by occupiers of 2 or more lots or proposed lots; or
+(ii) used or capable of being used or enjoyed by occupiers of 2 or more lots or proposed lots;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) in relation to any other land and building, such part of the land and building —
 
 (i) not comprised in any non-strata lot; and
 
-(ii) used or capable of being used or enjoyed by occupiers of 2 or more non-strata lots within that land or building;
+(ii) used or capable of being used or enjoyed by occupiers of 2 or more non-strata lots within that land or building; or
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(c) in relation to any land and building mentioned in paragraph (a) or (b), any of the following whether or not comprised in a lot, proposed lot or non‑strata lot:
+
+(i) the pipes, wires, cables or ducts which are used, or capable of being used or enjoyed, by occupiers of 2 or more lots, proposed lots or non‑strata lots (as the case may be) within that land or building, or are used or capable of being used for the servicing or enjoyment of the common property;
+
+(ii) the cubic space enclosed by a structure enclosing pipes, wires, cables or ducts mentioned in sub‑paragraph (i);
+
+(iii) any structural element of the building;
+
+(iv) the waterproof membrane attached to an external wall or a roof;
+
+Examples
+
+(a)
+
+A foundation, load‑bearing wall, column or beam, a shear core, strut, ground anchor, slab (not including any layer that is the underlayment or the flooring finishing), truss and common staircase.
+
+(b)
+
+An external wall, or a roof or façade of a building which is used or enjoyed, or capable of being used or enjoyed, by occupiers of 2 or more lots, proposed lots or non‑strata lots.
+
+(c)
+
+A garden, sporting or recreational facility, car park or parking area for other vehicles, none of which are comprised in a lot, proposed lot or non‑strata lot.
+
+(d)
+
+A central air‑conditioning system and its appurtenances, and a fire sprinkler protection system and its appurtenances.
+
+(e)
+
+Any chute, pipe, wire, cable, duct or facility for the passage or provision of water, sewage, drainage, gas, oil, electricity, telephone, radio, television, garbage, heating or cooling systems, or any other similar services.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 “competent authority” means the competent authority appointed under section 5 of the Planning Act (Cap. 232) in respect of the development or sub-division of land;
 
@@ -435,7 +481,7 @@ PRELIMINARY
 
 “exterior feature” has the same meaning as in the Building Control Act (Cap. 29);
 
-“future development lot”, in relation to any staged development, means a lot or proposed lot or any other area reserved for future development in the staged development;
+[Deleted by Act 35 of 2017 wef 01/02/2019]
 
 “immediate family member”, in relation to any person, means a spouse, child, adopted child, step-child, sibling or parent of that person;
 
@@ -446,6 +492,10 @@ PRELIMINARY
 (b) on the day when the first annual general meeting of the management corporation or (as the case may be) subsidiary management corporation is held,
 
 whichever first occurs;
+
+“inspect” includes examine and test, with or without the aid of equipment;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 “land” has the same meaning as in the Land Titles Act (Cap. 157);
 
@@ -469,9 +519,17 @@ and includes any supporting structure, machinery, equipment, gear and enclosure 
 
 but does not include —
 
-(i) the foundations, columns, beams, supports, walls, roofs of, and any window installed in any external wall of, any building within that parcel; and
+(i) the foundations, columns, beams, supports, walls, roofs of, and any window installed in any external wall of, any building within that parcel, whether or not they are comprised in any lot or proposed lot;
 
-(ii) any chute, pipe, wire, cable, duct and other facility for the passage or provision of water, sewage, drainage, gas, oil, electricity, telephone, radio, television, garbage, heating and cooling systems, or other similar services, not comprised in any lot or proposed lot and necessary for the common use of the occupiers of all lots or proposed lots in that parcel;
+[Act 35 of 2017 wef 01/02/2019]
+
+(ii) any chute, pipe, wire, cable, duct and other facility for the passage or provision of water, sewage, drainage, gas, oil, electricity, telephone, radio, television, garbage, heating and cooling systems, or other similar services, not comprised in any lot or proposed lot and necessary for the common use of the occupiers of all lots or proposed lots in that parcel; and
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(iii) all other windows of a lot or proposed lot that are located on any exterior wall of the lot or proposed lot;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 “lot” means any stratum within a parcel comprised in a strata title plan and which —
 
@@ -557,13 +615,9 @@ and includes a lot specified as an accessory lot on any such plan;
 
 “share value”, in respect of a lot or proposed lot, means the share value of that lot or proposed lot as shown in the schedule of strata units;
 
-“staged development” means any development of a parcel comprised or to be comprised in a strata title plan consisting of —
+[Deleted by Act 35 of 2017 wef 01/02/2019]
 
-(a) the progressive improvement of the parcel in stages by the construction of buildings or the carrying out of works (or both) on a lot, proposed lot or future development lot therein or such lots therein; and
-
-(b) the subsequent subdivision under any written law of each future development lot therein and the consequential adjustments of share values of lots or proposed lots within that strata title plan;
-
-“staged development contract” means a staged development contract within the meaning of this Act, the Housing Developers (Control and Licensing) Act (Cap. 130) or the Sale of Commercial Properties Act (Cap. 281);
+[Deleted by Act 35 of 2017 wef 01/02/2019]
 
 “strata roll”, in relation to any subdivided building shown on a strata title plan, means the roll referred to in section 46 which relates to that plan;
 
@@ -573,25 +627,61 @@ and includes a lot specified as an accessory lot on any such plan;
 
 “stratum” means any part of land which consists of a space of any shape below, on or above the surface of the land, or partly below and partly above the surface of the land, the dimensions of which are delineated;
 
+“structural defect” means a defect in a structural element of a building that —
+
+(a) results in, or is likely to result in, the building or any part of the building being required by or under any law to be closed or prohibited from being used;
+
+(b) prevents, or is likely to prevent, the continued practical use of the building or any part of the building; or
+
+(c) results in, or is likely to result in, a threat of imminent collapse that may reasonably be considered to cause destruction of the building or physical damage to the building or any part of the building;
+
+[Act 35 of 2017 wef 01/02/2019]
+
+“structural element”, for a building, means an internal or external load‑bearing component of the building that is essential to the stability of the building or part of the building, but does not include any door or window;
+
+Examples
+
+(a)
+
+A foundation, load‑bearing wall, column or beam, a shear core, strut, ground anchor, slab or truss.
+
+(b)
+
+A common staircase.
+
+[Act 35 of 2017 wef 01/02/2019]
+
 “subdivided building” means any one or more buildings comprised in a strata subdivision plan approved by the relevant authority;
 
 “subsidiary management corporation”, in relation to any limited common property comprised in a strata title plan, means the subsidiary management corporation constituted for that limited common property under the Land Titles (Strata) Act;
 
 “subsidiary proprietor” has the same meaning as in the Land Titles (Strata) Act;
 
+“temporary building” has the same meaning as in the Building Control Act;
+
+[Act 35 of 2017 wef 01/02/2019]
+
 “temporary occupation permit” means a temporary occupation permit granted by the Commissioner of Building Control under the Building Control Act (Cap. 29);
 
 “wall” includes a door, window or other structure forming part of the wall;
 
-“warranted development” means any proposed development in a staged development that the owner developer thereof warrants will be carried out and may be compelled to carry out under the staged development contract for that staged development;
+[Deleted by Act 35 of 2017 wef 01/02/2019]
 
-“window” includes a roof skylight, glass panel, glass brick, louvre, glazed sash, glazed door, translucent sheeting and any other building material which transmits natural light directly from outside a building into a room of or an interior of the building.
+“window” includes a roof skylight, glass panel, glass brick, louvre, glazed sash, glazed door, translucent sheeting and any other building material which transmits natural light directly from outside a building into a room of or an interior of the building;
 
 [42/2005; 47/2007]
 
+[Act 35 of 2017 wef 01/02/2019]
+
+“working day” means any day other than a Saturday, Sunday or public holiday.
+
+[Act 35 of 2017 wef 01/02/2019]
+
 (2) For any management corporation or subsidiary management corporation, a motion is decided by ordinary resolution if —
 
-(a) the motion is passed at a duly convened general meeting of such corporation of which at least 14 days’ notice specifying the motion has been given; and
+(a) the motion is passed at a duly convened general meeting of such corporation held on the 15th day (or later) after the notice specifying the motion has been given; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) the votes cast by subsidiary proprietors who are entitled to vote and are present (in person or proxy) at the time the vote is taken are as follows:
 
@@ -601,31 +691,41 @@ and includes a lot specified as an accessory lot on any such plan;
 
 (3) For any management corporation or subsidiary management corporation, a motion is decided by special resolution if —
 
-(a) the motion is passed at a duly convened general meeting of such corporation of which at least 21 days’ notice specifying the motion has been given; and
+(a) the motion is passed at a duly convened general meeting of such corporation held on the 22nd day (or later) after the notice specifying the motion has been given; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) on a poll, the total of the share value of the lots for which valid votes are counted for the motion is at least 75% of the aggregate share value of the lots for which all valid votes are cast by subsidiary proprietors who are present (in person or proxy) at the time the vote is taken.
 
 (4) For any management corporation or subsidiary management corporation, a motion is decided by unanimous resolution if the motion —
 
-(a) is passed at a duly convened general meeting of such corporation of which at least 21 days’ notice specifying the motion has been given; and
+(a) is passed at a duly convened general meeting of such corporation held on the 22nd day (or later) after the notice specifying the motion has been given; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) is supported by every valid vote cast by subsidiary proprietors who are present (in person or proxy) at the time the vote is taken.
 
 (5) For any management corporation or subsidiary management corporation, a motion is decided by 90% resolution if —
 
-(a) the motion is passed at a duly convened general meeting of such corporation of which at least 21 days’ notice specifying the motion has been given; and
+(a) the motion is passed at a duly convened general meeting of such corporation held on the 22nd day (or later) after the notice specifying the motion has been given; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) on a poll, the total of the share value of the lots for which valid votes are counted for the motion is at least 90% of the aggregate share value of the lots for which all valid votes are cast by subsidiary proprietors who are present (in person or proxy) at the time the vote is taken.
 
 (6) For any management corporation or subsidiary management corporation, a motion is decided by comprehensive resolution if —
 
-(a) the motion is considered at a duly convened general meeting of such corporation of which at least 21 days’ notice specifying the motion has been given; and
+(a) the motion is considered at a duly convened general meeting of such corporation held on the 22nd day (or later) after the notice specifying the motion has been given; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) at the end of a period of 12 weeks after the general meeting in paragraph (a) is convened, on a poll, the total of the share value of the lots for which valid votes are counted for the motion is at least 90% of the aggregate share value of the lots of all the subsidiary proprietors who, at the end of that period, constitute the management corporation or subsidiary management corporation, as the case may be.
 
 (7) For any management corporation or subsidiary management corporation, a motion is decided by resolution by consensus if —
 
-(a) the motion is considered at a duly convened general meeting of such corporation of which at least 21 days’ notice specifying the motion has been given; and
+(a) the motion is considered at a duly convened general meeting of such corporation held on the 22nd day (or later) after the notice specifying the motion has been given; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) at the end of a period of 12 weeks after the general meeting in paragraph (a) is convened, all the subsidiary proprietors who, at the end of that period, constitute the management corporation or subsidiary management corporation, as the case may be, support the motion in writing.
 
@@ -677,6 +777,12 @@ such number of officers as the Commissioner considers necessary for the purpose 
 
 MAINTENANCE OF BUILDINGS
 
+### Interpretation of this Part
+
+4A\. In this Part, unless the context otherwise requires, “building” includes a temporary building or structure.
+
+[Act 35 of 2017 wef 01/02/2019]
+
 ### Application of this Part
 
 5\.—(1) Subject to section 134, this Part shall apply to any building (subdivided or otherwise) and any common property and limited common property situated in Singapore.
@@ -699,7 +805,9 @@ the Commissioner may, by notice in writing, require such repairs, work or altera
 
 (2) A notice under subsection (1) shall specify —
 
-(a) the manner in which the repairs, work or alteration specified in the notice is to be carried out;
+(a) the repairs, work or alteration to be carried out;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) the time within which the repairs, work or alteration shall commence;
 
@@ -729,6 +837,24 @@ as the case may be.
 
 [BCPA (repealed), s. 4]
 
+### Recovery of expenses
+
+6A\.—(1) All expenses incurred by the Commissioner in or about the execution of any repairs, work or alteration under section 6(4)(a), together with interest accruing in accordance with subsection (5), is recoverable from the person in default on the date on which the repairs, work or alteration are completed.
+
+(2) As from the date of the completion of the repairs, work or alteration, the expenses of and interest accrued due from the completion of the repairs, work or alteration is, until recovered, a first charge on the premises and on all estates and interests in the premises, exercisable against the premises and the estates and interests in the premises and all movable property or crops for the time being found on the premises, despite any change in the ownership or occupation of the premises subsequent to that date.
+
+(3) The Commissioner may certify under his hand the expenses due and the names of the persons liable for the expenses and may by such certificate apportion the expenses among those persons.
+
+(4) A copy of the certificate must be served upon each of those persons mentioned in subsection (3), but where no such persons may be found, the certificate is deemed to have been duly served if a copy of the certificate is posted at the office of the Commissioner and another copy is affixed to some conspicuous part of the premises in respect of which the expenses have been incurred.
+
+(5) Interest at the rate of 9% per annum from the expiry of one month after the date of service of a certificate under subsection (4) is recoverable as part of the expenses incurred by the Commissioner.
+
+(6) A certificate purporting to be under the hand of the Commissioner and to be made under subsection (3) and stating the amount claimed as due to the Commissioner and the persons liable for the payment of the amount is prima facie evidence of the facts certified in the certificate and of the signature of the Commissioner to the certificate.
+
+(7) If any sum or any part of the sum due to the Commissioner under this section remains unpaid at the expiration of one month commencing from the date of service of the certificate under subsection (4), or such further period as the Commissioner may allow, it is deemed to be arrears.
+
+[Act 35 of 2017 wef 01/02/2019]
+
 ### Deposit by building owner, etc.
 
 7\.—(1) Without prejudice to section 6(4), where a notice under section 6(1) is not complied with to his satisfaction, the Commissioner may issue a direction to the person on whom the notice was served to deposit such amount with the Commissioner as he considers necessary for the purpose of executing the repairs, work and alteration specified in that notice, and that amount shall be deposited with the Commissioner within such period, not being less than 7 days from the service of the direction, as the Commissioner may specify.
@@ -741,7 +867,9 @@ as the case may be.
 
 ### Appeal against notice to repair
 
-8\.—(1) Any person on whom a notice under section 6(1) is served may, within 21 days after the date of receipt of the notice, appeal in writing to the Minister against the notice in the prescribed manner.
+8\.—(1) Any person on whom a notice under section 6(1) is served may, not later than the 21st day after the date of receipt of the notice, appeal in writing to the Minister against the notice in the prescribed manner.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) Notwithstanding that an appeal is lodged under subsection (1), the notice appealed against shall take effect and be complied with unless otherwise ordered by the Minister.
 
@@ -767,7 +895,9 @@ as the case may be.
 
 (4) Without prejudice to subsection (3), a person responsible for an exterior feature shall not, by virtue of subsection (1), be guilty of an offence under that subsection if —
 
-(a) within 7 days after service on him of any notice alleging that he has been guilty of such offence, he furnishes by statutory declaration to the Commissioner, the name and address of the contractor, managing agent or other person appointed by the person responsible to manage and maintain the exterior feature at all relevant times relating to the offence concerned; and
+(a) not later than the 7th day after service on him of any notice alleging that he has been guilty of such offence, he furnishes by statutory declaration to the Commissioner, the name and address of the contractor, managing agent or other person appointed by the person responsible to manage and maintain the exterior feature at all relevant times relating to the offence concerned; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) he satisfies the court that he relied, in good faith and after making proper inquiry (if the circumstances indicated the need for inquiry of the advice or services), on professional or expert advice or other services given or rendered by the contractor, managing agent or other person in relation to the exterior feature concerned.
 
@@ -783,7 +913,9 @@ DEALINGS IN STRATA SUBDIVIDED BUILDINGS
 
 ### Application of this Part and meaning of “sale”
 
-10\.—(1) This Part shall apply only to any development (including any staged development) for which planning permission is granted (whether before, on or after the date of commencement of this Part) for strata subdivision after completion of any building comprised in the development.
+10\.—(1) This Part applies only to any development for which planning permission is granted on or after 15 April 1976 for strata division after completion of any building comprised in the development.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) For the purposes of this Part and Part V, an owner developer shall be deemed to have sold a lot or proposed lot in his development if —
 
@@ -795,47 +927,19 @@ DEALINGS IN STRATA SUBDIVIDED BUILDINGS
 
 ### Schedule of strata units must be accepted by Commissioner before sale can start
 
-11\.—(1) The owner developer of a development (including any staged development) shall not sell any lot or proposed lot in the development with a share value unless a schedule of strata units or an amended schedule of strata units, as the case may be, showing that share value of the lot or proposed lot has been filed with and accepted by the Commissioner under this section.
+11\.—(1) The owner developer of a development shall not sell any lot or proposed lot in the development with a share value unless a schedule of strata units or an amended schedule of strata units, as the case may be, showing that share value of the lot or proposed lot has been filed with and accepted by the Commissioner under this section.
 
-\*(2) Where a schedule of strata units has been filed and accepted by the Commissioner in respect of any staged development, the owner developer of the staged development shall also not sell any lot or proposed lot in any stage of the staged development subsequent to the initial stage unless he files an amended schedule of strata units under section 12 showing —
+[Act 35 of 2017 wef 01/02/2019]
 
-(a) the adjusted share value of each lot or proposed lot comprised in the first stage and any preceding stage of the staged development of the parcel; and
-
-(b) the proposed share value to be allotted to each lot or proposed lot comprised in that subsequent stage of the staged development,
-
-and the Commissioner accepts that amended schedule of strata units under this section.
-
-\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
+(2) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (3) Every schedule of strata units and amended schedule of strata units shall be filed with the Commissioner in the prescribed form and manner and be accompanied by the prescribed fee.
 
-\*(4) In the case of a staged development, the schedule of strata units to be filed with the Commissioner shall also include —
-
-(a) the proposed share value of each lot or proposed lot comprised in the first stage of the staged development;
-
-(b) the range of aggregate provisional share values for all future development lots in each subsequent stage of the staged development;
-
-(c) a description of the parcel, identifying the future development lots therein, and so much of the proposed development that is warranted development and so much (if any) of the proposed development that is an authorised proposal; and
-
-(d) the proposed staged development contract subject to which the staged development shall be carried out.
-
-\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
+(4) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (5) The Commissioner may accept a schedule of strata units filed under this section, or an amended schedule of strata units filed under section 12, if and only if he is satisfied that the proposed share values or range of proposed share values allotted to all the lots or proposed lots in the schedule of strata units or the amended schedule of strata units, as the case may be, are allocated in a just and equitable manner.
 
-\*(6) Without prejudice to subsection (5), in the case of a staged development, the Commissioner may accept an amended schedule of strata units filed under section 12 in respect of or on account of any subsequent stage of a staged development if and only if —
-
-(a) the aggregate share values of all lots or proposed lots comprised in the first and any preceding stage of the staged development; plus
-
-(b) the total of the proposed share values to be allotted to all lots or proposed lots in that subsequent stage of the staged development,
-
-is not more or less than the aggregate of share values (including the range of provisional share values referred to in subsection (4)(
-
-b
-
-)) accepted by the Commissioner under this section.
-
-\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
+(6) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (7) Within 6 weeks after any schedule of strata units or amended schedule of strata units for a development is filed with the Commissioner, the Commissioner shall either —
 
@@ -843,25 +947,19 @@ b
 
 (b) notify the owner developer concerned that he rejects that schedule, stating his reasons for objecting to the allocation of share values therein.
 
-(8) Every contract for the sale of any lot or proposed lot in a development shall be deemed to include a term that the owner developer of the development has agreed to sell an undivided share in the land on which the lot or proposed lot is or is to be erected with a value or, in the case of a lot or proposed lot in a staged development, within a range of share values, determined in accordance with the proposed share values or proposed range of share values, as the case may be, assigned to each lot or proposed lot shown in the schedule of strata units or amended schedule of strata units, as the case may be, for the development last accepted by the Commissioner before the execution of that contract.
+(8) Every contract for the sale of any lot or proposed lot in a development shall be deemed to include a term that the owner developer of the development has agreed to sell an undivided share in the land on which the lot or proposed lot is or is to be erected with a value determined in accordance with the proposed share values assigned to each lot or proposed lot shown in the schedule of strata units or amended schedule of strata units, as the case may be, for the development last accepted by the Commissioner before the execution of that contract.
 
 [LT(S)A, s. 7]
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Schedule of strata units not to be changed once accepted
 
 12\.—(1) Where a schedule of strata units for a development has been filed and accepted by the Commissioner under section 11, the owner developer of the development shall not make any change to any share value in the schedule of strata units, the area of any lot or proposed lot in the development or any part of the common property or limited common property, if any, of the development unless he has filed an amended schedule of strata units with the Commissioner and the Commissioner accepts that amended schedule of strata units.
 
-\*(2) Where a schedule of strata units has been filed and accepted by the Commissioner in respect of any staged development, the owner developer of the staged development shall not make any change to the share value of any lot or proposed lot in any stage of the staged development unless he files with the Commissioner an amended schedule of strata units showing —
+(2) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
-(a) the adjusted share value (if any) of each lot or proposed lot comprised in the first and any preceding stage of the staged development; and
-
-(b) the proposed share value to be allotted to each lot or proposed lot comprised in that stage of the staged development,
-
-and the Commissioner accepts that amended schedule of strata units under section 11.
-
-\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
-
-(3) Subsections (1) and (2) shall apply even where the owner developer of the development —
+(3) Subsection (1) applies even where the owner developer of the development —
 
 (a) intends to change the area of any lot or proposed lot within the development which has not been sold and such change does not result in a different aggregate share value for the development;
 
@@ -869,27 +967,45 @@ and the Commissioner accepts that amended schedule of strata units under section
 
 (c) intends otherwise to change the share value assigned to any lot or proposed lot within the development with the consent of the purchaser of that lot or proposed lot.
 
-(4) Without prejudice to subsections (1), (2) and (3), where a schedule of strata units for a development has been filed and accepted by the Commissioner under section 11, the share value assigned to any lot or proposed lot in the development in that schedule of strata units may be altered —
+[Act 35 of 2017 wef 01/02/2019]
 
-(a) before the lot or proposed lot is sold if and only if such alteration does not result in a different aggregate share value (including the range of provisional share values referred to in section 11(4)(b), if any) for the development; and
+(4) Without prejudice to subsections (1) and (3), where a schedule of strata units for a development has been filed and accepted by the Commissioner under section 11, the share value assigned to any lot or proposed lot in the development in that schedule of strata units may be altered after the lot or proposed lot is sold only —
 
-(b) after the lot or proposed lot is sold only with the consent of the purchaser thereof, unless the alteration to the share value is a minor adjustment necessitated by an increase or shortfall in the area of the lot or proposed lot after it has been surveyed on its completion, or the alteration is within the range of share values accepted by the Commissioner under section 11.
+(a) with the consent of the purchaser of the lot or proposed lot, unless the alteration to the share value is a minor adjustment necessitated by an increase or a shortfall in the area of the lot or proposed lot after it has been surveyed on its completion;
 
-[LT(S)A, s. 7]
+(b) after the passing of any of the following resolutions:
+
+(i) a 90% resolution under section 34(1) to execute on behalf of its subsidiary proprietors a transfer of any part of common property as provided in section 23 of the Land Titles (Strata) Act (Cap. 158);
+
+(ii) a special resolution under section 34(3) to create additional common property;
+
+(iii) the respective special resolutions under section 34(5) to amalgamate the common properties of 2 or more management corporations; or
+
+(c) in connection with the registration of a strata title application for redevelopment under section 12 of the Land Titles (Strata) Act.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(5) The Commissioner may accept an amended schedule of strata units that is filed to alter a schedule of strata units for a development in the circumstances mentioned in subsection (4), if and only if the Commissioner is satisfied that the proposed share values allotted to the lot or lots affected are allocated in a just and equitable manner.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Exceptions to section 11 prohibition
 
-13\.—(1) Section 11(1) and (2) shall not apply —
+13\.—(1) Section 11(1) shall not apply —
 
 (a) to any agreement, deed or instrument that conveys, transfers, assigns or otherwise disposes of a leasehold interest not exceeding 21 years without an option to renew or purchase; and
 
 (b) to any agreement between any purchaser under a collective sale contract of any land and any other party to that collective sale contract whereby the purchaser disposes of any proposed lot to be comprised in a re-development of the land to that other party before the legal completion of the collective sale of the land.
 
+[Act 35 of 2017 wef 01/02/2019]
+
 (2) In subsection (1)(b), “collective sale contract” means —
 
-(a) any sale and purchase agreement referred to in section 84A, 84D, 84E, 84F or 84FA of the Land Titles (Strata) Act (Cap. 158);
+(a) any sale and purchase agreement referred to in section 84A, 84D, 84E, 84F, 84FA or 84FB of the Land Titles (Strata) Act (Cap. 158);
 
 [13/2010 wef 15/07/2010]
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) any sale and purchase agreement whereby the owners of all the lots in a development agree to sell all their lots to a purchaser; or
 
@@ -899,9 +1015,11 @@ and the Commissioner accepts that amended schedule of strata units under section
 
 ### Offences
 
-14\. Any person who contravenes section 11(1) or (2) or 12(1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+14\. Any person who contravenes section 11(1) or 12(1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [LT(S)A, s. 7(11)]
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ## PART V
 
@@ -927,11 +1045,15 @@ Management by owner developer before management corporation constituted
 
 16\.—(1) The owner developer of a development to which this Division applies shall establish one or more maintenance funds in accordance with this section at any time on or after —
 
-(a) the date the first temporary occupation permit is issued in respect of any lot or proposed lot in the development or, in the case of a staged development, the date the first temporary occupation permit is issued in respect of any lot or proposed lot comprised in the initial stage of the staged development on completion thereof; or
+(a) the date the first temporary occupation permit is issued in respect of any lot or proposed lot in the development; or
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) such subsequent date when this Division applies to the development,
 
-whichever is the later, but in every case before the collection of maintenance charges from any purchaser of any lot or proposed lot in the development starts.
+whichever is the later.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) The owner developer of every such development shall establish a general maintenance fund, which shall be used for the following purposes only:
 
@@ -951,7 +1073,13 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (e) to pay rent and rates, if any;
 
-(f) to pay any fee for the auditing of the maintenance fund; and
+(f) to pay any fee for the auditing of the maintenance fund;
+
+[Act 48 of 2018 wef 01/02/2019]
+
+(fa) to pay any connection charge payable under section 31M, and any tariff payable under section 31N, of the Environmental Public Health Act (Cap. 95);
+
+[Act 48 of 2018 wef 01/02/2019]
 
 (g) to pay all charges reasonably incurred for the administration of the maintenance fund and the common property of that development.
 
@@ -991,17 +1119,25 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (i) pay into the relevant maintenance fund an amount equal to the amount of maintenance charges which would have been payable by the purchaser until such maintenance charges are due and payable; and
 
-(ii) collect all maintenance charges due and payable from the purchaser of every lot or proposed lot in that development and pay all such maintenance charges into the relevant maintenance fund established under section 16 for that development;
+(ii) collect all maintenance charges from the date the maintenance charges are due and payable from the purchaser of every lot or proposed lot in that development and pay all such maintenance charges into the relevant maintenance fund established under section 16;
 
-(b) in respect of every lot or proposed lot in the development not yet sold, pay into the relevant maintenance fund an amount equal to the amount of maintenance charges which would have been payable by a purchaser of such lot or proposed lot if sold; and
+[Act 35 of 2017 wef 01/02/2019]
 
-(c) pay all income derived from the common property and limited common property, if any, of that development into the relevant maintenance fund for that development.
+(b) in respect of every lot or proposed lot in the development not yet sold, pay into the relevant maintenance fund an amount equal to the amount of maintenance charges which would have been payable by a purchaser of such lot or proposed lot if sold from the date the relevant maintenance fund is so established under section 16; and
 
-(2) The owner developer shall pay the maintenance charges referred to in subsection (1)(a) or (b) into the relevant maintenance fund —
+[Act 35 of 2017 wef 01/02/2019]
 
-(a) where the lot or proposed lot is sold before a temporary occupation permit is issued in respect of the lot or proposed lot, within a period of 3 months after the temporary occupation permit is issued in respect of the lot or proposed lot; and
+(c) pay all income derived from the common property and limited common property, if any, of that development into the relevant maintenance fund for that development from the date the relevant maintenance fund is so established under section 16.
 
-(b) where the lot or proposed lot is sold on or after such a permit is issued, before the expiry of the period referred to in paragraph (a) or from the date the maintenance fund is established under section 16(2) or (3), whichever is the earlier.
+[Act 35 of 2017 wef 01/02/2019]
+
+(2) Despite subsection (1), the owner developer is authorised to pay all maintenance charges in respect of a lot or proposed lot in a development mentioned in subsection (1)(a)(i) into the relevant maintenance fund with effect from the later of the following dates:
+
+(a) the date that is 4 weeks after the date the first temporary occupation permit is issued in respect of any lot or proposed lot in the development;
+
+(b) the date the relevant maintenance fund is established under section 16 for the development.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (3) All moneys in any maintenance fund for a development shall be held by the owner developer of the development on trust —
 
@@ -1019,7 +1155,9 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (c) cause the accounts of every such maintenance fund to be audited within 4 months after the management corporation for that development is constituted;
 
-(d) file with the Commissioner a certified true copy of the audited accounts within 28 days after the accounts of every such maintenance fund have been audited;
+(d) file with the Commissioner a certified true copy of the audited accounts not later than the 28th day after the accounts of every such maintenance fund have been audited;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (e) permit the Commissioner, or any person authorised by him to act on his behalf, at all reasonable times full and free access to the accounts and other records of every maintenance fund and permit the Commissioner or the authorised person to make copies of or make extracts from those accounts or other records; and
 
@@ -1027,7 +1165,9 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (6) Without prejudice to subsection (5), the owner developer of a development shall also —
 
-(a) within 28 days after the accounts of every such maintenance fund have been audited, make available for a period of 2 weeks such accounts for inspection by any purchaser of any lot or proposed lot in the development or his agent without payment of any fee; and
+(a) not later than the 28th day after the accounts of every such maintenance fund have been audited, make available for a period of 2 weeks such accounts for inspection by any purchaser of any lot or proposed lot in the development or his agent without payment of any fee; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) at any other time, permit the purchaser of any lot or proposed lot in the development or his agent to inspect the accounts and other records of any such maintenance fund, and to make copies of or make extracts from those accounts or other records, at such time and place as may be agreed between the parties and after payment of a prescribed fee.
 
@@ -1043,7 +1183,9 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (e) the name and address of the solicitors acting for the purchaser of the lot or proposed lot in the sale and purchase of each lot or proposed lot, as the case may be.
 
-(8) The owner developer of a development shall, within 14 days of a request being made by the Commissioner, forward to the Commissioner a true copy of the register of purchasers for that development.
+(8) The owner developer of a development shall, not later than the 14th day after a request is made by the Commissioner, forward to the Commissioner a true copy of the register of purchasers for that development.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (9) Any owner developer who contravenes subsection (1) read with subsection (2), or subsection (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
@@ -1075,9 +1217,13 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (b) in the case of a managing agent appointed in respect of the limited common property under subsection (1)(b), to the special maintenance fund referred to in section 16(3).
 
-(3) The Commissioner shall not exercise his powers under this section unless he has given not less than 14 days’ notice in writing to the owner developer concerned, specifying his intention to appoint a managing agent under subsection (1) and to consider the representations (if any) made by the owner developer within 14 days of the date of service of the notice.
+(3) The Commissioner shall not exercise his powers under this section unless he has given not less than 14 days’ notice in writing to the owner developer concerned, specifying his intention to appoint a managing agent under subsection (1) and to consider the representations (if any) made by the owner developer not later than the 14th day after the date of service of the notice.
 
-(4) Any owner developer who is aggrieved by an order made by the Commissioner under subsection (1) in respect of his development may, at any time within 21 days after the date of publication of that order in theGazette, appeal in writing to the Minister.
+[Act 35 of 2017 wef 01/02/2019]
+
+(4) Any owner developer who is aggrieved by an order made by the Commissioner under subsection (1) in respect of his development may, at any time not later than the 21st day after the date of publication of that order in theGazette, appeal in writing to the Minister.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (5) Notwithstanding that an appeal has been made under subsection (4) against an order made by the Commissioner under subsection (1), that order shall have effect unless otherwise ordered by the Minister.
 
@@ -1159,7 +1305,9 @@ whichever is the later, but in every case before the collection of maintenance c
 
 23\.—(1) When a management corporation is constituted for any development, the owner developer of the development shall —
 
-(a) immediately open a bank account in the name of the management corporation and pay into that account all balances of moneys in the general maintenance fund established under section 16(2) for the maintenance of the subdivided building and the common property of that development;
+(a) immediately open a bank account in the name of the management corporation and pay into that account all moneys standing to the credit in the general maintenance fund established under section 16(2) for the maintenance of the subdivided building and the common property of that development;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) cause to be prepared such accounts and other records as will sufficiently explain the transactions and financial position of the management corporation and enable true and fair profit and loss accounts and balance-sheets and any document required to be attached thereto to be prepared for the period starting from the date the management corporation is constituted for the development and ending on a date not earlier than 4 months before the first annual general meeting of the management corporation; and
 
@@ -1167,7 +1315,9 @@ whichever is the later, but in every case before the collection of maintenance c
 
 (2) When a subsidiary management corporation is constituted for any development by the owner developer thereof, the owner developer shall also —
 
-(a) immediately open a bank account in the name of the subsidiary management corporation and pay into that account all balances of moneys in the special maintenance fund established under section 16(3) for the maintenance of the limited common property of that development;
+(a) immediately open a bank account in the name of the subsidiary management corporation and pay into that account all moneys standing to the credit in the special maintenance fund established under section 16(3) for the maintenance of the limited common property of that development;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) cause to be prepared such accounts and other records as will sufficiently explain the transactions and financial position of the subsidiary management corporation and enable true and fair profit and loss accounts and balance-sheets and any document required to be attached thereto to be prepared for the period starting from the date the subsidiary management corporation is constituted for the development and ending on a date not earlier than 4 months before the first annual general meeting of the subsidiary management corporation; and
 
@@ -1257,9 +1407,13 @@ who shall also sign the instrument or document to which the seal is affixed.
 
 (a) a date that is one month after the end of the initial period for the management corporation; or
 
-(b) a date that is 6 weeks after the owner developer receives a written request from the subsidiary proprietors of at least 10% of the total number of lots comprised in that strata title plan asking for the first annual general meeting to be held.
+(b) a date that is 8 weeks after the owner developer receives a written request from the subsidiary proprietors of at least 10% of the total number of lots comprised in that strata title plan asking for the first annual general meeting to be held.
 
-(2) Subject to subsection (8), the chairperson of the first annual general meeting shall be the owner developer acting personally or through an agent.
+[Act 35 of 2017 wef 01/02/2019]
+
+(2) Subject to subsection (8), the chairperson of the first annual general meeting shall be the owner developer acting personally or a responsible officer of an owner developer.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (3) The agenda for the first annual general meeting of a management corporation constituted in respect of a strata title plan comprising any development shall consist of the following:
 
@@ -1281,7 +1435,9 @@ who shall also sign the instrument or document to which the seal is affixed.
 
 (i) all plans that were required to obtain the temporary occupation permit and certificate of statutory completion (where applicable) for all buildings in the development (including amendments to such plans), that have been filed with the Commissioner of Building Control under the Building Control Act (Cap. 29);
 
-(ii) any document in the owner developer’s possession that indicates, as far as practicable, the actual location of any pipe, wire, cable, chute, duct or other facility for the passage or provision of systems or services, if the owner developer has reason to believe that the pipe, wire, cable, chute, duct or other facility is not located as shown on a plan or an amended plan filed with the Commissioner of Building Control under the Building Control Act;
+(ii) any as‑built drawings in the owner developer’s possession that indicates, as far as practicable, the actual location of any pipe, wire, cable, chute, duct or other facility for the passage or provision of systems or services, if the owner developer has reason to believe that the pipe, wire, cable, chute, duct or other facility is not located as shown on a plan or an amended plan filed with the Commissioner of Building Control under the Building Control Act;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (iii) all contracts entered into by or on behalf of the management corporation;
 
@@ -1291,9 +1447,17 @@ who shall also sign the instrument or document to which the seal is affixed.
 
 (vi) all warranties, manuals, schematic drawings, operating instructions, service guides, manufacturer’s documentation and other similar information respecting the construction, installation, operation maintenance, repair and servicing of any common property or limited common property, including any warranty information provided to the owner developer by any person referred to in sub-paragraph (v);
 
-(vii) all records required to be prepared or retained by the management corporation under this Act; and
+(vii) all records required to be prepared or retained by the management corporation under this Act;
 
-(viii) any other records as may be prescribed; and
+[Act 35 of 2017 wef 01/02/2019]
+
+(viii) a manufacturer’s manual which relates to prefabricated bathroom units that are incorporated in the development, if any are incorporated in the development; and
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(ix) any other records as may be prescribed; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) place an annual budget before the meeting for approval, which shall be for a period of 12 months starting on the first day of the month following the date of the first annual general meeting.
 
@@ -1318,6 +1482,52 @@ and any such meeting so convened by that person shall be the first annual genera
 (9) Any owner developer who, without reasonable excuse, fails to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the offence continues after conviction.
 
 [LT(S)A, s. 37]
+
+(10) Where a subsidiary management corporation is constituted for any development by the owner developer of that development, this section also applies to the owner developer in relation to that limited common property —
+
+(a) as if the reference in this section to a management corporation includes a reference to the subsidiary management corporation;
+
+(b) as if the reference in this section to the subsidiary proprietors of lots comprised in the strata title plan includes a reference to the subsidiary proprietors of lots for whose exclusive benefit the limited common property is designated on that strata title plan; and
+
+(c) as if the reference in this section to the council of a management corporation includes a reference to the executive committee of a subsidiary management corporation,
+
+with such prescribed exceptions, modifications and adaptations as the differences between management corporations and subsidiary management corporations require.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(11) In this section —
+
+“accredited”, in relation to a fabrication facility or a fabrication method, means that the fabrication facility or the fabrication method is accredited by a body specified in the Code of Practice on Buildability issued by the Building and Construction Authority;
+
+“building works” has the same meaning as in section 2(1) of the Building Control Act;
+
+“prefabricated bathroom unit” means a bathroom unit (complete with finishes for walls and floors) which is —
+
+(a) constructed and assembled; or
+
+(b) manufactured and assembled,
+
+in an accredited fabrication facility, in accordance with any accredited fabrication method, and then installed in a building under building works;
+
+“responsible officer” —
+
+(a) for an owner developer that is a corporation or limited liability partnership, means —
+
+(i) any director, partner, chief executive or employee of the corporation; or
+
+(ii) for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation, or any employee of the corporation;
+
+(b) for an owner developer that is a partnership, means any partner in the partnership, or any employee of the partnership; or
+
+(c) for an owner developer that is an unincorporated association (other than a partnership), means —
+
+(i) the president, the secretary, or any member of the committee of the unincorporated association;
+
+(ii) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; or
+
+(iii) any employee of the unincorporated association.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Meetings, other than first annual general meeting, of management corporation
 
@@ -1355,13 +1565,17 @@ the chairperson and the secretary of the management corporation shall each be gu
 
 (3) Where a management corporation has, under subsection (2), decided that the address for the service of notices on it shall be changed, the management corporation shall —
 
-(a) within 7 days after deciding, notify the Registrar of Titles and the Commissioner of the change;
+(a) not later than the 7th day after deciding, notify the Registrar of Titles and the Commissioner of the change;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) apply to amend the address lodged with the Registrar of Titles and other relevant records accordingly; and
 
-(c) within 7 days after deciding, serve on each of its subsidiary proprietors a written notice of the change.
+(c) not later than the 7th day after deciding, serve on each of its subsidiary proprietors a written notice of the change.
 
 [46/2007]
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) Any management corporation which contravenes subsection (3)(a) or (c) shall be guilty of an offence.
 
@@ -1377,9 +1591,9 @@ the chairperson and the secretary of the management corporation shall each be gu
 
 (i) the common property;
 
-(ii) any fixture or fitting (including any pipe, pole, wire, cable or duct) comprised in the common property or within any wall, floor or ceiling the centre of which forms a boundary of a lot, not being a fixture or fitting (including any pipe, pole, wire, cable or duct) that is used for the servicing or enjoyment of any lot exclusively;
+(ii) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
-(iii) any fixture or fitting (including any pipe, pole, wire, cable or duct) which is comprised within a lot and which is intended to be used for the servicing or enjoyment of the common property;
+(iii) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (iv) each door, window and other permanent cover over openings in walls where a side of the door, window or cover is part of the common property; and
 
@@ -1387,7 +1601,15 @@ the chairperson and the secretary of the management corporation shall each be gu
 
 (c) to effect insurance according to this Act;
 
-(d) when so directed by a special resolution, to install or provide additional facilities or make improvements to the common property for the benefit of the subsidiary proprietors constituting the management corporation;
+(d) when so directed by a special resolution, to do all or any of the following for the purpose of improving or enhancing the common property:
+
+(i) install, remove, replace or add any facility on the common property;
+
+(ii) change the use of the common property;
+
+(iii) erect, remove, replace or add to a structure on the common property;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (e) to comply with any notice or order made by any relevant authority or public authority requiring the abatement of any nuisance on the common property or ordering repairs or other work to be done in respect of the subdivided building or common property;
 
@@ -1419,13 +1641,17 @@ the chairperson and the secretary of the management corporation shall each be gu
 
 (2) Where a subsidiary proprietor, mortgagee in possession, lessee or occupier of a lot fails or neglects to carry out any work —
 
-(a) required to be carried out by him under a term or condition of a by-law referred to in section 33;
+(a) required to be carried out by him under a term or condition of a by-law referred to in section 33 or under a notice under section 37(4A);
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) necessary to remedy a breach of the duty imposed on him by section 63(a);
 
 (c) to rectify any defect in any water pipe or sewer pipe within his lot or any cracks in the wall or floor within his lot; or
 
-(d) necessary to rectify his contravention of section 37(1),
+(d) necessary to rectify his contravention of section 37(1) or (3),
+
+[Act 35 of 2017 wef 01/02/2019]
 
 the management corporation may carry out that work.
 
@@ -1437,7 +1663,9 @@ the management corporation may carry out that work.
 
 (i) under subsection (1) or (2)(b) or (c), from any person who, after the work is carried out, becomes the subsidiary proprietor of the lot on or in relation to which the work was carried out; or
 
-(ii) under subsection (2)(a), from any person who, after the work is carried out, becomes the subsidiary proprietor of the lot in respect of which the by-law referred to in subsection (2)(a) was made.
+(ii) under subsection (2)(a), from any person who, after the work is carried out, becomes the subsidiary proprietor of the lot in respect of which the by-law referred to in subsection (2)(a) was made or the notice under section 37(4A) was given.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) Where an order (including an interim order) made by any Board has not been complied with, the management corporation may carry out any work specified in the order and recover from the person against whom the order was made the cost of so doing as a debt in a court of competent jurisdiction.
 
@@ -1513,7 +1741,9 @@ the management corporation may, by its agents, employees or contractors, enter u
 
 (4) Any by-laws made, and any amendment of, or addition to or repeal of the by-laws made under this section or section 33, shall have no force or effect until a copy of the by-laws or the amendment, or addition or repeal, as the case may be, has been lodged with the Commissioner.
 
-(5) A copy of every by-law made by the management corporation under this section or section 33, and every addition to, amendment or repeal of any such by-law for the time being in force, certified as a true copy under the seal of the management corporation, shall be lodged by the management corporation with the Commissioner within 30 days of the passing of the resolution by the management corporation approving the making of such by-law or any amendment of, addition to or repeal of any existing by-law.
+(5) A copy of every by-law made by the management corporation under this section or section 33, and every addition to, amendment or repeal of any such by-law for the time being in force, certified as a true copy under the seal of the management corporation, shall be lodged by the management corporation with the Commissioner, in the form and manner acceptable to the Commissioner, and not later than the 45th day after the passing of the resolution by the management corporation approving the making of such by-law or any amendment of, addition to or repeal of any existing by-law.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (6) Without limiting the operation of any other provision of this Act, the prescribed by-laws and any by-laws made under this section or section 33 for the time being in force shall bind the management corporation and the subsidiary proprietors and any mortgagee in possession (whether by himself or any other person), lessee or occupier of a lot to the same extent as if the by-laws —
 
@@ -1527,11 +1757,19 @@ the management corporation may, by its agents, employees or contractors, enter u
 
 (a) keep a record of the prescribed by-laws and any by-laws made by the management corporation under this section or section 33 which are in force from time to time;
 
-(b) display a copy of the prescribed by-laws and any other by-laws made by the management corporation under this section or section 33 on a notice board maintained by the management corporation on the common property;
+(b) make available for viewing, free of charge, the prescribed by‑laws and any by‑laws made by the management corporation under this section or section 33 which are in force, as follows:
 
-(c) on receipt of an application in writing made by a subsidiary proprietor, or by a person duly authorised to apply on behalf of a subsidiary proprietor for a copy of the by-laws which are in force, supply to such subsidiary proprietor or duly authorised person at a reasonable cost a copy of the by-laws; and
+(i) display them on a notice board maintained by the management corporation on the common property;
 
-(d) on the application of any person who satisfies the management corporation that he has a proper interest in so applying, make the by-laws available for his inspection.
+(ii) make them available for viewing at the office of the management corporation, on the application of a person who has an interest in so applying; and
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(c) on receipt of an application in writing made by a subsidiary proprietor, or by a person duly authorised to apply on behalf of a subsidiary proprietor for a copy of the by-laws which are in force, supply to such subsidiary proprietor or duly authorised person, on payment of a fee that is not more than a prescribed amount, a copy of the by‑laws.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(d) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (9) No by-law made under this section or section 33 shall be capable of operating —
 
@@ -1611,19 +1849,9 @@ shall, except to the extent that the by-law otherwise provides, be payable by th
 
 (b) may authorise the transposition of an identified or defined area of the common property from one subsidiary proprietor of a lot to another subsidiary proprietor of a lot at any time and from time to time on receipt of written notice to the management corporation from both such subsidiary proprietors.
 
-\*(8) Notwithstanding any provision in this Act, the owner developer of a staged development on a parcel shall, when carrying out any warranted development or authorised proposal in respect thereof, be entitled to use any common property, limited common property or future development lot within that parcel —
+(8) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
-(a) to the extent necessary to carry out the development; or
-
-(b) to such other extent as may be specified in the staged development contract between the owner developer and any subsidiary proprietor of any lot comprised in the staged development, which may confer on the owner developer an exclusive (or any lesser) right to occupy the common property or limited common property.
-
-\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
-
-\*(9) Any right conferred by subsection (8) may be exercised notwithstanding any provision of the by-laws made under section 32 or this section, but shall be exercised in a manner that does not cause unreasonable inconvenience to any occupier of a lot.
-
-[LT(S)A, s. 41]
-
-\*No date has been appointed for the coming into operation of this subsection as at 1st July 2008.
+(9) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
 ### Dispositions and additions to, etc., common property
 
@@ -1641,7 +1869,9 @@ other than common property which is the subject of any lease accepted or acquire
 
 (a) pursuant to a special resolution, execute on behalf of its subsidiary proprietors a lease of or rent part of such common property to any person for a period which exceeds one year but does not exceed 3 years and cannot be extended by exercise of any option of renewal to exceed an aggregate of 3 years; or
 
-(b) execute on their behalf a lease of or rent part of such common property to any person for a period which does not exceed one year and cannot be extended by exercise of any option of renewal to exceed an aggregate of one year,
+(b) pursuant to an ordinary resolution, execute on their behalf a lease of or rent part of such common property to any person for a period which does not exceed one year and cannot be extended by exercise of any option of renewal to exceed an aggregate of one year,
+
+[Act 35 of 2017 wef 01/02/2019]
 
 other than common property which is the subject of any lease accepted or acquired by the management corporation under subsection (3).
 
@@ -1655,7 +1885,9 @@ other than common property which is the subject of any lease accepted or acquire
 
 for the purpose of creating additional common property.
 
-(4) A management corporation may approve the subdivision of a lot or the amalgamation of 2 or more lots resulting in the creation of any additional or new common property.
+(4) A management corporation may, by an ordinary resolution, approve the subdivision of a lot or the amalgamation of 2 or more lots resulting in the creation of any additional or new common property.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (5) Where there are 2 or more management corporations established for separate parcels which are of the same tenure, the respective management corporations may, pursuant to respective special resolutions and subject to such approval from the relevant authority, accept and execute such instruments to amalgamate the common property within the parcels to be held by all the subsidiary proprietors of the respective management corporations as tenants-in-common in undivided shares.
 
@@ -1705,7 +1937,13 @@ make an order directing the management corporation or management corporations to
 
 (2) A management corporation may, at the request of a subsidiary proprietor of any lot comprised in its strata title plan and upon such terms as it considers appropriate, by 90% resolution, authorise the subsidiary proprietor to effect any improvement in or upon his lot referred to in subsection (1).
 
-(3) Except pursuant to an authority granted under subsection (4), no subsidiary proprietor of a lot that is comprised in a strata title plan shall effect any other improvement in or upon his lot for his benefit which affects the appearance of any building comprised in the strata title plan.
+(2A) To avoid doubt, subsections (1) and (2) do not affect the operation of the Planning Act (Cap. 232), or any requirement under that Act for written permission for any improvement in or upon a lot which increases or is likely to increase the floor area of the land and building comprised in the strata title plan.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(3) Except pursuant to an authority granted under subsection (4) by the management corporation or permitted under section 37A, no subsidiary proprietor of a lot that is comprised in a strata title plan shall effect any other improvement in or upon his lot for his benefit which affects the appearance of any building comprised in the strata title plan.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) A management corporation may, at the request of a subsidiary proprietor of any lot comprised in its strata title plan and upon such terms as it considers appropriate, authorise the subsidiary proprietor to effect any improvement in or upon his lot referred to in subsection (3) if the management corporation is satisfied that the improvement in or upon the lot —
 
@@ -1713,7 +1951,39 @@ make an order directing the management corporation or management corporations to
 
 (b) will not affect the structural integrity of any of the buildings comprised in the strata title plan.
 
+(4A) Where the management corporation for a strata title plan is satisfied that an improvement in or upon a lot comprised in the strata title plan is effected in contravention of subsection (1) or (3), the management corporation may, by notice in writing given to the subsidiary proprietor of the lot (whether or not the subsidiary proprietor is responsible for the contravention) require the subsidiary proprietor to carry out and complete, at his own costs, such works or alteration to the lot to remedy the breach within a reasonable time specified in the notice.
+
+[Act 35 of 2017 wef 01/02/2019]
+
 (5) In this section, in relation to any land and building comprised in a strata title plan, “floor area” has the same meaning as in the Planning (Development Charges) Rules (Cap. 232, R 5).
+
+### Installation of safety equipment permitted
+
+37A\.—(1) A subsidiary proprietor of a lot in a building on a parcel comprised in a strata title plan may install safety equipment on the lot, or as part of any window, door or opening on the lot which is facing outdoors, despite any other provision of this Act or the regulations or any by‑law of the parcel which otherwise prohibits the installation of such safety equipment.
+
+(2) A subsidiary proprietor of a lot in a building who installs safety equipment under this section must —
+
+(a) repair any damage caused to any part of the common property or limited common property (as the case may be) by the installation of the safety equipment; and
+
+(b) ensure that the safety equipment is installed in a competent and proper manner and has an appearance, after it has been installed, in keeping with the appearance of the building.
+
+(3) In this section, “safety equipment” means —
+
+(a) any of the following features to prevent people from falling over the edge of an outdoor‑facing balcony or terrace or a window or door or an opening which is outdoor‑facing:
+
+(i) a window grille or screen;
+
+(ii) a balustrade, railing or fence;
+
+(b) any device capable of restricting the opening of a window or door or an opening which is outdoor‑facing;
+
+(c) any screen or other device to prevent entry of animals or insects on the lot;
+
+(d) an intruder alarm or monitoring system; and
+
+(e) any lock or other security mechanism that is designed to protect occupiers of the lot against intruders to the lot.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Management funds and sinking funds
 
@@ -1723,7 +1993,9 @@ make an order directing the management corporation or management corporations to
 
 (a) all moneys received by it in respect of contributions determined under section 39(1);
 
-(b) the proceeds of the sale or other disposal of any movable property of the management corporation;
+(b) the proceeds of the sale or other disposal of any movable property that is part of the common property and belongs to the management corporation;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (ba) all moneys received by it from the Collector of Land Revenue as an award of compensation under the Land Acquisition Act for any non‑lot acquisition relating to its strata title plan;
 
@@ -1731,17 +2003,35 @@ make an order directing the management corporation or management corporations to
 
 (c) any fee received by the management corporation under section 47;
 
-(d) any amount paid to the management corporation by way of discharge of insurance claims; and
+(d) any amount paid to the management corporation by way of discharge of insurance claims;
 
-(e) interest received on any investment belonging to the management fund.
+[Act 35 of 2017 wef 01/02/2019]
+
+(e) interest received on any investment belonging to the management fund; and
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(f) any income received by the management corporation from the rental of the common property.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (3) A management corporation shall not disburse any moneys from its management fund otherwise than for the purpose of —
 
 (a) meeting its liabilities referred to in section 39(1);
 
-(b) carrying out its powers, authorities, duties or functions under this Act; or
+(b) carrying out its powers, authorities, duties or functions under this Act;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (c) transferring moneys therein not required to meet the liabilities of the management fund to the sinking fund.
+
+(3A) The estimated expenses for matters under subsection (3)(d) and (e) must be included in an annual budget placed before an annual general meeting to be approved by an ordinary resolution.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(3B) The management corporation may convene an extraordinary general meeting to approve, by ordinary resolution, a supplementary budget for unforeseen or urgent expenditure for matters under subsection (3)(d) or (e).
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) A management corporation shall also establish and maintain a fund as its sinking fund.
 
@@ -1750,6 +2040,10 @@ make an order directing the management corporation or management corporations to
 (a) all moneys received by it in respect of contributions determined under section 39(2);
 
 (b) any amount paid to the management corporation by way of discharge of insurance claims and not paid to the management fund;
+
+(ba) the proceeds of the sale or other disposal of any immovable property that is part of the common property;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (c) all other amounts received by the management corporation and not paid or payable into the management fund; and
 
@@ -1785,17 +2079,27 @@ make an order directing the management corporation or management corporations to
 
 ### Management corporation to determine contributions by subsidiary proprietors
 
-39\.—(1) The management corporation shall, from time to time at a general meeting, determine the amounts which are reasonable and necessary to be raised by contributions for the purpose of meeting its actual or expected liabilities incurred or to be incurred within the period (not exceeding 12 months) specified in the determination in respect of —
+39\.—(1) The management corporation shall, from time to time by ordinary resolution, determine the amounts which are reasonable and necessary to be raised by contributions for the purpose of meeting its actual or expected liabilities incurred or to be incurred within the period (not exceeding 12 months) specified in the determination in respect of —
 
 (a) the regular maintenance and keeping in good and serviceable repair pursuant to section 29 of parts of the parcel being the common property, fixtures, fittings and other property (including movable property) held by or on behalf of the management corporation;
 
 (b) the common expenses of the management corporation (except those in subsection (2)(a) to (d));
 
-(c) the payment of insurance premiums; and
+(c) the payment of insurance premiums;
 
-(d) all other liabilities incurred or to be incurred during that period by or on behalf of the management corporation in carrying out its powers, authorities, duties and functions under this Act other than liabilities referred to in subsection (2).
+[Act 48 of 2018 wef 01/02/2019]
 
-(2) The management corporation shall, also from time to time at a general meeting, determine the amounts which are reasonable and necessary to be raised by contributions for the purpose of meeting its actual or expected liabilities incurred or to be incurred in respect of —
+(d) all other liabilities incurred or to be incurred during that period by or on behalf of the management corporation in carrying out its powers, authorities, duties and functions under this Act other than liabilities referred to in subsection (2); and
+
+[Act 48 of 2018 wef 01/02/2019]
+
+(e) the payment of any connection charge payable under section 31M, and any tariff payable under section 31N, of the Environmental Public Health Act.
+
+[Act 48 of 2018 wef 01/02/2019]
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(2) The management corporation shall, also from time to time by ordinary resolution, determine the amounts which are reasonable and necessary to be raised by contributions for the purpose of meeting its actual or expected liabilities incurred or to be incurred in respect of —
 
 (a) painting or treating of any part of the common property which is a structure or other improvement for the preservation and appearance of the common property;
 
@@ -1811,9 +2115,15 @@ make an order directing the management corporation or management corporations to
 
 [Act 26 of 2014 wef 29/09/2014]
 
-(e) such other liabilities expected to be incurred at a future time where the management corporation determines in a general meeting that the whole or part thereof should be met from its sinking fund.
+(e) such other liabilities expected to be incurred at a future time where the management corporation determines by ordinary resolution that the whole or part thereof should be met from its sinking fund.
 
-(3) If the management corporation becomes liable to pay any moneys that it is unable to pay immediately, the management corporation shall determine that amount to be raised by contributions.
+[Act 35 of 2017 wef 01/02/2019]
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(3) If the management corporation becomes liable to pay any moneys that it is unable to pay immediately, the management corporation must determine, by ordinary resolution, that amount to be raised by contributions.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) A determination made by a management corporation under subsection (1) or (2) may specify that the amounts to be raised for the purposes therein referred to shall be raised by such regular periodic contributions as may be specified in the determination.
 
@@ -1841,7 +2151,9 @@ make an order directing the management corporation or management corporations to
 
 (a) shall become due and payable to the management corporation without any deduction whatsoever in accordance with the decision of the management corporation to make the levy;
 
-(b) if not paid within 30 days when it becomes due and payable, shall bear interest at the rate determined by the management corporation and such interest shall accrue from the expiry of 30 days after the date when the contribution becomes due and payable unless the management corporation determines in a general meeting (either generally or in a particular case) that any unpaid contribution shall bear no interest; and
+(b) if not paid on or before the 30th day after it becomes due and payable, shall bear interest at the rate determined by the management corporation and such interest shall accrue from the expiry of 30 days after the date when the contribution becomes due and payable unless the management corporation determines in a general meeting (either generally or in a particular case) that any unpaid contribution shall bear no interest; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (c) may, together with such interest due, be recovered as a debt by the management corporation in any court of competent jurisdiction.
 
@@ -1849,9 +2161,13 @@ make an order directing the management corporation or management corporations to
 
 (8) Any contribution levied by a management corporation under this section or section 41 shall be deemed to be money payable under a contract for the provision of services and a management corporation may lodge a claim for the payment of such contribution with a Small Claims Tribunal in accordance with the provisions of the Small Claims Tribunals Act (Cap. 308).
 
-(9) Where any contribution or interest thereon levied under subsection (6) is not paid within 30 days when it becomes due and payable, the management corporation may serve a written demand on the subsidiary proprietor of the lot in respect of which the contribution is levied.
+(9) Where any contribution or interest thereon levied under subsection (6) is not paid on or before the 30th day after it becomes due and payable, the management corporation may serve a written demand on the subsidiary proprietor of the lot in respect of which the contribution is levied.
 
-(10) Without prejudice to subsection (8), a subsidiary proprietor who fails to pay any contribution or interest due and owing to a management corporation within 14 days from the date of service of any written demand referred to in subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the contribution or interest or both remain unpaid after conviction.
+[Act 35 of 2017 wef 01/02/2019]
+
+(10) Without prejudice to subsection (8), a subsidiary proprietor who fails to pay any contribution or interest due and owing to a management corporation before the 14th day after the date of service of any written demand referred to in subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the contribution or interest or both remain unpaid after conviction.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (11) The court before which a conviction for an offence under subsection (10) is had may, in addition to such fine, order the subsidiary proprietor to pay to the management corporation the amount of any contribution together with any interest thereon or any interest certified by the management corporation to be due from such person at the date of his conviction, and such amount shall be recovered according to any written law for the time being in force for the recovery of fines.
 
@@ -1883,7 +2199,9 @@ make an order directing the management corporation or management corporations to
 
 (6) Notwithstanding section 40(2), where any common property is altered or any structure is erected on the common property giving rise to a change in use of the common property by or in respect of any lot, the management corporation may, pursuant to a comprehensive resolution, levy contributions to the management fund and sinking fund on any subsidiary proprietor of such lot using any one or more formula different from that in section 40(2).
 
-(7) A copy of every comprehensive resolution referred to in subsection (6) shall be filed by the management corporation concerned with the Commissioner within 7 days after its passing.
+(7) A copy of every comprehensive resolution referred to in subsection (6) shall be filed by the management corporation concerned with the Commissioner not later than the 7th day after its passing.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (8) Notwithstanding section 40(2) but subject to subsections (1), (3) and (6), a management corporation may, pursuant to resolution by consensus, levy contributions to the management fund or sinking fund on all or any of its subsidiary proprietors based on any other method.
 
@@ -1897,7 +2215,9 @@ make an order directing the management corporation or management corporations to
 
 ### Contributions payable before first annual general meeting
 
-42\.—(1) Where the first annual general meeting of a management corporation constituted in respect of a strata title plan has not yet been convened, the subsidiary proprietor of each of the lots in the strata title plan shall, starting from the date of the management corporation is constituted, pay to the management corporation any sum which has been approved by the Commissioner under section 18 as the amount payable for the maintenance of the subdivided building and the common property.
+42\.—(1) Where the first annual general meeting of a management corporation constituted in respect of a strata title plan has not yet been convened, the subsidiary proprietor of each of the lots in the strata title plan shall, starting from the date the management corporation is constituted, pay to the management corporation any sum which has been approved by the Commissioner under section 18 as the amount payable for the maintenance of the subdivided building and the common property.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) The sum referred to in subsection (1) shall be deemed to be the amount determined by the management corporation as the contributions payable by the subsidiary proprietors to the management fund of the management corporation.
 
@@ -1987,7 +2307,9 @@ such amount or contribution due (including interest thereon) and such legal cost
 
 (a) the management corporation at its annual general meeting; or
 
-(b) the council of the management corporation within 90 days after the annual general meeting is concluded if no auditor is appointed during that annual general meeting,
+(b) the council of the management corporation not later than the 90th day after the annual general meeting is concluded if no auditor is appointed during that annual general meeting,
+
+[Act 35 of 2017 wef 01/02/2019]
 
 and the auditor shall hold office until the conclusion of the next annual general meeting of the management corporation.
 
@@ -1997,13 +2319,21 @@ and the auditor shall hold office until the conclusion of the next annual genera
 
 46\.—(1) A management corporation shall prepare and maintain a strata roll in accordance with this section.
 
-(2) The strata roll shall be kept in the form of a book (either bound or loose-leaf) which shall contain one or more pages in respect of each lot in the subdivided building.
+(2) The strata roll may be kept in the form determined by the management corporation.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (3) The management corporation shall record the following information on a page of the strata roll relating to the lot to which the information relates:
 
 (a) the share value of the lot, as shown on the schedule of strata units accepted by the Commissioner under section 11;
 
-(b) the name and address of the subsidiary proprietor, as shown on the folio of the subsidiary strata land-register comprising the lot and name of and address within Singapore for the service of notices on the subsidiary proprietor of that lot as shown in notices given to the management corporation under section 65(2) or (3);
+(b) the name of the subsidiary proprietor as shown on the folio of the subsidiary strata land‑register comprising the lot, and an address within Singapore for the service of notices on the subsidiary proprietor of that lot;
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(ba) the name of every transferee under the transfer of the lot, and the address within Singapore for service of notices on the transferee, as shown in notices given to the management corporation under section 65(2) or (3);
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (c) the name of any mortgagee of the lot notice of whose mortgage has been given to the management corporation under section 65(4), the address within Singapore for the service of notices on him as shown in that notice and any other mortgages which are specified in that notice as having priority over his mortgage;
 
@@ -2014,6 +2344,10 @@ and the auditor shall hold office until the conclusion of the next annual genera
 (f) the date of entry into possession of the lot by a mortgagee as shown in a notice given to the management corporation under section 65(7); and
 
 (g) the address within Singapore for the service of notices on any person as shown in a notice given to the management corporation under section 65(1).
+
+(3A) In this section, a reference to an address within Singapore for the service of notices includes a reference to an email address (if provided).
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) The management corporation shall record and maintain in the strata roll a copy of the by-laws for the time being in force with respect to the subdivided building.
 
@@ -2079,19 +2413,25 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 [13/2010 wef 15/07/2010]
 
-(2) Where an applicant and a management corporation fail to reach an agreement referred to in subsection (1)(b) within 7 days after the receipt of the application by the management corporation, the management corporation shall immediately send by post to the applicant a notice fixing a time, specified in the notice, between 9 a.m. and 6 p.m. on a date so specified, being a date not later than 21 days after the receipt of the application by the management corporation for the making of the inspection referred to in that subsection.
+(2) Where an applicant and a management corporation fail to reach an agreement referred to in subsection (1)(b) on or before the 7th day after the receipt of the application by the management corporation, the management corporation shall immediately send by post to the applicant a notice fixing a time, specified in the notice, between 9 a.m. and 6 p.m. on a date so specified, being a date not later than the 21st day after the receipt of the application by the management corporation for the making of the inspection referred to in that subsection.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (3) In favour of a donee of, or a person taking for valuable consideration, an estate or interest in any lot, a certificate given under subsection (1)(c) by a management corporation in respect of that lot shall be conclusive evidence, as at the date of the certificate, of the matters stated therein.
 
-(4) A person entitled to inspect a document made available under subsection (1)(b) may take extracts from, or make a copy of, the document but may not, without the consent of the management corporation, remove the document from the custody of the management corporation for the purpose of inspecting the document, taking extracts therefrom or making a copy thereof.
+(4) A person entitled to inspect a document made available under subsection (1)(b) may take extracts from, or make a copy of, the document upon payment of a fee (if prescribed) but may not, without the consent of the management corporation, remove the document from the custody of the management corporation for the purpose of inspecting the document, taking extracts therefrom or making a copy thereof.
 
 [LT(S)A, s. 54]
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Display of award of compensation for acquisition, etc.
 
 47A\.—(1) If the management corporation is required by its by-laws to maintain a notice board, its council must —
 
-(a) within 7 days after the management corporation receives any notice under section 3, 8, 16 or any other provision under the Land Acquisition Act, or any award under section 10 of that Act, for any non‑lot acquisition relating to the strata title plan for which the management corporation is constituted, cause a copy of every such notice or award to be displayed on the notice board; and
+(a) on or before the 7th day after the management corporation receives any notice under section 3, 8, 16 or any other provision under the Land Acquisition Act, or any award under section 10 of that Act, for any non‑lot acquisition relating to the strata title plan for which the management corporation is constituted, cause a copy of every such notice or award to be displayed on the notice board; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) for not less than 14 days keep displayed on that notice board the copy of that notice or award.
 
@@ -2109,7 +2449,13 @@ at such time and place as may be agreed upon by the applicant or his agent and t
 
 (c) any other property of a management corporation,
 
-shall, within 7 days after service on him of notice of a resolution of the council requiring him to do so, deliver those records, books of account and keys and that strata roll and other property to a member of the council specified in the notice.
+shall, not later than the 7th day after service on him of notice of a resolution of the council requiring him to do so, deliver those records, books of account and keys and that strata roll and other property to a member of the council specified in the notice.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(1A) Any person who, without reasonable excuse, contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) Every management corporation shall retain all its records, books of account and such other documents relating to any of its transactions or operations for a period of not less than 5 years from the end of the financial year in which the transactions or operations to which those documents relate are completed.
 
@@ -2197,7 +2543,7 @@ Councils
 
 ### Council of management corporation
 
-53\.—(1) Subject to this section, after the first annual general meeting, every management corporation shall have a council which shall consist of such number of persons as the management corporation may determine in a general meeting, but in no case exceeding a total of 14 natural persons (inclusive of any member of an executive committee of a subsidiary management corporation in section 80(4)), and these persons shall be elected or appointed in accordance with this Act as follows:
+53\.—(1) Subject to this section and section 53A, after the first annual general meeting, every management corporation shall have a council which shall consist of such number of persons as the management corporation may determine in a general meeting, but in no case exceeding a total of 14 natural persons (inclusive of any member of an executive committee of a subsidiary management corporation in section 80(4)), and these persons shall be elected or appointed in accordance with this Act as follows:
 
 (a) a chairperson;
 
@@ -2208,6 +2554,8 @@ Councils
 (d) a member of the council,
 
 all of whom shall be natural persons elected or appointed in accordance with this Act.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) Notwithstanding subsection (1), where a management corporation has not more than 3 subsidiary proprietors, the council of the management corporation shall consist of each subsidiary proprietor (if any) who is a natural person or the subsidiary proprietor’s nominee, together with the nominee of each subsidiary proprietor (if any) which is a company.
 
@@ -2247,6 +2595,20 @@ or such of his nominees, exceed the threshold number for that subsidiary proprie
 
 (9) Notwithstanding subsection (6) and without prejudice to subsections (7) and (8), an undischarged bankrupt shall be eligible for election as a member of the council if, and only if, his status as an undischarged bankrupt is declared in writing, whether by himself or by another, at the time of his nomination.
 
+(9A) Despite subsection (6) and without prejudice to subsections (7), (8) and (9), a person is ineligible for election or re‑election to office under subsection (1) —
+
+(a) as a chairperson if the person is already elected as the treasurer or secretary;
+
+(b) as a treasurer if the person is already elected as the chairperson or secretary; and
+
+(c) as a secretary if the person is already elected as the chairperson or treasurer.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(9B) Despite subsection (6) and without prejudice to subsections (7), (8), (9) and (9A), a person is ineligible for election or re‑election to office as a treasurer under subsection (1) if the re‑election would result in the person holding office as a treasurer for 3 consecutive terms.
+
+[Act 35 of 2017 wef 01/02/2019]
+
 (10) Where there is no council of a management corporation, the parcel comprised in a strata title plan shall be administered by the management corporation constituted for that strata title plan, but nothing in this subsection shall prevent a managing agent appointed under this Act from exercising or performing any power, duty or function conferred or imposed upon him.
 
 (11) The Second Schedule shall have effect with respect to the proceedings of the council of a management corporation.
@@ -2260,6 +2622,76 @@ or such of his nominees, exceed the threshold number for that subsidiary proprie
 whichever number is lower.
 
 [LT(S)A, s. 60]
+
+### Councils for mixed‑use developments
+
+53A\.—(1) This section applies only in relation to a management corporation with more than 3 subsidiary proprietors constituted for a parcel in a strata title plan, whether or not comprising limited common property but consisting of buildings authorised under the Planning Act (Cap. 232) for 2 or more of the following classes of use:
+
+(a) residence;
+
+(b) office;
+
+(c) commercial (other than as an office), such as a shop, food establishment or theatre;
+
+(d) boarding premises, such as a hotel, serviced apartment or nursing home;
+
+(e) a prescribed purpose.
+
+(2) Subject to this section, in the case of a management corporation of a mixed‑use development mentioned in subsection (1), there must be reserved for each class of use mentioned in that subsection and authorised for that development under the Planning Act, at least one office as member of the council of that management corporation (called in this Act a reserved council office).
+
+(3) Despite section 53(6) and without prejudice to section 53(7), (8), (9), (9A) and (9B), a person is ineligible for election or re‑election under section 53 to a reserved council office for a particular class of use if the person —
+
+(a) is not a subsidiary proprietor of a lot in that development authorised for that class of use; and
+
+(b) is not a nominee of a subsidiary proprietor in paragraph (a).
+
+(4) Where at the close of nominations at a general meeting for a reserved council office, only one person eligible for election to that office is nominated for that office, that person is deemed elected to that reserved council office without voting.
+
+(5) However, where at the close of nominations at a general meeting for a reserved council office, no person eligible for election to that office is nominated, then that office ceases to be a reserved council office; and an election to that office is not subject to this section.
+
+(6) Where at the close of nominations at a general meeting for a reserved council office, more than one person eligible for election to that reserved council office is nominated (called in this section a candidate), the matter must be put to a vote, and the candidate to whom the greatest number of votes is given at the election must be declared elected to that reserved council office.
+
+(7) The remaining offices in the council that are not reserved must be filled —
+
+(a) firstly from among the candidates not declared elected to any reserved council seat after a vote is taken at the election (called in this section an unsuccessful candidate); and
+
+(b) on the basis of the number of votes they received at the same election in the following order of priority — by the unsuccessful candidate receiving the highest votes being placed first and other unsuccessful candidates being placed in descending order according to votes received by them.
+
+(8) When, after the counting of votes cast for the candidates is completed, an equality of votes is found to exist between any candidates, and the addition of a vote would entitle any of the candidates to be declared elected to an office of a council, the determination of the candidate to whom the one additional vote is to be treated as being given must, unless one of the candidates withdraws from the election, be made by drawing lots in such manner as the person presiding at the general meeting determines.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+### Nomination of candidates for election as member
+
+53B\.—(1) A nomination of a person for election to be a member of the council of a management corporation or the executive committee of a subsidiary management corporation, is of no effect if subsections (2), (3) and (4) are not complied with for that nomination.
+
+(2) Only a subsidiary proprietor, or a person entitled to vote at a general meeting of a management corporation or subsidiary management corporation, may nominate a person for election as a member of the council of the management corporation or the executive committee of the subsidiary management corporation, as the case may be.
+
+(3) A nomination for election to be a member of the council of a management corporation or the executive committee of a subsidiary management corporation —
+
+(a) may be oral or in writing;
+
+(b) must —
+
+(i) if oral, be made at the general meeting of the management corporation or subsidiary management corporation for the purposes of the election; or
+
+(ii) if in writing, be given at least 48 hours before the start of the meeting at which the election is to be held to the secretary of the management corporation or subsidiary management corporation, or to the convenor of the meeting in the case of the first annual general meeting; and
+
+(c) must state —
+
+(i) the name of the person nominated (called in this Act the candidate); and
+
+(ii) the name of the person making the nomination (who may or may not be the candidate).
+
+(4) A nomination, whether oral or made in writing, made for the purposes of an election at a general meeting of a management corporation or subsidiary management corporation, is effective only if it is accompanied by the consent of the candidate —
+
+(a) given in writing at least 48 hours before the start of the meeting at which the election is to be held to the secretary of the management corporation or subsidiary management corporation, or to the convenor of the meeting in the case of the first annual general meeting; or
+
+(b) given orally at the meeting.
+
+(5) Any consent by a candidate for election to be a member of the council of a management corporation or the executive committee of a subsidiary management corporation may be effectively withdrawn only by the candidate in person at the general meeting and before the election at the general meeting starts.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Vacation of office of member of council
 
@@ -2277,7 +2709,9 @@ whichever number is lower.
 
 (d) upon the receipt by the management corporation from the person of a notice in writing of the person’s resignation;
 
-(e) at the end of the next annual general meeting at which a new council is elected by the management corporation or upon the election at a general meeting of another person to that office, if earlier;
+(e) at the end of the next annual general meeting of the management corporation or upon the election at a general meeting of another person to that office, if earlier;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (f) where he is a member under section 53(2) or (3) and the number of subsidiary proprietors increases to more than 3, upon the election of the members of the council at the first annual general meeting held after that increase;
 
@@ -2308,6 +2742,10 @@ whichever number is lower.
 (iii) incapacity or failure to carry out satisfactorily the duties of his office.
 
 (3) Upon the occurrence of a vacancy in the office of the chairperson, secretary or treasurer or other member of the council, otherwise than by reason of subsection (1)(e) or (f), the council may appoint a person eligible for election as such to fill the vacancy, and any person so appointed shall hold that office for the balance of his predecessor’s term of office.
+
+(3A) However, an appointment under subsection (3) of a person to fill a vacancy is of no effect if the person does not consent orally in person or in writing to that appointment.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) The members for the time being of the council shall, notwithstanding anything in the Second Schedule, constitute a quorum at a meeting of the council for the purpose only of —
 
@@ -2355,9 +2793,19 @@ and any purported resignation or vacation of office in breach of this subsection
 
 shall be jointly and severally liable for the payment of all the debts of the management corporation contracted during the period after those 6 months or, as the case may be, that part of it, and may be sued therefore.
 
-(7) Notwithstanding any other provision of this Act, no individual shall be elected or appointed under this section to hold office as the treasurer of any management corporation or the treasurer of a council for more than 2 consecutive terms.
+(7) Despite any other provisions of this Act, an individual must not be appointed under this section to hold office —
 
-[LT(S)A, s. 62, 1st Sch. Para 1]
+(a) as a chairperson if the person is already the treasurer or secretary;
+
+(b) as a treasurer if —
+
+(i) the person is already the chairperson or secretary; and
+
+(ii) the re‑appointment would result in the person holding office as a treasurer for 3 consecutive terms; or
+
+(c) as a secretary if the person is already the chairperson or treasurer.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Duties of secretary of council
 
@@ -2425,9 +2873,11 @@ shall be jointly and severally liable for the payment of all the debts of the ma
 
 ### Restrictions imposed on council by management corporation
 
-59\. A management corporation may in a general meeting decide what matters or class of matters, if any, shall be determined only by the management corporation in a general meeting.
+59\. A management corporation may in a general meeting decide, by ordinary resolution, what matters or class of matters, if any, shall be determined only by the management corporation in a general meeting.
 
 [LT(S)A, s. 64]
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Disclosure of interests in contracts, property, offices, etc.
 
@@ -2543,39 +2993,59 @@ Subsidiary proprietors and occupiers
 
 65\.—(1) A subsidiary proprietor or any person who, under this section, has given to the management corporation notice of an address within Singapore for the service of notices on him shall give notice in writing to the management corporation of any change of address for service of notices on him.
 
-(2) Upon the delivery of a transfer of an estate or interest in a lot pursuant to completion of a sale of that lot by its registered subsidiary proprietor to the purchaser or his nominee, or by way of gift to a donee, the registered subsidiary proprietor shall within 10 days thereof give to the management corporation written notice of the transfer which shall identify the lot and —
+(2) Upon the transfer of an estate or interest in a lot pursuant to completion of a sale of that lot by its registered subsidiary proprietor to the purchaser or his nominee, or by way of gift to a donee, the registered subsidiary proprietor shall, not later than the 10th day after the date that the instrument of transfer is registered under the Land Titles Act (Cap. 157), give to the management corporation written notice of the transfer which shall identify the lot and —
 
-(a) specify the name of the transferee in full and an address within Singapore for service of notices on the transferee and the date of delivery of the transfer; and
+(a) specify the name of the transferee in full and an address within Singapore for service of notices on the transferee and the date of the registration of the transfer; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) bear a certification by the transferee or his solicitor of the accuracy of the information contained in the notice.
 
-(3) Where the subsidiary proprietor of a lot fails to comply with a notice given by the management corporation under subsection (8) requiring him to give a notice under subsection (2), the transferee under the transfer may give to the management corporation written notice of the transfer which shall identify the lot and specify the name of the transferee in full and an address within Singapore for service of notices on the transferee and the date upon which the transfer was executed.
+[Act 35 of 2017 wef 01/02/2019]
 
-(4) After the delivery to a mortgagee of an executed mortgage of a lot, the mortgagee may give to the management corporation written notice of the mortgage which shall identify the lot and —
+(3) Where the subsidiary proprietor of a lot fails to comply with a notice given by the management corporation under subsection (8) requiring him to give a notice under subsection (2), the transferee under the transfer may give to the management corporation written notice of the transfer which shall identify the lot and specify the name of the transferee in full and an address within Singapore for service of notices on the transferee and the date upon which the transfer was registered under the Land Titles Act.
 
-(a) specify the name of the mortgagee in full and an address within Singapore for the service of notices on the mortgagee and the date on which the mortgage was so delivered;
+[Act 35 of 2017 wef 01/02/2019]
+
+(4) After the registration of an executed mortgage of a lot, the mortgagee may give to the management corporation written notice of the mortgage which shall identify the lot and —
+
+(a) specify the name of the mortgagee in full and an address within Singapore for the service of notices on the mortgagee and the date on which the mortgage was so registered;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) specify any mortgages of the lot which have priority over the mortgage referred to in the notice; and
 
 (c) bear written confirmation by the mortgagor of the accuracy of the information contained in the notice.
 
-(5) After the delivery to a mortgagor of a discharge of a mortgage of a lot or a discharge of a sub-mortgage of a mortgage of a lot, the mortgagor may give to the management corporation written notice of the discharge which shall identify the lot and the mortgage that has been discharged and —
+[Act 35 of 2017 wef 01/02/2019]
 
-(a) specify the date on which the discharge was so delivered; and
+(5) After the registration of a discharge of a mortgage of a lot or a discharge of a sub-mortgage of a mortgage of a lot, the mortgagor may give to the management corporation written notice of the discharge which shall identify the lot and the mortgage that has been discharged and —
+
+(a) specify the date on which the discharge was so registered; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) bear written confirmation by the mortgagee of the discharge of the mortgage.
 
-(6) After the delivery by a mortgagee of a dealing, being a transfer or sub-mortgage of a lot, the transferee or sub-mortgagee may give to the management corporation written notice of the dealing which shall identify the lot and —
+[Act 35 of 2017 wef 01/02/2019]
 
-(a) specify the name of the transferee or sub-mortgagee in full and an address within Singapore for service of notices on the transferee or sub-mortgagee and the date on which the transfer or sub-mortgage was so delivered; and
+(6) After the registration of a dealing, being a transfer or sub-mortgage of a lot, the transferee or sub-mortgagee may give to the management corporation written notice of the dealing which shall identify the lot and —
+
+(a) specify the name of the transferee or sub-mortgagee in full and an address within Singapore for service of notices on the transferee or sub-mortgagee and the date on which the transfer or sub-mortgage was so registered; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) bear written confirmation by the transferor or sub-mortgagor of the accuracy of the information contained in the notice.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (7) After the entry into possession of a lot by a mortgagee, the mortgagee shall give to the management corporation written notice which shall identify the lot and specify the date on which he entered into possession.
 
 (8) Where a management corporation has reason to believe that a person is required under this section to give a notice to it and the management corporation has not received that notice, the management corporation may serve a notice on that person specifying the capacity in which it believes he is obliged to give the notice and requiring him —
 
-(a) to state within 14 days whether or not he is a person obliged to give a notice in that capacity; and
+(a) to state, not later than the 14th day after the notice was served on him, whether or not he is a person obliged to give a notice in that capacity; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) if he is such a person, to give that notice.
 
@@ -2586,6 +3056,10 @@ Subsidiary proprietors and occupiers
 (11) A notice referred to in subsection (10) may be included in any other notice that the subsidiary proprietor to which it relates or any other person is entitled under this section to give to the management corporation.
 
 [LT(S)A, s. 59]
+
+(12) In this section, a reference to an address within Singapore for the service of notices includes a reference to a facsimile address in Singapore and an email address (if provided).
+
+[Act 35 of 2017 wef 01/02/2019]
 
 Division 5 —
 
@@ -2757,15 +3231,27 @@ but does not include —
 
 (a) in respect of any occurrence against which it is required by law to insure, including any insurance required to be effected by reason of the provisions of the Work Injury Compensation Act (Cap. 354);
 
-(b) in respect of damage to property, death or bodily injury occurring upon the common property for which the management corporation could become liable in damages; and
+(b) in respect of damage to property, death or bodily injury occurring upon the common property for which the management corporation could become liable in damages;
 
-(c) against the possibility of the subsidiary proprietors becoming jointly liable by reason of a claim arising in respect of any other occurrence against which the management corporation pursuant to a special resolution decides to insure.
+[Act 35 of 2017 wef 01/02/2019]
+
+(c) against the possibility of the subsidiary proprietors becoming jointly liable by reason of a claim arising in respect of any other occurrence against which the management corporation decides to insure; and
 
 [5/2008]
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(d) in respect of any liability incurred by a person holding the office of chairperson, secretary, treasurer of the management corporation or member of the council of the management corporation because of an act or omission, committed or omitted in good faith, in performing the functions of that office.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) Insurance effected under subsection (1)(b) shall be for a cover of such amount as the management corporation determines that is not less than an amount prescribed by the regulations.
 
 (3) A management corporation may insure any property which it is not required to insure under this Act and in which it has an insurable interest.
+
+(3A) Every decision required or authorised by this section to be made by a management corporation is by an ordinary resolution.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) For the purposes of a policy of insurance effected under subsection (1)(b), the common property shall be deemed to be vested in the management corporation.
 
@@ -2897,7 +3383,9 @@ Subsidiary management corporations and limited common property
 
 (a) by an owner developer of a parcel to be comprised in a strata title plan shall take effect only when the management corporation is constituted for that strata title plan under the Land Titles (Strata) Act (Cap. 158); or
 
-(b) by a comprehensive resolution under subsection (2)(b) shall take effect only when the comprehensive resolution is filed with the Chief Surveyor.
+(b) by a comprehensive resolution under subsection (2)(b) shall take effect only when the comprehensive resolution is filed with the Chief Surveyor and the instrument required by the Registrar under section 10A of the Land Titles (Strata) Act for the limited common property is registered under that Act.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (5) Any designation of common property as limited common property by an owner developer may only be removed or amended in accordance with subsection (6) or (7) or section 84.
 
@@ -2977,7 +3465,21 @@ upon such terms and conditions as may be agreed between the subsidiary managemen
 
 (4) At least one member of the executive committee of a subsidiary management corporation shall be a member of the council of the management corporation.
 
-(5) The provisions in Division 3 shall apply, with the necessary modifications, to the executive committee of a subsidiary management corporation and its officers as they apply to the council of a management corporation and its officers.
+(4A) However, subsection (4) does not apply where —
+
+(a) the subsidiary management corporation is constituted for part of a parcel which is comprised in a mixed‑use development within the meaning of section 53A; and
+
+(b) by the operation of section 53A, a reserved council office in the council of the management corporation for that mixed‑use development is held by either —
+
+(i) a subsidiary proprietor of a lot constituting the subsidiary management corporation; or
+
+(ii) a nominee of a subsidiary proprietor in sub‑paragraph (i).
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(5) The provisions in Division 3 (except section 53A) shall apply, with the necessary modifications, to the executive committee of a subsidiary management corporation and its officers as they apply to the council of a management corporation and its officers.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (6) The Second Schedule shall also have effect with respect to the proceedings of an executive committee of a subsidiary management corporation.
 
@@ -3057,13 +3559,39 @@ Miscellaneous
 
 ### Management corporation, etc., may represent subsidiary proprietors in proceedings
 
-85\.—(1) Where all or some of the subsidiary proprietors of the lots in a parcel comprised in a strata title plan are jointly entitled to take —
+85\.—(1) Subject to subsections (1A) and (1B), if —
 
-(a) proceedings for or with respect to the common property in that parcel against any person or are liable to have such proceedings taken against them jointly; or
+(a) all or some of the subsidiary proprietors of the lots in a parcel comprised in a strata title plan —
 
-(b) proceedings for or with respect to any limited common property in that parcel against any person or are liable to have such proceedings taken against them jointly,
+(i) are jointly entitled to take proceedings against any person for or with respect to the common property in that parcel; or
 
-the proceedings may be taken by or against the management corporation in the case of paragraph (a), or the subsidiary management corporation constituted for that limited common property in the case of paragraph (b), as if it were the subsidiary proprietors of the lots concerned.
+(ii) are liable to have proceedings taken against them jointly for or with respect to the common property in that parcel; or
+
+(b) all or some of the subsidiary proprietors of the lots in a parcel comprised in a strata title plan that has limited common property, being subsidiary proprietors who are entitled to the exclusive benefit of the limited common property —
+
+(i) are jointly entitled to take proceedings against any person for or with respect to the limited common property in that parcel; or
+
+(ii) are liable to have proceedings taken against them jointly for or with respect to the limited common property in that parcel,
+
+the proceedings may be taken by or against the management corporation in the case of proceedings mentioned in paragraph (a), or by or against the subsidiary management corporation in the case of proceedings mentioned in paragraph (b).
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(1A) Unless authorised by an ordinary resolution, a management corporation —
+
+(a) must not institute any proceedings mentioned in subsection (1)(a) against any person; and
+
+(b) must not represent any subsidiary proprietor in any proceedings mentioned in subsection (1)(a).
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(1B) Unless authorised by an ordinary resolution, a subsidiary management corporation —
+
+(a) must not institute any proceedings mentioned in subsection (1)(b) against any person; and
+
+(b) must not represent any subsidiary proprietor in any proceedings mentioned in subsection (1)(b).
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) Any judgment or order given or made in favour of or against the management corporation or subsidiary management corporation in any such proceedings shall have effect as if it were a judgment or an order given or made in favour of or against the subsidiary proprietors.
 
@@ -3095,7 +3623,7 @@ if, and only if, the proceedings and appeal, respectively, are each authorised b
 
 [Act 26 of 2014 wef 29/09/2014]
 
-### Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of structural defects
+### Management corporation’s power to take proceedings as agent for subsidiary proprietor in case of certain structural defects
 
 86\. Where —
 
@@ -3106,6 +3634,8 @@ if, and only if, the proceedings and appeal, respectively, are each authorised b
 the management corporation may, as agent for the subsidiary proprietor of the lot in that condition but at its own expense, take any of the proceedings referred to in paragraph (b).
 
 [LT(S)A, s. 117]
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Costs in proceedings by subsidiary proprietors against management corporation, etc.
 
@@ -3413,11 +3943,13 @@ for the purpose of electing or appointing a person or persons to fill the vacanc
 
 ### Order to invalidate proceedings
 
-103\.—(1) Where, pursuant to an application by a subsidiary proprietor or first mortgagee of a lot, a Board considers that the provisions of this Act have not been complied with in relation to a meeting of the management corporation or subsidiary management corporation, the Board may, by order —
+103\.—(1) Where, pursuant to an application by a subsidiary proprietor or first mortgagee of a lot, a Board considers that the provisions of this Act have not been complied with in relation to a meeting of the management corporation or subsidiary management corporation, or a council or executive committee, the Board may, by order —
 
 (a) invalidate any resolution of, or election held by, the persons present at the meeting; or
 
 (b) refuse to invalidate any such resolution or election.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) A Board shall not make an order under subsection (1) refusing to invalidate a resolution or election unless it considers —
 
@@ -3671,61 +4203,17 @@ to do or refrain from doing a specified act with respect to a subdivided buildin
 
 120\.—(1) Any order (including an interim order) made under this Part or the Land Titles (Strata) Act may, by leave of a District Court, be enforced against the person in the same manner as a judgment of that court, and where leave is so given, judgment may be entered in terms of that order.
 
-(2) A person who contravenes any order (including an interim order) made under this Part or the Land Titles (Strata) Act to do or refrain from doing a specified act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+(2) A person who contravenes any order (including an interim order) made under this Part or the Land Titles (Strata) Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (3) A document purporting to be a copy of an order (including an interim order) made under this Part or the Land Titles (Strata) Act shall be admissible in evidence and shall, until the contrary is proved, be deemed to be an order made by the Board.
 
 [LT(S)A, s. 113]
 
-## PART VII\*
+## PART VII
 
-STAGED DEVELOPMENTS
-
-\*No date has been appointed for the coming into operation of this Part as at 1st July 2008.
-
-### Staged development contracts
-
-121\.—(1) Every staged development shall be carried out subject to a staged development contract in the prescribed form that is accepted by the Commissioner under this section.
-
-(2) For the purposes of this Act, the Commissioner —
-
-(a) shall accept any staged development contract (including any amendments thereto) approved under the Housing Developers (Control and Licensing) Act (Cap. 130) or the Sale of Commercial Properties Act (Cap. 281) in relation to any staged development under those respective Acts; and
-
-(b) may accept any staged development contract in relation to any other staged development, and any amendments thereto.
-
-(3) For the purposes of subsection (2)(b), the Commissioner may refuse to accept any staged development contract in relation to any staged development, and any amendments thereto, if the contract —
-
-(a) is not in the prescribed form;
-
-(b) does not describe or adequately describe the concept plan for the entire staged development, and so much of the proposed development that is warranted development and is an authorised proposal; and
-
-(c) does not specify the proposed date the entire staged development is to be finally completed and concluded or such other information, conditions or particulars as may be prescribed.
-
-(4) No amendment to a staged development contract accepted under this Act by the Commissioner in relation to any staged development referred to in subsection (1) shall be valid unless the amendment is accepted by the Commissioner.
-
-(5) A staged development contract accepted under this Act by the Commissioner in relation to any staged development of a parcel, and any amendments thereto, shall have effect as an agreement under seal containing such covenants as may be prescribed entered into by the management corporation constituted under a strata title plan of the whole or part of that parcel and each person who for the time being is —
-
-(a) the owner developer concerned;
-
-(b) the subsidiary proprietor of that management corporation; or
-
-(c) a mortgagee of the subsidiary proprietor’s lot.
-
-(6) A staged development contract shall cease to have effect —
-
-(a) in relation to a person described in subsection (5)(a), (b) or (c) on that person ceasing to be a person so described; and
-
-(b) in relation to all persons described in subsection (5) when the staged development to which the contract relates is finally completed and concluded.
-
-(7) For the avoidance of doubt, subsection (6) shall not affect any obligation that was incurred by a person, or any right that accrued to a person, under the staged development contract before it ceased to have effect in relation to the person.
-
-(8) No amendment to a staged development contract accepted under this Act by the Commissioner in relation to any staged development referred to in subsection (2)(b) shall be valid unless the amendment is accepted by the Commissioner.
-
-### Staged development regulations
-
-122\.—(1) The Minister may make regulations on any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and may in such regulations modify the application of any of the provisions of this Act in relation to staged developments.
-
-(2) Every regulation made under subsection (1) shall be presented to Parliament as soon as possible after publication in theGazette.
+[Repealed by Act 35 of 2017 wef 01/02/2019]
 
 ## PART VIII
 
@@ -3757,11 +4245,17 @@ GENERAL
 
 (5) In this section —
 
+“body corporate” includes a limited liability partnership;
+
+[Act 35 of 2017 wef 01/02/2019]
+
 “officer” —
 
 (a) in relation to a body corporate, means a director, member of the committee of management, chief executive, manager, secretary or other similar officer of the body or person purporting to act in any such capacity; or
 
-(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to those of president, secretary or member of a committee;
+(b) in relation to an unincorporated association (other than a partnership), means the president, the secretary and members of the committee of the association and includes persons holding positions analogous to those of president, secretary or member of a committee and includes any person purporting to act in any such capacity;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 “partner” includes a person purporting to act as a partner.
 
@@ -3769,13 +4263,19 @@ GENERAL
 
 ### Monitoring powers of Commissioner
 
-126\.—(1) The Commissioner may by notice require an owner developer of a development, the relevant member in the council of any management corporation or the executive committee of any subsidiary management corporation —
+126\.—(1) The Commissioner may by notice require an owner developer of a development, the relevant member in the council of any management corporation or the executive committee of any subsidiary management corporation, a managing agent or an employee of the managing agent or other person —
 
-(a) to produce for inspection, without fee or reward, by the Commissioner or a person authorised by the Commissioner, any such books, registers, documents or other records relating to the maintenance of any development or the management of the management corporation or (as the case may be) subsidiary management corporation as the Commissioner may reasonably require for the purposes of the carrying out of his functions under this Act; or
+(a) to produce for inspection, without fee or reward, by the Commissioner or a person authorised by the Commissioner, any such books, registers, documents or other records relating to the maintenance of buildings, the maintenance of a development before a strata title plan is registered for the development or the management of the management corporation or (as the case may be) subsidiary management corporation as the Commissioner may reasonably require for the purposes of the carrying out of his functions under this Act; or
 
-(b) to furnish the Commissioner, or a person authorised by the Commissioner, with such information or explanation relating to the maintenance of any development or the management of the management corporation or (as the case may be) subsidiary management corporation as the Commissioner may reasonably so require,
+[Act 35 of 2017 wef 01/02/2019]
+
+(b) to furnish the Commissioner, or a person authorised by the Commissioner, with such information or explanation relating to the maintenance of buildings, the maintenance of a development before a strata title plan is registered for the development or the management of the management corporation or (as the case may be) subsidiary management corporation as the Commissioner may reasonably so require,
+
+[Act 35 of 2017 wef 01/02/2019]
 
 and to do so within such reasonable time as is specified in the notice.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) The Commissioner or a person authorised by him may without fee or reward —
 
@@ -3783,27 +4283,63 @@ and to do so within such reasonable time as is specified in the notice.
 
 (b) make copies of or extracts from or records of any information or explanation furnished under subsection (1)(b).
 
-(3) The Commissioner or a person authorised in writing by the Commissioner may, for the purposes of the carrying out of his functions under this Act, enter at any reasonable time any premises occupied by an owner developer, or a management corporation or subsidiary management corporation, as the case may be, and having entered any such premises may —
+(3) The Commissioner, or a person authorised in writing by the Commissioner, may enter at any reasonable time any building, common property or limited common property and having entered any such building, common property or limited common property may do all or any of the following:
 
-(a) inspect any book, register, document or other records relating to the management or the income and expenditure of the management corporation or subsidiary management corporation; and
+(a) inspect any book, register, document or other records relating to —
 
-(b) make copies of, or records of any information contained in, any such books, registers, documents or other records.
+(i) the management of a management corporation or subsidiary management corporation;
+
+(ii) the maintenance of a development before a strata title plan is registered for the development; or
+
+(iii) the maintenance of any building;
+
+(b) make copies of, or records of any information contained in, any such books, registers, documents or other records;
+
+(c) carry out checks to ascertain whether there is, or has been, on or in connection with the building, common property or limited common property (as the case may be), a contravention of any requirement by or under this Act;
+
+(d) carry out checks to ascertain whether circumstances exist that would authorise the Commissioner or any person appointed by the Commissioner for this purpose to take any action or execute any work authorised or required by or under this Act;
+
+(e) take such action or execute such work, authorised or required by or under this Act.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) Where any such records as are mentioned in subsection (1) or (3) are kept in electronic form, then —
 
 (a) the power of the Commissioner under subsection (1) to require any such records to be produced for inspection includes power to require a copy of the records to be made available for inspection in legible form (and subsection (2)(a) shall accordingly apply in relation to any copy so made available); and
 
-(b) the power of any person (referred to in this subsection as the inspector) under subsection (3) to inspect any such records includes power to require any person on the premises in question to give the inspector such assistance as the inspector may reasonably require to enable him —
+(b) the power of any person (referred to in this subsection as the inspector) under subsection (3) to inspect any such records includes power to require any person in the building, on common property or limited common property in question to give the inspector such assistance as the inspector may reasonably require to enable him —
 
 (i) to inspect and make copies of the records in legible form or to make records of information contained in them; or
 
 (ii) to inspect and check the operation of any computer, and any associated apparatus or material, that is or has been in use in connection with the keeping of the records.
 
+[Act 35 of 2017 wef 01/02/2019]
+
 (5) In addition to the powers conferred on him by subsections (1) and (2), the Commissioner or a person authorised by him may require, by order in writing, the attendance before the Commissioner or authorised person of —
 
-(a) an owner developer of any development or an employee thereof within the limits of Singapore who, from any information given or otherwise obtained by the Commissioner, appears to be acquainted with the circumstances of the case; or
+(a) an owner developer of any development or an employee thereof, a managing agent or an employee of a managing agent, being within the limits of Singapore who, from any information given or otherwise obtained by the Commissioner, appears to be acquainted with the circumstances of the case;
 
-(b) the relevant member in the council of any management corporation or the executive committee of any subsidiary management corporation, any managing agent, or any employee thereof, who, from any information given or otherwise obtained by the Commissioner, appears to be acquainted with the circumstances of the case.
+[Act 35 of 2017 wef 01/02/2019]
+
+(b) the relevant member in the council of any management corporation or the executive committee of any subsidiary management corporation, any managing agent, or any employee thereof, who, from any information given or otherwise obtained by the Commissioner, appears to be acquainted with the circumstances of the case; or
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(c) any other person who, from any information given or otherwise obtained by the Commissioner, appears to be acquainted with the maintenance of a building or the circumstances of the case.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(5A) Any statement made by any person required under subsection (5) to attend before the Commissioner or authorised person must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted for the person in a language that the person understands; and
+
+(d) after correction, if necessary, be signed by that person.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (6) Any person who —
 
@@ -3815,9 +4351,37 @@ and to do so within such reasonable time as is specified in the notice.
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
 
-(7) The powers conferred by virtue of subsection (1) may only be exercised by the Commissioner (or, as the case may be, by a person authorised by the Commissioner) for or in connection with obtaining such information or explanations relating to the owner developer, management corporation or subsidiary management corporation, as the case may be, as the Commissioner may reasonably require for the purpose of monitoring compliance on the part of owner developers, management corporations and subsidiary management corporations with the requirements imposed by or by virtue of this Act.
+(7) A person is not excused from giving any information required under this section on the ground that the giving of the information might tend to incriminate the person or expose the person to a punishment.
 
-[BCPA (repealed), s. 21]
+[Act 35 of 2017 wef 01/02/2019]
+
+(8) Where a person claims, before giving any information that the person is required under this section to give, that the giving of the information might tend to incriminate the person —
+
+(a) that information;
+
+(b) the giving of the information; and
+
+(c) any information, document or thing obtained as a direct or indirect consequence of the giving of the information,
+
+is not admissible in evidence against the person in any criminal proceedings other than proceedings for an offence under section 127.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(9) The powers conferred under subsection (1), (2), (3) or (5) may only be exercised by the Commissioner (or, as the case may be, by a person authorised by the Commissioner) —
+
+(a) for ensuring that the provisions of this Act and the regulations with respect to any of the following are being complied with:
+
+(i) the maintenance of buildings;
+
+(ii) the maintenance of a development before a strata title plan is registered for the development;
+
+(iii) the management of management corporations or subsidiary management corporations;
+
+(iv) any approval, permit or authorisation required by or under this Act with respect to any matter in sub‑paragraph (i), (ii) or (iii); or
+
+(b) for investigating any offence under this Act or any regulations made under section 136.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Supply of false or misleading information to Commissioner
 
@@ -3839,43 +4403,93 @@ any document or other record relating to the financial affairs or transactions o
 
 ### General penalties
 
-128\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $3,000.
+128\. Any person guilty of an offence under this Act for which no penalty is expressly provided shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Service of notices
 
-129\.—(1) Unless otherwise expressly provided in this Act, a notice that is required or authorised by this Act to be given to or served on a person may be given to or served on that person —
+129\.—(1) Unless otherwise expressly provided in this Act, a notice that is required or authorised by or under this Act or any by‑laws to be given to or served on a person may be given to or served on that person —
 
 (a) by posting it or sending it by facsimile transmission to his address for service (within the meaning of this section) or to his last known place of residence or business;
 
 (b) by leaving it at his address for service (within the meaning of this section) or at his last known place of residence or business; or
 
-(c) in the case of a subsidiary proprietor, by affixing the notice on the front door of his lot.
+(c) by electronic communication, by sending an electronic communication of the notice to the last email address given to the sender by the person as the email address for the service of notices under this Act on the person.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(1A) Unless otherwise expressly provided in this Act, a notice that is required or authorised by or under this Act or any by‑laws to be given or served on a subsidiary proprietor may, in addition to any method described in subsection (1), be given to or served on the subsidiary proprietor by affixing the notice on the front door of the subsidiary proprietor’s lot.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(1B) Despite subsection (1), where a notice which is required or authorised by or under this Act or any by‑laws to be given or served on a subsidiary proprietor is given or served by a management corporation or subsidiary management corporation, by electronic communication as described in subsection (1)(c), that notice is not treated as given to or served on the subsidiary proprietor —
+
+(a) unless the notice is also posted to the subsidiary proprietor’s address for service (within the meaning of this section) or to the subsidiary proprietor’s last known place of residence or business; and
+
+(b) until subsection (5)(b) or (d) first applies.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) A summons or other legal process may be served on a management corporation or subsidiary management corporation by leaving it with the chairperson or secretary of the management corporation or subsidiary management corporation or of the council or with any member of the council thereof.
 
 (3) A document other than a document referred to in subsection (2) may be served on a management corporation or subsidiary management corporation —
 
-(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation or subsidiary management corporation under section 28; or
+(a) by leaving it with any person referred to in subsection (1) or in the receptacle provided by the management corporation or subsidiary management corporation under section 28;
 
-(b) by sending it, by registered post, to the management corporation at its address recorded on the folio of the land-register comprising the common property.
+[Act 35 of 2017 wef 01/02/2019]
+
+(b) by sending it, by registered post, to the management corporation at its address recorded on the folio of the land-register comprising the common property; or
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(c) by electronic communication, by sending an electronic communication of the notice to the last email address given to the sender by the management corporation or subsidiary management corporation as the email address for the service of documents under this Act on the management corporation or subsidiary management corporation, as the case may be.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (4) The address for service for persons other than a management corporation or subsidiary management corporation shall be as follows:
 
 (a) in the case of an occupier of a lot, the address for service shall be the address of the lot; and
 
-(b) where an address for service of notices is recorded in the address so recorded in the strata roll, the address so recorded.
+(b) where an address or an email address for service of notices is recorded in the address so recorded in the strata roll, the address so recorded.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (5) Where any notice or other document is —
 
-(a) sent by facsimile transmission in accordance with subsection (1), it shall be deemed to have been duly served on the person to whom it is addressed where there is an acknowledgment by electronic or other means to the effect that the notice or document has been received at the address for service or place of residence or business, as the case may be;
+(a) sent by facsimile transmission in accordance with subsection (1), it shall be deemed to have been duly served on or given to the person to whom it is addressed where there is an acknowledgment by electronic or other means to the effect that the notice or document has been received at the address for service or place of residence or business, as the case may be;
 
-(b) sent by pre-paid registered post, it shall be deemed to have been duly served on the person to whom it is addressed 2 days after the day the notice or document was posted, notwithstanding it is returned undelivered; or
+[Act 35 of 2017 wef 01/02/2019]
 
-(c) delivered to or affixed on the front door of any lot, it shall be deemed to have been duly served on the person on the date of such delivery or affixing of the notice or document at that lot.
+(b) sent by post, it is deemed to have been duly served on or given to the person to whom it is addressed as follows, even if the notice or document is returned undelivered:
+
+(i) on the 3rd working day after the day the notice or document was posted, if sent by prepaid registered post;
+
+(ii) on the 4th working day after the day the notice or document was posted, if sent by ordinary post;
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(c) delivered to or affixed on the front door of any lot, it shall be deemed to have been duly served on or given to the person on the date of such delivery or affixing of the notice or document at that lot; or
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(d) sent by electronic communication in accordance with subsection (1)(c), it is deemed to be duly served on or given to the person to whom the electronic communication is addressed when it becomes capable of being retrieved by the addressee at an electronic address designated by the addressee.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (6) Subject to subsection (2), this section shall not apply to notices and documents to be served in proceedings in court.
 
 [LT(S)A, s. 119]
+
+### Inaccuracies in notices, etc.
+
+129A\.—(1) Any misnomer or inaccurate description of any person, premises or building or any other thing named or described in any notice or order given or served under or for the purposes of this Act does not render invalid the notice or order or affect the operation of this Act if the person, premises or building or other thing named or described in the notice or order is so designated or described as to be identifiable.
+
+(2) No proceedings taken under or by virtue of this Act is rendered invalid merely by reason of want of form, which otherwise would be valid.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Jurisdiction of court
 
@@ -3883,13 +4497,25 @@ any document or other record relating to the financial affairs or transactions o
 
 ### Composition of offences
 
-131\.—(1) The Commissioner may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $2,000.
+131\.—(1) The Commissioner may, in his discretion, compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following amounts:
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
+
+(b) $5,000.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
-(3) All sums collected under this section shall be paid to the Building and Construction Authority.
+(3) All sums collected under this section shall be paid into the Consolidated Fund.
 
 [BCPA (repealed), s. 4(4)]
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(4) The Commissioner, and any other officer appointed under section 3(3) to exercise the powers conferred on the Commissioner under this section, are, in relation to the administration, collection and enforcement of payment of composition sums under this section, each taken to be a public officer for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to the Commissioner and other officer even though he is not or was not in the employment of the Government.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ### Protection from liability
 
@@ -3961,7 +4587,13 @@ any document or other record relating to the financial affairs or transactions o
 
 (g) the fees to be paid in respect of any matter or thing required for the purposes of this Act, including approvals, permits or licences required under this Act and the refund and remission, whether in whole or in part, of such fees;
 
-(h) the practice and procedure of the Strata Titles Boards; or
+(h) the practice and procedure of the Strata Titles Boards;
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(ha) providing for or with respect to the means of voting (other than in person) at a general meeting that may be adopted by a management corporation or subsidiary management corporation, and the procedures for voting by those means;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (i) any other matter which by this Act is required or permitted to be prescribed or is necessary or convenient to be prescribed for carrying out or giving effect to any provision of this Act.
 
@@ -4095,7 +4727,29 @@ Notice of general meetings
 
 (a) be accompanied by a copy of the statement of accounts of the management corporation or (as the case may be) subsidiary management corporation last prepared in accordance with section 38(10) and a copy of the auditor’s report on the accounts of the management corporation or subsidiary management corporation;
 
-(b) include a motion for the adoption of those accounts; and
+(b) include a motion for each of the following:
+
+(i) for the adoption of the accounts mentioned in sub‑paragraph (a);
+
+(ii) to confirm the minutes of the last annual general meeting;
+
+(iii) to decide the number of members of the council to be elected;
+
+(iv) for the election of members of the council;
+
+(v) to determine the amount to be raised for the management fund and the sinking fund;
+
+(vi) to approve the proposed annual budget of the management corporation for the new financial year;
+
+(vii) to decide if any matter or type of matter is to be determined only by the management corporation in a general meeting;
+
+(viii) for the appointment of an auditor;
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(ba) report on the insurance coverage and review the adequacy of the insurance of the management corporation; and
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (c) include a motion for the termination of any managing agent or for the continuation of the managing agent for the next ensuing financial year.
 
@@ -4103,11 +4757,25 @@ Notice of general meetings
 
 (a) notice of the motion has been given in accordance with this paragraph; or
 
-(b) the motion is a motion to amend a motion of which notice has been so given.
+(b) the motion is a motion to amend a motion of which notice has been so given, provided the amendment does not change the subject matter of the motion.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(4A) A person is not entitled to move a motion unless the person is entitled to vote on the motion.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (5) A meeting at which a motion for a unanimous resolution, resolution by consensus, 90% resolution, comprehensive resolution or special resolution is to be proposed shall be deemed not to be duly convened by the council if it does not give such notice thereof as is required by section 2(2) to (7) in the case of a unanimous resolution, resolution by consensus, 90% resolution, comprehensive resolution or special resolution, as the case may be.
 
 (6) Notwithstanding sub-paragraph (1), if so directed by the management corporation or subsidiary management corporation by a special resolution, a resolution may be proposed and passed at a meeting of which written notice of a period less than that required under sub-paragraph (1) has been given.
+
+Nomination of candidates for election
+
+1A.—(1) Without prejudice to paragraph 1(2) and (3), every notice for an annual general meeting of a management corporation or subsidiary management corporation must include a call for nominations for members of the council of the management corporation or the executive committee of the subsidiary management corporation, as the case may be.
+
+(2) The secretary of the management corporation or subsidiary management corporation or, in the case of the first annual general meeting, the convenor of the meeting, must give notice at the meeting of every nomination received.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 Persons entitled to vote at general meetings
 
@@ -4153,25 +4821,85 @@ are present at the meeting, either in person or by proxy.
 
 (4) Sub-paragraph (3) shall not apply to a general meeting convened on receipt of a requisition by subsidiary proprietors.
 
+Adjournment of general meetings
+
+3A.—(1) A general meeting of a management corporation or a subsidiary management corporation may be adjourned for any reason if a motion to adjourn the meeting is passed at the meeting.
+
+(2) The person presiding at a general meeting adjourned under sub‑paragraph (1) must fix the time and place the general meeting adjourned is to be resumed.
+
+(3) The secretary of the management corporation or subsidiary management corporation (as the case may be) must give notice of the time and place fixed under sub‑paragraph (2) at least 14 days before the time fixed for the resumed meeting, as follows:
+
+(a) by displaying the notice on the notice board of the management corporation or subsidiary management corporation;
+
+(b) by serving the notice on every subsidiary proprietor.
+
+[Act 35 of 2017 wef 01/02/2019]
+
 Motions out of order
 
 4\. At a general meeting of a management corporation or subsidiary management corporation, its chairperson may rule that a motion submitted at the meeting is out of order if he considers that the motion, if carried, would conflict with this Act or the by-laws or would otherwise be unlawful or unenforceable.
 
-Method of casting vote
+Manner of voting
 
-5\. Except as provided in paragraph 2(3), a vote on a motion submitted at a general meeting of a management corporation or on any election of members of the council, or at a general meeting of a subsidiary management corporation or on any election of its executive committee, may be cast by the person entitled to vote, either personally or by his duly appointed proxy.
+5.—(1) A vote at a general meeting of a management corporation or subsidiary management corporation by a person entitled to vote or by a proxy must be cast in person.
+
+(2) Where a vote at a general meeting of a management corporation or subsidiary management corporation is required to be cast in person, the vote must be made using voting slips.
+
+(3) Every voting slip must —
+
+(a) state each motion submitted at the meeting;
+
+(b) for each motion, state whether an ordinary resolution, special resolution, 90% resolution, unanimous resolution, comprehensive resolution or resolution by consensus is required for the motion to be passed;
+
+(c) enable a voter to indicate the capacity in which the voter is exercising a right to vote and the lot in respect of which the vote is cast —
+
+(i) whether as owner or first mortgagee;
+
+(ii) as a company nominee; or
+
+(iii) as a proxy; and
+
+(d) enable a voter to cast a written vote for or against each motion or to abstain from voting.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 Chairperson to preside
 
 6\. The chairperson of the management corporation or subsidiary management corporation shall preside at any general meeting of the management corporation or subsidiary management corporation, as the case may be, at which he is present and, in his absence from any such meeting, the persons present at that meeting and entitled to vote on motions submitted at that meeting may elect one of their number to preside at that meeting and the person so elected shall, while he is so presiding, be deemed to be the chairperson of the management corporation or (as the case may be) subsidiary management corporation.
 
-List of names of persons entitled to vote
+List of persons entitled to vote
 
-7\. The secretary of the management corporation or (as the case may be) subsidiary management corporation shall put up a list of the names of the persons who are entitled to vote at a general meeting on the notice board maintained on the common property at least 48 hours before the general meeting.
+7.—(1) At least 48 hours before the start of a general meeting of a management corporation or subsidiary management corporation, the secretary of the management corporation or subsidiary management corporation (as the case may be) must display or cause to be displayed, in accordance with sub‑paragraph (2), a list containing —
 
-Counting of votes on election of council or executive committee
+(a) the names of every person entitled to vote at the general meeting; and
 
-8\. Each person entitled to vote on an election of members of the council or executive committee shall have one vote in respect of each lot which he is entitled to vote.
+(b) the lot or lots in respect of which each of those persons is entitled to vote.
+
+(2) The list mentioned in sub‑paragraph (1) must be displayed on the notice board maintained on —
+
+(a) the common property, in the case of a general meeting of a management corporation; or
+
+(b) the limited common property, in the case of a general meeting of a subsidiary management corporation.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+Election of council or executive committee
+
+8.—(1) At a general meeting of a management corporation or subsidiary management corporation at which the council or executive committee (as the case may be) is to be elected, the chairperson of the general meeting must —
+
+(a) announce the names of the candidates already nominated in writing for election to the council or executive committee in accordance with section 53B; and
+
+(b) call for any oral nominations of persons eligible for election to the council or executive committee (as the case may be).
+
+(2) After the chairperson of the general meeting declares that nominations have closed, the management corporation or subsidiary management corporation must decide, in accordance with this Act, the number of members of the council or executive committee (as the case may be).
+
+(3) Subject to section 53A, if the number of candidates is the same as, or fewer than, the number of members of the council or executive committee (as the case may be) decided on under sub‑paragraph (2), those candidates must be declared by the chairperson to be, and are taken to have been, elected as the members of the council or executive committee (as the case may be).
+
+(4) Each person entitled to vote on an election of members of the council or executive committee has one vote in respect of each lot which he is entitled to vote.
+
+(5) To avoid doubt, no poll is required for an election to office as a member of a council or an executive committee.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 Counting of votes on motion
 
@@ -4196,6 +4924,24 @@ the motion shall be decided according to the value, ascertained in accordance wi
 Chairperson’s declaration of vote
 
 10\. The declaration of the chairperson of the result of the voting on any proposal submitted at a general meeting of the management corporation or (as the case may be) subsidiary management corporation, otherwise than on a poll, shall be conclusive without proof of the votes recorded for or against the proposal.
+
+Minutes of general meetings
+
+10A. The minutes of every general meeting must contain the following information:
+
+(a) the date, time and place of the meeting;
+
+(b) the names of the subsidiary proprietors present at the meeting;
+
+(c) the names of the subsidiary proprietors who have appointed proxies;
+
+(d) the names of the proxies present at the meeting;
+
+(e) the result of the votes on every motion submitted at the meeting;
+
+(f) the text of every resolution passed at the meeting.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 General meetings valid if attended only by chairperson
 
@@ -4245,7 +4991,9 @@ Meetings of management corporation, etc., before first annual general meeting
 
 (ii) in the case of a subsidiary management corporation constituted for any limited common property, all lots for whose exclusive benefit the limited common property is designated.
 
-(2) The provisions of this Schedule (paragraph 1(2) excepted) shall apply to and in respect of a meeting referred to in sub-paragraph (1) so far as those provisions are not inconsistent with, or incapable of applying to, such a meeting.
+(2) The provisions of this Schedule (paragraph 1(3) excepted) shall apply to and in respect of a meeting referred to in sub-paragraph (1) so far as those provisions are not inconsistent with, or incapable of applying to, such a meeting.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 Company may appoint representative to attend meetings
 
@@ -4259,17 +5007,59 @@ Instrument of proxy
 
 (b) if the person appointing the proxy is a company, either under seal or under the hand of an officer or its attorney duly authorised.
 
-(2) Where it is desired to afford subsidiary proprietors an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form or a form as near thereto as circumstances admit:
+(2) Where it is desired to afford subsidiary proprietors an opportunity of voting for or against a resolution, the instrument appointing a proxy shall be in the following form:
 
-I/We, of being a member/members of the above-named management corporation, hereby appoint/appoints , of , or failing him, of , as my/our proxy to vote for me/us on my/our behalf at the [annual or extraordinary, as the case may be] general meeting of the management corporation or subsidiary management corporation, to be held on the day of 20 , and at any adjournment thereof.
+*I/We, ......................................... of being *a member/members of the abovenamed management corporation, appoint ………………......................................................................................, of ......................................................., as *my/our proxy to attend at the [annual or extraordinary, as the case may be] general meeting of the management corporation or subsidiary management corporation, to be held on ......... 20 ........, and at any adjournment of the meeting and to vote for *me/us on *my/our behalf in the following manner:
 
-Signed this day of 20
+Resolution
 
-This form is to be used *in favour of/against the resolution.
+For
 
-*Strike out whichever is not desired. [Unless otherwise instructed, the proxy may vote as he thinks fit.].
+Against
+
+Abstain
+
+Notes:
+
+1. A subsidiary proprietor may direct his or her proxy to vote on the resolution by ticking the desired box (in favour of/against the resolution or abstain from voting) in the above table. An abstain vote will not be counted in the calculation of votes.
+
+2. If the subsidiary proprietor does not indicate his or her voting preference in the above table, the proxy may vote or abstain from voting at the proxy’s discretion, in relation to any matter which is put before the meeting (including any resolution to adjourn the meeting or to amend any resolution proposed at the meeting).
+
+3. This instrument appointing a proxy is void if *I am/we are present at the meeting.
+
+Signed on ............................. 20 ..........
+
+..............................................................
+
+Signature(s) of subsidiary proprietor(s)
+
+..............................................................
+
+Signature(s) of proxy
+
+*delete whichever is inapplicable
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (3) The instrument appointing a proxy shall be deemed to confer authority to demand or join in demanding a poll.
+
+(4) The instrument appointing a proxy is void if the person appointing the proxy is present at the meeting.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(5) An appointed proxy can only represent a maximum of —
+
+(a) 2 lots; or
+
+(b) 2% of the total number of lots in the development (rounded down to the nearest whole number),
+
+whichever is the higher.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(6) In the event an appointed proxy represents more than the maximum mentioned in sub‑paragraph (5), the additional instrument of proxy held is void.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 Proxy to be deposited at registered address of management corporation or subsidiary management corporation
 
@@ -4316,6 +5106,18 @@ Chairperson to preside at meetings
 
 1\. The chairperson of a council or an executive committee shall preside at all meetings of the council or executive committee, as the case may be, at which he is present and, if he is absent from any such meeting, the members of the council or executive committee present at that meeting shall appoint one of their number to preside at that meeting during the absence of the chairperson.
 
+Method of holding meetings
+
+1A.—(1) A meeting of a council or an executive committee may be held by a quorum of the members, being assembled together at the time and place appointed for the meeting.
+
+(2) Where a council or an executive committee, by resolution, adopts the holding of any of its meetings by means of teleconference, video conferencing or other electronic means of communication, a meeting of the council or executive committee may be held by the means adopted provided that —
+
+(a) all of the members of the council or executive committee (as the case may be) who wish to participate in the meeting have access to the technology needed to participate in the meeting; and
+
+(b) a quorum of those members can simultaneously communicate with each other throughout the meeting.
+
+[Act 35 of 2017 wef 01/02/2019]
+
 Meetings of councils or executive committees
 
 2.—(1) At any meeting of a council or an executive committee, a quorum shall consist —
@@ -4327,6 +5129,10 @@ Meetings of councils or executive committees
 as the case may be.
 
 (2) For the purposes of determining whether there is a quorum, a member of the council or executive committee shall be treated as being present at a meeting notwithstanding that under section 60 he cannot vote or has withdrawn from the meeting.
+
+(2A) For the purposes of this paragraph, a member of a council or an executive committee participating in a meeting of the council or executive committee as permitted under paragraph 1A(2) is taken to be present at the meeting.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (3) Subject to this Act, the decision on any matter —
 
@@ -4342,15 +5148,23 @@ Keeping of records
 
 3.—(1) The council or executive committee shall keep minutes of its proceedings and shall cause minutes of general meetings to be kept.
 
-(2) If the management corporation or subsidiary management corporation is required by its by-laws to maintain a notice board, its council or executive committee, as the case may be, shall —
+(2) The council or executive committee must maintain a notice board and display on the notice board —
 
-(a) cause a copy of the minutes of a meeting of the council or executive committee, as the case may be, to be displayed on the notice board within 7 days after the meeting; and
+(a) a copy of the minutes of a meeting of the council or executive committee not later than the 14th day after the meeting; or
 
-(b) cause a copy of a minute of any resolution thereof, or of the management corporation or subsidiary management corporation, as the case may be, passed in accordance with this Act to be displayed on the notice board after it is passed.
+(b) a copy of the minutes of a general meeting of the management corporation or subsidiary management corporation not later than the 45th day after the general meeting.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(2A) The notice board mentioned in sub‑paragraph (2) may be an online notice board maintained on the website of the management corporation or subsidiary management corporation.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (3) A copy of any minutes referred to in sub-paragraph (2) shall be kept displayed on the notice board for a period of not less than 14 days.
 
-(4) If there is no notice board, the council or executive committee concerned shall give each subsidiary proprietor a copy of the minutes referred to in sub-paragraph (2)(a) or (b) within the period specified in that sub-paragraph.
+(4) The council or executive committee may also give each subsidiary proprietor a copy of the minutes mentioned in sub‑paragraph (2)(a) or (b) within the period specified in that sub‑paragraph.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (5) The council or executive committee shall —
 
@@ -4366,7 +5180,29 @@ Notice of council or executive committee meetings
 
 (b) by serving the notice on each member of the council or executive committee, as the case may be.
 
-(2) The notice referred to in sub-paragraph (1) shall specify when and where the meeting is to be held and contain a detailed agenda for the meeting.
+(2) The notice of intention to hold a meeting of a council or an executive committee required by sub‑paragraph (1) must specify the following:
+
+(a) a detailed agenda of the meeting;
+
+(b) the place at and the day on which the meeting is to be held and the time the meeting is to start;
+
+(c) if the council or executive committee has, by resolution, adopted any means in paragraph 1A(2) by which the meeting of the council or executive committee may be held, the means by which the meeting is to be held and information as to how to participate in or attend that meeting using that means, such as (but not limited to) a password.
+
+[Act 35 of 2017 wef 01/02/2019]
+
+Adjournment of council or executive committee meetings
+
+4A.—(1) A meeting of a council or an executive committee may be adjourned for any reason if a motion to adjourn the meeting is passed at the meeting.
+
+(2) The council or executive committee must give notice of the time and place a meeting adjourned under sub‑paragraph (1) is to be resumed.
+
+(3) The notice required by sub‑paragraph (2) must be given at least 3 days before the time fixed for the resumed meeting, as follows:
+
+(a) by displaying a notice on the notice board of the management corporation or subsidiary management corporation;
+
+(b) by serving the notice on each member of the council or executive committee.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 Subsidiary proprietor’s attendance at council meetings, etc.
 
@@ -4375,6 +5211,10 @@ Subsidiary proprietor’s attendance at council meetings, etc.
 (2) A subsidiary proprietor who is a member of a subsidiary management corporation shall be entitled to attend a meeting of the executive committee of the subsidiary management corporation but may not address the meeting except with the permission of the executive committee.
 
 (3) No subsidiary proprietor other than a subsidiary proprietor who is a member of a subsidiary management corporation shall be entitled to attend a meeting of the executive committee of the subsidiary management corporation.
+
+(4) If the council or executive committee has, by resolution, adopted any means in paragraph 1A(2) by which the meeting of the council or executive committee may be held, a subsidiary proprietor using the means specified in the notice under paragraph 4(2)(c) is taken to be present at the meeting.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 Acts of council or executive committee valid notwithstanding vacancy, etc.
 
@@ -4388,7 +5228,7 @@ be as valid as if the vacancy, defect or disqualification did not exist and the 
 
 Resolutions in writing
 
-7. A resolution of a council or an executive committee shall be taken to have been validly passed even though the meeting at which the motion for the resolution was proposed to be submitted was not held if —
+7. A resolution of a council or an executive committee shall be taken to have been validly passed even though the meeting at which the motion for the resolution was proposed to be submitted was not held in accordance with paragraph 1A if —
 
 (a) notice was given in accordance with this Schedule of the intended meeting of the council or executive committee, as the case may be;
 
@@ -4400,6 +5240,24 @@ Resolutions in writing
 
 [LT(S)A, 2nd Sch.]
 
+[Act 35 of 2017 wef 01/02/2019]
+
+Minutes of council or executive committee meetings
+
+8. The minutes of every meeting of a council or an executive committee must contain the following information:
+
+(a) the date, time and place of the meeting;
+
+(b) the names of the members of the council or executive committee present at the meeting;
+
+(c) the names of the members of the council or executive committee voting;
+
+(d) the result of the votes on every motion submitted at the meeting;
+
+(e) the text of every resolution passed at the meeting.
+
+[Act 35 of 2017 wef 01/02/2019]
+
 THIRD SCHEDULE
 
 Section 138
@@ -4409,12 +5267,12 @@ Consequential amendments to
 
 
 
-Land Titles (Strata) Act
+land titles (strata) act
 
 
 
 
-(Chapter 158, 1999 Edition)
+(chapter 158, 1999 edition)
 
 First column
 
@@ -4550,25 +5408,9 @@ Section 11 (1)
 
 Insert, immediately after the words “in this Act”, the words “or the Building Maintenance and Strata Management Act 2004”.
 
-\*(5)
+(5)
 
-New section 12A
-
-\*No date has been appointed for the coming into operation of item (5) as at 1st July 2008.
-
-Insert, immediately after section 12, the following section:
-
-“Staged developments 
-
-12A\. —(1) On the completion of every stage of a staged development in respect of which a strata title plan is registered or deemed registered under this Act, and on the final completion and conclusion of the entire staged development, the owner developer thereof shall, within the time prescribed, prepare an amended strata title plan with the revised schedule of strata units for the staged development that has been last accepted under section 11 of the Building Maintenance and Strata Management Act 2004.
-
-(2) Every amended strata title plan with the revised schedule of strata units under subsection (1) shall be lodged with the Chief Surveyor for approval under the Boundaries and Survey Maps Act (Cap. 25).
-
-(3) Where the amended strata title plan referred to in subsection (1) has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act, the Registrar shall make the appropriate amendment and entry on the relevant volumes and folios of the land-register and subsidiary land-register comprising the lots shown in the amended strata title plan in regard to the share value and lot numbers of the lot or lots affected.
-
-(4) The Minister may make regulations on any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and may in such regulations modify the application of any of the provisions of this Act in relation to staged developments.
-
-(5) Every regulation made under subsection (4) shall be presented to Parliament as soon as possible after publication in theGazette.”.
+[Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (6)
 
@@ -4855,6 +5697,8 @@ Repealed.
 Fourth Schedule
 
 Delete the words “FOURTH SCHEDULE” in the 1st line and substitute the words “THE SCHEDULE”.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 FOURTH SCHEDULE
 
@@ -5253,35 +6097,9 @@ the disclosure in any contract that shall be used by a licensed housing develope
 
 any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;”.
 
-\*(b)
-
-New section 23A
-
-\*No date has been appointed for the coming into operation of item (9)(b) as at 1st July 2008.
-
-Insert, immediately after section 23, the following section:
-
-“Staged developments 
-
-23A\. —(1) Every staged development of a housing development shall be carried out subject to a staged development contract in the prescribed form that is accepted by the Controller under this section.
-
-(2) For the purposes of this Act, the Controller may refuse to accept any staged development contract in relation to any staged development of a housing development, and any amendments thereto, if the contract —
-
-(a)
-
-is not in the prescribed form;
-
 (b)
 
-does not describe or adequately describe the concept plan for the entire staged development, and so much of the proposed development that is warranted development and is an authorised proposal; and
-
-(c)
-
-does not specify the proposed date the entire staged development is to be finally completed and concluded and such other information, conditions or particulars as may be prescribed.
-
-(3) No amendment to a staged development contract accepted under this Act by the Controller in relation to any staged development referred to in subsection (1) shall be valid unless the amendment is accepted by the Controller.
-
-(4) In this Act, “authorised proposal”, “staged development” and “warranted development” shall have the same respective meanings as in the Building Maintenance and Strata Management Act 2004..
+[Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (10)
 
@@ -5316,87 +6134,9 @@ Delete the words “Buildings and Common Property (Maintenance and Management) A
 
 Delete the marginal reference “Cap. 30”.
 
-\*(11)
+(11)
 
-Planning Act
-(Chapter 232, 1998 Ed.)
-
-\*No date has been appointed for the coming into operation of item (11) as at 1st July 2008.
-
-
-
-
-(a)
-
-Section 2
-
-(i)
-
-Insert, immediately after the definition of “owner”, the following definition:
-
-“ “parcel” has the same meaning as in the Building Maintenance and Strata Management Act 2004;”.
-
-(ii)
-
-Insert, immediately after the definition of “repealed Act”, the following definitions:
-
-“ “staged development” has the same meaning as in the Building Maintenance and Strata Management Act 2004;
-
-“strata title plan” has the same meaning as in the Building Maintenance and Strata Management Act 2004;.
-
-(b)
-
-New section 24A
-
-Insert, immediately after section 24, the following section:
-
-“Planning permission for staged developments 
-
-24A\. —(1) Without prejudice to section 12, no person shall carry out any development —
-
-(a)
-
-for the first stage of that staged development except with planning permission granted under this Part for that stage of the staged development and provisional permission granted under this Part for every subsequent stage of that staged development; and
-
-(b)
-
-for any stage of that staged development except with planning permission granted under this Part for that stage of the staged development.
-
-(2) Without prejudice to section 14, the competent authority shall not grant any planning permission for any development of any parcel that is a stage of a staged development unless the competent authority is satisfied that each subsequent stage has regard to the first stage and the stage immediately preceding.
-
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
-
-(4) Where a person is convicted of an offence under subsection (3) in respect of any development of land without having been previously served with an enforcement notice in respect of the development, the competent authority may serve an order on the person directing him to remove from the land, within 14 days of the date of service of the order, all such property or materials used in connection with the offence as may be specified in the order.
-
-(5) An application for planning permission for a staged development shall be made and dealt with in accordance with the provisions of this Part with the necessary modifications.
-
-(6) Without prejudice to section 15, the competent authority may, by way of conditions on the grant of planning permission in respect of any staged development, require the applicant for planning permission to place with it a security deposit for the completion of the staged development in accordance with its application and within the time mentioned in the grant of planning permission.”.
-
-(c)
-
-New section 34A
-
-Insert, immediately after section 34, the following section:
-
-“Application to staged developments 
-
-34A\. The provisions of this Part shall apply, with the necessary modifications, in respect of every staged development.”.
-
-(d)
-
-Section 40 (1)
-
-Insert, immediately after the words “development charge” in paragraph (a), the words “, including the rates and methods in respect of the different stages of a staged development”.
-
-(e)
-
-Section 61 (2)
-
-Insert, immediately after paragraph (l), the following paragraph:
-
-“(la)
-
-any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;”.
+[Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (12)
 
@@ -5407,35 +6147,9 @@ Sale of Commercial Properties Act
 
 (Chapter 281, 1985 Ed.)
 
-\*(a)
-
-New section 7A
-
-\*No date has been appointed for the coming into operation of item (12)(a) as at 1st July 2008.
-
-Insert, immediately after section 7, the following section:
-
-“Staged developments 
-
-7A\. —(1) Every staged development wholly of commercial property shall be carried out subject to a staged development contract in the prescribed form that is accepted by the Controller under this section.
-
-(2) For the purposes of this Act, the Controller may refuse to accept any staged development contract in relation to any staged development wholly of commercial property, and any amendments thereto, if the contract —
-
 (a)
 
-is not in the prescribed form;
-
-(b)
-
-does not describe or adequately describe the concept plan for the entire staged development, and so much of the proposed development that is warranted development and is an authorised proposal; and
-
-(c)
-
-does not specify the proposed date the entire staged development is to be finally completed and concluded or such other information, conditions or particulars as may be prescribed.
-
-(3) No amendment to a staged development contract accepted under this Act by the Controller in relation to any staged development referred to in subsection (1) shall be valid unless the amendment is accepted by the Controller.
-
-(4) In this Act, “authorised proposal”, “staged development” and “warranted development” shall have the same respective meanings as in the Building Maintenance and Strata Management Act 2004..
+[Deleted by Act 35 of 2018 wef 01/02/2019]
 
 (b)
 
@@ -5511,6 +6225,8 @@ Delete the words “and windows” in paragraph (a) of the definition of “comm
 Section 23 (1)
 
 Delete the words “Buildings and Common Property (Maintenance and Management) Act (Cap. 30)” in paragraph (b) and substitute the words “Building Maintenance and Strata Management Act 2004”.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -5599,6 +6315,14 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of First Reading|1 August 2017 (Bill No. 29/2017 published on 1 August 2017)|
 ||Date of Second and Third Readings|11 September 2017|
 ||Date of commencement|14 December 2018|
+|13.|**Act 48 of 2018—Environmental Public Health (Amendment) Act 2018**|
+||Date of First Reading|10 September 2018 (Bill No. 39/2018 published on 10 September 2018)|
+||Date of Second and Third Readings|2 October 2018|
+||Date of commencement|1 February 2019|
+|14.|**Act 35 of 2017—Building Maintenance and Strata Management (Amendment) Act 2017**|
+||Date of First Reading|1 August 2017 (Bill No. 29/2017 published on 1 August 2017)|
+||Date of Second and Third Readings|11 September 2017|
+||Date of commencement|1 February 2019|
 ## COMPARATIVE TABLE
 
 Building Maintenance and Strata Management Act
