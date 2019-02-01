@@ -2216,21 +2216,37 @@ in accordance with this Act and the Special Constabulary Regulations.
 
 (6) A disciplinary officer may, in lieu of or in addition to any punishment specified in subsection (3) or (4), order the special police officer concerned to pay —
 
-(a) in the case of a special police officer below the rank of assistant superintendent —
+(a) in the case of a special police officer below the rank of senior staff sergeant —
 
-(i) a fine not exceeding $300 if the special police officer is a volunteer ex-NSman; or
+(i) a fine not exceeding $1,500 if the special police officer is a volunteer ex-NSman; or
 
-(ii) a fine not exceeding $200 for a special police officer who is a volunteer; or
+(ii) a fine not exceeding $200 for a special police officer who is a volunteer;
 
-[Act 10 of 2015 wef 01/06/2015]
+(b) in the case of a special police officer of the rank of senior staff sergeant or higher but below the rank of assistant superintendent —
 
-(b) in the case of a special police officer of the rank of assistant superintendent or higher —
+(i) a fine not exceeding $2,000 if the special police officer is a volunteer ex-NSman; or
 
-(i) a fine not exceeding $1,000 if the special police officer is a volunteer ex-NSman; or
+(ii) a fine not exceeding $200 for a special police officer who is a volunteer;
+
+(c) in the case of a special police officer of the rank of assistant superintendent or deputy superintendent —
+
+(i) a fine not exceeding $3,000 if the special police officer is a volunteer ex-NSman; or
+
+(ii) a fine not exceeding $400 for a special police officer who is a volunteer;
+
+(d) in the case of a special police officer of the rank of superintendent or deputy assistant commissioner —
+
+(i) a fine not exceeding $6,000 if the special police officer is a volunteer ex-NSman; or
+
+(ii) a fine not exceeding $400 for a special police officer who is a volunteer; or
+
+(e) in the case of a special police officer of the rank of assistant commissioner or higher —
+
+(i) a fine not exceeding $10,000 if the special police officer is a volunteer ex-NSman; or
 
 (ii) a fine not exceeding $400 for a special police officer who is a volunteer.
 
-[Act 10 of 2015 wef 01/06/2015]
+[Act 53 of 2018 wef 01/02/2019]
 
 (6A) In addition to any punishment specified in subsections (3), (4) and (6), if a disciplinary officer finds any special police officer who is a volunteer ex-NSman guilty of the disciplinary offence of wilful destruction or negligent loss of or damage to property belonging to the Government, the disciplinary officer may order that special police officer concerned to pay compensation to make good, either partially or wholly, the value of such property or the amount of such loss or damage.
 
@@ -2246,9 +2262,13 @@ in accordance with this Act and the Special Constabulary Regulations.
 
 (6D) A disciplinary officer authorised to impose detention as punishment under this section with respect to special police officers may order the detention as follows of a special police officer who is a volunteer ex-NSman and ordered under subsection (6), on or after the date of commencement of section 29(f) of the Police Force (Amendment) Act 2015, to pay a fine and who defaults in payment:
 
-(a) if the fine is $100 or lower, detention for not more than 10 days;
+(a) if the fine is $300 or lower, detention for not more than 10 days;
 
-(b) if the fine is more than $100 but not more than $300, detention for not more than 20 days;
+[Act 53 of 2018 wef 01/02/2019]
+
+(b) if the fine exceeds $300 but does not exceed $1,000, detention for a period not exceeding 20 days;
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (c) in any other case, detention for not more than 40 days or until the fine is paid.
 
@@ -2350,13 +2370,17 @@ in accordance with this Act and the Special Constabulary Regulations.
 
 (6) A disciplinary officer may, in lieu of or in addition to any punishment specified in subsection (3) or (4), order the special police officer concerned to pay —
 
-(a) in the case of a special police officer below the rank of assistant superintendent — a fine not exceeding $300; or
+(a) in the case of a special police officer below the rank of senior staff sergeant — a fine not exceeding $1,500;
 
-[Act 10 of 2015 wef 01/06/2015]
+(b) in the case of a special police officer of the rank of senior staff sergeant or higher but below the rank of assistant superintendent — a fine not exceeding $2,000;
 
-(b) in the case of a special police officer of the rank of assistant superintendent or higher — a fine not exceeding $1,000.
+(c) in the case of a special police officer of the rank of assistant superintendent or deputy superintendent — a fine not exceeding $3,000;
 
-[Act 10 of 2015 wef 01/06/2015]
+(d) in the case of a special police officer of the rank of superintendent or deputy assistant commissioner — a fine not exceeding $6,000; or
+
+(e) in the case of a special police officer of the rank of assistant commissioner or higher — a fine not exceeding $10,000.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (6A) In addition to any punishment specified in subsections (3), (4) and (6), if a disciplinary officer finds any special police officer guilty of the disciplinary offence of wilful destruction or negligent loss of or damage to property belonging to the Government, the disciplinary officer may order that special police officer concerned to pay compensation to make good, either partially or wholly, the value of such property or the amount of such loss or damage.
 
@@ -2372,9 +2396,13 @@ in accordance with this Act and the Special Constabulary Regulations.
 
 (6D) A disciplinary officer authorised to impose detention as punishment under this section with respect to special police officers may order the detention as follows of a special police officer who is ordered under subsection (6), on or after the date of commencement of section 30(d) of the Police Force (Amendment) Act 2015, to pay a fine and who defaults in payment:
 
-(a) if the fine is $100 or lower, detention for not more than 10 days;
+(a) if the fine is $300 or lower, detention for not more than 10 days;
 
-(b) if the fine is more than $100 but not more than $300, detention for not more than 20 days;
+[Act 53 of 2018 wef 01/02/2019]
+
+(b) if the fine exceeds $300 but does not exceed $1,000, detention for a period not exceeding 20 days;
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (c) in any other case, detention for not more than 40 days or until the fine is paid.
 
@@ -3662,29 +3690,49 @@ shall continue to hold such office as if he were appointed under section 6(1) as
 
 ## THE SCHEDULE
 
-Sections 2(1), 40(1), 81 and 82
+Sections 2(1) and 40(1)
 
 Disciplinary offences
 
-1\. Absence from duty without leave within the meaning of section 36.
+1. 
 
-2\. Sleeping on duty.
+Absence from duty without leave within the meaning of section 36.
 
-3\. Conduct to the prejudice of good order and discipline.
+2. 
 
-4\. Cowardice in the performance of duty.
+Sleeping on duty.
 
-5\. Disobedience of Police Regulations, Special Police Regulations, Police General Orders, Force Orders, Standing Orders or any orders of a superior officer whether written or verbal.
+3. 
 
-6\. Being unfit for duty through intoxication.
+Conduct to the prejudice of good order and discipline.
 
-7\. Insubordination.
+4. 
 
-8\. Abuse of authority by knowingly exceeding his authority over an officer of lower rank.
+Cowardice in the performance of duty.
 
-9\. Neglect of duty or orders.
+5. 
 
-10. Intentionally rendering or keeping himself unfit for service or duty —
+Disobedience of Police Regulations, Special Police Regulations, Police General Orders, Force Orders, Standing Orders or any orders of a superior officer whether written or verbal.
+
+6. 
+
+Being unfit for duty through intoxication.
+
+7. 
+
+Insubordination.
+
+8. 
+
+Abuse of authority by knowingly exceeding his authority over an officer of lower rank.
+
+9. 
+
+Neglect of duty or orders.
+
+10. 
+
+Intentionally rendering or keeping himself unfit for service or duty —
 
 (a) by injuring himself or causing or permitting himself to be injured;
 
@@ -3692,7 +3740,9 @@ Disciplinary offences
 
 (c) by falsely representing himself to be suffering from a sickness or disability.
 
-11. Doing any of the following acts in relation to a document which is the property of or is submitted to the Police Force or the Special Constabulary, as the case may be, for any purpose (referred to in this Schedule as a service document) with a view to gaining for himself or another or with intent to deceive another or cause loss to another:
+11. 
+
+Doing any of the following acts in relation to a document which is the property of or is submitted to the Police Force or the Special Constabulary, as the case may be, for any purpose (referred to in this Schedule as a service document) with a view to gaining for himself or another or with intent to deceive another or cause loss to another:
 
 (a) makes or signs a service document that is false in a material particular;
 
@@ -3704,21 +3754,37 @@ Disciplinary offences
 
 (e) does not make an entry in a service document that it is his duty to make.
 
-12\. Excess of duty resulting in loss or injury to any other person.
+12. 
 
-13\. Wilful destruction or negligent loss of or injury to property belonging to the Government.
+Excess of duty resulting in loss or injury to any other person.
 
-14\. Misapplies or wastefully expends any property used by, or in the possession or control of, the Police Force or the Special Constabulary, or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary.
+13. 
 
-15\. Stealing or dishonestly misappropriating any property used by, or in the possession or control of, the Police Force or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary, or is concerned in the stealing or dishonest misappropriation of any such property.
+Wilful destruction or negligent loss of or injury to property belonging to the Government.
 
-16\. Receiving any property used by, or in the possession or control of, the Police Force or the Special Constabulary, or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary, knowing such property to have been stolen or to have been dishonestly misappropriated.
+14. 
 
-17\. Escaping from custody or any detention barrack in which he is being held under or under the authority of this Act.
+Misapplies or wastefully expends any property used by, or in the possession or control of, the Police Force or the Special Constabulary, or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary.
 
-18\. Refusing to obey a lawful order for his arrest, or committing an assault on a police officer who gives the order or a person, whether or not a police officer, who attempts to apprehend him, or take or hold him in custody, in pursuance of the order.
+15. 
 
-19. Failing to do any of the following in relation to any person who is under arrest or in custody for an alleged service offence where he is required by or under this Act to take such action:
+Stealing or dishonestly misappropriating any property used by, or in the possession or control of, the Police Force or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary, or is concerned in the stealing or dishonest misappropriation of any such property.
+
+16. 
+
+Receiving any property used by, or in the possession or control of, the Police Force or the Special Constabulary, or any mess, club, common room, canteen or association of the Police Force or the Special Constabulary, knowing such property to have been stolen or to have been dishonestly misappropriated.
+
+17. 
+
+Escaping from custody or any detention barrack in which he is being held under or under the authority of this Act.
+
+18. 
+
+Refusing to obey a lawful order for his arrest, or committing an assault on a police officer who gives the order or a person, whether or not a police officer, who attempts to apprehend him, or take or hold him in custody, in pursuance of the order.
+
+19. 
+
+Failing to do any of the following in relation to any person who is under arrest or in custody for an alleged service offence where he is required by or under this Act to take such action:
 
 (a) to have the case of the first-mentioned person brought before a commanding officer for investigation;
 
@@ -3726,7 +3792,9 @@ Disciplinary offences
 
 (c) to release, or to order the release of the first-mentioned person where that person in custody is entitled to be released.
 
-20. Unlawful release of persons in custody by —
+20. 
+
+Unlawful release of persons in custody by —
 
 (a) allowing to escape or without authority releasing a person who is delivered into his custody under this Act or whom it is his duty to guard;
 
@@ -3734,7 +3802,9 @@ Disciplinary offences
 
 (c) conveying anything into a detention barrack with intent to facilitate an escape from that detention barrack.
 
-21. Commits contempt by —
+21. 
+
+Commits contempt by —
 
 (a) failing to comply with a summons or an order to attend as a witness at a committee of inquiry or at disciplinary proceedings for a service offence before a disciplinary officer;
 
@@ -3748,7 +3818,23 @@ Disciplinary offences
 
 (f) wilfully interrupting, obstructing or disturbing any disciplinary proceeding before a disciplinary officer or a committee of inquiry.
 
-22\. Engaging in trade or other employment without the permission of the Commissioner.
+22. 
+
+Engaging in trade or other employment without the permission of the Commissioner.
+
+23. 
+
+Failing, without reasonable excuse, to submit to —
+
+(a) a medical or dental examination or test;
+
+(b) inoculation, vaccination or immunisation; or
+
+(c) medical or dental treatment,
+
+where required to by the Commissioner.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -3833,6 +3919,10 @@ The Police Force Act 2004 repealed and re-enacted with amendments the Police For
 ||Date of First Reading|17 May 2018 (Bill No. 22/2018 published on 17 May 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|15 September 2018|
+|14.|**Act 53 of 2018—Civil Defence and Other Matters Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 44/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|20 November 2018|
+||Date of commencement|1 February 2019|
 ## COMPARATIVE TABLE
 
 Police Force Act
