@@ -1970,9 +1970,7 @@ Ebola Virus Disease (EVD).
 
 Haemophilus Influenzae Type b (Hib) Disease.
 
-11. 
-
-Hand, Foot and Mouth Disease.
+11. [Deleted by S 61/2019 wef 01/02/2019]
 
 12. [Deleted by S 451/2016 wef 28/09/2016]
 
@@ -2090,11 +2088,11 @@ Sexually Transmitted Infections —
 
 [S 451/2016 wef 28/09/2016]
 
-(b) Genital Herpes;
+(b) [Deleted by S 61/2019 wef 01/02/2019]
 
 (c) Gonorrhoea;
 
-(d) Non-Gonococcal Urethritis; and
+(d) [Deleted by S 61/2019 wef 01/02/2019]
 
 (e) Syphilis.
 
@@ -2383,6 +2381,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|26 January 2016|
 |40.|**G.N. No. S 451/2016—Infectious Diseases Act (Amendment of First, Fifth and Sixth Schedules) Notification 2016**|
 ||Date of commencement|28 September 2016|
+|41.|**G.N. No. S 61/2019—Infectious Diseases Act (Amendment of First Schedule) Notification 2019**|
+||Date of commencement|1 February 2019|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
