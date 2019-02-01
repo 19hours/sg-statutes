@@ -30,7 +30,13 @@
 
 - [9 Enlistment of national servicemen in Force](#Enlistment-of-national-servicemen-in-Force)
 
+- [9A Volunteer ex-NSmen](#Volunteer-ex-NSmen)
+
+- [9B Appointments and promotions](#Appointments-and-promotions)
+
 - [10 Discharge of national servicemen from Force](#Discharge-of-national-servicemen-from-Force)
+
+- [10A Discharge of volunteer ex-NSmen](#Discharge-of-volunteer-ex-NSmen)
 
 - [11 Discharge of auxiliary members](#Discharge-of-auxiliary-members)
 
@@ -83,6 +89,8 @@
 - [31 Obstruction of provost officer](#Obstruction-of-provost-officer)
 
 - [32 Insubordinate behaviour](#Insubordinate-behaviour)
+
+- [32A Refusing medical or dental examination or treatment](#Refusing-medical-or-dental-examination-or-treatment)
 
 - [33 Disobedience to command](#Disobedience-to-command)
 
@@ -236,11 +244,29 @@
 
 - [101 Civil Defence Force Fund](#Civil-Defence-Force-Fund)
 
+[**Part XIA DAY‑TO‑DAY OPERATIONS**](#Part-XIA)
+
+- [101A Powers for day‑to‑day operations](#Powers-for-day‑to‑day-operations)
+
+- [101B Persons assisting Force](#Persons-assisting-Force)
+
+- [101C Protection from personal liability](#Protection-from-personal-liability)
+
 [**Part XII STATE OF CIVIL DEFENCE EMERGENCY**](#Part-XII)
 
 - [102 Declaration of state of civil defence emergency](#Declaration-of-state-of-civil-defence-emergency)
 
 - [103 Special powers during emergency](#Special-powers-during-emergency)
+
+[**Part XIIA PUBLIC WARNING SYSTEM**](#Part-XIIA)
+
+- [103A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [103B Provision of space to install prescribed civil defence emergency devices](#Provision-of-space-to-install-prescribed-civil-defence-emergency-devices)
+
+- [103C Power to enter premises for assessment, repair and maintenance](#Power-to-enter-premises-for-assessment-repair-and-maintenance)
+
+- [103D Damage, etc., to prescribed civil defence emergency devices](#Damage-etc-to-prescribed-civil-defence-emergency-devices)
 
 [**Part XIII TRAINING OF CIVILIAN POPULATION IN CIVIL DEFENCE**](#Part-XIII)
 
@@ -274,7 +300,7 @@
 
 - [112 Protection from liability](#Protection-from-liability)
 
-- [113 Mobilisation of auxiliary members](#Mobilisation-of-auxiliary-members)
+- [113 Mobilisation of ex-NSmen or auxiliary members](#Mobilisation-of-ex-NSmen-or-auxiliary-members)
 
 - [114 Section 14 of Government Proceedings Act shall apply to Force](#Section-14-of-Government-Proceedings-Act-shall-apply-to-Force)
 
@@ -334,6 +360,10 @@ PRELIMINARY
 
 [32/2010 wef 01/02/2011]
 
+“ex-NSman” means a former operationally ready national serviceman;
+
+[Act 53 of 2018 wef 01/02/2019]
+
 “Force” means the Singapore Civil Defence Force raised and maintained in accordance with the provisions of this Act;
 
 “full-time service” has the same meaning as in the Enlistment Act (Cap. 93);
@@ -354,9 +384,11 @@ PRELIMINARY
 
 “medical practitioner” includes a medical officer in the service of the Government;
 
-“member” means an officer or a serviceman of the Force, and shall include an auxiliary member;
+“member” means an officer or a serviceman of the Force, and shall include a volunteer ex‑NSman or an auxiliary member;
 
 [32/2010 wef 01/02/2011]
+
+[Act 53 of 2018 wef 01/02/2019]
 
 “national service” and “national serviceman” have the same meanings as in the Enlistment Act;
 
@@ -375,6 +407,16 @@ PRELIMINARY
 “person of a higher rank”, in relation to a member, includes any other member who, by virtue of his office or appointment, is entitled to exercise command over the first-mentioned member;
 
 “police officer” means any member of the Singapore Police Force;
+
+“prescribed civil defence emergency device” means —
+
+(a) a public warning device; or
+
+(b) such device for the detection or monitoring of a civil defence emergency as may be prescribed,
+
+and includes a prescribed civil defence emergency device installed by the Commissioner, with the agreement of the owner of the premises, before the date of commencement of section 20 of the Civil Defence and Other Matters Act 2018;
+
+[Act 53 of 2018 wef 01/02/2019]
 
 “proper authority” has the same meaning as in the Enlistment Act (Cap. 93);
 
@@ -416,9 +458,15 @@ and “service equipment”, “service facilities”, “service ship”, “se
 
 “state of civil defence emergency” means a state of civil defence emergency declared under section 102;
 
-“state of emergency” means the period when a Proclamation of Emergency issued by the President under Article 150 of the Constitution of the Republic of Singapore is in force.
+“state of emergency” means the period when a Proclamation of Emergency issued by the President under Article 150 of the Constitution of the Republic of Singapore is in force;
 
 [19/94]
+
+[Act 53 of 2018 wef 01/02/2019]
+
+“volunteer ex‑NSman” means an ex‑NSman enrolled as a volunteer ex‑NSman under section 9A.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 ## PART II
 
@@ -432,11 +480,19 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 4\.—(1) The functions of the Force are —
 
-(a) to carry out civil defence duties; and
+(a) to carry out civil defence duties;
 
-(b) to instruct the members of the public regarding civil defence and, if necessary, to equip them for the purposes of such defence.
+[Act 53 of 2018 wef 01/02/2019]
+
+(b) to instruct the members of the public regarding civil defence and, if necessary, to equip them for the purposes of such defence; and
 
 [32/2010 wef 01/02/2011]
+
+[Act 53 of 2018 wef 01/02/2019]
+
+(c) to carry out, on a day‑to‑day basis, operations for the protection of the life, health or safety of individuals, whether or not arising out of a civil defence emergency.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (2) Without limiting the generality of subsection (1), the Force may exercise and perform all the following functions and duties:
 
@@ -464,9 +520,11 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 [32/2010 wef 01/02/2011]
 
-(g) provide, maintain, control and operate prescribed warning devices;
+(g) provide, maintain, control and operate prescribed civil defence emergency devices;
 
 [32/2010 wef 01/02/2011]
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (h) manage all public shelters including air-raid shelters and temporary shelters;
 
@@ -504,6 +562,10 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 (b) national servicemen enlisted in the Force;
 
+(ba) volunteer ex‑NSmen enrolled under section 9A;
+
+[Act 53 of 2018 wef 01/02/2019]
+
 (c) persons who are recruited to serve as auxiliary members; and
 
 (d) public officers who are serving in the Force.
@@ -524,9 +586,11 @@ CONSTITUTION, ORGANISATION AND ADMINISTRATION OF FORCE
 
 [32/2010 wef 01/02/2011]
 
-(3) The Deputy Commissioners, the Senior Assistant Commissioners and the Assistant Commissioners of Civil Defence shall have and may exercise all the powers conferred on the Commissioner by or under this Act, subject to such limitations as the Commissioner may see fit to impose.
+(3) Unless otherwise provided, the Deputy Commissioners, the Senior Assistant Commissioners and the Assistant Commissioners of Civil Defence shall have and may exercise all the powers conferred on the Commissioner by or under this Act, subject to such limitations as the Commissioner may see fit to impose.
 
 [32/2010 wef 01/02/2011]
+
+[Act 53 of 2018 wef 01/02/2019]
 
 ## PART III
 
@@ -536,11 +600,15 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 
 7\.—(1) The Minister may, appoint and enlist such number of officers and servicemen for the Force as he thinks fit.
 
-(2) The Commissioner may, in accordance with such conditions and subject to such qualifications or requirements as are prescribed or provided for by the regulations, recruit persons to serve in the auxiliary units of the Force on a part-time basis and confer any rank on any such auxiliary member.
+(2) The Commissioner may, in accordance with such conditions and subject to such qualifications or requirements as are prescribed or provided for by the regulations, recruit persons to serve in the auxiliary units of the Force on a part-time basis.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (3) Auxiliary members shall not be bound to serve continuously but shall be bound to render service for such periods as are prescribed by the regulations.
 
-(4) Auxiliary members of the Force may be paid allowances for their services.
+(4) The Minister may, from time to time, authorise such allowances to be paid to auxiliary members for their services.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (5) The Commissioner may at any time dismiss an auxiliary member from the Force without assigning any reason.
 
@@ -564,6 +632,42 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 
 [19/94]
 
+### Volunteer ex-NSmen
+
+9A\.—(1) The Commissioner may enrol under this section, as a volunteer ex‑NSman, any ex‑NSman who was enlisted as a national serviceman in the Force where —
+
+(a) the Commissioner wants that ex‑NSman to continue to serve in the Force; and
+
+(b) the ex‑NSman is offering his service.
+
+(2) The provisions of sections 14, 15, 21, 22, 23, 24, 25 and 30 of the Enlistment Act (Cap. 93) affecting any person who is liable for operationally ready national service apply (so far as relevant) to a volunteer ex‑NSman enrolled under this section as if the volunteer ex‑NSman were an individual liable for operationally ready national service, with such prescribed exceptions, modifications and adaptations as the differences between an operationally ready national serviceman and a volunteer ex‑NSman require.
+
+(3) The provisions of any other existing law that relate to an individual liable for operationally ready national service have effect as if any reference therein to any such individual also includes a reference to any volunteer ex‑NSman, with such prescribed exceptions, modifications and adaptations as the differences between this Part and that existing law require.
+
+(4) The Minister may, from time to time, authorise such emoluments to be paid to volunteer ex‑NSmen for their services.
+
+(5) In this section, “existing law” means any written law having effect as part of the law of Singapore immediately before the date of commencement of section 7 of the Civil Defence and Other Matters Act 2018.
+
+[Act 53 of 2018 wef 01/02/2019]
+
+### Appointments and promotions
+
+9B\.—(1) Subject to section 8, the Minister may do the following:
+
+(a) appoint or promote a member to the rank of lieutenant‑colonel and above;
+
+(b) reduce the rank of a member of the rank of lieutenant‑colonel and above.
+
+(2) Subject to section 8, the Commissioner may do the following:
+
+(a) appoint or promote a member to the rank of major and below;
+
+(b) reduce the rank of a member of the rank of major and below.
+
+(3) The Commissioner may delegate the power under subsection (2) to any officer of the rank of lieutenant‑colonel and above.
+
+[Act 53 of 2018 wef 01/02/2019]
+
 ### Discharge of national servicemen from Force
 
 10\. A member who is enlisted in the Force pursuant to the Enlistment Act shall be discharged —
@@ -579,6 +683,14 @@ ENLISTMENT AND DISCHARGE OF MEMBERS OF FORCE
 (iii) he ceases to be a person subject to the Enlistment Act.
 
 [19/94]
+
+### Discharge of volunteer ex-NSmen
+
+10A\.—(1) The Commissioner may, without notice, discharge any volunteer ex‑NSman.
+
+(2) Any volunteer ex‑NSman is entitled, except when a state of emergency or a state of civil defence emergency is in force or when volunteer ex‑NSmen are mobilised under section 113(1)(a), to be discharged from the Force after giving the Commissioner at least 3 months’ notice in writing of his intention to resign from the Force.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 ### Discharge of auxiliary members
 
@@ -612,9 +724,11 @@ Persons subject to this Act
 
 (b) officers and servicemen who are appointed to or enlisted in the Force under section 7(1).
 
-(2) National servicemen enlisted in the Force as either officers or servicemen who are rendering operationally ready national service shall be subject to this Act while on duty, in uniform or while under arrest, in custody or undergoing punishment or detention in accordance with the provisions of this Act.
+(2) National servicemen enlisted in the Force as either officers or servicemen who are rendering operationally ready national service and volunteer ex‑NSmen shall be subject to this Act while on duty, in uniform or while under arrest, in custody or undergoing punishment or detention in accordance with the provisions of this Act.
 
 [19/94]
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (3) Auxiliary members shall be subject to this Act while on duty, in uniform or while under arrest, in custody or undergoing punishment or detention in accordance with the provisions of this Act.
 
@@ -659,6 +773,18 @@ Liability of persons subject to this Act to be tried and punished for service of
 ### Trial and punishment of service offences under Act notwithstanding offender ceasing to be subject to Act
 
 18\.—(1) Subject to section 19, where a service offence under this Act has been committed, or is reasonably suspected of having been committed, by any person while subject to this Act, then in relation to that service offence he shall be treated, for the purposes of this Act relating to arrest, keeping in custody, investigation of charges, trial and punishment by a disciplinary officer including review and execution of sentences as continuing to be subject to this Act notwithstanding his ceasing at any time to be subject thereto.
+
+(1A) Subject to section 19, where a service offence under this Act has been committed, or is reasonably suspected of having been committed, by any person while subject to this Act, then the disciplinary officer or Disciplinary Board before whom the offence is triable may, under the authority of the Commissioner, order that person to report for trial for the offence as if that person continued to be subject to this Act despite the person ceasing at any time to be subject to this Act.
+
+[Act 53 of 2018 wef 01/02/2019]
+
+(1B) Any person who fails to comply with any order under subsection (1A) —
+
+(a) is deemed to have failed to comply with a lawful order within the meaning of section 35(1); and
+
+(b) is liable to be arrested, proceeded against and punished for an offence under section 35(1) as if the person continued to be subject to this Act.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (2) Where, while a person is in service custody by virtue of this section (whether before, during or after trial) he commits, or is reasonably suspected of having committed, an offence which if he were subject to this Act would be a service offence, then in relation to that offence or suspected offence he shall be treated, for the purposes of this Act mentioned in subsection (1) and the provisions thereof as to the dealing with charges by a disciplinary officer, as having been subject to this Act when the offence was committed or is suspected of having been committed and as continuing to be subject to this Act thereafter.
 
@@ -817,6 +943,20 @@ a provost officer, or a person lawfully exercising authority under or on behalf 
 (b) in the presence of a person of a higher rank uses threatening, insubordinate or insulting language about him,
 
 shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years or any other punishment authorised by this Act.
+
+### Refusing medical or dental examination or treatment
+
+32A\. Any person who, without reasonable excuse, does not submit to —
+
+(a) a medical or dental examination or test;
+
+(b) inoculation, vaccination or immunisation; or
+
+(c) medical or dental treatment,
+
+where required to by the Commissioner, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 6 months or to any other punishment authorised by this Act.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 ### Disobedience to command
 
@@ -1622,6 +1762,52 @@ CIVIL DEFENCE FORCE FUND
 
 (3) The Fund shall be controlled by the Commissioner and applied for the purposes of the welfare of members, civil defence volunteers and their families and for such other purposes as the Commissioner thinks fit.
 
+## PART XIA
+
+DAY‑TO‑DAY OPERATIONS
+
+[Act 53 of 2018 wef 01/02/2019]
+
+### Powers for day‑to‑day operations
+
+101A\.—(1) The Commissioner or any member authorised by the Commissioner may, if the action authorised by this section appears to him to be necessary for the discharge of the function in section 4(1)(c) —
+
+(a) enter upon and, if necessary, break into any place, building, premises or land;
+
+(b) remove from any place, vehicle, structure or thing impeding such operations and, to facilitate its removal, use such force as is reasonably necessary or break into any such vehicle;
+
+(c) remove, using reasonable force if necessary, any individual whose life, health or safety is, in his opinion, endangered;
+
+(d) stop individuals from entering, or close or cause to be closed to traffic, any road, street, path, private street, private way, service lane, waterway, right of way or access way or other way;
+
+(e) shut off or disconnect the supply of gas, fuel oil, water or electricity to any premises or order any person having the control of such supply to shut off or disconnect the supply;
+
+(f) require any individual whom he has reason to suspect has been exposed to any hazardous material in a hazardous materials incident to undergo such medical examination and medical treatment at such place or hospital as he may specify; and
+
+(g) seize any thing that is contaminated by any hazardous material as a result of a hazardous materials incident and dispose of the thing.
+
+(2) The Commissioner or any member authorised by the Commissioner may, for the purposes of facilitating the provision of urgent medical care to an individual whose identity is not known and who is unconscious or otherwise unable to communicate, take the individual’s fingerprints or other personal identifiers.
+
+[Act 53 of 2018 wef 01/02/2019]
+
+### Persons assisting Force
+
+101B\.—(1) The powers conferred by section 101A(1)(a) to (e) and (2) may also be exercised by the following persons:
+
+(a) any employee of an emergency ambulance service provider providing emergency ambulance services for the Force in the performance of a contract between the emergency ambulance service provider and the Government;
+
+(b) any regular serviceman or national serviceman enlisted with the Singapore Armed Forces who is attached to the Force to assist in the provision of emergency ambulance services by the Force.
+
+(2) An employee of an emergency ambulance service provider providing emergency ambulance services for the Force in the performance of a contract between the emergency ambulance service provider and the Government is, in relation to the employee’s performance of the employee’s duties in connection with the provision of the emergency ambulance services, taken to be a public servant for the purposes of the Penal Code (Cap. 224).
+
+[Act 53 of 2018 wef 01/02/2019]
+
+### Protection from personal liability
+
+101C\. No liability shall lie personally against the Commissioner or any member, or any person mentioned in section 101B who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
+
+[Act 53 of 2018 wef 01/02/2019]
+
 ## PART XII
 
 STATE OF CIVIL DEFENCE EMERGENCY
@@ -1652,13 +1838,135 @@ STATE OF CIVIL DEFENCE EMERGENCY
 
 (d) enter upon and, if necessary, break into any place, building, premises or land where he believes on reasonable grounds that it is necessary to do so for saving life or preventing injury or rescuing injured or endangered persons or for facilitating the carrying out of any urgent measures in respect of the relief of suffering and distress; and
 
-(e) restrict the movement of persons and close to traffic any road, street, motorway, private street, private way, service lane, right of way or access way or other way or close any public place.
+(e) restrict the movement of persons and close to traffic any road, street, path, private street, private way, service lane, waterway, right of way or access way or other way or close any public place.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (2) Any person who renders any assistance under subsection (1)(a) shall be entitled to fair and reasonable remuneration from the Commissioner, such claim to be made in accordance with the regulations and paid out of moneys appropriated by Parliament for the purpose.
 
 (3) Any person who suffers loss of or damage to his property by reason of the exercise of the powers conferred by subsection (1)(c) and (d) shall be entitled to fair and reasonable compensation for such loss or damage, such claim to be made in accordance with the regulations and paid out of moneys appropriated by Parliament for the purpose.
 
 (4) Any person who contravenes a direction lawfully given under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both.
+
+## PART XIIA
+
+PUBLIC WARNING SYSTEM
+
+[Act 53 of 2018 wef 01/02/2019]
+
+### Interpretation of this Part
+
+103A\.—(1) In this Part —
+
+“owner” —
+
+(a) in relation to any premises comprised in a strata title plan under the Land Titles (Strata) Act (Cap. 158), means —
+
+(i) in the case of a lot, the person who is registered as the subsidiary proprietor of the lot under that Act;
+
+(ii) in the case of a common property, the management corporation having control of that common property, or the person receiving any rent or charge for the maintenance and management of that common property; and
+
+(iii) in the case of a limited common property as defined in section 2(1) of the Building Maintenance and Strata Management Act (Cap. 30C), the subsidiary management corporation established by that Act having control of that limited common property, or the person receiving any rent or charge for the maintenance and management of that limited common property;
+
+(b) in relation to a building in a housing estate of the Housing and Development Board (called an HDB housing estate), means —
+
+(i) in the case of a flat, any owner of the flat as defined in section 2(1) of the Housing and Development Act (Cap. 129);
+
+(ii) in the case of the building’s common property in an HDB housing estate that is controlled, managed and maintained by a Town Council, that Town Council; and
+
+(iii) in the case of the building’s common property in an HDB housing estate that is not controlled, managed and maintained by a Town Council, the Housing and Development Board;
+
+(c) in relation to a subdivided building that is not mentioned in paragraph (a) or (b), means —
+
+(i) in the case of a lot, the person who is registered under the Land Titles Act (Cap. 157) as the proprietor of the fee simple, estate in perpetuity or leasehold estate of that lot; and
+
+(ii) in the case of the subdivided building’s common property, every person who is registered under the Land Titles Act as the proprietor of the fee simple, estate in perpetuity or leasehold estate of a lot in that building, or the person receiving any rent or charge for the maintenance and management of the common property;
+
+(d) in relation to any premises which are not a subdivided building mentioned in paragraph (a), (b) or (c), means any person who is registered under the Land Titles Act as the proprietor of the fee simple, estate in perpetuity or leasehold estate of those premises; and
+
+(e) in relation to any other premises or building, means the person for the time being receiving the rent of the premises or building, whether on the person’s own account or as agent, trustee or receiver, or who would receive such rent if the premises or building were let to a tenant, and includes the person whose name is entered in the Valuation List prepared under section 10 of the Property Tax Act (Cap. 254) as the owner of the premises or building, or a mortgagee in possession;
+
+“relevant premises” means any building or part of a building but does not include —
+
+(a) a residential building not exceeding such height as may be prescribed; and
+
+(b) such other type of building as may be prescribed;
+
+“working day” means any day other than a Saturday, Sunday or public holiday.
+
+(2) For the purposes of this Part, the height of a building is the distance, measured in a straight line on a vertical plane, from the lowest point of the building at ground level to the highest point of the building (including any structure fixed to the building).
+
+[Act 53 of 2018 wef 01/02/2019]
+
+### Provision of space to install prescribed civil defence emergency devices
+
+103B\.—(1) The Commissioner may by direction require the owner of any relevant premises to provide, at the owner’s expense and within such period as may be specified in the direction —
+
+(a) such space or facility within or on the premises specified in the direction; and
+
+(b) access to the premises,
+
+as will substantially assist the Commissioner in installing a prescribed civil defence emergency device.
+
+(2) To avoid doubt, the Commissioner may give a direction under subsection (1) even though the direction may prejudice the contractual obligations of the owner or occupier of the premises, whether the obligation relates to a contract made before, on or after the date of commencement of section 20 of the Civil Defence and Other Matters Act 2018.
+
+(3) No liability shall lie against any party to a contract made before, on or after the date of commencement of section 20 of the Civil Defence and Other Matters Act 2018 for or in relation to, any breach of the contract where the breach is solely attributable to, or occasioned by, the compliance by that party with any direction of the Commissioner under subsection (1).
+
+(4) Nothing in subsection (3) affects the operation of the Frustrated Contracts Act (Cap. 115).
+
+(5) The Commissioner may at any time vary, suspend or revoke the whole or any part of a direction under subsection (1).
+
+(6) Any owner who contravenes any direction under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.
+
+[Act 53 of 2018 wef 01/02/2019]
+
+### Power to enter premises for assessment, repair and maintenance
+
+103C\.—(1) The Commissioner may —
+
+(a) enter any relevant premises to assess whether the premises are suitable for installing a prescribed civil defence emergency device; and
+
+(b) enter any premises on which a prescribed civil defence emergency device is installed by the Commissioner to inspect or carry out works to repair or maintain the prescribed civil defence emergency device.
+
+(2) The Commissioner must not exercise the power under subsection (1)(a) or (b) in respect of any premises unless the Commissioner notifies the owner of the premises of the intention to exercise a power conferred by that subsection not less than 5 working days before the power is exercised.
+
+(3) Despite subsection (2), where the Commissioner has reason to believe that a civil defence emergency is likely to occur and urgent repairs to a prescribed civil defence emergency device installed on any relevant premises are needed, and —
+
+(a) entry into those premises has been refused or such refusal is apprehended; or
+
+(b) the Commissioner is, after reasonable efforts, unable to obtain the owner’s consent to enter the premises for any other reason,
+
+the Commissioner may enter the premises to carry out such urgent repairs to the prescribed civil defence emergency device at any time and without giving the owner of the premises notice of the Commissioner’s intention to do so.
+
+(4) The Commissioner may, in exercising the power under subsection (1)(a) or (b), take with the Commissioner such other persons as may be necessary.
+
+(5) The Commissioner may, in exercising the power under subsection (3), do all or any of the following:
+
+(a) take with the Commissioner such other persons as may be necessary;
+
+(b) break open any outer or inner door or window leading to the premises;
+
+(c) forcibly enter the premises and every part of the premises;
+
+(d) remove by force any obstruction to the entry;
+
+(e) remove or demolish any fixtures or fittings in the premises if the removal or demolition is necessary for the carrying out of urgent repairs to a prescribed civil defence emergency device.
+
+(6) The Commissioner’s powers under subsections (1) to (5) may be exercised by any officer or serviceman authorised by the Commissioner (called in this section an authorised person), and any reference to the Commissioner in those subsections includes a reference to such an authorised person.
+
+(7) Before entering the premises under subsection (1)(a) or (b), an authorised person must produce, if so required —
+
+(a) the authorised person’s original identity card or such identification card as the Commissioner may direct to be carried by the person as proof of the authorised person’s identity; and
+
+(b) some duly authenticated document showing the authorised person’s authority.
+
+[Act 53 of 2018 wef 01/02/2019]
+
+### Damage, etc., to prescribed civil defence emergency devices
+
+103D\. Any person who wilfully removes, relocates, destroys, damages or tampers with any prescribed civil defence emergency device installed by the Commissioner shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 ## PART XIII
 
@@ -1712,9 +2020,11 @@ order such number of members of the Force as to him seems expedient to proceed o
 
 [Act 14 of 2013 wef 01/09/2013]
 
-(7) No auxiliary member shall be liable to serve or proceed on duty outside Singapore unless he first consents to such service.
+(7) No volunteer ex‑NSman or auxiliary member shall be liable to serve or proceed on duty outside Singapore unless he first consents to such service.
 
 [32/2010 wef 01/02/2011]
+
+[Act 53 of 2018 wef 01/02/2019]
 
 ### Members of Force serving outside Singapore to remain subject to this Act
 
@@ -1824,15 +2134,25 @@ at the rates prescribed by the regulations and paid out of the Pension Fund esta
 
 112\. No action or proceeding shall lie or be brought against the Government, any officer or employee of the Government, a member of the Force or any other person acting under any direction given or purported to be given under this Act in respect of anything done or omitted to be done in good faith under and for the purposes of this Act during a state of civil defence emergency or a state of emergency.
 
-### Mobilisation of auxiliary members
+### Mobilisation of ex-NSmen or auxiliary members
 
-113\.—(1) During a state of emergency or a state of civil defence emergency, the Minister may by declaration mobilise all or any of the auxiliary members for continuous full-time service.
+113\.—(1) During a state of emergency or a state of civil defence emergency, the Minister may by declaration mobilise all or any of the following for continuous full‑time service:
+
+(a) volunteer ex‑NSmen;
+
+(b) auxiliary members.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (2) A declaration under subsection (1) shall be published in theGazetteas soon as possible.
 
-(3) Whenever an auxiliary member is mobilised for continuous full-time service, such member shall be bound to render continuous full-time service for such period as the Minister directs until the publication of a declaration in theGazettenotifying that the employment of auxiliary members on continuous full-time service is no longer required.
+(3) Whenever a volunteer ex‑NSman or an auxiliary member is mobilised for continuous full-time service, such member shall be bound to render continuous full-time service for such period as the Minister directs until the publication of a declaration in theGazettenotifying that the employment of volunteer ex‑NSmen or auxiliary members on continuous full-time service is no longer required.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 (4) Auxiliary members mobilised for continuous full-time service shall be paid such salaries and allowances as are prescribed or provided for by regulations.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 ### Section 14 of Government Proceedings Act shall apply to Force
 
@@ -1876,9 +2196,15 @@ at the rates prescribed by the regulations and paid out of the Pension Fund esta
 
 [32/2010 wef 01/02/2011]
 
-(p) the provision, storage and maintenance of essential foodstuff and equipment for the purposes of civil defence.
+(p) the provision, storage and maintenance of essential foodstuff and equipment for the purposes of civil defence;
 
 [32/2010 wef 01/02/2011]
+
+[Act 53 of 2018 wef 01/02/2019]
+
+(q) prescribing anything which may be prescribed.
+
+[Act 53 of 2018 wef 01/02/2019]
 
 ## LEGISLATIVE HISTORY
 
@@ -1934,6 +2260,10 @@ This Legislative History is provided for the convenience of users of the Civil D
 ||Date of First Reading|14 January 2013 (Bill No. 1/2013 published on 14 January 2013)|
 ||Date of Second and Third Readings|8 April 2013|
 ||Date of commencement|1 September 2013 (with exceptions of sections 40 and 41(b))|
+|10.|**Act 53 of 2018—Civil Defence and Other Matters Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 44/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|20 November 2018|
+||Date of commencement|1 February 2019|
 ## COMPARATIVE TABLE
 
 Civil Defence Act
