@@ -180,9 +180,7 @@ the Controller may, in his discretion, issue directions in writing to the develo
 
 [47/2004 wef 01/04/2005]
 
-(cb) prescribe any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and modify the application of any of the provisions of this Act in relation to staged developments;
-
-[47/2004 wef 01/04/2005]
+(cb) [Deleted by Act 35 of 2017 wef 01/02/2019]
 
 (d) regulate the form or forms of an agreement for the sale and purchase of any commercial property; and
 
@@ -264,3 +262,7 @@ This Legislative History is provided for the convenience of users of the Sale of
 ||Date of First Reading|12 February 2015 (Bill No. 6/2015 published on 12 February 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|8 May 2015|
+|8.|**Act 35 of 2017—Building Maintenance and Strata Management (Amendment) Act 2017**|
+||Date of First Reading|1 August 2017 (Bill No. 29/2017 published on 1 August 2017)|
+||Date of Second and Third Readings|11 September 2017|
+||Date of commencement|1 February 2019|
