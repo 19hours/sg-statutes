@@ -38,7 +38,7 @@
 
 - [12 Plan of redevelopment](#Plan-of-redevelopment)
 
-- [12A Staged developments](#Staged-developments)
+- [12A (Repealed)](#Repealed)
 
 - [13 Common property](#Common-property)
 
@@ -386,13 +386,51 @@ PRELIMINARY
 
 (i) not comprised in any lot or proposed lot in that strata title plan; and
 
-(ii) used or capable of being used or enjoyed by occupiers of 2 or more lots or proposed lots; or
+(ii) used or capable of being used or enjoyed by occupiers of 2 or more lots or proposed lots;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 (b) in relation to any other land and building, such part of the land and building —
 
 (i) not comprised in any non-strata lot; and
 
-(ii) used or capable of being used or enjoyed by occupiers of 2 or more non-strata lots within that land or building;
+(ii) used or capable of being used or enjoyed by occupiers of 2 or more non-strata lots within that land or building; or
+
+[Act 35 of 2017 wef 01/02/2019]
+
+(c) in relation to any land and building mentioned in paragraph (a) or (b), any of the following whether or not comprised in a lot, proposed lot or non‑strata lot:
+
+(i) the pipes, wires, cables or ducts which are used, or capable of being used or enjoyed, by occupiers of 2 or more lots, proposed lots or non‑strata lots (as the case may be) within that land or building, or are used or capable of being used for the servicing or enjoyment of the common property;
+
+(ii) the cubic space enclosed by a structure enclosing pipes, wires, cables or ducts mentioned in sub‑paragraph (i);
+
+(iii) any structural element of the building;
+
+(iv) the waterproof membrane attached to an external wall or a roof;
+
+Examples
+
+(a)
+
+A foundation, load‑bearing wall, column or beam, a shear core, strut, ground anchor, slab (not including any layer that is the underlayment or the flooring finishing), truss and common staircase.
+
+(b)
+
+An external wall, or a roof or façade of a building which is used or enjoyed, or capable of being used or enjoyed, by occupiers of 2 or more lots, proposed lots or non‑strata lots.
+
+(c)
+
+A garden, sporting or recreational facility, car park or parking area for other vehicles, none of which are comprised in a lot, proposed lot or non‑strata lot.
+
+(d)
+
+A central air‑conditioning system and its appurtenances, and a fire sprinkler protection system and its appurtenances.
+
+(e)
+
+Any chute, pipe, wire, cable, duct or facility for the passage or provision of water, sewage, drainage, gas, oil, electricity, telephone, radio, television, garbage, heating or cooling systems, or any other similar services.
+
+[Act 35 of 2017 wef 01/02/2019]
 
 “company” includes —
 
@@ -444,7 +482,7 @@ PRELIMINARY
 
 “special resolution” has the same meaning as in the Building Maintenance and Strata Management Act;
 
-“staged development” and “staged development contract” have the same respective meanings as in the Building Maintenance and Strata Management Act;
+[Deleted by Act 35 of 2017 wef 01/02/2019]
 
 “strata roll” has the same meaning as in the Building Maintenance and Strata Management Act;
 
@@ -461,6 +499,10 @@ PRELIMINARY
 and includes a strata title plan for redevelopment of any lot in a strata title plan registered under this Act;
 
 “stratum” means any part of land consisting of a space of any shape below, on or above the surface of the land, or partly below and partly above the surface of the land, the dimensions of which are delineated;
+
+“structural element” has the same meaning as in section 2(1) of the Building Maintenance and Strata Management Act;
+
+[Act 35 of 2017 wef 01/02/2019]
 
 “subdivided building” means —
 
@@ -716,29 +758,7 @@ Flats not to be sold unless schedule of strata units is filed with and accepted 
 
 [37/2004]
 
-### Staged developments
-
-\*12A\.—(1) On the completion of every stage of a stage development in respect of which a strata title plan is registered or deemed registered under this Act, and on final completion and conclusion of the entire staged development, the owner developer thereof shall, within the time prescribed, prepare an amended strata title plan with the revised schedule of strata units for the staged development that has been last accepted under section 11 of the Building Maintenance and Strata Management Act (Cap. 30C).
-
-[47/2004]
-
-(2) Every amended strata title plan with the revised schedule of strata units under subsection (1) shall be lodged with the Chief Surveyor for approval under the Boundaries and Survey Maps Act (Cap. 25).
-
-[47/2004]
-
-(3) Where the amended strata title plan referred to in subsection (1) has been lodged with and approved by the Chief Surveyor under the Boundaries and Survey Maps Act, the Registrar shall make the appropriate amendment and entry on the relevant volumes and folios of the land-register and subsidiary land-register comprising the lots shown in the amended strata title plan in regard to the share value and lot numbers of the lot or lots affected.
-
-[47/2004]
-
-(4) The Minister may make regulations on any matter which by this Act is required or permitted to be prescribed for or in relation to staged developments, and may in such regulations modify the application of any of the provisions of this Act in relation to staged developments.
-
-[47/2004]
-
-(5) Every regulation made under subsection (4) shall be presented to Parliament as soon as possible after publication in theGazette.
-
-[47/2004]
-
-\*Section 12A will come into operation when item (5) in the Third Schedule to the Building Maintenance and Strata Management Act (Cap. 30C) is brought into operation. The section will be further amended when section 17(e) to (j) of the Statutes (Miscellaneous Amendments) (No. 2) Act 2005 (Act 42 of 2005) is brought into operation.
+12A\. [Repealed by Act 35 of 2017 wef 01/02/2019]
 
 ### Common property
 
@@ -3616,6 +3636,10 @@ This Legislative History is provided for the convenience of users of the Land Ti
 |||(section 24 — Amendment of Land Titles (Strata) Act)|
 |30.|**G.N. No. S 680/2013—Land Titles (Strata) Act (Amendment of Fourth Schedule) Order 2013**|
 ||Date of commencement|7 November 2013|
+|31.|**Act 35 of 2017—Building Maintenance and Strata Management (Amendment) Act 2017**|
+||Date of First Reading|1 August 2017 (Bill No. 29/2017 published on 1 August 2017)|
+||Date of Second and Third Readings|11 September 2017|
+||Date of commencement|1 February 2019|
 ## COMPARATIVE TABLE
 
 Land Titles (Strata) Act
