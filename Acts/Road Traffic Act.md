@@ -1578,7 +1578,9 @@ and ending with the last day of the month during which the offence was committed
 
 (a) for any period for which tax under this Act in respect of the vehicle has been paid and has not been repaid in consequence of the surrender of a licence;
 
-(b) for any calendar month in respect of which he has, in accordance with the rules, given notice to the Registrar that the vehicle will not be used or kept on a public road during that month or part thereof; and
+(b) for any period in respect of which he has, in accordance with the rules, given notice to the Registrar that the vehicle will not be used or kept on a public road during that period; and
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (c) for any period by reference to which there was calculated an amount ordered to be paid by him as a fine in pursuance of section 15(b).
 
@@ -7041,6 +7043,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of Second and Third Readings|10 September 2018|
 ||Date of commencement|1 May 2018|
 |||2 January 2019|
+|84.|**Act 29 of 2018—Customs (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018]|
+|||(Bill No. 26/2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|18 February 2019|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
