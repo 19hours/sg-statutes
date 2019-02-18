@@ -46,9 +46,13 @@
 
 - [17 Tax on motor vehicles using heavy fuel oil, etc.](#Tax-on-motor-vehicles-using-heavy-fuel-oil-etc)
 
+- [17A Exemption from, and other changes in liability to, special tax](#Exemption-from-and-other-changes-in-liability-to-special-tax)
+
+- [17B Presumptions relating to special tax](#Presumptions-relating-to-special-tax)
+
 - [18 Recovery of special tax in arrears](#Recovery-of-special-tax-in-arrears)
 
-- [19 Return of duties, taxes, fees or other charges overpaid or erroneously paid](#Return-of-duties-taxes-fees-or-other-charges-overpaid-or-erroneously-paid)
+- [19 Claims for duties, taxes, fees and other charges overpaid or erroneously paid](#Claims-for-duties-taxes-fees-and-other-charges-overpaid-or-erroneously-paid)
 
 - [20 Payment of duty, etc., short levied or erroneously refunded](#Payment-of-duty-etc-short-levied-or-erroneously-refunded)
 
@@ -100,7 +104,7 @@
 
 - [41 Particulars of goods exported to be furnished](#Particulars-of-goods-exported-to-be-furnished)
 
-- [42 Liability in respect of duty for goods unaccounted for](#Liability-in-respect-of-duty-for-goods-unaccounted-for)
+- [42 Liability in respect of duty for goods unaccounted for, etc.](#Liability-in-respect-of-duty-for-goods-unaccounted-for-etc)
 
 [**Part V GENERAL PROVISIONS AFFECTING AIRCRAFT AND VESSELS IN TERRITORIAL WATERS**](#Part-V)
 
@@ -402,7 +406,7 @@ PRELIMINARY
 
 “authentication code” means any identification or identifying code, password or any other authentication method or procedure which has been assigned to a registered user of the computer service referred to in section 86 for the purposes of identifying and authenticating the access to and use of the computer service by the registered user;
 
-“beer” includes ale, stout, porter, shandy and all other fermented liquors made from malt, and cider and perry;
+[Deleted by Act 29 of 2018 wef 18/02/2019]
 
 “bottle” includes any container for intoxicating liquors capable of being corked or sealed;
 
@@ -524,7 +528,9 @@ as certified by an analyst employed by such laboratory as the Director-General m
 
 “preventive vessel” means any vessel employed for the prevention of smuggling or for any other purpose relating to this Act;
 
-“prohibited goods” means goods the import or export of which is prohibited, either conditionally or absolutely, by notification made under section 38 or by any other written law for the time being in force in Singapore;
+“prohibited goods” means goods the import or export of which is prohibited, either conditionally or absolutely, by notification made under section 38;
+
+[Act 29 of 2018 wef 18/02/2019]
 
 “proper officer of customs” means any officer of customs acting in the fulfilment of his duties under this Act, whether such duties are assigned to him specially or generally or expressly or by implication;
 
@@ -602,9 +608,11 @@ APPOINTMENT OF OFFICERS
 
 ### Powers of Director-General to delegate
 
-5\.—(1) The Director-General may, with the approval of the Minister, confer on any senior officer of customs appointed under section 4(4) all or any of the powers conferred on the Director-General by this Act, subject to such conditions or restrictions as the Director-General may think fit.
+5\.—(1) The Director-General may confer on any senior officer of customs appointed under section 4(4) all or any of the powers conferred on the Director-General by this Act, subject to such conditions or restrictions as the Director-General may think fit.
 
 [4/2003]
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (2) The Director-General may appoint such number of other officers of customs as he may think fit for the purpose of carrying out the provisions of this Act.
 
@@ -660,9 +668,11 @@ LEVYING OF DUTY AND TAX
 
 ### Power of Director-General to waive duty, etc.
 
-11\. The Director-General may waive the payment, or recovery of payment, of the whole or any part of any customs duties, excise duties, taxes, fees or other charges, except that the amount which may be waived shall not exceed $20 or such other amount as the Minister may by order prescribe.
+11\. The Director-General or an officer of customs authorised by the Director‑General for the purpose of this section may waive the payment, or recovery of payment, of the whole or any part of any customs duties, excise duties, taxes, fees or other charges, except that the amount which may be waived shall not exceed $20 or such other amount as the Minister may by order prescribe.
 
 [4/2003]
+
+[Act 29 of 2018 wef 18/02/2019]
 
 ### Measuring and testing by proper officers of customs
 
@@ -694,9 +704,15 @@ LEVYING OF DUTY AND TAX
 
 [3/2008 wef 04/04/2008]
 
-(3) In granting an exemption or directing a remission or refund, the Minister may impose such conditions as he may consider fit.
+(2A) An exemption under subsection (2)(a) need not be published in theGazette.
+
+[Act 29 of 2018 wef 18/02/2019]
+
+(3) In granting an exemption or directing a remission or refund, the Minister may impose such conditions (including, for an exemption, conditions subsequent) as he may consider fit.
 
 [4/2003]
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (4) Any goods in respect of which an exemption from the payment of customs duties, excise duties, taxes, fees or other charges has been granted under subsection (1) or (2) shall be —
 
@@ -760,7 +776,9 @@ unless notice in writing of the claim has been given at or before the time of th
 
 (a) of such an amount as the Minister may prescribe and the Minister may prescribe different rates for motor vehicles of different classes, categories or descriptions or motor vehicles used for different purposes;
 
-(b) chargeable by reference to such annual or half-yearly rate as the Minister may prescribe; and
+(b) chargeable by reference to such tax period as the Minister may prescribe; and
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (c) payable in advance at such time and in such manner as the Minister may prescribe.
 
@@ -770,9 +788,7 @@ unless notice in writing of the claim has been given at or before the time of th
 
 [3/2008 wef 04/04/2008]
 
-(3) The Minister may prescribe the manner and circumstances for the refund of or exemption from the special tax.
-
-[10/92]
+(3) [Deleted by Act 29 of 2018 wef 18/02/2019]
 
 (4) For the purposes of the special tax, a motor vehicle shall be deemed —
 
@@ -782,23 +798,143 @@ unless notice in writing of the claim has been given at or before the time of th
 
 [10/92]
 
-(5) A person who for any period keeps a motor vehicle in respect of which the special tax has at any time become chargeable shall, whether or not it is still a mechanically-propelled vehicle, be liable to pay the special tax in respect of the motor vehicle for that period, except that he shall not be so liable for any period in respect of which he has given notice to the Registrar under the Road Traffic Act (Cap. 276) that the motor vehicle will not be used or kept on a road during such period.
+(5) Subject to subsection (5A), a person who for any period keeps a motor vehicle in respect of which the special tax has at any time become chargeable is, whether or not the motor vehicle is still a mechanically‑propelled vehicle during the period, liable to pay the special tax on the motor vehicle for that period.
+
+[Act 29 of 2018 wef 18/02/2019]
+
+(5A) The period mentioned in subsection (5) for which the person is liable to pay the special tax, does not include any period notified by the person to the Registrar under the Road Traffic Act (Cap. 276) as a period when the motor vehicle will not be used or kept on a public road (called in this section the notified period).
+
+[Act 29 of 2018 wef 18/02/2019]
+
+(5B) However, the person is not exempt from liability to pay the special tax by virtue of subsection (5A) if, at any time during the notified period, the motor vehicle is used or kept on a public road —
+
+(a) by the person; or
+
+(b) with the consent of the person,
+
+and there is no vehicle licence in force for the motor vehicle at that time.
 
 [10/92]
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (6) No motor vehicle to which this section applies shall be used —
 
 (a) after the latest date appointed for payment of the special tax until the tax has been paid; and
 
-(b) during any period in respect of which a refund of any such tax has been made.
+(b) at any time during the notified period.
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (7) If any motor vehicle to which this section applies is knowingly used in contravention of subsection (6), the person driving the vehicle or the owner thereof shall be guilty of an offence.
 
 (8) The Registrar shall for the purposes of this section have all the powers of the Director-General under this Act.
 
+(9) In this section, “tax period” means the annual or half-yearly period by reference to which the special tax is chargeable under this section.
+
+[Act 29 of 2018 wef 18/02/2019]
+
+### Exemption from, and other changes in liability to, special tax
+
+17A\.—(1) The Minister may —
+
+(a) prescribe an exemption from section 17 (including from the special tax chargeable under section 17 or any part of the special tax), for any motor vehicle according to class, category, description or use; or
+
+(b) exempt, in any particular case, any motor vehicle from section 17 (including from the special tax or part of the special tax).
+
+(2) The Minister may prescribe such conditions (including conditions subsequent) that the Minister thinks fit on an exemption under subsection (1), and the special tax becomes payable if any such condition is contravened.
+
+(3) An exemption under subsection (1)(b) need not be published in theGazette.
+
+(4) Where the Minister prescribes under section 17(2) a new rate of special tax (called in this section the new rate) in place of an existing rate (called in this section the old rate), the Minister may further prescribe under section 17(2) that the new rate —
+
+(a) only applies to tax periods that commence after the time the regulations prescribing the new rate come into operation (called in this section the commencement time); or
+
+(b) applies not only for the tax periods mentioned in paragraph (a), but also to any current tax period.
+
+(5) Where, in accordance with subsection (4)(b), the new rate applies to a current tax period in respect of a motor vehicle, then —
+
+(a) if the old rate is higher than the new rate, the special tax for that current tax period is reduced by the amount in subsection (6); and
+
+(b) if the old rate is lower than the new rate, the special tax for that current tax period is increased by the amount in subsection (6).
+
+(6) For the purpose of subsection (5), the amount is (A – B) × C, where —
+
+(a) A is the higher of the following amounts:
+
+(i) the special tax that would have been payable for the whole of the current tax period at the old rate;
+
+(ii) the special tax that would have been payable for the whole of the current tax period at the new rate;
+
+(b) B is the lower of the following amounts:
+
+(i) the special tax that would have been payable for the whole of the current tax period at the old rate;
+
+(ii) the special tax that would have been payable for the whole of the current tax period at the new rate; and
+
+(c) C is the proportion which the part of the current tax period that starts from the commencement time up to the end of the period, bears to the whole of the period.
+
+(7) For the purpose of this section and section 17, the Minister may prescribe the following:
+
+(a) where there is an overpayment of the special tax on a motor vehicle due to an exemption from, or a reduction in the rate of, the special tax, or for any other reason —
+
+(i) the time when the refund may be given; and
+
+(ii) the manner in which the refund may be given, including by any or a combination of any of the following:
+
+(A) as a rebate or reduction of any amount of the special tax that is payable or remains unpaid for any tax period in respect of the motor vehicle;
+
+(B) by setting off any amount of the refund against any tax, levy or fee payable under the Road Traffic Act (Cap. 276) in respect of the motor vehicle;
+
+(b) where the special tax becomes payable because of a breach of a condition subsequent of an exemption or pursuant to section 17(5B), or additional special tax is payable due to an increase in the rate of special tax —
+
+(i) the time when the special tax must be paid by the person liable for the same; and
+
+(ii) the manner of the payment, including by way of setting off any amount of the payment against any sum due and owing to the person under this Act or the Road Traffic Act;
+
+(c) any matter necessary for or incidental to the administration of this section and section 17.
+
+(8) The Minister may, for the purposes of subsections (1), (2), (4) and (7), prescribe different provisions in relation to motor vehicles of different classes, categories or descriptions or motor vehicles used for different purposes.
+
+(9) Despite anything in the Road Traffic Act, any tax, levy, fee or sum under that Act against which a set-off is effected pursuant to regulations made under subsection (7)(a)(ii) or (b)(ii), is treated as having been paid to the extent of the set‑off.
+
+(10) Regulations made for the purposes of subsection (7)(b) do not affect the operation of section 18.
+
+(11) Section 19 does not apply to a reduction in liability for special tax under this section or section 17, or to any refund arising out of the reduction.
+
+(12) To avoid doubt, section 13 does not apply to any special tax chargeable under section 17.
+
+(13) In this section —
+
+“current tax period” means a tax period in which a commencement time falls;
+
+“tax period” has the same meaning as in section 17(9).
+
+[Act 29 of 2018 wef 18/02/2019]
+
+### Presumptions relating to special tax
+
+17B\.—(1) For the purpose of section 17(5), it is presumed, until the contrary is proved, that a person keeps a motor vehicle if it is proved —
+
+(a) for a motor vehicle registered under the Road Traffic Act (Cap. 276), that the person is, at the material time, recorded as the owner of that motor vehicle in a register of vehicles maintained by the Registrar for the purposes of section 10 of that Act;
+
+(b) for a motor vehicle the registration of which under the Road Traffic Act is cancelled or has lapsed under that Act, that the person is last recorded as the owner of that motor vehicle in such register of vehicles; or
+
+(c) for a motor vehicle that is not registered under the Road Traffic Act and is not a motor vehicle mentioned in paragraph (b), that the person has a legal right to possession of the motor vehicle (including any person who has the use of the motor vehicle under a lease or hire-purchase agreement, but not the lessor while the motor vehicle is being leased under any such agreement).
+
+(2) For the purpose of section 17(5B), the consent mentioned in that provision is presumed to have been given unless the contrary is shown.
+
+[Act 29 of 2018 wef 18/02/2019]
+
 ### Recovery of special tax in arrears
 
-18\.—(1) Any sum payable in respect of the special tax levied under section 17 which remains due and unpaid on the day when it should have been paid in advance shall be deemed to be in arrears for the purposes of this section and may be recovered in the manner as provided in this Act.
+18\.—(1) Any sum payable in respect of the special tax levied under section 17 or 17A is considered to be in arrears for the purposes of this section and may be recovered in the manner provided in this Act, if —
+
+(a) the sum remains due and unpaid on the day when it should have been paid in advance under section 17(2); or
+
+(b) the sum remains due and unpaid on the day when it should have been paid under regulations made for the purpose of section 17A(7)(b)(i).
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (2) For the recovery of arrears of the special tax, the Registrar —
 
@@ -828,25 +964,53 @@ unless notice in writing of the claim has been given at or before the time of th
 
 [10/92]
 
-### Return of duties, taxes, fees or other charges overpaid or erroneously paid
+### Claims for duties, taxes, fees and other charges overpaid or erroneously paid
 
-19\.—(1) It shall be lawful for the Director-General, if it is proved to his satisfaction that —
+19\.—(1) Except as provided in this section, no person is entitled to any refund or return of any money that —
 
-(a) any money has been overpaid or erroneously paid as customs duties, excise duties, taxes, fees or other charges; or
+(a) was overpaid or erroneously paid as customs duties, excise duties, taxes, fees or other charges under this Act; or
 
-(b) any money was erroneously collected for the composition of offences under this Act,
+(b) was erroneously collected for the composition of offences under this Act.
 
-to order the refund of the money so overpaid or erroneously paid.
+[Act 29 of 2018 wef 18/02/2019]
 
-[33/2000]
+(2) A person who overpaid or erroneously paid, or who was the subject of any erroneous collection, mentioned in subsection (1) may make a claim in writing to the Director‑General for the refund or return of any money overpaid, erroneously paid or erroneously collected.
 
-(2) No such refund shall be allowed unless a claim in respect thereof is made in writing within one year after the overpayment or erroneous payment was made.
+[Act 29 of 2018 wef 18/02/2019]
+
+(3) A refund or return of the money to a person under subsection (2) may be made only if —
+
+(a) the person makes the claim within 5 years after the overpayment, erroneous payment or erroneous collection; and
+
+(b) the Director‑General is satisfied of the overpayment, erroneous payment or erroneous collection.
+
+[Act 29 of 2018 wef 18/02/2019]
 
 ### Payment of duty, etc., short levied or erroneously refunded
 
-20\.—(1) Where any customs duty, excise duty, tax, fee or other charge under this Act has been short levied or erroneously refunded for any reason or owing to any cause, the person who should have paid the amount short levied or to whom the refund has erroneously been made shall pay the deficiency or repay the amount erroneously refunded to him on demand being made within one year from the date of the short levy or refund.
+20\.—(1) Where any customs duty, excise duty, tax, fee or other charge under this Act has been short levied or erroneously refunded for any reason or owing to any cause, the person who should have paid the amount short levied or to whom the refund has erroneously been made shall pay the deficiency or repay the amount erroneously refunded, to the Director-General on a valid demand being made.
 
 [33/2000]
+
+[Act 29 of 2018 wef 18/02/2019]
+
+(1A) A demand is valid under subsection (1) if it satisfies the following:
+
+(a) it is in writing;
+
+(b) it is made within 5 years after the date of payment of the duty, tax, fee or other charge stated in the demand as having been short levied or erroneously refunded;
+
+(c) it specifies —
+
+(i) the amount of the short levy or erroneous refund that the Director‑General requires to be paid or repaid; or
+
+(ii) the circumstances or the goods in relation to which the Director‑General has reason to believe the short levy or erroneous refund arose.
+
+[Act 29 of 2018 wef 18/02/2019]
+
+(1B) Subsection (1A)(b) does not apply if the short levy or erroneous refund was the result of fraud or evasion on the part of the person liable to pay the short levy, or who claimed for or to be entitled to the refund erroneously made, as the case may be.
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (2) Without prejudice to any other remedy for the recovery of the amount due, any dutiable goods belonging to that person which may be in customs control may be detained until the deficiency is paid or the refund is repaid, as the case may be.
 
@@ -1090,11 +1254,13 @@ except under and in accordance with the conditions contained in a permit issued 
 
 (i) the Minister may by order prescribe; or
 
-(ii) the Director-General may, subject to any general or special directions of the Minister, determine,
+(ii) the Director-General or an officer of customs authorised by the Director‑General for the purpose of this subsection may, subject to any general or special directions of the Minister, determine,
 
 and which is in the possession or in the baggage of any person arriving in Singapore;
 
 [3/2008 wef 04/04/2008]
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (d) of motor fuel or petroleum for use in the propulsion of a motor vehicle or an aircraft which —
 
@@ -1160,6 +1326,10 @@ make personally or by his agent to the proper officer of customs a declaration, 
 
 38\.—(1) The Minister may, by notification in theGazette, prohibit, absolutely or conditionally, the importation into, or exportation from, Singapore of such dutiable goods as are specified in the notification.
 
+(1A) To avoid doubt, the dutiable goods that may be specified in the notification include goods whose import or export is prohibited, absolutely or conditionally, under any other written law.
+
+[Act 29 of 2018 wef 18/02/2019]
+
 (2) If any question arises as to whether any particular goods are or are not included in a class of goods appearing in a notification made under subsection (1), that question shall be decided by the Director-General.
 
 ### Particulars of goods inwards to be furnished
@@ -1218,7 +1388,7 @@ the master, owner or agent of the vessel or the pilot, owner or agent of the air
 
 [4/2003]
 
-### Liability in respect of duty for goods unaccounted for
+### Liability in respect of duty for goods unaccounted for, etc.
 
 42\.—(1) All dutiable goods unshipped or landed in a free trade zone or approved landing place, or deposited in a transit warehouse, shall, until —
 
@@ -1234,15 +1404,43 @@ be at the risk of the master, owner or agent of the vessel or the pilot, owner o
 
 [23/93]
 
-(3) Notwithstanding the provisions of any written law to the contrary, where dutiable goods have been received for storage by —
+(3) Despite the provisions of any written law to the contrary, where any dutiable goods have been received for storage by —
 
-(a) the authority administering the free trade zone; or
+(a) the authority administering a free trade zone; or
 
-(b) the occupier or operator of the premises in which the goods are stored,
+(b) the occupier or operator of the premises in which the goods are stored within a free trade zone,
 
-the authority, occupier or operator shall be liable to pay the duty on such of the goods as are not accounted for to the satisfaction of a senior officer of customs as if those goods had been imported.
+then, the authority, occupier or operator is liable to pay the customs duty or excise duty on such of the goods as are not accounted for to the satisfaction of a senior officer of customs, as if those goods had been imported.
+
+[Act 29 of 2018 wef 18/02/2019]
+
+(3A) Despite the provisions of any written law to the contrary, where any dutiable goods landed in a free trade zone are used or consumed in the free trade zone, the following persons are liable to pay the customs duty or excise duty on the goods so used or consumed, as if the goods had been imported:
+
+(a) subject to paragraph (b), every relevant person mentioned in subsection (3B) at whose risk the goods remained under subsection (1);
+
+(b) if, at the time of their use or consumption, the dutiable goods were stored by —
+
+(i) the authority administering the free trade zone; or
+
+(ii) the occupier or operator of any premises within the free trade zone,
+
+the authority, occupier or operator, as the case may be.
+
+[Act 29 of 2018 wef 18/02/2019]
+
+(3B) In subsection (3A), a relevant person is —
+
+(a) in the case of a vessel — the master, owner or agent or person authorised under section 39(2); and
+
+(b) in the case of an aircraft — the pilot, owner or agent or person authorised under section 39(2).
+
+[Act 29 of 2018 wef 18/02/2019]
+
+(3C) For the purpose of calculating the customs duty or excise duty under subsections (3) and (3A), the rate of duty and the valuation, if any, applicable to the goods are those in force on the date the goods were brought into the free trade zone.
 
 [23/93]
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (4) For the purpose of subsection (1) and section 45 —
 
@@ -1251,6 +1449,8 @@ the authority, occupier or operator shall be liable to pay the duty on such of t
 (b) the value of any grade of motor spirit which is being retailed in Singapore under a trade name or trade mark shall be determined in accordance with section 23.
 
 [24/81; 31/93; 33/2000]
+
+[Act 29 of 2018 wef 18/02/2019]
 
 ## PART V
 
@@ -3016,13 +3216,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Motor vehicle leaving Singapore without prescribed amount of motor fuel
 
-136\.—(1) Except with the written permission of the Director-General, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle or with that motor vehicle in a vessel without such minimum amount of motor fuel in such of its fuel supply tanks as the Minister may by order prescribe\*shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
+136\.—(1) Except with the written permission of the Director-General or an officer of customs authorised by the Director‑General for the purpose of this section, any person, being in charge of a motor vehicle registered under the Road Traffic Act (Cap. 276), who leaves or attempts to leave Singapore in that motor vehicle or with that motor vehicle in a vessel without such minimum amount of motor fuel in such of its fuel supply tanks as the Minister may by order prescribe\*shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
 \*The minimum amount of motor spirit in the fuel supply tank of a motor vehicle referred to in section 136(1) shall be three-quarters of the total capacity of the fuel supply tank.SeeO 6, Cap. 70 with effect from 4th February 1991.
 
 [19/89; 12/91; 23/93]
 
 [Act 25 of 2011 wef 01/01/2012]
+
+[Act 29 of 2018 wef 18/02/2019]
 
 (2) For the purposes of subsection (1) —
 
@@ -3034,11 +3236,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) the proper officer of customs may measure or otherwise ascertain the quantity of motor fuel carried in a fuel supply tank of any motor vehicle registered under the Road Traffic Act.
 
+(3) To avoid doubt, written permission under subsection (1) may be given to enable a person to leave Singapore without contravening that subsection, after the person has attempted to leave Singapore in contravention of that subsection, and without affecting any liability of the person for such attempt.
+
 [136A
 
 [23/93; 4/2003]
 
 [Act 25 of 2011 wef 01/01/2012]
+
+[Act 29 of 2018 wef 18/02/2019]
 
 ### Penalty for assaulting or obstructing officers of customs, rescuing goods, resisting arrest and escaping from custody
 
@@ -3628,6 +3834,11 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|10 October 2018|
+|41.|**Act 29 of 2018—Customs (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018]|
+|||(Bill No. 26/2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|18 February 2019|
 ## COMPARATIVE TABLE
 
 Customs Act
