@@ -1886,27 +1886,13 @@ INSTITUTIONS OF A PUBLIC CHARACTER AND SECTOR ADMINISTRATORS
 
 40A\. In this Part, unless the context otherwise requires —
 
-“institution of a public character” means an institution or fund in Singapore which is —
+“institution of a public character” means a registered charity or an exempt charity in Singapore —
 
-(a) a hospital not operated or conducted for profit;
+(a) that is approved as an institution of a public character by the Minister, Commissioner or any Sector Administrator on the application of the charity; or
 
-(b) a public or benevolent institution not operated or conducted for profit;
+(b) which is deemed as an institution of a public character under any written law;
 
-(c) a public authority or society not operated or conducted for profit and which is engaged in research or other work connected with the causes, prevention or cure of disease in human beings;
-
-(d) a university or a public fund for the establishment, maintenance, enlargement or improvement of a university;
-
-(e) an educational institution not operated or conducted for profit, or a public fund for the establishment, maintenance, enlargement or improvement of such an educational institution;
-
-(f) a public or private fund for the provision, establishment or endowment of a scholarship, exhibition or prize in a university, or an educational institution not operated or conducted for profit;
-
-(g) a public fund established and maintained for the relief of distress among members of the public;
-
-(h) an institution which is established for charitable, benevolent or philanthropic purposes only; or
-
-(i) an organisation not operated or conducted for profit which is engaged in or connected with the promotion of culture or the arts or with the promotion of sports,
-
-which is approved as an institution of a public character by the Minister, Commissioner or any Sector Administrator on the application of the institution, or which is deemed as an institution of a public character under any written law;
+[Act 2 of 2018 wef 01/03/2019]
 
 “sector”, in relation to a Sector Administrator, means the class or classes of charities or institutions of a public character that the Minister has by notice published in theGazettedesignated as under the supervision of that Sector Administrator;
 
@@ -1956,27 +1942,45 @@ which is approved as an institution of a public character by the Minister, Commi
 
 [10/2007]
 
-(2) Where any institution of a public character contravenes any regulations made under subsection (1) —
+(2) Regulations made under subsection (1) may provide for the consequences of a contravention by any person of any regulation made under that subsection, as follows:
 
-(a) the institution of a public character shall be liable to pay to the Commissioner a financial penalty of the higher of $100 or the amount ascertained by the formula 0.4 x the total value of the donations (as determined under section 37(3) of the Income Tax Act (Cap. 134)) which ought not to be allowed a deduction under section 37(3) of the Income Tax Act by reason of the contravention; and
+(a) where the person is a registered charity or an exempt charity, the Minister, Commissioner or appropriate Sector Administrator may revoke the approval of the person as an institution of a public character given by the Minister, Commissioner or Sector Administrator, as the case may be;
 
-(b) the Minister, Commissioner or the appropriate Sector Administrator may revoke the approval granted to the institution of a public character.
+(b) that the person shall be guilty of an offence and shall be liable on conviction —
+
+(i) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both; and
+
+(ii) in the case of a continuing offence, to a further fine not exceeding $100 for every day or part of a day during which the offence continues after conviction;
+
+(c) for a contravention of a regulation relating to the issue of tax deduction receipts which is not an offence under paragraph (b), that the person shall be liable to pay to the Commissioner a financial penalty, being the higher of the following amounts:
+
+(i) $100;
+
+(ii) the amount ascertained by the formula 0.4 × the total value of the donations (as determined under section 37(3) of the Income Tax Act (Cap. 134)) which ought not to be allowed a deduction under section 37(3) of the Income Tax Act by reason of the contravention, if any.
+
+[Act 2 of 2018 wef 01/03/2019]
+
+(3) Any financial penalty payable by any institution of a public character under subsection (2)(c) shall be recoverable as a debt due to the Government.
+
+[Act 2 of 2018 wef 01/03/2019]
 
 [10/2007]
 
-(3) Any financial penalty payable by any institution of a public character under subsection (2)(a) shall be recoverable as a debt due to the Government.
+(4) The Commissioner may remit or refund the whole or any part of the financial penalty payable by any institution of a public character under subsection (2)(c).
+
+[Act 2 of 2018 wef 01/03/2019]
 
 [10/2007]
 
-(4) The Commissioner may remit or refund the whole or any part of the financial penalty payable by any institution of a public character under subsection (2)(a).
+(5) Any financial penalty paid under subsection (2)(c) shall, after deducting any remission or refund under subsection (4), be paid into the Consolidated Fund.
+
+[Act 2 of 2018 wef 01/03/2019]
 
 [10/2007]
 
-(5) Any financial penalty paid under subsection (2)(a) shall, after deducting any remission or refund under subsection (4), be paid into the Consolidated Fund.
+(6) Any financial penalty imposed under subsection (2)(c) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
 
-[10/2007]
-
-(6) Any financial penalty imposed under subsection (2)(a) shall be deemed to be interest on tax for the purposes of section 33(2) of the Limitation Act (Cap. 163).
+[Act 2 of 2018 wef 01/03/2019]
 
 [10/2007]
 
@@ -2604,3 +2608,4 @@ This Legislative History is provided for the convenience of users of the Chariti
 |||(Bill No. 49/2017)|
 ||Date of Second and Third Readings|9 January 2018|
 ||Date of commencement|1 April 2018|
+|||1 March 2019|
