@@ -562,13 +562,25 @@ and includes site formation works connected with or carried out for the purpose 
 
 “temporary building” means —
 
-(a) any building or structure constructed of short-lived materials; or
+(a) any building or structure not more than 2 storeys high constructed of short-lived materials;
 
-(b) any other building or structure permitted to be used by the competent authority or Commissioner of Building Control for a period not exceeding 36 months, or such other period as may be prescribed (if prescribed) in the building regulations,
+[Act 22 of 2012 wef 01/03/2019]
+
+(b) any other building or structure not more than 2 storeys high permitted to be used by the competent authority or Commissioner of Building Control for a period not exceeding 36 months, or such other period as may be prescribed (if prescribed) in the building regulations;
+
+[Act 22 of 2012 wef 01/03/2019]
+
+(c) any building used as workers’ quarters, a site office, a show-flat or show-house, a builder’s shed, store or other shed required in connection with any building works for a permanent building; or
+
+[Act 22 of 2012 wef 01/03/2019]
+
+(d) any structure used only for the outdoor display of an advertisement or signboard,
 
 but does not include any bridge, any decking for a bridge, or any earth retaining structure;
 
 [47/2007 wef 01/10/2008]
+
+[Act 22 of 2012 wef 01/03/2019]
 
 “temporary occupation licence” means a temporary occupation licence issued under section 8(1) of the repealed Act;
 
@@ -3977,17 +3989,18 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
-|23.|**Act 22 of 2012—Building Control (Amendment) Act 2012**|
+|23.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
+||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
+||Date of Second and Third Readings|5 February 2018|
+||Date of commencement|1 April 2018|
+|24.|**Act 22 of 2012—Building Control (Amendment) Act 2012**|
 ||Date of First Reading|13 August 2012 (Bill No. 20/2012 published on 13 August 2012)|
 ||Date of Second and Third Readings|10 September 2012|
 ||Dates of commencement|1 December 2012 (except sections 2(i), (j) and (k), 4, 5, 14, 15 and 16)|
 |||28 October 2013 (section 5)|
 |||1 April 2014 (section 4)|
 |||28 July 2017|
-|24.|**Act 10 of 2018—Enterprise Singapore Board Act 2018**|
-||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
-||Date of Second and Third Readings|5 February 2018|
-||Date of commencement|1 April 2018|
+|||1 March 2019|
 ## COMPARATIVE TABLE
 
 Building Control Act
