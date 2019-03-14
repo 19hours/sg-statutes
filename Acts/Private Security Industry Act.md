@@ -614,6 +614,14 @@ SECURITY SERVICE PROVIDERS AND FALSE ALARMS
 
 (e) selling security methods or principles;
 
+(ea) selling any intelligent banknote neutralisation system;
+
+[Act 6 of 2019 wef 14/03/2019]
+
+(eb) employing an intelligent banknote neutralisation system in carrying out cash-in-transit services;
+
+[Act 6 of 2019 wef 14/03/2019]
+
 (f) providing alarm surveillance services, or other surveillance, tracking or monitoring services using security equipment;
 
 (g) providing training or instruction in relation to any activity referred to in paragraphs (a) to (f), including assessing another person’s training, instruction or competencies in relation to any such activity;
@@ -623,6 +631,10 @@ SECURITY SERVICE PROVIDERS AND FALSE ALARMS
 (i) any other activity, or class of activities, that is connected with security or the protection of persons or property, whether by physical or electronic means, and that is declared by the Minister by notification published in theGazetteto be a security service for the purposes of this section.
 
 (2) Notwithstanding subsection (1), a person does not provide a security service only because the person sells self-install security systems, that is, a security system designed so that it can be installed by an ordinary consumer.
+
+(3) In this section, “intelligent banknote neutralisation system” means a security system which is designed to deter unauthorised access to currency notes by mutilating, destroying or permanently damaging the currency notes, such as by the application of a staining or degradation agent to the currency notes or otherwise.
+
+[Act 6 of 2019 wef 14/03/2019]
 
 ### Unlicensed security service provider prohibited
 
@@ -680,7 +692,9 @@ LICENSING PROCEDURES
 
 (ii) the prescribed fee, if any.
 
-(2) An applicant for a licence shall, at the request of the licensing officer, provide any further information or evidence that the licensing officer may require to decide the application.
+(2) An applicant for a licence shall, at the request of the licensing officer, provide any further information or evidence, or any trial or demonstration of any security service, or of any equipment to be employed in carrying out any security service, proposed to be provided by the applicant, that the licensing officer may require to decide the application.
+
+[Act 6 of 2019 wef 14/03/2019]
 
 (3) Upon receipt of an application under subsection (1), the licensing officer may —
 
@@ -1277,3 +1291,7 @@ This Legislative History is provided for the convenience of users of the Private
 ||Date of First Reading|11 September 2017 (Bill No. 32/2017 published on 11 September 2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|18 December 2018|
+|8.|**Act 6 of 2019—Currency (Amendment) Act 2019**|
+||Date of First Reading|20 November 2018 (Bill No. 53/2018 published on 20 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|14 March 2019|
