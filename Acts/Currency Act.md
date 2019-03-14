@@ -106,6 +106,10 @@ PRELIMINARY
 
 “currency” means currency notes and coins which are legal tender in Singapore;
 
+“intelligent banknote neutralisation system” or “IBNS” means a security system which is designed to deter unauthorised access to currency notes by mutilating, destroying or permanently damaging the currency notes, such as by the application of a staining or degradation agent to the currency notes or otherwise;
+
+[Act 6 of 2019 wef 14/03/2019]
+
 [Deleted by Act 31 of 2017 wef 15/08/2017]
 
 [Deleted by Act 31 of 2017 wef 15/08/2017]
@@ -260,15 +264,9 @@ CURRENCY
 
 [3/91; 25/2002]
 
-(3) Coins issued by the Authority, if the coins have not been illegally dealt with, shall be legal tender up to their face value in Singapore as follows:
+(3) Coins of a denomination issued by the Authority, if the coins have not been illegally dealt with, are legal tender up to their face value for the payment of an amount not exceeding 20 times the face value of a coin of that denomination.
 
-(a) in the case of coins of a denomination exceeding 50 cents — for the payment of any amount;
-
-(b) in the case of coins of a denomination of 50 cents — for the payment of an amount not exceeding $10; and
-
-(c) in the case of coins of a denomination lower than 50 cents — for the payment of an amount not exceeding $2.
-
-[2/69; 11/82; 3/91; 25/2002]
+[Act 6 of 2019 wef 14/03/2019]
 
 (4) Where a payee has given written notice to the payer that he would not accept as payment all or any of the denominations of currency notes or coins in satisfaction of a debt, subsection (2) or (3), as the case may be, shall not apply to the payment of the debt to the extent specified in the notice.
 
@@ -285,6 +283,10 @@ CURRENCY
 (b) a currency note shall be deemed to have been illegally dealt with where the note has been impaired, diminished or affected otherwise than by fair wear and tear, or has been defaced by writing or impressing on any note any mark, word, letter or figure or by perforation, cutting, splitting or in any other manner, whether the note has or has not been thereby impaired or diminished.
 
 [3/91]
+
+(6A) For the purposes of this Act, a currency note is also deemed to have been illegally dealt with if the currency note has been mutilated, destroyed or permanently damaged (whether by the application of a staining or degradation agent to the currency notes or otherwise) as a result of the activation of an IBNS.
+
+[Act 6 of 2019 wef 14/03/2019]
 
 (7) In any criminal proceedings in which the genuineness of any currency note or coin may be in question, a certificate signed by an officer of the Authority authorised for that purpose that he is satisfied by personal examination that such note or coin is or is not forged shall be held to be conclusive evidence of the same.
 
@@ -416,7 +418,7 @@ MISCELLANEOUS
 
 ### Mutilating, destroying or defacing currency notes and coins
 
-23\.—(1) Any person who —
+23\.—(1) Subject to subsections (1A) and (1B), any person who —
 
 (a) mutilates or destroys any currency note or coin;
 
@@ -428,13 +430,49 @@ MISCELLANEOUS
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
+[Act 6 of 2019 wef 14/03/2019]
+
 [11/82]
+
+(1A) To avoid doubt, a licensed security service provider who sells any IBNS or who employs an IBNS in carrying out cash-in-transit services is not, by reason only of such sale or employment, liable to be convicted of an offence under —
+
+(a) subsection (1)(a) for any mutilation or destruction of a currency note; or
+
+(b) subsection (1)(c) for any printing or stamping, or by any like means any writing or impressing, of any mark, word, letter or figure on a currency note,
+
+that is caused by the activation of the IBNS.
+
+[Act 6 of 2019 wef 14/03/2019]
+
+(1B) An applicant for a security service provider’s licence to sell any IBNS, or to employ an IBNS in carrying out cash-in-transit services, is not liable to be convicted of an offence under —
+
+(a) subsection (1)(a) for any mutilation or destruction of a currency note; or
+
+(b) subsection (1)(c) for any printing or stamping, or by any like means any writing or impressing, of any mark, word, letter or figure on a currency note,
+
+that is caused by the activation of the IBNS in any trial or demonstration of the applicant’s IBNS that is required by a licensing officer for the purpose of deciding the application.
+
+[Act 6 of 2019 wef 14/03/2019]
 
 (2) Nothing in this section shall be construed as limiting or affecting the provisions of the Penal Code (Cap. 224).
 
 [30
 
 [11/82]
+
+(3) In this section —
+
+“licensed security service provider” means a holder of a security service provider’s licence under the Private Security Industry Act (Cap. 250A) —
+
+(a) to sell any IBNS; or
+
+(b) to employ an IBNS in carrying out cash-in-transit services;
+
+“licensing officer” means a licensing officer as defined in section 2 of the Private Security Industry Act;
+
+“security service provider’s licence” means a security service provider’s licence granted under the Private Security Industry Act.
+
+[Act 6 of 2019 wef 14/03/2019]
 
 ### Counterfeit currency notes and coins to be forfeited
 
@@ -609,6 +647,10 @@ This Legislative History is provided for the convenience of users of the Currenc
 ||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|15 August 2017|
+|22.|**Act 6 of 2019—Currency (Amendment) Act 2019**|
+||Date of First Reading|20 November 2018 (Bill No. 53/2018 published on 20 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|14 March 2019|
 ## COMPARATIVE TABLE
 
 Currency Act
