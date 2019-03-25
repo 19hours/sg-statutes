@@ -2646,6 +2646,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 587/2018 wef 01/10/2018]
 
+(19ABB) 2-[1-(4-Fluorobutyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoic acid and its hexanoic acid isomers and their respective fluoro positional isomers in the butyl group
+
+[S 150/2019 wef 25/03/2019]
+
 (19AB) 4-Fluoromethylphenidate and its fluoro positional isomers in the phenyl ring
 
 [S 233/2018 wef 01/05/2018]
@@ -2752,6 +2756,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 233/2018 wef 01/05/2018]
 
+(28GA) Methyl 2-[1-(4-fluorobutyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (also known as 4-Fluoro-MDMB-BINACA) and its hexanoate isomers and their respective fluoro positional isomers in the butyl group
+
+[S 150/2019 wef 25/03/2019]
+
 (28H) Methyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (also known as 5-Fluoro-MDMB-PINACA or 5-Fluoro-ADB) and its hexanoate isomers and their respective fluoro positional isomers in the pentyl group
 
 [S 233/2018 wef 01/05/2018]
@@ -2767,6 +2775,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (29) N-Methyl-1-(4-fluorophenyl)propan-2-amine (also known as 4-Fluoromethamphetamine or 4-FMA) and its fluoro positional isomers in the phenyl ring
 
 [S 254/2015 wef 01/05/2015]
+
+(29AA) Methyl 2-[1-(4-hydroxybutyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate and its hexanoate isomers and their respective hydroxy positional isomers in the butyl group
+
+[S 150/2019 wef 25/03/2019]
 
 (29A) Methyl 2-[1-(5-hydroxypentyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate and its hexanoate isomers and their respective hydroxy positional isomers in the pentyl group
 
@@ -4398,6 +4410,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 May 2018|
 |59.|**G.N. No. S 587/2018—Misuse of Drugs Act (Amendment of First Schedule) Order 2018**|
 ||Date of commencement|1 October 2018|
+|60.|**G.N. No. S 150/2019—Misuse of Drugs Act (Amendment of First Schedule) Order 2019**|
+||Date of commencement|25 March 2019|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
