@@ -22,7 +22,7 @@
 
 [**Part III CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE**](#Part-III)
 
-- [6 Notification of infectious diseases](#Notification-of-infectious-diseases)
+- [6 Notification of prescribed infectious diseases](#Notification-of-prescribed-infectious-diseases)
 
 - [7 Public health surveillance programmes, etc.](#Public-health-surveillance-programmes-etc)
 
@@ -52,25 +52,29 @@
 
 - [19 Closure and disinfection of premises](#Closure-and-disinfection-of-premises)
 
+- [19A Surveillance and contact tracing measures at premises](#Surveillance-and-contact-tracing-measures-at-premises)
+
 - [20 Prohibition or restriction of meetings, gatherings and public entertainments](#Prohibition-or-restriction-of-meetings-gatherings-and-public-entertainments)
 
 - [21 Control of occupation, trade or business](#Control-of-occupation-trade-or-business)
 
 - [21A Certain persons not to act in manner likely to spread disease](#Certain-persons-not-to-act-in-manner-likely-to-spread-disease)
 
-[**Part IV CONTROL OF AIDS AND HIV INFECTION**](#Part-IV)
+- [21B Order to disseminate health advisory](#Order-to-disseminate-health-advisory)
 
-- [22 Person with AIDS or HIV Infection to undergo counselling, etc.](#Person-with-AIDS-or-HIV-Infection-to-undergo-counselling-etc)
+[**Part IV CONTROL OF HIV INFECTION**](#Part-IV)
 
-- [23 Sexual activity by person with AIDS or HIV Infection](#Sexual-activity-by-person-with-AIDS-or-HIV-Infection)
+- [22 Person with HIV Infection to undergo counselling, etc.](#Person-with-HIV-Infection-to-undergo-counselling-etc)
 
-- [24 Blood donation and other acts by person with AIDS or HIV Infection](#Blood-donation-and-other-acts-by-person-with-AIDS-or-HIV-Infection)
+- [23 Sexual activity by person with HIV Infection](#Sexual-activity-by-person-with-HIV-Infection)
 
-- [25 Protection of identity of person with AIDS, HIV Infection or other sexually transmitted disease](#Protection-of-identity-of-person-with-AIDS-HIV-Infection-or-other-sexually-transmitted-disease)
+- [24 Blood donation and other acts by person with HIV Infection](#Blood-donation-and-other-acts-by-person-with-HIV-Infection)
+
+- [25 Protection of identity of person with HIV Infection or other sexually transmitted disease](#Protection-of-identity-of-person-with-HIV-Infection-or-other-sexually-transmitted-disease)
 
 - [25A Disclosure by Director, medical practitioner and recipient of information](#Disclosure-by-Director-medical-practitioner-and-recipient-of-information)
 
-[**Part V PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE**](#Part-V)
+[**Part V PREVENTION OF INTERNATIONAL SPREAD OF INFECTIOUS DISEASES**](#Part-V)
 
 - [26 Infected area](#Infected-area)
 
@@ -80,7 +84,7 @@
 
 - [29 Measures required of a vessel or vehicle on arrival](#Measures-required-of-a-vessel-or-vehicle-on-arrival)
 
-- [30 Undertaking to report to Port Health Officer](#Undertaking-to-report-to-Port-Health-Officer)
+- [30 (Repealed)](#Repealed)
 
 - [31 Vaccination and other prophylaxis](#Vaccination-and-other-prophylaxis)
 
@@ -112,6 +116,10 @@
 
 - [45 Liability of master, owner or agent for expenses](#Liability-of-master-owner-or-agent-for-expenses)
 
+- [45A Medical examination of persons arriving in Singapore](#Medical-examination-of-persons-arriving-in-Singapore)
+
+- [45B Medical examination of persons leaving Singapore during public health emergency](#Medical-examination-of-persons-leaving-Singapore-during-public-health-emergency)
+
 [**Part VI VACCINATION AND OTHER PROPHYLAXIS**](#Part-VI)
 
 - [46 Responsibility of parent or guardian](#Responsibility-of-parent-or-guardian)
@@ -138,13 +146,17 @@
 
 - [55A Powers of investigation](#Powers-of-investigation)
 
+- [55B Disposal of document, substance or matter](#Disposal-of-document-substance-or-matter)
+
 - [56 Powers of arrest](#Powers-of-arrest)
 
 - [56A (Repealed)](#Repealed)
 
 - [57 Police officer or Health Officer may demand names and addresses in certain cases](#Police-officer-or-Health-Officer-may-demand-names-and-addresses-in-certain-cases)
 
-- [57A Disclosure of information to prevent spread or possible outbreak of infectious disease, etc.](#Disclosure-of-information-to-prevent-spread-or-possible-outbreak-of-infectious-disease-etc)
+- [57A Disclosure of information by Director to prevent spread or possible outbreak of infectious disease, etc.](#Disclosure-of-information-by-Director-to-prevent-spread-or-possible-outbreak-of-infectious-disease-etc)
+
+- [57B Disclosure of information to prevent spread or possible outbreak of infectious disease, etc., as authorised by Director](#Disclosure-of-information-to-prevent-spread-or-possible-outbreak-of-infectious-disease-etc-as-authorised-by-Director)
 
 - [58 Extraordinary powers in relation to emergency measures](#Extraordinary-powers-in-relation-to-emergency-measures)
 
@@ -170,7 +182,13 @@
 
 - [66 Offences triable by Magistrate’s Court](#Offences-triable-by-Magistrate’s-Court)
 
-- [67 Immunity of Government, Agency, etc.](#Immunity-of-Government-Agency-etc)
+- [67 Protection from personal liability](#Protection-from-personal-liability)
+
+- [67A Immunity from liability for disclosure](#Immunity-from-liability-for-disclosure)
+
+- [67B Offences by corporations](#Offences-by-corporations)
+
+- [67C Offences by unincorporated associations or partnerships](#Offences-by-unincorporated-associations-or-partnerships)
 
 - [68 Composition of offences](#Composition-of-offences)
 
@@ -188,15 +206,15 @@
 
 [**FIRST SCHEDULE Infectious Diseases**](#FIRST-SCHEDULE-Infectious-Diseases)
 
-[**SECOND SCHEDULE Dangerous Infectious Diseases**](#SECOND-SCHEDULE-Dangerous-Infectious-Diseases)
+[**SECOND SCHEDULE Dangerous infectious diseases**](#SECOND-SCHEDULE-Dangerous-infectious-diseases)
 
 [**THIRD SCHEDULE Requirements as to vaccination and other prophylaxis**](#THIRD-SCHEDULE-Requirements-as-to-vaccination-and-other-prophylaxis)
 
 [**FOURTH SCHEDULE Diseases against which a child is to be vaccinated**](#FOURTH-SCHEDULE-Diseases-against-which-a-child-is-to-be-vaccinated)
 
-[**FIFTH SCHEDULE Diseases in respect of which Acts referred to in section 21A are prohibited**](#FIFTH-SCHEDULE-Diseases-in-respect-of-which-Acts-referred-to-in-section-21A-are-prohibited)
+[**FIFTH SCHEDULE Repealed**](#FIFTH-SCHEDULE-Repealed)
 
-[**SIXTH SCHEDULE Diseases in respect of which information may be disclosed by the Director to a person to enable him to take steps to prevent spread of diseases**](#SIXTH-SCHEDULE-Diseases-in-respect-of-which-information-may-be-disclosed-by-the-Director-to-a-person-to-enable-him-to-take-steps-to-prevent-spread-of-diseases)
+[**SIXTH SCHEDULE Repealed**](#SIXTH-SCHEDULE-Repealed)
 
 [**Legislative History**](#Legislative-History)
 
@@ -230,7 +248,19 @@ PRELIMINARY
 
 “Agency” means the National Environment Agency established under the National Environment Agency Act (Cap. 195);
 
-“AIDS” means Acquired Immune Deficiency Syndrome;
+[Deleted by Act 5 of 2019 wef 25/03/2019]
+
+“appropriate Minister” means —
+
+(a) in the following cases, the Minister charged with the responsibility for health and sanitary measures in relation to vessels, aircraft, vehicles and persons entering or leaving Singapore:
+
+(i) the establishment of any advisory committee for the purpose of giving advice to the Director‑General under section 5;
+
+(ii) any purpose relating to sections 28, 29 and 33 to 45, including the making of subsidiary legislation in relation to any of those sections; or
+
+(b) in any other case, the Minister charged with the responsibility for regulation of diseases and disease control;
+
+[Act 5 of 2019 wef 25/03/2019]
 
 “baggage” means the personal effects of a traveller or of a crew member of a vessel;
 
@@ -241,6 +271,10 @@ PRELIMINARY
 “carrier”, in relation to any infectious disease, means any person who is harbouring or is likely to or is suspected to harbour the agents of that disease;
 
 “contact”, in relation to any infectious disease, means any person who has been exposed to the risk of infection from that disease;
+
+“contact tracing measure” means any measure to facilitate the tracing of contacts of an infectious disease;
+
+[Act 5 of 2019 wef 25/03/2019]
 
 “crew” includes any person who is on board a vessel not for the sole purpose of travelling from one place to another but who is employed in the vessel’s service or in connection with its cargo;
 
@@ -257,6 +291,10 @@ PRELIMINARY
 [10/2008 wef 10/06/2008]
 
 “HIV Infection” means Human Immunodeficiency Virus Infection;
+
+“individually-identifiable”, when used to describe information or samples pertaining to a person, means that the identity of that person can be readily discovered or ascertained from that information or sample;
+
+[Act 5 of 2019 wef 25/03/2019]
 
 “infected” means infected with the micro-organism or agent of an infectious disease;
 
@@ -284,17 +322,25 @@ PRELIMINARY
 
 “master”, in relation to a vessel, means the person for the time being in charge or command of the vessel;
 
+“medical examination” includes the carrying out by a person (called the examiner) of any of the measures mentioned in paragraphs (a) to (f), with a view to ascertaining a person’s state of health, whether or not the examiner is present with the person being examined:
+
+(a) physical examination of the person;
+
+(b) obtaining the person’s bodily samples;
+
+(c) obtaining images of, or measuring, the person’s physiology;
+
+(d) measuring or monitoring the person’s physiological signs;
+
+(e) obtaining the clinical history of the person;
+
+(f) a measure to facilitate the carrying out of anything in paragraphs (a) to (e);
+
+[Act 5 of 2019 wef 25/03/2019]
+
 “medical practitioner” means a medical practitioner registered or exempted from registration under the Medical Registration Act (Cap. 174);
 
-“Minister” means —
-
-(a) in relation to sections 3(1), 7(1), 10(1), 17(1) and (2), 17A, 19(7) and (8), 21(6) and (7), 25(1)(k), 26, 47, 52, 54, 57A, 58(1) and 59A(1)(b), the Minister charged with the responsibility for health; and
-
-[10/2008 wef 10/06/2008]
-
-(b) in relation to section 3(2), the Minister charged with the responsibility for the environment and water resources;
-
-[10/2008 wef 10/06/2008]
+[Deleted by Act 5 of 2019 wef 25/03/2019]
 
 “minor” means a person who is below the age of 21 years;
 
@@ -322,7 +368,9 @@ PRELIMINARY
 
 “quarantine station” means any island, building or place where quarantine is carried out;
 
-“surveillance” means the subjection of a person or persons to periodical medical examinations or observations with a view to ascertaining his or their state of health;
+“surveillance” means subjecting a person or persons to medical examinations or observations carried out over a period of time (whether or not continuously) and includes carrying out any measures to facilitate those medical examinations or observations;
+
+[Act 5 of 2019 wef 25/03/2019]
 
 “vessel” means any ship, boat, aircraft or a vessel of any description used in navigation by sea or air.
 
@@ -334,13 +382,17 @@ ADMINISTRATION
 
 ### Administration of this Act
 
-3\.—(1) Except as otherwise provided by this Act, the Director shall, subject to any general or special directions of the Minister, be responsible for the administration of Parts III, IV and VI.
+3\.—(1) Except as otherwise provided by this Act, the Director shall, subject to any general or special directions of the appropriate Minister, be responsible for the administration of Parts III, IV, VI and VIIA and sections 26, 27, 31, 32, 45A and 45B.
 
 [5/2003]
 
-(2) Except as otherwise provided by this Act, the Director-General shall, subject to any general or special directions of the Minister, be responsible for the administration of Part V.
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) Except as otherwise provided by this Act, the Director-General shall, subject to any general or special directions of the appropriate Minister, be responsible for the administration of Part V, except sections 26, 27, 31, 32, 45A and 45B.
 
 [5/2003]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (3) The appropriate Minister may, by notification in theGazette, direct that the powers conferred on the Director under Part III be exercised by the Director-General in relation to such matters as may be specified in the notifications.
 
@@ -349,6 +401,10 @@ ADMINISTRATION
 (4) For the purposes of exercising the powers under Part III in relation to matters referred to in subsection (3) any reference to the Director in that Part shall be construed as a reference to the Director-General.
 
 [4/2002]
+
+(5) To avoid doubt, Part V does not prevent the exercise of any power conferred by another Part in relation to any vessel, person or article to which Part V applies.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Health Officers
 
@@ -368,33 +424,49 @@ to be a Health Officer for the purposes of this Act or any particular provision 
 
 ### Advisory committees
 
-5\. The appropriate Minister may establish one or more advisory committees consisting of such members as he may appoint for the purpose of giving advice to the Director-General or the Director, as the case may be, with regard to such matters arising out of the administration of this Act as are referred to them by the Minister.
+5\. The appropriate Minister may establish one or more advisory committees consisting of such members as he may appoint for the purpose of giving advice to the Director-General or the Director, as the case may be, with regard to such matters arising out of the administration of this Act as are referred to them by the appropriate Minister.
 
 [4/2002; 5/2003]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ## PART III
 
 CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
-### Notification of infectious diseases
+### Notification of prescribed infectious diseases
 
-6\.—(1) Every medical practitioner who has reason to believe or suspect that any person attended or treated by him is suffering from an infectious disease or is a carrier of that disease shall notify the Director within the prescribed time and in such form or manner as the Director may require.
-
-[5/2003]
-
-(2) Every person in charge of a laboratory used for the diagnosis of disease who becomes aware of the existence of an infectious disease in the course of his work shall notify the Director within the prescribed time and in such form or manner as the Director may require.
+6\.—(1) Every medical practitioner who has reason to believe or suspect that any person attended or treated by him is suffering from a prescribed infectious disease or is a carrier of that disease shall notify the Director within the prescribed time and in such form or manner as the Director may require.
 
 [5/2003]
 
-(3) Any person who is aware or who suspects that any other person is suffering or has died from or is a carrier of an infectious disease shall notify the Director within the prescribed time and in such form or manner as the Director may require.
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) Every person in charge of a laboratory used for the diagnosis of disease who becomes aware of the existence of a prescribed infectious disease in the course of his work shall notify the Director within the prescribed time and in such form or manner as the Director may require.
 
 [5/2003]
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(3) A person in a prescribed class, who is aware or suspects that —
+
+(a) another person is suffering from, or is a carrier of, a prescribed infectious disease; or
+
+(b) another person has died whilst suffering from, or being a carrier of, a prescribed infectious disease,
+
+must notify the Director, within the prescribed time and in such form or manner as the Director may require, of the fact in paragraph (a) or (b), as the case may be.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (4) Any person who is required to notify the Director under this section shall give any other particulars required by the Director in so far as they can be reasonably ascertained by him or are within his knowledge.
 
 (5) Any person who fails to comply with the requirements of this section or furnishes as true information which he knows or has reason to believe to be false shall be guilty of an offence.
 
-(6) When any person who is charged with failing to comply with the requirements of subsection (1), (2) or (3) in relation to the notification of an infectious disease, he shall be presumed to have known of the existence of the disease unless he proves to the satisfaction of the court that he had no such knowledge and could not with reasonable diligence have obtained such knowledge.
+(6) When any person who is charged with failing to comply with the requirements of subsection (1), (2) or (3) in relation to the notification of a prescribed infectious disease, he shall be presumed to have known of the existence of the disease unless he proves to the satisfaction of the court that he had no such knowledge and could not with reasonable diligence have obtained such knowledge.
+
+[Act 5 of 2019 wef 25/03/2019]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Public health surveillance programmes, etc.
 
@@ -402,17 +474,23 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 (a) any infectious disease; or
 
-(b) any other disease which the Minister, by notification in theGazette, declares to be a disease to which this section applies.
+(b) any other disease which the appropriate Minister, by notification in theGazette, declares to be a disease to which this section applies.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (2) For the purpose of any public health surveillance programme, epidemiological investigation or survey under subsection (1), the Director may require any person —
 
-(a) to furnish him, within such time as he may specify, with —
+(a) to furnish the Director, within or at the times and in the form or manner the Director specifies, with any of the following where the Director requires:
 
-(i) such information as he may require; and
+(i) any information (known to the person at those times);
 
-(ii) any sample of any substance or matter in the possession or control of that person, whether taken pursuant to this Act or otherwise, as he may consider necessary or appropriate; and
+(ii) any sample of any substance or matter in the possession or control of that person at those times, whether obtained under this Act or otherwise; and
 
-(b) to submit to such medical examination as he thinks fit.
+[Act 5 of 2019 wef 25/03/2019]
+
+(b) to submit to a medical examination at the times the Director specifies.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (3) If a person who is required by the Director under subsection (2) to furnish the Director with any information or sample, or to submit to any medical examination, fails, without reasonable excuse, to do so, he shall be guilty of an offence.
 
@@ -438,21 +516,27 @@ CONTROL OF INFECTIOUS DISEASES WITHIN SINGAPORE
 
 (a) determining the cause or circumstances of the death of that person; or
 
-(b) investigating into any outbreak or suspected outbreak of, or preventing the spread of, that disease.
+(b) investigating into any outbreak or suspected outbreak of, or preventing the spread or possible outbreak of, that disease.
 
 [7/2003]
 
+[Act 5 of 2019 wef 25/03/2019]
+
 ### Director may require information from healthcare professionals, etc.
 
-10\.—(1) The Director may, for the purpose of investigating into any outbreak or suspected outbreak of an infectious disease, preventing the spread of an infectious disease, or treating any person who is, or is suspected to be, a case or carrier or contact of an infectious disease —
+10\.—(1) The Director may, for the purpose of investigating into any outbreak or suspected outbreak of an infectious disease, preventing the spread or possible outbreak of an infectious disease, or treating any person who is, or is suspected to be, a case or carrier or contact of an infectious disease —
 
 (a) require any healthcare professional to obtain from his patient such information as the Director may reasonably require for that purpose and transmit such information to the Director; and
 
-(b) with the approval of the Minister, prescribe by order any general or specific measures or procedures for that purpose for compliance by any healthcare professional, hospital, medical clinic, clinical laboratory or healthcare establishment.
+(b) with the approval of the appropriate Minister, prescribe by order any general or specific measures or procedures for that purpose for compliance by any healthcare professional, hospital, medical clinic, clinical laboratory or healthcare establishment.
 
 [7/2003]
 
 [10/2008 wef 10/06/2008]
+
+[Act 5 of 2019 wef 25/03/2019]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (2) Any person who fails to comply with a requirement or an order referred to in subsection (1) shall be guilty of an offence.
 
@@ -508,9 +592,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Treatment of premises or vessel
 
-12\.—(1) The Director may, by notice in writing, require the owner or occupier of any premises or vessel to cleanse or disinfect it in the manner and within the time specified in the notice.
+12\.—(1) The Director may, by written notice, require the owner or occupier of any premises or vessel to cleanse or disinfect it in the manner and within the time specified in the notice.
 
 [5/2003]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (2) Any owner or occupier who fails to comply with the requirements of the notice served under subsection (1) shall be guilty of an offence.
 
@@ -624,13 +710,17 @@ for such period of time and subject to such conditions as may be specified by th
 
 ### Isolation area
 
-17\.—(1) The Minister may, for the purpose of preventing the outbreak or spread of an infectious disease, by notification in theGazettedeclare any premises to be an isolation area.
+17\.—(1) The appropriate Minister may, for the purpose of preventing the spread or possible outbreak of an infectious disease, by notification in theGazettedeclare any premises to be an isolation area.
 
 [7/2003]
 
-(2) A notification under subsection (1) shall be effective until the expiration of such period as may be specified in the notification or until it is revoked by the Minister, whichever occurs first.
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) A notification under subsection (1) shall be effective until the expiration of such period as may be specified in the notification or until it is revoked by the appropriate Minister, whichever occurs first.
 
 [7/2003]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (3) The Director may, in relation to an isolation area, by order —
 
@@ -670,19 +760,29 @@ for such period of time and subject to such conditions as may be specified by th
 
 ### Restricted zones during public health emergency
 
-17A\.—(1) If the Minister is satisfied that there is an outbreak or imminent outbreak of an infectious disease that poses a substantial risk of a significant number of human fatalities or incidents of serious disability in Singapore, he may, by order, declare a public health emergency.
+17A\.—(1) If the appropriate Minister is satisfied that there is an outbreak or imminent outbreak of an infectious disease that poses a substantial risk of a significant number of human fatalities or incidents of serious disability in Singapore, he may, by order, declare a public health emergency.
 
-(2) The Minister may, if it appears necessary or expedient for the securing of public health or safety during a public health emergency, by order declare the whole of or such area in Singapore to be a restricted zone and may in such order prohibit or restrict, subject to such conditions as he may think fit —
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) The appropriate Minister may, if it appears necessary or expedient for the securing of public health or safety during a public health emergency, by order declare the whole of or such area in Singapore to be a restricted zone and may in such order prohibit or restrict, subject to such conditions as he may think fit —
 
 (a) the entry and stay of persons in any place, building or other premises (whether public or private) within the restricted zone; and
 
 (b) the holding of, or the attendance of persons at, any public meeting, reception, procession or other gathering within the restricted zone.
 
-(3) Subject to subsection (4), every order made under subsection (1) or (2) shall remain in force until it is revoked by the Minister or upon the expiration of 14 days from the date upon which it was made, whichever is the earlier.
+[Act 5 of 2019 wef 25/03/2019]
 
-(4) An order made under subsection (1) or (2) may be renewed by declaration of the Minister from time to time for such period, not exceeding 14 days at a time, as may be specified in the declaration.
+(3) Subject to subsection (4), every order made under subsection (1) or (2) shall remain in force until it is revoked by the appropriate Minister or upon the expiration of 14 days from the date upon which it was made, whichever is the earlier.
 
-(5) An order made under subsection (1) or (2) and a declaration of renewal made under subsection (4) shall be published in such manner as the Minister thinks necessary for bringing it to the notice of all persons who in his opinion ought to have notice thereof and shall have effect as soon as such notice has been given, without publication in theGazette.
+[Act 5 of 2019 wef 25/03/2019]
+
+(4) An order made under subsection (1) or (2) may be renewed by declaration of the appropriate Minister from time to time for such period, not exceeding 14 days at a time, as may be specified in the declaration.
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(5) An order made under subsection (1) or (2) and a declaration of renewal made under subsection (4) shall be published in such manner as the appropriate Minister thinks necessary for bringing it to the notice of all persons who in his opinion ought to have notice thereof and shall have effect as soon as such notice has been given, without publication in theGazette.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (6) A copy of every order made under subsection (1) or (2) and of every declaration of renewal made under subsection (4) shall be published in theGazetteand shall be presented to Parliament as soon as possible after it has been made and if a resolution is passed by Parliament annulling the order or declaration, it shall cease to have effect, notwithstanding subsection (3) or (4) (whichever is applicable), but without prejudice to anything previously done by virtue thereof.
 
@@ -698,7 +798,9 @@ for such period of time and subject to such conditions as may be specified by th
 
 ### Abatement of overcrowding
 
-18\.—(1) If, in the opinion of the Director, a building is so overcrowded as to expose the occupants thereof to the risk of infection by an infectious disease, the Director may, by notice in writing, direct the owner or occupier of the building to abate the overcrowding or to close the building or part thereof within the time specified in the notice.
+18\.—(1) If, in the opinion of the Director, a building is so overcrowded as to expose the occupants thereof to the risk of infection by an infectious disease, the Director may, by written notice, direct the owner or occupier of the building to abate the overcrowding or to close the building or part thereof within the time specified in the notice.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (2) Any owner or occupier who fails to comply with a notice given to him by the Director under subsection (1) shall be guilty of an offence.
 
@@ -716,17 +818,21 @@ for such period of time and subject to such conditions as may be specified by th
 
 [10/2008 wef 10/06/2008]
 
-(6) Any person who is aggrieved by any direction of the Director as contained in a notice given to him under subsection (1) may, within 7 days from the date of the notice, appeal to the Minister whose decision shall be final.
+(6) Any person who is aggrieved by any direction of the Director as contained in a notice given to him under subsection (1) may, within 7 days from the date of the notice, appeal to the appropriate Minister whose decision shall be final.
 
 [10/2008 wef 10/06/2008]
 
-(7) Notwithstanding that any appeal under subsection (6) is pending, a notice issued by the Director under subsection (1) shall take effect from the date specified by the Director, unless the Minister otherwise directs.
+[Act 5 of 2019 wef 25/03/2019]
+
+(7) Notwithstanding that any appeal under subsection (6) is pending, a notice issued by the Director under subsection (1) shall take effect from the date specified by the Director, unless the appropriate Minister otherwise directs.
 
 [10/2008 wef 10/06/2008]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Closure and disinfection of premises
 
-19\.—(1) If the Director has reason to believe that there exist on any premises conditions that are likely to lead to the outbreak or spread of any infectious disease, he may, by notice in writing —
+19\.—(1) If the Director has reason to believe that there exist on any premises conditions that are likely to lead to the outbreak or spread of any infectious disease, he may, by written notice —
 
 (a) order the closure of the premises for a period not exceeding 14 days; or
 
@@ -738,7 +844,11 @@ and may require the owner or occupier of the premises to —
 
 (ii) carry out such additional measures as the Director may require in the manner and within the time specified in the notice.
 
-(2) A notice under subsection (1)(a) directing the owner or the occupier of the premises to close the premises may be renewed by the Director from time to time for such period, not exceeding 14 days, as the Director may, by notice in writing, specify.
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) A notice under subsection (1)(a) directing the owner or the occupier of the premises to close the premises may be renewed by the Director from time to time for such period, not exceeding 14 days, as the Director may, by written notice, specify.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (3) Subject to subsection (7), any person who fails to comply with a notice given to him by the Director under subsection (1) shall be guilty of an offence.
 
@@ -748,11 +858,43 @@ and may require the owner or occupier of the premises to —
 
 (6) The costs and expenses incurred by the Director or a Health Officer under subsection (5) shall be paid by the person in default and may be recovered as a debt due to the Government.
 
-(7) Any person who is aggrieved by any order or requirement of the Director as contained in a notice given to him under subsection (1) may, within 7 days from the date of the notice, appeal to the Minister whose decision shall be final.
+(7) Any person who is aggrieved by any order or requirement of the Director as contained in a notice given to him under subsection (1) may, within 7 days from the date of the notice, appeal to the appropriate Minister whose decision shall be final.
 
-(8) Notwithstanding that any appeal under subsection (7) is pending, a notice issued by the Director under subsection (1) shall take effect from the date specified by the Director, unless the Minister otherwise directs.
+[Act 5 of 2019 wef 25/03/2019]
+
+(8) Notwithstanding that any appeal under subsection (7) is pending, a notice issued by the Director under subsection (1) shall take effect from the date specified by the Director, unless the appropriate Minister otherwise directs.
 
 [10/2008 wef 10/06/2008]
+
+[Act 5 of 2019 wef 25/03/2019]
+
+### Surveillance and contact tracing measures at premises
+
+19A\.—(1) If the Director is satisfied that any surveillance or contact tracing measure is necessary to prevent the spread or possible outbreak of any infectious disease at or in the vicinity of any premises, the Director may, by written notice, direct any person in charge of the premises to —
+
+(a) conduct any surveillance or contact tracing measure at the premises as specified in the notice;
+
+(b) allow any Health Officer, or any person authorised by a Health Officer, to conduct any surveillance or contact tracing measure at the premises as specified in the notice; or
+
+(c) facilitate the conduct of the surveillance or contact tracing measure by any Health Officer or person authorised by a Health Officer mentioned in paragraph (b).
+
+(2) Any person in charge of the premises who, without reasonable excuse, fails to comply with any direction to the person in a written notice under subsection (1) shall be guilty of an offence.
+
+(3) Without limiting subsection (2), where any direction in a written notice under subsection (1) has not been complied with in relation to any premises, the Director or a Health Officer may, after giving reasonable notice, and without warrant and using such force as may be necessary, do all or any of the following:
+
+(a) enter the premises;
+
+(b) take or cause to be taken such measures at the premises as specified in the written notice.
+
+(4) The costs and expenses reasonably incurred by the Director or a Health Officer under subsection (3) may be recovered as a debt due to the Government from the person in default.
+
+(5) In this section, “person in charge of the premises” includes —
+
+(a) any occupier, lessee or person who is responsible for the management of the premises; or
+
+(b) any manager, assistant manager or supervisor of the premises or any person holding an analogous appointment.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Prohibition or restriction of meetings, gatherings and public entertainments
 
@@ -760,9 +902,11 @@ and may require the owner or occupier of the premises to —
 
 [10/2008 wef 10/06/2008]
 
-(1A) An order under subsection (1) may be renewed by the Director from time to time for such period, not exceeding 14 days, as the Director may, by notice in writing, specify.
+(1A) An order under subsection (1) may be renewed by the Director from time to time for such period, not exceeding 14 days, as the Director may, by written notice, specify.
 
 [10/2008 wef 10/06/2008]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (2) Any person who holds, is present at or has taken part in any meeting, gathering or public entertainment in contravention of an order by the Director under subsection (1) shall be guilty of an offence.
 
@@ -772,79 +916,133 @@ and may require the owner or occupier of the premises to —
 
 [10/2008 wef 10/06/2008]
 
-(4) Any person who is aggrieved by any order of the Director under subsection (1) may, within 7 days from the date of the order, appeal to the Minister whose decision shall be final.
+(4) Any person who is aggrieved by any order of the Director under subsection (1) may, within 7 days from the date of the order, appeal to the appropriate Minister whose decision shall be final.
 
 [10/2008 wef 10/06/2008]
 
-(5) Notwithstanding that any appeal under subsection (4) is pending, an order made by the Director under subsection (1) shall take effect from the date specified by the Director, unless the Minister otherwise directs.
+[Act 5 of 2019 wef 25/03/2019]
+
+(5) Notwithstanding that any appeal under subsection (4) is pending, an order made by the Director under subsection (1) shall take effect from the date specified by the Director, unless the appropriate Minister otherwise directs.
 
 [10/2008 wef 10/06/2008]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Control of occupation, trade or business
 
-21\.—(1) The Director may, by order in writing, prohibit any person who is a case or carrier of an infectious disease for any period specified therein from carrying on any occupation, trade or business in which that person is likely to cause the spread of the disease.
+21\.—(1) The Director may give a direction to —
 
-[16/80]
+(a) any person who is a case or carrier of an infectious disease and is carrying on or may carry on any occupation, trade or business; or
 
-(2) The Director may, by order in writing, prohibit any person for any period specified therein from carrying on any occupation, trade or business if his occupation, trade or business is conducted in such manner as is likely to cause the spread of any infectious disease.
+(b) any person carrying on any occupation, trade or business in a manner as is likely to cause the spread of any infectious disease,
 
-(3) Any person who fails to comply with an order made by the Director under subsection (1) or (2) shall be guilty of an offence.
+about the taking of preventative action that the Director reasonably believes is necessary to prevent the possible outbreak or prevent or reduce the spread of the infectious disease.
 
-[10/2008 wef 10/06/2008]
+(2) Without limiting subsection (1), “preventative action”, in the case of a direction given to a person carrying on or who may carry on any occupation, trade or business, includes requiring the person to do any one or more of the following:
 
-(4) Without prejudice to any proceedings under subsection (3), where an order made by the Director under subsection (1) or (2) prohibiting any person from carrying on any occupation, trade or business has not been complied with by that person, the Director, a Health Officer or a police officer may, without warrant and with such force as may be necessary, enter the premises on which the occupation, trade or business is being carried out and take or cause to be taken such measures as are necessary to close the premises.
+(a) to stop carrying on, or not carry on, the occupation, trade or business during a period of time specified in the direction;
 
-[10/2008 wef 10/06/2008]
+(b) take specified steps within a period of time specified in the direction, to ensure that the occupation, trade or business is conducted in compliance with conditions specified in the direction;
 
-(5) The costs and expenses incurred by the Director or a Health Officer under subsection (4) shall be paid by the person in default and may be recovered as a debt due to the Government.
+(c) until the action in paragraphs (a) and (b) are complied with, to ensure —
 
-[10/2008 wef 10/06/2008]
+(i) the premises at which the occupation, trade or business is or may be conducted is, for the period of time that is specified in the direction, not used for any activity;
 
-(6) Any person who is aggrieved by any order or requirement of the Director as contained in an order made by the Director under subsection (1) or (2) may, within 7 days from the date of the order, appeal to the Minister whose decision shall be final.
+(ii) any vehicle, plant, article, machinery or equipment on those premises is, for the period of time that is specified in the direction, not used, moved, sold or otherwise handled; or
 
-[10/2008 wef 10/06/2008]
+(iii) any vehicle, plant, article, machinery or equipment on those premises and specified in the direction is, for the period of time that is specified in the direction, not removed from those premises, for any purpose or in any circumstances specified in the direction.
 
-(7) Notwithstanding that any appeal under subsection (6) is pending, an order made by the Director under subsection (1) or (2) shall take effect from the date specified by the Director, unless the Minister otherwise directs.
+(3) If a person refuses or fails to comply with any requirement of a direction given to that person under subsection (1), the Director may —
 
-[10/2008 wef 10/06/2008]
+(a) take any steps reasonably necessary to ensure control of the premises at which an occupation, trade or business is or may be conducted or any vehicle, plant, article, machinery or equipment on those premises, including entry to a place or vehicle without warrant and with the use of necessary force; and
+
+(b) carry out the requirement, and recover the costs and expenses reasonably incurred in carrying out the requirement as a debt due from that person.
+
+(4) A person who, without reasonable excuse, fails to comply with any requirement of a direction given to that person under subsection (1) shall be guilty of an offence.
+
+(5) A person given a direction under subsection (1) may, within 7 days after the direction is given, appeal against the direction to the appropriate Minister, whose decision is final.
+
+(6) A direction under subsection (1) takes effect despite any appeal under subsection (5), unless the appropriate Minister otherwise directs.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Certain persons not to act in manner likely to spread disease
 
-21A\.—(1) A person who knows, or has reason to suspect, that he is a case or carrier or contact of a disease set out in the Fifth Schedule shall not expose other persons to the risk of infection by his presence or conduct in any public place or any other place used in common by persons other than the members of his own family or household.
+21A\.—(1) A person who knows, or has reason to suspect, that he is a case or carrier or contact of a disease set out in the Second Schedule shall not expose other persons to the risk of infection by his presence or conduct in any public place or any other place used in common by persons other than the members of his own family or household.
 
 [7/2003]
 
-(2) A person having the care of another person whom he knows, or has reason to suspect, is a case or carrier or contact of a disease set out in the Fifth Schedule shall not cause or permit that person to expose other persons to the risk of infection by that person’s presence or conduct in any such place.
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) A person having the care of another person whom he knows, or has reason to suspect, is a case or carrier or contact of a disease set out in the Second Schedule shall not cause or permit that person to expose other persons to the risk of infection by that person’s presence or conduct in any such place.
 
 [7/2003]
 
-(3) A person shall not lend, sell, transmit or expose, without previous disinfection, any clothing, bedding or rags which he knows to have been exposed to infection from a disease set out in the Fifth Schedule, or any other article which he knows to have been so exposed and which is liable to carry such infection.
+[Act 5 of 2019 wef 25/03/2019]
+
+(3) A person shall not lend, sell, transmit or expose, without previous disinfection, any clothing, bedding or rags which he knows to have been exposed to infection from a disease set out in the Second Schedule, or any other article which he knows to have been so exposed and which is liable to carry such infection.
 
 [7/2003]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence.
 
 [7/2003]
 
-(5) A person shall not incur any liability for contravening subsection (1) if his presence or conduct in a place mentioned in that subsection is necessary for the purpose of obtaining medical treatment.
+(5) In proceedings for an offence under subsection (4) for contravening subsection (1) or (2), it is a defence for the accused to prove, on a balance of probabilities, that the accused’s presence or conduct in the place mentioned in subsection (1) or (2), as the case may be —
+
+(a) was necessary for the purpose of obtaining medical treatment; or
+
+(b) was authorised by the Director.
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(6) Where the Director has designated a hospital or other place for the treatment of any disease set out in the Second Schedule, subsection (5)(a) shall only apply in relation to the obtaining of medical treatment at the designated hospital or place for that disease.
 
 [7/2003]
 
-(6) Where the Director has designated a hospital or other place for the treatment of any disease set out in the Fifth Schedule, subsection (5) shall only apply in relation to the obtaining of medical treatment at the designated hospital or place for that disease.
-
-[7/2003]
+[Act 5 of 2019 wef 25/03/2019]
 
 (7) A person shall not incur any liability for contravening subsection (3) by transmitting with proper precautions any article for the purpose of having it disinfected.
 
 [7/2003]
 
+### Order to disseminate health advisory
+
+21B\.—(1) The appropriate Minister may, for the purpose of preventing the spread or possible outbreak of any infectious disease in Singapore, or the spread of any infectious disease into Singapore or from Singapore to outside Singapore, by written order, direct any relevant operator —
+
+(a) to disseminate any health advisory, in such form and manner as the Director may require, to any relevant person specified in the order;
+
+(b) to provide any information, in the possession or control of the relevant operator, to the Director to facilitate the Director or any other person in the dissemination of a health advisory to a relevant person; or
+
+(c) to provide any information, in the possession or control of the relevant operator, to another relevant operator who is required to disseminate a health advisory under paragraph (a), to facilitate in the dissemination of the health advisory.
+
+(2) The Director may disclose any information obtained from a relevant operator under subsection (1)(b) to another relevant operator who is required to disseminate a health advisory under subsection (1)(a), to facilitate in the dissemination of the health advisory.
+
+(3) The Director may impose conditions as to the use of any information provided or disclosed to any relevant operator under subsection (1)(c) or (2).
+
+(4) Any relevant operator who, without reasonable excuse, refuses or fails to comply with —
+
+(a) an order under subsection (1); or
+
+(b) a condition under subsection (3),
+
+shall be guilty of an offence.
+
+(5) This section does not affect any other right of disclosure a relevant operator may have under any written law or rule of law.
+
+[Act 5 of 2019 wef 25/03/2019]
+
 ## PART IV
 
-CONTROL OF AIDS AND HIV INFECTION
+CONTROL OF HIV INFECTION
 
-### Person with AIDS or HIV Infection to undergo counselling, etc.
+[Act 5 of 2019 wef 25/03/2019]
 
-22\.—(1) The Director may require any person who has been diagnosed as having AIDS or HIV Infection —
+### Person with HIV Infection to undergo counselling, etc.
+
+22\.—(1) The Director may require any person who has been diagnosed as having HIV Infection —
 
 (a) to undergo counselling at such time and at such hospital or other place as the Director may determine; and
 
@@ -854,31 +1052,41 @@ CONTROL OF AIDS AND HIV INFECTION
 
 [5/92; 13/99]
 
+[Act 5 of 2019 wef 25/03/2019]
+
 (2) Any person who fails or refuses to comply with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [5/92]
 
-### Sexual activity by person with AIDS or HIV Infection
+[Act 5 of 2019 wef 25/03/2019]
 
-23\.—(1) A person who knows that he has AIDS or HIV Infection shall not engage in any sexual activity with another person unless, before the sexual activity takes place —
+### Sexual activity by person with HIV Infection
 
-(a) he has informed that other person of the risk of contracting AIDS or HIV Infection from him; and
+23\.—(1) A person who knows that he has HIV Infection shall not engage in any sexual activity with another person unless, before the sexual activity takes place —
+
+(a) he has informed that other person of the risk of contracting HIV Infection from him; and
 
 (b) that other person has voluntarily agreed to accept that risk.
 
-(2) A person who does not know that he has AIDS or HIV Infection, but who has reason to believe that he has, or has been exposed to a significant risk of contracting, AIDS or HIV Infection shall not engage in any sexual activity with another person unless —
+[Act 5 of 2019 wef 25/03/2019]
 
-(a) before the sexual activity takes place he informs that other person of the risk of contracting AIDS or HIV Infection from him and that other person voluntarily agrees to accept that risk;
+(2) A person who does not know that he has HIV Infection, but who has reason to believe that he has, or has been exposed to a significant risk of contracting, HIV Infection shall not engage in any sexual activity with another person unless —
 
-(b) he has undergone the necessary serological or other test and has ascertained that he does not have AIDS or HIV Infection at the time of the sexual activity; or
+(a) before the sexual activity takes place he informs that other person of the risk of contracting HIV Infection from him and that other person voluntarily agrees to accept that risk;
 
-(c) during the sexual activity, he takes reasonable precautions to ensure that he does not expose that other person to the risk of contracting AIDS or HIV Infection.
+(b) he has undergone the necessary serological or other test and has ascertained that he does not have HIV Infection at the time of the sexual activity; or
+
+(c) during the sexual activity, he takes reasonable precautions to ensure that he does not expose that other person to the risk of contracting HIV Infection.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 10 years or to both.
 
 (4) For the purposes of this section, a person shall not, only by reason of age, be presumed incapable of engaging in sexual activity.
 
-(5) For the purposes of this section, a person shall be deemed to know that he has AIDS or HIV Infection if a serological test or other test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result has been communicated to him.
+(5) For the purposes of this section, a person shall be deemed to know that he has HIV Infection if a serological test or other test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result has been communicated to him.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (6) No prosecution shall be instituted for an offence under subsection (2) except with the written consent of the Public Prosecutor, but a person charged with such an offence may be arrested and be remanded in custody or released on bail notwithstanding that the consent of the Public Prosecutor to the institution of a prosecution for the offence has not been obtained, except that the case shall not be further prosecuted until that consent of the Public Prosecutor has been obtained.
 
@@ -892,19 +1100,25 @@ CONTROL OF AIDS AND HIV INFECTION
 
 [10/2008 wef 10/06/2008]
 
-### Blood donation and other acts by person with AIDS or HIV Infection
+[Act 5 of 2019 wef 25/03/2019]
 
-24\.—(1) Any person who knows that he has AIDS or HIV Infection shall not —
+### Blood donation and other acts by person with HIV Infection
+
+24\.—(1) Any person who knows that he has HIV Infection shall not —
 
 (a) donate blood at any blood bank in Singapore; or
 
-(b) do any act which is likely to transmit or spread AIDS or HIV Infection to another person.
+(b) do any act which is likely to transmit or spread HIV Infection to another person.
 
 [5/92; 13/99]
 
-(1A) For the purposes of this section, a person shall be deemed to know that he has AIDS or HIV Infection if a serological test or other test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result has been communicated to him.
+[Act 5 of 2019 wef 25/03/2019]
+
+(1A) For the purposes of this section, a person shall be deemed to know that he has HIV Infection if a serological test or other test for the purpose of ascertaining the presence of HIV Infection carried out on him has given a positive result and the result has been communicated to him.
 
 [10/2008 wef 10/06/2008]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 10 years or to both.
 
@@ -912,9 +1126,11 @@ CONTROL OF AIDS AND HIV INFECTION
 
 [10/2008 wef 10/06/2008]
 
-### Protection of identity of person with AIDS, HIV Infection or other sexually transmitted disease
+[Act 5 of 2019 wef 25/03/2019]
 
-25\.—(1) Any person who, in the performance or exercise of his functions or duties under this Act, is aware or has reasonable grounds for believing that another person has AIDS or HIV Infection or is suffering from a sexually transmitted disease or is a carrier of that disease shall not disclose any information which may identify the other person except —
+### Protection of identity of person with HIV Infection or other sexually transmitted disease
+
+25\.—(1) Any person who, in the performance or exercise of his functions or duties under this Act, is aware or has reasonable grounds for believing that another person has HIV Infection or is suffering from a sexually transmitted disease or is a carrier of that disease shall not disclose any information which may identify the other person except —
 
 (a) with the consent of the other person;
 
@@ -944,9 +1160,13 @@ CONTROL OF AIDS AND HIV INFECTION
 
 (j) to any person or class of persons to whom, in the opinion of the Director, it is in the public interest that the information be given; or
 
-(k) when authorised by the Minister to publish such information for the purposes of public health or public safety.
+(k) when authorised by the appropriate Minister to publish such information for the purposes of public health or public safety.
 
 [5/92; 13/99]
+
+[Act 5 of 2019 wef 25/03/2019]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 months or to both.
 
@@ -972,23 +1192,29 @@ CONTROL OF AIDS AND HIV INFECTION
 
 [13/99]
 
+[Act 5 of 2019 wef 25/03/2019]
+
 ### Disclosure by Director, medical practitioner and recipient of information
 
-25A\.—(1) The Director may disclose any information relating to any person whom he reasonably believes to be infected with AIDS or HIV Infection to —
+25A\.—(1) The Director may disclose any information relating to any person whom he reasonably believes to be infected with HIV Infection to —
 
-(a) any medical practitioner or other health staff who has been exposed to a risk of infection from AIDS or HIV Infection; or
+(a) any medical practitioner or other health staff who has been exposed to a risk of infection from HIV Infection; or
 
 (b) any first responder who has experienced a significant exposure to blood or other potentially infectious materials of any patient.
 
 [13/99]
 
+[Act 5 of 2019 wef 25/03/2019]
+
 (2) In subsection (1), “first responder” means any police officer, member of the Singapore Civil Defence Force or any person who provides emergency response, first aid care or other medically related assistance either in the course of the person’s occupational duties or as a volunteer.
 
 [13/99]
 
-(3) Subject to subsection (4), a medical practitioner may disclose information relating to any person whom he reasonably believes to be infected with AIDS or HIV Infection to the spouse, former spouse or other contact of the infected person or to a Health Officer for the purpose of making the disclosure to the spouse, former spouse or other contact.
+(3) Subject to subsection (4), a medical practitioner may disclose information relating to any person whom he reasonably believes to be infected with HIV Infection to the spouse, former spouse or other contact of the infected person or to a Health Officer for the purpose of making the disclosure to the spouse, former spouse or other contact.
 
 [13/99]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (4) The medical practitioner shall not disclose any information under subsection (3) unless —
 
@@ -1008,9 +1234,11 @@ CONTROL OF AIDS AND HIV INFECTION
 
 [13/99]
 
-(7) No person, to whom any information relating to a person who is reasonably believed to be infected with AIDS or HIV Infection has been disclosed under this section, shall disclose such information to any person other than the persons specified in subsection (8) or as provided in subsection (10).
+(7) No person, to whom any information relating to a person who is reasonably believed to be infected with HIV Infection has been disclosed under this section, shall disclose such information to any person other than the persons specified in subsection (8) or as provided in subsection (10).
 
 [13/99]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (8) The persons referred to in subsection (7) are —
 
@@ -1026,9 +1254,11 @@ CONTROL OF AIDS AND HIV INFECTION
 
 [13/99]
 
-(10) A person, to whom any information relating to a person who is reasonably believed to be infected with AIDS or HIV Infection has been disclosed under this section, may apply to the Director for approval to disclose such information to any person or class of persons.
+(10) A person, to whom any information relating to a person who is reasonably believed to be infected with HIV Infection has been disclosed under this section, may apply to the Director for approval to disclose such information to any person or class of persons.
 
 [13/99]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (11) The Director may approve the application under subsection (10) if he is satisfied that such disclosure is in the interests of public health or public safety.
 
@@ -1036,15 +1266,21 @@ CONTROL OF AIDS AND HIV INFECTION
 
 ## PART V
 
-PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
+PREVENTION OF INTERNATIONAL SPREAD OF INFECTIOUS DISEASES
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Infected area
 
-26\.—(1) Where the Minister has reason to believe that a dangerous infectious disease may be introduced into Singapore from or through any area in Singapore or elsewhere, he may, by notification in theGazette, declare that area to be an infected area.
+26\.—(1) Where the appropriate Minister has reason to believe that a dangerous infectious disease may be introduced into Singapore from or through any area in Singapore or elsewhere, he may, by notification in theGazette, declare that area to be an infected area.
 
-(2) The Minister may, in his discretion, issue an order prohibiting the entry into Singapore of any person or class of persons from an infected area declared under subsection (1) except under such conditions as he may specify.
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) The appropriate Minister may, in his discretion, issue an order prohibiting the entry into Singapore of any person or class of persons from an infected area declared under subsection (1) except under such conditions as he may specify.
 
 [5/2003]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Vessels, persons and articles from infected area
 
@@ -1084,13 +1320,7 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 [4/2002]
 
-### Undertaking to report to Port Health Officer
-
-30\.—(1) Any person who has given an undertaking in another country to report to a Port Health Officer in Singapore shall immediately on his arrival report accordingly and shall comply with all the directions of a Port Health Officer.
-
-(2) Any person who contravenes subsection (1) or fails to comply with the directions of a Port Health Officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000; and any deposit or guarantee made by such person may be forfeited.
-
-(3) Without prejudice to subsection (2), any such person who fails to report to a Port Health Officer or fails to comply with the directions of a Port Health Officer shall be liable to be arrested without a warrant, to be isolated, disinfected or otherwise treated.
+30\. [Repealed by Act 5 of 2019 wef 25/03/2019]
 
 ### Vaccination and other prophylaxis
 
@@ -1106,7 +1336,9 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 [10/2008 wef 10/06/2008]
 
-(3) The Port Health Officer may, in his discretion, return any person, not being a citizen of Singapore, who refuses or fails to comply with subsection (2), to his place of origin or embarkation at the expense of the owner or agent of the vessel by which he arrived in Singapore.
+(3) The Port Health Officer may, in his discretion, return any person, not being a citizen of Singapore, who arrives in Singapore in contravention of subsection (1), to his place of origin or embarkation at the expense of the owner or agent of the vessel by which he arrived in Singapore.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (4) The owner, master or agent of any vessel shall ensure compliance with subsection (1) in respect of any person on board his vessel.
 
@@ -1274,7 +1506,9 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 45\.—(1) The master, owner and agent of any vessel which has been ordered into quarantine or of any vessel from which any person is removed for quarantine shall be responsible for —
 
-(a) the removal, care and maintenance, conveyance and medical surveillance of all persons on board the vessel; and
+(a) the removal, care and maintenance, conveyance and surveillance of all persons on board the vessel; and
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (b) the provision of such services as the Director-General, the Director, a Port Health Officer or a Health Officer considers necessary to ensure the satisfactory performance of the quarantine of the vessel and the persons on board.
 
@@ -1294,6 +1528,24 @@ PREVENTION OF INTRODUCTION OF INFECTIOUS DISEASES INTO SINGAPORE
 
 [4/2002; 5/2003]
 
+### Medical examination of persons arriving in Singapore
+
+45A\.—(1) The Director may, for the purpose of preventing the spread or possible outbreak of any infectious disease in Singapore, by written order, require all or any persons arriving in Singapore to undergo any medical examination specified in the order.
+
+(2) Any person given an order under subsection (1) who, without reasonable excuse, refuses or fails to comply with the order shall be guilty of an offence.
+
+[Act 5 of 2019 wef 25/03/2019]
+
+### Medical examination of persons leaving Singapore during public health emergency
+
+45B\.—(1) During a public health emergency relating to an outbreak of an infectious disease declared under section 17A(1), the appropriate Minister may, for the purpose of preventing the spread of that infectious disease out of Singapore, by written order, require all or any persons leaving Singapore to undergo any medical examination specified in the order.
+
+(2) Any person given an order under subsection (1) who, without reasonable excuse, refuses or fails to comply with the order shall be guilty of an offence.
+
+(3) Notice of the appropriate Minister’s written order must be published in theGazettefor general information.
+
+[Act 5 of 2019 wef 25/03/2019]
+
 ## PART VI
 
 VACCINATION AND OTHER PROPHYLAXIS
@@ -1310,23 +1562,27 @@ VACCINATION AND OTHER PROPHYLAXIS
 
 ### Power to order certain persons to undergo vaccination or other prophylaxis
 
-47\.—(1) In an outbreak of any infectious disease in any area in Singapore, the Minister may by order direct any person or class of persons not protected or vaccinated against the disease to undergo vaccination or other prophylaxis within such period as may be specified in the order.
+47\.—(1) In an outbreak or a suspected outbreak of any infectious disease in any area in Singapore, the Director may by order direct any person or class of persons not protected or vaccinated against the disease to undergo vaccination or other prophylaxis within such period as may be specified in the order.
 
 [5/2003]
 
 [10/2008 wef 10/06/2008]
 
-(2) In addition to the power conferred by subsection (1), where it appears to the Minister that —
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) In addition to the power conferred by subsection (1), where it appears to the Director that —
 
 (a) an outbreak of an infectious disease in any area in Singapore is imminent; and
 
 (b) it is necessary or expedient to do so for the securing of public safety,
 
-the Minister may by order direct any person or class of persons not protected or vaccinated against that infectious disease to undergo vaccination or other prophylaxis within such period as may be specified in the order.
+the Director may by order direct any person or class of persons not protected or vaccinated against that infectious disease to undergo vaccination or other prophylaxis within such period as may be specified in the order.
 
 [5/2003]
 
 [10/2008 wef 10/06/2008]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (3) Any order made under subsection (1) or (2) may specify the person by whom and the manner in which the vaccination or other prophylaxis is to be carried out.
 
@@ -1334,9 +1590,11 @@ the Minister may by order direct any person or class of persons not protected or
 
 [10/2008 wef 10/06/2008]
 
-(4) Where any order is made under subsection (1) or (2), the Minister shall cause notice of the effect of the order to be given in such a manner as he thinks necessary for bringing it to the notice of all persons who in his opinion ought to have notice thereof.
+(4) Where any order is made under subsection (1) or (2), the Director shall cause notice of the effect of the order to be given in such a manner as he thinks necessary for bringing it to the notice of all persons who in his opinion ought to have notice thereof.
 
 [5/2003]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Vaccination
 
@@ -1394,17 +1652,23 @@ the Minister may by order direct any person or class of persons not protected or
 
 ### Suspension of this Part
 
-52\.—(1) The Minister may, by notification in theGazette, suspend all or any of the provisions of this Part during an epidemic of any infectious disease.
+52\.—(1) The appropriate Minister may, by notification in theGazette, suspend all or any of the provisions of this Part during an epidemic of any infectious disease.
 
-(2) The Minister shall, on the termination of such epidemic, by notification in theGazetterestore such provisions of this Part that he has suspended and order all persons affected by the suspension to perform within such time as he may specify all acts that remained to be performed by reason of the suspension.
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) The appropriate Minister shall, on the termination of such epidemic, by notification in theGazetterestore such provisions of this Part that he has suspended and order all persons affected by the suspension to perform within such time as he may specify all acts that remained to be performed by reason of the suspension.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 53\. [Repealed by Act 10/2008 wef 10/06/2008]
 
 ### Fees for vaccinations and other prophylaxis
 
-54\. The Minister may from time to time, by notification in theGazette, prescribe the fees that may be charged by medical practitioners who carry out any vaccination or other prophylaxis under the provisions of this Act.
+54\. The appropriate Minister may from time to time, by notification in theGazette, prescribe the fees that may be charged by medical practitioners who carry out any vaccination or other prophylaxis under the provisions of this Act.
 
 [10/2008 wef 10/06/2008]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ## PART VII
 
@@ -1412,7 +1676,7 @@ ENFORCEMENT
 
 ### Powers of Director and Health Officers in dealing with outbreaks and suspected outbreaks of infectious diseases
 
-55\.—(1) For the purpose of investigating into any outbreak or suspected outbreak of an infectious disease or for the purpose of preventing a possible outbreak or the spread of an infectious disease, the Director or any Health Officer authorised by the Director may —
+55\.—(1) For the purpose of investigating into any outbreak or suspected outbreak of an infectious disease or for the purpose of preventing the spread or possible outbreak of an infectious disease, the Director or any Health Officer authorised by the Director may —
 
 (a) at any time without warrant and with such force as may be necessary —
 
@@ -1434,13 +1698,17 @@ in which the outbreak or suspected outbreak has taken place;
 
 (ii) to produce any book, document or other record which may be in his custody or possession for inspection by the Director or Health Officer and the making of copies thereof, or to provide the Director or Health Officer with copies of such book, document or other record,
 
-and may, if necessary, further require such person to attend at a specified time and place for the purposes of complying with sub-paragraph (i) or (ii);
+within such time and in such form or manner as the Director or Health Officer may specify and may, if necessary, further require such person to attend at a specified time and place for the purposes of complying with sub-paragraph (i) or (ii);
 
 [10/2008 wef 10/06/2008]
 
-(f) require, by notice in writing, any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination and have his blood or other body sample taken for examination within or at such time, and at such place, as may be specified in such notice, and to undergo such treatment as may be necessary;
+[Act 5 of 2019 wef 25/03/2019]
+
+(f) require, by written notice, any person who is, or is suspected to be, a case or carrier or contact of an infectious disease to submit to medical examination and have his blood or other body sample taken for examination within or at such time, and at such place, as may be specified in such notice, and to undergo such treatment as may be necessary;
 
 [10/2008 wef 10/06/2008]
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (g) subject to subsection (5), order the closure or cordoning off of any public place in which the outbreak or suspected outbreak, or the transmission or suspected transmission, of an infectious disease has taken place;
 
@@ -1450,7 +1718,9 @@ and may, if necessary, further require such person to attend at a specified time
 
 (i) any premises which, in his opinion, is suitable for the isolation and treatment of persons who are or are reasonably suspected to be cases or carriers or contacts of the infectious disease; and
 
-(ii) any conveyance which, in his opinion, is suitable and necessary for use in connection with the prevention of the spread of the infectious disease; and
+(ii) any conveyance which, in his opinion, is suitable and necessary for use in connection with the prevention of the spread or possible outbreak of the infectious disease; and
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (i) by order prohibit or restrict the movement of persons, animals and conveyances into, within or out of any public place referred to in paragraph (g) or any premises referred to in paragraph (h)(i).
 
@@ -1458,13 +1728,17 @@ and may, if necessary, further require such person to attend at a specified time
 
 [10/2008 wef 10/06/2008]
 
+[Act 5 of 2019 wef 25/03/2019]
+
 (2) Where the Director or Health Officer seizes any substance or matter under subsection (1)(c) —
 
-(a) the Director or Health Officer shall immediately give notice in writing of the seizure to the owner of, or to the person from whom, the substance or matter was seized and may —
+(a) the Director or Health Officer shall immediately give written notice of the seizure to the owner of, or to the person from whom, the substance or matter was seized and may —
 
 (i) direct that the substance or matter under seizure be kept or stored in the premises or conveyance where it was seized or be removed to any other place to be kept or stored thereat; or
 
 (ii) dispose of the substance or matter immediately if the Director or Health Officer is of the view that the substance or matter is decayed, putrefied or deleterious to health; and
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (b) any person aggrieved by the seizure may, within 48 hours after the seizure, complain thereof to a Magistrate’s Court and the Magistrate’s Court may —
 
@@ -1526,9 +1800,21 @@ the substance or matter seized in its entirety or to the extent to which its sei
 
 (ii) to produce any book, document or other record which may be in his custody or possession for inspection by the police officer or Health Officer and the making of copies thereof, or to provide the police officer or Health Officer with copies of such book, document or other record,
 
-and may, if necessary, further require such person to attend at a specified time and place for the purposes of complying with sub-paragraph (i) or (ii); and
+and may, if necessary, further require such person to attend at a specified time and place for the purposes of complying with sub-paragraph (i) or (ii);
 
-(b) at any time without warrant and with such force as may be necessary stop, board, enter, inspect and search any premises or conveyance, as the case may be, and take samples of or seize any substance or matter found on the premises or conveyance.
+[Act 5 of 2019 wef 25/03/2019]
+
+(b) at any time without warrant and with such force as may be necessary, stop, board, enter, inspect and search any premises or conveyance;
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(c) take samples of or seize any substance or matter found in any premises or conveyance mentioned in paragraph (b); and
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(d) seize any book, document or record produced under paragraph (a) or found in any premises or conveyance mentioned in paragraph (b).
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (2) A statement made by any person giving evidence under subsection (1)(a) —
 
@@ -1554,6 +1840,28 @@ shall be guilty of an offence.
 
 [10/2008 wef 10/06/2008]
 
+### Disposal of document, substance or matter
+
+55B\.—(1) Any book, document, record, sample, substance or matter (called in this section the document, substance or matter) produced, taken or seized under this Act must —
+
+(a) where the document, substance or matter is produced in any criminal trial, be dealt with in accordance with section 364(1) of the Criminal Procedure Code (Cap. 68);
+
+(b) where the owner of the document, substance or matter consents to its disposal, be deemed to be forfeited; or
+
+(c) in any other case, be returned to the owner or reported to a Magistrate’s Court.
+
+(2) Where a document, substance or matter is reported to a Magistrate’s Court under subsection (1)(c), the Magistrate’s Court may order the document, substance or matter —
+
+(a) to be forfeited; or
+
+(b) to be disposed of in such manner as the Magistrate’s Court thinks fit.
+
+(3) Subject to any order to the contrary by the Magistrate’s Court, if the document, substance or matter is forfeited or deemed to be forfeited under this section, the document, substance or matter must be delivered to the Director and must be disposed of in such manner as the Director thinks fit.
+
+(4) This section does not affect any right to retain or dispose of property which may exist in law apart from this section.
+
+[Act 5 of 2019 wef 25/03/2019]
+
 ### Powers of arrest
 
 56\.—(1) Any police officer, or any Health Officer authorised in writing in that behalf by the Director, may arrest without warrant any person committing or who he has reason to believe has committed any offence under section 11(1), 20(2), 21A(4), 23(3), 24(2) or 55(8).
@@ -1570,9 +1878,21 @@ shall be guilty of an offence.
 
 (3) Subject to subsection (7), any police officer, or any Health Officer authorised in writing in that behalf by the Director, may arrest without warrant any person who —
 
-(a) being required to be isolated in any place under the provisions of this Act, has failed to proceed to that place or has left or attempted to leave that place; or
+(a) being required to be isolated in any place under the provisions of this Act, has failed to proceed to that place or has left or attempted to leave that place;
 
-(b) being required to undergo or submit to any surveillance, medical examination or medical treatment under the provisions of this Act, has failed to undergo or submit to such surveillance, examination or treatment or comply with any condition relating to his surveillance.
+[Act 5 of 2019 wef 25/03/2019]
+
+(b) being required to undergo or submit to any surveillance, medical examination or medical treatment under the provisions of this Act, has failed to undergo or submit to such surveillance, examination or treatment or comply with any condition relating to his surveillance; or
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(c) being required to comply with any requirement mentioned in paragraph (a) or (b), attempts to leave Singapore without the approval of the Director.
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(3A) Any person who, being required to comply with any requirement mentioned in subsection (3)(a) or (b), attempts to leave Singapore without the approval of the Director shall be guilty of an offence.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (4) Any person arrested under subsection (2) shall, within 24 hours from the arrest or immediately in the case of a person who gives his address as a place outside Singapore, be taken before a Magistrate’s Court, unless before that time his true name and residence are ascertained, in which case he shall be immediately released on his executing a bond with or without sureties before a police officer not below the rank of inspector for his appearance before a Magistrate’s Court, if so required.
 
@@ -1580,7 +1900,7 @@ shall be guilty of an offence.
 
 (6) The Director may issue any order under this Act for the isolation, surveillance, medical examination or medical treatment of a person arrested under subsection (3).
 
-(7) Where a person who has failed to comply with any of the requirements referred to in subsection (3)(a) or (b) is unable to do so by reason of his age or any infirmity of body or mind, the police officer or Health Officer may, instead of arresting that person, take such measures as he thinks fit —
+(7) A police officer or Health Officer may, instead of arresting a person mentioned in subsection (3), take such measures as he thinks fit —
 
 (a) in a case where that person is to be isolated —
 
@@ -1593,6 +1913,8 @@ for such period of time and subject to such conditions as the Director thinks ne
 (b) in a case where that person is to undergo surveillance, to cause that person to undergo surveillance for such period of time and subject to such conditions as the Director thinks necessary for the protection of the public; or
 
 (c) in a case where that person is to undergo medical examination or medical treatment, to cause that person to be medically examined or treated.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (8) The measures referred to in subsection (7) may extend to —
 
@@ -1618,27 +1940,29 @@ for such period of time and subject to such conditions as the Director thinks ne
 
 [5/2003]
 
-### Disclosure of information to prevent spread or possible outbreak of infectious disease, etc.
+### Disclosure of information by Director to prevent spread or possible outbreak of infectious disease, etc.
 
 57A\.—(1) Subject to subsection (2), the Director may disclose any information obtained by him under this Act which identifies any person who is, or is suspected to be, a case or carrier or contact of an infectious disease —
 
-(a) to any person if such disclosure is necessary to enable that person to take the necessary measures to prevent the spread or possible outbreak of an infectious disease where —
+(a) to any person if the disclosure is necessary for the person to take measures to prevent the spread or possible outbreak of the infectious disease; or
 
-(i) the infectious disease is one of the diseases set out in the Sixth Schedule; or
-
-(ii) the Minister, having regard to the circumstances of the case, thinks that such disclosure is necessary and has given his approval in writing for the disclosure to be made; or
+[Act 5 of 2019 wef 25/03/2019]
 
 (b) to the World Health Organisation or a State Party to the World Health Organisation if such disclosure is necessary to comply with an international obligation of Singapore.
 
-(2) The Director may, in disclosing any information to any person under subsection (1)(a)(i), impose such conditions as he thinks fit and the person to whom the information is disclosed shall comply with such conditions.
+(2) The Director may, in disclosing any information to any person under subsection (1)(a), impose such conditions as he thinks fit and the person to whom the information is disclosed shall comply with such conditions.
 
-(3) The Minister may, in giving his approval for the disclosure of any information under subsection (1)(a)(ii), impose such conditions as he thinks fit and the person to whom the information is disclosed shall comply with such conditions.
+[Act 5 of 2019 wef 25/03/2019]
+
+(3) [Deleted by Act 5 of 2019 wef 25/03/2019]
 
 (4) A person to whom the Director has disclosed any information under subsection (1)(a) may only disclose or use such information to the extent necessary for implementing any measure permitted by the Director for the purpose of preventing the spread or possible outbreak of that infectious disease, but not otherwise.
 
 (5) Any person who —
 
-(a) fails to comply with any condition imposed under subsection (2) or (3); or
+(a) fails to comply with any condition imposed under subsection (2); or
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (b) contravenes subsection (4),
 
@@ -1648,9 +1972,47 @@ shall be guilty of an offence.
 
 [10/2008 wef 10/06/2008]
 
+[Act 5 of 2019 wef 25/03/2019]
+
+### Disclosure of information to prevent spread or possible outbreak of infectious disease, etc., as authorised by Director
+
+57B\.—(1) The Director may, by written notice, authorise a healthcare provider to disclose to a specified recipient information, which identifies any person as —
+
+(a) a case or carrier or contact of an infectious disease (called in this section the affected person); or
+
+(b) being suspected to be an affected person,
+
+to enable the specified recipient to take the necessary measures to prevent the spread or possible outbreak of the infectious disease.
+
+(2) The Director may, in authorising the disclosure of any information under subsection (1) by a healthcare provider, impose such conditions on the healthcare provider or the specified recipient of that information, and the healthcare provider or specified recipient (as the case may be) must comply with such conditions.
+
+(3) A specified recipient of information provided under subsection (1) may disclose that information to another person providing a prescribed healthcare service to an affected person on behalf of the specified recipient, or use that information, only to the extent necessary to take the necessary measures to prevent the spread or possible outbreak of that infectious disease, but not otherwise.
+
+(4) Any person who, without reasonable excuse —
+
+(a) fails to comply with any condition imposed under subsection (2); or
+
+(b) contravenes subsection (3),
+
+shall be guilty of an offence.
+
+(5) This section does not affect any other right of disclosure under any written law or rule of law.
+
+(6) In this section —
+
+“healthcare provider” means any person that provides a prescribed healthcare service;
+
+“prescribed healthcare service” means any healthcare service prescribed for the purposes of this section;
+
+“specified recipient” means any person that provides a prescribed healthcare service to an affected person.
+
+[Act 5 of 2019 wef 25/03/2019]
+
 ### Extraordinary powers in relation to emergency measures
 
-58\.—(1) The Director may, with the approval of the Minister, formulate and implement emergency measures for the control of an infectious disease in any area and such measures shall be published in theGazettebefore implementation.
+58\.—(1) The Director may, with the approval of the appropriate Minister, formulate and implement emergency measures for the control of an infectious disease in any area and such measures shall be published in theGazettebefore implementation.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (2) Any person who wilfully neglects or refuses to carry out or obstructs the execution of any emergency measure formulated and implemented under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -1668,37 +2030,65 @@ NATIONAL PUBLIC HEALTH RESEARCH
 
 ### National public health research
 
-59A\.—(1) The Director may, if he considers it to be in the public interest, from time to time undertake or facilitate such public health research as he thinks necessary to increase or acquire new knowledge on, or to discover or create new or improved materials, devices, processes or products for the detection, prevention or treatment of —
+59A\.—(1) The Director may, if he considers it to be in the public interest, from time to time undertake or facilitate any research that the Director thinks is necessary to increase or acquire new knowledge on, or to discover or create new or improved materials, devices, processes or products for the detection, prevention or treatment of —
 
 (a) any infectious disease; or
 
-(b) any other disease which is, or which the Minister suspects to be, of an infectious nature, and which the Minister, by notification in theGazette, declares to be a disease to which this section applies.
+(b) any other disease which is, or which the appropriate Minister suspects to be, of an infectious nature, and which the appropriate Minister, by notification in theGazette, declares to be a disease to which this section applies.
 
-(2) In deciding whether to undertake or facilitate any public health research under subsection (1), the Director shall consider —
+[Act 5 of 2019 wef 25/03/2019]
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(2) In deciding whether to undertake or facilitate any research under subsection (1), the Director must consider the extent to which all or any of the following factors exist:
 
 (a) whether there is an outbreak or a significant likelihood of an outbreak in Singapore of the disease to which the research relates;
 
-(b) whether the disease to which the research relates poses a substantial risk of a significant number of human fatalities or incidents of serious disability in Singapore; and
+(b) whether the disease to which the research relates poses a substantial risk of a significant number of human fatalities or incidents of serious disability in Singapore;
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (c) whether the new knowledge that may be acquired or the new or improved materials, devices, processes or products that may be discovered or created as a result of the research will result in any significant public health benefit to Singapore.
 
-(3) For the purposes of any research under subsection (1), the Director may —
+[Act 5 of 2019 wef 25/03/2019]
+
+(3) For the purposes of any national public health research, the Director may —
 
 (a) require any person to furnish him, within such time as the Director may specify, with —
 
 (i) such information in the possession or control of that person as the Director may consider necessary or appropriate; and
 
-(ii) any sample (including any human sample) in the possession or control of that person, whether taken pursuant to this Act or otherwise, as the Director may consider necessary or appropriate; and
+(ii) any sample (including any human sample) in the possession or control of that person, whether taken pursuant to this Act or otherwise, as the Director may consider necessary or appropriate;
 
-(b) require any medical practitioner, over such period as the Director may specify, to obtain, with the requisite consent, such information or samples (including human samples) as the Director may consider necessary or appropriate from the patients under his care, and to furnish such information or samples to the Director.
+[Act 5 of 2019 wef 25/03/2019]
 
-(4) Where any person is required by the Director to furnish any information or human sample under subsection (3), he shall cause the information or human sample to be anonymised before it is furnished to the Director.
+(b) require any medical practitioner, over such period as the Director may specify, to obtain, with the requisite consent, such information or samples (including human samples) as the Director may consider necessary or appropriate from the patients under his care, and to furnish such information or samples to the Director; and
 
-(5) For the purpose of subsection (1), the Director may, subject to such conditions as he thinks fit to impose —
+[Act 5 of 2019 wef 25/03/2019]
 
-(a) send any anonymised information or human sample received by him under subsection (3) to a third party to carry out such test, examination or analysis as the Director may consider necessary; or
+(c) use any other information or samples obtained by the Director under this Act.
 
-(b) provide any anonymised information or human sample received by him under subsection (3) to a third party who is engaged in any research concerning an infectious disease.
+[Act 5 of 2019 wef 25/03/2019]
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(4) Where any person is required by the Director to furnish any information or human sample under subsection (3), he shall cause the information or human sample to be anonymised before it is furnished to the Director, unless the Director directs otherwise.
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(5) For the purpose of any national public health research, the Director may do all or any of the following:
+
+(a) send any information or sample received by the Director under this Act to a third party to carry out such test, examination or analysis as the Director may consider necessary;
+
+(b) provide any information or sample received by the Director under this Act to a third party who is engaged in any national public health research;
+
+(c) impose such conditions as the Director thinks fit on the third party mentioned in paragraph (a) or (b).
+
+[Act 5 of 2019 wef 25/03/2019]
+
+(5A) If the Director is satisfied that any national public health research can be carried out only if any individually‑identifiable information or individually‑identifiable human sample is provided under this section, the Director may require, use, send or provide that individually‑identifiable information or individually‑identifiable human sample under this section for the purposes of the national public health research.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (6) It shall be an offence for any person —
 
@@ -1713,6 +2103,10 @@ NATIONAL PUBLIC HEALTH RESEARCH
 “anonymised”, in relation to any information or human sample, means the removal of identifying details from the information or sample so that the identity of the person from whom the information or sample was obtained cannot be readily discovered or ascertained by the recipient of the information or sample;
 
 “human sample” means a specimen of any substance or matter obtained from any person;
+
+“national public health research” means any research that the Director decides to undertake or facilitate under subsection (1);
+
+[Act 5 of 2019 wef 25/03/2019]
 
 “requisite consent” means —
 
@@ -1802,19 +2196,149 @@ shall be guilty of an offence.
 
 66\. Every offence under this Act may be tried by a Magistrate’s Court, and that Court may, notwithstanding anything in the Criminal Procedure Code (Cap. 68), award the full punishment with which the offence is punishable.
 
-### Immunity of Government, Agency, etc.
+### Protection from personal liability
 
-67\. No suit or other legal proceedings shall lie against the Government, the Agency, the Director-General, the Director, any Health Officer, any police officer or any authorised person referred to in section 17A(7) for anything which is in good faith done or omitted to be done in the exercise of any power or the performance of any duty or function under this Act.
+67\. No liability shall lie personally against the Director, the Director‑General, any Health Officer, any Port Health Officer, any police officer or any authorised person mentioned in section 17A(7) who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
 
-[5/2003]
+[Act 5 of 2019 wef 25/03/2019]
 
-[10/2008 wef 10/06/2008]
+### Immunity from liability for disclosure
+
+67A\. No person commits an offence under any written law or any breach of confidence, incurs any civil liability or is liable to any disciplinary action by a professional body, by virtue merely of disclosing any information or providing any thing, in good faith and with reasonable care —
+
+(a) in accordance with any requirement under this Act; or
+
+(b) as authorised by the Director under section 57B.
+
+[Act 5 of 2019 wef 25/03/2019]
+
+### Offences by corporations
+
+67B\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
+
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the officer, employee or agent had that state of mind,
+
+is evidence that the corporation had that state of mind.
+
+(2) Where a corporation commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the corporation, or a member of a corporation (in the case where the affairs of the corporation are managed by its members); or
+
+(ii) an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or
+
+(iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.
+
+(6) In this section —
+
+“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes any person purporting to act in any such capacity;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 5 of 2019 wef 25/03/2019]
+
+### Offences by unincorporated associations or partnerships
+
+67C\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or the partnership engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the employee or agent had that state of mind,
+
+is evidence that the unincorporated association or partnership had that state of mind.
+
+(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the unincorporated association or a member of its governing body;
+
+(ii) a partner in the partnership; or
+
+(iii) an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of the unincorporated association or partnership (as the case may be) in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or
+
+(iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of the same offence as is that unincorporated association or partnership, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the unincorporated association or partnership would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code; or
+
+(b) the Evidence Act or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not the unincorporated association or partnership is convicted of the offence.
+
+(6) In this section —
+
+“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —
+
+(a) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and
+
+(b) any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Composition of offences
 
-68\. The Director-General or the Director may compound any offence under this Act by accepting from the person reasonably suspected of having committed that offence a sum not exceeding $5,000.
+68\.—(1) The Director may compound any offence under this Act that is not mentioned in subsection (2) but is prescribed as a compoundable offence by the appropriate Minister under section 73, by collecting from a person reasonably suspected of having committed the offence a sum described in subsection (3).
 
-[4/2002; 7/2003]
+(2) The Director-General may compound any offence under sections 28, 29 and 33 to 45 and that is prescribed as a compoundable offence by the appropriate Minister under section 73, by collecting from a person reasonably suspected of having committed the offence a sum described in subsection (3).
+
+(3) The composition sum for the purposes of compounding a compoundable offence under subsection (1) or (2) is a sum not exceeding the lower of the following:
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
+
+(b) $5,000.
+
+(4) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
+
+(5) All sums collected under this section must be paid into the Consolidated Fund.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Fees, etc., collected by Director and Director-General
 
@@ -1868,7 +2392,9 @@ shall be guilty of an offence.
 
 [10/2008 wef 10/06/2008]
 
-(h) the prescribing of any measure, the prohibition of any act, or the imposing of a duty to do any act, necessary to prevent or control the spread of an infectious disease; and
+(h) the prescribing of any measure, the prohibition of any act, or the imposing of a duty to do any act, necessary to prevent or control the spread or possible outbreak of an infectious disease; and
+
+[Act 5 of 2019 wef 25/03/2019]
 
 (i) the prescribing of fees and charges and of any matter which by this Act is required to be prescribed.
 
@@ -1879,6 +2405,20 @@ shall be guilty of an offence.
 [72
 
 [7/2003]
+
+(4) The appropriate Minister may, in making regulations, specify —
+
+(a) different prescribed times and prescribed infectious diseases in relation to different classes of persons who are required to notify the Director under section 6; and
+
+(b) for the purposes of section 21B —
+
+(i) the relevant operators;
+
+(ii) the classes of relevant persons to whom a relevant operator may be required to disseminate any health advisory; and
+
+(iii) the types of information that may be obtained from different classes of relevant operators.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 ### Transitional and saving provisions
 
@@ -2128,17 +2668,31 @@ Zika Virus Infection.
 
 SECOND SCHEDULE
 
-Section 2
+Sections 2 and 21A
 
-Dangerous Infectious Diseases
+Dangerous infectious diseases
 
-(1) Plague.
+1. 
 
-(2) Severe Acute Respiratory Syndrome (SARS).
+Ebola.
 
-(3) Yellow Fever.
+2. 
 
-[S 119/90; S 127/2003]
+Middle East Respiratory Syndrome Coronavirus Infection (MERS-CoV).
+
+3. 
+
+Plague.
+
+4. 
+
+Severe Acute Respiratory Syndrome (SARS).
+
+5. 
+
+Yellow fever.
+
+[Act 5 of 2019 wef 25/03/2019]
 
 THIRD SCHEDULE
 
@@ -2173,77 +2727,11 @@ Diseases against which a child is to be vaccinated
 
 FIFTH SCHEDULE
 
-Section 21A(1), (2) and (3)
-
-Diseases in respect of which Acts referred to in section 21A are prohibited
-
-1. 
-
-Severe Acute Respiratory Syndrome (SARS).
-
-2. 
-
-Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV).
-
-[S 395/2014 wef 05/06/2014]
-
-[S 451/2016 wef 28/09/2016]
-
-3. 
-
-Ebola Virus Disease (EVD).
-
-[S 523/2014 wef 08/08/2014]
+[Deleted by Act 5 of 2019 wef 25/03/2019]
 
 SIXTH SCHEDULE
 
-Section 57A(1)
-
-Diseases in respect of which information may be disclosed by the Director to a person to enable him to take steps to prevent spread of diseases
-
-1. 
-
-Middle East Respiratory Syndrome Coronavirus Infection (MERS‑CoV).
-
-[S 395/2014 wef 05/06/2014]
-
-[S 451/2016 wef 28/09/2016]
-
-2. 
-
-Severe Acute Respiratory Syndrome (SARS).
-
-[S 183/2013 wef 02/04/2013]
-
-3. 
-
-Tuberculosis.
-
-[S 298/2012 wef 14/05/2013]
-
-4. 
-
-Avian Influenza.
-
-[S 298/2013 wef 14/05/2013]
-
-5. 
-
-Ebola Virus Disease (EVD).
-
-[S 523/2014 wef 08/08/2014]
-
-6. 
-
-Dengue Fever.
-
-[S 720/2014 wef 30/10/2014]
-
-7. 
-
-Dengue Haemorrhagic Fever.
-
-[S 720/2014 wef 30/10/2014]
+[Deleted by Act 5 of 2019 wef 25/03/2019]
 
 ## LEGISLATIVE HISTORY
 
@@ -2383,6 +2871,10 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|28 September 2016|
 |41.|**G.N. No. S 61/2019—Infectious Diseases Act (Amendment of First Schedule) Notification 2019**|
 ||Date of commencement|1 February 2019|
+|42.|**Act 5 of 2019—Infectious Diseases (Amendment) Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 52/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|25 March 2019|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
