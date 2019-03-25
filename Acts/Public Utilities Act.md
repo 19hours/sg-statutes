@@ -142,11 +142,11 @@
 
 - [40Q Directions to licensed plumbers, professional engineers, etc.](#Directions-to-licensed-plumbers-professional-engineers-etc)
 
-[**Part IV SUPPLY OF PIPED WATER FOR HUMAN CONSUMPTION**](#Part-IV)
+[**Part IV SUPPLY OF PIPED WATER SUITABLE FOR DRINKING**](#Part-IV)
 
-- [41 Supply of piped water for human consumption with approval of Board](#Supply-of-piped-water-for-human-consumption-with-approval-of-Board)
+- [41 Supply of piped water suitable for drinking with approval of Board](#Supply-of-piped-water-suitable-for-drinking-with-approval-of-Board)
 
-- [42 Compliance with requirements by approved person](#Compliance-with-requirements-by-approved-person)
+- [42 Compliance with requirements by approved person, etc.](#Compliance-with-requirements-by-approved-person-etc)
 
 - [43 Suspension of approval](#Suspension-of-approval)
 
@@ -268,7 +268,9 @@ PRELIMINARY
 
 “apparatus” means any water apparatus, equipment or accessory and includes all apparatus, devices and fittings in which pipes are used or of which they form a part;
 
-“approved person” means a person given written approval under section 41 to supply piped water for human consumption;
+“approved person” means a person given written approval under section 41 to supply piped water suitable for drinking;
+
+[Act 11 of 2018 wef 25/03/2019]
 
 “authorised officer” means an officer or employee of the Board, or an officer of any other statutory authority, authorised by the Board under section 10(6);
 
@@ -424,6 +426,16 @@ but does not include any installation for the disposal of any waste, sullage wat
 
 [Deleted by Act 11 of 2018 wef 01/04/2018]
 
+“water suitable for drinking” means —
+
+(a) potable water; and
+
+(b) any water held out by a person who supplies it as potable water,
+
+but does not include any water intended for consumption solely by animals;
+
+[Act 11 of 2018 wef 25/03/2019]
+
 “waterway” means a navigable river, conduit or drain;
 
 [Act 11 of 2018 wef 01/04/2018]
@@ -478,7 +490,9 @@ RECONSTITUTION, FUNCTIONS, DUTIES AND POWERS OF BOARD
 
 (c) secure and provide an adequate supply of water at reasonable prices;
 
-(d) regulate the supply of piped water for human consumption;
+(d) regulate the supply of piped water suitable for drinking;
+
+[Act 11 of 2018 wef 25/03/2019]
 
 (da) collect and treat used water;
 
@@ -1563,11 +1577,15 @@ the Board may give a direction, verbally or in writing, to any person specified 
 
 ## PART IV
 
-SUPPLY OF PIPED WATER FOR HUMAN CONSUMPTION
+SUPPLY OF PIPED WATER SUITABLE FOR DRINKING
 
-### Supply of piped water for human consumption with approval of Board
+[Act 11 of 2018 wef 25/03/2019]
 
-41\.—(1) No person other than the Board shall supply piped water for human consumption except with the written approval of the Board.
+### Supply of piped water suitable for drinking with approval of Board
+
+41\.—(1) No person other than the Board shall supply piped water suitable for drinking except with the written approval of the Board.
+
+[Act 11 of 2018 wef 25/03/2019]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
 
@@ -1619,23 +1637,45 @@ and the person’s liability to pay is not affected by the person’s written ap
 
 [Act 11 of 2018 wef 01/04/2018]
 
-(10) This section shall not apply to the supply of piped water for human consumption solely to the Board.
+(10) This section shall not apply to the supply of piped water suitable for drinking solely to the Board.
 
-### Compliance with requirements by approved person
+[Act 11 of 2018 wef 25/03/2019]
 
-42\. Every person given written approval under section 41 shall —
+### Compliance with requirements by approved person, etc.
 
-(a) ensure that the water supplied by him complies with the prescribed guidelines relating to the quality of water for human consumption;
+42\.—(1) Every person given written approval under section 41 shall —
 
-(b) ensure that the installation, water installation, water service installation and water fitting used by him for the supply of water are in compliance with the regulations made under this Act and the applicable standards and codes of practice specified by the Board;
+(a) comply with the requirements imposed by or under this Act relating to the supply of piped water suitable for drinking, and any other written law relating to the provision of piped water suitable for drinking;
 
-(c) take all reasonable steps to safeguard the health and safety of persons employed by him in carrying out the supply of water;
+[Act 11 of 2018 wef 25/03/2019]
 
-(d) ensure that consumers of the water supplied by him are protected against dangers of contamination or pollution in the water;
+(b) ensure that any installation, water installation and water service installation used by the person for the supply of piped water suitable for drinking conforms to the requirements set out in the regulations made under section 72;
 
-(e) not do any act which renders the water supplied by him injurious to the health of the consumers; and
+[Act 11 of 2018 wef 25/03/2019]
 
-(f) in carrying out the supply of water, take all reasonable steps to safeguard the health and interests of the consumers.
+(c) take all reasonable steps to safeguard the health and safety of persons employed by him in carrying out the supply of piped water suitable for drinking;
+
+[Act 11 of 2018 wef 25/03/2019]
+
+(d) ensure that consumers of the piped water suitable for drinking supplied by him are protected against dangers of contamination or pollution in the piped water suitable for drinking;
+
+[Act 11 of 2018 wef 25/03/2019]
+
+(e) not do any act which renders the piped water suitable for drinking supplied by him injurious to the health of the consumers; and
+
+[Act 11 of 2018 wef 25/03/2019]
+
+(f) in carrying out the supply of piped water suitable for drinking, take all reasonable steps to safeguard the health and interests of the consumers.
+
+[Act 11 of 2018 wef 25/03/2019]
+
+(2) Where the Board considers that immediate action is necessary due to any contravention or likely contravention of a requirement under subsection (1) by an approved person that endangers the health or safety of consumers, the Board may —
+
+(a) immediately and without notice enter any premises and carry out, or direct the immediate execution of, any work or the doing of any act that is necessary to safeguard the health or safety of consumers; and
+
+(b) on completion of the work or act mentioned in paragraph (a), recover from the approved person, any costs reasonably incurred by the Board in carrying out that work or act.
+
+[Act 11 of 2018 wef 25/03/2019]
 
 ### Suspension of approval
 
@@ -1693,9 +1733,13 @@ of such non-compliance and the remedial measures that have to be taken by that p
 
 ### Duties of person laying pipes
 
-46\.—(1) Any person who lays any pipe in the vicinity of another pipe shall, if one of the pipes is or is to be used to convey water for human consumption and the other pipe is or is to be used to convey water for any other purpose, or any other substance or thing, clearly mark the pipes such that they can be distinguished from each other.
+46\.—(1) Any person who lays any pipe in the vicinity of another pipe shall, if one of the pipes is or is to be used to convey water suitable for drinking and the other pipe is or is to be used to convey water for any other purpose, or any other substance or thing, clearly mark the pipes such that they can be distinguished from each other.
 
-(2) A person who lays, repairs, modifies or replaces any pipe in the vicinity of another pipe shall, if one of the pipes is or is to be used to convey water for human consumption and the other pipe is or is to be used to convey water for any other purpose, or any other substance or thing, ensure that the pipes do not become connected or cross-connected to each other.
+[Act 11 of 2018 wef 25/03/2019]
+
+(2) A person who lays, repairs, modifies or replaces any pipe in the vicinity of another pipe shall, if one of the pipes is or is to be used to convey water suitable for drinking and the other pipe is or is to be used to convey water for any other purpose, or any other substance or thing, ensure that the pipes do not become connected or cross-connected to each other.
+
+[Act 11 of 2018 wef 25/03/2019]
 
 (3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
 
@@ -2379,7 +2423,9 @@ Powers of Board
 
 10\. To make provision for welfare benefits, gratuities, pensions, provident funds, allowances or other superannuation benefits for employees or former employees (or their dependants) of the Board.
 
-11\. To issue and approve standards and codes of practice for compliance by persons granted approval to supply piped water for human consumption.
+11. To issue and approve standards and codes of practice for compliance by persons granted approval to supply piped water suitable for drinking.
+
+[Act 11 of 2018 wef 25/03/2019]
 
 12\. To do anything incidental to any of its duties and functions.
 
@@ -2567,10 +2613,15 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
 |14.|**Act 11 of 2018—Public Utilities (Amendment) Act 2018**|
-||Date of First Reading|[8 January 2018|
+||Date of First Reading|8 January 2018|
 |||(Bill No. 4/2018)|
 ||Date of Second and Third Readings|6 February 2018|
 ||Date of commencement|1 April 2018|
+|15.|**Act 11 of 2018—Public Utilities (Amendment) Act 2018**|
+||Date of First Reading|8 January 2018|
+|||(Bill No. 4/2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|25 March 2019|
 ## COMPARATIVE TABLE
 
 Public Utilities Act
