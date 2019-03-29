@@ -30,7 +30,7 @@
 
 - [9 Appointment of committees](#Appointment-of-committees)
 
-- [10 Delegation of powers](#Delegation-of-powers)
+- [10 Ability to delegate, etc.](#Ability-to-delegate-etc)
 
 - [11 Protection from personal liability](#Protection-from-personal-liability)
 
@@ -40,7 +40,7 @@
 
 - [13 Chief Executive, officers and employees, etc.](#Chief-Executive-officers-and-employees-etc)
 
-- [14 (Repealed)](#Repealed)
+- [14 Public servants](#Public-servants)
 
 [**Part V FINANCIAL PROVISIONS**](#Part-V)
 
@@ -176,7 +176,57 @@ PRELIMINARY
 
 “plant” has the same meaning as in the Parks and Trees Act;
 
-“public park” has the same meaning as in the Parks and Trees Act.
+“public park” has the same meaning as in the Parks and Trees Act;
+
+[Act 10 of 2019 wef 29/03/2019]
+
+“subdelegate” means a person to whom a delegate under section 10(2) further delegates the performance or exercise of any of the Board’s functions, duties or powers;
+
+[Act 10 of 2019 wef 29/03/2019]
+
+“transfer date” means a date specified by the Minister by order in theGazettefor the purposes of Part VII;
+
+[Act 10 of 2019 wef 29/03/2019]
+
+“veterinary establishment” means any premises or place in which veterinary medicine is practised or veterinary services are provided;
+
+[Act 10 of 2019 wef 29/03/2019]
+
+“veterinary medicine” means any branch or art of veterinary medicine and includes veterinary surgery;
+
+[Act 10 of 2019 wef 29/03/2019]
+
+“veterinary product” means any chemical, substance or equipment used or designed for use in the practice of veterinary medicine or the provision of veterinary services;
+
+[Act 10 of 2019 wef 29/03/2019]
+
+“veterinary science industry” means an industry consisting of persons carrying on business, or who engage in commercial activity, involving all or any of the following:
+
+(a) the practice of veterinary medicine;
+
+(b) the provision of veterinary services;
+
+(c) the management of a veterinary establishment;
+
+(d) the supply of veterinary products;
+
+[Act 10 of 2019 wef 29/03/2019]
+
+“veterinary service” means a service provided in relation to an animal in the control or the possession of a person for any of the following purposes:
+
+(a) assessing, recording, maintaining or improving the health, welfare, comfort or wellbeing of the animal;
+
+(b) diagnosing or treating an illness, disability, disorder or condition of the animal;
+
+(c) examining or attending to the animal, including administering a veterinary product to or performing any surgical procedure on the animal;
+
+(d) performing any cosmetic procedure (including surgery) on the animal;
+
+(e) castrating or spaying of the animal;
+
+(f) giving advice based on a diagnosis or an examination mentioned in paragraph (b) or (c) or connected with a procedure in paragraph (d) or (e), including prescribing treatment, drugs, medications or medical appliances.
+
+[Act 10 of 2019 wef 29/03/2019]
 
 [4/2005]
 
@@ -272,21 +322,63 @@ FUNCTIONS AND POWERS OF BOARD
 
 9\. The Board may, in its discretion, appoint from among its own members or other persons who are not members such number of committees consisting of members or other persons or members and other persons for purposes which, in the opinion of the Board, would be better regulated and managed by means of such committees.
 
-### Delegation of powers
+### Ability to delegate, etc.
 
-10\.—(1) The Board may, subject to such conditions or restrictions as it may impose, delegate to the Chief Executive, the Chairman or a committee appointed under section 9 all or any of the functions, duties and powers vested in the Board by or under this Act or any other written law, except the power to borrow money.
+10\.—(1) The Board may delegate the performance or exercise of any of its functions, duties or powers under this Act or any other Act, either generally or specially, to any of the following persons by resolution and written notice to the person or persons:
 
-(2) Any power, function or duty delegated under subsection (1), may be exercised or performed by the Chief Executive, the Chairman or such committee, as the case may be, in the name and on behalf of the Board.
+(a) a member of the Board;
 
-(3) The Board may, subject to such conditions or restrictions as it thinks fit, delegate to any member or employee of the Board or any person all or any of its functions, duties and powers vested in the Board by or under this Act or any other written law, except the power to borrow money or to raise or grant loans or advances to or subscribe to stocks, shares, bonds or debentures of a company or corporation.
+(b) the Chief Executive, any employee of the Board or any other person performing duties in the Board;
 
-(4) Any power, function or duty delegated under subsection (3) may be exercised or performed by such member, employee or person in the name and on behalf of the Board.
+(c) a committee of the Board appointed under section 9;
 
-(5) [Deleted by Act 5 of 2018 wef 01/04/2018]
+(d) a wholly-owned subsidiary company of the Board;
+
+(e) a person engaged as a contractor by the Board.
+
+(2) A delegation by the Board under subsection (1) of the performance or exercise of any of its functions, duties or powers —
+
+(a) to a person in subsection (1)(a), (b) or (c) may authorise the delegate to subdelegate the performance or exercise of the function, duty or power to another member, an appropriately qualified employee of the Board or person performing duties in the Board (called in this Act a subdelegate); or
+
+(b) to a person in subsection (1)(d) or (e) may authorise the delegate to subdelegate the performance or exercise of the function, duty or power to an appropriately qualified employee of that delegate (also called in this Act a subdelegate),
+
+but subject to the same restrictions, and with the same effect, as if the subdelegate were the delegate.
+
+(3) Subsections (1) and (2) do not apply to —
+
+(a) the power to borrow money;
+
+(b) the power to raise or grant loans or advances to or subscribe to stocks, shares, bonds or debentures of a company or corporation; or
+
+(c) any other function, duty or power under this Act or any other Act administered by the Board that is declared by this Act or that Act to be non-delegable.
+
+(4) A subdelegate to whom a function, duty or power of the Board is subdelegated under this section is not authorised to further delegate that function, duty or power to anyone else.
+
+(5) A delegation or subdelegation in accordance with this Act is not affected by any change in the membership of the Board or of any committee or by any change in the Chief Executive or any employee.
+
+(6) A delegate (or subdelegate) who purports to perform a function or duty or exercise a power under delegation (or subdelegation) —
+
+(a) is taken to do so in accordance with the terms of a delegation (or subdelegation) under this section, unless the contrary is shown; and
+
+(b) must produce evidence of his authority to do so, if reasonably requested to do so.
+
+(7) In this section —
+
+(a) a reference to a wholly-owned subsidiary company of the Board includes a company limited by guarantee the sole member of which is the Board; and
+
+(b) a reference to a person performing duties in the Board includes a person performing duties in the Board under a contract, or under an arrangement making available temporarily to the Board the services of public officers (or secondment).
+
+[Act 10 of 2019 wef 29/03/2019]
 
 ### Protection from personal liability
 
-11\. No suit or other proceedings shall lie personally against any member or employee of the Board or any other person acting under the direction of the Board in respect of anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+11\. No liability shall lie against any member, any committee member, the Chief Executive or any employee, delegate or subdelegate of the Board, or any other person acting under the direction of the Board, for anything which is done or purported to be done, or omitted to be done, in good faith and with reasonable care in —
+
+(a) the exercise or purported exercise of any power under this Act; or
+
+(b) the performance or purported performance of any function under this Act.
+
+[Act 10 of 2019 wef 29/03/2019]
 
 12\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
@@ -308,7 +400,21 @@ PROVISIONS RELATING TO STAFF
 
 [Act 5 of 2018 wef 01/04/2018]
 
-14\. [Repealed by Act 5 of 2018 wef 01/04/2018]
+### Public servants
+
+14\. Without affecting sections 20 and 21 of the Public Sector (Governance) Act 2018 (Act 5 of 2018), every subdelegate of the Board —
+
+(a) is taken to be a public servant for the purposes of the Penal Code (Cap. 224) in relation to the subdelegate’s performance or exercise of the Board’s functions, duties or powers under this Act or any other written law; and
+
+(b) is, in relation to the administration, assessment, collection or enforcement of payment of —
+
+(i) any financial penalty imposed under any written law administered by the Board; or
+
+(ii) any composition sum collected under this Act or any other written law administered by the Board,
+
+taken to be a public officer for the purposes of the Financial Procedure Act (Cap. 109); and section 20 of that Act applies to each of the subdelegates even though the subdelegate is not or was not in the employment of the Government.
+
+[Act 10 of 2019 wef 29/03/2019]
 
 ## PART V
 
@@ -683,3 +789,7 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|12.|**Act 10 of 2019—National Parks Board (Amendment) Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 4/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|29 March 2019|
