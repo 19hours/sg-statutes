@@ -22,6 +22,8 @@
 
 - [6 Renewal of licences](#Renewal-of-licences)
 
+- [6A Licensees to be companies](#Licensees-to-be-companies)
+
 - [7 Other grounds for refusing to issue or renew licence, etc.](#Other-grounds-for-refusing-to-issue-or-renew-licence-etc)
 
 - [8 Licence fee](#Licence-fee)
@@ -87,6 +89,14 @@
 - [23 Re-opening of certain transactions](#Re-opening-of-certain-transactions)
 
 - [24 Accounts, etc., to be kept and submissions to Registrar](#Accounts-etc-to-be-kept-and-submissions-to-Registrar)
+
+- [24A Audit of licensee’s accounts](#Audit-of-licensee’s-accounts)
+
+- [24B Powers of auditor appointed by Registrar](#Powers-of-auditor-appointed-by-Registrar)
+
+- [24C Restriction on right to communicate certain matters relating to audit of licensee’s accounts](#Restriction-on-right-to-communicate-certain-matters-relating-to-audit-of-licensee’s-accounts)
+
+- [24D Offence to destroy, conceal, etc., records to prevent, delay, etc., audit of licensee’s accounts](#Offence-to-destroy-conceal-etc-records-to-prevent-delay-etc-audit-of-licensee’s-accounts)
 
 - [25 Power to inspect, and require information or documents](#Power-to-inspect-and-require-information-or-documents)
 
@@ -272,7 +282,9 @@ and includes a finance company licensed under the Finance Companies Act (Cap. 10
 
 “business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
-“company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+“company” means a company limited by shares under the Companies Act (Cap. 50);
+
+[Act 7 of 2018 wef 29/03/2019]
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act;
 
@@ -312,9 +324,7 @@ or who carries on any combination of such activities or services; or
 
 “exempt moneylender” means any moneylender who has been granted an exemption under section 35 or 36 from holding a licence;
 
-“firm” means an unincorporated body of 2 or more individuals, or one or more individuals and one or more corporations, or 2 or more corporations, who have entered into partnership with one another with a view to carrying on business for profit and that is registered under the Business Names Registration Act 2014;
-
-[Act 29 of 2014 wef 03/01/2016]
+[Deleted by Act 7 of 2018 wef 29/03/2019]
 
 “interest”, in relation to a loan, means any amount by whatsoever name called in excess of the principal paid or payable to a moneylender in consideration of or otherwise in respect of the loan, but does not include any permitted fee, stamp duty or other fee payable under this Act or any other written law;
 
@@ -384,7 +394,7 @@ LICENSING OF MONEYLENDERS
 
 (4) The Registrar may issue a licence with or without conditions, or he may refuse to issue a licence.
 
-(5) Without prejudice to section 7, the Registrar shall not issue a licence —
+(5) Without prejudice to sections 6A and 7, the Registrar shall not issue a licence —
 
 (a) where any information or statement furnished by the applicant that is material to his application for the issue of a licence under this section is incomplete, false or misleading;
 
@@ -394,11 +404,13 @@ LICENSING OF MONEYLENDERS
 
 [Act 7 of 2018 wef 30/11/2018]
 
+[Act 7 of 2018 wef 29/03/2019]
+
 (6) Every licence shall come into operation on the date specified therein, and shall be valid for a period of 12 months or such other prescribed period as may be specified in the licence.
 
 (7) The Registrar may at any time, by notice in writing to the licensee, vary or revoke any of the existing conditions of the licence or impose new conditions.
 
-(8) Where a licence is issued to a firm, every partner of the firm actively conducting the business of moneylending of that firm in Singapore shall be subject to this Act as if he holds the licence.
+(8) [Deleted by Act 7 of 2018 wef 29/03/2019]
 
 ### Renewal of licences
 
@@ -408,7 +420,7 @@ LICENSING OF MONEYLENDERS
 
 (3) The Registrar may renew a licence with or without conditions, or he may refuse to renew a licence.
 
-(4) Without prejudice to section 7, the Registrar shall not renew a licence —
+(4) Without prejudice to sections 6A and 7, the Registrar shall not renew a licence —
 
 (a) where any information or statement furnished by the licensee that is material to his application for the renewal of his licence under this section is incomplete, false or misleading;
 
@@ -418,7 +430,25 @@ LICENSING OF MONEYLENDERS
 
 [Act 7 of 2018 wef 30/11/2018]
 
+[Act 7 of 2018 wef 29/03/2019]
+
 (5) Upon the renewal of a licence, the licence shall continue to be valid for a further period of 12 months or such other prescribed period as may be specified in the licence from the date immediately following that on which, but for its renewal, the licence would have expired.
+
+### Licensees to be companies
+
+6A\.—(1) On and after the appointed day —
+
+(a) no person other than a company with a paid-up capital that is equal to or greater than the prescribed amount may hold a licence; and
+
+(b) the Registrar must not issue or renew a licence unless the applicant is a company with a paid-up capital that is equal to or greater than the prescribed amount.
+
+(2) A licence that is granted to a person that is not a company with a paid-up capital that is equal to or greater than the prescribed amount, and that is in force immediately before the appointed day, is deemed to be revoked as from the appointed day.
+
+(3) The revocation of a licence under subsection (2) does not affect any moneylending transaction entered into before the appointed day.
+
+(4) In this section, “appointed day” means the date of commencement of section 6 of the Moneylenders (Amendment) Act 2018.
+
+[Act 7 of 2018 wef 29/03/2019]
 
 ### Other grounds for refusing to issue or renew licence, etc.
 
@@ -426,19 +456,17 @@ LICENSING OF MONEYLENDERS
 
 (a) if —
 
-(i) the applicant is not —
-
-(A) an individual who is ordinarily resident in Singapore; or
-
-(B) a company, firm or limited liability partnership; or
+(i) [Deleted by Act 7 of 2018 wef 29/03/2019]
 
 (ii) any person who is or will be responsible for the management of the applicant’s business of moneylending is not ordinarily resident in Singapore;
 
-(b) if the applicant, any director or partner of the applicant, or any person who is or will be responsible for the management of the applicant’s business of moneylending is below 21 years of age;
+(b) if any director of the applicant or any person who is or will be responsible for the management of the applicant’s business of moneylending is below 21 years of age;
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (c) if the Registrar is not satisfied that the applicant has any place of business in respect of which the licence is to be issued or renewed that is suitable for a business of moneylending, or the Registrar is of the view that it is not in the public interest for a business of moneylending to be conducted in such a place;
 
-(d) if the applicant, any director, partner or substantial shareholder of the applicant, or any person who is or will be responsible for the management of the applicant’s business of moneylending —
+(d) if the applicant, any director or substantial shareholder of the applicant, or any person who is or will be responsible for the management of the applicant’s business of moneylending —
 
 (i) has been convicted of any offence involving dishonesty or moral turpitude;
 
@@ -450,13 +478,21 @@ LICENSING OF MONEYLENDERS
 
 (v) is carrying on or has carried on any business of moneylending, in Singapore or elsewhere, in such a manner as renders him unfit to hold a licence;
 
-(e) if the Registrar is not satisfied as to the qualification or experience of the applicant, or any person who is or will be responsible for the management of the applicant’s business of moneylending;
+[Act 7 of 2018 wef 29/03/2019]
 
-(f) if the Registrar is not satisfied as to the good character of the applicant, any director, partner or substantial shareholder of the applicant, or any person who is or will be responsible for the management of the applicant’s business of moneylending;
+(e) if the Registrar is not satisfied as to the qualification or experience of any person who is or will be responsible for the management of the applicant’s business of moneylending;
 
-(g) if the Registrar is not satisfied that the applicant, any director, partner or substantial shareholder of the applicant, or any person who is or will be responsible for the management of the applicant’s business of moneylending is a fit and proper person to carry on or manage a business of moneylending;
+[Act 7 of 2018 wef 29/03/2019]
+
+(f) if the Registrar is not satisfied as to the good character of any director or substantial shareholder of the applicant or any person who is or will be responsible for the management of the applicant’s business of moneylending;
+
+[Act 7 of 2018 wef 29/03/2019]
+
+(g) if the Registrar is not satisfied that the applicant, any director or substantial shareholder of the applicant, or any person who is or will be responsible for the management of the applicant’s business of moneylending is a fit and proper person to carry on or manage a business of moneylending;
 
 [Act 7 of 2018 wef 30/11/2018]
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (h) if any assistant employed or engaged, or proposed to be employed or engaged, by the applicant has, whether before, on or after the date of commencement of section 7 of the Moneylenders (Amendment) Act 2018 —
 
@@ -482,11 +518,17 @@ LICENSING OF MONEYLENDERS
 
 (2) For the purposes of sections 5 and 6 and without prejudice to subsection (1), where an application is made by any person for the issue or renewal of a licence to carry on the business of moneylending as an agent for a principal, the licence shall not be issued or renewed where —
 
-(a) any of the grounds for the refusal of a licence under subsection (1) applies to the agent, any director, partner or substantial shareholder of the agent, or any person who is or will be responsible for the management of the agent’s business of moneylending;
+(a) any of the grounds for the refusal of a licence under subsection (1) applies to the agent, any director or substantial shareholder of the agent, or any person who is or will be responsible for the management of the agent’s business of moneylending;
 
-(b) the Registrar is not satisfied as to the good character of the principal, any director, partner or substantial shareholder of the principal, or any person who is or will be responsible for the management of the principal’s business of moneylending;
+[Act 7 of 2018 wef 29/03/2019]
 
-(c) the Registrar is not satisfied that the principal, any director, partner or substantial shareholder of the principal, or any person who is or will be responsible for the management of the principal’s business of moneylending is a fit and proper person to carry on or manage a business of moneylending; or
+(b) the Registrar is not satisfied as to the good character of any director or substantial shareholder of the principal, or any person who is or will be responsible for the management of the principal’s business of moneylending;
+
+[Act 7 of 2018 wef 29/03/2019]
+
+(c) the Registrar is not satisfied that the principal, any director or substantial shareholder of the principal, or any person who is or will be responsible for the management of the principal’s business of moneylending is a fit and proper person to carry on or manage a business of moneylending; or
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (d) the principal, or any present or former agent of the principal, has been disqualified by an order of a court from carrying on a business of moneylending or holding a licence to carry on such business.
 
@@ -566,7 +608,7 @@ LICENSING OF MONEYLENDERS
 
 (4) The Registrar may at any time, by notice in writing to the licensee, vary or revoke any of the existing conditions of his approval of a place of business for moneylending or impose new conditions.
 
-(5) Where the approval of the Registrar under this section is granted to a firm, the approval shall be deemed to be granted to every partner of the firm actively conducting the business of moneylending of that firm in Singapore.
+(5) [Deleted by Act 7 of 2018 wef 29/03/2019]
 
 (6) The Registrar may revoke his approval under this section, or suspend his approval for such period as he considers appropriate, if he is satisfied —
 
@@ -692,7 +734,9 @@ the licensee is, on or after that date, treated as having been granted the writt
 
 (a) take part (whether directly or indirectly) in the management of the licensee’s business of moneylending; or
 
-(b) become a director or partner of the licensee.
+(b) become a director of the licensee.
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (2) An application for the Registrar’s approval mentioned in subsection (1) must be made in such form and manner as the Registrar may specify.
 
@@ -738,27 +782,35 @@ the licensee is, on or after that date, treated as having been granted the writt
 
 (i) to take part (whether directly or indirectly) in the management of the licensee’s business of moneylending; or
 
-(ii) to be a director or partner of the licensee; and
+(ii) to be a director of the licensee; and
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (b) the person in respect of whom the approval was cancelled must —
 
 (i) cease to take part (whether directly or indirectly) in the management of the licensee’s business of moneylending; or
 
-(ii) cease to be a director or partner of the licensee.
+(ii) cease to be a director of the licensee.
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (10) Every licensee must submit to the Registrar, in such form and manner and at such time as the Registrar may specify, the names and particulars of every person who, as at the date of the submission —
 
 (a) is taking part (whether directly or indirectly) in the management of the licensee’s business of moneylending; or
 
-(b) is a director or partner of the licensee.
+(b) is a director of the licensee.
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (11) Where any person —
 
 (a) ceases to take part (whether directly or indirectly) in the management of a licensee’s business of moneylending; or
 
-(b) ceases to be a director or partner of a licensee,
+(b) ceases to be a director of a licensee,
 
 the licensee must notify the Registrar in writing of the cessation not later than 7 days after becoming aware of the cessation.
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (12) Any person who, without reasonable excuse, contravenes subsection (1), (9), (10) or (11) shall be guilty of an offence and shall be liable on conviction —
 
@@ -810,65 +862,97 @@ the licensee is treated as having been granted the written approval of the Regis
 
 (3) The events mentioned in subsections (1) and (2) are the following:
 
-(a) the making of an application to the High Court under the Bankruptcy Act (Cap. 20) for a bankruptcy order against the licensee, any partner, director or substantial shareholder of the licensee, or any manager of the licensee (where the licensee is a limited liability partnership);
+(a) the making of an application to the High Court under the Bankruptcy Act (Cap. 20) for a bankruptcy order against any director or substantial shareholder of the licensee;
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (b) the making of an application to the High Court under the Companies Act (Cap. 50) to summon a meeting of the creditors or members of —
 
-(i) the licensee;
+(i) the licensee; or
 
-(ii) any partner or substantial shareholder of the licensee; or
+[Act 7 of 2018 wef 29/03/2019]
 
-(iii) any manager of the licensee, where the licensee is a limited liability partnership;
+(ii) any substantial shareholder of the licensee;
+
+[Act 7 of 2018 wef 29/03/2019]
+
+(iii) [Deleted by Act 7 of 2018 wef 29/03/2019]
 
 (c) the making of an application to the High Court under the Companies Act for the court to approve a compromise or arrangement between —
 
-(i) the licensee;
+(i) the licensee; or
 
-(ii) any partner or substantial shareholder of the licensee; or
+[Act 7 of 2018 wef 29/03/2019]
 
-(iii) any manager of the licensee, where the licensee is a limited liability partnership,
+(ii) any substantial shareholder of the licensee,
 
-and the creditors of the licensee, partner, substantial shareholder or manager, as the case may be, or any class of those creditors, without any meeting of the creditors or class of creditors;
+[Act 7 of 2018 wef 29/03/2019]
+
+(iii) [Deleted by Act 7 of 2018 wef 29/03/2019]
+
+and the creditors of the licensee or substantial holder, as the case may be, or any class of those creditors, without any meeting of the creditors or class of creditors;
+
+[Act 7 of 2018 wef 29/03/2019]
 
 (d) the making of an application to the High Court under the Companies Act to place under judicial management —
 
-(i) the licensee;
+(i) the licensee; or
 
-(ii) any partner or substantial shareholder of the licensee; or
+[Act 7 of 2018 wef 29/03/2019]
 
-(iii) any manager of the licensee, where the licensee is a limited liability partnership;
+(ii) any substantial shareholder of the licensee;
+
+[Act 7 of 2018 wef 29/03/2019]
+
+(iii) [Deleted by Act 7 of 2018 wef 29/03/2019]
 
 (e) the making of an order under the Companies Act or the Limited Liability Partnerships Act (Cap. 163A), appointing a receiver or manager, or a receiver and manager, of the property of —
 
-(i) the licensee;
+(i) the licensee; or
 
-(ii) any partner or substantial shareholder of the licensee; or
+[Act 7 of 2018 wef 29/03/2019]
 
-(iii) any manager of the licensee, where the licensee is a limited liability partnership;
+(ii) any substantial shareholder of the licensee;
+
+[Act 7 of 2018 wef 29/03/2019]
+
+(iii) [Deleted by Act 7 of 2018 wef 29/03/2019]
 
 (f) the passing of a resolution under the Companies Act or the Limited Liability Partnerships Act, for the voluntary winding up of —
 
-(i) the licensee;
+(i) the licensee; or
 
-(ii) any partner or substantial shareholder of the licensee; or
+[Act 7 of 2018 wef 29/03/2019]
 
-(iii) any manager of the licensee, where the licensee is a limited liability partnership;
+(ii) any substantial shareholder of the licensee;
+
+[Act 7 of 2018 wef 29/03/2019]
+
+(iii) [Deleted by Act 7 of 2018 wef 29/03/2019]
 
 (g) the making of an application to the High Court under the Companies Act or the Limited Liability Partnerships Act, for winding up by an order of the court of —
 
-(i) the licensee;
+(i) the licensee; or
 
-(ii) any partner or substantial shareholder of the licensee; or
+[Act 7 of 2018 wef 29/03/2019]
 
-(iii) any manager of the licensee, where the licensee is a limited liability partnership;
+(ii) any substantial shareholder of the licensee;
+
+[Act 7 of 2018 wef 29/03/2019]
+
+(iii) [Deleted by Act 7 of 2018 wef 29/03/2019]
 
 (h) the making of a statutory declaration under the Companies Act or the Limited Liability Partnerships Act, in respect of —
 
-(i) the licensee;
+(i) the licensee; or
 
-(ii) any partner or substantial shareholder of the licensee; or
+[Act 7 of 2018 wef 29/03/2019]
 
-(iii) any manager of the licensee, where the licensee is a limited liability partnership.
+(ii) any substantial shareholder of the licensee.
+
+[Act 7 of 2018 wef 29/03/2019]
+
+(iii) [Deleted by Act 7 of 2018 wef 29/03/2019]
 
 (4) When a licensee notifies the Registrar of an event under subsection (1) or (2) —
 
@@ -1570,6 +1654,148 @@ which is false or misleading in a material particular shall be guilty of an offe
 
 [Act 7 of 2018 wef 30/11/2018]
 
+### Audit of licensee’s accounts
+
+24A\.—(1) Despite the provisions of the Companies Act (Cap. 50), a licensee must —
+
+(a) on an annual basis, appoint an auditor who is a public accountant under the Accountants Act (Cap. 2); and
+
+(b) if for any reason its auditor ceases to be its auditor, appoint another auditor who is a public accountant under the Accountants Act, as soon as practicable after such cessation.
+
+(2) The licensee must notify the Registrar in writing of an appointment under subsection (1) as soon as practicable after the appointment.
+
+(3) The Registrar may appoint an auditor —
+
+(a) if the licensee fails to comply with subsection (1); or
+
+(b) if the Registrar considers it desirable that another auditor should act with the auditor appointed by the licensee under subsection (1),
+
+and may at any time fix the remuneration to be paid by the licensee to the auditor the Registrar appoints.
+
+(4) The duties of an auditor appointed under subsection (1) or (3) are —
+
+(a) to carry out, for the year in respect of which the auditor is appointed, an audit of the licensee’s accounts; and
+
+(b) to make a report on the licensee’s financial statements or consolidated financial statements in accordance with section 207 of the Companies Act.
+
+(5) The Registrar may, by notice in writing to an auditor appointed under subsection (1) or (3), impose all or any of the following duties on the auditor in addition to those provided for under subsection (4), and the auditor must carry out the duties so imposed:
+
+(a) a duty to submit such additional information in relation to the audit as the Registrar considers necessary;
+
+(b) a duty to enlarge or extend the scope of the audit of the licensee’s business and affairs;
+
+(c) a duty to carry out any other examination, or establish any procedure, in relation to the audit in any particular case;
+
+(d) a duty to make a report on any of the matters mentioned in paragraphs (b) and (c).
+
+(6) The licensee must remunerate the auditor in respect of —
+
+(a) such remuneration the Registrar has fixed under subsection (3); and
+
+(b) the discharge of all or any of the additional duties of the auditor imposed under subsection (5).
+
+(7) Despite any other provision of this Act or the provisions of the Companies Act, the Registrar may, if the Registrar is not satisfied with the performance of any duty by the auditor of the licensee, at any time direct the licensee —
+
+(a) to remove the auditor; and
+
+(b) to appoint another auditor who is a public accountant under the Accountants Act.
+
+(8) The licensee must submit, or cause to be submitted, the following documents to the Registrar within such time as the Registrar may specify by notice in writing:
+
+(a) a copy of the auditor’s report made under subsection (4)(b), attached to the licensee’s financial statements or consolidated financial statements;
+
+(b) a copy of any report made under subsection (5)(d).
+
+(9) If an auditor, in the course of performing the auditor’s duties, is satisfied that —
+
+(a) there has been a serious breach or non-observance of the provisions of this Act;
+
+(b) a criminal offence involving fraud or dishonesty has been committed; or
+
+(c) serious irregularities have occurred, including irregularities that compromise the confidentiality, security or integrity of any data obtained, used or disclosed by the licensee,
+
+the auditor must immediately report the matter to the Registrar.
+
+(10) Where an auditor or employee of the auditor discloses in good faith to the Registrar —
+
+(a) the auditor’s or the employee’s knowledge or suspicion of any of the matters in subsection (9); or
+
+(b) any information or other matter on which that knowledge or suspicion is based,
+
+the disclosure is not a breach of any restriction upon the disclosure imposed by any law, contract or rules of professional conduct, and the auditor or employee is not liable for any loss arising out of the disclosure or any act or omission in consequence of the disclosure.
+
+(11) Any licensee who contravenes subsection (1) or (8) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(12) Any auditor who contravenes subsection (5) or (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(13) In this section —
+
+“consolidated financial statements” and “financial statements” have the same meanings as in section 209A of the Companies Act;
+
+“data” and “integrity” have the same meanings as in section 30B.
+
+[Act 7 of 2018 wef 29/03/2019]
+
+### Powers of auditor appointed by Registrar
+
+24B\.—(1) An auditor appointed by the Registrar under section 24A(3) may, for the purpose of carrying out an examination or audit —
+
+(a) examine, on oath or affirmation, any officer or employee of the licensee, or any other auditor of the licensee appointed under section 24A or under the Companies Act (Cap. 50);
+
+(b) require any officer or employee of the licensee, or any other auditor of the licensee appointed under section 24A or under the Companies Act, to produce any book held by or on behalf of the licensee relating to the licensee’s business of moneylending;
+
+(c) make copies of or take extracts from, or retain possession of, any book mentioned in paragraph (b) for such period as may be necessary to enable it to be inspected;
+
+(d) employ such persons as the auditor considers necessary to assist the auditor in carrying out the examination or audit; and
+
+(e) authorise in writing any person employed by the auditor to do, in relation to the examination or audit, any act or thing that the auditor could do as an auditor under this subsection, other than the examination of a person on oath or affirmation.
+
+(2) Any individual who, without reasonable excuse —
+
+(a) fails to answer any question put to that individual; or
+
+(b) fails to comply with any request made to that individual,
+
+by an auditor appointed under section 24A(3) or a person authorised under subsection (1)(e) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+(3) In this section, “officer”, in relation to a licensee, means any director, member of the committee of management, chief executive, manager, secretary or other similar officer of the licensee and includes any person purporting to act in any such capacity.
+
+[Act 7 of 2018 wef 29/03/2019]
+
+### Restriction on right to communicate certain matters relating to audit of licensee’s accounts
+
+24C\.—(1) Except as may be necessary for the carrying into effect of the provisions of this Act, or for the purpose of an investigation into any offence under any written law, or so far as may be required for the purposes of any legal proceedings (whether civil or criminal) —
+
+(a) an auditor appointed under section 24A; or
+
+(b) any employee of such auditor,
+
+must not disclose any information that comes to the auditor’s or employee’s knowledge in the course of performing the auditor’s or employee’s duties, to any person other than the Registrar, and in the case of an employee of such auditor, the auditor.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+
+[Act 7 of 2018 wef 29/03/2019]
+
+### Offence to destroy, conceal, etc., records to prevent, delay, etc., audit of licensee’s accounts
+
+24D\.—(1) Any individual who, with intent to prevent, delay or obstruct the carrying out of any examination or audit under section 24A or 24B —
+
+(a) destroys, conceals or alters any book relating to the business of a licensee; or
+
+(b) sends, or conspires with any other person to send, out of Singapore, any book or asset of any description belonging to, or in the possession or under the control of the licensee,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(2) If, in any proceedings for an offence under subsection (1), it is proved that the individual charged with the offence —
+
+(a) destroyed, concealed or altered any book mentioned in subsection (1)(a); or
+
+(b) sent, or conspired to send, out of Singapore, any book or asset mentioned in subsection (1)(b),
+
+the onus of proving that, in so doing, the individual did not act with intent to prevent, delay or obstruct the carrying out of an examination or audit under section 24A or 24B lies on that individual.
+
+[Act 7 of 2018 wef 29/03/2019]
+
 ### Power to inspect, and require information or documents
 
 25\.—(1) For the purpose of determining whether this Act has been complied with, the Registrar or an officer duly authorised by him (referred to in this section as an authorised officer) may at any time —
@@ -1919,7 +2145,9 @@ but excludes any information that is not referable to any named person or named 
 
 “loan information report” means a report prepared by the designated credit bureau under section 30Y using borrower information provided by at least one licensee;
 
-“officer” has the same meaning as in section 33(5);
+“officer”, in relation to a licensee or the designated credit bureau, means any director, chief executive officer, manager, secretary or other similar officer of the licensee or designated credit bureau, and includes any person purporting to act in any such capacity;
+
+[Act 7 of 2018 wef 29/03/2019]
 
 “process”, in relation to data, means to carry out any operation or set of operations in relation to the data, and includes any of the following:
 
@@ -3183,11 +3411,12 @@ The Moneylenders Act 2008 repealed and re-enacted with amendments the Moneylende
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
-|10.|**Act 7 of 2018—Moneylenders (Amendment) Act 2018**|
-||Date of First Reading|6 November 2017 (Bill No. 48/2017 published on 6 November 2017)|
-||Date of Second and Third Readings|8 January 2018|
-||Date of commencement|30 November 2018|
-|11.|**Act 12 of 2018—Criminal Law (Temporary Provisions) (Amendment) Act 2018**|
+|10.|**Act 12 of 2018—Criminal Law (Temporary Provisions) (Amendment) Act 2018**|
 ||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
 ||Date of Second and Third Readings|6 February 2018|
 ||Date of commencement|1 January 2019|
+|11.|**Act 7 of 2018—Moneylenders (Amendment) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 48/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|30 November 2018|
+|||29 March 2019|
