@@ -860,7 +860,13 @@ TRIPARTITE MEDIATION OF DISPUTES INVOLVING EMPLOYEES
 
 [Act 21 of 2016 wef 01/04/2017]
 
-“tripartite mediation advisor” means any tripartite mediation advisor appointed under section 30K.
+“tripartite mediation advisor” means any tripartite mediation advisor appointed under section 30K;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+“wrongful dismissal dispute” has the same meaning as in section 2(1) of the Employment Claims Act 2016.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ### Disputes for tripartite mediation
 
@@ -878,31 +884,55 @@ TRIPARTITE MEDIATION OF DISPUTES INVOLVING EMPLOYEES
 
 [Act 21 of 2016 wef 01/04/2017]
 
-(d) any re‑employment dispute as defined in section 8A(4) of the Retirement and Re‑employment Act (Cap. 274A); or
+(d) any re‑employment dispute as defined in section 8A(4) of the Retirement and Re‑employment Act (Cap. 274A);
 
 [Act 21 of 2016 wef 01/04/2017]
 
-(e) any specified statutory dispute,
+[Act 55 of 2018 wef 01/04/2019]
+
+(e) any specified statutory dispute; or
 
 [Act 21 of 2016 wef 01/04/2017]
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(f) any wrongful dismissal dispute,
+
+[Act 55 of 2018 wef 01/04/2019]
 
 the material facts of which giving rise to the dispute occur on or after the date of commencement of this Part.
 
 (2) The following disputes may not be the subject of tripartite mediation:
 
-(a) any dispute where the material facts giving rise to the dispute occur earlier than one year before the date on which the Commissioner receives a notification under section 30H(2) relating to that dispute;
+(a) any wrongful dismissal dispute in relation to which an employee may lodge a claim mentioned in section 14(2) of the Employment Act, in a case where the Commissioner receives a notification under section 30H(2) relating to that dispute later than one month after the date of the dismissal of the employee;
 
-(b) any dispute in a case where the employment relationship has ended (whether due to the retirement of the employee, or the expiry or termination of the contract of service, or otherwise), unless the Commissioner receives a notification under section 30H(2) relating to that dispute not later than 6 months after the last day of employment of the employee.
+[Act 55 of 2018 wef 01/04/2019]
 
-[Act 21 of 2016 wef 01/04/2017]
+(b) any wrongful dismissal dispute in relation to which a female employee may lodge a claim mentioned in section 84(2) of the Employment Act, in a case where the Commissioner receives a notification under section 30H(2) relating to that dispute later than 2 months after the date of the employee’s confinement;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(c) any dispute (not being a wrongful dismissal dispute mentioned in paragraph (a) or (b)) in a case where —
+
+(i) the employment relationship has ended (whether due to the retirement of the employee, or the expiry or termination of the contract of service, or otherwise); and
+
+(ii) the Commissioner receives a notification under section 30H(2) relating to that dispute later than 6 months after the last day of employment of the employee;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(d) any other dispute, in a case where the Commissioner receives a notification under section 30H(2) relating to that dispute later than one year after the date on which the material facts giving rise to the dispute occurred.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (3) The Minister may, by order in theGazette, lengthen or shorten either or both of the following periods, either absolutely or for any class of employees, any class of employers and any category of disputes mentioned in subsection (1):
 
-(a) the period of one year mentioned in subsection (2)(a);
+(a) the period of 6 months mentioned in subsection (2)(c)(ii);
 
-(b) the period of 6 months mentioned in subsection (2)(b).
+[Act 55 of 2018 wef 01/04/2019]
 
-[Act 21 of 2016 wef 01/04/2017]
+(b) the period of one year mentioned in subsection (2)(d).
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ### Procedure for seeking and conduct of tripartite mediation
 
@@ -1930,6 +1960,10 @@ This Legislative History is provided for the convenience of users of the Industr
 ||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 April 2017|
+|22.|**Act 55 of 2018—Employment (Amendment) Act 2018**|
+||Date of First Reading|2 October 2018 (Bill No. 47/2018 published on 2 October 2018)|
+||Date of Second and Third Readings|20 November 2018|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Industrial Relations Act
