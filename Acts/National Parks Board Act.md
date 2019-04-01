@@ -64,15 +64,19 @@
 
 - [22 Existing agreements and pending proceedings](#Existing-agreements-and-pending-proceedings)
 
-[**Part VII NATIONAL PARKS AND NATURE RESERVES**](#Part-VII)
+[**Part VII TRANSFER OF AVA VETERINARY UNDERTAKINGS**](#Part-VII)
 
-- [23 (Repealed)](#Repealed)
+- [23 Interpretation of this Part](#Interpretation-of-this-Part)
 
-- [24 (Repealed)](#Repealed)
+- [24 Transfer of undertaking to Board](#Transfer-of-undertaking-to-Board)
 
-- [25 (Repealed)](#Repealed)
+- [25 Transferring secondments and employees to Board](#Transferring-secondments-and-employees-to-Board)
 
-- [26 (Repealed)](#Repealed)
+- [26 General preservation of employment terms](#General-preservation-of-employment-terms)
+
+- [26A Transfer of records](#Transfer-of-records)
+
+- [26B Confirmation of undertaking transferred](#Confirmation-of-undertaking-transferred)
 
 [**Part VIII GENERAL**](#Part-VIII)
 
@@ -144,7 +148,27 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“animal” has the same meaning as in the Parks and Trees Act (Cap. 216);
+“animal” includes a mammal (other than a human being), a bird, a reptile, an amphibian, a fish, a mollusc, an arthropod, and the young or egg of any animal;
+
+[Act 10 of 2019 wef 01/04/2019]
+
+“animal-related services” includes any of the following activities:
+
+(a) bathing, grooming or clipping of animals;
+
+(b) treatment, vaccination or inoculation of animals;
+
+(c) providing accommodation or boarding to or training of animals;
+
+(d) exhibiting (whether or not for sale) of animals;
+
+(e) trapping, restraining or immobilising animals;
+
+[Act 10 of 2019 wef 01/04/2019]
+
+“animal-related services industry” means an industry consisting of persons carrying out any animal-related services in the course of business;
+
+[Act 10 of 2019 wef 01/04/2019]
 
 “Board” means the National Parks Board established under the repealed National Parks Act (Cap. 198A, 1991 Ed.) in force before 1st July 1996 and continued by section 3;
 
@@ -157,6 +181,10 @@ PRELIMINARY
 (a) landscaping works and services;
 
 (b) the supply of plants or landscaping or related products;
+
+(c) the growing and supply of flowers and ornamental plants;
+
+[Act 10 of 2019 wef 01/04/2019]
 
 [Act 9 of 2017 wef 20/11/2017]
 
@@ -175,6 +203,10 @@ PRELIMINARY
 “Parks and Recreation Department” means the Parks and Recreation Department of the Ministry of National Development;
 
 “plant” has the same meaning as in the Parks and Trees Act;
+
+“public authority” means a body corporate established by a public Act for the purposes of a public function;
+
+[Act 10 of 2019 wef 01/04/2019]
 
 “public park” has the same meaning as in the Parks and Trees Act;
 
@@ -274,39 +306,105 @@ FUNCTIONS AND POWERS OF BOARD
 
 (c) to propagate, protect and preserve the animals, plants and other organisms of Singapore and, within the national parks, nature reserves and public parks, to preserve objects and places of aesthetic, historical or scientific interest;
 
+(ca) to promote and protect the welfare, safety and health of animals, including controlling the following:
+
+(i) the use of animals in research, testing or teaching;
+
+(ii) the supply of veterinary products;
+
+(iii) the trapping or killing of animals in a wild state;
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(cb) to manage the animal population in Singapore;
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(cc) to prevent and manage threats and risks —
+
+(i) to animal health, animal welfare or plant health or all of them;
+
+(ii) to terrestrial and aquatic environments arising from animals or plants, or pests or diseases carried by animals or plants; and
+
+(iii) to public health and safety from animals or plants, or pests or diseases carried by animals or plants;
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(cd) to regulate trade in endangered species of animals and plants;
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(ce) to regulate veterinary establishments, practitioners of veterinary medicine and persons who provide veterinary services in the course of business;
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(cf) to cooperate and collaborate in particular with —
+
+(i) any public officer, public authority or Health Officer in the administration of the Infectious Diseases Act (Cap. 137);
+
+(ii) the Health Sciences Authority in the administration of the Health Products Act (Cap. 122D);
+
+(iii) the Director-General of Public Health and the Director-General, Food Administration in the administration of the Environmental Public Health Act (Cap. 95); and
+
+(iv) the Director-General, Food Administration in the discharge of functions or powers under any written law;
+
+[Act 10 of 2019 wef 01/04/2019]
+
 (d) to provide and control facilities for the study of and research into matters relating to animals, plants and other organisms in Singapore and the physical conditions in which they live;
 
 (e) to exhibit objects illustrative of the life sciences, applied sciences, history, technology and industry;
 
-(f) to promote the study, research and dissemination of knowledge in botany, horticulture, biotechnology, arboriculture, landscape architecture, parks and recreation management and natural and local history;
+(f) to promote the study, research and dissemination of knowledge in veterinary medicine, animal-related services, botany, horticulture, biotechnology, arboriculture, landscape architecture, parks and recreation management and natural and local history;
+
+[Act 10 of 2019 wef 01/04/2019]
 
 (g) to provide, manage and promote recreational, cultural, historical, research and educational facilities and resources in national parks, nature reserves and public parks and encourage their full and proper use by members of the public;
 
-(h) to advise the Government on all matters relating to nature conservation and the planning, development and management of public parks;
+(h) to advise the Government on all matters relating to animal health and welfare, plant health, veterinary medicine, animal-related services, nature conservation and the planning, development and management of public parks;
 
 [Act 9 of 2017 wef 20/11/2017]
 
-(i) to manage on behalf of the Government any State land used or to be used by the landscape industry and to promote the optimisation of the use of such land;
+[Act 10 of 2019 wef 01/04/2019]
+
+(i) to manage on behalf of the Government any State land used or to be used by the landscape industry, animal-related services industry or veterinary science industry in Singapore and to promote the optimisation of the use of such land;
 
 [Act 9 of 2017 wef 20/11/2017]
 
-(j) to promote the development, productivity and efficiency of the landscape industry;
+[Act 10 of 2019 wef 01/04/2019]
+
+(j) to promote the development, productivity and efficiency of the landscape industry, animal-related services industry or veterinary science industry in Singapore;
 
 [Act 9 of 2017 wef 20/11/2017]
 
-(k) to promote the advancement of skills and expertise of individuals in relation to any subject mentioned in paragraph (f) and of individuals employed in the landscape industry; and
+[Act 10 of 2019 wef 01/04/2019]
+
+(k) to promote the advancement of skills and expertise of individuals in relation to any subject mentioned in paragraph (f) and of individuals employed in the landscape industry, animal-related services industry or veterinary science industry in Singapore;
 
 [Act 9 of 2017 wef 20/11/2017]
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(ka) to represent the Government internationally on matters that relate to animal health and welfare, plant health, wildlife trade control and biodiversity, and matters connected with the landscape industry, animal-related services industry and veterinary science industry in Singapore; and
+
+[Act 10 of 2019 wef 01/04/2019]
 
 (l) to carry out such other functions and duties as are imposed upon the Board by or under this Act or any other written law.
 
 [Act 9 of 2017 wef 20/11/2017]
 
-(2) In addition to the functions of the Board under subsection (1), the Board may undertake such other functions as the Minister may assign to the Board and in so doing the Board shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Board in respect of such functions.
+(2) In addition to the functions of the Board under subsection (1), the Board may undertake such other functions as the Minister may, by notification in theGazette, assign to the Board and in so doing the Board shall be deemed to be fulfilling the purposes of this Act and the provisions of this Act shall apply to the Board in respect of such functions.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(3) Nothing in this section imposes on the Board, directly or indirectly, any form of duty or liability enforceable by proceedings before any court to which the Board would not otherwise be subject.
+
+[Act 10 of 2019 wef 01/04/2019]
 
 ### Powers of Board
 
-7\.—(1) The Board may, for the purposes of this Act, carry on such activities as appear to the Board to be advantageous, necessary or convenient for it to carry on for or in connection with the discharge of its duties and functions under this Act and, in particular, may exercise any of the powers specified in the Second Schedule.
+7\.—(1) The Board may, for the purposes of this Act, carry on such activities as appear to the Board to be advantageous, necessary or convenient for it to carry on for or in connection with the discharge of its duties and functions under this Act, or which is incidental or conducive to the discharge of those duties and functions, and, in particular, may exercise any of the powers specified in the Second Schedule.
+
+[Act 10 of 2019 wef 01/04/2019]
 
 (2) This section shall not be construed as limiting any power of the Board conferred by or under any other written law.
 
@@ -482,15 +580,217 @@ TRANSFER OF ASSETS, LIABILITIES AND EMPLOYEES TO BOARD
 
 ## PART VII
 
-NATIONAL PARKS AND NATURE RESERVES
+TRANSFER OF AVA VETERINARY UNDERTAKINGS
 
-23\. [Repealed by Act 4 of 2005]
+[Act 10 of 2019 wef 01/04/2019]
 
-24\. [Repealed by Act 4 of 2005]
+### Interpretation of this Part
 
-25\. [Repealed by Act 4 of 2005]
+23\. In this Part, unless the context otherwise requires —
 
-26\. [Repealed by Act 4 of 2005]
+“Agri-Food and Veterinary Authority” or “AVA” means the Agri-Food and Veterinary Authority established by section 3 of the Agri-Food and Veterinary Authority Act (Cap. 5);
+
+“asset”, in relation to the transferor, means property of any kind (whether tangible or intangible, whether arising from, accruing under, created or evidenced by or the subject of, an instrument or otherwise and whether actual or contingent) of the transferor on the eve of the transfer date and includes, without limitation, any —
+
+(a) legal or equitable interest in real or personal property;
+
+(b) chose in action;
+
+(c) security;
+
+(d) money;
+
+(e) intellectual property;
+
+(f) infrastructure, plant and equipment;
+
+(g) records and information (including data) in any form; and
+
+(h) right;
+
+“AVA veterinary undertaking” means the departments of the transferor as follows:
+
+(a) the Community Animal Management Group;
+
+(b) the Corporate Development Group 2;
+
+(c) the Industry and Biosecurity Management Group;
+
+(d) the office of the Director-General, Agri-Food and Veterinary Services;
+
+(e) the Plant Science and Health Group;
+
+(f) the Professional and Scientific Services Group;
+
+(g) the Wildlife Management Group;
+
+“liability”, in relation to the transferor, means any liability, duty or obligation (whether actual or contingent, liquidated or unliquidated, and whether owed alone or jointly, or jointly and severally, with any other person) of the transferor on the eve of the transfer date;
+
+“records”, in relation to the transferor, means registers, papers, documents, minutes, receipts, books of account and other records, however compiled, recorded or stored, of that transferor existing on the eve of the transfer date;
+
+“right”, in relation to the transferor, means any right, power, privilege or immunity of the transferor on the eve of the transfer date;
+
+“transferor” means the Agri-Food and Veterinary Authority;
+
+“transferring employee” means an employee of the transferor who, on the eve of the transfer date, is deployed in the AVA veterinary undertaking.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+### Transfer of undertaking to Board
+
+24\.—(1) On the transfer date, all assets and liabilities of the transferor that relate to the functions of the AVA veterinary undertaking are transferred to the Board.
+
+(2) When any assets or liabilities are transferred under subsection (1), the following provisions have effect:
+
+(a) the assets of the transferor that are the subject of the transfer vest in the Board by virtue of this section and without the need for any further conveyance, transfer, assignment or assurance;
+
+(b) the liabilities of the transferor that are the subject of the transfer become by virtue of this section the liabilities of the Board;
+
+(c) all legal or other proceedings relating to those assets or liabilities that are started before the transfer date by or against the transferor or a predecessor of the transferor and pending immediately before that date are taken to be proceedings pending by or against the Board;
+
+(d) any legal or other proceedings relating to those assets or liabilities which could have been started immediately before the transfer date by or against the transferor or a predecessor of the transferor may be started by or against the Board;
+
+(e) a judgment or order of a court or other tribunal obtained before the transfer date by or against the transferor or a predecessor of the transferor relating to those assets or liabilities may be enforced by or against the Board;
+
+(f) any document relating to legal or other proceedings relating to those assets or liabilities that has been served on or by the transferor or a predecessor of the transferor before the transfer date is taken, where appropriate, to have been served on or by the Board;
+
+(g) any act, matter or thing done or omitted to be done before the transfer date in relation to those assets or liabilities by, to or in respect of the transferor or a predecessor of the transferor is (to the extent to which that act, matter or thing has any force or effect) taken to have been done or omitted by, to or in respect of the Board;
+
+(h) a reference in any written law, in any instrument made under any Act, in any contract, agreement, arrangement or undertaking, or in any document of any kind to the transferor or a predecessor of the transferor, to the extent to which the reference relates to those assets or liabilities, is taken to be, or includes, a reference to the Board;
+
+(i) a reference in any written law, in any instrument made under any Act, in any contract, agreement, arrangement or undertaking, or in any document of any kind to an officer of the transferor, as regards anything falling to be done or capable of being done on or after the transfer date and to the extent to which the reference relates to those assets or liabilities, is taken to be, or includes, a reference to an officer of the Board whom the Board appoints for that purpose.
+
+(3) In particular —
+
+(a) all security deposits deposited with the transferor in relation to any asset or liability transferred under subsection (1) and not forfeited before the transfer date; and
+
+(b) the benefits of all indemnities, guarantees or warranties given to the transferor in relation to any asset or liability transferred under subsection (1) and not discharged before that date,
+
+are, without further assurance, transferred and deemed deposited with or given to the Board.
+
+(4) The operation of this section does not —
+
+(a) constitute a breach of, or default under, an Act or other law, or otherwise a civil wrong or criminal wrong;
+
+(b) constitute a breach of duty of confidence (whether arising by contract, in equity, by custom, or in any other way);
+
+(c) constitute a breach of any contractual provision prohibiting, restricting or regulating the assignment or transfer of assets or liabilities or the disclosure of any information;
+
+(d) terminate an agreement or obligation, or fulfil any condition that allows a person to terminate any agreement or obligation, or give rise to any right or remedy in respect of any agreement or obligation;
+
+(e) cause any contract or other instrument to be void or otherwise unenforceable;
+
+(f) frustrate any contract;
+
+(g) release a surety or other obligor or obligee wholly or in part from an obligation; or
+
+(h) constitute an event of breach of, or default under, any contract or other instrument.
+
+(5) No attornment to the Board by a lessee from the transferor is required for the purpose of this section.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+### Transferring secondments and employees to Board
+
+25\.—(1) On the transfer date, every transferring employee —
+
+(a) stops being an employee of the transferor; and
+
+(b) is each transferred to the service, and becomes an employee, of the Board on terms no less favourable than those enjoyed by the employee on the eve of the transfer date.
+
+(2) The transfer of a transferring employee to the Board —
+
+(a) does not interrupt continuity of service;
+
+(b) does not constitute a retrenchment or redundancy; and
+
+(c) does not entitle any employee so transferred to any payment or other benefit merely because he stops being employed by the transferor.
+
+(3) A certificate purporting to be signed by the Minister certifying that an individual named in the certificate was, with effect from the transfer date, employed by virtue of this section by the Board, is admissible in evidence in any proceedings as evidence of the matters stated in it.
+
+(4) Nothing in this section prevents —
+
+(a) any of the terms and conditions of employment of an individual transferred under this section from being altered by or under any law, award or agreement with effect from any time after the transfer date; and
+
+(b) an individual transferred under this section from resigning from the Board at any time after the transfer date, in accordance with the terms and conditions of his employment then applicable.
+
+(5) To avoid doubt, section 18A of the Employment Act (Cap. 91) does not apply to the transfer under this Part of any transferring employee to the Board.
+
+(6) On the transfer date, every public officer or employee of any other public authority whose services are made available (or is seconded) to any department in the AVA veterinary undertaking pursuant to an agreement or arrangement that —
+
+(a) is between the Government or that other public authority and the Agri-Food and Veterinary Authority; and
+
+(b) is in force on the eve of the transfer date,
+
+continues on secondment to the Board.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+### General preservation of employment terms
+
+26\.—(1) The service with the transferor of an employee transferred under section 25 (called in this section a transferred employee) must be regarded for all purposes as having been continuous with the service of the employee with the Board immediately before the transfer date.
+
+(2) On the transfer date —
+
+(a) a transferred employee retains all accrued rights as if employment with the Board were a continuation of employment with the transferor;
+
+(b) the liabilities of the transferor relating to the transferred employee’s accrued rights to leave and superannuation become the liabilities of the Board; and
+
+(c) a reference to the transferor in the contract of employment that had effect in relation to the transferred employee immediately before the transfer date is taken to be, or includes, a reference to the Board.
+
+(3) For any conduct of a transferred employee when he was employed by the transferor which would have rendered the employee liable to be reprimanded, reduced in rank, retired, dismissed or punished by the transferor, the Board may —
+
+(a) start any disciplinary proceedings against the employee;
+
+(b) carry on and complete any disciplinary proceedings started by the transferor against the transferred employee if those proceedings are pending on the eve of the transfer date; and
+
+(c) reprimand, reduce in rank, retire, dismiss or otherwise punish a transferred employee, as if the employee were not transferred.
+
+(4) Where, on the eve of the transfer date, any matter about the conduct of a transferred employee during his employment with the transferor —
+
+(a) was in the course of being heard or investigated by a committee of the transferor acting under due authority; or
+
+(b) had been heard or investigated by a committee of the transferor acting under due authority but no order, ruling or direction had been made,
+
+that committee must complete the hearing or investigation and make such order, ruling or direction as it could have made under the authority vested in it before that date, and that order, ruling or direction is to be regarded as an order, ruling or direction of the Board.
+
+(5) Until such time as conditions of employment are drawn up by the Board for a transferred employee, the transferred employee is to be regarded as being employed by the Board on the same conditions of his employment with the transferor on the eve of the transfer date.
+
+(6) Any condition of employment relating to the length of service with the Board must recognise the length of service of the employees so transferred while in the employment of the transferor (including any previous service of the employee taken to be service with the transferor) to be service with the Board.
+
+(7) Nothing in section 25(6) —
+
+(a) breaks the continuity of service of the public officer or employee of another public authority whose secondment continues with the Board because of that provision; or
+
+(b) affects any rights, powers or immunities that such a public officer or an employee of a public authority has, or the extent to which such a public officer or an employee (as the case may be) is subject to obligations or liabilities in relation to discipline, by virtue of holding the office or position to which the officer or employee is seconded.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+### Transfer of records
+
+26A\. On the transfer date, every record, or part of any record, of the transferor that relates to —
+
+(a) any asset or liability transferred to the Board under section 24; or
+
+(b) any transferring employee,
+
+becomes the record of the Board.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+### Confirmation of undertaking transferred
+
+26B\.—(1) If any dispute arises —
+
+(a) as to whether an asset or a liability or a record is transferred under section 24 or 26A; or
+
+(b) as to whether any, or any part of any, contract or document relates to an asset or a liability, or a record, transferred under section 24 or 26A,
+
+the Minister for Finance may determine the matter and is to provide the concerned parties with written notice of that determination.
+
+(2) The determination of the Minister for Finance under subsection (1) is final and binding on the transferor and the Board.
+
+[Act 10 of 2019 wef 01/04/2019]
 
 ## PART VIII
 
@@ -662,7 +962,9 @@ Powers of Board
 
 [Act 9 of 2017 wef 20/11/2017]
 
-3\. To enter into contracts for the supply of goods, services or materials or for the execution of works or other contracts as may be necessary for the discharge of the duties and functions of the Board under this Act.
+3. To enter into contracts for the supply of goods, services or materials or for the execution of works or other contracts as may be necessary for the discharge of the duties and functions of the Board under this Act or any other written law which the Board is charged with the responsibility to administer.
+
+[Act 10 of 2019 wef 01/04/2019]
 
 4\. To receive fees, donations, grants, gifts of movable or immovable property from any source or raise funds by any lawful means.
 
@@ -678,15 +980,19 @@ Powers of Board
 
 [Act 9 of 2017 wef 20/11/2017]
 
-8B. To establish, manage and administer any accreditation or certification scheme or a register, for any purpose relating to any function of the Board.
+8B. To establish, manage and administer any accreditation or certification scheme or a register, for any purpose relating to any function of the Board, including specifying, by notification in theGazette, accreditation marks and certification marks of the Board and controlling the use of those accreditation marks or certification marks.
 
-[Act 9 of 2017 wef 20/11/2017]
+[Act 10 of 2019 wef 01/04/2019]
 
 9\. To offer consultancy services, inform, advise and make recommendations or proposals to the Government or any person on any matter relating to the designation, conservation, development and management of parks and other areas reserved for the propagation of plants and animals, or any other function of the Board.
 
 10\. To act in combination or association with any person engaged, concerned or interested in the promotion of the functions of the Board, and pay for or contribute to the cost and expenses involved in such combination or association.
 
-11\. With the approval of the Minister, to form or participate in the formation of companies or to enter into a partnership or an arrangement for the sharing of profits.
+With the approval of the Minister, to form or participate in the formation of companies or to enter into a partnership or an arrangement for the sharing of profits.
+
+11. With the approval of the Minister, to join in the formation of a company, association, trust or partnership or enter into a joint venture with any person.
+
+[Act 10 of 2019 wef 01/04/2019]
 
 12\. With the approval of the Minister, to raise loans for the purposes of this Act.
 
@@ -700,9 +1006,23 @@ Powers of Board
 
 12E\. To organise such courses and other programmes as the Board thinks necessary or desirable for the discharge of its functions, objects or duties.
 
-13. To do anything incidental to any of its functions.
+To do anything incidental to any of its functions.
 
-[4/2005]
+13. To apply for, obtain and hold, whether on its own behalf or jointly with any other person, any intellectual property rights.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+14. To enter into agreements or arrangements for the commercial exploitation of those intellectual property rights, whether by assignment, licensing or otherwise.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+15. To participate in international, regional and bilateral negotiations on matters that relate to animal health and welfare, plant health, wildlife trade control and biodiversity, and to any matters connected with the landscape industry, animal-related services industry and veterinary science industry.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+16. To engage in research, technology development studies or technical cooperation projects.
+
+[Act 10 of 2019 wef 01/04/2019]
 
 THIRD SCHEDULE
 
@@ -793,3 +1113,4 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of First Reading|15 January 2019 (Bill No. 4/2019 published on 15 January 2019)|
 ||Date of Second and Third Readings|12 February 2019|
 ||Date of commencement|29 March 2019|
+|||1 April 2019|
