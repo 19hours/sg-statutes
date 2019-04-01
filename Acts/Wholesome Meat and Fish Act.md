@@ -64,6 +64,8 @@
 
 - [24 Power to require production of documents, etc.](#Power-to-require-production-of-documents-etc)
 
+- [24A Other powers of investigation](#Other-powers-of-investigation)
+
 - [25 Powers of entry, search and seizure, etc.](#Powers-of-entry-search-and-seizure-etc)
 
 - [26 Power to require destruction treatment or disposal of meat products or fish products found to be diseased, etc.](#Power-to-require-destruction-treatment-or-disposal-of-meat-products-or-fish-products-found-to-be-diseased-etc)
@@ -98,7 +100,7 @@
 
 - [40 Exemption](#Exemption)
 
-- [41 Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
+- [41 Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
 
 - [42 Rules](#Rules)
 
@@ -134,19 +136,25 @@ PRELIMINARY
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
+“Agency” means the Singapore Food Agency established by the Singapore Food Agency Act 2019;
+
+[Act 11 of 2019 wef 01/04/2019]
+
 “animal” means any bird, mammal, reptile or amphibian;
 
 “authorised examiner” means any person or body of persons designated by the Director-General under section 3(5) to carry out any inspection, examination and certification of any meat product or fish product under this Act and includes any authorised officer;
 
 “authorised officer” means any person appointed by the Director-General to be an authorised officer under section 3(2);
 
-“Authority” means the Agri-food and Veterinary Authority established under section 3 of the Agri-food and Veterinary Authority Act 2000 (Act 16 of 2000);
+[Deleted by Act 11 of 2019 wef 01/04/2019]
 
 “cold store” means any chiller, freezer, cold room or other refrigerated facility used for the storage of meat products or fish products and includes any refrigerated conveyance used for transportation of meat products or fish products in the course of any trade or business;
 
 “conveyance” includes any aircraft, vessel, train, vehicle or any other artificial contrivance, whether mechanically propelled or otherwise, used or capable of being used as a means of transport on land, water or air;
 
-“Director-General” means the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7);
+“Director-General” means the Director-General, Food Administration appointed under section 3(1) of the Sale of Food Act (Cap. 283);
+
+[Act 11 of 2019 wef 01/04/2019]
 
 “Director-General of Customs” means the Director-General of Customs appointed under section 4(1) of the Customs Act (Cap. 70);
 
@@ -232,13 +240,17 @@ whether those goods are to be transferred directly between conveyances or whethe
 
 [16/2000]
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any other statutory authority to be an authorised officer for the purposes of this Act and the rules.
+(2) The Director-General may in writing appoint any public officer or any officer of the Agency or any other statutory authority, or an auxiliary police officer appointed under the Police Force Act (Cap. 235), to be an authorised officer for the purposes of this Act and the rules.
 
 [16/2000]
 
-(3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer.
+[Act 11 of 2019 wef 01/04/2019]
+
+(3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act (except the power of delegation conferred by this subsection) to any authorised officer.
 
 [16/2000]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (4) All authorised officers shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
 
@@ -247,6 +259,14 @@ whether those goods are to be transferred directly between conveyances or whethe
 (5) The Director-General may designate any person or body of persons to carry out at any appointed place any inspection, examination and certification of any meat product or fish product under this Act.
 
 [16/2000]
+
+(6) The Director-General may, for any reason that appears to the Director-General to be sufficient, at any time revoke a person’s appointment as an authorised officer or a person’s or body’s designation under subsection (5).
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(7) An auxiliary police officer who is appointed as an authorised officer under subsection (2) does not, by virtue only of the appointment, become an employee or agent of the Agency.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Identification card to be produced
 
@@ -338,6 +358,22 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [16/2000]
 
+(1A) In deciding whether to grant a licence under section 5 for the import of any meat product or fish product, the Director-General may make inquiries and investigations that are reasonable and appropriate in the circumstances so as to be satisfied as to the experience and resources of the applicant in providing a secure and reliable supply in Singapore of the meat product or fish product.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(1B) Without limiting subsection (1A), those inquiries and investigations may include whether the applicant for a licence to import any meat product or fish product has a procurement plan stating —
+
+(a) the risks (including assessments thereof) of any disruption occurring to the import of the meat product or fish product from the markets from which they are to be procured; and
+
+(b) any plan of action (including preventive strategies) for the purpose of —
+
+(i) ensuring, so far as is reasonably practicable, that the applicant can still provide a secure and reliable supply in Singapore of the meat product or fish product of acceptable quality; or
+
+(ii) otherwise reducing or mitigating the effect of any disruption to the supply of the meat product or fish product from any such market from which they are to be procured.
+
+[Act 11 of 2019 wef 01/04/2019]
+
 (2) On receipt of an application under subsection (1), the Director-General may —
 
 (a) grant the licence or permit applied for, with or without conditions; or
@@ -345,6 +381,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (b) refuse to grant the licence or permit applied for.
 
 [16/2000]
+
+(2A) Without limiting subsection (2), the Director-General may grant a licence under section 5 subject to such conditions as the Director-General thinks fit, including but not limited to the conditions necessary or related to ensuring a secure and reliable supply in Singapore of any meat product or fish product.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (3) Where the Director-General has refused to grant a licence or permit under subsection (2)(b), the Director-General shall, if requested to do so by the applicant, state in writing the reasons for his refusal.
 
@@ -386,9 +426,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) any condition of his licence or permit; or
 
-(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules or by the Authority under Part IIA of the Sale of Food Act (Cap. 283); or
+(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules or by the Director-General under Part IIA of the Sale of Food Act (Cap. 283); or
 
 [Act 48 of 2017 wef 01/02/2018]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (c) it is in the public interest to suspend or revoke the licence or permit.
 
@@ -552,9 +594,11 @@ LICENSING OF SLAUGHTER-HOUSES, PROCESSING ESTABLISHMENTS AND COLD STORES
 
 (ii) any condition of his licence or permit; or
 
-(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules or by the Authority under Part IIA of the Sale of Food Act (Cap. 283); or
+(iii) any direction given to him by the Director-General or an authorised officer under this Act or the rules or by the Director-General under Part IIA of the Sale of Food Act (Cap. 283); or
 
 [Act 48 of 2017 wef 01/02/2018]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (c) it is in the public interest to suspend or revoke the licence or permit.
 
@@ -785,6 +829,30 @@ POWERS OF ENFORCEMENT
 (3) Any person who fails to comply with any requirement made by the Director-General or authorised officer under subsection (1)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [16/2000]
+
+### Other powers of investigation
+
+24A\.—(1) For the purpose of investigating any offence under this Act or the rules, the Director-General or an authorised officer may —
+
+(a) require any person in Singapore whom the Director-General or authorised officer (as the case may be) has reason to believe to be acquainted with any facts or circumstances relevant to that investigation to attend before the Director-General or authorised officer to answer any question (to the best of that person’s knowledge, information and belief); or
+
+(b) examine orally any person supposed to be acquainted with the facts and circumstances of the case.
+
+(2) The person mentioned in subsection (1)(b) is bound to state truly the facts and circumstances with which the person is acquainted concerning the case except only that the person may decline to make, with regard to any fact or circumstance, a statement which would have a tendency to expose the person to a criminal charge or to penalty or forfeiture.
+
+(3) Any statement made by any person in answer to a question under subsection (1) must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted in a language that the person understands; and
+
+(d) after correction (if necessary), be signed by the person.
+
+(4) If any person fails to attend before the Director-General or an authorised officer as required under subsection (1), the Director-General or authorised officer may report the failure to a Magistrate who may issue a warrant to secure the attendance of that person as required by the order.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Powers of entry, search and seizure, etc.
 
@@ -1050,19 +1118,21 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (2) On payment of such sum of money, no further proceedings shall be taken against such person in respect of the offence.
 
+(3) All composition sums collected under this section must be paid into the Consolidated Fund.
+
+[Act 11 of 2019 wef 01/04/2019]
+
 ### Exemption
 
 40\. The Director-General may, in his discretion, either permanently or for such period as he may think fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act or the rules.
 
 [16/2000]
 
-### Fees, etc., payable to Authority
+### Fees, etc., payable to Agency
 
-41\. All fees, charges, composition fines and moneys collected under this Act or any rules shall be paid to the Authority.
+41\. All fees, charges and moneys collected under this Act or any rules made thereunder (except composition sums) must be paid to the Agency.
 
-[40A
-
-[16/2000]
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Rules
 
@@ -1121,6 +1191,16 @@ not less than 10 clear days before the commencement of the proceedings.
 (t) providing for the standards of dressing animals slaughtered in licensed slaughter-houses;
 
 (u) regulating and controlling the import of animals, fish, meat products and fish products into Singapore and prescribing the mode of dealing with such animals, fish, meat products and fish products upon their entry into Singapore;
+
+(ua) setting out requirements and procedures for document control and recording by persons licensed under this Act so as to monitor the supply of meat products and fish products of acceptable quality in Singapore, including —
+
+(i) the information that must be collected about the meat product or fish product;
+
+(ii) the periods for which the information must be kept; and
+
+(iii) how, when and to whom that information must be reported;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (v) prescribing the procedure for the taking and analysis of samples under this Act;
 
@@ -1183,6 +1263,10 @@ This Legislative History is provided for the convenience of users of the Wholeso
 ||Date of First Reading|2 October 2017 (Bill No. 42/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|7 November 2017|
 ||Date of commencement|1 February 2018|
+|6.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Wholesome Meat and Fish Act
