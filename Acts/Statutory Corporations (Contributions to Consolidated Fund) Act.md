@@ -98,9 +98,9 @@ Agency for Science, Technology and Research Act
 
 3.
 
-Agri-Food and Veterinary Authority
+Singapore Food Agency
 
-Agri-Food and Veterinary Authority Act (Chapter 5)
+Singapore Food Agency Act 2019
 
 4.
 
@@ -380,6 +380,8 @@ Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
 
+[Act 11 of 2019 wef 01/04/2019]
+
 [Act 10 of 2018 wef 01/04/2018]
 
 [Act 20 of 2016 wef 04/10/2016]
@@ -527,3 +529,7 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
+|37.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
