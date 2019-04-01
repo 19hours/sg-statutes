@@ -798,6 +798,10 @@ SINGAPORE REGISTRY
 
 (5) The Minister may, either generally or on specific occasions, reduce the fee or annual tonnage tax prescribed under this section.
 
+(6) Any person authorised by the Minister for the purposes of this subsection may, either generally or on specific occasions, reduce the fee prescribed under subsection (1).
+
+[Act 3 of 2019 wef 01/04/2019]
+
 ### Documents to be retained by Registrar
 
 15\. On the registry of a ship, the Registrar shall retain in his possession all the documents submitted under section 11, except the document of title.
@@ -2930,7 +2934,17 @@ MISCELLANEOUS
 
 (f) require any ship to be taken into a dock for the purpose of surveying the hull.
 
-(2) The Director may, in his discretion, compound any offence under this Act or the regulations which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+(2) The Director may compound any offence under this Act that is prescribed as a compoundable offence by collecting from the person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
+
+(b) $2,000.
+
+[Act 3 of 2019 wef 01/04/2019]
+
+(3) On payment of such sum of money under subsection (2), no further proceedings are to be taken against that person in respect of the offence.
+
+[Act 3 of 2019 wef 01/04/2019]
 
 ### Powers of inspector
 
@@ -3352,3 +3366,7 @@ This Legislative History is provided for the convenience of users of the Merchan
 ||Date of First Reading|3 April 2017 (Bill No. 19/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|8 September 2017|
+|11.|**Act 3 of 2019—Merchant Shipping (Miscellaneous Amendments) Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 49/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|1 April 2019|
