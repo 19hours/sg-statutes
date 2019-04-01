@@ -4286,14 +4286,7 @@ Agency for Science, Technology and Research Act (Chapter 5A)
 
 3.
 
-Agri-Food and Veterinary
-
-
-
-
-Authority of Singapore
-
-Agri-Food and Veterinary Authority Act (Chapter 5)
+[Deleted by Act 11 of 2019 wef 01/04/2019]
 
 4.
 
@@ -4586,6 +4579,12 @@ Assessment Board
 
 Singapore Examinations and Assessment Board Act (Chapter 299A)
 
+39A.
+
+Singapore Food Agency
+
+Singapore Food Agency Act 2019
+
 40.
 
 Singapore Land Authority
@@ -4653,6 +4652,8 @@ Urban Redevelopment Authority Act (Chapter 340)
 Workforce Singapore Agency
 
 Workforce Singapore Agency Act (Chapter 305D)
+
+[Act 11 of 2019 wef 01/04/2019]
 
 [Act 10 of 2018 wef 01/04/2018]
 
