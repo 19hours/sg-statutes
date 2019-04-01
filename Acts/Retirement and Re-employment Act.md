@@ -344,7 +344,9 @@ is less than one year, the period of employment under the re‑employment contra
 
 (2) Any period for which an employee has served under his employer before he commences his service under the re‑employment contract entered into pursuant to section 7A(4) shall be reckoned for the purposes of —
 
-(a) computing the minimum period of 3 months for entitlement to annual leave under section 43(1) of the Employment Act (Cap. 91); and
+(a) computing the minimum period of 3 months for entitlement to annual leave under section 88A(1) of the Employment Act (Cap. 91); and
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) determining the period of service of an employee for entitlement to paid sick leave under section 89(1) and (2) of the Employment Act.
 
@@ -402,7 +404,9 @@ is less than one year, the period of employment under the re‑employment contra
 
 (5) Without affecting section 7B, where E2 enters into a contract of service with an eligible employee in lieu of E1, any period for which the eligible employee has served under E1 before he commences his service with E2 is to be reckoned only for the purposes of —
 
-(a) computing the minimum period of 3 months for entitlement to annual leave under section 43(1) of the Employment Act (Cap. 91); and
+(a) computing the minimum period of 3 months for entitlement to annual leave under section 88A(1) of the Employment Act (Cap. 91); and
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) determining the period of service of an employee for entitlement to paid sick leave under section 89(1) and (2) of the Employment Act.
 
@@ -520,17 +524,21 @@ and the employer shall comply with the direction of the Minister.
 
 (a) the lodging of any claim under section 8C(1) in relation to the matter referred to in section 8A(4)(d), by that employee in respect of that dismissal; and
 
-(b) the making of any representations to the Minister in respect of that dismissal under section 14(2) of the Employment Act (Cap. 91) or section 35(3) of the Industrial Relations Act (Cap. 136).
+(b) the making of any representations to the Minister in respect of that dismissal under section 35(3) of the Industrial Relations Act (Cap. 136).
 
 [4/2011]
 
-(4) Where an employee who is dismissed by his employer makes any representations to the Minister in respect of that dismissal under section 14(2) of the Employment Act or section 35(3) of the Industrial Relations Act, such representations made shall operate as a bar to —
+[Act 55 of 2018 wef 01/04/2019]
+
+(4) Where an employee who is dismissed by his employer makes any representations to the Minister in respect of that dismissal under section 35(3) of the Industrial Relations Act, such representations made shall operate as a bar to —
 
 (a) the making of any representations to the Minister in respect of that dismissal under subsection (1); and
 
 (b) the lodging of any claim under section 8C(1) in relation to the matter referred to in section 8A(4)(d), by that employee in respect of that dismissal.
 
 [4/2011]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (5) The Minister may, before making a decision on any such representations made under subsection (1), direct the Commissioner to inquire and report whether in the Commissioner’s opinion the employee has been unreasonably denied of re-employment by his employer, or has been dismissed without just cause or excuse by his employer, as the case may be.
 
@@ -612,11 +620,13 @@ and the employer shall comply with the direction of the Minister.
 
 (a) the making of any representations under section 8B(1) by that employee in respect of that dismissal; and
 
-(b) the making of any representations to the Minister in respect of that dismissal under section 14(2) of the Employment Act (Cap. 91) or section 35(3) of the Industrial Relations Act (Cap. 136).
+(b) the making of any representations to the Minister in respect of that dismissal under section 35(3) of the Industrial Relations Act (Cap. 136).
 
 [4/2011]
 
 [Act 21 of 2016 wef 01/04/2017]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (4) In making a decision on any claim in relation to the employment assistance payment, the Employment Claims Tribunal —
 
@@ -829,6 +839,10 @@ This Legislative History is provided for the convenience of users of the Retirem
 ||Date of First Reading|7 November 2016 (Bill No. 36/2016 published on 7 November 2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|1 July 2017|
+|10.|**Act 55 of 2018—Employment (Amendment) Act 2018**|
+||Date of First Reading|2 October 2018 (Bill No. 47/2018 published on 2 October 2018)|
+||Date of Second and Third Readings|20 November 2018|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Retirement and Re-employment Act
