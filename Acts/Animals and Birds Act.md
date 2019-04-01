@@ -12,7 +12,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Appointment of Director-General, etc.](#Appointment-of-Director-General-etc)
+- [3 Appointment of Director-General and authorised officers](#Appointment-of-Director-General-and-authorised-officers)
 
 - [4 Designation of authorised examiners](#Designation-of-authorised-examiners)
 
@@ -166,6 +166,8 @@
 
 - [60 Obstructing officers in execution of their duties](#Obstructing-officers-in-execution-of-their-duties)
 
+- [60A Giving false information](#Giving-false-information)
+
 - [61 Altering licences](#Altering-licences)
 
 - [62 Suspension and revocation of licences and permits](#Suspension-and-revocation-of-licences-and-permits)
@@ -186,7 +188,7 @@
 
 [**Part X MISCELLANEOUS PROVISIONS**](#Part-X)
 
-- [70 Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
+- [70 Fees, etc., payable to Board](#Fees-etc-payable-to-Board)
 
 - [71 Expenses](#Expenses)
 
@@ -250,9 +252,13 @@ PRELIMINARY
 
 “authorised officer” means any person appointed by the Director-General to be an authorised officer under section 3(2);
 
-“Authority” means the Agri-Food and Veterinary Authority established under section 3 of the Agri-Food and Veterinary Authority Act (Cap. 5);
+[Deleted by Act 10 of 2019 wef 01/04/2019]
 
 “bird” includes domestic fowls, ducks, geese, turkeys, guinea fowls and pigeons of any age or sex and the eggs thereof;
+
+“Board” means the National Parks Board established by the repealed National Parks Act (Cap. 198A, 1991 Ed.) as in force before 1 July 1996 and continued by section 3 of the National Parks Board Act (Cap. 198A);
+
+[Act 10 of 2019 wef 01/04/2019]
 
 “building” includes any house, hut, shed, stable or enclosure, whether roofed or not, used for sheltering or confining any animal or bird and any pen, cage, wall, gate, pillar, post, paling, frame, boarding, fence, platform, roadway, path, steps, staging, slip, wharf, dock, piles, jetty, landing stage or bridge, or any structure connected with the foregoing;
 
@@ -266,7 +272,9 @@ PRELIMINARY
 
 “contact” means any animal or bird which has by contact direct or indirect with a diseased animal or bird been exposed to the risk of contracting a disease;
 
-“Director-General” means the Director-General, Agri-Food and Veterinary Services appointed under section 3(1);
+“Director-General” means the Director-General, Animal Health and Welfare appointed under section 3(1);
+
+[Act 10 of 2019 wef 01/04/2019]
 
 “disease” means any disease that is infectious or contagious amongst animals or birds and includes any other disease which the Minister may, from time to time, by notification in theGazette, declare to be a disease for the purposes of this Act;
 
@@ -326,27 +334,39 @@ PRELIMINARY
 
 [Act 46 of 2014 wef 16/01/2015]
 
-### Appointment of Director-General, etc.
+### Appointment of Director-General and authorised officers
 
-3\.—(1) The Minister may, by notification in theGazette, appoint any person to be the Director-General, Agri-Food and Veterinary Services who shall be responsible for the administration of this Act and any other written law.
+3\.—(1) The Board is responsible for the administration of this Act, and to that end, the Board must appoint an officer of the Board to be the Director-General, Animal Health and Welfare.
 
-[16/2000]
+(2) The Director-General may, subject to the directions of the Board, appoint any of the following persons to be an authorised officer for the purpose of assisting the Director-General in administering and carrying out the provisions of this Act or any other written law which confers powers on the Director-General:
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any other statutory authority to be an authorised officer for the purposes of this Act.
+(a) an employee of the Board;
 
-[16/2000]
+(b) an employee of another statutory authority;
 
-(3) The Director-General may delegate all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer.
+(c) a public officer;
 
-[16/2000]
+(d) an auxiliary police officer appointed under the Police Force Act (Cap. 235).
+
+(3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon the Director‑General by any provision of this Act or any other written law (except the power of delegation conferred by this subsection) to an authorised officer; and any reference in the provision of this Act or other written law to the Director-General includes a reference to such an authorised officer.
+
+(4) Any delegation under subsection (3) may be general or in a particular case and may be subject to such conditions or limitations as set out in this Act or as the Board may specify.
+
+(5) The Director-General may, for any reason that appears to him to be sufficient, at any time revoke a person’s appointment as an authorised officer.
+
+(6) A person mentioned in subsection (2)(d) who is appointed as an authorised officer does not, by virtue only of the appointment, become an employee or agent of the Board.
+
+[Act 10 of 2019 wef 01/04/2019]
 
 ### Designation of authorised examiners
 
-4\. The Director-General may, subject to any general or special directions of the Minister, in writing designate any suitably qualified person as an authorised examiner to carry out, at any appointed place, any examination, treatment or certification and any other similar, related or ancillary functions which are required by this Act to be carried out.
+4\. The Director-General may, subject to any general or special directions of the Board, in writing designate any suitably qualified person as an authorised examiner to carry out, at any appointed place, any examination, treatment or certification and any other similar, related or ancillary functions which are required by this Act to be carried out.
 
 [3A
 
 [10/2002]
+
+[Act 10 of 2019 wef 01/04/2019]
 
 ### Public servants
 
@@ -401,6 +421,26 @@ Importation
 (2) A licence to import or tranship any animal, bird or veterinary biologics under this Act may be obtained on an application made in the prescribed form to the Director-General and upon the payment of such fees as may be prescribed.
 
 [16/2000]
+
+(2A) In deciding whether to grant a licence for the import of any animal or bird intended for human consumption or production of primary produce, the Director-General may make inquiries and investigations that are reasonable and appropriate in the circumstances so as to be satisfied as to the experience and resources of the applicant in providing a secure and reliable supply in Singapore of the animals or birds of acceptable quality for human consumption or production of primary produce, as the case may be.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(2B) Without limiting subsection (2A), the inquiries and investigations may include whether an applicant for a licence for the import of any animal or bird intended for human consumption or production of primary produce has a procurement plan stating —
+
+(a) the risks (including assessments of such risks) of any disruption occurring to the import of the animal or bird from the markets from which the animal or bird is to be procured; and
+
+(b) any plan of action (including preventive strategies) for the purpose of —
+
+(i) ensuring, so far as is reasonably practicable, that the applicant can still provide a secure and reliable supply in Singapore of the animal or bird of acceptable quality; or
+
+(ii) otherwise reducing or mitigating the effect of any disruption to the supply of the animal or bird from any such market from which the animal or bird is to be procured.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(2C) The Director-General may grant a licence subject to such conditions as the Director-General thinks fit, including but not limited to the conditions necessary or related to ensuring a secure and reliable supply in Singapore of any animals or birds intended for human consumption or production of primary produce, as the case may be.
+
+[Act 10 of 2019 wef 01/04/2019]
 
 (3) Any person importing or transhipping an animal, bird or veterinary biologics in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -1686,6 +1726,18 @@ OFFENCES AND PENALTIES
 
 [16/2000; 10/2002]
 
+### Giving false information
+
+60A\. A person —
+
+(a) who intentionally alters, suppresses or destroys any document or information which the person has been required by or under section 52A to produce or furnish; or
+
+(b) who, in producing or furnishing any document or information required by or under section 52A, makes any statement which the person knows or ought reasonably to know that, or is reckless as to whether, it is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 10 of 2019 wef 01/04/2019]
+
 ### Altering licences
 
 61\. Any person who without lawful authority alters any licence or permit issued under this Act or knowingly makes use of any licence or permit so altered shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
@@ -1706,9 +1758,11 @@ OFFENCES AND PENALTIES
 
 (ii) any condition of his licence or permit; or
 
-(iii) any direction given to him by the Director-General or an authorised officer under this Act or by the Authority under Part IIA of the Sale of Food Act (Cap. 283); or
+(iii) any direction given to him by the Director-General or an authorised officer under this Act or by the Director-General, Food Administration under Part IIA of the Sale of Food Act (Cap. 283); or
 
 [Act 48 of 2017 wef 01/02/2018]
+
+[Act 10 of 2019 wef 01/04/2019]
 
 (c) it is in the public interest to suspend or revoke the licence or permit.
 
@@ -1878,9 +1932,11 @@ not less than 10 clear days before the date of commencement of the proceedings.
 
 ### Composition of offences
 
-69\.—(1) The Director-General or any officer authorised in writing in that behalf by the Authority may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
+69\.—(1) The Director-General or any officer authorised in writing in that behalf by the Board may, in his discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $1,000.
 
 [10/2002]
+
+[Act 10 of 2019 wef 01/04/2019]
 
 (2) On payment of such sum, no further proceedings shall be taken against such person in respect of the offence.
 
@@ -1888,17 +1944,19 @@ not less than 10 clear days before the date of commencement of the proceedings.
 
 [10/2002]
 
+(3) All composition sums collected under this section must be paid into the Consolidated Fund.
+
+[Act 10 of 2019 wef 01/04/2019]
+
 ## PART X
 
 MISCELLANEOUS PROVISIONS
 
-### Fees, etc., payable to Authority
+### Fees, etc., payable to Board
 
-70\. All fees, charges, composition fines and moneys collected under this Act shall be paid to the Authority.
+70\. All fees, charges and moneys collected under this Act or any rules made thereunder (except composition sums) must be paid to the Board.
 
-[59A
-
-[16/2000]
+[Act 10 of 2019 wef 01/04/2019]
 
 ### Expenses
 
@@ -1912,11 +1970,13 @@ MISCELLANEOUS PROVISIONS
 
 72\.—(1) Any action taken under the provisions of this Act or of any rule, order or direction made or given thereunder in respect of any animal, bird, carcase, article, building or conveyance shall be at the risk of the owner thereof.
 
-(2) No liability shall attach to the Authority or to any officer thereof in respect of any expense, loss, damage or delay arising in or from the lawful exercise of the powers under this Act.
+(2) No liability shall attach to the Board or to any officer thereof in respect of any expense, loss, damage or delay arising in or from the lawful exercise of the powers under this Act.
 
 [61
 
 [16/2000]
+
+[Act 10 of 2019 wef 01/04/2019]
 
 ### Powers of Director-General and authorised officer in cases of non-compliance with Act or any direction or order
 
@@ -2014,11 +2074,13 @@ appended thereto shall be sufficient authentication.
 
 ### Protection from liability
 
-78\. No suit or other legal proceedings shall lie against the Authority, the Director-General or any authorised officer, police officer, officer of customs or any other person acting under the direction of the Authority or Director-General for anything which is in good faith done in the execution or purported execution of this Act.
+78\. No suit or other legal proceedings shall lie against the Board, the Director-General or any authorised officer, police officer, officer of customs or any other person acting under the direction of the Board or Director-General for anything which is in good faith done in the execution or purported execution of this Act.
 
 [69H
 
 [10/2002]
+
+[Act 10 of 2019 wef 01/04/2019]
 
 ### Exemption
 
@@ -2062,7 +2124,9 @@ appended thereto shall be sufficient authentication.
 
 (k) to provide for the control and improvement of animal or bird production in respect of breeding, nutrition, health, management, husbandry and method of production;
 
-(l) to provide for the supply, collection and compilation of information and statistics of animals and birds and their products;
+(l) to provide for the supply, collection and compilation of information and statistics of animals and birds and their products, including prescribing the records that must be kept by licensees and the provision of returns and other information by licensees to the Director-General with respect to the animals or birds or their products which are the subject of activity authorised by the licence;
+
+[Act 10 of 2019 wef 01/04/2019]
 
 (m) to provide for the establishment and designation of quarantine stations;
 
@@ -2168,6 +2232,10 @@ This Legislative History is provided for the convenience of users of the Animals
 ||Date of First Reading|2 October 2017 (Bill No. 42/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|7 November 2017|
 ||Date of commencement|1 February 2018|
+|16.|**Act 10 of 2019—National Parks Board (Amendment) Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 4/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Animals and Birds Act
