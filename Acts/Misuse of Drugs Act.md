@@ -44,7 +44,7 @@
 
 - [12A Causing or procuring young person or vulnerable person to commit certain offences](#Causing-or-procuring-young-person-or-vulnerable-person-to-commit-certain-offences)
 
-- [13 Abetting or procuring commission of offences outside Singapore](#Abetting-or-procuring-commission-of-offences-outside-Singapore)
+- [13 Abetting or procuring commission of offences within or outside Singapore](#Abetting-or-procuring-commission-of-offences-within-or-outside-Singapore)
 
 - [14 Offences by body corporate](#Offences-by-body-corporate)
 
@@ -72,11 +72,11 @@
 
 - [25 Powers of arrest](#Powers-of-arrest)
 
-- [26 Power to search ship, hovercraft, aircraft, vehicle or train and person arriving in or departing from Singapore](#Power-to-search-ship-hovercraft-aircraft-vehicle-or-train-and-person-arriving-in-or-departing-from-Singapore)
+- [26 Power to search ship, hovercraft, etc., and person arriving in or departing from Singapore](#Power-to-search-ship-hovercraft-etc-and-person-arriving-in-or-departing-from-Singapore)
 
 - [27 Forfeiture of controlled drugs, controlled substances and articles seized](#Forfeiture-of-controlled-drugs-controlled-substances-and-articles-seized)
 
-- [28 Forfeiture of ship, hovercraft, aircraft or vehicle](#Forfeiture-of-ship-hovercraft-aircraft-or-vehicle)
+- [28 Forfeiture of ship, hovercraft, etc.](#Forfeiture-of-ship-hovercraft-etc)
 
 - [29 Disposal of things forfeited](#Disposal-of-things-forfeited)
 
@@ -85,6 +85,8 @@
 - [31 Urine tests](#Urine-tests)
 
 - [31A Hair tests](#Hair-tests)
+
+- [31B Oral fluid tests](#Oral-fluid-tests)
 
 - [32 Power of investigation of officers of Bureau](#Power-of-investigation-of-officers-of-Bureau)
 
@@ -210,9 +212,21 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
+“aircraft” has the same meaning as in section 2(1) of the Air Navigation Act (Cap. 6);
+
+[Act 1 of 2019 wef 01/04/2019]
+
 “approved institution” means any institution or place declared by the Minister to be an approved institution under section 35;
 
 “article liable to seizure” means any money, thing, controlled equipment or controlled material by means of or in respect of which an offence under this Act has been committed or which contains evidence of an offence under this Act;
+
+“autonomous system”, in relation to a motor vehicle or vessel, means a system that enables the operation of the motor vehicle or vessel without the active physical control of, or monitoring by, a human operator;
+
+[Act 1 of 2019 wef 01/04/2019]
+
+“autonomous vehicle” means a motor vehicle equipped wholly or substantially with an autonomous system (also commonly known as a driverless vehicle), and includes a trailer drawn by such a motor vehicle;
+
+[Act 1 of 2019 wef 01/04/2019]
 
 “cannabis” means any part of a plant of the genus Cannabis, or any part of such plant, by whatever name it is called;
 
@@ -312,11 +326,23 @@ PRELIMINARY
 
 otherwise than under the authority of this Act, and “trafficking” has a corresponding meaning;
 
-“Vigilante Corps” means the Vigilante Corps constituted under the Vigilante Corps Act (Cap. 343);
+“unmanned aircraft” and “unmanned aircraft system” have the same meanings as in section 2(1) of the Air Navigation Act;
 
-[49/75; 12/77; 40/93; 20/98; 8/2000; 4/2001; 2/2006]
+[Act 1 of 2019 wef 01/04/2019]
 
-[Act 30 of 2012 wef 01/01/2013]
+“unmanned vessel” means a vessel equipped wholly or substantially with an autonomous system (such as an unmanned surface vehicle and a saildrone) and includes a barge drawn by an unmanned vessel;
+
+[Act 1 of 2019 wef 01/04/2019]
+
+“vehicle” means any means of transport used on land, whether self-propelled or not, such as a train, motor car, bicycle or personal mobility device;
+
+[Act 1 of 2019 wef 01/04/2019]
+
+“vessel” includes a floating facility;
+
+[Act 1 of 2019 wef 01/04/2019]
+
+[Deleted by Act 1 of 2019 wef 01/04/2019]
 
 “vulnerable person” means any person who suffers from an impairment of, or a disturbance in the functioning of, the mind or brain resulting from any disability or disorder of the mind or brain which impairs the ability to make a proper judgment in relation to the commission of any offence under this Act;
 
@@ -514,19 +540,23 @@ and any such equipment, material or substance shall be deemed to be exported con
 
 [Act 30 of 2012 wef 01/05/2013]
 
-### Abetting or procuring commission of offences outside Singapore
+### Abetting or procuring commission of offences within or outside Singapore
 
-13\. It shall be an offence for a person —
+13\. Any person who —
 
-(a) to aid, abet, counsel or procure the commission in any place outside Singapore of an offence punishable under a corresponding law in force in that place;
+(a) aids, abets, counsels or procures the commission in any place outside Singapore of an offence punishable under a corresponding law in force in that place;
 
-[Act 30 of 2012 wef 01/01/2013]
+(b) aids, abets, counsels or procures the commission of any offence under this Act within Singapore, even though all or any of the acts constituting the aiding, abetment, counselling or procurement were done outside Singapore; or
 
-(aa) to aid, abet, counsel or procure the commission of any offence under this Act within Singapore, notwithstanding that all or any of the acts constituting the aiding, abetment, counselling or procurement were done outside Singapore; or
+(c) does an act preparatory to, or in furtherance of, an act outside Singapore which if committed in Singapore would constitute an offence under this Act,
 
-[Act 30 of 2012 wef 01/01/2013]
+shall be guilty of an offence and shall be liable on conviction —
 
-(b) to do an act preparatory to, or in furtherance of, an act outside Singapore which if committed in Singapore would constitute an offence under this Act.
+(d) in relation to an offence mentioned in paragraph (a) or (c), to imprisonment for a term of not less than 2 years but not more than 10 years, or to a fine of not less than $4,000 and not more than $40,000, or to both; and
+
+(e) in relation to an offence mentioned in paragraph (b), to the same punishment provided for the offence that the person aided, abetted, counselled or procured.
+
+[Act 1 of 2019 wef 01/04/2019]
 
 ### Offences by body corporate
 
@@ -662,23 +692,35 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 ### Powers of search and seizure
 
-24\.—(1) Any officer of the Bureau, police officer not below the rank of Assistant Superintendent of Police or any police officer authorised by him or any senior officer of customs may at any time —
+24\.—(1) Any officer of the Bureau, police officer or senior officer of customs may at any time —
 
 (a) without a warrant enter and search any place or premises in which he reasonably suspects that there is to be found —
 
-(i) any controlled drug, controlled substance, drug specified in the Fifth Schedule, substance containing any drug specified in the Fifth Schedule or article liable to seizure; or
+(i) any controlled drug, controlled substance, drug specified in the Fifth Schedule, substance containing any drug specified in the Fifth Schedule or article liable to seizure;
 
 [Act 30 of 2012 wef 01/05/2013]
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(ia) any vehicle, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, which is or has been used in the commission of or in connection with an offence under this Act; or
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (ii) a person who has committed or is reasonably suspected to have committed any offence under this Act or any seizable offence under the regulations;
 
 (b) search any person found in that place or premises; and
 
-(c) seize and detain any controlled drug, controlled substance, drug specified in the Fifth Schedule or substance containing any drug specified in the Fifth Schedule, which is found in that place or premises, or any article liable to seizure.
+(c) seize and detain all of the following which is found in that place or premises:
 
-[20/98]
+(i) any controlled drug, controlled substance, or drug specified in the Fifth Schedule or substance containing any drug specified in that Schedule;
 
-[Act 30 of 2012 wef 01/05/2013]
+(ii) any article liable to seizure;
+
+(iii) any vehicle, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, which is or has been used in the commission of or in connection with an offence under this Act.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (2) For the purpose of exercising his power under this section, an officer may, with such assistance as he considers necessary, break open any door, window, lock, fastener, floor, wall, ceiling, compartment, box, container or any other thing.
 
@@ -688,9 +730,11 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 ### Powers of arrest
 
-25\.—(1) Any officer of the Bureau, police officer, officer of customs, or special police officer or member of the Vigilante Corps authorised in writing by a police officer not below the rank of Assistant Superintendent of Police, may arrest and search without a warrant any person who has committed or whom he reasonably suspects to have committed an offence under this Act or a seizable offence under the regulations.
+25\.—(1) Any officer of the Bureau, police officer, special police officer or officer of customs may arrest and search without a warrant any person who has committed or whom he reasonably suspects to have committed an offence under this Act or a seizable offence under the regulations.
 
 [12/77; 20/98]
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (2) Any person arrested under subsection (1) shall, together with any controlled drug, controlled substance or article liable to seizure, be taken to the Central Narcotics Bureau, a police station or a customs station and may be searched.
 
@@ -702,19 +746,35 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 [20/98]
 
-### Power to search ship, hovercraft, aircraft, vehicle or train and person arriving in or departing from Singapore
+### Power to search ship, hovercraft, etc., and person arriving in or departing from Singapore
 
-26\.—(1) Any officer of the Bureau, police officer or officer of customs may —
+26\.—(1) Any officer of the Bureau, police officer, special police officer or officer of customs may —
 
 (a) stop, board and search any ship, hovercraft, aircraft, vehicle or train if he has reason to suspect that there is therein any controlled drug in contravention of this Act, controlled substance, drug specified in the Fifth Schedule, substance containing any drug specified in the Fifth Schedule or any article liable to seizure;
 
 [Act 30 of 2012 wef 01/05/2013]
 
-(b) search any person in that ship, hovercraft, aircraft, vehicle or train; and
+(b) search any person in that ship, hovercraft, aircraft, vehicle or train;
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(ba) intercept and search any autonomous vehicle, unmanned aircraft or unmanned vessel if he has reason to suspect that there is in any such vehicle, aircraft or vessel —
+
+(i) any controlled drug or controlled substance;
+
+(ii) any drug specified in the Fifth Schedule;
+
+(iii) any substance containing any drug specified in the Fifth Schedule; or
+
+(iv) any article liable to seizure; and
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (c) search any person arriving in Singapore or about to depart from Singapore.
 
 [20/98]
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (2) An officer may seize and detain —
 
@@ -722,13 +782,43 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 [Act 30 of 2012 wef 01/05/2013]
 
-(b) any ship, hovercraft, aircraft, vehicle or train which has been used in the commission of or in connection with an offence under this Act.
+(b) any ship, hovercraft, aircraft, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, vehicle or train which has been used in the commission of or in connection with an offence under this Act.
 
 [20/98]
 
-(3) Notwithstanding subsection (2), if the use of any drug specified in the Fifth Schedule or any substance containing such drug onboard any ship, hovercraft, aircraft, vehicle or train or by any person searched under that subsection is authorised by the Director, that drug or substance shall not be liable to seizure under that subsection.
+[Act 1 of 2019 wef 01/04/2019]
+
+(2A) An officer may —
+
+(a) in relation to any autonomous vehicle, unmanned aircraft or unmanned vessel that is to be intercepted and searched under subsection (1)(ba), direct any person whom the officer reasonably believes to be involved in operating the autonomous vehicle, unmanned aircraft or unmanned vessel —
+
+(i) to end the flight of the unmanned aircraft, or land it, safely in the fastest practicable way;
+
+(ii) to stop the autonomous vehicle or unmanned vessel safely in the fastest practicable way; or
+
+(iii) to fly the unmanned aircraft or to operate the autonomous vehicle or unmanned vessel in the manner specified by the officer;
+
+(b) in relation to any autonomous vehicle, unmanned aircraft or unmanned vessel that is to be intercepted and searched under subsection (1)(ba), without warrant and with such assistance and by such force as is necessary —
+
+(i) assume control of the unmanned aircraft to fly the aircraft, or to end the flight of the aircraft, or land it, safely in the fastest practicable way;
+
+(ii) assume control of the autonomous vehicle or unmanned vessel to steer the vehicle or vessel, or to stop the vehicle or vessel (as the case may be) safely in the fastest practicable way;
+
+(iii) end the flight of the unmanned aircraft, or land it, in the fastest and safest practicable way; or
+
+(iv) stop the autonomous vehicle or unmanned vessel in the fastest and safest practicable way; or
+
+(c) direct any person to operate any ship, hovercraft, aircraft, autonomous vehicle, unmanned aircraft, unmanned vessel, vehicle or train seized and detained under subsection (2)(b), in such manner as the officer determines.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(3) Notwithstanding subsection (2), if the use of any drug specified in the Fifth Schedule or any substance containing such drug onboard any ship, hovercraft, aircraft, autonomous vehicle, unmanned aircraft, unmanned vessel, vehicle or train or by any person searched under that subsection is authorised by the Director, that drug or substance shall not be liable to seizure under that subsection.
 
 [Act 30 of 2012 wef 01/05/2013]
+
+[Act 1 of 2019 wef 01/04/2019]
+
+[Act 1 of 2019 wef 01/04/2019]
 
 ### Forfeiture of controlled drugs, controlled substances and articles seized
 
@@ -740,27 +830,41 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 [20/98]
 
-(4) If there is no prosecution with regard to any controlled drug, controlled substance or article seized under this Act, that drug, substance or article shall be deemed to be forfeited at the expiration of one month from the date of the seizure thereof unless a claim thereto has been made before that date in such manner as may be prescribed.
+(4) If there is no prosecution with regard to any controlled drug, controlled substance or article seized under this Act, that drug, substance or article shall be deemed to be forfeited to the Government at the expiration of one month from the date of the seizure thereof unless a claim thereto has been made before that date in such manner as may be prescribed.
 
 [20/98]
 
-(5) Any drug specified in the Fifth Schedule or any substance containing such drug shall be deemed to be forfeited at the expiration of one month after the date of the seizure thereof unless a claim thereto has been made before that date in such manner as may be prescribed.
+[Act 1 of 2019 wef 01/04/2019]
+
+(5) Any drug specified in the Fifth Schedule or any substance containing such drug shall be deemed to be forfeited to the Government at the expiration of one month after the date of the seizure thereof unless a claim thereto has been made before that date in such manner as may be prescribed.
 
 [Act 30 of 2012 wef 01/05/2013]
 
-### Forfeiture of ship, hovercraft, aircraft or vehicle
+[Act 1 of 2019 wef 01/04/2019]
 
-28\.—(1) Where a person has been convicted of an offence under this Act, the court may order to be forfeited to the Government any ship, hovercraft or aircraft which has been proved to have been used in any manner in connection with the offence.
+### Forfeiture of ship, hovercraft, etc.
 
-[20/98]
-
-(2) Where a person has been convicted of an offence under this Act, the court shall, upon the application of the Public Prosecutor, order to be forfeited to the Government any vehicle which has been proved to have been used in any manner in connection with the offence.
+28\.—(1) Where a person has been convicted of an offence under this Act, the court may order to be forfeited to the Government any ship, hovercraft, aircraft, unmanned aircraft, unmanned vessel, component of the autonomous system of an unmanned vessel, or component of an unmanned aircraft system which has been proved to have been used in any manner in connection with the offence.
 
 [20/98]
 
-(3) This section shall not apply to any ship or hovercraft of more than 200 tons net or to any aircraft belonging to any person carrying on a regular passenger service to and from Singapore by means of that aircraft.
+[Act 1 of 2019 wef 01/04/2019]
 
-(4) No ship, hovercraft, aircraft or vehicle shall be forfeited under this section if it is established by the owner thereof that the ship, hovercraft, aircraft or vehicle was unlawfully in the possession of another person without the consent of the owner.
+(2) Where a person has been convicted of an offence under this Act, the court shall, upon the application of the Public Prosecutor, order to be forfeited to the Government any vehicle, autonomous vehicle, or component of the autonomous system of the autonomous vehicle which has been proved to have been used in any manner in connection with the offence.
+
+[20/98]
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(3) This section shall not apply to any ship, hovercraft or unmanned vessel of more than 200 tons net or to any aircraft or unmanned aircraft belonging to any person carrying on a regular passenger service to and from Singapore by means of that aircraft.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(4) Any ship, hovercraft, aircraft, vehicle, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, must not be forfeited under this section if its owner establishes that the ship, hovercraft, aircraft, vehicle, autonomous vehicle, unmanned aircraft or unmanned vessel was unlawfully in the possession of another person without the consent of the owner.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+[Act 1 of 2019 wef 01/04/2019]
 
 ### Disposal of things forfeited
 
@@ -782,9 +886,11 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 [12/77]
 
-(2) In subsection (1), “public officer” includes any special police officer or member of the Vigilante Corps exercising any power under section 25.
+(2) In subsection (1), “public officer” includes any special police officer exercising any power under section 25 or 26.
 
 [12/77]
+
+[Act 1 of 2019 wef 01/04/2019]
 
 ### Urine tests
 
@@ -792,9 +898,27 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 [12/77; 38/89]
 
-(2) A person who fails, without reasonable excuse, to provide a specimen of his urine within such time as may be required by any of the officers referred to in subsection (1) shall be guilty of an offence.
+(1A) The Director may, for the purpose of ensuring that a relevant person is no longer a drug addict, after the relevant time, order the relevant person —
+
+(a) to present himself to any officer of the Bureau, immigration officer or police officer not below the rank of sergeant; and
+
+(b) to provide a specimen of the relevant person’s urine for urine tests to be conducted under this section as required by such officer.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(1B) Any serviceman in the Singapore Armed Forces who is appointed by the Minister as an enforcement officer may, if the enforcement officer reasonably suspects a person subject to military law under section 3 of the Singapore Armed Forces Act (Cap. 295) to have committed an offence under section 8(b), require that person to provide a specimen of that person’s urine for urine tests to be conducted under this section.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(2) A person who fails, without reasonable excuse, to provide a specimen of his urine within such time as may be required by any of the officers referred to in subsection (1), (1A) or (1B) shall be guilty of an offence.
 
 [12/77]
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(2A) A person who fails, without reasonable excuse, to comply with an order under subsection (1A) shall be guilty of an offence.
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (3) Any person (other than a citizen of Singapore or a permanent resident) arriving in Singapore by land, sea or air who —
 
@@ -814,9 +938,11 @@ may be prohibited from entering or remaining in Singapore.
 
 [2/2006]
 
-(5) Notwithstanding subsection (4), where upon conducting any preliminary urine test under subsection (4)(a), a part of a urine specimen has tested negative for controlled drugs, any of the officers referred to in subsection (1) may either discard the remaining 2 parts of the same urine specimen or proceed in accordance with subsection (4)(b).
+(5) Notwithstanding subsection (4), where upon conducting any preliminary urine test under subsection (4)(a), a part of a urine specimen has tested negative for controlled drugs, any of the officers referred to in subsection (1), (1A) or (1B) may either discard the remaining 2 parts of the same urine specimen or proceed in accordance with subsection (4)(b).
 
 [Act 30 of 2012 wef 01/05/2013]
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (6) A certificate stating the result of a urine test shall be signed by an analyst employed by the Health Sciences Authority or any other person that the Minister, by notification in theGazette, appoints for such purpose.
 
@@ -830,11 +956,55 @@ may be prohibited from entering or remaining in Singapore.
 
 [Act 30 of 2012 wef 01/05/2013]
 
+(9) In this section and section 31A —
+
+“relevant person” means —
+
+(a) any person discharged from an approved institution;
+
+(b) any person convicted of an offence under subsection (2) or section 8(b) or 31A(2);
+
+(c) any person subject to a supervision order made under section 34(2)(a) whose supervision order has lapsed; or
+
+(d) any person who —
+
+(i) after having undergone treatment and rehabilitation at approved or other institutions; or
+
+(ii) after having been convicted of an offence under subsection (2) or section 8(b) or 31A(2) or an offence under section 34 of the Singapore Armed Forces Act,
+
+has been subject to a supervision order made pursuant to the regulations, and the supervision order has lapsed;
+
+“relevant time” means —
+
+(a) in relation to a person mentioned in paragraph (a) of the definition of “relevant person”, the time the person is discharged from the approved institution;
+
+(b) in relation to a person mentioned in paragraph (b) of the definition of “relevant person”, the time the person is convicted of the offence under subsection (2) or section 8(b) or 31A(2);
+
+(c) in relation to a person mentioned in paragraph (c) of the definition of “relevant person”, the time the supervision order lapses; or
+
+(d) in relation to a person mentioned in paragraph (d) of the definition of “relevant person”, the time the supervision order lapses.
+
+[Act 1 of 2019 wef 01/04/2019]
+
 ### Hair tests
 
 31A\.—(1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if he reasonably suspects any person to have committed an offence under section 8(b), require that person to provide specimens of his hair for a hair test to be conducted under this section.
 
-(2) A person who fails, without reasonable excuse, to provide specimens of his hair of such type and quantity as may be required by any of the officers referred to in subsection (1) shall be guilty of an offence.
+(1A) The Director may, for the purpose of ensuring that a relevant person is no longer a drug addict, after the relevant time, order the relevant person —
+
+(a) to present himself to any officer of the Bureau, immigration officer or police officer not below the rank of sergeant; and
+
+(b) to provide specimens of the relevant person’s hair for a hair test to be conducted under this section as required by such officer.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(2) A person who fails, without reasonable excuse, to provide specimens of his hair of such type and quantity as may be required by any of the officers referred to in subsection (1) or (1A) shall be guilty of an offence.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(2A) A person who fails, without reasonable excuse, to comply with an order under subsection (1A) shall be guilty of an offence.
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (3) All specimens of hair provided under this section shall be marked and sealed for hair testing in accordance with the prescribed procedure.
 
@@ -843,6 +1013,20 @@ may be prohibited from entering or remaining in Singapore.
 (5) The certificate stating the result of a hair test may be signed by an analyst or person appointed under subsection (4) notwithstanding that he did not personally conduct the test to analyse the specimens of hair as long as the test was conducted by another person acting under his direction.
 
 [Act 30 of 2012 wef 01/05/2013]
+
+### Oral fluid tests
+
+31B\.—(1) Any officer of the Bureau, immigration officer or police officer not below the rank of sergeant may, if the officer reasonably suspects any person to have committed an offence under section 8(b), require that person to provide one or more specimens of the person’s oral fluid for the purpose of conducting any oral fluid test.
+
+(2) A person who fails, without reasonable excuse, to provide any specimen of the person’s oral fluid as required under subsection (1) shall be guilty of an offence.
+
+(3) In this section —
+
+“oral fluid test” means a test carried out by an oral fluid testing device for the purpose of ascertaining whether any controlled drug is present in the person’s oral fluid;
+
+“oral fluid testing device” means any device that is designed to indicate the presence of any controlled drug in the person’s oral fluid.
+
+[Act 1 of 2019 wef 01/04/2019]
 
 ### Power of investigation of officers of Bureau
 
@@ -874,11 +1058,13 @@ may be prohibited from entering or remaining in Singapore.
 
 ### Punishment for offences
 
-33\.—(1) Except as provided in subsection (4), (4A), (4B) or (4C) or under section 33A, the Second Schedule shall have effect, in accordance with subsections (2) and (3), with respect to the way in which offences under this Act are punishable on conviction.
+33\.—(1) Except as provided in subsection (4A), (4B) or (4C) or under section 33A, the Second Schedule shall have effect, in accordance with subsections (2) and (3), with respect to the way in which offences under this Act are punishable on conviction.
 
 [12/77; 20/98]
 
 [Act 30 of 2012 wef 01/05/2013]
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (2) In relation to an offence under any provision of this Act specified in the first column of the Second Schedule (the general nature of the offence being described in the second column thereof) —
 
@@ -898,9 +1084,65 @@ may be prohibited from entering or remaining in Singapore.
 
 [49/75]
 
-(4) If any person convicted of an offence under section 8(b) or 31(2) is again convicted of an offence under section 8(b) or 31(2), he shall on conviction be punished with imprisonment for a term of not less than 3 years unless he is punished under section 33A for that same offence.
+(3A) Any person convicted of an offence under section 8(b), 31(2) or 31A(2) that is committed on or after the date of commencement of section 16 of the Misuse of Drugs (Amendment) Act 2019 shall on conviction be punished with imprisonment for a term of not less than one year but not more than 10 years and shall also be liable to a fine not exceeding $20,000, unless the person is punished under subsection (4), (4AA) or (4AB) or section 33A (as the case may be) for that same offence.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(4) If any person who has a previous conviction under section 8(b) or 31(2) is again convicted of an offence under section 8(b) or 31(2), he shall on conviction be punished with imprisonment for a term of not less than 3 years unless he is punished under section 33A for that same offence.
 
 [20/98]
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(4AA) If a person —
+
+(a) has —
+
+(i) a previous conviction under section 31A(2);
+
+(ii) a previous admission under section 34(2) to an approved institution; or
+
+(iii) a previous conviction under section 34 of the Singapore Armed Forces Act; and
+
+(b) is convicted of an offence under section 8(b) or 31(2), being an offence which is committed on or after the date of commencement of section 16 of the Misuse of Drugs (Amendment) Act 2019,
+
+he shall on conviction be punished with imprisonment for a term of not less than 3 years unless he is punished under section 33A for that same offence.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(4AB) If a person —
+
+(a) has —
+
+(i) a previous conviction under section 8(b), 31(2) or 31A(2);
+
+(ii) a previous admission under section 34(2) to an approved institution; or
+
+(iii) a previous conviction under section 34 of the Singapore Armed Forces Act; and
+
+(b) is convicted of an offence under section 31A(2), being an offence which is committed on or after the date of commencement of section 16 of the Misuse of Drugs (Amendment) Act 2019,
+
+he shall on conviction be punished with imprisonment for a term of not less than 3 years unless he is punished under section 33A for that same offence.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(4AC) A certificate purporting to be signed by an officer authorised by the Commissioner of Prisons and purporting to relate to a person’s previous admission to an approved institution under this Act is admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(4AD) A certificate —
+
+(a) purporting to be signed by the registrar for the subordinate military courts, or the registrar for the Military Court of Appeal, appointed under section 82(5)(c) of the Singapore Armed Forces Act; and
+
+(b) purporting to relate to a person’s previous conviction under section 34 of the Singapore Armed Forces Act,
+
+is admissible in evidence, in any proceedings under this section, on its production by the prosecution without proof of signature.
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(4AE) The certificate mentioned in subsection (4AC) or (4AD) is, until the contrary is proved, evidence of the matters contained in it.
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (4A) Where —
 
@@ -964,9 +1206,21 @@ that person so convicted shall be punished with —
 
 [Act 30 of 2012 wef 01/05/2013]
 
-(5) In subsection (4), “convicted of an offence” includes a conviction by a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act (Cap. 295).
+(5) For the purposes of this section —
 
-[38/89]
+(a) a conviction under section 8(b) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at any time on or after 1 October 1992 is deemed to be a previous conviction under section 8(b);
+
+(b) a conviction under section 31(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at any time on or after 1 October 1992 is deemed to be a previous conviction under section 31(2);
+
+(c) a conviction under section 31A(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at any time on or after 1 May 2013 is deemed to be a previous conviction under section 31A(2);
+
+(d) a conviction under section 34 of the Singapore Armed Forces Act on or after the date of commencement of section 16 of the Misuse of Drugs (Amendment) Act 2019 is deemed to be a previous conviction under section 34 of the Singapore Armed Forces Act;
+
+(e) “admission” means an admission under section 34(2) to an approved institution at any time on or after 1 October 1992; and
+
+(f) “convicted of an offence”, in relation to an offence under section 8(b), 31(2) or 31A(2), includes a conviction by a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act.
+
+[Act 1 of 2019 wef 01/04/2019]
 
 ### Punishment for repeat consumption of specified drugs
 
@@ -992,13 +1246,55 @@ is convicted of an offence under section 8(b) for consumption of a specified dru
 
 [20/98]
 
-(2) Where a person who has been punished under subsection (1) is again convicted of an offence for consumption of a specified drug under section 8(b) or an offence of failure to provide a urine specimen under section 31(2), he shall on conviction be punished with —
+(1A) Where a person who has not less than —
 
-(a) imprisonment of not less than 7 years and not more than 13 years; and
+(a) 2 previous admissions;
+
+(b) 2 previous convictions for consumption of a specified drug under section 8(b);
+
+(c) 2 previous convictions for an offence of failure to provide a urine specimen under section 31(2);
+
+(d) one previous admission and one previous conviction for consumption of a specified drug under section 8(b);
+
+(e) one previous admission and one previous conviction for an offence of failure to provide a urine specimen under section 31(2); or
+
+(f) one previous conviction for consumption of a specified drug under section 8(b) and one previous conviction for an offence of failure to provide a urine specimen under section 31(2),
+
+is convicted of an offence under section 31A(2) for failure to provide a hair specimen, being an offence that is committed on or after the date of commencement of section 17 of the Misuse of Drugs (Amendment) Act 2019, he shall on conviction be punished with the same punishment mentioned in subsection (1).
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(1B) Where a person who has not less than —
+
+(a) 2 previous convictions for an offence relating to the consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act;
+
+(b) one previous admission and one previous conviction for an offence relating to the consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act;
+
+(c) one previous conviction for an offence relating to the consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act and one previous conviction for an offence of failure to provide a urine specimen under section 31(2);
+
+(d) 2 previous convictions for an offence of failure to provide a hair specimen under section 31A(2);
+
+(e) one previous admission and one previous conviction for an offence of failure to provide a hair specimen under section 31A(2);
+
+(f) one previous conviction for consumption of a specified drug under section 8(b) and one previous conviction for an offence of failure to provide a hair specimen under section 31A(2);
+
+(g) one previous conviction for consumption of a specified drug under section 8(b) and one previous conviction for an offence relating to the consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act;
+
+(h) one previous conviction for an offence relating to the consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act, and one previous conviction for an offence of failure to provide a hair specimen under section 31A(2); or
+
+(i) one previous conviction for an offence of failure to provide a urine specimen under section 31(2) and one previous conviction for an offence of failure to provide a hair specimen under section 31A(2),
+
+is convicted of an offence of consumption of a specified drug under section 8(b), an offence of failure to provide a urine specimen under section 31(2), or an offence of failure to provide a hair specimen under section 31A(2), being an offence that is committed on or after the date of commencement of section 17 of the Misuse of Drugs (Amendment) Act 2019, he shall on conviction be punished with the same punishment mentioned in subsection (1).
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(2) Where a person who has been convicted under subsection (1), (1A) or (1B) is again convicted of an offence for consumption of a specified drug under section 8(b), an offence of failure to provide a urine specimen under section 31(2), or an offence of failure to provide a hair specimen under section 31A(2), he shall on conviction be punished with —
+
+(a) imprisonment for a term of not less than 7 years and not more than 13 years; and
 
 (b) not less than 6 strokes and not more than 12 strokes of the cane.
 
-[20/98]
+[Act 1 of 2019 wef 01/04/2019]
 
 (3) A certificate purporting to be signed by an officer authorised in writing by the Commissioner of Prisons and purporting to relate to a person’s previous admission to an approved institution under this Act shall be admissible in evidence in any proceedings under this section, on its production by the prosecution without proof of signature; and, until the contrary is proved, that certificate shall be evidence of all matters contained therein.
 
@@ -1022,11 +1318,23 @@ shall be deemed to be a previous conviction for consumption of a specified drug 
 
 (b) a conviction under section 31(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at any time on or after 1st October 1992 shall be deemed to be a previous conviction for an offence of failure to provide a urine specimen under section 31(2);
 
+(ba) a conviction under section 31A(2) by a court including a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act at any time on or after 1 May 2013 is deemed to be a previous conviction for an offence of failure to provide a hair specimen under section 31A(2);
+
+[Act 1 of 2019 wef 01/04/2019]
+
+(bb) a conviction under section 34 of the Singapore Armed Forces Act on or after the date of commencement of section 17 of the Misuse of Drugs (Amendment) Act 2019 for an offence of consumption of a controlled drug that is a specified drug is deemed to be a previous conviction for an offence relating to the consumption of a controlled drug that is a specified drug under section 34 of the Singapore Armed Forces Act;
+
+[Act 1 of 2019 wef 01/04/2019]
+
 (c) “admission” means an admission under section 34(2) to an approved institution at —
 
 (i) any time on or after 1st October 1992 but before the relevant date for the consumption of a controlled drug which, on the date of any subsequent conviction, is specified in the Fourth Schedule; or
 
 (ii) any time on or after the relevant date for the consumption of a specified drug;
+
+(ca) “convicted of an offence”, in relation to an offence under section 8(b), 31(2) or 31A(2), includes a conviction by a subordinate military court or the Military Court of Appeal constituted under the Singapore Armed Forces Act; and
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (d) “relevant date” —
 
@@ -1722,7 +2030,9 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 [Act 30 of 2012 wef 28/04/2014]
 
-(q) providing for the supervision and aftercare of persons referred to in section 34(2)(a), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8(b);
+(q) providing for the supervision and aftercare of persons referred to in section 34(2)(a), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8(b), 31(2) or (2A) or 31A(2) or (2A), or an offence under section 34 of the Singapore Armed Forces Act;
+
+[Act 1 of 2019 wef 01/04/2019]
 
 (qa) prescribing the circumstances under which the Director may extend the period for which a person is subject to supervision under this Act;
 
@@ -3816,17 +4126,7 @@ Minimum for second or subsequent offence 2 years
 
 8 (b)
 
-Smoking, self-administering or consuming a controlled drug or a drug specified in the Fourth Schedule
-
-—
-
-—
-
-—
-
-—
-
-Maximum 10 years or $20,000 or both
+[Deleted by Act 1 of 2019 wef 01/04/2019]
 
 9
 
@@ -3918,19 +4218,7 @@ Minimum 4 years and 4 strokes
 
 13
 
-Abetting or procuring the commission outside Singapore of an offence punishable under a corresponding law
-
-—
-
-—
-
-—
-
-—
-
-Maximum 10 years or $40,000 or both
-
-Minimum 2 years or $4,000 or both
+[Deleted by Act 1 of 2019 wef 01/04/2019]
 
 30(1)(a)
 
@@ -3996,7 +4284,11 @@ Maximum 12 months or $5,000 or both
 
 31(2)
 
-Failure to provide specimen of urine for urine test
+[Deleted by Act 1 of 2019 wef 01/04/2019]
+
+31(2A)
+
+Failure to comply with order of Director for urine test
 
 —
 
@@ -4006,11 +4298,29 @@ Failure to provide specimen of urine for urine test
 
 —
 
-Maximum 10 years or $20,000 or both
+Maximum 4 years or $10,000 or both
 
 31A(2)
 
-Failure to provide specimens of hair for hair testing
+[Deleted by Act 1 of 2019 wef 01/04/2019]
+
+31A(2A)
+
+Failure to comply with order of Director for hair test
+
+—
+
+—
+
+—
+
+—
+
+Maximum 4 years or $10,000 or both
+
+31B(2)
+
+Failure to provide oral fluid
 
 —
 
@@ -4021,6 +4331,8 @@ Failure to provide specimens of hair for hair testing
 —
 
 Maximum 2 years or $5,000 or both
+
+[Act 1 of 2019 wef 01/04/2019]
 
 [Act 30 of 2012 wef 01/05/2013]
 
@@ -4412,6 +4724,10 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 October 2018|
 |60.|**G.N. No. S 150/2019—Misuse of Drugs Act (Amendment of First Schedule) Order 2019**|
 ||Date of commencement|25 March 2019|
+|61.|**Act 1 of 2019—Misuse of Drugs (Amendment) Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 51/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|15 January 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
