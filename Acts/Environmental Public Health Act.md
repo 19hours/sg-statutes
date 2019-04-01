@@ -146,13 +146,15 @@
 
 [**Part IV FOOD ESTABLISHMENTS, MARKETS AND HAWKERS**](#Part-IV)
 
+- [31W Administration of this Part and Part IX](#Administration-of-this-Part-and-Part-IX)
+
 - [32 Food establishments to be licensed](#Food-establishments-to-be-licensed)
 
 - [33 Licensing of hawkers operating from stalls, etc.](#Licensing-of-hawkers-operating-from-stalls-etc)
 
 - [34 Licensing of itinerant hawkers](#Licensing-of-itinerant-hawkers)
 
-- [35 Director-General may issue temporary permits](#Director-General-may-issue-temporary-permits)
+- [35 Director-General, Food Administration may issue temporary permits](#Director-General-Food-Administration-may-issue-temporary-permits)
 
 - [36 Licences for private markets](#Licences-for-private-markets)
 
@@ -169,6 +171,8 @@
 - [41A Penalties for offences under this Part](#Penalties-for-offences-under-this-Part)
 
 - [42 Notice to attend Court](#Notice-to-attend-Court)
+
+- [42A Regulations for this Part](#Regulations-for-this-Part)
 
 [**Part V PUBLIC NUISANCES**](#Part-V)
 
@@ -262,7 +266,7 @@
 
 - [80 Power to enter and investigate](#Power-to-enter-and-investigate)
 
-- [80A (Repealed)](#Repealed)
+- [80A Regulations for this Part](#Regulations-for-this-Part)
 
 [**Part IXA GENERAL CLEANING INDUSTRY**](#Part-IXA)
 
@@ -298,15 +302,17 @@
 
 - [82 Penalty for obstruction](#Penalty-for-obstruction)
 
-- [83 Director-General may act in cases of emergency](#Director-General-may-act-in-cases-of-emergency)
+- [83 Director-General or Director-General, Food Administration may act in cases of emergency](#Director-General-or-Director-General-Food-Administration-may-act-in-cases-of-emergency)
 
 - [84 Appeal to Minister against notice, order or decision](#Appeal-to-Minister-against-notice-order-or-decision)
+
+- [84A Appeal against decisions under Part IV or IX](#Appeal-against-decisions-under-Part-IV-or-IX)
 
 - [85 Default in compliance with notice](#Default-in-compliance-with-notice)
 
 - [86 Authorised officers may demand names and addresses in certain cases](#Authorised-officers-may-demand-names-and-addresses-in-certain-cases)
 
-- [87 Power of investigating offences under sections 20 and 23](#Power-of-investigating-offences-under-sections-20-and-23)
+- [87 Power of investigating offences](#Power-of-investigating-offences)
 
 - [88 Powers of arrest](#Powers-of-arrest)
 
@@ -316,7 +322,7 @@
 
 - [89 Compensation, damages, fees, costs and expenses to be determined by Magistrate’s Court or District Court](#Compensation-damages-fees-costs-and-expenses-to-be-determined-by-Magistrate’s-Court-or-District-Court)
 
-- [90 Damage to property of Agency to be made good in addition to penalty](#Damage-to-property-of-Agency-to-be-made-good-in-addition-to-penalty)
+- [90 Damage to property of Agency and Singapore Food Agency to be made good in addition to penalty](#Damage-to-property-of-Agency-and-Singapore-Food-Agency-to-be-made-good-in-addition-to-penalty)
 
 - [91 Payment of fees, etc.](#Payment-of-fees-etc)
 
@@ -357,6 +363,8 @@
 - [107 Evidence](#Evidence)
 
 - [108 Forms](#Forms)
+
+- [108A Modification of provisions](#Modification-of-provisions)
 
 - [109 Amendment of Schedules](#Amendment-of-Schedules)
 
@@ -488,6 +496,10 @@ and includes any individual who is declared by the Minister, by notification in 
 
 “Director-General” means the Director-General of Public Health appointed under section 3(1);
 
+“Director-General, Food Administration” means the Director‑General, Food Administration appointed under section 3(1) of the Sale of Food Act (Cap. 283);
+
+[Act 11 of 2019 wef 01/04/2019]
+
 “disposal facility” includes a recycling facility, a refuse disposal ground, any place used for the deposit of refuse or waste, an incinerator or any plant, machinery or apparatus used for the processing or treatment of refuse or waste;
 
 “dwelling-house” includes any building or tenement or any part thereof which is used, constructed or adapted for use for human habitation;
@@ -592,6 +604,10 @@ and includes any individual who is declared by the Minister, by notification in 
 
 “showboard” includes showcase and any description of container used for the display of any article or thing;
 
+“Singapore Food Agency” means the Singapore Food Agency established by the Singapore Food Agency Act 2019;
+
+[Act 11 of 2019 wef 01/04/2019]
+
 “specified amount” means the amount that is specified in an order made by the Commissioner for Labour under section 80H(2)(a);
 
 [Act 15 of 2014 wef 01/04/2014]
@@ -642,9 +658,11 @@ ADMINISTRATION
 
 ### Appointment of Director-General and authorised officers
 
-3\.—(1) The Minister may, by notification in theGazette, appoint any person to be the Director-General of Public Health who shall be responsible for the administration of this Act and any other written law, subject to the general or special directions of the Minister.
+3\.—(1) The Minister may, by notification in theGazette, appoint any person to be the Director-General of Public Health who shall be responsible for the administration of this Act except where expressly provided otherwise, subject to the general or special directions of the Minister.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (2) The Director-General may in writing appoint any of the following persons to be an authorised officer for the purposes of this Act:
 
@@ -1740,23 +1758,53 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
+### Administration of this Part and Part IX
+
+31W\.—(1) The Director-General, Food Administration is responsible for the administration of this Part and Part IX, subject to the general or special directions of the Minister charged with the responsibility for food safety.
+
+(2) The Director-General, Food Administration may, subject to the directions of the Minister charged with the responsibility for food safety, appoint any of the following persons to be an authorised officer for the purpose of assisting the Director-General, Food Administration in administering and carrying out the provisions of this Part and Part IX:
+
+(a) an employee of the Singapore Food Agency;
+
+(b) an employee of another statutory authority;
+
+(c) a public officer;
+
+(d) an auxiliary police officer appointed under the Police Force Act (Cap. 235).
+
+(3) The Director-General, Food Administration may delegate the exercise of all or any of the powers conferred or duties imposed upon the Director-General, Food Administration by any provision of this Act (except the power of delegation conferred by this subsection) to an authorised officer appointed under subsection (2); and any reference in any provision of this Act to the Director-General, Food Administration includes a reference to such an authorised officer.
+
+(4) Any delegation under subsection (3) may be general or in a particular case and may be subject to such conditions or limitations as set out in this Act or as the Minister charged with the responsibility for food safety may specify.
+
+(5) The Director-General, Food Administration may, for any reason that appears to him to be sufficient, at any time revoke a person’s appointment under subsection (2) as an authorised officer.
+
+(6) A person mentioned in subsection (2)(d) who is appointed as an authorised officer does not, by virtue only of the appointment, become an employee or agent of the Singapore Food Agency.
+
+[Act 11 of 2019 wef 01/04/2019]
+
 ### Food establishments to be licensed
 
-32\.—(1) No person shall operate or use or knowingly permit a food establishment to be used for any of the purposes specified in the First Schedule without first obtaining a licence from the Director-General.
+32\.—(1) No person shall operate or use or knowingly permit a food establishment to be used for any of the purposes specified in the First Schedule without first obtaining a licence from the Director-General, Food Administration.
 
 [4/2002]
 
-(2) Upon any conviction under subsection (1), the Director-General may, by order in writing addressed to the convicted person, require that the place or premises or any part thereof where the offence took place shall no longer be operated or used as a food establishment as from such date as the Director-General shall specify in the order.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) Upon any conviction under subsection (1), the Director-General, Food Administration may, by order in writing addressed to the convicted person, require that the place or premises or any part thereof where the offence took place shall no longer be operated or used as a food establishment as from such date as the Director-General, Food Administration shall specify in the order.
 
 [4/2002]
 
-(3) Where the convicted person fails to comply with any order under subsection (2), the Director-General —
+[Act 11 of 2019 wef 01/04/2019]
+
+(3) Where the convicted person fails to comply with any order under subsection (2), the Director-General, Food Administration —
 
 (a) may take steps or measures as are necessary to ensure that the order is complied with; and
 
-(b) shall be entitled to recover from that person the costs and expenses incurred by the Director-General in doing so.
+(b) shall be entitled to recover from that person the costs and expenses incurred by the Director-General, Food Administration in doing so.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Licensing of hawkers operating from stalls, etc.
 
@@ -1766,79 +1814,107 @@ FOOD ESTABLISHMENTS, MARKETS AND HAWKERS
 
 (b) set up or use any stall, table, showboard, vehicle or receptacle for the purpose of hawking, selling or exposing for sale any food or goods of any kind,
 
-in any street or part thereof or in any premises or public place without first obtaining a licence from the Director-General.
+in any street or part thereof or in any premises or public place without first obtaining a licence from the Director-General, Food Administration.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Licensing of itinerant hawkers
 
-34\.—(1) No person shall act as an itinerant hawker without first obtaining a licence from the Director-General.
+34\.—(1) No person shall act as an itinerant hawker without first obtaining a licence from the Director-General, Food Administration.
 
 [4/2002]
 
-(2) The Director-General may, subject to such conditions as he may think fit, permit licensed itinerant hawkers to occupy stationary positions for such period as he may think fit on such site or sites as may from time to time be approved by him for this purpose.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) The Director-General, Food Administration may, subject to such conditions as he may think fit, permit licensed itinerant hawkers to occupy stationary positions for such period as he may think fit on such site or sites as may from time to time be approved by him for this purpose.
 
 [4/2002]
 
-(3) The Director-General may prohibit itinerant hawkers from hawking in such place or places as he may think fit.
+[Act 11 of 2019 wef 01/04/2019]
+
+(3) The Director-General, Food Administration may prohibit itinerant hawkers from hawking in such place or places as he may think fit.
 
 [4/2002]
 
-### Director-General may issue temporary permits
+[Act 11 of 2019 wef 01/04/2019]
 
-35\. No person shall promote, organise or stage any temporary fair, stage show or other such function or activity without first obtaining a permit from the Director-General.
+### Director-General, Food Administration may issue temporary permits
+
+35\. No person shall promote, organise or stage any temporary fair or other such function or activity without first obtaining a permit from the Director-General, Food Administration.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Licences for private markets
 
-36\. No person shall use any building, situation or place as a private market without first obtaining a licence from the Director-General.
+36\. No person shall use any building, situation or place as a private market without first obtaining a licence from the Director-General, Food Administration.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Persons with infectious diseases not to carry on business
 
-37\.—(1) The Director-General may require any person to whom a licence has been issued under this Part (referred to in this Act as a licensee) or any assistant or employee of the licensee or any applicant for a licence under this Part to submit to medical examination.
+37\.—(1) The Director-General, Food Administration may require any person to whom a licence has been issued under this Part (referred to in this Act as a licensee) or any assistant or employee of the licensee or any applicant for a licence under this Part to submit to medical examination.
 
 [4/2002]
 
-(2) If such licensee, assistant, employee or applicant is suffering from or is suspected to be suffering from an infectious disease or is suspected to be a carrier thereof, the Director-General may require him to undergo treatment.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) If such licensee, assistant, employee or applicant is suffering from or is suspected to be suffering from an infectious disease or is suspected to be a carrier thereof, the Director-General, Food Administration may require him to undergo treatment.
 
 [4/2002]
 
-(3) The Director-General may require that treatment to be obtained at any hospital as he may think fit.
+[Act 11 of 2019 wef 01/04/2019]
+
+(3) The Director-General, Food Administration may require that treatment to be obtained at any hospital as he may think fit.
 
 [4/2002]
 
-(4) The Director-General may require any licensee or any assistant or employee of the licensee to submit to immunisation against any infectious disease.
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) The Director-General, Food Administration may require any licensee or any assistant or employee of the licensee to submit to immunisation against any infectious disease.
 
 [4/2002]
 
-(5) Every licensee shall ensure that his assistant or any person employed by him is immunised against any infectious disease as required by the Director-General.
+[Act 11 of 2019 wef 01/04/2019]
+
+(5) Every licensee shall ensure that his assistant or any person employed by him is immunised against any infectious disease as required by the Director-General, Food Administration.
 
 [4/2002]
 
-(6) The Director-General may, at any time, revoke or suspend any licence issued under this Part if —
+[Act 11 of 2019 wef 01/04/2019]
+
+(6) The Director-General, Food Administration may, at any time, revoke or suspend any licence issued under this Part if —
 
 (a) the licensee is suffering from an infectious disease;
 
 (b) the licensee knowingly employs any person who is suffering from or is suspected to be suffering from an infectious disease;
 
-(c) the licensee, his assistant or employee refuses to comply with any requisition made by the Director-General under subsection (1), (2) or (3); and
+(c) the licensee, his assistant or employee refuses to comply with any requisition made by the Director-General, Food Administration under subsection (1), (2) or (3); and
 
 (d) the licensee does not comply with subsection (5).
 
 [4/2002]
 
+[Act 11 of 2019 wef 01/04/2019]
+
 ### Unauthorised structures
 
-38\.—(1) No licensee, stall-holder or other person shall erect any extension or effect any extension to any stall, shed or other place in or out of any food establishment without the permission of the Director-General or cause any obstruction in any of the passageways or other places therein.
+38\.—(1) No licensee, stall-holder or other person shall erect any extension or effect any extension to any stall, shed or other place in or out of any food establishment without the permission of the Director-General, Food Administration or cause any obstruction in any of the passageways or other places therein.
 
 [4/2002]
 
-(2) The Director-General may, by notice in writing, require any person who contravenes subsection (1) to remove any erection, structure or obstruction within a period specified in the notice.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) The Director-General, Food Administration may, by notice in writing, require any person who contravenes subsection (1) to remove any erection, structure or obstruction within a period specified in the notice.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Cleanliness of markets and stalls
 
@@ -1846,9 +1922,11 @@ in any street or part thereof or in any premises or public place without first o
 
 (2) Every licensee of a stall shall keep his stall and the immediate vicinity thereof in a clean and sanitary condition.
 
-(3) Where, in the opinion of the Director-General, a licensee of a private market or a stall-holder has failed to comply with subsection (1) or (2), as the case may be, the Director-General may, by notice in writing, require such licensee, within such period as may be specified therein to take such steps as the Director-General may think fit for the purpose of complying with those subsections.
+(3) Where, in the opinion of the Director-General, Food Administration, a licensee of a private market or a stall-holder has failed to comply with subsection (1) or (2), as the case may be, the Director-General, Food Administration may, by notice in writing, require such licensee, within such period as may be specified therein to take such steps as the Director-General, Food Administration may think fit for the purpose of complying with those subsections.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Articles of food unfit for human consumption
 
@@ -1856,7 +1934,7 @@ in any street or part thereof or in any premises or public place without first o
 
 [4/2002]
 
-(2) The Director-General or an authorised officer may at all reasonable times —
+(2) The Director-General, Food Administration or an authorised officer may at all reasonable times —
 
 (a) enter into and inspect any place which is used, or which he has reasonable grounds for believing to be used —
 
@@ -1868,37 +1946,51 @@ in any street or part thereof or in any premises or public place without first o
 
 [4/2002]
 
-(3) If it appears to the Director-General or an authorised officer that any such article of food is unsound or unfit for human consumption, the article may be seized by the Director-General or authorised officer.
+[Act 11 of 2019 wef 01/04/2019]
+
+(3) If it appears to the Director-General, Food Administration or an authorised officer that any such article of food is unsound or unfit for human consumption, the article may be seized by the Director-General, Food Administration or authorised officer.
 
 [4/2002]
 
-(4) Any article of food seized may be kept or stored in the place or premises where it was seized or may at the direction of the Director-General or an authorised officer be removed to any other place or, where the article is likely to decay or is deleterious to health, be destroyed.
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) Any article of food seized may be kept or stored in the place or premises where it was seized or may at the direction of the Director-General, Food Administration or an authorised officer be removed to any other place or, where the article is likely to decay or is deleterious to health, be destroyed.
 
 [4/2002]
 
-(5) A certificate signed by the Director-General shall be accepted by a Magistrate’s Court as sufficient evidence that any article of food seized was unsound or unfit for human consumption at the time of seizure.
+[Act 11 of 2019 wef 01/04/2019]
+
+(5) A certificate signed by the Director-General, Food Administration shall be accepted by a Magistrate’s Court as sufficient evidence that any article of food seized was unsound or unfit for human consumption at the time of seizure.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (6) A person claiming any article of food seized under this section may within 48 hours after the seizure complain thereof to a Magistrate’s Court.
 
 (7) Such complaint may be heard and determined by the Magistrate’s Court, which may either confirm or disallow the seizure wholly or in part, or may order any article of food seized to be returned to the owner and may order payment to be made to the owner of the article of such amount as the Court considers will compensate him for any loss or depreciation resulting from the seizure.
 
-(8) If within 48 hours after such seizure no complaint has been made, or if such seizure is confirmed, every article of food seized shall become the property of the Agency and shall be destroyed or otherwise disposed of so as to prevent the article from being used for human consumption.
+(8) If within 48 hours after such seizure no complaint has been made, or if such seizure is confirmed, every article of food seized shall become the property of the Singapore Food Agency and shall be destroyed or otherwise disposed of so as to prevent the article from being used for human consumption.
 
 [4/2002]
 
-(9) No person shall obstruct the Director-General or an authorised officer in the exercise of his powers under this section or tamper with any article of food kept or stored in any place or premises under subsection (4).
+[Act 11 of 2019 wef 01/04/2019]
+
+(9) No person shall obstruct the Director-General, Food Administration or an authorised officer in the exercise of his powers under this section or tamper with any article of food kept or stored in any place or premises under subsection (4).
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Cleanliness of vehicles, equipment, etc.
 
 41\.—(1) Any person who uses a vehicle for the transportation of food shall ensure that the surface of the vehicle with which the food is likely to come into contact is kept in a state of cleanliness, good order and condition so as to prevent any risk of contamination of the food.
 
-(2) The Director-General may, by notice in writing, require any person who uses a vehicle to transport food to use or install in or on the vehicle any device or equipment as he thinks fit to ensure that the food carried in or on the vehicle will not be contaminated.
+(2) The Director-General, Food Administration may, by notice in writing, require any person who uses a vehicle to transport food to use or install in or on the vehicle any device or equipment as he thinks fit to ensure that the food carried in or on the vehicle will not be contaminated.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Penalties for offences under this Part
 
@@ -1954,9 +2046,11 @@ in any street or part thereof or in any premises or public place without first o
 
 (b) at the conclusion of the proceedings call upon him to show cause why he should not be punished for failing to attend in compliance with the notice served upon him and if cause is not shown may order him to pay such penalty not exceeding $2,000 as the Court may think fit or may commit him to prison for a term not exceeding 2 months.
 
-(8) Any stall, together with any appliances and utensils relating thereto and the food or goods intended or exposed for sale, whether or not they appear to be abandoned, belonging or appearing to belong to or in the possession of a person appearing to be committing or to have committed an offence under this Part may be seized by any police officer or authorised officer and removed to and detained in any police station or such other place as may be approved by the Director-General at the risk of the owner, to abide the directions of a Magistrate’s Court.
+(8) Any stall, together with any appliances and utensils relating thereto and the food or goods intended or exposed for sale, whether or not they appear to be abandoned, belonging or appearing to belong to or in the possession of a person appearing to be committing or to have committed an offence under this Part may be seized by any police officer or authorised officer and removed to and detained in any police station or such other place as may be approved by the Director-General, Food Administration at the risk of the owner, to abide the directions of a Magistrate’s Court.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (9) If any money is found, together with any food, articles, appliances or utensils seized under subsection (8), the money shall be deemed to be lawfully seized.
 
@@ -1974,21 +2068,55 @@ in any street or part thereof or in any premises or public place without first o
 
 (15) The Magistrate’s Court may, on receiving a report in respect of any abandoned articles which were not apparently being used in connection with the sale of food or goods, order the property seized under subsection (8) to be forfeited and to be disposed of in such manner as the Court may think fit.
 
-(16) If the Magistrate’s Court directs the sale of any article, the proceeds or such part thereof as the Court may think fit shall be paid to the Agency and the balance, if any, paid to the owner.
+(16) If the Magistrate’s Court directs the sale of any article, the proceeds or such part thereof as the Court may think fit shall be paid to the Singapore Food Agency and the balance, if any, paid to the owner.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (17) The Magistrate’s Court may, on convicting any person for an offence under section 41A(1), order any money seized under subsection (9) to be returned to him if he satisfies the Court that he is the owner thereof.
 
 [Act 15 of 2014 wef 01/04/2014]
 
-(18) The Magistrate’s Court shall, on convicting any person for an offence under section 41A(1) and such person does not satisfy the Court that he is the owner of any money seized under subsection (9) or, on receiving a report in respect of any abandoned money, order such money to be forfeited and paid to the Agency.
+(18) The Magistrate’s Court shall, on convicting any person for an offence under section 41A(1) and such person does not satisfy the Court that he is the owner of any money seized under subsection (9) or, on receiving a report in respect of any abandoned money, order such money to be forfeited and paid to the Singapore Food Agency.
 
 [4/2002]
 
 [Act 15 of 2014 wef 01/04/2014]
 
+[Act 11 of 2019 wef 01/04/2019]
+
 (19) This section shall apply, with the necessary modifications, to any person who contravenes any regulations made under this Act for the control of matters under this Part.
+
+### Regulations for this Part
+
+42A\.—(1) The Minister charged with the responsibility for food safety may make regulations for or in respect of every purpose which the Minister considers necessary or expedient for carrying out the provisions of this Part, and in particular —
+
+(a) the control, regulation and supervision of markets (and anything in a market and places in the vicinity of a market) and of persons engaged or employed in a market;
+
+(b) the seizure and disposal of unwholesome meat, fish, fruit, vegetables or other food or drink exposed or intended for sale;
+
+(c) the use and management of stalls, tables or showboards set up for the sale of any goods in public streets or places of public resort;
+
+(d) specifying of streets, places and areas (or parts thereof) at which hawkers are prohibited;
+
+(e) prescribing the articles, or types or classes of articles, that may be sold from or exposed for sale in or on any stall, vehicle or other receptacle in any public street or place or by any itinerant hawker, and premises where any such article is prepared or stored and the manner in which any such article is prepared or transported;
+
+(f) the form and manner in which, and the time within which, an application for a licence or permit or an application to renew a licence or permit may be made, and the information and evidence required to be provided in connection with such an application; and
+
+(g) the fees to be paid to the Singapore Food Agency in respect of applications for and the grant and renewal or late renewal of any licence or permit, and otherwise in connection with the administration of this Part, and the waiver, reduction or refund of fees charged.
+
+(2) In addition, the regulations made under subsection (1) may —
+
+(a) prescribe the offences under this Part which may be compounded, designate the officers of the Singapore Food Agency who may compound such offences and the maximum sum for which any such offence may be compoundable, which must not exceed one half of the amount of the maximum fine that is prescribed for the offence or $5,000, whichever is lower;
+
+(b) provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $20,000 and, in the case of a continuing offence, with a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction; and
+
+(c) provide for such transitional, saving and other consequential, incidental and supplemental provisions as are necessary or expedient.
+
+(3) All regulations made under this section must be published in theGazetteand be presented to Parliament as soon as possible after publication.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ## PART V
 
@@ -2482,6 +2610,10 @@ PROVISION OF WATER SUITABLE FOR DRINKING
 
 78\. In this Part —
 
+“authorised officer” means an individual appointed under section 31W(2) by the Director-General, Food Administration to be an authorised officer;
+
+[Act 11 of 2019 wef 01/04/2019]
+
 “general appearance”, in relation to water suitable for drinking, includes the colour and clarity of the water;
 
 “provide”, in relation to water suitable for drinking, means to convey, distribute, produce, supply, offer to provide or otherwise make available, in the course of business and whether or not carried on for profit, the water —
@@ -2500,7 +2632,9 @@ but does not include —
 
 (iv) any provision of water suitable for drinking solely to the Public Utilities Board; and
 
-(v) any other provision of water prescribed by the Minister by order in theGazette, as not being the provision of water suitable for drinking;
+(v) any other provision of water prescribed by the Minister charged with the responsibility for food safety by order in theGazette, as not being the provision of water suitable for drinking;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 “Public Utilities Board” means the Public Utilities Board continued under section 3 of the Public Utilities Act (Cap. 261);
 
@@ -2536,7 +2670,9 @@ but does not include any water intended for consumption solely by animals.
 
 by any organisation or other person whose purposes relate to public health; and
 
-(b) provide for the Director‑General to specify any other methodology or assessment.
+(b) provide for the Director‑General, Food Administration to specify any other methodology or assessment.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (4) A water provider who provides, or intends to provide, water suitable for drinking must comply with the prescribed duties of a water provider, which may include the duty to —
 
@@ -2548,13 +2684,19 @@ by any organisation or other person whose purposes relate to public health; and
 
 (d) comply with the requirements relating to the sampling and testing of the water;
 
-(e) provide, to the Director‑General, such information as the Director‑General may require relating to the water provided or to be provided;
+(e) provide, to the Director‑General, Food Administration, such information as the Director‑General, Food Administration may require relating to the water provided or to be provided;
 
-(f) carry out such remedial measures as the Director‑General may require; and
+[Act 11 of 2019 wef 01/04/2019]
+
+(f) carry out such remedial measures as the Director‑General, Food Administration may require; and
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (g) comply with any other requirement, as may be prescribed, for the purposes of keeping the water unpolluted and wholesome.
 
-(5) Where the Director‑General is of the opinion that any water provider has contravened any requirement under subsection (1) or (4), the Director‑General may by notice in writing require the water provider to stop the provision of such water, and the water provider must comply with such notice.
+(5) Where the Director‑General, Food Administration is of the opinion that any water provider has contravened any requirement under subsection (1) or (4), the Director‑General, Food Administration may by notice in writing require the water provider to stop the provision of such water, and the water provider must comply with such notice.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (6) Any person who contravenes subsection (1), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.
 
@@ -2582,7 +2724,23 @@ by any organisation or other person whose purposes relate to public health; and
 
 [Act 11 of 2018 wef 25/03/2019]
 
-80A\. [Repealed by Act 11 of 2018 wef 25/03/2019]
+### Regulations for this Part
+
+80A\.—(1) The Minister charged with the responsibility for food safety may make regulations for or in respect of every purpose which the Minister considers necessary or expedient for carrying out the provisions of this Part.
+
+(2) In particular, the regulations made under subsection (1) may —
+
+(a) prescribe the offences under this Part which may be compounded, designate the officers of the Singapore Food Agency who may compound such offences and the maximum sum for which any such offence may be compoundable, which must not exceed one half of the amount of the maximum fine that is prescribed for the offence or $5,000, whichever is lower;
+
+(b) provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $20,000 and, in the case of a continuing offence, with a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction;
+
+(c) prescribe the fees to be paid to the Singapore Food Agency in connection with the administration of this Part, and the waiver, reduction or refund of fees charged; and
+
+(d) provide for such transitional, saving and other consequential, incidental and supplemental provisions as are necessary or expedient.
+
+(3) All regulations made under this section must be published in theGazetteand be presented to Parliament as soon as possible after publication.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ## PART IXA
 
@@ -2960,27 +3118,37 @@ ENFORCEMENT
 
 ### Penalty for obstruction
 
-82\. No person shall at any time —
+82\.—(1) No person shall at any time —
 
 (a) hinder, obstruct or delay the Director-General, any authorised officer or other person in the performance and execution of his duty or of anything which he is respectively empowered, employed or required to do by virtue or in consequence of or under this Act; or
 
-[Act 48 of 2018 wef 01/02/2019]
-
 (b) remove any mark, line, sign or other direction drawn or set up for the purpose of this Act.
 
-[83
+[Act 11 of 2019 wef 01/04/2019]
 
-[4/2002]
+(2) However, it is not an offence under subsection (1) for any person to refuse to comply with any request, demand or order made or given by any authorised officer (including an authorised officer within the meaning of section 31W) who fails to declare his office and refuses to produce his identification card on demand being made by that person.
 
-### Director-General may act in cases of emergency
+[Act 11 of 2019 wef 01/04/2019]
 
-83\.—(1) In cases of emergency, the Director-General may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in the opinion of the Director-General necessary for public health or for the safety of the public.
+(3) In subsection (2), “identification card”, for an authorised officer (including an authorised officer within the meaning of section 31W), means such identification card as the Director-General or the Director-General, Food Administration may require the authorised officer to carry at all times when exercising powers under this Act.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+### Director-General or Director-General, Food Administration may act in cases of emergency
+
+83\.—(1) In cases of emergency, the Director-General or Director-General, Food Administration may direct the immediate execution of any work or the doing of any act being any work or act authorised under this Act which is in the opinion of the Director-General or Director-General, Food Administration (as the case may be) necessary for public health or for the safety of the public.
 
 [Act 15 of 2014 wef 01/04/2014]
 
-(2) The Director-General may recover, from the owner or occupier of the premises in which any work or act referred to in subsection (1) is executed, the costs and expenses reasonably incurred in the execution of such work or act.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) The Director-General or Director-General, Food Administration may recover, from the owner or occupier of the premises in which any work or act referred to in subsection (1) is executed, the costs and expenses reasonably incurred in the execution of such work or act.
 
 [Act 15 of 2014 wef 01/04/2014]
+
+[Act 11 of 2019 wef 01/04/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Appeal to Minister against notice, order or decision
 
@@ -2993,6 +3161,26 @@ ENFORCEMENT
 [87
 
 [4/2002]
+
+### Appeal against decisions under Part IV or IX
+
+84A\.—(1) Any person who is aggrieved by any notice, order or decision of the Director-General, Food Administration made under Part IV or IX may, within 7 days after the person receives the notice, order or decision, appeal in writing to the Minister charged with the responsibility for food safety.
+
+(2) After considering an appeal made under this section, the Minister charged with the responsibility for food safety may —
+
+(a) reject the appeal and confirm the notice, order or decision (as the case may be) of the Director-General, Food Administration;
+
+(b) allow the appeal and rescind the notice, order or decision (as the case may be) of the Director-General, Food Administration; or
+
+(c) substitute or vary the notice, order or decision appealed against and make any notice, order or decision which the Director-General, Food Administration is competent to make under Part IV or IX, as the case may be.
+
+(3) The Minister’s decision on an appeal is final.
+
+(4) Every appellant must be notified of the Minister’s decision under subsection (2).
+
+(5) Where an appeal is lodged by a person under this section against any notice, order or decision of the Director-General, Food Administration made under Part IV or IX, the execution of the notice, order or decision appealed against must be stayed until the outcome of the appeal.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Default in compliance with notice
 
@@ -3028,15 +3216,17 @@ ENFORCEMENT
 
 [Act 48 of 2018 wef 01/02/2019]
 
-### Power of investigating offences under sections 20 and 23
+### Power of investigating offences
 
-87\.—(1) For the purpose of investigating any offence under section 20 or 23, the Director-General or any authorised officer may —
+87\.—(1) For the purpose of investigating any offence under this Act, the Director-General or the Director-General, Food Administration (as the case may be) or any authorised officer (including an authorised officer within the meaning of section 31W) may —
 
 (a) examine orally any person supposed to be acquainted with the facts and circumstances of the case, and to reduce to writing any statement made by the person so examined; and
 
 (b) require by order in writing the attendance before himself of any person who, from information given or otherwise, appears to be acquainted with the facts and circumstances concerning the case and that person shall attend as so required.
 
 [22/99; 4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (2) The person mentioned in subsection (1)(a) shall be bound to state truly the facts and circumstances with which he is acquainted concerning the case except only that he may decline to make with regard to any fact or circumstance a statement which would have a tendency to expose him to a criminal charge or to penalty or forfeiture.
 
@@ -3046,11 +3236,21 @@ ENFORCEMENT
 
 [22/99]
 
-(4) If any person fails to attend as required by an order under subsection (1)(b), the Director-General or any authorised officer may report such failure to a Magistrate who may thereupon issue a warrant to secure the attendance of that person as required by the order.
+(4) If any person fails to attend as required by an order under subsection (1)(b), the Director-General, the Director-General, Food Administration or the authorised officer (including an authorised officer within the meaning of section 31W) may report such failure to a Magistrate who may then issue a warrant to secure the attendance of that person as required by the order.
 
-[97
+[Act 11 of 2019 wef 01/04/2019]
 
-[22/99; 4/2002]
+(5) The Director-General, the Director-General, Food Administration (as the case may be) or any authorised officer (including an authorised officer within the meaning of section 31W) may photograph (which includes making a digital image or a moving visual record) or otherwise record —
+
+(a) any place or vehicle where an offence under this Act was committed, is reasonably suspected to have been committed, or is about to be committed;
+
+(b) any place or vehicle associated with, or relevant to, the commission or suspected commission of the offence under this Act; or
+
+(c) any thing or individual in a place or vehicle mentioned in paragraph (a) or (b).
+
+[Act 11 of 2019 wef 01/04/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Powers of arrest
 
@@ -3074,7 +3274,9 @@ ENFORCEMENT
 
 88A\. A person shall be guilty of an offence if —
 
-(a) the person provides information to a police officer or any authorised officer in connection with any function or duty of the police officer or authorised officer under this Act;
+(a) the person provides information to a police officer, the Director-General, the Director-General, Food Administration or any authorised officer (including an authorised officer within the meaning of section 31W) in connection with any of his functions or duties under this Act;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (b) the information is false or misleading in a material particular; and
 
@@ -3094,11 +3296,13 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 (3) An appeal shall lie to the High Court from any decision of a Magistrate’s Court or District Court under this section, and the provisions of the Criminal Procedure Code (Cap. 68) shall apply, with the necessary modifications, to all such appeals.
 
-### Damage to property of Agency to be made good in addition to penalty
+### Damage to property of Agency and Singapore Food Agency to be made good in addition to penalty
 
-90\.—(1) If through any act, neglect or default on account whereof any person has incurred any penalty under this Act any damage to Agency property is committed by that person, he shall be liable to make good the damage as well as to pay the penalty.
+90\.—(1) If through any act, neglect or default on account whereof any person has incurred any penalty under this Act any damage to Agency property or property of the Singapore Food Agency (as the case may be) is committed by that person, he shall be liable to make good the damage as well as to pay the penalty.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (2) The amount of such damage shall, in case of dispute, be determined by the court by which the person incurring the penalty was convicted.
 
@@ -3106,11 +3310,15 @@ COMPENSATION, DAMAGES, FEES, COSTS AND EXPENSES
 
 [85
 
+[Act 11 of 2019 wef 01/04/2019]
+
 ### Payment of fees, etc.
 
-91\.—(1) Subject to subsection (2) and section 31N, all fees, charges and moneys collected under this Act are payable to the Agency.
+91\.—(1) Subject to subsection (2), section 31N and regulations made under section 42A or 80A, all fees, charges and moneys collected under this Act are payable to the Agency.
 
 [Act 48 of 2018 wef 01/02/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (2) Any fee, charge or money collected under this Act may be paid to a person other than the Agency where the Agency has, with the approval of the Minister, made regulations under section 111 providing for that fee, charge or money to be payable to that person instead.
 
@@ -3294,6 +3502,18 @@ MISCELLANEOUS PROVISIONS
 
 [4/2002]
 
+(12A) Subject to subsection (12B), it is lawful for the Director-General to modify the conditions of a licence without compensating the licensee concerned.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(12B) Before modifying any conditions of a licence, the Director-General must give notice to the licensee holding that licence —
+
+(a) stating that the Director-General proposes to make the modification in the manner as specified in the notice; and
+
+(b) specifying the time (being not less than a prescribed period after the date of service of notice on the licensee) within which the licensee may make written representations to the Director-General with respect to the proposed modification.
+
+[Act 11 of 2019 wef 01/04/2019]
+
 (13) Where a licensee —
 
 (a) is in breach of any restriction or condition subject to which the licence was granted; or
@@ -3304,13 +3524,19 @@ the Director-General may —
 
 (i) suspend or cancel the licence; and
 
-(ii) in the case of paragraph (a), in lieu of or in addition to sub-paragraph (i), impose a financial penalty of such amount, not exceeding $5,000, as the Director-General thinks fit.
+(ii) in the case of paragraph (a), in lieu of or in addition to sub-paragraph (i), impose a financial penalty of such amount, not exceeding $5,000, unless the breach in paragraph (a) is an offence under this Act.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (14) Subject to the provisions of this Act, any person who is aggrieved by —
 
 (a) the refusal by the Director-General to grant or renew any licence;
+
+(aa) the decision of the Director-General to modify the conditions of a licence under subsection (12A);
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (b) the suspension or cancellation by the Director-General of any licence;
 
@@ -3326,13 +3552,29 @@ may, within 14 days of such refusal, suspension, cancellation, imposition of fin
 
 [Act 16 of 2016 wef 10/06/2016]
 
-(15) In this section, “licence” includes any approval, permit, permission, authority, authorisation or licence which may be granted or renewed by the Director-General under this Act, but does not include a cleaning business licence granted or renewed under Part IXA.
+(14B) The provisions of this section affecting any licence or permit apply (so far as relevant) to any licence or permit granted or renewed under Parts IV and IX by the Director-General, Food Administration —
+
+(a) as if the licence or permit were granted or renewed under any other Parts of this Act pursuant to an application to the Director-General;
+
+(b) as if the reference to the Director-General in this section were a reference to the Director-General, Food Administration;
+
+(c) as if the reference to the Agency in this section were a reference to the Singapore Food Agency;
+
+(d) as if the reference to the Minister in this section were a reference to the Minister charged with the responsibility for food safety; and
+
+(e) with such other exceptions, modifications and adaptations as the differences between Parts IV and IX and other Parts require.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(15) In this section, “licence” includes any approval, permit, permission, authority, authorisation or licence which may be granted or renewed under this Act, but does not include a cleaning business licence granted or renewed under Part IXA.
 
 [94
 
 [4/2002]
 
 [Act 15 of 2014 wef 01/04/2014]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Receipts, notices, etc., may be given by authorised officer
 
@@ -3462,6 +3704,20 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 [4/2002]
 
+### Modification of provisions
+
+108A\. Sections 82, 85(3) and (4), 93(1), 94(1) and (2), 96, 97, 100, 101, 107 and 108 apply (so far as relevant) to anything done or required to be done under Parts IV and IX by the Director-General, Food Administration —
+
+(a) as if the reference in those provisions to the Director-General includes a reference to the Director-General, Food Administration;
+
+(b) as if the reference in those provisions to the Agency were a reference to the Singapore Food Agency;
+
+(c) as if the reference in those provisions to an authorised officer includes a reference to an authorised officer within the meaning of section 31W; and
+
+(d) with such other exceptions, modifications and adaptations as the differences between Parts IV and IX and other Parts require.
+
+[Act 11 of 2019 wef 01/04/2019]
+
 ### Amendment of Schedules
 
 109\. The Minister may, from time to time, by notification in theGazette, add to, alter or amend any of the Schedules.
@@ -3470,11 +3726,13 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 ### Exemption
 
-110\. The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act.
+110\.—(1) The Agency may, subject to the general or special directions of the Minister, either permanently or for such period as the Agency thinks fit, exempt any person or premises or any class of persons or premises from any of the provisions of this Act, except Parts IV and IX.
 
-[112
+[Act 11 of 2019 wef 01/04/2019]
 
-[4/2002]
+(2) The Singapore Food Agency may, subject to the general or special directions of the Minister charged with the responsibility for food safety, either permanently or for such period as the Singapore Food Agency thinks fit, exempt any person or premises or any class of persons or premises from any of the provisions of Part IV or IX.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Regulations
 
@@ -3492,9 +3750,11 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 [Act 15 of 2014 wef 01/04/2014]
 
-(4) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
+(4) All regulations made under this Act (except sections 42A and 80A) shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
 [113
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Transitional provision
 
@@ -3576,13 +3836,13 @@ Subject matters of regulations
 
 [Act 48 of 2018 wef 01/02/2019]
 
-2\. The seizure and disposal of unwholesome meat, fish, fruit, vegetables or other food or drink exposed or intended for sale.
+2. [Deleted by Act 11 of 2019 wef 01/04/2019]
 
 3. The control, regulation and supervision of —
 
-(a) markets and of anything therein and of places in the vicinity thereof;
+(a) [Deleted by Act 11 of 2019 wef 01/04/2019]
 
-(b) persons engaged or employed in markets; and
+(b) [Deleted by Act 11 of 2019 wef 01/04/2019]
 
 (c) places used for the reception of sick or dying persons.
 
@@ -3590,11 +3850,11 @@ Subject matters of regulations
 
 5\. The keeping down or destruction of rats, mice, insects and other vermin, and the proofing of premises against the same.
 
-6\. The use and management of stalls, tables or showboards set up for the sale of any goods in public streets or places of public resort.
+6. [Deleted by Act 11 of 2019 wef 01/04/2019]
 
-7\. The specifying of streets, places and areas or portions thereof in which persons shall not act as hawkers.
+7. [Deleted by Act 11 of 2019 wef 01/04/2019]
 
-8\. Articles or types or classes of articles which may be sold from or exposed for sale in or on any stall, vehicle or other receptacle in any public street or place or by any itinerant hawker and premises where any such article is prepared or stored and the manner in which any such article is prepared or transported.
+8. [Deleted by Act 11 of 2019 wef 01/04/2019]
 
 9\. The inspection, regulation, supervision, control, management, maintenance, operation and use of cemeteries and crematoria, the dimensions of graves and places of interment, the prescribing of conditions under which human remains may be disposed of, registers to be kept and generally all matters connected with the good order of cemeteries and crematoria, due regard being had to the religious usages of the several classes of the community.
 
@@ -3919,6 +4179,10 @@ This Legislative History is provided for the convenience of users of the Environ
 |||(Bill No. 4/2018)|
 ||Date of Second and Third Readings|6 February 2018|
 ||Date of commencement|25 March 2019|
+|26.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Environmental Public Health Act
