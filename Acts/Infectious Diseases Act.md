@@ -102,7 +102,7 @@
 
 - [38 Person supplying food and water](#Person-supplying-food-and-water)
 
-- [39 Powers of Director-General or Port Health Officer regarding food and water](#Powers-of-Director-General-or-Port-Health-Officer-regarding-food-and-water)
+- [39 Powers of Director-General, Food Administration or Port Health Officer regarding food and water](#Powers-of-Director-General-Food-Administration-or-Port-Health-Officer-regarding-food-and-water)
 
 - [40 Importation of vectors of diseases](#Importation-of-vectors-of-diseases)
 
@@ -254,7 +254,9 @@ PRELIMINARY
 
 (a) in the following cases, the Minister charged with the responsibility for health and sanitary measures in relation to vessels, aircraft, vehicles and persons entering or leaving Singapore:
 
-(i) the establishment of any advisory committee for the purpose of giving advice to the Director‑General under section 5;
+(i) the establishment of any advisory committee for the purpose of giving advice to the Director‑General or the Director-General, Food Administration under section 5;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (ii) any purpose relating to sections 28, 29 and 33 to 45, including the making of subsidiary legislation in relation to any of those sections; or
 
@@ -286,9 +288,15 @@ PRELIMINARY
 
 “Director-General” means the Director-General of the Public Health appointed under section 3(1) of the Environmental Public Health Act (Cap. 95);
 
-“Health Officer” means a Health Officer appointed by the Director-General or the Director under section 4;
+“Director-General, Food Administration” means the Director‑General, Food Administration appointed under section 3(1) of the Sale of Food Act (Cap. 283);
+
+[Act 11 of 2019 wef 01/04/2019]
+
+“Health Officer” means a Health Officer appointed by the Director-General, the Director‑General, Food Administration or the Director under section 4;
 
 [10/2008 wef 10/06/2008]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 “HIV Infection” means Human Immunodeficiency Virus Infection;
 
@@ -388,19 +396,25 @@ ADMINISTRATION
 
 [Act 5 of 2019 wef 25/03/2019]
 
-(2) Except as otherwise provided by this Act, the Director-General shall, subject to any general or special directions of the appropriate Minister, be responsible for the administration of Part V, except sections 26, 27, 31, 32, 45A and 45B.
+(2) Except as otherwise provided by this Act, the Director-General and the Director‑General, Food Administration shall, subject to any general or special directions of the appropriate Minister, be responsible for the administration of Part V, except sections 26, 27, 31, 32, 45A and 45B.
 
 [5/2003]
 
 [Act 5 of 2019 wef 25/03/2019]
 
-(3) The appropriate Minister may, by notification in theGazette, direct that the powers conferred on the Director under Part III be exercised by the Director-General in relation to such matters as may be specified in the notifications.
+[Act 11 of 2019 wef 01/04/2019]
+
+(3) The appropriate Minister may, by notification in theGazette, direct that the powers conferred on the Director under Part III be exercised by the Director-General or the Director-General, Food Administration in relation to such matters as may be specified in the notifications.
 
 [4/2002]
 
-(4) For the purposes of exercising the powers under Part III in relation to matters referred to in subsection (3) any reference to the Director in that Part shall be construed as a reference to the Director-General.
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) For the purposes of exercising the powers under Part III in relation to matters referred to in subsection (3) any reference to the Director in that Part shall be construed as a reference to the Director-General or the Director‑General, Food Administration, as the case may be.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (5) To avoid doubt, Part V does not prevent the exercise of any power conferred by another Part in relation to any vessel, person or article to which Part V applies.
 
@@ -408,7 +422,7 @@ ADMINISTRATION
 
 ### Health Officers
 
-4\.—(1) The Director-General or the Director may, subject to such conditions or restrictions as he thinks fit, appoint any —
+4\.—(1) The Director-General, the Director-General, Food Administration or the Director may, subject to such conditions or restrictions as he thinks fit, appoint any —
 
 (a) public officer;
 
@@ -418,17 +432,23 @@ ADMINISTRATION
 
 to be a Health Officer for the purposes of this Act or any particular provision of this Act.
 
-(2) The Director-General or the Director may, subject to such conditions or restrictions as he thinks fit, delegate to any Health Officer all or any of the powers conferred on him by this Act.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) The Director-General, the Director-General, Food Administration or the Director may, subject to such conditions or restrictions as he thinks fit, delegate to any Health Officer all or any of the powers conferred on him by this Act.
 
 [10/2008 wef 10/06/2008]
 
+[Act 11 of 2019 wef 01/04/2019]
+
 ### Advisory committees
 
-5\. The appropriate Minister may establish one or more advisory committees consisting of such members as he may appoint for the purpose of giving advice to the Director-General or the Director, as the case may be, with regard to such matters arising out of the administration of this Act as are referred to them by the appropriate Minister.
+5\. The appropriate Minister may establish one or more advisory committees consisting of such members as he may appoint for the purpose of giving advice to the Director-General, the Director-General, Food Administration or the Director, as the case may be, with regard to such matters arising out of the administration of this Act as are referred to them by the appropriate Minister.
 
 [4/2002; 5/2003]
 
 [Act 5 of 2019 wef 25/03/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ## PART III
 
@@ -1300,7 +1320,7 @@ PREVENTION OF INTERNATIONAL SPREAD OF INFECTIOUS DISEASES
 
 ### Measures required of a vessel or vehicle on arrival
 
-29\.—(1) The Director-General or a Port Health Officer may —
+29\.—(1) The Director-General, the Director-General, Food Administration or a Port Health Officer may —
 
 (a) inspect any vessel or vehicle or any person or goods on board the vessel or in the vehicle when in Singapore;
 
@@ -1316,9 +1336,13 @@ PREVENTION OF INTERNATIONAL SPREAD OF INFECTIOUS DISEASES
 
 [4/2002; 5/2003]
 
-(2) Any person who fails to comply with any direction or requirement of the Director-General or the Port Health Officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) Any person who fails to comply with any direction or requirement of the Director-General, the Director-General, Food Administration or the Port Health Officer under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 30\. [Repealed by Act 5 of 2019 wef 25/03/2019]
 
@@ -1426,13 +1450,15 @@ PREVENTION OF INTERNATIONAL SPREAD OF INFECTIOUS DISEASES
 
 [39
 
-### Powers of Director-General or Port Health Officer regarding food and water
+### Powers of Director-General, Food Administration or Port Health Officer regarding food and water
 
-39\.—(1) The Director-General or a Port Health Officer may —
+39\.—(1) The Director-General, Food Administration or a Port Health Officer may —
 
 (a) take samples of any food and water intended for human consumption or for sale to a vessel;
 
-(b) order the owner or any person in charge of a vessel supplying food to carry out an analysis of the food and to supply the results of that analysis to the Director-General or the Port Health Officer;
+(b) order the owner or any person in charge of a vessel supplying food to carry out an analysis of the food and to supply the results of that analysis to the Director-General, Food Administration or the Port Health Officer;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (c) if he has reason to believe that any food intended for human consumption is liable to be contaminated or is unfit for human consumption, order the food to be destroyed; and
 
@@ -1440,11 +1466,17 @@ PREVENTION OF INTERNATIONAL SPREAD OF INFECTIOUS DISEASES
 
 [4/2002]
 
-(2) Any person who fails to comply with an order of the Director-General or a Port Health Officer under subsection (1) within the time specified therein shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) Any person who fails to comply with an order of the Director-General, Food Administration or a Port Health Officer under subsection (1) within the time specified therein shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [40
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Importation of vectors of diseases
 
@@ -1460,11 +1492,13 @@ PREVENTION OF INTERNATIONAL SPREAD OF INFECTIOUS DISEASES
 
 ### Power to inspect merchandise, etc., on board vessel
 
-42\.—(1) The Director-General or a Port Health Officer may inspect and examine any articles, merchandise, baggage or cargo, on board any vessel, which are in his opinion contaminated or likely to be contaminated.
+42\.—(1) The Director-General, the Director-General, Food Administration or a Port Health Officer may inspect and examine any articles, merchandise, baggage or cargo, on board any vessel, which are in his opinion contaminated or likely to be contaminated.
 
 [4/2002; 5/2003]
 
-(2) The Director-General or the Port Health Officer may order any contaminated articles, merchandise, baggage or cargo found on board the vessel to be —
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) The Director-General, the Director-General, Food Administration or the Port Health Officer may order any contaminated articles, merchandise, baggage or cargo found on board the vessel to be —
 
 (a) seized and treated or disposed of in such manner as he thinks fit; and
 
@@ -1472,13 +1506,19 @@ PREVENTION OF INTERNATIONAL SPREAD OF INFECTIOUS DISEASES
 
 [4/2002; 5/2003]
 
-(3) Any person who fails to comply with an order of the Director-General or the Port Health Officer under subsection (2) or hinders or obstructs the execution of that order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
+[Act 11 of 2019 wef 01/04/2019]
+
+(3) Any person who fails to comply with an order of the Director-General, the Director-General, Food Administration or the Port Health Officer under subsection (2) or hinders or obstructs the execution of that order shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000.
 
 [4/2002]
 
-(4) Any articles, merchandise, baggage or cargo to which the order relates may be confiscated, treated or disposed of at the discretion of the Director-General or the Port Health Officer.
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) Any articles, merchandise, baggage or cargo to which the order relates may be confiscated, treated or disposed of at the discretion of the Director-General, the Director-General, Food Administration or the Port Health Officer.
 
 [4/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Corpses
 
@@ -1492,13 +1532,17 @@ PREVENTION OF INTERNATIONAL SPREAD OF INFECTIOUS DISEASES
 
 ### Master, etc., of vessel to assist Director-General, Director, etc.
 
-44\.—(1) The master, owner or agent of a vessel shall provide such facilities and assistance as the Director-General, the Director, a Port Health Officer or a Health Officer may require in exercising his powers for the purpose of carrying out the provisions of this Act.
+44\.—(1) The master, owner or agent of a vessel shall provide such facilities and assistance as the Director-General, the Director-General, Food Administration, the Director, a Port Health Officer or a Health Officer may require in exercising his powers for the purpose of carrying out the provisions of this Act.
 
 [4/2002; 5/2003]
 
-(2) The master, owner or agent of a vessel shall take all reasonable measures and exercise due and proper care to ensure the safety of the Director-General, the Director, a Port Health Officer or a Health Officer and any person acting under his direction in the course of their work on board the vessel.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) The master, owner or agent of a vessel shall take all reasonable measures and exercise due and proper care to ensure the safety of the Director-General, the Director-General, Food Administration, the Director, a Port Health Officer or a Health Officer and any person acting under his direction in the course of their work on board the vessel.
 
 [4/2002; 5/2003]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
@@ -1792,7 +1836,7 @@ the substance or matter seized in its entirety or to the extent to which its sei
 
 ### Powers of investigation
 
-55A\.—(1) For the purposes of an investigation into an offence punishable under this Act, any police officer, or any Health Officer who is authorised in writing in that behalf by the Director-General or the Director, may —
+55A\.—(1) For the purposes of an investigation into an offence punishable under this Act, any police officer, or any Health Officer who is authorised in writing in that behalf by the Director-General, the Director-General, Food Administration or the Director, may —
 
 (a) require any person —
 
@@ -1815,6 +1859,8 @@ and may, if necessary, further require such person to attend at a specified time
 (d) seize any book, document or record produced under paragraph (a) or found in any premises or conveyance mentioned in paragraph (b).
 
 [Act 5 of 2019 wef 25/03/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (2) A statement made by any person giving evidence under subsection (1)(a) —
 
@@ -1866,7 +1912,7 @@ shall be guilty of an offence.
 
 56\.—(1) Any police officer, or any Health Officer authorised in writing in that behalf by the Director, may arrest without warrant any person committing or who he has reason to believe has committed any offence under section 11(1), 20(2), 21A(4), 23(3), 24(2) or 55(8).
 
-(2) Subject to subsection (1), any police officer, or any Health Officer authorised in writing in that behalf by the Director-General or the Director, may arrest without warrant any person committing or who he has reason to believe has committed any offence under this Act if —
+(2) Subject to subsection (1), any police officer, or any Health Officer authorised in writing in that behalf by the Director-General, the Director-General, Food Administration or the Director, may arrest without warrant any person committing or who he has reason to believe has committed any offence under this Act if —
 
 (a) the name and address of the person are unknown to him;
 
@@ -1875,6 +1921,8 @@ shall be guilty of an offence.
 (c) the person gives an address outside Singapore; or
 
 (d) there is reason to doubt the accuracy of the name and address if given.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (3) Subject to subsection (7), any police officer, or any Health Officer authorised in writing in that behalf by the Director, may arrest without warrant any person who —
 
@@ -1928,13 +1976,17 @@ for such period of time and subject to such conditions as the Director thinks ne
 
 ### Police officer or Health Officer may demand names and addresses in certain cases
 
-57\.—(1) Any person who is required by any police officer or by any Health Officer authorised in that behalf by the Director-General or the Director shall on demand give his name and address and other proof of identity to the police officer or Health Officer, as the case may be.
+57\.—(1) Any person who is required by any police officer or by any Health Officer authorised in that behalf by the Director-General, the Director-General, Food Administration or the Director shall on demand give his name and address and other proof of identity to the police officer or Health Officer, as the case may be.
 
 [4/2002; 5/2003]
 
-(2) The occupier of any premises shall, if required by any police officer or by a Health Officer authorised in that behalf by the Director-General or the Director, give his name and address and other proof of identity and the name and address of the owner of the premises, if known.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) The occupier of any premises shall, if required by any police officer or by a Health Officer authorised in that behalf by the Director-General, the Director-General, Food Administration or the Director, give his name and address and other proof of identity and the name and address of the owner of the premises, if known.
 
 [4/2002; 5/2003]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (3) Any person who fails to comply with any requirement properly made to him by a police officer or Health Officer under subsection (1) or (2), or wilfully mis-states his name and address or the name and address of the owner of any premises, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500.
 
@@ -2156,19 +2208,23 @@ MISCELLANEOUS
 
 ### Evidence
 
-63\.—(1) All records, registers and other documents kept by the Director-General, the Director, any Port Health Officer or Health Officer or officer of the Board for the purposes of this Act shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
+63\.—(1) All records, registers and other documents kept by the Director-General, the Director-General, Food Administration, the Director, any Port Health Officer or Health Officer or officer of the Board for the purposes of this Act shall be deemed to be public documents, and copies thereof or extracts therefrom certified by the officer responsible for the custody thereof to be true copies or extracts, as the case may be, subscribed by such officer with his name and his official title shall be admissible in evidence as proof of the contents of the documents or extracts therefrom.
 
 [5/2001; 4/2002; 5/2003]
 
-(2) In any proceedings for the recovery of costs and expenses incurred by the Director-General, the Director, a Port Health Officer or a Health Officer, a certificate purporting to be under the hand of the Director-General or the Director and specifying —
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) In any proceedings for the recovery of costs and expenses incurred by the Director-General, the Director-General, Food Administration, the Director, a Port Health Officer or a Health Officer, a certificate purporting to be under the hand of the Director-General, the Director-General, Food Administration or the Director and specifying —
 
 (a) the costs and expenses claimed as due and payable; and
 
 (b) the person named in the certificate as liable for the payment thereof,
 
-shall be prima facie evidence of the facts certified therein and of the signature of the Director-General or the Director thereto, as the case may be.
+shall be prima facie evidence of the facts certified therein and of the signature of the Director-General, the Director-General, Food Administration or the Director thereto, as the case may be.
 
 [4/2002; 7/2003]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Obstruction of persons executing power, etc.
 
@@ -2198,9 +2254,11 @@ shall be guilty of an offence.
 
 ### Protection from personal liability
 
-67\. No liability shall lie personally against the Director, the Director‑General, any Health Officer, any Port Health Officer, any police officer or any authorised person mentioned in section 17A(7) who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
+67\. No liability shall lie personally against the Director, the Director‑General, the Director-General, Food Administration, any Health Officer, any Port Health Officer, any police officer or any authorised person mentioned in section 17A(7) who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
 
 [Act 5 of 2019 wef 25/03/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Immunity from liability for disclosure
 
@@ -2324,9 +2382,17 @@ shall be guilty of the same offence as is that unincorporated association or par
 
 ### Composition of offences
 
-68\.—(1) The Director may compound any offence under this Act that is not mentioned in subsection (2) but is prescribed as a compoundable offence by the appropriate Minister under section 73, by collecting from a person reasonably suspected of having committed the offence a sum described in subsection (3).
+68\.—(1) The Director may compound any offence under this Act that is not mentioned in subsection (2) or (2A) but is prescribed as a compoundable offence by the appropriate Minister under section 73, by collecting from a person reasonably suspected of having committed the offence a sum described in subsection (3).
 
-(2) The Director-General may compound any offence under sections 28, 29 and 33 to 45 and that is prescribed as a compoundable offence by the appropriate Minister under section 73, by collecting from a person reasonably suspected of having committed the offence a sum described in subsection (3).
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) The Director-General may compound any offence under sections 28, 29, 33 to 37 and 40 to 45 and that is prescribed as a compoundable offence by the appropriate Minister under section 73, by collecting from a person reasonably suspected of having committed the offence a sum described in subsection (3).
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(2A) The Director-General, Food Administration may compound any offence under section 38 or 39 if that is prescribed as a compoundable offence by the appropriate Minister under section 73, by collecting from a person reasonably suspected of having committed the offence a sum described in subsection (3).
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (3) The composition sum for the purposes of compounding a compoundable offence under subsection (1) or (2) is a sum not exceeding the lower of the following:
 
@@ -2342,15 +2408,19 @@ shall be guilty of the same offence as is that unincorporated association or par
 
 ### Fees, etc., collected by Director and Director-General
 
-69\.—(1) All fees, charges, composition sums and moneys collected by the Director in connection with the administration of this Act shall be paid into the Consolidated Fund.
+69\.—(1) All fees, charges and moneys collected by the Director in connection with the administration of this Act shall be paid into the Consolidated Fund.
 
 [5/2003]
 
-(2) All fees, charges, composition sums and moneys collected by the Director-General in connection with the administration of this Act shall be paid to the Agency.
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) All fees, charges and moneys collected by the Director-General in connection with the administration of this Act shall be paid to the Agency.
 
 [68A
 
 [5/2003]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Amendment of Schedules
 
@@ -2875,6 +2945,10 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of First Reading|19 November 2018 (Bill No. 52/2018 published on 19 November 2018)|
 ||Date of Second and Third Readings|14 January 2019|
 ||Date of commencement|25 March 2019|
+|43.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
