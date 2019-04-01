@@ -240,7 +240,7 @@ PRELIMINARY
 
 (h) offer of trials of the health product to members of the public;
 
-“Agri-Food and Veterinary Authority” means the Agri-Food and Veterinary Authority established under section 3 of the Agri-Food and Veterinary Authority Act (Cap. 5);
+[Deleted by Act 10 of 2019 wef 01/04/2019]
 
 “analyst” means any person who is designated as an analyst by the Chief Executive under section 8;
 
@@ -325,6 +325,10 @@ solely or principally for a health-related purpose; and
 “manufacturer’s licence” means a licence authorising the holder thereof to manufacture any health product;
 
 “Minister” means, except in Part XIV, the Minister charged with the responsibility for health;
+
+“National Parks Board” means the National Parks Board established by the repealed National Parks Act (Cap. 198A, 1991 Ed.) as in force before 1 July 1996 and continued by section 3 of the National Parks Board Act (Cap. 198A);
+
+[Act 10 of 2019 wef 01/04/2019]
 
 “packaging”, in relation to a health product or an active ingredient, means the container and other packaging material in which the health product or active ingredient is supplied;
 
@@ -2192,3 +2196,7 @@ This Legislative History is provided for the convenience of users of the Health 
 ||Date of commencement|1 November 2016|
 |8.|**G.N. No. S 320/2018—Health Products Act (Amendment of First Schedule) Order 2018**|
 ||Date of commencement|1 June 2018|
+|9.|**Act 10 of 2019—National Parks Board (Amendment) Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 4/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
