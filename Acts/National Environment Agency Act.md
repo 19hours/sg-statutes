@@ -276,11 +276,15 @@ FUNCTIONS, DUTIES AND POWERS OF AGENCY
 
 (a) to identify, undertake research into, and conduct investigations and surveillance of environmental health concerns and vectors of infectious agents, and to develop strategies of prevention and control in connection with such matters;
 
-(b) to undertake licensing, provision of consultancy services, and promotion of professionalism in relation to matters concerning food hygiene in the food retail industry, and in relation to the pest control, environmental and other related industries;
+(b) to undertake licensing, provision of consultancy services, and promotion of professionalism in relation to pest control, environmental and other related industries;
 
-(c) to provide for the licensing of places used for the keeping of horses, cows, oxen, sheep, goats, swine and other cattle and to control the transport and movement of such animals for the purpose of preserving public health;
+[Act 11 of 2019 wef 01/04/2019]
 
-(d) to ensure high standards of food hygiene in food retail outlets through licensing and inspections, and to co-ordinate the implementation and management of upgrading programmes for hawker centres and the review of hawker policies;
+(c) [Deleted by Act 11 of 2019 wef 01/04/2019]
+
+(d) to co-ordinate the implementation and management of upgrading programmes for hawker centres and the review of hawker policies;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (e) to ensure cleanliness of public areas through the supervision of cleansing services and the prevention of littering;
 
@@ -474,7 +478,9 @@ FINANCIAL PROVISIONS
 
 ### All moneys recovered to be paid to Agency
 
-21\. All moneys recovered or charges or composition fines collected under this Act shall be paid into and form part of the moneys of the Agency.
+21\. All moneys recovered or charges collected under this Act shall be paid into and form part of the moneys of the Agency.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Grants
 
@@ -746,6 +752,10 @@ not less than 10 clear days before the commencement of the proceedings.
 
 (3) The Agency may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded and the method and procedure by which those offences may be compounded under this section.
 
+(4) All composition sums collected under this section must be paid into the Consolidated Fund.
+
+[Act 11 of 2019 wef 01/04/2019]
+
 ### Preservation of secrecy
 
 47\.—(1) Except for the purpose of the performance of his duties or the exercise of his functions or when lawfully required to do so by any court or where required or allowed by the provisions of any written law, no person who is or has been —
@@ -872,6 +882,10 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|10.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 National Environment Agency Act
