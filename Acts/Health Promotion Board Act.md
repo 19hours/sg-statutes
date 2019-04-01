@@ -248,7 +248,9 @@ FUNCTIONS, OBJECTS, DUTIES AND POWERS OF BOARD
 
 (d) to monitor and conduct investigations and research into any matter relating to the health and nutritional statuses of the people of Singapore;
 
-(e) to promote a healthy food supply in Singapore;
+(e) to encourage and facilitate healthier food choices in Singapore;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (f) to determine, establish and recommend —
 
@@ -565,6 +567,10 @@ This Legislative History is provided for the convenience of users of the Health 
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|6.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Health Promotion Board Act
