@@ -24,6 +24,8 @@
 
 - [6A Penalty](#Penalty)
 
+- [6B Abetment, etc., of offence under section 3, 4, 5 or 6](#Abetment-etc-of-offence-under-section-3-4-5-or-6)
+
 - [7 Exemption](#Exemption)
 
 [**Part III DISCLOSURE AND TIPPING-OFF**](#Part-III)
@@ -230,7 +232,7 @@ TERRORIST PROPERTY
 
 ### Prohibition against providing or collecting property for terrorist acts
 
-3\. Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —
+3\.—(1) Every person who directly or indirectly, wilfully and without lawful excuse, provides or collects property —
 
 (a) with the intention that the property be used; or
 
@@ -238,11 +240,15 @@ TERRORIST PROPERTY
 
 in whole or in part, in order to commit any terrorist act, shall be guilty of an offence.
 
-[Act 17 of 2013 wef 23/09/2013]
+[Act 51 of 2018 wef 01/04/2019]
+
+(2) Any person who acts reasonably in taking, or omitting to take, measures to avoid committing an offence under subsection (1) shall not be liable in any civil proceedings arising from taking or omitting to take those measures.
+
+[Act 51 of 2018 wef 01/04/2019]
 
 ### Prohibition against provision of property and services for terrorist purposes
 
-4\. Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes available property or financial or other related services —
+4\.—(1) Every person who directly or indirectly, collects property, provides or invites a person to provide, or makes available property or financial or other related services —
 
 (a) intending that they be used, or knowing or having reasonable grounds to believe that they will be used, in whole or in part, for the purpose of facilitating or carrying out any terrorist act, or for benefiting any person who is facilitating or carrying out such an activity; or
 
@@ -250,11 +256,19 @@ in whole or in part, in order to commit any terrorist act, shall be guilty of an
 
 shall be guilty of an offence.
 
-[Act 17 of 2013 wef 23/09/2013]
+[Act 51 of 2018 wef 01/04/2019]
+
+(2) Any person who acts reasonably in taking, or omitting to take, measures to avoid committing an offence under subsection (1) shall not be liable in any civil proceedings arising from taking or omitting to take those measures.
+
+[Act 51 of 2018 wef 01/04/2019]
+
+(3) In this section, a reference to facilitating or carrying out any terrorist act includes a reference to financing the travel of an individual to any place other than the state of which the individual is a citizen or in which the individual resides, in order for the individual to provide or receive any training in facilitating or carrying out any terrorist act.
+
+[Act 51 of 2018 wef 01/04/2019]
 
 ### Prohibition against use or possession of property for terrorist purposes
 
-5\. Every person who —
+5\.—(1) Every person who —
 
 (a) uses property, directly or indirectly, in whole or in part, for the purpose of facilitating or carrying out any terrorist act; or
 
@@ -262,7 +276,11 @@ shall be guilty of an offence.
 
 shall be guilty of an offence.
 
-[Act 17 of 2013 wef 23/09/2013]
+[Act 51 of 2018 wef 01/04/2019]
+
+(2) Any person who acts reasonably in taking, or omitting to take, measures to avoid committing an offence under subsection (1) shall not be liable in any civil proceedings arising from taking or omitting to take those measures.
+
+[Act 51 of 2018 wef 01/04/2019]
 
 ### Prohibition against dealing with property of terrorists
 
@@ -286,9 +304,19 @@ shall be guilty of an offence.
 
 (a) in the case of an individual, to a fine not exceeding $500,000 or to imprisonment for a term not exceeding 10 years or to both; or
 
-(b) in any other case, to a fine not exceeding $1 million.
+(b) in any other case, to a fine not exceeding the higher of —
 
-[Act 17 of 2013 wef 23/09/2013]
+(i) $1 million; or
+
+(ii) twice the value of the property (including funds derived or generated from the property), financial services or other related services, or financial transaction (as the case may be) in respect of which the offence was committed.
+
+[Act 51 of 2018 wef 01/04/2019]
+
+### Abetment, etc., of offence under section 3, 4, 5 or 6
+
+6B\. A person who commits an act or omission that would constitute an abetment of, or a conspiracy or an attempt to commit, an offence under section 3, 4, 5 or 6 shall be guilty of an offence and shall be liable on conviction to the same punishment as for the offence under section 3, 4, 5 or 6, as the case may be.
+
+[Act 51 of 2018 wef 01/04/2019]
 
 ### Exemption
 
@@ -324,9 +352,27 @@ DISCLOSURE AND TIPPING-OFF
 
 shall immediately inform the Commissioner of Police of that fact or information.
 
-(2) The Commissioner of Police may require the person referred to in subsection (1) to furnish such further information or particulars as the Commissioner may think fit.
+(2) The Commissioner of Police may require the person referred to in subsection (1) to furnish such further information or particulars as the Commissioner may think fit, and the person must comply with the requirement.
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
+[Act 51 of 2018 wef 01/04/2019]
+
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —
+
+(a) if the person is an individual, and the property mentioned in subsection (1)(a) came into the person’s possession, custody or control, or the information or particulars mentioned in subsection (1)(b) or (2) came to the person’s attention, in the course of the person’s trade, profession, business or employment — to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 5 years or to both;
+
+(b) if the person is an individual, but paragraph (a) does not apply — to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both; or
+
+(c) if the person is not an individual, to a fine not exceeding —
+
+(i) where subsection (1) was contravened, the higher of —
+
+(A) $1 million; or
+
+(B) twice the value of the property mentioned in subsection (1)(a) or (b), as the case may be; or
+
+(ii) where subsection (2) was contravened, $1 million.
+
+[Act 51 of 2018 wef 01/04/2019]
 
 (4) It shall be a defence for a person charged with an offence under subsection (1) to prove that he had a reasonable excuse for not informing the Commissioner of Police.
 
@@ -368,7 +414,27 @@ shall immediately inform the Commissioner of Police of that fact or information.
 
 (b) in securing the apprehension, prosecution or conviction of another person, in Singapore, for an offence involving the commission, preparation or instigation of a terrorism financing offence,
 
-who fails to disclose the information immediately to a police officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both.
+who fails to disclose the information immediately to a police officer shall be guilty of an offence.
+
+[Act 51 of 2018 wef 01/04/2019]
+
+(1A) Any person who commits an offence under subsection (1) shall be liable on conviction —
+
+(a) if the person is an individual, and the information came to the person’s attention in the course of the person’s trade, profession, business or employment — to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 5 years or to both;
+
+(b) if the person is an individual, but paragraph (a) does not apply — to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both; or
+
+(c) if the person is not an individual, to a fine not exceeding —
+
+(i) where a terrorism financing offence was committed, the higher of —
+
+(A) $1 million; or
+
+(B) twice the value of the property (including funds derived or generated from the property), financial services or other related services, or financial transaction (as the case may be) in respect of which the terrorism financing offence was committed; or
+
+(ii) where no terrorism financing offence was committed, $1 million.
+
+[Act 51 of 2018 wef 01/04/2019]
 
 (2) It shall be a defence for a person charged with an offence under subsection (1) to prove that he had a reasonable excuse for not making the disclosure.
 
@@ -408,7 +474,9 @@ the court may permit inquiry and require full disclosure concerning the informer
 
 (b) who discloses to any other person information or any other matter which is likely to prejudice that investigation or proposed investigation,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 51 of 2018 wef 01/04/2019]
 
 (2) Any person —
 
@@ -416,7 +484,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) who discloses to any other person information or any other matter which is likely to prejudice any investigation which might be conducted following the disclosure or report,
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $30,000 or to imprisonment for a term not exceeding 3 years or to both.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $250,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 51 of 2018 wef 01/04/2019]
 
 (3) Nothing in subsection (1) or (2) makes it an offence for an advocate and solicitor or his employee to disclose any information or other matter —
 
@@ -1194,6 +1264,10 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|25 November 2017|
 |27.|**G.N. No. S 604/2018—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2018**|
 ||Date of commencement|1 October 2018|
+|28.|**Act 51 of 2018—Serious Crimes and Counter-Terrorism (Miscellaneous Amendments) Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 43/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|19 November 2018|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
