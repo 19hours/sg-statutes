@@ -422,9 +422,9 @@ LICENCES AND CERTIFICATES RELATING TO MEDICINAL PRODUCTS
 
 [4/2001 wef 04/01/2001]
 
-(b) the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7) in respect of any function to be performed under this Act exclusively in relation to veterinary medicinal products and animals.
+(b) the Director-General, Animal Health and Welfare appointed under section 3(1) of the Animals and Birds Act (Cap. 7) in respect of any function to be performed under this Act exclusively in relation to veterinary medicinal products and animals.
 
-[4/2001 wef 04/01/2001]
+[Act 10 of 2019 wef 01/04/2019]
 
 (2) Any function conferred on the licensing authority by this Act may be performed by such officers as the licensing authority may designate, subject to his general direction and control.
 
@@ -1604,9 +1604,9 @@ where it is proved that the medicinal product in question was found on a vehicle
 
 (a) in the case where the licensing authority is the Chief Executive of the Authority, to the Authority; and
 
-(b) in the case where the licensing authority is the Director-General, Agri-food and Veterinary Services, to the Agri-food and Veterinary Authority established under the Agri-food and Veterinary Authority Act 2000 (Act 16 of 2000).
+(b) in the case where the licensing authority is the Director‑General, Animal Health and Welfare, to the National Parks Board established by the repealed National Parks Act (Cap. 198A, 1991 Ed.) as in force before 1 July 1996 and continued by section 3 of the National Parks Board Act (Cap. 198A).
 
-[4/2001 wef 01/04/2001]
+[Act 10 of 2019 wef 01/04/2019]
 
 ### Advisory committees
 
@@ -1817,3 +1817,7 @@ This Legislative History is provided for the convenience of users of the Medicin
 ||Date of First Reading|13 July 2015 (Bill No. 25/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|18 August 2015|
 ||Date of commencement|1 July 2016|
+|14.|**Act 10 of 2019—National Parks Board (Amendment) Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 4/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
