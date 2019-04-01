@@ -197,9 +197,9 @@ Urban Redevelopment Authority
 
 23. 
 
-Agri-Food and Veterinary Authority
+Singapore Food Agency
 
-[S 753/2018 wef 16/11/2018]
+[Act 11 of 2019 wef 01/04/2019]
 
 24. 
 
@@ -252,3 +252,7 @@ This Legislative History is provided for the convenience of users of the Attorne
 ||Date of commencement|16 November 2018|
 |12.|**G.N. No. S 871/2018—Attorney-General (Additional Functions) Act (Amendment of Schedule) (No. 2) Order 2018**|
 ||Date of commencement|28 December 2018|
+|13.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
