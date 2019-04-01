@@ -962,7 +962,15 @@ Sewerage and waste water treatment services.
 
 23. 
 
-Veterinary public health services provided by the Agri-Food and Veterinary Authority, including the inspection of primary food (meat and meat product, fish and fish product, egg, raw milk, fruit and vegetable) at the point of import and before distribution to retail.
+Animal health services provided by the National Parks Board, including the control of zoonotic diseases.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+23A. 
+
+Food safety services provided by the Singapore Food Agency, including inspection and laboratory analysis of food.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 24. 
 
@@ -1536,6 +1544,10 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
 ||Date of Second and Third Readings|6 February 2018|
 ||Date of commencement|1 January 2019|
+|61.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
