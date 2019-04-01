@@ -106,7 +106,7 @@
 
 - [22 Exemption on application](#Exemption-on-application)
 
-[**THE SCHEDULE Determination of weekly index**](#THE-SCHEDULE)
+[**THE SCHEDULE weekly index**](#THE-SCHEDULE)
 
 [**Legislative History**](#Legislative-History)
 
@@ -308,9 +308,13 @@ PRELIMINARY
 
 [Act 33 of 2016 wef 01/07/2017]
 
-(3) The number of work days determined in accordance with the Schedule to be the weekly index of a male or female employee or a self-employed man or self-employed woman, if not a whole number, is to be rounded down to the nearest half day or whole day.
+(3) The Minister may, by order in theGazette, amend the Schedule.
 
-[Act 33 of 2016 wef 01/01/2017]
+[Act 55 of 2018 wef 01/04/2019]
+
+(4) The Minister may, in an order under subsection (3), make such provisions of a saving or transitional nature consequent to the enactment of that order as the Minister may consider necessary or expedient.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ## PART II
 
@@ -838,9 +842,13 @@ is entitled to claim from the Government her lost income for the applicable peri
 
 [Act 12 of 2013 wef 01/05/2013]
 
-(8) Despite subsection (7), “total income” in subsection (5A) excludes the gross rate of pay which a female employee is entitled to receive from her employer in respect of the period she was employed by that employer during the period prescribed for the purposes of subsection (5A) if, upon a referral to the Minister for Manpower under the Employment Act (Cap. 91) or the Industrial Relations Act (Cap. 136), that Minister is satisfied that the female employee was dismissed for sufficient cause, or with just cause or excuse, by that employer before her confinement.
+(8) Despite subsection (7), “total income” in subsection (5A) excludes the gross rate of pay that a female employee is entitled to receive from her employer in respect of the period she was employed by that employer during the period prescribed for the purposes of subsection (5A), if —
 
-[Act 33 of 2016 wef 01/01/2017]
+(a) upon the making of any representations to the Minister charged with the responsibility for manpower under section 35 of the Industrial Relations Act (Cap. 136), that Minister is satisfied that the female employee was dismissed with just cause or excuse by that employer before her confinement; or
+
+(b) an Employment Claims Tribunal has decided, after hearing a claim mentioned in section 14(2) or 84(2) of the Employment Act, that the female employee was dismissed with just cause or excuse, or for sufficient cause, by that employer before her confinement.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (9) The Government may recover as a civil debt from a woman who delivers a child any amount paid to her under subsection (5A) if —
 
@@ -1166,7 +1174,9 @@ if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work
 
 (3) An employer is not entitled to claim reimbursement from the Government for any amount that the employer is directed, on or after the date of commencement of section 6(1)(b) of the Child Development Co-Savings (Amendment No. 2) Act 2016, by any of the following to pay to a female employee, unless the direction has been withdrawn or reversed:
 
-(a) by the Minister for Manpower under the Employment Act or the Industrial Relations Act (Cap. 136);
+(a) by the Minister charged with the responsibility for manpower under section 35 of the Industrial Relations Act;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) by the Commissioner for Labour under section 115 of the Employment Act;
 
@@ -1288,7 +1298,7 @@ if that period exceeds 8 weeks, for a period of 8 weeks of her absence from work
 
 [Act 12 of 2013 wef 01/05/2013]
 
-(2) Parts XIII and XVI and sections 124, 125 and 126 of the Employment Act, and such other provisions of that Act as the Minister for Manpower may prescribe by order in theGazette, apply, with such exceptions, adaptations and modifications as may be prescribed in the order, in relation to —
+(2) Parts XIII and XVI and sections 124, 125 and 126 of the Employment Act, and such other provisions of that Act as the Minister charged with the responsibility for manpower may prescribe by order in theGazette, apply, with such exceptions, adaptations and modifications as may be prescribed in the order, in relation to —
 
 (a) an employer or employee to whom section 9, 12AA, 12B, 12D, 12E or 12H applies or the repealed section 10A, 12K or 12KB (as in force immediately before the date of commencement of section 9 of the Child Development Co-Savings (Amendment No. 2) Act 2016) applied;
 
@@ -1310,9 +1320,13 @@ as they apply in relation to any employer, employee, dispute, offence or proceed
 
 [Act 21 of 2016 wef 01/04/2017]
 
-(3) Sections 115 to 123 of the Employment Act apply, with such exceptions, adaptations and modifications as the Minister for Manpower may prescribe by order in theGazette, to a dispute mentioned in subsection (2)(b), if a claim is lodged, before the date of commencement of section 36(b) of the Employment Claims Act 2016, under section 119 of the Employment Act in relation to that dispute.
+[Act 55 of 2018 wef 01/04/2019]
+
+(3) Sections 115 to 123 of the Employment Act apply, with such exceptions, adaptations and modifications as the Minister charged with the responsibility for manpower may prescribe by order in theGazette, to a dispute mentioned in subsection (2)(b), if a claim is lodged, before the date of commencement of section 36(b) of the Employment Claims Act 2016, under section 119 of the Employment Act in relation to that dispute.
 
 [Act 21 of 2016 wef 01/04/2017]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 12A\. [Repealed by Act 33 of 2016 wef 01/01/2017]
 
@@ -1624,7 +1638,9 @@ but has any child below the age of 7 years at any time during any relevant perio
 
 (7) The childcare leave and extended childcare leave shall be in addition to —
 
-(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 43 and 89, respectively, of the Employment Act; and
+(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 88A and 89, respectively, of the Employment Act; and
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) in the case of childcare leave, any unpaid infant care leave to which an employee may be entitled under section 12D.
 
@@ -1858,9 +1874,11 @@ the employee shall be entitled to unpaid infant care leave of 6 days for that re
 
 (4) The unpaid infant care leave shall be in addition to —
 
-(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 43 and 89, respectively, of the Employment Act (Cap. 91); and
+(a) the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 88A and 89, respectively, of the Employment Act (Cap. 91); and
 
 [32/2008 wef 01/01/2009]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) any childcare leave to which an employee may be entitled under section 87A of the Employment Act or under section 12B.
 
@@ -2484,11 +2502,7 @@ on at least one other occasion on or after 1st May 2013 and before the date on w
 
 [Act 12 of 2013 wef 01/05/2013]
 
-(1B) Any employer who fails to comply with the direction of the Minister for Manpower under section 84(3) of the Employment Act as made applicable by section 12 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
-
-[42/2004 wef 01/10/2004]
-
-[28/2008 wef 31/10/2008]
+(1B) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
 (2) Where an employer has been convicted of an offence under subsection (1)(b), (c) or (d), the court may order that employer to make restitution of any moneys paid out to that employer by the Government under section 10 which has not been paid to the female employee in accordance with the provisions of Part III.
 
@@ -2644,7 +2658,7 @@ he, as well as the body corporate, shall be guilty of that offence and shall be 
 
 Section 2(1) and (3)
 
-Determination of weekly index
+weekly index
 
 Part 1
 
@@ -2718,6 +2732,10 @@ any day on which an employee is required to work for 5 hours or shorter under th
 any day on which a self-employed man or self-employed woman is engaged in his or her trade, business, profession or vocation for 5 hours or shorter.
 
 4. In this Table, “week” means a continuous period of 7 days commencing at midnight on Sunday.
+
+5. Any duration calculated under this Act as a multiple of the weekly index, if not a whole number of days, is to be rounded down to the nearest half day or whole day.
+
+[S 203/2019 wef 01/04/2019]
 
 Part 2
 
@@ -2822,6 +2840,8 @@ The date on which a dependant’s pass is issued in respect of the child
 
 [Act 33 of 2016 wef 01/01/2017]
 
+[S 203/2019 wef 01/04/2019]
+
 ## LEGISLATIVE HISTORY
 
 Child Development Co-Savings Act
@@ -2917,3 +2937,9 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of First Reading|10 October 2016 (Bill No. 33/2016 published on 10 October 2016)|
 ||Date of Second and Third Readings|10 November 2016|
 ||Date of commencement|1 July 2017|
+|19.|**G.N. No. S 203/2019—Child Development Co-Savings Act (Amendment of Schedule) Order 2019**|
+||Date of commencement|1 April 2019|
+|20.|**Act 55 of 2018—Employment (Amendment) Act 2018**|
+||Date of First Reading|2 October 2018 (Bill No. 47/2018 published on 2 October 2018)|
+||Date of Second and Third Readings|20 November 2018|
+||Date of commencement|1 April 2019|
