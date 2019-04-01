@@ -72,6 +72,8 @@
 
 - [28 Recovery of compensation paid in excess or in error under DI Scheme](#Recovery-of-compensation-paid-in-excess-or-in-error-under-DI-Scheme)
 
+- [28A Duties of liquidators in winding up of DI Scheme member](#Duties-of-liquidators-in-winding-up-of-DI-Scheme-member)
+
 - [29 Powers of liquidator in respect of claims against insured depositor](#Powers-of-liquidator-in-respect-of-claims-against-insured-depositor)
 
 [**Part VA WITHDRAWAL IN SUPPORT OF RESOLUTION MEASURE FOR DI SCHEME MEMBER**](#Part-VA)
@@ -124,11 +126,17 @@
 
 - [47 Entitlement to compensation for life business](#Entitlement-to-compensation-for-life-business)
 
-- [48 Entitlement to compensation for general business](#Entitlement-to-compensation-for-general-business)
+- [48 Entitlement to compensation for life business — refund of premiums and claim under accidental death insurance cover](#Entitlement-to-compensation-for-life-business-—-refund-of-premiums-and-claim-under-accidental-death-insurance-cover)
+
+- [48A Entitlement to compensation for general business](#Entitlement-to-compensation-for-general-business)
+
+- [48B Entitlement to compensation for general business — refund of premiums](#Entitlement-to-compensation-for-general-business-—-refund-of-premiums)
 
 - [49 Joint insured policies](#Joint-insured-policies)
 
 - [50 Restrictions on entitlement to compensation under PPF Scheme](#Restrictions-on-entitlement-to-compensation-under-PPF-Scheme)
+
+- [50A Cessation of coverage under PPF Scheme](#Cessation-of-coverage-under-PPF-Scheme)
 
 - [51 Computation and method of payment of compensation under PPF Scheme](#Computation-and-method-of-payment-of-compensation-under-PPF-Scheme)
 
@@ -136,7 +144,9 @@
 
 - [53 Recovery of compensation paid in excess or in error under PPF Scheme](#Recovery-of-compensation-paid-in-excess-or-in-error-under-PPF-Scheme)
 
-- [54 Use of PPF Life Fund or PPF General Fund for transfer or run-off of insurance business](#Use-of-PPF-Life-Fund-or-PPF-General-Fund-for-transfer-or-run-off-of-insurance-business)
+- [54 Use of PPF Life Fund or PPF General Fund for transfer or run-off of insurance business or for termination of insured policies](#Use-of-PPF-Life-Fund-or-PPF-General-Fund-for-transfer-or-run-off-of-insurance-business-or-for-termination-of-insured-policies)
+
+- [54A Duties of liquidators in winding up of PPF Scheme member](#Duties-of-liquidators-in-winding-up-of-PPF-Scheme-member)
 
 - [55 Powers of liquidator in respect of claims against insured policy owner](#Powers-of-liquidator-in-respect-of-claims-against-insured-policy-owner)
 
@@ -146,7 +156,7 @@
 
 - [57 Objects, functions and powers of Agency](#Objects-functions-and-powers-of-Agency)
 
-- [58 Amendment to memorandum and articles of association of Agency](#Amendment-to-memorandum-and-articles-of-association-of-Agency)
+- [58 Amendment to constitution of Agency](#Amendment-to-constitution-of-Agency)
 
 - [59 Appointment of board of directors](#Appointment-of-board-of-directors)
 
@@ -188,13 +198,15 @@
 
 - [76 Annual report of Agency](#Annual-report-of-Agency)
 
-- [77 Annual estimates](#Annual-estimates)
+- [77 Three-year estimates of income and expenditure](#Three-year-estimates-of-income-and-expenditure)
 
 - [78 Reporting to Minister](#Reporting-to-Minister)
 
 [**Part XIII MISCELLANEOUS**](#Part-XIII)
 
 - [79 Protection from liability](#Protection-from-liability)
+
+- [79A Indemnity for Agency’s officers against cost of action to which section 79 applies](#Indemnity-for-Agency’s-officers-against-cost-of-action-to-which-section-79-applies)
 
 - [80 Preservation of confidentiality](#Preservation-of-confidentiality)
 
@@ -278,7 +290,13 @@ PRELIMINARY
 
 “bank” has the same meaning as in section 2(1) of the Banking Act (Cap. 19);
 
-“beneficiary”, in relation to an insured policy covered under the PPF General Fund which provides third party benefits, means any person entitled to claim the third party benefits under the terms of that insured policy;
+“beneficiary” —
+
+(a) in relation to an insured policy which is covered under the PPF Life Fund or the PPF General Fund, means any person entitled to claim benefits under the terms of that insured policy; and
+
+(b) in relation to an accidental death insurance cover provided by a PPF Scheme member before the inception of an insured policy, means any person entitled to the accidental death benefit under the terms of the cover;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 “book” includes any record, register, document or other record of information, and any account or accounting record, however compiled, recorded or stored, whether in written or printed form or on microfilm or in electronic form or otherwise;
 
@@ -308,7 +326,23 @@ as specified under the terms of the insured policy;
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act;
 
-“coupon deposit”, in relation to any insured policy, means any sum of money, being part of the policy moneys which the insurer is obliged to pay to the insured policy owner at agreed intervals under the terms of the insured policy, including any amount due at maturity, which the insured policy owner instructs the insurer not to pay out to him but for the sum of money to be deposited with the insurer to earn interest at an agreed rate;
+“coupon deposit”, in relation to any insured policy, means any sum of money, being part of the policy moneys which the insurer is obliged to pay to the insured policy owner at agreed intervals under the terms of the insured policy which the insured policy owner instructs the insurer not to pay out to him but for the sum of money to be deposited with the insurer to earn interest at an agreed rate;
+
+[Act 31 of 2018 wef 01/04/2019]
+
+“covered party” means —
+
+(a) an insured policy owner of an insured policy which is covered by the PPF Life Fund or the PPF General Fund (as the case may be);
+
+(b) the trustee of a trust of an insured policy which is covered by the PPF Life Fund or the PPF General Fund (as the case may be), in that capacity; or
+
+(c) a beneficiary in relation to —
+
+(i) an insured policy which is covered by the PPF Life Fund or the PPF General Fund (as the case may be); or
+
+(ii) an accidental death insurance cover provided by a PPF Scheme member before the inception of an insured policy;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 “CPFIS” means the Central Provident Fund Investment Scheme introduced by the Central Provident Fund Board under the Central Provident Fund (Investment Schemes) Regulations (Cap. 36, Rg 9);
 
@@ -350,9 +384,13 @@ as specified under the terms of the insured policy;
 
 (c) such other person or class of persons as the Authority may prescribe;
 
-“failed DI Scheme member” means a DI Scheme member in respect of which the Authority has determined that compensation shall be paid out of the DI Fund to the insured depositors of that DI Scheme member, and any reference to “failure” in relation to a DI Scheme member shall be construed accordingly;
+“failed DI Scheme member” means a DI Scheme member in respect of which the Authority has made a determination that compensation is to be paid out of the DI Fund under section 21(1), and any reference to “failure” in relation to a DI Scheme member is to be construed accordingly;
 
-“failed PPF Scheme member” means a PPF Scheme member in respect of which the Authority has determined that compensation shall be paid out of the PPF Life Fund or PPF General Fund, as the case may be, or that the PPF Life Fund or PPF General Fund is to be utilised for the funding of a transfer or run-off of the insurance business of that PPF Scheme member, and any reference to “failure” in relation to a PPF Scheme member shall be construed accordingly;
+[Act 31 of 2018 wef 01/04/2019]
+
+“failed PPF Scheme member” means a PPF Scheme member in respect of which the Authority has made a determination under section 46(1) that the PPF Life Fund or the PPF General Fund is to be utilised for one or more of the purposes mentioned in section 46(1A), and any reference to “failure” in relation to a PPF Scheme member is to be construed accordingly;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 “finance company” has the same meaning as in section 2 of the Finance Companies Act (Cap. 108);
 
@@ -454,17 +492,41 @@ as specified under the terms of the insured policy;
 
 “quantification date” means —
 
-(a) in relation to a DI Scheme member —
+(a) in the case of a DI Scheme member —
 
-(i) the date on which the DI Scheme member is wound up; or
+(i) that is wound up by a court in Singapore, the date of commencement of winding up under the Companies Act (Cap. 50);
 
-(ii) where a DI Scheme member is not wound up, the date on which the notice of payment of compensation is published in theGazetteunder section 21(4);
+(ii) that is wound up by a court in a country or territory outside Singapore, the date of commencement of winding up under the law of that country or territory;
 
-(b) in relation to a PPF Scheme member —
+(iii) that is wound up by a court in Singapore and by a court in a country or territory outside Singapore, the date of commencement of winding up under the Companies Act;
 
-(i) the date on which the PPF Scheme member is wound up; or
+(iv) that is wound up voluntarily in Singapore, the date of commencement of winding up under the Companies Act;
 
-(ii) where a PPF Scheme member is not wound up, the date on which the notice of payment of compensation from the PPF Life Fund or PPF General Fund or notice that the PPF Life Fund or PPF General Fund is to be utilised for the funding of any transfer or run-off of the business of the failed PPF Scheme member is published in theGazetteunder section 46(4);
+(v) that is wound up voluntarily in a country or territory outside Singapore, the date of commencement of winding up under the law of that country or territory;
+
+(vi) that is wound up voluntarily in Singapore and in a country or territory outside Singapore, the date of commencement of winding up under the Companies Act; or
+
+(vii) in respect of which the Authority determines that compensation be paid out of the DI Fund under section 21(1) (whether the DI Scheme member is subsequently wound up or not), the date on which the notice of payment of compensation is published in theGazetteunder section 21(4); and
+
+(b) in the case of a PPF Scheme member —
+
+(i) that is wound up by a court in Singapore, the date of commencement of winding up under the Companies Act;
+
+(ii) that is wound up by a court in a country or territory outside Singapore, the date of commencement of winding up under the law of that country or territory;
+
+(iii) that is wound up by a court in Singapore and by a court in a country or territory outside Singapore, the date of commencement of winding up under the Companies Act;
+
+(iv) that is wound up voluntarily in Singapore, the date of commencement of winding up under the Companies Act;
+
+(v) that is wound up voluntarily in a country or territory outside Singapore, the date of commencement of winding up under the law of that country or territory;
+
+(vi) that is wound up voluntarily in Singapore and in a country or territory outside Singapore, the date of commencement of winding up under the Companies Act;
+
+(vii) that is a co-operative society in respect of which the Registrar of Co‑operative Societies has made an order cancelling the registration of that society under section 89(1) of the Co‑operative Societies Act (Cap. 62), the date of the order; or
+
+(viii) in respect of which the Authority has made a determination under section 46(1) that the PPF Life Fund or the PPF General Fund is to be utilised for one or more of the purposes mentioned in section 46(1A) (whether the PPF Scheme member is subsequently wound up or not), the date on which the notification of the Authority’s determination is published in theGazetteunder section 46(4);
+
+[Act 31 of 2018 wef 01/04/2019]
 
 “relevant insured deposits” has the meaning given to it in section 3;
 
@@ -506,21 +568,41 @@ as specified under the terms of the insured policy;
 
 [Act 11 of 2013 wef 18/04/2013]
 
-“specified personal line insurance policy” means —
+“specified personal line insurance policy” means any of the following policies of insurance issued to a natural person:
 
 (a) a policy of insurance which provides personal motor cover;
 
 (b) a policy of insurance which provides personal travel cover;
 
-(c) a policy of insurance which provides personal property (structure and contents) cover; or
+(c) a policy of insurance which provides personal property (structure and contents) cover;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (d) a policy of insurance which provides cover in connection with the employment of a foreign domestic worker;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 “Supplementary Retirement Scheme” has the same meaning as in section 2(1) of the Income Tax Act (Cap. 134);
 
 “trustee”, in relation to a resolution fund, means the entity appointed under section 99(2) of the Monetary Authority of Singapore Act as the trustee of the resolution fund;
 
 [Act 31 of 2017 wef 29/10/2018]
+
+“trust”, in relation to an insured policy which is covered under the PPF Life Fund or the PPF General Fund, means —
+
+(a) any trust of the policy moneys created under section 49L(2) of the Insurance Act (Cap. 142);
+
+(b) any trust of the objects of the insured policy created under section 73 of the Conveyancing and Law of Property Act (Cap. 61);
+
+(c) any express trust created by the insured policy owner over the policy moneys; or
+
+(d) any resulting or constructive trust over the policy moneys;
+
+[Act 31 of 2018 wef 01/04/2019]
+
+“trustee”, in relation to a trust, means a trustee of a trust in that capacity;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 “unclaimed moneys”, in relation to an insured policy issued by a failed PPF Scheme member, means any policy moneys which, as a result of a contingency happening, have been ascertained by the failed PPF Scheme member to be due and payable under that insured policy before the quantification date but which have not been paid to or have been paid but not yet received by the person entitled to payment of the policy moneys.
 
@@ -720,11 +802,23 @@ DEPOSIT INSURANCE FUND
 
 (ii) the administration and management of the DI Fund;
 
-(iii) the administration and management of the Agency and the performance of the duties and functions of the Agency in respect of the DI Scheme under this Act; and
+(iii) the administration and management of the Agency and the performance of the duties and functions of the Agency in respect of the DI Scheme under this Act;
 
-(iv) the conduct of any investigation by the Agency for the purpose of determining the entitlement of insured depositors to any compensation;
+[Act 31 of 2018 wef 01/04/2019]
+
+(iv) the conduct of any investigation by the Agency for the purpose of determining the entitlement of insured depositors to any compensation; and
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(v) the submission by the Agency to the liquidator of a failed DI Scheme member that is being wound up of any consolidated proof of debt on behalf of insured depositors in relation to each of their insured deposits placed with the failed DI Scheme member that exceeds the Maximum DI Coverage;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (b) the payment of any fees to agents appointed by the Agency for the purposes of carrying out any services in respect of the DI Scheme under this Act;
+
+(ba) the repayment of any moneys borrowed by the Agency for the purpose of performing its functions and the payment of any expenses and interest incurred in connection with the moneys borrowed;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (c) the withdrawal of all other moneys authorised or determined to be paid out of the DI Fund in accordance with this Act.
 
@@ -910,7 +1004,13 @@ COMPENSATION UNDER DI SCHEME
 
 21\.—(1) Where, on or after 1st May 2011 —
 
-(a) an order is made by a court in Singapore or elsewhere to wind up a DI Scheme member; or
+(a) an order is made by a court in Singapore or elsewhere to wind up a DI Scheme member;
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(aa) a DI Scheme member is wound up voluntarily under the Companies Act or under the law of a country or territory outside Singapore; or
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (b) the Authority is of the opinion that a DI Scheme member is insolvent, unable or likely to become unable to meet its obligations, or about to suspend payments,
 
@@ -1002,9 +1102,21 @@ as the case may be; and
 
 (a) specify the person to whom, or the account into which, payment of compensation is to be made for the benefit of any insured depositor who is entitled to compensation under this Act;
 
-(b) provide for the payment of compensation in respect of any insured depositor holding insured deposits in different accounts; and
+(b) provide for the payment of compensation in respect of any insured depositor holding insured deposits in different accounts;
 
-(c) provide for the payment of compensation into an equivalent account with another DI Scheme member and for such compensation to be held in that account in a manner equivalent to the manner of holding of the original insured deposit.
+[Act 31 of 2018 wef 01/04/2019]
+
+(c) provide for the payment of compensation into an equivalent account with another DI Scheme member and for such compensation to be held in that account in a manner equivalent to the manner of holding of the original insured deposit; and
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(d) provide for the treatment of any transfer order which has not been cleared and settled under the Rules of a payment system, in the computation of compensation due to any insured depositor who is entitled to compensation under this Act.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(6) In subsection (5)(d), “transfer order” and “Rules” have the meanings given by the Payment and Settlement Systems (Finality and Netting) Act (Cap. 231).
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Merger or consolidation of, or acquisition by, DI Scheme members
 
@@ -1054,21 +1166,37 @@ and may maintain an action in respect of those rights and remedies in the name o
 
 (4) The persons referred to in paragraphs (a), (b), (c), (d) and (e) of subsection (1), or any person who is subrogated, whether or not before the Agency’s subrogation, to the rights and remedies of those persons, shall not be entitled to receive any amount from, or out of, the assets of the failed DI Scheme member until the Agency has been reimbursed in full the amount of compensation paid to those persons and any expenses under subsection (5).
 
-(5) Notwithstanding any provision in the Companies Act (Cap. 50), the Agency shall be entitled —
+(5) Despite any provision in the Companies Act, the Agency is entitled —
 
-(a) in the case where the failed DI Scheme member is wound up, to be reimbursed out of the assets of the failed DI Scheme member for the expenses incurred in —
+(a) in the case where the failed DI Scheme member is wound up, to be reimbursed out of the assets of the failed DI Scheme member for the expenses incurred for or in respect of —
 
-(i) the payment of any compensation to insured depositors including any interest charged on moneys borrowed by the Agency for the purpose of making payment of any compensation to insured depositors under the DI Scheme; and
+(i) the payment of any compensation to any insured depositor, including any interest charged on moneys borrowed by the Agency for the purpose of making payment of any compensation to any insured depositor under the DI Scheme;
 
-(ii) the lodging of any claim with the liquidator of the failed DI Scheme member for any compensation that has been paid out to insured depositors; or
+(ii) the lodging of any claim with the liquidator of the failed DI Scheme member for any compensation that has been paid out to any insured depositor;
 
-(b) in any other case, to be reimbursed by the failed DI Scheme member or the provisional liquidator of the failed DI Scheme member, as the case may be, for the expenses incurred in —
+(iii) any communication with any insured depositor and the public on, or relating to, the payment of any compensation to any insured depositor under the DI Scheme; and
 
-(i) the payment of any compensation to insured depositors, including any interest charged on moneys borrowed by the Agency for the purpose of making payment of any compensation to insured depositors under the DI Scheme; and
+(iv) such other matters as may be prescribed by the Authority; and
 
-(ii) where a claim has been lodged with the provisional liquidator of the failed DI Scheme member for any compensation that has been paid out to insured depositors, the lodging of the claim.
+(b) in any other case, to be reimbursed by the failed DI Scheme member or the provisional liquidator of the failed DI Scheme member, as the case may be, for the expenses incurred for or in respect of —
 
-(6) The Authority may by regulations, provide for the manner, process or method by which the Agency may exercise its rights to be subrogated to the rights and remedies as set out in subsection (1).
+(i) the payment of any compensation to any insured depositor, including any interest charged on moneys borrowed by the Agency for the purpose of making payment of any compensation to any insured depositor under the DI Scheme;
+
+(ii) the lodging of any claim with the provisional liquidator of the failed DI Scheme member for any compensation that has been paid out to any insured depositor;
+
+(iii) any communication with any insured depositor and the public on, or relating to, the payment of any compensation to any insured depositor under the DI Scheme; and
+
+(iv) such other matters as may be prescribed by the Authority.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(6) The Authority may by regulations —
+
+(a) provide for the manner, process or method by which the Agency may exercise its rights to be subrogated to the rights and remedies as set out in subsection (1); and
+
+(b) prescribe the matters mentioned in subsection (5)(a)(iv) and (b)(iv).
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (7) For the purposes of making payment of compensation by the Agency to the Public Trustee under subsection (3) and payment of compensation by the Public Trustee to insured depositors and any person referred to in section 22(7), the Authority may, with the concurrence of the Public Trustee and in consultation with the Agency, make regulations for or in respect of all or any of the following matters:
 
@@ -1107,6 +1235,48 @@ the Agency may recover the amount paid in error or excess from the person who re
 (d) in the case where the winding up of the failed DI Scheme member has completed and the Agency has recovered from the liquidator in full the compensation which it paid out to the insured depositors, the Agency shall pay the recovered amount to the Official Receiver to be placed to the credit of the Companies Liquidation Account.
 
 (5) Section 322(3), (6), (7), (8) and (9) of the Companies Act (Cap. 50) shall apply, with the necessary modifications, to the money paid to the Official Receiver under subsection (4)(c) and (d).
+
+### Duties of liquidators in winding up of DI Scheme member
+
+28A\.—(1) A person who —
+
+(a) is appointed as a liquidator under the Companies Act for the winding up of a DI Scheme member; and
+
+(b) has been approved by the Authority as such under section 54(4) of the Monetary Authority of Singapore Act (Cap. 186),
+
+(called in this section the liquidator) must, in carrying out its functions as a liquidator, work together with the Agency to ensure that any insured depositor who is entitled to receive compensation from the DI Fund receives payment from the Agency as soon as is reasonably practicable.
+
+(2) The Authority may, by written notice to the liquidator, require the liquidator to give the Agency such information and reasonable assistance as the Authority considers necessary —
+
+(a) to ensure that any insured depositor who is entitled to receive compensation from the DI Fund receives payment from the Agency as soon as is reasonably practicable; and
+
+(b) to enable the Agency to fulfil its objects and discharge its functions under this Act.
+
+(3) Despite any written law or rule of law but subject to subsection (4), the liquidator must not, without the prior written approval of the Authority, sell or transfer any assets of the DI Scheme member being wound up to —
+
+(a) any person who provides services in connection with the winding up of the DI Scheme member; or
+
+(b) any person working for or on behalf of —
+
+(i) the Agency;
+
+(ii) the Authority; or
+
+(iii) a person mentioned in paragraph (a).
+
+(4) Subsection (3) does not prevent the payment by the liquidator of any debt of the DI Scheme member being wound up in accordance with any written law or rule of law relating to the winding up of companies.
+
+(5) Any sale or transfer of assets by the liquidator in contravention of subsection (3) is void.
+
+(6) Any liquidator who —
+
+(a) without reasonable excuse, fails to comply with subsection (1), or any notice issued by the Authority under subsection (2); or
+
+(b) being required to provide information to the Agency under subsection (2), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Powers of liquidator in respect of claims against insured depositor
 
@@ -1309,13 +1479,29 @@ POLICY OWNERS’ PROTECTION LIFE FUND AND POLICY OWNERS’ PROTECTION GENERAL FU
 
 (iii) the administration and management of the Agency and the performance of the duties and functions of the Agency in respect of the PPF Scheme under this Act;
 
-(iv) the conduct of any investigation by the Agency for the purpose of determining the entitlement of insured policy owners or beneficiaries to any compensation;
+(iv) the conduct of any investigation by the Agency for the purpose of determining the entitlement of any covered party to any compensation;
 
-(v) the transfer of the whole or part of the insurance business of a failed PPF Scheme member to another insurer; and
+[Act 31 of 2018 wef 01/04/2019]
+
+(v) the transfer of the whole or part of the insurance business of a failed PPF Scheme member to another insurer;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (vi) the run-off of the insurance business of a failed PPF Scheme member;
 
+(vii) the termination of any insured policy issued by a failed PPF Scheme member; and
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(viii) the raising and repayment of any loan for, or in connection with, any of the above expenses;
+
+[Act 31 of 2018 wef 01/04/2019]
+
 (b) the payment of any fees to agents appointed by the Agency for the purposes of carrying out any services in respect of the PPF Scheme under this Act;
+
+(ba) the repayment of any moneys borrowed by the Agency for the purpose of performing its functions and the payment of any expenses and interest incurred in connection with the moneys borrowed;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (c) the withdrawal of all other moneys authorised or determined to be paid out of the PPF Life Fund and the PPF General Fund in accordance with this Act.
 
@@ -1345,7 +1531,9 @@ LEVIES FOR PPF SCHEME
 
 ### Levies payable by PPF Scheme members
 
-37\.—(1) Every PPF Scheme member shall, from the effective date appointed under section 46(5), pay a levy for any premium year or part thereof in respect of the insured policies issued by the PPF Scheme member.
+37\.—(1) Every PPF Scheme member shall pay a levy for any premium year or part thereof in respect of the insured policies issued by the PPF Scheme member.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (2) Subject to the provisions of this Act, the levy shall be of such amount as may be computed by the Authority under section 38.
 
@@ -1403,11 +1591,13 @@ compute the amount of levy payable by the PPF Scheme member for any premium year
 
 ### Additional levies where PPF Life Fund or PPF General Fund insufficient to pay compensation
 
-40\.—(1) Where, in the opinion of the Authority, there are insufficient moneys in the PPF Life Fund or the PPF General Fund, as the case may be, to pay any compensation due to insured policy owners or beneficiaries, or to fund any transfer or run-off of the insurance business of any failed PPF Scheme member under this Act, the Authority may, with the concurrence of the Agency, determine —
+40\.—(1) Where, in the opinion of the Authority, there are insufficient moneys in the PPF Life Fund or the PPF General Fund, as the case may be, to pay any compensation due to any covered party, to fund any transfer or run‑off of the insurance business of any failed PPF Scheme member, or to fund the termination of any insured policy issued by a failed PPF Scheme member under this Act, the Authority may, with the concurrence of the Agency, determine —
 
 (a) that PPF Scheme members shall be required to pay additional levies for any premium year or part thereof; and
 
 (b) the levy rate or rates for the purposes of computing the additional levies.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (2) Where a determination is made under subsection (1) —
 
@@ -1509,77 +1699,171 @@ COMPENSATION AND USE OF PPF LIFE FUND AND PPF GENERAL FUND
 
 ### Occurrence of events precipitating compensation or use of PPF Life Fund and PPF General Fund
 
-46\.—(1) Where, on or after the effective date —
+46\.—(1) Where —
 
-(a) an order is made by a court in Singapore or elsewhere to wind up a PPF Scheme member;
+(a) on or after 1 September 2011, an order is made by a court in Singapore or elsewhere to wind up a PPF Scheme member;
 
-(b) the Authority is of the opinion that a PPF Scheme member is insolvent, unable or likely to become unable to meet its obligations, or about to suspend payments; or
+(b) on or after the date of commencement of section 11(a) of the Deposit Insurance and Policy Owners’ Protection Schemes (Amendment) Act 2018, a PPF Scheme member is voluntarily wound up under the Companies Act or under the law of a country or territory outside Singapore;
 
-(c) the Authority is exercising or is likely to exercise, or has exercised its powers under Part IVB of the Monetary Authority of Singapore Act in relation to a PPF Scheme member,
+(c) on or after the date of commencement of section 11(a) of the Deposit Insurance and Policy Owners’ Protection Schemes (Amendment) Act 2018, an order is made, in respect of a PPF Scheme member that is a co‑operative society registered under the Co‑operative Societies Act, cancelling its registration under section 89(1) of that Act;
 
-[Act 31 of 2017 wef 29/10/2018]
+(d) on or after 1 September 2011, the Authority is of the opinion that a PPF Scheme member is insolvent, unable or likely to become unable to meet its obligations, or about to suspend payments; or
 
-the Authority may determine —
+(e) on or after 1 September 2011, the Authority is exercising or is likely to exercise, or has exercised, its powers under Part IVB of the Monetary Authority of Singapore Act (Cap. 186) in relation to a PPF Scheme member,
 
-(i) that compensation shall be paid out of the PPF Life Fund or the PPF General Fund to the insured policy owners, and also to the beneficiaries in the case of insured policies covered under the PPF General Fund which provide third party benefits, in accordance with this Act; or
+the Authority may determine that the PPF Life Fund or the PPF General Fund be utilised for one or more of the purposes mentioned in subsection (1A).
 
-(ii) that the PPF Life Fund or the PPF General Fund be utilised for either or both of the following purposes:
+[Act 31 of 2018 wef 01/04/2019]
 
-(A) to fund, whether in whole or in part, the transfer of the whole or part of the business of the failed PPF Scheme member to another insurer;
+(1A) The purposes mentioned in subsection (1) are —
 
-(B) to fund the run-off of the insurance business of the failed PPF Scheme member without taking in any new insurance business or renewing any existing policies (other than a policy which has a provision providing for guaranteed renewability).
+(a) to pay compensation out of the PPF Life Fund or the PPF General Fund to any covered party in accordance with this Act;
+
+(b) to fund, whether in whole or in part, the transfer of the whole or part of the business of the PPF Scheme member to another insurer;
+
+(c) to fund the run-off of the insurance business of the PPF Scheme member without taking in any new insurance business or renewing any existing policies (other than a policy which has a provision providing for guaranteed renewability); and
+
+(d) to fund the termination of any insured policy issued by the PPF Scheme member.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(1B) For the purposes of subsection (1A) —
+
+(a) the reference in paragraph (b) of that subsection to funding the transfer of the whole or part of the business of the PPF Scheme member to another insurer includes the payment of compensation out of the PPF Life Fund or the PPF General Fund to any covered party in accordance with this Act that is made following from, or in consequence of, the transfer;
+
+(b) the reference in paragraph (c) of that subsection to funding the run-off of the insurance business of the PPF Scheme member includes the payment of compensation out of the PPF Life Fund or the PPF General Fund to any covered party in accordance with this Act that is made following from, or in consequence of, the run‑off of the insurance business; and
+
+(c) the reference in paragraph (d) of that subsection to funding the termination of any insured policy issued by the PPF Scheme member includes the payment of compensation out of the PPF Life Fund or the PPF General Fund to any covered party in accordance with this Act that is made following from, or in consequence of, the termination,
+
+and similar references in other parts of this Act are also to be construed accordingly.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (2) Where the Authority makes any determination referred to in subsection (1), the Authority shall immediately give notice in writing to the Agency of its determination.
 
 (3) The notice in writing referred to in subsection (2) shall be in such form and contain such information as may be agreed between the Authority and the Agency.
 
-(4) The Agency shall, as soon as practicable upon receiving the notice referred to in subsection (2), publish a notification in theGazettestating that a payment of compensation shall be made out of the PPF Life Fund or the PPF General Fund, or that the PPF Life Fund or the PPF General Fund shall be utilised to fund the transfer or run-off of the insurance business of the failed PPF Scheme member, as the case may be.
+(4) The Agency shall, as soon as practicable upon receiving the notice referred to in subsection (2), publish a notification in theGazettestating that a payment of compensation shall be made out of the PPF Life Fund or the PPF General Fund, or that the PPF Life Fund or the PPF General Fund shall be utilised to fund the transfer or run-off of the insurance business of the failed PPF Scheme member, or to fund the termination of any insured policy issued by the failed PPF Scheme member, as the case may be.
 
-(5) For the purposes of this Act, the Minister shall by notification in theGazette1appoint a date to be the effective date.
+[Act 31 of 2018 wef 01/04/2019]
 
-1The effective date is 1st September 2011 – vide S 431/2011.
+(5) Where the Authority has made a determination under subsection (1) that the PPF Life Fund or the PPF General Fund be utilised for the purpose mentioned in subsection (1A)(c), the Authority may make a further determination that the PPF Life Fund or the PPF General Fund, as the case may be, be utilised for one or more of the purposes mentioned in subsection (1A)(b) or (d).
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(6) Where the Authority makes a determination under subsection (5), the Authority must immediately give notice in writing of its determination to the Agency, and subsections (3) and (4) apply to that notice as if it were a notice given under subsection (2).
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(7) Upon receipt of the notice mentioned in subsection (2) or (6), the Agency must take all steps necessary to give effect to the Authority’s determination.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Entitlement to compensation for life business
 
-47\.—(1) Subject to subsection (2) and section 49, where an insured policy owner has one or more insured policies covered under the PPF Life Fund, issued by a failed PPF Scheme member, which —
+47\.—(1) Subject to subsections (3) and (6) and section 49, where an insured policy owner has one or more insured policies covered under the PPF Life Fund issued by a failed PPF Scheme member which —
 
-(a) is issued to the insured policy owner; or
+(a) is or are issued to the insured policy owner; or
 
-(b) is issued to the insured policy owner jointly with one or more other persons as joint policy owners,
+(b) is or are issued to the insured policy owner jointly with one or more other persons as joint policy owners,
 
-the insured policy owner shall be entitled to compensation from the PPF Life Fund of one or more of the following amounts:
+a covered party is entitled to compensation from the PPF Life Fund of one or more of the amounts mentioned in subsection (2).
 
-(i) in the case of a Category 1 insured policy referred to in the Second Schedule, an amount equivalent to the product of the protection ratio referred to in paragraph 2(a) of the Fourth Schedule and the amount of policy moneys payable in respect of that insured policy;
+(2) The amounts mentioned in subsection (1) are —
 
-(ii) in the case of a Category 2 insured policy referred to in the Second Schedule, an amount equivalent to —
+(a) in the case of a Category 1 insured policy mentioned in the Second Schedule, an amount equivalent to the product of the protection ratio mentioned in paragraph 2(a) of the Fourth Schedule and the amount of policy moneys payable in respect of that insured policy;
 
-(A) the product of the protection ratio for sum assured referred to in paragraph 2(b) of the Fourth Schedule and the sum assured guaranteed under that insured policy in the event that a claim event occurs before the quantification date; or
+(b) in the case of a Category 2 insured policy mentioned in the Second Schedule, an amount equivalent to —
 
-(B) the product of the protection ratio for surrender value referred to in paragraph 2(c) of the Fourth Schedule and the surrender value guaranteed under that insured policy in the event that the insured policy owner has given notice in writing to the failed PPF Scheme member to surrender that insured policy before the quantification date;
+(i) the product of the protection ratio for the sum assured mentioned in paragraph 2(b) of the Fourth Schedule and the sum assured guaranteed under that insured policy, or (if part of the sum assured guaranteed under that insured policy had previously been paid out under the insured policy) the remaining amount of the sum assured in the event that a claim event occurs before the quantification date;
 
-(iii) in the case of a Category 3 insured policy referred to in the Second Schedule, an amount equivalent to the product of the protection ratio referred to in paragraph 2(d) of the Fourth Schedule and the amount of policy moneys guaranteed to be payable under the annuity by the failed PPF Scheme member;
+(ii) the product of the protection ratio for the surrender value mentioned in paragraph 2(c) of the Fourth Schedule and, as the case may be —
 
-(iv) in the case of a Category 4 insured policy referred to in the Second Schedule, an amount equivalent to —
+(A) the surrender value guaranteed under that insured policy in the event that the insured policy owner, or the trustee of the trust of the insured policy, has given notice in writing to the failed PPF Scheme member to surrender that insured policy before the quantification date; or
 
-(A) the product of the protection ratio for sum assured referred to in paragraph 2(e)(i) of the Fourth Schedule and the sum assured guaranteed under that insured policy in the event that a claim event occurs before the quantification date;
+(B) the remaining amount of the surrender value guaranteed under that insured policy in the event that payment of claims had been made to a covered party before the quantification date; or
 
-(B) the product of the protection ratio for surrender value referred to in paragraph 2(e)(ii) of the Fourth Schedule and the surrender value guaranteed under that insured policy in the event of a surrender before the quantification date; or
+(iii) the sum of sub-paragraphs (i) and (ii), where applicable;
 
-(C) the product of the protection ratio for the commuted value referred to in paragraph 2(e)(iii) of the Fourth Schedule and the amount of policy moneys which are guaranteed to be payable in the case of an annuity.
+(c) in the case of a Category 3 insured policy mentioned in the Second Schedule, an amount equivalent to the product of the protection ratio mentioned in paragraph 2(d) of the Fourth Schedule and the amount of policy moneys guaranteed to be payable under the annuity by the failed PPF Scheme member; and
 
-(2) Where a claim event for an insured policy has occurred or where an insured policy has been terminated, on or before the quantification date, the amount of compensation referred to in subsection (1) shall be an amount after deducting any outstanding loan taken out against that insured policy.
+(d) in the case of a Category 4 insured policy mentioned in the Second Schedule, an amount equivalent to —
+
+(i) the product of the protection ratio for the sum assured mentioned in paragraph 2(e)(i) of the Fourth Schedule and the sum assured guaranteed under that insured policy in the event that a claim event occurs before the quantification date;
+
+(ii) the product of the protection ratio for the surrender value mentioned in paragraph 2(e)(ii) of the Fourth Schedule and the surrender value guaranteed under that insured policy in the event of a surrender before the quantification date; or
+
+(iii) the product of the protection ratio for the commuted value mentioned in paragraph 2(e)(iii) of the Fourth Schedule and the amount of policy moneys which are guaranteed to be payable in the case of an annuity.
+
+(3) Subject to subsection (4), where any of the insured policies mentioned in subsection (1) is an insured policy which is covered under the PPF Life Fund —
+
+(a) the insured policy owner;
+
+(b) the trustee of a trust of the insured policy;
+
+(c) any beneficiary of the insured policy; or
+
+(d) any combination of persons mentioned in paragraph (a), (b) or (c),
+
+is or are entitled to compensation from the PPF Life Fund of the full amount of the protected liabilities in respect of the insured policy.
+
+(4) Where a combination of the persons mentioned in subsection (3)(d) are entitled to compensation from the PPF Life Fund, their total compensation must not exceed the full amount of the protected liabilities in respect of the insured policy.
+
+(5) The determination of the amount of compensation payable under an insured policy mentioned in subsection (2) must only include the accumulated values (including interest which has accrued on such values) of coupon deposits, advance premium payments and unclaimed moneys under the insured policy, insofar as they relate to an insured policy that provides fully guaranteed or partially guaranteed benefits.
+
+(6) Where a claim event for an insured policy has occurred, or where an insured policy has been terminated, on or before the quantification date, there must be deducted from the amount of compensation mentioned in subsection (2) —
+
+(a) any outstanding loan taken out against that insured policy; and
+
+(b) any outstanding premiums owed by the policy owner for that insured policy.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+### Entitlement to compensation for life business — refund of premiums and claim under accidental death insurance cover
+
+48\.—(1) Where an insured policy owner is expressly entitled under the contract of insurance in respect of an insured policy which is covered under the PPF Life Fund to a refund of premiums by a failed PPF Scheme member, a covered party is entitled to compensation from the PPF Life Fund for the premiums in full.
+
+(2) Where an accidental death insurance cover is provided by a PPF Scheme member to a customer before the inception of an insured policy, and an accidental death claim on the cover arises on or before the quantification date, the customer’s beneficiary is entitled to compensation from the PPF Life Fund for the accidental death benefit under the cover upon admission of the claim.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Entitlement to compensation for general business
 
-48\.—(1) Subject to subsection (2) and section 49, where an insured policy owner has one or more insured policies covered under the PPF General Fund issued by a failed PPF Scheme member, which —
+48A\.—(1) Subject to subsections (2), (4), (5) and (6) and section 49, where an insured policy owner has one or more insured policies covered under the PPF General Fund issued by a failed PPF Scheme member, which —
 
-(a) is issued to the insured policy owner; or
+(a) is or are issued to the insured policy owner; or
 
-(b) is issued to the insured policy owner jointly with one or more other persons as joint policy owners,
+(b) is or are issued to the insured policy owner jointly with one or more other persons as joint policy owners,
 
-the insured policy owner shall be entitled to compensation from the PPF General Fund of the aggregate amount of the protected liabilities in respect of all such insured policies.
+a covered party is entitled to compensation from the PPF General Fund of the aggregate amount of the protected liabilities in respect of the insured policy or all such insured policies.
 
-(2) Where any of the insured policies referred to in subsection (1) is an insured policy covered under the PPF General Fund which provides third party benefits, the insured policy owner or any beneficiary or both shall be entitled to compensation from the PPF General Fund of the full amount of the protected liabilities in respect of such insured policy.
+(2) The entitlement to compensation under subsection (1) is subject to the maximum amount of compensation that is prescribed by the Authority for the class or type of insured policy or claim event, or both.
+
+(3) The Authority may make regulations to prescribe the maximum amount of compensation that a covered party is entitled to under subsection (1) for each class or type of insured policy or claim event, or both.
+
+(4) Subject to subsection (5), where any of the insured policies mentioned in subsection (1) is an insured policy which is covered under the PPF General Fund —
+
+(a) the insured policy owner;
+
+(b) the trustee of a trust of the insured policy;
+
+(c) any beneficiary of the insured policy; or
+
+(d) any combination of persons mentioned in paragraph (a), (b) or (c),
+
+is or are entitled to compensation from the PPF General Fund of the full amount of the protected liabilities in respect of the insured policy.
+
+(5) Where a combination of the persons mentioned in subsection (4)(d) is entitled to compensation from the PPF General Fund, their total compensation must not exceed the full amount of the protected liabilities in respect of the insured policy.
+
+(6) Where a claim event for an insured policy has occurred, or where an insured policy has been terminated, on or before the quantification date, the compensation under subsection (1) is to be reduced by the amount of all outstanding premiums due under the insured policy at the time of the claim event.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+### Entitlement to compensation for general business — refund of premiums
+
+48B\. Where an insured policy owner is expressly entitled under the contract of insurance in respect of an insured policy which is covered under the PPF General Fund to a refund of premiums by a failed PPF Scheme member, a covered party is entitled to compensation from the PPF General Fund for the premiums in full.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Joint insured policies
 
@@ -1591,25 +1875,57 @@ the insured policy owner shall be entitled to compensation from the PPF General 
 
 ### Restrictions on entitlement to compensation under PPF Scheme
 
-50\. Where, in respect of any insured policy, the Agency has paid —
+50\. A person is not entitled to compensation under this Part in respect of an insured policy, or an accidental death insurance cover mentioned in section 48(2), if the Agency has, in respect of the insured policy or accidental death insurance cover, paid to —
 
-(a) to any insured policy owner the full amount of compensation payable to him in respect of the insured policy in accordance with this Act; or
+(a) the insured policy owner;
 
-(b) to any insured policy owner or beneficiary or both, the full amount of compensation payable to him or them in accordance with this Act, in the case where the insured policy is covered under the PPF General Fund and provides third party benefits,
+(b) a trustee of a trust of the insured policy;
 
-no other person is entitled, in respect of those insured policies, to compensation under this Part.
+(c) a beneficiary of the insured policy or the accidental death insurance cover;
+
+(d) the insured policy owner and a beneficiary of the insured policy or the accidental death insurance cover; or
+
+(e) a trustee of a trust of the insured policy and a beneficiary of the insured policy or the accidental death insurance cover,
+
+as the case may be, the full amount of compensation payable to the person or persons in accordance with this Act.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+### Cessation of coverage under PPF Scheme
+
+50A\.—(1) If a determination is made by the Authority for the utilisation of the PPF Life Fund under section 46(1), the insured policy owner of an insured policy which —
+
+(a) is covered by the PPF Life Fund; and
+
+(b) is issued by the PPF Scheme member in relation to which the determination was made,
+
+is not entitled to exercise any settlement option contained in a contract of insurance for the insured policy on or after the quantification date.
+
+(2) Where a settlement option contained in a contract of insurance for an insured policy which is covered by the PPF Life Fund has been exercised before the quantification date —
+
+(a) the insured policy ceases to be covered under the PPF Life Fund as at the date on which the settlement option was exercised; and
+
+(b) a covered party is not entitled to any compensation under this Part.
+
+(3) In this section, “settlement option” means an option that is exercisable by a covered party upon the surrender or maturity of an insured policy, or upon a claim being made under an insured policy —
+
+(a) to leave the policy moneys ascertained to be due and payable under the policy with the insurer which issued the policy to further accrue interest on or to invest the payments; or
+
+(b) to convert the otherwise lump sum payment of the policy moneys ascertained to be due and payable under the policy to instalment payments over a fixed period.
+
+(4) This section only applies in respect of a settlement option contained in a contract for an insured policy if, apart from the payment of the principal and interest or gains, or the instalment payments, as a result of exercising the option set out in subsection (3), no further policy moneys are payable under the insured policy on the happening of any contingency after the exercise of the option.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Computation and method of payment of compensation under PPF Scheme
 
-51\.—(1) The Agency shall compute the amount of compensation due to an insured policy owner in respect of his insured policies, or a beneficiary in the case where an insured policy is covered under the PPF General Fund and provides third party benefits, issued by a failed PPF Scheme member in accordance with this Act.
+51\.—(1) The Agency must compute in accordance with this Act the amount of compensation due to a covered party under an insured policy which is covered under the PPF Life Fund or the PPF General Fund issued by a failed PPF Scheme member.
 
-(2) In determining —
+[Act 31 of 2018 wef 01/04/2019]
 
-(a) the eligibility and entitlement of an insured policy owner to compensation and computing the amount of compensation due to an insured policy owner; and
+(2) The Agency is entitled to rely on the books of the failed PPF Scheme member, and any other books that the Agency thinks relevant, for the purpose of determining the eligibility of, the entitlement to, and the amount of compensation due to a covered party under an insured policy which is covered under the PPF Life Fund or the PPF General Fund that is issued by the failed PPF Scheme member.
 
-(b) the eligibility and entitlement of a beneficiary under an insured policy which is covered under the PPF General Fund and provides third party benefits to compensation and computing the amount of compensation due to such a beneficiary,
-
-the Agency is entitled to rely on the books of the failed PPF Scheme member and any other books which, in the opinion of the Agency, are relevant for such computation.
+[Act 31 of 2018 wef 01/04/2019]
 
 (3) Subject to subsection (4), the Agency shall pay the compensation in such form and manner as may be specified in the Rules.
 
@@ -1617,69 +1933,103 @@ the Agency is entitled to rely on the books of the failed PPF Scheme member and 
 
 (5) Without prejudice to the generality of subsection (4), such regulations may —
 
-(a) specify the person to whom, or the account into which, payment of compensation is to be made for the benefit of an insured policy owner who is entitled to compensation, or a beneficiary who is entitled to compensation under an insured policy which is covered under the PPF General Fund and provides third party benefits, under this Act; and
+(a) specify the person to whom, or the account into which, payment of compensation is to be made for the benefit of any covered party who is entitled to compensation under this Act; and
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (b) provide for the payment of compensation into an equivalent account with a financial institution and for such compensation to be held in that account in a manner equivalent to the manner of holding of the original insured policy.
 
 ### Subrogation
 
-52\.—(1) Upon payment out of the PPF Life Fund or the PPF General Fund of any compensation under this Act to, or for the benefit of, any insured policy owner in respect of his insured policy, or any beneficiary in the case of any insured policy which is covered under the PPF General Fund and provides third party benefits, the Agency shall be subrogated to the extent of such payment to all the rights and remedies of —
+52\.—(1) Upon payment out of the PPF Life Fund or the PPF General Fund of any compensation under this Act to, or for the benefit of, any covered party, the Agency shall be subrogated to the extent of such payment to all the rights and remedies of —
 
 (a) the insured policy owner;
 
-(b) the beneficiary; or
+(b) the beneficiary;
 
-(c) the person who received the compensation on behalf of the insured policy owner or beneficiary,
+[Act 31 of 2018 wef 01/04/2019]
+
+(c) the trustee of a trust of an insured policy; or
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(d) the person who received compensation on behalf of the insured policy owner, the trustee of a trust of an insured policy or the beneficiary,
+
+[Act 31 of 2018 wef 01/04/2019]
 
 as the case may be, in respect of the insured policy in priority over —
 
 (i) the rights and remedies of the insured policy owner or the person who received the compensation on behalf of the insured policy owner, as the case may be, in relation to that insured policy;
 
-(ii) in the case where the insured policy is covered under the PPF General Fund and provides third party benefits, the rights and remedies of the beneficiary or the person who received the compensation on behalf of the beneficiary, as the case may be, in relation to that insured policy; and
+(ii) in the case where the insured policy is covered under the PPF Life Fund or the PPF General Fund and provides third party benefits, the rights and remedies of the beneficiary or the person who received the compensation on behalf of the beneficiary, as the case may be, in relation to that insured policy; and
 
-(iii) the rights and remedies of any person who is subrogated, whether or not before the Agency’s subrogation, to the rights and remedies of any of the persons referred to in paragraphs (a), (b) and (c) in relation to that insured life policy,
+[Act 31 of 2018 wef 01/04/2019]
 
-and may maintain an action in respect of those rights and remedies in the name of the person referred to in paragraph (a), (b) or (c), as the case may be, or in the name of the Agency, subject to subsection (2).
+(iii) the rights and remedies of any person who is subrogated, whether or not before the Agency’s subrogation, to the rights and remedies of any of the persons referred to in paragraphs (a), (b), (c) and (d) in relation to that insured life policy,
 
-(2) Where the Agency maintains an action in respect of the rights and remedies in the name of the person referred to in subsection (1)(a), (b) or (c), as the case may be, the following provisions shall apply:
+[Act 31 of 2018 wef 01/04/2019]
+
+and may maintain an action in respect of those rights and remedies in the name of the person referred to in paragraph (a), (b), (c) or (d), as the case may be, or in the name of the Agency, subject to subsection (2).
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(2) Where the Agency maintains an action in respect of the rights and remedies in the name of the person referred to in subsection (1)(a), (b), (c) or (d), as the case may be, the following provisions shall apply:
 
 (a) in the case where the failed PPF Scheme member is not wound up, the Agency shall be entitled to recover the full amount of compensation claimed against the failed PPF Scheme member, notwithstanding any liabilities owing by the insured policy owner to the PPF Scheme member; and
 
 (b) in the case where the failed PPF Scheme member is wound up, the insolvency rules relating to set-off shall not apply in relation to the rights and remedies of the insured policy owner.
 
-(3) For the purposes of subsection (1), where the Agency is unable to effect payment to an insured policy owner, or a beneficiary in the case where the insured policy is covered under the PPF General Fund and provides third party benefits (due to incorrect or outdated addresses, in respect of accounts which are dormant or any other reasons beyond the reasonable control of the Agency), the Agency shall be deemed to have made payment out of the PPF Life Fund or the PPF General Fund, as the case may be, of compensation under this Act to, or for the benefit of —
+[Act 31 of 2018 wef 01/04/2019]
 
-(a) an insured policy owner in respect of his insured policy; or
+(3) For the purposes of subsection (1), where the Agency is unable to effect payment to any covered party (whether due to an incorrect or outdated address, a dormant account or any other reason beyond the reasonable control of the Agency), the Agency is treated as having made payment out of the PPF Life Fund or the PPF General Fund, as the case may be, of compensation under this Act to, or for the benefit of, the covered party, if the Agency makes payment of the compensation to the Public Trustee appointed under the Public Trustee Act (Cap. 260) to be held on trust for the covered party.
 
-(b) in the case where the insured policy is covered under the PPF General Fund and provides third party benefits, a beneficiary,
+[Act 31 of 2018 wef 01/04/2019]
 
-if the Agency makes payment of the compensation to the Public Trustee appointed under the Public Trustee Act (Cap. 260) to be held on trust for the insured policy owner or the beneficiary, as the case may be.
+(4) The persons referred to in paragraphs (a), (b), (c) and (d) of subsection (1), or any person who is subrogated, whether or not before the Agency’s subrogation, to the rights and remedies of those persons, shall not be entitled to receive any amount from, or out of, the assets of the failed PPF Scheme member until the Agency has been reimbursed in full the amount of compensation paid to those persons.
 
-(4) The persons referred to in paragraphs (a), (b) and (c) of subsection (1), or any person who is subrogated, whether or not before the Agency’s subrogation, to the rights and remedies of those persons, shall not be entitled to receive any amount from, or out of, the assets of the failed PPF Scheme member until the Agency has been reimbursed in full the amount of compensation paid to those persons.
+[Act 31 of 2018 wef 01/04/2019]
 
-(5) Notwithstanding any provision in the Companies Act (Cap. 50), the Agency shall be entitled —
+(5) Despite any provision in the Companies Act or the Co‑operative Societies Act, the Agency is entitled —
 
-(a) in the case where the failed PPF Scheme member is wound up, to be reimbursed out of the assets of the failed PPF Scheme member for the expenses incurred in —
+(a) in the case where a failed PPF Scheme member is wound up or dissolved, to be reimbursed out of the assets of the failed PPF Scheme member for the expenses incurred for or in respect of —
 
-(i) the payment of any compensation to insured policy owners and beneficiaries including any interest charged on moneys borrowed by the Agency for the purpose of making payment of any compensation under the PPF Scheme; and
+(i) the payment of any compensation to any covered party, including any interest charged on moneys borrowed by the Agency for the purpose of making payment of any compensation under the PPF Scheme;
 
-(ii) the lodging of a claim with the liquidator of the failed PPF Scheme member for any compensation that has been paid out to insured policy owners and beneficiaries; or
+(ii) the lodging of any claim with the liquidator of the failed PPF Scheme member for any compensation that has been paid out to any covered party under the PPF Scheme;
 
-(b) in any other case, to be reimbursed by the failed PPF Scheme member or the provisional liquidator of the failed PPF Scheme member, as the case may be, for the expenses incurred in —
+(iii) any communication with any covered party and the public on, or relating to, the payment of any compensation to any covered party under the PPF Scheme; and
 
-(i) the payment of any compensation to insured policy owners and beneficiaries including any interest charged on moneys borrowed by the Agency for the purpose of making payment of any compensation under the PPF Scheme; and
+(iv) such other matters as may be prescribed by the Authority; or
 
-(ii) the lodging of a claim with the provisional liquidator of the failed PPF Scheme member for any compensation that has been paid out to insured policy owners and beneficiaries.
+(b) in any other case, to be reimbursed by the failed PPF Scheme member or the provisional liquidator of the failed PPF Scheme member, as the case may be, for the expenses incurred for or in respect of —
 
-(6) The Authority may by regulations, provide for the manner, process or method by which the Agency may exercise its rights to be subrogated to the rights and remedies as set out in subsection (1).
+(i) the payment of any compensation to any covered party, including any interest charged on moneys borrowed by the Agency for the purpose of making payment of any compensation under the PPF Scheme;
 
-(7) For the purposes of making payment of compensation by the Agency to the Public Trustee under subsection (3) and payment of compensation by the Public Trustee to insured policy owners and beneficiaries under this Act, the Authority may, with the concurrence of the Public Trustee and in consultation with the Agency, make regulations for or in respect of all or any of the following matters:
+(ii) the lodging of any claim with the provisional liquidator of the failed PPF Scheme member for any compensation that has been paid out to any covered party under the PPF Scheme;
 
-(a) the manner in which moneys paid by the Agency to the Public Trustee are to be paid to insured policy owners and beneficiaries under this Act;
+(iii) any communication with any covered party and the public on, or relating to, the payment of any compensation to any covered party under the PPF Scheme; and
+
+(iv) such other matters as may be prescribed by the Authority.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(6) The Authority may by regulations —
+
+(a) provide for the manner, process or method by which the Agency may exercise its rights to be subrogated to the rights and remedies as set out in subsection (1); and
+
+(b) prescribe the matters mentioned in subsection (5)(a)(iv) and (b)(iv).
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(7) For the purposes of making payment of compensation by the Agency to the Public Trustee under subsection (3) and payment of compensation by the Public Trustee to any covered party under this Act, the Authority may, with the concurrence of the Public Trustee and in consultation with the Agency, make regulations for or in respect of all or any of the following matters:
+
+(a) the manner in which moneys paid by the Agency to the Public Trustee are to be paid to any covered party under this Act;
 
 (b) the fees to be paid by the Agency to the Public Trustee and the manner of payment of such fees;
 
 (c) such other matters as the Authority considers necessary.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (8) The provisions in the Fifth Schedule shall apply in relation to the holding and payment of compensation by the Public Trustee to insured policy owners and beneficiaries under this Act.
 
@@ -1689,9 +2039,11 @@ if the Agency makes payment of the compensation to the Public Trustee appointed 
 
 53\.—(1) If —
 
-(a) any compensation paid to, or for the benefit of, an insured policy owner out of the PPF Life Fund or the PPF General Fund is in excess of what ought to have been paid to the insured policy owner under this Act;
+(a) any compensation paid to, or for the benefit of, any covered party is in excess of what ought to have been paid to the covered party under this Act; or
 
-(b) any compensation paid to, or for the benefit of, a beneficiary in the case where the insured policy is covered under the PPF General Fund and provides third party benefits out of the PPF General Fund is in excess of what ought to have been paid to the beneficiary under this Act; or
+[Act 31 of 2018 wef 01/04/2019]
+
+(b) [Deleted by Act 31 of 2018 wef 01/04/2019]
 
 (c) any compensation is paid in error to any person,
 
@@ -1703,53 +2055,181 @@ the Agency may recover the amount paid in error or excess from the person who re
 
 (4) Upon the recovery of any amount paid in error or excess from any person under this section (referred to in this section as the recovered amount), the Agency shall do the following:
 
-(a) in the case where the failed PPF Scheme member is not wound up or where the winding up of the failed PPF Scheme member has not completed and the Agency has not recovered or has not recovered in full from the failed PPF Scheme member or its liquidator, as the case may be, the compensation which it paid out to the insured policy owners or the beneficiaries in the case where the insured policies are covered under the PPF General Fund and provides third party benefits, the Agency shall deduct from the recovered amount the shortfall in compensation and pay such deducted amount to the PPF Life Fund or the PPF General Fund, as the case may be, and pay the amount remaining from the recovered amount after the deduction, if any, to the failed PPF Scheme member or its liquidator, as the case may be;
+(a) in the case where the failed PPF Scheme member is not wound up or where the winding up of the failed PPF Scheme member has not completed and the Agency has not recovered or has not recovered in full from the failed PPF Scheme member or its liquidator, as the case may be, the compensation which it paid out to the covered party, the Agency shall deduct from the recovered amount the shortfall in compensation and pay such deducted amount to the PPF Life Fund or the PPF General Fund, as the case may be, and pay the amount remaining from the recovered amount after the deduction, if any, to the failed PPF Scheme member or its liquidator, as the case may be;
 
-(b) in the case where the failed PPF Scheme member is not wound up or where the winding up of the failed PPF Scheme member has not completed and the Agency has recovered from the failed PPF Scheme member or its liquidator, as the case may be, in full the compensation which it paid out to the insured policy owners or the beneficiaries in the case where the insured policies are covered under the PPF General Fund and provides third party benefits, the Agency shall pay the recovered amount to the failed PPF Scheme member or its liquidator, as the case may be;
+[Act 31 of 2018 wef 01/04/2019]
 
-(c) in the case where the winding up of the failed PPF Scheme member has completed and the Agency has not recovered or has not recovered in full from the liquidator the compensation which it paid out to the insured policy owners or the beneficiaries in the case where the insured policies are covered under the PPF General Fund and provides third party benefits, the Agency shall deduct from the recovered amount the shortfall in compensation and pay such deducted amount to the PPF Life Fund or the PPF General Fund, as the case may be, and pay the amount remaining from the recovered amount after the deduction, if any, to the Official Receiver to be placed to the credit of the Companies Liquidation Account; and
+(b) in the case where the failed PPF Scheme member is not wound up or where the winding up of the failed PPF Scheme member has not completed and the Agency has recovered from the failed PPF Scheme member or its liquidator, as the case may be, in full the compensation which it paid out to the covered party, the Agency shall pay the recovered amount to the failed PPF Scheme member or its liquidator, as the case may be;
 
-(d) in the case where the winding up of the failed PPF Scheme member has completed and the Agency has recovered from the liquidator in full the compensation which it paid out to the insured policy owners or the beneficiaries in the case where the insured policies are covered under the PPF General Fund and provides third party benefits, the Agency shall pay the recovered amount to the Official Receiver to be placed to the credit of the Companies Liquidation Account.
+[Act 31 of 2018 wef 01/04/2019]
+
+(c) in the case where the winding up of the failed PPF Scheme member has completed and the Agency has not recovered or has not recovered in full from the liquidator the compensation which it paid out to the covered party, the Agency shall deduct from the recovered amount the shortfall in compensation and pay such deducted amount to the PPF Life Fund or the PPF General Fund, as the case may be, and pay the amount remaining from the recovered amount after the deduction, if any, to the Official Receiver to be placed to the credit of the Companies Liquidation Account; and
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(d) in the case where the winding up of the failed PPF Scheme member has completed and the Agency has recovered from the liquidator in full the compensation which it paid out to the covered party, the Agency shall pay the recovered amount to the Official Receiver to be placed to the credit of the Companies Liquidation Account.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (5) Section 322(3), (6), (7), (8) and (9) of the Companies Act (Cap. 50) shall apply, with the necessary modifications, to the money paid to the Official Receiver under subsection (4)(c) and (d).
 
-### Use of PPF Life Fund or PPF General Fund for transfer or run-off of insurance business
+### Use of PPF Life Fund or PPF General Fund for transfer or run-off of insurance business or for termination of insured policies
 
-54\.—(1) In determining —
+54\.—(1) In determining under section 46 —
 
-(a) whether the PPF Life Fund or the PPF General Fund is to be utilised to fund any transfer of the whole or part of the insurance business of the failed PPF Scheme member to another insurer or run-off of the insurance business of the failed PPF Scheme member pursuant to section 46; and
+(a) whether the PPF Life Fund or the PPF General Fund is to be utilised to fund —
+
+(i) any transfer of the whole or part of the insurance business of the failed PPF Scheme member to another insurer;
+
+(ii) any run-off of the insurance business of the failed PPF Scheme member; or
+
+(iii) any termination of insured policies issued by the failed PPF Scheme member; and
 
 (b) the amount of the PPF Life Fund or the PPF General Fund to be utilised,
 
-the Authority shall (without prejudice to any other factors that the Authority may consider relevant) have regard to —
+the Authority must (without limiting any other factor that the Authority may consider relevant) have regard to the factors in subsection (1A).
 
-(i) the cost of transferring the whole or part of the insurance business of the failed PPF Scheme member or the cost of the run-off, as the case may be, as compared to the cost of paying compensation to the insured policy owners or the beneficiaries in the case where the insured policies are covered under the PPF General Fund and provide third party benefits; and
+[Act 31 of 2018 wef 01/04/2019]
 
-(ii) the impact of not transferring the whole or part of the insurance business of the failed PPF Scheme member or not proceeding to run-off the insurance business of the failed PPF Scheme member, as the case may be.
+(1A) For the purposes of subsection (1), the factors are —
+
+(a) the costs of transferring the whole or part of the insurance business of the failed PPF Scheme member, running-off the insurance business of the failed PPF Scheme member, or terminating the insured policies issued by the failed PPF Scheme member, as the case may be; and
+
+(b) the impact of not transferring the whole or part of the insurance business of the failed PPF Scheme member, not running-off the insurance business of the failed PPF Scheme member, or not terminating the insured policies issued by the failed PPF Scheme member, as the case may be.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (2) For the purposes of subsection (1), the Authority shall, prior to notifying the Agency of its determination under section 46, obtain the approval of the Minister for the amount to be paid out of the PPF Life Fund or the PPF General Fund, as the case may be, by the Agency.
 
-(3) Where the insurance business of a failed PPF Scheme member is transferred to another insurer or the insurance business is run-off by the Agency or any person appointed to carry on such run-off —
+(3) Where the insurance business of a failed PPF Scheme member is transferred to another insurer, or the insurance business is run-off by the Agency or by a person appointed by the Agency or the Authority, and a contingency upon which policy moneys are payable under an insured policy issued by the failed PPF Scheme member occurs after the transfer, or during the run-off, of the insurance business —
 
-(a) the benefits that an insured policy owner is entitled to receive under his insured policy; or
+(a) the benefits that an insured policy owner, or a trustee of a trust, of an insured policy which is covered under the PPF Life Fund or the PPF General Fund is entitled to receive under the insured policy; or
 
-(b) the benefits that an insured policy owner or a beneficiary or both, as the case may be, are entitled to receive under an insured policy which is covered under the PPF General Fund and provides third party benefits,
+(b) in the case of an insured policy which is covered under the PPF Life Fund or the PPF General Fund and which provides third party benefits, the benefits that —
 
-in the event that the contingency upon which policy moneys are payable occurs after the transfer or during the run-off of the insurance business, shall be an amount not less than the protected liabilities in respect of his or the insured policy.
+(i) any insured policy owner;
 
-(4) For the purposes of subsection (3), the protected liabilities in respect of an insured policy of the insured policy owner shall be computed in accordance with the Third Schedule.
+(ii) any trustee of a trust of the insured policy;
+
+(iii) any beneficiary of the insured policy;
+
+(iv) any insured policy owner and any beneficiary of the insured policy; or
+
+(v) any trustee of a trust of the insured policy and any beneficiary of the insured policy,
+
+as the case may be, is or are entitled to receive under the insured policy,
+
+must be an amount not less than the protected liabilities in respect of the insured policy.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(3A) Where an insured policy issued by a failed PPF Scheme member is terminated by the Agency —
+
+(a) the benefits that a covered party is entitled to receive under an insured policy which is covered under the PPF Life Fund or the PPF General Fund; or
+
+(b) in the case of an insured policy which is covered under the PPF Life Fund or the PPF General Fund and which provides third party benefits, the benefits that —
+
+(i) any insured policy owner;
+
+(ii) any trustee of a trust of the insured policy;
+
+(iii) any beneficiary of the insured policy;
+
+(iv) any insured policy owner and any beneficiary of the insured policy; or
+
+(v) any trustee of a trust of the insured policy and any beneficiary of the insured policy,
+
+as the case may be, is or are entitled to receive under the insured policy,
+
+must be an amount not less than the protected liabilities in respect of the insured policy.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(3B) The entitlement to benefits mentioned in subsections (3) and (3A) is subject to the maximum amounts of benefits prescribed by the Authority for the class or type of insured policy.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(3C) The Authority may make regulations to prescribe the maximum amount of benefits that the persons mentioned in subsections (3) and (3A) are entitled to for each class or type of insured policy.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(4) For the purposes of subsections (3) and (3A), the protected liabilities in respect of an insured policy of the insured policy owner shall be computed in accordance with the Third Schedule.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (5) The Agency shall be entitled to be reimbursed by the failed PPF Scheme member or the provisional liquidator of the failed PPF Scheme member, as the case may be, for the expenses incurred in —
 
-(a) in the event of a transfer of the whole or part of the business from the failed PPF Scheme member to another insurer, the costs and expenses of such transfer; and
+(a) in the event of a transfer of the whole or part of the business from the failed PPF Scheme member to another insurer, the costs and expenses of such transfer;
 
-(b) in the event of the run-off of the whole or part of the business of the failed PPF Scheme member, the costs and expenses of setting up a company to run-off the insurance policies and outsourcing the administration of the insurance policies to a third party.
+[Act 31 of 2018 wef 01/04/2019]
+
+(b) in the event of the run-off of the whole or part of the business of the failed PPF Scheme member, the costs and expenses of setting up a company to run-off the insurance policies and outsourcing the administration of the insurance policies to a third party; and
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(c) in the event of the termination of insured policies issued by the failed PPF Scheme member, the costs and expenses of effecting such termination.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+[Act 31 of 2018 wef 01/04/2019]
+
+### Duties of liquidators in winding up of PPF Scheme member
+
+54A\.—(1) A person who —
+
+(a) is appointed as a liquidator under the Companies Act for the winding up of a PPF Scheme member; and
+
+(b) has been approved by the Authority as such under section 54(4) of the Monetary Authority of Singapore Act,
+
+(called in this section the liquidator) must, in carrying out its functions as a liquidator, work together with the Agency to ensure that any covered party who is entitled to receive compensation from the PPF Life Fund or the PPF General Fund receives payment from the Agency as soon as is reasonably practicable.
+
+(2) The Authority may, by written notice to the liquidator, require the liquidator to give the Agency such information and reasonable assistance as the Authority considers necessary —
+
+(a) to ensure that any covered party who is entitled to receive compensation from the PPF Life Fund or the PPF General Fund receives payment from the Agency as soon as is reasonably practicable; and
+
+(b) to enable the Agency to fulfil its objects and discharge its functions under this Act.
+
+(3) Despite any written law or rule of law but subject to subsection (4), the liquidator must not, without the prior written approval of the Authority, sell or transfer any assets of the PPF Scheme member being wound up to —
+
+(a) any person who provides services in connection with the winding up of the PPF Scheme member; or
+
+(b) any person working for or on behalf of —
+
+(i) the Agency;
+
+(ii) the Authority; or
+
+(iii) a person mentioned in paragraph (a).
+
+(4) Subsection (3) does not prevent the payment by the liquidator of any debt of the PPF Scheme member being wound up in accordance with any written law or rule of law relating to the winding up of companies.
+
+(5) Any sale or transfer of assets by the liquidator in contravention of subsection (3) is void.
+
+(6) Any liquidator who —
+
+(a) without reasonable excuse, fails to comply with subsection (1), or any notice issued by the Authority under subsection (2); or
+
+(b) being required to provide information to the Agency under subsection (2), knowingly or recklessly furnishes any information or document that is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $12,500 for every day or part of a day during which the offence continues after conviction.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Powers of liquidator in respect of claims against insured policy owner
 
 55\.—(1) Subject to subsection (3), notwithstanding any written law or rule of law, where —
 
-(a) the Agency has paid compensation to an insured policy owner, a beneficiary of an insured policy which is covered under the PPF General Fund and provides third party benefits, or both, as the case may be, out of the PPF Life Fund or the PPF General Fund in accordance with this Act;
+(a) the Agency has paid compensation out of the PPF Life Fund or the PPF General Fund in accordance with this Act to —
+
+(i) any insured policy owner;
+
+(ii) any trustee of a trust of an insured policy;
+
+(iii) any beneficiary of an accidental death insurance cover; or
+
+(iv) any combination of persons mentioned in sub‑paragraphs (i), (ii) and (iii);
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (b) such compensation is, or will be, accorded priority in the event of the winding up of the failed PPF Scheme member under section 49FR of the Insurance Act (Cap. 142); and
 
@@ -1764,6 +2244,10 @@ the liquidator may bring legal proceedings with respect to those claims in the n
 (2) Such moneys shall be recoverable as a debt due to the failed PPF Scheme member by the insured policy owner or any person who received compensation on behalf of the insured policy owner.
 
 (3) This section shall not apply to any moneys held by the Public Trustee pursuant to any payment of compensation by the Agency under section 52(3).
+
+(4) In this section, a reference to the insured policy owner includes, where compensation has been paid by the Agency under section 48(2) to a person entitled to accidental death benefit under the terms of an accidental death insurance cover provided by a PPF Scheme member to a customer before the inception of an insured policy, the customer of the PPF Scheme member.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ## PART X
 
@@ -1791,7 +2275,9 @@ DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 (b) make payments of compensation in respect of insured deposits to insured depositors out of the DI Fund after the Agency has determined the eligibility and entitlement of the depositors;
 
-(c) make payments of compensation in respect of protected liabilities to insured policy owners and beneficiaries of insured policies covered under the PPF General Fund which provide third party benefits out of the PPF Life Fund and the PPF General Fund after the Agency has determined their eligibility and entitlement;
+(c) make payments of compensation out of the PPF Life Fund and the PPF General Fund in respect of protected liabilities to any covered party after the Agency has determined the covered party’s eligibility and entitlement;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (d) make interim payments of compensation out of the DI Fund to insured depositors of such amounts as the Agency considers appropriate;
 
@@ -1799,9 +2285,13 @@ DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 [Act 31 of 2017 wef 29/10/2018]
 
-(e) make interim payments of compensation out of the PPF Life Fund and the PPF General Fund to insured policy owners and make interim payment of compensation out of the PPF General Fund to beneficiaries of insured policies which are covered under the PPF General Fund and provide third party benefits of such amounts as the Agency considers appropriate;
+(e) make interim payments of compensation, of such amounts as the Agency considers appropriate, out of the PPF Life Fund and the PPF General Fund to any covered party;
 
-(f) where the transfer of the whole or part of the insurance business from a failed PPF Scheme member to another PPF Scheme member is reasonably practicable, make payment out of the PPF Life Fund or the PPF General Fund to fund such transfer;
+[Act 31 of 2018 wef 01/04/2019]
+
+(f) where the transfer of the whole or part of the insurance business from a failed PPF Scheme member, or from a company set up to hold the insured policies of the failed PPF Scheme member, to another PPF Scheme member is reasonably practicable, make payment out of the PPF Life Fund or the PPF General Fund to fund such transfer;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (g) make payment out of the PPF Life Fund or the PPF General Fund to —
 
@@ -1813,29 +2303,61 @@ DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 (h) carry on the run-off of the insurance business of the failed PPF Scheme member and to set up a company to hold the insured policies of the failed PPF Scheme member;
 
+(ha) carry out the termination of insured policies issued by a failed PPF Scheme member and make payment out of the PPF Life Fund or the PPF General Fund to fund such termination;
+
+[Act 31 of 2018 wef 01/04/2019]
+
 (i) claim from the failed DI Scheme member for reimbursement of the amount of compensation paid to the insured depositors out of the DI Fund, together with any interest accrued thereon;
 
-(j) claim from the failed PPF Scheme member for reimbursement of the amount of compensation paid to the insured policy owners and beneficiaries of insured policies covered under the PPF General Fund which provide third party benefits out of the PPF Life Fund and the PPF General Fund, together with any interest accrued thereon;
+(j) claim from the failed PPF Scheme member for reimbursement of the amount of compensation paid to covered parties out of the PPF Life Fund or the PPF General Fund, together with any accrued interest;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (k) claim payment from the liquidator or provisional liquidator of a failed DI Scheme member, out of the assets of the failed DI Scheme member, for reimbursement of the amount of compensation paid to the insured depositors out of the DI Fund, together with any interest accrued thereon;
 
-(l) claim payment from the liquidator or provisional liquidator of a failed PPF Scheme member, out of the assets of the failed PPF Scheme member, for reimbursement of the amount of compensation paid to the insured policy owners and beneficiaries of insured policies covered under the PPF General Fund which provide third party benefits out of the PPF Life Fund or the PPF General Fund, together with any interest accrued thereon;
+(l) claim payment from the liquidator or provisional liquidator of a failed PPF Scheme member, out of the assets of the failed PPF Scheme member, for reimbursement of the amount of compensation paid to covered parties out of the PPF Life Fund or the PPF General Fund, together with any accrued interest;
 
-(m) educate the public on the DI Scheme and the PPF Scheme.
+[Act 31 of 2018 wef 01/04/2019]
+
+(m) educate the public on the DI Scheme and the PPF Scheme;
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(n) submit to the liquidator of a failed DI Scheme member a consolidated proof of debt on behalf of insured depositors of a failed DI Scheme member in relation to each of their insured deposits placed with the failed DI Scheme member that exceeds the Maximum DI Coverage.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (3) The Agency shall have the power to do anything for the purpose of fulfilling its objects and discharging its functions under this Act or any other written law, or which is incidental or conducive to the fulfilment of those objects and discharge of those functions.
 
-(4) Notwithstanding sections 9(4) and 34(5) and (6), the Agency may transfer to its account for the purpose of paying expenses of the Agency, moneys from the DI Fund, PPF Life Fund and PPF General Fund up to the amount approved under section 77 by the Minister as annual estimates and supplementary estimates of income and expenditure of the DI Fund, PPF Life Fund and PPF General Fund.
+(3A) Without affecting the generality of subsection (3), the Agency may —
 
-### Amendment to memorandum and articles of association of Agency
+(a) for the purpose of making payments of compensation to insured depositors in respect of their insured deposits under the DI Scheme, raise loans by means of a charge over the assets of the DI Fund; and
 
-58\.—(1) Notwithstanding any provision in the Companies Act (Cap. 50), the Agency shall not amend the memorandum and articles of association of the Agency without the prior approval of the Minister.
+(b) for the purpose of making payments out of the PPF Life Fund or the PPF General Fund, raise loans by means of a charge over the assets of the PPF Life Fund or the PPF General Fund.
 
-(2) Any amendment made to the memorandum and articles of association of the Agency without the prior approval of the Minister shall be void.
+[Act 31 of 2018 wef 01/04/2019]
+
+(4) Notwithstanding sections 9(4) and 34(5) and (6), the Agency may transfer to its account for the purpose of paying expenses of the Agency, moneys from the DI Fund, PPF Life Fund and PPF General Fund up to the amount approved under section 77 by the Minister as estimates and supplementary estimates of income and expenditure of the DI Fund, PPF Life Fund and PPF General Fund.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+### Amendment to constitution of Agency
+
+58\.—(1) Notwithstanding any provision in the Companies Act (Cap. 50), the Agency shall not amend the constitution of the Agency without the prior approval of the Minister.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(2) Any amendment made to the constitution of the Agency without the prior approval of the Minister shall be void.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Appointment of board of directors
 
-59\.—(1) This section shall have effect notwithstanding any provision in the Companies Act (Cap. 50) and the memorandum and articles of association of the Agency.
+59\.—(1) This section shall have effect notwithstanding any provision in the Companies Act (Cap. 50) and the constitution of the Agency.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (2) The board of directors of the Agency shall consist of —
 
@@ -1893,11 +2415,19 @@ DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 (d) the particulars to be recorded in, or in respect of, books kept by DI Scheme members for the purpose of computing the amount of insured deposits placed with the DI Scheme members, and the particulars to be recorded in, or in respect of, books kept by PPF Scheme members for the purpose of confirming the insured policies issued by the PPF Scheme members;
 
-(e) the manner in which compensation is to be paid to insured depositors and persons referred to in section 22(7) from the DI Fund, insured policy owners from the PPF Life Fund and the PPF General Fund, and beneficiaries of insured policies which are covered under the PPF General Fund and provide third party benefits from the PPF General Fund;
+(e) the manner in which compensation is to be paid to the following persons:
+
+(i) insured depositors and persons mentioned in section 22(7) from the DI Fund;
+
+(ii) any covered party from the PPF Life Fund and the PPF General Fund;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (f) the collection from any DI Scheme member by the Agency of any information in relation to its insured deposits and insured depositors, for the purpose of computing the amount of compensation which is to be paid to the insured depositors; and
 
-(g) the collection from any PPF Scheme member by the Agency of any information in relation to the insured policies, insured policy owners and beneficiaries of insured policies which are covered under the PPF General Fund and provide third party benefits, for the purpose of computing the amount of compensation which is to be paid to the insured policy owners or beneficiaries.
+(g) the collection from any PPF Scheme member by the Agency of any information in relation to the insured policies and any covered party for the purpose of computing the amount of compensation that is to be paid to the covered party.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (3) The Agency may, at any time, amend or revoke the whole or part of any Rule issued under this section.
 
@@ -1911,11 +2441,13 @@ DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 
 ### Regulations on disclosure and operational preparedness
 
-64\.—(1) The Authority may, for the purposes of ensuring disclosure of relevant information by the DI Scheme members and PPF Scheme members to the Agency, depositors, policy owners, customers or potential customers of the DI Scheme members and PPF Scheme members, make regulations for or in respect of all or any of the following matters:
+64\.—(1) The Authority may, for the purposes of ensuring disclosure of relevant information by the DI Scheme members and PPF Scheme members to the Agency, depositors, covered parties, customers or potential customers of the DI Scheme members and PPF Scheme members, make regulations for or in respect of all or any of the following matters:
 
 (a) the disclosure by DI Scheme members and PPF Scheme members as to whether their products are insured deposits or insured policies, as the case may be;
 
 (b) the manner of disclosure of relevant information by DI Scheme members and PPF Scheme members when they cease to be Scheme members.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (2) The Authority may, for the purposes of ensuring the operational preparedness of the DI Scheme members and PPF Scheme members in the event of an occurrence of any event precipitating the use of the DI Fund, PPF Life Fund or PPF General Fund, as the case may be, make regulations for or in respect of all or any of the following matters:
 
@@ -1928,6 +2460,10 @@ DEPOSIT INSURANCE AND POLICY OWNERS’ PROTECTION FUND AGENCY
 (3) The regulations made under subsection (1) may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $125,000 or with imprisonment for a term not exceeding 3 years or with both and, in the case of a continuing offence, with a further fine of $12,500 for every day or part thereof during which the offence continues after conviction.
 
 (4) The regulations made under subsection (2) may provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $125,000 and, in the case of a continuing offence, with a further fine of $12,500 for every day or part thereof during which the offence continues after conviction.
+
+(5) Any DI Scheme member or PPF Scheme member which in purported compliance with the regulations made under this section, without reasonable care, discloses any information that is inaccurate, false or misleading, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Power of court to order observance of or compliance with Rules
 
@@ -2017,7 +2553,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 69\.—(1) Any person who furnishes the Authority or the Agency with any information under or for the purposes of any provision of this Act shall use due care to ensure that the information is not false or misleading in any material particular.
 
-(2) Subsection (1) applies only to a requirement in relation to which no other provision of this Act creates an offence in connection with the furnishing of information.
+(2) Subsection (1) applies only to a requirement in relation to which no other provision of this Act creates an offence in connection with the furnishing of information that is false or misleading in a material particular.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000 or to imprisonment for a term not exceeding 3 years or to both.
 
@@ -2049,7 +2587,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (3) The Authority may make regulations to prescribe the offences which may be compounded.
 
-(4) All sums collected under this section shall be paid to the Authority.
+(4) All sums collected under this section must be paid into the Consolidated Fund.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ## PART XII
 
@@ -2067,11 +2607,15 @@ FINANCIAL AND AUDIT PROVISIONS
 
 76\. The Agency shall, as soon as practicable after the end of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Agency during the preceding financial year and containing such information relating to the proceedings and policy of the Agency as the Minister may, from time to time, direct.
 
-### Annual estimates
+### Three-year estimates of income and expenditure
 
-77\.—(1) The Agency shall, in every financial year, prepare or cause to be prepared annual estimates of income and expenditure of the DI Fund, the PPF Life Fund, the PPF General Fund and the Agency for the ensuing financial year and a supplementary estimate for any financial year.
+77\.—(1) The Agency must before the start of every period of 3 consecutive financial years beginning 1 April 2019, prepare or cause to be prepared estimates of income and expenditure of the DI Fund, the PPF Life Fund, the PPF General Fund and the Agency for the 3 ensuing financial years.
 
-(2) All annual estimates and supplementary estimates shall be presented to the Minister for his approval.
+(2) The Agency must also prepare or cause to be prepared a supplementary estimate for any financial year where the estimates prepared under subsection (1) are insufficient.
+
+(3) All estimates mentioned in subsections (1) and (2) must be presented to the Minister for his approval.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Reporting to Minister
 
@@ -2097,13 +2641,23 @@ MISCELLANEOUS
 
 (c) any person acting under the direction of the Agency,
 
-as a result of anything done (including any statement made) or omitted to be done with reasonable care and in good faith in —
+as a result of anything done (including any statement made) or omitted to be done in good faith in —
 
 (i) the exercise or purported exercise of any power under this Act;
 
 (ii) the performance or purported performance of any function or duty under this Act; or
 
 (iii) the execution or purported execution of this Act.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+### Indemnity for Agency’s officers against cost of action to which section 79 applies
+
+79A\.—(1) The Agency must indemnify a person mentioned in subsection (2) against all costs and expenses reasonably incurred by the person in connection with any action, suit or other legal proceedings to which the person is a party by reason of anything done (including any statement made) or omitted to be done in good faith in the course of or in connection with any of the matters mentioned in section 79(i), (ii) or (iii).
+
+(2) Subsection (1) applies to a person who was a person mentioned in section 79(b) or (c) at the time of the alleged act or omission giving rise to the action, suit or proceeding.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Preservation of confidentiality
 
@@ -2143,7 +2697,13 @@ as a result of anything done (including any statement made) or omitted to be don
 
 82\.—(1) The Authority may, subject to such conditions or restrictions as it thinks fit, appoint any person to exercise any of its powers or perform any of its functions or duties under this Act, either generally or in any particular case, except the power to make subsidiary legislation.
 
-(2) Any person appointed by the Authority under subsection (1) shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+(1A) The Authority may, by notification in theGazette, appoint one or more of its officers to exercise a power conferred on the Authority to grant an exemption to any person (not being an exemption granted to a class of persons) under this Act, or to revoke any such exemption.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(2) Any person appointed by the Authority under subsection (1) or (1A) shall be deemed to be a public servant for the purposes of the Penal Code (Cap. 224).
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Inspection of books of DI Scheme members and PPF Scheme members
 
@@ -2193,11 +2753,23 @@ at such time and in such manner as the Authority may reasonably require for the 
 
 (b) the information is disclosed in such a manner that the identity of an individual DI Scheme member or PPF Scheme member cannot be ascertained;
 
-(c) the DI Scheme member or PPF Scheme member consents to the disclosure; or
+(c) the DI Scheme member or PPF Scheme member consents to the disclosure;
 
-(d) disclosure of the information on individual DI Scheme member or PPF Scheme member is necessary for the Authority’s performance of its functions or in the exercise of its powers.
+[Act 31 of 2018 wef 01/04/2019]
+
+(d) disclosure of the information on individual DI Scheme member or PPF Scheme member is necessary for the Authority’s performance of its functions or in the exercise of its powers; or
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(e) disclosure of the information is required or authorised by an order of a court in Singapore, or by or under any written law.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (4) Any DI Scheme member or PPF Scheme member which fails to or neglects to furnish any information or produce any book required by the Authority under this section shall be guilty of an offence.
+
+(5) Any DI Scheme member or PPF Scheme member which in purported compliance with subsection (1), without reasonable care, provides any information or produces any book that is inaccurate, false or misleading shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $125,000.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 ### Service of documents, etc.
 
@@ -2375,11 +2947,13 @@ including any accrued interest that has been credited to the relevant accounts f
 
 but does not include any structured deposit as defined in the Financial Advisers (Structured Deposits — Prescribed Investment Product and Exemption) Regulations (Cap. 110, Rg 7);
 
-“Maximum DI Coverage” means the amount of $50,000.
+“Maximum DI Coverage” means the amount of $75,000.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 SECOND SCHEDULE
 
-Sections 38(6) and 47(1)
+Sections 38(6) and 47(2)
 
 Categories of insured policies
 
@@ -2389,17 +2963,39 @@ Insured policies shall be classified into one of the following 4 categories:
 
 (i) any individual accident and health policy;
 
-(ii) any rider to an individual policy, with the exception of a term rider which accelerates the payment of part or all of the sum assured stated in the policy or provides for a payout of an additional sum of money over and above the sum assured stated in the policy upon occurrence of a claim event;
+(ii) any group health policy;
 
-(iii) any group health policy;
+[Act 31 of 2018 wef 01/04/2019]
 
-(iv) any group personal accident policy;
+(iii) any group personal accident policy;
 
-(v) the part of any insured policy, whether or not it is a Category 1 insured policy, comprising the accumulated values (including interest which has accrued on such values) of coupon deposits, advance premium payments and unclaimed moneys under such insured policy, where applicable;
+[Act 31 of 2018 wef 01/04/2019]
+
+(iv) any rider to an individual policy, whether or not it is a Category 1 insured policy, with the exception of a rider which, upon the occurrence of a claim event —
+
+(A) accelerates the payment of part or all of the sum assured stated in the policy; or
+
+(B) provides for a payout of an additional sum of money over and above the sum assured stated in the policy;
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(v) the part of any insured policy, whether or not it is a Category 1 insured policy —
+
+(A) comprising the accumulated values (including interest which has accrued on such values) of coupon deposits, advance premium payments and unclaimed moneys under such insured policy; and
+
+(B) excluding such coupon deposits, advance premium payments and unclaimed moneys as have been factored, in whole or in part, in the surrender value computation by the PPF Scheme member;
+
+[Act 31 of 2018 wef 01/04/2019]
+
+(vi) any accident and health benefit payable under a Category 4 insured policy (other than a benefit that accelerates the payment of part or all of the sum assured stated in the policy);
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (b) Category 2 insured policies, comprising any of the following types of policies or riders:
 
-(i) any individual policy or rider (other than a Category 1 or 3 insured policy);
+(i) any individual policy (other than a Category 1 or 3 insured policy);
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (ii) any voluntary group term policy;
 
@@ -2407,13 +3003,31 @@ Insured policies shall be classified into one of the following 4 categories:
 
 (iv) any voluntary group endowment policy;
 
-(v) any term rider which accelerates the payment of all or part of the sum assured stated in the policy or provides for a payout of an additional sum of money over and above the sum assured stated in the policy upon occurrence of a claim event,
+(v) any rider, whether or not it is a Category 2 insured policy, which accelerates the payment of all or part of the sum assured stated in the policy or provides for a payout of an additional sum of money over and above the sum assured stated in the policy upon occurrence of a claim event,
+
+[Act 31 of 2018 wef 01/04/2019]
 
 except that any accident and health benefit (other than those benefits that accelerate the payment of part or all of the sum assured stated in the policy) payable under any such policy, shall be classified as a Category 1 insured policy;
 
-(c) Category 3 insured policies, comprising any annuity where the policy owner is an individual and any voluntary group annuity policy;
+(c) Category 3 insured policies, comprising any annuity where the insured policy owner is an individual and any voluntary group annuity policy;
 
-(d) Category 4 insured policies, comprising any non-voluntary group insurance policy (which is a non-voluntary group term policy, non-voluntary group whole life policy, non-voluntary group endowment policy or non-voluntary group annuity policy).
+[Act 31 of 2018 wef 01/04/2019]
+
+(d) Category 4 insured policies, comprising any of the following types of policies or riders:
+
+(i) any non-voluntary group insurance policy, being a non-voluntary group term policy, non‑voluntary group whole life policy, non‑voluntary group endowment policy or non‑voluntary group annuity policy;
+
+(ii) any rider of a non-voluntary group insurance policy which, upon the occurrence of a claim event —
+
+(A) accelerates the payment of part or all of the sum assured stated in the policy; or
+
+(B) provides for a payout of an additional sum of money over and above the sum assured stated in the policy,
+
+other than any accident and health benefit, not being a benefit under a rider that accelerates the payment of part or all of the sum assured stated in the policy, payable under any such policy.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+[Act 31 of 2018 wef 01/04/2019]
 
 THIRD SCHEDULE
 
@@ -2459,37 +3073,99 @@ is the guaranteed policy liabilities for each of such group term policies, group
 
 (ii) where the insured policies are group annuity policies, an amount equivalent to the product of the protection ratio for commuted value referred to in paragraph 2(e)(iii) of the Fourth Schedule and the guaranteed policy liabilities for each of such policies.
 
-2. For the purposes of computing the compensation to be paid out to an insured policy owner from the PPF General Fund under section 48, the aggregate amount of the protected liabilities in respect of the insured policy owner’s insured policy issued by a failed PPF Scheme member shall be calculated in the following manner:
+2. For the purposes of computing the compensation to be paid out to an insured policy owner from the PPF General Fund under section 48A, the aggregate amount of the protected liabilities in respect of the insured policy owner’s insured policy issued by a failed PPF Scheme member shall be calculated in the following manner:
 
-(a) in the case of a compulsory insurance policy, the full amount of any liability of the failed PPF Scheme member under the insured policy, in respect of a sum payable to any person entitled to the benefit under the terms of any compulsory insurance policy, which arises from a liability of the policy owner that is subject to compulsory insurance, including the full amount of any such liability which becomes payable before, or within 30 days after, a winding up order is made against the failed PPF Scheme member where the failed PPF Scheme member is wound up;
+(a) in the case of a compulsory insurance policy, the full amount of any liability of the failed PPF Scheme member under the insured policy, in respect of a sum payable to any person entitled to the benefit under the terms of any compulsory insurance policy, which arises from a liability of the policy owner that is subject to compulsory insurance, including the full amount of any such liability which becomes payable before, or within 30 days after, the quantification date;
 
-(b) in all other cases, the full amount of any liability of the failed PPF Scheme member to the insured policy owner under the terms of the insured policy, including the full amount of any such liability which becomes payable before, or within 30 days after, a winding up order is made against the failed PPF Scheme member where the failed PPF Scheme member is wound up.
+[Act 31 of 2018 wef 01/04/2019]
+
+(b) in all other cases, the full amount of any liability of the failed PPF Scheme member to the insured policy owner under the terms of the insured policy, including the full amount of any such liability which becomes payable before, or within 30 days after, the quantification date.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+[Act 31 of 2018 wef 01/04/2019]
+
+2A. For the purposes of determining the amount of benefits that an insured policy owner is entitled to receive from the PPF General Fund in the event of a claim under his insured policy, which occurs after the transfer or during the run‑off of the insurance business of the failed PPF Scheme member under section 54, the protected liabilities in respect of his insured policy are —
+
+(a) in the case of a compulsory insurance policy, the full amount of any liability of the failed PPF Scheme member under the insured policy for a sum payable to any person entitled to the benefit under the terms of the compulsory insurance policy for a liability of the policy owner that is subject to compulsory insurance, including the full amount of any such liability of the failed PPF Scheme member which becomes payable before, or within 30 days after, the quantification date; and
+
+(b) in all other cases, the full amount of any liability of the failed PPF Scheme member to the insured policy owner under the terms of the insured policy, including the full amount of any such liability of the failed PPF Scheme member which becomes payable before, or within 30 days after, the quantification date.
+
+[Act 31 of 2018 wef 01/04/2019]
+
+2B. For the purposes of determining the amount of benefits that an insured policy owner is entitled to receive from the PPF General Fund in the event of termination of an insured policy issued by the failed PPF Scheme member under section 54, the protected liabilities in respect of the insured policy are —
+
+(a) in the case of a compulsory insurance policy, the full amount of any liability of the failed PPF Scheme member under the insured policy before the termination, in respect of a sum payable to any person entitled to the benefit under the terms of the compulsory insurance policy for a liability of the policy owner that is subject to compulsory insurance before the termination of the policy; and
+
+(b) in all other cases, the full amount of any liability of the failed PPF Scheme member to the insured policy owner under the terms of the insured policy applicable before the termination.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 3. For the purposes of determining the amount of benefits that an insured policy owner is entitled to receive from the PPF Life Fund in the event of a claim under his insured policy, which occurs after the transfer or during the run-off of the insurance business of the failed PPF Scheme member under section 54, the protected liabilities in respect of his insured policy shall be computed in the following manner:
 
 (a) in the case of a Category 1 insured policy, the product of the protection ratio referred to in paragraph 2(a) of the Fourth Schedule and the guaranteed policy liabilities for the policy;
 
-(b) in the case of a Category 2 insured policy, the policy liabilities valued in accordance with regulations prescribed pursuant to section 17 of the Insurance Act (Cap. 142) for the valuation of assets and liabilities in an insurance fund using —
+(b) in the case of a Category 2 insured policy, an amount calculated in accordance with the following formula:
 
-(i) the adjusted guaranteed sum assured, which is the product of the protection ratio for sum assured referred to in paragraph 2(b) of the Fourth Schedule and the sum assured guaranteed under the policy; and
+where A
 
-(ii) the adjusted surrender value which is the product of the protection ratio for surrender value referred to in paragraph 2(c) of the Fourth Schedule and the surrender value guaranteed under the policy;
+is the protection ratio for the sum assured mentioned in paragraph 2(b) of the Fourth Schedule;
+
+B
+
+is the protection ratio for the surrender value mentioned in paragraph 2(c) of the Fourth Schedule; and
+
+C
+
+is the guaranteed policy liabilities for each of such Category 2 insured policies;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (c) in the case of a Category 3 insured policy, the product of the protection ratio referred to in paragraph 2(d) of the Fourth Schedule and the guaranteed policy liabilities for the policy;
 
 (d) in the case of a Category 4 insured policy —
 
-(i) where the policy is a group term policy, group endowment policy or group whole life policy, the policy liabilities valued in accordance with regulations prescribed pursuant to section 17 of the Insurance Act for the valuation of assets and liabilities in an insurance fund using —
+(i) where the policy is a group term policy, group endowment policy or group whole life policy, the policy liabilities valued in accordance with regulations prescribed pursuant to section 18 of the Insurance Act for the valuation of assets and liabilities in an insurance fund using —
 
 (A) the adjusted sum assured which is the product of the protection ratio for sum assured referred to in paragraph 2(e)(i) of the Fourth Schedule and the sum assured guaranteed under the policy; and
 
 (B) the adjusted surrender value which is the product of the protection ratio for surrender value referred to in paragraph 2(e)(ii) of the Fourth Schedule and the surrender value guaranteed under the policy; and
 
+[Act 31 of 2018 wef 01/04/2019]
+
 (ii) where the policy is a group annuity policy, the product of the protection ratio for commuted value referred to in paragraph 2(e)(iii) of the Fourth Schedule and the guaranteed policy liabilities for the policy.
+
+4. For the purposes of determining the amount of benefits that an insured policy owner is entitled to receive from the PPF Life Fund in the event of termination of insured policies issued by the failed PPF Scheme member under section 54, the protected liabilities in respect of his insured policy are —
+
+(a) in the case of a Category 1 insured policy, the product of the protection ratio mentioned in paragraph 2(a) of the Fourth Schedule and the guaranteed policy liabilities for the policy applicable before the termination;
+
+(b) in the case of a Category 2 insured policy, the policy liabilities valued in accordance with regulations prescribed under section 18 of the Insurance Act (Cap. 142) for the valuation of assets and liabilities in an insurance fund before the termination of the policy using —
+
+(i) the adjusted guaranteed sum assured, which is the product of the protection ratio for the sum assured mentioned in paragraph 2(b) of the Fourth Schedule and the sum assured guaranteed under the policy applicable before the termination; and
+
+(ii) the adjusted surrender value, which is the product of —
+
+(A) the protection ratio for the surrender value mentioned in paragraph 2(c) of the Fourth Schedule; and
+
+(B) the surrender value guaranteed under the policy applicable before the termination, or if there is no such surrender value, the commuted value of the amount of guaranteed benefit payments under the policy if it had been in force at the time of the commuting;
+
+(c) in the case of a Category 3 insured policy, the product of the protection ratio mentioned in paragraph 2(d) of the Fourth Schedule and the guaranteed policy liabilities for the policy applicable before the termination; and
+
+(d) in the case of a Category 4 insured policy —
+
+(i) where the policy is a group term policy, group endowment policy or group whole life policy, the policy liabilities valued in accordance with regulations prescribed under section 18 of the Insurance Act for the valuation of assets and liabilities in an insurance fund before the termination of the policy using —
+
+(A) the adjusted sum assured, which is the product of the protection ratio for the sum assured mentioned in paragraph 2(e)(i) of the Fourth Schedule and the sum assured guaranteed under the policy applicable before the termination; and
+
+(B) the adjusted surrender value, which is the product of the protection ratio for the surrender value mentioned in paragraph 2(e)(ii) of the Fourth Schedule and the surrender value guaranteed under the policy applicable before the termination, or if not available, the commuted value of the amount of guaranteed benefit payments under the policy if it had been in force at the time of the commuting; and
+
+(ii) where the policy is a group annuity policy, the product of the protection ratio for the commuted value mentioned in paragraph 2(e)(iii) of the Fourth Schedule and the guaranteed policy liabilities for the policy applicable before the termination.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 FOURTH SCHEDULE
 
-Sections 2(1) and 47(1) and Third Schedule
+Sections 2(1) and 47(2) and Third Schedule
 
 Protection ratio
 
@@ -2511,7 +3187,9 @@ Protection ratio
 
 (b) for the sum assured for Category 2 insured policies, in respect of each life assured —
 
-(i) the ratio of the Maximum Sum Assured to the aggregate amount of the sum assured on that life assured guaranteed under all such policies (other than term riders which accelerate the payment of all or part of the sum assured stated in the policy), upon the occurrence of a claim event (including term riders which provide additional payout of sum assured upon the occurrence of a claim event); or
+(i) the ratio of the Maximum Sum Assured to the aggregate amount or (where instalment payments have, before the quantification date, been made to a covered party) the aggregate remaining amount, of the sum assured on the life assured guaranteed under all such policies (other than riders which accelerate the payment of part or all of the sum assured stated in the policy), upon the occurrence of a claim event (including the sum assured on any rider which provides additional payout of the sum assured upon the occurrence of a claim event); or
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (ii) 1,
 
@@ -2519,7 +3197,9 @@ whichever is the lower;
 
 (c) for the surrender value for Category 2 insured policies, in respect of each life assured —
 
-(i) the ratio of the Maximum Surrender Value to the aggregate amount of the surrender value guaranteed (in the event that the insured policy owner has given notice in writing to the failed PPF Scheme member to surrender the policy) under all such policies; or
+(i) the ratio of the Maximum Surrender Value to the aggregate amount of the surrender value guaranteed (in the event that the insured policy owner or trustee of a trust of the insured policy has given notice in writing to the failed PPF Scheme member to surrender the policy) under all such policies; or
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (ii) 1,
 
@@ -2558,6 +3238,8 @@ whichever is the lower;
 (B) 1,
 
 whichever is the lower.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 FIFTH SCHEDULE
 
@@ -2607,7 +3289,9 @@ Financial year
 
 1.—(1) The financial year of the DI Fund shall begin on 1st April of every year and end on 31st March of the following year.
 
-(2) The financial year of the PPF Life Fund and the PPF General Fund shall begin on 1st April of every year and end on 31st March of the following year, except that the first financial year of the PPF Life Fund and the PPF General Fund shall begin on the effective date appointed under section 46(5) and end on 31st March of the following year.
+(2) The financial year of the PPF Life Fund and the PPF General Fund shall begin on 1st April of every year and end on 31st March of the following year.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 Accounts of DI Fund, PPF Life Fund and PPF General Fund
 
@@ -2619,7 +3303,9 @@ Accounts of DI Fund, PPF Life Fund and PPF General Fund
 
 Auditor
 
-3\. The accounts shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Agency in consultation with the Auditor-General.
+3. The accounts must be audited by such auditor as may be appointed annually by the Agency.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 Appointment of auditor
 
@@ -2665,9 +3351,7 @@ Presentation of audited financial statements and auditor’s report
 
 11\. The Agency shall, as soon as the financial statements have been audited in accordance with the provisions of this Act, submit a copy of the audited financial statements, together with a copy of the auditor’s report, to the Minister.
 
-Copy of auditor’s report for Auditor-General
-
-12\. Where the Auditor-General is not the auditor of the DI Fund, PPF Life Fund or PPF General Fund, the Agency shall cause to be sent to the Auditor-General a copy of the audited financial statements and any report made by the auditor at the same time they are submitted to the Minister.
+12. [Deleted by Act 31 of 2018 wef 01/04/2019]
 
 SEVENTH SCHEDULE
 
@@ -2677,7 +3361,9 @@ Financial provisions with respect to Agency
 
 Financial year
 
-1\. The financial year of the Agency shall comprise such period as may be specified in the memorandum and articles of association of the Agency.
+1. The financial year of the Agency shall comprise such period as may be specified in the constitution of the Agency.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 Accounts of Agency
 
@@ -2685,7 +3371,9 @@ Accounts of Agency
 
 Auditor
 
-3\. The accounts of the Agency shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Agency in consultation with the Auditor-General.
+3. The accounts of the Agency must be audited by such auditor as may be appointed annually by the Agency.
+
+[Act 31 of 2018 wef 01/04/2019]
 
 Appointment of auditor
 
@@ -2731,9 +3419,7 @@ Presentation of audited financial statements and auditor’s report
 
 11\. The Agency shall, as soon as the financial statements have been audited in accordance with the provisions of this Act, submit a copy of the audited financial statements, together with a copy of the auditor’s report, to the Minister.
 
-Copy of auditor’s report for Auditor-General
-
-12\. Where the Auditor-General is not the auditor of the Agency, the Agency shall cause to be sent to the Auditor-General a copy of the audited financial statements and any report made by the auditor at the same time they are submitted to the Minister.
+12. [Deleted by Act 31 of 2018 wef 01/04/2019]
 
 ## LEGISLATIVE HISTORY
 
@@ -2786,6 +3472,10 @@ The Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 repealed 
 |||(Bill No. 25/2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|29 October 2018|
+|10.|**Act 31 of 2018—Deposit Insurance and Policy Owners' Protection Schemes (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 21/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Deposit Insurance and Policy Owners’ Protection Schemes Act
