@@ -7960,7 +7960,9 @@ is equal to an amount computed in either of the following ways, at the option of
 
 (3) Agency for Science, Technology and Research (A*Star).
 
-(4) Agri-Food and Veterinary Authority of Singapore.
+(4) Singapore Food Agency.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (5) Board of Architects.
 
@@ -9215,6 +9217,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|6 February 2017 (Bill No. 7/2017 published on 6 February 2017)|
 ||Date of Second and Third Readings|28 February 2017|
 ||Date of commencement|2 January 2019|
+|220.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
