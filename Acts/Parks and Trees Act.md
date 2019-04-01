@@ -368,21 +368,33 @@ ADMINISTRATION OF ACT
 
 ### Appointment of Commissioner of Parks and Recreation and other officers
 
-4\.—(1) The Minister may appoint any officer or employee of the Board to be the Commissioner of Parks and Recreation.
+4\.—(1) The Board is responsible for the administration of this Act, and to that end, the Board must appoint an officer of the Board to be the Commissioner of Parks and Recreation.
 
-(2) The Commissioner shall, subject to any general or special directions of the Minister, be responsible for the administration of this Act and may perform such duties as are imposed and may exercise such powers as are conferred upon him by this Act or any other written law.
+[Act 10 of 2019 wef 01/04/2019]
 
-(3) The Commissioner may appoint any of the following persons to be an authorised officer for the purpose of assisting the Commissioner in administering and carrying out the provisions of this Act or any other written law:
+(2) The Commissioner shall, subject to any general or special directions of the Board, be responsible for the administration of this Act and may perform such duties as are imposed and may exercise such powers as are conferred upon him by this Act or any other written law.
 
-(a) a public officer;
+[Act 10 of 2019 wef 01/04/2019]
 
-(b) an employee of the Board;
+(3) The Commissioner may, subject to the directions of the Board, appoint any of the following persons to be an authorised officer for the purpose of assisting the Commissioner in administering and carrying out the provisions of this Act or any other written law which confers powers on the Commissioner:
 
-(c) an auxiliary police officer appointed under the Police Force Act (Cap. 235).
+(a) an employee of the Board;
 
-[Act 9 of 2017 wef 20/11/2017]
+(b) an employee of another statutory authority;
 
-(4) Any powers conferred on and duties to be performed by the Commissioner under this Act or any other written law may, subject to any general or special directions of the Commissioner, be exercised or performed by any authorised officer.
+(c) a public officer;
+
+(d) an auxiliary police officer appointed under the Police Force Act (Cap. 235).
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(4) The Commissioner may delegate the exercise of all or any of the powers conferred or duties imposed upon the Commissioner by any provision of this Act or any other written law (except the power of delegation conferred by this subsection) to an authorised officer; and any reference in the provision of this Act or any other written law to the Commissioner includes a reference to such an authorised officer.
+
+[Act 10 of 2019 wef 01/04/2019]
+
+(4A) Any delegation under subsection (4) may be general or in a particular case and may be subject to such conditions or limitations as set out in this Act or as the Board may specify.
+
+[Act 10 of 2019 wef 01/04/2019]
 
 (5) The Commissioner may appoint any of the following persons to be a park ranger who may exercise the powers conferred on a park ranger under sections 41 and 42 within the national park, nature reserve or public park and in the circumstances specified in the Commissioner’s authorisation for the park ranger under subsection (6):
 
@@ -408,9 +420,11 @@ ADMINISTRATION OF ACT
 
 [Act 9 of 2017 wef 20/11/2017]
 
-(9) A person who is appointed as an authorised officer under subsection (3) or a park ranger under subsection (5) does not, by virtue only of the appointment, become an employee or agent of the Board.
+(9) A person who is appointed as an authorised officer under subsection (3)(d) or a park ranger under subsection (5) does not, by virtue only of the appointment, become an employee or agent of the Board.
 
 [Act 9 of 2017 wef 20/11/2017]
+
+[Act 10 of 2019 wef 01/04/2019]
 
 ### Officers deemed to be public servants
 
@@ -2265,69 +2279,27 @@ This Legislative History is provided for the convenience of users of the Parks a
 
 ||||
 |:-|:-|:-|
-|1.|**Act 14 of 1975—Parks and Trees Act 1975**|
-||Date of First Reading|17 March 1975|
-|||(Bill No. 18/75 published on 18 March 1975)|
-||Date of Second and Third Readings|27 March 1975|
-||Date of commencement|15 May 1975|
-Note:
-
-The Parks and Trees Act 1975 repealed the Botanic Gardens Act (Chapter 300, 1970 Revised Edition), the Trees and Plants (Preservation and Improvement of Amenities) Act 1970 (No. 59 of 1970) and section 79 and Part V of the Local Government Integration Act (Chapter 210, 1970 Revised Edition).
-
-|2.|**Act 27 of 1982—Parks and Trees (Amendment) Act 1982**|
-||Date of First Reading|27 July 1982|
-|||(Bill No. 18/82 published on 4 August 1982)|
-||Date of Second and Third Readings|31 August 1982|
-||Date of commencement|5 November 1982|
-|3.|**1985 Revised Edition—Parks and Trees Act (Chapter 216)**|
-||Date of operation|30 March 1987|
-|4.|**Act 12 of 1987—Parks and Trees (Amendment) Act 1987**|
-||Date of First Reading|4 March 1987|
-|||(Bill No. 3/87 published on 6 March 1987)|
-||Date of Second and Third Readings|26 March 1987|
-||Date of commencement|1 May 1987|
-|5.|**Act 10 of 1990—National Parks Act 1990**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|13 March 1990|
-|||(Bill No. 12/90 published on 14 March 1990)|
-||Date of Second and Third Readings|29 March 1990|
-||Date of commencement|6 June 1990|
-|6.|**1991 Revised Edition—Parks and Trees Act**|
-||Date of operation|1 March 1991|
-|7.|**Act 25 of 1994—Parks and Trees (Amendment) Act 1994**|
-||Date of First Reading|31 October 1994|
-|||(Bill No. 32/94 published on 1 November 1994)|
-||Date of Second and Third Readings|5 December 1994|
-||Date of commencement|29 January 1995|
-|8.|**Act 22 of 1996—National Parks Act 1996**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|2 May 1996|
-|||(Bill No. 13/96 published on 3 May 1996)|
-||Date of Second and Third Readings|21 May 1996|
-||Date of commencement|1 July 1996|
-|9.|**1996 Revised Edition—Parks and Trees Act (Chapter 216)**|
-||Date of operation|27 December 1996|
-|10.|**Act 4 of 2005—Parks and Trees Act 2005**|
+|1.|**Act 4 of 2005—Parks and Trees Act 2005**|
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 55/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|1 August 2005|
-Note:
-
-The Parks and Trees Act 2005 repealed the Parks and Trees Act (Chapter 216, 1996 Revised Edition).
-
-|11.|**2006 Revised Edition—Parks and Trees Act**|
+|2.|**2006 Revised Edition—Parks and Trees Act**|
 ||Date of operation|31 July 2006|
-|12.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|3.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|13.|**Act 9 of 2017—Parks and Trees (Amendment) Act 2017**|
+|4.|**Act 9 of 2017—Parks and Trees (Amendment) Act 2017**|
 ||Date of First Reading|9 January 2017 (Bill No. 4/2017 published on 9 January 2017)|
 ||Date of Second and Third Readings|7 February 2017|
 ||Date of commencement|20 November 2017|
+|5.|**Act 10 of 2019—National Parks Board (Amendment) Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 4/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Parks and Trees Act
