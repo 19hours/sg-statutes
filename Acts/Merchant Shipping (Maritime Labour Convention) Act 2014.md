@@ -267,7 +267,13 @@ PRELIMINARY
 
 (b) in relation to a collective agreement not governed by the Industrial Relations Act, means a similar agreement governed by the law of a territory outside Singapore;
 
-“Convention” means the Maritime Labour Convention, 2006 adopted by the International Labour Organization at Geneva on 23rd February 2006 and, where the context shall admit or require, includes the Regulations, and the Standards in Part A of the Code, of the Convention;
+“Convention” means the Maritime Labour Convention, 2006 adopted by the International Labour Organization at Geneva on 23 February 2006 and —
+
+(a) includes any amendment to the Convention which has come into force and has been accepted by the Government; and
+
+(b) where the context admits or requires, includes the Regulations, and the Standards in Part A of the Code, of the Convention;
+
+[Act 3 of 2019 wef 01/04/2019]
 
 “court”, in relation to any proceedings, includes any court having jurisdiction in the matter to which the proceedings relate;
 
@@ -1391,7 +1397,9 @@ INSPECTION AND CERTIFICATION
 
 ### Validity of Maritime Labour Certificate
 
-53\.—(1) Subject to subsection (6), a Maritime Labour Certificate shall, unless suspended or withdrawn, be valid for a period not exceeding 5 years.
+53\.—(1) Subject to subsections (6) and (7A), a Maritime Labour Certificate shall, unless suspended or withdrawn, be valid for a period not exceeding 5 years.
+
+[Act 3 of 2019 wef 01/04/2019]
 
 (2) Subject to subsection (12), if a ship is found not to be in compliance with the requirements of this Act or other relevant written law, the Director or a Recognised Organisation shall suspend the Maritime Labour Certificate until such time corrective action is taken to the satisfaction of the Director or Recognised Organisation, as the case may be.
 
@@ -1409,9 +1417,21 @@ INSPECTION AND CERTIFICATION
 
 (5) When a Maritime Labour Certificate is suspended or withdrawn, the shipowner and master of the ship shall on demand deliver up the certificate to the Director or Recognised Organisation, as the case may be.
 
-(6) When the renewal inspection is completed not more than 3 months before the expiry of the Maritime Labour Certificate, the new Maritime Labour Certificate shall be valid from the date of completion of the renewal inspection to a date not exceeding 5 years after the date of expiry of the existing Maritime Labour Certificate.
+(6) Subject to subsections (7A) and (7B), when the renewal inspection is completed not more than 3 months before the expiry of the Maritime Labour Certificate, the new Maritime Labour Certificate shall be valid from the date of completion of the renewal inspection to a date not exceeding 5 years after the date of expiry of the existing Maritime Labour Certificate.
 
-(7) When the renewal inspection is completed more than 3 months before the expiry of the Maritime Labour Certificate, the new Maritime Labour Certificate shall be valid from the date of completion of the renewal inspection to a date not exceeding 5 years after the date of completion of the renewal inspection.
+[Act 3 of 2019 wef 01/04/2019]
+
+(7) Subject to subsections (7A) and (7B), when the renewal inspection is completed more than 3 months before the expiry of the Maritime Labour Certificate, the new Maritime Labour Certificate shall be valid from the date of completion of the renewal inspection to a date not exceeding 5 years after the date of completion of the renewal inspection.
+
+[Act 3 of 2019 wef 01/04/2019]
+
+(7A) Where the renewal inspection in respect of a ship is completed before the expiry of the existing Maritime Labour Certificate, but the new Maritime Labour Certificate cannot immediately be issued and made available on board that ship, the Director or a Recognised Organisation may extend the validity of the existing Maritime Labour Certificate for a period not more than 5 months after the date the existing Maritime Labour Certificate would otherwise expire.
+
+[Act 3 of 2019 wef 01/04/2019]
+
+(7B) Where the validity of the existing Maritime Labour Certificate is extended under subsection (7A), the new Maritime Labour Certificate is valid for a period not exceeding 5 years after the date of expiry of the existing Maritime Labour Certificate after the extension is granted under that subsection.
+
+[Act 3 of 2019 wef 01/04/2019]
 
 (8) A Maritime Labour Certificate and an interim Maritime Labour Certificate issued under this Part shall be in the form prescribed by the Authority.
 
