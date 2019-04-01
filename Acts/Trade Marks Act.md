@@ -382,7 +382,9 @@ PRELIMINARY
 
 and includes a trade mark in respect of which an application for registration has been made and which, if registered, would be an earlier trade mark by virtue of paragraph (a) subject to its being so registered;
 
-“geographical indication” has the same meaning as in section 2 of the Geographical Indications Act (Cap. 117B);
+“geographical indication” has the same meaning as in section 2 of the Geographical Indications Act 2014;
+
+[Act 19 of 2014 wef 01/04/2019]
 
 “International Bureau” has the meaning given by Article 2(1) of the Madrid Protocol;
 
@@ -546,9 +548,11 @@ Introductory
 
 4\.—(1) A registered trade mark is a property right obtained by the registration of the trade mark under this Act and the proprietor of a registered trade mark has the rights and remedies provided by this Act.
 
-(2) No proceedings shall lie to prevent or recover damages for the infringement of an unregistered trade mark as such; but nothing in this Act shall affect the law relating to passing off or rights under the Geographical Indications Act (Cap. 117B).
+(2) No proceedings shall lie to prevent or recover damages for the infringement of an unregistered trade mark as such; but nothing in this Act shall affect the law relating to passing off or rights under the Geographical Indications Act 2014.
 
 [UK Trade Marks Act 1994, s. 2; Trade Marks 1992 Ed., s. 49, 53]
+
+[Act 19 of 2014 wef 01/04/2019]
 
 Application for registration of trade mark
 
@@ -673,6 +677,30 @@ Grounds for refusal of registration
 (b) has fallen into disuse,
 
 in its country of origin.
+
+(10A) Notwithstanding subsection (2), a trade mark shall not be registered if —
+
+(a) it contains or consists of a geographical indication which is registered, or in respect of which an application for registration has been made, under the Geographical Indications Act 2014 before the date of the application for registration of the trade mark; and
+
+(b) the goods for which the trade mark is sought to be registered —
+
+(i) are identical or similar to the goods for which the geographical indication is registered or for which registration of the geographical indication is sought; and
+
+(ii) do not originate in the place indicated by the geographical indication.
+
+[Act 19 of 2014 wef 01/04/2019]
+
+(10B) Subsection (10A) shall apply whether or not the trade mark has, or is accompanied by, an indication of the true geographical origin of the goods, or an expression such as “kind”, “type”, “style”, “imitation” or the like, and irrespective of the language the geographical indication is expressed in that trade mark.
+
+[Act 19 of 2014 wef 01/04/2019]
+
+(10C) A trade mark shall not be refused registration by virtue of subsection (10A) if the application for its registration had been made in good faith, or if it had been used continuously in good faith in the course of trade by the applicant for its registration or his predecessor in title, either —
+
+(a) before the date of the application for registration of the geographical indication in question in Singapore; or
+
+(b) before the geographical indication in question became protected in its country of origin.
+
+[Act 19 of 2014 wef 01/04/2019]
 
 (11) A trade mark shall not be registered in the cases specified in sections 56 and 57.
 
@@ -3853,6 +3881,10 @@ This Legislative History is provided for the convenience of users of the Trade M
 ||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|10 October 2018|
+|20.|**Act 19 of 2014—Geographical Indications Act 2014**|
+||Date of First Reading|5 March 2014 (Bill No. 13/2014 published on 5 March 2014)|
+||Date of Second and Third Readings|14 April 2014|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Trade Marks Act
