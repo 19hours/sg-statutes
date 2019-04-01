@@ -22,7 +22,9 @@
 
 - [8 Powers of authorised officer](#Powers-of-authorised-officer)
 
-- [9 Fees, etc., to be paid to Authority](#Fees-etc-to-be-paid-to-Authority)
+- [8A Other powers of investigation](#Other-powers-of-investigation)
+
+- [9 Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
 
 - [10 Penalty](#Penalty)
 
@@ -54,15 +56,21 @@ An Act to provide for the control of feeding stuffs for animals and birds.
 
 2\. In this Act, unless the context otherwise requires —
 
+“Agency” means the Singapore Food Agency established by the Singapore Food Agency Act 2019;
+
+[Act 11 of 2019 wef 01/04/2019]
+
 “animal feed” means organic or mineral substances or mixtures of such substances used for the feeding of animals;
 
 “authorised officer” means any person appointed under section 3(2) by the Director-General to be an authorised officer;
 
-“Authority” means the Agri-food and Veterinary Authority established under section 3 of the Agri-food and Veterinary Authority Act 2000 (Act 16 of 2000);
+[Deleted by Act 11 of 2019 wef 01/04/2019]
 
 “compound feed” means products which, when administered in the quantities prescribed, are adequate under normal management conditions to afford to normal animals of the species and class concerned the full range of nutritional ingredients in their diet necessary for the breeding or rearing of exemplary specimens of animals;
 
-“Director-General” means the Director-General, Agri-food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7);
+“Director-General” means the Director-General, Food Administration appointed under section 3(1) of the Sale of Food Act (Cap. 283);
+
+[Act 11 of 2019 wef 01/04/2019]
 
 “feed concentrate” means such feed as is designed to supplement or balance the basic ingredients of a feed ratio to afford normal animals full nourishment and includes mineral mixtures;
 
@@ -78,13 +86,25 @@ An Act to provide for the control of feeding stuffs for animals and birds.
 
 [16/2000]
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any other statutory authority to be an authorised officer for the purposes of this Act and any rules made thereunder.
+(2) The Director-General may in writing appoint any public officer or any officer of the Agency or any other statutory authority, or an auxiliary police officer appointed under the Police Force Act (Cap. 235), to be an authorised officer for the purposes of this Act and any rules made thereunder.
 
 [16/2000]
 
-(3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer.
+[Act 11 of 2019 wef 01/04/2019]
+
+(3) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act (except the power of delegation conferred by this subsection) to any authorised officer.
 
 [16/2000]
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) The Director-General may, for any reason that appears to the Director-General to be sufficient, at any time revoke a person’s appointment as an authorised officer.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(5) An auxiliary police officer who is appointed as an authorised officer under subsection (2) does not, by virtue only of the appointment, become an employee or agent of the Agency.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Licence to import, manufacture, etc., animal feeds
 
@@ -148,13 +168,51 @@ for the purpose of inspecting the condition of —
 
 [16/2000]
 
-### Fees, etc., to be paid to Authority
+(3) The Director-General or an authorised officer may arrest without warrant any person committing or attempting to commit or whom he reasonably suspects of being engaged in committing or attempting to commit any offence under this Act or any rules made thereunder, if —
 
-9\. All fees, charges, composition fines and moneys collected under this Act or any rules made thereunder shall be paid to the Authority.
+(a) the person refuses to furnish his name and address or furnishes an address out of Singapore; or
 
-[8A
+(b) there are reasonable grounds for believing that the person has furnished a false name or address or that the person is likely to abscond.
 
-[16/2000]
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) The Director-General or an authorised officer making an arrest without warrant must without unnecessary delay bring the person arrested before a Magistrate’s Court.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+### Other powers of investigation
+
+8A\.—(1) For the purpose of investigating any offence under this Act or any rules made thereunder, the Director-General or an authorised officer may —
+
+(a) require any person in Singapore whom the Director-General or authorised officer (as the case may be) has reason to believe to be acquainted with any facts or circumstances relevant to that investigation —
+
+(i) to furnish any document or information in that person’s possession; or
+
+(ii) to attend before the Director-General or authorised officer to answer any question to the best of that person’s knowledge, information and belief; or
+
+(b) examine orally any person supposed to be acquainted with the facts and circumstances of the case.
+
+(2) The person mentioned in subsection (1)(b) is bound to state truly the facts and circumstances with which the person is acquainted concerning the case except only that the person may decline to make, with regard to any fact or circumstance, a statement which would have a tendency to expose the person to a criminal charge or to penalty or forfeiture.
+
+(3) Any statement made by any person in answer to a question under subsection (1) must —
+
+(a) be reduced to writing;
+
+(b) be read over to the person;
+
+(c) if the person does not understand English, be interpreted in a language that the person understands; and
+
+(d) after correction (if necessary), be signed by the person.
+
+(4) If any person fails to attend before the Director-General or an authorised officer as required under subsection (1), the Director-General or authorised officer may report the failure to a Magistrate who may issue a warrant to secure the attendance of that person as required by the order.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+### Fees, etc., payable to Agency
+
+9\. All fees, charges and moneys collected under this Act or any rules made thereunder (except composition sums) must be paid to the Agency.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Penalty
 
@@ -245,6 +303,10 @@ This Legislative History is provided for the convenience of users of the Feeding
 ||Date of commencement|1 April 2000|
 |5.|**2000 Revised Edition—Feeding Stuffs Act**|
 ||Date of operation|30 December 2000|
+|6.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Feeding Stuffs Act
