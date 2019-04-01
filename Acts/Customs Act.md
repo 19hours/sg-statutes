@@ -390,7 +390,9 @@ PRELIMINARY
 
 2\. This Act shall not apply to —
 
-(a) such off-shore islands as the Minister may by notification in theGazettespecify, in respect of the importation, exportation, manufacture or use of petroleum; and
+(a) such off-shore islands as the Minister may by notification in theGazettespecify, in respect of the importation, exportation, manufacture or use of motor fuel; and
+
+[Act 29 of 2018 wef 01/04/2019]
 
 (b) subject to the provisions of this Act or any other written law, any act or thing lawfully done or permitted to be done within a free trade zone.
 
@@ -496,9 +498,9 @@ as certified by an analyst employed by such laboratory as the Director-General m
 
 “master” means any person (except a pilot or harbour master) having for the time being control or charge of a vessel;
 
-“motor fuel” means motor spirit or CNG;
+“motor fuel” means any fuel used in the propulsion of any conveyance;
 
-[Act 25 of 2011 wef 01/01/2012]
+[Act 29 of 2018 wef 01/04/2019]
 
 “motor spirit” includes gasoline, petrol or any inflammable hydrocarbon liquid fuel for spark ignited engines;
 
@@ -1262,7 +1264,7 @@ and which is in the possession or in the baggage of any person arriving in Singa
 
 [Act 29 of 2018 wef 18/02/2019]
 
-(d) of motor fuel or petroleum for use in the propulsion of a motor vehicle or an aircraft which —
+(d) of motor fuel for use in the propulsion of any motor vehicle, aircraft or vessel which —
 
 (i) in relation to a motor vehicle —
 
@@ -1270,11 +1272,19 @@ and which is in the possession or in the baggage of any person arriving in Singa
 
 [Act 25 of 2011 wef 01/01/2012]
 
-(B) is of such amount as the Minister may by order prescribe and which is carried in a spare container of the motor vehicle; and
+(B) is of such amount as the Minister may by order prescribe and which is carried in a spare container of the motor vehicle;
 
-(ii) in relation to an aircraft, is carried in the fuel supply tank of the aircraft;
+[Act 29 of 2018 wef 01/04/2019]
+
+(ii) in relation to an aircraft, is carried in the fuel supply tank of the aircraft; and
 
 [Act 25 of 2011 wef 01/01/2012]
+
+[Act 29 of 2018 wef 01/04/2019]
+
+(iii) in relation to a vessel, is carried in the fuel supply tank of the vessel;
+
+[Act 29 of 2018 wef 01/04/2019]
 
 (e) of dutiable goods imported by post unless so required by the proper officer of customs; and
 
@@ -3839,6 +3849,7 @@ This Legislative History is provided for the convenience of users of the Customs
 |||(Bill No. 26/2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|18 February 2019|
+|||1 April 2019|
 ## COMPARATIVE TABLE
 
 Customs Act
