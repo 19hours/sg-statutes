@@ -4582,15 +4582,19 @@ the day immediately before the first‑mentioned day;
 
 (10) This section shall not apply to —
 
-(a) a company or trustee of a trust fund, as the case may be, that is incorporated or constituted on or after 1st April 2019; or
+(a) a company or trustee of a trust fund, as the case may be, that is incorporated or constituted on or after 1 January 2025; or
 
 [Act 37 of 2014 wef 01/04/2014]
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (b) a company or trustee of a trust fund, as the case may be, that —
 
-(i) is incorporated or constituted before 1st April 2019; and
+(i) is incorporated or constituted before 1 January 2025; and
 
 [Act 37 of 2014 wef 01/04/2014]
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (ii) is not a prescribed person at any time before that date.
 
@@ -4982,21 +4986,33 @@ to be approved as an approved international shipping enterprise, and the company
 
 (6) This section shall not apply to —
 
-(a) a trust that is constituted on or after 1st April 2019;
+(a) a trust that is constituted on or after 1 January 2025;
 
-(b) a company that is incorporated on or after 1st April 2019;
+[Act 32 of 2019 wef 01/04/2019]
+
+(b) a company that is incorporated on or after 1 January 2025;
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (c) a trust that —
 
-(i) is constituted before 1st April 2019; and
+(i) is constituted before 1 January 2025; and
 
-(ii) in the basis period in which 31st March 2019 falls, is not a foreign trust specified in the regulations under subsection (1) (referred to in this subsection and subsection (8) as a specified trust) that is administered by a trustee company in Singapore within the meaning of those regulations; or
+[Act 32 of 2019 wef 01/04/2019]
+
+(ii) in the basis period in which 31 December 2024 falls, is not a foreign trust specified in the regulations under subsection (1) (referred to in this subsection and subsection (8) as a specified trust) that is administered by a trustee company in Singapore within the meaning of those regulations; or
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (d) a company that —
 
-(i) is incorporated before 1st April 2019; and
+(i) is incorporated before 1 January 2025; and
 
-(ii) in the basis period in which 31st March 2019 falls —
+[Act 32 of 2019 wef 01/04/2019]
+
+(ii) in the basis period in which 31 December 2024 falls —
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (A) is not an eligible holding company established for the purposes of a specified trust, and specified in the regulations under subsection (1); or
 
@@ -5004,7 +5020,7 @@ to be approved as an approved international shipping enterprise, and the company
 
 [Act 37 of 2014 wef 01/04/2014]
 
-(7) Where, in any basis period beginning on or after 1st April 2019 —
+(7) Where, in any basis period beginning on or after 1 January 2025 —
 
 (a) a trust or company does not satisfy the requirements referred to in subsection (8); or
 
@@ -5013,6 +5029,8 @@ to be approved as an approved international shipping enterprise, and the company
 then this section shall not apply to the trust or company in paragraph (a), or the foreign trust or eligible holding company in paragraph (b), for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if the requirements are satisfied and the regulations are complied with in the basis period for that subsequent year of assessment.
 
 [Act 37 of 2014 wef 01/04/2014]
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (8) In subsection (7), the requirements are —
 
@@ -5670,31 +5688,45 @@ as the Minister may by regulations prescribe.
 
 (5) This section shall not apply to —
 
-(a) a trust that is constituted on or after 1st April 2019;
+(a) a trust that is constituted on or after 1 January 2025;
 
-(b) a company that is incorporated on or after 1st April 2019;
+[Act 32 of 2019 wef 01/04/2019]
+
+(b) a company that is incorporated on or after 1 January 2025;
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (c) a trust that —
 
-(i) is constituted before 1st April 2019; and
+(i) is constituted before 1 January 2025; and
 
-(ii) in the basis period in which 31st March 2019 falls, is not a philanthropic purpose trust that —
+[Act 32 of 2019 wef 01/04/2019]
+
+(ii) in the basis period in which 31 December 2024 falls, is not a philanthropic purpose trust that —
 
 (A) has a foreign account; and
 
 (B) is administered by a trustee company in Singapore; or
 
+[Act 32 of 2019 wef 01/04/2019]
+
 (d) a company —
 
-(i) is incorporated before 1st April 2019; and
+(i) is incorporated before 1 January 2025; and
 
-(ii) in the basis period in which 31st March 2019 falls, is not an eligible holding company established for the purposes of a philanthropic purpose trust which satisfies the requirements in paragraph (c)(ii)(A) and (B).
+[Act 32 of 2019 wef 01/04/2019]
+
+(ii) in the basis period in which 31 December 2024 falls, is not an eligible holding company established for the purposes of a philanthropic purpose trust which satisfies the requirements in paragraph (c)(ii)(A) and (B).
+
+[Act 37 of 2014 wef 01/04/2014]
+
+[Act 32 of 2019 wef 01/04/2019]
+
+(6) Where, in any basis period beginning on or after 1 January 2025, a trust or company does not satisfy the applicable requirement referred to in subsection (7), then this section shall not apply to the trust or company for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if that requirement is satisfied in the basis period for the subsequent year of assessment.
 
 [Act 37 of 2014 wef 01/04/2014]
 
-(6) Where, in any basis period beginning on or after 1st April 2019, a trust or company does not satisfy the applicable requirement referred to in subsection (7), then this section shall not apply to the trust or company for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if that requirement is satisfied in the basis period for the subsequent year of assessment.
-
-[Act 37 of 2014 wef 01/04/2014]
+[Act 32 of 2019 wef 01/04/2019]
 
 (7) In subsection (6), the requirement is —
 
@@ -5704,9 +5736,11 @@ as the Minister may by regulations prescribe.
 
 [Act 37 of 2014 wef 01/04/2014]
 
-(8) Where, in any basis period beginning on or after 1st April 2019, the trustee company which administers a philanthropic purpose trust fails to comply with any of the regulations under subsection (1), then this section shall not apply to the trust or the eligible holding company established for the purposes of the trust for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if those regulations are satisfied in the basis period for the subsequent year of assessment.
+(8) Where, in any basis period beginning on or after 1 January 2025, the trustee company which administers a philanthropic purpose trust fails to comply with any of the regulations under subsection (1), then this section shall not apply to the trust or the eligible holding company established for the purposes of the trust for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if those regulations are satisfied in the basis period for the subsequent year of assessment.
 
 [Act 37 of 2014 wef 01/04/2014]
+
+[Act 32 of 2019 wef 01/04/2019]
 
 ### Exemption of income derived from asset securitisation transaction
 
@@ -5772,27 +5806,41 @@ as the Minister may by regulations prescribe.
 
 (4) This section shall not apply to —
 
-(a) a trust that is constituted on or after 1st April 2019;
+(a) a trust that is constituted on or after 1 January 2025;
 
-(b) a company that is incorporated on or after 1st April 2019;
+[Act 32 of 2019 wef 01/04/2019]
+
+(b) a company that is incorporated on or after 1 January 2025;
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (c) a trust that —
 
-(i) is constituted before 1st April 2019; and
+(i) is constituted before 1 January 2025; and
 
-(ii) in the basis period in which 31st March 2019 falls, is not a locally administered trust prescribed under subsection (1) (referred to in this subsection and subsection (6) as a prescribed trust); or
+[Act 32 of 2019 wef 01/04/2019]
+
+(ii) in the basis period in which 31 December 2024 falls, is not a locally administered trust prescribed under subsection (1) (referred to in this subsection and subsection (6) as a prescribed trust); or
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (d) a company that —
 
-(i) is incorporated before 1st April 2019; and
+(i) is incorporated before 1 January 2025; and
 
-(ii) in the basis period in which 31st March 2019 falls, is not a holding company established for the purposes of a prescribed trust, and prescribed under subsection (1).
+[Act 32 of 2019 wef 01/04/2019]
+
+(ii) in the basis period in which 31 December 2024 falls, is not a holding company established for the purposes of a prescribed trust, and prescribed under subsection (1).
+
+[Act 37 of 2014 wef 01/04/2014]
+
+[Act 32 of 2019 wef 01/04/2019]
+
+(5) Where, in any basis period beginning on or after 1 January 2025, a trust or company does not satisfy the requirement referred to in subsection (6), then this section shall not apply to the trust or company for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if the requirement is satisfied in the basis period for the subsequent year of assessment.
 
 [Act 37 of 2014 wef 01/04/2014]
 
-(5) Where, in any basis period beginning on or after 1st April 2019, a trust or company does not satisfy the requirement referred to in subsection (6), then this section shall not apply to the trust or company for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if the requirement is satisfied in the basis period for the subsequent year of assessment.
-
-[Act 37 of 2014 wef 01/04/2014]
+[Act 32 of 2019 wef 01/04/2019]
 
 (6) In subsection (5), the requirement is —
 
@@ -5802,9 +5850,11 @@ as the Minister may by regulations prescribe.
 
 [Act 37 of 2014 wef 01/04/2014]
 
-(7) Where, in any basis period beginning on or after 1st April 2019, the trustee company which administers a locally administered trust fails to comply with any of the regulations made under subsection (1), then this section shall not apply to the trust or the holding company established for the purposes of the trust for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if those regulations are satisfied in the basis period for the subsequent year of assessment.
+(7) Where, in any basis period beginning on or after 1 January 2025, the trustee company which administers a locally administered trust fails to comply with any of the regulations made under subsection (1), then this section shall not apply to the trust or the holding company established for the purposes of the trust for the year of assessment to which that basis period relates, and for every subsequent year of assessment even if those regulations are satisfied in the basis period for the subsequent year of assessment.
 
 [Act 37 of 2014 wef 01/04/2014]
+
+[Act 32 of 2019 wef 01/04/2019]
 
 ### Exemption of income of company incorporated and resident in Singapore arising from funds managed by fund manager in Singapore
 
@@ -5820,11 +5870,13 @@ as the Minister may by regulations prescribe.
 
 [22/2011]
 
-(2) No approval shall be granted under subsection (1) after 31st March 2019.
+(2) No approval shall be granted under subsection (1) after 31 December 2024.
 
 [53/2007; 27/2009]
 
 [Act 37 of 2014 wef 01/04/2014]
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (3) Where —
 
@@ -6826,11 +6878,13 @@ that enables investors to invest funds in one or more underlying investments tha
 
 [29/2010; 22/2011]
 
-(2) The Minister or such person as he may appoint may, at any time between 1st April 2010 and 31st March 2019 (both dates inclusive), approve a foreign government-owned entity for the purpose of subsection (1).
+(2) The Minister or such person as he may appoint may, at any time between 1 April 2010 and 31 December 2024 (both dates inclusive), approve a foreign government-owned entity for the purpose of subsection (1).
 
 [29/2010]
 
 [Act 37 of 2014 wef 01/04/2014]
+
+[Act 32 of 2019 wef 01/04/2019]
 
 (3) Regulations made under subsection (1) may —
 
@@ -28257,6 +28311,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||31 December 2018|
 |||1 January 2019|
 |||19 February 2019|
+|||1 April 2019|
 ## COMPARATIVE TABLE
 
 Income Tax Act
