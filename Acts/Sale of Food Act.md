@@ -38,7 +38,7 @@
 
 - [8 Any person may have sample analysed](#Any-person-may-have-sample-analysed)
 
-- [9 Procedure for taking sample](#Procedure-for-taking-sample)
+- [9 (Repealed)](#Repealed)
 
 - [10 Certificate of authorised analyst](#Certificate-of-authorised-analyst)
 
@@ -132,13 +132,13 @@
 
 - [34 Authorised analyst’s certificate to be prima facie evidence](#Authorised-analyst’s-certificate-to-be-prima-facie-evidence)
 
-- [35 Court may order independent analysis](#Court-may-order-independent-analysis)
+- [35 (Repealed)](#Repealed)
 
 - [36 Non-disclosure of information](#Non-disclosure-of-information)
 
 - [37 Recovery of fees and other expenses incidental to prosecution](#Recovery-of-fees-and-other-expenses-incidental-to-prosecution)
 
-- [38 Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
+- [38 Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
 
 - [39 Appeal](#Appeal)
 
@@ -228,6 +228,10 @@ but does not include communications of personal opinion made by an individual (f
 
 [Act 48 of 2017 wef 01/02/2018]
 
+“Agency” means the Singapore Food Agency established by the Singapore Food Agency Act 2019;
+
+[Act 11 of 2019 wef 01/04/2019]
+
 “analysis” includes micro-biological assay, and “analyse” shall be construed accordingly;
 
 [Deleted by Act 48 of 2017 wef 01/02/2018]
@@ -236,9 +240,11 @@ but does not include communications of personal opinion made by an individual (f
 
 “authorised officer” means the Director-General and any person appointed by the Director-General to be an authorised officer under section 3(2);
 
-“Authority” means the Agri-Food and Veterinary Authority established under the Agri-Food and Veterinary Authority Act (Cap. 5);
+[Deleted by Act 11 of 2019 wef 01/04/2019]
 
-“Director-General” means the Director-General, Agri-Food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7);
+“Director-General” means the Director-General, Food Administration appointed under section 3(1);
+
+[Act 11 of 2019 wef 01/04/2019]
 
 “fish” means any species of fish (whether marine or freshwater), and includes —
 
@@ -446,7 +452,9 @@ but does not include —
 
 (c) a requirement of a notice or order given by the Director-General under this Act;
 
-(d) a requirement of a direction given by the Authority under Part IIA; or
+(d) a requirement of a direction given by the Director-General under Part IIA; or
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (e) a condition imposed by or under this Act or any food regulation;
 
@@ -732,21 +740,35 @@ ADMINISTRATION AND ENFORCEMENT
 
 ### Administration of Act and appointment of authorised officers, etc.
 
-3\.—(1) The Director-General shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
+3\.—(1) The Minister must appoint from among officers of the Agency the Director-General, Food Administration, who shall be responsible for the administration of this Act, subject to the general or special directions of the Minister.
 
 [7/2002]
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any statutory authority to be an authorised officer for the purposes of this Act.
+(2) The Director-General may in writing appoint any public officer or any officer of the Agency or any other statutory authority, or an auxiliary police officer appointed under the Police Force Act (Cap. 235), to be an authorised officer for the purposes of this Act.
 
 [7/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (3) The Director-General may appoint one or more persons with the prescribed qualifications and practical experience to be authorised analysts for the purposes of this Act.
 
 [7/2002]
 
-(4) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer.
+(4) The Director-General may delegate the exercise of all or any of the powers conferred or duties imposed upon him by this Act (except the power of delegation conferred by this subsection) to any authorised officer.
 
 [7/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(5) The Director-General may, for any reason that appears to the Director-General to be sufficient, at any time revoke a person’s appointment as an authorised officer or authorised analyst.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(6) An auxiliary police officer who is appointed as an authorised officer does not, by virtue only of the appointment, become an employee or agent of the Agency.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Power of authorised officers to enter, etc.
 
@@ -780,9 +802,11 @@ ADMINISTRATION AND ENFORCEMENT
 
 (2) Any person claiming anything seized under this section may within 48 hours after the seizure complain thereof to a Magistrate’s Court, and the complaint may be heard and determined by that Court, which may either confirm or disallow the seizure wholly or in part and may order the article seized to be restored.
 
-(3) If within 48 hours after such seizure no complaint has been made, or if the seizure is confirmed, the article seized shall become the property of the Authority and shall be destroyed or otherwise disposed of so as to prevent it being used for human consumption.
+(3) If within 48 hours after such seizure no complaint has been made, or if the seizure is confirmed, the article seized shall become the property of the Agency and shall be destroyed or otherwise disposed of so as to prevent it being used for human consumption.
 
 [7/2002]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (4) Where the seizure of any food or food contact article is made under subsection (1)(e), the authorised officer making the seizure shall immediately give notice in writing of the seizure in the form prescribed or designed under section 53 to the owner or to the consignor or consignee or to the agent of the owner of the thing seized, if his name and address are attached thereto or are otherwise known to the authorised officer and such address is in Singapore.
 
@@ -886,29 +910,7 @@ shall be guilty of an offence.
 
 [Act 48 of 2017 wef 01/02/2018]
 
-### Procedure for taking sample
-
-9\.—(1) When it is intended to submit any sample for analysis, the authorised officer purchasing or otherwise procuring it shall, before or immediately after procuring it, inform the seller or his agent selling the article or the person having charge of the article that he intends to have the article analysed by an authorised analyst.
-
-[7/2002]
-
-(2) Such authorised officer shall thereupon divide the sample into 3 parts, and shall mark and seal or fasten up, in such manner as its nature permits, each such part, and shall offer one of such parts to the seller or his agent or the person having charge of the article.
-
-[7/2002]
-
-(3) Such authorised officer shall subsequently deliver either personally or by registered post another of such parts to an authorised analyst, and shall retain the third of such parts.
-
-[7/2002]
-
-(4) Where —
-
-(a) a sample consists of a substance contained in unopened containers or packages; and
-
-(b) the division into parts of the substance contained in those unopened containers or packages is not reasonably practicable or might affect the composition or impede the proper analysis of the contents,
-
-subsection (2) shall be deemed to be complied with if the authorised officer procuring the sample divides the containers or packages into the requisite number of lots and deals with each lot in the manner provided by this section as if it were a part, and references in this Act to a part of a sample shall be construed accordingly.
-
-[7/2002]
+9\. [Repealed by Act 11 of 2019 wef 01/04/2019]
 
 ### Certificate of authorised analyst
 
@@ -940,7 +942,7 @@ General provisions
 
 ### Persons to whom directions may be given
 
-10A\. The Authority may give a direction under this Part to all or any of the following, individually or as a class:
+10A\. The Director-General may give a direction under this Part to all or any of the following, individually or as a class:
 
 (a) a licensee;
 
@@ -958,6 +960,8 @@ General provisions
 
 [Act 48 of 2017 wef 01/02/2018]
 
+[Act 11 of 2019 wef 01/04/2019]
+
 ### Content and effect of directions
 
 10B\.—(1) A direction under this Part is binding on —
@@ -968,45 +972,65 @@ General provisions
 
 (2) A direction under this Part must be in writing, or be confirmed in writing as soon as practicable after being given orally.
 
-(3) In making a direction under this Part, it is not necessary for the Authority to give any person who may be affected by the direction a chance to be heard before the direction is given.
+(3) In making a direction under this Part, it is not necessary for the Director-General to give any person who may be affected by the direction a chance to be heard before the direction is given.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (4) A direction under this Part must state —
 
 (a) whether the person to whom it is given must —
 
-(i) advise the Authority of the details of the manner in which the person proposes to comply with the direction;
+(i) advise the Director-General of the details of the manner in which the person proposes to comply with the direction;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (ii) keep information about the matters that are the subject of the direction;
 
-(iii) regularly notify the Authority about the steps being taken towards compliance with the direction; or
+(iii) regularly notify the Director-General about the steps being taken towards compliance with the direction; or
 
-(iv) give written notice to the Authority when the person has complied with the direction;
+[Act 11 of 2019 wef 01/04/2019]
+
+(iv) give written notice to the Director-General when the person has complied with the direction;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (b) that it is an offence under this Act to fail to comply with the direction;
 
-(c) that if the person to whom the direction is given fails to comply with it, the Authority may carry out the direction; and
+(c) that if the person to whom the direction is given fails to comply with it, the Director-General may carry out the direction; and
 
-(d) that if the Authority carries out the direction, the Authority may recover the costs reasonably incurred in carrying out the direction from the person to whom the direction was given.
+[Act 11 of 2019 wef 01/04/2019]
+
+(d) that if the Director-General carries out the direction, the Director-General may recover the costs reasonably incurred in carrying out the direction from the person to whom the direction was given.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (5) A direction under this Part continues in force until the earlier of the following occurs:
 
 (a) the expiry date (if any) stated in the direction is reached;
 
-(b) the Authority revokes the direction.
+(b) the Director-General revokes the direction.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (6) A direction under this Part may —
 
 (a) be amended or revoked at any time; and
 
-(b) be extended or renewed, if the Authority is satisfied that the circumstances warrant it.
+(b) be extended or renewed, if the Director-General is satisfied that the circumstances warrant it.
 
-(7) If a person to whom the direction is given fails or refuses to comply with it, the Authority may carry out the direction, and recover the costs and expenses reasonably incurred in carrying out the direction as a debt due from the person to whom the direction was given.
+[Act 11 of 2019 wef 01/04/2019]
 
-(8) If satisfied that a direction under this Part has been complied with, the Authority must —
+(7) If a person to whom the direction is given fails or refuses to comply with it, the Director-General may carry out the direction, and recover the costs and expenses reasonably incurred in carrying out the direction as a debt due from the person to whom the direction was given.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(8) If satisfied that a direction under this Part has been complied with, the Director-General must —
 
 (a) revoke the direction; and
 
 (b) give written notice of the revocation in the same manner in which the direction was given or served.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (9) Subsection (5) does not prevent a further direction being made in the same terms as a direction that has expired.
 
@@ -1028,9 +1052,13 @@ General provisions
 
 (b) published both —
 
-(i) in a daily newspaper circulating in Singapore or in any other news media that, in the opinion of the Authority, will be most likely to bring the direction to the attention of the persons who belong to the class; and
+(i) in a daily newspaper circulating in Singapore or in any other news media that, in the opinion of the Director-General, will be most likely to bring the direction to the attention of the persons who belong to the class; and
 
-(ii) on the Authority’s official website.
+[Act 11 of 2019 wef 01/04/2019]
+
+(ii) on the Agency’s official website.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (3) A direction under this Part that is addressed to a statutory authority is sufficiently served if it is served on the chief executive (however described) of the statutory authority in accordance with subsection (1).
 
@@ -1050,7 +1078,9 @@ Directions
 
 ### General corrective action direction
 
-10D\.—(1) The Authority may give a direction to any of the persons described in section 10A about the taking of preventative or corrective action in respect of food or a food contact article that the Authority reasonably believes is necessary (whether or not from the report of an authorised analyst or authorised officer) to ensure compliance with an applicable requirement of this Act with respect to food or food contact articles.
+10D\.—(1) The Director-General may give a direction to any of the persons described in section 10A about the taking of preventative or corrective action in respect of food or a food contact article that the Director-General reasonably believes is necessary (whether or not from the report of an authorised analyst or authorised officer) to ensure compliance with an applicable requirement of this Act with respect to food or food contact articles.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (2) Without limiting subsection (1), “corrective action”, in the case of a direction given to a food business, includes requiring the proprietor of the food business to do any one or more of the following:
 
@@ -1072,11 +1102,13 @@ Directions
 
 ### Direction to impose movement controls
 
-10E\.—(1) The Authority may give a direction in subsection (2) if it reasonably suspects (whether or not from the report of an authorised analyst or authorised officer) —
+10E\.—(1) The Director-General may give a direction in subsection (2) if the Director-General reasonably suspects (whether or not from the report of an authorised analyst or authorised officer) —
 
 (a) that food or any thing that may become food, or a food contact article, does not comply with an applicable requirement of this Act; or
 
 (b) the existence of a hazard or a source of contamination that may affect food or any thing that may become food.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (2) The direction may impose movement or related controls to determine, minimise, manage, or control the risk to human life or public health created by the suspected non‑compliance or suspected existence of the hazard or the source of contamination.
 
@@ -1104,7 +1136,9 @@ Directions
 
 (g) food businesses;
 
-(h) anything else that the Authority suspects relates to the suspected non‑compliance or the suspected hazard or the source of suspected contamination.
+(h) anything else that the Director-General suspects relates to the suspected non‑compliance or the suspected hazard or the source of suspected contamination.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (5) The controls on those things described in subsection (4) may do all or any of the following in relation to a food contact article, or food or any thing that may become food:
 
@@ -1126,13 +1160,15 @@ Directions
 
 (b) direct the provision of reports about matters that are the subject of the direction; or
 
-(c) direct the person to whom the direction is given to notify the Authority when —
+(c) direct the person to whom the direction is given to notify the Director-General when —
 
 (i) the non-compliance, hazard, or source of contamination has been identified;
 
 (ii) the non-compliance, hazard, or source of contamination has been minimised or removed; or
 
 (iii) no non-compliance, hazard, or source of contamination has been identified.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (7) In this section, “hazard” means a biological, chemical or physical agent that —
 
@@ -1144,15 +1180,21 @@ Directions
 
 ### Direction to recall food or food contact article
 
-10F\.—(1) The Authority may give any direction in subsection (2) to persons described in section 10A —
+10F\.—(1) The Director-General may give any direction in subsection (2) to persons described in section 10A —
 
-(a) for the purpose of examining, rectifying, controlling, or disposing of food or a food contact article, after taking into account any relevant information or warnings about food or a food contact article that the Authority has received from authorised officers, or an international organisation or authority; or
+(a) for the purpose of examining, rectifying, controlling, or disposing of food or a food contact article, after taking into account any relevant information or warnings about food or a food contact article that the Director‑General has received from authorised officers, or an international organisation or authority; or
 
-(b) if the Authority has reasonable grounds to believe that the direction is necessary —
+[Act 11 of 2019 wef 01/04/2019]
+
+(b) if the Director‑General has reasonable grounds to believe that the direction is necessary —
 
 (i) to prevent or reduce the possibility of a serious danger to public health; or
 
 (ii) to mitigate the adverse consequences of a serious danger to public health.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (2) The directions are —
 
@@ -1168,31 +1210,41 @@ Directions
 
 (i) a place specified in the directions; or
 
-(ii) a place agreed to between the Authority and the person to whom the directions are given; or
+(ii) a place agreed to between the Director-General and the person to whom the directions are given; or
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (f) any directions that may be given under section 10G, as appropriate.
 
 (3) A direction to recall food or a food contact article may specify the manner in which, and must specify the period within which, the recall is to be conducted and completed.
 
-(4) A person who is required by a direction to recall food or a food contact article must give written notice to the Authority of the completion of the recall as soon as practicable after that completion.
+(4) A person who is required by a direction to recall food or a food contact article must give written notice to the Director-General of the completion of the recall as soon as practicable after that completion.
 
-(5) If a person to whom the direction is given under this section fails or refuses to comply with it, the Authority may —
+[Act 11 of 2019 wef 01/04/2019]
+
+(5) If a person to whom the direction is given under this section fails or refuses to comply with it, the Director-General may —
 
 (a) take any reasonable steps necessary to ensure control of the food or food contact article (including entry by authorised officers to a place under a warrant); and
 
 (b) recover the costs and expenses reasonably incurred in assuming control of the food or food contact article as a debt due from the person to whom the direction was given.
 
-(6) This section does not prevent the Authority exercising its power under section 10I.
+[Act 11 of 2019 wef 01/04/2019]
+
+(6) This section does not prevent the Agency exercising its power under section 10I.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 [Act 48 of 2017 wef 01/02/2018]
 
 ### Direction to manage food or food contact article
 
-10G\.—(1) The Authority may give any direction in subsection (2) to persons described in section 10A if the Authority —
+10G\.—(1) The Director-General may give any direction in subsection (2) to persons described in section 10A if the Director-General —
 
 (a) reasonably believes that food or a food contact article that is already the subject of a direction under section 10E is not safe or suitable and further controls are required; or
 
 (b) recalls food or a food contact article under section 10F.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (2) The direction may be about doing or not doing any of the following to the food or food contact article:
 
@@ -1218,9 +1270,11 @@ Directions
 
 ### Direction to publish statement
 
-10H\.—(1) The Authority may give to persons described in section 10A a direction about publishing a statement to the public, or to a class of persons specified in the direction, for the purpose of protecting the public or class of persons, as the case may be.
+10H\.—(1) The Director-General may give to persons described in section 10A a direction about publishing a statement to the public, or to a class of persons specified in the direction, for the purpose of protecting the public or class of persons, as the case may be.
 
-(2) The Authority may specify that the statement must include all or any of the following:
+[Act 11 of 2019 wef 01/04/2019]
+
+(2) The Director-General may specify that the statement must include all or any of the following:
 
 (a) the nature of the problem, including (where applicable) —
 
@@ -1234,15 +1288,21 @@ Directions
 
 (c) the way in which the person will prevent the problem arising in future.
 
-(3) The Authority may specify the actual words to be used in the statement or any part of it.
+[Act 11 of 2019 wef 01/04/2019]
 
-(4) The Authority may specify all or any of the following:
+(3) The Director-General may specify the actual words to be used in the statement or any part of it.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) The Director-General may specify all or any of the following:
 
 (a) who must publish the statement;
 
 (b) where the statement must be published;
 
 (c) the date on which the statement must be published.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (5) Statements published under this section are protected by absolute privilege.
 
@@ -1254,19 +1314,29 @@ Supplementary provisions
 
 ### Compensation
 
-10I\.—(1) A person bound by a direction under this Part who suffers loss as a result of the making of the direction may apply to the Authority for compensation if the person considers that there were insufficient grounds for the making of the direction.
+10I\.—(1) A person bound by a direction under this Part who suffers loss as a result of the making of the direction may apply to the Agency for compensation if the person considers that there were insufficient grounds for the making of the direction.
 
-(2) If there were insufficient grounds for the making of the direction, the Authority is to pay just and reasonable compensation to the applicant.
+[Act 11 of 2019 wef 01/04/2019]
 
-(3) The Authority must send written notification of the Authority’s determination as to the payment of compensation under this section to each applicant for the payment of compensation.
+(2) If there were insufficient grounds for the making of the direction, the Agency is to pay just and reasonable compensation to the applicant.
 
-(4) If the Authority has not determined an application for compensation under this section within 28 days after receiving the application, the Authority is taken to have refused to pay any compensation.
+[Act 11 of 2019 wef 01/04/2019]
 
-(5) An applicant for the payment of compensation under this section who is dissatisfied with a determination by the Authority as to the refusal to pay compensation or as to the amount of compensation may apply to the District Court for a review of the determination —
+(3) The Agency must send written notification of the Agency’s determination as to the payment of compensation under this section to each applicant for the payment of compensation.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) If the Agency has not determined an application for compensation under this section within 28 days after receiving the application, the Agency is taken to have refused to pay any compensation.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(5) An applicant for the payment of compensation under this section who is dissatisfied with a determination by the Agency as to the refusal to pay compensation or as to the amount of compensation may apply to the District Court for a review of the determination —
 
 (a) within 14 days after the day on which notification of the determination was received; or
 
 (b) in a case to which subsection (4) applies, within 14 days after the 28‑day period mentioned in that subsection ends.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (6) If the amount of compensation sought exceeds the jurisdictional limit of the District Court, the application under subsection (5) is to be made to the High Court.
 
@@ -1316,7 +1386,7 @@ and any reference in this section to the Minister includes a reference to the Se
 
 (a) the Animals and Birds Act (Cap. 7);
 
-(b) the Cattle Act (Cap. 34);
+(b) [Deleted by Act 11 of 2019 wef 01/04/2019]
 
 (c) the Control of Plants Act (Cap. 57A);
 
@@ -1436,7 +1506,9 @@ must not publish an advertisement described in subsection (1) relating to the fo
 
 (a) ought reasonably to have known that the publication of the advertisement was an offence under this Part;
 
-(b) had previously been informed in writing by or on behalf of the Authority that publication of such an advertisement would constitute an offence under this Part; or
+(b) had previously been informed in writing by or on behalf of the Director-General that publication of such an advertisement would constitute an offence under this Part; or
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (c) is the proprietor of a food business or is otherwise engaged in the conduct of a food business for which the advertisements concerned were published.
 
@@ -1636,21 +1708,9 @@ LEGAL PROCEEDINGS
 
 [7/2002]
 
-(3) Subject to subsection (4), no proceedings in respect of any offence under this Act shall be instituted —
+(3) [Deleted by Act 11 of 2019 wef 01/04/2019]
 
-(a) in any case where any food or any food contact article has been purchased or procured from any person for test purposes, after the expiration of 56 days from the time of purchasing or procuring the food or food contact article, as the case may be; and
-
-[Act 48 of 2017 wef 01/02/2018]
-
-(b) in any other case, after the expiration of one year from the date of commission of such offence.
-
-[7/2002]
-
-(4) Subsection (3)(b) shall not apply in any case where, by reason of the act or omission complained of, an injury or danger to health subsists at the date of the complaint.
-
-[25
-
-[7/2002]
+(4) [Deleted by Act 11 of 2019 wef 01/04/2019]
 
 ### No defence that purchaser bought for analysis
 
@@ -1714,13 +1774,7 @@ LEGAL PROCEEDINGS
 
 [29
 
-### Court may order independent analysis
-
-35\. When a sample has been dealt with in accordance with section 9, the District Court or the Magistrate’s Court shall, on the request of either party to any proceedings for any offence under this Act, and may, if it thinks fit without such request, order the part of the sample retained by an authorised officer to be submitted to another authorised analyst for analysis.
-
-[30
-
-[7/2002]
+35\. [Repealed by Act 11 of 2019 wef 01/04/2019]
 
 ### Non-disclosure of information
 
@@ -1734,7 +1788,7 @@ LEGAL PROCEEDINGS
 
 ### Recovery of fees and other expenses incidental to prosecution
 
-37\.—(1) When any person is convicted of an offence under this Act, the court may order that all fees and other expenses incidental to the analysis of any food or food contact article in respect of which the conviction is obtained, including an analysis made under section 35, and any other reasonable expenses incurred by the prosecution, shall be paid by the person convicted.
+37\.—(1) When any person is convicted of an offence under this Act, the court may order that all fees and other expenses incidental to the analysis of any food or food contact article in respect of which the conviction is obtained, and any other reasonable expenses incurred by the prosecution, shall be paid by the person convicted.
 
 (2) All such fees and expenses shall be recoverable in the same manner as a fine is recoverable.
 
@@ -1742,15 +1796,19 @@ LEGAL PROCEEDINGS
 
 [Act 48 of 2017 wef 01/02/2018]
 
-### Fees, etc., payable to Authority
+[Act 11 of 2019 wef 01/04/2019]
 
-38\. All fees, charges and moneys collected under this Act (except financial penalties and composition sums collected under sections 46 and 50) shall be paid to the Authority.
+### Fees, etc., payable to Agency
+
+38\. All fees, charges and moneys collected under this Act (except financial penalties and composition sums collected under sections 46 and 50) shall be paid to the Agency.
 
 [32A
 
 [7/2002]
 
 [Act 48 of 2017 wef 01/02/2018]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Appeal
 
@@ -1796,7 +1854,9 @@ SUPPLEMENTARY PROVISIONS
 
 (a) ought reasonably to have known that the publication of the advertisement was an offence under subsection (3); or
 
-(b) had previously been informed in writing by or on behalf of the Authority that publication of such an advertisement would constitute an offence under subsection (3).
+(b) had previously been informed in writing by or on behalf of the Director-General that publication of such an advertisement would constitute an offence under subsection (3).
+
+[Act 11 of 2019 wef 01/04/2019]
 
 [Act 48 of 2017 wef 01/02/2018]
 
@@ -1826,17 +1886,21 @@ SUPPLEMENTARY PROVISIONS
 
 ### Forfeiture of food or food contact article upon conviction
 
-42\.—(1) In the case of any conviction under this Act the District Court or the Magistrate’s Court, as the case may be, may order that any food or food contact article to which the conviction relates and any similar food or food contact article found on the defendant’s premises or in his possession at the time of the commission of the offence, together with all packages or vessels containing the food or food contact article, shall be forfeited to the Authority.
+42\.—(1) In the case of any conviction under this Act the District Court or the Magistrate’s Court, as the case may be, may order that any food or food contact article to which the conviction relates and any similar food or food contact article found on the defendant’s premises or in his possession at the time of the commission of the offence, together with all packages or vessels containing the food or food contact article, shall be forfeited to the Agency.
 
 [7/2002]
 
-(2) Everything so forfeited to the Authority shall be disposed of as the Director-General thinks fit.
+(2) Everything so forfeited to the Agency shall be disposed of as the Director-General thinks fit.
 
 [36
 
 [7/2002]
 
+[Act 11 of 2019 wef 01/04/2019]
+
 [Act 48 of 2017 wef 01/02/2018]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Notification of conviction
 
@@ -2144,7 +2208,7 @@ and any reference in that subsection to the Minister includes a reference to the
 
 [Act 48 of 2017 wef 01/02/2018]
 
-(eb) setting out requirements and procedures for document control and recording by food businesses to achieve the safety and suitability of food, including —
+(eb) setting out requirements and procedures for document control and recording by food businesses to achieve the safety and suitability of food and to support a secure and reliable supply of food, including —
 
 (i) the information that must be collected about food or a food contact article;
 
@@ -2154,9 +2218,13 @@ and any reference in that subsection to the Minister includes a reference to the
 
 [Act 48 of 2017 wef 01/02/2018]
 
-(ec) setting out requirements that apply to imported food or food contact articles to ensure that the food or food contact article is safe and suitable, including keeping of records in relation to the source or traceability and handling of the food or food contact article imported;
+[Act 11 of 2019 wef 01/04/2019]
+
+(ec) setting out requirements that apply to imported food or food contact articles to ensure that the food or food contact article is safe and suitable and to support a secure and reliable supply of imported food in Singapore, including keeping of records in relation to the source or traceability and handling of the food or food contact article imported;
 
 [Act 48 of 2017 wef 01/02/2018]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (f) to prescribe the method of analysis of any food and form of certificate of analysis;
 
@@ -2228,6 +2296,20 @@ and any reference in that subsection to the Minister includes a reference to the
 
 [Act 48 of 2017 wef 01/02/2018]
 
+(3D) The Minister may, in making any regulations, prescribe the circumstances when a trade mark may or may not be used on or in relation to any packaging or container of any particular food, or on any particular food, or in any advertisement relating to any particular food, but these circumstances and the operation of those regulations are not circumstances that make it reasonable or appropriate —
+
+(a) to not register the trade mark under the Trade Marks Act (Cap. 332);
+
+(b) to revoke the acceptance of an application for registration of the trade mark under that Act;
+
+(c) to register the trade mark subject to conditions or limitations under that Act;
+
+(d) to revoke the registration of the trade mark under that Act; or
+
+(e) to declare invalid under that Act the registration of the trade mark.
+
+[Act 11 of 2019 wef 01/04/2019]
+
 (4) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
 (5) Notwithstanding anything in any regulations made under this section, any person may, at any time within 12 months after the date of the publication in theGazetteof such regulations, sell any food the sale of which is otherwise lawful, if he proves that at that date the food or food contact article was part of the existing stock-in-trade in Singapore of any person carrying on business there and that since that date no act has been done whereby the food or food contact article fails to conform to the requirements of those regulations.
@@ -2266,6 +2348,10 @@ This Legislative History is provided for the convenience of users of the Sale of
 ||Date of First Reading|2 October 2017 (Bill No. 42/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|7 November 2017|
 ||Date of commencement|1 February 2018|
+|6.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Sale of Food Act
