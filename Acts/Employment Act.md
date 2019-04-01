@@ -104,7 +104,7 @@
 
 - [42 (Repealed)](#Repealed)
 
-- [43 Annual leave](#Annual-leave)
+- [43 (Repealed)](#Repealed)
 
 - [44 (Repealed)](#Repealed)
 
@@ -216,9 +216,11 @@
 
 - [87A Childcare leave for parent](#Childcare-leave-for-parent)
 
-[**Part X HOLIDAY AND SICK LEAVE ENTITLEMENTS**](#Part-X)
+[**Part X HOLIDAY, ANNUAL LEAVE AND SICK LEAVE ENTITLEMENTS**](#Part-X)
 
 - [88 Holidays](#Holidays)
+
+- [88A Annual leave](#Annual-leave)
 
 - [89 Sick leave](#Sick-leave)
 
@@ -241,6 +243,8 @@
 - [95A Employers’ obligation to give record of key employment terms](#Employers’-obligation-to-give-record-of-key-employment-terms)
 
 - [96 Employers’ obligation in relation to pay slips](#Employers’-obligation-in-relation-to-pay-slips)
+
+- [96A Employer’s obligation to furnish information on retrenchment of employees](#Employer’s-obligation-to-furnish-information-on-retrenchment-of-employees)
 
 - [97 Returns](#Returns)
 
@@ -368,7 +372,7 @@
 
 - [139 Power to make regulations](#Power-to-make-regulations)
 
-- [140 Power to amend First and Second Schedules](#Power-to-amend-First-and-Second-Schedules)
+- [140 Amendment of Schedules](#Amendment-of-Schedules)
 
 [**FIRST SCHEDULE Workmen**](#FIRST-SCHEDULE-Workmen)
 
@@ -448,11 +452,13 @@ PRELIMINARY
 
 “dependant” means any of the following members of an employee’s family, namely, wife, husband, father, mother, child and any adopted or illegitimate child living with or dependent on him;
 
-“dismiss” means the termination of the contract of service of an employee by his employer, with or without notice and whether on the grounds of misconduct or otherwise;
+“dismiss” means to terminate the contract of service between an employer and an employee at the initiative of the employer, with or without notice and for cause or otherwise, and includes the resignation of an employee if the employee can show, on a balance of probabilities, that the employee did not resign voluntarily but was forced to do so because of any conduct or omission, or course of conduct or omissions, engaged in by the employer;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 “domestic worker” means any house, stable or garden servant or motor car driver, employed in or in connection with the domestic services of any private premises;
 
-“employee” means a person who has entered into or works under a contract of service with an employer and includes a workman, and any officer or employee of the Government included in a category, class or description of such officers or employees declared by the President to be employees for the purposes of this Act or any provision thereof, but does not include —
+“employee” means a person who has entered into or works under a contract of service with an employer and includes a workman, and any officer or employee of the Government included in a category, class or description of such officers or employees declared by the President to be employees for the purposes of this Act or any provision thereof, but does not include any of the following:
 
 (a) any seafarer;
 
@@ -460,9 +466,11 @@ PRELIMINARY
 
 (b) any domestic worker;
 
-(c) subject to subsection (2), any person employed in a managerial or an executive position; and
+(c) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
 (d) any person belonging to any other class of persons whom the Minister may, from time to time by notification in theGazette, declare not to be employees for the purposes of this Act;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 “employer” means any person who employs another person under a contract of service and includes —
 
@@ -508,11 +516,15 @@ PRELIMINARY
 
 “medical officer” means —
 
-(a) a dentist registered under the Dental Registration Act (Cap. 76), or a medical practitioner, employed by the Government or by an approved medical institution; or
+(a) a medical practitioner employed by the Government or an approved medical institution; or
 
-(b) any other medical practitioner whom the Minister, by notification in theGazette, declares as a medical officer;
+(b) any other medical practitioner whom the Minister declares, by notification in theGazette, to be a medical officer for the purposes of this Act;
 
-“medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174);
+[Act 55 of 2018 wef 01/04/2019]
+
+“medical practitioner” means a medical practitioner registered under the Medical Registration Act (Cap. 174), and includes a dentist registered under the Dental Registration Act (Cap. 76);
+
+[Act 55 of 2018 wef 01/04/2019]
 
 “no-pay leave”, for an employee, means leave of absence without pay granted by the employer at the request of the employee;
 
@@ -564,6 +576,10 @@ but does not include any payment which forms part of the employee’s regular re
 
 “subcontractor for labour” means any person who contracts with a contractor or subcontractor to supply the labour required for the execution of the whole or any part of any work a contractor or subcontractor has contracted to carry out for a principal or contractor, as the case may be;
 
+“Tribunal” means an Employment Claims Tribunal constituted under section 4 of the State Courts Act (Cap. 321);
+
+[Act 55 of 2018 wef 01/04/2019]
+
 “wages” means salary;
 
 “week” means a continuous period of 7 days;
@@ -586,9 +602,7 @@ Provided that when any person is employed by any one employer partly as a workma
 
 [21/84; 36/95; 41/2004; 32/2008]
 
-(2) Any person who is employed in a managerial or an executive position and is in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described), or such other amount as may be prescribed in substitution by the Minister, shall be regarded as an employee for the purposes of this Act except the provisions in Part IV.
-
-[Act 26 of 2013 wef 01/04/2014]
+(2) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
 ### Appointment of officers
 
@@ -704,9 +718,13 @@ CONTRACTS OF SERVICE
 
 (b) instantly suspend him from work without payment of salary for a period not exceeding one week.
 
-(2) Notwithstanding subsection (1), where a relevant employee considers that he has been dismissed without just cause or excuse by his employer, he may, within one month of the dismissal, make representations in writing to the Minister to be reinstated in his former employment.
+(2) Despite subsection (1), but subject to section 3 of the Employment Claims Act 2016 (Act 21 of 2016), where a relevant employee considers that he has been dismissed without just cause or excuse by his employer, the employee may lodge a claim, under section 13 of that Act, for one of the following remedies:
 
-[Act 26 of 2013 wef 01/04/2014]
+(a) reinstatement in his former employment;
+
+(b) compensation.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (2A) For the purposes of subsection (2), a relevant employee means —
 
@@ -716,7 +734,9 @@ CONTRACTS OF SERVICE
 
 (ii) who is dismissed without notice but receives payment of any salary in lieu of notice,
 
-after having served that employer for at least 12 months in any position (whether or not a managerial or an executive position);
+after having served that employer for at least 6 months in any position (whether or not a managerial or an executive position);
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) an employee employed in a managerial or an executive position who is dismissed without notice and without salary in lieu of such notice; or
 
@@ -724,29 +744,39 @@ after having served that employer for at least 12 months in any position (whethe
 
 [Act 26 of 2013 wef 01/04/2014]
 
-(3) The Minister may, before making a decision on any such representations, by writing under his hand request the Commissioner to inquire into the dismissal and report whether in his opinion the dismissal is without just cause or excuse.
+(3) If a Tribunal hearing the claim is satisfied that the employee has been dismissed without just cause or excuse, the Tribunal may, despite any rule of law or agreement to the contrary —
 
-(4) If, after considering the report made by the Commissioner under subsection (3), the Minister is satisfied that the employee has been dismissed without just cause or excuse, he may, notwithstanding any rule of law or agreement to the contrary —
+(a) in a claim for reinstatement of the employee in his former employment, direct the employer —
 
-(a) direct the employer to reinstate the employee in his former employment and to pay the employee an amount that is equivalent to the wages that the employee would have earned had he not been dismissed by the employer; or
+(i) to reinstate the employee in the employee’s former employment; and
 
-(b) direct the employer to pay such amount of wages as compensation as may be determined by the Minister,
+(ii) to pay the employee an amount equivalent to the wages that the employee would have earned, if the employee had not been dismissed; or
 
-and the employer shall comply with the direction of the Minister.
+(b) in a claim for compensation, direct the employer to pay, as compensation to the employee, an amount of wages determined by the Tribunal.
 
-(5) The decision of the Minister on any representation made under this section shall be final and conclusive and shall not be challenged in any court.
+[Act 55 of 2018 wef 01/04/2019]
 
-(6) Any direction of the Minister under subsection (4) shall operate as a bar to any action for damages by the employee in any court in respect of the wrongful dismissal.
+(4) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-(7) An employer who fails to comply with the direction of the Minister under subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(5) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-[32/2008]
+(6) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-(7A) Where any amount to be paid by an employer under subsection (4) is not paid in accordance with the direction of the Minister and the employer has been convicted of an offence under subsection (7), the amount or so much thereof as remains unpaid shall be recoverable by the court as if it were a fine and the amount so recoverable shall be paid to the employee entitled to payment under the direction of the Minister.
+(7) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-[36/95]
+(7A) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-(8) For the purpose of an inquiry under subsection (1), the employer may suspend the employee from work for a period not exceeding one week but shall pay him not less than half his salary for such period.
+(8) For the purposes of an inquiry under subsection (1), the employer —
+
+(a) may suspend the employee from work for —
+
+(i) a period not exceeding one week; or
+
+(ii) such longer period as the Commissioner may determine on an application by the employer; but
+
+(b) must pay the employee at least half the employee’s salary during the period the employee is suspended from work.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (9) If the inquiry does not disclose any misconduct on the part of the employee, the employer shall immediately restore to the employee the full amount of the salary so withheld.
 
@@ -1002,25 +1032,55 @@ in that month
 
 (b) deductions for damage to or loss of goods expressly entrusted to an employee for custody or for loss of money for which an employee is required to account, where the damage or loss is directly attributable to his neglect or default;
 
-(c) deductions for the actual cost of meals supplied by the employer at the request of the employee;
+(c) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-(d) deductions for house accommodation supplied by the employer;
+(d) deductions made with the written consent of the employee for house accommodation supplied by the employer;
 
-(e) deductions for such amenities and services supplied by the employer as the Commissioner may authorise;
+[Act 55 of 2018 wef 01/04/2019]
 
-(f) deductions for recovery of advances or loans or for adjustment of over-payments of salary;
+(e) deductions made with the written consent of the employee for such amenities and services supplied by the employer as the Commissioner may authorise;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(f) any deduction for the recovery of any advance, loan or unearned employment benefit, or for the adjustment of any overpayment of salary;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (g) [Deleted by Act 26 of 2013 wef 01/04/2014]
 
 (h) deductions of contributions payable by an employer on behalf of an employee under and in accordance with the provisions of the Central Provident Fund Act (Cap. 36);
 
-(i) deductions made at the request of the employee for the purpose of a superannuation scheme or provident fund or any other scheme which is lawfully established for the benefit of the employee and is approved by the Commissioner;
+(i) any deduction (other than a deduction mentioned in paragraphs (a) to (h), (j) and (k)) made with the written consent of the employee;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (j) deductions made with the written consent of the employee and paid by the employer to any cooperative society registered under any written law for the time being in force in respect of subscriptions, entrance fees, instalments of loans, interest and other dues payable by the employee to such society; and
 
-(k) any other deductions which may be approved from time to time by the Minister.
+(k) any other prescribed deductions.
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(1A) A written consent of an employee for any deduction mentioned in subsection (1)(d), (e), (i) or (j) may be withdrawn by the employee giving written notice of the withdrawal to the employer at any time before the deduction is made.
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(1B) An employee cannot be penalised for withdrawing a written consent for any deduction mentioned in subsection (1)(d), (e), (i) or (j).
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (2) For the purposes of subsection (1)(e), “services” does not include the supply of tools and raw materials required for the purposes of employment.
+
+(3) In subsection (1)(f), “employment benefit” —
+
+(a) means any benefit that an employee derives from being employed, other than salary; and
+
+(b) includes (but is not limited to) benefits such as the following:
+
+(i) any annual leave in excess of the annual leave to which the employee is entitled under section 88A;
+
+(ii) any flexible employment benefit (such as an allowance that can be utilised, at the employee’s discretion, for any of certain purposes specified in the employee’s contract of service).
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ### Deductions for absence
 
@@ -1044,7 +1104,9 @@ in that month
 
 ### Deductions for accommodation, amenity and service
 
-30\.—(1) A deduction under section 27(1)(d) or (e) shall not be made from the salary of an employee unless the house accommodation, amenity or service has been accepted by him, as a term of employment or otherwise.
+30\. 
+
+—(1) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
 (2) Any deduction under section 27(1)(d) or (e) shall not exceed an amount equivalent to the value of the house accommodation, amenity or service supplied, and the total amount of all deductions under section 27(1)(d) and (e) made from the salary of the employee by his employer in any one salary period shall in no case exceed one-quarter (or such other proportion prescribed in substitution by the Minister) of the salary payable to the employee in respect of that period.
 
@@ -1086,11 +1148,9 @@ in that month
 
 (a) to workmen who are in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister; and
 
-(b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
+(b) to every employee (other than a workman or a person employed in a managerial or an executive position) who receives a salary not exceeding $2,600 a month (excluding any overtime payment, bonus payment, annual wage supplement, productivity incentive payment and any allowance however described) or such other amount as the Minister may prescribe.
 
-[32/2008]
-
-[Act 26 of 2013 wef 01/04/2014]
+[Act 55 of 2018 wef 01/04/2019]
 
 (2) When, on the application of a person holding a mortgage, charge or lien or of a person who has obtained a judgment or decree, the property of an employer is sold, or any money due to the employer is garnished, the court ordering the sale or garnishment shall not distribute the proceeds of the sale or the money to the person entitled thereto unless the court has ascertained and paid the salary due to all the employees employed by that employer and to all employees engaged by a contractor or subcontractor and working for that employer.
 
@@ -1140,11 +1200,9 @@ REST DAYS, HOURS OF WORK AND OTHER CONDITIONS OF SERVICE
 
 (a) to workmen who are in receipt of a salary not exceeding $4,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister; and
 
-(b) to employees (other than workmen) who are in receipt of a salary not exceeding $2,500 a month (excluding overtime payments, bonus payments, annual wage supplements, productivity incentive payments and any allowance however described) or such other amount as may be prescribed by the Minister.
+(b) to every employee (other than a workman or a person employed in a managerial or an executive position) who receives a salary not exceeding $2,600 a month (excluding any overtime payment, bonus payment, annual wage supplement, productivity incentive payment and any allowance however described) or such other amount as the Minister may prescribe.
 
-[32/2008]
-
-[Act 26 of 2013 wef 01/04/2014]
+[Act 55 of 2018 wef 01/04/2019]
 
 ### Rest day
 
@@ -1338,39 +1396,7 @@ Holidays
 
 42\. [Repealed by Act 32 of 2008]
 
-### Annual leave
-
-43\.—(1) An employee who has served an employer for a period of not less than 3 months shall be entitled to paid annual leave of 7 days in respect of the first 12 months of continuous service with the same employer and an additional one day’s paid annual leave for every subsequent 12 months of continuous service with the same employer subject to a maximum of 14 days of such leave which shall be in addition to the rest days, holidays and sick leave to which the employee is entitled under sections 36, 88 and 89, respectively.
-
-[21/84; 36/95; 32/2008]
-
-(2) An employee who has served an employer for a period of not less than 3 months but who has not completed 12 months of continuous service in any year shall be entitled to annual leave in proportion to the number of completed months of service in that year.
-
-[21/84; 36/95]
-
-(3) In calculating the proportionate annual leave under subsection (2), any fraction of a day which is less than one-half of a day shall be disregarded and where the fraction of the day is one-half or more it shall be regarded as one day.
-
-[21/84]
-
-(4) Where an employee is granted leave of absence without pay by the employer at the request of the employee, the period of the leave shall be disregarded for the purpose of computing continuous service under this section.
-
-[21/84]
-
-(5) An employee shall forfeit his entitlement to annual leave if he absents himself from work without the permission of the employer or without reasonable excuse for more than 20% of the working days in the months or year, as the case may be, in which his entitlement to such leave accrues.
-
-[21/84]
-
-(6) The employer shall grant and the employee shall take such leave not later than 12 months after the end of every 12 months of continuous service and any employee who fails to take that leave by the end of such period shall thereupon cease to be entitled thereto.
-
-[21/84]
-
-(7) The employer shall pay the employee his gross rate of pay for every day of such leave and if an employee has been dismissed otherwise than for misconduct before he has taken that leave, the employer shall pay the employee his gross rate of pay in respect of every day of that leave.
-
-[21/84; 36/95]
-
-(8) The Minister may, by notification in theGazette, fix the periods when and prescribe the manner in which annual leave shall be granted to employees in different types of employment or in different classes of industries.
-
-[21/84]
+43\. [Repealed by Act 55 of 2018 wef 01/04/2019]
 
 Sick Leave
 
@@ -1470,17 +1496,7 @@ Interpretation of “ordinary rate of pay”
 
 (2) [Deleted by Act 32 of 2008]
 
-(3) Notwithstanding subsection (1) —
-
-(a) an employer and his employees or a trade union representing his employees may negotiate for and agree to terms of service relating to leave more favourable than those contained in section 43; and
-
-[4/2010 wef 05/02/2010]
-
-(b) it shall not be an offence for an employer to grant to his employees terms of service relating to leave more favourable than those contained in section 43.
-
-[36/95; 32/2008]
-
-[4/2010 wef 05/02/2010]
+(3) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
 ## PART V
 
@@ -1895,35 +1911,33 @@ shall have the effect of depriving her of any payment to which, but for that not
 
 [28/2008]
 
-(2) If any question arises as to whether any notice of dismissal given under subsection (1) was or was not given for sufficient cause, it shall be referred to the Minister within 2 months from the date of the employee’s confinement.
+(2) Subject to section 3 of the Employment Claims Act 2016, where a female employee in the circumstances mentioned in subsection (1)(a), (b) or (c) considers that a notice of dismissal given to her was not given for sufficient cause, the female employee may lodge a claim, under section 13 of that Act, for one of the following remedies:
 
-[36/95]
+(a) reinstatement in her former employment;
 
-(3) Where the Minister is satisfied that the employee has been dismissed without sufficient cause, he may, notwithstanding any rule of law or agreement to the contrary —
+(b) compensation.
 
-(a) direct the employer to reinstate the employee in her former employment and pay the employee an amount equal to the wages that the employee would have earned had she not been dismissed by the employer; or
+[Act 55 of 2018 wef 01/04/2019]
 
-(b) direct the employer to pay such amount of wages as compensation as the Minister may consider just and equitable having regard to all the circumstances of the case,
+(3) If a Tribunal hearing the claim is satisfied that the female employee has been dismissed without sufficient cause, the Tribunal may, despite any rule of law or agreement to the contrary —
 
-and the employer shall comply with the direction of the Minister.
+(a) in a claim for reinstatement of the employee in her former employment, direct the employer —
 
-[36/95]
+(i) to reinstate the employee in her former employment; and
 
-(4) The decision of the Minister under subsection (3) shall be final and conclusive and shall not be challenged in any court.
+(ii) to pay the employee an amount equivalent to the wages that the employee would have earned, if she had not been dismissed by the employer; or
 
-[36/95]
+(b) in a claim for compensation, direct the employer to pay, as compensation to the employee, an amount of wages determined by the Tribunal to be just and equitable having regard to all the circumstances of the case.
 
-(5) Any direction of the Minister under subsection (3) shall operate as a bar to any action for damages by the employee in any court in respect of the dismissal without sufficient cause under subsection (1).
+[Act 55 of 2018 wef 01/04/2019]
 
-[36/95]
+(4) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-(6) An employer who fails to comply with the direction of the Minister under subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+(5) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-[36/95; 28/2008]
+(6) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-(7) Where any amount to be paid by an employer under subsection (3) is not paid in accordance with the direction of the Minister and the employer has been convicted of an offence under subsection (6), the amount or so much thereof as remains unpaid shall be recoverable by the court as if it were a fine and the amount so recoverable shall be paid to the employee entitled to payment under the direction of the Minister.
-
-[36/95]
+(7) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
 ### Right to benefit unaffected by notice of dismissal given on ground of redundancy or by reason of reorganisation of employer’s profession, business, trade or work
 
@@ -2015,9 +2029,11 @@ he shall be entitled to childcare leave of 2 days for that relevant period.
 
 [41/2004; 28/2008]
 
-(3) The childcare leave shall be in addition to the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 43 and 89, respectively.
+(3) The childcare leave shall be in addition to the rest days, holidays, annual leave and sick leave to which an employee is entitled under sections 36, 88, 88A and 89, respectively.
 
 [41/2004; 32/2008]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (4) An employer shall grant, and an employee who is entitled to childcare leave shall take, the entitlement of childcare leave of 2 days for a relevant period not later than the last day of that relevant period, and any employee who fails to take that leave by that day —
 
@@ -2081,7 +2097,9 @@ on at least one other occasion on or after 1st May 2013 and before the date on w
 
 ## PART X
 
-HOLIDAY AND SICK LEAVE ENTITLEMENTS
+HOLIDAY, ANNUAL LEAVE AND SICK LEAVE ENTITLEMENTS
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ### Holidays
 
@@ -2121,7 +2139,7 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 [Act 27 of 2015 wef 22/08/2015]
 
-(4A) Notwithstanding subsections (1) and (4), where an employee who is employed in a managerial or an executive position is required by his employer to work on any public holiday to which he would otherwise be entitled under subsection (1), the employee shall be paid the gross rate of pay for that day and may be given the following, in lieu of a day off in substitution for that holiday or an extra day’s salary at the basic rate of pay:
+(4A) Notwithstanding subsections (1) and (4), where any employee (other than an employee to whom Part IV applies by virtue of section 35(b) or who is a workman mentioned in section 35(a)) is required by his employer to work on any public holiday to which he would otherwise be entitled under subsection (1), the employee shall be paid the gross rate of pay for that day and may be given the following, in lieu of a day off in substitution for that holiday or an extra day’s salary at the basic rate of pay:
 
 (a) part of a day off on a working day comprising such number of hours as may be agreed between the employee and his employer; and
 
@@ -2134,6 +2152,8 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 [Act 26 of 2013 wef 01/04/2014]
 
 [Act 27 of 2015 wef 22/08/2015]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (5) No employee shall, by reason of subsection (4), receive double any housing allowance or food allowance.
 
@@ -2157,9 +2177,49 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 [Act 27 of 2015 wef 22/08/2015]
 
+### Annual leave
+
+88A\.—(1) An employee who has served an employer for a period of not less than 3 months is, in addition to the rest days, holidays and sick leave to which the employee is entitled under sections 36, 88 and 89, respectively, entitled to the following:
+
+(a) 7 days of paid annual leave, for the first 12 months of continuous service with the same employer;
+
+(b) subject to paragraph (c), an additional one day of paid annual leave, for every subsequent 12 months of continuous service with the same employer;
+
+(c) a maximum of 14 days of paid annual leave.
+
+(2) An employee who has served an employer for a period of not less than 3 months, but has not completed 12 months of continuous service in any year, is entitled to annual leave in proportion to the number of completed months of service in that year.
+
+(3) In calculating the proportionate annual leave under subsection (2) —
+
+(a) any fraction of a day that is less than one‑half of a day must be disregarded; and
+
+(b) where a fraction of a day is one-half or more, it must be regarded as one day.
+
+(4) Where an employee is granted leave of absence without pay by an employer at the request of the employee, the period of the leave is to be disregarded for the purpose of computing the period of continuous service under this section.
+
+(5) An employee forfeits the employee’s entitlement to annual leave if the employee absents himself from work without the permission of the employer, or without reasonable excuse, for more than 20% of the working days in the months or year (as the case may be) in which the employee’s entitlement to annual leave accrues.
+
+(6) In the case of an employee to whom Part IV applies by virtue of section 35(b) or who is a workman mentioned in section 35(a) —
+
+(a) the employer must grant, and the employee must take, the employee’s paid annual leave not later than 12 months after the end of every 12 months of continuous service; and
+
+(b) if the employee fails to take that leave by the end of that period, the employee ceases to be entitled to that leave.
+
+(7) An employer must pay an employee the employee’s gross rate of pay for every day of paid annual leave.
+
+(8) If an employee is dismissed on any ground other than misconduct before the employee has taken all of the employee’s paid annual leave, the employer must pay the employee the employee’s gross rate of pay in respect of every day of that leave not taken by the employee.
+
+(9) The Minister may, by notification in theGazette, do any of the following:
+
+(a) fix the periods when, and prescribe the manner in which, paid annual leave is to be granted to employees in different types of employment or in different classes of industries;
+
+(b) suspend the application of any provision of this section to any class of employees, when the public interest so requires it.
+
+[Act 55 of 2018 wef 01/04/2019]
+
 ### Sick leave
 
-89\.—(1) Any employee who has served an employer for a period of not less than 6 months shall, after examination at the expense of the employer by a medical practitioner appointed by the employer or a medical officer, be entitled to such paid sick leave, as may be certified by the medical practitioner or medical officer, not exceeding in the aggregate —
+89\.—(1) Any employee who has served an employer for a period of not less than 6 months is entitled, after examination by a medical practitioner, to such paid sick leave, as may be certified by the medical practitioner, not exceeding in the aggregate —
 
 (a) if no hospitalisation is necessary, 14 days in each year; or
 
@@ -2171,7 +2231,9 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 [32/2008]
 
-(2) Any employee who has served an employer for a period of at least 3 months but less than 6 months shall, after examination at the expense of the employer by a medical practitioner appointed by the employer or a medical officer, be entitled to such paid sick leave, as may be certified by the medical practitioner or medical officer, not exceeding in the aggregate —
+[Act 55 of 2018 wef 01/04/2019]
+
+(2) Any employee who has served an employer for a period of at least 3 months but less than 6 months is entitled, after examination by a medical practitioner, to such paid sick leave, as may be certified by the medical practitioner, not exceeding in the aggregate —
 
 (a) where the employee has served the employer for a period of at least 3 months but less than 4 months —
 
@@ -2205,15 +2267,29 @@ HOLIDAY AND SICK LEAVE ENTITLEMENTS
 
 [32/2008]
 
-(3) If an employee is certified by a medical practitioner appointed by the employer or a medical officer to be ill enough to need to be hospitalised but is not hospitalised for any reason whatsoever, the employee shall be deemed to be hospitalised for the purposes of this section.
+[Act 55 of 2018 wef 01/04/2019]
 
-[32/2008]
+(3) For the purposes of this section —
+
+(a) an employee is hospitalised if the employee is warded in a hospital in such circumstances as may be prescribed or is under quarantine (whether or not in a hospital) under any written law; and
+
+(b) an employee is to be treated as hospitalised for any period the employee is not an in-patient of a hospital, or stops being an in-patient of a hospital after being warded in that hospital in accordance with paragraph (a), if the employee is certified, by a medical practitioner employed by a hospital approved by the Minister —
+
+(i) to be ill enough to require hospitalisation during that period; or
+
+(ii) to need rest or further medical treatment during that period in order to recover after his discharge from a hospital.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (4) An employee who absents himself on sick leave —
 
-(a) which is not certified by a medical practitioner appointed by the employer or a medical officer; or
+(a) which is not certified by a medical practitioner; or
 
-(b) which is certified by a medical officer, but without informing or attempting to inform his employer of such sick leave within 48 hours of the commencement thereof,
+[Act 55 of 2018 wef 01/04/2019]
+
+(b) which is certified by a medical practitioner not appointed by the employer, but of which the employee did not inform or attempt to inform the employer within 48 hours after its commencement,
+
+[Act 55 of 2018 wef 01/04/2019]
 
 shall be deemed to have absented himself from work without the permission of his employer and without reasonable excuse for the days on which he is so absent from work.
 
@@ -2235,13 +2311,23 @@ shall be deemed to have absented himself from work without the permission of his
 
 [32/2008]
 
-(8) For the purposes of subsections (1) and (2), an employer shall be deemed to fulfil the obligation imposed by those subsections to bear the fees of any medical examination of his employees if —
+(7A) Where an employee has served an employer for a period of at least 3 months, the employer is liable to bear, or to reimburse the employee, the fees of an examination of the employee by a medical practitioner, if —
+
+(a) the medical practitioner is appointed by the employer or is a medical officer; and
+
+(b) after the examination, the employee is certified by the medical practitioner to be entitled to paid sick leave.
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(8) An employer is deemed to fulfil the employer’s obligation under subsection (7A) if —
 
 (a) the Commissioner, after considering the merits of any healthcare scheme that the employer provides to his employees and such other matters as the Commissioner may consider relevant, by order in writing directs that the employer fulfils that obligation for so long as he provides such a healthcare scheme for his employees; or
 
 (b) the employer complies with such other requirement as the Minister may, by regulations, prescribe.
 
 [32/2008]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (9) An order made under subsection (8)(a) —
 
@@ -2253,9 +2339,11 @@ shall be deemed to have absented himself from work without the permission of his
 
 [32/2008]
 
-(10) This section shall not apply to any employee seeking or undergoing medical treatment which, in the opinion of a medical practitioner or medical officer performing the examination under subsection (1) or (2), is for cosmetic purposes.
+(10) This section shall not apply to any employee seeking or undergoing medical treatment which, in the opinion of a medical practitioner performing the examination under subsection (1) or (2), is for cosmetic purposes.
 
 [Act 26 of 2013 wef 01/04/2014]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ### Offence
 
@@ -2265,11 +2353,15 @@ shall be deemed to have absented himself from work without the permission of his
 
 (2) Notwithstanding subsection (1) —
 
-(a) an employer and his employees or a trade union representing his employees may negotiate for and agree to terms of service relating to leave more favourable than those contained in section 89; and
+(a) an employer and his employees or a trade union representing his employees may negotiate for and agree to terms of service more favourable than those contained in sections 88A and 89; and
 
-(b) it shall not be an offence for an employer to grant to his employees terms of service relating to leave more favourable than those contained in section 89.
+[Act 55 of 2018 wef 01/04/2019]
+
+(b) it shall not be an offence for an employer to grant to his employees terms of service more favourable than those contained in sections 88A and 89.
 
 [4/2010 wef 05/02/2010]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ## PART XI
 
@@ -2361,6 +2453,14 @@ REGISTERS, RETURNS AND OTHER DOCUMENTARY REQUIREMENTS
 
 [Act 27 of 2015 wef 01/04/2016]
 
+### Employer’s obligation to furnish information on retrenchment of employees
+
+96A\.—(1) The Commissioner may, by notification in theGazette, require any employer, or any employer in a class of employers, to furnish to the Commissioner, at such time and in such form as may be specified in the notification, such information on the retrenchment of any employee by the employer as may be specified in the notification.
+
+(2) Every employer to whom the notification applies must comply with every requirement in the notification concerning the furnishing to the Commissioner of information on the retrenchment of any employee by the employer.
+
+[Act 55 of 2018 wef 01/04/2019]
+
 ### Returns
 
 97\.—(1) The Commissioner may, by notification in theGazette, require any employer or class of employers to forward to the Commissioner at such time or times as may be specified in the notification a return in such form or forms as may be approved by the Commissioner giving the particulars and information prescribed therein, and any such employer shall furnish particulars and information so prescribed.
@@ -2407,6 +2507,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (2) A certificate under the hand of the Commissioner stating that such returns have not been furnished or are incorrect shall be sufficient prima facie evidence of the truth of the facts stated in the certificate.
 
+(3) Subsections (1) and (2) do not apply to any information furnished or required to be furnished under section 96A by an employer on the retrenchment of any employee by the employer.
+
+[Act 55 of 2018 wef 01/04/2019]
+
 ### Returns not to be published or disclosed
 
 102\.—(1) No return of particulars or information and no part of a return furnished, and no answer to any question put, for the purposes of this Act shall, without the previous consent in writing of the person having the control, management or superintendence of the profession, business, trade or work in relation to which the return or answer was furnished or given, be published nor, except for the purposes of a prosecution under this Act, shall any person not engaged in connection with the collection or preparation of statistics under this Act be permitted to see any such individual return or any such part of an individual return.
@@ -2420,6 +2524,10 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (4) If any person, having possession of any information which to his knowledge has been disclosed in contravention of this section, publishes or communicates to any other person any such information, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [32/2008]
+
+(5) Subsections (1) to (4) do not apply to any information furnished under section 96A by an employer on the retrenchment of any employee by the employer.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ## PART XIII
 
@@ -2863,6 +2971,14 @@ ADMINISTRATIVE PENALTIES
 
 (a) a failure by an employer to comply with section 95(1), 95A(2) or 96(1);
 
+(aa) a failure, by an employer to whom a notification under section 96A applies, to comply with any requirement in the notification concerning the furnishing to the Commissioner of information on the retrenchment of any employee by the employer;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(ab) a contravention, by an employer of any provision of any regulations mentioned in section 139(2)(aa), that the Minister has prescribed under section 139(2B) as a contravention to which this section applies;
+
+[Act 55 of 2018 wef 01/04/2019]
+
 (b) provision by an employer of inaccurate information or particulars to the Commissioner or an inspecting officer under this Act, inadvertently or without intent to mislead or defraud.
 
 [Act 27 of 2015 wef 01/04/2016]
@@ -2871,7 +2987,17 @@ ADMINISTRATIVE PENALTIES
 
 126B\.—(1) An authorised officer may issue a contravention notice to an employer requiring the employer to pay an administrative penalty of the prescribed amount, for —
 
-(a) each occasion of an alleged failure by the employer to comply with section 95(1), 95A(2) or 96(1) with respect to any one employee or former employee; or
+(a) each occasion of an alleged failure by the employer to comply with section 95(1), 95A(2) or 96(1) with respect to any one employee or former employee;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(aa) each occasion of an alleged failure by the employer to comply with any requirement, in a notification under section 96A that applies to the employer, concerning the furnishing to the Commissioner of information on the retrenchment of any one employee by the employer;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(ab) each occasion of an alleged contravention, of any provision of any regulations mentioned in section 139(2)(aa), that the Minister has prescribed under section 139(2B) as a contravention to which section 126A applies, by the employer; or
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) each occasion of an alleged provision by the employer of inaccurate information or particulars to the Commissioner or an inspecting officer under this Act, inadvertently or without intent to mislead or defraud.
 
@@ -3037,6 +3163,10 @@ PROCEDURE AND REGULATIONS
 
 (a) prescribe the circumstances and conditions under which females may be employed as workmen;
 
+(aa) regulate the conduct of an employer towards an employee, for the purposes of protecting the employee from any employment practice that may adversely affect the wellbeing of the employee;
+
+[Act 55 of 2018 wef 01/04/2019]
+
 (b) require records to be maintained and prescribe the form and contents thereof and the manner in which they shall be displayed;
 
 [Act 27 of 2015 wef 01/04/2016]
@@ -3046,6 +3176,10 @@ PROCEDURE AND REGULATIONS
 (d) prescribe the forms and manner in which and the times and places at which particulars or information shall be furnished, and the manner in which the same shall be authenticated, and any other thing which under this Act is required to be prescribed;
 
 (e) exempt from the obligation to furnish particulars or information under this Act, either wholly or to the prescribed extent, and either unconditionally or subject to the prescribed conditions, any employer or class of employers;
+
+(ea) prescribe any deduction that may be made under section 27(1)(k), and the conditions for the making of that deduction;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (f) prescribe the form of register to be kept under section 29 and the forms of orders to be made under sections 115 and 119;
 
@@ -3067,13 +3201,19 @@ PROCEDURE AND REGULATIONS
 
 [Act 27 of 2015 wef 22/08/2015]
 
+(2B) The Minister may, in making any regulations mentioned in subsection (2)(aa), prescribe any contravention of any provision of those regulations as a contravention to which section 126A applies, instead of providing for that contravention to be an offence mentioned in subsection (2A).
+
+[Act 55 of 2018 wef 01/04/2019]
+
 (3) All regulations made under this Act shall be published in theGazetteand shall be presented to Parliament as soon as possible after publication.
 
-### Power to amend First and Second Schedules
+### Amendment of Schedules
 
-140\. The Minister may, from time to time by notification in theGazette, add to or amend the First or Second Schedule.
+140\.—(1) The Minister may, by order in theGazette, amend any of the Schedules.
 
-[36/95]
+(2) The Minister may, in an order under subsection (1), make such provisions of a saving or transitional nature consequent to the enactment of that order as the Minister may consider necessary or expedient.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 FIRST SCHEDULE
 
@@ -3264,11 +3404,11 @@ A workman employed on a monthly rate of pay
 
 2.
 
-A non-workman whose monthly basic rate of pay is less than $2,250
+A non-workman employed on a monthly basic rate of pay
 
 3.
 
-A non-workman whose monthly basic rate of pay is $2,250 or more
+[Deleted by Act 55 of 2018 wef 01/04/2019]
 
 4.
 
@@ -3280,7 +3420,7 @@ The total weekly pay at the basic rate of pay received divided by the total numb
 
 A non-workman employed on piece rates
 
-The total weekly pay at the basic rate of pay received divided by the total number of hours worked in the week, or the hourly basic rate of pay of an employee specified in this column for item 3, whichever is the lower
+The total weekly pay at the basic rate of pay received divided by the total number of hours worked in the week
 
 6.
 
@@ -3292,7 +3432,7 @@ Actual hourly basic rate of pay
 
 A non-workman employed on a hourly rate of pay
 
-Actual hourly basic rate of pay, or the hourly basic rate of pay of an employee specified in this column for item 3, whichever is the lower
+Actual hourly basic rate of pay
 
 8.
 
@@ -3304,7 +3444,9 @@ Daily basic rate of pay divided by the number of working hours per day
 
 A non-workman employed on a daily rate of pay
 
-Daily basic rate of pay divided by the number of working hours per day, or the hourly basic rate of pay of an employee specified in this column for item 3, whichever is the lower
+Daily basic rate of pay divided by the number of working hours per day
+
+[Act 55 of 2018 wef 01/04/2019]
 
 [Act 26 of 2013 wef 01/04/2014]
 
@@ -3548,3 +3690,7 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of First Reading|11 July 2016 (Bill No. 20/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 April 2017|
+|39.|**Act 55 of 2018—Employment (Amendment) Act 2018**|
+||Date of First Reading|2 October 2018 (Bill No. 47/2018 published on 2 October 2018)|
+||Date of Second and Third Readings|20 November 2018|
+||Date of commencement|1 April 2019|
