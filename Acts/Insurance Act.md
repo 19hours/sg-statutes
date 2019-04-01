@@ -4958,7 +4958,9 @@ and, subject to any such directions, the winding up shall, for all purposes conn
 
 (a) firstly, any levy due and payable by the licensed insurer under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
 
-(b) secondly, protected liabilities incurred by the licensed insurer, up to the amount paid or payable out of any of the PPF Funds by the PPF Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of such protected liabilities and, if applicable, the amount paid or payable out of any of the PPF Funds by the PPF Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 to fund any transfer or run-off of the business of the licensed insurer;
+(b) secondly, protected liabilities incurred by the licensed insurer, up to the amount paid or payable out of any of the PPF Funds by the PPF Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 in respect of such protected liabilities and, if applicable, the amount paid or payable out of any of the PPF Funds by the PPF Agency under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011 to fund any transfer or run-off of the business of the licensed insurer or the termination of insured policies issued by the licensed insurer;
+
+[Act 31 of 2018 wef 01/04/2019]
 
 (c) thirdly, any liabilities incurred by the licensed insurer in respect of direct policies which are not protected under the Deposit Insurance and Policy Owners’ Protection Schemes Act 2011;
 
@@ -6601,6 +6603,10 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|5 June 2018|
 |||29 October 2018|
+|39.|**Act 31 of 2018—Deposit Insurance and Policy Owners' Protection Schemes (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 21/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Insurance Act
