@@ -152,9 +152,17 @@ PRELIMINARY
 
 (a) in connection with the application for or obtaining of a patent or any procedure relating to a patent under the Patents Act (Cap. 221);
 
-(b) in connection with the registration of a trade mark or any procedure relating to a registered trade mark under the Trade Marks Act (Cap. 332); or
+(b) in connection with the registration of a trade mark or any procedure relating to a registered trade mark under the Trade Marks Act (Cap. 332);
 
-(c) in connection with the registration of a design or any procedure relating to a registered design under the Registered Designs Act (Cap. 266);
+[Act 19 of 2014 wef 01/04/2019]
+
+(c) in connection with the registration of a design or any procedure relating to a registered design under the Registered Designs Act (Cap. 266); or
+
+[Act 19 of 2014 wef 01/04/2019]
+
+(d) in connection with the registration of a geographical indication or any procedure relating to a registered geographical indication under the Geographical Indications Act 2014;
+
+[Act 19 of 2014 wef 01/04/2019]
 
 “member” means a member of the Office;
 
@@ -242,7 +250,9 @@ FUNCTIONS, DUTIES AND POWERS OF OFFICE
 
 7\.—(1) The Office shall have the power to do anything for the purpose of discharging its functions under this Act or any other written law, or which it may consider advantageous, necessary or convenient to the discharge of those functions and, in particular, may —
 
-(a) administer systems for the protection of patents, trade marks and designs;
+(a) administer systems for the protection of patents, trade marks, designs and geographical indications;
+
+[Act 19 of 2014 wef 01/04/2019]
 
 (b) prescribe, regulate or implement measures and standards on any matter related to or connected with intellectual property;
 
@@ -524,7 +534,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) make and do all acts and applications in respect of such proceedings on behalf of the Office or any Registrar.
 
-(3) For the purposes of this section, “Registrar” means the Registrar of Designs referred to in section 49 of the Registered Designs Act (Cap. 266), the Registrar of Patents referred to in section 4 of the Patents Act (Cap. 221), the Registrar of Trade Marks referred to in section 62 of the Trade Marks Act (Cap. 332), or the principal officer administering the system for the protection of any other intellectual property under any other written law.
+(3) For the purposes of this section, “Registrar” means the Registrar of Designs referred to in section 49 of the Registered Designs Act (Cap. 266), the Registrar of Geographical Indications referred to in section 17 of the Geographical Indications Act 2014, the Registrar of Patents referred to in section 4 of the Patents Act (Cap. 221), the Registrar of Trade Marks referred to in section 62 of the Trade Marks Act (Cap. 332), or the principal officer administering the system for the protection of any other intellectual property under any other written law.
+
+[Act 19 of 2014 wef 01/04/2019]
 
 ### Power of Minister to amend Third Schedule
 
@@ -670,6 +682,10 @@ Offences under written law
 
 [26/2001]
 
+4. Sections 25, 29 and 30 of the Geographical Indications Act 2014.
+
+[Act 19 of 2014 wef 01/04/2019]
+
 ## LEGISLATIVE HISTORY
 
 Intellectual Property Office of Singapore Act
@@ -720,3 +736,7 @@ This Legislative History is provided for the convenience of users of the Intelle
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|9.|**Act 19 of 2014—Geographical Indications Act 2014**|
+||Date of First Reading|5 March 2014 (Bill No. 13/2014 published on 5 March 2014)|
+||Date of Second and Third Readings|14 April 2014|
+||Date of commencement|1 April 2019|
