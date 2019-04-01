@@ -284,6 +284,17 @@ National Environment Agency Act
 
 (Chapter 195)
 
+18A.
+
+National Parks Board
+
+National Parks Board Act
+
+
+
+
+(Chapter 198A)
+
 19.
 
 People’s Association
@@ -328,6 +339,12 @@ Singapore Examinations and Assessment Board Act
 
 (Chapter 299A)
 
+21B.
+
+Singapore Food Agency
+
+Singapore Food Agency Act 2019
+
 22.
 
 Singapore Land Authority
@@ -370,6 +387,10 @@ Urban Redevelopment Authority Act
 
 
 (Chapter 340)
+
+[Act 11 of 2019 wef 01/04/2019]
+
+[Act 10 of 2019 wef 01/04/2019]
 
 [Act 10 of 2018 wef 01/04/2018]
 
@@ -565,3 +586,11 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
+|46.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
+|47.|**Act 10 of 2019—National Parks Board (Amendment) Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 4/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
