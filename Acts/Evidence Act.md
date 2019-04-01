@@ -3362,7 +3362,9 @@ Monetary Authority of Singapore Act (Chapter 186).
 
 13.
 
-[Deleted by Act 41/99, wef 01/12/1999]
+National Parks Board
+
+National Parks Board Act (Chapter 198A).
 
 14.
 
@@ -3372,9 +3374,9 @@ Public Utilities Act (Chapter 261).
 
 15.
 
-Singapore Broadcasting Authority
+Singapore Food Agency
 
-Singapore Broadcasting Authority Act (Chapter 297).
+Singapore Food Agency Act 2019 (Act 11 of 2019).
 
 15A.
 
@@ -3413,6 +3415,8 @@ Trade Development Board Act
 Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340).
+
+[S 174/2019 wef 01/04/2019]
 
 [S 414/92; 29/95; 1/96; 7/96]
 
@@ -3659,3 +3663,5 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of First Reading|28 February 2018 (Bill No. 15/2018 published on 28 February 2018)|
 ||Date of Second and Third Readings|19 March 2018|
 ||Date of commencement|31 October 2018|
+|47.|**G.N. No. S 174/2019—Evidence Act (Amendment of Second Schedule) Order 2019**|
+||Date of commencement|1 April 2019|
