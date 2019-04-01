@@ -333,14 +333,9 @@ Agency for Science, Technology and Research Act (Chapter 5A)
 
 3.
 
-Agri-food and Veterinary Authority
+Singapore Food Agency
 
-Agri-food and Veterinary Authority Act
-
-
-
-
-(Chapter 5)
+Singapore Food Agency Act 2019
 
 4.
 
@@ -723,7 +718,59 @@ Urban Redevelopment Authority Act
 
 
 
-(Chapter 340).
+(Chapter 340)
+
+54.
+
+Board of Architects
+
+Architects Act (Chapter 12)
+
+55.
+
+Land Surveyors Board
+
+Land Surveyors Act (Chapter 156)
+
+56.
+
+Professional Engineers Board
+
+Professional Engineers Act (Chapter 253)
+
+57.
+
+Singapore Nursing Board
+
+Nurses and Midwives Act (Chapter 209)
+
+58.
+
+Traditional Chinese Medicine Practitioners Board
+
+Traditional Chinese Medicine Practitioners Act (Chapter 333A)
+
+59.
+
+Singapore Dental Council
+
+Dental Registration Act (Chapter 76)
+
+60.
+
+Singapore Medical Council
+
+Medical Registration Act (Chapter 174)
+
+61.
+
+Singapore Pharmacy Council
+
+Pharmacists Registration Act (Chapter 230)
+
+[S 80/2019 wef 01/04/2019]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 [Act 10 of 2018 wef 01/04/2018]
 
@@ -811,3 +858,9 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
+|14.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
+|15.|**G.N. No. S 80/2019—Accounting Standards Act (Amendment of Schedule) Order 2019**|
+||Date of commencement|1 April 2019|
