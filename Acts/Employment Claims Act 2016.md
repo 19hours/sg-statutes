@@ -92,6 +92,8 @@
 
 - [34 Regulations](#Regulations)
 
+- [34A Tripartite guidelines on wrongful dismissal](#Tripartite-guidelines-on-wrongful-dismissal)
+
 [**Part 5 CONSEQUENTIAL AND RELATED AMENDMENTS TO OTHER ACTS**](#Part-5)
 
 - [35 Related amendments to Bankruptcy Act](#Related-amendments-to-Bankruptcy-Act)
@@ -115,6 +117,10 @@
 [**FIRST SCHEDULE Specified contractual dispute matters**](#FIRST-SCHEDULE-Specified-contractual-dispute-matters)
 
 [**SECOND SCHEDULE Specified statutory dispute matters**](#SECOND-SCHEDULE-Specified-statutory-dispute-matters)
+
+[**THIRD SCHEDULE WRONGFUL DISMISSAL DISPUTES**](#THIRD-SCHEDULE-WRONGFUL-DISMISSAL-DISPUTES)
+
+[**FOURTH SCHEDULE SPECIFIED OBLIGATIONS UNDER WRITTEN LAW**](#FOURTH-SCHEDULE-SPECIFIED-OBLIGATIONS-UNDER-WRITTEN-LAW)
 
 REPUBLIC OF SINGAPORE
 
@@ -146,13 +152,17 @@ President.
 
 Date of Commencement: 1st April 2017
 
-An Act to amend the Civil Defence Act (Chapter 42 of the 2001 Revised Edition), the Immigration Act (Chapter 133 of the 2008 Revised Edition), the Police Force Act (Chapter 235 of the 2006 Revised Edition) and the Prisons Act (Chapter 247 of the 2000 Revised Edition), and to make related amendments to the Enlistment Act (Chapter 93 of the 2001 Revised Edition).
+An Act to facilitate the expeditious resolution of employment disputes by providing for the mediation of such disputes, for the constitution, jurisdiction and powers of and administration of justice in the Employment Claims Tribunals, and for related matters, and to make consequential and related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
 
 ## PART 1
 
 PRELIMINARY
+
+### Short title and commencement
+
+1\. This Act is the Employment Claims Act 2016 and comes into operation on a date that the Minister appoints by notification in theGazette.
 
 ### Interpretation
 
@@ -232,19 +242,37 @@ PRELIMINARY
 
 “specified contractual dispute” means a dispute, relating to a payment of an amount of money, which arises out of or in the course of employment under a contract of service, about any matter specified in the First Schedule;
 
-“specified employment dispute” means a specified contractual dispute or a specified statutory dispute;
+“specified employment dispute” means a specified contractual dispute, a specified statutory dispute or a wrongful dismissal dispute;
 
-“specified statutory dispute” means a dispute about any matter specified in the Second Schedule;
+[Act 55 of 2018 wef 01/04/2019]
+
+“specified statutory dispute” means a dispute, relating to a payment of an amount of money, about any matter specified in the Second Schedule;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 “tribunal” means a subordinate court called an Employment Claims Tribunal constituted under section 4 of the State Courts Act (Cap. 321);
 
 “tribunal magistrate” means a tribunal magistrate appointed under section 9(1)(a) or designated under section 9(5);
 
-“tripartite guidelines” has the same meaning as in section 2(1) of the Retirement and Re‑employment Act;
+[Deleted by Act 55 of 2018 wef 01/04/2019]
+
+“tripartite guidelines on re-employment” means the guidelines relating to re‑employment issued under section 11B of the Retirement and Re‑employment Act (Cap. 274A);
+
+[Act 55 of 2018 wef 01/04/2019]
+
+“tripartite guidelines on wrongful dismissal” means the guidelines issued under section 34A on what constitutes wrongful dismissal;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 “tripartite mediation” has the same meaning as in section 30F of the Industrial Relations Act;
 
-“workman” has the same meaning as in section 2(1) of the Employment Act.
+“workman” has the same meaning as in section 2(1) of the Employment Act;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+“wrongful dismissal dispute” means a dispute, relating to the dismissal of an employee, specified in the Third Schedule.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (2) When this Act is applied to a counterclaim lodged with a tribunal —
 
@@ -270,7 +298,17 @@ MEDIATION OF EMPLOYMENT DISPUTES
 
 (c) for any re‑employment dispute under section 8B(7) of the Retirement and Re‑employment Act — within the time determined under section 8B(7A) of that Act;
 
-(d) for any specified employment dispute where an employment relationship has ended (whether due to the retirement of the employee, or the expiry or termination of the contract of service, or otherwise) but not mentioned in paragraph (a), (b) or (c) — not later than 6 months after the last day of employment of the employee;
+(ca) for any wrongful dismissal dispute in relation to which an employee may lodge a claim mentioned in section 14(2) of the Employment Act — not later than one month after the date of the dismissal of the employee;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(cb) for any wrongful dismissal dispute in relation to which a female employee may lodge a claim mentioned in section 84(2) of the Employment Act — within 2 months after the date of the employee’s confinement;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(d) for any specified employment dispute (not being a dispute mentioned in paragraph (a), (b), (c), (ca) or (cb)) where an employment relationship has ended (whether due to the retirement of the employee, or the expiry or termination of the contract of service, or otherwise) — not later than 6 months after the last day of employment of the employee;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (e) for any other specified employment dispute — not later than one year after the date on which the material facts giving rise to the earliest specified employment dispute listed in the mediation request occurred.
 
@@ -278,7 +316,9 @@ MEDIATION OF EMPLOYMENT DISPUTES
 
 (a) subject to paragraphs (b) and (c), must list every specified employment dispute in relation to which all of the following requirements are satisfied at the time the mediation request is submitted to the Commissioner:
 
-(i) a claim for an amount relating to the dispute satisfies the requirements in section 12(2), (3) and (4);
+(i) if there is a claim for an amount relating to the dispute, that claim satisfies the requirements in section 12(2), (3) and (4);
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (ii) the material facts giving rise to the dispute occurred not earlier than one year before the date on which that request is submitted to the Commissioner in accordance with subsection (2);
 
@@ -290,7 +330,13 @@ MEDIATION OF EMPLOYMENT DISPUTES
 
 (ii) the requirements prescribed for this sub‑paragraph are not satisfied in relation to the dispute;
 
-(c) must not list a specified employment dispute if, under section 16, a claim for an amount relating to the dispute cannot be lodged by the claimant with a tribunal; and
+(c) must not list a specified employment dispute if —
+
+(i) there is a claim for an amount relating to the dispute; and
+
+(ii) under section 16, that claim cannot be lodged by the claimant with a tribunal; and
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (d) must be accompanied by the prescribed fee for a mediation under this Part.
 
@@ -344,15 +390,27 @@ MEDIATION OF EMPLOYMENT DISPUTES
 
 (4) Despite subsection (3) —
 
-(a) the Commissioner may refer all of the specified employment disputes mentioned in subsection (5)(a) or (b) for mediation by the same approved mediator; and
+(a) the Commissioner may refer all of the specified employment disputes mentioned in subsection (5)(a), (b) or (c) for mediation by the same approved mediator; and
 
-(b) that approved mediator may conduct the mediation sessions for all of the specified employment disputes mentioned in subsection (5)(a) or (b) together at the same time and place.
+[Act 55 of 2018 wef 01/04/2019]
+
+(b) that approved mediator may conduct the mediation sessions for all of the specified employment disputes mentioned in subsection (5)(a), (b) or (c) together at the same time and place.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (5) Subsection (4) applies where —
 
-(a) 2 or more claimants have submitted to the Commissioner mediation requests for the mediation under this Part of specified employment disputes with the same respondent, and the Commissioner is satisfied that all of those disputes are similar in nature; or
+(a) 2 or more claimants have submitted to the Commissioner mediation requests for the mediation under this Part of specified employment disputes with the same respondent, and the Commissioner is satisfied that all of those disputes are similar in nature;
 
-(b) 2 claimants intend to lodge claims against each other, and each claimant has submitted to the Commissioner a mediation request for the mediation under this Part of that claimant’s specified employment disputes with the other claimant.
+[Act 55 of 2018 wef 01/04/2019]
+
+(b) 2 claimants intend to lodge claims against each other, and each claimant has submitted to the Commissioner a mediation request for the mediation under this Part of that claimant’s specified employment disputes with the other claimant; or
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(c) the same claimant has submitted to the Commissioner 2 or more mediation requests for the mediation under this Part of specified employment disputes (each concerning the recovery, under section 65 of the Employment Act (Cap. 91), of the same salary) with different respondents.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (6) Regulations made under section 34 may provide for any matter relating to the conduct of a mediation session.
 
@@ -422,7 +480,13 @@ MEDIATION OF EMPLOYMENT DISPUTES
 
 (a) the parties to the settlement must enter into a settlement agreement in such form as may be prescribed by Rules of Court made under section 33;
 
-(b) the total amount payable to a party under the settlement agreement must not exceed the prescribed claim limit in section 12(7) which is applicable to that party; and
+(b) the total amount payable to a party under the settlement agreement, in respect of every specified contractual dispute (if any) and every specified statutory dispute (if any) settled at the mediation, must not exceed the prescribed claim limit in section 12(7)(a) that is applicable to that party;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(ba) the total amount payable to a party under the settlement agreement, in respect of every wrongful dismissal dispute (if any) settled at the mediation, must not exceed the prescribed claim limit in section 12(7)(b) that is applicable to that party; and
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (c) the settlement agreement must be signed by or on behalf of each party.
 
@@ -534,7 +598,9 @@ Jurisdiction of tribunals
 
 (2) The claim must be made —
 
-(a) by an employee who is prescribed or belongs to a prescribed class of employees (or a person entitled under any written law to receive the amount claimed in place of the employee) against the employer of the employee;
+(a) by an employee who is prescribed or belongs to a prescribed class of employees (or a person entitled under any written law to receive an amount claimed (if any) in place of the employee) against the employer of the employee;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) by an employee who is prescribed or belongs to a prescribed class of employees (or a person entitled under any written law to receive the amount claimed in place of the employee) against a person liable under section 65 of the Employment Act (Cap. 91) for the employee’s salary; or
 
@@ -544,7 +610,13 @@ Jurisdiction of tribunals
 
 (ii) any other matter specified in the First or Second Schedule that is prescribed for the purposes of this sub‑paragraph.
 
-(3) The claim must be for one or more amounts alleged to be payable by the respondent to the claimant.
+(3) The claim must be for either or both of the following:
+
+(a) one or more amounts alleged to be payable by the respondent to the claimant;
+
+(b) reinstatement, by the respondent, of the claimant in the claimant’s former employment, in a case where the claim is lodged in respect of a wrongful dismissal dispute.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (4) Each amount alleged to be payable under the claim must relate to a specified employment dispute.
 
@@ -552,7 +624,13 @@ Jurisdiction of tribunals
 
 (6) The claim must be lodged with the tribunal within the prescribed period after the date of issue of the claim referral certificate supporting the claim.
 
-(7) The total amount alleged to be payable under the claim must not exceed the prescribed claim limit applicable to the claimant.
+(7) The total amount alleged to be payable under the claim must satisfy the following conditions:
+
+(a) the total amount alleged to be payable under the claim, in respect of every specified contractual dispute (if any) and every specified statutory dispute (if any) for which the claim is lodged, must not exceed the prescribed claim limit applicable to the claimant for the purposes of this paragraph;
+
+(b) the total amount alleged to be payable under the claim, in respect of every wrongful dismissal dispute (if any) for which the claim is lodged, must not exceed the prescribed claim limit applicable to the claimant for the purposes of this paragraph.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (8) Regulations made under section 34 may —
 
@@ -564,7 +642,9 @@ Jurisdiction of tribunals
 
 (d) prescribe the period in subsection (6), including different periods for different categories of claims and different circumstances; and
 
-(e) prescribe the claim limit in subsection (7), including different claim limits for different classes of claimants and different circumstances.
+(e) prescribe the claim limits in subsection (7)(a) and (b), including different claim limits for different classes of claimants and different circumstances.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ### Lodging of claim
 
@@ -596,11 +676,21 @@ Jurisdiction of tribunals
 
 ### Claimant may abandon part of claim
 
-15\.—(1) Where the total amount alleged to be payable under a claim exceeds the prescribed claim limit in section 12(7) which is applicable to the claimant, the claimant may abandon the excess amount.
+15\.—(1) Where —
+
+(a) the total amount alleged to be payable under a claim, in respect of every specified contractual dispute (if any) and every specified statutory dispute (if any) for which the claim is lodged, exceeds the prescribed claim limit in section 12(7)(a) that is applicable to the claimant; or
+
+(b) the total amount alleged to be payable under a claim, in respect of every wrongful dismissal dispute (if any) for which the claim is lodged, exceeds the prescribed claim limit in section 12(7)(b) that is applicable to the claimant,
+
+the claimant may abandon the excess amount.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (2) If the claimant abandons the excess amount —
 
-(a) the total amount alleged to be payable under the claim is deemed to be within the prescribed claim limit in section 12(7) which is applicable to the claimant;
+(a) the requirement in section 12(7) is deemed to be satisfied in relation to the claim;
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) the tribunal has jurisdiction to hear and determine the claim; and
 
@@ -610,21 +700,27 @@ Jurisdiction of tribunals
 
 ### Other proceedings relating to claim
 
-16\.—(1) A claim for an amount relating to a specified employment dispute cannot be lodged with a tribunal if —
+16\.—(1) A claim relating to a specified employment dispute cannot be lodged with a tribunal if —
 
-(a) any proceedings relating to that amount are pending in, or have been heard and determined by, any other court or an Industrial Arbitration Court; or
+(a) any proceedings relating to that claim are pending in, or have been heard and determined by, any other court or an Industrial Arbitration Court; or
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (b) a claim lodged under section 119 of the Employment Act (Cap. 91) in respect of that dispute is pending, or the Commissioner has inquired into and decided that dispute under section 115 of that Act.
 
-(2) Despite any other written law, where a claim for an amount relating to a specified employment dispute is lodged with a tribunal, no proceedings relating to that amount can be commenced in any other court or an Industrial Arbitration Court by either party against the other, unless the claim is withdrawn, discontinued or dismissed for lack of jurisdiction.
+[Act 55 of 2018 wef 01/04/2019]
+
+(2) Despite any other written law, where a claim relating to a specified employment dispute is lodged with a tribunal, no proceedings relating to that claim can be commenced in any other court or an Industrial Arbitration Court by either party against the other, unless the claim is withdrawn, discontinued or dismissed for lack of jurisdiction.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (3) Where an employee is dismissed, the employee cannot lodge with a tribunal a claim for any amount relating to a specified employment dispute concerning a matter specified in item 17 of the First Schedule, or item 13 or 15 of the Second Schedule, that arises from that dismissal, if —
 
 (a) the employee —
 
-(i) has made representations in writing under section 14(2) of the Employment Act to the Minister mentioned in that provision;
+(i) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-(ii) has referred any question under section 84(2) of the Employment Act to the Minister mentioned in that provision;
+(ii) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
 (iii) has made representations in writing under section 35(3) of the Industrial Relations Act (Cap. 136) to the Minister mentioned in that provision; or
 
@@ -632,23 +728,49 @@ Jurisdiction of tribunals
 
 (b) either of the following applies:
 
-(i) the employee does not withdraw those representations or that referral (as the case may be);
+(i) the employee does not withdraw those representations;
 
-(ii) the Minister concerned makes a decision on those representations or that referral (as the case may be).
+[Act 55 of 2018 wef 01/04/2019]
+
+(ii) the Minister concerned makes a decision on those representations.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (4) Where an employee is dismissed, and the employee lodges with a tribunal a claim for any amount relating to a specified employment dispute concerning a matter specified in item 17 of the First Schedule, or item 13 or 15 of the Second Schedule, that arises from that dismissal —
 
 (a) the claim is deemed to be discontinued, if the employee —
 
-(i) makes representations in writing under section 14(2) of the Employment Act to the Minister mentioned in that provision;
+(i) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
-(ii) refers any question under section 84(2) of the Employment Act to the Minister mentioned in that provision;
+(ii) [Deleted by Act 55 of 2018 wef 01/04/2019]
 
 (iii) makes representations in writing under section 35(3) of the Industrial Relations Act to the Minister mentioned in that provision; or
 
 (iv) makes representations in writing under section 8(1) of the Retirement and Re‑employment Act to the Minister mentioned in that provision; and
 
-(b) the claim is deemed to be discontinued with effect from the date on which the employee makes those representations or that referral (as the case may be).
+(b) the claim is deemed to be discontinued with effect from the date on which the employee makes those representations.
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(4A) Where an employee is dismissed, the employee cannot lodge with a tribunal a claim relating to a wrongful dismissal dispute, if —
+
+(a) the employee has made representations in writing under section 35(3) of the Industrial Relations Act to the Minister mentioned in that provision; and
+
+(b) either of the following applies:
+
+(i) the employee does not withdraw those representations;
+
+(ii) the Minister concerned makes a decision on those representations.
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(4B) Where an employee is dismissed, and the employee lodges with a tribunal a claim relating to a wrongful dismissal dispute —
+
+(a) the claim is deemed to be discontinued, if the employee makes representations in writing under section 35(3) of the Industrial Relations Act to the Minister mentioned in that provision; and
+
+(b) the claim is deemed to be discontinued with effect from the date on which the employee makes those representations.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (5) Where an employee has made representations in writing under section 8B(1) of the Retirement and Re‑employment Act to the Minister mentioned in that provision, the employee cannot lodge with a tribunal a claim for employment assistance payment, unless —
 
@@ -684,13 +806,25 @@ Proceedings before tribunal
 
 ### Proceedings conducted in private unless tribunal orders otherwise
 
-18\.—(1) Subject to subsections (2), (3) and (4), all proceedings before a tribunal are to be conducted in private.
+18\.—(1) Subject to subsections (2), (2A), (3) and (4), all proceedings before a tribunal are to be conducted in private.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (2) A tribunal may, on its own initiative or on the application of any party to the proceedings, and in such manner as may be prescribed by Rules of Court made under section 33, do either or both of the following:
 
 (a) allow one or more individuals to assist in resolving the claim amicably through mediation or conciliation;
 
 (b) allow one or more individuals of skill and experience in the matter to which the proceedings relate to sit with the tribunal and act as assessors.
+
+(2A) A tribunal may permit an officer appointed under section 3(2) of the Employment Act to participate in any proceedings before a tribunal by doing one or more of the following:
+
+(a) giving evidence in the proceedings;
+
+(b) producing any document, record or thing that is relevant to the proceedings;
+
+(c) making submissions in the proceedings.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (3) A tribunal may permit one or more of the following to observe the hearing of a claim:
 
@@ -756,7 +890,17 @@ Proceedings before tribunal
 
 (5) A tribunal may inquire into any matter which the tribunal considers relevant to a claim, whether or not the matter is raised by a party to the claim.
 
-(6) When deciding any claim for employment assistance payment, or calculating the amount of an employment assistance payment, a tribunal may take into account the tripartite guidelines.
+(6) When deciding any claim for employment assistance payment, or calculating the amount of an employment assistance payment, a tribunal may take into account the tripartite guidelines on re‑employment.
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(6A) When deciding any claim involving a wrongful dismissal dispute, a tribunal —
+
+(a) is to have regard to the tripartite guidelines on wrongful dismissal; and
+
+(b) if any compensation is claimed, is to calculate the amount of that compensation in accordance with any regulations made under section 34(1).
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (7) To avoid doubt, if any party to any proceedings before a tribunal fails, without reasonable excuse, to attend those proceedings, a tribunal may hear the claim and make its decision in the absence of that party, even if the interests of that party may be prejudicially affected by the decision of the tribunal.
 
@@ -767,6 +911,10 @@ Proceedings before tribunal
 (a) is not bound by the rules of evidence in the conduct of any proceedings; and
 
 (b) may inform itself on any matter in such manner as the tribunal thinks fit.
+
+(1A) A tribunal may draw such inferences as the tribunal thinks fit from a party’s failure to comply with any obligation of that party under any written law specified in the Fourth Schedule, including (but not limited to) an inference that any evidence that is not available on account of that party’s failure to comply with that obligation would, if produced, have been unfavourable to that party.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (2) Subject to subsection (3), evidence tendered to a tribunal need not be given on oath or affirmation.
 
@@ -796,7 +944,13 @@ Proceedings before tribunal
 
 (b) an order dismissing the whole or any part of the claim;
 
-(c) an order requiring a party to pay costs to another party.
+(c) an order requiring a party to pay costs to another party;
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(d) an order requiring an employer to reinstate an employee in the employee’s former employment.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (2) In deciding whether to make an order under subsection (1)(c), a tribunal may take into account any of the following matters:
 
@@ -808,7 +962,13 @@ Proceedings before tribunal
 
 (3) A tribunal’s order under subsection (1) is subject to such conditions as the tribunal thinks fit to impose.
 
-(4) The total amount of money that a tribunal orders to be paid to a party under subsection (1)(a) for a claim must not exceed the prescribed claim limit in section 12(7) which is applicable to the party.
+(4) The total amount of money that a tribunal orders to be paid to a party under subsection (1)(a), in respect of every specified contractual dispute (if any) and every specified statutory dispute (if any) for which a claim is lodged, must not exceed the prescribed claim limit in section 12(7)(a) that is applicable to the party.
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(4A) The total amount of money that a tribunal orders to be paid to a party under subsection (1)(a), in respect of every wrongful dismissal dispute (if any) for which a claim is lodged, must not exceed the prescribed claim limit in section 12(7)(b) that is applicable to the party.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (5) To avoid doubt —
 
@@ -894,7 +1054,17 @@ Appeals
 
 (b) receive further evidence.
 
-(3) When deciding an appeal against an order made by a tribunal on a claim for employment assistance payment, or on the calculation of the amount of an employment assistance payment, the High Court may take into account the tripartite guidelines.
+(3) When deciding an appeal against an order made by a tribunal on a claim for employment assistance payment, or on the calculation of the amount of an employment assistance payment, the High Court may take into account the tripartite guidelines on re‑employment.
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(4) When deciding an appeal against an order made by a tribunal on a claim involving a wrongful dismissal dispute, the High Court —
+
+(a) is to have regard to the tripartite guidelines on wrongful dismissal; and
+
+(b) if any compensation is claimed, is to calculate the amount of that compensation in accordance with any regulations made under section 34(1).
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ### Finality of decision of High Court
 
@@ -906,7 +1076,7 @@ Appeals
 
 ### Burden of proof
 
-27\. In any proceedings under this Act before a tribunal or the High Court, a person who makes any of the following allegations bears the burden of proving that allegation:
+27\.—(1) In any proceedings under this Act before a tribunal or the High Court, a person who makes any of the following allegations bears the burden of proving that allegation:
 
 (a) an allegation that the person is not the employer or employee of the claimant;
 
@@ -917,6 +1087,20 @@ Appeals
 (ii) the Employment Act (Cap. 91);
 
 (iii) the Retirement and Re‑employment Act (Cap. 274A).
+
+[Act 55 of 2018 wef 01/04/2019]
+
+(2) In any proceedings under this Act before a tribunal or the High Court, the following apply:
+
+(a) where an employee is dismissed without notice by an employer under section 14(1) of the Employment Act, and the employee lodges a claim mentioned in section 14(2) of that Act against the employer — the employer bears the burden of proving the allegation that the employee was dismissed with just cause or excuse;
+
+(b) where an employee is dismissed with notice by an employer, and the notice of dismissal is or purports to be given on the ground that there has been poor performance or misconduct by the employee — the employer bears the burden of proving that ground for giving the notice of dismissal;
+
+(c) where a notice of dismissal is given to a female employee by an employer in the circumstances mentioned in section 84(1)(a), (b) or (c) of the Employment Act, and the female employee lodges a claim mentioned in section 84(2) of that Act against the employer — the employer bears the burden of proving the allegation that the female employee was dismissed with sufficient cause;
+
+(d) where a notice of dismissal is given to a female employee mentioned in section 12(1) of the Child Development Co‑Savings Act by an employer in the circumstances mentioned in section 84(1)(a), (b) or (c) of the Employment Act (as applied to the female employee), and the female employee lodges a claim mentioned in section 84(2) of the Employment Act (as applied to the female employee) against the employer — the employer bears the burden of proving the allegation that the female employee was dismissed with sufficient cause.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ## PART 4
 
@@ -950,6 +1134,10 @@ MISCELLANEOUS
 
 (f) the disclosure is made for such other purpose as may be prescribed by any regulations made under section 34.
 
+(1A) Despite section 18, a tribunal magistrate or a Registrar may publish information relating to an order or a decision of a tribunal.
+
+[Act 55 of 2018 wef 01/04/2019]
+
 (2) In this section —
 
 “law enforcement agency” means any authority or person charged with the duty of investigating offences or charging offenders under any written law;
@@ -976,7 +1164,9 @@ MISCELLANEOUS
 
 ### Amendment of Schedules
 
-32\.—(1) The Minister may, by order in theGazette, amend either or both of the First and Second Schedules.
+32\.—(1) The Minister may, by order in theGazette, amend any of the Schedules.
+
+[Act 55 of 2018 wef 01/04/2019]
 
 (2) The Minister may, in an order made under subsection (1), make such provisions of a saving or transitional nature consequent on the enactment of the order as the Minister may consider necessary or expedient.
 
@@ -1064,6 +1254,10 @@ MISCELLANEOUS
 
 (a) for carrying out the purposes and provisions of this Act;
 
+(aa) to prescribe how compensation is to be computed in a claim relating to a wrongful dismissal dispute;
+
+[Act 55 of 2018 wef 01/04/2019]
+
 (b) to provide for the fees to be charged for anything done or any service rendered by the Commissioner or an approved mediator under or by virtue of this Act;
 
 (c) to provide for the waiver, refund or remission, whether wholly or in part, of any fee provided for in those regulations;
@@ -1077,6 +1271,14 @@ MISCELLANEOUS
 (g) to prescribe such matters as are required by this Act to be prescribed by regulations made under this section.
 
 (2) The powers conferred by this section do not extend to any matter for which Rules of Court may be made under section 33.
+
+### Tripartite guidelines on wrongful dismissal
+
+34A\.—(1) The Minister may issue guidelines on what constitutes wrongful dismissal in the form of tripartite guidelines.
+
+(2) Upon the publication of those guidelines in theGazette, regard may be had to those guidelines for the purposes of sections 20(6A) and 25(4).
+
+[Act 55 of 2018 wef 01/04/2019]
 
 ## PART 5
 
@@ -1609,7 +1811,9 @@ Entitlement of employee to whom section 40 of the Employment Act applies to paym
 
 23. 
 
-Employee’s entitlement to paid annual leave under section 43(1), (2), (6) and (7) of the Employment Act
+Employee’s entitlement to paid annual leave under section 88A(1), (2), (6) and (7) of the Employment Act
+
+[Act 55 of 2018 wef 01/04/2019]
 
 24. 
 
@@ -1641,9 +1845,11 @@ Employee’s entitlement under section 88(4) of the Employment Act to be paid an
 
 30A. 
 
-Employee’s entitlement under section 88(4A) of the Employment Act, when employed in a managerial or an executive position, to either be paid an extra day’s salary or given time off in lieu, if required by the employer to work on a public holiday
+Employee’s entitlement under section 88(4A) of the Employment Act to either be paid an extra day’s salary or given time off in lieu, if required by the employer to work on a public holiday
 
 [S 153/2017 wef 01/04/2017]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 31. 
 
@@ -1673,9 +1879,11 @@ Part‑time employee’s entitlement under regulation 6(2) of the Employment (Pa
 
 36A. 
 
-Part‑time employee’s entitlement under regulation 6(2A) of the Employment (Part‑Time Employees) Regulations, when employed in a managerial or an executive position, to either be paid a sum at the part‑time employee’s basic rate of pay for one day’s work or given time off in lieu, if required by the employer to work on a public holiday
+Part‑time employee’s entitlement under regulation 6(2A) of the Employment (Part‑Time Employees) Regulations to either be paid a sum at the part‑time employee’s basic rate of pay for one day’s work or given time off in lieu, if required by the employer to work on a public holiday
 
 [S 153/2017 wef 01/04/2017]
+
+[Act 55 of 2018 wef 01/04/2019]
 
 37. 
 
@@ -1706,4 +1914,44 @@ Matters under Retirement and Re‑employment Act
 43. 
 
 Employee’s entitlement to employment assistance payment under section 7C(1) of the Retirement and Re‑employment Act (Cap. 274A)
+
+THIRD SCHEDULE
+
+Section 2(1)
+
+WRONGFUL DISMISSAL DISPUTES
+
+1. 
+
+Any dispute, in relation to which an employee may lodge a claim mentioned in section 14(2) of the Employment Act, over whether the employee has been dismissed without just cause or excuse by an employer.
+
+2. 
+
+Any dispute, in relation to which a female employee may lodge a claim mentioned in section 84(2) of the Employment Act, over whether a notice of dismissal given by an employer to the female employee in the circumstances mentioned in section 84(1)(a), (b) or (c) of that Act was or was not given for sufficient cause.
+
+3. 
+
+Any dispute, in relation to which a female employee mentioned in section 12(1) of the Child Development Co‑Savings Act may lodge a claim mentioned in section 84(2) of the Employment Act (as applied to the female employee), over whether a notice of dismissal given by an employer to the female employee in the circumstances mentioned in section 84(1)(a), (b) or (c) of the Employment Act (as applied to the female employee) was or was not given for sufficient cause.
+
+[Act 55 of 2018 wef 01/04/2019]
+
+FOURTH SCHEDULE
+
+Section 21(1A)
+
+SPECIFIED OBLIGATIONS UNDER WRITTEN LAW
+
+1. 
+
+An employer’s obligations under sections 95, 95A and 96 of the Employment Act
+
+2. 
+
+An employer’s obligations under paragraph 6A of Part IV of the Fourth Schedule to the Employment of Foreign Manpower (Work Passes) Regulations 2012 (G.N. No. S 569/2012)
+
+3. 
+
+An employer’s obligations under paragraph 5 of Part II of the Fifth Schedule to the Employment of Foreign Manpower (Work Passes) Regulations 2012
+
+[Act 55 of 2018 wef 01/04/2019]
 
