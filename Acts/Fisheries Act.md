@@ -66,7 +66,7 @@
 
 - [25 Exemption](#Exemption)
 
-- [26 Fees, etc., payable to Authority](#Fees-etc-payable-to-Authority)
+- [26 Fees, etc., payable to Agency](#Fees-etc-payable-to-Agency)
 
 - [27 Rules](#Rules)
 
@@ -100,11 +100,17 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
+“Agency” means the Singapore Food Agency established by the Singapore Food Agency Act 2019;
+
+[Act 11 of 2019 wef 01/04/2019]
+
 “authorised officer” means any person appointed by the Director-General to be an authorised officer under section 3(2);
 
-“Authority” means the Agri-Food and Veterinary Authority established under section 3 of the Agri-Food and Veterinary Authority Act (Cap. 5);
+[Deleted by Act 11 of 2019 wef 01/04/2019]
 
-“Director-General” means the Director-General, Agri-Food and Veterinary Services appointed under section 3(1) of the Animals and Birds Act (Cap. 7);
+“Director-General” means the Director-General, Food Administration appointed under section 3(1) of the Sale of Food Act (Cap. 283);
+
+[Act 11 of 2019 wef 01/04/2019]
 
 “estuarine waters” means waters extending from the mouth of a river to the uppermost point upstream penetrated by sea water at the highest tide of the year and references to estuarine fishing and estuarine fisheries shall be construed accordingly;
 
@@ -140,13 +146,25 @@ ADMINISTRATION
 
 [16/2000]
 
-(2) The Director-General may in writing appoint any public officer or any officer of the Authority or of any other statutory authority to be an authorised officer for the purposes of this Act.
+(2) The Director-General may in writing appoint any public officer or any officer of the Agency or any other statutory authority, or an auxiliary police officer appointed under the Police Force Act (Cap. 235), to be an authorised officer for the purposes of this Act.
 
 [16/2000]
 
-(3) The Director-General may delegate all or any of the powers conferred or duties imposed upon him by this Act to any authorised officer.
+[Act 11 of 2019 wef 01/04/2019]
+
+(3) The Director-General may delegate all or any of the powers conferred or duties imposed upon him by this Act (except the power of delegation conferred by this subsection) to any authorised officer.
 
 [16/2000]
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) The Director-General may, for any reason that appears to the Director-General to be sufficient, at any time revoke a person’s appointment as an authorised officer.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(5) An auxiliary police officer who is appointed as an authorised officer under subsection (2) does not, by virtue only of the appointment, become an employee or agent of the Agency.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Public servants
 
@@ -284,15 +302,9 @@ shall be guilty of an offence and shall be liable on conviction, if no special p
 
 (3) Where an offence is continued after conviction, there shall be payable by the offender for every day during which the offence continues a fine not exceeding $50, and where the offence continues for a period exceeding 10 days after conviction the offender shall be liable to a term of imprisonment not exceeding 6 months.
 
-(4) Notwithstanding subsection (2), the Minister may provide in any rules made under this Act which relate to the prohibition, regulation or control of the species of fish known as piranha or any other prescribed dangerous species of fish that a person who contravenes any provision thereof shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both.
+(4) [Deleted by Act 11 of 2019 wef 01/04/2019]
 
-[12/94]
-
-(5) No prosecution in respect of an offence referred to in subsection (4) shall be instituted except with the consent of the Public Prosecutor.
-
-[15
-
-[12/94]
+(5) [Deleted by Act 11 of 2019 wef 01/04/2019]
 
 ### Forfeiture
 
@@ -308,11 +320,13 @@ shall be guilty of an offence and shall be liable on conviction, if no special p
 
 (2) The proceeds of sale under subsection (1) shall be held to abide the result of any prosecution or claim.
 
-(3) Where there is no prosecution or claim, the proceeds of sale shall be paid to the person from whom the fish was seized and if that person cannot be ascertained, the proceeds of sale shall be paid to the Authority.
+(3) Where there is no prosecution or claim, the proceeds of sale shall be paid to the person from whom the fish was seized and if that person cannot be ascertained, the proceeds of sale shall be paid to the Agency.
 
 [17
 
 [30/73; 16/2000]
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Confiscation of vessel, etc.
 
@@ -339,6 +353,14 @@ shall be guilty of an offence and shall be liable on conviction, if no special p
 [20
 
 [12/94]
+
+(3) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
+
+[Act 11 of 2019 wef 01/04/2019]
+
+(4) All composition sums collected under this section must be paid into the Consolidated Fund.
+
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Offence committed by employee
 
@@ -440,11 +462,11 @@ MISCELLANEOUS
 
 [16/2000]
 
-### Fees, etc., payable to Authority
+### Fees, etc., payable to Agency
 
-26\. All fees, charges, composition fines and moneys collected under this Act shall be paid to the Authority.
+26\. All fees, charges and moneys collected under this Act or any rules made thereunder (except composition sums) must be paid to the Agency.
 
-[16/2000]
+[Act 11 of 2019 wef 01/04/2019]
 
 ### Rules
 
@@ -457,6 +479,16 @@ MISCELLANEOUS
 (b) to regulate or prohibit any method of fishing or the use of any fish traps or fishing nets;
 
 (c) to provide for the licensing, control, supervision and protection of any fishery and of the cultivation of fish or any particular species of fish;
+
+(ca) to set out requirements and procedures for document control and recording by any fishery or persons involved in the cultivation of fish so as to monitor the supply of fish in Singapore for human consumption, including —
+
+(i) the information that must be collected about the fish or a particular species of fish;
+
+(ii) the periods for which the information must be kept; and
+
+(iii) how, when and to whom that information must be reported;
+
+[Act 11 of 2019 wef 01/04/2019]
 
 (d) to prescribe the species or the minimum weights and sizes of fish which may be cultured, captured or taken for the purposes of sale, processing, consumption, consignment, rearing or sport;
 
@@ -565,6 +597,10 @@ This Legislative History is provided for the convenience of users of the Fisheri
 ||Date of commencement|15 September 2002|
 |9.|**2002 Revised Edition—Fisheries Act**|
 ||Date of operation|31 December 2002|
+|10.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 April 2019|
 ## COMPARATIVE TABLE
 
 Fisheries Act
