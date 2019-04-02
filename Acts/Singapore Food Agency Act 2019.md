@@ -230,6 +230,8 @@ President.
 
 Date of Commencement: 1 April 2019 Parts 1 to 7, sections 49 to 54, Divisions 2, 3, 4, 5, 6, 7, 9, 10 and 11 of Part 9 and Part 10
 
+Date of Commencement: 2 April 2019 Section 55
+
 An Act to establish the Singapore Food Agency, to repeal the Agri‑Food and Veterinary Authority Act (Chapter 5 of the 2012 Revised Edition) and the Cattle Act (Chapter 34 of the 2002 Revised Edition), and to make consequential and related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
