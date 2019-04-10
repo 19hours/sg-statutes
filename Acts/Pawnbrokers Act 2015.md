@@ -188,6 +188,8 @@
 
 - [74 Programmes and measures to prevent money laundering and terrorism financing](#Programmes-and-measures-to-prevent-money-laundering-and-terrorism-financing)
 
+- [74A Cash transaction reports](#Cash-transaction-reports)
+
 - [75 Customer due diligence measures, additional measures and measures relating to targeted financial sanctions](#Customer-due-diligence-measures-additional-measures-and-measures-relating-to-targeted-financial-sanctions)
 
 - [76 Record-keeping](#Record-keeping)
@@ -1518,6 +1520,18 @@ and Financing of Terrorism
 
 (6) A pawnbroker which contravenes subsection (1), (2), (4) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000.
 
+### Cash transaction reports
+
+74A\.—(1) A pawnbroker who enters into any relevant transaction specified in Part 1 of the Third Schedule must submit to a Suspicious Transaction Reporting Officer a cash transaction report relating to the relevant transaction, within the time and in the form and manner specified in Part 2 of the Third Schedule.
+
+(2) A pawnbroker must keep a copy of each cash transaction report submitted under subsection (1) for the period specified in Part 2 of the Third Schedule.
+
+(3) A pawnbroker must, at the time of submitting a cash transaction report under subsection (1) or immediately thereafter, submit a copy of the cash transaction report to the Registrar.
+
+(4) A pawnbroker who fails to comply with subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 7 of 2019 wef 10/04/2019]
+
 ### Customer due diligence measures, additional measures and measures relating to targeted financial sanctions
 
 75\.—(1) A pawnbroker must perform the customer due diligence measures specified in Part 2 of the Third Schedule.
@@ -1805,6 +1819,18 @@ Definitions
 
 (b) the individual who exercises effective control over the entity or legal arrangement;
 
+“business day” means a day other than a Saturday, Sunday or public holiday;
+
+[S 308/2019 wef 10/04/2019]
+
+“cash” means currency notes and coins (whether of Singapore or of a foreign country or territory) which are legal tender and circulate as money in the country or territory of issue;
+
+[S 308/2019 wef 10/04/2019]
+
+“cash equivalent” means any physical or electronic form of a voucher, token, stamp, coupon, card or other article the redemption of which in accordance with its terms entitles the holder to receive any precious stone, precious metal or precious product up to the value stated on or recorded in or in respect of the voucher, token, stamp, coupon, card or other article;
+
+[S 308/2019 wef 10/04/2019]
+
 “close associate”, in relation to a politically-exposed person, means —
 
 (a) a partner of the politically-exposed person;
@@ -1815,7 +1841,13 @@ Definitions
 
 (d) a person with whom the politically-exposed person has an agreement or arrangement, whether oral or in writing and whether express or implied, to act together;
 
-“family member”, in relation to a politically-exposed person, means a spouse or child, an adopted child, or a step-child, sibling or parent, of the politically-exposed person;
+“customer” means a person to whom a pawnbroker sells or intends to sell any precious stone, precious metal or precious product;
+
+[S 308/2019 wef 10/04/2019]
+
+“family member”, in relation to a politically-exposed person, means a spouse or child, an adopted child, or a step-child, a sibling, an adopted sibling or a step-sibling or a parent or step-parent, of the politically-exposed person;
+
+[S 308/2019 wef 10/04/2019]
 
 “FATF” means the intergovernmental body known as the Financial Action Task Force;
 
@@ -1831,7 +1863,13 @@ Definitions
 
 (b) in a country or territory outside Singapore; or
 
-(c) in or in relation to an international organisation;
+(c) in an international organisation;
+
+[S 308/2019 wef 10/04/2019]
+
+“precious metal”, “precious product” and “precious stone” have the meanings given by section 2 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act 2019 (Act 7 of 2019);
+
+[S 308/2019 wef 10/04/2019]
 
 “prominent public function” includes the role held by a head of state, head of government, government minister, senior civil or public servant, senior judicial or military official, senior executive of a state-owned corporation, senior political party official, member of the legislature or member of the senior management of an international organisation (including a director, deputy director or member of a board or an equivalent function);
 
@@ -1839,19 +1877,31 @@ Definitions
 
 “relevant loan” means a loan exceeding $20,000;
 
+“relevant transaction” means any of the following transactions conducted wholly or partly in Singapore:
+
+(a) a sale of any precious stone, precious metal or precious product by a pawnbroker to a customer, for which cash or a cash equivalent exceeding $20,000 is received as payment;
+
+(b) 2 or more sales of any precious stone, precious metal or precious product in a single day by a pawnbroker to the same customer, or to customers whom the pawnbroker knows act on behalf of the same person, for which cash or a cash equivalent in total exceeding $20,000 is received as payment;
+
+[S 308/2019 wef 10/04/2019]
+
 “Singapore government entity” means a ministry or department of the Government, an organ of State or a statutory board.
 
 (2) In this Schedule, unless the context otherwise requires, a reference to a financial institution supervised by the Monetary Authority of Singapore does not include a person who is exempted from being licensed, approved, registered or otherwise regulated by the Monetary Authority of Singapore under any written law.
 
 Part 2
 
-CUSTOMER DUE DILIGENCE MEASURES
+CUSTOMER DUE DILIGENCE AND OTHER MEASURES
 
 Pawnbroker to perform customer due diligence measures in certain circumstances
 
 2.—(1) A pawnbroker must perform the customer due diligence measures specified in paragraph 3 in the following circumstances:
 
 (a) before the pawnbroker makes a relevant loan;
+
+(aa) before the pawnbroker enters into a relevant transaction;
+
+[S 308/2019 wef 10/04/2019]
 
 (b) where the pawnbroker has reason to suspect money laundering or terrorism financing;
 
@@ -1863,55 +1913,87 @@ Pawnbroker to perform customer due diligence measures in certain circumstances
 
 (a) the pawnbroker has reason to suspect that the transaction relates to money laundering or terrorism financing; and
 
-(b) the pawnbroker has reason to believe that performing the measure will tip-off the pawner or any other person.
+(b) the pawnbroker has reason to believe that performing the measure will tip-off the pawner, the customer or any other person.
 
-(4) Where, in relation to any pawner, a pawnbroker is unable or chooses not to complete performing any measure it is required to perform under this Part for any reason, the pawnbroker must —
+[S 308/2019 wef 10/04/2019]
 
-(a) decline to enter into any transaction with the pawner;
+(4) Where, in relation to any pawner or customer, a pawnbroker is unable or chooses not to complete performing any measure it is required to perform under this Part for any reason, the pawnbroker must —
 
-(b) terminate any transaction entered into with the pawner;
+(a) decline to enter into any transaction with the pawner or customer;
+
+[S 308/2019 wef 10/04/2019]
+
+(b) terminate any transaction entered into with the pawner or customer;
+
+[S 308/2019 wef 10/04/2019]
 
 (c) determine whether to make a disclosure under section 39 of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A) or Part III of the Terrorism (Suppression of Financing) Act (Cap. 325); and
 
 (d) record the basis of its determination under sub-paragraph (c).
 
+[S 308/2019 wef 10/04/2019]
+
 Customer due diligence measures: generally
 
 3.—(1) For the purposes of paragraph 2(1), a pawnbroker must perform the customer due diligence measures specified in this paragraph.
 
-(2) The pawnbroker must identify and verify the identity of the pawner, any person on whose behalf the pawner is acting, and any beneficial owner of such person, in accordance with paragraphs 4, 5 and 6 (as applicable). For this purpose, the pawnbroker may rely on information already obtained in accordance with paragraph 7, or rely on third parties in accordance with paragraph 8.
+(2) The pawnbroker must identify and verify the identity of the pawner, the customer, any person on whose behalf the pawner or customer is acting, and any beneficial owner of such person, in accordance with paragraphs 4, 5 and 6 (as applicable). For this purpose, the pawnbroker may rely on information already obtained in accordance with paragraph 7, or rely on third parties in accordance with paragraph 8.
 
-(3) The pawnbroker must understand and, where appropriate, obtain information on the purpose and intended nature of the business relationship with the pawner.
+[S 308/2019 wef 10/04/2019]
 
-(4) The pawnbroker must conduct ongoing due diligence on the business relationship with the pawner, and scrutinise all transactions entered into with the pawner throughout the course of that relationship, to ensure that the transactions are consistent with the pawnbroker’s knowledge of the pawner, the pawner’s business and the pawner’s risk profile, including the pawner’s source of funds.
+(3) The pawnbroker must understand and, where appropriate, obtain information on the purpose and intended nature of the business relationship with the pawner or customer.
 
-(5) A pawnbroker must perform the measures in sub-paragraphs (2), (3) and (4) in a face-to-face meeting with the pawner, unless the pawnbroker assesses that the risks of money laundering and terrorism financing are low.
+[S 308/2019 wef 10/04/2019]
+
+(4) The pawnbroker must conduct ongoing due diligence on the business relationship with the pawner or customer, and scrutinise all transactions entered into with the pawner or customer throughout the course of that relationship, to ensure that the transactions are consistent with the pawnbroker’s knowledge of the pawner or customer and the pawner’s or customer’s business, risk profile and source of funds.
+
+[S 308/2019 wef 10/04/2019]
+
+(5) A pawnbroker must perform the measures in sub-paragraphs (2), (3) and (4) in a face-to-face meeting with the pawner or customer, unless the pawnbroker assesses that the risks of money laundering and terrorism financing are low.
+
+[S 308/2019 wef 10/04/2019]
 
 (6) The pawnbroker must, in addition to performing the measures in sub‑paragraphs (2), (3) and (4), perform the enhanced customer due diligence measures required under paragraph 9, in the circumstances specified in that paragraph.
 
 (7) The pawnbroker may, in lieu of performing the measures in sub‑paragraphs (2), (3) and (4), perform simplified customer due diligence measures in accordance with paragraph 10.
 
-Pawnbroker to ascertain whether pawner acting on own behalf or on behalf of another person
+Pawnbroker to ascertain whether pawner or customer acting on own behalf or on behalf of another person
 
-4.—(1) A pawnbroker must obtain the pawner’s identification information.
+4.—(1) A pawnbroker must obtain the pawner’s or the customer’s identification information.
 
-(2) A pawnbroker must ascertain whether a pawner is acting on the pawner’s own behalf or on behalf of another person.
+[S 308/2019 wef 10/04/2019]
 
-(3) Where a pawnbroker ascertains that a pawner is acting on behalf of another person, the pawnbroker must —
+(2) A pawnbroker must ascertain whether a pawner or customer is acting on the pawner’s or the customer’s own behalf or on behalf of another person.
+
+[S 308/2019 wef 10/04/2019]
+
+(3) Where a pawnbroker ascertains that a pawner or customer is acting on behalf of another person, the pawnbroker must —
 
 (a) identify and verify the identity of the person in accordance with paragraph 5 or 6, as the case may be, depending on whether the person is an individual, an entity or a legal arrangement; and
 
-(b) verify that the pawner is authorised to act on behalf of the person.
+(b) verify that the pawner or customer is authorised to act on behalf of the person.
 
-Pawner acting on behalf of individual
+[S 308/2019 wef 10/04/2019]
 
-5.—(1) This paragraph applies where a pawner is acting on behalf of an individual.
+[S 308/2019 wef 10/04/2019]
+
+[S 308/2019 wef 10/04/2019]
+
+Pawner or customer acting on behalf of individual
+
+5.—(1) This paragraph applies where a pawner or customer is acting on behalf of an individual.
+
+[S 308/2019 wef 10/04/2019]
 
 (2) The pawnbroker must identify and verify the identity of the individual by obtaining the individual’s identification information.
 
-Pawner acting on behalf of entity or legal arrangement
+[S 308/2019 wef 10/04/2019]
 
-6.—(1) This paragraph applies where a pawner is acting on behalf of a person which is an entity or a legal arrangement (referred to in this paragraph as the legal person).
+Pawner or customer acting on behalf of entity or legal arrangement
+
+6.—(1) This paragraph applies where a pawner or customer is acting on behalf of a person which is an entity or a legal arrangement (referred to in this paragraph as the legal person).
+
+[S 308/2019 wef 10/04/2019]
 
 (2) The pawnbroker must identify and verify the identity of the legal person by obtaining the following information:
 
@@ -1961,17 +2043,21 @@ Pawner acting on behalf of entity or legal arrangement
 
 (4) A pawnbroker need not identify each beneficial owner of the legal person where the legal person is —
 
-(a) a Singapore government entity;
+(a) [Deleted by S 308/2019 wef 10/04/2019]
 
-(b) a foreign government entity;
+(b) [Deleted by S 308/2019 wef 10/04/2019]
 
 (c) an entity listed on the Singapore Exchange;
 
-(d) a financial institution supervised by the Monetary Authority of Singapore; or
+(d) a financial institution that is subject to and supervised for compliance with requirements for the prevention of money laundering and the financing of terrorism by the Monetary Authority of Singapore, as listed in Appendix 1 of the direction known as MAS Notice 626 issued by the Monetary Authority of Singapore; or
+
+[S 308/2019 wef 10/04/2019]
 
 (e) a financial institution incorporated or established outside Singapore that is subject to and supervised for compliance with requirements for the prevention of money laundering and the financing of terrorism consistent with standards set by the FATF.
 
 (5) Where a pawnbroker determines that the legal person is of a type specified in sub-paragraph (4), the pawnbroker must record the basis for its determination.
+
+[S 308/2019 wef 10/04/2019]
 
 Reliance on identification and verification already obtained
 
@@ -1995,7 +2081,9 @@ Reliance on third parties
 
 (ii) has adequate measures in place to comply with those requirements.
 
-(3) The Registrar may, where the Registrar considers it necessary or expedient, grant written approval under sub-paragraph (1) in respect of a class or description of pawners or third parties.
+(3) The Registrar may, where the Registrar considers it necessary or expedient, grant written approval under sub-paragraph (1) in respect of a class or description of pawners, customers or third parties.
+
+[S 308/2019 wef 10/04/2019]
 
 (4) To avoid doubt, the pawnbroker remains responsible for compliance with its obligations to perform the customer due diligence measures under paragraphs 4, 5 and 6 notwithstanding its use of a third party under this paragraph.
 
@@ -2007,9 +2095,31 @@ Enhanced customer due diligence measures
 
 (b) the pawner has taken up 2 or more relevant loans that have no apparent or visible economic or lawful purpose;
 
-(c) the relevant loan referred to in paragraph 2(1)(a) is granted to a person from or in a higher-risk foreign country; or
+(c) the pawner, or a person on whose behalf the pawner is acting, in any relevant loan —
+
+(i) is from or in, or the relevant loan relates to, any country or jurisdiction that the Registrar has notified the pawnbroker is a country or jurisdiction in relation to which the FATF has called for countermeasures or enhanced customer due diligence measures; or
+
+(ii) is from or in any country or jurisdiction that the Registrar has notified the pawnbroker is a country or jurisdiction identified to have inadequate measures to prevent money laundering and the financing of terrorism; or
+
+[S 308/2019 wef 10/04/2019]
 
 (d) the pawnbroker has reason to believe that the pawner, or the relevant loan referred to in paragraph 2(1)(a), may present a high risk of money laundering or terrorism financing.
+
+(1A) A pawnbroker who enters or intends to enter into a relevant transaction must perform enhanced customer due diligence measures if —
+
+(a) the relevant transaction is unusually large;
+
+(b) the customer has entered into 2 or more relevant transactions that have no apparent or visible economic or lawful purpose;
+
+(c) the customer, or a person on whose behalf the customer is acting, in any relevant transaction —
+
+(i) is from or in, or the transaction relates to, any country or jurisdiction that the Registrar has notified the pawnbroker is a country or jurisdiction in relation to which the FATF has called for countermeasures or enhanced customer due diligence measures; or
+
+(ii) is from or in any country or jurisdiction that the Registrar has notified the pawnbroker is a country or jurisdiction identified to have inadequate measures to prevent money laundering and the financing of terrorism; or
+
+(d) the pawnbroker has reason to believe that the customer, the person on whose behalf the customer is acting, or the relevant transaction, may present a high risk of money laundering or terrorism financing.
+
+[S 308/2019 wef 10/04/2019]
 
 (2) A pawnbroker must keep a record of —
 
@@ -2023,11 +2133,19 @@ Enhanced customer due diligence measures
 
 “enhanced customer due diligence measures” includes —
 
-(a) examining, so far as reasonably possible, the background and purpose of the relevant loan; and
+(a) examining, so far as reasonably possible, the background and purpose of the relevant loan or relevant transaction;
 
-(b) increasing the degree and nature of monitoring of the business relationship with the pawner, in order to determine whether the relevant loan is unusual or suspicious;
+[S 308/2019 wef 10/04/2019]
 
-“higher-risk foreign country” means a country which is identified by the FATF as a higher-risk and non-cooperative jurisdiction or which the Registrar, by notice to the pawnbroker, identifies as a higher-risk country.
+(b) increasing the degree and nature of monitoring of the business relationship with the pawner, in order to determine whether the relevant loan is unusual or suspicious; and
+
+[S 308/2019 wef 10/04/2019]
+
+(c) increasing the degree and nature of monitoring of the transactions entered into with a customer so as to identify suspicious transactions, including transactions or patterns of transactions which are inconsistent with the customer’s profile.
+
+[S 308/2019 wef 10/04/2019]
+
+[Deleted by S 308/2019 wef 10/04/2019]
 
 Simplified customer due diligence measures
 
@@ -2043,15 +2161,33 @@ Simplified customer due diligence measures
 
 (a) either or both of the following apply:
 
-(i) any of the circumstances in paragraph 9(1)(a) to (d) exists;
+(i) any of the circumstances in paragraph 9(1)(a) to (d) or 9(1A)(a) to (d) exists;
 
-(ii) the pawner, any person on whose behalf the pawner is acting, or any beneficial owner of such person, is a politically-exposed person or a family member or close associate of a politically-exposed person;
+[S 308/2019 wef 10/04/2019]
+
+(ii) the pawner, the customer, any person on whose behalf the pawner or customer is acting, or any beneficial owner of such person, is a politically-exposed person or a family member or close associate of a politically-exposed person;
+
+[S 308/2019 wef 10/04/2019]
 
 (b) the risks of money laundering or terrorism financing are high; or
 
-(c) the simplified customer due diligence measures proposed by the pawnbroker will not effectively identify and verify the identity of the pawner, any person on whose behalf the pawner is acting, or any beneficial owner of such person.
+(c) the simplified customer due diligence measures proposed by the pawnbroker will not effectively identify and verify the identity of the pawner, the customer, any person on whose behalf the pawner or customer is acting, or any beneficial owner of such person.
 
-(3) The Registrar may, where the Registrar considers it necessary or expedient, grant written approval under sub-paragraph (1) in respect of a class or description of pawners.
+[S 308/2019 wef 10/04/2019]
+
+(3) The Registrar may, where the Registrar considers it necessary or expedient, grant written approval under sub-paragraph (1) in respect of a class or description of pawners or customers.
+
+[S 308/2019 wef 10/04/2019]
+
+Customer due diligence measures for existing customers
+
+10A. A pawnbroker may, based on the pawnbroker’s assessment of materiality and risk, perform the customer due diligence measures mentioned in paragraphs 3, 4, 5, 6, 9 and 10 in relation to an existing customer using information previously obtained from customer due diligence measures in relation to the same customer, taking into account —
+
+(a) when customer due diligence measures (if any) were last applied to that customer; and
+
+(b) the adequacy of information already obtained by the pawnbroker in relation to that customer.
+
+[S 308/2019 wef 10/04/2019]
 
 Existing pawners
 
@@ -2077,15 +2213,37 @@ Suspicious transaction reporting
 
 (c) the relevant loan is part of an unusual pattern of loans with no apparent economic or lawful purpose;
 
+(ca) a customer is unable or unwilling to provide any information requested by the pawnbroker, or decides not to proceed with a transaction when requested to provide information;
+
+[S 308/2019 wef 10/04/2019]
+
+(cb) the relevant transaction is part of an unusual pattern of transactions with no apparent economic or lawful purpose;
+
+[S 308/2019 wef 10/04/2019]
+
 (d) any other circumstance exists for the making of a disclosure under section 39(1) of the Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act or Part III of the Terrorism (Suppression of Financing) Act.
 
 (2) If the pawnbroker decides to make such a disclosure, it must submit a copy of the report relating to the disclosure to the Registrar.
+
+Cash transaction report
+
+13A.—(1) For the purposes of section 74A(1) —
+
+(a) the form for a cash transaction report is Form NP 759 or Form NP 784 as set out at the website at https://www.police.gov.sg; and
+
+(b) the time for the submission of a cash transaction report is not later than the 15th business day after the date on which the relevant transaction is entered into.
+
+(2) For the purposes of section 74A(2), the period for which a copy of a cash transaction report must be kept is 5 years after the date of submission of the cash transaction report.
+
+[S 308/2019 wef 10/04/2019]
+
+[S 308/2019 wef 10/04/2019]
 
 Part 3
 
 additional measures
 
-Pawnbroker to assess whether pawner, etc., is politically-exposed person
+Pawnbroker to assess whether pawner or customer, etc., is politically-exposed person
 
 14.—(1) A pawnbroker must have appropriate risk-management systems, and take reasonable measures, to assess whether a relevant person is a politically-exposed person or a family member or close associate of a politically-exposed person.
 
@@ -2101,7 +2259,11 @@ Pawnbroker to assess whether pawner, etc., is politically-exposed person
 
 (4) To avoid doubt, the measures that a pawnbroker is required to take under this paragraph are in addition to any other measures that the pawnbroker is required to take under this Schedule.
 
-(5) In this paragraph, “relevant person” means a pawner, any person on whose behalf a pawner is acting, and any beneficial owner of such person.
+(5) In this paragraph, “relevant person” means a pawner, a customer, any person on whose behalf a pawner or customer is acting, and any beneficial owner of such person.
+
+[S 308/2019 wef 10/04/2019]
+
+[S 308/2019 wef 10/04/2019]
 
 New technologies
 
@@ -2109,7 +2271,9 @@ New technologies
 
 (a) identify and assess the money laundering or terrorism financing risks that may arise in relation to the product, business practice or technology; and
 
-(b) take appropriate measures to mitigate such risks.
+(b) take appropriate measures to manage and mitigate such risks.
+
+[S 308/2019 wef 10/04/2019]
 
 Part 4
 
@@ -2120,11 +2284,13 @@ MEASURES RELATing TO
 
 targeted financial sanctions AGAINST TERRORISM
 
-Pawnbroker to assess whether pawner, etc., is terrorist or terrorist entity
+Pawnbroker to assess whether pawner or customer, etc., is terrorist or terrorist entity
 
-16.—(1) A pawnbroker must, before making a relevant loan, take reasonable measures to assess whether the relevant person is a terrorist or terrorist entity under the First Schedule to the Terrorism (Suppression of Financing) Act (Cap. 325).
+16.—(1) A pawnbroker must, before making a relevant loan or entering into a relevant transaction, take reasonable measures to assess whether the relevant person is a terrorist or terrorist entity under the First Schedule to the Terrorism (Suppression of Financing) Act (Cap. 325).
 
-(2) If a pawnbroker has reason to suspect that a relevant person is a terrorist or terrorist entity under the First Schedule to the Terrorism (Suppression of Financing) Act, the pawnbroker must —
+[S 308/2019 wef 10/04/2019]
+
+(2) If a pawnbroker has reason to suspect that a relevant person is a terrorist or terrorist entity under the Terrorism (Suppression of Financing) Act, the pawnbroker must —
 
 (a) decline to enter into any transaction with the relevant person;
 
@@ -2132,7 +2298,13 @@ Pawnbroker to assess whether pawner, etc., is terrorist or terrorist entity
 
 (c) make a report to the police.
 
-(3) In this paragraph, “relevant person” means a pawner, any person on whose behalf a pawner is acting, and any beneficial owner of such person.
+[S 308/2019 wef 10/04/2019]
+
+(3) In this paragraph, “relevant person” means a pawner, a customer, any person on whose behalf a pawner or customer is acting, and any beneficial owner of such person.
+
+[S 308/2019 wef 10/04/2019]
+
+[S 308/2019 wef 10/04/2019]
 
 FOURTH SCHEDULE
 
