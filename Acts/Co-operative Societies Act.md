@@ -52,6 +52,10 @@
 
 - [16B Control of credit societies](#Control-of-credit-societies)
 
+- [16BA Conversion from credit society to non-credit society on application](#Conversion-from-credit-society-to-non-credit-society-on-application)
+
+- [16BB Modifying of terms and conditions of written approval](#Modifying-of-terms-and-conditions-of-written-approval)
+
 - [16C Change of name of society](#Change-of-name-of-society)
 
 - [17 Address of society](#Address-of-society)
@@ -115,6 +119,8 @@
 - [41 (Repealed)](#Repealed)
 
 - [42 Votes of members](#Votes-of-members)
+
+- [42A Statement of account](#Statement-of-account)
 
 - [43 Restriction on shareholding](#Restriction-on-shareholding)
 
@@ -608,8 +614,6 @@ FORMATION AND REGISTRATION OF SOCIETIES
 
 [Act 3 of 2018 wef 10/04/2018]
 
-[Act 3 of 2018 wef 10/04/2018]
-
 (1A) For the purposes of subsection (1), the Registrar may accept a declaration made by the applicants for registration of the proposed society as to the matters specified in subsection (1)(a), (b) and (c) as sufficient evidence of those matters.
 
 [23/2008]
@@ -852,13 +856,15 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 ### Conversion from non-credit society to credit society
 
-16A\.—(1) A non-credit society shall not provide any financial service without the written approval of the Registrar.
+16A\.—(1) A non-credit society shall not provide any financial service.
 
 [23/2008]
 
-(2) A non-credit society shall apply to the Registrar for his written approval under subsection (1) in such form and manner as may be prescribed.
+[Act 3 of 2018 wef 22/04/2019]
 
-[23/2008]
+(2) A non‑credit society that intends to provide any financial service must apply to the Registrar, in such manner as may be prescribed, for the Registrar’s written approval to become a credit society.
+
+[Act 3 of 2018 wef 22/04/2019]
 
 (3) Every application made by a non-credit society under subsection (2) shall be accompanied by such fee as may be prescribed.
 
@@ -868,37 +874,55 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 
 [23/2008]
 
-(5) The Registrar may refuse to grant his written approval under subsection (1) to a non-credit society to provide any financial service if he is not satisfied that —
+(5) The Registrar may grant the written approval if the Registrar is satisfied that all of the following requirements will be met upon the conversion of the non‑credit society to a credit society:
 
-(a) the provision of the financial service is in the interests of its members;
+(a) the primary object of the society is to provide any financial service;
 
-(b) the primary object of the society is to provide the financial service;
+(b) the provision of the financial service is in the interests of the members of the society;
 
-(c) the by-laws of the society are, or are amended under section 15 to be, consistent with the criterion for membership in the society prescribed in section 39(3A);
+(c) the by‑laws of the society are, or are amended under section 15 to be, consistent with the criterion in section 39(3A) for membership in the society;
 
 (d) there is available sufficient capital for the provision of the financial service by the society;
 
-(e) the society is able to meet such minimum financial or prudential requirements or such other requirements as may be prescribed, either generally or specifically; or
+(e) the society is able to meet such minimum financial or prudential requirements, or such other requirements, as may be prescribed, either generally or specifically;
 
-(f) there are available officers capable of directing and managing the provision of the financial service by the society and keeping the records and accounts of the society, having regard to the reputation, character, financial integrity and reliability of the officers or proposed officers.
+(f) there are available officers who, having regard to their qualifications, experience, reputation, character, financial integrity and reliability, are capable of —
 
-[23/2008]
+(i) directing and managing the provision of the financial service by the society; and
 
-(6) The Registrar may grant his written approval under subsection (1) subject to such terms and conditions as he thinks fit.
+(ii) keeping the records and accounts of the society.
 
-[23/2008]
+[Act 3 of 2018 wef 22/04/2019]
 
-(7) Where the Registrar has granted his written approval to a non-credit society to provide any financial service, he shall amend the register of societies to show that, and issue to the society a notice of registration stating that, the society is registered as a credit society to provide the financial service on and from a date specified in the notice.
-
-[23/2008]
-
-(8) A non-credit society that is aggrieved by the refusal of the Registrar to grant his written approval for the non-credit society to provide any financial service may, within 2 months from the date of the refusal, appeal to the Minister whose decision shall be final.
+(6) The Registrar may grant the written approval subject to such terms and conditions as he thinks fit.
 
 [23/2008]
 
-(9) Any non-credit society which provides any financial service in contravention of subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
+[Act 3 of 2018 wef 22/04/2019]
 
-[23/2008]
+(7) Where the Registrar grants written approval for a non‑credit society to become a credit society, the Registrar must —
+
+(a) notify the society in writing that it is registered as a credit society to provide the financial service specified in the notice, starting on a date specified in the notice; and
+
+(b) amend the register of societies to show that the society is registered as a credit society to provide that financial service.
+
+[Act 3 of 2018 wef 22/04/2019]
+
+(7A) A non‑credit society that is granted written approval to become a credit society —
+
+(a) must not provide any new service other than a financial service, starting on such date as the Registrar may determine (being a date that may be different from the date mentioned in subsection (7)(a)); but
+
+(b) may continue to provide indefinitely any service (not being a financial service) that was carried on by the society immediately before that date.
+
+[Act 3 of 2018 wef 22/04/2019]
+
+(8) A non‑credit society that is aggrieved by a decision by the Registrar to refuse written approval for the non‑credit society to become a credit society may, within 2 months after the date of the decision, appeal in writing to the Minister, whose decision is final.
+
+[Act 3 of 2018 wef 22/04/2019]
+
+(9) Any non‑credit society that contravenes subsection (1) or (7A)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for each day or part of a day during which the offence continues after conviction.
+
+[Act 3 of 2018 wef 22/04/2019]
 
 ### Control of credit societies
 
@@ -909,6 +933,78 @@ PRIVILEGES AND DUTIES OF SOCIETIES
 (2) Any credit society which contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for every day or part thereof during which the offence continues after conviction.
 
 [23/2008]
+
+### Conversion from credit society to non-credit society on application
+
+16BA\.—(1) A credit society that intends to stop providing every financial service carried on by the society, and does not intend to provide any new financial service, must apply to the Registrar, in such manner as may be prescribed, for the Registrar’s written approval to become a non‑credit society.
+
+(2) An application under subsection (1) must be accompanied —
+
+(a) by the prescribed application fee (if any); and
+
+(b) by such documents and information as the Registrar requires in relation to the application.
+
+(3) The Registrar may grant the written approval if the Registrar is satisfied that all of the following requirements will be met upon the conversion of the credit society to a non-credit society:
+
+(a) the object of the society is to provide any service other than any financial service;
+
+(b) the provision of the service mentioned in paragraph (a) is in the interests of the members of the society;
+
+(c) there is available sufficient capital for the provision of the service mentioned in paragraph (a) by the society;
+
+(d) there are available officers who are capable of —
+
+(i) directing and managing the provision of the service mentioned in paragraph (a) by the society; and
+
+(ii) keeping the records and accounts of the society.
+
+(4) The Registrar must not grant the written approval unless a resolution for the conversion of the credit society to a non‑credit society has been passed at a general meeting of the credit society by not less than 75% of the members of the society present and voting.
+
+(5) The Registrar may grant the written approval subject to such terms and conditions as the Registrar thinks fit.
+
+(6) Where the Registrar grants written approval for a credit society to become a non‑credit society, the Registrar must notify the society in writing that its registration as a credit society is cancelled, starting on a date specified in the notice.
+
+(7) A credit society that is granted written approval to become a non-credit society —
+
+(a) must stop doing all of the following things, starting on such date as the Registrar may determine (being a date that may be different from the date mentioned in subsection (6)):
+
+(i) make any new loan to any person;
+
+(ii) allow any new credit to any person;
+
+(iii) receive any new deposit from any person; and
+
+(b) must return, to every person from whom the society had received a deposit in accordance with section 68(2) while the society was a credit society, the deposit made by the person (including any interest accrued on the deposit) within 12 months after the date on which the registration of the society as a credit society is cancelled, or such shorter or longer period as the Registrar may determine in any particular case.
+
+(8) A society that becomes a non-credit society may continue to receive repayments of existing loans made and credit allowed in accordance with section 67 while the society was a credit society.
+
+(9) A credit society that is aggrieved by a decision by the Registrar to refuse written approval for the credit society to become a non-credit society may, within 2 months after the date of the decision, appeal in writing to the Minister, whose decision is final.
+
+(10) Any society that contravenes subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a continuing offence, to a further fine not exceeding $5,000 for each day or part of a day during which the offence continues after conviction.
+
+[Act 3 of 2018 wef 22/04/2019]
+
+### Modifying of terms and conditions of written approval
+
+16BB\.—(1) The Registrar may modify the terms and conditions of a written approval under section 16A(5) or 16BA(3).
+
+(2) The Registrar must, before modifying the terms and conditions of a written approval under section 16A(5) or 16BA(3), give to the society concerned —
+
+(a) notice in writing of the Registrar’s intention to do so; and
+
+(b) an opportunity to make written representations, within the time specified in the notice (being at least 14 days after the date the notice is served on the society), as to why the term or condition should not be modified.
+
+(3) The Registrar must notify the society in writing of the Registrar’s decision whether to modify the terms and conditions of a written approval under section 16A(5) or 16BA(3).
+
+(4) Where the Registrar decides to modify the terms and conditions of a written approval under section 16A(5) or 16BA(3), the written notice in subsection (3) must specify a date (at least 14 days after the date of the notice) when the modification is to take effect.
+
+(5) A society that is aggrieved by the Registrar’s decision to modify the terms and conditions of a written approval under section 16A(5) or 16BA(3) may, within 14 days after the decision or such longer period as the Minister may allow in any particular case, appeal in writing to the Minister, whose decision is final.
+
+(6) If the society appeals to the Minister under subsection (5), the decision appealed against does not take effect unless the decision is confirmed by the Minister, or the appeal is withdrawn or is for any reason dismissed by the Minister.
+
+(7) In this section, “modify”, in relation to the terms and conditions of a written approval under section 16A(5) or 16BA(3), includes deleting or varying and substituting such a term or condition, and adding a term or condition of such a written approval.
+
+[Act 3 of 2018 wef 22/04/2019]
 
 ### Change of name of society
 
@@ -1484,6 +1580,14 @@ Restriction of membership
 
 [Act 3 of 2018 wef 10/04/2018]
 
+### Statement of account
+
+42A\.—(1) Every credit society must provide to each member of the society, within 6 months after the close of each financial year, a statement of account (in hard copy form or in electronic form, as the society may determine) containing particulars of each financial transaction between that member and the society in that financial year.
+
+(2) In addition, a credit society must, within the prescribed period after receiving a member’s request, provide to the member a statement of account (in hard copy form or in electronic form, as the society may determine) containing particulars of each financial transaction between that member and the society in the 6 months preceding the date of receipt of the member’s request.
+
+[Act 3 of 2018 wef 22/04/2019]
+
 ### Restriction on shareholding
 
 43\.—(1) Except as provided in subsection (2), a member cannot hold more than 20% of the share capital of a society.
@@ -1710,8 +1814,6 @@ ORGANISATION AND MANAGEMENT OF SOCIETIES
 
 [Act 3 of 2018 wef 10/04/2018]
 
-[Act 3 of 2018 wef 10/04/2018]
-
 (2) A motion for the election of 2 or more individuals as members of the committee of management by a single resolution at a general meeting shall not be made unless a resolution that it shall be so made has first been agreed to by the meeting without any vote being given against it.
 
 [23/2008]
@@ -1812,8 +1914,6 @@ shall be as provided in the by-laws of the society.
 
 [Act 3 of 2018 wef 10/04/2018]
 
-[Act 3 of 2018 wef 10/04/2018]
-
 (2) For the purposes of subsection (1)(b)(ii), the Registrar may, by written directions, stipulate the number or proportion of individuals resident in Singapore who shall be eligible for membership of the committee of management of any society or class of societies, as the case may be.
 
 [23/2008]
@@ -1832,13 +1932,9 @@ shall be as provided in the by-laws of the society.
 
 [Act 3 of 2018 wef 10/04/2018]
 
-[Act 3 of 2018 wef 10/04/2018]
-
 (4) An individual is not eligible to be, or remain, a key employee of a credit society or a member of the committee of management of a credit society, except with the written approval of the Registrar, where he has been convicted, whether in Singapore or elsewhere, of any offence (not being an offence under this Act) involving fraud or dishonesty.
 
 [23/2008]
-
-[Act 3 of 2018 wef 10/04/2018]
 
 [Act 3 of 2018 wef 10/04/2018]
 
@@ -2274,7 +2370,13 @@ Reserve Fund
 
 [13/90]
 
-(2) No society shall pay a dividend on paid-up share capital or subscription capital exceeding a maximum rate to be determined by the Minister from time to time in the Rules.
+(2) A society must not pay a dividend on paid‑up share capital or subscription capital exceeding —
+
+(a) in any case where that society is a credit society that does not meet any prudential requirement contained in written directions issued by the Registrar — a maximum rate specified in written directions issued by the Registrar to that society; or
+
+(b) in any other case — a maximum rate prescribed in the Rules.
+
+[Act 3 of 2018 wef 22/04/2019]
 
 ### Bonus certificates and bonus shares
 
@@ -3706,11 +3808,12 @@ This Legislative History is provided for the convenience of users of the Co-oper
 |||(Bill No. 28/2008 published on 20 October 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 September 2009 (Sections 2, 5 to 11 and 13)|
-|8.|**Act 3 of 2018—Co-operative Societies (Amendment) Act 2018**|
-||Date of First Reading|6 November 2017 (Bill No. 50/2017 published on 6 November 2017)|
-||Date of Second and Third Readings|9 January 2018|
-||Date of commencement|10 April 2018|
-|9.|**Act 9 of 2018—Cybersecurity Act 2018**|
+|8.|**Act 9 of 2018—Cybersecurity Act 2018**|
 ||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|31 August 2018|
+|9.|**Act 3 of 2018—Co-operative Societies (Amendment) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 50/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|9 January 2018|
+||Dates of commencement|10 April 2018|
+|||22 April 2019|
