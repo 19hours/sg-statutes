@@ -2045,17 +2045,9 @@ and whether any matter so prescribed has effect in addition to or despite any ot
 
 (3) Section 7(3) of the Mental Capacity Act is amended —
 
-(a) by deleting the word “or” at the end of paragraph (
+(a) by deleting the word “or” at the end of paragraph (b); and
 
-b
-
-); and
-
-(b) by deleting the full-stop at the end of paragraph (
-
-c
-
-) and substituting the word “; or”, and by inserting immediately thereafter the following paragraph:
+(b) by deleting the full-stop at the end of paragraph (c) and substituting the word “; or”, and by inserting immediately thereafter the following paragraph:
 
 “
 
@@ -2071,11 +2063,7 @@ c
 
 ”.
 
-(5) Section 22(1) of the Mental Capacity Act is amended by inserting, immediately after paragraph (
-
-d
-
-), the following paragraph:
+(5) Section 22(1) of the Mental Capacity Act is amended by inserting, immediately after paragraph (d), the following paragraph:
 
 “
 
@@ -2160,7 +2148,11 @@ Research, studies and matters excluded from definition of human biomedical resea
 
 (b) which involve no more than minimal risk to the research subject.
 
-3\. Public health research on infectious diseases conducted for the purposes of and in accordance with section 59A of the Infectious Diseases Act (Cap. 137).
+3\. National public health research as defined in and conducted in accordance with section 59A of the Infectious Diseases Act (Cap. 137).
+
+3. 
+
+[S 334/2019 wef 26/04/2019]
 
 4\. Collection and compilation by the National Registry of Diseases of health information for epidemiological or statistical purposes in accordance with the National Registry of Diseases Act (Cap. 201B).
 
@@ -2178,11 +2170,13 @@ Prohibited human biomedical research
 
 1\. Human biomedical research involving the development of human-animal combination embryos referred to in paragraph 2(a)(i) or (iii) of the Fourth Schedule beyond 14 days or the appearance of the primitive streak, whichever is the earlier.
 
-2. Human biomedical research involving the implantation —
+2\. Human biomedical research involving the implantation —
 
-(a) of a human‑animal combination embryo mentioned in paragraph 2(a)(i) or (iii) of the Fourth Schedule into the uterus of an animal; or
+2.—(a) of a human‑animal combination embryo mentioned in paragraph 2(a)(i) or (iii) of the Fourth Schedule into the uterus of an animal; or
 
-(b) of a human‑animal combination embryo into the uterus of a human.
+(b)
+
+of a human‑animal combination embryo into the uterus of a human.
 
 [S 623/2017 wef 02/11/2017]
 
