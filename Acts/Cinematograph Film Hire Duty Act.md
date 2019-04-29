@@ -80,7 +80,11 @@ An Act to regulate the business of the hiring and renting of cinematograph films
 
 “acquire”, in relation to a renter, includes the importing, making or obtaining possession of films for the purpose of renting them;
 
-“Chairman” means the Chairman of the Board of Film Censors appointed under section 3(1) of the Films Act (Cap. 107);
+“Authority” means the Info‑communications Media Development Authority established under the Info‑communications Media Development Authority Act 2016 (Act 22 of 2016);
+
+[Act 25 of 2018 wef 29/04/2019]
+
+[Deleted by Act 25 of 2018 wef 29/04/2019]
 
 “charge for admission” means any payment, inclusive of entertainments duty leviable under the Entertainments Duty Act (Cap. 94), charged by an exhibitor of films or by the proprietor of a cinema on a person admitted on that payment, as a spectator or one of the audience, to any place where films are exhibited, whether or not those films are exhibited together with any other entertainment;
 
@@ -124,9 +128,11 @@ An Act to regulate the business of the hiring and renting of cinematograph films
 
 ### Imposition of film-hire duty on renting of films
 
-4\.—(1) Notwithstanding any tax, duty, fee or other charge leviable in connection with the import and censorship of films, or with the exhibition of films on which a charge is made for admission to that exhibition or with any other business relating to films under the provisions of any other written law, there shall be levied, collected and paid to the Director-General, a film-hire duty in respect of the proceeds derived or deemed for the purposes of this Act to have been derived from the renting of films but excluding goods and services tax charged thereon.
+4\.—(1) Notwithstanding any tax, duty, fee or other charge leviable in connection with the import and classification or re‑classification of films, or with the exhibition of films on which a charge is made for admission to that exhibition or with any other business relating to films under the provisions of any other written law, there shall be levied, collected and paid to the Director-General, a film-hire duty in respect of the proceeds derived or deemed for the purposes of this Act to have been derived from the renting of films but excluding goods and services tax charged thereon.
 
 [23/79; 31/93]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (2) Film-hire duty shall be assessed in accordance with section 9 and shall be payable in 4 instalments not later than one month after the last day of March, June, September and December in any year or after each period of 13 weeks in any year.
 
@@ -176,11 +182,17 @@ An Act to regulate the business of the hiring and renting of cinematograph films
 
 (7) Subject to this section, the Director-General may, on receiving an application for registration, register the applicant as a registered renter or may register him provisionally for such period as may be specified by the Director-General.
 
-(8) No copy of any film, which has not been authorised for exhibition, shall be approved for exhibition by the Chairman unless the person or firm renting the film is a registered renter.
+(8) No copy of any film, which has not been authorised for exhibition, shall be classified or re-classified by the Authority under the Films Act (Cap. 107) unless the person or firm renting the film is a registered renter.
 
-(9) The Director-General shall from time to time furnish the Chairman with lists of registered renters.
+[Act 25 of 2018 wef 29/04/2019]
 
-(10) The Director-General may require the Chairman to give him such information as he may require for the purposes of implementing the provisions of this Act.
+(9) The Director-General shall from time to time furnish the Authority with lists of registered renters.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(10) The Director-General may require the Authority to give him such information as he may require for the purposes of implementing the provisions of this Act.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Book to be kept by registered renter
 
@@ -398,59 +410,62 @@ This Legislative History is provided for the convenience of users of the Cinemat
 
 ||||
 |:-|:-|:-|
-|1.|**Ordinance 64 of 1959—Cinematograph Film Hire Duty Ordinance 1959**|
-||Date of First Reading|22 September 1959|
-||Date of Second and Third Readings|22 September 1959|
-||Date of commencement|30 September 1959|
-|2.|**M. Act 45 of 1965—Cinematograph Film-Hire Duty Act 1965**|
-||Date of commencement|1 January 1965|
-|3.|**Act 8 of 1966—Cinematograph Film Hire Duty Act 1966**|
+|1.|**Act 8 of 1966—Cinematograph Film Hire Duty Act 1966**|
 ||Date of First Reading|23 February 1966|
-|||(Bill No. 15/1966)|
+|||(Bill No. 15/66 published on 4 March 1966)|
 ||Date of Second and Third Readings|21 April 1966|
 ||Date of commencement|9 August 1965|
-|4.|**Act 41 of 1968—Cinematograph Film Hire Duty (Amendment) Act 1968**|
+|2.|**Act 41 of 1968—Cinematograph Film Hire Duty (Amendment) Act 1968**|
 ||Date of First Reading|3 December 1968|
-|||(Bill No. 47/1968)|
+|||(Bill No. 47/68 published on 7 December 1968)|
 ||Date of Second and Third Readings|23 December 1968|
-||Date of commencement|1 January 1969|
-|5.|**1970 Revised Edition—Cinematograph Film Hire Duty Act**|
+||Date of commencement|31 December 1968|
+|3.|**1970 Revised Edition—Cinematograph Film Hire Duty Act (Cap. 132)**|
 ||Date of operation|30 April 1971|
-|6.|**Act 23 of 1979—Cinematograph Film Hire Duty (Amendment) Act 1979**|
+|4.|**Act 23 of 1979—Cinematograph Film Hire Duty (Amendment) Act 1979**|
 ||Date of First Reading|7 September 1979|
-|||(Bill No. 28/1979)|
+|||(Bill No. 28/79 published on 11 September 1979)|
 ||Date of Second and Third Readings|21 September 1979|
 ||Date of commencement|1 November 1979|
-|7.|**Act 4 of 1985—Cinematograph Film Hire Duty (Amendment) Act 1985**|
+|5.|**Act 4 of 1985—Cinematograph Film Hire Duty (Amendment) Act 1985**|
 ||Date of First Reading|14 May 1985|
-|||(Bill No. 5/1985)|
+|||(Bill No. 5/85 published on 18 May 1985)|
 ||Date of Second and Third Readings|23 July 1985|
 ||Date of commencement|1 April 1985|
-|8.|**1985 Revised Edition—Cinematograph Film Hire Duty Act**|
+|6.|**1985 Revised Edition—Cinematograph Film Hire Duty Act**|
 ||Date of operation|30 March 1987|
-|9.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+|7.|**Act 31 of 1993—Goods and Services Tax Act 1993**|
+||(Consequential amendments made by)||
 ||Date of First Reading|26 February 1993|
-|||(Bill No. 14/1993)|
+|||(Bill No. 14/93 published on 27 February 1993)|
 ||Date of Second Reading|19 March 1993|
-||Date of Third Reading|12 October 1993|
-||Date of commencement|1 April 1994|
-|10.|**2001 Revised Edition—Cinematograph Film Hire Duty Act**|
+||Referred to Select Committee|13 April 1993|
+||Date of Third Reading|19 March 1993|
+||Date of commencement|26 November 1993 (except paragraph (3) of Fifth Schedule)|
+|8.|**2001 Revised Edition—Cinematograph Film Hire Duty Act**|
 ||Date of operation|31 July 2001|
-|11.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+|9.|**Act 4 of 2003—Customs (Amendment) Act 2003**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|10 March 2003|
-|||(Bill No. 6/2003)|
+|||(Bill No. 6/2003 published on 11 March 2003)|
 ||Date of Second and Third Readings|21 March 2003|
 ||Date of commencement|1 April 2003|
-|12.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|10.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
-|||(Bill No. 11/2010)|
+|||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|13.|**Act 29 of 2014—Business Names Registration Act 2014**|
+|11.|**Act 29 of 2014—Business Names Registration Act 2014**|
+||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
+|12.|**Act 25 of 2018—Films (Amendment) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 10/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|29 April 2019|
 ## COMPARATIVE TABLE
 
 Cinematograph Film Hire Duty Act
