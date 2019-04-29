@@ -1032,7 +1032,9 @@ in any place to which the public or any class of the public has access whether g
 
 (c) any record, however made, of a sequence of visual images, which is a record capable of being used as a means of showing that sequence as a moving picture; or
 
-(d) any other material, record or thing on which is recorded or stored for immediate or future retrieval any information that, by the use of any computer or electronic device, is capable of being reproduced or displayed as wholly or partly visual moving pictures;
+(d) any other form of recording from which a moving visual image, including a computer generated image, can be produced and viewed (together with its soundtrack);
+
+[Act 25 of 2018 wef 29/04/2019]
 
 “pin-table” means any table, board or other appliance operated by hand or by coin, disc, electricity or any other means which is designed to enable the operator to play a game, success in which is measured by the propulsion of one or more movable objects towards targets or goals or by the attainment of a number of points or by both;
 
@@ -1523,6 +1525,10 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|3 April 2017 (Bill No. 22/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|1 August 2017|
+|21.|**Act 25 of 2018—Films (Amendment) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 10/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|29 April 2019|
 ## COMPARATIVE TABLE
 
 Public Entertainments Act
