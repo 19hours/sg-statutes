@@ -10,15 +10,15 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Board of Film Censors and appointment of officers](#Board-of-Film-Censors-and-appointment-of-officers)
+- [3 Authority to administer this Act](#Authority-to-administer-this-Act)
 
-- [4 Procedure of Board](#Procedure-of-Board)
+- [4 Classification officers, licensing officers and enforcement officers](#Classification-officers-licensing-officers-and-enforcement-officers)
 
 - [4A Advisory committees](#Advisory-committees)
 
-- [5 Delegation of powers and duties by Board](#Delegation-of-powers-and-duties-by-Board)
+- [5 Delegation of powers and duties by Authority](#Delegation-of-powers-and-duties-by-Authority)
 
-- [6 Licence for carrying on business of importing, making, distributing or exhibiting films](#Licence-for-carrying-on-business-of-importing-making-distributing-or-exhibiting-films)
+- [6 Licence to import, distribute or publicly exhibit film](#Licence-to-import-distribute-or-publicly-exhibit-film)
 
 - [7 Application for licence](#Application-for-licence)
 
@@ -28,33 +28,49 @@
 
 - [10 Period for which licence is in force](#Period-for-which-licence-is-in-force)
 
-- [11 Revocation and suspension of licence](#Revocation-and-suspension-of-licence)
+- [10A Class licence for certain imports, etc., of certain films](#Class-licence-for-certain-imports-etc-of-certain-films)
 
-- [12 Films made in Singapore to be deposited in approved warehouse](#Films-made-in-Singapore-to-be-deposited-in-approved-warehouse)
+- [11 Regulatory action against licensees, etc.](#Regulatory-action-against-licensees-etc)
 
-- [13 Importation and removal of films from approved warehouse](#Importation-and-removal-of-films-from-approved-warehouse)
+- [12 Permit to remove imported films](#Permit-to-remove-imported-films)
 
-- [14 Submission of films for censorship](#Submission-of-films-for-censorship)
+- [13 Types of classification and classification ratings](#Types-of-classification-and-classification-ratings)
 
-- [15 Prohibition and approval of films for exhibition](#Prohibition-and-approval-of-films-for-exhibition)
+- [14 Applications for film classification or re-classification](#Applications-for-film-classification-or-re-classification)
 
-- [16 Classification of films](#Classification-of-films)
+- [15 Classification and re-classification of films](#Classification-and-re-classification-of-films)
 
-- [17 Alterations and excisions of films by Board](#Alterations-and-excisions-of-films-by-Board)
+- [15A Calling in films for classification or re-classification](#Calling-in-films-for-classification-or-re-classification)
 
-- [18 Retention of prohibited films by Board](#Retention-of-prohibited-films-by-Board)
+- [15B Supplementary provisions for film classification, etc.](#Supplementary-provisions-for-film-classification-etc)
 
-- [19 Duplicate film](#Duplicate-film)
+- [16 Refused classification for certain films](#Refused-classification-for-certain-films)
 
-- [20 Interdiction of films approved by Board](#Interdiction-of-films-approved-by-Board)
+- [17 De-classification of classified film](#De-classification-of-classified-film)
 
-- [21 Penalty for possession, exhibition or distribution of uncensored films](#Penalty-for-possession-exhibition-or-distribution-of-uncensored-films)
+- [18 Classification certificates and labels](#Classification-certificates-and-labels)
 
-- [22 Advertisement of films for exhibition prohibited unless approved by Board](#Advertisement-of-films-for-exhibition-prohibited-unless-approved-by-Board)
+- [19 Film content assessors](#Film-content-assessors)
 
-- [23 Search for unauthorised films and arrest of persons](#Search-for-unauthorised-films-and-arrest-of-persons)
+- [20 Duties of film content assessor](#Duties-of-film-content-assessor)
 
-- [24 Appeals](#Appeals)
+- [20A Procedure for registration as film content assessor](#Procedure-for-registration-as-film-content-assessor)
+
+- [20B Regulatory action against registered film content assessor](#Regulatory-action-against-registered-film-content-assessor)
+
+- [20C Register of film content assessors](#Register-of-film-content-assessors)
+
+- [21 Offences involving unclassified films, etc.](#Offences-involving-unclassified-films-etc)
+
+- [22 Offences about advertisements for films](#Offences-about-advertisements-for-films)
+
+- [22A Approval of advertisements for films](#Approval-of-advertisements-for-films)
+
+- [23 Measures to ensure compliance, etc.](#Measures-to-ensure-compliance-etc)
+
+- [24 Appeal against classification decisions](#Appeal-against-classification-decisions)
+
+- [24A Minister’s decision on appeal against classification decisions](#Minister’s-decision-on-appeal-against-classification-decisions)
 
 - [25 Committee of Appeal](#Committee-of-Appeal)
 
@@ -62,7 +78,9 @@
 
 - [27 Minister may order Committee of Appeal to inspect any film](#Minister-may-order-Committee-of-Appeal-to-inspect-any-film)
 
-- [28 Disposal of unclaimed films](#Disposal-of-unclaimed-films)
+- [28 Appeal to Minister against other decisions of Authority](#Appeal-to-Minister-against-other-decisions-of-Authority)
+
+- [28A Disposal of unclaimed films](#Disposal-of-unclaimed-films)
 
 - [29 Offences involving dealings in obscene films](#Offences-involving-dealings-in-obscene-films)
 
@@ -74,21 +92,29 @@
 
 - [33 Making, distribution and exhibition of party political films](#Making-distribution-and-exhibition-of-party-political-films)
 
-- [34 Search and seizure of unlawful films](#Search-and-seizure-of-unlawful-films)
+- [34 Powers for enforcement purposes](#Powers-for-enforcement-purposes)
 
-- [35 Minister may prohibit possession or distribution of any film](#Minister-may-prohibit-possession-or-distribution-of-any-film)
+- [34A Special enforcement powers](#Special-enforcement-powers)
+
+- [34B False information and obstruction of performance of official duties](#False-information-and-obstruction-of-performance-of-official-duties)
+
+- [35 Minister may prohibit possession, exhibition or distribution of any film](#Minister-may-prohibit-possession-exhibition-or-distribution-of-any-film)
 
 - [36 Protection from personal liability](#Protection-from-personal-liability)
 
-- [37 Protection of Board and Government from liability](#Protection-of-Board-and-Government-from-liability)
+- [37 Service of documents](#Service-of-documents)
 
-- [38 Officers to be public servants](#Officers-to-be-public-servants)
+- [38 Offences by corporations](#Offences-by-corporations)
+
+- [38A Offences by unincorporated associations or partnerships](#Offences-by-unincorporated-associations-or-partnerships)
+
+- [38B Composition of offences](#Composition-of-offences)
 
 - [39 Court for trial of offence](#Court-for-trial-of-offence)
 
 - [39A Payment of fees, etc.](#Payment-of-fees-etc)
 
-- [40 Exemptions](#Exemptions)
+- [40 Exemption from Act](#Exemption-from-Act)
 
 - [41 Regulations](#Regulations)
 
@@ -104,7 +130,9 @@ REVISED EDITION 1998
 
 (15th December 1998)
 
-An Act relating to the possession, importation, making, distribution and exhibition of films.
+An Act relating to the possession, importation, making, distribution and exhibition of films, and to provide for the classification of films and for the enforcement of those classifications.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 [1st October 1981]
 
@@ -116,45 +144,245 @@ An Act relating to the possession, importation, making, distribution and exhibit
 
 2\.—(1) In this Act, unless the context otherwise requires —
 
-“approved warehouse” means any warehouse approved by the Board for the purposes of sections 12 and 13;
+[Deleted by Act 25 of 2018 wef 29/04/2019]
 
-“Authority” means the Info-communications Media Development Authority established by section 3 of the Info-communications Media Development Authority Act 2016;
+“advertisement”, for a film, means any of the following where used or apparently used to give publicity to the film or to promote (directly or indirectly) the distribution or public exhibition of the film:
 
-[Act 22 of 2016 wef 01/10/2016]
+(a) any words, whether written or in an audible message;
 
-“Board” means the Board of Film Censors established under this Act;
+(b) any still picture, sign, symbol or other visual image or representation;
 
-“certificate” means a certificate issued under section 15(3);
+(c) any combination of 2 or more of those things in paragraph (a) or (b),
 
-“Chairman” means the Chairman of the Board;
+but does not include —
+
+(d) a trailer of any film;
+
+(e) an advertisement about a film in a book, newspaper, periodical or magazine;
+
+(f) a catalogue or price list about films;
+
+(g) an advertisement about a film appearing on an item of clothing or apparel;
+
+(h) a website advertisement about a film;
+
+(i) an advertisement about a film that is broadcast; or
+
+(j) any communications of personal opinion made by an individual (for no commercial gain) to the public or a section of the public about any film;
+
+Examples
+
+(a)
+
+A flag, poster, placard, banner, photograph, sketch or signboard about a film.
+
+(b)
+
+An advertisement woven in, impressed on, worked into or annexed to, a container, covering, package, casing, box or other thing in or with which a film is distributed.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“affix”, for a label relating to a film, means any of the following:
+
+(a) to apply the label to the film;
+
+(b) to weave in, impress on, work into or annex the label to, a container, wrapping, casing, box or other thing in or with which the film is distributed;
+
+(c) to apply the label, or to incorporate the label in, an instruction or other like document that accompanies the film;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“Authority” means the Info‑communications Media Development Authority established by the Info‑communications Media Development Authority Act 2016 (Act 22 of 2016);
+
+[Act 25 of 2018 wef 29/04/2019]
+
+[Deleted by Act 25 of 2018 wef 29/04/2019]
+
+“broadcasting service” has the meaning given by section 2(1) of the Broadcasting Act (Cap. 28);
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“business” includes any business in Singapore, whether or not carried on for profit and whether or not its primary function is connected with films;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+[Deleted by Act 25 of 2018 wef 29/04/2019]
+
+[Deleted by Act 25 of 2018 wef 29/04/2019]
 
 “child” means a person who is below the age of 14 years;
 
-“distribute” means to sell, hire out and supply and “distribution” shall be construed accordingly;
+“cinematograph film” means a slide, disc, tape or other article or thing in which visual images are embodied and from which a moving picture may be shown or produced, and includes the aggregate of sounds embodied in a soundtrack (if any) associated with the visual images forming part of the cinematograph film;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“class licence” means a class licence determined under an order made under section 10A(1);
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“class licensee” means a person to whom an order under section 10A(1) applies;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“classification certificate” means a classification certificate issued under section 18;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“classification label” means a classification label made available under section 18;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“classification officer”, in relation to any provision of this Act or its subsidiary legislation, means an officer of the Authority who is appointed as a classification officer under section 4(1)(a) for the purposes of that provision;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“classification rating” means a rating prescribed under section 13;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“classified”, in relation to a film, means —
+
+(a) classified or re-classified by the Authority under section 15 (including deemed classified under section 15(9));
+
+(b) classified by a film content assessor and deemed by section 20(1) to be classified by the Authority;
+
+(c) classified or re-classified under section 26 or 27 by the Committee of Appeal (whether before, on or after the date of commencement of section 11 of the Films (Amendment) Act 2018); or
+
+(d) classified by the Board of Film Censors by specifying the classification for the film in a certificate approving the exhibition of the film under this Act as in force before the date of commencement of section 11 of the Films (Amendment) Act 2018;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“classify”, in relation to a film, means assigning under section 15 a classification rating for the film;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“Committee of Appeal” means the Committee of Appeal established under section 25;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“computer generated image” means an image (including an image in the form of text) produced by use of a computer on a computer monitor, television screen, mobile device or similar medium from electronically recorded data;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“contentious material”, for a film, means material comprised in the content of film which is within the ambit of section 16;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“distribute” means doing any of the following without using a broadcasting service:
+
+(a) sell, supply or let for hire to a person in Singapore;
+
+(b) offer or agree to sell, supply or let for hire to a person in Singapore;
+
+(c) cause or permit to be sold, supplied to or hired by a person in Singapore;
+
+(d) under or in connection with a commercial arrangement —
+
+(i) exchange or supply to a person in Singapore; or
+
+(ii) enable or assist an exchange or a supply to a person in Singapore, even if the exchange or supply is not, by itself, a commercial arrangement;
+
+(e) display or invite to treat for an act mentioned in paragraph (a), (b), (c) or (d);
+
+[Act 25 of 2018 wef 29/04/2019]
 
 “election” means an election under the Parliamentary Elections Act (Cap. 218) or the Presidential Elections Act (Cap. 240A);
 
-“electronic transmission” includes facsimile transmission, electronic mail or other similar kinds of communication but excludes broadcasting;
+“electronic transmission” includes electronic mail, telecommunications and other electronic communication;
 
-“exhibition” includes the production of any music, speech, noise, or other sound which accompanies the projection of a film and “exhibit” shall be construed accordingly;
+[Act 25 of 2018 wef 29/04/2019]
+
+“enforcement officer”, in relation to any provision of this Act or its subsidiary legislation, means an officer of the Authority who is appointed as an enforcement officer under section 4(1)(c) for the purposes of that provision;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“evidential material” means any of the following:
+
+(a) a thing with respect to which an offence under this Act or its subsidiary legislation has been or is suspected, on reasonable grounds, to have been committed;
+
+(b) a thing that there are reasonable grounds for suspecting will afford evidence as to the commission of an offence under this Act or its subsidiary legislation;
+
+(c) a thing that there are reasonable grounds for suspecting is intended to be used for the purpose of committing an offence under this Act or its subsidiary legislation;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“exempt film” means a film that is, by section 40, exempt from all provisions of this Act;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“exhibit” includes —
+
+(a) for a film that is a video game — to demonstrate or display the video game, but does not include any activity that is public entertainment within the meaning of the Public Entertainments Act (Cap. 257); and
+
+(b) for a film that is not a video game — to display, screen or project the contents contained in the film in order that another individual may see it (regardless of the manner of the film’s reception),
+
+and further includes the meaning given in subsection (5);
+
+[Act 25 of 2018 wef 29/04/2019]
+
+[Deleted by Act 25 of 2018 wef 29/04/2019]
 
 “film” means —
 
-(a) any cinematograph film;
+(a) a cinematograph film or video recording;
 
-(b) any video recording, including a video recording that is designed for use wholly or principally as a game;
+(b) a video game; or
 
-(c) any other material record or thing on which is recorded or stored for immediate or future retrieval any information that, by the use of any computer or electronic device, is capable of being reproduced or displayed as wholly or partly visual moving pictures,
+(c) any other form of recording from which a moving visual image (except as provided otherwise in subsection (5)) including a computer generated image, can be produced and viewed (together with its soundtrack),
 
-and includes any part of a film, and any copy or part of a copy of the whole or any part of a film;
+and includes any trailer for a film and any part of a film;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“film content assessor” means an individual who is registered under section 19, but does not include an individual during the period his registration as such is suspended;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“interactive game” means a game in which the way the game proceeds, and the result achieved at various stages of the game, is determined in response to decisions, inputs and the direct involvement of the player;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“its subsidiary legislation”, in relation to this Act, means any subsidiary legislation made under this Act;
+
+[Act 25 of 2018 wef 29/04/2019]
 
 “licence” means a licence granted under section 7;
 
-“Licensing Officer” means the officer appointed by the Minister under section 3(3) and includes an Assistant Licensing Officer;
+[Act 25 of 2018 wef 29/04/2019]
+
+“licensee” means the person to whom a licence is granted, but does not include —
+
+(a) a class licensee; or
+
+(b) a person during the period the person’s licence is suspended;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+[Deleted by Act 25 of 2018 wef 29/04/2019]
+
+“licensing officer”, in relation to any provision of this Act or its subsidiary legislation, means an officer of the Authority who is appointed under section 4(1)(b) for the purposes of that provision;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“mobile device” includes a mobile telephone or other device that is designed to run a mobile operating system;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“modify”, in relation to any conditions of a licence or classification certificate, includes —
+
+(a) deleting, or varying and substituting such a condition; and
+
+(b) adding any such condition;
+
+[Act 25 of 2018 wef 29/04/2019]
 
 “obscene”, in relation to a film, means a film the effect of which or (where the film comprises 2 or more distinct parts or items) the effect of any one of its parts or items is, if taken as a whole, such as to tend to deprave or corrupt persons who are likely, having regard to all relevant circumstances, to see or hear the film;
 
-“owner” or “owner of a film” means any person who is for the time being entitled, either as owner or agent for the owner, or otherwise, to the possession of a film, but does not include a bank through which a film is bona fide consigned for the sole purpose of collecting a trade debt;
+“occupier”, in relation to a place, means the person in occupation of the place (whether or not an owner or lodger), and includes the person otherwise having the charge, management or control of the place either on his own account or as agent of another person;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+[Deleted by Act 25 of 2018 wef 29/04/2019]
 
 “party political film” means a film —
 
@@ -162,17 +390,101 @@ and includes any part of a film, and any copy or part of a copy of the whole or 
 
 (b) which is made by any person and directed towards any political end in Singapore;
 
-“place” means any building or part thereof, enclosure, ground or open-air space and includes a ship, boat or other vessel and any vehicle;
+“place” includes —
 
-“Secretary” means the Secretary of the Board;
+(a) any vacant land in Singapore;
 
-“supply”, in relation to a film, includes —
+(b) any, or part of any, building or structure of any kind in Singapore, whether vacant or occupied; or
 
-(a) supply not only in its physical form but also by means of the electronic transmission of the contents of the film;
+(c) any vehicle, vessel or aircraft in Singapore, other than —
 
-(b) supply by way of exchange or loan; or
+(i) a vehicle on a journey, whether direct or indirect, between a place in Singapore and a place outside Singapore and includes any part of the journey that may occur within Singapore;
 
-(c) in relation to a film comprising a material record or thing on which is recorded or stored any information for immediate or future retrieval by the use of any computer or other electronic device, transferring or reproducing or enabling another to transfer or reproduce by electronic transmission the whole or part of the contents of the film onto another such material record or thing for immediate or future retrieval by such similar means;
+(ii) a vessel on a voyage, whether direct or indirect, between a place in Singapore and a place outside Singapore and includes any part of the voyage that may occur within Singapore; or
+
+(iii) an aircraft on a flight that passes through the airspace over the territory of more than one country and includes any part of the flight that may occur within Singapore;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“prohibited film” means a film that is the subject of an order made under section 35(1);
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“public place” means —
+
+(a) any place in Singapore to which members of the public have access as of right or by virtue of express or implied permission, whether or not on payment of a fee, and whether or not access to the place may be restricted at particular times or for particular purposes; or
+
+(b) a part of a place in Singapore that the occupier of the place allows members of the public to enter, but only while the place is ordinarily open to members of the public,
+
+whether or not it is an approved place within the meaning of the Public Entertainments Act;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“publicly exhibit”, in relation to a video game, a film that is not a video game, or an advertisement for a film, means to exhibit the video game, film or advertisement, as the case may be, in a public place (such as a cinema or theatre) or so that it can be seen from a public place, and includes —
+
+(a) arranging or conducting the exhibition of the video game, film or advertisement (as the case may be) in a public place or so that it can be seen from a public place; or
+
+(b) having the superintendence or management of the place in or from which the video game, film or advertisement (as the case may be) is publicly exhibited;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“publish”, in relation to an advertisement for a film, means to publicly exhibit, display, disseminate or otherwise communicate the advertisement to the general public;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“re-classify”, in relation to a classified film, means to review the classification for the film and —
+
+(a) to alter the classification by raising or lowering the classification applicable to the film; or
+
+(b) to revoke the classification for the film;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“register of film content assessors” means the register of film content assessors required under section 20C to be kept and maintained by the Authority;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+[Deleted by Act 25 of 2018 wef 29/04/2019]
+
+“supply”, in relation to a film, includes any of the following:
+
+(a) supplying the contents of the film by electronic transmission to which this Act applies;
+
+(b) offering or giving the film as a prize in any lottery, raffle, draw, game or competition;
+
+(c) offering or giving away the film for the purpose of advertisement or in furtherance of any business;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“telecommunications” has the meaning given by section 2 of the Telecommunications Act (Cap. 323);
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“trailer”, in relation to a film, means a cinematograph film or video recording that —
+
+(a) contains selected extracts or images from, or part of, the film; and
+
+(b) is used for, or prepared for the purpose of, giving publicity to the film;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+“video game” means a kind of film that is a disc, tape, storage device or other article or thing embodying —
+
+(a) a computer program, and any associated data, that is capable of generating a display on a computer monitor, television screen, mobile device or similar medium that allows the playing of an interactive game; or
+
+(b) a computer program, and any associated data, that is —
+
+(i) capable of generating new elements or additional levels into a game (called in this definition the original game) that is a computer program; and
+
+(ii) contained in a device separate from that containing the original game,
+
+but excludes a video game made available by means of a computer online service that is a broadcasting service and is played —
+
+(c) on a mobile device or other device onto which the video game has been installed; or
+
+(d) while the player is using a broadcasting service that enables end‑users to access the Internet;
+
+[Act 25 of 2018 wef 29/04/2019]
 
 “video recording” means any disc, magnetic tape or solid state recording device containing information by the use of which one or more series of visual images may be produced electronically and shown as a moving picture;
 
@@ -182,11 +494,13 @@ and includes any part of a film, and any copy or part of a copy of the whole or 
 
 (2) For the purposes of this Act, a film is directed towards a political end in Singapore if the film —
 
-(a) contains wholly or partly any matter which, in the opinion of the Board, is intended or likely to affect voting in any election or national referendum in Singapore; or
+(a) contains wholly or partly any matter which, in the opinion of the Authority, is intended or likely to affect voting in any election or national referendum in Singapore; or
 
 [13/2009 wef 26/05/2009]
 
-(b) contains wholly or partly references to or comments on any political matter which, in the opinion of the Board, are either partisan or biased; and “political matter” includes but is not limited to any of the following:
+[Act 25 of 2018 wef 29/04/2019]
+
+(b) contains wholly or partly references to or comments on any political matter which, in the opinion of the Authority, are either partisan or biased; and “political matter” includes but is not limited to any of the following:
 
 (i) an election or a national referendum in Singapore;
 
@@ -205,6 +519,8 @@ and includes any part of a film, and any copy or part of a copy of the whole or 
 [13/2009 wef 26/05/2009]
 
 [10/98]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (3) Notwithstanding subsections (1) and (2), none of the following films shall be regarded for the purposes of this Act as a party political film:
 
@@ -236,79 +552,171 @@ and includes any part of a film, and any copy or part of a copy of the whole or 
 
 [13/2009 wef 26/05/2009]
 
-### Board of Film Censors and appointment of officers
+(4) This Act extends to apply to an electronic transmission —
 
-3\.—(1) There shall be established a Board of Film Censors consisting of not less than 3 members including a Chairman, all of whom shall be Censors of Films appointed by the Minister.
+(a) the sender of which is —
 
-(2) The Minister may appoint such Deputy and Assistant Censors of Films and such Inspectors of Films as he may think fit.
+(i) an individual who is physically present in Singapore when the electronic transmission is sent; or
 
-(3) The Minister may, by notification in theGazette, appoint an officer to be the Licensing Officer for the purposes of this Act and may similarly appoint such number of Assistant Licensing Officers as may be necessary.
+(ii) an entity whose central management and control is in Singapore when the electronic transmission is sent,
 
-(4) The Board shall be provided with a Secretary and such clerical and other assistance as may be required.
+unless none of the recipients of the transmission is a person in paragraph (b);
 
-### Procedure of Board
+(b) the recipient of which is —
 
-4\.—(1) The Board may act notwithstanding any vacancy in its membership.
+(i) an individual who is physically present in Singapore when the electronic transmission is sent; or
 
-(2) The quorum at all meetings of the Board shall be 2 in addition to the Chairman.
+(ii) an entity that carries on business or activities in Singapore when the electronic transmission is accessed,
 
-(3) The Chairman shall have a casting vote in addition to his deliberative vote.
+even though the sender is outside Singapore;
 
-(4) Subject to the provisions of this Act, the Board shall regulate its own procedure.
+(c) where the computer, server or mobile device that is used to access the electronic transmission is located in Singapore; or
+
+(d) if the electronic transmission cannot be delivered because the relevant electronic address has ceased to exist (assuming that the electronic address existed), where it is reasonably likely that the electronic transmission would have been accessed using a computer, server or mobile device located in Singapore.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(5) Without affecting the definition of “exhibit” in subsection (1), where content (but not live content) comprising wholly or in part moving images —
+
+(a) is supplied by a broadcasting service, telecommunications or other electronic transmission (such as real-time transmission); and
+
+(b) is received on a computer monitor, television screen, mobile device or similar medium equipment appropriate for receiving that content,
+
+the showing of the content by the recipient to one or more other individuals is taken to be an exhibition of a film and in these circumstances, the content comprising wholly or in part moving images so received is deemed to be a film.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(6) To avoid doubt, private viewing alone of a film by an individual does not constitute exhibiting the film by the individual.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(7) Any power under section 23, 34 or 34A to require an individual or a person to furnish any document or information includes the power —
+
+(a) to take reasonable steps to require the individual to furnish the document or information immediately or at a place and time specified in writing;
+
+(b) to require the individual to provide an explanation of the document or information;
+
+(c) if the document or information is not furnished, to require the individual to state, to the best of the individual’s knowledge and belief, where the document or information is;
+
+(d) if the information is recorded otherwise than in legible form, to require the information to be made available in legible form; and
+
+(e) to require the individual to answer the question immediately or at such place and time specified in writing.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Authority to administer this Act
+
+3\. It is the function of the Authority to exercise licensing and classification functions in accordance with this Act with respect to films, and to otherwise enforce and administer this Act.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Classification officers, licensing officers and enforcement officers
+
+4\.—(1) The Authority may appoint any officer of the Authority as all or any of the following:
+
+(a) a classification officer for the administration and enforcement of any provision of this Act or its subsidiary legislation in relation to classification of films;
+
+(b) a licensing officer for the administration and enforcement of any provision of this Act or its subsidiary legislation in relation to licensing;
+
+(c) an enforcement officer for exercising powers conferred by a provision of this Act or its subsidiary legislation on an enforcement officer.
+
+(2) An enforcement officer may exercise powers conferred under this Act or its subsidiary legislation only to the extent authorised by the Authority, which may include being directed by another suitably senior enforcement officer.
+
+(3) The Authority must issue to each enforcement officer an identification card, which must be carried at all times by the officer when exercising his powers under this Act or its subsidiary legislation.
+
+(4) It is not an offence under this Act for any person to refuse to comply with any request, demand or order made or given by any enforcement officer who fails to declare his office and refuses to produce his identification card on demand being made by that person.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Advisory committees
 
-4A\.—(1) The Minister may appoint one or more advisory committees to provide advice to the Board with regard to the performance of any of its functions in relation to any film.
+4A\.—(1) The Minister may appoint one or more advisory committees to provide advice to the Authority with regard to the performance of any of its functions in relation to any film.
 
-(2) Before making any decision under this Act in relation to a film and for the purpose of forming an opinion on which to base such decision, the Board may consult with the relevant advisory committee in respect of the film but, in making such decision, shall not be bound by such consultation.
+(2) Before making any decision under this Act in relation to a film and for the purpose of forming an opinion on which to base such decision, the Authority may consult with the relevant advisory committee in respect of the film but, in making such decision, shall not be bound by such consultation.
 
 [13/2009 wef 26/05/2009]
 
-### Delegation of powers and duties by Board
+[Act 25 of 2018 wef 29/04/2019]
 
-5\.—(1) The Board may, in its discretion, delegate to any Censor, Deputy or Assistant Censor of Films, either generally or in a particular case, all or any of the powers conferred and duties imposed upon it by this Act except the power —
+[Act 25 of 2018 wef 29/04/2019]
 
-(a) to prohibit the exhibition of a film; and
+### Delegation of powers and duties by Authority
 
-(b) to approve the exhibition of any film with alterations or excisions unless the written consent of the owner to such alterations or excisions has first been obtained.
+5\.—(1) Subject to subsection (4), the Authority may delegate to —
 
-(2) No delegation under subsection (1) shall debar the Board from the exercise of any power or the performance of any duty so delegated.
+(a) a classification officer the exercise of all or any of the powers conferred or duties imposed upon it by any provision of this Act or its subsidiary legislation relating to classification of films; or
 
-(3) Any decision of the Board or of any person to whom any power or duty has been delegated by the Board may be signified under the hand of the Chairman or any person authorised by the Chairman to sign on his behalf.
+(b) a licensing officer the exercise of all or any of the powers conferred or duties imposed upon it by any provision of this Act or its subsidiary legislation relating to licensing,
 
-(4) Every decision so signified under subsection (3) shall be deemed to be a decision of the Board.
+and any reference to the Authority in that provision includes a reference to such a classification officer or licensing officer, as the case may be.
 
-### Licence for carrying on business of importing, making, distributing or exhibiting films
+[Act 25 of 2018 wef 29/04/2019]
 
-6\.—(1) No person —
+(2) No delegation under subsection (1) shall debar the Authority from the exercise of any power or the performance of any duty so delegated.
 
-(a) shall carry on any business, whether or not the business is carried on for profit, of importing, making, distributing or exhibiting films unless he is in possession of a valid licence; or
+[Act 25 of 2018 wef 29/04/2019]
 
-(b) being the owner or occupier of any place shall allow the place to be used by, or let the place or otherwise make the place available to, any person who is not the holder of a valid licence for the purpose of carrying on the business of importing, making, distributing or exhibiting films.
+(3) A delegation under subsection (1) may be general or in a particular case, and may be subject to such conditions or limitations as set out in this Act or as the Authority may specify.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine of not less than $10,000 but not more than $40,000 or to imprisonment for a term not exceeding 12 months or to both.
+[Act 25 of 2018 wef 29/04/2019]
 
-[10/98]
+(4) Nothing in this section authorises the Authority delegating the power of delegation conferred by this section.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Licence to import, distribute or publicly exhibit film
+
+6\.—(1) A person must not —
+
+(a) import any film in the course of any business;
+
+(b) distribute any film in the course of any business; or
+
+(c) publicly exhibit any film in the course of any business,
+
+unless the person is authorised to do so by a licence or class licence.
+
+(2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $500 for every day or part of a day during which the offence continues after conviction.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Application for licence
 
-7\.—(1) An application for a licence shall be made to the Licensing Officer in such form as he may require.
+7\.—(1) An application for a licence must be made to the Authority, be accompanied by an application fee (if prescribed), and be made in the form or manner determined by the Authority.
 
-(2) On receipt of an application under subsection (1), the Licensing Officer shall consider the application and may grant a licence with or without conditions or refuse to grant a licence without assigning any reason.
+[Act 25 of 2018 wef 29/04/2019]
 
-(3) The Licensing Officer may at any time vary or revoke any of the existing conditions of a licence or impose new conditions.
+(2) On receipt of an application under subsection (1), the Authority shall consider the application and may grant a licence with or without conditions or refuse to grant a licence without assigning any reason.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(3) A licence may be granted in such form as the Authority determines.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(4) Subject to subsection (5), the Authority may, at any time, modify the conditions of a licence.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(5) Unless the Authority considers it impractical or undesirable in the circumstances of the case, the Authority must, before proceeding to modify any condition of a licence under subsection (4), give the licensee concerned notice in writing of its intention to do so, and an opportunity to make a representation, within such time as may be specified in the notice, as to why the condition should not be modified.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Security
 
-8\.—(1) The Licensing Officer may, before granting a licence, require the applicant to deposit such security as may be prescribed.
+8\.—(1) The Authority may, upon granting a licence, require the licensee to give a performance bond, guarantee or other form of security on such terms and conditions and of such amount as the Authority considers appropriate —
 
-(2) On the revocation or suspension of a licence, the Licensing Officer may, in his discretion, forfeit in whole or in part any security deposited under subsection (1).
+(a) to ensure that the provisions of this Act and its subsidiary legislation, and the conditions of the licence, will be duly observed; and
 
-(3) Any person aggrieved by a forfeiture under this section may —
+(b) to meet any financial penalty arising out of any proceedings under section 11 against the licensee.
 
-(a) require the Licensing Officer to furnish him within 14 days the reason for the forfeiture; and
+(2) If a licensee fails to pay any financial penalty ordered under section 11, the Authority may enforce the payment by forfeiting the whole or any part of any deposit placed by the licensee under this section.
 
-(b) within 14 days of the furnishing to him of the reasons for the forfeiture, appeal in writing to the Minister whose decision shall be final.
+(3) This section does not affect the operation of section 11.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Licence fee
 
@@ -316,319 +724,1093 @@ and includes any part of a film, and any copy or part of a copy of the whole or 
 
 ### Period for which licence is in force
 
-10\. A licence shall be in force for such period as the Licensing Officer may determine and may be renewed at the discretion of the Licensing Officer on its expiry.
+10\. A licence shall be in force for such period as the Authority may determine and may be renewed at the discretion of the Authority on its expiry.
 
-### Revocation and suspension of licence
+[Act 25 of 2018 wef 29/04/2019]
 
-11\. The Licensing Officer may revoke or suspend a licence if he is satisfied that the licensee —
+### Class licence for certain imports, etc., of certain films
 
-(a) has contravened any of the provisions of this Act or any regulations made thereunder;
+10A\.—(1) The Authority may, by order in theGazette, determine a class licence that authorises any person to which the order applies —
 
-(b) has failed to comply with any of the conditions of his licence;
+(a) to import, distribute or publicly exhibit a film of a specified kind in the course of any business;
 
-(c) has carried on or is carrying on the business of importing, making, distributing or exhibiting films in a manner likely to be detrimental to the interests of the public or his customers; or
+(b) to import, distribute or publicly exhibit a film in the course of a specified kind of business; or
 
-(d) has ceased to carry on the business of importing, making, distributing or exhibiting films.
+(c) to import, distribute or publicly exhibit a film of a specified kind in the course of a specified kind of business.
 
-### Films made in Singapore to be deposited in approved warehouse
+(2) The Authority may include in the class licence such conditions as it thinks fit, including but not limited to the following:
 
-12\.—(1) The owner of any film made in Singapore shall, within 7 days after the making of the film, deposit the film in a warehouse approved for this purpose by the Board.
+(a) a condition specifying the places at which, the geographical area within which, or the periods during which, the import, distribution or public exhibition of the film is authorised under the class licence;
 
-(2) Any person who fails to deposit the film in accordance with subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(b) a condition that any class licensee under the class licence must comply with a code or standard incorporated by the class licence and made applicable to the person;
 
-### Importation and removal of films from approved warehouse
+(c) a condition that facilitates compliance by class licensees with the classification requirements of this Act,
 
-13\.—(1) No film shall —
+and the order in theGazettemust include all the conditions of the class licence.
 
-(a) on importation by sea, be removed from the vessel by which the film was imported or from any godown of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 170A); or
+(3) Different conditions may be specified for different types of activities described in subsection (1).
 
-(b) if imported by land or air, from a post office, railway station or other place of arrival without a permit from the Board.
+(4) Subject to this section, the Authority may, by order in theGazette, vary the class licence by —
 
-[6/97]
+(a) varying or revoking any condition specified in the class licence; or
 
-(2) A permit issued by the Board under subsection (1) shall be valid only for such period as may be specified therein.
+(b) specifying additional conditions of the class licence.
 
-(3) Every film imported shall forthwith be deposited by the importer thereof in a warehouse approved for this purpose by the Board.
+(5) Before varying a class licence under subsection (4) or revoking the order under subsection (1) and ending a class licence, the Authority must, unless it considers it impractical or undesirable in the circumstances of the case, cause to be published, in accordance with subsection (6), a written notice that —
 
-(4) Any person who —
+(a) states that it proposes to vary the class licence, or to end the class licence;
 
-(a) removes any film in contravention of subsection (1);
+(b) describes the proposed variation or ending; and
 
-(b) fails to deposit any imported film forthwith in an approved warehouse under subsection (3); or
+(c) invites interested persons to make representations about the proposed variation or ending by a specified date that is at least one month after the date of publication of the notice.
 
-(c) removes a film from any approved warehouse without the permission in writing of the Board,
+(6) A notice under subsection (5) must be published on the Authority’s website or in one or more other forms that are readily accessible by the public.
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(7) The Authority must, before varying a class licence under subsection (4) or revoking the order under subsection (1) and ending a class licence, give due consideration to any representations made to it pursuant to the notice given in accordance with subsection (5).
 
-(5) This section shall not apply to any film which has been approved for exhibition.
+(8) The import, distribution or public exhibition of a film by any person to which an order under subsection (1) applies is deemed authorised by a licence if it is done in accordance with the conditions of the class licence.
 
-### Submission of films for censorship
+[Act 25 of 2018 wef 29/04/2019]
 
-14\.—(1) Every film in the possession of any person shall be submitted to the Board without any alteration or excision for the purpose of censorship at the owner’s risk and expense and at such time and place as the Board may appoint.
+### Regulatory action against licensees, etc.
 
-(2) During the course of censorship, the Board may in its discretion exclude any person from the place where the film is being exhibited.
+11\.—(1) Subject to this section, the Authority may, without compensation, by order in writing, take regulatory action described in subsection (2) against a licensee or class licensee if the Authority is satisfied that —
 
-(3) The owner may at any time, with the approval in writing of the Board, which shall not be unreasonably withheld, remove any cinematograph film from any approved warehouse for the purpose of making excisions to it or of reconstructing it, or of obtaining the approval of the Board for its exhibition or of exhibiting exclusively to buyers or exhibitors or their agents.
+(a) the licensee is contravening or has contravened any condition of its licence, or the class licensee is contravening or has contravened any condition of the class licence, which contravention is not an offence under this Act;
 
-[10/98]
+(b) the licensee or class licensee has been convicted, on or after the date of commencement of section 11 of the Films (Amendment) Act 2018 but during the term of its licence or the class licence, of any offence under this Act or its subsidiary legislation which is committed on or after that date;
 
-(4) Any cinematograph film removed from an approved warehouse under subsection (3) shall be returned to that warehouse within 48 hours of the time of its removal therefrom and any excised parts, if excision has been made, shall within 48 hours be delivered to the Board.
+(c) the licence had been obtained by the licensee by fraud or misrepresentation;
 
-[10/98]
+(d) the licensee or class licensee has ceased —
 
-(5) Any owner who fails to comply with subsection (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(i) to import or distribute films in the course of any business; or
 
-(6) There shall be charged for the censorship of any film such fees as may be prescribed.
+(ii) to publicly exhibit films in the course of any business;
 
-### Prohibition and approval of films for exhibition
+(e) the licensee or class licensee has been declared bankrupt, or has gone into compulsory or voluntary liquidation other than for the purpose of amalgamation or reconstruction;
 
-15\.—(1) After the submission of a film for the purpose of censorship, the Board may —
+(f) the licensee or class licensee has failed to comply with a requirement under section 8 or subsection (2)(b)(iv) or an order under this section to pay a financial penalty;
 
-(a) approve the film for exhibition without alteration or excision;
+(g) the licensee has imported or distributed, or publicly exhibited, as the case may be, films in the course of business in contravention of any order of the Authority made under subsection (2)(b)(ii) or (iii); or
 
-(b) prohibit the exhibition of the film; or
+(h) the public interest so requires.
 
-(c) approve the film for exhibition with such alterations or excisions as it may require.
+(2) The regulatory action that the Authority may take against a licensee or class licensee is as follows:
 
-(2) The Board shall, in any case to which subsection (1)(b) or (c) applies, furnish to the owner in writing its reasons for the prohibition or for requiring the alterations or excisions.
+(a) with or without forfeiting any security furnished by the licensee under section 8 or this section —
 
-(3) Where any film is approved for exhibition, the Chairman shall, when the required alterations or excisions, if any, have been made, issue such certificate as the Minister may direct approving the exhibition of the film.
+(i) revoke a licence of that licensee; or
 
-### Classification of films
+(ii) disapply the class licence in an order under section 10A(1) with respect to that class licensee;
 
-16\.—(1) The Board may, when approving the exhibition of any film under section 15, classify the film in such manner as it may think fit and the Minister may approve the classifications under which films may be classified.
+(b) in lieu of paragraph (a), all or any of the following:
 
-(2) Where any film is classified under subsection (1), the Board shall specify the classification of the film in the certificate issued in respect of that film and may impose such conditions as it thinks fit.
+(i) suspend the licence or the application of the class licence (as the case may be) for a period not exceeding 6 months;
 
-(3) The Board may require the owner of a film to deposit such security as may be prescribed for the due performance by the owner of all or any of the conditions imposed under subsection (2) in relation to the classification of the film.
+(ii) for a licensee, remove from the licence any place specified in the licence at which the licensee is authorised to distribute or publicly exhibit a film;
 
-[10/98]
+(iii) for a licensee, modify the conditions of the licence, about the import, distribution or public exhibition, as the case may be, of films by the licensee;
 
-(4) Without prejudice to subsection (5), any security deposited under subsection (3) may be forfeited in whole or in part at the discretion of the Board if any condition imposed under subsection (2) is contravened or not complied with.
+(iv) for a licensee, require the licensee to furnish additional security in the form mentioned in section 8;
 
-[10/98]
+(v) for a licensee, forfeit the whole or part of any security furnished by the licensee under section 8 and this section but not exceeding the limit in sub‑paragraph (vi);
 
-(5) Any person who contravenes or fails to comply with any of the conditions imposed under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(vi) for a licensee or class licensee, direct it to pay, within a period specified, a financial penalty of such amount as the Authority thinks fit, being not more than $10,000.
 
-### Alterations and excisions of films by Board
+(3) Before exercising any powers under this section, the Authority must, unless it is not practicable or desirable to do so in the circumstances of the case, give written notice to the licensee or class licensee concerned —
 
-17\.—(1) When alterations or excisions to a film are required by the Board, the alterations or excisions may be made by the Board or, with the consent of the Board, by the owner of the film.
+(a) stating that the Authority intends to take regulatory action against the licensee or class licensee under subsection (1);
 
-(2) Any film delivered to the owner for any alteration or excision shall be returned to the Board within 48 hours of the time of its delivery.
+(b) specifying the type of regulatory action in subsection (2) the Authority proposes to take, and each instance of non‑compliance that is the subject of the regulatory action; and
 
-(3) Any owner who fails to return the film, together with the excised parts if excision has been made or intact if he has not made the required excisions, within the period specified in subsection (2) without good and reasonable cause shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(c) specifying the time (being not less than 7 days and not more than 28 days after the date the written notice is served on the licensee or class licensee) within which written representations may be made to the Authority with respect to the proposed regulatory action.
 
-### Retention of prohibited films by Board
+(4) The Authority may decide to take the appropriate regulatory action described in subsection (2) —
 
-18\.—(1) Where the Board has prohibited the exhibition of any film or any part of any film, the Board may retain the film or any excised part of the film until it is exported or is disposed of under section 28.
+(a) after considering any written representation made to it pursuant to the written notice mentioned in subsection (3); or
 
-(2) On request by the person who submitted the film for censorship, the Board shall return the film or any part of any film retained under subsection (1) if the Board is satisfied that the person intends to take or send the film out of Singapore.
+(b) after the time delimited in the written notice under subsection (3)(c) lapses, where no representation is so made.
 
-### Duplicate film
+(5) However, subsection (3) does not apply where the licensee or class licensee has died or is adjudged a bankrupt, or has been dissolved or wound up, or has otherwise ceased to exist.
 
-19\. If the owner of a film satisfies the Chairman that a duplicate of a film already approved for exhibition by the Board is deposited in an approved warehouse, the Chairman may, without any further inspection, issue a certificate approving the exhibition of that film.
+(6) Where the Authority decides under subsection (1) to take regulatory action against a licensee or class licensee, the Authority must serve on the licensee or class licensee concerned a written notice of that decision.
 
-### Interdiction of films approved by Board
+(7) Any decision by the Authority under subsection (1) does not take effect until the Authority has served the written notice in subsection (6) on the licensee or class licensee concerned, or on a later date specified in that notice.
 
-20\.—(1) A certificate shall cease to be valid on notice to that effect being given by the Board to the person who submitted the film for the purpose of censorship or to any person in possession of the film.
+(8) An appeal under section 28 against any decision of the Authority under subsection (1) does not prevent that decision from taking effect in accordance with subsection (7).
 
-(2) Where any person referred to in subsection (1) cannot be found, the notice may be given by publication in theGazette.
+(9) Where a decision to revoke a licence or to disapply a class licence under subsection (1) becomes effective —
 
-(3) On receipt of a notice under subsection (1), the person having possession or control of the film to which it relates shall forthwith return the certificate to the Board and shall also, if so required by the Board, return the film for further examination.
+(a) the Authority must cause notice of the revocation or disapplication (as the case may be) to be published on the Authority’s website; and
 
-(4) Any person who fails to comply with subsection (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(b) as from the date the decision takes effect, the former licensee or former class licensee concerned must stop importing, distributing or publicly exhibiting films except to the extent specially approved by the Authority.
 
-### Penalty for possession, exhibition or distribution of uncensored films
+(10) Any revocation or suspension of any licence, and any disapplication or suspension of the application of a class licence, does not prejudice —
 
-21\.—(1) Any person who —
+(a) the enforcement by any person of any right or claim against the licensee or class licensee, or the former licensee or former class licensee (as the case may be); or
 
-(a) has in his possession;
+(b) the enforcement by the licensee or former licensee, or class licensee or former class licensee (as the case may be), of any right or claim against any person.
 
-(b) exhibits or distributes; or
+(11) In any proceedings under this section in relation to the conviction of a licensee or class licensee for an offence, the Authority may accept the licensee’s conviction as final and conclusive.
 
-(c) reproduces,
+(12) If the financial penalty imposed under this section in relation to any regulatory action taken by the Authority exceeds the total amount of the deposit placed by the licensee under section 8 and this section, the amount of the excess is a debt due to the Authority.
 
-any film without a valid certificate, approving the exhibition of the film, shall be guilty of an offence and shall be liable on conviction —
+[Act 25 of 2018 wef 29/04/2019]
 
-(i) in respect of an offence under paragraph (a), to a fine of not less than $100 for each such film that he had in his possession (but not to exceed in the aggregate $20,000); and
+### Permit to remove imported films
 
-(ii) in respect of an offence under paragraph (b) or (c), to a fine of not less than $500 for each such film he had exhibited, distributed or reproduced, as the case may be (but not to exceed in the aggregate $40,000) or to imprisonment for a term not exceeding 6 months or to both.
+12\.—(1) A person must not remove any film —
 
-[10/98]
+(a) in the case of a film imported by sea, from the vessel by which the film was imported or from any premises of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 170A);
 
-(2) Any Censor and any Deputy or Assistant Censor and any Inspector of Films may at all reasonable times enter any place in which any film is kept or is being or is about to be exhibited and may examine the film, and if on such examination he has reasonable grounds for believing that an offence under this section has been or is about to be committed in respect of the film he may seize the film and any equipment used in the commission of the offence.
+(b) in the case of a film imported by air, from the airport; or
 
-(3) Any film and equipment seized under subsection (2) in respect of which any person has been convicted under this section shall be forfeited and shall be destroyed or otherwise disposed of in such manner as the Minister may direct.
+(c) in the case of a film imported by land, from a post office, railway station or other place of arrival,
 
-(4) For the purposes of this section if any film is altered in any way after it has been approved for exhibition under this Act, the film shall be deemed not to have been so approved.
+except under the authority of a permit from the Authority.
 
-### Advertisement of films for exhibition prohibited unless approved by Board
+(2) The permit mentioned in subsection (1) must be in the form, and for the validity period, that the Authority determines.
 
-22\.—(1) No person shall advertise or cause to be advertised the exhibition or distribution of any film unless the advertisement has been approved by the Board.
+(3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
 
-(2) Any person who advertises or causes to be advertised any film where the advertisement in respect of the film has not been approved by the Board under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(4) This section does not apply to any film which is classified.
 
-### Search for unauthorised films and arrest of persons
+[Act 25 of 2018 wef 29/04/2019]
 
-23\.—(1) Whenever a Deputy or an Assistant Commissioner of Police or an Assistant Superintendent of Police is satisfied upon written information and after any further inquiry which he may think necessary that any film —
+### Types of classification and classification ratings
 
-(a) which has not been —
+13\.—(1) The Minister must, by order in theGazette, prescribe —
 
-(i) deposited in an approved warehouse as required by section 12 or 13;
+(a) the different types of classifications for films;
 
-(ii) returned to the Board as required by section 14(4); or
+(b) the ratings for each type of classification giving information about the classification (called in this Act classification ratings); and
 
-(iii) approved for exhibition under section 15 or 26(4);
+(c) the markings for each type of classification rating.
 
-(b) in respect of which the certificate issued therefor has ceased to be valid under section 20; or
+(2) An order made under subsection (1) may prescribe different types of classification ratings for different kinds of films.
 
-(c) which has been altered in any way after a certificate in respect of the film was issued,
+(3) For the purposes of this Act, the classification stating that a film is fit for viewing by any member of the public of any age is the lowest classification.
 
-has been or is being exhibited or kept in any place, he may issue a warrant directed to any police officer to enter and search that place and seize the film and to take into custody any person reasonably believed to be guilty of an offence by reason of failure to deposit or to return the film or by reason of such possession or exhibition.
+[Act 25 of 2018 wef 29/04/2019]
 
-[10/98]
+### Applications for film classification or re-classification
 
-(2) A Deputy or an Assistant Commissioner of Police or an Assistant Superintendent of Police may without warrant, with such assistance and by such force as is necessary, by night or by day, himself do what he may authorise any police officer to do under subsection (1) in either of the following cases:
+14\.—(1) An application for classification or re-classification of a film must —
 
-(a) if he has personal knowledge of such facts as satisfy him that there are sufficient grounds for a search;
+(a) be made to the Authority in the form and manner the Authority determines; and
 
-(b) if he receives information orally in such circumstances that the object of a search would in his opinion be defeated by the delay necessary for reducing the information to writing except that the name and address of the person giving the information is known to or ascertained by him before he acts upon the information.
+(b) be accompanied by —
 
-[10/98]
+(i) the fee prescribed (if any) for the classification which is sought in that application;
 
-### Appeals
+(ii) other documents or information prescribed (if any) for that category of film; and
 
-24\.—(1) Any owner of a film aggrieved by any act or decision of the Board may, within 30 days of the date on which he is notified thereof, and on payment of such fee as may be prescribed, appeal to a Committee of Appeal by lodging with the Secretary a written notice of appeal.
+(iii) any other information that the Authority may require in that particular case.
 
-(2) Any representation by the owner to the Committee of Appeal shall be in writing and shall be included in or attached to his notice of appeal.
+(2) The Authority may decline to deal with an application under subsection (1) for classification or re-classification of a film, or decline to deal further with that application, if —
 
-(3) The Secretary may, in his discretion, require in addition to such appeal fee as may be prescribed the deposit of such sum as shall be sufficient to cover any further fee which may become payable as a result of the appeal.
+(a) the applicant fails —
 
-(4) For the purposes of the appeal, the owner shall deliver to the Secretary any film at such time and place as the Secretary may direct.
+(i) to provide or make available a copy of the film for screening or demonstration before the Authority;
+
+(ii) to demonstrate the film before the Authority;
+
+(iii) in the case of a film that is designed for use wholly or principally as a video game, to provide to the Authority recordings of the gameplay; or
+
+(iv) to furnish the information required under subsection (1)(b); or
+
+(b) in the opinion of the Authority, the copy of the film or the recordings of the gameplay (as the case may be) provided are incomplete or inadequate to allow a proper consideration of the application.
+
+(3) The Authority may retain a copy of any film that is the subject of an application under this section for so long as the Authority requires.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Classification and re-classification of films
+
+15\.—(1) Subject to subsection (10), on receipt of an application under section 14 for classification or re-classification of a film, or on the referral of the Minister under section 24A(1)(b), the Authority may, after viewing the film —
+
+(a) classify or re-classify the film, as the case may be; or
+
+(b) provisionally classify or re-classify the film (as the case may be) subject to such alterations or excisions as the Authority may specify.
+
+(2) Where —
+
+(a) a decision of a film content assessor assigning a classification rating in relation to a film is, by the operation of section 20(1), deemed to be a decision of the Authority classifying the film; and
+
+(b) the Authority is of the opinion that the Authority would have given the film a different classification rating (whether on its own initiative under subsection (3) or on application under section 14),
+
+the Authority may, after viewing the film, revoke the classification by the film content assessor and then re-classify the film by giving the film a different classification rating.
+
+(3) Subject to subsection (10), the Authority may, on its own initiative, call in a classified film for re-classification purposes or an unclassified film for classification purposes and, after viewing the film —
+
+(a) classify or re-classify the film, as the case may be; or
+
+(b) provisionally classify or re-classify the film (as the case may be) subject to such alterations or excisions as the Authority may specify.
+
+(4) However, where after viewing a film, the Authority is of the opinion that the film is within the ambit of section 16, the Authority must refuse to classify the film (after revoking any prior classification for the film), and give reasons for that decision.
+
+(5) The matters to be taken into account by the Authority in making a decision under this section on the classification or re-classification for a film include —
+
+(a) the standards of morality, decency and propriety generally accepted by reasonable adults in Singapore;
+
+(b) the literary, artistic or educational merit (if any) of the film;
+
+(c) the general character of the film; and
+
+(d) the person or class of persons to or amongst whom the film is distributed or publicly exhibited, or is intended or likely to be distributed or publicly exhibited.
+
+(6) Before making its decision under subsection (1), (2), (3) or (4) and for the purpose of forming an opinion on which to base such decision, the Authority may consult an advisory committee or any other person in respect of the film; but the Authority is not bound by any advice from the consultation.
+
+(7) In classifying or re-classifying a film, the Authority must assume that the film will be distributed or publicly exhibited only in the form in which it is being considered for classification or re-classification under this section.
+
+(8) In classifying or re-classifying any film under subsection (1), (2) or (3), the Authority may also determine the consumer advice giving information about the content of the film.
+
+(9) A provisional classification or re-classification for a film —
+
+(a) lapses at the end of 6 months after it is made; and
+
+(b) is deemed a classification for that film upon the Authority confirming in writing that all the conditions contained in its provisional classification have been complied with before the end of the period in paragraph (a).
+
+(10) This section does not authorise the Authority to exercise any power under this section in relation to a film —
+
+(a) that is an obscene film, a party political film or a prohibited film;
+
+(b) that the Minister has or is deemed to have refused classification on the ground that it is against national security for the film to be classified; or
+
+(c) in respect of which the Committee of Appeal has, on appeal to it, made a decision (whether before, on or after the date of commencement of section 11 of the Films (Amendment) Act 2018), unless —
+
+(i) more than 5 years have lapsed after the decision of the Committee of Appeal takes effect; or
+
+(ii) the Authority earlier changes any part of its classification guidelines, being a change that relates to any part of the film’s content.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Calling in films for classification or re-classification
+
+15A\.—(1) For the purpose of section 15(3), a film may be called in for classification or re-classification by the Authority giving an order in writing to —
+
+(a) a licensee or class licensee who is distributing or publicly exhibiting the film where it is a classified film; or
+
+(b) a maker or other person in possession of the film where it is an unclassified film.
+
+(2) An order under subsection (1) may require a person given the order to do the following within a period specified in the order:
+
+(a) to provide or make available a copy of the film for screening or demonstration before the Authority;
+
+(b) to demonstrate the film before the Authority;
+
+(c) in the case of a film that is designed for use wholly or principally as a video game, to provide to the Authority recordings of the gameplay;
+
+(d) to provide such other information about the film that the Authority may require in that particular case.
+
+(3) A person who, without reasonable excuse, fails to do anything required of the person by an order under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Supplementary provisions for film classification, etc.
+
+15B\.—(1) For any viewing of a film for the purposes of section 15(1), (2), (3) or (4), only the following individuals, or a combination of such individuals, may be present at the viewing:
+
+(a) a member of the Authority;
+
+(b) a classification officer to whom the Authority has delegated its functions under section 5(1);
+
+(c) the projectionist of the film if the film is screened;
+
+(d) a member of the advisory committee which the Authority intends to consult with regard to the film;
+
+(e) any public officer or other individual whom the Authority thinks may assist it in making such a decision.
+
+(2) As soon as practicable, but not later than 14 days, after a decision is made under section 15(1), (2), (3) or (4) in respect of a film, the Authority —
+
+(a) must give to an applicant written notice of its decision under section 15 in respect of the applicant’s application for classification or re-classification of the film; and
+
+(b) must, in the case of re-classification of a film (whether on the own initiative of the Authority or on application), publish the decision on the Authority’s website, or in one or more other forms that are readily accessible by the public.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Refused classification for certain films
+
+16\.—(1) Despite anything in this Act, the Authority, the Committee of Appeal and an individual who is registered as a film content assessor must refuse to classify any film that —
+
+(a) is an obscene film;
+
+(b) is a party political film;
+
+(c) is a prohibited film;
+
+(d) is against national security to be classified; or
+
+(e) contains any material prescribed.
+
+(2) A film which is refused classification is an unclassified film.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### De-classification of classified film
+
+17\.—(1) If the content of a classified film is modified, the film as modified becomes unclassified when the modification is made; and the classification for the film with the modification is also deemed to be then revoked.
+
+(2) Without prejudice to subsection (1), the Authority may revoke the classification for a film if it is of the opinion that —
+
+(a) the film contains contentious material that was not brought to the Authority’s attention before the classification was made; or
+
+(b) the Authority would have given the film a different classification if it had been aware of the material before the classification was made.
+
+(3) Subsection (1) does not apply to a modification that consists of —
+
+(a) the addition or removal of navigation functions (such as but not limited to an interactive menu); or
+
+(b) any content or material that is prescribed as not likely to cause the film to be given a different classification rating.
+
+(4) Where the classification for a film is revoked under subsection (1) or (2), the Authority must —
+
+(a) without delay notify the person who applied for the classification of that film under section 14 (unless the person cannot be found after reasonable inquiry) of the revoking of the film’s classification and the effective date of the revocation; and
+
+(b) cause to be published in theGazette, a notice of the revoking of the film’s classification and the effective date of the revocation.
+
+(5) However, failure to publish a notice under subsection (4)(b) in respect of any revocation of the classification for a film does not invalidate the revocation where notice thereof has been given under subsection (4)(a).
+
+(6) To avoid doubt, it is declared that where a classification certificate in respect of a film is revoked or deemed to be revoked under this section, that revocation applies in respect of each copy of that film as it applies to that film.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Classification certificates and labels
+
+18\.—(1) The Authority must —
+
+(a) issue a classification certificate for each film that is classified under section 15, 26 or 27, or re-classified under section 15, 26 or 27; and
+
+(b) make available a label (called in this Act a classification label) to be affixed to the film.
+
+(2) The Authority may impose in relation to a classification certificate such conditions as it thinks fit relating to the circumstances of distribution or public exhibition of the film to which the classification certificate relates.
+
+(3) A classification certificate issued in respect of a classified film must include —
+
+(a) the classification ratings for the classification given to the film;
+
+(b) any consumer advice for the film; and
+
+(c) the conditions about the display of the classification ratings and consumer advice (if any), on —
+
+(i) any advertisement of the film; and
+
+(ii) the container, wrapping, casing, box or other thing in or with which the film is to be distributed.
+
+(4) Where a classification certificate is issued and in force in respect of a film, that certificate applies to each copy of the film that is identical in content with it as if that copy were that film and, for that purpose, any reference in this Act to that film includes a reference to every copy of that film.
+
+(5) A classification label in respect of a film must —
+
+(a) show the markings for the classification rating for the classification given to the film; and
+
+(b) be affixed, in the manner prescribed (if any), to every copy of the film before the film is distributed or publicly exhibited.
+
+(6) In any proceedings for an offence under this Act, if a copy of a film or a container of the film is distributed or publicly exhibited with a classification label affixed to it in accordance with subsection (5), the label is sufficient evidence of the fact that the film is a classified film of the classification rating stated on that label unless the contrary is established.
+
+(7) Where the Authority issues a classification certificate for any film, it may, where the Authority considers appropriate, require the person who applied under section 14 for classification or re-classification of the film to deposit with the Authority a copy of the film identical in content to that which was classified, and in the form the Authority specifies —
+
+(a) not later than 14 days after the date the classification certificate was issued; or
+
+(b) within such longer period as the Authority may allow in any particular case.
+
+(8) A person who, without reasonable excuse, fails to comply with any requirement of the Authority under subsection (7) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Film content assessors
+
+19\.—(1) Subject to this Act, the Authority may, by registering an individual under this section, authorise the individual to do all the following work (whether or not for reward):
+
+(a) view and assess the content of a film that has not been classified or is not deemed classified by the Authority or the Committee of Appeal for the purpose of classifying the film’s content;
+
+(b) assign a classification rating for the film that would, if classified by the Authority, be substantially likely to be classified not higher than the prescribed classification rating (called in this Act the maximum permitted classification rating);
+
+(c) submit to the Authority a report of the assessment and the classification rating which the individual assigns to the film.
+
+(2) An individual is eligible to be registered as a film content assessor or have the individual’s registration so renewed only if —
+
+(a) the individual has paid the fees prescribed (if any) for the registration or renewal;
+
+(b) the individual satisfies the Authority that he has successfully completed the training decided by the Authority; and
+
+(c) the individual satisfies such other requirements as the Authority determines for such registration or renewal.
+
+(3) Without limiting subsection (2), the Authority may refuse to register, or renew the registration of, an individual as a film content assessor if, in the opinion of the Authority —
+
+(a) the individual is not of good character and reputation; or
+
+(b) there are reasonable grounds for believing that the individual will not carry out the duties of a film content assessor in accordance with this Act or its subsidiary legislation.
+
+(4) An individual who is not registered under this section as a film content assessor —
+
+(a) must not undertake (whether or not for reward) any work specified in subsection (1)(a), (b) or (c); and
+
+(b) must not advertise or hold himself out or describe himself in any way to be registered as a film content assessor.
+
+(5) An individual who contravenes subsection (4)(a) or (b) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Duties of film content assessor
+
+20\.—(1) A film content assessor’s decision assigning a classification rating for an unclassified film is deemed, for the purposes of this Act, to be a decision of the Authority classifying the film.
+
+(2) However, if —
+
+(a) a film contains contentious material; or
+
+(b) a film would, if classified by the Authority, be substantially likely to be classified higher than the maximum permitted classification rating,
+
+a film content assessor must not view and assess the content of the film with a view to assigning a classification rating for the film, and must not assign a classification rating for that film.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Procedure for registration as film content assessor
+
+20A\.—(1) An application for registration, or to renew any registration, as a film content assessor must be made in the manner, and must be accompanied by the documents and particulars, determined by the Authority.
+
+(2) Upon receiving an application under subsection (1), the Authority may, after considering the application —
+
+(a) register or renew the registration of (as the case may be) the applicant as a film content assessor, with or without conditions; or
+
+(b) refuse the registration or renewal, as the case may be.
+
+(3) Every registration as a film content assessor —
+
+(a) is in force for the period specified by the Authority (being no longer than 24 months), unless earlier cancelled under section 20B; and
+
+(b) may be renewed for a period specified by the Authority (being also no longer than 24 months).
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Regulatory action against registered film content assessor
+
+20B\.—(1) Subject to subsection (3), the Authority may, by order in writing, and without any compensation, cancel the registration of an individual as a film content assessor, or take all or any regulatory action specified in subsection (2) against the individual, where the Authority is satisfied that —
+
+(a) the individual obtained his registration, or the renewal of his registration, by fraud or misrepresentation;
+
+(b) the individual no longer satisfies any of the requirements in section 19(2)(b) or (c) by virtue of which he was registered under that section;
+
+(c) the individual is convicted, on or after the date of commencement of section 11 of the Films (Amendment) Act 2018 and during the period the individual’s registration is in force, of any of the following which is committed on or after that date:
+
+(i) an offence under this Act or its subsidiary legislation;
+
+(ii) an offence under other written law involving fraud or dishonesty;
+
+(d) the individual is, for any medical or other reason, no longer in a position to effectively carry out the duties of a film content assessor under this Act and its subsidiary legislation;
+
+(e) the individual has contravened section 20(2);
+
+(f) the individual has, without reasonable excuse, not completed such further training in the making of assessments as the Authority has directed the individual to attend;
+
+(g) the individual, without reasonable excuse, fails to pay any financial penalty ordered under subsection (2)(a); or
+
+(h) the individual has engaged in conduct rendering the individual unfit to be a film content assessor.
+
+(2) The regulatory action that the Authority may take in lieu of cancelling registration as a film content assessor is all or any of the following:
+
+(a) to require the payment of a financial penalty not exceeding $5,000 for conduct that does not constitute an offence under this Act;
+
+(b) to suspend (for a period not exceeding 6 months) the registration of an individual as a film content assessor.
+
+(3) The Authority must not exercise any of its powers under subsection (1) or (2) unless an opportunity of being heard has been given to the film content assessor against whom the Authority intends to exercise any of those powers, being a period of at least 14 days and not more than 28 days.
+
+(4) Where the Authority has made an order under subsection (1) or (2), the Authority must serve on the film content assessor concerned a notice of the order.
+
+(5) Subject to subsection (6), an order by the Authority under subsection (1) or (2) does not take effect until the day after the Authority has served on the film content assessor concerned the notice mentioned in subsection (4).
+
+(6) An appeal under section 28 against any order under subsection (1) or (2) does not prevent that order taking effect in accordance with subsection (5).
+
+(7) However, the Authority may, without complying with subsections (3) to (6), by order in writing cancel with immediate effect the registration of a film content assessor who has died.
+
+(8) Where an order under subsection (1) or (2) cancelling or suspending the registration of an individual as a film content assessor becomes effective, the Authority must remove the name and particulars of that individual from the register of film content assessors.
+
+(9) If the registration of an individual as a film content assessor is suspended under this section for any period, then the Authority must, immediately after the period of suspension ends, reinstate the individual’s name and particulars on the register of film content assessors.
+
+(10) In any proceedings under this section in relation to the conviction of a film content assessor for a criminal offence, the Authority may accept the conviction as final and conclusive.
+
+(11) Any financial penalty imposed under this section may be recovered by the Authority as a debt due to it.
+
+(12) For the purpose of subsection (1)(h), a film content assessor may be treated as having engaged in conduct that renders him unfit to be a film content assessor if the film content assessor —
+
+(a) had assigned a classification rating for 2 or more films which are re-classified by the Authority under section 15; or
+
+(b) had assigned a classification rating for a film which is re-classified by the Authority under section 15(2) and —
+
+(i) the original classification is 2 or more levels lower than the re-classification of the film by the Authority; or
+
+(ii) the assessment of the content of the film which the film content assessor prepared and submitted to the Authority for the original classification is misleading or incorrect or contains grossly inadequate information.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Register of film content assessors
+
+20C\.—(1) The Authority must keep and maintain a register of film content assessors containing the names and other relevant particulars of all individuals who are registered as film content assessors under this Act.
+
+(2) The absence of the name of any individual from the register of film content assessors is prima facie evidence that the individual is not a film content assessor registered under this Act or that the individual’s registration is cancelled or suspended.
+
+(3) The register of film content assessors must be published on the Authority’s website, or on such other medium which is accessible to members of the public as the Minister may require.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Offences involving unclassified films, etc.
+
+21\.—(1) A person commits an offence if —
+
+(a) the person —
+
+(i) distributes or publicly exhibits an unclassified film; or
+
+(ii) has in the person’s possession a film that is an unclassified film, with the intention of distributing or publicly exhibiting the film; and
+
+(b) the person knows or ought reasonably to have known that, or is reckless as to whether, the film is an unclassified film.
+
+(2) A person commits an offence if —
+
+(a) the person distributes or publicly exhibits a film with a title that is not the same as the title by which the film is classified; and
+
+(b) the person knows or ought reasonably to have known that, or is reckless as to whether, the film’s title is not the same as the title by which the film is classified.
+
+(3) A person commits an offence if —
+
+(a) the person distributes or publicly exhibits a film with contents that are not the same as that in which the film is classified; and
+
+(b) the person knows or ought reasonably to have known that, or is reckless as to whether, the film’s contents are not the same as that in which the film is classified.
+
+(4) Subsections (2) and (3) do not apply to a film the contents of which are modified, and the modification is only that mentioned in section 17(3).
+
+(5) A person commits an offence if —
+
+(a) the person distributes a classified film —
+
+(i) without a classification label made available under section 18 for that film affixed to the film;
+
+(ii) affixed with a classification label showing a classification rating otherwise than in accordance with the classification assigned to that film under this Act; or
+
+(iii) affixed otherwise than in accordance with the manner prescribed (if any), with a classification label made available under section 18 in respect of that film; and
+
+(b) the person knows or ought reasonably to have known that, or is reckless as to whether —
+
+(i) no classification label made available under section 18 for that film is affixed to the film;
+
+(ii) a classification label showing a classification rating otherwise than in accordance with the classification assigned to that film under this Act is affixed to the film; or
+
+(iii) a classification label made available under section 18 in respect of that film is affixed otherwise than in accordance with the manner prescribed,
+
+as the case may be.
+
+(6) A person commits an offence if —
+
+(a) the person distributes a classified film without the consumer advice applicable to the film displayed on the film or the container, wrapping, casing, box or other thing in or with which the film is distributed; and
+
+(b) the person knows or ought reasonably to have known that, or is reckless as to whether the consumer advice applicable to the film is so displayed.
+
+(7) Where conditions have been imposed under section 18(2) on the classification certificate issued for a film and the conditions relate to the distribution or public exhibition of the film to persons below specified ages or at specified places, a person commits an offence if the person distributes or publicly exhibits the film to an individual knowingly, negligently or recklessly in contravention of any such condition.
+
+(8) A person who commits an offence under subsection (1), (2), (3), (5), (6) or (7) shall be guilty of an offence and shall be liable on conviction —
+
+(a) in respect of an offence under subsection (1), (2) or (3), to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 6 months or to both; and
+
+(b) in respect of an offence under subsection (5), (6) or (7), to a fine not exceeding $5,000.
+
+(9) In a prosecution of an offence for contravening subsection (7) in relation to a distribution or public exhibition of a film to persons below a specified age in contravention of a condition in the classification certificate for that film, it is a defence for the defendant to prove, on a balance of probabilities, that at or before the time of the distribution or public exhibition, there was produced to the defendant documentary evidence that might reasonably be accepted —
+
+(a) as applying to the person to whom the film was distributed or publicly exhibited; and
+
+(b) as proving that the person was at least that specified age.
+
+(10) A reference in this section to an unclassified film does not include a reference to an obscene film or exempt film, or a party political film or prohibited film.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Offences about advertisements for films
+
+22\.—(1) A person must not publish an advertisement for a film that is distributed or publicly exhibited or intended for distribution or public exhibition if —
+
+(a) the advertisement —
+
+(i) is disapproved under section 22A; or
+
+(ii) was approved under section 22A and the approval is then revoked under that section; and
+
+(b) the person knows or ought reasonably to have known that the advertisement —
+
+(i) is disapproved under section 22A; or
+
+(ii) was approved under section 22A and the approval is then revoked under that section.
+
+(2) If an advertisement for a film is approved under section 22A, a person must not publish the advertisement in a form different from the form in which it was approved, if the person knows or ought reasonably to have known that the form of the advertisement is different from the form in which the advertisement was approved.
+
+(3) If an advertisement for a film is approved under section 22A, and the advertisement is approved subject to conditions, a person must not publish the advertisement except in accordance with those conditions.
+
+(4) A person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(5) This section does not apply to or in relation to —
+
+(a) any advertisement for a film that is not distributed or publicly exhibited in Singapore;
+
+(b) an advertisement, in an imported film that is in a form that cannot be modified, for a film that has not been distributed or publicly exhibited in Singapore (called the advertised film), whether or not that advertised film is later distributed or publicly exhibited in Singapore;
+
+(c) advertising by way of a product —
+
+(i) that refers to, or is derived from, a film;
+
+(ii) that is primarily intended to be distributed to the general public or to a section of the general public; and
+
+(iii) that a reasonable person would not consider to be a primary source of classification information for consumers about the film;
+
+(d) any advertisement for an exempt film;
+
+(e) any trailer that is a classified film; and
+
+(f) any other advertisement for a film excluded by the Minister by order in theGazette.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Approval of advertisements for films
+
+22A\.—(1) Every advertisement for a film that is intended for distribution or public exhibition must be submitted to the Authority for approval.
+
+(2) An application under subsection (1) for approval of an advertisement for a film must —
+
+(a) be made to the Authority in the form and manner the Authority determines; and
+
+(b) be accompanied by —
+
+(i) a copy of the advertisement concerned;
+
+(ii) the prescribed fee, if any;
+
+(iii) such information as may be prescribed, if any; and
+
+(iv) such other information as the Authority may require in that particular case.
+
+(3) On receipt of an application under subsection (2), the Authority —
+
+(a) may approve the advertisement to which the application relates, with or without conditions; or
+
+(b) may refuse to approve the advertisement.
+
+(4) The Authority is entitled to disapprove, or revoke any approval under this section for, an advertisement for a film if the film is a film which the Authority must refuse classification because of section 16.
+
+(5) The Authority may revoke any approval under this section for an advertisement for a film if the film becomes unclassified or is re-classified.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Measures to ensure compliance, etc.
+
+23\.—(1) The Authority, an enforcement officer, or a classification officer or licensing officer, may by written notice require any licensee or other person (called a person of interest) to furnish, within a reasonable period and in the form and manner specified in the notice, all documents and information which —
+
+(a) relate to any matter which the Authority considers necessary —
+
+(i) to ensure that the provisions of this Act and its subsidiary legislation, or any conditions imposed on a licence or classification certificate, are being complied with; or
+
+(ii) to otherwise carry out the functions or duties of or assigned to the Authority by or under this Act; and
+
+(b) are within the knowledge of that licensee or person of interest, or in or under the custody or control of that licensee or person, as the case may be.
+
+(2) The power to require a licensee or person of interest to furnish any document or information under subsection (1) includes the power —
+
+(a) to require that licensee or person of interest, or any individual who is or was an officer, agent or employee of the licensee or person of interest, to provide an explanation of the document or information;
+
+(b) if the document or information is not furnished, to require the licensee or person of interest, or that individual mentioned in paragraph (a), to state, to the best of the knowledge and belief of that licensee, person or individual, where the document or information is; and
+
+(c) if the information is recorded otherwise than in legible form, to require the information to be made available to the Authority, enforcement officer, or classification officer or licensing officer (as the case may be) in legible form.
+
+(3) The Authority is entitled without payment to keep any document or information, or any copy or extract thereof, furnished to it under subsection (1).
+
+(4) For the purpose of determining whether the provisions of this Act and its subsidiary legislation or any conditions imposed on a licence or classification certificate, are being complied with, an enforcement officer is entitled, at all reasonable times, to full and free access to any place which the enforcement officer reasonably believes is a place where films are distributed or publicly exhibited and —
+
+(a) to examine or observe any activity conducted in or on the place;
+
+(b) to inspect and examine any thing in or on the place;
+
+(c) to make any still or moving image or any recording of the place or any thing in or on the place;
+
+(d) to inspect any document in the place and take extracts from, or make copies of, any such document;
+
+(e) to take into or onto the place such equipment and materials as the enforcement officer requires for the purpose of exercising powers in relation to the place;
+
+(f) to operate electronic equipment in or on the place;
+
+(g) to secure a thing for a period not exceeding 24 hours if the thing is found in or on the place, where the enforcement officer believes on reasonable grounds that —
+
+(i) the thing is evidential material, or is used or intended to be used for the purpose of contravening any conditions imposed on a licence or classification certificate; and
+
+(ii) it is necessary to secure the thing in order to prevent it from being concealed, lost or destroyed before a warrant to seize the thing is obtained; and
+
+(h) to require any individual found in or on the place to answer any question (to the best of that individual’s knowledge, information and belief) and to furnish any document or information.
+
+(5) The power under subsection (4)(f) to operate electronic equipment in or on any place includes the power —
+
+(a) to use a disk, tape or other storage device that is in or on the place and can be used with the equipment or in association with the equipment;
+
+(b) to operate electronic equipment in or on the place to put the relevant data in documentary form and remove the documents so produced from the place; and
+
+(c) to operate electronic equipment in or on the place to transfer the relevant data to a disk, tape or other storage device that —
+
+(i) is brought to the place for the exercise of the power; or
+
+(ii) is in or on the place and the use of which for that purpose has been agreed in writing by the occupier of the place,
+
+and to remove the disk, tape or other storage device from that place.
+
+(6) The power under subsection (4)(g) to secure any thing which is found during the exercise of enforcement powers in or on any place includes the power —
+
+(a) to secure the thing by locking it up, placing a guard or any other means; and
+
+(b) to prohibit any person from dealing with such thing.
+
+(7) A person —
+
+(a) who intentionally alters, suppresses or destroys any document or information which the person has been required by a notice under subsection (1), or under subsection (4)(h), to furnish; or
+
+(b) who, in furnishing any document or information required under subsection (1), or under subsection (4)(h), makes any statement which the person knows or ought reasonably to know that, or is reckless as to whether, it is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(8) A person who, without reasonable excuse, fails to do anything required of the person by notice under subsection (1), or under subsection (4)(h), shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+(9) However, an individual or a person is not subject to a requirement under subsection (4)(h) or (8) if —
+
+(a) the individual or person does not possess the document or information required; or
+
+(b) the individual or person has taken all reasonable steps available to the individual or person to obtain the document or information required and has been unable to obtain it.
+
+(10) To avoid doubt, for the purposes of subsection (8), it is a reasonable excuse for a person to refuse or fail to furnish any information, produce any document or answer any question if doing so might tend to incriminate that person.
+
+(11) The references in this section —
+
+(a) to a licensee include a reference to every person who is a class licensee or who is registered as a film content assessor; and
+
+(b) to documents or information include a reference to any film (whether classified or not) and any advertisement for a film.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Appeal against classification decisions
+
+24\.—(1) In this section and section 24A, “appealable classification decision” means a decision by the Authority —
+
+(a) refusing to classify or re-classify a film under section 15 because —
+
+(i) it is against national security; or
+
+(ii) of any other ground in section 16;
+
+(b) classifying or re-classifying a film under section 15;
+
+(c) determining the consumer advice to apply to a film under section 15;
+
+(d) imposing conditions under section 18 —
+
+(i) about the display of the classification ratings, markings and consumer advice (if any), on any advertisement for the film or on the container, wrapping, casing, box or other thing in or with which the film is to be distributed; or
+
+(ii) relating to the circumstances of distribution or public exhibition of a film to which any classification certificate relates;
+
+(e) revoking the classification for a film under section 17(2); or
+
+(f) disapproving, or revoking the approval of, an advertisement for a film under section 22A, or imposing conditions on such an approval.
+
+(2) Any of the following persons who is aggrieved by an appealable classification decision relating to a film (each called an appellant) may appeal against the decision:
+
+(a) the person who applied for classification or re-classification of a film;
+
+(b) the person who is the maker of a classified film if the applicant under section 14 for classification or re-classification of the film is not the maker;
+
+(c) the person who intends to distribute or publicly exhibit a film if the applicant under section 14 for classification or re-classification of the film is not that person;
+
+(d) the film content assessor whose classification for a film is revoked under section 15(2).
+
+(3) For an appealable classification decision described in subsection (1)(f), an applicant for approval of an advertisement for a film under section 22A who is aggrieved by the decision relating to that advertisement (also called an appellant) may appeal against the decision.
+
+(4) An appeal against an appealable classification decision described in subsection (1)(a)(i) may only be made —
+
+(a) to the Minister; and
+
+(b) within 30 days after the applicant is notified of that decision (called the first appeal period) or such longer period as the Minister allows in exceptional circumstances before the end of the first appeal period.
+
+(5) An appeal against any other appealable classification decision described in subsection (1) may only be made —
+
+(a) to the Committee of Appeal; and
+
+(b) within —
+
+(i) 30 days after the applicant is notified of an appealable classification decision (called the first appeal period) or such longer period as the Committee of Appeal allows in exceptional circumstances before the end of the first appeal period; or
+
+(ii) for an appellant who is a film content assessor, 30 days after the notice of the film’s re-classification is first published pursuant to section 15B(2)(b) (called the first appeal period) or such longer period as the Committee of Appeal allows in exceptional circumstances before the end of the first appeal period.
+
+(6) Every appeal under this section must be made in the manner prescribed or, if not prescribed, in the manner required by the Minister or the Committee of Appeal, as the case may be.
+
+(7) An appealable classification decision takes effect despite any appeal against the decision and remains in effect until the decision is varied or reversed on appeal.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Minister’s decision on appeal against classification decisions
+
+24A\.—(1) The Minister may determine an appeal against an appealable classification decision described in section 24(1)(a)(i) —
+
+(a) by confirming the appealable classification decision; or
+
+(b) by reversing the refusal to classify the film in question and referring that film to the Authority for classification.
+
+(2) The Minister’s decision under subsection (1) is final.
+
+(3) Before making his decision under subsection (1) and for the purpose of forming an opinion on which to base such decision, the Minister —
+
+(a) must consult the Committee of Appeal; and
+
+(b) may consult any other person,
+
+in respect of the film; but the Minister is not bound by any advice from the consultation.
+
+(4) Where a film is referred under subsection (1) for classification, the appellant concerned must, for the purposes of section 15, be taken to have made an application under section 14 for classification of the film.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Committee of Appeal
 
-25\.—(1) For the purposes of this Act, there shall be a Committee of Appeal consisting of 15 members to be appointed by the Minister.
+25\.—(1) For the purposes of this Act, there shall be a Committee of Appeal consisting of at least 15 but not more than 21 members to be appointed by the Minister.
 
 [10/98]
 
-(2) A member of the Committee of Appeal shall, unless he earlier resigns, hold office for 3 years from the date of his appointment.
+[Act 25 of 2018 wef 29/04/2019]
 
-[10/98]
+(2) Subject to subsections (2A) and (3), each member of the Committee of Appeal holds office for such period (not exceeding 3 years) as the Minister may specify in the member’s letter of appointment.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(2A) The Minister may at any time revoke the appointment of any member of the Committee of Appeal as the Minister considers necessary in the interest of the effective performance of the functions of the Committee of Appeal under this Act, or in the public interest.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (3) A member of the Committee of Appeal may at any time, by letter addressed to the Minister, resign his membership thereof.
 
-(4) Any vacancy in the membership of the Committee of Appeal shall be filled by the appointment of a member by the Minister but no act or decision of the Committee of Appeal shall be invalid by reason only of there being any vacancy in their number.
+(4) If a premature vacancy occurs in the office of any member of the Committee of Appeal, the Minister may appoint a person to fill the vacancy and hold that office for the remainder of the term for which the vacating member was appointed; and “premature vacancy” means a vacancy that occurs in the office of a member of the Committee of Appeal otherwise than because of the expiry of the term of office.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (5) The Chairman and the Vice-Chairman of the Committee of Appeal shall be appointed by the Minister.
 
 (6) At any meeting of the Committee of Appeal in the absence of both the Chairman and the Vice-Chairman, the members present shall elect one of their number to preside at that meeting.
 
-(7) At any meeting of the Committee of Appeal, 5 members shall form a quorum and in the case of an equality of votes the Chairman, the Vice-Chairman or other member presiding shall have a casting vote.
+(7) In addition to the Chairman’s general vote, the Chairman of the Committee of Appeal or member presiding at a meeting of the Committee has, in the case of an equality of votes, a casting vote.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(8) A quorum for a meeting of the Committee of Appeal is the number that is at least one-third the number of its members.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(9) All members of the Committee of Appeal are deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Powers of Committee of Appeal
 
-26\.—(1) On receipt of an appeal under section 24, the Committee of Appeal may make an order —
+26\.—(1) On receipt of an appeal under section 24, the Committee of Appeal may, after considering the matters mentioned in section 15(5), make an order —
 
-(a) dismissing the appeal and confirming the decision of the Board; or
+(a) dismissing the appeal and confirming the decision of the Authority; or
 
-(b) reversing or varying the decision of the Board,
+(b) varying or reversing the decision of the Authority —
 
-including making such order as it thinks fit in regard to the approval for exhibition of any film which is the subject of appeal, the excision or retention of any part of any such film, and the classification of any film.
+(i) by classifying or re-classifying the film;
 
-[13/2009 wef 26/05/2009]
+(ii) by modifying the consumer advice in respect of a film; or
 
-(2) If the Committee of Appeal on dismissing an appeal is of the opinion that the appeal was frivolous or vexatious, the Committee of Appeal may require the payment of a further fee not exceeding $250 in addition to the prescribed fee and if any sum has been deposited under section 24(3) may order the forfeiture of that sum or any part thereof in satisfaction or part satisfaction of the further fee.
+(iii) by modifying the conditions imposed under section 18(2) or (3) in relation to the classification certificate issued in respect of the film.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(2) The Committee of Appeal must deal with an appeal under section 24 in the same way that the Authority deals with an application for classification or re-classification of a film, and sections 15, 16 and 17 apply for this purpose as if references in each of those sections to the Authority were references to the Committee of Appeal.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (3) The decision of the Committee of Appeal shall be final.
 
-(4) The decision of the Committee of Appeal shall be communicated forthwith to the Chairman of the Board who shall, if necessary, issue a certificate in respect of the film or alter or amend such a certificate and shall take such other action, if any, as is necessary to give effect to the decision.
+(4) The Committee of Appeal must without delay communicate its decision on any appeal to the Authority, and the Authority must, if necessary, cancel a classification certificate or issue a fresh classification certificate, or both, in respect of the film and take such other action, if any, as is necessary to give effect to that decision.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Minister may order Committee of Appeal to inspect any film
 
-27\.—(1) The Minister may, whenever he thinks it necessary or desirable, order the Committee of Appeal to cause to be exhibited before the Committee of Appeal any film whether it has been approved for exhibition or not for the purpose of considering whether the film should or should not be so approved.
+27\.—(1) The Minister may, whenever he thinks it necessary or desirable, order the Committee of Appeal to cause to be exhibited before the Committee of Appeal any film in respect of which the decision or deemed decision by the Authority is refused classification other than on the ground that it is against national security to be classified, or any film classified or deemed classified or re-classified by the Authority, for the purpose of considering whether the film should or should not be classified, so classified or be re-classified.
 
-(2) The owner of the film, upon receiving notice of an order made in respect thereof under subsection (1) from the Secretary, shall deposit or exhibit the film at such time and place as may be stated in the notice.
+[Act 25 of 2018 wef 29/04/2019]
+
+(2) For the purpose of exercising its power under subsection (1) in respect of a film, the Committee of Appeal may give an order in writing to —
+
+(a) a licensee or class licensee who is distributing or publicly exhibiting the film;
+
+(b) an applicant under section 14 for classification or re-classification of the film; or
+
+(c) a maker or other person in possession of the film which is an unclassified film.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(2A) An order under subsection (2) may require a person given the order to do the following within a period specified in the order:
+
+(a) to provide or make available a copy of the film for screening or demonstration before the Committee of Appeal;
+
+(b) to demonstrate the film before the Committee of Appeal;
+
+(c) in the case of a film that is designed for use wholly or principally as a video game, to provide to the Committee of Appeal recordings of the gameplay;
+
+(d) to provide such other information about the film that the Committee of Appeal may require in any particular case.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (3) The Committee of Appeal may after such exhibition make in respect of the film any such order as is specified in section 26(1), and section 26(4) shall thereupon apply to that order.
 
-(4) Any owner who fails to comply with subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+(4) Any person who, without reasonable excuse, fails to do anything required of the person by an order under subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(5) To avoid doubt, nothing in this section limits the Authority’s powers under section 15.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Appeal to Minister against other decisions of Authority
+
+28\.—(1) In this section, “appealable decision” means a decision by the Authority —
+
+(a) refusing the grant of the licence under section 7;
+
+(b) taking regulatory action under section 11;
+
+(c) refusing to register, or to renew the registration of, an individual as a film content assessor under section 19; or
+
+(d) taking regulatory action against a film content assessor under section 20B.
+
+(2) Any of the following persons who is aggrieved by an appealable decision in relation to that person (each called an appellant) may appeal against the decision:
+
+(a) an applicant for a licence, for an appealable decision in subsection (1)(a);
+
+(b) a former licensee or former class licensee, for an appealable decision in subsection (1)(b) which is revoking the licence with respect to the former licensee or disapplying the class licence with respect to the former class licensee;
+
+(c) a licensee or class licensee, for any other appealable decision in subsection (1)(b);
+
+(d) an applicant for a registration or renewal of the registration as a film content assessor, for an appealable decision in subsection (1)(c);
+
+(e) a film content assessor or former film content assessor affected by the appealable decision in subsection (1)(d).
+
+(3) An appeal under this section may only be made by an appellant —
+
+(a) to the Minister in the manner prescribed or, if not prescribed, in the manner required by the Minister; and
+
+(b) within 14 days after the appellant is notified of an appealable decision (called the first appeal period) or such longer period as the Minister allows in exceptional circumstances before the end of the first appeal period.
+
+(4) The Minister may determine an appeal under this section by confirming, varying or reversing the decision of the Authority in subsection (1) that is the subject of the appeal; and the Minister’s decision is final.
+
+(5) An appealable decision takes effect despite any appeal against the decision and remains in effect until the decision is varied or reversed on appeal.
+
+(6) In any appeal under this section against any decision of the Authority in relation to the conviction of an appellant for an offence, the Minister may accept the appellant’s conviction as final and conclusive.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Disposal of unclaimed films
 
-28\. Any film which has been —
+28A\. Any film that is retained by the Authority under section 14(3) or deposited with the Authority under section 18(7), and is not claimed by the applicant for classification or re-classification of the film —
 
-(a) deposited in any approved warehouse for 6 months and the owner thereof is unknown or has failed during that period to obtain the approval of the Board or having obtained it has failed to remove the film from the possession of the Board; or
+(a) within 6 months after the date of the Authority’s decision under section 15; or
 
-(b) retained by the Board under section 18 and not claimed by the owner within 6 months of the date upon which approval for exhibition was refused or, if there is any appeal, from the date of the decision of the Committee of Appeal,
+(b) if there is any appeal under section 24, within 6 months after the date of the decision of the Minister or the Committee of Appeal (as the case may be) on appeal,
 
-may be destroyed or otherwise disposed of as the Board thinks fit.
+may be destroyed or otherwise disposed of as the Authority thinks fit.
 
-[10/98]
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Offences involving dealings in obscene films
 
 29\.—(1) Any person who makes or reproduces any obscene film (whether or not for the purposes of exhibition or distribution to any other person), knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine of not less than $20,000 but not more than $40,000 or to imprisonment for a term not exceeding 2 years or to both; and
+(a) to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
-(b) in the case of a second or subsequent conviction, to a fine of not less than $40,000 but not more than $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+[Act 25 of 2018 wef 29/04/2019]
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [10/98]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (2) Any person who imports any obscene film knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine of not less than $1,000 for each such film imported (but not to exceed in the aggregate $40,000) or to imprisonment for a term not exceeding 12 months or to both; and
+(a) to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-(b) in the case of a second or subsequent conviction, to a fine of not less than $2,000 for each such film imported (but not to exceed in the aggregate $100,000) or to imprisonment for a term not exceeding 2 years or to both.
+[Act 25 of 2018 wef 29/04/2019]
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [10/98]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (3) Any person who distributes, or has in his possession for the purposes of distributing, to any other person an obscene film knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine of not less than $2,000 for each such film he had distributed or in his possession (but not to exceed in the aggregate $80,000) or to imprisonment for a term not exceeding 2 years or to both; and
+(a) to a fine not exceeding $80,000 or to imprisonment for a term not exceeding 2 years or to both; and
 
-(b) in the case of a second or subsequent conviction, to a fine of not less than $4,000 for each such film he had distributed or in his possession (but not to exceed in the aggregate $100,000) or to imprisonment for a term not exceeding 2 years or to both.
+[Act 25 of 2018 wef 29/04/2019]
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [10/98]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (4) Any person who exhibits or has in his possession for the purposes of exhibiting to any other person an obscene film knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine of not less than $10,000 but not more than $40,000 or to imprisonment for a term not exceeding 2 years; and
+(a) to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 2 years; and
 
-(b) in the case of a second or subsequent conviction, to a fine of not less than $20,000 but not more than $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+[Act 25 of 2018 wef 29/04/2019]
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [10/98]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Possession of obscene films
 
-30\.—(1) Any person who has in his possession any obscene film shall be guilty of an offence and shall be liable on conviction to a fine of not less than $500 for each such film he had in his possession (but not to exceed in the aggregate $20,000) or to imprisonment for a term not exceeding 6 months or to both.
+30\.—(1) Any person who has in his possession any obscene film shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [10/98]
 
+[Act 25 of 2018 wef 29/04/2019]
+
 (2) Any person who has in his possession any obscene film knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine of $1,000 for each such film in his possession (but not to exceed in the aggregate $40,000) or to imprisonment for a term not exceeding 12 months or to both; and
+(a) to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-(b) in the case of a second or subsequent conviction, to a fine of not less than $2,000 for each such film in his possession (but not to exceed in the aggregate $80,000) or to imprisonment for a term not exceeding 2 years or to both.
+[Act 25 of 2018 wef 29/04/2019]
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $80,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [29A
 
 [10/98]
 
+[Act 25 of 2018 wef 29/04/2019]
+
 ### Advertising obscene films
 
-31\.—(1) Any person who, for the purposes of distributing or exhibiting any obscene film to any other person, advertises the film by any means shall be guilty of an offence and shall be liable on conviction to a fine of not less than $2,000 but not more than $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+31\.—(1) Any person who, for the purposes of distributing or exhibiting any obscene film to any other person, advertises the film by any means shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [10/98]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (2) Any person who, for the purposes of distributing or exhibiting any obscene film to any other person, advertises the film by any means knowing or having reasonable cause to believe the film to be obscene shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine of not less than $10,000 but not more than $50,000 or to imprisonment for a term not exceeding 12 months or to both; and
+(a) to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-(b) in the case of a second or subsequent conviction, to a fine of not less than $20,000 but not more than $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+[Act 25 of 2018 wef 29/04/2019]
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [10/98]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (3) In this section —
 
@@ -642,9 +1824,11 @@ may be destroyed or otherwise disposed of as the Board thinks fit.
 
 “advertisement” includes any advertising poster, circular, catalogue or price list;
 
-“advertising poster” means any poster, placard, video slick, photograph or other printed pictorial matter that is intended for use in the advertising or exhibition of a film to the public and includes a miniature representation or enlarged representation of the whole or part of any such poster.
+“advertising poster” means any poster, placard, video slick, photograph or other pictorial matter that is intended for use in the advertising or exhibition of a film to the public and includes a miniature representation or enlarged representation of the whole or part of any such poster.
 
 [10/98]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (4) For the purposes of this section, an advertisement shall be deemed to be an advertisement publicly displayed if it is displayed in or so as to be visible from —
 
@@ -660,11 +1844,15 @@ may be destroyed or otherwise disposed of as the Board thinks fit.
 
 32\.—(1) Any person who causes or procures any child or young person or, having custody, charge or care of a child or young person, allows that child or young person to commit or abet in the commission of any offence mentioned in section 29, 30 or 31 shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine of not less than $20,000 but not more than $80,000 or to imprisonment for a term not exceeding 12 months or to both; and
+(a) to a fine not exceeding $80,000 or to imprisonment for a term not exceeding 12 months or to both; and
 
-(b) in the case of a second or subsequent conviction, to a fine of not less than $20,000 but not more than $100,000 or to imprisonment for a term not exceeding 2 years or to both.
+[Act 25 of 2018 wef 29/04/2019]
+
+(b) in the case of a second or subsequent conviction, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 2 years or to both.
 
 [10/98]
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (2) If it is proved that a child has committed or abetted in the commission of any offence mentioned in section 30(1) or 31(1), the person having the custody, charge or care of the child at the time the offence was committed shall be presumed, until the contrary is proved, to have allowed the child to commit or abet in the commission of the offence.
 
@@ -690,43 +1878,411 @@ knowing or having reasonable cause to believe the film to be a party political f
 
 [10/98]
 
-### Search and seizure of unlawful films
+### Powers for enforcement purposes
 
-34\.—(1) Any Deputy or Assistant Commissioner of Police, Assistant Superintendent of Police or any Censor, Deputy or Assistant Censor or Inspector of Films, if satisfied upon written information and after such further inquiry as he thinks necessary that any person has in his possession any obscene film or party political film, may without warrant, with such assistance and by such force as is necessary, by night or by day, enter and search any place where he has reason to believe the film is kept, seize the film and any equipment used in the exhibition, making or reproduction of the film and take into custody any person reasonably believed to be in possession thereof.
+34\.—(1) This section provides for the enforcement powers which an enforcement officer may exercise for either or both of the following purposes:
 
-[10/98]
+(a) determining whether the following are being complied with:
 
-(2) Any film, and any equipment used in the exhibition, making or reproduction of the film, in respect of which any person has been convicted under section 29, 30, 31 or 33 shall be forfeited and shall be destroyed or otherwise disposed of in such manner as the Minister may direct.
+(i) the provisions of this Act and its subsidiary legislation;
 
-[29E
+(ii) any conditions imposed on a licence or classification certificate;
 
-[10/98]
+(b) determining whether information furnished to the Authority under a provision of this Act or its subsidiary legislation is correct.
 
-### Minister may prohibit possession or distribution of any film
+(2) However, an enforcement officer is not authorised by this section —
 
-35\.—(1) Notwithstanding the provisions of this Act if the Minister is of the opinion that the possession or distribution of any film would be contrary to the public interest, he may, in his discretion, by order published in theGazetteprohibit the possession or distribution of that film by any person.
+(a) to enter a place for a purpose in subsection (1) unless —
 
-(2) Any person who has in his possession or who distributes any film the possession or distribution of which has been prohibited under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both, and the film shall be destroyed or otherwise disposed of as the Minister thinks fit.
+(i) the occupier of the place consents to the entry; or
+
+(ii) the entry is made under a warrant of a court;
+
+(b) to search a place for a purpose in subsection (1) unless the search is made under a warrant of a court; or
+
+(c) to seize any thing in or on any place for a purpose in subsection (1) unless the seizure is made under a warrant of a court.
+
+(3) Subject to subsection (2), the following are the enforcement powers that an enforcement officer may exercise in relation to a place for a purpose in subsection (1):
+
+(a) to enter any place;
+
+(b) to search the place and any thing in or on the place;
+
+(c) to examine or observe any activity conducted in or on the place;
+
+(d) to inspect and examine any thing in or on the place;
+
+(e) to make any still or moving image or any recording of the place or any thing in or on the place;
+
+(f) to inspect any document in the place and to take extracts from, or make copies of, any such document;
+
+(g) to take into or onto the place such equipment and materials as the enforcement officer requires for the purpose of exercising powers in relation to the place;
+
+(h) to operate electronic equipment in or on the place;
+
+(i) to secure a thing for a period not exceeding 24 hours if the thing is found in or on the place during the exercise of enforcement powers and the enforcement officer believes on reasonable grounds that —
+
+(i) the thing is evidential material, or is intended to be used for the purpose of contravening any conditions imposed on a licence or classification certificate; and
+
+(ii) it is necessary to secure the thing in order to prevent it from being concealed, lost or destroyed before a warrant to seize the thing is obtained;
+
+(j) to seize any thing which is found in or on the place during the exercise of enforcement powers that the enforcement officer reasonably suspects is evidential material;
+
+(k) to require any individual found in or on the place to answer any question (to the best of that individual’s knowledge, information and belief) and to furnish any document or information.
+
+(4) In addition, an enforcement officer may, for a purpose in subsection (1), require any person in Singapore whom the enforcement officer has reason to believe to be acquainted with any facts or circumstances relevant to that purpose to attend before the enforcement officer to answer any question (to the best of that person’s knowledge, information and belief) and to furnish any document or information.
+
+(5) The power under subsection (3)(h) to operate electronic equipment in or on any place includes the power —
+
+(a) to use a disk, tape or other storage device that is in or on the place and can be used with the equipment or in association with the equipment;
+
+(b) to operate electronic equipment in or on the place to put the relevant data in documentary form and remove the documents so produced from the place; and
+
+(c) to operate electronic equipment in or on the place to transfer the relevant data to a disk, tape or other storage device that —
+
+(i) is brought to the place for the exercise of the power; or
+
+(ii) is in or on the place and the use of which for that purpose has been agreed in writing by the occupier of the place,
+
+and to remove the disk, tape or other storage device from that place.
+
+(6) The power under subsection (3)(i) to secure any thing which is found during the exercise of enforcement powers in or on any place includes the power —
+
+(a) to secure the thing by locking it up, placing a guard or any other means; or
+
+(b) to prohibit any person from dealing with such thing.
+
+(7) The power under subsection (3)(j) to seize any thing under warrant includes the power to seize any thing which is similarly so found that is not evidential material of the kind specified in the warrant if —
+
+(a) in the course of searching for the kind of evidential material specified in the warrant, the enforcement officer finds the thing; and
+
+(b) the thing is evidential material for another offence under this Act or its subsidiary legislation.
+
+(8) Sections 370, 371 and 372 of the Criminal Procedure Code (Cap. 68) apply, with the necessary modifications, when an enforcement officer seizes any thing under subsection (3)(j).
+
+(9) However, an individual or person is not subject to a requirement under subsection (3)(k) or (4) if —
+
+(a) the individual or person does not possess the document or information required; or
+
+(b) the individual or person has taken all reasonable steps available to the individual or person to obtain the document or information required and has been unable to obtain it.
+
+(10) Any statement made by any individual in answer to a question under subsection (3)(k) or (4) must —
+
+(a) be reduced to writing;
+
+(b) be read over to the individual;
+
+(c) if the individual does not understand English, be interpreted for the individual in a language that the individual understands; and
+
+(d) after correction, if necessary, be signed by that individual.
+
+(11) An enforcement officer may be assisted by other individuals in exercising enforcement powers under this section or section 34A if that assistance is necessary and reasonable.
+
+(12) The references in this section to documents or information include a reference to any film (whether classified or not) and any advertisement for a film.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Special enforcement powers
+
+34A\.—(1) Despite section 34, a police officer or an enforcement officer may, without warrant, exercise the enforcement powers in that section and special enforcement powers under this section, in relation to a place where the police officer or enforcement officer —
+
+(a) suspects on reasonable grounds that any of the following offences has been or is being committed in or on that place:
+
+(i) an offence under section 6(2) for contravening section 6(1)(c);
+
+(ii) an offence under section 21(1), 29(1), (2), (3) or (4), 30(1) or (2), 31(1) or (2), 32(1), 33 or 35(2); or
+
+(b) has reasonable cause to believe that —
+
+(i) evidence of the commission of an offence mentioned in paragraph (a)(i) or (ii) can be found in or on that place; and
+
+(ii) it is necessary to secure the evidence in order to prevent it from being concealed, lost or destroyed.
+
+(2) The following are the special enforcement powers that a police officer or an enforcement officer may exercise in relation to a place under subsection (1):
+
+(a) to enter the place, using such force as is reasonably necessary to obtain entry to the place, and to search the place;
+
+(b) to detain any individual found in or on the place until the search of the place is complete;
+
+(c) to seize any film, advertisement for a film, document, or equipment which is used in the commission of any offence specified in subsection (1)(a) and found in or on the place, and which the officer reasonably suspects is evidential material.
+
+(3) Any person claiming any thing seized under this section or section 34 may, within 48 hours after the seizure, complain about it to a Magistrate, who may determine the matter as follows:
+
+(a) by confirming or disallowing the seizure in whole or part;
+
+(b) by ordering that the thing seized be restored to its owner, subject to such condition which the Magistrate may think fit to impose to ensure that the seized thing is preserved for any purpose for which it may subsequently be required;
+
+(c) by ordering payment to be made to the owner of the thing seized of such amount as the Magistrate considers will compensate the owner for any loss or depreciation resulting from the seizure.
+
+(4) Subject to subsection (3), sections 370, 371 and 372 of the Criminal Procedure Code (Cap. 68) apply, with the necessary modifications, when a police officer or an enforcement officer seizes any thing under this section or section 34.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### False information and obstruction of performance of official duties
+
+34B\.—(1) If —
+
+(a) a person furnishes a document or gives information (whether orally or in writing) to the Minister, the Authority, the Committee of Appeal, a classification officer or a licensing officer;
+
+(b) the document is furnished, or the statement is made or the information is given, for or in connection with —
+
+(i) an application (whether for that person or for another) for a licence, a permit under section 12 or a renewal of such a licence or permit;
+
+(ii) an application (whether for that person or for another) for approval under section 22A;
+
+(iii) an application to register as a film content assessor under section 19, or to renew such registration;
+
+(iv) a representation made under section 7(5) or 20B(3), or pursuant to a written notice under section 10A(5) or 11(3); or
+
+(v) an appeal under section 24 or 28;
+
+(c) the document, statement or information is false or misleading, or the statement or information omits any matter or thing without which the statement or information, as the case may be, is misleading; and
+
+(d) the person knows, or ought reasonably to know, that the document is false or misleading, or that the statement or information is as described in paragraph (c),
+
+the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(2) Subsection (1) does not apply if the document, statement or information is not false or misleading in a material particular, or if the statement or information does not omit any matter or thing without which the statement or information, as the case may be, is misleading in a material particular.
+
+(3) A person who knowingly obstructs or prevents, or attempts to obstruct or prevent —
+
+(a) a classification officer or a licensing officer in the discharge of his powers or duties under this Act or its subsidiary legislation;
+
+(b) an enforcement officer from exercising any of the officer’s powers under section 23, 34 or 34A; or
+
+(c) a police officer from exercising any of the officer’s powers under section 34A,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(4) A person —
+
+(a) who intentionally alters, suppresses or destroys any document or information which the person has been required by or under section 34(3)(k) or (4) to furnish; or
+
+(b) who, in furnishing any document or information required by or under section 34(3)(k) or (4), makes any statement which the person knows or ought reasonably to know that, or is reckless as to whether, it is false or misleading in a material particular,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(5) A person who, without reasonable excuse, fails to do anything required of the person under section 34(3)(k) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000.
+
+(6) To avoid doubt, for the purposes of subsection (5), it is a reasonable excuse for a person to refuse or fail to produce any document, furnish any information or answer any question if doing so might tend to incriminate that person.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Minister may prohibit possession, exhibition or distribution of any film
+
+35\.—(1) Notwithstanding the provisions of this Act if the Minister is of the opinion that the possession, exhibition or distribution of any film would be contrary to the public interest, he may, in his discretion, by order published in theGazetteprohibit the possession, exhibition or distribution of that film by any person.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(2) Any person who has in his possession or who exhibits or distributes any film the possession, exhibition or distribution of which has been prohibited under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both, and the film shall be destroyed or otherwise disposed of as the Minister thinks fit.
 
 [30
 
+[Act 25 of 2018 wef 29/04/2019]
+
+[Act 25 of 2018 wef 29/04/2019]
+
 ### Protection from personal liability
 
-36\. No suit, prosecution or other legal proceeding shall lie against any person employed in the office of the Board or other person acting under the direction of the Board for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+36\. No liability shall lie personally against any member of the Committee of Appeal who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
 
-[31
+[Act 25 of 2018 wef 29/04/2019]
 
-### Protection of Board and Government from liability
+### Service of documents
 
-37\. Any film deposited in or delivered at any approved warehouse shall be stored therein at the risk and expense of the owner, and neither the Board nor the Government shall be liable for any loss of or damage to the film unless the loss or damage has been caused by some wilful act on the part of the Board, any member thereof, or its staff.
+37\.—(1) A document that is permitted or required by or under this Act to be served on a person may be served as described in this section.
 
-[32
+(2) A document may be served on an individual —
 
-### Officers to be public servants
+(a) by giving it to the individual personally;
 
-38\. All persons employed in the office of the Board and all members of the Committee of Appeal shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(b) by sending it by prepaid registered post to the address specified by the individual for the service of documents or, if no address is so specified, the individual’s residential address or business address;
 
-[33
+(c) by leaving it at the individual’s residential address with an adult person apparently residing there, or at the individual’s business address with an adult person apparently employed there;
+
+(d) by affixing a copy of the document in a conspicuous place at the individual’s residential or business address;
+
+(e) by sending it by fax to the fax number given by the individual as the fax number for the service of documents under this Act; or
+
+(f) by sending it by email to the individual’s email address.
+
+(3) A document may be served on a partnership (other than a limited liability partnership) —
+
+(a) by giving it to any partner or other like officer of the partnership;
+
+(b) by leaving it at, or by sending it by prepaid registered post to, the partnership’s business address;
+
+(c) by sending it by fax to the fax number used at the partnership’s business address; or
+
+(d) by sending it by email to the partnership’s email address.
+
+(4) A document may be served on a body corporate (including a limited liability partnership) or an unincorporated association —
+
+(a) by giving it to the secretary or other like officer of the body corporate or unincorporated association, or the limited liability partnership’s manager;
+
+(b) by leaving it at, or by sending it by prepaid registered post to, the body corporate’s or unincorporated association’s registered office or principal office in Singapore;
+
+(c) by sending it by fax to the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore; or
+
+(d) by sending it by email to the body corporate’s or unincorporated association’s email address.
+
+(5) Service of a document on a person under this section takes effect —
+
+(a) if the document is sent by fax and a notification of successful transmission is received, on the day of the transmission;
+
+(b) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person; and
+
+(c) if the document is sent by prepaid registered post, on the second day after the day the document was posted (even if it is returned undelivered).
+
+(6) A document may be served on a person under this Act by email only with that person’s prior written consent.
+
+(7) This section does not apply to documents to be served in proceedings in court.
+
+(8) In this section —
+
+“business address” means —
+
+(a) in the case of an individual, the individual’s usual or last known place of business in Singapore; and
+
+(b) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;
+
+“email address” means the last email address given by the addressee concerned as the email address for the service of documents under this Act;
+
+“residential address” means an individual’s usual or last known place of residence in Singapore.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Offences by corporations
+
+38\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of a corporation in relation to a particular conduct, evidence that —
+
+(a) an officer, employee or agent of the corporation engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the officer, employee or agent had that state of mind,
+
+is evidence that the corporation had that state of mind.
+
+(2) Where a corporation commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the corporation; or
+
+(ii) an individual involved in the management of the corporation and in a position to influence the conduct of the corporation in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the corporation; or
+
+(iii) knew or ought reasonably to have known that the offence by the corporation (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of that same offence as is the corporation, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the corporation if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof that the corporation would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of the corporation for an offence under this Act, and applies whether or not the corporation is convicted of the offence.
+
+(6) In this section —
+
+“corporation” includes a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
+
+“officer”, in relation to a corporation, means any director, partner, chief executive, manager, secretary or other similar officer of the corporation, and includes —
+
+(a) any person purporting to act in any such capacity; and
+
+(b) for a corporation whose affairs are managed by its members, any of those members as if the member were a director of the corporation;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+(7) This section does not apply to or in relation to an offence under this Act or any of its subsidiary legislation committed by a corporation before the date of commencement of section 22 of the Films (Amendment) Act 2018.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Offences by unincorporated associations or partnerships
+
+38A\.—(1) Where, in a proceeding for an offence under this Act, it is necessary to prove the state of mind of an unincorporated association or a partnership in relation to a particular conduct, evidence that —
+
+(a) an employee or agent of the unincorporated association or partnership engaged in that conduct within the scope of his actual or apparent authority; and
+
+(b) the employee or agent had that state of mind,
+
+is evidence that the unincorporated association or partnership had that state of mind.
+
+(2) Where an unincorporated association or a partnership commits an offence under this Act, a person —
+
+(a) who is —
+
+(i) an officer of the unincorporated association or a member of its governing body;
+
+(ii) a partner in the partnership; or
+
+(iii) an individual involved in the management of the unincorporated association or partnership and in a position to influence the conduct of that unincorporated association or partnership in relation to the commission of the offence; and
+
+(b) who —
+
+(i) consented or connived, or conspired with others, to effect the commission of the offence;
+
+(ii) is in any other way, whether by act or omission, knowingly concerned in, or is party to, the commission of the offence by the unincorporated association or partnership; or
+
+(iii) knew or ought reasonably to have known that the offence by the unincorporated association or partnership (or an offence of the same type) would be or is being committed, and failed to take all reasonable steps to prevent or stop the commission of that offence,
+
+shall be guilty of that same offence as is the unincorporated association or partnership, and shall be liable on conviction to be punished accordingly.
+
+(3) A person mentioned in subsection (2) may rely on a defence that would be available to the unincorporated association or partnership if it were charged with the offence with which the person is charged and, in doing so, the person bears the same burden of proof as that unincorporated association or partnership would bear.
+
+(4) To avoid doubt, this section does not affect the application of —
+
+(a) Chapters V and VA of the Penal Code (Cap. 224); or
+
+(b) the Evidence Act (Cap. 97) or any other law or practice regarding the admissibility of evidence.
+
+(5) To avoid doubt, subsection (2) also does not affect the liability of an unincorporated association or a partnership for an offence under this Act, and applies whether or not that unincorporated association or partnership is convicted of the offence.
+
+(6) In this section —
+
+“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary, or any member of the committee of the unincorporated association, and includes —
+
+(a) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association; and
+
+(b) any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner;
+
+“state of mind” of a person includes —
+
+(a) the knowledge, intention, opinion, belief or purpose of the person; and
+
+(b) the person’s reasons for the intention, opinion, belief or purpose.
+
+(7) This section does not apply to or in relation to an offence under this Act or any of its subsidiary legislation committed by an unincorporated association or a partnership before the date of commencement of section 22 of the Films (Amendment) Act 2018.
+
+[Act 25 of 2018 wef 29/04/2019]
+
+### Composition of offences
+
+38B\.—(1) An enforcement officer may compound any offence under this Act that is prescribed as a compoundable offence, by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
+
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
+
+(b) $5,000.
+
+(2) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
+
+(3) All sums collected under this section must be paid into the Consolidated Fund.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Court for trial of offence
 
@@ -740,23 +2296,19 @@ knowing or having reasonable cause to believe the film to be a party political f
 
 [Act 22 of 2016 wef 01/10/2016]
 
-### Exemptions
+### Exemption from Act
 
-40\.—(1) This Act shall not apply to —
+40\.—(1) This Act does not apply to or in relation to any film that is made, distributed or exhibited by or under the direction and control of the Government.
 
-(a) any film sponsored by the Government;
+(2) The Minister may, by notification in theGazetteand subject to such conditions as the Minister thinks fit to specify in that notification, exempt from all or any of the provisions of this Act —
 
-(b) any film, not being an obscene film or a party political film or any feature, commercial, documentary or overseas television serial film, which is made by an individual and is not intended for distribution or public exhibition; and
+(a) any person or class of persons;
 
-(c) any film reproduced from local television programmes and is not intended for distribution or public exhibition.
+(b) any film or class of films; or
 
-[10/98]
+(c) any advertisement for a film or class of such advertisements.
 
-(2) The Minister may, subject to such conditions as he thinks fit, exempt any person or class of persons or any film or class of films from all or any of the provisions of this Act.
-
-(3) An exemption granted under this section may be withdrawn at any time.
-
-[35
+[Act 25 of 2018 wef 29/04/2019]
 
 ### Regulations
 
@@ -766,15 +2318,49 @@ knowing or having reasonable cause to believe the film to be a party political f
 
 (a) prescribe fees to be charged under this Act;
 
-(b) regulate the conduct of the business of importing, making, distributing or exhibiting films by persons holding licences granted under this Act;
+(b) prescribe the duties of licensees in importing, distributing or publicly exhibiting films in the course of business;
+
+[Act 25 of 2018 wef 29/04/2019]
 
 (c) prescribe the kind and amount of security to be given under this Act;
 
-(d) provide that all cinemas or any class of cinemas shall show not less than the prescribed number or prescribed proportion of films of a specified class or from a specified country of origin; and
+(d) provide that all cinemas or any class of cinemas shall show not less than the prescribed number or prescribed proportion of films of a specified class or from a specified country of origin;
 
-(e) provide that all cinemas or any class of cinemas shall show not more than a prescribed number or a prescribed proportion of films of a specified class or from a specified country of origin.
+[Act 25 of 2018 wef 29/04/2019]
+
+(e) provide that all cinemas or any class of cinemas shall show not more than a prescribed number or a prescribed proportion of films of a specified class or from a specified country of origin;
 
 [36
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(f) prescribe the manner in which classification labels, classification ratings and consumer advice (if any) are to be affixed to a film, displayed in any film, or displayed in an advertisement for a film;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(g) require the appointment by licensees of film content assessors registered under section 19;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(h) prescribe the duties of persons registered as film content assessors in connection with the assessment of the content of films;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(i) prescribe circumstances in which an assessment by a film content assessor is taken to be misleading, incorrect or grossly inadequate, or to contain misleading, incorrect or grossly inadequate information;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(j) provide for the manner in which an appeal may be made to the Minister or the Committee of Appeal under section 24 or 28, as the case may be, and the procedure to be adopted in hearing such appeals;
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(k) provide that any contravention of any provision of the regulations shall be an offence punishable with a fine not exceeding $5,000; and
+
+[Act 25 of 2018 wef 29/04/2019]
+
+(l) provide for such transitional, saving and other consequential, incidental and supplemental provisions as the Minister considers necessary or expedient.
+
+[Act 25 of 2018 wef 29/04/2019]
 
 ## LEGISLATIVE HISTORY
 
@@ -822,3 +2408,7 @@ This Legislative History is provided for the convenience of users of the Films A
 ||Date of Second Reading|16 August 2016|
 ||Date of Third Reading|17 September 2016|
 ||Date of commencement|1 October 2016|
+|9.|**Act 25 of 2018—Films (Amendment) Act 2018**|
+||Date of First Reading|27 February 2018 (Bill No. 10/2018 published on 27 February 2018)|
+||Date of Second and Third Readings|21 March 2018|
+||Date of commencement|29 April 2019|
