@@ -6950,11 +6950,31 @@ the person shall disclose the following in such form and manner, and within such
 
 [28/2007 wef 01/07/2007]
 
+18.—(1) The Comptroller may, in respect of an application for a ruling made on or after 1 May 2019, publish a summary of the ruling with the express consent of the applicant.
+
+(2) For the purpose of sub‑paragraph (1) —
+
+(a) the summary must set out the tax position of the ruling in a general manner; and
+
+(b) the Comptroller must take reasonable care to ensure that the summary does not permit the applicant, the arrangement to which the ruling relates or any party to the arrangement to be identified.
+
+[S 289/2019 wef 01/05/2019]
+
 Part II
 
-1. The fees specified in respect of an application for a ruling made in accordance with Part I are —
+1.—(1) The fees specified in respect of an application for a ruling made in accordance with Part I are —
 
-(a) a non-refundable application fee of $620 (inclusive of tax), which shall accompany the application;
+(a) a non-refundable application fee of $660 (inclusive of tax), which shall accompany the application;
+
+[S 129/2012 wef 01/04/2012]
+
+[S 119/2014 wef 03/03/2014]
+
+[S 302/2016 wef 01/07/2016]
+
+[S 289/2019 wef 01/05/2019]
+
+(b) a further fee, calculated at $165 (inclusive of tax) per hour (or any part of an hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
 
 [S 129/2012 wef 01/04/2012]
 
@@ -6962,13 +6982,7 @@ Part II
 
 [S 302/2016 wef 01/07/2016]
 
-(b) a further fee, calculated at $155 (inclusive of tax) per hour (or any part of an hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
-
-[S 129/2012 wef 01/04/2012]
-
-[S 119/2014 wef 03/03/2014]
-
-[S 302/2016 wef 01/07/2016]
+[S 289/2019 wef 01/05/2019]
 
 (c) an additional fee (inclusive of tax), of up to 2 times the aggregate fee under sub-paragraphs (a) and (b), for the Comptroller to give priority to the application and to expedite his consideration thereof; and
 
@@ -6980,9 +6994,25 @@ Part II
 
 [28/2007 wef 01/07/2007]
 
-2. If an application for a ruling is withdrawn, the applicant shall be liable to pay all fees incurred before the Comptroller received notice of the withdrawal.
+[S 289/2019 wef 01/05/2019]
 
-[28/2007 wef 01/07/2007]
+(2) If an application for a ruling is withdrawn, the applicant is liable to pay any fees under sub‑paragraph (1)(b), (c) and (d) that are incurred up to the time the Comptroller receives the notice of the withdrawal from the applicant.
+
+[S 289/2019 wef 01/05/2019]
+
+2.—(1) This paragraph applies to any application for a ruling made on or after 1 May 2019.
+
+(2) When the Comptroller informs the applicant that the Comptroller agrees to make a ruling on the application, unless the application is withdrawn, the applicant must pay any further fee and additional fee which may apply to the application under paragraph 1(1), in amounts estimated by the Comptroller.
+
+(3) The Comptroller may at any time increase any amount estimated for any such fee and, unless the application is withdrawn, the applicant must pay the increase.
+
+(4) Upon the application being withdrawn or the Comptroller making a ruling, as the case may be —
+
+(a) if the further fee or additional fee for the application under paragraph 1(1) is more than the amount already paid as that fee, the applicant must pay the difference between those amounts for that fee; and
+
+(b) if the amount already paid as the further fee or additional fee is more than the amount of that fee for the application under paragraph 1(1), the Authority must refund the applicant the difference between those amounts for that fee.
+
+[S 289/2019 wef 01/05/2019]
 
 3. The Comptroller shall ensure as far as is reasonably practicable that every effort is made to minimise the fees to which an applicant is liable in respect of an application for a ruling.
 
@@ -7519,6 +7549,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 January 2019|
 |60.|**G.N. No. S 35/2019—Goods and Services Tax Act (Amendment of Fourth Schedule) Order 2019**|
 ||Date of commencement|17 January 2019|
+|61.|**G.N. No. S 289/2019—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2019**|
+||Date of commencement|1 May 2019|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
