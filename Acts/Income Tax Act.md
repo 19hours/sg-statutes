@@ -2360,9 +2360,9 @@ then that amount shall be deemed as income derived by that person from those ser
 
 (1B) Notwithstanding subsection (1A), the person referred to in that subsection may elect in accordance with subsection (1D) for the Comptroller to assess to tax any deemed income referred to in subsection (1A) from providing any FRS 11 construction or upgrade services, FRS 115 construction or upgrade services, or SFRS(I) 15 construction or upgrade services, under the public-private partnership arrangement, as income derived by him in the basis period in which those services are completed.
 
-[Act 39 of 2017 wef 26/10/2017]
-
 [19/2013]
+
+[Act 39 of 2017 wef 26/10/2017]
 
 [Act 32 of 2019 wef 12/11/2018]
 
@@ -4746,6 +4746,8 @@ where the mobilisation, holding or demobilisation is undertaken by the approved 
 
 (q) on or after the date the Income Tax (Amendment No. 3) Act 2016 is published in theGazette, from foreign exchange and risk management activities that are carried out in connection with and incidental to an activity mentioned in subsection (1)(f), (h), (i) or (j);
 
+[Act 34 of 2016 wef 29/12/2016]
+
 [Act 32 of 2019 wef 12/12/2018]
 
 (r) on or after 12 December 2018 from —
@@ -4761,8 +4763,6 @@ where the mobilisation, holding or demobilisation is undertaken by the approved 
 [Act 32 of 2019 wef 12/12/2018]
 
 (s) on or after 12 December 2018 from foreign exchange and risk management activities which are carried out in connection with and incidental to an activity mentioned in paragraph (r).
-
-[Act 34 of 2016 wef 29/12/2016]
 
 [Act 32 of 2019 wef 12/12/2018]
 
@@ -6576,11 +6576,11 @@ arising from funds of the master fund or any feeder fund of that structure, that
 
 (vii) the taxable entity of an approved eligible SPV of the structure, where the eligible SPV is not a legal entity,
 
+[Act 32 of 2019 wef 19/02/2019]
+
 arising from funds of the master fund or any feeder fund of the structure that are managed in Singapore by a fund manager; or
 
 [Act 2 of 2016 wef 01/04/2015]
-
-[Act 32 of 2019 wef 19/02/2019]
 
 (d) in relation to an approved master fund‑SPV structure —
 
@@ -6608,7 +6608,11 @@ arising from funds of the master fund or any feeder fund of the structure that a
 
 (vii) the taxable entity of an approved eligible SPV of the structure, where the eligible SPV is not a legal entity,
 
+[Act 32 of 2019 wef 19/02/2019]
+
 arising from funds of the master fund of the structure that are managed in Singapore by a fund manager.
+
+[Act 2 of 2016 wef 01/04/2015]
 
 [Act 2 of 2016 wef 01/04/2015]
 
@@ -27212,15 +27216,29 @@ the person shall disclose in the return —
 
 (iii) any material changes to the arrangement identified in the ruling.
 
+18.—(1) The Comptroller may, in respect of an application for a ruling made on or after 1 May 2019, publish a summary of the ruling with the express consent of the applicant.
+
+(2) For the purpose of sub-paragraph (1) —
+
+(a) the summary must set out the tax position of the ruling in a general manner; and
+
+(b) the Comptroller must take reasonable care to ensure that the summary does not permit the applicant, the arrangement to which the ruling relates or any party to the arrangement to be identified.
+
+[S 290/2019 wef 01/05/2019]
+
 Part II
 
-1. The fees specified in respect of an application for a ruling made in accordance with Part I are as follows:
+1.—(1) The fees specified in respect of an application for a ruling made in accordance with Part I are as follows:
 
-(a) a non-refundable application fee of $620 (inclusive of goods and services tax), which must accompany the application;
+(a) a non-refundable application fee of $660 (inclusive of goods and services tax), which must accompany the application;
+
+[S 290/2019 wef 01/05/2019]
 
 [S 303/2016 wef 01/07/2016]
 
-(b) a further fee, calculated at $155 (inclusive of goods and services tax) per hour (or part hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+(b) a further fee, calculated at $165 (inclusive of goods and services tax) per hour (or part hour), beyond the first 4 hours, spent in consideration of the application by the Comptroller, including any time spent by the Comptroller in consulting with the applicant;
+
+[S 290/2019 wef 01/05/2019]
 
 [S 303/2016 wef 01/07/2016]
 
@@ -27232,7 +27250,25 @@ Part II
 
 (ii) any costs and reasonable disbursements incurred by the Comptroller in relation to the ruling.
 
-2\. If an application for a ruling is withdrawn, the applicant is liable to pay all fees incurred before the Comptroller received notice of the withdrawal.
+[S 290/2019 01/05/2019]
+
+(2) If an application for a ruling is withdrawn, the applicant is liable to pay any fees under sub-paragraph (1)(b), (c) and (d) that are incurred up to the time the Comptroller receives the notice of the withdrawal from the applicant.
+
+[S 290/2019 wef 01/05/2019]
+
+2.—(1) This paragraph applies to any application for a ruling made on or after 1 May 2019.
+
+(2) When the Comptroller informs the applicant that the Comptroller agrees to make a ruling on the application, unless the application is withdrawn, the applicant must pay any further fee and additional fee which may apply to the application under paragraph 1(1), in amounts estimated by the Comptroller.
+
+(3) The Comptroller may at any time increase any amount estimated for any such fee and, unless the application is withdrawn, the applicant must pay the increase.
+
+(4) Upon the application being withdrawn or the Comptroller making a ruling, as the case may be —
+
+(a) if the further fee or additional fee for the application under paragraph 1(1) is more than the amount already paid as that fee, the applicant must pay the difference between those amounts for that fee; and
+
+(b) if the amount already paid as the further fee or additional fee is more than the amount of that fee for the application under paragraph 1(1), the Authority must refund the applicant the difference between those amounts for that fee.
+
+[S 290/2019 wef 01/05/2019]
 
 3. The Comptroller must ensure as far as is reasonably practicable that every effort is made to minimise the fees to which an applicant is liable in respect of an application for a ruling.
 
@@ -28312,6 +28348,8 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 January 2019|
 |||19 February 2019|
 |||1 April 2019|
+|206.|**G.N. No. S 290/2019—Income Tax Act (Amendment of Seventh Schedule) Order 2019**|
+||Date of commencement|1 May 2019|
 ## COMPARATIVE TABLE
 
 Income Tax Act
