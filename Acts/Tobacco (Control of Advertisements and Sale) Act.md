@@ -865,11 +865,15 @@ shall be deemed to be a tobacco product that a person must not import into Singa
 
 (5) A person who contravenes subsection (1), (2), (3) or (4) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $5,000, unless paragraph (b) applies; or
+(a) to a fine not exceeding $10,000, unless paragraph (b) applies; or
 
-(b) if the person has any previous qualifying conviction, to a fine not exceeding $10,000.
+[Act 9 of 2019 wef 01/05/2019]
+
+(b) if the person has any previous qualifying conviction, to a fine not exceeding $20,000.
 
 [Act 46 of 2017 wef 01/01/2018]
+
+[Act 9 of 2019 wef 01/05/2019]
 
 (6) In subsection (5), “qualifying conviction” means —
 
@@ -1209,25 +1213,23 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Composition of offences
 
-34\.—(1) The Chief Executive or any person authorised by the Chief Executive in writing may, in his discretion and subject to such conditions as he considers fit to impose, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding —
+34\.—(1) Subject to subsection (3), the Chief Executive or any person authorised by the Chief Executive in writing may compound any offence under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding the lower of the following:
 
-(a) one half of the amount of the maximum fine that is prescribed for the offence; or
+(a) one half of the amount of the maximum fine that is prescribed for the offence;
 
-(b) $2,000,
+(b) $5,000.
 
-whichever is the lower.
+[Act 9 of 2019 wef 01/05/2019]
 
-[4/2001; 35/2002]
+(1A) On payment of such sum of money, no further proceedings are to be taken against that person in respect of the offence.
 
-[17/2010]
+[Act 9 of 2019 wef 01/05/2019]
 
 (2) The Minister may make regulations to prescribe the offences which may be compounded.
 
-(3) Where the person reasonably suspected of having committed an offence under this Act was an under‑aged person at the time of the alleged offence, a condition that may be imposed under subsection (1) in compounding the offence includes requiring the person and his parents or guardian to attend at such place as the Chief Executive may specify for the purpose of counselling.
+(3) Where the person reasonably suspected of having committed an offence under this Act was an under-aged person at the time of the alleged offence (called the under-aged offender), the offence may be compounded if the under-aged offender and the parents or guardian of the under-aged offender first attend counselling at such place as the Chief Executive may specify.
 
-[35/2002]
-
-[Act 46 of 2017 wef 01/01/2019]
+[Act 9 of 2019 wef 01/05/2019]
 
 ### Fees, charges, etc., collected by Chief Executive or authorised officer
 
@@ -1377,6 +1379,10 @@ This Legislative History is provided for the convenience of users of the Tobacco
 ||Date of First Reading|2 October 2017 (Bill No. 40/2017 published on 2 October 2017)|
 ||Date of Second and Third Readings|7 November 2017|
 ||Date of commencement|1 January 2019|
+|19.|**Act 9 of 2019—Tobacco (Control of Advertisements and Sale) (Amendment) Act 2019**|
+||Date of First Reading|14 January 2019 (Bill No. 3/2019 published on 14 January 2019)|
+||Date of Second and Third Readings|11 February 2019|
+||Date of commencement|1 May 2019|
 ## COMPARATIVE TABLE
 
 Tobacco (Control of Advertisements and Sale) Act
