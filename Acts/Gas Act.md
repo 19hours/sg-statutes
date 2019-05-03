@@ -82,6 +82,8 @@
 
 - [32A Damage to gas plant or gas pipe](#Damage-to-gas-plant-or-gas-pipe)
 
+- [32B Damage to submarine gas pipelines](#Damage-to-submarine-gas-pipelines)
+
 - [33 Special administration order](#Special-administration-order)
 
 - [34 Power to make special administration order, etc.](#Power-to-make-special-administration-order-etc)
@@ -172,6 +174,8 @@
 
 - [63C Approval of applications under section 63B](#Approval-of-applications-under-section-63B)
 
+- [63CA Regulations for carrying out sections 63B and 63C](#Regulations-for-carrying-out-sections-63B-and-63C)
+
 - [63D Power to exempt](#Power-to-exempt)
 
 - [63E Power to issue directions](#Power-to-issue-directions)
@@ -194,6 +198,20 @@
 
 - [68 Power to reduce supply pressure](#Power-to-reduce-supply-pressure)
 
+[**Part VIIIA SEVERE GAS SHORTAGE**](#Part-VIIIA)
+
+- [68A Meaning of "severe gas shortage situation"](#Meaning-of-"severe-gas-shortage-situation")
+
+- [68B Directions by Authority](#Directions-by-Authority)
+
+- [68C Requests for information, etc.](#Requests-for-information-etc)
+
+- [68D Regulations for this Part, etc.](#Regulations-for-this-Part-etc)
+
+- [68E Appeals to High Court](#Appeals-to-High-Court)
+
+- [68F Recovery of compensation](#Recovery-of-compensation)
+
 [**Part IX COMPETITION**](#Part-IX)
 
 - [69 Agreements, etc., preventing, restricting or distorting competition](#Agreements-etc-preventing-restricting-or-distorting-competition)
@@ -203,6 +221,8 @@
 - [71 Exemption](#Exemption)
 
 - [72 Request for Authority to examine agreement or to consider conduct, etc.](#Request-for-Authority-to-examine-agreement-or-to-consider-conduct-etc)
+
+- [72A Guidelines](#Guidelines)
 
 - [73 Power to investigate](#Power-to-investigate)
 
@@ -247,6 +267,8 @@
 - [91 General penalties](#General-penalties)
 
 - [92 Composition of offences](#Composition-of-offences)
+
+- [92A Payment into Consolidated Fund](#Payment-into-Consolidated-Fund)
 
 - [93 Appeal to Minister](#Appeal-to-Minister)
 
@@ -304,7 +326,9 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Appeal Panel” means a panel established by the Minister under section 83;
+“Appeal Panel” means a panel established by the Minister under section 84;
+
+[Act 43 of 2018 wef 03/05/2019]
 
 “appointed day” means —
 
@@ -348,9 +372,13 @@ PRELIMINARY
 
 “earthworks” means —
 
-(a) any act of excavating earth, rock, or other material (by whatever means) in connection with —
+(a) any act of excavating earth, rock or other material (by whatever means);
 
-(i) any work for or relating to the construction, reconstruction, extension, renovation, alteration, demolition or repair of any building, road, railway, bridge, viaduct, flyover, sewer or sewage works;
+[Act 43 of 2018 wef 03/05/2019]
+
+(aa) any act done on, in or under the ground in connection with —
+
+(i) any work for or relating to the construction, reconstruction, extension, renovation, alteration, demolition or repair of any building, road, railway, bridge, viaduct, flyover, sewer or sewerage works;
 
 (ii) any work for or relating to the laying, inspecting, repairing or renewing of any main, pipe, cable, fitting or other apparatus;
 
@@ -358,11 +386,15 @@ PRELIMINARY
 
 (iv) such other works as are usually undertaken by a person carrying on business as a contractor in the construction industry or as a professional civil or structural engineer;
 
+[Act 43 of 2018 wef 03/05/2019]
+
 (b) any act of boring, dredging, jacking, levelling, piling or tunnelling on or under any premises or street by any mechanical means; or
 
-(c) the driving or sinking of any earth rod, casing or tube into the ground;
+(c) the driving or sinking of any bar, rod, pole, picket, casing or tube into the ground;
 
 [24/2007 wef 11/06/2007]
+
+[Act 43 of 2018 wef 03/05/2019]
 
 “electronic records” has the same meaning as in the Electronic Transactions Act (Cap. 88);
 
@@ -498,6 +530,10 @@ PRELIMINARY
 
 “meter” means any device for computing the volume of gas supplied or amount of energy supplied, for charging purposes, but does not include a check meter;
 
+“meter installation” means any meter and its associated equipment and installation, including any associated pipework, filter, valve, pressure regulating equipment, seal, housing, mounting, telemetry equipment, gas chromatograph and flow computer;
+
+[Act 43 of 2018 wef 03/05/2019]
+
 “natural gas” means any mixture of gaseous hydrocarbons which is conveyed by gas pipes and is composed of —
 
 (a) predominantly methane; and
@@ -604,7 +640,9 @@ ADMINISTRATION
 
 (iii) the quality of gas supply services provided;
 
-(b) to protect the public from dangers arising from the production, processing, storage, conveyance, shipping, supply or use of gas;
+(b) to protect the public from dangers (including to health) arising from the import, production, processing, storage, conveyance, shipping, supply or use of gas;
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (c) to secure that gas licensees whose prices are controlled by the Authority are able to provide an efficient service and maintain financial viability;
 
@@ -613,6 +651,10 @@ ADMINISTRATION
 (e) to promote competition in the supply of natural gas;
 
 (f) to perform the functions of economic, technical and safety regulator for the gas industry in Singapore;
+
+(fa) to ensure security of supply of gas to consumers and to arrange for the secure operation of the gas transmission network in accordance with the Gas Network Code or other codes of practice;
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (g) to advise the Government on all matters relating to the production, processing, storage, conveyance, shipping, supply or use of gas; and
 
@@ -1324,13 +1366,15 @@ by which gas is conveyed to a consumer’s premises, whether or not the gas serv
 
 ### Carrying out of earthworks within vicinity of gas plant or gas pipe
 
-32\.—(1) Subject to this section, no person other than a gas transporter shall commence or carry out, or cause or permit the commencement or carrying out of, any earthworks within the vicinity of any gas plant or gas pipe in a gas pipeline network owned by, or under the management or control of, the gas transporter unless the person —
+32\.—(1) Subject to this section, no person shall commence or carry out, or cause or permit the commencement or carrying out of, any earthworks within the vicinity of any gas plant or gas pipe in a gas pipeline network owned by, or under the management or control of, a gas transporter unless the person —
 
 (a) has given to the gas transporter not less than 7 days’ notice in writing of the date on which it is proposed to commence the earthworks;
 
 (b) has obtained from the gas transporter the necessary information on the location of the gas plant or gas pipe; and
 
 (c) has consulted the gas transporter on the steps to be taken to prevent the gas plant or gas pipe from being damaged while the earthworks are being carried out.
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (2) The Authority may, if it thinks fit in any particular case, modify the period for which a notice under subsection (1)(a) is to be given to a gas transporter.
 
@@ -1352,6 +1396,10 @@ by which gas is conveyed to a consumer’s premises, whether or not the gas serv
 
 (5) Nothing in subsection (1) shall prohibit a person from commencing or carrying out, or causing or permitting the commencement or carrying out of, any earthworks where he has reasonable cause to believe that it is necessary to do so in the interest of public or private safety.
 
+(5A) Subsection (1) does not prohibit a gas transporter from commencing or carrying out earthworks within the vicinity of any gas plant or gas pipe in a gas pipeline network owned by, or under the management or control of, the gas transporter.
+
+[Act 43 of 2018 wef 03/05/2019]
+
 (6) The person referred to in subsection (5) shall, as soon as practicable but not more than 24 hours after the earthworks have been commenced or carried out, give to the gas transporter notice in writing stating the nature and extent of those earthworks.
 
 (7) Any person who contravenes subsection (1), (3) or (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
@@ -1368,99 +1416,161 @@ by which gas is conveyed to a consumer’s premises, whether or not the gas serv
 
 ### Damage to gas plant or gas pipe
 
-32A\.—(1) Any person who wilfully or recklessly removes, destroys, damages or suffers to be damaged any gas plant or gas pipe in a gas pipeline network owned by, or under the management or control of, a gas transporter or hinders or prevents the gas plant or gas pipe from being used or operated in the manner in which it is intended to be used or operated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or to both.
+32A\.—(1) Any person who —
 
-(2) Notwithstanding subsection (1), any person who, in the course of carrying out any earthworks, damages or suffers to be damaged any gas plant or gas pipe in a gas pipeline network owned by, or under the management or control of, a gas transporter shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or to both.
+(a) removes, destroys or damages any gas plant or gas pipe which is part of a gas pipeline network owned by, or under the management or control of, a gas licensee;
 
-(3) Where an offence under subsection (2) is committed by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under that subsection in the same manner and to the same extent as if he had personally committed the offence unless he proves to the satisfaction of the court that the offence was committed without his consent or connivance or that it was not attributable to any neglect on his part.
+(b) causes or permits the removal, destruction or damage of such gas plant or gas pipe; or
 
-(4) In any proceedings for an offence under subsection (2), it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+(c) in any way other than by paragraph (a) or (b), wilfully or recklessly hinders or prevents such gas plant or gas pipe from being used or operated in the manner in which it is intended to be used or operated,
 
-(5) If in any proceedings for an offence under subsection (2), the defence involves acting on information supplied by a gas transporter, the person charged shall not, without leave of the court, be entitled to rely on that defence unless he has, within 14 clear days before the hearing, served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of the person who supplied him with the information.
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(2) [Deleted by Act 43 of 2018 wef 03/05/2019]
+
+(3) [Deleted by Act 43 of 2018 wef 03/05/2019]
+
+(4) In any proceedings for an offence under subsection (1)(a) or (b), it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(5) If in any proceedings for an offence under subsection (1)(a) or (b), the defence involves acting on information supplied by a gas transporter, the person charged shall not, without leave of the court, be entitled to rely on that defence unless he has, within 14 clear days before the hearing, served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of the person who supplied him with the information.
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (6) Any person may apprehend any other person if the other person within his view commits an offence under this section and shall, on such apprehension, hand over the person so apprehended to a police officer without unreasonable delay.
 
 [24/2007 wef 14/02/2008]
 
+### Damage to submarine gas pipelines
+
+32B\. Any person who wilfully, recklessly or negligently —
+
+(a) does any act, or permits or causes any act to be done, which damages or is likely to damage any submarine gas pipeline in the territorial waters of Singapore that is owned by, or under the management or control of, a gas licensee; or
+
+(b) omits to do anything required to prevent any damage to such submarine gas pipeline,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2 million or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 43 of 2018 wef 03/05/2019]
+
 ### Special administration order
 
-33\.—(1) A special administration order is an order of the Minister made under section 34(1) in relation to a gas transporter or an LNG terminal operator directing that, during the period for which the order is in force, the affairs, business and property of that gas transporter or LNG terminal operator shall be managed directly or indirectly by the Authority —
+33\.—(1) A special administration order is an order of the Minister made under section 34(1) in relation to a gas licensee directing that, during the period for which the order is in force, all or any of the affairs, business and property of that gas licensee shall be managed directly or indirectly by the Authority —
 
 (a) for securing one or more of the purposes of such an order set out in subsection (2); and
 
-(b) in a manner which protects the respective interests of the shareholders and creditors of the gas transporter and relevant gas shippers, or of the LNG terminal operator, as the case may be.
+(b) in a manner which protects the respective interests of the shareholders and creditors of that gas licensee.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (2) The purposes referred to in subsection (1)(a) are —
 
-(a) the security or reliability —
+(a) the security or reliability of the supply of gas to the public;
 
-(i) in the case of a gas transporter, of the conveyance of gas by the gas transporter to consumers’ premises; or
+[Act 43 of 2018 wef 03/05/2019]
 
-(ii) in the case of an LNG terminal operator, of the services provided by the LNG terminal operator;
+(b) the survival of the gas licensee, or the whole or part of its business or undertaking for which it is authorised by its licence to carry on, as a going concern;
 
-(b) the survival of the gas transporter or LNG terminal operator, or the whole or part of its licensed gas business, as a going concern;
+[Act 43 of 2018 wef 03/05/2019]
 
-(c) the transfer to another company, or (with respect to different parts of any undertaking of the gas transporter or LNG terminal operator) to 2 or more different companies, as a going concern, of so much of any undertaking of the gas transporter or LNG terminal operator as is necessary to transfer in order to ensure that the functions and duties which have been vested in the gas transporter or LNG terminal operator by virtue of its licence may be properly carried out; or
+(c) the transfer to another company, or (with respect to different parts of the area to which the gas licensee’s licence relates, or different parts of its business or undertaking) to 2 or more different companies, as a going concern, of such of the gas licensee’s undertakings as is necessary to transfer in order to ensure that the functions and duties which have been vested in the gas licensee by virtue of its licence may be properly carried out; or
 
-(d) the carrying out of the functions and duties which have been vested in the gas transporter or LNG terminal operator pending the making of the transfer and the vesting of those functions and duties in the other company or companies.
+[Act 43 of 2018 wef 03/05/2019]
 
-(3) The Minister may make regulations for giving effect to this section and section 34, including regulations governing any undertaking referred to in subsection (2)(c), and making provision for applying, omitting or modifying provisions of Part VIIIA of the Companies Act (Cap. 50) where a special administration order is made.
+(d) the carrying out of the functions and duties which have been vested in the gas licensee pending the making of the transfer and the vesting of those functions and duties in the other company or companies.
 
-(4) In this section, “relevant gas shipper” means a gas shipper who ships gas by means of a gas pipeline network owned by, or under the management or control of, a gas transporter in relation to whom a special administration order is made under section 34(1).
+[Act 43 of 2018 wef 03/05/2019]
 
-[24/2007 wef 11/06/2007]
+(3) The Minister may make regulations for giving effect to this section and section 34, including regulations governing the transfer of the gas licensee’s business or undertaking referred to in subsection (2)(c), and making provision for applying, omitting or modifying provisions of Part VIIIA of the Companies Act (Cap. 50) where a special administration order is made.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(4) [Deleted by Act 43 of 2018 wef 03/05/2019]
 
 ### Power to make special administration order, etc.
 
-34\.—(1) If, on an application made to the Minister by the Authority, the Minister is satisfied that any one or more of the grounds specified in subsection (2) are satisfied in relation to a gas transporter or an LNG terminal operator, the Minister may make any one or more of the following orders:
+34\.—(1) If, on an application made to the Minister by the Authority, the Minister is satisfied that any one or more of the grounds specified in subsection (2) are satisfied in relation to a gas licensee, the Minister may make any one or more of the following orders:
 
-(a) a special administration order in relation to the gas transporter or LNG terminal operator;
+(a) a special administration order in relation to the gas licensee;
 
-(b) an order requiring the gas transporter or LNG terminal operator to immediately take any action or do or not do any act or thing in relation to its licensed gas business as the Minister may consider necessary;
+[Act 43 of 2018 wef 03/05/2019]
 
-(c) an order appointing a person to advise the gas transporter or LNG terminal operator on the proper conduct of its licensed gas business.
+(b) an order requiring the gas licensee to immediately take any action or do or not do any act or thing in relation to that part of its business or undertaking to which its gas licence relates as the Minister may consider necessary;
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(c) an order appointing a person to advise the gas licensee on the proper conduct of that part of its business or undertaking to which its gas licence relates.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (2) The grounds referred to in subsection (1) are —
 
-(a) the gas transporter or LNG terminal operator is or is likely to be unable to pay its debts;
+(a) the gas licensee is or is likely to be unable to pay its debts;
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (b) the occurrence of a public emergency;
 
-(c) the Minister considers it in the interest of the security or reliability —
+(c) the Minister considers it in the interest of the security or reliability of the supply of gas to the public; or
 
-(i) in the case of a gas transporter, of the conveyance of gas by the gas transporter to consumers’ premises; or
-
-(ii) in the case of an LNG terminal operator, of the services provided by the LNG terminal operator; or
+[Act 43 of 2018 wef 03/05/2019]
 
 (d) the Minister otherwise considers it in the public interest.
 
 (3) Notice of any application under subsection (1) shall be given immediately by the Authority to such persons and in such manner as may be determined by the Authority.
 
+(3A) Any order made by the Minister under subsection (1) must be published in such manner as will secure adequate publicity.
+
+[Act 43 of 2018 wef 03/05/2019]
+
 (4) Any decision of the Minister under subsection (1) shall be final.
 
-(5) For the purposes of this section, a gas transporter or an LNG terminal operator, being a company, is unable to pay its debts if it is deemed to be so unable under section 254(2) of the Companies Act (Cap. 50).
+(5) For the purposes of this section, a gas licensee, being a company, is unable to pay its debts if it is deemed to be so unable under section 254(2) of the Companies Act (Cap. 50).
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (6) Notwithstanding any written law —
 
-(a) a gas transporter or an LNG terminal operator shall not be wound up voluntarily without the consent of the Authority;
+(a) a gas licensee shall not be wound up voluntarily without the consent of the Authority;
 
-(b) no judicial management order under Part VIIIA of the Companies Act shall be made in relation to a gas transporter or an LNG terminal operator;
+[Act 43 of 2018 wef 03/05/2019]
 
-(c) no step shall be taken by any person to enforce any security over a gas transporter’s or an LNG terminal operator’s property except where that person has served 14 days’ notice in writing of his intention to take that step on the Authority; and
+(b) no judicial management order under Part VIIIA of the Companies Act shall be made in relation to a gas licensee without the consent of the Authority;
 
-(d) no step shall be taken by any person to execute or enforce a judgment or order of court obtained against a gas transporter or an LNG terminal operator, except where that person has served 14 days’ notice in writing of his intention to take that step on the Authority.
+[Act 43 of 2018 wef 03/05/2019]
 
-(7) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of a gas transporter or an LNG terminal operator.
+(c) no step shall be taken by any person to enforce any security over a gas licensee’s property except where that person has served 14 days’ notice in writing of his intention to take that step on the Authority; and
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(d) no step shall be taken by any person to execute or enforce a judgment or order of court obtained against a gas licensee, except where that person has served 14 days’ notice in writing of his intention to take that step on the Authority.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(7) The Authority shall be a party to any proceedings under the Companies Act relating to the winding up of the affairs of a gas licensee.
 
 [24/2007 wef 11/06/2007]
+
+[Act 43 of 2018 wef 03/05/2019]
 
 ### Remuneration and expenses of Authority and others
 
-35\.—(1) Where a special administration order has been made under section 34(1)(a), the Authority may, at any time, whether or not the order is still in force, fix the remuneration and expenses to be paid by the gas transporter or LNG terminal operator to the Authority.
+35\.—(1) Where a special administration order has been made under section 34(1)(a), the Authority may, at any time, whether or not the order is still in force, fix the remuneration and expenses to be paid by the gas licensee to the Authority.
 
-(2) The Authority may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by a gas transporter or an LNG terminal operator to any person appointed by the Minister under section 34(1)(c) to advise the gas transporter or LNG terminal operator on the proper conduct of its licensed gas business.
+[Act 43 of 2018 wef 03/05/2019]
+
+(2) The Authority may at any time (whether or not the appointment of the person has terminated) fix the remuneration and expenses to be paid by a gas licensee to any person appointed by the Minister under section 34(1)(c) to advise the gas licensee on the proper conduct of its licensed gas business.
 
 [24/2007 wef 11/06/2007]
+
+[Act 43 of 2018 wef 03/05/2019]
 
 ### Savings of wayleaves or easements
 
@@ -1720,25 +1830,59 @@ subsection (3) shall apply as if any reference to the gas retailer were a refere
 
 47\.—(1) Any person who —
 
-(a) intentionally lays or causes to be laid a pipe or a gas fitting to connect with any gas pipeline or gas pipeline network belonging to or under the management or control of a gas transporter without the consent of the gas transporter;
+(a) intentionally lays or causes to be laid a pipe or a gas fitting to connect with any gas pipeline or gas pipeline network owned by, or under the management or control of, a gas transporter without the consent of the gas transporter;
 
-(b) dishonestly or fraudulently abstracts, uses or consumes any supply of gas; or
+(b) dishonestly or fraudulently abstracts, uses, consumes or diverts any gas supplied by a gas licensee;
 
-(c) intentionally alters or tampers with any meter through which gas is supplied,
+(c) alters or tampers with any part of any meter or meter installation for registering the quantity of gas supplied to any person or premises;
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 5 years or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+(d) does any thing that compromises or adversely affects the ability or proper operation of any meter or meter installation in duly registering the quantity of gas supplied to any person or premises; or
 
-(2) Where any person is prosecuted for an offence under subsection (1)(c) —
+(e) causes or permits any other person to engage in conduct mentioned in paragraph (b), (c) or (d),
 
-(a) the possession by him of any device for altering the index of any meter or for preventing any meter from duly registering the quantity of gas supplied;
+shall be guilty of an offence.
 
-(b) the existence of any hole on the meter cover of any meter supplied by a gas licensee;
+[Act 43 of 2018 wef 03/05/2019]
 
-(c) the existence of any damage to, removal of or change to the chemical composition of any paint or other chemical compound applied by a gas licensee over any screw, or other component or mechanism of any meter; or
+(1A) A person who is guilty of an offence under subsection (1)(a), (b), (c), (d) or (e) shall be liable on conviction to one or both of the following:
 
-(d) the existence of any damage to the seal which is fastened to the outer cover of any meter to ensure that the cover is not removed, opened, dislodged or otherwise tampered with,
+(a) a fine that is the total of —
 
-when the meter is in the custody or under the control of the person, shall be prima facie evidence that the person has altered or tampered with the meter.
+(i) an amount not exceeding $50,000; and
+
+(ii) an amount equal to 3 times the value of gas —
+
+(A) diverted, abstracted, used or consumed in the commission of the offence under subsection (1)(a) or (b), or caused or permitted to be so diverted, abstracted, used or consumed in the commission of the offence under subsection (1)(e), as the case may be; or
+
+(B) supplied as a result of the commission of the offence under subsection (1)(c), (d) or (e), as the case may be;
+
+(b) imprisonment for a term not exceeding 5 years,
+
+and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(1B) The value of the gas diverted, abstracted, used, consumed or supplied as mentioned in subsection (1A)(a)(ii), may be determined based on the amount of such gas fairly and reasonably estimated after comparing records (as are appropriate and available) of gas usage before, during and after the diversion, abstraction, use, consumption or supply.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(2) If, in any proceedings before a court for an offence under subsection (1)(c) or (e), it is alleged that a person altered or tampered with any part of any meter or meter installation mentioned in subsection (1)(c), and it is proved —
+
+(a) that, at the time of the alleged conduct —
+
+(i) a device was attached to, or was in the vicinity of, the meter or meter installation (or any part of the meter or meter installation) for the purpose of altering the index of the meter or meter installation or preventing the meter or meter installation from duly registering the quantity of gas supplied;
+
+(ii) the covering of the meter or meter installation had a hole which is not a result of ordinary wear and tear;
+
+(iii) any seal or lock fastened by a gas licensee to or on any part of the meter or meter installation was damaged, removed or changed; or
+
+(iv) any paint or other chemical compound applied by a gas licensee to or on any screw, component or mechanism of any part of the meter or meter installation was damaged or removed or altered in its chemical composition; and
+
+(b) that the person had, at the time of the alleged conduct, custody or control of the meter or meter installation,
+
+then the person is presumed, until the contrary is proved, to have so altered or tampered with the meter or meter installation.
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (3) In the case of any offence under subsection (1), the gas transporter may disconnect the premises of, or the relevant gas shipper or relevant gas retailer may discontinue the supply of gas to the premises of, the person referred to in that subsection.
 
@@ -2194,6 +2338,10 @@ the designated gas licensee, designated entity or designated business trust;
 
 “arrangement” includes any formal or informal scheme, arrangement or understanding, and any trust whether express or implied;
 
+“associate” has the meaning given to that expression in regulations made under section 63CA;
+
+[Act 43 of 2018 wef 03/05/2019]
+
 “business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
 “chief executive officer”, in relation to a designated gas licensee, means any person, by whatever name described, who —
@@ -2204,25 +2352,39 @@ the designated gas licensee, designated entity or designated business trust;
 
 and includes any person for the time being performing any or all of the functions or duties of a chief executive officer;
 
-“company” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act;
 
-“designated business trust” means a business trust that is established wholly or partly in respect of a gas pipeline network (or any part thereof) and which has been declared by the Authority, by notification in theGazette, to be a designated business trust for the purposes of this Part;
+“designated business trust” means a business trust that is established wholly or partly in respect of a gas pipeline network (or any part thereof) and which has been declared by the Minister to be a designated business trust for the purposes of this Part;
 
-“designated entity” means an entity, not being a designated gas licensee, which owns a gas pipeline network (or any part thereof) and which has been declared by the Authority, by notification in theGazette, to be a designated entity for the purposes of this Part;
+[Act 43 of 2018 wef 03/05/2019]
 
-“designated gas licensee” means a gas transporter or a gas transport agent;
+“designated entity” means an entity, not being a gas licensee, that —
+
+(a) owns a gas pipeline network (or any part of the network); and
+
+(b) is declared by the Minister to be a designated entity for the purposes of this Part;
+
+[Act 43 of 2018 wef 03/05/2019]
+
+“designated gas licensee” means any of the following:
+
+(a) a gas transporter;
+
+(b) a gas transport agent;
+
+(c) an LNG terminal operator;
+
+(d) any other gas licensee declared by the Minister to be a designated gas licensee for the purposes of this Part;
+
+[Act 43 of 2018 wef 03/05/2019]
 
 “entity” includes a corporation and a limited liability partnership;
 
-“equity interest” means —
+“equity interest” has the meaning given to that expression in regulations made under section 63CA;
 
-(a) in relation to a body corporate, a voting share in that body corporate;
-
-(b) in relation to an entity other than a body corporate, any right or interest, whether legal or equitable, in that entity, by whatever name called, which gives the holder of that right or interest voting power in that entity; and
-
-(c) in relation to a business trust, a unit in that business trust;
+[Act 43 of 2018 wef 03/05/2019]
 
 “indirect controller”, in relation to a designated gas licensee, designated entity or designated business trust, means any person, whether acting alone or together with any other person, and whether with or without holding equity interests or controlling the voting power in the designated gas licensee, designated entity or designated business trust —
 
@@ -2238,75 +2400,49 @@ but does not include —
 
 “limited liability partnership” has the same meaning as in section 2(1) of the Limited Liability Partnerships Act (Cap. 163A);
 
-“related corporation”, in relation to a corporation, means a corporation that is deemed to be related to the first-mentioned corporation under section 6 of the Companies Act (Cap. 50);
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
-“share” has the same meaning as in section 4(1) of the Companies Act;
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
-“substantial equity interest holder” means —
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
-(a) in relation to a company, a substantial shareholder of that company;
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
-(b) in relation to an entity other than a company, a person who has an interest or interests in equity interests in that entity representing 5% or more of the total voting rights of all the persons who hold equity interests in that entity; and
-
-(c) in relation to a business trust, a person who has an interest or interests in units in that business trust representing 5% or more of the total voting rights of all the unitholders of the business trust;
-
-“substantial shareholder” has the same meaning as in section 81 of the Companies Act (Cap. 50);
-
-“treasury share” has the same meaning as in section 4(1) of the Companies Act;
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
 “trustee-manager” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
-“unit” has the same meaning as in section 2 of the Business Trusts Act;
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
-“unitholder” has the same meaning as in section 2 of the Business Trusts Act;
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
-“voting share” has the same meaning as in section 4(1) of the Companies Act but does not include a treasury share;
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
-“written law” means the Companies Act or the Business Trusts Act.
+[Deleted by Act 43 of 2018 wef 03/05/2019]
 
-(2) In this Part, a person holds an equity interest if —
+(2) [Deleted by Act 43 of 2018 wef 03/05/2019]
 
-(a) he is deemed to have an interest in that equity interest in accordance with subsection (3); or
+(3) [Deleted by Act 43 of 2018 wef 03/05/2019]
 
-(b) he otherwise has a legal or an equitable interest in that equity interest except for such interest as is to be disregarded in accordance with subsection (3).
+(4) [Deleted by Act 43 of 2018 wef 03/05/2019]
 
-(3) In determining whether —
-
-(a) a person is deemed to have an interest in an equity interest; or
-
-(b) any interest is to be disregarded,
-
-section 7(6) to (10) of the Companies Act (Cap. 50) shall apply as if the reference to a share in those provisions of that section is a reference to an equity interest.
-
-(4) A reference in this Part to the control of a percentage of the voting power in a designated gas licensee, designated entity or designated business trust is a reference to the control, whether direct or indirect, of that percentage of the total number of votes that might be cast in a general meeting of the designated gas licensee, designated entity or designated business trust.
-
-(5) In this Part, a person,A, is an associate of another person,B, if —
-
-(a) Ais the spouse, or a parent, step-parent or remoter lineal ancestor, or a son, step-son, daughter, step-daughter or remoter issue, or a brother or sister, ofB;
-
-(b) Ais a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofB, or, whereBis a corporation, of the directors ofB;
-
-(c) Bis a corporation whose directors are accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
-
-(d) Ais a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofBor, whereBis a corporation, of the directors ofB;
-
-(e) Bis a person who is accustomed or under an obligation, whether formal or informal, to act in accordance with the directions, instructions or wishes ofAor, whereAis a corporation, of the directors ofA;
-
-(f) Ais a related corporation ofB;
-
-(g) Ais a corporation in whichB, alone or together with other associates ofBas described in paragraphs (b) to (f), is in a position to control not less than 20% of the voting power inA;
-
-(h) Bis a corporation in whichA, alone or together with other associates ofAas described in paragraphs (b) to (f), is in a position to control not less than 20% of the voting power inB; or
-
-(i) Ais a person with whomBhas an agreement or arrangement, whether oral or in writing and whether express or implied, to act together with respect to the acquisition, holding or disposal of equity interests or other interests in, or with respect to the exercise of their voting power in relation to, a designated gas licensee, designated entity or designated business trust.
+(5) [Deleted by Act 43 of 2018 wef 03/05/2019]
 
 ### Control of equity interests and voting power in, and business of, designated gas licensee, designated entity and designated business trust
 
-63B\.—(1) Any person who becomes a substantial equity interest holder of a designated gas licensee, designated entity or designated business trust shall give notice in writing to the Authority of that fact within 5 days after becoming a substantial equity interest holder of the licensee, entity or business trust.
+63B\.—(1) A designated gas licensee, a designated entity or the trustee‑manager of a designated business trust must each give notice in writing to the Authority if any person acquires equity interest in the licensee, the entity or the business trust (as the case may be) whether through a series of transactions over a period of time or otherwise, that would result in that person holding 5% or more but less than 12% of the total equity interest in the licensee, the entity or the business trust, respectively.
 
-(2) No person shall become a 12% controller, a 30% controller or an indirect controller of a designated gas licensee, designated entity or designated business trust unless the person obtains the prior written approval of the Authority.
+[Act 43 of 2018 wef 03/05/2019]
 
-(3) No person, whether or not he has obtained any approval of the Authority under subsection (2) or is exempted from subsection (2) under section 63D, shall acquire as a going concern —
+(1A) The notice under subsection (1) must be given within 5 days after the designated gas licensee, the designated entity or the trustee‑manager of the designated business trust (as the case may be) becomes aware of the acquisition mentioned in that subsection.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(2) No person shall, whether through a series of transactions over a period of time or otherwise, become a 12% controller, a 30% controller or an indirect controller of a designated gas licensee, a designated entity or a designated business trust without obtaining the prior written approval of the Authority.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(3) No person shall acquire as a going concern —
 
 (a) the business (or any part thereof) of a designated gas licensee conducted pursuant to its licence;
 
@@ -2316,9 +2452,11 @@ section 7(6) to (10) of the Companies Act (Cap. 50) shall apply as if the refere
 
 unless the person, and the licensee, the entity or the trustee-manager of the business trust, as the case may be, obtain the prior written approval of the Authority.
 
-(4) Subject to subsection (5), a notice under subsection (1) shall be given and an application for the Authority’s approval under subsection (2) or (3) shall be made in such form and manner as may be specified by the Authority.
+[Act 43 of 2018 wef 03/05/2019]
 
-(5) An application for the Authority’s approval under subsection (3) shall be made jointly by the person, and the designated gas licensee, the designated entity or the trustee-manager of the designated business trust, as the case may be.
+(4) [Deleted by Act 43 of 2018 wef 03/05/2019]
+
+(5) [Deleted by Act 43 of 2018 wef 03/05/2019]
 
 ### Approval of applications under section 63B
 
@@ -2352,7 +2490,27 @@ unless the person, and the licensee, the entity or the trustee-manager of the bu
 
 (5) The Authority may at any time add to, vary or revoke any condition imposed under this section.
 
-(6) Any condition imposed under this section shall have effect notwithstanding any written law or anything contained in the memorandum or articles of association, trust deed or other constitution of the designated gas licensee, designated entity or designated business trust.
+(6) Any condition imposed under this section shall have effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed or other constitution of the designated gas licensee, designated entity or designated business trust.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+### Regulations for carrying out sections 63B and 63C
+
+63CA\.—(1) The Authority may, with the approval of the Minister, make such regulations under section 96 as are necessary or expedient for carrying out the purposes of sections 63B and 63C.
+
+(2) Without limiting subsection (1), the regulations may prescribe —
+
+(a) the meaning of equity interest and the circumstances under which a person is treated as holding a percentage of the total equity interest in a designated gas licensee, a designated entity or a designated business trust;
+
+(b) the circumstances under which a person is treated as being in a position to control a percentage of the voting power in a designated gas licensee, a designated entity or a designated business trust;
+
+(c) the circumstances under which a person is treated as having acquired as a going concern a business mentioned in section 63B(3);
+
+(d) the circumstances under which a person is treated as being an associate for the purposes of sections 63A, 63E and 63G; and
+
+(e) the manner in which any notice or application under section 63B must be given or made, and the person or persons who must give the notice or make the application.
+
+[Act 43 of 2018 wef 03/05/2019]
 
 ### Power to exempt
 
@@ -2422,9 +2580,11 @@ from section 63B(1), (2) or (3), subject to such conditions as may be specified 
 
 ### Effect of directions
 
-63F\.—(1) Any direction issued by the Authority to any person under section 63E shall take effect notwithstanding any written law or anything contained in the memorandum or articles of association, trust deed or other constitution of the designated gas licensee, designated entity or designated business trust, as the case may be.
+63F\.—(1) Any direction issued by the Authority to any person under section 63E shall take effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed or other constitution of the designated gas licensee, designated entity or designated business trust, as the case may be.
 
-(2) Where any direction is issued under section 63E(2)(b) or (c), notwithstanding any written law or anything contained in the memorandum or articles of association, trust deed or other constitution, of the designated gas licensee, designated entity or designated business trust, as the case may be —
+[Act 43 of 2018 wef 03/05/2019]
+
+(2) Where any direction is issued under section 63E(2)(b) or (c), notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed or other constitution, of the designated gas licensee, designated entity or designated business trust, as the case may be —
 
 (a) no voting rights shall be exercisable in respect of the specified equity interests unless the Authority expressly permits such rights to be exercised;
 
@@ -2434,6 +2594,8 @@ from section 63B(1), (2) or (3), subject to such conditions as may be specified 
 
 until the transfer or disposal is effected in accordance with the direction or until the restriction on the transfer or disposal is removed, as the case may be.
 
+[Act 43 of 2018 wef 03/05/2019]
+
 ### Offences, penalties and defences
 
 63G\.—(1) Any person who contravenes section 63B(1), (2) or (3) or 63E(6) shall be guilty of an offence and shall be liable on conviction —
@@ -2442,11 +2604,7 @@ until the transfer or disposal is effected in accordance with the direction or u
 
 (b) in any other case, to a fine not exceeding $1 million and, in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part thereof during which the offence continues after conviction.
 
-(2) Where a person is charged with an offence in respect of a contravention of section 63B(1), it shall be a defence for the person to prove that —
-
-(a) he was not aware that he had contravened section 63B(1); and
-
-(b) he has, within 5 days after becoming aware that he had contravened section 63B(1), notified the Authority of the contravention.
+(2) [Deleted by Act 43 of 2018 wef 03/05/2019]
 
 (3) Where a person is charged with an offence in respect of a contravention of section 63B(2), it shall be a defence for the person to prove that —
 
@@ -2456,13 +2614,17 @@ until the transfer or disposal is effected in accordance with the direction or u
 
 (4) Where a person is charged with an offence in respect of a contravention of section 63B(2), it shall also be a defence for the person to prove that, even though he was aware of the contravention —
 
-(a) the contravention occurred as a result of an increase in the holding of equity interests, or in the voting power controlled, by any of his associates described in section 63A(5)(a) in the designated gas licensee, designated entity or designated business trust;
+(a) the contravention occurred as a result of an increase in the holding of equity interests, or in the voting power controlled, by any of his associates;
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (b) he has no agreement or arrangement, whether oral or in writing and whether express or implied, with that associate with respect to the acquisition, holding or disposal of equity interests or other interests in, or under which they act together in exercising their voting power in relation to, the designated gas licensee, designated entity or designated business trust; and
 
 (c) he has, within 14 days of the date of the contravention, notified the Authority of the contravention and, within such time as may be determined by the Authority, taken such actions in relation to his holding of equity interests or control of the voting power in the designated gas licensee, designated entity or designated business trust as the Authority may direct.
 
-(5) Except as provided in subsections (2), (3) and (4), it shall not be a defence for a person charged with an offence in respect of a contravention of section 63B(1) or (2) to prove that he did not intend to or did not knowingly contravene section 63B(1) or (2).
+(5) Except as provided in subsections (3) and (4), it shall not be a defence for a person charged with an offence in respect of a contravention of section 63B(1) or (2) to prove that he did not intend to or did not knowingly contravene section 63B(1) or (2).
+
+[Act 43 of 2018 wef 03/05/2019]
 
 ### Appointment of chief executive officer, director, etc., of designated gas licensee
 
@@ -2578,6 +2740,138 @@ the gas transporter or licensed gas service worker or authorised officer, as the
 
 68\. A gas transporter may, for operational reasons without incurring any liability for so doing, reduce as it thinks fit the pressure of gas supplied in any case, if at any time it is of the opinion that its gas supply pressure is insufficient for the purposes of maintaining a normal supply of gas, and such pressure shall be restored as soon as reasonably practicable.
 
+## PART VIIIA
+
+SEVERE GAS SHORTAGE
+
+[Act 43 of 2018 wef 03/05/2019]
+
+### Meaning of “severe gas shortage situation”
+
+68A\. A severe gas shortage situation is a situation in which —
+
+(a) there is a shortage of natural gas imported into Singapore resulting in any gas importer providing less of such gas to any of its customers than is required under its arrangement with that customer (without taking into consideration any such gas to be provided on a reasonable endeavours basis under that arrangement); and
+
+(b) given the extent, and the likely period or the uncertainty of the period, of the shortage, the shortage will or is likely to —
+
+(i) threaten the security or stability of the supply of gas or electricity in Singapore; or
+
+(ii) result in a severe loss of output from any industry sector that uses natural gas as feedstock or fuel stock.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+### Directions by Authority
+
+68B\.—(1) Where the Authority considers that there is an imminent or actual severe gas shortage situation, the Authority may, with the approval of the Minister, give to any person or persons such directions specified in subsection (2) as the Authority considers necessary.
+
+(2) The directions for the purpose of subsection (1) are for the purpose of addressing or alleviating the severe gas shortage situation, or preventing the severe gas shortage situation from occurring or continuing, and may be issued at any one or more times before the severe gas shortage situation occurs or during the severe gas shortage situation.
+
+(3) For the purposes of subsection (2), a direction may require any person to whom the direction is given to do or not to do any thing, including a direction to —
+
+(a) enter into or modify any agreement between the person directed and any other person;
+
+(b) terminate any agreement between the person directed and any other person;
+
+(c) give any consent or withhold the giving of any consent required under any agreement between the person directed and any other person; or
+
+(d) provide security for any compensation that the person directed may be liable to pay pursuant to section 68D.
+
+(4) A direction under this section remains in force until revoked by the Authority.
+
+(5) Any person to whom a direction is given under this section who fails to comply with the direction shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $1 million; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part of a day during which the offence continues after conviction,
+
+and section 19 does not apply to the direction.
+
+(6) Any person who does any act which the person knows or ought reasonably to know is or is likely to obstruct, hinder or otherwise prevent a person to whom a direction is given under this section from complying with the direction shall be guilty of an offence and shall be liable on conviction —
+
+(a) to a fine not exceeding $1 million; and
+
+(b) in the case of a continuing offence, to a further fine not exceeding $100,000 for every day or part of a day during which the offence continues after conviction.
+
+(7) No action, suit or other legal proceedings shall lie against any party to a contract or arrangement made before the date of commencement of section 14 of the Gas (Amendment) Act 2018, or in relation to, any breach of that contract or arrangement, where such breach is solely attributable to, or occasioned by, the compliance by that party with any direction of the Authority issued under this Part.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+### Requests for information, etc.
+
+68C\.—(1) For the purpose of making a determination on any matter under this Part (including whether or not a direction should be given under this Part), the Authority or the Minister may, by notice in writing, request for such information and document from such person (including a person likely to be affected by a direction issued under this Part) as the Authority or the Minister considers necessary.
+
+(2) Any person who, upon a request mentioned in subsection (1) —
+
+(a) fails to comply with the request;
+
+(b) intentionally alters, suppresses or destroys any information or document required by the request; or
+
+(c) provides to the Authority or the Minister, as the case may be, any information or document that is false, misleading or inaccurate in a material particular, or recklessly provides any such information or document,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) Section 5 applies (with the necessary modifications) to information and documents provided under this section to the Authority or the Minister as it applies to information and documents provided to the Authority under section 4.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+### Regulations for this Part, etc.
+
+68D\.—(1) The Minister may make regulations prescribing —
+
+(a) the circumstances in which any direction issued under section 68B may be modified;
+
+(b) the circumstances in which compensation is payable for any loss or damage suffered by any person as a result of a direction of the Authority given under section 68B, and for matters relating to the determination and payment of the compensation, including the following:
+
+(i) the constitution and appointment of the members of a panel (called in this Part a Pricing Panel) to determine matters concerning the compensation (including the amount), the qualifications of any of the members, the period of tenure of any of the members, and the circumstance in which a member may be disqualified from so acting;
+
+(ii) the remuneration and allowances of members of the Pricing Panel;
+
+(iii) the procedure to be adopted by the Pricing Panel in its proceedings and the records to be kept by the Pricing Panel;
+
+(iv) compelling the attendance of witnesses to give evidence to the Pricing Panel and the examination of witnesses under oath, and compelling the production of documents;
+
+(v) the treatment and usage of confidential information and documents received by the Pricing Panel;
+
+(vi) matters which the Pricing Panel must —
+
+(A) take into account in reckoning the compensation to be paid (including any quantifiable loss or damage suffered by any person as a result of any direction issued by the Authority under section 68B); or
+
+(B) disregard in reckoning the compensation (including any quantifiable amount received or recoverable by any person who has suffered loss or damage mentioned in sub‑paragraph (A), that has the effect of compensating the person, in whole or in part, for that loss or damage),
+
+and to provide for such other principles as the Minister considers appropriate for the purpose of determining the compensation;
+
+(vii) the person or persons by whom the compensation (or any part of the compensation) is payable and the person or persons to whom the compensation (or any part of the compensation) is to be paid, and the manner of payment, as determined by the Pricing Panel;
+
+(viii) the circumstances in which the Pricing Panel may review its determination of the compensation;
+
+(c) fees or charges for any thing done under this Part; and
+
+(d) anything which is required to be prescribed under this Part or which is necessary or expedient to be prescribed for carrying out or giving effect to the provisions of this Part.
+
+(2) The Minister may, in making regulations under this Part, provide that any person who contravenes any regulation shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+(3) Every member of a Pricing Panel, when and for so long as the member acts as such, is taken to be a public servant within the meaning of the Penal Code (Cap. 224), and enjoys the same judicial immunity as is enjoyed by a District Judge.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+### Appeals to High Court
+
+68E\.—(1) The person by whom and the person to whom compensation is payable under section 68D may appeal to the High Court against a decision of a Pricing Panel in relation to that compensation, upon any question of law or of mixed law and fact.
+
+(2) The procedure governing and the costs of such appeal to the High Court are as provided for in the Rules of Court.
+
+(3) The High Court may hear and determine any such appeal and may confirm, reduce, increase or annul the decision of the Pricing Panel, and make such further or other order on such appeal, whether as to costs or otherwise, as the High Court thinks fit.
+
+(4) There shall be such further right of appeal from decisions of the High Court under this section as exists in the case of decisions made by that Court in the exercise of its original civil jurisdiction.
+
+[Act 43 of 2018 wef 03/05/2019]
+
+### Recovery of compensation
+
+68F\. Compensation determined by a Pricing Panel under section 68D as being payable by a person to another person, is a debt due from the person to the other person.
+
+[Act 43 of 2018 wef 03/05/2019]
+
 ## PART IX
 
 COMPETITION
@@ -2659,6 +2953,22 @@ COMPETITION
 (c) to prescribe any decision which the Authority may make and the effect of the decision; and
 
 (d) generally for giving full effect to the objective of this Part.
+
+### Guidelines
+
+72A\.—(1) The Authority may issue guidelines with a view to providing practical guidance or certainty in respect of any one or more of the provisions in this Part.
+
+(2) The Authority may consult with such person as the Authority thinks fit for the purpose of preparing any guidelines under subsection (1).
+
+(3) Where, in any administrative proceedings commenced in connection with this Part, any provision in this Part to which any guideline issued under subsection (1) relates is alleged to have been contravened, then —
+
+(a) compliance with such guideline; or
+
+(b) a contravention of or failure to comply with, whether by act or omission, such guideline,
+
+may be relied upon by any party to those proceedings as tending to negative or establish the contravention which is in question in those proceedings.
+
+[Act 43 of 2018 wef 03/05/2019]
 
 ### Power to investigate
 
@@ -2874,17 +3184,23 @@ APPEAL PANEL
 
 (b) of the receipt of a notification by the Authority of a direction or decision under Part IX,
 
-notify the Minister that he wishes to make an appeal, providing adequate details of the grounds for the appeal and requesting the Minister to establish an Appeal Panel under subsection (3).
+notify the Minister that he wishes to make an appeal, providing adequate details of the grounds for the appeal and requesting the Minister to establish an Appeal Panel to consider and determine the appeal.
 
-(3) When requested to establish an Appeal Panel, the Minister shall, upon consultation with the Authority, unless the request is in the opinion of the Minister of a frivolous, trivial or vexatious nature, establish by direction, within 30 days of the request, an Appeal Panel to consider an appeal made under this section.
+[Act 43 of 2018 wef 03/05/2019]
+
+(3) When requested to establish an Appeal Panel, the Minister shall, upon consultation with the Authority, unless the request is in the opinion of the Minister of a frivolous, trivial or vexatious nature, establish an Appeal Panel within 30 days after the request to consider and determine the appeal in question.
+
+[Act 43 of 2018 wef 03/05/2019]
 
 ### Composition and procedure of Appeal Panel
 
-84\.—(1) An Appeal Panel established by the Minister under section 83(3) or 93(4) shall consist of at least 3 persons, one of whom shall be appointed by the Minister to be the chairman of the Appeal Panel.
+84\.—(1) An Appeal Panel established by the Minister shall consist of at least 3 persons, one of whom shall be appointed by the Minister to be the chairman of the Appeal Panel.
 
 [24/2007 wef 11/06/2007]
 
-(2) The Minister may, in the direction establishing the Appeal Panel under section 83(3) or 93(4), provide for —
+[Act 43 of 2018 wef 03/05/2019]
+
+(2) The Minister may, in establishing the Appeal Panel, provide for —
 
 (a) the terms and conditions of the membership of the Appeal Panel as the Minister considers appropriate;
 
@@ -2893,6 +3209,8 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 (c) any other matters which the Minister considers incidental or expedient for the proper and efficient conduct of an appeal by the Appeal Panel.
 
 [24/2007 wef 11/06/2007]
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (3) The remuneration and allowances, if any, of a member of an Appeal Panel shall be determined by the Minister and shall form part of the expenses of the Authority.
 
@@ -3002,7 +3320,13 @@ MISCELLANEOUS
 
 (2) The Authority may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
-(3) All sums collected under this section shall be paid to the Authority.
+(3) [Deleted by Act 43 of 2018 wef 03/05/2019]
+
+### Payment into Consolidated Fund
+
+92A\. All composition sums collected by the Authority under section 92 and all financial penalties collected by the Authority under this Act, must be paid into the Consolidated Fund.
+
+[Act 43 of 2018 wef 03/05/2019]
 
 ### Appeal to Minister
 
@@ -3012,9 +3336,11 @@ MISCELLANEOUS
 
 (b) any direction issued by the Authority under this Act,
 
-may, except where provision has been made under this Act for an appeal to be made to an Appeal Panel, appeal to the Minister, together with adequate details of the grounds for the appeal.
+may, except where provision has been made under this Act for an appeal to be made to an Appeal Panel, appeal to the Minister.
 
-(2) Unless otherwise provided in this Act, an appeal under subsection (1) shall be lodged within 14 days of the receipt of the decision or direction.
+[Act 43 of 2018 wef 03/05/2019]
+
+(2) [Deleted by Act 43 of 2018 wef 03/05/2019]
 
 (3) An appeal under subsection (1) shall not suspend the effect of a decision or direction to which the appeal relates unless —
 
@@ -3022,9 +3348,13 @@ may, except where provision has been made under this Act for an appeal to be mad
 
 (b) the appeal is against the imposition or the amount of a financial penalty.
 
-(4) Where the Minister considers that an appeal lodged under subsection (1) involves issues of such nature or complexity that it ought to be considered and determined by persons with particular technical or other specialised knowledge, he may establish by direction an Appeal Panel, comprising one or more of such persons with particular technical or other specialised knowledge and such other persons as the Minister considers appropriate, to consider and determine the appeal.
+(4) Where the Minister considers that an appeal made to the Minister involves issues of such nature or complexity that it ought to be considered and determined by persons with particular technical or other specialised knowledge, he may establish by direction an Appeal Panel, comprising one or more of such persons with particular technical or other specialised knowledge and such other persons as the Minister considers appropriate, to consider and determine the appeal.
 
-(5) Any person who has lodged an appeal under subsection (1) shall provide such information and documents as may be required by the Minister (whether for the purpose of deciding if an Appeal Panel should be established or for determining the appeal) in such manner and within such period as may be specified by the Minister.
+[Act 43 of 2018 wef 03/05/2019]
+
+(5) Any person who has made an appeal to the Minister must provide such information and documents as may be required by the Minister (whether for the purpose of deciding if an Appeal Panel should be established or for determining the appeal) in such manner and within such period as may be specified by the Minister.
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (6) The Minister may determine an appeal under this section by —
 
@@ -3034,9 +3364,13 @@ may, except where provision has been made under this Act for an appeal to be mad
 
 and the decision of the Minister shall be final.
 
-(7) The Minister may make regulations in respect of the manner in which an appeal may be made to, and the procedure to be adopted in the hearing of any appeal by, the Minister under this section.
+(7) The Minister may make regulations prescribing —
 
-[24/2007 wef 11/06/2007]
+(a) the time and manner in which an appeal must be made under this section; and
+
+(b) the procedure to be adopted in determining any appeal by the Minister under this section.
+
+[Act 43 of 2018 wef 03/05/2019]
 
 ### General exemption
 
@@ -3072,9 +3406,11 @@ and the decision of the Minister shall be final.
 
 (a) the prevention and suppression of pollution, contamination or waste of gas;
 
-(b) the prevention of misuse of, or damage to, apparatus and works belonging to a gas transporter or used for the purposes of conveying or supplying gas;
+(b) the prevention of misuse of, or damage to, apparatus and works owned by, or under the control or management of, a gas transporter or used for the purposes of conveying or supplying gas;
 
 [24/2007 wef 11/06/2007]
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (c) the prescribing of materials of which conduits, pipes, and other apparatus and fittings for use in connection with the supply of gas shall be made, and in respect of their size, shape, fitting, arrangement, connection, quality and workmanship, testing and inspection and cleaning;
 
@@ -3084,7 +3420,7 @@ and the decision of the Minister shall be final.
 
 (f) the release of a gas retailer from any obligation owed to a consumer;
 
-(g) the prescribing of fees and charges for the purposes of this Act;
+(g) [Deleted by Act 43 of 2018 wef 03/05/2019]
 
 (h) the regulation of the construction, laying or placing of a gas pipeline in, on, over, upon, under, across or along any land and the submission and approval of plans relating thereto;
 
@@ -3100,9 +3436,21 @@ and the decision of the Minister shall be final.
 
 (n) the prescribing of methods for determining the charges payable by a consumer in the event a meter is found to be defective or otherwise registering erroneously;
 
-(o) the regulation of the conversion of a gas pipeline network and gas appliances so as to allow for the conveyance of natural gas in the gas pipeline network and for the interconnection of gas pipeline networks and the conferring on any person authorised by a gas transporter or gas retailer of the power to enter the premises of a consumer to carry out any inspection or perform any work relating thereto;
+(o) the conversion of a gas pipeline network and gas appliances so as to allow for the conveyance of natural gas in the gas pipeline network and supply to such gas appliance, including —
 
-[24/2007 wef 11/06/2007]
+(i) regulating the manner of the conversion;
+
+(ii) the interconnection of gas pipeline networks;
+
+(iii) conferring on any person authorised by a gas transporter or gas retailer —
+
+(A) the power to obtain information and documents from any person necessary for the purposes of the conversion and interconnection; and
+
+(B) the power to enter any premises to carry out any inspection or perform any work relating to such conversion and interconnection; and
+
+(iv) the circumstances and the manner in which the supply of gas to any premises may be terminated (despite any agreement for such supply), if the conversion is not or if it appears that the conversion cannot be carried out successfully for the premises or any part of the premises;
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (p) the regulation of the introduction of competition in the natural gas industry and the timing of such introduction;
 
@@ -3158,9 +3506,19 @@ and for the removal, testing and replacing of any such gas plant by a gas transp
 
 [24/2007 wef 11/06/2007]
 
-(z) the regulation of matters relating to the import of gas, including the quantity of gas that may be imported and the mode of such import.
+(z) the regulation of matters relating to the import of gas, including the quantity of gas that may be imported and the mode of such import;
 
 [24/2007 wef 11/06/2007]
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(za) the prescribing of fees and charges and their method of payment for the purposes of this Act;
+
+[Act 43 of 2018 wef 03/05/2019]
+
+(zb) the prescribing of any service provided in connection with the performance of any function or duty of the Authority, for which the Authority may charge a price by way of agreement with the person to whom the service is provided (instead of prescribing the price).
+
+[Act 43 of 2018 wef 03/05/2019]
 
 (3) The Authority may, in making any regulations, provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
@@ -3356,3 +3714,7 @@ This Legislative History is provided for the convenience of users of the Gas Act
 |||(Bill No. 10/2001 published on 23 February 2001)|
 ||Date of Second and Third Readings|16 March 2001|
 ||Date of commencement|14th February 2008|
+|10.|**Act 43 of 2018—Gas (Amendment) Act 2018**|
+||Date of First Reading|10 September 2018 (Bill No. 36/2018 published on 10 September 2018)|
+||Date of Second and Third Readings|1 October 2018|
+||Date of commencement|3 May 2019|
