@@ -52,6 +52,8 @@
 
 - [20 Duties of electricity licensees](#Duties-of-electricity-licensees)
 
+- [20A Connections to electrical plants](#Connections-to-electrical-plants)
+
 - [21 Non-contestable consumers](#Non-contestable-consumers)
 
 - [22 Tariffs set by market support services licensee for non-contestable consumers](#Tariffs-set-by-market-support-services-licensee-for-non-contestable-consumers)
@@ -81,6 +83,8 @@
 - [30B Control of acquisition of equity interest in designated electricity licensee, etc.](#Control-of-acquisition-of-equity-interest-in-designated-electricity-licensee-etc)
 
 - [30C Regulations for carrying out section 30B](#Regulations-for-carrying-out-section-30B)
+
+- [30CA Power to exempt](#Power-to-exempt)
 
 - [30D Power to issue directions](#Power-to-issue-directions)
 
@@ -141,6 +145,8 @@
 - [52 Exemption](#Exemption)
 
 - [53 Request for Authority to examine agreement or to consider conduct, etc.](#Request-for-Authority-to-examine-agreement-or-to-consider-conduct-etc)
+
+- [53A Guidelines](#Guidelines)
 
 - [54 Power to investigate](#Power-to-investigate)
 
@@ -212,6 +218,8 @@
 
 - [85 Damage to property of electricity licensee](#Damage-to-property-of-electricity-licensee)
 
+- [85A Damage to submarine electricity cables, etc.](#Damage-to-submarine-electricity-cables-etc)
+
 - [86 Falsely pretending to be employee of Authority or electricity licensee](#Falsely-pretending-to-be-employee-of-Authority-or-electricity-licensee)
 
 - [87 Unauthorised use of electricity](#Unauthorised-use-of-electricity)
@@ -243,6 +251,8 @@
 - [99 Service of documents](#Service-of-documents)
 
 - [100 Recovery of fees and penalties](#Recovery-of-fees-and-penalties)
+
+- [100A Payment into Consolidated Fund](#Payment-into-Consolidated-Fund)
 
 - [101 Keeping of register](#Keeping-of-register)
 
@@ -294,9 +304,11 @@ PRELIMINARY
 
 “apparatus” means any electrical apparatus, equipment or accessory and includes all apparatuses, machines, consuming devices and fittings in which one or more conductors are used or of which they form a part;
 
-“Appeal Panel” means a panel established by the Minister under section 64(3) or 98(2);
+“Appeal Panel” means a panel established by the Minister under section 65;
 
 [18/2006 wef 01/05/2006]
+
+[Act 42 of 2018 wef 03/05/2019]
 
 “appointed day” means, in relation to a particular provision or Part of this Act, the date of commencement of that provision or Part;
 
@@ -334,19 +346,27 @@ PRELIMINARY
 
 “earthworks” means —
 
-(a) any act of excavating earth, rock or other material (by whatever means) in connection with —
+(a) any act of excavating earth, rock or other material (by whatever means);
 
-(i) any work for or relating to the construction, reconstruction, extension, renovation, alteration, demolition or repair of any building, road, railway, bridge, viaduct, flyover, sewer or sewage works;
+[Act 42 of 2018 wef 03/05/2019]
 
-(ii) any work for or relating to the laying, inspecting, repairing or renewing of any main, pipe, cable, fitting or other apparatuses;
+(aa) any act done on, in or under the ground in connection with —
+
+(i) any work for or relating to the construction, reconstruction, extension, renovation, alteration, demolition or repair of any building, road, railway, bridge, viaduct, flyover, sewer or sewerage works;
+
+(ii) any work for or relating to the laying, inspecting, repairing or renewing of any main, pipe, cable, fitting or other apparatus;
 
 (iii) any soil investigation work; or
 
 (iv) such other works as are usually undertaken by a person carrying on business as a contractor in the construction industry or as a professional civil or structural engineer;
 
+[Act 42 of 2018 wef 03/05/2019]
+
 (b) any act of boring, dredging, jacking, levelling, piling or tunnelling on or under any premises or street by any mechanical means; or
 
-(c) the driving or sinking of any earth rod, casing or tube into the ground;
+(c) the driving or sinking of any bar, rod, pole, picket, casing or tube into the ground;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 “electric line” means any line which is used for carrying electricity for any purpose and includes —
 
@@ -360,7 +380,13 @@ PRELIMINARY
 
 “electrical installation” means any appliance, wire, fitting or other apparatus placed in, on, over or under any premises and used for or for purposes incidental to the conveyance, control or use of electricity supplied or intended to be supplied by an electricity licensee or any other person, and includes a supply installation and any addition, alteration, and repair to an electrical installation, but does not include —
 
-(a) any electric line, supply line or electrical plant of an electricity licensee;
+(a) any electric line, supply line or electrical plant —
+
+(i) of a transmission licensee for the transmission of electricity; or
+
+(ii) of a generation licensee for the generation of electricity;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (b) any appliance, wire, fitting or apparatus connected to and beyond any electrical outlet which is installed for the purpose of connecting electrical appliances, fittings or apparatuses and at which fixed wiring terminates; and
 
@@ -384,13 +410,21 @@ PRELIMINARY
 
 “electricity” means electrical power when generated, transmitted, supplied or used for any purpose except the transmission of any communication or signal;
 
-“electricity cable” means a length of insulated single conductor or of 2 or more such conductors, whether or not the conductor or conductors are provided with an overall covering for mechanical protection, and all other apparatuses or devices connected thereto;
+“electricity cable” means a length of insulated single conductor or of 2 or more such conductors, whether or not the conductor or conductors are provided with an overall covering for mechanical protection, and —
+
+(a) all other apparatus or devices connected to the conductor or conductors, as the case may be (including by any remote or wireless means); and
+
+(b) any data communication cable used to monitor or control the transmission of electricity;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 “electricity licence” means a licence granted or extended by the Authority under section 9;
 
 “electricity licensee” means any person who is granted an electricity licence by the Authority;
 
-“electricity system” means a system comprising the transmission system and generating stations connected directly or indirectly to the transmission system;
+“electricity system” means a system comprising a transmission system of a transmission licensee and generating stations connected directly or indirectly to the transmission system;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 “electronic records” has the same meaning as in the Electronic Transactions Act (Cap. 88);
 
@@ -446,6 +480,14 @@ to trade in any wholesale electricity market and includes a transmission license
 
 “market support services licensee” means a person who is authorised by an electricity licence to provide market support services;
 
+“meter” means any device for measuring the flow of electricity;
+
+[Act 42 of 2018 wef 03/05/2019]
+
+“meter installation” means any meter and, if so equipped, its associated equipment, apparatus, device and installation, including any self-contained meter transformers, wiring, seal, meter test terminal block, test links, fuses, lamps, data recorders, circuit breakers, and communication modems required to provide remote access to the metered data so that readings from the meter can be taken;
+
+[Act 42 of 2018 wef 03/05/2019]
+
 “modification” includes any amendment, addition, alteration and variation;
 
 “non-contestable consumer” means a consumer who is not a contestable consumer;
@@ -488,9 +530,11 @@ to trade in any wholesale electricity market and includes a transmission license
 
 “transmission licensee” means a person authorised by an electricity licence to transmit electricity;
 
-“transmission system” means a system of interconnected electric lines, electrical plants and substations used by a transmission licensee to transmit electricity;
+“transmission system” means a system of interconnected electric lines, electrical plants and substations used to transmit electricity;
 
 [18/2006 wef 01/05/2006]
+
+[Act 42 of 2018 wef 03/05/2019]
 
 “transmit” means to convey electricity by means of a transmission system —
 
@@ -534,7 +578,9 @@ ADMINISTRATION
 
 (d) to secure that electricity licensees whose prices are controlled by the Authority are able to provide an efficient service and maintain financial viability;
 
-(e) to ensure security of supply of electricity to consumers and to arrange for the secure operation of the transmission system in accordance with the market rules or other codes of practice;
+(e) to ensure security of supply of electricity to consumers and to arrange for the secure operation of a transmission system of a transmission licensee in accordance with the market rules or other codes of practice;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (f) to protect the public from dangers arising from the generation, transmission, supply or use of electricity;
 
@@ -662,9 +708,17 @@ LICENSING OF ACTIVITIES RELATING TO ELECTRICITY
 
 (e) provide any market support services;
 
-(f) trade in any wholesale electricity market; or
+(f) trade in any wholesale electricity market;
 
-(g) operate any wholesale electricity market,
+[Act 42 of 2018 wef 03/05/2019]
+
+(g) operate any wholesale electricity market; or
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(h) carry on such other activity relating to electricity as the Minister may, by order in theGazette, specify,
+
+[Act 42 of 2018 wef 03/05/2019]
 
 unless he is authorised to do so by an electricity licence granted under section 9 or is exempted under section 8.
 
@@ -738,9 +792,17 @@ unless he is authorised to do so by an electricity licence granted under section
 
 (e) provide any market support services;
 
-(f) trade in any wholesale electricity market; or
+(f) trade in any wholesale electricity market;
 
-(g) operate any wholesale electricity market.
+[Act 42 of 2018 wef 03/05/2019]
+
+(g) operate any wholesale electricity market; or
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(h) for the purpose mentioned in paragraph (h) of section 6(1), carry on such activity relating to electricity as may be specified in any order made under that paragraph.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (2) No transmission licensee, transmission agent licensee or market support services licensee shall be granted an electricity licence to carry out any activity other than the transmission of electricity, the transmitting of electricity for or on behalf of a transmission licensee or the provision of market support services, respectively.
 
@@ -804,11 +866,13 @@ unless he is authorised to do so by an electricity licence granted under section
 
 ### Special condition in market support services licence
 
-10\. Without prejudice to the generality of section 9(1) and (6), the conditions specified in an electricity licence, to which a market support services licensee may be subject, may include a requirement that the licensee shall provide market support services to a contestable consumer on terms and conditions approved by the Authority for the purpose of allowing the consumer to purchase electricity indirectly from any wholesale electricity market through the licensee in circumstances in which —
+10\. Without prejudice to the generality of section 9(1) and (6), the conditions specified in an electricity licence, to which a market support services licensee may be subject, may include a requirement that the licensee shall provide market support services to a contestable consumer on terms and conditions approved by the Authority for the purpose of allowing the consumer (if the consumer remains a contestable consumer under section 41(1)) to purchase electricity indirectly from any wholesale electricity market through the licensee in circumstances in which —
 
 (a) the contestable consumer does not, cannot or no longer wishes to purchase electricity from a retail electricity licensee or directly from any wholesale electricity market; or
 
 (b) a retail electricity licensee is unable or refuses to retail electricity to the contestable consumer for any reason.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ### Restriction on transfer of electricity licence
 
@@ -908,7 +972,9 @@ and, in either event, it shall thereupon issue a direction in writing to the ele
 
 (b) to ensure the security of the electricity system;
 
-(c) to maintain the voltage or reactive flow of power through the transmission system;
+(c) to maintain the voltage or reactive flow of power through a transmission system of a transmission licensee;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (d) in the interests of public safety; or
 
@@ -951,6 +1017,38 @@ and, in either event, it shall thereupon issue a direction in writing to the ele
 (c) to provide non-discriminatory access to its market support services in order to facilitate retail competition in accordance with this Act, its market support services licence and the market rules.
 
 (5) It shall be the duty of an electricity licensee to ensure that it will not do or not omit to do any act which will adversely affect, directly or indirectly, the security and stability of the electricity supplied by it or by any other person to consumers.
+
+### Connections to electrical plants
+
+20A\.—(1) The Authority may direct any electricity licensee (E) to allow a transmission licensee to connect any electrical plant or electric line of the transmission licensee, to any ofE’s electrical plants, if the Authority considers the connection necessary —
+
+(a) in the public interest; or
+
+(b) to ensure the security and reliability of the supply of electricity to the public.
+
+(2) For the purpose of subsection (1), the direction may —
+
+(a) requireEto allow the transmission licensee to enter the premises ofEfor the purposes of making and maintaining the connection, and not to do or suffer to be done anything which may prevent the transmission licensee from making and maintaining the connection; and
+
+(b) requireEand the transmission licensee to enter into an agreement after the connection under paragraph (a) has been made, within the time specified in the direction, for the purpose of maintaining the connection and reasonably compensatingEfor any loss suffered as a result of the connection,
+
+andEand the transmission licensee must comply with a direction under subsection (1) to the extent that it relates to either of them.
+
+(3) IfEand the transmission licensee are unable to agree on the terms for any matter so as to be able to enter into an agreement in accordance with a requirement under subsection (2)(b), eitherEor the transmission licensee may request the Minister to establish an Appeal Panel under section 65 to determine the reasonable terms for that matter.
+
+(4) The decision of the Appeal Panel under subsection (3) must include a date on whichEand the transmission licensee are treated as having entered into an agreement comprising —
+
+(a) (if any) the terms agreed betweenEand the transmission licensee; and
+
+(b) the terms determined by the Appeal Panel,
+
+andEand the transmission licensee are treated as having entered into an agreement with each other as from that date on all such terms.
+
+(5) The direction of the Authority under subsection (1) is revoked as from the date mentioned in the Appeal Panel’s decision under subsection (4) to the extent the decision is inconsistent with that direction.
+
+(6) Nothing in subsection (4) preventsEand the transmission licensee from varying or terminating the agreement treated as entered into under that subsection.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ### Non-contestable consumers
 
@@ -998,7 +1096,9 @@ as the case may be.
 
 ### Recovery of charges
 
-24\.—(1) Subject to subsection (2), if a market support services licensee has good cause to direct a transmission licensee to disconnect a non-contestable consumer from the transmission system, including the failure of the consumer to pay an account, the market support services licensee may issue a direction to the transmission licensee to disconnect the consumer from the transmission system.
+24\.—(1) Subject to subsection (2), if a market support services licensee has good cause to direct a transmission licensee to disconnect a non-contestable consumer from a transmission system of the transmission licensee, including the failure of the consumer to pay an account, the market support services licensee may issue a direction to the transmission licensee to disconnect the consumer from the transmission system.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (2) A market support services licensee shall not direct a transmission licensee to disconnect the supply of electricity to any residential premises by reason of failure by the consumer to pay an account for that supply if the failure occurs through lack of sufficient income of the consumer and of any other person normally resident on the premises supplied until —
 
@@ -1014,7 +1114,9 @@ as the case may be.
 
 (4) Subject to this section, if a contestable consumer has not, on the due date, paid all charges due from him to a transmission licensee, the licensee may —
 
-(a) in accordance with its licence and the market rules, disconnect that consumer from the transmission system;
+(a) in accordance with its licence and the market rules, disconnect that consumer from the transmission system of the transmission licensee to which the charges relate;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (b) discontinue the supply of electricity to the premises, or any other premises occupied by the consumer by such other means as the licensee thinks fit; and
 
@@ -1092,11 +1194,13 @@ SPECIAL ADMINISTRATION ORDER
 
 ### Special administration order
 
-28\.—(1) A special administration order is an order of the Minister made in accordance with section 29 in relation to an electricity licensee directing that, during the period for which the order is in force, the affairs, business and property of that electricity licensee shall be managed directly or indirectly by the Authority —
+28\.—(1) A special administration order is an order of the Minister made in accordance with section 29 in relation to an electricity licensee directing that, during the period for which the order is in force, all or any of the affairs, business and property of that electricity licensee shall be managed directly or indirectly by the Authority —
 
 (a) for securing one or more of the purposes of such an order set out in subsection (2); and
 
 (b) in a manner which protects the respective interests of the shareholders and creditors of that electricity licensee.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (2) The purposes referred to in subsection (1)(a) are —
 
@@ -1146,7 +1250,9 @@ SPECIAL ADMINISTRATION ORDER
 
 (a) an electricity licensee shall not be wound up voluntarily without the consent of the Authority;
 
-(b) no judicial management order under Part VIIIA of the Companies Act shall be made in relation to an electricity licensee;
+(b) no judicial management order under Part VIIIA of the Companies Act shall be made in relation to an electricity licensee without the consent of the Authority;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (c) no step shall be taken by any person to enforce any security over an electricity licensee’s property, except where that person has served on the Authority 14 days notice of his intention to take that step; and
 
@@ -1170,17 +1276,37 @@ CONTROL OF ELECTRICITY LICENSEES AND ENTITIES WITH INTERESTS IN TRANSMISSION SYS
 
 30A\. In this Part, unless the context otherwise requires ––
 
+“arrangement” includes any formal or informal scheme, arrangement or understanding, and any trust whether express or implied;
+
+[Act 42 of 2018 wef 03/05/2019]
+
 “associate” has the meaning given to that expression in regulations made under section 30C;
 
 “business trust” has the same meaning as in section 2 of the Business Trusts Act (Cap. 31A);
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-“designated business trust” means a business trust that is established wholly or partly in respect of a transmission system (or any part thereof) and which has been declared by the Authority, by notification in theGazette, to be a designated business trust for the purposes of section 30B;
+“designated business trust” means a business trust that is established wholly or partly in respect of a transmission system (or any part thereof) and which has been declared by the Minister to be a designated business trust for the purposes of section 30B;
 
-“designated electricity licensee” means a person who has been granted a licence under section 9(1)(b) or (ba);
+[Act 42 of 2018 wef 03/05/2019]
 
-“designated entity” means an entity, not being a designated electricity licensee, which owns a transmission system (or any part thereof) and which has been declared by the Authority, by notification in theGazette, to be a designated entity for the purposes of section 30B;
+“designated electricity licensee” means any of the following:
+
+(a) a transmission licensee;
+
+(b) a transmission agent licensee;
+
+(c) any other electricity licensee declared by the Minister to be a designated electricity licensee for the purposes of this Part;
+
+[Act 42 of 2018 wef 03/05/2019]
+
+“designated entity” means an entity, not being an electricity licensee, that —
+
+(a) owns a transmission system (or any part of the system); and
+
+(b) is declared by the Minister to be a designated entity for the purposes of this Part;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 “entity” includes a corporation and a limited liability partnership;
 
@@ -1198,19 +1324,33 @@ CONTROL OF ELECTRICITY LICENSEES AND ENTITIES WITH INTERESTS IN TRANSMISSION SYS
 
 [18/2006 wef 01/05/2006]
 
+(1A) The notice under subsection (1) must be given within 5 days after the designated electricity licensee, the designated entity or the trustee‑manager of the designated business trust (as the case may be) becomes aware of the acquisition mentioned in that subsection.
+
+[Act 42 of 2018 wef 03/05/2019]
+
 (2) No person shall, whether through a series of transactions over a period of time or otherwise, become a 12% controller, a 30% controller or an indirect controller of a designated electricity licensee, a designated entity or a designated business trust without obtaining the prior written approval of the Authority.
 
 [18/2006 wef 01/05/2006]
 
 (3) No person shall acquire as a going concern —
 
-(a) the business of a designated electricity licensee conducted pursuant to its licence; or
+(a) the business, or any part of the business, of a designated electricity licensee conducted pursuant to its licence;
 
-(b) the business of a designated entity which relates to its transmission system or any part thereof,
+[Act 42 of 2018 wef 03/05/2019]
 
-unless the person, and the licensee or entity, as the case may be, obtain the prior written approval of the Authority.
+(b) the business, or any part of the business, of a designated entity which relates to its transmission system or any part thereof; or
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(c) the business, or any part of the business, of a designated business trust relating to a transmission system or any part of a transmission system in respect of which, wholly or in part, the business trust is established,
+
+[Act 42 of 2018 wef 03/05/2019]
+
+unless the person, and the licensee, the entity or the trustee‑manager of the business trust, as the case may be, obtain the prior written approval of the Authority.
 
 [18/2006 wef 01/05/2006]
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (4) The Authority may approve an application of a person under subsection (2) if the Authority is satisfied that —
 
@@ -1232,9 +1372,17 @@ unless the person, and the licensee or entity, as the case may be, obtain the pr
 
 [18/2006 wef 01/05/2006]
 
-(6) Any approval by the Authority under this section may be granted subject to such conditions as the Authority considers appropriate.
+(6) Any approval by the Authority under this section may be granted subject to such conditions as the Authority may determine, including but not limited to any condition —
 
-[18/2006 wef 01/05/2006]
+(a) restricting the disposal or further acquisition of equity interests or voting power in the designated electricity licensee, designated entity or designated business trust; or
+
+(b) restricting the exercise of voting power in the designated electricity licensee, designated entity or designated business trust.
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(6A) The Authority may at any time add to, vary or revoke any condition imposed under this section.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (7) Any condition imposed by the Authority under this section shall have effect notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed or other constitution of the licensee, the entity or the business trust.
 
@@ -1246,13 +1394,15 @@ unless the person, and the licensee or entity, as the case may be, obtain the pr
 
 (9) In this section —
 
-“12% controller” means a person who, alone or together with his associates —
+“12% controller” means a person, not being a 30% controller, who, alone or together with his associates —
 
 (a) holds 12% or more of the total equity interest in; or
 
 (b) is in a position to control 12% or more of the voting power in,
 
 the licensee, the entity or the business trust;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 “30% controller” means a person who, alone or together with his associates —
 
@@ -1278,9 +1428,11 @@ but does not include —
 
 ### Regulations for carrying out section 30B
 
-30C\.—(1) The Authority may, with the approval of the Minister, make such regulations as are necessary or expedient for carrying out the purposes of section 30B.
+30C\.—(1) The Authority may, with the approval of the Minister, make such regulations under section 103 as are necessary or expedient for carrying out the purposes of section 30B.
 
 [18/2006 wef 01/05/2006]
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (2) Without prejudice to the generality of subsection (1), the regulations may prescribe —
 
@@ -1290,13 +1442,27 @@ but does not include —
 
 (c) the circumstances under which a person would be considered to have acquired as a going concern a business referred to in section 30B(3);
 
-(d) the circumstances under which a person would be considered to be an associate for the purposes of sections 30B, 30D and 30F;
+(d) the circumstances under which a person would be considered to be an associate for the purposes of sections 30B, 30D and 30F; and
 
-(e) the conditions which the Authority may impose in granting any approval under section 30B; and
+[Act 42 of 2018 wef 03/05/2019]
 
-(f) the period within which a notice under section 30B(1) must be given to the Authority.
+(e) the manner in which any notice or application under section 30B must be given or made, and the person or persons who are required to give the notice or make the application.
 
-[18/2006 wef 01/05/2006]
+[Act 42 of 2018 wef 03/05/2019]
+
+(f) [Deleted by Act 42 of 2018 wef 03/05/2019]
+
+### Power to exempt
+
+30CA\. The Authority may, by order in theGazette, exempt —
+
+(a) any person or class of persons; or
+
+(b) any class or description of equity interests,
+
+from section 30B(1), (2) or (3), subject to such conditions as may be specified in the order.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ### Power to issue directions
 
@@ -1304,27 +1470,63 @@ but does not include —
 
 (a) the person has contravened section 30B(2) or (3);
 
-(b) any condition of approval imposed on the person under section 30B has not been complied with;
+(b) in the case of a person who has obtained the Authority’s approval under section 30B(2) or who has been exempted from section 30B(2) under section 30CA —
 
-(c) the person has furnished false or misleading information or documents in connection with an application under section 30B; or
+(i) the person is not or ceases to be a fit and proper person;
 
-(d) the Authority would not have granted its approval under section 30B had it been aware, at that time, of circumstances relevant to the person’s application for such approval.
+(ii) having regard to the person’s likely influence —
+
+(A) the designated electricity licensee or designated entity, as the case may be, is not, or is no longer, likely to conduct its business prudently or to comply with the provisions of this Act; or
+
+(B) the trustee-manager of the designated business trust is not, or is no longer, likely to conduct the business of the business trust prudently or to comply with the provisions of this Act; or
+
+(iii) it is not, or is no longer, in the public interest to allow the person to continue to be a 12% controller, a 30% controller or an indirect controller, as the case may be;
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(ba) in the case of a person who has obtained the Authority’s approval under section 30B(3) or who has been exempted from section 30B(3) under section 30CA, and who has acquired as a going concern a business mentioned in section 30B(3) —
+
+(i) the person is not or ceases to be a fit and proper person; or
+
+(ii) it is not, or is no longer, in the public interest to allow the person to continue to own or manage that business;
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(c) the person has furnished false or misleading information or documents in connection with an application under section 30B;
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(d) the Authority would not have granted its approval under section 30B had it been aware, at that time, of circumstances relevant to the person’s application for such approval; or
 
 [18/2006 wef 01/05/2006]
 
-(2) Where a person has acquired an equity interest in a designated electricity licensee, a designated entity or a designated business trust, the Authority may —
+[Act 42 of 2018 wef 03/05/2019]
 
-(a) direct the transfer or disposal of all or any of the equity interest held by the person or any of his associates (referred to in this section and section 30E as the specified equity interest) within such time and subject to such conditions as the Authority considers appropriate;
+(e) any condition imposed on the person under section 30B or 30CA has not been complied with.
 
-(b) restrict the transfer or disposal of the specified equity interest; or
+[Act 42 of 2018 wef 03/05/2019]
 
-(c) make such other direction as the Authority considers appropriate.
+(2) Where the person is a 12% controller, a 30% controller or an indirect controller of a designated electricity licensee, designated entity or designated business trust, the Authority may, by notice in writing —
 
-[18/2006 wef 01/05/2006]
+(a) direct the person to take such steps as are necessary, within such period as may be specified by the Authority, to ensure that the person ceases to be a 12% controller, a 30% controller or an indirect controller of the licensee, entity or business trust;
+
+(b) direct the person or any of the person’s associates to transfer or dispose of all or any of the equity interests in the licensee, entity or business trust held by the person or the person’s associate (called in this section and section 30E the specified equity interests) within such time and subject to such conditions as the Authority considers appropriate;
+
+(c) restrict the transfer or disposal of the specified equity interests; or
+
+(d) make such other direction as the Authority considers appropriate.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (3) Where a person has acquired as a going concern a business referred to in section 30B(3), the Authority may —
 
-(a) direct the person to transfer or dispose of all or any part of the business within such time and subject to such conditions as the Authority considers appropriate; or
+(a) direct the person to transfer or dispose of all or any part of the business within such time and subject to such conditions as the Authority considers appropriate;
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(aa) restrict the transfer or disposal of the business or any part of the business; or
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (b) make such other direction as the Authority considers appropriate.
 
@@ -1352,7 +1554,7 @@ but does not include —
 
 [18/2006 wef 01/05/2006]
 
-(2) Where any direction is issued under section 30D(2)(a) or (b), notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed or other constitution, of the licensee, the entity or the business trust, as the case may be —
+(2) Where any direction is issued under section 30D(2)(b) or (c), notwithstanding the provisions of any other written law or anything contained in the memorandum or articles of association, trust deed or other constitution, of the licensee, the entity or the business trust, as the case may be —
 
 (a) no voting rights shall be exercisable in respect of the specified equity interest unless the Authority expressly permits such rights to be exercised;
 
@@ -1363,6 +1565,8 @@ but does not include —
 until the transfer or disposal is effected in accordance with the direction or until the direction is revoked, as the case may be.
 
 [18/2006 wef 01/05/2006]
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ### Offences, penalties and defences
 
@@ -1642,7 +1846,9 @@ any person authorised in writing by the transmission licensee or market support 
 
 ### Contestable consumers
 
-41\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing the criteria that must be met by a consumer in order to be classified as a contestable consumer.
+41\.—(1) The Authority may, with the approval of the Minister, make regulations prescribing the circumstances in which a consumer becomes, or ceases to be, a contestable consumer (including upon the grant of an application made by the consumer to be or to cease to be such).
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (2) A market support services licensee shall provide market support services to a contestable consumer in accordance with this Act and its licence, and on terms and conditions approved by the Authority.
 
@@ -1676,7 +1882,9 @@ any person authorised in writing by the transmission licensee or market support 
 
 (b) a retail electricity licensee is unable or refuses to retail electricity to a contestable consumer for any reason,
 
-a market support services licensee shall provide the contestable consumer access to any wholesale electricity market for the purpose of allowing the consumer to purchase electricity indirectly from that market through the licensee at prevailing market prices.
+a market support services licensee shall (if the contestable consumer remains as such under this section) provide the contestable consumer access to any wholesale electricity market for the purpose of allowing the consumer to purchase electricity indirectly from that market through the licensee at prevailing market prices.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (11) Nothing in subsections (6) and (8) shall have the effect of extinguishing any right or liability of any party under the existing agreement referred to in those subsections where such right or liability had accrued on the date the agreement ceased to have effect under those subsections.
 
@@ -1716,9 +1924,13 @@ WHOLESALE ELECTRICITY MARKET
 
 (a) to operate and administer any wholesale electricity market specified in its licence;
 
-(b) to schedule generating units, loads and the transmission system;
+(b) to schedule generating units, loads and a transmission system of a transmission licensee;
 
-(c) to facilitate the planning and augmentation of the transmission system;
+[Act 42 of 2018 wef 03/05/2019]
+
+(c) to facilitate the planning and augmentation of a transmission system of a transmission licensee;
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (d) to provide information and other services to facilitate decisions for investment and the use of resources in the electricity industry; and
 
@@ -1897,6 +2109,22 @@ COMPETITION
 (c) to prescribe any decision which the Authority may make and the effect of the decision; and
 
 (d) generally for giving full effect to the objective of this Part.
+
+### Guidelines
+
+53A\.—(1) The Authority may issue guidelines with a view to providing practical guidance or certainty in respect of any one or more of the provisions in this Part.
+
+(2) The Authority may consult with such person as the Authority thinks fit for the purpose of preparing any guidelines under subsection (1).
+
+(3) Where, in any administrative proceedings commenced in connection with this Part, any provision in this Part to which any guideline issued under subsection (1) relates is alleged to have been contravened, then —
+
+(a) compliance with such guideline; or
+
+(b) a contravention of or failure to comply with, whether by act or omission, such guideline,
+
+may be relied upon by any party to those proceedings as tending to negative or establish the contravention which is in question in those proceedings.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ### Power to investigate
 
@@ -2108,17 +2336,23 @@ APPEAL PANEL
 
 (b) of the receipt of a notification by the Authority of a direction or decision under Part VII,
 
-notify the Minister that he wishes to make an appeal, providing adequate details of the grounds for the appeal and requesting the Minister to establish an Appeal Panel under subsection (3).
+notify the Minister that he wishes to make an appeal, providing adequate details of the grounds for the appeal and requesting the Minister to establish an Appeal Panel to consider and determine the appeal.
 
-(3) When requested to establish an Appeal Panel, the Minister shall, upon consultation with the Authority, unless the request is in the opinion of the Minister of a frivolous, trivial or vexatious nature, establish by direction, within 30 days of the request, an Appeal Panel to consider an appeal made under this section.
+[Act 42 of 2018 wef 03/05/2019]
+
+(3) When requested to establish an Appeal Panel, the Minister shall, upon consultation with the Authority, unless the request is in the opinion of the Minister of a frivolous, trivial or vexatious nature, establish an Appeal Panel within 30 days after the request to consider and determine the appeal in question.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ### Composition and procedure of Appeal Panel
 
-65\.—(1) An Appeal Panel established by direction under section 64(3) or 98(2) shall consist of at least 3 persons, one of whom shall be appointed by the Minister to be the chairman of the Appeal Panel.
+65\.—(1) An Appeal Panel established by the Minister shall consist of at least 3 persons, one of whom shall be appointed by the Minister to be the chairman of the Appeal Panel.
 
 [18/2006 wef 01/05/2006]
 
-(2) The Minister may, in the direction establishing an Appeal Panel, provide for —
+[Act 42 of 2018 wef 03/05/2019]
+
+(2) The Minister may, in establishing an Appeal Panel, provide for —
 
 (a) the terms and conditions of the membership of the Appeal Panel as the Minister considers appropriate;
 
@@ -2128,13 +2362,29 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 
 [18/2006 wef 01/05/2006]
 
-(3) The remuneration and allowances, if any, of a member of an Appeal Panel shall be determined by the Minister and shall form part of the expenses of the Authority.
+[Act 42 of 2018 wef 03/05/2019]
+
+(3) The remuneration and allowances, if any, of a member of an Appeal Panel are to be determined by the Minister and —
+
+(a) subject to paragraph (b), form part of the expenses of the Authority; and
+
+(b) where the Appeal Panel is established for the purposes of section 20A, must be borne equally byEand the transmission licensee, or in such other proportion betweenEand the transmission licensee as the Appeal Panel may specify.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (4) An Appeal Panel shall be independent in the performance of its functions.
 
 ### Powers of Appeal Panel
 
-66\.—(1) An Appeal Panel shall, by notice to the Authority and the appellant, specify the date on and the place at which the appeal shall be heard.
+66\.—(1) An Appeal Panel must —
+
+(a) by notice to the Authority and the appellant; or
+
+(b) where the Appeal Panel is established for the purposes of section 20A, by notice toEand the transmission licensee concerned,
+
+specify the date on and the place at which the appeal is to be heard.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (2) An Appeal Panel shall have all the powers and duties of the Authority that are necessary to carry out its functions and duties under this Act.
 
@@ -2165,6 +2415,10 @@ notify the Minister that he wishes to make an appeal, providing adequate details
 [18/2006 wef 01/05/2006]
 
 (10) The Appeal Panel shall notify the appellant of its decision in respect of his appeal and the reasons for its decision.
+
+(11) Where an Appeal Panel is established for the purposes of section 20A, the Appeal Panel must notifyEand the transmission licensee of its decision in respect of the terms of the agreement required to be determined by it, and the reasons for its decision.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ## PART IX
 
@@ -2302,9 +2556,15 @@ require the defect to be made good or removed within such period as may be speci
 
 ### Cable detection work to be carried out before earthworks
 
-79\.—(1) Subject to subsection (2), no person other than an electricity licensee shall commence or carry out, or cause or permit the commencement or carrying out of, any earthworks within the vicinity of any low voltage electricity cable which belongs to or which is under the management or control of an electricity licensee unless the person has caused cable detection work to be carried out by a licensed cable detection worker.
+79\.—(1) Subject to subsection (2), no person shall commence or carry out, or cause or permit the commencement or carrying out of, any earthworks within the vicinity of any low voltage electricity cable which belongs to or which is under the management or control of an electricity licensee unless the person has caused cable detection work to be carried out by a licensed cable detection worker.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (2) Nothing in subsection (1) shall prohibit a person from commencing or carrying out any earthworks where he has reasonable cause to believe that it is necessary to do so in the interest of public or private safety except that the person shall, not more than 7 days after the earthworks have been commenced or carried out, give to the electricity licensee notice in writing stating the nature and extent of those earthworks.
+
+(2A) Subsection (1) does not prohibit an electricity licensee from commencing or carrying out earthworks within the vicinity of any low voltage electricity cable that belongs to or that is under the management or control of the electricity licensee.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (3) No person other than a licensed cable detection worker or an electricity licensee shall commence or carry out any cable detection work within the vicinity of any low voltage electricity cable belonging to or under the management or control of the licensee where such cable detection work is commenced or carried out in connection or combination with or in relation to any earthworks carried out or to be carried out.
 
@@ -2312,7 +2572,7 @@ require the defect to be made good or removed within such period as may be speci
 
 ### Carrying out of earthworks within vicinity of high voltage electricity cable
 
-80\.—(1) Subject to this section, no person other than an electricity licensee shall commence or carry out, or cause or permit the commencement or carrying out of, any earthworks within the vicinity of any high voltage electricity cable which belongs to or which is under the management or control of an electricity licensee unless the person —
+80\.—(1) Subject to this section, no person shall commence or carry out, or cause or permit the commencement or carrying out of, any earthworks within the vicinity of any high voltage electricity cable which belongs to or which is under the management or control of an electricity licensee unless the person —
 
 (a) has given to the electricity licensee not less than 7 days notice in writing of the date on which it is proposed to commence the earthworks;
 
@@ -2322,17 +2582,21 @@ require the defect to be made good or removed within such period as may be speci
 
 [18/2006 wef 01/05/2006]
 
+[Act 42 of 2018 wef 03/05/2019]
+
 (2) No person other than a licensed cable detection worker shall commence or carry out any cable detection work within the vicinity of any high voltage electricity cable which belongs to or which is under the management or control of an electricity licensee.
 
 (3) The Authority may, if it thinks fit, modify the period for which a notice under subsection (1)(a) is to be given to an electricity licensee.
 
-(4) It shall be the duty of the person who carries out any earthworks referred to in subsection (1) —
+(4) It shall be the duty of the person who commences or carries out, or causes or permits the commencement or carrying out of, any earthworks referred to in subsection (1) —
 
 (a) to comply with all reasonable requirements of the electricity licensee for the prevention of damage to the high voltage electricity cable;
 
 (b) to ensure that reasonable precautions are taken when carrying out such earthworks to prevent any damage to the high voltage electricity cable; and
 
 (c) to allow the electricity licensee reasonable access to the work site for the purpose of inspecting or taking any necessary measures to protect the high voltage electricity cable.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (5) It shall be the duty of the electricity licensee to whom a notice under subsection (1)(a) has been given —
 
@@ -2343,6 +2607,10 @@ require the defect to be made good or removed within such period as may be speci
 (c) to take all such measures at the work site as may be reasonable and necessary for the protection of the high voltage electricity cable from damage and, in so doing, the electricity licensee shall have regard to the potential risks and dangers that can arise from any damage to the high voltage electricity cable.
 
 (6) Nothing in subsection (1) shall prohibit a person from commencing or carrying out any earthworks where he has reasonable cause to believe that it is necessary to do so in the interest of public or private safety except that the person shall, not more than 7 days after the earthworks have been commenced or carried out, give to the electricity licensee notice in writing stating the nature and extent of those earthworks.
+
+(6A) Subsection (1) does not prohibit an electricity licensee from commencing or carrying out earthworks within the vicinity of any high voltage electricity cable that belongs to or that is under the management or control of the electricity licensee.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (7) Any person who contravenes subsection (1) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
 
@@ -2380,13 +2648,33 @@ require the defect to be made good or removed within such period as may be speci
 
 ### Licensing of electrical worker
 
-82\.—(1) Subject to subsection (2), no person shall —
+82\.—(1) An individual must not carry out, or offer or undertake to carry out, any electrical work unless —
 
-(a) carry out or caused to be carried out any electrical work, unless he holds a valid electrical worker licence;
+(a) the individual is a licensed electrical worker; or
 
-(b) advertise or otherwise holds himself out as an electrical worker, or as a licensed electrical worker, or as a person competent or qualified by any written law to perform or carry out electrical work, unless he holds a valid electrical worker licence; or
+(b) the individual acts under the supervision of an individual who is a licensed electrical worker.
 
-(c) engage knowingly any person who is not a licensed electrical worker to carry out any electrical work.
+[Act 42 of 2018 wef 03/05/2019]
+
+(1A) An individual must not hold himself out (whether by an advertisement or any other means) as authorised under this Act to carry out any electrical work, unless the individual is a licensed electrical worker.
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(1B) A person must not in the course of business (whether or not carried on for profit) provide, or offer or undertake to provide, the carrying out of any electrical work unless the person ensures that the work is carried out by —
+
+(a) one or more individuals, each being a licensed electrical worker; or
+
+(b) one or more individuals acting under the supervision of one or more individuals, each of the latter being a licensed electrical worker.
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(1C) A person must not hold out (whether by an advertisement or any other means) that the person is authorised under this Act to provide in the course of business the carrying out of any electrical work, unless the person ensures that the work is carried out by the individuals mentioned in subsection (1B)(a) or (b).
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(1D) An owner or occupier of any premises who wishes to have any electrical work carried out at the premises must not knowingly engage (whether with or without consideration) a person that is not permitted under subsection (1) or (1B) to carry out any electrical work or to provide the carrying out of any electrical work, as the case may be.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (2) The Authority may —
 
@@ -2400,7 +2688,9 @@ require the defect to be made good or removed within such period as may be speci
 
 (e) attach any exemption to or impose any term, condition or restriction on any electrical worker licence.
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence.
+(3) Any person who contravenes subsection (1), (1A), (1B), (1C) or (1D) shall be guilty of an offence.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (4) Notwithstanding any provision in this section, but subject to any other written law, it shall not be unlawful for —
 
@@ -2454,19 +2744,45 @@ OFFENCES
 
 ### Damage to property of electricity licensee
 
-85\.\*—(1) Any person who wilfully removes, destroys or damages any electrical plant or electricity cable in the transmission network belonging to or under the management or control of an electricity licensee or hinders or prevents the electrical plant or electricity cable from being used or operated in the manner in which it is intended to be used or operated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+85\.\*—(1) Any person who —
 
-(2) Notwithstanding subsection (1), any person who, in the course of carrying out any earthworks, damages or suffers to be damaged any high voltage electricity cable in the transmission network belonging to or under the management or control of an electricity licensee shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or to both.
+(a) removes, destroys or damages any electrical plant or electricity cable which is part of a transmission system that belongs to or that is under the management or control of an electricity licensee;
 
-(3) Where an offence under subsection (2) is committed by any person acting as the agent or servant of another person, or being otherwise subject to the supervision or instructions of another person for the purposes of any employment in the course of which the offence was committed, that other person shall, without prejudice to the liability of the first-mentioned person, be liable under that subsection in the same manner and to the same extent as if he had personally committed the offence unless he proves to the satisfaction of the court that the offence was committed without his consent or connivance or that it was not attributable to any neglect on his part.
+(b) causes or permits the removal, destruction or damage of such electrical plant or electricity cable; or
+
+(c) in any way other than by paragraph (a) or (b), wilfully or recklessly hinders or prevents such electrical plant or electricity cable from being used or operated in the manner in which it is intended to be used or operated,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1 million or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(2) [Deleted by Act 42 of 2018 wef 03/05/2019]
+
+(3) [Deleted by Act 42 of 2018 wef 03/05/2019]
 
 (4) Any person may apprehend any other person if the other person within his view commits an offence under this section and shall, on such apprehension without unreasonable delay, hand over the person so apprehended to a police officer.
 
-(5) In any proceedings for an offence under subsection (2), it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
+(5) In any proceedings for an offence under subsection (1)(a) or (b), it shall be a defence for the person charged to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
-(6) If in any proceedings for an offence under subsection (2), the defence involves acting on information supplied by a licensed cable detection worker, the person charged shall not, without leave of the court, be entitled to rely on that defence unless he has, within 14 clear days before the hearing, served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of the licensed cable detection worker.
+[Act 42 of 2018 wef 03/05/2019]
+
+(6) If in any proceedings for an offence under subsection (1)(a) or (b), the defence involves acting on information supplied by a licensed cable detection worker, the person charged shall not, without leave of the court, be entitled to rely on that defence unless he has, within 14 clear days before the hearing, served on the prosecutor a notice in writing giving such information as was then in his possession identifying or assisting in the identification of the licensed cable detection worker.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 \*Section 85 came into operation on 1st January 2003 (S 654/2002).
+
+### Damage to submarine electricity cables, etc.
+
+85A\. Any person who wilfully, recklessly or negligently —
+
+(a) does any act, or causes or permits any act to be done, which damages or is likely to damage any submarine electric line or electricity cable in the territorial waters of Singapore that belongs to or that is under the management or control of an electricity licensee; or
+
+(b) omits to do anything required to prevent any damage to any such submarine electric line or electricity cable,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2 million or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ### Falsely pretending to be employee of Authority or electricity licensee
 
@@ -2476,27 +2792,55 @@ OFFENCES
 
 ### Unauthorised use of electricity
 
-87\.\*—(1) Any person who —
+87\.—(1) Any person who —
 
-(a) dishonestly or fraudulently abstracts, uses or consumes, or dishonestly or fraudulently diverts or causes to be diverted, any electricity supplied by an electricity licensee; or
+(a) dishonestly or fraudulently abstracts, uses, consumes or diverts any electricity supplied by an electricity licensee;
 
-(b) alters or tampers with any meter supplied by an electricity licensee,
+(b) alters or tampers with any part of any meter or meter installation supplied by an electricity licensee for registering the quantity of electricity supplied to any person or premises;
 
-shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
+(c) does any thing that compromises or adversely affects the ability or proper operation of any meter or meter installation supplied by an electricity licensee, in duly registering the quantity of electricity supplied to any person or premises; or
 
-(2) Where any person is prosecuted for an offence under subsection (1)(b) —
+(d) causes or permits any other person to engage in conduct mentioned in paragraph (a), (b) or (c),
 
-(a) the possession by him of any device for altering the index of any meter or for preventing any meter from duly registering the quantity of electricity supplied by an electricity licensee;
+shall be guilty of an offence.
 
-(b) the existence of any hole on the meter cover of any meter supplied by an electricity licensee;
+(2) A person who is guilty of an offence under subsection (1)(a), (b), (c) or (d) shall be liable on conviction to one or both of the following:
 
-(c) the existence of any damage to, removal of or change to the chemical composition of any paint or other chemical compound applied by an electricity licensee over any screw, or other component or mechanism of any meter; or
+(a) a fine that is the total of —
 
-(d) the existence of any damage to the seal which is fastened to the outer cover of any meter to ensure that the cover is not removed, opened, dislodged or otherwise tampered with,
+(i) an amount not exceeding $50,000; and
 
-when the meter is in the custody or under the control of the person, shall be prima facie evidence that the person has altered or tampered with the meter.
+(ii) an amount equal to 3 times the value of electricity —
 
-\*Section 87 came into operation on 1st January 2003 (S 654/2002).
+(A) abstracted, used, consumed or diverted in the commission of the offence under subsection (1)(a), or caused or permitted to be so abstracted, used, consumed or diverted in the commission of the offence under subsection (1)(d), as the case may be; or
+
+(B) supplied as a result of the commission of the offence under subsection (1)(b), (c) or (d), as the case may be;
+
+(b) imprisonment for a term not exceeding 3 years,
+
+and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part of a day during which the offence continues after conviction.
+
+(3) The value of the electricity abstracted, used, consumed, diverted or supplied as mentioned in subsection (2)(a)(ii), may be determined based on the amount of such electricity fairly and reasonably estimated after comparing records (as are appropriate and available) of electricity usage before, during and after the abstraction, use, consumption, diversion or supply.
+
+(4) If, in any proceedings before a court for an offence under subsection (1)(b) or (d), it is alleged that a person altered or tampered with any part of any meter or meter installation mentioned in subsection (1)(b), and it is proved —
+
+(a) that, at the time of the alleged conduct —
+
+(i) a device or wire was attached to, or was in the vicinity of, the meter or meter installation (or any part of the meter or meter installation) for the purpose of altering the index of the meter or meter installation or preventing the meter or meter installation from duly registering the quantity of electricity supplied;
+
+(ii) the covering of the meter or meter installation had a hole which is not a result of ordinary wear and tear;
+
+(iii) any seal fastened by an electricity licensee to any part of the meter or meter installation was damaged, removed or changed;
+
+(iv) any paint or other chemical compound applied by an electricity licensee to or on any screw, component or mechanism of any part of the meter or meter installation was damaged or removed or altered in its chemical composition; or
+
+(v) the position or arrangement of any test link on a meter terminal test block of the meter installation was changed or altered; and
+
+(b) that the person had, at the time of the alleged conduct, custody or control of the meter or meter installation,
+
+then the person is presumed, until the contrary is proved, to have so altered or tampered with the meter or meter installation.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ### Obstructing licensee in performance of duties
 
@@ -2546,7 +2890,7 @@ shall be guilty of an offence.
 
 (2) The Authority may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
-(3) All sums collected under this section shall be paid to the Authority.
+(3) [Deleted by Act 42 of 2018 wef 03/05/2019]
 
 \*Section 93 came into operation on 1st December 2002 (S 600/2002).
 
@@ -2632,21 +2976,21 @@ the Authority shall hold an inquiry into the nature and cause of the accident wi
 
 (d) any notice issued by the Authority under section 5(2)(b),
 
-may, except where provision has been made under this Act for an appeal to be made to an Appeal Panel, appeal to the Minister, together with adequate details of the grounds for the appeal.
+may, except where provision has been made under this Act for an appeal to be made to an Appeal Panel, appeal to the Minister.
 
 [18/2006 wef 01/05/2006]
 
-(1A) Unless otherwise provided in this Act, an appeal under subsection (1) shall be lodged within 14 days of the receipt of the decision or direction of, or the issue or approval of the code of practice or standard of performance by, the Authority.
+[Act 42 of 2018 wef 03/05/2019]
 
-[18/2006 wef 01/05/2006]
+(1A) [Deleted by Act 42 of 2018 wef 03/05/2019]
 
-(1B) Any person who has lodged an appeal under subsection (1) shall provide such information as may be required by the Minister in such manner and within such period as may be specified by the Minister.
-
-[18/2006 wef 01/05/2006]
+(1B) [Deleted by Act 42 of 2018 wef 03/05/2019]
 
 (1C) Unless —
 
-(a) otherwise provided in this Act; or
+(a) otherwise provided in this Act or allowed by the Minister; or
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (b) the appeal is against the imposition or the amount of a financial penalty,
 
@@ -2654,15 +2998,39 @@ an appeal under subsection (1) shall not suspend the effect of the decision, dir
 
 [18/2006 wef 01/05/2006]
 
-(2) Where the Minister considers that an appeal lodged under subsection (1) involves issues of such nature or complexity that it ought to be considered and determined by persons with particular technical or other specialised knowledge, he may, subject to section 65(1), establish by direction an Appeal Panel comprising one or more of such persons to consider and determine the appeal.
+(2) Where the Minister considers that an appeal made to the Minister involves issues of such nature or complexity that it ought to be considered and determined by persons with particular technical or other specialised knowledge, he may, subject to section 65(1), establish by direction an Appeal Panel comprising one or more of such persons to consider and determine the appeal.
 
 [18/2006 wef 01/05/2006]
 
-(3) The Minister may determine an appeal under this section by confirming, varying or reversing any decision or direction of the Authority or by amending any code of practice or standard of performance issued or approved by the Authority.
+[Act 42 of 2018 wef 03/05/2019]
 
-[18/2006 wef 01/05/2006]
+(3) Any person who makes an appeal to the Minister must provide such information and documents as the Minister requires (whether for the purpose of deciding if an Appeal Panel should be established or for determining the appeal) and in such manner and within such period as may be specified by the Minister.
 
-(4) The decision of the Minister shall be final.
+[Act 42 of 2018 wef 03/05/2019]
+
+(4) The Minister may determine an appeal under this section —
+
+(a) by confirming, varying or reversing any decision or direction of the Authority;
+
+(b) (if applicable) by amending any code of practice or standard of performance issued or approved by the Authority to which the appeal relates; or
+
+(c) by directing the Authority to reconsider its decision or direction,
+
+and the Minister’s decision is final.
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(5) Subsection (4) applies whether the appeal is lodged with or made to the Minister before, on or after the date of commencement of section 27(e) of the Electricity (Amendment) Act 2018.
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(6) The Minister may make regulations prescribing —
+
+(a) the time and manner in which an appeal must be made under this section; and
+
+(b) the procedure to be adopted in determining any appeal under this section.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 \*Section 98 came into operation on 1st January 2003 (S 654/2002).
 
@@ -2693,6 +3061,12 @@ an appeal under subsection (1) shall not suspend the effect of the decision, dir
 \*100\. Any fee or financial penalty to be paid to the Authority under this Act may be recovered by it in any court of competent jurisdiction as if it were a simple contract debt.
 
 \*Section 100 came into operation on 1st January 2003 (S 654/2002).
+
+### Payment into Consolidated Fund
+
+100A\. All composition sums collected by the Authority under section 93 and all financial penalties collected by the Authority under this Act, must be paid into the Consolidated Fund.
+
+[Act 42 of 2018 wef 03/05/2019]
 
 ### Keeping of register
 
@@ -2788,9 +3162,17 @@ an appeal under subsection (1) shall not suspend the effect of the decision, dir
 
 (p) the prohibition of the supply or transmission of electricity except by means of a system approved by the Authority;
 
-(q) the prescribing of the form of notice to be given to the Authority of accidents and of failures of the supply or transmission of electricity; and
+(q) the prescribing of the form of notice to be given to the Authority of accidents and of failures of the supply or transmission of electricity;
 
-(r) the prescribing of fees and charges and their method of payment for the purposes of this Act.
+[Act 42 of 2018 wef 03/05/2019]
+
+(r) the prescribing of fees and charges and their method of payment for the purposes of this Act;
+
+[Act 42 of 2018 wef 03/05/2019]
+
+(s) the prescribing of any service provided in connection with the performance of any function or duty of the Authority, for which the Authority may charge a price by way of agreement with the person to whom the service is provided (instead of prescribing the price).
+
+[Act 42 of 2018 wef 03/05/2019]
 
 (3) The Authority may in making any regulations provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
@@ -2858,6 +3240,10 @@ This Legislative History is provided for the convenience of users of the Electri
 |||(Bill No. 11/2006 published on 28 February 2006)|
 ||Date of Second and Third Readings|3 April 2006|
 ||Date of commencement|1 May 2006|
+|6.|**Act 42 of 2018—Electricity (Amendment) Act 2018**|
+||Date of First Reading|10 September 2018 (Bill No. 35/2018 published on 10 September 2018)|
+||Date of Second and Third Readings|1 October 2018|
+||Date of commencement|3 May 2019|
 ## COMPARATIVE TABLE
 
 Electricity Act
