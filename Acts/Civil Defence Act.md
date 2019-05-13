@@ -186,6 +186,10 @@
 
 - [76 Power of Disciplinary Board to deal with charges against lieutenant-colonel, etc.](#Power-of-Disciplinary-Board-to-deal-with-charges-against-lieutenant-colonel-etc)
 
+- [76A Appeal against award or finding](#Appeal-against-award-or-finding)
+
+- [76B Reduction after conviction](#Reduction-after-conviction)
+
 - [77 Commencement of sentence of detention](#Commencement-of-sentence-of-detention)
 
 - [78 Sentence of detention](#Sentence-of-detention)
@@ -287,6 +291,8 @@
 [**Part XIV GENERAL**](#Part-XIV)
 
 - [106 Persons exercising power, etc., not to be obstructed](#Persons-exercising-power-etc-not-to-be-obstructed)
+
+- [106A Wearing and possession of uniforms, etc., by others](#Wearing-and-possession-of-uniforms-etc-by-others)
 
 - [107 Offences by body corporate](#Offences-by-body-corporate)
 
@@ -798,9 +804,13 @@ Liability of persons subject to this Act to be tried and punished for service of
 
 ### Limitation of time for trial of offences under Act
 
-19\.—(1) Except in respect of the service offences mentioned in subsection (3), no person shall be liable to be tried by a disciplinary officer unless his trial begins before the expiration of a period of 3 years from the day upon which the service offence was alleged to have been committed.
+19\.—(1) Subject to subsection (3), a person is not liable to be tried by a disciplinary officer for a service offence unless the trial begins within 3 years after the later of the following dates:
 
-[32/2010 wef 01/02/2011]
+(a) the date on which the service offence was alleged to have been committed;
+
+(b) the date on which information relating to the commission of that offence was first reported to or discovered by an investigating officer for that service offence.
+
+[Act 53 of 2018 wef 13/05/2019]
 
 (2) [Deleted by Act 32/2010 wef 01/02/2011]
 
@@ -1424,19 +1434,33 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 ### Punishments
 
-75\.—(1) Where a disciplinary officer finds an accused guilty of a charge, he may award one of the following punishments:
+75\.—(1) Where a junior disciplinary officer finds an accused guilty of a charge, the junior disciplinary officer may award one of the following punishments:
 
-(a) if the accused is a serviceman, detention for a period not exceeding 40 days;
+(a) detention for a period not exceeding 40 days;
 
-(b) a fine not exceeding $300 or, if the accused is an officer, a fine not exceeding $1,000;
+(b) a fine not exceeding $1,500;
 
-[32/2010 wef 01/02/2011]
+(c) a reprimand;
 
-(c) reprimand; or
+(d) such other minor punishment as may be prescribed by regulations.
 
-(d) such other minor punishment as may be prescribed by the regulations.
+[Act 53 of 2018 wef 13/05/2019]
 
-(2) Where a disciplinary officer is of the opinion that the accused should be reduced in rank in addition to or in lieu of any punishment which may be awarded by him he may refer the charge and the record of the proceedings to the Commissioner with a recommendation that the accused be reduced in rank and the Commissioner may, at his discretion, reduce the rank of the accused in addition to or in substitution for the punishment imposed by the disciplinary officer.
+(1A) Where a senior disciplinary officer finds an accused guilty of a charge, the senior disciplinary officer may award one of the following punishments:
+
+(a) if the accused is a warrant officer (of any rank), detention for a period not exceeding 40 days;
+
+(b) if the accused is a warrant officer (of any rank), second lieutenant or lieutenant, a fine not exceeding $2,000 or, if the accused is a captain or major, a fine not exceeding $3,000;
+
+(c) a reprimand;
+
+(d) such other minor punishment as may be prescribed by regulations.
+
+[Act 53 of 2018 wef 13/05/2019]
+
+(2) Where a disciplinary officer is of the opinion that the accused should be reduced in rank in addition to or in lieu of any punishment which may be awarded by him he may refer the charge and the record of the proceedings to the Commissioner with a recommendation that the accused be reduced in rank and the Commissioner may, at his discretion but subject to section 76B, reduce the rank of the accused in addition to or in substitution for the punishment imposed by the disciplinary officer.
+
+[Act 53 of 2018 wef 13/05/2019]
 
 (3) In addition to any of the punishments referred to in subsection (1), a disciplinary officer may order an officer or serviceman found guilty of any offence under this Act to pay compensation, not exceeding $300, to any person who suffered bodily injury, damage or loss occasioned by the commission of the service offence.
 
@@ -1450,13 +1474,69 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 ### Power of Disciplinary Board to deal with charges against lieutenant-colonel, etc.
 
-76\.—(1) A charge against an officer of the rank of lieutenant-colonel or above may be dealt with by a Disciplinary Board consisting of 3 persons appointed for the purpose, either generally or specially, by the Minister.
+76\.—(1) A charge against an officer of the rank of lieutenant-colonel or above may be dealt with only by a Disciplinary Board consisting of 3 persons (none of whom may be the Commissioner) appointed for the purpose, either generally or specially, by the Minister.
+
+[Act 53 of 2018 wef 13/05/2019]
+
+(1A) The following provisions apply to an officer dealt with by a Disciplinary Board as if the officer were dealt with by a disciplinary officer:
+
+Sections 17, 18(1), 19(1) and (4), 20, 21, 43, 53, 74, 75(3) to (6), 83, 85, 89(1)(b), (c) and (d), 91, 97 and 115(2)(e).
+
+[Act 53 of 2018 wef 13/05/2019]
 
 (2) A Disciplinary Board may —
 
 (a) dismiss the charge if it thinks that the charge ought not to be proceeded with; or
 
-(b) deal with the case and upon conviction of the accused may impose a reprimand and in addition may make a recommendation to the Commissioner that the accused be reduced in rank and the Commissioner may at his discretion reduce the rank of the accused.
+(b) deal with the case and upon conviction of the accused impose —
+
+(i) a reprimand; or
+
+(ii) if the accused is a lieutenant-colonel or a colonel, a fine not exceeding $6,000, or if the accused is an Assistant Commissioner, a fine not exceeding $10,000,
+
+and may additionally make a recommendation to the Minister that the accused be reduced in rank, and the Minister may, subject to section 76B, reduce the rank of the accused in addition to or in substitution for the punishment imposed by the Disciplinary Board.
+
+[Act 53 of 2018 wef 13/05/2019]
+
+### Appeal against award or finding
+
+76A\.—(1) An accused who is aggrieved by a finding or punishment awarded by a disciplinary officer or Disciplinary Board may, within 5 days after being notified of the finding or punishment (or a longer or shorter period if prescribed in substitution), appeal to the Commissioner against the finding or punishment.
+
+(2) An appeal under subsection (1) must be made in such form and manner as may be prescribed.
+
+(3) Where an appeal has been made under subsection (2) against a finding or punishment awarded by a disciplinary officer or Disciplinary Board, the punishment awarded is suspended pending the determination of the appeal.
+
+(4) The Commissioner may determine an appeal under subsection (2) against a finding or punishment awarded by a disciplinary officer or Disciplinary Board —
+
+(a) by confirming any finding of guilt or punishment ordered by the disciplinary officer or Disciplinary Board;
+
+(b) by quashing any finding of guilt or punishment ordered by the disciplinary officer or Disciplinary Board and, if the Commissioner is of the opinion that the case against the appellant should be re-tried, by ordering the case to be re‑tried by another disciplinary officer or Disciplinary Board;
+
+(c) by replacing any finding by the disciplinary officer or Disciplinary Board that, in the opinion of the Commissioner, is illegal or cannot be supported by the evidence with a new finding that could validly have been made by the disciplinary officer or Disciplinary Board on the charge and on the facts; or
+
+(d) by varying the punishment by way of enhancement, reduction, substitution or otherwise except that no greater or more severe punishment is to be ordered unless the appellant has been given a reasonable opportunity of being heard.
+
+(5) The Commissioner’s decision under this section is final.
+
+(6) Every appellant must be notified of the Commissioner’s decision under this section.
+
+(7) The Commissioner may designate a Deputy Commissioner to hear and determine, in the Commissioner’s place, any appeal to the Commissioner under subsection (1).
+
+(8) A reference to the Commissioner in subsections (4), (5) and (6) includes a reference to a person designated under subsection (7).
+
+[Act 53 of 2018 wef 13/05/2019]
+
+### Reduction after conviction
+
+76B\. Where a disciplinary officer or Disciplinary Board recommends to the Commissioner or the Minister under section 75(2) or 76(2)(b) to reduce the rank of an accused, the Commissioner or the Minister must not reduce the rank of the accused before —
+
+(a) the expiry of the period for making an appeal under section 76A(1); or
+
+(b) the determination of any appeal under section 76A,
+
+whichever is later.
+
+[Act 53 of 2018 wef 13/05/2019]
 
 ### Commencement of sentence of detention
 
@@ -1486,25 +1566,39 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 ### Review of findings and awards
 
-81\.—(1) The Commissioner shall appoint one or more public officer (hereinafter referred to as the reviewing authority) to act for the purposes of this section in any particular case or any class of cases.
+81\. 
 
-[32/2010 wef 01/02/2011]
+—(1) [Deleted by Act 53 of 2018 wef 13/05/2019]
 
-(2) No person shall be appointed to be or act as the reviewing authority unless he is a qualified person within the meaning of the Legal Profession Act (Cap. 161).
+(2) [Deleted by Act 53 of 2018 wef 13/05/2019]
 
-(3) Where a charge has been dealt with by a disciplinary officer otherwise than by the dismissal thereof, the reviewing authority shall as soon as practicable review the finding or award.
+(3) Where a charge has been dealt with by a disciplinary officer otherwise than by the dismissal thereof, the Commissioner may review the finding or award.
 
-(4) Where on a review under this section it appears to the reviewing authority expedient to do so by reason of any mistake in law in the proceedings on the dealing with the charge or of anything occurring in those proceedings which in the opinion of the reviewing authority involved substantial injustice to the accused, the reviewing authority may quash the finding and may order a re-trial if it considers that a re-trial is necessary in the interests of justice.
+[Act 53 of 2018 wef 13/05/2019]
 
-(5) If a finding in any proceedings is quashed under subsection (4) and the award made in those proceedings relates only to the finding quashed, the reviewing authority shall also quash the award.
+(4) Where on a review under this section it appears to the Commissioner expedient to do so by reason of any mistake in law in the proceedings on the dealing with the charge or of anything occurring in those proceedings which in the opinion of the Commissioner involved substantial injustice to the accused, the Commissioner may quash the finding and may order a re-trial if the Commissioner considers that a re-trial is necessary in the interests of justice.
 
-(6) If the award relates also to any other finding and it appears to the reviewing authority that the award was not warranted by this Act in respect of that other finding, the reviewing authority may vary the award by substituting such punishment as the reviewing authority may think proper, being a punishment which could have been included in the original award in relation to that other finding, and not being in the opinion of the reviewing authority more severe than the punishment included in the original award.
+[Act 53 of 2018 wef 13/05/2019]
 
-(7) Where on a review under this section it appears to the reviewing authority that a punishment awarded was invalid, or too severe, the reviewing authority may vary the award by substituting such punishment as the reviewing authority may think proper, being a punishment which could have been included in the original award and not being in the opinion of the reviewing authority more severe than the punishment included in the original award.
+(5) If a finding in any proceedings is quashed under subsection (4) and the award made in those proceedings relates only to the finding quashed, the Commissioner shall also quash the award.
 
-(8) Where on a review under this section it appears to the reviewing authority that an order to pay compensation made under section 75(3) or (4) was invalid, or unduly excessive, the reviewing authority may quash the order or vary the amount of compensation payable under the order.
+[Act 53 of 2018 wef 13/05/2019]
 
-(9) The reviewing authority may at any time suspend the execution of any sentence passed by a disciplinary officer for such period as it thinks fit.
+(6) If the award relates also to any other finding and it appears to the Commissioner that the award was not warranted by this Act in respect of that other finding, the Commissioner may vary the award by substituting such punishment as the Commissioner may think proper, being a punishment which could have been included in the original award in relation to that other finding, and not being in the opinion of the Commissioner more severe than the punishment included in the original award.
+
+[Act 53 of 2018 wef 13/05/2019]
+
+(7) Where on a review under this section it appears to the Commissioner that a punishment awarded was invalid, or too severe, the Commissioner may vary the award by substituting such punishment as the Commissioner may think proper, being a punishment which could have been included in the original award and not being in the opinion of the Commissioner more severe than the punishment included in the original award.
+
+[Act 53 of 2018 wef 13/05/2019]
+
+(8) Where on a review under this section it appears to the Commissioner that an order to pay compensation made under section 75(3) or (4) was invalid, or unduly excessive, the Commissioner may quash the order or vary the amount of compensation payable under the order.
+
+[Act 53 of 2018 wef 13/05/2019]
+
+(9) The Commissioner may at any time suspend the execution of any sentence passed by a disciplinary officer for such period as the Commissioner thinks fit.
+
+[Act 53 of 2018 wef 13/05/2019]
 
 82\. [Repealed by Act 32/2010 wef 01/02/2011]
 
@@ -1518,11 +1612,13 @@ TRIAL AND PUNISHMENT BY DISCIPLINARY OFFICERS
 
 (2) The period of detention which a disciplinary officer may direct under subsection (1) shall be as follows:
 
-(a) if the fine does not exceed $100, detention for a period not exceeding 10 days;
+(a) if the fine does not exceed $300, detention for a period not exceeding 10 days;
 
-(b) if the fine exceeds $100 but does not exceed $300, detention for a period not exceeding 30 days; and
+[Act 53 of 2018 wef 13/05/2019]
 
-[32/2010 wef 01/02/2011]
+(b) if the fine exceeds $300 but does not exceed $1,000, detention for a period not exceeding 20 days;
+
+[Act 53 of 2018 wef 13/05/2019]
 
 (c) in any other case, detention for a period not exceeding 40 days.
 
@@ -2072,6 +2168,110 @@ GENERAL
 
 106\. Any person who assaults, obstructs, threatens, abuses, insults or intimidates a person carrying out or performing his duties or functions under this Act shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
 
+### Wearing and possession of uniforms, etc., by others
+
+106A\.—(1) A person who, when the person is not a member —
+
+(a) wears or possesses any SCDF uniform, or uses any SCDF insignia —
+
+(i) for the purpose of personating or representing himself as a member; or
+
+(ii) knowing that it is likely to cause any member of the public to believe that he is a member;
+
+(b) uses the designation of a member or a rank of the Force, in connection with any business, occupation or employment —
+
+(i) for the purpose of personating or representing himself as a member; or
+
+(ii) knowing that it is likely to cause any member of the public to believe that he is a member;
+
+(c) represents himself, by word or conduct, to be a member for the purpose of personating or representing himself as a member; or
+
+(d) wears or possesses any SCDF uniform, or uses any SCDF insignia, in connection with any business, occupation or employment, for the purpose of falsely claiming, suggesting or implying —
+
+(i) that the person receives or is to receive, a fee, commission or other reward for providing professional or other services in relation to a matter being dealt with or to be dealt with by the Force;
+
+(ii) that the Force has agreed to acquire any goods or services provided by or on behalf of the person, or that those goods or services had previously been used or acquired by the Force; or
+
+(iii) that the person has the sponsorship or approval of the Force for any goods or services provided by or on behalf of the person,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both.
+
+(2) A member who wears an SCDF uniform or uses any SCDF insignia otherwise than —
+
+(a) in the course of, and for the purpose of, exercising the functions of a member; or
+
+(b) for such other purpose authorised in writing by the Commissioner,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both.
+
+(3) It is a defence to any prosecution for an offence under subsection (1)(a) or (2) if the accused proves, on a balance of probabilities, that —
+
+(a) the accused had the express permission of the Commissioner to wear or possess the SCDF uniform or use the SCDF insignia, as the case may be; or
+
+(b) the accused wore or possessed the SCDF uniform or used the SCDF insignia (as the case may be) for the purposes of a public entertainment provided in compliance with the Public Entertainments Act (Cap. 257).
+
+(4) A person (whether or not a member) who —
+
+(a) manufactures any SCDF uniform or SCDF insignia otherwise than under an agreement with the Government;
+
+(b) sells any SCDF uniform or SCDF insignia to a person who is neither a member nor otherwise authorised or permitted under subsection (3) to wear or possess the SCDF uniform or use the SCDF insignia; or
+
+(c) gives or provides, whether or not for a consideration, any SCDF uniform or SCDF insignia to a person who is neither a member nor otherwise authorised or permitted under subsection (3) to wear or possess the SCDF uniform or use the SCDF insignia,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(5) It is a defence to any prosecution for an offence under subsection (4) if the accused proves, on a balance of probabilities, that —
+
+(a) the accused had reasonable grounds to believe and did make reasonable inquiries to ascertain that the person to whom the SCDF uniform or SCDF insignia was sold, given or provided was —
+
+(i) a member; or
+
+(ii) a person otherwise authorised or permitted under subsection (3) to wear or possess the SCDF uniform or use the SCDF insignia; or
+
+(b) the accused had received from the person to whom the SCDF uniform or SCDF insignia was sold, given or provided, evidence purporting to show that —
+
+(i) that person was a member or was otherwise authorised or permitted under subsection (3) to wear or possess the SCDF uniform or use the SCDF insignia; and
+
+(ii) it was reasonable to and the accused did accept that evidence as correct.
+
+(6) An offence under subsection (1), (2) or (4) is an arrestable offence.
+
+(7) In this section —
+
+“SCDF insignia” means —
+
+(a) any item (being any insignia, emblem, logo, symbol, representation, device, badge of rank or other thing) that is generally recognised as pertaining to the Force or as being used by members;
+
+(b) any part of any such item;
+
+(c) any reasonable imitation of any such item, or part of such item; or
+
+(d) any insignia, emblem, logo, symbol, representation, device, badge of rank or other thing prescribed as being within this definition;
+
+“SCDF uniform” means the uniform of a member, and includes —
+
+(a) any part of such a uniform or any accoutrement of a member that is generally recognised as a part of the uniform or accoutrement of a member; or
+
+(b) any reasonable imitation of such a uniform or accoutrement, or part of a uniform or accoutrement;
+
+“sell” includes —
+
+(a) exchange or let on hire;
+
+(b) offer, expose, possess, send, forward or deliver for sale, exchange or hire; or
+
+(c) cause, suffer or allow any sale, exchange or hire;
+
+“use”, in relation to SCDF insignia, includes —
+
+(a) driving on a public road a vehicle that has on it any SCDF insignia; and
+
+(b) using a reproduction or representation of SCDF insignia,
+
+but does not include wearing an SCDF uniform.
+
+[Act 53 of 2018 wef 13/05/2019]
+
 ### Offences by body corporate
 
 107\. Where a body corporate commits an offence against this Act —
@@ -2264,6 +2464,7 @@ This Legislative History is provided for the convenience of users of the Civil D
 ||Date of First Reading|1 October 2018 (Bill No. 44/2018 published on 1 October 2018)|
 ||Date of Second and Third Readings|20 November 2018|
 ||Date of commencement|1 February 2019|
+|||13 May 2019|
 ## COMPARATIVE TABLE
 
 Civil Defence Act
