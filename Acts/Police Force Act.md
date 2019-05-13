@@ -3528,13 +3528,17 @@ he shall not be liable in respect of that offence to be dealt with and punished 
 
 (i) for the purpose of personating or representing himself as a police officer; or
 
-(ii) knowing that is likely to cause any member of the public to believe that he is a police officer;
+(ii) knowing that it is likely to cause any member of the public to believe that he is a police officer;
+
+[Act 53 of 2018 wef 13/05/2019]
 
 (b) uses the designation of a police officer or a rank of the Police Force or the Special Constabulary, in connection with any business, occupation or employment —
 
 (i) for the purpose of personating or representing himself as a police officer; or
 
-(ii) knowing that is likely to cause any member of the public to believe that he is a police officer;
+(ii) knowing that it is likely to cause any member of the public to believe that he is a police officer;
+
+[Act 53 of 2018 wef 13/05/2019]
 
 (c) represents himself, by word or conduct, to be a police officer for the purpose of personating or representing himself as a police officer; or
 
@@ -3550,7 +3554,15 @@ he shall not be liable in respect of that offence to be dealt with and punished 
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both.
 
-(2) A police officer who wears a police uniform or uses any police insignia otherwise than in the course of, and for the purpose of, exercising the functions of a police officer shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both.
+(2) A police officer who wears a police uniform or uses any police insignia otherwise than —
+
+(a) in the course of, and for the purpose of, exercising the functions of a police officer; or
+
+(b) for such other purpose authorised in writing by the Commissioner,
+
+shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 53 of 2018 wef 13/05/2019]
 
 (3) It shall be a defence to a prosecution for an offence under subsection (1)(a) or (2) if the accused proves, on a balance of probabilities, that —
 
@@ -3584,7 +3596,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (ii) it was reasonable to and he did accept that evidence as correct.
 
-(6) An offence under subsection (1), (2) or (3) is an arrestable offence.
+(6) An offence under subsection (1), (2) or (4) is an arrestable offence.
+
+[Act 53 of 2018 wef 13/05/2019]
 
 (7) In this section —
 
@@ -3836,6 +3850,8 @@ where required to by the Commissioner.
 
 [Act 53 of 2018 wef 01/02/2019]
 
+[Act 53 of 2018 wef 01/02/2019]
+
 ## LEGISLATIVE SOURCE KEY
 
 Police Force Act
@@ -3923,6 +3939,7 @@ The Police Force Act 2004 repealed and re-enacted with amendments the Police For
 ||Date of First Reading|1 October 2018 (Bill No. 44/2018 published on 1 October 2018)|
 ||Date of Second and Third Readings|20 November 2018|
 ||Date of commencement|1 February 2019|
+|||13 May 2019|
 ## COMPARATIVE TABLE
 
 Police Force Act
