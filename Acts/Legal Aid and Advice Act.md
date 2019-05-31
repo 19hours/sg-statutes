@@ -12,7 +12,7 @@
 
 - [2 Interpretation](#Interpretation)
 
-- [3 Director, Deputy Directors and Assistant Directors of Legal Aid](#Director-Deputy-Directors-and-Assistant-Directors-of-Legal-Aid)
+- [3 Director, Deputy Directors and Assistant Directors of Legal Aid, etc.](#Director-Deputy-Directors-and-Assistant-Directors-of-Legal-Aid-etc)
 
 - [4 Panels of solicitors](#Panels-of-solicitors)
 
@@ -26,7 +26,7 @@
 
 - [8 Grant of Aid](#Grant-of-Aid)
 
-- [9 Contributions from aided persons](#Contributions-from-aided-persons)
+- [9 (Repealed)](#Repealed)
 
 - [10 Cancellation of Grant of Aid](#Cancellation-of-Grant-of-Aid)
 
@@ -57,6 +57,8 @@
 - [21 False or misleading statements, etc.](#False-or-misleading-statements-etc)
 
 - [22 Privileges attaching to certain relationships](#Privileges-attaching-to-certain-relationships)
+
+- [22A Contributions](#Contributions)
 
 - [23 Regulations](#Regulations)
 
@@ -100,7 +102,9 @@ PRELIMINARY
 
 “aided person” means a person who is issued a Grant of Aid and, where such a person is a minor, includes his guardian;
 
-“court” means any court, tribunal or adjudicator before which or before whom any proceedings referred to in Part I of the First Schedule are heard;
+“court” means any court, tribunal or adjudicator before which or before whom any proceedings mentioned in section 5(1) or (1A) are heard;
+
+[Act 50 of 2018 wef 31/05/2019]
 
 “Director” means the Director of Legal Aid appointed under section 3 and includes a Deputy Director and an Assistant Director of Legal Aid;
 
@@ -114,21 +118,39 @@ PRELIMINARY
 
 [Act 27 of 2014 wef 01/10/2014]
 
+“legal advice” has the meaning given by section 20;
+
+[Act 50 of 2018 wef 31/05/2019]
+
 “legal aid” means legal aid granted under this Act;
 
 “solicitor” means an advocate and solicitor of the Supreme Court.
 
 [6/2013]
 
-### Director, Deputy Directors and Assistant Directors of Legal Aid
+### Director, Deputy Directors and Assistant Directors of Legal Aid, etc.
 
 3\.—(1) The Minister may appoint a person to be the Director of Legal Aid and may also appoint such number of Deputy Directors and Assistant Directors of Legal Aid as he may consider necessary for the proper carrying out of this Act.
 
 (2) No person shall be appointed to be or to act temporarily as the Director, a Deputy Director or an Assistant Director of Legal Aid unless he is a qualified person as defined in section 2 of the Legal Profession Act (Cap. 161) or is a solicitor.
 
-(3) Notwithstanding any provision of any written law to the contrary, the Director and every Deputy Director or Assistant Director of Legal Aid shall, for the purposes of this Act, have the right to appear and plead in all courts of justice in Singapore according to the law in force in such courts.
+(3) The Director of Legal Aid may —
 
-(4) The Director and every Deputy Director or Assistant Director of Legal Aid shall be deemed to be public servants within the meaning of the Penal Code (Cap. 224).
+(a) appoint such number of public officers of such qualifications and experience as the Director of Legal Aid considers appropriate, for the purpose of assisting him, and the Deputy Directors and Assistant Directors of Legal Aid in carrying out any of their duties under this Act; and
+
+(b) assign to those appointed public officers such duties as the Director of Legal Aid considers appropriate for the purpose mentioned in paragraph (a).
+
+[Act 50 of 2018 wef 31/05/2019]
+
+(4) Despite any other written law, for the purposes of this Act, the following persons have the right to appear and plead in all courts of justice in Singapore according to the law in force in those courts:
+
+(a) the Director and every Deputy Director or Assistant Director of Legal Aid;
+
+(b) a public officer who is appointed under subsection (3), and is assigned under that subsection any duty that requires the public officer to appear and plead in those courts.
+
+[Act 50 of 2018 wef 31/05/2019]
+
+[Act 50 of 2018 wef 31/05/2019]
 
 ### Panels of solicitors
 
@@ -143,6 +165,10 @@ PRELIMINARY
 and there may be separate panels for different purposes and for different courts.
 
 [27/2010]
+
+(1A) The Director may appoint a solicitor to a panel mentioned in subsection (1) for a term of 3 years, or such longer or shorter period as the Director may specify in any particular case, beginning on such date as the Director may specify in the solicitor’s letter of appointment.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (2) Any solicitor shall be entitled to have his name on the panels or any of them unless there is good reason for excluding or removing him on any of the grounds under subsection (2A).
 
@@ -182,7 +208,21 @@ LEGAL AID IN CIVIL ACTIONS
 
 ### Scope and general conditions of legal aid in civil actions
 
-5\.—(1) Subject to this Part, legal aid may be given to citizens and permanent residents of Singapore in any civil proceedings of a description mentioned in Part I of the First Schedule; and no legal aid shall be given in any of the proceedings mentioned in Part II of the First Schedule.
+5\.—(1) Subject to this Part, legal aid may be given to a citizen or permanent resident of Singapore in relation to any civil proceedings mentioned in Part I of the First Schedule (not being any proceedings mentioned in Part II of that Schedule).
+
+[Act 50 of 2018 wef 31/05/2019]
+
+(1A) Despite subsection (1), the Director may authorise the giving of legal aid to a citizen or permanent resident of Singapore in relation to any proceedings mentioned in Part II of the First Schedule, if the Director is satisfied that those proceedings are, or are likely to be, related to any civil proceedings mentioned in that subsection.
+
+[Act 50 of 2018 wef 31/05/2019]
+
+(1B) In deciding whether any proceedings mentioned in Part II of the First Schedule are, or are likely to be, related to any civil proceedings mentioned in subsection (1), the Director may consider —
+
+(a) whether a court has ordered, or may order, that the proceedings mentioned in Part II of the First Schedule, and the civil proceedings mentioned in subsection (1), be consolidated or tried at the same time, on the ground that some common question of fact arises in both proceedings; and
+
+(b) any other circumstances that may be specified in any regulations made under this Act.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (2) The proceedings in connection with which legal aid may be given may be varied by regulations made under this Act and the regulations may describe the proceedings to be included or excluded by reference to the court, to the issues involved, to the capacity in which the person requiring legal aid is concerned, or otherwise.
 
@@ -200,7 +240,13 @@ LEGAL AID IN CIVIL ACTIONS
 
 [6/2013]
 
-(1A) [Deleted by Act 16 of 2016 wef 10/06/2016]
+(1A) An application for legal aid must be —
+
+(a) made in the form and manner required by the Director; and
+
+(b) accompanied by any documents and information required by the Director.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (2) Where the person who desires to be granted legal aid is a minor, the application shall be made on behalf of the minor by his guardian.
 
@@ -210,9 +256,11 @@ LEGAL AID IN CIVIL ACTIONS
 
 (a) a reference in section 7 or 8(2)(a) to the applicant shall be construed as a reference to the guardian and the minor jointly or to either of them severally; and
 
-(b) a reference in sections 8(2)(b) and 9(1) or in the Second Schedule to the applicant shall, in any case where the minor is unmarried and the guardian is a relative of the minor, be construed as a reference to both the guardian and the minor and in every other case shall be construed as a reference to the minor only.
+(b) a reference in section 8(2)(b) or in the Second Schedule to the applicant shall, in any case where the minor is unmarried and the guardian is a relative of the minor, be construed as a reference to both the guardian and the minor and in every other case shall be construed as a reference to the minor only.
 
 [6/2013]
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (4) In subsection (3), “relative” means —
 
@@ -230,9 +278,15 @@ LEGAL AID IN CIVIL ACTIONS
 
 (c) the aided person wishes to continue receiving legal aid in respect of those proceedings after attaining the age of 21 years,
 
-the aided person shall, upon attaining the age of 21 years, make a fresh application under subsection (1) for legal aid in his own right to the Director in respect of those proceedings.
+the aided person must give to the Director, within the prescribed time after the aided person attains 21 years of age, and in the form and manner required by the Director, a written consent to continue receiving legal aid in respect of those proceedings.
 
 [6/2013]
+
+[Act 50 of 2018 wef 31/05/2019]
+
+(6) Every aided person who gives a written consent under subsection (5) is deemed to have made a fresh application for legal aid in that person’s own right.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 ### Power of Director to make inquiries
 
@@ -274,27 +328,7 @@ the aided person shall, upon attaining the age of 21 years, make a fresh applica
 
 [6/2013]
 
-### Contributions from aided persons
-
-9\.—(1) The Director may require an applicant to make one or more contributions in one lump sum or by instalments in respect of any matter for which an application for legal aid has been made by that applicant.
-
-[6/2013]
-
-(2) Unless the regulations otherwise provide, any sum remaining unpaid on account of a person’s contribution in respect of any matter for which legal aid has been granted shall be a first charge on any property which is recovered or preserved for that person in the proceedings connected to the matter in favour of any fund established under this Act.
-
-[6/2013]
-
-(3) [Deleted by Act 6 of 2013]
-
-(4) The reference in subsection (2) to property recovered or preserved for any person shall include his rights under any settlement or compromise arrived at to avoid or to bring to an end the proceedings and any sums recovered by virtue of an order for costs made in his favour in the proceedings (not being sums payable to the Director under section 14 or 16).
-
-[6/2013]
-
-(5) The charge created by subsection (4) on any damages or costs shall not prevent a court allowing them to be set off against other damages or costs in any case where a solicitor’s lien for costs would not prevent it.
-
-(6) The Director may, in his discretion, reduce, waive or refund any contribution which an applicant is required to pay under subsection (1).
-
-[6/2013]
+9\. [Repealed by Act 50 of 2018 wef 31/05/2019]
 
 ### Cancellation of Grant of Aid
 
@@ -306,15 +340,17 @@ the aided person shall, upon attaining the age of 21 years, make a fresh applica
 
 [6/2013]
 
-(3) Upon the filing in court of such notification, then, unless otherwise ordered by the court before which any proceedings are pending, all steps in the proceedings shall, by virtue of this subsection, be stayed for a period of 14 days and, subject as aforesaid, during such period, time fixed by or under any Act or by or under any Rules of Court, Family Justice Rules or regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run.
+(3) Where a notification under subsection (2) is filed in a court in respect of any proceedings, the following apply unless the court (before which those proceedings are pending) orders otherwise:
 
-[Act 27 of 2014 wef 01/10/2014]
+(a) all steps in those proceedings are stayed for a period of 14 days after the date on which the notification is filed;
 
-[6/2013]
+(b) during that period, the time fixed by or under any written law, for doing any act or taking any step in those proceedings, does not run.
 
-(4) The time during which proceedings are stayed by virtue of subsection (3) may be reduced or extended by order of the court before which any proceedings are pending.
+[Act 50 of 2018 wef 31/05/2019]
 
-[6/2013]
+(4) The period mentioned in subsection (3)(a) may be reduced or extended by an order of the court.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (5) The Director shall take such steps as seem to him reasonable or necessary to inform the person to whom a Grant of Aid has been issued of the cancellation of any such Grant of Aid.
 
@@ -350,7 +386,9 @@ the aided person shall, upon attaining the age of 21 years, make a fresh applica
 
 (a) shall not be liable in respect of any proceedings to which the Grant of Aid relates for court fees or for such fees payable for the service of process or for any fees due to the Sheriff or bailiff in connection with the execution of process;
 
-(b) shall be entitled to be supplied free of charge with a copy of the judge’s notes of evidence in any proceedings to which the Grant of Aid relates;
+(b) shall be entitled to be supplied free of charge with a copy of the judge’s notes of evidence in any proceedings to which the Grant of Aid relates, and of any other document in connection with those proceedings as may be prescribed;
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (c) shall not, except where express provision is made in this Act, be liable for costs to any other party in any proceedings to which the Grant of Aid relates; and
 
@@ -358,11 +396,15 @@ the aided person shall, upon attaining the age of 21 years, make a fresh applica
 
 [6/2013]
 
-(5) Subject to sections 9 and 13, no person who, pursuant to any reference under this Act, makes any investigation or report or gives any opinion or who pursuant to any assignment under this Act conducts any proceedings shall take or agree to take or seek from an aided person any fee, profit or reward (pecuniary or otherwise) in respect of the making of such investigation or report, the giving of such opinion, or the conduct of such proceedings.
+(5) Subject to sections 13 and 22A, no person who, pursuant to any reference under this Act, makes any investigation or report or gives any opinion or who pursuant to any assignment under this Act conducts any proceedings shall take or agree to take or seek from an aided person any fee, profit or reward (pecuniary or otherwise) in respect of the making of such investigation or report, the giving of such opinion, or the conduct of such proceedings.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (6) For the avoidance of doubt, the Director may take proceedings —
 
-(a) to enforce or give effect to any order or agreement for the recovery or preservation of property for the benefit of the aided person where, in respect of such property, there is a charge created under section 9(2) in favour of any fund established under this Act;
+(a) to enforce or give effect to any order or agreement for the recovery or preservation of property for the benefit of the aided person where, in respect of such property, there is a charge created under section 22A(3) in favour of any fund established under this Act;
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (b) to enforce or give effect to any order or agreement for the payment of costs to an aided person in any proceedings to which an aided person is a party; or
 
@@ -386,9 +428,11 @@ and in such event —
 
 (a) firstly, the out-of-pocket expenses referred to in that subsection; and
 
-(b) after the payment of such out-of-pocket expenses, any outstanding contribution the applicant is required to pay under section 9(1).
+(b) after the payment of such out-of-pocket expenses, any outstanding contribution the applicant is required to pay under section 22A(1).
 
 [6/2013]
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (2A) After the payments referred to in subsection (2)(a) and (b) have been made, the balance of the amount deposited under subsection (1), if any, shall be refunded to the applicant or the aided person, as the case may be.
 
@@ -404,19 +448,31 @@ and in such event —
 
 ### Court may order payment of costs by aided person in certain event
 
-14\.—(1) Where it appears to a court that a Grant of Aid has been obtained by fraud or misrepresentation, the court may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
+14\.—(1) Where it appears to a court that any of the circumstances mentioned in subsection (3) exists in relation to an aided person, the court may order the aided person to pay the costs of all or any of the following persons:
 
-[6/2013]
+(a) the Director;
+
+(b) the solicitor who acted for the aided person;
+
+(c) the other party.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (2) In subsection (1), a reference to an “aided person” includes, in any case where the Grant of Aid has been cancelled before the making of the order, the person who immediately before the cancellation was the aided person.
 
 [6/2013]
 
-(3) Where it appears to a court that an aided person has acted improperly in bringing or defending any legal proceedings or in the conduct of them, the court may order the aided person to pay the costs of the Director or of the solicitor who acted for him or the costs of the other party, or the costs of both the Director or the solicitor and the other party.
+(3) For the purposes of subsection (1), the circumstances are as follows:
 
-[6/2013]
+(a) the Grant of Aid issued to the aided person has been obtained by fraud or misrepresentation;
 
-(4) Where an order is made under subsection (1) or (3), the costs shall be taxed as if the party ordered to pay costs were not an aided person.
+(b) the aided person acted improperly in bringing or defending any legal proceedings, or in the conduct of those proceedings.
+
+[Act 50 of 2018 wef 31/05/2019]
+
+(4) Where an order is made under subsection (1), the costs shall be taxed as if the party ordered to pay costs were not an aided person.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (5) The costs so ordered to be paid shall, unless otherwise directed by the order, include —
 
@@ -424,7 +480,9 @@ and in such event —
 
 (b) any sums which, pursuant to section 13(3), were expended by the Director in meeting out-of-pocket expenses or were advanced by the Director for that purpose.
 
-(6) Where the costs of the Director or the solicitor who acted for the aided person ordered to be paid under subsection (1) or (3) include any of the fees, charges or sums referred to in subsection (5), then if any amount is recovered by the Director in respect of such costs, the same shall be applied in the first instance in or towards the satisfaction of such fees, charges or sums.
+(6) Where the costs of the Director or the solicitor who acted for the aided person ordered to be paid under subsection (1) include any of the fees, charges or sums referred to in subsection (5), then if any amount is recovered by the Director in respect of such costs, the same shall be applied in the first instance in or towards the satisfaction of such fees, charges or sums.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 ### Legal aid not to discontinue without leave
 
@@ -434,29 +492,27 @@ and in such event —
 
 ### Costs
 
-16\.—(1) In proceedings to which an aided person is a party, the court shall make, in favour of the aided person, the like order for costs (except against another aided person) as the court would have made in favour of the aided person had he not been an aided person, and in proceedings in which costs follow the event an aided person shall (except against another aided person) be entitled to costs in the like manner as if he were not an aided person, notwithstanding that no amount is or will be payable by the aided person, or that the costs are in excess of the amount which is or will be payable by the aided person.
+16\.—(1) Where an aided person is entitled to costs in any proceedings to which the aided person is a party —
+
+(a) the court must make, in favour of the aided person, such order for costs as the court would have made in favour of a person who is not an aided person; and
+
+(b) where costs follow the event, the aided person is entitled to the same costs as a person who is not an aided person.
+
+[Act 50 of 2018 wef 31/05/2019]
+
+(1A) Subsection (1) does not apply to any costs against another aided person.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (2) Where any moneys are recovered by an aided person (whether in proceedings or by virtue of a settlement or compromise), he shall be liable to pay to the Director so much of the moneys so recovered as is recovered in respect of costs.
 
 (3) For the purposes of subsection (2), the moneys recovered in respect of costs shall be deemed to be so much of the total amount so recovered as exceeds the amount (if any) recoverable by the aided person otherwise than as costs.
 
-(4) Where any moneys are recovered by a person to whom a Grant of Aid has been issued and who is not liable to make a contribution (whether in proceedings or by virtue of a settlement or compromise), he shall be liable to pay, out of moneys so recovered, to the Director the aggregate amount of the sums paid or payable by the Director on his account and, where such person has been represented in the proceedings by the Director, such sums as would in the opinion of the Director have been payable on his account had he been represented by a solicitor assigned to him.
+(4) [Deleted by Act 50 of 2018 wef 31/05/2019]
 
-(5) Notwithstanding subsection (4) —
+(5) [Deleted by Act 50 of 2018 wef 31/05/2019]
 
-(a) where the amount recovered does not exceed $500, no sum shall be payable by the aided person under subsection (4); and
-
-(b) where the amount recovered exceeds $500, the sum payable by the aided person under subsection (4) shall not exceed —
-
-(i) one-quarter of the amount recovered; or
-
-(ii) the difference between the amount received and the amount of $500,
-
-whichever is the lower.
-
-[6/2013]
-
-(6) Without prejudice to the generality of subsections (1), (2), (3) and (4), “costs” includes —
+(6) Without prejudice to the generality of subsections (1), (1A), (2) and (3), “costs” includes —
 
 (a) counsel’s fees, whether or not the same have been paid;
 
@@ -464,33 +520,41 @@ whichever is the lower.
 
 (c) any sums which, pursuant to section 13(3), are expended by the Director in meeting out-of-pocket expenses or are advanced by the Director for that purpose.
 
+[Act 50 of 2018 wef 31/05/2019]
+
 (7) Where the costs recovered by the Director under this section include any of the fees, charges or sums referred to in subsection (6)(b) and (c), such costs shall be applied, in the first instance, in and towards satisfaction of such fees, charges or sums.
 
 ### Stay of proceedings upon making of application for legal aid
 
-17\.—(1) Where proceedings have been commenced and any party makes an application for legal aid, the Director shall, as soon as practicable after the application is made, notify the other party or each of the other parties, and file with the court in which the proceedings are pending, a notification in a prescribed form and no fee shall be payable in respect of the filing of the notification.
+17\.—(1) Where proceedings have been commenced and any party makes an application for legal aid, the Director shall, as soon as practicable after the application is made, notify the other party or each of the other parties, and file with the court in which the proceedings are pending, a notification of the making of the application; and no fee shall be payable in respect of the filing of the notification.
 
 [6/2013]
 
-(2) Where any notification is so filed, then, unless otherwise ordered by the court before which the proceedings are pending, all steps in the proceedings shall, by virtue of this section, be stayed for a period of 14 days, and during that period (unless otherwise ordered by the court), time fixed by or under any Act or by or under any Rules of Court, Family Justice Rules or regulations or otherwise for the doing of any act or the taking of any step in the proceedings shall not run, except that —
+[Act 50 of 2018 wef 31/05/2019]
 
-(a) the filing of the notification shall not operate to prevent the making of —
+(2) Where a notification under subsection (1) is filed in respect of any proceedings, the following apply unless the court (before which those proceedings are pending) orders otherwise:
 
-(i) an interlocutory order for an injunction or for the appointment of a receiver or manager or receiver and manager;
+(a) all steps in those proceedings are stayed for a period of 14 days after the date on which the notification is filed;
 
-(ii) an order to prevent the lapse of a caveat against dealings with land; or
+(b) during that period, the time fixed by or under any written law, for doing any act or taking any step in those proceedings, does not run.
 
-(iii) any other order which, in the opinion of the court before which proceedings are pending, is necessary to prevent an irremediable injustice; and
+[Act 50 of 2018 wef 31/05/2019]
 
-(b) unless otherwise ordered by the court before which proceedings are pending, the filing of the notification shall not operate to prevent the institution or continuance of proceedings to obtain, enforce or otherwise carry into effect any such order as is mentioned in paragraph (a) or a decree to the like effect.
+(3) Despite subsection (2), the filing of the notification under subsection (1) does not prevent any of the following:
 
-[Act 27 of 2014 wef 01/10/2014]
+(a) the making of an interlocutory order for an injunction, or for the appointment of a receiver, a manager or a receiver and manager;
 
-[6/2013]
+(b) the making of an order to prevent the lapse of a caveat against dealings with land;
 
-(3) The time during which proceedings are stayed by virtue of this section may be reduced or extended by order of the court before which proceedings are pending.
+(c) the making of any other order which, in the opinion of the court, is necessary to prevent an irremediable injustice;
 
-[6/2013]
+(d) the institution or continuance of proceedings to obtain, enforce or otherwise carry into effect an order mentioned in paragraph (a), (b) or (c), unless the court orders otherwise.
+
+[Act 50 of 2018 wef 31/05/2019]
+
+(4) The period mentioned in subsection (2)(a) may be reduced or extended by an order of the court.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 ### Appeal by aided persons
 
@@ -500,13 +564,25 @@ whichever is the lower.
 
 (b) the aided person desires to prosecute any appeal from the proceedings,
 
-the aided person must make a fresh application for legal aid to the Director in respect of that matter, and the conditions for the issue of the Grant of Aid set out in section 8 shall apply.
+the aided person must make a fresh application for legal aid to the Director in respect of that matter within the prescribed time, and the conditions for the issue of the Grant of Aid set out in section 8 shall apply.
 
 [6/2013]
 
-(2) Subsection (1) shall not apply to an appeal in respect of any interlocutory matter in any proceedings.
+[Act 50 of 2018 wef 31/05/2019]
+
+(1A) Despite subsection (1), the Director may consider a fresh application for legal aid that is made outside the prescribed time mentioned in that subsection, if —
+
+(a) the aided person filed a notice of appeal in respect of the proceedings mentioned in that subsection before making that application; or
+
+(b) the Director is of the opinion that there are extenuating circumstances for not making that application by that prescribed time.
+
+[Act 50 of 2018 wef 31/05/2019]
+
+(2) Subsection (1) shall not apply to an appeal in respect of any interlocutory matter in any proceedings to which a Grant of Aid relates.
 
 [6/2013]
+
+[Act 50 of 2018 wef 31/05/2019]
 
 ### Rules regulating practice and procedure of court
 
@@ -540,9 +616,21 @@ LEGAL ADVICE
 
 20\.—(1) Subject to this Part, legal advice shall be available to persons resident and present in Singapore.
 
-(2) Legal advice shall consist of oral advice on legal questions given by the Director or a solicitor whose name is on the appropriate panel of solicitors maintained under section 4 and shall include help in preparing an application for legal aid and in supplying information required in determining the means of the applicant under the Second Schedule but shall not include advice on any law other than the law of Singapore.
+(2) Any legal advice under subsection (1) may consist of any of the following:
 
-(3) Provision may be made by regulations made under this Act for further defining or restricting the questions on which legal advice may be given and for regulating all matters relating to fees, charges and costs in relation to the giving of legal advice.
+(a) oral advice, by the Director or a solicitor whose name is on an appropriate panel of solicitors maintained under section 4, on any matter that may result in any proceedings for which legal aid may be given;
+
+(b) advice and assistance in preparing legal documents for purposes that are not related to any proceedings for which legal aid may be given;
+
+(c) any other matter that may be prescribed,
+
+but does not include any advice, assistance or other matter in respect of any law that is not the law of Singapore.
+
+[Act 50 of 2018 wef 31/05/2019]
+
+(3) Provision may be made by regulations made under this Act for further defining or restricting the matters for which legal advice may be given and for regulating all matters relating to fees, charges and costs in relation to the giving of legal advice.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (4) A person seeking legal advice must apply to the Director, and must satisfy the Director that the person cannot afford to obtain the legal advice in the ordinary way.
 
@@ -590,9 +678,35 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 [6/2013]
 
+### Contributions
+
+22A\.—(1) The Director may require a person to make one or more contributions, in a lump sum or by instalments, in respect of any matter for which an application for legal aid or legal advice has been made by that person.
+
+(2) Where an application mentioned in subsection (1) is made on behalf of a minor by the minor’s guardian, a reference in subsection (1) to a person is a reference to —
+
+(a) in any case where the minor is unmarried and the guardian is a relative (within the meaning of section 6(4)) of the minor — both the guardian and the minor; and
+
+(b) in any other case — the minor only.
+
+(3) Unless the regulations made under this Act otherwise provide, any sum remaining unpaid on account of a person’s contribution, in respect of any matter for which legal aid has been granted, is a first charge on any property that is recovered or preserved for that person in the proceedings connected to the matter, in favour of any fund established under this Act.
+
+(4) For the purposes of subsection (3), a reference to any property recovered or preserved for a person in any proceedings includes a reference to both of the following:
+
+(a) the person’s rights under any settlement or compromise to avoid, or to end, those proceedings;
+
+(b) any sums recovered by the person as damages or costs under an order made in the person’s favour in those proceedings (other than any sums payable to the Director under section 14 or 16).
+
+(5) The charge under subsection (3) does not prevent a court from allowing any damages or costs mentioned in subsection (4)(b) that are recovered by a person to be set off against any damages or costs awarded against that person, in any case where a solicitor’s lien for costs would not prevent the court from allowing that set off.
+
+(6) The Director may, in the Director’s discretion, reduce any contribution, or waive or refund the whole or any part of any contribution, that a person is required to pay under subsection (1).
+
+[Act 50 of 2018 wef 31/05/2019]
+
 ### Regulations
 
-23\.—(1) The Minister may make regulations not inconsistent with this Act prescribing all matters (other than the rules regulating the practice and procedure of any court referred to in section 19) which by this Act are required or permitted to be prescribed or which are necessary or convenient to be prescribed for carrying out or giving effect to this Act.
+23\.—(1) The Minister may make regulations for prescribing all matters that this Act requires or permits to be prescribed, or that are necessary or expedient for carrying out or giving effect to this Act.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (2) Without prejudice to the generality of subsection (1), the regulations may —
 
@@ -622,9 +736,11 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 (iii) there is any relevant change of circumstances while a person is receiving legal aid; and
 
-(f) prescribe any forms to be used under this Act.
+(f) provide for any forms to be used under this Act.
 
 [6/2013]
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (3) The regulations may apply generally to all legal matters, whether relating to proceedings in court or otherwise, or may apply to any specified class of matters or proceedings or to all matters or proceedings other than matters or proceedings of a specified class.
 
@@ -633,6 +749,10 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 [27/2010]
 
 (4) The regulations may impose a penalty not exceeding $2,000 for any breach of the regulations.
+
+(4A) The powers conferred by this section do not extend to any matter for which Rules of Court or Family Justice Rules may be made under section 19.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (5) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -644,7 +764,7 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 FIRST SCHEDULE
 
-Sections 2 and 5(1)
+Section 5(1), (1A) and (1B)
 
 Civil proceedings for which legal aid may be given
 
@@ -672,7 +792,12 @@ Description of Proceedings
 
 Part II
 
-Excepted Proceedings
+PROCEEDINGS FOR WHICH LEGAL AID IS
+
+
+
+
+GENERALLY NOT GIVEN
 
 1. Proceedings wholly or partly in respect of —
 
@@ -693,6 +818,10 @@ Excepted Proceedings
 5. Proceedings incidental to any proceedings mentioned in this Part.
 
 [42/2005; 6/2013]
+
+[Act 50 of 2018 wef 31/05/2019]
+
+[Act 50 of 2018 wef 31/05/2019]
 
 SECOND SCHEDULE
 
@@ -903,6 +1032,10 @@ The Legal Aid and Advice Act 1995 repealed the Legal Aid and Advice Act (Chapter
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|22.|**Act 50 of 2018—Legal Aid and Advice (Amendment) Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 42/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|19 November 2018|
+||Date of commencement|31 May 2019|
 ## COMPARATIVE TABLE
 
 Legal Aid and Advice Act
