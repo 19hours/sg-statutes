@@ -2098,13 +2098,17 @@ PRIVILEGES OF ADVOCATES AND SOLICITORS
 
 [Act 25 of 2014 wef 01/01/2015]
 
-(b) the Public Trustee, the Official Assignee, Assistant Public Trustees and Assistant Official Assignees to appear and plead in those courts under any of the provisions of any law relating to those offices; and
+(b) the Public Trustee, the Official Assignee, Assistant Public Trustees and Assistant Official Assignees to appear and plead in those courts under any of the provisions of any law relating to those offices;
 
-(c) the Director of Legal Aid and Assistant Directors of Legal Aid to appear and plead in those courts under the provisions of the Legal Aid and Advice Act (Cap. 160) or the International Child Abduction Act 2010.
+[Act 50 of 2018 wef 31/05/2019]
 
-[19/2008]
+(c) the Director, a Deputy Director or an Assistant Director of Legal Aid to appear and plead in those courts under the provisions of the Legal Aid and Advice Act (Cap. 160) or the International Child Abduction Act (Cap. 143C); and
 
-[27/2010 wef 01/03/2011]
+[Act 50 of 2018 wef 31/05/2019]
+
+(d) a public officer mentioned in section 3(4)(b) of the Legal Aid and Advice Act to appear and plead in those courts under the provisions of that Act.
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (3) Notwithstanding subsection (1), an advocate and solicitor who practises in a Joint Law Venture or its constituent foreign law practice, a Qualifying Foreign Law Practice or a licensed foreign law practice shall not be entitled to practise Singapore law except in accordance with Part IVA and any rules made under section 36M.
 
@@ -2318,9 +2322,13 @@ shall, unless he proves that the act was not done for or in expectation of any f
 
 (b) the Public Trustee, the Official Assignee, Assistant Public Trustees and Assistant Official Assignees acting in the course of their duties under any law relating to those offices;
 
-(c) the Director of Legal Aid and Assistant Directors of Legal Aid acting in the course of their duties under the provisions of the Legal Aid and Advice Act (Cap. 160) or the International Child Abduction Act 2010;
+(c) the Director, a Deputy Director or an Assistant Director of Legal Aid acting in the course of the duties of the Director, Deputy Director or Assistant Director of Legal Aid (as the case may be) under the provisions of the Legal Aid and Advice Act or the International Child Abduction Act;
 
-[27/2010 wef 01/03/2010]
+[Act 50 of 2018 wef 31/05/2019]
+
+(ca) a public officer mentioned in section 3(4)(b) of the Legal Aid and Advice Act acting in the course of that public officer’s duties under that Act;
+
+[Act 50 of 2018 wef 31/05/2019]
 
 (d) any other public officer drawing or preparing instruments in the course of his duty;
 
@@ -9405,6 +9413,10 @@ This Legislative History is provided for the convenience of users of the Legal P
 |||1 August 2018|
 |||1 October 2018|
 |||1 November 2018|
+|55.|**Act 50 of 2018—Legal Aid and Advice (Amendment) Act 2018**|
+||Date of First Reading|1 October 2018 (Bill No. 42/2018 published on 1 October 2018)|
+||Date of Second and Third Readings|19 November 2018|
+||Date of commencement|31 May 2019|
 ## COMPARATIVE TABLE
 
 Legal Profession Act
