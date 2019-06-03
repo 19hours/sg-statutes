@@ -104,9 +104,9 @@
 
 - [33 Exemptions and application to vehicles belonging to Government](#Exemptions-and-application-to-vehicles-belonging-to-Government)
 
-- [33A Electronic service agents](#Electronic-service-agents)
+- [33A (Repealed)](#Repealed)
 
-- [33B Electronic service](#Electronic-service)
+- [33B (Repealed)](#Repealed)
 
 - [34 Rules for purposes of this Part](#Rules-for-purposes-of-this-Part)
 
@@ -2106,107 +2106,9 @@ or any one or more of these facts was or were such as would be necessary to esta
 
 [16/91]
 
-### Electronic service agents
+33A\. [Repealed by Act 38 of 2018 wef 03/06/2019]
 
-33A\.—(1) For the purposes of the electronic service referred to in section 33B, the Authority may, on application by any person made in such manner as it may specify, and subject to such conditions as it may determine, register him as an electronic service agent.
-
-(2) Without prejudice to the generality of subsection (1), the conditions referred to in that subsection may include —
-
-(a) a condition for the giving of security in such form and of such amount as the Authority may determine to secure compliance with the conditions; and
-
-(b) a condition for the keeping of records and accounts relating to the use of the electronic service.
-
-(3) The Authority shall keep and maintain a register of electronic service agents in which shall be entered such particulars of every electronic service agent as it considers appropriate.
-
-[4/2006 wef 27/02/2006]
-
-### Electronic service
-
-33B\.—(1) The Authority may provide an electronic service for —
-
-(a) the filing with or submission to the Registrar of such application or other document under this Part or the rules made thereunder as may be prescribed; and
-
-(b) the service by the Registrar of such notice or other document under this Part or the rules made thereunder as may be prescribed.
-
-(2) For the purposes of the electronic service, the Authority may, subject to such conditions as it may determine, assign to any person who files or submits to the Registrar such application or other document under this Part or the rules made thereunder as may be prescribed —
-
-(a) an authentication code; or
-
-(b) an account with the electronic service.
-
-[Act 37 of 2012 wef 01/01/2013]
-
-(3) Subject to the rules made under section 34(2), a person may file or submit a document referred to in subsection (1)(a) through the electronic service.
-
-(4) An electronic service agent who has been authorised by a person in the prescribed manner to be that person’s agent for any matter under this Part may file or submit on behalf of that person through the electronic service a document referred to in subsection (1)(a) in respect of that matter.
-
-(5) Where a document is filed or submitted by an electronic service agent on behalf of any person under subsection (4) —
-
-(a) it shall be deemed to have been filed or submitted with the authority of that person; and
-
-(b) that person shall be deemed to be cognizant of all matters therein,
-
-unless that person has, before such filing or submission, informed the Registrar in the prescribed manner that he has revoked the authority of the electronic service agent for the matter in question.
-
-(6) Where a document referred to in subsection (1)(a) is filed or submitted through the electronic service using the authentication code assigned to any person before that person has requested, in the prescribed manner, for the cancellation of the authentication code, then —
-
-(a) the document shall, for the purposes of this Act, be presumed to have been filed or submitted by that person unless he adduces evidence to the contrary; and
-
-(b) where that person alleges that he did not file or submit the document, the burden shall be on him to adduce evidence of that fact.
-
-(7) Where any person has given his consent for any document referred to in subsection (1)(b) to be served on him through the electronic service, the Registrar may, notwithstanding section 131A, serve that document on that person by transmitting an electronic record of that document to that person’s account with the electronic service; and the document shall be deemed to be served at the time when the electronic record of the document enters his account with the electronic service.
-
-(8) Notwithstanding any other written law, in any proceedings under this Act —
-
-(a) an electronic record of a document referred to in subsection (1)(a) that was filed or submitted, or a document referred to in subsection (1)(b) that was served, through the electronic service; or
-
-(b) any copy or print-out of that electronic record,
-
-shall be admissible as evidence of the facts stated or contained therein if that electronic record, copy or print-out —
-
-(i) is certified by the Registrar to contain all or any information filed, submitted or served through the electronic service in accordance with this section; and
-
-(ii) is duly authenticated in the manner specified in subsection (11) or is otherwise authenticated in the manner provided in the Evidence Act (Cap. 97) for the authentication of computer output.
-
-(9) For the avoidance of doubt, section 139A does not apply to an electronic record of a document referred to in subsection (1)(a) or (b) or a copy or print-out thereof.
-
-(10) For the avoidance of doubt —
-
-(a) an electronic record of a document referred to in subsection (1)(a) that was filed or submitted, or a document referred to in subsection (1)(b) that was served, through the electronic service; or
-
-(b) any copy or print-out of that electronic record,
-
-shall not be inadmissible in evidence merely because the document was filed, submitted or served without the delivery of any equivalent document or counterpart in paper form.
-
-(11) For the purposes of this section, a certificate —
-
-(a) giving the particulars of —
-
-(i) any person whose authentication code was used to file, submit or serve the document; and
-
-(ii) any person or device involved in the production or transmission of the electronic record of the document, or the copy or print-out thereof;
-
-(b) identifying the nature of the electronic record or copy or print-out thereof; and
-
-(c) purporting to be signed by the Registrar or by a person occupying a responsible position in relation to the operation of the electronic service at the relevant time,
-
-shall be sufficient evidence that the electronic record, copy or print-out has been duly authenticated, unless the court, in its discretion, calls for further evidence on this issue.
-
-(12) Where the electronic record of any document, or a copy or print-out of that electronic record, is admissible under subsection (8), it shall be presumed, until the contrary is proved, that the electronic record, copy or print-out accurately reproduces the contents of that document.
-
-(13) In this section and section 34 —
-
-“account with the electronic service”, in relation to any person, means a computer account within the electronic service which is assigned by the Authority to that person for the storage, retrieval, filing and submission of electronic records;
-
-“authentication code”, in relation to any person, means an identification or identifying code, a password or any other authentication method or procedure which is assigned by the Authority to that person for the purposes of identifying and authenticating the access to and use of the electronic service by that person, and includes one assigned for such purposes in order to file, submit or retrieve a particular document only;
-
-“electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88);
-
-“electronic service” means the electronic service provided under subsection (1);
-
-“electronic service agent” means an electronic service agent registered under section 33A.
-
-[4/2006 wef 27/02/2006]
+33B\. [Repealed by Act 38 of 2018 wef 03/06/2019]
 
 ### Rules for purposes of this Part
 
@@ -2274,27 +2176,7 @@ shall be sufficient evidence that the electronic record, copy or print-out has b
 
 [Act 7 of 2012 wef 01/09/2012]
 
-(2) The Minister may make rules for carrying out or giving effect to sections 33A and 33B and, in particular, the rules may —
-
-(a) prescribe the qualifications of persons who may be registered as electronic service agents;
-
-(b) provide for the inspection by the Authority or any person authorised in writing by the Authority of records and accounts kept by electronic service agents in compliance with a condition imposed under section 33A(1) ;
-
-(c) provide for the cancellation or suspension by the Authority of registrations of electronic service agents;
-
-(d) provide for the cancellation or suspension by the Authority of authentication codes and accounts with the electronic service;
-
-(e) provide that only specified persons may file with or submit to the Registrar a particular document through the electronic service;
-
-(f) prescribe the manner in which any fee, tax, levy, deposit and other charges payable under this Part or rules made thereunder are to be paid when any document is filed or submitted through the electronic service;
-
-(g) provide for the correction of errors in, or the amendment of, any document that is filed or submitted through the electronic service;
-
-(h) prescribe the fees for the assignment of authentication codes and accounts with the electronic service, the cancellation or suspension of any authentication code or account with the electronic service at the request of the holder thereof, the registration of electronic service agents, the use of the electronic service and the correction or amendment referred to in paragraph (g); and
-
-(i) prescribe anything which is permitted or required to be prescribed under section 33B.
-
-[4/2006 wef 27/02/2006]
+(2) [Deleted by Act 38 of 2018 wef 03/06/2019]
 
 ## PART IA
 
@@ -4190,9 +4072,7 @@ Miscellaneous
 
 [Act 10 of 2017 wef 20/06/2017]
 
-(2) Such notice may be served upon the owner personally or may be sent to him by registered post to the address contained in the register of vehicles kept under this Act or the rules.
-
-[Act 10 of 2017 wef 20/06/2017]
+(2) [Deleted by Act 38 of 2018 wef 03/06/2019]
 
 (3) If any owner required under this section to produce any vehicle or licence fails to do so, he shall be guilty of an offence unless he proves that owing to a mechanical breakdown or other sufficient reason (the proof whereof shall lie on the owner), the vehicle or licence cannot be produced as required.
 
@@ -6042,9 +5922,39 @@ shall be guilty of an offence.
 
 [Act 10 of 2017 wef 20/06/2017]
 
+(1A) In addition, a notice, order or document (other than a summons) required or authorised to be given or served under this Act or any subsidiary legislation made thereunder on an individual, a partnership, a body corporate or an unincorporated association may be given or served —
+
+(a) by sending it by email to the email address of the individual, partnership, body corporate or unincorporated association, as the case may be;
+
+(b) by sending it by fax to whichever of the following is applicable:
+
+(i) the fax number last known to the Authority as the fax number for the service of notices, orders or documents on the individual;
+
+(ii) the fax number used at the partnership’s business address;
+
+(iii) the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore;
+
+(c) by giving an electronic notice to the individual, partnership, body corporate or unincorporated association (called in this section an addressee) by the addressee’s chosen means of notification, stating that the notice, order or document is available and how the addressee may use the addressee’s chosen means of access to access the contents of that notice, order or document; or
+
+(d) by any other method authorised by the rules for the service of notices, orders or documents of that kind if the recipient consents (expressly or impliedly) to service of a notice, order or document of that kind in that way.
+
+[Act 38 of 2018 wef 03/06/2019]
+
 (2) Where any summons, notice, order or document is served on any person by registered post, it shall be deemed to have been served within such time as it would take to arrive in the ordinary course of transmission and in proving service of the same it shall be sufficient to prove that the envelope containing the summons, notice, order or document was properly addressed, stamped and posted by registered post.
 
 [28/2001]
+
+(2A) Service of a notice, order or document under subsection (1A)(a) or (b) takes effect —
+
+(a) if the notice, order or document is sent by email, at the time that the email becomes capable of being retrieved by the person; or
+
+(b) if the notice, order or document is sent by fax and a notification of successful transmission is received, on the day of transmission.
+
+[Act 38 of 2018 wef 03/06/2019]
+
+(2B) However, service of any notice, order or document under this Act or any subsidiary legislation made thereunder on a person by email or by an electronic notice at the person’s chosen means of notification may be effected only with the person’s prior consent (express or implied) to service in that way.
+
+[Act 38 of 2018 wef 03/06/2019]
 
 (3) All notices, orders and other documents which the Registrar is empowered to give by this Act or the rules may be given by any officer duly authorised by the Registrar.
 
@@ -6055,6 +5965,22 @@ shall be guilty of an offence.
 (4) Subsection (1) shall not apply to any summons in connection with any offence punishable with imprisonment and such summons shall be served in the manner prescribed by the Criminal Procedure Code (Cap. 68) for the service of summonses under that Code.
 
 [Act 37 of 2012 wef 01/01/2013]
+
+(5) In this section —
+
+“business address” or “place of business” means —
+
+(a) in the case of an individual, the individual’s usual or last known place of business in Singapore; or
+
+(b) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;
+
+“chosen means of access”, for an addressee on whom is or is to be served a notice, order or document required or authorised to be given or served under this Act or any subsidiary legislation made thereunder, means an electronic means the addressee agrees with the person giving or serving the notice, order or document as the means by which the addressee may access the contents of that notice, order or document;
+
+“chosen means of notification”, for an addressee on whom is or is to be given or served a notice, order or document required or authorised to be given or served under this Act or any subsidiary legislation made thereunder, means an electronic means that the addressee nominates to the person giving or serving the notice, order or document as the means by which the addressee may be notified that such a notice, order or document has been given or served on the addressee;
+
+“email address” means the last email address given by the addressee concerned to the person giving or serving a notice, order or document as the email address for the service of notices, orders or documents under this Act or any subsidiary legislation made thereunder.
+
+[Act 38 of 2018 wef 03/06/2019]
 
 ### Offences by bodies corporate, etc.
 
@@ -6220,17 +6146,35 @@ and if cause is not shown may order him to pay such fine not exceeding $2,000 as
 
 136\.—(1) The Registrar may, if he thinks fit and subject to the provisions of this Act, grant any licence upon receipt of a cheque for the amount of the fee payable thereon.
 
-(2) Where a licence is granted under subsection (1) to any person and the cheque is subsequently dishonoured, the licence shall be void as from the date when it was granted and the Registrar shall send to that person by a registered letter addressed to him to the address given by him when applying for the licence a notice informing the person that the licence is void and, if the licence is not issued in an electronic form, requiring him to deliver up the licence to the Registrar within a period of 7 days from the date that the notice was posted.
+(2) Where a person pays by cheque the whole or any part of any tax or fee for a licence under this Act or any subsidiary legislation made under the Act, and the cheque is not accepted on presentation or is dishonoured —
+
+(a) the licence is void as from the date when it was granted or renewed, as the case may be; and
+
+(b) the Registrar must give the person a dishonour notice in a manner allowed under section 131A.
+
+[Act 38 of 2018 wef 03/06/2019]
+
+(2A) A dishonour notice must —
+
+(a) contain a statement to the effect that the cheque was dishonoured or not accepted, as the case may be;
+
+(b) contain a statement to the effect that the relevant licence is void as from the date when it was granted or renewed, as the case may be; and
+
+(c) if the licence was not issued in electronic form, require the person to deliver up the licence to the Registrar within a period of 7 days after the date that the dishonour notice is given.
+
+[Act 38 of 2018 wef 03/06/2019]
+
+(3) If the person fails to comply with the request within the period under subsection (2A)(c), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
 [Act 10 of 2017 wef 20/06/2017]
 
-(3) If the person fails to comply with the request within the period under subsection (2), he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
+[Act 38 of 2018 wef 03/06/2019]
+
+(4) If the licence granted under subsection (1) is in respect of a motor vehicle, the Registrar may on the expiry of the 7 days after the dishonour notice is given, proceed under section 15.
 
 [Act 10 of 2017 wef 20/06/2017]
 
-(4) If the licence granted under subsection (1) is in respect of a motor vehicle, the Registrar may on the expiry of the 7 days after the notice under subsection (2) is posted, proceed under section 15.
-
-[Act 10 of 2017 wef 20/06/2017]
+[Act 38 of 2018 wef 03/06/2019]
 
 ### Moneys received under this Act
 
@@ -7038,16 +6982,17 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|31 August 2018|
-|83.|**Act 38 of 2018—Land Transport (Enforcement Measures) Act 2018**|
-||Date of First Reading|6 August 2018 (Bill No. 29/2018 published on 6 August 2018)|
-||Date of Second and Third Readings|10 September 2018|
-||Date of commencement|1 May 2018|
-|||2 January 2019|
-|84.|**Act 29 of 2018—Customs (Amendment) Act 2018**|
+|83.|**Act 29 of 2018—Customs (Amendment) Act 2018**|
 ||Date of First Reading|17 May 2018]|
 |||(Bill No. 26/2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|18 February 2019|
+|84.|**Act 38 of 2018—Land Transport (Enforcement Measures) Act 2018**|
+||Date of First Reading|6 August 2018 (Bill No. 29/2018 published on 6 August 2018)|
+||Date of Second and Third Readings|10 September 2018|
+||Date of commencement|1 May 2018|
+|||2 January 2019|
+|||3 June 2019|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
