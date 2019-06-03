@@ -2461,7 +2461,37 @@ MISCELLANEOUS
 
 [Act 38 of 2018 wef 01/02/2019]
 
+(4A) In addition, a document (other than a summons) permitted or required by this Act to be served on an individual, a partnership, a body corporate or an unincorporated association may be served —
+
+(a) by sending it by email to the email address of the individual, partnership, body corporate or unincorporated association, as the case may be;
+
+(b) by sending it by fax to whichever of the following is applicable:
+
+(i) the fax number last known to the Authority as the fax number for the service of documents on the individual;
+
+(ii) the fax number used at the partnership’s business address;
+
+(iii) the fax number used at the body corporate’s or unincorporated association’s registered office or principal office in Singapore;
+
+(c) by giving an electronic notice to the individual, partnership, body corporate or unincorporated association (called in this section an addressee) by the addressee’s chosen means of notification, stating that the document is available and how the addressee may use the addressee’s chosen means of access to access the document’s contents; or
+
+(d) by any other method authorised by the regulations for the service of documents of that kind if the addressee consents (expressly or impliedly) to service of a document of that kind in that way.
+
+[Act 38 of 2018 wef 03/06/2019]
+
 (5) Service of a summons or a document sent by post under subsection (2), (3) or (4) takes effect 2 days (not including any Sunday or public holiday) after the day the summons or document (as the case may be) was posted (even if it is returned undelivered).
+
+(5A) Service of a document under subsection (4A)(a) or (b) takes effect —
+
+(a) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person; or
+
+(b) if the document is sent by fax and a notification of successful transmission is received, on the day of transmission.
+
+[Act 38 of 2018 wef 03/06/2019]
+
+(5B) However, service of any document under this Act on a person by email or by an electronic notice at the person’s chosen means of notification, may be effected only with the person’s prior consent (express or implied) to service in that way.
+
+[Act 38 of 2018 wef 03/06/2019]
 
 (6) When in any proceedings before any court it is necessary to prove that any authorised officer or public path warden has sent or served, or has received or has not received, any document, notice or other thing, a certificate purporting to be signed by the authorised officer or public path warden, as the case may be, and certifying the sending, service, reception or non‑reception, as the case may be, of the document, notice or other thing, is admissible as evidence, and constitutes prima facie proof of the facts certified in the certificate, without proof of the signature of that certificate.
 
@@ -2472,6 +2502,18 @@ MISCELLANEOUS
 (a) in the case of an individual, the individual’s usual or last known place of business in Singapore; or
 
 (b) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;
+
+“chosen means of access”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means the addressee agrees with the person giving or serving the document as the means by which the addressee may access that document’s contents;
+
+[Act 38 of 2018 wef 03/06/2019]
+
+“chosen means of notification”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means that the addressee nominates to the person giving or serving the document as the means by which the addressee may be notified that such a document has been served on the addressee;
+
+[Act 38 of 2018 wef 03/06/2019]
+
+“email address” means the last email address given by the addressee concerned to the person giving or serving the document as the email address for the service of documents under this Act;
+
+[Act 38 of 2018 wef 03/06/2019]
 
 “residential address” means an individual’s usual or last known place of residence in Singapore;
 
