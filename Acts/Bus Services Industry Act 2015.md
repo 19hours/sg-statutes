@@ -1487,6 +1487,14 @@ the officer or member as well as the unincorporated association shall be guilty 
 
 (d) by sending it by email to the body corporate’s or unincorporated association’s last email address.
 
+(4A) In addition, a document permitted or required by this Act to be served on an individual, a partnership, a body corporate or an unincorporated association may be served —
+
+(a) by giving an electronic notice to the individual, partnership, body corporate or unincorporated association (called in this section an addressee) by the addressee’s chosen means of notification, stating that the document is available and how the addressee may use the addressee’s chosen means of access to access the document’s contents; or
+
+(b) by any other method authorised by the regulations made under section 49 for the service of documents of that kind if the addressee consents (expressly or impliedly) to service of a document of that kind in that way.
+
+[Act 38 of 2018 wef 03/06/2019]
+
 (5) Service of a document under subsection (1) takes effect —
 
 (a) if the document is sent by fax and a notification of successful transmission is received, on the day of transmission;
@@ -1494,6 +1502,10 @@ the officer or member as well as the unincorporated association shall be guilty 
 (b) if the document is sent by email, at the time that the email becomes capable of being retrieved by the person; and
 
 (c) if the document is sent by prepaid registered post, 2 days after the day the document was posted (even if it is returned undelivered).
+
+(5A) However, service of any document under this Act on a person by email or by an electronic notice at the person’s chosen means of notification may be effected only with the person’s prior consent (express or implied) to service in that way.
+
+[Act 38 of 2018 wef 03/06/2019]
 
 (6) In this section, “document” includes a notice or an order permitted or required by this Act to be served.
 
@@ -1506,6 +1518,14 @@ the officer or member as well as the unincorporated association shall be guilty 
 (a) in the case of an individual, the individual’s usual or last known place of business in Singapore; or
 
 (b) in the case of a partnership (other than a limited liability partnership), the partnership’s principal or last known place of business in Singapore;
+
+“chosen means of access”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means the addressee agrees with the person giving or serving the document as the means by which the addressee may access that document’s contents;
+
+[Act 38 of 2018 wef 03/06/2019]
+
+“chosen means of notification”, for an addressee on whom is or is to be served a document permitted or required by this Act, means an electronic means that the addressee nominates to the person giving or serving the document as the means by which the addressee may be notified that such a document has been served on the addressee;
+
+[Act 38 of 2018 wef 03/06/2019]
 
 “last email address” means —
 
