@@ -3679,7 +3679,9 @@ The value of each share, if the society is formed with share capital, or the min
 
 7. 
 
-The qualifications for membership, the terms of admission of members, the entrance or affiliation fees, if any, payable, and the mode of admission.
+The qualifications for membership (including the pre‑existing common bond of association or community of interest among the members), the terms of admission of members, the entrance or affiliation fees, if any, payable, and the mode of admission.
+
+[S 439/2019 wef 20/06/2019]
 
 8. 
 
@@ -3709,43 +3711,29 @@ The powers and duties of general meetings and committee of management or board o
 
 13. 
 
-The nomination of candidates for election, and the mode of election, appointment, term of office, suspension and removal of the committee of management or board of directors and officers of the society.
+The nomination of candidates for election, and the mode of election, appointment, term of office, suspension and removal of the committee of management or board of directors of the society.
+
+[S 439/2019 wef 20/06/2019]
 
 14. 
 
-The authorisation of an officer or officers to sign documents and to use the seal on behalf of the society.
+The authorisation of an officer or officers to sign documents and to use the seal (if any) on behalf of the society.
+
+[S 439/2019 wef 20/06/2019]
 
 15. [Deleted by Act 23 of 2008]
 
 16. 
 
-The disposal of the annual net surplus.
+The distribution of the annual net surplus.
+
+[S 439/2019 wef 20/06/2019]
 
 17. 
 
 The honoraria or allowances, if any, to be paid to officers of the society.
 
-18. 
-
-Unless the Registrar otherwise determines, in the case of a society, the objects of which include the provision of loans to the members, additional by-laws in respect of the following matters:
-
-(a) the conditions on which loans may be made to members and non-members and the extent to which the society may provide loans to members and non-members, including —
-
-(i) the maximum rate of interest;
-
-(ii) the maximum period allowed for the repayment of a loan;
-
-(iii) the extension of the term and renewal of a loan;
-
-(iv) the purposes for which a loan may be granted; and
-
-(v) the security required for repayment;
-
-(b) the consequences of default in payment of any sum due on account of shares, subscriptions, deposits or loans and the consequences of failure to use a loan for the purpose for which it was granted;
-
-(c) the occupation or residence of persons who may become members; and
-
-(d) the conditions on which loans and deposits may be received from members and non-members and the extent to which the society may borrow from members and non-members.
+18. [Deleted by S 439/2019 wef 20/06/2019]
 
 19. 
 
@@ -3817,3 +3805,5 @@ This Legislative History is provided for the convenience of users of the Co-oper
 ||Date of Second and Third Readings|9 January 2018|
 ||Dates of commencement|10 April 2018|
 |||22 April 2019|
+|10.|**G.N. No. S 439/2019—Co-operative Societies Act (Amendment of Schedule) Order 2019**|
+||Date of commencement|20 June 2019|
