@@ -98,6 +98,12 @@
 
 - [40 Power to access decryption information](#Power-to-access-decryption-information)
 
+[**Division 3  Powers of investigation for offences related to statement recording**](#Division-3--Powers-of-investigation-for-offences-related-to-statement-recording)
+
+- [40A Powers of investigation of certain law enforcement officers when recording statements](#Powers-of-investigation-of-certain-law-enforcement-officers-when-recording-statements)
+
+- [40B Officer deemed to be of certain rank](#Officer-deemed-to-be-of-certain-rank)
+
 [**Part V PREVENTION OF OFFENCES**](#Part-V)
 
 [**Division 1  Security for keeping peace and for good behaviour**](#Division-1--Security-for-keeping-peace-and-for-good-behaviour)
@@ -254,9 +260,9 @@
 
 - [106A Prohibition against agreements to indemnify surety, etc.](#Prohibition-against-agreements-to-indemnify-surety-etc)
 
-- [107 Procedure on forfeiture of personal bond without sureties](#Procedure-on-forfeiture-of-personal-bond-without-sureties)
+- [107 Procedure for forfeiture of bond without sureties](#Procedure-for-forfeiture-of-bond-without-sureties)
 
-- [107A Procedure on forfeiture of bond with sureties](#Procedure-on-forfeiture-of-bond-with-sureties)
+- [107A Procedure for forfeiture of bond with sureties](#Procedure-for-forfeiture-of-bond-with-sureties)
 
 - [108 Appeal from orders](#Appeal-from-orders)
 
@@ -994,6 +1000,8 @@
 
 - [425A Prohibition against publication, etc., that identifies complainant or alleged victim of sexual offence or child abuse offence](#Prohibition-against-publication-etc-that-identifies-complainant-or-alleged-victim-of-sexual-offence-or-child-abuse-offence)
 
+- [425B Information not to be disclosed if prejudicial to national or public interests, etc.](#Information-not-to-be-disclosed-if-prejudicial-to-national-or-public-interests-etc)
+
 - [426 Copies of proceedings](#Copies-of-proceedings)
 
 - [427 Amendment of Schedules](#Amendment-of-Schedules)
@@ -1720,9 +1728,11 @@ on receiving information about offences
 
 [Act 19 of 2018 wef 17/09/2018]
 
-(6) The cost incurred by a person in complying with any requirement or written order under this section, or any requirement under any regulations in respect of matter mentioned in section 428(2)(d), is to be borne by the person.
+(6) The cost incurred by a person in complying with any requirement or written order under this section, or any requirement under any regulations in respect of any matter mentioned in section 428(2)(d), is to be borne by the person.
 
 [Act 19 of 2018 wef 17/09/2018]
+
+[Act 14 of 2019 wef 21/06/2019]
 
 (7) Any person who fails to comply with a written order issued under subsection (1), (1A), (3) or (3A), shall be guilty of an offence and shall be liable on conviction —
 
@@ -1734,9 +1744,11 @@ on receiving information about offences
 
 [Act 19 of 2018 wef 17/09/2018]
 
-(8) No liability shall lie against a person who, acting in good faith and with reasonable care, does or omits to do anything in complying with any written order issued under subsection (1), (1A), (3) or (3A), or with any requirement under any regulations in respect of matter mentioned in section 428(2)(d).
+(8) No liability shall lie against a person who, acting in good faith and with reasonable care, does or omits to do anything in complying with any written order issued under subsection (1), (1A), (3) or (3A), or with any requirement under any regulations in respect of any matter mentioned in section 428(2)(d).
 
 [Act 19 of 2018 wef 17/09/2018]
+
+[Act 14 of 2019 wef 21/06/2019]
 
 (9) In this section —
 
@@ -2331,6 +2343,35 @@ to provide him with such reasonable technical and other assistance as he may req
 “encrypted data” means data which has been transformed or scrambled from its plain text version to an unreadable or incomprehensible format, regardless of the technique utilised for such transformation or scrambling and irrespective of the medium in which such data occurs or can be found for the purposes of protecting the content of such data;
 
 “plain text version” means the original data before it has been transformed or scrambled to an unreadable or incomprehensible format.
+
+Division 3 —
+
+Powers of investigation for
+
+
+
+
+offences related to statement recording
+
+### Powers of investigation of certain law enforcement officers when recording statements
+
+40A\.—(1) An officer of a prescribed law enforcement agency (other than the Singapore Police Force) who —
+
+(a) is authorised by any written law other than this section to exercise the powers of a police officer under this Code in relation to an investigation into an arrestable offence when investigating an offence under that written law; and
+
+(b) records a statement during such an investigation by making an audiovisual recording,
+
+may investigate any offence under regulations made under section 428(2)(b) committed in relation to that audiovisual recording, and is, by virtue of this section, taken to have the same powers mentioned in paragraph (a), despite anything to the contrary in that other written law.
+
+(2) For the purposes of this section and section 40B, the Minister charged with the responsibility for any law enforcement agency may, by order in theGazette, prescribe the law enforcement agency as a prescribed law enforcement agency.
+
+[Act 14 of 2019 wef 21/06/2019]
+
+### Officer deemed to be of certain rank
+
+40B\. For the purpose of section 40A, when an officer of a prescribed law enforcement agency is exercising the powers pursuant to that section when investigating an offence in relation to an audiovisual recording, the officer is deemed to be a police officer not below the rank of inspector of police.
+
+[Act 14 of 2019 wef 21/06/2019]
 
 ## PART V
 
@@ -3197,87 +3238,143 @@ the court may remand him in custody or grant him bail subject to such conditions
 
 [Act 19 of 2018 wef 31/10/2018]
 
-### Procedure on forfeiture of personal bond without sureties
+### Procedure for forfeiture of bond without sureties
 
-107\.—(1) This section provides for the forfeiture of a personal bond without sureties.
+107\.—(1) This section provides for the forfeiture of the following bonds:
 
-(2) If it is proved to a court’s satisfaction that the released person bound by the bond has failed, without reasonable excuse, to comply with any duty imposed on the released person to surrender to custody, to be available for investigations, or to attend court on the day and at the time and place appointed for the released person to do so, the court —
+(a) a personal bond without sureties;
 
-(a) must record the basis of such proof;
+(b) a bond without sureties to keep the peace;
 
-(b) must forfeit the bond;
+(c) a bond without sureties for good behaviour.
 
-(c) may summon before the court the released person;
+(2) If it is proved to a court’s satisfaction that —
 
-(d) may call upon the released person to pay a sum, being the whole or any part of the amount of the bond, or to explain why the released person should not pay that sum; and
+(a) the released person bound by a bond mentioned in subsection (1)(a) has, without reasonable excuse, failed to comply with any duty imposed on the released person to surrender to custody, to be available for investigations, or to attend court on the day and at the time and place appointed for the released person to do so;
 
-(e) may order that the sum mentioned in paragraph (d) be paid by instalments.
+(b) the person bound by a bond mentioned in subsection (1)(b) has, without reasonable excuse, failed to keep the peace; or
 
-(3) If the explanation is inadequate, and the sum mentioned in subsection (2)(d) is not paid in full, the court may recover the amount unpaid by issuing an order for the attachment of any property, movable or immovable, belonging to the released person —
+(c) the person bound by a bond mentioned in subsection (1)(c) has failed to be of good behaviour,
+
+the court —
+
+(d) must record the basis of such proof;
+
+(e) must forfeit the bond;
+
+(f) may summon before the court that relevant person;
+
+(g) may call upon that relevant person to pay a sum, being the whole or any part of the amount of the bond, or to explain why that sum should not be paid; and
+
+(h) may order that the sum mentioned in paragraph (g) be paid by instalments.
+
+(3) If the explanation mentioned in subsection (2)(g) is inadequate, and the sum mentioned in subsection (2)(g) is not paid in full, the court may recover the amount unpaid by issuing an order for the attachment of any property, movable or immovable, belonging to the relevant person.
+
+(4) The attachment of any property under subsection (3) may be carried out —
 
 (a) by seizure of such property, which may be sold and the proceeds applied towards the payment of the amount; or
 
 (b) by appointing a receiver, who may take possession of and sell such property, and apply the proceeds towards the payment of the amount.
 
-(4) Any person may, not later than 7 days after the date any property is seized under subsection (3)(a) or taken possession of by the receiver under subsection (3)(b), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (3), and the court may make such order as it sees fit.
-
 (5) If immovable property attached under subsection (3) is sold, the officer under whose direction the attachment and sale was carried out may do any thing or act to transfer the title to the purchaser.
 
-(6) If the sum mentioned in subsection (2)(d) is not paid in full and cannot be fully recovered by such attachment and sale, the court may commit to prison the released person for a term not exceeding 12 months.
+(6) If the sum mentioned in subsection (2)(g) is not paid in full or cannot be fully recovered by such attachment and sale, the court may commit to prison the relevant person for a term not exceeding 12 months.
 
-(7) Any unsatisfied part of the sum mentioned in subsection (2)(d) constitutes a judgment debt in favour of the Government, and nothing in this section prevents the Government from recovering it as such.
+(7) Any person may, not later than 7 days after the date any property is seized under subsection (4)(a) or taken possession of by the receiver under subsection (4)(b), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (3), and the court may make such order as it sees fit.
 
-(8) The court may, on the application of the released person at any time after the released person is called upon to pay the sum mentioned in subsection (2)(d), reduce that sum and enforce part-payment only.
+(8) Any unsatisfied part of the sum mentioned in subsection (2)(g) constitutes a judgment debt in favour of the Government, and nothing in this section prevents the Government from recovering it as such.
 
-[Act 19 of 2018 wef 31/10/2018]
+(9) The court may, on the application of a relevant person at any time after the relevant person is called upon to pay the sum mentioned in subsection (2)(g), reduce that sum and enforce part-payment only.
 
-### Procedure on forfeiture of bond with sureties
+(10) In this section, “relevant person” means —
 
-107A\.—(1) This section provides for the forfeiture of a bond with one or more sureties.
+(a) the released person bound by a bond mentioned in subsection (1)(a);
 
-(2) If it is proved to a court’s satisfaction that the released person for whose appearance the bond was executed has failed, without reasonable excuse, to comply with any duty imposed on the released person to surrender to custody, to be available for investigations, or to attend court on the day and at the time and place appointed for the released person to do so, the court —
+(b) the person bound by a bond mentioned in subsection (1)(b); or
 
-(a) must record the basis of such proof;
+(c) the person bound by a bond mentioned in subsection (1)(c).
 
-(b) must forfeit the bond, as far as it relates to the released person;
+[Act 14 of 2019 wef 21/06/2019]
 
-(c) may summon before the court each person bound by the bond;
+### Procedure for forfeiture of bond with sureties
 
-(d) may call upon each surety bound by the bond to explain why the bond, as far as it relates to that surety, should not be forfeited; and
+107A\.—(1) This section provides for the forfeiture of the following bonds:
 
-(e) may call upon the released person to pay a sum, being the whole or any part of the amount of the bond, or to explain why the released person should not pay that sum.
+(a) a bond with one or more sureties;
 
-(3) If the court calls upon the released person to pay the sum mentioned in subsection (2)(e), or to explain why the released person should not pay that sum, section 107(3) to (8) applies to the released person as it applies to a released person bound by a personal bond without sureties.
+(b) a bond with sureties to keep the peace;
 
-(4) If the explanation given by a surety is inadequate, and it is proved to the court’s satisfaction that the surety is in breach of any of the surety’s duties mentioned in section 104, the court —
+(c) a bond with sureties for good behaviour.
 
-(a) must record the basis of such proof; and
+(2) If it is proved to a court’s satisfaction that —
 
-(b) may, having regard to all the circumstances of the case —
+(a) the released person for whose appearance a bond mentioned in subsection (1)(a) was executed has, without reasonable excuse, failed to comply with any duty imposed on the released person to surrender to custody, to be available for investigations, or to attend court on the day and at the time and place appointed for the released person to do so;
+
+(b) the person bound by a bond mentioned in subsection (1)(b) has, without reasonable excuse, failed to keep the peace; or
+
+(c) the person bound by a bond mentioned in subsection (1)(c) has failed to be of good behaviour,
+
+the court —
+
+(d) must record the basis of such proof;
+
+(e) must forfeit the bond, as far as it relates to the relevant person;
+
+(f) may summon before the court each person bound by the bond;
+
+(g) may call upon each surety bound by the bond to explain why the bond, as far as it relates to that surety, should not be forfeited; and
+
+(h) may call upon the relevant person to pay a sum, being the whole or any part of the amount of the bond, or to explain why the relevant person should not pay that sum.
+
+(3) If the explanation given by a surety is inadequate, and it is proved to the court’s satisfaction that —
+
+(a) in relation to a bond mentioned in subsection (1)(a), the surety is in breach of any of the surety’s duties mentioned in section 104;
+
+(b) in relation to a bond mentioned in subsection (1)(b), the surety has, without reasonable excuse, failed to ensure that the relevant person keeps the peace; or
+
+(c) in relation to a bond mentioned in subsection (1)(c), the surety has, without reasonable excuse, failed to ensure that the relevant person is of good behaviour,
+
+the court —
+
+(d) must record the basis of such proof; and
+
+(e) may, having regard to all the circumstances of the case —
 
 (i) forfeit the whole or any part of the amount of the bond, as far as it relates to the surety; and
 
 (ii) order the surety to pay the amount forfeited.
 
-(5) The court may order that any amount forfeited under subsection (4)(b) be paid by instalments.
+(4) The court may order that any sum or amount mentioned in subsection (2)(h) or (3)(e) be paid by instalments.
 
-(6) If any amount forfeited under subsection (4)(b) is not paid in full, the court may recover the amount unpaid by issuing an order for the attachment of any property, movable or immovable, belonging to the surety —
+(5) If the court calls upon the relevant person to pay the sum mentioned in subsection (2)(h), or to explain why the relevant person should not pay that sum, section 107(3) to (9) applies to the relevant person as it applies to a relevant person as defined in section 107(10).
+
+(6) If any amount forfeited under subsection (3)(e) is not paid in full, the court may recover the amount unpaid by issuing an order for the attachment of any property, movable or immovable, belonging to the surety.
+
+(7) The attachment of any property under subsection (6) may be carried out —
 
 (a) by seizure of such property, which may be sold and the proceeds applied towards the payment of the amount forfeited; or
 
 (b) by appointing a receiver, who may take possession of and sell such property, and apply the proceeds towards the payment of the amount forfeited.
 
-(7) Any person may, not later than 7 days after the date any property is seized under subsection (6)(a) or taken possession of by the receiver under subsection (6)(b), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (6), and the court may make such order as it sees fit.
-
 (8) If immovable property attached under subsection (6) is sold, the officer under whose direction the attachment and sale was carried out may do any thing or act to transfer the title to the purchaser.
 
-(9) If the amount forfeited under subsection (4)(b) is not paid in full and cannot be fully recovered by such attachment and sale, the court may commit to prison the surety for a term not exceeding 12 months.
+(9) If the amount forfeited under subsection (3)(e) is not paid in full or cannot be fully recovered by such attachment and sale, the court may commit to prison the surety for a term not exceeding 12 months.
 
-(10) Any unsatisfied part of the amount forfeited under subsection (4)(b) constitutes a judgment debt in favour of the Government, and nothing in this section prevents the Government from recovering it as such.
+(10) Any person may, not later than 7 days after the date any property is seized under subsection (7)(a) or taken possession of by the receiver under subsection (7)(b), as the case may be, make a claim against that property by applying to the court for the property to be excluded from the order of attachment issued under subsection (6), and the court may make such order as it sees fit.
 
-(11) The court may, on the application of a surety at any time after the surety is ordered to pay the amount forfeited under subsection (4)(b), reduce that amount and enforce part-payment only.
+(11) Any unsatisfied part of the amount forfeited under subsection (3)(e) constitutes a judgment debt in favour of the Government, and nothing in this section prevents the Government from recovering it as such.
 
-[Act 19 of 2018 wef 31/10/2018]
+(12) The court may, on the application of a surety at any time after the surety is ordered to pay the amount forfeited under subsection (3)(e), reduce that amount and enforce part-payment only.
+
+(13) In this section, “relevant person” means —
+
+(a) the released person for whose appearance a bond mentioned in subsection (1)(a) is executed;
+
+(b) the person bound by a bond mentioned in subsection (1)(b); or
+
+(c) the person bound by a bond mentioned in subsection (1)(c).
+
+[Act 14 of 2019 wef 21/06/2019]
 
 ### Appeal from orders
 
@@ -4846,7 +4943,17 @@ General matters
 
 [Act 19 of 2018 wef 17/09/2018]
 
-“co-accused” means any person who is to be tried jointly with an accused in the High Court.
+“co-accused” means any person who is to be tried jointly with an accused in the High Court;
+
+[Act 14 of 2019 wef 21/06/2019]
+
+“criminal case disclosure conference” means any conference held under sections 212 to 220 in respect of any offence to which the criminal case disclosure procedures apply by virtue of section 211A;
+
+[Act 14 of 2019 wef 21/06/2019]
+
+“criminal case disclosure procedures” means the procedures under sections 212 to 220.
+
+[Act 14 of 2019 wef 21/06/2019]
 
 ### When accused first produced in court
 
@@ -7092,11 +7199,17 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 ### Date that sentence begins
 
-318\.—(1) Subject to this Code and any other written law, a sentence of imprisonment, reformative training, corrective training or preventive detention shall take effect from the date it was passed, unless the court passing the sentence or, when there has been an appeal, the appellate court, otherwise directs.
+318\.—(1) Subject to this Code and any other written law, a sentence of imprisonment, corrective training or preventive detention shall take effect beginning on the date it was passed, unless the court passing the sentence or, when there has been an appeal, the appellate court, otherwise directs.
 
 [Act 19 of 2018 wef 31/10/2018]
 
-(2) To avoid doubt, where a court has directed under subsection (1) that a sentence of imprisonment, reformative training, corrective training or preventive detention is to take effect on a date later than the date the sentence was passed —
+[Act 14 of 2019 wef 21/06/2019]
+
+(1A) A sentence of reformative training takes effect beginning on the date it was passed or at such later date as the court may determine.
+
+[Act 14 of 2019 wef 21/06/2019]
+
+(2) To avoid doubt, where a court has directed under subsection (1) that a sentence of imprisonment, corrective training or preventive detention is to take effect on a date later than the date the sentence was passed —
 
 (a) the court may under that subsection further direct that the sentence is to take effect on another date; and
 
@@ -7104,15 +7217,21 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 
 [Act 19 of 2018 wef 31/10/2018]
 
-(3) To avoid doubt, a court may under subsection (1) direct that a sentence of imprisonment, reformative training, corrective training or preventive detention is to take effect on a date earlier than the date the sentence is passed.
+[Act 14 of 2019 wef 21/06/2019]
+
+(3) To avoid doubt, a court may under subsection (1) direct that a sentence of imprisonment, corrective training or preventive detention is to take effect on a date earlier than the date the sentence is passed.
 
 [Act 19 of 2018 wef 31/10/2018]
 
-(4) Where an offender has been remanded in custody, or remanded in a psychiatric institution (whether for observation or otherwise) under Division 5 of Part XIII, for an offence, a court must consider directing that a sentence of imprisonment, reformative training, corrective training or preventive detention, which is to be imposed for that offence, is to take effect on a date earlier than the date the sentence is passed.
+[Act 14 of 2019 wef 21/06/2019]
+
+(4) Where an offender has been remanded in custody, or remanded in a psychiatric institution (whether for observation or otherwise) under Division 5 of Part XIII, for an offence, a court must consider directing that a sentence of imprisonment, corrective training or preventive detention, which is to be imposed for that offence, is to take effect on a date earlier than the date the sentence is passed.
 
 [Act 19 of 2018 wef 31/10/2018]
 
-(5) Before directing the date on which a sentence of imprisonment, reformative training, corrective training or preventive detention, which is to be imposed for an offence, is to take effect, a court must consider all the circumstances of the case, including the following matters:
+[Act 14 of 2019 wef 21/06/2019]
+
+(5) Before directing the date on which a sentence of imprisonment, corrective training or preventive detention, which is to be imposed for an offence, is to take effect, a court must consider all the circumstances of the case, including the following matters:
 
 (a) the date on which the offender was arrested for the offence;
 
@@ -7123,6 +7242,8 @@ he shall in every such case, unless he proves to the satisfaction of the court b
 (d) the length of the period (if any), after the offender was arrested for the offence, during which the offender was not in custody.
 
 [Act 19 of 2018 wef 31/10/2018]
+
+[Act 14 of 2019 wef 21/06/2019]
 
 ### Provisions as to sentence of fine
 
@@ -8669,7 +8790,9 @@ Review of earlier decision of appellate court
 
 (4) The respondent in a leave application may file written submissions in relation to that application within such period as is prescribed in the Criminal Procedure Rules.
 
-(5) The appellate court may extend any period mentioned in subsection (2), (3) or (4).
+(5) The Registrar of the Supreme Court, any judge of the High Court or any Judge of the Court of Appeal may extend or abridge any period mentioned in subsection (2), (3) or (4).
+
+[Act 14 of 2019 wef 21/06/2019]
 
 (6) A leave application is to be heard —
 
@@ -8701,7 +8824,9 @@ Review of earlier decision of appellate court
 
 (3) The respondent in a review application must file such documents in relation to that application, within such period, as are prescribed in the Criminal Procedure Rules.
 
-(4) The appellate court may extend any period mentioned in subsection (1), (2) or (3).
+(4) The Registrar of the Supreme Court, any judge of the High Court or any Judge of the Court of Appeal may extend or abridge any period mentioned in subsection (1), (2) or (3).
+
+[Act 14 of 2019 wef 21/06/2019]
 
 (5) A review application is to be heard —
 
@@ -9212,6 +9337,60 @@ shall, in the absence of reasonable excuse, the burden of proving which shall li
 (4) To avoid doubt, this section does not affect any other written law that may prohibit a person from doing any thing mentioned in subsection (1)(a), (b) or (c).
 
 [Act 19 of 2018 wef 31/10/2018]
+
+### Information not to be disclosed if prejudicial to national or public interests, etc.
+
+425B\.—(1) If —
+
+(a) at any time after the commencement of a criminal investigation, any person makes an application to the officer of a law enforcement agency who is in charge of the investigation for information in any document or thing relating to the investigation; and
+
+(b) the document or thing contains any sensitive information,
+
+the officer may cause the sensitive information to be removed or sufficiently redacted before disclosing the contents or giving a copy of the document or thing to the person, whether or not the disclosure of the sensitive information is required by law.
+
+(2) Subject to subsection (3), for the purposes of any criminal proceedings, the prosecution may cause any sensitive information contained in any document or thing relating to the proceedings that is in the prosecution’s possession or control to be removed or sufficiently redacted before disclosing the contents or giving a copy of the document or thing to the defence, whether or not the disclosure of the sensitive information is required by law.
+
+(3) The prosecution must not cause any information to be removed or redacted under subsection (2) if —
+
+(a) the prosecution intends to rely on the information as evidence for the purposes of the proceedings; or
+
+(b) the disclosure of the information is required by any rule of law relating to the disclosure of unused material that tends to undermine the prosecution’s case or to strengthen the defence’s case.
+
+(4) If the defence is aggrieved by the removal or redaction of any information by the prosecution under subsection (2), the defence may apply to the following court to order the disclosure of the information:
+
+(a) where the disclosure of the contents or giving a copy of the document or thing was made for the purposes of a criminal case disclosure conference held under Part IX or X, the court conducting the criminal case disclosure conference;
+
+(b) where the disclosure of the contents or giving a copy of the document or thing was made for the purposes of a pre-trial conference held under Part IX or X, the court conducting the pre-trial conference;
+
+(c) where the disclosure of the contents or giving a copy of the document or thing was made for the purposes of a trial, the court conducting the trial.
+
+(5) The court hearing an application under subsection (4) must view the information removed or redacted by the prosecution in the absence of the defence.
+
+(6) If an application under subsection (4) is made in criminal proceedings that are heard in open court, the application must be heard and dealt with in camera.
+
+(7) If —
+
+(a) a court determines, upon an application made under subsection (4), that the information may not be removed or redacted by the prosecution under subsection (2) read with subsection (3); and
+
+(b) the disclosure of the information to the defence is required by law,
+
+the court must order the prosecution to disclose the information to the defence by such date as the court determines.
+
+(8) The court making an order under subsection (7) must, upon an application by the prosecution based on any reasonable grounds, postpone the date mentioned in that subsection to such other date as the court deems fit.
+
+(9) To avoid doubt, this section does not affect the operation of any rule of law concerning privilege, secrecy or the protection or non-disclosure of any information.
+
+(10) In this section, “sensitive information” means information that, if disclosed —
+
+(a) may be prejudicial to the public safety, public security or propriety, public order, national interest or national security of Singapore or any part of Singapore;
+
+(b) may endanger the safety of any particular person;
+
+(c) may prejudice the effective conduct of any ongoing or future operation or investigation of any law enforcement agency; or
+
+(d) may otherwise be prejudicial to the interests of justice in any criminal investigation or criminal proceedings.
+
+[Act 14 of 2019 wef 21/06/2019]
 
 ### Copies of proceedings
 
@@ -19388,3 +19567,7 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
 ||Date of Second and Third Readings|6 February 2018|
 ||Date of commencement|1 January 2019|
+|30.|**Act 14 of 2019—Criminal Procedure Code (Amendment) Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 7/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|8 March 2019|
+||Date of commencement|21 June 2019|
