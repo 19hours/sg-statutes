@@ -1032,9 +1032,15 @@ Terrorists and terrorist entities
 
 [S 669/2017 wef 25/11/2017]
 
-(zk) Ahmed Hussein Abdul Kadir s/o Sheik Uduman (Singapore citizen) (Date of Birth: 4 October 1984).
+(zk) Ahmed Hussein Abdul Kadir s/o Sheik Uduman (Singapore citizen) (Date of Birth: 4 October 1984);
 
 [S 604/2018 wef 01/10/2018]
+
+[S 452/2019 wef 24/06/2019]
+
+(zl) Mohamed Kazali bin Salleh (Singapore citizen) (Date of Birth: 25 July 1970).
+
+[S 452/2019 wef 24/06/2019]
 
 2. In this Schedule, unless the context otherwise requires —
 
@@ -1268,6 +1274,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of First Reading|1 October 2018 (Bill No. 43/2018 published on 1 October 2018)|
 ||Date of Second and Third Readings|19 November 2018|
 ||Date of commencement|1 April 2019|
+|29.|**G.N. No. S 452/2019—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2019**|
+||Date of commencement|24 June 2019|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
