@@ -265,6 +265,10 @@ but does not include a therapeutic product registered under the Health Products 
 
 [Act 46 of 2017 wef 01/01/2018]
 
+“trade mark” has the meaning given by section 2(1) of the Trade Marks Act (Cap. 332);
+
+[Act 9 of 2019 wef 01/07/2019]
+
 “unauthorised advertisement” means any advertisement described in section 3(1)(a), (b), (c) or (d), but not —
 
 (a) a price list referred to in section 3(1A);
@@ -1287,9 +1291,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (c) requiring such information or security as the Minister considers necessary in relation to the application for the grant or renewal of a licence;
 
-(d) prescribing the books, records or accounts to be kept by licensees.
+(d) prescribing the books, records or accounts to be kept by licensees;
 
 [Act 9 of 2016 wef 30/12/2017]
+
+[Act 9 of 2019 wef 01/07/2019]
+
+(e) the requirements under this Act for tobacco products and their packaging or labelling, including —
+
+(i) the requirements as to size, appearance and design of tobacco products and their packaging or labelling;
+
+(ii) the health warnings and other information to be stated on tobacco products and their packaging or labelling; and
+
+(iii) the trade marks, terms, descriptors, figurative or other signs, features, scents and sounds that are prohibited in relation to tobacco products and their packaging or labelling.
+
+[Act 9 of 2019 wef 01/07/2019]
+
+(1B) For the purposes of subsection (1A)(e), different requirements or prohibitions may be prescribed for different tobacco products or different types of packaging or labelling of tobacco products.
+
+[Act 9 of 2019 wef 01/07/2019]
 
 (2) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1383,6 +1403,7 @@ This Legislative History is provided for the convenience of users of the Tobacco
 ||Date of First Reading|14 January 2019 (Bill No. 3/2019 published on 14 January 2019)|
 ||Date of Second and Third Readings|11 February 2019|
 ||Date of commencement|1 May 2019|
+|||1 July 2019|
 ## COMPARATIVE TABLE
 
 Tobacco (Control of Advertisements and Sale) Act
