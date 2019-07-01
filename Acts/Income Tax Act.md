@@ -14794,7 +14794,7 @@ the policies which it assumed the risks or undertook the liabilities of, or for 
 
 [Act 45 of 2018 wef 26/10/2017]
 
-### Section 43(6C)inapplicable
+### Section 43(6C) inapplicable
 
 (21) Section 43(6C) does not apply to a redomiciled company.
 
@@ -20260,6 +20260,64 @@ accruing in or derived from Singapore on or after 28th February 1996 by a person
 
 [Act 45 of 2018 wef 01/07/2018]
 
+(3D) In the application of subsection (3B) to a distribution mentioned in that subsection made during the period from 1 July 2019 to 31 December 2025 (both dates inclusive) to a person mentioned in subsection (3F) with a fund manager in Singapore, that fund manager is not considered a permanent establishment in Singapore of that person.
+
+[Act 32 of 2019 wef 01/07/2019]
+
+(3E) In the application of subsection (3C) to a distribution mentioned in that subsection made during the period from 1 July 2019 to 31 December 2025 (both dates inclusive) to a person mentioned in subsection (3F) with a fund manager in Singapore, that fund manager is not considered a permanent establishment in Singapore of that person.
+
+[Act 32 of 2019 wef 01/07/2019]
+
+(3F) Subsection (3D) or (3E) applies to a distribution made to any of the following persons or entities that is not resident in Singapore:
+
+(a) a prescribed person (other than an individual) under section 13CA;
+
+(b) an approved person under section 13X;
+
+(c) a person (not being an individual, a body of persons or a Hindu joint family) that is the approved master fund or an approved feeder fund of an approved master‑feeder fund structure under section 13X;
+
+(d) a partner of a partnership (including a limited partnership and a limited liability partnership), where the partnership is the approved master fund or an approved feeder fund of an approved master‑feeder fund structure under section 13X;
+
+(e) a trustee of a trust fund where the trust fund is the approved master fund or an approved feeder fund of an approved master‑feeder fund structure under section 13X;
+
+(f) a taxable entity in relation to the approved master fund or an approved feeder fund of an approved master‑feeder fund structure under section 13X, where the master fund or feeder fund is not a legal entity;
+
+(g) a company, a trustee of a trust fund or a partner of a limited partnership, where the company, trust fund or limited partnership is an approved feeder fund of an approved master‑feeder fund‑SPV structure under section 13X;
+
+(h) a person (not being a company, an individual or a Hindu joint family) that is an approved feeder fund of an approved master‑feeder fund‑SPV structure under section 13X;
+
+(i) a partner of a partnership (excluding a limited partnership but including a limited liability partnership), where the partnership is an approved feeder fund of an approved master-feeder fund-SPV structure under section 13X;
+
+(j) a taxable entity in relation to an approved feeder fund of an approved master-feeder fund-SPV structure under section 13X, where the feeder fund is not a legal entity;
+
+(k) an approved 1st tier SPV of an approved master-feeder fund-SPV structure under section 13X;
+
+(l) an approved 2nd tier SPV of an approved master-feeder fund-SPV structure under section 13X;
+
+(m) an approved eligible SPV of an approved master‑feeder fund‑SPV structure under section 13X, where the eligible SPV is not one mentioned in paragraphs (n), (o) and (p);
+
+(n) a partner of an approved eligible SPV of an approved master-feeder fund-SPV structure under section 13X, where the eligible SPV is a partnership (including a limited partnership and a limited liability partnership);
+
+(o) the trustee of an approved eligible SPV of an approved master‑feeder fund‑SPV structure under section 13X, where the eligible SPV is a trust fund;
+
+(p) the taxable entity of an approved eligible SPV of an approved master‑feeder fund‑SPV structure under section 13X, where the eligible SPV is not a legal entity;
+
+(q) an approved 1st tier SPV of an approved master fund‑SPV structure under section 13X;
+
+(r) an approved 2nd tier SPV of an approved master fund-SPV structure under section 13X;
+
+(s) an approved eligible SPV of an approved master fund-SPV structure under section 13X, where the eligible SPV is not one mentioned in paragraphs (t), (u) and (v);
+
+(t) a partner of an approved eligible SPV of an approved master fund‑SPV structure under section 13X, where the eligible SPV is a partnership (including a limited partnership and a limited liability partnership);
+
+(u) the trustee of an approved eligible SPV of an approved master fund‑SPV structure under section 13X, where the eligible SPV is a trust fund;
+
+(v) the taxable entity of an approved eligible SPV of an approved master fund-SPV structure under section 13X, where the eligible SPV is not a legal entity;
+
+(w) a prescribed sovereign fund entity or an approved foreign government‑owned entity under section 13Y.
+
+[Act 32 of 2019 wef 01/07/2019]
+
 (4) Notwithstanding anything in this Act but subject to subsection (5) and sections 13(1)(r), (ra) and (rb) and 40A, tax at the rate of 15% shall be levied and paid on the gross amount of any income accruing in or derived from Singapore on or after 3rd May 2002 from any profession or vocation carried on by —
 
 (a) an individual not resident in Singapore and whose principal place of business is situated outside Singapore; or
@@ -22686,7 +22744,9 @@ as section 45 applies to any interest paid by a person to another person not kno
 
 45G\.—(1) Subject to subsections (2) and (3) and such conditions as the Comptroller may impose, section 45 shall apply in relation to any distribution by a trustee of any real estate investment trust or by a trustee of any approved REIT exchange-traded fund —
 
-(a) to any person (other than an individual) not known to the trustee to be resident in Singapore to whom section 43(3B) applies; or
+(a) to any person (other than an individual) not known to the trustee to be resident in Singapore to whom section 43(3B), (3C), (3D) or (3E) applies; or
+
+[Act 32 of 2019 wef 01/07/2019]
 
 (b) to any other person not known to the trustee to be —
 
@@ -28337,7 +28397,9 @@ This Legislative History is provided for the convenience of users of the Income 
 ||Date of First Reading|6 February 2017 (Bill No. 7/2017 published on 6 February 2017)|
 ||Date of Second and Third Readings|28 February 2017|
 ||Date of commencement|2 January 2019|
-|205.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
+|205.|**G.N. No. S 290/2019—Income Tax Act (Amendment of Seventh Schedule) Order 2019**|
+||Date of commencement|1 May 2019|
+|206.|**Act 32 of 2019—Income Tax (Amendment) Act 2019**|
 ||Date of First Reading|2 September 2019 (Bill No. 26/2019 published on 2 September 2019)|
 ||Date of Second and Third Readings|7 October 2019|
 ||Date of commencement|1 January 2018|
@@ -28348,8 +28410,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 January 2019|
 |||19 February 2019|
 |||1 April 2019|
-|206.|**G.N. No. S 290/2019—Income Tax Act (Amendment of Seventh Schedule) Order 2019**|
-||Date of commencement|1 May 2019|
+|||1 July 2019|
 ## COMPARATIVE TABLE
 
 Income Tax Act
