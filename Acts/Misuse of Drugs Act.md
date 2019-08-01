@@ -40,9 +40,17 @@
 
 - [11A Arranging or planning gatherings where controlled drugs are to be consumed or trafficked](#Arranging-or-planning-gatherings-where-controlled-drugs-are-to-be-consumed-or-trafficked)
 
+- [11B Exposing child to drugs, etc., and permitting young person to consume drugs](#Exposing-child-to-drugs-etc-and-permitting-young-person-to-consume-drugs)
+
+- [11C Introducing drug trafficker to another person](#Introducing-drug-trafficker-to-another-person)
+
+- [11D Instructing person to cultivate cannabis, etc., or to manufacture or consume controlled drugs, etc.](#Instructing-person-to-cultivate-cannabis-etc-or-to-manufacture-or-consume-controlled-drugs-etc)
+
+- [11E Causing or procuring young person or vulnerable person to commit certain offences](#Causing-or-procuring-young-person-or-vulnerable-person-to-commit-certain-offences)
+
 - [12 Abetments and attempts punishable as offences](#Abetments-and-attempts-punishable-as-offences)
 
-- [12A Causing or procuring young person or vulnerable person to commit certain offences](#Causing-or-procuring-young-person-or-vulnerable-person-to-commit-certain-offences)
+- [12A (Repealed)](#Repealed)
 
 - [13 Abetting or procuring commission of offences within or outside Singapore](#Abetting-or-procuring-commission-of-offences-within-or-outside-Singapore)
 
@@ -74,6 +82,8 @@
 
 - [26 Power to search ship, hovercraft, etc., and person arriving in or departing from Singapore](#Power-to-search-ship-hovercraft-etc-and-person-arriving-in-or-departing-from-Singapore)
 
+- [26A Procedure when person entitled to seized item is known, unknown or cannot be found](#Procedure-when-person-entitled-to-seized-item-is-known-unknown-or-cannot-be-found)
+
 - [27 Forfeiture of controlled drugs, controlled substances and articles seized](#Forfeiture-of-controlled-drugs-controlled-substances-and-articles-seized)
 
 - [28 Forfeiture of ship, hovercraft, etc.](#Forfeiture-of-ship-hovercraft-etc)
@@ -101,6 +111,8 @@
 [**Part IV TREATMENT AND REHABILITATION**](#Part-IV)
 
 - [34 Supervision, treatment and rehabilitation of drug addicts](#Supervision-treatment-and-rehabilitation-of-drug-addicts)
+
+- [34A Parents or guardians to attend counselling with supervisees](#Parents-or-guardians-to-attend-counselling-with-supervisees)
 
 - [35 Approved institutions and community rehabilitation centres](#Approved-institutions-and-community-rehabilitation-centres)
 
@@ -530,15 +542,131 @@ and any such equipment, material or substance shall be deemed to be exported con
 
 [Act 30 of 2012 wef 01/05/2013]
 
+### Exposing child to drugs, etc., and permitting young person to consume drugs
+
+11B\.—(1) Any person of or above 21 years of age who, being in possession of any controlled drug or drug paraphernalia —
+
+(a) knowingly or recklessly leaves the controlled drug or drug paraphernalia —
+
+(i) exposed in any place; or
+
+(ii) in any refrigerator, cupboard, cabinet, box, chest or any other article, that is not locked; and
+
+(b) knows that any child has, or is likely to have, access to —
+
+(i) the place where the controlled drug or drug paraphernalia is left exposed; or
+
+(ii) the refrigerator, cupboard, cabinet, box, chest or other article in which the controlled drug or drug paraphernalia is located,
+
+shall be guilty of an offence.
+
+(2) Any person of or above 21 years of age who, being in possession of any controlled drug —
+
+(a) permits a young person to smoke, administer (whether or not to himself) or consume the controlled drug; or
+
+(b) does not take all reasonable steps to prevent a young person from smoking, administering (whether or not to himself) or consuming the controlled drug,
+
+shall be guilty of an offence.
+
+(3) Any person guilty of an offence under subsection (1) or (2) shall —
+
+(a) on conviction, be punished with imprisonment for a term not exceeding 10 years; and
+
+(b) on a second or subsequent conviction, be punished with imprisonment for a term of not less than 2 years and not more than 10 years.
+
+(4) Subsection (1) does not apply in relation to a person who is in possession of any controlled drug or drug paraphernalia if the possession of the controlled drug or drug paraphernalia is authorised under this Act.
+
+(5) In this section —
+
+“child” means any person below 16 years of age;
+
+“drug paraphernalia” means any pipe, syringe, utensil, apparatus or other article for the purpose of smoking, administering or consuming a controlled drug.
+
+[Act 1 of 2019 wef 01/08/2019]
+
+### Introducing drug trafficker to another person
+
+11C\.—(1) Any person (A) who, knowing or having reason to believe that another person (B) intends —
+
+(a) to procure, whether or not for himself, any controlled drug; or
+
+(b) to smoke, administer (whether or not to himself) or consume any controlled drug,
+
+introducesB(whether or not through the use of any electronic media) to a person whomAknows or has reason to believe is trafficking in any controlled drug and is likely to supplyBwith any controlled drug shall be guilty of an offence.
+
+(2) Any person guilty of an offence under subsection (1) shall —
+
+(a) on conviction, be punished with imprisonment for a term not exceeding 10 years; and
+
+(b) on a second or subsequent conviction, be punished with imprisonment for a term of not less than 2 years and not more than 10 years.
+
+(3) In a prosecution for an offence under subsection (1), it is not necessary for the prosecution to prove that —
+
+(a) Bprocures, smokes, administers or consumes any controlled drug after the introduction is made; or
+
+(b) bothAandBare within Singapore at the time the introduction is made, as long as eitherAorBis within Singapore at that time.
+
+(4) In this section, “introduce” includes giving any address, telephone number, email address or any other details of one person to another person.
+
+[Act 1 of 2019 wef 01/08/2019]
+
+### Instructing person to cultivate cannabis, etc., or to manufacture or consume controlled drugs, etc.
+
+11D\.—(1) Any person (A) who, whether or not through the use of any electronic media, teaches or instructs another person (B) to carry out, or who provides information toBon the carrying out of, any of the following activities:
+
+(a) the cultivating of any plant of the genus Cannabis, or any plant of the species papaver somniferum or any plant of the genus erythroxylon from which cocaine can be extracted;
+
+(b) the manufacture of any controlled drug;
+
+(c) the smoking, administering or consuming of any controlled drug;
+
+(d) the trafficking or doing of any act preparatory to or for the purpose of trafficking in any controlled drug;
+
+(e) the importing into or exporting from Singapore of any controlled drug,
+
+knowing or having reason to believe thatBintends to carry out the activity, shall be guilty of an offence.
+
+(2) Any person who disseminates or publishes, or causes the dissemination or publication of, information (whether or not through the use of any electronic media) on the carrying out of any activity mentioned in subsection (1) shall be guilty of an offence.
+
+(3) Any person guilty of an offence under subsection (1) shall —
+
+(a) on conviction, be punished with imprisonment for a term not exceeding 10 years; and
+
+(b) on a second or subsequent conviction, be punished with imprisonment for a term of not less than 2 years and not more than 10 years.
+
+(4) Any person guilty of an offence under subsection (2) shall —
+
+(a) on conviction, be liable to be punished with a fine not exceeding $10,000 or with imprisonment for a term not exceeding 5 years or with both; and
+
+(b) on a second or subsequent conviction, be punished with imprisonment for a term of not less than one year and not more than 5 years.
+
+(5) In a prosecution for an offence under subsection (1), it is not necessary for the prosecution to prove, in relation to any activity mentioned in that subsection for whichBis taught, instructed or provided with information, that —
+
+(a) Bcarries out the activity afterBis so taught, instructed or provided with information; or
+
+(b) bothAandBare within Singapore at the time whenBis so taught, instructed or provided with information, as long as eitherAorBis within Singapore at that time.
+
+(6) Subsection (1) does not apply in relation toAteaching or instructingBto carry out, or providing information toBon the carrying out of, any activity mentioned in that subsection if the teaching, instructing or provision of information is authorised under this Act.
+
+(7) It is a defence to a charge under subsection (1) ifAwho teaches or instructsBto carry out, or provides information toBon the carrying out of, any activity mentioned in that subsection proves, on a balance of probabilities, that the teaching, instructing or provision of information has a legitimate purpose related to the administration of justice, the investigation and prosecution of offences, or to science, medicine, education or art.
+
+(8) Subsection (2) does not apply in relation to any dissemination or publication of information on the carrying out of any activity mentioned in subsection (1) if the dissemination or publication of information is authorised under this Act.
+
+(9) It is a defence to a charge under subsection (2) if the person who disseminates or publishes information on the carrying out of any activity mentioned in subsection (1) proves, on a balance of probabilities, that the dissemination or publication of information has a legitimate purpose related to the administration of justice, the investigation and prosecution of offences, or to science, medicine, education or art.
+
+[Act 1 of 2019 wef 01/08/2019]
+
+### Causing or procuring young person or vulnerable person to commit certain offences
+
+11E\. Any person of or above 21 years of age who causes or procures any young person or vulnerable person to commit any offence under section 5(1) or 7 shall be guilty of an offence.
+
+[Act 1 of 2019 wef 01/08/2019]
+
 ### Abetments and attempts punishable as offences
 
 12\. Any person who abets the commission of or who attempts to commit or does any act preparatory to, or in furtherance of, the commission of any offence under this Act shall be guilty of that offence and shall be liable on conviction to the punishment provided for that offence.
 
-### Causing or procuring young person or vulnerable person to commit certain offences
-
-12A\. Any person of or above the age of 21 years who causes or procures any young person or vulnerable person to commit any offence under section 5(1) or 7 shall be guilty of an offence.
-
-[Act 30 of 2012 wef 01/05/2013]
+12A\. [Repealed by Act 1 of 2019 wef 01/08/2019]
 
 ### Abetting or procuring commission of offences within or outside Singapore
 
@@ -819,6 +947,44 @@ the court may permit inquiry and require full disclosure concerning the informer
 [Act 1 of 2019 wef 01/04/2019]
 
 [Act 1 of 2019 wef 01/04/2019]
+
+### Procedure when person entitled to seized item is known, unknown or cannot be found
+
+26A\.—(1) Subject to subsections (2) to (11), if a relevant officer determines that any seized item is not required for the purposes of any investigation or proceedings for any offence under this Act, the relevant officer may return the seized item to the owner of the seized item, or any person authorised by the owner.
+
+(2) If the owner of any seized item is known, a relevant officer must notify the owner to claim the seized item, and such notification may be given —
+
+(a) by posting a notice in writing to the owner of the seized item at the owner’s usual or last known place of residence or business in Singapore; or
+
+(b) in such other manner as the relevant officer thinks expedient.
+
+(3) If the owner or the person authorised by the owner does not claim the seized item within one month after the notification is given under subsection (2), any relevant officer may cause to be sold, or otherwise dispose of, the seized item but only after giving one month’s notice in theGazetteof the relevant officer’s intention to do so.
+
+(4) Despite subsection (3), if the value of the seized item is, in the opinion of the Director, less than $500, any relevant officer may cause the seized item to be sold or disposed of at any time.
+
+(5) If the owner or the person authorised by the owner claims the seized item after it is sold under subsection (3) or (4), the owner is only entitled to the net proceeds.
+
+(6) If the owner of a seized item is unknown or cannot be found, a relevant officer must issue a public notice, specifying the seized item and requiring any person who has a claim to it to appear before the relevant officer and establish the person’s claim within 6 months after the date of the public notice.
+
+(7) Every public notice under subsection (6) must be published in theGazetteor any daily newspaper but only if, in the opinion of the Director, the value of the seized item is at least $1,000.
+
+(8) If no person establishes a claim to the seized item within one month after the publication of a public notice issued under subsection (6), and if the person in whose possession the seized item was found cannot show he had legally acquired it, then the seized item may be sold on the order of a relevant officer.
+
+(9) Despite subsection (8), if the value of the seized item is, in the opinion of the Director, less than $1,000, or if keeping the seized item involves unreasonable expense or inconvenience, a relevant officer may cause the seized item to be sold or disposed of at any time.
+
+(10) If no person has established a claim to the seized item within 6 months after the publication of the public notice mentioned in subsection (6), the ownership of the seized item or (if sold) its net proceeds is to pass and be vested in the Government absolutely.
+
+(11) If a person establishes the person’s claim to the seized item within 6 months after the publication of the public notice mentioned in subsection (6), and the seized item has already been sold by a relevant officer, that person is only entitled to the net proceeds.
+
+(12) This section applies in relation to any ship, hovercraft, aircraft, vehicle or train even though it was seized before the date of commencement of section 9 of the Misuse of Drugs (Amendment) Act 2019.
+
+(13) In this section —
+
+“relevant officer” means any Deputy Director of the Central Narcotics Bureau appointed under section 3(1) or any person authorised by the Deputy Director;
+
+“seized item” means any ship, hovercraft, aircraft, autonomous vehicle, unmanned aircraft, unmanned vessel, component of the autonomous system of an autonomous vehicle or unmanned vessel, or component of an unmanned aircraft system, vehicle or train that is seized under section 24 or 26.
+
+[Act 1 of 2019 wef 01/08/2019]
 
 ### Forfeiture of controlled drugs, controlled substances and articles seized
 
@@ -1390,45 +1556,63 @@ TREATMENT AND REHABILITATION
 
 ### Supervision, treatment and rehabilitation of drug addicts
 
-34\.—(1) The Director may require any person whom he reasonably suspects to be a drug addict to be medically examined or observed by a Government medical officer or a medical practitioner.
+34\.—(1) The Director may order any person whom the Director reasonably suspects to be a drug addict to be committed, for a period not exceeding 7 days, to any place specified by the Director for the purpose of any medical examination or observation.
 
 [38/89]
 
-(2) If, as a result of such medical examination or observation under subsection (1) or both the urine tests conducted under section 31(4)(b), it appears to the Director that it is necessary for any person examined or observed, or who supplied the urine specimen for the urine tests —
+[Act 1 of 2019 wef 01/08/2019]
 
-(a) to be subject to supervision, the Director may make a supervision order requiring that person to be subject to the supervision of an officer of the Bureau for a period not exceeding 2 years; or
+(2) If, as a result of such medical examination or observation under subsection (1) or both the urine tests conducted under section 31(4)(b) or the hair test conducted under section 31A, it appears to the Director that it is necessary for any person examined or observed, or who supplied the urine specimen for the urine tests, or who supplied the hair specimens for the hair test —
+
+(a) to be subject to supervision, the Director may make a supervision order requiring that person to be subject to the supervision of an officer of the Bureau for a period not exceeding 5 years; or
+
+[Act 1 of 2019 wef 01/08/2019]
 
 (b) to undergo treatment or rehabilitation or both at an approved institution, the Director may make an order in writing requiring that person to be admitted for that purpose to an approved institution.
 
 [38/89]
 
-(2A) If, as a result of any hair test conducted under section 31A on specimens of hair, it appears to the Director that it is necessary for any person who supplied his specimens of hair to be subject to supervision, the Director may make a supervision order requiring that person to be subject to the supervision of an officer of the Bureau for a period not exceeding 2 years.
+[Act 1 of 2019 wef 01/08/2019]
 
-[Act 30 of 2012 wef 01/05/2013]
+(2A) [Deleted by Act 1 of 2019 wef 01/08/2019]
 
-(3) Every person who is admitted to an approved institution under this section shall be detained in the institution for a period of 6 months unless he is discharged earlier by the Director or the Review Committee of the institution.
+(3) Every person who is admitted to an approved institution under this section shall be detained in the institution for a period of 12 months unless he is discharged earlier by the Director or the Review Committee of the institution.
 
 [12/77]
 
-(3A) Where a person who is admitted to an approved institution under this section is transferred from that approved institution to one or more other approved institutions or to one or more community rehabilitation centres, the combined period of his detention in all the approved institutions and community rehabilitation centres shall not be less than 6 months unless he is discharged earlier by the Director or the Review Committee of the approved institution or community rehabilitation centre.
+[Act 1 of 2019 wef 01/08/2019]
+
+(3A) Where a person who is admitted to an approved institution under this section is transferred from that approved institution to one or more other approved institutions or to one or more community rehabilitation centres, the combined period of his detention in all the approved institutions and community rehabilitation centres shall not be less than 12 months unless he is discharged earlier by the Director or the Review Committee of the approved institution or community rehabilitation centre.
 
 [Act 30 of 2012 wef 28/04/2014]
 
-(4) If the Review Committee of an approved institution or a community rehabilitation centre is of the opinion that an inmate of that institution or centre whose period of detention therein is about to expire requires further treatment or rehabilitation or both, the Committee may, by order in writing, direct that the inmate be detained in the institution or centre for a further period or periods not exceeding 6 months at any one time.
+[Act 1 of 2019 wef 01/08/2019]
+
+(4) If the Review Committee of an approved institution or a community rehabilitation centre is of the opinion that an inmate of that institution or centre whose period of detention therein is about to expire requires further treatment or rehabilitation or both, the Committee may, by order in writing, direct that the inmate be detained in the institution or centre for a further period or periods not exceeding 12 months at any one time.
 
 [Act 30 of 2012 wef 28/04/2014]
 
-(4A) The Director may, under such circumstances as may be prescribed, extend the period for which a person is subject to supervision under subsection (2)(a) or (2A) for a period not exceeding 2 years.
+[Act 1 of 2019 wef 01/08/2019]
 
-[2/2006]
+(4A) [Deleted by Act 1 of 2019 wef 01/08/2019]
 
-[Act 30 of 2012 wef 01/05/2013]
+(5) No person in respect of whom an order has been made under subsection (2)(b) shall be detained in an approved institution or institutions or a community rehabilitation centre or centres for a period of more than 4 years after his admission to any approved institution pursuant to that order.
 
-(5) No person in respect of whom an order has been made under subsection (2)(b) shall be detained in an approved institution or institutions or a community rehabilitation centre or centres for a period of more than 3 years after his admission to any approved institution pursuant to that order.
+[Act 1 of 2019 wef 01/08/2019]
 
 [Act 30 of 2012 wef 28/04/2014]
 
 [12/77; 28/79; 2/2006]
+
+### Parents or guardians to attend counselling with supervisees
+
+34A\.—(1) If the Director, on or after the date of commencement of section 19 of the Misuse of Drugs (Amendment) Act 2019, makes a supervision order under section 34(2)(a) against a supervisee who is below 21 years of age, the Director may require the parent or guardian of the supervisee to attend any counselling session (whether or not together with the supervisee) at such place and time as the Director, or any person authorised by the Director, determines.
+
+(2) Any parent or guardian of a supervisee who fails, without reasonable excuse, to comply with the requirement under subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000.
+
+(3) A court may, in lieu of imposing a fine, order a parent or guardian of a supervisee to attend any counselling session at such place and time as the Director, or any person authorised by the Director, determines.
+
+[Act 1 of 2019 wef 01/08/2019]
 
 ### Approved institutions and community rehabilitation centres
 
@@ -1998,6 +2182,18 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 
 (c) authorising the sale or possession or other dealing in controlled drugs and prescribing the circumstances and conditions under which the persons by whom controlled drugs may be sold, had in possession or otherwise dealt in;
 
+(ca) authorising the possession of any drug paraphernalia (as defined in section 11B(5)) and prescribing the circumstances and conditions under which a person may possess it;
+
+[Act 1 of 2019 wef 01/08/2019]
+
+(cb) authorising the teaching, instructing or provision of information, of any activity mentioned in section 11D(1) and prescribing the circumstances and conditions under which the teaching, instructing or provision of information may take place;
+
+[Act 1 of 2019 wef 01/08/2019]
+
+(cc) authorising the dissemination or publication of information on the carrying out of any activity mentioned in section 11D(1) and prescribing the circumstances and conditions under which the information may be disseminated or published;
+
+[Act 1 of 2019 wef 01/08/2019]
+
 (d) requiring medical practitioners, dentists, pharmacists, veterinary surgeons and other persons who deal in controlled drugs as may be authorised by the regulations to keep records and make returns;
 
 (e) requiring any medical practitioner who attends to a person whom the medical practitioner considers or has reasonable grounds to suspect is addicted to any controlled drug to furnish to the prescribed authority such particulars with respect to that person as may be prescribed;
@@ -2029,6 +2225,10 @@ and may continue to use the weapon so long as the combined outbreak or attempt i
 (p) prescribing the appointment and duties of officers of approved institutions or community rehabilitation centres;
 
 [Act 30 of 2012 wef 28/04/2014]
+
+(pa) providing for any matter in respect of a person who is committed under section 34(1), including the medical examination or observation of that person;
+
+[Act 1 of 2019 wef 01/08/2019]
 
 (q) providing for the supervision and aftercare of persons referred to in section 34(2)(a), or who have undergone treatment and rehabilitation at approved or other institutions or who have been convicted of an offence under section 8(b), 31(2) or (2A) or 31A(2) or (2A), or an offence under section 34 of the Singapore Armed Forces Act;
 
@@ -4258,7 +4458,7 @@ Minimum 12 months or $2,000 or both
 
 —
 
-12A
+11E
 
 Causing or procuring young person or vulnerable person to commit certain offences
 
@@ -4393,6 +4593,8 @@ Failure to provide oral fluid
 —
 
 Maximum 2 years or $5,000 or both
+
+[Act 1 of 2019 wef 01/08/2019]
 
 [Act 1 of 2019 wef 01/04/2019]
 
@@ -4802,6 +5004,10 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of commencement|1 April 2019|
 |62.|**G.N. No. S 354/2019—Misuse of Drugs Act (Amendment of First, Third and Fifth Schedules) Order 2019**|
 ||Date of commencement|1 May 2019|
+|63.|**Act 1 of 2019—Misuse of Drugs (Amendment) Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 51/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|15 January 2019|
+||Date of commencement|1 August 2019|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
