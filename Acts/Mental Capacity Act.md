@@ -1772,7 +1772,9 @@ General requirements as to making instruments
 
 1.—(1) An instrument is not made in accordance with this Schedule unless —
 
-(a) it is in the prescribed form;
+(a) subject to paragraph 3, it is in any of the forms provided at the prescribed website;
+
+[S 500/2019 wef 01/08/2019]
 
 (b) it complies with paragraph 2; and
 
@@ -1790,11 +1792,15 @@ Requirements as to content of instruments
 
 2.—(1) The instrument must include —
 
-(a) the prescribed information about the purpose of the instrument and the effect of a lasting power of attorney;
+(a) the information specified in any of the forms mentioned in paragraph 1(1)(a) about the purpose of the instrument and the effect of a lasting power of attorney;
+
+[S 500/2019 wef 01/08/2019]
 
 (b) a statement by the donor to the effect that he —
 
-(i) has read the prescribed information or a prescribed part of it (or has had it read to him); and
+(i) has read the information mentioned in sub‑paragraph (a) (or has had it read to him); and
+
+[S 500/2019 wef 01/08/2019]
 
 (ii) intends the authority conferred under the instrument to mean authority to make decisions on his behalf in circumstances where he no longer has capacity;
 
@@ -1802,7 +1808,9 @@ Requirements as to content of instruments
 
 (d) a statement by the donee (or, if more than one, each of them) to the effect that he —
 
-(i) has read the prescribed information or a prescribed part of it (or has had it read to him); and
+(i) has read the information mentioned in sub‑paragraph (a) (or has had it read to him); and
+
+[S 500/2019 wef 01/08/2019]
 
 (ii) understands the duties imposed on a donee of a lasting power of attorney under sections 3 (the principles) and 6 (best interests); and
 
@@ -1820,21 +1828,23 @@ Requirements as to content of instruments
 
 (4) [Deleted by S 526/2014 wef 01/09/2014]
 
-(5) A certificate under sub-paragraph (1)(e) must —
-
-(a) be made in the prescribed form; and
-
-(b) include any prescribed information.
+(5) [Deleted by S 500/2019 wef 01/08/2019]
 
 (6) The certificate may not be given by a person appointed as donee under the instrument.
 
-Failure to comply with prescribed form
+Failure to comply with form
 
-3.—(1) If an instrument differs in an immaterial respect in form or mode of expression from the prescribed form, it is to be treated by the Public Guardian as sufficient in point of form and expression.
+3.—(1) If an instrument differs in an immaterial respect in form or mode of expression from any form for an instrument provided at the prescribed website, it is to be treated by the Public Guardian as sufficient in point of form and expression.
 
-(2) The court may declare that an instrument which is not in the prescribed form is to be treated as if it were, if it is satisfied that the persons executing the instrument intended it to create a lasting power of attorney.
+[S 500/2019 wef 01/08/2019]
 
-(3) For the avoidance of doubt, an instrument shall be treated as being made in the prescribed form if it complies with the form that was prescribed at the time of its making.
+(2) The court may declare that an instrument which is not in any form for an instrument provided at the prescribed website is to be treated as if it were, if it is satisfied that the persons executing the instrument intended it to create a lasting power of attorney.
+
+[S 500/2019 wef 01/08/2019]
+
+(3) For the avoidance of doubt, an instrument shall be treated as being made in any form for an instrument provided at the prescribed website if it complies with a form that was provided at the prescribed website at the time of its making.
+
+[S 500/2019 wef 01/08/2019]
 
 Part II
 
@@ -1842,11 +1852,9 @@ Registration
 
 Applications and procedure for registration
 
-4.—(1) An application to the Public Guardian for the registration of an instrument intended to create a lasting power of attorney must —
+4.—(1) An application to the Public Guardian for the registration of an instrument intended to create a lasting power of attorney must be in the form provided at the prescribed website.
 
-(a) be made in the prescribed form; and
-
-(b) include any prescribed information.
+[S 500/2019 wef 01/08/2019]
 
 (2) The application may be made —
 
@@ -1892,9 +1900,11 @@ that the application has been received.
 
 Notification requirements
 
-8. A notice under paragraph 6 or 7 must include such information, if any, as may be prescribed.
+8. A notice under paragraph 6 or 7 must include such information, if any, as may be mentioned at the prescribed website.
 
 [S 526/2014 wef 01/09/2014]
+
+[S 500/2019 wef 01/08/2019]
 
 9. [Deleted by S 526/2014 wef 01/09/2014]
 
@@ -1982,19 +1992,29 @@ Objection by donor
 
 Registration
 
-14. Where an instrument is registered under this Schedule, the Public Guardian must give notice of the fact in the prescribed form to —
+14.—(1) The Public Guardian may register an instrument in any form and manner as the Public Guardian may determine (including in an electronic form and by electronic means).
 
-(a) the donor; and
+(2) Where the Public Guardian registers an instrument under this Schedule, the Public Guardian must give notice of such registration, in the form provided at the prescribed website, to the following persons:
+
+(a) the donor;
 
 (b) the donee or, if more than one, each of them.
 
-Evidence of registration
+[S 500/2019 wef 01/08/2019]
 
-15. A document duly certified by the Public Guardian as a copy of an instrument registered under this Schedule is prima facie evidence of —
+Evidence of registration, etc.
+
+15.—(1) The Public Guardian may, in accordance with any prescribed requirements (if prescribed), give to a person a copy of, or certify a copy of, an instrument registered by the Public Guardian under this Schedule to create a lasting power of attorney.
+
+(2) A copy of the instrument given or certified by the Public Guardian under sub‑paragraph (1) is prima facie evidence of —
 
 (a) the contents of the instrument; and
 
-(b) the fact that it has been registered.
+(b) the registration of the instrument by the Public Guardian,
+
+on the date and time specified on that copy.
+
+[S 500/2019 wef 01/08/2019]
 
 Part III
 
@@ -2022,7 +2042,9 @@ Direction by court to cancel registration
 
 (b) determines under section 17(2)(b) that the power has been revoked or has otherwise come to an end; or
 
-(c) revokes the power under section 17(4)(b).
+(c) revokes the power under section 17(4)(b) or (c).
+
+[S 500/2019 wef 01/08/2019]
 
 Circumstances for severance or cancellation
 
@@ -2044,7 +2066,7 @@ Delivery of instrument on cancellation of registration
 
 (a) the instrument;
 
-(b) any office copies of the instrument;
+(b) [Deleted by S 500/2019 wef 01/08/2019]
 
 (c) any copies of the instrument that have been certified by the Public Guardian under paragraph 15.
 
@@ -2080,15 +2102,21 @@ Severance of ineffective provisions
 
 Delivery of instrument for attachment of note
 
-23A. If the Public Guardian is required to attach a note to a registered instrument under paragraph 20, 21, 22 or 23, any person who possesses all or any of the following documents must deliver them to the Public Guardian for the note to be attached:
+23A.—(1) If the Public Guardian is required to attach a note to a registered instrument under paragraph 20, 21, 22 or 23, any person who possesses all or any of the following documents must deliver them to the Public Guardian:
 
 (a) the instrument;
 
-(b) any office copies of the instrument;
+(b) [Deleted by S 500/2019 wef 01/08/2019]
 
 (c) any copies of the instrument that have been certified by the Public Guardian under paragraph 15.
 
 [S 526/2014 wef 01/09/2014]
+
+[S 500/2019 wef 01/08/2019]
+
+(2) The Public Guardian may attach to the registered instrument, the note in any form and manner as the Public Guardian may determine (including in an electronic form and by electronic means).
+
+[S 500/2019 wef 01/08/2019]
 
 Notification of alterations
 
@@ -2097,6 +2125,34 @@ Notification of alterations
 [UK MCA 2005, Sch. 1]
 
 [Act 10 of 2016 wef 01/09/2016]
+
+Part V
+
+MISCELLANEOUS
+
+Recognition of electronic record
+
+25.—(1) To avoid doubt —
+
+(a) a registered instrument under this Schedule;
+
+(b) a copy of a registered instrument given by the Public Guardian under this Schedule;
+
+(c) a copy of a registered instrument certified by the Public Guardian under this Schedule; or
+
+(d) a note attached to a registered instrument by the Public Guardian under this Schedule,
+
+is not to be denied legal effect, validity or enforceability solely on the ground that it is in the form of an electronic record.
+
+(2) In this paragraph —
+
+“electronic” means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic or similar capabilities;
+
+“electronic record” means a record generated, communicated, received or stored by electronic means in an information system or for transmission from one information system to another;
+
+“information system” means a system for generating, sending, receiving, storing or otherwise processing electronic records.
+
+[S 500/2019 wef 01/08/2019]
 
 SECOND SCHEDULE
 
@@ -2436,3 +2492,5 @@ This Legislative History is provided for the convenience of users of the Mental 
 ||Date of First Reading|29 February 2016 (Bill No. 11/2016 published on 29 February 2016)|
 ||Date of Second and Third Readings|14 March 2016|
 ||Date of commencement|1 September 2018|
+|14.|**G.N. No. S 500/2019—Mental Capacity Act (Amendment of First Schedule) Order 2019**|
+||Date of commencement|1 August 2019|
