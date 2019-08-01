@@ -2592,7 +2592,25 @@ Arranging or planning gatherings where controlled drugs are to be consumed or tr
 
 52.
 
-Section 12A
+Section 11C
+
+Introducing drug trafficker to another person
+
+52A.
+
+Section 11D(1)
+
+Instructing person to cultivate cannabis, etc., or to manufacture or consume controlled drugs, etc.
+
+52B.
+
+Section 11D(2)
+
+Disseminating or publishing information on the cultivation of cannabis, etc., or the manufacture or consumption of controlled drugs, etc.
+
+52C.
+
+Section 11E
 
 Causing or procuring young person or vulnerable person to commit certain offences
 
@@ -3198,11 +3216,13 @@ Section 148
 
 Keeping, managing or assisting in management of brothels
 
+[S 526/2019 wef 01/08/2019]
+
 [Act 9 of 2018 wef 31/08/2018]
 
 [S 423/2017 wef 31/07/2017]
 
-var printViewUrl = 'https://sso.agc.gov.sg/Act/OCA2015/Historical/20180831?DocDate=20190731&ValidDate=20180831'; var printViewFilter = {"DocType":"Act","DocNo":"OCA2015","QueryDate1":"20180831","DocStatus":"Historical","ValidDate":"20180831","ValidDt":null,"TransactionDate":null,"DocDate":"20190731","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'yty/qpOYVu657ot0qmG2YsFj9HxuAzSazVUAl5wtOr6oX0Cq4QFLtchiUUYqDX9cg/2gW3CfUHugVXzzfwM6YOMYQeHmzqgXJyKX/OqYNm8w/8Sqn7XPB2aa1r+bVTtXZ/iQ4K4idWKFiOlXfKmJPcS0rh9VoJyqtKDVyT5Ex/aRrp2UFW4Elq2nu8ZbZfFRt1Yxre216P+LgxBX4hR4OQ==';
+var printViewUrl = 'https://sso.agc.gov.sg/Act/OCA2015/Historical/20190801?DocDate=20191227&ValidDate=20190801'; var printViewFilter = {"DocType":"Act","DocNo":"OCA2015","QueryDate1":"20190801","DocStatus":"Historical","ValidDate":"20190801","ValidDt":null,"TransactionDate":null,"DocDate":"20191227","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'yty/qpOYVu657ot0qmG2YoyIU2kutQaII8eLgHHv20Fkuqaam3YtQuqEx3pMbaGBgaMXLbQtislH3HHe6j2LJ6gZtQKB8y1BTnRgzQ6OERiXbUz6YhxsUBr4ovwkDftUl0Mx8Qwbifu21SiaV21Q5l0+r1ExEQNSin/QHIUNscnHn1ps0Kl9cnIOnCvOcTtALTue/AvWtGKPKVO5oKMm6Q==';
 
 $(function () { initPrintView(); });
 
