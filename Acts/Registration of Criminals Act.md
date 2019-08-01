@@ -1336,7 +1336,7 @@ Misuse of Drugs Act [Cap. 185]
 
 ...
 
-Part II, sections 31(2), 33(3) and 33A.
+Part II, sections 31(2) and (2A) and 31A(2) and (2A), sections 8(b) and 31(2) punishable under section 33(4) or (4AA) or 33A(1), (1B) or (2), section 31A(2) punishable under section 33(4AB) or 33A(1A), (1B) or (2), sections 5(1) and 7 punishable under section 33(4A) or (4B), and section 11A punishable under section 33(4C).
 
 Moneylenders Act 2008
 
@@ -1491,6 +1491,8 @@ Women’s Charter [Cap. 353]
 ...
 
 Sections 35 to 40 and the whole of Part X.
+
+[S 528/2019 wef 01/08/2019]
 
 [Act 9 of 2018 wef 31/08/2018]
 
@@ -2106,3 +2108,5 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
 ||Date of Second and Third Readings|6 February 2018|
 ||Date of commencement|1 January 2019|
+|44.|**G.N. No. S 528/2019—Registration of Criminals Act (Amendment of First Schedule) Order 2019**|
+||Date of commencement|1 August 2019|
