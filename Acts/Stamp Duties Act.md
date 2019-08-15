@@ -5448,59 +5448,57 @@ The mortgagor or obligor
 
 FOURTH SCHEDULE
 
-Section 37(1)
+Section 37(1B)
 
 Adjudication fees
 
-Subject-matter of Instrument
+Subject matter of instrument
 
 Fee
 
 1.
 
-A transfer of the undertaking or shares in respect of a scheme for reconstruction of company or companies, an amalgamation of companies, or a transfer, conveyance or assignment of beneficial interest in assets between associated entities, under section 15
+Any of the following subject matter under section 15:
 
-$200, irrespective of whether the instrument qualifies for relief under section 15
+$390, irrespective of whether the instrument qualifies for relief under section 15
 
-1A.
+(a)
 
-A conversion of a firm or private company to a limited liability partnership under section 15
+a transfer of the undertaking or shares in respect of a scheme for reconstruction of a company or companies, or an amalgamation of companies;
 
-$200, irrespective of whether the instrument qualifies for relief under section 15
+(b)
 
-1B.
+a transfer, conveyance or assignment of beneficial interest in assets between associated entities;
 
-An acquisition of ordinary shares in a company under section 15A
+(c)
 
-$200, irrespective of whether the instrument qualifies for relief under section 15A
+a conversion of a firm or private company to a limited liability partnership
 
 2.
 
-Any immovable property that is sold under Part IV of the Housing and Development Act (Cap. 129)
+An acquisition of ordinary shares in a target company under section 15A
 
-$40
+$390, irrespective of whether the instrument qualifies for relief under section 15A
 
 3.
 
-Any other immovable property
+A conveyance of equity interest in a property‑holding entity under section 23, or a transaction or an arrangement described in section 23B or 23C
 
-$120
+$390, irrespective of whether the instrument is chargeable with ad valorem duty under section 23
 
 4.
 
+Any transaction in respect of any immovable property
+
+$210, irrespective of whether the instrument is chargeable with duty
+
+5.
+
 All other transactions
 
-$120.
+$210, irrespective of whether the instrument is chargeable with duty
 
-[S 304/2016 wef 01/07/2016]
-
-[S 776/2013 wef 23/12/2013]
-
-[S 134/2012 wef 01/04/2012]
-
-[23/2011 wef 01/01/2012]
-
-[33/99; 32/2000]
+[S 555/2019 wef 15/08/2019]
 
 FIFTH SCHEDULE
 
@@ -5516,7 +5514,7 @@ Fee
 
 Any immovable property —
 
-$94
+$100
 
 (a)
 
@@ -5530,13 +5528,13 @@ falling under Part IVB of the Housing and Development Act and treated as sold un
 
 Any strata unit comprised in a strata title plan registered under the Land Titles (Strata) Act (Cap. 158)
 
-$287
+$300
 
 3.
 
 Any of the following immovable property not falling under item 1 or 2:
 
-$1,020
+$1,070
 
 (a)
 
@@ -5558,7 +5556,7 @@ warehouse
 
 Any —
 
-$2,179
+$2,290
 
 (a)
 
@@ -5574,7 +5572,7 @@ where the Chief Valuer determines the value of such immovable property or vacant
 
 Any —
 
-$5,005
+$5,255
 
 (a)
 
@@ -5585,6 +5583,8 @@ immovable property not falling under item 1, 2 or 3; or
 vacant land,
 
 where the Chief Valuer determines the value of such immovable property or vacant land to be more than $20 million
+
+[S 555/2019 wef 15/08/2019]
 
 Note:
 
@@ -6038,6 +6038,8 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of First Reading|6 August 2018 (Bill No. 30/2018 published on 6 August 2018)|
 ||Date of Second and Third Readings|10 September 2018|
 ||Date of commencement|4 October 2018|
+|76.|**G.N. No. S 555/2019—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2019**|
+||Date of commencement|15 August 2019|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
