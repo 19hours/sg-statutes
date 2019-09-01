@@ -348,7 +348,9 @@ PRELIMINARY
 
 (f) the use of any existing building or land within the curtilage of a dwelling-house for any purpose incidental to the enjoyment of the dwelling-house as such;
 
-(g) the use of any land for the purposes of agriculture or forestry (including afforestation) and the use for any of those purposes of any building occupied together with land so used;
+(g) the use of any land for the purposes of forestry (including afforestation) and the use for any of those purposes of any building occupied together with land so used;
+
+[Act 11 of 2019 wef 01/09/2019]
 
 (h) in the case of buildings or land which are used for a purpose of any class specified in any rules made under section 61, the use of the building or land or any part thereof for any other purpose within the same class.
 
@@ -2128,112 +2130,55 @@ This Legislative History is provided for the convenience of users of the Plannin
 
 ||||
 |:-|:-|:-|
-|1.|**Ordinance 12 of 1959—Planning Ordinance 1959**|
-||Date of First, Second and Third Readings|Dates not available.|
-||Date of commencement|1 February 1960|
-|2.|**Ordinance 8 of 1961—Education and Improvement Rates (Abolition) Ordinance 1961**|
-||Dates of First, Second and Third Readings|Dates not available|
-||Date of commencement|1 January 1961|
-|3.|**Ordinance 12 of 1963—Planning (Amendment) Ordinance 1963**|
-||Dates of First, Second and Third Readings|Dates not available|
-||Date of commencement|1 September 1963|
-|4.|**Ordinance 5 of 1964—Planning (Amendment) Ordinance 1964**|
-||Dates of First, Second and Third Readings|Dates not available|
-||Date of commencement|27 November 1964|
-|5.|**1966 Reprint—Planning Ordinance 1959**|
-||Date of operation|2 November 1966|
-|6.|**1970 Revised Edition—Planning Act (Chapter 279)**|
-||Date of operation|31 August 1971|
-|7.|**Act 27 of 1974—Cancellation of Planning Permission Act, 1974**|
-||Date of First Reading|28 August 1974|
-|||(Bill No. 17/1974 published on 2 September 1974)|
-||Date of Second and Third Readings|23 October 1974|
-||Date of commencement|11 September 1973|
-|8.|**G. N. No. S 5/1974—Metrication (Planning Act) Order 1974**|
-||Date of commencement|11 January 1974|
-|9.|**Act 30 of 1975—Planning (Amendment) Act 1975**|
-||Date of First Reading|29 July 1975|
-|||(Bill No. 44/1975 published on 1 August 1975)|
-||Date of Second and Third Readings|19 August 1975|
-||Date of commencement|19 September 1975|
-|10.|**Act 4 of 1976—Land Titles (Strata) (Amendment) Act 1976**|
-||Date of First Reading|29 July 1975|
-|||(Bill No. 32/1975 published on 1 August 1975)|
-||Date of Second and Third Readings|1 March 1976|
-||Date of commencement|15 April 1976|
-|11.|**Act 31 of 1979—Planning (Amendment) Act 1979**|
-||Date of First Reading|21 September 1979|
-|||(Bill No. 33/1979 published on 25 September 1979)|
-||Date of Second and Third Readings|11 December 1979|
-||Date of commencement|1 February 1980|
-|12.|**Act 9 of 1982—Planning (Amendment) Act 1982**|
-||Date of First Reading|22 December 1981|
-|||(Bill No. 35/1981 published on 30 December 1981)|
-||Date of Second and Third Readings|3 March 1982|
-||Date of commencement|24 April 1982|
-|13.|**1985 Revised Edition—Planning Act (Chapter 232)**|
-||Date of operation|30 March 1987|
-|14.|**Act 12 of 1989—Planning (Amendment) Act 1989**|
-||Date of First Reading|19 January 1989|
-|||(Bill No. 14/1989 published on 19 January 1989)|
-||Date of Second and Third Readings|17 February 1989|
-||Date of commencement|31 March 1989|
-|15.|**Act 31 of 1989—Planning (Amendment No. 2) Act 1989**|
-||Date of First Reading|11 July 1989|
-|||(Bill No. 34/1989 published on 12 July 1989)|
-||Date of Second and Third Readings|4 August 1989|
-||Date of commencement|1 September 1989|
-|16.|**1990 Revised Edition—Planning Act**|
-||Date of operation|15 March 1990|
-|17.|**Act 7 of 1997—Statutes (Miscellaneous Amendment) Act 1997**|
-||Date of First Reading|11 July 1997|
-|||(Bill No. 6/1997 published on 12 July 1997)|
-||Date of Second and Third Readings|25 August 1997|
-||Date of commencement|1 October 1997|
-|18.|**Act 3 of 1998—Planning Act 1998**|
+|1.|**Act 3 of 1998—Planning Act 1998**|
 ||Date of First Reading|19 November 1997|
 |||(Bill No. 18/97 published on 20 November 1997)|
 ||Date of Second and Third Readings|14 January 1998|
 ||Date of commencement|1 April 1998|
-|19.|**1998 Revised Edition—Planning Act**|
+|2.|**1998 Revised Edition—Planning Act**|
 ||Date of operation|15 December 1998|
-|20.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
+|3.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 27/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Dates of commencement|24th December 1998 (section 6)|
-|21.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
+|4.|**Act 17 of 2001—Singapore Land Authority Act 2001**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 March 2001|
 |||(Bill No. 17/2001 published on 6 March 2001)|
 ||Date of Second and Third Readings|19 April 2001|
 ||Date of commencement|1 June 2001|
-|22.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
+|5.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 27/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Date of commencement|10th December 2003|
-|23.|**G. N. No. S 657/2004—Planning Act (Amendment of Second Schedule) Order 2004**|
+|6.|**G. N. No. S 657/2004—Planning Act (Amendment of Second Schedule) Order 2004**|
 ||Date of commencement|28 October 2004|
-|24.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+|7.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
 ||Date of First Reading|18 April 2005|
 |||(Bill No. 7/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
-|25.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
+|8.|**Act 30 of 2003—Planning (Amendment) Act 2003**|
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 27/2003 published on 17 October 2003)|
 ||Date of Second and Third Readings|11 November 2003|
 ||Dates of commencement|1st January 2008 (section 12)|
-|26.|**Act 16 of 2009—Preservation of Monuments Act 2009**|
+|9.|**Act 16 of 2009—Preservation of Monuments Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|23 March 2009|
 |||(Bill No. 9/2009 published on 24 March 2009)|
 ||Date of Second and Third Readings|13 April 2009|
 ||Date of commencement|1 July 2009|
-|27.|**Act 7 of 2017—Planning (Amendment) Act 2017**|
+|10.|**Act 7 of 2017—Planning (Amendment) Act 2017**|
 ||Date of First Reading|9 January 2017 (Bill No. 3/2017 published on 9 January 2017)|
 ||Date of Second and Third Readings|6 February 2017|
 ||Date of commencement|15 May 2017|
-|28.|**G.N. No. S 339/2017—Planning Act (Amendment of Fourth Schedule) Order 2017**|
+|11.|**G.N. No. S 339/2017—Planning Act (Amendment of Fourth Schedule) Order 2017**|
 ||Date of commencement|30 June 2017|
+|12.|**Act 11 of 2019—Singapore Food Agency Act 2019**|
+||Date of First Reading|15 January 2019|
+|||(Bill No. 5/2019)|
+||Date of Second and Third Readings|12 February 2019|
+||Date of commencement|1 September 2019|
