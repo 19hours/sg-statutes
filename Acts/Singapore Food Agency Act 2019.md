@@ -234,6 +234,8 @@ Date of Commencement: 2 April 2019 Section 55
 
 Date of Commencement: 1 June 2019 Section 56
 
+Date of Commencement: 1 September 2019 Section 63
+
 An Act to establish the Singapore Food Agency, to repeal the Agri‑Food and Veterinary Authority Act (Chapter 5 of the 2012 Revised Edition) and the Cattle Act (Chapter 34 of the 2002 Revised Edition), and to make consequential and related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -2048,11 +2050,7 @@ Planning Act
 
 ### Amendment to Planning Act
 
-63\. Section 3(2) of the Planning Act (Cap. 232, 1998 Ed.) is amended by deleting the words “agriculture or” in paragraph (
-
-g
-
-).
+63\. Section 3(2) of the Planning Act (Cap. 232, 1998 Ed.) is amended by deleting the words “agriculture or” in paragraph (g).
 
 Division 9 —
 
