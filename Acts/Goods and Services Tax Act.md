@@ -6306,6 +6306,10 @@ Investment Precious Metals
 
 (i) America Buffalo coin;
 
+(ia) Australia Dragon Rectangular coin;
+
+[S 575/2019 wef 01/09/2019]
+
 (ii) Australia Kangaroo Nugget coin;
 
 (iii) Australia Lunar coin;
@@ -6342,6 +6346,10 @@ Investment Precious Metals
 
 [S 396/2016 wef 01/09/2016]
 
+(xia) United Kingdom Royal Arms coin;
+
+[S 575/2019 wef 01/09/2019]
+
 (xii) United Kingdom The Queen’s Beasts series coin;
 
 [S 396/2016 wef 01/09/2016]
@@ -6356,9 +6364,13 @@ Investment Precious Metals
 
 [S 396/2016 wef 01/09/2016]
 
-(iaa) Australia Funnel‑Web Spider coin;
+(iaa) Australia Dragon Rectangular coin;
 
-[S 312/2018 wef 23/05/2018]
+[S 575/2019 wef 01/09/2019]
+
+(iab) Australia Funnel-Web Spider coin;
+
+[S 575/2019 wef 01/09/2019]
 
 (ib) Australia Kangaroo coin;
 
@@ -6418,6 +6430,10 @@ Investment Precious Metals
 
 [S 396/2016 wef 01/09/2016]
 
+(xa) United Kingdom Royal Arms coin;
+
+[S 575/2019 wef 01/09/2019]
+
 (xi) United Kingdom The Queen’s Beasts series coin;
 
 [S 396/2016 wef 01/09/2016]
@@ -6428,7 +6444,15 @@ Investment Precious Metals
 
 (i) America Eagle coin;
 
+(ia) Australia Kangaroo coin;
+
+[S 575/2019 wef 01/09/2019]
+
 (ii) Australia Koala coin;
+
+(iia) Australia Lunar coin;
+
+[S 575/2019 wef 01/09/2019]
 
 (iii) Australia Platypus coin;
 
@@ -7551,6 +7575,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|17 January 2019|
 |61.|**G.N. No. S 289/2019—Goods and Services Tax Act (Amendment of Fifth Schedule) Order 2019**|
 ||Date of commencement|1 May 2019|
+|62.|**G.N. No. S 575/2019—Goods and Services Tax Act (Amendment of Fourth Schedule) (No. 2) Order 2019**|
+||Date of commencement|1 September 2019|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
