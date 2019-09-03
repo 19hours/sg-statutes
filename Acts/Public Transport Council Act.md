@@ -2398,73 +2398,83 @@ Section 24AB(1) and (2)
 
 Fare adjustment formula
 
-0.5 cCPI + 0.4 WI + 0.1 EI + NCF – 0.1%
+1. The fare adjustment formula is 0.5 cCPI + 0.4 WI + 0.1 EI + NCF – 0.1%, where —
 
-where cCPI
+(a) cCPI is the change in Core Consumer Price Index between year 2018 and its previous year;
 
-is the change in Core Consumer Price Index between year 2017 and its previous year;
+(b) WI is the change in National Average Monthly Earnings between year 2018 and its previous year, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act (Cap. 36);
 
-WI
+(c) EI is the change in Energy Index for electricity and fuel between year 2018 and its previous year; and
 
-is the change in National Average Monthly Earnings between year 2017 and its previous year, adjusted to account for any change in the employer’s Central Provident Fund contribution rate as specified in the Central Provident Fund Act (Cap. 36);
+(d) NCF is the change in Network Capacity Factor between year 2018 and its previous year.
 
-EI
+2. In paragraph 1(d), the Network Capacity Factor is ascertained by the formula
 
-is the change in Energy Index for electricity and fuel between year 2017 and its previous year; and
+where —
 
-NCF
+(a) A
 
-is the change in Network Capacity Factor between year 2017 and its previous year, where the Network Capacity Factor is ascertained by the formula:
+1
 
-where A
+is the sum of the following quantum in respect of every part of the rapid transit system that was open for travel by passengers on a train before 1 June 2017:
 
-is the sum of the following quantum in respect of every part of the rapid transit system that, before 1 July 2016, was open for travel by passengers on a train:
+(i) the quantum that is the product of —
 
-(a)
+(A) the total distance travelled during a year on every such part of the rapid transit system by a train that carried passengers as part of a train service; and
 
-the quantum that is the product of —
+(B) the passenger capacity of the train;
 
-(i)
+(ii) the quantum worked out in accordance with sub‑paragraph (i) for the same year in respect of every other train that carried passengers as part of a train service on every such part of the rapid transit system;
 
-the total distance travelled during a year on every such part of the rapid transit system by a train that carried passengers as part of a train service; and
+(b) A
 
-(ii)
+2
 
-the passenger capacity of the train;
+is the sum of the following quantum in respect of every part of the rapid transit system that was open for travel by passengers on a train on or after 1 June 2017:
 
-(b)
+(i) the quantum that is the product of —
 
-the quantum worked out in accordance with paragraph (a) for the same year in respect of every other train that carried passengers as part of a train service on every such part of the rapid transit system;
+(A) the total distance travelled, during the period starting on the first day of the 18th month after the month in which the part of the rapid transit system was open for travel, on every such part of the rapid transit system by a train that carried passengers as part of a train service; and
 
-B
+(B) the passenger capacity of the train;
 
-is the total distance travelled during a year on every part of the rapid transit system specified in A by every passenger on every train that was part of a train service;
+(ii) the quantum worked out in accordance with sub‑paragraph (i) for the same period in respect of every other train that carried passengers as part of a train service on every such part of the rapid transit system;
 
-C
+(c) B
 
-is the sum of the following quantum:
+1
 
-(a)
+is the total distance travelled during a year on every part of the rapid transit system specified in A
 
-the quantum that is the product of —
+1
 
-(i)
+by every passenger on every train that was part of a train service;
 
-the total distance travelled during a year by a bus that carried passengers as part of a bus service; and
+(d) B
 
-(ii)
+2
 
-the passenger capacity of the bus;
+is the total distance travelled during the period on every part of the rapid transit system specified in A
 
-(b)
+2
 
-the quantum worked out in accordance with paragraph (a) for the same year in respect of every other bus that carried passengers as part of a bus service; and
+by every passenger on every train that was part of a train service;
 
-D
+(e) C is the sum of the following quantum:
 
-is the total distance travelled during a year by every passenger on every bus that carried passengers as part of a bus service.
+(i) the quantum that is the product of —
 
-[S 509/2018 wef 30/08/2018]
+(A) the total distance travelled during a year by a bus that carried passengers as part of a bus service; and
+
+(B) the passenger capacity of the bus;
+
+(ii) the quantum worked out in accordance with sub‑paragraph (i) for the same year in respect of every other bus that carried passengers as part of a bus service; and
+
+(f) D is the total distance travelled during a year by every passenger on every bus that carried passengers as part of a bus service.
+
+3\. The reference to a bus in paragraph 2(e) does not include any bus designated by the LTA for the purpose of its programme to provide backup capacity to support the rail network on or after 1 January 2018.
+
+[S 609/2019 wef 03/09/2019]
 
 ## LEGISLATIVE HISTORY
 
@@ -2573,6 +2583,8 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of commencement|1 April 2018|
 |28.|**G.N. No. S 509/2018—Public Transport Council Act (Amendment of Third Schedule) Order 2018**|
 ||Date of commencement|30 August 2018|
+|29.|**G.N. No. S 609/2019—Public Transport Council Act (Amendment of Third Schedule) Order 2019**|
+||Date of commencement|3 September 2019|
 ## COMPARATIVE TABLE
 
 Public Transport Council Act
