@@ -614,11 +614,13 @@ Manpower Research and Statistics Department of the Ministry of Manpower.
 
 7. 
 
-Data Analytics Group of the Monetary Authority of Singapore.
+Statistics Unit of the Monetary Authority of Singapore.
 
 [S 153/2015 wef 27/03/2015]
 
 [S 80/2017 wef 15/03/2017]
+
+[S 669/2019 wef 01/10/2019]
 
 8. 
 
@@ -752,6 +754,8 @@ This Legislative History is provided for the convenience of users of the Statist
 ||Date of commencement|15 March 2017|
 |29.|**G.N. No. S 203/2018—Statistics Act (Amendment of Second Schedule) Order 2018**|
 ||Date of commencement|1 April 2018|
+|30.|**G.N. No. S 669/2019—Statistics Act (Amendment of Second Schedule) Order 2019**|
+||Date of commencement|1 October 2019|
 ## COMPARATIVE TABLE
 
 Statistics Act
