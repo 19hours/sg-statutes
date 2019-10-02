@@ -2337,7 +2337,13 @@ Cases that are appealable only with leave
 
 (ii) the hearing of any appeal or special case from the Tribunal for the Maintenance of Parents, being an appeal or a special case commenced in the High Court before 1 October 2014;
 
-(iii) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before 1 January 2015.
+(iii) the hearing of any appeal from any contentious probate proceedings commenced in a District Court, being an appeal commenced in the High Court before 1 January 2015;
+
+[S 666/2019 wef 02/10/2019]
+
+(j) where a Judge at the hearing of an appeal under section 17, 29, 35 or 44 of the Protection from Online Falsehoods and Manipulation Act 2019 (Act 18 of 2019) refuses to set aside the Part 3 Direction, Part 4 Direction, Declaration or Account Restriction Direction (as the case may be) against which the appeal was brought.
+
+[S 666/2019 wef 02/10/2019]
 
 2\. An appeal may be brought to the Court of Appeal only with the leave of a Judge of the Family Division of the High Court, or of the Court of Appeal, from any decision, judgment or order of the Family Division of the High Court involving the exercise of the appellate civil jurisdiction mentioned in section 23 of the Family Justice Act 2014 (Act 27 of 2014).
 
@@ -2626,6 +2632,8 @@ This Legislative History is provided for the convenience of users of the Supreme
 ||Date of First Reading|10 September 2018 (Bill No. 33/2018 published on 10 September 2018)|
 ||Date of Second and Third Readings|20 October 2018|
 ||Date of commencement|1 January 2019|
+|41.|**G.N. No. S 666/2019—Supreme Court of Judicature Act (Amendment of Fifth Schedule) Order 2019**|
+||Date of commencement|2 October 2019|
 ## COMPARATIVE TABLE
 
 Supreme Court of Judicature Act
