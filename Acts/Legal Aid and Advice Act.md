@@ -62,13 +62,13 @@
 
 - [23 Regulations](#Regulations)
 
-- [24 Amendment of Second Schedule](#Amendment-of-Second-Schedule)
+- [24 (Repealed)](#Repealed)
 
 - [25 (Repealed)](#Repealed)
 
 [**FIRST SCHEDULE Civil proceedings for which legal aid may be given**](#FIRST-SCHEDULE-Civil-proceedings-for-which-legal-aid-may-be-given)
 
-[**SECOND SCHEDULE Requirements relating to means of an applicant for legal aid**](#SECOND-SCHEDULE-Requirements-relating-to-means-of-an-applicant-for-legal-aid)
+[**SECOND SCHEDULE Repealed**](#SECOND-SCHEDULE-Repealed)
 
 [**Legislative History**](#Legislative-History)
 
@@ -110,7 +110,9 @@ PRELIMINARY
 
 “goods and services tax” means the goods and services tax levied under the Goods and Services Tax Act (Cap. 117A);
 
-“Grant of Aid” means the document issued by the Director under section 8(2) stating that legal aid is granted to a person;
+“Grant of Aid” means a document issued under section 8 stating that legal aid is granted to a person (whether on a provisional basis or otherwise);
+
+[Act 50 of 2018 wef 16/10/2019]
 
 “guardian”, in relation to a minor, includes any person whom the Director considers might properly be appointed to be the litigation representative of the minor;
 
@@ -254,13 +256,17 @@ LEGAL AID IN CIVIL ACTIONS
 
 (3) Where any application is made on behalf of a minor then —
 
-(a) a reference in section 7 or 8(2)(a) to the applicant shall be construed as a reference to the guardian and the minor jointly or to either of them severally; and
+(a) a reference in section 7 or 8(1)(b) or (2)(c) to the applicant shall be construed as a reference to the guardian and the minor jointly or to either of them severally; and
 
-(b) a reference in section 8(2)(b) or in the Second Schedule to the applicant shall, in any case where the minor is unmarried and the guardian is a relative of the minor, be construed as a reference to both the guardian and the minor and in every other case shall be construed as a reference to the minor only.
+[Act 50 of 2018 wef 16/10/2019]
+
+(b) a reference in section 8(1)(a) or (2)(b) to the applicant shall, in any case where the minor is unmarried and the guardian is a relative of the minor, be construed as a reference to both the guardian and the minor and in every other case shall be construed as a reference to the minor only.
 
 [6/2013]
 
 [Act 50 of 2018 wef 31/05/2019]
+
+[Act 50 of 2018 wef 16/10/2019]
 
 (4) In subsection (3), “relative” means —
 
@@ -306,27 +312,57 @@ the aided person must give to the Director, within the prescribed time after the
 
 ### Grant of Aid
 
-8\.—(1) Before approving an application for legal aid, the Director shall refer the application to a board (referred to in this section as the board) consisting of the Director and not fewer than 2 solicitors whose names are on the appropriate panel maintained under section 4.
+8\.—(1) The Director may approve an application for legal aid, and issue a Grant of Aid to an applicant in connection with any proceedings, if —
 
-[6/2013]
+(a) the Director is of the opinion that the applicant satisfies the prescribed means criteria; and
 
-(2) The Director may issue a Grant of Aid to an applicant stating that the applicant is granted legal aid under the provisions of this Act in connection with any proceedings where —
+(b) either of the following applies:
 
-(a) the board is of the opinion that the applicant has reasonable grounds for taking, defending, continuing or being a party to the proceedings; and
+(i) in any case where those proceedings are prescribed proceedings or belong to a prescribed class of proceedings — the Director is of the opinion that the applicant has reasonable grounds for taking, defending, continuing or being a party to those proceedings;
 
-(b) the Director is satisfied —
+(ii) in any other case — a board (consisting of the Director and not fewer than 2 solicitors on an appropriate panel of solicitors maintained under section 4) is of the opinion that the applicant has reasonable grounds for taking, defending, continuing or being a party to those proceedings.
 
-(i) that the applicant is not possessed of or entitled to disposable capital of a total value exceeding the amount set out in the Second Schedule; and
+[Act 50 of 2018 wef 16/10/2019]
 
-(ii) that the disposable income of the applicant does not exceed the amount set out in the Second Schedule.
+(2) Pending the determination of an application under subsection (1), the Director may despite that subsection approve an application for legal aid, and issue a Grant of Aid on a provisional basis to an applicant in connection with any proceedings, if the Director is of the opinion that the applicant —
 
-[6/2013]
+(a) requires legal aid as a matter of urgency;
+
+(b) is likely to satisfy the prescribed means criteria; and
+
+(c) is likely to have reasonable grounds for taking, defending, continuing or being a party to those proceedings.
+
+[Act 50 of 2018 wef 16/10/2019]
 
 (3) The Director may refuse legal aid if it appears to him unreasonable that the applicant should receive it in the particular circumstances of the case.
 
-(4) Notwithstanding any provision of this Act or any regulations made thereunder to the contrary, the Minister may authorise the Director to issue a Grant of Aid to any person in any proceedings where the Minister is of the opinion that it is in the public interest that legal aid be granted to the person.
+(4) Despite any provision of this Act (including any regulations made under this Act), the Minister may —
 
-[6/2013]
+(a) authorise the Director to issue a Grant of Aid to any person in connection with any proceedings, if the Minister is of the opinion that it is in the public interest that legal aid be granted to the person in that connection; and
+
+(b) direct the Director to approve an application for legal aid, and issue a Grant of Aid under subsection (1) or (2) to an applicant, even though the Director is of the opinion that the applicant does not satisfy, or is not likely to satisfy, the prescribed means criteria, if the Minister is of the opinion that it is just and proper that legal aid be granted to the applicant.
+
+[Act 50 of 2018 wef 16/10/2019]
+
+(5) For the purposes of subsection (4)(b), the Minister may authorise any person (including a panel of persons), with such qualifications and experience as the Minister considers appropriate in relation to assessing the financial circumstances of an applicant, to exercise the power under that subsection.
+
+[Act 50 of 2018 wef 16/10/2019]
+
+(6) An authorisation under subsection (5) —
+
+(a) may be subject to such conditions and restrictions as the Minister may specify in writing; and
+
+(b) does not prevent the Minister from exercising the power under subsection (4)(b).
+
+[Act 50 of 2018 wef 16/10/2019]
+
+(7) Once an authorisation is made under subsection (5), the Minister must —
+
+(a) cause a copy of the authorisation to be given to the authorised person; and
+
+(b) without delay cause to be published a notice of the making and giving of the authorisation in theGazette.
+
+[Act 50 of 2018 wef 16/10/2019]
 
 9\. [Repealed by Act 50 of 2018 wef 31/05/2019]
 
@@ -730,11 +766,19 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 (e) make any provision necessary to meet the special circumstances where —
 
-(i) a person seeks legal aid in a matter of special urgency;
+(i) a person is issued a Grant of Aid on a provisional basis;
+
+[Act 50 of 2018 wef 16/10/2019]
 
 (ii) a person begins to receive legal aid after having consulted a solicitor in the ordinary way with respect to the same matter, or ceases to receive legal aid before the matter in question is finally settled; and
 
-(iii) there is any relevant change of circumstances while a person is receiving legal aid; and
+(iii) there is any relevant change of circumstances while a person is receiving legal aid;
+
+[Act 50 of 2018 wef 16/10/2019]
+
+(ea) provide for the period when a Grant of Aid issued on a provisional basis is in force, and for matters relating to the lapse or extension of such Grant of Aid; and
+
+[Act 50 of 2018 wef 16/10/2019]
 
 (f) provide for any forms to be used under this Act.
 
@@ -756,9 +800,7 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 (5) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
 
-### Amendment of Second Schedule
-
-24\. The Minister may, by notification in theGazette, amend the Second Schedule.
+24\. [Repealed by Act 50 of 2018 wef 16/10/2019]
 
 25\. [Repealed by Act 16 of 2016 wef 10/06/2016]
 
@@ -825,119 +867,7 @@ GENERALLY NOT GIVEN
 
 SECOND SCHEDULE
 
-Sections 6(3), 8(2), 20(2) and 24
-
-Requirements relating to means of an applicant for legal aid
-
-1. For the purposes of section 8(2) of the Act —
-
-(a) the amount of disposable capital is $10,000; and
-
-(b) the amount of disposable income is $10,000 per annum.
-
-2\. [Deleted by Act 6 of 2013]
-
-3\. [Deleted by Act 6 of 2013]
-
-4. For the purposes of the Act —
-
-“disposable capital” means the property which an applicant for legal aid is possessed of or to which he is entitled to excluding —
-
-(a) the subject-matter of the proceedings;
-
-(b) the wearing apparel of the applicant;
-
-(c) the tools of trade of the applicant;
-
-(d) household furniture used by the applicant in his house;
-
-(e) a dwelling-house owned and exclusively used by the applicant and his family as their home assessed at an annual value of not more than $13,000 or a Housing and Development Board flat owned and exclusively used by the applicant and his family as their home;
-
-(f) savings of the applicant of up to $30,000, if he is of the age of 60 years and above;
-
-(g) moneys standing to the credit of the applicant’s account in the Central Provident Fund, including such moneys in the Central Provident Fund withdrawn for investments in accordance with the Central Provident Fund Act (Cap. 36) and the Central Provident Fund (Investment Schemes) Regulations (Cap. 36, Rg 9); and
-
-(h) the total surrender value of one or more life policies held by the applicant up to the amount of $46,000;
-
-“disposable income” means the income of the applicant together with the income (if any) of the applicant’s spouse during the period of 12 months immediately preceding the date of the application, after deducting —
-
-(a) an amount equal to $6,000 for the applicant;
-
-(b) an amount equal to $6,000 from the income of the applicant’s spouse, if such income is not disregarded under paragraph 5;
-
-(c) an amount equal to the total sum contributed by the applicant and his spouse during that period towards the maintenance of each person partially or totally dependent on the applicant or the spouse, subject to a cap of $6,000;
-
-(d) an amount not exceeding $20,000 for rent;
-
-(e) an amount equal to the applicant’s contributions to the Central Provident Fund during that period; and
-
-(f) an amount equal to the contributions of the applicant’s spouse to the Central Provident Fund during that period, if the spouse’s income is not disregarded under paragraph 5;
-
-“life policy” has the same meaning as in paragraph 5 of the First Schedule to the Insurance Act (Cap. 142) but does not include any investment-linked policy as defined in paragraph 6 of the First Schedule to that Act.
-
-5\. For the purposes of paragraph 1, the Director may, in any case where an applicant for legal aid is living separate and apart from his spouse and where it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship, disregard the income of the spouse.
-
-6.—(1) For the purposes of paragraph 1, and without prejudice to any exclusion or deduction provided under paragraph 4, the Director may proceed in accordance with sub-paragraph (2) in any case where —
-
-(a) an applicant for legal aid has suffered from sudden physical or mental disability which permanently and severely restricts his capacity to earn an income; and
-
-(b) it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship.
-
-(2) For the purposes of sub-paragraph (1), the Director may —
-
-(a) in determining the disposable capital of the applicant, exclude savings of the applicant of up to $30,000; and
-
-(b) in determining the disposable income of the applicant, deduct a further amount equal to —
-
-(i) $1,000, in the case of an applicant who has also suffered a sudden loss of income and requires legal aid to defend or take legal proceedings as a matter of urgency; or
-
-(ii) $2,000, in any other case.
-
-7.—(1) Notwithstanding paragraphs 1 and 4, the Director may proceed in accordance with sub-paragraph (2) in any case where —
-
-(a) an applicant for legal aid has suffered a sudden loss of income and requires legal aid to defend or take legal proceedings as a matter of urgency; and
-
-(b) it appears to the Director in his absolute discretion to be reasonable to do so to relieve hardship.
-
-(2) For the purposes of sub-paragraph (1), the Director may —
-
-(a) regard the amount of disposable income set out in paragraph 1(b) to be $5,000 during the period of 6 months immediately preceding the date of the application; and
-
-(b) regard “disposable income” to mean the income of an applicant together with the income (if any) of the applicant’s spouse, during the period of 6 months immediately preceding the date of the application, after deducting —
-
-(i) an amount equal to $3,000 for the applicant;
-
-(ii) an amount equal to $3,000 from the income of the applicant’s spouse, if such income is not disregarded under paragraph 5;
-
-(iii) an amount equal to the total sum contributed by the applicant and his spouse during that period towards the maintenance of each person partially or totally dependent on the applicant or the spouse, subject to a cap of $3,000;
-
-(iv) an amount not exceeding $10,000 for rent;
-
-(v) an amount equal to the applicant’s contributions to the Central Provident Fund during that period; and
-
-(vi) an amount equal to the contributions of the applicant’s spouse to the Central Provident Fund during that period, if the spouse’s income is not disregarded under paragraph 5.
-
-8.—(1) For the purposes of paragraph 1, and without prejudice to any exclusion or deduction provided under paragraph 4, the Director may, in any case where an applicant has applied for legal aid in respect of family proceedings, exclude the following property in determining the disposable capital which the applicant is possessed of:
-
-(a) a dwelling-house owned and exclusively used by the applicant and his family as their home if the annual value of the dwelling-house is assessed at not more than $20,000; and
-
-(b) an additional amount equal to $5,000.
-
-(2) In this paragraph, “family proceedings” means any of the following proceedings:
-
-(a) proceedings under the Guardianship of Infants Act (Cap. 122);
-
-(b) proceedings under Part VII of the Women’s Charter (Cap. 353) involving the applicant, his spouse, former spouse or a child of the applicant who is a minor;
-
-(c) any proceedings under Parts VIII and IX of the Women’s Charter involving maintenance for a child of the applicant who is a minor;
-
-(d) proceedings under Part X of the Women’s Charter involving any issue relating to the care, control, custody or maintenance of any child of the applicant who is a minor;
-
-(e) proceedings under sections 52 and 53 of the Administration of Muslim Law Act (Cap. 3) involving the custody, maintenance and education of any child of the applicant who is a minor or the enforcement of an order for the maintenance of such child;
-
-(f) an appeal against an order made by a court in any of the proceedings referred to in sub-paragraphs (a) to (e).
-
-[S 135/2001; S 310/2007; 6/2013]
+[Repealed by Act 50 of 2018 wef 16/10/2019]
 
 ## LEGISLATIVE HISTORY
 
@@ -1036,6 +966,7 @@ The Legal Aid and Advice Act 1995 repealed the Legal Aid and Advice Act (Chapter
 ||Date of First Reading|1 October 2018 (Bill No. 42/2018 published on 1 October 2018)|
 ||Date of Second and Third Readings|19 November 2018|
 ||Date of commencement|31 May 2019|
+|||16 October 2019|
 ## COMPARATIVE TABLE
 
 Legal Aid and Advice Act
