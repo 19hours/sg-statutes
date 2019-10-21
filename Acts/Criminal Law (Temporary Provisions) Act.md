@@ -156,9 +156,9 @@ PRELIMINARY
 
 1\.—(1) This Act may be cited as the Criminal Law (Temporary Provisions) Act.
 
-(2) This Act shall continue in force for a period of 5 years from 21st October 2014.
+(2) This Act continues in force for a period of 5 years beginning on 21 October 2019.
 
-[Act 25 of 2013 wef 21/10/2014]
+[Act 12 of 2018 wef 21/10/2019]
 
 (3) The expiry of this Act shall not affect the operation thereof as respects things previously done or omitted to be done.
 
@@ -1548,6 +1548,10 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
 ||Date of Second and Third Readings|12 February 2019|
 ||Date of commencement|1 April 2019|
+|62.|**Act 12 of 2018—Criminal Law (Temporary Provisions) (Amendment) Act 2018**|
+||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|21 October 2019|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
