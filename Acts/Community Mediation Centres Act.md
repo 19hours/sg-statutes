@@ -42,6 +42,8 @@
 
 - [15 Referral of cases by Magistrate](#Referral-of-cases-by-Magistrate)
 
+- [15A Referral of cases under Small Claims Tribunals Act](#Referral-of-cases-under-Small-Claims-Tribunals-Act)
+
 [**Part IV MISCELLANEOUS**](#Part-IV)
 
 - [16 Evaluation](#Evaluation)
@@ -168,9 +170,11 @@ MEDIATION
 
 (2) Each mediation session shall be conducted by one or more mediators assigned for the purpose by the Director.
 
-(3) Subject to section 15 and the Community Disputes Resolution Act 2015, no dispute shall be accepted for mediation except with the consent of the Director of a Community Mediation Centre who may decline to consent to the acceptance of any dispute for mediation under this Act at the Centre.
+(3) Subject to sections 15 and 15A and the Community Disputes Resolution Act 2015, no dispute shall be accepted for mediation except with the consent of the Director of a Community Mediation Centre who may decline to consent to the acceptance of any dispute for mediation under this Act at the Centre.
 
 [Act 7 of 2015 wef 01/10/2015]
+
+[Act 33 of 2018 wef 01/11/2019]
 
 (4) A mediation session may be terminated at any time by the mediator or by the Director.
 
@@ -188,9 +192,11 @@ MEDIATION
 
 ### Disputes
 
-11\.—(1) Subject to sections 9(3) and 15 and the Community Disputes Resolution Act 2015, any person may refer to a mediator of a Community Mediation Centre for mediation a case concerning a family, social or community dispute that does not involve a seizable offence under any written law.
+11\.—(1) Subject to sections 9(3), 15 and 15A and the Community Disputes Resolution Act 2015, any person may refer to a mediator of a Community Mediation Centre for mediation a case concerning a family, social or community dispute that does not involve a seizable offence under any written law.
 
 [Act 7 of 2015 wef 01/10/2015]
+
+[Act 33 of 2018 wef 01/11/2019]
 
 (2) A mediation session may be commenced or continued whether or not the dispute is justiciable before any court, tribunal or body and whether or not the dispute is the subject of any legal proceedings.
 
@@ -240,6 +246,10 @@ from representing that company, corporation, body corporate or society, as the c
 
 (3) Where a Director approves of the representation of a party by an agent, the approval of the Director may be given subject to such conditions as the Director considers reasonable to ensure that any other party to the mediation session is not substantially disadvantaged by the agent appearing at the mediation session and, where the Director does so, the entitlement of the agent to represent the party shall be subject to compliance by the agent with those conditions.
 
+(4) This section does not apply to a claim referred to a mediator of a Community Mediation Centre under section 18A of the Small Claims Tribunals Act (Cap. 308).
+
+[Act 33 of 2018 wef 01/11/2019]
+
 ### Referral of cases by Magistrate
 
 15\.—(1) Notwithstanding any provision of this Act or any written law, a Magistrate who receives a complaint made by a private person under section 151 of the Criminal Procedure Code 2010 may, if —
@@ -259,6 +269,18 @@ refer the complaint to a mediator of a Community Mediation Centre for mediation 
 (3) [Deleted by Act 19 of 2016 wef 01/10/2017]
 
 (4) In a referral by a Magistrate under this section, the mediator of a Community Mediation Centre shall record and notify the Magistrate of the outcome of the mediation to enable the Magistrate to take such further action as he thinks fit under the provisions of the Criminal Procedure Code.
+
+### Referral of cases under Small Claims Tribunals Act
+
+15A\.—(1) Where a claim is referred by a specified person to a mediator of a Community Mediation Centre under section 18A of the Small Claims Tribunals Act (Cap. 308) —
+
+(a) a party to the claim who is required to attend the mediation under that section may do so personally or by a representative permitted under section 23(2) of that Act; and
+
+(b) the mediator must record and notify the specified person of the outcome of the mediation.
+
+(2) In this section, “specified person” means a tribunal or the Registrar as defined in section 2(1) of the Small Claims Tribunals Act.
+
+[Act 33 of 2018 wef 01/11/2019]
 
 ## PART IV
 
@@ -438,3 +460,7 @@ This Legislative History is provided for the convenience of users of the Communi
 ||Date of First Reading|11 July 2016 (Bill No. 23/2016 published on 11 July 2016)|
 ||Date of Second and Third Readings|15 August 2016|
 ||Date of commencement|1 October 2017|
+|12.|**Act 33 of 2018—Small Claims Tribunals (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 23/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|1 November 2019|
