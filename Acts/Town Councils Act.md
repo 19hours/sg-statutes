@@ -1462,11 +1462,11 @@ the Town Council concerned may, for the purposes of recovering any improvement c
 
 24H\. Any improvement contribution, interest and penalty payable to a Town Council under this Part —
 
-(a) may be recovered by the Town Council by an action for a debt in any court of competent authority; and
+(a) may be recovered by the Town Council by an action for a debt in any court of competent authority.
 
-(b) shall for the purposes of the Small Claims Tribunals Act (Cap. 308) be deemed to be moneys payable under a contract for the provision of services and the Town Council may lodge a claim for the payment of such improvement contribution, interest and penalty with a Small Claims Tribunal in accordance with the provisions of that Act.
+[Act 33 of 2018 wef 01/11/2019]
 
-[23/2005 wef 15/08/2005]
+(b) [Deleted by Act 33 of 2018 wef 01/11/2019]
 
 ### Power of Minister to make rules
 
@@ -2593,13 +2593,11 @@ shall be guilty of that same offence as is the Town Council, and shall be liable
 
 51\. Any charges, fees or expenses or any penalties for late payment of such charges or fees payable to a Town Council under this Act —
 
-(a) may be recovered by the Town Council by an action for a debt in any court of competent authority; and
+(a) may be recovered by the Town Council by an action for a debt in any court of competent authority.
 
-(b) shall for the purposes of the Small Claims Tribunals Act (Cap. 308) be deemed to be moneys payable under a contract for the provision of services and the Town Council may lodge a claim for the payment of the charges, fees or expenses or any penalties for late payment of such charges or fees with a Small Claims Tribunal in accordance with the provisions of that Act.
+[Act 33 of 2018 wef 01/11/2019]
 
-[45
-
-[37/96]
+(b) [Deleted by Act 33 of 2018 wef 01/11/2019]
 
 ### Protection from personal liability
 
@@ -2920,6 +2918,10 @@ This Legislative History is provided for the convenience of users of the Town Co
 ||Date of First Reading|1 August 2017 (Bill No. 28/2017 published on 1 August 2017)|
 ||Date of Second and Third Readings|11 September 2017|
 ||Date of commencement|1 January 2018|
+|14.|**Act 33 of 2018—Small Claims Tribunals (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 23/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|1 November 2019|
 ## COMPARATIVE TABLE
 
 Town Councils Act
