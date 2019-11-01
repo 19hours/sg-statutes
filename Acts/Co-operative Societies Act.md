@@ -158,6 +158,10 @@
 
 - [59 Constitution of committee of management of society](#Constitution-of-committee-of-management-of-society)
 
+- [59A Registrar may appoint individuals to committee of management](#Registrar-may-appoint-individuals-to-committee-of-management)
+
+- [59B Officers to be appointed for prescribed societies](#Officers-to-be-appointed-for-prescribed-societies)
+
 - [60 Eligibility for membership of committee of management, or to be key employee](#Eligibility-for-membership-of-committee-of-management-or-to-be-key-employee)
 
 - [61 Functions of committee of management](#Functions-of-committee-of-management)
@@ -1446,9 +1450,13 @@ the auditor shall immediately report the matter to the Registrar.
 
 [23/2008]
 
-(2) An audit committee shall be appointed by the committee of management of the credit society from among their number and shall be composed of at least 3 members who shall be independent of the credit society in the manner prescribed.
+(2) The committee of management of a credit society must appoint an audit committee —
 
-[23/2008]
+(a) which consists of at least 3 individuals (who may but need not be members of the committee of management), each of whom must be independent of the credit society in the manner prescribed; and
+
+(b) with at least one member possessing such qualifications, training or experience as may be prescribed.
+
+[Act 3 of 2018 wef 01/11/2019]
 
 (3) If a member of an audit committee resigns, dies or for any other reason ceases to be a member with the result that the number of members is reduced below 3, the committee of management of the credit society shall, within 3 months after that event, appoint such number of new members as may be required to make up the minimum number of 3 members.
 
@@ -1876,6 +1884,60 @@ shall be as provided in the by-laws of the society.
 
 [Act 3 of 2018 wef 10/04/2018]
 
+### Registrar may appoint individuals to committee of management
+
+59A\.—(1) The Registrar may by order in theGazetteappoint, at any time and whether or not there is any vacancy in the committee of management of a society, up to 2 individuals (each of whom need not be a member of the society) to serve in the committee until the next general meeting of the society.
+
+(2) The Registrar must, before exercising any power under subsection (1) —
+
+(a) give to the committee of management of the society a reasonable opportunity to show cause why the Registrar should not exercise that power; and
+
+(b) consider the representations (if any) of the committee of management.
+
+(3) The allowances of an individual appointed under subsection (1) to serve in the committee of management of a society must be paid out of the society’s funds.
+
+(4) Where the Registrar has exercised the Registrar’s power under subsection (1) to appoint an individual to serve in the committee of management of a society, the Registrar may, by order in theGazette, do one or more of the following:
+
+(a) vary or revoke that appointment, on such terms and conditions as the Registrar may specify;
+
+(b) further exercise the Registrar’s power under subsection (1) to appoint another individual;
+
+(c) add to, vary or revoke any term or condition specified by the Registrar for that appointment.
+
+(5) The Registrar must, before exercising any power under subsection (4) —
+
+(a) give the affected individual a reasonable opportunity to show cause why the Registrar should not exercise that power; and
+
+(b) consider the representations (if any) of that individual.
+
+(6) A person aggrieved by any order of the Registrar made under subsection (1) or (4) may, within 2 months after the date of publication of that order in theGazette, appeal in writing to the Minister, whose decision is final.
+
+(7) Unless the Minister directs otherwise in any particular case —
+
+(a) an appeal under subsection (6) against the Registrar’s order does not affect the operation or implementation of the order; and
+
+(b) the order must be complied with until it is set aside by the Minister.
+
+(8) No liability shall lie personally against any individual appointed under subsection (1) who, acting in good faith and with reasonable care, does or omits to do anything in the execution or purported execution of this Act.
+
+[Act 3 of 2018 wef 01/11/2019]
+
+### Officers to be appointed for prescribed societies
+
+59B\.—(1) The Rules may require a society or a class of societies —
+
+(a) to appoint a chief executive officer (whether called general manager or otherwise);
+
+(b) to appoint a chief operating officer;
+
+(c) to appoint a chief financial officer, or to engage, for the purposes of discharging the functions of a chief financial officer, a person who is chosen by the society and approved by the Registrar in writing; and
+
+(d) to appoint a chief investment officer.
+
+(2) The Rules may prescribe the requirements (such as qualifications, training and experience) for appointment to an office in subsection (1)(a), (b), (c) or (d), including different requirements for appointment by different societies and different classes of societies.
+
+[Act 3 of 2018 wef 01/11/2019]
+
 ### Eligibility for membership of committee of management, or to be key employee
 
 60\.—(1) An individual is not eligible for membership of the committee of management of a society, to be a key employee of a credit society, or to remain a member of the committee of management of a society or a key employee of a credit society —
@@ -1937,6 +1999,34 @@ shall be as provided in the by-laws of the society.
 [23/2008]
 
 [Act 3 of 2018 wef 10/04/2018]
+
+(5) Where a society is required by the Rules to appoint a chief executive officer, a chief operating officer, a chief financial officer or a chief investment officer —
+
+(a) except with the Registrar’s written approval, an individual is not eligible to be, or to remain as, the chief executive officer, chief operating officer, chief financial officer or chief investment officer (as the case may be) for the society, if the individual does not satisfy the requirements under section 59B for that office; and
+
+(b) the society does not incur any liability for breach of contract by reason only of terminating the contract of service between the society and the individual on the ground that the individual is not eligible to be, or to remain as, the chief executive officer, chief operating officer, chief financial officer or chief investment officer (as the case may be) for the society.
+
+[Act 3 of 2018 wef 01/11/2019]
+
+(6) Despite subsection (5), for a period of 3 years starting on the date of commencement of section 33(i) of the Co‑operative Societies (Amendment) Act 2018, that subsection does not apply —
+
+(a) to a chief executive officer, chief operating officer, chief financial officer or chief investment officer who —
+
+(i) is appointed before that date by a society; and
+
+(ii) is holding that office immediately before that date; or
+
+(b) to a society the chief executive officer, chief operating officer, chief financial officer or chief investment officer of which —
+
+(i) is appointed before that date by the society; and
+
+(ii) is holding that office immediately before that date.
+
+[Act 3 of 2018 wef 01/11/2019]
+
+(7) Except with the Registrar’s written approval, an individual is not eligible to be re‑elected or co‑opted as a member of the committee of management of a credit society, if the individual fails to complete such training, or comply with such other requirements, as may be specified in the Rules within such time as may be specified in the Rules.
+
+[Act 3 of 2018 wef 01/11/2019]
 
 ### Functions of committee of management
 
@@ -3800,10 +3890,11 @@ This Legislative History is provided for the convenience of users of the Co-oper
 ||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|31 August 2018|
-|9.|**Act 3 of 2018—Co-operative Societies (Amendment) Act 2018**|
+|9.|**G.N. No. S 439/2019—Co-operative Societies Act (Amendment of Schedule) Order 2019**|
+||Date of commencement|20 June 2019|
+|10.|**Act 3 of 2018—Co-operative Societies (Amendment) Act 2018**|
 ||Date of First Reading|6 November 2017 (Bill No. 50/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|9 January 2018|
 ||Dates of commencement|10 April 2018|
 |||22 April 2019|
-|10.|**G.N. No. S 439/2019—Co-operative Societies Act (Amendment of Schedule) Order 2019**|
-||Date of commencement|20 June 2019|
+|||1 November 2019|
