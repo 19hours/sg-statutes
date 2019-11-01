@@ -126,6 +126,8 @@
 
 - [35 Licensing of drivers, etc.](#Licensing-of-drivers-etc)
 
+- [35AA Court to order forfeiture of vehicle for person driving motor vehicle without driving licence](#Court-to-order-forfeiture-of-vehicle-for-person-driving-motor-vehicle-without-driving-licence)
+
 - [35A Power of Deputy Commissioner of Police to revoke driving licence](#Power-of-Deputy-Commissioner-of-Police-to-revoke-driving-licence)
 
 - [35B Licensee may show cause why driving licence should not be revoked](#Licensee-may-show-cause-why-driving-licence-should-not-be-revoked)
@@ -214,11 +216,13 @@
 
 - [65 Driving without due care or reasonable consideration](#Driving-without-due-care-or-reasonable-consideration)
 
+- [65AA Court to order forfeiture of motor vehicle for reckless or dangerous driving, etc.](#Court-to-order-forfeiture-of-motor-vehicle-for-reckless-or-dangerous-driving-etc)
+
 - [65A Collision of heavy motor vehicles and public service vehicles with buildings or structures](#Collision-of-heavy-motor-vehicles-and-public-service-vehicles-with-buildings-or-structures)
 
 - [65B Use of mobile communication device while driving](#Use-of-mobile-communication-device-while-driving)
 
-- [66 Causing death by reckless or dangerous driving](#Causing-death-by-reckless-or-dangerous-driving)
+- [66 (Repealed)](#Repealed)
 
 - [67 Driving while under influence of drink or drugs](#Driving-while-under-influence-of-drink-or-drugs)
 
@@ -429,6 +433,8 @@
 - [138 Registrar and Deputy Commissioner of Police to be informed of convictions](#Registrar-and-Deputy-Commissioner-of-Police-to-be-informed-of-convictions)
 
 - [139 Provisions as to evidence](#Provisions-as-to-evidence)
+
+- [139AA Court may take into account compounded offences for purposes of sentencing](#Court-may-take-into-account-compounded-offences-for-purposes-of-sentencing)
 
 - [139A Authentication of documents](#Authentication-of-documents)
 
@@ -2290,7 +2296,21 @@ LICENSING OF DRIVERS
 
 (2) No person shall employ or permit another person to drive a motor vehicle on a road unless the person so employed or permitted to drive is the holder of such a driving licence.
 
-(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence.
+(3) Any person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction as follows:
+
+(a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both;
+
+(b) where the person is a repeat offender, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 years or to both.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(3A) For the purposes of subsection (3) and section 35AA, a person is a repeat offender in relation to an offence under subsection (3) if the person who is convicted, or found guilty, of an offence under that subsection (called the current offence) for contravening subsection (1) or (2) —
+
+(a) has been convicted or found guilty on at least one other earlier occasion of an offence under subsection (3) for contravening the same provision as the current offence; or
+
+(b) has (whether before, on or after the date of commencement of section 2 of the Road Traffic (Amendment) Act 2019) been convicted or found guilty on at least one other earlier occasion of an offence under subsection (3) as in force immediately before that date for contravening the same provision as the current offence.
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (4) An application for a grant or renewal of a driving licence shall be made in such form as the Deputy Commissioner of Police may design and utilise.
 
@@ -2401,6 +2421,24 @@ LICENSING OF DRIVERS
 (20) In this section, “permanent resident of Singapore” means a person who holds a valid entry permit under section 10 of the Immigration Act (Cap. 133) or a valid re‑entry permit under section 11 of that Act.
 
 [Act 28 of 2014 wef 01/02/2015]
+
+### Court to order forfeiture of vehicle for person driving motor vehicle without driving licence
+
+35AA\.—(1) Where a person convicted of an offence under section 35(3) (committed on or after the date of commencement of section 3 of the Road Traffic (Amendment) Act 2019) is a repeat offender and it is proved to the satisfaction of a court that a motor vehicle has been used in the commission of the offence, the court is to, on the application of the Public Prosecutor, make an order for the forfeiture of the motor vehicle, unless —
+
+(a) the court is satisfied that —
+
+(i) the person convicted is not the owner of the motor vehicle; and
+
+(ii) the driver of the motor vehicle in relation to which the offence is committed had driven the motor vehicle without the consent of the owner; or
+
+(b) the court has other good reasons for ordering otherwise.
+
+(2) Any motor vehicle in respect of which there has been or there is reasonable cause to suspect that there has been committed (on or after the date of commencement of section 3 of the Road Traffic (Amendment) Act 2019) an offence under section 35(3), may be seized by any police officer or the Registrar or any officer authorised in writing by the Registrar.
+
+(3) If there is no prosecution with regard to an offence under section 35(3), any motor vehicle seized pursuant to subsection (2) in relation to the offence must be released at the end of one month starting from the date of seizure if it is not earlier released.
+
+[Act 19 of 2019 wef 01/11/2019]
 
 ### Power of Deputy Commissioner of Police to revoke driving licence
 
@@ -2720,9 +2758,21 @@ that should he fail to appear in court on the date next appointed for his appear
 
 [3/93]
 
-(4) If any person who is disqualified as mentioned in subsection (3) drives on a road a motor vehicle or, if the disqualification is limited to the driving of a motor vehicle of a particular class or description, a motor vehicle of that class or description, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+(4) If any person who is disqualified as mentioned in subsection (3) drives on a road a motor vehicle or, if the disqualification is limited to the driving of a motor vehicle of a particular class or description, the person drives on a road a motor vehicle of that class or description, the person shall be guilty of an offence and shall be liable on conviction as follows:
 
-[3/93]
+(a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both;
+
+(b) where the person is a repeat offender, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 years or to both.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(4A) For the purposes of subsection (4), a person is a repeat offender in relation to an offence under that subsection if the person who is convicted, or found guilty, of an offence under that subsection —
+
+(a) has been convicted or found guilty on at least one other earlier occasion of an offence under that subsection; or
+
+(b) has (whether before, on or after the date of commencement of section 7 of the Road Traffic (Amendment) Act 2019) been convicted or found guilty on at least one other earlier occasion of an offence under subsection (4) as in force immediately before that date.
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (5) Where any person has been convicted of an offence under subsection (4) and such conviction is a second or subsequent conviction and it is proved to the satisfaction of a court that a motor vehicle has been used in the commission of the offence, the court shall, on the application of the Public Prosecutor, make an order for the forfeiture of the motor vehicle.
 
@@ -2884,9 +2934,19 @@ the Deputy Commissioner of Police may, immediately upon or at any time after the
 
 [24/2010 wef 01/11/2010]
 
+(1A) At the start of or during any police investigation into the possible commission on or after the date of commencement of section 11 of the Road Traffic (Amendment) Act 2019 by a person of any offence under section 64, 67 or 116, the Deputy Commissioner of Police may suspend the driving licence of the person.
+
+[Act 19 of 2019 wef 01/11/2019]
+
 (2) Subsection (1) applies in respect of any of the following offences:
 
-(a) an offence under section 64, 65A, 66 or 67;
+(a) an offence under section 65 or 65A;
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(aa) an offence under section 64, 66 or 67 as in force immediately before the date of commencement of section 11 of the Road Traffic (Amendment) Act 2019;
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (b) an offence under section 84(7) arising from a failure to comply with section 84(3);
 
@@ -2898,17 +2958,21 @@ the Deputy Commissioner of Police may, immediately upon or at any time after the
 
 [Act 28 of 2014 wef 01/02/2015]
 
-(3) The suspension of a person’s driving licence under subsection (1) shall, unless it is sooner rescinded by the Deputy Commissioner of Police under subsection (10), remain in force until the offence on account of which the person’s driving licence is so suspended has been tried and determined by a court.
+(3) The suspension of a person’s driving licence under subsection (1) or (1A) shall, unless it is sooner rescinded by the Deputy Commissioner of Police under subsection (10), remain in force until the offence on account of which the person’s driving licence is so suspended has been tried and determined by a court.
 
 [24/2010 wef 01/11/2010]
 
-(4) Where the Deputy Commissioner of Police suspends the driving licence of a person under subsection (1), the Deputy Commissioner of Police shall, as soon as is practicable, give to the person concerned a notice in writing —
+[Act 19 of 2019 wef 01/11/2019]
+
+(4) Where the Deputy Commissioner of Police suspends the driving licence of a person under subsection (1) or (1A), the Deputy Commissioner of Police shall, as soon as is practicable, give to the person concerned a notice in writing —
 
 (a) informing the person concerned of the suspension of his driving licence and the date from which the suspension is to take effect; and
 
 (b) requiring the person concerned to surrender his driving licence to the Deputy Commissioner of Police within such time as may be specified in the notice.
 
 [24/2010 wef 01/11/2010]
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (5) A person who refuses or fails, without reasonable cause, or excuse to surrender his driving licence to the Deputy Commissioner of Police under subsection (4) shall be guilty of an offence.
 
@@ -2922,19 +2986,23 @@ the Deputy Commissioner of Police may, immediately upon or at any time after the
 
 [7/90]
 
-(8) A person aggrieved by the suspension of his driving licence under subsection (1) may, within 14 days after the receipt of the notice referred to in subsection (4) or such extended period of time as the Commissioner of Police may allow in any particular case, appeal in writing against the suspension to the Commissioner of Police whose decision shall be final.
+(8) A person aggrieved by the suspension of his driving licence under subsection (1) or (1A) may, within 14 days after the receipt of the notice referred to in subsection (4) or such extended period of time as the Commissioner of Police may allow in any particular case, appeal in writing against the suspension to the Commissioner of Police whose decision shall be final.
 
 [24/2010 wef 01/11/2010]
 
 [Act 28 of 2014 wef 01/02/2015]
 
-(9) Notwithstanding that any appeal under subsection (8) is pending, the suspension of a person’s driving licence under subsection (1) shall take effect from the date specified in the notice given to him by the Deputy Commissioner of Police under subsection (4), unless the Commissioner of Police otherwise orders.
+[Act 19 of 2019 wef 01/11/2019]
+
+(9) Notwithstanding that any appeal under subsection (8) is pending, the suspension of a person’s driving licence under subsection (1) or (1A) shall take effect from the date specified in the notice given to him by the Deputy Commissioner of Police under subsection (4), unless the Commissioner of Police otherwise orders.
 
 [24/2010 wef 01/11/2010]
 
 [Act 28 of 2014 wef 01/02/2015]
 
-(10) The Deputy Commissioner of Police may, at any time, rescind the suspension of a person’s driving licence under subsection (1) on account of any offence referred to in subsection (2), but shall, as soon as is practicable, rescind the suspension if —
+[Act 19 of 2019 wef 01/11/2019]
+
+(10) The Deputy Commissioner of Police may, at any time, rescind the suspension of a person’s driving licence under subsection (1) or (1A) on account of any offence mentioned in subsection (2) or (1A), respectively, but shall, as soon as is practicable, rescind the suspension if —
 
 (a) the investigation reveals that that person was not involved in the commission of any such offence;
 
@@ -2943,6 +3011,8 @@ the Deputy Commissioner of Police may, immediately upon or at any time after the
 (c) the charge against that person in respect of any such offence is withdrawn.
 
 [24/2010 wef 01/11/2010]
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (11) In this section, “structure” has the same meaning as in section 65A(2).
 
@@ -2956,9 +3026,11 @@ the Deputy Commissioner of Police may, immediately upon or at any time after the
 
 ### Penalties for offences under sections 47(5) and 47C(7)
 
-47E\. Any person who is guilty of an offence under section 47(5) or 47C(7) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+47E\. Any person who is guilty of an offence under section 47(5) or 47C(7) shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 4 years or to both.
 
 [3/93]
+
+[Act 19 of 2019 wef 01/11/2019]
 
 ### Prohibition order against holders of foreign driving licences
 
@@ -3234,17 +3306,109 @@ Provisions as to driving and offences in connection therewith
 
 ### Reckless or dangerous driving
 
-64\.—(1) If any person drives a motor vehicle on a road recklessly, or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be, on the road, he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+64\.—(1) If any person drives a motor vehicle on a road recklessly, or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be, on the road, the person (called the offender) shall be guilty of an offence.
 
 [11/96]
 
 [Act 10 of 2017 wef 20/06/2017]
 
-(2) On a second or subsequent conviction under this section, the convicting court shall exercise the power conferred by section 42 of ordering that the offender shall be disqualified from holding or obtaining a driving licence unless the court, having regard to the lapse of time since the date of the previous or last previous conviction or for any other special reason, thinks fit to order otherwise.
+[Act 19 of 2019 wef 01/11/2019]
 
-(3) Subsection (2) shall not be construed as affecting the right of the court to exercise the power under section 42 on a first conviction.
+(2) If death is caused to another person by the driving of a motor vehicle by the offender, the offender shall be punished with the following on conviction of an offence under subsection (1):
 
-[S 304/2005]
+(a) with imprisonment for a term of not less than 2 years and not more than 8 years;
+
+(b) where the person is a repeat offender, with imprisonment for a term of not less than 4 years and not more than 15 years;
+
+(c) where the offender is a serious offender in relation to such driving, with imprisonment for a term of not less than one year and not more than 2 years, in addition to any punishment under paragraph (a) or (b);
+
+(d) where the offender is a serious repeat offender in relation to such driving, with imprisonment for a term of not less than 2 years and not more than 4 years, in addition to any punishment under paragraph (a) or (b).
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(2A) If grievous hurt is caused to another person by the driving of a motor vehicle by the offender, the offender shall be punished with the following on conviction of an offence under subsection (1):
+
+(a) with imprisonment for a term of not less than one year and not more than 5 years;
+
+(b) where the person is a repeat offender, with imprisonment for a term of not less than 2 years and not more than 10 years;
+
+(c) where the offender is a serious offender in relation to such driving, with a fine of not less than $2,000 and not more than $10,000 and with imprisonment for a term of not less than 6 months and not more than one year, in addition to any punishment under paragraph (a) or (b);
+
+(d) where the offender is a serious repeat offender in relation to such driving, with a fine of not less than $5,000 and not more than $20,000 and with imprisonment for a term of not less than one year and not more than 2 years, in addition to any punishment under paragraph (a) or (b).
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(2B) If hurt is caused to another person by the driving of a motor vehicle by the offender, the offender shall on conviction of an offence under subsection (1) —
+
+(a) be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both;
+
+(b) where the person is a repeat offender, be liable to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 4 years or to both;
+
+(c) where the offender is a serious offender in relation to such driving, be liable to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both, in addition to any punishment under paragraph (a) or (b); or
+
+(d) where the offender is a serious repeat offender in relation to such driving, be punished with a fine of not less than $5,000 and not more than $20,000 and with imprisonment for a term not exceeding 2 years, in addition to any punishment under paragraph (a) or (b).
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(2C) In any other case involving the driving of a motor vehicle by the offender, the offender shall on conviction of an offence under subsection (1) —
+
+(a) be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both;
+
+(b) where the person is a repeat offender, be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both;
+
+(c) where the offender is a serious offender in relation to such driving, be liable to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both, in addition to any punishment under paragraph (a) or (b); or
+
+(d) where the offender is a serious repeat offender in relation to such driving, be punished with a fine of not less than $5,000 and not more than $20,000 and with imprisonment for a term not exceeding 2 years, in addition to any punishment under paragraph (a) or (b).
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(2D) A court convicting a person of an offence under subsection (1) in the following cases is to, unless the court for special reasons thinks fit to not order or to order otherwise, order that the person be disqualified from holding or obtaining a driving licence for a disqualification period of not less than the specified period corresponding to that case:
+
+(a) for an offender or a repeat offender in subsection (2)(a) or (b) — 10 years;
+
+(b) for a serious offender in subsection (2)(c) — 12 years;
+
+(c) for a serious repeat offender in subsection (2)(d) who has been convicted (whether before, on or after the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019) on only one earlier occasion of any specified offence — 15 years;
+
+(d) for an offender or a repeat offender in subsection (2A)(a) or (b) — 8 years;
+
+(e) for a serious offender in subsection (2A)(c) — 10 years;
+
+(f) for a serious repeat offender in subsection (2A)(d) who has been convicted (whether before, on or after the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019) on only one earlier occasion of any specified offence — 13 years;
+
+(g) for a serious offender in subsection (2B)(c) — 2 years;
+
+(h) for a serious repeat offender in subsection (2B)(d) who has been convicted (whether before, on or after the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019) on only one earlier occasion of any specified offence — 5 years;
+
+(i) for a serious offender in subsection (2C)(c) — 2 years;
+
+(j) for a serious repeat offender in subsection (2C)(d) who has been convicted (whether before, on or after the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019) on only one earlier occasion of any specified offence — 5 years.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(2E) A court convicting a person for an offence under subsection (1) in the following cases is to, unless the court for special reasons thinks fit to order a shorter disqualification period, order that the person be disqualified from holding or obtaining a driving licence for life starting on the date of the person’s conviction:
+
+(a) a serious repeat offender in subsection (2)(d) who has been convicted (whether before, on or after the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019) on 2 or more earlier occasions of any specified offence;
+
+(b) a serious repeat offender in subsection (2A)(d) who has been convicted (whether before, on or after the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019) on 2 or more earlier occasions of any specified offence;
+
+(c) a serious repeat offender in subsection (2B)(d) who has been convicted (whether before, on or after the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019) on 2 or more earlier occasions of any specified offence;
+
+(d) a serious repeat offender in subsection (2C)(d) who has been convicted (whether before, on or after the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019) on 2 or more earlier occasions of any specified offence.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(3) A person is a repeat offender in relation to an offence under subsections (2)(b), (2A)(b), (2B)(b) and (2C)(b), respectively, if the person in the respective subsection has been convicted (whether before, on or after the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019) on at least one other earlier occasion of any of the following offences:
+
+(a) an offence under subsection (1);
+
+(b) an offence under section 63, 65 or 116;
+
+(c) an offence under this section, or section 65 or 66, as in force immediately before the date of commencement of section 13 of the Road Traffic (Amendment) Act 2019;
+
+(d) an offence under section 279, 304A, 336, 337 or 338 of the Penal Code (Cap. 224) where the act constituting the offence involves the use of a motor vehicle.
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (4) Where a person is convicted of abetting the commission of an offence under this section and it is proved that he was present in the motor vehicle at the time of the commission of the offence, the offence of which he is convicted shall, for the purpose of the provisions of Part II relating to disqualification from holding or obtaining driving licences, be deemed to be an offence in connection with the driving of a motor vehicle.
 
@@ -3252,17 +3416,187 @@ Provisions as to driving and offences in connection therewith
 
 [1/99]
 
+(6) Despite the Criminal Procedure Code (Cap. 68), a District Court or a Magistrate’s Court has jurisdiction to try any offence under this section and has power to impose the full punishment specified in this section.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(7) Where subsections (2) and (2A) prescribe a minimum term of imprisonment on conviction of an offence under subsection (1), the court is to impose a sentence of imprisonment that is equal to or greater than that prescribed minimum term of imprisonment unless the court, for special reasons, thinks fit to order a shorter term of imprisonment.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(8) In this section and section 65 —
+
+“disqualification period”, for an offender convicted of an offence under subsection (1), means a period starting on the later of the following dates:
+
+(a) the date of the offender’s conviction;
+
+(b) the date of the offender’s release from imprisonment, if the offender is sentenced to imprisonment;
+
+“grievous hurt” has the same meaning as in section 320 (except paragraph (aa)) of the Penal Code;
+
+“serious offender” means an offender who is convicted of an offence under section 67 or 70(4) in relation to the offender’s driving which is an offence under subsection (1);
+
+“serious repeat offender” means an offender who —
+
+(a) is convicted of an offence under section 67 or 70(4) in relation to the offender’s driving which is an offence under subsection (1); and
+
+(b) has been convicted on at least one other earlier occasion of a specified offence;
+
+“specified offence” means —
+
+(a) an offence under section 67, 68 or 70(4); or
+
+(b) an offence under section 67 as in force immediately before the date of commencement of section 17 of the Road Traffic (Amendment) Act 2019.
+
+[Act 19 of 2019 wef 01/11/2019]
+
 ### Driving without due care or reasonable consideration
 
-65\. If any person drives a motor vehicle on a road —
+65\.—(1) If any person drives a motor vehicle on a road —
 
 (a) without due care and attention; or
 
 (b) without reasonable consideration for other persons using the road,
 
-he shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both and, in the case of a second or subsequent conviction, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 12 months or to both.
+the person (called the offender) shall be guilty of an offence.
 
-[11/96]
+[Act 19 of 2019 wef 01/11/2019]
+
+(2) If death is caused to another person by the driving of a motor vehicle by the offender, the offender shall on conviction of an offence under subsection (1) —
+
+(a) be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both;
+
+(b) where the person is a repeat offender, be liable to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 6 years or to both;
+
+(c) where the person is a serious offender in relation to such driving, be punished with imprisonment for a term not exceeding 2 years, in addition to any punishment under paragraph (a) or (b); or
+
+(d) where the offender is a serious repeat offender in relation to such driving, be punished with imprisonment for a term not exceeding 4 years, in addition to any punishment under paragraph (a) or (b).
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(3) If grievous hurt is caused to another person by the driving of a motor vehicle by the offender, the offender shall on conviction of an offence under subsection (1) —
+
+(a) be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both;
+
+(b) where the person is a repeat offender, be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 4 years or to both;
+
+(c) where the person is a serious offender in relation to such driving, be punished with a fine of not less than $2,000 and not more than $10,000 and with imprisonment for a term not exceeding 12 months, in addition to any punishment under paragraph (a) or (b); or
+
+(d) where the offender is a serious repeat offender in relation to such driving, be punished with a fine of not less than $5,000 and not more than $20,000 and with imprisonment for a term not exceeding 2 years, in addition to any punishment under paragraph (a) or (b).
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(4) If hurt is caused to another person by the driving of a motor vehicle by the offender, the offender shall on conviction of an offence under subsection (1) —
+
+(a) be liable to a fine not exceeding $2,500 or to imprisonment for a term not exceeding 12 months or to both;
+
+(b) in the case of a repeat offender, be liable to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 2 years or to both;
+
+(c) where the person is a serious offender in relation to such driving, be liable to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both, in addition to any punishment under paragraph (a) or (b); or
+
+(d) where the offender is a serious repeat offender in relation to such driving, be punished with a fine of not less than $5,000 and not more than $20,000 and with imprisonment for a term not exceeding 2 years, in addition to any punishment under paragraph (a) or (b).
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(5) In any other case involving the driving of a motor vehicle by the offender, the offender shall on conviction of an offence under subsection (1) —
+
+(a) be liable to a fine not exceeding $1,500 or to imprisonment for a term not exceeding 6 months or to both;
+
+(b) where the person is a repeat offender, be liable to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 12 months or to both;
+
+(c) where the person is a serious offender in relation to such driving, be liable to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both, in addition to any punishment under paragraph (a) or (b); or
+
+(d) where the offender is a serious repeat offender in relation to such driving, be punished with a fine of not less than $5,000 and not more than $20,000 and with imprisonment for a term not exceeding 2 years, in addition to any punishment under paragraph (a) or (b).
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(6) A court convicting a person of an offence under subsection (1) in the following cases is to, unless the court for special reasons thinks fit to not order or to order otherwise, order that the person be disqualified from holding or obtaining a driving licence for a disqualification period of not less than the specified period corresponding to that case:
+
+(a) for an offender or a repeat offender in subsection (2)(a) or (b) — 8 years;
+
+(b) for a serious offender in subsection (2)(c) — 10 years;
+
+(c) for a serious repeat offender in subsection (2)(d) who has been convicted (whether before, on or after the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019) on only one earlier occasion of any specified offence — 13 years;
+
+(d) for an offender or a repeat offender in subsection (3)(a) or (b) — 5 years;
+
+(e) for a serious offender in subsection (3)(c) — 7 years;
+
+(f) for a serious repeat offender in subsection (3)(d) who has been convicted (whether before, on or after the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019) on only one earlier occasion of any specified offence — 10 years;
+
+(g) for a serious offender in subsection (4)(c) — 2 years;
+
+(h) for a serious repeat offender in subsection (4)(d) who has been convicted (whether before, on or after the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019) on only one earlier occasion of any specified offence — 5 years;
+
+(i) for a serious offender in subsection (5)(c) — 2 years;
+
+(j) for a serious repeat offender in subsection (5)(d) who has been convicted (whether before, on or after the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019) on only one earlier occasion of any specified offence — 5 years.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(7) A court convicting a person for an offence under subsection (1) in the following cases is to, unless the court for special reasons thinks fit to order a shorter disqualification period, order that the person be disqualified from holding or obtaining a driving licence for life starting on the date of the person’s conviction:
+
+(a) a serious repeat offender in subsection (2)(d) who has been convicted (whether before, on or after the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019) on 2 or more earlier occasions of any specified offence;
+
+(b) a serious repeat offender in subsection (3)(d) who has been convicted (whether before, on or after the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019) on 2 or more earlier occasions of any specified offence;
+
+(c) a serious repeat offender in subsection (4)(d) who has been convicted (whether before, on or after the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019) on 2 or more earlier occasions of any specified offence;
+
+(d) a serious repeat offender in subsection (5)(d) who has been convicted (whether before, on or after the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019) on 2 or more earlier occasions of any specified offence.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(8) A person is a repeat offender in relation to an offence punishable under subsections (2)(b), (3)(b), (4)(b) and (5)(b), respectively, if the person in the respective subsection has been convicted (whether before, on or after the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019) on at least one other earlier occasion of any of the following offences:
+
+(a) an offence under subsection (1);
+
+(b) an offence under section 63, 64 or 116;
+
+(c) an offence under this section, or section 64 or 66, as in force immediately before the date of commencement of section 14 of the Road Traffic (Amendment) Act 2019;
+
+(d) an offence under section 279, 304A, 336, 337 or 338 of the Penal Code where the act constituting the offence involves the use of a motor vehicle.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(9) Any police officer may arrest without warrant any person committing an offence under this section.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(10) Despite the Criminal Procedure Code, a District Court or a Magistrate’s Court has jurisdiction to try any offence under this section and has power to impose the full punishment specified in this section.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+### Court to order forfeiture of motor vehicle for reckless or dangerous driving, etc.
+
+65AA\.—(1) Where any person has been convicted of an offence under —
+
+(a) section 64(1) as a serious offender in section 64(2)(c) or (2A)(c), or as a serious repeat offender in section 64(2)(d) or (2A)(d); or
+
+(b) section 65(1) as a serious offender in section 65(2)(c) or (3)(c), or as a serious repeat offender in section 65(2)(d) or (3)(d),
+
+and it is proved to the satisfaction of a court that a motor vehicle has been used in the commission of the offence, the court is to, on the application of the Public Prosecutor, make an order for the forfeiture of the motor vehicle, unless the court is satisfied that —
+
+(c) the person who has committed the offence is not the owner of the motor vehicle; and
+
+(d) the person who has committed the offence had used the motor vehicle without the consent of the owner.
+
+(2) Where any person has been convicted of an offence under section 64(1) as an offender or a repeat offender in section 64(2)(a) or (b), or section 26(2) of the Police Force Act (Cap. 235) (which offence is committed on or after the date of commencement of section 15 of the Road Traffic (Amendment) Act 2019), and it is proved to the satisfaction of a court that a motor vehicle has been used in the commission of the offence, the court is to, on the application of the Public Prosecutor, make an order for the forfeiture of the motor vehicle, unless —
+
+(a) the court is satisfied that —
+
+(i) the person who has committed the offence is not the owner of the motor vehicle; and
+
+(ii) the person who has committed the offence had used the motor vehicle without the consent of the owner; or
+
+(b) the court has other good reasons for ordering otherwise.
+
+(3) Any motor vehicle in respect of which there has been or there is reasonable cause to suspect that there has been committed an offence mentioned in subsection (1) or (2), may be seized by any police officer or the Registrar or any officer authorised in writing by the Registrar.
+
+(4) If there is no prosecution with regard to an offence mentioned in subsection (1) or (2), any motor vehicle seized pursuant to subsection (3) in relation to the offence must be released at the end of one month starting from the date of seizure if it is not earlier released.
+
+(5) In this section, a repeat offender, a serious offender or a serious repeat offender, in relation to an offence under section 64 or 65, has the same meaning as in section 64 or 65, respectively.
+
+[Act 19 of 2019 wef 01/11/2019]
 
 ### Collision of heavy motor vehicles and public service vehicles with buildings or structures
 
@@ -3318,15 +3652,7 @@ on at least one previous occasion before the date on which the person is convict
 
 [Act 28 of 2014 wef 01/02/2015]
 
-### Causing death by reckless or dangerous driving
-
-66\.—(1) Any person who causes the death of another person by the driving of a motor vehicle on a road recklessly, or at a speed or in a manner which is dangerous to the public, having regard to all the circumstances of the case, including the nature, condition and use of the road, and the amount of traffic which is actually at the time, or which might reasonably be expected to be, on the road, shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 5 years.
-
-(2) [Deleted by Act 15/2010 wef 02/01/2011]
-
-(3) If upon the trial of a person for an offence under this section the court is not satisfied that his driving was the cause of the death, but is satisfied that he is guilty of driving as specified in subsection (1), it shall be lawful for the court to convict him of an offence under section 64.
-
-[Act 4 of 2014 wef 10/03/2014]
+66\. [Repealed by Act 19 of 2019 wef 01/11/2019]
 
 ### Driving while under influence of drink or drugs
 
@@ -3336,27 +3662,53 @@ on at least one previous occasion before the date on which the person is convict
 
 (b) has so much alcohol in his body that the proportion of it in his breath or blood exceeds the prescribed limit,
 
-shall be guilty of an offence and shall be liable on conviction to a fine of not less than $1,000 and not more than $5,000 or to imprisonment for a term not exceeding 6 months and, in the case of a second or subsequent conviction, to a fine of not less than $3,000 and not more than $10,000 and to imprisonment for a term not exceeding 12 months.
+shall be guilty of an offence and shall be liable on conviction to a fine of not less than $2,000 and not more than $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a second or subsequent conviction, to a fine of not less than $5,000 and not more than $20,000 and to imprisonment for a term not exceeding 2 years.
 
 [11/96]
 
-(2) A person convicted of an offence under this section shall, unless the court for special reasons thinks fit to order otherwise and without prejudice to the power of the court to order a longer period of disqualification, be disqualified from holding or obtaining a driving licence for a period of not less than 12 months from the date of his conviction or, where he is sentenced to imprisonment, from the date of his release from prison.
+[Act 19 of 2019 wef 01/11/2019]
 
-[7/90]
+(2) Subject to sections 64(2D) and (2E) and 65(6) and (7), a court convicting a person for an offence under this section in the following cases is to, unless the court for special reasons thinks fit to not order or to order otherwise, order that the person be disqualified from holding or obtaining a driving licence for a period of not less than the specified period corresponding to that case, starting on the date of the person’s conviction or, where the person is sentenced to imprisonment, on the date of the person’s release from prison:
+
+(a) for a first offender — 2 years;
+
+(b) for a repeat offender — 5 years.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(2A) Subject to sections 64(2D) and (2E) and 65(6) and (7), where a court convicts a person for an offence under subsection (1) and the person has been convicted (whether before, on or after the date of commencement of section 17 of the Road Traffic (Amendment) Act 2019) on 2 or more earlier occasions of an offence under subsection (1), section 68, or subsection (1) as in force immediately before the date of commencement of section 17 of the Road Traffic (Amendment) Act 2019, the court is to, unless the court for special reasons thinks fit to order a shorter period of disqualification, order that the person be disqualified from holding or obtaining a driving licence for life starting on the date of the person’s conviction.
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (3) Any police officer may arrest without warrant any person committing an offence under this section.
 
 [7/90]
 
+(4) In this section, a repeat offender means a person who is convicted of an offence under this section and who has been convicted (whether before, on or after the date of commencement of section 17 of the Road Traffic (Amendment) Act 2019) on one other earlier occasion of —
+
+(a) an offence under subsection (1) or section 68; or
+
+(b) an offence under subsection (1) as in force immediately before the date of commencement of section 17 of the Road Traffic (Amendment) Act 2019.
+
+[Act 19 of 2019 wef 01/11/2019]
+
 ### Enhanced penalties for offenders with previous convictions under certain sections
 
-67A\.—(1) Where a person having been convicted on at least 2 previous occasions of any one or more of the offences under sections 43(4), 47(5), 47C(7), 63(4), 64(1), 66(1), 67(1) and 70(4) is again convicted of an offence under section 43(4), 47(5), 47C(7), 63(4), 64(1), 66(1), 67(1) or 70(4), the court shall have the power to impose a punishment in excess of that prescribed for such conviction as follows:
+67A\.—(1) Where a person having been convicted of one or more specified offences is again convicted of any one of the specified offences (whether or not the same specified offence), the court shall have the power to impose a punishment in excess of that prescribed for such conviction as follows:
 
 (a) where the court is satisfied, by reason of his previous convictions or his antecedents, that it is expedient for the protection of the public or with the view to the prevention of further commission of any such offence that a punishment in excess of that prescribed for such a conviction should be awarded, then the court may punish such offender with punishment not exceeding 3 times the amount of punishment to which he would otherwise have been liable for such a conviction except that where imprisonment is imposed it shall not exceed 10 years; and
 
 (b) notwithstanding sections 303 and 309 of the Criminal Procedure Code 2010, if —
 
-(i) such offender, while committing the offence under section 43(4), 47(5), 47C(7), 63(4), 64(1), 66(1) or 67(1) causes any serious injury or death to another person; or
+(i) such offender causes any serious injury or death to another person when committing —
+
+(A) whether before, on or after the date of commencement of section 18 of the Road Traffic (Amendment) Act 2019, the offence under section 43(4), 47(5), 47C(7), 63(4), 64(1) or 67(1);
+
+(B) on or after the date of commencement of section 18 of the Road Traffic (Amendment) Act 2019, the offence under section 65(1) or 68(1); or
+
+(C) the offence under section 43(4), 64(1), 66(1) or 67(1) as in force immediately before the date of commencement of section 18 of the Road Traffic (Amendment) Act 2019; or
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (ii) in the case of an offender under section 70(4), such offender had, in driving or attempting to drive a motor vehicle at the time of any accident leading to his arrest under section 69(5), caused any serious injury or death to another person,
 
@@ -3366,11 +3718,25 @@ the court may also punish him, subject to sections 325(1) and 330(1) of the Crim
 
 [15/2010 wef 02/01/2011]
 
+[Act 19 of 2019 wef 01/11/2019]
+
 (2) This section shall not apply to a person who has been convicted of an offence under section 63(4) unless the court is satisfied that in committing such offence and the offence in respect of which he had been previously convicted, he had driven a motor vehicle on a road at a speed which exceeded by 40 kilometres per hour the speed limit imposed by or in exercise of powers conferred by this Act.
 
 [11/96]
 
-(3) In subsection (1), “serious injury” has the same meaning as in section 47D.
+(3) In subsection (1) —
+
+“serious injury” has the same meaning as in section 47D;
+
+“specified offence” means an offence under —
+
+(a) section 43(4), 47(5), 47C(7), 63(4), 64(1), 67(1) or 70(4) that is committed whether before, on or after the date of commencement of section 18 of the Road Traffic (Amendment) Act 2019;
+
+(b) section 65(1) or 68(1) that is committed on or after the date of commencement of section 18 of the Road Traffic (Amendment) Act 2019; or
+
+(c) section 43(4), 64(1), 66(1) or 67(1) as in force immediately before the date of commencement of section 18 of the Road Traffic (Amendment) Act 2019.
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (4) Notwithstanding any provision to the contrary in the Criminal Procedure Code, a District Court or Magistrate’s Court may award the full punishment prescribed by this section.
 
@@ -3698,7 +4064,9 @@ by means of a breath analysing device of a type approved by the Deputy Commissio
 
 [Act 28 of 2014 wef 01/02/2015]
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $200.
+(3) Any person who contravenes subsection (1) shall be guilty of an offence.
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (4) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $500 or to imprisonment for a term not exceeding 3 months and, in the case of a second or subsequent conviction, to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -3962,13 +4330,17 @@ Accidents
 
 ### Duty to stop in case of accident
 
-84\.—(1) Where an accident occurs owing to the presence of a motor vehicle on a road and the accident results in damage or injury to any person, vehicle, structure or animal, the driver of the motor vehicle must stop the motor vehicle and the driver must do such of the following as may be applicable:
+84\.—(1) Where an accident occurs owing to the presence of a motor vehicle on a road and the accident results in damage or injury to any person, vehicle or structure, the driver of the motor vehicle must stop the motor vehicle and the driver must do such of the following as may be applicable:
 
 (a) the driver if requested to do so by any person at the scene of the accident having reasonable grounds for so requesting the driver’s particulars, provide the driver’s particulars to that person;
 
-(b) if no person referred to in paragraph (a) is present at the scene of the accident, the driver must take reasonable steps to inform the owner (if any) of the damaged vehicle or structure, or injured animal, of the damage or injury caused to the vehicle, structure or animal (as the case may be), and provide that owner with the driver’s particulars.
+(b) if no person referred to in paragraph (a) is present at the scene of the accident, the driver must take reasonable steps to inform the owner (if any) of the damaged vehicle or structure of the damage caused to the vehicle or structure, and provide that owner with the driver’s particulars.
 
 [Act 28 of 2014 wef 01/02/2015]
+
+[Act 19 of 2019 wef 01/11/2019]
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (2) The driver of the motor vehicle referred to in subsection (1) must report the accident at a police station or to a police officer as soon as reasonably practicable within 24 hours after the accident unless either of the following has occurred:
 
@@ -3977,6 +4349,24 @@ Accidents
 (b) the owner referred to in subsection (1)(b) has contacted the driver.
 
 [Act 28 of 2014 wef 01/02/2015]
+
+(2A) Where owing to the presence of a motor vehicle on a road an accident occurs resulting in injury or death to any animal, the driver of the motor vehicle must stop the vehicle if he has reasonable grounds to believe that —
+
+(a) the animal has an owner; or
+
+(b) the presence of the injured or dead animal on the road is likely to pose any safety hazard to the other road users.
+
+[Act 19 of 2019 wef 01/11/2019]
+
+(2B) The driver mentioned in subsection (2A) who is involved in the accident must —
+
+(a) if requested to do so by any person at the scene of the accident having reasonable grounds for so requesting the driver’s particulars, provide the driver’s particulars to that person;
+
+(b) if no person mentioned in paragraph (a) is present at the scene of the accident, the driver must take reasonable steps to inform the owner of the injured or dead animal (if any) of the injury or death caused to the animal and provide that owner with the driver’s particulars; and
+
+(c) if the presence of the injured or dead animal is likely to pose any safety hazard to other road users, the driver must as far as the circumstances permit, take reasonable steps to alert other road users of the obstruction and immediately inform a police officer of the obstruction.
+
+[Act 19 of 2019 wef 01/11/2019]
 
 (3) If in any case owing to the presence of a motor vehicle on a road an accident occurs whereby any person is killed or any damage or injury is caused to any person, vehicle, structure or animal, the driver of the motor vehicle shall render such assistance as may be reasonably required by any police officer or in the absence of any police officer such assistance as it may reasonably be in the power of the driver to render.
 
@@ -3992,7 +4382,7 @@ Accidents
 
 (6) In this section —
 
-“animal” means any horse, cattle, ass, mule, sheep, pig, goat or dog;
+[Deleted by Act 19 of 2019 wef 01/11/2019]
 
 “particulars”, in relation to a driver of a motor vehicle, means the name and address of the driver of the motor vehicle, the name and address of the owner of the motor vehicle, and the identification marks of the motor vehicle.
 
@@ -6222,6 +6612,12 @@ a certificate purporting to be signed by the Registrar or the Deputy Commissione
 
 [Act 10 of 2017 wef 20/06/2017]
 
+### Court may take into account compounded offences for purposes of sentencing
+
+139AA\. For the purpose of determining the appropriate sentence for an offence committed by a person under this Act, a court may take into account, as an aggravating factor, any offence that has been compounded (whether before, on or after the date of commencement of section 21 of the Road Traffic (Amendment) Act 2019) under this Act before the date of the sentencing.
+
+[Act 19 of 2019 wef 01/11/2019]
+
 ### Authentication of documents
 
 139A\. Where any notice, order or other document required or authorised by this Act or the rules to be served on any person requires authentication, the signature of the Deputy Commissioner of Police, the Registrar, a police officer or an employee of the Authority or an official facsimile of such signature appended to such notice, order or document shall be sufficient authentication.
@@ -6993,6 +7389,10 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of commencement|1 May 2018|
 |||2 January 2019|
 |||3 June 2019|
+|85.|**Act 19 of 2019—Road Traffic (Amendment) Act 2019**|
+||Date of First Reading|6 May 2019 (Bill No. 13/2019 published on 6 May 2019)|
+||Date of Second and Third Readings|8 July 2019|
+||Date of commencement|1 November 2019|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
