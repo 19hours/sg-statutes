@@ -366,7 +366,7 @@ UNFAIR PRACTICES
 
 ### Jurisdiction and powers of courts
 
-7\.—(1) Notwithstanding section 5(1) of the Small Claims Tribunals Act (Cap. 308), a Small Claims Tribunal shall have jurisdiction to hear and determine —
+7\.—(1) Notwithstanding section 5(1)(a) of the Small Claims Tribunals Act (Cap. 308), a Small Claims Tribunal shall have jurisdiction to hear and determine —
 
 (a) any action under section 6(1) insofar as the action relates to an unfair practice involving a relevant contract;
 
@@ -380,13 +380,17 @@ UNFAIR PRACTICES
 
 [15/2008]
 
-(2) In subsection (1), “relevant contract” means a contract referred to in section 5(1)(a) (contract for the sale of goods or the provision of services) or (c) (contract for the lease of residential premises that does not exceed 2 years) of the Small Claims Tribunals Act (Cap. 308), and does not include a hire-purchase agreement or sale of immovable property.
+[Act 33 of 2018 wef 01/11/2019]
+
+(2) In subsection (1), “relevant contract” means a contract mentioned in paragraph 1(a) or (c) of the Schedule to the Small Claims Tribunals Act (Cap. 308), but does not include a contract relating to the sale of immovable property.
+
+[Act 33 of 2018 wef 01/11/2019]
+
+(2A) For the avoidance of doubt, subsections (1)(b) and (2) to (5) of section 5 of the Small Claims Tribunals Act shall apply, with the necessary modifications, to a Small Claims Tribunal exercising the jurisdiction conferred by subsection (1).
 
 [15/2008]
 
-(2A) For the avoidance of doubt, subsections (2) to (5) of section 5 of the Small Claims Tribunals Act shall apply, with the necessary modifications, to a Small Claims Tribunal exercising the jurisdiction conferred by subsection (1).
-
-[15/2008]
+[Act 33 of 2018 wef 01/11/2019]
 
 (3) For the purposes of determining whether an action under section 6(1) exceeds the District Court limit or the Magistrate’s Court limit within the meaning of the State Courts Act (Cap. 321), such an action shall be deemed to be a claim founded on contract.
 
@@ -2029,3 +2033,7 @@ This Legislative History is provided for the convenience of users of the Consume
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
+|11.|**Act 33 of 2018—Small Claims Tribunals (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 23/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|1 November 2019|
