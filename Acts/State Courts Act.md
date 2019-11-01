@@ -284,7 +284,7 @@ CONSTITUTION
 
 (2) The Small Claims Tribunals shall have such jurisdiction as is conferred by the Small Claims Tribunals Act (Cap. 308) or any other written law.
 
-(3) Except as provided in the Small Claims Tribunals Act, no provision of this Act or Rules of Court shall apply to a Small Claims Tribunal.
+(3) [Deleted by Act 33 of 2018 wef 01/11/2019]
 
 (4) The Coroners’ Courts shall have such jurisdiction as is conferred by the Coroners Act 2010 and any other written law.
 
@@ -1665,6 +1665,10 @@ This Legislative History is provided for the convenience of users of the Subordi
 ||Date of First Reading|10 September 2018 (Bill No. 33/2018 published on 10 September 2018)|
 ||Date of Second and Third Readings|20 October 2018|
 ||Date of commencement|1 January 2019|
+|33.|**Act 33 of 2018—Small Claims Tribunals (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 23/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|1 November 2019|
 ## COMPARATIVE TABLE
 
 State Courts Act
