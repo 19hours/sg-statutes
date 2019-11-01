@@ -1291,9 +1291,11 @@ whichever is the later.
 
 22\.—(1) Where any charges payable by the purchaser of a lot or proposed lot in a development under the sale and purchase contract for the maintenance of the common property or limited common property, as the case may be, of the development remain unpaid at the end of a period of 28 days after service of a written demand by the owner developer, the charges outstanding and any interest accrued thereon shall constitute a debt owing to the owner developer, and may be recovered by the owner developer —
 
-(a) in any court of competent jurisdiction; or
+(a) in any court of competent jurisdiction.
 
-(b) in the Small Claims Tribunal as if the charges and interest are moneys payable under a contract for the provision of services.
+[Act 33 of 2018 wef 01/11/2019]
+
+(b) [Deleted by Act 33 of 2018 wef 01/11/2019]
 
 (2) For the purposes of this section, a written demand sent by an owner developer to a purchaser shall be deemed to have been served on the purchaser of a lot or proposed lot (whether it is actually received or not) if it is sent by registered post to the purchaser at his last known address.
 
@@ -2159,15 +2161,17 @@ make an order directing the management corporation or management corporations to
 
 (7) Any interest paid under subsection (6) shall form part of the fund to which the contribution belongs.
 
-(8) Any contribution levied by a management corporation under this section or section 41 shall be deemed to be money payable under a contract for the provision of services and a management corporation may lodge a claim for the payment of such contribution with a Small Claims Tribunal in accordance with the provisions of the Small Claims Tribunals Act (Cap. 308).
+(8) [Deleted by Act 33 of 2018 wef 01/11/2019]
 
 (9) Where any contribution or interest thereon levied under subsection (6) is not paid on or before the 30th day after it becomes due and payable, the management corporation may serve a written demand on the subsidiary proprietor of the lot in respect of which the contribution is levied.
 
 [Act 35 of 2017 wef 01/02/2019]
 
-(10) Without prejudice to subsection (8), a subsidiary proprietor who fails to pay any contribution or interest due and owing to a management corporation before the 14th day after the date of service of any written demand referred to in subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the contribution or interest or both remain unpaid after conviction.
+(10) A subsidiary proprietor who fails to pay any contribution or interest due and owing to a management corporation before the 14th day after the date of service of any written demand referred to in subsection (9) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day or part thereof during which the contribution or interest or both remain unpaid after conviction.
 
 [Act 35 of 2017 wef 01/02/2019]
+
+[Act 33 of 2018 wef 01/11/2019]
 
 (11) The court before which a conviction for an offence under subsection (10) is had may, in addition to such fine, order the subsidiary proprietor to pay to the management corporation the amount of any contribution together with any interest thereon or any interest certified by the management corporation to be due from such person at the date of his conviction, and such amount shall be recovered according to any written law for the time being in force for the recovery of fines.
 
@@ -6323,6 +6327,10 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of First Reading|1 August 2017 (Bill No. 29/2017 published on 1 August 2017)|
 ||Date of Second and Third Readings|11 September 2017|
 ||Date of commencement|1 February 2019|
+|15.|**Act 33 of 2018—Small Claims Tribunals (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 23/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|1 November 2019|
 ## COMPARATIVE TABLE
 
 Building Maintenance and Strata Management Act
