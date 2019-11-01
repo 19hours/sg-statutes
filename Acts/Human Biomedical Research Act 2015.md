@@ -208,6 +208,8 @@ Date of Commencement: 1st January 2017 Sections 32 and 33
 
 Date of Commencement: 1st November 2017 Sections 6 to 31, 65, 68, the Third, Fourth and Fifth Schedules
 
+Date of Commencement: 1st November 2019 Sections 34, 35, 36, 37, 38, 39 and 64
+
 An Act to regulate the conduct of human biomedical research, to further regulate certain restricted human biomedical research, to prohibit certain types of human biomedical research, to regulate tissue banks and tissue banking activities, to prohibit commercial trading of human tissue, to provide for matters connected therewith and to make related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -1177,19 +1179,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (i) is in compliance with the requirements of this Act; and
 
-(ii) is conducted in accordance with its standards, policies and procedures referred to in paragraph (
-
-c
-
-);
+(ii) is conducted in accordance with its standards, policies and procedures referred to in paragraph (c);
 
 (f) ensure that if any human tissue under its supervision and control is to be exported or otherwise removed from Singapore to a place outside Singapore, the export or removal is carried out in accordance with prescribed requirements, including but not limited to requirements in relation to consent from the donor;
 
-(g) ensure that if any human tissue is to be removed from its supervision and control in circumstances other than in paragraph (
-
-f
-
-), the removal is carried out in accordance with prescribed requirements, including but not limited to requirements in relation to approval for the removal of individually‑identifiable tissue from an institutional review board and scientific endorsement by experts on the merits of the research for which the tissue rendered non‑identifiable within the meaning of section 27(3) are removed; and
+(g) ensure that if any human tissue is to be removed from its supervision and control in circumstances other than in paragraph (f), the removal is carried out in accordance with prescribed requirements, including but not limited to requirements in relation to approval for the removal of individually‑identifiable tissue from an institutional review board and scientific endorsement by experts on the merits of the research for which the tissue rendered non‑identifiable within the meaning of section 27(3) are removed; and
 
 (h) perform such other functions and duties as may be prescribed by the Minister.
 
@@ -1201,11 +1195,7 @@ f
 
 (c) such other matters as may be prescribed.
 
-(4) The designation of a principal person in charge by a tissue bank under subsection (2)(
-
-b
-
-) does not absolve or relieve the tissue bank of any of its obligations or duties under this Act.
+(4) The designation of a principal person in charge by a tissue bank under subsection (2)(b) does not absolve or relieve the tissue bank of any of its obligations or duties under this Act.
 
 (5) To avoid doubt, the delegation of any obligation or duty under this Act to another person or service provider under a contract or other arrangement does not absolve or relieve the tissue bank of any of its obligations or duties under this Act.
 
@@ -1225,11 +1215,7 @@ b
 
 (2) A tissue bank must notify the Director —
 
-(a) of any change in the information submitted under subsection (1)(
-
-a
-
-), within 30 days after the occurrence of the change or such longer period as the Director may allow in any particular case; and
+(a) of any change in the information submitted under subsection (1)(a), within 30 days after the occurrence of the change or such longer period as the Director may allow in any particular case; and
 
 (b) of its intention to cease operating as a tissue bank not less than 30 days before the cessation of operation or such shorter period as the Director may allow in any particular case.
 
@@ -1277,15 +1263,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (b) the intended use is in accordance with any conditions or restrictions specified as part of the appropriate consent; and
 
-(c) the recipient is informed of the requirements referred to in paragraphs (
-
-a
-
-) and (
-
-b
-
-).
+(c) the recipient is informed of the requirements referred to in paragraphs (a) and (b).
 
 (6) No person may use any human tissue in research unless that person is reasonably satisfied that —
 
@@ -1323,47 +1301,11 @@ for any purpose other than research unless that person is reasonably satisfied t
 
 (a) by means of coercion or intimidation, compels another person against that person’s will to allow his or her tissue to be removed from his or her body;
 
-(b) by means of coercion or intimidation, compels another person (
-
-A
-
-) against
-
-A
-
-’s will to give
-
-A
-
-’s consent or to refrain from withdrawing
-
-A
-
-’s consent for the removal of tissue from the body of another person (
-
-B
-
-);
+(b) by means of coercion or intimidation, compels another person (A) againstA’s will to giveA’s consent or to refrain from withdrawingA’s consent for the removal of tissue from the body of another person (B);
 
 (c) by means of deception or misrepresentation, causes another person to allow or continue to allow his or her tissue to be removed from his or her body; or
 
-(d) by means of deception or misrepresentation, causes another person (
-
-A
-
-) to give
-
-A
-
-’s consent or to refrain from withdrawing
-
-A
-
-’s consent for the removal of tissue from the body of another person (
-
-B
-
-),
+(d) by means of deception or misrepresentation, causes another person (A) to giveA’s consent or to refrain from withdrawingA’s consent for the removal of tissue from the body of another person (B),
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
 
@@ -2148,9 +2090,7 @@ Research, studies and matters excluded from definition of human biomedical resea
 
 (b) which involve no more than minimal risk to the research subject.
 
-3\. National public health research as defined in and conducted in accordance with section 59A of the Infectious Diseases Act (Cap. 137).
-
-3. 
+3. National public health research as defined in and conducted in accordance with section 59A of the Infectious Diseases Act (Cap. 137).
 
 [S 334/2019 wef 26/04/2019]
 
@@ -2170,13 +2110,11 @@ Prohibited human biomedical research
 
 1\. Human biomedical research involving the development of human-animal combination embryos referred to in paragraph 2(a)(i) or (iii) of the Fourth Schedule beyond 14 days or the appearance of the primitive streak, whichever is the earlier.
 
-2\. Human biomedical research involving the implantation —
+2. Human biomedical research involving the implantation —
 
-2.—(a) of a human‑animal combination embryo mentioned in paragraph 2(a)(i) or (iii) of the Fourth Schedule into the uterus of an animal; or
+(a) of a human‑animal combination embryo mentioned in paragraph 2(a)(i) or (iii) of the Fourth Schedule into the uterus of an animal; or
 
-(b)
-
-of a human‑animal combination embryo into the uterus of a human.
+(b) of a human‑animal combination embryo into the uterus of a human.
 
 [S 623/2017 wef 02/11/2017]
 
@@ -2339,7 +2277,13 @@ APPROPRIATE CONSENT FOR emergency RESEARCH
 
 [S 623/2017 wef 02/11/2017]
 
-(h) provision is made for a medical practitioner who is registered under the Medical Registration Act (Cap. 174) as a specialist in the specialty relating to the research and who is not involved in the research as a researcher or supervisor to certify, prior to the enrolment of the research subject to the best of the specialist’s knowledge that sub‑paragraphs (a) to (e) have been complied with.
+(h) provision is made for any person as follows, or combination of such persons, to certify to the best of that person’s or combination of persons’ knowledge that sub‑paragraphs (a) and (e) have been complied with:
+
+(i) a medical practitioner who is registered under the Medical Registration Act (Cap. 174) as a specialist in the specialty relating to the research and who is not involved in the research as a researcher or supervisor;
+
+(ii) a person approved by the Director by name, or holding the office or designation or falling within the description approved by the Director.
+
+[S 701/2019 wef 01/11/2019]
 
 5\. In paragraph 4, “emergency research” means human biomedical research where life‑threatening emergency situations may arise such that appropriate consent may not be obtained before the research subject is subjected to any intervention or after any individually‑identifiable biological material is obtained from his or her body, or any of his or her individually‑identifiable health information is used.
 
