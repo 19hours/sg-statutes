@@ -184,7 +184,9 @@ PRELIMINARY
 
 (c) in the case of a Family Court or a Youth Court, a judicial officer as defined in the Family Justice Act 2014 (Act 27 of 2014);
 
-(d) in the case of a Small Claims Tribunal, a Referee as defined in the Small Claims Tribunals Act (Cap. 308); or
+(d) in the case of the Small Claims Tribunals, a tribunal magistrate or the Registrar as defined in section 2(1) of the Small Claims Tribunals Act (Cap. 308); or
+
+[Act 33 of 2018 wef 01/11/2019]
 
 (e) in the case of an Employment Claims Tribunal, a tribunal magistrate as defined in the Employment Claims Act 2016;
 
