@@ -224,9 +224,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (4) Any subscription that is payable to the Federation under this section —
 
-(a) may be recovered by the Council by an action for a debt in any court of competent jurisdiction; and
+(a) may be recovered by the Council by an action for a debt in any court of competent jurisdiction.
 
-(b) shall for the purposes of the Small Claims Tribunals Act (Cap. 308) be deemed to be moneys payable under a contract for the provision of services and the Council may lodge a claim for the payment of such subscription with a Small Claims Tribunal in accordance with the provisions of that Act.
+[Act 33 of 2018 wef 01/11/2019]
+
+(b) [Deleted by Act 33 of 2018 wef 01/11/2019]
 
 ### Power to make regulations
 
@@ -261,3 +263,7 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of commencement|1 April 2002|
 |2.|**2002 Revised Edition—Singapore Business Federation Act**|
 ||Date of operation|31 July 2002|
+|3.|**Act 33 of 2018—Small Claims Tribunals (Amendment) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 23/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|1 November 2019|
