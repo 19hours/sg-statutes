@@ -1436,7 +1436,9 @@ Road Traffic Act [Cap. 276]
 
 ...
 
-Sections 66(1) and 96(1).
+Sections 64(2) and (2A), 65(2) and (3) and 96(1).
+
+Section 66(1) (as in force immediately before 1 November 2019).
 
 Secondhand Dealers Act [Cap. 288 of the 1985 Revised Edition]
 
@@ -1491,6 +1493,8 @@ Women’s Charter [Cap. 353]
 ...
 
 Sections 35 to 40 and the whole of Part X.
+
+[S 751/2019 wef 13/11/2019]
 
 [S 528/2019 wef 01/08/2019]
 
@@ -2110,3 +2114,5 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|1 January 2019|
 |44.|**G.N. No. S 528/2019—Registration of Criminals Act (Amendment of First Schedule) Order 2019**|
 ||Date of commencement|1 August 2019|
+|45.|**G.N. No. S 751/2019—Registration of Criminals Act (Amendment of First Schedule) (No. 2) Order 2019**|
+||Date of commencement|13 November 2019|
