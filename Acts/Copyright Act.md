@@ -394,11 +394,17 @@
 
 [**Division 6  Border Enforcement Measures**](#Division-6--Border-Enforcement-Measures)
 
+[**Subdivision 1 Preliminary provisions**](#Subdivision-1-Preliminary-provisions)
+
 - [140A Interpretation of this Division and Division 7](#Interpretation-of-this-Division-and-Division-7)
 
 - [140AA Delegation of Director-General’s powers](#Delegation-of-Director-General’s-powers)
 
-- [140B Restriction of importation of copies of works, etc.](#Restriction-of-importation-of-copies-of-works-etc)
+- [140AB Fees](#Fees)
+
+[**Subdivision 2 Seizure of copies on request**](#Subdivision-2-Seizure-of-copies-on-request)
+
+- [140B Restriction of importation or exportation of copies of works, etc.](#Restriction-of-importation-or-exportation-of-copies-of-works-etc)
 
 - [140C Security for liability or expense of seizure, storage and disposal](#Security-for-liability-or-expense-of-seizure-storage-and-disposal)
 
@@ -408,13 +414,13 @@
 
 - [140EA Persons bound to give information or produce documents](#Persons-bound-to-give-information-or-produce-documents)
 
-- [140EB Information on import](#Information-on-import)
+- [140EB Information on import or export](#Information-on-import-or-export)
 
 - [140F Inspection, release, etc., of seized copies](#Inspection-release-etc-of-seized-copies)
 
 - [140G Forfeiture of seized copies by consent](#Forfeiture-of-seized-copies-by-consent)
 
-- [140H Compulsory release of seized copies to importer](#Compulsory-release-of-seized-copies-to-importer)
+- [140H Compulsory release of seized copies to importer or exporter](#Compulsory-release-of-seized-copies-to-importer-or-exporter)
 
 - [140I Provision relating to actions for infringement of copyright](#Provision-relating-to-actions-for-infringement-of-copyright)
 
@@ -426,7 +432,31 @@
 
 - [140L Insufficient security](#Insufficient-security)
 
-- [140LA Detention of infringing copies](#Detention-of-infringing-copies)
+[**Subdivision 3 Ex-officio seizure of copies**](#Subdivision-3-Ex-officio-seizure-of-copies)
+
+- [140LA Seizure and inspection of infringing copies](#Seizure-and-inspection-of-infringing-copies)
+
+- [140LB Requirements for continued detention](#Requirements-for-continued-detention)
+
+- [140LC Notice to take action](#Notice-to-take-action)
+
+- [140LD Persons bound to give information or produce documents](#Persons-bound-to-give-information-or-produce-documents)
+
+- [140LE Information on import or export](#Information-on-import-or-export)
+
+- [140LF Forfeiture of seized copies by consent](#Forfeiture-of-seized-copies-by-consent)
+
+- [140LG Compulsory release of seized copies to dealer](#Compulsory-release-of-seized-copies-to-dealer)
+
+- [140LH Provisions relating to actions for infringement of copyright](#Provisions-relating-to-actions-for-infringement-of-copyright)
+
+- [140LI Compensation for failure to take action](#Compensation-for-failure-to-take-action)
+
+- [140LJ Retention of control of seized copies](#Retention-of-control-of-seized-copies)
+
+- [140LK Disposal of seized copies](#Disposal-of-seized-copies)
+
+- [140LL Insufficient security](#Insufficient-security)
 
 [**Division 7  Powers of Search**](#Division-7--Powers-of-Search)
 
@@ -4717,6 +4747,12 @@ Division 6 —
 
 Border Enforcement Measures
 
+Subdivision (1) —
+
+Preliminary provisions
+
+[Act 34 of 2018 wef 21/11/2019]
+
 ### Interpretation of this Division and Division 7
 
 140A\. In this Division and Division 7, unless the context otherwise requires —
@@ -4747,11 +4783,23 @@ Border Enforcement Measures
 
 “master” has the same meaning as in the Regulation of Imports and Exports Act (Cap. 272A);
 
-“objector”, in relation to particular seized copies, means the person who gave the notice under section 140B(1) as a result of the giving of which the copies were seized;
+[Deleted by Act 34 of 2018 wef 21/11/2019]
 
 “owner”, in relation to the copyright in copyright material, includes an exclusive licensee of the copyright in the material;
 
 “pilot of an aircraft” has the same meaning as in the Regulation of Imports and Exports Act;
+
+“requestor”, in relation to particular seized copies, means the person who gave the written notice under section 140B(1) as a result of the giving of which the copies were seized;
+
+[Act 34 of 2018 wef 21/11/2019]
+
+“retention period”, in relation to particular seized copies, means —
+
+(a) the period specified in the notice given under section 140E(2) in respect of those copies; or
+
+(b) if that period has been extended under section 140E(6), that period as so extended;
+
+[Act 34 of 2018 wef 21/11/2019]
 
 “seized copies” means copies seized under section 140B(7);
 
@@ -4775,7 +4823,27 @@ Border Enforcement Measures
 
 [Act 34 of 2018 wef 10/10/2018]
 
-### Restriction of importation of copies of works, etc.
+### Fees
+
+140AB\.—(1) The Minister charged with the responsibility for customs duties may make regulations to prescribe the fees payable to the Director-General in connection with the administration of this Division and Division 7.
+
+(2) Without limiting subsection (1), regulations may be made to prescribe fees for the following purposes:
+
+(a) for the escort of a conveyance conveying copies of copyright material seized under section 140B(7) or 140LA;
+
+(b) for the attendance of an authorised officer or a senior authorised officer in connection with the inspection or destruction of such seized copies;
+
+(c) for the attendance of an authorised officer or a senior authorised officer in connection with any other act or service under this Division or Division 7.
+
+[Act 34 of 2018 wef 21/11/2019]
+
+Subdivision (2) —
+
+Seizure of copies on request
+
+[Act 34 of 2018 wef 21/11/2019]
+
+### Restriction of importation or exportation of copies of works, etc.
 
 140B\.—(1) A person who is the owner of the copyright in any copyright material or a licensee thereof may give the Director-General a written notice —
 
@@ -4785,27 +4853,41 @@ Border Enforcement Measures
 
 (ii) a licensee thereof having the power to give such a notice;
 
-(b) stating that copies of the copyright material which are infringing copies are expected to be imported;
+(b) stating that copies of the copyright material which are infringing copies are expected to be imported or exported;
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (c) providing sufficient information —
 
 (i) to identify the copies of the copyright material;
 
-(ii) to enable the Director-General to ascertain the time when and place where the copies are expected to be imported; and
+(ii) to enable the Director-General to ascertain the time when and place where the copies are expected to be imported or exported; and
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (iii) to satisfy the Director-General that the copies are infringing copies; and
 
-(d) stating that he objects to such importation.
+(d) requesting the Director-General to seize the copies.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [52/2004]
 
-(2) A notice given under subsection (1) shall be supported by such documents and information as may be prescribed in regulations.
+(2) A notice under subsection (1) must be —
 
-[6/98]
+(a) in the form determined by the Director-General, and supported by such documents and information as the Director-General may require; and
 
-(3) Subject to subsection (4), this section shall apply to copies of copyright material made wholly or partly outside Singapore the making of which was carried out without the consent of the owner of the copyright.
+(b) accompanied by the fee prescribed under section 140AB.
 
-[6/98]
+[Act 34 of 2018 wef 21/11/2019]
+
+(3) Subject to subsection (4), this section applies to copies of copyright material —
+
+(a) made wholly or partly outside Singapore the making of which was carried out without the consent of the owner of the copyright; or
+
+(b) made in Singapore the making of which constituted an infringement of copyright.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (4) This section shall not apply to copies of copyright material which are goods in transit.
 
@@ -4813,7 +4895,9 @@ Border Enforcement Measures
 
 (5) Unless it is revoked under subsection (6), a notice under subsection (1) shall remain in force until —
 
-(a) the end of the period of 60 days commencing on the day on which the notice was given; or
+(a) the 59th day after the day on which the notice was given; or
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (b) the end of the period for which the copyright in the copyright material to which the notice relates is to subsist,
 
@@ -4827,33 +4911,29 @@ whichever is the earlier.
 
 (7) If —
 
-(a) a notice has been given under this section in respect of copyright material;
+(a) a notice has been given under this section in respect of copyright material that complies with subsection (2);
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (b) the notice has not lapsed or been revoked; and
 
-(c) a person imports copies of the copyright material to which this section applies for the purpose of —
+(c) a person imports or proposes to export copies of the copyright material to which this section applies,
 
-(i) selling, letting for hire, or by way of trade offering or exposing for sale or hire, the copies;
-
-(ii) distributing the copies for the purpose of trade;
-
-(iii) distributing the copies for any other purpose to an extent that will affect prejudicially the owner of the copyright in the copyright material; or
-
-(iv) by way of trade exhibiting the copies in public,
+[Act 34 of 2018 wef 21/11/2019]
 
 an authorised officer may seize the copies.
 
 [6/98]
 
-(8) The Minister may make regulations to provide for —
+(8) The Minister may make regulations that are necessary or convenient to be prescribed for carrying out or giving effect to this Subdivision, and in particular to provide —
 
-(a) the forms of notices under this section;
+(a) for the times at which, and the manner in which, notices are to be given;
 
-(b) the times at which, and the manner in which, notices are to be given; and
+(b) for the giving of information and evidence to the Director-General; and
 
-(c) the giving of information and evidence to the Director-General.
+(c) that an authorised officer may refuse to seize copies of any copyright material because of non-compliance with any direction of the Director-General or any such regulation.
 
-[6/98]
+[Act 34 of 2018 wef 21/11/2019]
 
 [Aust. 1968, s. 135]
 
@@ -4861,37 +4941,45 @@ an authorised officer may seize the copies.
 
 140C\. An authorised officer may refuse to seize copies under section 140B(7) unless —
 
-(a) the objector has deposited with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to reimburse the Government for any liability or reasonable expense it is likely to incur in relation to the seizure, storage and disposal of the copies, and pay such compensation as may be ordered by the court under section 140I(7) or 140IA(2); or
+(a) the requestor has deposited with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to reimburse the Government for any liability or reasonable expense it is likely to incur in relation to the seizure, storage and disposal of the copies, and pay such compensation as may be ordered by the court under section 140I(7) or 140IA(2); or
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [Act 34 of 2018 wef 10/10/2018]
 
-(b) the objector has given security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense.
+(b) the requestor has given security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense.
+
+[Act 34 of 2018 wef 21/11/2019]
+
+[Act 34 of 2018 wef 10/10/2018]
 
 [6/98; 38/99]
 
 [Aust. 1968, s. 135AA]
 
-[Act 34 of 2018 wef 10/10/2018]
-
 ### Secure storage of seized copies
 
-140D\. Seized copies shall be taken to such secure place as the Director-General directs.
+140D\. At the Director-General’s direction, seized copies must be taken to a secure place the Director-General directs, either by the person in possession, custody or control of those copies immediately before the seizure or the requestor, whoever the Director-General considers appropriate.
 
-[6/98]
-
-[Aust. 1968, s. 135AB]
+[Act 34 of 2018 wef 21/11/2019]
 
 ### Notice of seizure
 
-140E\.—(1) As soon as is practicable after copies are seized under section 140B(7), the Director-General shall give to the importer and the objector, either personally or by post, a written notice identifying the copies and stating that the identified copies have been seized.
+140E\.—(1) As soon as is practicable after copies are seized under section 140B(7), the Director-General shall give to the importer or exporter (as the case may be), and the requestor, personally, by post or (with the prior consent of the addressee) by email, a written notice identifying the copies and stating that the identified copies have been seized.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [6/98]
 
-(2) A notice under subsection (1) shall state that the copies will be released to the importer unless —
+(2) A notice under subsection (1) shall state that the copies will be released to the importer or exporter unless —
 
-(a) an action for infringement of copyright in respect of the copies is instituted by the objector within a specified period from the day specified in the notice; and
+(a) an action for infringement of copyright in respect of the copies is instituted by the requestor within a specified period after the day specified in the notice; and
 
-(b) the objector gives written notice to the Director-General within that period stating that the action for infringement of copyright has been instituted.
+[Act 34 of 2018 wef 21/11/2019]
+
+(b) the requestor gives written notice to the Director-General within that period stating that the action for infringement of copyright has been instituted.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [6/98]
 
@@ -4903,7 +4991,9 @@ an authorised officer may seize the copies.
 
 [6/98]
 
-(5) The objector may, by written notice given to the Director-General before the end of the period specified in a notice for the purposes of subsection (2)(a) (the retention period), request that the period be extended.
+(5) The requestor may, by written notice given to the Director-General before the end of the period specified in a notice for the purposes of subsection (2)(a) (the initial period), request that the period be extended.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [6/98]
 
@@ -4913,11 +5003,15 @@ an authorised officer may seize the copies.
 
 (b) the Director-General is satisfied that it is reasonable that the request be granted,
 
-the Director-General may extend the retention period by such period as is prescribed.
+the Director-General may extend the initial period by such period as is prescribed.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [6/98]
 
-(7) A decision on a request made in accordance with subsection (5) shall be made within 2 working days after the request is made, but such a decision cannot be made after the end of the retention period to which the request relates.
+(7) A decision on a request made in accordance with subsection (5) shall be made within 2 working days after the request is made, but such a decision cannot be made after the end of the initial period to which the request relates.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [6/98]
 
@@ -4931,7 +5025,9 @@ the Director-General may extend the retention period by such period as is prescr
 
 (a) to enable the Director-General to satisfy a request under section 140EB (whether or not such a request has actually been received);
 
-(b) to enable any action to be taken under this Division in relation to future shipments of goods; and
+(b) to enable any action to be taken under this Subdivision or Subdivision (3) in relation to future shipments of goods; and
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (c) for a statistical or research purpose.
 
@@ -4953,27 +5049,37 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 34 of 2018 wef 10/10/2018]
 
-### Information on import
+### Information on import or export
 
-140EB\.—(1) After copies of copyright material have been seized under section 140B(7), the Director‑General may, upon the request of the objector, and if the Director‑General is satisfied that the information is necessary to enable the objector to institute an action for infringement of copyright, give the objector the name and contact details of any person connected with the import of the seized copies.
+140EB\.—(1) After copies of copyright material have been seized under section 140B(7), the Director‑General may, upon the request of the requestor, and if the Director‑General is satisfied that the information is necessary to enable the requestor to institute an action for infringement of copyright, give the requestor the name and contact details of any person connected with the import or proposed export (as the case may be) of the seized copies.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (2) Subsection (1) applies despite any duty of confidentiality imposed by the common law on the Director‑General or a person to whom the Director‑General has delegated the power under that subsection.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [Act 34 of 2018 wef 10/10/2018]
 
 ### Inspection, release, etc., of seized copies
 
-140F\.—(1) The Director-General may permit the objector or the importer to inspect the seized copies.
+140F\.—(1) The Director-General may permit the requestor or the importer or exporter (as the case may be) to inspect the seized copies.
 
 [6/98]
 
-(2) If the objector gives the Director-General the requisite undertakings, the Director-General may permit the objector to remove one sample of the seized copies from the custody of the Director-General for inspection by the objector.
+[Act 34 of 2018 wef 21/11/2019]
+
+(2) If the requestor gives the Director-General the requisite undertakings, the Director-General may permit the requestor to remove a sample of the seized copies from the custody of the Director-General for inspection by the requestor.
 
 [6/98]
 
-(3) If the importer gives the Director-General the requisite undertakings, the Director-General may permit the importer to remove one sample of the seized copies from the custody of the Director-General for inspection by the importer.
+[Act 34 of 2018 wef 21/11/2019]
+
+(3) If the importer or exporter (as the case may be) gives the Director-General the requisite undertakings, the Director-General may permit the importer or exporter to remove a sample of the seized copies from the custody of the Director-General for inspection by the importer or exporter.
 
 [6/98]
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (4) The requisite undertakings are undertakings in writing that the person giving the undertaking will —
 
@@ -4983,21 +5089,25 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [6/98]
 
-(5) If the Director-General permits inspection of the seized copies, or the removal of a sample copy, by the objector in accordance with this section, the Director-General is not liable to the importer for any loss or damage suffered by the importer arising out of —
+(5) If the Director-General permits inspection of the seized copies, or the removal of a sample copy, by the requestor in accordance with this section, the Director-General is not liable to the importer or exporter for any loss or damage suffered by the importer or exporter arising out of —
 
 (a) damage to any of the seized copies incurred during that inspection; or
 
-(b) anything done by the objector or any other person to, or in relation to, a sample copy removed from the custody of the Director-General or any use made by the objector of such a sample copy.
+(b) anything done by the requestor or any other person to, or in relation to, a sample copy removed from the custody of the Director-General or any use made by the requestor of such a sample copy.
 
 [6/98]
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [Aust. 1968, s. 135AD]
 
 ### Forfeiture of seized copies by consent
 
-140G\.—(1) Subject to subsection (2), the importer may, by written notice and the giving of the prescribed written undertakings to the Director-General, consent to the seized copies being forfeited to the Government.
+140G\.—(1) Subject to subsection (2), the importer or exporter (as the case may be) may, by written notice and the giving of the prescribed written undertakings to the Director-General, consent to the seized copies being forfeited to the Government.
 
 [6/98]
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [Act 34 of 2018 wef 10/10/2018]
 
@@ -5005,7 +5115,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [6/98]
 
-(3) If the importer satisfies the requirements of subsection (1), the copies are forfeited to the Government and shall be disposed of —
+(3) If the importer or exporter satisfies the requirements of subsection (1), the copies are forfeited to the Government and shall be disposed of —
 
 (a) in the manner prescribed by the regulations; or
 
@@ -5013,13 +5123,15 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [6/98]
 
-[Aust. 1968, s. 135AE]
+[Act 34 of 2018 wef 21/11/2019]
 
 [Act 34 of 2018 wef 10/10/2018]
 
-### Compulsory release of seized copies to importer
+[Aust. 1968, s. 135AE]
 
-140H\.—(1) The Director-General shall release seized copies (not being copies forfeited to the Government under section 140G) to the importer on the expiration of the retention period for the copies if the objector has not, before the expiration of that period —
+### Compulsory release of seized copies to importer or exporter
+
+140H\.—(1) The Director-General shall release seized copies (not being copies forfeited to the Government under section 140G) to the importer or exporter (as the case may be) as soon as possible after the expiration of the retention period for the copies if the requestor has not, before the expiration of that period —
 
 (a) instituted an action for infringement of the relevant copyright in respect of the copies; and
 
@@ -5027,39 +5139,43 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [6/98]
 
-(2) For the purpose of subsection (1), the retention period for seized copies is —
+[Act 34 of 2018 wef 21/11/2019]
 
-(a) the period specified in a notice given under section 140E in respect of the copies; or
-
-(b) if that period has been extended under section 140E, that period as so extended.
-
-[6/98]
+(2) [Deleted by Act 34 of 2018 wef 21/11/2019]
 
 (3) If —
 
 (a) an action for infringement of copyright has been instituted in respect of seized copies; and
 
-(b) at the end of the period of 3 weeks commencing on the day on which the action was instituted, there is not in force an order of the court in which the action was instituted preventing the release of the copies,
+(b) on the 22nd day after the day on which the action was instituted, there is not in force an order of the court in which the action was instituted preventing the release of the copies,
 
-the Director-General shall release the copies to the importer.
+the Director-General shall release the copies to the importer or the exporter (as the case may be) as soon as possible after the firstmentioned day.
+
+[6/98]
+
+[Act 34 of 2018 wef 21/11/2019]
+
+(4) If the requestor gives written notice to the Director-General stating that he consents to the release of the seized copies, the Director-General shall release the copies to the importer or the exporter (as the case may be) as soon as possible.
 
 [6/98]
 
-(4) If the objector gives written notice to the Director-General stating that he consents to the release of the seized copies, the Director-General shall release the copies to the importer.
-
-[6/98]
+[Act 34 of 2018 wef 21/11/2019]
 
 (5) This section shall have effect subject to section 140J.
 
 [6/98]
 
+[Act 34 of 2018 wef 21/11/2019]
+
 [Aust. 1968, s. 135AF]
 
 ### Provision relating to actions for infringement of copyright
 
-140I\.—(1) In this section and section 140IA, “infringement action” means an action for an infringement of copyright constituted by the importation of seized copies.
+140I\.—(1) In this section and section 140IA, “infringement action” means an action for an infringement of copyright constituted by the importation of seized copies or by the making of seized copies.
 
 [6/98; 38/99]
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (2) The court in which an infringement action is pending may, on the application of a person having a sufficient interest in the subject-matter of the action, allow the person to be joined as a defendant to the action.
 
@@ -5071,9 +5187,13 @@ the Director-General shall release the copies to the importer.
 
 (4) In addition to any relief that may be granted apart from this section, the court may —
 
-(a) at any time, order that the seized copies be released to the importer subject to such conditions, if any, as the court thinks fit;
+(a) at any time, order that the seized copies be released to the importer or exporter (as the case may be) subject to such conditions, if any, as the court thinks fit;
 
-(b) order that the seized copies not be released to the importer before the end of a specified period; or
+[Act 34 of 2018 wef 21/11/2019]
+
+(b) order that the seized copies not be released to the importer or exporter (as the case may be) before the end of a specified period; or
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (c) order that the goods be forfeited to the Government.
 
@@ -5089,33 +5209,35 @@ the Director-General shall release the copies to the importer.
 
 (7) If —
 
-(a) the action is dismissed or discontinued, or the court decides that the relevant copyright was not infringed by the importation of the seized copies; and
+(a) the action is dismissed or discontinued, or the court decides that the relevant copyright was not infringed by the importation or making of the seized copies; and
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (b) a defendant to the infringement action satisfies the court that he has suffered loss or damage as a result of the seizure of the copies,
 
-the court may order the objector to pay compensation in such amount as the court thinks fit to that defendant.
+the court may order the requestor to pay compensation in such amount as the court thinks fit to that defendant.
 
 [6/98; 38/99]
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [Aust. 1968, s. 135AG]
 
 ### Compensation for failure to take action
 
-140IA\.—(1) Where copies have been seized pursuant to a notice given under section 140B and the objector concerned fails to take infringement action within the retention period for the copies, a person aggrieved by such seizure may apply to the court for an order of compensation against the objector.
+140IA\.—(1) Where copies have been seized pursuant to a notice given under section 140B and the requestor concerned fails to take infringement action within the retention period for the copies, a person aggrieved by such seizure may apply to the court for an order of compensation against the requestor.
 
 [38/99]
 
-(2) Where the court is satisfied that the applicant had suffered loss or damage as a result of the seizure of the copies, the court may order the objector to pay compensation in such amount as the court thinks fit to the applicant.
+[Act 34 of 2018 wef 21/11/2019]
+
+(2) Where the court is satisfied that the applicant had suffered loss or damage as a result of the seizure of the copies, the court may order the requestor to pay compensation in such amount as the court thinks fit to the applicant.
 
 [38/99]
 
-(3) For the purposes of subsection (1), the retention period for seized copies is —
+[Act 34 of 2018 wef 21/11/2019]
 
-(a) the period specified in a notice given under section 140E in respect of the copies; and
-
-(b) if that period has been extended under section 140E, that period as so extended.
-
-[38/99]
+(3) [Deleted by Act 34 of 2018 wef 21/11/2019]
 
 [Aust. 1968, s. 135AG (7)]
 
@@ -5139,9 +5261,13 @@ the court may order the objector to pay compensation in such amount as the court
 
 (2) If —
 
-(a) the Director‑General gives to the importer a written notice of the release of seized copies; and
+(a) the Director‑General gives to the importer or exporter a written notice of the release of seized copies; and
 
-(b) the importer fails to take custody of the seized copies within the period specified in the notice,
+[Act 34 of 2018 wef 21/11/2019]
+
+(b) the importer or exporter fails to take custody of the seized copies within the period specified in the notice,
+
+[Act 34 of 2018 wef 21/11/2019]
 
 the Director-General may dispose of the copies —
 
@@ -5155,159 +5281,225 @@ the Director-General may dispose of the copies —
 
 ### Insufficient security
 
-140L\.—(1) If the reasonable expenses incurred by the Director-General in relation to any action taken by the Director-General under this Division, or taken in accordance with an order of a court under this Division exceed the amount deposited, or the amount of the security given, under section 140C, the amount of the excess is a debt due to the Government.
+140L\.—(1) If the reasonable expenses incurred by the Director-General in relation to any action taken by the Director-General under this Subdivision, or taken in accordance with an order of a court under this Subdivision exceed the amount deposited, or the amount of the security given, under section 140C, the amount of the excess is a debt due to the Government.
 
 [6/98]
 
-(2) The debt created by subsection (1) is due by the objector, or, if there are 2 or more objectors, by the objectors jointly and severally.
+[Act 34 of 2018 wef 21/11/2019]
+
+(2) The debt created by subsection (1) is due by the requestor, or, if there are 2 or more requestors, by the requestors jointly and severally.
 
 [6/98]
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [Aust. 1968, s. 135AJ]
 
-### Detention of infringing copies
+Subdivision (3) —
 
-140LA\.—(1) Notwithstanding section 140B(4), any authorised officer may —
+Ex-officio seizure of copies
 
-(a) detain any copies of copyright material —
+### Seizure and inspection of infringing copies
+
+140LA\.—(1) Despite section 140B(7), an authorised officer may —
+
+(a) examine any copies of copyright material to which this subsection applies, including goods in transit; or
+
+(b) seize any copies of copyright material to which this subsection applies —
 
 (i) that are imported into, or that are to be exported from, Singapore; and
 
-(ii) that are not goods in transit, unless the copies are consigned to any person with a commercial or physical presence in Singapore; or
+(ii) that are not goods in transit, unless they are consigned to a person with a commercial or physical presence in Singapore.
 
-(b) examine any copies of copyright material, including goods in transit,
+(2) Subsection (1) applies to copies of copyright material that the authorised officer reasonably suspects are infringing copies of the copyright material.
 
-which he reasonably suspects are infringing copies of any copyright material.
+(3) As soon as practicable after the copies of the copyright material are seized under subsection (1)(b), the Director-General must give personally, by post or (with the prior consent of the addressee) by email, a written notice to —
 
-[52/2004]
+(a) the importer, exporter or consignee (as the case may be) of the seized copies (called in this Subdivision the dealer); and
 
-(2) As soon as practicable after the copies of copyright material are detained under subsection (1)(a), the Director-General shall give —
+(b) the owner of the copyright in the copyright material.
 
-(a) to the importer, exporter or consignee, as the case may be, of the detained copies; and
+(4) The written notice in subsection (3) must —
 
-(b) to the owner of the copyright in the copyright material,
+(a) identify the copies seized; and
 
-a written notice identifying the copies, stating that they have been detained and setting out the matters referred to in subsection (3).
+(b) set out the rights of the dealer in section 140F (as applied by subsection (5)), and the requirements in section 140LB.
 
-[52/2004]
+(5) Section 140F applies in relation to the seized copies as it applies in relation to copies of copyright material seized under section 140B(7), with the following modifications:
 
-(2A) At any time after copies of copyright material have been detained under subsection (1)(a), an authorised officer or a senior authorised officer who has reasonable cause to believe that a person has any information or document that the officer considers is relevant for any of the purposes in subsection (2B), may require that person to provide to the officer that information or document at a time and place specified by the officer.
+(a) replace a reference to the requestor with a reference to the owner of the copyright in the copyright material;
 
-[Act 34 of 2018 wef 10/10/2018]
+(b) replace a reference to the importer or exporter with a reference to the dealer.
 
-(2B) The purposes mentioned in subsection (2A) are —
+(6) At the Director-General’s direction, seized copies must be taken to a secure place the Director-General directs by such of the following as the Director-General considers appropriate:
 
-(a) to enable the Director‑General to satisfy a request under subsection (2H) (whether or not such a request has actually been received);
+(a) the person in possession, custody or control of those copies immediately before the seizure;
 
-(b) to enable any action to be taken under this Division in relation to future shipments of goods; and
+(b) the owner of the copyright material (but only if the owner has satisfied section 140LB(1)(a) and (b)).
+
+[Act 34 of 2018 wef 21/11/2019]
+
+### Requirements for continued detention
+
+140LB\.—(1) If the owner of the copyright in the copyright material wants the Director-General to continue to detain the seized copies of the copyright material so that the owner may institute an action for infringement of copyright in relation to them, the owner must, within the prescribed period after the date of the notice in section 140LA(3) —
+
+(a) give to the Director-General a written notice of this in the form determined by the Director-General, supported by such documents and information as the Director-General may require, and accompanied by the fee prescribed under section 140AB; and
+
+(b) either —
+
+(i) deposit with the Director-General a sum of money that, in the Director-General’s opinion, is sufficient for the purpose mentioned in subsection (2); or
+
+(ii) give security to the Director-General’s satisfaction for such purpose,
+
+unless the owner had earlier given such deposit or security to the Director-General and the deposit had not been forfeited or returned or the security is still effective.
+
+(2) The purpose in subsection (1) is the reimbursement to the Government of —
+
+(a) any liability or reasonable expense it is likely to incur in relation to the seizure, storage and disposal of the copies; and
+
+(b) the payment of such compensation as the court may order under section 140LI or section 140I(7) (as applied by section 140LH).
+
+(3) If subsection (1) is not satisfied, the Director-General must release the seized copies to the dealer.
+
+(4) The Minister may make regulations that are necessary or convenient to be prescribed for carrying out or giving effect to this Subdivision, and in particular to provide —
+
+(a) for the times at which, and the manner in which, notices are to be given;
+
+(b) for the giving of information and evidence to the Director-General; and
+
+(c) that the Director-General may release seized copies of any copyright material to the dealer concerned because of non-compliance with any direction of the Director-General or any such regulation.
+
+[Act 34 of 2018 wef 21/11/2019]
+
+### Notice to take action
+
+140LC\.—(1) If section 140LB(1)(a) and (b) has been satisfied by the owner of the copyright in the copyright material, the Director-General must, as soon as practicable, give to the owner and the dealer personally, by post or (with the prior consent of the addressee) by email, a written notice stating that the copies will be released to the dealer unless —
+
+(a) an action for infringement of copyright in relation to the copies is instituted by the owner within a prescribed period after the day specified in the notice; and
+
+(b) the owner gives written notice to the Director-General within the period in paragraph (a) stating that such action has been instituted.
+
+(2) Section 140E(4) to (7) applies in relation to a notice under subsection (1) as it applies in relation to a notice under section 140E(1), as if a reference to the requestor is a reference to the owner of the copyright in the copyright material.
+
+[Act 34 of 2018 wef 21/11/2019]
+
+### Persons bound to give information or produce documents
+
+140LD\.—(1) At any time after copies of copyright material have been seized under section 140LA, an authorised officer or a senior authorised officer who has reasonable cause to believe that a person has any information or document that the officer considers is relevant for any of the purposes in subsection (2) may require that person to provide to the officer that information or document at a time and place specified by the officer.
+
+(2) The purposes mentioned in subsection (1) are —
+
+(a) to enable the Director-General to satisfy a request under section 140LE (whether or not such a request has actually been received);
+
+(b) to enable any action to be taken under this Subdivision or Subdivision (2) in relation to future shipments of goods; and
 
 (c) for a statistical or research purpose.
 
-[Act 34 of 2018 wef 10/10/2018]
+(3) A person who —
 
-(2C) A person who —
-
-(a) without reasonable excuse, fails to comply with a requirement under subsection (2A); or
+(a) without reasonable excuse, fails to comply with a requirement under subsection (1); or
 
 (b) in purported compliance with such requirement, knowingly or recklessly provides any information or document that is false or misleading in a material particular,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
 
-[Act 34 of 2018 wef 10/10/2018]
+(4) A person is not excused from providing any information or document in compliance with a requirement under subsection (1) on the ground that it might tend to incriminate the person.
 
-(2D) A person is not excused from providing any information or document in compliance with a requirement under subsection (2A) on the ground that it might tend to incriminate the person.
+(5) Where the person claims, before providing any information or document pursuant to a requirement under subsection (1), that it might tend to incriminate the person, then the information or document is not admissible in evidence against the person in criminal proceedings other than proceedings for an offence under subsection (3).
 
-[Act 34 of 2018 wef 10/10/2018]
+(6) No information or document that is provided pursuant to a requirement under subsection (1) may be published, or communicated or disclosed to any person, except where and to the extent it is necessary for a purpose in subsection (2).
 
-(2E) Where the person claims, before providing any information or document pursuant to a requirement under subsection (2A), that it might tend to incriminate the person, then the information or document is not admissible in evidence against the person in criminal proceedings other than proceedings for an offence under subsection (2C).
+(7) A person who contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-[Act 34 of 2018 wef 10/10/2018]
+[Act 34 of 2018 wef 21/11/2019]
 
-(2F) No information or document that is provided pursuant to a requirement under subsection (2A) may be published, or communicated or disclosed to any person, except where and to the extent it is necessary for a purpose in subsection (2B).
+### Information on import or export
 
-[Act 34 of 2018 wef 10/10/2018]
+140LE\.—(1) After section 140LB(1)(a) and (b) has been satisfied by the owner of the copyright material, the Director-General may, upon the request of the owner, and if the Director-General is satisfied that the information is necessary to enable the owner to institute an infringement action, give the owner the name and contact details of any person connected with the import or proposed export (as the case may be) of the seized copies.
 
-(2G) A person who contravenes subsection (2F) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Subsection (1) applies despite any duty of confidentiality imposed by the common law on the Director-General or a person to whom the Director-General has delegated the power under that subsection.
 
-[Act 34 of 2018 wef 10/10/2018]
+[Act 34 of 2018 wef 21/11/2019]
 
-(2H) The Director-General may, upon the request of the owner of the copyright in the copyright material, and if the Director‑General is satisfied that the information is necessary to enable the owner to institute an action for infringement of the copyright, give the owner the name and contact details of any person connected with the import or proposed export (as the case may be) of the detained copies.
+### Forfeiture of seized copies by consent
 
-[Act 34 of 2018 wef 10/10/2018]
+140LF\.—(1) Subject to subsection (2), the dealer may, by written notice and the giving of the prescribed written undertakings to the Director-General, consent to the seized copies being forfeited to the Government.
 
-(2I) However, no disclosure under subsection (2H) is permitted unless the owner of the copyright in the copyright material to whom disclosure is to be made —
+(2) The notice must be given before any action for infringement of copyright in relation to the copies is instituted.
 
-(a) in the case of copies that are imported into Singapore and that are not goods in transit, has carried out the acts in subsection (3)(a)(i), (ii) and (iii); or
+(3) If the dealer satisfies the requirements of subsection (1), the copies are forfeited to the Government and must be disposed of —
 
-(b) in the case of copies that are to be exported from Singapore or copies that are goods in transit and consigned to a person with a commercial or physical presence in Singapore —
+(a) in the manner prescribed by regulations; or
 
-(i) satisfies the Director‑General that copyright subsists in the copyright material and that he is the owner of the copyright; and
+(b) if no manner of disposal is so prescribed, as the Director-General directs.
 
-(ii) has carried out the act mentioned in subsection (3)(b)(iii).
+[Act 34 of 2018 wef 21/11/2019]
 
-[Act 34 of 2018 wef 10/10/2018]
+### Compulsory release of seized copies to dealer
 
-(2J) Subsection (2H) applies despite any duty of confidentiality imposed by the common law on the Director‑General or a person to whom the Director‑General has delegated the power under that subsection.
+140LG\.—(1) The Director-General must release the seized copies (not being copies forfeited to the Government under section 140LF) to the dealer as soon as possible after the date of expiry of the period specified in the notice under section 140LC(1) (including any extension of that period under section 140E(6) as applied by section 140LC(2)), if the owner of the copyright in the copyright material has not, before that date —
 
-[Act 34 of 2018 wef 10/10/2018]
+(a) instituted an action for infringement of the copyright in respect of the copies; and
 
-(3) The detained copies of copyright material shall be released to the importer, exporter or consignee, as the case may be, of the copies, unless, within the prescribed period, the owner of the copyright in the copyright material —
+(b) given written notice to the Director-General stating that the action has been instituted.
 
-(a) in the case of copies that are imported into Singapore and that are not goods in transit —
+(2) If —
 
-(i) gives the Director-General the written notice referred to in section 140B(1);
+(a) an action for infringement of copyright has been instituted in respect of the seized copies; and
 
-(ii) submits to the Director-General the documents and information referred to in section 140B(2); and
+(b) on the 22nd day after the day on which the action was instituted, there is not in force an order of the court preventing the release of the copies,
 
-(iii) deposits with the Director-General the sum of money referred to in section 140C(a) or gives the security referred to in section 140C(b); or
+the Director-General must release the copies to the dealer as soon as possible after the firstmentioned day.
 
-(b) in the case of copies that are to be exported from Singapore or copies that are goods in transit and consigned to a person with a commercial or physical presence in Singapore —
+(3) If the owner of the copyright in the copyright material gives a written notice to the Director-General stating that the owner consents to the release of the seized copies, the Director-General must release the copies to the dealer as soon as possible.
 
-(i) institutes an action for the infringement of his copyright;
+[Act 34 of 2018 wef 21/11/2019]
 
-(ii) serves on the Director-General an order of the court authorising the further detention of the copies; and
+### Provisions relating to actions for infringement of copyright
 
-(iii) deposits with the Director-General a sum of money that, in the opinion of the Director-General, is sufficient to —
+140LH\. Section 140I applies in relation to an action for infringement of copyright constituted by the import of the copies seized under section 140LA or the making of the copies so seized, as it applies in relation to an action for infringement of copyright constituted by the import of the copies seized under section 140B(7) or the making of the copies so seized, with the following modifications:
 
-(A) reimburse the Government for any liability or reasonable expense it has and is likely to further incur in relation to the detention, storage and disposal of the copies; and
+(a) replace a reference to the requestor with a reference to the owner of the copyright in the copyright material;
 
-[Act 34 of 2018 wef 10/10/2018]
+(b) replace a reference to the importer or exporter with a reference to the dealer.
 
-(B) pay such compensation to any person who suffers loss or damage as a result of the detention of the copies as may be ordered by the court,
+[Act 34 of 2018 wef 21/11/2019]
 
-or gives security, to the satisfaction of the Director-General, for the reimbursement of the Government for any such liability or expense and the payment of such compensation.
+### Compensation for failure to take action
 
-[52/2004]
+140LI\.—(1) Where —
 
-(4) Every order of the court authorising the further detention of copies under subsection (3)(b)(ii) shall be subject to the condition that the owner of the copyright in the copyright material complies with subsection (3)(b)(iii) within the period prescribed under subsection (3).
+(a) copies of copyright material have been seized under section 140LA;
 
-[52/2004]
+(b) the copies continue to be detained because section 140LB(1)(a) and (b) has been satisfied; and
 
-(5) Where the court has made an order authorising the further detention of copies under subsection (3)(b)(ii) —
+(c) the owner fails to take infringement action within the period specified in the notice under section 140LC(1) (including any extension of that period under section 140E(6) as applied by section 140LC(2)),
 
-(a) the detained copies shall be taken to such secure place as the Director-General directs; and
+a person aggrieved by the seizure may apply to the court for an order of compensation against the owner.
 
-(b) sections 140F and 140G and 140I to 140L shall apply, with the necessary modifications, to the further detention of the copies, and for the purposes of such application —
+(2) Where the court is satisfied that the applicant has suffered loss or damage as a result of the seizure of the copies, the court may order the owner to pay to the applicant compensation of such amount as the court thinks fit.
 
-(i) any reference to the objector shall be read as a reference to the owner of the copyright in the copyright material;
+[Act 34 of 2018 wef 21/11/2019]
 
-(ii) any reference to the importer shall be read as a reference to the exporter or consignee, as the case may be, of the detained copies;
+### Retention of control of seized copies
 
-(iii) any reference to the seized copies shall be read as a reference to the detained copies;
+140LJ\. Despite section 140LG and any regulation made under section 140LB(4)(c), in a case in which no order has been made under section 140I(4) (as applied by section 140LH) in relation to the seized copies, the Director-General is not obliged to release or dispose of the copies if the Government is required or permitted, under any other law, to retain control of the copies.
 
-(iv) any reference to the seizure of copies shall be read as a reference to the detention or further detention of the copies;
+[Act 34 of 2018 wef 21/11/2019]
 
-(v) any reference to the import or importation of copies shall be read —
+### Disposal of seized copies
 
-(A) in the case of copies that are to be exported from Singapore, as a reference to the export of the copies; or
+140LK\. Section 140K applies in relation to copies of copyright material seized under section 140LA, as it applies in relation to copies of copyright material seized under section 140B(7), with a reference to the importer or exporter replaced with a reference to the dealer.
 
-(B) in the case of copies that are goods in transit and that are consigned to a person with a presence in Singapore, as a reference to the import, importation or export, of the copies by the consignee;
+[Act 34 of 2018 wef 21/11/2019]
 
-(vi) any reference to infringement action shall be read as a reference to an action for the infringement of the copyright in the copyright material under subsection (3)(b)(i); and
+### Insufficient security
 
-(vii) any reference to the retention period shall be read as a reference to the prescribed period under subsection (3).
+140LL\.—(1) If the reasonable expenses incurred by the Director-General in relation to any action taken by the Director-General under this Subdivision, or taken in accordance with an order of a court under this Subdivision exceed the amount deposited, or the amount of the security given, under section 140LB, the amount of the excess is a debt due to the Government.
 
-[52/2004]
+(2) The debt created by subsection (1) is due by the owner of the copyright in the copyright material or, if there are 2 or more such owners, by the owners jointly and severally.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 Division 7 —
 
@@ -5315,9 +5507,11 @@ Powers of Search
 
 ### Powers of search in relation to vessels, aircrafts and vehicles
 
-140M\.—(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for copies of copyright material liable to be seized under section 140B(7) or detained under section 140LA.
+140M\.—(1) A senior authorised officer or an authorised officer acting in accordance with the general or special directions of a senior authorised officer may board any conveyance in Singapore and may rummage and search all parts of the conveyance for copies of copyright material liable to be seized under section 140B(7) or 140LA.
 
 [6/98; 52/2004]
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (2) For the more effective exercise of the powers conferred by this section, a senior authorised officer may do all or any of the following:
 
@@ -5367,11 +5561,13 @@ Powers of Search
 
 ### Examination of packages
 
-140N\.—(1) Any goods, package, box, chest or other article which is being or has recently been imported and in regard to which a reasonable suspicion exists that it is or that it contains a copy of copyright material liable to be seized under section 140B(7) or detained under section 140LA may be —
+140N\.—(1) Any goods, package, box, chest or other article which is being or has recently been imported, or is being exported, and in regard to which a reasonable suspicion exists that it is or that it contains a copy of copyright material liable to be seized under section 140B(7) or 140LA may be —
 
 (a) examined and searched by an authorised officer or detained until any person in charge thereof has opened it for examination and search;
 
-(b) subjected to such tests or analysis as the authorised officer thinks fit;
+(b) subjected to such infringement verification, or tests or analysis, as the authorised officer thinks fit;
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (c) forcibly opened by, or by order of, a senior authorised officer to facilitate the examination and search except that any person in charge of the package, box, chest or other article shall be afforded every reasonable facility for being present at the opening, examination and search; or
 
@@ -5379,9 +5575,15 @@ Powers of Search
 
 [6/98; 52/2004]
 
+[Act 34 of 2018 wef 21/11/2019]
+
 (2) Any person, other than an authorised officer, who removes, opens, breaks or tampers with any mark, lock, seal or other means of securing any goods, package, box, chest or other article referred to in subsection (1)(d) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 6 months or to both.
 
 [6/98]
+
+(3) In this section, “infringement verification” means any process (whether or not involving the owner of the copyright in the copyright material concerned) to determine if any article is or contains a copy of copyright material liable to be seized under section 140B(7) or 140LA.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 ### Power to remove packages and goods to police station or examination station
 
@@ -5393,19 +5595,25 @@ Powers of Search
 
 [6/98]
 
-(3) Upon the failure by a person to comply with such a requisition, an authorised officer may remove the goods in the manner provided by subsection (1) and all the expenses of such removal (as certified by a senior authorised officer) shall be recoverable as a fine from that person or from the owner of the goods.
+(3) Upon the failure by a person to comply with such a requisition, an authorised officer may remove the package, box, chest, article or goods (as the case may be) in the manner provided by subsection (1) and all the expenses of such removal (as certified by a senior authorised officer) shall be recoverable as a fine from that person or from the owner of the package, box, chest, article or goods (as the case may be).
 
 [6/98]
+
+[Act 34 of 2018 wef 21/11/2019]
 
 ### Search of persons and baggage
 
 140P\.—(1) Any person landing or being about to land or having recently landed from any vessel or aircraft, or leaving any vessel or aircraft in Singapore whether for the purpose of landing or otherwise, or entering or having recently entered Singapore by land, sea or air, shall —
 
-(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any copy of copyright material liable to be seized under section 140B(7) or detained under section 140LA or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any copy of copyright material liable to be seized under section 140B(7) or detained under section 140LA; or
+(a) on demand by an authorised officer, either permit his person and goods and baggage to be searched by the officer for any copy of copyright material liable to be seized under section 140B(7) or 140LA or, together with the goods and baggage, accompany the officer to a police station or an examination station, and there permit his person and goods and baggage to be searched in the presence and under the supervision of a senior authorised officer for any copy of copyright material liable to be seized under section 140B(7) or 140LA; or
 
-(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any copy of copyright material liable to be seized under section 140B(7) or detained under section 140LA.
+[Act 34 of 2018 wef 21/11/2019]
+
+(b) on demand by a senior authorised officer, permit his person and goods and baggage to be searched by the officer, or in the presence and under the supervision of the officer, for any copy of copyright material liable to be seized under section 140B(7) or 140LA.
 
 [6/98; 52/2004]
+
+[Act 34 of 2018 wef 21/11/2019]
 
 (2) Whenever it is necessary to cause a woman to be searched, the search shall be made by another woman and with strict regard to decency.
 
@@ -5421,13 +5629,17 @@ Powers of Search
 
 ### Powers of authorised officers to enter certain premises
 
-140Q\.—(1) For the purpose of exercising the powers conferred by sections 140M to 140P, an authorised officer may, without warrant, enter upon any islet, landing place, wharf, dock, railway or quay or the premises of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 170A), or of the Civil Aviation Authority of Singapore.
+140Q\.—(1) For the purpose of exercising the powers conferred by sections 140M to 140P, an authorised officer may, without warrant, enter upon —
 
-[6/98]
+(a) any islet, landing place, wharf, dock, railway or quay;
 
-(2) In this section, “railway” has the same meaning as in the Railways Act (Cap. 263).
+(b) any premises of a provider of port services or facilities licensed or exempted under the Maritime and Port Authority of Singapore Act (Cap. 170A); or
 
-[6/98]
+(c) any premises of any airport operated under a licence or exemption under the Civil Aviation Authority of Singapore Act (Cap. 41).
+
+(2) In this section, “railway” has the meaning given by the Railways Act (Cap. 263).
+
+[Act 34 of 2018 wef 21/11/2019]
 
 ### Obstruction
 
@@ -9850,14 +10062,15 @@ This Legislative History is provided for the convenience of users of the Copyrig
 ||Date of First Reading|3 April 2017 (Bill No. 23/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|30 October 2017|
-|26.|**Act 34 of 2018—Intellectual Property (Border Enforcement) Act 2018**|
-||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
-||Date of Second and Third Readings|9 July 2018|
-||Date of commencement|10 October 2018|
-|27.|**Act 30 of 2018—National Library Board (Amendment) Act 2018**|
+|26.|**Act 30 of 2018—National Library Board (Amendment) Act 2018**|
 ||Date of First Reading|19 March 2018 (Bill No. 19/2018 published on 19 March 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|31 January 2019|
+|27.|**Act 34 of 2018—Intellectual Property (Border Enforcement) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|10 October 2018|
+|||21 November 2019|
 ## COMPARATIVE TABLE
 
 Copyright Act
