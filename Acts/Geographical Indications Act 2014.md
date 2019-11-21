@@ -256,6 +256,8 @@ President.
 
 Date of Commencement: 1st April 2019 Part I, sections 4(1), (2), (3), (4) and (5), 5 to 10, Division 1 of Part III, Parts IV, V, sections 77 to 90 and the Schedule
 
+Date of Commencement: 21st November 2019 Sections 4(6), (7), (8) and (9), 15, 16, 75 and 76
+
 An Act to repeal and re-enact with amendments the Geographical Indications Act (Chapter 117B of the 1999 Revised Edition) to provide for the protection of geographical indications in relation to goods, and for matters connected therewith, and to make related amendments to certain other written laws.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -838,6 +840,10 @@ the Registrar may require the person to give security for the costs for the proc
 (e) a decision of the Registrar under section 46(5) on a request for entry in the register of a qualification of the rights conferred upon a registered geographical indication; and
 
 (f) a decision of the Registrar relating to a request for cancellation under section 52.
+
+(3) An appeal does not lie to the Court of Appeal from a decision of the Court on appeal from a decision of the Registrar for any matter under this Act or the rules made under this Act unless leave to appeal is given by the Court or the Court of Appeal.
+
+[Act 23 of 2019 wef 21/11/2019]
 
 Division 4 —
 
