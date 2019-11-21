@@ -204,7 +204,7 @@
 
 - [80 Power to revoke patents on application](#Power-to-revoke-patents-on-application)
 
-- [81 Registrar’s power to revoke patents](#Registrar’s-power-to-revoke-patents)
+- [81 Registrar’s power to revoke patents on own initiative](#Registrar’s-power-to-revoke-patents-on-own-initiative)
 
 - [82 Proceedings in which validity of patent may be put in issue](#Proceedings-in-which-validity-of-patent-may-be-put-in-issue)
 
@@ -914,7 +914,9 @@ and to no other person.
 
 20\.—(1) At any time before a patent has been granted for an invention —
 
-(a) any person may refer to the Registrar the question whether he is entitled to be granted (alone or with any other persons) a patent for that invention or has or would have any right in or under any patent so granted or any application for such a patent; or
+(a) any person may refer to the Registrar the question whether he is entitled to be granted (either alone or with any other persons) a patent for that invention or has or would have any right in or under any patent so granted or any application for such a patent; or
+
+[Act 23 of 2019 wef 21/11/2019]
 
 (b) any of 2 or more co-proprietors of an application for a patent for that invention may so refer the question whether any right in or under application should be transferred or granted to any other person,
 
@@ -944,9 +946,13 @@ the Registrar may order that any person by whom the reference was made may withi
 
 (5) If any person to whom directions have been given under subsection (2)(d) or (4) fails to do anything necessary for carrying out any such directions within 14 days after the date of the directions, the Registrar may, on application made to him by any person in whose favour or on whose reference the directions were given, authorise him to do that thing on behalf of the person to whom the directions were given.
 
-(6) Where on a reference under this section it is alleged that, by virtue of any transaction, instrument or event relating to an invention or an application for a patent, any person other than the inventor or the applicant for the patent has become entitled to be granted (whether alone or with any other persons) a patent for the invention or has or would have any right in or under any patent so granted or any application for any such patent, an order shall not be made under subsection (2)(a), (b) or (d) on the reference unless notice of the reference is given to the applicant and any such person, except any of them who is a party to the reference.
+(6) Where on a reference under this section it is alleged that, by virtue of any transaction, instrument or event relating to an invention or an application for a patent, any person other than the inventor or the applicant for the patent has become entitled to be granted (either alone or with any other persons) a patent for the invention or has or would have any right in or under any patent so granted or any application for any such patent, an order shall not be made under subsection (2)(a), (b) or (d) on the reference unless notice of the reference is given to the applicant and any such person, except any of them who is a party to the reference.
 
-(7) If it appears to the Registrar on a reference of a question under this section that the question involves matters which would more properly be determined by the court, he may decline to deal with it and, without prejudice to the court’s jurisdiction to determine any such question and make a declaration, the court shall have jurisdiction to do so.
+[Act 23 of 2019 wef 21/11/2019]
+
+(7) If it appears to the Registrar on a reference of a question under this section that the question involves a matter which would be more conveniently dealt with by the court, he may decline to deal with it and, without prejudice to the court’s jurisdiction to determine any such question and make a declaration, the court shall have jurisdiction to do so.
+
+[Act 23 of 2019 wef 21/11/2019]
 
 (8) No direction shall be given under this section so as to affect the mutual rights or obligations of trustees or of the personal representatives of deceased persons, or their rights or obligations as such.
 
@@ -1974,7 +1980,7 @@ and the Registrar shall determine the question and make such order as he thinks 
 
 (3) If any person to whom directions have been given under subsection (2)(d) fails to do anything necessary for carrying out any such directions within 14 days after the date of the order containing the directions, the Registrar may, on an application made to him by any person in whose favour or on whose reference the order containing the directions was made, authorise him to do that thing on behalf of the person to whom the directions were given.
 
-(4) Where the Registrar finds on a reference under this section that the patent was granted to a person not entitled to be granted that patent (whether alone or with other persons) and on an application made under section 80 makes an order on that ground for the conditional or unconditional revocation of the patent, the Registrar may order that the person by whom the application was made or his successor in title may, subject to section 84, make a new application for a patent —
+(4) Where the Registrar finds on a reference under this section that the patent was granted to a person not entitled to be granted that patent (either alone or with other persons) and on an application made under section 80 makes an order on that ground for the conditional or unconditional revocation of the patent, the Registrar may order that the person by whom the application was made or his successor in title may, subject to section 84, make a new application for a patent —
 
 (a) in the case of unconditional revocation, for the whole of the matter comprised in the specification of that patent; and
 
@@ -1982,21 +1988,33 @@ and the Registrar shall determine the question and make such order as he thinks 
 
 and where such a new application is made, it shall be treated as having been filed on the date of filing the application for the patent to which the reference relates.
 
+[Act 23 of 2019 wef 21/11/2019]
+
 (5) On any reference under subsection (1) —
 
 (a) no order shall be made under this section transferring the patent to which the reference relates on the ground that the patent was granted to a person not so entitled; and
 
-(b) no order shall be made under subsection (4) on that ground if the reference was made after the end of the period of 2 years beginning with the date of the grant, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to him that he was not entitled to the patent.
+(b) no order shall be made under subsection (4) on that ground if the reference was made after the end of the period of 2 years beginning with the date of the grant, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to him that he was not entitled (either alone or with other persons, as the case may be) to the patent.
+
+[Act 23 of 2019 wef 21/11/2019]
 
 (6) An order under this section shall not be so made as to affect the mutual rights or obligations of trustees or of the personal representatives of a deceased person, or their rights or obligations as such.
 
 (7) Where a question is referred to the Registrar under this section, an order shall not be made by virtue of subsection (2) or under subsection (4) on the reference unless notice of the reference is given to all persons registered as proprietor of the patent or as having a right in or under the patent, except those who are parties to the reference.
 
-(8) If it appears to the Registrar on a reference under this section that the question referred to him would more properly be determined by the court, he may decline to deal with it and, without prejudice to the court’s jurisdiction to determine any such question and make a declaration, the court shall have jurisdiction to do so.
+(8) If it appears to the Registrar on a reference under this section that the question referred to him would be more conveniently dealt with by the court, he may decline to deal with it and, without prejudice to the court’s jurisdiction to determine any such question and make a declaration, the court shall have jurisdiction to do so.
 
-(9) The court shall not in the exercise of any such declaratory jurisdiction determine a question whether a patent was granted to a person not entitled to be granted the patent if the proceedings in which the jurisdiction is invoked were commenced after the end of the period of 2 years beginning with the date of the grant of the patent, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to him that he was not entitled to the patent.
+[Act 23 of 2019 wef 21/11/2019]
 
-[UK Patents 1977, s. 37]
+(9) The court must not determine a question whether a patent was granted to a person not entitled to be granted the patent —
+
+(a) in the exercise of any such declaratory jurisdiction in an action for a declaration; or
+
+(b) in the exercise of jurisdiction pursuant to a reference under this section,
+
+if the action or the reference (as the case may be) was commenced or made after the end of the period of 2 years beginning with the date of the grant of the patent, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or, as the case may be, of the transfer of the patent to the person that the person was not entitled (either alone or with other persons, as the case may be) to the patent.
+
+[Act 23 of 2019 wef 21/11/2019]
 
 ### Effect of transfer of patent under section 47
 
@@ -2680,7 +2698,9 @@ REVOCATION OF PATENTS AND VALIDITY PROCEEDINGS
 
 (a) the invention is not a patentable invention;
 
-(b) the patent was granted to a person who was not entitled to be granted that patent;
+(b) the patent was granted to a person who was not entitled (either alone or with other persons) to be granted that patent;
+
+[Act 23 of 2019 wef 21/11/2019]
 
 (c) the specification of the patent does not disclose the invention clearly and completely for it to be performed by a person skilled in the art;
 
@@ -2728,7 +2748,9 @@ which should not have been allowed;
 
 (a) may only be made by a person found by the court in an action for a declaration or found by the court or the Registrar on a reference under section 47, to be entitled to be granted that patent or to be granted a patent for part of the matter comprised in the specification of the patent sought to be revoked; and
 
-(b) may not be made if that action was commenced or that reference was made after the end of the period of 2 years beginning with the date of the grant of the patent sought to be revoked, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or of the transfer of the patent to him that he was not entitled to the patent.
+(b) may not be made if that action was commenced or that reference was made after the end of the period of 2 years beginning with the date of the grant of the patent sought to be revoked, unless it is shown that any person registered as a proprietor of the patent knew at the time of the grant or of the transfer of the patent to him that he was not entitled (either alone or with other persons, as the case may be) to the patent.
+
+[Act 23 of 2019 wef 21/11/2019]
 
 (5) An order under this section may be —
 
@@ -2752,11 +2774,17 @@ which should not have been allowed;
 
 [UK Patents 1977, s. 72]
 
-### Registrar’s power to revoke patents
+(11) Where an application is made to the Registrar under this section, the Registrar may at any stage of the proceedings refer the application to the court.
+
+[Act 23 of 2019 wef 21/11/2019]
+
+### Registrar’s power to revoke patents on own initiative
 
 81\. If it appears to the Registrar that an invention for which a patent has been granted formed part of the state of the art by virtue only of section 14(3), he may on his own initiative by order revoke the patent, but shall not do so without giving the proprietor of the patent an opportunity of making any observation and of amending the specification of the patent so as to exclude any matter which formed part of the state of the art as aforesaid without contravening section 84.
 
 [UK Patents 1977, s. 73]
+
+[Act 23 of 2019 wef 21/11/2019]
 
 ### Proceedings in which validity of patent may be put in issue
 
@@ -2780,11 +2808,15 @@ which should not have been allowed;
 
 (a) it has been determined in entitlement proceedings commenced by that person or in the proceedings in which the validity of the patent is in issue that the patent should have been granted to him and not some other person; and
 
-(b) except where it has been so determined in entitlement proceedings, the proceedings in which the validity of the patent is in issue are commenced before the end of the period of 2 years beginning with the date of the grant of the patent or it is shown that any person registered as a proprietor of the patent knew at the time of the grant or of the transfer of the patent to him that he was not entitled to the patent.
+(b) except where it has been so determined in entitlement proceedings, the proceedings in which the validity of the patent is in issue are commenced before the end of the period of 2 years beginning with the date of the grant of the patent or it is shown that any person registered as a proprietor of the patent knew at the time of the grant or of the transfer of the patent to him that he was not entitled (either alone or with other persons, as the case may be) to the patent.
+
+[Act 23 of 2019 wef 21/11/2019]
 
 (5) Where the validity of a patent is put in issue by way of defence or counterclaim, the court or the Registrar shall, if it or he thinks it just to do so, give the defendant an opportunity to comply with the condition in subsection (4)(a).
 
-(6) In subsection (4), “entitlement proceedings”, in relation to a patent, means a reference under section 47(1) on the ground that the patent was granted to a person not entitled to it or proceedings for a declaration that it was so granted.
+(6) In subsection (4), “entitlement proceedings”, in relation to a patent, means a reference under section 47(1) on the ground that the patent was granted to a person not entitled (either alone or with other persons) to it or proceedings for a declaration that it was so granted.
+
+[Act 23 of 2019 wef 21/11/2019]
 
 (7) Where proceedings with respect to a patent are pending in the court under any provision of this Act mentioned in subsection (1), no proceedings may be instituted without the leave of the court before the Registrar with respect to that patent under section 67(3), 76, 78 or 80.
 
@@ -3913,6 +3945,10 @@ This Legislative History is provided for the convenience of users of the Patents
 ||Date of First Reading|6 February 2017 (Bill No. 6/2017 published on 6 February 2017)|
 ||Date of Second and Third Readings|28 February 2017|
 ||Date of commencement|30 October 2017|
+|22.|**Act 23 of 2019—Intellectual Property (Dispute Resolution) Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 17/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|5 August 2019|
+||Date of commencement|21 November 2019|
 ## COMPARATIVE TABLE
 
 Patents Act
