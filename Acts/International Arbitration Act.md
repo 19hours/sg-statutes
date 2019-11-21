@@ -82,6 +82,22 @@
 
 - [26 Transitional provisions](#Transitional-provisions)
 
+[**Part IIA ARBITRATIONS RELATING TO INTELLECTUAL PROPERTY RIGHTS**](#Part-IIA)
+
+- [26A Interpretation of this Part](#Interpretation-of-this-Part)
+
+- [26B IPR disputes may be arbitrated](#IPR-disputes-may-be-arbitrated)
+
+- [26C Effect of award involving IPR](#Effect-of-award-involving-IPR)
+
+- [26D Recourse against award involving IPR](#Recourse-against-award-involving-IPR)
+
+- [26E Recognition and enforcement of award involving IPR](#Recognition-and-enforcement-of-award-involving-IPR)
+
+- [26F Judgments entered in terms of award involving IPR](#Judgments-entered-in-terms-of-award-involving-IPR)
+
+- [26G Validity of patent may be put in issue in arbitral proceedings](#Validity-of-patent-may-be-put-in-issue-in-arbitral-proceedings)
+
 [**Part III FOREIGN AWARDS**](#Part-III)
 
 - [27 Interpretation of Part III](#Interpretation-of-Part-III)
@@ -737,6 +753,149 @@ then, both the Model Law and this Part shall not apply to that arbitration but t
 (3) In any written law, agreement in writing or other document, a reference to arbitration under the Arbitration Act (Cap. 10) shall, so far as relevant and unless the contrary intention appears, be construed to include a reference to arbitration under this Act.
 
 (4) For the purposes of this section, arbitral proceedings are to be taken as having commenced on the date of the receipt by the respondent of a request for the dispute to be referred to arbitration, or, where the parties have agreed in writing that any other date is to be taken as the date of commencement of the arbitral proceedings, then on that date.
+
+## PART IIA
+
+ARBITRATIONS RELATING TO
+
+
+
+
+INTELLECTUAL PROPERTY RIGHTS
+
+[Act 23 of 2019 wef 21/11/2019]
+
+### Interpretation of this Part
+
+26A\.—(1) In this Part, unless the context otherwise requires, “intellectual property right” or “IPR” means —
+
+(a) a patent;
+
+(b) a trade mark;
+
+(c) a geographical indication;
+
+(d) a registered design;
+
+(e) a copyright;
+
+(f) a right in a protected layout‑design of an integrated circuit;
+
+(g) a grant of protection in respect of a plant variety;
+
+(h) a right in confidential information, trade secret or know‑how;
+
+(i) a right to protect goodwill by way of passing off or similar action against unfair competition; or
+
+(j) any other intellectual property right of whatever nature.
+
+(2) In this Part, a reference to an IPR is a reference to such an IPR whether or not the IPR is registered, or subsists, in Singapore.
+
+(3) In this Part, a reference to an IPR includes an application for the registration of an IPR if the IPR is protectable by registration.
+
+(4) In this Part, “IPR dispute” includes —
+
+(a) a dispute over the enforceability, infringement, subsistence, validity, ownership, scope, duration or any other aspect of an IPR;
+
+(b) a dispute over a transaction in respect of an IPR; and
+
+(c) a dispute over any compensation payable for an IPR.
+
+(5) In this section, “registration”, in relation to an IPR, includes the grant of the IPR.
+
+[Act 23 of 2019 wef 21/11/2019]
+
+### IPR disputes may be arbitrated
+
+26B\.—(1) The subject‑matter of an IPR dispute is capable of settlement by arbitration as between the parties to the IPR dispute.
+
+(2) Subsection (1) applies whether the IPR dispute is the main issue or an incidental issue in the arbitration.
+
+(3) An IPR dispute is not incapable of settlement by arbitration only because a law of Singapore or elsewhere —
+
+(a) gives jurisdiction to decide the IPR dispute to a specified entity; and
+
+(b) does not mention possible settlement of the IPR dispute by arbitration.
+
+(4) In subsection (3), “specified entity” means any of the following entities under the law of Singapore or elsewhere:
+
+(a) a court;
+
+(b) a tribunal;
+
+(c) a person holding an administrative or executive office;
+
+(d) any other entity.
+
+[Act 23 of 2019 wef 21/11/2019]
+
+### Effect of award involving IPR
+
+26C\.—(1) This section applies if an award deciding an IPR dispute is made in arbitral proceedings.
+
+(2) The fact that a person is a third‑party licensee or third‑party holder of a security interest in respect of the IPR does not of itself make the person a person claiming through or under a party to the arbitral proceedings for the purposes of section 19B(1).
+
+(3) However, subsection (2) does not affect any right or liability between a third‑party licensee or third‑party holder of a security interest and a party to the arbitral proceedings whether —
+
+(a) arising in contract; or
+
+(b) arising by operation of law.
+
+(4) In this section —
+
+“third‑party holder of a security interest”, in relation to an IPR in dispute in arbitral proceedings, means a person who —
+
+(a) is a holder of a security interest in respect of the IPR granted by a party to the arbitral proceedings; but
+
+(b) is not a party to the arbitral proceedings;
+
+“third‑party licensee”, in relation to an IPR in dispute in arbitral proceedings, means a person who —
+
+(a) is a licensee (whether or not an exclusive licensee) of the IPR under a licence granted by a party to the arbitral proceedings; but
+
+(b) is not a party to the arbitral proceedings.
+
+[Act 23 of 2019 wef 21/11/2019]
+
+### Recourse against award involving IPR
+
+26D\.—(1) For the purposes of Article 34(2)(b)(i) of the Model Law, the subject‑matter of a dispute is not incapable of settlement by arbitration under the law of Singapore only because the subject‑matter relates to an IPR dispute.
+
+(2) For the purposes of Article 34(2)(b)(ii) of the Model Law, an award is not in conflict with the public policy of Singapore only because the subject‑matter in respect of which the award is made relates to an IPR dispute.
+
+[Act 23 of 2019 wef 21/11/2019]
+
+### Recognition and enforcement of award involving IPR
+
+26E\.—(1) For the purposes of section 31(4)(a), the subject‑matter of the difference between the parties to a foreign award is not incapable of settlement by arbitration under the law of Singapore only because the subject‑matter relates to an IPR dispute.
+
+(2) For the purposes of section 31(4)(b), it is not contrary to the public policy of Singapore to enforce an award only because the award is in respect of a subject‑matter that relates to an IPR dispute.
+
+[Act 23 of 2019 wef 21/11/2019]
+
+### Judgments entered in terms of award involving IPR
+
+26F\.—(1) This section applies if —
+
+(a) an award (whether made in or outside Singapore) deciding an IPR dispute is made in arbitral proceedings; and
+
+(b) a judgment in terms of the award is entered under section 19 or 29.
+
+(2) Sections 19B(1) and 29(2) apply in relation to the judgment as if —
+
+(a) the reference in section 19B(1) to an award made by an arbitral tribunal pursuant to an arbitration agreement were a reference to the judgment; and
+
+(b) the reference in section 29(2) to a foreign award were a reference to the judgment.
+
+(3) In this section, “award” includes a declaratory award.
+
+[Act 23 of 2019 wef 21/11/2019]
+
+### Validity of patent may be put in issue in arbitral proceedings
+
+26G\. Section 82(2) of the Patents Act (Cap. 221) does not prevent a party from putting the validity of a patent in issue in arbitral proceedings.
+
+[Act 23 of 2019 wef 21/11/2019]
 
 ## PART III
 
@@ -1419,6 +1578,10 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|1 August 2016|
+|11.|**Act 23 of 2019—Intellectual Property (Dispute Resolution) Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 17/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|5 August 2019|
+||Date of commencement|21 November 2019|
 ## COMPARATIVE TABLE
 
 International Arbitration Act
