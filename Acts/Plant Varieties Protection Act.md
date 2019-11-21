@@ -1024,6 +1024,10 @@ MISCELLANEOUS
 
 [HK Plant Ord. 1997, s. 6]
 
+(3) An appeal does not lie to the Court of Appeal from a decision of the Court on appeal from a decision of the Registrar for any matter under this Act unless leave to appeal is given by the Court or the Court of Appeal.
+
+[Act 23 of 2019 wef 21/11/2019]
+
 ### Forms and directions of Registrar
 
 49\. The Minister may make rules for the publication by the Registrar of —
@@ -1231,3 +1235,7 @@ This Legislative History is provided for the convenience of users of the Plant V
 |||(Bill No. 9/2014 published on 17 February 2014)|
 ||Date of Second and Third Readings|13 March 2014|
 ||Date of commencement|30 July 2014|
+|8.|**Act 23 of 2019—Intellectual Property (Dispute Resolution) Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 17/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|5 August 2019|
+||Date of commencement|21 November 2019|
