@@ -240,9 +240,15 @@ President.
 
 Date of Commencement: 10 October 2018 Division 1 of Part 1, Division 1 of Part 4, sections 87(1), 88(1), 89(1), (2) and (3), 90(1), (2) and (3) and 91
 
-An Act to provide for the construction, maintenance, operation and regulation of cross‑border railways between Singapore and Malaysia in accordance with bilateral railway agreements, and to make related and consequential amendments to certain other Acts.
+Date of Commencement: 21 November 2019 Division 2 of Part 1, Division 2 of Part 4 and sections 87(2), 88(2), 89(4), (5) and (6) and 90(4), (5), (6) and (7)
+
+An Act to amend the Copyright Act (Chapter 63 of the 2006 Revised Edition), the Geographical Indications Act 2014 (Act 19 of 2014), the Registered Designs Act (Chapter 266 of the 2005 Revised Edition) and the Trade Marks Act (Chapter 332 of the 2005 Revised Edition), to enhance border enforcement measures for intellectual property rights, and to make related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+
+### Short title and commencement
+
+1\. This Act is the Intellectual Property (Border Enforcement) Act 2018 and comes into operation on a date that the Minister appoints by notification in theGazette.
 
 ## PART 1
 
@@ -2447,17 +2453,9 @@ RELATED AMENDMENTS TO OTHER ACTS
 
 (2) Section 31(1) of the Regulation of Imports and Exports Act, as amended by subsection (1), is amended —
 
-(a) by deleting “140LA(2H)” in paragraph (viii
+(a) by deleting “140LA(2H)” in paragraph (viiia) and substituting “140LE”; and
 
-a
-
-) and substituting “140LE”; and
-
-(b) by deleting “93A(2H)” in paragraph (viii
-
-a
-
-) and substituting “93E”.
+(b) by deleting “93A(2H)” in paragraph (viiia) and substituting “93E”.
 
 (3) Section 31(1) of the Regulation of Imports and Exports Act, as amended by subsection (1), is amended by inserting, immediately after the words “Copyright Act” in paragraph (viii
 
