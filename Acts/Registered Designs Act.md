@@ -1811,6 +1811,10 @@ Powers of Registrar
 
 (2) Any appeal under this Act which concerns an application for registration of a design shall be heard in camera unless the Court otherwise directs.
 
+(2A) An appeal does not lie to the Court of Appeal from a decision of the Court on appeal from a decision or order of the Registrar under this Act unless leave to appeal is given by the Court or the Court of Appeal.
+
+[Act 23 of 2019 wef 21/11/2019]
+
 (3) In this section, "decision" includes any act of the Registrar done in the exercise of a discretion vested in him by or under this Act.
 
 [HK Designs, s. 58]
@@ -2358,6 +2362,10 @@ This Legislative History is provided for the convenience of users of the Registe
 ||Date of First Reading|3 April 2017 (Bill No. 23/2017 published on 3 April 2017)|
 ||Date of Second and Third Readings|8 May 2017|
 ||Date of commencement|30 October 2017|
+|13.|**Act 23 of 2019—Intellectual Property (Dispute Resolution) Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 17/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|5 August 2019|
+||Date of commencement|21 November 2019|
 ## COMPARATIVE TABLE
 
 Registered Designs Act
