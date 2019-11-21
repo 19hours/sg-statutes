@@ -2126,7 +2126,9 @@ except where it is necessary for the purposes of —
 
 [Act 34 of 2018 wef 10/10/2018]
 
-(x) satisfying a request for information under section 140EB or 140LA(2H) of the Copyright Act, or section 85B or 93A(2H) of the Trade Marks Act.
+(x) satisfying a request for information under section 140EB or 140LE of the Copyright Act, or section 85B or 93E of the Trade Marks Act.
+
+[Act 34 of 2018 wef 21/11/2019]
 
 [Act 34 of 2018 wef 10/10/2018]
 
@@ -3840,16 +3842,17 @@ This Legislative History is provided for the convenience of users of the Customs
 ||Date of First Reading|19 January 2015 (Bill No. 1/2015 published on 19 January 2015)|
 ||Date of Second and Third Readings|30 January 2015|
 ||Date of commencement|1 April 2015|
-|40.|**Act 34 of 2018—Intellectual Property (Border Enforcement) Act 2018**|
-||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
-||Date of Second and Third Readings|9 July 2018|
-||Date of commencement|10 October 2018|
-|41.|**Act 29 of 2018—Customs (Amendment) Act 2018**|
+|40.|**Act 29 of 2018—Customs (Amendment) Act 2018**|
 ||Date of First Reading|17 May 2018]|
 |||(Bill No. 26/2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|18 February 2019|
 |||1 April 2019|
+|41.|**Act 34 of 2018—Intellectual Property (Border Enforcement) Act 2018**|
+||Date of First Reading|17 May 2018 (Bill No. 24/2018 published on 17 May 2018)|
+||Date of Second and Third Readings|9 July 2018|
+||Date of commencement|10 October 2018|
+|||21 November 2019|
 ## COMPARATIVE TABLE
 
 Customs Act
