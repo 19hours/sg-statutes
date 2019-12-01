@@ -8004,6 +8004,10 @@ is equal to an amount computed in either of the following ways, at the option of
 
 (18) Hindu Endowments Board.
 
+(18A) Home Team Science and Technology Agency.
+
+[Act 21 of 2019 wef 01/12/2019]
+
 (19) Hotels Licensing Board.
 
 (20) Housing and Development Board.
@@ -9221,6 +9225,10 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
 ||Date of Second and Third Readings|12 February 2019|
 ||Date of commencement|1 April 2019|
+|221.|**Act 21 of 2019—Home Team Science and Technology Agency Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 15/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|6 August 2019|
+||Date of commencement|1 December 2019|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
