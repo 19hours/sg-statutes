@@ -2368,6 +2368,10 @@ CLASS A DRUGS
 
 (36) Diampromide
 
+(36A) N,N-Diethyl-3-hydroxy-7-methyl-2-oxo-4,6,6a,7,8,9-hexahydroindolo-[4,3-fg]quinoline-9-carboxamide (also known as 2-Oxo-3-hydroxy-LSD) and its acyclic secondary and tertiary amide structural isomers
+
+[S 792/2019 wef 01/12/2019]
+
 (37) Diethylthiambutene
 
 (38) [Deleted by S 200/2016 wef 01/05/2016]
@@ -2386,13 +2390,17 @@ CLASS A DRUGS
 
 [S 194/2017 wef 01/05/2017]
 
-(45) 2,5-Dimethoxy-α-methylphenethylamine (also known as 2,5-Dimethoxyamphetamine) and its dimethoxy positional isomers in the phenyl ring
+(45) 2,5-Dimethoxy-α-methylphenethylamine (also known as 2,5-Dimethoxyamphetamine or DMA) and its dimethoxy positional isomers in the phenyl ring
 
-[S 194/2017 wef 01/05/2017]
+[S 792/2019 wef 01/12/2019]
 
-(46) N,α-Dimethyl-3,4-(methylenedioxy)phenethylamine (also known as MDMA)
+(46) N,α-Dimethyl-3,4-(methylenedioxy)phenethylamine (also known as 3,4-Methylenedioxymethamphetamine or MDMA)
 
-(47) 3-(1,2-Dimethylheptyl)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran
+[S 792/2019 wef 01/12/2019]
+
+(47) 3-(1,2-Dimethylhepty1)-1-hydroxy-7,8,9,10-tetrahydro-6,6,9-trimethyl-6H-dibenzo[b,d]pyran (also known as DMHP)
+
+[S 792/2019 wef 01/12/2019]
 
 (48) Dimethylthiambutene
 
@@ -2408,7 +2416,9 @@ CLASS A DRUGS
 
 (54) Ecgonine, and any derivative of ecgonine which is convertible to ecgonine or to cocaine
 
-(55) 4-Ethyl-2,5-dimethoxy-α-methylphenethylamine
+(55) 4-Ethyl-2,5-dimethoxy-α-methylphenethylamine (also known as DOET)
+
+[S 792/2019 wef 01/12/2019]
 
 (56) N-Ethyl-α-methyl-3,4-(methylenedioxy)phenethylamine (also known as MDEA)
 
@@ -2468,7 +2478,9 @@ CLASS A DRUGS
 
 (84) [Deleted by S 200/2016 wef 01/05/2016]
 
-(85) 3-Methoxy-α-methyl-4,5-(methylenedioxy)phenethylamine
+(85) 3-Methoxy-α-methyl-4,5-(methylenedioxy)phenethylamine (also known as 5-methoxy-MDA or MMDA)
+
+[S 792/2019 wef 01/12/2019]
 
 (86) p-Methoxy-α-methylphenethylamine (also known as 4-methoxyamphetamine or para-methoxyamphetamine) and its methoxy positional isomers in the phenyl ring
 
@@ -2476,7 +2488,9 @@ CLASS A DRUGS
 
 (87) N-Methyl-α-ethyl-3,4-(methylenedioxy)phenethylamine (also known as MBDB)
 
-(88) N-[α-Methyl-3,4-(methylenedioxy)phenethyl]hydroxylamine
+(88) N-[α-Methyl-3,4-(methylenedioxy)phenethyl]hydroxylamine (also known as N-Hydroxy MDA)
+
+[S 792/2019 wef 01/12/2019]
 
 (89) α-Methyl-3,4-(methylenedioxy)phenethylamine (also known as Tenamfetamine or MDA)
 
@@ -2592,7 +2606,9 @@ CLASS A DRUGS
 
 (139) Trimeperidine
 
-(140) 3,4,5-Trimethoxy-α-methylphenethylamine
+(140) 3,4,5-Trimethoxy-α-methylphenethylamine (also known as TMA)
+
+[S 792/2019 wef 01/12/2019]
 
 2\. Any stereoisomeric form of a substance for the time being specified in paragraph 1, not being dextromethorphan or dextrorphan.
 
@@ -2874,6 +2890,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 194/2017 wef 01/05/2017]
 
+(8AAB) 1-(4-Chlorophenyl)-2-(dimethylamino)propan-1-one (also known as 4-Chloro-N,N-dimethylcathinone)
+
+[S 792/2019 wef 01/12/2019]
+
 (8AB) 1-(4-Chlorophenyl)-2-(ethylamino)propan-1-one (also known as 4-Chloroethcathinone or 4-CEC)
 
 [S 233/2018 wef 01/05/2018]
@@ -2914,7 +2934,9 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 233/2018 wef 01/05/2018]
 
-(13) 2-(Ethylamino)-1-phenylpentan-1-one (also known as α-Ethylaminopentiophenone)
+(13) 2-(Ethylamino)-1-phenylpentan-1-one (also known as α-Ethylaminopentiophenone or N-Ethylpentedrone)
+
+[S 792/2019 wef 01/12/2019]
 
 (14) 2-(Ethylamino)-1-phenylpropan-1-one (also known as ethcathinone)
 
@@ -2990,21 +3012,43 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 18. The following compounds, including any salt or stereoisomeric form of such compounds, and any preparation or product containing such compounds:
 
-(1) N-(Adamant-1-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (also known as Adamantyl CHMINACA or SGT-37)
+(1) 1-Acetyl-N,N-diethyllysergamide (also known as N-Acetyl-LSD or ALD-52) and its acyclic secondary and tertiary amide structural isomers
 
-[S 354/2019 wef 01/05/2019]
+[S 792/2019 wef 01/12/2019]
 
-(1AAA) N-(1-Adamantyl)-5-fluoropentyl-1H-indazole-3-carboxamide (also known as 5-Fluoro-APINACA or 5F-AKB48) and its fluoro positional isomers in the pentyl group
+(1AAA) [Deleted by S 792/2019 wef 01/12/2019]
 
-[S 354/2019 wef 01/05/2019]
+(1A) N-(1-Adamantyl)-5-bromopentyl-1H-indazole-3-carboxamide (also known as 5-Bromo-APINACA or 5-Bromo-AKB48) and its bromo positional isomers in the pentyl group
 
-(1AA) N-(1-Adamantyl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (also known as FUB-APINACA or FUB-AKB48) and its fluoro positional isomers in the phenyl ring
+[S 792/2019 wef 01/12/2019]
 
-[S 233/2018 wef 01/05/2018]
+(1AA) 5-{3-[(1-Adamantyl)carbamoyl]-1H-indazole-1-yl}pentanoic acid
 
-(1A) N-(1-Adamantyl)-5-fluoropentyl-1H-indole-3-carboxamide (also known as 5-Fluoro-APICA or STS-135) and its fluoro positional isomers in the pentyl group
+[S 792/2019 wef 01/12/2019]
 
-[S 254/2015 wef 01/05/2015]
+(1AB) N-(1-Adamantyl)-5-chloropentyl-1H-indazole-3-carboxamide (also known as 5-Chloro-APINACA or 5-Chloro-AKB48) and its chloro positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
+
+(1AC) N-(Adamant-1-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (also known as Adamantyl CHMINACA or SGT-37)
+
+[S 792/2019 wef 01/12/2019]
+
+(1AD) N-(1-Adamantyl)-5-hydroxypentyl-1H-indazole-3-carboxamide and its hydroxy positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
+
+(1AE) N-(1-Adamantyl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (also known as FUB-APINACA or FUB-AKB48) and its fluoro positional isomers in the phenyl ring
+
+[S 792/2019 wef 01/12/2019]
+
+(1AF) N-(1-Adamantyl)-5-fluoropentyl-1H-indazole-3-carboxamide (also known as 5-Fluoro-APINACA or 5F-AKB48) and its fluoro positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
+
+(1AG) N-(1-Adamantyl)-5-fluoropentyl-1H-indole-3-carboxamide (also known as 5-Fluoro-APICA or STS-135) and its fluoro positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
 
 (1B) N-(1-Adamantyl)-1-pentyl-1H-indazole-3-carboxamide (also known as APINACA)
 
@@ -3015,6 +3059,14 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (2A) 2-Amino-1-(4-bromo-2,5-dimethoxyphenyl)ethan-1-one (also known as bk-2C-B) and its bromo and dimethoxy positional isomers in the phenyl ring
 
 [S 200/2016 wef 01/05/2016]
+
+(2AA) 5-{3-[(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)carbamoyl]-1H-indazole-1-yl}pentanoic acid and its N-(1-amino-1-oxohexan-2-yl) isomers
+
+[S 792/2019 wef 01/12/2019]
+
+(2AB) 5-{3-[(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)carbamoyl]-1H-indole-1-yl}pentanoic acid and its N-(1-amino-1-oxohexan-2-yl) isomers
+
+[S 792/2019 wef 01/12/2019]
 
 (2B) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(cyclohexylmethyl)-1H-indazole-3-carboxamide (also known as MAB-CHMINACA or ADB-CHMINACA)
 
@@ -3030,6 +3082,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 200/2016 wef 01/05/2016]
 
+(2CA) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indole-3-carboxamide (also known as 5-Fluoro-ADBICA) and its N-(1-amino-1-oxohexan-2-yl) isomers and their respective fluoro positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
+
 (2D) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indazole-3-carboxamide (also known as ADB-PINACA)
 
 [S 200/2016 wef 01/05/2016]
@@ -3037,6 +3093,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (2DA) N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-pentyl-1H-indole-3-carboxamide (also known as ADBICA)
 
 [S 233/2018 wef 01/05/2018]
+
+(2DB) 5-{3-[(1-Amino-3-methyl-1-oxobutan-2-yl)carbamoyl]-1H-indazole-1-yl}pentanoic acid and its N-(1-amino-1-oxopentan-2-yl) isomers
+
+[S 792/2019 wef 01/12/2019]
 
 (2E) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-chloropentyl)-1H-indazole-3-carboxamide (also known as 5-Chloro-AB-PINACA) and its N-(1-amino-1-oxopentan-2-yl) and N-(1-amino-2-methyl-1-oxobutan-2-yl) isomers and their respective chloro positional isomers in the pentyl group
 
@@ -3049,6 +3109,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (2G) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indazole-3-carboxamide (also known as AB-FUBINACA) and its N-(1-amino-1-oxopentan-2-yl) and N-(1-amino-2-methyl-1-oxobutan-2-yl) isomers and their respective fluoro positional isomers in the phenyl ring
 
 [S 233/2018 wef 01/05/2018]
+
+(2GA) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(4-fluorobenzyl)-1H-indole-3-carboxamide (also known as AB-FUBICA) and its N-(1-amino-1-oxopentan-2-yl) isomers and their respective fluoro positional isomers in the phenyl ring
+
+[S 792/2019 wef 01/12/2019]
 
 (2H) N-(1-Amino-3-methyl-1-oxobutan-2-yl)-1-(5-fluoropentyl)-1H-indazole-3-carboxamide (also known as 5-Fluoro-AB-PINACA) and its N-(1-amino-1-oxopentan-2-yl) and N-(1-amino-2-methyl-1-oxobutan-2-yl) isomers and their respective fluoro positional isomers in the pentyl group
 
@@ -3118,6 +3182,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 587/2018 wef 01/10/2018]
 
+(6G) [1-(5-Bromopent-1-yl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone (also known as 5-Bromo-UR-144) and its bromo positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
+
 (7) 17-Carboxy-16,17-dihydromitragynine
 
 (8) 16-Carboxymitragynine
@@ -3137,6 +3205,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (8AC) [1-(5-Chloropent-1-yl)-1H-indazol-3-yl](naphthalen-1-yl)methanone (also known as 5-Chloro-THJ-018) and its chloro positional isomers in the pentyl group
 
 [S 587/2018 wef 01/10/2018]
+
+(8AD) [1-(5-Chloropent-1-yl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone (also known as 5-Chloro-UR-144) and its chloro positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
 
 (8B) 1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine (also known as MT-45)
 
@@ -3196,17 +3268,33 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 233/2018 wef 01/05/2018]
 
+(19AAB) Ethyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as 5-Fluoro-AEB or 5-Fluoro-EMB-PINACA) and its pentanoate isomers and their respective fluoro positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
+
 (19A) Ethylphenidate
 
 [S 200/2016 wef 01/05/2016]
 
-(19ABA) 2-[1-(4-Fluorobenzyl)-1H-indazole-3-carboxamido]-3-methylbutanoic acid and its 1-pentanoic acid and 2-methylbutanoic acid isomers and their respective fluoro positional isomers in the phenyl ring
+(19ABA) 2-[1-(4-Fluorobenzyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoic acid and its hexanoic acid isomers and their respective fluoro positional isomers in the phenyl ring
 
-[S 587/2018 wef 01/10/2018]
+[S 792/2019 wef 01/12/2019]
 
-(19ABB) 2-[1-(4-Fluorobutyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoic acid and its hexanoic acid isomers and their respective fluoro positional isomers in the butyl group
+(19ABB) 2-[1-(4-Fluorobenzyl)-1H-indazole-3-carboxamido]-3-methylbutanoic acid and its 1-pentanoic acid and 2-methylbutanoic acid isomers and their respective fluoro positional isomers in the phenyl ring
 
-[S 150/2019 wef 25/03/2019]
+[S 792/2019 wef 01/12/2019]
+
+(19ABC) 2-[1-(4-Fluorobenzyl)-1H-indole-3-carboxamido]-3-methylbutanoic acid and its 1-pentanoic acid and 2-methylbutanoic acid isomers and their respective fluoro positional isomers in the phenyl ring
+
+[S 792/2019 wef 01/12/2019]
+
+(19ABD) [1-(4-Fluorobenzyl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone (also known as FUB-144 or FUB-UR-144) and its fluoro positional isomers in the phenyl ring
+
+[S 792/2019 wef 01/12/2019]
+
+(19ABE) 2-[1-(4-Fluorobutyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoic acid and its hexanoic acid isomers and their respective fluoro positional isomers in the butyl group
+
+[S 792/2019 wef 01/12/2019]
 
 (19AB) 4-Fluoromethylphenidate and its fluoro positional isomers in the phenyl ring
 
@@ -3240,6 +3328,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 233/2018 wef 01/05/2018]
 
+(20D) 2-[1-(5-Fluoropentyl)-1H-indazole-3-carboxamido]-3-methylbutanoic acid and its 1-pentanoic acid and 2-methylbutanoic acid isomers and their respective fluoro positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
+
 (21) 1-(4-Fluorophenyl)piperazine (also known as 4-Fluorophenylpiperazine or 4-FPP) and its fluoro positional isomers in the phenyl ring
 
 [S 254/2015 wef 01/05/2015]
@@ -3263,6 +3355,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (27AA) [1-(5-Hydroxypent-1-yl)-1H-indazol-3-yl](naphthalen-1-yl)methanone and its hydroxy positional isomers in the pentyl group
 
 [S 587/2018 wef 01/10/2018]
+
+(27AB) [1-(5-Hydroxypent-1-yl)-1H-indol-3-yl](2,2,3,3-tetramethylcyclopropyl)methanone and its hydroxy positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
 
 (27A) 1-(1H-Indol-5-yl)propan-2-amine (also known as 5-IT) and its 4-yl, 6-yl and 7-yl isomers
 
@@ -3288,6 +3384,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 233/2018 wef 01/05/2018]
 
+(27F) N-[1-(3-Methoxyphenyl)cyclohexyl]-piperidine (also known as 3-Methoxyphencyclidine or 3-Methoxy-PCP or 3-MeO-PCP) and its methoxy positional isomers in the phenyl ring
+
+[S 792/2019 wef 01/12/2019]
+
 (28) 2-(3-Methoxyphenyl)-2-(N-ethylamino)cyclohexanone (also known as methoxetamine)
 
 (28A) Methyl 2-[1-(cyclohexylmethyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (also known as MDMB-CHMINACA)
@@ -3305,6 +3405,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (28D) Methyl 2-[1-(cyclohexylmethyl)-1H-indole-3-carboxamido]-3-methylbutanoate (also known as MMB-CHMICA) and its 1-pentanoate and 2-methylbutanoate isomers
 
 [S 233/2018 wef 01/05/2018]
+
+(28DA) Methyl 3,3-dimethyl-2-(1-(pent-4-en-1-yl)-1H-indazole-3-carboxamido)butanoate (also known as MDMB-4en-PINACA or MDMB-PINACA N1-pentyl-4-en isomer or MDMB(N)-022) and its hexanoate isomers and their respective pentenyl positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
 
 (28E) Methyl 2-[1-(4-fluorobenzyl)-1H-indazole-3-carboxamido]-3,3-dimethylbutanoate (also known as MDMB-FUBINACA) and its fluoro positional isomers in the phenyl ring
 
@@ -3328,13 +3432,17 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 [S 233/2018 wef 01/05/2018]
 
-(28I) Methyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as 5-Fluoro-AMB) and its 1-pentanoate and 2-methylbutanoate isomers and their respective fluoro positional isomers in the pentyl group
+(28I) Methyl 2-[1-(5-fluoropentyl)-1H-indazole-3-carboxamido]-3-methylbutanoate (also known as 5-Fluoro-AMB or 5-Fluoro-MMB-PINACA) and its pentanoate isomers and their respective fluoro positional isomers in the pentyl group
 
-[S 233/2018 wef 01/05/2018]
+[S 792/2019 wef 01/12/2019]
 
 (28J) Methyl 2-[1-(5-fluoropentyl)-1H-indole-3-carboxamido]-3, 3-dimethylbutanoate (also known as 5-Fluoro-MDMB-PICA) and its hexanoate isomers and their respective fluoro positional isomers in the pentyl group
 
 [S 233/2018 wef 01/05/2018]
+
+(28K) Methyl 2-[1-(5-fluoropentyl)-1H-indole-3-carboxamido]-3-phenylpropanoate (also known as 5-Fluoro-MPP-PICA or 5-Fluoro-MPhP-PICA or MPHP-2201) and its fluoro positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
 
 (29) N-Methyl-1-(4-fluorophenyl)propan-2-amine (also known as 4-Fluoromethamphetamine or 4-FMA) and its fluoro positional isomers in the phenyl ring
 
@@ -3406,7 +3514,9 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 
 (38) (1-Pentyl-1H-indol-3-yl)(2,2,3,3-tetramethylcyclopropyl)methanone (also known as UR-144)
 
-(38AA) [Deleted by S 354/2019 wef 01/05/2019]
+(38AA) 4-{3-[(2-Phenylprop-2-yl)carbamoyl]-1H-indazole-1-yl}butanoic acid and its phenylpropyl isomers
+
+[S 792/2019 wef 01/12/2019]
 
 (38A) Quinolin-8-yl 1-(cyclohexylmethyl)-1H-indole-3-carboxylate (also known as BB-22 or QUCHIC)
 
@@ -3423,6 +3533,10 @@ including any salt or stereoisomeric form of the above compounds, and any prepar
 (39) Salvinorin A
 
 [S 323/2014 wef 01/05/2014]
+
+(40) 5-[3-(2,2,3,3-Tetramethylcyclopropanecarbonyl)-1H-indol-1-yl]pentanoic acid
+
+[S 792/2019 wef 01/12/2019]
 
 19. Any compound (other than serotonin) structurally derived from 2-(1H-indol-3-yl)ethanamine (also known as tryptamine) by modification in any of the following ways:
 
@@ -4710,9 +4824,11 @@ Amphetamine
 
 2. 
 
-N,α-Dimethyl-3,4-(methylenedioxy)phenethylamine (also known as MDMA)
+N,α-Dimethyl-3,4-(methylenedioxy)phenethylamine (also known as 3,4-Methylenedioxymethamphetamine or MDMA)
 
 [S 323/2014 wef 01/05/2014]
+
+[S 792/2019 wef 01/12/2019]
 
 2A. 
 
@@ -4796,19 +4912,37 @@ Temporarily listed drugs
 
 1. The following compounds, including any salt or stereoisomeric form of such compounds, and any preparation or product containing such compounds:
 
-(1) 5-(5-Fluoropentyl)-2-(2-phenylpropan-2-yl)-pyrido[4,3-b]indol-1-one (also known as 2-Cumyl-5-(5-fluoropentyl)-gamma-carbolin-1-one or 5-Fluoro-cumyl-PEGACLONE) and its phenylpropyl isomers and their respective fluoro positional isomers in the pentyl group
+(1) 6-Allyl-6-nor-lysergic acid diethylamide (also known as N-allyl-nor-LSD or AL-LAD) and its acyclic secondary and tertiary amide structural isomers
 
-[S 354/2019 wef 01/05/2019]
+[S 792/2019 wef 01/12/2019]
 
-(2) 2-(2-Phenylpropan-2-yl)-5-pentyl-pyrido[4,3-b]indol-1-one (also known as 2‐Cumyl‐5‐pentylgamma‐carbolin‐1‐one or cumyl PEGACLONE or SGT-151) and its phenylpropyl isomers
+(2) 1-Butanoyl-N,N-diethyllysergamide (also known as 1-Butanoyl-LSD or 1B-LSD) and its acyclic secondary and tertiary amide structural isomers
 
-[S 354/2019 wef 01/05/2019]
+[S 792/2019 wef 01/12/2019]
 
-(3) [Deleted by S 354/2019 wef 01/05/2019]
+(3) 6-Ethyl-6-nor-lysergic acid diethylamide (also known as ETH-LAD) and its acyclic secondary and tertiary amide structural isomers
 
-(4) [Deleted by S 354/2019 wef 01/05/2019]
+[S 792/2019 wef 01/12/2019]
 
-(5) [Deleted by S 354/2019 wef 01/05/2019]
+(4) 5-(5-Fluoropentyl)-2-(2-phenylpropan-2-yl)-pyrido[4,3-b]indol-1-one (also known as 2-Cumyl-5-(5-fluoropentyl)-gamma-carbolin-1-one or 5-Fluoro-cumyl-PEGACLONE) and its phenylpropyl isomers and their respective fluoro positional isomers in the pentyl group
+
+[S 792/2019 wef 01/12/2019]
+
+(5) Lysergic acid 2,4-dimethylazetidine (also known as LSZ)
+
+[S 792/2019 wef 01/12/2019]
+
+(6) 2-(2-Phenylpropan-2-yl)-5-pentyl-pyrido[4,3-b]indol-1-one (also known as 2-Cumyl-5-pentylgamma-carbolin-1-one or cumyl PEGACLONE or SGT-151) and its phenylpropyl isomers
+
+[S 792/2019 wef 01/12/2019]
+
+(7) 1-Propionyl-N,N-diethyllysergamide (also known as 1-Propionyl-LSD or 1P-LSD) and its acyclic secondary and tertiary amide structural isomers
+
+[S 792/2019 wef 01/12/2019]
+
+(8) 6-Propyl-6-nor-lysergic acid diethylamide (also known as PRO-LAD) and its acyclic secondary and tertiary amide structural isomers
+
+[S 792/2019 wef 01/12/2019]
 
 ## LEGISLATIVE HISTORY
 
@@ -5008,6 +5142,8 @@ This Legislative History is provided for the convenience of users of the Misuse 
 ||Date of First Reading|19 November 2018 (Bill No. 51/2018 published on 19 November 2018)|
 ||Date of Second and Third Readings|15 January 2019|
 ||Date of commencement|1 August 2019|
+|64.|**G.N. No. S 792/2019—Misuse of Drugs Act (Amendment of First, Fourth and Fifth Schedules) Order 2019**|
+||Date of commencement|1 December 2019|
 ## COMPARATIVE TABLE
 
 Misuse of Drugs Act
