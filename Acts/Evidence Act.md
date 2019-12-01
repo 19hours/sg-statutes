@@ -3312,6 +3312,12 @@ Health Sciences Authority
 
 Health Sciences Authority Act (Chapter 122C).
 
+6B.
+
+Home Team Science and Technology Agency
+
+Home Team Science and Technology Agency Act 2019 (Act 21 of 2019).
+
 7.
 
 Housing and Development Board
@@ -3415,6 +3421,8 @@ Trade Development Board Act
 Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340).
+
+[S 738/2019 wef 01/12/2019]
 
 [S 174/2019 wef 01/04/2019]
 
@@ -3665,3 +3673,5 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of commencement|31 October 2018|
 |47.|**G.N. No. S 174/2019—Evidence Act (Amendment of Second Schedule) Order 2019**|
 ||Date of commencement|1 April 2019|
+|48.|**G.N. No. S 738/2019—Evidence Act (Amendment of Second Schedule) (No. 2) Order 2019**|
+||Date of commencement|1 December 2019|
