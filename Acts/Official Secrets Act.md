@@ -410,6 +410,12 @@ Government Technology Agency
 
 [Act 23 of 2016 wef 01/10/2016]
 
+12B. 
+
+Home Team Science and Technology Agency
+
+[Act 21 of 2019 wef 01/12/2019]
+
 13. 
 
 Housing and Development Board
@@ -613,3 +619,7 @@ This Legislative History is provided for the convenience of users of the Officia
 ||Date of First Reading|8 January 2018 (Bill No. 3/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|1 April 2018|
+|35.|**Act 21 of 2019—Home Team Science and Technology Agency Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 15/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|6 August 2019|
+||Date of commencement|1 December 2019|
