@@ -296,7 +296,7 @@ President.
 
 Date of Commencement: 1 April 2018
 
-An Act to provide for a consistent governance framework across public bodies in Singapore and to support a whole-of-government approach to the delivery of services in the Singapore public sector, and to make consequential and related amendments to certain other Acts.
+An Act to provide for a consistent governance framework across public bodies in Singapore and to support a whole‑of‑government approach to the delivery of services in the Singapore public sector, and to make consequential and related amendments to certain other Acts.
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
 
@@ -4380,6 +4380,12 @@ Health Sciences Authority
 
 Health Sciences Authority Act (Chapter 122C)
 
+15A.
+
+Home Team Science and Technology Agency
+
+Home Team Science and Technology Agency Act 2019
+
 16.
 
 Housing and Development
@@ -4656,6 +4662,8 @@ Workforce Singapore Agency Act (Chapter 305D)
 [Act 11 of 2019 wef 01/04/2019]
 
 [Act 10 of 2018 wef 01/04/2018]
+
+[Act 21 of 2019 wef 01/12/2019]
 
 Part 2
 
