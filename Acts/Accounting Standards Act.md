@@ -436,6 +436,12 @@ Health Sciences Authority
 
 Health Sciences Authority Act (Chapter 122C)
 
+14A.
+
+Home Team Science and Technology Agency
+
+Home Team Science and Technology Agency Act 2019
+
 15.
 
 Housing and Development Board
@@ -768,6 +774,8 @@ Singapore Pharmacy Council
 
 Pharmacists Registration Act (Chapter 230)
 
+[Act 21 of 2019 wef 01/12/2019]
+
 [S 80/2019 wef 01/04/2019]
 
 [Act 11 of 2019 wef 01/04/2019]
@@ -864,3 +872,7 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of commencement|1 April 2019|
 |15.|**G.N. No. S 80/2019—Accounting Standards Act (Amendment of Schedule) Order 2019**|
 ||Date of commencement|1 April 2019|
+|16.|**Act 21 of 2019—Home Team Science and Technology Agency Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 15/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|6 August 2019|
+||Date of commencement|1 December 2019|
