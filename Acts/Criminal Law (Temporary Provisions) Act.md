@@ -1030,6 +1030,12 @@ Services provided by forensic specialists (within the meaning of the Police Forc
 
 [Act 10 of 2015 wef 01/06/2015]
 
+30. 
+
+Services of a scientific or technological character (including systems development and technological support for operations) provided by the Home Team Science and Technology Agency.
+
+[Act 21 of 2019 wef 01/12/2019]
+
 Part II
 
 FORM 1
@@ -1552,6 +1558,10 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of First Reading|9 January 2018 (Bill No. 5/2018 published on 9 January 2018)|
 ||Date of Second and Third Readings|6 February 2018|
 ||Date of commencement|21 October 2019|
+|63.|**Act 21 of 2019—Home Team Science and Technology Agency Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 15/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|6 August 2019|
+||Date of commencement|1 December 2019|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
