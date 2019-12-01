@@ -169,6 +169,12 @@ Government Technology Agency
 
 Government Technology Agency Act 2016
 
+6C.
+
+Home Team Science and Technology Agency
+
+Home Team Science and Technology Agency Act 2019
+
 7.
 
 Housing and Development Board
@@ -388,6 +394,8 @@ Urban Redevelopment Authority Act
 
 (Chapter 340)
 
+[Act 21 of 2019 wef 01/12/2019]
+
 [Act 11 of 2019 wef 01/04/2019]
 
 [Act 10 of 2019 wef 01/04/2019]
@@ -594,3 +602,7 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of First Reading|15 January 2019 (Bill No. 4/2019 published on 15 January 2019)|
 ||Date of Second and Third Readings|12 February 2019|
 ||Date of commencement|1 April 2019|
+|48.|**Act 21 of 2019—Home Team Science and Technology Agency Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 15/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|6 August 2019|
+||Date of commencement|1 December 2019|
