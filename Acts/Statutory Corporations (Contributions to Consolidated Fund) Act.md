@@ -192,6 +192,12 @@ Health Sciences Authority
 
 Health Sciences Authority Act (Chapter 122C)
 
+15A.
+
+Home Team Science and Technology Agency
+
+Home Team Science and Technology Agency Act 2019
+
 16.
 
 Housing and Development Board
@@ -380,6 +386,8 @@ Urban Redevelopment Authority
 
 Urban Redevelopment Authority Act (Chapter 340)
 
+[Act 21 of 2019 wef 01/12/2019]
+
 [Act 11 of 2019 wef 01/04/2019]
 
 [Act 10 of 2018 wef 01/04/2018]
@@ -533,3 +541,7 @@ This Legislative History is provided for the convenience of users of the Statuto
 ||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
 ||Date of Second and Third Readings|12 February 2019|
 ||Date of commencement|1 April 2019|
+|38.|**Act 21 of 2019—Home Team Science and Technology Agency Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 15/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|6 August 2019|
+||Date of commencement|1 December 2019|
