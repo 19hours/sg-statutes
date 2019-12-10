@@ -1375,7 +1375,9 @@ Article 7
 
 Transboundary Movement from a Party through States which are not Parties
 
-Paragraph 2 of Article 6 of the Convention shall apply mutatis mutandis to transboundary movement of hazardous wastes or other wastes from a Party through a State or States which are not Parties.
+Paragraph 1 of Article 6 of the Convention shall apply mutatis mutandis to transboundary movement of hazardous wastes or other wastes from a Party through a State or States which are not Parties.
+
+[S 820/2019 wef 10/12/2019]
 
 Article 8
 
@@ -1931,6 +1933,24 @@ Y45
 
 Organohalogen compounds other than substances referred to in this Annex (eg. Y39, Y41, Y42, Y43, Y44).
 
+(a)
+
+To facilitate the application of this Convention, and subject to paragraphs (b), (c) and (d), wastes listed in Annex VIII are characterised as hazardous pursuant to Article 1, paragraph 1(a), of this Convention, and wastes listed in Annex IX are not covered by Article 1, paragraph 1(a), of this Convention.
+
+(b)
+
+Designation of a waste on Annex VIII does not preclude, in a particular case, the use of Annex III to demonstrate that a waste is not hazardous pursuant to Article 1, paragraph 1(a), of this Convention.
+
+(c)
+
+Designation of a waste on Annex IX does not preclude, in a particular case, characterisation of such a waste as hazardous pursuant to Article 1, paragraph 1(a), of this Convention if it contains Annex I material to an extent causing it to exhibit an Annex III characteristic.
+
+(d)
+
+Annexes VIII and IX do not affect the application of Article 1, paragraph 1(a), of this Convention for the purpose of characterisation of wastes.
+
+[S 820/2019 wef 10/12/2019]
+
 Annex II
 
 Categories of Wastes Requiring
@@ -2456,6 +2476,1426 @@ Article 10
 
 3\. Any dispute which may arise between the parties concerning the interpretation or execution of the award may be submitted by either party to the arbitral tribunal which made the award or, if the latter cannot be seized thereof, to another tribunal constituted for this purpose in the same manner as the first.
 
+Annex VIII
+
+LIST A
+
+Wastes contained in this Annex are characterised as hazardous under Article 1, paragraph 1(a), of this Convention, and their designation on this Annex does not preclude the use of Annex III to demonstrate that a waste is not hazardous.
+
+A1 — METAL AND METAL-BEARING WASTES
+
+A1010
+
+Metal wastes and waste consisting of alloys of any of the following:
+
+(a)
+
+Antimony
+
+(b)
+
+Arsenic
+
+(c)
+
+Beryllium
+
+(d)
+
+Cadmium
+
+(e)
+
+Lead
+
+(f)
+
+Mercury
+
+(g)
+
+Selenium
+
+(h)
+
+Tellurium
+
+(i)
+
+Thallium
+
+but excluding such wastes specifically listed on list B
+
+A1020
+
+Waste having as constituents or contaminants, excluding metal waste in massive form, any of the following:
+
+(a)
+
+Antimony; antimony compounds
+
+(b)
+
+Beryllium; beryllium compounds
+
+(c)
+
+Cadmium; cadmium compounds
+
+(d)
+
+Lead; lead compounds
+
+(e)
+
+Selenium; selenium compounds
+
+(f)
+
+Tellurium; tellurium compounds
+
+A1030
+
+Wastes having as constituents or contaminants any of the following:
+
+(a)
+
+Arsenic; arsenic compounds
+
+(b)
+
+Mercury; mercury compounds
+
+(c)
+
+Thallium; thallium compounds
+
+A1040
+
+Wastes having as constituents any of the following:
+
+(a)
+
+Metal carbonyls
+
+(b)
+
+Hexavalent chromium compounds
+
+A1050
+
+Galvanic sludges
+
+A1060
+
+Wastes liquors from the pickling of metals
+
+A1070
+
+Leaching residues from zinc processing, dust and sludges such as jarosite, hematite, etc.
+
+A1080
+
+Waste zinc residues not included on list B, containing lead and cadmium in concentrations sufficient to exhibit Annex III characteristics
+
+A1090
+
+Ashes from the incineration of insulated copper wire
+
+A1100
+
+Dusts and residues from gas cleaning systems of copper smelters
+
+A1110
+
+Spent electrolytic solutions from copper electrorefining and electrowinning operations
+
+A1120
+
+Waste sludges, excluding anode slimes, from electrolyte purification systems in copper electrorefining and electrowinning operations
+
+A1130
+
+Spent etching solutions containing dissolved copper
+
+A1140
+
+Waste cupric chloride and copper cyanide catalysts
+
+A1150
+
+Precious metal ash from incineration of printed circuit boards not included on list B1
+
+A1160
+
+Waste lead-acid batteries, whole or crushed
+
+A1170
+
+Unsorted waste batteries excluding mixtures of only list B batteries. Waste batteries not specified on list B containing Annex I constituents to an extent to render them hazardous
+
+A1180
+
+Waste electrical and electronic assemblies or scrap2containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCB-capacitors, or contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) to an extent that they possess any of the characteristics contained in Annex III (note the related entry on list B B1110)3
+
+A1190
+
+Waste metal cables coated or insulated with plastics containing or contaminated with coal tar, PCB4, lead, cadmium, other organohalogen compounds or other Annex I constituents to an extent that they exhibit Annex III characteristics.
+
+A2 — WASTES CONTAINING PRINCIPALLY INORGANIC CONSTITUENTS, WHICH MAY CONTAIN METALS AND ORGANIC MATERIALS
+
+A2010
+
+Glass waste from cathode-ray tubes and other activated glasses
+
+A2020
+
+Waste inorganic fluorine compounds in the form of liquids or sludges but excluding such wastes specified on list B
+
+A2030
+
+Waste catalysts but excluding such wastes specified on list B
+
+A2040
+
+Waste gypsum arising from chemical industry processes, when containing Annex I constituents to the extent that it exhibits an Annex III hazardous characteristic (note the related entry on list B B2080)
+
+A2050
+
+Waste asbestos (dusts and fibres)
+
+A2060
+
+Coal-fired power plant fly-ash containing Annex I substances in concentrations sufficient to exhibit Annex III characteristics (note the related entry on list B B2050)
+
+A3 — WASTES CONTAINING PRINCIPALLY ORGANIC CONSTITUENTS, WHICH MAY CONTAIN METALS AND INORGANIC MATERIALS
+
+A3010
+
+Waste from the production or processing of petroleum coke and bitumen
+
+A3020
+
+Waste minerals oils unfit for their originally intended use
+
+A3030
+
+Wastes that contain, consist of or are contaminated with leaded anti-knock compound sludges
+
+A3040
+
+Waste thermal (heat transfer) fluids
+
+A3050
+
+Wastes from production, formulation and use of resins, latex, plasticizers, glues/adhesives excluding such wastes specified on list B (note the related entry on list B B4020)
+
+A3060
+
+Waste nitrocellulose
+
+A3070
+
+Waste phenols, phenol compounds including chlorophenol in the form of liquids or sludges
+
+A3080
+
+Waste ethers not including those specified on list B
+
+A3090
+
+Waste leather dust, ash, sludges and flours when containing hexavalent chromium compounds or biocides (note the related entry on list B B3100)
+
+A3100
+
+Waste paring and other waste of leather or of composition leather not suitable for the manufacture of leather articles containing hexavalent chromium compounds or biocides (note the related entry on list B B3090)
+
+A3110
+
+Fellmongery wastes containing hexavalent chromium compounds or biocides or infectious substances (note the related entry on list B B3110)
+
+A3120
+
+Fluff-light fraction from shredding
+
+A3130
+
+Waste organic phosphorous compounds
+
+A3140
+
+Waste non-halogenated organic solvents but excluding such wastes specified on list B
+
+A3150
+
+Waste halogenated organic solvents
+
+A3160
+
+Waste halogenated or unhalogenated non-aqueous distillation residues arising from organic solvent recovery operations
+
+A3170
+
+Wastes arising from the production of aliphatic halogenated hydrocarbons (such as chloromethane, dichloro-ethane, vinyl chloride, vinylidene chloride, allyl chloride and epichlorhydrin)
+
+A3180
+
+Wastes, substances and articles containing, consisting of or contaminated with polychlorinated biphenyl (PCB), polychlorinated terphenyl (PCT), polychlorinated naphthalene (PCN) or polybrominated biphenyl (PBB), or any other polybrominated analogues of these compounds, at a concentration level of 50 mg/kg or more5
+
+A3190
+
+Waste tarry residues (excluding asphalt cements) arising from refining, distillation and any pyrolitic treatment of organic materials
+
+A3200
+
+Bituminous material (asphalt waste) from road construction and maintenance, containing tar (note the related entry on list B B2130)
+
+A4 — WASTES WHICH MAY CONTAIN EITHER INORGANIC OR ORGANIC CONSTITUENTS
+
+A4010
+
+Wastes from the production, preparation and use of pharmaceutical products but excluding such wastes specified on list B
+
+A4020
+
+Clinical and related wastes; that is wastes arising from medical, nursing, dental, veterinary, or similar practices, and wastes generated in hospitals or other facilities during the investigation or treatment of patients, or research projects
+
+A4030
+
+Wastes from the production, formulation and use of biocides and phytopharmaceuticals, including waste pesticides and herbicides which are off-specification, outdated,6or unfit for their originally intended use
+
+A4040
+
+Wastes from the manufacture, formulation and use of wood-preserving chemicals7
+
+A4050
+
+Wastes that contain, consist of or are contaminated with any of the following:
+
+(a)
+
+Inorganic cyanides, excepting precious-metal-bearing residues in solid form containing traces of inorganic cyanides
+
+(b)
+
+Organic cyanides
+
+A4060
+
+Waste oils/water, hydrocarbons/water mixtures, emulsions
+
+A4070
+
+Wastes from the production, formulation and use of inks, dyes, pigments, paints, lacquers, varnish excluding any such waste specified on list B (note the related entry on list B B4010)
+
+A4080
+
+Wastes of an explosive nature (but excluding such wastes specified on list B)
+
+A4090
+
+Waste acidic or basic solutions, other than those specified in the corresponding entry on list B (note the related entry on list B B2120)
+
+A4100
+
+Wastes from industrial pollution control devices for cleaning of industrial off-gases but excluding such wastes specified on list B
+
+A4110
+
+Wastes that contain, consist of or are contaminated with any of the following:
+
+(a)
+
+Any congenor of polychlorinated dibenzo-furan
+
+(b)
+
+Any congenor of polychlorinated dibenzo-p-dioxin
+
+A4120
+
+Wastes that contain, consist of or are contaminated with peroxides
+
+A4130
+
+Waste packages and containers containing Annex I substances in concentrations sufficient to exhibit Annex III hazard characteristics
+
+A4140
+
+Waste consisting of or containing off‑specification or outdated8chemicals corresponding to Annex I categories and exhibiting Annex III hazard characteristics
+
+A4150
+
+Waste chemical substances arising from research and development or teaching activities which are not identified and/or are new and whose effects on human health and/or the environment are not known
+
+A4160
+
+Spent activated carbon not included on list B (note the related entry on list B B2060)
+
+Notes
+
+1.
+
+Note that mirror entry on list B (B1160) does not specify exceptions.
+
+2.
+
+This entry does not include scrap assemblies from electric power generation.
+
+3.
+
+PCBs are at a concentration level of 50 mg/kg or more.
+
+4.
+
+PCBs are at a concentration level of 50 mg/kg or more.
+
+5.
+
+The 50 mg/kg level is considered to be an internationally practical level for all wastes. However, many individual countries have established lower regulatory levels (e.g., 20 mg/kg) for specific wastes.
+
+6.
+
+“Outdated” means unused within the period recommended by the manufacturer.
+
+7.
+
+This entry does not include wood treated with wood preserving chemicals.
+
+8.
+
+“Outdated” means unused within the period recommended by the manufacturer.
+
+[S 820/2019 wef 10/12/2019]
+
+Annex IX
+
+LIST B
+
+Wastes contained in the Annex will not be wastes covered by Article 1, paragraph 1(a), of this Convention unless they contain Annex I material to an extent causing them to exhibit an Annex III characteristic.
+
+B1 — METAL AND METAL-BEARING WASTES
+
+B1010
+
+Metal and metal-alloy wastes in metallic, non-dispersible form:
+
+(a)
+
+Precious metals (gold, silver, the platinum group, but not mercury)
+
+(b)
+
+Iron and steel scrap
+
+(c)
+
+Copper scrap
+
+(d)
+
+Nickel scrap
+
+(e)
+
+Aluminium scrap
+
+(f)
+
+Zinc scrap
+
+(g)
+
+Tin scrap
+
+(h)
+
+Tungsten scrap
+
+(i)
+
+Molybdenum scrap
+
+(j)
+
+Tantalum scrap
+
+(k)
+
+Magnesium scrap
+
+(l)
+
+Cobalt scrap
+
+(m)
+
+Bismuth scrap
+
+(n)
+
+Titanium scrap
+
+(o)
+
+Zirconium scrap
+
+(p)
+
+Manganese scrap
+
+(q)
+
+Germanium scrap
+
+(r)
+
+Vanadium scrap
+
+(s)
+
+Scrap of hafnium, indium, niobium, rhenium and gallium
+
+(t)
+
+Thorium scrap
+
+(u)
+
+Rare earths scrap
+
+(v)
+
+Chromium scrap
+
+B1020
+
+Clean, uncontaminated metal scrap, including alloys, in bulk finished form (sheet, plate, beams, rods, etc.), of:
+
+(a)
+
+Antimony scrap
+
+(b)
+
+Beryllium scrap
+
+(c)
+
+Cadmium scrap
+
+(d)
+
+Lead scrap (but excluding lead-acid batteries)
+
+(e)
+
+Selenium scrap
+
+(f)
+
+Tellurium scrap
+
+B1030
+
+Refractory metals containing residues
+
+B1031
+
+Molybdenum, tungsten, titanium, tantalum, niobium and rhenium metal and metal alloy wastes in metallic dispersible form (metal powder), excluding such wastes as specified in list A under entry A1050, Galvanic sludges
+
+B1040
+
+Scrap assemblies from electrical power generation not contaminated with lubricating oil, PCB or PCT to an extent to render them hazardous
+
+B1050
+
+Mixed non-ferrous metal, heavy fraction scrap, not containing Annex I materials in concentrations sufficient to exhibit Annex III characteristics1
+
+B1060
+
+Waste selenium and tellurium in metallic elemental form including powder
+
+B1070
+
+Waste of copper and copper alloys in dispersible form, unless they contain Annex I constituents to an extent that they exhibit Annex III characteristics
+
+B1080
+
+Zinc ash and residues including zinc alloys residues in dispersible form unless containing Annex I constituents in concentration such as to exhibit Annex III characteristics2
+
+B1090
+
+Waste batteries conforming to a specification, excluding those made with lead, cadmium or mercury
+
+B1100
+
+Metal-bearing wastes arising from melting, smelting and refining of metals:
+
+(a)
+
+Hard zinc spelter
+
+(b)
+
+Zinc-containing drosses
+
+(i)
+
+Galvanizing slab zinc top dross (> 90% Zn)
+
+(ii)
+
+Galvanizing slab zinc bottom dross (> 92% Zn)
+
+(iii)
+
+Zinc die casting dross (> 85% Zn)
+
+(iv)
+
+Hot dip galvanizers slab zinc dross (batch) (> 92% Zn)
+
+(v)
+
+Zinc skimmings
+
+(c)
+
+Aluminium skimmings (or skims) excluding salt slag
+
+(d)
+
+Slags from copper processing for further processing or refining not containing arsenic, lead or cadmium to an extent that they exhibit Annex III hazard characteristics
+
+(e)
+
+Wastes of refractory linings, including crucibles, originating from copper smelting
+
+(f)
+
+Slags from precious metals processing for further refining
+
+(g)
+
+Tantalum-bearing tin slags with less than 0.5% tin
+
+B1110
+
+Electrical and electronic assemblies:
+
+(a)
+
+Electronic assemblies consisting only of metals or alloys
+
+(b)
+
+Waste electrical and electronic assemblies or scrap3(including printed circuit boards) not containing components such as accumulators and other batteries included on list A, mercury-switches, glass from cathode-ray tubes and other activated glass and PCB-capacitors, or not contaminated with Annex I constituents (e.g., cadmium, mercury, lead, polychlorinated biphenyl) or from which these have been removed, to an extent that they do not possess any of the characteristics contained in Annex III (note the related entry on list A A1180)
+
+(c)
+
+Electrical and electronic assemblies (including printed circuit boards, electronic components and wires) destined for direct reuse,4and not for recycling or final disposal5
+
+B1115
+
+Waste metal cables coated or insulated with plastics, not included in list A A1190, excluding those destined for Annex IVA operations or any other disposal operations involving, at any stage, uncontrolled thermal processes, such as open-burning
+
+B1120
+
+Spent catalysts excluding liquids used as catalysts, containing any of the following:
+
+1.
+
+Transition metals, excluding waste catalysts (spent catalysts, liquid used catalysts or other catalysts) on list A:
+
+(a)
+
+Scandium
+
+(b)
+
+Vanadium
+
+(c)
+
+Manganese
+
+(d)
+
+Cobalt
+
+(e)
+
+Copper
+
+(f)
+
+Yttrium
+
+(g)
+
+Niobium
+
+(h)
+
+Hafnium
+
+(i)
+
+Tungsten
+
+(j)
+
+Titanium
+
+(k)
+
+Chromium
+
+(l)
+
+Iron
+
+(m)
+
+Nickel
+
+(n)
+
+Zinc
+
+(o)
+
+Zirconium
+
+(p)
+
+Molybdenum
+
+(q)
+
+Tantalum
+
+(r)
+
+Rhenium
+
+2.
+
+Lanthanides (rare earth metals):
+
+(a)
+
+Lanthanum
+
+(b)
+
+Praseodymium
+
+(c)
+
+Samarium
+
+(d)
+
+Gadolinium
+
+(e)
+
+Dysprosium
+
+(f)
+
+Erbium
+
+(g)
+
+Ytterbium
+
+(h)
+
+Cerium
+
+(i)
+
+Neodymium
+
+(j)
+
+Europium
+
+(k)
+
+Terbium
+
+(l)
+
+Holmium
+
+(m)
+
+Thulium
+
+(n)
+
+Lutetium
+
+B1130
+
+Cleaned spent precious-metal-bearing catalysts
+
+B1140
+
+Precious-metal-bearing residues in solid form which contain traces of inorganic cyanides
+
+B1150
+
+Precious metals and alloy wastes (gold, silver, the platinum group, but not mercury) in a dispersible, non-liquid form with appropriate packaging and labelling
+
+B1160
+
+Precious-metal ash from the incineration of printed circuit boards (note the related entry on list A A1150)
+
+B1170
+
+Precious-metal ash from the incineration of photographic film
+
+B1180
+
+Waste photographic film containing silver halides and metallic silver
+
+B1190
+
+Waste photographic paper containing silver halides and metallic silver
+
+B1200
+
+Granulated slag arising from the manufacture of iron and steel
+
+B1210
+
+Slag arising from the manufacture of iron and steel including slags as a source of TiO
+
+2
+
+and vanadium
+
+B1220
+
+Slag from zinc production, chemically stabilized, having a high iron content (above 20%) and processed according to industrial specifications (e.g., DIN 4301) mainly for construction
+
+B1230
+
+Mill scaling arising from the manufacture of iron and steel
+
+B1240
+
+Copper oxide mill-scale
+
+B1250
+
+Waste end-of-life motor vehicles, containing neither liquids nor other hazardous components
+
+B2 — WASTES CONTAINING PRINCIPALLY INORGANIC CONSTITUENTS, WHICH MAY CONTAIN METALS AND ORGANIC MATERIALS
+
+B2010
+
+Wastes from mining operations in non-dispersible form:
+
+(a)
+
+Natural graphite waste
+
+(b)
+
+Slate waste, whether or not roughly trimmed or merely cut, by sawing or otherwise
+
+(c)
+
+Mica waste
+
+(d)
+
+Leucite, nepheline and nepheline syenite waste
+
+(e)
+
+Feldspar waste
+
+(f)
+
+Fluorspar waste
+
+(g)
+
+Silica wastes in solid form excluding those used in foundry operations
+
+B2020
+
+Glass waste in non-dispersible form:
+
+(a)
+
+Cullet and other waste and scrap of glass except for glass from cathode-ray tubes and other activated glasses
+
+B2030
+
+Ceramic wastes in non-dispersible form:
+
+(a)
+
+Cermet wastes and scrap (metal ceramic composites)
+
+(b)
+
+Ceramic based fibres not elsewhere specified or included
+
+B2040
+
+Other wastes containing principally inorganic constituents:
+
+(a)
+
+Partially refined calcium sulphate produced from flue-gas desulphurization (FGD)
+
+(b)
+
+Waste gypsum wallboard or plasterboard arising from the demolition of buildings
+
+(c)
+
+Slag from copper production, chemically stabilized, having a high iron content (above 20%) and processed according to industrial specifications (e.g., DIN 4301 and DIN 8201) mainly for construction and abrasive applications
+
+(d)
+
+Sulphur in solid form
+
+(e)
+
+Limestone from the production of calcium cyanamide (having a pH less than 9)
+
+(f)
+
+Sodium, potassium, calcium chlorides
+
+(g)
+
+Carborundum (silicon carbide)
+
+(h)
+
+Broken concrete
+
+(i)
+
+Lithium-tantalum and lithium-niobium containing glass scraps
+
+B2050
+
+Coal-fired power plant fly-ash, not included on list A (note the related entry on list A A2060)
+
+B2060
+
+Spent activated carbon not containing any Annex I constituents to the extent they exhibit Annex III characteristics, for example, carbon resulting from the treatment of potable water and processes of the food industry and vitamin production (note the related entry on list A A4160)
+
+B2070
+
+Calcium fluoride sludge
+
+B2080
+
+Waste gypsum arising from chemical industry processes not included on list A (note the related entry on list A A2040)
+
+B2090
+
+Waste anode butts from steel or aluminium production made of petroleum coke or bitumen and cleaned to normal industry specifications (excluding anode butts from chlor alkali electrolyses and from metallurgical industry)
+
+B2100
+
+Waste hydrates of aluminium and waste alumina and residues from alumina production excluding such materials used for gas cleaning, flocculation or filtration processes
+
+B2110
+
+Bauxite residue (“red mud”) (pH moderated to less than 11.5)
+
+B2120
+
+Waste acidic or basic solutions with a pH greater than 2 and less than 11.5, which are not corrosive or otherwise hazardous (note the related entry on list A A4090)
+
+B2130
+
+Bituminous material (asphalt waste) from road construction and maintenance, not containing tar6(note the related entry on list A A3200)
+
+B3 — WASTES CONTAINING PRINCIPALLY ORGANIC CONSTITUENTS, WHICH MAY CONTAIN METALS AND INORGANIC MATERIALS
+
+B3010
+
+Solid plastic waste:
+
+The following plastic or mixed plastic materials, provided they are not mixed with other wastes and are prepared to a specification:
+
+1.
+
+Scrap plastic of non-halogenated polymers and co-polymers, including but not limited to the following:7
+
+(a)
+
+ethylene
+
+(b)
+
+styrene
+
+(c)
+
+polypropylene
+
+(d)
+
+polyethylene terephthalate
+
+(e)
+
+acrylonitrile
+
+(f)
+
+butadiene
+
+(g)
+
+polyacetals
+
+(h)
+
+polyamides
+
+(i)
+
+polybutylene terephthalate
+
+(j)
+
+polycarbonates
+
+(k)
+
+polyethers
+
+(l)
+
+polyphenylene sulphides
+
+(m)
+
+acrylic polymers
+
+(n)
+
+alkanes C10-C13 (plasticizer)
+
+(o)
+
+polyurethane (not containing CFCs)
+
+(p)
+
+polysiloxanes
+
+(q)
+
+polymethyl methacrylate
+
+(r)
+
+polyvinyl alcohol
+
+(s)
+
+polyvinyl butyral
+
+(t)
+
+polyvinyl acetate
+
+2.
+
+Cured waste resins or condensation products including the following:
+
+(a)
+
+urea formaldehyde resins
+
+(b)
+
+phenol formaldehyde resins
+
+(c)
+
+melamine formaldehyde resins
+
+(d)
+
+epoxy resins
+
+(e)
+
+alkyd resins
+
+(f)
+
+polyamides
+
+3.
+
+The following fluorinated polymer wastes:8
+
+(a)
+
+perfluoroethylene/propylene (FEP)
+
+(b)
+
+perfluoro alkoxyl alkane
+
+(c)
+
+tetrafluoroethylene/per fluoro vinyl ether (PFA)
+
+(d)
+
+tetrafluoroethylene/per fluoro methylvinyl ether (MFA)
+
+(e)
+
+polyvinylfluoride (PVF)
+
+(f)
+
+polyvinylidenefluoride (PVDF)
+
+B3020
+
+Paper, paperboard and paper product wastes
+
+The following materials, provided they are not mixed with hazardous wastes:
+
+Waste and scrap of paper or paperboard of:
+
+(a)
+
+unbleached paper or paperboard or of corrugated paper or paperboard
+
+(b)
+
+other paper or paperboard, made mainly of bleached chemical pulp, not coloured in the mass
+
+(c)
+
+paper or paperboard made mainly of mechanical pulp (for example, newspapers, journals and similar printed matter)
+
+(d)
+
+other, including but not limited to 1) laminated paperboard 2) unsorted scrap
+
+B3026
+
+The following waste from the pre-treatment of composite packaging for liquids, not containing Annex I materials in concentrations sufficient to exhibit Annex III characteristics:
+
+(a)
+
+Non-separable plastic fraction
+
+(b)
+
+Non-separable plastic-aluminium fraction
+
+B3027
+
+Self-adhesive label laminate waste containing raw materials used in label material production
+
+B3030
+
+Textile wastes
+
+The following materials, provided they are not mixed with other wastes and are prepared to a specification:
+
+1.
+
+Silk waste (including cocoons unsuitable for reeling, yarn waste and garnetted stock)
+
+(a)
+
+not carded or combed
+
+(b)
+
+other
+
+2.
+
+Waste of wool or of fine or coarse animal hair, including yarn waste but excluding garnetted stock
+
+(a)
+
+noils of wool or of fine animal hair
+
+(b)
+
+other waste of wool or of fine animal hair
+
+(c)
+
+waste of coarse animal hair
+
+3.
+
+Cotton waste (including yarn waste and garnetted stock)
+
+(a)
+
+yarn waste (including thread waste)
+
+(b)
+
+garnetted stock
+
+(c)
+
+other
+
+4.
+
+Flax tow and waste
+
+5.
+
+Tow and waste (including yarn waste and garnetted stock) of true hemp (
+
+Cannabis sativa
+
+L.)
+
+6.
+
+Tow and waste (including yarn waste and garnetted stock) of jute and other textile bast fibres (excluding flax, true hemp and ramie)
+
+7.
+
+Tow and waste (including yarn waste and garnetted stock) of sisal and other textile fibres of the genus Agave
+
+8.
+
+Tow, noils and waste (including yarn waste and garnetted stock) of coconut
+
+9.
+
+Tow, noils and waste (including yarn waste and garnetted stock) of abaca (Manila hemp or
+
+Musa textilis
+
+Nee)
+
+10.
+
+Tow, noils and waste (including yarn waste and garnetted stock) of ramie and other vegetable textile fibres, not elsewhere specified or included
+
+11.
+
+Waste (including noils, yarn waste and garnetted stock) of man-made fibres
+
+(a)
+
+of synthetic fibres
+
+(b)
+
+of artificial fibres
+
+12.
+
+Worn clothing and other worn textile articles
+
+13.
+
+Used rags, scrap twine, cordage, rope and cables and worn out articles of twine, cordage, rope or cables of textile materials
+
+(a)
+
+sorted
+
+(b)
+
+other
+
+B3035
+
+Waste textile floor coverings, carpets
+
+B3040
+
+Rubber wastes
+
+The following materials, provided they are not mixed with other wastes:
+
+(a)
+
+Waste and scrap of hard rubber (e.g., ebonite)
+
+(b)
+
+Other rubber wastes (excluding such wastes specified elsewhere)
+
+B3050
+
+Untreated cork and wood waste:
+
+(a)
+
+Wood waste and scrap, whether or not agglomerated in logs, briquettes, pellets or similar forms
+
+(b)
+
+Cork waste: crushed, granulated or ground cork
+
+B3060
+
+Wastes arising from agro-food industries provided it is not infectious:
+
+(a)
+
+Wine lees
+
+(b)
+
+Dried and sterilized vegetable waste, residues and by-products, whether or not in the form of pellets, of a kind used in animal feeding, not elsewhere specified or included
+
+(c)
+
+Degras: residues resulting from the treatment of fatty substances or animal or vegetable waxes
+
+(d)
+
+Waste of bones and horn-cores, unworked, defatted, simply prepared (but not cut to shape), treated with acid or degelatinised
+
+(e)
+
+Fish waste
+
+(f)
+
+Cocoa shells, husks, skins and other cocoa waste
+
+(g)
+
+Other wastes from the agro-food industry excluding by-products which meet national and international requirements and standards for human or animal consumption
+
+B3065
+
+Waste edible fats and oils of animal or vegetable origin (e.g., frying oils), provided they do not exhibit an Annex III characteristic
+
+B3070
+
+The following wastes:
+
+(a)
+
+Waste of human hair
+
+(b)
+
+Waste straw
+
+(c)
+
+Deactivated fungus mycelium from penicillin production to be used as animal feed
+
+B3080
+
+Waste parings and scrap of rubber
+
+B3090
+
+Paring and other wastes of leather or of composition leather not suitable for the manufacture of leather articles, excluding leather sludges, not containing hexavalent chromium compounds and biocides (note the related entry on list A A3100)
+
+B3100
+
+Leather dust, ash, sludges or flours not containing hexavalent chromium compounds or biocides (note the related entry on list A A3090)
+
+B3110
+
+Fellmongery wastes not containing hexavalent chromium compounds or biocides or infectious substances (note the related entry on list A A3110)
+
+B3120
+
+Wastes consisting of food dyes
+
+B3130
+
+Waste polymer ethers and waste non-hazardous monomer ethers incapable of forming peroxides
+
+B3140
+
+Waste pneumatic tyres, excluding those destined for Annex IVA operations
+
+B4 — WASTES WHICH MAY CONTAIN EITHER INORGANIC OR ORGANIC CONSTITUENTS
+
+B4010
+
+Wastes consisting mainly of water‑based/latex paints, inks and hardened varnishes not containing organic solvents, heavy metals or biocides to an extent to render them hazardous (note the related entry on list A A4070)
+
+B4020
+
+Wastes from production, formulation and use of resins, latex, plasticizers, glues/adhesives, not listed on list A, free of solvents and other contaminants to an extent that they do not exhibit Annex III characteristics, e.g., water‑based, or glues based on casein starch, dextrin, cellulose ethers, polyvinyl alcohols (note the related entry on list A A3050)
+
+B4030
+
+Used single-use cameras, with batteries not included on list A
+
+Notes
+
+1.
+
+Note that even where low level contamination with Annex I materials initially exists, subsequent processes, including recycling processes, may result in separated fractions containing significantly enhanced concentrations of those Annex I materials.
+
+2.
+
+The status of zinc ash is currently under review and there is a recommendation with the United Nations Conference on Trade and Development (UNCTAD) that zinc ashes should not be dangerous goods.
+
+3.
+
+This entry does not include scrap from electrical power generation.
+
+4.
+
+Reuse can include repair, refurbishment or upgrading, but not major reassembly.
+
+5.
+
+In some countries these materials destined for direct reuse are not considered wastes.
+
+6.
+
+The concentration level of Benzol (a) pyrene should not be 50 mg/kg or more.
+
+7.
+
+It is understood that such scraps are completely polymerised.
+
+8.—(a)
+
+Post-consumer wastes are excluded from this entry;
+
+(b)
+
+Wastes shall not be mixed;
+
+(c)
+
+Problems arising from open-burning practices to be considered.
+
+[S 820/2019 wef 10/12/2019]
+
 ## LEGISLATIVE HISTORY
 
 Hazardous Waste (Control of Export, Import and Transit) Act
@@ -2477,3 +3917,5 @@ This Legislative History is provided for the convenience of users of the Hazardo
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
+|4.|**G.N. No. S 820/2019—Hazardous Waste (Control of Export, Import and Transit) Act (Amendment of Schedule) Regulations 2019**|
+||Date of commencement|10 December 2019|
