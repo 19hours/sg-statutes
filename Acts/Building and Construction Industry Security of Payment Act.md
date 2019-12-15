@@ -42,6 +42,8 @@
 
 - [14 Appointment of adjudicator](#Appointment-of-adjudicator)
 
+- [14A Appointment of replacement adjudicator](#Appointment-of-replacement-adjudicator)
+
 - [15 Adjudication responses](#Adjudication-responses)
 
 - [16 Commencement of adjudication and adjudication procedures](#Commencement-of-adjudication-and-adjudication-procedures)
@@ -49,6 +51,8 @@
 - [17 Determination of adjudicator](#Determination-of-adjudicator)
 
 - [18 Adjudication review applications](#Adjudication-review-applications)
+
+- [18A Appointment of replacement review adjudicator](#Appointment-of-replacement-review-adjudicator)
 
 - [19 Adjudication review procedures, etc.](#Adjudication-review-procedures-etc)
 
@@ -73,6 +77,8 @@
 [**Part VI GENERAL PROVISIONS RELATING TO ADJUDICATION**](#Part-VI)
 
 - [28 Authorised nominating bodies](#Authorised-nominating-bodies)
+
+- [28A Authorised nominating body to maintain trust account](#Authorised-nominating-body-to-maintain-trust-account)
 
 - [29 Eligibility criteria for adjudicators](#Eligibility-criteria-for-adjudicators)
 
@@ -142,7 +148,15 @@ PRELIMINARY
 
 “adjudication response” means a response to an adjudication application lodged by a respondent under section 15(1);
 
-“adjudicator” means a person appointed under this Act to determine a payment claim dispute that has been referred for adjudication, and includes a review adjudicator or a panel of review adjudicators appointed under section 18(5)(b);
+“adjudicator” means a person appointed under this Act to determine a payment claim dispute that has been referred for adjudication, and includes —
+
+(a) a replacement adjudicator appointed under section 14A(3);
+
+(b) a review adjudicator or a panel of review adjudicators appointed under section 18(5)(b); and
+
+(c) a replacement review adjudicator or a replacement member of a panel of review adjudicators appointed under section 18A(3);
+
+[Act 47 of 2018 wef 15/12/2019]
 
 “authorised nominating body” means a person authorised under section 28(1);
 
@@ -162,7 +176,9 @@ PRELIMINARY
 
 (b) the land or the premises in relation to which goods or services have been, are being or will be supplied under the contract;
 
-“contract” means a construction contract or a supply contract;
+“contract” means a construction contract or a supply contract, and includes a construction contract or a supply contract that has been terminated;
+
+[Act 47 of 2018 wef 15/12/2019]
 
 “costs”, in relation to an adjudication, includes —
 
@@ -186,6 +202,10 @@ PRELIMINARY
 
 (b) where there is no such person, a person who owns the construction site concerned;
 
+“patent error”, in relation to a payment claim, means an error that is obvious, manifest or otherwise easily recognisable on the face of the claim;
+
+[Act 47 of 2018 wef 15/12/2019]
+
 “payment claim” means a claim made by a claimant for a progress payment under section 10;
 
 “payment response”, in relation to a construction contract, means a response to a payment claim made by a respondent under section 11(1) or 12(4);
@@ -194,9 +214,13 @@ PRELIMINARY
 
 “progress payment” means a payment to which a person is entitled for the carrying out of construction work, or the supply of goods or services, under a contract, and includes —
 
-(a) a single or one-off payment; or
+(a) a single or one-off payment (including a final payment); or
 
-(b) a payment that is based on an event or a date;
+[Act 47 of 2018 wef 15/12/2019]
+
+(b) a payment that is based on an event or a date (including a final payment);
+
+[Act 47 of 2018 wef 15/12/2019]
 
 “respondent” means a person who is or may be liable to make a progress payment under a contract to a claimant;
 
@@ -276,9 +300,39 @@ but does not include such agreements as may be prescribed.
 
 (i) it contains provisions under which a party undertakes to carry out construction work, or supply goods or services, as an employee (within the meaning of the Employment Act (Cap. 91)) of the party for whom the construction work is to be carried out or the goods or services are to be supplied; or
 
-(ii) it deals with construction work carried out outside Singapore, or goods or services supplied in relation to construction work carried out outside Singapore; and
+(ii) it deals with construction work carried out outside Singapore, or goods or services supplied in relation to construction work carried out outside Singapore;
 
-(c) such contract or class of contracts as may be prescribed.
+[Act 47 of 2018 wef 15/12/2019]
+
+(c) any terminated contract to the extent that —
+
+(i) the terminated contract contains provisions relating to termination that permit the respondent to suspend progress payments to the claimant until a date or the occurrence of an event specified in the contract; and
+
+(ii) that date has not passed or that event has not occurred;
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(d) any contract for the prefabrication, in Singapore, of components intended for construction work to be carried out on a construction site outside Singapore, where any one of the parties to the contract is not —
+
+(i) a body corporate incorporated under any written law in Singapore;
+
+(ii) a limited partnership registered under the Limited Partnerships Act (Cap. 163B); or
+
+(iii) a person carrying on a business that is registered under the Business Names Registration Act 2014 (Act 29 of 2014); and
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(e) such other contract or class of other contracts as may be prescribed.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(2A) To avoid doubt, this Act —
+
+(a) applies to a contract that deals with the prefabrication (whether in or outside Singapore) of components that will form part of any building, structure or works, where the contract is for the supply of these prefabricated components for construction work to be carried out on a construction site in Singapore; and
+
+(b) does not apply to claims made between former parties to a contract in relation to any construction work that is carried out, or goods or services that are supplied, at the time of or after the termination of the contract.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (3) For the purpose of this section, a contract shall be treated as being made in writing —
 
@@ -358,11 +412,13 @@ or, in the absence of the matters referred to in sub-paragraphs (i), (ii) and (i
 
 (4) Where a supply contract does not provide for the date on which a progress payment becomes due and payable, the progress payment becomes due and payable immediately upon the expiry of 30 days after the relevant payment claim is served under section 10.
 
-(5) The interest payable on the unpaid amount of a progress payment that has become due and payable —
+(5) The interest payable on the unpaid amount of a progress payment that has become due and payable is at the higher of the following rates:
 
-(a) shall be at the rate specified in or determined in accordance with the terms of the contract; or
+(a) the rate specified in or determined in accordance with the terms of the contract;
 
-(b) where the contract does not contain such provision, shall be at the rate prescribed in respect of judgment debts under the Supreme Court of Judicature Act (Cap. 322).
+(b) the rate prescribed in respect of judgment debts under the Supreme Court of Judicature Act (Cap. 322).
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (6) For the purpose of subsections (1) and (2) and subject to the Goods and Services Tax Act (Cap. 117A), the claimant may submit the tax invoice referred to in subsection (1)(b)(i) or (2)(a) at any time after the payment response referred to in subsection (1)(b)(ii) or (2)(b), respectively, is provided, notwithstanding anything to the contrary in the contract.
 
@@ -396,11 +452,35 @@ PAYMENT CLAIMS AND RESPONSES
 
 (b) such other person as specified in or identified in accordance with the terms of the contract for this purpose.
 
-(2) A payment claim shall be served —
+(2) A payment claim must be served —
 
-(a) at such time as specified in or determined in accordance with the terms of the contract; or
+(a) not later than —
 
-(b) where the contract does not contain such provision, at such time as may be prescribed.
+(i) the date, or the last day of a period, specified in, or determined in accordance with, the terms of the contract relating to the purpose of this subsection; or
+
+(ii) the date prescribed for the purpose of this subsection if the contract does not contain such terms; and
+
+(b) not later than 30 months after the following, whichever is applicable:
+
+(i) the date on which the goods and services to which the amount in the payment claim relates were last supplied;
+
+(ii) the latest of the following dates:
+
+(A) the date on which the construction work to which the amount in the payment claim relates was last carried out;
+
+(B) the issuance date of the last document, as at the time the payment claim is served, certifying the completion of the construction work under a contract;
+
+(C) the issuance date of the last temporary occupation permit as at the time the payment claim is served.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(2A) In subsection (2) —
+
+(a) a payment claim that is served before the date or last day mentioned in subsection (2)(a)(i) is deemed to have been served on that date or day, as the case may be; and
+
+(b) a payment claim that is served before the prescribed date mentioned in subsection (2)(a)(ii) is deemed to have been served on that date.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (3) A payment claim —
 
@@ -408,7 +488,31 @@ PAYMENT CLAIMS AND RESPONSES
 
 (b) shall be made in such form and manner, and contain such other information or be accompanied by such documents, as may be prescribed.
 
-(4) Nothing in subsection (1) shall prevent the claimant from including, in a payment claim in which a respondent is named, an amount that was the subject of a previous payment claim served in relation to the same contract which has not been paid by the respondent if, and only if, the first-mentioned payment claim is served within 6 years after the construction work to which the amount in the second-mentioned payment claim relates was last carried out, or the goods or services to which the amount in the second-mentioned payment claim relates were last supplied, as the case may be.
+(4) Nothing in subsection (1) prevents the claimant from serving an unpaid payment claim in accordance with subsection (2).
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(5) In this section —
+
+“issuance date”, for a document, means the date that the document is served;
+
+“temporary occupation permit”, in respect of a building or part of a building, means —
+
+(a) a temporary occupation permit granted under the Building Control Act (Cap. 29) for the building or part of the building; or
+
+(b) a certificate of statutory completion issued under that Act for that building or part of that building where no temporary occupation permit is granted;
+
+“unpaid payment claim” means —
+
+(a) a payment claim for which full payment has not been received, and for which an adjudication application has not been brought; or
+
+(b) a payment claim for which —
+
+(i) full payment has not been received; and
+
+(ii) an adjudication application has been brought, but was withdrawn for any reason or rejected without adjudication because the claimant’s entitlement to make an adjudication application had not arisen under section 12, or because the adjudication application did not comply with the requirements under section 13(2) or (3).
+
+[Act 47 of 2018 wef 15/12/2019]
 
 ### Payment responses, etc.
 
@@ -416,9 +520,13 @@ PAYMENT CLAIMS AND RESPONSES
 
 (a) by the date as specified in or determined in accordance with the terms of the construction contract, or within 21 days after the payment claim is served under section 10, whichever is the earlier; or
 
-(b) where the construction contract does not contain such provision, within 7 days after the payment claim is served under section 10.
+(b) where the construction contract does not contain such provision, within 14 days after the payment claim is served under section 10.
 
-(2) A respondent named in a payment claim served in relation to a supply contract may respond to the payment claim by paying to the claimant the claimed amount, or such part of the claimed amount as the respondent agrees to pay, by the due date.
+[Act 47 of 2018 wef 15/12/2019]
+
+(2) A respondent named in a payment claim served in relation to a supply contract may respond to the payment claim by paying to the claimant the claimed amount, or such part of the claimed amount as the respondent agrees to pay, or by raising objections in writing, by the due date.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (3) A payment response provided in relation to a construction contract —
 
@@ -438,7 +546,9 @@ PAYMENT CLAIMS AND RESPONSES
 
 ### Entitlement to make adjudication applications
 
-12\.—(1) Subject to subsection (2), a claimant who, in relation to a construction contract, fails to receive payment by the due date of the response amount which he has accepted is entitled to make an adjudication application under section 13 in relation to the relevant payment claim.
+12\.—(1) Subject to subsection (2), a claimant who, in relation to a construction contract, fails to receive payment by the due date of the response amount which he has accepted in writing is entitled to make an adjudication application under section 13 in relation to the relevant payment claim.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (2) Where, in relation to a construction contract —
 
@@ -447,6 +557,10 @@ PAYMENT CLAIMS AND RESPONSES
 (b) the respondent fails to provide a payment response to the claimant by the date or within the period referred to in section 11(1),
 
 the claimant is entitled to make an adjudication application under section 13 in relation to the relevant payment claim if, by the end of the dispute settlement period, the dispute is not settled or the respondent does not provide the payment response, as the case may be.
+
+(2A) For the purpose of subsection (2)(a), a claimant is considered to dispute a payment response if the claimant does not in writing accept the payment response.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (3) A claimant who has served a payment claim in relation to a supply contract is entitled to make an adjudication application under section 13 in relation to the payment claim if —
 
@@ -500,6 +614,22 @@ ADJUDICATION OF PAYMENT CLAIM DISPUTES
 
 (3) The authorised nominating body shall, within 7 days after receipt of the adjudication application, serve a notice in writing confirming the appointment of an adjudicator on the claimant, the respondent, the principal (if known) and the owner concerned.
 
+### Appointment of replacement adjudicator
+
+14A\.—(1) Where an authorised nominating body becomes aware that —
+
+(a) an adjudicator appointed under section 14 has ceased to meet the eligibility criteria for adjudicators under section 29; or
+
+(b) the adjudicator has become unable to perform the adjudicator’s duties for any reason,
+
+the authorised nominating body must refer the adjudication application to a person who is on the register of adjudicators established under section 28(4)(a) and whom the authorised nominating body considers to be appropriate for appointment as the replacement adjudicator to determine the adjudication application.
+
+(2) The person to whom the adjudication application has been referred under subsection (1) may agree or decline to determine the adjudication application.
+
+(3) The authorised nominating body must, within 7 days after becoming aware of the matters in subsection (1)(a) or (b) (as the case may be) serve on the claimant, the respondent, the principal (if known) and the owner concerned a notice in writing confirming the appointment of the person who has agreed to determine the adjudication application referred to the person under subsection (1) as the replacement adjudicator.
+
+[Act 47 of 2018 wef 15/12/2019]
+
 ### Adjudication responses
 
 15\.—(1) A respondent shall, within 7 days after receipt of a copy of an adjudication application under section 13(4)(a), lodge with the authorised nominating body a response to the adjudication application.
@@ -514,11 +644,29 @@ ADJUDICATION OF PAYMENT CLAIM DISPUTES
 
 (d) may contain or be accompanied by such other information or documents (including expert reports, photographs, correspondences and submissions) as the respondent may consider to be relevant to the adjudication response.
 
-(3) The respondent shall not include in the adjudication response, and the adjudicator shall not consider, any reason for withholding any amount, including but not limited to any cross-claim, counterclaim and set-off, unless —
+(3) Subject to subsection (3A), the respondent must not include in the adjudication response an objection of any nature, unless —
 
-(a) where the adjudication relates to a construction contract, the reason was included in the relevant payment response provided by the respondent to the claimant; or
+(a) where the adjudication relates to a construction contract, that objection was included in the relevant payment response provided by the respondent to the claimant; or
 
-(b) where the adjudication relates to a supply contract, the reason was provided by the respondent to the claimant on or before the relevant due date.
+(b) where the adjudication relates to a supply contract, that objection was raised by the respondent to the claimant in writing on or before the relevant due date.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(3A) Despite subsection (3), the respondent may include in the adjudication response an objection mentioned in subsection (3) if —
+
+(a) in the case of an adjudication that relates to a construction contract —
+
+(i) the circumstances of that objection only arose after the respondent provided the relevant payment response to the claimant; or
+
+(ii) the respondent could not reasonably have known of the circumstances when providing the relevant payment response to the claimant; or
+
+(b) in the case of an adjudication that relates to a supply contract —
+
+(i) the circumstances of that objection only arose after the relevant due date; or
+
+(ii) the respondent could not reasonably have known of the circumstances by the relevant due date.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (4) The authorised nominating body shall, upon receipt of an adjudication response —
 
@@ -532,11 +680,21 @@ ADJUDICATION OF PAYMENT CLAIM DISPUTES
 
 16\.—(1) An adjudication commences immediately upon the expiry of the period referred to in section 15(1) within which the respondent may lodge an adjudication response.
 
-(2) An adjudicator shall reject —
+(1A) If an adjudicator is appointed under section 14A(3), a new adjudication commences as if the adjudication under subsection (1) had not commenced, immediately upon expiry of the period mentioned in section 14A(3) within which the notice confirming the adjudicator’s appointment must be served.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(2) Subject to subsection (2A), an adjudicator must reject —
 
 (a) any adjudication application that is not made in accordance with section 13(3)(a), (b) or (c); and
 
 (b) any adjudication response that is not lodged within the period referred to in section 15(1).
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(2A) Despite subsection (2), an adjudicator may accept any adjudication application that is not made in accordance with section 13(3)(c) if the adjudicator is satisfied that the non-compliance does not materially prejudice the respondent.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (3) An adjudicator shall —
 
@@ -580,13 +738,17 @@ and in the event of any such failure, the adjudicator may determine the applicat
 
 17\.—(1) An adjudicator shall determine an adjudication application —
 
-(a) within 7 days after the commencement of the adjudication, if the adjudication relates to a construction contract and the respondent —
+(a) within 7 days after the commencement of the adjudication under section 16(1) or (1A) (as the case may be) or within such longer period as may have been requested by the adjudicator and agreed to by the claimant and the respondent, if the adjudication relates to a construction contract and the respondent —
 
 (i) has failed to make a payment response and to lodge an adjudication response by the commencement of the adjudication; or
 
 (ii) has failed to pay the response amount, which has been accepted by the claimant, by the due date; or
 
-(b) in any other case, within 14 days after the commencement of the adjudication or within such longer period as may have been requested by the adjudicator and agreed to by the claimant and the respondent.
+[Act 47 of 2018 wef 15/12/2019]
+
+(b) in any other case, within 14 days after the commencement of the adjudication under section 16(1) or (1A) (as the case may be) or within such longer period as may have been requested by the adjudicator and agreed to by the claimant and the respondent.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (2) An adjudicator shall, in relation to an adjudication application, determine —
 
@@ -599,6 +761,14 @@ and in the event of any such failure, the adjudicator may determine the applicat
 (d) the proportion of the costs of the adjudication payable by each party to the adjudication,
 
 and shall include, in the determination, the reasons therefor.
+
+(2A) In determining an adjudication application, an adjudicator must disregard any part of a payment claim or a payment response related to damage, loss or expense that is not supported by —
+
+(a) any document showing agreement between the claimant and the respondent on the quantum of that part of the payment claim or the payment response; or
+
+(b) any certificate or other document that is required to be issued under the contract.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (3) Subject to subsection (4), in determining an adjudication application, an adjudicator shall only have regard to the following matters:
 
@@ -619,6 +789,16 @@ and shall include, in the determination, the reasons therefor.
 (h) any other matter that the adjudicator reasonably considers to be relevant to the adjudication.
 
 (4) In determining an adjudication application, an adjudicator shall not be bound by any payment response, or any assessment in relation to the progress payment, that is provided in the contract to be final or binding on the parties thereto, whether subject to any term or condition or otherwise.
+
+(4A) The adjudicator must not consider an objection from the respondent of any nature that was not included in the adjudication response, unless —
+
+(a) the circumstances of that objection only arose after the respondent lodged the adjudication response with the authorised nominating body;
+
+(b) the respondent could not reasonably have known of those circumstances when lodging the adjudication response with the authorised nominating body; or
+
+(c) the objection relates to a patent error.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (5) If, in determining an adjudication application, an adjudicator has determined in accordance with section 7 —
 
@@ -650,11 +830,17 @@ the adjudicator may, on the adjudicator’s own initiative or on the application
 
 ### Adjudication review applications
 
-18\.—(1) This section shall apply to a respondent who is a party to an adjudication if the adjudicated amount exceeds the relevant response amount by the prescribed amount or more.
+18\.—(1) This section shall apply to a respondent who is a party to an adjudication if the adjudicated amount exceeds the relevant response amount by the prescribed amount or more, and to a claimant who is a party to an adjudication if the claimed amount exceeds the adjudicated amount by the prescribed amount or more.
 
-(2) Subject to subsection (3), where a respondent to whom this section applies is aggrieved by the determination of the adjudicator, the respondent may, within 7 days after being served the adjudication determination, lodge an application for the review of the determination with the authorised nominating body with which the application for the adjudication had been lodged under section 13.
+[Act 47 of 2018 wef 15/12/2019]
 
-(3) Where the respondent is required in consequence of the adjudication determination to pay an adjudicated amount to the claimant, the respondent shall not lodge any application for the review of the determination unless he has paid the adjudicated amount to the claimant.
+(2) Subject to subsection (3), where a respondent or a claimant to whom this section applies is aggrieved by the determination of the adjudicator, the respondent or claimant may, within 7 days after being served the adjudication determination, lodge an application for the review of the determination with the authorised nominating body with which the application for the adjudication had been lodged under section 13.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(3) Where the respondent is required in consequence of the adjudication determination to pay an adjudicated amount to the claimant, the respondent shall not lodge any application for the review of the determination unless he has paid the adjudicated amount to the authorised nominating body.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (4) An adjudication review application —
 
@@ -668,7 +854,9 @@ the adjudicator may, on the adjudicator’s own initiative or on the application
 
 (a) serve —
 
-(i) a copy thereof on the claimant; and
+(i) a copy thereof on the claimant or the respondent, as the case may be; and
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (ii) a notice in writing that the application has been made on the principal (if known) and the owner concerned; and
 
@@ -682,9 +870,47 @@ the adjudicator may, on the adjudicator’s own initiative or on the application
 
 (b) the authorised nominating body shall not appoint an adjudicator whose determination is the subject of the adjudication review.
 
+### Appointment of replacement review adjudicator
+
+18A\.—(1) Where an authorised nominating body becomes aware that —
+
+(a) a review adjudicator or a member of a panel of review adjudicators appointed under section 18(5)(b) has ceased to meet the eligibility criteria for adjudicators under section 29; or
+
+(b) a review adjudicator or a member of a panel of review adjudicators has become unable to perform the adjudicator’s duties for any reason,
+
+the authorised nominating body must refer the adjudication review application to a person who is on the register of adjudicators established under section 28(4)(a) and whom the authorised nominating body considers to be appropriate for appointment as the replacement review adjudicator or a replacement member of a panel of review adjudicators to determine the adjudication review application in place of the review adjudicator or member of a panel of review adjudicators in paragraph (a) or (b), as the case may be.
+
+(2) The person to whom the adjudication review application has been referred under subsection (1) may agree or decline to determine the adjudication review application.
+
+(3) The authorised nominating body must, within 7 days after becoming aware of the matters in subsection (1)(a) or (b) (as the case may be) serve on the parties to the adjudication review, the principal (if known) and the owner concerned a notice in writing confirming the appointment of the person who has agreed to determine the adjudication review application referred to the person under subsection (1) as the replacement review adjudicator or the replacement member of the panel of review adjudicators, as the case may be.
+
+(4) The authorised nominating body must not appoint an adjudicator whose determination is the subject of the adjudication review.
+
+[Act 47 of 2018 wef 15/12/2019]
+
 ### Adjudication review procedures, etc.
 
 19\.—(1) An adjudication review commences on the date immediately after the appointment of the review adjudicator or the panel of review adjudicators, as the case may be, is confirmed by the authorised nominating body under section 18(6).
+
+(1A) If an adjudicator is appointed under section 18A(3) to replace a review adjudicator, or if 3 adjudicators are appointed under section 18A(3) to replace 3 members of a panel of review adjudicators, a new adjudication review commences —
+
+(a) immediately upon expiry of the period mentioned in section 18A(3) within which the notice confirming the adjudicator’s appointment must be served; and
+
+(b) as if the adjudication review under subsection (1) had not commenced.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(1B) If 2 or fewer adjudicators are appointed under section 18A(3) to replace 2 or fewer members of a panel of review adjudicators, the adjudication review resumes for the reconstituted panel to hear and determine so much of the adjudication review as the panel considers fit —
+
+(a) immediately upon expiry of the period mentioned in section 18A(3) within which the notice confirming the adjudicator’s appointment must be served; and
+
+(b) whether or not any part of the adjudication review has been heard by the previous panel of adjudicators.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(1C) In subsection (1B), the reconstituted panel may have regard to the evidence given and arguments adduced during the part of the adjudication review heard by the previous panel of review adjudicators.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (2) The review adjudicator or the panel of review adjudicators, as the case may be, shall reject any adjudication review application that is not made —
 
@@ -692,7 +918,15 @@ the adjudicator may, on the adjudicator’s own initiative or on the application
 
 (b) in accordance with section 18(4)(a) or (b).
 
-(3) The review adjudicator or the panel of review adjudicators, as the case may be, shall determine the adjudication review application within 14 days after the commencement of the adjudication review or within such longer period as may have been requested by the review adjudicator or the panel of review adjudicators, as the case may be, and agreed to by the claimant and the respondent.
+(3) The review adjudicator or the panel of review adjudicators (as the case may be) must determine the adjudication review application within —
+
+(a) 14 days after the commencement of the adjudication review under subsection (1) or (1A), as the case may be;
+
+(b) the remainder of the 14 days after the resumption of the adjudication review under subsection (1B); or
+
+(c) such longer period as may have been requested by the review adjudicator or the panel of review adjudicators (as the case may be) and agreed to by the claimant and the respondent.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (4) In relation to any adjudication review application, a review adjudicator or a panel of review adjudicators, as the case may be, may —
 
@@ -704,7 +938,13 @@ the adjudicator may, on the adjudicator’s own initiative or on the application
 
 (a) the adjudicated amount (if any) to be paid by the respondent to the claimant;
 
-(b) where the adjudicated amount referred to in paragraph (a) is different from the amount that the respondent has paid to the claimant under section 18(3), the date on which the difference in amount is payable;
+(aa) the amount, if any, to be returned by the authorised nominating body to the respondent;
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(b) where the adjudicated amount referred to in paragraph (a) is different from the amount that the respondent has paid to the authorised nominating body under section 18(3), the date on which the difference in amount is payable;
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (c) the interest payable on any such amount; and
 
@@ -712,11 +952,29 @@ the adjudicator may, on the adjudicator’s own initiative or on the application
 
 and shall include, in the determination, the reasons therefor.
 
+(5A) In determining an adjudication review application, the review adjudicator or the panel of review adjudicators (as the case may be) must disregard any part of a payment claim or a payment response related to damage, loss or expense that is not supported by —
+
+(a) any document showing agreement between the claimant and the respondent on the quantum of that part of the payment claim or the payment response; or
+
+(b) any certificate or other document that is required to be issued under the contract.
+
+[Act 47 of 2018 wef 15/12/2019]
+
 (6) In determining an adjudication review application, the review adjudicator or the panel of review adjudicators, as the case may be —
 
 (a) shall only have regard to the matters referred to in section 17(3)(a) to (h) and the adjudication determination that is the subject of the adjudication review; and
 
 (b) shall not be bound by any payment response, or any assessment in relation to the progress payment, that is provided in the contract to be final or binding on the parties thereto, whether subject to any term or condition or otherwise.
+
+(6A) The review adjudicator or the panel of review adjudicators (as the case may be) must not consider an objection from the respondent of any nature that was not included in the adjudication response, unless —
+
+(a) the circumstances of the objection only arose after the respondent lodged the adjudication response with the authorised nominating body;
+
+(b) the respondent could not reasonably have known of those circumstances when lodging the adjudication response with the authorised nominating body; or
+
+(c) the objection relates to a patent error.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (7) Where a panel of review adjudicators is appointed to determine an adjudication review application, the determination shall be decided in accordance with the opinion of the majority of the review adjudicators on the panel.
 
@@ -732,13 +990,17 @@ and shall include, in the determination, the reasons therefor.
 
 (c) the respondent.
 
-(2) An adjudication review application may be withdrawn by the respondent at any time upon serving a notice of withdrawal on —
+(2) An adjudication review application may be withdrawn by the party who lodged the application at any time upon serving a notice of withdrawal on —
 
 (a) the review adjudicator or the panel of review adjudicators, as the case may be;
 
 (b) the authorised nominating body which appointed the review adjudicator or the panel of review adjudicators, as the case may be; and
 
-(c) the claimant.
+(c) the other party to the adjudication review application.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+[Act 47 of 2018 wef 15/12/2019]
 
 ### Effect of adjudication determinations and adjudication review determinations
 
@@ -756,7 +1018,7 @@ and shall include, in the determination, the reasons therefor.
 
 ### Payment of adjudicated amount
 
-22\.—(1) Where, in relation to an adjudication application, the adjudicator has determined that the respondent shall pay an adjudicated amount to the claimant, then except as provided in section 18(3), the respondent shall pay that amount —
+22\.—(1) Where, in relation to an adjudication application, the adjudicator has determined that the respondent shall pay an adjudicated amount to the claimant, then except as provided in subsection (1A) and section 18(3), the respondent shall pay that amount —
 
 (a) within 7 days after the adjudicator’s determination is served on the respondent; or
 
@@ -764,11 +1026,35 @@ and shall include, in the determination, the reasons therefor.
 
 whichever is the later.
 
-(2) Where an application for the review of an adjudicator’s determination has been lodged and the adjudication review determination differs from the adjudicator’s determination, the party required to make payment in consequence of the adjudication review determination shall do so —
+[Act 47 of 2018 wef 15/12/2019]
+
+(1A) Where a respondent is required in consequence of the adjudication determination to pay an adjudicated amount to the claimant, and the claimant is entitled under section 18(2) to lodge an application for the review of the adjudication determination, the respondent must pay that amount —
+
+(a) not earlier than 7 days but within 10 days after the respondent is served the adjudicator’s determination;
+
+(b) within 7 days after the respondent is served the adjudication review determination of an adjudication review brought by the claimant; or
+
+(c) on or before the date (if any) determined by the review adjudicator or the panel of review adjudicators under section 19(5)(b) as the date that the amount is payable,
+
+whichever is the later.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(2) Where an application for the review of an adjudicator’s determination has been lodged by the respondent, an authorised nominating body to whom an adjudicated amount has been paid under section 18(3) must pay the relevant amount to the party who is entitled to payment —
 
 (a) within 7 days after the adjudication review determination is served on that party; or
 
-(b) if the review adjudicator or the panel of review adjudicators has determined that payment may be made on a later date under section 19(5)(b), on or before that date.
+(b) on or before a later date (if any) determined by the review adjudicator or the panel of review adjudicators under section 19(5)(b) as the date that the amount is payable.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(3) Where the adjudicated amount under an adjudication review determination is higher than the adjudicated amount under the adjudication determination, a respondent who has paid the adjudicated amount under the adjudication determination to the authorised nominating body under section 18(3) must pay the difference to the claimant —
+
+(a) within 7 days after the adjudication review determination is served on the respondent; or
+
+(b) on or before a later date (if any) determined by the review adjudicator or the panel of review adjudicators under section 19(5)(b) as the date that the amount is payable.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 ## PART V
 
@@ -880,6 +1166,54 @@ the claimant shall resume such work or supply within 3 days after being served t
 
 (5) Where any party to an adjudication commences proceedings to set aside the adjudication determination or the judgment obtained pursuant to this section, he shall pay into the court as security the unpaid portion of the adjudicated amount that he is required to pay, in such manner as the court directs or as provided in the Rules of Court (Cap. 322, R 5), pending the final determination of those proceedings.
 
+(6) The grounds on which a party to an adjudication may commence proceedings under subsection (5) include, but are not limited to, the following:
+
+(a) the payment claim was not served in accordance with section 10;
+
+(b) the claimant served more than one payment claim in respect of a progress payment, otherwise than permitted under section 10;
+
+(c) the payment claim was in respect of a matter that has already been adjudicated on its merits in proceedings under this Act;
+
+(d) the adjudication application or the adjudication review application was not made in accordance with the provisions of this Act;
+
+(e) the adjudicator failed to comply with the provisions of this Act in making the adjudication determination;
+
+(f) the adjudication determination requires the claimant to pay an adjudicated amount to the respondent;
+
+(g) a breach of the rules of natural justice occurred in connection with the making of the adjudication determination;
+
+(h) the making of the adjudication determination was induced or affected by fraud or corruption.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(7) A respondent may not commence proceedings under subsection (5) on any ground if the objection to support that ground was not included in the respondent’s adjudication response, unless —
+
+(a) the circumstances of the objection to support that ground only arose after the respondent lodged the adjudication response with the authorised nominating body; or
+
+(b) the respondent could not reasonably have known of those circumstances when lodging the adjudication response with the authorised nominating body.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(8) Without affecting a court’s powers under any other written law or rule of law, a court may, in any proceedings under subsection (5) —
+
+(a) set aside an adjudication determination in whole or in part;
+
+(b) remit the whole or any part of the adjudication determination to the adjudicator;
+
+(c) correct in the adjudication determination any clerical mistake, error arising from an accidental slip or omission, or a defect of form; and
+
+(d) award costs to any party to an adjudication.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(9) Where the court makes an order of remission under subsection (8)(b) —
+
+(a) Parts IV to VII apply, with the necessary modifications, to the determination of the remitted issues by the adjudicator, as if the remitted issues were issues in an adjudication that commenced on a date specified by the court in the order; and
+
+(b) the adjudicator’s determination of the remitted issues has effect as if it were an adjudication determination for the purposes of this Act.
+
+[Act 47 of 2018 wef 15/12/2019]
+
 ## PART VI
 
 GENERAL PROVISIONS RELATING TO ADJUDICATION
@@ -906,9 +1240,35 @@ GENERAL PROVISIONS RELATING TO ADJUDICATION
 
 (d) establish a schedule of fees for adjudication services provided under or by virtue of this Act, including an adjudicator’s fees;
 
-(e) facilitate the conduct of adjudications under this Act, including the establishing of rules therefor not inconsistent with this Act or any other written law, and provide general administrative support therefor; and
+(e) facilitate the conduct of adjudications under this Act, including the establishing of rules therefor not inconsistent with this Act or any other written law, and provide general administrative support therefor;
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(ea) abide by any regulations that the Minister may prescribe; and
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (f) undertake such other functions or duties as may be imposed under this Act or as may be directed by the Minister.
+
+### Authorised nominating body to maintain trust account
+
+28A\.—(1) An authorised nominating body must open and maintain a trust account with a bank for the purpose of holding the adjudicated amount mentioned in section 18(3).
+
+(2) An authorised nominating body must not withdraw any money from a trust account except for the purpose of subsection (3) or making a payment under section 22(2).
+
+(3) All interest earned from the maintenance of adjudicated amounts received in a trust account accrue to the authorised nominating body, which may dispose of the interest in such manner as the authorised nominating body considers fit.
+
+(4) Money held in a trust account is not available for payment of the debts of an authorised nominating body or liable to be paid or taken in execution under the order or process of a court.
+
+(5) Nothing in subsection (4) takes away or affects any lawful claim that a claimant or a respondent has against money held in a trust account.
+
+(6) In this section —
+
+“bank” has the meaning given by the Banking Act (Cap. 19);
+
+“trust account” means a current or deposit account maintained in the name of the authorised nominating body at a bank, in the title of which the words “BCISOPA ANB — Adjudicated Amount Client Account” appear.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 ### Eligibility criteria for adjudicators
 
@@ -920,7 +1280,19 @@ GENERAL PROVISIONS RELATING TO ADJUDICATION
 
 (b) if there exists such circumstances as may be prescribed.
 
-(3) A person who is in any way, whether directly or indirectly, interested in any contract or other matter which relates to an adjudication application referred to him by the authorised nominating body under section 14 or 18 shall immediately disclose the nature of his interest to the authorised nominating body.
+(3) A person to whom an adjudication application has been referred by the authorised nominating body under section 14, 14A, 18 or 18A, and who —
+
+(a) is or becomes interested in any way, whether directly or indirectly, in any contract or other matter that relates to the adjudication application; or
+
+(b) is or becomes aware that he —
+
+(i) does not meet the eligibility criteria in subsection (1); or
+
+(ii) is not eligible to be an adjudicator in relation to a contract for any reason mentioned in subsection (2)(a) or (b),
+
+must immediately disclose the nature of his interest, the nature of his ineligibility or the reason for which he is not eligible (as the case may be) to the authorised nominating body.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 ### Costs of adjudication proceedings
 
@@ -940,11 +1312,15 @@ GENERAL PROVISIONS RELATING TO ADJUDICATION
 
 (b) such amount, by way of expenses, as may be agreed between the adjudicator and the parties to the adjudication or, if no such amount is agreed, then as the authorised nominating body considers to be reasonable having regard to the work done and expenses incurred by the adjudicator.
 
-(2) An adjudicator is not entitled to be paid, and shall not retain, any fee or expenses in relation to an adjudication application if he fails to make a determination on the application within the time allowed by section 17 or 19, as the case may be, otherwise than because the application is withdrawn or terminated or the dispute between the claimant and respondent is settled.
+(2) An adjudicator is not entitled to be paid, and shall not retain, any fee in relation to an adjudication application if he fails to make a determination on the application within the time allowed by section 17 or 19, as the case may be, otherwise than because the application is withdrawn or terminated or the dispute between the claimant and respondent is settled.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (3) Subsection (2) shall not apply —
 
-(a) in circumstances in which an adjudicator requires payment of the fees and expenses referred to in subsection (1) before the issue of his determination on the adjudication application; or
+(a) in circumstances in which an adjudicator requires payment of the fees referred to in subsection (1) before the issue of his determination on the adjudication application; or
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (b) in such other circumstances as may be prescribed.
 
@@ -960,9 +1336,17 @@ GENERAL PROVISIONS RELATING TO ADJUDICATION
 
 ### Protection from liability for adjudicators and authorised nominating bodies
 
-32\.—(1) No suit or other legal proceedings shall lie against an adjudicator with respect to anything done or omitted to be done in good faith in the discharge or purported discharge of his functions or duties under this Act.
+32\.—(1) No liability shall lie against an adjudicator with respect to anything done or omitted to be done in good faith in the discharge or purported discharge of his functions or duties under this Act.
 
-(2) No suit or other legal proceedings shall lie against an authorised nominating body or any person acting under the direction of the authorised nominating body with respect to anything done or omitted to be done in good faith in the discharge or purported discharge of the authorised nominating body’s functions or duties under this Act.
+[Act 47 of 2018 wef 15/12/2019]
+
+(2) No liability shall lie against an authorised nominating body or any person acting under the direction of the authorised nominating body with respect to anything done or omitted to be done —
+
+(a) in good faith in the discharge or purported discharge of the authorised nominating body’s function of nominating adjudicators under this Act; and
+
+(b) in good faith and with reasonable care in the discharge or purported discharge of any other functions or duties of the authorised nominating body under this Act.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 ### Confidentiality of adjudication
 
@@ -1028,15 +1412,45 @@ MISCELLANEOUS
 
 ### Service of documents
 
-37\.—(1) Where this Act authorises or requires a document to be served on a person, whether the expression “serve”, “lodge”, “provide” or “submit” or any other expression is used, the document may be served on the person —
+37\.—(1) Where this Act authorises or requires a document to be served on a person, whether the expression “serve”, “lodge”, “provide” or “submit” or any other expression is used, the document must be served on the person —
 
 (a) by delivering it to the person personally;
 
-(b) by leaving it during normal business hours at the usual place of business of the person; or
+(b) by leaving it during normal business hours at the usual place of business of the person;
 
-(c) by sending it by post or facsimile transmission to the usual or last known place of business of the person.
+[Act 47 of 2018 wef 15/12/2019]
 
-(2) Service of a document that is sent to the usual or last known place of business of a person under subsection (1)(c) shall be deemed to have been effected when the document is received at that place.
+(c) by sending it by post or facsimile transmission to the usual or last known place of business of the person;
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(d) by sending it by email to the person’s email address; or
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(e) by sending it by any other electronic method authorised by regulations made under section 41(1) for the service of documents of that kind if the person consents to service of a document of that kind in that way.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(2) Service of a document on a person under this section takes effect —
+
+(a) if the document is sent to the person’s usual or last known place of business under subsection (1)(c) — when the document is received at that place;
+
+(b) if the document is sent by email — at the time that the email becomes capable of being retrieved by the person; or
+
+(c) if the document is sent by any other electronic method mentioned in subsection (1)(e) — at the time that the electronic communication transmitting the document becomes capable of being retrieved by the person.
+
+[Act 47 of 2018 wef 15/12/2019]
+
+(2A) In this section, “email address” means —
+
+(a) the last email address given by the addressee concerned to the person serving the document as the email address for the service of documents; or
+
+(b) the last email address of the addressee concerned known to the person serving the document.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 (3) The provisions of this section are in addition to, and do not limit or exclude, the provisions of any other law with respect to the service of documents.
 
@@ -1052,7 +1466,9 @@ from all or any of the provisions of this Act, subject to such terms or conditio
 
 ### Amendment of specified periods
 
-39\. The Minister may, by order published in theGazette, amend section 8(1)(b), (2), (3)(b) or (4), 11(1)(a) or (b), 12(5), 13(3)(a), 14(3), 15(1), 17(1)(a) or (b), 18(2) or (6), 19(3), 22(1)(a) or (2)(a), 24(2)(b) or (3), 25(2)(c) or 26(1)(c), (4) or (5) by substituting a different period for the period for the time being specified therein.
+39\. The Minister may, by order published in theGazette, amend section 8(1)(b), (2), (3)(b) or (4), 10(2)(b), 11(1)(a) or (b), 12(5), 13(3)(a), 14(3), 14A(3), 15(1), 17(1)(a) or (b), 18(2) or (6), 18A(3), 19(3), 22(1)(a), (1A)(a) or (b), (2)(a) or (3)(a), 24(2)(b) or (3), 25(2)(c) or 26(1)(c), (4) or (5) by substituting a different period for the period for the time being specified therein.
+
+[Act 47 of 2018 wef 15/12/2019]
 
 ### Delegation of powers
 
@@ -1106,3 +1522,7 @@ This Legislative History is provided for the convenience of users of the Buildin
 |||(sections 2, 3, 4, 29 to 39, 41 and 42 and Parts II to V)|
 |3.|**2006 Revised Edition—Building and Construction Industry Security of Payment Act**|
 ||Date of operation|31 January 2006|
+|4.|**Act 47 of 2018—Building and Construction Industry Security of Payment (Amendment) Act 2018**|
+||Date of First Reading|10 September 2018 (Bill No. 38/2018 published on 10 September 2018)|
+||Date of Second and Third Readings|2 October 2018|
+||Date of commencement|15 December 2019|
