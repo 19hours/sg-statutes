@@ -697,6 +697,10 @@ General
 
 (o) the reporting of reportable safety matters under section 4O to contribute to the improvement of aviation safety by ensuring that relevant information on safety matters is reported, collected, stored, protected and disseminated;
 
+(oa) prohibiting except in prescribed circumstances the disclosure or use of flight recorder information or other prescribed information, but without limiting disclosure or use for the purposes of an investigation under the Transport Safety Investigations Act 2018 (Act 36 of 2018) or reporting a known or suspected act of unlawful interference required by that Act;
+
+[Act 34 of 2019 wef 21/12/2019]
+
 (p) requiring the operator of an aircraft that is flying into or out of Singapore to have a policy of insurance that insures the operator in respect of such liabilities as may be prescribed;
 
 (q) prescribing fees (either by specifying amounts or by prescribing a method of calculation) in relation to services, applications or requests, or the doing of anything, under this Part or the regulations made under this section; and
@@ -796,6 +800,14 @@ General
 (7) Where any regulation is made under this section regulating the conditions under which noise and vibration may be caused by aircraft on aerodromes, no liability shall lie in respect of nuisance by reason only of the noise and vibration caused by aircraft on an aerodrome to which the regulation applies, so long as the provisions of that regulation are duly complied with.
 
 [10/2014]
+
+(7A) If a person is prohibited by any regulations under subsection (1)(oa) from disclosing or using any flight recorder information or other information, then —
+
+(a) the person cannot be required by any court to disclose that information; and
+
+(b) any information disclosed by the person in contravention of that prohibition is not admissible in any civil proceedings or other proceedings or any criminal proceedings other than proceedings against the person for an offence under those regulations.
+
+[Act 34 of 2019 wef 21/12/2019]
 
 (8) All regulations made under this section shall be presented to Parliament as soon as possible after publication in theGazette.
 
@@ -1063,9 +1075,27 @@ Aviation safety instruments
 
 [10/2014]
 
-(3) Any person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 and, in the case of a second or subsequent conviction for the like offence, to a fine not exceeding $100,000.
+(3) Any person who contravenes subsection (2) shall be guilty of an offence.
 
 [10/2014]
+
+[Act 34 of 2019 wef 21/12/2019]
+
+(3A) A person who is guilty of an offence under subsection (3) shall be liable on conviction —
+
+(a) to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; but
+
+(b) where the person is a repeat offender, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 34 of 2019 wef 21/12/2019]
+
+(3B) A person is a repeat offender in relation to an offence under subsection (3) relating to an aviation safety instrument which is required under any aviation safety subsidiary legislation if the person has been convicted or found guilty (whether before, on or after the date of commencement of section 3 of the Air Navigation (Amendment) Act 2019) on at least one other earlier occasion of —
+
+(a) an offence under subsection (3) relating to an activity or act in respect of any aircraft, aeronautical product or aviation‑related service for which the same type of aviation safety instrument is required under any aviation safety subsidiary legislation; or
+
+(b) an offence under an order made under section 3 relating to an activity or act in respect of any aircraft, aeronautical product or aviation‑related service for which the same type of aviation safety instrument is required under such an order.
+
+[Act 34 of 2019 wef 21/12/2019]
 
 (4) Subject to any such aviation safety subsidiary legislation, an aviation safety instrument may be issued by the Authority for such specified period and subject to such conditions as the Authority considers appropriate in each particular case.
 
@@ -1717,9 +1747,23 @@ Special powers and prohibited activities
 
 (b) a photograph is taken of the whole or any part of a protected area using that photographic equipment on board the unmanned aircraft,
 
-the operator of the unmanned aircraft, and the person taking the photograph if the person is not the operator, shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+the operator of the unmanned aircraft, and the person taking the photograph if the person is not the operator, shall each be guilty of an offence.
 
 [Act 16 of 2015 wef 01/06/2015]
+
+[Act 34 of 2019 wef 21/12/2019]
+
+(2A) A person who is guilty of an offence under subsection (2) shall be liable on conviction —
+
+(a) to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; but
+
+(b) where the person is a repeat offender, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 34 of 2019 wef 21/12/2019]
+
+(2B) A person is a repeat offender in relation to an offence under subsection (2) if the person has been convicted or found guilty (whether before, on or after the date of commencement of section 4 of the Air Navigation (Amendment) Act 2019) on at least one other earlier occasion of an offence under subsection (2).
+
+[Act 34 of 2019 wef 21/12/2019]
 
 (3) In proceedings for an offence under subsection (2) —
 
@@ -1755,7 +1799,21 @@ the operator of the unmanned aircraft, and the person taking the photograph if t
 
 7A\.—(1) A person must not operate an unmanned aircraft to fly, at any height, over any part of any protected area declared under section 7.
 
-(2) Every operator of an unmanned aircraft who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+(2) Every operator of an unmanned aircraft who contravenes subsection (1) shall be guilty of an offence.
+
+[Act 34 of 2019 wef 21/12/2019]
+
+(2A) A person who is guilty of an offence under subsection (2) shall be liable on conviction —
+
+(a) to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; but
+
+(b) where the person is a repeat offender, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 34 of 2019 wef 21/12/2019]
+
+(2B) A person is a repeat offender in relation to an offence under subsection (2) if the person has been convicted or found guilty (whether before, on or after the date of commencement of section 5 of the Air Navigation (Amendment) Act 2019) on at least one other earlier occasion of an offence under subsection (2).
+
+[Act 34 of 2019 wef 21/12/2019]
 
 (3) In proceedings for an offence under subsection (2) —
 
@@ -1815,7 +1873,21 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 (b) the unmanned aircraft when so flying discharges anything (whether gaseous, liquid or solid),
 
-the person shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000.
+the person shall be guilty of an offence.
+
+[Act 34 of 2019 wef 21/12/2019]
+
+(1A) A person who is guilty of an offence under subsection (1) shall be liable on conviction —
+
+(a) to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 2 years or to both; but
+
+(b) where the person is a repeat offender, to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
+
+[Act 34 of 2019 wef 21/12/2019]
+
+(1B) A person is a repeat offender in relation to an offence under subsection (1) if the person has been convicted or found guilty (whether before, on or after the date of commencement of section 6 of the Air Navigation (Amendment) Act 2019) on at least one other earlier occasion of an offence under subsection (1).
+
+[Act 34 of 2019 wef 21/12/2019]
 
 (2) In proceedings for an offence under subsection (1), it is not necessary for the prosecution to prove that an accused knew or had reason to believe that the unmanned aircraft discharged anything while in flight, but it is a defence to the charge if the accused proves, on a balance of probabilities, that —
 
@@ -2002,6 +2074,20 @@ and any reference in this Act to an aircraft in flight includes a reference to a
 (4) Any person who contravenes subsection (1), (2) or (3) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 5 years or to both.
 
 [10/2014]
+
+(5) Despite subsection (4), where a person commits an offence under subsection (1) or (2) by doing any act, or causing or permitting any act —
+
+(a) involving an unmanned aircraft; and
+
+(b) knowing that or reckless as to whether, when so acting or causing or permitting the act, the life or property of another person could be endangered or the person could be endangered,
+
+then the person who is guilty of the offence shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
+
+[Act 34 of 2019 wef 21/12/2019]
+
+(6) For the purposes of subsection (1) or (2), it is immaterial that the accused is the holder of an aviation safety instrument or is exempt from a requirement to hold an aviation safety instrument.
+
+[Act 34 of 2019 wef 21/12/2019]
 
 ### Flying without satisfying safety requirements
 
@@ -2803,13 +2889,17 @@ AVIATION SECURITY
 
 [10/2014]
 
-(5) The National Civil Aviation Security Authority may, in writing, and subject to such conditions or restrictions as it thinks fit, delegate all or any of its powers under this Part or any aviation security regulations to any aviation security inspector, or to any officer or employee of the National Civil Aviation Security Authority who carries on activities that relate to national security, except the power of delegation conferred by this section.
+(5) The National Civil Aviation Security Authority may, in writing, and subject to such conditions or restrictions as it thinks fit, delegate all or any of its powers under this Part or any aviation security regulations to any aviation security inspector or public officer, or to any officer or employee of the National Civil Aviation Security Authority who carries on activities that relate to national security, except the power of delegation conferred by this section.
 
 [10/2014]
 
-(6) Any power delegated under subsection (5) to an aviation security inspector or an officer or employee of the National Civil Aviation Security Authority may be performed or exercised by the inspector, officer or employee to whom the power has been delegated in the name and on behalf of the National Civil Aviation Security Authority.
+[Act 34 of 2019 wef 21/12/2019]
+
+(6) Any power delegated under subsection (5) to an aviation security inspector, a public officer or an officer or employee of the National Civil Aviation Security Authority may be performed or exercised by the inspector, officer or employee to whom the power has been delegated in the name and on behalf of the National Civil Aviation Security Authority.
 
 [10/2014]
+
+[Act 34 of 2019 wef 21/12/2019]
 
 (7) No delegation under this section shall prevent the performance or exercise of any function, duty or power by the National Civil Aviation Security Authority.
 
@@ -3559,7 +3649,9 @@ the authorised person may, subject to subsection (3), exercise all or any of the
 
 [Act 18 of 2018 wef 29/06/2018]
 
-(4) Any person who, without reasonable excuse, contravenes any direction under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
+(4) Any person who, without reasonable excuse, contravenes any direction under subsection (2)(a) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 34 of 2019 wef 21/12/2019]
 
 (5) A Magistrate may, on an application by the Authority, make an order authorising the Authority to destroy or otherwise dispose of any thing seized under subsection (2)(c) by a safety inspector, if the Magistrate is satisfied that —
 
@@ -3690,6 +3782,10 @@ This Legislative History is provided for the convenience of users of the Air Nav
 ||Date of First Reading|17 May 2018 (Bill No. 22/2018 published on 17 May 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|15 September 2018|
+|17.|**Act 34 of 2019—Air Navigation (Amendment) Act 2019**|
+||Date of First Reading|7 October 2019 (Bill No. 27/2019 published on 7 October 2019)|
+||Date of Second and Third Readings|4 November 2019|
+||Date of commencement|21 December 2019|
 ## COMPARATIVE TABLE
 
 Air Navigation Act
