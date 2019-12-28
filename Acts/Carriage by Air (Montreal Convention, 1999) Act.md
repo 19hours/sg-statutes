@@ -819,6 +819,47 @@ In the case of destruction, loss, damage or delay with respect to cargo
 
 [S 613/2009 wef 30/12/2009]
 
+SECOND ADDENDUM
+
+REVISED LIMITS OF LIABILITY
+
+
+
+
+UNDER ARTICLES 21 AND 22
+
+The limits of liability prescribed in Articles 21 and 22 have, following a review by the Depositary and its Notification to States Parties in accordance with paragraph 2 of Article 24, been revised and shall, with effect from 28 December 2019, be as follows:
+
+Provision in Convention
+
+Revised Limits of Liability (Special Drawing Rights)
+
+Article 21, paragraph 1
+
+In the case of death or bodily injury of a passenger
+
+128,821 per passenger
+
+Article 22, paragraph 1
+
+In the case of delay in the carriage of persons
+
+5,346 per passenger
+
+Article 22, paragraph 2
+
+In the case of destruction, loss, damage or delay with respect to baggage
+
+1,288 per passenger
+
+Article 22, paragraph 3
+
+In the case of destruction, loss, damage or delay with respect to cargo
+
+22 per kilogram of cargo.
+
+[S 734/2019 wef 28/12/2019]
+
 ## LEGISLATIVE HISTORY
 
 Carriage by Air (Montreal Convention, 1999) Act
@@ -838,3 +879,5 @@ This Legislative History is provided for the convenience of users of the Carriag
 ||Date of operation|31 July 2008|
 |3.|**G. N. No. S 613/2009—Carriage by Air (Montreal Convention, 1999) (Revision of Limits of Liability) Order 2009**|
 ||Date of commencement|30 December 2009|
+|4.|**G.N. No. S 734/2019—Carriage by Air (Montreal Convention, 1999) (Revision of Limits of Liability) Order 2019**|
+||Date of commencement|28 December 2019|
