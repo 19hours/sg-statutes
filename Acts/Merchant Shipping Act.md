@@ -2250,7 +2250,9 @@ LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
 
 134\. In this Part —
 
-“Convention” means the Convention on Limitation of Liability for Maritime Claims, 1976, as set out in the Schedule;
+“Convention” means the Convention on Limitation of Liability for Maritime Claims, 1976, as amended by the Protocol of 1996 to Amend the Convention on Limitation of Liability for Maritime Claims and set out in the Schedule;
+
+[Act 3 of 2019 wef 29/12/2019]
 
 “ship” in the Convention includes —
 
@@ -2283,6 +2285,14 @@ LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
 ### Limitation of liability for maritime claims
 
 136\.—(1) Subject to this Part, the provisions of the Convention, other than paragraph 1(d) and (e) of Article 2 of the Convention, shall have the force of law in Singapore.
+
+(1A) In paragraph 2 of Article 2 of the Convention —
+
+(a) the reference to paragraph 1 is a reference to paragraph 1(a), (b), (c) and (f) of that Article; and
+
+(b) the reference to paragraph 1(d), (e) and (f) is a reference to paragraph 1(f) of that Article.
+
+[Act 3 of 2019 wef 29/12/2019]
 
 (2) For the purposes of paragraph 3 of Article 6 of the Convention, it is hereby provided that a claim in respect of damage to harbour works, basins, waterways or aids to navigation has priority over any other claim under paragraph 1(b) of that Article.
 
@@ -2354,9 +2364,9 @@ LIABILITY OF SHIPOWNERS AND SALVORS FOR MARITIME CLAIMS
 
 ### Saving
 
-144\. Nothing in the Merchant Shipping (Amendment) Act 2004 shall apply in relation to any liability arising out of an occurrence which took place before the coming into operation of that Act, and the repealed Part VIII in force immediately before the coming into operation of that Act shall continue to apply to that occurrence as if that Act had not been enacted.
+144\. Nothing in section 5(a) or 16(a), (b) or (c) of the Merchant Shipping (Miscellaneous Amendments) Act 2019 applies in relation to any liability arising out of an occurrence which took place before the date of commencement of that provision, and the Merchant Shipping Act as in force immediately before that date continues to apply in relation to such an occurrence as if that provision had not been enacted.
 
-[56/2004 wef 01/05/2005]
+[Act 3 of 2019 wef 29/12/2019]
 
 ## PART IX
 
@@ -3172,29 +3182,37 @@ The general limits
 
 (a) in respect of claims for loss of life or personal injury,
 
-(i) 333,000 Units of Account for a ship with a tonnage not exceeding 500 tons;
+(i) 3.02 million Units of Account for a ship with a tonnage not exceeding 2,000 tons;
 
-(ii) for a ship with a tonnage in excess thereof, the following amount in addition to that mentioned in sub-paragraph (i):
+[S 816/2019 wef 29/12/2019]
 
- for each ton from 501 to 3,000 tons, 500 Units of Account;
+(ii) for a ship with a tonnage in excess of 2,000 tons, the following amount in addition to that mentioned in sub-paragraph (i):
 
- for each ton from 3,001 to 30,000 tons, 333 Units of Account;
+for each ton from 2,001 to 30,000 tons, 1,208 Units of Account;
 
- for each ton from 30,001 to 70,000 tons, 250 Units of Account; and
+for each ton from 30,001 to 70,000 tons, 906 Units of Account; and
 
- for each ton in excess of 70,000 tons, 167 Units of Account;
+for each ton in excess of 70,000 tons, 604 Units of Account;
+
+[S 816/2019 wef 29/12/2019]
 
 (b) in respect of any other claims,
 
-(i) 167,000 Units of Account for a ship with a tonnage not exceeding 500 tons;
+(i) 1.51 million Units of Account for a ship with a tonnage not exceeding 2,000 tons;
 
-(ii) for a ship with a tonnage in excess thereof, the following amount in addition to that mentioned in sub-paragraph (i):
+[S 816/2019 wef 29/12/2019]
 
- for each ton from 501 to 30,000 tons, 167 Units of Account;
+(ii) for a ship with a tonnage in excess of 2,000 tons, the following amount in addition to that mentioned in sub-paragraph (i):
 
- for each ton from 30,001 to 70,000 tons, 125 Units of Account; and
+for each ton from 2,001 to 30,000 tons, 604 Units of Account;
 
- for each ton in excess of 70,000 tons, 83 Units of Account.
+for each ton from 30,001 to 70,000 tons, 453 Units of Account; and
+
+for each ton in excess of 70,000 tons, 302 Units of Account.
+
+[Act 3 of 2019 wef 29/12/2019]
+
+[S 816/2019 wef 29/12/2019]
 
 2\. Where the amount calculated in accordance with paragraph 1(a) is insufficient to pay the claims mentioned therein in full, the amount calculated in accordance with paragraph 1(b) shall be available for payment of the unpaid balance of claims under paragraph 1(a) and such unpaid balance shall rank rateably with claims mentioned under paragraph 1(b).
 
@@ -3208,7 +3226,9 @@ Article 7
 
 The limit for passenger claims
 
-1\. In respect of claims arising on any distinct occasion for loss of life or personal injury to passengers of a ship, the limit of liability of the shipowner thereof shall be an amount of 46,666 Units of Account multiplied by the number of passengers which the ship is authorised to carry according to the ship’s certificate, but not exceeding 25 million Units of Account.
+1. In respect of claims arising on any distinct occasion for loss of life or personal injury to passengers of a ship, the limit of liability of the shipowner of the ship is an amount of 175,000 Units of Account multiplied by the number of passengers that the ship is authorised to carry according to the ship’s certificate.
+
+[Act 3 of 2019 wef 29/12/2019]
 
 2. For the purpose of this Article, “claims for loss of life or personal injury to passengers of a ship” shall mean any such claims brought by or on behalf of any person carried in that ship:
 
@@ -3370,3 +3390,6 @@ This Legislative History is provided for the convenience of users of the Merchan
 ||Date of First Reading|19 November 2018 (Bill No. 49/2018 published on 19 November 2018)|
 ||Date of Second and Third Readings|14 January 2019|
 ||Date of commencement|1 April 2019|
+|||29 December 2019|
+|12.|**G. N. No. S 816/2019—Merchant Shipping Act (Amendment of Schedule) Order 2019**|
+||Date of commencement|29 December 2019|
