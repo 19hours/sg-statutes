@@ -88,7 +88,7 @@
 
 - [35 Powers to seize property in certain circumstances](#Powers-to-seize-property-in-certain-circumstances)
 
-- [36 Forfeiture of counterfeit coin or counterfeit currency note or bank note, etc.](#Forfeiture-of-counterfeit-coin-or-counterfeit-currency-note-or-bank-note-etc)
+- [36 Forfeiture of counterfeit coin or counterfeit currency note or bank note, etc.Forfeiture of counterfeit currency or bank note, etc.](#Forfeiture-of-counterfeit-coin-or-counterfeit-currency-note-or-bank-note-etcForfeiture-of-counterfeit-currency-or-bank-note-etc)
 
 - [37 List of all things seized to be made and signed](#List-of-all-things-seized-to-be-made-and-signed)
 
@@ -708,6 +708,8 @@
 
 - [303 Sentences](#Sentences)
 
+- [303A Presumptive minimum sentence](#Presumptive-minimum-sentence)
+
 - [304 Corrective training and preventive detention](#Corrective-training-and-preventive-detention)
 
 - [305 Reformative training](#Reformative-training)
@@ -1062,9 +1064,11 @@ PRELIMINARY
 
 “bailable offence” means an offence shown as bailable in the fifth column of the First Schedule or which is made bailable by any other written law, and “non-bailable offence” means any offence other than a bailable offence;
 
-“child abuse offence” means an offence under section 5(1), 6, 7, 11(2), 12 or 13 of the Children and Young Persons Act (Cap. 38), and includes an abetment of, a conspiracy to commit, or an attempt to commit, such an offence;
+“child abuse offence” means an offence under section 5(1), 6, 7, 11(2), 12 or 13 of the Children and Young Persons Act (Cap. 38), or an offence under section 377BG, 377BH, 377BI, 377BJ, 377BK or 377BL of the Penal Code (Cap. 224), and includes an abetment of, a conspiracy to commit, or an attempt to commit, such an offence;
 
 [Act 19 of 2018 wef 17/09/2018]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 “complaint” means any allegation made orally or in writing to a Magistrate with a view to his taking action under this Code that some person, whether known or unknown, has committed or is guilty of an offence;
 
@@ -1186,7 +1190,9 @@ PRELIMINARY
 
 “sexual offence” means —
 
-(a) an offence under section 354, 354A, 355, 356, 357, 358, 372, 373, 373A, 375, 376, 376A, 376B, 376C, 376D, 376E, 376F, 376G, 377(3), 377A or 377B(3) of the Penal Code (Cap. 224); or
+(a) an offence under section 354, 354A, 355, 372, 373, 373A, 375, 376, 376A, 376AA, 376B, 376C, 376D, 376E, 376EA, 376EB, 376EC, 376ED, 376EE, 376F, 376G, 376H, 377(3), 377A, 377B(3), 377BA, 377BB, 377BC, 377BD, 377BE or 377BF of the Penal Code; or
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (b) an offence under section 140, 141, 142, 143, 144, 145, 146, 146A, 147 or 148 of the Women’s Charter (Cap. 353),
 
@@ -2146,19 +2152,23 @@ order the release of such property or any part of such property.
 
 [Act 10 of 2015 wef 01/06/2015]
 
-### Forfeiture of counterfeit coin or counterfeit currency note or bank note, etc.
+### Forfeiture of counterfeit currency or bank note, etc.
 
 36\.—(1) Any police officer of or above the rank of sergeant, upon being satisfied that any person has in his possession —
 
-(a) any counterfeit coin or current coin or any die, instrument or material for the purpose of counterfeiting any coin or current coin; or
+(a) any counterfeit currency or any die, instrument or material for the purpose of counterfeiting any currency; or
 
-(b) any forged or counterfeit currency note or bank note or any machinery, instrument or material used for the forging or counterfeiting of any currency note or bank note,
+(b) any forged or counterfeit bank note or any machinery, instrument or material used for the forging or counterfeiting of any bank note,
 
-may, without warrant and with or without assistance, enter and search any place where any such coin, currency note or bank note or any such die, machinery, instrument or material is kept and seize any such coin, note, die, machinery, instrument or material.
+may, without warrant and with or without assistance, enter and search any place where any such currency or bank note or any such die, machinery, instrument or material is kept and seize any such currency, bank note, die, machinery, instrument or material.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (2) Anything seized under subsection (1) shall, by order of the court before which any person is tried relating to such possession, or where there is no trial, by order of a Magistrate, be forfeited and shall be destroyed or otherwise disposed of in such manner as the Minister may direct.
 
-(3) In this section, “coin”, “current coin”, “die” and “instrument” have the same meanings as in the Penal Code (Cap. 224).
+(3) In this section, “bank note”, “currency”, “die” and “instrument” have the same meanings as in the Penal Code.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### List of all things seized to be made and signed
 
@@ -3812,7 +3822,7 @@ Illustrations
 
 (a)
 
-Ais charged under section 242 of the Penal Code (Cap. 224) with “having been in possession of a counterfeit coin having known at the time when he became possessed of it that the coin was counterfeit”, but the word “fraudulently” is omitted from the charge. Only ifAwas actually misled by this omission may the error be regarded as material.
+[Deleted by Act 15 of 2019 wef 01/01/2020]
 
 (b)
 
@@ -4004,7 +4014,9 @@ Ais charged under section 325 of the Penal Code with causing grievous hurt. He p
 
 (e) persons accused of offences under sections 411 and 414 of the Penal Code (Cap. 224), or either of those sections, in respect of the same stolen property, the possession of which has been transferred as a result of the original offence of theft, extortion, robbery, criminal misappropriation, criminal breach of trust or cheating;
 
-(f) a person accused of any offence under Chapter XII of the Penal Code relating to a counterfeit coin, and a person accused of any other offence under that Chapter relating to the same coin;
+(f) a person accused of any offence under Chapter XVIII of the Penal Code relating to a counterfeit currency, and a person accused of any other offence under that Chapter relating to the same currency;
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (g) a person accused of committing an offence and a person accused of abetment of or attempt to commit that offence.
 
@@ -5916,7 +5928,9 @@ the court may at any time begin the inquiry or trial or other proceeding afresh 
 
 ### Acquittal on ground of unsound mind
 
-251\. If an accused is acquitted on the ground that at the time at which he is alleged to have committed an offence he was by reason of unsoundness of mind incapable of knowing the nature of the act as constituting the offence or that it was wrong or contrary to law, the finding must state specifically whether he committed the act or not.
+251\. If an accused is acquitted by operation of section 84 of the Penal Code, the finding must state specifically whether he committed the act or not.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Safe custody of person acquitted
 
@@ -6250,7 +6264,9 @@ draw such inferences from the failure as appear proper; and the failure may, on 
 
 (ii) both of the following apply:
 
-(A) the offence alleged to have been committed against or in relation to the person is an offence under section 323, 324, 325, 326, 327, 328, 329, 330, 331, 334, 335, 336, 337 or 338 of the Penal Code (Cap. 224), an abetment of, a conspiracy to commit, or an attempt to commit, that offence;
+(A) the offence alleged to have been committed against or in relation to the person is an offence under section 323, 323A, 324, 325, 326, 327, 328, 329, 330, 331, 334, 334A, 335, 335A, 335B, 336, 337 or 338 of the Penal Code (Cap. 224), an abetment of, a conspiracy to commit, or an attempt to commit, that offence;
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (B) any of the following applies:
 
@@ -6264,7 +6280,15 @@ the person is suffering from a mental disability;
 
 (BC)
 
-the person is a domestic maid, and the offence is alleged to have been committed by the employer of the person or by a member of the employer’s household;
+the person is a domestic worker, and the offence is alleged to have been committed by the employer of the person or by a member of the employer’s household;
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(BD)
+
+the offence alleged to have been committed against or in relation to the person is one to which section 73, 74A, 74B, 74C or 74D of the Penal Code applies;
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (iii) all of the following apply:
 
@@ -6282,7 +6306,15 @@ the person is suffering from a mental disability;
 
 (BC)
 
-the person is a domestic maid, and the offence is alleged to have been committed by the employer of the person or by a member of the employer’s household;
+the person is a domestic worker, and the offence is alleged to have been committed by the employer of the person or by a member of the employer’s household;
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(BD)
+
+the offence alleged to have been committed against or in relation to the person is one to which section 73, 74A, 74B, 74C or 74D of the Penal Code applies;
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (C) the court grants leave for the recorded statement to be admitted in evidence;
 
@@ -6312,9 +6344,11 @@ the person is a domestic maid, and the offence is alleged to have been committed
 
 (b) allow the defence to inspect that document or a copy of that document.
 
-(9) In this section, “domestic maid” and “member of the employer’s household” have the same meanings as in section 73(4) of the Penal Code.
+(9) In this section, “domestic worker” and “member of the employer’s household” have the same meanings as in section 73(4) of the Penal Code.
 
 [Act 19 of 2018 wef 17/09/2018]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### When evidence of past possession of stolen property allowed
 
@@ -6531,6 +6565,10 @@ Magistrate”.
 
 (a) an offence that involves an assault on or injury or a threat of injury to persons, including an offence under sections 319 to 338 of the Penal Code (Cap. 224);
 
+(aa) an offence under section 356, 357 or 358 of the Penal Code;
+
+[Act 15 of 2019 wef 01/01/2020]
+
 (b) a child abuse offence;
 
 [Act 19 of 2018 wef 31/10/2018]
@@ -6609,7 +6647,9 @@ Magistrate”.
 
 (9) An order made under this section does not cease to apply merely because the person in respect of whom it was made reaches the age of 16 years before the proceedings in which it was made are finally concluded.
 
-(10) When a witness gives evidence in proceedings through a live video or live television link, the evidence is to be regarded for the purposes of sections 193, 194, 195, 196, 205 and 209 of the Penal Code as having been given in those proceedings.
+(10) When a witness gives evidence in proceedings through a live video or live television link, the evidence is to be regarded for the purposes of sections 193, 194, 195, 196 and 205 of the Penal Code as having been given in those proceedings.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (11) If a witness gives evidence in accordance with this section, for the purposes of this Code and the Evidence Act (Cap. 97), he is regarded as giving evidence in the presence of the court and the accused, as the case may be.
 
@@ -6922,6 +6962,42 @@ Sentences in general
 (c) caning not exceeding 6 strokes;
 
 (d) any other lawful sentence, including a combination of the sentences it is authorised by law to pass.
+
+### Presumptive minimum sentence
+
+303A\.—(1) This section applies where a presumptive minimum sentence is prescribed for an offence under any written law, which is denoted by the words “imprisonment for a presumptive minimum term of not less than” or words to the same or similar effect.
+
+(2) The court must, unless subsection (3) applies, impose a sentence that is equal to or greater than the presumptive minimum sentence prescribed for that offence.
+
+(3) Where the court is satisfied that by reason of exceptional circumstances it would be unjust to impose on a first‑time offender the presumptive minimum sentence prescribed for an offence the first‑time offender is convicted of, the court must impose a sentence of the same type of punishment but that is less than the presumptive minimum sentence prescribed for that offence.
+
+(4) In any written law, unless the context requires otherwise, a reference to a mandatory minimum sentence of imprisonment shall include a reference to a presumptive minimum sentence mentioned in subsection (1).
+
+(5) In this section, “first‑time offender”, in relation to an offence, means a person who does not fall within any of the following descriptions:
+
+(a) a person who had previously been sentenced to a term of imprisonment for any offence, other than a term of imprisonment served by him in default of payment of a fine;
+
+(b) a person who had previously been sentenced to reformative training, corrective training or preventive detention, for any offence;
+
+(c) a person who had previously been detained or subject to police supervision under section 30 of the Criminal Law (Temporary Provisions) Act (Cap. 67);
+
+(d) a person who had previously been admitted to an approved institution under section 34 of the Misuse of Drugs Act (Cap. 185) or to an approved centre under section 17 of the Intoxicating Substances Act (Cap. 146A).
+
+Explanation.—The circumstances must be so exceptional as to make it unjust to impose the presumptive minimum sentence for an offence and outweigh the public interests in punishing the offender with the presumptive minimum sentence. The mere presence of all or any of the following mitigating circumstances will not be sufficient to constitute “exceptional circumstances”:
+
+(a)
+
+the offender pleaded guilty to the offence;
+
+(b)
+
+the offender is a first‑time offender;
+
+(c)
+
+the offender is of previous good character.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Corrective training and preventive detention
 
@@ -9306,9 +9382,11 @@ unless the error, omission, improper admission or rejection of evidence, irregul
 
 424\. Every person aware of the commission of or the intention of any other person to commit any arrestable offence punishable under Chapters VI, VII, VIII, XII and XVI of the Penal Code (Cap. 224) or under any of the following sections of the Penal Code:
 
-Sections 161, 162, 163, 164, 170, 171, 211, 212, 216, 216A, 226, 270, 281, 285, 286, 382, 384, 385, 386, 387, 388, 389, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 430A, 435, 436, 437, 438, 440, 449, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 489A, 489B, 489C, 489D and 506,
+Sections 161, 162, 163, 164, 170, 171, 211, 212, 216, 216A, 226, 270, 281, 285, 286, 382, 384, 385, 386, 387, 388, 389, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 427, 435, 436, 437, 438, 440, 442, 449, 450, 451, 452, 453, 459, 460, 489A, 489B, 489C, 489D and 506,
 
 shall, in the absence of reasonable excuse, the burden of proving which shall lie upon the person so aware, immediately give information to the officer in charge of the nearest police station or to a police officer of the commission or intention.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Irregularity in attachment
 
@@ -9328,7 +9406,9 @@ shall, in the absence of reasonable excuse, the burden of proving which shall li
 
 (2) Subsection (1) ceases to apply to an individual who is a complainant of a sexual offence or child abuse offence, if —
 
-(a) the individual is convicted of any offence under section 182, 193, 194, 195, 196, 199, 200, 201, 202, 203, 204, 204A, 204B, 209, 211, 213 or 214 of the Penal Code (Cap. 224); and
+(a) the individual is convicted of any offence under section 182, 193, 194, 195, 196, 199, 200, 201, 202, 203, 204, 204A, 204B, 211, 213 or 214 of the Penal Code (Cap. 224); and
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (b) the conviction involves a finding by the court that the individual’s complaint of the sexual offence or child abuse offence was false in any material point.
 
@@ -9652,7 +9732,7 @@ Tabular statement of offences under the Penal Code
 
 Explanatory Notes. (1) The entries in the second and sixth columns of this Schedule, headed respectively “Offence” and “Maximum punishment under the Penal Code” are not intended as definitions of the offences and punishments described in the several corresponding sections of the Penal Code, or even as abstracts of those sections, but merely as references to the subject of the section, the number of which is given in the first column. In the case of many offences punishable by fine the maximum fine is limited by the Penal Code; such offences are in the sixth column marked*.
 
-(2) The entries in the third column of this Schedule are not intended in any way to restrict the powers of arrest without warrant which may be lawfully exercised by police officers.
+(2)The entries in the third column of this Schedule are not intended in any way to restrict the powers of arrest without warrant which may be lawfully exercised by police officers.
 
 1
 
@@ -9681,6 +9761,50 @@ Whether bailable of right or not
 Maximum punishment under the Penal Code
 
 By what court triable besides the High Court
+
+CHAPTER III — PUNISHMENTS
+
+73
+
+Enhanced penalties for offences alleged to have been committed against domestic workers
+
+May arrest without warrant
+
+Warrant
+
+According as to whether the offence alleged to have been committed against or in relation to the person is bailable or not
+
+Up to twice the punishment provided for the offence
+
+Magistrate’s Court or District Court
+
+74A
+
+Enhanced penalties for offences alleged to have been committed against vulnerable persons
+
+May arrest without warrant
+
+Warrant
+
+According as to whether the offence alleged to have been committed against or in relation to the person is bailable or not
+
+Up to twice the punishment provided for the offence
+
+Magistrate’s Court or District Court
+
+74B
+
+Enhanced penalties for offences alleged to have been committed against child below 14 years of age
+
+May arrest without warrant
+
+Warrant
+
+According as to whether the offence alleged to have been committed against or in relation to the person is bailable or not
+
+Up to twice the punishment provided for the offence
+
+Magistrate’s Court or District Court
 
 CHAPTER V — ABETMENT
 
@@ -9764,7 +9888,7 @@ Ditto
 
 Not bailable
 
-Imprisonment for 7 years, and fine
+Imprisonment for 15 years, and fine, or caning
 
 Ditto
 
@@ -9776,9 +9900,9 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
-Imprisonment for 14 years, and fine
+Imprisonment for 20 years, and fine, or caning
 
 Ditto
 
@@ -9786,29 +9910,15 @@ Ditto
 
 Abetment of an offence punishable with imprisonment, if the offence is not committed in consequence of the abetment
 
-Ditto
+May arrest without warrant, if arrest for the offence abetted may be made without warrant but not otherwise
 
-Ditto
+According as to whether a warrant or summons may issue for the offence abetted
 
 According as to whether the offence abetted is bailable or not
 
-Imprisonment extending to a quarter of the longest term provided for the offence, or fine, or both
+The same punishment as for the offence abetted, provided that any mandatory minimum sentence or sentence fixed by law does not apply
 
-Ditto
-
-116
-
-If the abettor or the person abetted is a public servant whose duty it is to prevent the offence
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment extending to half of the longest term provided for the offence, or fine, or both
-
-Ditto
+The court by which the offence abetted is triable
 
 117
 
@@ -9846,7 +9956,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 3 years, and fine
 
@@ -9942,15 +10052,15 @@ CHAPTER VA — CRIMINAL CONSPIRACY
 
 Criminal conspiracy
 
-May arrest without warrant if arrest for the offence which is the object of the conspiracy may be made without warrant, but not otherwise
+May arrest without warrant if arrest for the offence which is the subject of the conspiracy may be made without warrant, but not otherwise
 
-According as to whether warrant or summons may issue for the offence which is the object of the conspiracy
+According as to whether warrant or summons may issue for the offence which is the subject of the conspiracy
 
-According as to whether the offence which is the object of the conspiracy is bailable or not
+According as to whether the offence which is the subject of the conspiracy is bailable or not
 
-The same punishment as if the offence which is the object of the conspiracy was abetted
+The same punishment as if the offence which is the subject of the conspiracy was abetted
 
-The court by which the offence which is the object of the conspiracy is triable
+The court by which the offence which is the subject of the conspiracy is triable
 
 CHAPTER VI — OFFENCES AGAINST THE STATE
 
@@ -9964,7 +10074,7 @@ Warrant
 
 Not bailable
 
-Death, or imprisonment for life, and fine
+Death, or imprisonment for life
 
 121A
 
@@ -9974,9 +10084,9 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
-Ditto
+Imprisonment for life, or imprisonment for 20 years, and fine
 
 121B
 
@@ -9986,9 +10096,9 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
-Imprisonment for life, and fine
+Imprisonment for life, or imprisonment for 20 years, and fine
 
 121C
 
@@ -9998,7 +10108,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Punishment provided for offences under section 121A or 121B
 
@@ -10010,7 +10120,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, or fine, or both
 
@@ -10024,7 +10134,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 20 years, and fine
 
@@ -10036,7 +10146,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 15 years, and fine
 
@@ -10048,7 +10158,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 20 years, and fine
 
@@ -10060,7 +10170,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 15 years, and fine, or fine
 
@@ -10072,7 +10182,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine, and forfeiture of certain property
 
@@ -10086,7 +10196,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine, and forfeiture of property so received
 
@@ -10100,7 +10210,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 15 years, and fine
 
@@ -10112,7 +10222,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -10126,7 +10236,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 15 years, and fine
 
@@ -10152,7 +10262,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Death
 
@@ -10164,7 +10274,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 15 years, and caning
 
@@ -10190,7 +10300,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 20 years
 
@@ -10216,7 +10326,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Death, or imprisonment for life, or imprisonment for 10 years, and fine
 
@@ -10228,7 +10338,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 3 years, and fine
 
@@ -10242,7 +10352,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -10270,7 +10380,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -10284,7 +10394,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Bailable
 
 Fine*
 
@@ -10298,7 +10408,7 @@ May arrest without warrant
 
 Warrant
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine, or both
 
@@ -10312,7 +10422,7 @@ Ditto
 
 Summons
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -10342,7 +10452,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, or fine, or caning, or any combination of such punishments
 
@@ -10356,7 +10466,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, or fine, or both
 
@@ -10370,7 +10480,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and caning
 
@@ -10384,7 +10494,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and caning
 
@@ -10440,7 +10550,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 8 years, or fine, or both
 
@@ -10454,7 +10564,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -10482,7 +10592,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Bailable
 
 Fine*
 
@@ -10496,7 +10606,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Fine
 
@@ -10510,7 +10620,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -10538,7 +10648,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -10552,7 +10662,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, or fine, or both
 
@@ -10582,7 +10692,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -10596,7 +10706,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one year, or fine, or both
 
@@ -10610,7 +10720,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -10624,7 +10734,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -10638,7 +10748,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one year, or fine, or both
 
@@ -10652,7 +10762,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -10666,7 +10776,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one year, or fine, or both
 
@@ -10680,7 +10790,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 2 years, or fine, or both, and confiscation of property, if purchased
 
@@ -10694,7 +10804,7 @@ May arrest without warrant
 
 Warrant
 
-Ditto
+Bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -10708,7 +10818,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -10738,7 +10848,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -10752,7 +10862,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one month, or fine*, or both
 
@@ -10766,7 +10876,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -10780,7 +10890,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one month, or fine*, or both
 
@@ -10794,7 +10904,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -10808,13 +10918,11 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Bailable
 
 Imprisonment for one month, or fine*, or both
 
 District Court
-
-[Deleted by Act 19 of 2016 wef 01/10/2017]
 
 176
 
@@ -10824,7 +10932,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one month, or fine*, or both
 
@@ -10838,7 +10946,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -10852,7 +10960,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -10866,7 +10974,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -10880,7 +10988,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -10894,7 +11002,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -10908,7 +11016,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 months, or fine*, or both
 
@@ -10922,7 +11030,7 @@ Ditto
 
 Warrant
 
-Ditto
+Bailable
 
 Imprisonment for 3 years, and fine
 
@@ -10936,9 +11044,9 @@ Ditto
 
 Summons
 
-Ditto
+Bailable
 
-Imprisonment for one year, or fine*, or both
+Imprisonment for 2 years, or fine, or both
 
 Ditto
 
@@ -10950,7 +11058,7 @@ May arrest without warrant
 
 Warrant
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -10964,7 +11072,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Bailable
 
 Imprisonment for one month, or fine*, or both
 
@@ -10978,7 +11086,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -10992,7 +11100,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 months, or fine*, or both
 
@@ -11006,7 +11114,7 @@ May arrest without warrant
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one month, or fine*, or both
 
@@ -11020,7 +11128,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -11034,7 +11142,7 @@ Shall not arrest without warrant
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one month, or fine*, or both
 
@@ -11048,7 +11156,7 @@ Ditto
 
 Warrant
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -11062,7 +11170,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -11076,7 +11184,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one year, or fine, or both
 
@@ -11092,7 +11200,7 @@ Shall not arrest without warrant
 
 Warrant
 
-Bailable
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -11106,7 +11214,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 3 years, and fine
 
@@ -11132,23 +11240,37 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Death, or as above
 
 195
 
-Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for life or imprisonment for 7 years or upwards
+Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for 7 years or upwards
 
 According as to whether arrest may be made without warrant for the offence or not
 
 Ditto
 
-Ditto
+Not bailable
 
 The same as for the offence
 
 The court by which the offence is triable
+
+195
+
+Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment for life
+
+According as to whether arrest may be made without warrant for the offence or not
+
+Warrant
+
+Not bailable
+
+Imprisonment for 20 years
+
+The court by which the offence abetted is triable
 
 196
 
@@ -11158,7 +11280,7 @@ Shall not arrest without warrant
 
 Ditto
 
-Bailable
+Not bailable
 
 The same as for giving or fabricating false evidence
 
@@ -11172,7 +11294,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 The same as for giving false evidence
 
@@ -11186,7 +11308,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11200,7 +11322,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11214,7 +11336,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11242,7 +11364,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -11256,7 +11378,7 @@ Ditto
 
 Ditto
 
-Bailable
+Not bailable
 
 Imprisonment for a quarter of the longest term provided for the offence, or fine, or both
 
@@ -11270,7 +11392,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Not bailable
 
 Imprisonment for 6 months, or fine, or both
 
@@ -11284,7 +11406,7 @@ Ditto
 
 Warrant
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -11298,7 +11420,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11312,7 +11434,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, or fine, or both
 
@@ -11326,7 +11448,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11340,7 +11462,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -11354,7 +11476,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -11368,7 +11490,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11382,23 +11504,9 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
-
-Ditto
-
-209
-
-False claim in a court of justice
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 2 years, and fine
 
 Ditto
 
@@ -11410,7 +11518,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -11424,7 +11532,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11438,7 +11546,7 @@ May arrest without warrant
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -11452,7 +11560,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -11466,7 +11574,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -11480,7 +11588,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for a quarter of the longest term provided for the offence, or fine, or both
 
@@ -11494,7 +11602,7 @@ According as to whether arrest may be made without warrant for the offence or no
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -11508,7 +11616,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -11522,7 +11630,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for a quarter of the longest term provided for the offence, or fine, or both
 
@@ -11536,7 +11644,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -11550,7 +11658,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -11564,7 +11672,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for a quarter of the longest term provided for the offence, or fine, or both
 
@@ -11578,7 +11686,7 @@ Shall not arrest without warrant
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -11592,7 +11700,7 @@ May arrest without warrant
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -11606,7 +11714,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -11620,7 +11728,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for a quarter of the longest term provided for the offence, or fine, or both
 
@@ -11634,7 +11742,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -11648,7 +11756,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -11662,7 +11770,7 @@ Ditto
 
 Warrant
 
-Ditto
+Not bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -11676,7 +11784,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, or fine, or both
 
@@ -11690,7 +11798,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11704,7 +11812,7 @@ According as to whether arrest may be made without warrant for the offence or no
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -11718,7 +11826,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -11732,7 +11840,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, or fine, or both
 
@@ -11758,7 +11866,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -11772,7 +11880,7 @@ Ditto
 
 Ditto
 
-Bailable
+Not bailable
 
 Imprisonment for 7 years, or fine, or both
 
@@ -11786,7 +11894,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -11800,7 +11908,7 @@ May arrest without warrant
 
 Warrant
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11814,7 +11922,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, or fine, or both
 
@@ -11842,7 +11950,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -11856,7 +11964,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -11870,7 +11978,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 15 years, and fine
 
@@ -11882,7 +11990,7 @@ Ditto
 
 Ditto
 
-Bailable
+Not bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -11896,7 +12004,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -11910,7 +12018,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for one year, or fine, or both
 
@@ -11924,7 +12032,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Bailable
 
 Fine*
 
@@ -11950,7 +12058,7 @@ Shall not arrest without warrant
 
 Ditto
 
-Ditto
+Not bailable
 
 Punishment of original sentence, or, if part of the punishment has been undergone, the residue
 
@@ -11962,7 +12070,7 @@ Ditto
 
 Summons
 
-Bailable
+Not bailable
 
 Imprisonment for one year, or fine*, or both
 
@@ -11976,371 +12084,21 @@ May arrest without warrant
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
 Magistrate’s Court or District Court
 
-CHAPTER XII — OFFENCES RELATING TO COIN AND GOVERNMENT STAMPS
-
-231
-
-Counterfeiting, or performing any part of the process of counterfeiting coin
-
-May arrest without warrant
-
-Warrant
-
-Not bailable
-
-Imprisonment for 7 years, and fine
-
-District Court
-
-232
-
-Counterfeiting, or performing any part of the process of counterfeiting current coin
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 10 years, and fine
-
-Ditto
-
-233
-
-Making, buying or selling instrument for the purpose of counterfeiting coin
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
-
-Magistrate’s Court or District Court
-
-234
-
-Making, buying or selling instrument for the purpose of counterfeiting current coin
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 7 years, and fine
-
-District Court
-
-235
-
-Possession of instrument or material for the purpose of using the same for counterfeiting coin
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
-
-Magistrate’s Court or District Court
-
-235
-
-If current coin
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 7 years, and fine
-
-District Court
-
-236
-
-Abetting in Singapore the counterfeiting out of Singapore of coin or current coin
-
-Ditto
-
-Ditto
-
-Ditto
-
-The punishment provided for abetting the counterfeiting of such coin or current coin within Singapore
-
-Ditto
-
-237
-
-Import or export of counterfeit coin, knowing the same to be counterfeit
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
-
-Magistrate’s Court or District Court
-
-238
-
-Import or export of counterfeits of current coin, knowing the same to be counterfeit
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 10 years, and fine
-
-District Court
-
-239
-
-Having any counterfeit coin known to be such when it came into possession, and delivering, etc., the same to any person
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 5 years, and fine
-
-Magistrate’s Court or District Court
-
-240
-
-The same with respect to current coin
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 7 years, and fine
-
-District Court
-
-241
-
-Knowingly delivering to another any counterfeit coin as genuine which, when first possessed, the deliverer did not know to be counterfeit
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 2 years, or fine*, or both
-
-Magistrate’s Court or District Court
-
-241A
-
-Delivery to another of current coin as genuine which, when first possessed, the deliverer did not know to be counterfeit
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 5 years, or fine, or both
-
-Magistrate’s Court or District Court
-
-242
-
-Possession of counterfeit coin by a person who knew it to be counterfeit when he became possessed thereof
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
-
-Magistrate’s Court or District Court
-
-243
-
-Possession of current coin by a person who knew it to be counterfeit when he became possessed thereof
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 5 years, and fine
-
-Magistrate’s Court or District Court
-
-246
-
-Fraudulently diminishing the weight or altering the composition of any coin
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
-
-Magistrate’s Court or District Court
-
-247
-
-Fraudulently diminishing the weight or altering the composition of current coin
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 7 years, and fine
-
-District Court
-
-248
-
-Altering appearance of any coin with intent that it shall pass as a coin of a different description
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
-
-Magistrate’s Court or District Court
-
-249
-
-Altering appearance of current coin with intent that it shall pass as a coin of a different description
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 7 years, and fine
-
-District Court
-
-250
-
-Delivery to another of coin possessed with the knowledge that it is altered
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 5 years, and fine
-
-Magistrate’s Court or District Court
-
-251
-
-Delivery of current coin possessed with the knowledge that it is altered
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 10 years, and fine
-
-Ditto
-
-252
-
-Possession of altered coin by a person who knew it to be altered when he became possessed thereof
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
-
-Magistrate’s Court or District Court
-
-253
-
-Possession of current coin by a person who knew it to be altered when he became possessed thereof
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 5 years, and fine
-
-Ditto
-
-254
-
-Delivery to another of coin as genuine which, when first possessed, the deliverer did not know to be altered
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 2 years, or fine*
-
-Ditto
-
-254A
-
-Delivery to another of current coin as genuine which, when first possessed, the deliverer did not know to be altered
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 5 years, or fine, or both
-
-Magistrate’s Court or District Court
+CHAPTER XII — OFFENCES RELATING TO GOVERNMENT STAMPS
 
 255
 
 Counterfeiting a Government stamp
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
 Bailable
 
@@ -12356,7 +12114,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 7 years, and fine
 
@@ -12370,7 +12128,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -12384,7 +12142,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -12398,7 +12156,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -12412,7 +12170,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 7 years, or fine, or both
 
@@ -12426,7 +12184,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -12440,7 +12198,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -12454,75 +12212,15 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 years, or fine, or both
 
 Ditto
 
-CHAPTER XIII — OFFENCES RELATING TO WEIGHTS AND MEASURES
-
-264
-
-Fraudulent use of false instrument for weighing
-
-Shall not arrest without warrant
-
-Summons
-
-Bailable
-
-Imprisonment for one year, or fine, or both
-
-Magistrate’s Court or District Court
-
-265
-
-Fraudulent use of false weight or measure
-
-Ditto
-
-Ditto
-
-Ditto
-
-Ditto
-
-Ditto
-
-266
-
-Being in possession of false weights or measures for fraudulent use
-
-Ditto
-
-Ditto
-
-Ditto
-
-Ditto
-
-Ditto
-
-267
-
-Making or selling false weights or measures for fraudulent use
-
-Ditto
-
-Ditto
-
-Ditto
-
-Ditto
-
-Ditto
+CHAPTER XIII — [Deleted by Act 15 of 2019 wef 01/01/2020]
 
 CHAPTER XIV — OFFENCES AFFECTING THE PUBLIC TRANQUILITY, PUBLIC HEALTH, SAFETY,
-
-
-
-
 CONVENIENCE, DECENCY AND MORALS
 
 267B
@@ -12533,7 +12231,7 @@ May arrest without warrant
 
 Warrant
 
-Not bailable
+Bailable
 
 Imprisonment for one year, or fine*, or both
 
@@ -12547,11 +12245,53 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, or fine, or both
 
 Ditto
+
+268A
+
+Communicating false information of harmful thing
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 7 years, or fine*, or both
+
+District Court
+
+268B
+
+Placing or sending thing with intent to cause fear of harm
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 7 years, or fine*, or both
+
+District Court
+
+268C
+
+Placing or sending thing causing fear of harm
+
+May arrest without warrant
+
+Warrant
+
+Bailable
+
+Imprisonment for 6 months, or fine*, or both
+
+Magistrate’s Court or District Court
 
 269
 
@@ -12575,7 +12315,7 @@ Ditto
 
 Warrant
 
-Ditto
+Bailable
 
 Imprisonment for 4 years, or fine, or both
 
@@ -12589,7 +12329,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -12603,9 +12343,9 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
-Imprisonment for 6 months, or fine*, or both
+Imprisonment for 3 years, or fine, or both
 
 Ditto
 
@@ -12617,7 +12357,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -12631,7 +12371,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -12645,7 +12385,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -12659,7 +12399,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -12673,9 +12413,9 @@ May arrest without warrant
 
 Ditto
 
-Ditto
+Bailable
 
-Imprisonment for one year, or fine*, or both
+Imprisonment for 3 years, or fine, or both
 
 Ditto
 
@@ -12687,7 +12427,7 @@ Shall not arrest without warrant
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -12701,9 +12441,9 @@ May arrest without warrant
 
 Ditto
 
-Ditto
+Bailable
 
-Ditto
+Imprisonment for one year, or fine*, or both
 
 Ditto
 
@@ -12715,7 +12455,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -12729,7 +12469,7 @@ Ditto
 
 Warrant
 
-Ditto
+Bailable
 
 Imprisonment for 7 years, or fine, or both
 
@@ -12743,7 +12483,7 @@ Ditto
 
 Summons
 
-Ditto
+Bailable
 
 Imprisonment for one year, or fine*, or both
 
@@ -12757,109 +12497,361 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Fine*
 
 Ditto
 
-284
+284(1)(a)
 
-Dealing with any poisonous substance so as to endanger human life, etc.
+Rash or negligent conduct with dangerous or harmful substance so as to be likely to cause hurt or injury to any other person
 
-Ditto
+May arrest without warrant
 
-Ditto
+Summons
 
-Ditto
+Bailable
 
 Imprisonment for one year, or fine*, or both
 
-Ditto
+Magistrate’s Court or District Court
 
-285
+284(1)(b)
 
-Dealing with fire or any combustible matter so as to endanger human life, etc.
+Rash or negligent conduct with dangerous or harmful substance so as to endanger human life
 
-Ditto
+May arrest without warrant
 
-Ditto
+Summons
 
-Ditto
+Bailable
 
-Ditto
+Imprisonment for one year, or fine*, or both
 
-Ditto
+Magistrate’s Court or District Court
 
-286
+284(1)(c)
 
-Dealing with any explosive substance so as to endanger human life, etc.
+Rash or negligent conduct with dangerous or harmful substance so as to cause hurt to any other person
 
-Ditto
+May arrest without warrant
 
-Ditto
+Summons
 
-Ditto
+Bailable
 
-Ditto
+Imprisonment for 3 years, or fine, or both
 
-Ditto
+Magistrate’s Court or District Court
 
-287
+284(1)(d)
 
-Dealing with any machinery so as to endanger human life, etc.
+Rash or negligent conduct with dangerous or harmful substance so as to cause grievous hurt to any other person
 
-Ditto
+May arrest without warrant
 
-Ditto
+Summons
 
-Ditto
+Bailable
 
-Ditto
+Imprisonment for 6 years, or fine, or both
 
-Ditto
+Magistrate’s Court or District Court
 
-288
+284(1)(e)
 
-Omitting to take order to guard against probable danger to human life by the fall of any building being pulled down or repaired
+Rash or negligent conduct with dangerous or harmful substance so as to cause death of any other person
 
-Ditto
+May arrest without warrant
 
-Ditto
+Summons
 
-Ditto
+Bailable
 
-Ditto
+Imprisonment for 7 years, or fine, or both
 
-Ditto
+Magistrate’s Court or District Court
 
-289
+285(1)(a)
 
-Omitting to take order with any animal in person’s possession, so as to guard against danger to human life, or to grievous hurt, from that animal
+Causing or contributing to the risk of dangerous fire where the fire is likely to cause hurt or injury to any other person
 
-Ditto
+May arrest without warrant
 
-Ditto
+Summons
 
-Ditto
+Bailable
 
-Ditto
+Imprisonment for one year, or fine*, or both
 
-Ditto
+Magistrate’s Court or District Court
 
-290
+285(1)(b)
+
+Where the fire endangers human life
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for one year, or fine*, or both
+
+Magistrate’s Court or District Court
+
+285(1)(c)
+
+Where the fire damages property or diminishes value or utility thereof
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 18 months, or fine, or both
+
+Magistrate’s Court or District Court
+
+285(1)(d)
+
+Where the fire causes hurt or injury to any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 3 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+285(1)(e)
+
+Where the fire causes grievous hurt to any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 6 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+285(1)(f)
+
+Where the fire causes death to any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 7 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+287(1)(a)
+
+Rash or negligent conduct with machinery so as to be likely to cause hurt or injury to any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for one year, or fine*, or both
+
+Magistrate’s Court or District Court
+
+287(1)(b)
+
+Rash or negligent conduct with machinery so as to endanger human life
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for one year, or fine*, or both
+
+Magistrate’s Court or District Court
+
+287(1)(c)
+
+Rash or negligent conduct with machinery so as to cause hurt or injury to any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 3 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+287(1)(d)
+
+Rash or negligent conduct with machinery so as to cause grievous hurt to any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 6 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+287(1)(e)
+
+Rash or negligent conduct with machinery so as to cause death of any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 7 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+288(1)(a)
+
+Negligence in pulling down or repairing buildings so as to endanger human life
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for one year, or fine*, or both
+
+Magistrate’s Court or District Court
+
+288(1)(b)
+
+Negligence in pulling down or repairing buildings so as to cause death of any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 7 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+289(1)(a)
+
+Negligent conduct with respect to any animal so as to be likely to cause grievous hurt
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for one year, or fine*, or both
+
+Magistrate’s Court or District Court
+
+289(1)(b)
+
+Negligent conduct with respect to any animal so as to endanger human life
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for one year, or fine*, or both
+
+Magistrate’s Court or District Court
+
+289(1)(c)
+
+Negligent conduct with respect to any animal so as to cause grievous hurt to any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 6 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+289(1)(d)
+
+Negligent conduct with respect to any animal so as to cause death of any other person
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 7 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+290(a)
 
 Committing a public nuisance
 
-Ditto
+May arrest without warrant
 
-Ditto
+Summons
 
-Ditto
+Bailable
 
 Fine*
 
-Ditto
+Magistrate’s Court or District Court
+
+290(b)
+
+Where the offender knew that the public nuisance will cause or will probably cause any common injury, danger or annoyance to the public, or to the people in general who dwell or occupy property in the vicinity
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 3 months, or fine*, or both
+
+Magistrate’s Court or District Court
+
+290(c)
+
+Committing a public nuisance on second or subsequent conviction
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 3 months, or fine*, or both
+
+Magistrate’s Court or District Court
 
 291
 
@@ -12869,13 +12861,13 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine, or both
 
 Ditto
 
-292
+292(1)
 
 Sale, etc., of obscene books, etc.
 
@@ -12883,11 +12875,39 @@ Ditto
 
 Warrant
 
-Ditto
+Bailable
 
 Imprisonment for 3 months, or fine, or both
 
 Ditto
+
+292(1A)
+
+Sale, etc., of obscene objects depicting minor below 16 years of age
+
+May arrest without warrant
+
+Warrant
+
+Bailable
+
+Imprisonment for 2 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+292A
+
+Possession, distribution, etc., of child sex-doll
+
+May arrest without warrant
+
+Warrant
+
+Bailable
+
+Imprisonment for 2 years, or fine, or both
+
+Magistrate’s Court or District Court
 
 293
 
@@ -12897,7 +12917,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one year, or fine, or both
 
@@ -12905,13 +12925,13 @@ Ditto
 
 294
 
-Doing obscene act or reciting obscene song in a public place
+Doing obscene act or reciting obscene words in a public place
 
 Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 months, or fine, or both
 
@@ -12927,7 +12947,7 @@ May arrest without warrant
 
 Summons
 
-Bailable
+Not bailable
 
 Imprisonment for 5 years, or fine, or both
 
@@ -12941,7 +12961,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -12955,7 +12975,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -12969,7 +12989,7 @@ Shall not arrest without warrant
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -12983,7 +13003,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -13013,7 +13033,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 20 years, and fine, or caning
 
@@ -13025,9 +13045,9 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
-Imprisonment for 10 years, or fine, or caning, or any combination of such punishments
+Imprisonment for 15 years, or fine, or caning, or any combination of such punishments
 
 District Court
 
@@ -13053,33 +13073,89 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 2 years, or fine, or both
 
 Ditto
 
-305
+304B
 
-Abetment of suicide committed by a child, or insane or delirious person or, an idiot, or a person intoxicated
+Causing death of child below 14 years of age, domestic worker or vulnerable person by sustained abuse
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 20 years, and fine, or caning
+
+District Court
+
+304C
+
+Causing or allowing death of child below 14 years of age, domestic worker or vulnerable person in same household
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 20 years, and fine, or caning
+
+District Court
+
+305(1)(a)
+
+Abetment of suicide of minor, or person who lacks capacity
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Death, or imprisonment for life, or imprisonment for 20 years, and fine
+
+305(1)(b)
+
+Abetment of attempted suicide committed by minor, or person who lacks capacity
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 15 years, and fine
+
+District Court
+
+305(1)(c)
+
+Abetment of attempted suicide of minor, or person who lacks capacity where hurt is caused
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for life, or imprisonment for 20 years, and fine
+
+District Court
+
+306
+
+Abetting the commission of suicide or attempted suicide
 
 Ditto
 
 Ditto
 
 Not bailable
-
-Death, or imprisonment for life, or imprisonment for 10 years, and fine
-
-306
-
-Abetting the commission of suicide
-
-Ditto
-
-Ditto
-
-Ditto
 
 Imprisonment for 10 years, and fine
 
@@ -13091,7 +13167,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 15 years, and fine
 
@@ -13103,7 +13179,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 20 years, and caning, or fine, or both
 
@@ -13115,7 +13191,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Death
 
@@ -13127,7 +13203,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, or fine, or both
 
@@ -13141,23 +13217,35 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 15 years, or fine, or caning, or any combination of such punishments
 
-309
+308A
 
-Attempt to commit suicide
+Causing death in furtherance of group’s object
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
-Ditto
+Not bailable
 
-Imprisonment for one year, or fine, or both
+Imprisonment for life, or imprisonment for 20 years, and caning
 
-Magistrate’s Court or District Court
+308B
+
+Concealment, desecration or disposal of corpse that impedes discovery, identification, criminal investigations or prosecutions
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 7 years
+
+District Court
 
 311
 
@@ -13183,7 +13271,7 @@ Shall not arrest without warrant
 
 Warrant
 
-Bailable
+Not bailable
 
 Imprisonment for 3 years, or fine, or both
 
@@ -13191,13 +13279,13 @@ Magistrate’s Court or District Court
 
 312
 
-If the woman is quick with child
+If the woman’s pregnancy is more than 16 weeks
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -13223,7 +13311,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -13237,7 +13325,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 10 years, and fine
 
@@ -13249,7 +13337,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, or fine, or both
 
@@ -13263,7 +13351,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -13277,7 +13365,7 @@ Ditto
 
 Ditto
 
-Bailable
+Not bailable
 
 Imprisonment for 7 years, or fine, or both
 
@@ -13291,7 +13379,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -13309,7 +13397,21 @@ Summons
 
 Bailable
 
-Imprisonment for 2 years, or fine*, or both
+Imprisonment for 3 years, or fine*, or both
+
+Magistrate’s Court or District Court
+
+323A
+
+Voluntarily causing hurt which causes grievous hurt
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for 5 years, or fine*, or both
 
 Magistrate’s Court or District Court
 
@@ -13321,7 +13423,7 @@ May arrest without warrant
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, or fine, or caning, or any combination of such punishments
 
@@ -13335,7 +13437,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine, or caning
 
@@ -13363,7 +13465,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine, or caning
 
@@ -13371,13 +13473,13 @@ Ditto
 
 328
 
-Administering stupefying drug with intent to cause hurt, etc.
+Administering poison, etc., with intent to cause hurt, etc.
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -13391,7 +13493,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 10 years, and fine, or caning
 
@@ -13405,7 +13507,7 @@ Ditto
 
 Ditto
 
-Bailable
+Not bailable
 
 Imprisonment for 7 years, and fine, or caning
 
@@ -13433,9 +13535,9 @@ Ditto
 
 Ditto
 
-Bailable
+Not bailable
 
-Imprisonment for 7 years, or fine, or caning, or any combination of such punishments
+Imprisonment for 7 years, or fine, or caning
 
 Magistrate’s Court or District Court
 
@@ -13463,7 +13565,21 @@ Summons
 
 Bailable
 
-Imprisonment for 3 months, or fine*, or both
+Imprisonment for 6 months, or fine*, or both
+
+Magistrate’s Court or District Court
+
+334A
+
+Voluntarily causing hurt on provocation which causes grievous hurt
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for one year, or fine*, or both
 
 Magistrate’s Court or District Court
 
@@ -13475,11 +13591,53 @@ May arrest without warrant
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 years, or fine*, or both
 
 Ditto
+
+335A(5)(a)
+
+Allowing neglect or physical or sexual abuse of domestic worker or vulnerable person where death is caused
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 7 years, or fine*, or both
+
+District Court
+
+335A(5)(b)
+
+Allowing neglect or physical or sexual abuse of domestic worker or vulnerable person where death is not caused
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 4 years, or fine*, or both
+
+District Court
+
+335B
+
+Act which endangers human life, etc., with knowledge or belief that it is likely to cause death
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 7 years, or fine, or both
+
+District Court
 
 336(a)
 
@@ -13487,13 +13645,13 @@ Doing any rash act which endangers human life or the personal safety of others
 
 Ditto
 
-Ditto
+Summons
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
-Ditto
+Magistrate’s Court or District Court
 
 336(b)
 
@@ -13503,7 +13661,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 months, or fine*, or both
 
@@ -13517,7 +13675,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for one year, or fine*, or both
 
@@ -13531,7 +13689,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 6 months, or fine*, or both
 
@@ -13545,7 +13703,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 4 years, or fine*, or both
 
@@ -13559,7 +13717,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 2 years, or fine*, or both
 
@@ -13589,37 +13747,9 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
-Imprisonment for one year, or fine*, or both
-
-Ditto
-
-343
-
-Wrongfully confining any person for 3 or more days
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 2 years, or fine, or both
-
-Ditto
-
-344
-
-Wrongfully confining any person for 10 or more days
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
+Imprisonment for 3 years, or fine, or both
 
 Ditto
 
@@ -13631,7 +13761,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, in addition to imprisonment under any other section
 
@@ -13645,7 +13775,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -13659,7 +13789,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 3 years, and fine
 
@@ -13673,7 +13803,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -13731,7 +13861,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, or fine, or caning, or any combination of such punishments
 
@@ -13759,7 +13889,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -13815,7 +13945,7 @@ Shall not arrest without warrant
 
 Summons
 
-Ditto
+Bailable
 
 Imprisonment for one month, or fine*, or both
 
@@ -13845,7 +13975,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, or fine, or caning, or any combination of such punishments
 
@@ -13859,7 +13989,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Death, or imprisonment for life, and caning
 
@@ -13871,7 +14001,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine, or caning
 
@@ -13885,7 +14015,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -13899,7 +14029,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -13913,25 +14043,11 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Punishment for kidnapping or abduction
 
 District Court
-
-369
-
-Kidnapping or abducting a child with intent to take property from the person of such child
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 10 years, and fine, or caning
-
-Ditto
 
 370
 
@@ -13941,7 +14057,7 @@ Ditto
 
 Ditto
 
-Bailable
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -13969,7 +14085,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -13983,7 +14099,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -13997,7 +14113,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -14039,67 +14155,105 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 20 years, and caning
 
 375(3)(b)
 
-Rape of woman under 14 years of age without her consent
+Rape of person below 14 years of age without person’s consent
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
-Ditto
+Not bailable
 
-Ditto
+Imprisonment for 20 years, and caning
+
+375(3)(c)
+
+Exploitative rape of person below 14 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 20 years, and caning
 
 376(3)
 
-Sexual assault by penetration
+Sexual assault involving penetration
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 20 years, and fine, or caning
 
 376(4)(a)
 
-If in order to commit or to facilitate the commission of sexual assault by penetration, voluntarily causes hurt or puts a person in fear of death or hurt
+If in order to commit or to facilitate the commission of sexual assault involving penetration, voluntarily causes hurt or puts a person in fear of death or hurt
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 20 years, and caning
 
 376(4)(b)
 
-Sexual assault by penetration of person under 14 years of age without his or her consent
+Sexual assault involving penetration of person under 14 years of age without his or her consent
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
-376A(2)
+376(4)(c)
 
-Sexual penetration of minor under 16 years of age
+Exploitative sexual assault involving penetration of person below 14 years of age
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
-Ditto
+Not bailable
+
+Imprisonment for 20 years, and caning
+
+376A(2)(a)
+
+Exploitative sexual penetration of minor of or above 14 but below 16 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 20 years, and fine, or caning
+
+District Court
+
+376A(2)(b)
+
+Sexual penetration of minor of or above 14 but below 16 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
 
 Imprisonment for 10 years, or fine, or both
 
@@ -14113,19 +14267,35 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 20 years, and fine, or caning
 
+District Court
+
+376AA
+
+Exploitative sexual penetration of minor of or above 16 but below 18 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 15 years, and fine, or caning
+
+District Court
+
 376B(1)
 
-Commercial sex with minor under 18 years of age
+Commercial sex or sexual touching involving minor under 18 years of age
 
 Ditto
 
 Ditto
 
-Bailable
+Not bailable
 
 Imprisonment for 7 years, or fine, or both
 
@@ -14133,13 +14303,13 @@ District Court
 
 376B(2)
 
-Communicating with a person for purpose of commercial sex with minor under 18 years of age
+Communicating with a person for purpose of commercial sex or sexual touching involving minor under 18 years of age
 
 Shall not arrest without warrant
 
 Summons
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -14147,13 +14317,13 @@ Magistrate’s Court or District Court
 
 376C(2)
 
-Commercial sex with minor under 18 years of age outside Singapore
+Commercial sex or sexual touching involving minor under 18 years of age outside Singapore
 
 May arrest without warrant
 
 Warrant
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, or fine, or both
 
@@ -14161,13 +14331,13 @@ District Court
 
 376C(2)
 
-Communicating with a person for purpose of commercial sex with minor under 18 years of age outside Singapore
+Communicating with a person for purpose of commercial sex or sexual touching involving minor under 18 years of age outside Singapore
 
 Shall not arrest without warrant
 
 Summons
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -14175,7 +14345,7 @@ Magistrate’s Court or District Court
 
 376D(3)
 
-Tour outside Singapore for commercial sex with minor under 18 years of age
+Tour outside Singapore for commercial sex or sexual touching involving minor under 18 years of age
 
 May arrest without warrant
 
@@ -14187,17 +14357,171 @@ Imprisonment for 10 years, or fine, or both
 
 District Court
 
-376E(4)
+376E(4)(a)
 
-Sexual grooming of minor under 16 years of age
+Sexual grooming of minor below 14 years of age
 
-Ditto
+May arrest without warrant
 
 Summons
 
-Bailable
+Not bailable
+
+Imprisonment for 4 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+376E(4)(b)
+
+Sexual grooming of minor of or above 14 but below 16 years of age
+
+May arrest without warrant
+
+Summons
+
+Not bailable
 
 Imprisonment for 3 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+376EA(4)
+
+Exploitative sexual grooming of minor of or above 16 but below 18 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 3 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+376EB(3)(a)
+
+Sexual communication with minor below 14 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 3 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+376EB(3)(b)
+
+Sexual communication with minor of or above 14 but below 16 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 2 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+376EC(3)
+
+Exploitative sexual communication with minor of or above 16 but below 18 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 2 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+376ED(1)
+
+Engaging in sexual activity in presence of minor below 14 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 3 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+376ED(1)
+
+Engaging in sexual activity in presence of minor of or above 14 but below 16 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for one year, or fine, or both
+
+Magistrate’s Court or District Court
+
+376ED(2)
+
+Causing minor below 14 years of age to observe sexual image
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 3 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+376ED(2)
+
+Causing minor of or above 14 but below 16 years of age to observe sexual image
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for one year, or fine, or both
+
+Magistrate’s Court or District Court
+
+376EE(1)
+
+Engaging in sexual activity in presence of minor of or above 16 but below 18 years of age with exploitative relationship
+
+May arrest without warrant
+
+Summons
+
+Not bailable
+
+Imprisonment for one year, or fine, or both
+
+Magistrate’s Court or District Court
+
+376EE(2)
+
+Causing minor of or above 16 but below 18 years of age to observe sexual image with exploitative relationship
+
+May arrest without warrant
+
+Summons
+
+Not bailable
+
+Imprisonment for one year, or fine, or both
 
 Magistrate’s Court or District Court
 
@@ -14205,13 +14529,13 @@ Magistrate’s Court or District Court
 
 Procurement of sexual activity with a person with mental disability
 
-Shall not arrest without warrant
+May arrest without warrant
 
 Warrant
 
-Ditto
+Not bailable
 
-Imprisonment for 2 years, or fine, or both
+Imprisonment for 5 years, or fine, or both
 
 Ditto
 
@@ -14225,51 +14549,51 @@ Ditto
 
 Not bailable
 
-Imprisonment for 10 years, or fine, or both
+Imprisonment for 20 years, and fine, or caning
 
 District Court
 
-376G(3)
+376G
 
-Incest by a man
+Incest
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years
 
 Magistrate’s Court or District Court
 
-376G(4)
+376H(2)(a)
 
-Incest by a man with a woman under 14 years of age
+Procurement of sexual activity by deception or false representation if penetration is involved
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
-Ditto
+Not bailable
 
-Imprisonment for 14 years
+Imprisonment for 10 years, or fine, or caning
 
 District Court
 
-376G(5)
+376H(2)(b)
 
-Incest by a woman
+Procurement of sexual activity by deception or false representation in any other case
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
-Ditto
+Bailable
 
-Imprisonment for 5 years
+Imprisonment for 2 years, or fine, or both
 
-Magistrate’s Court or District Court
+District Court
 
 377(2)
 
@@ -14305,7 +14629,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 2 years
 
@@ -14345,9 +14669,275 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
+
+377BA
+
+Uttering any word or making any gesture intended to insult the modesty of a person, etc.
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for one year, or fine, or both
+
+Magistrate’s Court or District Court
+
+377BB(7)
+
+Voyeurism
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 2 years, or fine, or caning
+
+Magistrate’s Court or District Court
+
+377BB(8)
+
+If committed against any person below 14 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 2 years, and fine, or caning
+
+Magistrate’s Court or District Court
+
+377BC(3)
+
+Distribution of voyeuristic image or recording
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 5 years, or fine, or caning
+
+Magistrate’s Court or District Court
+
+377BC(4)
+
+If committed against any person below 14 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 5 years, and fine, or caning
+
+Magistrate’s Court or District Court
+
+377BD(2)
+
+Possession of or gaining access to voyeuristic or intimate image or recording
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 2 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+377BD(3)
+
+If committed against any person below 14 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 2 years, and fine, or caning
+
+Magistrate’s Court or District Court
+
+377BE(3)
+
+Distributing or threatening to distribute intimate image or recording
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 5 years, or fine, or caning
+
+Magistrate’s Court or District Court
+
+377BE(4)
+
+If committed against any person below 14 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 5 years, and fine, or caning
+
+Magistrate’s Court or District Court
+
+377BF(3)
+
+Sexual exposure
+
+May arrest without warrant
+
+Summons
+
+Bailable
+
+Imprisonment for one year, or fine, or both
+
+Magistrate’s Court or District Court
+
+377BF(4)
+
+If committed against any person below 14 years of age
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 2 years, and fine, or caning
+
+Magistrate’s Court or District Court
+
+377BG(2)
+
+Using or involving child in production of child abuse material
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 10 years, and fine, or caning
+
+District Court
+
+377BH(2)
+
+Producing child abuse material
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 10 years, and fine, or caning
+
+District Court
+
+377BI(2)
+
+Distributing or selling child abuse material
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 7 years, and fine, or caning
+
+District Court
+
+377BJ(3)
+
+Advertising or seeking child abuse material
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 5 years, and fine, or caning
+
+Magistrate’s Court or District Court
+
+377BK(2)
+
+Possession of or gaining access to child abuse material
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 5 years, and fine, or caning
+
+Magistrate’s Court or District Court
+
+377BL(2)
+
+Exploitation by abusive material of minor of or above 16 but below 18 years of age by using, causing or procuring minor in production of abusive material
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 10 years, and fine, or caning
+
+District Court
+
+377BL(3)
+
+Exploitation by producing abusive material of minor
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 10 years, and fine, or caning
+
+District Court
+
+377BL(4)
+
+Exploitation by distributing or sale of abusive material of minor
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 7 years, and fine, or caning
+
+District Court
 
 CHAPTER XVII — OFFENCES AGAINST PROPERTY
 
@@ -14375,7 +14965,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine, and disqualification for such period as the court may order from holding or obtaining a driving licence
 
@@ -14389,7 +14979,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -14403,7 +14993,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -14417,7 +15007,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and caning
 
@@ -14447,7 +15037,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, and caning
 
@@ -14461,7 +15051,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and caning
 
@@ -14475,7 +15065,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and caning
 
@@ -14489,7 +15079,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine, or caning
 
@@ -14503,7 +15093,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -14533,7 +15123,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 14 years, and caning
 
@@ -14547,7 +15137,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and caning
 
@@ -14561,7 +15151,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 20 years, and caning
 
@@ -14575,7 +15165,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -14587,7 +15177,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Death, or imprisonment for life, and caning
 
@@ -14599,7 +15189,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Caning in addition to the punishment under any other section
 
@@ -14611,7 +15201,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and caning
 
@@ -14623,19 +15213,19 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 10 years, and caning
 
 401
 
-Belonging to a wandering gang of persons associated for the purpose of habitually committing theft
+Belonging to a gang of persons associated for the purpose of habitually committing theft
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and caning
 
@@ -14649,7 +15239,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -14679,7 +15269,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 years, and fine
 
@@ -14693,7 +15283,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 7 years, and fine
 
@@ -14717,13 +15307,13 @@ Magistrate’s Court or District Court
 
 407
 
-Criminal breach of trust by a carrier, wharfinger, etc.
+Criminal breach of trust of property entrusted for purposes of transportation or storage
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 15 years, and fine
 
@@ -14731,13 +15321,13 @@ District Court
 
 408
 
-Criminal breach of trust by a clerk or servant
+Criminal breach of trust by employees
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -14745,15 +15335,15 @@ Ditto
 
 409
 
-Criminal breach of trust by public servant, or by banker, merchant or agent, etc.
+Criminal breach of trust by public servant, or by banker, merchant, agent, director, officer, etc.
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
-Imprisonment for life, or imprisonment for 20 years, and fine
+Imprisonment for 20 years, and fine
 
 Ditto
 
@@ -14761,7 +15351,7 @@ Receiving stolen property
 
 411(1)
 
-Dishonestly receiving or retaining stolen property, knowing it to be stolen
+Receiving or retaining stolen property, knowing it to be stolen
 
 May arrest without warrant
 
@@ -14781,7 +15371,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, and fine, and disqualification for such period as the court may order from holding or obtaining a driving licence
 
@@ -14789,15 +15379,17 @@ Ditto
 
 412
 
-Dishonestly receiving or retaining stolen property, knowing that it was obtained by gang-robbery
+Receiving property stolen in the commission of gang-robbery
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
-Ditto
+Not bailable
 
-Imprisonment for life, or imprisonment for 10 years, and fine
+Imprisonment for 20 years, and fine
+
+District Court
 
 413
 
@@ -14807,9 +15399,11 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 20 years, and fine
+
+District Court
 
 414(1)
 
@@ -14819,7 +15413,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, or fine, or both
 
@@ -14833,11 +15427,25 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, and fine, and disqualification for such period as the court may order from holding or obtaining a driving licence
 
 Ditto
+
+416A(5)
+
+Illegally obtained personal information
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 3 years, or fine*, or both
+
+Magistrate’s Court or District Court
 
 Cheating
 
@@ -14863,7 +15471,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 5 years, or fine, or both
 
@@ -14877,7 +15485,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -14891,11 +15499,25 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
 Ditto
+
+420A
+
+Obtaining services dishonestly or fraudulently
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 10 years, or fine, or both
+
+Magistrate’s Court or District Court
 
 Fraudulent deeds and dispositions of property
 
@@ -14921,7 +15543,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -14935,7 +15557,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -14949,11 +15571,39 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
 Ditto
+
+424A(3)
+
+Fraud by false representation, non‑disclosure or abuse of position not connected with contracts for goods or services
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 20 years, or fine, or both
+
+Magistrate’s Court or District Court
+
+424B(3)
+
+Fraud by false representation, non‑disclosure or abuse of position — where otherwise
+
+Shall not arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 20 years, or fine, or both
+
+Magistrate’s Court or District Court
 
 Mischief
 
@@ -14967,21 +15617,21 @@ Summons
 
 Bailable
 
-Imprisonment for one year, or fine, or both
+Imprisonment for 2 years, or fine, or both
 
 Magistrate’s Court or District Court
 
 427
 
-Mischief, and thereby causing damage to the amount of $500 or upwards
+Mischief, and thereby causing disruption to key service, etc.
 
 Ditto
 
 Warrant
 
-Ditto
+Not bailable
 
-Imprisonment for 2 years, or fine, or both
+Imprisonment for 10 years, or fine, or both
 
 Ditto
 
@@ -14993,107 +15643,11 @@ May arrest without warrant
 
 Ditto
 
-Ditto
-
-Imprisonment for 5 years, or fine, or both
-
-Ditto
-
-430
-
-Mischief by causing diminution of supply of water for agricultural or industrial purposes, etc.
-
-Ditto
-
-Ditto
-
-Ditto
-
-Ditto
-
-Ditto
-
-430A
-
-Mischief affecting railway engine, train, etc.
-
-Ditto
-
-Ditto
-
-Not bailable
-
-Imprisonment for life, or imprisonment for 10 years, and fine
-
-431
-
-Mischief by injury to public road, bridge, navigable river or channel, and rendering it impassable or less safe for travelling or conveying property
-
-Ditto
-
-Ditto
-
 Bailable
 
 Imprisonment for 5 years, or fine, or both
 
-Magistrate’s Court or District Court
-
-431A
-
-Mischief by injury to telegraph cable, wire, etc.
-
 Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 2 years, or fine, or both
-
-Ditto
-
-432
-
-Mischief by causing inundation or obstruction to public drainage, attended with damage
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 5 years, or fine, or both
-
-Ditto
-
-433
-
-Mischief by destroying or moving, or rendering less useful a lighthouse or sea-mark
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 7 years, or fine, or both
-
-District Court
-
-434
-
-Mischief by destroying or moving, etc., a landmark fixed by public authority
-
-Shall not arrest without warrant
-
-Ditto
-
-Ditto
-
-Imprisonment for one year, or fine, or both
-
-Magistrate’s Court or District Court
 
 435
 
@@ -15103,7 +15657,7 @@ May arrest without warrant
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 7 years, and fine
 
@@ -15129,7 +15683,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -15143,7 +15697,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for life, or imprisonment for 10 years, and fine
 
@@ -15155,7 +15709,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -15169,7 +15723,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, and fine
 
@@ -15193,21 +15747,21 @@ Magistrate’s Court or District Court
 
 448
 
-House-trespass
+House-breaking
 
 Ditto
 
 Warrant
 
-Ditto
+Bailable
 
-Imprisonment for one year, or fine*, or both
+Imprisonment for 3 years, or fine, or both
 
 Ditto
 
 449
 
-House-trespass in order to commit an offence punishable with death
+House-breaking in order to commit an offence punishable with death
 
 Ditto
 
@@ -15215,25 +15769,25 @@ Ditto
 
 Not bailable
 
-Imprisonment for life, or imprisonment for 10 years, and fine
+Imprisonment for life, or imprisonment for 15 years, and fine
 
 450
 
-House-trespass in order to commit an offence punishable with imprisonment for life
+House-breaking in order to commit an offence punishable with imprisonment for life
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
-Imprisonment for 10 years, and fine
+Imprisonment for 15 years, and fine
 
 District Court
 
 451
 
-House-trespass in order to commit an offence punishable with imprisonment
+House-breaking in order to commit an offence punishable with imprisonment
 
 Ditto
 
@@ -15241,13 +15795,13 @@ Ditto
 
 Bailable
 
-Imprisonment for 2 years, and fine
+Imprisonment for 10 years, and fine
 
 Magistrate’s Court or District Court
 
-451
+452
 
-If the offence is theft
+House-breaking, after preparation made for causing hurt, assault, etc.
 
 Ditto
 
@@ -15255,171 +15809,59 @@ Ditto
 
 Not bailable
 
-Imprisonment for 7 years, and fine
-
-Ditto
-
-452
-
-House-trespass, after preparation made for causing hurt, assault, etc.
-
-Ditto
-
-Ditto
-
-Ditto
-
-Ditto
+Imprisonment for 10 years, and fine, or caning
 
 Ditto
 
 453
 
-Lurking house-trespass or house-breaking
+Possession of house-breaking implements or offensive weapons
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
-Ditto
+Bailable
 
-Imprisonment for 2 years, and fine
-
-Ditto
-
-454
-
-Lurking house-trespass or house-breaking in order to commit an offence punishable with imprisonment
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
-
-Ditto
-
-454
-
-If the offence is theft
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 10 years, and fine
-
-District Court
-
-455
-
-Lurking house-trespass or house-breaking after preparation made for causing hurt, assault, etc.
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 10 years, and caning
-
-Ditto
-
-456
-
-Lurking house-trespass or house-breaking by night
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 3 years, and fine
+Imprisonment for 2 years, or fine, or both and forfeiture of any instrument or article found in the possession of that person
 
 Magistrate’s Court or District Court
 
-457
-
-Lurking house-trespass or house-breaking by night in order to commit an offence punishable with imprisonment
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 5 years, and fine
-
-Ditto
-
-457
-
-If the offence is theft
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 14 years, and fine
-
-District Court
-
-458
-
-Lurking house-trespass or house-breaking by night, after preparation made for causing hurt, etc.
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 14 years, and caning
-
-Ditto
-
 458A
 
-Committing an offence under section 454 or 457 subsequent to having been convicted of an offence under section 454, 455, 457 or 458
+Committing an offence under section 449, 450, 451 or 452 subsequent to having been convicted of an offence under section 449, 450, 451 or 452
 
-Ditto
+May arrest without warrant
 
-Ditto
+Warrant
 
-Ditto
+Not bailable
 
 Caning in addition to the punishment prescribed for the offence
 
-Ditto
+District Court
 
 459
 
-Grievous hurt caused whilst committing lurking house- trespass or house-breaking
+Grievous hurt caused whilst committing house-breaking
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 20 years, and caning
 
 460
 
-Death or grievous hurt caused by one of several persons jointly concerned in house-breaking by night, etc.
+Death or grievous hurt caused by one of several persons jointly concerned in house-breaking
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 20 years
 
@@ -15445,13 +15887,13 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Imprisonment for 3 years, or fine, or both
 
 Ditto
 
-CHAPTER XVIII — OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS,AND TO CURRENCY NOTES AND BANK NOTES
+CHAPTER XVIII — OFFENCES RELATING TO DOCUMENTS OR ELECTRONIC RECORDS, FALSE INSTRUMENTS, AND TO CURRENCY NOTES AND BANK NOTES
 
 465
 
@@ -15489,7 +15931,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 15 years, and fine
 
@@ -15503,7 +15945,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -15531,7 +15973,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Punishment for forgery
 
@@ -15559,7 +16001,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -15573,7 +16015,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 5 years, or fine, or both
 
@@ -15587,7 +16029,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, or fine, or both
 
@@ -15601,7 +16043,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -15615,7 +16057,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 15 years, and fine
 
@@ -15629,7 +16071,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
 
@@ -15643,7 +16085,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -15657,7 +16099,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 15 years, and fine
 
@@ -15671,17 +16113,17 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, or fine, or both
 
 Ditto
 
-Currency notes and bank notes
+Currencyand bank notes
 
 489A
 
-Forging or counterfeiting currency notes or bank notes
+Forging or counterfeiting currency or bank notes
 
 May arrest without warrant
 
@@ -15691,49 +16133,97 @@ Not bailable
 
 Imprisonment for 20 years, and fine
 
+District Court
+
 489B
 
-Using as genuine forged or counterfeit currency notes or bank notes
+Using as genuine forged or counterfeit currency or bank notes
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Ditto
+
+District Court
 
 489C
 
-Possession of forged or counterfeit currency notes or bank notes, with intent
+Possession of forged or counterfeit currency or bank notes, with intent
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
-Imprisonment for 15 years
+Imprisonment for 15 years, and fine
+
+District Court
 
 489D
 
-Making or possessing instruments or materials for forging or counterfeiting currency notes or bank notes
+Making or possessing instruments or materials for forging or counterfeiting currency or bank notes
 
 Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 20 years, and fine
 
-CHAPTER XX — OFFENCES RELATING TO MARRIAGE
+District Court
 
-493
+489E
 
-A man by deceit causing a woman not lawfully married to him, to believe that she is lawfully married to him, and to cohabit with him in that belief
+Abetting in Singapore counterfeiting of currency out of Singapore
 
-Shall not arrest without warrant
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+The punishment provided for abetting the counterfeiting of such currency within Singapore
+
+District Court
+
+489F
+
+Fraudulently or dishonestly diminishing weight or altering composition of coin
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 7 years, and fine
+
+District Court
+
+489G
+
+Altering appearance of currency with intent that it passes as currency of different description
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 7 years, and fine
+
+District Court
+
+489H
+
+Delivering to another of altered currency
+
+May arrest without warrant
 
 Warrant
 
@@ -15743,47 +16233,21 @@ Imprisonment for 10 years, and fine
 
 District Court
 
-494
+489I
 
-Marrying again during the lifetime of a husband or wife
+Possession of altered currency
 
-Ditto
+May arrest without warrant
 
-Ditto
-
-Bailable
-
-Imprisonment for 7 years, and fine
-
-Ditto
-
-495
-
-Same offence with concealment of the former marriage from the person with whom subsequent marriage is contracted
-
-Ditto
-
-Ditto
+Warrant
 
 Not bailable
 
-Imprisonment for 10 years, and fine
+Imprisonment for 5 years, and fine
 
-Ditto
+Magistrate’s Court or District Court
 
-496
-
-A person with fraudulent intention going through the ceremony of being married, knowing that he is not thereby lawfully married
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 7 years, and fine
-
-Ditto
+CHAPTER XX — [Deleted by Act 15 of 2019 wef 01/01/2020]
 
 CHAPTER XXI — DEFAMATION
 
@@ -15809,7 +16273,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -15823,7 +16287,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 Ditto
 
@@ -15867,7 +16331,7 @@ May arrest without warrant
 
 Ditto
 
-Bailable
+Not bailable
 
 Imprisonment for 2 years, or fine, or both
 
@@ -15881,7 +16345,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 Imprisonment for 10 years, or fine, or both
 
@@ -15901,65 +16365,33 @@ Imprisonment for 2 years, in addition to the punishment under section 506
 
 Ditto
 
-508
-
-Act caused by inducing a person to believe that he will be rendered an object of divine displeasure
-
-Shall not arrest without warrant
-
-Ditto
-
-Bailable
-
-Imprisonment for one year, or fine, or both
-
-Ditto
-
-509
-
-Uttering any word or making any gesture intended to insult the modesty of a woman, etc.
-
-Ditto
-
-Summons
-
-Ditto
-
-Ditto
-
-Ditto
-
-[Deleted by Act 5 of 2015 wef 01/04/2015]
-
 CHAPTER XXIII — ATTEMPTS TO COMMIT OFFENCES
 
-511
+512(1)
 
-Attempting (where no express provision is made by the Penal Code or by other written law) to commit offences punishable with imprisonment or fine or with a combination of such punishments (other than imprisonment for life), and in such attempt doing any act towards the commission of the offence
+Attempting (where no express provision is made by the Penal Code or by other written law) to commit offences punishable with death or imprisonment for life
+
+May arrest without warrant
+
+Warrant
+
+Not bailable
+
+Imprisonment for 20 years, and fine, or caning
+
+512(2)
+
+If the attempted offence is punishable with any punishment or combination of punishments other than death or imprisonment for life
 
 According as to whether the offence is one in respect of which the police may arrest without warrant or not
 
 According as to whether the offence is one in respect of which a summons or warrant shall ordinarily issue
 
-According as to whether the offence contemplated by the offender is bailable or not
+According as to whether the offence attempted is bailable or not
 
-The punishment provided for the offence, provided that any term of imprisonment shall not exceed one-half of the longest term provided for the offence
+The punishment provided for the offence, except that the court is not bound to impose any specified minimum sentence or mandatory minimum sentence of imprisonment, or fine or caning
 
 The court by which the offence attempted is triable
-
-511
-
-If the attempted offence is punishable with imprisonment for life
-
-Ditto
-
-Ditto
-
-Ditto
-
-Imprisonment for 15 years
-
-Ditto
 
 OFFENCES AGAINST LAWS OTHER THAN THE PENAL CODE
 
@@ -15979,7 +16411,7 @@ Ditto
 
 Ditto
 
-Ditto
+Not bailable
 
 According to sections 7, 8 and 9 of this Code
 
@@ -15999,7 +16431,7 @@ Ditto
 
 Ditto
 
-Ditto
+Bailable
 
 According to sections 7, 8 and 9 of this Code
 
@@ -16010,6 +16442,8 @@ According to sections 7, 8 and 9 of this Code
 [Act 19 of 2016 wef 01/10/2017]
 
 [Act 19 of 2018 wef 31/10/2018]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 SECOND SCHEDULE
 
@@ -16277,11 +16711,7 @@ Ditto
 
 9.
 
-116
-
-If the abettor or the person abetted is a public servant whose duty it is to prevent the offence
-
-Ditto
+[Deleted by Act 15 of 2019 wef 01/01/2020]
 
 10.
 
@@ -16383,6 +16813,14 @@ Voluntarily causing hurt on grave and sudden provocation, not intending to hurt 
 
 Ditto
 
+21A.
+
+334A
+
+Voluntarily causing hurt on grave and sudden provocation which causes grievous hurt
+
+Compoundable by the person hurt
+
 22.
 
 335
@@ -16479,6 +16917,30 @@ Unlawful compulsory labour
 
 Compoundable by the person compelled to labour
 
+33A.
+
+377BA
+
+Word or gesture intended to insult modesty of any person
+
+Compoundable by the person insulted
+
+33B.
+
+377BB(1) read with 377BB(7)
+
+Voyeurism by intentional observation of another person
+
+Compoundable by the person of or above 14 years of age whose private act was observed
+
+33C.
+
+377BF(1) read with 377BF(3)
+
+Sexual exposure
+
+Compoundable by the person of or above 14 years of age to whom the offender’s genitals were exposed
+
 Chapter XVII — Offences against property
 
 34.
@@ -16491,11 +16953,7 @@ Compoundable by the private person who suffers loss or damage
 
 35.
 
-427
-
-Mischief, and thereby causing damage to the amount of $500 or upwards
-
-Ditto
+[Deleted by Act 15 of 2019 wef 01/01/2020]
 
 36.
 
@@ -16507,11 +16965,7 @@ Compoundable by the person in possession of the property trespassed upon
 
 37.
 
-448
-
-House-trespass
-
-Ditto
+[Deleted by Act 15 of 2019 wef 01/01/2020]
 
 Chapter XXI — Defamation
 
@@ -16559,29 +17013,25 @@ Compoundable by the person intimidated
 
 43.
 
-509
-
-Uttering any word or making any gesture intended to insult the modesty of a woman, etc.
-
-Compoundable by the woman insulted
+[Deleted by Act 15 of 2019 wef 01/01/2020]
 
 Chapter XXIII — Attempts to commit offences
 
 44.
 
-511
+512(1)
 
-Attempting (where no express provision is made by the Penal Code or by other written law) to commit offences punishable with imprisonment or fine or with a combination of such punishments (other than imprisonment for life), and in such attempt doing any act towards the commission of the offence
+Attempting (where no express provision made by the Penal Code or by other written law) to commit offences punishable with death or imprisonment for life
 
 Compoundable by the victim if this Code or any other written law under which the attempted offence is committed provides for the attempted offence to be compoundable by the victim
 
 45.
 
-511
+512(2)
 
-If the attempted offence is punishable with imprisonment for life
+Where the attempted offence in section 512(1) is not an offence punishable with death or life imprisonment
 
-Ditto
+Compoundable by the victim if this Code or any other written law under which the attempted offence is committed provides for the attempted offence to be compoundable by the victim
 
 Part II
 
@@ -16718,6 +17168,8 @@ Unlawful stalking
 Compoundable by the victim within the meaning of section 7 of the Protection from Harassment Act 2014
 
 [Act 17 of 2014 wef 15/11/2014]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 FIFTH SCHEDULE
 
@@ -19571,3 +20023,8 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|11 February 2019 (Bill No. 7/2019 published on 11 February 2019)|
 ||Date of Second and Third Readings|8 March 2019|
 ||Date of commencement|21 June 2019|
+|31.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019|
+|||(Bill No. 6/2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
