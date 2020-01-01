@@ -1420,13 +1420,7 @@ Illustrations
 
 Aobtains a decree againstCfor damages on the ground thatCfailed to make out his justification. The fact is irrelevant as betweenBandC.
 
-(b)AprosecutesBunder section 498 of the Penal Code for enticing awayC,A’swife.
-
-Bdenies thatCisA’swife, but the court convictsB.
-
-AfterwardsCis prosecuted for bigamy in marryingBduringA’slifetime.Csays that she never wasA’swife.
-
-The judgment againstBis irrelevant as againstC.
+(b) [Deleted by Act 15 of 2019 wef 01/01/2020]
 
 (c) A has obtained a decree for the possession of land againstB.C,B’sson, murdersAin consequence.
 
@@ -1560,7 +1554,9 @@ the opinions of persons having special means of knowledge thereon are relevant f
 
 52\.—(1) When the court has to form an opinion as to the relationship of one person to another, the opinion expressed by conduct as to the existence of such relationship of any person who as a member of the family or otherwise has special means of knowledge on the subject is a relevant fact.
 
-(2) Such opinion shall not be sufficient to prove a marriage in prosecutions under section 494 or 495 of the Penal Code (Cap. 224).
+(2) Such opinion shall not be sufficient to prove a marriage in prosecutions under section 6A of the Women’s Charter (Cap. 353).
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007 wef 01/02/2008]
 
@@ -1762,9 +1758,11 @@ Oral evidence
 
 [8/96]
 
-(7) Evidence given by a witness, whether in Singapore or elsewhere, through a live video or live television link by virtue of this section shall be deemed for the purposes of sections 193, 194, 195, 196, 205 and 209 of the Penal Code (Cap. 224) as having been given in the proceedings in which it is given.
+(7) Evidence given by a witness, whether in Singapore or elsewhere, through a live video or live television link by virtue of this section shall be deemed for the purposes of sections 193, 194, 195, 196 and 205 of the Penal Code (Cap. 224) as having been given in the proceedings in which it is given.
 
 [8/96]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (8) Where a witness gives evidence in accordance with this section, he shall, for the purposes of this Act, be deemed to be giving evidence in the presence of the court.
 
@@ -2632,7 +2630,39 @@ Illustrations
 
 ### Communications during marriage
 
-124\. No person who is or has been married shall be compelled to disclose any communication made to him during marriage by any person to whom he is or has been married; nor shall he be permitted to disclose any such communication unless the person who made it or his representative in interest consents, except in suits between married persons or proceedings in which one married person is prosecuted for any crime committed against the other.
+124\.—(1) No person who is or has been married shall be compelled to disclose any communication made to him during marriage by any person to whom he is or has been married; nor shall he be permitted to disclose any such communication unless the person who made it or his representative in interest consents, except in suits between married persons or proceedings in which one married person is prosecuted for any crime committed against the other.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) Nothing in this section protects from disclosure any such communication made that is relevant in any criminal proceedings in respect of a specified offence.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(3) In this section —
+
+“domestic worker” has the meaning given by section 73(4) of the Penal Code (Cap. 224);
+
+“employer”, in relation to a domestic worker, has the meaning given by section 73(4) of the Penal Code;
+
+“employment agent”, in relation to a domestic worker, has the meaning given by section 73(4) of the Penal Code;
+
+“member of the employer’s household” has the meaning given by section 73(4) of the Penal Code;
+
+“specified offence” means any of the following offences:
+
+(a) a child abuse offence committed against a person below 16 years of age;
+
+(b) a sexual offence or an offence under Chapter XVI of the Penal Code (other than a sexual offence) committed against a person below 16 years of age;
+
+(c) a sexual offence or an offence under Chapter XVI of the Penal Code (other than a sexual offence) committed against a domestic worker by an employer of the domestic worker, a member of the employer’s household or an employment agent of the domestic worker;
+
+(d) a sexual offence or an offence under Chapter XVI of the Penal Code (other than a sexual offence) committed against a vulnerable person by a person who has the custody, charge or care of the vulnerable person;
+
+(e) an abetment of, a conspiracy to commit or an attempt to commit any of the offences mentioned in paragraphs (a) to (d);
+
+“vulnerable person” has the meaning given by section 74A(5) of the Penal Code.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Evidence as to affairs of State
 
@@ -3231,13 +3261,21 @@ CHILD ABUSE OFFENCES
 
 Any offence under section 5(1), 6, 7, 11(2), 12 or 13 of the Children and Young Persons Act (Cap. 38).
 
+2. 
+
+Any offence under section 377BG, 377BH, 377BI, 377BJ, 377BK or 377BL of the Penal Code.
+
+[Act 15 of 2019 wef 01/01/2020]
+
 Part 2
 
 SEXUAL OFFENCES
 
 1. 
 
-Any offence under section 354, 354A, 355, 356, 357, 358, 372, 373, 373A, 375, 376, 376A, 376B, 376C, 376D, 376E, 376F, 376G, 377(3), 377A or 377B(3) of the Penal Code (Cap. 224).
+Any offence under section 354, 354A, 355, 372, 373, 373A, 375, 376, 376A, 376AA, 376B, 376C, 376D, 376E, 376EA, 376EB, 376EC, 376ED, 376EE, 376F, 376G, 376H, 377(3), 377A, 377B(3), 377BA, 377BB, 377BC, 377BD, 377BE or 377BF of the Penal Code.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 2. 
 
@@ -3675,3 +3713,8 @@ This Legislative History is provided for the convenience of users of the Evidenc
 ||Date of commencement|1 April 2019|
 |48.|**G.N. No. S 738/2019—Evidence Act (Amendment of Second Schedule) (No. 2) Order 2019**|
 ||Date of commencement|1 December 2019|
+|49.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019|
+|||(Bill No. 6/2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
