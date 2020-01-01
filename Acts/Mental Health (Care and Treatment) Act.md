@@ -209,13 +209,21 @@ DISORDERED PERSONS IN PSYCHIATRIC INSTITUTIONS
 
 ### Apprehension of mentally disordered person
 
-7\. It shall be the duty of every police officer to apprehend any person who is reported to be mentally disordered and is believed to be dangerous to himself or other persons by reason of mental disorder and take the person together with a report of the facts of the case without delay to —
+7\.—(1) It shall be the duty of every police officer or special police officer to apprehend any person believed to be dangerous to himself or other persons and such danger is reasonably suspected to be attributable to a mental disorder and take the person together with a report of the facts of the case without delay to —
 
 (a) any medical practitioner for an examination and the medical practitioner may thereafter act in accordance with section 9; or
 
 (b) any designated medical practitioner at a psychiatric institution and the designated medical practitioner may thereafter act in accordance with section 10.
 
-[MDTA, s. 32]
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) For the purposes of and without limiting subsection (1) —
+
+(a) a police officer’s or special police officer’s reasonable belief that a person is doing or about to do an act which is dangerous to himself is sufficient basis for the police officer’s or special police officer’s reasonable suspicion that the danger to that person is attributable to a mental disorder; and
+
+(b) “special police officer” has the same meaning as in section 2 of the Police Force Act (Cap. 235).
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Ill-treatment or neglect of mentally disordered person
 
@@ -819,3 +827,7 @@ The Mental Health (Care and Treatment) Act 2008 repealed the Mental Disorders an
 |||(Bill No. 21/2014 published on 8 July 2014)|
 ||Date of Second and Third Readings|4 August 2014|
 ||Date of commencement|1 October 2014|
+|7.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
