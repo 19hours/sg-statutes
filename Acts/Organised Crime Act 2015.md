@@ -2680,6 +2680,42 @@ Section 130C
 
 Piratical acts
 
+62A.
+
+Section 143
+
+Punishment for being a member of an unlawful assembly
+
+62B.
+
+Section 144
+
+Joining an unlawful assembly armed with any deadly weapon
+
+62C.
+
+Section 145
+
+Joining or continuing in an unlawful assembly, knowing that it has been commanded to disperse
+
+62D.
+
+Section 146
+
+Force used by one member in prosecution of common object
+
+62E.
+
+Section 147
+
+Punishment for rioting
+
+62F.
+
+Section 148
+
+Rioting, armed with a deadly weapon
+
 63.
 
 Section 204A
@@ -2694,39 +2730,37 @@ Bribery of witnesses
 
 65.
 
-Section 231
+Section 268A
 
-Counterfeiting coin
+Communicating false information of harmful thing
 
 66.
 
-Section 232
+Section 268B
 
-Counterfeiting current coin
+Placing or sending thing with intent to cause fear of harm
 
 67.
 
-Section 233
+Section 268C
 
-Making or selling instrument for counterfeiting coin
+Placing or sending thing causing fear of harm
 
 68.
 
-Section 234
+Section 284
 
-Making or selling instrument for counterfeiting current coin
+Rash or negligent conduct with respect to dangerous or harmful substance
 
 69.
 
-Section 237
+Section 285
 
-Import or export of counterfeit coin
+Causing or contributing to risk of dangerous fire
 
 70.
 
-Section 238
-
-Import or export of counterfeits of current coin
+[Deleted by S 857/2019 wef 01/01/2020]
 
 71.
 
@@ -2751,6 +2785,48 @@ Attempt to murder
 Section 308
 
 Attempt to commit culpable homicide
+
+74A.
+
+Section 308A
+
+Causing death in furtherance of group’s object
+
+74B.
+
+Section 308B
+
+Concealment, desecration or disposal of corpse that impedes discovery, identification, criminal investigations or prosecutions
+
+74C.
+
+Section 323A
+
+Punishment for voluntarily causing hurt which causes grievous hurt
+
+74D.
+
+Section 325
+
+Punishment for voluntarily causing grievous hurt
+
+74E.
+
+Section 326
+
+Voluntarily causing grievous hurt by dangerous weapons or means
+
+74F.
+
+Section 335A
+
+Allowing neglect, physical or sexual abuse of domestic worker or vulnerable person
+
+74G.
+
+Section 342
+
+Punishment for wrongful confinement
 
 75.
 
@@ -2836,6 +2912,114 @@ Section 376B(1)
 
 Commercial sex with person under 18
 
+88A.
+
+Section 376C
+
+Commercial sex with minor below 18 years of age outside Singapore
+
+88B.
+
+Section 376D
+
+Tour outside Singapore for commercial sex with minor below 18 years of age
+
+88C.
+
+Section 376E
+
+Sexual grooming of minor below 16 years of age
+
+88D.
+
+Section 376EA
+
+Exploitative sexual grooming of minor of or above 16 but below 18 years of age
+
+88E.
+
+Section 376EB
+
+Sexual communication with minor below 16 years of age
+
+88F.
+
+Section 376EC
+
+Exploitative sexual communication with minor of or above 16 but below 18 years of age
+
+88G.
+
+Section 376ED
+
+Sexual activity or image in presence of minor below 16 years of age
+
+88H.
+
+Section 376EE
+
+Exploitative sexual activity or image in presence of minor of or above 16 but below 18 years of age
+
+88I.
+
+Section 377BB
+
+Voyeurism
+
+88J.
+
+Section 377BC
+
+Distribution of voyeuristic image or recording
+
+88K.
+
+Section 377BD
+
+Possession of or gaining access to voyeuristic or intimate image or recording
+
+87L.
+
+Section 377BE
+
+Distributing or threatening to distribute intimate image or recording
+
+88M.
+
+Section 377BG
+
+Using or involving child in production of child abuse material
+
+88N.
+
+Section 377BH
+
+Producing child abuse material
+
+88O.
+
+Section 377BI
+
+Distributing or selling child abuse material
+
+88P.
+
+Section 377BJ
+
+Advertising or seeking child abuse material
+
+88Q.
+
+Section 377BK
+
+Possession of or gaining access to child abuse material
+
+88R.
+
+Section 377BL
+
+Exploitation by abusive material of minor of or above 16 but below 18 years of age
+
 89.
 
 Section 379A
@@ -2902,11 +3086,41 @@ Section 396
 
 Gang-robbery with murder
 
+99A.
+
+Section 406
+
+Punishment of criminal breach of trust
+
+99B.
+
+Section 407
+
+Criminal breach of trust of property entrusted for purposes of transportation or storage
+
+99C.
+
+Section 408
+
+Criminal breach of trust by employees
+
+99D.
+
+Section 409
+
+Criminal breach of trust by public servant, or by banker, merchant, agent, director, officer, partner, key executive or fiduciary
+
 100.
 
 Section 411
 
-Dishonestly receiving stolen property
+Receiving stolen property
+
+100A.
+
+Section 412
+
+Receiving property stolen in the commission of a gang-robbery
 
 101.
 
@@ -2919,6 +3133,12 @@ Habitually dealing in stolen property
 Section 414
 
 Assisting in concealment or disposal of stolen property
+
+102A.
+
+Section 416A
+
+Illegally obtained personal information
 
 103.
 
@@ -2934,39 +3154,69 @@ Cheating and dishonestly inducing a delivery of property
 
 105.
 
-Section 454
+Section 420A
 
-Lurking house-trespass or house‑breaking in order to commit an offence punishable with imprisonment
+Obtaining services dishonestly or fraudulently
 
 106.
 
-Section 455
+Section 424A
 
-Lurking house-trespass or house‑breaking after preparation made for causing hurt, etc.
+Fraud by false representation, non-disclosure or abuse of position not connected with contracts for goods or services
 
 107.
 
-Section 457
+Section 427
 
-Lurking house-trespass by night or house-breaking by night in order to commit an offence punishable with imprisonment
+Punishment for committing mischief causing disruption to key service, etc.
 
 108.
 
-Section 458
+Section 448
 
-Lurking house-trespass by night or house‑breaking by night after preparation made for causing hurt, etc.
+Punishment for house-breaking
+
+108A.
+
+Section 449
+
+House-breaking in order to commit an offence punishable with death
+
+108B.
+
+Section 450
+
+House-breaking in order to commit an offence punishable with imprisonment for life
+
+108C.
+
+Section 451
+
+House-breaking in order to commit an offence punishable with imprisonment
+
+108D.
+
+Section 452
+
+House-breaking after preparation made for causing hurt, etc.
+
+108E.
+
+Section 453
+
+Possession of house-breaking implements or offensive weapons
 
 109.
 
 Section 459
 
-Grievous hurt caused while committing lurking house-trespass or house-breaking
+Grievous hurt caused while committing house-breaking
 
 110.
 
 Section 460
 
-Lurking house-trespass by night or house‑breaking by night when death or grievous hurt is caused
+House-breaking when death or grievous hurt is caused
 
 111.
 
@@ -3044,19 +3294,55 @@ Falsification of accounts
 
 Section 489A
 
-Forging or counterfeiting currency notes or bank notes
+Forging or counterfeiting currency or bank notes
 
 124.
 
 Section 489B
 
-Using as genuine forged or counterfeit currency notes or bank notes
+Using as genuine forged or counterfeit currency or bank notes
 
 125.
 
 Section 489C
 
-Possession of forged or counterfeit currency notes or bank notes
+Possession of forged or counterfeit currency or bank notes
+
+125A.
+
+Section 489D
+
+Making or possessing instruments or materials for forging or counterfeiting currency or bank notes
+
+125B.
+
+Section 489E
+
+Abetting in Singapore counterfeiting of currency out of Singapore
+
+125C.
+
+Section 489F
+
+Fraudulently or dishonestly diminishing weight or altering composition of any coin
+
+125D.
+
+Section 489G
+
+Altering appearance of currency with intent that it shall pass as currency of different description
+
+125E.
+
+Section 489H
+
+Delivery to another of altered currency
+
+125F.
+
+Section 489I
+
+Possession of altered currency
 
 126.
 
@@ -3078,7 +3364,7 @@ cause an offence punishable with death or with imprisonment for a term which may
 
 (d)
 
-impute unchastity to a woman
+[Deleted by S 857/2019 wef 01/01/2020]
 
 127.
 
@@ -3216,13 +3502,15 @@ Section 148
 
 Keeping, managing or assisting in management of brothels
 
+[S 857/2019 wef 01/01/2020]
+
 [S 526/2019 wef 01/08/2019]
 
 [Act 9 of 2018 wef 31/08/2018]
 
 [S 423/2017 wef 31/07/2017]
 
-var printViewUrl = 'https://sso.agc.gov.sg/Act/OCA2015/Historical/20190801?DocDate=20191227&ValidDate=20190801'; var printViewFilter = {"DocType":"Act","DocNo":"OCA2015","QueryDate1":"20190801","DocStatus":"Historical","ValidDate":"20190801","ValidDt":null,"TransactionDate":null,"DocDate":"20191227","ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'yty/qpOYVu657ot0qmG2YoyIU2kutQaII8eLgHHv20Fkuqaam3YtQuqEx3pMbaGBgaMXLbQtislH3HHe6j2LJ6gZtQKB8y1BTnRgzQ6OERiXbUz6YhxsUBr4ovwkDftUl0Mx8Qwbifu21SiaV21Q5l0+r1ExEQNSin/QHIUNscnHn1ps0Kl9cnIOnCvOcTtALTue/AvWtGKPKVO5oKMm6Q==';
+var printViewUrl = 'https://sso.agc.gov.sg/Act/OCA2015'; var printViewFilter = {"DocType":"Act","DocNo":"OCA2015","QueryDate1":null,"DocStatus":"Current","ValidDate":null,"ValidDt":null,"TransactionDate":null,"DocDate":null,"ViewType":"Print","CompareDate":null,"ShowDiff":"","PrintType":"html","ProvIds":"all-.,toc-.","PageIndex":0,"PageSize":0,"SortBy":null,"SortOrder":null,"Timeline":null,"MyCollection":null,"CollectionId":null,"CollectionName":null,"In":null,"GetPartialView":null,"Phrase":null,"Exact":null,"Any":null,"Without":null,"WiAl":null,"WiPr":null,"WiLT":null,"WiSc":null,"WiDT":null,"WiDH":null,"WiES":null,"WiPH":null,"RefinePhrase":[""],"RefineWithin":[""],"CustomSearchId":null}; var ajaxToken = 'yty/qpOYVu657ot0qmG2YtntiV+mWugatMIEJeurf+1nvJ6ats3M/O6R/2TkLo/xpd1/Dy7alsEyCcAT3PIly8CNi2JP+Niw/hR2HpOXQAAe7BGDTBDhP80nadnhQG9krVh9mhA67e9x2Ip/t/4iuPVTFpX5ylT/r75Ni0lzyWTR3lKrJdwaCZmCUrI63lx/b4dXL/+oFiShEy8WwIxsLg==';
 
 $(function () { initPrintView(); });
 
