@@ -598,7 +598,7 @@
 
 - [82 Cases stated for High Court](#Cases-stated-for-High-Court)
 
-- [83 Proceedings before Board and High Court](#Proceedings-before-Board-and-High-Court)
+- [83 Proceedings before Board](#Proceedings-before-Board)
 
 - [84 Assessments to be final and conclusive](#Assessments-to-be-final-and-conclusive)
 
@@ -2128,7 +2128,7 @@ shall be deemed to be income accruing to the employee for the year in which the 
 
 (4) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
-(5) [Deleted by Act 32 of 2019wef 02/12/2019]
+(5) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (5A) Notwithstanding subsection (1)(a) but subject to subsection (6), where a contribution is made by an employer in 2013 or any subsequent year to the medisave account of his employee maintained under the Central Provident Fund Act, the contribution up to the maximum amount referred to in subsection (5B) shall not be deemed to be income accruing to the employee.
 
@@ -3134,7 +3134,7 @@ EXEMPTION FROM INCOME TAX
 
 (aa) subject to subsection (2A) and such conditions as may be prescribed by regulations, the discount from any qualifying debt securities —
 
-(i) [Deleted byAct 32 of 2019wef 02/12/2019]
+(i) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (ii) [issued during the period from 17th February 2006 to 31st December 2023 (both dates inclusive),]
 
@@ -3256,7 +3256,7 @@ if they are issued on or after 28th June 2013, cannot have their tenure shortene
 
 (jb) any retiring gratuity received by an individual from an approved pension or provident fund (other than the Central Provident Fund or any approved pension or provident fund designated by the Minister under section 39(8)) to the extent of such amount of the gratuity as the Comptroller may determine relating to the period of employment of that individual with the employer before 1st January 1993;
 
-(jc) [Deleted by Act 32 of 2019wef 02/12/2019]
+(jc) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (jd) any voluntary contribution in cash made in 2013 or any subsequent year by a person of a description prescribed by the Minister, to the medisave account maintained under the Central Provident Fund Act of a self-employed individual, up to —
 
@@ -3300,7 +3300,7 @@ less any previous contribution that is made to the same medisave account in the 
 
 [Act 34 of 2016 wef 29/12/2016]
 
-(o) [Deleted byAct 32 of 2019wef 02/12/2019]
+(o) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (oa) payments liable to be made on or after 17th February 2012 to a person not resident in Singapore (excluding any permanent establishment in Singapore) for the charter of any ship (as defined in section 2(1) of the Merchant Shipping Act (Cap. 179)) under any agreement or arrangement;
 
@@ -3446,7 +3446,7 @@ except where such income is derived through a partnership in Singapore or is der
 
 (zm) the income of any charity registered or exempt from registration under the Charities Act (Cap. 37);
 
-(zn) [Deleted by Act 32 of 2019wef 02/12/2019]
+(zn) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (zo) any sum accrued to a woman on or after 1st January 2011 by way of maintenance in accordance with an order of court or a deed of separation;
 
@@ -5146,7 +5146,7 @@ then this section shall not apply to the trust or company in paragraph (a), or t
 
 (18) In this section —
 
-[Deleted by Act 32 of 2019wef 02/12/2019]
+[Deleted by Act 32 of 2019 wef 02/12/2019]
 
 “investments” means —
 
@@ -7100,9 +7100,9 @@ of the remuneration paid by the employer to the employee for that period, and �
 
 And provided that no deduction shall be allowed in respect of any contribution or part thereof to a pension or provident fund constituted outside Singapore made in respect of an employee, if the employee has been exempted from tax on such contribution or part thereof under section 13N;
 
-(f) [Deleted byAct 32 of 2019wef 02/12/2019]
+(f) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
-(fa) [Deleted by Act 32 of 2019wef 02/12/2019]
+(fa) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (fb) any sum contributed by an employer in 2013 or any subsequent year to the medisave account maintained under the Central Provident Fund Act in respect of any of the employer’s employees engaged in activities relating to the production of the income of the employer, up to a maximum deduction for each employee’s medisave account, of —
 
@@ -7132,7 +7132,7 @@ less any previous contribution that is made to the same medisave account in the 
 
 [37/75; 7/79; 28/80; 5/83; 7/85; 31/86; 1/90; 23/90; 2/92; 26/93; 11/94; 32/95; 1/98; 32/99; 24/2001; 21/2003; 49/2004; 30/2007; 53/2007; 34/2008; 29/2010; 22/2011; 29/2012; 19/2013]
 
-(1A) [Deleted by Act 32 of 2019wef 02/12/2019]
+(1A) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (2) Notwithstanding subsection (1), payments made by way of compensation for injuries or death, salaries, wages or similar emoluments or death gratuities to an employee (or his legal representative) who is the husband, wife or child of —
 
@@ -9184,7 +9184,7 @@ then the subsidiary company shall be allowed a deduction for the relevant year o
 
 [34/2008]
 
-(6) [Deleted by Act 32 of 2019wef 02/12/2019]
+(6) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (7) A person shall not be entitled to —
 
@@ -9194,11 +9194,11 @@ then the subsidiary company shall be allowed a deduction for the relevant year o
 
 [Act 32 of 2019 wef 02/12/2019]
 
-(c) [Deleted by Act 32 of 2019wef 02/12/2019]
+(c) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
-(d) [Deleted by Act 32 of 2019wef 02/12/2019]
+(d) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
-(e) [Deleted by Act 32 of 2019wef 02/12/2019]
+(e) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (f) a deduction for any amount of renovation or refurbishment expenditure incurred by a person during a specified period that begins with the basis period for the year of assessment 2013 or any subsequent year of assessment that is in excess of $300,000 of such expenditure.
 
@@ -12068,7 +12068,7 @@ there shall be made to him for a period of 3 years an annual allowance of 331/
 
 [13/84; 11/94]
 
-(13B) [Deleted by Act 32 of 2019wef 02/12/2019]
+(13B) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (14) Subject to subsections (10A) and (13A), where any allowance has been claimed and allowed under section 19 in respect of any expenditure, no allowances shall, except with the approval of the Minister or the Comptroller and subject to such conditions as he may impose, be made in any subsequent year of assessment under this section in respect of the amount of that expenditure remaining unallowed under section 19.
 
@@ -13692,7 +13692,7 @@ being a Singapore policy within the meaning of the Insurance Act;
 
 (2A) Sections 36 (as it applies by the operation of section 36A(2)) and 36A shall not apply to any Lloyd’s limited liability partnership carrying on a business of insuring and reinsuring risks in Singapore, and sections 35 and 43(1)(c) shall apply, with the necessary modifications, to such partnership as if it were —
 
-(a) [Deleted byAct 32 of 2019wef 02/12/2019]
+(a) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (b) a person (other than a company or an individual) not resident in Singapore.
 
@@ -16486,9 +16486,9 @@ within such time and in such manner as the Comptroller may determine.
 
 [Act 32 of 2019 wef 02/12/2019]
 
-(e) [Deleted by Act 32 of 2019wef 02/12/2019]
+(e) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
-(f) [Deleted by Act 32 of 2019wef 02/12/2019]
+(f) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 [37/2002; 11/2004; 7/2007; 34/2008; 29/2010; 29/2012]
 
@@ -16554,7 +16554,7 @@ within such time and in such manner as the Comptroller may determine.
 
 (b) a fixed rate per cent of the profits of the company;
 
-[Deleted by Act 32 of 2019wef 02/12/2019]
+[Deleted by Act 32 of 2019 wef 02/12/2019]
 
 “residual assets”, in relation to a Singapore company, means net assets of the company after distribution made to —
 
@@ -17066,7 +17066,7 @@ then there shall be deducted from the assessable income of the company for that 
 
 [34/2008; 29/2010]
 
-37H\. [Repealed by Act 32 of 2019wef 02/12/2019]
+37H\. [Repealed by Act 32 of 2019 wef 02/12/2019]
 
 ### Cash payout under Productivity and Innovation Credit Scheme
 
@@ -19396,7 +19396,7 @@ Provided that in the case of any unmarried child incapacitated by reason of phys
 
 [Act 32 of 2019 wef 02/12/2019]
 
-(f) [Deleted byAct 32 of 2019wef 02/12/2019]
+(f) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 Deduction for life insurance and contributions to approved pension, provident fund or society
 
@@ -20848,7 +20848,7 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [Act 32 of 2019 wef 02/12/2019]
 
-(c) [Deleted by Act 32 of 2019wef 02/12/2019]
+(c) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (2A) The Minister or a person appointed by the Minister may, subject to such conditions as the Minister or person may impose, approve a Finance and Treasury Centre for a company for the purposes of this section.
 
@@ -21204,11 +21204,11 @@ and those regulations may provide for the deduction of losses otherwise than in 
 
 [Act 39 of 2017 wef 21/05/2010]
 
-(2) [Deleted by Act 32 of 2019wef 02/12/2019]
+(2) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (3) In this section —
 
-[Deleted by Act 32 of 2019wef 02/12/2019]
+[Deleted by Act 32 of 2019 wef 02/12/2019]
 
 “global trading company” means a company that carries on the business of international trading of commodities or commodities derivatives, or of brokering international trades in commodities, or both;
 
@@ -21254,7 +21254,7 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 [29/2010]
 
-(3) [Deleted by Act 32 of 2019wef 02/12/2019]
+(3) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 ### Concessionary rate of tax for provision of processing services to financial institutions
 
@@ -21278,7 +21278,7 @@ which has given notice within a specified period to the Monetary Authority of Si
 
 [49/2004]
 
-(5) [Deleted by Act 32 of 2019wef 02/12/2019]
+(5) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 43S\. [Deleted by Act 34 of 2016 wef 29/12/2016]
 
@@ -21440,7 +21440,7 @@ then that concessionary rate of tax applies to such income if the company remain
 
 “aircraft leasing company” means a company incorporated and resident in Singapore or a registered business trust, carrying on a business of leasing aircraft or aircraft engines;
 
-[Deleted by Act 32 of 2019wef 02/12/2019]
+[Deleted by Act 32 of 2019 wef 02/12/2019]
 
 “finance leasing”, in relation to any aircraft or aircraft engine, means a lease of the aircraft or aircraft engine (including any arrangement or agreement in connection with the lease) which has the effect of transferring substantially the obsolescence, risks or rewards incidental to ownership of such aircraft or aircraft engine to the lessee;
 
@@ -21694,7 +21694,7 @@ except that the Minister may extend the period so specified for such further per
 
 (5) In this section —
 
-[Deleted by Act 32 of 2019wef 02/12/2019]
+[Deleted by Act 32 of 2019 wef 02/12/2019]
 
 “direct insurance broker”, “general reinsurance broker” and “life reinsurance broker” have the same meanings as in section 1A of the Insurance Act (Cap. 142).
 
@@ -21736,7 +21736,7 @@ except that the Minister may extend the period so specified for such further per
 
 (5) In this section —
 
-[Deleted by Act 32 of 2019wef 02/12/2019]
+[Deleted by Act 32 of 2019 wef 02/12/2019]
 
 “designated securities” means —
 
@@ -23226,7 +23226,7 @@ then, if the dividend is paid to a company which controls, directly or indirectl
 
 (10) Where the amount of any credit given under the arrangements is rendered excessive or insufficient by reason of any adjustment of the amount of any tax payable either in Singapore or elsewhere, nothing in this Act limiting the time for the making of assessments or claims for relief shall apply to any assessment or claim to which the adjustment gives rise, being an assessment or claim made not later than 2 years from the time when all such assessments, adjustments and other determinations have been made, whether in Singapore or elsewhere, as are material in determining whether any, and if so what, credit falls to be given.
 
-(11) [Deleted by Act 32 of 2019wef 02/12/2019]
+(11) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 (12) In this section —
 
@@ -24852,15 +24852,21 @@ in any other case, the rate of tax applicable to the person for the year of asse
 
 (7) Where a case is so remitted by the High Court, the Board shall be bound by the opinion of the Court and shall give effect thereto by its decision in the appeal or, as the case may be, by revising any previous decision made by it in the appeal to the extent, if any, to which that previous decision does not accord with the opinion of the Court.
 
-### Proceedings before Board and High Court
+### Proceedings before Board
 
-83\.—(1) Subject to subsections (2) and (3), all proceedings before the Board and in appeals to, or in cases stated for the opinion of, the High Court under the provisions of this Part, and in appeals from decisions of the High Court under section 81(5) shall be heard in camera.
+83\.—(1) Subject to subsections (2) and (3), all proceedings before the Board shall be heard in camera.
 
 [5/77]
 
-(2) Where the Comptroller or the taxpayer applies to the Board or the High Court, as the case may be, that the proceedings be heard by way of a hearing open to the public, the Board or the Court may direct that the proceedings be so heard, notwithstanding any objection from the other party to the proceedings.
+[Act 32 of 2019 wef 01/01/2020]
 
-(3) Where in the opinion of the Board or the High Court any proceedings heard in camera ought to be reported, the Board or the Court may publish or authorise the publication of the facts of the case, the arguments and the decision relating to these proceedings without disclosing the name of the taxpayer concerned.
+(2) Where the Comptroller or the taxpayer applies to the Board that the proceedings be heard by way of a hearing open to the public, the Board may direct that the proceedings be so heard, notwithstanding any objection from the other party to the proceedings.
+
+[Act 32 of 2019 wef 01/01/2020]
+
+(3) Where in the opinion of the Board any proceedings heard in camera ought to be reported, the Board may publish or authorise the publication of the facts of the case, the arguments and the decision relating to these proceedings without disclosing the name of the taxpayer concerned.
+
+[Act 32 of 2019 wef 01/01/2020]
 
 ### Assessments to be final and conclusive
 
@@ -25586,7 +25592,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [Act 32 of 2019 wef 02/12/2019]
 
-(3) [Deleted by Act 32 of 2019wef 02/12/2019]
+(3) [Deleted by Act 32 of 2019 wef 02/12/2019]
 
 ### Consent for prosecution
 
@@ -28655,6 +28661,7 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 April 2019|
 |||1 July 2019|
 |||2 December 2019|
+|||1 January 2020|
 ## COMPARATIVE TABLE
 
 Income Tax Act
