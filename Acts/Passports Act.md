@@ -1134,7 +1134,9 @@ the person shall be guilty of an offence and shall be liable on conviction to a 
 
 42\.—(1) A person who sells a Singapore passport or a Singapore travel document shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 10 years or to both.
 
-(2) A person who engages in the business or trade of selling Singapore passports or Singapore travel documents shall be guilty of an offence and shall be punished with imprisonment for a term of not less than 2 years but not more than 15 years and shall also be punished with a fine not exceeding $20,000.
+(2) A person who engages in the business or trade of selling Singapore passports or Singapore travel documents shall be guilty of an offence and shall be punished with imprisonment for a presumptive minimum term of not less than 2 years but not more than 15 years and shall also be punished with a fine not exceeding $20,000.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (3) In this section, “sell” includes barter and exchange, offering or attempting to sell, exposing for sale, or receiving or sending or delivering for sale.
 
@@ -1615,6 +1617,10 @@ The Passports Act 2007 repealed the Passports Act (Chapter 220, 1985 Revised Edi
 ||Date of commencement|10 June 2016|
 |8.|**G.N. No. S 705/2016—Passports Act (Amendment of Schedule) Order 2016**|
 ||Date of commencement|1 January 2017|
+|9.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 Passports Act
