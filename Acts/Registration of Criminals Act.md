@@ -1158,6 +1158,267 @@ Abetment of, conspiracy to commit and attempt to commit any of the above.
 
 [S 32/2008 wef 01/02/2008]
 
+Part IB
+
+Offences under the Penal Code included
+
+
+
+
+with effect from 1 January 2020
+
+Chapters and Sections
+
+Offences
+
+Section 182
+
+False information, with intent to cause a public servant to use his lawful power to the injury of another person
+
+Section 204A
+
+Obstructing, preventing, perverting or defeating course of justice
+
+Section 268A
+
+Communicating false information of harmful thing
+
+Section 268B
+
+Placing or sending thing with intent to cause fear of harm
+
+Section 272
+
+Adulteration of food or drink which is intended for sale
+
+Section 273
+
+Sale of noxious food or drink
+
+Section 274
+
+Adulteration of drugs
+
+Section 275
+
+Sale of adulterated drugs
+
+Section 276
+
+Sale of any drug as a different drug or preparation
+
+Section 277
+
+Fouling the water of a public spring or reservoir
+
+Section 278
+
+Making atmosphere noxious to health
+
+Section 284
+
+Rash or negligent conduct with respect to dangerous or harmful substance
+
+Section 285
+
+Causing or contributing to risk of dangerous fire
+
+Section 287
+
+Rash or negligent conduct with respect to any machinery in possession or under charge of offender
+
+Section 288
+
+Negligence in pulling down or repairing buildings
+
+Section 289
+
+Negligence with respect to any animal
+
+Section 292A
+
+Possession, distribution, etc., of child sex‑doll
+
+Section 304B
+
+Causing death of child below 14 years of age, domestic worker or vulnerable person by sustained abuse
+
+Section 304C
+
+Causing or allowing death of child below 14 years of age, domestic worker or vulnerable person in same household
+
+Section 308A
+
+Causing death in furtherance of group’s object
+
+Section 308B
+
+Concealment, desecration or disposal of corpse that impedes discovery, identification, criminal investigations or prosecutions
+
+Section 323A
+
+Punishment for voluntarily causing hurt which causes grievous hurt
+
+Section 334A
+
+Punishment for voluntarily causing hurt on provocation which causes grievous hurt
+
+Section 335A
+
+Allowing neglect, physical or sexual abuse of domestic worker or vulnerable person
+
+Section 335B
+
+Punishment for act which endangers life or personal safety of others with knowledge or belief that it is likely to cause death
+
+Section 376AA
+
+Exploitative sexual penetration of minor of or above 16 but below 18 years of age
+
+Section 376EA
+
+Exploitative sexual grooming of minor of or above 16 but below 18 years of age
+
+Section 376EB
+
+Sexual communication with minor below 16 years of age
+
+Section 376EC
+
+Exploitative sexual communication with minor of or above 16 but below 18 years of age
+
+Section 376ED
+
+Sexual activity or image in presence of minor below 16 years of age
+
+Section 376EE
+
+Exploitative sexual activity or image in presence of minor of or above 16 but below 18 years of age
+
+Section 376G
+
+Incest (as re‑enacted by the Criminal Law Reform Act 2019)
+
+Section 376H
+
+Procurement of sexual activity by deception or false representation
+
+Section 377B
+
+Sexual penetration with living animal
+
+Section 377BB
+
+Voyeurism
+
+Section 377BC
+
+Distribution of voyeuristic image or recording
+
+Section 377BD
+
+Possession of or gaining access to voyeuristic or intimate image or recording
+
+Section 377BE
+
+Distributing or threatening to distribute intimate image or recording
+
+Section 377BF
+
+Sexual exposure
+
+Section 377BG
+
+Using or involving child in production of child abuse material
+
+Section 377BH
+
+Producing child abuse material
+
+Section 377BI
+
+Distributing or selling child abuse material
+
+Section 377BJ
+
+Advertising or seeking child abuse material
+
+Section 377BK
+
+Possession of or gaining access to child abuse material
+
+Section 377BL
+
+Exploitation by abusive material of minor of or above 16 but below 18 years of age
+
+Section 407
+
+Criminal breach of trust of property entrusted for purposes of transportation or storage (as re‑enacted by the Criminal Law Reform Act 2019)
+
+Section 408
+
+Criminal breach of trust by employees (as re‑enacted by the Criminal Law Reform Act 2019)
+
+Section 409
+
+Criminal breach of trust by public servant, or by banker, merchant, agent, director, officer, partner, key executive or fiduciary (as re‑enacted by the Criminal Law Reform Act 2019)
+
+Section 416A
+
+Illegally obtained personal information
+
+Section 420A
+
+Obtaining services dishonestly or fraudulently
+
+Section 424A
+
+Fraud by false representation, non‑disclosure or abuse of position not connected with contracts for goods or services
+
+Section 427
+
+Punishment for committing mischief causing disruption to key service, etc.
+
+Section 448
+
+Punishment for house‑breaking (as re‑enacted by the Criminal Law Reform Act 2019)
+
+Section 453
+
+Possession of house‑breaking implements or offensive weapons (as re‑enacted by the Criminal Law Reform Act 2019)
+
+Section 489A
+
+Forging or counterfeiting currency or bank notes (as re‑enacted by the Criminal Law Reform Act 2019)
+
+Section 489E
+
+Abetting in Singapore counterfeiting of currency out of Singapore
+
+Section 489F
+
+Fraudulently or dishonestly diminishing weight or altering composition of any coin
+
+Section 489G
+
+Altering appearance of currency with intent that it shall pass as currency of different description
+
+Section 489H
+
+Delivery to another of altered currency
+
+Section 489I
+
+Possession of altered currency
+
+Chapters V and VA and section 512
+
+Abetment of, conspiracy to commit and attempt to commit any offence in this Part and in Parts I and IA
+
+*Note: The short description of offences in this Part is for ease of reference only.
+
+[S 859/2019 wef 01/01/2020]
+
 Part II
 
 Offences under Other Laws
@@ -1190,7 +1451,7 @@ Casino Control Act [Cap. 33A]
 
 ...
 
-Sections 105(3)(b), 125, 136, 171, 172, 173, 174, 175, 177 and 190.
+Sections 105(3)(b), 171, 172, 173, 174, 175, 177 and 190.
 
 Chit Funds Act [Cap. 39]
 
@@ -1234,15 +1495,13 @@ Criminal Law (Temporary Provisions) Act [Cap. 67]
 
 The whole.
 
-Criminal Procedure Code [Cap. 68]
+Criminal Procedure Code (Cap. 68, 1985 Ed.) (as in force before 2 January 2011)
 
-...
+Section 14.
 
-Sections 15, 71 to 75 and 87.
+Criminal Procedure Code (Cap. 68, 2012 Ed.)
 
-Criminal Procedure Code 2010
-
-Sections 41 to 45, 54 and 311.
+Section 311.
 
 Customs Act [Cap. 70]
 
@@ -1278,17 +1537,9 @@ Hostage-Taking Act 2010 [Act 19 of 2010]
 
 Section 3
 
-Hotels Act [Cap. 127]
+[Deleted by S 859/2019 wef 01/01/2020]
 
-...
-
-Section 17.
-
-House to House and Street Collections Act [Cap. 128]
-
-...
-
-Sections 3(2), 3(3), 6, 7 and 8.
+[Deleted by S 859/2019 wef 01/01/2020]
 
 Insurance Act [Cap. 142]
 
@@ -1330,7 +1581,7 @@ Miscellaneous Offences (Public Order and Nuisance) Act [Cap. 184]
 
 ...
 
-Sections 22, 25, 30, 31, 36, 36A, 37(1) and 37(5).
+Sections 22, 25, 30, 37(1) and 37(5).
 
 Misuse of Drugs Act [Cap. 185]
 
@@ -1344,17 +1595,13 @@ Moneylenders Act 2008
 
 Sections 14, 27 and 28.
 
-Motor Vehicles (Third-Party Risks and Compensation) Act [Cap. 189]
-
-...
-
-Section 21.
+[Deleted by S 859/2019 wef 01/01/2020]
 
 National Registration Act [Cap. 201]
 
 ...
 
-The whole.
+The whole, except for sections 13(1)(b) and (g) and 19.
 
 Newspaper and Printing Presses Act [Cap. 206]
 
@@ -1390,7 +1637,7 @@ Prevention of Crimes Act [Cap. 242]
 
 ...
 
-Sections 2, 4 and 5.
+Section 4.
 
 Protected Areas and Protected Places Act [Cap. 256]
 
@@ -1436,7 +1683,7 @@ Road Traffic Act [Cap. 276]
 
 ...
 
-Sections 64(2) and (2A), 65(2) and (3) and 96(1).
+Sections 64(2) and (2A) and 65(2) and (3).
 
 Section 66(1) (as in force immediately before 1 November 2019).
 
@@ -1446,11 +1693,7 @@ Secondhand Dealers Act [Cap. 288 of the 1985 Revised Edition]
 
 Section 10(3).
 
-Secondhand Goods Dealers Act 2007
-
-...
-
-Section 10(6).
+[Deleted by S 859/2019 wef 01/01/2020]
 
 Sedition Act [Cap. 290]
 
@@ -1492,7 +1735,164 @@ Women’s Charter [Cap. 353]
 
 ...
 
-Sections 35 to 40 and the whole of Part X.
+Sections 35 to 40 and the whole of Part XI.
+
+[S 859/2019 wef 01/01/2020]
+
+Part III
+
+Offences under other laws included
+
+
+
+
+with effect from 1 January 2020
+
+Casino Control Act (Cap. 33A)
+
+Sections 172A and 175A.
+
+Central Provident Fund Act (Cap. 36)
+
+Sections 5(6), 7(3) and (5), 58(a) and (c), 58A, 59 and 70.
+
+Children and Young Persons Act (Cap. 38)
+
+Sections 5(1), 7, 12 and 13.
+
+Companies Act (Cap. 50)
+
+Section 340(5).
+
+Copyright Act (Cap. 63)
+
+Section 136.
+
+Corruption, Drug Trafficking and Other Serious Crimes (Confiscation of Benefits) Act (Cap. 65A)
+
+Sections 39(2), 43, 44, 46 and 47.
+
+Early Childhood Development Centres Act 2017 (Act 19 of 2017)
+
+Section 39.
+
+Employment Act (Cap. 91)
+
+Sections 34(2) and 107(b).
+
+Employment Agencies Act (Cap. 92)
+
+Sections 6(1), (2) and (4), 15(1) and (2), 18(3), 22, 22B(1) and (2) and 23(1), (2) and (4).
+
+Employment of Foreign Manpower Act (Cap. 91A)
+
+Sections 22(3), 22A(1) and (2) and 22B.
+
+Foreign Employee Dormitories Act 2015 (Act 3 of 2015)
+
+Sections 7 and 26(1).
+
+Goods and Services Tax Act (Cap. 117A)
+
+Sections 62(1), 63, 65, 66 and 84(2D) and (2E).
+
+Immigration Act (Cap. 133)
+
+Sections 9(5) and (6), 57B and 57C.
+
+Income Tax Act (Cap. 134)
+
+Sections 37IE(1), 37J(3) and (4), 65C(1) and (8), 96(1), 96A(1), 97 and 98.
+
+Infrastructure Protection Act 2017 (Act 41 of 2017)
+
+Sections 20(2), 21(6), 27(5), 28(2), 29(4), 30(5), 60(3), 68(5), 70 and 71(2).
+
+Mental Capacity Act (Cap. 177A)
+
+Section 42.
+
+Moneylenders Act (Cap. 188)
+
+Section 28B.
+
+Organised Crime Act 2015 (Act 26 of 2015)
+
+Section 13.
+
+Passports Act (Cap. 220)
+
+Sections 36(1), (2), (3) and (4), 37, 38, 39, 40, 41(1), (2), (3) and (4), 42(1) and (2), 44 and 47.
+
+Prevention of Human Trafficking Act 2014 (Act 45 of 2014)
+
+Sections 3, 5 and 6.
+
+Property Tax Act (Cap. 254)
+
+Sections 56 and 57.
+
+Remote Gambling Act 2014 (Act 34 of 2014)
+
+Sections 9, 10, 11, 12 and 13.
+
+Securities and Futures Act (Cap. 289)
+
+Sections 140, 197, 198, 199, 200, 201, 201A, 201B, 202, 203, 207, 209, 218 and 219.
+
+Silver Support Scheme Act 2015 (Act 28 of 2015)
+
+Sections 8, 9, 11, 14 and 15.
+
+Stamp Duties Act (Cap. 312)
+
+Sections 62, 64, 65(3) and (3A) and 67.
+
+Terrorism (Suppression of Bombings) Act (Cap. 324A)
+
+Sections 3 and 4.
+
+Terrorism (Suppression of Financing) Act (Cap. 325)
+
+Sections 3, 4, 5, 6, 8, 9, 10, 10B and 14.
+
+Terrorism (Suppression of Misuse of Radioactive Material) Act 2017 (Act 27 of 2017)
+
+Sections 4, 5, 6, 7, 8, 9 and 10.
+
+Trade Marks Act (Cap. 332)
+
+Sections 47, 49 and 50.
+
+United Nations Act (Cap. 339)
+
+Section 5.
+
+Women’s Charter (Cap. 353)
+
+Sections 6A, 6B, 6C and 41.
+
+Work Injury Compensation Act (Cap. 354)
+
+Section 35(2)(c) and section 35(2)(d) in relation to an offence under section 35(2)(c).
+
+Workforce Singapore Agency Act (Cap. 305D)
+
+Section 43(1).
+
+Workplace Safety and Health Act (Cap. 354A)
+
+Sections 15(3), 21(6) and (7), 25(5) and 53.
+
+Chapters V and VA and section 512 of the Penal Code (Cap. 224) and above Acts (where applicable)
+
+Abetment of, conspiracy to commit and attempt to commit any of the offences in this Part and in Part II.
+
+Above Acts (where applicable)
+
+Any of the offences in this Part and in Part II committed by an officer, manager or partner of a body corporate, unincorporated association or partnership (as the case may be) where the body corporate, unincorporated association or partnership has committed the same offence.
+
+[S 859/2019 wef 01/01/2020]
 
 [S 751/2019 wef 13/11/2019]
 
@@ -1625,7 +2025,7 @@ Sections 427-428
 
 Mischief.
 
-Sections 493-496 and 498
+Sections 493-496
 
 ...
 
@@ -1642,6 +2042,8 @@ Chapters V and VA and section 511
 ...
 
 Abetment of, conspiracy to commit and attempt to commit any of the above.
+
+[S 860/2019 wef 01/01/2020]
 
 [S 32/2008 wef 01/02/2008]
 
@@ -1693,13 +2095,9 @@ Betting Act [Cap. 21]
 
 ...
 
-Sections 3, 4 and 5.
+Sections 3 and 4
 
-Common Gaming Houses Act [Cap. 49]
-
-...
-
-Sections 7 and 8(2).
+[Deleted by S 860/2019 wef 01/01/2020]
 
 Dangerous Fireworks Act [Cap. 72]
 
@@ -1723,15 +2121,17 @@ Immigration Act [Cap. 133]
 
 Sections 5, 6, 8(5), 9(4), 19, 26, 36 and 57.
 
-Trade Marks Act 1998
+Trade Marks Act [Cap. 332]
 
 ...
 
-Sections 46, 48 and 52.
+Sections 46 and 48.
 
-[46/98 wef 15/01/99]
+[S 860/2019 wef 01/01/2020]
 
 [S 374/2007 wef 01/07/2007]
+
+[46/98 wef 15/01/99]
 
 [17/80]
 
@@ -1827,11 +2227,7 @@ Incest committed by women
 
 Section 376C (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed. and Cap. 20 of the 1936 Ed.videOrdinance 11 of 1939) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
 
-Unnatural offences
-
-...
-
-Section 377 (Cap. 224 of the 1985 Ed., Cap. 103 of the 1970 Ed., Cap. 119 of the 1955 Ed., Cap. 20 of the 1936 Ed. and Ordinance 4 of 1871) (repealed with effect from 1st February 2008 by the Penal Code (Amendment) Act 2007).
+[Deleted by S 861/2019 wef 01/01/2020]
 
 Gang-robbery
 
@@ -1923,6 +2319,105 @@ Section 377B(4) (Cap. 224 of the 1985 Ed.).
 
 [S 32/2008 wef 01/02/2008]
 
+Part IB
+
+OFFENCES UNDER THE PENAL CODE INCLUDED
+
+
+
+
+WITH EFFECT FROM 1 JANUARY 2020
+
+Offences
+
+Section
+
+Punishment for murder (imprisonment for life)
+
+Section 302(2) (Cap. 224 of the 2008 Ed.)
+
+Causing death of child below 14 years of age, domestic worker or vulnerable person by sustained abuse
+
+Section 304B
+
+Causing or allowing death of child below 14 years of age, domestic worker or vulnerable person in same household
+
+Section 304C
+
+Attempt to commit culpable homicide
+
+Section 308
+
+Causing death in furtherance of group’s object
+
+Section 308A
+
+Punishment for voluntarily causing hurt which causes grievous hurt
+
+Section 323A
+
+Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act
+
+Section 329
+
+Voluntarily causing grievous hurt to extort confession or to compel restoration of property
+
+Section 331
+
+Voluntarily causing grievous hurt to deter public servant from his duty
+
+Section 333
+
+Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.
+
+Section 367
+
+Kidnapping or abducting child under 10 years of age with intent to steal movable property from the person of such child
+
+Section 369 (as in force before 1 January 2020)
+
+Exploitative sexual penetration of minor of or above 16 but below 18 years of age
+
+Section 376AA
+
+Commercial sex with minor below 18 years of age
+
+Section 376B
+
+Commercial sex with minor below 18 years of age outside Singapore
+
+Section 376C
+
+Tour outside Singapore for commercial sex with minor below 18 years of age
+
+Section 376D
+
+Sexual grooming of minor below 16 years of age
+
+Section 376E
+
+Exploitative sexual grooming of minor of or above 16 but below 18 years of age
+
+Section 376EA
+
+Using or involving child in production of child abuse material
+
+Section 377BG
+
+Producing child abuse material
+
+Section 377BH
+
+Distributing or selling child abuse material
+
+Section 377BI
+
+Exploitation by abusive material of minor of or above 16 but below 18 years of age
+
+Section 377BL
+
+[S 861/2019 wef 01/01/2020]
+
 Part II
 
 Offences under Other Laws
@@ -1941,6 +2436,30 @@ Hostage-Taking Act 2010
 (Act 19 of 2010)
 
 Hostage-taking — Section 3.
+
+Internal Security Act
+
+
+
+
+(Cap. 143)
+
+Sections 58, 59 and 60.
+
+Organised Crime Act 2015
+
+
+
+
+(Act 26 of 2015)
+
+Sections 5, 6, 7 and 12.
+
+*Note:
+
+The short description of offences in this Schedule is for ease of reference only.
+
+[S 861/2019 wef 01/01/2020]
 
 [S 674/2010 wef 21/11/2010]
 
@@ -2116,3 +2635,9 @@ This Legislative History is provided for the convenience of users of the Registr
 ||Date of commencement|1 August 2019|
 |45.|**G.N. No. S 751/2019—Registration of Criminals Act (Amendment of First Schedule) (No. 2) Order 2019**|
 ||Date of commencement|13 November 2019|
+|46.|**G.N. No. S 859/2019—Registration of Criminals Act (Amendment of First Schedule) (No. 3) Order 2019**|
+||Date of commencement|1 January 2020|
+|47.|**G.N. No. S 860/2019—Registration of Criminals Act (Amendment of Second Schedule) Order 2019**|
+||Date of commencement|1 January 2020|
+|48.|**G. N. No. S 861/2019—Registration of Criminals Act (Amendment of Third Schedule) Order 2019**|
+||Date of commencement|1 January 2020|
