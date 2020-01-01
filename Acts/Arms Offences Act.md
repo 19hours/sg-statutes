@@ -180,7 +180,9 @@ Scheduled offences
 
 5\. Extortion under sections 384 to 389 of the Penal Code.
 
-6\. Housebreaking and house-trespass under sections 448 to 460 of the Penal Code.
+6. Housebreaking under sections 442, 448 to 453, 458A, 459 and 460 of the Penal Code.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 7\. Robbery under sections 392 to 397, 399 and 402 of the Penal Code.
 
@@ -226,3 +228,7 @@ This Legislative History is provided for the convenience of users of the Arms Of
 ||Date of operation|30 May 1998|
 |7.|**2008 Revised Edition—Arms Offences Act**|
 ||Date of operation|31 March 2008|
+|8.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
