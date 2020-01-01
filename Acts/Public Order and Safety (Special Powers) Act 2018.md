@@ -191,6 +191,8 @@ Date of Commencement: 16 May 2018
 
 An Act to extend police powers to better prevent and respond to any incident or likely incident involving serious violence or large‑scale public disorder in Singapore, to repeal the Public Order (Preservation) Act (Chapter 258 of the 1985 Revised Edition), and to make consequential and related amendments to certain other Acts.
 
+Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
+
 ## PART 1
 
 PRELIMINARY
@@ -1611,7 +1613,9 @@ MISCELLANEOUS
 
 (a) an offence under this Act; or
 
-(b) in the target area of a special authorisation, an offence under section 143, 144, 145, 147, 148, 151, 152, 153, 157, 158, 267B, 379, 380, 381, 382, 430, 430A, 431, 431A, 435 or 436 of the Penal Code,
+(b) in the target area of a special authorisation, an offence under section 143, 144, 145, 147, 148, 151, 152, 153, 157, 158, 267B, 379, 380, 381, 382, 427, 435 or 436 of the Penal Code,
+
+[Act 15 of 2019 wef 01/01/2020]
 
 including the use of lethal weapons to effect the arrest and to prevent escape from the arrest.
 
