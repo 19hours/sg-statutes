@@ -38,6 +38,14 @@
 
 - [9 Payment of interest on contributions in arrears](#Payment-of-interest-on-contributions-in-arrears)
 
+- [9A Contributions by self-employed person](#Contributions-by-self-employed-person)
+
+- [9B Estimated contributions by collectors](#Estimated-contributions-by-collectors)
+
+- [9C Waiver of contributions](#Waiver-of-contributions)
+
+- [9D Disclosure and provision of information to facilitate administration of contributions under section 9A or 9B](#Disclosure-and-provision-of-information-to-facilitate-administration-of-contributions-under-section-9A-or-9B)
+
 - [10 Expenses, etc.](#Expenses-etc)
 
 - [11 Financial provisions](#Financial-provisions)
@@ -84,6 +92,10 @@
 
 - [19A Provisions relating to moneys transferred or paid to relevant individual’s, spouse’s or sibling’s special account on death or withdrawal under section 15(2)(b) or (c)](#Provisions-relating-to-moneys-transferred-or-paid-to-relevant-individual’s-spouse’s-or-sibling’s-special-account-on-death-or-withdrawal-under-section-152b-or-c)
 
+- [19B Exceptions to sections 19(1) and (2) and 19A(1) and (2)](#Exceptions-to-sections-191-and-2-and-19A1-and-2)
+
+- [19C Exceptions to sections 19(5) and (6) and 19A(5) and (6)](#Exceptions-to-sections-195-and-6-and-19A5-and-6)
+
 - [20 Withdrawals](#Withdrawals)
 
 - [21 Charge on immovable property to secure repayment of withdrawals from Fund](#Charge-on-immovable-property-to-secure-repayment-of-withdrawals-from-Fund)
@@ -97,6 +109,8 @@
 - [23 Regulations for purposes of section 22](#Regulations-for-purposes-of-section-22)
 
 - [24 Protection of benefits](#Protection-of-benefits)
+
+- [24A Exceptions to section 24(2) relating to certain provisions in or under other written law](#Exceptions-to-section-242-relating-to-certain-provisions-in-or-under-other-written-law)
 
 - [25 Moneys payable on death of member](#Moneys-payable-on-death-of-member)
 
@@ -302,23 +316,23 @@
 
 - [70 Application made, or information furnished, to Board by approved caregiver, etc.](#Application-made-or-information-furnished-to-Board-by-approved-caregiver-etc)
 
-- [71 (Repealed)](#Repealed)
+- [71 Refund of moneys from Fund](#Refund-of-moneys-from-Fund)
 
-- [72 Refund of contributions to Government](#Refund-of-contributions-to-Government)
+- [72 (Repealed)](#Repealed)
 
 - [73 Transfer to Fund from provident fund or other scheme](#Transfer-to-Fund-from-provident-fund-or-other-scheme)
 
-- [74 Refund or payment of contributions paid in error](#Refund-or-payment-of-contributions-paid-in-error)
+- [74 (Repealed)](#Repealed)
 
-- [75 Refund or payment of excess contributions on additional wages](#Refund-or-payment-of-excess-contributions-on-additional-wages)
+- [75 (Repealed)](#Repealed)
 
-- [75A Refund of excess contributions paid by self-employed person who has died](#Refund-of-excess-contributions-paid-by-self-employed-person-who-has-died)
+- [75A (Repealed)](#Repealed)
 
-- [75B Refund or payment of excess voluntary contributions where member has died](#Refund-or-payment-of-excess-voluntary-contributions-where-member-has-died)
+- [75B (Repealed)](#Repealed)
 
-- [75C Refund of excess contributions paid by self-employed person who is alive](#Refund-of-excess-contributions-paid-by-self-employed-person-who-is-alive)
+- [75C (Repealed)](#Repealed)
 
-- [75D Refund of excess voluntary contributions where member is alive](#Refund-of-excess-voluntary-contributions-where-member-is-alive)
+- [75D (Repealed)](#Repealed)
 
 - [76 Board may engage in activities not directly related to Fund and may call for information](#Board-may-engage-in-activities-not-directly-related-to-Fund-and-may-call-for-information)
 
@@ -396,6 +410,10 @@ PRELIMINARY
 
 [Act 5 of 2018 wef 01/04/2018]
 
+“collector” means any person or a member of a class of persons, specified by regulations made under section 77(1) to be a person who is required under section 9B to pay an estimated contribution in respect of a self-employed person;
+
+[Act 37 of 2019 wef 01/01/2020]
+
 “contract” means any contract, whether written or oral, and whether express or implied;
 
 “employed” means engaged under a contract of service or apprenticeship or in an employment in respect of which contributions are payable under regulations made under section 77;
@@ -419,6 +437,10 @@ PRELIMINARY
 (c) any manager, agent or person responsible for the payment of wages to an employee on behalf of an employer; and
 
 (d) the Government in respect of such categories, classes or descriptions of officers or employees of such Government as may from time to time be declared by the President by notification in theGazetteto be employees for the purposes of this Act;
+
+“estimated contribution” means a contribution to the Fund payable by a collector under section 9B;
+
+[Act 37 of 2019 wef 01/01/2020]
 
 “flat” means a horizontal stratum of any building or part thereof, whether the stratum or part is on one or more levels or is partially or wholly below the surface of the ground;
 
@@ -489,6 +511,10 @@ PRELIMINARY
 (b) the minimum sum mentioned in section 15(6)(a), as in force immediately before the date of commencement of section 5(g) of the Central Provident Fund (Amendment No. 2) Act 2016, that is applicable to the member;
 
 [Act 26 of 2016 wef 01/01/2017]
+
+“revenue payment” means any payment prescribed by regulations made under section 77(1) to be a revenue payment for the purposes of section 9B;
+
+[Act 37 of 2019 wef 01/01/2020]
 
 “securities account” means a securities account with the Central Depository (Pte) Limited;
 
@@ -826,11 +852,13 @@ which the inspector considers to be relevant to the investigation of that offenc
 
 [Act 24 of 2013 wef 01/01/2014]
 
-(4) Subsections (3), (3A) and (3B) shall apply, with the necessary modifications, to a person who is required by any regulations made under section 77(1)(e) to contribute to the Fund as it applies to an employer; and a reference to wages in subsection (3) shall be construed as a reference to income of that person.
+(4) Subsections (3), (3A) and (3B) shall apply, with the necessary modifications, to a self-employed person who is required under section 9A to contribute to the Fund as it applies to an employer; and a reference to wages in subsection (3) shall be construed as a reference to income of that person.
 
-[27/92]
+[Act 37 of 2019 wef 01/01/2020]
 
 [Act 24 of 2013 wef 01/01/2014]
+
+[27/92]
 
 (5) If any person —
 
@@ -1094,13 +1122,85 @@ CONTRIBUTIONS TO FUND
 
 9\.—(1) Where the amount of the contributions which an employer is liable to pay under section 7 in respect of any month is not paid within such period as may be prescribed, the employer shall be liable to pay interest on the amount for every day the amount remains unpaid commencing from the first day of the month succeeding the month in respect of which the amount is payable and the interest shall be calculated at the rate of 1½% per month or the sum of $5, whichever is the greater.
 
-(2) Where the amount of the contributions a person is liable to pay under any regulations made under section 77(1)(e) is not paid within the time prescribed for payment, that person shall be liable to pay interest on that amount for every day the amount remains unpaid at such rate and commencing from such date as may be prescribed.
+(2) Where the amount of the contributions a self-employed person is liable to pay under section 9A is not paid within the time prescribed for payment, that person shall be liable to pay interest on that amount for every day the amount remains unpaid at such rate and commencing from such date as may be prescribed.
+
+[Act 37 of 2019 wef 01/01/2020]
 
 [27/92]
 
 (3) The Board may, in any case in which it thinks fit, waive the payment of the whole or part of, or remit in whole or in part, any interest due or paid under subsection (1) or (2).
 
 [27/92]
+
+### Contributions by self-employed person
+
+9A\.—(1) A self-employed person must pay contributions to the Fund, in respect of the self-employed person’s income determined in the manner prescribed by regulations made under section 77(1) —
+
+(a) of an amount computed in the manner prescribed by regulations made under section 77(1);
+
+(b) before the expiry of the prescribed period, or any longer period that the Board specifies in any particular case; and
+
+(c) in the approved manner.
+
+(2) Regulations made under section 77(1) may prescribe different manners of computation of the amount of contributions payable in respect of different classes of income or classes of self-employed persons.
+
+(3) In this section —
+
+“approved manner”, in relation to the payment of contributions under this section, means any manner of payment of contributions that is permitted —
+
+(a) by regulations made under section 77(1); or
+
+(b) by the Board for a particular payment;
+
+“income” means assessable income from any trade, business, profession or vocation (other than from employment under a contract of service) ascertained in accordance with section 37(1) of the Income Tax Act (Cap. 134), and excludes any income prescribed by regulations made under section 77(1).
+
+[Act 37 of 2019 wef 01/01/2020]
+
+### Estimated contributions by collectors
+
+9B\.—(1) Where a collector makes any revenue payment to a self-employed person, the collector must pay a contribution to the Fund (called in this Act an estimated contribution) for the self-employed person —
+
+(a) of an amount computed in the manner prescribed by regulations made under section 77(1) based on the amount of the revenue payment;
+
+(b) before the expiry of the prescribed period, or any longer period that the Board specifies in any particular case; and
+
+(c) in the approved manner.
+
+(2) Regulations made under section 77(1) may prescribe different manners of computation of the amount of estimated contributions payable in respect of different classes of revenue payment or classes of collectors or self-employed persons.
+
+(3) A collector by whom any estimated contribution is payable in respect of a revenue payment to a self-employed person is entitled to deduct the amount of the estimated contribution payable from that revenue payment.
+
+(4) Where a collector pays an estimated contribution in respect of a revenue payment to an approved payer in accordance with an approved manner of payment, the collector is taken to have paid the estimated contribution to the Fund.
+
+(5) In this section —
+
+“approved manner”, in relation to the payment of contributions under this section, means any manner of payment of contributions that is permitted —
+
+(a) by regulations made under section 77(1); or
+
+(b) by the Board for a particular payment;
+
+“approved payer” means a person approved by the Board to assist a collector in making payment of any estimated contribution for a self-employed person in accordance with an approved manner of payment under this section.
+
+[Act 37 of 2019 wef 01/01/2020]
+
+### Waiver of contributions
+
+9C\. The Minister may waive the payment of the whole or any part of any contribution required under section 9A or 9B in any particular case.
+
+[Act 37 of 2019 wef 01/01/2020]
+
+### Disclosure and provision of information to facilitate administration of contributions under section 9A or 9B
+
+9D\.—(1) The Board may provide information concerning any self-employed person to the following persons for the corresponding purpose:
+
+(a) a collector — to pay any estimated contribution for a self-employed person;
+
+(b) an approved payer — to pay any estimated contribution for, or revenue payment to, the self-employed person in accordance with an approved manner of payment under section 9B.
+
+(2) A self-employed person must provide information to the Board or persons mentioned in subsection (1) to facilitate the performance of the duties, or the exercise of the powers, of the Board or those persons (as the case may be) in relation to the payment of contributions for the self-employed person under section 9A or 9B.
+
+[Act 37 of 2019 wef 01/01/2020]
 
 ### Expenses, etc.
 
@@ -1176,7 +1276,13 @@ CONTRIBUTIONS TO FUND
 
 (a) section 7;
 
-(b) any regulations made under section 77(1)(e); or
+(b) section 9A;
+
+[Act 37 of 2019 wef 01/01/2020]
+
+(ba) section 9B; or
+
+[Act 37 of 2019 wef 01/01/2020]
 
 (c) such other provision as the Minister may prescribe.
 
@@ -1276,15 +1382,17 @@ CONTRIBUTIONS TO FUND
 
 [23/2012]
 
-(7I) Where the Board has credited any money to a member’s account in the Fund under section 13(4), 13B(1)(b) or (2)(b) or 13C, where any money has been paid into a member’s account in the Fund under section 18(1)(b) or (c), (2)(b) or (3)(b) or any regulations made under section 77(1), or where the Board has credited to a member’s account in the Fund any money paid in error and liable to be refunded or paid under section 74(1), the Board may, on the Board’s own motion or on an application to the Board, and subject to such terms and conditions as the Board may impose —
+(7I) Where the Board has credited any money to a member’s account in the Fund under section 13(4), 13B(1)(b) or (2)(b) or 13C, where any money has been paid into a member’s account in the Fund under section 18(1)(b) or (c), (2)(b) or (3)(b) or any regulations made under section 77(1), the Board may, on the Board’s own motion or on an application to the Board, and subject to such terms and conditions as the Board may impose —
 
 (a) refund to the person who paid the money, or pay to any person whom the Board is satisfied is entitled to that payment, the whole or any part of the amount of the money; and
 
 (b) transfer, from the member’s account in the Fund to the general moneys of the Fund, the whole or such part, as the Board may determine, of any interest paid on the amount refunded or paid under paragraph (a) while that amount was in that account.
 
-[23/2012]
+[Act 37 of 2019 wef 01/01/2020]
 
 [Act 6 of 2016 wef 01/05/2016]
+
+[23/2012]
 
 (8) In this section, “designated account”, in relation to a member, means such ordinary account, special account or retirement account (if any) of the member as may be prescribed by any regulations made under section 77(1)(ka).
 
@@ -1292,11 +1400,13 @@ CONTRIBUTIONS TO FUND
 
 ### Power to impose conditions relating to contributions by self-employed persons
 
-13A\.—(1) Any power to register, license or maintain the particulars of any person, or to grant, renew or reinstate any registration, licence, certificate or permit, under any Act specified in the Third Schedule shall include a power to impose conditions relating to the payment of contributions into the Fund, pursuant to any regulations made under section 77(1)(e), such contributions to be credited —
+13A\.—(1) Any power to register, license or maintain the particulars of any person, or to grant, renew or reinstate any registration, licence, certificate or permit, under any Act specified in the Third Schedule shall include a power to impose conditions relating to the payment of contributions into the Fund, pursuant to section 9A, such contributions to be credited —
 
 (a) to the medisave account of the person, applicant, registrant, licensee or holder of the certificate or permit, as the case may be; or
 
 (b) as otherwise provided under section 13(4).
+
+[Act 37 of 2019 wef 01/01/2020]
 
 [18/2009; 22/2010]
 
@@ -2390,6 +2500,92 @@ shall be transferred by the Board to the member’s retirement account at the re
 
 [25/2008]
 
+### Exceptions to sections 19(1) and (2) and 19A(1) and (2)
+
+19B\.—(1) Despite sections 19(1) and (2) and 19A(1) and (2), where a relevant individual —
+
+(a) dies; or
+
+(b) withdraws any sum from the Fund under section 15(2)(b) or (c),
+
+the amount of the relevant individual’s transferred moneys mentioned in subsection (2) standing in any account in the Fund of the relevant individual on the death or withdrawal —
+
+(c) must not be credited to the account from which it was transferred under section 18(1)(a), (2)(a) or (3)(a), as the case may be; but
+
+(d) forms part of the moneys payable out of the Fund on the death of the relevant individual or that may be withdrawn from the Fund by the relevant individual under section 15(2)(b) or (c), as the case may be.
+
+(2) Subsection (1) applies to the amount of the relevant individual’s transferred moneys that —
+
+(a) before the relevant event occurs in relation to the relevant individual, is withdrawn from the relevant individual’s retirement account or special account (as the case may be) under any applicable provision, and then restored to any account of the relevant individual in the Fund because —
+
+(i) the payment of the withdrawn moneys was unsuccessful; or
+
+(ii) the instrument in respect of that payment was returned to the Board or had expired;
+
+(b) before the relevant event occurs in relation to the relevant individual, is transferred to any other account of the relevant individual in the Fund under any applicable provision;
+
+(c) before the relevant event occurs in relation to the relevant individual, is dealt with in any other way prescribed for the purposes of this paragraph in regulations made under section 77(1); or
+
+(d) on the occurrence of the relevant event in relation to the relevant individual, remains standing to the credit of the relevant individual in the Fund in any circumstances prescribed in regulations made under section 77(1).
+
+(3) Any payment by the Board, made before the date of commencement of section 9 of the Central Provident Fund (Amendment) Act 2019, from a relevant individual’s transferred moneys that would, if made on or after that date, be valid under subsection (1) is taken to be and always to have been validly made; and no legal proceedings lie or may be instituted or maintained, in any court of law on account of or in respect of such payment.
+
+(4) In this section —
+
+“applicable provision” means section 15(2)(d), (e), (f) or (g), (2B), (7), (7C) or (8B);
+
+“relevant event”, in relation to a relevant individual, means the event mentioned in subsection (1)(a) or (b) that occurs in relation to the relevant individual;
+
+“relevant individual’s transferred moneys” means the amount of moneys transferred from a member’s account in the Fund to —
+
+(a) the relevant individual’s retirement account under section 18(1)(a) or (2)(a); or
+
+(b) the relevant individual’s special account under section 18(3)(a).
+
+[Act 37 of 2019 wef 01/01/2020]
+
+### Exceptions to sections 19(5) and (6) and 19A(5) and (6)
+
+19C\.—(1) Despite sections 19(5) and (6) and 19A(5) and (6), the amount of a payee’s paid moneys mentioned in subsection (2) that, on the death of the payee, is standing in any of the payee’s accounts in the Fund —
+
+(a) must not be credited to the account mentioned in section 19(6) or 19A(6) (as the case may be) on the death of the payee; but
+
+(b) forms part of the moneys payable out of the Fund on the death of the payee.
+
+(2) Subsection (1) applies to the amount of the payee’s paid moneys that —
+
+(a) before the death of the payee, is withdrawn from the payee’s retirement account or special account (as the case may be) under any applicable provision, and then restored to any account of the payee in the Fund because —
+
+(i) the payment of the withdrawn moneys was unsuccessful; or
+
+(ii) the instrument in respect of that payment was returned to the Board or had expired;
+
+(b) before the death of the payee, is transferred to any other account of the payee in the Fund under any applicable provision;
+
+(c) before the death of the payee, is dealt with in any other way prescribed for the purposes of this paragraph in regulations made under section 77(1); or
+
+(d) on the death of the payee, remains standing to the credit of the payee in the Fund in any circumstances prescribed in regulations made under section 77(1).
+
+(3) Any payment by the Board, made before the date of commencement of section 9 of the Central Provident Fund (Amendment) Act 2019, from a payee’s paid moneys that would, if made on or after that date, be valid under subsection (1) is taken to be and always to have been validly made; and no legal proceedings lie or may be instituted or maintained, in any court of law on account of or in respect of such payment.
+
+(4) In this section —
+
+“applicable provision” means section 15(2)(d), (e), (f) or (g), (2B), (7), (7C) or (8B);
+
+“payee” means —
+
+(a) in relation to moneys paid by any person into the retirement account of a member under section 18(1)(b) or (2)(b) — the person’s parent, grandparent, spouse or sibling to whose retirement account the moneys were paid under that section; and
+
+(b) in relation to moneys paid by any person into the special account of a member under section 18(3)(b) — the person’s spouse or sibling to whose special account the moneys were paid under that section;
+
+“payee’s paid moneys” means the moneys paid by any person, before 1 November 2008, into —
+
+(a) the retirement account of the payee (being the person’s parent, grandparent, spouse or sibling) under section 18(1)(b) or (2)(b) as in force immediately before that date; or
+
+(b) the special account of the payee (being the person’s spouse or sibling) under section 18(3)(b) as in force immediately before that date.
+
+[Act 37 of 2019 wef 01/01/2020]
+
 ### Withdrawals
 
 20\.—(1) Subject to subsection (1A) and section 25(3), upon an application for the withdrawal of a sum of money standing to the credit of a member of the Fund by a person entitled thereto under section 15 —
@@ -2975,6 +3171,18 @@ but shall, without prejudice to the operation of the Estate Duty Act (Cap. 96), 
 (6) The bankruptcy of an employee shall not affect the payment of contributions from the wages of the employee in accordance with the provisions of this Act, but that payment shall continue to be made notwithstanding the provisions of any written law and the portion of wages so paid shall be deemed not to form part of his after-acquired property.
 
 (7) [Deleted by Act 18 of 2009]
+
+### Exceptions to section 24(2) relating to certain provisions in or under other written law
+
+24A\.—(1) Section 24(2) does not prevent the Board from doing, in relation to any thing set out in section 24(1), any thing required or allowed by the following provisions:
+
+(a) section 79 of the Goods and Services Tax Act (Cap. 117A), section 57 of the Income Tax Act, section 38 of the Property Tax Act (Cap. 254) or section 70 of the Stamp Duties Act (Cap. 312);
+
+(b) any provision of other written law specified in regulations made under section 77(1) for the purposes of this paragraph, being a provision that allows or requires the Board to make any payment on behalf of a member.
+
+(2) Any payment made by the Board under any provision mentioned in subsection (1)(a), before the date of commencement of section 11 of the Central Provident Fund (Amendment) Act 2019, which would be valid if made on or after that date is taken to be and always to have been validly made; and no legal proceedings lie or may be instituted or maintained, in any court of law on account of or in respect of such payment.
+
+[Act 37 of 2019 wef 01/01/2020]
 
 ### Moneys payable on death of member
 
@@ -4784,15 +4992,21 @@ and “incapacity” is to be construed accordingly;
 
 [39/2000]
 
-(8) The amount payable by the Board under this section on the death or incapacity of a member of the Scheme shall in no case exceed the amount which is necessary to repay the outstanding amount of any loan and interest accruing thereon in order to secure the discharge of the mortgage of the immovable property at the time of the death or incapacity.
+(8) The amount payable by the Board under this section on the death or incapacity of a member of the Scheme is not more than the aggregate of —
 
-[30/87]
+(a) the outstanding amount of any housing loan taken in respect of the immovable property for which the member of the Scheme is insured at the time of that member’s death or incapacity; and
 
-[Act 24 of 2013 wef 01/09/2014]
+(b) the amount of interest accrued on the outstanding amount mentioned in paragraph (a) up to the date the outstanding amount is paid.
+
+[Act 37 of 2019 wef 01/01/2020]
 
 (8A) The Board must credit the excess of the Scheme member’s insured sum over the amount payable under this section to the Scheme member’s account in the Fund.
 
 [Act 6 of 2016 wef 01/05/2016]
+
+(8B) Any payment of interest made by the Board in respect of a Scheme member before the date of commencement of section 14 of the Central Provident Fund (Amendment) Act 2019 which, if made on or after that date, would be permitted under subsection (8) is taken to be and always to have been validly made; and no legal proceedings lie or may be instituted or maintained, in any court of law on account of or in respect of any such payment.
+
+[Act 37 of 2019 wef 01/01/2020]
 
 (9) The Board shall not be required to make any payment in respect of any member of the Scheme —
 
@@ -5980,23 +6194,27 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 ### Application made, or information furnished, to Board by approved caregiver, etc.
 
-70\.—(1) Subject to subsections (2) and (3), the Board may —
+70\.—(1) Despite anything in the Mental Capacity Act, a relevant person’s approved caregiver may —
 
-(a) approve any application to the Board under this Act that is made on behalf of a relevant person by an approved caregiver of that person; or
+(a) make any application mentioned in paragraph (a)(i) of the definition of “relevant person” in subsection (10) on behalf of the relevant person; and
 
-(b) permit any information for the purposes of this Act to be furnished to the Board on behalf of a relevant person by an approved caregiver of that person.
+(b) furnish any information mentioned in paragraph (a)(ii) of the definition of “relevant person” in subsection (10) on behalf of the relevant person.
+
+[Act 37 of 2019 wef 01/01/2020]
+
+(2) Subject to subsection (3), the Board may approve an application, or permit the furnishing of information, mentioned in subsection (1) on any terms and conditions that the Board may, with the approval of the Minister, impose.
+
+[Act 37 of 2019 wef 01/01/2020]
+
+(3) Where any application under this Act for, or which will result in, any transfer, withdrawal or refund of any money standing to the credit of a relevant person in the Fund, or any payment or refund of any money to a relevant person or his account in the Fund, is made to the Board by the relevant person’s approved caregiver under subsection (1), and that application is an application to which this subsection applies, the Board shall not approve that application if the amount of the money, or the aggregate of that amount and of such other amounts as the Board may determine, exceeds such sum as the Minister may, by notification in theGazette, specify.
+
+[Act 37 of 2019 wef 01/01/2020]
 
 [23/2012]
 
-(2) Any approval or permission given by the Board under subsection (1) shall be subject to such terms and conditions as the Board may, with the approval of the Minister, impose.
+(4) Where any application under this Act for, or which will result in, any withdrawal or refund of any money standing to the credit of a relevant person in the Fund, or any payment or refund of any money to a relevant person, is made to the Board by the relevant person’s approved caregiver under subsection (1), that application is an application to which this subsection applies, and the Board has approved that application in accordance with subsections (2) and (3), the Board may pay the amount of the money to the approved caregiver.
 
-[23/2012]
-
-(3) Where any application under this Act for, or which will result in, any transfer, withdrawal or refund of any money standing to the credit of a relevant person in the Fund, or any payment or refund of any money to a relevant person or his account in the Fund, is made to the Board on behalf of that person by an approved caregiver of that person, and that application is an application to which this subsection applies, the Board shall not approve that application if the amount of the money, or the aggregate of that amount and of such other amounts as the Board may determine, exceeds such sum as the Minister may, by notification in theGazette, specify.
-
-[23/2012]
-
-(4) Where any application under this Act for, or which will result in, any withdrawal or refund of any money standing to the credit of a relevant person in the Fund, or any payment or refund of any money to a relevant person, is made to the Board on behalf of that person by an approved caregiver of that person, that application is an application to which this subsection applies, and the Board has approved that application in accordance with subsections (2) and (3), the Board may pay the amount of the money to the approved caregiver.
+[Act 37 of 2019 wef 01/01/2020]
 
 [23/2012]
 
@@ -6054,29 +6272,73 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 [23/2012]
 
-71\. [Repealed by Act 31 of 2003]
+### Refund of moneys from Fund
 
-### Refund of contributions to Government
+71\.—(1) Where the Board is satisfied that the prescribed circumstances are met in relation to a prescribed payment, the Board may (on its own motion or an application under subsection (2), and on any terms and conditions that the Board may impose) refund or pay to a prescribed person —
 
-72\.—(1) Notwithstanding sections 20(1)(b) and (1A) and 25 but subject to this section, the Board may, when a public officer is confirmed in a pensionable office in the service of the Government, refund to the Government such contributions paid by the Government in respect of the period before his confirmation (referred to in this section as the excess contributions) as have not been recovered from the public officer’s wages and are credited to any account in the Fund of the public officer, together with the whole or such part, as the Board may determine, of the interest paid on the excess contributions, except that no refund shall exceed the amount standing to the credit of the public officer in that account at the time a claim for the refund is approved by the Board.
+(a) the whole or part of the amount of the prescribed payment credited to a member’s account in the Fund, from any account in the Fund of that member; or
 
-[23/2012]
+(b) the whole or part of the amount of the prescribed payment credited to the general moneys of the Fund, from the general moneys of the Fund.
 
-(2) Notwithstanding sections 20(1)(b) and (1A) and 25, if the excess contributions are credited to any account in the Fund of the public officer, the public officer has died and, at the time a claim for a refund of the whole or any part of the excess contributions and interest thereon is approved by the Board, the Board has made any payment or transfer under section 20(1)(b) or (1A), or any payment to the Public Trustee under section 25(2), from the amount standing to the credit of the public officer in that account —
+(2) The Board may require a person claiming a refund or payment under subsection (1) —
 
-(a) the Board may refund to the Government the whole or such part, as the Board may determine, of the amount claimed, having regard to —
+(a) to make an application in the form and manner required by the Board; and
 
-(i) the amount standing to the credit of the public officer in that account at the time the claim is approved by the Board; and
+(b) to provide such information as the Board considers necessary.
 
-(ii) the portion of the amount payable on the public officer’s death out of the Fund that remains in that account at the time the claim is approved by the Board; and
+(3) Where any deductible sum is due, or may become due, to the Fund from a prescribed person, the Board —
 
-(b) every payment or transfer made by the Board under section 20(1)(b) or (1A) or 25(2) before the time the claim is approved by the Board shall be deemed to have been properly made under the provisions of this Act.
+(a) may retain from any amount to be refunded or paid to the prescribed person under subsection (1) an amount not exceeding that deductible sum;
 
-[23/2012]
+(b) may set off the whole or part of the retained amount against the deductible sum, when the deductible sum is or becomes payable to the Fund; and
 
-(3) Where any person makes, for and on behalf of the Government, a claim for a refund under this section, the Board may require the person to furnish such information to the Board as may be necessary.
+(c) must refund or pay to the prescribed person any of the retained amount remaining after it has been used to set off against the deductible sum under paragraph (b).
 
-[23/2012]
+(4) Where an application to claim a refund or payment of a prescribed payment is required under subsection (2) to be made within a prescribed time and such an application is not made within the prescribed time, then the amount of the prescribed payment is not to be refunded or paid under subsection (1) and —
+
+(a) except in the prescribed circumstances mentioned in paragraph (b), is deemed to have been properly paid under this Act and cannot be set off against any deductible sum; and
+
+(b) in the circumstances prescribed by regulations made under section 77(1), the amount of the prescribed payment may be retained to set off against any of the following deductible sums (whether the deductible sum became due before, on or after the expiry of the prescribed time):
+
+(i) where the retained amount is in a member’s account in the Fund — any deductible sum payable to any account of the member in the Fund;
+
+(ii) where the retained amount is in the general moneys of the Fund — any deductible sum payable to the Fund from the prescribed person.
+
+(5) Every payment or transfer made by the Board under section 20(1)(b) or (1A) or 25 (whether before, on or after the date of commencement of section 16 of the Central Provident Fund (Amendment) Act 2019 but before the Board approves the application under subsection (2) to refund or pay the amount claimed) is taken to have been properly made under this Act.
+
+(6) Where the Board makes any refund or payment to a prescribed person under subsection (1), the Board may —
+
+(a) retain in the member’s account;
+
+(b) transfer to the general moneys of the Fund; or
+
+(c) pay the prescribed person,
+
+the whole or part of any interest that has been credited to the member’s account in respect of the amount of the refund or payment.
+
+(7) In this section, unless the context otherwise requires —
+
+“deductible sum”, in relation to any retained amount, means any class of payments due, or that may become due, to the Fund that is prescribed to be set off against the retained amount under subsection (3)(b) or (4)(b), as the case may be;
+
+“prescribed payment” means any payment or class of payments credited (whether before, on or after the date of commencement of section 16 of the Central Provident Fund (Amendment) Act 2019) to a member’s account in the Fund or the general moneys of the Fund (as the case may be), that is prescribed by regulations made under section 77(1) for the purposes of this section;
+
+“prescribed person”, in relation to a prescribed payment, means any of the following persons:
+
+(a) a person who made the prescribed payment to the Fund;
+
+(b) where the prescribed payment was credited to a member’s account in the Fund — that member;
+
+(c) where the prescribed payment was credited to the general moneys of the Fund — any other person;
+
+(d) any other person whom the Board is satisfied is entitled to receive the refund or payment under subsection (1) on behalf of a prescribed person under paragraph (a), (b) or (c);
+
+“retained amount” means the amount retained under subsection (3)(a) or (4)(b) (as the case may be) to be set off against any deductible sum.
+
+(8) This section applies despite sections 20(1)(b) and (1A) and 25.
+
+[Act 37 of 2019 wef 01/01/2020]
+
+72\. [Deleted by Act 37 of 2019 wef 01/01/2020]
 
 ### Transfer to Fund from provident fund or other scheme
 
@@ -6088,203 +6350,17 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 [23/2012]
 
-### Refund or payment of contributions paid in error
+74\. [Deleted by Act 37 of 2019 wef 01/01/2020]
 
-74\.—(1) Notwithstanding sections 20(1)(b) and (1A) and 25 but subject to this section, where the Board is satisfied that any money has been paid in error to the Fund in respect of any person or as interest under section 9, the Board may —
+75\. [Deleted by Act 37 of 2019 wef 01/01/2020]
 
-(a) refund the amount of the money to the person who paid the money; or
+75A\. [Deleted by Act 37 of 2019 wef 01/01/2020]
 
-(b) pay the whole or any part of the amount of the money to any person whom the Board is satisfied is entitled to that payment.
+75B\. [Deleted by Act 37 of 2019 wef 01/01/2020]
 
-[23/2012]
+75C\. [Deleted by Act 37 of 2019 wef 01/01/2020]
 
-(1A) If a claim for a refund or payment of the whole or any part of the money paid in error in any of the circumstances specified in subsection (2) is not received by the Board within one year beginning on the date on which the money was paid in error, the amount claimed —
-
-(a) is not to be refunded or paid to the claimant but is deemed to have been properly paid under the provisions of this Act in respect of that person or as interest, as the case may be; and
-
-(b) cannot be set off under subsection (3) against any sum due to the Fund.
-
-[Act 6 of 2016 wef 01/05/2016]
-
-(2) For the purposes of subsection (1A), the circumstances in which moneys are paid in error are as follows:
-
-(a) contributions made by an employer under section 7(1) or (4)(c);
-
-(b) contributions made by an employee under section 7(4)(b);
-
-(c) contributions made by a self-employed person under any regulations made under section 77(1)(e);
-
-(d) interest payable under section 9;
-
-(e) moneys paid in error to the Fund or as interest under section 9 before the date of commencement of section 42 of the Central Provident Fund (Amendment) Act 2016.
-
-[Act 6 of 2016 wef 01/05/2016]
-
-(2A) Notwithstanding sections 20(1)(b) and (1A) and 25 but subject to subsection (2B), if any money paid in error to the Fund is credited to any account of a member in the Fund at the time the money is so paid, but the amount standing to the credit of the member in that account, at the time a claim for a refund or payment of the whole or any part of the money is approved by the Board, is less than the amount claimed, the Board may refund or pay to the claimant, or pay to any other person whom the Board is satisfied is entitled to that payment, an amount not exceeding the amount standing to the credit of the member in that account at the time the claim is approved by the Board.
-
-[23/2012]
-
-(2B) Notwithstanding sections 20(1)(b) and (1A) and 25, if any money paid in error to the Fund is credited to any account of a member in the Fund, the member has died and, at the time a claim for a refund or payment of the whole or any part of the money is approved by the Board, the Board has made any payment or transfer under section 20(1)(b) or (1A), or any payment to the Public Trustee under section 25(2), from the amount standing to the credit of the member in that account —
-
-(a) the Board may refund or pay to the claimant, or pay to any other person whom the Board is satisfied is entitled to that payment, the whole or such part, as the Board may determine, of the amount claimed, having regard to —
-
-(i) the amount standing to the credit of the member in that account at the time the claim is approved by the Board; and
-
-(ii) the portion of the amount payable on the member’s death out of the Fund that remains in that account at the time the claim is approved by the Board; and
-
-(b) every payment or transfer made by the Board under section 20(1)(b) or (1A) or 25(2) before the time the claim is approved by the Board shall be deemed to have been properly made under the provisions of this Act.
-
-[23/2012]
-
-(3) Subject to subsection (1A)(b), if any sum is due to the Fund from any person to whom a refund or payment of any amount of any money paid in error would otherwise be made, the Board may retain the whole or any part of that amount and set it off against the sum due to the Fund.
-
-[23/2012]
-
-[Act 6 of 2016 wef 01/05/2016]
-
-(4) No refund or payment to a claimant, or to any other person, shall be made and no amount shall be set-off under this section except with the consent of the Board.
-
-[23/2012]
-
-(5) The Board may require any person who claims to have paid any money to the Fund in error, or to be entitled to be paid the whole or any part of the money —
-
-(a) to make a written application for the refund or payment of the money; and
-
-(b) to furnish such information as the Board may require to determine the amount of the money so paid.
-
-[23/2012]
-
-### Refund or payment of excess contributions on additional wages
-
-75\.—(1) Notwithstanding sections 20(1)(b) and (1A) and 25 but subject to this section and such terms and conditions as the Board may impose, where the Board is satisfied that the amount of contributions paid for any year on additional wages exceeds the amount of contributions payable on such additional wages after recomputation in accordance with the First Schedule, the Board may, in such manner as the Minister may prescribe by regulations made under section 77(1) —
-
-(a) refund the amount of the excess contributions, together with the whole or such part, as the Board may determine, of any interest paid on the excess contributions, to the person who paid the excess contributions; or
-
-(b) pay the whole or any part of the amount of the excess contributions, together with the whole or such part, as the Board may determine, of any interest paid on the excess contributions, to any person whom the Board is satisfied is entitled to that payment.
-
-[23/2012]
-
-(1A) Notwithstanding sections 20(1)(b) and (1A) and 25 but subject to subsection (1B) and such terms and conditions as the Board may impose, if any excess contributions referred to in subsection (1) are credited to any account of a member in the Fund at the time the excess contributions are paid to the Fund, but the amount standing to the credit of the member in that account, at the time a claim for a refund or payment of the whole or any part of the excess contributions and interest thereon is approved by the Board, is less than the amount claimed, the Board may refund or pay to the claimant, or pay to any other person whom the Board is satisfied is entitled to that payment, an amount not exceeding the amount standing to the credit of the member in that account at the time the claim is approved by the Board.
-
-[23/2012]
-
-(1B) Notwithstanding sections 20(1)(b) and (1A) and 25 but subject to such terms and conditions as the Board may impose, if any excess contributions referred to in subsection (1) are credited to any account of a member in the Fund, the member has died and, at the time a claim for a refund or payment of the whole or any part of the excess contributions and interest thereon is approved by the Board, the Board has made any payment or transfer under section 20(1)(b) or (1A), or any payment to the Public Trustee under section 25(2), from the amount standing to the credit of the member in that account —
-
-(a) the Board may refund or pay to the claimant, or pay to any other person whom the Board is satisfied is entitled to that payment, the whole or such part, as the Board may determine, of the amount claimed, having regard to —
-
-(i) the amount standing to the credit of the member in that account at the time the claim is approved by the Board; and
-
-(ii) the portion of the amount payable on the member’s death out of the Fund that remains in that account at the time the claim is approved by the Board; and
-
-(b) every payment or transfer made by the Board under section 20(1)(b) or (1A) or 25(2) before the time the claim is approved by the Board shall be deemed to have been properly made under the provisions of this Act.
-
-[23/2012]
-
-(2) If any sum is due to the Fund from any person to whom a refund or payment of any amount of any excess contributions and interest thereon would otherwise be made, the Board may retain the whole or any part of that amount and set it off against the sum due to the Fund.
-
-[23/2012]
-
-(3) The Board may require any person who claims to be entitled to any refund or payment under this section or to have paid any excess contributions to the Fund to furnish such information to the Board as may be necessary.
-
-[22/90; 23/2012]
-
-### Refund of excess contributions paid by self-employed person who has died
-
-75A\.—(1) This section applies where the Board is satisfied that the amount of contributions paid for any year by a member who is a self-employed person, under any regulations made under section 77(1)(e), exceeds the amount of contributions payable by him after recomputation in accordance with those regulations.
-
-[23/2012]
-
-(2) Notwithstanding sections 20(1)(b) and (1A) and 25 but subject to such terms and conditions as the Board may impose, if any excess contributions referred to in subsection (1) are credited to any account in the Fund of a member who is a self-employed person, the member has died and, at the time a claim by a personal representative of the member for a refund of the whole or any part of the excess contributions and interest thereon is approved by the Board, the Board has made any payment or transfer under section 20(1)(b) or (1A), or any payment to the Public Trustee under section 25(2), from the amount standing to the credit of the member in that account —
-
-(a) the Board may refund to the personal representative the whole or such part, as the Board may determine, of the amount claimed, having regard to —
-
-(i) the amount standing to the credit of the member in that account at the time the claim is approved by the Board; and
-
-(ii) the portion of the amount payable on the member’s death out of the Fund that remains in that account at the time the claim is approved by the Board; and
-
-(b) every payment or transfer made by the Board under section 20(1)(b) or (1A) or 25(2) before the time the claim is approved by the Board shall be deemed to have been properly made under the provisions of this Act.
-
-[23/2012]
-
-(3) If a member who is a self-employed person has died, any sum is due to the Fund from the member or his personal representative, and a refund of any amount of any excess contributions and interest thereon would otherwise be made to the personal representative under subsection (2), the Board may retain the whole or any part of that amount and set it off against the sum due to the Fund.
-
-[23/2012]
-
-(4) Where a member who is a self-employed person has died, and a personal representative of the member claims any refund under subsection (2), the Board may require the personal representative to furnish such information to the Board as may be necessary.
-
-[23/2012]
-
-(5) [Deleted by Act 6 of 2016 wef 01/05/2016]
-
-### Refund or payment of excess voluntary contributions where member has died
-
-75B\.—(1) This section applies where the aggregate of the amounts referred to in section 13B(3)(a), (b) and (c) which are contributed by or for a member in any year exceeds the sum referred to in section 13B(3).
-
-[23/2012]
-
-(2) Notwithstanding sections 20(1)(b) and (1A) and 25 but subject to such terms and conditions as the Board may impose, if any excess contributions referred to in subsection (1) are credited to any account of a member in the Fund, the member has died and, at the time a claim for a refund or payment of the whole or any part of the excess contributions and interest thereon is approved by the Board, the Board has made any payment or transfer under section 20(1)(b) or (1A), or any payment to the Public Trustee under section 25(2), from the amount standing to the credit of the member in that account —
-
-(a) the Board may refund or pay to the claimant, or pay to any other person whom the Board is satisfied is entitled to that payment, the whole or such part, as the Board may determine, of the amount claimed, having regard to —
-
-(i) the amount standing to the credit of the member in that account at the time the claim is approved by the Board; and
-
-(ii) the portion of the amount payable on the member’s death out of the Fund that remains in that account at the time the claim is approved by the Board; and
-
-(b) every payment or transfer made by the Board under section 20(1)(b) or (1A) or 25(2) before the time the claim is approved by the Board shall be deemed to have been properly made under the provisions of this Act.
-
-[23/2012]
-
-(3) If any sum is due to the Fund from any person to whom a refund or payment of any amount of any excess contributions and interest thereon would otherwise be made under subsection (2), the Board may retain the whole or any part of that amount and set it off against the sum due to the Fund.
-
-[23/2012]
-
-(4) The Board may require any person who claims to be entitled to any refund or payment under subsection (2), or to have paid any excess contributions referred to in subsection (1), to furnish such information to the Board as may be necessary.
-
-[23/2012]
-
-### Refund of excess contributions paid by self-employed person who is alive
-
-75C\.—(1) This section applies where the Board is satisfied that the amount of contributions paid for any year by a member who is a self-employed person, under any regulations made under section 77(1)(e), exceeds the amount of contributions payable by the member after recomputation in accordance with those regulations.
-
-(2) Subject to subsections (3), (4) and (5), if any excess contributions referred to in subsection (1) are credited to any account in the Fund of a member who is a self-employed person and the member is alive, the Board may —
-
-(a) treat the excess contributions as payment towards any future contributions which the member is liable to pay; or
-
-(b) subject to such terms and conditions as the Board may impose, refund the excess contributions to the member if —
-
-(i) the member applies in writing for the refund within such time as may be prescribed; and
-
-(ii) the refund is made in accordance with any regulations made under section 77(1).
-
-(3) The Board may refund the excess contributions to a member, of an amount not exceeding the amount standing to the member’s credit in the account (in which the excess contributions were credited) at the time the Board approves the refund.
-
-(4) Where a member has not applied for a refund under subsection (2) within the prescribed time, the Board may retain the whole or any part of the excess contributions to be used to set off against any contributions or interest on any contributions as is due or may become due to the Board.
-
-(5) The Board may require any person who claims to be entitled to any refund under this section, or to have paid any excess contributions to the Fund, to provide the Board with such information as the Board considers necessary to determine whether any refund should be made.
-
-[Act 6 of 2016 wef 01/05/2016]
-
-### Refund of excess voluntary contributions where member is alive
-
-75D\.—(1) This section applies where the total amounts referred to in section 13B(3)(a), (b) and (c) which are contributed by or for a member in any year exceeds the sum prescribed under section 13B(3) for that year.
-
-(2) Subject to subsections (4), (5) and (6), where any excess contributions referred to in subsection (1) are credited to any account in the Fund of a member and the member is alive, the Board may, subject to such terms and conditions as it may impose, refund to the member or to any other person such amount of the excess contributions as may be prescribed by regulations made under section 77(1).
-
-(3) Where the member is an employee at any time during that year, and the Board is satisfied that the amount of additional medisave contributions which was paid in that year by his employer for the employee exceeds such sum as the Minister may prescribe by regulations made under section 77(1), the Board may, subject to such terms and conditions as the Board may impose, refund the excess to the employer.
-
-(4) The Board may refund the excess contributions to the member, any other person referred to in subsection (2) or the employer referred to in subsection (3) (as the case may be) of an amount not exceeding the amount standing to the member’s credit in the account (in which the excess contributions were credited) at the time the Board approves the refund.
-
-(5) The Board may require any person to whom any excess contributions are to be refunded under this section to —
-
-(a) submit an application to the Board for the refund of the excess contributions; and
-
-(b) provide the Board with such information as the Board considers necessary to determine whether any refund should be made.
-
-(6) The Board may retain the whole or any part of the excess contributions to be used to set off against any contributions or interest on any contributions which is due or may become due to the Board.
-
-(7) In this section, “additional medisave contributions” means the contributions paid by an employer under section 7(4)(c) specifically for the purposes of the medisave account of the employer’s employee.
-
-[Act 6 of 2016 wef 01/05/2016]
+75D\. [Deleted by Act 37 of 2019 wef 01/01/2020]
 
 ### Board may engage in activities not directly related to Fund and may call for information
 
@@ -6346,15 +6422,27 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 (d) to provide that where an employee is employed in a specified employment a person specified as the principal employer shall be deemed to be his employer for the purposes of this Act notwithstanding that the principal employer is not the immediate employer of the employee;
 
-(e) to require such person as the Minister may specify who derives income from any trade, business, profession or vocation, or from any other source or sources as the Minister may prescribe, to contribute to the Fund in respect of such income in such a manner and at such rate as may be prescribed by the Minister;
+(e) to prescribe for the purposes of section 9A or 9B any of the following:
 
-(f) to provide that the Comptroller of Income Tax, appointed under the Income Tax Act (Cap. 134), may transmit to the Board such information, documents or records as may be required to enable the incomes of the persons referred to in paragraph (e) to be ascertained and to provide for the Board, its officers and employees, when dealing with the information, documents or records to be bound by the same conditions as to secrecy as are the persons mentioned in section 6 of that Act;
+(i) the classes of collectors who must pay estimated contributions in respect of any class of revenue payments due to any class of self-employed persons;
+
+(ii) for voluntary contributions to the Fund by or for self-employed persons and any modification in relation to the application of section 13B to those voluntary contributions;
+
+[Act 37 of 2019 wef 01/01/2020]
+
+(f) to provide that the Comptroller of Income Tax, appointed under the Income Tax Act (Cap. 134), may transmit to the Board such information, documents or records as may be required to enable the incomes of the self-employed persons and the amount of estimated contribution payable by collectors to be ascertained and to provide for the Board, its officers and employees, when dealing with the information, documents or records to be bound by the same conditions as to secrecy as are the persons mentioned in section 6 of that Act;
+
+[Act 37 of 2019 wef 01/01/2020]
 
 (g) to provide that the Board may, with the approval of the Minister, appoint any agent (including the Government or any statutory body) for the assessment, collection or recovery of contributions payable under this Act and any interest thereon and that such agent may be delegated such duties, powers and functions of the Board or its officers under this Act as may be prescribed;
 
 (ga) for the purposes of section 14, including, in particular, specifying the prescribed period mentioned in section 14(3A)(b) and different periods for different types of cash grants or payments;
 
 [Act 26 of 2016 wef 01/01/2017]
+
+(gb) for the purposes of section 71;
+
+[Act 37 of 2019 wef 01/01/2020]
 
 (h) to provide for a member of the Fund to apply, assign or withdraw all or part of the moneys standing to his credit in the Fund, and for the repayment into the member’s account in the Fund of all or part of the moneys applied, assigned or withdrawn —
 
@@ -6622,7 +6710,7 @@ any sum due to the Fund under section 7 or 61B(1) shall be paid in priority to a
 
 FIRST SCHEDULE
 
-Sections 7, 8, 70, 75 and 77
+Sections 7, 8, 70 and 77
 
 Rates of contribution
 
@@ -8142,6 +8230,8 @@ at the rates prescribed in the Central Provident Fund (Public Sector Employees) 
 
 8. For the purposes of determining the contributions on the additional wages of an employee (other than an employee mentioned in paragraph 7) payable for any period before 1 January 2016, this Schedule as in force during that period is to be used and applied despite any amendment made after that time.
 
+[Act 37 of 2019 wef 01/01/2020]
+
 [S 532/2016 wef 01/11/2016]
 
 [29/95; 1/96; 7/96; 4/99; 41/99; 9/2000; 3/2001; 17/2001; 25/2002; 3/2004; 3/2005; 36/2007; 16/2009; 25/2010; S 273/94; S 570/95; S 645/98; S 156/2000; S 612/2000; S 167/2001; S 313/2001; S 550/2001; S 524/2002; S 468/2003; S 657/2003; S 801/2004; S 830/2005; S 193/2006; S 324/2007; S 415/2008; S 581/2009; S 486/2010; S 107/2011; S 508/2011; S 441/2012; S 315/2013]
@@ -9229,6 +9319,11 @@ This Legislative History is provided for the convenience of users of the Central
 ||Date of First Reading|8 July 2019 (Bill No. 15/2019 published on 8 July 2019)|
 ||Date of Second and Third Readings|6 August 2019|
 ||Date of commencement|1 December 2019|
+|222.|**Act 37 of 2019—Central Provident Fund (Amendment) Act 2019**|
+||Date of First Reading|7 October 2019|
+|||(Bill No. 34/2019)|
+||Date of Second and Third Readings|4 November 2019|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
