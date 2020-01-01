@@ -22,6 +22,12 @@
 
 - [6 Offence](#Offence)
 
+- [6A Marrying again during lifetime of husband or wife](#Marrying-again-during-lifetime-of-husband-or-wife)
+
+- [6B Cohabitation caused by deceitfully inducing a belief of lawful marriage](#Cohabitation-caused-by-deceitfully-inducing-a-belief-of-lawful-marriage)
+
+- [6C Marriage ceremony gone through fraudulently without lawful marriage](#Marriage-ceremony-gone-through-fraudulently-without-lawful-marriage)
+
 - [7 Continuance of marriage](#Continuance-of-marriage)
 
 [**Part III SOLEMNIZATION OF MARRIAGES**](#Part-III)
@@ -360,7 +366,7 @@
 
 - [144 Permitting mental defective to use premises for sexual penetration](#Permitting-mental-defective-to-use-premises-for-sexual-penetration)
 
-- [145 Causing or encouraging prostitution of, sexual penetration with, or indecent assault on, girl below the age of 16](#Causing-or-encouraging-prostitution-of-sexual-penetration-with-or-indecent-assault-on-girl-below-the-age-of-16)
+- [145 Causing or encouraging prostitution of, girl below the age of 18 or sexual penetration with, or indecent assault on, girl below the age of 16](#Causing-or-encouraging-prostitution-of-girl-below-the-age-of-18-or-sexual-penetration-with-or-indecent-assault-on-girl-below-the-age-of-16)
 
 - [146 Persons living on or trading in prostitution, etc.](#Persons-living-on-or-trading-in-prostitution-etc)
 
@@ -582,9 +588,11 @@ PRELIMINARY
 
 [26/80]
 
-(2) Parts II to VI and Part X and sections 181 and 182 shall not apply to any person who is married under, or to any marriage solemnized or registered under, the provisions of the Muslim law or of any written law in Singapore or in Malaysia providing for the registration of Muslim marriages.
+(2) Parts II to VI (except for sections 6A, 6B and 6C) and Part X and sections 181 and 182 shall not apply to any person who is married under, or to any marriage solemnized or registered under, the provisions of the Muslim law or of any written law in Singapore or in Malaysia providing for the registration of Muslim marriages.
 
 [9/67]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (2A) Nothing in Part VIII entitles an incapacitated husband who is married under the provisions of the Muslim law, or of any written law in Singapore or in Malaysia providing for the registration of Muslim marriages, to obtain any maintenance under that Part.
 
@@ -638,9 +646,35 @@ MONOGAMOUS MARRIAGES
 
 ### Offence
 
-6\. Any person lawfully married under any law, religion, custom or usage who during the continuance of that marriage purports to contract a marriage in Singapore or elsewhere under any law, religion, custom or usage in contravention of section 4 shall be deemed to commit the offence of marrying again during the lifetime of the husband or wife, as the case may be, within the meaning of section 494 of the Penal Code (Cap. 224).
+6\. Any person lawfully married under any law, religion, custom or usage who during the continuance of that marriage purports to contract a marriage in Singapore or elsewhere under any law, religion, custom or usage in contravention of section 4 shall be deemed to commit the offence of marrying again during the lifetime of the husband or wife, as the case may be, within the meaning of section 6A.
 
 [26/80]
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Marrying again during lifetime of husband or wife
+
+6A\. Whoever, having a husband or wife living, marries in any case in which such marriage is void by reason of its taking place during the life of such husband or wife, shall be guilty of an offence and shall on conviction —
+
+(a) in a case where the offender concealed from the person with whom the subsequent marriage is contracted the fact of the former marriage, be punished with imprisonment for a term not exceeding 10 years and shall also be liable to a fine not exceeding $15,000; and
+
+(b) in any other case, be punished with imprisonment for a term not exceeding 7 years and shall also be liable to a fine not exceeding $10,000.
+
+Exceptions.—This section does not extend to any person whose marriage, with such husband or wife, has been declared void by a court of competent jurisdiction, nor to any person who contracts a marriage during the life of a former husband or wife, if such husband or wife, at the time of the subsequent marriage, has been continually absent from such person for a period of 7 years, and has not been heard of by such person as being alive within that time, provided the person contracting such subsequent marriage, before the marriage takes place, informs the person with whom the marriage is contracted, of the real state of facts so far as the same are within his or her knowledge.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Cohabitation caused by deceitfully inducing a belief of lawful marriage
+
+6B\. Any person (A), who by deceit causes any person of the opposite sex (B) who is not lawfully married toAto believe thatBis lawfully married toAand to cohabit or have sexual intercourse withAin that belief, shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 10 years and shall also be liable to a fine not exceeding $15,000.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Marriage ceremony gone through fraudulently without lawful marriage
+
+6C\. Any person who dishonestly or fraudulently goes through the ceremony of being married, knowing that he or she is not as a result lawfully married, shall be guilty of an offence and shall on conviction be punished with imprisonment for a term not exceeding 7 years and shall also be liable to a fine not exceeding $10,000.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Continuance of marriage
 
@@ -828,7 +862,9 @@ SOLEMNIZATION OF MARRIAGES
 
 (a) an offence under section 57C(1) of the Immigration Act (Cap. 133);
 
-(b) an offence under section 494 of the Penal Code (Cap. 224).
+(b) an offence under section 6A or an offence under section 494 of the Penal Code (Cap. 224) as in force immediately before the date of commencement of section 189 of the Criminal Law Reform Act 2019.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Act 7 of 2016 wef 01/10/2016]
 
@@ -3312,7 +3348,9 @@ OFFENCES AGAINST WOMEN AND GIRLS
 
 (h) detains any woman or girl in any place against her will with intent that she may be employed or used for the purpose of prostitution or for any unlawful or immoral purpose;
 
-(i) has carnal connection with any girl below the age of 16 years except by way of marriage; or
+(i) has carnal connection with any girl below the age of 16 years except with a girl who is his spouse and with his spouse’s consent; or
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (j) attempts to do any act in contravention of this section,
 
@@ -3340,13 +3378,13 @@ shall be guilty of an offence and shall on conviction be punished with imprisonm
 
 (iii) threatens that woman or girl with legal proceedings for the recovery of any debt or alleged debt or uses any other threat whatsoever.
 
-(4) Subject to subsection (5) and notwithstanding anything in section 79 of the Penal Code (Cap. 224), a reasonable mistake as to the age of a girl shall not be a defence to a charge of an offence under subsection (1)(i).
+(4) Despite section 79 of the Penal Code (Cap. 224), a reasonable mistake as to the age of a girl shall not be a defence to a charge of an offence under subsection (1)(i).
 
 [51/2007]
 
-(5) In the case of a man who at the time of the alleged offence was below the age of 21 years, the presence of a reasonable mistaken belief that the girl was of or above the age of 16 years shall be a valid defence to a charge of an offence under subsection (1)(i), provided that at the time of the offence, he has not previously been charged in court for an offence under subsection (1)(i), or section 376A, 376B, 376C or 376E of the Penal Code, or section 7 of the Children and Young Persons Act (Cap. 38).
+[Act 15 of 2019 wef 01/01/2020]
 
-[51/2007]
+(5) [Deleted by Act 15 of 2019 wef 01/01/2020]
 
 ### Traffic in women and girls
 
@@ -3388,11 +3426,11 @@ shall be guilty of an offence and shall on conviction be punished with imprisonm
 
 [26/80]
 
-### Causing or encouraging prostitution of, sexual penetration with, or indecent assault on, girl below the age of 16
+### Causing or encouraging prostitution of, girl below the age of 18 or sexual penetration with, or indecent assault on, girl below the age of 16
 
-145\.—(1) Any person who causes or encourages the prostitution of, or the commission of unlawful sexual penetration of or an indecent assault on, a girl below the age of 16 years for whom he is responsible shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
+145\.—(1) Any person who causes or encourages the prostitution of a girl below the age of 18 years, or the commission of unlawful sexual penetration of or an indecent assault on, a girl below the age of 16 years, being in either case a girl for whom that person is responsible, shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 years or to both.
 
-[26/80; 51/2007]
+[Act 15 of 2019 wef 01/01/2020]
 
 (2) Where a girl has become a prostitute, or has engaged in unlawful sexual penetration, or has been indecently assaulted, a person shall be deemed for the purposes of this section to have caused or encouraged it, if he knowingly allowed her to consort with or to enter or continue in the employment of, any prostitute or person of known immoral character.
 
@@ -3416,9 +3454,13 @@ shall be guilty of an offence and shall on conviction be punished with imprisonm
 
 [26/80]
 
-(5) If, on a charge of an offence against a girl under this section, the girl appears to the court to have been below the age of 16 years at the time of the offence charged, she shall be presumed for the purposes of this section to have been so, unless the contrary is proved.
+(5) If, on a charge of an offence against a girl under this section, the girl appears to the court to have been below the age of 16 or 18 years, as the case may be, at the time of the offence charged, she shall be presumed for the purposes of this section to have been so, unless the contrary is proved.
 
 [26/80]
+
+[Act 15 of 2019 wef 01/01/2020]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Persons living on or trading in prostitution, etc.
 
@@ -3610,9 +3652,11 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Detention pending judicial proceedings
 
-155\.—(1) Any court inquiring into or trying an offence punishable under this Part or under section 309, 312, 313, 317, 354, 370, 371, 372, 373, 373A, 375, 376, 376A, 376B, 376C, 376D, 376E, 376F, 376G or 377B of the Penal Code (Cap. 224) or defined in section 321, 322, 339, 340, 350, 351, 360, 361 or 362 of the Penal Code may order any woman or girl in respect of whom the offence is alleged to have been committed to be detained temporarily until the determination of the proceedings against the person accused.
+155\.—(1) Any court inquiring into or trying an offence punishable under this Part or under section 312, 313, 317, 354, 370, 371, 372, 373, 373A, 375, 376, 376A, 376B, 376C, 376D, 376E, 376F, 376G or 377B of the Penal Code (Cap. 224) or defined in section 321, 322, 339, 340, 350, 351, 360, 361 or 362 of the Penal Code may order any woman or girl in respect of whom the offence is alleged to have been committed to be detained temporarily until the determination of the proceedings against the person accused.
 
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (2) Where an order is made under subsection (1), the Director shall receive such woman or girl and shall put her in a place of safety and shall there detain her until the determination of the proceedings.
 
@@ -4530,3 +4574,7 @@ This Legislative History is provided for the convenience of users of the Women�
 ||Date of First Reading|20 March 2018 (Bill No. 20/2018 published on 20 March 2018)|
 ||Date of Second and Third Readings|18 May 2018|
 ||Date of commencement|19 December 2018|
+|33.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
