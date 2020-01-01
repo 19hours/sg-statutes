@@ -270,7 +270,9 @@ OFFENCES
 
 [30/73]
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a term of not less than 3 months and not exceeding 3 years.
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to imprisonment for a presumptive minimum term of not less than 3 months and not exceeding 3 years.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (3) Where it is proved to the satisfaction of a court that any vessel, net, instrument or appliance has been —
 
@@ -601,6 +603,10 @@ This Legislative History is provided for the convenience of users of the Fisheri
 ||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
 ||Date of Second and Third Readings|12 February 2019|
 ||Date of commencement|1 April 2019|
+|11.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 Fisheries Act
