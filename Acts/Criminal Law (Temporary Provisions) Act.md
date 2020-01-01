@@ -1232,7 +1232,9 @@ Section 5 of the Misuse of Drugs Act (Cap. 185).
 
 6. 
 
-Sections 143, 144, 145, 147, 148, 307, 323, 324, 325, 326, 327, 332, 333, 346, 347, 352, 353, 356, 357, 363, 363A, 364, 364A, 365, 368, 384, 385, 386, 387, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 447, 448, 450, 451, 452, 453, 454, 455, 457, 458, 506, 511 and Chapter V of the Penal Code (Cap. 224).
+Sections 143, 144, 145, 147, 148, 307, 323, 324, 325, 326, 327, 332, 333, 346, 347, 352, 353, 356, 357, 363, 363A, 364, 364A, 365, 368, 384, 385, 386, 387, 392, 393, 394, 395, 396, 397, 399, 400, 401, 402, 447, 448, 450, 451, 452, 453, 449, 506, 512 and Chapter V of the Penal Code (Cap. 224).
+
+[Act 15 of 2019 wef 01/01/2020]
 
 7. 
 
@@ -1562,6 +1564,10 @@ This Legislative History is provided for the convenience of users of the Crimina
 ||Date of First Reading|8 July 2019 (Bill No. 15/2019 published on 8 July 2019)|
 ||Date of Second and Third Readings|6 August 2019|
 ||Date of commencement|1 December 2019|
+|64.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 Criminal Law (Temporary Provisions) Act
