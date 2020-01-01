@@ -1204,7 +1204,9 @@ shall be presumed, until the contrary is proved, to have done so as consideratio
 
 (b) fails to employ the foreign employee,
 
-shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000.
+shall be guilty of an offence and shall on conviction be punished with imprisonment for a presumptive minimum term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (2) Where any person is —
 
@@ -1734,3 +1736,7 @@ This Legislative History is provided for the convenience of users of the Employm
 ||Date of First Reading|13 July 2015 (Bill No. 23/2015 published on 13 July 2015)|
 ||Date of Second and Third Readings|17 August 2015|
 ||Date of commencement|1 April 2016|
+|13.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
