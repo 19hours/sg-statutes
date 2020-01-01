@@ -498,6 +498,14 @@ and either the person who committed or is believed to have committed the offence
 
 [20/2001]
 
+(1A) For the purposes of subsection (1) —
+
+(a) a person (A) knowingly permits a child or young person (B) to be ill‑treated by another person (C) ifAbeing a person who has the custody, charge or care ofB, knows or has reason to believe thatBwas at risk of being ill‑treated byC, and failed to take such steps asAcould reasonably have been expected inA’s circumstances to take to protectBfrom that risk; and
+
+(b) A’s circumstances mentioned in paragraph (a) include but are not limited toA’s past or present experiences of being ill‑treated byC, if any.
+
+[Act 15 of 2019 wef 01/01/2020]
+
 (2) For the purposes of this Act, a person ill-treats a child or young person if that person, being a person who has the custody, charge or care of the child or young person —
 
 (a) subjects the child or young person to physical or sexual abuse;
@@ -534,11 +542,15 @@ and either the person who committed or is believed to have committed the offence
 
 (5) Subject to subsection (6), any person who is guilty of an offence under this section shall be liable on conviction —
 
-(a) in the case where death is caused to the child or young person, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 7 years or to both; and
+(a) in the case where death is caused to the child or young person, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 14 years or to both; and
 
-(b) in any other case, to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 4 years or to both.
+[Act 15 of 2019 wef 01/01/2020]
+
+(b) in any other case, to a fine not exceeding $8,000 or to imprisonment for a term not exceeding 8 years or to both.
 
 [20/2001]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (6) The court may, in lieu of or in addition to any punishment specified in subsection (5), order the person guilty of an offence under this section to execute a bond, with or without sureties, as the court may determine, to be of good behaviour for such period as the court thinks fit, and may include in such bond a condition requiring such person to undergo such counselling, psychotherapy or other programme as may be specified therein.
 
@@ -3011,6 +3023,10 @@ This Legislative History is provided for the convenience of users of the Childre
 ||Date of First Reading|6 February 2017 (Bill No. 7/2017 published on 6 February 2017)|
 ||Date of Second and Third Readings|28 February 2017|
 ||Date of commencement|2 January 2019|
+|16.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 Children and Young Persons Act
