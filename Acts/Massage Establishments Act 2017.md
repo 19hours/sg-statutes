@@ -1332,17 +1332,67 @@ Section 376E
 
 Sexual grooming of minor under 16
 
+15A.
+
+Section 376ED
+
+Sexual activity or image in presence of minor below 16 years of age
+
+15B.
+
+Section 376EE
+
+Exploitative sexual activity or image in presence of minor of or above 16 but below 18 years of age
+
 16.
 
 Section 376F
 
 Procurement of sexual activity with person with mental disability
 
+16A.
+
+Section 377BA
+
+Word or gesture intended to insult the modesty of any person
+
+16B.
+
+Section 377BB
+
+Voyeurism
+
+16C.
+
+Section 377BC
+
+Distribution of voyeuristic image or recording
+
+16D.
+
+Section 377BD
+
+Possession of or gaining access to voyeuristic or intimate image or recording
+
+16E.
+
+Section 377BE
+
+Distributing or threatening to distribute intimate image or recording
+
+16F.
+
+Section 377BF
+
+Sexual exposure
+
 17.
 
-Section 509
+Section 509 (as in force before the date of commencement of section 178 of the Criminal Law Reform Act 2019)
 
 Word or gesture intended to insult the modesty of a woman
+
+[Act 15 of 2019 wef 01/01/2020]
 
 Part 8
 
