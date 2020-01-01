@@ -320,7 +320,9 @@ Entitlement and liability for compensation
 
 (c) any injury to an employee suffered in a fight or an attempted assault on one or more persons unless —
 
-(i) the employee did not assault or attempt to assault any other person in the fight or attempted assault, or did assault any such person in the exercise of the right of private defence in accordance with sections 97 to 106 of the Penal Code (Cap. 224); or
+(i) the employee did not assault or attempt to assault any other person in the fight or attempted assault, or did assault any such person in the exercise of the right of private defence in accordance with sections 97 to 106A of the Penal Code (Cap. 224); or
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (ii) the employee was, at the time when the injury was received, breaking up or preventing the fight or assault, or in the course of safeguarding life or any property of any person or maintaining law and order, under any instruction or with the consent (whether express or implied) of his employer or a principal referred to in section 17.
 
@@ -2400,11 +2402,13 @@ Multiplying factor
 
 48.
 
-(2) The compensation payable under this paragraph shall in no case be more than $204,000 or be less than $69,000.
+(2) The compensation payable under this paragraph shall in no case be more than $225,000 or be less than $76,000.
 
 [S 200/2012 wef 01/06/2012]
 
 [S 586/2015 wef 01/01/2016]
+
+[S 787/2019 wef 01/01/2020]
 
 2.—(1) Where permanent total incapacity results from the injury, the amount of compensation shall be a lump sum which shall be obtained by multiplying the monthly earnings of the employee by the appropriate factor in the second column of the following Table according to the age on the next birthday of the employee at the time of the accident as specified in the first column thereof:
 
@@ -2630,11 +2634,13 @@ Multiplying factor
 
 72.
 
-(2) The compensation payable under this paragraph shall in no case be more than $262,000 or be less than $88,000.
+(2) The compensation payable under this paragraph shall in no case be more than $289,000 or be less than $97,000.
 
 [S 200/2012 wef 01/06/2012]
 
 [S 586/2015 wef 01/01/2016]
+
+[S 787/2019 wef 01/01/2020]
 
 (3) Notwithstanding sub-paragraph (2), where the injured employee is certified by a medical practitioner to have suffered from permanent total incapacity, additional compensation shall be paid amounting to one quarter of the amount which is otherwise payable under this paragraph.
 
@@ -2658,11 +2664,13 @@ Multiplying factor
 
 (a) the cost of medical treatment received by the employee within a period of one year after the happening of the accident causing the injury; or
 
-(b) $36,000 per accident per employee.
+(b) $45,000 per accident per employee.
 
 [S 200/2012 wef 01/06/2012]
 
 [S 586/2015 wef 01/01/2016]
+
+[S 787/2019 wef 01/01/2020]
 
 To avoid doubt, the cost of medical treatment includes, but is not limited to —
 
@@ -2736,50 +2744,64 @@ This Legislative History is provided for the convenience of users of the Work In
 |||(Bill No. 16/90 published on 15 June 1990)|
 ||Date of Second and Third Readings|18 July 1990|
 ||Date of commencement|1 September 1990|
-|5.|**1998 Revised Edition—Workmen’s Compensation Act (Chapter 354)**|
+|5.|**G. N. No. S 316/1995—The Workmen’s Compensation (Amendment of Second Schedule) Order 1995**|
+||Date of commencement|1 August 1995|
+|6.|**G. N. No. S 447/1995—The Workmen’s Compensation (Amendment of Third Schedule) Order 1995**|
+||Date of commencement|1 January 1996|
+|7.|**1998 Revised Edition—Workmen’s Compensation Act (Chapter 354)**|
 ||Date of operation|15 December 1998|
-|6.|**G. N. No. S 254/2003—Workmen’s Compensation Act (Amendment of Second Schedule) Order 2003**|
+|8.|**G. N. No. S 254/2003—Workmen’s Compensation Act (Amendment of Second Schedule) Order 2003**|
 ||Date of commencement|19 May 2003|
-|7.|**G. N. No. S 68/2004—Workmen’s Compensation Act (Amendment of Second Schedule) Order 2004**|
+|9.|**G. N. No. S 68/2004—Workmen’s Compensation Act (Amendment of Second Schedule) Order 2004**|
 ||Date of commencement|16 February 2004|
-|8.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+|10.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
 ||Date of First Reading|12 November 2007|
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
-|9.|**2009 Revised Edition—Work Injury Compensation Act**|
+|11.|**2009 Revised Edition—Work Injury Compensation Act**|
 ||Date of operation|31 July 2009|
-|10.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+|12.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 ||Date of Second and Third Readings|16 September 2009|
 ||Date of commencement|1 March 2010|
-|11.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|13.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|12.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
+|14.|**Act 2 of 2012—Statutes (Miscellaneous Amendments) Act 2012**|
 ||Date of First Reading|21 November 2011 (Bill No. 22/2012 published on 21 November 2011)|
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
-|13.|**Act 21 of 2011—Work Injury Compensation (Amendment) Act 2011**|
+|15.|**Act 21 of 2011—Work Injury Compensation (Amendment) Act 2011**|
 ||Date of First Reading|17 October 2011 (Bill No. 18/2011 published on 17 October 2011)|
 ||Date of Second and Third Readings|21 November 2011|
 ||Date of commencement|1 June 2012|
-|14.|**G.N. No. S 200/2012—Work Injury Compensation Act (Amendment of Second and Third Schedules) Order 2012**|
+|16.|**G.N. No. S 200/2012—Work Injury Compensation Act (Amendment of Second and Third Schedules) Order 2012**|
 ||Date of commencement|1 June 2012|
-|15.|**Act 6 of 2014—Merchant Shipping (Maritime Labour Convention) Act 2014**|
+|17.|**Act 6 of 2014—Merchant Shipping**|
+|**
+**|
+|**(Maritime Labour Convention) Act 2014**|
 ||Date of First Reading|11 November 2013 (Bill No. 27/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 April 2014|
-|16.|**G.N. No. S 586/2015—Work Injury Compensation Act (Amendment of Third Schedule) Order 2015**|
+|18.|**G.N. No. S 586/2015—Work Injury Compensation Act (Amendment of Third Schedule) Order 2015**|
 ||Date of commencement|1 January 2016|
-|17.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
+|19.|**Act 16 of 2016—Statutes (Miscellaneous Amendments) Act 2016**|
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
-|18.|**Act 29 of 2016—Merchant Shipping (Maritime Labour Convention) (Amendment) Act 2016**|
+|20.|**Act 29 of 2016—Merchant Shipping (Maritime Labour Convention) (Amendment) Act 2016**|
 ||Date of First Reading|10 October 2016 (Bill No. 29/2016 published on 10 October 2016)|
 ||Date of Second and Third Readings|9 November 2016|
 ||Date of commencement|18 January 2017|
+|21.|**G.N. No. S 787/2019—Work Injury Compensation Act (Amendment of Third Schedule) Order 2019**|
+||Date of commencement|1 January 2020|
+|22.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019|
+|||(Bill No. 6/2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
