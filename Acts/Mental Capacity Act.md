@@ -1674,9 +1674,13 @@ and P is 16 years of age or above.
 
 (6) Subject to subsection (7), any person who is guilty of an offence under this section shall be liable on conviction —
 
-(a) in the case where death is caused to P, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 7 years or to both; and
+(a) in the case where death is caused to P, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 14 years or to both; and
 
-(b) in any other case, to a fine not exceeding $4,000 or to imprisonment for a term not exceeding 4 years or to both.
+[Act 15 of 2019 wef 01/01/2020]
+
+(b) in any other case, to a fine not exceeding $8,000 or to imprisonment for a term not exceeding 8 years or to both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (7) The court may, in lieu of or in addition to any punishment specified in subsection (6), order the person guilty of an offence under this section to execute a bond, with or without sureties, as the court may determine, to be of good behaviour for such period as the court thinks fit, and may include in such bond a condition requiring such person to undergo such counselling, psychotherapy or other programme as may be specified therein.
 
@@ -2494,3 +2498,7 @@ This Legislative History is provided for the convenience of users of the Mental 
 ||Date of commencement|1 September 2018|
 |14.|**G.N. No. S 500/2019—Mental Capacity Act (Amendment of First Schedule) Order 2019**|
 ||Date of commencement|1 August 2019|
+|15.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
