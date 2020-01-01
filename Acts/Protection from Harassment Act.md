@@ -18,15 +18,19 @@
 
 - [4 Harassment, alarm or distress](#Harassment-alarm-or-distress)
 
-- [5 Fear or provocation of violence](#Fear-or-provocation-of-violence)
+- [5 Fear, provocation or facilitation of violence](#Fear-provocation-or-facilitation-of-violence)
 
-- [6 Threatening, abusing or insulting public servant or public service worker](#Threatening-abusing-or-insulting-public-servant-or-public-service-worker)
+- [6 Offences in relation to public servant or public service worker](#Offences-in-relation-to-public-servant-or-public-service-worker)
 
 - [7 Unlawful stalking](#Unlawful-stalking)
 
 - [8 Enhanced penalty for subsequent offence](#Enhanced-penalty-for-subsequent-offence)
 
-- [8A Enhanced penalty for offence against vulnerable adult](#Enhanced-penalty-for-offence-against-vulnerable-adult)
+- [8A Enhanced penalty for offence against vulnerable person](#Enhanced-penalty-for-offence-against-vulnerable-person)
+
+- [8B Enhanced penalty for offence against victim in intimate relationship with offender](#Enhanced-penalty-for-offence-against-victim-in-intimate-relationship-with-offender)
+
+- [8C Application of sections 8A and 8B](#Application-of-sections-8A-and-8B)
 
 - [9 Community order](#Community-order)
 
@@ -86,13 +90,139 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“communication” means any words, image, message, expression, symbol or other representation, that can be heard, seen or otherwise perceived by any person;
+“author”, in relation to a statement of fact, means the originator of the statement;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“communication” means any words, image (moving or otherwise), message, expression, symbol or other representation that can be seen, heard or otherwise perceived by any person, or any combination of these;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“computing resource service” means a service that provides processing capability or storage capacity through the use of any computer hardware or software;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“correction order” means an order made under section 15B;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“court”, for the purposes of sections 12 and 13, means a District Court;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“electronic” means relating to technology having electrical, digital, magnetic, wireless, optical, electromagnetic or similar capabilities;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“entity” means any company or association or body of persons (whether corporate or unincorporate), but excludes any public agency;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“identity information” means any information that, whether on its own or with other information, identifies or purports to identify an individual, including (but not limited to) any of the following:
+
+(a) the individual’s name, residential address, email address, telephone number, date of birth, national registration identity card number, passport number, signature (whether handwritten or electronic) or password;
+
+(b) any photograph or video recording of the individual;
+
+(c) any information about the individual’s family, employment or education;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“interim notification order” means an order made under section 16B;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“interim stop publication order” means an order made under section 16A;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“internet intermediary” means a person who provides any internet intermediary service;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“internet intermediary service” means —
+
+(a) a service that allows end‑users to access materials originating from third parties, using the internet;
+
+(b) a service of transmitting materials to end‑users on or through the internet; or
+
+(c) a service of displaying, to an end-user who uses the service to make an online search, an index of search results, each of which links that end‑user to content hosted or stored at a location which is separate from the location of the index of search results,
+
+but excludes any act done for the purpose of or that is incidental to the provision of —
+
+(d) a service of giving the public access to the internet; or
+
+(e) a computing resource service;
+
+Examples
+
+Examples of internet intermediary services are —
+
+(a)
+
+social networking services;
+
+(b)
+
+search engine services;
+
+(c)
+
+content aggregation services;
+
+(d)
+
+internet‑based messaging services; and
+
+(e)
+
+video‑sharing services.
+
+[Act 17 of 2019 wef 01/01/2020]
 
 “offending communication”, in relation to any contravention of a provision under this Act, means any communication or statement made in contravention of that provision;
 
-“publish”, in relation to a communication or statement, means to make the communication or statement available in any form such that the communication or statement is or can be heard, seen or otherwise perceived by the public in Singapore or any section of the public in Singapore, and includes cause to be published;
+“online location” means any internet website, webpage, chatroom or forum, or any other thing that is hosted on a computer (within the meaning of the Computer Misuse Act (Cap. 50A)) and can be seen, heard or otherwise perceived by means of the internet;
 
-“respondent”, in relation to an action under section 11 or an application for an order under section 12 or 13, in respect of a contravention of a provision of this Act, means the person alleged to have contravened that provision for the purposes of that action or application.
+[Act 17 of 2019 wef 01/01/2020]
+
+“Part 3 proceedings” means civil proceedings for claims and orders under Part 3;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“public agency” has the meaning given by section 128A(6) of the Evidence Act (Cap. 97);
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“publish”, in relation to a communication or statement, means to make the communication or statement available in any form such that the communication or statement is or can be heard, seen or otherwise perceived by the public in Singapore or a member of the public in Singapore, and includes cause to be published;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+[Deleted by Act 17 of 2019 wef 01/01/2020]
+
+“related person”, in relation to a person, means another person about whose safety or well‑being the firstmentioned person would reasonably be expected to be seriously concerned;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“relevant party”, in relation to an order, means an individual or entity against which the order is made;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“shared residence”, in relation to the victim and the respondent who are the subjects of a protection order, means the premises at which the victim and the respondent are, or have been, living together as members of the same household;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“statement” means any words (including abbreviations and initials), numbers, image (moving or otherwise), sounds, symbols or other representation, or a combination of any of these;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“stop publication order” means an order made under section 15A;
+
+[Act 17 of 2019 wef 01/01/2020]
+
+“stop publishing”, in relation to a communication, means taking the reasonable steps to ensure that the communication is not made available in any form such that the communication is or can be seen, heard or otherwise perceived by the public in Singapore or any member of the public in Singapore.
+
+[Act 17 of 2019 wef 01/01/2020]
 
 ## PART 2
 
@@ -100,17 +230,23 @@ OFFENCES
 
 ### Intentionally causing harassment, alarm or distress
 
-3\.—(1) No person shall, with intent to cause harassment, alarm or distress to another person, by any means —
+3\.—(1) An individual or entity must not, with intent to cause harassment, alarm or distress to another person (called in this section the target person), by any means —
 
-(a) use any threatening, abusive or insulting words or behaviour; or
+(a) use any threatening, abusive or insulting words or behaviour;
 
-(b) make any threatening, abusive or insulting communication,
+(b) make any threatening, abusive or insulting communication; or
 
-thereby causing that other person or any other person (each referred to for the purposes of this section as the victim) harassment, alarm or distress.
+(c) publish any identity information of the target person or a related person of the target person,
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+and as a result causing the target person or any other person (each called in this section the victim) harassment, alarm or distress.
 
-(3) In any proceedings for an offence under subsection (2), it is a defence for the accused person to prove that his conduct was reasonable.
+[Act 17 of 2019 wef 01/01/2020]
+
+(2) Any individual or entity that contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(3) In any proceedings for an offence under subsection (2), it is a defence for the accused individual or accused entity (called in this section the accused) to prove that the accused’s conduct was reasonable.
 
 Illustrations
 
@@ -118,9 +254,15 @@ Illustrations
 
 (b) X writes a letter containing threatening words towards Y intending to send the letter to Y to cause him alarm. X decides not to send the letter and throws it away. Y finds the letter and is alarmed. X is not guilty of an offence under this section as he had no reason to believe that the letter would be seen by Y.
 
+(c) X and Y were formerly in a relationship which has since ended. X writes a post on a social media platform making abusive and insulting remarks about Y’s alleged sexual promiscuity. In a subsequent post, X includes Y’s photographs and personal mobile number, intending to cause Y harassment by facilitating the identification or contacting of Y by others. Y did not see the posts, but receives and is harassed by telephone calls and SMS messages from strangers (who have read the posts) propositioning Y for sex. X is guilty of an offence under section 3(2) in relation to each post.
+
+(d) X records a video of Y driving recklessly in a car on the road. X posts the video on an online forum, where people share snippets of dangerous acts of driving on the road. X posts the video with the intent to warn people to drive defensively. X has not committed an offence under this section.
+
+[Act 17 of 2019 wef 01/01/2020]
+
 ### Harassment, alarm or distress
 
-4\.—(1) No person shall by any means —
+4\.—(1) An individual or entity must not by any means —
 
 (a) use any threatening, abusive or insulting words or behaviour; or
 
@@ -128,21 +270,35 @@ Illustrations
 
 which is heard, seen or otherwise perceived by any person (referred to for the purposes of this section as the victim) likely to be caused harassment, alarm or distress.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000.
+[Act 17 of 2019 wef 01/01/2020]
 
-(3) In any proceedings for an offence under subsection (2), it is a defence for the accused person to prove —
+(2) Any individual or entity that contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000.
 
-(a) that he had no reason to believe that the words or behaviour used, or the communication made, by him would be heard, seen or otherwise perceived by the victim; or
+[Act 17 of 2019 wef 01/01/2020]
 
-(b) that his conduct was reasonable.
+(3) In any proceedings for an offence under subsection (2), it is a defence for the accused individual or accused entity (called in this section the accused) to prove —
 
-Illustration
+(a) that the accused had no reason to believe that the words or behaviour used, or the communication made, by the accused would be heard, seen or otherwise perceived by the victim; or
 
-X and Y are classmates. X posts a vulgar tirade against Y on a website accessible to all of their classmates. One of Y’s classmates shows the message on the website to Y, and Y is distressed. X is guilty of an offence under this section.
+[Act 17 of 2019 wef 01/01/2020]
 
-### Fear or provocation of violence
+(b) that the accused’s conduct was reasonable.
 
-5\.—(1) No person shall by any means use towards another person (referred to for the purposes of this section as the victim) any threatening, abusive or insulting words or behaviour, or make any threatening, abusive or insulting communication to another person (referred to also for the purposes of this section as the victim), either —
+[Act 17 of 2019 wef 01/01/2020]
+
+Illustrations
+
+(a) X and Y are classmates. X posts a vulgar tirade against Y on a website accessible to all of their classmates. One of Y’s classmates shows the message on the website to Y, and Y is distressed. X is guilty of an offence under this section.
+
+(b) X and Y are classmates. X gathers with other classmates outside Y’s family home, where Y lives with Y’s parents, and shouts threats at Y. Y is not at home. Y’s mother hears X’s threats and is distressed, because she fears for Y’s safety. X is guilty of an offence under this section.
+
+(c) X enters a bus station and starts to brandish a sword. Several persons present are alarmed by X’s behaviour. X is guilty of an offence under this section even though X’s actions were not directed at anyone.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+### Fear, provocation or facilitation of violence
+
+5\.—(1) An individual or entity must not by any means use towards another person (called in this section, except subsection (1A), the victim) any threatening, abusive or insulting words or behaviour, or make any threatening, abusive or insulting communication to another person (also called in this section, except subsection (1A), the victim), either —
 
 (a) with the intent —
 
@@ -156,33 +312,87 @@ X and Y are classmates. X posts a vulgar tirade against Y on a website accessibl
 
 (ii) it is likely that such violence referred to in paragraph (a)(ii) will be provoked.
 
-(2) Any person who contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+[Act 17 of 2019 wef 01/01/2020]
 
-(3) In any proceedings for an offence under subsection (2), it is a defence for the accused person to prove —
+(1A) An individual or entity must not by any means publish any identity information of another person (called in this subsection the victim) or a related person of the victim, either —
 
-(a) in respect of a contravention of subsection (1)(b), that he had no reason to believe that the words or behaviour used, or the communication made, by him would be heard, seen or otherwise perceived by the victim; or
+(a) with the intent —
 
-(b) that his conduct was reasonable.
+(i) to cause the victim to believe that unlawful violence will be used against the victim or any other person; or
 
-### Threatening, abusing or insulting public servant or public service worker
+(ii) to facilitate the use of unlawful violence against the victim or any other person; or
 
-6\.—(1) No person shall by any means —
+(b) knowing or having reasonable cause to believe that it is likely —
 
-(a) use any indecent, threatening, abusive or insulting words or behaviour; or
+(i) to cause the victim to believe that unlawful violence will be used against the victim or any other person; or
 
-(b) make any indecent, threatening, abusive or insulting communication,
+(ii) to facilitate the use of unlawful violence against the victim or any other person.
 
-towards or to a public servant or public service worker (referred to for the purposes of this section as the victim) in relation to the execution of the victim’s duty as such public servant or public service worker.
+[Act 17 of 2019 wef 01/01/2020]
 
-(2) No offence is committed under this section unless the person knows or ought reasonably to know that the victim was acting in his capacity as a public servant or public service worker, as the case may be.
+(2) Any individual or entity that contravenes subsection (1) or (1A) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(3) Any person who contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+[Act 17 of 2019 wef 01/01/2020]
 
-(4) In any proceedings for an offence under subsection (3), it is a defence for the accused person to prove —
+(3) In any proceedings for an offence under subsection (2), it is a defence for the accused individual or accused entity (called in this section the accused) to prove —
 
-(a) that he had no reason to believe that the words or behaviour used, or the communication made, by him would be heard, seen or otherwise perceived by the victim; or
+(a) in respect of a contravention of subsection (1)(b), that the accused had no reason to believe that the words or behaviour used, or the communication made, by the accused would be heard, seen or otherwise perceived by the victim; or
 
-(b) that his conduct was reasonable.
+[Act 17 of 2019 wef 01/01/2020]
+
+(b) that the accused’s conduct was reasonable.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+Illustrations
+
+(a) X and Y are classmates. X writes a post with threatening and abusive remarks against Y on a website accessible to all their classmates. X writes a subsequent post on the same website, stating Y’s identity information and stating “Everyone, let’s beat Y up!”. X is guilty of an offence under this section in respect of the subsequent post.
+
+(b) X writes a public post on a social media platform containing threats against Y. X publishes a subsequent public post stating A’s home address and a message “I know where you live”. X is guilty of an offence under this section relating to conduct mentioned in section 5(1A)(a)(i) if X intends the subsequent post to cause Y to believe that violence will be used against A, or an offence under this section relating to conduct mentioned in section 5(1A)(b)(i) if X knows that it is likely that Y will believe that violence will be used against Y as a result of X’s subsequent post.
+
+(c) X writes a post (on a social media platform to which Y does not have access) containing threats of violence against Y and calling others to “hunt him down and teach him a lesson”. B posts Y’s home address in reply to X’s post. B is guilty of an offence under this section.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+### Offences in relation to public servant or public service worker
+
+6\.—(1) An individual or entity that by any means —
+
+(a) uses any indecent, threatening, abusive or insulting words or behaviour; or
+
+(b) makes any indecent, threatening, abusive or insulting communication,
+
+towards or to a public servant or public service worker (called in this section, except subsection (1A), the victim) in relation to the execution of the duty of the public servant or public service worker, shall be guilty of an offence.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(1A) An individual or entity that contravenes section 3(1)(c) (in relation to a target person under section 3(1)(c) who is a public servant or public service worker) —
+
+(a) with the intent to prevent or deter that public servant or public service worker from discharging the duty of that public servant or public service worker; or
+
+(b) in consequence of anything done or attempted to be done by that public servant or public service worker in the lawful discharge of the duty of that public servant or public service worker,
+
+shall be guilty of an offence.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(2) No offence is committed under this section unless the accused individual or accused entity (called in this section the accused) knows or ought reasonably to know that the victim was acting in his capacity as a public servant or public service worker, as the case may be.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(3) Subject to section 8, an individual or entity shall be liable, on conviction for an offence under subsection (1) or (1A), to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(4) It is a defence for the accused to prove —
+
+(a) in any proceedings for an offence under subsection (1), that the accused had no reason to believe that the words or behaviour used, or the communication made, by the accused would be heard, seen or otherwise perceived by the victim; or
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(b) in any proceedings for an offence under subsection (1) or (1A), that the accused’s conduct was reasonable.
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (5) In this section —
 
@@ -194,21 +404,33 @@ towards or to a public servant or public service worker (referred to for the pur
 
 (7) Every order made under subsection (6) shall be presented to Parliament as soon as possible after publication in theGazette.
 
+Illustration
+
+X is unhappy that a public servant, Y, refused to waive a late payment charge. X writes several posts on an open social media platform with abusive comments about Y in relation to the incident. In a subsequent post, X posts Y’s name, home address and photograph on the same open social media platform in order to cause Y distress. Y is distressed by the subsequent post. X is guilty of an offence under this section.
+
+[Act 17 of 2019 wef 01/01/2020]
+
 ### Unlawful stalking
 
-7\.—(1) No person shall unlawfully stalk another person.
+7\.—(1) An individual or entity must not unlawfully stalk another person.
 
-(2) Subject to subsection (7), a person (referred to in this section as the accused person) unlawfully stalks another person (referred to for the purposes of this section as the victim) if the accused person engages in a course of conduct which —
+[Act 17 of 2019 wef 01/01/2020]
+
+(2) Subject to subsection (7), an individual or entity (called in this section the accused) unlawfully stalks another person (referred to for the purposes of this section as the victim) if the accused engages in a course of conduct which —
 
 (a) involves acts or omissions associated with stalking;
 
 (b) causes harassment, alarm or distress to the victim; and
 
-(c) the accused person —
+(c) the accused —
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (i) intends to cause harassment, alarm or distress to the victim; or
 
 (ii) knows or ought reasonably to know is likely to cause harassment, alarm or distress to the victim.
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (3) The following are examples of acts or omissions which, in particular circumstances, are ones associated with stalking:
 
@@ -224,7 +446,9 @@ towards or to a public servant or public service worker (referred to for the pur
 
 (c) entering or loitering in any place (whether public or private) outside or near the victim’s or a related person’s place of residence or place of business or any other place frequented by the victim or the related person;
 
-(d) interfering with property in the possession of the victim or a related person (whether or not the accused person has an interest in the property);
+(d) interfering with property in the possession of the victim or a related person (whether or not the accused has an interest in the property);
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (e) giving or sending material to the victim or a related person, or leaving it where it will be found by, given to or brought to the attention of, the victim or a related person;
 
@@ -240,7 +464,9 @@ These acts are acts associated with stalking of X by Y:
 
 (c) Y repeatedly circulates revealing photographs of a classmate (X) to other classmates.
 
-(4) For the purposes of subsection (2)(c), the accused person ought reasonably to know that his course of conduct is likely to cause harassment, alarm or distress to the victim if a reasonable person in possession of the same information would think that the course of conduct is likely to have that effect.
+(4) For the purposes of subsection (2)(c), the accused ought reasonably to know that the accused’s course of conduct is likely to cause harassment, alarm or distress to the victim if a reasonable person in possession of the same information would think that the course of conduct is likely to have that effect.
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (5) In considering whether a course of conduct is likely to cause harassment, alarm or distress, the court may have regard to the following factors:
 
@@ -258,9 +484,11 @@ These acts are acts associated with stalking of X by Y:
 
 (g) the circumstances of the victim including his physical or mental health and personality.
 
-(6) Any person who contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+(6) Any individual or entity that contravenes subsection (1) shall be guilty of an offence and, subject to section 8, shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(7) In any proceedings for an offence under subsection (6), it is a defence for the accused person to prove —
+[Act 17 of 2019 wef 01/01/2020]
+
+(7) In any proceedings for an offence under subsection (6), it is a defence for the accused to prove —
 
 (a) that the course of conduct was reasonable in all the circumstances;
 
@@ -270,7 +498,11 @@ These acts are acts associated with stalking of X by Y:
 
 (d) that the course of conduct was done on behalf of the Government and was necessary for the purposes of national security, national defence or the conduct of international relations.
 
-(8) If any dispute arises as to whether any act falls within paragraph (d) of subsection (7), a certificate issued under the hand of the Minister responsible for national security, or for national defence or for the conduct of international relations, as the case may be, stating that in his opinion any act done by a specified person on a specified occasion falls within that paragraph shall be conclusive evidence that the act falls within that paragraph.
+[Act 17 of 2019 wef 01/01/2020]
+
+(8) If any dispute arises as to whether any act falls within paragraph (d) of subsection (7), a certificate issued under the hand of the Minister responsible for national security, or for national defence or for the conduct of international relations, as the case may be, stating that in his opinion any act done by a specified individual or specified entity on a specified occasion falls within that paragraph shall be conclusive evidence that the act falls within that paragraph.
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (9) A document purporting to be a certificate issued pursuant to subsection (8) and to be issued under the hand of the Minister shall be received in evidence and, unless the contrary is proved, be treated as being such a certificate.
 
@@ -282,11 +514,13 @@ These acts are acts associated with stalking of X by Y:
 
 (i) the conduct is protracted; or
 
-(ii) the accused person has a previous conviction under this section in respect of the same victim; or
+(ii) the accused has a previous conviction under this section in respect of the same victim; or
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (b) on 2 or more occasions in any other case;
 
-“related person”, in relation to the victim, means a person about whose safety or well‑being the victim would reasonably be expected to be seriously concerned.
+[Deleted by Act 17 of 2019 wef 01/01/2020]
 
 Illustration
 
@@ -294,7 +528,7 @@ Y surreptitiously plants a camera in X’s apartment. Unknown to X, the camera c
 
 ### Enhanced penalty for subsequent offence
 
-8\. A person who is convicted (whether before, on or after 15 November 2014) of any offence under the repealed section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in force before that date or who is convicted of any offence under section 3, 4, 5, 6 or 7 shall, on a subsequent conviction —
+8\.—(1) An individual or entity that is convicted (whether before, on or after 15 November 2014) of any offence under the repealed section 13A, 13B, 13C or 13D of the Miscellaneous Offences (Public Order and Nuisance) Act (Cap. 184) in force before that date or who is convicted of any offence under section 3, 4, 5, 6 or 7 shall, on a subsequent conviction —
 
 (a) for an offence under section 3, be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both;
 
@@ -306,23 +540,103 @@ Y surreptitiously plants a camera in X’s apartment. Unknown to X, the camera c
 
 (e) for an offence under section 7, be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-### Enhanced penalty for offence against vulnerable adult
+[Act 17 of 2019 wef 01/01/2020]
 
-8A\.—(1) This section applies where —
+(2) An individual or entity that is convicted (whether before, on or after the date of commencement of section 9 of the Protection from Harassment (Amendment) Act 2019) of an offence under section 10 shall, on a subsequent conviction for an offence under section 10 that is committed on or after that date, be liable to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-(a) a person is convicted on or after the date of commencement of the Vulnerable Adults Act 2018 of an offence under section 3, 4, 5 or 7 (called in this section the offender) against a vulnerable adult; and
+[Act 17 of 2019 wef 01/01/2020]
 
-(b) the offender has no prior conviction (whether before, on or after that date) of the offence under section 3, 4, 5 or 7 (as the case may be), whether or not the prior conviction is for an offence against a vulnerable adult.
+### Enhanced penalty for offence against vulnerable person
 
-(2) The court may sentence the offender to punishment not exceeding one and a half times the maximum punishment that the court could, but for this section, impose for the offence, if at the time of committing the offence the offender knew or ought reasonably to have known that the victim was a vulnerable adult.
+8A\.—(1) This section applies where an individual or entity (called in this section the offender) is convicted of any of the following offences relating to a victim who is a vulnerable person and the enhanced penalty under section 8 does not apply to that conviction:
 
-(3) In this section, “vulnerable adult” has the meaning given by section 2 of the Vulnerable Adults Act 2018.
+(a) an offence under section 3, 4, 5 or 7 that is committed on or after the date of commencement of section 10 of the Protection from Harassment (Amendment) Act 2019 against such a victim; or
 
-[Act 27 of 2018 wef 19/12/2018]
+(b) an offence under section 10 that is committed on or after the date of commencement of section 10 of the Protection from Harassment (Amendment) Act 2019 for failure to comply with an order given in respect of such a victim of a contravention of section 3, 4, 5 or 7.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(2) The court may sentence the offender to punishment not exceeding twice the maximum punishment that the court could, but for this section, impose for the offence, if at the time of committing the offence the offender knew or ought reasonably to have known that the victim was a vulnerable person.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(2A) This section does not apply where the offender proves that despite being a vulnerable person, the victim was capable of protecting himself from the offender in respect of the harm caused by the offence in the same manner as an ordinary person who is not a vulnerable person.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(3) In this section —
+
+“abuse” has the meaning given by section 2(1) of the Vulnerable Adults Act 2018 (Act 27 of 2018);
+
+“harm” means —
+
+(a) any physical harm;
+
+(b) harassment, alarm or distress; or
+
+(c) being caused to believe that unlawful violence will be used against the victim;
+
+“neglect” has the meaning given by section 2(1) of the Vulnerable Adults Act 2018;
+
+“self-neglect” has the meaning given by section 2(1) of the Vulnerable Adults Act 2018;
+
+“vulnerable person” means an individual who is, by reason of mental or physical infirmity, disability or incapacity, substantially unable to protect himself from abuse, neglect or self‑neglect.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+### Enhanced penalty for offence against victim in intimate relationship with offender
+
+8B\.—(1) This section applies where an offender (A) is convicted of —
+
+(a) an offence under section 3, 4, 5 or 7 that is committed on or after the date of commencement of section 11 of the Protection from Harassment (Amendment) Act 2019 against a victim who was or is in an intimate relationship withA; or
+
+(b) an offence under section 10 that is committed on or after the date of commencement of section 11 of the Protection from Harassment (Amendment) Act 2019 for failure to comply with an order given in respect of a victim of a contravention of section 3, 4, 5 or 7 who was or is in an intimate relationship withA,
+
+and the enhanced penalty under section 8 does not apply to that conviction.
+
+(2) The court may sentenceAto punishment not exceeding twice the maximum punishment that the court could impose for the offence under section 3, 4, 5, 7 or 10 (as the case may be), if at the time of committing the offenceAknew or ought reasonably to have known that the victim (B) was or is in an intimate relationship withA.
+
+(3) In this section, the court may determine whetherBwas or is in an intimate relationship withAhaving regard to all the circumstances of the case, including the following:
+
+(a) whetherAandBare living in the same household, although it is not necessary that they live in the same household;
+
+(b) whetherAandBshare the tasks and duties of their daily lives;
+
+(c) whetherAandBhave made arrangements to share expenses or financial support and the degree of financial dependence or interdependence betweenAandB;
+
+(d) whether there is a sexual relationship betweenAandB, although it is not necessary that there be a sexual relationship between them;
+
+(e) whetherAandBshare the care and support of a specific person below 21 years of age;
+
+(f) whetherAandBconduct themselves toward their friends, relatives or other persons as parties to an intimate relationship, and whetherAandBare so treated by their friends, relatives or other persons.
+
+(4) Subsection (2) does not apply whereAproves that, despiteAhaving been or being in an intimate relationship withB, the relationship betweenAandBdid not adversely affectB’s ability to protectBfromAin respect of the harm caused by the offence.
+
+(5) In subsection (4), “harm” means —
+
+(a) any physical harm;
+
+(b) harassment, alarm or distress; or
+
+(c) being caused to believe that unlawful violence will be used against the victim.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+### Application of sections 8A and 8B
+
+8C\. Where sections 8A and 8B are both applicable to enhance the punishment for an offence —
+
+(a) the punishment for that offence shall not be enhanced by the application of more than one section; and
+
+(b) the court may determine which section should apply to enhance the punishment.
+
+[Act 17 of 2019 wef 01/01/2020]
 
 ### Community order
 
-9\. A court shall, upon the conviction of any person for any offence under section 3, 4, 5, 6 or 7, have the power to make a community order under Part XVII of the Criminal Procedure Code (Cap. 68) despite any provision to the contrary in section 337(1)(h) of that Code.
+9\. A court shall, upon the conviction of any person for any offence under section 3, 4, 5, 6, 7 or 10, have the power to make a community order under Part XVII of the Criminal Procedure Code (Cap. 68) despite any provision to the contrary in section 337(1)(h) of that Code.
+
+[Act 17 of 2019 wef 01/01/2020]
 
 ### Contravention of certain orders
 
@@ -472,51 +786,75 @@ GENERAL
 
 (b) have jurisdiction to make any order under section 12 or 13 on the basis of a contravention of section 3, 4, 5, 6 or 7.
 
-(2) Where the victim under section 3, 4, 5 or 6 was outside Singapore when the accused person or respondent (as the case may be) used the words or behaviour, or made the communication in contravention of any such section, the court shall have jurisdiction if the accused person or respondent (as the case may be) was in Singapore when he used those words or behaviour or made that communication, as the case may be.
+(2) Where the victim under section 3, 4, 5 or 6 was outside Singapore when the accused or respondent (as the case may be) used the words or behaviour, made the communication or published the identity information, in contravention of any such section, the court shall have jurisdiction if the accused or respondent (as the case may be) was in Singapore when that accused or respondent used those words or behaviour, made that communication or published that identity information, as the case may be.
 
-(3) Where the accused person or respondent (as the case may be) was outside Singapore when he used the words or behaviour, or made the communication, in contravention of section 3, the court shall have jurisdiction if —
+[Act 17 of 2019 wef 01/01/2020]
 
-(a) the victim of the contravention was in Singapore when the use of those words or behaviour or the making of that communication caused the victim harassment, alarm or distress; and
+(3) Where the accused or respondent (as the case may be) was outside Singapore when that accused or respondent used the words or behaviour, made the communication or published the identity information, in contravention of section 3, the court shall have jurisdiction if —
 
-(b) the accused person or respondent (as the case may be) knew or had reason to believe that the victim of the contravention would be in Singapore at the time referred to in paragraph (a).
+(a) the victim of the contravention was in Singapore when the use of those words or behaviour, the making of that communication or that publication of identity information caused the victim harassment, alarm or distress; and
 
-(4) Where the accused person or respondent (as the case may be) was outside Singapore when he used the words or behaviour, or made the communication, in contravention of section 4, 5 or 6, the court shall have jurisdiction if —
+[Act 17 of 2019 wef 01/01/2020]
 
-(a) the victim of the contravention was in Singapore when the victim heard, saw or otherwise perceived those words or behaviour or that communication; and
+(b) the accused or respondent (as the case may be) knew or had reason to believe that the victim of the contravention would be in Singapore at the time referred to in paragraph (a).
 
-(b) the accused person or respondent (as the case may be) knew or had reason to believe that the victim of the contravention would be in Singapore at the time referred to in paragraph (a).
+[Act 17 of 2019 wef 01/01/2020]
 
-(5) Where the victim under section 7 was outside Singapore when any of the acts or omissions associated with unlawful stalking occurred in contravention of that section, the court shall have jurisdiction if the accused person or respondent (as the case may be) was in Singapore when any of those acts or omissions occurred.
+(4) Where the accused or respondent (as the case may be) was outside Singapore when that accused or respondent used the words or behaviour, made the communication or published the identity information, in contravention of section 4, 5 or 6, the court shall have jurisdiction if —
 
-(6) Where the accused person or respondent (as the case may be) was outside Singapore when any of the acts or omissions associated with unlawful stalking occurred in contravention of section 7, the court shall have jurisdiction if —
+(a) the victim of the contravention was in Singapore when the victim heard, saw or otherwise perceived those words or behaviour, that communication or that identity information; and
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(b) the accused or respondent (as the case may be) knew or had reason to believe that the victim of the contravention would be in Singapore at the time referred to in paragraph (a).
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(5) Where the victim under section 7 was outside Singapore when any of the acts or omissions associated with unlawful stalking occurred in contravention of that section, the court shall have jurisdiction if the accused or respondent (as the case may be) was in Singapore when any of those acts or omissions occurred.
+
+[Act 17 of 2019 wef 01/01/2020]
+
+(6) Where the accused or respondent (as the case may be) was outside Singapore when any of the acts or omissions associated with unlawful stalking occurred in contravention of section 7, the court shall have jurisdiction if —
 
 (a) the victim of the contravention was in Singapore when any of those acts or omissions occurred; and
 
-(b) the accused person or respondent (as the case may be) knew or had reason to believe that the victim of the contravention was in Singapore at the time referred to in paragraph (a).
+(b) the accused or respondent (as the case may be) knew or had reason to believe that the victim of the contravention was in Singapore at the time referred to in paragraph (a).
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (7) Without prejudice to the jurisdiction and power conferred under this Act or any other written law, the court shall in the circumstances specified in subsections (8) and (9) have jurisdiction to try any offence under section 10 for failure to comply with an order and impose the full punishment under this Act.
 
-(8) In the case of an order prohibiting the respondent from doing any thing in relation to the victim or (in the case of a contravention of section 7) to any related person specified in the order, where the victim or the related person was outside Singapore when the respondent did any thing prohibited by the order, the court shall have jurisdiction if the respondent was in Singapore when he did that thing.
+(8) In the case of an order prohibiting the respondent from doing any thing in relation to the victim or to any related person specified in the order, where the victim or the related person was outside Singapore when the respondent did any thing prohibited by the order, the court shall have jurisdiction if the respondent was in Singapore when that respondent did that thing.
 
-(9) In the case of an order prohibiting the respondent from doing any thing in relation to the victim or (in the case of a contravention of section 7) to any related person specified in the order, the court shall have jurisdiction —
+[Act 17 of 2019 wef 01/01/2020]
 
-(a) where the respondent was outside Singapore when he failed to comply with an order prohibiting him from doing any thing in relation to the victim, if —
+(9) In the case of an order prohibiting the respondent from doing any thing in relation to the victim or to any related person specified in the order, the court shall have jurisdiction —
+
+(a) where the respondent was outside Singapore when that respondent failed to comply with an order prohibiting him from doing any thing in relation to the victim, if —
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (i) the victim was in Singapore when the thing done by the respondent in contravention of the order was heard, seen or otherwise perceived by the victim; and
 
 (ii) the respondent knew or had reason to believe that the victim would be in Singapore at the time referred to in sub‑paragraph (i);
 
-(b) where the respondent was outside Singapore when he failed to comply with an order prohibiting him from doing any thing in relation to any related person specified in the order (in the case of a contravention of section 7), if —
+(b) where the respondent was outside Singapore when that respondent failed to comply with an order prohibiting him from doing any thing in relation to any related person specified in the order, if —
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (i) the related person was in Singapore when the thing done by the respondent in contravention of the order was heard, seen or otherwise perceived by the related person; and
 
 (ii) the respondent knew or had reason to believe that the related person would be in Singapore at the time referred to in sub‑paragraph (i); and
 
-(c) where the respondent was outside Singapore when he failed to comply with an order prohibiting him from publishing or continuing to publish any communication, if —
+(c) where the respondent was outside Singapore when that respondent failed to comply with an order prohibiting him from publishing or continuing to publish any communication, if —
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (i) the communication was heard, seen or otherwise perceived by a section of the public in Singapore; and
 
 (ii) the respondent knew or had reason to believe that communication would be heard, seen or otherwise perceived by a section of the public in Singapore.
+
+[Act 17 of 2019 wef 01/01/2020]
 
 (10) In subsections (8) and (9) —
 
@@ -586,3 +924,7 @@ This Legislative History is provided for the convenience of users of the Protect
 ||Date of First Reading|20 March 2018 (Bill No. 20/2018 published on 20 March 2018)|
 ||Date of Second and Third Readings|18 May 2018|
 ||Date of commencement|19 December 2018|
+|4.|**Act 17 of 2019—Protection from Harassment (Amendment) Act 2019**|
+||Date of First Reading|1 April 2019 (Bill No. 11/2019 published on 1 April 2019)|
+||Date of Second and Third Readings|7 May 2019|
+||Date of commencement|1 January 2020|
