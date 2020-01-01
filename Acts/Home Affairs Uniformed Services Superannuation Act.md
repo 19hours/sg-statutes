@@ -54,6 +54,10 @@
 
 - [20 Functions and powers of Board](#Functions-and-powers-of-Board)
 
+- [20A Ability to delegate, etc.](#Ability-to-delegate-etc)
+
+- [20B Board’s delegates and subdelegates](#Board’s-delegates-and-subdelegates)
+
 - [21 Award officers and appeal authority](#Award-officers-and-appeal-authority)
 
 [**Part V AUDIT AND ACCOUNTING**](#Part-V)
@@ -112,9 +116,15 @@ PRELIMINARY
 
 “national serviceman” has the same meaning as in the Enlistment Act (Cap. 93);
 
-“police officer” means any public officer appointed to the permanent establishment in the Police (Senior) Service or the Police (Junior) Service but excludes any auxiliary police officer, any member of the Special Constabulary constituted under Part VIII of the Police Force Act (Cap. 235) and any police officer who is a national serviceman;
+“police officer” means any public officer appointed to the permanent establishment in the Police Service but excludes any auxiliary police officer, any member of the Special Constabulary constituted under Part VIII of the Police Force Act (Cap. 235) and any police officer who is a national serviceman;
+
+[Act 35 of 2019 wef 01/01/2020]
 
 “prison officer” means any public officer appointed to the permanent establishment in the Prisons Service;
+
+“public authority” means a body established or constituted by or under a public Act to perform or discharge a public function;
+
+[Act 35 of 2019 wef 01/01/2020]
 
 “Scheme” means the Occupational Superannuation Scheme established under the Prevention of Corruption Act (Cap. 241) for the benefit of officers in the Corrupt Practices Investigation Schemes of Service;
 
@@ -170,7 +180,9 @@ who will or (as the case may be) continue to be members of the scheme.
 
 (a) for every civil defence officer, narcotics officer, police officer or prison officer who is appointed before the commencement of those regulations and who, immediately prior to such commencement, is eligible (whether on retirement or in respect of death or injury in or attributable to service) for any pension, gratuity or other allowance under the Pensions Act (Cap. 225); and
 
-(b) for every officer who is appointed before the commencement of those regulations to the Civil Defence Service, the Narcotics Service, the Police (Senior) Service, the Police (Junior) Service or the Prisons Service on a contract for a term and who, immediately prior to such commencement, is eligible for any gratuity or other like benefit under the contract,
+(b) for every officer who is appointed before the commencement of those regulations to the Civil Defence Service, the Narcotics Service, the Police Service or the Prisons Service on a contract for a term and who, immediately prior to such commencement, is eligible for any gratuity or other like benefit under the contract,
+
+[Act 35 of 2019 wef 01/01/2020]
 
 an option to join the INVEST Plan as a member thereof and for the terms and conditions of such an option.
 
@@ -276,6 +288,10 @@ INVEST FUND
 
 [29/2002]
 
+(3A) The Fund must be held, managed and administered separately from other Government funds.
+
+[Act 35 of 2019 wef 01/01/2020]
+
 (4) Except as otherwise expressly provided in this Act or regulations made under section 24, the Financial Procedure Act (Cap. 109) shall apply to the Fund.
 
 (5) For the purposes of subsection (1)(c), the net income from investments shall be the amount ascertained by adding to, or deducting from, the income received from investments of moneys in the Fund, any profit derived or loss sustained, as the case may be, from the realisation of such investments.
@@ -321,6 +337,28 @@ shall not be withdrawn and applied to meet the payment of any pension, gratuity,
 (a) operates within the investment powers of the Board and the investment strategy and policy as determined for the time being by the Board; and
 
 (b) reports to the Board on the state of its investments and the investment market at such times and in such manner as the Board determines.
+
+(4) In this section —
+
+“derivatives contract” has the meaning given by section 2(1) of the Securities and Futures Act (Cap. 289);
+
+“effective management”, for an investment portfolio, includes —
+
+(a) the efficient exposure of the portfolio to certain assets or classes of assets;
+
+(b) the diversification of investments within the portfolio;
+
+(c) the reduction of costs relating to the portfolio; or
+
+(d) the enhancement of the value of, or the returns on, the portfolio;
+
+“investments” means —
+
+(a) the acquisition of assets, or interests in assets, with the expectation of obtaining returns (whether in the form of capital or income) on such assets or interests; or
+
+(b) the use of financial products (including, without limitation, any derivatives contract) or the entering into financial arrangements for the purposes of effective management of an investment portfolio.
+
+[Act 35 of 2019 wef 01/01/2020]
 
 ### Deficiencies
 
@@ -391,6 +429,56 @@ BOARD OF TRUSTEES AND AWARD OFFICERS
 (b) any directions of the Minister on any matter that is relevant to the performance of its functions, duties and powers.
 
 (4) The trustees shall not, by reason only of their having made such appointment or engagement under subsection (2)(a) or (b), be responsible for any default of the agent, attorney, consultant or investment manager if appointed or engaged in good faith.
+
+### Ability to delegate, etc.
+
+20A\.—(1) The Board may delegate the performance or exercise of any of its functions or powers, either generally or specially, subject to the conditions or restrictions it thinks fit, to any of the following persons:
+
+(a) a trustee;
+
+(b) a public officer;
+
+(c) an employee of a public authority;
+
+(d) an agent, a consultant or an investment manager appointed or engaged under section 20(2).
+
+(2) A delegation by the Board under subsection (1) of the performance or exercise of any of its functions or powers to a person (called in this Act a delegate) must be made by —
+
+(a) resolution of the Board; and
+
+(b) written notice given to the delegate.
+
+(3) A delegation by the Board under subsection (1) of the performance or exercise of any of its functions or powers to a delegate mentioned in subsection (1)(d) may authorise that delegate to subdelegate the performance or exercise of the function or power to an appropriately qualified employee or contractor of that delegate (called in this Act a subdelegate).
+
+(4) A subdelegation by a delegate under an authorisation given to the delegate under subsection (3) must be subject to the same conditions or restrictions imposed on the delegate under subsection (1) (called in this section the original conditions or restrictions), except that the delegate may —
+
+(a) modify any of the original conditions or restrictions to apply a more stringent form of that condition or restriction to the subdelegate; or
+
+(b) impose on the subdelegate any additional condition or restriction not inconsistent with the original conditions or restrictions.
+
+(5) Subsections (1) and (3) do not apply to any function or power that is declared by this Act or any other written law to be non‑delegable.
+
+(6) A subdelegate to whom a function or power of the Board is subdelegated under an authorisation given to a delegate under subsection (3) is not authorised to further delegate that function or power to anyone else.
+
+(7) A delegation or subdelegation in accordance with this section is not affected by any change in the membership of the Board.
+
+[Act 35 of 2019 wef 01/01/2020]
+
+### Board’s delegates and subdelegates
+
+20B\.—(1) A delegate (or subdelegate) who purports to perform a function or exercise a power of the Board under delegation (or subdelegation) —
+
+(a) is taken to do so in accordance with the terms of the delegation (or subdelegation) under section 20A, unless the contrary is shown; and
+
+(b) must produce evidence of the delegation (or subdelegation), if reasonably requested to do so.
+
+(2) Every delegate and subdelegate of the Board is, when performing any function or exercising any power of the Board, taken to be —
+
+(a) a public servant for the purposes of the Penal Code (Cap. 224); and
+
+(b) a public officer for the purposes of the Financial Procedure Act (Cap. 109), and section 20 of that Act applies to each of these persons even though they are not or were not in the employment of the Government.
+
+[Act 35 of 2019 wef 01/01/2020]
 
 ### Award officers and appeal authority
 
@@ -495,3 +583,7 @@ This Legislative History is provided for the convenience of users of the Home Af
 ||Date of First Reading|11 November 2013 (Bill No. 25/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|10 March 2014|
+|7.|**Act 35 of 2019—Home Affairs Uniformed Services Superannuation (Amendment) Act 2019**|
+||Date of First Reading|7 October 2019 (Bill No. 28/2019 published on 7 October 2019)|
+||Date of Second and Third Readings|4 November 2019|
+||Date of commencement|1 January 2020|
