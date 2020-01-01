@@ -1249,7 +1249,9 @@ General
 
 ### Extension of right of private defence
 
-71\. The right of private defence of property conferred by section 103 of the Penal Code shall be deemed to extend to any mischief by fire or explosive committed on a railway engine, railway rolling stock or a motor vehicle in any security area, as it applies to mischief by fire committed on a building used as a human dwelling or as a place for the custody of property.
+71\. The right of private defence of property conferred by section 105 of the Penal Code shall be deemed to extend to any mischief by fire or explosive committed on a railway engine, railway rolling stock or a motor vehicle in any security area, as it applies to mischief by fire committed on a building used as a human dwelling or as a place for the custody of property.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 Chapter VI
 
@@ -1365,7 +1367,9 @@ to use such force as, in the circumstances of the case, may be reasonably necess
 
 (3) The powers conferred upon a police officer by subsection (1) may be exercised by any member of the security forces, and by any person performing the duties of a guard or watchman in a protected place, and by any other person generally authorised in that behalf by the Commissioner of Police.
 
-(4) Nothing in this section shall derogate from the right of private defence contained in sections 96 to 106, inclusive, of the Penal Code [Cap. 224].
+(4) Nothing in this section shall derogate from the right of private defence contained in sections 96 to 106A, inclusive, of the Penal Code [Cap. 224].
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Admission of statements in evidence
 
@@ -1631,3 +1635,7 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of First Reading|11 September 2017 (Bill No. 32/2017 published on 11 September 2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|18 December 2018|
+|21.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
