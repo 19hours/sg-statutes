@@ -506,15 +506,13 @@ Voluntarily causing grievous hurt to extort confession or to compel restoration 
 
 15.
 
-Section 343
+Section 342
 
-Wrongful confinement for 3 or more days
+Punishment for wrongful confinement
 
 16.
 
-Section 344
-
-Wrongful confinement for 10 or more days
+[Deleted by Act 15 of 2019 wef 01/01/2020]
 
 17.
 
@@ -604,13 +602,15 @@ Rape
 
 Section 376
 
-Sexual assault by penetration
+Sexual assault involving penetration
 
 32.
 
 Section 376A
 
 Sexual penetration of minor under 16 years of age.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [IPPA, First Schedule]
 
@@ -650,13 +650,11 @@ Mischief
 
 Section 427
 
-Mischief causing loss or damage of $500 or above
+Mischief causing disruption to key service, etc.
 
 5.
 
-Section 430A
-
-Mischief affecting railway engine, train, etc.
+[Deleted by Act 15 of 2019 wef 01/01/2020]
 
 6.
 
@@ -693,6 +691,8 @@ Intentionally running vessel aground or ashore with intent to commit theft, etc.
 Section 440
 
 Mischief committed after preparation made for causing death or hurt.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [IPPA, Second Schedule]
 
@@ -738,6 +738,10 @@ This Legislative History is provided for the convenience of users of the United 
 ||Dates of commencement|23 May 2011 (sections 3(3) and 12)|
 |3.|**2012 Revised Edition—United Nations Personnel Act (Chapter 339A)**|
 ||Date of operation|31 May 2012|
+|4.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 United Nations Personnel Act
