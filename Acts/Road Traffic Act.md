@@ -2686,7 +2686,7 @@ who holds a driving permit issued to him by a competent authority of the country
 
 42\.—(1) A court before which a person is convicted of any offence in connection with the driving of a motor vehicle may, in any case except where otherwise expressly provided by this Act and shall, where so required by this Act, order him to be disqualified from holding or obtaining a driving licence for life or for such period as the court may think fit.
 
-(2) Where a person (referred to in this section as the offender), is convicted of an offence under section 267B, 304, 304A, 323, 324, 325, 326, 341, 342, 350, 352, 426 or 427 of the Penal Code (Cap. 224) and —
+(2) Where a person (referred to in this section as the offender), is convicted of an offence under section 267B, 304, 304A, 323, 323A, 324, 325, 326, 341, 342, 350, 352, 426 or 427 of the Penal Code (Cap. 224) and —
 
 (a) at the time of the commission of the offence the offender was the driver or was in charge of a motor vehicle on a road or other public place;
 
@@ -2701,6 +2701,8 @@ the court may, in addition to imposing on the offender the punishment provided f
 [1/99]
 
 [51/2007 wef 01/02/2008]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (3) If the court thinks fit, any disqualification imposed under this section may be limited to the driving of a motor vehicle of the same class or description as the motor vehicle in relation to which the offence was committed.
 
@@ -4142,7 +4144,9 @@ by means of a breath analysing device of a type approved by the Deputy Commissio
 
 (2) A person guilty of an offence under subsection (1) shall be liable on conviction —
 
-(a) for a first offence, to imprisonment for a term of not less than one year and not more than 3 years and, in addition, to a fine not exceeding $2,000; and
+(a) for a first offence, to imprisonment for a presumptive minimum term of not less than one year and not more than 3 years and, in addition, to a fine not exceeding $2,000; and
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (b) for a second or subsequent offence, to imprisonment for a term of not less than 2 years and not more than 5 years and, in addition, to a fine not exceeding $5,000.
 
@@ -7393,6 +7397,11 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of First Reading|6 May 2019 (Bill No. 13/2019 published on 6 May 2019)|
 ||Date of Second and Third Readings|8 July 2019|
 ||Date of commencement|1 November 2019|
+|86.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019|
+|||(Bill No. 6/2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
