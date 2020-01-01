@@ -676,9 +676,11 @@ shall be deemed to be issued with a special pass authorising him to remain in Si
 
 (4) Every order made under subsection (1) shall, unless otherwise expressed therein, come into force on the date of the making thereof, and shall be published in theGazette.
 
-(5) Any person who enters or re-enters or remains in Singapore in contravention of any order made under subsection (1) shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 4 years and shall also be liable to a fine not exceeding $6,000.
+(5) Any person who enters or re-enters or remains in Singapore in contravention of any order made under subsection (1) shall be guilty of an offence and shall on conviction be punished with imprisonment for a presumptive minimum term of not less than 2 years and not more than 4 years and shall also be liable to a fine not exceeding $6,000.
 
 [35/84; S 22/89]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (6) Where a person, who has been previously convicted of any offence which is punishable with imprisonment for a term of not less than 3 years, commits an offence under subsection (5) by the use of a passport or other travel document which bears a name different from that stated in the order made against him under subsection (1), he shall on conviction be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be liable to a fine not exceeding $10,000 and to caning.
 
@@ -1466,9 +1468,11 @@ REMOVAL FROM SINGAPORE
 
 ### Unlawful return after removal
 
-36\. Any person who, having been removed from or otherwise lawfully sent out of Singapore, enters or resides in Singapore without the permission in writing of the Controller shall be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than one year and not more than 3 years and shall also be liable to a fine not exceeding $6,000, and shall in addition be liable to be removed from Singapore.
+36\. Any person who, having been removed from or otherwise lawfully sent out of Singapore, enters or resides in Singapore without the permission in writing of the Controller shall be guilty of an offence and shall on conviction be punished with imprisonment for a presumptive minimum term of not less than one year and not more than 3 years and shall also be liable to a fine not exceeding $6,000, and shall in addition be liable to be removed from Singapore.
 
 [35/84; S 22/89]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ## PART VA
 
@@ -2167,21 +2171,29 @@ shall be guilty of an offence and —
 
 (i) in the case of an offence under paragraph (a), shall be punished with imprisonment for a term not exceeding 2 years and shall also be liable to a fine not exceeding $4,000;
 
-(ia) in the case of an offence under paragraph (aa), shall be punished with imprisonment for a term of not less than 6 months and not more than 2 years, and —
+(ia) in the case of an offence under paragraph (aa), shall be punished with imprisonment for a presumptive minimum term of not less than 6 months and not more than 2 years, and —
 
-(A) where the offence is abetted within the meaning of section 107(b) or (c) of the Penal Code (Cap. 224) and the offence abetted is punishable with caning, shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not less than 3 strokes; or
+(A) where the offence is abetted within the meaning of section 107(1)(b) or (c) of the Penal Code (Cap. 224) and the offence abetted is punishable with caning, shall also, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, be punished with caning with not less than 3 strokes; or
 
 [15/2010 wef 02/01/2011]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 (B) in any other case, shall also be liable to a fine not exceeding $6,000;
 
-(ii) subject to subsection (1A), in the case of an offence under paragraph (b) or (e), shall be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
+[Act 15 of 2019 wef 01/01/2020]
+
+(ii) subject to subsection (1A), in the case of an offence under paragraph (b) or (e), shall be punished with imprisonment for a presumptive minimum term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (iii) in the case of an offence under paragraph (c), shall be punished with imprisonment for a term of not less than 2 years and not more than 5 years and shall also be punished, subject to sections 325(1) and 330(1) of the Criminal Procedure Code 2010, with caning with not less than 3 strokes;
 
 [15/2010 wef 02/01/2011]
 
-(iv) in the case of an offence under paragraph (d)(i) or (ii), shall on conviction be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
+(iv) in the case of an offence under paragraph (d)(i) or (ii), shall on conviction be punished with imprisonment for a presumptive minimum term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000;
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (v) in the case of an offence under paragraph (d)(iii), shall be liable on conviction to a fine not exceeding $6,000 or to imprisonment for a term not exceeding 12 months or to both;
 
@@ -2395,9 +2407,11 @@ and includes any works which form an integral part of, or are preparatory to, th
 
 ### Assisting, encouraging or inducing giving of shelter to immigration offenders
 
-57B\.—(1) Any person who, for or in expectation of any fee, gain or reward, assists, encourages or induces any other person to give shelter to any immigration offender shall, if the second-mentioned person gives shelter to the immigration offender in consequence of such assistance, encouragement or inducement, be guilty of an offence and shall on conviction be punished with imprisonment for a term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000.
+57B\.—(1) Any person who, for or in expectation of any fee, gain or reward, assists, encourages or induces any other person to give shelter to any immigration offender shall, if the second-mentioned person gives shelter to the immigration offender in consequence of such assistance, encouragement or inducement, be guilty of an offence and shall on conviction be punished with imprisonment for a presumptive minimum term of not less than 6 months and not more than 2 years and shall also be liable to a fine not exceeding $6,000.
 
 [53/2004]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (2) In any proceedings for an offence under subsection (1), it shall not be a defence for the defendant to prove that the immigration offender was in possession of a permit or pass issued to the immigration offender under this Act or the regulations unless the defendant further proves that he had exercised due diligence to ascertain that the permit or pass was at the material time valid under this Act or the regulations.
 
@@ -2779,3 +2793,7 @@ This Legislative History is provided for the convenience of users of the Immigra
 ||Date of Second and Third Readings|20 November 2018|
 ||Date of commencement|1 February 2019|
 |||13 May 2019|
+|36.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
