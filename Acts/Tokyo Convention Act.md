@@ -18,6 +18,10 @@
 
 - [6 Provisions as to evidence in connection with aircraft](#Provisions-as-to-evidence-in-connection-with-aircraft)
 
+- [6A Protection from personal liability](#Protection-from-personal-liability)
+
+- [6B Act not to be interpreted as authorising action in certain cases](#Act-not-to-be-interpreted-as-authorising-action-in-certain-cases)
+
 - [7 Regulations](#Regulations)
 
 [**Legislative History**](#Legislative-History)
@@ -154,7 +158,9 @@ the act or omission constitutes that offence.
 
 (ii) good order and discipline on board the aircraft; or
 
-(b) that the person in question has done on the aircraft while in flight any act which in the opinion of the commander is a serious offence under any law in force in the country in which the aircraft is registered, not being a law of a political nature or based on racial or religious discrimination,
+(b) that the person in question has done on the aircraft while in flight any act which in the opinion of the commander is a serious offence,
+
+[Act 32 of 2018 wef 01/01/2020]
 
 then, subject to subsection (4), the commander may take with respect to that person such reasonable measures, including restraint of his person, as may be necessary —
 
@@ -162,11 +168,35 @@ then, subject to subsection (4), the commander may take with respect to that per
 
 (ii) to maintain good order and discipline on board the aircraft; or
 
-(iii) to enable the commander to disembark or deliver that person in accordance with subsection (5),
+(iii) to enable the commander to disembark or deliver that person in accordance with subsection (5).
 
-and for the purposes of paragraph (b) any Singapore-controlled aircraft shall be deemed to be registered in Singapore whether or not it is in fact so registered and whether or not it is in fact registered in some other country.
+[Act 32 of 2018 wef 01/01/2020]
 
-(3) Any member of the crew of an aircraft and any other person on board the aircraft may, at the request or with the authority of the commander of the aircraft, and any such member shall if so required by that commander, render assistance in restraining any person whom the commander is entitled under subsection (2) to restrain; and at any time when the aircraft is in flight any such member or other person may, without obtaining the authority of the commander, take with respect to any person on board the aircraft any measures such as are mentioned in subsection (2) which he has reasonable grounds to believe are immediately necessary to protect the safety of the aircraft or of persons or property on board the aircraft.
+(3) The commander of an aircraft may —
+
+(a) require or authorise any member of the crew of the aircraft; or
+
+(b) request or authorise (but not require) any passenger, or air marshal, on board the aircraft,
+
+to render assistance in restraining any person whom the commander is entitled under subsection (2) to restrain.
+
+[Act 32 of 2018 wef 01/01/2020]
+
+(3A) At any time when an aircraft is in flight, any member of the crew of the aircraft or any passenger on board the aircraft may, without being authorised by the commander, take any measures mentioned in subsection (2) against any person on board the aircraft which the member of the crew or passenger has reasonable grounds to believe are immediately necessary to protect the safety of the aircraft, or of persons or property on board the aircraft.
+
+[Act 32 of 2018 wef 01/01/2020]
+
+(3B) At any time when an aircraft is in flight, any air marshal on board the aircraft may, without being authorised by the commander, take any measures mentioned in subsection (2) against any person on board the aircraft which the air marshal has reasonable grounds to believe are immediately necessary to protect the safety of the aircraft, or of persons on board the aircraft from —
+
+(a) any act of unlawful interference; or
+
+(b) the commission of any serious offence.
+
+[Act 32 of 2018 wef 01/01/2020]
+
+(3C) The measures taken by an air marshal in relation to the commission of any serious offence mentioned in subsection (3B)(b) are subject to any agreement between Singapore and a Protocol country relating to the deployment of air marshals on board an aircraft for ensuring the security of the aircraft and persons on board the aircraft.
+
+[Act 32 of 2018 wef 01/01/2020]
 
 (4) Any restraint imposed on any person on board an aircraft under the powers conferred by this section shall not be continued after the time when the aircraft first thereafter ceases to be in flight unless before or as soon as is reasonably practicable after that time the commander of the aircraft causes notification of the fact that a person on board the aircraft is under restraint and of the reasons therefor to be sent to an appropriate authority of the country in which the aircraft so ceases to be in flight, but subject to such notification may be continued after that time —
 
@@ -206,6 +236,32 @@ may disembark that person in any country in which that aircraft may be; and
 
 and any commander of an aircraft who without reasonable cause fails to comply with the requirements of this subsection shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000.
 
+(7) In this section and section 6A, “air marshal” means an individual who is appointed —
+
+(a) an air marshal under section 61 of the Police Force Act (Cap. 235); or
+
+(b) an air marshal (or by whatever name called) under the law of any Protocol country with whom Singapore has an agreement relating to the deployment of air marshals on board an aircraft for ensuring the security of the aircraft and persons on board the aircraft.
+
+[Act 32 of 2018 wef 01/01/2020]
+
+(8) In this section, “act of unlawful interference” means the doing or attempting to do anything such as to jeopardise the safety of civil aviation and air transport, and includes any of the following:
+
+(a) unlawful taking control of an aircraft by force, or threat of force, or any other form of intimidation or by any trick or false pretence;
+
+(b) destroying an aircraft that is in service;
+
+(c) hostage-taking on board an aircraft or at an airport;
+
+(d) forcible intrusion on board an aircraft, at an airport or on the premises of an aeronautical facility that puts the safety of the aircraft, or any person on board or outside the aircraft, at risk;
+
+(e) introducing on board an aircraft or at an airport a weapon or hazardous device or material intended for criminal purposes;
+
+(f) use of an aircraft in service for the purpose of causing death, serious bodily injury or serious damage to property or the environment;
+
+(g) putting the safety of an aircraft in flight or on the ground, or of passengers, crew, ground personnel or the general public, at an airport or on the premises of a civil aviation facility at risk by communicating false or misleading information.
+
+[Act 32 of 2018 wef 01/01/2020]
+
 ### Provisions as to evidence in connection with aircraft
 
 6\.—(1) Where in any proceeding before a court in Singapore for an offence committed on board an aircraft the testimony of any person is required and the court is satisfied that the person in question cannot be found in Singapore, there shall be admissible in evidence before that court any deposition relating to the subject matter of that proceeding previously made on oath by that person —
@@ -227,6 +283,30 @@ and any commander of an aircraft who without reasonable cause fails to comply wi
 “oath” includes an affirmation or declaration in the case of persons allowed by law to affirm or declare instead of swearing,
 
 and nothing in this section shall prejudice the admission as evidence of any deposition which is admissible in evidence apart from this section.
+
+### Protection from personal liability
+
+6A\. No liability shall lie against any of the following persons on account of any treatment undergone by a person against whom any action has been taken under this Act:
+
+(a) the commander of an aircraft;
+
+(b) a member of the crew of an aircraft;
+
+(c) a passenger on board an aircraft;
+
+(d) an air marshal on board an aircraft;
+
+(e) an owner or operator of an aircraft;
+
+(f) a person on whose behalf the flight of an aircraft was performed.
+
+[Act 32 of 2018 wef 01/01/2020]
+
+### Act not to be interpreted as authorising action in certain cases
+
+6B\. Except for the purpose of protecting the safety of an aircraft or of persons or property on board an aircraft, nothing in this Act is to be interpreted as authorising or requiring any action in respect of an offence under any law of a political nature, or based on discrimination on any ground such as race, religion, nationality, ethnic origin, political opinion or gender.
+
+[Act 32 of 2018 wef 01/01/2020]
 
 ### Regulations
 
@@ -259,3 +339,4 @@ This Legislative History is provided for the convenience of users of the Tokyo C
 ||Date of First Reading|17 May 2018 (Bill No. 22/2018 published on 17 May 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|15 September 2018|
+|||1 January 2020|
