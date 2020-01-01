@@ -16,11 +16,17 @@
 
 - [4 Jurisdiction over public servants for offences committed outside Singapore](#Jurisdiction-over-public-servants-for-offences-committed-outside-Singapore)
 
+- [4A Offences against State and genocide committed outside Singapore by citizen or permanent resident](#Offences-against-State-and-genocide-committed-outside-Singapore-by-citizen-or-permanent-resident)
+
+- [4B Punishment of specified offences with elements occurring in Singapore but others occurring outside Singapore](#Punishment-of-specified-offences-with-elements-occurring-in-Singapore-but-others-occurring-outside-Singapore)
+
 - [5 Certain laws not to be affected by this Code](#Certain-laws-not-to-be-affected-by-this-Code)
 
 [**Chapter II  General Explanations**](#Chapter-II--General-Explanations)
 
 - [6 Definitions in this Code to be understood subject to exceptions](#Definitions-in-this-Code-to-be-understood-subject-to-exceptions)
+
+- [6A Definitions to apply to this Code and other written law](#Definitions-to-apply-to-this-Code-and-other-written-law)
 
 - [7 Expression once explained is used in the same sense throughout this Code](#Expression-once-explained-is-used-in-the-same-sense-throughout-this-Code)
 
@@ -42,7 +48,9 @@
 
 - [21 "Public servant"](#"Public-servant")
 
-- [22 "Movable property"](#"Movable-property")
+- [22 "Property"](#"Property")
+
+- [22A "Fault element" and "physical element"](#"Fault-element"-and-"physical-element")
 
 - [23 "Wrongful gain" and "wrongful loss"](#"Wrongful-gain"-and-"wrongful-loss")
 
@@ -94,6 +102,8 @@
 
 - [44 "Injury"](#"Injury")
 
+- [44A "Bodily injury"](#"Bodily-injury")
+
 - [45 "Life"](#"Life")
 
 - [46 "Death"](#"Death")
@@ -122,33 +132,43 @@
 
 - [72 Punishment of a person found guilty of one of several offences, the judgment stating that it is doubtful of which](#Punishment-of-a-person-found-guilty-of-one-of-several-offences-the-judgment-stating-that-it-is-doubtful-of-which)
 
-- [73 Enhanced penalties for offences against domestic maids](#Enhanced-penalties-for-offences-against-domestic-maids)
+- [73 Enhanced penalties for offences against domestic workers](#Enhanced-penalties-for-offences-against-domestic-workers)
 
 - [74 Enhanced penalties for racially or religiously aggravated offences](#Enhanced-penalties-for-racially-or-religiously-aggravated-offences)
 
-- [74A Enhanced penalties for offences against vulnerable adults](#Enhanced-penalties-for-offences-against-vulnerable-adults)
+- [74A Enhanced penalties for offences against vulnerable persons](#Enhanced-penalties-for-offences-against-vulnerable-persons)
 
-- [75 Punishment of persons convicted, after a previous conviction, of an offence punishable with 3 years’ imprisonment](#Punishment-of-persons-convicted-after-a-previous-conviction-of-an-offence-punishable-with-3-years’-imprisonment)
+- [74B Enhanced penalties for offences against person below 14 years of age](#Enhanced-penalties-for-offences-against-person-below-14-years-of-age)
+
+- [74C Enhanced penalties for offences against victims in intimate relationships](#Enhanced-penalties-for-offences-against-victims-in-intimate-relationships)
+
+- [74D Enhanced penalties for offences against victims in close relationships](#Enhanced-penalties-for-offences-against-victims-in-close-relationships)
+
+- [74E Application of enhanced penalties](#Application-of-enhanced-penalties)
+
+- [75 (Repealed)](#Repealed)
 
 [**Chapter IV  General Exceptions**](#Chapter-IV--General-Exceptions)
 
-- [76 Act done by a person bound, or by mistake of fact believing himself bound by law](#Act-done-by-a-person-bound-or-by-mistake-of-fact-believing-himself-bound-by-law)
+- [76 Act done by person bound, or justified by law](#Act-done-by-person-bound-or-justified-by-law)
 
 - [77 Act of judge when acting judicially](#Act-of-judge-when-acting-judicially)
 
 - [78 Act done pursuant to the judgment or order of a court of justice](#Act-done-pursuant-to-the-judgment-or-order-of-a-court-of-justice)
 
-- [79 Act done by a person justified, or by mistake of fact believing himself justified by law](#Act-done-by-a-person-justified-or-by-mistake-of-fact-believing-himself-justified-by-law)
+- [79 Act done by person by mistake of fact believing himself bound or justified by law](#Act-done-by-person-by-mistake-of-fact-believing-himself-bound-or-justified-by-law)
+
+- [79A Mistake of law or ignorance of law not defence](#Mistake-of-law-or-ignorance-of-law-not-defence)
 
 - [80 Accident in the doing of a lawful act](#Accident-in-the-doing-of-a-lawful-act)
 
-- [81 Act likely to cause harm but done without a criminal intent, and to prevent other harm](#Act-likely-to-cause-harm-but-done-without-a-criminal-intent-and-to-prevent-other-harm)
+- [81 Act likely to cause harm but done to prevent other harm](#Act-likely-to-cause-harm-but-done-to-prevent-other-harm)
 
 - [82 Act of a child under 7 years of age](#Act-of-a-child-under-7-years-of-age)
 
 - [83 Act of a child above 7 and under 12 years of age, who has not sufficient maturity of understanding](#Act-of-a-child-above-7-and-under-12-years-of-age-who-has-not-sufficient-maturity-of-understanding)
 
-- [84 Act of a person of unsound mind](#Act-of-a-person-of-unsound-mind)
+- [84 Act of person of unsound mind](#Act-of-person-of-unsound-mind)
 
 - [85 Intoxication when a defence](#Intoxication-when-a-defence)
 
@@ -178,23 +198,31 @@
 
 - [97 Right of private defence of the body and of property](#Right-of-private-defence-of-the-body-and-of-property)
 
-- [98 Right of private defence against the act of a person of unsound mind, etc.](#Right-of-private-defence-against-the-act-of-a-person-of-unsound-mind-etc)
+- [98 Extent to which right may be exercised](#Extent-to-which-right-may-be-exercised)
 
-- [99 Acts against which there is no right of private defence](#Acts-against-which-there-is-no-right-of-private-defence)
+- [99 Right of private defence against act of person of unsound mind, etc.](#Right-of-private-defence-against-act-of-person-of-unsound-mind-etc)
 
-- [100 When the right of private defence of the body extends to causing death](#When-the-right-of-private-defence-of-the-body-extends-to-causing-death)
+- [100 Right of private defence against deadly assault when there is risk of harm to innocent person](#Right-of-private-defence-against-deadly-assault-when-there-is-risk-of-harm-to-innocent-person)
 
-- [101 When such right extends to causing any harm other than death](#When-such-right-extends-to-causing-any-harm-other-than-death)
+[**Right of private defence of body**](#Right-of-private-defence-of-body)
 
-- [102 Commencement and continuance of the right of private defence of the body](#Commencement-and-continuance-of-the-right-of-private-defence-of-the-body)
+- [101 Start and continuance of right of private defence of body](#Start-and-continuance-of-right-of-private-defence-of-body)
 
-- [103 When the right of private defence of property extends to causing death](#When-the-right-of-private-defence-of-property-extends-to-causing-death)
+- [102 When right of private defence of body extends to causing death](#When-right-of-private-defence-of-body-extends-to-causing-death)
 
-- [104 When such right extends to causing any harm other than death](#When-such-right-extends-to-causing-any-harm-other-than-death)
+- [103 When such right extends to causing any harm other than death](#When-such-right-extends-to-causing-any-harm-other-than-death)
 
-- [105 Commencement and continuance of the right of private defence of property](#Commencement-and-continuance-of-the-right-of-private-defence-of-property)
+[**Right of private defence of property**](#Right-of-private-defence-of-property)
 
-- [106 Right of private defence against a deadly assault when there is risk of harm to an innocent person](#Right-of-private-defence-against-a-deadly-assault-when-there-is-risk-of-harm-to-an-innocent-person)
+- [104 Commencement and continuance of right of private defence of property](#Commencement-and-continuance-of-right-of-private-defence-of-property)
+
+- [105 When right of private defence of property extends to causing death](#When-right-of-private-defence-of-property-extends-to-causing-death)
+
+- [106 When such right extends to causing any harm other than death](#When-such-right-extends-to-causing-any-harm-other-than-death)
+
+[**No right of private defence**](#No-right-of-private-defence)
+
+- [106A Acts against which there is no right of private defence](#Acts-against-which-there-is-no-right-of-private-defence)
 
 [**Chapter V  Abetment**](#Chapter-V--Abetment)
 
@@ -220,7 +248,7 @@
 
 - [115 Abetment of an offence punishable with death or imprisonment for life](#Abetment-of-an-offence-punishable-with-death-or-imprisonment-for-life)
 
-- [116 Abetment of an offence punishable with imprisonment](#Abetment-of-an-offence-punishable-with-imprisonment)
+- [116 Abetment of offence punishable with imprisonment](#Abetment-of-offence-punishable-with-imprisonment)
 
 - [117 Abetting the commission of an offence by the public or by more than 10 persons](#Abetting-the-commission-of-an-offence-by-the-public-or-by-more-than-10-persons)
 
@@ -380,17 +408,17 @@
 
 - [173 Preventing service of summons, etc., or preventing publication thereof](#Preventing-service-of-summons-etc-or-preventing-publication-thereof)
 
-- [174 Failure to attend in obedience to an order from a public servant](#Failure-to-attend-in-obedience-to-an-order-from-a-public-servant)
+- [174 Failure to attend in obedience to order from public servant](#Failure-to-attend-in-obedience-to-order-from-public-servant)
 
-- [175 Omission to produce a document or an electronic record to a public servant by a person legally bound to produce such document or electronic record](#Omission-to-produce-a-document-or-an-electronic-record-to-a-public-servant-by-a-person-legally-bound-to-produce-such-document-or-electronic-record)
+- [175 Omission to produce document or electronic record to public servant by person legally bound to produce such document or electronic record](#Omission-to-produce-document-or-electronic-record-to-public-servant-by-person-legally-bound-to-produce-such-document-or-electronic-record)
 
-- [176 Omission to give notice or information to a public servant by a person legally bound to give such notice or information](#Omission-to-give-notice-or-information-to-a-public-servant-by-a-person-legally-bound-to-give-such-notice-or-information)
+- [176 Omission to give notice or information to public servant by person legally bound to give such notice or information](#Omission-to-give-notice-or-information-to-public-servant-by-person-legally-bound-to-give-such-notice-or-information)
 
 - [177 Furnishing false information](#Furnishing-false-information)
 
 - [178 Refusing oath when duly required to take oath by a public servant](#Refusing-oath-when-duly-required-to-take-oath-by-a-public-servant)
 
-- [179 Refusing to answer a public servant authorised to question](#Refusing-to-answer-a-public-servant-authorised-to-question)
+- [179 Refusing to answer public servant authorised to question](#Refusing-to-answer-public-servant-authorised-to-question)
 
 - [180 Refusing to sign statement](#Refusing-to-sign-statement)
 
@@ -398,17 +426,17 @@
 
 - [182 False information, with intent to cause a public servant to use his lawful power to the injury of another person](#False-information-with-intent-to-cause-a-public-servant-to-use-his-lawful-power-to-the-injury-of-another-person)
 
-- [183 Resistance to the taking of property by the lawful authority of a public servant](#Resistance-to-the-taking-of-property-by-the-lawful-authority-of-a-public-servant)
+- [183 Resistance to taking of property by lawful authority of public servant](#Resistance-to-taking-of-property-by-lawful-authority-of-public-servant)
 
-- [184 Obstructing sale of property offered for sale by authority of a public servant](#Obstructing-sale-of-property-offered-for-sale-by-authority-of-a-public-servant)
+- [184 Obstructing sale of property offered for sale by authority of public servant](#Obstructing-sale-of-property-offered-for-sale-by-authority-of-public-servant)
 
-- [185 Illegal purchase or bid for property offered for sale by authority of a public servant](#Illegal-purchase-or-bid-for-property-offered-for-sale-by-authority-of-a-public-servant)
+- [185 Illegal purchase or bid for property offered for sale by authority of public servant](#Illegal-purchase-or-bid-for-property-offered-for-sale-by-authority-of-public-servant)
 
 - [186 Obstructing public servant in discharge of his public functions](#Obstructing-public-servant-in-discharge-of-his-public-functions)
 
 - [187 Omission to assist public servant when bound by law to give assistance](#Omission-to-assist-public-servant-when-bound-by-law-to-give-assistance)
 
-- [188 Disobedience to an order duly promulgated by a public servant](#Disobedience-to-an-order-duly-promulgated-by-a-public-servant)
+- [188 Disobedience to order duly promulgated by public servant](#Disobedience-to-order-duly-promulgated-by-public-servant)
 
 - [189 Threat of injury to a public servant](#Threat-of-injury-to-a-public-servant)
 
@@ -456,7 +484,7 @@
 
 - [208 Fraudulently suffering a decree for a sum not due](#Fraudulently-suffering-a-decree-for-a-sum-not-due)
 
-- [209 Fraudulently or dishonestly making a false claim before a court of justice](#Fraudulently-or-dishonestly-making-a-false-claim-before-a-court-of-justice)
+- [209 (Repealed)](#Repealed)
 
 - [210 Fraudulently obtaining a decree for a sum not due](#Fraudulently-obtaining-a-decree-for-a-sum-not-due)
 
@@ -508,59 +536,59 @@
 
 - [229 Personation of an assessor](#Personation-of-an-assessor)
 
-[**Chapter XII  Offences relating to coin and government stamps**](#Chapter-XII--Offences-relating-to-coin-and-government-stamps)
+[**Chapter XII  Offences relating to government stamps**](#Chapter-XII--Offences-relating-to-government-stamps)
 
-- [230 "Coin" and "current coin"](#"Coin"-and-"current-coin")
+- [230 (Repealed)](#Repealed)
 
-- [231 Counterfeiting coin](#Counterfeiting-coin)
+- [231 (Repealed)](#Repealed)
 
-- [232 Counterfeiting current coin](#Counterfeiting-current-coin)
+- [232 (Repealed)](#Repealed)
 
-- [233 Making or selling instrument for counterfeiting coin](#Making-or-selling-instrument-for-counterfeiting-coin)
+- [233 (Repealed)](#Repealed)
 
-- [234 Making or selling instrument for counterfeiting current coin](#Making-or-selling-instrument-for-counterfeiting-current-coin)
+- [234 (Repealed)](#Repealed)
 
-- [235 Possession of instrument or material for the purpose of using the same for counterfeiting coin](#Possession-of-instrument-or-material-for-the-purpose-of-using-the-same-for-counterfeiting-coin)
+- [235 (Repealed)](#Repealed)
 
-- [236 Abetting in Singapore the counterfeiting out of Singapore of coin or current coin](#Abetting-in-Singapore-the-counterfeiting-out-of-Singapore-of-coin-or-current-coin)
+- [236 (Repealed)](#Repealed)
 
-- [237 Import or export of counterfeit coin](#Import-or-export-of-counterfeit-coin)
+- [237 (Repealed)](#Repealed)
 
-- [238 Import or export of counterfeits of current coin](#Import-or-export-of-counterfeits-of-current-coin)
+- [238 (Repealed)](#Repealed)
 
-- [239 Delivery to another of coin, possessed with the knowledge that it is counterfeit](#Delivery-to-another-of-coin-possessed-with-the-knowledge-that-it-is-counterfeit)
+- [239 (Repealed)](#Repealed)
 
-- [240 Delivery of current coin, possessed with the knowledge that it is counterfeit](#Delivery-of-current-coin-possessed-with-the-knowledge-that-it-is-counterfeit)
+- [240 (Repealed)](#Repealed)
 
-- [241 Delivery to another of coin as genuine, which when first possessed the deliverer did not know to be counterfeit](#Delivery-to-another-of-coin-as-genuine-which-when-first-possessed-the-deliverer-did-not-know-to-be-counterfeit)
+- [241 (Repealed)](#Repealed)
 
-- [241A Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be counterfeit](#Delivery-to-another-of-current-coin-as-genuine-which-when-first-possessed-the-deliverer-did-not-know-to-be-counterfeit)
+- [241A (Repealed)](#Repealed)
 
-- [242 Possession of counterfeit coin by a person who knew it to be counterfeit when he became possessed thereof](#Possession-of-counterfeit-coin-by-a-person-who-knew-it-to-be-counterfeit-when-he-became-possessed-thereof)
+- [242 (Repealed)](#Repealed)
 
-- [243 Possession of current coin by a person who knew it to be counterfeit when he became possessed thereof](#Possession-of-current-coin-by-a-person-who-knew-it-to-be-counterfeit-when-he-became-possessed-thereof)
+- [243 (Repealed)](#Repealed)
 
 - [243A (Repealed)](#Repealed)
 
-- [246 Fraudulently or dishonestly diminishing the weight or altering the composition of any coin](#Fraudulently-or-dishonestly-diminishing-the-weight-or-altering-the-composition-of-any-coin)
+- [246 (Repealed)](#Repealed)
 
-- [247 Fraudulently or dishonestly diminishing the weight or altering the composition of current coin](#Fraudulently-or-dishonestly-diminishing-the-weight-or-altering-the-composition-of-current-coin)
+- [247 (Repealed)](#Repealed)
 
-- [248 Altering appearance of any coin with intent that it shall pass as a coin of a different description](#Altering-appearance-of-any-coin-with-intent-that-it-shall-pass-as-a-coin-of-a-different-description)
+- [248 (Repealed)](#Repealed)
 
-- [249 Altering appearance of current coin with intent that it shall pass as a coin of a different description](#Altering-appearance-of-current-coin-with-intent-that-it-shall-pass-as-a-coin-of-a-different-description)
+- [249 (Repealed)](#Repealed)
 
-- [250 Delivery to another of coin possessed with the knowledge that it is altered](#Delivery-to-another-of-coin-possessed-with-the-knowledge-that-it-is-altered)
+- [250 (Repealed)](#Repealed)
 
-- [251 Delivery of current coin possessed with the knowledge that it is altered](#Delivery-of-current-coin-possessed-with-the-knowledge-that-it-is-altered)
+- [251 (Repealed)](#Repealed)
 
-- [252 Possession of altered coin by a person who knew it to be altered when he became possessed thereof](#Possession-of-altered-coin-by-a-person-who-knew-it-to-be-altered-when-he-became-possessed-thereof)
+- [252 (Repealed)](#Repealed)
 
-- [253 Possession of current coin by a person who knew it to be altered when he became possessed thereof](#Possession-of-current-coin-by-a-person-who-knew-it-to-be-altered-when-he-became-possessed-thereof)
+- [253 (Repealed)](#Repealed)
 
-- [254 Delivery to another of coin as genuine, which when first possessed the deliverer did not know to be altered](#Delivery-to-another-of-coin-as-genuine-which-when-first-possessed-the-deliverer-did-not-know-to-be-altered)
+- [254 (Repealed)](#Repealed)
 
-- [254A Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be altered](#Delivery-to-another-of-current-coin-as-genuine-which-when-first-possessed-the-deliverer-did-not-know-to-be-altered)
+- [254A (Repealed)](#Repealed)
 
 - [255 Counterfeiting a Government stamp](#Counterfeiting-a-Government-stamp)
 
@@ -580,15 +608,15 @@
 
 - [263 Erasure of mark denoting that stamp has been used](#Erasure-of-mark-denoting-that-stamp-has-been-used)
 
-[**Chapter XIII  Offences relating to weights and measures**](#Chapter-XIII--Offences-relating-to-weights-and-measures)
+[**Chapter XIII**](#Chapter-XIII)
 
-- [264 Fraudulent use of false instrument for weighing](#Fraudulent-use-of-false-instrument-for-weighing)
+- [264 (Repealed)](#Repealed)
 
-- [265 Fraudulent use of false weight or measure](#Fraudulent-use-of-false-weight-or-measure)
+- [265 (Repealed)](#Repealed)
 
-- [266 Being in possession of false weights or measures](#Being-in-possession-of-false-weights-or-measures)
+- [266 (Repealed)](#Repealed)
 
-- [267 Making or selling false weights or measures](#Making-or-selling-false-weights-or-measures)
+- [267 (Repealed)](#Repealed)
 
 [**Chapter XIV  Offences affecting the public tranquility, public health, safety, convenience, decency and morals**](#Chapter-XIV--Offences-affecting-the-public-tranquility-public-health-safety-convenience-decency-and-morals)
 
@@ -599,6 +627,12 @@
 - [267C Making, printing, etc., document containing incitement to violence, etc.](#Making-printing-etc-document-containing-incitement-to-violence-etc)
 
 - [268 Public nuisance](#Public-nuisance)
+
+- [268A Communicating false information of harmful thing](#Communicating-false-information-of-harmful-thing)
+
+- [268B Placing or sending thing with intent to cause fear of harm](#Placing-or-sending-thing-with-intent-to-cause-fear-of-harm)
+
+- [268C Placing or sending thing causing fear of harm](#Placing-or-sending-thing-causing-fear-of-harm)
 
 - [269 Negligent act likely to spread infection of any disease dangerous to life](#Negligent-act-likely-to-spread-infection-of-any-disease-dangerous-to-life)
 
@@ -630,13 +664,13 @@
 
 - [283 Danger or obstruction in a public way or navigation](#Danger-or-obstruction-in-a-public-way-or-navigation)
 
-- [284 Negligent conduct with respect to any poisonous substance](#Negligent-conduct-with-respect-to-any-poisonous-substance)
+- [284 Rash or negligent conduct with respect to dangerous or harmful substance](#Rash-or-negligent-conduct-with-respect-to-dangerous-or-harmful-substance)
 
-- [285 Negligent conduct with respect to any fire or combustible matter](#Negligent-conduct-with-respect-to-any-fire-or-combustible-matter)
+- [285 Causing or contributing to risk of dangerous fire](#Causing-or-contributing-to-risk-of-dangerous-fire)
 
-- [286 Negligent conduct with respect to any explosive substance](#Negligent-conduct-with-respect-to-any-explosive-substance)
+- [286 Presumption of cause of fire](#Presumption-of-cause-of-fire)
 
-- [287 Negligent conduct with respect to any machinery in the possession or under the charge of the offender](#Negligent-conduct-with-respect-to-any-machinery-in-the-possession-or-under-the-charge-of-the-offender)
+- [287 Rash or negligent conduct with respect to any machinery in possession or under charge of offender](#Rash-or-negligent-conduct-with-respect-to-any-machinery-in-possession-or-under-charge-of-offender)
 
 - [288 Negligence in pulling down or repairing buildings](#Negligence-in-pulling-down-or-repairing-buildings)
 
@@ -648,9 +682,11 @@
 
 - [292 Sale of obscene books, etc.](#Sale-of-obscene-books-etc)
 
+- [292A Possession, distribution, etc., of child sex-doll](#Possession-distribution-etc-of-child-sex-doll)
+
 - [293 Sale, etc., of obscene objects to young person](#Sale-etc-of-obscene-objects-to-young-person)
 
-- [294 Obscene songs](#Obscene-songs)
+- [294 Obscene songsObscene acts](#Obscene-songsObscene-acts)
 
 [**Chapter XV  Offences relating to religion or race**](#Chapter-XV--Offences-relating-to-religion-or-race)
 
@@ -680,15 +716,23 @@
 
 - [304A Causing death by rash or negligent act](#Causing-death-by-rash-or-negligent-act)
 
-- [305 Abetment of suicide of child or insane person](#Abetment-of-suicide-of-child-or-insane-person)
+- [304B Causing death of child below 14 years of age, domestic worker or vulnerable person by sustained abuse](#Causing-death-of-child-below-14-years-of-age-domestic-worker-or-vulnerable-person-by-sustained-abuse)
 
-- [306 Abetment of suicide](#Abetment-of-suicide)
+- [304C Causing or allowing death of child below 14 years of age, domestic worker or vulnerable person in same household](#Causing-or-allowing-death-of-child-below-14-years-of-age-domestic-worker-or-vulnerable-person-in-same-household)
+
+- [305 Abetment of suicide or attempted suicide of minor or person who lacks mental capacity](#Abetment-of-suicide-or-attempted-suicide-of-minor-or-person-who-lacks-mental-capacity)
+
+- [306 Abetment of suicide or attempted suicide](#Abetment-of-suicide-or-attempted-suicide)
 
 - [307 Attempt to murder](#Attempt-to-murder)
 
 - [308 Attempt to commit culpable homicide](#Attempt-to-commit-culpable-homicide)
 
-- [309 Attempt to commit suicide](#Attempt-to-commit-suicide)
+- [308A Causing death in furtherance of group’s object](#Causing-death-in-furtherance-of-group’s-object)
+
+- [308B Concealment, desecration or disposal of corpse that impedes discovery, identification, criminal investigations or prosecutions](#Concealment-desecration-or-disposal-of-corpse-that-impedes-discovery-identification-criminal-investigations-or-prosecutions)
+
+- [309 (Repealed)](#Repealed)
 
 - [310 Infanticide](#Infanticide)
 
@@ -722,6 +766,8 @@
 
 - [323 Punishment for voluntarily causing hurt](#Punishment-for-voluntarily-causing-hurt)
 
+- [323A Punishment for voluntarily causing hurt which causes grievous hurt](#Punishment-for-voluntarily-causing-hurt-which-causes-grievous-hurt)
+
 - [324 Voluntarily causing hurt by dangerous weapons or means](#Voluntarily-causing-hurt-by-dangerous-weapons-or-means)
 
 - [325 Punishment for voluntarily causing grievous hurt](#Punishment-for-voluntarily-causing-grievous-hurt)
@@ -744,7 +790,13 @@
 
 - [334 Voluntarily causing hurt on provocation](#Voluntarily-causing-hurt-on-provocation)
 
+- [334A Punishment for voluntarily causing hurt on provocation which causes grievous hurt](#Punishment-for-voluntarily-causing-hurt-on-provocation-which-causes-grievous-hurt)
+
 - [335 Causing grievous hurt on provocation](#Causing-grievous-hurt-on-provocation)
+
+- [335A Allowing neglect, physical or sexual abuse of domestic worker or vulnerable person](#Allowing-neglect-physical-or-sexual-abuse-of-domestic-worker-or-vulnerable-person)
+
+- [335B Punishment for act which endangers life or personal safety of others with knowledge or belief that it is likely to cause death](#Punishment-for-act-which-endangers-life-or-personal-safety-of-others-with-knowledge-or-belief-that-it-is-likely-to-cause-death)
 
 - [336 Punishment for act which endangers life or the personal safety of others](#Punishment-for-act-which-endangers-life-or-the-personal-safety-of-others)
 
@@ -762,9 +814,9 @@
 
 - [342 Punishment for wrongful confinement](#Punishment-for-wrongful-confinement)
 
-- [343 Wrongful confinement for 3 or more days](#Wrongful-confinement-for-3-or-more-days)
+- [343 (Repealed)](#Repealed)
 
-- [344 Wrongful confinement for 10 or more days](#Wrongful-confinement-for-10-or-more-days)
+- [344 (Repealed)](#Repealed)
 
 - [345 Wrongful confinement of person for whose liberation a writ has been issued](#Wrongful-confinement-of-person-for-whose-liberation-a-writ-has-been-issued)
 
@@ -824,7 +876,7 @@
 
 - [368 Wrongfully concealing or keeping in confinement a kidnapped person](#Wrongfully-concealing-or-keeping-in-confinement-a-kidnapped-person)
 
-- [369 Kidnapping or abducting child under 10 years with intent to steal movable property from the person of such child](#Kidnapping-or-abducting-child-under-10-years-with-intent-to-steal-movable-property-from-the-person-of-such-child)
+- [369 (Repealed)](#Repealed)
 
 - [370 Buying or disposing of any person as a slave](#Buying-or-disposing-of-any-person-as-a-slave)
 
@@ -842,9 +894,11 @@
 
 - [375 Rape](#Rape)
 
-- [376 Sexual assault by penetration](#Sexual-assault-by-penetration)
+- [376 Sexual assault involving penetration](#Sexual-assault-involving-penetration)
 
 - [376A Sexual penetration of minor under 16](#Sexual-penetration-of-minor-under-16)
+
+- [376AA Exploitative sexual penetration of minor of or above 16 but below 18 years of age](#Exploitative-sexual-penetration-of-minor-of-or-above-16-but-below-18-years-of-age)
 
 - [376B Commercial sex with minor under 18](#Commercial-sex-with-minor-under-18)
 
@@ -854,9 +908,21 @@
 
 - [376E Sexual grooming of minor under 16](#Sexual-grooming-of-minor-under-16)
 
+- [376EA Exploitative sexual grooming of minor of or above 16 but below 18 years of age](#Exploitative-sexual-grooming-of-minor-of-or-above-16-but-below-18-years-of-age)
+
+- [376EB Sexual communication with minor below 16 years of age](#Sexual-communication-with-minor-below-16-years-of-age)
+
+- [376EC Exploitative sexual communication with minor of or above 16 but below 18 years of age](#Exploitative-sexual-communication-with-minor-of-or-above-16-but-below-18-years-of-age)
+
+- [376ED Sexual activity or image in presence of minor below 16 years of age](#Sexual-activity-or-image-in-presence-of-minor-below-16-years-of-age)
+
+- [376EE Exploitative sexual activity or image in presence of minor of or above 16 but below 18 years of age](#Exploitative-sexual-activity-or-image-in-presence-of-minor-of-or-above-16-but-below-18-years-of-age)
+
 - [376F Procurement of sexual activity with person with mental disability](#Procurement-of-sexual-activity-with-person-with-mental-disability)
 
 - [376G Incest](#Incest)
+
+- [376H Procurement of sexual activity by deception or false representation](#Procurement-of-sexual-activity-by-deception-or-false-representation)
 
 - [377 Sexual penetration of a corpse](#Sexual-penetration-of-a-corpse)
 
@@ -864,9 +930,43 @@
 
 - [377B Sexual penetration with living animal](#Sexual-penetration-with-living-animal)
 
-- [377C Interpretation of sections 375 to 377B (sexual offences)](#Interpretation-of-sections-375-to-377B-sexual-offences)
+- [377BA Word or gesture intended to insult modesty of any person](#Word-or-gesture-intended-to-insult-modesty-of-any-person)
 
-- [377D Mistake as to age](#Mistake-as-to-age)
+- [377BB Voyeurism](#Voyeurism)
+
+- [377BC Distribution of voyeuristic image or recording](#Distribution-of-voyeuristic-image-or-recording)
+
+- [377BD Possession of or gaining access to voyeuristic or intimate image or recording](#Possession-of-or-gaining-access-to-voyeuristic-or-intimate-image-or-recording)
+
+- [377BE Distributing or threatening to distribute intimate image or recording](#Distributing-or-threatening-to-distribute-intimate-image-or-recording)
+
+- [377BF Sexual exposure](#Sexual-exposure)
+
+- [377BG Using or involving child in production of child abuse material](#Using-or-involving-child-in-production-of-child-abuse-material)
+
+- [377BH Producing child abuse material](#Producing-child-abuse-material)
+
+- [377BI Distributing or selling child abuse material](#Distributing-or-selling-child-abuse-material)
+
+- [377BJ Advertising or seeking child abuse material](#Advertising-or-seeking-child-abuse-material)
+
+- [377BK Possession of or gaining access to child abuse material](#Possession-of-or-gaining-access-to-child-abuse-material)
+
+- [377BL Exploitation by abusive material of minor of or above 16 but below 18 years of age](#Exploitation-by-abusive-material-of-minor-of-or-above-16-but-below-18-years-of-age)
+
+- [377BM Defences to offences relating to intimate image or recording and voyeurism](#Defences-to-offences-relating-to-intimate-image-or-recording-and-voyeurism)
+
+- [377BN Defences to child abuse material offences](#Defences-to-child-abuse-material-offences)
+
+- [377BO Child abuse material offences outside or partially outside Singapore](#Child-abuse-material-offences-outside-or-partially-outside-Singapore)
+
+- [377C Interpretation of sections 375 to 377BO (sexual offences)](#Interpretation-of-sections-375-to-377BO-sexual-offences)
+
+- [377CA Meaning of exploitative relationship](#Meaning-of-exploitative-relationship)
+
+- [377CB Consent given under misconception in sexual offences](#Consent-given-under-misconception-in-sexual-offences)
+
+- [377D Mistake as to age in sexual offences](#Mistake-as-to-age-in-sexual-offences)
 
 [**Chapter XVII  Offences against property**](#Chapter-XVII--Offences-against-property)
 
@@ -922,7 +1022,7 @@
 
 - [400 Punishment for belonging to gang-robbers](#Punishment-for-belonging-to-gang-robbers)
 
-- [401 Punishment for belonging to wandering gang of thieves](#Punishment-for-belonging-to-wandering-gang-of-thieves)
+- [401 Punishment for belonging to gang of thieves](#Punishment-for-belonging-to-gang-of-thieves)
 
 - [402 Assembling for purpose of committing gang-robbery](#Assembling-for-purpose-of-committing-gang-robbery)
 
@@ -938,19 +1038,19 @@
 
 - [406 Punishment of criminal breach of trust](#Punishment-of-criminal-breach-of-trust)
 
-- [407 Criminal breach of trust by carrier, etc.](#Criminal-breach-of-trust-by-carrier-etc)
+- [407 Criminal breach of trust of property entrusted for purposes of transportation or storage](#Criminal-breach-of-trust-of-property-entrusted-for-purposes-of-transportation-or-storage)
 
-- [408 Criminal breach of trust by clerk or servant](#Criminal-breach-of-trust-by-clerk-or-servant)
+- [408 Criminal breach of trust by employees](#Criminal-breach-of-trust-by-employees)
 
-- [409 Criminal breach of trust by public servant, or by banker, merchant, or agent](#Criminal-breach-of-trust-by-public-servant-or-by-banker-merchant-or-agent)
+- [409 Criminal breach of trust by public servant, or by banker, merchant, agent, director, officer, partner, key executive or fiduciary](#Criminal-breach-of-trust-by-public-servant-or-by-banker-merchant-agent-director-officer-partner-key-executive-or-fiduciary)
 
 [**Receiving stolen property**](#Receiving-stolen-property)
 
 - [410 Stolen property](#Stolen-property)
 
-- [411 Dishonestly receiving stolen property](#Dishonestly-receiving-stolen-property)
+- [411 Receiving stolen property](#Receiving-stolen-property)
 
-- [412 Dishonestly receiving property stolen in the commission of a gang-robbery](#Dishonestly-receiving-property-stolen-in-the-commission-of-a-gang-robbery)
+- [412 Receiving property stolen in the commission of a gang-robbery](#Receiving-property-stolen-in-the-commission-of-a-gang-robbery)
 
 - [413 Habitually dealing in stolen property](#Habitually-dealing-in-stolen-property)
 
@@ -962,6 +1062,8 @@
 
 - [416 Cheating by personation](#Cheating-by-personation)
 
+- [416A Illegally obtained personal information](#Illegally-obtained-personal-information)
+
 - [417 Punishment for cheating](#Punishment-for-cheating)
 
 - [418 Cheating with knowledge that wrongful loss may be thereby caused to a person whose interest the offender is bound to protect](#Cheating-with-knowledge-that-wrongful-loss-may-be-thereby-caused-to-a-person-whose-interest-the-offender-is-bound-to-protect)
@@ -969,6 +1071,8 @@
 - [419 Punishment for cheating by personation](#Punishment-for-cheating-by-personation)
 
 - [420 Cheating and dishonestly inducing a delivery of property](#Cheating-and-dishonestly-inducing-a-delivery-of-property)
+
+- [420A Obtaining services dishonestly or fraudulently](#Obtaining-services-dishonestly-or-fraudulently)
 
 [**Fraudulent deeds and dispositions of property**](#Fraudulent-deeds-and-dispositions-of-property)
 
@@ -980,31 +1084,33 @@
 
 - [424 Dishonest or fraudulent removal or concealment of property or release of claim](#Dishonest-or-fraudulent-removal-or-concealment-of-property-or-release-of-claim)
 
+- [424A Fraud by false representation, non-disclosure or abuse of position not connected with contracts for goods or services](#Fraud-by-false-representation-non-disclosure-or-abuse-of-position-not-connected-with-contracts-for-goods-or-services)
+
 [**Mischief**](#Mischief)
 
 - [425 Mischief](#Mischief)
 
 - [426 Punishment for committing mischief](#Punishment-for-committing-mischief)
 
-- [427 Committing mischief and thereby causing loss or damage to the amount of $500](#Committing-mischief-and-thereby-causing-loss-or-damage-to-the-amount-of-$500)
+- [427 Punishment for committing mischief causing disruption to key service, etc.](#Punishment-for-committing-mischief-causing-disruption-to-key-service-etc)
 
 - [428 Mischief by killing or maiming any animal](#Mischief-by-killing-or-maiming-any-animal)
 
 - [429 (Repealed)](#Repealed)
 
-- [430 Mischief by injury to works of irrigation or by wrongfully diverting water](#Mischief-by-injury-to-works-of-irrigation-or-by-wrongfully-diverting-water)
+- [430 (Repealed)](#Repealed)
 
-- [430A Mischief affecting railway engine, train, etc.](#Mischief-affecting-railway-engine-train-etc)
+- [430A (Repealed)](#Repealed)
 
-- [431 Mischief by injury to public road, bridge or river](#Mischief-by-injury-to-public-road-bridge-or-river)
+- [431 (Repealed)](#Repealed)
 
-- [431A Mischief by injury to telegraph cable, wire, etc.](#Mischief-by-injury-to-telegraph-cable-wire-etc)
+- [431A (Repealed)](#Repealed)
 
-- [432 Mischief by causing inundation or obstruction to public drainage, attended with damage](#Mischief-by-causing-inundation-or-obstruction-to-public-drainage-attended-with-damage)
+- [432 (Repealed)](#Repealed)
 
-- [433 Mischief by destroying or moving or rendering less useful a lighthouse or sea-mark](#Mischief-by-destroying-or-moving-or-rendering-less-useful-a-lighthouse-or-sea-mark)
+- [433 (Repealed)](#Repealed)
 
-- [434 Mischief by destroying or moving, etc., a landmark fixed by public authority](#Mischief-by-destroying-or-moving-etc-a-landmark-fixed-by-public-authority)
+- [434 (Repealed)](#Repealed)
 
 - [435 Mischief by fire or explosive substance with intent to cause damage](#Mischief-by-fire-or-explosive-substance-with-intent-to-cause-damage)
 
@@ -1022,51 +1128,51 @@
 
 - [441 Criminal trespass](#Criminal-trespass)
 
-- [442 House-trespass](#House-trespass)
+- [442 House-breaking](#House-breaking)
 
-- [443 Lurking house-trespass](#Lurking-house-trespass)
+- [443 (Repealed)](#Repealed)
 
-- [444 Lurking house-trespass by night](#Lurking-house-trespass-by-night)
+- [444 (Repealed)](#Repealed)
 
-- [445 House-breaking](#House-breaking)
+- [445 (Repealed)](#Repealed)
 
-- [446 House-breaking by night](#House-breaking-by-night)
+- [446 (Repealed)](#Repealed)
 
 - [447 Punishment for criminal trespass](#Punishment-for-criminal-trespass)
 
-- [448 Punishment for house-trespass](#Punishment-for-house-trespass)
+- [448 Punishment for house-breaking](#Punishment-for-house-breaking)
 
-- [449 House-trespass in order to commit an offence punishable with death](#House-trespass-in-order-to-commit-an-offence-punishable-with-death)
+- [449 House-breaking in order to commit an offence punishable with death](#House-breaking-in-order-to-commit-an-offence-punishable-with-death)
 
-- [450 House-trespass in order to commit an offence punishable with imprisonment for life](#House-trespass-in-order-to-commit-an-offence-punishable-with-imprisonment-for-life)
+- [450 House-breaking in order to commit an offence punishable with imprisonment for life](#House-breaking-in-order-to-commit-an-offence-punishable-with-imprisonment-for-life)
 
-- [451 House-trespass in order to commit an offence punishable with imprisonment](#House-trespass-in-order-to-commit-an-offence-punishable-with-imprisonment)
+- [451 House-breaking in order to commit an offence punishable with imprisonment](#House-breaking-in-order-to-commit-an-offence-punishable-with-imprisonment)
 
-- [452 House-trespass after preparation made for causing hurt, etc.](#House-trespass-after-preparation-made-for-causing-hurt-etc)
+- [452 House-breaking after preparation made for causing hurt, etc.](#House-breaking-after-preparation-made-for-causing-hurt-etc)
 
-- [453 Punishment for lurking house-trespass or house-breaking](#Punishment-for-lurking-house-trespass-or-house-breaking)
+- [453 Possession of house-breaking implements or offensive weapons](#Possession-of-house-breaking-implements-or-offensive-weapons)
 
-- [454 Lurking house-trespass or house-breaking in order to commit an offence punishable with imprisonment](#Lurking-house-trespass-or-house-breaking-in-order-to-commit-an-offence-punishable-with-imprisonment)
+- [454 (Repealed)](#Repealed)
 
-- [455 Lurking house-trespass or house-breaking after preparation made for causing hurt, etc.](#Lurking-house-trespass-or-house-breaking-after-preparation-made-for-causing-hurt-etc)
+- [455 (Repealed)](#Repealed)
 
-- [456 Punishment for lurking house-trespass by night or house-breaking by night](#Punishment-for-lurking-house-trespass-by-night-or-house-breaking-by-night)
+- [456 (Repealed)](#Repealed)
 
-- [457 Lurking house-trespass by night or house-breaking by night in order to commit an offence punishable with imprisonment](#Lurking-house-trespass-by-night-or-house-breaking-by-night-in-order-to-commit-an-offence-punishable-with-imprisonment)
+- [457 (Repealed)](#Repealed)
 
-- [458 Lurking house-trespass by night or house-breaking by night after preparation made for causing hurt, etc.](#Lurking-house-trespass-by-night-or-house-breaking-by-night-after-preparation-made-for-causing-hurt-etc)
+- [458 (Repealed)](#Repealed)
 
-- [458A Punishment for subsequent offence under section 454 or 457](#Punishment-for-subsequent-offence-under-section-454-or-457)
+- [458A Punishment for subsequent offence under section 449, 450, 451 or 452](#Punishment-for-subsequent-offence-under-section-449-450-451-or-452)
 
-- [459 Grievous hurt caused while committing lurking house-trespass or house-breaking](#Grievous-hurt-caused-while-committing-lurking-house-trespass-or-house-breaking)
+- [459 Grievous hurt caused while committing house-breaking](#Grievous-hurt-caused-while-committing-house-breaking)
 
-- [460 Lurking house-trespass by night or house-breaking by night when death or grievous hurt is caused](#Lurking-house-trespass-by-night-or-house-breaking-by-night-when-death-or-grievous-hurt-is-caused)
+- [460 Lurking house-trespass by night or house-breaking by night when death or grievous hurt is causedHouse-breaking when death or grievous hurt caused](#Lurking-house-trespass-by-night-or-house-breaking-by-night-when-death-or-grievous-hurt-is-causedHouse-breaking-when-death-or-grievous-hurt-caused)
 
 - [461 Dishonestly breaking open any closed receptacle containing or supposed to contain property](#Dishonestly-breaking-open-any-closed-receptacle-containing-or-supposed-to-contain-property)
 
 - [462 Punishment for same offence when committed by person entrusted with custody](#Punishment-for-same-offence-when-committed-by-person-entrusted-with-custody)
 
-[**Chapter XVIII  Offences relating to documents or electronic records, false instruments, and to currency notes and bank notes**](#Chapter-XVIII--Offences-relating-to-documents-or-electronic-records-false-instruments-and-to-currency-notes-and-bank-notes)
+[**Chapter XVIII  Offences relating to documents or electronic records, false instruments, and to currency and bank notes**](#Chapter-XVIII--Offences-relating-to-documents-or-electronic-records-false-instruments-and-to-currency-and-bank-notes)
 
 - [463 Forgery](#Forgery)
 
@@ -1106,27 +1212,35 @@
 
 - [477A Falsification of accounts](#Falsification-of-accounts)
 
-[**Currency notes and bank notes**](#Currency-notes-and-bank-notes)
+[**Currency and bank notes**](#Currency-and-bank-notes)
 
-- [489A Forging or counterfeiting currency notes or bank notes](#Forging-or-counterfeiting-currency-notes-or-bank-notes)
+- [489A Forging or counterfeiting currency or bank notes](#Forging-or-counterfeiting-currency-or-bank-notes)
 
-- [489B Using as genuine forged or counterfeit currency notes or bank notes](#Using-as-genuine-forged-or-counterfeit-currency-notes-or-bank-notes)
+- [489B Using as genuine forged or counterfeit currency or bank notes](#Using-as-genuine-forged-or-counterfeit-currency-or-bank-notes)
 
-- [489C Possession of forged or counterfeit currency notes or bank notes](#Possession-of-forged-or-counterfeit-currency-notes-or-bank-notes)
+- [489C Possession of forged or counterfeit currency or bank notes](#Possession-of-forged-or-counterfeit-currency-or-bank-notes)
 
-- [489D Making or possessing instruments or materials for forging or counterfeiting currency notes or bank notes](#Making-or-possessing-instruments-or-materials-for-forging-or-counterfeiting-currency-notes-or-bank-notes)
+- [489D Making or possessing instruments or materials for forging or counterfeiting currency or bank notes](#Making-or-possessing-instruments-or-materials-for-forging-or-counterfeiting-currency-or-bank-notes)
 
-- [489E (Repealed)](#Repealed)
+- [489E Abetting in Singapore counterfeiting of currency out of Singapore](#Abetting-in-Singapore-counterfeiting-of-currency-out-of-Singapore)
 
-[**Chapter XX  Offences relating to marriage**](#Chapter-XX--Offences-relating-to-marriage)
+- [489F Fraudulently or dishonestly diminishing weight or altering composition of any coin](#Fraudulently-or-dishonestly-diminishing-weight-or-altering-composition-of-any-coin)
 
-- [493 Cohabitation caused by a man deceitfully inducing a belief of lawful marriage](#Cohabitation-caused-by-a-man-deceitfully-inducing-a-belief-of-lawful-marriage)
+- [489G Altering appearance of currency with intent that it shall pass as currency of different description](#Altering-appearance-of-currency-with-intent-that-it-shall-pass-as-currency-of-different-description)
 
-- [494 Marrying again during the lifetime of husband or wife](#Marrying-again-during-the-lifetime-of-husband-or-wife)
+- [489H Delivery to another of altered currency](#Delivery-to-another-of-altered-currency)
 
-- [495 Same offence with concealment of the former marriage from the person with whom subsequent marriage is contracted](#Same-offence-with-concealment-of-the-former-marriage-from-the-person-with-whom-subsequent-marriage-is-contracted)
+- [489I Possession of altered currency](#Possession-of-altered-currency)
 
-- [496 Marriage ceremony gone through with fraudulent intent without lawful marriage](#Marriage-ceremony-gone-through-with-fraudulent-intent-without-lawful-marriage)
+[**Chapter XX**](#Chapter-XX)
+
+- [493 (Repealed)](#Repealed)
+
+- [494 (Repealed)](#Repealed)
+
+- [495 (Repealed)](#Repealed)
+
+- [496 (Repealed)](#Repealed)
 
 - [498 (Repealed)](#Repealed)
 
@@ -1152,15 +1266,19 @@
 
 - [507 Criminal intimidation by an anonymous communication](#Criminal-intimidation-by-an-anonymous-communication)
 
-- [508 Act caused by inducing a person to believe that he will be rendered an object of divine displeasure](#Act-caused-by-inducing-a-person-to-believe-that-he-will-be-rendered-an-object-of-divine-displeasure)
+- [508 (Repealed)](#Repealed)
 
-- [509 Word or gesture intended to insult the modesty of a woman](#Word-or-gesture-intended-to-insult-the-modesty-of-a-woman)
+- [509 (Repealed)](#Repealed)
 
 - [510 (Repealed)](#Repealed)
 
 [**Chapter XXIII  Attempts to commit offences**](#Chapter-XXIII--Attempts-to-commit-offences)
 
-- [511 Punishment for attempting to commit offences](#Punishment-for-attempting-to-commit-offences)
+- [511 Attempt to commit offence](#Attempt-to-commit-offence)
+
+- [512 Punishment for attempting to commit offences](#Punishment-for-attempting-to-commit-offences)
+
+[**THE SCHEDULE Specified offences deemed to be committed in Singapore**](#THE-SCHEDULE)
 
 [**Legislative Source Key**](#Legislative-Source-Key)
 
@@ -1206,6 +1324,32 @@ Preliminary
 
 [51/2007]
 
+### Offences against State and genocide committed outside Singapore by citizen or permanent resident
+
+4A\. Every person who, being a citizen or permanent resident of Singapore, commits an act or omission outside Singapore that if committed in Singapore would constitute an offence under Chapter VI (Offences against the State) or VIB (Genocide), is deemed to have committed that act or omission in Singapore.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Punishment of specified offences with elements occurring in Singapore but others occurring outside Singapore
+
+4B\.—(1) A specified offence is deemed to have been committed in Singapore where —
+
+(a) a relevant act of the specified offence occurs in Singapore and any other relevant act of that specified offence occurs outside Singapore;
+
+(b) a relevant act of the specified offence occurs partly in Singapore and partly outside Singapore, whether or not other relevant acts of that specified offence occur in Singapore; or
+
+(c) the specified offence involved an intention to make a gain or cause a loss or exposure to a risk of loss or to cause harm to any person in body, mind, reputation or property, and that gain, loss or harm occurs in Singapore.
+
+(2) In this section —
+
+“relevant act”, in relation to a specified offence, means an act or omission (whether occurring wholly or partly in or outside Singapore) which is a physical element of the specified offence;
+
+“specified offence” means an offence specified in the Schedule and includes an attempt to commit the offence, an abetment of the offence and a criminal conspiracy to commit the offence.
+
+(3) The Minister may, by order in theGazette, amend the Schedule.
+
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Certain laws not to be affected by this Code
 
 5\. Nothing in this Code is intended to repeal, vary, suspend, or affect any of the provisions of any Act for punishing mutiny and desertion of officers or servicemen in the Singapore Armed Forces, or of any other law for the time being in force.
@@ -1227,6 +1371,12 @@ Illustrations
 (b)A, a police officer, without warrant, apprehendsZ, who has committed murder. Here A is not guilty of the offence of wrongful confinement, for he was bound by law to apprehendZ, and therefore the case falls within the general exception which provides that “nothing is an offence which is done by a person who is bound by law to do it”.
 
 [Indian PC 1860, s. 6]
+
+### Definitions to apply to this Code and other written law
+
+6A\. Every definition of a word or expression which is explained in sections 22A to 26H (except the definitions of “dishonestly” and “fraudulently” in sections 24 and 25, respectively) applies to any offence in this Code or in any other written law unless that written law expressly provides for a definition or explanation of that same word or expression.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Expression once explained is used in the same sense throughout this Code
 
@@ -1306,11 +1456,35 @@ Illustrations
 
 (f) every person who holds any office by virtue of which he is empowered to place or keep any person in confinement;
 
-(g) every officer of Government whose duty it is, as such officer, to prevent offences, to give information of offences, to bring offenders to justice, or to protect the public health, safety or convenience;
+(g) every officer of the Government and every officer or employee of a body corporate established by a public Act for the purposes of a public function whose duty, as such officer or employee, is any of the following:
+
+(i) maintaining law and order;
+
+(ii) preserving the public peace;
+
+(iii) preventing and detecting offences;
+
+(iv) apprehending offenders or otherwise bringing offenders to justice;
+
+(v) executing summonses, subpoenas, warrants, commitments and other legal processes issued by a court or Justice of the Peace;
+
+(vi) maintaining order in the premises of the courts of justice;
+
+(vii) escorting and guarding prisoners and accused persons in remand;
+
+(viii) protecting the public health or safety or prevention of public inconvenience;
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (h) every officer whose duty it is, as such officer, to take, receive, keep or expend any property, on behalf of Government, or to make any survey, assessment, or contract on behalf of Government, or to execute any revenue process, or to investigate, or to report on any matter affecting the pecuniary interests of Government, or to make, authenticate or keep any document relating to the pecuniary interests of Government, or to prevent the infraction of any law for the protection of the pecuniary interests of Government, and every officer in the service or pay of Government, or remunerated by fees or commission for the performance of any public duty;
 
-(i) a member of the Public Service Commission or the Legal Service Commission constituted under Part IX of the Constitution.
+(i) a member of the Public Service Commission or the Legal Service Commission constituted under Part IX of the Constitution;
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(j) every person (other than a person mentioned in paragraph (g)) who is employed to carry out any of the duties, mentioned in paragraph (g)(i) to (vii), on behalf of the Government or a body corporate established by a public Act for the purposes of a public function, when that person is performing such duties.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 Illustration
 
@@ -1320,43 +1494,73 @@ Explanation1.—Persons falling under any of the above descriptions are public s
 
 Explanation2.—Wherever the words “public servant” occur, they shall be understood of every person who is in actual possession of the situation of a public servant, whatever legal defect there may be in his right to hold that situation.
 
-[Indian PC 1860, s. 21]
-
 [Act 19 of 2016 wef 01/10/2017]
+
+[Indian PC 1860, s. 21]
 
 (2) Despite subsection (1), the words “public servant” in sections 175, 178, 179, 180 and 228 does not include a judge as defined in the Administration of Justice (Protection) Act 2016.
 
 [Act 19 of 2016 wef 01/10/2017]
 
-### “Movable property”
+### “Property”
 
-22\. The words “movable property” are intended to include corporeal property of every description, except land and things attached to the earth, or permanently fastened to anything which is attached to the earth.
+22\. In this Code —
+
+“immovable property” means land, benefits to arise out of land and things attached to the earth or permanently fastened to anything attached to the earth;
+
+“movable property” includes property of every description, except immovable property;
+
+“property” means money and all other property, movable or immovable, including things in action, other intangible or incorporeal property and virtual currency;
+
+“virtual currency” means a digital representation of value in money or money’s worth that can be digitally traded and functions as a medium of exchange, a unit of account or store of value, regardless of whether it is legal tender in any country or territory including Singapore.
 
 Illustration
 
 Writings, relating to real or personal property or rights, are movable property.
 
-[Indian PC 1860, s. 22]
+[Act 15 of 2019 wef 01/01/2020]
+
+### “Fault element” and “physical element”
+
+22A\.—(1) A fault element of an offence refers to any state of mind, proof of which is needed to establish liability under that offence, including but not limited to intention, wilfulness, knowledge, rashness and negligence.
+
+(2) A physical element of an offence refers to any fact, proof of which is needed to establish liability under that offence, and that is not a fault element of that offence.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### “Wrongful gain” and “wrongful loss”
 
-23\. “Wrongful gain” is gain by unlawful means of property to which the person gaining it is not legally entitled; “wrongful loss” is loss by unlawful means of property to which the person losing it is legally entitled.
+23\.—(1) A “wrongful gain” is gain by unlawful means of property to which the person gaining it is not legally entitled or avoidance by unlawful means of a loss of property to which the person avoiding it is not legally entitled to avoid.
 
-Explanation.—A person is said to gain wrongfully when such person retains wrongfully, as well as when such person acquires wrongfully. A person is said to lose wrongfully when such person is wrongfully kept out of any property, as well as when such person is wrongfully deprived of property.
+(2) A “wrongful loss” is loss or exposure of risk to a loss by unlawful means of property to which the person losing it or exposed to the risk of losing it is legally entitled.
 
-[Indian PC 1860, s. 23]
+Explanation1.—A person is said to gain wrongfully when the person retains wrongfully, as well as when the person acquires wrongfully. A person is said to lose wrongfully when the person is wrongfully kept out of any property, as well as when the person is wrongfully deprived of property.
+
+Explanation2.—The word “gain” includes a gain by keeping what one has, as well as a gain by getting what one does not have.
+
+Explanation3.—The word “loss” includes a loss by not getting what one might get, as well as a loss by parting with what one has.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### “Dishonestly”
 
-24\. Whoever does anything with the intention of causing wrongful gain to one person, or wrongful loss to another person, is said to do that thing dishonestly.
+24\. A person (A) is said to do an act dishonestly if —
 
-[Indian PC 1860, s. 24]
+(a) Adoes that act with the intention of causing wrongful gain toAor another person, or wrongful loss to another person, regardless of whether such gain or loss is temporary or permanent; or
+
+(b) that act done byAis dishonest by the ordinary standards of reasonable and honest persons andAknows that that act is dishonest by such standards.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### “Fraudulently”
 
-25\. A person is said to do a thing fraudulently if he does that thing with intent to defraud, but not otherwise.
+25\. A person (A) is said to do an act fraudulently ifAdoes that act with intent to deceive another person (B) and by means of such deception, that an advantage should accrue toAor another person or detriment should befallBor another person (other thanA), regardless of whether such advantage or detriment is temporary or permanent.
 
-[Indian PC 1860, s. 25]
+Explanation1.—Where the advantage or the detrimentAintended by means of the act done is so slight that no reasonable person of ordinary sense or temper would complain of it, the act is not done fraudulently.
+
+Explanation2.—It is sufficient in any charge for an offence under this Code involving doing an act fraudulently to allege a general intent to act fraudulently without naming any particular person intended to be deceived.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### “Reason to believe”
 
@@ -1400,9 +1604,9 @@ Explanation2.—Where a person causes one thing to resemble another thing and th
 
 (f) any paper or other material on which there are marks, impressions, figures, letters, symbols or perforations having a meaning for persons qualified to interpret them.
 
-[51/2007]
-
 [CPC 1985 Ed., s. 378(3)]
+
+[51/2007]
 
 ### “Writing”
 
@@ -1414,13 +1618,15 @@ Explanation2.—Where a person causes one thing to resemble another thing and th
 
 29B\. The expression “electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88).
 
-[51/2007]
-
 [Indian PC 1860, s. 29A]
+
+[51/2007]
 
 ### “Valuable security”
 
-30\.—(1) The words “valuable security” denote a document which is, or purports to be, a document whereby any legal right is created, extended, transferred, restricted, extinguished, or released, or whereby any person acknowledges that he lies under legal liability, or has not a certain legal right.
+30\.—(1) The words “valuable security” denote a document or an electronic record which is, or purports to be, a document or an electronic record whereby any legal right is created, extended, transferred, restricted, extinguished, or released, or whereby any person acknowledges that he lies under legal liability, or has not a certain legal right.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (2) Notwithstanding the generality of subsection (1), “valuable security” includes credit cards, charge cards, stored value cards, automated teller machine cards and such other cards which have money or money’s worth or other financial rights attached.
 
@@ -1428,9 +1634,13 @@ Explanation2.—Where a person causes one thing to resemble another thing and th
 
 Illustration
 
-Awrites his name on the back of a bill of exchange. As the effect of this endorsement is to transfer the right to the bill to any person who may become the lawful holder of it, the endorsement is a “valuable security”.
+(a)Awrites his name on the back of a bill of exchange. As the effect of this endorsement is to transfer the right to the bill to any person who may become the lawful holder of it, the endorsement is a “valuable security”.
+
+(b) An electronic bill of lading in the form of an electronic record in a secure electronic trading system is a “valuable security”.
 
 [Indian PC 1860, s. 30]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### “A will”
 
@@ -1446,9 +1656,9 @@ Awrites his name on the back of a bill of exchange. As the effect of this endors
 
 “instrument” includes any document whether of a formal or an informal nature, any postage stamp or revenue stamp, any seal or die, and any disc, card, tape, microchip, sound-track or other device on or in which information is recorded or stored by mechanical, electronic, optical or other means.
 
-[51/2007]
-
 [HK Crimes Ordinance 1971, s. 68]
+
+[51/2007]
 
 ### Words referring to acts include illegal omissions
 
@@ -1458,7 +1668,17 @@ Awrites his name on the back of a bill of exchange. As the effect of this endors
 
 ### “Act” and “omission”
 
-33\. The word “act” denotes as well a series of acts as a single act; the word “omission” denotes as well a series of omissions as a single omission.
+33\.—(1) The word “act” denotes as well a series of acts as a single act; the word “omission” denotes as well a series of omissions as a single omission.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) To avoid doubt, where a person does a series of acts, one or more of which caused a certain effect, that person is regarded to have caused that effect by that series of acts even if it is not known which of the acts in that series caused that effect.
+
+Illustration
+
+AgivesZsmall doses of poison inZ’s food at different times over the course of a few days, with intent to killZ.Zdies from poisoning, although it is not known which of those doses (individually or collectively) causedZ’s death.Ahas causedZ’s death by poisoning.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 33]
 
@@ -1524,11 +1744,13 @@ Asets fire, by night, to an inhabited house in a large town, for the purpose of 
 
 40\.—(1) Except in the Chapters and sections mentioned in subsections (2) and (3), “offence” denotes a thing made punishable by this Code.
 
-(2) In Chapters IV, V and VA, and in sections 4, 187, 194, 195, 203, 204B, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388, 389 and 445, “offence” denotes a thing punishable under this Code or under any other law for the time being in force.
-
-[15/2010 wef 02/01/2011]
+(2) In Chapters IV, V and VA, and in sections 4, 187, 194, 195, 203, 204B, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388 and 389, “offence” denotes a thing punishable under this Code or under any other written law for the time being in force.
 
 [51/2007]
+
+[Act 15/2010 wef 02/01/2011]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (3) In sections 141, 176, 177, 201, 202, 212, 216 and 441, “offence” has the same meaning when the thing punishable under any other law for the time being in force is punishable under such law with imprisonment for a term of 6 months or upwards, whether with or without fine.
 
@@ -1561,6 +1783,12 @@ Asets fire, by night, to an inhabited house in a large town, for the purpose of 
 44\. The word “injury” denotes any harm whatever illegally caused to any person, in body, mind, reputation or property.
 
 [Indian PC 1860, s. 44]
+
+### “Bodily injury”
+
+44A\. The words “bodily injury” denote as well a series of bodily injuries as a single bodily injury.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### “Life”
 
@@ -1638,13 +1866,11 @@ Explanation.—Caning shall be with a rattan.
 
 [51/2007]
 
-Fractions of terms of punishment
-
-\*57\. [Repealed by Act 51 of 2007]
+57\. \*[Repealed by Act 51 of 2007]
 
 \*There are no sections 55 and 56.
 
-71\. \*[Repealed by Act 15/2010 wef 02/01/2011]
+71\. \*[Repealed by Act 15 of 2010 wef 02/01/2011]
 
 \*There are no sections 58 to 70.
 
@@ -1654,43 +1880,39 @@ Fractions of terms of punishment
 
 [Indian PC 1860, s. 72]
 
-### Enhanced penalties for offences against domestic maids
+### Enhanced penalties for offences against domestic workers
 
-73\.—(1) Subsection (2) shall apply where an employer of a domestic maid or a member of the employer’s household is convicted of —
+73\.—(1) Where an employer of a domestic worker, a member of the employer’s household or an employment agent of a domestic worker is convicted of an offence under this Code (other than an excluded offence) that is committed against that domestic worker, the court may sentence the person convicted to twice the maximum punishment that the court could, but for this section, impose for that offence.
 
-(a) an offence of causing hurt or grievous hurt to any domestic maid employed by the employer punishable under section 323, 324 or 325;
+(2) This section does not apply where the offender (A) proves that, despiteAbeing an employer of the domestic worker (B), a member ofB’s employer’s household or an employment agent ofB, the relationship betweenAandBdid not adversely affectB’s ability to protect herself fromAin respect of the harm caused by the offence.
 
-(b) an offence of wrongfully confining any domestic maid employed by the employer punishable under section 342, 343 or 344;
+(3) Despite anything to the contrary in the Criminal Procedure Code (Cap. 68) —
 
-(c) an offence of assaulting or using criminal force to any domestic maid employed by the employer punishable under section 354;
+(a) a Magistrate’s Court has jurisdiction to try the offences in subsection (1), where no imprisonment is prescribed or where twice the maximum term of imprisonment prescribed for the offence does not exceed 5 years, and has power to impose the full punishment provided under that subsection in respect of those offences; and
 
-(d) an offence of doing any act that is intended to insult the modesty of any domestic maid employed by the employer punishable under section 509; or
+(b) a District Court has jurisdiction to try the offences in subsection (1) and has power to impose the full punishment provided under that subsection in respect of those offences.
 
-(e) an offence of attempting to commit, abetting the commission of, or being a party to a criminal conspiracy to commit, an offence described in paragraphs (a) to (d).
+(4) In this section —
 
-[18/98]
-
-(2) Where an employer of a domestic maid or a member of the employer’s household is convicted of an offence described in subsection (1)(a), (b), (c), (d) or (e), the court may sentence the employer of the domestic maid or the member of his household, as the case may be, to one and a half times the amount of punishment to which he would otherwise have been liable for that offence.
-
-[18/98]
-
-(3) Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68) —
-
-(a) a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under sections 343, 344 and 354 and shall have power to award the full punishment provided under subsection (2) in respect of those offences; and
-
-(b) a District Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under sections 324 and 325 and shall have power to award the full punishment provided under subsection (2) in respect of those offences.
-
-[18/98]
-
-(4) For the purposes of this section —
-
-“domestic maid” means any female house servant employed in, or in connection with, the domestic services of her employer’s private dwelling-house and who resides in her employer’s private dwelling-house;
+“domestic worker” means any female house servant employed in, or in connection with, the domestic services of her employer’s private dwelling-house and who is required to reside in her employer’s private dwelling-house;
 
 “dwelling-house” means a place of residence and includes a building or tenement wholly or principally used, constructed or adapted for use for human habitation;
 
-“member of the employer’s household”, in relation to a domestic maid, means a person residing in the employer’s private dwelling-house at the time the offence was committed whose orders the domestic maid has reasonable grounds for believing she is expected to obey.
+“employer”, in relation to a domestic worker, includes a person who has the same fundamental qualities as an employer of the domestic worker and whose orders the domestic worker has reasonable grounds for believing she is expected to obey;
 
-[18/98]
+“employment agency personnel” has the meaning given by section 2 of the Employment Agencies Act (Cap. 92);
+
+“employment agent”, in relation to a domestic worker, means an employment agency personnel or a person who performs work similar to an employment agency personnel, and whose orders the domestic worker has reasonable grounds for believing she is expected to obey;
+
+“excluded offence” means an offence —
+
+(a) under section 304B or 335A; or
+
+(b) under this Code which is punishable with death or imprisonment for life;
+
+“member of the employer’s household”, in relation to a domestic worker, means a person residing in the private dwelling-house of the domestic worker’s employer at the time the offence was committed, and whose orders the domestic worker has reasonable grounds for believing she is expected to obey.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Enhanced penalties for racially or religiously aggravated offences
 
@@ -1700,7 +1922,9 @@ Fractions of terms of punishment
 
 (2) The offence referred to in subsection (1) is as follows:
 
-(a) an offence under section 143, 144, 145, 147, 148, 151, 153, 158, 267B, 267C, 323, 324, 325, 341, 342, 343, 344, 346, 352, 354, 355, 357, 363A, 504, 505, 506, 507 or 509; or
+(a) an offence under section 143, 144, 145, 147, 148, 151, 153, 158, 267B, 267C, 323, 324, 325, 341, 342, 346, 352, 354, 355, 357, 363A, 376ED, 376EE, 377BA, 377BB, 377BC, 377BD, 377BE, 377BF, 504, 505, 506 or 507; or
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (b) an offence of attempting to commit, abetting the commission of, or being a party to a criminal conspiracy to commit, any offence under paragraph (a).
 
@@ -1708,7 +1932,9 @@ Fractions of terms of punishment
 
 (3) Notwithstanding anything to the contrary in the Criminal Procedure Code (Cap. 68) —
 
-(a) a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under sections 143, 151, 153, 323, 343, 344, 346, 354(1), 355, 504, 505 and 507 and shall have power to award the full punishment provided under subsection (1) in respect of those offences; and
+(a) a Magistrate’s Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under sections 143, 151, 153, 323, 346, 354(1), 355, 504, 505 and 507 and shall have power to award the full punishment provided under subsection (1) in respect of those offences; and
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (b) a District Court shall have jurisdiction to hear and determine all proceedings for the offences punishable under sections 144, 145, 147, 148, 158, 267C, 324, 325, 354(2), 363A and 506 and shall have power to award the full punishment provided under subsection (1) in respect of those offences.
 
@@ -1736,51 +1962,159 @@ Fractions of terms of punishment
 
 [UK CDA 1998, s. 28(1) to (3)]
 
-### Enhanced penalties for offences against vulnerable adults
+### Enhanced penalties for offences against vulnerable persons
 
-74A\.—(1) This section applies where a person is convicted on or after the date of commencement of the Vulnerable Adults Act 2018 of an offence specified in subsection (3) (called in this section the offender) against a vulnerable adult.
+74A\.—(1) This section applies where a person is convicted on or after the date of commencement of the Vulnerable Adults Act 2018 of an offence specified in subsection (3) (called in this section the offender) against a vulnerable person.
 
-(2) The court may sentence the offender to punishment not exceeding one and a half times the maximum punishment that the court could, but for this section, impose for the offence, if at the time of committing the offence the offender knew or ought reasonably to have known that the victim was a vulnerable adult.
+[Act 15 of 2019 wef 01/01/2020]
 
-(3) The offence mentioned in subsection (1) is any of the following offences:
+(2) The court may sentence the offender to punishment not exceeding twice the maximum punishment that the court could, but for this section, impose for the offence, if at the time of committing the offence the offender knew or ought reasonably to have known that the victim was a vulnerable person.
 
-(a) an offence under section 304A, 323, 324, 325, 334, 335, 336, 337, 338, 341, 342, 343, 344, 346, 347, 352, 354(1), 355, 357, 358, 376G, 508 or 509;
+[Act 15 of 2019 wef 01/01/2020]
 
-(b) an offence of criminal intimidation which is punishable with imprisonment for a term which may extend to 2 years, or with fine, or with both, under section 506.
+(2A) This section does not apply where the offender proves that despite being a vulnerable person the victim was capable of protecting himself from the offender in respect of the harm caused by the offence in the same manner as an ordinary person who is not a vulnerable person.
 
-(4) Despite anything to the contrary in the Criminal Procedure Code (Cap. 68) —
+[Act 15 of 2019 wef 01/01/2020]
 
-(a) a Magistrate’s Court has jurisdiction to try the offences punishable under sections 304A(a), 338(a) and 376G, and power to impose the full punishment provided under subsection (2) in respect of those offences; and
+(3) The offence to which this section applies is any offence under this Code which may be committed against a vulnerable person except an offence —
 
-(b) a District Court has jurisdiction to try the offences punishable under sections 324 and 325, and power to impose the full punishment provided under subsection (2) in respect of those offences.
+(a) under section 304B, 304C, 335A or 376F; or
 
-(5) In this section, “vulnerable adult” has the meaning given by section 2 of the Vulnerable Adults Act 2018.
+(b) punishable with death or imprisonment for life.
 
-[Act 27 of 2018 wef 19/12/2018]
+[Act 15 of 2019 wef 01/01/2020]
 
-### Punishment of persons convicted, after a previous conviction, of an offence punishable with 3 years’ imprisonment
+(4) Despite anything to the contrary in the Criminal Procedure Code —
 
-75\. Whoever, having been convicted of an offence punishable under Chapter XII or Chapter XVII with imprisonment for a term of 3 years or upwards, is guilty of any offence punishable under either of those Chapters with imprisonment for a term of 3 years or upwards, shall be subject for every such subsequent offence to imprisonment for life, or to double the amount of punishment to which he would otherwise have been liable for the same; but if he is not sentenced to imprisonment for life, he shall not in any case be liable to imprisonment for a term exceeding 15 years.
+(a) a Magistrate’s Court has jurisdiction to try the offences specified in subsection (3), where no imprisonment is prescribed or where twice the maximum term of imprisonment prescribed for the offence does not exceed 5 years, and has power to impose the full punishment provided under subsection (2) in respect of those offences; and
 
-[51/2007]
+(b) a District Court has jurisdiction to try the offences specified in subsection (3) and has power to impose the full punishment provided under subsection (2) in respect of those offences.
 
-[Indian PC 1860, s. 75]
+[Act 15 of 2019 wef 01/01/2020]
+
+(5) In this section —
+
+“abuse” has the meaning given by section 2(1) of the Vulnerable Adults Act 2018 (Act 27 of 2018);
+
+“self-neglect” has the meaning given by section 2(1) of the Vulnerable Adults Act 2018;
+
+“vulnerable person” means an individual who is, by reason of mental or physical infirmity, disability or incapacity, substantially unable to protect himself from abuse, neglect or self-neglect.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Enhanced penalties for offences against person below 14 years of age
+
+74B\.—(1) Subsection (2) applies to any offence under this Code which may be committed against a person below 14 years of age except where —
+
+(a) it is expressly provided that an enhanced or mandatory minimum sentence will apply to the offence when it is committed against a person below 14 years of age;
+
+(b) the offence is under section 304B, 304C, 377BG, 377BH, 377BI, 377BJ or 377BK; or
+
+(c) the offence is punishable with death or imprisonment for life.
+
+(2) Where any person commits an offence under this Code against a person below 14 years of age, the court may sentence the person convicted of the offence to punishment not exceeding twice the maximum punishment that the court could, but for this section, impose for the offence if at the time of committing the offence the offender knew or ought reasonably to have known that the victim was a person below 14 years of age.
+
+(3) This section does not apply where the offender proves that the victim despite being a person below 14 years of age, was capable of protecting himself from the offender in respect of the harm caused by the offence in the same manner as a person of or above 14 years of age.
+
+(4) Despite anything to the contrary in the Criminal Procedure Code —
+
+(a) a Magistrate’s Court has jurisdiction to try the offences to which subsection (2) applies, where no imprisonment is prescribed or where twice the maximum term of imprisonment prescribed for the offence does not exceed 5 years, and has power to impose the full punishment provided under subsection (2) in respect of those offences; and
+
+(b) a District Court has jurisdiction to try the offences to which subsection (2) applies and has power to impose the full punishment provided under subsection (2) in respect of those offences.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Enhanced penalties for offences against victims in intimate relationships
+
+74C\.—(1) Subsection (2) applies where an offender (A) is convicted of any offence under Chapter XVI (except an offence punishable with death or imprisonment for life) committed against a person (B) who was or is in an intimate relationship withA.
+
+(2) When the offender (A) commits an offence againstB, the court may sentence the person convicted of the offence to punishment not exceeding twice the maximum punishment that the court could, but for this section, impose for the offence if at the time of committing the offenceAknew or ought reasonably to have known thatBwas or is in an intimate relationship withA.
+
+(3) This section does not apply where the offender (A) proves that, despiteAhaving been or being in an intimate relationship withB, the relationship betweenAandBdid not adversely affectB’s ability to protectBfromAin respect of the harm caused by the offence.
+
+(4) Despite anything to the contrary in the Criminal Procedure Code —
+
+(a) a Magistrate’s Court has jurisdiction to try the offences to which subsection (2) applies, where no imprisonment is prescribed or where twice the maximum term of imprisonment prescribed for the offence does not exceed 5 years, and has power to impose the full punishment provided under subsection (2) in respect of those offences; and
+
+(b) a District Court has jurisdiction to try the offences to which subsection (2) applies and has power to impose the full punishment provided under subsection (2) in respect of those offences.
+
+(5) For the purpose of this section, the court may determine whether the offender (A) was or is in an intimate relationship with the victim (B) having regard to all the circumstances of the case, including the following:
+
+(a) whetherAandBare living in the same household, although it is not necessary that they live in the same household;
+
+(b) whetherAandBshare the tasks and duties of their daily lives;
+
+(c) whetherAandBhave made arrangements to share expenses or financial support and the degree of financial dependence or interdependence betweenAandB;
+
+(d) whether there is a sexual relationship betweenAandB, although it is not necessary that there be a sexual relationship between them;
+
+(e) whetherAandBshare the care and support of a specific person below 21 years of age;
+
+(f) whetherAandBconduct themselves toward their friends, relatives or other persons as parties to an intimate relationship, and whetherAandBare so treated by their friends, relatives or other persons.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Enhanced penalties for offences against victims in close relationships
+
+74D\.—(1) Subsection (2) applies where an offender (A) is convicted of any offence under Chapter XVI (except an offence punishable with death or imprisonment for life) committed against a person (B) who was or is in a close relationship withA.
+
+(2) When the offender (A) commits an offence againstB, the court may sentence the person convicted of the offence to punishment not exceeding twice the maximum punishment that the court could, but for this section, impose for the offence if at the time of committing the offenceAknew or ought reasonably to have known thatBwas or is in a close relationship withA.
+
+(3) This section does not apply where the offender (A) proves that, despiteAhaving been or being in a close relationship withB, the relationship betweenAandBdid not adversely affectB’s ability to protectBfromAin respect of the harm caused by the offence.
+
+(4) Despite anything to the contrary in the Criminal Procedure Code —
+
+(a) a Magistrate’s Court has jurisdiction to try the offences to which subsection (2) applies, where no imprisonment is prescribed or where twice the maximum term of imprisonment prescribed for the offence does not exceed 5 years, and has power to impose the full punishment provided under subsection (2) in respect of those offences; and
+
+(b) a District Court has jurisdiction to try the offences to which subsection (2) applies and has power to impose the full punishment provided under subsection (2) in respect of those offences.
+
+(5) In this section, the offender (A) was or is in a close relationship with the victim (B) where —
+
+(a) Ais a member of the same household asB; and
+
+(b) AandBhad frequent contact with each other.
+
+(6) For the purposes of subsection (5),AandBare to be treated as members of the same household if —
+
+(a) they live in the same household; or
+
+(b) they do not live in the same household, butAorBvisits the household to which the other belongs so often and for such periods of time that it is reasonable to regardAandBas being members of the same household.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Application of enhanced penalties
+
+74E\.—(1) Where 2 or more of the sections from amongst sections 73 to 74D are applicable to enhance the punishment for an offence from that which the offender would otherwise have been liable for —
+
+(a) the punishment for the same offence shall not be enhanced by the application of more than one of those sections; and
+
+(b) the court may determine which section should apply to enhance the punishment.
+
+(2) Where any punishment prescribed for an offence is —
+
+(a) a specified minimum sentence or a mandatory minimum sentence of imprisonment or caning, section 73, 74, 74A, 74B, 74C or 74D does not apply to enhance such punishment; and
+
+(b) a sentence of caning, section 73, 74, 74A, 74B, 74C or 74D does not apply to enhance the maximum number of strokes of the cane that may be imposed.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+75\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Chapter IV
 
 General Exceptions
 
-### Act done by a person bound, or by mistake of fact believing himself bound by law
+### Act done by person bound, or justified by law
 
-76\. Nothing is an offence which is done by a person who is, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be, bound by law to do it.
+76\. Nothing is an offence which is done by a person who is bound by law to do it or justified by law in doing it.
 
 Illustrations
 
 (a)A, a soldier, fires on a mob by the order of his superior officer, in conformity with the commands of the law.Ahas committed no offence.
 
-(b)A, an officer of a court of justice, being ordered by that court to arrestY, and, after due enquiry, believingZto beY, arrestZ.Ahas committed no offence.
+(b)AseesZrepeatedly stabbingYwith a knife on a public road.Ydies.A, in the exercise of the power which the law gives to all persons apprehending murderers in the act, forcefully seizesZ, in order to detainZso thatZcan be arrested by the police officers when they arrive.Ahas committed no offence.
 
-[Indian PC 1860, s. 76]
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Act of judge when acting judicially
 
@@ -1794,9 +2128,13 @@ Illustrations
 
 [Indian PC 1860, s. 78]
 
-### Act done by a person justified, or by mistake of fact believing himself justified by law
+### Act done by person by mistake of fact believing himself bound or justified by law
 
-79\. Nothing is an offence which is done by any person who is justified by law, or who by reason of a mistake of fact and not by reason of a mistake of law in good faith believes himself to be justified by law, in doing it.
+79\.—(1) Unless otherwise provided by written law, nothing is an offence which is done by any person who by reason of a mistake of fact or in ignorance of a fact in good faith believes himself to be bound by law to do it or justified by law in doing it.
+
+(2) Despite subsection (1), when a mistake of fact or ignorance of a fact negates the fault element required to establish liability under an offence, then to avoid doubt, that offence is not made out.
+
+Explanation.—Where the physical and fault elements of an offence are proven, and the accused person proves the defence under subsection (1), the accused person is not guilty of that offence.
 
 Illustrations
 
@@ -1808,23 +2146,47 @@ Illustrations
 
 (d)X, the commander of a naval vessel, is patrolling Singapore territorial waters.Xreceives information that someone may hijack a vessel in order to commit a terrorist act.Xspots vesselAwhich is proceeding at high speed towards a cruise liner.Xorders vesselAto stop her manoeuvre immediately and fires a warning signal. VesselAinstead starts accelerating towards the cruise liner.X, after assessing the circumstances of the case, and to the best of his judgment exerted in good faith, believes that vesselAis going to ram into the cruise liner.Xgives an order to fire at vesselA. The persons on board vesselAdie as a result.Xhas committed no offence, even though it may turn out that vesselAwas not hijacked nor were there any terrorist on board.
 
-[51/2007]
+(e)A, an officer of a court, being ordered by that court to arrestY, and, after due enquiry, believingZto beY, arrestsZ.Ahas committed no offence.
 
-[Indian PC 1860, s. 79]
+(f)Asees a watch onZ’s desk, which is identical to one thatAowns, and mistakenly believes the watch is actually his.Aintentionally takes the watch out ofZ’s possession withoutZ’s consent while labouring under such mistaken belief.Ahas not committed an offence of theft as he did not intend to dishonestly take the watch out ofZ’s possession.
 
-### Accident in the doing of a lawful act
+[Act 15 of 2019 wef 01/01/2020]
 
-80\. Nothing is an offence which is done by accident or misfortune, and without any criminal intention or knowledge, in the doing of a lawful act in a lawful manner, by lawful means, and with proper care and caution.
+### Mistake of law or ignorance of law not defence
+
+79A\.—(1) A person’s mistake of law or ignorance of the law is not a defence to a charge for an offence unless it is otherwise provided by written law.
+
+(2) Despite subsection (1), when a mistake of law negates the fault element required to establish liability under an offence, then to avoid doubt, that offence is not made out.
 
 Illustration
 
-Ais at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part ofA, his act is excusable and not an offence.
+Amistakenly believes he has in law the right to depriveZof a watch.Aintentionally takes the watch out ofZ’s possession withoutZ’s consent while labouring under such mistaken belief.Ahas not committed an offence of theft as he did not intend to dishonestly take the watch out ofZ’s possession.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Accident in the doing of a lawful act
+
+80\.—(1) Nothing is an offence which is done by accident or misfortune in the doing of a lawful act in a lawful manner, by lawful means, and with proper care and caution.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) Despite subsection (1), when the facts which are relied upon to establish the defence in subsection (1) will, when proven, negate the fault element required to establish liability under an offence, then to avoid doubt, that offence is not made out.
+
+Explanation.—A lawful act in this section is any act which is not an offence under this Code or any written law and which is not otherwise prohibited by law.
+
+Illustration
+
+(a)Ais at work with a hatchet; the head flies off and kills a man who is standing by. Here, if there was no want of proper caution on the part ofA, his act is excusable and not an offence.
+
+(b)Aoperates a construction crane and activates a control that causes a heavy load to fall ontoB, killingB.Adid not act negligently, but his activation of the control caused this result because the construction crane was malfunctioning.Ahas not committed an offence of causing death by doing a negligent act under section 304A as he did not possess the requisite fault element of negligence.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 80]
 
-### Act likely to cause harm but done without a criminal intent, and to prevent other harm
+### Act likely to cause harm but done to prevent other harm
 
-81\. Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done without any criminal intention to cause harm, and in good faith for the purpose of preventing or avoiding other harm to person or property.
+81\. Nothing is an offence merely by reason of its being done with the knowledge that it is likely to cause harm, if it be done in good faith for the purpose of preventing or avoiding other harm to person or property.
 
 Explanation.—It is a question of fact in such a case whether the harm to be prevented or avoided was of such a nature and so imminent as to justify or excuse the risk of doing the act with the knowledge that it was likely to cause harm.
 
@@ -1836,7 +2198,7 @@ Illustrations
 
 (c)X, the commander of a naval vessel, is deployed in response to a threat of a terrorist attack against a ferry terminal in Singapore.Xreceives information that vesselA, with a crew of 6, has been hijacked by terrorists and is approaching the ferry terminal at great speed and is likely to collide into the terminal. There is insufficient time to evacuate the persons at the terminal, which is estimated to be about 100.Xorders vesselAto stop her manoeuvre immediately and fires a warning signal. However, vesselAcontinues her advance towards the terminal. Here, ifXgives an order to fire at vesselAto disable it, without any intention to cause harm to the crew members of vesselA, and in good faith for the purpose of avoiding the danger to the persons at the terminal, he is not guilty of an offence. This is so even though he knows that he is likely to cause harm to the crew members of vesselA, if it be found as a matter of fact that the danger whichXintends to avoid is such as to excuse him in incurring the risk of firing at vesselA.
 
-[51/2007]
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 81]
 
@@ -1852,37 +2214,55 @@ Illustrations
 
 [Indian PC 1860, s. 83]
 
-### Act of a person of unsound mind
+### Act of person of unsound mind
 
-84\. Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is incapable of knowing the nature of the act, or that he is doing what is either wrong or contrary to law.
+84\. Nothing is an offence which is done by a person who, at the time of doing it, by reason of unsoundness of mind, is —
 
-[Indian PC 1860, s. 84]
+(a) incapable of knowing the nature of the act;
+
+(b) incapable of knowing that what he is doing is wrong (whether wrong by the ordinary standards of reasonable and honest persons or wrong as contrary to law); or
+
+(c) completely deprived of any power to control his actions.
+
+Illustration
+
+A, while labouring under a delusion, believes that he has received divine instructions to killZand that it is morally right for him to do so.Ahowever knows that it is contrary to law to killZ.AkillsZ. Here, the defence of unsoundness of mind is not available toAas he is capable of knowing that it is contrary to law to killZ.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Intoxication when a defence
 
 85\.—(1) Except as provided in this section and in section 86, intoxication shall not constitute a defence to any criminal charge.
 
-(2) Intoxication shall be a defence to any criminal charge if by reason thereof the person charged at the time of the act or omission complained of did not know that such act or omission was wrong or did not know what he was doing and —
+(2) Intoxication is a defence to any criminal charge if by reason of the intoxication the person charged, at the time of the act or omission complained of —
 
-(a) the state of intoxication was caused without his consent by the malicious or negligent act of another person; or
+(a) did not know what he was doing; or
 
-(b) the person charged was, by reason of intoxication, insane, temporarily or otherwise, at the time of such act or omission.
+(b) did not know that such act or omission was wrong (whether wrong by the ordinary standards of reasonable and honest persons or wrong as contrary to law),
 
-[Indian PC 1860, s. 85]
+and the state of intoxication was caused without the knowledge or against the will of the person charged with the offence.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(3) Intoxication is a defence to any criminal charge if by reason of the intoxication the person charged was of unsound mind as determined in accordance with section 84.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Effect of defence of intoxication when established
 
-86\.—(1) Where the defence under section 85 is established, then in a case falling under section 85(2)(a) the accused person shall be acquitted, and in a case falling under section 85(2)(b), section 84 of this Code and sections 251 and 252 of the Criminal Procedure Code 2010 shall apply.
+86\.—(1) Where the defence under section 85 is established, then the accused person must be acquitted, except that if the person was of unsound mind by reason of intoxication, section 84 of this Code and sections 251 and 252 of the Criminal Procedure Code will apply.
 
-[15/2010 wef 02/01/2011]
+[Act 15 of 2019 wef 01/01/2020]
 
-(2) Intoxication shall be taken into account for the purpose of determining whether the person charged had formed any intention, specific or otherwise, in the absence of which he would not be guilty of the offence.
+(2) Intoxication shall be taken into account for the purpose of determining whether the person charged had formed any intention or had any knowledge or belief, specific or otherwise, in the absence of which he would not be guilty of the offence.
 
-### Interpretation
+[Act 15 of 2019 wef 01/01/2020]
 
 (3) For the purposes of this section and section 85 “intoxication” shall be deemed to include a state produced by narcotics or drugs.
 
 [Indian PC 1860, s. 86]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Act not intended and not known to be likely to cause death or grievous hurt, done by consent
 
@@ -1939,8 +2319,6 @@ and the person doing the act knows, or has reason to believe, that the consent w
 (b) if the consent is given by a person who, from unsoundness of mind, mental incapacity, intoxication, or the influence of any drug or other substance, is unable to understand the nature and consequence of that to which he gives his consent; or
 
 (c) unless the contrary appears from the context, if the consent is given by a person who is under 12 years of age.
-
-[51/2007]
 
 [Indian PC 1860, s. 90]
 
@@ -2024,17 +2402,33 @@ Right of private defence
 
 ### Right of private defence of the body and of property
 
-97\. Every person has a right, subject to the restrictions contained in section 99, to defend —
+97\. Every person has a right, subject to the restrictions contained in sections 98 and 106A, to defend —
 
 (a) his own body, and the body of any other person, against any offence affecting the human body;
 
 (b) the property, whether movable or immovable, of himself or of any other person, against any act which is an offence falling under the definition of theft, robbery, mischief or criminal trespass, or which is an attempt to commit theft, robbery, mischief or criminal trespass.
 
+[Act 15 of 2019 wef 01/01/2020]
+
 [Indian PC 1860, s. 97]
 
-### Right of private defence against the act of a person of unsound mind, etc.
+### Extent to which right may be exercised
 
-98\. When an act, which would otherwise be a certain offence, is not that offence, by reason of the youth, the want of maturity of understanding, the unsoundness of mind, or the intoxication of the person doing that act, or by reason of any misconception on the part of that person, every person has the same right of private defence against that act which he would have if the act were that offence.
+98\.—(1) The right of private defence does not extend to the inflicting of more harm than it is reasonably necessary in the circumstances.
+
+(2) There is no right of private defence in cases in which there is reasonable opportunity to have recourse to the protection of a public authority in the circumstances.
+
+Illustrations
+
+(a)ZambushesAin a secluded area and attempts to killA.AkillsZwhile fending offZ’s attack.Ais guilty of no offence because, in the circumstances,Ahad no reasonable opportunity to have recourse to the protection of a public authority.
+
+(b)ZambushesAin a secluded area and attempts to killA.A’s right of private defence arises because, at that point of time,Ahad no reasonable opportunity to have recourse to the protection of a public authority. In the midst of the struggle betweenAandZ, a police patrol car arrives on the scene.A’s right of private defence ceases the momentAhad reasonable opportunity to have recourse to the protection of the police.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Right of private defence against act of person of unsound mind, etc.
+
+99\. When an act, which would otherwise be a certain offence, is not that offence, by reason of the youth, the want of maturity of understanding, the unsoundness of mind, or the intoxication of the person doing that act, or by reason of any misconception on the part of that person, every person has the same right of private defence against that act which he would have if the act were that offence.
 
 Illustrations
 
@@ -2042,101 +2436,125 @@ Illustrations
 
 (b)Aenters, by night, a house which he is legally entitled to enter.Z, in good faith, takingAfor a housebreaker, attacksA. HereZ, by attackingAunder this misconception, commits no offence. ButAhas the same right of private defence againstZ, which he would have ifZwere not acting under that misconception.
 
-[Indian PC 1860, s. 98]
+[Act 15 of 2019 wef 01/01/2020]
 
-### Acts against which there is no right of private defence
+### Right of private defence against deadly assault when there is risk of harm to innocent person
 
-99\.—(1) There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by a public servant acting in good faith under colour of his office, though that act may not be strictly justifiable by law.
-
-(2) There is no right of private defence against an act which does not reasonably cause the apprehension of death or of grievous hurt, if done, or attempted to be done, by the direction of a public servant acting in good faith under colour of his office, though that direction may not be strictly justifiable by law.
-
-(3) There is no right of private defence in cases in which there is time to have recourse to the protection of the public authorities.
-
-### Extent to which the right may be exercised
-
-(4) The right of private defence in no case extends to the inflicting of more harm than it is necessary to inflict for the purpose of defence.
-
-Explanation1.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by a public servant, as such, unless he knows, or has reason to believe, that the person doing the act is such public servant.
-
-Explanation2.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by the direction of a public servant, unless he knows, or has reason to believe, that the person doing the act is acting by such direction; or unless such person states the authority under which he acts, or, if he has authority in writing, unless he produces such authority, if demanded.
-
-[Indian PC 1860, s. 99]
-
-### When the right of private defence of the body extends to causing death
-
-100\. The right of private defence of the body extends, under the restrictions mentioned in section 99, to the voluntary causing of death or of any other harm to the assailant, if the offence which occasions the exercise of the right is of any of the following descriptions:
-
-(a) such an assault as may reasonably cause the apprehension that death will otherwise be the consequence of such assault;
-
-(b) such an assault as may reasonably cause the apprehension that grievous hurt will otherwise be the consequence of such assault;
-
-(c) an assault with the intention of committing rape;
-
-(d) an assault with the intention of committing non-consensual penile penetration of the anus;
-
-(e) an assault with the intention of kidnapping or abducting;
-
-(f) an assault with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to apprehend that he will be unable to have recourse to the public authorities for his release.
-
-[51/2007]
-
-[Indian PC 1860, s. 100]
-
-### When such right extends to causing any harm other than death
-
-101\. If the offence is not of any of the descriptions enumerated in section 100, the right of private defence of the body does not extend to the voluntary causing of death to the assailant, but does extend, under the restrictions mentioned in section 99, to the voluntary causing to the assailant of any harm other than death.
-
-[Indian PC 1860, s. 101]
-
-### Commencement and continuance of the right of private defence of the body
-
-102\. The right of private defence of the body commences as soon as a reasonable apprehension of danger to the body arises from an attempt or a threat to commit the offence, though the offence may not have been committed; and it continues as long as such apprehension of danger to the body continues.
-
-[Indian PC 1860, s. 102]
-
-### When the right of private defence of property extends to causing death
-
-103\. The right of private defence of property extends, under the restrictions mentioned in section 99, to the voluntary causing of death or of any other harm to the wrongdoer, if the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right, is an offence of any of the following descriptions:
-
-(a) robbery;
-
-(b) house-breaking by night;
-
-(c) mischief by fire committed on any building, tent or vessel, which building, tent or vessel is used as a human dwelling, or as a place for the custody of property;
-
-(d) theft, mischief or house-trespass, under such circumstances as may reasonably cause apprehension that death or grievous hurt will be the consequence, if such right of private defence is not exercised.
-
-[Indian PC 1860, s. 103]
-
-### When such right extends to causing any harm other than death
-
-104\. If the offence, the committing of which, or the attempting to commit which, occasions the exercise of the right of private defence, is theft, mischief, or criminal trespass, not of any of the descriptions enumerated in section 103, that right does not extend to the voluntary causing of death, but does extend, subject to the restrictions mentioned in section 99, to the voluntary causing to the wrongdoer of any harm other than death.
-
-[Indian PC 1860, s. 104]
-
-### Commencement and continuance of the right of private defence of property
-
-105\.—(1) The right of private defence of property commences when a reasonable apprehension of danger to the property commences.
-
-(2) The right of private defence of property against theft continues till the offender has effected his retreat with the property, or till the assistance of the public authorities is obtained, or till the property has been recovered.
-
-(3) The right of private defence of property against robbery continues as long as the offender causes or attempts to cause to any person death or hurt or wrongful restraint, or as long as the fear of instant death or of instant hurt or of instant personal restraint continues.
-
-(4) The right of private defence of property against criminal trespass or mischief, continues as long as the offender continues in the commission of criminal trespass or mischief.
-
-(5) The right of private defence of property against house-breaking by night continues as long as house-trespass which has been begun by such house-breaking continues.
-
-[Indian PC 1860, s. 105]
-
-### Right of private defence against a deadly assault when there is risk of harm to an innocent person
-
-106\. If, in the exercise of the right of private defence against an assault which reasonably causes the apprehension of death, the defender is so situated that he cannot effectually exercise that right without risk of harm to an innocent person, his right of private defence extends to the running of that risk.
+100\. If, in the exercise of the right of private defence against an assault which causes the defender to reasonably believe that death would be caused to him or to any other person and the defender is so situated that he cannot effectually exercise that right without risk of harm to an innocent person, his right of private defence extends to the running of that risk.
 
 Illustration
 
-Ais attacked by a mob who attempt to murder him. He cannot effectually exercise his right of private defence without firing on the mob, and he cannot fire without risk of harming young children who are mingled with the mob.Acommits no offence if by so firing he harms any of the children.
+Ais attacked by a mob who attempt to murder him.Acannot effectually exercise his right of private defence without firing on the mob, and he cannot fire without risk of harming young children who are mingled with the mob.Acommits no offence if by so firing he harms any of the children.
 
-[Indian PC 1860, s. 106]
+[Act 15 of 2019 wef 01/01/2020]
+
+Right of private defence of body
+
+### Start and continuance of right of private defence of body
+
+101\.—(1) The right of private defence of the body starts as soon as the defender reasonably believes that there is danger to the body (either his own or that of any other person) arising from any act which is an offence against the human body or an attempt or a threat to commit the offence, though the offence may not have been committed.
+
+(2) The right of private defence continues as long as the belief of danger mentioned in subsection (1) continues.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### When right of private defence of body extends to causing death
+
+102\. The right of private defence of the body extends, under the restrictions mentioned in sections 98 and 106A, to the voluntary causing of death to the assailant, if the offence which gives rise to the exercise of the right is of any of the following descriptions:
+
+(a) an assault where the defender reasonably believes that death will otherwise be the consequence of such assault;
+
+(b) an assault where the defender reasonably believes that grievous hurt will otherwise be the consequence of such assault;
+
+(c) an assault that the defender reasonably believes to be done with the intention of committing rape as described in section 375 or causing such rape to be committed;
+
+(d) an assault that the defender reasonably believes to be done with the intention of causing penile penetration of the vagina, anus or mouth as described in section 376(1) or (2);
+
+(e) an assault that the defender reasonably believes to be done with the intention of kidnapping or abducting;
+
+(f) an assault that the defender reasonably believes to be done with the intention of wrongfully confining a person, under circumstances which may reasonably cause him to believe that he will be unable to have opportunity for recourse to a public authority for his release.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### When such right extends to causing any harm other than death
+
+103\. If the offence is not of any of the descriptions mentioned in section 102, the right of private defence of the body does not extend to the voluntary causing of death to the assailant, but does extend, under the restrictions mentioned in sections 98 and 106A, to the voluntary causing to the assailant of any harm other than death.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+Right of private defence of property
+
+### Commencement and continuance of right of private defence of property
+
+104\.—(1) The right of private defence of property starts when the defender reasonably believes that there was a danger to property (either his own or that of any other person) arising from any act which is an offence falling under the definition of theft, robbery, mischief or criminal trespass, or which is an attempt to commit such an offence.
+
+(2) The right of private defence of property against theft continues till —
+
+(a) the offender has effected his retreat with the property;
+
+(b) the assistance of a public authority is obtained; or
+
+(c) the property has been recovered.
+
+(3) The right of private defence of property against robbery continues as long as the offender causes or attempts to cause to any person death or hurt or wrongful restraint, or as long as the fear of instant death or of instant hurt or of instant personal restraint continues.
+
+(4) The right of private defence of property against criminal trespass or mischief continues as long as the offender continues in the commission of criminal trespass or mischief.
+
+(5) The right of private defence of property against house‑breaking continues as long as such house‑breaking continues.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### When right of private defence of property extends to causing death
+
+105\.—(1) The right of private defence of property extends, under the restrictions mentioned in sections 98 and 106A, to the voluntary causing of death to the wrongdoer when the defender reasonably believes that there was a danger to property (either his own or that of any other person) arising from any of the following descriptions:
+
+(a) robbery;
+
+(b) house-breaking committed after 7 p.m. and before 7 a.m. and if the wrongdoer —
+
+(i) effects his entrance into the house or any part of it in any of the 6 ways described in subsection (2); or
+
+(ii) being in the house or any part of it for the purpose of committing an offence, or having committed an offence therein, the wrongdoer leaves the house or any part of it in any of these 6 ways;
+
+(c) mischief by fire committed on any building, tent, container or vessel, which building, tent, container or vessel is used as a human dwelling, or as a place for the custody of property;
+
+(d) theft, mischief or house-breaking, under such circumstances where the defender reasonably believes that death or grievous hurt will be the consequence, if such right of private defence is not exercised.
+
+(2) For the purposes of subsection (1)(b), the 6 ways of entry or leaving by a wrongdoer are as follows:
+
+(a) if the wrongdoer enters or leaves through a passage made by the wrongdoer, or by any abettor of the house-breaking in order to commit the house-breaking;
+
+(b) if the wrongdoer enters or leaves through any passage not intended by any person, other than the wrongdoer or an abettor of the offence, for human entrance, or through any passage to which the wrongdoer has obtained access by scaling or climbing over any wall or building;
+
+(c) if the wrongdoer enters or leaves through any passage which the wrongdoer or any abettor of the house-breaking has opened, in order to commit the house-breaking, by any means by which that passage was not intended by the occupier of the house to be opened;
+
+(d) if the wrongdoer enters or leaves by opening any lock in order to commit the house-breaking, or in order to leave from the house after a house-breaking;
+
+(e) if the wrongdoer effects his entry or leaving by using criminal force or committing an assault, or by threatening any person with assault;
+
+(f) if the wrongdoer enters or leaves by any passage which he knows to have been fastened against such entry or leaving, and to have been unfastened by himself or by an abettor of the house-breaking.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### When such right extends to causing any harm other than death
+
+106\. If the offence, the committing or the attempt to commit of which occasions the exercise of the right of private defence, is theft, mischief, or criminal trespass, not of any of the descriptions mentioned in section 105, that right does not extend to the voluntary causing of death, but does extend, subject to the restrictions mentioned in sections 98 and 106A, to the voluntary causing to the wrongdoer of any harm other than death.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+No right of private defence
+
+### Acts against which there is no right of private defence
+
+106A\.—(1) There is no right of private defence against an act which does not cause the defender to reasonably believe that death or grievous hurt would result, if done, or attempted to be done, by a public servant acting in good faith under the actual or apparent authority of his office, though that act may not be strictly justifiable by law.
+
+(2) There is no right of private defence against an act which does not cause the defender to reasonably believe that death or grievous hurt would result, if done, or attempted to be done, by the direction of a public servant acting in good faith under the actual or apparent authority of the public servant’s office, though that direction may not be strictly justifiable by law.
+
+Explanation1.—A person is not deprived of the right of private defence against an act done, or attempted to be done, by a public servant, as such, unless he knows, or has reason to believe, that the person doing the act is such public servant.
+
+Explanation2.—A person (A) is not deprived of the right of private defence against an act done, or attempted to be done, by the direction of a public servant, unlessAknows, or has reason to believe, that the person doing the act (B) is acting by such direction; or unlessBstates the authority under whichBacts, or, ifBhas authority in writing, unlessBproduces such authority, if demanded.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Chapter V
 
@@ -2144,7 +2562,7 @@ Abetment
 
 ### Abetment of the doing of a thing
 
-107\. A person abets the doing of a thing who —
+107\.—(1) A person abets the doing of a thing who —
 
 (a) instigates any person to do that thing;
 
@@ -2152,13 +2570,19 @@ Abetment
 
 (c) intentionally aids, by any act or illegal omission, the doing of that thing.
 
-Explanation1.—A person who, by wilful misrepresentation, or by wilful concealment of a material fact which he is bound to disclose, voluntarily causes or procures, or attempts to cause or procure, a thing to be done, is said to instigate the doing of that thing.
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) A person may abet the doing of a thing despite the existence of facts of which he is unaware which make the doing of the thing impossible.
+
+Explanation1.—A person who, by intentional misrepresentation, or by intentional concealment of a material fact which he is bound to disclose, voluntarily causes or procures, or attempts to cause or procure, a thing to be done, is said to instigate the doing of that thing.
 
 Illustration
 
-A, a public officer, is authorised by a warrant from a court of justice to apprehendZ.B, knowing that fact and also thatCis notZ, wilfully represents toAthatCisZ, and thereby intentionally causesAto apprehendC. HereBabets by instigation the apprehension ofC.
+A, a public officer, is authorised by a warrant from a court of justice to apprehendZ.B, knowing that fact and also thatCis notZ, intentionally represents toAthatCisZ, and thereby intentionally causesAto apprehendC. HereBabets by instigation the apprehension ofC.
 
 Explanation2.—Whoever, either prior to or at the time of the commission of an act, does anything in order to facilitate the commission of that act, and thereby facilitates the commission thereof, is said to aid the doing of that act.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 107]
 
@@ -2286,29 +2710,39 @@ AinstigatesBto cause grievous hurt toZ.B, in consequence of the instigation, cau
 
 ### Abetment of an offence punishable with death or imprisonment for life
 
-115\. Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence is not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment for a term which may extend to 14 years, and shall also be liable to fine.
+115\. Whoever abets the commission of an offence punishable with death or imprisonment for life, shall, if that offence is not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning; and if any act for which the abettor is liable in consequence of the abetment, and which causes hurt to any person, is done, the abettor shall be liable to imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
 
 Illustration
 
-AinstigatesBto murderZ. The offence is not committed. IfBhad murderedZ, he would have been subject to the punishment of death. Therefore,Ais liable to imprisonment for a term which may extend to 7 years, and also to a fine; and if any hurt be done toZin consequence of the abetment, he will be liable to imprisonment for a term which may extend to 14 years, and to fine.
+AinstigatesBto murderZ. The offence is not committed. IfBhad murderedZ, he would have been subject to the punishment of death. Therefore,Ais liable to imprisonment for a term which may extend to 15 years, and also to fine or to caning; and if any hurt be done toZin consequence of the abetment, he will be liable to imprisonment for a term which may extend to 20 years, and to fine or to caning.
 
 [Indian PC 1860, s. 115]
 
-### Abetment of an offence punishable with imprisonment
+[Act 15 of 2019 wef 01/01/2020]
 
-116\. Whoever abets an offence punishable with imprisonment shall, if that offence is not committed in consequence of the abetment, and no express provision is made by this Code for the punishment of such abetment, be punished with imprisonment for a term which may extend to one-fourth part of the longest term provided for that offence, or with such fine as is provided for that offence, or with both; and if the abettor or the person abetted is a public servant, whose duty it is to prevent the commission of such offence, the abettor shall be punished with imprisonment for a term which may extend to one-half of the longest term provided for that offence, or with such fine as is provided for that offence, or with both.
+### Abetment of offence punishable with imprisonment
+
+116\.—(1) Whoever abets an offence punishable with imprisonment shall, if that offence is not committed in consequence of the abetment, and no express provision is made by this Code or any other written law for the punishment of such abetment, be punished in the same manner as if the abettor had committed the offence.
+
+(2) Despite subsection (1), where the punishment prescribed for an offence mentioned in that subsection is fixed by law, or is a specified minimum sentence or a mandatory minimum sentence of imprisonment or fine or caning, the court sentencing the person who abetted the offence —
+
+(a) shall not be bound to impose the fixed, specified minimum or mandatory minimum sentence; and
+
+(b) may sentence the abettor to such sentence or combination of sentences as the court thinks fit but not exceeding the maximum punishment prescribed for that offence.
+
+(3) To avoid doubt, nothing in subsection (2)(b) empowers a court to impose a type of punishment that is not prescribed for an offence mentioned in subsection (1) or otherwise provided by any written law for that offence.
 
 Illustrations
 
-(a)Aoffers a bribe toB, a public servant, as a reward for showingAsome favour in the exercise ofB’s official functions.Brefuses to accept the bribe.Ais punishable under this section.
+(a)Aoffers a bribe toB, a public servant, as a reward for showingAsome favour in the exercise ofB’s official functions.Brefuses to accept the bribe.Ais punishable under this section for abetting the offence in section 161.
 
 (b)AinstigatesBto give false evidence. Here, ifBdoes not give false evidence,Ahas nevertheless committed the offence defined in this section, and is punishable accordingly.
 
-(c)A, a police officer, whose duty it is to prevent robbery, abets the commission of robbery. Here, though the robbery is not committed,Ais liable to one-half of the longest term of imprisonment provided for that offence, and also to fine.
+(c)A, a police officer, whose duty it is to prevent robbery, abets the commission of robbery. Here, though the robbery is not committed,Ais liable to the maximum term of imprisonment provided for that offence.
 
-(d)Babets the commission of a robbery byA, a police officer, whose duty it is to prevent that offence. Here, though the robbery is not committed,Bis liable to one-half of the longest term of imprisonment provided for the offence of robbery, and also to fine.
+(d)Babets the commission of a robbery byA, a police officer, whose duty it is to prevent that offence. Here, though the robbery is not committed,Bis liable to the same punishment as if he had committed the offence of robbery.
 
-[Indian PC 1860, s. 116]
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Abetting the commission of an offence by the public or by more than 10 persons
 
@@ -2358,33 +2792,25 @@ Criminal Conspiracy
 
 ### Definition of criminal conspiracy
 
-120A\.—(1) When 2 or more persons agree to do, or cause to be done —
+120A\.—(1) When a person agrees with another person to commit an offence or cause an offence to be committed, such an agreement is designated a criminal conspiracy.
 
-(a) an illegal act; or
+(2) A person may be a party to a criminal conspiracy despite the existence of facts of which he is unaware which make the commission of the offence impossible.
 
-(b) an act, which is not illegal, by illegal means,
+(3) A person may be a party to a criminal conspiracy even though any other person who agrees to commit the offence that is the subject of the conspiracy or to cause that offence to be committed does not intend to carry out that agreement.
 
-such an agreement is designated a criminal conspiracy:
+(4) A person may be a party to a criminal conspiracy in Singapore to commit an offence outside Singapore, which would constitute an offence if committed in Singapore.
 
-Provided that no agreement except an agreement to commit an offence shall amount to a criminal conspiracy unless some act besides the agreement is done by one or more parties to such agreement in pursuance thereof.
+(5) A person may be a party to a criminal conspiracy to commit an offence in Singapore even though all or any of the acts constituting the criminal conspiracy were done outside Singapore.
 
-[51/2007]
+Explanation.—It is immaterial whether the offence is the ultimate object of such agreement, or is merely incidental to that object.
 
-(2) A person may be a party to a criminal conspiracy notwithstanding the existence of facts of which he is unaware which make the commission of the illegal act, or the act, which is not illegal, by illegal means, impossible.
-
-[51/2007]
-
-Explanation.—It is immaterial whether the illegal act is the ultimate object of such agreement, or is merely incidental to that object.
-
-[Indian PC 1860, s. 120A]
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Punishment of criminal conspiracy
 
-120B\. Whoever is a party to a criminal conspiracy to commit an offence shall, where no express provision is made in this Code for the punishment of such a conspiracy, be punished in the same manner as if he had abetted such offence.
+120B\. Whoever is a party to a criminal conspiracy shall, where no express provision is made in this Code for the punishment of such a conspiracy, be punished in the same manner as if he had abetted the offence that is the subject of the conspiracy.
 
-[51/2007]
-
-[Indian PC 1860, s. 120B]
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Chapter VI
 
@@ -2392,7 +2818,7 @@ Offences against the State
 
 ### Waging or attempting to wage war or abetting the waging of war against the Government
 
-121\. Whoever wages war against the Government, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or with imprisonment for life and shall, if he is not sentenced to death, also be liable to fine.
+121\. Whoever wages war against the Government, or attempts to wage such war, or abets the waging of such war, shall be punished with death, or with imprisonment for life.
 
 [51/2007]
 
@@ -2402,17 +2828,19 @@ Ajoins an insurrection against the Government.Ahas committed the offence defined
 
 [Indian PC 1860, s. 121]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Offences against the President’s person
 
-121A\. Whoever compasses, imagines, invents, devises, or intends the death of or hurt to or imprisonment or restraint of the President, shall be punished with death, or with imprisonment for life and shall, if he is not sentenced to death, also be liable to fine.
+121A\. Whoever plans the death of or hurt to or unlawful imprisonment or restraint of the President, shall be punished with imprisonment for life or for a term which may extend to 20 years and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
-[51/2007]
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Offences against authority
 
-121B\. Whoever compasses, imagines, invents, devises or intends the deprivation or deposition of the President from the sovereignty of Singapore, or the overawing by criminal force of the Government, shall be punished with imprisonment for life, and shall also be liable to fine.
+121B\. Whoever plans the unlawful deprivation or deposition of the President from the sovereignty of Singapore, or the overawing by criminal force of the Government, shall be punished with imprisonment for life or for a term which may extend to 20 years and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
-[51/2007]
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Abetting offences under section 121A or 121B
 
@@ -2426,11 +2854,11 @@ Ajoins an insurrection against the Government.Ahas committed the offence defined
 
 ### Collecting arms, etc., with the intention of waging war against the Government
 
-122\. Whoever collects men, arms or ammunition or otherwise prepares to wage war, with the intention of either waging or being prepared to wage war against the Government, shall be punished with imprisonment for life or imprisonment for a term not exceeding 20 years, and shall also be liable to fine.
-
-[51/2007]
+122\. Whoever collects men, arms or ammunition or otherwise prepares to wage war, with the intention of either waging or being prepared to wage war against the Government, shall be punished with imprisonment for life or imprisonment for a term not exceeding 20 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
 [Indian PC 1860, s. 122]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Concealing with intent to facilitate a design to wage war
 
@@ -2442,7 +2870,9 @@ Ajoins an insurrection against the Government.Ahas committed the offence defined
 
 ### Assaulting President, etc., with intent to compel or restrain the exercise of any lawful power
 
-124\. Whoever, with the intention of inducing or compelling the President or a Member of Parliament or the Cabinet, to exercise or refrain from exercising in any manner any of the lawful powers of the President, or such Member, assaults or wrongfully restrains, or attempts wrongfully to restrain, or overawes by means of criminal force, or the show of criminal force, or attempts so to overawe, the President or such Member, shall be punished with imprisonment for life or for a term which may extend to 20 years, and shall also be liable to fine.
+124\. Whoever, with the intention of inducing or compelling the President or a Member of Parliament or the Cabinet, to exercise or refrain from exercising in any manner any of the lawful powers of the President, or such Member, assaults or wrongfully restrains, or attempts wrongfully to restrain, or overawes by means of criminal force, or the show of criminal force, or attempts so to overawe, the President or such Member, shall be punished with imprisonment for life or for a term which may extend to 20 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -2450,7 +2880,9 @@ Ajoins an insurrection against the Government.Ahas committed the offence defined
 
 ### Waging war against any power in alliance or at peace with Singapore
 
-125\. Whoever wages war against the government of any power in alliance or at peace with the Government, or attempts to wage such war, or abets the waging of such war, shall be punished with imprisonment for life, to which fine may be added; or with imprisonment for a term which may extend to 15 years, to which fine may be added, or with fine.
+125\. Whoever wages war against the government of any power in alliance or at peace with the Government, or attempts to wage such war, or abets the waging of such war, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, to which fine may be added, or with fine.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -2474,7 +2906,9 @@ Ajoins an insurrection against the Government.Ahas committed the offence defined
 
 ### Public servant voluntarily allowing prisoner of State or war in his custody to escape
 
-128\. Whoever, being a public servant, and having the custody of any prisoner of State or prisoner of war, voluntarily allows such prisoner to escape from any place in which such prisoner is confined, shall be punished with imprisonment for life, or imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+128\. Whoever, being a public servant, and having the custody of any prisoner of State or prisoner of war, voluntarily allows such prisoner to escape from any place in which such prisoner is confined, shall be punished with imprisonment for life, or imprisonment for a term which may extend to 15 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -2490,13 +2924,15 @@ Ajoins an insurrection against the Government.Ahas committed the offence defined
 
 ### Aiding escape of, rescuing, or harbouring such prisoner
 
-130\. Whoever knowingly aids or assists any prisoner of State or prisoner of war in escaping from lawful custody or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+130\. Whoever knowingly aids or assists any prisoner of State or prisoner of war in escaping from lawful custody or rescues or attempts to rescue any such prisoner, or harbours or conceals any such prisoner who has escaped from lawful custody, or offers or attempts to offer any resistance to the recapture of such prisoner, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
 [51/2007]
 
 Explanation.—A prisoner of State or prisoner of war who is permitted to be at large on his parole within certain limits in Singapore, is said to escape from lawful custody if he goes beyond the limits within which he is allowed to be at large.
 
 [Indian PC 1860, s. 130]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### “Harbour”
 
@@ -2568,15 +3004,19 @@ Offences relating to the armed forces
 
 ### Abetting mutiny, or attempting to seduce an officer or a serviceman from his duty
 
-131\. Whoever abets the committing of mutiny by an officer or any serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore or attempts to seduce any such officer or serviceman from his allegiance or his duty, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+131\. Whoever abets the committing of mutiny by an officer or any serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore or attempts to seduce any such officer or serviceman from his allegiance or his duty, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
 [Indian PC 1860, s. 131]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Abetment of mutiny, if mutiny is committed in consequence thereof
 
-132\. Whoever abets the committing of mutiny by an officer or any serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore shall, if mutiny be committed in consequence of that abetment, be punished with death or with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+132\. Whoever abets the committing of mutiny by an officer or any serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore shall, if mutiny be committed in consequence of that abetment, be punished with death or with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall, if he is not sentenced to death or imprisonment for life, also be liable to fine.
 
 [Indian PC 1860, s. 132]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Abetment of an assault by an officer or a serviceman on his superior officer, when in the execution of his office
 
@@ -2598,15 +3038,17 @@ Offences relating to the armed forces
 
 ### Harbouring a deserter
 
-136\. Whoever, except as hereinafter excepted, knowing or having reason to believe that an officer or a serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore has deserted, harbours such officer or serviceman shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
-
-Exception.—This provision does not extend to the case in which the harbour is given by a wife to her husband.
+136\. Whoever knowing or having reason to believe that an officer or a serviceman in the Singapore Armed Forces or any visiting forces lawfully present in Singapore has deserted, harbours such officer or serviceman with the intention of preventing the officer or serviceman from being apprehended, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
 [Indian PC 1860, s. 136]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Deserter concealed on board merchant vessel through negligence of master
 
-137\. The master or person in charge of a merchant vessel, on board of which any deserter from the Singapore Armed Forces or any visiting forces lawfully present in Singapore is concealed, shall, though ignorant of such concealment, be liable to a penalty not exceeding $1,500, if he might have known of such concealment, but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.
+137\. The master or person in charge of a merchant vessel, on board of which any deserter from the Singapore Armed Forces or any visiting forces lawfully present in Singapore is concealed, shall, though ignorant of such concealment, be punished with a fine not exceeding $1,500, if he might have known of such concealment, but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -2795,9 +3237,11 @@ Posting placards, etc.
 
 ### Harbouring persons hired for an unlawful assembly
 
-157\. Whoever harbours, receives or assembles in any house or premises in his occupation or charge, or under his control, any persons, knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+157\. Whoever harbours, receives or assembles in any house or premises in his occupation or charge, or under his control, any persons, knowing that such persons have been hired, engaged or employed, or are about to be hired, engaged or employed, to join or become members of an unlawful assembly, with the intention of permitting or facilitating them to join or become members of an unlawful assembly, or of screening them or any of them from punishment, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 157]
 
@@ -2934,7 +3378,9 @@ of public servants
 
 ### Absconding to avoid arrest on warrant or service of summons, etc., proceeding from a public servant
 
-172\. Whoever absconds in order to avoid being arrested on a warrant, or to avoid being served with a summons, a notice, or an order proceeding from any public servant, legally competent, as such public servant, to issue such warrant, summons, notice or order, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the summons, notice or order is to attend in person or by agent, or to produce a document or an electronic record before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+172\. Whoever absconds in order to avoid being arrested on a warrant, or to avoid being served with a summons, a notice, or an order proceeding from any public servant, legally competent, as such public servant, to issue such warrant, summons, notice or order, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the summons, notice or order is to attend in person or by agent, or to produce a document or an electronic record before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -2942,17 +3388,41 @@ of public servants
 
 ### Preventing service of summons, etc., or preventing publication thereof
 
-173\. Whoever in any manner intentionally prevents the serving on himself, or on any other person, of any summons, notice or order, proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order, or intentionally prevents the lawful affixing to any place of any such summons, notice or order, or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed, or intentionally prevents the lawful making of any proclamation, under the authority of any public servant legally competent, as such public servant, to direct such proclamation to be made, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the summons, notice, order, or proclamation is to attend in person or by agent, or to produce a document or an electronic record before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+173\.—(1) A person who in any manner —
 
-[51/2007]
+(a) intentionally prevents the serving on himself, or on any other person, of any summons, notice or order, proceeding from any public servant legally competent, as such public servant, to issue such summons, notice or order;
 
-[Indian PC 1860, s. 173]
+(b) intentionally prevents the lawful affixing to any place of any such summons, notice or order, or intentionally removes any such summons, notice or order from any place to which it is lawfully affixed; or
 
-### Failure to attend in obedience to an order from a public servant
+(c) intentionally prevents the lawful making of any proclamation, under the authority of any public servant legally competent, as such public servant, to direct such proclamation to be made,
 
-174\. Whoever, being legally bound to attend in person or by an agent at a certain place and time in obedience to a summons, a notice, an order or a proclamation, proceeding from any public servant legally competent, as such public servant, to issue the same, intentionally omits to attend at the place or time, or departs from the place where he is bound to attend before the time at which it is lawful for him to depart, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or if the summons, notice, order or proclamation is to attend in person or by agent before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+shall —
 
-[51/2007]
+(d) in the case of an individual, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or
+
+(e) in any other case, be punished with fine which may extend to $10,000.
+
+(2) If the summons, notice, order, or proclamation is to attend in person or by agent before a court, or to produce a document or an electronic record before a court, any person who is guilty of an offence under subsection (1) shall —
+
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or
+
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Failure to attend in obedience to order from public servant
+
+174\.—(1) A person who, being legally bound to attend in person or by an agent at a certain place and time in obedience to a summons, a notice, an order or a proclamation, proceeding from any public servant legally competent, as such public servant, to issue the same, intentionally omits to attend at the place or time, or departs from the place where the person is bound to attend before the time at which it is lawful for the person to depart, shall —
+
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or
+
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+(2) If the summons, notice, order or proclamation is to attend in person or by agent before a court, any person who is guilty of an offence under subsection (1) shall —
+
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or
+
+(b) in any other case, be punished with fine which may extend to $10,000.
 
 Illustrations
 
@@ -2960,53 +3430,75 @@ Illustrations
 
 (b)A, being legally bound to appear before a Magistrate as a witness, in obedience to a summons issued by that Magistrate, intentionally omits to appear.Ahas committed the offence defined in this section.
 
-[Indian PC 1860, s. 174]
+[Act 15 of 2019 wef 01/01/2020]
 
-### Omission to produce a document or an electronic record to a public servant by a person legally bound to produce such document or electronic record
+### Omission to produce document or electronic record to public servant by person legally bound to produce such document or electronic record
 
-175\. Whoever, being legally bound to produce or deliver up any document or electronic record to any public servant, as such, intentionally omits so to produce or deliver up the same, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both.
+175\. A person who, being legally bound to produce or deliver up any document or electronic record to any public servant, as such, intentionally omits so to produce or deliver up the same, shall —
 
-[Act 19 of 2016 wef 01/10/2017]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or
 
-### Omission to give notice or information to a public servant by a person legally bound to give such notice or information
+(b) in any other case, be punished with fine which may extend to $10,000.
 
-176\. Whoever, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence or in order to the apprehension of an offender, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+[Act 15 of 2019 wef 01/01/2020]
 
-[51/2007]
+### Omission to give notice or information to public servant by person legally bound to give such notice or information
 
-[Indian PC 1860, s. 176]
+176\.—(1) A person who, being legally bound to give any notice or to furnish information on any subject to any public servant, as such, intentionally omits to give such notice or to furnish such information in the manner and at the time required by law, shall —
+
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or
+
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+(2) If the notice or information required to be given respects the commission of an offence, or is required for the purpose of preventing the commission of an offence or in order to the apprehension of an offender, any person who is guilty of an offence under subsection (1) shall —
+
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or
+
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Furnishing false information
 
-177\. Whoever, being legally bound to furnish information on any subject to any public servant, as such, furnishes, as true, information on the subject which he knows or has reason to believe to be false, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or, if the information which he is legally bound to furnish respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+177\.—(1) A person who, being legally bound to furnish information on any subject to any public servant, as such, furnishes, as true, information on the subject which the person knows or has reason to believe to be false, shall —
 
-[51/2007]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or
 
-Illustrations
+(b) in any other case, be punished with fine which may extend to $10,000.
 
-(a)A, a landholder, knowing of the commission of a murder, within the limits of his estate, wilfully misinforms the police of the district that the death has occurred by accident in consequence of the bite of a snake.Ais guilty of the offence defined in this section.
+(2) If the information which the person mentioned in subsection (1) is legally bound to furnish respects the commission of an offence, or is required for the purpose of preventing the commission of an offence, or in order to the apprehension of an offender, the person who is guilty of an offence under that subsection shall —
 
-(b) [Deleted by Act 51 of 2007]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both; or
 
-Explanations.—In section 176 and in this section “offence” includes any act committed at any place out of Singapore, which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460, and “offender” includes any person who is alleged to have been guilty of any such act.
+(b) in any other case, be punished with fine.
 
-[Indian PC 1860, s. 177]
+Illustration
+
+A, a landholder, knowing of the commission of a murder, within the limits of his commercial property, intentionally misinforms the police that the death has occurred by accident in consequence of the bite of a snake.Ais guilty of the offence defined in this section.
+
+Explanation.—In this section and section 176, “offence” includes any act committed at any place out of Singapore, which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 459 and 460, and “offender” includes any person who is alleged to have been guilty of any such act.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Refusing oath when duly required to take oath by a public servant
 
-178\. Whoever refuses to bind himself by an oath to state the truth, when required so to bind himself by a public servant legally competent to require that he shall so bind himself, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+178\. Whoever refuses to bind himself by an oath to state the truth, when required so to bind himself by a public servant legally competent to require that he shall so bind himself, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both.
 
 [51/2007]
 
 [Indian PC 1860, s. 178]
 
-### Refusing to answer a public servant authorised to question
+[Act 15 of 2019 wef 01/01/2020]
 
-179\. Whoever, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of him touching that subject by such public servant, in the exercise of the legal powers of such public servant, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+### Refusing to answer public servant authorised to question
 
-[51/2007]
+179\. A person who, being legally bound to state the truth on any subject to any public servant, refuses to answer any question demanded of the person touching that subject by that public servant, in the exercise of the legal powers of such public servant, shall —
 
-[Indian PC 1860, s. 179]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or
+
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Refusing to sign statement
 
@@ -3024,7 +3516,7 @@ Explanations.—In section 176 and in this section “offence” includes any ac
 
 ### False information, with intent to cause a public servant to use his lawful power to the injury of another person
 
-182\. Whoever gives to any public servant any information which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant to use the lawful power of such public servant to the injury or annoyance of any person, or to do or omit anything which such public servant ought not to do or omit if the true state of facts respecting which such information is given were known by him, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+182\. Whoever gives to any public servant any information which he knows or believes to be false, intending thereby to cause, or knowing it to be likely that he will thereby cause, such public servant to use the lawful power of such public servant to the injury or annoyance of any person, or to do or omit anything which such public servant ought not to do or omit if the true state of facts respecting which such information is given were known by him, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
 [51/2007]
 
@@ -3036,63 +3528,89 @@ Illustrations
 
 (c)Afalsely informs a policeman that he has been assaulted and robbed by a person whose identity he does not know.Aalso mentions that he often sees that person going in and out of a block of flats, knowing it to be likely that in consequence of this information, the police will make inquiries and institute searches in the block of flats to the annoyance of the flat dwellers or some of them.Ahas committed an offence under this section.
 
+[Act 15 of 2019 wef 01/01/2020]
+
 [51/2007]
 
 [Indian PC 1860, s. 182]
 
-### Resistance to the taking of property by the lawful authority of a public servant
+### Resistance to taking of property by lawful authority of public servant
 
-183\. Whoever offers any resistance to the taking of any property by the lawful authority of any public servant, knowing or having reason to believe that he is such public servant, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+183\. A person who offers any resistance to the taking of any property by the lawful authority of any public servant, knowing or having reason to believe that the person is such public servant, shall —
 
-[51/2007]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or
 
-[Indian PC 1860, s. 183]
+(b) in any other case, be punished with fine which may extend to $10,000.
 
-### Obstructing sale of property offered for sale by authority of a public servant
+[Act 15 of 2019 wef 01/01/2020]
 
-184\. Whoever intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant as such, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both.
+### Obstructing sale of property offered for sale by authority of public servant
 
-[51/2007]
+184\. A person who intentionally obstructs any sale of property offered for sale by the lawful authority of any public servant as such, shall —
 
-[Indian PC 1860, s. 184]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or
 
-### Illegal purchase or bid for property offered for sale by authority of a public servant
+(b) in any other case, be punished with fine which may extend to $10,000.
 
-185\. Whoever, at any sale of property held by the lawful authority of a public servant as such, purchases or bids for any property on account of any person, whether himself or any other, whom he knows to be under a legal incapacity to purchase that property at that sale, or bids for such property not intending to perform the obligations under which he lays himself by such bidding, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,000, or with both.
+[Act 15 of 2019 wef 01/01/2020]
 
-[51/2007]
+### Illegal purchase or bid for property offered for sale by authority of public servant
 
-[Indian PC 1860, s. 185]
+185\. A person who, at any sale of property held by the lawful authority of a public servant as such, purchases or bids for any property on account of the person or another person, whom the person knows to be under a legal incapacity to purchase that property at that sale, or bids for such property not intending to perform the obligations under which the person lays himself by such bidding, shall —
+
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or
+
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Obstructing public servant in discharge of his public functions
 
-186\. Whoever voluntarily obstructs any public servant in the discharge of his public functions, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both.
+186\. A person who voluntarily obstructs any public servant in the discharge of the public servant’s public functions, shall —
 
-[51/2007]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both; or
 
-[Indian PC 1860, s. 186]
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Omission to assist public servant when bound by law to give assistance
 
-187\. Whoever, being bound by law to render or furnish assistance to any public servant in the execution of his public duty, intentionally omits to give such assistance, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,000, or with both; and if such assistance is demanded of him by a public servant legally competent to make such demand for the purposes of executing any process lawfully issued by a court of justice, or of preventing the commission of an offence, or of suppressing a riot or an affray, or of apprehending a person charged with or guilty of an offence, or of having escaped from lawful custody, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $2,500, or with both.
+187\.—(1) A person who, being bound by law to render or furnish assistance to any public servant in the execution of the public servant’s public duty, intentionally omits to give such assistance, shall —
 
-[51/2007]
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or
 
-[Indian PC 1860, s. 187]
+(b) in any other case, be punished with fine which may extend to $10,000.
 
-### Disobedience to an order duly promulgated by a public servant
+(2) If such assistance is demanded of the person mentioned in subsection (1) by a public servant legally competent to make such demand for the purposes of executing any process lawfully issued by a court, or of preventing the commission of an offence, or of suppressing a riot or an affray, or of apprehending a person charged with or guilty of an offence, or of having escaped from lawful custody, the person who is guilty of an offence under that subsection shall —
 
-188\. Whoever, knowing that by an order promulgated by a public servant lawfully empowered to promulgate such order he is directed to abstain from a certain act, or to take certain order with certain property in his possession or under his management, disobeys such direction, shall, if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any person lawfully employed, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,000, or with both; and if such disobedience causes or tends to cause danger to human life, health, or safety, or causes or tends to cause a riot or an affray, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or
 
-[51/2007]
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Disobedience to order duly promulgated by public servant
+
+188\.—(1) A person who, knowing that by an order promulgated by a public servant lawfully empowered to promulgate such order the person is directed to abstain from a certain act, or to take certain order with certain property in the person’s possession or under the person’s management, disobeys such direction, shall, if such disobedience causes or tends to cause obstruction, annoyance or injury, or risk of obstruction, annoyance or injury, to any person lawfully employed —
+
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or
+
+(b) in any other case, be punished with fine which may extend to $10,000.
+
+(2) If such disobedience mentioned in subsection (1) causes or tends to cause danger to human life, health or safety, or causes or tends to cause a riot or an affray, the person who is guilty of an offence under that subsection shall —
+
+(a) in the case of an individual, be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both; or
+
+(b) in any other case, be punished with fine which may extend to $10,000.
 
 Explanation.—It is not necessary that the offender should intend to produce harm, or contemplate his disobedience as likely to produce harm. It is sufficient that he knows of the order which he disobeys, and that his disobedience produces, or is likely to produce, harm.
 
 Illustration
 
-An order is promulgated by a public servant lawfully empowered to promulgate such order, directing that a religious procession shall not pass down a certain street.Aknowingly disobeys the order, and thereby causes danger of riot.Ahas committed the offence defined in this section.
+An order is promulgated by a public servant lawfully empowered to promulgate such order, directing that a religious procession must not pass down a certain street.Aknowingly disobeys the order, and thereby causes danger of riot.Ahas committed the offence defined in this section.
 
-[Indian PC 1860, s. 188]
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Threat of injury to a public servant
 
@@ -3170,7 +3688,9 @@ A, in an inquiry before an officer deputed by a court of justice to ascertain on
 
 ### Giving or fabricating false evidence with intent to procure conviction of a capital offence
 
-194\. Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by this Code, or under any other law for the time being in force, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 20 years, and shall also be liable to fine; and if an innocent person is convicted and executed in consequence of such false evidence, the person who gives such false evidence shall be punished either with death or the punishment hereinbefore described.
+194\. Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by this Code, or under any other law for the time being in force, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 20 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine; and if an innocent person is convicted and executed in consequence of such false evidence, the person who gives such false evidence shall be punished either with death or the punishment hereinbefore described.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -3178,11 +3698,17 @@ A, in an inquiry before an officer deputed by a court of justice to ascertain on
 
 ### Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment
 
-195\. Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by this Code or under any other law for the time being in force is not capital, but punishable with imprisonment for life, or imprisonment for a term of 7 years or upwards, shall be punished as a person convicted of that offence would be liable to be punished.
+195\.—(1) Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by this Code or under any other law for the time being in force is not capital, but punishable with imprisonment for a term of 7 years or upwards, shall be punished as a person convicted of that offence would be liable to be punished.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which by this Code or under any other law for the time being in force is not capital, but punishable with imprisonment for life, shall be punished with imprisonment for a term which may extend to 20 years.
 
 Illustration
 
 Agives false evidence before a court of justice, intending thereby to causeZto be convicted of a gang-robbery. The punishment of gang-robbery is imprisonment for a term of not less than 5 years and not more than 20 years and also caning with not less than 12 strokes.A, therefore, is liable to such imprisonment, with caning.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -3244,7 +3770,9 @@ A, knowing thatBhas murderedZ, assistsBto hide the body with the intention of sc
 
 203\. Whoever, knowing or having reason to believe that an offence has been committed, gives any information respecting that offence which he knows or believes to be false, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
-Explanations.—In sections 201 and 202 and in this section “offence” includes any act committed at any place out of Singapore which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460.
+Explanations.—In sections 201 and 202 and in this section “offence” includes any act committed at any place out of Singapore which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 459 and 460.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 203]
 
@@ -3258,13 +3786,19 @@ Explanations.—In sections 201 and 202 and in this section “offence” includ
 
 ### Obstructing, preventing, perverting or defeating course of justice
 
-204A\. Whoever intentionally obstructs, prevents, perverts or defeats the course of justice shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+204A\. Whoever does an act that has a tendency to obstruct, prevent, pervert or defeat the course of justice —
 
-[51/2007]
+(a) knowing that the act is likely to obstruct, prevent, pervert or defeat the course of justice; or
 
-Explanations.—A mere warning to a witness that he may be prosecuted for perjury if he gives false evidence is insufficient to constitute an offence.
+(b) intending to obstruct, prevent, pervert or defeat the course of justice,
 
-[51/2007]
+shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+Explanation1.—A mere warning to a witness that he may be prosecuted for perjury if he gives false evidence is insufficient to constitute an offence.
+
+Explanation2.—A person sentenced to imprisonment who leaves or attempts to leave Singapore unlawfully to avoid serving that person’s sentence has done an act which has a tendency to obstruct and defeat the course of justice.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Bribery of witnesses
 
@@ -3314,11 +3848,7 @@ Ainstitutes a suit againstZ.Z, knowing thatAis likely to obtain a decree against
 
 [Indian PC 1860, s. 208]
 
-### Fraudulently or dishonestly making a false claim before a court of justice
-
-209\. Whoever fraudulently, or dishonestly, or with intent to injure or annoy any person, makes before a court of justice any claim which he knows to be false, shall be punished with imprisonment for a term which may extend to 2 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 209]
+209\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Fraudulently obtaining a decree for a sum not due
 
@@ -3338,15 +3868,19 @@ Ainstitutes a suit againstZ.Z, knowing thatAis likely to obtain a decree against
 
 212\. Whenever an offence has been committed, whoever harbours or conceals a person whom he knows or has reason to believe to be the offender, with the intention of screening him from legal punishment, shall, if the offence is punishable with death, be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine; and if the offence is punishable with imprisonment for life, or with imprisonment which may extend to 20 years, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine; and if the offence is punishable with imprisonment which may extend to one year and not to 20 years, shall be punished with imprisonment for a term which may extend to one-fourth part of the longest term of imprisonment provided for that offence, or with fine, or with both.
 
-In this section “offence” includes any act committed at any place out of Singapore which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 457, 458, 459 and 460, and every such act shall for the purposes of this section be deemed to be punishable as if the accused person had been guilty of it in Singapore.
+In this section “offence” includes any act committed at any place out of Singapore which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 459 and 460, and every such act shall for the purposes of this section be deemed to be punishable as if the accused person had been guilty of it in Singapore.
 
 [51/2007]
 
-Exception.—This provision shall not extend to any case in which the harbour or concealment is by the husband or wife of the offender.
+Illustrations
 
-Illustration
+(a)A, knowing thatBhas committed gang‑robbery, knowingly concealsBin order to screen him from legal punishment. Here, asBis liable to imprisonment for a term of not less than 5 years and not more than 20 years,Ais liable to imprisonment for a term not exceeding 7 years, and is also liable to fine.
 
-A, knowing thatBhas committed gang-robbery, knowingly concealsBin order to screen him from legal punishment. Here, asBis liable to imprisonment for a term of not less than 5 years and not more than 20 years,Ais liable to imprisonment for a term not exceeding 7 years, and is also liable to fine.
+(b)AandBare married to each other, and live in their matrimonial home.Aknows thatBhas committed house‑breaking.Aprovides food and shelter toB, with no intention to screenBfrom legal punishment.Ais not guilty of the offence of harbouring.
+
+(c)AandBare married to each other, and live in their matrimonial home.Aknows thatBhas committed gang‑robbery and is preparing to leave Singapore to evade arrest.Aprovides food and shelter toBfor the purposes of helpingBevade detection by the police before he leaves Singapore.Ais guilty of the offence of harbouring.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -3384,9 +3918,9 @@ In this section, “offence” includes also any act or omission of which a pers
 
 [51/2007]
 
-Exception.—This provision does not extend to the case in which the harbour or concealment is by the husband or wife of the person to be apprehended.
-
 [Indian PC 1860, s. 216]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Harbouring robbers or gang-robbers, etc.
 
@@ -3394,7 +3928,7 @@ Exception.—This provision does not extend to the case in which the harbour or 
 
 Explanation.— For the purpose of this section it is immaterial whether the robbery or gang-robbery is intended to be committed or has been committed within or without Singapore.
 
-Exception.— This provision does not extend to the case in which the harbouring is by the husband or wife of the offender.
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 216A]
 
@@ -3534,200 +4068,66 @@ Explanation—A person ordered to be banished from Singapore under the Banishmen
 
 ### Chapter XII
 
-Offences relating to coin
+Offences relating to
 
 
 
 
-and government stamps
+government stamps
 
-### “Coin” and “current coin”
+[Act 15 of 2019 wef 01/01/2020]
 
-230\. “Coin” is metal used as money stamped and issued by the authority of the Government or by the authority of the government of any foreign country in order to be so used.
+230\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-“Current coin” means coin which is legal tender in Singapore or in any foreign country.
+231\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[51/2007]
+232\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-Illustrations
+233\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-(a) to (c) [Deleted by Act 51 of 2007]
+234\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 230]
+235\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Counterfeiting coin
+236\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-231\. Whoever counterfeits or knowingly performs any part of the process of counterfeiting coin, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+237\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-Explanation.— A person commits this offence, who, intending to practise deception, or knowing it to be likely that deception will thereby be practised, causes a genuine coin to appear like a different coin.
+238\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 231]
+239\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Counterfeiting current coin
+240\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-232\. Whoever counterfeits or knowingly performs any part of the process of counterfeiting current coin, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+241\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[51/2007]
+241A\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 232]
+242\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Making or selling instrument for counterfeiting coin
-
-233\. Whoever makes or mends, or performs any part of the process of making or mending, or buys, sells or disposes of, any die or instrument, for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting coin, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 233]
-
-### Making or selling instrument for counterfeiting current coin
-
-234\. Whoever makes or mends, or performs any part of the process of making or mending, or buys, sells or disposes of, any die or instrument for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for the purpose of counterfeiting current coin, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 234]
-
-### Possession of instrument or material for the purpose of using the same for counterfeiting coin
-
-235\. Whoever is in possession of any instrument or material for the purpose of using the same for counterfeiting coin, or knowing or having reason to believe that the same is intended to be used for that purpose, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the coin to be counterfeited is current coin, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
-
-[51/2007]
-
-[Indian PC 1860, s. 235]
-
-### Abetting in Singapore the counterfeiting out of Singapore of coin or current coin
-
-236\. Whoever, being within Singapore, abets the counterfeiting of coin or current coin out of Singapore, shall be punished in the same manner as if he abetted the counterfeiting of such coin or current coin within Singapore.
-
-[51/2007]
-
-[Indian PC 1860, s. 236]
-
-### Import or export of counterfeit coin
-
-237\. Whoever imports into Singapore, or exports therefrom, any counterfeit coin, knowing or having reason to believe that the same is counterfeit, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 237]
-
-### Import or export of counterfeits of current coin
-
-238\. Whoever imports into Singapore, or exports therefrom, any counterfeit coin which he knows or has reason to believe to be a counterfeit of current coin, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
-
-[51/2007]
-
-[Indian PC 1860, s. 238]
-
-### Delivery to another of coin, possessed with the knowledge that it is counterfeit
-
-239\. Whoever, having any counterfeit coin which at the time when he became possessed of it he knew to be counterfeit, fraudulently or with intent that fraud may be committed, delivers the same to any person, or attempts to induce any person to receive it, shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 239]
-
-### Delivery of current coin, possessed with the knowledge that it is counterfeit
-
-240\. Whoever, having any counterfeit coin which is a counterfeit of current coin, and which at the time when he became possessed of it he knew to be a counterfeit of current coin, fraudulently or with intent that fraud may be committed, delivers the same to any person, or attempts to induce any person to receive it, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
-
-[51/2007]
-
-[Indian PC 1860, s. 240]
-
-### Delivery to another of coin as genuine, which when first possessed the deliverer did not know to be counterfeit
-
-241\. Whoever delivers to any other person as genuine, or attempts to induce any other person to receive as genuine, any counterfeit coin which he knows to be counterfeit, but which he did not know to be counterfeit at the time when he took it into his possession, shall be punished with imprisonment for a term which may extend to 2 years, or with fine to an amount which may extend to 10 times the value of the coin counterfeited, or with both.
-
-Illustration
-
-A, a coiner, delivers counterfeit Hong Kong dollars to his accompliceB, for the purpose of uttering them.Bsells the dollars toC, another utterer, who buys them knowing them to be counterfeit.Cpays away the dollars for goods toD, who receives them, not knowing them to be counterfeit.D, after receiving the dollars, discovers that they are counterfeit, and pays them away as if they were good. HereDis punishable only under this section, butBandCare punishable under section 239 or 240 as the case may be.
-
-[Indian PC 1860, s. 241]
-
-### Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be counterfeit
-
-241A\. Whoever delivers to any other person as genuine, or attempts to induce any other person to receive as genuine, any counterfeit coin which is a counterfeit of current coin which he knows to be counterfeit, but which he did not know to be counterfeit at the time when he took it into his possession, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
-
-[51/2007]
-
-### Possession of counterfeit coin by a person who knew it to be counterfeit when he became possessed thereof
-
-242\. Whoever, fraudulently or with intent that fraud may be committed, is in possession of counterfeit coin, having known at the time when he became possessed of it that the coin was counterfeit, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 242]
-
-### Possession of current coin by a person who knew it to be counterfeit when he became possessed thereof
-
-243\. Whoever, fraudulently or with intent that fraud may be committed, is in possession of counterfeit coin, which is a counterfeit of current coin, having known at the time when he became possessed of it that it was a counterfeit, shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine.
-
-[51/2007]
-
-[Indian PC 1860, s. 243]
-
-Forfeiture of counterfeit coin
+243\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 243A\. [Repealed by Act 51 of 2007]
 
-### Fraudulently or dishonestly diminishing the weight or altering the composition of any coin
+246\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-\*246\. Whoever fraudulently or dishonestly performs on any coin any operation which diminishes the weight or alters the composition of that coin shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
+247\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-Explanation.— A person who scoops out part of the coin and puts anything else into the cavity, alters the composition of that coin.
+248\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 246]
+249\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-\*There are no sections 244 and 245.
+250\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Fraudulently or dishonestly diminishing the weight or altering the composition of current coin
+251\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-247\. Whoever fraudulently or dishonestly performs on any current coin any operation which diminishes the weight or alters the composition of that coin, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+252\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 247]
+253\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Altering appearance of any coin with intent that it shall pass as a coin of a different description
+254\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-248\. Whoever performs on any coin any operation which alters the appearance of that coin, with the intention that that coin shall pass as a coin of a different description, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 248]
-
-### Altering appearance of current coin with intent that it shall pass as a coin of a different description
-
-249\. Whoever performs on any current coin any operation which alters the appearance of that coin, with the intention that that coin shall pass as a coin of a different description, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 249]
-
-### Delivery to another of coin possessed with the knowledge that it is altered
-
-250\. Whoever, having coin in his possession with respect to which the offence defined in section 246 or 248 has been committed, and having known at the time when he became possessed of the coin that such offence had been committed with respect to it, fraudulently or with intent that fraud may be committed, delivers the coin to any other person, or attempts to induce any other person to receive the coin, shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 250]
-
-### Delivery of current coin possessed with the knowledge that it is altered
-
-251\. Whoever, having coin in his possession with respect to which the offence defined in section 247 or 249 has been committed, and having known at the time when he became possessed of the coin that such offence had been committed with respect to it, fraudulently or with intent that fraud may be committed, delivers the coin to any other person, or attempts to induce any other person to receive the coin, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 251]
-
-### Possession of altered coin by a person who knew it to be altered when he became possessed thereof
-
-252\. Whoever, fraudulently or with intent that fraud may be committed, is in possession of coin with respect to which the offence defined in section 246 or 248 has been committed, having known at the time of becoming possessed thereof that that offence had been committed with respect to such coin, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
-
-[51/2007]
-
-[Indian PC 1860, s. 252]
-
-### Possession of current coin by a person who knew it to be altered when he became possessed thereof
-
-253\. Whoever, fraudulently or with intent that fraud may be committed, is in possession of coin with respect to which the offence defined in section 247 or 249 has been committed, having known at the time of becoming possessed thereof that that offence had been committed with respect to such coin, shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 253]
-
-### Delivery to another of coin as genuine, which when first possessed the deliverer did not know to be altered
-
-254\. Whoever delivers to any other person as genuine or as a coin of a different description from what it is, or attempts to induce any person to receive as genuine or as a different coin from what it is, any coin in respect of which he knows that any such operation as that mentioned in section 246 or 248 has been performed, but in respect of which he did not, at the time when he took it into his possession, know that such operation had been performed, shall be punished with imprisonment for a term which may extend to 2 years, or with fine to an amount which may extend to 10 times the value of the coin for which the altered coin is passed or attempted to be passed.
-
-[51/2007]
-
-[Indian PC 1860, s. 254]
-
-### Delivery to another of current coin as genuine, which when first possessed the deliverer did not know to be altered
-
-254A\. Whoever delivers to any other person as genuine or as a coin of a different description from what it is, or attempts to induce any person to receive as genuine or as a different coin from what it is, any coin in respect of which he knows that any such operation as that mentioned in section 247 or 249 has been performed, but in respect of which he did not, at the time when he took it into his possession, know that such operation had been performed, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
-
-[51/2007]
+254A\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Counterfeiting a Government stamp
 
@@ -3805,36 +4205,13 @@ Explanation.— A person who counterfeits by causing a genuine stamp of one deno
 
 ### Chapter XIII
 
-Offences relating to
+264\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
+265\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
+266\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-
-weights and measures
-
-### Fraudulent use of false instrument for weighing
-
-264\. Whoever fraudulently uses any instrument for weighing which he knows to be false, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
-
-[Indian PC 1860, s. 264]
-
-### Fraudulent use of false weight or measure
-
-265\. Whoever fraudulently uses any false weight or false measure of length or capacity, or fraudulently uses any weight or any measure of length or capacity as a different weight or measure from what it is, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
-
-[Indian PC 1860, s. 265]
-
-### Being in possession of false weights or measures
-
-266\. Whoever is in possession of any instrument for weighing, or of any weight, or of any measure of length or capacity, which he knows to be false, intending that the same may be fraudulently used, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
-
-[Indian PC 1860, s. 266]
-
-### Making or selling false weights or measures
-
-267\. Whoever makes, sells, or disposes of, any instrument for weighing, or any weight, or any measure of length or capacity, which he knows to be false, in order that the same may be used as true, or knowing that the same is likely to be used as true, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
-
-[Indian PC 1860, s. 267]
+267\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Chapter XIV
 
@@ -3887,6 +4264,46 @@ Explanation.— A common nuisance is not excused on the ground that it causes so
 
 [Indian PC 1860, s. 268]
 
+### Communicating false information of harmful thing
+
+268A\. Any person who transmits or communicates or causes to be transmitted or communicated information —
+
+(a) which contains a reference to the presence in any place or location or in any conveyance or means of transportation of any thing that is likely to cause hurt or damage to property by any means; and
+
+(b) that person knows that such reference is false or fabricated,
+
+shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 7 years, or with fine which may extend to $50,000, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Placing or sending thing with intent to cause fear of harm
+
+268B\.—(1) Any person (A) who without reasonable excuse —
+
+(a) places any thing in any place or location or in any conveyance or means of transportation; or
+
+(b) sends any thing from one place to another place by post, courier or any other means,
+
+with the intention (in either case) of inducing in one or more other persons a belief that this thing is likely to cause hurt or damage to property by any means, shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 7 years, or with fine which may extend to $50,000, or with both.
+
+(2) For the purposes of subsection (1) and to avoid doubt, it is not necessary forAto have any particular person or persons in mind as being induced to have the belief mentioned in subsection (1).
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Placing or sending thing causing fear of harm
+
+268C\.—(1) Any person who intentionally and without reasonable excuse —
+
+(a) places any thing in any place or location or in any conveyance or means of transportation; or
+
+(b) sends any thing from one place to another place by post, courier or any other means,
+
+knowing that there is a real risk (in either case) that one or more persons would believe that this thing is likely to cause hurt or damage to property by any means, shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both.
+
+(2) To avoid doubt, it is not necessary for the accused person to have any particular person or persons in mind as being at risk of having the belief mentioned in subsection (1).
+
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Negligent act likely to spread infection of any disease dangerous to life
 
 269\. Whoever unlawfully or negligently does any act which is, and which he knows or has reason to believe to be, likely to spread the infection of any disease dangerous to life, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
@@ -3913,7 +4330,9 @@ Explanation.— A common nuisance is not excused on the ground that it causes so
 
 ### Adulteration of food or drink which is intended for sale
 
-272\. Whoever adulterates any article of food or drink, so as to make such article noxious as food or drink, intending to sell such article as food or drink, or knowing it to be likely that the same will be sold as food or drink, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $1,500, or with both.
+272\. Whoever adulterates any article of food or drink, so as to make such article noxious as food or drink, intending to sell such article as food or drink, or knowing it to be likely that the same will be sold as food or drink, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -3921,7 +4340,9 @@ Explanation.— A common nuisance is not excused on the ground that it causes so
 
 ### Sale of noxious food or drink
 
-273\. Whoever sells, or offers or exposes for sale, as food or drink, any article which has been rendered or has become noxious, or is in a state unfit for food or drink, knowing or having reason to believe that the same is noxious as food or drink, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+273\. Whoever sells, or offers or exposes for sale, as food or drink, any article which has been rendered or has become noxious, or is in a state unfit for food or drink, knowing or having reason to believe that the same is noxious as food or drink, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -3929,7 +4350,9 @@ Explanation.— A common nuisance is not excused on the ground that it causes so
 
 ### Adulteration of drugs
 
-274\. Whoever adulterates any drug or medical preparation in such a manner as to lessen the efficacy, or change the operation, of such drug or medical preparation, or to make it noxious, intending that it shall be sold or used for, or knowing it to be likely that it will be sold or used for any medicinal purpose, as if it had not undergone such adulteration, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+274\. Whoever adulterates any drug or medical preparation in such a manner as to lessen the efficacy, or change the operation, of such drug or medical preparation, or to make it noxious, intending that it shall be sold or used for, or knowing it to be likely that it will be sold or used for any medicinal purpose, as if it had not undergone such adulteration, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -3937,7 +4360,9 @@ Explanation.— A common nuisance is not excused on the ground that it causes so
 
 ### Sale of adulterated drugs
 
-275\. Whoever, knowing any drug or medical preparation to have been adulterated in such a manner as to lessen its efficacy, to change its operation, or to render it noxious, sells the same, or offers or exposes it for sale, or issues it from any dispensary for medicinal purposes as unadulterated, or causes it to be used for medicinal purposes by any person not knowing of the adulteration, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+275\. Whoever, knowing any drug or medical preparation to have been adulterated in such a manner as to lessen its efficacy, to change its operation, or to render it noxious, sells the same, or offers or exposes it for sale, or issues it from any dispensary for medicinal purposes as unadulterated, or causes it to be used for medicinal purposes by any person not knowing of the adulteration, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -3945,7 +4370,9 @@ Explanation.— A common nuisance is not excused on the ground that it causes so
 
 ### Sale of any drug as a different drug or preparation
 
-276\. Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medical preparation, as a different drug or medical preparation, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $3,000, or with both.
+276\. Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medical preparation, as a different drug or medical preparation, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -3953,7 +4380,9 @@ Explanation.— A common nuisance is not excused on the ground that it causes so
 
 ### Fouling the water of a public spring or reservoir
 
-277\. Whoever voluntarily corrupts or fouls the water of any public spring or reservoir, so as to render it less fit for the purpose for which it is ordinarily used, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $2,500, or with both.
+277\. Whoever voluntarily corrupts or fouls the water of any public spring or reservoir, so as to render it less fit for the purpose for which it is ordinarily used, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -3961,7 +4390,9 @@ Explanation.— A common nuisance is not excused on the ground that it causes so
 
 ### Making atmosphere noxious to health
 
-278\. Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $2,500, or with both.
+278\. Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -4005,61 +4436,149 @@ Explanation.— A common nuisance is not excused on the ground that it causes so
 
 [Indian PC 1860, s. 283]
 
-### Negligent conduct with respect to any poisonous substance
+### Rash or negligent conduct with respect to dangerous or harmful substance
 
-284\. Whoever does, with any poisonous substance, any act in a manner so rash or negligent as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any poisonous substance in his possession as is sufficient to guard against any probable danger to human life from such poisonous substance, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+284\.—(1) A person shall be guilty of an offence who does, with any dangerous or harmful substance, any act so rashly or negligently as —
 
-[51/2007]
+(a) to be likely to cause hurt or injury to any other person;
 
-[Indian PC 1860, s. 284]
+(b) to endanger human life;
 
-### Negligent conduct with respect to any fire or combustible matter
+(c) to cause hurt to any other person;
 
-285\. Whoever does, with fire or any combustible matter, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any fire or any combustible matter in his possession as is sufficient to guard against any probable danger to human life from such fire or combustible matter, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+(d) to cause grievous hurt or injury to any other person; or
 
-[51/2007]
+(e) to cause the death of any other person.
 
-[Indian PC 1860, s. 285]
+(2) In subsection (1), an act includes an omission to take such measure with any dangerous or harmful substance in a person’s possession as is sufficient to guard against any probable danger to human life, grievous hurt or hurt from such substance.
 
-### Negligent conduct with respect to any explosive substance
+(3) Any person who is guilty of an offence under subsection (1) or (2) shall on conviction be punished —
 
-286\. Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from such substance, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+(a) in the case of an offence under subsection (1)(a) or (b), with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both;
 
-[51/2007]
+(b) in the case of an offence under subsection (1)(c), with imprisonment for a term which may extend to 3 years, or with fine, or with both;
 
-[Indian PC 1860, s. 286]
+(c) in the case of an offence under subsection (1)(d), with imprisonment for a term which may extend to 6 years, or with fine, or with both; and
 
-### Negligent conduct with respect to any machinery in the possession or under the charge of the offender
+(d) in the case of an offence under subsection (1)(e), with imprisonment for a term which may extend to 7 years, or with fine, or with both.
 
-287\. Whoever does, with any machinery, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any machinery in his possession or under his care as is sufficient to guard against any probable danger to human life from such machinery, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+(4) In this section, “dangerous or harmful substance” includes fire or any thing or matter that is likely to cause fire.
 
-[51/2007]
+[Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 287]
+### Causing or contributing to risk of dangerous fire
+
+285\.—(1) Whoever, with any fire or any thing that is likely to cause fire, rashly or negligently causes or substantially contributes to the risk of causing a fire, shall be guilty of an offence if such fire occurs and any of the following applies:
+
+(a) that fire is likely to cause hurt or injury to any other person;
+
+(b) that fire endangers human life;
+
+(c) that fire causes damage to or diminishes the value or utility of any property belonging to any other person or the Government;
+
+(d) that fire causes hurt or injury to any other person;
+
+(e) that fire causes grievous hurt to any other person;
+
+(f) that fire causes death to any other person.
+
+(2) Any person who is guilty of an offence under subsection (1) shall on conviction be punished —
+
+(a) in the case of an offence under subsection (1)(a) or (b), with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both;
+
+(b) in the case of an offence under subsection (1)(c), with imprisonment for a term which may extend to 18 months, or with fine, or with both;
+
+(c) in the case of an offence under subsection (1)(d), with imprisonment for a term which may extend to 3 years, or with fine, or with both;
+
+(d) in the case of an offence under subsection (1)(e), with imprisonment for a term which may extend to 6 years, or with fine, or with both; and
+
+(e) in the case of an offence under subsection (1)(f), with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Presumption of cause of fire
+
+286\. In any proceedings for an offence under section 285, where any person deposits, drops, places or throws a cigarette or part thereof, cigar, match stick, charcoal, incense, any form of embers or any thing that is likely to cause fire in any place, and a fire occurs at that place or in the vicinity of that place within 60 minutes from the time of that act, that person is, until the contrary is proved, presumed to have substantially contributed to the risk of causing that fire.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Rash or negligent conduct with respect to any machinery in possession or under charge of offender
+
+287\.—(1) A person shall be guilty of an offence who does, with any machinery in the person’s possession or under the person’s care, any act so rashly or negligently as —
+
+(a) to be likely to cause hurt or injury to any other person;
+
+(b) to endanger human life;
+
+(c) to cause hurt or injury to any other person;
+
+(d) to cause grievous hurt to any other person; or
+
+(e) to cause the death of any other person.
+
+(2) In subsection (1), an act includes an omission to take such measure with any machinery in the person’s possession or under the person’s care as is sufficient to guard against any probable danger to human life, grievous hurt or hurt from such machinery.
+
+(3) Any person who is guilty of an offence under subsection (1) shall on conviction be punished —
+
+(a) in the case of an offence under subsection (1)(a) or (b), with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both;
+
+(b) in the case of an offence under subsection (1)(c), with imprisonment for a term which may extend to 3 years, or with fine, or with both;
+
+(c) in the case of an offence under subsection (1)(d), with imprisonment for a term which may extend to 6 years, or with fine, or with both; and
+
+(d) in the case of an offence under subsection (1)(e), with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Negligence in pulling down or repairing buildings
 
-288\. Whoever, in pulling down or repairing any building, knowingly or negligently omits to take such order with that building as is sufficient to guard against any probable danger to human life from the fall of that building, or of any part thereof, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+288\.—(1) A person shall be guilty of an offence who, in pulling down or repairing any building, knowingly or negligently omits to take such measure as is sufficient to guard against any probable danger to human life from the fall of that building or any part of the building and such omission —
 
-[51/2007]
+(a) endangers human life; or
 
-[Indian PC 1860, s. 288]
+(b) causes the death of any other person.
+
+(2) Any person who is guilty of an offence under subsection (1) shall on conviction be punished —
+
+(a) in the case of an offence under subsection (1)(a), with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both; and
+
+(b) in the case of an offence under subsection (1)(b), with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Negligence with respect to any animal
 
-289\. Whoever knowingly or negligently omits to take such order with any animal in his possession as is sufficient to guard against any probable danger to human life, or any probable danger of grievous hurt from such animal, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both.
+289\.—(1) A person shall be guilty of an offence who knowingly or negligently omits to take such measure with any animal as is sufficient to guard against any probable danger to human life, or any probable danger of grievous hurt from such animal and such omission —
 
-[51/2007]
+(a) is likely to cause grievous hurt;
 
-[Indian PC 1860, s. 289]
+(b) endangers human life;
+
+(c) causes grievous hurt to any other person; or
+
+(d) causes the death of any other person.
+
+(2) Any person who is guilty of an offence under subsection (1) shall on conviction be punished —
+
+(a) in the case of an offence under subsection (1)(a) or (b), with imprisonment for a term which may extend to one year, or with fine which may extend to $5,000, or with both;
+
+(b) in the case of an offence under subsection (1)(c), with imprisonment for a term which may extend to 6 years, or with fine, or with both; and
+
+(c) in the case of an offence under subsection (1)(d), with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Punishment for public nuisance
 
-290\. Whoever commits a public nuisance in any case not otherwise punishable by this Code, shall be punished with fine which may extend to $1,000.
+290\. Whoever commits a public nuisance in any case not otherwise punishable by this Code, shall be guilty of an offence and shall be punished —
 
-[51/2007]
+(a) with fine which may extend to $2,000;
 
-[Indian PC 1860, s. 290]
+(b) in the case where the offender knew that the act or omission constituting the public nuisance will cause or will probably cause any common injury, danger or annoyance to the public, or to the people in general who dwell or occupy property in the vicinity, with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,000, or with both; or
+
+(c) on a second or subsequent conviction, with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,000, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Continuance of nuisance after injunction to discontinue
 
@@ -4085,6 +4604,10 @@ shall be punished with imprisonment for a term which may extend to 3 months, or 
 
 [51/2007]
 
+(1A) A person who is guilty of an offence under subsection (1) in the case where the obscene object mentioned in that subsection depicts an image of a person who is or who appears to a reasonable observer to be or is implied to be below 16 years of age shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
+
 (2) For the purposes of this section, “object” includes data stored in a computer disc, or by other electronic means, that is capable of conversion to images, writing or any other form of representation.
 
 [51/2007]
@@ -4097,6 +4620,14 @@ Exception.— This section does not extend to any book, pamphlet, writing, drawi
 
 [Indian PC 1860, s. 292]
 
+### Possession, distribution, etc., of child sex-doll
+
+292A\.—(1) Any person who imports, exports, conveys, sells, lets to hire, distributes, puts into circulation, makes, produces or is in possession of a child sex-doll shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+(2) In subsection (1), “child sex-doll” means an anatomically correct doll, mannequin or robot, with the features of, or with features that appear to a reasonable observer to resemble a person below 16 years of age and intended for use in sexual activities.
+
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Sale, etc., of obscene objects to young person
 
 293\. Whoever sells, lets to hire, distributes, exhibits or circulates to any person under the age of 21 years any such obscene object as is referred to in section 292, or offers or attempts to do so, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
@@ -4105,17 +4636,19 @@ Exception.— This section does not extend to any book, pamphlet, writing, drawi
 
 [Indian PC 1860, s. 293]
 
-### Obscene songs
+### Obscene acts
 
 294\. Whoever, to the annoyance of others —
 
 (a) does any obscene act in any public place; or
 
-(b) sings, recites or utters any obscene song, ballad or words in or near any public place,
+(b) sings, recites or utters any obscene words in or near any public place,
 
 shall be punished with imprisonment for a term which may extend to 3 months, or with fine, or with both.
 
 [Indian PC 1860, s. 294]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Chapter XV
 
@@ -4239,13 +4772,15 @@ that the provocation is not sought or voluntarily provoked by the offender as an
 
 (b)
 
-that the provocation is not given by anything done in obedience to the law, or by a public servant in the lawful exercise of the powers of such public servant;
+that the offender did not know and had no reason to believe that the provocation was given by anything done in obedience to the law, or by a public servant in the lawful exercise of the powers of such public servant;
 
 (c)
 
 that the provocation is not given by anything done in the lawful exercise of the right of private defence.
 
-Explanation.—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact.
+Explanation1.—Whether the provocation was grave and sudden enough to prevent the offence from amounting to murder is a question of fact, having regard to whether an ordinary person of the same gender and age as the offender, sharing such characteristics as would affect the gravity of the provocation and placed in the same situation as the offender, would be deprived of self-control by the provocation.
+
+Explanation2.—Grave and sudden provocation may be in the form of words, gestures or conduct or any combination of words, gestures or conduct.
 
 Illustrations
 
@@ -4261,9 +4796,21 @@ Illustrations
 
 (f)ZstrikesB.Bis by this provocation excited to violent rage.A, a bystander, intending to take advantage ofB’s rage, and to cause him to killZ, puts a knife intoB’s hand for that purpose.BkillsZwith the knife. HereBmay have committed only culpable homicide, butAis guilty of murder.
 
+(g)AandZare married to each other.Aloses self-control onZ’s provocation and intentionally killsZsoon after the provocation was given. Although the provocation, when viewed in isolation, would not amount to grave and sudden provocation, it was the last of a series of prolonged physical and mental abuse ofAbyZ. An ordinary person inA’s position would have lost self-control and have done whatAdid.Ahas committed only culpable homicide and not murder.
+
 [51/2007]
 
-Exception2.—Culpable homicide is not murder if the offender, in the exercise in good faith of the right of private defence of person or property, exceeds the power given to him by law, and causes the death of the person against whom he is exercising such right of defence, without premeditation and without any intention of doing more harm than is necessary for the purpose of such defence.
+Exception2.—Culpable homicide is not murder if the offender, in the exercise of the right of private defence of person or property, exceeds the power given to him by law, and causes the death of the person against whom he is exercising such right of defence, without premeditation and without any intention of doing more harm than is necessary for the purpose of such defence.
+
+Explanation.—The word “premeditation” means the offender’s intention, which was formed prior to the circumstances which gave rise to the act of private defence —
+
+(a)
+
+to cause death in section 300(a) or to cause such bodily injury as is mentioned in section 300(b) or (c); or
+
+(b)
+
+to do an act knowing that the act is so imminently dangerous in the way mentioned in section 300(d).
 
 Illustration
 
@@ -4273,23 +4820,69 @@ Exception3.—Culpable homicide is not murder if the offender, being a public se
 
 Exception4.—Culpable homicide is not murder if it is committed without premeditation in a sudden fight in the heat of passion upon a sudden quarrel, and without the offender having taken undue advantage or acted in a cruel or unusual manner.
 
-Explanation.—It is immaterial in such cases which party offers the provocation or commits the first assault.
+The above exception is subject to the proviso that the offender did not know and had no reason to believe that the person whose death was caused was acting in obedience to the law, or was a public servant acting in the lawful exercise of the powers of such public servant.
+
+Explanation1.—It is immaterial in such cases which party offers the provocation or commits the first assault.
+
+Explanation2.—The word “fight” includes the exchange of blows even if the blows do not land on their target and includes a single blow or punch.
+
+Explanation 3.—The word “premeditation” means the offender’s intention, which was formed prior to the circumstances constituting the sudden fight —
+
+(a)
+
+to cause death in section 300(a) or to cause such bodily injury as is mentioned in section 300(b) or (c); or
+
+(b)
+
+to do an act knowing that the act is so imminently dangerous in the way mentioned in section 300(d).
+
+Explanation4.—A “quarrel” does not require a verbal exchange of words.
+
+Illustrations
+
+(a)AandZ, who are rival gang members, are in a coffee shop seated at different tables. They mutually stare at each other fiercely without exchanging any words.Zdisengages fromAby turning away and starts to leave the coffee shop.Asees a cutlery knife on his table whichAhad earlier used forA’s meal.Apicks up the cutlery knife and stabsZ’s throat in the heat of passion.Zfalls and dies almost immediately. Although there was a “sudden quarrel” without any exchange of words,Exception4 does not apply because there was no “fight”, there being no exchange of blows or assault betweenAandZ.
+
+(b)Ahad a consensual sexual relationship withZuntilZterminated the relationship.Acame toZ’s house and askedZifZwould have sex withA.Zrefused.Abecame angry and saidAwould use force, if necessary.Agrappled withZwho resistedA’s advances and struckA’s face. Enraged byZ’s resistance,AslamsZinto a wall, andZslumps to the ground. WhileZis motionless on the ground,AkicksZ’s head repeatedly and killsZ.Exception4 does not apply becauseAhad taken undue advantage ofZwhileZwas lying motionless on the ground.
 
 Exception5.—Culpable homicide is not murder when the person whose death is caused, being above the age of 18 years, suffers death or takes the risk of death with his own consent.
 
 Illustration
 
-A, by instigation, voluntarily causesZ, a person under 18 years of age, to commit suicide. Here, on account ofZ’s youth, he was incapable of giving consent to his own death.Ahas therefore abetted murder.
+AandZ, both being persons above 18 years of age, decide to commit suicide together by drinking poison. WithZ’s consent,Apours a lethal poison downZ’s throat but after watchingZdie,Acannot summon the courage to drink the same poison.Ahas committed culpable homicide and not murder.
 
 Exception6.—Culpable homicide is not murder if the offender being a woman voluntarily causes the death of her child being a child under the age of 12 months, and at the time of the offence the balance of her mind was disturbed by reason of her not having fully recovered from the effect of giving birth to the child or by reason of the effect of lactation consequent upon the birth of the child.
 
-Exception7.—Culpable homicide is not murder if the offender was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development of mind or any inherent causes or induced by disease or injury) as substantially impaired his mental responsibility for his acts and omissions in causing the death or being a party to causing the death.
+Exception7.—Culpable homicide is not murder if at the time of the acts or omissions causing the death concerned, the offender was suffering from such abnormality of mind (whether arising from a condition of arrested or retarded development or any inherent causes or induced by disease or injury) as substantially —
+
+(a)
+
+impaired the offender’s capacity —
+
+(i)
+
+to know the nature of the acts or omissions in causing the death or in being a party to causing the death; or
+
+(ii)
+
+to know whether such acts or omissions are wrong (whether wrong by the ordinary standards of reasonable and honest persons or wrong as contrary to law); or
+
+(b)
+
+impaired the offender’s power to control his acts or omissions in causing the death or being a party to causing the death.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 300]
 
 ### Culpable homicide by causing the death of a person other than the person whose death was intended
 
-301\. If a person, by doing anything which he intends or knows to be likely to cause death, commits culpable homicide by causing the death of any person whose death he neither intends nor knows himself to be likely to cause, the culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.
+301\.—(1) If a person, by doing anything which he intends or knows to be likely to cause death, commits culpable homicide by causing the death of any person whose death he neither intends nor knows himself to be likely to cause, the culpable homicide committed by the offender is of the description of which it would have been if he had caused the death of the person whose death he intended or knew himself to be likely to cause.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) To avoid doubt, in the circumstances mentioned in subsection (1), the accused person may rely on any defence or exception in law as though the accused person had caused the death of the person whose death he intended or knew himself to be likely to cause.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 301]
 
@@ -4311,9 +4904,11 @@ Exception7.—Culpable homicide is not murder if the offender was suffering from
 
 (ii) imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning; or
 
-(b) if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death, be punished with imprisonment for a term which may extend to 10 years, or with fine, or with caning, or with any combination of such punishments.
+(b) if the act is done with the knowledge that it is likely to cause death, but without any intention to cause death, or to cause such bodily injury as is likely to cause death, be punished with imprisonment for a term which may extend to 15 years, or with fine, or with caning, or with any combination of such punishments.
 
 [Act 32 of 2012 wef 01/01/2013]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 \*There is no section 303.
 
@@ -4329,21 +4924,121 @@ Exception7.—Culpable homicide is not murder if the offender was suffering from
 
 [Indian PC 1860, s. 304A]
 
-### Abetment of suicide of child or insane person
+### Causing death of child below 14 years of age, domestic worker or vulnerable person by sustained abuse
 
-305\. If any person under 18 years of age, any insane person, any delirious person, any idiot, or any person in a state of intoxication, commits suicide, whoever abets the commission of such suicide shall be punished with death or imprisonment for life, or with imprisonment for a term not exceeding 10 years, and shall also be liable to fine.
+304B\.—(1) A relevant person who causes the death of any child, domestic worker or vulnerable person by sustained abuse shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
 
-[Indian PC 1860, s. 305]
+(2) In this section —
 
-### Abetment of suicide
+“child” means a person below 14 years of age;
 
-306\. If any person commits suicide, whoever abets the commission of such suicide shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+“domestic worker”, “employer”, “employment agent” and “member of the employer’s household” have the meanings given by section 73(4);
+
+“neglect” means the failure by a relevant person to provide any or adequate essential care (such as but not limited to food, clothing, medical aid, lodging and other necessities of life) to the extent of causing personal injury or physical pain to, or injury to the physical health of any child, domestic worker or vulnerable person;
+
+“relevant person” means —
+
+(a) in the case of a child, a person who has custody, charge or care of the child;
+
+(b) in the case of a domestic worker, the employer of the domestic worker, a member of the employer’s household or the employment agent of the domestic worker; and
+
+(c) in the case of a vulnerable person, a person who has custody, charge or care of the vulnerable person;
+
+“sustained abuse” means a course of conduct which consists of voluntarily causing hurt or knowingly causing neglect, or both, of a child, domestic worker or vulnerable person on —
+
+(a) 2 or more occasions; or
+
+(b) a single occasion if the conduct is protracted;
+
+“vulnerable person” has the meaning given by section 74A(5).
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Causing or allowing death of child below 14 years of age, domestic worker or vulnerable person in same household
+
+304C\.—(1) A person (A) shall be guilty of an offence if —
+
+(a) a person below 14 years of age, a domestic worker or a vulnerable person (B) dies as a result of the unlawful act of a person who —
+
+(i) was a member of the same household asB; and
+
+(ii) had frequent contact withB;
+
+(b) Awas a member of the same household asB, and had frequent contact withBat the time of that act;
+
+(c) at that time there was a significant risk of grievous hurt being caused toBby the unlawful act of such a person; and
+
+(d) eitherAwas the person whose act causedB’s death or —
+
+(i) Awas, or ought to have been, aware of the significant risk mentioned in paragraph (c);
+
+(ii) Afailed to take such steps asAcould reasonably have been expected to take to protectBfrom the significant risk; and
+
+(iii) the unlawful act occurred in circumstances of the kind thatAforesaw or ought to have foreseen.
+
+(2) The prosecution does not have to prove whether it is the first alternative element in subsection (1)(d) or the second alternative element (sub-paragraphs (i), (ii) and (iii) of subsection (1)(d)) that applies.
+
+(3)Ais not guilty of an offence under this section ifAcould not have been expected inA’s circumstances to take any such step as is mentioned in subsection (1)(d)(ii).
+
+(4) Any person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+
+(5) For the purposes of this section —
+
+(a) a person is to be regarded as a “member” of a particular household, even if that person does not live in that household, if that person visits it so often and for such periods of time that it is reasonable to regard him as a member of the particular household;
+
+(b) whereBlived in different households at different times, “the same household asB” refers to the household in whichBwas living at the time of the act that causedB’s death;
+
+(c) an “unlawful” act, other than an act byA, is one that constitutes an offence or would constitute an offence but for being the act of —
+
+(i) a person below the age specified in section 82;
+
+(ii) a person of the age specified in section 83 who had not attained sufficient maturity of understanding to judge of the nature and consequence of the act;
+
+(iii) a person entitled to rely on a defence of unsoundness of mind;
+
+(iv) a person entitled to rely on a defence of intoxication; or
+
+(v) a person entitled to rely on a defence of mistake of fact;
+
+(d) “domestic worker” and “vulnerable person” have the meanings given by sections 73(4) and 74A(5), respectively; and
+
+(e) the circumstances mentioned in subsection (3) include but is not limited toA’s past or present experiences of suffering neglect, hurt, grievous hurt, sexual abuse or any injury toA’s mental health as a result of an unlawful act by any member of the same household asA.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Abetment of suicide or attempted suicide of minor or person who lacks mental capacity
+
+305\.—(1) If any minor or other person who lacks capacity —
+
+(a) commits suicide, whoever abets the commission of the suicide and who knew or ought reasonably to have known that the person who committed suicide was a minor or a person who lacks capacity, shall be punished with death or imprisonment for life, or with imprisonment for a term which may extend to 20 years, and shall, if he is not sentenced to death or imprisonment for life, also be liable to fine;
+
+(b) attempts suicide, whoever abets the attempted suicide and who knew or ought reasonably to have known that the person who attempted suicide was a minor or a person who lacks capacity, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine; or
+
+(c) attempts suicide and hurt is caused to any person in the course of the attempted suicide, whoever abets the attempted suicide and who knew or ought reasonably to have known that the person who attempted suicide was a minor or a person who lacks capacity, shall be punished with imprisonment for life or with imprisonment for a term which may extend to 20 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
+
+(2) In subsection (1) —
+
+“minor” means a person below 18 years of age;
+
+“person who lacks capacity” means a person who lacks capacity to understand the consequences of attempting or committing suicide, as the case may be, from unsoundness of mind, mental incapacity, intoxication, or the influence of any drug or other substance.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Abetment of suicide or attempted suicide
+
+306\. If any person attempts or commits suicide, whoever abets the commission of such attempted suicide or suicide shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
 [Indian PC 1860, s. 306]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Attempt to murder
 
-307\.—(1) Whoever does any act with such intention or knowledge and under such circumstances that if he by that act caused death he would be guilty of murder, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be liable either to imprisonment for life, or to imprisonment for a term which may extend to 20 years, and shall also be liable to caning or fine or both.
+307\.—(1) Whoever does any act with the intention of causing death and under such circumstances that if he by that act caused death he would be guilty of murder, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine; and if hurt is caused to any person by such act, the offender shall be punished with —
+
+(a) imprisonment for life and shall also be liable to caning; or
+
+(b) imprisonment for a term which may extend to 20 years, and shall also be liable to fine, or to caning or to both.
 
 [62/73; 51/2007]
 
@@ -4357,6 +5052,8 @@ Illustrations
 
 (d)A, intending to murderZby poison, purchases poison and mixes the same with food which remains inA’s keeping;Ahas not yet committed the offence defined in this section.Aplaces the food onZ’s table or delivers it toZ’s servants to place it onZ’s table. A has committed the offence defined in this section.
 
+[Act 15 of 2019 wef 01/01/2020]
+
 [51/2007]
 
 ### Other offences by convicts
@@ -4367,29 +5064,69 @@ Illustrations
 
 ### Attempt to commit culpable homicide
 
-308\. Whoever does any act with such intention or knowledge and under such circumstances that if he by that act caused death he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both; and if hurt is caused to any person by such act, the offender shall be punished with imprisonment for a term which may extend to 15 years, or with fine, or with caning, or with any combination of such punishments.
+308\. Whoever does any act with the intention to cause death and under such circumstances that if he by that act caused death he would be guilty of culpable homicide not amounting to murder, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both; and if hurt is caused to any person by such act, the offender shall be punished with imprisonment for a term which may extend to 15 years, or with fine, or with caning, or with any combination of such punishments.
 
 [51/2007]
 
 Illustration
 
-A, on grave and sudden provocation, fires a pistol atZ, under such circumstances that if he thereby caused death he would be guilty of culpable homicide not amounting to murder.Ahas committed the offence defined in this section.
+A, on grave and sudden provocation, fires a pistol atZintending to killZ, under such circumstances that if he thereby caused death he would be guilty of culpable homicide not amounting to murder.Ahas committed the offence defined in this section.
 
 [Indian PC 1860, s. 308]
 
-### Attempt to commit suicide
+[Act 15 of 2019 wef 01/01/2020]
 
-309\. Whoever attempts to commit suicide, and does any act towards the commission of such offence, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+### Causing death in furtherance of group’s object
 
-[Indian PC 1860, s. 309]
+308A\.—(1) Any person shall be guilty of an offence who is or acts as a member of a group —
+
+(a) knowing that the common object of the members of the group is to commit an offence under this Code or any written law;
+
+(b) knowing that —
+
+(i) death or grievous hurt is likely to be caused in furtherance of the group’s common object; or
+
+(ii) a deadly weapon, or anything which, used as a weapon of offence, is likely to cause death, is to be used in any manner against another person in the furtherance of that common object; and
+
+(c) the death of a person was caused in furtherance of the group’s common object.
+
+Illustration
+
+Three members of a group includingAdecide to rob a neighbourhood shop. The group leader,Bbrings a sharp knife butBreassuresAthat the knife is only to be used to threaten the shopkeeper,C, and not to harmC.AbelievesBand takes part in the robbery.Chowever refuses to surrender his cash to the group.Bthen stabsCwith the knife andCdies from his stab wounds.Ais guilty of an offence under this section becauseAknew that the knife was to be used to threaten another person,C, in furtherance of the group’s common object to commit robbery.
+
+(2) A person who is guilty of an offence under subsection (1) shall be punished with imprisonment for life or imprisonment for a term which may extend to 20 years, and shall also be liable to caning.
+
+(3) In subsection (1), “group” has the meaning given by section 2(1) of the Organised Crime Act 2015 (Act 26 of 2015).
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Concealment, desecration or disposal of corpse that impedes discovery, identification, criminal investigations or prosecutions
+
+308B\.—(1) A person shall be guilty of an offence who intentionally or knowingly conceals, desecrates or disposes of a human corpse and by such act impedes or prevents —
+
+(a) the discovery or identification of a human corpse; or
+
+(b) the detection, investigation or prosecution of an offence under this Code or any other written law.
+
+(2) A person who is guilty of an offence under subsection (1) shall be punished with imprisonment for a term which may extend to 7 years.
+
+(3) In this section, “desecrate”, in relation to a human corpse, includes any act committed after the death of a living person including but not limited to dismemberment, disfigurement, mutilation, burning, or any act committed to cause the human corpse in whole or in part to be devoured, scattered or dissipated.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+309\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Infanticide
 
-310\. When any woman by any wilful act or omission causes the death of her child being a child under the age of 12 months, but at the time of the act or omission the balance of her mind was disturbed by reason of her not having fully recovered from the effect of giving birth to the child or by reason of the effect of lactation consequent upon the birth of the child, she shall, notwithstanding that the circumstances were such that but for this section the offence would have amounted to murder, be guilty of the offence of infanticide.
+310\. When any woman by any intentional act or omission causes the death of her child being a child under the age of 12 months, but at the time of the act or omission the balance of her mind was disturbed by reason of her not having fully recovered from the effect of giving birth to the child or by reason of the effect of lactation consequent upon the birth of the child, she shall, notwithstanding that the circumstances were such that but for this section the offence would have amounted to murder, be guilty of the offence of infanticide.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Punishment for infanticide
 
-311\. Whoever commits the offence of infanticide shall be punished at the discretion of the court with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+311\. Whoever commits the offence of infanticide shall be punished at the discretion of the court with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 Causing miscarriage; injuries to
 
@@ -4405,7 +5142,7 @@ and concealment of births
 
 ### Causing miscarriage
 
-312\. Subject to the provisions of the Termination of Pregnancy Act (Cap. 324), whoever voluntarily causes a woman with child to miscarry, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both; and if the woman is quick with child, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+312\. Subject to the provisions of the Termination of Pregnancy Act (Cap. 324), whoever voluntarily causes a woman with child to miscarry, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both; and if the woman’s pregnancy is of more than 16 weeks’ duration as calculated in accordance with section 4 of that Act, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
 
 [32/80]
 
@@ -4413,9 +5150,13 @@ Explanation.— A woman who causes herself to miscarry is within the meaning of 
 
 [Indian PC 1860, s. 312]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Causing miscarriage without woman’s consent
 
-313\. Whoever commits the offence defined in section 312, without the consent of the woman, whether the woman is quick with child or not, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+313\. Whoever commits the offence defined in section 312, without the consent of the woman, whether the woman’s pregnancy is of more than 16 weeks’ duration or not as mentioned in that section, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 313]
 
@@ -4431,9 +5172,11 @@ Explanation.— It is not essential to this offence that the offender should kno
 
 ### Child destruction before, at or immediately after birth
 
-315\.—(1) Subject to the provisions of the Termination of Pregnancy Act, whoever, with intent to destroy the life of a child capable of being born alive, by any wilful act causes a child to die before it has an existence independent of its mother or by such act causes the child to die after its birth, shall, unless such act is immediately necessary to save the life of the mother, be punished with imprisonment for a term not exceeding 10 years, or with fine, or with both.
+315\.—(1) Subject to the provisions of the Termination of Pregnancy Act, whoever, with intent to destroy the life of a child capable of being born alive, by any intentional act causes a child to die before it has an existence independent of its mother or by such act causes the child to die after its birth, shall, unless such act is immediately necessary to save the life of the mother, be punished with imprisonment for a term not exceeding 10 years, or with fine, or with both.
 
 [32/80; 51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (2) For the purposes of this section, evidence that a woman had at any material time been pregnant for a period of 28 weeks or more shall be prima facie evidence that she was at that time pregnant of a child capable of being born alive.
 
@@ -4523,35 +5266,53 @@ A, intending or knowing himself to be likely permanently to disfigureZ’s face,
 
 ### Punishment for voluntarily causing hurt
 
-323\. Whoever, except in the case provided for by section 334, voluntarily causes hurt, shall be punished with imprisonment for a term which may extend to 2 years, or with fine which may extend to $5,000, or with both.
+323\. Whoever, except in the case provided for by section 323A or 334, voluntarily causes hurt, shall be punished with imprisonment for a term which may extend to 3 years, or with fine which may extend to $5,000, or with both.
 
 [51/2007]
 
 [Indian PC 1860, s. 323]
 
+[Act 15 of 2019 wef 01/01/2020]
+
+### Punishment for voluntarily causing hurt which causes grievous hurt
+
+323A\. Whoever voluntarily causes hurt, if the hurt which he intends to cause or knows himself to be likely to cause is not grievous, but the hurt which he actually causes is grievous, shall be punished with imprisonment for a term which may extend to 5 years, or with fine which may extend to $10,000, or with both.
+
+Illustration
+
+At a club,Anotices one ofA’s friends fighting withZ.Aruns towardsZand punchesZin the face intending or knowing himself to be likely to cause minor injuries toZ’s face.Zloses his balance, falls and hits his head against a ledge.Zsuffers from severe brain injuries and is permanently paralysed.Adid not intend to cause grievous hurt butA’s action has actually caused grievous hurt toZ.
+
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Voluntarily causing hurt by dangerous weapons or means
 
-324\. Whoever, except in the case provided for by section 334, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with caning, or with any combination of such punishments.
+324\. Whoever, except in the case provided for by section 334, voluntarily causes hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is harmful to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with caning, or with any combination of such punishments.
 
 [62/73; 51/2007]
 
 [Indian PC 1860, s. 324]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Punishment for voluntarily causing grievous hurt
 
-325\. Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+325\. Whoever, except in the case provided for by section 323A, 334A or 335, voluntarily causes grievous hurt, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
 
 [62/73; 51/2007]
 
 [Indian PC 1860, s. 325]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Voluntarily causing grievous hurt by dangerous weapons or means
 
-326\. Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is deleterious to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
+326\. Whoever, except in the case provided for by section 335, voluntarily causes grievous hurt by means of any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, or by means of fire or any heated substance, or by means of any poison or any corrosive substance, or by means of any explosive substance, or by means of any substance which it is harmful to the human body to inhale, to swallow, or to receive into the blood, or by means of any animal, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, and shall also be liable to caning or if he is not sentenced to imprisonment for life, liable to fine.
 
 [51/2007]
 
 [Indian PC 1860, s. 326]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Voluntarily causing hurt to extort property or to constrain to an illegal act
 
@@ -4561,11 +5322,13 @@ A, intending or knowing himself to be likely permanently to disfigureZ’s face,
 
 ### Causing hurt by means of poison, etc., with intent to commit an offence
 
-328\. Whoever administers to, or causes to be taken by, any person any poison or any stupefying, intoxicating or unwholesome drug or other thing, with intent to cause hurt to such person, or with intent to commit or to facilitate the commission of an offence, or knowing it to be likely that he will thereby cause hurt, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+328\. Whoever administers to, or causes to be taken by, any person any poison or any stupefying or intoxicating substance, or any substance which is harmful to the human body to inhale, swallow or receive into the blood, with intent to cause hurt to such person, or with intent to commit or to facilitate the commission of an offence, or knowing it to be likely that he will thereby cause hurt, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
 
 [51/2007]
 
 [Indian PC 1860, s. 328]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Voluntarily causing grievous hurt to extort property, or to constrain to an illegal act
 
@@ -4599,11 +5362,13 @@ Illustrations
 
 ### Voluntarily causing hurt to deter public servant from his duty
 
-332\. Whoever voluntarily causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with caning, or with any combination of such punishments.
+332\. Whoever voluntarily causes hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine or to caning, provided that in exceptional circumstances imprisonment need not be imposed.
 
 [62/73; 51/2007]
 
 [Indian PC 1860, s. 332]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Voluntarily causing grievous hurt to deter public servant from his duty
 
@@ -4615,11 +5380,19 @@ Illustrations
 
 ### Voluntarily causing hurt on provocation
 
-334\. Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation, shall be punished with imprisonment for a term which may extend to 3 months, or with fine which may extend to $2,500, or with both.
+334\. Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation, shall be punished with imprisonment for a term which may extend to 6 months, or with fine which may extend to $2,500, or with both.
 
 [51/2007]
 
 [Indian PC 1860, s. 334]
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Punishment for voluntarily causing hurt on provocation which causes grievous hurt
+
+334A\. Whoever voluntarily causes hurt on grave and sudden provocation, if he neither intends nor knows himself to be likely to cause hurt to any person other than the person who gave the provocation and if the hurt which he intends to cause or knows himself to be likely to cause is not grievous, but the hurt which he actually causes is grievous, shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $7,500, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Causing grievous hurt on provocation
 
@@ -4630,6 +5403,70 @@ Illustrations
 Explanation.— Sections 334 and 335 are subject to the same provisos as exception 1 of section 300.
 
 [Indian PC 1860, s. 335]
+
+### Allowing neglect, physical or sexual abuse of domestic worker or vulnerable person
+
+335A\.—(1) A person (A) shall be guilty of an offence if —
+
+(a) a domestic worker (B) suffers neglect, hurt, grievous hurt, sexual abuse or any injury toB’s mental health as a result of the unlawful act of another person (C);
+
+(b) Aknew or had reason to believe thatBwas at risk of such neglect, hurt, grievous hurt, sexual abuse or injury caused byC;
+
+(c) Awas at the time of the risk mentioned in paragraph (b) the employer ofB, a member ofB’s employer’s household or an employment agent ofB;
+
+(d) Afailed to take such steps asAcould reasonably have been expected to take inA’s circumstances to protectBfrom the risk mentioned in paragraph (b); and
+
+(e) the act occurred in circumstances of the kind thatAforesaw or ought to have foreseen.
+
+(2) A person (A) shall be guilty of an offence if —
+
+(a) a vulnerable person (B) suffers neglect, hurt, grievous hurt, sexual abuse or any injury toB’s mental health as a result of the unlawful act of another person (C);
+
+(b) Aknew or had reason to believe thatBwas at risk of neglect, hurt, grievous hurt, sexual abuse or injury caused byC;
+
+(c) Ahad, at the time of the risk mentioned in paragraph (b), the custody, charge or care ofB;
+
+(d) Afailed to take such steps asAcould reasonably have been expected to take inA’s circumstances to protectBfrom the risk mentioned in paragraph (b); and
+
+(e) the act occurred in circumstances of the kind thatAforesaw or ought to have foreseen.
+
+(3) For the purposes of this section, “unlawful act”, other than an act byA, is one that constitutes an offence that causes neglect, hurt, grievous hurt or sexual abuse toBor injury toB’s mental health or would constitute such an offence but for being the act of —
+
+(a) a person below the age specified in section 82;
+
+(b) a person of the age specified in section 83 who had not attained sufficient maturity of understanding to judge of the nature and consequence of the act;
+
+(c) a person entitled to rely on a defence of unsoundness of mind;
+
+(d) a person entitled to rely on a defence of intoxication; or
+
+(e) a person entitled to rely on a defence of mistake of fact.
+
+(4)A’s circumstances mentioned in subsections (1)(d) and (2)(d), include but is not limited toA’s past or present experiences of suffering neglect, hurt, grievous hurt, sexual abuse or any injury toA’s mental health as a result of an unlawful act byC.
+
+(5) Any person who is guilty of an offence under subsection (1) or (2) shall on conviction —
+
+(a) in the case where death is caused to the domestic worker or vulnerable person, be punished with imprisonment for a term which may extend to 7 years, or with fine which may extend to $20,000, or with both; and
+
+(b) in any other case, be punished with imprisonment for a term which may extend to 4 years, or with fine which may extend to $4,000, or with both.
+
+(6) In this section —
+
+“domestic worker”, “employer”, “employment agent” and “member of the employer’s household” have the meanings given by section 73(4);
+
+“neglect” has the meaning given by section 304B(2);
+
+“sexual abuse” means abuse caused to a victim by the commission of a sexual offence within the meaning of section 2(1) of the Criminal Procedure Code;
+
+“vulnerable person” has the meaning given by section 74A(5).
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Punishment for act which endangers life or personal safety of others with knowledge or belief that it is likely to cause death
+
+335B\. Whoever does any act, that endangers human life or the personal safety of others, knowing or believing that such act is likely to cause death, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Punishment for act which endangers life or the personal safety of others
 
@@ -4703,23 +5540,17 @@ Illustrations
 
 ### Punishment for wrongful confinement
 
-342\. Whoever wrongfully confines any person shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $3,000, or with both.
+342\. Whoever wrongfully confines any person shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
 [51/2007]
 
 [Indian PC 1860, s. 342]
 
-### Wrongful confinement for 3 or more days
+[Act 15 of 2019 wef 01/01/2020]
 
-343\. Whoever wrongfully confines any person for 3 days or more, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+343\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 343]
-
-### Wrongful confinement for 10 or more days
-
-344\. Whoever wrongfully confines any person for 10 days or more, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 344]
+344\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Wrongful confinement of person for whose liberation a writ has been issued
 
@@ -4903,11 +5734,13 @@ Kidnapping, abduction, slavery and forced labour
 
 ### Kidnapping from lawful guardianship
 
-361\. Whoever takes or entices any minor under 14 years of age if a male, or under 16 years of age if a female, or any person of unsound mind, out of the keeping of the lawful guardian of such minor or person of unsound mind, without the consent of such guardian, is said to kidnap such minor or person from lawful guardianship.
+361\. Whoever takes or entices any minor under 16 years of age, or any person of unsound mind, out of the keeping of the lawful guardian of such minor or person of unsound mind, without the consent of such guardian, is said to kidnap such minor or person from lawful guardianship.
 
 Explanation.—The words “lawful guardian” in this section include any person lawfully entrusted with the care or custody of such minor or other person.
 
 Exception.—This section does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 361]
 
@@ -4957,11 +5790,13 @@ Illustrations
 
 ### Kidnapping or abducting in order to subject a person to grievous hurt, slavery, etc.
 
-367\. Whoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt or slavery, or to non-consensual penile penetration of the anus, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+367\. Whoever kidnaps or abducts any person in order that such person may be subjected, or may be so disposed of as to be put in danger of being subjected to grievous hurt or slavery, or to non-consensual penile penetration of the anus or mouth, or knowing it to be likely that such person will be so subjected or disposed of, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
 
 [51/2007]
 
 [Indian PC 1860, s. 367]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Wrongfully concealing or keeping in confinement a kidnapped person
 
@@ -4969,11 +5804,7 @@ Illustrations
 
 [Indian PC 1860, s. 368]
 
-### Kidnapping or abducting child under 10 years with intent to steal movable property from the person of such child
-
-369\. Whoever kidnaps or abducts any child under the age of 10 years, with the intention of taking dishonestly any movable property from the person of such child, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
-
-[Indian PC 1860, s. 369]
+369\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Buying or disposing of any person as a slave
 
@@ -5035,75 +5866,79 @@ shall be guilty of an offence.
 
 [51/2007]
 
+(1A) Any man (A) who penetrates, withA’s penis, the anus or mouth of another person (B) —
+
+(a) withoutB’s consent; or
+
+(b) with or withoutB’s consent, whenBis below 14 years of age,
+
+shall be guilty of an offence.
+
+[Act 15 of 2019 wef 01/01/2020]
+
 (2) Subject to subsection (3), a man who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
 
 [51/2007]
 
 (3) Whoever —
 
-(a) in order to commit or to facilitate the commission of an offence under subsection (1) —
+(a) in order to commit or to facilitate the commission of an offence under subsection (1) or (1A) —
 
-(i) voluntarily causes hurt to the woman or to any other person; or
+(i) voluntarily causes hurt to any person; or
 
-(ii) puts her in fear of death or hurt to herself or any other person; or
+(ii) puts a person in fear of death or hurt to that person or any other person;
 
-(b) commits an offence under subsection (1) with a woman under 14 years of age without her consent,
+(b) commits an offence under subsection (1) or (1A) against a person below 14 years of age without that person’s consent; or
 
-shall be punished with imprisonment for a term of not less than 8 years and not more than 20 years and shall also be punished with caning with not less than 12 strokes.
+(c) commits an offence under subsection (1) or (1A) against a person below 14 years of age with whom the offender is in a relationship that is exploitative of that person,
 
-[51/2007]
+shall be punished with imprisonment for a term of not less than 8 years and not more than 20 years and shall also be punished with caning of not less than 12 strokes.
 
-(4) No man shall be guilty of an offence under subsection (1) against his wife, who is not under 13 years of age, except where at the time of the offence —
+[Act 15 of 2019 wef 01/01/2020]
 
-(a) his wife was living apart from him —
+(4) No man shall be guilty of an offence under subsection (1)(b) or (1A)(b) for an act of penetration against his wife with her consent.
 
-(i) under an interim judgment of divorce not made final or a decree nisi for divorce not made absolute;
+[Act 15 of 2019 wef 01/01/2020]
 
-(ii) under an interim judgment of nullity not made final or a decree nisi for nullity not made absolute;
+(5) Despite section 79, no man shall be guilty of an offence under subsection (1)(a) or (1A)(a) if he proves that by reason of mistake of fact in good faith, he believed that the act of penetration against a person was done with consent.
 
-(iii) under a judgment or decree of judicial separation; or
+[Act 15 of 2019 wef 01/01/2020]
 
-(iv) under a written separation agreement;
+(6) No man shall be punished under subsection (3)(b) if he proves that by reason of mistake of fact in good faith, he believed that the act of penetration against a person below 14 years of age was done with consent.
 
-(b) his wife was living apart from him and proceedings have been commenced for divorce, nullity or judicial separation, and such proceedings have not been terminated or concluded;
-
-(c) there was in force a court injunction to the effect of restraining him from having sexual intercourse with his wife;
-
-(d) there was in force a protection order under section 65 or an expedited order under section 66 of the Women’s Charter (Cap. 353) made against him for the benefit of his wife; or
-
-(e) his wife was living apart from him and proceedings have been commenced for the protection order or expedited order referred to in paragraph (d), and such proceedings have not been terminated or concluded.
-
-[51/2007]
-
-(5) Notwithstanding subsection (4), no man shall be guilty of an offence under subsection (1)(b) for an act of penetration against his wife with her consent.
-
-[51/2007]
+[Act 15 of 2019 wef 01/01/2020]
 
 [UK SOA 2003, s. 1; SPC 1985 Ed., s. 375 (repealed); SPC 1985 Ed., s. 376 (repealed); Indian PC 1860, s. 375; Malaysia PC 2006 Ed., s. 375]
 
-### Sexual assault by penetration
+### Sexual assault involving penetration
 
-376\.—(1) Any man (A) who —
+376\.—(1) Any man (A) who causes another man (B) to penetrate with B’s penis, the anus or mouth of A —
 
-(a) penetrates, with A’s penis, the anus or mouth of another person (B); or
+(a) without B’s consent; or
 
-(b) causes another man (B) to penetrate, with B’s penis, the anus or mouth of A,
+(b) with or without B’s consent, when B is below 14 years of age,
 
-shall be guilty of an offence if B did not consent to the penetration.
+shall be guilty of an offence.
 
-[51/2007]
+[Act 15 of 2019 wef 01/01/2020]
 
 (2) Any person (A) who —
 
-(a) sexually penetrates, with a part of A’s body (other than A’s penis) or anything else, the vagina or anus, as the case may be, of another person (B);
+(a) sexually penetrates, with a part of A’s body (other than A’s penis, if a man) or anything else, the vagina or anus, as the case may be, of another person (B);
 
-(b) causes a man (B) to penetrate, with B’s penis, the vagina, anus or mouth, as the case may be, of another person (C); or
+[Act 15 of 2019 wef 01/01/2020]
 
-(c) causes another person (B), to sexually penetrate, with a part of B’s body (other than B’s penis) or anything else, the vagina or anus, as the case may be, of any person including A or B,
+(b) causes a man (B) to penetrate, with B’s penis, the vagina, anus or mouth, as the case may be, of another person including A; or
 
-shall be guilty of an offence if B did not consent to the penetration.
+[Act 15 of 2019 wef 01/01/2020]
+
+(c) causes another person (B), to sexually penetrate, with a part of B’s body (other than B’s penis, if a man) or anything else, the vagina or anus, as the case may be, of any person including A or B,
+
+shall be guilty of an offence if B did not consent to the penetration or if B is below 14 years of age, whether B did or did not consent to the penetration.
 
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (3) Subject to subsection (4), a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
 
@@ -5115,11 +5950,31 @@ shall be guilty of an offence if B did not consent to the penetration.
 
 (i) voluntarily causes hurt to any person; or
 
-(ii) puts any person in fear of death or hurt to himself or any other person; or
+(ii) puts any person in fear of death or hurt to himself or any other person;
 
-(b) commits an offence under subsection (1) or (2) against a person (B) who is under 14 years of age,
+[Act 15 of 2019 wef 01/01/2020]
+
+(b) commits an offence under subsection (1) or (2) against a person below 14 years of age without that person’s consent; or
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(c) commits an offence under subsection (1) or (2) against a person below 14 years of age with whom the offender is in a relationship that is exploitative of that person,
 
 shall be punished with imprisonment for a term of not less than 8 years and not more than 20 years and shall also be punished with caning with not less than 12 strokes.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(5) No person shall be guilty of an offence under subsection (1) or (2) —
+
+(a) for an act of penetration against his or her spouse with the consent of that spouse; or
+
+(b) if despite section 79, that person proves that by reason of mistake of fact in good faith, the person believed that B mentioned in those subsections did consent to the penetration and B was not below 14 years of age.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(6) No man shall be punished under subsection (4)(b) if he proves that by reason of mistake of fact in good faith, he believed that the act of penetration against a person below 14 years of age was done with consent.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -5131,19 +5986,39 @@ shall be punished with imprisonment for a term of not less than 8 years and not 
 
 (a) penetrates, with A’s penis, the vagina, anus or mouth, as the case may be, of a person under 16 years of age (B);
 
-(b) sexually penetrates, with a part of A’s body (other than A’s penis) or anything else, the vagina or anus, as the case may be, of a person under 16 years of age (B);
+(b) sexually penetrates, with a part of A’s body (other than A’s penis, if a man) or anything else, the vagina or anus, as the case may be, of a person under 16 years of age (B);
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (c) causes a man under 16 years of age (B) to penetrate, with B’s penis, the vagina, anus or mouth, as the case may be, of another person including A; or
 
-(d) causes a person under 16 years of age (B) to sexually penetrate, with a part of B’s body (other than B’s penis) or anything else, the vagina or anus, as the case may be, of any person including A or B,
+(d) causes a person under 16 years of age (B) to sexually penetrate, with a part of B’s body (other than B’s penis, if a man) or anything else, the vagina or anus, as the case may be, of any person including A or B,
 
-with or without B’s consent, shall be guilty of an offence.
-
-[51/2007]
-
-(2) Subject to subsection (3), a person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+shall be guilty of an offence.
 
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(1A) This section does not apply to an act of penetration mentioned in subsection (1) which would constitute an offence under section 375(1)(a), 375(1)(b) read with section 375(3), 375(1A)(a), 375(1A)(b) read with section 375(3), 376(1)(a), 376(1)(b) read with section 376(4), 376(2) (if the victim B is of or above 14 years of age) or 376(2) (if the victim B is below 14 years of age) read with section 376(4).
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(1B) To avoid doubt —
+
+(a) it is not necessary for the prosecution to prove that B did consent to an act of penetration mentioned in subsection (1); and
+
+(b) it is not a defence that B did consent to that act.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) Whoever commits an offence under this section against a person (B) who is of or above 14 years of age but below 16 years of age —
+
+(a) in a case where the offender is in a relationship that is exploitative of B, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning; and
+
+(b) in any other case, shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (3) Whoever commits an offence under this section against a person (B) who is under 14 years of age shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
 
@@ -5153,29 +6028,31 @@ with or without B’s consent, shall be guilty of an offence.
 
 [51/2007]
 
-(5) No man shall be guilty of an offence under subsection (1)(a) for penetrating with his penis the vagina of his wife without her consent, if his wife is not under 13 years of age, except where at the time of the offence —
-
-(a) his wife was living apart from him —
-
-(i) under an interim judgment of divorce not made final or a decree nisi for divorce not made absolute;
-
-(ii) under an interim judgment of nullity not made final or a decree nisi for nullity not made absolute;
-
-(iii) under a judgment or decree of judicial separation; or
-
-(iv) under a written separation agreement;
-
-(b) his wife was living apart from him and proceedings have been commenced for divorce, nullity or judicial separation, and such proceedings have not been terminated or concluded;
-
-(c) there was in force a court injunction to the effect of restraining him from having sexual intercourse with his wife;
-
-(d) there was in force a protection order under section 65 or an expedited order under section 66 of the Women’s Charter (Cap. 353) made against him for the benefit of his wife; or
-
-(e) his wife was living apart from him and proceedings have been commenced for the protection order or expedited order referred to in paragraph (d), and such proceedings have not been terminated or concluded.
-
-[51/2007]
+(5) [Deleted by Act 15 of 2019 wef 01/01/2020]
 
 [UK SOA 2003, ss. 6, 8; SPC 1985 Ed., s. 375(e) (read with s. 376(1) (repealed)); SPC 1985 Ed., s. 375; Malaysia PC 2006 Ed., s. 375]
+
+### Exploitative sexual penetration of minor of or above 16 but below 18 years of age
+
+376AA\.—(1) Any person (A) who is in a relationship that is exploitative of a person of or above 16 years of age but below 18 years of age (B) shall be guilty of an offence ifA—
+
+(a) penetrates, withA’s penis, ifAis a man, the vagina, anus or mouth, as the case may be, ofB;
+
+(b) sexually penetrates, with a part ofA’s body (other thanA’s penis, ifAis a man) or anything else, the vagina or anus, as the case may be, ofB;
+
+(c) causesB, if a man, to penetrate, withB’s penis, the vagina, anus or mouth, as the case may be, of another person includingA; or
+
+(d) causesBto sexually penetrate, with a part ofB’s body (other thanB’s penis, ifBis a man) or anything else, the vagina or anus, as the case may be, of any person includingAorB.
+
+(2) For the purposes of subsection (1) —
+
+(a) it is not necessary for the prosecution to prove thatBdid or did not consent to the act mentioned in that subsection; and
+
+(b) to avoid doubt, it is not a defence thatBdid consent to that act.
+
+(3) A person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Commercial sex with minor under 18
 
@@ -5193,11 +6070,19 @@ with or without B’s consent, shall be guilty of an offence.
 
 (4) In this section, “sexual services” means any sexual services involving —
 
-(a) sexual penetration of the vagina or anus, as the case may be, of a person by a part of another person’s body (other than the penis) or by anything else; or
+(a) sexual penetration of the vagina or anus, as the case may be, of a person by a part of another person’s body (other than the penis) or by anything else;
 
-(b) penetration of the vagina, anus or mouth, as the case may be, of a person by a man’s penis.
+[Act 15 of 2019 wef 01/01/2020]
+
+(b) penetration of the vagina, anus or mouth, as the case may be, of a person by a man’s penis; or
 
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(c) touching which is sexual of another person or of himself or herself.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Canada CC R.S. 1985, s. 212; SPC 1985 Ed., s. 376A(1)]
 
@@ -5207,11 +6092,21 @@ with or without B’s consent, shall be guilty of an offence.
 
 [51/2007]
 
-(2) A person who is guilty of an offence under this section shall be liable to the same punishment to which he would have been liable had he been convicted of an offence under section 376B.
+(1A) To avoid doubt, any person (A) who does in Singapore, any act involving a person below 18 years of age (B) who is outside Singapore, that would ifBwere in Singapore constitute an offence under section 376B, shall be guilty of an offence.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(1B) Any person who does outside Singapore, any act involving a person below 18 years of age who is in Singapore, that would if done in Singapore constitute an offence under section 376B, shall be guilty of an offence.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) A person who is guilty of an offence under this section shall be punished with the same punishment with which he would have been punished had he been convicted of an offence under section 376B.
 
 [51/2007]
 
 [NZ CA 1961, s. 144A]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Tour outside Singapore for commercial sex with minor under 18
 
@@ -5239,9 +6134,11 @@ shall be guilty of an offence.
 
 ### Sexual grooming of minor under 16
 
-376E\.—(1) Any person of or above the age of 21 years (A) shall be guilty of an offence if having met or communicated with another person (B) on 2 or more previous occasions —
+376E\.—(1) Any person of or above the age of 18 years (A) shall be guilty of an offence if having met or communicated with another person (B) on at least one previous occasion —
 
-(a) A intentionally meets B or travels with the intention of meeting B; and
+(a) A intentionally meets B or travels with the intention of meeting B or B travels to attend a meeting with A which A has either initiated or agreed to whether expressly or by implication; and
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (b) at the time of the acts referred to in paragraph (a) —
 
@@ -5253,9 +6150,13 @@ shall be guilty of an offence.
 
 [51/2007]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 (2) In subsection (1), “relevant offence” means an offence under —
 
-(a) section 354, 354A, 375, 376, 376A, 376B, 376F, 376G or 377A;
+(a) section 355, 372, 373, 373A, 375, 376, 376A, 376B, 376C, 376EB, 376ED, 376F, 376H, 377(3), 377A, 377B(3), 377BA, 377BB, 377BF, 377BG or 377BH;
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (b) section 7 of the Children and Young Persons Act (Cap. 38); or
 
@@ -5263,25 +6164,205 @@ shall be guilty of an offence.
 
 [51/2007]
 
-(3) For the purposes of this section, it is immaterial whether the 2 or more previous occasions of A having met or communicated with B referred to in subsection (1) took place in or outside Singapore.
+(3) For the purposes of this section, it is immaterial whether the previous occasion of A having met or communicated with B referred to in subsection (1) took place in or outside Singapore.
 
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(4) A person who is guilty of an offence under this section shall on conviction —
+
+(a) in the case where the offence is committed against a victim who is below 14 years of age and A does not reasonably believe that B is of or above that age, be punished with imprisonment for a term which may extend to 4 years, or with fine, or with both; or
+
+(b) in any other case, be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+[UK SOA 2003, s. 15]
+
+### Exploitative sexual grooming of minor of or above 16 but below 18 years of age
+
+376EA\.—(1) Any person of or above 18 years of age (A) shall be guilty of an offence if having met or communicated with another person (B) on at least one previous occasion —
+
+(a) Aintentionally meetsBor travels with the intention of meetingBorBtravels to attend a meeting withAwhichAhas either initiated or agreed to whether expressly or by implication; and
+
+(b) at the time of the acts mentioned in paragraph (a) —
+
+(i) Aintends to do anything to or in respect ofB, during or after the meeting, which if done will involve the commission byAof a relevant offence;
+
+(ii) Bis of or above 16 but below 18 years of age;
+
+(iii) Adoes not reasonably believe thatBis of or above 18 years of age; and
+
+(iv) Ais in a relationship that is exploitative ofB.
+
+(2) In subsection (1), “relevant offence” means an offence under —
+
+(a) section 354, 354A, 355, 372, 373, 373A, 375, 376, 376AA, 376B, 376C, 376EC, 376EE, 376F, 376G, 376H, 377(3), 377A, 377B(3), 377BA, 377BB, 377BF or 377BL; or
+
+(b) section 140(1) of the Women’s Charter (Cap. 353).
+
+(3) For the purposes of this section, it is immaterial whether the previous occasion ofAhaving met or communicated withBmentioned in subsection (1) took place in or outside Singapore.
 
 (4) A person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-[51/2007]
+[Act 15 of 2019 wef 01/01/2020]
 
-[UK SOA 2003, s. 15]
+### Sexual communication with minor below 16 years of age
+
+376EB\.—(1) Any person of or above 18 years of age (A) shall be guilty of an offence if —
+
+(a) for the purpose of obtaining sexual gratification or of causing another person (B) humiliation, alarm or distress,Aintentionally communicated withB;
+
+(b) the communication is sexual;
+
+(c) at the time of the communication,Bis below 16 years of age; and
+
+(d) Adoes not reasonably believe thatBis of or above 16 years of age.
+
+(2) For the purposes of this section, it is immaterial —
+
+(a) whetherBreplied or responded toA’s communication mentioned in subsection (1); and
+
+(b) whether such communication originated in Singapore provided that eitherAorBwas in Singapore at the time of such communication.
+
+(3) A person who is guilty of an offence under this section shall —
+
+(a) in the case where the offence is committed against a victim who is below 14 years of age andAdoes not reasonably believe thatBis of or above that age, be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both; or
+
+(b) in any other case, be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+(4) No person shall be guilty of an offence under this section for any communication with his or her spouse with the consent of that spouse.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Exploitative sexual communication with minor of or above 16 but below 18 years of age
+
+376EC\.—(1) Any person of or above 18 years of age (A) shall be guilty of an offence if —
+
+(a) for the purpose of obtaining sexual gratification or of causing another person (B) humiliation, alarm or distress,Aintentionally communicated withB;
+
+(b) the communication is sexual;
+
+(c) at the time of the communication,Bis of or above 16 but below 18 years of age;
+
+(d) Adoes not reasonably believe thatBis of or above 18 years of age; and
+
+(e) Bis in a relationship withAthat is exploitative ofB.
+
+(2) For the purposes of this section, it is immaterial —
+
+(a) whetherBreplied or responded toA’s communication mentioned in subsection (1); and
+
+(b) whether such communication originated in Singapore provided that eitherAorBwas in Singapore at the time of such communication.
+
+(3) A person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Sexual activity or image in presence of minor below 16 years of age
+
+376ED\.—(1) Any person of or above 18 years of age (A) shall be guilty of an offence if —
+
+(a) for the purpose of obtaining sexual gratification or of causing another person (B) humiliation, alarm or distress,Aintentionally engages in an activity;
+
+(b) the activity is sexual;
+
+(c) Aengages in the activity —
+
+(i) whenBis present or is in a place from whichAcan be observed;
+
+(ii) when eitherAorBis or both are in Singapore; and
+
+(iii) knowing or believing thatBis aware, or intending thatBshould be aware, thatAis engaging in it;
+
+(d) Bis below 16 years of age; and
+
+(e) Adoes not reasonably believe thatBis of or above 16 years of age.
+
+(2) Any person of or above 18 years of age (A) shall be guilty of an offence if —
+
+(a) for the purpose of obtaining sexual gratification or of causing another person (B) humiliation, alarm or distress,Aintentionally causesBto observe an image;
+
+(b) the image is sexual;
+
+(c) Bis below 16 years of age;
+
+(d) Adoes not reasonably believe thatBis of or above 16 years of age; and
+
+(e) eitherAorBis or both are in Singapore.
+
+(3) A person who is guilty of an offence under this section shall —
+
+(a) in the case where the offence is committed against a victim who is below 14 years of age andAdoes not reasonably believe thatBis of or above that age, be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both; or
+
+(b) in any other case, be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+(4) No person shall be guilty of an offence under this section againstBifBis his or her spouse with the consent of that spouse.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Exploitative sexual activity or image in presence of minor of or above 16 but below 18 years of age
+
+376EE\.—(1) Any person of or above 18 years of age (A) shall be guilty of an offence if —
+
+(a) for the purpose of obtaining sexual gratification or of causing another person (B) humiliation, alarm or distress,Aintentionally engages in an activity;
+
+(b) the activity is sexual;
+
+(c) Aengages in the activity —
+
+(i) whenBis present or is in a place from whichAcan be observed;
+
+(ii) when eitherAorBis or both are in Singapore; and
+
+(iii) knowing or believing thatBis aware, or intending thatBshould be aware, thatAis engaging in it;
+
+(d) Bis of or above 16 but below 18 years of age;
+
+(e) Adoes not reasonably believe thatBis of or above 18 years of age; and
+
+(f) Ais in a relationship withBthat is exploitative ofB.
+
+(2) Any person of or above 18 years of age (A) shall be guilty of an offence if —
+
+(a) for the purpose of obtaining sexual gratification or of causing another person (B) humiliation, alarm or distress,Aintentionally causesBto observe an image;
+
+(b) the image is sexual;
+
+(c) Bis of or above 16 but below 18 years of age;
+
+(d) Adoes not reasonably believe thatBis of or above 18 years of age;
+
+(e) Ais in a relationship withBthat is exploitative ofB; and
+
+(f) eitherAorBis or both are in Singapore.
+
+(3) A person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Procurement of sexual activity with person with mental disability
 
 376F\.—(1) Any person (A) shall be guilty of an offence if —
 
-(a) A intentionally touches another person (B) who has a mental disability;
+(a) A intentionally touches another person (B) or intentionally incites B to touch A or B or another person;
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (b) the touching is sexual and B consents to the touching;
 
-(c) A obtains B’s consent by means of an inducement offered or given, a threat made or a deception practised by A for that purpose; and
+(c) A obtains B’s consent —
+
+(i) where B is not A’s spouse, by means of an inducement offered or given, a threat made or a deception practised by A for that purpose; or
+
+(ii) where B is A’s spouse, by means of a threat made or a deception practised by A for that purpose;
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(ca) B has a mental disability; and
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (d) A knows or could reasonably be expected to know that B has a mental disability.
 
@@ -5305,23 +6386,13 @@ a person who is guilty of an offence under this section shall be punished with i
 
 [Act 27 of 2018 wef 19/12/2018]
 
-(4) No person shall be guilty of an offence under this section for any act with that person’s spouse.
-
-[51/2007]
+(4) [Deleted by Act 15 of 2019 wef 01/01/2020]
 
 (5) For the purposes of this section —
 
 “mental disability” means an impairment of or a disturbance in the functioning of the mind or brain resulting from any disability or disorder of the mind or brain which impairs the ability to make a proper judgement in the giving of consent to sexual touching;
 
-“touching” includes touching —
-
-(a) with any part of the body;
-
-(b) with anything else; or
-
-(c) through anything,
-
-and includes penetration.
+[Deleted by Act 15 of 2019 wef 01/01/2020]
 
 [51/2007]
 
@@ -5329,33 +6400,77 @@ and includes penetration.
 
 ### Incest
 
-376G\.—(1) Any man of or above the age of 16 years (A) who —
+376G\.—(1) Any person (A) of or above 16 years of age who —
 
-(a) sexually penetrates the vagina or anus of a woman (B) with a part of A’s body (other than A’s penis) or anything else; or
+(a) penetrates, withA’s penis, the vagina, anus or mouth, as the case may be, of a person of or above 16 years of age who is a close family relative (B);
 
-(b) penetrates the vagina, anus or mouth of a woman (B) with his penis,
+(b) sexually penetrates, with a part ofA’s body (other thanA’s penis, ifAis a man) or anything else, the vagina or anus, as the case may be, of a person of or above 16 years of age who is a close family relative (B);
 
-with or without B’s consent where B is to A’s knowledge A’s grand-daughter, daughter, sister, half-sister, mother or grandmother (whether such relationship is or is not traced through lawful wedlock), shall be guilty of an offence.
+(c) causes or permits a man of or above 16 years of age who is a close family relative (B) to penetrate, withB’s penis, the vagina, anus or mouth, as the case may be, ofA; or
 
-[51/2007]
+(d) causes or permits a person of or above 16 years of age who is a close family relative (B) to sexually penetrate, with a part ofB’s body (other thanB’s penis, ifBis a man) or anything else, the vagina or anus, as the case may be, ofA,
 
-(2) Any woman of or above the age of 16 years who, with consent, permits her grandfather, father, brother, half-brother, son or grandson (whether such relationship is or is not traced through lawful wedlock) to penetrate her in the manner described in subsection (1)(a) or (b), knowing him to be her grandfather, father, brother, half-brother, son or grandson, as the case may be, shall be guilty of an offence.
+knowing thatBis a close family relative, shall be guilty of an offence.
 
-[51/2007]
+(2) For the purposes of subsection (1),Bis a close family relative ofAifBisA’s grandchild, child, sibling, half-sibling, parent or grandparent (whether such relationship is or is not traced through lawful wedlock).
 
-(3) Subject to subsection (4), a man who is guilty of an offence under subsection (1) shall be punished with imprisonment for a term which may extend to 5 years.
+(3) A person who is guilty of an offence under this section shall be punished with imprisonment for a term which may extend to 5 years.
 
-[51/2007]
+(4) This section does not apply to an act of penetration mentioned in subsection (1) which would constitute an offence under section 375(1)(a), 375(1A)(a), 376(1)(a) or (2) or 376AA(1).
 
-(4) If a man commits an offence under subsection (1) against a woman under 14 years of age, he shall be punished with imprisonment for a term which may extend to 14 years.
+(5) To avoid doubt —
 
-[51/2007]
+(a) it is not necessary for the prosecution to prove thatBdid consent to the act of penetration mentioned in subsection (1); and
 
-(5) A woman who is guilty of an offence under subsection (2) shall be punished with imprisonment for a term which may extend to 5 years.
+(b) it is not a defence thatBdid consent to that act.
 
-[51/2007]
+(6) A person below 18 years of age who is a victim of an offence under section 376AA is not guilty of an offence under this section in respect of the same acts constituting the offence under that section.
 
-[UK SOA 2003, s. 64; SPC 1985 Ed., ss. 376A, 376B, 376C (repealed)]
+[Act 15 of 2019 wef 01/01/2020]
+
+### Procurement of sexual activity by deception or false representation
+
+376H\.—(1) Any person (A) shall be guilty of an offence if —
+
+(a) Aintentionally touches another person (B) or intentionally incitesBto touchAorBor another person;
+
+(b) the touching is sexual andBconsents to the touching;
+
+(c) Afraudulently obtainsB’s consent by means of deception or false representation practised or made byAfor that purpose;
+
+(d) the deception or false representation mentioned in paragraph (c) relates to —
+
+(i) the use or manner of use of any sexually protective measure; or
+
+(ii) whetherAor another person whomBis incited to touch is suffering from or is a carrier of a sexually transmitted disease; and
+
+(e) Aknows or has reason to believe that the consent was given in consequence of such deception or false representation.
+
+(2) A person who is guilty of an offence under subsection (1) shall —
+
+(a) in the case where the sexual touching mentioned in that subsection involved —
+
+(i) penetration of the vagina or anus (as the case may be) with a part of the body or anything else; or
+
+(ii) penetration of the mouth with the penis,
+
+be punished on conviction with imprisonment for a term which may extend to 10 years, or with fine, or with caning, or any combination of such punishments; and
+
+(b) in any other case, be punished on conviction with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+(3) For the purposes of subsection (1) —
+
+(a) a person makes a false representation if it is untrue or misleading, and that person knows that it is, or might be, untrue or misleading;
+
+(b) a representation may be express or implied; and
+
+(c) a “sexually protective measure” means —
+
+(i) whereBis female, a device, drug or medical procedure to prevent pregnancy or sexually transmitted diseases as a result of sexual intercourse; or
+
+(ii) whereBis male, a device, drug or medical procedure to prevent sexually transmitted diseases as a result of sexual intercourse.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Sexual penetration of a corpse
 
@@ -5413,51 +6528,615 @@ shall be guilty of an offence if B did not consent to the penetration.
 
 [UK SOA 2003, s. 69]
 
-### Interpretation of sections 375 to 377B (sexual offences)
+### Word or gesture intended to insult modesty of any person
 
-377C\. In sections 375 to 377B —
+377BA\. Whoever, intending to insult the modesty of any person, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound will be heard, or that such gesture or object will be seen by such person, or intrudes upon the privacy of such person, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Voyeurism
+
+377BB\.—(1) Any person (A) shall be guilty of an offence who —
+
+(a) intentionally observes another person (B) doing a private act withoutB’s consent; and
+
+(b) knows or has reason to believe thatBdoes not consent to being observed.
+
+(2) Any person (A) shall be guilty of an offence who —
+
+(a) operates equipment with the intention of enablingAor another person to observe a third person (B) doing a private act withoutB’s consent; and
+
+(b) knows or has reason to believe thatB(whetherB’s private act was recorded or not) does not consent toAoperating equipment with that intention.
+
+(3) Any person (A) shall be guilty of an offence who —
+
+(a) intentionally or knowingly records another person (B) doing a private act withoutB’s consent; and
+
+(b) knows or has reason to believe thatBdoes not consent toArecording the act.
+
+(4) Any person (A) shall be guilty of an offence who —
+
+(a) operates equipment without another person’s (B) consent with the intention of enablingAor another person (C) to observeB’s genitals, breasts ifBis female, or buttocks (whether exposed or covered) in circumstances where the genitals, breasts, buttocks or underwear would not otherwise be visible; and
+
+(b) knows or has reason to believe thatB(whetherB’s image was recorded or not) does not consent toAoperating the equipment with that intention.
+
+(5) Any person (A) shall be guilty of an offence who —
+
+(a) intentionally or knowingly records without another person’s (B) consent an image ofB’s genitals, breasts ifBis female, or buttocks (whether exposed or covered), in circumstances where the genitals, breasts, buttocks or underwear would not otherwise be visible; and
+
+(b) knows or has reason to believe thatBdoes not consent toArecording the image.
+
+(6) Any person (A) who installs equipment, or constructs or adapts a structure or part of a structure, with the intention of enablingAor another person to commit an offence under subsection (1), (2), (3), (4) or (5) shall be guilty of an offence.
+
+(7) Subject to subsection (8), a person who is guilty of an offence under this section shall on conviction be punished with imprisonment for a term which may extend to 2 years, or with fine, or with caning, or with any combination of such punishments.
+
+(8) A person who commits an offence under this section against a person who is below 14 years of age shall on conviction be punished with imprisonment for a term which may extend to 2 years and shall also be liable to fine or to caning.
+
+(9) In any proceedings for an offence under this section, where a person (A) has made a recording of another person (B) doing a private act or ofB’s genitals, breasts ifBis female, or buttocks (whether exposed or covered), in circumstances where the genitals, breasts or buttocks would not otherwise be visible, it is presumed until the contrary is proved thatBdid not consent toAmaking the recording.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Distribution of voyeuristic image or recording
+
+377BC\.—(1) Any person (A) shall be guilty of an offence who —
+
+(a) intentionally or knowingly distributes an image or recording of another person (B) withoutB’s consent to the distribution;
+
+(b) knowing or having reason to believe that the image or recording was obtained through the commission of an offence under section 377BB; and
+
+(c) knows or has reason to believe thatBdoes not consent to the distribution.
+
+(2) Any person (A) shall be guilty of an offence who —
+
+(a) intentionally or knowingly has in his possession an image or recording of another person (B) for the purpose of distribution withoutB’s consent to the distribution;
+
+(b) knowing or having reason to believe that the image or recording was obtained through the commission of an offence under section 377BB; and
+
+(c) knows or has reason to believe thatBdoes not consent to the distribution.
+
+(3) Subject to subsection (4), a person who is guilty of an offence under subsection (1) or (2) shall on conviction be punished with imprisonment for a term which may extend to 5 years, or with fine, or with caning, or any combination of such punishments.
+
+(4) Where the image or recording in subsection (1) or (2) is of a person below 14 years of age, a person who is guilty of an offence under subsection (1) or (2) shall on conviction be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine or to caning.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Possession of or gaining access to voyeuristic or intimate image or recording
+
+377BD\.—(1) Any person shall be guilty of an offence who has in his possession or has gained access to an image or recording of another person and —
+
+(a) knows or has reason to believe that the image or recording was obtained through the commission of an offence under section 377BB; or
+
+(b) knows or has reason to believe that —
+
+(i) the image or recording is an intimate image or recording as defined in section 377BE(5);
+
+(ii) the possession of or access to the image or recording was without the consent of the person depicted in the image or recording; and
+
+(iii) the possession of or access to the image or recording will or is likely to cause humiliation, alarm or distress to the person depicted in the image or recording.
+
+(2) Subject to subsection (3), a person who is guilty of an offence under this section shall on conviction be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+
+(3) Where the image or recording mentioned in subsection (1)(a) is of a person below 14 years of age, a person who is guilty of an offence under this section shall on conviction be punished with imprisonment for a term which may extend to 2 years, and shall also be liable to fine or to caning.
+
+(4) For the purposes of subsection (1) —
+
+(a) a person has in his possession an image or recording of another person that is in electronic form if he controls access to the electronic image or recording, whether or not he has physical possession of the electronic image or recording; and
+
+(b) the ways in which a person gains access to an image or recording may include —
+
+(i) viewing or displaying it by an electronic medium or any other output of the image by an electronic medium; or
+
+(ii) communicating, sending, supplying or transmitting the image to himself or herself.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Distributing or threatening to distribute intimate image or recording
+
+377BE\.—(1) Any person (A) shall be guilty of an offence who —
+
+(a) intentionally or knowingly distributes an intimate image or recording of another person (B);
+
+(b) withoutB’s consent to the distribution; and
+
+(c) knows or has reason to believe that the distribution will or is likely to causeBhumiliation, alarm or distress.
+
+(2) Any person (A) shall be guilty of an offence who —
+
+(a) knowingly threatens the distribution of an intimate image or recording of another person (B);
+
+(b) withoutB’s consent to the distribution; and
+
+(c) knows or has reason to believe that the threat will or is likely to causeBhumiliation, alarm or distress.
+
+(3) Subject to subsection (4), a person who is guilty of an offence under subsection (1) or (2) shall on conviction be punished with imprisonment for a term which may extend to 5 years, or with fine, or with caning, or with any combination of such punishments.
+
+(4) A person who commits an offence under subsection (1) or (2) against a person (B) who is below 14 years of age shall on conviction be punished with imprisonment for a term which may extend to 5 years and shall also be liable to fine or to caning.
+
+(5) In this section, “intimate image or recording”, in relation to a person (B) —
+
+(a) means an image or recording —
+
+(i) ofB’s genital or anal region, whether bare or covered by underwear;
+
+(ii) ofB’s breasts ifBis female, whether bare or covered by underwear; or
+
+(iii) ofBdoing a private act; and
+
+(b) includes an image or recording, in any form, that has been altered to appear to show any of the things mentioned in paragraph (a) but excludes an image so altered that no reasonable person would believe that it depictsB.
+
+Illustrations
+
+(a)Acopies, crops, and pastes an image ofB’s face onto the image of a body of a person who is engaging in a sexual act. This image has been altered to appear to show thatBactually engaged in a sexual act. This is an intimate image.
+
+(b)Apastes an image ofB’s face on a cartoon depictingBperforming a sexual act onC. No reasonable person would believe thatBwas performing the sexual act depicted onC. This is not an intimate image.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Sexual exposure
+
+377BF\.—(1) Any person (A) shall be guilty of an offence who —
+
+(a) for the purpose of obtaining sexual gratification or of causing another person (B) humiliation, alarm or distress, intentionally exposesA’s genitals;
+
+(b) intends thatBwill seeA’s genitals; and
+
+(c) does so withoutB’s consent.
+
+(2) Any person (A) shall be guilty of an offence who —
+
+(a) for the purpose of obtaining sexual gratification or of causing another person (B) humiliation, alarm or distress, intentionally distributes toBan image ofA’s or any other person’s genitals;
+
+(b) intends thatBwill seeA’s or the other person’s genitals; and
+
+(c) does so withoutB’s consent.
+
+(3) Subject to subsection (4), a person who is guilty of an offence under subsection (1) or (2) shall on conviction be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+
+(4) A person who commits an offence under subsection (1) or (2) against a person (B) who is below 14 years of age shall on conviction be punished with imprisonment for a term which may extend to 2 years, and shall also be liable to fine or to caning.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Using or involving child in production of child abuse material
+
+377BG\.—(1) Any person shall be guilty of an offence who —
+
+(a) uses a person who is below 16 years of age for the production of material which he knows or has reason to believe is child abuse material;
+
+(b) causes or procures a person of that age to be so used; or
+
+(c) having the care or custody of a person of that age, consents to the person being so used or allows the person to be so used.
+
+(2) A person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+(3) For the purposes of subsection (1) —
+
+(a) a person may have the care of a person below 16 years of age without necessarily being entitled by law to have the custody of the child;
+
+(b) the ways in which material is produced may include —
+
+(i) filming, printing, photographing, recording, drawing or otherwise generating material;
+
+(ii) altering or manipulating material; or
+
+(iii) reproducing or copying material; and
+
+(c) the ways in which a person may be used in the production of material include inviting or encouraging the person to be involved, or offering the person to be involved, in the production of the material.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Producing child abuse material
+
+377BH\.—(1) Any person who intentionally produces child abuse material knowing or having reason to believe that the material is child abuse material shall be guilty of an offence.
+
+(2) A person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+(3) For the purposes of subsection (1), the ways in which material is produced may include —
+
+(a) filming, printing, photographing, recording, writing, drawing or otherwise generating material;
+
+(b) altering or manipulating material; or
+
+(c) reproducing or copying material.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Distributing or selling child abuse material
+
+377BI\.—(1) Any person shall be guilty of an offence who —
+
+(a) distributes or sells or offers for sale child abuse material or has in the person’s possession child abuse material for the purpose of such distribution, sale or offer for sale; and
+
+(b) knows or has reason to believe that the material is child abuse material.
+
+(2) A person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine or to caning.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Advertising or seeking child abuse material
+
+377BJ\.—(1) Any person shall be guilty of an offence who —
+
+(a) for the purposes of distributing or selling or offering for sale any child abuse material advertises the material; and
+
+(b) knows or has reason to believe that the material is child abuse material.
+
+(2) Any person shall be guilty of an offence who —
+
+(a) announces or otherwise makes known by any means any offer or purported offer to acquire, buy or gain access to any child abuse material; and
+
+(b) knows or has reason to believe that the material is child abuse material.
+
+(3) A person who is guilty of an offence under subsection (1) or (2) shall on conviction be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine or to caning.
+
+(4) In subsection (1), “advertise”, in relation to child abuse material, includes —
+
+(a) exhibiting, displaying or supplying any advertising material relating to the material;
+
+(b) announcing by any means any offer to sell or distribute the material; or
+
+(c) distributing or circulating any advertisement relating to the material.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Possession of or gaining access to child abuse material
+
+377BK\.—(1) Any person shall be guilty of an offence who —
+
+(a) has in the person’s possession or has gained access to child abuse material; and
+
+(b) knows or has reason to believe that the material is child abuse material.
+
+(2) A person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine or to caning.
+
+(3) For the purposes of subsection (1) —
+
+(a) a person has in the person’s possession child abuse material that is electronic material if the person controls access to the material whether or not the person has physical possession of the electronic material; and
+
+(b) the ways in which a person gains access to material may include viewing material or displaying material by an electronic medium or any other output of the material by an electronic medium.
+
+Illustration
+
+Yhas an online storage account for electronic material accessible with a username and password.Yhas control of what is stored in the account and can upload to, copy from or delete material from the account.Yhas an electronic folder in the account to whichYuploads and stores electronic child abuse material.Yhas in his possession child abuse material.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Exploitation by abusive material of minor of or above 16 but below 18 years of age
+
+377BL\.—(1) This section applies only where a person (A) is in a relationship with another person (B) who is of or above 16 but below 18 years of age, that is exploitative ofB.
+
+(2) A person (A) who usesBfor the production of material whichAknows or has reason to believe is abusive material or causes or procuresBto be so used shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+(3) A person (A) who intentionally produces abusive material ofBshall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine or to caning.
+
+(4) A person (A) who distributes or sells or offers for sale abusive material ofBor has inA’s possession abusive material ofBfor the purpose of such distribution, sale or offer for sale; and knowing or having reason to believe that the material is abusive material ofBshall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine or to caning.
+
+(5) For the purposes of this section —
+
+(a) the ways in which material is produced may include —
+
+(i) filming, printing, photographing, recording, writing, drawing or otherwise generating material;
+
+(ii) altering or manipulating material; or
+
+(iii) reproducing or copying material; and
+
+(b) the ways in which a person may be used in the production of material include inviting or encouraging the person to be involved, or offering the person to be involved, in the production of the material.
+
+(6) In this section, “abusive material”, in relation toB, means material that depicts —
+
+(a) an image ofB—
+
+(i) as a victim of torture, cruelty or physical abuse (whether or not the torture, cruelty or abuse is sexual);
+
+(ii) as a victim of sexual abuse;
+
+(iii) engaged in, or apparently engaging in, a sexual pose or sexual activity (whether or not in the presence of another person); or
+
+(iv) in the presence of another person who is engaged in, or apparently engaged in a sexual pose or sexual activity;
+
+(b) the genital or anal region ofBin circumstances (whether or not apparent from the depiction) which reasonable persons would regard as being offensive; or
+
+(c) the breasts ofBifBis female, in circumstances (whether or not apparent from the depiction) which reasonable persons would regard as being offensive.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Defences to offences relating to intimate image or recording and voyeurism
+
+377BM\.—(1) It is a defence to a charge for an offence under section 377BD of having possession of or gained access to an image or a recording obtained through the commission of an offence under section 377BB or an intimate image or recording mentioned in section 377BD(1)(b) for the accused person to prove that the accused person —
+
+(a) did not intentionally come into possession of or gain access to the image or recording; and
+
+(b) on becoming aware of having come into possession of or gaining access to the image or recording, as soon as it was practicable to do so, took all reasonable steps in the circumstances to cease possession of or access to the image or recording.
+
+(2) It is a defence to a charge for an offence under section 377BB, 377BC, 377BD or 377BE(1) if —
+
+(a) the act that is alleged to constitute the offence was done for any of the following purposes without malice and with reasonable cause:
+
+(i) the prevention, detection, investigation or punishment of any offence;
+
+(ii) the conduct of contemplated or pending proceedings in any court or tribunal or to obtain evidence for the purpose of contemplating such proceedings;
+
+(iii) safety or national security; and
+
+(b) the image or recording (if any) obtained through the commission of an offence under section 377BB or the intimate image or recording (if any) mentioned in section 377BD(1)(b) or 377BE(5) was not kept for a period longer than what was reasonably necessary or required for the purposes mentioned in paragraph (a).
+
+Illustrations
+
+(a)A, a caregiver is concerned thatB, an elderly person has been in the toilet for an unusually long period of time. DespiteAknocking several times, there is no response fromB. AsAis concerned forB’s safety,Aforcefully opens the toilet door to findBin a state of undress.Ahas committed no offence as the act was done for the purpose of ensuringB’s safety.
+
+(b)Anotices that a stranger is using a mobile phone taking an upskirt photograph of a woman in the mall.Aconfronts the stranger who flees and drops his mobile phone.Akeeps the mobile phone with the upskirt photograph with the intention of reporting the offence to the police.Ahands over the phone to the police when he makes the police report.Ahas committed no offence as the act of possession of the upskirt photograph was done for the purpose of assisting the detection or investigation of the offence.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Defences to child abuse material offences
+
+377BN\.—(1) It is a defence to a charge for an offence of having possession of or gaining access to child abuse material under section 377BK for the accused person to prove that the accused person —
+
+(a) did not intentionally come into possession of or gain access to child abuse material; and
+
+(b) on becoming aware of having come into possession of or gaining access to child abuse material, as soon as it was practicable to do so, took all reasonable steps in the circumstances to cease possession of or access to the material.
+
+(2) It is a defence to a charge for an offence under sections 377BH to 377BK if —
+
+(a) the act that is alleged to constitute the offence was done for any of the following purposes without malice and with reasonable cause:
+
+(i) the prevention, detection, investigation or punishment of any offence;
+
+(ii) the conduct of contemplated or pending proceedings in any court or tribunal or to obtain evidence for the purpose of contemplating such proceedings;
+
+(iii) safety or national security; and
+
+(b) the child abuse material or the abusive material, as the case may be, was not kept for a period longer than what was reasonably necessary or required for the purposes mentioned in paragraph (a).
+
+(3) It is a defence to a charge for an offence under sections 377BH to 377BK if the act that is alleged to constitute the offence —
+
+(a) has a legitimate purpose related to science, medicine, education or art; and
+
+(b) did not pose an undue risk of harm to any person below 16 years of age.
+
+Explanation.—An act has a legitimate purpose related to art which reasonable persons would regard as art.
+
+Illustrations
+
+(a) A university researcher has child abuse material in his possession for the purposes of studying the psychological effects of exposure to such material. The researcher’s possession of the child abuse material has a legitimate purpose.
+
+(b)Ais a photo-journalist in a war zone.Atakes a photo of a child victim of torture and submits this together with an article on the plight of such children to a news organisation for publication. The taking and sending of the photo has a legitimate purpose.
+
+(4) It is a defence to a charge for an offence under sections 377BH to 377BK if —
+
+(a) the accused person (A) is below 16 years of age; and
+
+(b) the child abuse material that is alleged to constitute the offence is an image ofAalone.
+
+Illustration
+
+Ais 15 years old and takes a photo of herself alone posing in the nude.Astores the photo in her mobile phone.Ahas not committed the offence of producing or possessing child abuse material.
+
+(5) To avoid doubt, it is not a defence to a charge for an offence relating to child abuse material under sections 377BG to 377BL that, at the time of the conduct constituting the offence, the accused was under a mistaken but honest and reasonable belief that reasonable persons would not regard the child abuse material as being, in the circumstances, offensive.
+
+(6) It is a defence to a charge for the following offences in circumstances where the offender (A) and the person below 16 years of age (B) are married and subject to the following respective conditions:
+
+(a) an offence under section 377BG(1) or 377BH(1) if the child abuse material —
+
+(i) involves onlyAandBin its production;
+
+(ii) depictsBonly,AandBonly, orAonly ifAis below 16 years of age; and
+
+(iii) was produced withB’s consent;
+
+(b) an offence under section 377BI if the distribution of the child abuse material —
+
+(i) occurs betweenAandBonly;
+
+(ii) involves material depictingBonly,AandBonly, orAonly ifAis below 16 years of age; and
+
+(iii) was distributed withB’s consent;
+
+(c) an offence under section 377BJ(2) if the offer to acquire, buy, or gain access to the child abuse material —
+
+(i) occurs betweenAandBonly; and
+
+(ii) involves material depictingBonly,AandBonly, orAonly ifAis below 16 years of age;
+
+(d) an offence under section 377BK(1) if the possession of the child abuse material was withB’s consent and the material depictsBonly,AandBonly, orAonly ifAis below 16 years of age.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Child abuse material offences outside or partially outside Singapore
+
+377BO\.—(1) Any person, being a citizen or a permanent resident of Singapore, who does, outside Singapore, any act that would, if done in Singapore, constitute an offence under section 377BG, 377BH or 377BL(2) or (3), shall be guilty of an offence under section 377BG, 377BH or 377BL(2) or (3), as the case may be.
+
+(2) To avoid doubt, any person (A) who does in Singapore, any act involving a person below 16 years of age (B) andBis outside Singapore, that would ifBwere in Singapore constitute an offence under section 377BG or 377BH, shall be guilty of an offence under section 377BG or 377BH, as the case may be.
+
+(3) Any person who does outside Singapore, any act involving a person below 16 years of age (B) andBis in Singapore, that would if done in Singapore constitute an offence under section 377BG or 377BH, shall be guilty of an offence under section 377BG or 377BH, as the case may be.
+
+(4) Subsections (5) and (6) apply only whereAis in a relationship that is exploitative ofB.
+
+(5) To avoid doubt, any person (A) who does in Singapore, any act involving a person who is of or above 16 but below 18 years of age (B) andBis outside Singapore, that would ifBwere in Singapore constitute an offence under section 377BL(2) or (3), shall be guilty of an offence under section 377BL(2) or (3), as the case may be.
+
+(6) Any person (A) who does outside Singapore, any act involving a person who is of or above 16 but below 18 years of age (B) andBis in Singapore, that would if done in Singapore constitute an offence under section 377BL(2) or (3), shall be guilty of an offence under section 377BL(2) or (3), as the case may be.
+
+(7) To avoid doubt, any person who does in Singapore an act which is a physical element of an offence under section 377BG, 377BH or 377BL(2) or (3) shall be guilty of an offence under section 377BG, 377BH or 377BL(2) or (3), as the case may be, if all the fault elements and physical elements of the offence are proven even though other physical elements of the same offence occurred outside Singapore.
+
+Illustrations
+
+(a)A, a citizen or a permanent resident of Singapore, films in a foreign country a video recording of child abuse material involving a person below 16 years of age (B).Bis in that foreign country during the filming.Ais guilty of an offence under section 377BG or 377BH read with section 377BO(1).
+
+(b)A, who is in Singapore, uses remote video facilities to film a video recording of child abuse material involving a person below 16 years of age (B).Bis in a foreign country during the filming.Ais guilty of an offence under section 377BG or 377BH read with section 377BO(2).
+
+(c)A, who is in a foreign country and is not a citizen or a permanent resident of Singapore, uses remote video facilities to film a video recording of child abuse material involving a person below 16 years of age (B).Bis in Singapore during the filming.Ais guilty of an offence under section 377BG or 377BH read with section 377BO(3).
+
+(d)A, who is in Singapore, uses computer software to alter and reproduce child abuse material which was not filmed in Singapore. The child abuse material is not stored in Singapore but in a computer server in a foreign country whichAaccesses throughA’s computer in Singapore.Ais guilty of an offence under section 377BH read with section 377BO(7).
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Interpretation of sections 375 to 377BO (sexual offences)
+
+377C\.—(1) In sections 375 to 377BO —
+
+“child abuse material” means material that depicts an image of any of the following:
+
+(a) a person who is, or who appears to a reasonable observer to be, or who is implied to be, below 16 years of age —
+
+(i) as a victim of torture, cruelty or physical abuse (whether or not the torture, cruelty or abuse is sexual);
+
+(ii) as a victim of sexual abuse;
+
+(iii) engaged in, or apparently engaging in, a sexual pose or sexual activity (whether or not in the presence of another person); or
+
+(iv) in the presence of another person who is engaged in, or apparently engaged in a sexual pose or sexual activity;
+
+(b) the genital or anal region of a person who is, or who appears to a reasonable observer to be, or who is implied to be, a person below 16 years of age in circumstances (whether or not apparent from the depiction) which reasonable persons would regard as being offensive;
+
+(c) the breasts of a person who is, or who appears to a reasonable observer to be, or who is implied to be, a female below 16 years of age in circumstances (whether or not apparent from the depiction) which reasonable persons would regard as being offensive;
+
+“distribute” includes any of the following conduct, whether done in person, electronically, digitally or in any other way:
+
+(a) send, publish, supply, show, exhibit, transmit or communicate to another person;
+
+(b) make available for viewing or access by another person;
+
+“image” means a still, moving, recorded or unrecorded image and includes an image produced by any means and, where the context requires, a three-dimensional image;
+
+“image”, in relation to a person, means an image of a human being that is not fictional or imaginary but includes an image that so closely resembles that of a human being as to make it difficult for an ordinary person to distinguish it from an image of a human being that is not fictional or imaginary;
+
+“material” means —
+
+(a) any film, photograph, printed matter or computer game depicting an image;
+
+(b) any electronic record depicting an image; or
+
+(c) any other thing of any kind depicting an image;
+
+“structure” includes a tent, vehicle or vessel or other temporary or movable structure;
+
+“touching” includes touching —
+
+(a) with any part of the body;
+
+(b) with anything else; or
+
+(c) through anything,
+
+and includes penetration of the vagina or anus, as the case may be, with a part of the body or anything else and penetration of the mouth with the penis;
+
+“vagina” includes vulva.
+
+(2) For the purposes of the definition of “distribute” in subsection (1), a person is treated as having distributed an image or recording whether or not another person views or gains access to the image.
+
+(3) In sections 375 to 377BO —
 
 (a) penetration is a continuing act from entry to withdrawal;
 
-(b) references to a part of the body include references to a part which is surgically constructed (in particular, through a sex reassignment procedure);
+(b) a reference to a part of the body includes a reference to a part which is surgically constructed (in particular, through a sex reassignment procedure);
 
 (c) for the purposes of identifying the sex of a person —
 
-(i) the sex of a person as stated in that person’s identity card issued under the National Registration Act (Cap. 201) at the time the sexual activity took place shall be prima facie evidence of the sex of that person; and
+(i) the sex of a person as stated in that person’s identity card issued under the National Registration Act (Cap. 201) at the time the sexual activity took place is prima facie evidence of the sex of that person; and
 
-(ii) a person who has undergone a sex reassignment procedure shall be identified as being of the sex to which that person has been reassigned;
+(ii) a person who has undergone a sex reassignment procedure is identified as being of the sex to which that person has been reassigned;
 
-(d) penetration, touching or other activity is “sexual” if —
+(d) penetration, touching, communication or other activity is “sexual” if —
 
 (i) because of its nature it is sexual, whatever its circumstances or any person’s purpose in relation to it may be; or
 
 (ii) because of its nature it may be sexual and because of its circumstances or the purpose of any person in relation to it (or both) it is sexual;
 
-(e) “vagina” includes vulva.
+(e) references to observation (however expressed) are to observation whether direct or by looking at an image;
 
-[51/2007]
+(f) a person is doing a private act if under circumstances in which the person has a reasonable expectation of privacy, the person —
 
-[UK SOA 2003, ss. 78, 79; WC 1997 Ed., s. 12(3)]
+(i) is in a state where the person’s genitals, buttocks or breasts (if the person is a female) are exposed or covered only in underwear;
 
-### Mistake as to age
+(ii) is using a toilet, showering or bathing; or
 
-377D\.—(1) Subject to subsections (2) and (3) and notwithstanding anything in section 79, a reasonable mistake as to the age of a person shall not be a defence to any charge of an offence under section 376A(2), 376B or 376C.
+(iii) is doing a sexual act that is not of a kind ordinarily done in public.
 
-[51/2007]
+Illustration
 
-(2) In the case of a person who at the time of the alleged offence was under 21 years of age, the presence of a reasonable mistaken belief that the minor, who is of the opposite sex, was of or above —
+Ais showering in an open-concept shower cubicle at the changing room of a swimming pool and cannot reasonably expect not to be casually observed. However,Ahas a reasonable expectation thatAwill not be surreptitiously recorded by a video camera.
 
-(a) the age of 16 years, shall be a valid defence to a charge of an offence under section 376A(2); or
+[Act 15 of 2019 wef 01/01/2020]
 
-(b) the age of 18 years, shall be a valid defence to a charge of an offence under section 376B or 376C.
+### Meaning of exploitative relationship
 
-[51/2007]
+377CA\.—(1) For the purposes of sections 375, 376, 376A, 376AA, 376EA, 376EC, 376EE, 377BL and 377D, whether an accused person’s relationship with a person below 18 years of age (called in this section a minor) is exploitative of the minor is to be determined by the court in the circumstances of each case and the court must have regard to the following in making such determination:
 
-(3) For the purposes of subsection (2), the defence under that subsection shall no longer be available if at the time of the offence, the person charged with that offence has previously been charged in court for an offence under section 376A, 376B, 376C or 376E, or section 7 of the Children and Young Persons Act (Cap. 38) or section 140(1)(i) of the Women’s Charter (Cap. 353).
+(a) the age of the minor;
 
-[51/2007]
+(b) the difference between the age of the accused person and the minor;
 
-[WC 1997 Ed., s. 140(4) and (5)]
+(c) the nature of the relationship;
+
+(d) the degree of control or influence exercised by the accused person over the minor.
+
+(2) For the purposes of subsection (1) and subject to subsection (3), it is presumed until the contrary is proved that an accused person’s relationship with a minor is exploitative where the relationship is any of the following:
+
+(a) the accused person is the parent, step-parent, guardian or foster parent of the minor;
+
+(b) the accused person is the de facto partner of the parent, guardian or foster parent of the minor;
+
+(c) the accused person is a member of the teaching or management staff of the school or educational institution at which the minor is a student;
+
+(d) the accused person has an established personal relationship with the minor in connection with the provision of religious, sporting, musical or other instruction to the minor;
+
+(e) the accused person is a custodial officer of an institution in which the minor is detained;
+
+(f) the accused person is a registered medical practitioner, a registered traditional Chinese medicine practitioner or a psychologist and the minor is a patient of the accused person;
+
+(g) the accused person is an advocate and solicitor or a counsellor and the minor is a client of the accused person.
+
+(3) The presumption in subsection (2) does not apply to a person who is lawfully married to a minor even though the relationship may fall within any of the relationships mentioned in subsection (2).
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Consent given under misconception in sexual offences
+
+377CB\.—(1) Despite section 90(a)(ii), a consent for the purposes of an act which is the physical element of a sexual offence is not a consent given by a person under a misconception of fact only if it is directly related to —
+
+(a) the nature of the act, namely that it is not of a sexual nature;
+
+(b) the purpose of the act, namely that it is not for a sexual purpose; or
+
+(c) the identity of the person doing the act,
+
+and the person doing the act knows, or has reason to believe, that the consent was given in consequence of such misconception.
+
+(2) In subsection (1) —
+
+“sexual” has the meaning given by section 377C(3);
+
+“sexual offence” means any offence where the physical element of the offence under this Code or any other written law involves an act of a sexual nature and includes but is not limited to any offence under sections 375 to 377BN.
+
+Illustrations
+
+(a)AdeceivesBinto allowing him to penetrate her vagina by inducing the misconception that he is extracting an evil spirit fromB’s body.BbelievesAand thinks that what she has consented to is a procedure to extract an evil spirit, not sexual intercourse.Bhas given her consent under a misconception as to the sexual nature of the act.B’s apparent consent is therefore not a valid consent.
+
+(b)AdeceivesBinto believing that he can healB’s chronic disease by treatment involving sexual penetration.Bgives her consent under the misconception that the act is treatment for a health purpose and not for a sexual purpose.B’s apparent consent is therefore not a valid consent.
+
+(c)AdeceivesBinto believing thatAis her husband.Ais an imposter.Bconsents to sexual intercourse withAbecause she believesAis her husband.B’s consent is given under a misconception of the identity ofAand is therefore not a valid consent.
+
+(d)AdeceivesBinto believing thatAis an influential movie director.Ais in fact only an administrative assistant to that movie director.Bconsents to sexual intercourse withAbecause she believesAis that movie director.B’s misconception is as toA’s attributes and not ofA’s identity.B’s consent is therefore a valid consent.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Mistake as to age in sexual offences
+
+377D\.—(1) Subject to subsections (2) and (3) and despite section 79, a reasonable mistake as to the age of a person cannot be a defence to any charge for a sexual offence.
+
+(2) The presence of a reasonable mistaken belief that a minor was of or above 18 years of age is a valid defence to a charge for a sexual offence where the fact that a minor is of or above the age of 16 years but below 18 years is a physical element of the offence.
+
+(3) For the purposes of subsection (2), the defence under that subsection is no longer available if at the time of the offence, the person charged with that offence —
+
+(a) has previously been charged in court for an offence under section 375(1)(b), 375(1A)(b), 376(1) (if the victimBis below 14 years of age), 376(2) (if the victimBis below 14 years of age), 376A, 376AA, 376B, 376C, 376E, 376EA, 376EB, 376EC, 376ED, 376EE, 377BG, 377BH, 377BI, 377BJ, 377BK or 377BL or section 7 of the Children and Young Persons Act or section 140(1)(i) or 145(1) of the Women’s Charter; or
+
+(b) failed to take all reasonable steps to verify that the minor was of or above 18 years of age.
+
+Explanation.—The fact that the minor was observed to be participating in activities which are restricted to persons of or above 18 years of age, such as smoking a cigarette or admission to premises with access restricted to persons of or above 18 years of age (such as a nightclub) is neither sufficient to constitute a reasonable basis for the mistaken belief nor reasonable steps to verify that minor’s age.
+
+(4) In this section, “sexual offence” has the meaning given by section 377CB.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Chapter XVII
 
@@ -5478,6 +7157,8 @@ Explanation3.—A person is said to cause a thing to move by removing an obstacl
 Explanation4.—A person, who by any means causes an animal to move, is said to move that animal, and to move everything which in consequence of the motion so caused is moved by that animal.
 
 Explanation5.—The consent mentioned in the definition may be express or implied, and may be given either by the person in possession, or by any person having for that purpose authority either express or implied.
+
+Explanation6.—A person may move property which is intangible or incorporeal by transferring the property from one account to another account or transferring the interests in the property from one person to another person or by extinguishing the property.
 
 Illustrations
 
@@ -5513,9 +7194,13 @@ Illustrations
 
 (p)Ain good faith, believing property belonging toZto beA’s own property, takes that property out ofB’s possession. Here, asAdoes not take dishonestly, he does not commit theft.
 
+(q)Agains access toZ’s bank account and dishonestly transfers money fromZ’s account toA’s own account withoutZ’s knowledge or consent.Acommits theft.
+
 [51/2007]
 
 [Indian PC 1860, s. 378]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Punishment for theft
 
@@ -5579,7 +7264,7 @@ Illustrations
 
 (a)Athreatens to publish a defamatory libel concerningZ, unlessZgives him money. He thus inducesZto give him money.Ahas committed extortion.
 
-(b)AthreatensZthat he will keepZ’s child in wrongful confinement, unlessZwill sign and deliver toAa promissory note bindingZto pay certain moneys toA.Zsigns and delivers the note.Ahas committed extortion.
+(b)AthreatensZthat he will keepZ’s child in wrongful confinement, unlessZwill sign and deliver toApromissory note bindingZto pay certain moneys toA.Zsigns and delivers the note.Ahas committed extortion.
 
 (c)A, an enforcement officer, seesZcommitting an offence, and threatens to report the offence unlessZgives him money.Zfears that the report may result in his being prosecuted for the offence and delivers money toA.Ahas committed extortion.
 
@@ -5735,13 +7420,15 @@ Illustrations
 
 [Indian PC 1860, s. 400]
 
-### Punishment for belonging to wandering gang of thieves
+### Punishment for belonging to gang of thieves
 
-401\. Whoever shall belong to any wandering or other gang of persons associated for the purpose of habitually committing theft or robbery, and not being gang-robbers, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be punished with caning with not less than 4 strokes.
+401\. Whoever shall belong to any gang of persons associated for the purpose of habitually committing theft or robbery, and not being gang-robbers, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be punished with caning with not less than 4 strokes.
 
 [62/73]
 
 [Indian PC 1860, s. 401]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Assembling for purpose of committing gang-robbery
 
@@ -5791,7 +7478,11 @@ Illustrations
 
 (f)Afinds a valuable ring, not knowing to whom it belongs.Asells it immediately without attempting to discover the owner.Ais guilty of an offence under this section.
 
+(g)Areceives money transferred to his bank account fromZ’s bank account.Adiscovers thatZdid not intend to transfer the money to him.Aretains the money and appropriates it to his own use.Ais guilty of an offence under this section.
+
 [Indian PC 1860, s. 403]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Dishonest misappropriation of property possessed by a deceased person at the time of his death
 
@@ -5807,7 +7498,7 @@ Criminal breach of trust
 
 ### Criminal breach of trust
 
-405\. Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or wilfully suffers any other person to do so, commits “criminal breach of trust”.
+405\. Whoever, being in any manner entrusted with property, or with any dominion over property, dishonestly misappropriates or converts to his own use that property, or dishonestly uses or disposes of that property in violation of any direction of law prescribing the mode in which such trust is to be discharged, or of any legal contract, express or implied, which he has made touching the discharge of such trust, or intentionally suffers any other person to do so, commits “criminal breach of trust”.
 
 Illustrations
 
@@ -5827,6 +7518,8 @@ Illustrations
 
 [Indian PC 1860, s. 405]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Punishment of criminal breach of trust
 
 406\. Whoever commits criminal breach of trust shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
@@ -5835,29 +7528,81 @@ Illustrations
 
 [Indian PC 1860, s. 406]
 
-### Criminal breach of trust by carrier, etc.
+### Criminal breach of trust of property entrusted for purposes of transportation or storage
 
-407\. Whoever, being entrusted with property as a carrier, wharfinger or warehouse-keeper, commits criminal breach of trust in respect of such property, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+407\. Whoever, being entrusted with property for the purpose of transportation for hire or storage for rent or charge, commits criminal breach of trust in respect of such property, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
 
-[51/2007]
+Illustration
 
-[Indian PC 1860, s. 407]
+A carrier is an example of a person who is entrusted with property for the purpose of transportation for hire and a warehouse owner or warehouse operator is an example of a person who is entrusted with property for the purpose of storage for rent or charge.
 
-### Criminal breach of trust by clerk or servant
+[Act 15 of 2019 wef 01/01/2020]
 
-408\. Whoever, being a clerk or servant, or employed as a clerk or servant, and being in any manner entrusted in such capacity with property, or with any dominion over property, commits criminal breach of trust in respect of that property, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
+### Criminal breach of trust by employees
 
-[51/2007]
+408\.—(1) Whoever, being an employee, and being in any manner entrusted in such capacity with property, or with any dominion over property, commits criminal breach of trust in respect of that property, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine.
 
-[Indian PC 1860, s. 408]
+(2) For the purposes of subsection (1) —
 
-### Criminal breach of trust by public servant, or by banker, merchant, or agent
+(a) an employee includes a person who is engaged in a capacity with the same fundamental qualities as an employee; and
 
-409\. Whoever, being in any manner entrusted with property, or with any dominion over property, in his capacity of a public servant, or in the way of his business as a banker, a merchant, a factor, a broker, an attorney or an agent, commits criminal breach of trust in respect of that property, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+(b) a person may be an employee or engaged in the capacity mentioned in paragraph (a) even though that person does not receive any salary or other remuneration arising from the person’s employment or engagement.
 
-[51/2007]
+[Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 409]
+### Criminal breach of trust by public servant, or by banker, merchant, agent, director, officer, partner, key executive or fiduciary
+
+409\.—(1) Whoever, being in any manner entrusted with property, or with any dominion over property —
+
+(a) in his capacity as a public servant;
+
+(b) in the way of his trade, profession or business as a banker, a merchant, a factor, a broker, an attorney or an agent;
+
+(c) in his professional capacity (other than by way of a trade, profession or business mentioned in paragraph (b));
+
+(d) in his capacity as a director of a corporation;
+
+(e) in his capacity as an officer of an unincorporated association;
+
+(f) in his capacity as a partner in a partnership;
+
+(g) in his capacity as a key executive of a corporation, an unincorporated association or a partnership; or
+
+(h) in his capacity as a fiduciary,
+
+commits criminal breach of trust in respect of that property, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+
+(2) In this section —
+
+“director” includes —
+
+(a) any person occupying the position of director of a corporation by whatever name called, and includes a person in accordance with whose directions or instructions the directors or the majority of the directors of a corporation are accustomed to act, and an alternate or substitute director; or
+
+(b) a member of a corporation in the case where the affairs of the corporation are managed by its members, and includes a person in accordance with whose directions or instructions the members or the majority of the members of such corporation are accustomed to act, and an alternate or substitute member;
+
+“fiduciary” means a person who has undertaken to act for or on behalf of another person in a matter in circumstances which give rise to a relationship of trust, confidence and loyalty, and includes but is not limited to an executor, an administrator, a liquidator, a receiver and a trustee (other than the trustee of an implied, a constructive or a resulting trust);
+
+“key executive” means a person who, whether or not an employee of the corporation, unincorporated association or partnership, and whether acting alone or together with any other person, has general control and management of the administration of that corporation, unincorporated association or partnership;
+
+“officer”, in relation to an unincorporated association (other than a partnership), means the president, the secretary or any member of the committee of the unincorporated association, and includes —
+
+(a) any person holding a position analogous to that of president, secretary or member of a committee of the unincorporated association;
+
+(b) a person in accordance with whose directions or instructions the president, secretary or member of a committee of the unincorporated association or a majority of such persons are accustomed to act; and
+
+(c) any person purporting to act in any such capacity;
+
+“partner” includes a person purporting to act as a partner;
+
+“partnership” includes a limited partnership and a limited liability partnership within the meaning of section 2(1) of the Limited Liability Partnerships Act (Cap. 163A).
+
+(3) For the purposes of this section and to avoid doubt —
+
+(a) a person may be a director of a corporation, officer of an unincorporated association, partner in a partnership, key executive of a corporation, unincorporated association or partnership even though that person does not receive any salary or other remuneration from that corporation, unincorporated association or partnership, as the case may be; and
+
+(b) a person may be a fiduciary even though it is stated in a contract or an agreement between the parties that a fiduciary relationship does not arise.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 Receiving stolen property
 
@@ -5867,13 +7612,17 @@ Receiving stolen property
 
 (2) The expression “stolen property” includes any property into or for which stolen property has been converted or exchanged and anything acquired by such conversion or exchange, whether immediately or otherwise.
 
-[Indian PC 1860, s. 410]
+Explanation.—For the purpose of proving whether the whole or any part of any property constitutes “stolen property”, it is not necessary for the prosecution to prove the elements or particulars of any offence that caused or contributed to the designation of the property as stolen property.
 
-### Dishonestly receiving stolen property
+[[Indian PC 1860, s. 410]
 
-411\.—(1) Whoever dishonestly receives or retains any stolen property, knowing or having reason to believe the property to be stolen property, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+[Act 15 of 2019 wef 01/01/2020]
 
-[51/2007]
+### Receiving stolen property
+
+411\.—(1) Whoever receives or retains any property, knowing or having reason to believe the property to be stolen property or property obtained in whole or in part through an offence involving fraud or dishonesty, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 (2) If the stolen property is a motor vehicle or any component part of a motor vehicle as defined in section 379A(3), a person convicted of an offence under this section —
 
@@ -5883,35 +7632,59 @@ Receiving stolen property
 
 [51/2007]
 
+(3) It is a defence for a person charged with an offence under subsection (1) to prove that he has a reasonable excuse to receive or retain the property and that he exercised reasonable care as soon as practicable after having the knowledge or reason to believe mentioned in that subsection.
+
+Illustration
+
+A large sum of money is credited intoA’s bank account through a fund transfer.Alater discovers the funds on checking his bank statement and has reason to believe that the funds were obtained in whole or in part through a criminal offence involving fraud or dishonesty. As soon as practicable after this discovery,Amakes a report of the funds to the bank management and expresses his belief of the origins of the funds.Ahas a reasonable excuse for receiving and retaining the funds in his bank account while the report is being processed and has exercised reasonable care.
+
 [Indian PC 1860, s. 411]
 
-### Dishonestly receiving property stolen in the commission of a gang-robbery
+[Act 15 of 2019 wef 01/01/2020]
 
-412\. Whoever dishonestly receives or retains any stolen property, the possession whereof he knows or has reason to believe to have been transferred by the commission of gang-robbery, or dishonestly receives from a person, whom he knows or has reason to believe to belong or to have belonged to gang-robbers, property which he knows or has reason to believe to have been stolen, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+### Receiving property stolen in the commission of a gang-robbery
+
+412\.—(1) Whoever receives or retains any stolen property, the possession whereof he knows or has reason to believe to have been transferred by the commission of gang-robbery, or receives from a person, whom he knows or has reason to believe to belong or to have belonged to gang-robbers, property which he knows or has reason to believe to have been stolen, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) It is a defence for a person charged with an offence under subsection (1) to prove that he has a reasonable excuse to receive or retain the property and that he exercised reasonable care as soon as practicable after having the knowledge or reason to believe mentioned in that subsection.
+
+Illustration
+
+A box of valuable jewels is delivered by courier toA’s office.Alater discovers the jewels and learns from the news reports that there was a gang robbery of jewels in the vicinity.Ahas reason to believe that the jewels were stolen in the gang robbery. As soon as practicable after this discovery,Akeeps the jewels in the safe and travels to the police station to make a report of the jewels and express his belief that the jewels were stolen by gang-robbers.Ahas a reasonable excuse for receiving and retaining the jewels pending their retrieval by the police and has exercised reasonable care.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 412]
 
 ### Habitually dealing in stolen property
 
-413\. Whoever habitually receives or deals in property which he knows or has reason to believe to be stolen property shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+413\. Whoever habitually receives or deals in property which he knows or has reason to believe to be stolen property or property obtained in whole or in part through any criminal offence involving fraud or dishonesty, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
 
 [51/2007]
 
 [Indian PC 1860, s. 413]
 
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Assisting in concealment or disposal of stolen property
 
-414\.—(1) Whoever voluntarily assists in concealing or disposing of or making away with property which he knows or has reason to believe to be stolen property shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+414\.—(1) Whoever voluntarily assists in concealing or disposing of or making away with property which he knows or has reason to believe to be stolen property or property obtained in whole or in part through any criminal offence involving fraud or dishonesty, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
 
 [51/2007]
 
-(2) If the stolen property is a motor vehicle or any component part of a motor vehicle as defined in section 379A(3), a person convicted of an offence under this section —
+[Act 15 of 2019 wef 01/01/2020]
+
+(2) If the property mentioned in subsection (1) is a motor vehicle or any component part of a motor vehicle as defined in section 379A(3), a person convicted of an offence under this section —
 
 (a) shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine; and
 
 (b) may be disqualified for such period as the court may order from the date of his release from imprisonment from holding or obtaining a driving licence under the Road Traffic Act (Cap. 276).
 
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 414]
 
@@ -5919,7 +7692,7 @@ Cheating
 
 ### Cheating
 
-415\. Whoever, by deceiving any person, whether or not such deception was the sole or main inducement, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit to do if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to any person in body, mind, reputation or property, is said to “cheat”.
+415\. Whoever, by deceiving any person, whether or not such deception was the sole or main inducement, fraudulently or dishonestly induces the person so deceived to deliver or cause the delivery of any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit to do if he were not so deceived, and which act or omission causes or is likely to cause damage or harm to any person in body, mind, reputation or property, is said to “cheat”.
 
 [51/2007]
 
@@ -5928,6 +7701,10 @@ Explanation1.—A dishonest concealment of facts is a deception within the meani
 Explanation2.—Mere breach of contract is not of itself proof of an original fraudulent intent.
 
 Explanation3.—Whoever makes a representation through any agent is to be treated as having made the representation himself.
+
+Explanation4.—A person that is a company or association or body of persons, whether incorporated or not, can be deceived for the purposes of this section, even though none of its individual officers, employees or agents is personally deceived.
+
+Explanation5.—A person that is a company or association or body of persons, whether incorporated or not, can be induced to act in a manner mentioned in this section even though none of its individual officers, employees or agents is personally induced to act in such manner.
 
 [51/2007]
 
@@ -5953,7 +7730,11 @@ Illustrations
 
 (j)A, playing with false dice, or marked cards, wins money fromB.Acheats.
 
+(k)Aplaces an order for concert tickets in the automated concert ticketing system of a company,Z, using stolen credit card details, and thereby causesZ’s ticketing system to electronically deliver the electronic concert tickets toA.Zhas been deceived and induced into delivering the tickets toAeven though no human officer, employee or agent ofZhas been personally deceived or induced.
+
 [Indian PC 1860, s. 415]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Cheating by personation
 
@@ -5968,6 +7749,40 @@ Illustrations
 (b)Acheats by pretending to beB, a person who is deceased.Acheats by personation.
 
 [Indian PC 1860, s. 416]
+
+### Illegally obtained personal information
+
+416A\.—(1) A person (A) shall be guilty of an offence who, knowing or having reason to believe that any personal information about another person (B) (being an individual) was obtained withoutB’s consent —
+
+(a) obtains or retains the personal information; or
+
+(b) supplies, offers to supply, transmits or makes available, by any means, the personal information.
+
+(2) It is not an offence under subsection (1)(a) if the person obtained or retained the personal information for a purpose other than —
+
+(a) for use in committing, or in facilitating the commission of, any offence under this Code or any other written law; or
+
+(b) for supply, transmission or making available by any means for the personal information to be used in committing, or in facilitating the commission of, any offence under this Code or any other written law.
+
+(3) It is not an offence under subsection (1)(b) if —
+
+(a) the person did the act for a purpose other than for the personal information to be used in committing, or in facilitating the commission of, any offence under this Code or any other written law; and
+
+(b) the person did not know or have reason to believe that the personal information will be or is likely to be used to commit, or facilitate the commission of, any offence under this Code or any other written law.
+
+(4) For the purposes of subsection (1)(b), a person does not transmit or make available personal information merely because the person provides, or operates facilities for network access, or provides services relating to, or provides connections for, the transmission or routing of data.
+
+(5) A person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term which may extend to 3 years, or with fine which may extend to $10,000, or with both.
+
+(6) For the purpose of proving under subsection (1) that a person knows or has reason to believe that any personal information of an individual (B) was obtained withoutB’s consent, it is not necessary for the prosecution to prove the particulars of the obtaining of the personal information, such as who obtained the information and when it took place.
+
+(7) In this section —
+
+(a) personal information is any information, whether true or not, about an individual of a type that is commonly used alone or in combination with other information to identify or purport to identify an individual, including (but not limited to) biometric data, name, address, date of birth, national registration identity card number, passport number, a written, electronic or digital signature, user authentication code, credit card or debit card number, and password; and
+
+(b) a reference to an offence under this Code includes an offence under subsection (1).
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Punishment for cheating
 
@@ -5995,11 +7810,37 @@ Illustrations
 
 ### Cheating and dishonestly inducing a delivery of property
 
-420\. Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+420\. Whoever cheats and thereby dishonestly induces the person deceived to deliver or cause the delivery of any property to any person, or to make, alter or destroy the whole or any part of a valuable security, or anything which is signed or sealed, and which is capable of being converted into a valuable security, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
 [51/2007]
 
 [Indian PC 1860, s. 420]
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Obtaining services dishonestly or fraudulently
+
+420A\.—(1) A person shall be guilty of an offence if he obtains services for himself or another person dishonestly or fraudulently and —
+
+(a) the services are made available on the basis that payment has been, is being or will be made for or in respect of them;
+
+(b) the person obtains the services without any payment having been made for or in respect of them or without payment having been made in full; and
+
+(c) when the person obtains the services —
+
+(i) the person knows that they are being made available on the basis mentioned in paragraph (a) or that they might be; and
+
+(ii) the person intends that payment will not be made or will not be made in full.
+
+(2) A person who is guilty of an offence under subsection (1) shall on conviction be liable to imprisonment for a term not exceeding 10 years, or to fine, or to both.
+
+Explanation.—The services obtained are not excluded from this section merely because such services also involve the provision of goods or other things.
+
+Illustration
+
+Aobtains services in the form of air transportation on an airline from Singapore to an overseas destination.Ais also served food and beverages on the airline.Ahas obtained services even thoughAhas also been provided with food and beverages.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 Fraudulent deeds and dispositions of property
 
@@ -6035,6 +7876,34 @@ Fraudulent deeds and dispositions of property
 
 [Indian PC 1860, s. 424]
 
+### Fraud by false representation, non-disclosure or abuse of position not connected with contracts for goods or services
+
+424A\.—(1) A person shall be guilty of an offence if he, fraudulently or dishonestly —
+
+(a) makes a false representation;
+
+(b) fails to disclose to another person information which he is under a legal duty to disclose; or
+
+(c) abuses, whether by act or omission, a position which he occupies in which he is expected to safeguard, or not to act against, the financial interests of another person.
+
+(2) A person may be guilty of an offence under subsection (1) whether or not the acts in subsection (1)(a), (b) or (c) were material.
+
+(3) A person who is guilty of an offence under subsection (1) shall on conviction be punished with imprisonment for a term which may extend to 20 years, or with fine, or with both.
+
+(4) This section does not apply where the false representation, failure to disclose or abuse of position mentioned in subsection (1) is directly connected with a written or oral contract for the supply of goods or services.
+
+(5) For the purposes of this section and section 424B —
+
+(a) “representation” means any representation as to fact or law, including a representation as to the state of mind of the person making the representation, or any other person;
+
+(b) a person makes a false representation if it is untrue or misleading, and that person knows that it is, or might be, untrue or misleading;
+
+(c) a representation may be express or implied; and
+
+(d) a representation may be regarded as made if it (or anything implying it) is submitted in any form to any system or device designed to receive, convey or respond to communications (with or without human intervention).
+
+[Act 15 of 2019 wef 01/01/2020]
+
 Mischief
 
 ### Mischief
@@ -6069,19 +7938,57 @@ Illustrations
 
 ### Punishment for committing mischief
 
-426\. Whoever commits mischief shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
+426\. Whoever commits mischief shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
 
 [51/2007]
 
 [Indian PC 1860, s. 426]
 
-### Committing mischief and thereby causing loss or damage to the amount of $500
+[Act 15 of 2019 wef 01/01/2020]
 
-427\. Whoever commits mischief and thereby causes loss or damage to the amount of $500 or upwards, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
+### Punishment for committing mischief causing disruption to key service, etc.
 
-[51/2007]
+427\.—(1) Whoever commits mischief by doing any act which causes, or which he knows is likely to cause, a disruption to —
 
-[Indian PC 1860, s. 427]
+(a) the provision of any key service; or
+
+(b) the performance of any duty or function of, or the exercise of any power by the Government or a public agency,
+
+shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+
+(2) In subsection (1) —
+
+“key service” means any of the following services:
+
+(a) a service directly related to the provision to the general public of water, sewerage, drainage, gas, electricity, waste collection and disposal, newspapers, broadcasting, telecommunications and other traditional forms of mass media communication (including radio and television services);
+
+(b) a search and rescue service, a fire-fighting service, a service providing rapid response to requests for help in a medical emergency, or other health emergency service;
+
+(c) a payments clearing and settlement service for payment obligations or securities, a service directly related to the provision to the general public of banking facilities and financial services associated with banking business, a securities trading, clearing and settlement service, and any other like service that is necessary to the financial market or financial institutions in Singapore or the disruption of which would have a widespread adverse effect on the financial system in Singapore or the economy of Singapore, or both;
+
+(d) a service directly related to the provision to the general public of health or healthcare services at a hospital, primary care healthcare establishment or other like institution;
+
+(e) a service that is critical to ensuring the reliable supply in Singapore of food which is safe and suitable for human consumption;
+
+(f) a service directly related to ensuring the provision to the general public of reliable and safe public transport by land, water or air within Singapore or to and from Singapore;
+
+(g) any other service that is critical to maintaining public health, the social and economic stability of Singapore or its people, or the defence of Singapore or its national security;
+
+“public agency” means —
+
+(a) a body corporate or unincorporate established by or under any public Act to perform or discharge a public function, or any part of such a body; or
+
+(b) a department or Ministry of the Government or an Organ of State.
+
+Illustrations
+
+(a) An act which causes damage to enforcement cameras installed in a public place by a statutory board responsible for land transport to detect illegal parking in a public road is an act which causes disruption to the performance of the function of that statutory board.
+
+(b) Unauthorised destruction of the records and files of a department of the Government which role is to promote Singapore as a sound and reputable financial centre is an act which causes disruption to the performance of the function of that department.
+
+(c) An act of mischief which damages an electricity licensee’s power generation facility that is used to supply electricity to a public housing estate, is an act which is likely to cause disruption to a key service even though there is no actual disruption to that power supply.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Mischief by killing or maiming any animal
 
@@ -6095,47 +8002,19 @@ Mischief by killing or maiming cattle, etc., or any animal of the value of $25
 
 429\. [Repealed by Act 51 of 2007]
 
-### Mischief by injury to works of irrigation or by wrongfully diverting water
+430\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-430\. Whoever commits mischief by doing any act which causes, or which he knows to be likely to cause, a diminution of the supply of water for agricultural or industrial purposes, or for food or drink for human beings or for animals which are property, or for cleanliness, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
+430A\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[51/2007]
+431\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 430]
+431A\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Mischief affecting railway engine, train, etc.
+432\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-430A\. Whoever commits mischief by doing any act with intent or with the knowledge that such act is likely to obstruct, upset, overthrow, injure or destroy any railway engine, train, tender, carriage or truck, shall be punished with imprisonment for life or imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+433\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Mischief by injury to public road, bridge or river
-
-431\. Whoever commits mischief by doing any act which renders, or which he knows to be likely to render, any public road, bridge, navigable river, or navigable channel, natural or artificial, impassable or less safe for travelling or conveying property, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
-
-[Indian PC 1860, s. 431]
-
-### Mischief by injury to telegraph cable, wire, etc.
-
-431A\. Whoever commits mischief by cutting or injuring any electric telegraph cable, wire, line, post, instrument or apparatus for signalling, shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both.
-
-Explanation.—The injuring here must be of such a nature as to prevent the use of the electric telegraph cable, wire or line, for telegraphing, otherwise the offence will be punishable under section 426.
-
-### Mischief by causing inundation or obstruction to public drainage, attended with damage
-
-432\. Whoever commits mischief by doing any act which causes, or which he knows to be likely to cause, an inundation or an obstruction to any public drainage attended with injury or damage, shall be punished with imprisonment for a term which may extend to 5 years, or with fine, or with both.
-
-[Indian PC 1860, s. 432]
-
-### Mischief by destroying or moving or rendering less useful a lighthouse or sea-mark
-
-433\. Whoever commits mischief by destroying or moving any lighthouse or other light used as a sea-mark, or any sea-mark or buoy or other thing placed as a guide for navigators, or by any act which renders any such lighthouse, sea-mark, buoy, or other such thing as aforesaid less useful as a guide for navigators, shall be punished with imprisonment for a term which may extend to 7 years, or with fine, or with both.
-
-[Indian PC 1860, s. 433]
-
-### Mischief by destroying or moving, etc., a landmark fixed by public authority
-
-434\. Whoever commits mischief by destroying or moving any landmark fixed by the authority of a public servant, or by any act which renders such landmark less useful as such, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
-
-[Indian PC 1860, s. 434]
+434\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Mischief by fire or explosive substance with intent to cause damage
 
@@ -6159,9 +8038,11 @@ Explanation.—The injuring here must be of such a nature as to prevent the use 
 
 ### Punishment for the mischief described in section 437 when committed by fire or any explosive substance
 
-438\. Whoever commits or attempts to commit by fire or any explosive substance, such mischief as is described in section 437, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+438\. Whoever commits or attempts to commit by fire or any explosive substance, such mischief as is described in section 437, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
 [Indian PC 1860, s. 438]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Punishment for intentionally running vessel aground or ashore with intent to commit theft, etc.
 
@@ -6183,69 +8064,23 @@ Criminal trespass
 
 [Indian PC 1860, s. 441]
 
-### House-trespass
+### House-breaking
 
-442\. Whoever commits criminal trespass by entering into, or remaining in, any building, tent or vessel used as a human dwelling, or any building used as a place for worship or as a place for the custody of property, is said to commit “house-trespass”.
+442\. Whoever commits criminal trespass by entering into, or remaining in, any building, tent, container or vessel used as a human dwelling, or any building used as a place for worship or as a place for the custody of property, is said to commit “house‑breaking”.
 
-Explanation.—The introduction of any part of the criminal trespasser’s body is entering sufficient to constitute house-trespass.
+Explanation.—The introduction of any part of the criminal trespasser’s body is entering sufficient to constitute house-breaking.
 
 [Indian PC 1860, s. 442]
 
-### Lurking house-trespass
+[Act 15 of 2019 wef 01/01/2020]
 
-443\. Whoever commits house-trespass, having taken precautions to conceal such house-trespass from some person who has a right to exclude or eject the trespasser from the building, tent or vessel which is the subject of the trespass, is said to commit “lurking house-trespass”.
+443\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 443]
+444\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Lurking house-trespass by night
+445\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-444\. Whoever commits lurking house-trespass after 7 p.m. and before 7 a.m., is said to commit “lurking house-trespass by night”.
-
-[Indian PC 1860, s. 444]
-
-### House-breaking
-
-445\. A person is said to commit “house-breaking”, who commits house-trespass if he effects his entrance into the house or any part of it in any of the 6 ways hereinafter described; or if, being in the house or any part of it for the purpose of committing an offence, or having committed an offence therein, he quits the house or any part of it in any of such 6 ways:
-
-(a) if he enters or quits through a passage made by himself, or by any abettor of the house-trespass, in order to the committing of the house-trespass;
-
-(b) if he enters or quits through any passage not intended by any person, other than himself or an abettor of the offence, for human entrance; or through any passage to which he has obtained access by scaling or climbing over any wall or building;
-
-(c) if he enters or quits through any passage which he or any abettor of the house-trespass has opened, in order to the committing of the house-trespass, by any means by which that passage was not intended by the occupier of the house to be opened;
-
-(d) if he enters or quits by opening any lock in order to the committing of the house-trespass, or in order to the quitting of the house after a house-trespass;
-
-(e) if he effects his entrance or departure by using criminal force or committing an assault, or by threatening any person with assault;
-
-(f) if he enters or quits by any passage which he knows to have been fastened against such entrance or departure, and to have been unfastened by himself or by an abettor of the house-trespass.
-
-Explanation.—Any outhouse or building occupied with a house, and between which and such house there is an immediate internal communication, is part of the house within the meaning of this section.
-
-Illustrations
-
-(a)Acommits house-trespass by making a hole through the wall ofZ’s house, and putting his hand through the aperture. This is house-breaking.
-
-(a)Acommits house-trespass by creeping into a ship at a porthole between decks, although found open. This is house-breaking.
-
-(a)Acommits house-trespass by enteringZ’s house through a window, although found open. This is house-breaking.
-
-(a)Acommits house-trespass by enteringZ’s house through the door, having opened a door which was fastened. This is house-breaking.
-
-(a)Acommits house-trespass by enteringZ’s house through the door, having lifted a latch by putting a wire through a hole in the door. This is house-breaking.
-
-(a)Afinds the key ofZ’s house-door, whichZhad lost, and commits house-trespass by enteringZ’s house, having opened the door with that key. This is house-breaking.
-
-(a)Zis standing in his doorway.Aforces a passage by knockingZdown, and commits house-trespass by entering the house. This is house-breaking.
-
-(a)Z, the door-keeper ofY, is standing inY’s doorway.Acommits house-trespass by entering the house, having deterredZfrom opposing him by threatening to beat him. This is house-breaking.
-
-[Indian PC 1860, s. 445]
-
-### House-breaking by night
-
-446\. Whoever commits house-breaking after 7 p.m. and before 7 a.m., is said to commit “house-breaking by night”.
-
-[Indian PC 1860, s. 446]
+446\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Punishment for criminal trespass
 
@@ -6255,103 +8090,111 @@ Illustrations
 
 [Indian PC 1860, s. 447]
 
-### Punishment for house-trespass
+### Punishment for house-breaking
 
-448\. Whoever commits house-trespass shall be punished with imprisonment for a term which may extend to one year, or with fine which may extend to $3,000, or with both.
+448\. Whoever commits house-breaking shall be guilty of an offence and shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
 [51/2007]
 
 [Indian PC 1860, s. 448]
 
-### House-trespass in order to commit an offence punishable with death
+[Act 15 of 2019 wef 01/01/2020]
 
-449\. Whoever commits house-trespass in order to commit any offence punishable with death, shall be punished with imprisonment for life, or with imprisonment for a term not exceeding 10 years, and shall also be liable to fine.
+### House-breaking in order to commit an offence punishable with death
+
+449\. Whoever commits house-breaking in order to commit any offence punishable with death, shall be punished with imprisonment for life, or with imprisonment for a term not exceeding 15 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
 [Indian PC 1860, s. 449]
 
-### House-trespass in order to commit an offence punishable with imprisonment for life
+[Act 15 of 2019 wef 01/01/2020]
 
-450\. Whoever commits house-trespass in order to commit any offence punishable with imprisonment for life, shall be punished with imprisonment for a term not exceeding 10 years, and shall also be liable to fine.
+### House-breaking in order to commit an offence punishable with imprisonment for life
+
+450\. Whoever commits house-breaking in order to commit any offence punishable with imprisonment for life, shall be punished with imprisonment for a term not exceeding 15 years, and shall also be liable to fine.
 
 [Indian PC 1860, s. 450]
 
-### House-trespass in order to commit an offence punishable with imprisonment
+[Act 15 of 2019 wef 01/01/2020]
 
-451\. Whoever commits house-trespass in order to commit any offence punishable with imprisonment, shall be punished with imprisonment for a term which may extend to 2 years, and shall also be liable to fine; and if the offence intended to be committed is theft, the term of the imprisonment may be extended to 7 years.
+### House-breaking in order to commit an offence punishable with imprisonment
+
+451\. Whoever commits house-breaking in order to commit any offence punishable with imprisonment, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
 
 [Indian PC 1860, s. 451]
 
-### House-trespass after preparation made for causing hurt, etc.
+[Act 15 of 2019 wef 01/01/2020]
 
-452\. Whoever commits house-trespass, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or of assault, or of wrongful restraint, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+### House-breaking after preparation made for causing hurt, etc.
+
+452\. Whoever commits house-breaking, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or of assault, or of wrongful restraint, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine, or to caning.
 
 [Indian PC 1860, s. 452]
 
-### Punishment for lurking house-trespass or house-breaking
+[Act 15 of 2019 wef 01/01/2020]
 
-453\. Whoever commits lurking house-trespass or house-breaking, shall be punished with imprisonment for a term which may extend to 2 years, and shall also be liable to fine.
+### Possession of house-breaking implements or offensive weapons
 
-[Indian PC 1860, s. 453]
+453\.—(1) Any person who is found —
 
-### Lurking house-trespass or house-breaking in order to commit an offence punishable with imprisonment
+(a) armed with any instrument for shooting, stabbing or cutting, or any instrument which, used as a weapon of offence, is likely to cause death, without lawful authority or a lawful purpose;
 
-454\. Whoever commits lurking house-trespass or house-breaking in order to commit any offence punishable with imprisonment, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine; and if the offence intended to be committed is theft, shall be punished with imprisonment for a term which may extend to 10 years.
+(b) having his face covered or otherwise found disguised with intent to commit any offence; or
 
-[23/84; 51/2007]
+(c) equipped with any article or instrument for use in the course of or in connection with any house-breaking,
 
-[Indian PC 1860, s. 454]
+shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both; and any instrument or article, mentioned in paragraph (a) or (c), found in the possession of that person shall be forfeited.
 
-### Lurking house-trespass or house-breaking after preparation made for causing hurt, etc.
+(2) In any prosecution for an offence under subsection (1)(a), it is sufficient for the prosecution to allege and prove that the accused was found to be armed with any instrument mentioned in paragraph (a) and the burden is then on the accused to show that he had lawful authority or a lawful purpose to be so armed.
 
-455\. Whoever commits lurking house-trespass or house-breaking, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or of assault or of wrongful restraint, shall be punished with imprisonment for a term of not less than 2 years and not more than 10 years and with caning.
+(3) An article or instrument is presumed to be carried with lawful authority if it is carried by —
 
-[23/84]
+(a) any member of the Singapore Armed Forces, the Singapore Police Force, the Singapore Civil Defence Force or any auxiliary police force created under any written law;
 
-[Indian PC 1860, s. 455]
+(b) a forensic specialist, civilian police assistant or law enforcement officer acting in the course of his duty as such in accordance with the Police Force Act (Cap. 235);
 
-### Punishment for lurking house-trespass by night or house-breaking by night
+(c) any visiting force lawfully present in Singapore under the provisions of any law relating to visiting forces; or
 
-456\. Whoever commits lurking house-trespass by night or house-breaking by night, shall be punished with imprisonment for a term which may extend to 3 years, and shall also be liable to fine.
+(d) any person as part of his official or ceremonial dress on any official or ceremonial occasion.
 
-[Indian PC 1860, s. 456]
+[Act 15 of 2019 wef 01/01/2020]
 
-### Lurking house-trespass by night or house-breaking by night in order to commit an offence punishable with imprisonment
+454\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-457\. Whoever commits lurking house-trespass by night or house-breaking by night, in order to commit any offence punishable with imprisonment, shall be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine; and if the offence intended to be committed is theft, the term of the imprisonment shall be not less than 2 years and not more than 14 years.
+455\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[23/84]
+456\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 457]
+457\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Lurking house-trespass by night or house-breaking by night after preparation made for causing hurt, etc.
+458\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-458\. Whoever commits lurking house-trespass by night or house-breaking by night, having made preparation for causing hurt to any person, or for assaulting any person, or for wrongfully restraining any person, or for putting any person in fear of hurt or of assault or of wrongful restraint, shall be punished with imprisonment for a term of not less than 2 years and not more than 14 years and with caning.
+### Punishment for subsequent offence under section 449, 450, 451 or 452
 
-[23/84]
-
-[Indian PC 1860, s. 458]
-
-### Punishment for subsequent offence under section 454 or 457
-
-458A\. Whoever, having been convicted of an offence under section 454, 455, 457 or 458, commits an offence under section 454 or 457 shall be punished with caning in addition to the punishment prescribed for that offence.
+458A\. Whoever, having been convicted of an offence under section 449, 450, 451 or 452, commits an offence under section 449, 450, 451 or 452 shall be liable to caning in addition to the punishment prescribed for that offence.
 
 [23/84]
 
-### Grievous hurt caused while committing lurking house-trespass or house-breaking
+[Act 15 of 2019 wef 01/01/2020]
 
-459\. Whoever, while committing lurking house-trespass or house-breaking, causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, shall be punished with imprisonment for a term of not less than 3 years and not more than 20 years and with caning.
+### Grievous hurt caused while committing house-breaking
+
+459\. Whoever, while committing house-breaking, causes grievous hurt to any person, or attempts to cause death or grievous hurt to any person, shall be punished with imprisonment for a term of not less than 3 years and not more than 20 years and with caning.
 
 [23/84]
 
 [Indian PC 1860, s. 459]
 
-### Lurking house-trespass by night or house-breaking by night when death or grievous hurt is caused
+[Act 15 of 2019 wef 01/01/2020]
 
-460\. If, at the time of the committing of lurking house-trespass by night or house-breaking by night, any person guilty of such offence voluntarily causes or attempts to cause death or grievous hurt to any person, every person jointly concerned in committing such lurking house-trespass by night or house-breaking by night, shall be punished with imprisonment for a term of not less than 3 years and not more than 20 years.
+### House-breaking when death or grievous hurt caused
+
+460\. If, at the time of the committing of house-breaking, any person guilty of such offence voluntarily causes or attempts to cause death or grievous hurt to any person, every person jointly concerned in committing such house-breaking, shall be punished with imprisonment for a term of not less than 3 years and not more than 20 years.
 
 [23/84]
 
 [Indian PC 1860, s. 460]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Dishonestly breaking open any closed receptacle containing or supposed to contain property
 
@@ -6382,12 +8225,14 @@ false instruments, and
 
 
 
-to currency notes
+to currency
 
 
 
 
 and bank notes
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Forgery
 
@@ -6637,99 +8482,115 @@ shall be punished with imprisonment for a term which may extend to 10 years, or 
 
 ### Falsification of accounts
 
-477A\. Whoever, being a clerk, officer or servant, or employed or acting in the capacity of a clerk, officer or servant, wilfully and with intent to defraud destroys, alters, conceals, mutilates or falsifies any book, electronic record, paper, writing, valuable security or account which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his employer, or wilfully and with intent to defraud makes or abets the making of any false entry in, or omits or alters or abets the omission or alteration of any material particular from or in any such book, electronic record, paper, writing, valuable security or account, shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+477A\. Whoever, being a clerk, officer or servant, or employed or acting in the capacity of a clerk, officer or servant, intentionally and with intent to defraud destroys, alters, conceals, mutilates or falsifies any book, electronic record, paper, writing, valuable security or account or a set thereof which belongs to or is in the possession of his employer, or has been received by him for or on behalf of his employer, or intentionally and with intent to defraud makes or abets the making of any false entry in, or omits or alters or abets the omission or alteration of any material particular from or in any such book, electronic record, paper, writing, valuable security or account or a set thereof, shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
 
 [51/2007]
 
-Explanation.—It shall be sufficient in any charge under this section to allege a general intent to defraud without naming any particular person intended to be defrauded, or specifying any particular sum of money intended to be the subject of the fraud or any particular day on which the offence was committed.
+Explanation1.—It shall be sufficient in any charge under this section to allege a general intent to defraud without naming any particular person intended to be defrauded, or specifying any particular sum of money intended to be the subject of the fraud or any particular day on which the offence was committed.
+
+Explanation2.—Any books, electronic records, papers, writings, valuable securities or account or any combination thereof form a set if they serve the same function or purpose in relation to the employer’s affairs or business.
 
 [Indian PC 1860, s. 477A]
 
-Currency notes and bank notes
+[Act 15 of 2019 wef 01/01/2020]
 
-### Forging or counterfeiting currency notes or bank notes
+Currency and bank notes
 
-\*489A\.—(1) Whoever forges or counterfeits, or knowingly performs any part of the process of forging or counterfeiting, any currency note or bank note shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+### Forging or counterfeiting currency or bank notes
 
-[51/2007]
+\*489A\.—(1) Whoever forges or counterfeits, or knowingly performs any part of the process of forging or counterfeiting, any currency or bank note shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
 
-Explanation.—For the purposes of this section and of sections 489B, 489C and 489D, “bank note” means a promissory note or engagement for the payment of money to bearer on demand issued by any person carrying on the business of banking in any part of the world, or issued by or under the authority of any State or Sovereign Power and intended to be used as equivalent to, or as a substitute for, money.
+(2) In this section and sections 489B to 489I —
 
-(2) For the purposes of this section and of sections 489B, 489C and 489D, “currency note” includes any note (by whatever name called) which is legal tender in the country in which it is issued.
+“bank note” means a promissory note or engagement for the payment of money to bearer on demand issued by any person carrying on the business of banking in any part of the world, or issued by or under the authority of the government of any country or territory and intended to be used as equivalent to, or as a substitute for, money;
 
-[51/2007]
+“coin” is metal used as money stamped and issued by or under the authority of the government of any country or territory in order to be so used;
 
-[Indian PC 1860, s. 489A]
+“currency” includes any currency note or coin (by whatever name called) which is legal tender in the country or territory in which it is issued.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 \*There are no sections 478 to 489.
 
-### Using as genuine forged or counterfeit currency notes or bank notes
+### Using as genuine forged or counterfeit currency or bank notes
 
-489B\. Whoever sells to, or buys or receives from, any other person, or otherwise traffics in or uses as genuine, any forged or counterfeit currency note or bank note, knowing or having reason to believe the same to be forged or counterfeit, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+489B\. Whoever delivers or sells to, or buys or receives from, any other person, or otherwise imports, exports or traffics in or uses as genuine, any forged or counterfeit currency or bank note, knowing or having reason to believe the same to be forged or counterfeit, shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
 
 [51/2007]
 
 [Indian PC 1860, s. 489B]
 
-### Possession of forged or counterfeit currency notes or bank notes
+[Act 15 of 2019 wef 01/01/2020]
 
-489C\. Whoever has in his possession any forged or counterfeit currency note or bank note, knowing or having reason to believe the same to be forged or counterfeit and intending to use the same as genuine or that it may be used as genuine, shall be punished with imprisonment for a term which may extend to 15 years.
+### Possession of forged or counterfeit currency or bank notes
+
+489C\. Whoever has in his possession any forged or counterfeit currency or bank note, knowing or having reason to believe the same to be forged or counterfeit and intending to use the same as genuine or that it may be used as genuine, shall be punished with imprisonment for a term which may extend to 15 years and shall also be liable to fine.
 
 [51/2007]
 
 [Indian PC 1860, s. 489C]
 
-### Making or possessing instruments or materials for forging or counterfeiting currency notes or bank notes
+[Act 15 of 2019 wef 01/01/2020]
 
-489D\. Whoever makes or performs any part of the process of making, or buys or sells or disposes of, or has in his possession, any machinery, instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for forging or counterfeiting any currency note or bank note, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
+### Making or possessing instruments or materials for forging or counterfeiting currency or bank notes
+
+489D\. Whoever makes, mends or performs any part of the process of making or mending or buys, sells or disposes of, or has in his possession, any die, machinery, instrument or material for the purpose of being used, or knowing or having reason to believe that it is intended to be used, for forging or counterfeiting any currency or bank note, shall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine.
 
 [51/2007]
 
 [Indian PC 1860, s. 489D]
 
-Forfeiture of counterfeit currency
+[Act 15 of 2019 wef 01/01/2020]
 
-489E\. [Repealed by Act 51 of 2007]
+### Abetting in Singapore counterfeiting of currency out of Singapore
+
+489E\. Whoever, being within Singapore, abets the counterfeiting of any currency out of Singapore, shall be punished in the same manner as if he abetted the counterfeiting of such currency within Singapore.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Fraudulently or dishonestly diminishing weight or altering composition of any coin
+
+489F\. Whoever fraudulently or dishonestly performs on any coin any operation which diminishes the weight or alters the composition of that coin shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+
+Explanation.—A person who scoops out part of the coin and puts anything else into the cavity, alters the composition of that coin.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Altering appearance of currency with intent that it shall pass as currency of different description
+
+489G\. Whoever performs on any currency any operation which alters the appearance of that currency, with the intention that that currency will pass as currency of a different description, shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Delivery to another of altered currency
+
+489H\. Whoever delivers to any other person as genuine, or as currency of a different description from what it is, or attempts to induce any person to receive as genuine or as a currency of a different description from what it is, any currency in respect of which he knows or has reason to believe that any operation mentioned in section 489F or 489G has been performed, shall be guilty of an offence and shall on conviction be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Possession of altered currency
+
+489I\. Whoever has in his possession any currency with respect to which he knows or has reason to believe that any offence defined in section 489F or 489G has been committed and intending to use such currency as genuine or that it may be used as genuine shall on conviction be punished with imprisonment for a term which may extend to 5 years, and shall also be liable to fine.
+
+[Act 15 of 2019 wef 01/01/2020]
 
 Chapter\*XX
 
 \*There is no Chapter XIX.
 
-\*
+\*\*
 
-Offences relating to marriage
+493\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-### Cohabitation caused by a man deceitfully inducing a belief of lawful marriage
+494\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-493\. Every man, who by deceit causes any woman who is not lawfully married to him to believe that she is lawfully married to him and to cohabit or have sexual intercourse with him in that belief, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
+495\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-[Indian PC 1860, s. 493]
-
-### Marrying again during the lifetime of husband or wife
-
-494\. Whoever, having a husband or wife living, marries in any case in which such marriage is void by reason of its taking place during the life of such husband or wife, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
-
-Exceptions.—This section does not extend to any person whose marriage, with such husband or wife, has been declared void by a court of competent jurisdiction, nor to any person who contracts a marriage during the life of a former husband or wife, if such husband or wife, at the time of the subsequent marriage, has been continually absent from such person for the space of 7 years, and has not been heard of by such person as being alive within that time, provided the person contracting such subsequent marriage, before the marriage takes place, informs the person with whom the marriage is contracted, of the real state of facts so far as the same are within his or her knowledge.
-
-[Indian PC 1860, s. 494]
-
-### Same offence with concealment of the former marriage from the person with whom subsequent marriage is contracted
-
-495\. Whoever commits the offence defined in section 494, having concealed from the person with whom the subsequent marriage is contracted the fact of the former marriage, shall be punished with imprisonment for a term which may extend to 10 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 495]
-
-### Marriage ceremony gone through with fraudulent intent without lawful marriage
-
-496\. Whoever dishonestly or with a fraudulent intention goes through the ceremony of being married, knowing that he is not thereby lawfully married, shall be punished with imprisonment for a term which may extend to 7 years, and shall also be liable to fine.
-
-[Indian PC 1860, s. 496]
+496\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 Enticing or taking away or detaining with a criminal intent a married woman
 
-\*498\. [Repealed by Act 51 of 2007]
-
-\*There is no section 497.
+498\. [Repealed by Act 51 of 2007]
 
 ### Chapter XXI
 
@@ -6909,11 +8770,13 @@ Exception.—It does not amount to an offence within the meaning of this section
 
 ### Punishment for criminal intimidation
 
-506\. Whoever commits the offence of criminal intimidation shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both; and if the threat is to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or with imprisonment for a term which may extend to 7 years or more, or impute unchastity to a woman, shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
+506\. Whoever commits the offence of criminal intimidation shall be punished with imprisonment for a term which may extend to 2 years, or with fine, or with both; and if the threat is to cause death or grievous hurt, or to cause the destruction of any property by fire, or to cause an offence punishable with death or with imprisonment for a term which may extend to 7 years or more, shall be punished with imprisonment for a term which may extend to 10 years, or with fine, or with both.
 
 [51/2007]
 
 [Indian PC 1860, s. 506]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Criminal intimidation by an anonymous communication
 
@@ -6921,23 +8784,9 @@ Exception.—It does not amount to an offence within the meaning of this section
 
 [Indian PC 1860, s. 507]
 
-### Act caused by inducing a person to believe that he will be rendered an object of divine displeasure
+508\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
-508\. Whoever voluntarily causes or attempts to cause any person to do anything which that person is not legally bound to do, or to omit to do anything which he is legally entitled to do, by inducing or attempting to induce that person to believe that he, or any person in whom he is interested, will become or will be rendered by some act of the offender an object of divine displeasure if he does not do the thing which it is the object of the offender to cause him to do, or if he does the thing which it is the object of the offender to cause him to omit, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
-
-Illustration
-
-(a)Aperforms a ceremony atZ’s door with the intention of causing it to be believed that by so doing he rendersZan object of divine displeasure, unlessZdoes something he is not legally bound to do.Ahas committed the offence defined in this section.
-
-(b)AthreatensZthat unlessZperforms a certain act,Awill kill one ofA’s own children, under such circumstances that the killing would be believed to renderZan object of divine displeasure.Ahas committed the offence defined in this section.
-
-[Indian PC 1860, s. 508]
-
-### Word or gesture intended to insult the modesty of a woman
-
-509\. Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen by such woman, or intrudes upon the privacy of such woman, shall be punished with imprisonment for a term which may extend to one year, or with fine, or with both.
-
-[Indian PC 1860, s. 509]
+509\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 510\. [Repealed by Act 5 of 2015 wef 01/04/2015]
 
@@ -6945,27 +8794,136 @@ Illustration
 
 Attempts to commit offences
 
-### Punishment for attempting to commit offences
+### Attempt to commit offence
 
-511\.—(1) Subject to subsection (2), whoever attempts to commit an offence punishable by this Code or by any other written law with imprisonment or fine or with a combination of such punishments, or attempts to cause such an offence to be committed, and in such attempt does any act towards the commission of the offence, shall, where no express provision is made by this Code or by such other written law, as the case may be, for the punishment of such attempt, be punished with such punishment as is provided for the offence.
+511\.—(1) A person attempts to commit an offence punishable by this Code or by any other written law who, with the intention of committing that offence takes a substantial step towards the commission of that offence.
 
-[51/2007]
+(2) For the purposes of subsection (1), an act is a substantial step towards the commission of an offence if it is strongly corroborative of an intention to commit the offence and the following are examples of acts which in the circumstances of each case may constitute taking a substantial step:
 
-(2) The longest term of imprisonment that may be imposed under subsection (1) shall not exceed —
+(a) lying in wait, searching for or following the contemplated victim of the offence;
 
-(a) 15 years where such attempt is in relation to an offence punishable with imprisonment for life; or
+(b) enticing or seeking to entice the contemplated victim of the offence to go to the place contemplated for its commission;
 
-(b) one-half of the longest term provided for the offence in any other case.
+(c) reconnoitring the place contemplated for the commission of the offence;
 
-[51/2007]
+(d) unlawful entry of a place in which it is contemplated that the offence will be committed;
+
+(e) possession of materials to be employed in the commission of the offence, that are specially designed for such unlawful use or that can serve no lawful purpose of the person in such possession under the circumstances;
+
+(f) possession, collection or fabrication of materials to be employed in the commission of the offence, at or near the place contemplated for its commission, if such possession, collection or fabrication serves no lawful purpose of the person mentioned in subsection (1) under the circumstances;
+
+(g) soliciting an innocent agent to engage in conduct constituting a physical element of the offence.
+
+(3) A person may attempt the doing of a thing despite the existence of facts of which he is unaware which make the doing of the thing impossible.
 
 Illustrations
 
-(a)Amakes an attempt to steal some jewels by breaking open a box, and finds after so opening the box that there is no jewel in it. He has done an act towards the commission of theft, and therefore is guilty under this section.
+(a)Amakes an attempt to steal some jewels by breaking open a box, and finds after so opening the box that there is no jewel in it. He has taken a substantial step towards the commission of theft, and therefore is guilty of attempted theft.
 
-(b)Amakes an attempt to pick the pocket ofZby thrusting his hand intoZ’s pocket.Afails in the attempt in consequence ofZ’s having nothing in his pocket.Ais guilty under this section.
+(b)Amakes an attempt to pick the pocket ofZby thrusting his hand intoZ’s pocket.Afails in the attempt in consequence ofZ’s having nothing in his pocket.Ais guilty of attempted theft even though it was not possible forAto steal any thing fromZ’s empty pocket.
 
-[Indian PC 1860, s. 511]
+(c) WhenZis not looking,AopensZ’s bag and takes away an electronic device with the intention of stealing it fromZ.Agenuinely believes that the electronic device belongs toZbut it in fact belongs toA, who had previously lent it toZ.Ais guilty of attempted theft even though it was not possible forAto have committed theft ofA’s own device.
+
+(d)AandZare friends who share a room in whichZkeeps a personal safe with a combination lock.Apeeps atZopening the safe in order to memorise the combination code to the safe. WhenZis out of the room,Aattempts to remember the code to unlockZ’s safe with the intention of stealing the cash in the safe.Atries several times but is unable to remember the code correctly beforeZreturns.Ais guilty of an offence of attempted theft even though he could not have opened the safe because of his inept memory of the code.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+### Punishment for attempting to commit offences
+
+512\.—(1) A person who attempts to commit an offence punishable by this Code or by any other written law with death or imprisonment for life, shall, where no express provision is made by this Code or by such other written law for the punishment of such attempt, be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+
+Illustration
+
+Aattempts to commit kidnapping ofBin order thatBmay be murdered but did not succeed. IfAhad committed kidnapping in order to murder, he would have been punished with death or imprisonment for life (and would, if not sentenced to death, also be liable to caning).Ashall be punished with imprisonment for a term which may extend to 20 years, and shall also be liable to fine or to caning.
+
+(2) Subject to subsection (3), any person who attempts to commit an offence punishable by this Code or by any other written law (other than an offence mentioned in subsection (1)), shall, where no express provision is made by this Code or by such other written law for the punishment of such attempt, be punished with such punishment as is prescribed for that offence.
+
+(3) Despite subsection (2), where the punishment prescribed for an offence mentioned in that subsection is fixed by law, a specified minimum sentence or a mandatory minimum sentence of imprisonment or fine or caning, the court sentencing the person who attempted to commit the offence —
+
+(a) shall not be bound to impose such fixed, specified or mandatory minimum sentence; and
+
+(b) may sentence the offender to such sentence or combination of sentences as the court thinks fit but not exceeding the maximum punishment prescribed for that offence.
+
+(4) To avoid doubt, nothing in subsection (3)(b) empowers a court to impose a type of punishment that is not prescribed for an offence mentioned in subsection (2) or otherwise provided by any written law for that offence.
+
+Illustration
+
+Aattempts to commit robbery but did not succeed. IfAhad committed robbery, he would have been subject to a mandatory minimum term of imprisonment of not less than 2 years and mandatory caning of a minimum of 6 strokes. As the court is not bound to impose the minimum mandatory punishment prescribed for robbery,Amay be sentenced to 6 months imprisonment with no caning for attempted robbery. However, the court may not sentenceAto a fine, as this is not a prescribed punishment for robbery but the court may sentenceAto probation if he is a young offender.
+
+[Act 15 of 2019 wef 01/01/2020]
+
+## THE SCHEDULE
+
+Section 4B(2) and (3)
+
+Specified offences deemed to be
+
+
+
+
+committed in Singapore
+
+1. 
+
+Communicating false information of harmful thing under section 268A.
+
+2. 
+
+Placing or sending thing causing fear of harm under sections 268B and 268C.
+
+3. 
+
+Theft under sections 379 to 382.
+
+4. 
+
+Extortion and related offences under sections 384 to 389.
+
+5. 
+
+Robbery and related offences under sections 392 to 402.
+
+6. 
+
+Dishonest misappropriation of property under sections 403 and 404.
+
+7. 
+
+Criminal breach of trust under sections 406 to 409.
+
+8. 
+
+Receiving stolen property and related offences under sections 411 to 414.
+
+9. 
+
+Cheating and related offences under sections 417 to 420.
+
+10. 
+
+Obtaining services dishonestly or fraudulently under section 420A.
+
+11. 
+
+Offences relating to fraudulent deeds and dispositions of property under sections 421 to 424.
+
+12. 
+
+Fraud by false representation, non-disclosure or abuse of position under section 424A.
+
+13. 
+
+Forgery and related offences under sections 465 to 477A.
+
+14. 
+
+Offences relating to currency and bank notes under sections 489A to 489I.
+
+15. 
+
+All other offences in this Code or any other written law with fault elements of fraud, dishonesty or deception but excluding any offence under the Prevention of Corruption Act (Cap. 241) and the Securities and Futures Act (Cap. 289).
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ## LEGISLATIVE SOURCE KEY
 
@@ -7033,7 +8991,7 @@ UPA 1998 Ed.
 
 :
 
-Singapore, Undesirable Publications Act (Chater 338, 1998 Ed.)
+Singapore, Undesirable Publications Act (Chapter 338, 1998 Ed.)
 
 WC 1997 Ed.
 
@@ -7328,3 +9286,8 @@ This Ordinance was deemed to have come into operation on the same date as the St
 ||Date of First Reading|20 March 2018 (Bill No. 20/2018 published on 20 March 2018)|
 ||Date of Second and Third Readings|18 May 2018|
 ||Date of commencement|19 December 2018|
+|56.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019|
+|||(Bill No. 6/2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
