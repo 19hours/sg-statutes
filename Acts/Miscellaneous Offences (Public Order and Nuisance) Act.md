@@ -52,6 +52,8 @@
 
 - [14C Furnishing of information](#Furnishing-of-information)
 
+- [14D Communicating false message](#Communicating-false-message)
+
 - [15 Relief for occupier of premises from nuisance](#Relief-for-occupier-of-premises-from-nuisance)
 
 - [16 Obstruction in canals, etc.](#Obstruction-in-canals-etc)
@@ -68,7 +70,7 @@
 
 - [21 Wilful trespass on property](#Wilful-trespass-on-property)
 
-- [22 Possession of housebreaking implements or offensive weapons](#Possession-of-housebreaking-implements-or-offensive-weapons)
+- [22 Loitering in place, vessel, etc., without satisfactory explanation](#Loitering-in-place-vessel-etc-without-satisfactory-explanation)
 
 - [22A Carrying truncheons, etc., in public places](#Carrying-truncheons-etc-in-public-places)
 
@@ -372,6 +374,18 @@ OFFENCES AGAINST PUBLIC ORDER AND NUISANCE
 
 [12/96]
 
+### Communicating false message
+
+14D\.—(1) Any person who transmits or causes to be transmitted a message which he knows to be false or fabricated shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+
+(2) In subsection (1) —
+
+“message” means any sign, signal, writing, image, sound, intelligence or information of any nature transmitted by telecommunications;
+
+“telecommunications” means a transmission, emission or reception of signs, signals, writing, images, sounds or intelligence of any nature by wire, radio, optical or other electro‑magnetic systems whether or not such signs, signals, writing, images, sounds or intelligence have been subjected to rearrangement, computation or other processes by any means in the course of their transmission, emission or reception.
+
+[Act 15 of 2019 wef 01/01/2020]
+
 ### Relief for occupier of premises from nuisance
 
 15\.—(1) A Magistrate’s Court may act under this section on a complaint made by the occupier of any premises on the ground that as occupier of the premises he is aggrieved by noise amounting to a nuisance.
@@ -460,35 +474,15 @@ OTHER OFFENCES
 
 (2) Any officer or non-commissioned officer of the army, navy or air force of Singapore or of any visiting forces lawfully present in Singapore may, with or without warrant, arrest any person offending in his view against the provisions of this section, and that person may be brought before a Magistrate’s Court to be dealt with according to law.
 
-### Possession of housebreaking implements or offensive weapons
+### Loitering in place, vessel, etc., without satisfactory explanation
 
-22\.—(1) Any person who is found —
+22\. 
 
-(a) armed with any dangerous or offensive instrument without lawful authority or a lawful purpose;
+—(1) [Deleted by Act 15 of 2019 wef 01/01/2020]
 
-(b) having his face covered or otherwise found disguised with intent to commit any offence; or
+(2) [Deleted by Act 15 of 2019 wef 01/01/2020]
 
-(c) armed with any article or instrument for use in the course of or in connection with any housebreaking,
-
-shall be guilty of an offence and shall be liable on conviction to imprisonment for a term not exceeding 2 years; and any instrument or article found in the possession of that person shall be forfeited.
-
-[10/89; 12/96]
-
-(2) In any prosecution for an offence under subsection (1)(a), it shall be sufficient for the prosecution to allege and prove that the accused was found to be armed with any dangerous or offensive instrument and the onus shall then be upon the accused to show that he had lawful authority or a lawful purpose to be so armed.
-
-[12/96]
-
-(3) An instrument shall be presumed to be carried with lawful authority if it is carried —
-
-(a) by any member of the Singapore Armed Forces, the Singapore Police Force, the Singapore Civil Defence Force, any auxiliary police force created under any written law, a forensic specialist or civilian police assistant acting in the course of his duty as such in accordance with the Police Force Act (Cap. 235), or of any visiting force lawfully present in Singapore under the provisions of any law relating to visiting forces; or
-
-[3/2005 wef 10/06/2005]
-
-[Act 10 of 2015 wef 01/06/2015]
-
-(b) by any person as part of his official or ceremonial dress on any official or ceremonial occasion.
-
-[12/96]
+(3) [Deleted by Act 15 of 2019 wef 01/01/2020]
 
 (4) Any person who —
 
@@ -500,9 +494,13 @@ shall be guilty of an offence and shall be liable on conviction to imprisonment 
 
 [10/89]
 
-(5) Every offence under this section shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
+(5) Any offence under this section shall be deemed to be a seizable offence within the meaning of the Criminal Procedure Code (Cap. 68).
 
 [10/89]
+
+[Act 15 of 2019 wef 01/01/2020]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Carrying truncheons, etc., in public places
 
@@ -1027,3 +1025,7 @@ This Legislative History is provided for the convenience of users of the Miscell
 ||Date of First Reading|29 January 2015 (Bill No. 5/2015 published on 29 January 2015)|
 ||Date of Second and Third Readings|13 March 2015|
 ||Date of commencement|1 June 2015|
+|51.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
