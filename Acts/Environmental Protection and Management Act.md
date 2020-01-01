@@ -2565,19 +2565,67 @@ is more than 500 mm long but not more than 1500 mm long and contains not more th
 
 is more than 1500 mm long and contains not more than 13 mg of mercury.
 
-Mercury in Clinical Thermometers
-
 Mercury compounds including inorganic mercury compounds, alkyl mercury compounds, alkyloxyalkyl and aryl mercury compounds, and other organic compounds of mercury
 
 Mercury and its compounds in batteries
 
 Batteries (including those in button form) containing not more than 0.0005% by weight of mercury per cell.
 
-Mercury in fluorescent lamps (primarily for lighting purposes)
+Mercury in cold cathode fluorescent lamps and external electrode fluorescent lamps used for electronic displays
 
-Compact fluorescent lamps containing mercury not exceeding 5 mg.
+Cold cathode fluorescent lamps or external electrode fluorescent lamps used for electronic displays, that —
 
-Linear or circular fluorescent lamps containing mercury not exceeding 10 mg;
+(a)
+
+are not more than 500 mm long and contain not more than 3.5 mg of mercury per lamp;
+
+(b)
+
+are more than 500 mm long but not more than 1500 mm long and contain not more than 5 mg of mercury per lamp; or
+
+(c)
+
+are more than 1500 mm long and contain not more than 13 mg of mercury per lamp.
+
+Mercury in fluorescent lamps (primarily for general lighting purposes)
+
+Compact fluorescent lamps containing mercury not exceeding 5 mg per lamp;
+
+Triband phosphor linear fluorescent lamps of less than 60 W per lamp containing mercury not exceeding 5 mg per lamp;
+
+Circular fluorescent lamps and other linear fluorescent lamps containing mercury not exceeding 10 mg per lamp.
+
+Mercury in high pressure mercury vapour lamps (primarily for general lighting purposes)
+
+Mercury in switches and relays
+
+Very high accuracy capacitance and loss measurement bridges and high frequency radio frequency switches and relays in monitoring and control instruments containing mercury not exceeding 20 mg per bridge, switch or relay.
+
+Mercury in the following non‑electronic measuring devices:
+
+Barometers
+
+
+
+
+Hygrometers
+
+
+
+
+Manometers
+
+
+
+
+Thermometers
+
+
+
+
+Sphygmomanometers
+
+Non-electronic measuring devices installed in large‑scale equipment or those used for high precision measurement, where no suitable mercury free alternative is available.
 
 Metanil yellow (sodium salt of metanilylazo-diphenylamine)
 
@@ -3077,6 +3125,8 @@ Tris (2, 3-dibromo-l-propyl) phosphate
 
 Tungsten hexafluoride
 
+[S 784/2017 wef 01/01/2020]
+
 [S 359/2018 wef 01/01/2019]
 
 [S 783/2017 wef 30/06/2018]
@@ -3503,6 +3553,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|30 June 2018|
 |29.|**G.N. No. S 359/2018—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2018**|
 ||Date of commencement|1 January 2019|
+|30.|**G.N. No. S 784/2017—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 4) Order 2017**|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
