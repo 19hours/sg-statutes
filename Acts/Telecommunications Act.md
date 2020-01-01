@@ -152,7 +152,7 @@
 
 - [44 Possession or supply of any thing for fraudulent purpose in connection with use of telecommunication service](#Possession-or-supply-of-any-thing-for-fraudulent-purpose-in-connection-with-use-of-telecommunication-service)
 
-- [45 Sending false message](#Sending-false-message)
+- [45 (Repealed)](#Repealed)
 
 - [46 Fraudulent retention of messages](#Fraudulent-retention-of-messages)
 
@@ -2570,13 +2570,7 @@ he shall be guilty of an offence.
 
 (5) A person guilty of an offence under this section shall be liable on conviction to a fine not exceeding $100,000 or to imprisonment for a term not exceeding 10 years or to both.
 
-### Sending false message
-
-45\. Any person who transmits or causes to be transmitted a message which he knows to be false or fabricated shall be guilty of an offence and shall be liable on conviction —
-
-(a) in the case where the false or fabricated message contains any reference to the presence in any place or location of a bomb or other thing liable to explode or ignite, to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 7 years or to both; and
-
-(b) in any other case, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 3 years or to both.
+45\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
 ### Fraudulent retention of messages
 
@@ -2874,7 +2868,9 @@ and may search any person so arrested, except that no female shall be searched e
 
 (2) Every person so arrested shall, together with any article as to which an offence may have been committed or attempted to be committed, be taken to a police station.
 
-(3) For the purposes of this section, offences punishable under sections 33, 41, 42, 43, 44, 45, 46, 49 and 52 shall be deemed to be seizable offences within the meaning of the Criminal Procedure Code (Cap. 68).
+(3) For the purposes of this section, offences punishable under sections 33, 41, 42, 43, 44, 46, 49 and 52 shall be deemed to be seizable offences within the meaning of the Criminal Procedure Code (Cap. 68).
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Powers of search and arrest in respect of offences under section 33 or 44
 
@@ -3471,6 +3467,10 @@ This Legislative History is provided for the convenience of users of the Telecom
 ||Date of First Reading|27 February 2018 (Bill No. 11/2018 published on 27 February 2018)|
 ||Date of Second and Third Readings|21 March 2018|
 ||Date of commencement|16 May 2018|
+|9.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 Telecommunications Act
