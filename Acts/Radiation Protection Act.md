@@ -1453,19 +1453,19 @@ Term which may extend to 10 years
 
 20.
 
-Section 407 (Criminal breach of trust by carrier, etc.)
+Section 407 (Criminal breach of trust of property entrusted for purposes of transportation or storage)
 
 Term which may extend to 20 years
 
 21.
 
-Section 408 (Criminal breach of trust by clerk or servant)
+Section 408 (Criminal breach of trust by employees)
 
 Term which may extend to 20 years
 
 22.
 
-Section 409 (Criminal breach of trust by public servant, or by banker, merchant, or agent)
+Section 409 (Criminal breach of trust by public servant, or by banker, merchant, agent, director, officer, partner, key executive or fiduciary)
 
 Term which may extend to 30 years
 
@@ -1499,6 +1499,8 @@ Section 468 (Forgery for purpose of cheating)
 
 Term which may extend to 15 years.
 
+[Act 15 of 2019 wef 01/01/2020]
+
 [Act 20 of 2014 wef 21/10/2014]
 
 ## LEGISLATIVE HISTORY
@@ -1511,26 +1513,7 @@ This Legislative History is provided for the convenience of users of the Radiati
 
 ||||
 |:-|:-|:-|
-|1.|**Act 8 of 1991—Radiation Protection Act 1991**|
-||Date of First Reading|9 November 1990|
-|||(Bill No. 34/90 published on 12 November 1990)|
-||Date of Second and Third Readings|3 January 1991|
-||Date of commencement|1 February 1992|
-|2.|**1992 Revised Edition—Radiation Protection Act (Chapter 262)**|
-||Date of operation|9 March 1992|
-|3.|**Act 24 of 1999—Dentists Act 1999**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|4 May 1999|
-|||(Bill No. 17/99 published on 5 May 1999)|
-||Date of Second and Third Readings|6 July 1999|
-||Date of commencement|15 October 1999|
-|4.|**Act 4 of 2001—Health Sciences Authority Act 2001**|
-||(Consequential amendments made to Act by)||
-||Date of First Reading|12 January 2001|
-|||(Bill No. 3/2001 published on 13 January 2001)|
-||Date of Second and Third Readings|22 February 2001|
-||Date of commencement|1 April 2001|
-|5.|**Act 27 of 2007—Radiation Protection Act 2007**|
+|1.|**Act 27 of 2007—Radiation Protection Act 2007**|
 ||Date of First Reading|9 April 2007|
 |||(Bill No. 14/2007 published on 10 April 2007)|
 ||Date of Second and Third Readings|21 May 2007|
@@ -1539,16 +1522,20 @@ Note:
 
 The Radiation Protection Act 2007 repealed and re-enacted with amendments to the Radiation Protection Act (Chapter 262, 1992 Revised Edition).
 
-|6.|**2008 Revised Edition—Radiation Protection Act (Chapter 262)**|
+|2.|**2008 Revised Edition—Radiation Protection Act (Chapter 262)**|
 ||Date of operation|31 March 2008|
-|7.|**Act 20 of 2014—Radiation Protection (Amendment) Act 2014**|
+|3.|**Act 20 of 2014—Radiation Protection (Amendment) Act 2014**|
 ||Date of First Reading|26 May 2014 (Bill No. 14/2014 published on 26 May 2014)|
 ||Date of Second and Third Readings|7 July 2014|
 ||Date of commencement|21 October 2014 (except sections 3(2) and 9(2) to (5))|
-|8.|**Act 20 of 2014—Radiation Protection (Amendment) Act 2014**|
+|4.|**Act 20 of 2014—Radiation Protection (Amendment) Act 2014**|
 ||Date of First Reading|26 May 2014 (Bill No. 14/2014 published on 26 May 2014)|
 ||Date of Second and Third Readings|7 July 2014|
 ||Date of commencement|7 May 2016 (Sections 3(2) and 9(2) to (5))|
+|5.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+||Date of First Reading|11 February 2019 (Bill No. 6/2019 published on 11 February 2019)|
+||Date of Second and Third Readings|6 May 2019|
+||Date of commencement|1 January 2020|
 ## COMPARATIVE TABLE
 
 Radiation Protection Act
