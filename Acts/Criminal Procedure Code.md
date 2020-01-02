@@ -88,7 +88,7 @@
 
 - [35 Powers to seize property in certain circumstances](#Powers-to-seize-property-in-certain-circumstances)
 
-- [36 Forfeiture of counterfeit coin or counterfeit currency note or bank note, etc.Forfeiture of counterfeit currency or bank note, etc.](#Forfeiture-of-counterfeit-coin-or-counterfeit-currency-note-or-bank-note-etcForfeiture-of-counterfeit-currency-or-bank-note-etc)
+- [36 Forfeiture of counterfeit currency or bank note, etc.](#Forfeiture-of-counterfeit-currency-or-bank-note-etc)
 
 - [37 List of all things seized to be made and signed](#List-of-all-things-seized-to-be-made-and-signed)
 
@@ -1192,13 +1192,13 @@ PRELIMINARY
 
 (a) an offence under section 354, 354A, 355, 372, 373, 373A, 375, 376, 376A, 376AA, 376B, 376C, 376D, 376E, 376EA, 376EB, 376EC, 376ED, 376EE, 376F, 376G, 376H, 377(3), 377A, 377B(3), 377BA, 377BB, 377BC, 377BD, 377BE or 377BF of the Penal Code; or
 
-[Act 15 of 2019 wef 01/01/2020]
-
 (b) an offence under section 140, 141, 142, 143, 144, 145, 146, 146A, 147 or 148 of the Women’s Charter (Cap. 353),
 
 and includes an abetment of, a conspiracy to commit, or an attempt to commit, such an offence;
 
 [Act 19 of 2018 wef 17/09/2018]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 “signed” or “signature” and its grammatical variations has the same meaning as in section 2(1) of the Electronic Transactions Act (Cap. 88);
 
@@ -5092,8 +5092,6 @@ Transmission proceedings
 [Act 19 of 2018 wef 17/09/2018]
 
 (g) for every statement mentioned in paragraph (f), a transcript (if any) of the audiovisual recording of that statement.
-
-[Act 19 of 2018 wef 17/09/2018]
 
 [Act 19 of 2018 wef 17/09/2018]
 
@@ -15625,7 +15623,7 @@ Magistrate’s Court or District Court
 
 Mischief, and thereby causing disruption to key service, etc.
 
-Ditto
+May arrest without warrant
 
 Warrant
 
@@ -15793,7 +15791,7 @@ Ditto
 
 Ditto
 
-Bailable
+Not bailable
 
 Imprisonment for 10 years, and fine
 
@@ -16444,6 +16442,8 @@ According to sections 7, 8 and 9 of this Code
 [Act 19 of 2018 wef 31/10/2018]
 
 [Act 15 of 2019 wef 01/01/2020]
+
+[S 851/2019 wef 02/01/2020]
 
 SECOND SCHEDULE
 
@@ -20028,3 +20028,5 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 |||(Bill No. 6/2019)|
 ||Date of Second and Third Readings|6 May 2019|
 ||Date of commencement|1 January 2020|
+|32.|**G. N. No. S 851/2019—Criminal Procedure Code (Amendment of First Schedule) Order 2019**|
+||Date of commencement|2 January 2020|
