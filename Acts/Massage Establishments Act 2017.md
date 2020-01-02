@@ -1308,6 +1308,12 @@ Section 376A
 
 Sexual penetration of minor under 16
 
+11A.
+
+Section 376AA
+
+Exploitative sexual penetration of minor of or above 16 but below 18 years of age
+
 12.
 
 Section 376B
@@ -1334,11 +1340,29 @@ Sexual grooming of minor under 16
 
 15A.
 
+Section 376EA
+
+Exploitative sexual grooming of minor of or above 16 but below 18 years of age
+
+15B.
+
+Section 376EB
+
+Sexual communication with minor below 16 years of age
+
+15C.
+
+Section 376EC
+
+Exploitative sexual communication with minor of or above 16 but below 18 years of age
+
+15D.
+
 Section 376ED
 
 Sexual activity or image in presence of minor below 16 years of age
 
-15B.
+15E.
 
 Section 376EE
 
@@ -1352,45 +1376,89 @@ Procurement of sexual activity with person with mental disability
 
 16A.
 
-Section 377BA
+Section 376H
 
-Word or gesture intended to insult the modesty of any person
+Procurement of sexual activity by deception or false representation
 
 16B.
+
+Section 377BA
+
+Word or gesture intended to insult modesty of any person
+
+16C.
 
 Section 377BB
 
 Voyeurism
 
-16C.
+16D.
 
 Section 377BC
 
 Distribution of voyeuristic image or recording
 
-16D.
+16E.
 
 Section 377BD
 
 Possession of or gaining access to voyeuristic or intimate image or recording
 
-16E.
+16F.
 
 Section 377BE
 
 Distributing or threatening to distribute intimate image or recording
 
-16F.
+16G.
 
 Section 377BF
 
 Sexual exposure
+
+16H.
+
+Section 377BG
+
+Using or involving child in production of child abuse material
+
+16I.
+
+Section 377BH
+
+Producing child abuse material
+
+16J.
+
+Section 377BI
+
+Distributing or selling child abuse material
+
+16K.
+
+Section 377BJ
+
+Advertising or seeking child abuse material
+
+16L.
+
+Section 377BK
+
+Possession of or gaining access to child abuse material
+
+16M.
+
+Section 377BL
+
+Exploitation by abusive material of minor of or above 16 but below 18 years of age
 
 17.
 
 Section 509 (as in force before the date of commencement of section 178 of the Criminal Law Reform Act 2019)
 
 Word or gesture intended to insult the modesty of a woman
+
+[S 854/2019 wef 02/01/2020]
 
 [Act 15 of 2019 wef 01/01/2020]
 
