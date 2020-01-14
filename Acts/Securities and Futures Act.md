@@ -1388,7 +1388,7 @@
 
 - [258 Application and moneys to be held in trust in separate bank account until allotment](#Application-and-moneys-to-be-held-in-trust-in-separate-bank-account-until-allotment)
 
-- [259 Allotment of securities where prospectus indicates application to list on securities exchange Allotment of securities or securities-based derivatives contracts where prospectus indicates application to list on approved exchange](#Allotment-of-securities-where-prospectus-indicates-application-to-list-on-securities-exchange-Allotment-of-securities-or-securities-based-derivatives-contracts-where-prospectus-indicates-application-to-list-on-approved-exchange)
+- [259 Allotment of securities or securities-based derivatives contracts where prospectus indicates application to list on approved exchange](#Allotment-of-securities-or-securities-based-derivatives-contracts-where-prospectus-indicates-application-to-list-on-approved-exchange)
 
 - [260 Prohibition of allotment unless minimum subscription received](#Prohibition-of-allotment-unless-minimum-subscription-received)
 
@@ -1844,7 +1844,9 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 (i) has all of the following characteristics:
 
-(A) the arrangement is constituted in the form of an entity or as a trust on or after 1 July 2013;
+(A) the arrangement is constituted in the form of an entity, a sub-fund or as a trust on or after 1 July 2013;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (B) under the investment policy of the arrangement, investments are made for the purpose of giving participants in the arrangement the benefit of the results of the investments of the arrangement;
 
@@ -1854,7 +1856,9 @@ whether or not those rules, regulations, by-laws or similar body of statements a
 
 (A) the investment policy of the arrangement is clearly set out in a document that is provided to each participant in the arrangement before, or at the time, the participant first invests in the arrangement;
 
-(B) the entity or trust of which the arrangement is constituted is contractually bound to every participant in the arrangement to comply with the investment policy of the arrangement, as may be amended from time to time;
+(B) the entity, sub-fund or trust of which the arrangement is constituted is contractually bound to every participant in the arrangement to comply with the investment policy of the arrangement, as may be amended from time to time;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (C) the investment policy of the arrangement sets out the types of property which the arrangement is authorised to invest in, and the investment guidelines or restrictions that apply to the arrangement; or
 
@@ -1944,7 +1948,9 @@ but does not include —
 
 (ix) an arrangement arising out of a life policy within the meaning of the Insurance Act (Cap. 142);
 
-(x) a closed-end fund constituted either as an entity or a trust;
+(x) a closed-end fund constituted either as an entity, a sub-fund or a trust;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (xi) an arrangement under which the whole amount of each participant’s contribution is a deposit as defined in section 4B of the Banking Act (Cap. 19);
 
@@ -2000,6 +2006,10 @@ and a reference in this Act to a person connected to another person shall be con
 
 “corporation” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
+“custodian”, in relation to a collective investment scheme constituted as a VCC or sub‑fund, means an entity to which the assets of the scheme are entrusted for safekeeping;
+
+[Act 44 of 2018 wef 14/01/2020]
+
 “customer” means —
 
 (a) in relation to a holder of a capital markets services licence —
@@ -2030,7 +2040,7 @@ but does not include such person or class of persons as may be prescribed for th
 
 [Act 4 of 2017 wef 08/10/2018]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “dealing in capital markets products” has the meaning given to it in the Second Schedule;
 
@@ -2128,7 +2138,7 @@ but does not include —
 
 [Act 4 of 2017 wef 08/10/2018]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “exempt benchmark administrator” means a person who is exempted under section 123K(1) from the requirement to be an authorised benchmark administrator;
 
@@ -2184,9 +2194,9 @@ but does not include —
 
 “foreign company” has the same meaning as in section 4(1) of the Companies Act;
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “franchise” means a written agreement or arrangement between 2 or more persons by which —
 
@@ -2214,11 +2224,11 @@ but does not include —
 
 [Act 4 of 2017 wef 08/10/2018]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “holding company” has the same meaning as in section 5(4) of the Companies Act (Cap. 50);
 
@@ -2268,11 +2278,11 @@ whether those rules are made —
 
 “officer” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 [Deleted by Act 4/2017 wef 08/10/2018]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “organised market” has the meaning given to it in the First Schedule;
 
@@ -2430,9 +2440,13 @@ whether those rules are made —
 
 “responsible person”, in relation to a collective investment scheme, means —
 
-(a) in the case of a scheme which is constituted as a corporation, the corporation; or
+(a) in the case of a scheme that is constituted as a VCC or a sub-fund — the VCC;
 
-(b) in the case of a scheme which is not constituted as a corporation, the manager for the scheme;
+(b) in the case of a scheme that is constituted as a corporation other than a VCC — the corporation; or
+
+(c) in the case of any other scheme — the manager for the scheme;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 “securities” means —
 
@@ -2454,9 +2468,9 @@ but does not include —
 
 [Act 4 of 2017 wef 08/10/2018]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “securities-based derivatives contract” means any derivatives contract of which the underlying thing or any of the underlying things is a security or a securities index, but does not include any derivatives contract that is, or that belongs to a class of derivatives contracts that is, prescribed by regulations made under section 341;
 
@@ -2464,7 +2478,7 @@ but does not include —
 
 “Securities Industry Council” means the Securities Industry Council referred to in section 138;
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -2484,6 +2498,10 @@ but does not include —
 
 [Act 4 of 2017 wef 08/10/2018]
 
+“sub-fund” has the meaning given by section 2(1) of the Variable Capital Companies Act 2018;
+
+[Act 44 of 2018 wef 14/01/2020]
+
 “subsidiary” has the same meaning as in section 5 of the Companies Act;
 
 “substantial unitholder” —
@@ -2494,7 +2512,7 @@ but does not include —
 
 [2/2009 wef 19/11/2012]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “Take-over Code” means the Singapore Code on Take-overs and Mergers referred to in section 139 which is issued by the Authority under section 321(1);
 
@@ -2542,7 +2560,7 @@ and which, if executed, would result in a change in effective control of the pub
 
 [2/2009 wef 26/11/2010]
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “transaction information” means information relating to —
 
@@ -2651,6 +2669,10 @@ but does not include any arrangement, event, intangible property or transaction 
 (a) a named user; or
 
 (b) a group of users, from which the name of a user can be directly inferred;
+
+“VCC” means a VCC or variable capital company as defined in section 2(1) of the Variable Capital Companies Act 2018;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 “voting share” has the same meaning as in section 4(1) of the Companies Act (Cap. 50);
 
@@ -13084,7 +13106,7 @@ REPORTING OF DERIVATIVES CONTRACTS
 
 124\. In this Part, unless the context otherwise requires —
 
-[Deleted by Act 4/2017 wef08/10/2018]
+[Deleted by Act 4/2017 wef 08/10/2018]
 
 “market contract” means —
 
@@ -22789,7 +22811,9 @@ Authorisation and recognition
 
 286\.—(1) The Authority may, upon an application made to the Authority in such form and manner as may be prescribed by regulations made under section 341, authorise a collective investment scheme constituted in Singapore, subject to —
 
-(a) subsection (2);
+(a) subsection (2) or (2A), as the case may be;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (b) the conditions specified in subsection (3); and
 
@@ -22810,6 +22834,20 @@ Authorisation and recognition
 (c) there is a trust deed in respect of the scheme entered into by the manager and the trustee for the scheme that complies with prescribed requirements; and
 
 (d) the scheme, the manager for the scheme and the trustee for the scheme comply with this Act and the Code on Collective Investment Schemes.
+
+(2A) The Authority may authorise under subsection (1) a collective investment scheme constituted as a VCC or a sub-fund, if and only if the Authority is satisfied that —
+
+(a) there is a manager for the scheme that satisfies the requirements in subsection (3);
+
+(b) there is a custodian for the scheme that is a trustee approved under section 289;
+
+(c) the constitution of the VCC and contractual arrangements in respect of the scheme comply with prescribed requirements and the Variable Capital Companies Act 2018;
+
+(d) there are at least 3 directors of the VCC, at least one of whom is independent in accordance with the criteria set out in the Code on Collective Investment Schemes; and
+
+(e) the VCC, the scheme, the manager for the scheme and the custodian for the scheme comply with this Act and the Code on Collective Investment Schemes.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (3) It shall be a condition for the authorisation of a collective investment scheme under subsection (1) that —
 
@@ -22843,11 +22881,15 @@ the holder of a capital markets services licence for real estate investment trus
 
 [16/2003]
 
-(4) The Authority may authorise, under subsection (1), a collective investment scheme which is not constituted as a unit trust if and only if the Authority is satisfied that the scheme and the manager for the scheme comply with such requirements as may be prescribed.
+(4) The Authority may authorise, under subsection (1), a collective investment scheme which is not constituted as a unit trust, a VCC or a sub-fund if and only if the Authority is satisfied that the scheme and the manager for the scheme comply with such requirements as may be prescribed.
 
-(5) Without prejudice to subsection (2), the Authority may refuse to authorise any collective investment scheme under subsection (1) where it appears to the Authority that it is not in the public interest to do so.
+[Act 44 of 2018 wef 14/01/2020]
+
+(5) Without prejudice to subsection (2) or (2A), the Authority may refuse to authorise any collective investment scheme under subsection (1) where it appears to the Authority that it is not in the public interest to do so.
 
 [2/2009 wef 29/07/2009]
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (6) The Authority shall not refuse to authorise a collective investment scheme under subsection (1) without giving the person who made the application an opportunity to be heard, except that an opportunity to be heard need not be given if the refusal is on the ground that it is not in the public interest to authorise the collective investment scheme on the basis of any of the following circumstances:
 
@@ -22867,9 +22909,21 @@ the holder of a capital markets services licence for real estate investment trus
 
 (9) The Authority may publish for public information, in such manner as it considers appropriate, particulars of any collective investment scheme authorised under subsection (1).
 
-(10) The responsible person for a collective investment scheme authorised under subsection (1) and the approved trustee for the scheme, to the extent applicable, shall ensure that the conditions and requirements set out in subsections (2), (3) and (4), and every condition or restriction imposed by the Authority under subsection (1)(c) or (1A), as applicable to that scheme shall continue to be satisfied.
+(10) The responsible person for a collective investment scheme authorised under subsection (1) and either —
 
-[Act 34 of 2012 wef 18/03/2013]
+(a) the approved trustee for the scheme if it is one constituted as a unit trust; or
+
+(b) the custodian for the scheme if it is one constituted as a VCC or sub-fund,
+
+to the extent applicable, must ensure that —
+
+(c) every condition or requirement set out in subsection (2) or (2A) (as the case may be), and subsections (3) and (4); and
+
+(d) every condition or restriction imposed by the Authority under subsection (1)(c) or (1A),
+
+as applicable to that scheme, continue to be satisfied.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (10A) The manager of an authorised real estate investment trust must —
 
@@ -22906,6 +22960,10 @@ the holder of a capital markets services licence for real estate investment trus
 (13) The responsible person for a collective investment scheme which is authorised under subsection (1) shall furnish such information or record regarding the scheme as the Authority may, at any time, require for the proper administration of this Act.
 
 (14) Where the manager for a collective investment scheme which is constituted as a unit trust and authorised under subsection (1) fails to comply with this Act or the Code on Collective Investment Schemes, the Authority may direct the trustee for the scheme to remove that person and appoint a new manager for the scheme.
+
+(14A) Where the manager for a collective investment scheme that is constituted as a VCC or a sub-fund, and authorised under subsection (1), fails to comply with this Act or the Code on Collective Investment Schemes, the Authority may direct the VCC to remove that person and appoint a new manager for the scheme.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (15) Any person who contravenes subsection (10) or (13) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $100,000 and, in the case of a continuing offence, to a further fine not exceeding $10,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -23145,7 +23203,13 @@ as a result of the contravention; and
 
 (c) in the case of —
 
-(i) a scheme authorised under section 286, the responsible person for the scheme or the trustee for the scheme, where applicable, fails to comply with section 286(10) or (13); or
+(i) a scheme authorised under section 286 that is constituted as a unit trust, the responsible person for the scheme or the trustee for the scheme (where applicable) fails to comply with section 286(10) or (13);
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(ia) a scheme authorised under section 286 that is constituted as a VCC or as a sub-fund, the responsible person for the scheme, the manager for the scheme, or the custodian for the scheme (where applicable), fails to comply with section 286(10) or (13); or
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (ii) a scheme recognised under section 287, the responsible person for the scheme or the representative for the scheme, where applicable, fails to comply with section 287(9), (12) or (13).
 
@@ -23585,9 +23649,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 293\.—(1) The Authority may, where it thinks it necessary or expedient in the interests of the public or a section of the public or for the protection of investors, issue directions by notice in writing either of a general or specific nature to —
 
-(a) where a collective investment scheme is constituted as a corporation, the corporation;
+(a) where a collective investment scheme is constituted as a corporation, VCC or sub-fund of a VCC, the corporation or VCC, as the case may be;
 
-(b) the manager, trustee, or representative for a collective investment scheme; or
+[Act 44 of 2018 wef 14/01/2020]
+
+(b) the manager, trustee, custodian or representative for a collective investment scheme; or
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (c) any class of such persons referred to in paragraph (a) or (b).
 
@@ -23607,7 +23675,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 294\.—(1) Where a collective investment scheme —
 
-(a) is authorised under section 286, any document relating to the scheme shall be sufficiently served if served on the responsible person for the scheme at his last known address; or
+(a) is authorised under section 286 and constituted as a unit trust, any document relating to the scheme is sufficiently served if served on the responsible person for the scheme at his last known address;
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(aa) is authorised under section 286 and constituted as a VCC or sub-fund, any document relating to the scheme is sufficiently served if served on the VCC in accordance with section 149 of the Variable Capital Companies Act 2018; or
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (b) is recognised under section 287, any document relating to the scheme shall be sufficiently served if served on the responsible person for the scheme or the representative for the scheme at his last known address.
 
@@ -23615,11 +23689,27 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [1/2005]
 
-(2) Any notice or direction to be given or served by the Authority on a corporation (where a collective investment scheme is constituted as a corporation), the manager for a collective investment scheme, the trustee for a collective investment scheme or the representative for a collective investment scheme shall for all purposes be regarded as duly given or served if it has been delivered or sent by post or facsimile transmission to such person at his last known address.
+(2) Any notice or direction to be given or served by the Authority on —
+
+(a) in a case where a collective investment scheme is constituted as a corporation — the corporation;
+
+(b) in a case where a collective investment scheme is constituted as a VCC or a sub-fund — the VCC;
+
+(c) the manager for a collective investment scheme;
+
+(d) the trustee or custodian for a collective investment scheme; or
+
+(e) the representative for a collective investment scheme,
+
+is for all purposes regarded as duly given or served if it has been delivered or sent by post or by fax to such person at the person’s last known address.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (3) In the case of a corporation, the last known address referred to in subsections (1) and (2) shall be —
 
-(a) if it is a company incorporated in Singapore, the address of its registered office in Singapore; or
+(a) if it is a company or VCC incorporated in Singapore, the address of its registered office in Singapore; or
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (b) if it is a foreign company, the address of its registered office in Singapore or the registered address of its authorised representative, referred to in section 366(1) of the Companies Act, or, if it does not maintain a place of business in Singapore, its registered office in the place of its incorporation.
 
@@ -23629,13 +23719,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Winding up
 
-295\.—(1) Where a collective investment scheme is to be wound up, whether under this section or otherwise, the responsible person for the scheme shall give notice in writing of the proposed winding up to the Authority at least 7 days before the winding up.
+295\.—(1) Where a collective investment scheme (other than one constituted as a VCC or sub-fund) is to be wound up, whether under this section or otherwise, the responsible person for the scheme shall give notice in writing of the proposed winding up to the Authority at least 7 days before the winding up.
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(1A) Where a collective investment scheme constituted as a VCC or sub-fund is being wound up under the Variable Capital Companies Act 2018, the VCC must give written notice to the Authority of the winding up within 3 days after the commencement of the winding up.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (2) Where the Authority revokes or withdraws the authorisation of a collective investment scheme under section 288, the responsible person and, where applicable, the trustee shall take the necessary steps to wind up the scheme.
 
 (3) Where —
 
-(a) the responsible person for a collective investment scheme authorised under section 286 is in liquidation; or
+(a) the responsible person for a collective investment scheme authorised under section 286 which is constituted as a unit trust is in liquidation; or
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (b) in the opinion of the trustee for a collective investment scheme authorised under section 286 which is constituted as a unit trust, the responsible person for the scheme has ceased to carry on business or has, to the prejudice of the participants of the scheme, failed to comply with any provision of the trust deed in respect of the scheme,
 
@@ -23650,6 +23748,10 @@ the trustee shall summon a meeting of the participants for the purpose of determ
 (5) If at any such meeting a resolution is passed by a majority in number representing three-fourths in value of the participants present and voting either in person or by proxy at the meeting that the scheme to which the trust deed relates be wound up, the responsible person for the scheme and, where applicable, the trustee shall take the necessary steps to wind up the scheme.
 
 (6) Any responsible person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+(6A) Any VCC that without reasonable excuse contravenes subsection (1A) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (7) Any responsible person or, where applicable, trustee who contravenes subsection (2) or (5) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000.
 
@@ -25404,11 +25506,13 @@ before enabling him to submit his application to subscribe for or purchase units
 
 ### Transactions under exempted offers subject to Division 2 of Part XII of Companies Act and Part XII of this Act
 
-308\. For the avoidance of doubt, it is hereby declared that in relation to any transaction carried out under an exempted offer under this Part, nothing in this Part shall limit or diminish any liability which any person may incur in respect of any relevant offence under Division 2 of Part XII of the Companies Act (Cap. 50) or Part XII of this Act or any penalty, award of compensation or punishment in respect of any such offence.
+308\. For the avoidance of doubt, it is hereby declared that in relation to any transaction carried out under an exempted offer under this Part, nothing in this Part shall limit or diminish any liability which any person may incur in respect of any relevant offence under Division 2 of Part XII of the Companies Act (Cap. 50), Division 2 of Part 13 of the Variable Capital Companies Act 2018, or Part XII of this Act or any penalty, award of compensation or punishment in respect of any such offence.
 
 [1/2005]
 
-[Companies, s. 106L]
+[Act 44 of 2018 wef 14/01/2020]
+
+[[Companies, s. 106L]
 
 Division 3 —
 
@@ -27380,6 +27484,11 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|5 June 2018|
 |||29 October 2018|
+|31.|**Act 44 of 2018—Variable Capital Companies Act 2018**|
+||Date of First Reading|10 September 2018|
+|||(Bill No. 40/2018)|
+||Date of Second and Third Readings|1 October 2018|
+||Date of commencement|14 January 2020|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
