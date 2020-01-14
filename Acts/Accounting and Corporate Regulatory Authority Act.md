@@ -158,15 +158,13 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 “Authority” means the Accounting and Corporate Regulatory Authority established under section 3;
 
 “Chairman” means the Chairman of the Authority appointed under section 5(1)(a) and includes any temporary Chairman of the Authority;
 
 “Chief Executive” means the Chief Executive of the Authority, and includes any individual acting in that capacity;
-
-[Act 5 of 2018 wef 01/04/2018]
 
 “debenture” includes debenture stock;
 
@@ -181,6 +179,16 @@ PRELIMINARY
 “securities”, in relation to a company, includes shares, debentures, bonds and other securities of the company, whether or not constituting a charge on the assets of the company;
 
 “shares” includes stocks.
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(2) A reference in this Act to a written law specified in the Second Schedule includes a part of a written law specified in that Schedule.
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(3) To avoid doubt, a reference to “company” in the definition of “securities” in subsection (1), and in section 7(2)(b), includes a VCC as defined in the Variable Capital Companies Act 2018.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 ## PART II
 
@@ -1208,13 +1216,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [4/2010 wef 05/02/2010]
 
-(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005 (Act 5 of 2005); and
+(d) the Registrar of Limited Liability Partnerships and any Deputy or Assistant Registrar of Limited Liability Partnerships appointed under the Limited Liability Partnerships Act 2005 (Act 5 of 2005);
 
 [4/2010 wef 05/02/2010]
 
-(e) the Registrar of Limited Partnerships and any Deputy or Assistant Registrar of Limited Partnerships appointed under the Limited Partnerships Act 2008 (Act 37 of 2008).
+[Act 44 of 2018 wef 14/01/2020]
+
+(e) the Registrar of Limited Partnerships and any Deputy or Assistant Registrar of Limited Partnerships appointed under the Limited Partnerships Act 2008 (Act 37 of 2008); and
 
 [4/2010 wef 05/02/2010]
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(f) the Registrar of VCCs and any Deputy or Assistant Registrar of VCCs appointed under the Variable Capital Companies Act 2018.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 ### Preservation of secrecy
 
@@ -1424,6 +1440,10 @@ Written laws administered and enforced by Authority
 
 [S 253/2009 wef 04/05/2009]
 
+7. All Parts of the Variable Capital Companies Act 2018, other than Part 7.
+
+[Act 44 of 2018 wef 14/01/2020]
+
 THIRD SCHEDULE
 
 [Deleted by Act 5 of 2018 wef 01/04/2018]
@@ -1508,6 +1528,10 @@ This Legislative History is provided for the convenience of users of the Account
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|13.|**Act 44 of 2018—Variable Capital Companies Act 2018**|
+||Date of First Reading|10 September 2018 (Bill No. 40/2018 published on 10 September 2018)|
+||Date of Second and Third Readings|1 October 2018|
+||Date of commencement|14 January 2020|
 ## COMPARATIVE TABLE
 
 Accounting and Corporate Regulatory Authority Act
