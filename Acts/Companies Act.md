@@ -542,6 +542,8 @@
 
 - [155C Disqualification under Limited Liability Partnerships Act](#Disqualification-under-Limited-Liability-Partnerships-Act)
 
+- [155D Disqualification under VCC Act](#Disqualification-under-VCC-Act)
+
 - [156 Disclosure of interests in transactions, property, offices, etc.](#Disclosure-of-interests-in-transactions-property-offices-etc)
 
 - [157 As to the duty and liability of officers](#As-to-the-duty-and-liability-of-officers)
@@ -2162,6 +2164,14 @@ any shares in or debentures of, or any units of shares in or debentures of, a co
 “unit”, in relation to a share, debenture or other interest, means any right or interest, whether legal or equitable, in the share, debenture or other interest, by whatever name called and includes any option to acquire any such right or interest in the share, debenture or other interest;
 
 “unlimited company” means a company formed on the principle of having no limit placed on the liability of its members;
+
+“VCC” means a VCC or variable capital company as defined in section 2(1) of the VCC Act;
+
+[Act 44 of 2018 wef 14/01/2020]
+
+“VCC Act” means the Variable Capital Companies Act 2018;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 “voting share”, in relation to a body corporate, means an issued share in the body corporate, not being —
 
@@ -3857,9 +3867,11 @@ other than a trust for the purposes of an employees’ share scheme or on a pens
 
 (b) is identical to the name of any other company, limited liability partnership, limited partnership or corporation or to any registered business name;
 
-(c) is identical to a name reserved under subsection (12B), subsection (12B) as applied by section 357(2), or section 378(15), section 16 of the Business Names Registration Act 2014, section 19(4) of the Limited Liability Partnerships Act (Cap. 163A) or section 17(4) of the Limited Partnerships Act (Cap. 163B); or
+(c) is identical to a name reserved under subsection (12B), subsection (12B) as applied by section 357(2), or section 378(15), section 16 of the Business Names Registration Act 2014, section 19(4) of the Limited Liability Partnerships Act (Cap. 163A), section 17(4) of the Limited Partnerships Act (Cap. 163B), subsection (12B) as applied by section 21(8) of the VCC Act, or subsection (12B) as applied by section 133(2) of the VCC Act; or
 
 [Act 15 of 2017 wef 11/10/2017]
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (d) is a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
@@ -3881,15 +3893,27 @@ other than a trust for the purposes of an employees’ share scheme or on a pens
 
 (i) unless, in a case where the limited liability partnership was dissolved following its winding up under section 30 of, and the Fifth Schedule to, the Limited Liability Partnerships Act (Cap. 163A), a period of at least 2 years has passed after the date of dissolution; or
 
-(ii) unless, in a case where the limited liability partnership was dissolved following its name being struck off the register under section 38 of the Limited Liability Partnerships Act, a period of at least 6 years has passed after the date of dissolution; or
+(ii) unless, in a case where the limited liability partnership was dissolved following its name being struck off the register under section 38 of the Limited Liability Partnerships Act, a period of at least 6 years has passed after the date of dissolution;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (e) it is identical to the name of a limited partnership that was cancelled or dissolved —
 
 (i) unless, in a case where the registration of the limited partnership was cancelled under section 14(1) or 19(4) of the Limited Partnerships Act (Cap. 163B), a period of at least one year has passed after the date of cancellation; or
 
-(ii) unless, in a case where notice was lodged with the Registrar of Limited Partnerships that the limited partnership was dissolved under section 19(2) of the Limited Partnerships Act, a period of at least one year has passed after the date of dissolution.
+(ii) unless, in a case where notice was lodged with the Registrar of Limited Partnerships that the limited partnership was dissolved under section 19(2) of the Limited Partnerships Act, a period of at least one year has passed after the date of dissolution; or
 
 [Act 36 of 2014 wef 03/01/2016]
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(f) it is identical to the name of a VCC that was dissolved —
+
+(i) unless, in a case where the VCC was dissolved following its winding up under Part 11 of the VCC Act, a period of at least 2 years has passed after the date of dissolution; or
+
+(ii) unless, in a case where the VCC was dissolved following its name being struck off the register under section 344 or 344A of this Act as applied by section 130 of the VCC Act, a period of at least 6 years has passed after the date of dissolution.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (1B) Despite subsection (1), the Registrar may, on or after the date of commencement of section 22 of the Companies (Amendment) Act 2014, register a company under —
 
@@ -8818,6 +8842,18 @@ shall not act as director of, or in any way (whether directly or indirectly) tak
 
 [Act 36 of 2014 wef 03/01/2016]
 
+### Disqualification under VCC Act
+
+155D\.—(1) Subject to any leave which the Court may give pursuant to an application under subsection (3), a person who is subject to a disqualification, disqualification order or debarment order under section 56, 57, 58, 59 or 60 of the VCC Act must not act as director of, or in any way (whether directly or indirectly) take part in or be concerned in the management of, any company or any foreign company to which Division 2 of Part XI applies during the period of the disqualification, disqualification order or debarment order.
+
+(2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+(3) A person who is subject to a disqualification, disqualification order or debarment order mentioned in sections 56, 58, 59 and 60 of the VCC Act may apply to the Court for leave to act as director of, or to take part in or be concerned in the management of, a company or a foreign company to which Division 2 of Part XI applies during the period of the disqualification, disqualification order or debarment order, upon giving the Minister not less than 14 days’ notice of his intention to apply for such leave.
+
+(4) On the hearing of any application under subsection (3), the Minister may be represented at the hearing and may oppose the granting of the application.
+
+[Act 44 of 2018 wef 14/01/2020]
+
 ### Disclosure of interests in transactions, property, offices, etc.
 
 156\.—(1) Subject to this section, every director or chief executive officer of a company who is in any way, whether directly or indirectly, interested in a transaction or proposed transaction with the company shall as soon as is practicable after the relevant facts have come to his knowledge —
@@ -9168,17 +9204,25 @@ whichever is the earlier; but any approval may be previously revoked or varied b
 
 163\.—(1) Subject to this section and sections 163A and 163B, it shall not be lawful for a company (other than an exempt private company) —
 
-(a) to make a loan or quasi-loan to another company or a limited liability partnership;
+(a) to make a loan or quasi-loan to another company, a limited liability partnership or a VCC;
 
-(b) to enter into any guarantee or provide any security in connection with a loan or quasi-loan made to another company or a limited liability partnership by a person other than the first-mentioned company;
+[Act 44 of 2018 wef 14/01/2020]
 
-(c) to enter into a credit transaction as creditor for the benefit of another company or a limited liability partnership; or
+(b) to enter into any guarantee or provide any security in connection with a loan or quasi-loan made to another company, a limited liability partnership or a VCC by a person other than the first-mentioned company;
 
-(d) to enter into any guarantee or provide any security in connection with a credit transaction entered into by any person for the benefit of another company or a limited liability partnership,
+[Act 44 of 2018 wef 14/01/2020]
 
-if a director or directors of the first-mentioned company is or together are interested in 20% or more of the total voting power in the other company or the limited liability partnership, as the case may be, unless there is prior approval by the company in general meeting for the making of, provision for or entering into the loan, quasi-loan, credit transaction, guarantee or security (as the case may be) at which the interested director or directors and his or their family members abstained from voting.
+(c) to enter into a credit transaction as creditor for the benefit of another company, a limited liability partnership or a VCC; or
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(d) to enter into any guarantee or provide any security in connection with a credit transaction entered into by any person for the benefit of another company, a limited liability partnership or a VCC,
+
+if a director or directors of the first-mentioned company is or together are interested in 20% or more of the total voting power in the other company, the limited liability partnership or the VCC, as the case may be, unless there is prior approval by the company in general meeting for the making of, provision for or entering into the loan, quasi-loan, credit transaction, guarantee or security (as the case may be) at which the interested director or directors and his or their family members abstained from voting.
 
 [Act 36 of 2014 wef 03/01/2016]
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (2) Subsection (1) shall extend to apply to —
 
@@ -9228,11 +9272,17 @@ unless there is prior approval by the company in general meeting for taking part
 
 (3D) For the purposes of this section —
 
-(a) where a company makes a loan or quasi-loan to another company, enters into a credit transaction for the benefit of another company, gives a guarantee or provides security in connection with a loan, quasi-loan or credit transaction made to or entered into for the benefit of another company, or enters into an arrangement referred to in subsection (3A), a director or directors of the first-mentioned company shall not be taken to have an interest in shares in that other company by reason only that the first-mentioned company has an interest in shares in that other company and a director or directors have an interest in shares in the first-mentioned company;
+(a) where a company makes a loan or quasi-loan to another company or VCC, enters into a credit transaction for the benefit of another company or VCC, gives a guarantee or provides security in connection with a loan, quasi-loan or credit transaction made to or entered into for the benefit of another company or VCC, or enters into an arrangement referred to in subsection (3A), a director or directors of the first-mentioned company shall not be taken to have an interest in shares in that other company or VCC by reason only that the first-mentioned company has an interest in shares in that other company or VCC and a director or directors have an interest in shares in the first-mentioned company;
 
-(b) “interest in shares” has the meaning assigned to that expression in section 7;
+[Act 44 of 2018 wef 14/01/2020]
 
-(c) a person who has an interest in a share of a company under section 7 is to be treated as having an interest in the voting power conferred on the holder by that share;
+(b) the expression “interest in shares”, in relation to a company, has the meaning assigned to it in section 7 and, in relation to a VCC, has the meaning assigned to it in section 7 as applied by section 2(6) of the VCC Act and read with section 2(7) of that Act;
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(c) a person who has an interest in a share of a company or a VCC is to be treated as having an interest in the voting power conferred on the holder by that share;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (d) a reference to prior approval of the company in subsection (1) shall not include any approval of the company that is given after the loan, quasi-loan, credit transaction, guarantee or security referred to in that subsection has been made, provided for or entered into (as the case may be); and
 
@@ -9242,7 +9292,9 @@ unless there is prior approval by the company in general meeting for taking part
 
 (4) This section shall not apply —
 
-(a) to anything done by a company where the other company (whether that company is incorporated in Singapore or otherwise) is its subsidiary or holding company or a subsidiary of its holding company; or
+(a) to anything done by a company where the other company (whether that company is incorporated in Singapore or otherwise) or VCC is its subsidiary or holding company or a subsidiary of its holding company; or
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (b) to a company, whose ordinary business includes the lending of money or the giving of guarantees in connection with loans made by other persons, to anything done by the company in the ordinary course of that business if the activities of that company are regulated by any written law relating to banking, finance companies or insurance or are subject to supervision by the Monetary Authority of Singapore.
 
@@ -18610,7 +18662,9 @@ As to fee payable on registration of foreign company because of establishment of
 
 (b) is identical to a name of any other foreign company, or any company, limited liability partnership, limited partnership or corporation, or to a registered business name;
 
-(c) is identical to a name reserved under subsection (15) and section 27(12B) of this Act, section 16 of the Business Names Registration Act 2014, section 19(4) of the Limited Liability Partnerships Act (Cap. 163A) or section 17(4) of the Limited Partnerships Act (Cap. 163B); or
+(c) is identical to a name reserved under subsection (15) and section 27(12B) of this Act, section 16 of the Business Names Registration Act 2014, section 19(4) of the Limited Liability Partnerships Act (Cap. 163A), section 17(4) of the Limited Partnerships Act (Cap. 163B), or section 27(12B) as applied by section 21(8) of the VCC Act; or
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (d) is a name, or is a name of a kind that the Minister has directed the Registrar not to accept for registration.
 
@@ -18630,13 +18684,25 @@ As to fee payable on registration of foreign company because of establishment of
 
 (i) unless, in a case where the limited liability partnership was dissolved following its winding up under section 30 of, and the Fifth Schedule to, the Limited Liability Partnerships Act, a period of at least 2 years has passed after the date of dissolution; or
 
-(ii) unless, in a case where the limited liability partnership was dissolved following its name being struck off the register kept under section 38 of the Limited Liability Partnerships Act, a period of at least 6 years has passed after the date of dissolution; or
+(ii) unless, in a case where the limited liability partnership was dissolved following its name being struck off the register kept under section 38 of the Limited Liability Partnerships Act, a period of at least 6 years has passed after the date of dissolution;
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (e) it is identical to the name of a limited partnership that was cancelled or dissolved —
 
 (i) unless, in a case where the registration of the limited partnership was cancelled under section 14(1) or 19(4) of the Limited Partnerships Act, a period of at least one year has passed after the date of cancellation; or
 
-(ii) unless, in a case where notice was lodged with the Registrar of Limited Partnerships that the limited partnership was dissolved under section 19(2) of the Limited Partnerships Act, a period of at least one year has passed after the date of dissolution.
+(ii) unless, in a case where notice was lodged with the Registrar of Limited Partnerships that the limited partnership was dissolved under section 19(2) of the Limited Partnerships Act, a period of at least one year has passed after the date of dissolution; or
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(f) it is identical to the name of a VCC that was dissolved —
+
+(i) unless, in a case where the VCC was dissolved following its winding up under Part 11 of the VCC Act, a period of at least 2 years has passed after the date of dissolution; or
+
+(ii) unless, in a case where the VCC was dissolved following its name being struck off the register under section 344 or 344A of this Act as applied by section 130 of the VCC Act, a period of at least 6 years has passed after the date of dissolution.
+
+[Act 44 of 2018 wef 14/01/2020]
 
 (3) Despite subsection (1), the Registrar may, on or after the date of commencement of section 165 of the Companies (Amendment) Act 2014, register a foreign company under —
 
@@ -18891,11 +18957,19 @@ DIRECTORS OF COMPANIES
 
 (v) a limited liability partnership to which Part VIA of the Limited Liability Partnerships Act (Cap. 163A) applies, that is required to keep a register of controllers of limited liability partnerships under that Act;
 
-(vi) a limited liability partnership that is set out in the Sixth Schedule to the Limited Liability Partnerships Act; or
+(vi) a limited liability partnership that is set out in the Sixth Schedule to the Limited Liability Partnerships Act;
 
-(vii) a trustee of an express trust to which Part VII of the Trustees Act (Cap. 337) applies.
+[Act 44 of 2018 wef 14/01/2020]
+
+(vii) a trustee of an express trust to which Part VII of the Trustees Act (Cap. 337) applies; or
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(viii) a VCC.
 
 [Act 15 of 2017 wef 31/03/2017]
+
+[Act 44 of 2018 wef 14/01/2020]
 
 ### State of mind of corporation, unincorporated association, etc.
 
@@ -21704,6 +21778,11 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
+|113.|**Act 44 of 2018—Variable Capital Companies Act 2018**|
+||Date of First Reading|10 September 2018|
+|||(Bill No. 40/2018)|
+||Date of Second and Third Readings|1 October 2018|
+||Date of commencement|14 January 2020|
 ## COMPARATIVE TABLE
 
 Companies Act
