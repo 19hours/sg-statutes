@@ -52,6 +52,14 @@ An Act to enable Singapore to fulfil its obligations respecting Article 41 of th
 
 [Act 16 of 2016 wef 10/06/2016]
 
+(2A) The measures to be applied under subsection (1) do not apply to any VCC or class of VCCs to the extent that the VCC or class of VCCs is or may be subject to the directions or regulations made by the Monetary Authority of Singapore under section 83 of the Variable Capital Companies Act 2018.
+
+[Act 44 of 2018 wef 14/01/2020]
+
+(2B) In subsection (2A), “VCC” has the meaning given by section 2(1) of the Variable Capital Companies Act 2018.
+
+[Act 44 of 2018 wef 14/01/2020]
+
 (3) No regulation made under this Act shall be deemed to be invalid because it deals with any matter provided for by any written law, or because of repugnancy to or inconsistency with any written law other than the Constitution.
 
 (4) All regulations made under this Act shall be presented to Parliament as soon as possible after publication in theGazette.
@@ -129,3 +137,7 @@ This Legislative History is provided for the convenience of users of the United 
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|6.|**Act 44 of 2018—Variable Capital Companies Act 2018**|
+||Date of First Reading|10 September 2018 (Bill No. 40/2018 published on 10 September 2018)|
+||Date of Second and Third Readings|1 October 2018|
+||Date of commencement|14 January 2020|
