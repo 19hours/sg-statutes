@@ -200,6 +200,22 @@
 
 - [60H Rules](#Rules)
 
+[**Part VIIIB APPLICATION OF ACT TO VCCS**](#Part-VIIIB)
+
+- [60I Application of Act to instrument between sub-funds](#Application-of-Act-to-instrument-between-sub-funds)
+
+- [60J Application of Act to instrument with a sub-fund](#Application-of-Act-to-instrument-with-a-sub-fund)
+
+- [60K Modifications to section 22A](#Modifications-to-section-22A)
+
+- [60L Modifications to sections 23, 23A, 23B, 23C and 23D](#Modifications-to-sections-23-23A-23B-23C-and-23D)
+
+- [60M Modifications to other provisions](#Modifications-to-other-provisions)
+
+- [60N Fines on umbrella VCC considered liability of its sub-funds in certain cases](#Fines-on-umbrella-VCC-considered-liability-of-its-sub-funds-in-certain-cases)
+
+- [60O Rules](#Rules)
+
 [**Part IX OFFENCES AND PENALTIES**](#Part-IX)
 
 - [61 (Repealed)](#Repealed)
@@ -290,7 +306,7 @@ PRELIMINARY
 
 ### Interpretation
 
-2\. In this Act, unless the context otherwise requires —
+2\.—(1) In this Act, unless the context otherwise requires —
 
 [Deleted by Act 33/99 wef 09/01/2012]
 
@@ -370,7 +386,27 @@ and shall include any estate or interest therein;
 
 “stamp certificate” means a certificate that is issued electronically in respect of any instrument chargeable with duty denoting the amount of duty payable in respect of that instrument or that the duty otherwise chargeable in respect of that instrument is remitted;
 
-“stock” includes any share in the capital stock or funded debt of a company, corporation or society in Singapore or elsewhere and stocks or funds of the Government or of any other government or country.
+“stock” includes any share in the capital stock or funded debt of a company, corporation, society or VCC in Singapore or elsewhere and stocks or funds of the Government or of any other government or country;
+
+[Act 28 of 2019 wef 15/01/2020]
+
+“VCC Act” means the Variable Capital Companies Act 2018 (Act 44 of 2018).
+
+[Act 28 of 2019 wef 15/01/2020]
+
+(2) The following terms have the meanings given to them in the VCC Act:
+
+(a) share, in relation to a VCC;
+
+(b) sub-fund;
+
+(c) non-umbrella VCC;
+
+(d) umbrella VCC;
+
+(e) VCC.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 [38/75; 14/83; 26/96; 33/99; 6/2005]
 
@@ -2954,6 +2990,14 @@ Anything sent by e‑mail, SMS or any Internet‑based messaging service is an e
 
 [Act 37 of 2018 wef 04/10/2018]
 
+(3) To avoid doubt —
+
+(a) an instrument mentioned in subsection (1) includes an instrument between sub-funds mentioned in section 60I(1) and an instrument with a sub-fund mentioned in section 60J(1); and
+
+(b) an instrument mentioned in subsection (2) includes an instrument between sub-funds mentioned in section 60I(2) and an instrument with a sub-fund mentioned in section 60J(2).
+
+[Act 28 of 2019 wef 15/01/2020]
+
 ### Application of Act to electronic instruments
 
 60B\. This Act applies in relation to an electronic instrument subject to the modifications set out in sections 60C to 60F and such other modifications as may be prescribed by rules under section 60H(2).
@@ -3045,6 +3089,250 @@ Examples
 (2) For a period of 2 years starting on the date of commencement of section 6 of the Stamp Duties (Amendment) Act 2018, the Minister may make rules to prescribe further modifications to the provisions of this Act in their application to electronic instruments.
 
 [Act 37 of 2018 wef 04/10/2018]
+
+## PART VIIIB
+
+APPLICATION OF ACT TO VCCS
+
+### Application of Act to instrument between sub-funds
+
+60I\.—(1) A reference in this Act to an instrument or a description of instrument that effects a transaction, includes an instrument (called in this Part an instrument between sub-funds) that effects a transaction between sub-funds of an umbrella VCC that would have been the same transaction had the sub-funds been legal persons.
+
+(2) A reference in this Act to an instrument or a description of instrument that is evidence of, or that signifies any matter relating to a transaction, includes an instrument (also called in this Part an instrument between sub-funds) that is evidence of, or that signifies the same matter relating to a transaction between sub-funds of an umbrella VCC, that would have been the same transaction had the sub-funds been legal persons.
+
+(3) In the case of an instrument between sub-funds, a reference in this Act to —
+
+(a) a party (however described) to an instrument; or
+
+(b) a party who executes an instrument,
+
+is to the umbrella VCC in relation to the relevant sub-fund.
+
+(4) Accordingly —
+
+(a) any right of the party in subsection (3)(a) or (b) under this Act is a right of the umbrella VCC that is to be exercised for the purpose of the relevant sub-fund; and
+
+(b) any liability or duty of that party under this Act is considered (for the purpose of section 29 of the VCC Act) a liability or duty of the umbrella VCC that is incurred, and to be discharged, for the purpose of the relevant sub-fund.
+
+(5) To avoid doubt, the time and place of the execution of an instrument between sub-funds is the time and place at which the umbrella VCC executes the instrument.
+
+(6) Where —
+
+(a) an umbrella VCC effects a transaction between its sub-funds otherwise than by way of an instrument, or that is not evidenced or signified by an instrument; and
+
+(b) had the transaction been effected, evidenced or signified by an instrument, the instrument would have been chargeable with duty under this Act,
+
+the umbrella VCC must give notice to the Commissioner of the transaction, in such form as the Commissioner may require, within 14 days of the transaction.
+
+(7) The notice mentioned in subsection (6) is treated for the purposes of this Act as an instrument mentioned in subsection (6)(b) and chargeable with duty accordingly.
+
+(8) To avoid doubt, a reference to an instrument in subsections (6) and (7) includes an electronic instrument as defined in section 59(1).
+
+(9) An umbrella VCC that contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding 4 times the amount of duty that is otherwise chargeable on the notice.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+### Application of Act to instrument with a sub-fund
+
+60J\.—(1) A reference in this Act to an instrument or a description of instrument that effects a transaction, includes an instrument (called in this Part an instrument with a sub-fund) that effects a transaction between an umbrella VCC and any of its sub-funds that would have been the same transaction had the sub-fund been a separate legal person.
+
+(2) A reference in this Act to an instrument or a description of instrument that is evidence of, or that signifies any matter relating to a transaction, includes an instrument (also called in this Part an instrument with a sub-fund) that is evidence of, or that signifies the same matter relating to a transaction between an umbrella VCC and any of its sub-funds, that would have been the same transaction had the sub-fund been a separate legal person.
+
+(3) In the case of an instrument with a sub-fund, a reference in this Act to —
+
+(a) a party (however described) to an instrument; or
+
+(b) a party who executes an instrument,
+
+is to the umbrella VCC or the umbrella VCC in relation to the relevant sub-fund, as the case may be.
+
+(4) Where an umbrella VCC is a party to an instrument, or executes an instrument, for the purpose of a sub-fund —
+
+(a) any right of that party in subsection (3)(a) or (b) under this Act is a right of the umbrella VCC that is to be exercised for the purpose of the relevant sub-fund; and
+
+(b) any liability or duty of that party under this Act is considered (for the purpose of section 29 of the VCC Act) a liability or duty of the umbrella VCC that is incurred, and to be discharged, for the purpose of the relevant sub-fund.
+
+(5) To avoid doubt, the time and place of the execution of an instrument with a sub-fund is the time and place at which the umbrella VCC executes the instrument.
+
+(6) Where —
+
+(a) an umbrella VCC effects a transaction with any of its sub-funds otherwise than by way of an instrument, or that is not evidenced or signified by an instrument; and
+
+(b) had the transaction been effected, evidenced or signified by an instrument, the instrument would have been chargeable with duty under this Act,
+
+the umbrella VCC must give notice to the Commissioner of the transaction, in such form as the Commissioner may require, within 14 days of the transaction.
+
+(7) The notice mentioned in subsection (6) is treated for the purposes of this Act as an instrument mentioned in subsection (6)(b) and chargeable with duty accordingly.
+
+(8) To avoid doubt, a reference to an instrument in subsections (6) and (7) includes an electronic instrument as defined in section 59(1).
+
+(9) An umbrella VCC that contravenes subsection (6) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding 4 times the amount of duty that is otherwise chargeable on the notice.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+### Modifications to section 22A
+
+60K\.—(1) In the application of section 22A to an instrument between sub-funds, the disposal under that instrument of specified immovable property or part of such property is treated as a disposal of the property or part of such property for the purposes of that section.
+
+(2) In the application of section 22A to an instrument with a sub-fund, the disposal under that instrument of specified immovable property or part of such property is treated as a disposal of the property or part of such property for the purposes of that section.
+
+(3) In the application of section 22A to an instrument (including an instrument between sub-funds or an instrument with a sub-fund) under which an umbrella VCC disposes of any specified immovable property or part of such property that, immediately before such disposal, was held by the VCC for the purpose of any of its sub-funds because of an earlier instrument between sub-funds or an earlier instrument with a sub-fund, the reference in that section to the date or time of acquisition of the property or part of such property is to the date or time the umbrella VCC first holds the property or part for the purpose of the sub-fund as a result of the earlier instrument, and section 22A(12) applies accordingly.
+
+(4) The reference to the voluntary winding up of a private company in section 22A(2)(c) includes the voluntary winding up of a VCC or a sub-fund under the VCC Act.
+
+(5) The reference to the winding up of the owner of the property in section 22A(13) is, where the property is held by an umbrella VCC for the purpose of a sub-fund, to the winding up of the VCC or the sub-fund under the VCC Act.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+### Modifications to sections 23, 23A, 23B, 23C and 23D
+
+60L\.—(1) A reference in sections 23, 23A, 23B, 23C and 23D to an entity includes —
+
+(a) a VCC; and
+
+(b) a sub-fund of an umbrella VCC.
+
+(2) For the purposes of subsection (1)(a), a reference in sections 23, 23A, 23B and 23C to equity interests in an entity that is a non-umbrella VCC is to its shares.
+
+(3) For the purposes of subsection (1)(b) —
+
+(a) a reference in those sections to any asset or other property of an entity that is a sub-fund of an umbrella VCC is to such asset or property held by the umbrella VCC for the purpose of or that is attributable to the sub-fund;
+
+(b) a reference in those sections to an entity beneficially owning equity interests in another entity is, if the first entity is a sub-fund of an umbrella VCC, to the umbrella VCC holding equity interests in the other entity for the purpose of the sub-fund;
+
+(c) a reference in those sections to equity interests in an entity that is a sub-fund of an umbrella VCC is to shares of the umbrella VCC in respect of that sub-fund;
+
+(d) a reference in those sections to an accounting period of an entity that is a sub-fund of an umbrella VCC is to the accounting period of the umbrella VCC;
+
+(e) the following are arrangements to which section 23C(1) applies in a case where the entity is a sub-fund of an umbrella VCC, and section 23C(1), (2), (4) and (5) applies accordingly:
+
+(i) an acquisition by the umbrella VCC of equity interests of the sub-fund;
+
+(ii) an issue by the umbrella VCC of such equity interests;
+
+(iii) a cancellation or redemption of such equity interests;
+
+(iv) the conversion of —
+
+(A) such equity interests into instruments that are not equity interests;
+
+(B) instruments that are not equity interests into such equity interests; or
+
+(C) such equity interests from one class to another class;
+
+(v) an amalgamation of the sub-fund with another sub-fund, whether or not of the same umbrella VCC;
+
+(vi) any other arrangement that, in the Commissioner’s opinion, has as its purpose or one of its purposes the effect mentioned in section 23C(1)(a) in relation to the sub-fund.
+
+(4) The following paragraphs apply when applying sections 23, 23A and 23B in relation to an instrument to which an umbrella VCC is a party in relation to a sub-fund:
+
+(a) the umbrella VCC beneficially owns equity interests in an entity if it holds equity interests in that entity for the purpose of the sub-fund, and section 23(22)(a) is to be read accordingly;
+
+(b) the umbrella VCC ceases to own any equity interest in an entity if it ceases to hold equity interests in that entity for the purpose of the sub-fund;
+
+(c) the umbrella VCC is a significant owner of an entity if it holds, for the purpose of the sub-fund, a percentage of the equity interests in the entity that satisfies section 23(11)(a) or (b);
+
+(d) where the umbrella VCC is the grantor, transferor, assignor or vendor (as the case may be) under the instrument, the reference in section 23(8) to equity interests acquired by such party is to equity interests acquired by the VCC for the purpose of the sub-fund;
+
+(e) section 23(12) applies for the purposes of paragraph (a) as if a reference to an associate of the person mentioned in section 23(12) is to a person that is an associate of the umbrella VCC in relation to the sub-fund in accordance with the section 23 Order;
+
+(f) section 23A(3) applies as if a reference to an associate of the grantor or grantee mentioned in that provision is to a person that is an associate of the umbrella VCC in relation to the sub-fund in accordance with the section 23 Order.
+
+(5) The determination under section 23(20)(d) of whether an umbrella VCC is an associate of a party to an instrument is to be made in relation to each sub-fund, as if the umbrella VCC has only that one sub-fund.
+
+(6) The following paragraphs apply for the purpose of determining the beneficial ownership of equity interests in an entity of an associate of another person, where the associate is an umbrella VCC in relation to any of its sub-funds:
+
+(a) the umbrella VCC beneficially owns equity interests in that entity if it holds equity interests in that entity for the purpose of that sub-fund;
+
+(b) the umbrella VCC ceases to own any equity interest in the entity if it ceases to hold equity interests in that entity for the purpose of that sub-fund.
+
+(7) In determining, for the purpose of section 23C, whether an arrangement is to be treated as a conveyance of equity interests in an entity to or by an umbrella VCC for the purpose of a sub-fund, only equity interests in the entity that are held by the umbrella VCC for the purpose of or that are attributable to the sub-fund are treated as beneficially owned by the umbrella VCC.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+### Modifications to other provisions
+
+60M\.—(1) A reference in section 21(2) and (6) to a person from whom property was conveyed or transferred is —
+
+(a) in the case of an instrument between sub-funds, to the sub-fund from which the property was conveyed or transferred; or
+
+(b) in the case of an instrument with a sub-fund, to the umbrella VCC or the sub-fund from which the property was conveyed or transferred, as the case may be.
+
+(2) The following provision applies in place of section 22(2) in a case where the subsequent instrument is an instrument between sub-funds, and section 22(3) applies accordingly:
+
+“Where —
+
+(a)
+
+the purchaser under the contract or agreement to which subsection (1) applies is an umbrella VCC that acted for the purpose of a sub-fund;
+
+(b)
+
+ad valorem duty has been paid in accordance with subsection (1) on that instrument; and
+
+(c)
+
+before having obtained a conveyance or transfer of the property, the umbrella VCC assigns the equitable estate or interest in that property, or enters into any contract or agreement for the sale of that property, to any of its sub-funds,
+
+the assignment, contract or agreement is chargeable with ad valorem duty in respect of the consideration moving from the sub-fund mentioned in paragraph (c) as if it were an actual conveyance on sale to the sub-purchaser.”.
+
+(3) The following provision applies in place of section 22(2) in a case where the subsequent instrument is an instrument with a sub-fund, and section 22(3) applies accordingly:
+
+“Where —
+
+(a)
+
+the purchaser under the contract or agreement to which subsection (1) applies is an umbrella VCC that acted for itself or for the purpose of a sub-fund;
+
+(b)
+
+ad valorem duty has been paid in accordance with subsection (1) under that instrument; and
+
+(c)
+
+before having obtained a conveyance or transfer of the property, the umbrella VCC —
+
+(i)
+
+in the case where it entered into the contract or agreement to which subsection (1) applies for itself, assigns the equitable estate or interest in that property, or enters into a contract or an agreement for the sale of that property, to the umbrella VCC for the purpose of a sub-fund; or
+
+(ii)
+
+in the case where it entered into the contract or agreement to which subsection (1) applies for the purpose of a sub-fund, assigns the equitable estate or interest in that property, or enters into a contract or an agreement for the sale of that property, to and for itself,
+
+the assignment, contract or agreement is chargeable with ad valorem duty in respect of the consideration moving from the sub-fund or the umbrella VCC (as the case may be) as if it were an actual conveyance on sale to the sub-purchaser.”.
+
+(4) Section 22(4) applies with the necessary modifications in relation to a variation of a contract or an agreement for the sale of any estate or interest in property to an umbrella VCC for the purpose of a sub-fund, where the variation is for the purpose of substituting one sub-fund with another or substituting the sub-fund with the umbrella VCC, as it applies to a direction mentioned in that provision.
+
+(5) Section 22(4) applies with the necessary modifications in relation to a variation of a contract or an agreement for the sale of any estate or interest in property to an umbrella VCC acting for itself, where the variation is for the purpose of substituting the umbrella VCC with one of its sub-funds, as it applies to a direction mentioned in that provision.
+
+(6) Section 33 applies in relation to shares in a VCC as it applies in relation to shares in a company.
+
+(7) Section 70B applies in relation to a VCC and a sub-fund of an umbrella VCC as it applies in relation to a company.
+
+(8) A reference to shares in the First Schedule includes shares of a VCC.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+### Fines on umbrella VCC considered liability of its sub-funds in certain cases
+
+60N\. Any fine imposed on an umbrella VCC, and any composition sum that may be paid by it, for an offence under this Act that is committed —
+
+(a) in respect of any instrument executed for the purpose of a sub-fund; or
+
+(b) in respect of any information, or other matter relating to a sub-fund,
+
+are considered (for the purpose of section 29 of the VCC Act) liability incurred by the umbrella VCC for the purpose of the sub-fund.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+### Rules
+
+60O\.—(1) The Minister may make rules to prescribe anything that is authorised to be prescribed under this Part.
+
+(2) For a period of 2 years starting on the date of commencement of section 15 of the Variable Capital Companies (Miscellaneous Amendments) Act 2019, the Minister may make rules to prescribe further modifications to the provisions of this Act in their application in relation to VCCs, instruments between sub-funds and instruments with a sub-fund.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 ## PART IX
 
@@ -4298,11 +4586,17 @@ The same duty as in paragraph (a) or (c), as the case may be
 
 (i)
 
-[Deleted by Act 23/2011 wef 19/02/2011]
+of any property or any interest of property which is distributed in specie to a shareholder of a VCC in connection with a liquidation of the VCC or any of its sub-funds
+
+Exemption:
+
+In a case where the conveyance, assignment or transfer is effected by more than one instrument and one instrument has been duly stamped, each other instrument.
+
+The same duty as in paragraph (a) or (c), as the case may be
 
 (1) In this Article —
 
-“entity” means a person who is not an individual, and includes an unincorporated association, a trustee for a collective investment scheme when acting in that capacity, a trustee-manager for a business trust when acting in that capacity and, in a case where the property conveyed, transferred or assigned is to be held as partnership property, the partners of the partnership whether or not any of them is an individual;
+“entity” means a person who is not an individual, and includes an unincorporated association,a VCC (whether or not acting for the purpose of a sub-fund), a trustee for a collective investment scheme (not being one that is a VCC or a sub-fund) when acting in that capacity, a trustee-manager for a business trust when acting in that capacity and, in a case where the property conveyed, transferred or assigned is to be held as partnership property, the partners of the partnership whether or not any of them is an individual;
 
 “foreigner” means an individual who is not a citizen of Singapore and not a permanent resident of Singapore;
 
@@ -4425,6 +4719,8 @@ vacant land; or
 immovable property comprising the land as well as all units or buildings within a development on the land,
 
 then the gross floor area of the property specified in the second column of the following table, that corresponds to the applicable zoning of the land under the Master Plan in the first column thereof, shall be deemed to be attributable to an industrial purpose; and the gross floor area of the property specified in the third column thereof, that corresponds to the applicable zoning of the land under the Master Plan in the first column thereof, shall be deemed to be attributable to a residential purpose:
+
+[Act 28 of 2019 wef 15/01/2020]
 
 [S 452/2018 wef 06/07/2018]
 
@@ -6040,6 +6336,11 @@ This Legislative History is provided for the convenience of users of the Stamp D
 ||Date of commencement|4 October 2018|
 |76.|**G.N. No. S 555/2019—Stamp Duties Act (Amendment of Fourth and Fifth Schedules) Notification 2019**|
 ||Date of commencement|15 August 2019|
+|77.|**Act 28 of 2019—Variable Capital Companies (Miscellaneous Amendments) Act 2019**|
+||Date of First Reading|5 August 2019|
+|||(Bill No. 23/2019)|
+||Date of Second and Third Readings|3 September 2019|
+||Date of commencement|15 January 2020|
 ## COMPARATIVE TABLE
 
 Stamp Duties Act
