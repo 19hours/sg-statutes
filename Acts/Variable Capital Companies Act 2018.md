@@ -48,6 +48,8 @@
 
 - [17 Members of VCC](#Members-of-VCC)
 
+- [17A Minimum of one member](#Minimum-of-one-member)
+
 - [18 Duty to refuse registration](#Duty-to-refuse-registration)
 
 - [19 Constitution of VCC](#Constitution-of-VCC)
@@ -60,7 +62,7 @@
 
 - [23 Rights attached to shares in section 22(6) and (11)](#Rights-attached-to-shares-in-section-226-and-11)
 
-- [24 Disposal and cancellation of shares in section 22(6) and (11)](#Disposal-and-cancellation-of-shares-in-section-226-and-11)
+- [24 Disposal of shares in section 22(6) and (11)](#Disposal-of-shares-in-section-226-and-11)
 
 - [25 Application of other provisions of Part III of Companies Act](#Application-of-other-provisions-of-Part-III-of-Companies-Act)
 
@@ -161,6 +163,8 @@
 - [60 Disqualification for being director of not less than 3 VCCs that were struck off within 5‑year period](#Disqualification-for-being-director-of-not-less-than-3-VCCs-that-were-struck-off-within-5‑year-period)
 
 - [61 Disqualification under Limited Liability Partnerships Act and Companies Act](#Disqualification-under-Limited-Liability-Partnerships-Act-and-Companies-Act)
+
+- [61A Debarment under Companies Act](#Debarment-under-Companies-Act)
 
 [**Subdivision 3 Duties and powers of directors, etc.**](#Subdivision-3-Duties-and-powers-of-directors-etc)
 
@@ -496,7 +500,7 @@ PRELIMINARY
 
 “charge” includes a mortgage and any agreement to give or execute a charge or mortgage whether upon demand or otherwise;
 
-“closed-end fund” has the meaning given by section 2(1) of the Securities and Futures Act;
+[Deleted by Act 28 of 2019 wef 15/01/2020]
 
 “collective investment scheme” has the meaning given by section 2(1) of the Securities and Futures Act;
 
@@ -652,11 +656,15 @@ but does not include —
 
 (3) In this Act —
 
-(a) a reference to a debt, obligation or liability of a sub‑fund is to a debt, obligation or liability that is incurred by the umbrella VCC concerned on behalf of or that is attributable to that sub‑fund;
+(a) a reference to a debt, obligation or liability of a sub‑fund is to a debt, obligation or liability that is incurred by the umbrella VCC concerned for the purpose of or that is attributable to that sub‑fund;
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (b) a reference to a debenture of a sub-fund is to a debenture issued by the umbrella VCC concerned in respect of a debt, obligation or liability of the sub‑fund;
 
-(c) a reference to any asset, property or undertaking of a sub‑fund is to any asset, property or undertaking that is held by the umbrella VCC concerned on behalf of or that is attributable to that sub‑fund; and
+(c) a reference to any asset, property or undertaking of a sub‑fund is to any asset, property or undertaking that is held by the umbrella VCC concerned for the purpose of or that is attributable to that sub‑fund; and
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (d) a reference to a creditor of a sub-fund is to a creditor of the umbrella VCC concerned in respect of a debt, obligation or liability of the sub‑fund.
 
@@ -766,13 +774,17 @@ and includes any conduct of the receiver, the receiver and manager, or the judic
 
 is a reference to —
 
-(e) the promotion, formation, control, business, trading, transactions and dealings of the sub‑fund (whether by the umbrella VCC alone or jointly with another person and including transactions and dealings as agent, bailee or trustee), property of the sub‑fund (whether held by the umbrella VCC alone or jointly with another person and including property held as agent, bailee or trustee), liabilities of the sub‑fund (including liabilities owed by the umbrella VCC jointly with another person and liabilities as trustee), profits and other income, receipts, losses, outgoings and expenditure of the umbrella VCC received or incurred on behalf of the sub‑fund;
+(e) the promotion, formation, control, business, trading, transactions and dealings of the sub‑fund (whether by the umbrella VCC alone or jointly with another person and including transactions and dealings as agent, bailee or trustee), property of the sub‑fund (whether held by the umbrella VCC alone or jointly with another person and including property held as agent, bailee or trustee), liabilities of the sub‑fund (including liabilities owed by the umbrella VCC jointly with another person and liabilities as trustee), profits and other income, receipts, losses, outgoings and expenditure of the umbrella VCC received or incurred for the purpose of the sub‑fund;
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (f) the internal management and proceeding of the umbrella VCC in respect of the sub‑fund;
 
 (g) any act or thing done (including any contract made and any transaction entered into) —
 
-(i) by the umbrella VCC on behalf of the sub-fund; or
+(i) by the umbrella VCC for the purpose of the sub-fund; or
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (ii) to or in relation to the umbrella VCC in respect of the sub‑fund or the business or property of the sub‑fund,
 
@@ -780,7 +792,9 @@ at a time when —
 
 (iii) a receiver, or a receiver and manager, is in possession of, or has control over, property of the sub‑fund;
 
-(iv) a compromise or an arrangement made between the umbrella VCC (on behalf of the sub‑fund) and the creditors of the sub‑fund (or any class of them), members holding shares issued in respect of that sub‑fund (or any class of them), or another person or other persons, is being administered; or
+(iv) a compromise or an arrangement made between the umbrella VCC (for the purpose of the sub‑fund) and the creditors of the sub‑fund (or any class of them), members holding shares issued in respect of that sub‑fund (or any class of them), or another person or other persons, is being administered; or
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (v) the sub-fund is being wound up,
 
@@ -1066,6 +1080,12 @@ and the Registrar may accept such declaration as sufficient evidence of those ma
 
 (4) Subsection (3) does not affect any other liability to which a member may be subject under this Act.
 
+### Minimum of one member
+
+17A\. A VCC must have at least one member.
+
+[Act 28 of 2019 wef 15/01/2020]
+
 ### Duty to refuse registration
 
 18\.—(1) Without affecting the powers of the Registrar under section 9(7), the Registrar must not register a constitution of a proposed VCC under section 16 unless the Registrar is satisfied that all the requirements of this Act in respect of the registration have been complied with.
@@ -1096,7 +1116,9 @@ and the Registrar may accept such declaration as sufficient evidence of those ma
 
 (e) shares of the VCC are to be issued, redeemed or repurchased at a price equal to the proportion of the net asset value of the VCC represented by each share, although the price may be adjusted by adding or subtracting (as the case may be) fees and charges in accordance with the constitution;
 
-(f) shares of the VCC that relate to a closed-end fund and listed for quotation on a securities exchange, are to be issued, redeemed or repurchased in accordance with the applicable listing requirements of the securities exchange;
+(f) shares of the VCC that relate to an arrangement mentioned in paragraph (aa) or (b) of the definition of “closed-end fund” in section 2(1) of the Securities and Futures Act (Cap. 289) under which units that are issued are exclusively or primarily non-redeemable at the election of the holders of the units, and listed for quotation on a securities exchange, are to be issued, redeemed or repurchased in accordance with the applicable listing requirements of the securities exchange;
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (g) the provisions in paragraphs (e) and (f) do not apply in relation to any shares during the initial offer period of the shares.
 
@@ -1163,6 +1185,18 @@ and the Registrar may accept such declaration as sufficient evidence of those ma
 (3) Subject to this Act, any alteration to the constitution under subsection (1) is treated as part of the original constitution starting on the date of the resolution approving the alteration or such later date as may be specified in the resolution.
 
 (4) Subject to section 5, section 26(2), (2A), (3), (5), (6) and (7) of the Companies Act applies in relation to a resolution, an order of the Court or any other document affecting the constitution of a VCC, as it applies in relation to a resolution, an order of Court or any other document affecting the constitution of a company.
+
+(5) The VCC must, within 14 days after the making of any alteration under subsection (2), lodge with the Registrar —
+
+(a) a copy of the constitution as altered; and
+
+(b) any documentary evidence of the directors’ decision to make the alteration.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+(6) If default is made in complying with subsection (5), the VCC and every officer of the VCC who is in default shall each be guilty of an offence and shall each be liable on conviction to a fine not exceeding $1,000 and also to a default penalty.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 ### Name of VCC
 
@@ -1308,7 +1342,9 @@ the Registrar may direct the firstmentioned VCC to change its name, and the VCC 
 
 (b) where the share capital of the VCC is divided into shares of different classes, the total number of the shares of any class held by all its subsidiaries under subsection (6) or (11), must not at any time exceed 10% of the total number of the shares in that class of the VCC at that time;
 
-(c) where paragraph (a) or (b) is contravened, the VCC must dispose of or cancel the excess shares, or procure the disposal of the excess shares by its subsidiary, in accordance with section 24 before the end of the period of 6 months beginning with the day on which that contravention occurs, or such further period as the Registrar may allow;
+(c) where paragraph (a) or (b) is contravened, the VCC must procure the disposal of the excess shares by its subsidiary, in accordance with section 24 before the end of the period of 6 months beginning with the day on which that contravention occurs, or such further period as the Registrar may allow;
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (d) where the subsidiary is a wholly‑owned subsidiary of the VCC, no dividend may be paid, and no other distribution (whether in cash or otherwise) of the VCC’s assets (including any distribution of assets to members on a winding up of the VCC or any of its sub‑funds (if applicable)) may be made, to the subsidiary in respect of the shares mentioned in subsection (6) or (11); and
 
@@ -1342,7 +1378,7 @@ the Registrar may direct the firstmentioned VCC to change its name, and the VCC 
 
 (6) Any shares allotted as fully paid bonus shares in respect of the shares in section 22(11) are treated for the purposes of this Act as if they were transferred to the subsidiary at the time they were allotted, in circumstances in which section 22(9) applied.
 
-### Disposal and cancellation of shares in section 22(6) and (11)
+### Disposal of shares in section 22(6) and (11)
 
 24\.—(1) This section applies to the shares in a VCC mentioned in section 22(6) and (11).
 
@@ -1352,17 +1388,19 @@ the Registrar may direct the firstmentioned VCC to change its name, and the VCC 
 
 (b) transfer the shares (or any of them) for the purposes of or pursuant to any share scheme, whether for employees, directors or other persons;
 
-(c) transfer the shares (or any of them) as consideration for the acquisition of shares in or assets of another company or VCC or assets of a person;
+(c) transfer the shares (or any of them) as consideration for the acquisition of shares in or assets of another company or VCC or assets of a person; or
 
-(d) cancel the shares (or any of them); or
+[Act 28 of 2019 wef 15/01/2020]
+
+(d) [Deleted by Act 28 of 2019 wef 15/01/2020]
 
 (e) sell, transfer or otherwise use the shares for such other purposes as the Minister may by order prescribe.
 
-(3) Any cancellation or disposal of shares under subsection (2) by a subsidiary that is a private company within the meaning of the Companies Act, must be done by lodging a prescribed notice of the cancellation or disposal with the Registrar together with the prescribed fee.
+(3) [Deleted by Act 28 of 2019 wef 15/01/2020]
 
-(4) A cancellation or disposal of shares under subsection (2) does not take effect until the electronic register of members of the subsidiary is updated by the Registrar under section 196A(5) of the Companies Act.
+(4) [Deleted by Act 28 of 2019 wef 15/01/2020]
 
-(5) Where the subsidiary is a public company within the meaning of the Companies Act or a VCC, the directors of the VCC must, within 30 days after cancelling or disposing of shares under subsection (2), lodge a prescribed notice of the cancellation or disposal of shares with the Registrar together with the prescribed fee.
+(5) [Deleted by Act 28 of 2019 wef 15/01/2020]
 
 (6) In subsection (2), “cash”, in relation to a sale of shares by the subsidiary, means —
 
@@ -1374,9 +1412,11 @@ the Registrar may direct the firstmentioned VCC to change its name, and the VCC 
 
 (d) an undertaking to pay cash to the subsidiary on or before a date not more than 90 days after the date on which the subsidiary agrees to sell the shares.
 
-(7) But if the subsidiary (being a company) receives a notice under section 215 of the Companies Act that a person desires to acquire any of the shares, the subsidiary must not, under subsection (2), sell or transfer the shares to which the notice relates except to that person.
+(7) [Deleted by Act 28 of 2019 wef 15/01/2020]
 
-(8) The directors of the subsidiary (being a company) may take such steps as are requisite to enable the subsidiary to cancel its shares under subsection (2), without complying with section 78B, 78C or 78I of the Companies Act (if applicable).
+(8) [Deleted by Act 28 of 2019 wef 15/01/2020]
+
+[Act 28 of 2019 wef 15/01/2020]
 
 ### Application of other provisions of Part III of Companies Act
 
@@ -1462,7 +1502,9 @@ give a written notice of this to the Registrar.
 
 (3) An umbrella VCC may allocate any assets or liabilities —
 
-(a) that it holds or incurs on behalf of its sub‑funds or in order to enable the operation of the sub‑funds; and
+(a) that it holds or incurs for the purpose of its sub‑funds or in order to enable the operation of the sub‑funds; and
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (b) that are not attributable to any particular sub‑fund,
 
@@ -1484,23 +1526,41 @@ between its sub-funds in a manner that it considers fair to shareholders.
 
 (c) the fact that the assets and liabilities of the sub‑fund are segregated in accordance with section 29.
 
-(2) Before entering into an oral agreement on behalf of any of its sub‑funds, an umbrella VCC must disclose to the other party to the agreement all of the following:
+(1A) Where an umbrella VCC enters into an agreement or issues a business letter, statement of account, invoice, official notice, publication, bill of exchange, promissory note, indorsement, cheque, order, receipt or letter of credit for the purpose of any of its sub-funds, it must set out in that document the fact that it is acting for the purpose of that sub-fund as well as the matters specified in subsection (1)(a), (b) and (c).
+
+[Act 28 of 2019 wef 15/01/2020]
+
+(2) Before entering into an oral agreement for the purpose of any of its sub‑funds, an umbrella VCC must disclose to the other party to the agreement all of the following:
 
 (a) the name of the sub-fund;
 
 (b) the registration number of the sub-fund;
 
+(ba) the fact that the umbrella VCC is acting for the purpose of the sub-fund;
+
+[Act 28 of 2019 wef 15/01/2020]
+
 (c) the fact that the assets and liabilities of the sub‑fund are segregated in accordance with section 29.
 
-(3) An umbrella VCC that fails to comply with subsection (1) or (2) shall be guilty of an offence.
+[Act 28 of 2019 wef 15/01/2020]
+
+(3) An umbrella VCC that fails to comply with subsection (1), (1A) or (2) shall be guilty of an offence.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (4) An officer of an umbrella VCC, or a person acting on his or her behalf, who —
 
-(a) signs, issues, or authorises to be signed or issued, on behalf of the VCC any document mentioned in subsection (1) in which the information in subsection (1)(a), (b) or (c) is not set out; or
+(a) signs or issues, or authorises to be signed or issued, on behalf of the VCC —
 
-(b) authorises or enters into any agreement on behalf of a sub‑fund of the VCC without ensuring that the information in subsection (2)(a), (b) and (c) has been disclosed to the other party to the agreement,
+(i) any document mentioned in subsection (1) in which the information in subsection (1)(a), (b) or (c) is not set out; or
+
+(ii) any document mentioned in subsection (1A) in which the information in that subsection is not set out; or
+
+(b) authorises or enters into any agreement for the purpose of a sub-fund of the VCC without ensuring that the information in subsection (2)(a), (b), (ba) and (c) has been disclosed to the other party to the agreement,
 
 shall be guilty of an offence and, if the document mentioned in paragraph (a) is a bill of exchange, promissory note, indorsement, cheque or order, be liable to the holder of it for the amount due on it, unless that liability has been discharged by the VCC.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 ### Cross sub-fund investment
 
@@ -1646,7 +1706,9 @@ complete and have ready for delivery all the appropriate certificates and debent
 
 (a) the name of the VCC and the authority under which the VCC is constituted;
 
-(b) the address of the registered office of the VCC in Singapore, or, where the certificate is issued through a branch office, the address of that branch office; and
+(b) the address of the registered office of the VCC in Singapore; and
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (c) the class of the shares (if applicable), the name and registration number of the sub‑fund to which the shares relate (if applicable), whether the shares are fully or partly paid up, and the amount (if any) unpaid on the shares.
 
@@ -2177,13 +2239,31 @@ must not act as a director of, or in any way (whether directly or indirectly) ta
 
 61\.—(1) Subject to section 5, section 155C of the Companies Act applies in relation to a VCC as it applies in relation to a company.
 
-(2) Subject to any leave which the Court may give pursuant to an application under subsection (3), a person who is subject to a disqualification, disqualification order or debarment order under section 149, 149A, 154, 155, 155A or 155B of the Companies Act must not act as a director of, or in any way (whether directly or indirectly) take part in or be concerned in the management of, any VCC during the period of the disqualification, disqualification order or debarment order.
+(2) Subject to any leave which the Court may give pursuant to an application under subsection (3), a person who is subject to a disqualification or disqualification order under section 149, 149A, 154, 155 or 155A of the Companies Act must not act as a director of, or in any way (whether directly or indirectly) take part in or be concerned in the management of, any VCC during the period of the disqualification or disqualification order.
 
-(3) A person who is subject to a disqualification, disqualification order or debarment order under section 149, 154, 155, 155A or 155B of the Companies Act, may apply to the Court for leave to act as a director of, or to take part in or be concerned in the management of, a VCC during the period of the disqualification, disqualification order or debarment order, upon giving the Minister not less than 14 days’ notice of his or her intention to apply for such leave.
+[Act 28 of 2019 wef 15/01/2020]
+
+(3) A person who is subject to a disqualification or disqualification order under section 149, 154, 155 or 155A of the Companies Act, may apply to the Court for leave to act as a director of, or to take part in or be concerned in the management of, a VCC during the period of the disqualification or disqualification order, upon giving the Minister not less than 14 days’ notice of his or her intention to apply for such leave.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (4) On the hearing of any application under subsection (3), the Minister may be represented at the hearing and may oppose the granting of the application.
 
 (5) A person who contravenes subsection (2) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+### Debarment under Companies Act
+
+61A\.—(1) A person who has a debarment order made against him or her under section 155B of the Companies Act must not —
+
+(a) except in respect of a VCC of which the person is a director immediately before the making of the order, act as director of any VCC; or
+
+(b) except in respect of a VCC of which the person is a secretary immediately before the making of the order, act as secretary of any VCC.
+
+(2) Subsection (1) applies from (and including) the date that the debarment order is made until such time as the Registrar of Companies cancels or suspends the order under the Companies Act.
+
+(3) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 Subdivision (3) —
 
@@ -2321,7 +2401,9 @@ if the particulars required by this section to be shown in the registers of the 
 
 67\. Sections 164A and 165 of the Companies Act apply in relation to a VCC and a director of a VCC, as they apply in relation to a company and a director of a company, subject to sections 5 and 66(14) and the following modifications:
 
-(a) the reference in section 164A(1)(a) of the Companies Act to the company itself if it is registered as its own member, is to the VCC itself if it is registered as its own member, and to a subsidiary of the VCC that is registered as a member of the VCC;
+(a) the reference in section 164A(1)(a) of the Companies Act to the company itself if it is registered as its own member, is to a subsidiary of the VCC that is registered as a member of the VCC;
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (b) the reference to treasury shares in section 164A(1)(b) of the Companies Act is to shares held by a subsidiary of the VCC under section 22(6) or (11) (if any);
 
@@ -2619,7 +2701,7 @@ not less than 100 members holding shares in the VCC.
 
 (a) section 184(4A), (7) and (8) of the Companies Act is omitted;
 
-(b) a reference in section 184(4) of the Companies Act to a member does not include the VCC itself if it is registered as a member, unless the VCC is so registered in respect of the shares relating to a sub‑fund of the VCC;
+(b) [Deleted by Act 28 of 2019 wef 15/01/2020]
 
 (c) the reference in section 184(4)(b)(i) of the Companies Act to treasury shares is to shares held by a subsidiary of the VCC under section 22(6) or (11) (if any);
 
@@ -3457,7 +3539,9 @@ INVESTIGATIONS
 
 (a) on the application of —
 
-(i) not less than 200 members (excluding the VCC itself or a subsidiary of the VCC if the VCC or subsidiary, as the case may be, is registered as a member) or of members holding not less than 10% of the shares issued (excluding shares held by a subsidiary of the VCC under section 22(6) or (11), if any); or
+(i) not less than 200 members (excluding a subsidiary of the VCC if the subsidiary is registered as a member) or of members holding not less than 10% of the shares issued (excluding shares held by a subsidiary of the VCC under section 22(6) or (11), if any); or
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (ii) holders of debentures holding not less than 20% in nominal value of all debentures issued by the VCC; or
 
@@ -3565,7 +3649,9 @@ and section 237(2) of the Companies Act (as applied by subsection (1)) applies a
 
 118\.—(1) Section 240 of the Companies Act applies in relation to a declared VCC as it applies in relation to a declared company under Part IX of that Act, subject to section 5 and subsection (2).
 
-(2) Where the investigation relates solely to a sub-fund of an umbrella VCC that is a declared VCC, then section 240 of the Companies Act only applies to an action or proceeding in respect of any instrument mentioned in that section that is made, drawn or accepted by, or issued, transferred, negotiated or endorsed by or to the VCC on behalf of the sub-fund.
+(2) Where the investigation relates solely to a sub-fund of an umbrella VCC that is a declared VCC, then section 240 of the Companies Act only applies to an action or proceeding in respect of any instrument mentioned in that section that is made, drawn or accepted by, or issued, transferred, negotiated or endorsed by or to the VCC for the purpose of the sub-fund.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 ### Winding up of VCC
 
@@ -3585,7 +3671,9 @@ and section 237(2) of the Companies Act (as applied by subsection (1)) applies a
 
 (a) in a case other than one mentioned in paragraph (b) —
 
-(i) not less than 200 members (excluding the VCC itself or a subsidiary of the VCC if the VCC or the subsidiary, as the case may be, is registered as a member); or
+(i) not less than 200 members (excluding a subsidiary of the VCC if the subsidiary is registered as a member); or
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (ii) members holding not less than 10% of the shares issued (excluding shares held by a subsidiary of the VCC under section 22(6) or (11), if any); or
 
@@ -4243,7 +4331,9 @@ may within 30 days after the date of the refusal to register, or the imposition 
 
 (a) the person named as manager of the proposed VCC does not satisfy section 46(2);
 
-(b) none of the directors of the proposed VCC is a qualified representative of the manager;
+(b) none of the directors of the proposed VCC is either a director or qualified representative of the manager;
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (c) the proposed VCC is likely to be used for an unlawful purpose or for purposes prejudicial to public peace, welfare or good order in Singapore; or
 
@@ -4476,15 +4566,21 @@ Other General Provisions
 
 ### Electronic transmission of documents
 
-150\.—(1) Subject to subsections (2) to (4) and section 5, sections 387A, 387B and 387C (except subsections (3) and (4)) of the Companies Act apply in relation to any notice of meeting, accounts, balance sheet, financial statements, report or other document required or permitted to be given, sent or served under this Act or under the constitution of a VCC, as they apply in relation to a similar document that is required or permitted to be given, sent or served under this Act or under the constitution of a company.
+150\.—(1) Subject to subsections (2) to (4) and section 5, sections 387A, 387B and 387C (except subsections (3) and (4)) of the Companies Act apply in relation to any notice of meeting, accounts, balance sheet, financial statements, report or other document required or permitted to be given, sent or served under this Act or under the constitution of a VCC, as they apply in relation to a similar document that is required or permitted to be given, sent or served under the Companies Act or under the constitution of a company.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (2) In sections 387B and 387C of the Companies Act, “financial statements” means the financial statements or consolidated financial statements (as the case may be) required to be prepared under Part 8.
 
-(3) Subject to the regulations mentioned in subsection (5), a member of a VCC is treated as having consented to be given, sent or served using electronic communications, a notice or document mentioned in section 387C(1) of the Companies Act as applied by subsection (1), if —
+(3) Subject to the regulations mentioned in subsection (4), a member of a VCC is treated as having consented to be given, sent or served using electronic communications, a notice or document mentioned in section 387C(1) of the Companies Act as applied by subsection (1), if —
 
-(a) the company gave to the member by written notice an opportunity to elect, within a period specified in the notice, whether to receive the notice or document by way of electronic communications or as a physical copy; and
+(a) the VCC gave to the member by written notice an opportunity to elect, within a period specified in the notice, whether to receive the notice or document by way of electronic communications or as a physical copy; and
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (b) the member failed to make an election within the specified period.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (4) For the purposes of subsection (1), the Minister may make regulations under section 165 for the same matters as those in section 387C(4) of the Companies Act.
 
