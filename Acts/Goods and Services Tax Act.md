@@ -108,6 +108,8 @@
 
 - [33 Agents](#Agents)
 
+- [33AA Umbrella VCCs](#Umbrella-VCCs)
+
 - [33A Repayment of tax to persons in business overseas](#Repayment-of-tax-to-persons-in-business-overseas)
 
 - [33B Claiming of input tax on import of processed goods](#Claiming-of-input-tax-on-import-of-processed-goods)
@@ -476,11 +478,25 @@ PRELIMINARY
 
 “taxable supply” has the meaning given to it by section 8(2A);
 
-“unit trust” means any trust established for the purpose, or having the effect, of providing facilities for the participation by persons as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property.
+“unit trust” means any trust established for the purpose, or having the effect, of providing facilities for the participation by persons as beneficiaries under a trust, in profits or income arising from the acquisition, holding, management or disposal of securities or any other property;
+
+[Act 28 of 2019 wef 15/01/2020]
+
+“VCC Act” means the Variable Capital Companies Act 2018 (Act 44 of 2018).
+
+[Act 28 of 2019 wef 15/01/2020]
 
 [25/96; 43/2002; 50/2004]
 
 (2) The question whether, in relation to any supply of services, the supplier or the recipient of the supply belongs in one country or another shall be determined in accordance with section 15.
+
+(3) The terms “share”, in relation to a VCC, “sub-fund”, “umbrella VCC” and “VCC” have the meanings given to them in the VCC Act.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+(4) To avoid doubt, the term “company” includes a VCC.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 [UK VAT Act 1983, s. 48]
 
@@ -2426,6 +2442,10 @@ SPECIAL CASES
 
 [19/2009 wef 01/01/2010]
 
+(3B) The registration under this Act of an umbrella VCC making taxable supplies for the purpose of one of its sub-funds must be in the name of that umbrella VCC in respect of that sub-fund, or in the name of that sub-fund.
+
+[Act 28 of 2019 wef 15/01/2020]
+
 (4) Where a taxable person dies, or goes into liquidation or receivership, or becomes bankrupt or incapacitated, the Comptroller may, from the date of the death, liquidation, receivership, bankruptcy or incapacity until such time when another person is registered in respect of the taxable supplies made or intended to be made by that taxable person in the course or furtherance of his business or in the case of incapacity until such time as the incapacity ceases, deem any person carrying on that business to be a taxable person.
 
 (5) Any requirement to pay tax imposed under subsection (4) on any person carrying on the business shall only apply to that person to the extent of the assets of the deceased or incapacitated person over which he has control.
@@ -2579,6 +2599,40 @@ then the goods are treated as imported byAas principal and supplied by the subst
 (B) to discharge any duties imposed on the overseas registrant by or under this Act.
 
 [Act 33 of 2019 wef 01/01/2020]
+
+### Umbrella VCCs
+
+33AA\.—(1) For the purposes of this Act, an umbrella VCC making or receiving a supply for the purpose of one of its sub-funds is taken to be a separate person from the same VCC making or receiving a supply for the purpose of another of its sub-funds.
+
+(2) Accordingly —
+
+(a) a supply that is made by an umbrella VCC for the purpose of one of its sub-funds, and received by the same VCC for the purpose of another of its sub-funds, is taken to be a supply made by one person to another person;
+
+(b) supplies made or received by an umbrella VCC for the purpose of different sub-funds are taken to have been made or received by different persons; and
+
+(c) an umbrella VCC making taxable supplies for the purpose of one of its sub-funds is to be registered as a person separately from the same umbrella VCC making taxable supplies for the purpose of another of its sub-funds and each is taken to be a separate taxable or registered person.
+
+(3) For the purposes of this Act, a reference to a business carried on by a taxable person is, where the taxable person is an umbrella VCC in relation to any of its sub-funds, to its business in relation to that sub-fund.
+
+(4) Where —
+
+(a) the person who receives, is supplied or is the customer of the goods or services mentioned in section 14(1)(a)(i), 38(1) or (2) or 38A(2) is an umbrella VCC; and
+
+(b) the goods or services are supplied for the purpose of or in connection with the VCC’s business in relation to any of its sub-funds,
+
+then, for the purpose of section 14(2), 38(1) or (2) or 38A(2) (as the case may be), the recipient, person supplied or customer of those goods or services is taken to be the umbrella VCC for the purpose of that sub-fund.
+
+(5) Any liability of an umbrella VCC for tax in relation to a supply made by it for the purpose of a sub-fund, together with any penalty or other amounts payable to the Comptroller in relation to the supply, is considered (for the purposes of section 29 of the VCC Act) liability incurred by the umbrella VCC for the purpose of the sub-fund.
+
+(6) Any fine or penalty imposed on, or composition sum that may be paid by, an umbrella VCC for an offence under this Act that is committed in connection with any of its sub-funds, including but not limited to —
+
+(a) a supply received or made by it for the purpose of the sub-fund; and
+
+(b) any return, document, information or other matter concerning the sub-fund,
+
+is considered (for the purpose of section 29 of the VCC Act) liability incurred by the umbrella VCC for the purpose of the sub-fund.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 ### Repayment of tax to persons in business overseas
 
@@ -5322,6 +5376,10 @@ GENERAL PROVISIONS
 
 (4) The notice referred to in subsection (3) may be withdrawn or varied by a subsequent notice in writing issued by the Comptroller.
 
+(5) For a period of 2 years starting on the date of commencement of Part 1 of the Variable Capital Companies (Miscellaneous Amendments) Act 2019, the Minister may make regulations to prescribe further modifications to the provisions of this Act in their application to VCCs, umbrella VCCs and sub-funds.
+
+[Act 28 of 2019 wef 15/01/2020]
+
 [Income Tax 1992 Ed., s. 7 (3)]
 
 ### Service of notices, etc.
@@ -5677,6 +5735,42 @@ Liability to be registered
 [S 415/2018 wef 25/06/2018]
 
 [Act 52 of 2018 wef 01/01/2019]
+
+(3A) Where a sub-fund (calledA) is merged with another sub-fund (calledB) (whether of the same umbrella VCC or of another umbrella VCC) and either —
+
+(a) all of the following conditions are satisfied:
+
+(i) Bis the surviving sub-fund following the merger;
+
+(ii) the umbrella VCC ofAwas a taxable person in relation toAimmediately before the merger;
+
+(iii) the umbrella VCC ofBis not a registered person in relation toBat the time of the merger; or
+
+(b) all of the following conditions are satisfied:
+
+(i) a new sub-fund (calledC) is formed following the merger;
+
+(ii) either —
+
+(A) the umbrella VCC ofAwas a taxable person in relation toA; or
+
+(B) the umbrella VCC ofBwas a taxable person in relation toB,
+
+immediately before the merger, or both;
+
+(iii) the umbrella VCC ofCis not a registered person in relation toCat the time of the merger,
+
+then the umbrella VCC ofBorC(as the case may be) becomes liable to be registered in relation to it at the time of the merger if —
+
+(c) in the case of paragraph (a), the total value of all of its taxable supplies made in Singapore for the purpose ofBin the calendar year immediately preceding the calendar year in which the time of merger falls exceeds $1 million; or
+
+(d) in the case of either paragraph (a) or (b), there are reasonable grounds for believing that the total value of all of its taxable supplies made in Singapore for the purpose ofBorCin the period of 12 months then beginning will exceed $1 million.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+(3B) An umbrella VCC is not liable to be registered in relation to a sub-fund by virtue of sub-paragraph (3A)(c) at the end of any calendar year if the Comptroller is satisfied that the value of its taxable supplies made in Singapore for the purpose of that sub-fund in the next calendar year will not exceed $1 million.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (4) In determining the liability of a person to register by virtue of this paragraph, the taxable supplies mentioned in this paragraph exclude any reverse charge supplies of the person.
 
@@ -6312,7 +6406,19 @@ Meaning of control
 
 (2) This paragraph shall not apply where the terms include any provision for payment by instalments.
 
-6\. [Deleted by Act 20/2010 wef 01/01/2011]
+6. Paragraph 4 applies with the following modifications for the purposes of determining whether a person has control over a company that is an umbrella VCC making or receiving the supply in question for the purpose of a sub-fund:
+
+(a) a reference to the issued shares or share capital of, or the voting power in, the company is to the issued shares or share capital of the umbrella VCC in respect of that sub-fund, or the voting power attached to such shares, as the case may be;
+
+(b) a reference to the income of the company is to the income of the umbrella VCC from the sub-fund;
+
+(c) a reference to the assets of the company is to the assets held by the umbrella VCC for the purpose of or that are attributable to that sub-fund;
+
+(d) a reference to a creditor of the company is to the creditor of the umbrella VCC in respect of a loan that is taken by the umbrella VCC for the purpose of that sub-fund;
+
+(e) a reference to the winding up of a company is to the winding up of the umbrella VCC or the sub-fund.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 7\. [Deleted by Act 19/2009 wef 01/01/2010]
 
@@ -7013,6 +7119,10 @@ as the case may be;
 [28/2007 wef 17/02/2006]
 
 [S 676/2008 wef 01/01/2009]
+
+1A. In the definition of “equity security” in paragraph 1, the reference to a share in the capital of a body corporate includes a share in a VCC.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 2. In this Schedule, gold, silver or platinum, as the case may be, possesses investment characteristics if —
 
@@ -7912,6 +8022,11 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of First Reading|7 October 2019 (Bill No. 33/2019 published on 7 October 2019)|
 ||Date of Second and Third Readings|4 November 2019|
 ||Date of commencement|1 January 2020|
+|66.|**Act 28 of 2019—Variable Capital Companies (Miscellaneous Amendments) Act 2019**|
+||Date of First Reading|5 August 2019|
+|||(Bill No. 23/2019)|
+||Date of Second and Third Readings|3 September 2019|
+||Date of commencement|15 January 2020|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
