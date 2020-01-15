@@ -726,7 +726,7 @@
 
 - [106 Powers to amend Schedules](#Powers-to-amend-Schedules)
 
-- [107 (Repealed)](#Repealed)
+- [107 Variable capital companies or VCCs](#Variable-capital-companies-or-VCCs)
 
 - [108 Advance rulings](#Advance-rulings)
 
@@ -734,7 +734,7 @@
 
 [**SECOND SCHEDULE Rates of tax**](#SECOND-SCHEDULE-Rates-of-tax)
 
-[**THIRD SCHEDULE Repealed**](#THIRD-SCHEDULE-Repealed)
+[**THIRD SCHEDULE**](#THIRD-SCHEDULE)
 
 [**FOURTH SCHEDULE Prescribed sections**](#FOURTH-SCHEDULE-Prescribed-sections)
 
@@ -990,11 +990,19 @@ and without prejudice to the generality of the foregoing, a person shall be deem
 
 (b) in relation to a company incorporated under the law of a country other than Singapore, means a share issued by the company which is subsequently acquired and held by it;
 
+“VCC Act” means the Variable Capital Companies Act 2018 (Act 44 of 2018);
+
+[Act 28 of 2019 wef 15/01/2020]
+
 “work pass” means a work pass issued by the Controller of Work Passes under the Employment of Foreign Manpower Act (Cap. 91A);
 
 “year of assessment” means the period of 12 months commencing on 1st January 1948, and each subsequent period of 12 months.
 
 [26/73; 37/75; 5/77; 28/80; 13/84; 31/86; 3/89; 11/94; 32/95; 1/98; 31/98; 32/99; 24/2001; 42/2001; 37/2002; 21/2003; 49/2004; 34/2005; 10/2007; 30/2007; 34/2008; 27/2009; 29/2010; 4/2011; 29/2012; 19/2013]
+
+(1A) The terms “non-umbrella VCC”, “share”, in relation to a VCC, “sub-fund”, “umbrella VCC”, and “VCC” have the meanings given to them in the VCC Act.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (2) For the purposes of this Act, where an individual is present in Singapore for any part of a day, his presence on that day shall be counted as one day.
 
@@ -3981,6 +3989,28 @@ but does not include any sum paid in respect of any debt securities, units of a 
 (17) For the purposes of the definitions of “qualifying mediation” and “qualifying mediator” in subsection (16), the Minister may prescribe a description of mediation service providers and a description of mediator certification or accreditation schemes that are set out on a specified website of the Ministry of Law, as amended from time to time.
 
 [Act 2 of 2016 wef 01/04/2015]
+
+(18) In subsection (2D) —
+
+(a) an umbrella VCC that holds securities for one sub-fund is treated as a different person from the same umbrella VCC that holds securities for another sub-fund;
+
+(b) an umbrella VCC that holds securities for one sub-fund is considered a company that satisfies subsection (2D)(ii) and (iii) if —
+
+(i) the umbrella VCC is resident in Singapore; and
+
+(ii) the sub-fund is listed on the Singapore Exchange on the date of issue of the securities or within 6 months from that date;
+
+(c) income that is received by an umbrella VCC from securities held by it for one sub-fund satisfies subsection (2D)(iv) if the income is declared to be distributable to holders of its shares in respect of that sub-fund within 6 months from the end of the basis period in which the income is received.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+(19) In paragraph (AA) of the definition of “qualifying debt securities” and paragraph (A) of the definition of “qualifying project debt securities” in subsection (16), an umbrella VCC to which securities are issued during their primary launch for the purpose of one sub-fund, is treated as a different person from the same umbrella VCC to which securities are issued during their primary launch for the purpose of another sub-fund.
+
+[Act 28 of 2019 wef 15/01/2020]
+
+(20) A reference in this section to a related party of the issuer of qualifying debt securities or qualifying project debt securities is, if the securities are issued by or to an umbrella VCC in relation to any of its sub-funds, a reference to a person that is related to the sub-fund in such manner as may be prescribed by rules under section 7, and rules made for this purpose may make different provisions for different circumstances.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 ### Exemption of shipping profits
 
@@ -26439,7 +26469,181 @@ the Comptroller may make an assessment or additional assessment under section 74
 
 [Act 32 of 2019 wef 02/12/2019]
 
-107\. [Repealed by Act 19 of 2013]
+### Variable capital companies or VCCs
+
+107\.—(1) For the purposes of this Act, and subject to the modifications in this section and the rules under subsection (30), a reference to a company in this Act and the subsidiary legislation made under it includes a VCC.
+
+(2) Accordingly, a reference to a body of persons (by reason of it being defined in section 2(1) as excluding a company) excludes a VCC.
+
+### Chargeable or exempt income of umbrella VCC
+
+(3) Subject to the modifications in this section and the rules under subsection (30), a reference in this Act and the subsidiary legislation made under it to the chargeable income or exempt income of a person that is an umbrella VCC is to the total of the chargeable income or exempt income (as the case may be) of each of its sub-funds.
+
+(4) For the purpose of determining the chargeable income or exempt income of a sub-fund under subsection (3), the provisions of this Act and the subsidiary legislation made under it (as modified by subsection (1)) apply as if each sub-fund were a VCC, with the following modifications:
+
+(a) a reference to a trade or business carried on by a VCC is to a trade or business carried on by the umbrella VCC in relation to the sub-fund;
+
+(b) a reference to income derived or received by a VCC is to income derived or received by the umbrella VCC in relation to the sub-fund (called in this section income of a sub-fund);
+
+(c) a reference to any outgoing or expense incurred by a VCC in producing income is to either or both of the following (called in this section an expense of a sub-fund):
+
+(i) any outgoing or expense incurred in producing income of the sub-fund;
+
+(ii) the amount of any outgoing or expense allocated to the sub-fund by the umbrella VCC in accordance with section 29(3) of the VCC Act;
+
+(d) a reference to any capital expenditure incurred by a VCC for the purpose of a trade or business is to either or both of the following (called in this section a capital expenditure of a sub-fund):
+
+(i) any capital expenditure incurred for the purpose of a trade or business carried on by the umbrella VCC in relation to the sub-fund;
+
+(ii) the amount of any capital expenditure allocated to the sub-fund by the umbrella VCC in accordance with section 29(3) of the VCC Act;
+
+(e) a reference to any loss incurred by a VCC in carrying on a trade or business is to any loss incurred by the umbrella VCC in carrying on a trade or business in relation to the sub-fund (called in this section a loss of a sub-fund);
+
+(f) a reference to a donation made by a VCC is to a donation made by the umbrella VCC for the purpose of the sub-fund (called in this section a donation of a sub-fund);
+
+(g) a reference to a payment or distribution made to a VCC is to a payment or distribution made to the umbrella VCC for the sub-fund;
+
+(h) a reference in sections 23, 37 and 37E to shareholders of a VCC is to holders of shares of the umbrella VCC in respect of the sub-fund;
+
+(i) a sub-fund is resident in Singapore if its umbrella VCC is resident in Singapore, and a sub-fund is resident outside Singapore if its umbrella VCC is resident outside Singapore.
+
+(5) Subsection (4) does not apply to any provision of this Act that is replaced with another provision under this section for the purpose of subsection (3).
+
+(6) To avoid doubt —
+
+(a) the umbrella VCC is not entitled to any further deduction for any expense, capital expenditure, loss or donation of a sub-fund taken into account in determining the chargeable income or exempt income of the sub-fund; and
+
+(b) any expense, capital expenditure, loss or donation of a sub-fund is not available for deduction against the income of another sub-fund or any other income of the umbrella VCC.
+
+(7) Each part of the chargeable income of an umbrella VCC that is chargeable income of a sub-fund is subject to tax at the rate to which that part would have been subject had the sub-fund been a VCC.
+
+### Segregated liabilities of sub-funds
+
+(8) The amount of any tax attributable to any part of the chargeable income of an umbrella VCC that is chargeable income of a sub-fund, together with any interest or penalty imposed under section 85(2) or 87 in respect of such amount, is considered (for the purpose of section 29 of the VCC Act) liability incurred by the umbrella VCC for the purpose of the sub-fund.
+
+(9) Any fine or penalty imposed on, or composition sum that may be paid by, an umbrella VCC for an offence under this Act that is committed in respect of any information or other matter concerning a sub-fund, is considered (for the purpose of section 29 of the VCC Act) liability incurred by the umbrella VCC for the purpose of the sub-fund.
+
+(10) Any fine or penalty imposed on, or composition sum that may be paid by, an umbrella VCC for an offence under this Act and to which subsection (9) does not apply, is considered (for the purpose of section 29 of the VCC Act) liability incurred by the umbrella VCC for the purpose of all of its sub-funds.
+
+### Deductions not allowed
+
+(11) A VCC may not be allowed any deduction under sections 14A, 14B, 14D, 14DA, 14E, 14F, 14H, 14I, 14K, 14KA, 14N, 14O, 14P, 14PA, 14Q, 14V, 14WA, 14ZB and 37L (including the subsidiary legislation made under them, where applicable) and accordingly may not be approved (where applicable) under them.
+
+(12) Despite subsection (1), no transfer of any deduction may be made under section 37C —
+
+(a) by a VCC to any claimant company or VCC of the same group; or
+
+(b) by a transferor company to any VCC of the same group.
+
+### Application of sections 13R and 13X
+
+(13) Section 13R and the regulations made under it apply for the purpose of determining the exempt income of a sub-fund under subsection (3) as if it were an approved company under that section if the umbrella VCC of the sub-fund is approved for the purpose of that section.
+
+(14) Where the relevant owner mentioned in section 13R(3) is an umbrella VCC, the amount of any financial penalty under that provision that it is liable for is considered (for the purpose of section 29 of the VCC Act) liability incurred by it for the purpose of its sub-funds, and the amount of such liability in relation to each sub-fund is to be computed in accordance with the formula
+
+where —
+
+(a) A is the total value of issued securities held by the umbrella VCC for the sub-fund on the relevant day as defined in section 13R(8);
+
+(b) B is the total value of all the issued securities held by the umbrella VCC for all its sub-funds on the relevant day as defined in section 13R(8); and
+
+(c) C is the amount of the penalty.
+
+(15) Section 13X and the regulations made under it apply for the purpose of determining the exempt income of a sub-fund under subsection (3) as if it were —
+
+(a) an approved person under that section;
+
+(b) the approved master fund of an approved master fund-SPV structure, master-feeder fund-SPV structure or master-feeder fund structure under that section; or
+
+(c) an approved feeder fund of an approved master-feeder fund-SPV structure or master-feeder fund structure under that section,
+
+if its umbrella VCC is approved by the Minister or a person appointed by the Minister for the purpose of that section.
+
+(16) The amount of any tax recoverable from the umbrella VCC under the regulations made under section 13X that is attributable to any income of a sub-fund, is considered (for the purpose of section 29 of the VCC Act) liability incurred by the umbrella VCC for the purpose of the sub-fund.
+
+### Application of section 13Z
+
+(17) Section 13Z in Part 1 of the Third Schedule applies in place of section 13Z for the purpose of determining the exempt income of a sub-fund under subsection (3) from the disposal of —
+
+(a) ordinary shares in a company (other than a VCC); or
+
+(b) ordinary shares in a VCC (called in this subsection and subsection (18) VCCX).
+
+(18) Where VCCXis an umbrella VCC, section 13Z in Part 1 of the Third Schedule applies for the purpose of determining the exempt income of a sub-fund under subsection (3) with the following further modifications:
+
+(a) the section is to be applied in relation to the disposal of ordinary shares of VCCXin respect of each sub-fund as if VCCXonly has that one sub-fund;
+
+(b) accordingly, a reference in the section to the legal and beneficial ownership of any ordinary shares in a VCC is to the legal and beneficial ownership of ordinary shares in VCCXin respect of that sub-fund.
+
+(19) Section 13Z applies for the purpose of determining the exempt income of a company (including a non-umbrella VCC but excluding an umbrella VCC) from the disposal of ordinary shares in an umbrella VCC with the following modifications:
+
+(a) the section is to be applied in relation to the disposal of ordinary shares of the umbrella VCC in respect of each sub-fund as if the umbrella VCC only has that one sub-fund;
+
+(b) accordingly, a reference in that section to the legal and beneficial ownership of any ordinary shares in a VCC is to the legal and beneficial ownership of ordinary shares in the umbrella VCC in respect of that sub-fund.
+
+(20) In subsections (17), (18) and (19), “ordinary share”, in relation to a VCC, means any share other than a share that carries only a right to any dividend which is —
+
+(a) of a fixed amount or at a fixed rate per cent of the value of the share; or
+
+(b) either —
+
+(i) where the VCC is a non-umbrella VCC, of a fixed rate per cent of the profits of the non-umbrella VCC; or
+
+(ii) where the VCC is an umbrella VCC, of a fixed rate per cent of the profits of the umbrella VCC in relation to the sub-fund in respect of which the share was issued.
+
+### Application of sections 34D, 34E and 34F
+
+(21) Section 34D applies for the purpose of determining the chargeable income or exempt income of a sub-fund under subsection (3), and section 34E applies for the recovery of any surcharge resulting from any adjustment by the Comptroller under section 34D as applied by this subsection, subject to the following modifications:
+
+(a) a sub-fund is treated as a person;
+
+(b) a person is related to a sub-fund if it is related to the sub-fund in such manner as may be prescribed by rules under section 7.
+
+(22) Any surcharge under section 34E as applied by subsection (21) is recoverable from the umbrella VCC and constitutes a liability incurred by the umbrella VCC for the purpose of the sub-fund concerned for the purpose of section 29 of the VCC Act.
+
+(23) Section 34F applies to an umbrella VCC —
+
+(a) as if a reference to the gross revenue of a company is to the gross revenue of any of its sub-funds; and
+
+(b) as if a reference to a transaction undertaken by a company with a related party is to a transaction undertaken by the umbrella VCC for the purpose of any of its sub-funds with any person that is related to the sub-fund in such manner as may be prescribed by rules under section 7.
+
+### Application of sections 34G and 34H
+
+(24) Sections 34G and 34H apply to a body corporate incorporated outside Singapore that is a non-umbrella VCC registered as a VCC under Part 12 of the VCC Act, as they apply to a redomiciled company as defined in section 34G, subject to the following modifications:
+
+(a) a reference to the registration date of a redomiciled company or an approved redomiciled company is to the date of registration of the VCC specified in the notice of transfer of registration issued to it under section 135(3) of the VCC Act;
+
+(b) a reference to the place of incorporation of an approved redomiciled company is to the jurisdiction where the VCC was domiciled at the time it applied for registration under Part 12 of the VCC Act;
+
+(c) section 34G(9) does not apply except in respect of section 14U;
+
+(d) section 34G(20A), (20B) and (20C) does not apply.
+
+(25) Section 34G in Part 2 of the Third Schedule applies in place of section 34G for the purpose of determining under subsection (3) the chargeable income or exempt income of a sub-fund of a body corporate incorporated outside Singapore that is registered as a VCC under Part 12 of the VCC Act and that is an umbrella VCC (called in this section a redomiciled umbrella VCC).
+
+(26) Section 34H in Part 2 of the Third Schedule applies in place of section 34H for the purpose of determining the tax credits for a redomiciled umbrella VCC.
+
+### Application of sections 45, 45A, 45AA, 45B, 45D and 45F
+
+(27) Where —
+
+(a) section 45, 45A, 45AA, 45D or 45F applies to any payment by an umbrella VCC for the purpose of a sub-fund; or
+
+(b) section 45B applies to any remuneration payable by an umbrella VCC to a director of the VCC that is allocated by the VCC to a sub-fund,
+
+any resulting debt mentioned in that section (including, where applicable, section 45 as applied by that section), together with any penalty or fine imposed on the VCC, or composition sum that may be paid by the VCC, for an offence under that section (including, where applicable, section 45 as applied by that section), that is committed in relation to such income is considered (for the purpose of section 29 of the VCC Act) liability incurred by the VCC for the purpose of the sub-fund.
+
+### Application of sections 50, 50A and 50C
+
+(28) Sections 50, 50A and 50C in Part 3 of the Third Schedule apply in place of sections 50, 50A and 50C respectively, in a case where the income in question is that of an umbrella VCC.
+
+### Miscellaneous
+
+(29) Rules made for the purposes mentioned in subsections (21)(b) and (23)(b) may make different provisions for different circumstances.
+
+(30) The Minister may, for a period of 2 years starting on the date of commencement of the Variable Capital Companies (Miscellaneous Amendments) Act 2019, make rules to prescribe further modifications to any provision of this Act in its application to a VCC, an umbrella VCC or a sub-fund of an umbrella VCC.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 ### Advance rulings
 
@@ -27007,7 +27211,789 @@ $100,000
 
 THIRD SCHEDULE
 
-[Repealed by Act 2 of 86]
+Part 1
+
+PROVISION THAT APPLIES IN PLACE OF SECTION 13Z
+
+
+
+
+WHERE INCOME IS THAT OF AN UMBRELLA VCC FROM
+
+
+
+
+DISPOSAL OF ORDINARY SHARES IN A COMPANY OR VCC
+
+Section 107(17) and (18)
+
+Section 13Z is replaced with section 13Z as set out below for the purpose of determining under section 107(3) the income of a sub-fund of an umbrella VCC:
+
+“Exemption of gains or profits from disposal of ordinary shares 
+
+13Z\. —(1) There is exempt from tax any gains or profits derived by an umbrella VCC (called in this section the divesting VCC) for the purpose of a sub-fund from the disposal of ordinary shares in a company (called in this section company X) or of ordinary shares in a VCC (called in this section VCC X) that are legally and beneficially owned by the divesting VCC for the purpose of that sub-fund immediately before the disposal, being a disposal made —
+
+(a)
+
+on or before 31 May 2022; and
+
+(b)
+
+after the divesting VCC has, at all times during a continuous period of at least 24 months ending on the date immediately prior to the date of disposal of such shares, legally and beneficially owned, for the purpose of that sub-fund, at least 20% of the ordinary shares in company X or VCC X, as the case may be.
+
+(2) Subsection (1) applies only if the divesting VCC provides, at the time of lodgment of its return of income for the year of assessment relating to the basis period in which the disposal occurs, or within such further time as the Comptroller may in the Comptroller’s discretion allow, such information and supporting documents as may be specified by the Comptroller.
+
+(3) In determining the amount of gains or profits that are exempt from tax under subsection (1) for any year of assessment, there is to be deducted all outgoings and expenses wholly and exclusively incurred by the divesting VCC in the production of such gains or profits, including —
+
+(a)
+
+the price paid in acquiring those shares;
+
+(b)
+
+any sum payable by way of interest upon any money borrowed by the divesting VCC, where the Comptroller is satisfied that the interest was payable on capital employed to acquire those shares;
+
+(c)
+
+any sum payable in lieu of interest or for the reduction thereof, upon any money borrowed by the divesting VCC, being a sum of a type prescribed under section 14(1)(a)(ii), where the Comptroller is satisfied that it was payable on capital employed to acquire those shares;
+
+(d)
+
+any legal costs incurred for the acquisition or disposal of those shares;
+
+(e)
+
+any amount paid in respect of stamp duty for the acquisition or disposal of those shares; and
+
+(f)
+
+any other expenses allowable under this Act that are directly attributable to those gains or profits.
+
+(4) For the purposes of subsection (1), the divesting VCC remains the legal and beneficial owner of any ordinary shares in company X or VCC X (as the case may be) for the purpose of the sub-fund during the borrowing period when the legal interest in such shares had been transferred by the divesting VCC to another person under a securities lending or repurchase arrangement.
+
+(5) Where —
+
+(a)
+
+gains or profits derived from the disposal of ordinary shares in company X or VCC X by the divesting VCC for the purpose of the sub-fund are exempt from tax under subsection (1); and
+
+(b)
+
+one or more amounts mentioned in subsection (6) that are attributable to any of the ordinary shares disposed of, have been allowed as a deduction in determining the chargeable income of the sub-fund under section 107(3) for any year of assessment prior to the year of assessment relating to the basis period in which the ordinary shares are disposed of,
+
+then the amounts in paragraph (b) are to be included in the chargeable income of the sub-fund under section 107(3) for the second-mentioned year of assessment.
+
+(6) Subsection (5) applies to the following amounts:
+
+(a)
+
+any amount provided for a diminution in the value of the ordinary shares;
+
+(b)
+
+any amount written off against the value of the ordinary shares;
+
+(c)
+
+any impairment loss for the ordinary shares;
+
+(d)
+
+any loss recognised in accordance with SFRS for Small Entities, FRS 109 or SFRS(I) 9 (as the case may be), in determining the profit or loss or expense in respect of the ordinary shares.
+
+(7) Where —
+
+(a)
+
+gains or profits derived from the disposal of ordinary shares by the divesting VCC for the purpose of the sub-fund are exempt from tax under subsection (1); and
+
+(b)
+
+any write-back for a diminution in the value of the ordinary shares, or profit recognised in accordance with SFRS for Small Entities, FRS 109 or SFRS(I) 9 (as the case may be), that is attributable to any of the ordinary shares (being chargeable income of the sub-fund under section 107(3)) has been charged to tax as income of the umbrella VCC for any year of assessment prior to the year of assessment relating to the basis period in which the shares are disposed of,
+
+then the write-back or profit in paragraph (b) is taken to be an expense allowable under this Act in determining the chargeable income of the sub-fund under section 107(3) for the second-mentioned year of assessment.
+
+(8) This section does not apply to —
+
+(a)
+
+the disposal of shares in a company which is in the business of trading or holding Singapore immovable properties (excluding property development), where the shares are not listed on a stock exchange in Singapore or elsewhere; or
+
+(b)
+
+the disposal of shares by a partnership, limited partnership or limited liability partnership one or more of the partners of which is a company or VCC, or are companies or VCCs.
+
+(9) In this section —
+
+“borrowing period” and “securities lending or repurchase arrangement” have the meanings given to those expressions in section 10N(12);
+
+“disposal”, in relation to shares, means the transfer of both the legal and beneficial interests in the shares to another;
+
+“FRS 109” and “SFRS(I) 9” have the meanings given to those expressions in section 34AA(15);
+
+“SFRS for Small Entities” has the meaning given to it in section 34A(10);
+
+“ordinary share”, in relation to a VCC, means any share other than a share that carries only a right to any dividend which is —
+
+(a)
+
+of a fixed amount or at a fixed rate per cent of the value of the share; or
+
+(b)
+
+either —
+
+(i)
+
+where the VCC is a non-umbrella VCC, of a fixed rate per cent of the profits of the non-umbrella VCC; or
+
+(ii)
+
+where the VCC is an umbrella VCC, of a fixed rate per cent of the profits of the umbrella VCC in relation to the sub-fund in respect of which the share was issued.”.
+
+Part 2
+
+PROVISIONS THAT APPLY IN PLACE OF SECTIONS 34G AND 34H
+
+
+
+
+TO AN UMBRELLA VCC INCORPORATED OUTSIDE SINGAPORE
+
+
+
+
+AND REGISTERED AS A VCC UNDER PART 12 OF VCC ACT
+
+Section 107(25) and (26)
+
+Sections 34G and 34H are replaced with sections 34G and 34H respectively as set out below for the purposes of determining, under section 107(3), the income of a sub-fund of a body corporate incorporated outside Singapore that is registered as a VCC under Part 12 of the VCC Act and that is an umbrella VCC, and the tax credits for such a body corporate:
+
+“Modifications of provisions for umbrella VCCs redomiciled in Singapore 
+
+34G\. —(1) This section applies for the purposes of determining under section 107(3) the income of a sub-fund of a redomiciled VCC.
+
+Interpretation
+
+(2) In this section —
+
+“FRS 109” and “SFRS(I) 9” have the meanings given to those expressions in section 34AA(15);
+
+“redomiciled VCC” means a body corporate incorporated outside Singapore that is registered as a VCC under Part 12 of the VCC Act, and is an umbrella VCC;
+
+“registration date”, in relation to a redomiciled VCC, means the date of its registration specified in the notice of transfer of registration issued to it under section 135(3) of the VCC Act.
+
+Deductions for bad debts and impairment losses for debts
+
+(3) Despite sections 10(1), 14(1)(d) and 34AA(1), where a redomiciled VCC has any debt owed to it in the course of carrying on a trade or business in relation to a sub-fund outside Singapore (called in this section the sub-fund’s trade or business outside Singapore) that was incurred before its registration date and, at any time on or after that date, the debt is written off as bad or impairment loss is provided for that debt —
+
+(a)
+
+no deduction is allowed for the debt or any provision made for it; and
+
+(b)
+
+any amount recovered from the debt, or any reversal of the impairment loss, is not chargeable to tax.
+
+Deductions for impairment losses
+
+(4) Despite sections 10(1) and 34AA(1), where a redomiciled VCC incurred before its registration date any impairment loss from any financial asset on revenue account acquired for the purpose of the sub-fund’s trade or business outside Singapore, any amount of the loss that is reversed after that registration date is not chargeable to tax.
+
+(5) Where a redomiciled VCC incurs on or after its registration date any impairment loss in the course of carrying on a trade or business in relation to a sub-fund in Singapore (called in this section the sub-fund’s trade or business in Singapore), from any financial asset on revenue account that was acquired for the purpose of the sub-fund’s trade or business outside Singapore before its registration date —
+
+(a)
+
+a deduction is allowed in determining the sub-fund’s income for that loss to the extent that it becomes credit-impaired within the meaning of FRS 109 or SFRS(I) 9 (as the case may be); and
+
+(b)
+
+any amount of that loss that is subsequently reversed is deemed as income of the sub-fund to the extent of the deduction allowed under paragraph (a).
+
+(6) Subsections (4) and (5) do not apply to an impairment loss from a debt to which subsection (3) applies.
+
+Deductions for expenses
+
+(7) No deduction is allowed under section 14 for any expense incurred by a redomiciled VCC before its registration date for the purpose of the sub-fund’s trade or business outside Singapore and for which the VCC has been allowed or given any deduction or relief under any law of a country outside Singapore that levies tax of a similar character to income tax (by whatever name called).
+
+Deductions for trading stocks
+
+(8) For the purposes of determining the amount of deduction to be allowed in determining the sub-fund’s income under any provision of this Act for any trading stock that the redomiciled VCC acquired before its registration date for the purpose of the sub-fund’s trade or business outside Singapore, the value of the trading stock is the lower of the following:
+
+(a)
+
+the cost of the trading stock to the redomiciled VCC;
+
+(b)
+
+the net realisable value of the trading stock on that date.
+
+Deductions under section 14U
+
+(9) Despite anything in section 14U, where the redomiciled VCC has never at any time carried on any trade or business in relation to the sub-fund in or outside Singapore before its registration date, a deduction may only be allowed for the purpose of determining the sub-fund’s income under that section for any cost, payment or expenditure incurred or made before that registration date, if such cost, payment or expenditure is incurred or made for the purpose of the sub-fund’s trade or business in Singapore.
+
+(10) The deduction under subsection (9) may only be allowed for the year of assessment relating to the basis period in which the sub-fund’s trade or business in Singapore commenced.
+
+Allowances for machinery or plant under section 19
+
+(11) Where a redomiciled VCC —
+
+(a)
+
+incurred capital expenditure before its registration date to acquire any machinery or plant for the purpose of the sub-fund’s trade or business outside Singapore; and
+
+(b)
+
+uses the machinery or plant for the purposes of the sub-fund’s trade or business in Singapore on or after that date,
+
+then, for the purpose of determining the sub-fund’s income, an initial allowance may be made for that capital expenditure, and an annual allowance may be made for the depreciation by wear and tear of that machinery or plant, in accordance with section 19 as modified under subsection (12).
+
+(12) Section 19 applies in relation to the making of initial and annual allowances under subsection (11), and to initial and annual allowances so made, subject to the following modifications:
+
+(a)
+
+the allowances may only be made under that section if the redomiciled VCC carries on a trade or business in relation to the sub-fund in Singapore on or after the redomiciled VCC’s registration date;
+
+(b)
+
+the capital expenditure is treated as having been incurred for the provisioning of the machinery or equipment for the sub-fund’s trade or business in Singapore;
+
+(c)
+
+except as provided under paragraph (d), the allowances under that section may only be made in respect of the lower of the following:
+
+(i)
+
+the net book value of the machinery or plant as of the registration date;
+
+(ii)
+
+the market value of the machinery or plant as of that date,
+
+and that lower amount is treated as the capital expenditure incurred in acquiring that machinery or plant, and the original cost of the machinery or plant;
+
+(d)
+
+for the purposes of making the initial allowance under section 19(1) in determining the sub-fund’s income for any machinery or plant that is acquired under a hire-purchase agreement, the reference in that provision to the capital expenditure is a reference to an amount computed by the formula
+
+where —
+
+(i)
+
+A is —
+
+(A)
+
+in the first year of claim for that allowance, the sum of all deposits and instalment payments (excluding finance charges) made up to the end of the basis period in which the date of commencement of the sub-fund’s trade or business in Singapore falls; and
+
+(B)
+
+in each subsequent year of claim for that allowance, the sum of all instalment payments (excluding finance charges) made in the basis period to which the claim relates;
+
+(ii)
+
+B is the sum of all deposits and instalment payments (excluding any finance charges) under the hire-purchase agreement; and
+
+(iii)
+
+C is the lower amount of the machinery or plant mentioned in paragraph (c);
+
+(e)
+
+for the purposes of making the initial allowance in determining the sub-fund’s income, the capital expenditure is treated as having been incurred by the redomiciled VCC on the first day on which it carries on the sub-fund’s trade or business in Singapore;
+
+(f)
+
+section 19(1B), (2)(b), (3), (4), (5) and (5B) does not apply;
+
+(g)
+
+such other modifications as may be prescribed.
+
+(13) Except as provided under subsection (11), no allowance may be made under section 19 in determining the sub-fund’s income in a case mentioned in subsection (11)(a) and (b), in relation to any capital expenditure mentioned in subsection (11)(a).
+
+Allowances for machinery, plant, etc., under section 19A
+
+(14) Where a redomiciled VCC —
+
+(a)
+
+incurred capital expenditure before its registration date to acquire any item mentioned in section 19A(1), (2), (3), (4), (5), (6), (7) or (8) or develop a website mentioned in section 19A(10), for the purpose of the sub-fund’s trade or business outside Singapore; and
+
+(b)
+
+uses such item or website for the purposes of the sub-fund’s trade or business in Singapore on or after that date,
+
+then an allowance may be made in determining the sub-fund’s income in lieu of the allowances under section 19 (as applied by subsection (11)), for the capital expenditure under section 19A(1), (2), (3), (4), (5), (6), (7), (8) or (10) (whichever is applicable), as modified under subsection (15).
+
+(15) Section 19A applies in relation to the making of an allowance under subsection (14), and to any allowance so made, subject to the following modifications:
+
+(a)
+
+the allowance may only be made under that section if the redomiciled VCC carries on a trade or business in relation to the sub-fund in Singapore on or after its registration date;
+
+(b)
+
+the capital expenditure is treated as having been incurred for the provision of the item or website for the sub-fund’s trade or business in Singapore;
+
+(c)
+
+the allowance may only be made in respect of the lower of the following:
+
+(i)
+
+the net book value of the item or website as of the registration date;
+
+(ii)
+
+the market value of the item or website as of that date,
+
+and that lower amount is treated as the capital expenditure incurred on the provision of the item or website for the sub-fund’s trade or business in Singapore, and the original cost of the item in section 19A(10C) (if applicable);
+
+(d)
+
+section 19A(1B), (1C), (1D), (2A), (2B), (2BAA), (2BA), (2BB), (2BC), (2C), (2D), (2E), (2F), (2FA), (2FB), (2G), (2GA), (2H), (2HA), (2HB), (2I), (2IA), (2J), (2K), (9), (9A), (13A), (13B), (16), (16A), (16B), (17) and (18) does not apply;
+
+(e)
+
+such other modifications as may be prescribed.
+
+(16) Except as provided under subsection (14), no allowance may be made under section 19A in determining the sub-fund’s income in a case mentioned in subsection (14)(a) and (b), in relation to any capital expenditure mentioned in subsection (14)(a).
+
+Writing-down allowances for intellectual property rights under section 19B
+
+(17) Where a redomiciled VCC —
+
+(a)
+
+incurred capital expenditure before its registration date to acquire any intellectual property rights for the purpose of the sub-fund’s trade or business outside Singapore; and
+
+(b)
+
+uses those rights for the purpose of the sub-fund’s trade or business in Singapore on or after that date,
+
+then writing-down allowances may be made in determining the sub-fund’s income for the capital expenditure, in accordance with section 19B as modified by subsection (18).
+
+(18) Section 19B applies in relation to the making of writing-down allowances under subsection (17), and to writing-down allowances so made, subject to the following modifications:
+
+(a)
+
+the allowances may only be made under that section if the sub-fund’s trade or business is carried on in Singapore on or after the registration date;
+
+(b)
+
+the capital expenditure is treated as having been incurred for the acquisition of those intellectual property rights for use in the sub-fund’s trade or business in Singapore;
+
+(c)
+
+the allowances may only be made in respect of the lower of the following:
+
+(i)
+
+the acquisition cost of the intellectual property rights less accumulated amortisation and impairment losses as of the registration date;
+
+(ii)
+
+the open-market price of the rights as of that date,
+
+and that lower amount is treated as the capital expenditure incurred in acquiring those rights;
+
+(d)
+
+section 19B(1), (1A), (1AA)(b), (1AC), (1B), (1BAA), (1BA), (1BB), (1BC), (1C), (1D), (1E), (2B), (2C), (2D), (2E), (8), (9), (10D), (10E), (10F), (10G), (10H), (10I), (10J), (10K) and (12) does not apply;
+
+(e)
+
+the election under section 19B(1AB) must be made at the time of lodgment of the redomiciled VCC’s return of income for the year of assessment relating to the later of the following:
+
+(i)
+
+the basis period in which the redomiciled VCC’s registration date falls;
+
+(ii)
+
+the basis period in which the date of commencement of the sub-fund’s trade or business in Singapore falls;
+
+(f)
+
+such other modifications as may be prescribed.
+
+(19) In subsection (18)(c), “open-market price”, in relation to intellectual property rights, has the meaning given to it by section 19B(10F), with the reference to the acquisition date of those rights substituted with a reference to the redomiciled VCC’s registration date.
+
+(20) Except as provided under subsection (17), no writing-down allowance may be made under section 19B in determining the sub-fund’s income in a case mentioned in subsection (17)(a) and (b) in relation to any capital expenditure mentioned in subsection (17)(a).
+
+Section 43(6C) inapplicable
+
+(21) Section 43(6C) does not apply.
+
+Regulations
+
+(22) The Minister may make regulations necessary or convenient to be prescribed for carrying out or giving effect to this section and section 34H, and in particular, make regulations to provide for such transitional, supplementary or consequential matters as the Minister considers necessary or expedient.
+
+Tax credits for approved redomiciled VCCs 
+
+34H\. —(1) This section applies where —
+
+(a)
+
+a body corporate incorporated outside Singapore is registered as a VCC under Part 12 of the VCC Act and is an umbrella VCC (called in this section the redomiciled VCC);
+
+(b)
+
+the redomiciled VCC is approved by the Minister for the purposes of this section;
+
+(c)
+
+the redomiciled VCC derived or received income for the purpose of a sub-fund (called in this section incomeA) that is chargeable to tax in one or more years of assessment beginning with the year of assessment for the basis period in which its registration date falls; and
+
+(d)
+
+the redomiciled VCC’s place of incorporation levies on the VCC tax of a similar character to income tax (by whatever name called) on an estimate of incomeA(called in this section incomeB).
+
+(2) The redomiciled VCC must be allowed, in accordance with subsection (4), a tax credit against tax payable in respect of the part of incomeAthat is derived or received in the basis period for each year of assessment specified by the Minister to the VCC at the time of its approval (called in this section a specified year of assessment).
+
+(3) The total amount of tax credits to be allowed to the redomiciled VCC for all of its specified years of assessment in respect of incomeA, is an amountCthat is computed by the formula (B − B1) × D, where —
+
+(a)
+
+B is the amount of incomeB;
+
+(b)
+
+B1 is the part of incomeBthat is derived wholly from any agreement or arrangement entered into on or after the registration date, as well as any other income prescribed by regulations made under section 34G; and
+
+(c)
+
+D is the lower of the following:
+
+(i)
+
+the rate by which the part of incomeAderived or received in the basis period in which its registration date falls is chargeable to tax;
+
+(ii)
+
+the rate by which incomeBis chargeable to the tax described in subsection (1)(b).
+
+(4) Where, throughout a basis period for a specified year of assessment, the redomiciled VCC —
+
+(a)
+
+is resident in Singapore; and
+
+(b)
+
+satisfies all of the conditions specified by the Minister to it at the time of its approval,
+
+then there is to be allowed, against the amount of tax chargeable on incomeE, a credit of an amount that is the lower of the following:
+
+(c)
+
+the amount of tax;
+
+(d)
+
+an amount computed by deducting from the amountCthe total amount of tax credits previously allowed under this section against the tax chargeable on any income of the sub-fund.
+
+(5) In subsection (4), incomeEfor a year of assessment is the amount of the part of incomeAderived or received in the basis period for that year of assessment after deducting the following:
+
+(a)
+
+the expenses and donations of a sub-fund for that year of assessment that are attributable to or apportioned to the part of incomeA;
+
+(b)
+
+any capital allowances in respect of any capital expenditure of a sub-fund for that year of assessment that is attributable to the part of incomeAwhether or not any claim for those allowances has been made;
+
+(c)
+
+any balance of those expenses, allowances and donations which have not been deducted under this subsection for the purpose of determining incomeEfor any previous year of assessment.
+
+(6) The balance of any expenses, allowances or donations mentioned in subsection (5) may only be used to determine incomeEfor a subsequent specified year of assessment, and is not available as a deduction against any other income in determining the chargeable income of the sub-fund under section 107(3).
+
+(7) However, any balance mentioned in subsection (6) that remains —
+
+(a)
+
+after ascertaining incomeEfor the last of the specified years of assessment; or
+
+(b)
+
+as of the date of revocation of the approval of the redomiciled VCC,
+
+may be deducted against any other income in determining the chargeable income of the sub-fund under section 107(3) for a subsequent year of assessment, or the year of assessment for the basis period in which the approval is revoked or a subsequent basis period (whichever is applicable), in accordance with section 23 or 37 (as applied by section 107(3)), as the case may be.
+
+(8) Any balance of the amountCafter a tax credit has been allowed for the last of the specified years of assessment must be disregarded.
+
+(9) If, at any time after the registration date, and during a period specified by the Minister to it at the time of its approval, the redomiciled VCC ceases to carry on any trade or business in Singapore in relation to that sub-fund mentioned in subsection (1), an amount computed using the formula
+
+is recoverable by the Comptroller from the umbrella VCC as a debt due to the Government, where —
+
+(a)
+
+F is the total number of its specified years of assessment or 5, whichever is larger;
+
+(b)
+
+G is the total number of complete years where the umbrella VCC carried on a trade or business in Singapore in relation to that sub-fund; and
+
+(c)
+
+H is the total amount of tax credits already allowed against the tax chargeable on the income of the sub-fund under this section.
+
+(10) If the Comptroller is satisfied that —
+
+(a)
+
+the redomiciled VCC gave to the Comptroller information that is false in any material particular, or omitted any material particular from any information or document given to the Comptroller; and
+
+(b)
+
+as a result of the false information or omission, an amount of tax credit was allowed against tax chargeable on income under this section,
+
+then an amount equal to the amount of tax credit so allowed is recoverable by the Comptroller from the VCC as a debt due to the Government.
+
+(11) The amount of the tax credit recoverable from the VCC under subsection (9) or (10) is considered (for the purpose of section 29 of the VCC Act) liability incurred by the VCC for the purpose of the sub-fund mentioned in subsection (9), or for the purpose of the sub-fund to which the information or document mentioned in subsection (10) relates.
+
+(12) The amount recoverable under subsection (9) or (10) must be paid at the place stated in the notice served by the Comptroller on the redomiciled VCC within 30 days after the service of the notice.
+
+(13) The Comptroller may, in the Comptroller’s discretion, and subject to such terms and conditions as the Comptroller may impose, extend the time within which payment is to be made.
+
+(14) Sections 86(1), (2), (3), (4), (5) and (6), 87(1) and (2), 89, 90 and 91 apply to the collection and recovery by the Comptroller of the amount recoverable under subsection (9) or (10) as they apply to the collection and recovery of tax.
+
+(15) In this section —
+
+“capital expenditure of a sub-fund”, “donation of a sub-fund” and “expense of a sub-fund” have the meanings given to them in section 107(4);
+
+“place of incorporation”, in relation to the redomiciled VCC, means the jurisdiction where the VCC was domiciled at the time it applied for registration under Part 12 of the VCC Act;
+
+“registration” means registration under section 135(1) of the VCC Act;
+
+“registration date”, in relation to the redomiciled VCC, means the date of its registration specified in the notice of transfer of registration issued to it under section 135(3) of the VCC Act.”.
+
+Part 3
+
+provisions THAT APPLY IN PLACE OF
+
+
+
+
+SECTIONS 50, 50A AND 50C WHERE INCOME
+
+
+
+
+IS THAT OF UMBRELLA VCC
+
+Section 107(28)
+
+Sections 50, 50A and 50C as set out below apply in place of sections 50, 50A and 50C respectively in a case where the income in question is that of an umbrella VCC:
+
+“Tax credits 
+
+50\. —(1) This section has effect where, under arrangements having effect under section 49, tax payable in the territory of the government of which the arrangements are made, in respect of any income of an umbrella VCC, is to be allowed as a credit against tax payable in respect of that income in Singapore.
+
+(2) Where the umbrella VCC is resident in Singapore, the amount of income tax chargeable on the income is reduced by deducting, from the amount of the income tax that is attributable to the part of the chargeable income of the umbrella VCC that is income derived or received by the umbrella VCC for the purpose of each of its sub-funds (called in this section a sub-fund’s assessable income), the amount of the credit that is attributable to the sub-fund’s assessable income.
+
+(3) The amount of the credit under subsection (2) must not exceed the amount produced by computing the amount of the income of the sub-fund in accordance with the provisions of this Act and the subsidiary legislation made under it (as modified by section 107 to apply to a VCC) as if it were a VCC, and then charging it to income tax at a rate ascertained by the formula
+
+where —
+
+(a)
+
+A is the income tax chargeable (before making the reduction under subsection (2)) on the sub-fund’s assessable income had it been a VCC; and
+
+(b)
+
+B is the amount of the sub-fund’s assessable income.
+
+(4) Without limiting subsection (3), the amount of the reduction under subsection (2) in respect of any sub-fund for any year of assessment for foreign tax under all arrangements having effect under section 49 must not exceed the total amount of income tax payable by the umbrella VCC that is attributable to the assessable income of the sub-fund, excluding any tax payable by the umbrella VCC under section 45 or that section as applied by section 107(27), that is attributable to such income.
+
+(5) In computing the amount of the sub-fund’s assessable income under subsection (2) —
+
+(a)
+
+no deduction may be allowed in respect of foreign tax (whether in respect of the same or any other income);
+
+(b)
+
+where the income tax chargeable depends on the amount received in Singapore, that amount is to be increased by the appropriate amount of the foreign tax in respect of the income; and
+
+(c)
+
+where the income includes a dividend and under the arrangements foreign tax not chargeable directly or by deduction in respect of the dividend is to be taken into account in considering whether any (and if so what) credit is to be given against income tax in respect of the dividend, the amount of the income is to be increased by the amount of the foreign tax not so chargeable that falls to be taken into account in computing the amount of the credit.
+
+(6) Subsection (5)(a) and (b) applies to the computation of the sub-fund’s assessable income in subsection (3) for the purposes of determining the rate mentioned in that subsection, and applies to such computation in relation to all income in the case of which credit falls to be given for foreign tax under arrangements for the time being in force under section 49.
+
+(7) Where —
+
+(a)
+
+the arrangements provide, in relation to dividends of some classes, but not in relation to dividends of other classes, that foreign tax not chargeable directly or by deduction in respect of dividends is to be taken into account in considering whether any (and if so what) credit is to be given against income tax in respect of the dividends; and
+
+(b)
+
+a dividend is paid that is not of a class in relation to which the arrangements so provide,
+
+then, if the dividend is paid to the umbrella VCC for the purpose of a sub-fund and the umbrella VCC controls directly or indirectly, through that sub-fund, not less than one-half of the voting power in the company paying the dividend, credit is to be allowed as if the dividend were a dividend of a class in relation to which the arrangements so provide.
+
+(8) Where an umbrella VCC elects that credit may not be allowed under this section in respect of the income derived or received by the umbrella VCC for the purpose of its sub-funds for any year of assessment, credit may not be allowed under the arrangements against the income tax chargeable in respect of the umbrella VCC’s income for that year.
+
+(9) Where an umbrella VCC elects that credit may not be allowed under this section in respect of the income of one or some (but not all) of its sub-funds for any year of assessment, then this section applies as if the umbrella VCC only consists of the sub-fund or sub-funds for which no such election was made.
+
+(10) Any claim for an allowance by way of credit must be made not later than 2 years after the end of the year of assessment, and in the event of any dispute as to the amount allowable the claim is subject to objection and appeal in like manner as an assessment.
+
+(11) Where the amount of any credit given under the arrangements is rendered excessive or insufficient by reason of any adjustment of the amount of any tax payable either in Singapore or elsewhere, nothing in this Act limiting the time for the making of assessments or claims for relief applies to any assessment or claim to which the adjustment gives rise, being an assessment or claim made not later than 2 years from the time when all such assessments, adjustments and other determinations have been made, whether in Singapore or elsewhere, as are material in determining whether any (and if so what) credit falls to be given.
+
+(12) The amount that corresponds to the amount of tax attributable to a sub-fund’s assessable income, that is considered liability incurred by the umbrella VCC for the purpose of the sub-fund under section 107(8), is to be reduced by the amount of the credit deducted from such income under subsection (2).
+
+(13) In this section —
+
+“foreign tax” means any tax payable in that territory which under the arrangements is to be so allowed;
+
+“income tax” means tax chargeable under this Act.
+
+Unilateral tax credits 
+
+50A\. —(1) Even if there are no arrangements in force under section 49 with the government of any territory outside Singapore, tax credit under section 50 must be given to any umbrella VCC resident in Singapore against tax chargeable in respect of any of the following for tax payable under the law of that territory —
+
+(a)
+
+any royalty derived from that territory, where the payment is not —
+
+(i)
+
+borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore); or
+
+(ii)
+
+deductible against any income accruing in or derived from Singapore;
+
+(b)
+
+any dividend derived from that territory;
+
+(c)
+
+any profit derived from outside Singapore by a branch in that territory of the umbrella VCC;
+
+(d)
+
+any income derived from any trade or business carried on in that territory through a permanent establishment in that territory;
+
+(e)
+
+any discount or premium from debt securities or interest derived from that territory where the payment is not —
+
+(i)
+
+borne, directly or indirectly, by a person resident in Singapore or a permanent establishment in Singapore (except in respect of any business carried on outside Singapore through a permanent establishment outside Singapore); or
+
+(ii)
+
+deductible against any income accruing in or derived from Singapore;
+
+(f)
+
+any rent or other income ancillary to the holding of immovable properties located in that territory but not including gains from the disposal of such immovable properties derived from a trade or business carried on in Singapore; and
+
+(g)
+
+any gains or profits of an income nature not falling within paragraphs (a), (b), (c), (d), (e) and (f) that is derived from that territory.
+
+(2) Where —
+
+(a)
+
+any dividend in respect of which tax credit is given under subsection (1)(b) is paid by a company resident outside Singapore to an umbrella VCC resident in Singapore;
+
+(b)
+
+the dividend is paid to the umbrella VCC for a sub-fund; and
+
+(c)
+
+the umbrella VCC owns, for the purpose of that sub-fund, not less than 25% of the total number of issued shares of the company paying the dividend,
+
+then the tax credit by which the amount of income tax chargeable on the dividend is to be reduced under section 50(2) must take into account any tax paid by that company in the country in which it is resident in respect of its income out of which the dividend is paid.
+
+(3) Where —
+
+(a)
+
+under arrangements for the time being in force under section 49 with the government of a territory outside Singapore, no provision is made for tax credit in respect of income out of which any dividend is paid by a company resident in that territory to an umbrella VCC resident in Singapore for a sub-fund;
+
+(b)
+
+the dividend is paid to the umbrella VCC for a sub-fund; and
+
+(c)
+
+the umbrella VCC owns, for the purpose of that sub-fund, not less than 25% of the total number of issued shares of the company paying the dividend,
+
+tax credit under section 50 in respect of such income must be given to the umbrella VCC and applied in accordance with section 50.
+
+(4) Section 50, with the necessary modifications, applies for the purposes of this section as if any territory to which this section and the regulations have effect were a territory with which arrangements have been made under section 49.
+
+(5) Any umbrella VCC granted any tax credit under subsection (1) on any income may not be given any tax credit under section 50 in respect of that income.
+
+(6) The Minister may, in any particular case, waive the requirement of 25% share ownership mentioned in subsections (2) and (3).
+
+(7) In this section, “debt securities” has the same meaning as in section 43N(4).
+
+Pooling of credits 
+
+50C\. —(1) Where, for any year of assessment, an umbrella VCC is entitled to 2 or more tax credits under any other provision of this Part, and some or all of which are attributable to the part of the chargeable income of the VCC that is income derived or received by the umbrella VCC for the purpose of any particular sub-fund (called in this section a sub-fund’s assessable income), the umbrella VCC may elect in relation to that sub-fund to be given a pooled credit for that year of assessment in lieu of any 2 or more of those credits (called in this section the replaced credits).
+
+(2) Subsection (1) only applies if the income that is the subject of each replaced credit (called in this section the elected income) satisfies all of the following conditions:
+
+(a)
+
+tax under the law of the territory from which the income is derived that is of a similar character to income tax (by whatever name called) has been paid on the income;
+
+(b)
+
+at the time the income is received in Singapore by the umbrella VCC, the highest rate of tax of a similar character to income tax (by whatever name called) levied under the law of that territory on any gains or profits from any trade or business carried on by a company in that territory at that time, is not less than 15%;
+
+(c)
+
+the income tax payable under this Act on the income for the year of assessment (before allowance of any credit under this Part) is not nil.
+
+(3) The total amount of the income tax chargeable to the umbrella VCC in respect of all the elected income must be reduced by the amount of the pooled credit.
+
+(4) The amount of the pooled credit is the lower of —
+
+(a)
+
+the sum of the income tax chargeable for the year of assessment on all the elected income; and
+
+(b)
+
+the sum of the taxes paid on all the elected income in the territory or territories outside Singapore from which the elected income is derived.
+
+(5) In subsection (4)(a), the sum of the income tax chargeable for the year of assessment on all the elected income is ascertained by —
+
+(a)
+
+computing the amount of the income that is the subject of each replaced credit in accordance with the provisions of this Act and the subsidiary legislation made under it (as modified by section 107 to apply to a VCC) as if the sub-fund were a VCC, and then charging it to income tax at a rate ascertained by the formula
+
+where —
+
+(i)
+
+A is the income tax chargeable (before allowance of any credit under this Part) on the assessable income of the sub-fund had it been a VCC; and
+
+(ii)
+
+B is the amount of that sub-fund’s assessable income; and
+
+(b)
+
+totalling the amounts computed in accordance with paragraph (a) of all the replaced credits.
+
+(6) Sections 50(5), (6), (10), (11), (12) and (13) and 50A(2) apply, with the necessary modifications, for the purposes of this section.
+
+(7) To avoid doubt, sections 50 and 50A continue to apply to any income that is the subject of a credit or credits allowed under any other provision of this Part for which no election under this section is made.”.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 FOURTH SCHEDULE
 
@@ -28662,6 +29648,11 @@ This Legislative History is provided for the convenience of users of the Income 
 |||1 July 2019|
 |||2 December 2019|
 |||1 January 2020|
+|207.|**Act 28 of 2019—Variable Capital Companies (Miscellaneous Amendments) Act 2019**|
+||Date of First Reading|5 August 2019|
+|||(Bill No. 23/2019)|
+||Date of Second and Third Readings|3 September 2019|
+||Date of commencement|15 January 2020|
 ## COMPARATIVE TABLE
 
 Income Tax Act
