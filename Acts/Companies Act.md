@@ -544,6 +544,8 @@
 
 - [155D Disqualification under VCC Act](#Disqualification-under-VCC-Act)
 
+- [155E Debarment under VCC Act](#Debarment-under-VCC-Act)
+
 - [156 Disclosure of interests in transactions, property, offices, etc.](#Disclosure-of-interests-in-transactions-property-offices-etc)
 
 - [157 As to the duty and liability of officers](#As-to-the-duty-and-liability-of-officers)
@@ -8844,15 +8846,33 @@ shall not act as director of, or in any way (whether directly or indirectly) tak
 
 ### Disqualification under VCC Act
 
-155D\.—(1) Subject to any leave which the Court may give pursuant to an application under subsection (3), a person who is subject to a disqualification, disqualification order or debarment order under section 56, 57, 58, 59 or 60 of the VCC Act must not act as director of, or in any way (whether directly or indirectly) take part in or be concerned in the management of, any company or any foreign company to which Division 2 of Part XI applies during the period of the disqualification, disqualification order or debarment order.
+155D\.—(1) Subject to any leave which the Court may give pursuant to an application under subsection (3), a person who is subject to a disqualification or disqualification order under section 56, 57, 58, 59 or 60 of the VCC Act must not act as director of, or in any way (whether directly or indirectly) take part in or be concerned in the management of, any company or any foreign company to which Division 2 of Part XI applies during the period of the disqualification or disqualification order.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
 
-(3) A person who is subject to a disqualification, disqualification order or debarment order mentioned in sections 56, 58, 59 and 60 of the VCC Act may apply to the Court for leave to act as director of, or to take part in or be concerned in the management of, a company or a foreign company to which Division 2 of Part XI applies during the period of the disqualification, disqualification order or debarment order, upon giving the Minister not less than 14 days’ notice of his intention to apply for such leave.
+(3) A person who is subject to a disqualification or disqualification order mentioned in sections 56, 58, 59 and 60 of the VCC Act may apply to the Court for leave to act as director of, or to take part in or be concerned in the management of, a company or a foreign company to which Division 2 of Part XI applies during the period of the disqualification or disqualification order, upon giving the Minister not less than 14 days’ notice of his intention to apply for such leave.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 (4) On the hearing of any application under subsection (3), the Minister may be represented at the hearing and may oppose the granting of the application.
 
 [Act 44 of 2018 wef 14/01/2020]
+
+### Debarment under VCC Act
+
+155E\.—(1) A person who has a debarment order made against him under section 59 of the VCC Act must not —
+
+(a) except in respect of a company of which the person is a director immediately before the order was made, act as director of any company; or
+
+(b) except in respect of a company of which the person is a secretary immediately before the order was made, act as secretary of any company.
+
+(2) Subsection (1) applies from the date that the debarment order is made until such time as the Registrar cancels or suspends the order.
+
+(3) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 2 years or to both.
+
+[Act 28 of 2019 wef 15/01/2020]
 
 ### Disclosure of interests in transactions, property, offices, etc.
 
@@ -21783,6 +21803,11 @@ This Legislative History is provided for the convenience of users of the Compani
 |||(Bill No. 40/2018)|
 ||Date of Second and Third Readings|1 October 2018|
 ||Date of commencement|14 January 2020|
+|114.|**Act 28 of 2019—Variable Capital Companies (Miscellaneous Amendments) Act 2019**|
+||Date of First Reading|5 August 2019|
+|||(Bill No. 23/2019)|
+||Date of Second and Third Readings|3 September 2019|
+||Date of commencement|15 January 2020|
 ## COMPARATIVE TABLE
 
 Companies Act
