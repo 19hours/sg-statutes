@@ -132,6 +132,12 @@ Specified organisations
 
 International Tribunal for the Law of the Sea.
 
+2. 
+
+Bank for International Settlements.
+
+[S 47/2020 wef 16/01/2020]
+
 [Act 16 of 2016 wef 10/06/2016]
 
 SECOND SCHEDULE
@@ -230,3 +236,5 @@ This Legislative History is provided for the convenience of users of the Interna
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|11.|**G.N. No. S 47/2020—International Organisations (Immunities and Privileges) Act (Amendment of First Schedule) Notification 2020**|
+||Date of commencement|16 January 2020|
