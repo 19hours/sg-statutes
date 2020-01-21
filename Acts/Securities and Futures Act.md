@@ -27064,7 +27064,9 @@ whose carrying on of the business in that regulated activity is solely incidenta
 
 7\. Any approved trustee for a collective investment scheme as defined in section 289 whose carrying on of business in a regulated activity is solely incidental to its carrying on of activities as such approved trustee.
 
-8\. (Deleted by Act 1/2005)
+8. An approved trustee (as defined in section 289) who is a custodian of a VCC or a sub-fund and whose carrying on of business in a regulated activity is solely incidental to its carrying on of activities as such custodian.
+
+[S 53/2020 wef 21/01/2020]
 
 9. A foreign company whose carrying on of any regulated activity is effected under an arrangement between the foreign company (on the one hand) and its related corporation which is licensed under this Act or exempted under section 99(1)(a), (b), (c) or (d) (on the other hand), where such arrangement is approved by the Authority.
 
@@ -27489,6 +27491,8 @@ This Legislative History is provided for the convenience of users of the Securit
 |||(Bill No. 40/2018)|
 ||Date of Second and Third Readings|1 October 2018|
 ||Date of commencement|14 January 2020|
+|32.|**G.N. No. S 53/2020—Securities and Futures Act (Amendment of Third Schedule) Order 2020**|
+||Date of commencement|21 January 2020|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
