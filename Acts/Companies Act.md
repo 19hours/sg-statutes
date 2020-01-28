@@ -8282,11 +8282,13 @@ Directors and officers
 
 (a) if he has not within the period referred to in section 147(1) obtained his qualification;
 
-(b) by virtue of his disqualification or removal or the revocation of his appointment as a director, as the case may be, under section 148, 149, 149A, 154, 155, 155A or 155C of this Act, section 50 or 54 of the Banking Act (Cap. 19), section 47 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 62 or 63 of the Financial Holdings Companies Act 2013 (Act 13 of 2013), section 31, 31A, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 40 of the Monetary Authority of Singapore Act (Cap. 186), section 12A of the Money-changing and Remittance Businesses Act (Cap. 187), section 22 of the Payment Systems (Oversight) Act (Cap. 222A), section 43, 46Z, 81P, 81ZJ, 97, 123Y, 123ZU or 292A of the Securities and Futures Act (Cap. 289) and section 14 of the Trust Companies Act (Cap. 336); or
+(b) by virtue of his disqualification or removal or the revocation of his appointment as a director, as the case may be, under section 148, 149, 149A, 154, 155, 155A or 155C of this Act, section 50 or 54 of the Banking Act (Cap. 19), section 47 of the Finance Companies Act (Cap. 108), section 57 of the Financial Advisers Act (Cap. 110), section 62 or 63 of the Financial Holdings Companies Act 2013 (Act 13 of 2013), section 31, 31A, 35ZJ or 41(2)(a)(ii) of the Insurance Act (Cap. 142), section 40 of the Monetary Authority of Singapore Act (Cap. 186), section 35 or 66 of the Payment Services Act 2019, section 43, 46Z, 81P, 81ZJ, 97, 123Y, 123ZU or 292A of the Securities and Futures Act (Cap. 289) and section 14 of the Trust Companies Act (Cap. 336); or
 
 [Act 4 of 2017 wef 08/10/2018]
 
 [Act 31 of 2017 wef 04/06/2018]
+
+[Act 2 of 2019 wef 28/01/2020]
 
 (c) if he, being a director of a Registered Fund Management Company as defined in the Securities and Futures (Licensing and Conduct of Business) Regulations (Cap. 289, Rg 10), has been removed by the company as director in accordance with those Regulations.
 
@@ -18584,7 +18586,7 @@ As to fee payable on registration of foreign company because of establishment of
 
 (c) a finance company licensed under section 6 of the Finance Companies Act (Cap. 108);
 
-(d) a person licensed to carry on a remittance business under section 8 of the Money‑changing and Remittance Businesses Act (Cap. 187);
+(d) [Deleted by Act 2 of 2019 wef 28/01/2020]
 
 (e) a licensed insurer licensed under section 8 of the Insurance Act (Cap. 142);
 
@@ -18604,11 +18606,21 @@ As to fee payable on registration of foreign company because of establishment of
 
 (m) a licensed trust company licensed under section 5 of the Trust Companies Act (Cap. 336);
 
-(n) an operator of a designated payment system designated under section 7 of the Payment Systems (Oversight) Act (Cap. 222A);
+(n) an operator of a payment system designated under section 42 of the Payment Services Act 2019;
 
-(o) an approved holder of a widely accepted stored value facility approved under section 35 of the Payment Systems (Oversight) Act.
+[Act 2 of 2019 wef 28/01/2020]
 
-[Act 15 of 2017 wef 23/05/2017]
+(o) a person that has in force a licence granted under section 6 of the Payment Services Act 2019 that entitles the person to carry on a business of providing one or more of the following payment services:
+
+(i) a cross‑border money transfer service;
+
+(ii) a domestic money transfer service;
+
+(iii) an e‑money issuance service;
+
+(iv) a merchant acquisition service.
+
+[Act 2 of 2019 wef 28/01/2020]
 
 ### Application for administrative restoration of foreign company to register
 
@@ -21196,7 +21208,7 @@ imposed through stock exchange rules, law or other enforceable means.
 
 (a) any financial institution that is licensed, approved, registered (including a fund management company registered under paragraph 5(1)(i) of the Second Schedule to the Securities and Futures (Licensing and Conduct of Business) Regulations (Cap. 289, Rg 10)) or regulated by the Monetary Authority of Singapore but does not include —
 
-(i) any holder of a stored value facility as defined in section 2(1) of the Payment Systems (Oversight) Act (Cap. 222A); and
+(i) [Deleted by Act 2 of 2019 wef 28/01/2020]
 
 (ii) a person (other than a person mentioned in sub‑paragraphs (b) and (c)) who is exempted from licensing, approval or regulation by the Monetary Authority of Singapore under any Act administered by the Monetary Authority of Singapore, including a private trust company exempted from licensing under section 15 of the Trust Companies Act (Cap. 336) read with regulation 4 of the Trust Companies (Exemption) Regulations (Cap. 336, Rg 1);
 
@@ -21406,14 +21418,9 @@ This Legislative History is provided for the convenience of users of the Compani
 |15.|**G. N. No. S 263/1986—Companies Act (Amendment of Second Schedule) Notification 1986**|
 ||Date of commencement|24 October 1986|
 |16.|**1985 Revised Edition—Companies Act**|
+||(G.N. No. S 337/1987, S 22/1989, S 143/1989 — Rectification Order)||
 ||Date of operation|30 March 1987|
-|17.|**G. N. No. S 337/1987—Revised Edition of the Laws (Rectification) Order 1987**|
-||Date of commencement|30 March 1987|
-|18.|**G. N. No. S 22/1989—Revised Edition of the Laws (Rectification) Order 1989**|
-||Date of commencement|30 March 1987|
-|19.|**G. N. No. S 143/1989—Revised Edition of the Laws (Rectification) (No. 2) Order 1989**|
-||Date of commencement|30 March 1987|
-|20.|**Act 13 of 1987—Companies (Amendment) Act 1987**|
+|17.|**Act 13 of 1987—Companies (Amendment) Act 1987**|
 ||Date of First Reading|31 March 1986|
 |||(Bill No. 9/86 published on 10 April 1986)|
 ||Date of Second Reading|5 May 1986|
@@ -21421,25 +21428,24 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of Presentation of Select Committee Report|12 March 1987 (Parl. 5 of 1987)|
 ||Date of Third Reading|26 March 1987|
 ||Date of commencement|15 May 1987|
-|21.|**G. N. No. S 139/1987—Companies Act (Amendment of Second and Eighth Schedules) Notification 1987**|
+|18.|**G. N. No. S 139/1987—Companies Act (Amendment of Second and Eighth Schedules) Notification 1987**|
 ||Date of commencement|15 May 1987|
-|22.|**1988 Revised Edition—Companies Act**|
+|19.|**1988 Revised Edition—Companies Act (Chapter 50)**|
+||(G.N. No. S 130/1988 — Rectification Order)||
 ||Date of operation|30 April 1988|
-|23.|**G. N. No. S 130/1988—Revised Edition of the Laws (Rectification) Order 1988**|
-||Date of commencement|30 April 1988|
-|24.|**G. N. No. S 203/1988—Companies Act (Amendment of Second Schedule) Notification 1988**|
+|20.|**G. N. No. S 203/1988—Companies Act (Amendment of Second Schedule) Notification 1988**|
 ||Date of commencement|5 August 1988|
-|25.|**G. N. No. S 204/1988—Companies Act (Amendment of Eighth Schedule) Notification 1987**|
+|21.|**G. N. No. S 204/1988—Companies Act (Amendment of Eighth Schedule) Notification 1987**|
 ||Date of commencement|1 September 1988|
-|26.|**G. N. No. S 7/1989—Companies Act (Amendment of Second Schedule) Notification 1989**|
+|22.|**G. N. No. S 7/1989—Companies Act (Amendment of Second Schedule) Notification 1989**|
 ||Date of commencement|13 January 1989|
-|27.|**1990 Revised Edition—Companies Act**|
+|23.|**1990 Revised Edition—Companies Act**|
 ||Date of operation|1 January 1990|
-|28.|**G. N. No. S 107/1990—Companies Act (Amendment of Second Schedule) Notification 1990**|
+|24.|**G. N. No. S 107/1990—Companies Act (Amendment of Second Schedule) Notification 1990**|
 ||Date of commencement|16 March 1990|
-|29.|**G. N. No. S 113/1990—Companies Act (Amendment of Second Schedule) (No. 2) Notification 1990**|
+|25.|**G. N. No. S 113/1990—Companies Act (Amendment of Second Schedule) (No. 2) Notification 1990**|
 ||Date of commencement|23 March 1990|
-|30.|**Act 40 of 1989—Companies (Amendment) Act 1989**|
+|26.|**Act 40 of 1989—Companies (Amendment) Act 1989**|
 ||Date of First Reading|22 March 1989|
 |||(Bill No. 24/89 published on 23 March 1989)|
 ||Date of Second Reading|7 April 1989|
@@ -21447,13 +21453,13 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of Presentation of Select Committee Report|27 October 1989 (Parl. 4 of 1989)|
 ||Date of Third Reading|30 November 1989|
 ||Date of commencement|23 March 1990|
-|31.|**G. N. No. S 429/1990—Companies Act (Amendment of Second Schedule) (No. 3) Notification 1990**|
+|27.|**G. N. No. S 429/1990—Companies Act (Amendment of Second Schedule) (No. 3) Notification 1990**|
 ||Date of commencement|1 December 1990|
-|32.|**G. N. No. S 279/1991—Companies Act (Amendment of Second Schedule) Notification 1991**|
+|28.|**G. N. No. S 279/1991—Companies Act (Amendment of Second Schedule) Notification 1991**|
 ||Date of commencement|1 July 1991|
-|33.|**G. N. No. S 339/1991—Companies Act (Amendment of Second Schedule) (No. 2) Notification 1991**|
+|29.|**G. N. No. S 339/1991—Companies Act (Amendment of Second Schedule) (No. 2) Notification 1991**|
 ||Date of commencement|8 August 1991|
-|34.|**Act 22 of 1993—Companies (Amendment) Act 1993**|
+|30.|**Act 22 of 1993—Companies (Amendment) Act 1993**|
 ||Date of First Reading|31 July 1992|
 |||(Bill No. 33/92 published on 1 August 1992)|
 ||Date of Second Reading|14 September 1992|
@@ -21461,7 +21467,7 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of Presentation of Select Committee Report|26 April 1993 (Parl. 2 of 1993)|
 ||Date of Third Reading|28 May 1993|
 ||Date of commencement|12 November 1993|
-|35.|**Act 31 of 1993—Goods and Services Tax (Amendment) Act 1993**|
+|31.|**Act 31 of 1993—Goods and Services Tax (Amendment) Act 1993**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 February 1993|
 |||(Bill No. 14/93 published on 27 February 1993)|
@@ -21473,19 +21479,18 @@ This Legislative History is provided for the convenience of users of the Compani
 
 |
 (except paragraph (3) of Fifth Schedule)|
-|36.|**1994 Revised Edition—Companies Act**|
+|32.|**1994 Revised Edition—Companies Act**|
+||(G.N. No. S 227/1995 — Rectification Order)||
 ||Date of operation|15 March 1994|
-|37.|**G. N. No. S 227/1995—Revised Edition of the Laws (Rectification) Order 1995**|
-||Date of commencement|15 March 1994|
-|38.|**Act 28 of 1994—National Registration (Amendment) Act 1994**|
+|33.|**Act 28 of 1994—National Registration (Amendment) Act 1994**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|31 October 1994|
 |||(Bill No. 30/94 published on 1 November 1994)|
 ||Date of Second and Third Readings|5 December 1994|
 ||Date of commencement|1 March 1995|
-|39.|**G. N. No. S 119/1995—Companies Act (Amendment of Second Schedule) Notification 1995**|
+|34.|**G. N. No. S 119/1995—Companies Act (Amendment of Second Schedule) Notification 1995**|
 ||Date of commencement|1 April 1995|
-|40.|**Act 15 of 1995—Bankruptcy Act 1995**|
+|35.|**Act 15 of 1995—Bankruptcy Act 1995**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 July 1994|
 |||(Bill No. 16/94 published on 29 July 1994)|
@@ -21494,54 +21499,54 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of Presentation of Select Committee Report|7 March 1995 (Parl. 1 of 1995)|
 ||Date of Third Reading|23 March 1995|
 ||Date of commencement|15 July 1995|
-|41.|**Act 22 of 1995—Companies (Amendment) Act 1995**|
+|36.|**Act 22 of 1995—Companies (Amendment) Act 1995**|
 ||Date of First Reading|25 May 1995|
 |||(Bill No. 17/95 published on 26 May 1995)|
 ||Date of Second and Third Readings|7 July 1995|
 ||Date of commencement|4 August 1995|
-|42.|**G. N. No. S 61/1997—Companies Act (Amendment of Second Schedule) Notification 1997**|
+|37.|**G. N. No. S 61/1997—Companies Act (Amendment of Second Schedule) Notification 1997**|
 ||Date of commencement|15 February 1997|
-|43.|**G. N. No. S 344/1997—Companies Act (Amendment of Second Schedule) (No. 2) Notification 1997**|
+|38.|**G. N. No. S 344/1997—Companies Act (Amendment of Second Schedule) (No. 2) Notification 1997**|
 ||Date of commencement|1 August 1997|
-|44.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
+|39.|**Act 7 of 1997—Statutes (Miscellaneous Amendments) Act 1997**|
 ||Date of First Reading|11 July 1997|
 |||(Bill No. 6/97 published on 12 July 1997)|
 ||Date of Second and Third Readings|25 August 1997|
 ||Dates of commencement|1 October 1997 (except section 3)|
-|45.|**Act 38 of 1998—Companies (Amendment) Act 1998**|
+|40.|**Act 38 of 1998—Companies (Amendment) Act 1998**|
 ||Date of First Reading|4 September 1998|
 |||(Bill No. 36/98 published on 5 September 1998)|
 ||Date of Second and Third Readings|12 October 1998|
 ||Date of commencement|18 November 1998|
-|46.|**Act 37 of 1999—Bankruptcy (Amendment) Act 1999**|
+|41.|**Act 37 of 1999—Bankruptcy (Amendment) Act 1999**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|3 August 1999|
 |||(Bill No. 26/99 published on 4 August 1999)|
 ||Date of Second and Third Readings|18 August 1999|
 ||Date of commencement|15 September 1999|
-|47.|**Act 39 of 1999—Police Force (Amendment) Act 1999**|
+|42.|**Act 39 of 1999—Police Force (Amendment) Act 1999**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|11 October 1999|
 |||(Bill No. 32/99 published on 12 October 1999)|
 ||Date of Second and Third Readings|23 November 1999|
 ||Date of commencement|10 January 2000|
-|48.|**G. N. No. S 387/2000—Companies Act (Amendment of Second Schedule) Notification 2000**|
+|43.|**G. N. No. S 387/2000—Companies Act (Amendment of Second Schedule) Notification 2000**|
 ||Date of commencement|29 August 2000|
-|49.|**Act 36 of 2000—Companies (Amendment) Act 2000**|
+|44.|**Act 36 of 2000—Companies (Amendment) Act 2000**|
 ||Date of First Reading|9 October 2000|
 |||(Bill No. 28/2000 published on 10 October 2000)|
 ||Date of Second and Third Readings|13 November 2000|
 ||Date of commencement|22 January 2001|
-|50.|**G. N. No. S 29/2001—Companies Act (Amendment of Second Schedule) Notification 2001**|
+|45.|**G. N. No. S 29/2001—Companies Act (Amendment of Second Schedule) Notification 2001**|
 ||Date of commencement|22 January 2001|
-|51.|**G. N. No. S 99/2001—Companies Act (Amendment of Fifth Schedule) Notification 2001**|
+|46.|**G. N. No. S 99/2001—Companies Act (Amendment of Fifth Schedule) Notification 2001**|
 ||Date of commencement|22 February 2001|
-|52.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
+|47.|**Act 26 of 2001—Statutes (Miscellaneous Amendments and Repeal) Act 2001**|
 ||Date of First Reading|11 July 2001|
 |||(Bill No. 24/2001 published on 12 July 2001)|
 ||Date of Second and Third Readings|25 July 2001|
 ||Date of commencement|1 September 2001 (section 6)|
-|53.|**Act 42 of 2001—Securities and Futures Act 2001**|
+|48.|**Act 42 of 2001—Securities and Futures Act 2001**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|25 September 2001|
 |||(Bill No. 33/2001 published on 26 September 2001)|
@@ -21549,117 +21554,117 @@ This Legislative History is provided for the convenience of users of the Compani
 ||Date of commencement|1 January 2002 (Parts I, VIII, IX, X and XV (except sections 314 and 342 (1) and (3)), First Schedule, Second Schedule and items (4)(o) and (q) and (7)(c) of Fourth Schedule)|
 |||1 July 2002|
 |||1 October 2002|
-|54.|**G. N. No. S 675/2001—Securities and Futures (Repeal of Provisions) Notification 2001**|
+|49.|**G. N. No. S 675/2001—Securities and Futures (Repeal of Provisions) Notification 2001**|
 ||Date of commencement|1 January 2002|
-|55.|**G. N. No. S 28/2002—Companies Act (Amendment of Second Schedule) Notification 2002**|
+|50.|**G. N. No. S 28/2002—Companies Act (Amendment of Second Schedule) Notification 2002**|
 ||Date of commencement|15 January 2002|
-|56.|**G. N. No. S 236/2002—Securities and Futures (Repeal of Provisions) Notification 2002**|
+|51.|**G. N. No. S 236/2002—Securities and Futures (Repeal of Provisions) Notification 2002**|
 ||Date of commencement|1 July 2002|
-|57.|**G. N. No. S 239/2002—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2002**|
+|52.|**G. N. No. S 239/2002—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2002**|
 ||Date of commencement|1 July 2002|
-|58.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
+|53.|**Act 12 of 2002—Companies (Amendment) Act 2002**|
 ||Date of First Reading|23 May 2002|
 |||(Bill No. 16/2002 published on 24 May 2002)|
 ||Date of Second and Third Readings|8 July 2002|
 ||Dates of commencement|15 August 2002 (sections 2(a) and 36)|
 |||1 January 2003|
 |||13 January 2003|
-|59.|**G. N. No. S 684/2002—Companies (Accounts of Public Listed Companies) (Substitution of Period) Order 2002**|
+|54.|**G. N. No. S 684/2002—Companies (Accounts of Public Listed Companies) (Substitution of Period) Order 2002**|
 ||Date of commencement|1 January 2003|
-|60.|**G. N. No. S 19/2003—Companies Act (Amendment of Second Schedule) Notification 2003**|
+|55.|**G. N. No. S 19/2003—Companies Act (Amendment of Second Schedule) Notification 2003**|
 ||Date of commencement|13 January 2003|
-|61.|**G. N. No. S 20/2003—Companies Act (Amendment of Eighth Schedule) Notification 2003**|
+|56.|**G. N. No. S 20/2003—Companies Act (Amendment of Eighth Schedule) Notification 2003**|
 ||Date of commencement|13 January 2003|
-|62.|**G. N. No. S 213/2003—Companies (Accounts of Public Listed Companies) (Substitution of Period) Order 2003**|
+|57.|**G. N. No. S 213/2003—Companies (Accounts of Public Listed Companies) (Substitution of Period) Order 2003**|
 ||Date of commencement|28 April 2003|
-|63.|**Act 8 of 2003—Companies (Amendment) Act 2003**|
+|58.|**Act 8 of 2003—Companies (Amendment) Act 2003**|
 ||Date of First Reading|28 February 2003|
 |||(Bill No. 3/2003 published on 1 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|15 May 2003|
-|64.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
+|59.|**Act 9 of 2003—Statutes (Miscellaneous Amendments) Act 2003**|
 ||Date of First Reading|20 March 2003|
 |||(Bill No. 7/2003 published on 21 March 2003)|
 ||Date of Second and Third Readings|24 April 2003|
 ||Date of commencement|16 May 2003|
-|65.|**G. N. No. S 75/2004—Companies Act (Amendment of Second Schedule) Notification 2004**|
+|60.|**G. N. No. S 75/2004—Companies Act (Amendment of Second Schedule) Notification 2004**|
 ||Date of commencement|1 March 2004|
-|66.|**Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004**|
+|61.|**Act 3 of 2004—Accounting and Corporate Regulatory Authority Act 2004**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 1/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
-|67.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
+|62.|**Act 5 of 2004—Companies (Amendment) Act 2004**|
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 3/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Dates of commencement|1st April 2004|
 |||1st October 2004|
-|68.|**Act 4 of 2004—Accountants Act 2004**|
+|63.|**Act 4 of 2004—Accountants Act 2004**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|5 January 2004|
 |||(Bill No. 2/2004 published on 6 January 2004)|
 ||Date of Second and Third Readings|6 February 2004|
 ||Date of commencement|1 April 2004|
-|69.|**G. N. No. S 193/2004—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2004**|
+|64.|**G. N. No. S 193/2004—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2004**|
 ||Date of commencement|1 April 2004|
-|70.|**G. N. No. S 262/2004—Companies Act (Amendment of Second Schedule) (No. 3) Notification 2004**|
+|65.|**G. N. No. S 262/2004—Companies Act (Amendment of Second Schedule) (No. 3) Notification 2004**|
 ||Date of commencement|1 April 2004|
-|71.|**Act 28 of 2004—Statutes (Miscellaneous Amendments) (No. 2) Act 2004**|
+|66.|**Act 28 of 2004—Statutes (Miscellaneous Amendments) (No. 2) Act 2004**|
 ||Date of First Reading|15 June 2004|
 |||(Bill No. 27/2004 published on 16 June 2004)|
 ||Date of Second and Third Readings|20 July 2004|
 ||Date of commencement|1 April 2004 (section 3 only)|
-|72.|**G. N. No. S 57/2005—Companies Act (Amendment of Second Schedule) Notification 2005**|
+|67.|**G. N. No. S 57/2005—Companies Act (Amendment of Second Schedule) Notification 2005**|
 ||Date of commencement|1 February 2005|
-|73.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+|68.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 64/2004 published on 20 October 2004)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
-|74.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
+|69.|**Act 17 of 2005—Statutes (Miscellaneous Amendments and Repeal) Act 2005**|
 ||Date of First Reading|18 April 2005|
 |||(Bill No. 7/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|15 July 2005|
-|75.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+|70.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 30/2005 published on 18 October 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Dates of commencement|30 January 2006 (sections 10, 12, 19 and 20(c))|
 |||1 April 2006|
-|76.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+|71.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
 ||Date of First Reading|18 April 2005|
 |||(Bill No. 11/2005 published on 19 April 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
-|77.|**G. N. No. S 880/2005—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2005**|
+|72.|**G. N. No. S 880/2005—Companies Act (Amendment of Second Schedule) (No. 2) Notification 2005**|
 ||Date of commencement|30 January 2006|
-|78.|**G. N. No. S 55/2006—Companies Act (Amendment of Second Schedule) Notification 2006**|
+|73.|**G. N. No. S 55/2006—Companies Act (Amendment of Second Schedule) Notification 2006**|
 ||Date of commencement|30 January 2006|
-|79.|**G. N. No. S 56/2006—Companies Act (Amendment of Eighth Schedule) Notification 2006**|
+|74.|**G. N. No. S 56/2006—Companies Act (Amendment of Eighth Schedule) Notification 2006**|
 ||Date of commencement|30 January 2006|
-|80.|**Act 11 of 2005—Trust Companies Act 2005**|
+|75.|**Act 11 of 2005—Trust Companies Act 2005**|
 ||Date of First Reading|25 January 2005|
 |||(Bill No. 1/2005 published on 26 January 2005)|
 ||Date of Second and Third Readings|18 February 2005|
 ||Date of commencement|1 February 2006|
-|81.|**Act 9 of 2006—Residential Property (Amendment) Act 2006**|
+|76.|**Act 9 of 2006—Residential Property (Amendment) Act 2006**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 January 2006|
 |||(Bill No. 1/2006 published on 17 January 2006)|
 ||Date of Second and Third Readings|14 February 2006|
 ||Date of commencement|31 March 2006|
-|82.|**Act 1 of 2006—Payment Systems (Oversight) Act 2006**|
+|77.|**Act 1 of 2006—Payment Systems (Oversight) Act 2006**|
 ||Date of First Reading|21 November 2005|
 |||(Bill No. 39/2005 published on 22 November 2005)|
 ||Date of Second and Third Readings|16 January 2006|
 ||Date of commencement|23 June 2006|
-|83.|**2006 Revised Edition—Companies Act**|
+|78.|**2006 Revised Edition—Companies Act**|
 ||Date of operation|31 October 2006|
-|84.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
+|79.|**Act 2 of 2007—Statutes (Miscellaneous Amendments) Act 2007**|
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 14/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
@@ -21667,147 +21672,151 @@ This Legislative History is provided for the convenience of users of the Compani
 
 |
 (with the exception of Sections 6, 8 and 11)|
-|85.|**Act 1 of 2007—Banking (Amendment) Act 2007**|
+|80.|**Act 1 of 2007—Banking (Amendment) Act 2007**|
 ||Date of First Reading|8 November 2006|
 |||(Bill No. 13/2006 published on 9 November 2006)|
 ||Date of Second and Third Readings|22 January 2007|
 ||Date of commencement|31 March 2007|
-|86.|**Act 39 of 2007—Accounting Standards Act 2007**|
+|81.|**Act 39 of 2007—Accounting Standards Act 2007**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|16 July 2007|
 |||(Bill No. 27/2007 published on 17 July 2007)|
 ||Date of Second and Third Readings|27 August 2007|
 ||Date of commencement|1 November 2007|
-|87.|**G. N. No. S 604/2007—Companies Act (Amendment of Second Schedule) Notification 2007**|
+|82.|**G. N. No. S 604/2007—Companies Act (Amendment of Second Schedule) Notification 2007**|
 ||Date of commencement|5 November 2007|
-|88.|**G. N. No. S 605/2007—Companies Act (Amendment of Eighth Schedule) Notification 2007**|
+|83.|**G. N. No. S 605/2007—Companies Act (Amendment of Eighth Schedule) Notification 2007**|
 ||Date of commencement|5 November 2007|
-|89.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+|84.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|12 November 2007|
 |||(Bill No. 50/2007 published on 13 November 2007)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
-|90.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
+|85.|**Act 7 of 2009—Civil Law (Amendment) Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|17 November 2008|
 |||(Bill No. 38/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|1st March 2009|
-|91.|**Act 5 of 2009—International Interests in Aircraft Equipment Act 2009**|
+|86.|**Act 5 of 2009—International Interests in Aircraft Equipment Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|17 November 2008|
 |||(Bill No. 37/2008 published on 18 November 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|1 May 2009|
-|92.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
+|87.|**Act 21 of 2008—Mental Health (Care and Treatment) Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 11/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|16 September 2008|
 ||Date of commencement|1 March 2010|
-|93.|**Act 22 of 2008—Mental Capacity Act 2008**|
+|88.|**Act 22 of 2008—Mental Capacity Act 2008**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|21 July 2008|
 |||(Bill No. 13/2008 published on 22 July 2008)|
 ||Date of Second and Third Readings|15 September 2008|
 ||Date of commencement|1 March 2010|
-|94.|**Act 15 of 2010—Criminal Procedure Code 2010**|
+|89.|**Act 15 of 2010—Criminal Procedure Code 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|26 April 2010|
 |||(Bill No. 11/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|19 May 2010|
 ||Date of commencement|2 January 2011|
-|95.|**Act 34 of 2010—Charities (Amendment) Act 2010**|
+|90.|**Act 34 of 2010—Charities (Amendment) Act 2010**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|18 October 2010|
 |||(Bill No. 29/2010 published on 18 October 2010)|
 ||Date of Second and Third Readings|22 November 2010|
 ||Date of commencement|1 March 2011|
-|96.|**Act 16 of 2011—Insurance (Amendment) Act 2011**|
+|91.|**Act 16 of 2011—Insurance (Amendment) Act 2011**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|10 March 2011|
 |||(Bill No. 11/2011 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 May 2011|
-|97.|**G.N. No. S 718/2011—Companies Act (Amendment of Second Schedule) Notification 2011**|
+|92.|**G.N. No. S 718/2011—Companies Act (Amendment of Second Schedule) Notification 2011**|
 ||Date of commencement|1 January 2012|
-|98.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
+|93.|**Act 2 of 2009—Securities and Futures (Amendment) Act 2009**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|15 September 2008|
 |||(Bill No. 23/2008 published on 16 September 2008)|
 ||Date of Second and Third Readings|19 January 2009|
 ||Date of commencement|19 November 2012 (Sections 2(p), (t), (u), (v) and (w), 42, 76, 113(b) and (c), 118(a) to (e) and (h) and 119)|
-|99.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
+|94.|**Act 10 of 2013—Financial Institutions (Miscellaneous Amendments) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013 (Bill No. 4/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|100.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+|95.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|4 February 2013 (Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
 ||Date of commencement|18 April 2013|
-|101.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
+|96.|**Act 34 of 2012—Securities and Futures (Amendment) Act 2012**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|15 October 2012 (Bill No. 31/2012 published on 15 October 2012)|
 ||Date of Second and Third Readings|15 November 2012|
 ||Date of commencement|1 August 2013|
-|102.|**G.N. No. S 704/2013—Companies Act (Amendment of Eighth Schedule) Notification 2013**|
+|97.|**G.N. No. S 704/2013—Companies Act (Amendment of Eighth Schedule) Notification 2013**|
 ||Date of commencement|2 December 2013|
-|103.|**G.N. No. S 97/2014—Companies Act (Amendment of Eighth Schedule) Notification 2014**|
+|98.|**G.N. No. S 97/2014—Companies Act (Amendment of Eighth Schedule) Notification 2014**|
 ||Date of commencement|24 February 2014|
-|104.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
+|99.|**Act 5 of 2014—Subordinate Courts (Amendment) Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|11 November 2013 (Bill No. 26/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|7 March 2014|
-|105.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
+|100.|**Act 36 of 2014—Companies (Amendment) Act 2014**|
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 25/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|1 July 2015|
 |||3 January 2016|
 |||20 April 2018|
-|106.|**G.N. No. S 382/2015—Companies Act (Amendment of Second Schedule) Notification 2015**|
+|101.|**G.N. No. S 382/2015—Companies Act (Amendment of Second Schedule) Notification 2015**|
 ||Date of commencement|1 July 2015|
-|107.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
+|102.|**G.N. No. S 383/2015—Companies Act (Amendment of Eighth Schedule) Notification 2015**|
 ||Date of commencement|1 July 2015|
-|108.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
+|103.|**Act 15 of 2017—Companies (Amendment) Act 2017**|
 ||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
 ||Date of Second and Third Readings|10 March 2017|
 ||Date of commencement|31 March 2017|
 |||23 May 2017|
 |||11 October 2017|
 |||31 August 2018|
-|109.|**Act 21 of 2016—Employment Claims Act 2016**|
+|104.|**Act 21 of 2016—Employment Claims Act 2016**|
 ||Date of First Reading|11 July 2016|
 |||(Bill No. 20/2016)|
 ||Date of Second and Third Readings|16 August 2016|
 ||Date of commencement|1 April 2017|
-|110.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+|105.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
 ||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
 ||Date of Second and Third Readings|4 July 2017|
 ||Date of commencement|4 June 2018|
-|111.|**Act 35 of 2018—Companies (Amendment) Act 2018**|
+|106.|**Act 35 of 2018—Companies (Amendment) Act 2018**|
 ||Date of First Reading|9 July 2018 (Bill No. 27/2018 published on 9 July 2018)|
 ||Date of Second and Third Readings|6 August 2018|
 ||Date of commencement|1 October 2018|
-|112.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+|107.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
 ||Date of First Reading|7 November 2016|
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
-|113.|**Act 44 of 2018—Variable Capital Companies Act 2018**|
+|108.|**Act 44 of 2018—Variable Capital Companies Act 2018**|
 ||Date of First Reading|10 September 2018|
 |||(Bill No. 40/2018)|
 ||Date of Second and Third Readings|1 October 2018|
 ||Date of commencement|14 January 2020|
-|114.|**Act 28 of 2019—Variable Capital Companies (Miscellaneous Amendments) Act 2019**|
+|109.|**Act 28 of 2019—Variable Capital Companies (Miscellaneous Amendments) Act 2019**|
 ||Date of First Reading|5 August 2019|
 |||(Bill No. 23/2019)|
 ||Date of Second and Third Readings|3 September 2019|
 ||Date of commencement|15 January 2020|
+|110.|**Act 2 of 2019—Payment Services Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 48/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|28 January 2020|
 ## COMPARATIVE TABLE
 
 Companies Act
