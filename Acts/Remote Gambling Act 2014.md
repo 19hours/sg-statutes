@@ -206,9 +206,11 @@ but does not include mere advertising;
 
 (b) any card issuer licensed under the Banking Act;
 
-(c) any holder of a stored value facility under the Payment Systems (Oversight) Act (Cap. 222A);
+(c) any operator of a designated payment system under the Payment Services Act 2019; or
 
-(d) any operator of a payment system designated under the Payment Systems (Oversight) Act; or
+[Act 2 of 2019 wef 28/01/2020]
+
+(d) [Deleted by Act 2 of 2019 wef 28/01/2020]
 
 (e) any other person licensed, approved, registered or regulated by the MAS under any written law,
 
