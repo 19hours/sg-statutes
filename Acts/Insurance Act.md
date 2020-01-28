@@ -4422,7 +4422,9 @@ ASSISTANCE TO FOREIGN REGULATORY AUTHORITIES
 
 (d) Monetary Authority of Singapore Act (Cap. 186);
 
-(e) Money-changing and Remittance Businesses Act (Cap. 187);
+(e) Payment Services Act 2019;
+
+[Act 2 of 2019 wef 28/01/2020]
 
 (f) Securities and Futures Act (Cap. 289); or
 
@@ -6447,9 +6449,9 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of First Reading|14 November 1967|
 |||(Bill No. 33/67 published on 17 November 1967)|
 ||Date of Second and Third Readings|5 December 1967|
-||Date of commencement|20 December 1967|
-|3.|**1970 Revised Edition (Cap. 193)—Insurance Act 1970**|
-||Date of operation|1 January 1970|
+||Date of commencement|1 January 1967|
+|3.|**1970 Revised Edition—Insurance Act (Cap. 193)**|
+||Date of operation|1 July 1971|
 |4.|**Act 22 of 1973—Insurance (Amendment) Act 1973**|
 ||Date of First Reading|7 March 1973|
 |||(Bill No. 17/73 published on 9 March 1973)|
@@ -6460,13 +6462,13 @@ This Legislative History is provided for the convenience of users of the Insuran
 |||(Bill No. 54/75 published on 11 November 1975)|
 ||Date of Second and Third Readings|20 November 1975|
 ||Date of commencement|1 January 1976|
-|6.|**1985 Revised Edition—Insurance Act**|
-||Date of operation|1 January 1985|
-|7.|**Act 11 of 1986—Insurance (Amendment) Act 1986**|
+|6.|**Act 11 of 1986—Insurance (Amendment) Act 1986**|
 ||Date of First Reading|31 October 1985|
 |||(Bill No. 18/85 published on 12 November 1985)|
 ||Date of Second and Third Readings|10 January 1986|
 ||Date of commencement|1 January 1987|
+|7.|**1985 Revised Edition—Insurance Act (Chapter 142)**|
+||Date of operation|30 March 1987|
 |8.|**Act 35 of 1993—Application of English Law Act 1993**|
 ||(Consequential amendments made by)||
 ||Date of First Reading|30 August 1993|
@@ -6502,111 +6504,100 @@ This Legislative History is provided for the convenience of users of the Insuran
 ||Date of First Reading|25.9.2001|
 |||(Bill No. 35/2001 published on 26 September 2001)|
 ||Date of Second and Third Readings|5 October 2001|
-||Date of commencement|8 January 2002 (except section 20)|
-|16.|**Act 41 of 2001—Insurance (Amendment) Act 2001**|
-||Date of First Reading|25.9.2001|
-|||(Bill No. 35/2001 published on 26 September 2001)|
-||Date of Second and Third Readings|5 October 2001|
-||Date of commencement|1 October 2002 (section 20)|
-|17.|**2002 Revised Edition—Insurance Act**|
+||Dates of commencement|8 January 2002 (except section 20)|
+|||1 October 2002 (section 20)|
+|16.|**2002 Revised Edition—Insurance Act**|
 ||Date of operation|31 December 2002|
-|18.|**Act 23 of 2003—Insurance (Amendment) Act 2003**|
+|17.|**Act 23 of 2003—Insurance (Amendment) Act 2003**|
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 20/2003 published on 12 December 2003)|
 ||Date of Second and Third Readings|10 November 2003|
-||Date of commencement|1 January 2004|
-|19.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
+||Dates of commencement|1 January 2004|
+|||23 August 2004 (Sections 18(d) and (e), 19 and 20(c))|
+|18.|**Act 24 of 2003—Monetary Authority of Singapore (Amendment) Act 2003**|
 ||Date of First Reading|16 October 2003|
 |||(Bill No. 21/2003 published on 12 December 2003)|
 ||Date of Second and Third Readings|10 November 2003|
 ||Date of commencement|1 January 2004|
-|20.|**Act 23 of 2003—Insurance (Amendment) Act 2003**|
-||Date of First Reading|16 October 2003|
-|||(Bill No. 20/2003 published on 12 December 2003)|
-||Date of Second and Third Readings|10 November 2003|
-||Date of commencement|23 August 2004 (Sections 18(d) and (e), 19 and 20(c))|
-|21.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
+|19.|**Act 5 of 2005—Limited Liability Partnerships Act 2005**|
 ||Date of First Reading|19 October 2004|
 |||(Bill No. 64/2004 published on 11 February 2005)|
 ||Date of Second and Third Readings|25 January 2005|
 ||Date of commencement|11 April 2005|
-|22.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
+|20.|**Act 21 of 2005—Companies (Amendment) Act 2005**|
 ||Date of First Reading|18 April 2005|
 |||(Bill No. 11/2005 published on 10 June 2005)|
 ||Date of Second and Third Readings|16 May 2005|
 ||Date of commencement|30 January 2006|
-|23.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
+|21.|**Act 42 of 2005—Statutes (Miscellaneous Amendments) (No. 2) Act 2005**|
 ||Date of First Reading|17 October 2005|
 |||(Bill No. 30/2005 published on 16 December 2005)|
 ||Date of Second and Third Readings|21 November 2005|
 ||Date of commencement|1st April 2006 (Items (2) to (7), (9), (11), (12), (13), (15), (16), (22), (25), (31), (34) (a) and (36) in the First Schedule; and the Third Schedule)|
-|24.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
+|22.|**Act 5 of 2008—Workmen’s Compensation (Amendment) Act 2008**|
 ||Date of First Reading|12 November 2007|
 |||(Bill No. 50/2007 published on 29 February 2008)|
 ||Date of Second and Third Readings|22 January 2008|
 ||Date of commencement|1 April 2008|
-|25.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
+|23.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
 ||Date of First Reading|20 October 2008|
 ||Date of Second and Third Readings|19 January 2009|
 ||Dates of commencement|1st March 2009 (Sections 3 & 4)|
-|26.|**G. N. No. S 130/2009—Insurance Act (Amendment of First Schedule) Order 2009**|
+|||1st September 2009 (Sections 2, 5 to 11 and 13)|
+|24.|**G. N. No. S 130/2009—Insurance Act (Amendment of First Schedule) Order 2009**|
 ||Date of commencement|31 March 2009|
-|27.|**Act 3 of 2009—Insurance (Amendment) Act 2009**|
-||Date of First Reading|20 October 2008|
-||Date of Second and Third Readings|19 January 2009|
-||Dates of commencement|1st September 2009 (Sections 2, 5 to 11 and 13)|
-|28.|**G. N. No. S 184/2010—Insurance Act (Amendment of First Schedule) Order 2010**|
+|25.|**G. N. No. S 184/2010—Insurance Act (Amendment of First Schedule) Order 2010**|
 ||Date of commencement|30 March 2010
 (except paragraph 2(a))|
-|29.|**G. N. No. S 184/2010—Insurance Act (Amendment of First Schedule) Order 2010**|
+|26.|**G. N. No. S 184/2010—Insurance Act (Amendment of First Schedule) Order 2010**|
 ||Date of commencement|1 January 2011 (paragraph 2(a))|
-|30.|**Act 16 of 2011—Insurance Act (Amendment) Act 2011**|
+|27.|**Act 16 of 2011—Insurance Act (Amendment) Act 2011**|
 ||Date of First Reading|10 March 2011|
 |||(Bill No. 32/2010 published on 10 March 2011)|
 ||Date of Second and Third Readings|11 April 2011|
 ||Date of commencement|1 May 2011|
-|31.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
+|28.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
 ||Date of First Reading|4 February 2013|
 |||(Bill No. 5/2013 published on 4 February 2013)|
 ||Date of Second and Third Readings|15 March 2013|
-||Date of commencement|18 April 2013|
-|32.|**Act 11 of 2013—Insurance (Amendment) Act 2013**|
-||Date of First Reading|4 February 2013|
-|||(Bill No. 5/2013 published on 4 February 2013)|
-||Date of Second and Third Readings|15 March 2013|
-||Date of commencement|1 January 2014|
-|33.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
+||Dates of commencement|18 April 2013|
+|||1 January 2014|
+|29.|**Act 35 of 2014—Statutes (Miscellaneous Amendments) (No. 2) Act 2014**|
 ||Date of First Reading|8 September 2014 (Bill No. 24/2014 published on 8 September 2014)|
 ||Date of Second and Third Readings|7 October 2014|
 ||Date of commencement|1 July 2015|
-|34.|**Act 19 of 2015—Insurance (Amendment) Act 2015**|
+|30.|**Act 19 of 2015—Insurance (Amendment) Act 2015**|
 ||Date of First Reading|11 May 2015 (Bill No. 16/2015 published on 11 May 2015)|
 ||Date of Second and Third Readings|13 July 2015|
 ||Date of commencement|1 January 2016|
-|35.|**Act 29 of 2014—Business Names Registration Act 2014**|
+|31.|**Act 29 of 2014—Business Names Registration Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|8 September 2014|
 |||(Bill No. 26/2014)|
 ||Date of Second and Third Readings|8 October 2014|
 ||Date of commencement|3 January 2016|
-|36.|**Act 26 of 2016—Central Provident Fund (Amendment No. 2) Act 2016**|
+|32.|**Act 26 of 2016—Central Provident Fund (Amendment No. 2) Act 2016**|
 ||Date of First Reading|13 September 2016 (Bill No. 26/2016 published on 13 September 2016)|
 ||Date of Second and Third Readings|10 October 2016|
 ||Date of commencement|1 January 2017|
-|37.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
+|33.|**Act 4 of 2017—Securities and Futures (Amendment) Act 2017**|
 ||Date of First Reading|7 November 2016|
 |||(Bill No. 35/2016)|
 ||Date of Second and Third Readings|9 January 2017|
 ||Date of commencement|8 October 2018|
-|38.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
+|34.|**Act 31 of 2017—Monetary Authority of Singapore (Amendment) Act 2017**|
 ||Date of First Reading|8 May 2017 (Bill No. 25/2017 published on 8 May 2017)|
 ||Date of Second and Third Readings|4 July 2017|
-||Date of commencement|5 June 2018|
+||Dates of commencement|5 June 2018|
 |||29 October 2018|
-|39.|**Act 31 of 2018—Deposit Insurance and Policy Owners' Protection Schemes (Amendment) Act 2018**|
+|35.|**Act 31 of 2018—Deposit Insurance and Policy Owners' Protection Schemes (Amendment) Act 2018**|
 ||Date of First Reading|17 May 2018 (Bill No. 21/2018 published on 17 May 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|1 April 2019|
+|36.|**Act 2 of 2019—Payment Services Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 48/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|28 January 2020|
 ## COMPARATIVE TABLE
 
 Insurance Act
