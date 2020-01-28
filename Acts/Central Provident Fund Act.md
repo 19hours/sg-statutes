@@ -8385,9 +8385,7 @@ Massage Establishments Act 2017.
 
 [Act 45 of 2017 wef 01/03/2018]
 
-24. 
-
-Money-changing and Remittance Businesses Act (Cap. 187).
+24. [Deleted by Act 2 of 2019 wef 28/01/2020 wef 28/01/2020]
 
 25. 
 
@@ -8402,6 +8400,12 @@ Parking Places Act (Cap. 214).
 Pawnbrokers Act 2015.
 
 [Act 2 of 2015 wef 01/04/2015]
+
+27A. 
+
+Payment Services Act 2019.
+
+[Act 2 of 2019 wef 28/01/2020]
 
 28. 
 
@@ -9324,6 +9328,10 @@ This Legislative History is provided for the convenience of users of the Central
 |||(Bill No. 34/2019)|
 ||Date of Second and Third Readings|4 November 2019|
 ||Date of commencement|1 January 2020|
+|223.|**Act 2 of 2019—Payment Services Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 48/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|28 January 2020|
 ## COMPARATIVE TABLE
 
 Central Provident Fund Act
