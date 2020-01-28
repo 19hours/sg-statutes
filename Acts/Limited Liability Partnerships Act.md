@@ -4368,7 +4368,7 @@ imposed through stock exchange rules, law or other enforceable means.
 
 (a) any financial institution that is licensed, approved, registered (including a fund management company registered under paragraph 5(1)(i) of the Second Schedule to the Securities and Futures (Licensing and Conduct of Business) Regulations (Cap. 289, Rg 10)) or regulated by the Monetary Authority of Singapore but does not include —
 
-(i) any holder of a stored value facility as defined in section 2(1) of the Payment Systems (Oversight) Act (Cap. 222A); and
+(i) [Deleted by Act 2 of 2019 wef 28/01/2020]
 
 (ii) a person (other than a person mentioned in sub‑paragraphs (b) and (c)) who is exempted from licensing, approval or regulation by the Monetary Authority of Singapore under any Act administered by the Monetary Authority of Singapore, including a private trust company exempted from licensing under section 15 of the Trust Companies Act (Cap. 336) read with regulation 4 of the Trust Companies (Exemption) Regulations (Cap. 336, Rg 1);
 
@@ -4587,6 +4587,10 @@ This Legislative History is provided for the convenience of users of the Limited
 ||Date of First Reading|28 February 2017 (Bill No. 13/2017 published on 28 February 2017)|
 ||Date of Second and Third Readings|10 March 2017|
 ||Date of commencement|11 October 2017|
+|16.|**Act 2 of 2019—Payment Services Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 48/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|28 January 2020|
 ## COMPARATIVE TABLE
 
 Limited Liability Partnerships Act
