@@ -1058,7 +1058,9 @@ Specified claims
 
 (i) a claim by a Town Council for the recovery of any charge, fee, expense or penalty mentioned in section 51 of the Town Councils Act.
 
-2\. For the purposes of paragraph 1(a), a contract to buy or sell foreign currency notes made with a person holding a valid money-changer’s licence under the Money-changing and Remittance Businesses Act (Cap. 187) is deemed to be a contract for the provision of services.
+2. For the purposes of paragraph 1(a), a contract to buy or sell foreign currency notes made with a person who has in force a licence under the Payment Services Act 2019 that entitles the person to carry on a business of providing a money‑changing service is deemed to be a contract for the provision of services.
+
+[Act 2 of 2019 wef 28/01/2020]
 
 [Act 33 of 2018 wef 01/11/2019]
 
@@ -1136,3 +1138,7 @@ This Legislative History is provided for the convenience of users of the Small C
 ||Date of First Reading|17 May 2018 (Bill No. 23/2018 published on 17 May 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|1 November 2019|
+|16.|**Act 2 of 2019—Payment Services Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 48/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|28 January 2020|
