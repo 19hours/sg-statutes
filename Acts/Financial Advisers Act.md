@@ -536,7 +536,9 @@ and a reference in this Act to a person connected to another person shall be con
 
 (d) Monetary Authority of Singapore Act (Cap. 186);
 
-(e) Money-changing and Remittance Businesses Act (Cap. 187);
+(e) Payment Services Act 2019;
+
+[Act 2 of 2019 wef 28/01/2020]
 
 (f) Securities and Futures Act (Cap. 289); or
 
@@ -5095,6 +5097,10 @@ This Legislative History is provided for the convenience of users of the Financi
 ||Date of commencement|8 October 2018|
 |23.|**G.N. No. S 658/2018—Financial Advisers Act (Amendment of Second Schedule) Order 2018**|
 ||Date of commencement|8 October 2018|
+|24.|**Act 2 of 2019—Payment Services Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 48/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|28 January 2020|
 ## COMPARATIVE TABLE
 
 Financial Advisers Act
