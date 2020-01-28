@@ -2324,7 +2324,9 @@ whether those rules are made —
 
 (e) Monetary Authority of Singapore Act (Cap. 186);
 
-(f) Money-changing and Remittance Businesses Act (Cap. 187); or
+(f) Payment Services Act 2019;
+
+[Act 2 of 2019 wef 28/01/2020]
 
 (g) such other written law as the Authority may prescribe;
 
@@ -27493,6 +27495,10 @@ This Legislative History is provided for the convenience of users of the Securit
 ||Date of commencement|14 January 2020|
 |32.|**G.N. No. S 53/2020—Securities and Futures Act (Amendment of Third Schedule) Order 2020**|
 ||Date of commencement|21 January 2020|
+|33.|**Act 2 of 2019—Payment Services Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 48/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|28 January 2020|
 ## COMPARATIVE TABLE
 
 Securities and Futures Act
