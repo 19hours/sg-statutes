@@ -1168,7 +1168,9 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 [13/2007 wef 30/06/2007]
 
-(d) any money-changer licensed to conduct money-changing business, or any remitter licensed to conduct remittance business, under the Money-changing and Remittance Businesses Act (Cap. 187);
+(d) a person granted a licence under the Payment Services Act 2019;
+
+[Act 2 of 2019 wef 28/01/2020]
 
 (e) any insurer licensed or regulated under the Insurance Act (Cap. 142);
 
@@ -1190,11 +1192,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (k) any licensed trust company under the Trust Companies Act (Cap. 336);
 
-(ka) any holder of a stored value facility under the Payment Systems (Oversight) Act (Cap. 222A);
-
-[42/2007 wef 01/11/2007]
-
-[Act 14 of 2015 wef 26/06/2015]
+(ka) [Deleted by Act 2 of 2019 wef 28/01/2020]
 
 (kb) any designated financial holding company under the Financial Holding Companies Act 2013 (Act 13 of 2013);
 
@@ -3984,7 +3982,9 @@ Termination rights
 
 “business day” has the same meaning as in section 2(1) of the Banking Act (Cap. 19);
 
-“designated payment system” means a payment system within the meaning of the Payment Systems (Oversight) Act (Cap. 222A) that is designated under section 7 of that Act;
+“designated payment system” has the same meaning as in section 2(1) of the Payment Services Act 2019;
+
+[Act 2 of 2019 wef 28/01/2020]
 
 “foreign resolution” means any action by a foreign resolution authority of a foreign country or territory to do either or both of the following:
 
@@ -4002,7 +4002,9 @@ Termination rights
 
 (c) the entity that is the holding company of the pertinent financial institution, and the entities that are subsidiaries of that holding company;
 
-“operator” and “settlement institution” have the meanings given to those terms in section 2(1) of the Payment Systems (Oversight) Act;
+“operator” and “settlement institution” have the same meanings as in section 2(1) of the Payment Services Act 2019;
+
+[Act 2 of 2019 wef 28/01/2020]
 
 “reinsurance contract” means any contract or arrangement involving the reinsurance of liabilities under insurance policies;
 
@@ -4169,9 +4171,11 @@ and domestic authorities
 
 (f) the Insurance Act (Cap. 142);
 
-(g) the Money-changing and Remittance Businesses Act (Cap. 187);
+(g) the Payment Services Act 2019;
 
-(h) the Payment Systems (Oversight) Act (Cap. 222A);
+[Act 2 of 2019 wef 28/01/2020]
+
+(h) [Deleted by Act 2 of 2019 wef 28/01/2020]
 
 (i) the Securities and Futures Act (Cap. 289);
 
@@ -4511,9 +4515,13 @@ Resolution funding
 
 (a) in relation to a market infrastructure, means a participant of the market infrastructure, and includes a client of such participant; and
 
-(b) in relation to a payment system operator, means a participant of the payment system (within the meaning of the Payment Systems (Oversight) Act (Cap. 222A)) operated by the payment system operator;
+(b) in relation to a payment system operator, means a participant of the payment system (within the meaning of the Payment Services Act 2019) operated by the payment system operator;
 
-“payment system operator” means a person who operates a payment system within the meaning of the Payment Systems (Oversight) Act;
+[Act 2 of 2019 wef 28/01/2020]
+
+“payment system operator” means a person who operates a payment system within the meaning of the Payment Services Act 2019;
+
+[Act 2 of 2019 wef 28/01/2020]
 
 “provisional entity”, in relation to a resolution fund, means an entity established or incorporated to do one or more of the following:
 
@@ -6095,9 +6103,11 @@ General provisions
 
 (h) the Insurance Act;
 
-(i) the Money-changing and Remittance Businesses Act (Cap. 187);
+(i) the Payment Services Act 2019;
 
-(j) the Payment Systems (Oversight) Act (Cap. 222A);
+[Act 2 of 2019 wef 28/01/2020]
+
+(j) [Deleted by Act 2 of 2019 wef 28/01/2020]
 
 (k) the Securities and Futures Act (Cap. 289);
 
@@ -6761,9 +6771,7 @@ Insurance Act (Cap. 142)
 
 Local Treasury Bills Act (Cap. 167)
 
-16. 
-
-Money-changing and Remittance Businesses Act (Cap. 187)
+16. [Deleted by Act 2 of 2019 wef 28/01/2020]
 
 17. 
 
@@ -6771,7 +6779,9 @@ Payment and Settlement Systems (Finality and Netting) Act (Cap. 231)
 
 18. 
 
-Payment Systems (Oversight) Act 2006 (Act 1 of 2006)
+Payment Services Act 2019
+
+[Act 2 of 2019 wef 28/01/2020]
 
 19. 
 
@@ -6959,6 +6969,10 @@ This Legislative History is provided for the convenience of users of the Monetar
 |||4 June 2018|
 |||5 June 2018|
 |||29 October 2018|
+|34.|**Act 2 of 2019—Payment Services Act 2019**|
+||Date of First Reading|19 November 2018 (Bill No. 48/2018 published on 19 November 2018)|
+||Date of Second and Third Readings|14 January 2019|
+||Date of commencement|28 January 2020|
 ## COMPARATIVE TABLE
 
 Monetary Authority of Singapore Act
