@@ -2736,6 +2736,12 @@ Zika Virus Infection.
 
 [S 37/2016 wef 26/01/2016]
 
+35. 
+
+2019 Novel Coronavirus (2019-nCoV).
+
+[S 68/2020 wef 29/01/2020]
+
 SECOND SCHEDULE
 
 Sections 2 and 21A
@@ -2763,6 +2769,12 @@ Severe Acute Respiratory Syndrome (SARS).
 Yellow fever.
 
 [Act 5 of 2019 wef 25/03/2019]
+
+6. 
+
+2019 Novel Coronavirus (2019-nCoV).
+
+[S 68/2020 wef 29/01/2020]
 
 THIRD SCHEDULE
 
@@ -2949,6 +2961,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
 ||Date of Second and Third Readings|12 February 2019|
 ||Date of commencement|1 April 2019|
+|44.|**G.N. No. S 68/2020—Infectious Diseases Act (Amendment of First and Second Schedules) Notification 2020**|
+||Date of commencement|29 January 2020|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
