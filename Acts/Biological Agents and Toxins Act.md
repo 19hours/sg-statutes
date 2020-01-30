@@ -2313,6 +2313,10 @@ Coronaviridae
 
 [S 396/2015 wef 01/07/2015]
 
+(c) 2019 Novel Coronavirus (2019-nCoV)
+
+[S 71/2020 wef 30/01/2020]
+
 4. 
 
 Flaviviridae
@@ -2560,3 +2564,5 @@ This Legislative History is provided for the convenience of users of the Biologi
 ||Date of First Reading|11 September 2017 (Bill No. 32/2017 published on 11 September 2017)|
 ||Date of Second and Third Readings|2 October 2017|
 ||Date of commencement|18 December 2018|
+|12.|**G.N. No. S 71/2020—Biological Agents and Toxins Act (Amendment of First Schedule) Order 2020**|
+||Date of commencement|30 January 2020|
