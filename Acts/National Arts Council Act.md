@@ -24,15 +24,15 @@
 
 - [7 Patrons of Council](#Patrons-of-Council)
 
-- [8 Annual report](#Annual-report)
+- [8 (Repealed)](#Repealed)
 
 - [9 Directions by Minister](#Directions-by-Minister)
 
 [**Part 3 PROVISIONS RELATING TO STAFF**](#Part-3)
 
-- [10 Chief executive of Council](#Chief-executive-of-Council)
+- [10 Chief Executive](#Chief-Executive)
 
-- [11 Appointment of staff](#Appointment-of-staff)
+- [11 Other officers and employees, etc.](#Other-officers-and-employees-etc)
 
 - [11A Secretary of Council](#Secretary-of-Council)
 
@@ -104,11 +104,19 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Chairman” means the Chairman of the Council appointed under section 4;
+“Chairman” means a member of the Council who is appointed under paragraph 2A(1) of the First Schedule as the Chairman of the Council, and includes any person appointed under that Schedule to act as the Chairman;
+
+[Act 2 of 2020 wef 10/02/2020]
+
+“Chief Executive” means the Chief Executive of the Council, and includes any individual acting in that capacity;
+
+[Act 5 of 2018 wef 01/04/2018]
 
 “Council” means the National Arts Council established under section 3;
 
-“Deputy Chairman” means the Deputy Chairman of the Council appointed under section 4;
+“Deputy Chairman” means a member of the Council who is appointed under paragraph 2A(1) of the First Schedule as the Deputy Chairman of the Council, and includes any person appointed under that Schedule to act as the Deputy Chairman;
+
+[Act 2 of 2020 wef 10/02/2020]
 
 “Fund” means the Singapore Arts Endowment Fund established under section 13;
 
@@ -138,13 +146,9 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF COUNCIL
 
 ### Constitution of Council
 
-4\.—(1) The Council shall consist of —
+4\.—(1) The Council consists of not less than 11 but not more than 27 members.
 
-(a) a Chairman;
-
-(b) a Deputy Chairman; and
-
-(c) not less than 10 but not more than 25 other members.
+[Act 2 of 2020 wef 10/02/2020]
 
 (2) The First Schedule shall apply to the Council, its members and proceedings.
 
@@ -204,15 +208,13 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF COUNCIL
 
 (b) other patrons of the Council, not exceeding such number as the Minister may determine.
 
-### Annual report
-
-8\.—(1) The Council shall, as soon as practicable after the commencement of each financial year, cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during that financial year.
-
-(2) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
+8\. [Repealed by Act 5 of 2018 wef 01/04/2018]
 
 ### Directions by Minister
 
-9\.—(1) The Minister may, in consultation with the Council or otherwise, give to the Council such directions not inconsistent with the provisions of this Act as he thinks fit as to the exercise and performance by the Council of its functions under this Act and the Council shall give effect to any such directions.
+9\.—(1) The Minister may give to the Council any direction under section 5 of the Public Sector (Governance) Act 2018.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 (2) The Council shall give the Minister such information with regard to its property and activities as the Minister may require.
 
@@ -220,21 +222,23 @@ ESTABLISHMENT, CONSTITUTION, FUNCTIONS AND POWERS OF COUNCIL
 
 PROVISIONS RELATING TO STAFF
 
-### Chief executive of Council
+### Chief Executive
 
-10\.—(1) The Council shall, with the approval of the Minister, appoint a chief executive of the Council on such terms and conditions as the Council may determine.
+10\.—(1) There must be a Chief Executive of the Council, whose appointment, removal, discipline and promotion must be in accordance with the Public Sector (Governance) Act 2018.
 
-(2) The chief executive shall be known by such designation as the Council may determine and shall be responsible to the Council for the proper administration and management of the affairs of the Council in accordance with the policy laid down by the Council.
+(2) The Council may, subject to the Public Sector (Governance) Act 2018, appoint an individual to act temporarily as the Chief Executive during any period, or during all periods, when the Chief Executive —
 
-(3) If the chief executive is temporarily absent from Singapore or temporarily incapacitated by reason of illness or for other reasons temporarily unable to perform his duties, a person may be appointed by the Council to act in the place of the chief executive during any such period of absence from duty.
+(a) is absent from duty or Singapore; or
 
-### Appointment of staff
+(b) is, for any reason, unable to perform the duties of the office.
 
-11\. The Council may —
+[Act 5 of 2018 wef 01/04/2018]
 
-(a) appoint such number of employees on such terms as to remuneration or otherwise as the Council may determine and may terminate their service or exercise disciplinary control over them in accordance with their terms of service; and
+### Other officers and employees, etc.
 
-(b) engage and remunerate for their services such persons as the Council considers necessary for carrying out its functions and duties.
+11\. The Council may, subject to the Public Sector (Governance) Act 2018, appoint and employ, on such terms and conditions as it may determine, such other officers, employees, consultants and agents as may be necessary for the effective performance of its functions.
+
+[Act 5 of 2018 wef 01/04/2018]
 
 ### Secretary of Council
 
@@ -396,17 +400,55 @@ Section 4(2)
 
 Constitution and proceedings of Council
 
-Appointment of Chairman, Deputy Chairman and other members
+Appointment of members
 
-1.—(1) The Chairman, the Deputy Chairman and other members shall be appointed by the Minister.
+1.—(1) The members shall be appointed by the Minister.
+
+[Act 2 of 2020 wef 10/02/2020]
 
 (2) The Deputy Chairman may, subject to such directions as may be given by the Chairman, exercise all or any of the powers exercisable by the Chairman under this Act.
 
 (3) The Minister may appoint the chief executive to be a member.
 
-Tenure of office of members
+[Act 2 of 2020 wef 10/02/2020]
 
-2\. The Chairman, the Deputy Chairman and every other member shall, unless their appointment is revoked under paragraph 5 or they resign during their term of office under paragraph 6, hold office for a term of 3 years or such shorter period as the Minister may determine.
+Tenure of appointment as member
+
+2.—(1) Subject to sub‑paragraph (3), each member of the Council holds office for a period of 3 years or for a shorter period the Minister determines for that member.
+
+(2) A member of the Council may be re‑appointed.
+
+(3) A member of the Council ceases to hold office if —
+
+(a) he dies;
+
+(b) his appointment is revoked by the Minister under paragraph 5;
+
+(c) he resigns under paragraph 6; or
+
+(d) he vacates his office under paragraph 7.
+
+[Act 2 of 2020 wef 10/02/2020]
+
+Tenure as Chairman or Deputy Chairman
+
+2A.—(1) The Minister may appoint —
+
+(a) a member (other than the Chief Executive) to be the Chairman of the Council for a period the Minister determines, being not longer than 3 years; and
+
+(b) a member (other than the Chairman or Chief Executive) to be the Deputy Chairman of the Council for a period the Minister determines, being not longer than 3 years.
+
+(2) The Chairman or Deputy Chairman may be re‑appointed in accordance with this paragraph.
+
+(3) The Chairman or Deputy Chairman holds office until whichever of the following first happens:
+
+(a) his term of office as Chairman or Deputy Chairman (as the case may be) expires;
+
+(b) he ceases to hold office as a member;
+
+(c) the Minister revokes the appointment as Chairman or Deputy Chairman, as the case may be.
+
+[Act 2 of 2020 wef 10/02/2020]
 
 Temporary Chairman or Deputy Chairman
 
@@ -446,17 +488,7 @@ Disqualification from membership
 
 (c) is convicted of an offence involving dishonesty, fraud or moral turpitude and has not received a free pardon.
 
-Member’s interest to be made known
-
-10.—(1) A member who is in any way, directly or indirectly, interested in a transaction or project of the Council shall disclose the nature of his interest at the first meeting of the Council at which he is present after the relevant facts have come to his knowledge.
-
-(2) A disclosure under sub-paragraph (1) shall be recorded in the minutes of the meeting of the Council and, after the disclosure, that member —
-
-(a) shall not take part in any deliberation or decision of the Council with respect to that transaction or project; and
-
-(b) shall be disregarded for the purpose of constituting a quorum of the Council for such deliberation or decision.
-
-(3) No act or proceedings of the Council shall be questioned on the ground that a member has contravened this paragraph.
+10. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Salaries, fees and allowances payable to members
 
@@ -476,39 +508,11 @@ Meetings of Council
 
 (6) The Council may act notwithstanding any vacancy in its membership.
 
-(7) Subject to the provisions of this Act, the Council may make standing orders to regulate its own procedure and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings at such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
+(7) Subject to the provisions of this Act and the Public Sector (Governance) Act 2018, the Council may make standing orders to regulate its own procedure and, in particular, the holding of meetings, the notice to be given of such meetings, the proceedings at such meetings, the keeping of minutes and the custody, production and inspection of such minutes.
 
-Transaction of business by Council outside meetings
+[Act 5 of 2018 wef 01/04/2018]
 
-12A.—(1) The Council may, if it thinks fit, transact any of its business by the circulation of papers among members.
-
-(2) Where a member is in any way, directly or indirectly, interested in any business being transacted by circulation of papers —
-
-(a) the member must disclose the nature of the member’s interest in writing to the Chairman at the first opportunity after the relevant facts have come to the member’s knowledge;
-
-(b) the disclosure is to be recorded and treated as having been made in accordance with paragraph 10; and
-
-(c) the member must not take part in the deliberation or decision with respect to that transaction.
-
-(3) A decision in writing made by a simple majority of the members for the time being entitled to take part in the decision is to be taken as a decision of the Council, and is as valid and effectual as if the decision had been made at a meeting of the Council duly convened and held.
-
-(4) Separate copies of a decision in writing may be distributed for signing by the members if the wording of the decision and approval is identical in each copy.
-
-(5) For the purpose of a decision under this paragraph, the Chairman and each member have the same voting rights as they have at any meeting of the Council.
-
-(6) The decision of the Council is made when —
-
-(a) the last member required for the majority signs; and
-
-(b) the decision of that member is duly delivered to the secretary of the Council.
-
-(7) The Chairman may stipulate a period of time within which a decision may be made under this paragraph.
-
-(8) The Council may, if it thinks fit, deliberate on matters by the circulation of papers among all of the members of the Council.
-
-(9) For the purposes of this paragraph, papers (including disclosures and decisions) may be circulated among members, or delivered to the secretary of the Council, by hand or by facsimile or electronic transmission of the information in the papers concerned.
-
-[Act 16 of 2016 wef 10/06/2016]
+12A. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 Validity of acts of members
 
@@ -526,63 +530,27 @@ Financial year
 
 1\. The financial year of the Council shall begin on 1 April of each year and end on 31 March of the succeeding year, except that the first financial year of the Council shall begin on 17 August 1991 and shall end on 31 March 1992.
 
-Accounts to be kept
+2. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-2\. The Council shall keep proper accounts and records of its transactions and affairs and shall do all things necessary to ensure that all payments out of its moneys are correctly made and properly authorised and that adequate control is maintained over the assets of, or in the custody of, the Council and over the expenditure incurred by the Council.
+3. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-Financial statements
+4. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-3\. The Council shall, as soon as practicable but not later than 31 August in each year, prepare and submit financial statements in respect of the preceding financial year to the auditor appointed under paragraph 4(1).
+5. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-Appointment of auditor
+6. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-4.—(1) The accounts of the Council shall be audited by the Auditor-General or such other auditor as may be appointed annually by the Minister in consultation with the Auditor-General.
+7. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-(2) A person shall not be qualified for appointment as an auditor under sub‑paragraph (1) unless he is a public accountant within the meaning of the Companies Act (Cap. 50).
+8. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
-Remuneration of auditor
+When audited financial statements must be given to Minister
 
-5\. The remuneration of the auditor shall be paid out of the funds of the Council.
+9. The Council must send the audited annual financial statements of the Council, signed by the Chairman, to the Minister no later than 30 November in each year, together with a copy of any report made by the auditor of the Council.
 
-Powers of auditor
+[Act 5 of 2018 wef 01/04/2018]
 
-6\. The auditor or any person authorised by him shall be entitled at all reasonable times to full and free access to all accounting and other records relating, directly or indirectly, to the financial transactions of the Council and may make copies of, or extracts from, any such accounting and other records.
-
-Duties of auditor
-
-7.—(1) The auditor shall in his report state —
-
-(a) whether the financial statements show fairly the financial transactions and the state of affairs of the Council;
-
-(b) whether proper accounting and other records have been kept, including records of all assets of the Council whether purchased, donated or otherwise;
-
-(c) whether receipts, expenditure and investment of moneys and the acquisition and disposal of assets by the Council during the financial year have been in accordance with the provisions of this Act; and
-
-(d) such other matters arising from the audit as he considers necessary.
-
-(2) The auditor shall send a report of his audit to the Minister through the Council not later than 31 October in each year.
-
-(3) The auditor may at any other time report to the Minister through the Council upon any matter arising out of the performance of his audit.
-
-Failure to furnish information to auditor
-
-8.—(1) The auditor or any person authorised by him may require any person to furnish him with such information in the possession of that person or to which that person has access as the auditor considers necessary for the purposes of his functions under this Act.
-
-(2) Any person who fails without reasonable excuse to comply with any requirement of the auditor under sub-paragraph (1) or who otherwise hinders, obstructs or delays the auditor in the performance of his duties or the exercise of his powers shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $1,000 and, in the case of a continuing offence, to a further fine not exceeding $100 for every day during which the offence continues after conviction.
-
-Presentation of financial statements and auditor’s report to Parliament
-
-9.—(1) As soon as the financial statements have been audited in accordance with the provisions of this Act but not later than 30 November in each year, the Council shall send to the Minister a copy of the audited financial statements, signed by the Chairman, together with a copy of any report made by the auditor.
-
-(2) Where the Auditor-General is not the auditor of the Council, a copy of the audited financial statements and any report made by the auditor shall be forwarded to the Auditor-General when they are submitted to the Council.
-
-(3) The Minister shall as soon as practicable cause a copy of the audited financial statements and of the report of the auditor to be presented to Parliament.
-
-Annual report
-
-10.—(1) The Council shall as soon as practicable cause to be prepared and transmitted to the Minister a report dealing generally with the activities of the Council during the preceding financial year.
-
-(2) The Minister shall as soon as practicable cause a copy of every such report to be presented to Parliament.
+10. [Deleted by Act 5 of 2018 wef 01/04/2018]
 
 THIRD SCHEDULE
 
@@ -647,3 +615,11 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of First Reading|14 April 2016 (Bill No. 15/2016 published on 14 April 2016)|
 ||Date of Second and Third Readings|9 May 2016|
 ||Date of commencement|10 June 2016|
+|8.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
+||Date of Second and Third Readings|8 January 2018|
+||Date of commencement|1 April 2018|
+|9.|**Act 2 of 2020—Statutes (Miscellaneous Amendments) Act 2020**|
+||Date of First Reading|4 November 2019 (Bill No. 36/2019 published on 4 November 2019)|
+||Date of Second and Third Readings|6 January 2020|
+||Date of commencement|10 February 2020|
