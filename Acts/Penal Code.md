@@ -60,6 +60,22 @@
 
 - [26 "Reason to believe"](#"Reason-to-believe")
 
+- [26A "Voluntarily"](#"Voluntarily")
+
+- [26B "Good faith"](#"Good-faith")
+
+- [26C "Intentionally"](#"Intentionally")
+
+- [26D "Knowingly"](#"Knowingly")
+
+- [26E "Rashly"](#"Rashly")
+
+- [26F "Negligently"](#"Negligently")
+
+- [26G "Transferred fault"](#"Transferred-fault")
+
+- [26H "Strict liability"](#"Strict-liability")
+
 - [27 Property in possession of spouse, clerk or servant](#Property-in-possession-of-spouse-clerk-or-servant)
 
 - [28 "Counterfeit"](#"Counterfeit")
@@ -90,7 +106,7 @@
 
 - [38 Several persons engaged in the commission of a criminal act may be guilty of different offences](#Several-persons-engaged-in-the-commission-of-a-criminal-act-may-be-guilty-of-different-offences)
 
-- [39 "Voluntarily"](#"Voluntarily")
+- [39 (Repealed)](#Repealed)
 
 - [40 "Offence"](#"Offence")
 
@@ -118,7 +134,7 @@
 
 - [51 "Oath"](#"Oath")
 
-- [52 "Good faith"](#"Good-faith")
+- [52 (Repealed)](#Repealed)
 
 [**Chapter III  Punishments**](#Chapter-III--Punishments)
 
@@ -192,7 +208,9 @@
 
 - [95 Act causing slight harm](#Act-causing-slight-harm)
 
-[**Right of private defence**](#Right-of-private-defence)
+[**Chapter IVA  Right of private defence**](#Chapter-IVA--Right-of-private-defence)
+
+[**General**](#General)
 
 - [96 Nothing done in private defence is an offence](#Nothing-done-in-private-defence-is-an-offence)
 
@@ -1362,13 +1380,15 @@ General Explanations
 
 ### Definitions in this Code to be understood subject to exceptions
 
-6\. Throughout this Code every definition of an offence, every penal provision, and every illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapter entitled “General Exceptions”, though those exceptions are not repeated in such definition, penal provision or illustration.
+6\. Throughout this Code every definition of an offence, every penal provision, and every illustration of every such definition or penal provision, shall be understood subject to the exceptions contained in the Chapters entitled “General Exceptions” and “Right of Private Defence”, though those exceptions are not repeated in such definition, penal provision or illustration.
 
 Illustrations
 
 (a) The sections in this Code which contain definitions of offences, do not express, that a child under 7 years of age cannot commit such offences, but the definitions are to be understood subject to the general exception which provides that “nothing shall be an offence which is done by a child under 7 years of age”.
 
-(b)A, a police officer, without warrant, apprehendsZ, who has committed murder. Here A is not guilty of the offence of wrongful confinement, for he was bound by law to apprehendZ, and therefore the case falls within the general exception which provides that “nothing is an offence which is done by a person who is bound by law to do it”.
+(b)A, a police officer, without warrant, apprehendsZ, who has committed murder. HereAis not guilty of the offence of wrongful confinement, for he was bound by law to apprehendZ, and therefore the case falls within the general exception which provides that “nothing is an offence which is done by a person who is bound by law to do it”.
+
+[Act 15 of 2019 wef 10/02/2020]
 
 [Indian PC 1860, s. 6]
 
@@ -1568,6 +1588,120 @@ Explanation2.—It is sufficient in any charge for an offence under this Code in
 
 [Indian PC 1860, s. 26]
 
+### “Voluntarily”
+
+26A\. A person is said to cause an effect “voluntarily” when he causes it by means whereby he intended to cause it, or by means which, at the time of employing those means, he knew or had reason to believe to be likely to cause it.
+
+Illustration
+
+Asets fire, by night, to an inhabited house in a large town, for the purpose of facilitating a robbery, and thus causes the death of a person. HereAmay not have intended to cause death, and may even be sorry that death has been caused by this act; yet, if he knew that he was likely to cause death, he has caused death voluntarily.
+
+[Act 15 of 2019 wef 10/02/2020]
+
+### “Good faith”
+
+26B\. Nothing is said to be done or believed in good faith which is done or believed without due care and attention.
+
+[Act 15 of 2019 wef 10/02/2020]
+
+### “Intentionally”
+
+26C\.—(1) A person is said to do an act intentionally where that person does an act deliberately.
+
+(2) A person is said to cause an effect intentionally where that person does anything that causes an effect —
+
+(a) with the purpose of causing that effect; or
+
+(b) knowing that that effect would be virtually certain (barring an unforeseen intervention) to result.
+
+(3) To avoid doubt, a person does not intend or foresee a result of his acts by reason only of it being a natural and probable consequence of those acts.
+
+(4) To avoid doubt, nothing in this section prevents a court from relying on a person’s foresight that a certain effect was a probable consequence of his act as a basis to draw an inference that the person caused that effect intentionally.
+
+Explanation.—Intention is distinct from motive or desire, and a person may do an act or cause an effect intentionally even if doing so was not his motive or he had no desire to do so.
+
+[Act 15 of 2019 wef 10/02/2020]
+
+### “Knowingly”
+
+26D\.—(1) Whoever does an act with awareness that a circumstance exists, will exist, or is virtually certain (barring an unforeseen intervention) to exist, is said to do that act knowingly in respect of that circumstance.
+
+(2) Whoever does an act with awareness that an effect will be caused, or is virtually certain (barring an unforeseen intervention) to be caused, is said to do that act knowingly in respect of that effect.
+
+(3) Where doing an act knowingly is a fault element of an offence, that fault element is also established where that act is done intentionally or with wilful blindness.
+
+[Act 15 of 2019 wef 10/02/2020]
+
+[Act 2 of 2020 wef 10/02/2020]
+
+### “Rashly”
+
+26E\.—(1) Whoever does any act knowing that there is a real risk that a particular circumstance exists or will exist is said to do that act rashly in respect of that particular circumstance, if it would have been unreasonable to have taken that risk.
+
+(2) Whoever does any act knowing that there is a real risk that an effect will be caused is said to do that act rashly in respect of that effect, if it would have been unreasonable to have taken that risk.
+
+(3) Where doing an act rashly is a fault element of an offence, that fault element is also established where that act is done intentionally or knowingly.
+
+[Act 15 of 2019 wef 10/02/2020]
+
+### “Negligently”
+
+26F\.—(1) Whoever omits to do an act which a reasonable person would do, or does any act which a reasonable person would not do, is said to do so negligently.
+
+(2) Where doing an act negligently is a fault element of an offence, that fault element is also established where that act is done intentionally, knowingly or rashly.
+
+[Act 15 of 2019 wef 10/02/2020]
+
+### “Transferred fault”
+
+26G\.—(1) This section applies to any offence under this Code or any other written law where a fault element of the offence is intention or knowledge, except where section 301(1) applies to that offence.
+
+(2) Where all the fault elements and physical elements of the offence have been proven in respect of an accused person, and assuming no defence or exception applies, the accused person shall be guilty of the offence despite the following circumstances:
+
+(a) the physical elements of the offence included the doing of an act or the causing of an effect concerning a person or thing;
+
+(b) at the time such act or effect was done or caused, the accused person believed or intended that the act or effect would concern a person or thing different from the person or thing mentioned in paragraph (a).
+
+(3) Subsection (2) applies only where the accused person did or caused the physical elements in subsection (2)(a) negligently in respect of the person or thing mentioned in that subsection.
+
+Illustrations
+
+(a)Athrows a stone atBintending to hurtB(but not intending, knowing or having reason to believe that anyone else would be hurt), but the stone hurtsC.Acommits an offence of voluntarily causing hurt in respect ofCifAthrew the stone negligently in respect ofC.
+
+(b)Athrows a stone at a porcelain vase intending to cause loss to its owner,B(but not intending or knowing it likely thatAwould cause wrongful loss or damage in respect of any other property), but the stone damages a clay pot belonging toC.Acommits mischief in respect ofCifAthrew the stone negligently in respect ofC.
+
+(c)Athreatens injury toB’s person by shouting atBthe words, “B, I will kill you”, with intent to cause alarm toB.Chears these words and is alarmed.Adoes not commit the offence of criminal intimidation againstCasAdid not threatenCwith any injury.
+
+(4) To avoid doubt, nothing in this section affects the requirement to prove all the fault elements of an offence in order for guilt to be established for that offence.
+
+Illustrations
+
+(a)Athrows a stone atBintending to hurtB(but not intending or not knowing thatAis likely to cause wrongful loss or damage in respect of any property), but the stone hits a porcelain vase.Adoes not commit mischief in respect of the vase. This is becauseAdid not possess the fault element required to commit mischief.
+
+(b)Athrows a stone atBintending to hurtB(but not intending, knowing or having reason to believe that anyone else would be hurt), but the stone hurtsP, a police officer in discharge of his duty.Acommits an offence of voluntarily causing hurt againstP.Adoes not commit an offence of voluntarily causing hurt toPin the discharge ofP’s duty as a public servant becauseAdid not possess the fault element required to commit this offence.
+
+(c)Athrows a stone atBintending to hurtB(but not intending or not knowing thatAis likely to cause grievous hurt), but the stone causes grievous hurt toC.Acommits an offence againstCof voluntarily causing hurt where grievous hurt is caused under section 323A.Adoes not commit an offence of voluntarily causing grievous hurt againstCbecauseAdid not possess the fault element required to commit this offence.
+
+(5) Where the circumstances mentioned in subsection (2)(a) and (b) exist, the accused person may rely on any defence or exception in law as though the act or effect mentioned in subsection (2)(a) concerned the person or thing the accused person believed or intended that act or effect to concern.
+
+Illustration
+
+Athrows a stone atBin exercise ofA’s right of private defence againstB, but the stone hurtsC.Amay rely on the defence of private defence againstBifAis charged for voluntarily causing hurt toC.
+
+[Act 15 of 2019 wef 10/02/2020]
+
+### “Strict liability”
+
+26H\.—(1) An offence of strict liability under this Code or any written law is one where, for every physical element of the offence, there is no corresponding fault element.
+
+(2) Strict liability is said to apply to a particular physical element of an offence where there is no corresponding fault element for that physical element, regardless of whether or not the offence is one of strict liability.
+
+(3) To avoid doubt, an offence may be a strict liability offence even though it is not so expressly described by any written law; and strict liability may apply to a particular physical element of any offence even though it is not so expressly described in any written law.
+
+(4) It is a defence for any person charged with a strict liability offence to prove that in committing all the acts or omissions that are physical elements of the offence, he exercised reasonable care.
+
+[Act 15 of 2019 wef 10/02/2020]
+
 ### Property in possession of spouse, clerk or servant
 
 27\. When property is in the possession of a person’s spouse, clerk or servant, on account of that person, it is in that person’s possession within the meaning of this Code.
@@ -1604,9 +1738,9 @@ Explanation2.—Where a person causes one thing to resemble another thing and th
 
 (f) any paper or other material on which there are marks, impressions, figures, letters, symbols or perforations having a meaning for persons qualified to interpret them.
 
-[CPC 1985 Ed., s. 378(3)]
-
 [51/2007]
+
+[CPC 1985 Ed., s. 378(3)]
 
 ### “Writing”
 
@@ -1618,9 +1752,9 @@ Explanation2.—Where a person causes one thing to resemble another thing and th
 
 29B\. The expression “electronic record” has the same meaning as in the Electronic Transactions Act (Cap. 88).
 
-[Indian PC 1860, s. 29A]
-
 [51/2007]
+
+[Indian PC 1860, s. 29A]
 
 ### “Valuable security”
 
@@ -1656,9 +1790,9 @@ Illustration
 
 “instrument” includes any document whether of a formal or an informal nature, any postage stamp or revenue stamp, any seal or die, and any disc, card, tape, microchip, sound-track or other device on or in which information is recorded or stored by mechanical, electronic, optical or other means.
 
-[HK Crimes Ordinance 1971, s. 68]
-
 [51/2007]
+
+[HK Crimes Ordinance 1971, s. 68]
 
 ### Words referring to acts include illegal omissions
 
@@ -1678,9 +1812,9 @@ Illustration
 
 AgivesZsmall doses of poison inZ’s food at different times over the course of a few days, with intent to killZ.Zdies from poisoning, although it is not known which of those doses (individually or collectively) causedZ’s death.Ahas causedZ’s death by poisoning.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [Indian PC 1860, s. 33]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Each of several persons liable for an act done by all, in like manner as if done by him alone
 
@@ -1730,27 +1864,21 @@ AattacksZunder such circumstances of grave provocation that his killing ofZwould
 
 [Indian PC 1860, s. 38]
 
-### “Voluntarily”
-
-39\. A person is said to cause an effect “voluntarily” when he causes it by means whereby he intended to cause it, or by means which, at the time of employing those means, he knew or had reason to believe to be likely to cause it.
-
-Illustration
-
-Asets fire, by night, to an inhabited house in a large town, for the purpose of facilitating a robbery, and thus causes the death of a person. HereAmay not have intended to cause death, and may even be sorry that death has been caused by this act; yet, if he knew that he was likely to cause death, he has caused death voluntarily.
-
-[Indian PC 1860, s. 39]
+39\. [Repealed by Act 15 of 2019 wef 10/02/2020]
 
 ### “Offence”
 
 40\.—(1) Except in the Chapters and sections mentioned in subsections (2) and (3), “offence” denotes a thing made punishable by this Code.
 
-(2) In Chapters IV, V and VA, and in sections 4, 187, 194, 195, 203, 204B, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388 and 389, “offence” denotes a thing punishable under this Code or under any other written law for the time being in force.
+(2) In Chapters IV, IVA, V and VA, and in sections 4, 187, 194, 195, 203, 204B, 211, 213, 214, 221, 222, 223, 224, 225, 327, 328, 329, 330, 331, 347, 348, 388 and 389, “offence” denotes a thing punishable under this Code or under any other written law for the time being in force.
 
 [51/2007]
 
-[Act 15/2010 wef 02/01/2011]
+[Act 15 of 2010 wef 02/01/2011]
 
 [Act 15 of 2019 wef 01/01/2020]
+
+[Act 2 of 2020 wef 10/02/2020]
 
 (3) In sections 141, 176, 177, 201, 202, 212, 216 and 441, “offence” has the same meaning when the thing punishable under any other law for the time being in force is punishable under such law with imprisonment for a term of 6 months or upwards, whether with or without fine.
 
@@ -1832,11 +1960,7 @@ Asets fire, by night, to an inhabited house in a large town, for the purpose of 
 
 [Indian PC 1860, s. 51]
 
-### “Good faith”
-
-52\. Nothing is said to be done or believed in good faith which is done or believed without due care and attention.
-
-[Indian PC 1860, s. 52]
+52\. [Repealed by Act 15 of 2019 wef 10/02/2020]
 
 ### Chapter III
 
@@ -2198,9 +2322,9 @@ Illustrations
 
 (c)X, the commander of a naval vessel, is deployed in response to a threat of a terrorist attack against a ferry terminal in Singapore.Xreceives information that vesselA, with a crew of 6, has been hijacked by terrorists and is approaching the ferry terminal at great speed and is likely to collide into the terminal. There is insufficient time to evacuate the persons at the terminal, which is estimated to be about 100.Xorders vesselAto stop her manoeuvre immediately and fires a warning signal. However, vesselAcontinues her advance towards the terminal. Here, ifXgives an order to fire at vesselAto disable it, without any intention to cause harm to the crew members of vesselA, and in good faith for the purpose of avoiding the danger to the persons at the terminal, he is not guilty of an offence. This is so even though he knows that he is likely to cause harm to the crew members of vesselA, if it be found as a matter of fact that the danger whichXintends to avoid is such as to excuse him in incurring the risk of firing at vesselA.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [Indian PC 1860, s. 81]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Act of a child under 7 years of age
 
@@ -2392,7 +2516,13 @@ Explanation2.—A person seized by gang-robbers, and forced by threat of instant
 
 [Indian PC 1860, s. 95]
 
+### Chapter IVA
+
 Right of private defence
+
+General
+
+[Act 15 of 2019 wef 10/02/2020]
 
 ### Nothing done in private defence is an offence
 
@@ -2408,9 +2538,9 @@ Right of private defence
 
 (b) the property, whether movable or immovable, of himself or of any other person, against any act which is an offence falling under the definition of theft, robbery, mischief or criminal trespass, or which is an attempt to commit theft, robbery, mischief or criminal trespass.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [Indian PC 1860, s. 97]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Extent to which right may be exercised
 
@@ -2582,9 +2712,9 @@ A, a public officer, is authorised by a warrant from a court of justice to appre
 
 Explanation2.—Whoever, either prior to or at the time of the commission of an act, does anything in order to facilitate the commission of that act, and thereby facilitates the commission thereof, is said to aid the doing of that act.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [Indian PC 1860, s. 107]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Abettor
 
@@ -2872,21 +3002,21 @@ Ajoins an insurrection against the Government.Ahas committed the offence defined
 
 124\. Whoever, with the intention of inducing or compelling the President or a Member of Parliament or the Cabinet, to exercise or refrain from exercising in any manner any of the lawful powers of the President, or such Member, assaults or wrongfully restrains, or attempts wrongfully to restrain, or overawes by means of criminal force, or the show of criminal force, or attempts so to overawe, the President or such Member, shall be punished with imprisonment for life or for a term which may extend to 20 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 124]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Waging war against any power in alliance or at peace with Singapore
 
 125\. Whoever wages war against the government of any power in alliance or at peace with the Government, or attempts to wage such war, or abets the waging of such war, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 15 years, to which fine may be added, or with fine.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 125]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Committing depredation on the territories of any power in alliance or at peace with Singapore
 
@@ -2908,11 +3038,11 @@ Ajoins an insurrection against the Government.Ahas committed the offence defined
 
 128\. Whoever, being a public servant, and having the custody of any prisoner of State or prisoner of war, voluntarily allows such prisoner to escape from any place in which such prisoner is confined, shall be punished with imprisonment for life, or imprisonment for a term which may extend to 15 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 128]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Public servant negligently suffering prisoner of State or war in his custody to escape
 
@@ -3048,11 +3178,11 @@ Offences relating to the armed forces
 
 137\. The master or person in charge of a merchant vessel, on board of which any deserter from the Singapore Armed Forces or any visiting forces lawfully present in Singapore is concealed, shall, though ignorant of such concealment, be punished with a fine not exceeding $1,500, if he might have known of such concealment, but for some neglect of his duty as such master or person in charge, or but for some want of discipline on board of the vessel.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 137]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Abetment of act of insubordination by an officer or a serviceman
 
@@ -3380,11 +3510,11 @@ of public servants
 
 172\. Whoever absconds in order to avoid being arrested on a warrant, or to avoid being served with a summons, a notice, or an order proceeding from any public servant, legally competent, as such public servant, to issue such warrant, summons, notice or order, shall be punished with imprisonment for a term which may extend to one month, or with fine which may extend to $1,500, or with both; or, if the summons, notice or order is to attend in person or by agent, or to produce a document or an electronic record before a court of justice, with imprisonment for a term which may extend to 6 months, or with fine which may extend to $5,000, or with both.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 172]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Preventing service of summons, etc., or preventing publication thereof
 
@@ -3528,11 +3658,11 @@ Illustrations
 
 (c)Afalsely informs a policeman that he has been assaulted and robbed by a person whose identity he does not know.Aalso mentions that he often sees that person going in and out of a block of flats, knowing it to be likely that in consequence of this information, the police will make inquiries and institute searches in the block of flats to the annoyance of the flat dwellers or some of them.Ahas committed an offence under this section.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 182]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Resistance to taking of property by lawful authority of public servant
 
@@ -3690,11 +3820,11 @@ A, in an inquiry before an officer deputed by a court of justice to ascertain on
 
 194\. Whoever gives or fabricates false evidence, intending thereby to cause, or knowing it to be likely that he will thereby cause, any person to be convicted of an offence which is capital by this Code, or under any other law for the time being in force, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 20 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine; and if an innocent person is convicted and executed in consequence of such false evidence, the person who gives such false evidence shall be punished either with death or the punishment hereinbefore described.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 194]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Giving or fabricating false evidence with intent to procure conviction of an offence punishable with imprisonment
 
@@ -3709,8 +3839,6 @@ Illustration
 Agives false evidence before a court of justice, intending thereby to causeZto be convicted of a gang-robbery. The punishment of gang-robbery is imprisonment for a term of not less than 5 years and not more than 20 years and also caning with not less than 12 strokes.A, therefore, is liable to such imprisonment, with caning.
 
 [Act 15 of 2019 wef 01/01/2020]
-
-[51/2007]
 
 [Indian PC 1860, s. 195]
 
@@ -3772,9 +3900,9 @@ A, knowing thatBhas murderedZ, assistsBto hide the body with the intention of sc
 
 Explanations.—In sections 201 and 202 and in this section “offence” includes any act committed at any place out of Singapore which if committed in Singapore would be punishable under any of the following sections, namely, 302, 304, 382, 392, 393, 394, 395, 396, 397, 399, 402, 435, 436, 449, 450, 459 and 460.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [Indian PC 1860, s. 203]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Destruction of document or electronic record to prevent its production as evidence
 
@@ -3880,11 +4008,11 @@ Illustrations
 
 (c)AandBare married to each other, and live in their matrimonial home.Aknows thatBhas committed gang‑robbery and is preparing to leave Singapore to evade arrest.Aprovides food and shelter toBfor the purposes of helpingBevade detection by the police before he leaves Singapore.Ais guilty of the offence of harbouring.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 212]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Taking gifts, etc., to screen an offender from punishment
 
@@ -4332,19 +4460,19 @@ knowing that there is a real risk (in either case) that one or more persons woul
 
 272\. Whoever adulterates any article of food or drink, so as to make such article noxious as food or drink, intending to sell such article as food or drink, or knowing it to be likely that the same will be sold as food or drink, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 272]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Sale of noxious food or drink
 
 273\. Whoever sells, or offers or exposes for sale, as food or drink, any article which has been rendered or has become noxious, or is in a state unfit for food or drink, knowing or having reason to believe that the same is noxious as food or drink, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 273]
 
@@ -4352,29 +4480,29 @@ knowing that there is a real risk (in either case) that one or more persons woul
 
 274\. Whoever adulterates any drug or medical preparation in such a manner as to lessen the efficacy, or change the operation, of such drug or medical preparation, or to make it noxious, intending that it shall be sold or used for, or knowing it to be likely that it will be sold or used for any medicinal purpose, as if it had not undergone such adulteration, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 274]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Sale of adulterated drugs
 
 275\. Whoever, knowing any drug or medical preparation to have been adulterated in such a manner as to lessen its efficacy, to change its operation, or to render it noxious, sells the same, or offers or exposes it for sale, or issues it from any dispensary for medicinal purposes as unadulterated, or causes it to be used for medicinal purposes by any person not knowing of the adulteration, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 275]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Sale of any drug as a different drug or preparation
 
 276\. Whoever knowingly sells, or offers or exposes for sale, or issues from a dispensary for medicinal purposes, any drug or medical preparation, as a different drug or medical preparation, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [Indian PC 1860, s. 276]
 
@@ -4382,21 +4510,21 @@ knowing that there is a real risk (in either case) that one or more persons woul
 
 277\. Whoever voluntarily corrupts or fouls the water of any public spring or reservoir, so as to render it less fit for the purpose for which it is ordinarily used, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 277]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Making atmosphere noxious to health
 
 278\. Whoever voluntarily vitiates the atmosphere in any place so as to make it noxious to the health of persons in general dwelling or carrying on business in the neighbourhood or passing along a public way, shall be punished with imprisonment for a term which may extend to 3 years, or with fine, or with both.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
 
 [Indian PC 1860, s. 278]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Rash driving or riding on a public way
 
@@ -5052,9 +5180,9 @@ Illustrations
 
 (d)A, intending to murderZby poison, purchases poison and mixes the same with food which remains inA’s keeping;Ahas not yet committed the offence defined in this section.Aplaces the food onZ’s table or delivers it toZ’s servants to place it onZ’s table. A has committed the offence defined in this section.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Other offences by convicts
 
@@ -5156,9 +5284,9 @@ Explanation.— A woman who causes herself to miscarry is within the meaning of 
 
 313\. Whoever commits the offence defined in section 312, without the consent of the woman, whether the woman’s pregnancy is of more than 16 weeks’ duration or not as mentioned in that section, shall be punished with imprisonment for life, or with imprisonment for a term which may extend to 10 years, and shall, if he is not sentenced to imprisonment for life, also be liable to fine.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [Indian PC 1860, s. 313]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Death caused by act done with intent to cause miscarriage
 
@@ -5372,7 +5500,7 @@ Illustrations
 
 ### Voluntarily causing grievous hurt to deter public servant from his duty
 
-333\. Whoever voluntarily causes grievous hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant, or in consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
+333\. Whoever voluntarily causes grievous hurt to any person being a public servant in the discharge of his duty as such public servant, or with intent to prevent or deter that person or any other public servant from discharging his duty as such public servant, or i consequence of anything done or attempted to be done by that person in the lawful discharge of his duty as such public servant, shall be punished with imprisonment for a term which may extend to 15 years, and shall also be liable to fine or to caning.
 
 [62/73; 51/2007]
 
@@ -5740,9 +5868,9 @@ Explanation.—The words “lawful guardian” in this section include any perso
 
 Exception.—This section does not extend to the act of any person who in good faith believes himself to be the father of an illegitimate child or who in good faith believes himself to be entitled to the lawful custody of such child, unless such act is committed for an immoral or unlawful purpose.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [Indian PC 1860, s. 361]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 ### Abduction
 
@@ -5974,9 +6102,9 @@ shall be punished with imprisonment for a term of not less than 8 years and not 
 
 (6) No man shall be punished under subsection (4)(b) if he proves that by reason of mistake of fact in good faith, he believed that the act of penetration against a person below 14 years of age was done with consent.
 
-[Act 15 of 2019 wef 01/01/2020]
-
 [51/2007]
+
+[Act 15 of 2019 wef 01/01/2020]
 
 [UK SOA 2003, ss. 2, 4; SPC 1985 Ed., s. 376(2) (repealed)]
 
@@ -8580,7 +8708,7 @@ Chapter\*XX
 
 \*\*
 
-493\. [Repealed by Act 15 of 2019 wef 01/01/2020]
+493\. [Repealed by Act 15 of 209 wef 01/01/2020]
 
 494\. [Repealed by Act 15 of 2019 wef 01/01/2020]
 
@@ -8590,7 +8718,9 @@ Chapter\*XX
 
 Enticing or taking away or detaining with a criminal intent a married woman
 
-498\. [Repealed by Act 51 of 2007]
+\*498\. [Repealed by Act 51 of 2007]
+
+\*There is no section 497.
 
 ### Chapter XXI
 
@@ -9291,3 +9421,9 @@ This Ordinance was deemed to have come into operation on the same date as the St
 |||(Bill No. 6/2019)|
 ||Date of Second and Third Readings|6 May 2019|
 ||Date of commencement|1 January 2020|
+|||10 February 2020|
+|57.|**Act 2 of 2020—Statutes (Miscellaneous Amendments) Act 2020**|
+||Date of First Reading|4 November 2019|
+|||(Bill No. 36/2019)|
+||Date of Second and Third Readings|6 January 2020|
+||Date of commencement|10 February 2020|
