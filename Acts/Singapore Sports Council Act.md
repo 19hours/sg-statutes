@@ -18,6 +18,8 @@
 
 - [4 Membership of Council](#Membership-of-Council)
 
+- [4A Tenure as Chairman or Deputy Chairman](#Tenure-as-Chairman-or-Deputy-Chairman)
+
 - [5 Salaries, fees and allowances payable to members](#Salaries-fees-and-allowances-payable-to-members)
 
 - [6 Meetings of Council](#Meetings-of-Council)
@@ -102,13 +104,19 @@ PRELIMINARY
 
 2\. In this Act, unless the context otherwise requires —
 
-“Chairman” means the Chairman of the Council appointed under section 4;
+“Chairman” means a member of the Council who is appointed under section 4A(1)(a) as the Chairman of the Council;
+
+[Act 2 of 2020 wef 10/02/2020]
 
 “Chief Executive Officer” means the chief executive of the Council, and includes any individual acting in that capacity;
 
 [Act 5 of 2018 wef 01/04/2018]
 
 “Council” means the Singapore Sports Council established under section 3;
+
+“Deputy Chairman” means a member of the Council who is appointed under section 4A(1)(b) as the Deputy Chairman of the Council;
+
+[Act 2 of 2020 wef 10/02/2020]
 
 “member” means a member of the Council and includes the Chairman and the Deputy Chairman;
 
@@ -126,15 +134,13 @@ ESTABLISHMENT AND CONSTITUTION OF COUNCIL
 
 ### Membership of Council
 
-4\.—(1) The Council shall consist of —
+4\.—(1) The Council consists of not less than 7 but not more than 15 members, each of whom is to be appointed by the Minister.
 
-(a) a Chairman;
+[Act 2 of 2020 wef 10/02/2020]
 
-(b) a Deputy Chairman; and
+(1A) One of the members (who is not the Chairman) may be the Chief Executive Officer.
 
-(c) not less than 5 but not more than 12 other members,
-
-all of whom shall be appointed by the Minister.
+[Act 2 of 2020 wef 10/02/2020]
 
 (2) Every member shall, subject to this section, hold office for a period of 3 years, or for such shorter period as the Minister may determine, and shall be eligible for reappointment.
 
@@ -147,6 +153,26 @@ all of whom shall be appointed by the Minister.
 (4) If any member dies, resigns, or has his appointment revoked under subsection (3), another person may be appointed by the Minister for the unexpired period of the term of office of the member in whose place he is appointed.
 
 (5) No vacancy in the membership of the Council shall affect its powers.
+
+### Tenure as Chairman or Deputy Chairman
+
+4A\.—(1) The Minister may appoint —
+
+(a) a member (other than the Chief Executive Officer) to be the Chairman of the Council for a period the Minister determines, being not longer than 3 years; and
+
+(b) a member (other than the Chairman or Chief Executive Officer) to be the Deputy Chairman of the Council for a period the Minister determines, being not longer than 3 years.
+
+(2) The Chairman or Deputy Chairman may be re‑appointed in accordance with this section.
+
+(3) The Chairman or Deputy Chairman holds office until whichever of the following first happens:
+
+(a) his term of office as Chairman or Deputy Chairman (as the case may be) expires;
+
+(b) he ceases to hold office as a member;
+
+(c) the Minister revokes the appointment as Chairman or Deputy Chairman, as the case may be.
+
+[Act 2 of 2020 wef 10/02/2020]
 
 ### Salaries, fees and allowances payable to members
 
@@ -523,6 +549,10 @@ This Legislative History is provided for the convenience of users of the Singapo
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|10.|**Act 2 of 2020—Statutes (Miscellaneous Amendments) Act 2020**|
+||Date of First Reading|4 November 2019 (Bill No. 36/2019 published on 4 November 2019)|
+||Date of Second and Third Readings|6 January 2020|
+||Date of commencement|10 February 2020|
 ## COMPARATIVE TABLE
 
 Singapore Sports Council Act
