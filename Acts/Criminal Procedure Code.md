@@ -4815,7 +4815,9 @@ not later than 2 weeks after the date on which the further criminal case disclos
 
 Illustration 1
 
-Ais charged with robbery. The summary should state the nature of the defence, the facts on which it is based (for example, that the victim gave the items toAvoluntarily) and any issue of law whichAintends to rely on (for example, thatA’s act did not amount to robbery as the elements of that offence were not made out, or that a general exception in Chapter IV of the Penal Code (Cap. 224) applied in this case).
+Ais charged with robbery. The summary should state the nature of the defence, the facts on which it is based (for example, that the victim gave the items toAvoluntarily) and any issue of law whichAintends to rely on (for example, thatA’s act did not amount to robbery as the elements of that offence were not made out, or that a general exception in Chapter IV or right of private defence in Chapter IVA of the Penal Code (Cap. 224) applied in this case).
+
+[Act 15 of 2019 wef 10/02/2020]
 
 Illustration 2
 
@@ -5137,7 +5139,9 @@ Transmission proceedings
 
 Illustration 1
 
-Ais charged with robbery. The summary should state the nature of the defence, the facts on which it is based (for example, that the victim gave the items toAvoluntarily) and any issue of law whichAintends to rely on (for example, thatA’s act did not amount to robbery as the elements of that offence were not made out, or that a general exception in Chapter IV of the Penal Code (Cap. 224) applied in this case).
+Ais charged with robbery. The summary should state the nature of the defence, the facts on which it is based (for example, that the victim gave the items toAvoluntarily) and any issue of law whichAintends to rely on (for example, thatA’s act did not amount to robbery as the elements of that offence were not made out, or that a general exception in Chapter IV or right of private defence in Chapter IVA of the Penal Code (Cap. 224) applied in this case).
+
+[Act 15 of 2019 wef 10/02/2020]
 
 Illustration 2
 
@@ -16117,7 +16121,7 @@ Imprisonment for 10 years, or fine, or both
 
 Ditto
 
-Currencyand bank notes
+Currency and bank notes
 
 489A
 
@@ -20023,10 +20027,11 @@ The Criminal Procedure Code 2010 repealed and re-enacted with amendments the Cri
 ||Date of First Reading|11 February 2019 (Bill No. 7/2019 published on 11 February 2019)|
 ||Date of Second and Third Readings|8 March 2019|
 ||Date of commencement|21 June 2019|
-|31.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
+|31.|**G. N. No. S 851/2019—Criminal Procedure Code (Amendment of First Schedule) Order 2019**|
+||Date of commencement|2 January 2020|
+|32.|**Act 15 of 2019—Criminal Law Reform Act 2019**|
 ||Date of First Reading|11 February 2019|
 |||(Bill No. 6/2019)|
 ||Date of Second and Third Readings|6 May 2019|
-||Date of commencement|1 January 2020|
-|32.|**G. N. No. S 851/2019—Criminal Procedure Code (Amendment of First Schedule) Order 2019**|
-||Date of commencement|2 January 2020|
+||Dates of commencement|1 January 2020|
+|||10 February 2020|
