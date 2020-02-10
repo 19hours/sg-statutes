@@ -2803,7 +2803,9 @@ shall be jointly and severally liable for the payment of all the debts of the ma
 
 (b) as a treasurer if —
 
-(i) the person is already the chairperson or secretary; and
+(i) the person is already the chairperson or secretary; or
+
+[Act 2 of 2020 wef 10/02/2020]
 
 (ii) the re‑appointment would result in the person holding office as a treasurer for 3 consecutive terms; or
 
@@ -6331,6 +6333,10 @@ This Legislative History is provided for the convenience of users of the Buildin
 ||Date of First Reading|17 May 2018 (Bill No. 23/2018 published on 17 May 2018)|
 ||Date of Second and Third Readings|9 July 2018|
 ||Date of commencement|1 November 2019|
+|16.|**Act 2 of 2020—Statutes (Miscellaneous Amendments) Act 2020**|
+||Date of First Reading|4 November 2019 (Bill No. 36/2019 published on 4 November 2019)|
+||Date of Second and Third Readings|6 January 2020|
+||Date of commencement|10 February 2020|
 ## COMPARATIVE TABLE
 
 Building Maintenance and Strata Management Act
