@@ -130,7 +130,9 @@ PRELIMINARY
 
 [Act 5 of 2018 wef 01/04/2018]
 
-“Corporation” means the Singapore Corporation of Rehabilitative Enterprises established under section 3;
+“Corporation” means the Singapore Corporation of Rehabilitative Enterprises established under section 3(1);
+
+[Act 2 of 2020 wef 10/02/2020]
 
 “Deputy Chairman” means the Deputy Chairman of the Corporation appointed under section 4(1);
 
@@ -150,7 +152,13 @@ ESTABLISHMENT, INCORPORATION AND CONSTITUTION OF CORPORATION
 
 ### Establishment of Corporation
 
-3\. There is hereby established in accordance with the provisions of this Act a body to be called the Singapore Corporation of Rehabilitative Enterprises which shall be a body corporate with perpetual succession and with power to sue and be sued in its corporate name, and to acquire and dispose of property, movable and immovable, and to perform such other acts as bodies corporate may by law perform, and to exercise such other powers as are conferred under this Act.
+3\.—(1) There is hereby established in accordance with the provisions of this Act a body to be called the Singapore Corporation of Rehabilitative Enterprises which shall be a body corporate with perpetual succession and with power to sue and be sued in its corporate name, and to acquire and dispose of property, movable and immovable, and to perform such other acts as bodies corporate may by law perform, and to exercise such other powers as are conferred under this Act.
+
+[Act 2 of 2020 wef 10/02/2020]
+
+(2) The Corporation may perform any of its functions or carry out any of its duties under one or more business names as the Minister may, by notification in theGazette, specify.
+
+[Act 2 of 2020 wef 10/02/2020]
 
 ### Constitution of Corporation
 
@@ -394,9 +402,11 @@ FINANCIAL PROVISIONS
 
 ### Corporation’s financial year
 
-24\. The financial year of the Corporation shall begin on 1st January and end on 31st December of each year except that the financial year of the Corporation for 1987 shall begin on 1st April and shall end on 31st December 1987.
+24\. The financial year of the Corporation shall begin on 1 April each year and end on 31 March of the following year.
 
 [Act 23/87 wef 01/11/1987]
+
+[Act 2 of 2020 wef 10/02/2020]
 
 ### Expenses
 
@@ -493,17 +503,27 @@ This Legislative History is provided for the convenience of users of the Singapo
 |||(Bill No. 7/2002 published on 4 May 2002)|
 ||Date of Second and Third Readings|24 May 2002|
 ||Dates of commencement|15 July 2002|
-|5.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
+|5.|**Act 45 of 2004—Trustees (Amendment) Act 2004**|
+||(Consequential amendments made to Act by)||
+||Date of First Reading|21 September 2004|
+|||(Bill No. 43/2004 published on 22 September 2004)|
+||Date of Second and Third Readings|19 October 2004|
+||Date of commencement|15 December 2004|
+|6.|**Act 25 of 2009—Quorums of Statutory Boards (Miscellaneous Amendments) Act 2009**|
 ||Date of First Reading|14 September 2009|
 |||(Bill No. 19/2009 published on 14 September 2009)|
 ||Date of Second and Third Readings|19 October 2009|
 ||Date of commencement|15 January 2010|
-|6.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
+|7.|**Act 1 of 2014—Prisons (Amendment) Act 2014**|
 ||(Consequential amendments made to Act by)||
 ||Date of First Reading|11 November 2013 (Bill No. 22/2013 published on 11 November 2013)|
 ||Date of Second and Third Readings|21 January 2014|
 ||Date of commencement|1 July 2014|
-|7.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
+|8.|**Act 5 of 2018—Public Sector (Governance) Act 2018**|
 ||Date of First Reading|6 November 2017 (Bill No. 45/2017 published on 6 November 2017)|
 ||Date of Second and Third Readings|8 January 2018|
 ||Date of commencement|1 April 2018|
+|9.|**Act 2 of 2020—Statutes (Miscellaneous Amendments) Act 2020**|
+||Date of First Reading|4 November 2019 (Bill No. 36/2019 published on 4 November 2019)|
+||Date of Second and Third Readings|6 January 2020|
+||Date of commencement|10 February 2020|
