@@ -2035,6 +2035,8 @@ Preparations and solutions for photographic use.
 
 Acetic Anhydride
 
+Acetochlor
+
 Acetyl bromide
 
 Alachor
@@ -2050,6 +2052,8 @@ Preparations containing not more than 0.96%, weight in weight, of potassium fluo
 Substances containing not more than 3%, weight in weight, of sodium fluoride or sodium silicofluoride as a preservative;
 
 Substances containing sodium fluoride intended for the treatment of human ailments.
+
+Amitraz
 
 Ammonia
 
@@ -2120,6 +2124,12 @@ Sodium thioarsenate
 Asbestos in the form of crocidolite, actinolite, anthophyllite, amosite, tremolite, chrysotile and amphiboles and products containing these forms of asbestos
 
 Asbestos in the form of chrysotile in any vehicle brake or clutch lining installed in any vehicle registered before 1st April 1995.
+
+Atrazine
+
+Benzidine; its salts
+
+Bis(chloromethyl)ether
 
 Boric acid; Sodium borate
 
@@ -2351,6 +2361,8 @@ Dinoseb and its salts and esters, which includes but is not limited to —
 
 Binapacryl
 
+Dinoterb
+
 Diquat; its salts
 
 Drazoxolon; its salts
@@ -2406,6 +2418,8 @@ Hexavalent chromium in controlled EEE
 Controlled EEE containing hexavalent chromium not exceeding 0.1% maximum concentration value by weight of homogeneous material in controlled EEE;
 
 Hexavalent chromium as anticorrosion agent, not exceeding 0.75% by weight, in the cooling solution of carbon steel cooling system in absorption refrigerator.
+
+Hexazinone
 
 Hydrazine anhydrous; Hydrazine aqueous solutions
 
@@ -2945,11 +2959,15 @@ Paraquat; its salts
 
 Preparation in pellet form containing not more than 5%, weight in weight, of salts of paraquat ion.
 
+Pentadecafluorooctanoic acid (PFOA); its salts and related compounds
+
 Perchloromethyl mercaptan
 
 Substances containing less than 1%, weight in weight, of perchloromethyl mercaptan.
 
-Perfluorooctane sulfonate (PFOS)
+Perfluorohexane sulfonic acid (PFHxS); its salts and related compounds
+
+Perfluorooctane sulfonic acid (PFOS)
 
 Phenols, the following:
 
@@ -3065,7 +3083,9 @@ Pyrethroid compounds used as pesticides, the following:
 
 Fenvalerate
 
-Formulated products containing Fenvalerate approved for household use and belonging to Table 5 of the WHO Recommended Classification of Pesticides by Hazard.
+Lambda‑cyhalothrin
+
+Formulated products containing Fenvalerate approved for household use and belonging to Table 5 of the WHO Recommended Classification of Pesticides by Hazard
 
 Short-chain chlorinated paraffins (chain lengths at least C
 
@@ -3124,6 +3144,8 @@ Titanium tetrachloride
 Tris (2, 3-dibromo-l-propyl) phosphate
 
 Tungsten hexafluoride
+
+[S 491/2019 wef 12/02/2020]
 
 [S 784/2017 wef 01/01/2020]
 
@@ -3253,7 +3275,7 @@ Part II
 
 General Exemptions
 
-Adhesives other than those containing any of the following substances as defined in Part I of this Schedule: polychlorinated naphthalenes or short-chain chlorinated paraffins;
+Adhesives other than those containing any of the following substances as defined in Part I of this Schedule: Pentadecafluorooctanoic acid (PFOA) and its salts and related compounds, Perfluorohexane sulfonic acid (PFHxS) and its salts and related compounds, polychlorinated naphthalenes or short-chain chlorinated paraffins;
 
 Anti-fouling compositions other than those containing tributyl tin compounds as defined in Part I of this Schedule;
 
@@ -3269,11 +3291,11 @@ Enamels;
 
 Explosives;
 
-Fillers;
+Fillers other than those containing any of the following substances as defined in Part I of this Schedule: Pentadecafluorooctanoic acid (PFOA) and its salts and related compounds or Perfluorohexane sulfonic acid (PFHxS) and its salts and related compounds;
 
 Fireworks;
 
-Glazes;
+Glazes other than those containing any of the following substances as defined in Part I of this Schedule: Pentadecafluorooctanoic acid (PFOA) and its salts and related compounds or Perfluorohexane sulfonic acid (PFHxS) and its salts and related compounds;
 
 Glue;
 
@@ -3289,7 +3311,7 @@ Matches;
 
 Motor fuels other than diesel oil and petrol;
 
-Paints other than those containing any of the following substances as defined in Part I of this Schedule: asbestos, lead compounds, mercury compounds, polychlorinated naphthalenes, or short-chain chlorinated paraffins;
+Paints other than those containing any of the following substances as defined in Part I of this Schedule: asbestos, lead compounds, mercury compounds, Pentadecafluorooctanoic acid (PFOA) and its salts and related compounds, Perfluorohexane sulfonic acid (PFHxS) and its salts and related compounds, polychlorinated naphthalenes, or short-chain chlorinated paraffins;
 
 Pharmaceutical aerosols;
 
@@ -3303,9 +3325,11 @@ Propellants other than those containing ozone depleting substances;
 
 Rubber;
 
-Varnishes;
+Varnishes other than those containing any of the following substances as defined in Part I of this Schedule: Pentadecafluorooctanoic acid (PFOA) and its salts and related compounds or Perfluorohexane sulfonic acid (PFHxS) and its salts and related compounds;
 
 Vascular plants and their seeds.
+
+[S 491/2019 wef 12/02/2020]
 
 [S 783/2017 wef 30/06/2018]
 
@@ -3555,6 +3579,8 @@ This Legislative History is provided for the convenience of users of the Environ
 ||Date of commencement|1 January 2019|
 |30.|**G.N. No. S 784/2017—Environmental Protection and Management Act (Amendment of Second Schedule) (No. 4) Order 2017**|
 ||Date of commencement|1 January 2020|
+|31.|**G.N. No. S 491/2019—Environmental Protection and Management Act (Amendment of Second Schedule) Order 2019**|
+||Date of commencement|12 February 2020|
 ## COMPARATIVE TABLE
 
 Environmental Protection and Management Act
