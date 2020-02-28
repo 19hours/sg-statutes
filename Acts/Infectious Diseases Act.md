@@ -2556,6 +2556,12 @@ Chikungunya Fever.
 
 Cholera.
 
+5A. 
+
+Coronavirus Disease 2019 (COVID-19).
+
+[S 140/2020 wef 28/02/2020]
+
 6. 
 
 Dengue Fever.
@@ -2736,11 +2742,7 @@ Zika Virus Infection.
 
 [S 37/2016 wef 26/01/2016]
 
-35. 
-
-2019 Novel Coronavirus (2019-nCoV).
-
-[S 68/2020 wef 29/01/2020]
+35. [Deleted by S 140/2020 wef 28/02/2020]
 
 SECOND SCHEDULE
 
@@ -2750,7 +2752,15 @@ Dangerous infectious diseases
 
 1. 
 
+Coronavirus Disease 2019 (COVID-19).
+
+[S 140/2020 wef 28/02/2020]
+
+1A. 
+
 Ebola.
+
+[S 140/2020 wef 28/02/2020]
 
 2. 
 
@@ -2770,11 +2780,7 @@ Yellow fever.
 
 [Act 5 of 2019 wef 25/03/2019]
 
-6. 
-
-2019 Novel Coronavirus (2019-nCoV).
-
-[S 68/2020 wef 29/01/2020]
+6. [Deleted by S 140/2020 wef 28/02/2020]
 
 THIRD SCHEDULE
 
@@ -2963,6 +2969,8 @@ This Legislative History is provided for the convenience of users of the Infecti
 ||Date of commencement|1 April 2019|
 |44.|**G.N. No. S 68/2020—Infectious Diseases Act (Amendment of First and Second Schedules) Notification 2020**|
 ||Date of commencement|29 January 2020|
+|45.|**G.N. No. S 140/2020—Infectious Diseases Act (Amendment of First and Second Schedules) (No. 2) Notification 2020**|
+||Date of commencement|28 February 2020|
 ## COMPARATIVE TABLE
 
 Infectious Diseases Act
