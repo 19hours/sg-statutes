@@ -2285,7 +2285,7 @@ Any biological agent that is a constructed or reconstructed replication-competen
 
 Viruses
 
-1. [Deleted by S 396/2015 wef 01/07/2015 wef 01/07/2015]
+1. [Deleted by S 396/2015 wef 01/07/2015]
 
 2. 
 
@@ -2313,9 +2313,9 @@ Coronaviridae
 
 [S 396/2015 wef 01/07/2015]
 
-(c) 2019 Novel Coronavirus (2019-nCoV)
+(c) Severe Acute Respiratory Syndrome Coronavirus 2 (SARS-CoV-2), also known as Coronavirus Disease 2019 (COVID-19) virus
 
-[S 71/2020 wef 30/01/2020]
+[S 139/2020 wef 28/02/2020]
 
 4. 
 
@@ -2566,3 +2566,5 @@ This Legislative History is provided for the convenience of users of the Biologi
 ||Date of commencement|18 December 2018|
 |12.|**G.N. No. S 71/2020—Biological Agents and Toxins Act (Amendment of First Schedule) Order 2020**|
 ||Date of commencement|30 January 2020|
+|13.|**G.N. No. S 139/2020—Biological Agents and Toxins Act (Amendment of First Schedule) (No. 2) Order 2020**|
+||Date of commencement|28 February 2020|
