@@ -6402,9 +6402,21 @@ Meaning of control
 
 (d) any person who is entitled to secure that income or assets (whether present or future) of the company will be applied, directly or indirectly, for his benefit.
 
-5.—(1) Where goods or services are supplied for a consideration in money and on terms allowing a discount for prompt payment, the consideration shall be taken for the purposes of section 17 as reduced by the discount, whether or not payment is made in accordance with those terms.
+5.—(1) Sub-paragraph (2) applies to a supply of goods or services where all the following conditions are satisfied:
 
-(2) This paragraph shall not apply where the terms include any provision for payment by instalments.
+(a) the supply takes place on or after 1 April 2020 for a consideration in money;
+
+(b) the terms of the supply —
+
+(i) do not include any provision for payment of the consideration by instalments; and
+
+(ii) allow a discount for prompt payment of the consideration;
+
+(c) payment of the consideration is made in accordance with the terms of the supply, such that the discount is applied in relation to the payment.
+
+(2) For the purposes of section 17, the consideration is the amount of the consideration mentioned in sub-paragraph (1)(a) reduced by the amount of the discount applied under sub-paragraph (1)(c).
+
+[S 874/2019 wef 01/04/2020]
 
 6. Paragraph 4 applies with the following modifications for the purposes of determining whether a person has control over a company that is an umbrella VCC making or receiving the supply in question for the purpose of a sub-fund:
 
@@ -8027,6 +8039,8 @@ This Legislative History is provided for the convenience of users of the Goods a
 |||(Bill No. 23/2019)|
 ||Date of Second and Third Readings|3 September 2019|
 ||Date of commencement|15 January 2020|
+|67.|**G.N. No. S 874/2019—Goods and Services Tax Act (Amendment of Third Schedule) Order 2019**|
+||Date of commencement|1 April 2020|
 ## COMPARATIVE TABLE
 
 Goods and Services Tax Act
