@@ -62,7 +62,7 @@
 
 - [22 Grants](#Grants)
 
-- [23 Power to borrow](#Power-to-borrow)
+- [23 Borrowing power](#Borrowing-power)
 
 - [24 Issue of shares, etc.](#Issue-of-shares-etc)
 
@@ -486,15 +486,27 @@ FINANCIAL PROVISIONS
 
 22\. For the purpose of enabling the Agency to carry out its functions under this Act, the Minister may, from time to time, make grants to the Agency of such sums of money, as the Minister may determine, out of moneys to be provided by Parliament.
 
-### Power to borrow
+### Borrowing power
 
-23\. For the discharge of its functions or duties under this Act or any other written law, the Agency may, from time to time, raise loans from the Government or, with the approval of the Minister for Finance, raise loans from banks or other financial institutions (whether in Singapore or elsewhere) by —
+23\.—(1) The Agency cannot raise loans for the performance of its functions under this Act or any other Act administered by the Agency except in accordance with this section.
 
-(a) mortgage, overdraft or otherwise;
+(2) Subject to subsection (3), the Agency may raise loans by —
+
+(a) mortgage, overdraft or other means, with or without security;
 
 (b) charge, whether legal or equitable, on any property vested in the Agency or on any other revenue receivable by the Agency under this Act or any other written law; or
 
-(c) the creation and issue of debentures or bonds.
+(c) the creation and issue of debentures, bonds or any other instrument as the Minister for Finance may approve.
+
+(3) The Agency may raise loans —
+
+(a) from the Government; or
+
+(b) with the approval of the Minister for Finance, from another source, whether within or outside Singapore.
+
+(4) For the purposes of this section, the power to raise loans includes the power to make any financial agreement under which credit facilities are granted to the Agency for the purchase of goods, materials or things.
+
+[Act 7 of 2020 wef 01/04/2020]
 
 ### Issue of shares, etc.
 
@@ -886,6 +898,10 @@ This Legislative History is provided for the convenience of users of the Nationa
 ||Date of First Reading|15 January 2019 (Bill No. 5/2019 published on 15 January 2019)|
 ||Date of Second and Third Readings|12 February 2019|
 ||Date of commencement|1 April 2019|
+|11.|**Act 7 of 2020—National Environment Agency (Amendment) Act 2020**|
+||Date of First Reading|6 January 2020 (Bill No. 7/2020 published on 6 January 2020)|
+||Date of Second and Third Readings|3 February 2020|
+||Date of commencement|1 April 2020|
 ## COMPARATIVE TABLE
 
 National Environment Agency Act
