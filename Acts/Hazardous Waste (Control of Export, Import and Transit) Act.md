@@ -38,7 +38,7 @@
 
 [**Part II ADMINISTRATION**](#Part-II)
 
-- [15 Appointment of Director, Deputy Director and Assistant Directors of Hazardous Waste](#Appointment-of-Director-Deputy-Director-and-Assistant-Directors-of-Hazardous-Waste)
+- [15 Administration of Act](#Administration-of-Act)
 
 - [16 Appointment of authorised officers](#Appointment-of-authorised-officers)
 
@@ -74,19 +74,19 @@
 
 - [29 Power to obtain information](#Power-to-obtain-information)
 
-- [30 Power to control movement of vessels and aircraft, etc.](#Power-to-control-movement-of-vessels-and-aircraft-etc)
+- [30 Power to control movement of vessels, aircraft and vehicles, etc.](#Power-to-control-movement-of-vessels-aircraft-and-vehicles-etc)
 
 - [31 Powers of entry and search](#Powers-of-entry-and-search)
 
-- [32 General powers of Director on entering or boarding searchable places](#General-powers-of-Director-on-entering-or-boarding-searchable-places)
+- [32 General powers of Director-General on entering or boarding searchable places](#General-powers-of-Director-General-on-entering-or-boarding-searchable-places)
 
 - [33 Production of Basel permits or special permits and orders](#Production-of-Basel-permits-or-special-permits-and-orders)
 
 - [34 Production of transit permits](#Production-of-transit-permits)
 
-- [35 Assistance to Director](#Assistance-to-Director)
+- [35 Assistance to Director-General](#Assistance-to-Director-General)
 
-- [36 Obstruction of Director, etc.](#Obstruction-of-Director-etc)
+- [36 Obstruction of Director-General, etc.](#Obstruction-of-Director-General-etc)
 
 - [37 False statements](#False-statements)
 
@@ -175,7 +175,11 @@ PRELIMINARY
 
 “deal with”, in relation to hazardous or other waste, includes dispose of;
 
-“Director” means the Director of Hazardous Waste appointed under section 15 and includes the Deputy Director and Assistant Directors of Hazardous Waste;
+[Deleted by Act of 6 of 2020 wef 01/04/2020]
+
+“Director-General” means the Director-General of Environmental Protection appointed under section 3(1) of the Environmental Protection and Management Act (Cap. 94A);
+
+[Act 6 of 2020 wef 01/04/2020]
 
 “disposal” means an operation specified in Annex IV to the Basel Convention;
 
@@ -323,11 +327,9 @@ a person or an organisation that officially represents the territory is taken to
 
 (ii) waste that belongs to any category contained in Annex I to the Basel Convention, unless it does not possess any of the characteristics contained in Annex III to that Convention;
 
-(b) “other waste” means —
+(b) “other waste” means waste that belongs to any category contained in Annex II to the Basel Convention,
 
-(i) household waste; or
-
-(ii) residues arising from the incineration of household waste,
+[Act 6 of 2020 wef 01/04/2020]
 
 but hazardous and other wastes do not include wastes which derive from the normal operations of a ship and radioactive wastes.
 
@@ -338,6 +340,16 @@ but hazardous and other wastes do not include wastes which derive from the norma
 (a) to the export or proposed export of a substance or object to a particular foreign country; or
 
 (b) to, or to the carrying out of, a transit proposal that involves the taking out of Singapore of a substance or object to a particular foreign country.
+
+(1A) If —
+
+(a) the foreign country is a party to the Basel Convention; and
+
+(b) the prescribed website of the Secretariat of the Basel Convention states that the particular substance or object is, in particular circumstances, classified as hazardous or other waste under a law of that foreign country that gives effect to the Basel Convention,
+
+then that substance or object is, in those circumstances, hazardous or other waste for those purposes.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) If —
 
@@ -437,7 +449,9 @@ the substance or object is taken not to be hazardous or other waste for those pu
 
 11\.—(1) For the purposes of this Act, if —
 
-(a) the Director specifies the day on or before which a permit condition relating to a Basel or special permit is to be complied with; and
+(a) the Director-General specifies the day on or before which a permit condition relating to a Basel or special permit is to be complied with; and
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (b) the condition is not complied with on or before that day,
 
@@ -467,25 +481,25 @@ the holder of the permit is taken to have breached that condition at the end of 
 
 ADMINISTRATION
 
-### Appointment of Director, Deputy Director and Assistant Directors of Hazardous Waste
+### Administration of Act
 
-15\.—(1) The Minister shall appoint a Director of Hazardous Waste who shall be responsible for the performance of the duties and functions assigned to the Director under this Act.
+15\.—(1) The Director-General is, subject to any general or special directions of the Minister, responsible for the administration of this Act.
 
-(2) The Minister may appoint a Deputy Director and such number of Assistant Directors as he may think necessary to assist the Director in the proper discharge of his duties and functions under this Act.
+(2) The Director-General may, with the approval of the Minister, delegate the exercise of all or any of the powers conferred or duties imposed on the Director-General by this Act (except the power of delegation conferred by this subsection) to any authorised officer, subject to such conditions or limitations as the Director-General may specify.
 
-(3) The Director shall have the superintendence of all matters relating to this Act, subject to the direction and control of the Minister.
-
-(4) The Deputy Director and Assistant Directors shall be subject to the general direction and supervision of the Director and, subject thereto, shall have and exercise all the powers conferred on the Director by this Act.
+[Act 6 of 2020 wef 01/04/2020]
 
 ### Appointment of authorised officers
 
-16\.—(1) The Director may, by writing —
+16\.—(1) The Director-General may, by writing —
 
 (a) appoint an eligible person to be an authorised officer; or
 
 (b) appoint a class of eligible persons to be authorised officers,
 
 for the purposes of this Act.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) A person who is an authorised officer shall cease to be an authorised officer if the person ceases to be an eligible person.
 
@@ -509,11 +523,17 @@ IMPORT, EXPORT AND TRANSIT PERMITS
 
 (a) specify the kinds of import proposals, export proposals and transit proposals that are within the scope of the Basel Convention;
 
-(b) provide for the application to the Director for import permits and the granting of import permits by the Director authorising the import of hazardous and other waste, where the permit relates to an import proposal within the scope of the Basel Convention;
+(b) provide for the application to the Director-General for import permits and the granting of import permits by the Director-General authorising the import of hazardous and other waste, where the permit relates to an import proposal within the scope of the Basel Convention;
 
-(c) provide for the application to the Director for export permits and the granting of export permits by the Director authorising the export of hazardous or other waste, where the permit relates to an export proposal within the scope of the Basel Convention; and
+[Act 6 of 2020 wef 01/04/2020]
 
-(d) provide for the application to the Director for transit permits and the granting of transit permits by the Director authorising the carrying out of transit proposals within the scope of the Basel Convention.
+(c) provide for the application to the Director-General for export permits and the granting of export permits by the Director-General authorising the export of hazardous or other waste, where the permit relates to an export proposal within the scope of the Basel Convention; and
+
+[Act 6 of 2020 wef 01/04/2020]
+
+(d) provide for the application to the Director-General for transit permits and the granting of transit permits by the Director-General authorising the carrying out of transit proposals within the scope of the Basel Convention.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) Such regulations may provide for —
 
@@ -547,11 +567,17 @@ as the case requires.
 
 (a) specify the kinds of import proposals, export proposals and transit proposals that are within the scope of that set of regulations;
 
-(b) provide for the application to the Director for import permits and the granting of import permits by the Director authorising the import of hazardous or other waste, where the permit relates to an import proposal within the scope of that set of regulations;
+(b) provide for the application to the Director-General for import permits and the granting of import permits by the Director-General authorising the import of hazardous or other waste, where the permit relates to an import proposal within the scope of that set of regulations;
 
-(c) provide for the application to the Director for export permits and the granting of export permits by the Director authorising the export of hazardous or other waste, where the permit relates to an export proposal within the scope of that set of regulations; and
+[Act 6 of 2020 wef 01/04/2020]
 
-(d) provide for the application to the Director for transit permits and the granting of transit permits by the Director authorising the carrying out of transit proposals within the scope of that set of regulations.
+(c) provide for the application to the Director-General for export permits and the granting of export permits by the Director-General authorising the export of hazardous or other waste, where the permit relates to an export proposal within the scope of that set of regulations; and
+
+[Act 6 of 2020 wef 01/04/2020]
+
+(d) provide for the application to the Director-General for transit permits and the granting of transit permits by the Director-General authorising the carrying out of transit proposals within the scope of that set of regulations.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) A set of Article 11 regulations may provide for —
 
@@ -569,7 +595,9 @@ as the case requires.
 
 (b) the proposal is within the scope of another set of Article 11 regulations,
 
-the Director shall not grant the permit unless he is satisfied that the corresponding requirements of the other set of regulations have been met in relation to the proposal.
+the Director-General shall not grant the permit unless he is satisfied that the corresponding requirements of the other set of regulations have been met in relation to the proposal.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) For the purposes of subsection (1), a corresponding requirement of a particular set of Article 11 regulations is a requirement under that set of regulations that —
 
@@ -585,7 +613,9 @@ the Director shall not grant the permit unless he is satisfied that the correspo
 
 (b) the proposal is within the scope of another set of Article 11 regulations,
 
-the Director shall not grant the permit unless he is satisfied that the corresponding requirements of the other set of regulations have been met in relation to the proposal.
+the Director-General shall not grant the permit unless he is satisfied that the corresponding requirements of the other set of regulations have been met in relation to the proposal.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (5) For the purposes of subsection (4), a corresponding requirement of a particular set of Article 11 regulations is —
 
@@ -605,7 +635,9 @@ the Director shall not grant the permit unless he is satisfied that the correspo
 
 (b) the proposal is within the scope of another set of Article 11 regulations,
 
-the Director shall not grant the permit unless he is satisfied that the corresponding requirements of the other set of regulations have been met in relation to the proposal.
+the Director-General shall not grant the permit unless he is satisfied that the corresponding requirements of the other set of regulations have been met in relation to the proposal.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (8) For the purposes of subsection (7), a corresponding requirement of a particular set of Article 11 regulations is —
 
@@ -627,7 +659,9 @@ the Director shall not grant the permit unless he is satisfied that the correspo
 
 (b) the proposal is within the scope of a particular set of Article 11 regulations,
 
-the Director shall not grant the permit unless he is satisfied that the corresponding requirements of that set of regulations have been met in relation to the proposal.
+the Director-General shall not grant the permit unless he is satisfied that the corresponding requirements of that set of regulations have been met in relation to the proposal.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) For the purposes of subsection (1), a corresponding requirement of a particular set of Article 11 regulations is a requirement under that set of regulations that —
 
@@ -641,7 +675,9 @@ the Director shall not grant the permit unless he is satisfied that the correspo
 
 (b) the proposal is within the scope of a particular set of Article 11 regulations,
 
-the Director shall not grant the permit unless he is satisfied that the corresponding requirements of that set of regulations have been met in relation to the proposal.
+the Director-General shall not grant the permit unless he is satisfied that the corresponding requirements of that set of regulations have been met in relation to the proposal.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (4) For the purposes of subsection (3), a corresponding requirement of a particular set of Article 11 regulations is —
 
@@ -659,7 +695,9 @@ the Director shall not grant the permit unless he is satisfied that the correspo
 
 (b) the proposal is within the scope of a particular set of Article 11 regulations,
 
-the Director shall not grant the permit unless he is satisfied that the corresponding requirements of that set of regulations have been met in relation to the proposal.
+the Director-General shall not grant the permit unless he is satisfied that the corresponding requirements of that set of regulations have been met in relation to the proposal.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (6) For the purposes of subsection (5), a corresponding requirement of a particular set of Article 11 regulations is —
 
@@ -673,17 +711,27 @@ the Director shall not grant the permit unless he is satisfied that the correspo
 
 ### Prohibition of bringing waste into Antarctica
 
-23\. The Director shall not grant a Basel permit or a special permit if he is satisfied that the grant could result in hazardous or other waste being brought into Antarctica.
+23\. The Director-General shall not grant a Basel permit or a special permit if he is satisfied that the grant could result in hazardous or other waste being brought into Antarctica.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 ### Applications and notices to be accompanied by fees
 
-24\.—(1) Any regulations made under this Act may prescribe fees to be paid in relation to applications and notices given to the Director under this Act.
+24\.—(1) Any regulations made under this Act may prescribe fees to be paid in relation to applications and notices given to the Director-General under this Act.
 
-(2) An application or a notice given to the Director under this Act shall be accompanied by the prescribed fee (if any).
+[Act 6 of 2020 wef 01/04/2020]
 
-(3) If an application or a notice given to the Director under this Act is not accompanied by the prescribed fee (if any), the application or notice is to be taken not to have been received by the Director until the fee has been paid.
+(2) An application or a notice given to the Director-General under this Act shall be accompanied by the prescribed fee (if any).
 
-(4) The Director may determine in writing that the prescribed fee payable in relation to a specified application or a specified notice is reduced by a specified amount.
+[Act 6 of 2020 wef 01/04/2020]
+
+(3) If an application or a notice given to the Director-General under this Act is not accompanied by the prescribed fee (if any), the application or notice is to be taken not to have been received by the Director-General until the fee has been paid.
+
+[Act 6 of 2020 wef 01/04/2020]
+
+(4) The Director-General may determine in writing that the prescribed fee payable in relation to a specified application or a specified notice is reduced by a specified amount.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (5) The determination has effect accordingly.
 
@@ -764,7 +812,9 @@ ENFORCEMENT
 
 ### Injunctions
 
-28\.—(1) Where a person has engaged, is engaging, or is proposing to engage, in any conduct that constituted, constitutes or would constitute an offence under this Act, the court may, on the application of the Director or any other person, grant an injunction restraining the person from engaging in the conduct and, if in the opinion of the court it is desirable to do so, requiring the person to do anything.
+28\.—(1) Where a person has engaged, is engaging, or is proposing to engage, in any conduct that constituted, constitutes or would constitute an offence under this Act, the court may, on the application of the Director-General or any other person, grant an injunction restraining the person from engaging in the conduct and, if in the opinion of the court it is desirable to do so, requiring the person to do anything.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) Where —
 
@@ -772,7 +822,9 @@ ENFORCEMENT
 
 (b) the refusal or failure was, is, or would be, an offence under this Act,
 
-the court may, on the application of the Director or any other person, grant an injunction requiring the person to do the thing.
+the court may, on the application of the Director-General or any other person, grant an injunction requiring the person to do the thing.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (3) If, in the opinion of the court, it is desirable to do so, the court may grant an interim injunction pending determination of an application under subsection (1).
 
@@ -794,71 +846,113 @@ the court may, on the application of the Director or any other person, grant an 
 
 (c) whether or not there is a significant risk of injury or damage to human beings or the environment if the person refuses or fails, or continues to refuse or fail, to do the thing.
 
-(7) Where the Director or any other person makes an application to the court for the grant of an injunction under this section, the court shall not require the Director or that other person, as a condition of the granting of an interim injunction, to give any undertakings as to damages.
+(7) Where the Director-General or any other person makes an application to the court for the grant of an injunction under this section, the court shall not require the Director-General or that other person, as a condition of the granting of an interim injunction, to give any undertakings as to damages.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (8) The powers conferred on the court under this section are in addition to, and not in derogation of, any other powers of the court.
 
 ### Power to obtain information
 
-29\.—(1) The Director may, by notice in writing served on any person, require that person to furnish him, within such time and in such form as is specified in the notice, any information specified in the notice which he may reasonably require for the purpose of exercising and performing his functions, duties or powers under this Act.
+29\.—(1) The Director-General may, by notice in writing served on any person, require that person to furnish him, within such time and in such form as is specified in the notice, any information specified in the notice which he may reasonably require for the purpose of exercising and performing his functions, duties or powers under this Act.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) A person who —
 
 (a) fails without reasonable excuse to comply with any of the requirements of a notice served on him under subsection (1); or
 
-(b) in purported compliance with such a notice, makes any statement to the Director which he knows to be incorrect in a material respect or recklessly makes any statement to the Director which is incorrect in a material respect or knowingly omits any material particular,
+(b) in purported compliance with such a notice, makes any statement to the Director-General which he knows to be incorrect in a material respect or recklessly makes any statement to the Director-General which is incorrect in a material respect or knowingly omits any material particular,
+
+[Act 6 of 2020 wef 01/04/2020]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Power to control movement of vessels and aircraft, etc.
+### Power to control movement of vessels, aircraft and vehicles, etc.
 
-30\.—(1) This section shall apply if the Director or an authorised officer has reasonable grounds for suspecting that there is in or on —
+30\.—(1) This section shall apply if the Director-General or an authorised officer has reasonable grounds for suspecting that there is in or on —
 
 (a) a Singapore vessel or Singapore aircraft; or
 
-(b) a vessel or an aircraft that is within the jurisdiction of Singapore,
+(b) a vessel, an aircraft or a vehicle that is within the jurisdiction of Singapore,
+
+[Act 6 of 2020 wef 01/04/2020]
 
 hazardous or other waste that is to be, or that has been, imported, exported or the subject of a transit proposal.
 
-(2) If this section applies in relation to a vessel, the Director or an authorised officer may require the master or the person in command or charge, or who appears to be in command or charge, of the vessel to do one or more of the following things:
+[Act 6 of 2020 wef 01/04/2020]
+
+(2) If this section applies in relation to a vessel, the Director-General or an authorised officer may require the master or the person in command or charge, or who appears to be in command or charge, of the vessel to do one or more of the following things:
 
 (a) ensure that the vessel does not remain within, or does not come within, as the case requires, the jurisdiction of Singapore;
 
 (b) ensure that the vessel is brought to a specified place to which it is safe and practicable to bring the vessel;
 
-(c) ensure that the vessel remains at a specified place until the Director or the authorised officer permits the vessel to leave;
+(c) ensure that the vessel remains at a specified place until the Director-General or the authorised officer permits the vessel to leave;
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (d) arrange for goods being carried on the vessel to be unloaded;
 
-(e) ensure that goods being carried on the vessel are not unloaded until the Director or the authorised officer permits their unloading.
+(e) ensure that goods being carried on the vessel are not unloaded until the Director-General or the authorised officer permits their unloading.
 
-(3) If this section applies in relation to an aircraft, the Director or an authorised officer may require the person in command or control, or who appears to be in command or control, of the aircraft to do one or more of the following things:
+[Act 6 of 2020 wef 01/04/2020]
+
+(3) If this section applies in relation to an aircraft, the Director-General or an authorised officer may require the person in command or control, or who appears to be in command or control, of the aircraft to do one or more of the following things:
 
 (a) ensure that the aircraft does not remain within, or does not come within, as the case requires, the jurisdiction of Singapore;
 
 (b) ensure that the aircraft is landed at a specified airport at which it is safe and practicable to land the aircraft;
 
-(c) ensure that the aircraft remains at a specified airport until the Director or the authorised officer permits the aircraft to leave;
+(c) ensure that the aircraft remains at a specified airport until the Director-General or the authorised officer permits the aircraft to leave;
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (d) arrange for goods being carried on the aircraft to be unloaded;
 
-(e) ensure that goods being carried on the aircraft are not unloaded until the Director or the authorised officer permits their unloading.
+(e) ensure that goods being carried on the aircraft are not unloaded until the Director-General or the authorised officer permits their unloading.
 
-(4) The Director or an authorised officer may communicate a requirement under this section by means of —
+[Act 6 of 2020 wef 01/04/2020]
+
+(3A) If this section applies in relation to a vehicle, the Director-General or an authorised officer may require the person in command or control, or who appears to be in command or control, of the vehicle to do one or more of the following things:
+
+(a) ensure that the vehicle does not remain within the jurisdiction of Singapore;
+
+(b) ensure that the vehicle is brought to a specified place in which it is safe and practicable to park the vehicle;
+
+(c) ensure that the vehicle remains at the specified place until the Director-General or an authorised officer permits the vehicle to leave;
+
+(d) arrange for goods being carried in or on the vehicle to be unloaded;
+
+(e) ensure that goods being carried in or on the vehicle are not unloaded until the Director-General or an authorised officer permits their unloading.
+
+[Act 6 of 2020 wef 01/04/2020]
+
+(4) The Director-General or an authorised officer may communicate a requirement under this section by means of —
 
 (a) an international signal code;
 
-(b) if the requirement relates to a vessel, any other internationally recognised means of communication with a vessel; or
+(b) if the requirement relates to a vessel, any other internationally recognised means of communication with a vessel;
 
-(c) if the requirement relates to an aircraft, any other internationally recognised means of communication with an aircraft.
+[Act 6 of 2020 wef 01/04/2020]
+
+(c) if the requirement relates to an aircraft, any other internationally recognised means of communication with an aircraft; or
+
+[Act 6 of 2020 wef 01/04/2020]
+
+(d) if the requirement relates to a vehicle, a written notice given to the person in command or control, or who appears to be in command or control, of the vehicle.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (5) Any person who refuses or fails, without reasonable excuse, to comply with a requirement made under this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (6) It is a reasonable excuse for the person to refuse or fail to comply with the requirement if complying with the requirement would have endangered the person or any other person.
 
+[Act 6 of 2020 wef 01/04/2020]
+
 ### Powers of entry and search
 
-31\.—(1) The Director or an authorised officer may, for the purposes of this Act —
+31\.—(1) The Director-General or an authorised officer may, for the purposes of this Act —
 
 (a) enter or board a searchable place; and
 
@@ -866,15 +960,23 @@ hazardous or other waste that is to be, or that has been, imported, exported or 
 
 without being liable to any legal proceedings or molestation on account of such entry or of anything done in part of that searchable place in pursuance of this Act.
 
-(2) The Director or an authorised officer shall not, pursuant to this section, enter into any dwelling-house in actual occupation, unless with the consent of the occupier thereof or with 6 hours’ previous notice to the occupier.
+[Act 6 of 2020 wef 01/04/2020]
 
-(3) If it is shown to the satisfaction of the court that admission to any searchable place has been refused or that the searchable place is unoccupied or the owner or occupier is absent (whether temporarily or permanent) and that the case is one of urgency, the court may by warrant authorise the Director or an authorised officer to enter the premises, if need be by force.
+(2) The Director-General or an authorised officer shall not, pursuant to this section, enter into any dwelling-house in actual occupation, unless with the consent of the occupier thereof or with 6 hours’ previous notice to the occupier.
 
-(4) The Director or an authorised officer who is permitted by this section to enter or board a vessel, an aircraft or a vehicle may, for the purpose of effecting the entry or boarding and for the purpose of exercising any powers that the Director or the authorised officer is permitted to exercise, stop and detain the vessel, aircraft or vehicle.
+[Act 6 of 2020 wef 01/04/2020]
 
-### General powers of Director on entering or boarding searchable places
+(3) If it is shown to the satisfaction of the court that admission to any searchable place has been refused or that the searchable place is unoccupied or the owner or occupier is absent (whether temporarily or permanent) and that the case is one of urgency, the court may by warrant authorise the Director-General or an authorised officer to enter the premises, if need be by force.
 
-32\.—(1) The Director or an authorised officer may, on entering or boarding a searchable place, exercise the following powers under section 31(1)(b):
+[Act 6 of 2020 wef 01/04/2020]
+
+(4) The Director-General or an authorised officer who is permitted by this section to enter or board a vessel, an aircraft or a vehicle may, for the purpose of effecting the entry or boarding and for the purpose of exercising any powers that the Director-General or the authorised officer is permitted to exercise, stop and detain the vessel, aircraft or vehicle.
+
+[Act 6 of 2020 wef 01/04/2020]
+
+### General powers of Director-General on entering or boarding searchable places
+
+32\.—(1) The Director-General or an authorised officer may, on entering or boarding a searchable place, exercise the following powers under section 31(1)(b):
 
 (a) to search any part of the place;
 
@@ -882,7 +984,9 @@ without being liable to any legal proceedings or molestation on account of such 
 
 (c) to seal the samples and require the owner of the materials to send the samples to an analyst and to bear any cost and expenses arising from the analysis;
 
-(d) to require the owner or analyst to submit the results of the analysis to the Director or the authorised officer;
+(d) to require the owner or analyst to submit the results of the analysis to the Director-General or the authorised officer;
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (e) to take extracts from, and make copies of, any document relating to any hazardous or other waste in or on the place;
 
@@ -890,27 +994,41 @@ without being liable to any legal proceedings or molestation on account of such 
 
 (g) to require any person in or on the place or the relevant person to —
 
-(i) answer any question put by the Director or the authorised officer; and
+(i) answer any question put by the Director-General or the authorised officer; and
 
-(ii) produce any books, records or documents requested by the Director or the authorised officer;
+[Act 6 of 2020 wef 01/04/2020]
 
-(h) to take into or onto the place such equipment and materials as the Director or the authorised officer requires for the purpose of exercising any power in relation to the place.
+(ii) produce any books, records or documents requested by the Director-General or the authorised officer;
 
-(2) If the Director or an authorised officer enters or boards the searchable place and finds anything (referred to in this section as the evidence) that may afford evidence of the commission of an offence under this Act, the following provisions shall have effect:
+[Act 6 of 2020 wef 01/04/2020]
 
-(a) the Director or the authorised officer may seize the evidence;
+(h) to take into or onto the place such equipment and materials as the Director-General or the authorised officer requires for the purpose of exercising any power in relation to the place.
 
-(b) the Director or the authorised officer may keep the evidence pending an order of court in regard to the disposal thereof made under this Act, or, if a prosecution for an offence under this Act in the commission of which the evidence may have been used or otherwise involved is instituted within that period, until the completion of the proceedings for the offence and of any appeal from the decision in relation to the proceedings;
+[Act 6 of 2020 wef 01/04/2020]
 
-(c) if the evidence is a book, record or document, while the Director or the authorised officer has possession of the book, record or document, the Director or the authorised officer shall allow the book, record or document to be inspected at any reasonable time by a person who would be entitled to inspect it if it were not in the possession of the Director or the authorised officer.
+(2) If the Director-General or an authorised officer enters or boards the searchable place and finds anything (referred to in this section as the evidence) that may afford evidence of the commission of an offence under this Act, the following provisions shall have effect:
+
+(a) the Director-General or the authorised officer may seize the evidence;
+
+[Act 6 of 2020 wef 01/04/2020]
+
+(b) the Director-General or the authorised officer may keep the evidence pending an order of court in regard to the disposal thereof made under this Act, or, if a prosecution for an offence under this Act in the commission of which the evidence may have been used or otherwise involved is instituted within that period, until the completion of the proceedings for the offence and of any appeal from the decision in relation to the proceedings;
+
+[Act 6 of 2020 wef 01/04/2020]
+
+(c) if the evidence is a book, record or document, while the Director-General or the authorised officer has possession of the book, record or document, the Director-General or the authorised officer shall allow the book, record or document to be inspected at any reasonable time by a person who would be entitled to inspect it if it were not in the possession of the Director-General or the authorised officer.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (3) A person who refuses or fails, without reasonable excuse, to comply with a requirement made under subsection (1)(d) or (g) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 (4) It is a reasonable excuse for a person to refuse or fail to answer a question or produce a document if answering the question, or producing the document, might tend to incriminate the person.
 
+[Act 6 of 2020 wef 01/04/2020]
+
 ### Production of Basel permits or special permits and orders
 
-33\.—(1) This section shall apply if the Director or an authorised officer has reasonable grounds for suspecting that a person (referred to in this section as the suspected person) —
+33\.—(1) This section shall apply if the Director-General or an authorised officer has reasonable grounds for suspecting that a person (referred to in this section as the suspected person) —
 
 (a) intends to import or export hazardous or other waste;
 
@@ -918,17 +1036,21 @@ without being liable to any legal proceedings or molestation on account of such 
 
 (c) has imported or exported hazardous or other waste.
 
-(2) The Director or an authorised officer may require the suspected person to produce, or to produce evidence of the existence and contents of —
+[Act 6 of 2020 wef 01/04/2020]
+
+(2) The Director-General or an authorised officer may require the suspected person to produce, or to produce evidence of the existence and contents of —
 
 (a) a Basel permit or special permit authorising the import or export; or
 
 (b) an order made under this Act authorising or requiring the import or export.
 
+[Act 6 of 2020 wef 01/04/2020]
+
 (3) Any suspected person who refuses or fails, without reasonable excuse, to comply with the requirement shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
 
 ### Production of transit permits
 
-34\.—(1) This section shall apply if the Director or an authorised officer has reasonable grounds for suspecting that a person (the suspected person) —
+34\.—(1) This section shall apply if the Director-General or an authorised officer has reasonable grounds for suspecting that a person (the suspected person) —
 
 (a) intends to carry out a transit proposal;
 
@@ -936,27 +1058,41 @@ without being liable to any legal proceedings or molestation on account of such 
 
 (c) has carried out a transit proposal.
 
-(2) The Director or an authorised officer may require the suspected person to produce, or to produce evidence of the existence and contents of, a transit permit authorising the carrying out of the transit proposal.
+[Act 6 of 2020 wef 01/04/2020]
+
+(2) The Director-General or an authorised officer may require the suspected person to produce, or to produce evidence of the existence and contents of, a transit permit authorising the carrying out of the transit proposal.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (3) Any suspected person who refuses or fails, without reasonable excuse, to comply with the requirement shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000.
 
-### Assistance to Director
+### Assistance to Director-General
 
-35\.—(1) The Director or an authorised officer who proposes to exercise powers under this Part in relation to a searchable place may require the relevant person in relation to the place to provide reasonable assistance to the Director or the authorised officer in relation to the exercise of those powers.
+35\.—(1) The Director-General or an authorised officer who proposes to exercise powers under this Part in relation to a searchable place may require the relevant person in relation to the place to provide reasonable assistance to the Director-General or the authorised officer in relation to the exercise of those powers.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) Any relevant person who refuses or fails, without reasonable excuse, to comply with the requirement shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
-### Obstruction of Director, etc.
+[Act 6 of 2020 wef 01/04/2020]
+
+### Obstruction of Director-General, etc.
 
 36\. Any person who —
 
-(a) hinders, obstructs or molests the Director or an authorised officer, in the performance and execution of his duty or of anything which he is empowered or required to do under this Act;
+(a) hinders, obstructs or molests the Director-General or an authorised officer, in the performance and execution of his duty or of anything which he is empowered or required to do under this Act;
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (b) interferes with any work authorised to be executed under this Act; or
 
-(c) fails to facilitate by all reasonable means the entry and inspection of any searchable place by the Director or an authorised officer or the making of any test which the Director or an authorised officer is empowered under this Act,
+(c) fails to facilitate by all reasonable means the entry and inspection of any searchable place by the Director-General or an authorised officer or the making of any test which the Director-General or an authorised officer is empowered under this Act,
+
+[Act 6 of 2020 wef 01/04/2020]
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 ### False statements
 
@@ -964,27 +1100,39 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) make a statement that is false or misleading in a material particular; or
 
-(b) give to the Director or an authorised officer a document containing information that is false or misleading in a material particular without —
+(b) give to the Director-General or an authorised officer a document containing information that is false or misleading in a material particular without —
 
-(i) indicating to the Director or the authorised officer that the document is false or misleading and the respect in which the document is false or misleading; and
+(i) indicating to the Director-General or the authorised officer that the document is false or misleading and the respect in which the document is false or misleading; and
 
-(ii) providing correct information to the Director or the authorised officer if the person has, or can reasonably obtain, the correct information.
+[Act 6 of 2020 wef 01/04/2020]
+
+(ii) providing correct information to the Director-General or the authorised officer if the person has, or can reasonably obtain, the correct information.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) No person shall, otherwise than in or in relation to an application or a notice under this Act, knowingly or recklessly —
 
-(a) make to the Director or an authorised officer doing duty in relation to this Act a statement that is false or misleading in a material particular; or
+(a) make to the Director-General or an authorised officer doing duty in relation to this Act a statement that is false or misleading in a material particular; or
 
-(b) give to the Director or an authorised officer doing duty in relation to this Act a document containing information that is false or misleading in a material particular without —
+[Act 6 of 2020 wef 01/04/2020]
 
-(i) indicating to the Director or the authorised officer that the document is false or misleading and the respect in which the document is false or misleading; and
+(b) give to the Director-General or an authorised officer doing duty in relation to this Act a document containing information that is false or misleading in a material particular without —
 
-(ii) providing correct information to the Director or the authorised officer if the person is in possession of, or can reasonably obtain, the correct information.
+(i) indicating to the Director-General or the authorised officer that the document is false or misleading and the respect in which the document is false or misleading; and
+
+[Act 6 of 2020 wef 01/04/2020]
+
+(ii) providing correct information to the Director-General or the authorised officer if the person is in possession of, or can reasonably obtain, the correct information.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (3) Any person who contravenes this section shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 ### Part does not limit power to impose permit conditions
 
-38\. This Part is not to be taken to limit the power of the Director to impose permit conditions on a Basel permit or special permit.
+38\. This Part is not to be taken to limit the power of the Director-General to impose permit conditions on a Basel permit or special permit.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 ## PART VI
 
@@ -992,11 +1140,13 @@ MISCELLANEOUS
 
 ### Evidentiary certificate — classification of hazardous or other waste
 
-39\.—(1) The Director may issue a written certificate stating that a specified substance or object is, or is not, in specified circumstances, hazardous or other waste —
+39\.—(1) The Director-General may issue a written certificate stating that a specified substance or object is, or is not, in specified circumstances, hazardous or other waste —
 
 (a) for the purposes of this Act; or
 
 (b) for the purposes of the application of this Act to a specified matter.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) In any proceedings relating to this Act, a certificate issued under subsection (1) is prima facie evidence of the matters stated in the certificate.
 
@@ -1004,7 +1154,9 @@ MISCELLANEOUS
 
 ### Evidentiary certificate — environmentally sound management of hazardous or other waste
 
-40\.—(1) The Director may issue a written certificate stating that engaging, or failing to engage, in specified conduct in relation to specified hazardous or other waste is, or is not, environmentally sound management of that waste for the purposes of this Act.
+40\.—(1) The Director-General may issue a written certificate stating that engaging, or failing to engage, in specified conduct in relation to specified hazardous or other waste is, or is not, environmentally sound management of that waste for the purposes of this Act.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) In any proceedings relating to this Act, a certificate issued under subsection (1) is prima facie evidence of the matters stated in the certificate.
 
@@ -1012,7 +1164,9 @@ MISCELLANEOUS
 
 ### Evidence of analyst
 
-41\.—(1) The Director may, by instrument in writing under his hand, appoint persons who in his opinion are qualified to be analysts for the purposes of this Act.
+41\.—(1) The Director-General may, by instrument in writing under his hand, appoint persons who in his opinion are qualified to be analysts for the purposes of this Act.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (2) Subject to subsection (4), a certificate of an analyst appointed under subsection (1) stating that he has analysed or examined a substance and stating the result of his analysis or examination is admissible in evidence in any proceedings for an offence under this Act as prima facie evidence of the facts stated in the certificate and of the correctness of the result of the analysis or examination.
 
@@ -1054,15 +1208,21 @@ MISCELLANEOUS
 
 ### Protection from personal liability
 
-43\. No suit or other legal proceedings shall lie personally against the Director or an authorised officer or any person acting under the direction of the Director for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+43\. No suit or other legal proceedings shall lie personally against the Director-General or an authorised officer or any person acting under the direction of the Director-General for anything which is in good faith done or intended to be done in the execution or purported execution of this Act.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 ### Public servants for purposes of Penal Code
 
-44\. The Director and all authorised officers shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+44\. The Director-General and all authorised officers shall be deemed to be public servants for the purposes of the Penal Code (Cap. 224).
+
+[Act 6 of 2020 wef 01/04/2020]
 
 ### Appeal to Minister
 
-45\. Any applicant who is aggrieved by the refusal of the Director to grant a permit under this Act may, within 30 days of the decision of the Director, appeal in writing to the Minister whose decision shall be final and shall be given effect to by the Director.
+45\. Any applicant who is aggrieved by the refusal of the Director-General to grant a permit under this Act may, within 30 days of the decision of the Director-General, appeal in writing to the Minister whose decision shall be final and shall be given effect to by the Director-General.
+
+[Act 6 of 2020 wef 01/04/2020]
 
 ### Service of notice, etc.
 
@@ -1104,13 +1264,19 @@ MISCELLANEOUS
 
 (2) Without prejudice to the generality of subsection (1), the regulations may also —
 
-(a) empower the Director to determine the type of permit, whether a Basel permit or special permit, to be granted regardless of the type applied for;
+(a) empower the Director-General to determine the type of permit, whether a Basel permit or special permit, to be granted regardless of the type applied for;
 
-(b) prescribe the procedure to be followed by the Director and authorised officers in the exercise of their functions under this Act;
+[Act 6 of 2020 wef 01/04/2020]
+
+(b) prescribe the procedure to be followed by the Director-General and authorised officers in the exercise of their functions under this Act;
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (c) require the furnishing of information in relation to the import, export or transit of such waste by the holder of a Basel permit or special permit to any authority as may be specified in the regulations;
 
-(d) make provision for the Director to give orders or to take action in relation to the dealing of such waste where there is a contravention of the provisions of this Act or any regulations made thereunder or of an order made by him and for the recovery of the costs of any such action taken by the Director; and
+(d) make provision for the Director-General to give orders or to take action in relation to the dealing of such waste where there is a contravention of the provisions of this Act or any regulations made thereunder or of an order made by him and for the recovery of the costs of any such action taken by the Director-General; and
+
+[Act 6 of 2020 wef 01/04/2020]
 
 (e) provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part thereof during which the offence continues after conviction.
 
@@ -3919,3 +4085,8 @@ This Legislative History is provided for the convenience of users of the Hazardo
 ||Date of commencement|16 May 2003|
 |4.|**G.N. No. S 820/2019—Hazardous Waste (Control of Export, Import and Transit) Act (Amendment of Schedule) Regulations 2019**|
 ||Date of commencement|10 December 2019|
+|5.|**Act 6 of 2020—Hazardous Waste (Control of Export, Import and Transit) (Amendment) Act 2020**|
+||Date of First Reading|6 January 2020|
+|||(Bill No. 6/2020)|
+||Date of Second and Third Readings|3 February 2020|
+||Date of commencement|1 April 2020|
