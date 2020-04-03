@@ -52,7 +52,7 @@
 
 - [15 No riding of bicycles, etc., on pedestrian‑only paths](#No-riding-of-bicycles-etc-on-pedestrian‑only-paths)
 
-- [16 No riding of PABs on footpaths](#No-riding-of-PABs-on-footpaths)
+- [16 No riding of PABs, etc., on footpaths](#No-riding-of-PABs-etc-on-footpaths)
 
 - [17 No motor cars, etc., on shared paths](#No-motor-cars-etc-on-shared-paths)
 
@@ -102,6 +102,8 @@
 
 [**Part 4 DEALING IN PERSONAL MOBILITY DEVICES, ETC.**](#Part-4)
 
+[**Division 1  Dealing and advertisements**](#Division-1--Dealing-and-advertisements)
+
 - [29 Interpretation of this Part](#Interpretation-of-this-Part)
 
 - [30 Ban on display of non‑compliant personal mobility devices, etc.](#Ban-on-display-of-non‑compliant-personal-mobility-devices-etc)
@@ -116,7 +118,19 @@
 
 - [35 Altering personal mobility device, etc., to be non‑compliant](#Altering-personal-mobility-device-etc-to-be-non‑compliant)
 
+[**Division 2  Mandatory testing**](#Division-2--Mandatory-testing)
+
+- [35A Order by Minister requiring inspection](#Order-by-Minister-requiring-inspection)
+
+- [35B Inspections by designated examiner](#Inspections-by-designated-examiner)
+
+- [35C Certification of inspection](#Certification-of-inspection)
+
+[**Division 3  Presumptions and evidence**](#Division-3--Presumptions-and-evidence)
+
 - [36 Presumptions for this Part](#Presumptions-for-this-Part)
+
+- [36A Presumption concerning vehicle owner for section 35 offence](#Presumption-concerning-vehicle-owner-for-section-35-offence)
 
 [**Part 5 ADMINISTRATION AND ENFORCEMENT**](#Part-5)
 
@@ -294,7 +308,7 @@ PRELIMINARY
 
 “end‑of shared path sign” means a sign showing the prescribed symbol or words denoting the end of the shared path;
 
-“footpath” means a length of path (whether or not contiguous with another path or a road) provided for pedestrians to use, or individuals to ride a bicycle or personal mobility device on, and ending at the nearest of the following:
+“footpath” means a length of path (whether or not contiguous with another path or a road) provided for pedestrians to use, or individuals to ride a bicycle or non-motorised personal mobility device on, and ending at the nearest of the following:
 
 (a) a pedestrian‑only path sign or pedestrian‑only path marking;
 
@@ -304,9 +318,15 @@ PRELIMINARY
 
 (d) the natural end of the path (which may be a dead end);
 
+[Act 9 of 2020 wef 03/04/2020]
+
 “holding yard” means a place used under section 52 for the storage of vehicles moved to, surrendered at, detained, seized or forfeited under Division 2 of Part 5;
 
 “identification card”, in relation to an authorised officer, a public path warden or a volunteer public path warden, means an identification card issued under section 42 to the authorised officer, public path warden or volunteer public path warden, as the case may be;
+
+“install”, in relation to any wayfinding signage, includes paint or mark on a surface in an indelible way;
+
+[Act 9 of 2020 wef 03/04/2020]
 
 “land” includes any permanent buildings on, under or over the land;
 
@@ -316,7 +336,9 @@ PRELIMINARY
 
 (a) is designed or adapted for the purpose of sweeping or cleansing paths, the collection or disposal of refuse on paths or of the contents of gullies on paths; and
 
-(b) is incapable by reason of its construction of reaching a prescribed speed on the level under its own power;
+(b) is incapable by reason of its construction of driving itself and of reaching a prescribed speed on the level under its own power;
+
+[Act 9 of 2020 wef 03/04/2020]
 
 “mobility scooter” means a vehicle that —
 
@@ -329,6 +351,22 @@ PRELIMINARY
 (d) is designed to carry an individual who is unable to walk or has difficulty in walking; and
 
 (e) is propelled by a motor that forms part of the vehicle;
+
+“motor vehicle” includes —
+
+(a) an automatic detection device that has wheels, a motor and is constructed to drive itself;
+
+(b) a robotic machine designed to move and operate independently of human control when the computer that controls it is programmed; or
+
+(c) a motor vehicle that is constructed to drive itself,
+
+but excludes a wheeled toy or model car that can be remotely operated;
+
+[Act 9 of 2020 wef 03/04/2020]
+
+“motorised personal mobility device” or “motorised PMD” means a personal mobility device other than a non-motorised personal mobility device;
+
+[Act 9 of 2020 wef 03/04/2020]
 
 “motorised wheelchair” means a wheelchair that —
 
@@ -353,6 +391,10 @@ PRELIMINARY
 “non‑compliant power‑assisted bicycle” means a power‑assisted bicycle the construction, weight or accessories of which do not comply with the requirements as to construction, weight and accessories prescribed either for all power‑assisted bicycles generally or for the particular type of that power‑assisted bicycle;
 
 [Act 38 of 2018 wef 02/01/2019]
+
+“non-motorised personal mobility device” means a personal mobility device that is designed to be propelled by human power only;
+
+[Act 9 of 2020 wef 03/04/2020]
 
 “notice” does not include giving notice orally;
 
@@ -496,15 +538,27 @@ and includes a skateboard, but does not include a bicycle, power‑assisted bicy
 
 “repair” includes examine, detect faults in, adjust, carry out maintenance on, overhaul, replace, alter and paint;
 
-“repeat offender”, in relation to any offence under this Act, means an individual who —
+“repeat offender”, in relation to any offence under this Act, means a person who —
 
 (a) is convicted, or found guilty, of such an offence (called the current offence); and
 
-(b) has been convicted or found guilty of the same offence on at least one other earlier occasion within the period of 5 years immediately before the date on which he or she is convicted or found guilty of the current offence;
+(b) has been convicted or found guilty of the same offence on at least one other earlier occasion within the period of 5 years immediately before the date on which the person is convicted or found guilty of the current offence;
+
+[Act 9 of 2020 wef 03/04/2020]
+
+[Act 9 of 2020 wef 03/04/2020]
 
 “residential address”, for an individual, means the individual’s usual or last known place of residence in Singapore;
 
 “ride”, in relation to a bicycle, PAB or personal mobility device, means to travel in or on the bicycle, PAB or personal mobility device;
+
+“ride” or “riding”, only in relation to a motor vehicle that drives itself, means —
+
+(a) cause or causing the vehicle to operate and move; or
+
+(b) initiate or initiating the operation and movement of the vehicle without the need for anyone to operate or permit the operation of systems that cause the vehicle to move;
+
+[Act 9 of 2020 wef 03/04/2020]
 
 “rider” means an individual who is riding a bicycle, PAB or personal mobility device, but does not include an individual walking beside and pushing any of these vehicles;
 
@@ -556,6 +610,18 @@ and includes a skateboard, but does not include a bicycle, power‑assisted bicy
 
 “Town Council”, for a Town, means a Town Council established under the Town Councils Act (Cap. 329A) for a Town within the meaning of that Act;
 
+“uncertified vehicle” means a bicycle, personal mobility device, motorised wheelchair or mobility scooter which does not have in force a certificate issued under section 35C where an inspection or periodic inspections of the vehicle is required under section 35A;
+
+[Act 9 of 2020 wef 03/04/2020]
+
+“uncertified vehicle advertisement” means an advertisement that gives publicity to, or otherwise promotes or is intended to promote the purchase or use of, an uncertified vehicle or a range of uncertified vehicles;
+
+[Act 9 of 2020 wef 03/04/2020]
+
+“under-aged rider”, in relation to a motorised PMD, means an individual riding the PMD who is below the prescribed minimum riding age for riding the motorised PMD on a shared path;
+
+[Act 9 of 2020 wef 03/04/2020]
+
 “unregistered”, in relation to a registrable personal mobility device, means a registrable personal mobility device —
 
 (a) that is not registered under Part 3A; or
@@ -589,6 +655,14 @@ and includes a skateboard, but does not include a bicycle, power‑assisted bicy
 (a) an employee of the Authority; or
 
 (b) a public officer performing duties in the Authority under a secondment arrangement making available temporarily to the Authority the services of public officers.
+
+(5) For the purposes of this Act, a motor vehicle is constructed to drive itself if its construction enables it to operate in a mode in which it is not being controlled and does not need to be monitored by an individual in or on the vehicle.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(6) To avoid doubt, a reference in this Act to an offence under or a contravention of any Part includes a reference to an offence under or a contravention of any regulations made for the purposes of that Part.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Purposes of Act
 
@@ -820,23 +894,33 @@ Conduct of users of public paths
 
 (iii) the individual travels no more than reasonably necessary along the pedestrian‑only path to avoid the obstruction.
 
-(3) Subsection (1) also does not apply to an individual who is driving or operating a mechanised sweeper on a pedestrian‑only path in the course of his or her employment, which is to sweep or otherwise clean sidewalks or paths.
+(3) Subsection (1) also does not apply to an individual who is driving a mechanised sweeper on a pedestrian‑only path in the course of his or her employment, which is to sweep or otherwise clean sidewalks or paths.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (4) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
-(b) if the individual is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 9 of 2020 wef 03/04/2020]
 
-### No riding of PABs on footpaths
+(b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+### No riding of PABs, etc., on footpaths
 
 16\.—(1) Subject to this Act, an individual must not —
 
-(a) ride a PAB on a footpath; or
+(a) ride a PAB or a motorised personal mobility device on a footpath; or
 
-(b) drive on a footpath a motor vehicle that is not a personal mobility device, motorised wheelchair or mobility scooter.
+[Act 9 of 2020 wef 03/04/2020]
 
-(2) However, subsection (1) does not apply to an individual who is riding a PAB on a footpath —
+(b) drive on a footpath a motor vehicle that is not a motorised wheelchair or mobility scooter.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(2) However, subsection (1) does not apply to an individual who is riding a PAB or a motorised personal mobility device on a footpath —
 
 (a) if the individual —
 
@@ -852,25 +936,53 @@ Conduct of users of public paths
 
 (iii) the individual travels no more than reasonably necessary along the footpath to avoid the obstruction.
 
-(3) Subsection (1) also does not apply to an individual who is driving or operating a mechanised sweeper on a footpath in the course of his or her employment, which is to sweep or otherwise clean sidewalks or paths.
+[Act 9 of 2020 wef 03/04/2020]
+
+(3) Subsection (1) also does not apply to an individual who is driving a mechanised sweeper on a footpath in the course of his or her employment, which is to sweep or otherwise clean sidewalks or paths.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (4) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; but
 
-(b) if the individual is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) where the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(5) In relation to an offence under subsection (4), “repeat offender” extends to include an individual who —
+
+(a) is convicted, or found guilty, of such an offence (called the current offence); and
+
+(b) has been convicted or found guilty, on at least one other earlier occasion within the period of 5 years immediately before the date on which the individual is convicted or found guilty of the current offence, of —
+
+(i) the same offence; or
+
+(ii) an offence under subsection (4) as in force immediately before the date of commencement of section 3 of the Active Mobility (Amendment) Act 2020.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### No motor cars, etc., on shared paths
 
 17\.—(1) Subject to this Act, an individual must not drive or ride on a shared path any motor vehicle that is not a PAB, personal mobility device, motorised wheelchair or mobility scooter.
 
-(2) Subsection (1) does not apply to an individual who is driving or operating a mechanised sweeper on a shared path in the course of his or her employment, which is to sweep or otherwise clean sidewalks or paths.
+(2) Subsection (1) does not apply to an individual who is driving a mechanised sweeper on a shared path in the course of his or her employment, which is to sweep or otherwise clean sidewalks or paths.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (3) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; and
 
-(b) if the individual is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Vehicle banned for public path
 
@@ -882,9 +994,11 @@ Conduct of users of public paths
 
 [Act 38 of 2018 wef 01/02/2019]
 
-(b) ride or drive on a public path that is a footpath a bicycle, a personal mobility device, a mobility scooter or a motorised wheelchair which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all footpaths generally; or
+(b) ride or drive on a public path that is a footpath a bicycle, a non-motorised personal mobility device, a mobility scooter or a motorised wheelchair which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all footpaths generally; or
 
 [Act 38 of 2018 wef 01/02/2019]
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (c) drive on a public path that is a pedestrian-only path a mobility scooter or a motorised wheelchair which, by reason of its construction, weight or equipment, is prescribed as banned for use on that public path or on all pedestrian-only paths generally,
 
@@ -908,11 +1022,13 @@ knowing that, or reckless as to whether, it is so banned.
 
 (3) An individual who contravenes subsection (1) or (1A) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; but
 
-(b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 9 of 2020 wef 03/04/2020]
 
-[Act 38 of 2018 wef 02/01/2019]
+(b) where the individual is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Non‑compliant personal mobility devices, etc.
 
@@ -940,11 +1056,19 @@ knowing that, or reckless as to whether, it is non‑compliant.
 
 (2) An individual who contravenes subsection (1) or (1A) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; and
 
-(b) if the individual is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) if the individual is a repeat offender, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [Act 38 of 2018 wef 01/02/2019]
+
+[Act 9 of 2020 wef 03/04/2020]
+
+[Act 38 of 2018 wef 01/02/2019]
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (3) Despite subsections (1) and (1A), where any requirement is prescribed in regulations as to construction, weight or accessories for any bicycle, PAB, personal mobility device, mobility scooter or motorised wheelchair, an individual may, if a grace period is prescribed, ride or drive on a public path during the grace period a bicycle, PAB, personal mobility device, mobility scooter or motorised wheelchair (as the case may be), the riding or driving of which is otherwise unlawful under this section by virtue only of that requirement, if the individual proves, on a balance of probabilities, that the bicycle, PAB, personal mobility device, mobility scooter or motorised wheelchair (as the case may be) was sold before the date mentioned in subsection (4)(a).
 
@@ -984,11 +1108,19 @@ subject to such conditions as are prescribed in relation to that vehicle.
 
 (2) An individual who, when riding or driving any vehicle mentioned in subsection (1) or (1A) on a public path that is a pedestrian-only path, footpath or shared path, fails to comply with the conditions prescribed for the purposes of that subsection and in relation to that vehicle, shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both; and
 
-(b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) if the individual is a repeat offender, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 12 months or to both.
 
 [Act 38 of 2018 wef 01/02/2019]
+
+[Act 9 of 2020 wef 03/04/2020]
+
+[Act 38 of 2018 wef 01/02/2019]
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Riding without displaying registration marks, etc.
 
@@ -1024,9 +1156,13 @@ on any public path that is a footpath or shared path in excess of the maximum sp
 
 (3) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both; and
 
-(b) if the individual is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) if the individual is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Dangerous riding of bicycles, etc., on public paths
 
@@ -1036,13 +1172,17 @@ on any public path that is a footpath or shared path in excess of the maximum sp
 
 (b) drive a motorised wheelchair or ride a mobility scooter; or
 
-(c) drive or operate a mechanised sweeper,
+(c) drive a mechanised sweeper,
+
+[Act 9 of 2020 wef 03/04/2020]
 
 on any public path recklessly, or in a manner which is dangerous to the public, having regard to all the circumstances of the case.
 
 [Act 38 of 2018 wef 02/01/2019]
 
-(2) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+(2) An individual who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Duty of driver of vehicle if accident occurs
 
@@ -1270,6 +1410,10 @@ Wayfinding and maintaining clear public paths
 
 (8) This section does not apply to or in relation to any road related facility within the meaning of the Street Works Act (Cap. 320A).
 
+(9) In this section, “repair” includes repainting or re-marking a sign that is painted or marked on a wall or floor.
+
+[Act 9 of 2020 wef 03/04/2020]
+
 ### Obstructing public paths, etc.
 
 28\.—(1) Subject to subsection (2), a person must not cause or permit any vehicle, article or thing to remain on any public path that is not on State land so as to —
@@ -1327,11 +1471,15 @@ PERSONAL MOBILITY DEVICES
 
 (2) On registering a registrable personal mobility device, the Authority must —
 
-(a) assign a unique registration code to the registrable personal mobility device so registered; and
+(a) assign a registration code to the registrable personal mobility device so registered; and
 
-(b) issue to the registered responsible person for the registrable personal mobility device a registration mark indicating the unique registration code.
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) issue to the registered responsible person for the registrable personal mobility device a registration mark indicating the registration code.
 
 [Act 38 of 2018 wef 02/01/2019]
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Cancellation of registration
 
@@ -1349,11 +1497,23 @@ PERSONAL MOBILITY DEVICES
 
 (v) is a non-compliant personal mobility device;
 
-(b) the Authority becomes aware of a circumstance that would have required or permitted the Authority to refuse to register the personal mobility device, had it been aware of the circumstance immediately before registering the device; or
+(b) the Authority becomes aware of a circumstance that would have required or permitted the Authority to refuse to register the personal mobility device, had it been aware of the circumstance immediately before registering the device;
 
-(c) the registered responsible person for the registrable personal mobility device applies for the registration of the device to be cancelled.
+[Act 9 of 2020 wef 03/04/2020]
+
+(c) the registered responsible person for the registrable personal mobility device applies for the registration of the device to be cancelled;
 
 [Act 38 of 2018 wef 02/01/2019]
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(d) the registered responsible person for the registrable personal mobility device refuses or neglects to comply with any order given to the registered responsible person under section 47(1)(b), whether or not that person is convicted of an offence; or
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(e) the Authority is satisfied that a condition of registration of the registrable personal mobility device has been contravened or is being contravened.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Registrable PMD register
 
@@ -1429,6 +1589,10 @@ is admissible in any legal proceedings and is prima facie evidence of the facts 
 
 DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
+Division 1 —
+
+Dealing and advertisements
+
 ### Interpretation of this Part
 
 29\. In this Part, unless the context otherwise requires —
@@ -1443,37 +1607,31 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 (d) any combination of 2 or more of those things in paragraphs (a), (b) and (c);
 
-[Act 38 of 2018 wef 02/01/2019]
-
 “buy” or “buying”, in relation to any thing, includes buying that thing as a principal or agent;
 
 “buyer” includes a person by whom or on whose behalf an offer is made to buy;
 
 “non-compliant mobility vehicle advertisement” means an advertisement that gives publicity to, or otherwise promotes or is intended to promote the purchase or use of a non-compliant mobility vehicle or a range of non-compliant mobility vehicles;
 
-[Act 38 of 2018 wef 01/02/2019]
-
 “non-compliant PMD advertisement” means an advertisement that gives publicity to, or otherwise promotes or is intended to promote the purchase or use of a non-compliant personal mobility device or a range of non-compliant personal mobility devices.
-
-[Act 38 of 2018 wef 01/02/2019]
 
 ### Ban on display of non‑compliant personal mobility devices, etc.
 
-30\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises or place, must not display or cause to be displayed any non‑compliant personal mobility device or non-compliant mobility vehicle on the premises or place —
+30\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises or place, must not display or cause to be displayed any non‑compliant personal mobility device, non-compliant mobility vehicle or uncertified vehicle on the premises or place —
 
 (a) when so selling, or offering or exposing for sale any personal mobility device, mobility scooter or motorised wheelchair; and
 
-[Act 38 of 2018 wef 01/02/2019]
+(b) knowing that, or reckless as to whether, it is non‑compliant or uncertified, as the case may be.
 
-(b) knowing that, or reckless as to whether, it is non‑compliant.
+[Act 9 of 2020 wef 03/04/2020]
 
-[Act 38 of 2018 wef 01/02/2019]
+[Act 9 of 2020 wef 03/04/2020]
 
-(2) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises, must ensure that no customer or member of the public can see any non‑compliant personal mobility device or non-compliant mobility vehicle from inside or outside the premises.
+(2) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises, must ensure that no customer or member of the public can see any non‑compliant personal mobility device, non-compliant mobility vehicle or uncertified vehicle from inside or outside the premises.
 
-[Act 38 of 2018 wef 01/02/2019]
+[Act 9 of 2020 wef 03/04/2020]
 
-(3) This section does not apply to the display of non‑compliant personal mobility devices or non-compliant mobility vehicles on any premises or place —
+(3) This section does not apply to the display of non‑compliant personal mobility devices, non-compliant mobility vehicles or uncertified vehicles on any premises or place —
 
 (a) to a customer of the business concerned at the customer’s request;
 
@@ -1481,33 +1639,69 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 (c) in such other circumstances as may be prescribed.
 
-[Act 38 of 2018 wef 01/02/2019]
+[Act 9 of 2020 wef 03/04/2020]
 
 (4) A person who contravenes subsection (1) or (2) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) where the person is an individual —
 
-(b) if the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+(i) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; but
 
-[Act 38 of 2018 wef 01/02/2019]
+(ii) where the individual is a repeat offender, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 24 months or to both; or
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) in any other case —
+
+(i) to a fine not exceeding $20,000; but
+
+(ii) where the person is a repeat offender, to a fine not exceeding $40,000.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(5) In relation to an offence under subsection (4), “repeat offender” extends to include a person who —
+
+(a) is convicted, or found guilty, of such an offence (called the current offence); and
+
+(b) has been convicted or found guilty, on at least one other earlier occasion within the period of 5 years immediately before the date on which the person is convicted or found guilty of the current offence, of —
+
+(i) the same offence; or
+
+(ii) an offence under subsection (4) as in force immediately before the date of commencement of section 13 of the Active Mobility (Amendment) Act 2020.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Warning notices
 
 31\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises or place, must display or cause to be displayed within the premises or place a prescribed number of warning notices for personal mobility devices, mobility scooters or motorised wheelchairs to be sold, or offered or exposed for sale at those premises or that place (as the case may be).
 
-[Act 38 of 2018 wef 01/02/2019]
-
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) where the person is an individual —
 
-(b) if the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+(i) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both; but
+
+(ii) where the individual is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; or
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) in any other case —
+
+(i) to a fine not exceeding $10,000; but
+
+(ii) where the person is a repeat offender, to a fine not exceeding $20,000.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (3) In this section —
 
 (a) a warning notice relating to a personal mobility device is a notice stating to the effect that —
 
 (i) the riding of personal mobility devices on any road is unlawful;
+
+(ia) the riding of motorised personal mobility devices on any footpath is unlawful;
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (ii) the riding of non-compliant personal mobility devices, non-compliant power-assisted bicycles and non-compliant bicycles on any public path is ordinarily unlawful; and
 
@@ -1521,31 +1715,67 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 (iii) the driving of mobility scooters or motorised wheelchairs may be banned on certain public paths even if not non-compliant.
 
-[Act 38 of 2018 wef 01/02/2019]
+(4) In relation to an offence under subsection (2), “repeat offender” extends to include a person who —
+
+(a) is convicted, or found guilty, of such an offence (called the current offence); and
+
+(b) has been convicted or found guilty, on at least one other earlier occasion within the period of 5 years immediately before the date on which the person is convicted or found guilty of the current offence, of —
+
+(i) the same offence; or
+
+(ii) an offence under subsection (2) as in force immediately before the date of commencement of section 14 of the Active Mobility (Amendment) Act 2020.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Advertisements of non‑compliant personal mobility device or mobility vehicle
 
 32\.—(1) Subject to this Act, a person who is, in the course of business, selling, or offering or exposing for sale, by retail, any personal mobility device, mobility scooter or motorised wheelchair on any premises or place, must not —
 
-(a) publish a non-compliant PMD advertisement or a non-compliant mobility vehicle advertisement at the premises or place; or
+(a) publish a non-compliant PMD advertisement, a non-compliant mobility vehicle advertisement or an uncertified vehicle advertisement at the premises or place; or
 
-(b) authorise or cause a non-compliant PMD advertisement or a non-compliant mobility vehicle advertisement to be so published.
+[Act 9 of 2020 wef 03/04/2020]
 
-[Act 38 of 2018 wef 01/02/2019]
+(b) authorise or cause a non-compliant PMD advertisement, a non-compliant mobility vehicle advertisement or an uncertified vehicle advertisement to be so published.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (2) A person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction —
 
-(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) where the person is an individual —
 
-(b) if the person is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+(i) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; but
 
-(3) For the purposes of this section, a person publishes a non‑compliant PMD advertisement or a non-compliant mobility vehicle advertisement if the person does any of the following things:
+(ii) where the individual is a repeat offender, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 24 months or to both; or
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) in any other case —
+
+(i) to a fine not exceeding $20,000; but
+
+(ii) where the person is a repeat offender, to a fine not exceeding $40,000.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(3) For the purposes of this section, a person publishes a non‑compliant PMD advertisement, a non-compliant mobility vehicle advertisement or an uncertified vehicle advertisement if the person does any of the following things:
 
 (a) includes the advertisement in a document (including a leaflet, ticket or brochure) and makes the document available, or distributes the document, to the public or a section of the public at the premises or place mentioned in subsection (1);
 
 (b) includes the advertisement in a film or video and displays, screens or plays the advertisement so that it can be seen or heard in the premises or at the place mentioned in subsection (1).
 
-[Act 38 of 2018 wef 01/02/2019]
+[Act 9 of 2020 wef 03/04/2020]
+
+(4) In relation to an offence under subsection (2), “repeat offender” extends to include a person who —
+
+(a) is convicted, or found guilty, of such an offence (called the current offence); and
+
+(b) has been convicted or found guilty, on at least one other earlier occasion within the period of 5 years immediately before the date on which the person is convicted or found guilty of the current offence, of —
+
+(i) the same offence; or
+
+(ii) an offence under subsection (2) as in force immediately before the date of commencement of section 15 of the Active Mobility (Amendment) Act 2020.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### Selling personal mobility devices, etc., for use on roads
 
@@ -1553,21 +1783,29 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 (a) the person sells, at any premises or place and in the course of business, any personal mobility device, mobility scooter or motorised wheelchair; and
 
-[Act 38 of 2018 wef 01/02/2019]
-
 (b) at the time the personal mobility device or the mobility scooter or motorised wheelchair (as the case may be) is sold or offered for sale, the person knows that, or is reckless as to whether or not, the buyer intends whichever as follows that is applicable:
 
 (i) to ride the personal mobility device on a public road;
 
 (ii) to drive the mobility scooter or motorised wheelchair on a public road.
 
-[Act 38 of 2018 wef 01/02/2019]
-
 (2) A person who is guilty of an offence under this section shall be liable on conviction —
 
-(a) to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) where the person is an individual —
 
-(b) if the person is a repeat offender, to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 6 months or to both.
+(i) to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both; but
+
+(ii) where the individual is a repeat offender, to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 24 months or to both; or
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) in any other case —
+
+(i) to a fine not exceeding $20,000; but
+
+(ii) where the person is a repeat offender, to a fine not exceeding $40,000.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (3) In any proceedings for an offence under this section, it is not a defence for the accused to prove that warning notices were displayed in compliance with section 31 on the premises at which and when the sale took place.
 
@@ -1575,21 +1813,19 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 (5) To avoid doubt, this section is without prejudice to the generality of the term “abetment” under the Penal Code (Cap. 224).
 
-[Act 38 of 2018 wef 01/02/2019]
-
 ### Selling non‑compliant vehicles for use on public paths
 
 34\.—(1) Subject to this Act, a person shall be guilty of an offence if —
 
 (a) the person sells, at any premises or place and in the course of business, any personal mobility device, PAB or bicycle;
 
-(b) at the time the personal mobility device, PAB or bicycle is sold or offered for sale, the personal mobility device, PAB or bicycle is a non‑compliant personal mobility device, non‑compliant PAB or non‑compliant bicycle (as the case may be); and
+(b) at the time the personal mobility device, PAB or bicycle is sold or offered for sale, the personal mobility device, PAB or bicycle is a non‑compliant personal mobility device, non‑compliant PAB, non-compliant bicycle or uncertified vehicle (as the case may be); and
 
-[Act 38 of 2018 wef 02/01/2019]
+[Act 9 of 2020 wef 03/04/2020]
 
-(c) at the time the personal mobility device, PAB or bicycle is sold or offered for sale, the person knows that, or is reckless as to whether or not, the buyer intends to ride the personal mobility device, non‑compliant PAB or non‑compliant bicycle on a public path.
+(c) at the time the personal mobility device, PAB or bicycle is sold or offered for sale, the person knows that, or is reckless as to whether or not, the buyer intends to ride the personal mobility device, non‑compliant PAB, non-compliant bicycle or uncertified vehicle on a public path.
 
-[Act 38 of 2018 wef 02/01/2019]
+[Act 9 of 2020 wef 03/04/2020]
 
 (d) [Deleted by Act 38 of 2018 wef 02/01/2019]
 
@@ -1597,11 +1833,11 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 (a) the person sells, at any premises or place and in the course of business, any mobility scooter or motorised wheelchair;
 
-(b) at the time the mobility scooter or motorised wheelchair is sold or offered for sale, the mobility scooter or motorised wheelchair (as the case may be) is a non-compliant mobility vehicle; and
+(b) at the time the mobility scooter or motorised wheelchair is sold or offered for sale, the mobility scooter or motorised wheelchair (as the case may be) is a non-compliant mobility vehicle or an uncertified vehicle; and
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (c) at the time the mobility scooter or motorised wheelchair is sold or offered for sale, the person knows that, or is reckless as to whether or not, the buyer intends to drive the mobility scooter or motorised wheelchair (as the case may be) on a public path.
-
-[Act 38 of 2018 wef 01/02/2019]
 
 (2) In any proceedings for an offence under this section, it is not a defence for the accused to prove that warning notices were displayed in compliance with section 31 on the premises or place at which and when the sale took place.
 
@@ -1609,63 +1845,103 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 (a) a contract or arrangement has been entered into, or an understanding has been arrived at, for the non‑compliant personal mobility device, non-compliant mobility vehicle, non‑compliant PAB or non‑compliant bicycle (as the case may be) to be exported (whether or not the accused is a party to that contract, arrangement or understanding);
 
-[Act 38 of 2018 wef 01/02/2019]
-
 (b) the accused sells the non‑compliant personal mobility device, non-compliant mobility vehicle, non‑compliant PAB or non‑compliant bicycle in the course of, or for the purpose of, that personal mobility device, mobility scooter, motorised wheelchair, PAB or bicycle (as the case may be) being exported; and
 
-[Act 38 of 2018 wef 01/02/2019]
-
 (c) the accused does not offer that non‑compliant personal mobility device, non-compliant mobility vehicle, non‑compliant PAB or non‑compliant bicycle (as the case may be) for sale in Singapore and the sale is not a retail sale.
-
-[Act 38 of 2018 wef 01/02/2019]
 
 (4) It is also a defence to any prosecution for an offence under this section, if the accused proves, on a balance of probabilities, that —
 
 (a) the accused had received from the person to whom the non-compliant personal mobility device, non-compliant mobility vehicle, non-compliant PAB or non-compliant bicycle was sold, evidence purporting to show that the person does not intend to ride the personal mobility device, PAB or bicycle or drive the mobility scooter or motorised wheelchair (as the case may be) on any public path; and
 
-[Act 38 of 2018 wef 01/02/2019]
-
 (b) it was reasonable to, and the accused did accept, that evidence as correct.
 
-(5) Despite subsection (1), a person may in the prescribed circumstances sell, at any premises or place and in the course of business, an excepted non‑compliant vehicle knowing that, or reckless as to whether or not, the buyer intends to ride the excepted non‑compliant vehicle on a public path, provided that the prescribed conditions in relation to that vehicle are complied with.
+(4A) Subsections (3) and (4) apply in relation to an uncertified vehicle as they apply to a non-compliant personal mobility device; and any reference in those subsections to a non-compliant personal mobility device includes a reference to an uncertified vehicle.
 
-(6) A person who, without reasonable excuse, fails to comply with the conditions prescribed for the purposes of subsection (5) and in relation to the excepted non‑compliant vehicle concerned shall be guilty of an offence.
+[Act 9 of 2020 wef 03/04/2020]
+
+(5) Despite subsection (1), a person may in the prescribed circumstances sell, at any premises or place and in the course of business, an excepted non‑compliant vehicle or excepted uncertified vehicle knowing that, or reckless as to whether or not, the buyer intends to ride the excepted non‑compliant vehicle or excepted uncertified vehicle on a public path, provided that the prescribed conditions in relation to that vehicle are complied with.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(6) A person who, without reasonable excuse, fails to comply with the conditions prescribed for the purposes of subsection (5) and in relation to the excepted non‑compliant vehicle or excepted uncertified vehicle concerned shall be guilty of an offence.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (7) A person who is guilty of an offence under this section shall be liable on conviction —
 
-(a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) where the person is an individual —
 
-(b) if the person is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+(i) to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 24 months or to both; but
+
+(ii) where the individual is a repeat offender, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 48 months or to both; or
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) in any other case —
+
+(i) to a fine not exceeding $40,000; but
+
+(ii) where the person is a repeat offender, to a fine not exceeding $80,000.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (8) In this section —
 
-(a) a reference to an excepted non‑compliant vehicle is a reference to a non‑compliant bicycle, a non‑compliant PAB, a non-compliant personal mobility device or a non-compliant mobility vehicle of a prescribed model or description; and
+(a) a reference to an excepted non‑compliant vehicle is a reference to a non‑compliant bicycle, a non‑compliant PAB, a non-compliant personal mobility device or a non-compliant mobility vehicle of a prescribed model or description;
 
-[Act 38 of 2018 wef 01/02/2019]
+[Act 9 of 2020 wef 03/04/2020]
+
+(aa) reference to an excepted uncertified vehicle is a reference to an uncertified vehicle of a prescribed model or description; and
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (b) “sell” includes causing or authorising a person to sell.
 
 (9) To avoid doubt, this section is without prejudice to the generality of the term “abetment” under the Penal Code (Cap. 224).
 
+(10) In relation to an offence under subsection (1), (1A) or (6), “repeat offender” extends to include a person who —
+
+(a) is convicted, or found guilty, of such an offence (called the current offence); and
+
+(b) has been convicted or found guilty, on at least one other earlier occasion within the period of 5 years immediately before the date on which the person is convicted or found guilty of the current offence, of —
+
+(i) the same offence; or
+
+(ii) an offence under subsection (1), (1A) or (6) as in force immediately before the date of commencement of section 17 of the Active Mobility (Amendment) Act 2020.
+
+[Act 9 of 2020 wef 03/04/2020]
+
 ### Altering personal mobility device, etc., to be non‑compliant
 
 35\.—(1) A person shall be guilty of an offence if —
 
-(a) the person, at any premises or place and in the course of business, alters (whether in the course of repair or otherwise) a personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair belonging to another person (called in this section the owner) so as to render it a non-compliant personal mobility device, non-compliant PAB, non-compliant bicycle or non-compliant mobility vehicle; and
+(a) the person, at any premises or place, alters (whether in the course of repair or otherwise) a personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair belonging to the person or to another person so as to render it a non-compliant personal mobility device, non-compliant PAB, non-compliant bicycle or non-compliant mobility vehicle; and
 
-[Act 38 of 2018 wef 01/02/2019]
+[Act 9 of 2020 wef 03/04/2020]
 
-(b) at the time the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair (as the case may be) is altered, the person knows that, or is reckless as to whether or not, the owner of the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair intends to ride the altered personal mobility device, PAB or bicycle or to drive the altered mobility scooter or motorised wheelchair (as the case may be) on a public path.
+(b) at the time the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair (as the case may be) is altered, the person knows that, or is reckless as to whether or not, the altered personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair is likely to be ridden or driven (as the case may be) on a public path.
 
-[Act 38 of 2018 wef 01/02/2019]
+[Act 9 of 2020 wef 03/04/2020]
 
 (c) [Deleted by Act 38 of 2018 wef 01/02/2019]
 
 (2) A person who is guilty of an offence under this section shall be liable on conviction —
 
-(a) to a fine not exceeding $5,000 or to imprisonment for a term not exceeding 3 months or to both; and
+(a) where the person is an individual —
 
-(b) if the person is a repeat offender, to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 6 months or to both.
+(i) to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 24 months or to both; but
+
+(ii) where the individual is a repeat offender, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 48 months or to both; or
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(b) in any other case —
+
+(i) to a fine not exceeding $40,000; but
+
+(ii) where the person is a repeat offender, to a fine not exceeding $80,000.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (3) In any proceedings for an offence under this section, it is not a defence for the accused to prove that warning notices were displayed in compliance with section 31 on the premises or place at which and when the alteration took place.
 
@@ -1673,19 +1949,105 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 (a) a contract or arrangement has been entered into, or an understanding has been arrived at, for the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair to be exported (whether or not the accused is a party to that contract, arrangement or understanding);
 
-[Act 38 of 2018 wef 01/02/2019]
-
 (b) the accused alters the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair in the course of, or for the purpose of, the altered personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair (as the case may be) being exported; and
-
-[Act 38 of 2018 wef 01/02/2019]
 
 (c) the accused does not offer that non‑compliant personal mobility device, non‑compliant PAB, non-compliant bicycle or non-compliant mobility vehicle (as the case may be) for sale in Singapore and the sale is not a retail sale to another.
 
-[Act 38 of 2018 wef 01/02/2019]
-
 (5) In this section, “alter” includes causing or authorising a person to alter.
 
+(5A) In relation to an offence under subsection (2), “repeat offender” extends to include a person who —
+
+(a) is convicted, or found guilty, of such an offence (called the current offence); and
+
+(b) has been convicted or found guilty, on at least one other earlier occasion within the period of 5 years immediately before the date on which the person is convicted or found guilty of the current offence, of —
+
+(i) the same offence; or
+
+(ii) an offence under subsection (2) as in force immediately before the date of commencement of section 18 of the Active Mobility (Amendment) Act 2020.
+
+[Act 9 of 2020 wef 03/04/2020]
+
 (6) To avoid doubt, this section is without prejudice to the generality of the term “abetment” under the Penal Code (Cap. 224).
+
+Division 2 —
+
+Mandatory testing
+
+### Order by Minister requiring inspection
+
+35A\.—(1) The Minister may, by order in theGazette, provide that with effect from a date specified in the order, an inspection is or periodic inspections are required for or in respect of every bicycle, personal mobility device, motorised wheelchair or mobility scooter in a class or description of bicycle, personal mobility device, motorised wheelchair or mobility scooter specified in the order, so as to maintain compliance with the prescribed requirements relating to the construction and condition of and registration marks applicable to the bicycle, personal mobility device, motorised wheelchair or mobility scooter, as the case may be.
+
+(2) An order under subsection (1) must specify —
+
+(a) the class or description of bicycle, personal mobility device, motorised wheelchair or mobility scooter in respect of an inspection is required under this Division; and
+
+(b) whether that inspection is periodic and if so, the intervals that the inspection must be carried out.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+### Inspections by designated examiner
+
+35B\.—(1) An inspection for the purposes of an order under section 35A(1) must be carried out by the Authority or a person authorised by the Authority (called in this Act a designated examiner).
+
+(2) A designated examiner must —
+
+(a) conduct an examination or assessment of a vehicle that is the subject of an order under section 35A(1) in the prescribed manner;
+
+(b) on completion of the examination or assessment, prepare and sign a report of the result of the examination or assessment; and
+
+(c) give a copy of the report to the Authority without delay.
+
+(3) A designated examiner commits an offence if he or she intentionally prepares or signs a report of the result of an examination or assessment —
+
+(a) relating to a bicycle, personal mobility device, motorised wheelchair or mobility scooter that the designated examiner did not examine or assess; or
+
+(b) that is calculated to deceive.
+
+(4) A designated examiner who is guilty of an offence under subsection (3) shall be liable on conviction —
+
+(a) to a fine not exceeding $1,000 or to imprisonment for a term not exceeding 3 months or to both; but
+
+(b) where the designated examiner is a repeat offender, to a fine not exceeding $2,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+### Certification of inspection
+
+35C\.—(1) The Authority may issue to the owner of a bicycle, personal mobility device, motorised wheelchair or mobility scooter to which a report under section 35B(2)(b) relates, a certificate indicating that the bicycle, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) has been inspected under this Division where —
+
+(a) the Authority receives from a designated examiner a report mentioned in section 35B(2)(b) in relation to that bicycle, personal mobility device, motorised wheelchair or mobility scooter;
+
+(b) the report states that the bicycle, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) is in compliance or continues to be in compliance with the prescribed requirements relating to its construction and condition and registration marks; and
+
+(c) the Authority is satisfied that the designated examiner had carried out the examination and assessment of the bicycle, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) in accordance with the regulations.
+
+(2) A certificate issued under subsection (1) with respect to a bicycle, personal mobility device, motorised wheelchair or mobility scooter is in force in respect of that bicycle, personal mobility device, motorised wheelchair or mobility scooter until the happening of the earlier of the following:
+
+(a) the certificate is cancelled under subsection (3);
+
+(b) the date of expiry specified in the certificate, if any.
+
+(3) The Authority may cancel any certificate issued under subsection (1) with respect to a bicycle, personal mobility device, motorised wheelchair or mobility scooter if the Authority —
+
+(a) is satisfied that —
+
+(i) the bicycle, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) has become wholly unfit for further use;
+
+(ii) the bicycle, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) has been forfeited pursuant to this Act or any written law;
+
+(iii) the bicycle, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) is unclaimed for the purposes of section 53 and is disposed of in accordance with that section;
+
+(iv) the bicycle, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) is or has become a non-compliant personal mobility device, a non-compliant bicycle or a non-compliant mobility vehicle; or
+
+(v) the person given an order under section 47(1)(b), in relation to the bicycle, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) refuses or neglects to comply with the order given to the person, whether or not the person is convicted of an offence; or
+
+(b) becomes aware of a circumstance that would have required or permitted the Authority to refuse to issue a certificate under subsection (1) with respect to the bicycle, personal mobility device, motorised wheelchair or mobility scooter (as the case may be) had the Authority been aware of the circumstance immediately before issuing the certificate.
+
+[Act 9 of 2020 wef 03/04/2020]
+
+Division 3 —
+
+Presumptions and evidence
 
 ### Presumptions for this Part
 
@@ -1697,15 +2059,19 @@ DEALING IN PERSONAL MOBILITY DEVICES, ETC.
 
 (c) that at the time or soon after the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair (as the case may be) ceased to be in the accused’s possession, the personal mobility device, PAB, bicycle, mobility scooter or motorised wheelchair is non-compliant.
 
-[Act 38 of 2018 wef 01/02/2019]
-
 (2) If in any proceedings for an offence under this Part it is proved that a person sold, or offered or displayed for sale, more than 4 personal mobility devices, power‑assisted bicycles or bicycles, or mobility scooters or motorised wheelchairs within a 12‑month period to any other person or persons, it is presumed in the absence of evidence to the contrary that the person was selling personal mobility devices, power‑assisted bicycles or bicycles, or mobility scooters or motorised wheelchairs (as the case may be) in the course of business during that period.
-
-[Act 38 of 2018 wef 01/02/2019]
 
 (3) However, nothing in subsection (2) precludes a person who sells, or offers or displays for sale, 4 or fewer personal mobility devices, power‑assisted bicycles or bicycles, or mobility scooters or motorised wheelchairs within a 12‑month period to any other person or persons from being found to be selling such devices or bicycles, or such mobility scooters or motorised wheelchairs (as the case may be) in the course of business.
 
-[Act 38 of 2018 wef 01/02/2019]
+### Presumption concerning vehicle owner for section 35 offence
+
+36A\. Without limiting section 36, in proceedings for an offence under section 35, it is presumed, until the contrary is proved, that the person who is the owner of the vehicle in respect of which the offence is committed had altered or caused to be altered (whether in the course of repair or otherwise) the vehicle so as to render it a non-compliant personal mobility device, non-compliant PAB, non-compliant bicycle or non-compliant mobility vehicle (as the case may be) if it is proved that —
+
+(a) a certificate was issued under section 35C in respect of the vehicle; and
+
+(b) the person was the owner of the vehicle when the certificate under section 35C was issued.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ## PART 5
 
@@ -1821,9 +2187,7 @@ and to require such an individual to make and sign a declaration of the truth of
 
 (6) The powers that a public path warden or a volunteer public path warden may be authorised under this Act to exercise may be exercised only to the extent authorised by the Authority under this section.
 
-(7) To avoid doubt, in this section, a reference to an offence under Part 3 or 3A includes a reference to an offence under any regulations made for the purposes of Part 3 or 3A.
-
-[Act 38 of 2018 wef 02/01/2019]
+(7) [Deleted by Act 9 of 2020 wef 03/04/2020]
 
 ### Identification cards and equipment
 
@@ -1861,7 +2225,9 @@ Enforcement powers
 
 (2) An authorised officer may, at any reasonable time, do any of the following, without involving any search of any property or individual:
 
-(a) enter and inspect any premises that the officer believes on reasonable grounds are used for the carrying on of a business or a trade (even if also used as a residence) of selling, or offering or exposing for sale, by retail, or altering any bicycle, PAB or personal mobility device, and any vehicle at those premises;
+(a) enter and inspect any premises that the officer believes on reasonable grounds are used for the carrying on of a business or a trade (even if also used as a residence) of selling, or offering or exposing for sale, by retail any bicycle, PAB, personal mobility device, mobility scooter or motorised wheelchair, or used for altering any bicycle, PAB, personal mobility device, mobility scooter or motorised wheelchair, and any vehicle at those premises;
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (b) photograph or film, or make a record or sketches of, any part of the premises, or any vehicle or parts of a vehicle or accessories or other thing at the premises;
 
@@ -1982,6 +2348,10 @@ the authorised officer, outsourced enforcement officer or public path warden may
 (b) order the owner or rider of the vehicle to deliver the vehicle (in the state on the date of the order) for an inspection by such person and at such time and place as the authorised officer, outsourced enforcement officer or public path warden may specify.
 
 [Act 38 of 2018 wef 02/01/2019]
+
+(1A) However, only an authorised officer may pursuant to an order under section 35A(1) give an order under subsection (1)(b) requiring a vehicle to be delivered for an inspection by a designated examiner.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (2) Subject to this Act, an authorised officer, an outsourced enforcement officer or a public path warden may require an owner or a rider of any vehicle —
 
@@ -2245,7 +2615,9 @@ in the discharge of his or her duties under this Act shall be guilty of an offen
 
 (d) the document is furnished, or the statement is made or the information is given, for or in connection with —
 
-(i) an application in connection with the registration of a registrable personal mobility device under Part 3A; or
+(i) an application under this Act; or
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (ii) a question or request by the Authority, an authorised officer or outsourced enforcement officer, a police officer, public path warden or volunteer public path warden under this Act,
 
@@ -2287,9 +2659,7 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 if the owner fails to give the information required of the owner under section 48 about that offence and the owner knew or ought reasonably to have known the information required.
 
-(2) To avoid doubt, a reference in subsection (1) to an offence under Part 3 or 3A includes a reference to an offence under any regulations made for the purposes of Part 3 or 3A, as the case may be.
-
-[Act 38 of 2018 wef 02/01/2019]
+(2) [Deleted by Act 9 of 2020 wef 03/04/2020]
 
 ### Offences by corporations
 
@@ -2577,9 +2947,31 @@ MISCELLANEOUS
 
 [Act 38 of 2018 wef 02/01/2019]
 
-(m) prohibitions or restrictions against forging, tampering or unauthorised alteration of any registration mark or identification mark required by this Act to be fixed or displayed on a registrable personal mobility device.
+(m) prohibitions or restrictions against forging, tampering or unauthorised alteration of any registration mark or identification mark required by this Act to be fixed or displayed on a registrable personal mobility device;
 
 [Act 38 of 2018 wef 02/01/2019]
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(n) the nature of tests of competence to drive or ride on public paths test-needed-to-drive vehicles, the administration of the tests of competence, and evidence of the result of attending and successfully completing any such test;
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(o) the conduct of examinations and assessments of vehicles under Division 2 of Part 4 and the process of applying for the issue of a certificate under section 35C, including —
+
+(i) the specification of standards of design, construction, manufacture, maintenance, processing, testing, supply, approval, and identification of such vehicle and products used in connection with these vehicles;
+
+(ii) the tests to be conducted;
+
+(iii) the format of reports of examinations and assessments by designated examiners, including the specification of information required in all reports of designated examiners for the purposes of Division 2 of Part 4; and
+
+(iv) the keeping of records for, and provision of information to, the Authority of examinations and assessments carried out for the purposes of Division 2 of Part 4;
+
+[Act 9 of 2020 wef 03/04/2020]
+
+(p) the records that are to be kept by any person to whom section 58A applies, about employees and outworkers whom the person engages or employs to drive or ride on any public path, and the insurance policies relating to these employees or outworkers which are required by that section.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 (3) Regulations made under this section may —
 
