@@ -810,6 +810,22 @@ REGISTRATION AND LICENSING OF VEHICLES
 
 [Act 10 of 2017 wef 20/06/2017]
 
+(7AA) Despite subsection (7), where the vehicle involved in an offence is a power-assisted bicycle, then a person who is guilty of an offence under subsection (5) or (6) shall be liable on conviction —
+
+(a) where the person is an individual —
+
+(i) to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 24 months or to both; but
+
+(ii) where the individual is a repeat offender, to a fine not exceeding $40,000 or to imprisonment for a term not exceeding 48 months or to both; or
+
+(b) in any other case —
+
+(i) to a fine not exceeding $40,000; but
+
+(ii) where the person is a repeat offender, to a fine not exceeding $80,000.
+
+[Act 9 of 2020 wef 03/04/2020]
+
 (7A) Where in any proceedings relating to an offence under subsection (6), it is proved to the satisfaction of the court that a vehicle or trailer is used or caused or permitted to be used in contravention of this section, the court may, upon the application of the Public Prosecutor, make an order for the vehicle or trailer to be detained for a period not exceeding 3 months (referred to in this section as the detention period) by the Registrar or an authorised officer.
 
 [Act 37 of 2012 wef 01/01/2013]
@@ -880,9 +896,19 @@ and the surplus, if any, shall be paid to the person in whose name the vehicle o
 
 “authorised officer” means any employee of the Authority who is duly authorised by the Registrar in writing to act under this section;
 
-“non‑compliant vehicle or trailer” means a vehicle or trailer which does not comply with the rules as to construction, weight and equipment applicable to the class or description of vehicles to which the vehicle or trailer belongs.
+“non‑compliant vehicle or trailer” means a vehicle or trailer which does not comply with the rules as to construction, weight and equipment applicable to the class or description of vehicles to which the vehicle or trailer belongs;
 
 [Act 3 of 2017 wef 20/06/2017]
+
+[Act 9 of 2020 wef 03/04/2020]
+
+“repeat offender”, for an offence under subsection (5) or (6) involving a power-assisted bicycle read with subsection (7AA), means a person who —
+
+(a) is convicted, or found guilty, of such an offence (called the current offence); and
+
+(b) has been convicted or found guilty (whether before, on or after the date of commencement of section 28(1) of the Active Mobility (Amendment) Act 2020) of an offence under subsection (5) or (6) (whether involving a power-assisted bicycle) on at least one other earlier occasion within the period of 5 years immediately before the date on which the person is convicted or found guilty of the current offence.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ### No riding of personal mobility devices, etc., on roads
 
@@ -2182,7 +2208,13 @@ or any one or more of these facts was or were such as would be necessary to esta
 
 [Act 7 of 2012 wef 01/09/2012]
 
-(2) [Deleted by Act 38 of 2018 wef 03/06/2019]
+(2) Rules made under this section for the purposes of subsection (1)(da) or (db) may provide that any contravention of any provision of the rules involving a power-assisted bicycle shall be an offence and the offender may be liable on conviction —
+
+(a) where the person is an individual — to a fine not exceeding $20,000 or to imprisonment for a term not exceeding 24 months or to both; or
+
+(b) in any other case — to a fine not exceeding $40,000.
+
+[Act 9 of 2020 wef 03/04/2020]
 
 ## PART IA
 
@@ -7402,6 +7434,10 @@ This Legislative History is provided for the convenience of users of the Road Tr
 |||(Bill No. 6/2019)|
 ||Date of Second and Third Readings|6 May 2019|
 ||Date of commencement|1 January 2020|
+|87.|**Act 9 of 2020—Active Mobility (Amendment) Act 2020**|
+||Date of First Reading|6 January 2020 (Bill No. 3/2020 published on 6 January 2020)|
+||Date of Second and Third Readings|4 February 2020|
+||Date of commencement|3 April 2020|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
