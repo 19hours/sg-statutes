@@ -140,6 +140,8 @@ Date of Commencement: 27 March 2020 Part 4
 
 Date of Commencement: 7 April 2020 Section 2, Part 5 and section 34(1) and (2)
 
+Date of Commencement: 8 April 2020 Section 34(3) to (9) and 35
+
 An Act to provide temporary measures, and deal with other matters, relating to the COVID‑19 pandemic, and to make a consequential amendment to the Property Tax Act (Chapter 254 of the 2005 Revised Edition).
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -1228,11 +1230,7 @@ COVID‑19 CONTROL ORDERS
 
 (3) A control order remains in force until its expiry, its revocation or the date subsection (7) ceases to be in force, whichever occurs first.
 
-(4) A control order and any amendment thereof must be presented to Parliament as soon as possible after publication in the
-
-Gazette
-
-.
+(4) A control order and any amendment thereof must be presented to Parliament as soon as possible after publication in theGazette.
 
 (5) If a resolution is passed by Parliament annulling a control order or any part of it, or any amendment thereof, as from a specified date, the control order or that part or amendment of it ceases to have effect as from that date, but without affecting anything previously done under that control order or part.
 
@@ -1254,15 +1252,7 @@ Gazette
 
 (a) a police officer;
 
-(b) a Health Officer appointed under section 4(1)(
-
-a
-
-) or (
-
-b
-
-) of the Infectious Diseases Act;
+(b) a Health Officer appointed under section 4(1)(a) or (b) of the Infectious Diseases Act;
 
 (c) a public officer;
 
@@ -1270,11 +1260,7 @@ b
 
 (e) an auxiliary police officer;
 
-(f) an employee of a prescribed institution under the Infectious Diseases Act, except for the purposes of subsection (2)(
-
-b
-
-).
+(f) an employee of a prescribed institution under the Infectious Diseases Act, except for the purposes of subsection (2)(b).
 
 (2) Without affecting an offence under section 34(7), an enforcement officer may, for the purposes of enforcing compliance with a control order —
 
@@ -1302,59 +1288,19 @@ b
 
 (a) to a group of individuals, it is deemed to have been given to each member of the group if the oral direction is made in a manner which is likely to be audible to all the members of the group or as many of them as reasonably practicable; and
 
-(b) to an officer, an employee, a manager, a partner or an agent of a person carrying on the business or undertaking, or working, at the premises or facility in subsection (2)(
-
-b
-
-), it is deemed to have been given to the person carrying on that business or undertaking at the premises or facility.
+(b) to an officer, an employee, a manager, a partner or an agent of a person carrying on the business or undertaking, or working, at the premises or facility in subsection (2)(b), it is deemed to have been given to the person carrying on that business or undertaking at the premises or facility.
 
 (5) An enforcement officer has all the powers of a Health Officer authorised under sections 55A, 55B and 57 of the Infectious Diseases Act for the purposes of ascertaining whether the control order is being complied with or investigating an offence under this Part, as the Health Officer has in relation to an offence under that Act.
 
-(6) A police officer, or an enforcement officer appointed under subsection (1)(
-
-b
-
-), (
-
-c
-
-), (
-
-d
-
-) or (
-
-e
-
-) authorised in writing by the Minister, may arrest without warrant any person committing or who the police officer or enforcement officer has reason to believe has committed any offence under subsection (11) or section 34(7), and in so doing, the enforcement officer has the same powers as a Health Officer authorised under section 56 of the Infectious Diseases Act in relation to an arrest without warrant under that Act.
+(6) A police officer, or an enforcement officer appointed under subsection (1)(b), (c), (d) or (e) authorised in writing by the Minister, may arrest without warrant any person committing or who the police officer or enforcement officer has reason to believe has committed any offence under subsection (11) or section 34(7), and in so doing, the enforcement officer has the same powers as a Health Officer authorised under section 56 of the Infectious Diseases Act in relation to an arrest without warrant under that Act.
 
 (7) An enforcement officer who, in the course of his or her duties under this Part, exercises any power as such, is treated as a public servant for the purposes of the Penal Code when exercising such power.
 
 (8) No liability shall lie against an enforcement officer with respect to anything done or omitted to be done in good faith and with reasonable care in the discharge or purported discharge of the enforcement officer’s functions and duties under this Part.
 
-(9) An individual commits an offence if he or she, without reasonable excuse, refuses or fails to comply with a direction of an enforcement officer given to the individual under subsection (2)(
+(9) An individual commits an offence if he or she, without reasonable excuse, refuses or fails to comply with a direction of an enforcement officer given to the individual under subsection (2)(a) or (b) or deemed to be given under subsection (4)(a).
 
-a
-
-) or (
-
-b
-
-) or deemed to be given under subsection (4)(
-
-a
-
-).
-
-(10) A body corporate, unincorporated association or partnership commits an offence if it, without reasonable excuse, refuses or fails to comply with a direction of an enforcement officer given to it under subsection (2)(
-
-b
-
-) or deemed to be given under subsection (4)(
-
-b
-
-).
+(10) A body corporate, unincorporated association or partnership commits an offence if it, without reasonable excuse, refuses or fails to comply with a direction of an enforcement officer given to it under subsection (2)(b) or deemed to be given under subsection (4)(b).
 
 (11) A person who commits an offence under subsection (9) or (10) shall be liable on conviction —
 
