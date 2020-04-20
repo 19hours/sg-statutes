@@ -142,6 +142,8 @@ Date of Commencement: 7 April 2020 Section 2, Part 5 and section 34(1) and (2)
 
 Date of Commencement: 8 April 2020 Section 34(3) to (9) and 35
 
+Date of Commencement: 20 April 2020 Section 3, Parts 2 and 3 and the Schedule
+
 An Act to provide temporary measures, and deal with other matters, relating to the COVID‑19 pandemic, and to make a consequential amendment to the Property Tax Act (Chapter 254 of the 2005 Revised Edition).
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
@@ -228,17 +230,9 @@ PRELIMINARY
 
 ### Prescribed period
 
-3\.—(1) The Minister may, by order in the
+3\.—(1) The Minister may, by order in theGazette, prescribe a period not exceeding 6 months for the purposes of this Part and Parts 2 and 3.
 
-Gazette
-
-, prescribe a period not exceeding 6 months for the purposes of this Part and Parts 2 and 3.
-
-(2) The Minister may, by order in the
-
-Gazette
-
-, extend or shorten the prescribed period for or by a period determined by the Minister, and the period may be extended or shortened more than once.
+(2) The Minister may, by order in theGazette, extend or shorten the prescribed period for or by a period determined by the Minister, and the period may be extended or shortened more than once.
 
 (3) An order mentioned in subsection (2) may specify that the extension of the prescribed period does not apply in relation to any paragraph of section 5(3), and the provisions of Part 2 apply during such an extension as if that paragraph were omitted.
 
@@ -1339,6 +1333,10 @@ Scheduled contracts
 (g) a construction contract or supply contract;
 
 (h) a lease or licence of non‑residential immovable property.
+
+1A. Paragraph 1 excludes a contract in relation to which section 4 of the International Interests in Aircraft Equipment Act (Cap. 144B) applies.
+
+[S 301/2020 wef 20/04/2020]
 
 2. In this Schedule —
 
