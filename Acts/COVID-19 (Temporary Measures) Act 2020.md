@@ -144,6 +144,8 @@ Date of Commencement: 8 April 2020 Section 34(3) to (9) and 35
 
 Date of Commencement: 20 April 2020 Section 3, Parts 2 and 3 and the Schedule
 
+Date of Commencement: 22 April 2020 Part 6
+
 An Act to provide temporary measures, and deal with other matters, relating to the COVID‑19 pandemic, and to make a consequential amendment to the Property Tax Act (Chapter 254 of the 2005 Revised Edition).
 
 Be it enacted by the President with the advice and consent of the Parliament of Singapore, as follows:
