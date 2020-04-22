@@ -978,9 +978,11 @@ APPEALS
 
 ### Valuation Review Board
 
-23\.—(1) For the purpose of hearing appeals from the decisions of the Chief Assessor of which notice has been given under section 20A, or of the Comptroller of which notice has been given under section 22 or 38, in the manner provided in this Act, there shall be a Valuation Review Board consisting of not more than 15 members appointed from time to time by the Minister.
+23\.—(1) For the purpose of hearing appeals from the decisions of the Chief Assessor of which notice has been given under section 20A, or of the Comptroller of which notice has been given under section 22 or 38, in the manner provided in this Act, there shall be a Valuation Review Board consisting of not more than 30 members appointed from time to time by the Minister.
 
 [25/63; 24/73; 4/87; 46/96; 33/2002; 59/2004]
+
+[Act 14 of 2020 wef 22/04/2020]
 
 (2) No person shall be eligible to be appointed or to remain a member of the Board who —
 
@@ -2324,6 +2326,11 @@ This Legislative History is provided for the convenience of users of the Propert
 ||Date of First Reading|8 January 2018 (Bill No. 2/2018 published on 8 January 2018)|
 ||Date of Second and Third Readings|5 February 2018|
 ||Date of commencement|31 August 2018|
+|27.|**Act 14 of 2020—COVID-19 (Temporary Measures) Act 2020**|
+||Date of First Reading|7 April 2020|
+|||(Bill No. 19/2020)|
+||Date of Second and Third Readings|7 April 2020|
+||Date of commencement|22 April 2020|
 ## COMPARATIVE TABLE
 
 Property Tax Act
