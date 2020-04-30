@@ -84,7 +84,7 @@
 
 - [32 Power to enter upon premises adjacent to works](#Power-to-enter-upon-premises-adjacent-to-works)
 
-- [33 Removal of obstruction over existing water main or connecting pipe](#Removal-of-obstruction-over-existing-water-main-or-connecting-pipe)
+- [33 Removal of obstruction over existing water main, connecting pipe or meter](#Removal-of-obstruction-over-existing-water-main-connecting-pipe-or-meter)
 
 - [34 Notice of obstruction of pipe or other apparatus to be given to Board](#Notice-of-obstruction-of-pipe-or-other-apparatus-to-be-given-to-Board)
 
@@ -192,6 +192,8 @@
 
 - [45 Maintenance of water service installation](#Maintenance-of-water-service-installation)
 
+- [45A Security of water service installation having certain storage tank](#Security-of-water-service-installation-having-certain-storage-tank)
+
 - [46 Duties of person laying pipes](#Duties-of-person-laying-pipes)
 
 - [47 Damage to property of Board](#Damage-to-property-of-Board)
@@ -260,6 +262,10 @@
 
 - [72 Regulations](#Regulations)
 
+- [72A Incorporation by reference](#Incorporation-by-reference)
+
+- [72B Advisory guidelines](#Advisory-guidelines)
+
 - [73 Transitional provisions](#Transitional-provisions)
 
 - [74 References in other written law](#References-in-other-written-law)
@@ -301,6 +307,18 @@ PRELIMINARY
 ### Interpretation
 
 2\. In this Act, unless the context otherwise requires —
+
+“AMI meter” or “Advanced Metering Infrastructure meter” means —
+
+(a) a meter that can transmit information to the Board by means of telecommunications; and
+
+(b) a meter, and a device which is associated with or ancillary to that meter and which —
+
+(i) is capable of converting mechanical readings to digital data, where applicable; and
+
+(ii) enables information to be transmitted to the Board, or received by the meter, by means of telecommunications;
+
+[Act 13 of 2020 wef 30/04/2020]
 
 “apparatus” means any water apparatus, equipment or accessory and includes all apparatus, devices and fittings in which pipes are used or of which they form a part;
 
@@ -392,9 +410,13 @@ PRELIMINARY
 
 “member” means any member of the Board;
 
-“meter” means any appliance or device to measure, ascertain or regulate the amount of water taken from a supply or conveyance of water to any place;
+“meter” —
 
-[Act 11 of 2018 wef 01/04/2018]
+(a) means any appliance or device to measure, ascertain or regulate the amount of water taken from a supply or conveyance of water to any place; and
+
+(b) includes an AMI meter;
+
+[Act 13 of 2020 wef 30/04/2020]
 
 “occupier” means the person in occupation of any premises and includes the person having the charge, management or control of the premises either on his own account or as agent of another person, but does not include a lodger;
 
@@ -443,6 +465,10 @@ PRELIMINARY
 (b) any road, footway or passage, open court or open alley, used or intended to be used as a means to access to 2 or more holdings, whether the public has a right of way thereover or not; and
 
 (c) all channels, sewers, drains, tunnels, ditches and reserves at the side of a street;
+
+“telecommunications” has the meaning given by section 2 of the Telecommunications Act (Cap. 323);
+
+[Act 13 of 2020 wef 30/04/2020]
 
 “ventilating pipe” means a pipe provided to limit the pressure fluctuations in any discharge pipe;
 
@@ -1018,15 +1044,21 @@ of water that is not for human consumption to any premises, where the Board is o
 
 (a) to lay or install under, over, in, on or through the premises, such mains, pipes, water installations or water service installations as the Board considers necessary for the supply of water to those or other premises;
 
+(aa) to lay or install under, over, in, on or through the premises such meters as the Board considers necessary to measure, ascertain or regulate the supply of water to those or other premises;
+
+[Act 13 of 2020 wef 30/04/2020]
+
 (b) to inspect, maintain, adjust, repair or alter —
 
-(i) any main, pipe, water installation or water service installation mentioned in paragraph (a); and
+(i) any main, pipe, water installation or water service installation mentioned in paragraph (a) or any meter mentioned in paragraph (aa); and
+
+[Act 13 of 2020 wef 30/04/2020]
 
 (ii) any other main, water installation or pipe that is acquired by the Board and immediately leased back to another person, and is used for the supply of water to those or other premises;
 
 [Act 11 of 2018 wef 01/04/2018]
 
-(c) to carry out any works requisite for, or incidental to, the purposes of any works falling within paragraph (a) or (b), including —
+(c) to carry out any works requisite for, or incidental to, the purposes of any works falling within paragraph (a), (aa) or (b), including —
 
 (i) excavating any premises, sewer or drain;
 
@@ -1035,6 +1067,8 @@ of water that is not for human consumption to any premises, where the Board is o
 (iii) removing or using all earth and materials in or under any premises, sewer or drain; and
 
 (iv) erecting, placing or installing any equipment or apparatus in or under any premises.
+
+[Act 13 of 2020 wef 30/04/2020]
 
 (2) [Deleted by Act 12 of 2015 wef 08/05/2015]
 
@@ -1174,11 +1208,15 @@ is not paid within the time allowed for such payment to be made, a notice may be
 
 31\.—(1) The Board may by its employees, agents or contractors, at all reasonable hours in the day or night, or at such other time as may be agreed with the owner or occupier of the premises, enter any premises to which water is or has been supplied by the Board for all or any of the following purposes:
 
-(a) to examine and if necessary repair, renew or replace the pipes, meters, fittings, works or apparatus for the supply of water belonging to or which are supplied from mains belonging to the Board;
+(a) to examine and if necessary repair, renew or replace the pipes, meters, fittings, works or apparatus for, or in respect of, the supply of water belonging to or which are supplied from mains belonging to the Board;
+
+[Act 13 of 2020 wef 30/04/2020]
 
 (b) to ascertain the quantity of water consumed or supplied;
 
-(c) when the Board is authorised to discontinue the supply of water from any premises, to remove any pipe, fitting, work or apparatus belonging to the Board;
+(c) when the Board is authorised to discontinue the supply of water from any premises, to remove any pipe, fitting, meter, work or apparatus belonging to the Board;
+
+[Act 13 of 2020 wef 30/04/2020]
 
 (d) to repair any damage caused by such entry, inspection or removal.
 
@@ -1220,9 +1258,9 @@ without making any previous payment, tender or deposit.
 
 [Act 12 of 2015 wef 08/05/2015]
 
-### Removal of obstruction over existing water main or connecting pipe
+### Removal of obstruction over existing water main, connecting pipe or meter
 
-33\.—(1) Where the Board is of the opinion that any structure, object or any accumulation of any substance that exists above or in the vicinity of any water main or connecting pipe belonging to the Board hinders or obstructs or is likely to hinder or obstruct access to such water main or connecting pipe, the Board may, by notice in writing direct —
+33\.—(1) Where the Board is of the opinion that any structure, object or any accumulation of any substance that exists above or in the vicinity of any water main, connecting pipe or meter belonging to the Board hinders or obstructs or is likely to hinder or obstruct access to such water main, connecting pipe or meter, the Board may, by notice in writing direct —
 
 (a) the person to whom the structure, object or accumulation of substance belongs;
 
@@ -1231,6 +1269,8 @@ without making any previous payment, tender or deposit.
 (c) the owner or occupier of the premises on which the structure, object or accumulation of substance exists,
 
 to remove the structure, object or accumulation of substance within such time as may be specified in the notice.
+
+[Act 13 of 2020 wef 30/04/2020]
 
 [Act 11 of 2018 wef 01/04/2018]
 
@@ -1242,9 +1282,13 @@ to remove the structure, object or accumulation of substance within such time as
 
 (i) take all steps as it thinks necessary to secure the removal of the structure, object or accumulation of substance; or
 
-(ii) relocate or divert the water main or connecting pipe,
+(ii) relocate or divert the water main, connecting pipe or meter,
+
+[Act 13 of 2020 wef 30/04/2020]
 
 and recover any costs reasonably incurred by it from such person.
+
+[Act 13 of 2020 wef 30/04/2020]
 
 ### Notice of obstruction of pipe or other apparatus to be given to Board
 
@@ -2603,13 +2647,15 @@ OFFENCES
 
 45\.—(1) Any person responsible for the maintenance of any water service installation shall ensure that the water service installation is properly maintained, kept in a fit and safe condition, and free from any defect.
 
-(2) Any person responsible for the maintenance of any water service installation in any residential, commercial or industrial premises having any water storage cistern shall, whenever the Board so requires, engage a professional engineer to inspect and certify that —
+(2) Any person responsible for the maintenance of any water service installation in any residential, commercial or industrial premises having any storage tank shall, whenever the Board so requires, engage a professional engineer to inspect and certify that —
 
 (a) the water service installation is fit and safe to use;
 
 (b) the water service installation is properly maintained and there is no contamination or pollution or likelihood of such contamination or pollution to the water in the water service installation; and
 
 (c) there is no leakage and no likelihood of leakage in the water service installation.
+
+[Act 13 of 2020 wef 30/04/2020]
 
 [Act 11 of 2018 wef 01/04/2018]
 
@@ -2638,6 +2684,58 @@ of such non-compliance and the remedial measures that have to be taken by that p
 (b) additional responsibilities of any person responsible in relation to a water service installation, or any part of the water service installation.
 
 [Act 11 of 2018 wef 01/04/2018]
+
+### Security of water service installation having certain storage tank
+
+45A\.—(1) A person responsible for the security of a water service installation having a storage tank from which piped water suitable for drinking (excluding NEWater) is drawn must ensure that —
+
+(a) the storage tank (including any tap fitted to the storage tank) and its appurtenances; and
+
+(b) the premises where the storage tank and its appurtenances are located,
+
+are secured against unauthorised access and tampering.
+
+(2) Subject to subsection (3), a person (A) responsible for the security of a water service installation having a storage tank from which piped water suitable for drinking (excluding NEWater) is drawn must ensure that —
+
+(a) no person, except withA’s authority, has access to —
+
+(i) the storage tank (including any tap fitted to the storage tank) and its appurtenances; or
+
+(ii) the premises where the storage tank and its appurtenances are located;
+
+(b) the storage tank (including any tap fitted to the storage tank) and its appurtenances, and the premises where the storage tank and its appurtenances are located, are kept properly locked at all times;
+
+(c) checks are conducted regularly for the purpose of ascertaining whether paragraph (b) is being complied with;
+
+(d) proper records are kept of —
+
+(i) persons granted access to the storage tank (including any tap fitted to the storage tank) and its appurtenances, or the premises where the storage tank and its appurtenances are located; and
+
+(ii) checks conducted under paragraph (c),
+
+and that such records are made available for inspection by an authorised officer; and
+
+(e) the Board is notified without delay of any unauthorised access to the storage tank (including any tap fitted to the storage tank) or its appurtenances which comes toA’s knowledge.
+
+(3) Subsection (2) does not apply to a person responsible for the security of a water service installation having any storage tank in residential premises which do not take their water supply through a master meter.
+
+(4) A person must not, except with the express permission of the person responsible for the security of a water service installation having a storage tank from which piped water suitable for drinking (excluding NEWater) is drawn —
+
+(a) enter the premises where the storage tank and its appurtenances are located; or
+
+(b) open or operate the storage tank or its appurtenances.
+
+(5) Any person who, without reasonable excuse, contravenes subsection (1), (2) or (4) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $1,000 for every day or part of a day during which the offence continues after conviction.
+
+(6) In this section —
+
+“appurtenances”, in relation to a storage tank, means any equipment attached or linked to the storage tank that is necessary to ensure the proper functioning of the storage tank;
+
+“NEWater” means NEWater supplied through the water reticulation system of the Board to persons who have entered into an agreement with the Board for the supply of NEWater.
+
+(7) Regulations made under section 72 may specify the person or persons responsible for the security of a water service installation having a storage tank.
+
+[Act 13 of 2020 wef 30/04/2020]
 
 ### Duties of person laying pipes
 
@@ -2757,11 +2855,21 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 (a) dishonestly or fraudulently abstracts, uses or consumes, or dishonestly or fraudulently diverts or causes to be diverted, any water supplied by the Board;
 
-(b) without the written consent of the Board, supplies for consideration any other person with any water supplied to the first-mentioned person for any purpose by the Board; or
+(b) without the written consent of the Board, supplies for consideration any other person with any water supplied to the first-mentioned person for any purpose by the Board;
+
+[Act 13 of 2020 wef 30/04/2020]
+
+(ba) without the consent of the Board, interferes with, interrupts or obstructs the operation of any meter supplied by the Board; or
+
+[Act 13 of 2020 wef 30/04/2020]
 
 (c) alters or tampers with any meter supplied by the Board,
 
 shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $50,000 or to imprisonment for a term not exceeding 3 years or to both and, in the case of a continuing offence, to a further fine not exceeding $2,500 for every day or part thereof during which the offence continues after conviction.
+
+(2A) Where a person is prosecuted for an offence under subsection (2)(ba) in respect of an AMI meter, the installation, placement or erection by the person of any device, structure or object that is designed or is capable of being used to interfere with, interrupt or obstruct the electromagnetic function of an AMI meter, when the AMI meter is in the custody or under the control of the person, is prima facie evidence that the person has interfered with, interrupted or obstructed the operation of the AMI meter.
+
+[Act 13 of 2020 wef 30/04/2020]
 
 (3) Where any person is prosecuted for an offence under subsection (2)(c) —
 
@@ -2772,6 +2880,20 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 (c) the existence of any damage to the seal of any meter,
 
 when the meter is in the custody or under the control of the person, shall be prima facie evidence that the person has altered or tampered with the meter.
+
+(3A) Without limiting subsection (3), where a person is prosecuted for an offence under subsection (2)(c) in respect of an AMI meter —
+
+(a) the existence of a cut in the wires leading to or within the AMI meter;
+
+(b) the disconnection of wires leading to or within the AMI meter that were connected at the time the AMI meter was supplied;
+
+(c) the existence of a hole in the body of an AMI meter which did not exist at the time that the AMI meter was supplied; or
+
+(d) the removal, modification or displacement of, or damage to, any seal, screw, component or mechanism of the AMI meter,
+
+when the AMI meter is in the custody or under the control of the person, is also prima facie evidence that the person has altered or tampered with the meter.
+
+[Act 13 of 2020 wef 30/04/2020]
 
 (4) In any proceedings for an offence under subsection (1) or (2)(b) or (c), it shall be a defence for the person charged under any of those provisions (but not by virtue of section 56A) to prove that he took all reasonable precautions and exercised all due diligence to avoid the commission of the offence.
 
@@ -2915,9 +3037,13 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Composition of offences
 
-59\.—(1) The Board may, in its discretion, compound any offence under this Act which is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.
+59\.—(1) The Board may, in its discretion —
 
-[Act 5 of 2018 wef 01/04/2018]
+(a) compound any offence under section 45A by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $10,000; and
+
+(b) compound any other offence under this Act or regulations made under this Act that is prescribed as a compoundable offence by collecting from a person reasonably suspected of having committed the offence a sum not exceeding $3,000.
+
+[Act 13 of 2020 wef 30/04/2020]
 
 (2) The Board may, with the approval of the Minister, make regulations to prescribe the offences which may be compounded.
 
@@ -3071,7 +3197,9 @@ MISCELLANEOUS
 
 (d) the prevention of misuse of, or damage to, apparatus and works belonging to the Board in connection with the collection, production or supply of water;
 
-(e) the regulation and use of water meters and the prohibition of interference with or damage to such meters or seals affixed thereon;
+(e) the regulation and use of meters and the prohibition of interference with or damage to such meters or seals affixed thereon;
+
+[Act 13 of 2020 wef 30/04/2020]
 
 (f) the prohibition of interference with, or damage to, water appliances supplied by the Board and plates or marks thereon;
 
@@ -3142,6 +3270,56 @@ MISCELLANEOUS
 (3) The Board may in making any regulations provide that any person who contravenes the regulations shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $10,000 or to imprisonment for a term not exceeding 12 months or to both and, in the case of a continuing offence, to a further fine not exceeding $250 for every day or part thereof during which the offence continues after conviction.
 
 (4) All such regulations shall be presented to Parliament as soon as possible after publication in theGazette.
+
+### Incorporation by reference
+
+72A\.—(1) The regulations made under section 72 may apply, adopt or incorporate by reference —
+
+(a) wholly or partially;
+
+(b) with or without any addition, omission or substitution; or
+
+(c) specifically or by reference,
+
+any code of practice, standard, requirement, specification or other document that relates to any subject matter of any regulations made under section 72 (called in this section the material), as in force or published at a particular time or as in force or published from time to time.
+
+(2) The material mentioned in subsection (1) may be material issued by the Board, or material issued by any standards setting organisation, or other organisation or person.
+
+(3) Any material applied, adopted or incorporated in the regulations by reference under subsection (1) is to be treated for all purposes as forming part of the regulations.
+
+(4) Unless otherwise provided in the regulations, where the material is applied, adopted or incorporated by reference as in force or published from time to time, every amendment to the material that is made by the organisation or person originating the material is to be treated as being a part of those regulations.
+
+(5) Where any material is applied, adopted or incorporated by reference in any provision of any regulations, the Board must give notice in the Gazette stating —
+
+(a) that the material is incorporated in the regulations, and the date on which the relevant provision in the regulations was made;
+
+(b) that the material is available for inspection, free of charge, and the place at which such material may be inspected;
+
+(c) that copies of the material can be purchased, and the place where the material can be purchased; and
+
+(d) if copies of the material are available in other ways, the details of where or how the material can be accessed or obtained.
+
+(6) In addition, the Board must cause a copy of every material applied, adopted or incorporated in the regulations by reference under subsection (1), to be made available for inspection by members of the public without charge at any of its offices during normal office hours.
+
+(7) To avoid doubt, any part of the material that is not applied, adopted or incorporated by reference under subsection (1) has no legislative effect.
+
+[Act 11 of 2018 wef 30/04/2020]
+
+### Advisory guidelines
+
+72B\.—(1) The Board may issue advisory guidelines for the purposes of providing practical guidance or certainty in respect of any one or more requirements imposed by or under this Act.
+
+(2) The advisory guidelines may —
+
+(a) be of general or specific application; or
+
+(b) specify that different provisions of the advisory guidelines apply to different circumstances, or are applicable to different persons or classes of persons.
+
+(3) The Board may amend or revoke the whole or part of any advisory guidelines issued under subsection (1).
+
+(4) Advisory guidelines issued or amended under this section do not have any legislative effect.
+
+[Act 11 of 2018 wef 30/04/2020]
 
 ### Transitional provisions
 
@@ -3538,6 +3716,16 @@ This Legislative History is provided for the convenience of users of the Public 
 ||Date of First Reading|18 February 2020 (Bill No. 11/2020 published on 18 February 2020)|
 ||Date of Second and Third Readings|6 March 2020|
 ||Date of commencement|1 April 2020|
+|17.|**Act 11 of 2018—Public Utilities (Amendment) Act 2018**|
+||Date of First Reading|8 January 2018|
+|||(Bill No. 4/2018)|
+||Date of Second and Third Readings|6 February 2018|
+||Date of commencement|30 April 2020|
+|18.|**Act 13 of 2020—Public Utilities (Amendment) Act 2020**|
+||Date of First Reading|18 February 2020|
+|||(Bill No. 11/2020)|
+||Date of Second and Third Readings|6 March 2020|
+||Date of commencement|30 April 2020|
 ## COMPARATIVE TABLE
 
 Public Utilities Act
