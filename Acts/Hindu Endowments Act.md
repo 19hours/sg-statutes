@@ -314,17 +314,23 @@ the Minister may order that the endowment shall be administered by the Board.
 
 20\.—(1) For the purpose of the management of each such endowment or part thereof, the Board shall, subject to the approval of the Minister, appoint a committee of management to act under the control of the Board.
 
-(2) Every such committee shall consist of at least one member of the Board, and of not more than 7 other persons.
+(2) Every such committee shall consist of at least one member of the Board, and of not more than 11 other persons.
 
 [2/93]
 
-(3) Every such committee shall meet at least once a month and the quorum at all meetings of the committee shall be 4 members present.
+[Act 17 of 2020 wef 11/05/2020]
+
+(3) Every such committee shall meet at least once a month and the quorum at all meetings of the committee shall be 6 members present.
 
 [2/93]
 
-(4) The members of every such committee shall be appointed for a period of two years and shall be eligible for reappointment.
+[Act 17 of 2020 wef 11/05/2020]
+
+(4) The members of every such committee shall be appointed for a period of not more than 3 years and shall be eligible for reappointment.
 
 [2/93]
+
+[Act 17 of 2020 wef 11/05/2020]
 
 (5) No person shall be appointed a member of such a committee unless he —
 
@@ -600,3 +606,7 @@ This Legislative History is provided for the convenience of users of the Hindu E
 |||(Bill No. 8/2010 published on 26 April 2010)|
 ||Date of Second and Third Readings|18 May 2010|
 ||Date of commencement|1 July 2010|
+|9.|**Act 17 of 2020—Hindu Endowments (Amendment) Act 2020**|
+||Date of First Reading|3 February 2020 (Bill No. 8/2020 published on 3 February 2020)|
+||Date of Second and Third Readings|25 March 2020|
+||Date of commencement|11 May 2020|
