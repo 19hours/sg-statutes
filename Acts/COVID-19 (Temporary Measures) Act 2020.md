@@ -1334,7 +1334,17 @@ Scheduled contracts
 
 (g) a construction contract or supply contract;
 
-(h) a lease or licence of non‑residential immovable property.
+(h) a lease or licence of non‑residential immovable property;
+
+[S 376/2020 wef 13/05/2020]
+
+(i) an option given by a housing developer to an intending purchaser for the purchase of a unit of housing accommodation;
+
+[S 376/2020 wef 13/05/2020]
+
+(j) an agreement between a housing developer and a purchaser for the sale and purchase of a unit of housing accommodation.
+
+[S 376/2020 wef 13/05/2020]
 
 1A. Paragraph 1 excludes a contract in relation to which section 4 of the International Interests in Aircraft Equipment Act (Cap. 144B) applies.
 
@@ -1358,5 +1368,23 @@ Scheduled contracts
 
 (a) not less than 30% of its shares or other ownership interest is held by citizens of Singapore or permanent residents of Singapore or both; and
 
-(b) the turnover of the group (within the meaning of the Accounting Standards applicable to it) to which it belongs does not exceed $100 million in the latest financial year.
+(b) the turnover of the group (within the meaning of the Accounting Standards applicable to it) to which it belongs does not exceed $100 million in the latest financial year;
+
+[S 376/2020 wef 13/05/2020]
+
+“housing accommodation” includes a building or tenement wholly or principally constructed, adapted or intended for human habitation, or for human habitation and as business premises;
+
+[S 376/2020 wef 13/05/2020]
+
+“housing developer” means any person that engages in a business of housing development, and includes the Housing and Development Board established under the Housing and Development Act (Cap. 129);
+
+[S 376/2020 wef 13/05/2020]
+
+“housing development” means the construction or causing the construction of any number of units of housing accommodation, including any building operations in, on, over or under the land for the purpose of erecting such housing accommodation, and the sale of land which would be appurtenant to such housing accommodation;
+
+[S 376/2020 wef 13/05/2020]
+
+“unit” means a horizontal stratum of any building or part of a building, whether such stratum is on one or more levels, and which is intended for use in accordance with the provisions of any written law as a complete and separate unit for residential or commercial purpose.
+
+[S 376/2020 wef 13/05/2020]
 
