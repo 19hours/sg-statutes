@@ -28,6 +28,8 @@
 
 - [8 Responsibility for Fund](#Responsibility-for-Fund)
 
+- [8A Financial assistance not of right](#Financial-assistance-not-of-right)
+
 - [9 Disclosure of information](#Disclosure-of-information)
 
 - [10 Confidentiality of information](#Confidentiality-of-information)
@@ -112,7 +114,9 @@ GOODS AND SERVICES TAX VOUCHER FUND
 
 4\.—(1) The moneys in the Fund may be withdrawn and applied for all or any of the following purposes:
 
-(a) to provide financial assistance (including cash grants, rebates, reliefs, subsidies and credits) under a public scheme to natural persons who are in need of relief from goods and services tax as may be prescribed;
+(a) to provide financial assistance (including cash grants, grants‑in‑aid, rebates, reliefs, subsidies and credits) under a public scheme to such natural persons as may be prescribed, in order to mitigate the impact of the goods and services tax on their living expenses;
+
+[Act 19 of 2020 wef 22/05/2020]
 
 (b) the payment of expenses referred to in section 5;
 
@@ -157,6 +161,12 @@ ADMINISTRATION OF FUND
 (a) it shall be the function and duty of the public authority to do so in accordance with that subsection, in addition to such functions and duties imposed on it under any other written law; and
 
 (b) the public authority shall be deemed to be fulfilling the purposes of the relevant Act constituting that public authority, and the provisions of that Act shall apply to the public authority in respect of that function and duty.
+
+### Financial assistance not of right
+
+8A\. No person has an absolute right to any financial assistance under a public scheme using moneys from the Fund.
+
+[Act 19 of 2020 wef 22/05/2020]
 
 ### Disclosure of information
 
@@ -320,3 +330,7 @@ This Legislative History is provided for the convenience of users of the Goods a
 ||Date of commencement|1 February 2013|
 |2.|**2013 Revised Edition—Goods and Services Tax Voucher Fund Act (Chapter 117C)**|
 ||Date of operation|31 August 2013|
+|3.|**Act 19 of 2020—Goods and Services Tax Voucher Fund (Amendment) Act 2020**|
+||Date of First Reading|5 March 2020 (Bill No. 14/2020 published on 5 March 2020)|
+||Date of Second and Third Readings|26 March 2020|
+||Date of commencement|22 May 2020|
