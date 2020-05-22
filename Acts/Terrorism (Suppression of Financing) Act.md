@@ -1040,9 +1040,43 @@ Terrorists and terrorist entities
 
 [S 452/2019 wef 24/06/2019]
 
-(zl) Mohamed Kazali bin Salleh (Singapore citizen) (Date of Birth: 25 July 1970).
+(zl) Mohamed Kazali bin Salleh (Singapore citizen) (Date of Birth: 25 July 1970);
 
 [S 452/2019 wef 24/06/2019]
+
+[S 385/2020 wef 22/05/2020]
+
+(zm) Mohamed Faishal bin Mohd Razali (Singapore citizen) (Date of Birth: 5 September 1990);
+
+[S 385/2020 wef 22/05/2020]
+
+(zn) Hazim Syahmi Bin Mahfoot (Singapore citizen) (Date of Birth: 2 August 1990);
+
+[S 385/2020 wef 22/05/2020]
+
+(zo) Imran bin Mahmood (Singapore citizen) (Date of Birth: 15 August 1978);
+
+[S 385/2020 wef 22/05/2020]
+
+(zp) Kuthubdeen Haja Najumudeen (Singapore citizen) (Date of Birth: 13 February 1983);
+
+[S 385/2020 wef 22/05/2020]
+
+(zq) Suderman bin Samikin (Singapore citizen) (Date of Birth: 17 July 1972);
+
+[S 385/2020 wef 22/05/2020]
+
+(zr) Anindia Afiyantari @ Anin Dia Afiyan Tari (Indonesian citizen) (Passport No. B6594543 stating Date of Birth: 10 April 1987) (Work Permit No. G6545158T stating Date of Birth: 10 April 1986);
+
+[S 385/2020 wef 22/05/2020]
+
+(zs) Retno Hernayani (Indonesian citizen) (Passport No. B4803520) (Date of Birth: 30 December 1982);
+
+[S 385/2020 wef 22/05/2020]
+
+(zt) Turmini (Indonesian citizen) (Passport No. B4799110) (Date of Birth: 22 June 1988).
+
+[S 385/2020 wef 22/05/2020]
 
 2. In this Schedule, unless the context otherwise requires —
 
@@ -1292,6 +1326,8 @@ This Legislative History is provided for the convenience of users of the Terrori
 ||Date of commencement|24 June 2019|
 |30.|**G.N. No. S 176/2020—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) Order 2020**|
 ||Date of commencement|23 March 2020|
+|31.|**G.N. No. S 385/2020—Terrorism (Suppression of Financing) Act (Amendment of First Schedule) (No. 2) Order 2020**|
+||Date of commencement|22 May 2020|
 ## COMPARATIVE TABLE
 
 Terrorism (Suppression of Financing) Act
