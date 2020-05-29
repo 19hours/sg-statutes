@@ -20,6 +20,8 @@
 
 - [5 Licensed taxi service operator not subject to Act](#Licensed-taxi-service-operator-not-subject-to-Act)
 
+- [5A Act stops applying to certain providers](#Act-stops-applying-to-certain-providers)
+
 - [6 Extra‑territorial application](#Extra‑territorial-application)
 
 [**Part 2 REGISTRATION OF THIRD‑PARTY TAXI BOOKING SERVICE PROVIDERS**](#Part-2)
@@ -204,6 +206,12 @@ PRELIMINARY
 ### Licensed taxi service operator not subject to Act
 
 5\. This Act does not apply to a taxi service operator within the meaning of section 111A of the Road Traffic Act (Cap. 276) in respect of any taxi booking service that the taxi service operator provides to any taxi driver licensed under that Act to drive a taxi owned by the taxi service operator.
+
+### Act stops applying to certain providers
+
+5A\. Starting on the date of commencement of section 18 of the Point‑to‑Point Passenger Transport Industry Act 2019, sections 8, 9, 10, 11 and 12 of this Act cease to apply to and in relation to any person who provides any third‑party taxi booking service for journeys by taxi within, or partly within, Singapore on or after that date and is not exempt from section 7 by virtue of section 30.
+
+[Act 20 of 2019 wef 29/05/2020]
 
 ### Extra‑territorial application
 
