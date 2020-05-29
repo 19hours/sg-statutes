@@ -322,9 +322,9 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 [Act 17 of 2015 wef 01/09/2015]
 
-(v) to regulate the provision of third‑party taxi booking services under the Third‑Party Taxi Booking Service Providers Act 2015;
+(v) to regulate the provision of point‑to‑point passenger transport services under the Point‑to‑Point Passenger Transport Industry Act 2019;
 
-[Act 17 of 2015 wef 01/09/2015]
+[Act 20 of 2019 wef 29/05/2020]
 
 (ga) to operate any bus service or any bus depot or bus interchange, if there is for any reason no licensee under the Bus Services Industry Act 2015 to operate that bus service, bus depot or bus interchange (as the case may be), having regard to the reasonable requirements of the land transport system in Singapore or the relevant part thereof;
 
@@ -378,9 +378,11 @@ FUNCTIONS, DUTIES AND POWERS OF AUTHORITY
 
 [Act 17 of 2015 wef 01/09/2015]
 
-(vi) all composition sums and financial penalties under the Third‑Party Taxi Booking Service Providers Act 2015;
+(vi) all composition sums and financial penalties under the Point-to-Point Passenger Transport Industry Act 2019;
 
 [Act 17 of 2015 wef 01/09/2015]
+
+[Act 20 of 2019 wef 29/05/2020]
 
 (s) to act as agent of the Government in vesting of land under the Street Works Act [Cap. 320A];
 
@@ -1236,7 +1238,7 @@ GENERAL
 
 ### Powers of enforcement
 
-39\.—(1) In addition to the powers conferred on him by any written law specified in the Fifth Schedule, being a written law administered by the Authority, an officer or employee of the Authority may, on declaration of his office and production to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority, in relation to any offence under any such written law —
+39\.—(1) In addition to the powers conferred on him by any written law specified in the Fifth Schedule, an officer or employee of the Authority may, on declaration of his office and production to the person against whom he is acting such identification card as the Chief Executive may direct to be carried by officers or employees of the Authority, in relation to any offence under any such written law —
 
 (a) exercise all the powers of a police officer under sections 81, 92, 93 and 127 of the Road Traffic Act [Cap. 276] and all the powers of a duly authorised police officer under section 94 of that Act, and any reference in those sections to a police officer or duly authorised police officer shall include a reference to such officer or employee of the Authority;
 
@@ -1251,6 +1253,8 @@ GENERAL
 (f) detain or seize any document found in the course of a search under this subsection.
 
 [Act 3 of 2017 wef 20/06/2017]
+
+[Act 20 of 2019 wef 29/05/2020]
 
 (1A) The power of an officer or employee of the Authority to require a person to furnish any information or document under subsection (1)(d) includes the power —
 
@@ -1302,11 +1306,17 @@ shall be guilty of an offence and shall be liable on conviction to a fine not ex
 
 ### Proceedings conducted by officers of Authority
 
-40\.—(1) Proceedings in respect of any offence under this Act or any written law specified in the Fifth Schedule, being a written law administered by the Authority, or any subsidiary legislation made under this Act or any such written law, may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Authority.
+40\.—(1) Proceedings in respect of any offence under this Act or any written law specified in the Fifth Schedule, or any subsidiary legislation made under this Act or any such written law, may, with the authorisation of the Public Prosecutor, be conducted by an officer of the Authority who is authorised to conduct such proceedings by the Authority.
 
 [15/2010 wef 02/01/2011]
 
 [Act 3 of 2017 wef 20/06/2017]
+
+[15/2010 wef 02/01/2011]
+
+[Act 3 of 2017 wef 20/06/2017]
+
+[Act 20 of 2019 wef 29/05/2020]
 
 (2) The Minister may, by order published in theGazette, amend the Fifth Schedule.
 
@@ -1678,9 +1688,15 @@ Revenue of Land Transport Revenue Account
 
 (a) a general licence issued under the Road Traffic (Motor Vehicles, Registration and Licensing) Rules (Cap. 276, R 5);
 
-(b) a licence under Part 3 of the Parking Places Act.
+(b) a licence under Part 3 of the Parking Places Act;
 
 [Act 24 of 2018 wef 08/05/2018]
+
+[Act 20 of 2019 wef 29/05/2020]
+
+(c) a licence under the Point‑to‑Point Passenger Transport Industry Act 2019.
+
+[Act 20 of 2019 wef 29/05/2020]
 
 17. All composition sums collected —
 
@@ -1708,17 +1724,17 @@ Revenue of Land Transport Revenue Account
 
 [24/2010 wef 01/11/2010]
 
-22. All fees prescribed under section 31(2)(b) of the Third‑Party Taxi Booking Service Providers Act 2015.
+22. [Deleted by Act 20 of 2019 wef 29/05/2020]
 
-[Act 17 of 2015 wef 01/09/2015]
-
-23. All fees prescribed under section 111J of the Road Traffic Act (Cap. 276).
-
-[Act 17 of 2015 wef 01/09/2015]
+23. [Deleted by Act 20 of 2019 wef 29/05/2020]
 
 24. All fees payable under the Active Mobility Act 2017.
 
 [Act 3 of 2017 wef 01/05/2018]
+
+25. All fees prescribed under the Point‑to‑Point Passenger Transport Industry Act 2019.
+
+[Act 20 of 2019 wef 29/05/2020]
 
 THIRD SCHEDULE
 
@@ -2000,9 +2016,9 @@ Part II
 
 [S 310/2012 wef 01/07/2012]
 
-2. All provisions of the Third‑Party Taxi Booking Service Providers Act 2015 and any subsidiary legislation made thereunder.
+2. All provisions of the Point‑to‑Point Passenger Transport Industry Act 2019 and any subsidiary legislation made under that Act.
 
-[Act 17 of 2015 wef 01/09/2015]
+[Act 20 of 2019 wef 29/05/2020]
 
 3. Sections 11 and 22 of the Bus Services Industry Act 2015 (Act 30 of 2015).
 
@@ -2167,3 +2183,7 @@ This Legislative History is provided for the convenience of users of the Land Tr
 |||(Bill No. 29/2018)|
 ||Date of Second and Third Readings|10 September 2018|
 ||Date of commencement|3 June 2019|
+|35.|**Act 20 of 2019—Point-to-Point Passenger Transport Industry Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 14/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|6 August 2019|
+||Date of commencement|29 May 2020|
