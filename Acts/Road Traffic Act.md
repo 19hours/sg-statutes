@@ -1136,7 +1136,7 @@ from being published or otherwise made public under this Part.
 
 6D\.—(1) Rules made under section 6C for an approved trial or an approved special use may, for the purpose of that trial or special use —
 
-(a) exempt (with or without conditions) from the application of section 5 or other specified provisions of this Act or its subsidiary legislation, or any other written law, any of the following:
+(a) exempt (with or without conditions) from the application of section 5 or other specified provisions of this Act or its subsidiary legislation, or any other applicable written law, any of the following:
 
 (i) the specified person authorised to undertake the approved trial or carry out the approved special use;
 
@@ -1144,7 +1144,9 @@ from being published or otherwise made public under this Part.
 
 (iii) any vehicle or trailer used in the approved trial or approved special use; and
 
-(b) provide for the application of specified provisions of this Act or its subsidiary legislation, or any other written law, affecting —
+[Act 20 of 2019 wef 29/05/2020]
+
+(b) provide for the application of specified provisions of this Act or its subsidiary legislation, or any other applicable written law, affecting —
 
 (i) the specified person authorised to undertake the approved trial or carry out the approved special use;
 
@@ -1154,6 +1156,8 @@ from being published or otherwise made public under this Part.
 
 with prescribed exceptions, modifications and adaptations.
 
+[Act 20 of 2019 wef 29/05/2020]
+
 (2) Where a provision of this Act or its subsidiary legislation mentioned in subsection (1)(a) or (b) is not a law which the Minister is charged with the responsibility for, the Minister must consult with the Minister charged with the responsibility for law and order before granting the exemption or modifying the provision, as the case may be.
 
 (3) If a person contravenes or fails to comply with a condition of an exemption contained in any rules made under section 6C, the exemption does not, while the contravention or non‑compliance continues, operate in that person’s favour.
@@ -1161,6 +1165,18 @@ with prescribed exceptions, modifications and adaptations.
 (4) If, by virtue of subsection (3), a person is guilty of an offence under a provision of this Act or its subsidiary legislation from which the person was exempted by an exemption, the person may be proceeded against for that offence.
 
 [Act 10 of 2017 wef 24/08/2017]
+
+(5) In this section, “other applicable written law” means —
+
+(a) the Bus Services Industry Act 2015;
+
+(b) the Motor Vehicles (Third‑Party Risks and Compensation) Act (Cap. 189);
+
+(c) the Point‑to‑Point Passenger Transport Industry Act 2019; or
+
+(d) the Public Transport Council Act (Cap. 259B).
+
+[Act 20 of 2019 wef 29/05/2020]
 
 ### Interfering with autonomous motor vehicle trial, etc.
 
@@ -4930,15 +4946,19 @@ PUBLIC SERVICE VEHICLES
 
 ### Prohibition of use of unlicensed public service vehicles
 
-101\.—(1) Subject to the provisions of this Part, no person shall use a motor vehicle, or cause or permit a motor vehicle to be used, as a public service vehicle unless there is in force, in respect of the vehicle, a valid licence issued under this Part authorising such use, or otherwise than in accordance with the licence and any conditions attached thereto.
+101\.—(1) Subject to the provisions of this Part, no person shall use a motor vehicle which is not a proscribed vehicle, or cause or permit a motor vehicle which is not a proscribed vehicle to be used, as a public service vehicle unless there is in force, in respect of the vehicle, a valid licence issued under this Part authorising such use, or otherwise than in accordance with the licence and any conditions attached thereto.
 
-(1A) For the purposes of subsection (1), use of a motor vehicle as a private hire car includes a motor vehicle that —
+[Act 20 of 2019 wef 29/05/2020]
+
+(1A) For the purposes of subsection (1), use of a motor vehicle as a private hire car includes a motor car that —
 
 (a) is in use in connection with a hiring to provide a ride‑sourcing service (within the meaning of section 110A); or
 
 (b) is immediately available to a private hire car booking service operator (within the meaning of section 110A) to accept bookings from passengers for a ride‑sourcing service using that vehicle.
 
 [Act 10 of 2017 wef 01/07/2017]
+
+[Act 20 of 2019 wef 29/05/2020]
 
 (2) Any person who contravenes subsection (1) shall be guilty of an offence and shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 6 months or to both.
 
@@ -4959,6 +4979,22 @@ PUBLIC SERVICE VEHICLES
 (8) If there be no prosecution with regard to any motor vehicle seized under subsection (5), that vehicle shall be released at the expiration of one month from the date of seizure unless it has sooner been released.
 
 (9) A police officer may arrest without warrant any person who has committed or whom he reasonably suspects to have committed an offence under this section.
+
+(10) For the purposes of this section, a proscribed vehicle means a vehicle of the construction, type or description or a class of vehicles declared by the Minister, by order in theGazette, to be proscribed and not likewise declared, by subsequent order in theGazette, to be not proscribed.
+
+[Act 20 of 2019 wef 29/05/2020]
+
+(11) An order made under subsection (10) by the Minister may contain such saving, transitional, and other consequential, incidental and supplemental provisions as the Minister considers necessary or expedient for the purposes of this Part.
+
+[Act 20 of 2019 wef 29/05/2020]
+
+(12) A person commits an offence if a person uses or causes or permits a proscribed vehicle to be used as a public service vehicle.
+
+[Act 20 of 2019 wef 29/05/2020]
+
+(13) A person who is guilty of an offence under subsection (12) shall be liable on conviction to a fine not exceeding $3,000 or to imprisonment for a term not exceeding 6 months or to both.
+
+[Act 20 of 2019 wef 29/05/2020]
 
 ### Issue of public service vehicle licences
 
@@ -5095,6 +5131,10 @@ PUBLIC SERVICE VEHICLES
 108\. The Registrar may at any time suspend or revoke a public service vehicle licence if —
 
 (a) owing to any defects in the vehicle in respect of which the licence is issued, the vehicle is or is likely to become unfit for service;
+
+(aa) the vehicle in respect of which the licence is issued is proscribed under section 101(10);
+
+[Act 20 of 2019 wef 29/05/2020]
 
 (b) having regard to the conduct of the holder of the licence or to the manner in which the vehicle is being used, it appears to the Registrar that the licence should be suspended or revoked;
 
@@ -5350,6 +5390,10 @@ LICENSING OF TAXI SERVICE OPERATORS
 
 [1/2003]
 
+(5) Starting on the date of commencement of section 12 of the Point‑to‑Point Passenger Transport Industry Act 2019, this section ceases to apply to and in relation to any person who operates a taxi service on or after that date without a taxi service operator licence and is not exempt from section 111B by virtue of section 142.
+
+[Act 20 of 2019 wef 29/05/2020]
+
 ### Certain conditions subject to which licence may be granted
 
 111D\.—(1) Without prejudice to the generality of section 111C(2), the Authority may, in granting a licence thereunder, impose conditions —
@@ -5410,6 +5454,10 @@ LICENSING OF TAXI SERVICE OPERATORS
 
 [1/2003]
 
+(3) Starting on the date of commencement of section 12 of the Point‑to‑Point Passenger Transport Industry Act 2019, this section ceases to apply to and in relation to any person who operates a taxi service on or after that date without a taxi service operator licence and is not exempt from section 111B by virtue of section 142.
+
+[Act 20 of 2019 wef 29/05/2020]
+
 ### Constitution of firm or company to be licensed
 
 111E\.—(1) If the applicant for a licence is a partnership, all the members of the partnership must be approved by the Authority.
@@ -5419,6 +5467,10 @@ LICENSING OF TAXI SERVICE OPERATORS
 (2) If the applicant for a licence is a company, all the directors of the company must be approved by the Authority.
 
 [1/2003]
+
+(2A) Starting on the date of commencement of section 12 of the Point‑to‑Point Passenger Transport Industry Act 2019, subsections (1) and (2) cease to apply to and in relation to any person who operates a taxi service on or after that date without a taxi service operator licence and is not exempt from section 111B by virtue of section 142.
+
+[Act 20 of 2019 wef 29/05/2020]
 
 (3) No person shall be appointed to be a new partner or director of a licensee unless such person is approved by the Authority.
 
@@ -7438,6 +7490,10 @@ This Legislative History is provided for the convenience of users of the Road Tr
 ||Date of First Reading|6 January 2020 (Bill No. 3/2020 published on 6 January 2020)|
 ||Date of Second and Third Readings|4 February 2020|
 ||Date of commencement|3 April 2020|
+|88.|**Act 20 of 2019—Point-to-Point Passenger Transport Industry Act 2019**|
+||Date of First Reading|8 July 2019 (Bill No. 14/2019 published on 8 July 2019)|
+||Date of Second and Third Readings|6 August 2019|
+||Date of commencement|29 May 2020|
 ## COMPARATIVE TABLE
 
 Road Traffic Act
