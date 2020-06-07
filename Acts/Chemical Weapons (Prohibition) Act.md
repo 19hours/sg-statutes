@@ -857,30 +857,11 @@ phosphoramidocyanidate
 
 (3)
 
-O-Alkyl (
-
-<
-
-H or C
+O-Alkyl (H or ≤C
 
 10
 
-, incl. Cycloalkyl) S-2-dialkyl
-
-
-
-
-(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl
-
-
-
-
-(Me, Et, n-Pr or i-Pr) phosphonothiolates and
-
-
-
-
-corresponding alkylated or protonated salts
+, incl. Cycloalkyl) S-2-dialkyl (Me, Et, n-Pr or i-Pr)-aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonothiolates and corresponding alkylated or protonated salts
 
 e.g.
 
@@ -972,6 +953,92 @@ Ricin
 
 (9009-86-3)
 
+(8A)
+
+Р-alkyl (H or ≤C
+
+10
+
+, incl. cycloalkyl) N-(1-(dialkyl(≤C
+
+10
+
+, incl. cycloalkyl)amino))alkylidene(H or ≤C
+
+10
+
+, incl. cycloalkyl) phosphonamidic fluorides and corresponding alkylated or protonated salts
+
+e.g.
+
+N-(1-(di-n-decylamino)-n-decylidene)-P-decylphosphonamidic fluoride
+
+(2387495-99-8)
+
+Methyl-(1-(diethylamino)ethylidene)phosphonamidofluoridate
+
+(2387496-12-8)
+
+(8B)
+
+O-alkyl (H or ≤C
+
+10
+
+, incl. cycloalkyl) N-(1-(dialkyl(≤C
+
+10
+
+, incl. cycloalkyl)amino))alkylidene(H or ≤C
+
+10
+
+, incl. cycloalkyl) phosphoramidofluoridates and corresponding alkylated or protonated salts
+
+e.g.
+
+O-n-Decyl N-(1-(di-n-decylamino)-n-decylidene)phosphoramidofluoridate
+
+(2387496-00-4)
+
+Methyl (1-(diethylamino)ethylidene)phosphoramidofluoridate
+
+(2387496-04-8)
+
+Ethyl (1-(diethylamino)ethylidene)phosphoramidofluoridate
+
+(2387496-06-0)
+
+(8C)
+
+Methyl-(bis(diethylamino)methylene)phosphonamidofluoridate
+
+(2387496-14-0)
+
+(8D)
+
+Carbamates (quaternaries and bisquaternaries of dimethylcarbamoyloxypyridines)
+
+Quaternaries of dimethylcarbamoyloxypyridines:
+
+1-[N,N-dialkyl(≤C10)-N-(n-(hydroxyl, cyano, acetoxy)alkyl(≤C10)) ammonio]-n-[N-(3-dimethylcarbamoxy-α-picolinyl)-N,N-dialkyl(≤C10) ammonio]decane dibromide (n=1-8)
+
+e.g.
+
+1-[N,N-dimethyl-N-(2-hydroxy)ethylammonio]-10-[N-(3-dimethylcarbamoxy-α-picolinyl)-N,N-dimethylammonio]decane dibromide
+
+(77104-62-2)
+
+Bisquaternaries of dimethylcarbamoyloxypyridines:
+
+1,n-Bis[N-(3-dimethylcarbamoxy-α-picolyl)-N,N-dialkyl(≤C10) ammonio]-alkane-(2,(n-1)-dione) dibromide (n=2-12)
+
+e.g.
+
+1,10-Bis[N-(3-dimethylcarbamoxy-α-picolyl)-N-ethyl-N-methylammonio]decane-2,9-dione dibromide
+
+(77104-00-8)
+
 B.
 
 Precursors:
@@ -988,39 +1055,15 @@ DF: Methylphosphonyldifluoride
 
 (10)
 
-O-Alkyl (
-
-<
-
-H or C
+O-Alkyl (H or ≤C
 
 10
 
-, incl. Cycloalkyl) O-2-dialkyl
-
-
-
-
-(Me, Et, n-Pr or i-Pr)-aminoethyl alkyl
-
-
-
-
-(Me, Et, n-Pr or i-Pr) phosphonites and
-
-
-
-
-corresponding alkylated or protonated salts
+, incl. Cycloalkyl) O-2-dialkyl (Me, Et, n-Pr or i-Pr)-aminoethyl alkyl (Me, Et, n-Pr or i-Pr) phosphonites and corresponding alkylated or protonated salts
 
 e.g.
 
-QL: O-Ethyl O-2-diisopropylaminoethyl
-
-
-
-
-methylphosphonite
+QL: O-Ethyl O-2-diisopropylaminoethyl methylphosphonite
 
 (57856-11-8)
 
@@ -1272,6 +1315,8 @@ Triethanolamine
 
 (102-71-6)
 
+[S 365/2020 wef 07/06/2020]
+
 ## LEGISLATIVE HISTORY
 
 Chemical Weapons (Prohibition) Act
@@ -1306,6 +1351,8 @@ This Legislative History is provided for the convenience of users of the Chemica
 ||Date of Second and Third Readings|18 January 2012|
 ||Date of commencement|1 March 2012|
 |||(except sections 26 and 29)|
+|6.|**G.N. No. S 365/2020—Chemical Weapons (Prohibition) Act (Amendment of Schedule) Order 2020**|
+||Date of commencement|7 June 2020|
 ## COMPARATIVE TABLE
 
 Chemical Weapons (Prohibition) Act
