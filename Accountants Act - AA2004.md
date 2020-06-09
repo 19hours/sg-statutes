@@ -180,8 +180,9 @@
 
 - 70 Transitional provisions relating to Institute of Certified Public Accountants of Singapore
 
-**THE SCHEDULE
-                Constitution and proceedings of Oversight Committee**
+**THE SCHEDULE**
+
+**Constitution and proceedings of Oversight Committee**
 
 **Legislative Source Key**
 
