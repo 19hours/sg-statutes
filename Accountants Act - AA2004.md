@@ -6,13 +6,13 @@
 
 [**Long Title**](#Accountants-Act)
 
-[**Part I PRELIMINARY**](#Part-I-PRELIMINARY)
+[**Part I PRELIMINARY**](#Part-I)
 
 - [1 Short title](#Short-title)
 
 - [2 Interpretation](#Interpretation)
 
-[**Part II ADMINISTRATION OF ACT**](#Part-II-ADMINISTRATION-OF-ACT)
+[**Part II ADMINISTRATION OF ACT**](#Part-II)
 
 - [3 Administration of Act](#Administration-of-Act)
 
@@ -28,7 +28,7 @@
 
 - [9 Certificate of Registrar](#Certificate-of-Registrar)
 
-[**Part III REGISTRATION OF PUBLIC ACCOUNTANTS**](#Part-III-REGISTRATION-OF-PUBLIC-ACCOUNTANTS)
+[**Part III REGISTRATION OF PUBLIC ACCOUNTANTS**](#Part-III)
 
 - [10 Qualifications for registration](#Qualifications-for-registration)
 
@@ -50,7 +50,7 @@
 
 - [16 Publication of list of public accountants](#Publication-of-list-of-public-accountants)
 
-[**Part IV ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs**](#Part-IV-ACCOUNTING-CORPORATIONS-ACCOUNTING-FIRMS-AND-ACCOUNTING-LLPs)
+[**Part IV ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs**](#Part-IV)
 
 - [17 Approval of accounting corporations](#Approval-of-accounting-corporations)
 
@@ -88,7 +88,7 @@
 
 - [31 Removal from Register of Public Accounting Corporations, Register of Public Accounting Firms or Register of Public Accounting Limited Liability Partnerships](#Removal-from-Register-of-Public-Accounting-Corporations-Register-of-Public-Accounting-Firms-or-Register-of-Public-Accounting-Limited-Liability-Partnerships)
 
-[**Part V PRACTICE MONITORING PROGRAMME**](#Part-V-PRACTICE-MONITORING-PROGRAMME)
+[**Part V PRACTICE MONITORING PROGRAMME**](#Part-V)
 
 - [32 Interpretation of this Part](#Interpretation-of-this-Part)
 
@@ -104,7 +104,7 @@
 
 - [38 Consequences of failure to pass practice review](#Consequences-of-failure-to-pass-practice-review)
 
-[**Part VI DISCIPLINARY PROCEEDINGS**](#Part-VI-DISCIPLINARY-PROCEEDINGS)
+[**Part VI DISCIPLINARY PROCEEDINGS**](#Part-VI)
 
 - [39 Appointment of Complaints and Disciplinary Panel](#Appointment-of-Complaints-and-Disciplinary-Panel)
 
@@ -138,7 +138,7 @@
 
 - [54 Appeal against disciplinary orders of Oversight Committee](#Appeal-against-disciplinary-orders-of-Oversight-Committee)
 
-[**Part VII MISCELLANEOUS**](#Part-VII-MISCELLANEOUS)
+[**Part VII MISCELLANEOUS**](#Part-VII)
 
 - [55 Reinstatement to Register](#Reinstatement-to-Register)
 
@@ -162,7 +162,7 @@
 
 - [64A Service of documents on public accountant](#Service-of-documents-on-public-accountant)
 
-[**Part VIII SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-VIII-SAVINGS-AND-TRANSITIONAL-PROVISIONS)
+[**Part VIII SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-VIII)
 
 - [65 Savings and transitionals for repealed Accountants Act](#Savings-and-transitionals-for-repealed-Accountants-Act)
 
