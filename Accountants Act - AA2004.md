@@ -182,7 +182,7 @@
 
 [**Legislative History**](#Legislative-History)
 
-## Accountants Act
+# Accountants Act
 
 (CHAPTER 2)
 
@@ -198,7 +198,7 @@ An Act relating to public accountants.
 
 [1st April 2004]
 
-### PART I
+## PART I
 
 PRELIMINARY
 
@@ -426,7 +426,7 @@ during the winding up of the company or accounting corporation.
 
 [Act 35 of 2014 wef 03/01/2016]
 
-### PART II
+## PART II
 
 ADMINISTRATION OF ACT
 
@@ -866,7 +866,7 @@ an entry in any register kept under this Act is accurate or correct,
 
 a certificate issued by the Registrar addressing such question shall be admissible as evidence in any proceedings and shall be prima facie evidence of the facts stated therein.
 
-### PART III
+## PART III
 
 REGISTRATION OF PUBLIC ACCOUNTANTS
 
@@ -1536,7 +1536,7 @@ Publication of list of public accountants
 
   The Registrar may, from time to time, prepare and publish in such form or manner as the Oversight Committee may determine a list of the names and particulars of all public accountants.
 
-### PART IV
+## PART IV
 
 ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
@@ -2400,7 +2400,7 @@ the accounting corporation, accounting firm or accounting LLP is no longer in a 
 
 (6)  Any person who is aggrieved by an order under subsection (4) may, within 30 days of being notified of the order, appeal to the Minister whose decision shall be final.
 
-### PART V
+## PART V
 
 PRACTICE MONITORING PROGRAMME
 
@@ -2650,7 +2650,7 @@ b
 
 (8)  The decision of the High Court on an appeal under subsection (7) shall be final.
 
-### PART VI
+## PART VI
 
 DISCIPLINARY PROCEEDINGS
 
@@ -3774,7 +3774,7 @@ Appeal against disciplinary orders of Oversight Committee
 
 [Accountants 2001 Ed., s. 36]
 
-### PART VII
+## PART VII
 
 MISCELLANEOUS
 
@@ -4282,7 +4282,7 @@ Service of documents on public accountant
 
 [Act 35 of 2014 wef 03/01/2016]
 
-### PART VIII
+## PART VIII
 
 SAVINGS AND TRANSITIONAL PROVISIONS
 
