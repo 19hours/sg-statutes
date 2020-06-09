@@ -180,12 +180,27 @@
 
 - 70 Transitional provisions relating to Institute of Certified Public Accountants of Singapore
 
-**THE SCHEDULE**
-
-**Constitution and proceedings of Oversight Committee**
+**THE SCHEDULE
+                Constitution and proceedings of Oversight Committee**
 
 **Legislative Source Key**
 
 **Legislative History**
+
+Accountants Act
+
+(CHAPTER 2)
+
+(Original Enactment: Act 4 of 2004)
+
+REVISED EDITION 2005
+
+(31st July 2005)
+
+An Act relating to public accountants.
+
+[Act 5 of 2013 wef 01/04/2013]
+
+[1st April 2004]
 
 
