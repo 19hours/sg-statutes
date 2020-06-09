@@ -232,31 +232,17 @@ PRELIMINARY
 
 “corporate practitioner” —
 
-(a)
-
- in relation to an accounting corporation, means a director or an employee of the corporation who is a public accountant and practising as such in that corporation; and(b)
-
- in relation to an accounting LLP, means a partner or an employee of the accounting LLP who is a public accountant and practising as such in the accounting LLP;[11/2006 wef 06/10/2006]
+ (a) in relation to an accounting corporation, means a director or an employee of the corporation who is a public accountant and practising as such in that corporation; and (b) in relation to an accounting LLP, means a partner or an employee of the accounting LLP who is a public accountant and practising as such in the accounting LLP;[11/2006 wef 06/10/2006]
 
 “costs and expenses”, in relation to any proceedings under Part VI, includes —
 
-(a)
-
- the costs and expenses of any legal assessor and any advocate and solicitor appointed by the Oversight Committee for proceedings before a Complaints Committee or a Disciplinary Committee;(b)
-
- such reasonable expenses as the Oversight Committee may pay to witnesses; and(c)
-
- such reasonable expenses as are necessary for, or incidental to, the institution and conduct of proceedings before a Complaints Committee or a Disciplinary Committee;“Disciplinary Committee” means a Disciplinary Committee constituted under Part VI;
+ (a) the costs and expenses of any legal assessor and any advocate and solicitor appointed by the Oversight Committee for proceedings before a Complaints Committee or a Disciplinary Committee; (b) such reasonable expenses as the Oversight Committee may pay to witnesses; and (c) such reasonable expenses as are necessary for, or incidental to, the institution and conduct of proceedings before a Complaints Committee or a Disciplinary Committee;“Disciplinary Committee” means a Disciplinary Committee constituted under Part VI;
 
 “firm” means a sole proprietorship or partnership;
 
 “identification” means —
 
-(a)
-
- in the case of an individual issued with an identity card under the National Registration Act (Cap. 201), the number of the individual’s identity card; and(b)
-
- in the case of an individual not issued with an identity card under that Act, particulars of the individual’s passport or such other similar evidence of identity as is acceptable to the Registrar;[Act 35 of 2014 wef 03/01/2016]
+ (a) in the case of an individual issued with an identity card under the National Registration Act (Cap. 201), the number of the individual’s identity card; and (b) in the case of an individual not issued with an identity card under that Act, particulars of the individual’s passport or such other similar evidence of identity as is acceptable to the Registrar;[Act 35 of 2014 wef 03/01/2016]
 
 “lay person”, in relation to the Complaints and Disciplinary Panel, a Complaints Committee or a Disciplinary Committee, means an architect, a banker, an advocate and solicitor, a company director, an insurer, a professional engineer, a medical practitioner or a person who possesses such other qualifications as may be approved by the Oversight Committee;
 
@@ -304,11 +290,7 @@ PRELIMINARY
 
 “voting share”, in relation to a company or an accounting corporation, means an issued share in the company or accounting corporation other than —
 
-(a)
-
- a share to which, in no circumstances, is there attached a right to vote; or(b)
-
- a share to which there is attached a right to vote only in one or more of the following circumstances:(i) during a period in which a dividend (or part of a dividend) in respect of the share is in arrears;
+ (a) a share to which, in no circumstances, is there attached a right to vote; or (b) a share to which there is attached a right to vote only in one or more of the following circumstances:(i) during a period in which a dividend (or part of a dividend) in respect of the share is in arrears;
 
 (ii) upon a proposal to reduce the share capital of the company or accounting corporation;
 
