@@ -2,21 +2,17 @@
 
 **(CHAPTER 2)**
 
-
-
 **Table of Contents**
 
+[**Long Title**](#Long-Title)
 
-
-**Long Title**
-
-**Part I PRELIMINARY**
+[**Part I PRELIMINARY**](#Part-I-PRELIMINARY)
 
 - 1 Short title
 
 - 2 Interpretation
 
-**Part II ADMINISTRATION OF ACT**
+[**Part II ADMINISTRATION OF ACT**](#Part-II-ADMINISTRATION-OF-ACT)
 
 - 3 Administration of Act
 
@@ -32,7 +28,7 @@
 
 - 9 Certificate of Registrar
 
-**Part III REGISTRATION OF PUBLIC ACCOUNTANTS**
+[**Part III REGISTRATION OF PUBLIC ACCOUNTANTS**](#Part-III-REGISTRATION-OF-PUBLIC-ACCOUNTANTS)
 
 - 10 Qualifications for registration
 
@@ -54,7 +50,7 @@
 
 - 16 Publication of list of public accountants
 
-**Part IV ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs**
+[**Part IV ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs**](#Part-IV-ACCOUNTING-CORPORATIONS,-ACCOUNTING-FIRMS-AND-ACCOUNTING-LLPs)
 
 - 17 Approval of accounting corporations
 
@@ -92,7 +88,7 @@
 
 - 31 Removal from Register of Public Accounting Corporations, Register of Public Accounting Firms or Register of Public Accounting Limited Liability Partnerships
 
-**Part V PRACTICE MONITORING PROGRAMME**
+[**Part V PRACTICE MONITORING PROGRAMME**](#Part-V-PRACTICE-MONITORING-PROGRAMME)
 
 - 32 Interpretation of this Part
 
@@ -108,7 +104,7 @@
 
 - 38 Consequences of failure to pass practice review
 
-**Part VI DISCIPLINARY PROCEEDINGS**
+[**Part VI DISCIPLINARY PROCEEDINGS**](#Part-VI-DISCIPLINARY-PROCEEDINGS)
 
 - 39 Appointment of Complaints and Disciplinary Panel
 
@@ -142,7 +138,7 @@
 
 - 54 Appeal against disciplinary orders of Oversight Committee
 
-**Part VII MISCELLANEOUS**
+[**Part VII MISCELLANEOUS**](#Part-VII-MISCELLANEOUS)
 
 - 55 Reinstatement to Register
 
@@ -166,7 +162,7 @@
 
 - 64A Service of documents on public accountant
 
-**Part VIII SAVINGS AND TRANSITIONAL PROVISIONS**
+[**Part VIII SAVINGS AND TRANSITIONAL PROVISIONS**](#Part-VIII-SAVINGS-AND-TRANSITIONAL-PROVISIONS)
 
 - 65 Savings and transitionals for repealed Accountants Act
 
@@ -180,12 +176,13 @@
 
 - 70 Transitional provisions relating to Institute of Certified Public Accountants of Singapore
 
-**THE SCHEDULE
-                Constitution and proceedings of Oversight Committee**
+[**THE SCHEDULE
+Constitution and proceedings of Oversight Committee**](#THE-SCHEDULE
+----------------Constitution-and-proceedings-of-Oversight-Committee)
 
-**Legislative Source Key**
+[**Legislative Source Key**](#Legislative-Source-Key)
 
-**Legislative History**
+[**Legislative History**](#Legislative-History)
 
 Accountants Act
 
@@ -203,4 +200,33 @@ An Act relating to public accountants.
 
 [1st April 2004]
 
+#### Part IV ACCOUNTING CORPORATIONS, ACCOUNTING FIRMS AND ACCOUNTING LLPs
 
+dsf ksadnf' sdf
+dsf
+sdfosdjf
+dsf
+ds]fds
+
+dsa
+fd
+s
+sad
+fds
+f
+ads
+fsd
+sd
+
+df
+dfa
+dfsd
+f
+dsa f
+s
+asd
+fsd
+f ds
+fsd
+
+s
